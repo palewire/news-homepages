@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 157 screenshots with the Internet Archive.
+The archiving routine has saved 158 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 157 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sternde-2022/sternde-2022-10-13T09:24:19.803404+02:00.jpg">
+  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-13T09:24:19.803404+02:00.jpg"
+     alt="Stern at 2022-10-13 09:24:27+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-13T09:24:19.803404+02:00.jpg">October 13 at 9:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sternde-2022/sternde-2022-10-12T20:47:53.701096+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-07T22:22:58.026394+02:00.jpg">October 7 at 10:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sternde-2022/sternde-2022-10-07T09:53:25.250332+02:00.jpg">
-  <img src="https://archive.org/download/sternde-2022/sternde-2022-10-07T09:53:25.250332+02:00.jpg"
-     alt="Stern at 2022-10-07 09:53:30+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sternde-2022/sternde-2022-10-07T09:53:25.250332+02:00.jpg">October 7 at 9:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 157 hyperlink lists with the Internet Archive.
+The archiving routine has saved 158 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 9:24 AM](https://archive.org/download/sternde-2022/sternde-2022-10-13T09:24:19.803404+02:00.hyperlinks.json) |
 | [October 12 at 8:48 PM](https://archive.org/download/sternde-2022/sternde-2022-10-12T20:47:53.701096+02:00.hyperlinks.json) |
 | [October 12 at 10:07 AM](https://archive.org/download/sternde-2022/sternde-2022-10-12T10:07:20.423709+02:00.hyperlinks.json) |
 | [October 11 at 9:17 PM](https://archive.org/download/sternde-2022/sternde-2022-10-11T21:16:42.353352+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 9:56 PM](https://archive.org/download/sternde-2022/sternde-2022-10-09T21:56:43.065928+02:00.hyperlinks.json) |
 | [October 9 at 9:29 AM](https://archive.org/download/sternde-2022/sternde-2022-10-09T09:29:45.430661+02:00.hyperlinks.json) |
 | [October 8 at 9:05 PM](https://archive.org/download/sternde-2022/sternde-2022-10-08T21:05:40.313601+02:00.hyperlinks.json) |
-| [October 8 at 9:10 AM](https://archive.org/download/sternde-2022/sternde-2022-10-08T09:10:34.268667+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 157 accessibility trees with the Internet Archive.
+The archiving routine has saved 158 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 9:24 AM](https://archive.org/download/sternde-2022/sternde-2022-10-13T09:24:19.803404+02:00.accessibility.json) |
 | [October 12 at 8:48 PM](https://archive.org/download/sternde-2022/sternde-2022-10-12T20:47:53.701096+02:00.accessibility.json) |
 | [October 12 at 10:07 AM](https://archive.org/download/sternde-2022/sternde-2022-10-12T10:07:20.423709+02:00.accessibility.json) |
 | [October 11 at 9:17 PM](https://archive.org/download/sternde-2022/sternde-2022-10-11T21:16:42.353352+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 9:56 PM](https://archive.org/download/sternde-2022/sternde-2022-10-09T21:56:43.065928+02:00.accessibility.json) |
 | [October 9 at 9:29 AM](https://archive.org/download/sternde-2022/sternde-2022-10-09T09:29:45.430661+02:00.accessibility.json) |
 | [October 8 at 9:05 PM](https://archive.org/download/sternde-2022/sternde-2022-10-08T21:05:40.313601+02:00.accessibility.json) |
-| [October 8 at 9:10 AM](https://archive.org/download/sternde-2022/sternde-2022-10-08T09:10:34.268667+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 9:24 AM](https://archive.org/download/sternde-2022/sternde-2022-10-13T09:24:19.803404+02:00.lighthouse.json) |
 | [October 12 at 8:48 PM](https://archive.org/download/sternde-2022/sternde-2022-10-12T20:47:53.701096+02:00.lighthouse.json) |
 | [October 12 at 10:07 AM](https://archive.org/download/sternde-2022/sternde-2022-10-12T10:07:20.423709+02:00.lighthouse.json) |
 | [October 11 at 9:17 PM](https://archive.org/download/sternde-2022/sternde-2022-10-11T21:16:42.353352+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 9:56 PM](https://archive.org/download/sternde-2022/sternde-2022-10-09T21:56:43.065928+02:00.lighthouse.json) |
 | [October 9 at 9:29 AM](https://archive.org/download/sternde-2022/sternde-2022-10-09T09:29:45.430661+02:00.lighthouse.json) |
 | [October 8 at 9:05 PM](https://archive.org/download/sternde-2022/sternde-2022-10-08T21:05:40.313601+02:00.lighthouse.json) |
-| [October 8 at 9:10 AM](https://archive.org/download/sternde-2022/sternde-2022-10-08T09:10:34.268667+02:00.lighthouse.json) |
 
 
 

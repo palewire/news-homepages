@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 236 screenshots with the Internet Archive.
+The archiving routine has saved 237 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 236 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/strikewave-2022/strikewave-2022-10-13T03:25:28.234455-04:00.jpg">
+  <img src="https://archive.org/download/strikewave-2022/strikewave-2022-10-13T03:25:28.234455-04:00.jpg"
+     alt="Strikewave at 2022-10-13 03:25:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-10-13T03:25:28.234455-04:00.jpg">October 13 at 3:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/strikewave-2022/strikewave-2022-10-12T15:30:42.673295-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-10-09T15:56:33.053625-04:00.jpg">October 9 at 3:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/strikewave-2022/strikewave-2022-10-09T03:29:44.459576-04:00.jpg">
-  <img src="https://archive.org/download/strikewave-2022/strikewave-2022-10-09T03:29:44.459576-04:00.jpg"
-     alt="Strikewave at 2022-10-09 03:29:50-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/strikewave-2022/strikewave-2022-10-09T03:29:44.459576-04:00.jpg">October 9 at 3:29 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 237 hyperlink lists with the Internet Archive.
+The archiving routine has saved 238 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 3:25 AM](https://archive.org/download/strikewave-2022/strikewave-2022-10-13T03:25:28.234455-04:00.hyperlinks.json) |
 | [October 12 at 3:30 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-12T15:30:42.673295-04:00.hyperlinks.json) |
 | [October 12 at 2:48 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-12T14:48:03.006126-04:00.hyperlinks.json) |
 | [October 12 at 4:08 AM](https://archive.org/download/strikewave-2022/strikewave-2022-10-12T04:08:44.094048-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 4:28 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-10T16:28:15.882175-04:00.hyperlinks.json) |
 | [October 10 at 4:11 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-10T16:11:29.744174-04:00.hyperlinks.json) |
 | [October 10 at 4:22 AM](https://archive.org/download/strikewave-2022/strikewave-2022-10-10T04:21:55.677940-04:00.hyperlinks.json) |
-| [October 9 at 4:04 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-09T16:04:07.005626-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 237 accessibility trees with the Internet Archive.
+The archiving routine has saved 238 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 3:25 AM](https://archive.org/download/strikewave-2022/strikewave-2022-10-13T03:25:28.234455-04:00.accessibility.json) |
 | [October 12 at 3:30 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-12T15:30:42.673295-04:00.accessibility.json) |
 | [October 12 at 2:48 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-12T14:48:03.006126-04:00.accessibility.json) |
 | [October 12 at 4:08 AM](https://archive.org/download/strikewave-2022/strikewave-2022-10-12T04:08:44.094048-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 4:28 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-10T16:28:15.882175-04:00.accessibility.json) |
 | [October 10 at 4:11 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-10T16:11:29.744174-04:00.accessibility.json) |
 | [October 10 at 4:22 AM](https://archive.org/download/strikewave-2022/strikewave-2022-10-10T04:21:55.677940-04:00.accessibility.json) |
-| [October 9 at 4:04 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-09T16:04:07.005626-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 236 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 237 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 3:25 AM](https://archive.org/download/strikewave-2022/strikewave-2022-10-13T03:25:28.234455-04:00.lighthouse.json) |
 | [October 12 at 3:30 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-12T15:30:42.673295-04:00.lighthouse.json) |
 | [October 12 at 2:48 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-12T14:48:03.006126-04:00.lighthouse.json) |
 | [October 12 at 4:08 AM](https://archive.org/download/strikewave-2022/strikewave-2022-10-12T04:08:44.094048-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 4:28 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-10T16:28:15.882175-04:00.lighthouse.json) |
 | [October 10 at 4:11 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-10T16:11:29.744174-04:00.lighthouse.json) |
 | [October 10 at 4:22 AM](https://archive.org/download/strikewave-2022/strikewave-2022-10-10T04:21:55.677940-04:00.lighthouse.json) |
-| [October 9 at 4:04 PM](https://archive.org/download/strikewave-2022/strikewave-2022-10-09T16:04:07.005626-04:00.lighthouse.json) |
 
 
 

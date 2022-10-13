@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 265 screenshots with the Internet Archive.
+The archiving routine has saved 267 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/propublica-2022/propublica-2022-10-13T03:21:23.117695-04:00.jpg">
+  <img src="https://archive.org/download/propublica-2022/propublica-2022-10-13T03:21:23.117695-04:00.jpg"
+     alt="ProPublica at 2022-10-13 03:21:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-10-13T03:21:23.117695-04:00.jpg">October 13 at 3:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/propublica-2022/propublica-2022-10-12T15:17:12.681030-04:00.jpg">
+  <img src="https://archive.org/download/propublica-2022/propublica-2022-10-12T15:17:12.681030-04:00.jpg"
+     alt="ProPublica at 2022-10-12 15:17:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/propublica-2022/propublica-2022-10-12T15:17:12.681030-04:00.jpg">October 12 at 3:17 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/propublica-2022/propublica-2022-10-12T04:04:11.343697-04:00.jpg">
   <img src="https://archive.org/download/propublica-2022/propublica-2022-10-12T04:04:11.343697-04:00.jpg"
      alt="ProPublica at 2022-10-12 04:04:21-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/propublica-2022/propublica-2022-10-07T15:49:41.304298-04:00.jpg">October 7 at 3:49 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/propublica-2022/propublica-2022-10-07T03:48:54.999594-04:00.jpg">
-  <img src="https://archive.org/download/propublica-2022/propublica-2022-10-07T03:48:54.999594-04:00.jpg"
-     alt="ProPublica at 2022-10-07 03:49:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-10-07T03:48:54.999594-04:00.jpg">October 7 at 3:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/propublica-2022/propublica-2022-10-06T15:39:54.872015-04:00.jpg">
-  <img src="https://archive.org/download/propublica-2022/propublica-2022-10-06T15:39:54.872015-04:00.jpg"
-     alt="ProPublica at 2022-10-06 15:40:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/propublica-2022/propublica-2022-10-06T15:39:54.872015-04:00.jpg">October 6 at 3:40 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 267 hyperlink lists with the Internet Archive.
+The archiving routine has saved 269 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 3:21 AM](https://archive.org/download/propublica-2022/propublica-2022-10-13T03:21:23.117695-04:00.hyperlinks.json) |
+| [October 12 at 3:17 PM](https://archive.org/download/propublica-2022/propublica-2022-10-12T15:17:12.681030-04:00.hyperlinks.json) |
 | [October 12 at 4:04 AM](https://archive.org/download/propublica-2022/propublica-2022-10-12T04:04:11.343697-04:00.hyperlinks.json) |
 | [October 11 at 3:12 PM](https://archive.org/download/propublica-2022/propublica-2022-10-11T15:12:02.182385-04:00.hyperlinks.json) |
 | [October 11 at 4:07 AM](https://archive.org/download/propublica-2022/propublica-2022-10-11T04:07:16.238224-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 3:23 PM](https://archive.org/download/propublica-2022/propublica-2022-10-09T15:23:19.375594-04:00.hyperlinks.json) |
 | [October 9 at 3:27 AM](https://archive.org/download/propublica-2022/propublica-2022-10-09T03:27:30.776892-04:00.hyperlinks.json) |
 | [October 8 at 3:17 PM](https://archive.org/download/propublica-2022/propublica-2022-10-08T15:17:48.775653-04:00.hyperlinks.json) |
-| [October 8 at 3:19 AM](https://archive.org/download/propublica-2022/propublica-2022-10-08T03:19:33.913274-04:00.hyperlinks.json) |
-| [October 7 at 3:49 PM](https://archive.org/download/propublica-2022/propublica-2022-10-07T15:49:41.304298-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 265 accessibility trees with the Internet Archive.
+The archiving routine has saved 267 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 3:21 AM](https://archive.org/download/propublica-2022/propublica-2022-10-13T03:21:23.117695-04:00.accessibility.json) |
+| [October 12 at 3:17 PM](https://archive.org/download/propublica-2022/propublica-2022-10-12T15:17:12.681030-04:00.accessibility.json) |
 | [October 12 at 4:04 AM](https://archive.org/download/propublica-2022/propublica-2022-10-12T04:04:11.343697-04:00.accessibility.json) |
 | [October 11 at 3:12 PM](https://archive.org/download/propublica-2022/propublica-2022-10-11T15:12:02.182385-04:00.accessibility.json) |
 | [October 11 at 4:07 AM](https://archive.org/download/propublica-2022/propublica-2022-10-11T04:07:16.238224-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 3:23 PM](https://archive.org/download/propublica-2022/propublica-2022-10-09T15:23:19.375594-04:00.accessibility.json) |
 | [October 9 at 3:27 AM](https://archive.org/download/propublica-2022/propublica-2022-10-09T03:27:30.776892-04:00.accessibility.json) |
 | [October 8 at 3:17 PM](https://archive.org/download/propublica-2022/propublica-2022-10-08T15:17:48.775653-04:00.accessibility.json) |
-| [October 8 at 3:19 AM](https://archive.org/download/propublica-2022/propublica-2022-10-08T03:19:33.913274-04:00.accessibility.json) |
-| [October 7 at 3:49 PM](https://archive.org/download/propublica-2022/propublica-2022-10-07T15:49:41.304298-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 3:21 AM](https://archive.org/download/propublica-2022/propublica-2022-10-13T03:21:23.117695-04:00.lighthouse.json) |
+| [October 12 at 3:17 PM](https://archive.org/download/propublica-2022/propublica-2022-10-12T15:17:12.681030-04:00.lighthouse.json) |
 | [October 12 at 4:04 AM](https://archive.org/download/propublica-2022/propublica-2022-10-12T04:04:11.343697-04:00.lighthouse.json) |
 | [October 11 at 3:12 PM](https://archive.org/download/propublica-2022/propublica-2022-10-11T15:12:02.182385-04:00.lighthouse.json) |
 | [October 11 at 4:07 AM](https://archive.org/download/propublica-2022/propublica-2022-10-11T04:07:16.238224-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 3:23 PM](https://archive.org/download/propublica-2022/propublica-2022-10-09T15:23:19.375594-04:00.lighthouse.json) |
 | [October 9 at 3:27 AM](https://archive.org/download/propublica-2022/propublica-2022-10-09T03:27:30.776892-04:00.lighthouse.json) |
 | [October 8 at 3:18 PM](https://archive.org/download/propublica-2022/propublica-2022-10-08T15:17:48.775653-04:00.lighthouse.json) |
-| [October 8 at 3:19 AM](https://archive.org/download/propublica-2022/propublica-2022-10-08T03:19:33.913274-04:00.lighthouse.json) |
-| [October 7 at 3:49 PM](https://archive.org/download/propublica-2022/propublica-2022-10-07T15:49:41.304298-04:00.lighthouse.json) |
 
 
 

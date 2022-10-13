@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/memphisnews-2022/memphisnews-2022-10-13T00:56:23.784055-05:00.jpg">
+  <img src="https://archive.org/download/memphisnews-2022/memphisnews-2022-10-13T00:56:23.784055-05:00.jpg"
+     alt="Commercial Appeal at 2022-10-13 00:56:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/memphisnews-2022/memphisnews-2022-10-13T00:56:23.784055-05:00.jpg">October 13 at 12:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/memphisnews-2022/memphisnews-2022-10-12T12:25:07.975244-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/memphisnews-2022/memphisnews-2022-10-07T13:03:15.175306-05:00.jpg">October 7 at 1:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/memphisnews-2022/memphisnews-2022-10-07T01:23:00.688327-05:00.jpg">
-  <img src="https://archive.org/download/memphisnews-2022/memphisnews-2022-10-07T01:23:00.688327-05:00.jpg"
-     alt="Commercial Appeal at 2022-10-07 01:23:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/memphisnews-2022/memphisnews-2022-10-07T01:23:00.688327-05:00.jpg">October 7 at 1:23 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 12:56 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-13T00:56:23.784055-05:00.hyperlinks.json) |
 | [October 12 at 12:25 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-12T12:25:07.975244-05:00.hyperlinks.json) |
 | [October 12 at 1:35 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-12T01:35:25.408510-05:00.hyperlinks.json) |
 | [October 11 at 12:46 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-11T12:46:10.519384-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 12:37 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-09T12:37:33.240988-05:00.hyperlinks.json) |
 | [October 9 at 12:23 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-09T00:23:35.117917-05:00.hyperlinks.json) |
 | [October 8 at 12:41 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-08T12:41:42.845443-05:00.hyperlinks.json) |
-| [October 8 at 12:45 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-08T00:45:23.855577-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 12:56 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-13T00:56:23.784055-05:00.accessibility.json) |
 | [October 12 at 12:25 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-12T12:25:07.975244-05:00.accessibility.json) |
 | [October 12 at 1:35 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-12T01:35:25.408510-05:00.accessibility.json) |
 | [October 11 at 12:46 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-11T12:46:10.519384-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 12:37 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-09T12:37:33.240988-05:00.accessibility.json) |
 | [October 9 at 12:23 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-09T00:23:35.117917-05:00.accessibility.json) |
 | [October 8 at 12:41 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-08T12:41:42.845443-05:00.accessibility.json) |
-| [October 8 at 12:45 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-08T00:45:23.855577-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 12:56 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-13T00:56:23.784055-05:00.lighthouse.json) |
 | [October 12 at 12:25 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-12T12:25:07.975244-05:00.lighthouse.json) |
 | [October 12 at 1:35 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-12T01:35:25.408510-05:00.lighthouse.json) |
 | [October 11 at 12:46 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-11T12:46:10.519384-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 12:37 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-09T12:37:33.240988-05:00.lighthouse.json) |
 | [October 9 at 12:23 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-09T00:23:35.117917-05:00.lighthouse.json) |
 | [October 8 at 12:41 PM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-08T12:41:42.845443-05:00.lighthouse.json) |
-| [October 8 at 12:45 AM](https://archive.org/download/memphisnews-2022/memphisnews-2022-10-08T00:45:23.855577-05:00.lighthouse.json) |
 
 
 

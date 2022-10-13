@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 156 screenshots with the Internet Archive.
+The archiving routine has saved 157 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 156 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tb_times-2022/tb_times-2022-10-13T03:25:07.374743-04:00.jpg">
+  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-10-13T03:25:07.374743-04:00.jpg"
+     alt="Tampa Bay Times at 2022-10-13 03:25:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-10-13T03:25:07.374743-04:00.jpg">October 13 at 3:25 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tb_times-2022/tb_times-2022-10-12T14:48:00.891096-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-10-07T16:23:13.419118-04:00.jpg">October 7 at 4:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tb_times-2022/tb_times-2022-10-07T03:53:42.382056-04:00.jpg">
-  <img src="https://archive.org/download/tb_times-2022/tb_times-2022-10-07T03:53:42.382056-04:00.jpg"
-     alt="Tampa Bay Times at 2022-10-07 03:53:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tb_times-2022/tb_times-2022-10-07T03:53:42.382056-04:00.jpg">October 7 at 3:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 156 hyperlink lists with the Internet Archive.
+The archiving routine has saved 157 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 3:25 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-13T03:25:07.374743-04:00.hyperlinks.json) |
 | [October 12 at 2:48 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-12T14:48:00.891096-04:00.hyperlinks.json) |
 | [October 12 at 4:09 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-12T04:09:25.775239-04:00.hyperlinks.json) |
 | [October 11 at 3:18 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-11T15:18:01.646105-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 3:56 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-09T15:56:13.591200-04:00.hyperlinks.json) |
 | [October 9 at 3:30 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-09T03:30:22.380335-04:00.hyperlinks.json) |
 | [October 8 at 3:06 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-08T15:06:04.174251-04:00.hyperlinks.json) |
-| [October 8 at 3:11 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-08T03:11:18.080181-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 157 accessibility trees with the Internet Archive.
+The archiving routine has saved 158 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 3:25 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-13T03:25:07.374743-04:00.accessibility.json) |
 | [October 12 at 2:48 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-12T14:48:00.891096-04:00.accessibility.json) |
 | [October 12 at 4:09 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-12T04:09:25.775239-04:00.accessibility.json) |
 | [October 11 at 3:18 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-11T15:18:01.646105-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 3:56 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-09T15:56:13.591200-04:00.accessibility.json) |
 | [October 9 at 3:30 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-09T03:30:22.380335-04:00.accessibility.json) |
 | [October 8 at 3:06 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-08T15:06:04.174251-04:00.accessibility.json) |
-| [October 8 at 3:11 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-08T03:11:18.080181-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 156 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 3:25 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-13T03:25:07.374743-04:00.lighthouse.json) |
 | [October 12 at 2:48 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-12T14:48:00.891096-04:00.lighthouse.json) |
 | [October 12 at 4:09 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-12T04:09:25.775239-04:00.lighthouse.json) |
 | [October 11 at 3:18 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-11T15:18:01.646105-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 3:56 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-09T15:56:13.591200-04:00.lighthouse.json) |
 | [October 9 at 3:30 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-09T03:30:22.380335-04:00.lighthouse.json) |
 | [October 8 at 3:06 PM](https://archive.org/download/tb_times-2022/tb_times-2022-10-08T15:06:04.174251-04:00.lighthouse.json) |
-| [October 8 at 3:11 AM](https://archive.org/download/tb_times-2022/tb_times-2022-10-08T03:11:18.080181-04:00.lighthouse.json) |
 
 
 

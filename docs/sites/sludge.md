@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 254 screenshots with the Internet Archive.
+The archiving routine has saved 256 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sludge-2022/sludge-2022-10-13T03:23:41.680332-04:00.jpg">
+  <img src="https://archive.org/download/sludge-2022/sludge-2022-10-13T03:23:41.680332-04:00.jpg"
+     alt="Sludge at 2022-10-13 03:23:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-10-13T03:23:41.680332-04:00.jpg">October 13 at 3:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sludge-2022/sludge-2022-10-12T15:20:33.780843-04:00.jpg">
+  <img src="https://archive.org/download/sludge-2022/sludge-2022-10-12T15:20:33.780843-04:00.jpg"
+     alt="Sludge at 2022-10-12 15:20:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sludge-2022/sludge-2022-10-12T15:20:33.780843-04:00.jpg">October 12 at 3:20 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sludge-2022/sludge-2022-10-12T04:06:24.702691-04:00.jpg">
   <img src="https://archive.org/download/sludge-2022/sludge-2022-10-12T04:06:24.702691-04:00.jpg"
      alt="Sludge at 2022-10-12 04:06:26-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sludge-2022/sludge-2022-10-07T15:53:18.616992-04:00.jpg">October 7 at 3:53 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sludge-2022/sludge-2022-10-07T03:51:22.305907-04:00.jpg">
-  <img src="https://archive.org/download/sludge-2022/sludge-2022-10-07T03:51:22.305907-04:00.jpg"
-     alt="Sludge at 2022-10-07 03:51:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-10-07T03:51:22.305907-04:00.jpg">October 7 at 3:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sludge-2022/sludge-2022-10-06T15:42:16.351505-04:00.jpg">
-  <img src="https://archive.org/download/sludge-2022/sludge-2022-10-06T15:42:16.351505-04:00.jpg"
-     alt="Sludge at 2022-10-06 15:42:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sludge-2022/sludge-2022-10-06T15:42:16.351505-04:00.jpg">October 6 at 3:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 256 hyperlink lists with the Internet Archive.
+The archiving routine has saved 258 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 3:23 AM](https://archive.org/download/sludge-2022/sludge-2022-10-13T03:23:41.680332-04:00.hyperlinks.json) |
+| [October 12 at 3:20 PM](https://archive.org/download/sludge-2022/sludge-2022-10-12T15:20:33.780843-04:00.hyperlinks.json) |
 | [October 12 at 4:06 AM](https://archive.org/download/sludge-2022/sludge-2022-10-12T04:06:24.702691-04:00.hyperlinks.json) |
 | [October 11 at 3:15 PM](https://archive.org/download/sludge-2022/sludge-2022-10-11T15:15:24.896280-04:00.hyperlinks.json) |
 | [October 11 at 4:09 AM](https://archive.org/download/sludge-2022/sludge-2022-10-11T04:09:37.316886-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 3:25 PM](https://archive.org/download/sludge-2022/sludge-2022-10-09T15:25:37.174386-04:00.hyperlinks.json) |
 | [October 9 at 3:29 AM](https://archive.org/download/sludge-2022/sludge-2022-10-09T03:29:00.887637-04:00.hyperlinks.json) |
 | [October 8 at 3:20 PM](https://archive.org/download/sludge-2022/sludge-2022-10-08T15:19:52.875623-04:00.hyperlinks.json) |
-| [October 8 at 3:22 AM](https://archive.org/download/sludge-2022/sludge-2022-10-08T03:22:14.989412-04:00.hyperlinks.json) |
-| [October 7 at 3:53 PM](https://archive.org/download/sludge-2022/sludge-2022-10-07T15:53:18.616992-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 257 accessibility trees with the Internet Archive.
+The archiving routine has saved 259 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 3:23 AM](https://archive.org/download/sludge-2022/sludge-2022-10-13T03:23:41.680332-04:00.accessibility.json) |
+| [October 12 at 3:20 PM](https://archive.org/download/sludge-2022/sludge-2022-10-12T15:20:33.780843-04:00.accessibility.json) |
 | [October 12 at 4:06 AM](https://archive.org/download/sludge-2022/sludge-2022-10-12T04:06:24.702691-04:00.accessibility.json) |
 | [October 11 at 3:15 PM](https://archive.org/download/sludge-2022/sludge-2022-10-11T15:15:24.896280-04:00.accessibility.json) |
 | [October 11 at 4:09 AM](https://archive.org/download/sludge-2022/sludge-2022-10-11T04:09:37.316886-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 3:25 PM](https://archive.org/download/sludge-2022/sludge-2022-10-09T15:25:37.174386-04:00.accessibility.json) |
 | [October 9 at 3:29 AM](https://archive.org/download/sludge-2022/sludge-2022-10-09T03:29:00.887637-04:00.accessibility.json) |
 | [October 8 at 3:20 PM](https://archive.org/download/sludge-2022/sludge-2022-10-08T15:19:52.875623-04:00.accessibility.json) |
-| [October 8 at 3:22 AM](https://archive.org/download/sludge-2022/sludge-2022-10-08T03:22:14.989412-04:00.accessibility.json) |
-| [October 7 at 3:53 PM](https://archive.org/download/sludge-2022/sludge-2022-10-07T15:53:18.616992-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 3:23 AM](https://archive.org/download/sludge-2022/sludge-2022-10-13T03:23:41.680332-04:00.lighthouse.json) |
+| [October 12 at 3:20 PM](https://archive.org/download/sludge-2022/sludge-2022-10-12T15:20:33.780843-04:00.lighthouse.json) |
 | [October 12 at 4:06 AM](https://archive.org/download/sludge-2022/sludge-2022-10-12T04:06:24.702691-04:00.lighthouse.json) |
 | [October 11 at 3:15 PM](https://archive.org/download/sludge-2022/sludge-2022-10-11T15:15:24.896280-04:00.lighthouse.json) |
 | [October 11 at 4:09 AM](https://archive.org/download/sludge-2022/sludge-2022-10-11T04:09:37.316886-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 3:25 PM](https://archive.org/download/sludge-2022/sludge-2022-10-09T15:25:37.174386-04:00.lighthouse.json) |
 | [October 9 at 3:29 AM](https://archive.org/download/sludge-2022/sludge-2022-10-09T03:29:00.887637-04:00.lighthouse.json) |
 | [October 8 at 3:20 PM](https://archive.org/download/sludge-2022/sludge-2022-10-08T15:19:52.875623-04:00.lighthouse.json) |
-| [October 8 at 3:22 AM](https://archive.org/download/sludge-2022/sludge-2022-10-08T03:22:14.989412-04:00.lighthouse.json) |
-| [October 7 at 3:53 PM](https://archive.org/download/sludge-2022/sludge-2022-10-07T15:53:18.616992-04:00.lighthouse.json) |
 
 
 

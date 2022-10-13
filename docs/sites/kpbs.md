@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 508 screenshots with the Internet Archive.
+The archiving routine has saved 510 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-12T22:54:34.634302-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-10-12T22:54:34.634302-07:00.jpg"
+     alt="KPBS at 2022-10-12 22:54:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-12T22:54:34.634302-07:00.jpg">October 12 at 10:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-12T12:34:30.286589-07:00.jpg">
+  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-10-12T12:34:30.286589-07:00.jpg"
+     alt="KPBS at 2022-10-12 12:34:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-12T12:34:30.286589-07:00.jpg">October 12 at 12:34 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-12T10:22:36.933335-07:00.jpg">
   <img src="https://archive.org/download/kpbs-2022/kpbs-2022-10-12T10:22:36.933335-07:00.jpg"
      alt="KPBS at 2022-10-12 10:23:01-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-09T10:35:45.473714-07:00.jpg">October 9 at 10:35 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-08T22:22:05.324368-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-10-08T22:22:05.324368-07:00.jpg"
-     alt="KPBS at 2022-10-08 22:22:07-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-08T22:22:05.324368-07:00.jpg">October 8 at 10:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-08T12:49:10.487990-07:00.jpg">
-  <img src="https://archive.org/download/kpbs-2022/kpbs-2022-10-08T12:49:10.487990-07:00.jpg"
-     alt="KPBS at 2022-10-08 12:49:11-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpbs-2022/kpbs-2022-10-08T12:49:10.487990-07:00.jpg">October 8 at 12:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 498 hyperlink lists with the Internet Archive.
+The archiving routine has saved 500 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 10:54 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-12T22:54:34.634302-07:00.hyperlinks.json) |
+| [October 12 at 12:34 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-12T12:34:30.286589-07:00.hyperlinks.json) |
 | [October 12 at 10:23 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-12T10:22:36.933335-07:00.hyperlinks.json) |
 | [October 11 at 11:32 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-11T23:32:32.823805-07:00.hyperlinks.json) |
 | [October 11 at 12:55 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-11T12:55:14.304835-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 1:30 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-10T13:30:44.567228-07:00.hyperlinks.json) |
 | [October 10 at 11:03 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-10T11:03:11.625774-07:00.hyperlinks.json) |
 | [October 10 at 1:15 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-10T01:15:30.961258-07:00.hyperlinks.json) |
-| [October 9 at 1:06 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-09T13:06:32.211681-07:00.hyperlinks.json) |
-| [October 9 at 10:36 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-09T10:35:45.473714-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 497 accessibility trees with the Internet Archive.
+The archiving routine has saved 499 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 10:54 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-12T22:54:34.634302-07:00.accessibility.json) |
+| [October 12 at 12:34 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-12T12:34:30.286589-07:00.accessibility.json) |
 | [October 12 at 10:23 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-12T10:22:36.933335-07:00.accessibility.json) |
 | [October 11 at 11:32 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-11T23:32:32.823805-07:00.accessibility.json) |
 | [October 11 at 12:55 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-11T12:55:14.304835-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 1:30 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-10T13:30:44.567228-07:00.accessibility.json) |
 | [October 10 at 11:03 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-10T11:03:11.625774-07:00.accessibility.json) |
 | [October 10 at 1:15 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-10T01:15:30.961258-07:00.accessibility.json) |
-| [October 9 at 1:06 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-09T13:06:32.211681-07:00.accessibility.json) |
-| [October 9 at 10:35 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-09T10:35:45.473714-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 234 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 236 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 10:54 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-12T22:54:34.634302-07:00.lighthouse.json) |
+| [October 12 at 12:34 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-12T12:34:30.286589-07:00.lighthouse.json) |
 | [October 12 at 10:23 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-12T10:22:36.933335-07:00.lighthouse.json) |
 | [October 11 at 11:32 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-11T23:32:32.823805-07:00.lighthouse.json) |
 | [October 11 at 12:55 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-11T12:55:14.304835-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 1:30 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-10T13:30:44.567228-07:00.lighthouse.json) |
 | [October 10 at 11:03 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-10T11:03:11.625774-07:00.lighthouse.json) |
 | [October 10 at 1:15 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-10T01:15:30.961258-07:00.lighthouse.json) |
-| [October 9 at 1:06 PM](https://archive.org/download/kpbs-2022/kpbs-2022-10-09T13:06:32.211681-07:00.lighthouse.json) |
-| [October 9 at 10:36 AM](https://archive.org/download/kpbs-2022/kpbs-2022-10-09T10:35:45.473714-07:00.lighthouse.json) |
 
 
 

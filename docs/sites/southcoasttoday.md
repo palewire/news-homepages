@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-13T03:24:22.571932-04:00.jpg">
+  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-13T03:24:22.571932-04:00.jpg"
+     alt="SouthCoastToday.com at 2022-10-13 03:24:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-13T03:24:22.571932-04:00.jpg">October 13 at 3:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T15:21:53.336963-04:00.jpg">
+  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T15:21:53.336963-04:00.jpg"
+     alt="SouthCoastToday.com at 2022-10-12 15:21:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T15:21:53.336963-04:00.jpg">October 12 at 3:21 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T04:06:38.592088-04:00.jpg">
   <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T04:06:38.592088-04:00.jpg"
      alt="SouthCoastToday.com at 2022-10-12 04:06:40-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-07T15:54:32.414204-04:00.jpg">October 7 at 3:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-07T03:51:22.309422-04:00.jpg">
-  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-07T03:51:22.309422-04:00.jpg"
-     alt="SouthCoastToday.com at 2022-10-07 03:51:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-07T03:51:22.309422-04:00.jpg">October 7 at 3:51 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-06T15:42:32.813530-04:00.jpg">
-  <img src="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-06T15:42:32.813530-04:00.jpg"
-     alt="SouthCoastToday.com at 2022-10-06 15:42:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-06T15:42:32.813530-04:00.jpg">October 6 at 3:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 3:24 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-13T03:24:22.571932-04:00.hyperlinks.json) |
+| [October 12 at 3:22 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T15:21:53.336963-04:00.hyperlinks.json) |
 | [October 12 at 4:06 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T04:06:38.592088-04:00.hyperlinks.json) |
 | [October 11 at 3:14 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-11T15:14:47.725364-04:00.hyperlinks.json) |
 | [October 11 at 4:10 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-11T04:10:10.733707-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 3:25 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-09T15:25:25.702829-04:00.hyperlinks.json) |
 | [October 9 at 3:29 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-09T03:29:20.833423-04:00.hyperlinks.json) |
 | [October 8 at 3:20 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-08T15:20:06.398822-04:00.hyperlinks.json) |
-| [October 8 at 3:22 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-08T03:22:19.497413-04:00.hyperlinks.json) |
-| [October 7 at 3:54 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-07T15:54:32.414204-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 3:24 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-13T03:24:22.571932-04:00.accessibility.json) |
+| [October 12 at 3:21 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T15:21:53.336963-04:00.accessibility.json) |
 | [October 12 at 4:06 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T04:06:38.592088-04:00.accessibility.json) |
 | [October 11 at 3:14 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-11T15:14:47.725364-04:00.accessibility.json) |
 | [October 11 at 4:10 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-11T04:10:10.733707-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 3:25 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-09T15:25:25.702829-04:00.accessibility.json) |
 | [October 9 at 3:29 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-09T03:29:20.833423-04:00.accessibility.json) |
 | [October 8 at 3:20 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-08T15:20:06.398822-04:00.accessibility.json) |
-| [October 8 at 3:22 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-08T03:22:19.497413-04:00.accessibility.json) |
-| [October 7 at 3:54 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-07T15:54:32.414204-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 43 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 3:24 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-13T03:24:22.571932-04:00.lighthouse.json) |
+| [October 12 at 3:22 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-12T15:21:53.336963-04:00.lighthouse.json) |
 | [October 11 at 3:14 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-11T15:14:47.725364-04:00.lighthouse.json) |
 | [October 11 at 4:10 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-11T04:10:10.733707-04:00.lighthouse.json) |
 | [October 10 at 3:49 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-10T15:49:07.351084-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 3:29 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-09T03:29:20.833423-04:00.lighthouse.json) |
 | [October 8 at 3:20 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-08T15:20:06.398822-04:00.lighthouse.json) |
 | [October 8 at 3:22 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-08T03:22:19.497413-04:00.lighthouse.json) |
-| [October 7 at 3:54 PM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-07T15:54:32.414204-04:00.lighthouse.json) |
-| [October 7 at 3:51 AM](https://archive.org/download/southcoasttoday-2022/southcoasttoday-2022-10-07T03:51:22.309422-04:00.lighthouse.json) |
 
 
 

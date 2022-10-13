@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 225 screenshots with the Internet Archive.
+The archiving routine has saved 226 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 225 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-13T01:58:12.339081-04:00.jpg">
+  <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-13T01:58:12.339081-04:00.jpg"
+     alt="Montreal Gazette at 2022-10-13 01:58:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-13T01:58:12.339081-04:00.jpg">October 13 at 1:58 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-12T13:25:30.889136-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-07T14:03:35.539464-04:00.jpg">October 7 at 2:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-07T02:22:21.168478-04:00.jpg">
-  <img src="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-07T02:22:21.168478-04:00.jpg"
-     alt="Montreal Gazette at 2022-10-07 02:22:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-07T02:22:21.168478-04:00.jpg">October 7 at 2:22 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 224 hyperlink lists with the Internet Archive.
+The archiving routine has saved 225 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 1:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-13T01:58:12.339081-04:00.hyperlinks.json) |
 | [October 12 at 1:25 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-12T13:25:30.889136-04:00.hyperlinks.json) |
 | [October 12 at 2:35 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-12T02:35:29.680419-04:00.hyperlinks.json) |
 | [October 11 at 1:47 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-11T13:47:55.728732-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 1:37 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-09T13:37:42.012310-04:00.hyperlinks.json) |
 | [October 9 at 1:25 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-09T01:25:49.697168-04:00.hyperlinks.json) |
 | [October 8 at 1:42 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-08T13:41:58.723681-04:00.hyperlinks.json) |
-| [October 8 at 1:45 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-08T01:45:15.330546-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 224 accessibility trees with the Internet Archive.
+The archiving routine has saved 225 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 1:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-13T01:58:12.339081-04:00.accessibility.json) |
 | [October 12 at 1:25 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-12T13:25:30.889136-04:00.accessibility.json) |
 | [October 12 at 2:35 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-12T02:35:29.680419-04:00.accessibility.json) |
 | [October 11 at 1:47 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-11T13:47:55.728732-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 1:37 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-09T13:37:42.012310-04:00.accessibility.json) |
 | [October 9 at 1:25 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-09T01:25:49.697168-04:00.accessibility.json) |
 | [October 8 at 1:42 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-08T13:41:58.723681-04:00.accessibility.json) |
-| [October 8 at 1:45 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-08T01:45:15.330546-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 1:58 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-13T01:58:12.339081-04:00.lighthouse.json) |
 | [October 12 at 1:25 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-12T13:25:30.889136-04:00.lighthouse.json) |
 | [October 12 at 2:35 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-12T02:35:29.680419-04:00.lighthouse.json) |
 | [October 11 at 1:48 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-11T13:47:55.728732-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 1:37 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-09T13:37:42.012310-04:00.lighthouse.json) |
 | [October 9 at 1:25 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-09T01:25:49.697168-04:00.lighthouse.json) |
 | [October 8 at 1:42 PM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-08T13:41:58.723681-04:00.lighthouse.json) |
-| [October 8 at 1:45 AM](https://archive.org/download/mtlgazette-2022/mtlgazette-2022-10-08T01:45:15.330546-04:00.lighthouse.json) |
 
 
 
