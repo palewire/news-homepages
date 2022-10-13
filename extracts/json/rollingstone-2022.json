@@ -1,5 +1,6 @@
 {
-  "created": 1665584264,
+  "conflict": 1665628015,
+  "created": 1665628015,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/rollingstone-2022",
@@ -12665,10 +12666,61 @@
     "publicdate": "2022-06-24 23:00:28",
     "addeddate": "2022-06-24 23:00:28"
   },
+  "pending_tasks": true,
   "server": "ia801500.us.archive.org",
-  "uniq": 965186780,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3437703778,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437703805,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437703826,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437703853,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437703869,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437708022,
+      "cmd": "archive.php",
+      "priority": 1,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 137409921,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia801500.us.archive.org"
   ]
 }

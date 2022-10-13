@@ -1,5 +1,5 @@
 {
-  "created": 1665584132,
+  "created": 1665627890,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/5/items/scotusblog-2022",
@@ -12762,31 +12762,93 @@
       "sha1": "f83c4f77c5c2176d0a0c77ce559ec875a2580865"
     },
     {
+      "name": "scotusblog-2022-10-12T22:22:35.365811-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665627758",
+      "size": "55961",
+      "md5": "50122d6b44586aa24daaa6d554d65f53",
+      "crc32": "3b82b400",
+      "sha1": "76017d375a89204e5c6bb49b21df776c05b1ca49",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-10-12T22:22:35.365811-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665627759",
+      "size": "26417",
+      "md5": "906e1edec68cee4bdb6f610b12a5eb85",
+      "crc32": "4db7f6a1",
+      "sha1": "4724e1a8cfbea07638773ec08a2b8b6ce1d14e3c",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-10-12T22:22:35.365811-04:00.jpg",
+      "source": "original",
+      "mtime": "1665627756",
+      "size": "342539",
+      "md5": "7ddb1f9855d23df924ed0d3c3e56cbd8",
+      "crc32": "65591c5a",
+      "sha1": "d396a6dba9bf05574a1284624c5b1cfd61c8d6ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotusblog-2022-10-12T22:22:35.365811-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665627761",
+      "size": "1495",
+      "md5": "fc9a1ce72b77995363f78fe39d1842ba",
+      "crc32": "73875ea8",
+      "sha1": "328d0b81359e1612b1df19481551bf497683804c",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-10-12T22:22:35.365811-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665627763",
+      "size": "24016",
+      "md5": "eee496c674e92edea307af9e78bd9f37",
+      "crc32": "0663c192",
+      "sha1": "81866488a7ba67a2fd7cf836235b704e68f5aba2",
+      "format": "JSON"
+    },
+    {
+      "name": "scotusblog-2022-10-12T22:22:35.365811-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotusblog-2022-10-12T22:22:35.365811-04:00.jpg",
+      "mtime": "1665627843",
+      "size": "10151",
+      "md5": "7f7e9edf7875def448c10f38ac4f23b1",
+      "crc32": "e0ed907c",
+      "sha1": "789c3d16c15b2e6298caf46030adbea9f78fd29c"
+    },
+    {
       "name": "scotusblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a783dcdd754399998d0d2fe539629684b6028e3",
-      "mtime": "1665584058",
-      "size": "262742",
-      "md5": "82629b0f76d3846d4375285443839fcd",
-      "crc32": "838a31c7",
-      "sha1": "f48b955045eef17e85cbc570ae2142fa15b703d6",
+      "btih": "e00dc764d99be49ff878e8079faf385f24e6d1e6",
+      "mtime": "1665627876",
+      "size": "264022",
+      "md5": "14ee42e8686a14203fa0e6072a7a9622",
+      "crc32": "ef48e4f1",
+      "sha1": "1733ee3b186382102d908c9762738196d501556d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotusblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6cf9d30045245bc33f954f76383ea37f",
+      "md5": "426e69a24e090ba0ec127db012e8cc18",
       "summation": "md5"
     },
     {
       "name": "scotusblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665583917",
-      "size": "1536000",
-      "md5": "98eaa96e0ed7983da78a2c56f7c90bf0",
-      "crc32": "a6e4403f",
-      "sha1": "049c2716b390866397309419f190978af881c8af",
+      "mtime": "1665627769",
+      "size": "1544192",
+      "md5": "2300cc46c7fd288ee3ce6ab5bfa75e05",
+      "crc32": "961d3b2c",
+      "sha1": "10cb8b6706724aa38edc257bb3cad494c671dbbd",
       "format": "Metadata"
     },
     {
@@ -12800,9 +12862,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1233,
-  "item_last_updated": 1665584058,
-  "item_size": 94983736,
+  "files_count": 1239,
+  "item_last_updated": 1665627876,
+  "item_size": 95453787,
   "metadata": {
     "identifier": "scotusblog-2022",
     "collection": [
@@ -12819,10 +12881,10 @@
     "publicdate": "2022-06-24 23:01:00",
     "addeddate": "2022-06-24 23:01:00"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 536719127,
+  "server": "ia902503.us.archive.org",
+  "uniq": 234745032,
   "workable_servers": [
-    "ia802503.us.archive.org",
-    "ia902503.us.archive.org"
+    "ia902503.us.archive.org",
+    "ia802503.us.archive.org"
   ]
 }

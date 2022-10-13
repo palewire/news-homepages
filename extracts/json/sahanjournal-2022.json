@@ -1,5 +1,6 @@
 {
-  "created": 1665584130,
+  "conflict": 1665628030,
+  "created": 1665628030,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/11/items/sahanjournal-2022",
@@ -17587,10 +17588,61 @@
     "publicdate": "2022-04-01 22:42:14",
     "addeddate": "2022-04-01 22:42:14"
   },
+  "pending_tasks": true,
   "server": "ia801500.us.archive.org",
-  "uniq": 1971980681,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3437703340,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437703381,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437703426,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437703469,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437703518,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437708024,
+      "cmd": "archive.php",
+      "priority": 1,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 722027803,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia801500.us.archive.org"
   ]
 }
