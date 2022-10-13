@@ -1,5 +1,5 @@
 {
-  "created": 1665627664,
+  "created": 1665673180,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/nzstuff-2022",
@@ -8542,31 +8542,93 @@
       "sha1": "121a4dafde5f32593570ebaf32aac31b506eb299"
     },
     {
+      "name": "nzstuff-2022-10-14T03:13:38.598196+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665670423",
+      "size": "456",
+      "md5": "2b1a879b89b885c43b627c2329a83c74",
+      "crc32": "3bbc9b0e",
+      "sha1": "a6cdf940626c55b387a10b222e656ff85be70054",
+      "format": "JSON"
+    },
+    {
+      "name": "nzstuff-2022-10-14T03:13:38.598196+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665670424",
+      "size": "69123",
+      "md5": "9b92c0f876ce252a845c2d2b75dbf49a",
+      "crc32": "7a89ff51",
+      "sha1": "72bf215ad462a169af0f4c9fb1f966440c752469",
+      "format": "JSON"
+    },
+    {
+      "name": "nzstuff-2022-10-14T03:13:38.598196+13:00.jpg",
+      "source": "original",
+      "mtime": "1665670422",
+      "size": "294199",
+      "md5": "8d6697a5fb77a67e5edc22a39ee96f61",
+      "crc32": "9e69e3a3",
+      "sha1": "df3620749e39bb99bdd3274c415316c5c36f9d7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzstuff-2022-10-14T03:13:38.598196+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665670427",
+      "size": "1450",
+      "md5": "5d2258dd48e5a984d9ddf4e0425c46e8",
+      "crc32": "a434a134",
+      "sha1": "97dc86634790b004f3a796373e8b1d49dab34a20",
+      "format": "JSON"
+    },
+    {
+      "name": "nzstuff-2022-10-14T03:13:38.598196+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665670429",
+      "size": "100",
+      "md5": "36478651d166b32f8f685beffabb09ee",
+      "crc32": "b4c56126",
+      "sha1": "713beead69a7c4a491193f6225b9b24f3140c2d8",
+      "format": "JSON"
+    },
+    {
+      "name": "nzstuff-2022-10-14T03:13:38.598196+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzstuff-2022-10-14T03:13:38.598196+13:00.jpg",
+      "mtime": "1665670514",
+      "size": "9000",
+      "md5": "9f0ebfa6d6058712d73629974010c73c",
+      "crc32": "570cea26",
+      "sha1": "a969e99d499b7aef68bae53bc344085d25b4f3b9"
+    },
+    {
       "name": "nzstuff-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f7a6c6c799a1947d45a153f803ecdcae112e203",
-      "mtime": "1665627650",
-      "size": "174151",
-      "md5": "02e5e340f4c8d247744c3e79d00c457f",
-      "crc32": "5ff26f02",
-      "sha1": "b0db3197f7bc572c6a9e940c39ee09b0a3abc3c4",
+      "btih": "a8060221c0e5cf09d8cbc37dd0e2486243068612",
+      "mtime": "1665670536",
+      "size": "175408",
+      "md5": "9350eeeccfb4cc99a68706d3535953ef",
+      "crc32": "79bd03fd",
+      "sha1": "dfae08d2ae3fcbcc62d89fdf8608988ed50b3168",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nzstuff-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88cd10df688a485b5e66f8ed47e998fb",
+      "md5": "76116332e2326770ba935597b40292ed",
       "summation": "md5"
     },
     {
       "name": "nzstuff-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665627576",
-      "size": "1060864",
-      "md5": "139bfae8937a16e0ba398fe5d89e4e56",
-      "crc32": "0bb09b1d",
-      "sha1": "7f8aaaf931a0d05801af917be73d79ea8e53318a",
+      "mtime": "1665670436",
+      "size": "1069056",
+      "md5": "aab4fee441250568b04072b73071a9de",
+      "crc32": "08df0acc",
+      "sha1": "f69e7c63be8e50d4caf80fa0e823fd7ab6568ec9",
       "format": "Metadata"
     },
     {
@@ -8580,9 +8642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 830,
-  "item_last_updated": 1665627650,
-  "item_size": 60465470,
+  "files_count": 836,
+  "item_last_updated": 1665670536,
+  "item_size": 60849247,
   "metadata": {
     "identifier": "nzstuff-2022",
     "collection": [
@@ -8599,8 +8661,12 @@
     "publicdate": "2022-08-05 12:42:19",
     "addeddate": "2022-08-05 12:42:19"
   },
+  "nzstuff-2022": {
+    "url": "https://www.stuff.co.nz/",
+    "job_id": "spn2-9d9fcbbdb75cd9a542fa0191d49c5512c24e4f72"
+  },
   "server": "ia801408.us.archive.org",
-  "uniq": 270545860,
+  "uniq": 785574332,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

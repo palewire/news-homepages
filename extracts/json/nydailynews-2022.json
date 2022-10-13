@@ -1,5 +1,5 @@
 {
-  "created": 1665627752,
+  "created": 1665670438,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nydailynews-2022",
@@ -11464,31 +11464,93 @@
       "sha1": "04cc53e938d8e619415b25cb0f1aea91238a8451"
     },
     {
+      "name": "nydailynews-2022-10-13T10:11:00.334252-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665670271",
+      "size": "34698",
+      "md5": "2a13cc95241aec2e4fdd930c7bfb0713",
+      "crc32": "5e189d11",
+      "sha1": "1151f6b74eb10ee688664c08eb87a247146a6362",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-10-13T10:11:00.334252-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665670273",
+      "size": "43353",
+      "md5": "c1539770b53c4d50f65255e793cabf10",
+      "crc32": "19b6b0fc",
+      "sha1": "d5bc94da29f74faf92a7cb8496a4b4b09090a3d2",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-10-13T10:11:00.334252-04:00.jpg",
+      "source": "original",
+      "mtime": "1665670269",
+      "size": "284043",
+      "md5": "99098fe83dde2467d6e9691a00b9fe70",
+      "crc32": "a5237dd9",
+      "sha1": "8aded375f56f98c52cd441664641eee3045df258",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nydailynews-2022-10-13T10:11:00.334252-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665670275",
+      "size": "1501",
+      "md5": "4c1dedf53cf72daac23d344ad9632cd4",
+      "crc32": "cfd682a6",
+      "sha1": "90620d96b19db46b15083a6e325c9056773bd3df",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-10-13T10:11:00.334252-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665670278",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-10-13T10:11:00.334252-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nydailynews-2022-10-13T10:11:00.334252-04:00.jpg",
+      "mtime": "1665670376",
+      "size": "9279",
+      "md5": "5967592c3090eb4182df5c4db74e46f0",
+      "crc32": "b0d174cb",
+      "sha1": "e496299fa4bacbf51a68550292e56874aba39fae"
+    },
+    {
       "name": "nydailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "058203ffe42e0a1c0b77114a003ab0e281762d91",
-      "mtime": "1665627704",
-      "size": "237864",
-      "md5": "9dd88f1655954240b5aa9523a6a69f6e",
-      "crc32": "64124a98",
-      "sha1": "3ec7f062a4db89b7ae43c0cfc10fa7d814659c84",
+      "btih": "340038ced88cd95d53adea3fb3a88125a78b8317",
+      "mtime": "1665670397",
+      "size": "239147",
+      "md5": "2a761b5f8766f93f1fcc40eb000c487b",
+      "crc32": "82968b38",
+      "sha1": "caac4fbd9e77bd0f5af64e67a5fe8b8268323f20",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nydailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a73ddd5349f3432c074ceadb237f79cc",
+      "md5": "961abdbbbac4513d9a6472c6bfda2ad1",
       "summation": "md5"
     },
     {
       "name": "nydailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665627612",
-      "size": "1388544",
-      "md5": "541557e95dc7d418795ce0ddf0351c0e",
-      "crc32": "958da390",
-      "sha1": "b7b710e9b836f68a04dc4d1dd0c7673ec6f1df6b",
+      "mtime": "1665670284",
+      "size": "1396736",
+      "md5": "442a2537c5cb14826219e5a68282c52a",
+      "crc32": "2d29ea24",
+      "sha1": "faaab41b98fd3d9f0431f4260feca0e4c0d6db8e",
       "format": "Metadata"
     },
     {
@@ -11502,9 +11564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1109,
-  "item_last_updated": 1665627704,
-  "item_size": 92694954,
+  "files_count": 1115,
+  "item_last_updated": 1665670397,
+  "item_size": 93077505,
   "metadata": {
     "identifier": "nydailynews-2022",
     "collection": [
@@ -11521,10 +11583,10 @@
     "publicdate": "2022-07-04 21:50:33",
     "addeddate": "2022-07-04 21:50:33"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 243594751,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1520732920,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

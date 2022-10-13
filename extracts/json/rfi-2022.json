@@ -1,6 +1,5 @@
 {
-  "conflict": 1665649861,
-  "created": 1665631880,
+  "created": 1665668163,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/rfi-2022",
@@ -17694,6 +17693,7 @@
     }
   ],
   "files_count": 1706,
+  "has_redrow": true,
   "item_last_updated": 1665627884,
   "item_size": 113375056,
   "metadata": {
@@ -17713,16 +17713,16 @@
     "addeddate": "2022-06-30 22:26:42"
   },
   "pending_tasks": true,
-  "server": "ia801506.us.archive.org",
+  "server": "ia601506.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
       "task_id": 3438095761,
       "cmd": "archive.php",
       "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
     },
     {
       "task_id": 3438095810,
@@ -17755,10 +17755,50 @@
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
+    },
+    {
+      "task_id": 3438410031,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3438410057,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3438410092,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3438410117,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3438410139,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1148304733,
+  "uniq": 683565277,
   "workable_servers": [
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }
