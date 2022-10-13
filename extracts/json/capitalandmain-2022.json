@@ -1,5 +1,10 @@
 {
-  "created": 1665635974,
+  "capitalandmain-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665680994,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/31/items/capitalandmain-2022",
@@ -14360,31 +14365,93 @@
       "sha1": "67ae31fe6d69b4a1eebbe8d12018e49179915636"
     },
     {
+      "name": "capitalandmain-2022-10-13T09:09:46.841025-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665677410",
+      "size": "14063",
+      "md5": "42c61136fe62aeb9b9df356bc5146404",
+      "crc32": "8331da50",
+      "sha1": "2bf6ef78d76e2d5f59c396edbf5e9120f193ccfd",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-13T09:09:46.841025-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665677412",
+      "size": "26697",
+      "md5": "3e23c01365c0c84d88a2775371403fe6",
+      "crc32": "ef214cfe",
+      "sha1": "1c6ecc1437b8b84c384cf99dd40de4a7d74ac064",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-13T09:09:46.841025-07:00.jpg",
+      "source": "original",
+      "mtime": "1665677408",
+      "size": "287616",
+      "md5": "fefedad1b7b15e35b1eae64ecdd95eb0",
+      "crc32": "9867395d",
+      "sha1": "9d7d8e12dcfce79f2a58510b90fb930eac2c64c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitalandmain-2022-10-13T09:09:46.841025-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665677414",
+      "size": "1493",
+      "md5": "2ce1b86586c584e352a1754b8636248e",
+      "crc32": "984bae13",
+      "sha1": "6f7fc1308388e948db4a06562e2cd3ae778dff22",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-13T09:09:46.841025-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665677415",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-13T09:09:46.841025-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitalandmain-2022-10-13T09:09:46.841025-07:00.jpg",
+      "mtime": "1665677495",
+      "size": "11975",
+      "md5": "a65f22282bd389fc974e7b17edfa2023",
+      "crc32": "0b7dab8d",
+      "sha1": "67ae31fe6d69b4a1eebbe8d12018e49179915636"
+    },
+    {
       "name": "capitalandmain-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a565e488745064eaf51cf8c10d66765951e80428",
-      "mtime": "1665635966",
-      "size": "301766",
-      "md5": "0510ec57d435d284dccf0be874da779b",
-      "crc32": "e4a1a972",
-      "sha1": "cb72a424c7b0434074affbe4e705e9f568d7fa07",
+      "btih": "d404b69819a002b11f6b77a2295b7903490fb73a",
+      "mtime": "1665677511",
+      "size": "303048",
+      "md5": "c5122ef5eacedfc136ab50471bd668ad",
+      "crc32": "a7c9d11d",
+      "sha1": "c82c016939e82919a2261db127b687be5c24c2e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitalandmain-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c7e97992edc68c570044ba41be1cf34a",
+      "md5": "53e81569deaf999f7fbadb0729e1e7c8",
       "summation": "md5"
     },
     {
       "name": "capitalandmain-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665635853",
-      "size": "1781760",
-      "md5": "eee9ef204ca5753f866bead219abed7b",
-      "crc32": "5870efa5",
-      "sha1": "0251a7eb2bee0934ab6a2add92e69fe273460275",
+      "mtime": "1665677421",
+      "size": "1785856",
+      "md5": "56fc984905649734dda6f51de2b50ea9",
+      "crc32": "7076f31a",
+      "sha1": "3b847d249d5d96dfbbb46aaf9569ec2c748f3def",
       "format": "Metadata"
     },
     {
@@ -14398,9 +14465,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1392,
-  "item_last_updated": 1665635966,
-  "item_size": 89526488,
+  "files_count": 1398,
+  "item_last_updated": 1665677511,
+  "item_size": 89873912,
   "metadata": {
     "identifier": "capitalandmain-2022",
     "collection": [
@@ -14418,7 +14485,7 @@
     "addeddate": "2022-07-23 18:23:54"
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 496379938,
+  "uniq": 69120736,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

@@ -1,5 +1,10 @@
 {
-  "created": 1665635932,
+  "bariweiss-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665680879,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/bariweiss-2022",
@@ -15178,31 +15183,93 @@
       "sha1": "feb5f801b5b05cb2caa0c18adf70ca9e7cebc721"
     },
     {
+      "name": "bariweiss-2022-10-13T09:09:50.557078-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665677410",
+      "size": "14746",
+      "md5": "184a0dc34892bcc081a1b073b9ca3348",
+      "crc32": "419ce3a4",
+      "sha1": "8481420be353fa499b61e7dbaddd87e58e09e828",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-13T09:09:50.557078-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665677412",
+      "size": "13927",
+      "md5": "506f82757ec2dbcee2b916aaefbf797d",
+      "crc32": "2c22eea8",
+      "sha1": "2757d5740eda836b0eeff3e826beb668be55e28c",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-13T09:09:50.557078-07:00.jpg",
+      "source": "original",
+      "mtime": "1665677408",
+      "size": "227565",
+      "md5": "2226f2ecf5e4e427738eb829b5e80e91",
+      "crc32": "e7e874a5",
+      "sha1": "f7d6e11b519079f60c74d921d56e4d053b0d7e5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bariweiss-2022-10-13T09:09:50.557078-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665677413",
+      "size": "1503",
+      "md5": "5f5f0a80c796d13c97747953efd8413a",
+      "crc32": "d3112577",
+      "sha1": "cd769cb121f3ec9f9f069f1b9ecd8767c8e7f4c4",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-13T09:09:50.557078-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665677415",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-13T09:09:50.557078-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bariweiss-2022-10-13T09:09:50.557078-07:00.jpg",
+      "mtime": "1665677521",
+      "size": "8441",
+      "md5": "f6e6fe14457c6fb9b3025b41040db886",
+      "crc32": "c5c7eab6",
+      "sha1": "ccaa3bea8a059f24ae3acc6eada057fcf7f48af5"
+    },
+    {
       "name": "bariweiss-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4888acbb9fcdcdb0118d8eaf5a960fecf4bee384",
-      "mtime": "1665635917",
-      "size": "310472",
-      "md5": "7078588f2cbcb3e7c2d618614719a3c6",
-      "crc32": "bf1bf508",
-      "sha1": "56db5a9eef222fb114b78836e3333941bdb20683",
+      "btih": "623eb52fccce2b41cc4af44e3e34be3df4beea76",
+      "mtime": "1665677540",
+      "size": "311743",
+      "md5": "a3820172c4ace75cf9adcd4d8d3b4b3e",
+      "crc32": "48433b3e",
+      "sha1": "7807ad75a39c09479fe8cece717e75d948a212e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bariweiss-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e78e6ca0ddcbf96d7a7085f17bbd01b4",
+      "md5": "a3dc4eb990c36a887aa68cedd79a9c8a",
       "summation": "md5"
     },
     {
       "name": "bariweiss-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665635820",
-      "size": "1855488",
-      "md5": "d026b00a8ac9b49e0a06b5127b5ba5b2",
-      "crc32": "a0e03629",
-      "sha1": "6352681bdbd19b8ddea6a4a64d7a9d083f2c25d5",
+      "mtime": "1665677421",
+      "size": "1863680",
+      "md5": "92bc3db50505c07f053f85c8b3940569",
+      "crc32": "72298f21",
+      "sha1": "f2dafa1265c204773260155e338c763fdc32b1e0",
       "format": "Metadata"
     },
     {
@@ -15216,9 +15283,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1470,
-  "item_last_updated": 1665635917,
-  "item_size": 80371089,
+  "files_count": 1476,
+  "item_last_updated": 1665677540,
+  "item_size": 80646936,
   "metadata": {
     "identifier": "bariweiss-2022",
     "collection": [
@@ -15236,7 +15303,7 @@
     "addeddate": "2022-07-17 15:03:06"
   },
   "server": "ia601409.us.archive.org",
-  "uniq": 679716972,
+  "uniq": 547797288,
   "workable_servers": [
     "ia601409.us.archive.org",
     "ia801409.us.archive.org"
