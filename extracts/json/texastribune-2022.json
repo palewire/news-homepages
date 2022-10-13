@@ -1,5 +1,5 @@
 {
-  "created": 1665632472,
+  "created": 1665673709,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/texastribune-2022",
@@ -13010,31 +13010,93 @@
       "sha1": "d2864b513a103a03b61efeb175da715d664e4497"
     },
     {
+      "name": "texastribune-2022-10-13T10:06:13.162784-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665673577",
+      "size": "39058",
+      "md5": "29f1466a6a5c5d85412597ede8557936",
+      "crc32": "f566d175",
+      "sha1": "37bbbbda683e00d1a84b9afc9081c6be644a330e",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-13T10:06:13.162784-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665673579",
+      "size": "21543",
+      "md5": "ab603c945164651e87aec2109aa6bebb",
+      "crc32": "7b60fa26",
+      "sha1": "f21c95e9661d71098034f3ea2f1423f2e2de8ef0",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-13T10:06:13.162784-05:00.jpg",
+      "source": "original",
+      "mtime": "1665673575",
+      "size": "289363",
+      "md5": "377cf815089e6e335181cf84ffeb7ff9",
+      "crc32": "85cf0e8a",
+      "sha1": "9f6f4d7b79789889c8bf1f0264d6cc5f3f552bbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texastribune-2022-10-13T10:06:13.162784-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665673580",
+      "size": "1502",
+      "md5": "340ed9312e3b056e7db47c2a8c1f407d",
+      "crc32": "dc6e9c96",
+      "sha1": "8fff5b1c4cbda7198044e62919b0feb980a55776",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-13T10:06:13.162784-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665673582",
+      "size": "30641",
+      "md5": "6c064e87adead2631245c99a0f894e64",
+      "crc32": "dc41434b",
+      "sha1": "af62d6bdf5297e0373769bb1ad5aa34db0df8f79",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-13T10:06:13.162784-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texastribune-2022-10-13T10:06:13.162784-05:00.jpg",
+      "mtime": "1665673666",
+      "size": "9661",
+      "md5": "9a890e36f39b3f2c4e840fa07a045f30",
+      "crc32": "56d2a535",
+      "sha1": "d71384ca10e0273702d85d93d53fabb11c1fd2ca"
+    },
+    {
       "name": "texastribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c17646023a78ad5911f9987e00d8329f898538be",
-      "mtime": "1665632448",
-      "size": "270029",
-      "md5": "0881bc4b77affb28a81e214703fced3b",
-      "crc32": "c81b48d7",
-      "sha1": "f2c97d6394536efd99fc790b3afa47eda86b8f24",
+      "btih": "34715c8c887668fce0570b5374cff495759a13b4",
+      "mtime": "1665673683",
+      "size": "271300",
+      "md5": "2fdf57d2e8dfa8e377c2d55c68bfa48e",
+      "crc32": "2e56b880",
+      "sha1": "44fe3304d193d3435f5b14e8f7056a112c69eb06",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texastribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3fbf746cf2bdb5b6bf8879c83ab96f86",
+      "md5": "6964eb77868ff4fff23f56d151d10016",
       "summation": "md5"
     },
     {
       "name": "texastribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665632326",
-      "size": "1572864",
-      "md5": "8c58f2a88ca794538069a7bba02a1f0a",
-      "crc32": "e6d72077",
-      "sha1": "85587f86586e97b2ccff6fe71d8cc7932d11d9d4",
+      "mtime": "1665673589",
+      "size": "1576960",
+      "md5": "9b65bf38afe9d96140659ab2c5b86bb7",
+      "crc32": "660c4780",
+      "sha1": "6a6429c87a9239e7ecfc0dfff77d45023d9eb845",
       "format": "Metadata"
     },
     {
@@ -13048,9 +13110,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1257,
-  "item_last_updated": 1665632448,
-  "item_size": 89481641,
+  "files_count": 1263,
+  "item_last_updated": 1665673683,
+  "item_size": 89878776,
   "metadata": {
     "identifier": "texastribune-2022",
     "collection": [
@@ -13067,10 +13129,10 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 1718233479,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1278890180,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

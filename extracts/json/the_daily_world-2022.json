@@ -1,5 +1,5 @@
 {
-  "created": 1665632339,
+  "created": 1665677196,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/30/items/the_daily_world-2022",
@@ -2796,31 +2796,93 @@
       "sha1": "9165a8abbab0a627ed0d6f9cf3815d9a79a5f40b"
     },
     {
+      "name": "the_daily_world-2022-10-13T10:07:16.203274-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665673641",
+      "size": "18434",
+      "md5": "ff474c561dfa17d4ebcc8c87eb7d5391",
+      "crc32": "8f929f3e",
+      "sha1": "e131fe87fd0a9bd082c183b1f17281dd8e5c89ad",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T10:07:16.203274-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665673643",
+      "size": "27974",
+      "md5": "eddd04ce05126344998e2d97173ec87d",
+      "crc32": "014ad8cb",
+      "sha1": "94007bd0794674ff81fd0bd752d96b66abc733d5",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T10:07:16.203274-05:00.jpg",
+      "source": "original",
+      "mtime": "1665673639",
+      "size": "274401",
+      "md5": "dfe8296e5bfd2104b856e2bbeb6cb280",
+      "crc32": "fb3f2697",
+      "sha1": "1036ee022f6e87d3cc8ab4fe64b003cdd78f2f35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T10:07:16.203274-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665673645",
+      "size": "1495",
+      "md5": "82e997684a1032e1a33e4b18c16cc551",
+      "crc32": "f62c7fae",
+      "sha1": "76e8cf222c7e5d1da2137b45738a539d0d8eb75e",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T10:07:16.203274-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665673647",
+      "size": "252",
+      "md5": "a94a179ea0ea7286195e2b26c205e2f3",
+      "crc32": "cd8e4ab2",
+      "sha1": "10d4b5e03faeecfcdb0eadf14b054b1b749aad24",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T10:07:16.203274-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-13T10:07:16.203274-05:00.jpg",
+      "mtime": "1665673707",
+      "size": "9328",
+      "md5": "1968976509c81ece506f1c830a7a36ab",
+      "crc32": "fa89dd07",
+      "sha1": "2eea24f44a0c5c4621ed29b92023a69fdac650c6"
+    },
+    {
       "name": "the_daily_world-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08009e8c9945f686d6be10f3f93c17b665b522df",
-      "mtime": "1665632332",
-      "size": "60089",
-      "md5": "6143ddf997b4e94dee23cc791f08ab4c",
-      "crc32": "e08e3c92",
-      "sha1": "6d97553163988016edbcdf14672e78a16a4978b5",
+      "btih": "e104999630a0cfd9a4df6a5833c418dd0d746ce3",
+      "mtime": "1665673712",
+      "size": "61376",
+      "md5": "4d4eefcf9dbfc565a9c09576e88c5f9e",
+      "crc32": "646266c7",
+      "sha1": "eb1fce103f627d0c3832d698668b797c5ba29e80",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_daily_world-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19fdc95b5df14ef4b776abf03c87a393",
+      "md5": "2abc9997333844e84e2315fe4db4a64f",
       "summation": "md5"
     },
     {
       "name": "the_daily_world-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665632282",
-      "size": "364544",
-      "md5": "455d82017469ec98a840d7499f45a729",
-      "crc32": "8ae7edda",
-      "sha1": "7a8b6357e01508d56039c06000254d9cc980d63c",
+      "mtime": "1665673654",
+      "size": "372736",
+      "md5": "024135d45feaa77dd20a1afcbcc6274c",
+      "crc32": "d8ec3788",
+      "sha1": "845f73629d20f9cd547d336971dd27dfc409b9d5",
       "format": "Metadata"
     },
     {
@@ -2834,9 +2896,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 274,
-  "item_last_updated": 1665632332,
-  "item_size": 16916889,
+  "files_count": 280,
+  "item_last_updated": 1665673712,
+  "item_size": 17258252,
   "metadata": {
     "identifier": "the_daily_world-2022",
     "collection": [
@@ -2854,7 +2916,15 @@
     "addeddate": "2022-09-21 03:43:02"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 1739459610,
+  "the_daily_world-2022": {
+    "url": "https://www.dailyworld.com/",
+    "job_id": "spn2-956d0a66a8737eec4e17bacda0b09da54e33f5c8",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "resources": [],
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1098."
+  },
+  "uniq": 895428694,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

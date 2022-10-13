@@ -1,5 +1,5 @@
 {
-  "created": 1665632462,
+  "created": 1665676936,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/sowetanlive-2022",
@@ -6228,31 +6228,93 @@
       "sha1": "b99c7c56a345cf54db2cb3d31bcf8c799870d3a1"
     },
     {
+      "name": "sowetanlive-2022-10-13T17:07:00.913567+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665673639",
+      "size": "28827",
+      "md5": "1ea0b20817936bb4b6fa2d2eb7d78e20",
+      "crc32": "48d6aeac",
+      "sha1": "589aaa2a2a36b2143293a80bf956540b261d02b4",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-13T17:07:00.913567+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665673641",
+      "size": "27880",
+      "md5": "9c757958ddcf00359542d91578a0f854",
+      "crc32": "28196a08",
+      "sha1": "9a43bf8f1a126ec579d3e9075d769a6dda2d0a3e",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-13T17:07:00.913567+02:00.jpg",
+      "source": "original",
+      "mtime": "1665673637",
+      "size": "256817",
+      "md5": "7e0d7991769db085a0a2128ebeba4ed7",
+      "crc32": "8a0e9280",
+      "sha1": "ae7f4dc6123b0c1e5f8a05aaac1121a8521c78ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-13T17:07:00.913567+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665673644",
+      "size": "1518",
+      "md5": "7bfbac2708fb92804c58e206acadbabf",
+      "crc32": "8dc3b3c2",
+      "sha1": "4524e295584167e762c876019746a6bdaafac5a8",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-13T17:07:00.913567+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665673649",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-13T17:07:00.913567+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-13T17:07:00.913567+02:00.jpg",
+      "mtime": "1665673736",
+      "size": "9918",
+      "md5": "2d1e4dc6f9426399dc17a29c084dae2f",
+      "crc32": "d007bd5c",
+      "sha1": "579a7c7507274d4194ae80b929eaf3130da49449"
+    },
+    {
       "name": "sowetanlive-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2a785c25a442113ca6b6cbef2c21ebd2b9d1dae1",
-      "mtime": "1665632449",
-      "size": "129597",
-      "md5": "3e58579295cf7c00a7c0f6af7cbf9f52",
-      "crc32": "3077e35c",
-      "sha1": "e49eab6ceccaca484be84139cc090b62cda23fb3",
+      "btih": "9d120bec5d2fb9bcee85f0ec96e8773237664ce0",
+      "mtime": "1665673757",
+      "size": "130880",
+      "md5": "b7de5fda8cd143418e3379b66c1013cd",
+      "crc32": "eed0133c",
+      "sha1": "4e7dd9b88b3bb3b3998ff6123e1101c111ecc467",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sowetanlive-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b7d052dd08c953b5db61209936ef454",
+      "md5": "6f23f1a09359bf0fb67b4164a56b5546",
       "summation": "md5"
     },
     {
       "name": "sowetanlive-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665632366",
-      "size": "782336",
-      "md5": "76e00ebeed71b9ea609d5e37cdb9580e",
-      "crc32": "0473b192",
-      "sha1": "712e0c14782270d9970932fce9ca3dc78a7b2ee3",
+      "mtime": "1665673653",
+      "size": "794624",
+      "md5": "a05509759644a4555d6e4c76d1e88fb4",
+      "crc32": "c8dbe179",
+      "sha1": "ef7b955bc62d8b614dc0e7d6ab92cb212fa998db",
       "format": "Metadata"
     },
     {
@@ -6266,9 +6328,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 606,
-  "item_last_updated": 1665632449,
-  "item_size": 34689247,
+  "files_count": 612,
+  "item_last_updated": 1665673757,
+  "item_size": 35027980,
   "metadata": {
     "identifier": "sowetanlive-2022",
     "collection": [
@@ -6286,7 +6348,12 @@
     "addeddate": "2022-08-23 12:56:55"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 78517808,
+  "sowetanlive-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1113223038,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"
