@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 243 screenshots with the Internet Archive.
+The archiving routine has saved 245 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T10:18:49.008118+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T10:18:49.008118+01:00.jpg"
+     alt="Daily Echo at 2022-10-13 10:18:50+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T10:18:49.008118+01:00.jpg">October 13 at 10:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T07:00:32.708090+01:00.jpg">
+  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T07:00:32.708090+01:00.jpg"
+     alt="Daily Echo at 2022-10-13 07:00:40+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T07:00:32.708090+01:00.jpg">October 13 at 7:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T18:27:07.686857+01:00.jpg">
   <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T18:27:07.686857+01:00.jpg"
      alt="Daily Echo at 2022-10-12 18:27:17+01:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T18:40:15.359645+01:00.jpg">October 9 at 6:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T10:21:41.463917+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T10:21:41.463917+01:00.jpg"
-     alt="Daily Echo at 2022-10-09 10:21:42+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T10:21:41.463917+01:00.jpg">October 9 at 10:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T08:19:05.653117+01:00.jpg">
-  <img src="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T08:19:05.653117+01:00.jpg"
-     alt="Daily Echo at 2022-10-09 08:19:17+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T08:19:05.653117+01:00.jpg">October 9 at 8:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 238 hyperlink lists with the Internet Archive.
+The archiving routine has saved 240 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 10:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T10:18:49.008118+01:00.hyperlinks.json) |
+| [October 13 at 7:00 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T07:00:32.708090+01:00.hyperlinks.json) |
 | [October 12 at 6:27 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T18:27:07.686857+01:00.hyperlinks.json) |
 | [October 12 at 10:28 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T10:27:53.428408+01:00.hyperlinks.json) |
 | [October 12 at 7:39 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T07:38:44.171123+01:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 7:42 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-11T07:41:50.467013+01:00.hyperlinks.json) |
 | [October 10 at 7:57 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-10T19:57:36.088296+01:00.hyperlinks.json) |
 | [October 10 at 10:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-10T10:25:55.921927+01:00.hyperlinks.json) |
-| [October 10 at 7:29 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-10T07:29:42.230517+01:00.hyperlinks.json) |
-| [October 9 at 6:40 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T18:40:15.359645+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 236 accessibility trees with the Internet Archive.
+The archiving routine has saved 238 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 10:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T10:18:49.008118+01:00.accessibility.json) |
+| [October 13 at 7:00 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T07:00:32.708090+01:00.accessibility.json) |
 | [October 12 at 6:27 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T18:27:07.686857+01:00.accessibility.json) |
 | [October 12 at 10:27 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T10:27:53.428408+01:00.accessibility.json) |
 | [October 12 at 7:39 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T07:38:44.171123+01:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 7:42 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-11T07:41:50.467013+01:00.accessibility.json) |
 | [October 10 at 7:57 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-10T19:57:36.088296+01:00.accessibility.json) |
 | [October 10 at 10:25 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-10T10:25:55.921927+01:00.accessibility.json) |
-| [October 10 at 7:29 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-10T07:29:42.230517+01:00.accessibility.json) |
-| [October 9 at 6:40 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T18:40:15.359645+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 219 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 221 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 10:18 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T10:18:49.008118+01:00.lighthouse.json) |
+| [October 13 at 7:00 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-13T07:00:32.708090+01:00.lighthouse.json) |
 | [October 12 at 6:27 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T18:27:07.686857+01:00.lighthouse.json) |
 | [October 12 at 10:28 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T10:27:53.428408+01:00.lighthouse.json) |
 | [October 12 at 7:39 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-12T07:38:44.171123+01:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 7:42 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-11T07:41:50.467013+01:00.lighthouse.json) |
 | [October 10 at 7:57 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-10T19:57:36.088296+01:00.lighthouse.json) |
 | [October 10 at 10:26 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-10T10:25:55.921927+01:00.lighthouse.json) |
-| [October 10 at 7:29 AM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-10T07:29:42.230517+01:00.lighthouse.json) |
-| [October 9 at 6:40 PM](https://archive.org/download/dailyecho-2022/dailyecho-2022-10-09T18:40:15.359645+01:00.lighthouse.json) |
 
 
 

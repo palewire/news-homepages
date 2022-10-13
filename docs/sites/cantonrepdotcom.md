@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 45 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-13T06:49:22.598642-04:00.jpg">
+  <img src="https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-13T06:49:22.598642-04:00.jpg"
+     alt="The Canton Repository at 2022-10-13 06:49:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-13T06:49:22.598642-04:00.jpg">October 13 at 6:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-12T19:00:27.188748-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-07T19:06:06.188654-04:00.jpg">October 7 at 7:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-07T07:09:39.386440-04:00.jpg">
-  <img src="https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-07T07:09:39.386440-04:00.jpg"
-     alt="The Canton Repository at 2022-10-07 07:09:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-07T07:09:39.386440-04:00.jpg">October 7 at 7:09 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 46 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 6:49 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-13T06:49:22.598642-04:00.hyperlinks.json) |
 | [October 12 at 7:00 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-12T19:00:27.188748-04:00.hyperlinks.json) |
 | [October 12 at 7:01 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-12T07:01:19.941272-04:00.hyperlinks.json) |
 | [October 11 at 7:05 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-11T19:05:13.827347-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 6:53 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-09T18:53:14.608032-04:00.hyperlinks.json) |
 | [October 9 at 7:01 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-09T07:01:10.686638-04:00.hyperlinks.json) |
 | [October 8 at 7:08 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-08T19:08:13.187346-04:00.hyperlinks.json) |
-| [October 8 at 6:53 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-08T06:53:26.680006-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 6:49 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-13T06:49:22.598642-04:00.accessibility.json) |
 | [October 12 at 7:00 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-12T19:00:27.188748-04:00.accessibility.json) |
 | [October 12 at 7:01 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-12T07:01:19.941272-04:00.accessibility.json) |
 | [October 11 at 7:05 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-11T19:05:13.827347-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 6:53 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-09T18:53:14.608032-04:00.accessibility.json) |
 | [October 9 at 7:01 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-09T07:01:10.686638-04:00.accessibility.json) |
 | [October 8 at 7:08 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-08T19:08:13.187346-04:00.accessibility.json) |
-| [October 8 at 6:53 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-08T06:53:26.680006-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 6:49 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-13T06:49:22.598642-04:00.lighthouse.json) |
 | [October 12 at 7:00 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-12T19:00:27.188748-04:00.lighthouse.json) |
 | [October 12 at 7:01 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-12T07:01:19.941272-04:00.lighthouse.json) |
 | [October 11 at 7:05 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-11T19:05:13.827347-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 6:53 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-09T18:53:14.608032-04:00.lighthouse.json) |
 | [October 9 at 7:01 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-09T07:01:10.686638-04:00.lighthouse.json) |
 | [October 8 at 7:08 PM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-08T19:08:13.187346-04:00.lighthouse.json) |
-| [October 8 at 6:53 AM](https://archive.org/download/cantonrepdotcom-2022/cantonrepdotcom-2022-10-08T06:53:26.680006-04:00.lighthouse.json) |
 
 
 

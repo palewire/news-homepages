@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cjonline-2022/cjonline-2022-10-13T05:48:57.977725-05:00.jpg">
+  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-10-13T05:48:57.977725-05:00.jpg"
+     alt="The Topeka Capital-Journal at 2022-10-13 05:49:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-10-13T05:48:57.977725-05:00.jpg">October 13 at 5:49 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cjonline-2022/cjonline-2022-10-12T18:00:31.959731-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-10-07T18:06:28.202201-05:00.jpg">October 7 at 6:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cjonline-2022/cjonline-2022-10-07T06:10:01.013736-05:00.jpg">
-  <img src="https://archive.org/download/cjonline-2022/cjonline-2022-10-07T06:10:01.013736-05:00.jpg"
-     alt="The Topeka Capital-Journal at 2022-10-07 06:10:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cjonline-2022/cjonline-2022-10-07T06:10:01.013736-05:00.jpg">October 7 at 6:10 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 5:49 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-13T05:48:57.977725-05:00.hyperlinks.json) |
 | [October 12 at 6:00 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-12T18:00:31.959731-05:00.hyperlinks.json) |
 | [October 12 at 6:01 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-12T06:01:08.875032-05:00.hyperlinks.json) |
 | [October 11 at 6:06 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-11T18:06:08.092625-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 5:53 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-09T17:53:13.075793-05:00.hyperlinks.json) |
 | [October 9 at 6:00 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-09T06:00:48.474683-05:00.hyperlinks.json) |
 | [October 8 at 6:08 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-08T18:08:13.314347-05:00.hyperlinks.json) |
-| [October 8 at 5:53 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-08T05:53:24.302139-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 46 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 5:49 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-13T05:48:57.977725-05:00.accessibility.json) |
 | [October 12 at 6:00 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-12T18:00:31.959731-05:00.accessibility.json) |
 | [October 12 at 6:01 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-12T06:01:08.875032-05:00.accessibility.json) |
 | [October 11 at 6:06 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-11T18:06:08.092625-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 5:53 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-09T17:53:13.075793-05:00.accessibility.json) |
 | [October 9 at 6:00 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-09T06:00:48.474683-05:00.accessibility.json) |
 | [October 8 at 6:08 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-08T18:08:13.314347-05:00.accessibility.json) |
-| [October 8 at 5:53 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-08T05:53:24.302139-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 5:49 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-13T05:48:57.977725-05:00.lighthouse.json) |
 | [October 12 at 6:00 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-12T18:00:31.959731-05:00.lighthouse.json) |
 | [October 12 at 6:01 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-12T06:01:08.875032-05:00.lighthouse.json) |
 | [October 11 at 6:06 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-11T18:06:08.092625-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 5:53 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-09T17:53:13.075793-05:00.lighthouse.json) |
 | [October 9 at 6:00 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-09T06:00:48.474683-05:00.lighthouse.json) |
 | [October 8 at 6:08 PM](https://archive.org/download/cjonline-2022/cjonline-2022-10-08T18:08:13.314347-05:00.lighthouse.json) |
-| [October 8 at 5:53 AM](https://archive.org/download/cjonline-2022/cjonline-2022-10-08T05:53:24.302139-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 163 screenshots with the Internet Archive.
+The archiving routine has saved 164 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 163 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-13T06:46:42.087729-04:00.jpg">
+  <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-13T06:46:42.087729-04:00.jpg"
+     alt="BleepingComputer at 2022-10-13 06:46:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-13T06:46:42.087729-04:00.jpg">October 13 at 6:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-12T18:58:33.557008-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-07T19:02:52.201753-04:00.jpg">October 7 at 7:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-07T07:06:47.522825-04:00.jpg">
-  <img src="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-07T07:06:47.522825-04:00.jpg"
-     alt="BleepingComputer at 2022-10-07 07:06:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-07T07:06:47.522825-04:00.jpg">October 7 at 7:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 162 hyperlink lists with the Internet Archive.
+The archiving routine has saved 163 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 6:46 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-13T06:46:42.087729-04:00.hyperlinks.json) |
 | [October 12 at 6:58 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-12T18:58:33.557008-04:00.hyperlinks.json) |
 | [October 12 at 6:59 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-12T06:58:56.012639-04:00.hyperlinks.json) |
 | [October 11 at 7:02 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-11T19:02:20.654812-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 6:51 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-09T18:51:10.940619-04:00.hyperlinks.json) |
 | [October 9 at 6:58 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-09T06:58:04.088290-04:00.hyperlinks.json) |
 | [October 8 at 7:05 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-08T19:05:09.450279-04:00.hyperlinks.json) |
-| [October 8 at 6:50 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-08T06:50:45.702635-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 163 accessibility trees with the Internet Archive.
+The archiving routine has saved 164 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 6:46 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-13T06:46:42.087729-04:00.accessibility.json) |
 | [October 12 at 6:58 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-12T18:58:33.557008-04:00.accessibility.json) |
 | [October 12 at 6:59 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-12T06:58:56.012639-04:00.accessibility.json) |
 | [October 11 at 7:02 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-11T19:02:20.654812-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 6:51 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-09T18:51:10.940619-04:00.accessibility.json) |
 | [October 9 at 6:58 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-09T06:58:04.088290-04:00.accessibility.json) |
 | [October 8 at 7:05 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-08T19:05:09.450279-04:00.accessibility.json) |
-| [October 8 at 6:50 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-08T06:50:45.702635-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 6:46 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-13T06:46:42.087729-04:00.lighthouse.json) |
 | [October 12 at 6:58 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-12T18:58:33.557008-04:00.lighthouse.json) |
 | [October 12 at 6:59 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-12T06:58:56.012639-04:00.lighthouse.json) |
 | [October 11 at 7:02 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-11T19:02:20.654812-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 6:51 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-09T18:51:10.940619-04:00.lighthouse.json) |
 | [October 9 at 6:58 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-09T06:58:04.088290-04:00.lighthouse.json) |
 | [October 8 at 7:05 PM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-08T19:05:09.450279-04:00.lighthouse.json) |
-| [October 8 at 6:50 AM](https://archive.org/download/bleepincomputer-2022/bleepincomputer-2022-10-08T06:50:45.702635-04:00.lighthouse.json) |
 
 
 

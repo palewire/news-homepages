@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 548 screenshots with the Internet Archive.
+The archiving routine has saved 550 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-10-13T10:18:58.364372+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-10-13T10:18:58.364372+01:00.jpg"
+     alt="Financial Times at 2022-10-13 10:19:01+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-10-13T10:18:58.364372+01:00.jpg">October 13 at 10:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ft-2022/ft-2022-10-13T07:05:13.432022+01:00.jpg">
+  <img src="https://archive.org/download/ft-2022/ft-2022-10-13T07:05:13.432022+01:00.jpg"
+     alt="Financial Times at 2022-10-13 07:05:14+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ft-2022/ft-2022-10-13T07:05:13.432022+01:00.jpg">October 13 at 7:05 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ft-2022/ft-2022-10-12T18:35:16.372718+01:00.jpg">
   <img src="https://archive.org/download/ft-2022/ft-2022-10-12T18:35:16.372718+01:00.jpg"
      alt="Financial Times at 2022-10-12 18:35:43+01:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ft-2022/ft-2022-10-09T18:51:22.936254+01:00.jpg">October 9 at 6:51 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-10-09T10:21:18.198512+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-10-09T10:21:18.198512+01:00.jpg"
-     alt="Financial Times at 2022-10-09 10:21:29+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-10-09T10:21:18.198512+01:00.jpg">October 9 at 10:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ft-2022/ft-2022-10-09T08:23:38.848680+01:00.jpg">
-  <img src="https://archive.org/download/ft-2022/ft-2022-10-09T08:23:38.848680+01:00.jpg"
-     alt="Financial Times at 2022-10-09 08:24:02+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ft-2022/ft-2022-10-09T08:23:38.848680+01:00.jpg">October 9 at 8:24 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 534 hyperlink lists with the Internet Archive.
+The archiving routine has saved 536 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 10:19 AM](https://archive.org/download/ft-2022/ft-2022-10-13T10:18:58.364372+01:00.hyperlinks.json) |
+| [October 13 at 7:05 AM](https://archive.org/download/ft-2022/ft-2022-10-13T07:05:13.432022+01:00.hyperlinks.json) |
 | [October 12 at 6:35 PM](https://archive.org/download/ft-2022/ft-2022-10-12T18:35:16.372718+01:00.hyperlinks.json) |
 | [October 12 at 10:28 AM](https://archive.org/download/ft-2022/ft-2022-10-12T10:27:46.934440+01:00.hyperlinks.json) |
 | [October 12 at 7:44 AM](https://archive.org/download/ft-2022/ft-2022-10-12T07:44:05.030581+01:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 7:48 AM](https://archive.org/download/ft-2022/ft-2022-10-11T07:48:13.713533+01:00.hyperlinks.json) |
 | [October 10 at 8:00 PM](https://archive.org/download/ft-2022/ft-2022-10-10T20:00:23.055694+01:00.hyperlinks.json) |
 | [October 10 at 10:26 AM](https://archive.org/download/ft-2022/ft-2022-10-10T10:26:00.582838+01:00.hyperlinks.json) |
-| [October 10 at 7:40 AM](https://archive.org/download/ft-2022/ft-2022-10-10T07:39:59.073862+01:00.hyperlinks.json) |
-| [October 9 at 6:51 PM](https://archive.org/download/ft-2022/ft-2022-10-09T18:51:22.936254+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 535 accessibility trees with the Internet Archive.
+The archiving routine has saved 537 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 10:19 AM](https://archive.org/download/ft-2022/ft-2022-10-13T10:18:58.364372+01:00.accessibility.json) |
+| [October 13 at 7:05 AM](https://archive.org/download/ft-2022/ft-2022-10-13T07:05:13.432022+01:00.accessibility.json) |
 | [October 12 at 6:35 PM](https://archive.org/download/ft-2022/ft-2022-10-12T18:35:16.372718+01:00.accessibility.json) |
 | [October 12 at 10:27 AM](https://archive.org/download/ft-2022/ft-2022-10-12T10:27:46.934440+01:00.accessibility.json) |
 | [October 12 at 7:44 AM](https://archive.org/download/ft-2022/ft-2022-10-12T07:44:05.030581+01:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 7:48 AM](https://archive.org/download/ft-2022/ft-2022-10-11T07:48:13.713533+01:00.accessibility.json) |
 | [October 10 at 8:00 PM](https://archive.org/download/ft-2022/ft-2022-10-10T20:00:23.055694+01:00.accessibility.json) |
 | [October 10 at 10:26 AM](https://archive.org/download/ft-2022/ft-2022-10-10T10:26:00.582838+01:00.accessibility.json) |
-| [October 10 at 7:40 AM](https://archive.org/download/ft-2022/ft-2022-10-10T07:39:59.073862+01:00.accessibility.json) |
-| [October 9 at 6:51 PM](https://archive.org/download/ft-2022/ft-2022-10-09T18:51:22.936254+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 240 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 242 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 10:19 AM](https://archive.org/download/ft-2022/ft-2022-10-13T10:18:58.364372+01:00.lighthouse.json) |
+| [October 13 at 7:05 AM](https://archive.org/download/ft-2022/ft-2022-10-13T07:05:13.432022+01:00.lighthouse.json) |
 | [October 12 at 6:35 PM](https://archive.org/download/ft-2022/ft-2022-10-12T18:35:16.372718+01:00.lighthouse.json) |
 | [October 12 at 10:28 AM](https://archive.org/download/ft-2022/ft-2022-10-12T10:27:46.934440+01:00.lighthouse.json) |
 | [October 12 at 7:44 AM](https://archive.org/download/ft-2022/ft-2022-10-12T07:44:05.030581+01:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 7:48 AM](https://archive.org/download/ft-2022/ft-2022-10-11T07:48:13.713533+01:00.lighthouse.json) |
 | [October 10 at 8:00 PM](https://archive.org/download/ft-2022/ft-2022-10-10T20:00:23.055694+01:00.lighthouse.json) |
 | [October 10 at 10:26 AM](https://archive.org/download/ft-2022/ft-2022-10-10T10:26:00.582838+01:00.lighthouse.json) |
-| [October 10 at 7:40 AM](https://archive.org/download/ft-2022/ft-2022-10-10T07:39:59.073862+01:00.lighthouse.json) |
-| [October 9 at 6:51 PM](https://archive.org/download/ft-2022/ft-2022-10-09T18:51:22.936254+01:00.lighthouse.json) |
 
 
 

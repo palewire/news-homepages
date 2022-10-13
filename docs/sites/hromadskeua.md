@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 423 screenshots with the Internet Archive.
+The archiving routine has saved 424 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 423 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T15:56:07.700983+03:00.jpg">
+  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T15:56:07.700983+03:00.jpg"
+     alt="hromadske at 2022-10-13 15:56:09+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T15:56:07.700983+03:00.jpg">October 13 at 3:56 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T04:17:04.939763+03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-07T16:07:43.338941+03:00.jpg">October 7 at 4:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-07T04:35:49.935533+03:00.jpg">
-  <img src="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-07T04:35:49.935533+03:00.jpg"
-     alt="hromadske at 2022-10-07 04:35:51+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-07T04:35:49.935533+03:00.jpg">October 7 at 4:35 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 409 hyperlink lists with the Internet Archive.
+The archiving routine has saved 410 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 3:56 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T15:56:07.700983+03:00.hyperlinks.json) |
 | [October 13 at 4:17 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T04:17:04.939763+03:00.hyperlinks.json) |
 | [October 12 at 3:52 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-12T15:52:35.074317+03:00.hyperlinks.json) |
 | [October 12 at 4:33 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-12T04:33:13.560980+03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 4:27 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-10T04:27:03.289190+03:00.hyperlinks.json) |
 | [October 9 at 4:01 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-09T16:01:22.538472+03:00.hyperlinks.json) |
 | [October 9 at 4:15 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-09T04:14:47.250584+03:00.hyperlinks.json) |
-| [October 8 at 4:01 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-08T16:01:38.491586+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 411 accessibility trees with the Internet Archive.
+The archiving routine has saved 412 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 3:56 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T15:56:07.700983+03:00.accessibility.json) |
 | [October 13 at 4:17 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T04:17:04.939763+03:00.accessibility.json) |
 | [October 12 at 3:52 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-12T15:52:35.074317+03:00.accessibility.json) |
 | [October 12 at 4:33 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-12T04:33:13.560980+03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 4:27 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-10T04:27:03.289190+03:00.accessibility.json) |
 | [October 9 at 4:01 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-09T16:01:22.538472+03:00.accessibility.json) |
 | [October 9 at 4:15 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-09T04:14:47.250584+03:00.accessibility.json) |
-| [October 8 at 4:01 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-08T16:01:38.491586+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 3:56 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T15:56:07.700983+03:00.lighthouse.json) |
 | [October 13 at 4:17 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-13T04:17:04.939763+03:00.lighthouse.json) |
 | [October 12 at 3:52 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-12T15:52:35.074317+03:00.lighthouse.json) |
 | [October 12 at 4:33 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-12T04:33:13.560980+03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 4:27 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-10T04:27:03.289190+03:00.lighthouse.json) |
 | [October 9 at 4:01 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-09T16:01:22.538472+03:00.lighthouse.json) |
 | [October 9 at 4:15 AM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-09T04:14:47.250584+03:00.lighthouse.json) |
-| [October 8 at 4:01 PM](https://archive.org/download/hromadskeua-2022/hromadskeua-2022-10-08T16:01:38.491586+03:00.lighthouse.json) |
 
 
 

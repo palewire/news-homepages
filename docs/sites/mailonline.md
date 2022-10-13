@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 335 screenshots with the Internet Archive.
+The archiving routine has saved 337 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-13T14:09:24.340063+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-10-13T14:09:24.340063+01:00.jpg"
+     alt="Daily Mail at 2022-10-13 14:09:52+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-13T14:09:24.340063+01:00.jpg">October 13 at 2:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-13T10:19:16.863602+01:00.jpg">
+  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-10-13T10:19:16.863602+01:00.jpg"
+     alt="Daily Mail at 2022-10-13 10:19:41+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-13T10:19:16.863602+01:00.jpg">October 13 at 10:19 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-13T02:22:33.735523+01:00.jpg">
   <img src="https://archive.org/download/mailonline-2022/mailonline-2022-10-13T02:22:33.735523+01:00.jpg"
      alt="Daily Mail at 2022-10-13 02:23:01+01:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-10T02:33:06.633159+01:00.jpg">October 10 at 2:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-09T14:06:15.296356+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-10-09T14:06:15.296356+01:00.jpg"
-     alt="Daily Mail at 2022-10-09 14:06:17+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-09T14:06:15.296356+01:00.jpg">October 9 at 2:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-09T10:21:40.902704+01:00.jpg">
-  <img src="https://archive.org/download/mailonline-2022/mailonline-2022-10-09T10:21:40.902704+01:00.jpg"
-     alt="Daily Mail at 2022-10-09 10:22:08+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mailonline-2022/mailonline-2022-10-09T10:21:40.902704+01:00.jpg">October 9 at 10:22 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 290 hyperlink lists with the Internet Archive.
+The archiving routine has saved 292 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 2:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-10-13T14:09:24.340063+01:00.hyperlinks.json) |
+| [October 13 at 10:19 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-13T10:19:16.863602+01:00.hyperlinks.json) |
 | [October 13 at 2:23 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-13T02:22:33.735523+01:00.hyperlinks.json) |
 | [October 12 at 1:56 PM](https://archive.org/download/mailonline-2022/mailonline-2022-10-12T13:56:26.950952+01:00.hyperlinks.json) |
 | [October 12 at 10:28 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-12T10:27:55.375566+01:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 10:23 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-11T10:23:08.803290+01:00.hyperlinks.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-11T02:29:19.232315+01:00.hyperlinks.json) |
 | [October 10 at 2:24 PM](https://archive.org/download/mailonline-2022/mailonline-2022-10-10T14:24:06.237221+01:00.hyperlinks.json) |
-| [October 10 at 10:25 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-10T10:25:27.874062+01:00.hyperlinks.json) |
-| [October 10 at 2:33 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-10T02:33:06.633159+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 282 accessibility trees with the Internet Archive.
+The archiving routine has saved 284 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 2:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-10-13T14:09:24.340063+01:00.accessibility.json) |
+| [October 13 at 10:19 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-13T10:19:16.863602+01:00.accessibility.json) |
 | [October 13 at 2:23 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-13T02:22:33.735523+01:00.accessibility.json) |
 | [October 12 at 1:56 PM](https://archive.org/download/mailonline-2022/mailonline-2022-10-12T13:56:26.950952+01:00.accessibility.json) |
 | [October 12 at 10:27 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-12T10:27:55.375566+01:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 10:23 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-11T10:23:08.803290+01:00.accessibility.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-11T02:29:19.232315+01:00.accessibility.json) |
 | [October 10 at 2:24 PM](https://archive.org/download/mailonline-2022/mailonline-2022-10-10T14:24:06.237221+01:00.accessibility.json) |
-| [October 10 at 10:25 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-10T10:25:27.874062+01:00.accessibility.json) |
-| [October 10 at 2:33 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-10T02:33:06.633159+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 245 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 247 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 2:09 PM](https://archive.org/download/mailonline-2022/mailonline-2022-10-13T14:09:24.340063+01:00.lighthouse.json) |
+| [October 13 at 10:19 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-13T10:19:16.863602+01:00.lighthouse.json) |
 | [October 13 at 2:23 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-13T02:22:33.735523+01:00.lighthouse.json) |
 | [October 12 at 1:56 PM](https://archive.org/download/mailonline-2022/mailonline-2022-10-12T13:56:26.950952+01:00.lighthouse.json) |
 | [October 12 at 10:28 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-12T10:27:55.375566+01:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 10:23 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-11T10:23:08.803290+01:00.lighthouse.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-11T02:29:19.232315+01:00.lighthouse.json) |
 | [October 10 at 2:24 PM](https://archive.org/download/mailonline-2022/mailonline-2022-10-10T14:24:06.237221+01:00.lighthouse.json) |
-| [October 10 at 10:25 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-10T10:25:27.874062+01:00.lighthouse.json) |
-| [October 10 at 2:33 AM](https://archive.org/download/mailonline-2022/mailonline-2022-10-10T02:33:06.633159+01:00.lighthouse.json) |
 
 
 
