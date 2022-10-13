@@ -1,5 +1,5 @@
 {
-  "created": 1665645573,
+  "created": 1665683537,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/6/items/jconline-2022",
@@ -2868,31 +2868,93 @@
       "sha1": "2ea935de2679bb6472d3941e17a2b9db4e92ec73"
     },
     {
+      "name": "jconline-2022-10-13T13:50:50.047216-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665683453",
+      "size": "19428",
+      "md5": "bdbff881997ca8c61342d714d6e41081",
+      "crc32": "77c42d66",
+      "sha1": "c9a23d415f52fb8859e632a7d86cc5db8d44a0e2",
+      "format": "JSON"
+    },
+    {
+      "name": "jconline-2022-10-13T13:50:50.047216-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665683456",
+      "size": "25902",
+      "md5": "b3b721b9d1021368ce45f0f3f0689f2c",
+      "crc32": "dd5ace8a",
+      "sha1": "77401a2e21e4e87f67dbd281eefee89c1dd96c35",
+      "format": "JSON"
+    },
+    {
+      "name": "jconline-2022-10-13T13:50:50.047216-04:00.jpg",
+      "source": "original",
+      "mtime": "1665683452",
+      "size": "225553",
+      "md5": "37f66cf73f25ed9f006c860a80b5e2b2",
+      "crc32": "a19c1f90",
+      "sha1": "d44539afcf2688d7e3f627bc818b9a181eb1695f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jconline-2022-10-13T13:50:50.047216-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665683458",
+      "size": "1477",
+      "md5": "72c2aca8d0f1cd232bb002fed3720e80",
+      "crc32": "6ffbf6c5",
+      "sha1": "2994a46e8343e95d99593614d8e4b3fa06d7fbb5",
+      "format": "JSON"
+    },
+    {
+      "name": "jconline-2022-10-13T13:50:50.047216-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665683459",
+      "size": "113594",
+      "md5": "6bdbf9ea212355cee25c49a0f22f478a",
+      "crc32": "08190eaa",
+      "sha1": "33f933b368d03345c044d286b1491b4c09f017bd",
+      "format": "JSON"
+    },
+    {
+      "name": "jconline-2022-10-13T13:50:50.047216-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jconline-2022-10-13T13:50:50.047216-04:00.jpg",
+      "mtime": "1665683515",
+      "size": "9032",
+      "md5": "01f852a36c45652e3c4b6b7a256152f0",
+      "crc32": "d414c70a",
+      "sha1": "8cc4ad03a6ac05e9277c42f55b9857061910760b"
+    },
+    {
       "name": "jconline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2aa8c1ac8bd207192f8f33ca6db1b1964e6a308c",
-      "mtime": "1665640512",
-      "size": "59655",
-      "md5": "ed8941f432bef5239cf514db126272f1",
-      "crc32": "28017eaa",
-      "sha1": "457493c6234e4f15747bf639ff820c99a2cb5424",
+      "btih": "e228772813bbb6e8b9096d61304faaee94286dcb",
+      "mtime": "1665683521",
+      "size": "60903",
+      "md5": "3f54939cba407ef0f481aea1c6cf94a2",
+      "crc32": "9b2d4683",
+      "sha1": "56912caf0a31abb4cdef3323ba7e009b2facb23b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jconline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "825a0435e85830f98a84977b01696f60",
+      "md5": "54cef697be7c0e121cd5850c5d6b9b06",
       "summation": "md5"
     },
     {
       "name": "jconline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665640441",
-      "size": "372736",
-      "md5": "eb4025a13306f2d21b4c9b902b527215",
-      "crc32": "d5330e23",
-      "sha1": "46da642037ec5229607c7b79098ad861859d5eb6",
+      "mtime": "1665683465",
+      "size": "380928",
+      "md5": "ce2d20479f51b3c0fdfeea9f6bc0ba2d",
+      "crc32": "3287ce3a",
+      "sha1": "98be5c26712775d7c34b734a2ba8dda6985a8391",
       "format": "Metadata"
     },
     {
@@ -2906,17 +2968,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1665640512,
-  "item_size": 17941055,
-  "jconline-2022": {
-    "url": "https://www.jconline.com/",
-    "job_id": "spn2-889d7c38d78d7558fb0d4bcad1c480532a2673ee",
-    "resources": [],
-    "status": "error",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed"
-  },
+  "files_count": 287,
+  "item_last_updated": 1665683521,
+  "item_size": 18345481,
   "metadata": {
     "identifier": "jconline-2022",
     "collection": [
@@ -2933,10 +2987,10 @@
     "publicdate": "2022-09-20 17:33:57",
     "addeddate": "2022-09-20 17:33:57"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 482273569,
+  "server": "ia801403.us.archive.org",
+  "uniq": 2063543497,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

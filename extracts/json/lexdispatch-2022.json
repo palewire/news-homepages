@@ -1,5 +1,5 @@
 {
-  "created": 1665645697,
+  "created": 1665683795,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/35/items/lexdispatch-2022",
@@ -2838,31 +2838,93 @@
       "sha1": "3aa0c000242b80dd1b8dc6221c9aa767274a11d7"
     },
     {
+      "name": "lexdispatch-2022-10-13T13:54:06.179796-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665683651",
+      "size": "22247",
+      "md5": "45dafa517c7ff510904d00ee18fefb97",
+      "crc32": "e5881db7",
+      "sha1": "f1c2a469e5b83dbaa2e3204b028d24357b2e215f",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T13:54:06.179796-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665683653",
+      "size": "34329",
+      "md5": "6c1c46bc828da80a2654149f44d476f6",
+      "crc32": "0b0ff08d",
+      "sha1": "23c3c10f2543f2d4e74c4eb92e83a766944adda2",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T13:54:06.179796-04:00.jpg",
+      "source": "original",
+      "mtime": "1665683649",
+      "size": "275637",
+      "md5": "9004decbb33c2b0b84b9b57adff1218d",
+      "crc32": "99737bc1",
+      "sha1": "704d56ad83e517e1637f48bf1e7ca712d8f259c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T13:54:06.179796-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665683654",
+      "size": "1512",
+      "md5": "7881ae7849e923584923c15fa8a174df",
+      "crc32": "dbd55970",
+      "sha1": "843bd48a0101d78f87f3e265904ed1d38884159e",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T13:54:06.179796-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665683656",
+      "size": "106315",
+      "md5": "508ca5f31d2dae57f4d1ba3fd4aca239",
+      "crc32": "9bc1886e",
+      "sha1": "936482b6c97230bcf032bb39173b6b6af9a45ee9",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T13:54:06.179796-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-13T13:54:06.179796-04:00.jpg",
+      "mtime": "1665683734",
+      "size": "8875",
+      "md5": "6353bc2d0e6a3a26b8ce2b1712b1bfd2",
+      "crc32": "758d28e5",
+      "sha1": "c8547b9f14a044afd348b603cee2ad157077cd71"
+    },
+    {
       "name": "lexdispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1fd965bb06beb7b23b430fe80dc56877577bc2a8",
-      "mtime": "1665640901",
-      "size": "59918",
-      "md5": "37e4731a1933d3332b632d8678a181b6",
-      "crc32": "3dab4624",
-      "sha1": "9825d6bf14524b297afd3d3d0e88f460af34b438",
+      "btih": "3f5d6864fe1b05e6f60ca7f6abc68d74ae8f2fcd",
+      "mtime": "1665683765",
+      "size": "61204",
+      "md5": "539b8bd49670005204b8f2df644d9fd6",
+      "crc32": "eea56327",
+      "sha1": "4ab4b8de7d72cfa9559e944e163496c091a9a826",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lexdispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f1ce526faa890fb12e3e5ab64cb00950",
+      "md5": "18df11f527dba362ea66198cdb97792f",
       "summation": "md5"
     },
     {
       "name": "lexdispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665640514",
-      "size": "368640",
-      "md5": "59ceb8f36a91f0d90dbac94829375c2f",
-      "crc32": "7a03a138",
-      "sha1": "0bffa468aa943eb115f6ef23b312210667fe9e17",
+      "mtime": "1665683661",
+      "size": "376832",
+      "md5": "fce76c06ce553bbbe0581954a99bd78d",
+      "crc32": "4ce31c35",
+      "sha1": "61911ce841b1f2699f46e9e4b9c1d2234b46ce94",
       "format": "Metadata"
     },
     {
@@ -2876,17 +2938,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 278,
-  "item_last_updated": 1665640901,
-  "item_size": 19201313,
-  "lexdispatch-2022": {
-    "url": "https://www.the-dispatch.com/",
-    "job_id": "spn2-2126014937a77767e3c7f7c12b6bbff1b5bf3a8e",
-    "resources": [],
-    "status": "error",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed"
-  },
+  "files_count": 284,
+  "item_last_updated": 1665683765,
+  "item_size": 19659706,
   "metadata": {
     "identifier": "lexdispatch-2022",
     "collection": [
@@ -2904,7 +2958,7 @@
     "addeddate": "2022-09-20 17:33:29"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 1676735766,
+  "uniq": 1374596492,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"
