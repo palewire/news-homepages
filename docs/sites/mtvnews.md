@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 174 screenshots with the Internet Archive.
+The archiving routine has saved 175 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 174 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T21:21:49.029274-04:00.jpg">
+  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T21:21:49.029274-04:00.jpg"
+     alt="MTV News at 2022-10-12 21:21:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T21:21:49.029274-04:00.jpg">October 12 at 9:21 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T08:58:27.814809-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-10-07T09:12:41.147291-04:00.jpg">October 7 at 9:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-10-06T21:46:12.552045-04:00.jpg">
-  <img src="https://archive.org/download/mtvnews-2022/mtvnews-2022-10-06T21:46:12.552045-04:00.jpg"
-     alt="MTV News at 2022-10-06 21:46:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtvnews-2022/mtvnews-2022-10-06T21:46:12.552045-04:00.jpg">October 6 at 9:46 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 175 hyperlink lists with the Internet Archive.
+The archiving routine has saved 176 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 9:21 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T21:21:49.029274-04:00.hyperlinks.json) |
 | [October 12 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T08:58:27.814809-04:00.hyperlinks.json) |
 | [October 11 at 9:39 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-11T21:39:11.486013-04:00.hyperlinks.json) |
 | [October 11 at 9:10 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-11T09:10:18.926370-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 9:07 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-09T09:07:31.111334-04:00.hyperlinks.json) |
 | [October 8 at 9:20 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-08T21:20:40.653560-04:00.hyperlinks.json) |
 | [October 8 at 9:06 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-08T09:06:48.392670-04:00.hyperlinks.json) |
-| [October 7 at 9:31 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-07T21:30:54.929267-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 175 accessibility trees with the Internet Archive.
+The archiving routine has saved 176 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 9:21 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T21:21:49.029274-04:00.accessibility.json) |
 | [October 12 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T08:58:27.814809-04:00.accessibility.json) |
 | [October 11 at 9:39 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-11T21:39:11.486013-04:00.accessibility.json) |
 | [October 11 at 9:10 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-11T09:10:18.926370-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 9:07 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-09T09:07:31.111334-04:00.accessibility.json) |
 | [October 8 at 9:20 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-08T21:20:40.653560-04:00.accessibility.json) |
 | [October 8 at 9:06 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-08T09:06:48.392670-04:00.accessibility.json) |
-| [October 7 at 9:31 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-07T21:30:54.929267-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 9:22 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T21:21:49.029274-04:00.lighthouse.json) |
 | [October 12 at 8:58 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-12T08:58:27.814809-04:00.lighthouse.json) |
 | [October 11 at 9:39 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-11T21:39:11.486013-04:00.lighthouse.json) |
 | [October 11 at 9:10 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-11T09:10:18.926370-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 9:07 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-09T09:07:31.111334-04:00.lighthouse.json) |
 | [October 8 at 9:21 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-08T21:20:40.653560-04:00.lighthouse.json) |
 | [October 8 at 9:07 AM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-08T09:06:48.392670-04:00.lighthouse.json) |
-| [October 7 at 9:31 PM](https://archive.org/download/mtvnews-2022/mtvnews-2022-10-07T21:30:54.929267-04:00.lighthouse.json) |
 
 
 

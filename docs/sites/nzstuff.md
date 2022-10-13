@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 137 screenshots with the Internet Archive.
+The archiving routine has saved 138 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 137 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T15:19:18.795165+13:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T15:19:18.795165+13:00.jpg"
+     alt="Stuff at 2022-10-13 15:19:20+13:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T15:19:18.795165+13:00.jpg">October 13 at 3:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T03:09:30.292072+13:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-08T03:16:04.928009+13:00.jpg">October 8 at 3:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-07T15:43:52.705222+13:00.jpg">
-  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-07T15:43:52.705222+13:00.jpg"
-     alt="Stuff at 2022-10-07 15:43:54+13:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-07T15:43:52.705222+13:00.jpg">October 7 at 3:43 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 136 hyperlink lists with the Internet Archive.
+The archiving routine has saved 137 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 3:19 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T15:19:18.795165+13:00.hyperlinks.json) |
 | [October 13 at 3:09 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T03:09:30.292072+13:00.hyperlinks.json) |
 | [October 12 at 3:37 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-12T15:37:10.883558+13:00.hyperlinks.json) |
 | [October 12 at 4:05 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-12T04:05:22.525292+13:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 3:01 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-10T03:01:16.987133+13:00.hyperlinks.json) |
 | [October 9 at 3:31 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-09T15:31:47.251359+13:00.hyperlinks.json) |
 | [October 9 at 3:18 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-09T03:18:19.881704+13:00.hyperlinks.json) |
-| [October 8 at 3:33 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-08T15:33:31.012074+13:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 137 accessibility trees with the Internet Archive.
+The archiving routine has saved 138 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 3:19 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T15:19:18.795165+13:00.accessibility.json) |
 | [October 13 at 3:09 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T03:09:30.292072+13:00.accessibility.json) |
 | [October 12 at 3:37 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-12T15:37:10.883558+13:00.accessibility.json) |
 | [October 12 at 4:05 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-12T04:05:22.525292+13:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 3:01 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-10T03:01:16.987133+13:00.accessibility.json) |
 | [October 9 at 3:31 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-09T15:31:47.251359+13:00.accessibility.json) |
 | [October 9 at 3:18 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-09T03:18:19.881704+13:00.accessibility.json) |
-| [October 8 at 3:33 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-08T15:33:31.012074+13:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 138 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 3:19 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T15:19:18.795165+13:00.lighthouse.json) |
 | [October 13 at 3:09 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T03:09:30.292072+13:00.lighthouse.json) |
 | [October 12 at 3:37 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-12T15:37:10.883558+13:00.lighthouse.json) |
 | [October 12 at 4:05 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-12T04:05:22.525292+13:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 3:01 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-10T03:01:16.987133+13:00.lighthouse.json) |
 | [October 9 at 3:31 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-09T15:31:47.251359+13:00.lighthouse.json) |
 | [October 9 at 3:18 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-09T03:18:19.881704+13:00.lighthouse.json) |
-| [October 8 at 3:33 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-08T15:33:31.012074+13:00.lighthouse.json) |
 
 
 

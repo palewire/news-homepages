@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 161 screenshots with the Internet Archive.
+The archiving routine has saved 162 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 161 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-13T08:06:33.904811+05:45.jpg">
+  <img src="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-13T08:06:33.904811+05:45.jpg"
+     alt="Rajdhani Daily at 2022-10-13 08:06:40+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-13T08:06:33.904811+05:45.jpg">October 13 at 8:06 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-12T19:55:58.083481+05:45.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-07T20:03:32.703335+05:45.jpg">October 7 at 8:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-07T08:31:52.293225+05:45.jpg">
-  <img src="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-07T08:31:52.293225+05:45.jpg"
-     alt="Rajdhani Daily at 2022-10-07 08:32:00+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-07T08:31:52.293225+05:45.jpg">October 7 at 8:32 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 161 hyperlink lists with the Internet Archive.
+The archiving routine has saved 162 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 8:06 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-13T08:06:33.904811+05:45.hyperlinks.json) |
 | [October 12 at 7:56 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-12T19:55:58.083481+05:45.hyperlinks.json) |
 | [October 12 at 8:23 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-12T08:22:59.441719+05:45.hyperlinks.json) |
 | [October 11 at 8:53 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-11T20:52:49.312575+05:45.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 7:46 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-09T19:46:34.015994+05:45.hyperlinks.json) |
 | [October 9 at 8:19 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-09T08:18:57.452353+05:45.hyperlinks.json) |
 | [October 8 at 8:02 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-08T20:02:20.277828+05:45.hyperlinks.json) |
-| [October 8 at 8:21 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-08T08:21:08.011377+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 160 accessibility trees with the Internet Archive.
+The archiving routine has saved 161 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 8:06 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-13T08:06:33.904811+05:45.accessibility.json) |
 | [October 12 at 7:56 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-12T19:55:58.083481+05:45.accessibility.json) |
 | [October 12 at 8:23 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-12T08:22:59.441719+05:45.accessibility.json) |
 | [October 11 at 8:53 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-11T20:52:49.312575+05:45.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 7:46 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-09T19:46:34.015994+05:45.accessibility.json) |
 | [October 9 at 8:19 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-09T08:18:57.452353+05:45.accessibility.json) |
 | [October 8 at 8:02 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-08T20:02:20.277828+05:45.accessibility.json) |
-| [October 8 at 8:21 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-08T08:21:08.011377+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 8:06 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-13T08:06:33.904811+05:45.lighthouse.json) |
 | [October 12 at 7:56 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-12T19:55:58.083481+05:45.lighthouse.json) |
 | [October 12 at 8:23 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-12T08:22:59.441719+05:45.lighthouse.json) |
 | [October 11 at 8:53 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-11T20:52:49.312575+05:45.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 7:46 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-09T19:46:34.015994+05:45.lighthouse.json) |
 | [October 9 at 8:19 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-09T08:18:57.452353+05:45.lighthouse.json) |
 | [October 8 at 8:02 PM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-08T20:02:20.277828+05:45.lighthouse.json) |
-| [October 8 at 8:21 AM](https://archive.org/download/rajdhani_daily-2022/rajdhani_daily-2022-10-08T08:21:08.011377+05:45.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 45 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 44 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T22:21:36.357893-04:00.jpg">
+  <img src="https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T22:21:36.357893-04:00.jpg"
+     alt="The Patriot Ledger at 2022-10-12 22:21:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T22:21:36.357893-04:00.jpg">October 12 at 10:21 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T10:08:37.828471-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/patriotledger-2022/patriotledger-2022-10-07T10:15:20.074706-04:00.jpg">October 7 at 10:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/patriotledger-2022/patriotledger-2022-10-06T22:45:27.778805-04:00.jpg">
-  <img src="https://archive.org/download/patriotledger-2022/patriotledger-2022-10-06T22:45:27.778805-04:00.jpg"
-     alt="The Patriot Ledger at 2022-10-06 22:45:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/patriotledger-2022/patriotledger-2022-10-06T22:45:27.778805-04:00.jpg">October 6 at 10:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 44 hyperlink lists with the Internet Archive.
+The archiving routine has saved 45 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 12 at 10:21 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T22:21:36.357893-04:00.hyperlinks.json) |
 | [October 12 at 10:08 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T10:08:37.828471-04:00.hyperlinks.json) |
 | [October 11 at 10:36 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-11T22:36:47.244187-04:00.hyperlinks.json) |
 | [October 11 at 11:06 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-11T11:06:31.910834-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 9 at 10:01 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-09T10:01:34.917102-04:00.hyperlinks.json) |
 | [October 8 at 10:31 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-08T22:31:42.092821-04:00.hyperlinks.json) |
 | [October 8 at 10:15 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-08T10:15:17.625645-04:00.hyperlinks.json) |
-| [October 7 at 10:33 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-07T22:32:50.230232-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 44 accessibility trees with the Internet Archive.
+The archiving routine has saved 45 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 12 at 10:21 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T22:21:36.357893-04:00.accessibility.json) |
 | [October 12 at 10:08 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T10:08:37.828471-04:00.accessibility.json) |
 | [October 11 at 10:36 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-11T22:36:47.244187-04:00.accessibility.json) |
 | [October 11 at 11:06 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-11T11:06:31.910834-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 9 at 10:01 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-09T10:01:34.917102-04:00.accessibility.json) |
 | [October 8 at 10:31 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-08T22:31:42.092821-04:00.accessibility.json) |
 | [October 8 at 10:15 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-08T10:15:17.625645-04:00.accessibility.json) |
-| [October 7 at 10:32 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-07T22:32:50.230232-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 44 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 12 at 10:21 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T22:21:36.357893-04:00.lighthouse.json) |
 | [October 12 at 10:08 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-12T10:08:37.828471-04:00.lighthouse.json) |
 | [October 11 at 10:36 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-11T22:36:47.244187-04:00.lighthouse.json) |
 | [October 11 at 11:06 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-11T11:06:31.910834-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 9 at 10:01 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-09T10:01:34.917102-04:00.lighthouse.json) |
 | [October 8 at 10:31 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-08T22:31:42.092821-04:00.lighthouse.json) |
 | [October 8 at 10:15 AM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-08T10:15:17.625645-04:00.lighthouse.json) |
-| [October 7 at 10:33 PM](https://archive.org/download/patriotledger-2022/patriotledger-2022-10-07T22:32:50.230232-04:00.lighthouse.json) |
 
 
 
