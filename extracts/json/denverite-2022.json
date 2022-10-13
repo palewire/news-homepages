@@ -1,5 +1,5 @@
 {
-  "created": 1665576220,
+  "created": 1665618829,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/denverite-2022",
@@ -7540,31 +7540,93 @@
       "sha1": "9d059156a664dbf3ca2bdfbd07862765da6e0cf2"
     },
     {
+      "name": "denverite-2022-10-12T17:51:12.187938-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665618702",
+      "size": "28820",
+      "md5": "06858b8932e036a3fa894981590ab8d1",
+      "crc32": "b2f4b618",
+      "sha1": "95070984d48457e2f8ecc90517318d0ab3486412",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-12T17:51:12.187938-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665618704",
+      "size": "30115",
+      "md5": "79724f0b9bf06f98c16fed63dbb25c7d",
+      "crc32": "aea2e19f",
+      "sha1": "453c3c8dc6e0d2f22a98f19eff415c884a8a12ca",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-12T17:51:12.187938-06:00.jpg",
+      "source": "original",
+      "mtime": "1665618700",
+      "size": "346253",
+      "md5": "616fadfebeda588a31a1bf700578791a",
+      "crc32": "b32f7d16",
+      "sha1": "c9de99af08263cba63ecd16124210ab5877a8ab0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-12T17:51:12.187938-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665618706",
+      "size": "1449",
+      "md5": "17f1ebd2f39f77b1cf10534a98ce919e",
+      "crc32": "ed708b2d",
+      "sha1": "9ba2bbfa23052fbef4d6b97c970b487ea1af287f",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-12T17:51:12.187938-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665618707",
+      "size": "18476",
+      "md5": "efd113bcdd7346c909a3172afb53c09b",
+      "crc32": "a1abf6cf",
+      "sha1": "a6418d07f5bc26d254ed6b0520de6c1e9001c899",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-12T17:51:12.187938-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-12T17:51:12.187938-06:00.jpg",
+      "mtime": "1665618798",
+      "size": "9780",
+      "md5": "03b490a17080367f0e39af75c974c222",
+      "crc32": "cc2e282d",
+      "sha1": "cf05eb0d2e9ef1791f18fe10de7294ff316b1701"
+    },
+    {
       "name": "denverite-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b84eb2b63275b23c0d4566eaa4a4bc9b45092136",
-      "mtime": "1665576200",
-      "size": "155697",
-      "md5": "e64c3095e2f06cc1427abfad6f476ed1",
-      "crc32": "661de7f5",
-      "sha1": "8b967301cb845060dd11dcd9dd7a377eb2a0e7a9",
+      "btih": "f88240b61c2d5e965b56a097e9190549e9c20ee7",
+      "mtime": "1665618809",
+      "size": "156970",
+      "md5": "7697ea5644a677a01485f8904bdcea6a",
+      "crc32": "d905249f",
+      "sha1": "196e61c99b16da5f2449a1e40e3cb35af3360ec3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverite-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "462ece396eedd8842f79fb3db47037e2",
+      "md5": "d5ab64a09cf6ab93928b4e98a9f0eb36",
       "summation": "md5"
     },
     {
       "name": "denverite-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665576109",
-      "size": "942080",
-      "md5": "6c3baea14e6b9fcba94690e6880dc1da",
-      "crc32": "00c6f232",
-      "sha1": "8c96ae648c907c6b8030937bb7bdc1b9747bfd99",
+      "mtime": "1665618712",
+      "size": "950272",
+      "md5": "c6cab9a652403132e767647e83c46813",
+      "crc32": "0d60c30b",
+      "sha1": "b175c70f1474bd6a19b0e6f306436ce3a07f38c0",
       "format": "Metadata"
     },
     {
@@ -7578,9 +7640,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 733,
-  "item_last_updated": 1665576200,
-  "item_size": 54512264,
+  "files_count": 739,
+  "item_last_updated": 1665618809,
+  "item_size": 54956622,
   "metadata": {
     "identifier": "denverite-2022",
     "collection": [
@@ -7598,7 +7660,7 @@
     "addeddate": "2022-08-13 23:53:15"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 555879420,
+  "uniq": 1300718657,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

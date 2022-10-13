@@ -1,5 +1,5 @@
 {
-  "created": 1665576378,
+  "created": 1665619291,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/hellgateny-2022",
@@ -11660,31 +11660,93 @@
       "sha1": "c7ce0aff38dd87aec63b9aee5452c06c331a16ff"
     },
     {
+      "name": "hellgateny-2022-10-12T19:58:16.423470-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665619100",
+      "size": "18123",
+      "md5": "d2eb665a589e51589eb52bd2b49b63e3",
+      "crc32": "f9a20653",
+      "sha1": "a0857e22e61d5d37298bf9ab309074ccb5a57f3a",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-12T19:58:16.423470-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665619101",
+      "size": "17241",
+      "md5": "c0a2dcb32d809671c283fe746e647c9d",
+      "crc32": "d6b55950",
+      "sha1": "436ad3259cc6e553485c16cb0bbdf0dad3ff3766",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-12T19:58:16.423470-04:00.jpg",
+      "source": "original",
+      "mtime": "1665619098",
+      "size": "209644",
+      "md5": "15b2eb030c8f82475efa7cd81efb8afb",
+      "crc32": "51494509",
+      "sha1": "142b329097f3ec42429a879c293799509082c993",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-12T19:58:16.423470-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665619103",
+      "size": "1459",
+      "md5": "55a4850d8c93b6ccda0df4106c956d20",
+      "crc32": "8b7b9a33",
+      "sha1": "bc1276553be4a4440f33637f38c7a162d660ae5f",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-12T19:58:16.423470-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665619105",
+      "size": "16086",
+      "md5": "13c3d250a86162ab7922b5a4f178a67d",
+      "crc32": "8aabe854",
+      "sha1": "80a3ca712004155455c1514d2478a9f81ef564a0",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-12T19:58:16.423470-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-12T19:58:16.423470-04:00.jpg",
+      "mtime": "1665619239",
+      "size": "8898",
+      "md5": "5da838de5ac2f0c16a537cc5d25f2727",
+      "crc32": "a20c6317",
+      "sha1": "20b1a34632c83226e0864939904a35b5869fb127"
+    },
+    {
       "name": "hellgateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2e36550a41374641d637e0925be948a34e2d27b6",
-      "mtime": "1665576370",
-      "size": "239278",
-      "md5": "ddcb78b955c15a0782b8067e15b8dc05",
-      "crc32": "ded43b29",
-      "sha1": "b79076055902a3a20e520d08d0f3486ac162a316",
+      "btih": "e1d71fc6782e80aa90557820c08cf3354fea7c59",
+      "mtime": "1665619276",
+      "size": "240537",
+      "md5": "8daaf820528bf0c6278b37985aa7fc72",
+      "crc32": "e784078c",
+      "sha1": "9b8cb19976477eaaa829c51b568c85b1ee16a3d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hellgateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aec1516232b4aef9b12f541556e03393",
+      "md5": "dd45b10f61d64bb403085f50915f88f3",
       "summation": "md5"
     },
     {
       "name": "hellgateny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665576289",
-      "size": "1413120",
-      "md5": "485a4624190fbbb5208f71b34918ada1",
-      "crc32": "70d49dd3",
-      "sha1": "890f85525433ef6cbc4f8664357c92652a3c9be0",
+      "mtime": "1665619110",
+      "size": "1425408",
+      "md5": "a11ba4c4eb1d4633195088e78c092a74",
+      "crc32": "1f3ca490",
+      "sha1": "25ec113cc07fcba9e6d1c060a274bf5fd6759947",
       "format": "Metadata"
     },
     {
@@ -11698,9 +11760,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1128,
-  "item_last_updated": 1665576370,
-  "item_size": 59578858,
+  "files_count": 1134,
+  "item_last_updated": 1665619276,
+  "item_size": 59863856,
   "metadata": {
     "identifier": "hellgateny-2022",
     "collection": [
@@ -11718,7 +11780,7 @@
     "addeddate": "2022-07-04 21:54:35"
   },
   "server": "ia902507.us.archive.org",
-  "uniq": 2118669670,
+  "uniq": 1365977879,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"

@@ -1,6 +1,5 @@
 {
-  "conflict": 1665576670,
-  "created": 1665576670,
+  "created": 1665619108,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/1/items/heraldtribune-2022",
@@ -2807,31 +2806,93 @@
       "sha1": "714a2d3ca9b1856e4dec1362021d6558da675727"
     },
     {
+      "name": "heraldtribune-2022-10-12T19:57:08.895786-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665619034",
+      "size": "24269",
+      "md5": "16eda80d9027ad9bd4fa847b96e3d503",
+      "crc32": "ac4b73e4",
+      "sha1": "0ec4af46830d4afe8b029a36761b70eeaf3a5457",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldtribune-2022-10-12T19:57:08.895786-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665619036",
+      "size": "33167",
+      "md5": "416498048d1f8c3755e27a454c82ef0d",
+      "crc32": "968a26ce",
+      "sha1": "936f950a9c0bfb26c25fea2f141c72f3271d88bc",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldtribune-2022-10-12T19:57:08.895786-04:00.jpg",
+      "source": "original",
+      "mtime": "1665619032",
+      "size": "258745",
+      "md5": "397b43f16757f4adeef4283b58f9e0aa",
+      "crc32": "8197daef",
+      "sha1": "8dafbdc39e6452185242f56f23f55ffb4b824a69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldtribune-2022-10-12T19:57:08.895786-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665619037",
+      "size": "1522",
+      "md5": "c7702975fc5d110fc052da99dc04f158",
+      "crc32": "03a5d90b",
+      "sha1": "1fe9d25c964bcefce73cc617e5494c599effde3e",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldtribune-2022-10-12T19:57:08.895786-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665619039",
+      "size": "81567",
+      "md5": "bb378abe73fb5ea5ce64d7e082b4080c",
+      "crc32": "6fddd0d5",
+      "sha1": "5c667d72d0e8aa4cef2beeb472ef40e21b736da6",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldtribune-2022-10-12T19:57:08.895786-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldtribune-2022-10-12T19:57:08.895786-04:00.jpg",
+      "mtime": "1665619091",
+      "size": "8998",
+      "md5": "0ab3ca0bfbc7179c4fcf07f40784f2ed",
+      "crc32": "0e2bbb6f",
+      "sha1": "bf1f6228a4a071cb2bd393d300e4eeeb9dde0733"
+    },
+    {
       "name": "heraldtribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de59acb5806d38143190d71266a652c622edb897",
-      "mtime": "1665576667",
-      "size": "59844",
-      "md5": "bebb771177ce18494b48e6de66b82c7c",
-      "crc32": "71dc9fe1",
-      "sha1": "001827200224d8f983509b00b37ce2acdd45bbc5",
+      "btih": "93ddbbfe947cf545e939920da34756458f4e1c36",
+      "mtime": "1665619096",
+      "size": "61141",
+      "md5": "86e3b9c51705eb8a9bd5a9c8a883813f",
+      "crc32": "645687c8",
+      "sha1": "6ef4b9b8a227b392b7c577bcc7feb12ced645844",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldtribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3d8b423f99df3894fabfecc33aa9642",
+      "md5": "24eeef0c9bd1d5170111dd5bd923f47a",
       "summation": "md5"
     },
     {
       "name": "heraldtribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665576268",
-      "size": "364544",
-      "md5": "b004cf94ca554de729f4b28ff2f967b5",
-      "crc32": "8bfa8d7f",
-      "sha1": "ef40b3faecec25766500b8c39586f647a95886e2",
+      "mtime": "1665619043",
+      "size": "372736",
+      "md5": "60f44804aa634eb2436100e1cf0dbeb6",
+      "crc32": "68696cc3",
+      "sha1": "7694c47983172c97adef1cebb8d6edbc28b6f8a1",
       "format": "Metadata"
     },
     {
@@ -2845,9 +2906,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 275,
-  "item_last_updated": 1665576667,
-  "item_size": 19407320,
+  "files_count": 281,
+  "item_last_updated": 1665619096,
+  "item_size": 19825077,
   "metadata": {
     "identifier": "heraldtribune-2022",
     "collection": [
@@ -2864,29 +2925,10 @@
     "publicdate": "2022-09-20 22:19:12",
     "addeddate": "2022-09-20 22:19:12"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3436961150,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3436966674,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1554780227,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1922247080,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }
