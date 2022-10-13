@@ -1,5 +1,6 @@
 {
-  "created": 1665674123,
+  "conflict": 1665692777,
+  "created": 1665692777,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/29/items/toacornnews-2022",
@@ -19343,10 +19344,21 @@
     "publicdate": "2022-06-19 23:29:35",
     "addeddate": "2022-06-19 23:29:35"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 633666341,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3438738260,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 996924477,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }
