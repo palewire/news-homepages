@@ -1,5 +1,5 @@
 {
-  "created": 1665595622,
+  "created": 1665640705,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/34/items/mnherald-2022",
@@ -2806,31 +2806,93 @@
       "sha1": "e0fe98a1bd97de4198cdebb3e80106d1ad732a6b"
     },
     {
+      "name": "mnherald-2022-10-13T00:57:05.845427-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665640630",
+      "size": "23679",
+      "md5": "1503b40a3a75717eb683916761695695",
+      "crc32": "247dd30c",
+      "sha1": "27673bb6939d76ed15db2f0bd46deaa7ffa657e7",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-10-13T00:57:05.845427-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665640632",
+      "size": "35554",
+      "md5": "bb372ba8f892239189db5f45f7d774c6",
+      "crc32": "e93ca4f7",
+      "sha1": "82ab620f4e541dd1531b63fd2a7a73ee64cade50",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-10-13T00:57:05.845427-05:00.jpg",
+      "source": "original",
+      "mtime": "1665640628",
+      "size": "257252",
+      "md5": "3c85d5af1805af62e38cc0a84cb7bf14",
+      "crc32": "49d6ed06",
+      "sha1": "2c59926449ceaf7569090639301e02e156e32cf4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mnherald-2022-10-13T00:57:05.845427-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665640633",
+      "size": "1585",
+      "md5": "7c170edc36ab1c5d5b0daba30517a874",
+      "crc32": "e23d5ccc",
+      "sha1": "851182deb7a38f3ee11e573362a0570e0acf2262",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-10-13T00:57:05.845427-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665640635",
+      "size": "217",
+      "md5": "22f7931bb0231dff694f272d57a8d424",
+      "crc32": "da35eb5b",
+      "sha1": "5403710c011347a57514f0a3f9ba4477d11ac7cf",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-10-13T00:57:05.845427-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mnherald-2022-10-13T00:57:05.845427-05:00.jpg",
+      "mtime": "1665640692",
+      "size": "9013",
+      "md5": "f4466985845ffc48f6abc1e379fce1ee",
+      "crc32": "d508c05d",
+      "sha1": "f5b4aef4d56883a7a6f6cd41c44b31e5fcac8e67"
+    },
+    {
       "name": "mnherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "12645c2158c78fef21f5ed97939f01aa54019b2c",
-      "mtime": "1665595615",
-      "size": "58428",
-      "md5": "47c1e0f150e7f4aab409db6301713b63",
-      "crc32": "ce63ca68",
-      "sha1": "2b2459e94cdfc54e1e7280472a2a105ac7b45c11",
+      "btih": "ac89e59c826bbf591aef90dea5ba941439c04140",
+      "mtime": "1665640696",
+      "size": "59673",
+      "md5": "66a5b0d950b73f7c6c0b6cf26179e211",
+      "crc32": "89137476",
+      "sha1": "75fa9312ef6f62d94e0a04430b4d89f27cb8e7d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mnherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b69a82c139778cad5e15d9861ad93b6e",
+      "md5": "ede3318fde66384064c350a0714e69de",
       "summation": "md5"
     },
     {
       "name": "mnherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665595562",
-      "size": "364544",
-      "md5": "7952ee6213672a58ae74f6ffaf903e08",
-      "crc32": "3973d3ec",
-      "sha1": "80514da851e337cc3754ca77d0a5239eaeb6435d",
+      "mtime": "1665640639",
+      "size": "372736",
+      "md5": "c4ea20ba31157104375f167efd5db6b8",
+      "crc32": "9b049c61",
+      "sha1": "ea0765af755241b2242b9f7f683ccbca50713b46",
       "format": "Metadata"
     },
     {
@@ -2844,9 +2906,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 275,
-  "item_last_updated": 1665595615,
-  "item_size": 18547021,
+  "files_count": 281,
+  "item_last_updated": 1665640696,
+  "item_size": 18883758,
   "metadata": {
     "identifier": "mnherald-2022",
     "collection": [
@@ -2864,7 +2926,7 @@
     "addeddate": "2022-09-20 17:36:08"
   },
   "server": "ia801402.us.archive.org",
-  "uniq": 1204941490,
+  "uniq": 1428157959,
   "workable_servers": [
     "ia801402.us.archive.org",
     "ia601402.us.archive.org"

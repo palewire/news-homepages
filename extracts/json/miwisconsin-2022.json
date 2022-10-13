@@ -1,5 +1,5 @@
 {
-  "created": 1665595577,
+  "created": 1665645811,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/15/items/miwisconsin-2022",
@@ -10438,31 +10438,93 @@
       "sha1": "28bd81ab67c417b5b76f5a9e00a6174160d67acc"
     },
     {
+      "name": "miwisconsin-2022-10-13T00:56:52.882628-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665640621",
+      "size": "47237",
+      "md5": "f0a8af615e7f1a46d9f909a40b65f0cf",
+      "crc32": "aa789e0a",
+      "sha1": "5816014ec340c39191d941293f730c43f6ba8c0c",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-13T00:56:52.882628-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665640623",
+      "size": "57679",
+      "md5": "318c1391adb711cb58038501b5ddfbc3",
+      "crc32": "9d00c6d3",
+      "sha1": "c39964fed95a435a1589d13a13e93e945ccc27fc",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-13T00:56:52.882628-05:00.jpg",
+      "source": "original",
+      "mtime": "1665640620",
+      "size": "222006",
+      "md5": "c0176efdd9cbf8e4a6b418067984fdbb",
+      "crc32": "8281ecb3",
+      "sha1": "5b5e21378563bffdf6e357135d0827034026b2c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miwisconsin-2022-10-13T00:56:52.882628-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665640625",
+      "size": "1465",
+      "md5": "6cd86063c29b9e564aed5a3f6ead8407",
+      "crc32": "2c3559c2",
+      "sha1": "d7c0532a825970fff63b5cbb1576a46d9abb08b8",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-13T00:56:52.882628-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665640627",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-13T00:56:52.882628-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miwisconsin-2022-10-13T00:56:52.882628-05:00.jpg",
+      "mtime": "1665640697",
+      "size": "9749",
+      "md5": "c27ee9bc3a25d5c80d5a3e58faf97bb3",
+      "crc32": "d3b33988",
+      "sha1": "13413496dbfc34a61aa771df1cf0d9e5de485134"
+    },
+    {
       "name": "miwisconsin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2d5f23e079cda990690b4ebed9d8fda6071e9f6",
-      "mtime": "1665595555",
-      "size": "216019",
-      "md5": "c407e5d49ee185c2215c802e2be25eb6",
-      "crc32": "b5e9f185",
-      "sha1": "101daf7854e0d990e83e8c01dfcc7696abeb392d",
+      "btih": "eba42cf45970c62997772449b69ecb4c74d0fc57",
+      "mtime": "1665640708",
+      "size": "217302",
+      "md5": "8429915d268b002b65aa9af41f9da06d",
+      "crc32": "35b262bd",
+      "sha1": "c199b0dc533595701092c7572f7b9c1bdc3259ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miwisconsin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "74247df3644f2d29e7d8af2625c012ee",
+      "md5": "2d039db4948957004384139016ca52c3",
       "summation": "md5"
     },
     {
       "name": "miwisconsin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665595471",
-      "size": "1277952",
-      "md5": "8aba44458519e043d962db63d9e6d5c3",
-      "crc32": "f2e34bb4",
-      "sha1": "d5e09e49e3344c99fc653e6b17566711eb2fa937",
+      "mtime": "1665640637",
+      "size": "1286144",
+      "md5": "797a88d5ee5ebdab61c5392fe0a814d8",
+      "crc32": "2e168ce1",
+      "sha1": "9f97061986c99df0ba28a5144ee965b0fa6e63f9",
       "format": "Metadata"
     },
     {
@@ -10476,9 +10538,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1011,
-  "item_last_updated": 1665595555,
-  "item_size": 64976186,
+  "files_count": 1017,
+  "item_last_updated": 1665640708,
+  "item_size": 65323999,
   "metadata": {
     "identifier": "miwisconsin-2022",
     "collection": [
@@ -10495,8 +10557,13 @@
     "publicdate": "2022-07-09 04:00:37",
     "addeddate": "2022-07-09 04:00:37"
   },
+  "miwisconsin-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801502.us.archive.org",
-  "uniq": 825888786,
+  "uniq": 1985867307,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

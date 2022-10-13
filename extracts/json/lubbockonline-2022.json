@@ -1,5 +1,5 @@
 {
-  "created": 1665595549,
+  "created": 1665643617,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/35/items/lubbockonline-2022",
@@ -10128,31 +10128,93 @@
       "sha1": "50d9682895b82e2a322a4675def44a254fe3b318"
     },
     {
+      "name": "lubbockonline-2022-10-13T00:56:26.574609-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665640590",
+      "size": "23000",
+      "md5": "346102af7e51c16dac0b65dc1a04a4ef",
+      "crc32": "641a0149",
+      "sha1": "d748ba67aa751f879aafe59a2e9e677814d6e973",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-10-13T00:56:26.574609-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665640592",
+      "size": "35070",
+      "md5": "ddfff790cba4f25965ae9cfead1f1fe7",
+      "crc32": "77a3d4e1",
+      "sha1": "175a2ae82e2c6e014094bd3efad0863ad1c29ee4",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-10-13T00:56:26.574609-05:00.jpg",
+      "source": "original",
+      "mtime": "1665640588",
+      "size": "236236",
+      "md5": "d4cb035db1234fff756483e3c95379d9",
+      "crc32": "0e124e0b",
+      "sha1": "bdd44f1c8538b83e2322dcbbb1fc38514ca1d836",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lubbockonline-2022-10-13T00:56:26.574609-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665640597",
+      "size": "1522",
+      "md5": "8452fb490d2554ef87b15cbf99bc37de",
+      "crc32": "c1df2ae5",
+      "sha1": "66ec7812763eb1a5f3fc8177ea23f4667220d338",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-10-13T00:56:26.574609-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665640599",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lubbockonline-2022-10-13T00:56:26.574609-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lubbockonline-2022-10-13T00:56:26.574609-05:00.jpg",
+      "mtime": "1665640669",
+      "size": "9417",
+      "md5": "918ee4d7b093eac068cbb3e42bea6310",
+      "crc32": "31252eb4",
+      "sha1": "bdd882701c9edc511362ed59295c0ceec13de2b3"
+    },
+    {
       "name": "lubbockonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4be6adbea7d26cc97d8a0e1ee676514bd111477d",
-      "mtime": "1665595534",
-      "size": "212013",
-      "md5": "634e98081360eb1ed096a1c8339ee3db",
-      "crc32": "51bf213b",
-      "sha1": "e76502137ef398f0d9269697a4703b922e91d782",
+      "btih": "f590abd3389be54e2c36734994cc13a69f9f06cf",
+      "mtime": "1665640679",
+      "size": "213308",
+      "md5": "9b496c623c8550785845bd61120a12c1",
+      "crc32": "9a8312c7",
+      "sha1": "3648ea3b56a826c414352b101a75853b14e79961",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lubbockonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d50cbb87f5cbc1ef360cbfdc3c914107",
+      "md5": "36864443d38ef33a5b803a178928ad8f",
       "summation": "md5"
     },
     {
       "name": "lubbockonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665595459",
-      "size": "1253376",
-      "md5": "9a90857ed095d220525f211a4c40739f",
-      "crc32": "c79a5906",
-      "sha1": "c34081afc9fae70f83c4f84a6d6950116ac60641",
+      "mtime": "1665640605",
+      "size": "1261568",
+      "md5": "93580e947c8e03069e12d76453e86168",
+      "crc32": "70fd6466",
+      "sha1": "1b90affdb8c13447c296d16d4438722e1cc89872",
       "format": "Metadata"
     },
     {
@@ -10166,9 +10228,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 982,
-  "item_last_updated": 1665595534,
-  "item_size": 65199152,
+  "files_count": 988,
+  "item_last_updated": 1665640679,
+  "item_size": 65514086,
   "metadata": {
     "identifier": "lubbockonline-2022",
     "collection": [
@@ -10185,10 +10247,10 @@
     "publicdate": "2022-07-18 17:54:05",
     "addeddate": "2022-07-18 17:54:05"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1630373580,
+  "server": "ia801509.us.archive.org",
+  "uniq": 2050800278,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

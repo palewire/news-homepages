@@ -1,5 +1,5 @@
 {
-  "created": 1665600817,
+  "created": 1665645697,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/35/items/lexdispatch-2022",
@@ -2776,31 +2776,93 @@
       "sha1": "2244c94369d9e4d3124d0e3d0247507c2f94a327"
     },
     {
+      "name": "lexdispatch-2022-10-13T01:55:00.004972-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665640504",
+      "size": "23613",
+      "md5": "baa246f858c4d27749fdfd357de307d6",
+      "crc32": "4960ec51",
+      "sha1": "c42a396ef28788d27fe047421358c9f249efe7fd",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T01:55:00.004972-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665640506",
+      "size": "38965",
+      "md5": "0ec64d28eaefdd33e57a37ead1ca6aa5",
+      "crc32": "77c60b48",
+      "sha1": "789345689147bd4a4221b951b45b957fb28dcd83",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T01:55:00.004972-04:00.jpg",
+      "source": "original",
+      "mtime": "1665640503",
+      "size": "270370",
+      "md5": "dbbaa54de30f6b4f055ff00e00d78e87",
+      "crc32": "55856526",
+      "sha1": "4bbcf8d967cb82880dfc926bcbff59cb253cbbf1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T01:55:00.004972-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665640507",
+      "size": "1513",
+      "md5": "2033e3b1a008dc6ea5945b41c248dbbf",
+      "crc32": "efc4149f",
+      "sha1": "2f8aebf1402f4a343c45f95dc0540cbb18419f18",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T01:55:00.004972-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665640509",
+      "size": "209",
+      "md5": "a09acd511b72a7d475589540ff202314",
+      "crc32": "0605ad74",
+      "sha1": "27d6aefc05bd532a42f21d75fd38359b412f7535",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-13T01:55:00.004972-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-13T01:55:00.004972-04:00.jpg",
+      "mtime": "1665640823",
+      "size": "8845",
+      "md5": "5a7c883e13327c024e160eba2dae329d",
+      "crc32": "e35c56d2",
+      "sha1": "3aa0c000242b80dd1b8dc6221c9aa767274a11d7"
+    },
+    {
       "name": "lexdispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd85873198bb65e688effdf48fd249616d52bb6e",
-      "mtime": "1665595551",
-      "size": "58635",
-      "md5": "d0f5c41bbe627d41f66086b6c5d79d07",
-      "crc32": "ef143051",
-      "sha1": "9f030c1ec94c2cbaa2efa55dd6d49fb8aa7b8a8a",
+      "btih": "1fd965bb06beb7b23b430fe80dc56877577bc2a8",
+      "mtime": "1665640901",
+      "size": "59918",
+      "md5": "37e4731a1933d3332b632d8678a181b6",
+      "crc32": "3dab4624",
+      "sha1": "9825d6bf14524b297afd3d3d0e88f460af34b438",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lexdispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f194f678849a63713eb59940f4b59b4d",
+      "md5": "f1ce526faa890fb12e3e5ab64cb00950",
       "summation": "md5"
     },
     {
       "name": "lexdispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665595461",
-      "size": "360448",
-      "md5": "80099db9a857b64ad45756758538f0c8",
-      "crc32": "ca411032",
-      "sha1": "716bb3526a2bfb939d7aab9931aa1a1bafebc4d6",
+      "mtime": "1665640514",
+      "size": "368640",
+      "md5": "59ceb8f36a91f0d90dbac94829375c2f",
+      "crc32": "7a03a138",
+      "sha1": "0bffa468aa943eb115f6ef23b312210667fe9e17",
       "format": "Metadata"
     },
     {
@@ -2814,16 +2876,16 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 272,
-  "item_last_updated": 1665595551,
-  "item_size": 18848323,
+  "files_count": 278,
+  "item_last_updated": 1665640901,
+  "item_size": 19201313,
   "lexdispatch-2022": {
     "url": "https://www.the-dispatch.com/",
     "job_id": "spn2-2126014937a77767e3c7f7c12b6bbff1b5bf3a8e",
     "resources": [],
     "status": "error",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 797.",
-    "status_ext": "WorkerLostError"
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
   },
   "metadata": {
     "identifier": "lexdispatch-2022",
@@ -2842,7 +2904,7 @@
     "addeddate": "2022-09-20 17:33:29"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 1538330931,
+  "uniq": 1676735766,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

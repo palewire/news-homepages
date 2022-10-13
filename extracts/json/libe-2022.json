@@ -1,5 +1,5 @@
 {
-  "created": 1665595596,
+  "created": 1665645719,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/5/items/libe-2022",
@@ -22822,31 +22822,93 @@
       "sha1": "c34100ee4da91fba949b68fcf3bf72df47d58645"
     },
     {
+      "name": "libe-2022-10-13T07:56:09.913245+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665640573",
+      "size": "109435",
+      "md5": "e73523279cecda31fad041efdef12dbe",
+      "crc32": "a8e08eae",
+      "sha1": "7f2734a922fe31c8594ec3502392c85ab56e910e",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-10-13T07:56:09.913245+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665640575",
+      "size": "61474",
+      "md5": "878c4204eb97831dfeff36b212ab4e15",
+      "crc32": "b6309503",
+      "sha1": "1e45cb8c40c7feb645be6895d97efcaa6d939cf2",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-10-13T07:56:09.913245+02:00.jpg",
+      "source": "original",
+      "mtime": "1665640571",
+      "size": "337949",
+      "md5": "12722dc6b1470897c24790b7b68bc2a6",
+      "crc32": "571a73e3",
+      "sha1": "a17b0b92afa0d89ada37edf9b2793ced6f6dd24f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-10-13T07:56:09.913245+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665640576",
+      "size": "1477",
+      "md5": "2fe0066ce728a3d3606b6298b075cea3",
+      "crc32": "84a42a82",
+      "sha1": "315f473661d4e91e496c46b57be1b3b824cbe3da",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-10-13T07:56:09.913245+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665640578",
+      "size": "102",
+      "md5": "7928991c215daafc8fc807beef7118a6",
+      "crc32": "1d606c38",
+      "sha1": "7155e882655233328267e96454bb265bde7c5da2",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-10-13T07:56:09.913245+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-10-13T07:56:09.913245+02:00.jpg",
+      "mtime": "1665640676",
+      "size": "9362",
+      "md5": "8e0e4505f1f27d0ca1b9afedbe4d9008",
+      "crc32": "8c976533",
+      "sha1": "38e6cd8ff50b9e9a72ceca018761cd78d52836c6"
+    },
+    {
       "name": "libe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c50797e05fd87c13a3968997eb85ac4f094335ea",
-      "mtime": "1665595585",
-      "size": "456971",
-      "md5": "1713f009b91e99f116fd5c456653d524",
-      "crc32": "13cb7e6a",
-      "sha1": "5e61f362ad73784d24bc81deae89cbd99f5e1555",
+      "btih": "605e09beb2e695f7a44180c5c9901935bccfa155",
+      "mtime": "1665640716",
+      "size": "458213",
+      "md5": "5667c3daedd478656d9707521b05550a",
+      "crc32": "9b7f1828",
+      "sha1": "9361c9e5871f15cb17107a84f6f4b2fb229de987",
       "format": "Archive BitTorrent"
     },
     {
       "name": "libe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70a725919a062e89509485270c6ea1ff",
+      "md5": "725af0dd36b5073a1b04784b23e8f810",
       "summation": "md5"
     },
     {
       "name": "libe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665595455",
-      "size": "2670592",
-      "md5": "e9ba285e128524b8930921c2c58ba520",
-      "crc32": "456dc19f",
-      "sha1": "66a9a7a3319932caa41e72452881f06056b2c7fc",
+      "mtime": "1665640584",
+      "size": "2678784",
+      "md5": "f893d9340389786bd5ae4507e20bada5",
+      "crc32": "cf3a41bc",
+      "sha1": "843136b0e89039328110898d426b16749e50f110",
       "format": "Metadata"
     },
     {
@@ -22860,9 +22922,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2198,
-  "item_last_updated": 1665595585,
-  "item_size": 228124282,
+  "files_count": 2204,
+  "item_last_updated": 1665640716,
+  "item_size": 228653515,
+  "libe-2022": {
+    "url": "https://www.liberation.fr/",
+    "job_id": "spn2-e5661c6407ab6d36947dd53813871fb5af2c9dbf"
+  },
   "metadata": {
     "identifier": "libe-2022",
     "collection": [
@@ -22879,10 +22945,10 @@
     "publicdate": "2022-04-09 13:43:11",
     "addeddate": "2022-04-09 13:43:11"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 744895718,
+  "server": "ia902507.us.archive.org",
+  "uniq": 1621724980,
   "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

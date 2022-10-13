@@ -1,5 +1,6 @@
 {
-  "created": 1665603286,
+  "conflict": 1665645539,
+  "created": 1665629109,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/hotairblog-2022",
@@ -14889,6 +14890,7 @@
     }
   ],
   "files_count": 1438,
+  "has_redrow": true,
   "item_last_updated": 1665603264,
   "item_size": 95883548,
   "metadata": {
@@ -14907,10 +14909,53 @@
     "publicdate": "2022-07-17 15:03:29",
     "addeddate": "2022-07-17 15:03:29"
   },
+  "pending_tasks": true,
   "server": "ia801506.us.archive.org",
-  "uniq": 739470236,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3437929431,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    },
+    {
+      "task_id": 3437929457,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3437929492,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3437929515,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3437929552,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1600016669,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia801506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665600815,
+  "created": 1665645695,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/lesoir-2022",
@@ -9394,31 +9394,93 @@
       "sha1": "1c22216e2ade342beea6f7b54f57b9f921fe30c5"
     },
     {
+      "name": "lesoir-2022-10-13T07:54:52.000697+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665640501",
+      "size": "74045",
+      "md5": "09049571e58ead923647ef2a3f93bc33",
+      "crc32": "a8928f3a",
+      "sha1": "d88b6e5ded44320b693650d05387ab14c3e8d121",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-13T07:54:52.000697+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665640502",
+      "size": "73894",
+      "md5": "4230f3210e606e2bf44f3331d09da020",
+      "crc32": "892a12f5",
+      "sha1": "b799073e9d63bad2603b48ea9c663569bf39905b",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-13T07:54:52.000697+02:00.jpg",
+      "source": "original",
+      "mtime": "1665640499",
+      "size": "262942",
+      "md5": "d81e7e20cd0a137e9e36814ca4c66a35",
+      "crc32": "73e7d6b1",
+      "sha1": "7fc22ea4d6c654c34a58b81762243c602f48b87b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lesoir-2022-10-13T07:54:52.000697+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665640504",
+      "size": "1441",
+      "md5": "9f3997cf431a6ad86a6ab020221450d9",
+      "crc32": "fe703b45",
+      "sha1": "35611ff4091007a7c576b3a86823e8d072622578",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-13T07:54:52.000697+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665640506",
+      "size": "202",
+      "md5": "755917c889345f98df6dd271b2ee2133",
+      "crc32": "1ae51776",
+      "sha1": "2442bfdd0b7de62f8b9e6d99856f1e1bf7428cc2",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-13T07:54:52.000697+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lesoir-2022-10-13T07:54:52.000697+02:00.jpg",
+      "mtime": "1665640559",
+      "size": "9247",
+      "md5": "d5770a2aaf044690408b964303c326d5",
+      "crc32": "36e04a06",
+      "sha1": "1071599bbdbd9da4ce8630316ea3344eaa7ccb6f"
+    },
+    {
       "name": "lesoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "65d9da10b7ed2a1265814286fbfef4b03cb55dcd",
-      "mtime": "1665595511",
-      "size": "190694",
-      "md5": "e168302ea9a6886dbb933c90afea7fab",
-      "crc32": "0caa17f7",
-      "sha1": "cdb2b25fa3434934e67facafe736067ffd32f279",
+      "btih": "a129e9c5970e65305cad81119b6ad17f177d1a33",
+      "mtime": "1665640568",
+      "size": "191947",
+      "md5": "d4deda8107e821c942f4f088e13a6e0e",
+      "crc32": "5c27fd79",
+      "sha1": "899a0dcbb3e3760eed4b5daa37bb6803a3fda4a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lesoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f934df4a7afafb0db3a442858a7e6b4a",
+      "md5": "fb89bc06f19b4edbf082ffc5a99b5f84",
       "summation": "md5"
     },
     {
       "name": "lesoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665595421",
-      "size": "1159168",
-      "md5": "b15189f864c2dfef999c9c976092653c",
-      "crc32": "58e7cc8c",
-      "sha1": "e1c6c23372d44d03bccfae697790c3b225b6817f",
+      "mtime": "1665640510",
+      "size": "1167360",
+      "md5": "f43c3f3efd2b8e46c1dad0334e11dd7b",
+      "crc32": "5f9c1a58",
+      "sha1": "02dea736b8615f9b23a2320e624d90d36952f552",
       "format": "Metadata"
     },
     {
@@ -9432,16 +9494,16 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 912,
-  "item_last_updated": 1665595511,
-  "item_size": 65435574,
+  "files_count": 918,
+  "item_last_updated": 1665640568,
+  "item_size": 65866790,
   "lesoir-2022": {
     "url": "https://www.lesoir.be/",
     "job_id": "spn2-c4fb719f015e8a88252f2aef74d8994d5aebe695",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 813.",
+    "message": "Job failed.",
     "resources": [],
     "status": "error",
-    "status_ext": "WorkerLostError"
+    "status_ext": "error:job-failed"
   },
   "metadata": {
     "identifier": "lesoir-2022",
@@ -9460,7 +9522,7 @@
     "addeddate": "2022-07-26 02:47:01"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 1078678827,
+  "uniq": 628871756,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

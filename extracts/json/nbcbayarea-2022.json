@@ -1,5 +1,5 @@
 {
-  "created": 1665595745,
+  "created": 1665640759,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/5/items/nbcbayarea-2022",
@@ -12480,31 +12480,93 @@
       "sha1": "fbbecabc5d0e80ad8301089c883c993b8e0d7187"
     },
     {
+      "name": "nbcbayarea-2022-10-12T22:57:21.638916-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665640649",
+      "size": "50369",
+      "md5": "807c4c5b53697f7a140440207506e7bd",
+      "crc32": "423f6f03",
+      "sha1": "86b2ce4516d363d308f10548b00fc36927693152",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-12T22:57:21.638916-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665640651",
+      "size": "54433",
+      "md5": "08414083febb3273f188a43edec56122",
+      "crc32": "ee98ad61",
+      "sha1": "ed9a48f7b2e13fadcf9d98506bf4316709018aee",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-12T22:57:21.638916-07:00.jpg",
+      "source": "original",
+      "mtime": "1665640647",
+      "size": "293207",
+      "md5": "7a4ab0e1d5fe09e5ef485830c5dda2cb",
+      "crc32": "81232b39",
+      "sha1": "185a49977a75925757263e4366e2eddb481852ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcbayarea-2022-10-12T22:57:21.638916-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665640653",
+      "size": "1495",
+      "md5": "0163491ad57635ba6d7eaedc60829925",
+      "crc32": "99d7cc7b",
+      "sha1": "71e872e59f0f40f240295ca35412b041551d9ad4",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-12T22:57:21.638916-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665640654",
+      "size": "112704",
+      "md5": "6c270005b6ba6d19209652a728f489c0",
+      "crc32": "90eecf1b",
+      "sha1": "7f44c4bdf5948bb3f5daa3945010f9d8e6fe6ed5",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-10-12T22:57:21.638916-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcbayarea-2022-10-12T22:57:21.638916-07:00.jpg",
+      "mtime": "1665640730",
+      "size": "9744",
+      "md5": "dcc53816f0ac6f1ac6465ea0d0291b13",
+      "crc32": "2d0b2df9",
+      "sha1": "ecb290c13720d4e21ff8c18860558c5e22b0c622"
+    },
+    {
       "name": "nbcbayarea-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f79f332b14c96352813a79eca849d9b4223bea1f",
-      "mtime": "1665595722",
-      "size": "257302",
-      "md5": "909a1ef24aac10d8f52b942b81e462f2",
-      "crc32": "e4966411",
-      "sha1": "e40813b6dd8cac4177c5760801cdca3621b99223",
+      "btih": "806196455322753f31051a9df43ae7c2f6a03e40",
+      "mtime": "1665640743",
+      "size": "258582",
+      "md5": "a3721719d8ea4ea0d498620fb0c2f994",
+      "crc32": "5a596c3f",
+      "sha1": "73dc0890f2dc059682e865b7f6e8de42ad0fa763",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcbayarea-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c81b5063b5a9b0043ca5e074304b9fc1",
+      "md5": "482b2d3d46831d1d542abf0695311956",
       "summation": "md5"
     },
     {
       "name": "nbcbayarea-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665595619",
-      "size": "1503232",
-      "md5": "23443a49047960ec8322ea67a20bdf33",
-      "crc32": "20c60015",
-      "sha1": "9ddb535d617b4c77a0416ffb48b5715da401cf5a",
+      "mtime": "1665640660",
+      "size": "1515520",
+      "md5": "a0ea1cf87980b353c9b5d95f3c57b388",
+      "crc32": "d495be3b",
+      "sha1": "a7f012113d8488d30afd837e9e059726afbb162d",
       "format": "Metadata"
     },
     {
@@ -12518,9 +12580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1206,
-  "item_last_updated": 1665595722,
-  "item_size": 100857068,
+  "files_count": 1212,
+  "item_last_updated": 1665640743,
+  "item_size": 101392588,
   "metadata": {
     "identifier": "nbcbayarea-2022",
     "collection": [
@@ -12538,7 +12600,7 @@
     "addeddate": "2022-06-30 20:48:27"
   },
   "server": "ia601509.us.archive.org",
-  "uniq": 317937681,
+  "uniq": 946007818,
   "workable_servers": [
     "ia601509.us.archive.org",
     "ia801509.us.archive.org"

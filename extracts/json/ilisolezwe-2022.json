@@ -1,5 +1,5 @@
 {
-  "created": 1665595365,
+  "created": 1665640460,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/4/items/ilisolezwe-2022",
@@ -6290,31 +6290,93 @@
       "sha1": "7f659fa89ae47ad77cd0ce5a9c82c790bb8e5ab4"
     },
     {
+      "name": "ilisolezwe-2022-10-13T07:52:04.794555+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665640329",
+      "size": "23499",
+      "md5": "b34fcda8ac27e0999f9edf9b26916b1d",
+      "crc32": "8d98e90e",
+      "sha1": "f888c3345e443abe1687dd1b1e6f1d93d912cbf5",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-10-13T07:52:04.794555+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665640331",
+      "size": "20005",
+      "md5": "7c5010019776fb6f17aa9172c9a51c9d",
+      "crc32": "18a45e8b",
+      "sha1": "e36683351353d1da054dcbc3d821afbf653d51ca",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-10-13T07:52:04.794555+02:00.jpg",
+      "source": "original",
+      "mtime": "1665640328",
+      "size": "246790",
+      "md5": "431eb5b78597af56c94cbbb478401844",
+      "crc32": "f58572e2",
+      "sha1": "ae956583ce1d6e521b69dbfe7d471383916b4efb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilisolezwe-2022-10-13T07:52:04.794555+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665640333",
+      "size": "1576",
+      "md5": "4b2cd295f34c1cf3bdf2326072203a36",
+      "crc32": "7c064d32",
+      "sha1": "ded5cc48c679370ddc71f9b57734247c7ad35740",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-10-13T07:52:04.794555+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665640334",
+      "size": "260",
+      "md5": "a0138fcc2b63df6c123430cd86117772",
+      "crc32": "5b1dbd91",
+      "sha1": "649d8e25070e208e717b31b33ee9e4cf7cffef5e",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-10-13T07:52:04.794555+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilisolezwe-2022-10-13T07:52:04.794555+02:00.jpg",
+      "mtime": "1665640427",
+      "size": "10089",
+      "md5": "6840dae05fa7406a1602f7ab634581cb",
+      "crc32": "6e69c8fd",
+      "sha1": "599fa119cf403489c9cfc207746687e20c257b54"
+    },
+    {
       "name": "ilisolezwe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd53249afec585db59b390a34fc4b299a9ce5ac2",
-      "mtime": "1665595333",
-      "size": "130343",
-      "md5": "ed0977c98d96f56dc019cad350977130",
-      "crc32": "daec49c4",
-      "sha1": "aab5c8714582daecc2c3035505ab9b25c93b007f",
+      "btih": "a960b552860f327603d63ea59d47ba112b8ce2c6",
+      "mtime": "1665640441",
+      "size": "131601",
+      "md5": "2c27827698555b028a2a65e1c3609fff",
+      "crc32": "d79704aa",
+      "sha1": "be6aafa75c5c4e1e7cee279d438217646a5ce02a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ilisolezwe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad31b532e891f1440f1039480d458f8e",
+      "md5": "f50f25015ac757780c885fdb24f73ef9",
       "summation": "md5"
     },
     {
       "name": "ilisolezwe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665595257",
-      "size": "790528",
-      "md5": "dd54e7ac818c8cad1630ac97a258ba8d",
-      "crc32": "5c66d1d5",
-      "sha1": "40f3fa94cfee2c1d7acbb2782d599e65e7b9d42f",
+      "mtime": "1665640365",
+      "size": "794624",
+      "md5": "03a3bf4e1014cbdaaf72aef52134ed5e",
+      "crc32": "6c43075b",
+      "sha1": "8979c3985127a6f6ed7f4bda293b9858c4275669",
       "format": "Metadata"
     },
     {
@@ -6328,9 +6390,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 612,
-  "item_last_updated": 1665595333,
-  "item_size": 34241439,
+  "files_count": 618,
+  "item_last_updated": 1665640441,
+  "item_size": 34549012,
   "metadata": {
     "identifier": "ilisolezwe-2022",
     "collection": [
@@ -6347,10 +6409,10 @@
     "publicdate": "2022-08-22 22:03:21",
     "addeddate": "2022-08-22 22:03:21"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1509730995,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1733000523,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

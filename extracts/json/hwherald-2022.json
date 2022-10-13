@@ -1,5 +1,5 @@
 {
-  "created": 1665600502,
+  "created": 1665640524,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/hwherald-2022",
@@ -15312,31 +15312,93 @@
       "sha1": "f9b56077690c38c9b88ccda4e17835e7c5a88e2c"
     },
     {
+      "name": "hwherald-2022-10-13T00:51:25.127673-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665640293",
+      "size": "18439",
+      "md5": "802e14951a5a06f45872993aa5f31a07",
+      "crc32": "8a93e122",
+      "sha1": "4b987dda0a48562298f92fea29a4621444f17195",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-10-13T00:51:25.127673-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665640294",
+      "size": "7191",
+      "md5": "7c2180428d89c74cc124f9d61d6b1149",
+      "crc32": "df38bb42",
+      "sha1": "388b68653b00a07aba3b99d40cf05a33daa3fc21",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-10-13T00:51:25.127673-05:00.jpg",
+      "source": "original",
+      "mtime": "1665640291",
+      "size": "282518",
+      "md5": "71bf6a1a9c61934d19567e3cabb330ee",
+      "crc32": "c873120d",
+      "sha1": "48bf2dc3ac939cde70ab138c59d37b0ab9221fe6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hwherald-2022-10-13T00:51:25.127673-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665640296",
+      "size": "1459",
+      "md5": "9926c4f2772b46fcc93303b4c2032f02",
+      "crc32": "dd45bab5",
+      "sha1": "b0da8c0010947ee473d132f54fe0b66b05300748",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-10-13T00:51:25.127673-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665640298",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-10-13T00:51:25.127673-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hwherald-2022-10-13T00:51:25.127673-05:00.jpg",
+      "mtime": "1665640444",
+      "size": "8934",
+      "md5": "2a562b443322f96bc1604c411817cabf",
+      "crc32": "f3aea914",
+      "sha1": "f9b56077690c38c9b88ccda4e17835e7c5a88e2c"
+    },
+    {
       "name": "hwherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e99412ca302a4e0561ec868f65c025f46b08ca6e",
-      "mtime": "1665595373",
-      "size": "311319",
-      "md5": "f2864ada56e704f06972eada8fa18715",
-      "crc32": "d34c7117",
-      "sha1": "655f0a99b7fe86e4af94ecae258723d884cf4aa6",
+      "btih": "4df13ce0161503a5d808fa01453f81d144527d39",
+      "mtime": "1665640490",
+      "size": "312583",
+      "md5": "48e3a80f3409992c336498d2ea981f50",
+      "crc32": "59eb696f",
+      "sha1": "ed956bdf0b57db73e7e62f2f5199131c17186e80",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hwherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d13de63e47e5ccd1f31f93273c6c4409",
+      "md5": "3a5486fea2cb09c70ab9e6eb35e0b75b",
       "summation": "md5"
     },
     {
       "name": "hwherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665595258",
-      "size": "1859584",
-      "md5": "6086c1a124d978606eb16b6a21c420fd",
-      "crc32": "f8efe8b0",
-      "sha1": "2eac2b5ad8ab38705517ac914ed2df20c8781365",
+      "mtime": "1665640355",
+      "size": "1867776",
+      "md5": "2ded01102a832ff72eeb687dd15d7cb8",
+      "crc32": "8f97d33a",
+      "sha1": "0df3c95c1ccb9fe075889bd2fbe7dbb959606ea7",
       "format": "Metadata"
     },
     {
@@ -15350,25 +15412,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1482,
-  "hwherald-2022": {
-    "url": "https://harveyworld.org/",
-    "job_id": "spn2-ec339ba55750d2615dd491e617319104cabe33d9",
-    "counters": {
-      "embeds": 92,
-      "outlinks": 31
-    },
-    "duration_sec": 9.456,
-    "http_status": 200,
-    "original_url": "https://harveyworld.org/",
-    "outlinks": [],
-    "resources": [],
-    "screenshot": "http://web.archive.org/screenshot/https://harveyworld.org/",
-    "status": "success",
-    "timestamp": "20221012151108"
-  },
-  "item_last_updated": 1665595373,
-  "item_size": 84595675,
+  "files_count": 1488,
+  "item_last_updated": 1665640490,
+  "item_size": 84923874,
   "metadata": {
     "identifier": "hwherald-2022",
     "collection": [
@@ -15386,7 +15432,7 @@
     "addeddate": "2022-07-10 15:42:19"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 361130780,
+  "uniq": 295814807,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"
