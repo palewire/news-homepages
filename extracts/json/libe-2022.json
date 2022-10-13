@@ -1,5 +1,6 @@
 {
-  "created": 1665645719,
+  "conflict": 1665649830,
+  "created": 1665649830,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/5/items/libe-2022",
@@ -22884,31 +22885,88 @@
       "sha1": "38e6cd8ff50b9e9a72ceca018761cd78d52836c6"
     },
     {
+      "name": "libe-2022-10-13T10:28:27.606531+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665649733",
+      "size": "108419",
+      "md5": "eae23fdddccbadc75808ca88f34f4475",
+      "crc32": "4ec7b1f7",
+      "sha1": "af05ed759af8e1aef62cdaa6003890d496c4fd6a",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-10-13T10:28:27.606531+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665649735",
+      "size": "62791",
+      "md5": "1e0450b4f59670c7c8acfc48af6f07ce",
+      "crc32": "e687f9f9",
+      "sha1": "24cc5d8d0b0db1918e059b685406ec2ada0ef68f",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-10-13T10:28:27.606531+02:00.jpg",
+      "source": "original",
+      "mtime": "1665649732",
+      "size": "312542",
+      "md5": "00c749fb9c87d294420d197bff3b61f2",
+      "crc32": "92acb801",
+      "sha1": "8c9181f8b6ebcbb835c93a01183b170a916b424d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "libe-2022-10-13T10:28:27.606531+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665649737",
+      "size": "1477",
+      "md5": "7cda8f16fca7951ce174e870dbd0a87a",
+      "crc32": "be2280a4",
+      "sha1": "3104c50470e3924eae2093a5034e559b87ba3f31",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-10-13T10:28:27.606531+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665649738",
+      "size": "233",
+      "md5": "e90d8307b77be6c2b58381963490c1e3",
+      "crc32": "ef139a02",
+      "sha1": "63c396f574f998124ae4735b2f2c3644627acd2b",
+      "format": "JSON"
+    },
+    {
+      "name": "libe-2022-10-13T10:28:27.606531+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "libe-2022-10-13T10:28:27.606531+02:00.jpg"
+    },
+    {
       "name": "libe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "605e09beb2e695f7a44180c5c9901935bccfa155",
-      "mtime": "1665640716",
-      "size": "458213",
-      "md5": "5667c3daedd478656d9707521b05550a",
-      "crc32": "9b7f1828",
-      "sha1": "9361c9e5871f15cb17107a84f6f4b2fb229de987",
+      "btih": "3bb042b17e3d340ef3467c8017811eae11cdd188",
+      "mtime": "1665649812",
+      "size": "459255",
+      "md5": "e315250ef50e8d91ae26e0feac284dbb",
+      "crc32": "842082d1",
+      "sha1": "522caeb14767e46aa3e19f5234ee7dd8c5760b13",
       "format": "Archive BitTorrent"
     },
     {
       "name": "libe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "725af0dd36b5073a1b04784b23e8f810",
+      "md5": "70e53de33ae01b8e129ad203963dc2cd",
       "summation": "md5"
     },
     {
       "name": "libe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665640584",
-      "size": "2678784",
-      "md5": "f893d9340389786bd5ae4507e20bada5",
-      "crc32": "cf3a41bc",
-      "sha1": "843136b0e89039328110898d426b16749e50f110",
+      "mtime": "1665649741",
+      "size": "2686976",
+      "md5": "dc99081ec74d6007fb1a8f9fea325054",
+      "crc32": "edf2f58c",
+      "sha1": "f80f9be2fdcece80f39a6af11810b56bef70ccd1",
       "format": "Metadata"
     },
     {
@@ -22922,13 +22980,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2204,
-  "item_last_updated": 1665640716,
-  "item_size": 228653515,
-  "libe-2022": {
-    "url": "https://www.liberation.fr/",
-    "job_id": "spn2-e5661c6407ab6d36947dd53813871fb5af2c9dbf"
-  },
+  "files_count": 2210,
+  "item_last_updated": 1665649812,
+  "item_size": 229148211,
   "metadata": {
     "identifier": "libe-2022",
     "collection": [
@@ -22945,10 +22999,21 @@
     "publicdate": "2022-04-09 13:43:11",
     "addeddate": "2022-04-09 13:43:11"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 1621724980,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3438097323,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 278665155,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }
