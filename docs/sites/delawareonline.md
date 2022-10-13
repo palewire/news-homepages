@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 59 screenshots with the Internet Archive.
+The archiving routine has saved 61 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T14:49:43.371567-04:00.jpg">
+  <img src="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T14:49:43.371567-04:00.jpg"
+     alt="Delaware Online at 2022-10-13 14:49:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T14:49:43.371567-04:00.jpg">October 13 at 2:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T02:02:26.306952-04:00.jpg">
+  <img src="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T02:02:26.306952-04:00.jpg"
+     alt="Delaware Online at 2022-10-13 02:02:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T02:02:26.306952-04:00.jpg">October 13 at 2:02 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-12T13:29:54.969950-04:00.jpg">
   <img src="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-12T13:29:54.969950-04:00.jpg"
      alt="Delaware Online at 2022-10-12 13:30:02-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-08T01:53:52.675294-04:00.jpg">October 8 at 1:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-07T14:17:19.649657-04:00.jpg">
-  <img src="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-07T14:17:19.649657-04:00.jpg"
-     alt="Delaware Online at 2022-10-07 14:17:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-07T14:17:19.649657-04:00.jpg">October 7 at 2:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-07T03:39:37.706186-04:00.jpg">
-  <img src="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-07T03:39:37.706186-04:00.jpg"
-     alt="Delaware Online at 2022-10-07 03:39:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/delawareonline-2022/delawareonline-2022-10-07T03:39:37.706186-04:00.jpg">October 7 at 3:39 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 59 hyperlink lists with the Internet Archive.
+The archiving routine has saved 61 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 2:49 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T14:49:43.371567-04:00.hyperlinks.json) |
+| [October 13 at 2:02 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T02:02:26.306952-04:00.hyperlinks.json) |
 | [October 12 at 1:30 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-12T13:29:54.969950-04:00.hyperlinks.json) |
 | [October 12 at 2:38 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-12T02:38:24.787287-04:00.hyperlinks.json) |
 | [October 11 at 1:54 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-11T13:54:23.332384-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 2:35 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-10T02:35:22.973724-04:00.hyperlinks.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-09T13:46:14.428321-04:00.hyperlinks.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-09T03:19:11.628957-04:00.hyperlinks.json) |
-| [October 8 at 1:49 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-08T13:49:02.187977-04:00.hyperlinks.json) |
-| [October 8 at 1:53 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-08T01:53:52.675294-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 59 accessibility trees with the Internet Archive.
+The archiving routine has saved 61 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 2:49 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T14:49:43.371567-04:00.accessibility.json) |
+| [October 13 at 2:02 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T02:02:26.306952-04:00.accessibility.json) |
 | [October 12 at 1:30 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-12T13:29:54.969950-04:00.accessibility.json) |
 | [October 12 at 2:38 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-12T02:38:24.787287-04:00.accessibility.json) |
 | [October 11 at 1:54 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-11T13:54:23.332384-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 2:35 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-10T02:35:22.973724-04:00.accessibility.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-09T13:46:14.428321-04:00.accessibility.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-09T03:19:11.628957-04:00.accessibility.json) |
-| [October 8 at 1:49 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-08T13:49:02.187977-04:00.accessibility.json) |
-| [October 8 at 1:53 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-08T01:53:52.675294-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 61 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 2:49 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T14:49:43.371567-04:00.lighthouse.json) |
+| [October 13 at 2:02 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-13T02:02:26.306952-04:00.lighthouse.json) |
 | [October 12 at 1:30 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-12T13:29:54.969950-04:00.lighthouse.json) |
 | [October 12 at 2:38 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-12T02:38:24.787287-04:00.lighthouse.json) |
 | [October 11 at 1:54 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-11T13:54:23.332384-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 2:35 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-10T02:35:22.973724-04:00.lighthouse.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-09T13:46:14.428321-04:00.lighthouse.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-09T03:19:11.628957-04:00.lighthouse.json) |
-| [October 8 at 1:49 PM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-08T13:49:02.187977-04:00.lighthouse.json) |
-| [October 8 at 1:54 AM](https://archive.org/download/delawareonline-2022/delawareonline-2022-10-08T01:53:52.675294-04:00.lighthouse.json) |
 
 
 

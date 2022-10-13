@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 191 screenshots with the Internet Archive.
+The archiving routine has saved 193 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T14:51:48.642361-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T14:51:48.642361-04:00.jpg"
+     alt="East Lansing Info at 2022-10-13 14:51:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T14:51:48.642361-04:00.jpg">October 13 at 2:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T02:02:51.670496-04:00.jpg">
+  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T02:02:51.670496-04:00.jpg"
+     alt="East Lansing Info at 2022-10-13 02:02:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T02:02:51.670496-04:00.jpg">October 13 at 2:02 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-12T13:31:31.578447-04:00.jpg">
   <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-12T13:31:31.578447-04:00.jpg"
      alt="East Lansing Info at 2022-10-12 13:31:38-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-08T01:54:11.119793-04:00.jpg">October 8 at 1:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-07T14:16:16.528313-04:00.jpg">
-  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-07T14:16:16.528313-04:00.jpg"
-     alt="East Lansing Info at 2022-10-07 14:16:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-07T14:16:16.528313-04:00.jpg">October 7 at 2:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-07T03:41:47.388618-04:00.jpg">
-  <img src="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-07T03:41:47.388618-04:00.jpg"
-     alt="East Lansing Info at 2022-10-07 03:41:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-07T03:41:47.388618-04:00.jpg">October 7 at 3:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 192 hyperlink lists with the Internet Archive.
+The archiving routine has saved 194 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 2:51 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T14:51:48.642361-04:00.hyperlinks.json) |
+| [October 13 at 2:02 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T02:02:51.670496-04:00.hyperlinks.json) |
 | [October 12 at 1:31 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-12T13:31:31.578447-04:00.hyperlinks.json) |
 | [October 12 at 2:41 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-12T02:41:39.358331-04:00.hyperlinks.json) |
 | [October 11 at 1:54 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-11T13:54:34.919251-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 2:33 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-10T02:33:52.735002-04:00.hyperlinks.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-09T13:46:14.418963-04:00.hyperlinks.json) |
 | [October 9 at 3:21 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-09T03:21:30.809448-04:00.hyperlinks.json) |
-| [October 8 at 1:48 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-08T13:48:35.885833-04:00.hyperlinks.json) |
-| [October 8 at 1:54 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-08T01:54:11.119793-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 191 accessibility trees with the Internet Archive.
+The archiving routine has saved 193 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 2:51 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T14:51:48.642361-04:00.accessibility.json) |
+| [October 13 at 2:02 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T02:02:51.670496-04:00.accessibility.json) |
 | [October 12 at 1:31 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-12T13:31:31.578447-04:00.accessibility.json) |
 | [October 12 at 2:41 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-12T02:41:39.358331-04:00.accessibility.json) |
 | [October 11 at 1:54 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-11T13:54:34.919251-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 2:33 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-10T02:33:52.735002-04:00.accessibility.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-09T13:46:14.418963-04:00.accessibility.json) |
 | [October 9 at 3:21 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-09T03:21:30.809448-04:00.accessibility.json) |
-| [October 8 at 1:48 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-08T13:48:35.885833-04:00.accessibility.json) |
-| [October 8 at 1:54 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-08T01:54:11.119793-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 2:51 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T14:51:48.642361-04:00.lighthouse.json) |
+| [October 13 at 2:02 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-13T02:02:51.670496-04:00.lighthouse.json) |
 | [October 12 at 1:31 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-12T13:31:31.578447-04:00.lighthouse.json) |
 | [October 12 at 2:41 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-12T02:41:39.358331-04:00.lighthouse.json) |
 | [October 11 at 1:54 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-11T13:54:34.919251-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 2:34 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-10T02:33:52.735002-04:00.lighthouse.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-09T13:46:14.418963-04:00.lighthouse.json) |
 | [October 9 at 3:21 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-09T03:21:30.809448-04:00.lighthouse.json) |
-| [October 8 at 1:48 PM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-08T13:48:35.885833-04:00.lighthouse.json) |
-| [October 8 at 1:54 AM](https://archive.org/download/eastlansinginfo-2022/eastlansinginfo-2022-10-08T01:54:11.119793-04:00.lighthouse.json) |
 
 
 

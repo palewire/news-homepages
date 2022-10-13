@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 254 screenshots with the Internet Archive.
+The archiving routine has saved 256 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/truthout-2022/truthout-2022-10-13T13:23:27.665237-07:00.jpg">
+  <img src="https://archive.org/download/truthout-2022/truthout-2022-10-13T13:23:27.665237-07:00.jpg"
+     alt="Truthout at 2022-10-13 13:23:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-10-13T13:23:27.665237-07:00.jpg">October 13 at 1:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/truthout-2022/truthout-2022-10-13T13:19:27.541716-07:00.jpg">
+  <img src="https://archive.org/download/truthout-2022/truthout-2022-10-13T13:19:27.541716-07:00.jpg"
+     alt="Truthout at 2022-10-13 13:19:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/truthout-2022/truthout-2022-10-13T13:19:27.541716-07:00.jpg">October 13 at 1:19 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/truthout-2022/truthout-2022-10-13T00:27:04.851935-07:00.jpg">
   <img src="https://archive.org/download/truthout-2022/truthout-2022-10-13T00:27:04.851935-07:00.jpg"
      alt="Truthout at 2022-10-13 00:27:06-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/truthout-2022/truthout-2022-10-10T01:28:27.596361-07:00.jpg">October 10 at 1:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/truthout-2022/truthout-2022-10-09T13:04:34.266430-07:00.jpg">
-  <img src="https://archive.org/download/truthout-2022/truthout-2022-10-09T13:04:34.266430-07:00.jpg"
-     alt="Truthout at 2022-10-09 13:04:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-10-09T13:04:34.266430-07:00.jpg">October 9 at 1:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/truthout-2022/truthout-2022-10-09T12:58:48.342248-07:00.jpg">
-  <img src="https://archive.org/download/truthout-2022/truthout-2022-10-09T12:58:48.342248-07:00.jpg"
-     alt="Truthout at 2022-10-09 12:58:50-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/truthout-2022/truthout-2022-10-09T12:58:48.342248-07:00.jpg">October 9 at 12:58 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 254 hyperlink lists with the Internet Archive.
+The archiving routine has saved 256 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 1:23 PM](https://archive.org/download/truthout-2022/truthout-2022-10-13T13:23:27.665237-07:00.hyperlinks.json) |
+| [October 13 at 1:19 PM](https://archive.org/download/truthout-2022/truthout-2022-10-13T13:19:27.541716-07:00.hyperlinks.json) |
 | [October 13 at 12:27 AM](https://archive.org/download/truthout-2022/truthout-2022-10-13T00:27:04.851935-07:00.hyperlinks.json) |
 | [October 12 at 12:31 PM](https://archive.org/download/truthout-2022/truthout-2022-10-12T12:31:21.531726-07:00.hyperlinks.json) |
 | [October 12 at 11:50 AM](https://archive.org/download/truthout-2022/truthout-2022-10-12T11:50:47.169725-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 12:19 PM](https://archive.org/download/truthout-2022/truthout-2022-10-11T12:19:48.249451-07:00.hyperlinks.json) |
 | [October 11 at 1:14 AM](https://archive.org/download/truthout-2022/truthout-2022-10-11T01:13:44.400203-07:00.hyperlinks.json) |
 | [October 10 at 1:28 PM](https://archive.org/download/truthout-2022/truthout-2022-10-10T13:28:07.703302-07:00.hyperlinks.json) |
-| [October 10 at 1:13 PM](https://archive.org/download/truthout-2022/truthout-2022-10-10T13:13:33.927049-07:00.hyperlinks.json) |
-| [October 10 at 1:28 AM](https://archive.org/download/truthout-2022/truthout-2022-10-10T01:28:27.596361-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 254 accessibility trees with the Internet Archive.
+The archiving routine has saved 256 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 1:23 PM](https://archive.org/download/truthout-2022/truthout-2022-10-13T13:23:27.665237-07:00.accessibility.json) |
+| [October 13 at 1:19 PM](https://archive.org/download/truthout-2022/truthout-2022-10-13T13:19:27.541716-07:00.accessibility.json) |
 | [October 13 at 12:27 AM](https://archive.org/download/truthout-2022/truthout-2022-10-13T00:27:04.851935-07:00.accessibility.json) |
 | [October 12 at 12:31 PM](https://archive.org/download/truthout-2022/truthout-2022-10-12T12:31:21.531726-07:00.accessibility.json) |
 | [October 12 at 11:50 AM](https://archive.org/download/truthout-2022/truthout-2022-10-12T11:50:47.169725-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 12:19 PM](https://archive.org/download/truthout-2022/truthout-2022-10-11T12:19:48.249451-07:00.accessibility.json) |
 | [October 11 at 1:14 AM](https://archive.org/download/truthout-2022/truthout-2022-10-11T01:13:44.400203-07:00.accessibility.json) |
 | [October 10 at 1:28 PM](https://archive.org/download/truthout-2022/truthout-2022-10-10T13:28:07.703302-07:00.accessibility.json) |
-| [October 10 at 1:13 PM](https://archive.org/download/truthout-2022/truthout-2022-10-10T13:13:33.927049-07:00.accessibility.json) |
-| [October 10 at 1:28 AM](https://archive.org/download/truthout-2022/truthout-2022-10-10T01:28:27.596361-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 238 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 240 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 1:23 PM](https://archive.org/download/truthout-2022/truthout-2022-10-13T13:23:27.665237-07:00.lighthouse.json) |
+| [October 13 at 1:19 PM](https://archive.org/download/truthout-2022/truthout-2022-10-13T13:19:27.541716-07:00.lighthouse.json) |
 | [October 13 at 12:27 AM](https://archive.org/download/truthout-2022/truthout-2022-10-13T00:27:04.851935-07:00.lighthouse.json) |
 | [October 12 at 12:31 PM](https://archive.org/download/truthout-2022/truthout-2022-10-12T12:31:21.531726-07:00.lighthouse.json) |
 | [October 12 at 11:50 AM](https://archive.org/download/truthout-2022/truthout-2022-10-12T11:50:47.169725-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 12:20 PM](https://archive.org/download/truthout-2022/truthout-2022-10-11T12:19:48.249451-07:00.lighthouse.json) |
 | [October 11 at 1:14 AM](https://archive.org/download/truthout-2022/truthout-2022-10-11T01:13:44.400203-07:00.lighthouse.json) |
 | [October 10 at 1:28 PM](https://archive.org/download/truthout-2022/truthout-2022-10-10T13:28:07.703302-07:00.lighthouse.json) |
-| [October 10 at 1:13 PM](https://archive.org/download/truthout-2022/truthout-2022-10-10T13:13:33.927049-07:00.lighthouse.json) |
-| [October 10 at 1:28 AM](https://archive.org/download/truthout-2022/truthout-2022-10-10T01:28:27.596361-07:00.lighthouse.json) |
 
 
 

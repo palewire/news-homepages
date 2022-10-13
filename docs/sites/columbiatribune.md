@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 44 screenshots with the Internet Archive.
+The archiving routine has saved 46 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T13:47:05.855287-05:00.jpg">
+  <img src="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T13:47:05.855287-05:00.jpg"
+     alt="Columbia Daily Tribune at 2022-10-13 13:47:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T13:47:05.855287-05:00.jpg">October 13 at 1:47 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T00:59:47.245386-05:00.jpg">
+  <img src="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T00:59:47.245386-05:00.jpg"
+     alt="Columbia Daily Tribune at 2022-10-13 00:59:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T00:59:47.245386-05:00.jpg">October 13 at 12:59 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-12T12:26:47.459814-05:00.jpg">
   <img src="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-12T12:26:47.459814-05:00.jpg"
      alt="Columbia Daily Tribune at 2022-10-12 12:26:51-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-07T13:05:46.267647-05:00.jpg">October 7 at 1:05 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-07T02:37:17.630443-05:00.jpg">
-  <img src="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-07T02:37:17.630443-05:00.jpg"
-     alt="Columbia Daily Tribune at 2022-10-07 02:37:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-07T02:37:17.630443-05:00.jpg">October 7 at 2:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-06T12:51:35.413011-05:00.jpg">
-  <img src="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-06T12:51:35.413011-05:00.jpg"
-     alt="Columbia Daily Tribune at 2022-10-06 12:51:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-06T12:51:35.413011-05:00.jpg">October 6 at 12:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 1:47 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T13:47:05.855287-05:00.hyperlinks.json) |
+| [October 13 at 12:59 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T00:59:47.245386-05:00.hyperlinks.json) |
 | [October 12 at 12:26 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-12T12:26:47.459814-05:00.hyperlinks.json) |
 | [October 12 at 1:35 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-12T01:35:22.261196-05:00.hyperlinks.json) |
 | [October 11 at 12:49 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-11T12:48:55.442253-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 1:30 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-10T01:30:40.556160-05:00.hyperlinks.json) |
 | [October 9 at 12:39 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-09T12:39:42.699594-05:00.hyperlinks.json) |
 | [October 9 at 2:18 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-09T02:18:21.391948-05:00.hyperlinks.json) |
-| [October 8 at 12:43 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-08T12:43:19.776399-05:00.hyperlinks.json) |
-| [October 8 at 12:47 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-08T00:47:25.864490-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 1:47 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T13:47:05.855287-05:00.accessibility.json) |
+| [October 13 at 12:59 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T00:59:47.245386-05:00.accessibility.json) |
 | [October 12 at 12:26 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-12T12:26:47.459814-05:00.accessibility.json) |
 | [October 12 at 1:35 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-12T01:35:22.261196-05:00.accessibility.json) |
 | [October 11 at 12:48 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-11T12:48:55.442253-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 1:30 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-10T01:30:40.556160-05:00.accessibility.json) |
 | [October 9 at 12:39 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-09T12:39:42.699594-05:00.accessibility.json) |
 | [October 9 at 2:18 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-09T02:18:21.391948-05:00.accessibility.json) |
-| [October 8 at 12:43 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-08T12:43:19.776399-05:00.accessibility.json) |
-| [October 8 at 12:47 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-08T00:47:25.864490-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 1:47 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T13:47:05.855287-05:00.lighthouse.json) |
+| [October 13 at 12:59 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-13T00:59:47.245386-05:00.lighthouse.json) |
 | [October 12 at 12:26 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-12T12:26:47.459814-05:00.lighthouse.json) |
 | [October 12 at 1:35 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-12T01:35:22.261196-05:00.lighthouse.json) |
 | [October 11 at 12:49 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-11T12:48:55.442253-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 1:30 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-10T01:30:40.556160-05:00.lighthouse.json) |
 | [October 9 at 12:39 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-09T12:39:42.699594-05:00.lighthouse.json) |
 | [October 9 at 2:18 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-09T02:18:21.391948-05:00.lighthouse.json) |
-| [October 8 at 12:43 PM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-08T12:43:19.776399-05:00.lighthouse.json) |
-| [October 8 at 12:47 AM](https://archive.org/download/columbiatribune-2022/columbiatribune-2022-10-08T00:47:25.864490-05:00.lighthouse.json) |
 
 
 

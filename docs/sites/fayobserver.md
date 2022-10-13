@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T14:51:37.631180-04:00.jpg">
+  <img src="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T14:51:37.631180-04:00.jpg"
+     alt="The Fayetteville Observer at 2022-10-13 14:51:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T14:51:37.631180-04:00.jpg">October 13 at 2:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T02:04:39.751688-04:00.jpg">
+  <img src="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T02:04:39.751688-04:00.jpg"
+     alt="The Fayetteville Observer at 2022-10-13 02:04:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T02:04:39.751688-04:00.jpg">October 13 at 2:04 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-12T13:34:14.483592-04:00.jpg">
   <img src="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-12T13:34:14.483592-04:00.jpg"
      alt="The Fayetteville Observer at 2022-10-12 13:34:17-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-08T01:59:10.397768-04:00.jpg">October 8 at 1:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-07T14:19:52.341557-04:00.jpg">
-  <img src="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-07T14:19:52.341557-04:00.jpg"
-     alt="The Fayetteville Observer at 2022-10-07 14:19:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-07T14:19:52.341557-04:00.jpg">October 7 at 2:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-07T03:41:57.579599-04:00.jpg">
-  <img src="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-07T03:41:57.579599-04:00.jpg"
-     alt="The Fayetteville Observer at 2022-10-07 03:42:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/fayobserver-2022/fayobserver-2022-10-07T03:41:57.579599-04:00.jpg">October 7 at 3:42 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 2:51 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T14:51:37.631180-04:00.hyperlinks.json) |
+| [October 13 at 2:04 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T02:04:39.751688-04:00.hyperlinks.json) |
 | [October 12 at 1:34 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-12T13:34:14.483592-04:00.hyperlinks.json) |
 | [October 12 at 2:41 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-12T02:41:34.177931-04:00.hyperlinks.json) |
 | [October 11 at 2:01 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-11T14:01:36.573042-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 2:40 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-10T02:39:58.868467-04:00.hyperlinks.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-09T13:51:09.665973-04:00.hyperlinks.json) |
 | [October 9 at 3:21 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-09T03:21:10.966567-04:00.hyperlinks.json) |
-| [October 8 at 1:55 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-08T13:54:58.426301-04:00.hyperlinks.json) |
-| [October 8 at 1:59 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-08T01:59:10.397768-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 2:51 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T14:51:37.631180-04:00.accessibility.json) |
+| [October 13 at 2:04 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T02:04:39.751688-04:00.accessibility.json) |
 | [October 12 at 1:34 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-12T13:34:14.483592-04:00.accessibility.json) |
 | [October 12 at 2:41 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-12T02:41:34.177931-04:00.accessibility.json) |
 | [October 11 at 2:01 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-11T14:01:36.573042-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 2:40 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-10T02:39:58.868467-04:00.accessibility.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-09T13:51:09.665973-04:00.accessibility.json) |
 | [October 9 at 3:21 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-09T03:21:10.966567-04:00.accessibility.json) |
-| [October 8 at 1:55 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-08T13:54:58.426301-04:00.accessibility.json) |
-| [October 8 at 1:59 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-08T01:59:10.397768-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 2:51 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T14:51:37.631180-04:00.lighthouse.json) |
+| [October 13 at 2:04 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-13T02:04:39.751688-04:00.lighthouse.json) |
 | [October 12 at 1:34 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-12T13:34:14.483592-04:00.lighthouse.json) |
 | [October 12 at 2:41 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-12T02:41:34.177931-04:00.lighthouse.json) |
 | [October 11 at 2:01 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-11T14:01:36.573042-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 2:40 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-10T02:39:58.868467-04:00.lighthouse.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-09T13:51:09.665973-04:00.lighthouse.json) |
 | [October 9 at 3:21 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-09T03:21:10.966567-04:00.lighthouse.json) |
-| [October 8 at 1:55 PM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-08T13:54:58.426301-04:00.lighthouse.json) |
-| [October 8 at 1:59 AM](https://archive.org/download/fayobserver-2022/fayobserver-2022-10-08T01:59:10.397768-04:00.lighthouse.json) |
 
 
 

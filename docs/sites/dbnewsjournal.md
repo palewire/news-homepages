@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T14:49:14.176201-04:00.jpg">
+  <img src="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T14:49:14.176201-04:00.jpg"
+     alt="The Daytona Beach News-Journal at 2022-10-13 14:49:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T14:49:14.176201-04:00.jpg">October 13 at 2:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T02:02:18.120875-04:00.jpg">
+  <img src="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T02:02:18.120875-04:00.jpg"
+     alt="The Daytona Beach News-Journal at 2022-10-13 02:02:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T02:02:18.120875-04:00.jpg">October 13 at 2:02 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-12T13:30:27.434713-04:00.jpg">
   <img src="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-12T13:30:27.434713-04:00.jpg"
      alt="The Daytona Beach News-Journal at 2022-10-12 13:30:32-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-08T01:54:40.459179-04:00.jpg">October 8 at 1:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-07T14:17:17.642105-04:00.jpg">
-  <img src="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-07T14:17:17.642105-04:00.jpg"
-     alt="The Daytona Beach News-Journal at 2022-10-07 14:17:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-07T14:17:17.642105-04:00.jpg">October 7 at 2:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-07T03:40:05.676799-04:00.jpg">
-  <img src="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-07T03:40:05.676799-04:00.jpg"
-     alt="The Daytona Beach News-Journal at 2022-10-07 03:40:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-07T03:40:05.676799-04:00.jpg">October 7 at 3:40 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 2:49 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T14:49:14.176201-04:00.hyperlinks.json) |
+| [October 13 at 2:02 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T02:02:18.120875-04:00.hyperlinks.json) |
 | [October 12 at 1:30 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-12T13:30:27.434713-04:00.hyperlinks.json) |
 | [October 12 at 2:38 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-12T02:38:30.316200-04:00.hyperlinks.json) |
 | [October 11 at 1:54 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-11T13:54:37.015152-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 2:35 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-10T02:35:16.368469-04:00.hyperlinks.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-09T13:46:38.104710-04:00.hyperlinks.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-09T03:19:01.341374-04:00.hyperlinks.json) |
-| [October 8 at 1:48 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-08T13:48:34.894557-04:00.hyperlinks.json) |
-| [October 8 at 1:54 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-08T01:54:40.459179-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 2:49 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T14:49:14.176201-04:00.accessibility.json) |
+| [October 13 at 2:02 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T02:02:18.120875-04:00.accessibility.json) |
 | [October 12 at 1:30 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-12T13:30:27.434713-04:00.accessibility.json) |
 | [October 12 at 2:38 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-12T02:38:30.316200-04:00.accessibility.json) |
 | [October 11 at 1:54 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-11T13:54:37.015152-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 2:35 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-10T02:35:16.368469-04:00.accessibility.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-09T13:46:38.104710-04:00.accessibility.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-09T03:19:01.341374-04:00.accessibility.json) |
-| [October 8 at 1:48 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-08T13:48:34.894557-04:00.accessibility.json) |
-| [October 8 at 1:54 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-08T01:54:40.459179-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 2:49 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T14:49:14.176201-04:00.lighthouse.json) |
+| [October 13 at 2:02 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-13T02:02:18.120875-04:00.lighthouse.json) |
 | [October 12 at 1:30 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-12T13:30:27.434713-04:00.lighthouse.json) |
 | [October 12 at 2:38 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-12T02:38:30.316200-04:00.lighthouse.json) |
 | [October 11 at 1:54 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-11T13:54:37.015152-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 2:35 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-10T02:35:16.368469-04:00.lighthouse.json) |
 | [October 9 at 1:46 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-09T13:46:38.104710-04:00.lighthouse.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-09T03:19:01.341374-04:00.lighthouse.json) |
-| [October 8 at 1:48 PM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-08T13:48:34.894557-04:00.lighthouse.json) |
-| [October 8 at 1:54 AM](https://archive.org/download/dbnewsjournal-2022/dbnewsjournal-2022-10-08T01:54:40.459179-04:00.lighthouse.json) |
 
 
 

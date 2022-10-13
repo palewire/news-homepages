@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-13T12:46:28.660571-06:00.jpg">
+  <img src="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-13T12:46:28.660571-06:00.jpg"
+     alt="Fort Collins Coloradoan at 2022-10-13 12:46:30-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-13T12:46:28.660571-06:00.jpg">October 13 at 12:46 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T23:58:48.847372-06:00.jpg">
+  <img src="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T23:58:48.847372-06:00.jpg"
+     alt="Fort Collins Coloradoan at 2022-10-12 23:58:52-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T23:58:48.847372-06:00.jpg">October 12 at 11:58 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T11:26:55.361636-06:00.jpg">
   <img src="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T11:26:55.361636-06:00.jpg"
      alt="Fort Collins Coloradoan at 2022-10-12 11:26:58-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T23:47:44.456901-06:00.jpg">October 7 at 11:47 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T12:04:59.096618-06:00.jpg">
-  <img src="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T12:04:59.096618-06:00.jpg"
-     alt="Fort Collins Coloradoan at 2022-10-07 12:05:00-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T12:04:59.096618-06:00.jpg">October 7 at 12:05 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T01:37:23.596308-06:00.jpg">
-  <img src="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T01:37:23.596308-06:00.jpg"
-     alt="Fort Collins Coloradoan at 2022-10-07 01:37:26-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T01:37:23.596308-06:00.jpg">October 7 at 1:37 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 12:46 PM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-13T12:46:28.660571-06:00.hyperlinks.json) |
+| [October 12 at 11:59 PM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T23:58:48.847372-06:00.hyperlinks.json) |
 | [October 12 at 11:27 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T11:26:55.361636-06:00.hyperlinks.json) |
 | [October 12 at 12:35 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T00:35:31.110869-06:00.hyperlinks.json) |
 | [October 11 at 11:49 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-11T11:48:57.758592-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 12:29 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-10T00:29:23.598420-06:00.hyperlinks.json) |
 | [October 9 at 11:40 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-09T11:39:54.894101-06:00.hyperlinks.json) |
 | [October 9 at 1:18 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-09T01:18:23.558708-06:00.hyperlinks.json) |
-| [October 8 at 11:43 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-08T11:43:30.393352-06:00.hyperlinks.json) |
-| [October 7 at 11:47 PM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T23:47:44.456901-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 12:46 PM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-13T12:46:28.660571-06:00.accessibility.json) |
+| [October 12 at 11:58 PM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T23:58:48.847372-06:00.accessibility.json) |
 | [October 12 at 11:27 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T11:26:55.361636-06:00.accessibility.json) |
 | [October 12 at 12:35 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T00:35:31.110869-06:00.accessibility.json) |
 | [October 11 at 11:49 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-11T11:48:57.758592-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 12:29 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-10T00:29:23.598420-06:00.accessibility.json) |
 | [October 9 at 11:39 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-09T11:39:54.894101-06:00.accessibility.json) |
 | [October 9 at 1:18 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-09T01:18:23.558708-06:00.accessibility.json) |
-| [October 8 at 11:43 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-08T11:43:30.393352-06:00.accessibility.json) |
-| [October 7 at 11:47 PM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T23:47:44.456901-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 12:46 PM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-13T12:46:28.660571-06:00.lighthouse.json) |
+| [October 12 at 11:59 PM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T23:58:48.847372-06:00.lighthouse.json) |
 | [October 12 at 11:27 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T11:26:55.361636-06:00.lighthouse.json) |
 | [October 12 at 12:35 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-12T00:35:31.110869-06:00.lighthouse.json) |
 | [October 11 at 11:49 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-11T11:48:57.758592-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 12:29 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-10T00:29:23.598420-06:00.lighthouse.json) |
 | [October 9 at 11:40 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-09T11:39:54.894101-06:00.lighthouse.json) |
 | [October 9 at 1:18 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-09T01:18:23.558708-06:00.lighthouse.json) |
-| [October 8 at 11:43 AM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-08T11:43:30.393352-06:00.lighthouse.json) |
-| [October 7 at 11:47 PM](https://archive.org/download/coloradoan-2022/coloradoan-2022-10-07T23:47:44.456901-06:00.lighthouse.json) |
 
 
 

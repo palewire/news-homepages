@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 281 screenshots with the Internet Archive.
+The archiving routine has saved 282 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 281 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jacobin-2022/jacobin-2022-10-13T16:21:11.538832-04:00.jpg">
+  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-10-13T16:21:11.538832-04:00.jpg"
+     alt="Jacobin at 2022-10-13 16:21:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-10-13T16:21:11.538832-04:00.jpg">October 13 at 4:21 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jacobin-2022/jacobin-2022-10-13T13:47:47.055924-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-10-10T04:15:41.495295-04:00.jpg">October 10 at 4:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jacobin-2022/jacobin-2022-10-09T16:04:33.337980-04:00.jpg">
-  <img src="https://archive.org/download/jacobin-2022/jacobin-2022-10-09T16:04:33.337980-04:00.jpg"
-     alt="Jacobin at 2022-10-09 16:04:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jacobin-2022/jacobin-2022-10-09T16:04:33.337980-04:00.jpg">October 9 at 4:04 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 282 hyperlink lists with the Internet Archive.
+The archiving routine has saved 283 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 4:21 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-13T16:21:11.538832-04:00.hyperlinks.json) |
 | [October 13 at 1:47 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-13T13:47:47.055924-04:00.hyperlinks.json) |
 | [October 13 at 1:54 AM](https://archive.org/download/jacobin-2022/jacobin-2022-10-13T01:53:53.302071-04:00.hyperlinks.json) |
 | [October 12 at 3:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-12T15:29:11.674607-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 1:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-11T13:41:10.650809-04:00.hyperlinks.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-10-11T02:29:20.051158-04:00.hyperlinks.json) |
 | [October 10 at 4:27 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-10T16:27:46.560739-04:00.hyperlinks.json) |
-| [October 10 at 2:02 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-10T14:02:08.737725-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 282 accessibility trees with the Internet Archive.
+The archiving routine has saved 283 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 4:21 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-13T16:21:11.538832-04:00.accessibility.json) |
 | [October 13 at 1:47 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-13T13:47:47.055924-04:00.accessibility.json) |
 | [October 13 at 1:54 AM](https://archive.org/download/jacobin-2022/jacobin-2022-10-13T01:53:53.302071-04:00.accessibility.json) |
 | [October 12 at 3:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-12T15:29:11.674607-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 1:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-11T13:41:10.650809-04:00.accessibility.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-10-11T02:29:20.051158-04:00.accessibility.json) |
 | [October 10 at 4:27 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-10T16:27:46.560739-04:00.accessibility.json) |
-| [October 10 at 2:02 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-10T14:02:08.737725-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 239 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 240 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 4:21 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-13T16:21:11.538832-04:00.lighthouse.json) |
 | [October 13 at 1:47 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-13T13:47:47.055924-04:00.lighthouse.json) |
 | [October 13 at 1:54 AM](https://archive.org/download/jacobin-2022/jacobin-2022-10-13T01:53:53.302071-04:00.lighthouse.json) |
 | [October 12 at 3:29 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-12T15:29:11.674607-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 1:41 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-11T13:41:10.650809-04:00.lighthouse.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/jacobin-2022/jacobin-2022-10-11T02:29:20.051158-04:00.lighthouse.json) |
 | [October 10 at 4:27 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-10T16:27:46.560739-04:00.lighthouse.json) |
-| [October 10 at 2:02 PM](https://archive.org/download/jacobin-2022/jacobin-2022-10-10T14:02:08.737725-04:00.lighthouse.json) |
 
 
 

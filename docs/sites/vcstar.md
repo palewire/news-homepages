@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 509 screenshots with the Internet Archive.
+The archiving routine has saved 511 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:25:26.806732-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:25:26.806732-07:00.jpg"
+     alt="Ventura County Star at 2022-10-13 13:25:29-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:25:26.806732-07:00.jpg">October 13 at 1:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:18:16.430864-07:00.jpg">
+  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:18:16.430864-07:00.jpg"
+     alt="Ventura County Star at 2022-10-13 13:18:19-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:18:16.430864-07:00.jpg">October 13 at 1:18 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-13T00:28:16.516356-07:00.jpg">
   <img src="https://archive.org/download/vcstar-2022/vcstar-2022-10-13T00:28:16.516356-07:00.jpg"
      alt="Ventura County Star at 2022-10-13 00:28:45-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-10T01:27:59.812381-07:00.jpg">October 10 at 1:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-09T13:06:52.925420-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-10-09T13:06:52.925420-07:00.jpg"
-     alt="Ventura County Star at 2022-10-09 13:06:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-09T13:06:52.925420-07:00.jpg">October 9 at 1:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-09T12:59:21.529835-07:00.jpg">
-  <img src="https://archive.org/download/vcstar-2022/vcstar-2022-10-09T12:59:21.529835-07:00.jpg"
-     alt="Ventura County Star at 2022-10-09 12:59:23-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vcstar-2022/vcstar-2022-10-09T12:59:21.529835-07:00.jpg">October 9 at 12:59 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 488 hyperlink lists with the Internet Archive.
+The archiving routine has saved 490 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 1:25 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:25:26.806732-07:00.hyperlinks.json) |
+| [October 13 at 1:18 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:18:16.430864-07:00.hyperlinks.json) |
 | [October 13 at 12:28 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-13T00:28:16.516356-07:00.hyperlinks.json) |
 | [October 12 at 12:34 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-12T12:34:14.619563-07:00.hyperlinks.json) |
 | [October 12 at 11:52 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-12T11:52:05.773170-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 12:21 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-11T12:21:05.082876-07:00.hyperlinks.json) |
 | [October 11 at 1:14 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-11T01:14:30.440136-07:00.hyperlinks.json) |
 | [October 10 at 1:30 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-10T13:30:45.723976-07:00.hyperlinks.json) |
-| [October 10 at 1:14 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-10T13:14:00.026411-07:00.hyperlinks.json) |
-| [October 10 at 1:28 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-10T01:27:59.812381-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 494 accessibility trees with the Internet Archive.
+The archiving routine has saved 496 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 1:25 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:25:26.806732-07:00.accessibility.json) |
+| [October 13 at 1:18 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:18:16.430864-07:00.accessibility.json) |
 | [October 13 at 12:28 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-13T00:28:16.516356-07:00.accessibility.json) |
 | [October 12 at 12:34 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-12T12:34:14.619563-07:00.accessibility.json) |
 | [October 12 at 11:52 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-12T11:52:05.773170-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 12:21 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-11T12:21:05.082876-07:00.accessibility.json) |
 | [October 11 at 1:14 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-11T01:14:30.440136-07:00.accessibility.json) |
 | [October 10 at 1:30 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-10T13:30:45.723976-07:00.accessibility.json) |
-| [October 10 at 1:14 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-10T13:14:00.026411-07:00.accessibility.json) |
-| [October 10 at 1:28 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-10T01:27:59.812381-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 235 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 237 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 1:25 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:25:26.806732-07:00.lighthouse.json) |
+| [October 13 at 1:18 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-13T13:18:16.430864-07:00.lighthouse.json) |
 | [October 13 at 12:28 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-13T00:28:16.516356-07:00.lighthouse.json) |
 | [October 12 at 12:34 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-12T12:34:14.619563-07:00.lighthouse.json) |
 | [October 12 at 1:11 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-12T01:11:41.791509-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 1:14 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-11T01:14:30.440136-07:00.lighthouse.json) |
 | [October 10 at 1:30 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-10T13:30:45.723976-07:00.lighthouse.json) |
 | [October 10 at 1:14 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-10T13:14:00.026411-07:00.lighthouse.json) |
-| [October 10 at 1:28 AM](https://archive.org/download/vcstar-2022/vcstar-2022-10-10T01:27:59.812381-07:00.lighthouse.json) |
-| [October 9 at 1:06 PM](https://archive.org/download/vcstar-2022/vcstar-2022-10-09T13:06:52.925420-07:00.lighthouse.json) |
 
 
 

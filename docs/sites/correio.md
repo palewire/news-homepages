@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 201 screenshots with the Internet Archive.
+The archiving routine has saved 202 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 201 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/correio-2022/correio-2022-10-13T15:46:33.894678-03:00.jpg">
+  <img src="https://archive.org/download/correio-2022/correio-2022-10-13T15:46:33.894678-03:00.jpg"
+     alt="Correio Braziliense at 2022-10-13 15:47:02-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/correio-2022/correio-2022-10-13T15:46:33.894678-03:00.jpg">October 13 at 3:47 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/correio-2022/correio-2022-10-13T08:53:48.090073-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/correio-2022/correio-2022-10-10T03:29:06.937751-03:00.jpg">October 10 at 3:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/correio-2022/correio-2022-10-09T14:39:54.349927-03:00.jpg">
-  <img src="https://archive.org/download/correio-2022/correio-2022-10-09T14:39:54.349927-03:00.jpg"
-     alt="Correio Braziliense at 2022-10-09 14:39:56-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/correio-2022/correio-2022-10-09T14:39:54.349927-03:00.jpg">October 9 at 2:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 203 hyperlink lists with the Internet Archive.
+The archiving routine has saved 204 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 3:47 PM](https://archive.org/download/correio-2022/correio-2022-10-13T15:46:33.894678-03:00.hyperlinks.json) |
 | [October 13 at 8:53 AM](https://archive.org/download/correio-2022/correio-2022-10-13T08:53:48.090073-03:00.hyperlinks.json) |
 | [October 13 at 2:58 AM](https://archive.org/download/correio-2022/correio-2022-10-13T02:58:30.098217-03:00.hyperlinks.json) |
 | [October 12 at 2:26 PM](https://archive.org/download/correio-2022/correio-2022-10-12T14:26:53.615715-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 9:10 AM](https://archive.org/download/correio-2022/correio-2022-10-11T09:10:22.545046-03:00.hyperlinks.json) |
 | [October 11 at 3:42 AM](https://archive.org/download/correio-2022/correio-2022-10-11T03:42:04.792461-03:00.hyperlinks.json) |
 | [October 10 at 3:55 PM](https://archive.org/download/correio-2022/correio-2022-10-10T15:55:10.001110-03:00.hyperlinks.json) |
-| [October 10 at 9:14 AM](https://archive.org/download/correio-2022/correio-2022-10-10T09:14:48.745429-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 202 accessibility trees with the Internet Archive.
+The archiving routine has saved 203 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 3:47 PM](https://archive.org/download/correio-2022/correio-2022-10-13T15:46:33.894678-03:00.accessibility.json) |
 | [October 13 at 8:53 AM](https://archive.org/download/correio-2022/correio-2022-10-13T08:53:48.090073-03:00.accessibility.json) |
 | [October 13 at 2:58 AM](https://archive.org/download/correio-2022/correio-2022-10-13T02:58:30.098217-03:00.accessibility.json) |
 | [October 12 at 2:26 PM](https://archive.org/download/correio-2022/correio-2022-10-12T14:26:53.615715-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 9:10 AM](https://archive.org/download/correio-2022/correio-2022-10-11T09:10:22.545046-03:00.accessibility.json) |
 | [October 11 at 3:42 AM](https://archive.org/download/correio-2022/correio-2022-10-11T03:42:04.792461-03:00.accessibility.json) |
 | [October 10 at 3:55 PM](https://archive.org/download/correio-2022/correio-2022-10-10T15:55:10.001110-03:00.accessibility.json) |
-| [October 10 at 9:14 AM](https://archive.org/download/correio-2022/correio-2022-10-10T09:14:48.745429-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 203 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 204 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 3:47 PM](https://archive.org/download/correio-2022/correio-2022-10-13T15:46:33.894678-03:00.lighthouse.json) |
 | [October 13 at 8:53 AM](https://archive.org/download/correio-2022/correio-2022-10-13T08:53:48.090073-03:00.lighthouse.json) |
 | [October 13 at 2:58 AM](https://archive.org/download/correio-2022/correio-2022-10-13T02:58:30.098217-03:00.lighthouse.json) |
 | [October 12 at 2:27 PM](https://archive.org/download/correio-2022/correio-2022-10-12T14:26:53.615715-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 9:10 AM](https://archive.org/download/correio-2022/correio-2022-10-11T09:10:22.545046-03:00.lighthouse.json) |
 | [October 11 at 3:42 AM](https://archive.org/download/correio-2022/correio-2022-10-11T03:42:04.792461-03:00.lighthouse.json) |
 | [October 10 at 3:55 PM](https://archive.org/download/correio-2022/correio-2022-10-10T15:55:10.001110-03:00.lighthouse.json) |
-| [October 10 at 9:14 AM](https://archive.org/download/correio-2022/correio-2022-10-10T09:14:48.745429-03:00.lighthouse.json) |
 
 
 

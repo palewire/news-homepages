@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 45 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T14:49:28.769029-04:00.jpg">
+  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T14:49:28.769029-04:00.jpg"
+     alt="Daily American at 2022-10-13 14:49:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T14:49:28.769029-04:00.jpg">October 13 at 2:49 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T02:00:13.527107-04:00.jpg">
+  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T02:00:13.527107-04:00.jpg"
+     alt="Daily American at 2022-10-13 02:00:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T02:00:13.527107-04:00.jpg">October 13 at 2:00 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-12T13:31:04.351804-04:00.jpg">
   <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-12T13:31:04.351804-04:00.jpg"
      alt="Daily American at 2022-10-12 13:31:05-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-08T01:47:27.228398-04:00.jpg">October 8 at 1:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-07T14:06:09.964908-04:00.jpg">
-  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-07T14:06:09.964908-04:00.jpg"
-     alt="Daily American at 2022-10-07 14:06:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-07T14:06:09.964908-04:00.jpg">October 7 at 2:06 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-07T03:39:20.282264-04:00.jpg">
-  <img src="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-07T03:39:20.282264-04:00.jpg"
-     alt="Daily American at 2022-10-07 03:39:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-07T03:39:20.282264-04:00.jpg">October 7 at 3:39 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 45 hyperlink lists with the Internet Archive.
+The archiving routine has saved 47 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 2:49 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T14:49:28.769029-04:00.hyperlinks.json) |
+| [October 13 at 2:00 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T02:00:13.527107-04:00.hyperlinks.json) |
 | [October 12 at 1:31 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-12T13:31:04.351804-04:00.hyperlinks.json) |
 | [October 12 at 2:38 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-12T02:38:31.511010-04:00.hyperlinks.json) |
 | [October 11 at 1:49 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-11T13:49:43.626805-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 2:29 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-10T02:29:47.816052-04:00.hyperlinks.json) |
 | [October 9 at 1:40 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-09T13:40:01.041083-04:00.hyperlinks.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-09T03:19:10.587702-04:00.hyperlinks.json) |
-| [October 8 at 1:44 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-08T13:44:22.370079-04:00.hyperlinks.json) |
-| [October 8 at 1:47 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-08T01:47:27.228398-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 45 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 2:49 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T14:49:28.769029-04:00.accessibility.json) |
+| [October 13 at 2:00 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T02:00:13.527107-04:00.accessibility.json) |
 | [October 12 at 1:31 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-12T13:31:04.351804-04:00.accessibility.json) |
 | [October 12 at 2:38 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-12T02:38:31.511010-04:00.accessibility.json) |
 | [October 11 at 1:49 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-11T13:49:43.626805-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 2:29 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-10T02:29:47.816052-04:00.accessibility.json) |
 | [October 9 at 1:40 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-09T13:40:01.041083-04:00.accessibility.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-09T03:19:10.587702-04:00.accessibility.json) |
-| [October 8 at 1:44 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-08T13:44:22.370079-04:00.accessibility.json) |
-| [October 8 at 1:47 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-08T01:47:27.228398-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 45 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 2:49 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T14:49:28.769029-04:00.lighthouse.json) |
+| [October 13 at 2:00 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-13T02:00:13.527107-04:00.lighthouse.json) |
 | [October 12 at 1:31 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-12T13:31:04.351804-04:00.lighthouse.json) |
 | [October 12 at 2:38 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-12T02:38:31.511010-04:00.lighthouse.json) |
 | [October 11 at 1:49 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-11T13:49:43.626805-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 2:29 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-10T02:29:47.816052-04:00.lighthouse.json) |
 | [October 9 at 1:40 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-09T13:40:01.041083-04:00.lighthouse.json) |
 | [October 9 at 3:19 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-09T03:19:10.587702-04:00.lighthouse.json) |
-| [October 8 at 1:44 PM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-08T13:44:22.370079-04:00.lighthouse.json) |
-| [October 8 at 1:47 AM](https://archive.org/download/dailyamerican-2022/dailyamerican-2022-10-08T01:47:27.228398-04:00.lighthouse.json) |
 
 
 
