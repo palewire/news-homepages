@@ -1,5 +1,6 @@
 {
-  "created": 1665678029,
+  "conflict": 1665683727,
+  "created": 1665683727,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/13/items/baltimoresun-2022",
@@ -33844,31 +33845,93 @@
       "sha1": "b87ed18ce366c860a37206162a7b703b65c422a3"
     },
     {
+      "name": "baltimoresun-2022-10-13T13:47:06.460778-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665683230",
+      "size": "35103",
+      "md5": "31526ae95b991d7d40608eb053c7b04a",
+      "crc32": "cc72e00e",
+      "sha1": "492877b5a5b802b6069d7af608afbe12c31c1e91",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-10-13T13:47:06.460778-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665683232",
+      "size": "38186",
+      "md5": "7ddde4765610a652182f25fa550856d7",
+      "crc32": "1d6fac01",
+      "sha1": "c368ffc73e1a20a21f9ef44efbb984d2461175b7",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-10-13T13:47:06.460778-04:00.jpg",
+      "source": "original",
+      "mtime": "1665683228",
+      "size": "257295",
+      "md5": "2a61c4620b95b04076c35073dbe36937",
+      "crc32": "ee45023d",
+      "sha1": "bef31671703502c30272c059a596da3b8033bb7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimoresun-2022-10-13T13:47:06.460778-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665683234",
+      "size": "1510",
+      "md5": "ad5cc14bcacef9f98091702c9f6ff093",
+      "crc32": "9e33d28c",
+      "sha1": "18d724a1a87ffc5e1de98573a82d45b6ef5d19df",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-10-13T13:47:06.460778-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665683236",
+      "size": "439",
+      "md5": "cb1254f4624a3f6d7424b81971cd50e8",
+      "crc32": "b82f554c",
+      "sha1": "87b95ce1b97f7af18cb1e7721397af2ca43aa8ec",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoresun-2022-10-13T13:47:06.460778-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoresun-2022-10-13T13:47:06.460778-04:00.jpg",
+      "mtime": "1665683638",
+      "size": "8396",
+      "md5": "a29de3f30d3b46d59d3ec26cf8c834f9",
+      "crc32": "78815ea6",
+      "sha1": "4d1dda85ed53d90bdfb78354c479225b15ebec7b"
+    },
+    {
       "name": "baltimoresun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d81206f5752ff4bcb779a53dfcabc051f83314d3",
-      "mtime": "1665677927",
-      "size": "699641",
-      "md5": "bd796b4b37c3015195d6391cb08a0858",
-      "crc32": "c554001a",
-      "sha1": "b2002fec85fbb97fcbcc87b742963d47e0eea29c",
+      "btih": "e1f88b26d6767224b2e0493146e81551951f3cac",
+      "mtime": "1665683722",
+      "size": "700910",
+      "md5": "273dd10b2eb5a6cdfb64ee932ad9d5c3",
+      "crc32": "c4faa41c",
+      "sha1": "4e222bdcf5140e80db42801874e2da2e056a64b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoresun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6fe471607a4a2296326b3c435c830f1",
+      "md5": "0df825f723dae2bee81cb28f334d397f",
       "summation": "md5"
     },
     {
       "name": "baltimoresun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665677470",
-      "size": "4022272",
-      "md5": "d0f9732499d0545b98bbb6ee50e8756e",
-      "crc32": "b78e00d1",
-      "sha1": "f105b420378803b2c2ba3ab269d0a319e3f42b81",
+      "mtime": "1665683275",
+      "size": "4030464",
+      "md5": "6b0cc8bf147093912a06d8ea110a9f40",
+      "crc32": "69d9565c",
+      "sha1": "c42540607345808dc31e90bc312cd7042059ae86",
       "format": "Metadata"
     },
     {
@@ -33882,9 +33945,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3261,
-  "item_last_updated": 1665677927,
-  "item_size": 239261578,
+  "files_count": 3267,
+  "item_last_updated": 1665683722,
+  "item_size": 239611968,
   "metadata": {
     "identifier": "baltimoresun-2022",
     "collection": [
@@ -33901,10 +33964,21 @@
     "publicdate": "2022-04-01 13:16:30",
     "addeddate": "2022-04-01 13:16:30"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 752793632,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3438596036,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 504092485,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }
