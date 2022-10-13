@@ -1,5 +1,5 @@
 {
-  "created": 1665646251,
+  "created": 1665692579,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/13/items/windowscentral-2022",
@@ -9594,31 +9594,93 @@
       "sha1": "2b430e627ab4bad4567a3ecc83ea6a7a20ae68f3"
     },
     {
+      "name": "windowscentral-2022-10-13T13:21:33.411285-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665692497",
+      "size": "15552",
+      "md5": "8c958800fa80e466127c22315ae771c6",
+      "crc32": "88f1c3b3",
+      "sha1": "cdabe113f4e8fd7f21405fe6e54bed26f3bdefde",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-13T13:21:33.411285-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665692501",
+      "size": "21013",
+      "md5": "f15e9b40630b93057cffb7fbaf982fb6",
+      "crc32": "0a89a265",
+      "sha1": "d506ed4f036bd85cc9cae102f0f3806f53be0189",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-13T13:21:33.411285-07:00.jpg",
+      "source": "original",
+      "mtime": "1665692494",
+      "size": "218591",
+      "md5": "772a8c6275464a676ba2a65b1d41417e",
+      "crc32": "357948fe",
+      "sha1": "2ae0bca0f5cf7caf64fa0907d88fa87047b2f796",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "windowscentral-2022-10-13T13:21:33.411285-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665692503",
+      "size": "1529",
+      "md5": "789adf8ca326d144f7cf2d2960d151f9",
+      "crc32": "9e9884e3",
+      "sha1": "ff3e77e70f2007258c56f9f16099fab9c6263487",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-13T13:21:33.411285-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665692505",
+      "size": "28274",
+      "md5": "f2053d808a674b2e42d35099c7cc9285",
+      "crc32": "aa37a89e",
+      "sha1": "16ad60299fcb15e11e6d4a305af4db7a4aca0327",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-13T13:21:33.411285-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "windowscentral-2022-10-13T13:21:33.411285-07:00.jpg",
+      "mtime": "1665692564",
+      "size": "9295",
+      "md5": "b3ad69de8aeb065f3bf9b3631ab98e96",
+      "crc32": "5bd55e00",
+      "sha1": "83a15b43aedbed6528103eacd7ef0a399d5d6977"
+    },
+    {
       "name": "windowscentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1eee11fc14aa67e2c17cc123d06e6d7ba9f88fe",
-      "mtime": "1665646242",
-      "size": "201544",
-      "md5": "05a5e0db91128676b4d546bf3bddaf5c",
-      "crc32": "d9628f10",
-      "sha1": "fa5a756fffe3ffe84e77677d3aba27a2b9319ea1",
+      "btih": "96e1ae50530adda4727fc5beaf85f4c492546ad0",
+      "mtime": "1665692573",
+      "size": "202847",
+      "md5": "929975219ff7e44e320c0d36a5bef773",
+      "crc32": "9e3a86b5",
+      "sha1": "7e13722d346bd4b6af27df941e49cb554e4e5b81",
       "format": "Archive BitTorrent"
     },
     {
       "name": "windowscentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ae9f55320076c2cc6fe1afb09f39835",
+      "md5": "f19e33e27c034a70c9bc3a419971ad73",
       "summation": "md5"
     },
     {
       "name": "windowscentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665646171",
-      "size": "1196032",
-      "md5": "70bc4954d0c7dda1ff6bea572738ba8e",
-      "crc32": "c52c6dbf",
-      "sha1": "fe6b964664cc92e5d2f5afa3b24be0da10aa6ae4",
+      "mtime": "1665692508",
+      "size": "1204224",
+      "md5": "4720033bd9d4d410edd2ab32de3ed867",
+      "crc32": "e3df5f2c",
+      "sha1": "9983e8828c80c0069f01842bee36a31855e52bf4",
       "format": "Metadata"
     },
     {
@@ -9632,9 +9694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 931,
-  "item_last_updated": 1665646242,
-  "item_size": 52085258,
+  "files_count": 937,
+  "item_last_updated": 1665692573,
+  "item_size": 52389007,
   "metadata": {
     "identifier": "windowscentral-2022",
     "collection": [
@@ -9652,7 +9714,7 @@
     "addeddate": "2022-07-25 06:48:02"
   },
   "server": "ia902503.us.archive.org",
-  "uniq": 773829253,
+  "uniq": 397337627,
   "workable_servers": [
     "ia902503.us.archive.org",
     "ia802503.us.archive.org"

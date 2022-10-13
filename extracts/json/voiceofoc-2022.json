@@ -1,6 +1,5 @@
 {
-  "conflict": 1665692885,
-  "created": 1665692885,
+  "created": 1665692998,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/voiceofoc-2022",
@@ -16164,29 +16163,10 @@
     "publicdate": "2022-07-09 04:04:32",
     "addeddate": "2022-07-09 04:04:32"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3438739281,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3438740081,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 600382115,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1416691742,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

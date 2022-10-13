@@ -1,5 +1,5 @@
 {
-  "created": 1665646083,
+  "created": 1665692211,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/therecordherald-2022",
@@ -2806,31 +2806,93 @@
       "sha1": "26463ce6d11073e4e8b40ae18e8c1e1736478c49"
     },
     {
+      "name": "therecordherald-2022-10-13T16:15:26.778207-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665692133",
+      "size": "24149",
+      "md5": "3bf4dc23ab2325c7c481927afb851402",
+      "crc32": "5331c4a0",
+      "sha1": "c9b4a14b1df3edde07574bc73b9dbd6161793db0",
+      "format": "JSON"
+    },
+    {
+      "name": "therecordherald-2022-10-13T16:15:26.778207-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665692135",
+      "size": "35292",
+      "md5": "2872a60d434be4d3044eeedb01e417e8",
+      "crc32": "d337df80",
+      "sha1": "fa24f59bea662e4e5ae027901adba518eff49f06",
+      "format": "JSON"
+    },
+    {
+      "name": "therecordherald-2022-10-13T16:15:26.778207-04:00.jpg",
+      "source": "original",
+      "mtime": "1665692130",
+      "size": "235303",
+      "md5": "89732a2bab3cc45a818baa9cb37f9017",
+      "crc32": "eb015b95",
+      "sha1": "a5e2c8ca1e44f37e4e7cd46a8f096e9644631fdc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therecordherald-2022-10-13T16:15:26.778207-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665692137",
+      "size": "1540",
+      "md5": "1f3d4992fa96adf5d707908258f8887a",
+      "crc32": "8cff2073",
+      "sha1": "9873818f24c32e24caf68e977ef1667d00878cfa",
+      "format": "JSON"
+    },
+    {
+      "name": "therecordherald-2022-10-13T16:15:26.778207-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665692140",
+      "size": "120850",
+      "md5": "bf697e90687eb5edc7da1e8901535411",
+      "crc32": "84c557ff",
+      "sha1": "2fc6b7b33a6c29cc09d2092851ff7bd845033a31",
+      "format": "JSON"
+    },
+    {
+      "name": "therecordherald-2022-10-13T16:15:26.778207-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therecordherald-2022-10-13T16:15:26.778207-04:00.jpg",
+      "mtime": "1665692193",
+      "size": "9110",
+      "md5": "7676298781a5132a4de109911a477954",
+      "crc32": "15fb37a6",
+      "sha1": "3d6536981a99b5a1670898ddd05bfe989e867f8e"
+    },
+    {
       "name": "therecordherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99905a10f61dcda3c9f7a86ceaad9db07fee3893",
-      "mtime": "1665646069",
-      "size": "60338",
-      "md5": "4c30377d8d26099fafbb262b2e2943ae",
-      "crc32": "1cf1e798",
-      "sha1": "ac1cff060deb41dcd53b8ebe70f179ab4c8d3c36",
+      "btih": "918317fa8db1192f89ee7a87ecfb1e3438f3c46c",
+      "mtime": "1665692196",
+      "size": "61648",
+      "md5": "b7d2c53212a575aed597789753b1ebd7",
+      "crc32": "2f4104c2",
+      "sha1": "fe0ef0722f8e8af85a8693c11fd3f3ededdcf3b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "therecordherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bfa49c064275764ad652f56d0cfc4b9d",
+      "md5": "255d2708dd3992421534468ea1b437d5",
       "summation": "md5"
     },
     {
       "name": "therecordherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665646015",
-      "size": "364544",
-      "md5": "c14075a3303c8e8256442333d0925518",
-      "crc32": "3c5c77d0",
-      "sha1": "65b2749efe933965f2bad3f1a6fed87d1634a3da",
+      "mtime": "1665692144",
+      "size": "376832",
+      "md5": "68ed5204a2dde7c25b68c3ee127ac799",
+      "crc32": "cf768a7c",
+      "sha1": "15c4b070db3671533fff0d7007f398a225fd875c",
       "format": "Metadata"
     },
     {
@@ -2844,9 +2906,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 275,
-  "item_last_updated": 1665646069,
-  "item_size": 18056212,
+  "files_count": 281,
+  "item_last_updated": 1665692196,
+  "item_size": 18496054,
   "metadata": {
     "identifier": "therecordherald-2022",
     "collection": [
@@ -2863,10 +2925,10 @@
     "publicdate": "2022-09-20 19:30:21",
     "addeddate": "2022-09-20 19:30:21"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1644076697,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1156454034,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

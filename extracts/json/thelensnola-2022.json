@@ -1,5 +1,5 @@
 {
-  "created": 1665646100,
+  "created": 1665692326,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/thelensnola-2022",
@@ -10988,31 +10988,93 @@
       "sha1": "f20906c3175df73e4aa90154bf542f869e117087"
     },
     {
+      "name": "thelensnola-2022-10-13T15:16:19.529284-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665692188",
+      "size": "14638",
+      "md5": "5eb339a686e73b72666b2e16368f73b7",
+      "crc32": "566cc225",
+      "sha1": "831d11ca70179a321b24620eb2b499b47b7201fd",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-10-13T15:16:19.529284-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665692190",
+      "size": "12674",
+      "md5": "de09bcc09c459b5c6c59e9de299e01ad",
+      "crc32": "c45c120c",
+      "sha1": "2d15764f9839c0f1265224da35de1c5490e27f5a",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-10-13T15:16:19.529284-05:00.jpg",
+      "source": "original",
+      "mtime": "1665692186",
+      "size": "282191",
+      "md5": "711400aa4d1d4089c4d952753b6e9667",
+      "crc32": "632abc43",
+      "sha1": "1d24ecdadf1402f9638a81f3da9f6ec04653d72e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelensnola-2022-10-13T15:16:19.529284-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665692193",
+      "size": "1465",
+      "md5": "8b979b737237bc68321735d2cd2ba624",
+      "crc32": "99bf74a9",
+      "sha1": "fe4c9042d358fee9a15a93589dc7c8892e7ca36b",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-10-13T15:16:19.529284-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665692195",
+      "size": "8955",
+      "md5": "483183642cb303e5eff7d5a1bfbfa769",
+      "crc32": "a4a2130d",
+      "sha1": "c12a35791b185d69c4517a3981cc3a918b9896f8",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-10-13T15:16:19.529284-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelensnola-2022-10-13T15:16:19.529284-05:00.jpg",
+      "mtime": "1665692271",
+      "size": "10703",
+      "md5": "0a727fd809e7bdce70ee104d58c14c90",
+      "crc32": "d6b1c362",
+      "sha1": "3ba9bd27f6891ee6eb6bdfe6a6e418ab5dbce5dc"
+    },
+    {
       "name": "thelensnola-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b146c743d89b0820c916aa6f72150545fdf0fe13",
-      "mtime": "1665646093",
-      "size": "226882",
-      "md5": "0aa4f02125b0b18d63803a6cffb338b0",
-      "crc32": "b00fb2d5",
-      "sha1": "a1208af92043498fff073038480d3ede5742297d",
+      "btih": "570dbe6c9fc8853d8a70b2ec1635cb01d4b8d4c5",
+      "mtime": "1665692284",
+      "size": "228167",
+      "md5": "f44ab0e440162b943aa11fc99837b23d",
+      "crc32": "768fe373",
+      "sha1": "e0838fa413decc2eb4a48f1b85a9203b4a19ad47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelensnola-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4bc08a6843a66f8b9dca027c00b89330",
+      "md5": "efb3bd335ec3d9591c4fa192945ecfe4",
       "summation": "md5"
     },
     {
       "name": "thelensnola-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665646020",
-      "size": "1347584",
-      "md5": "0e301093d530e2af3cac325f0d673340",
-      "crc32": "efcb6b3f",
-      "sha1": "60fc22ad36230ee13f277a6cfa30eaa4c75cfe61",
+      "mtime": "1665692199",
+      "size": "1351680",
+      "md5": "d1f14d0b9d734e0a9fdaf93202e13e79",
+      "crc32": "e4ce796c",
+      "sha1": "44c74b767b1bfed485b64c8f3d3f3b0e81c11e58",
       "format": "Metadata"
     },
     {
@@ -11026,9 +11088,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1064,
-  "item_last_updated": 1665646093,
-  "item_size": 56008683,
+  "files_count": 1070,
+  "item_last_updated": 1665692284,
+  "item_size": 56344690,
   "metadata": {
     "identifier": "thelensnola-2022",
     "collection": [
@@ -11045,10 +11107,10 @@
     "publicdate": "2022-07-09 04:03:47",
     "addeddate": "2022-07-09 04:03:47"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 431950082,
+  "server": "ia902509.us.archive.org",
+  "uniq": 689242224,
   "workable_servers": [
-    "ia802509.us.archive.org",
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

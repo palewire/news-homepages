@@ -1,6 +1,5 @@
 {
-  "conflict": 1665692925,
-  "created": 1665692925,
+  "created": 1665693028,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/9/items/vcstar-2022",
@@ -25526,29 +25525,10 @@
     "publicdate": "2022-03-23 02:10:28",
     "addeddate": "2022-03-23 02:10:28"
   },
-  "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3438739111,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3438740632,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 32431305,
+  "server": "ia802503.us.archive.org",
+  "uniq": 1121578711,
   "workable_servers": [
+    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }
