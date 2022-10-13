@@ -1,5 +1,5 @@
 {
-  "created": 1665615479,
+  "created": 1665658081,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/28/items/abqjournal-2022",
@@ -17626,31 +17626,93 @@
       "sha1": "81171598d977e020c0d6fa8d198b7ae366dd1733"
     },
     {
+      "name": "abqjournal-2022-10-13T04:45:03.819638-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665657918",
+      "size": "40965",
+      "md5": "e0f95e4cbd029126007a6164d035628b",
+      "crc32": "ecb9ef6c",
+      "sha1": "354ebe8cb319928e73a40b0106f8153dc4da0778",
+      "format": "JSON"
+    },
+    {
+      "name": "abqjournal-2022-10-13T04:45:03.819638-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665657920",
+      "size": "61074",
+      "md5": "a9fa844beb6a03fbd6d9c1a5c462860e",
+      "crc32": "b7474911",
+      "sha1": "6b1b2e3d06cb0b7cf934cae6167311ee308ae40d",
+      "format": "JSON"
+    },
+    {
+      "name": "abqjournal-2022-10-13T04:45:03.819638-06:00.jpg",
+      "source": "original",
+      "mtime": "1665657913",
+      "size": "275925",
+      "md5": "972b54383a49c13633d023b717afaab8",
+      "crc32": "e06cc70b",
+      "sha1": "46417e1b443a0a2c4aa6dc63f7fde61f94f34d0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abqjournal-2022-10-13T04:45:03.819638-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665657922",
+      "size": "1492",
+      "md5": "464909aa95a2a173d205fd8e6d7c7c2a",
+      "crc32": "064895f5",
+      "sha1": "3e5f47024e709ee0a12fd99a5590148e9ce65d42",
+      "format": "JSON"
+    },
+    {
+      "name": "abqjournal-2022-10-13T04:45:03.819638-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665657923",
+      "size": "55816",
+      "md5": "72d01a65d448ff13632f4a37e1f4b3d6",
+      "crc32": "04102e30",
+      "sha1": "b1843524a466060dec1f1e3cde42c5972d2ee2ff",
+      "format": "JSON"
+    },
+    {
+      "name": "abqjournal-2022-10-13T04:45:03.819638-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abqjournal-2022-10-13T04:45:03.819638-06:00.jpg",
+      "mtime": "1665658003",
+      "size": "9616",
+      "md5": "d0b46e5fb2e871aa63727c878c21c0eb",
+      "crc32": "0feb3d80",
+      "sha1": "1abf3282b7bc9e28ada199dc52f076e7b744b56c"
+    },
+    {
       "name": "abqjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "160643556dab87d6f0904ba263c6fdc0eb64f275",
-      "mtime": "1665615470",
-      "size": "361722",
-      "md5": "06f95c22efaaf6833998db34acab2fba",
-      "crc32": "8d509e15",
-      "sha1": "cfb86354667d6a7b0b2de54ed80ba9141b5b41e3",
+      "btih": "fca69c8433f7e52d9878bcf4c93d1444797f6dae",
+      "mtime": "1665658070",
+      "size": "363001",
+      "md5": "ca3f40a8428d78153c68f4ff9b32ed85",
+      "crc32": "baf9f192",
+      "sha1": "964797436e08290a66e00b432da24ae553460890",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abqjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac4cce04e1289b0ccc31cbab1c28b494",
+      "md5": "0a5ffea57c1f2dca9f4564de2f542953",
       "summation": "md5"
     },
     {
       "name": "abqjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665615377",
-      "size": "2060288",
-      "md5": "560a399e8c1b25b282a13dab4ff06661",
-      "crc32": "5d62e4a8",
-      "sha1": "abf4ce172cb6325d5912cd36e7deb623d057983f",
+      "mtime": "1665657927",
+      "size": "2068480",
+      "md5": "8633cb772eff8f2be734a7d1ef84b21f",
+      "crc32": "963d4421",
+      "sha1": "97782665de79dfb39f408c31792ac009ffe24713",
       "format": "Metadata"
     },
     {
@@ -17664,9 +17726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1696,
-  "item_last_updated": 1665615470,
-  "item_size": 148924780,
+  "files_count": 1702,
+  "item_last_updated": 1665658070,
+  "item_size": 149379139,
   "metadata": {
     "identifier": "abqjournal-2022",
     "collection": [
@@ -17684,7 +17746,7 @@
     "addeddate": "2022-03-25 03:47:41"
   },
   "server": "ia902503.us.archive.org",
-  "uniq": 790090460,
+  "uniq": 250200099,
   "workable_servers": [
     "ia902503.us.archive.org",
     "ia802503.us.archive.org"
