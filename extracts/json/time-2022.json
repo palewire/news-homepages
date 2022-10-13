@@ -1,6 +1,6 @@
 {
-  "conflict": 1665610254,
-  "created": 1665610254,
+  "conflict": 1665632843,
+  "created": 1665610288,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/28/items/time-2022",
@@ -21675,20 +21675,52 @@
     "addeddate": "2022-06-24 23:04:02"
   },
   "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
+  "server": "ia801500.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3437418241,
-      "cmd": "bup.php",
+      "task_id": 3437793455,
+      "cmd": "archive.php",
       "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3437793543,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3437793576,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3437793620,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3437793652,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 495626178,
+  "uniq": 316068398,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia801500.us.archive.org"
   ]
 }

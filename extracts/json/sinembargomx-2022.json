@@ -1,5 +1,5 @@
 {
-  "created": 1665587081,
+  "created": 1665632455,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/sinembargomx-2022",
@@ -7034,31 +7034,83 @@
       "sha1": "1881a5b0b673a149735f2dee6041e7450d822980"
     },
     {
+      "name": "sinembargomx-2022-10-12T22:38:33.292512-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665632319",
+      "size": "1096",
+      "md5": "7f9171ce73f4385551e33eaef73f6ee3",
+      "crc32": "de658c55",
+      "sha1": "11c5edeeb765f1f589e0aadd41e27be7c114ddc2",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-10-12T22:38:33.292512-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665632320",
+      "size": "113",
+      "md5": "18dc96ac0074bdf3191ff778c56b9ad6",
+      "crc32": "b72e0a97",
+      "sha1": "778291407fcc7719d443ed3658264fde7f15c4cc",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-10-12T22:38:33.292512-05:00.jpg",
+      "source": "original",
+      "mtime": "1665632317",
+      "size": "58205",
+      "md5": "95114d610762337d3914ada489f5801e",
+      "crc32": "d6f1c1a8",
+      "sha1": "a4123c73fcb28f7f6a8759b0eecf01d42ee203a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sinembargomx-2022-10-12T22:38:33.292512-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665632321",
+      "size": "2047",
+      "md5": "9a7d7289f7a95843d62135f45603528e",
+      "crc32": "d39744ad",
+      "sha1": "4d4c3a5558601f6cc1a36e669bc7eb52959428c2",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-10-12T22:38:33.292512-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sinembargomx-2022-10-12T22:38:33.292512-05:00.jpg",
+      "mtime": "1665632409",
+      "size": "5406",
+      "md5": "5fa0345020d29a0c4f9201d909f0b496",
+      "crc32": "dffc7f2d",
+      "sha1": "f97f2052c9a6582f66d35d7775038c4faa74d1a2"
+    },
+    {
       "name": "sinembargomx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b027713044f8976100a3fd884c30f2c08b40c0cb",
-      "mtime": "1665587064",
-      "size": "148162",
-      "md5": "014cde0f29eb34d12c55628e0ad2b61d",
-      "crc32": "035ed839",
-      "sha1": "e046bc4b00083b0ac744a9456ec79949b8cbbdf6",
+      "btih": "bf04bd6ca8d4ca030c5b79568bd92f0bd8763e2c",
+      "mtime": "1665632426",
+      "size": "149214",
+      "md5": "7ba48bad20e4541345958336b50a0fa1",
+      "crc32": "be240349",
+      "sha1": "65f47661352bca04ef101380de95d8b85bf75691",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinembargomx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb2c1f4e8bc7afe857cdf5a567a1e015",
+      "md5": "9239d080216714f4dd414e684b796aef",
       "summation": "md5"
     },
     {
       "name": "sinembargomx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665586987",
-      "size": "884736",
-      "md5": "de80d0e611f7e5f66ac001549812fa7f",
-      "crc32": "e1a83101",
-      "sha1": "2a193ae9ff8b935cef6a41067dc8ec4a2dcc6f30",
+      "mtime": "1665632329",
+      "size": "892928",
+      "md5": "254d12773ae835e13ab5d8b4eb3f605e",
+      "crc32": "45c644cb",
+      "sha1": "82ae3cc2569fd133adf87841be201c8fef637f7a",
       "format": "Metadata"
     },
     {
@@ -7072,9 +7124,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 684,
-  "item_last_updated": 1665587064,
-  "item_size": 69354665,
+  "files_count": 689,
+  "item_last_updated": 1665632426,
+  "item_size": 69430776,
   "metadata": {
     "identifier": "sinembargomx-2022",
     "collection": [
@@ -7092,7 +7144,7 @@
     "addeddate": "2022-08-16 17:12:18"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 1685338655,
+  "uniq": 1248530857,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

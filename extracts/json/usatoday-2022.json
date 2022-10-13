@@ -1,6 +1,6 @@
 {
-  "conflict": 1665610274,
-  "created": 1665610274,
+  "conflict": 1665632906,
+  "created": 1665632906,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/20/items/usatoday-2022",
@@ -32275,24 +32275,29 @@
       "name": "usatoday-2022-10-12T17:27:11.750013-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "usatoday-2022-10-12T17:27:11.750013-04:00.jpg"
+      "original": "usatoday-2022-10-12T17:27:11.750013-04:00.jpg",
+      "mtime": "1665610268",
+      "size": "9594",
+      "md5": "5cb7ce58f1a26cb11ddc53b2c05e601f",
+      "crc32": "e5c3a75e",
+      "sha1": "20938ab7729751ad459474c0d43ca3f85ac08498"
     },
     {
       "name": "usatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7cee4787f7181cf595f944cc61c99cf194c37fc5",
-      "mtime": "1665610203",
-      "size": "654851",
-      "md5": "008b67ed64b2ccf8472d06eacf5e93a1",
-      "crc32": "54cb2cf6",
-      "sha1": "386373d26e7390dbe379f8b597b83bd2583e5f7d",
+      "btih": "fd2ea55d14a4466926d74507baa39a46f1c183b7",
+      "mtime": "1665610561",
+      "size": "655055",
+      "md5": "5f7ab532e4387fcc472d0888d65618ed",
+      "crc32": "a8dfc432",
+      "sha1": "0e89b9091b25dbb0459c528fb2d9cbcaa88754e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dadb554c6ac15b3afe0cbc1d481aed64",
+      "md5": "001f12f43030aec6b3c2cdfb315ba482",
       "summation": "md5"
     },
     {
@@ -32317,8 +32322,8 @@
     }
   ],
   "files_count": 3104,
-  "item_last_updated": 1665610203,
-  "item_size": 273188553,
+  "item_last_updated": 1665610561,
+  "item_size": 273198351,
   "metadata": {
     "identifier": "usatoday-2022",
     "collection": [
@@ -32336,20 +32341,60 @@
     "addeddate": "2022-03-23 12:05:23"
   },
   "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
+  "server": "ia801500.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3437418083,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3437793916,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437793957,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437793989,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437794042,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437794097,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
+    },
+    {
+      "task_id": 3437799294,
+      "cmd": "archive.php",
+      "priority": 1,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1629269355,
+  "uniq": 1966396536,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia801500.us.archive.org"
   ]
 }

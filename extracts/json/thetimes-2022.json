@@ -1,5 +1,5 @@
 {
-  "created": 1665588481,
+  "created": 1665632622,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/22/items/thetimes-2022",
@@ -27066,31 +27066,93 @@
       "sha1": "6b5ca71f115f95427c4ff8ae6d4aab8da5a0ecb3"
     },
     {
+      "name": "thetimes-2022-10-13T04:40:32.706588+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665632436",
+      "size": "48881",
+      "md5": "2eebdecfaef62739847a7ba76f498d26",
+      "crc32": "fe97d7d1",
+      "sha1": "e03885124471dbc3f634a9077d6da3178dd5a3d0",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-13T04:40:32.706588+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665632438",
+      "size": "123246",
+      "md5": "c177653a058c2f936be4630773d4aac9",
+      "crc32": "81a69503",
+      "sha1": "974919044006bba1bb3e1bff1abae7aabdc3ecde",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-13T04:40:32.706588+01:00.jpg",
+      "source": "original",
+      "mtime": "1665632434",
+      "size": "334603",
+      "md5": "f4eae2719ce9daff8e508d7cd6b9f2cc",
+      "crc32": "fe039294",
+      "sha1": "f9dedd96948628be3f1e9cf9f958d804c8bc2872",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetimes-2022-10-13T04:40:32.706588+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665632440",
+      "size": "1495",
+      "md5": "9aff63aac3ee4a76a56cec89645d1a50",
+      "crc32": "ed3f2aac",
+      "sha1": "89f5f0e808ee23c73160669ed18971fbd5129637",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-13T04:40:32.706588+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665632442",
+      "size": "58800",
+      "md5": "b5ded650b5265c5829cddda1d14225f9",
+      "crc32": "ca651548",
+      "sha1": "ffc3f772c90d8ab7343beaaddda2f7f650edb0e5",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-13T04:40:32.706588+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetimes-2022-10-13T04:40:32.706588+01:00.jpg",
+      "mtime": "1665632547",
+      "size": "10123",
+      "md5": "031b7dbbfb8e0b28b91ac163d1ff3d02",
+      "crc32": "6fa7ff06",
+      "sha1": "67f73864bc2d3ce5176630b0f50b2301e97b50e6"
+    },
+    {
       "name": "thetimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "655e3c32d68b16b537f2afbff6dba66fe82aaeda",
-      "mtime": "1665587494",
-      "size": "551591",
-      "md5": "9b7bc46ae0bfac1b0aa9848ed09decc8",
-      "crc32": "2339dc95",
-      "sha1": "3b0514908c285118a2fcc523ad72370eca092032",
+      "btih": "6c1bf3965194f3f8ccbcc7284f419df71a495626",
+      "mtime": "1665632611",
+      "size": "552860",
+      "md5": "917f1b9be2d5109b3f5dffd5fd23a04e",
+      "crc32": "3c63e871",
+      "sha1": "f02a6d2154d0115675ddea98cab283a03abcf048",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "051686d6e27250a83d0b50d3dc26990e",
+      "md5": "eaa14267b59b2938d30b83e11ea8743a",
       "summation": "md5"
     },
     {
       "name": "thetimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665587310",
-      "size": "3133440",
-      "md5": "409e50ca6d125d60a090ee850b4ce2f7",
-      "crc32": "49b128c8",
-      "sha1": "0b5a6d70b97ddf8ffabd8b269802ee79617655da",
+      "mtime": "1665632448",
+      "size": "3141632",
+      "md5": "1a020d0a1fabacad58d6af2c244dd102",
+      "crc32": "142ed179",
+      "sha1": "7eddf1ee03967e86ba7ff97862f96b74f4b2eeec",
       "format": "Metadata"
     },
     {
@@ -27104,9 +27166,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2601,
-  "item_last_updated": 1665587494,
-  "item_size": 278485552,
+  "files_count": 2607,
+  "item_last_updated": 1665632611,
+  "item_size": 279072161,
   "metadata": {
     "identifier": "thetimes-2022",
     "collection": [
@@ -27123,15 +27185,10 @@
     "publicdate": "2022-03-23 08:04:21",
     "addeddate": "2022-03-23 08:04:21"
   },
-  "server": "ia802508.us.archive.org",
-  "thetimes-2022": {
-    "url": "https://www.thetimes.co.uk/",
-    "job_id": "spn2-e533f98ffbc30d6886b7ff936835b599d903f1f6",
-    "message": "The same snapshot had been made 6 minutes, 52 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
-  "uniq": 1340880406,
+  "server": "ia902508.us.archive.org",
+  "uniq": 1457103483,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }
