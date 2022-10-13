@@ -1,5 +1,6 @@
 {
-  "created": 1665646421,
+  "conflict": 1665662336,
+  "created": 1665662336,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/valoreconomico-2022",
@@ -12304,31 +12305,93 @@
       "sha1": "af7123784950de1e5e2de897a99975301e70cfa9"
     },
     {
+      "name": "valoreconomico-2022-10-13T08:55:27.837033-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665662137",
+      "size": "64458",
+      "md5": "56c2f973815edbb4a602560b2c342f35",
+      "crc32": "9d242e92",
+      "sha1": "58104fc7b1151eed9828e76e968465172f6bf0b2",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-13T08:55:27.837033-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665662138",
+      "size": "56408",
+      "md5": "63d57c191a2e9d3907a87bbaee0bf7d6",
+      "crc32": "489f9b5f",
+      "sha1": "d6b08eb7bafbbbb2c41c68285320842cbf34cfb0",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-13T08:55:27.837033-03:00.jpg",
+      "source": "original",
+      "mtime": "1665662135",
+      "size": "152934",
+      "md5": "040c7c1e0c1ba94ebf341809fff44281",
+      "crc32": "ffca7dae",
+      "sha1": "1b966e50edba971423229aa305c6b868b9bc6389",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "valoreconomico-2022-10-13T08:55:27.837033-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665662140",
+      "size": "1468",
+      "md5": "c89348e2840b7dc23bcbc2abe2046e44",
+      "crc32": "1e596d6b",
+      "sha1": "862fc63cbbee53618d8d12c130d16d426d7bbf3a",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-13T08:55:27.837033-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665662141",
+      "size": "100",
+      "md5": "fee4728a83dd0a24a4fbac9c6e3835e5",
+      "crc32": "4a086ee6",
+      "sha1": "d5dc8bb5ba46b8dcdaf774119feaccf7afec4d63",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-13T08:55:27.837033-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "valoreconomico-2022-10-13T08:55:27.837033-03:00.jpg",
+      "mtime": "1665662299",
+      "size": "7943",
+      "md5": "284a2cf02eb5627f54c84bcd3dd48bab",
+      "crc32": "67536913",
+      "sha1": "60d7af9f0fb7c09dd695f6c16226e02cc7d3e23a"
+    },
+    {
       "name": "valoreconomico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a0afe3ced27a0d33781c1736547e6708ab255821",
-      "mtime": "1665646291",
-      "size": "258959",
-      "md5": "8485bd8db504a7860cf417e6c4467225",
-      "crc32": "b9fe24ec",
-      "sha1": "7dbea33ca092e0059919b51267a5ed937eadad1f",
+      "btih": "29e22bec2d28b2e275f563934047f71b357bca04",
+      "mtime": "1665662313",
+      "size": "260260",
+      "md5": "9f48b3c53c89214a97d116579e68ae47",
+      "crc32": "25e9c9c4",
+      "sha1": "72044743a8ab4ca01a3973d1c66e00ff563a55e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "valoreconomico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11d97323a67fa24185e06984e6ec6dfa",
+      "md5": "6260b0fa1d389ae08d3cf43bb167b775",
       "summation": "md5"
     },
     {
       "name": "valoreconomico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665646099",
-      "size": "1536000",
-      "md5": "fc402a17c4e65408879199ced785e522",
-      "crc32": "b7b807ac",
-      "sha1": "7d482d4e73a6c290b0b0f57c5996c4a9af9a7c68",
+      "mtime": "1665662162",
+      "size": "1544192",
+      "md5": "679ea64d877f17676bcaa0d8c6b0d882",
+      "crc32": "0f227be7",
+      "sha1": "53dc9744f882bb6cb28b3014b2b4ff9610e0b471",
       "format": "Metadata"
     },
     {
@@ -12342,9 +12405,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1194,
-  "item_last_updated": 1665646291,
-  "item_size": 83415807,
+  "files_count": 1200,
+  "item_last_updated": 1665662313,
+  "item_size": 83708611,
   "metadata": {
     "identifier": "valoreconomico-2022",
     "collection": [
@@ -12361,10 +12424,21 @@
     "publicdate": "2022-08-04 04:56:45",
     "addeddate": "2022-08-04 04:56:45"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1775286787,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3438300278,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2123980093,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }
