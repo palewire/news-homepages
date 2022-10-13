@@ -1,5 +1,5 @@
 {
-  "created": 1665600626,
+  "created": 1665646030,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -12286,31 +12286,93 @@
       "sha1": "3ff2ebd759e79120cc51a9a35fec9099f2f8c600"
     },
     {
+      "name": "stltoday-2022-10-13T02:25:04.859266-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665645913",
+      "size": "34131",
+      "md5": "d49b3485de92651de946a7859f1d0ab1",
+      "crc32": "2e574b3d",
+      "sha1": "5bbf3d3e4a23544e4ee97f3413d4ff97d7d8458b",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-13T02:25:04.859266-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665645915",
+      "size": "79166",
+      "md5": "1ef2db61f750fd8a441e18de652091b8",
+      "crc32": "344e3df0",
+      "sha1": "fd5285d2963f1b0d8f9a2451fde5f61e38b11c38",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-13T02:25:04.859266-05:00.jpg",
+      "source": "original",
+      "mtime": "1665645911",
+      "size": "350151",
+      "md5": "f7ea4e1c096ea187e37baad162f8f992",
+      "crc32": "4db387f6",
+      "sha1": "5bb9fda4b49f7de104a67febd8f31df2758c1b43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-13T02:25:04.859266-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665645916",
+      "size": "1477",
+      "md5": "dcc7eb048ed1b0a2df00a4d235096f77",
+      "crc32": "57dd7dd4",
+      "sha1": "134ae36871b236a70ec95b24cbbd84f45f64c11f",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-13T02:25:04.859266-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665645918",
+      "size": "44415",
+      "md5": "a3d0aa3d9eba30d85ea457ecb0c70756",
+      "crc32": "b6712ee4",
+      "sha1": "19b919472d6165e654ba2d555c6a856a8e27518a",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-13T02:25:04.859266-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-13T02:25:04.859266-05:00.jpg",
+      "mtime": "1665645989",
+      "size": "12460",
+      "md5": "9710e3b87ba5f88a654f9a2e7cda831a",
+      "crc32": "285f5842",
+      "sha1": "40a2fc05ed2118c892abcebe351dcb38be6f1250"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae07c448fd6901b023687e15222819ce6df42bc1",
-      "mtime": "1665600614",
-      "size": "251133",
-      "md5": "80918060194f0cc6a65f63b3e4f4786e",
-      "crc32": "59042047",
-      "sha1": "be7e49cb23f84ec0290b6473e453732d17715d8a",
+      "btih": "27122236afbe3ae01970f4694a6656b561d5d82b",
+      "mtime": "1665646020",
+      "size": "252401",
+      "md5": "a8e4733d4e8ef618c86e8d2193b87688",
+      "crc32": "4a156ff0",
+      "sha1": "d9a6e3f4dcb33ebf34ece4af8a07f0c6d5bc111d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f90e2f454cc7ed42d2b52864ea2b904",
+      "md5": "38fc1d39c0af32279c74dc631ee8e89f",
       "summation": "md5"
     },
     {
       "name": "stltoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665600543",
-      "size": "1458176",
-      "md5": "f6c16ba840381d8557d1cf48b5e21b8e",
-      "crc32": "1ae97a13",
-      "sha1": "72046ad74dbdf19e10d18dd998a843811d096173",
+      "mtime": "1665645921",
+      "size": "1466368",
+      "md5": "27bc9dbfff0e586599e892fb7b2e490a",
+      "crc32": "76c6d2e1",
+      "sha1": "7986b38dd78f6c000a0b956241e90d8f6a60bc5e",
       "format": "Metadata"
     },
     {
@@ -12324,9 +12386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1186,
-  "item_last_updated": 1665600614,
-  "item_size": 110836950,
+  "files_count": 1192,
+  "item_last_updated": 1665646020,
+  "item_size": 111368210,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -12343,10 +12405,10 @@
     "publicdate": "2022-06-24 23:01:32",
     "addeddate": "2022-06-24 23:01:32"
   },
-  "server": "ia902502.us.archive.org",
-  "uniq": 1805320892,
+  "server": "ia802502.us.archive.org",
+  "uniq": 158988880,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }

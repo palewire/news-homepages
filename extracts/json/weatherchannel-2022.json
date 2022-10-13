@@ -1,5 +1,5 @@
 {
-  "created": 1665600867,
+  "created": 1665646436,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/weatherchannel-2022",
@@ -9374,31 +9374,93 @@
       "sha1": "865ba8966309aa69639ea709f8687e63736d7c2e"
     },
     {
+      "name": "weatherchannel-2022-10-13T03:29:44.283796-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665646188",
+      "size": "9823",
+      "md5": "dd0df771ff724815be08644faca80c41",
+      "crc32": "6e9c3430",
+      "sha1": "ed85f366615ed55240899382128678242bd43035",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-10-13T03:29:44.283796-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665646189",
+      "size": "20699",
+      "md5": "f3226a54e677275172e634dbc8e6928c",
+      "crc32": "19e4b223",
+      "sha1": "3c944f43a5fc30b4fea558e57002e3878f43b47d",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-10-13T03:29:44.283796-04:00.jpg",
+      "source": "original",
+      "mtime": "1665646186",
+      "size": "295562",
+      "md5": "2367b3dc1099352ac591a8ba737a41af",
+      "crc32": "152960c2",
+      "sha1": "cd03763d73d0e110e8c5b4dfa319e07f7d0fced9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weatherchannel-2022-10-13T03:29:44.283796-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665646191",
+      "size": "1432",
+      "md5": "aa297de01b4b485fc1cc2fec992085b6",
+      "crc32": "3651c10f",
+      "sha1": "be559974910960cc2a094f02e739fb6c70a0b687",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-10-13T03:29:44.283796-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665646192",
+      "size": "21771",
+      "md5": "b9804379edc36c129f42c254e8aed8b8",
+      "crc32": "7789c2fe",
+      "sha1": "46debc9516f1bedf0f787dbaef74b5a8e71b83ca",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-10-13T03:29:44.283796-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weatherchannel-2022-10-13T03:29:44.283796-04:00.jpg",
+      "mtime": "1665646390",
+      "size": "10616",
+      "md5": "5f48cd931790dc855c7e16a8b65de897",
+      "crc32": "d795b67e",
+      "sha1": "421d7688274fe58c8217a394f0d1db66945f04df"
+    },
+    {
       "name": "weatherchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bad84aa2433dca3eac3e4cbe31450c37651bc43a",
-      "mtime": "1665600851",
-      "size": "197118",
-      "md5": "27a6bc5f7e14507a32454d7b9613356e",
-      "crc32": "c1b8df9f",
-      "sha1": "2d680bda56d520727eb6d840691b0a3d17a407fb",
+      "btih": "2eb534cf26043220abb94cba7b83369d6a71950b",
+      "mtime": "1665646410",
+      "size": "198401",
+      "md5": "c6a81d2ed57387cbb368f4f459c2ca2c",
+      "crc32": "568c1c1a",
+      "sha1": "9c1e21c216be63c717105058e46ab9b9a778be1d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weatherchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be0731ea42e28a9fbfa37bfb7129e328",
+      "md5": "56319b0b1352fcc2423991039b97d745",
       "summation": "md5"
     },
     {
       "name": "weatherchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665600774",
-      "size": "1171456",
-      "md5": "0ed7b893a605e62490325d3d76655ae5",
-      "crc32": "cab68cb2",
-      "sha1": "952b2d33c21294bfe1b07eaa1b84109cf3a30510",
+      "mtime": "1665646201",
+      "size": "1175552",
+      "md5": "8db3737a33ba42d91d002c88dbcf7128",
+      "crc32": "d8bbd01a",
+      "sha1": "83d838ca3a6c474606c0cc0a684aeaa8fb74cbe0",
       "format": "Metadata"
     },
     {
@@ -9412,9 +9474,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 910,
-  "item_last_updated": 1665600851,
-  "item_size": 54218218,
+  "files_count": 916,
+  "item_last_updated": 1665646410,
+  "item_size": 54583500,
   "metadata": {
     "identifier": "weatherchannel-2022",
     "collection": [
@@ -9431,10 +9493,10 @@
     "publicdate": "2022-07-26 15:49:58",
     "addeddate": "2022-07-26 15:49:58"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 550146779,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1409471319,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665603184,
+  "created": 1665646394,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/verge-2022",
@@ -13548,31 +13548,93 @@
       "sha1": "ed22da3b20659b627236263e92fc8457ee6a109c"
     },
     {
+      "name": "verge-2022-10-13T03:27:49.541835-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665646115",
+      "size": "47689",
+      "md5": "89b7d894fa28570e19c003ad5675865f",
+      "crc32": "13d9118a",
+      "sha1": "d0d9c76758c4e329dbb815ec57cd6480f7521c03",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-10-13T03:27:49.541835-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665646118",
+      "size": "30927",
+      "md5": "e7aa2c3e3c2d2f6bd24a7be51091fde7",
+      "crc32": "d000fce6",
+      "sha1": "1ca47cce2c2447e06d456bfcbedcc55758e504e5",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-10-13T03:27:49.541835-04:00.jpg",
+      "source": "original",
+      "mtime": "1665646114",
+      "size": "251408",
+      "md5": "e5514ec0b2c7a825a084e5b6ad886459",
+      "crc32": "e47d4b13",
+      "sha1": "b2dd469c0290e5376207c0f7ae04036a97fee909",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verge-2022-10-13T03:27:49.541835-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665646120",
+      "size": "1468",
+      "md5": "e9d6c09a02ca0033e6fec18a631285e1",
+      "crc32": "7759e0b3",
+      "sha1": "17500bef2bbac0bdbe9022bb47881b0501074948",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-10-13T03:27:49.541835-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665646121",
+      "size": "29221",
+      "md5": "aee1ddfd82073fe7a302309a1a057c66",
+      "crc32": "c7af7330",
+      "sha1": "d2486a79cefc9f2333ade311cd2bf56ec77b86fa",
+      "format": "JSON"
+    },
+    {
+      "name": "verge-2022-10-13T03:27:49.541835-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verge-2022-10-13T03:27:49.541835-04:00.jpg",
+      "mtime": "1665646300",
+      "size": "10188",
+      "md5": "b2113be0b7df68654c4c2a9bf9443308",
+      "crc32": "5753dda1",
+      "sha1": "34efe002abbc428b5463fbec1ed893a51fa8876d"
+    },
+    {
       "name": "verge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ccc2741c21503b38bd54c93121b5d700c65fa6a",
-      "mtime": "1665600907",
-      "size": "273016",
-      "md5": "647c853f30c373f3d5bc571e1b01cdae",
-      "crc32": "a54f5cc1",
-      "sha1": "96f419abc4e5be158c0f4f7d42031e54aa427104",
+      "btih": "0539d7a99f1522a515deae0548722105d3eb9b6f",
+      "mtime": "1665646343",
+      "size": "274266",
+      "md5": "92e82a219e9502a3e0fdfb5b5f32210c",
+      "crc32": "44a6a4db",
+      "sha1": "759865ee6160e669854329037dd7ae83dcbb1e17",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27ef5519fbe6cf2f67be573b1df99283",
+      "md5": "0b5e4c606300ba6dec8ca486f8d31e2a",
       "summation": "md5"
     },
     {
       "name": "verge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665600753",
-      "size": "1609728",
-      "md5": "0f0e02f61817a52c6f6022b04c359566",
-      "crc32": "301df176",
-      "sha1": "7ed86e2b0642be16ea8cbfd2c0646046e3b3ba17",
+      "mtime": "1665646145",
+      "size": "1617920",
+      "md5": "65fd2edeb17560c1c00585c43ad53971",
+      "crc32": "984c6e01",
+      "sha1": "ab85768a9bf2f43f4ddf5d6114f857000ce84dc5",
       "format": "Metadata"
     },
     {
@@ -13586,9 +13648,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1308,
-  "item_last_updated": 1665600907,
-  "item_size": 119726617,
+  "files_count": 1314,
+  "item_last_updated": 1665646343,
+  "item_size": 120106960,
   "metadata": {
     "identifier": "verge-2022",
     "collection": [
@@ -13605,15 +13667,10 @@
     "publicdate": "2022-06-24 23:03:27",
     "addeddate": "2022-06-24 23:03:27"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 2129958467,
-  "verge-2022": {
-    "url": "https://www.theverge.com/",
-    "job_id": "spn2-9ce55f8ee70c244660de6a32a630c3bb5aec2ccb",
-    "message": "The same snapshot had been made 34 minutes, 17 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
+  "server": "ia601400.us.archive.org",
+  "uniq": 1771922540,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

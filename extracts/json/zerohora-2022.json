@@ -1,5 +1,6 @@
 {
-  "created": 1665601052,
+  "conflict": 1665646548,
+  "created": 1665646548,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/zerohora-2022",
@@ -12198,31 +12199,82 @@
       "sha1": "de1af70f407b14bdf8bfcd413718f1a8fa92ce81"
     },
     {
+      "name": "zerohora-2022-10-13T04:30:12.253444-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665646221",
+      "size": "39850",
+      "md5": "23b3dcc70b7d99b114552716dc8291e0",
+      "crc32": "998e59a9",
+      "sha1": "f2fde070ae017fd9f64b265b7ecfb52c1307cb88",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-13T04:30:12.253444-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665646223",
+      "size": "39403",
+      "md5": "71f4c8ee44a0db7f53d7f0e5e28f5ca9",
+      "crc32": "e126a7f7",
+      "sha1": "da2fab699ba68f9b8775ff6b19793c0723afdaf5",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-13T04:30:12.253444-03:00.jpg",
+      "source": "original",
+      "mtime": "1665646219",
+      "size": "299646",
+      "md5": "e11ee277f4b9e1208239a4bb0c67d49c",
+      "crc32": "ea1d15f3",
+      "sha1": "a529a6950fc65420fd1e686d6afacfdce4834721",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-10-13T04:30:12.253444-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665646224",
+      "size": "1537",
+      "md5": "c96128cf5112251948e50ba7b26637d2",
+      "crc32": "324ebcca",
+      "sha1": "8408140f3bc165e97125e3f67aa99f525e0a49aa",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-13T04:30:12.253444-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665646226",
+      "size": "30198",
+      "md5": "958e6aca9466d5f92cdbf2dcdf5c559c",
+      "crc32": "a4ca471b",
+      "sha1": "b5f530f62aabe3be82aeb058f334c0cfd4d706d5",
+      "format": "JSON"
+    },
+    {
       "name": "zerohora-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f98c0391db391f4cf0d00a0745bd952168fcf0f",
-      "mtime": "1665601017",
-      "size": "249979",
-      "md5": "a6835c96778eb855a75c41744754fcb4",
-      "crc32": "8df0d298",
-      "sha1": "334322e0d847e3f7120d85e9b0b310327318d850",
+      "btih": "3729a0952857fa384666b5b9fb0c1352a7e17f38",
+      "mtime": "1665646313",
+      "size": "251042",
+      "md5": "ed42e1605e16290ec532abcbb4f4723b",
+      "crc32": "5aed12f7",
+      "sha1": "3f3f912d502ab8b67e4f1de78927848853c1c6de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohora-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3baf0fa0e54fc921fcc0887537eb4963",
+      "md5": "5404463d4962672a153662dd4e85c98c",
       "summation": "md5"
     },
     {
       "name": "zerohora-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665600864",
-      "size": "1511424",
-      "md5": "e9bf6c15cbec4eb01a06f524e43eefe3",
-      "crc32": "2ddc2492",
-      "sha1": "693fa7f0967ccc4a9ec91196d7a1648b31414e46",
+      "mtime": "1665646242",
+      "size": "1519616",
+      "md5": "ed502a7632bc496e0d7f2d6b1918d659",
+      "crc32": "0f9b9c2a",
+      "sha1": "6edd3029bdbfcb4ec66e0d278f69b58a3794d161",
       "format": "Metadata"
     },
     {
@@ -12236,9 +12288,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1184,
-  "item_last_updated": 1665601017,
-  "item_size": 84504868,
+  "files_count": 1189,
+  "item_last_updated": 1665646313,
+  "item_size": 84924757,
   "metadata": {
     "identifier": "zerohora-2022",
     "collection": [
@@ -12255,10 +12307,21 @@
     "publicdate": "2022-08-04 04:56:36",
     "addeddate": "2022-08-04 04:56:36"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 608340498,
+  "pending_tasks": true,
+  "server": "ia601400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3438043000,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 231751929,
   "workable_servers": [
-    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

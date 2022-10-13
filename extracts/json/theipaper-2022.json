@@ -1,5 +1,6 @@
 {
-  "created": 1665600726,
+  "conflict": 1665646516,
+  "created": 1665645993,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/7/items/theipaper-2022",
@@ -10761,6 +10762,7 @@
     }
   ],
   "files_count": 1041,
+  "has_redrow": true,
   "item_last_updated": 1665600701,
   "item_size": 85333161,
   "metadata": {
@@ -10779,10 +10781,53 @@
     "publicdate": "2022-08-15 06:48:06",
     "addeddate": "2022-08-15 06:48:06"
   },
+  "pending_tasks": true,
   "server": "ia801506.us.archive.org",
-  "uniq": 2003061644,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3438037423,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    },
+    {
+      "task_id": 3438037478,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3438037535,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3438037601,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3438037646,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 78041035,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia801506.us.archive.org"
   ]
 }
