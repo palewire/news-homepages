@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 157 screenshots with the Internet Archive.
+The archiving routine has saved 158 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 157 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-14T03:06:10.510565+11:00.jpg">
+  <img src="https://archive.org/download/abcnews-2022/abcnews-2022-10-14T03:06:10.510565+11:00.jpg"
+     alt="ABC News at 2022-10-14 03:06:17+11:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-14T03:06:10.510565+11:00.jpg">October 14 at 3:06 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-13T15:34:31.603872+11:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-08T16:34:34.343384+11:00.jpg">October 8 at 4:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-08T03:20:32.167749+11:00.jpg">
-  <img src="https://archive.org/download/abcnews-2022/abcnews-2022-10-08T03:20:32.167749+11:00.jpg"
-     alt="ABC News at 2022-10-08 03:20:47+11:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/abcnews-2022/abcnews-2022-10-08T03:20:32.167749+11:00.jpg">October 8 at 3:20 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 158 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 3:06 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-14T03:06:10.510565+11:00.hyperlinks.json) |
 | [October 13 at 3:34 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-13T15:34:31.603872+11:00.hyperlinks.json) |
 | [October 13 at 2:58 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-13T02:57:50.081790+11:00.hyperlinks.json) |
 | [October 12 at 5:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-12T17:19:51.028068+11:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 5:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T17:20:01.734070+11:00.hyperlinks.json) |
 | [October 10 at 2:57 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T02:57:31.070320+11:00.hyperlinks.json) |
 | [October 9 at 4:10 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T16:10:50.242933+11:00.hyperlinks.json) |
-| [October 9 at 3:09 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T03:09:23.035050+11:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 157 accessibility trees with the Internet Archive.
+The archiving routine has saved 158 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 3:06 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-14T03:06:10.510565+11:00.accessibility.json) |
 | [October 13 at 3:34 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-13T15:34:31.603872+11:00.accessibility.json) |
 | [October 13 at 2:58 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-13T02:57:50.081790+11:00.accessibility.json) |
 | [October 12 at 5:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-12T17:19:51.028068+11:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 5:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T17:20:01.734070+11:00.accessibility.json) |
 | [October 10 at 2:57 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T02:57:31.070320+11:00.accessibility.json) |
 | [October 9 at 4:10 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T16:10:50.242933+11:00.accessibility.json) |
-| [October 9 at 3:09 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T03:09:23.035050+11:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 3:06 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-14T03:06:10.510565+11:00.lighthouse.json) |
 | [October 13 at 3:34 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-13T15:34:31.603872+11:00.lighthouse.json) |
 | [October 13 at 2:58 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-13T02:57:50.081790+11:00.lighthouse.json) |
 | [October 12 at 5:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-12T17:19:51.028068+11:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 5:20 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T17:20:01.734070+11:00.lighthouse.json) |
 | [October 10 at 2:57 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-10T02:57:31.070320+11:00.lighthouse.json) |
 | [October 9 at 4:11 PM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T16:10:50.242933+11:00.lighthouse.json) |
-| [October 9 at 3:09 AM](https://archive.org/download/abcnews-2022/abcnews-2022-10-09T03:09:23.035050+11:00.lighthouse.json) |
 
 
 

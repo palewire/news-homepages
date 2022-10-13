@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 354 screenshots with the Internet Archive.
+The archiving routine has saved 355 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 354 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-10-13T08:11:51.083480-07:00.jpg">
+  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-10-13T08:11:51.083480-07:00.jpg"
+     alt="Thousand Oaks Acorn at 2022-10-13 08:12:01-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-10-13T08:11:51.083480-07:00.jpg">October 13 at 8:12 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T20:43:16.693105-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-10-09T13:06:34.082646-07:00.jpg">October 9 at 1:07 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-10-09T08:01:04.421358-07:00.jpg">
-  <img src="https://archive.org/download/toacornnews-2022/toacornnews-2022-10-09T08:01:04.421358-07:00.jpg"
-     alt="Thousand Oaks Acorn at 2022-10-09 08:01:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/toacornnews-2022/toacornnews-2022-10-09T08:01:04.421358-07:00.jpg">October 9 at 8:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 354 hyperlink lists with the Internet Archive.
+The archiving routine has saved 355 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 8:12 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-13T08:11:51.083480-07:00.hyperlinks.json) |
 | [October 12 at 8:43 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T20:43:16.693105-07:00.hyperlinks.json) |
 | [October 12 at 12:34 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T12:34:23.419306-07:00.hyperlinks.json) |
 | [October 12 at 8:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T08:07:49.099844-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 8:57 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-10T20:57:05.808061-07:00.hyperlinks.json) |
 | [October 10 at 1:31 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-10T13:30:53.369370-07:00.hyperlinks.json) |
 | [October 10 at 8:25 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-10T08:24:33.476592-07:00.hyperlinks.json) |
-| [October 9 at 8:58 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-09T20:57:49.412826-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 354 accessibility trees with the Internet Archive.
+The archiving routine has saved 355 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 8:12 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-13T08:11:51.083480-07:00.accessibility.json) |
 | [October 12 at 8:43 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T20:43:16.693105-07:00.accessibility.json) |
 | [October 12 at 12:34 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T12:34:23.419306-07:00.accessibility.json) |
 | [October 12 at 8:07 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T08:07:49.099844-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 8:57 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-10T20:57:05.808061-07:00.accessibility.json) |
 | [October 10 at 1:31 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-10T13:30:53.369370-07:00.accessibility.json) |
 | [October 10 at 8:25 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-10T08:24:33.476592-07:00.accessibility.json) |
-| [October 9 at 8:58 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-09T20:57:49.412826-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 237 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 238 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 8:12 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-13T08:11:51.083480-07:00.lighthouse.json) |
 | [October 12 at 8:43 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T20:43:16.693105-07:00.lighthouse.json) |
 | [October 12 at 12:34 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T12:34:23.419306-07:00.lighthouse.json) |
 | [October 12 at 8:08 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-12T08:07:49.099844-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 8:57 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-10T20:57:05.808061-07:00.lighthouse.json) |
 | [October 10 at 1:31 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-10T13:30:53.369370-07:00.lighthouse.json) |
 | [October 10 at 8:25 AM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-10T08:24:33.476592-07:00.lighthouse.json) |
-| [October 9 at 8:58 PM](https://archive.org/download/toacornnews-2022/toacornnews-2022-10-09T20:57:49.412826-07:00.lighthouse.json) |
 
 
 

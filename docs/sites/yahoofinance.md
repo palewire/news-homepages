@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 100 screenshots with the Internet Archive.
+The archiving routine has saved 101 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 100 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T12:13:03.117930-04:00.jpg">
+  <img src="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T12:13:03.117930-04:00.jpg"
+     alt="Yahoo Finance at 2022-10-13 12:13:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T12:13:03.117930-04:00.jpg">October 13 at 12:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T00:39:29.930577-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-08T01:41:31.985378-04:00.jpg">October 8 at 1:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-07T12:35:38.885239-04:00.jpg">
-  <img src="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-07T12:35:38.885239-04:00.jpg"
-     alt="Yahoo Finance at 2022-10-07 12:35:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-07T12:35:38.885239-04:00.jpg">October 7 at 12:35 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 100 hyperlink lists with the Internet Archive.
+The archiving routine has saved 101 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 12:13 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T12:13:03.117930-04:00.hyperlinks.json) |
 | [October 13 at 12:39 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T00:39:29.930577-04:00.hyperlinks.json) |
 | [October 12 at 12:03 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-12T12:03:11.203867-04:00.hyperlinks.json) |
 | [October 12 at 2:25 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-12T02:25:45.719277-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 2:26 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-10T02:26:11.438825-04:00.hyperlinks.json) |
 | [October 9 at 12:02 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-09T12:02:32.650497-04:00.hyperlinks.json) |
 | [October 9 at 1:19 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-09T01:19:18.604272-04:00.hyperlinks.json) |
-| [October 8 at 12:17 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-08T12:17:29.339126-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 100 accessibility trees with the Internet Archive.
+The archiving routine has saved 101 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 12:13 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T12:13:03.117930-04:00.accessibility.json) |
 | [October 13 at 12:39 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T00:39:29.930577-04:00.accessibility.json) |
 | [October 12 at 12:03 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-12T12:03:11.203867-04:00.accessibility.json) |
 | [October 12 at 2:25 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-12T02:25:45.719277-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 2:26 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-10T02:26:11.438825-04:00.accessibility.json) |
 | [October 9 at 12:02 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-09T12:02:32.650497-04:00.accessibility.json) |
 | [October 9 at 1:19 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-09T01:19:18.604272-04:00.accessibility.json) |
-| [October 8 at 12:17 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-08T12:17:29.339126-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 100 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 101 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 12:13 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T12:13:03.117930-04:00.lighthouse.json) |
 | [October 13 at 12:39 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-13T00:39:29.930577-04:00.lighthouse.json) |
 | [October 12 at 12:03 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-12T12:03:11.203867-04:00.lighthouse.json) |
 | [October 12 at 2:26 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-12T02:25:45.719277-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 2:26 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-10T02:26:11.438825-04:00.lighthouse.json) |
 | [October 9 at 12:02 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-09T12:02:32.650497-04:00.lighthouse.json) |
 | [October 9 at 1:19 AM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-09T01:19:18.604272-04:00.lighthouse.json) |
-| [October 8 at 12:17 PM](https://archive.org/download/yahoofinance-2022/yahoofinance-2022-10-08T12:17:29.339126-04:00.lighthouse.json) |
 
 
 
