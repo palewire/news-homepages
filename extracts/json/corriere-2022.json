@@ -1,10 +1,5 @@
 {
-  "corriere-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1665706729,
+  "created": 1665748772,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/20/items/corriere-2022",
@@ -8133,31 +8128,93 @@
       "sha1": "c835add0c58821dad1ad1680c4dc95383a9700e4"
     },
     {
+      "name": "corriere-2022-10-14T13:57:47.835465+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665748691",
+      "size": "126014",
+      "md5": "ea2f89a84022f23b80ce3ffb45cb41b4",
+      "crc32": "8b0bd797",
+      "sha1": "1ef657f17200a3b169ce63ada465f45c586b74f8",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-14T13:57:47.835465+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665748693",
+      "size": "211988",
+      "md5": "09adff4f479c87ee2dbb4883313c7ef5",
+      "crc32": "dbc3c37e",
+      "sha1": "365660a1114fa28c63b854809a82d1f5b2428767",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-14T13:57:47.835465+02:00.jpg",
+      "source": "original",
+      "mtime": "1665748689",
+      "size": "175871",
+      "md5": "9efdcd595823f606a5a3f0c13ed9fd26",
+      "crc32": "b4b93d43",
+      "sha1": "fc65a19dfb2a91e140bfd31d58a954eb35543798",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "corriere-2022-10-14T13:57:47.835465+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665748694",
+      "size": "1467",
+      "md5": "374789e9397f4289bab587b380c5a87f",
+      "crc32": "5920edd8",
+      "sha1": "99a39b0b1bb4198dc341f47e58357133329467f7",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-14T13:57:47.835465+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665748697",
+      "size": "57586",
+      "md5": "89aa84751621036aa828bd9e07d65d00",
+      "crc32": "cf4e40f5",
+      "sha1": "a180601c8916197bc9353a0af77d0cdea18ad41b",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-14T13:57:47.835465+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "corriere-2022-10-14T13:57:47.835465+02:00.jpg",
+      "mtime": "1665748753",
+      "size": "9338",
+      "md5": "85699b8d35a20b361e5b633a7aa620fd",
+      "crc32": "8514d726",
+      "sha1": "d0b2d4b2806c6c8ca633d9403fa67bf6f630ad7a"
+    },
+    {
       "name": "corriere-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72968ffbc43d9c18d2a25251d3455daa7e28aeae",
-      "mtime": "1665705486",
-      "size": "167737",
-      "md5": "31c357d811bad67e8b9d2f72eb182d5a",
-      "crc32": "d1c9bc77",
-      "sha1": "c44ba0468e2922a29f14b254c044a94f993c3e1c",
+      "btih": "2fb07773c70781f39666edfdbac47ebc60b35ec8",
+      "mtime": "1665748761",
+      "size": "169006",
+      "md5": "a85614bcf50527d486c1f404e8825c22",
+      "crc32": "6842acfc",
+      "sha1": "366242a723488cd9e130e9648e3c52715f35ee77",
       "format": "Archive BitTorrent"
     },
     {
       "name": "corriere-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf63ec106bae846101a5b60873ecd03f",
+      "md5": "0a381dd4ec3cd5e5d7f4ab6fb6b1d88e",
       "summation": "md5"
     },
     {
       "name": "corriere-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665705427",
-      "size": "1011712",
-      "md5": "773574eb5d045423b22abe2260e66c32",
-      "crc32": "f2085986",
-      "sha1": "6479747d558636020ba853001baf5fee8cd3a94e",
+      "mtime": "1665748701",
+      "size": "1019904",
+      "md5": "f2f9cc6891f8ad772a7d43b75ba1584c",
+      "crc32": "60e031e4",
+      "sha1": "92d2984ce1194a7136c4ea6e1ef9ce26093c1fac",
       "format": "Metadata"
     },
     {
@@ -8171,9 +8228,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 790,
-  "item_last_updated": 1665705486,
-  "item_size": 73862473,
+  "files_count": 796,
+  "item_last_updated": 1665748761,
+  "item_size": 74454198,
   "metadata": {
     "identifier": "corriere-2022",
     "collection": [
@@ -8190,10 +8247,10 @@
     "publicdate": "2022-08-11 00:42:02",
     "addeddate": "2022-08-11 00:42:02"
   },
-  "server": "ia902500.us.archive.org",
-  "uniq": 1953983194,
+  "server": "ia802500.us.archive.org",
+  "uniq": 249658820,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }
