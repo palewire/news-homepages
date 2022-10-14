@@ -1,10 +1,5 @@
 {
-  "created": 1665734342,
-  "ctmirror-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "created": 1665776992,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/3/items/ctmirror-2022",
@@ -11405,31 +11400,93 @@
       "sha1": "def6c3c3b56cf76313545e47f68e53d54969fbd5"
     },
     {
+      "name": "ctmirror-2022-10-14T15:46:42.453747-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665776805",
+      "size": "26990",
+      "md5": "aedfa44327b1f5af7dae888329e01510",
+      "crc32": "fc122f64",
+      "sha1": "fbfcc2f34f668e354553a3cde439ba6c1e413eba",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmirror-2022-10-14T15:46:42.453747-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665776807",
+      "size": "35423",
+      "md5": "43e61ff2a346dd9a0beea0c41e0f5769",
+      "crc32": "02293cd0",
+      "sha1": "261425b7be912df71ab7d3840bcb716378e85793",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmirror-2022-10-14T15:46:42.453747-04:00.jpg",
+      "source": "original",
+      "mtime": "1665776804",
+      "size": "280295",
+      "md5": "9a5a20e1a41d8fcf62278511c43a0239",
+      "crc32": "d9dbc886",
+      "sha1": "801240b4b5f003d65a9dbabca70b4c234523a97d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctmirror-2022-10-14T15:46:42.453747-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665776809",
+      "size": "1437",
+      "md5": "3fd334ebf901974fbb5bc32061112001",
+      "crc32": "eceb2152",
+      "sha1": "a8508ea305e43ec1b61e20827fc07397351bda68",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmirror-2022-10-14T15:46:42.453747-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665776811",
+      "size": "19881",
+      "md5": "941641129304a32d80c3970269cc84bd",
+      "crc32": "e10eadd6",
+      "sha1": "057a2925e49ecf6d27357a3543c3e653fcaa3b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmirror-2022-10-14T15:46:42.453747-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctmirror-2022-10-14T15:46:42.453747-04:00.jpg",
+      "mtime": "1665776940",
+      "size": "10138",
+      "md5": "0025674df0217b1cc7e3f080f3a57605",
+      "crc32": "1dc548ec",
+      "sha1": "6c51dc656894cbc5bb18c93f68986b91ee4e0590"
+    },
+    {
       "name": "ctmirror-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ff316e9706cc97f1ec7150910af38fcfda33664",
-      "mtime": "1665729459",
-      "size": "232947",
-      "md5": "e6c14b3f88624b2a08d92e98f27a608e",
-      "crc32": "ee952457",
-      "sha1": "12cbaa918e928a2416a8e47f410862d62280acc8",
+      "btih": "e28aa43db9a99e5e54fb846d796d2c51a2888d97",
+      "mtime": "1665776971",
+      "size": "234215",
+      "md5": "7ca8fcab66f1ec620216398bc769e5f2",
+      "crc32": "c17e4ff2",
+      "sha1": "e8cf1093a980e282a4f19282f1e9475acfc969e1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmirror-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "536c93e348f6ca57f293c17bc1fd9535",
+      "md5": "ecb603e02228dbbe8031f3e4f2030a1a",
       "summation": "md5"
     },
     {
       "name": "ctmirror-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665729330",
-      "size": "1384448",
-      "md5": "af41992c4b75ae7bbd28b141bab70298",
-      "crc32": "ec1a1497",
-      "sha1": "99f2890f018c937cefe0c365b30a257a50879810",
+      "mtime": "1665776824",
+      "size": "1400832",
+      "md5": "1988c97345e95c4e533ef6295ee9dbbc",
+      "crc32": "946b3a2a",
+      "sha1": "3d338021b5db77634652a10f1027c2a6538d82eb",
       "format": "Metadata"
     },
     {
@@ -11443,9 +11500,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1104,
-  "item_last_updated": 1665729459,
-  "item_size": 76185169,
+  "files_count": 1110,
+  "item_last_updated": 1665776971,
+  "item_size": 76576985,
   "metadata": {
     "identifier": "ctmirror-2022",
     "collection": [
@@ -11462,10 +11519,10 @@
     "publicdate": "2022-07-09 03:58:07",
     "addeddate": "2022-07-09 03:58:07"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1366860978,
+  "server": "ia601403.us.archive.org",
+  "uniq": 333322089,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

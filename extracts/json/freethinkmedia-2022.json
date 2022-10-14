@@ -1,5 +1,5 @@
 {
-  "created": 1665734488,
+  "created": 1665777139,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/freethinkmedia-2022",
@@ -10134,31 +10134,83 @@
       "sha1": "b55907350dc0a1bdc414ce01b756a81e48788828"
     },
     {
+      "name": "freethinkmedia-2022-10-14T12:50:21.031662-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665777039",
+      "size": "36353",
+      "md5": "028468a5ca0b5aa081791e4ee8a810c7",
+      "crc32": "e1c9a319",
+      "sha1": "36cbba709d389803d4cc6d5792d52ad7a53a3ac2",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-14T12:50:21.031662-07:00.jpg",
+      "source": "original",
+      "mtime": "1665777037",
+      "size": "249425",
+      "md5": "7ecddf8ed9ee7ca6030b505947cf4750",
+      "crc32": "1d3271ec",
+      "sha1": "7f687c92eb2f89c3e354c98f7f81d52d99313ca7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-10-14T12:50:21.031662-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665777041",
+      "size": "1483",
+      "md5": "4217efa72cd9ea7cdbfee6d7d2700d25",
+      "crc32": "2295d4d5",
+      "sha1": "3a6714ef42ebc786986566051d703abc243dfdca",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-14T12:50:21.031662-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665777043",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-14T12:50:21.031662-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-10-14T12:50:21.031662-07:00.jpg",
+      "mtime": "1665777113",
+      "size": "9746",
+      "md5": "d9605a1685f6a3b7423a74cb10379289",
+      "crc32": "32151169",
+      "sha1": "58dbd99a4618d83e087fb919858863668be57764"
+    },
+    {
       "name": "freethinkmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "595ccdfe3dd05eab8e4208e18dd1ec7fefc6579d",
-      "mtime": "1665729732",
-      "size": "212668",
-      "md5": "7c77c526429c43edef0312017e7fe6b6",
-      "crc32": "cd0a84b0",
-      "sha1": "cc8b2b35956ce5846977a780590ff93441129c06",
+      "btih": "2b21e5dffe83a02efb7ae8d1aa1f8f296daeb4f2",
+      "mtime": "1665777122",
+      "size": "213752",
+      "md5": "2e4ff9459d92600965539d8066fab47b",
+      "crc32": "a8e0aa4a",
+      "sha1": "0a8583304eabaf11492cfb054445c9a741e60b9a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freethinkmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5e2dce9a36cc1da9ee493ca96f0b24e",
+      "md5": "591eee9502bf4780c819d83900480b8c",
       "summation": "md5"
     },
     {
       "name": "freethinkmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665729653",
-      "size": "1257472",
-      "md5": "0d789ee9e7c59b69bf7b86f9acd27bf6",
-      "crc32": "1121a3e1",
-      "sha1": "12913b2ad347be8fbcdd9b9f5a982b3097909f00",
+      "mtime": "1665777047",
+      "size": "1265664",
+      "md5": "fbee9ac62fbf6aef42c59e2ec6fab11f",
+      "crc32": "567c139a",
+      "sha1": "ae02b9b2c8d65aeb2d223012994ebb5d45e8bb2e",
       "format": "Metadata"
     },
     {
@@ -10172,14 +10224,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 983,
-  "freethinkmedia-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1665729732,
-  "item_size": 50998128,
+  "files_count": 988,
+  "item_last_updated": 1665777122,
+  "item_size": 51304613,
   "metadata": {
     "identifier": "freethinkmedia-2022",
     "collection": [
@@ -10196,10 +10243,10 @@
     "publicdate": "2022-07-21 02:24:31",
     "addeddate": "2022-07-21 02:24:31"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1195493672,
+  "server": "ia801401.us.archive.org",
+  "uniq": 2027031772,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

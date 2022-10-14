@@ -1,5 +1,5 @@
 {
-  "created": 1665729399,
+  "created": 1665776962,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/17/items/coloradoan-2022",
@@ -2992,31 +2992,93 @@
       "sha1": "f7adc71f253de8ac20efa7669af62f614969d458"
     },
     {
+      "name": "coloradoan-2022-10-14T13:47:22.159519-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665776846",
+      "size": "21820",
+      "md5": "32e49071977d9c3ec990de0c3743ac54",
+      "crc32": "119c6b3e",
+      "sha1": "3f5b9a394516fad754fb7c84675d2a00f65231d2",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-14T13:47:22.159519-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665776847",
+      "size": "30113",
+      "md5": "c1ba7ec52882e97cfd07e02868d4307d",
+      "crc32": "4906f333",
+      "sha1": "9618aa69198148e0d0574bd2ccb8bb0cc90cc8c3",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-14T13:47:22.159519-06:00.jpg",
+      "source": "original",
+      "mtime": "1665776844",
+      "size": "275582",
+      "md5": "c6ede9eb3d08dd9ef308e3609be981d1",
+      "crc32": "7ad51f12",
+      "sha1": "aeeb03aaa17e07397048a9c8ff889177e9c95290",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-14T13:47:22.159519-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665776849",
+      "size": "1495",
+      "md5": "72fd4a147cbddc6a683d8f2874f4b71e",
+      "crc32": "45c738d7",
+      "sha1": "27b27389076b6efc88d9122da628c630f984f47b",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-14T13:47:22.159519-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665776850",
+      "size": "62522",
+      "md5": "50a7a4b5759852ea24616d5dca959a42",
+      "crc32": "a6a194f8",
+      "sha1": "8f814b4ecb5a26d6c14a7fb4bd8b139fe118542f",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-14T13:47:22.159519-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-14T13:47:22.159519-06:00.jpg",
+      "mtime": "1665776934",
+      "size": "9523",
+      "md5": "34ee34bc1c8ee8d735fa57594dece4f7",
+      "crc32": "bdfc73f0",
+      "sha1": "5cdefbaad006d4b6421453dc1de34b2f1333889f"
+    },
+    {
       "name": "coloradoan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f40a05c9b4ba4810d39e89114397d92ecbbc008d",
-      "mtime": "1665729387",
-      "size": "62858",
-      "md5": "396434e693accd2c880bcb78512fe7bb",
-      "crc32": "4634a90d",
-      "sha1": "e55188d76e4a254a3844cb4b3e3ccb881e297116",
+      "btih": "1d3fd4ef8c6ad03472f388d96567f376315b6958",
+      "mtime": "1665776943",
+      "size": "64117",
+      "md5": "2fb345316fa1a79ec8630af7976249df",
+      "crc32": "6b396705",
+      "sha1": "abdc793d4bce7f9ce456e738c1e3a13cd6a5837b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coloradoan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e98753b681a5f489407133bab89b30f2",
+      "md5": "f92ab7d1c781aaa3d50c0cf997491688",
       "summation": "md5"
     },
     {
       "name": "coloradoan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665729317",
-      "size": "385024",
-      "md5": "a82a8bc5e1379e7f2239a4455afd0d82",
-      "crc32": "e2996066",
-      "sha1": "029cf51335481865fd6bf9d25e6874fc23e2a84d",
+      "mtime": "1665776860",
+      "size": "393216",
+      "md5": "a2e905cd1e9339e24bb74143bfc744e0",
+      "crc32": "5a0458f2",
+      "sha1": "6098615869c8a70440a0a80327fcd7f2b615589e",
       "format": "Metadata"
     },
     {
@@ -3030,9 +3092,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 293,
-  "item_last_updated": 1665729387,
-  "item_size": 20591848,
+  "files_count": 299,
+  "item_last_updated": 1665776943,
+  "item_size": 21002354,
   "metadata": {
     "identifier": "coloradoan-2022",
     "collection": [
@@ -3050,7 +3112,7 @@
     "addeddate": "2022-09-20 17:40:50"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 798429233,
+  "uniq": 994994004,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

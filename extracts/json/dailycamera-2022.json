@@ -1,12 +1,7 @@
 {
-  "created": 1665734359,
+  "created": 1665776873,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
-  "dailycamera-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/19/items/dailycamera-2022",
   "files": [
     {
@@ -7647,31 +7642,93 @@
       "sha1": "5dcc89b9043e4773da1e4a82af548f2072da5c77"
     },
     {
+      "name": "dailycamera-2022-10-14T13:45:54.180096-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665776763",
+      "size": "37488",
+      "md5": "3e26d58ba85f3e02db1986ae6a498f34",
+      "crc32": "5880a4b4",
+      "sha1": "f487145875042750dbf1136409495b42cd492ca4",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycamera-2022-10-14T13:45:54.180096-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665776766",
+      "size": "48691",
+      "md5": "0b802c0499e2bb6fae87c10614858cde",
+      "crc32": "25c5c32e",
+      "sha1": "82b8e1fd92252c5e99c9d3c7420f7436324c1254",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycamera-2022-10-14T13:45:54.180096-06:00.jpg",
+      "source": "original",
+      "mtime": "1665776760",
+      "size": "264305",
+      "md5": "efaaa0559e5868af171ea6a0ff04a9d9",
+      "crc32": "9b2f8568",
+      "sha1": "ef3ed83764cd458bb1dfbcc48b993fa62968cfc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycamera-2022-10-14T13:45:54.180096-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665776768",
+      "size": "1504",
+      "md5": "e1a5837ae199a7d9be60710a2a3bf787",
+      "crc32": "98c29212",
+      "sha1": "2594d0d6d5067be4a186345a70c23eb90fd10159",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycamera-2022-10-14T13:45:54.180096-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665776770",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycamera-2022-10-14T13:45:54.180096-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycamera-2022-10-14T13:45:54.180096-06:00.jpg",
+      "mtime": "1665776834",
+      "size": "9309",
+      "md5": "dfd36c9e5869603bbb29fec5b5a8e15f",
+      "crc32": "13f1f1dd",
+      "sha1": "b8127f52f80de3322466c3d324bb4cbfccac2b2a"
+    },
+    {
       "name": "dailycamera-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bda8712373bedfa90730ff53587f9a3a445db8c8",
-      "mtime": "1665729398",
-      "size": "159079",
-      "md5": "06c7fde16cb2a53bb66479cbee769b6e",
-      "crc32": "cbeefb61",
-      "sha1": "a213638f6a3db3709afaf7d09fd1c2c08817194e",
+      "btih": "a17a2f03a73a7a9ac6ae6f30d042b0ea2de23234",
+      "mtime": "1665776863",
+      "size": "160342",
+      "md5": "3d7faf0d2f38003826e002e4e69f2d31",
+      "crc32": "899ff967",
+      "sha1": "6e6e553d9d9766d7c614a59f10e2239b33e11162",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycamera-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7ffa76e34621f4dcab55686dd807f6b1",
+      "md5": "61dddb5fce0344f21b6ecf1a143e56f9",
       "summation": "md5"
     },
     {
       "name": "dailycamera-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665729345",
-      "size": "958464",
-      "md5": "5da86dbd6a1518556775551aca1f02b5",
-      "crc32": "a863bbd1",
-      "sha1": "2e2b97516f0507e2269c47720ac8c3f9d5ee0a57",
+      "mtime": "1665776773",
+      "size": "966656",
+      "md5": "6caf04e0de0baab5f3ed791cc27a058c",
+      "crc32": "e9b68f27",
+      "sha1": "c0c0ab382047eab7f3330c1ff013b6d9cc282cb6",
       "format": "Metadata"
     },
     {
@@ -7685,9 +7742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 743,
-  "item_last_updated": 1665729398,
-  "item_size": 50017767,
+  "files_count": 749,
+  "item_last_updated": 1665776863,
+  "item_size": 50388721,
   "metadata": {
     "identifier": "dailycamera-2022",
     "collection": [
@@ -7704,10 +7761,10 @@
     "publicdate": "2022-08-14 06:41:13",
     "addeddate": "2022-08-14 06:41:13"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 908371463,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1465444152,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

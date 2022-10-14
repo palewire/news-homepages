@@ -1,5 +1,5 @@
 {
-  "created": 1665729460,
+  "created": 1665776848,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/ctvnews-2022",
@@ -11150,31 +11150,83 @@
       "sha1": "7f3ab07ed1bc44c3a662fc7eae2e4889c0ec1530"
     },
     {
+      "name": "ctvnews-2022-10-14T15:45:52.684904-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665776765",
+      "size": "77435",
+      "md5": "a2a62a61dd24dcb4c3139cc75f5c4c87",
+      "crc32": "b122608e",
+      "sha1": "25bb40ec62a8ae57e4d47715ddf762808217953e",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-10-14T15:45:52.684904-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665776767",
+      "size": "90236",
+      "md5": "50ad4ff751e2fd595016d5c8f9129af4",
+      "crc32": "8d94327b",
+      "sha1": "8a5cb99954ea0ddf4400563d772bc92e334921f9",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-10-14T15:45:52.684904-04:00.jpg",
+      "source": "original",
+      "mtime": "1665776762",
+      "size": "302234",
+      "md5": "85a552da6ea2c37074f9802f82759ee3",
+      "crc32": "1c4448ae",
+      "sha1": "116dd7b5ed02c8bf8e7a2d8a632a29911bd32842",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctvnews-2022-10-14T15:45:52.684904-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665776769",
+      "size": "48830",
+      "md5": "0c28a9b3172bfb97a1ff7360d02389da",
+      "crc32": "2e1e4892",
+      "sha1": "cafe6b482b4c1270345d391b2b75ce255d627c92",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-10-14T15:45:52.684904-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctvnews-2022-10-14T15:45:52.684904-04:00.jpg",
+      "mtime": "1665776829",
+      "size": "10190",
+      "md5": "c3bb01e6d2b6d1c563eec61b655e8fca",
+      "crc32": "93ea7b31",
+      "sha1": "811e5185818f5a746952bb5e6d435771e2efa08f"
+    },
+    {
       "name": "ctvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bdf219b38e3122c731a40c19e680bd1ea3dd7431",
-      "mtime": "1665729452",
-      "size": "226403",
-      "md5": "70be28b5f5f48e2b5b5a271d925395f5",
-      "crc32": "91f84301",
-      "sha1": "2ace942e3a692072874ae76e3b4d6867c3f84be8",
+      "btih": "8c737c3141e33b6cb9267909ef573a3d03ca1166",
+      "mtime": "1665776842",
+      "size": "227456",
+      "md5": "5841772ef669ab056d2e5b63b12355df",
+      "crc32": "c8e1fc20",
+      "sha1": "cebdce6612b62460e565e966df4ec73dfbf717bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f39447c63f237a030e0ce287cab522bc",
+      "md5": "9662c42ff6186093345e4e06c0528f51",
       "summation": "md5"
     },
     {
       "name": "ctvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665729382",
-      "size": "1286144",
-      "md5": "8e34c22ad195746913e57c11f2020faf",
-      "crc32": "842e3a8b",
-      "sha1": "e0b1eec2b48b0c220059a3874033f1eed5110e38",
+      "mtime": "1665776774",
+      "size": "1290240",
+      "md5": "fbed5b4cc713c26c8ab9be5a8b4af63e",
+      "crc32": "5c30811b",
+      "sha1": "69e20d0b94699824a19eb0ad960f18997624d197",
       "format": "Metadata"
     },
     {
@@ -11188,9 +11240,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1072,
-  "item_last_updated": 1665729452,
-  "item_size": 121293177,
+  "files_count": 1077,
+  "item_last_updated": 1665776842,
+  "item_size": 121827251,
   "metadata": {
     "identifier": "ctvnews-2022",
     "collection": [
@@ -11208,7 +11260,7 @@
     "addeddate": "2022-06-30 22:35:40"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 2144182436,
+  "uniq": 43849465,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

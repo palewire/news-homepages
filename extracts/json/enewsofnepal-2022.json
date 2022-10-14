@@ -1,5 +1,5 @@
 {
-  "created": 1665729590,
+  "created": 1665777130,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/24/items/enewsofnepal-2022",
@@ -9780,31 +9780,93 @@
       "sha1": "035b7bd02f929181dd735d955533ff7fa79c0e2a"
     },
     {
+      "name": "enewsofnepal-2022-10-15T01:34:38.136542+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1665776988",
+      "size": "68422",
+      "md5": "38059b10cba6905a0dfb178cd63f665e",
+      "crc32": "48c808af",
+      "sha1": "8306343e8a191f2609ec521e92ac346b4d0df7dc",
+      "format": "JSON"
+    },
+    {
+      "name": "enewsofnepal-2022-10-15T01:34:38.136542+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665776989",
+      "size": "48732",
+      "md5": "c123530370169a9012a5a2a047d84721",
+      "crc32": "09bc323f",
+      "sha1": "99138f26ace808ed61391d00f8caa4026188a0a7",
+      "format": "JSON"
+    },
+    {
+      "name": "enewsofnepal-2022-10-15T01:34:38.136542+05:45.jpg",
+      "source": "original",
+      "mtime": "1665776986",
+      "size": "247050",
+      "md5": "6fb33e87640965b08840f33aba0b6627",
+      "crc32": "a07664e0",
+      "sha1": "9e802129bc5ce07f732caba1a6fc57a5366ccc62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enewsofnepal-2022-10-15T01:34:38.136542+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1665776991",
+      "size": "1504",
+      "md5": "5cd9d39dbbc30550a1ca6e0a3e8acc63",
+      "crc32": "47429d33",
+      "sha1": "836f59355c098fd68d216ac5a7cd1e645702fe0d",
+      "format": "JSON"
+    },
+    {
+      "name": "enewsofnepal-2022-10-15T01:34:38.136542+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1665776992",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "enewsofnepal-2022-10-15T01:34:38.136542+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enewsofnepal-2022-10-15T01:34:38.136542+05:45.jpg",
+      "mtime": "1665777078",
+      "size": "10322",
+      "md5": "5be47aabaa722222cf2bd073f46319aa",
+      "crc32": "187ccef7",
+      "sha1": "a4eff6bea2b548c17acec3c5235d1276a1f6552c"
+    },
+    {
       "name": "enewsofnepal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6bf733830e90febcfe23aef86de2f13de8ed236a",
-      "mtime": "1665729575",
-      "size": "203945",
-      "md5": "b8e195e8c32c35cebb617c12da3c4b3b",
-      "crc32": "020f37df",
-      "sha1": "0b49722f3c232a6e72e0ce5c8310a2412866d251",
+      "btih": "207d7d1949fb0ae225802bf237cbe6ab9774e854",
+      "mtime": "1665777089",
+      "size": "205215",
+      "md5": "4e174c9b3e31fd3e0324422b1484801d",
+      "crc32": "a816de02",
+      "sha1": "9b75f0393845341200817a5f53e209e86389b4da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enewsofnepal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c3088960fe92d8ee9939aebf2fedb18",
+      "md5": "e63a29944fd812c258fa4a586626eb25",
       "summation": "md5"
     },
     {
       "name": "enewsofnepal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665729496",
-      "size": "1216512",
-      "md5": "1a23f7819182ba15ac11e2213f924cca",
-      "crc32": "9284709d",
-      "sha1": "bebd332dba837c08a25095dccc6c9f2504468e41",
+      "mtime": "1665776999",
+      "size": "1224704",
+      "md5": "39474a42b08f34016e929d3c8051c346",
+      "crc32": "5cfb7c59",
+      "sha1": "88a08861c1af25ebd957ab6fb122f8d2313b8a79",
       "format": "Metadata"
     },
     {
@@ -9818,9 +9880,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 949,
-  "item_last_updated": 1665729575,
-  "item_size": 61125465,
+  "files_count": 955,
+  "item_last_updated": 1665777089,
+  "item_size": 61511159,
   "metadata": {
     "identifier": "enewsofnepal-2022",
     "collection": [
@@ -9837,10 +9899,10 @@
     "publicdate": "2022-07-24 20:37:25",
     "addeddate": "2022-07-24 20:37:25"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 418546469,
+  "server": "ia801502.us.archive.org",
+  "uniq": 467538032,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }
