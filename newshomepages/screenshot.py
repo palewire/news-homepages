@@ -220,7 +220,7 @@ def _screenshot(
             path=jpeg_file_path,
             full_page=screenshot_full_page,
         )
-        
+
         # now that the page is loaded, we can dump to HTML and then save.
         if save_html:
             post_load_script = utils.EXTENSIONS_PATH / "singlefile" / "javascript" / "single-file.js"
