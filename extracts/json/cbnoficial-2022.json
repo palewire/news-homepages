@@ -1,13 +1,5 @@
 {
-  "cbnoficial-2022": {
-    "url": "https://cbn.globoradio.globo.com/",
-    "job_id": "spn2-ba4014b99ba9108ab5aace57d0ebdabc08a8ca6c",
-    "message": "Job failed.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "error:job-failed"
-  },
-  "created": 1665705194,
+  "created": 1665745332,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/5/items/cbnoficial-2022",
@@ -11736,31 +11728,93 @@
       "sha1": "2836d5e1f3e2b62d7c5d7e0f5802f390f3733139"
     },
     {
+      "name": "cbnoficial-2022-10-14T07:59:51.092468-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665745198",
+      "size": "687",
+      "md5": "393032455fccd54e1848c27418703cd7",
+      "crc32": "32f9847c",
+      "sha1": "663673949f721d01ed87750b9e09dadf30cb99cb",
+      "format": "JSON"
+    },
+    {
+      "name": "cbnoficial-2022-10-14T07:59:51.092468-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665745199",
+      "size": "652",
+      "md5": "5739bc575a31d6f12a82f9fb13b451ff",
+      "crc32": "610a11e3",
+      "sha1": "ce0675a559c311b6717855f2e9023a020867023a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbnoficial-2022-10-14T07:59:51.092468-03:00.jpg",
+      "source": "original",
+      "mtime": "1665745196",
+      "size": "223342",
+      "md5": "475985924ca3c55607ee58819ca6561b",
+      "crc32": "24d46745",
+      "sha1": "1fe83e543ae098765122d763e018571be007a85b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbnoficial-2022-10-14T07:59:51.092468-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665745201",
+      "size": "1786",
+      "md5": "dfb973d9c42780e6cda540aed57ab6a3",
+      "crc32": "716aeeb2",
+      "sha1": "f8b41d7607bb470120eac0cd1c019b1124dfd51c",
+      "format": "JSON"
+    },
+    {
+      "name": "cbnoficial-2022-10-14T07:59:51.092468-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665745205",
+      "size": "72336",
+      "md5": "448c0aff057e11cd3d65ef2664987b06",
+      "crc32": "9a147e1e",
+      "sha1": "59a483f51fcfe7e39d2f7153c99c818592907c6a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbnoficial-2022-10-14T07:59:51.092468-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbnoficial-2022-10-14T07:59:51.092468-03:00.jpg",
+      "mtime": "1665745289",
+      "size": "9509",
+      "md5": "b3ba3da43ed53fb51fa5a5756888bf40",
+      "crc32": "324b85cf",
+      "sha1": "90c0cfa11eadab9bab748ea9090cf2c378217267"
+    },
+    {
       "name": "cbnoficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "020f06f102b8e890d44960f9ed462e0e988ba95c",
-      "mtime": "1665702584",
-      "size": "240448",
-      "md5": "958022d9782662c78c2bcbdd17ca40fa",
-      "crc32": "67e07d87",
-      "sha1": "f703077cae011043d2a86bc9c2c7b97a643a810b",
+      "btih": "9db7362373ea651de9e653b84de6c936c84c2d07",
+      "mtime": "1665745319",
+      "size": "241703",
+      "md5": "d04a9d97c2e88a33b3e0eb8512ce41cb",
+      "crc32": "53acc341",
+      "sha1": "02dcdbf7a0a77d0ef34eca74051b34822e9718ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbnoficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2d7a50a244a8d2968d4987a9b3e2dbec",
+      "md5": "f329338289930da0da2903433e399f90",
       "summation": "md5"
     },
     {
       "name": "cbnoficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665702514",
-      "size": "1445888",
-      "md5": "303e0171e82042360ac975bb0d1db7d6",
-      "crc32": "97a34d55",
-      "sha1": "bc9f2d00020909c6131a4611fca4291b03ce642e",
+      "mtime": "1665745211",
+      "size": "1454080",
+      "md5": "9b0afab6d91b78a3eec2294faecae101",
+      "crc32": "01931796",
+      "sha1": "89e6c73221bfaeac4f21fde6443f7fd1b089d01f",
       "format": "Metadata"
     },
     {
@@ -11774,9 +11828,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1137,
-  "item_last_updated": 1665702584,
-  "item_size": 60194627,
+  "files_count": 1143,
+  "item_last_updated": 1665745319,
+  "item_size": 60512386,
   "metadata": {
     "identifier": "cbnoficial-2022",
     "collection": [
@@ -11793,10 +11847,10 @@
     "publicdate": "2022-08-07 19:42:21",
     "addeddate": "2022-08-07 19:42:21"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 374172632,
+  "server": "ia801401.us.archive.org",
+  "uniq": 253133195,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
