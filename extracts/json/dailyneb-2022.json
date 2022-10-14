@@ -1,7 +1,12 @@
 {
-  "created": 1665705598,
+  "created": 1665752795,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
+  "dailyneb-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/10/items/dailyneb-2022",
   "files": [
     {
@@ -9444,31 +9449,93 @@
       "sha1": "ead9c110bdf7ddf1d6b330d6cfb0f5852489a345"
     },
     {
+      "name": "dailyneb-2022-10-14T06:59:55.119324-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665748807",
+      "size": "17531",
+      "md5": "688cf6403d7bb33c4e7b852388086784",
+      "crc32": "1258d090",
+      "sha1": "5b16d732dc6fb11c60eb057a8b07a00ac896791b",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-10-14T06:59:55.119324-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665748810",
+      "size": "32577",
+      "md5": "6c67e7b9b9a4025c8896826895a76208",
+      "crc32": "d49de8c5",
+      "sha1": "5bcc4fcd5425a6ca0b6195c234da26f7ed1ed677",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-10-14T06:59:55.119324-05:00.jpg",
+      "source": "original",
+      "mtime": "1665748805",
+      "size": "253879",
+      "md5": "444a5ab3887f481a23b5a573d6fe8a17",
+      "crc32": "449930dd",
+      "sha1": "ad36079adf21d32e00b874a56854c35d76c8bea5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyneb-2022-10-14T06:59:55.119324-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665748812",
+      "size": "1531",
+      "md5": "6f92ada761312c6872cc9f5fdb325837",
+      "crc32": "72e820e4",
+      "sha1": "31a327265dbf7987f89491efe924449f5fe1d932",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-10-14T06:59:55.119324-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665748814",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyneb-2022-10-14T06:59:55.119324-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyneb-2022-10-14T06:59:55.119324-05:00.jpg",
+      "mtime": "1665748881",
+      "size": "10670",
+      "md5": "a53bfe50c2ec68f9a014e94afce3043a",
+      "crc32": "77300860",
+      "sha1": "380e984a3047cf4cf416c0fc37359c289d28f263"
+    },
+    {
       "name": "dailyneb-2022_archive.torrent",
       "source": "metadata",
-      "btih": "852c55938e967d29a95daa5619a72276eb584535",
-      "mtime": "1665705582",
-      "size": "193398",
-      "md5": "f973421a1989996ce1b02d5ed7c0cd65",
-      "crc32": "60ac9c2d",
-      "sha1": "e6e60fbd5ced844c2021caa60d8bbd234ee1a4ed",
+      "btih": "f8a6a43c0cca2069fd6bb77c39b68fe639a9b0b1",
+      "mtime": "1665748890",
+      "size": "194644",
+      "md5": "002fd08519117994cd70f9c76b4f7ddb",
+      "crc32": "081acdc7",
+      "sha1": "956319d1aeaa95d3238855e6e3213067476ff8a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyneb-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31dba74e6c51e70851f7e4e13996617f",
+      "md5": "0092d7bb5225309b35a4da751406abb1",
       "summation": "md5"
     },
     {
       "name": "dailyneb-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665705505",
-      "size": "1171456",
-      "md5": "f0ef6d7895c57efee2d2e4fc64c89cd2",
-      "crc32": "b13afc2d",
-      "sha1": "df81d5dd089edbb2acacc3213c644a98fa72a80f",
+      "mtime": "1665748817",
+      "size": "1179648",
+      "md5": "b557cf0d2a36e6c4ebe02fe884b35197",
+      "crc32": "867bbeee",
+      "sha1": "1e0b3be4be0815e1d592d2c9945e61e47bc5827e",
       "format": "Metadata"
     },
     {
@@ -9482,9 +9549,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 917,
-  "item_last_updated": 1665705582,
-  "item_size": 56301531,
+  "files_count": 923,
+  "item_last_updated": 1665748890,
+  "item_size": 56627359,
   "metadata": {
     "identifier": "dailyneb-2022",
     "collection": [
@@ -9502,7 +9569,7 @@
     "addeddate": "2022-07-30 16:33:37"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1926098754,
+  "uniq": 1816092489,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

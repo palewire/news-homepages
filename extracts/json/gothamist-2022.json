@@ -1,5 +1,5 @@
 {
-  "created": 1665705868,
+  "created": 1665753033,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/20/items/gothamist-2022",
@@ -11852,31 +11852,93 @@
       "sha1": "f8f424d064841ec913e784abd3b61dc8b7540224"
     },
     {
+      "name": "gothamist-2022-10-14T08:05:52.083240-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665749162",
+      "size": "16195",
+      "md5": "366e9b9118a7c45e8ec8a7cf31a29ccd",
+      "crc32": "f45f47ef",
+      "sha1": "00d67bb18d73c0c901bdff93ae4dfa588b45d50d",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-14T08:05:52.083240-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665749164",
+      "size": "13720",
+      "md5": "904587d5abf8db1ea3a4a092f440b5e8",
+      "crc32": "9cda6bd8",
+      "sha1": "796d3f8fe884c54d41e94cb64bb2ef94475767b1",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-14T08:05:52.083240-04:00.jpg",
+      "source": "original",
+      "mtime": "1665749160",
+      "size": "224805",
+      "md5": "76a3b82475ac33e88ac8ce1ade302f33",
+      "crc32": "a9162a7c",
+      "sha1": "764c71ffbc346a49cf4e9369d90cc534d25153db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gothamist-2022-10-14T08:05:52.083240-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665749166",
+      "size": "1431",
+      "md5": "dafe68f53a539b0e2482a64385e8a3d1",
+      "crc32": "56730a38",
+      "sha1": "1d7a134f9aa58c9a9aeeb90a9425a8a01aab724f",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-14T08:05:52.083240-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665749168",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gothamist-2022-10-14T08:05:52.083240-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamist-2022-10-14T08:05:52.083240-04:00.jpg",
+      "mtime": "1665749234",
+      "size": "10009",
+      "md5": "04e43533bef842eb80776d9c6d9b1b90",
+      "crc32": "0fc2b0bf",
+      "sha1": "c9e2e57ac619cb85f10a4eadb22ff41d19e011b2"
+    },
+    {
       "name": "gothamist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b9503a5a9dad28250fd0d2cb5eb221cf098535d",
-      "mtime": "1665705855",
-      "size": "242352",
-      "md5": "886ca6edbbf89691f09ef23af49b310f",
-      "crc32": "bcc0cb99",
-      "sha1": "345d59142e0a73fe589b119b4d740ef84317167c",
+      "btih": "5ab9f9d4a6d3c11b8d252fcc0e56f077cf51088e",
+      "mtime": "1665749246",
+      "size": "243604",
+      "md5": "be12f97060d0d68d32fa8a10f7d020e0",
+      "crc32": "7245c807",
+      "sha1": "bda7e90f7e75759652deb8ee504ab2223508921d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e6463ab7149f35521633cfe3f03855a0",
+      "md5": "d83884843e77156116ae2b36307a22b1",
       "summation": "md5"
     },
     {
       "name": "gothamist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665705767",
-      "size": "1437696",
-      "md5": "2c6400273ca264914fa65fc8812e6da1",
-      "crc32": "80e54714",
-      "sha1": "ceba238d38999af1640bf9cb8189e70dc06cf0f3",
+      "mtime": "1665749172",
+      "size": "1449984",
+      "md5": "0c8d9e9460f5b279a328d1f1b4980e18",
+      "crc32": "a7be07c2",
+      "sha1": "2cf51ab1c529123efe2c62af480884c05eb32055",
       "format": "Metadata"
     },
     {
@@ -11890,9 +11952,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1147,
-  "item_last_updated": 1665705855,
-  "item_size": 62873428,
+  "files_count": 1153,
+  "gothamist-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1665749246,
+  "item_size": 63153330,
   "metadata": {
     "identifier": "gothamist-2022",
     "collection": [
@@ -11910,7 +11977,7 @@
     "addeddate": "2022-07-04 21:54:16"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 1690230220,
+  "uniq": 1498901500,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"
