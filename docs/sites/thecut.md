@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 119 screenshots with the Internet Archive.
+The archiving routine has saved 120 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 119 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thecut-2022/thecut-2022-10-13T23:52:47.437844-04:00.jpg">
+  <img src="https://archive.org/download/thecut-2022/thecut-2022-10-13T23:52:47.437844-04:00.jpg"
+     alt="The Cut at 2022-10-13 23:52:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thecut-2022/thecut-2022-10-13T23:52:47.437844-04:00.jpg">October 13 at 11:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thecut-2022/thecut-2022-10-13T11:09:31.307799-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thecut-2022/thecut-2022-10-08T11:08:35.830339-04:00.jpg">October 8 at 11:08 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thecut-2022/thecut-2022-10-07T23:42:28.087342-04:00.jpg">
-  <img src="https://archive.org/download/thecut-2022/thecut-2022-10-07T23:42:28.087342-04:00.jpg"
-     alt="The Cut at 2022-10-07 23:42:34-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thecut-2022/thecut-2022-10-07T23:42:28.087342-04:00.jpg">October 7 at 11:42 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 119 hyperlink lists with the Internet Archive.
+The archiving routine has saved 120 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 11:52 PM](https://archive.org/download/thecut-2022/thecut-2022-10-13T23:52:47.437844-04:00.hyperlinks.json) |
 | [October 13 at 11:09 AM](https://archive.org/download/thecut-2022/thecut-2022-10-13T11:09:31.307799-04:00.hyperlinks.json) |
 | [October 12 at 11:40 PM](https://archive.org/download/thecut-2022/thecut-2022-10-12T23:40:20.646990-04:00.hyperlinks.json) |
 | [October 12 at 11:06 AM](https://archive.org/download/thecut-2022/thecut-2022-10-12T11:06:04.473349-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 11:22 AM](https://archive.org/download/thecut-2022/thecut-2022-10-10T11:22:15.608937-04:00.hyperlinks.json) |
 | [October 9 at 11:55 PM](https://archive.org/download/thecut-2022/thecut-2022-10-09T23:54:56.089545-04:00.hyperlinks.json) |
 | [October 9 at 10:59 AM](https://archive.org/download/thecut-2022/thecut-2022-10-09T10:58:54.077425-04:00.hyperlinks.json) |
-| [October 8 at 11:43 PM](https://archive.org/download/thecut-2022/thecut-2022-10-08T23:43:41.213861-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 119 accessibility trees with the Internet Archive.
+The archiving routine has saved 120 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 11:52 PM](https://archive.org/download/thecut-2022/thecut-2022-10-13T23:52:47.437844-04:00.accessibility.json) |
 | [October 13 at 11:09 AM](https://archive.org/download/thecut-2022/thecut-2022-10-13T11:09:31.307799-04:00.accessibility.json) |
 | [October 12 at 11:40 PM](https://archive.org/download/thecut-2022/thecut-2022-10-12T23:40:20.646990-04:00.accessibility.json) |
 | [October 12 at 11:06 AM](https://archive.org/download/thecut-2022/thecut-2022-10-12T11:06:04.473349-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 11:22 AM](https://archive.org/download/thecut-2022/thecut-2022-10-10T11:22:15.608937-04:00.accessibility.json) |
 | [October 9 at 11:55 PM](https://archive.org/download/thecut-2022/thecut-2022-10-09T23:54:56.089545-04:00.accessibility.json) |
 | [October 9 at 10:59 AM](https://archive.org/download/thecut-2022/thecut-2022-10-09T10:58:54.077425-04:00.accessibility.json) |
-| [October 8 at 11:43 PM](https://archive.org/download/thecut-2022/thecut-2022-10-08T23:43:41.213861-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 120 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 11:52 PM](https://archive.org/download/thecut-2022/thecut-2022-10-13T23:52:47.437844-04:00.lighthouse.json) |
 | [October 13 at 11:09 AM](https://archive.org/download/thecut-2022/thecut-2022-10-13T11:09:31.307799-04:00.lighthouse.json) |
 | [October 12 at 11:40 PM](https://archive.org/download/thecut-2022/thecut-2022-10-12T23:40:20.646990-04:00.lighthouse.json) |
 | [October 12 at 11:06 AM](https://archive.org/download/thecut-2022/thecut-2022-10-12T11:06:04.473349-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 11:22 AM](https://archive.org/download/thecut-2022/thecut-2022-10-10T11:22:15.608937-04:00.lighthouse.json) |
 | [October 9 at 11:55 PM](https://archive.org/download/thecut-2022/thecut-2022-10-09T23:54:56.089545-04:00.lighthouse.json) |
 | [October 9 at 10:59 AM](https://archive.org/download/thecut-2022/thecut-2022-10-09T10:58:54.077425-04:00.lighthouse.json) |
-| [October 8 at 11:43 PM](https://archive.org/download/thecut-2022/thecut-2022-10-08T23:43:41.213861-04:00.lighthouse.json) |
 
 
 
