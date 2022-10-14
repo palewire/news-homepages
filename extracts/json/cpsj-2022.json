@@ -1,5 +1,10 @@
 {
-  "created": 1665686874,
+  "cpsj-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665734335,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/6/items/cpsj-2022",
@@ -2930,31 +2935,93 @@
       "sha1": "26506dd21dd5ebe38c35ba2a33b4b4ed5bb61d03"
     },
     {
+      "name": "cpsj-2022-10-14T02:35:17.190931-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665729321",
+      "size": "18874",
+      "md5": "986220340f1e70c90f72be0a19e61cce",
+      "crc32": "818bbdc9",
+      "sha1": "12b8ad19bfd5c1a7bc8c12f59a424a6915324460",
+      "format": "JSON"
+    },
+    {
+      "name": "cpsj-2022-10-14T02:35:17.190931-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665729323",
+      "size": "28611",
+      "md5": "205b866c1455532ddf14575f20fe5b96",
+      "crc32": "c675c73b",
+      "sha1": "b6943acff97f07e5d4acb78c66fe6c889e093fb5",
+      "format": "JSON"
+    },
+    {
+      "name": "cpsj-2022-10-14T02:35:17.190931-04:00.jpg",
+      "source": "original",
+      "mtime": "1665729320",
+      "size": "230155",
+      "md5": "3836ee80dfc1e686c9ef94b927fdfa54",
+      "crc32": "ac6af355",
+      "sha1": "d7b79c7d6f48acb962966f89e22f2594e445a870",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cpsj-2022-10-14T02:35:17.190931-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665729324",
+      "size": "1558",
+      "md5": "a938f7f219b722db0125c029b0622200",
+      "crc32": "bdb298a4",
+      "sha1": "93942a536b42eca6b568585bf1301856cbaa4508",
+      "format": "JSON"
+    },
+    {
+      "name": "cpsj-2022-10-14T02:35:17.190931-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665729326",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cpsj-2022-10-14T02:35:17.190931-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cpsj-2022-10-14T02:35:17.190931-04:00.jpg",
+      "mtime": "1665729393",
+      "size": "8860",
+      "md5": "9d2609939f1e2b332f652d101cf8d2fc",
+      "crc32": "00fa20f9",
+      "sha1": "b7732e1da01646891435ea66572fa6e07eb0297e"
+    },
+    {
       "name": "cpsj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9b85e3b9f86bc9e7b938ef12fba904d071b9ce0",
-      "mtime": "1665686856",
-      "size": "59785",
-      "md5": "860aa4e79eceb8099c79175bd7ff51e3",
-      "crc32": "0b2b402e",
-      "sha1": "b58c097ae6ef07e38693443b2598dc53ebd40f8d",
+      "btih": "d068e60e20cd9cf52981c7b6857bd50a51005d0b",
+      "mtime": "1665729401",
+      "size": "61026",
+      "md5": "03d534cb188399e77689c8b56f41162a",
+      "crc32": "a492da32",
+      "sha1": "123e3d642741fe80d724e7b9f10b3a985f11084f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cpsj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "beb082e2026d8c46a1d51ff1355b98c2",
+      "md5": "cfc3f6855046809e9a8c13eef39ea639",
       "summation": "md5"
     },
     {
       "name": "cpsj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665686800",
-      "size": "380928",
-      "md5": "e1570d76522519f1c426347411d66771",
-      "crc32": "0db08bef",
-      "sha1": "fc60a958419ff394688d63d98fe847ba886f7f2c",
+      "mtime": "1665729330",
+      "size": "385024",
+      "md5": "7398d4982c30c4410fd04e702a1b551c",
+      "crc32": "e2e98d90",
+      "sha1": "c4dfb8cc130b9c3fc4a039d70fe5dd37e910f28c",
       "format": "Metadata"
     },
     {
@@ -2968,9 +3035,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 287,
-  "item_last_updated": 1665686856,
-  "item_size": 19328648,
+  "files_count": 293,
+  "item_last_updated": 1665729401,
+  "item_size": 19622245,
   "metadata": {
     "identifier": "cpsj-2022",
     "collection": [
@@ -2987,10 +3054,10 @@
     "publicdate": "2022-09-20 17:43:40",
     "addeddate": "2022-09-20 17:43:40"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 1635491377,
+  "server": "ia601400.us.archive.org",
+  "uniq": 314777982,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

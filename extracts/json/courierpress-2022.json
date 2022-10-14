@@ -1,10 +1,5 @@
 {
-  "courierpress-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1665692116,
+  "created": 1665729634,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/25/items/courierpress-2022",
@@ -2935,31 +2930,93 @@
       "sha1": "017ab62cfd886ba342f2101f66b1356008887337"
     },
     {
+      "name": "courierpress-2022-10-14T01:34:58.196661-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665729302",
+      "size": "19926",
+      "md5": "859103ebcd5a00bc9ba541ecbbcb585a",
+      "crc32": "0c7dcce1",
+      "sha1": "89ad21fe74f0169c085fd649eeeb79e61b8fe95c",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-14T01:34:58.196661-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665729304",
+      "size": "35534",
+      "md5": "5dfd010e5ed23b26242f975cf17dac36",
+      "crc32": "f039a231",
+      "sha1": "139dcf7bebfcbf4e9c26d33ab62826f0dab69038",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-14T01:34:58.196661-05:00.jpg",
+      "source": "original",
+      "mtime": "1665729300",
+      "size": "274093",
+      "md5": "47ef8c1f49dab9266f1cc7918280a62c",
+      "crc32": "b12229ad",
+      "sha1": "618342288c2ace7c379472f509f27fa422886104",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "courierpress-2022-10-14T01:34:58.196661-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665729307",
+      "size": "1513",
+      "md5": "c37871d5ec7cb1b9299cb45f69635626",
+      "crc32": "3c71c2a3",
+      "sha1": "af10c3afa0071b61400d33db8cc49f3d95e11c3c",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-14T01:34:58.196661-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665729308",
+      "size": "92371",
+      "md5": "d46d98143319cb38cbd3b756c7561a1e",
+      "crc32": "5435556e",
+      "sha1": "5b5364d3bd06a71e226b66eefea8e3eca32b3ac1",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-14T01:34:58.196661-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "courierpress-2022-10-14T01:34:58.196661-05:00.jpg",
+      "mtime": "1665729458",
+      "size": "9316",
+      "md5": "5fcc23587fdb137ffa0e6548004d67fa",
+      "crc32": "a40d58d8",
+      "sha1": "1513fb4e8b6d6a89f99d2cffb09664bdbfe40376"
+    },
+    {
       "name": "courierpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73aff7954209f9047602478006e5519b03edb1ba",
-      "mtime": "1665687015",
-      "size": "62123",
-      "md5": "456ef2d78a6360d3d91f1bf511b15e86",
-      "crc32": "1c8f6430",
-      "sha1": "939b03d91906ca2f721ccc81925d41d1d5869d89",
+      "btih": "9b12ca0e3e1f9c7668b23c65abeebf67f84172c7",
+      "mtime": "1665729526",
+      "size": "63414",
+      "md5": "207d5f4fbd99bc1fac2784ee78702348",
+      "crc32": "cb089c46",
+      "sha1": "65375c19ca65e0fe28f34d069506d53f1cbcd117",
       "format": "Archive BitTorrent"
     },
     {
       "name": "courierpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c199decaf7010ab0ef8e66e4fb17696",
+      "md5": "ca6b314e815bc206d56c6176e74b6903",
       "summation": "md5"
     },
     {
       "name": "courierpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665686867",
-      "size": "380928",
-      "md5": "15b8211dad0be4ab98a247d4489296e3",
-      "crc32": "bc714af8",
-      "sha1": "9cafcec75f148aef7e5c44a4b55d8cd9bd8c20b2",
+      "mtime": "1665729313",
+      "size": "389120",
+      "md5": "1da6dde8d616ef38d6c4bc908e5adfe7",
+      "crc32": "1e3009b1",
+      "sha1": "d8e138f1a9fbaba27d7076b234b034d0ec1a71db",
       "format": "Metadata"
     },
     {
@@ -2973,9 +3030,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 287,
-  "item_last_updated": 1665687015,
-  "item_size": 19266443,
+  "files_count": 293,
+  "item_last_updated": 1665729526,
+  "item_size": 19708679,
   "metadata": {
     "identifier": "courierpress-2022",
     "collection": [
@@ -2993,7 +3050,7 @@
     "addeddate": "2022-09-20 17:43:44"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 2070506311,
+  "uniq": 1647152195,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

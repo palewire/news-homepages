@@ -1,5 +1,5 @@
 {
-  "created": 1665687169,
+  "created": 1665734490,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/7/items/fremontnm-2022",
@@ -2930,31 +2930,93 @@
       "sha1": "a411a684c138ad6b6a527feafb1cfda5d600c7eb"
     },
     {
+      "name": "fremontnm-2022-10-14T02:40:39.181078-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665729644",
+      "size": "19597",
+      "md5": "85ab031325283ae6a94b0e779253e069",
+      "crc32": "115d1e58",
+      "sha1": "b61f09ac9e50c8ee41b09c107928e9f571ef5ad1",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-14T02:40:39.181078-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665729646",
+      "size": "30446",
+      "md5": "f8f598da4d890f1f1a5544cf63fa3c7d",
+      "crc32": "d556be6b",
+      "sha1": "dedfefb398d911a6b328f5fb83f95bf16ffaaf02",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-14T02:40:39.181078-04:00.jpg",
+      "source": "original",
+      "mtime": "1665729642",
+      "size": "238524",
+      "md5": "fc61753ccdb8968498e1848f0e22f146",
+      "crc32": "dc17bbf0",
+      "sha1": "0da89d87706318bc40f9acc3149b22f7d4b942e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-14T02:40:39.181078-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665729649",
+      "size": "1558",
+      "md5": "73e2917df2a831a2f77ded52106d0ad9",
+      "crc32": "2e52acb2",
+      "sha1": "6048ed1832943a3909d68321cf20ab2978b641ec",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-14T02:40:39.181078-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665729650",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-14T02:40:39.181078-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-14T02:40:39.181078-04:00.jpg",
+      "mtime": "1665729697",
+      "size": "8997",
+      "md5": "126097285aec8daa06f2dcdfdaee43a9",
+      "crc32": "553e6120",
+      "sha1": "c46b1e943e80b3541da4c9b069745f0911c17670"
+    },
+    {
       "name": "fremontnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "504b7322f3dc2f1e42271f1ab8dc82cf39e48245",
-      "mtime": "1665687161",
-      "size": "61144",
-      "md5": "8f32c59963d663b8c7c4b6a913eaacf8",
-      "crc32": "962bebe5",
-      "sha1": "c9e880d4c1ab65291716b08bff4c0345778de165",
+      "btih": "0850ef9da1fef6dfac819ab4a1374328d0970b5a",
+      "mtime": "1665729700",
+      "size": "62395",
+      "md5": "ada1cb5c407a79b35046fd1f39b4fe3c",
+      "crc32": "f3a151c6",
+      "sha1": "15ec08bb2d78a8dac4e9df73215e38ba781d3f06",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fremontnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d136c20cbc3f238d7c762e0c810082b",
+      "md5": "9509f52fa934ab0c5677614386589f79",
       "summation": "md5"
     },
     {
       "name": "fremontnm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665687104",
-      "size": "380928",
-      "md5": "eb143a622195f8dfb05bad05be224ef2",
-      "crc32": "ea8341b7",
-      "sha1": "a8ae80c1848b9e9ebad5e7b49c9a7d6af7270625",
+      "mtime": "1665729652",
+      "size": "385024",
+      "md5": "708805d389dcad948f47b5ba102735a2",
+      "crc32": "43fe4fa6",
+      "sha1": "18b5819292d016e4817c542a4f7589e80c6d90dc",
       "format": "Metadata"
     },
     {
@@ -2968,9 +3030,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 287,
-  "item_last_updated": 1665687161,
-  "item_size": 17480053,
+  "files_count": 293,
+  "fremontnm-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1665729700,
+  "item_size": 17784724,
   "metadata": {
     "identifier": "fremontnm-2022",
     "collection": [
@@ -2988,7 +3055,7 @@
     "addeddate": "2022-09-20 17:53:26"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 2006998644,
+  "uniq": 271523219,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

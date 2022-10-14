@@ -1,12 +1,7 @@
 {
-  "created": 1665692245,
+  "created": 1665729478,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
-  "dallasfreepress-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/15/items/dallasfreepress-2022",
   "files": [
     {
@@ -11157,31 +11152,93 @@
       "sha1": "d9d02f3511229add3e6d5082dc6ce05372886e6b"
     },
     {
+      "name": "dallasfreepress-2022-10-14T01:34:38.655770-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665729282",
+      "size": "11489",
+      "md5": "aa2b07707af4e2ceb61ae7b44a2d921e",
+      "crc32": "afa0a2d0",
+      "sha1": "4f629a5e108b785b1fdc3f9b544e3e95b4dc6956",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-10-14T01:34:38.655770-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665729284",
+      "size": "4930",
+      "md5": "4afb31779b51865515435218a43bee09",
+      "crc32": "ee3fd107",
+      "sha1": "3767bcd586a84021bc424d4767787bed21fe1bb3",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-10-14T01:34:38.655770-05:00.jpg",
+      "source": "original",
+      "mtime": "1665729280",
+      "size": "261434",
+      "md5": "351af3cca23c7bf0a529f307a3019a48",
+      "crc32": "1ffd44d9",
+      "sha1": "632eaf3876421901a3f5fc84e90f4cc7337be4f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasfreepress-2022-10-14T01:34:38.655770-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665729286",
+      "size": "1495",
+      "md5": "982cb6448bdbcad35a7a2f46f1c11bdf",
+      "crc32": "00f01323",
+      "sha1": "b665b6862488a7421c6d2edd23d88e9e1d641113",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-10-14T01:34:38.655770-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665729288",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-10-14T01:34:38.655770-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasfreepress-2022-10-14T01:34:38.655770-05:00.jpg",
+      "mtime": "1665729417",
+      "size": "8997",
+      "md5": "4c106a5ed1107380c26eb25bfc4a86a5",
+      "crc32": "cea30a79",
+      "sha1": "d9d02f3511229add3e6d5082dc6ce05372886e6b"
+    },
+    {
       "name": "dallasfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b55b6759e85b302c0ffbbbb2fca49e6eeb6719ed",
-      "mtime": "1665687100",
-      "size": "234395",
-      "md5": "1a5ff58f3203c685a2617644cdeb6fc7",
-      "crc32": "38b8aac2",
-      "sha1": "a1b9533ac50b80953b28b531ff2b0487c192e73c",
+      "btih": "8fb3d16413c37e27642d364c1cda957b35f23bee",
+      "mtime": "1665729436",
+      "size": "235701",
+      "md5": "4f449d859214b80253b7873af4df8dfc",
+      "crc32": "3ea0bae3",
+      "sha1": "c2c9bdc5724d78d3917d656d195dbebd2efafb5b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4b4436fd76ecda98389f449ddc55ec3",
+      "md5": "101fb9c1cb7c7d725e0162edabd1600e",
       "summation": "md5"
     },
     {
       "name": "dallasfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665686984",
-      "size": "1372160",
-      "md5": "c899685b6f01051317a14dc89379469b",
-      "crc32": "fd48dc8b",
-      "sha1": "dfadc92b99ff8ee0d05a9381392de096332fabb7",
+      "mtime": "1665729296",
+      "size": "1380352",
+      "md5": "ea0327aca6cf20a31efef20269acee70",
+      "crc32": "ff385708",
+      "sha1": "ec9779b6731e0ddd4397105792860d256caff1cc",
       "format": "Metadata"
     },
     {
@@ -11195,9 +11252,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1080,
-  "item_last_updated": 1665687100,
-  "item_size": 58359685,
+  "files_count": 1086,
+  "item_last_updated": 1665729436,
+  "item_size": 58657730,
   "metadata": {
     "identifier": "dallasfreepress-2022",
     "collection": [
@@ -11215,7 +11272,7 @@
     "addeddate": "2022-07-09 03:57:39"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 497052366,
+  "uniq": 455083712,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"
