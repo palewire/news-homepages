@@ -1,5 +1,5 @@
 {
-  "created": 1665677761,
+  "created": 1665728660,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -12778,31 +12778,93 @@
       "sha1": "912e8dd8690fe0ac35c5b8b0f4ba998100e42681"
     },
     {
+      "name": "wnyc-2022-10-14T02:21:44.868754-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665728507",
+      "size": "29743",
+      "md5": "1d177a3d8068897a4e8ebc8dfffca924",
+      "crc32": "563da76f",
+      "sha1": "18741f0a23e2ca2f70fd01a55e6062d1845bee43",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-10-14T02:21:44.868754-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665728509",
+      "size": "25103",
+      "md5": "c37cee46266f55bb10c62305cfeb2e04",
+      "crc32": "7798afc7",
+      "sha1": "c030c4d720cd8300a20f104505eb5be7fc36086b",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-10-14T02:21:44.868754-04:00.jpg",
+      "source": "original",
+      "mtime": "1665728506",
+      "size": "180172",
+      "md5": "a4239198759ff1d96cabfb6e34edca50",
+      "crc32": "ba496336",
+      "sha1": "fd2438ff1a272ab8e0bcf2acf6ecb505e4248c6d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-10-14T02:21:44.868754-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665728510",
+      "size": "1441",
+      "md5": "a60e70b6e94426f3354602ddde203ded",
+      "crc32": "593c1228",
+      "sha1": "b0340c279693f51bf7cacd10fe58d34b6f41240d",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-10-14T02:21:44.868754-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665728512",
+      "size": "228",
+      "md5": "ff8ba83dff3c9517e55027d5dbb9eb63",
+      "crc32": "c110ef00",
+      "sha1": "affef6d114be73ee75b4292215b24c2be164bbe9",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-10-14T02:21:44.868754-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyc-2022-10-14T02:21:44.868754-04:00.jpg",
+      "mtime": "1665728608",
+      "size": "9012",
+      "md5": "37d4ed9a26bb2234a638024532ef319f",
+      "crc32": "6a6121bb",
+      "sha1": "32cc936ba8ec925325dc5a276a3c3708c9d3da43"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "927fd5198f2f8cc5e66d456e2c48af6be5abff20",
-      "mtime": "1665677727",
-      "size": "254376",
-      "md5": "7bf3f9379485280dcde17008b0c0e3dd",
-      "crc32": "fefa22ec",
-      "sha1": "9a37a53dab8a59c7fb295721466c1ece90c000d9",
+      "btih": "8d89c3be4f9714b781558d8b7b8d62a3a1fcca50",
+      "mtime": "1665728622",
+      "size": "255617",
+      "md5": "0a95f8c4d44e6ce01e938c35ed4c53c6",
+      "crc32": "671ed6f1",
+      "sha1": "80f124652302dbc319a5bfa743bb74c0bbc4d4fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bbde5ae408142b234d0715dda60ab7f3",
+      "md5": "2576e05a7efc5eebca728716cc2f7d31",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665677581",
-      "size": "1523712",
-      "md5": "aebb066b17ef4cbc4b41fe645d7f9fbb",
-      "crc32": "b0aed4d9",
-      "sha1": "3ea49d437c2d222112938b5a55f76b37a599bdf1",
+      "mtime": "1665728521",
+      "size": "1531904",
+      "md5": "00f54fe1c7b11d89fc1dcf3de60acc9e",
+      "crc32": "874bb36e",
+      "sha1": "e76eb5cfe2402f93a5984cfaa4488bfc4ed2911e",
       "format": "Metadata"
     },
     {
@@ -12816,9 +12878,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1235,
-  "item_last_updated": 1665677727,
-  "item_size": 62485965,
+  "files_count": 1241,
+  "item_last_updated": 1665728622,
+  "item_size": 62741097,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -12836,7 +12898,7 @@
     "addeddate": "2022-06-27 18:14:25"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 867216545,
+  "uniq": 1508569963,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665677465,
+  "created": 1665728295,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/3/items/airwaysmagazine-2022",
@@ -6568,31 +6568,93 @@
       "sha1": "e451f01a2f0926ec062ea7f219ce42a13a248a50"
     },
     {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665728150",
+      "size": "37990",
+      "md5": "53256ddc9081ce0d7c8546d59363483c",
+      "crc32": "040021ef",
+      "sha1": "e07fe458925fddf83db1c94d32cac8f057015441",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665728152",
+      "size": "30197",
+      "md5": "b446f26e8c2c1c54494a2e61863a4fad",
+      "crc32": "ec4863ec",
+      "sha1": "e60ec184fc4f9effb549e80da11bf32017e24742",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.jpg",
+      "source": "original",
+      "mtime": "1665728147",
+      "size": "246416",
+      "md5": "d56aca5eaf972a760a1024e187b88b25",
+      "crc32": "4c6b5735",
+      "sha1": "e704ae0360b1e8018da3c432dbb71ae530f0771c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665728154",
+      "size": "1459",
+      "md5": "c0b1f77c6b3c8d22677a83116ff63f4e",
+      "crc32": "1f890c6f",
+      "sha1": "9261d43dbee64bb2f2e754c2a932b1a2a0250355",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665728156",
+      "size": "25814",
+      "md5": "ea74fc556363547580e63d395c69c9f0",
+      "crc32": "58d9855d",
+      "sha1": "19d9d994ce5b47ff446a76704b6624e8044e50de",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.jpg",
+      "mtime": "1665728257",
+      "size": "10226",
+      "md5": "a3e53a42eb997dae38024b1e9fdbbcde",
+      "crc32": "e062359e",
+      "sha1": "3dedc2d44ed1e7156eaa5e512fdee525611ddd0c"
+    },
+    {
       "name": "airwaysmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e98a352dcef1ef0f6ed77adfafe035e6999848d9",
-      "mtime": "1665677415",
-      "size": "138625",
-      "md5": "480af6d6a6cf11d44aab53dd04dcd199",
-      "crc32": "0f3e7e9b",
-      "sha1": "85d840095ad7cf328eb3f1a816a367b25a23112e",
+      "btih": "5a408ccd4853dbd177a63d2ad6b046006003386f",
+      "mtime": "1665728276",
+      "size": "139915",
+      "md5": "d912b4784271b3a4d64615136be7e183",
+      "crc32": "61bc31cd",
+      "sha1": "b2f73b257951c0e8a5b55501a837e063ef76acee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airwaysmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ebad79620376803c42b8ba63f2861278",
+      "md5": "e8da2b77e620fb57cbdf6d4bf6c40f2a",
       "summation": "md5"
     },
     {
       "name": "airwaysmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665677220",
-      "size": "827392",
-      "md5": "c79ef543f538f18e2648664420c8c2ce",
-      "crc32": "5ae4d6a1",
-      "sha1": "041907bdf2628b7f6d69639c1e75eeb59aa68cc3",
+      "mtime": "1665728165",
+      "size": "839680",
+      "md5": "a061da4c76fcaae6e29dbdcb59215676",
+      "crc32": "fedd2e66",
+      "sha1": "bab0a2478677f9c5ca1f49689162f9d1d8b0e8b1",
       "format": "Metadata"
     },
     {
@@ -6606,9 +6668,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 639,
-  "item_last_updated": 1665677415,
-  "item_size": 22803677,
+  "files_count": 645,
+  "item_last_updated": 1665728276,
+  "item_size": 23169357,
   "metadata": {
     "identifier": "airwaysmagazine-2022",
     "collection": [
@@ -6626,7 +6688,7 @@
     "addeddate": "2022-08-21 01:13:36"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 767299888,
+  "uniq": 265314954,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"
