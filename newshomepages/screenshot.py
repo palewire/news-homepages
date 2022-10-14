@@ -11,12 +11,6 @@ from rich import print
 from . import utils
 
 
-def read_script_from_file(filename, page_obj):
-    with open(filename) as f:
-        script = f.read()
-        page_obj.evaluate(script)
-
-
 @click.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
@@ -24,8 +18,7 @@ def read_script_from_file(filename, page_obj):
 @click.option("-x", "--width", "width", default=1300)
 @click.option("-y", "--height", "height", default=1600)
 @click.option("-f", "--screenshot_full_page", is_flag=True, default=False, help="Screenshot the whole page or just a part of it.")
-@click.option("-h", "--save_html", is_flag=True, default=False, help="Save HTML of the site as well.")
-def cli(handle: str, output_dir: str, wait: str, width: str, height: str, full_page: bool, save_html: bool):
+def cli(handle: str, output_dir: str, wait: str, width: str, height: str, full_page: bool):
     """Screenshot the provided homepage."""
     site = utils.get_site(handle)
     output_path = Path(output_dir)
@@ -34,7 +27,6 @@ def cli(handle: str, output_dir: str, wait: str, width: str, height: str, full_p
                 width=int(width),
                 height=int(height),
                 screenshot_full_page=bool(full_page),
-                save_html=bool(save_html)
                 )
 
 
@@ -46,7 +38,6 @@ def _screenshot(
     width: int = 1300,
     height: int = 1600,
     screenshot_full_page: bool = False,
-    save_html: bool = False,
 ):
     """Shoot the provided site."""
     print(f":camera: Screenshotting {site['name']}")
@@ -97,14 +88,6 @@ def _screenshot(
         page = context.new_page()
 
         # if we're saving the HTML, we need to prep the single-file JS machinery on Chromium
-        if save_html:
-            single_file_pre_load_extensions = [
-                utils.EXTENSIONS_PATH / "singlefile" / "javascript" / "single-file-bootstrap.js" ,
-                utils.EXTENSIONS_PATH / "singlefile" / "javascript" / "single-file-hooks-frames.js",
-                utils.EXTENSIONS_PATH / "singlefile" / "javascript" / "single-file-frames.js",
-            ]
-            for f in single_file_pre_load_extensions:
-                read_script_from_file(f, page)
 
         # Open the page
         print(f"Opening {site['url']}")
@@ -220,32 +203,6 @@ def _screenshot(
             path=jpeg_file_path,
             full_page=screenshot_full_page,
         )
-
-        # now that the page is loaded, we can dump to HTML and then save.
-        if save_html:
-            post_load_script = utils.EXTENSIONS_PATH / "singlefile" / "javascript" / "single-file.js"
-            read_script_from_file(post_load_script, page)
-            page_html_content = page.evaluate("""
-                () => singlefile.getPageData({
-                  removeHiddenElements: true,
-                  removeUnusedStyles: true,
-                  removeUnusedFonts: true,
-                  removeImports: true,
-                  blockScripts: true,
-                  blockAudios: true,
-                  blockVideos: true,
-                  compressHTML: true,
-                  removeAlternativeFonts: true,
-                  removeAlternativeMedias: true,
-                  removeAlternativeImages: true,
-                  groupDuplicateImages: true
-                });
-            """).get('content')
-            if page_html_content is None:
-                print('NO HTML CONTENT!')
-            html_file_path = str(output_path / f"{site['handle'].lower()}.html")
-            with open(html_file_path, 'w') as f:
-                f.write(page_html_content)
 
         # Close it out
         context.close()
