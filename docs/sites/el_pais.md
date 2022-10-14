@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 154 screenshots with the Internet Archive.
+The archiving routine has saved 155 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 154 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/el_pais-2022/el_pais-2022-10-14T08:37:50.076981+02:00.jpg">
+  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-10-14T08:37:50.076981+02:00.jpg"
+     alt="El Pais at 2022-10-14 08:37:57+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-10-14T08:37:50.076981+02:00.jpg">October 14 at 8:37 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/el_pais-2022/el_pais-2022-10-13T20:51:39.378664+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-10-08T19:49:19.217650+02:00.jpg">October 8 at 7:49 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/el_pais-2022/el_pais-2022-10-08T07:54:36.578151+02:00.jpg">
-  <img src="https://archive.org/download/el_pais-2022/el_pais-2022-10-08T07:54:36.578151+02:00.jpg"
-     alt="El Pais at 2022-10-08 07:54:41+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/el_pais-2022/el_pais-2022-10-08T07:54:36.578151+02:00.jpg">October 8 at 7:54 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 154 hyperlink lists with the Internet Archive.
+The archiving routine has saved 155 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 8:38 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-14T08:37:50.076981+02:00.hyperlinks.json) |
 | [October 13 at 8:52 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-13T20:51:39.378664+02:00.hyperlinks.json) |
 | [October 13 at 8:02 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-13T08:02:28.889376+02:00.hyperlinks.json) |
 | [October 12 at 7:32 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-12T19:31:53.894446+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 8:59 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-10T20:59:15.795476+02:00.hyperlinks.json) |
 | [October 10 at 8:35 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-10T08:35:01.524739+02:00.hyperlinks.json) |
 | [October 9 at 7:46 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-09T19:46:13.721282+02:00.hyperlinks.json) |
-| [October 9 at 9:21 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-09T09:20:53.276044+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 153 accessibility trees with the Internet Archive.
+The archiving routine has saved 154 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 8:37 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-14T08:37:50.076981+02:00.accessibility.json) |
 | [October 13 at 8:52 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-13T20:51:39.378664+02:00.accessibility.json) |
 | [October 13 at 8:02 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-13T08:02:28.889376+02:00.accessibility.json) |
 | [October 12 at 7:32 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-12T19:31:53.894446+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 8:59 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-10T20:59:15.795476+02:00.accessibility.json) |
 | [October 10 at 8:35 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-10T08:35:01.524739+02:00.accessibility.json) |
 | [October 9 at 7:46 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-09T19:46:13.721282+02:00.accessibility.json) |
-| [October 9 at 9:21 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-09T09:20:53.276044+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 154 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 155 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 8:38 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-14T08:37:50.076981+02:00.lighthouse.json) |
 | [October 13 at 8:52 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-13T20:51:39.378664+02:00.lighthouse.json) |
 | [October 13 at 8:02 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-13T08:02:28.889376+02:00.lighthouse.json) |
 | [October 12 at 7:32 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-12T19:31:53.894446+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 8:59 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-10T20:59:15.795476+02:00.lighthouse.json) |
 | [October 10 at 8:35 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-10T08:35:01.524739+02:00.lighthouse.json) |
 | [October 9 at 7:46 PM](https://archive.org/download/el_pais-2022/el_pais-2022-10-09T19:46:13.721282+02:00.lighthouse.json) |
-| [October 9 at 9:21 AM](https://archive.org/download/el_pais-2022/el_pais-2022-10-09T09:20:53.276044+02:00.lighthouse.json) |
 
 
 

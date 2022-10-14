@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 47 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/freep-2022/freep-2022-10-14T02:40:39.145762-04:00.jpg">
+  <img src="https://archive.org/download/freep-2022/freep-2022-10-14T02:40:39.145762-04:00.jpg"
+     alt="Detroit Free Press at 2022-10-14 02:40:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/freep-2022/freep-2022-10-14T02:40:39.145762-04:00.jpg">October 14 at 2:40 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/freep-2022/freep-2022-10-13T14:51:33.832827-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/freep-2022/freep-2022-10-09T03:23:20.377409-04:00.jpg">October 9 at 3:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/freep-2022/freep-2022-10-08T13:54:15.248366-04:00.jpg">
-  <img src="https://archive.org/download/freep-2022/freep-2022-10-08T13:54:15.248366-04:00.jpg"
-     alt="Detroit Free Press at 2022-10-08 13:54:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/freep-2022/freep-2022-10-08T13:54:15.248366-04:00.jpg">October 8 at 1:54 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 2:40 AM](https://archive.org/download/freep-2022/freep-2022-10-14T02:40:39.145762-04:00.hyperlinks.json) |
 | [October 13 at 2:51 PM](https://archive.org/download/freep-2022/freep-2022-10-13T14:51:33.832827-04:00.hyperlinks.json) |
 | [October 13 at 2:08 AM](https://archive.org/download/freep-2022/freep-2022-10-13T02:08:18.263813-04:00.hyperlinks.json) |
 | [October 13 at 2:08 AM](https://archive.org/download/freep-2022/freep-2022-10-13T02:05:00.024905-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 2:47 AM](https://archive.org/download/freep-2022/freep-2022-10-11T02:47:43.222172-04:00.hyperlinks.json) |
 | [October 10 at 3:00 PM](https://archive.org/download/freep-2022/freep-2022-10-10T15:00:54.346260-04:00.hyperlinks.json) |
 | [October 10 at 2:40 AM](https://archive.org/download/freep-2022/freep-2022-10-10T02:39:52.538844-04:00.hyperlinks.json) |
-| [October 9 at 1:51 PM](https://archive.org/download/freep-2022/freep-2022-10-09T13:51:44.573838-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 2:40 AM](https://archive.org/download/freep-2022/freep-2022-10-14T02:40:39.145762-04:00.accessibility.json) |
 | [October 13 at 2:51 PM](https://archive.org/download/freep-2022/freep-2022-10-13T14:51:33.832827-04:00.accessibility.json) |
 | [October 13 at 2:08 AM](https://archive.org/download/freep-2022/freep-2022-10-13T02:08:18.263813-04:00.accessibility.json) |
 | [October 13 at 2:05 AM](https://archive.org/download/freep-2022/freep-2022-10-13T02:05:00.024905-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 2:47 AM](https://archive.org/download/freep-2022/freep-2022-10-11T02:47:43.222172-04:00.accessibility.json) |
 | [October 10 at 3:00 PM](https://archive.org/download/freep-2022/freep-2022-10-10T15:00:54.346260-04:00.accessibility.json) |
 | [October 10 at 2:40 AM](https://archive.org/download/freep-2022/freep-2022-10-10T02:39:52.538844-04:00.accessibility.json) |
-| [October 9 at 1:51 PM](https://archive.org/download/freep-2022/freep-2022-10-09T13:51:44.573838-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 2:40 AM](https://archive.org/download/freep-2022/freep-2022-10-14T02:40:39.145762-04:00.lighthouse.json) |
 | [October 13 at 2:51 PM](https://archive.org/download/freep-2022/freep-2022-10-13T14:51:33.832827-04:00.lighthouse.json) |
 | [October 13 at 2:08 AM](https://archive.org/download/freep-2022/freep-2022-10-13T02:08:18.263813-04:00.lighthouse.json) |
 | [October 12 at 1:34 PM](https://archive.org/download/freep-2022/freep-2022-10-12T13:33:55.365589-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 3:01 PM](https://archive.org/download/freep-2022/freep-2022-10-10T15:00:54.346260-04:00.lighthouse.json) |
 | [October 10 at 2:40 AM](https://archive.org/download/freep-2022/freep-2022-10-10T02:39:52.538844-04:00.lighthouse.json) |
 | [October 9 at 1:51 PM](https://archive.org/download/freep-2022/freep-2022-10-09T13:51:44.573838-04:00.lighthouse.json) |
-| [October 9 at 3:23 AM](https://archive.org/download/freep-2022/freep-2022-10-09T03:23:20.377409-04:00.lighthouse.json) |
 
 
 
