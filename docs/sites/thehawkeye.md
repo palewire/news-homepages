@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 59 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:28:37.080342-05:00.jpg">
+  <img src="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:28:37.080342-05:00.jpg"
+     alt="The Hawk Eye at 2022-10-14 11:28:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:28:37.080342-05:00.jpg">October 14 at 11:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:23:04.914218-05:00.jpg">
+  <img src="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:23:04.914218-05:00.jpg"
+     alt="The Hawk Eye at 2022-10-14 11:23:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:23:04.914218-05:00.jpg">October 14 at 11:23 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-13T22:53:07.110240-05:00.jpg">
   <img src="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-13T22:53:07.110240-05:00.jpg"
      alt="The Hawk Eye at 2022-10-13 22:53:09-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T10:21:43.399367-05:00.jpg">October 10 at 10:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-09T22:55:03.062324-05:00.jpg">
-  <img src="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-09T22:55:03.062324-05:00.jpg"
-     alt="The Hawk Eye at 2022-10-09 22:55:08-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-09T22:55:03.062324-05:00.jpg">October 9 at 10:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-09T09:58:45.465341-05:00.jpg">
-  <img src="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-09T09:58:45.465341-05:00.jpg"
-     alt="The Hawk Eye at 2022-10-09 09:58:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-09T09:58:45.465341-05:00.jpg">October 9 at 9:58 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 57 hyperlink lists with the Internet Archive.
+The archiving routine has saved 59 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 11:28 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:28:37.080342-05:00.hyperlinks.json) |
+| [October 14 at 11:23 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:23:04.914218-05:00.hyperlinks.json) |
 | [October 13 at 10:53 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-13T22:53:07.110240-05:00.hyperlinks.json) |
 | [October 13 at 10:10 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-13T10:10:12.274534-05:00.hyperlinks.json) |
 | [October 12 at 10:40 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-12T22:40:55.808188-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 10:55 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-11T22:54:59.162893-05:00.hyperlinks.json) |
 | [October 11 at 10:14 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-11T10:14:12.413399-05:00.hyperlinks.json) |
 | [October 10 at 10:54 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T22:54:23.422886-05:00.hyperlinks.json) |
-| [October 10 at 11:26 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T11:26:10.122440-05:00.hyperlinks.json) |
-| [October 10 at 10:21 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T10:21:43.399367-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 57 accessibility trees with the Internet Archive.
+The archiving routine has saved 59 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 11:28 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:28:37.080342-05:00.accessibility.json) |
+| [October 14 at 11:23 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:23:04.914218-05:00.accessibility.json) |
 | [October 13 at 10:53 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-13T22:53:07.110240-05:00.accessibility.json) |
 | [October 13 at 10:10 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-13T10:10:12.274534-05:00.accessibility.json) |
 | [October 12 at 10:40 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-12T22:40:55.808188-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 10:55 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-11T22:54:59.162893-05:00.accessibility.json) |
 | [October 11 at 10:14 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-11T10:14:12.413399-05:00.accessibility.json) |
 | [October 10 at 10:54 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T22:54:23.422886-05:00.accessibility.json) |
-| [October 10 at 11:26 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T11:26:10.122440-05:00.accessibility.json) |
-| [October 10 at 10:21 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T10:21:43.399367-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 59 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 11:28 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:28:37.080342-05:00.lighthouse.json) |
+| [October 14 at 11:23 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-14T11:23:04.914218-05:00.lighthouse.json) |
 | [October 13 at 10:53 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-13T22:53:07.110240-05:00.lighthouse.json) |
 | [October 13 at 10:10 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-13T10:10:12.274534-05:00.lighthouse.json) |
 | [October 12 at 10:41 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-12T22:40:55.808188-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 10:55 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-11T22:54:59.162893-05:00.lighthouse.json) |
 | [October 11 at 10:14 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-11T10:14:12.413399-05:00.lighthouse.json) |
 | [October 10 at 10:54 PM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T22:54:23.422886-05:00.lighthouse.json) |
-| [October 10 at 11:26 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T11:26:10.122440-05:00.lighthouse.json) |
-| [October 10 at 10:21 AM](https://archive.org/download/thehawkeye-2022/thehawkeye-2022-10-10T10:21:43.399367-05:00.lighthouse.json) |
 
 
 
