@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 381 screenshots with the Internet Archive.
+The archiving routine has saved 382 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 381 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kcrg-2022/kcrg-2022-10-13T20:20:24.230289-05:00.jpg">
+  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-10-13T20:20:24.230289-05:00.jpg"
+     alt="KCRG at 2022-10-13 20:20:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-10-13T20:20:24.230289-05:00.jpg">October 13 at 8:20 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kcrg-2022/kcrg-2022-10-13T07:58:57.195202-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-10-09T08:03:28.590185-05:00.jpg">October 9 at 8:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kcrg-2022/kcrg-2022-10-08T20:17:35.060841-05:00.jpg">
-  <img src="https://archive.org/download/kcrg-2022/kcrg-2022-10-08T20:17:35.060841-05:00.jpg"
-     alt="KCRG at 2022-10-08 20:17:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kcrg-2022/kcrg-2022-10-08T20:17:35.060841-05:00.jpg">October 8 at 8:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 369 hyperlink lists with the Internet Archive.
+The archiving routine has saved 370 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 8:20 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-13T20:20:24.230289-05:00.hyperlinks.json) |
 | [October 13 at 7:59 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-13T07:58:57.195202-05:00.hyperlinks.json) |
 | [October 12 at 8:19 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-12T20:19:18.835483-05:00.hyperlinks.json) |
 | [October 12 at 10:56 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-12T10:56:09.898265-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 8:26 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-10T20:26:22.781671-05:00.hyperlinks.json) |
 | [October 10 at 11:26 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-10T11:26:08.050962-05:00.hyperlinks.json) |
 | [October 10 at 8:21 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-10T08:21:49.272004-05:00.hyperlinks.json) |
-| [October 9 at 8:30 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-09T20:30:07.330022-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 371 accessibility trees with the Internet Archive.
+The archiving routine has saved 372 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 8:20 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-13T20:20:24.230289-05:00.accessibility.json) |
 | [October 13 at 7:58 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-13T07:58:57.195202-05:00.accessibility.json) |
 | [October 12 at 8:19 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-12T20:19:18.835483-05:00.accessibility.json) |
 | [October 12 at 10:56 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-12T10:56:09.898265-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 8:26 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-10T20:26:22.781671-05:00.accessibility.json) |
 | [October 10 at 11:26 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-10T11:26:08.050962-05:00.accessibility.json) |
 | [October 10 at 8:21 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-10T08:21:49.272004-05:00.accessibility.json) |
-| [October 9 at 8:30 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-09T20:30:07.330022-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 200 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 201 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 8:20 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-13T20:20:24.230289-05:00.lighthouse.json) |
 | [October 13 at 7:59 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-13T07:58:57.195202-05:00.lighthouse.json) |
 | [October 12 at 8:19 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-12T20:19:18.835483-05:00.lighthouse.json) |
 | [October 12 at 10:56 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-12T10:56:09.898265-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 8:26 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-10T20:26:22.781671-05:00.lighthouse.json) |
 | [October 10 at 11:26 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-10T11:26:08.050962-05:00.lighthouse.json) |
 | [October 10 at 8:21 AM](https://archive.org/download/kcrg-2022/kcrg-2022-10-10T08:21:49.272004-05:00.lighthouse.json) |
-| [October 9 at 8:30 PM](https://archive.org/download/kcrg-2022/kcrg-2022-10-09T20:30:07.330022-05:00.lighthouse.json) |
 
 
 

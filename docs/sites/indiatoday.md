@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 163 screenshots with the Internet Archive.
+The archiving routine has saved 164 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 163 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-10-14T06:48:07.682780+05:30.jpg">
+  <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-10-14T06:48:07.682780+05:30.jpg"
+     alt="India Today at 2022-10-14 06:48:09+05:30 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-10-14T06:48:07.682780+05:30.jpg">October 14 at 6:48 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-10-13T18:26:14.125540+05:30.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-10-08T18:31:03.313691+05:30.jpg">October 8 at 6:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-10-08T06:53:42.064958+05:30.jpg">
-  <img src="https://archive.org/download/indiatoday-2022/indiatoday-2022-10-08T06:53:42.064958+05:30.jpg"
-     alt="India Today at 2022-10-08 06:53:52+05:30 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/indiatoday-2022/indiatoday-2022-10-08T06:53:42.064958+05:30.jpg">October 8 at 6:53 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 162 hyperlink lists with the Internet Archive.
+The archiving routine has saved 163 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 6:48 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-14T06:48:07.682780+05:30.hyperlinks.json) |
 | [October 13 at 6:26 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-13T18:26:14.125540+05:30.hyperlinks.json) |
 | [October 13 at 6:47 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-13T06:47:17.056600+05:30.hyperlinks.json) |
 | [October 12 at 6:23 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-12T18:23:23.691168+05:30.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 6:50 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-10T18:50:15.872433+05:30.hyperlinks.json) |
 | [October 10 at 6:57 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-10T06:56:56.605635+05:30.hyperlinks.json) |
 | [October 9 at 6:32 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-09T18:32:04.553393+05:30.hyperlinks.json) |
-| [October 9 at 6:44 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-09T06:44:44.675412+05:30.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 163 accessibility trees with the Internet Archive.
+The archiving routine has saved 164 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 6:48 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-14T06:48:07.682780+05:30.accessibility.json) |
 | [October 13 at 6:26 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-13T18:26:14.125540+05:30.accessibility.json) |
 | [October 13 at 6:47 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-13T06:47:17.056600+05:30.accessibility.json) |
 | [October 12 at 6:23 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-12T18:23:23.691168+05:30.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 6:50 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-10T18:50:15.872433+05:30.accessibility.json) |
 | [October 10 at 6:57 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-10T06:56:56.605635+05:30.accessibility.json) |
 | [October 9 at 6:32 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-09T18:32:04.553393+05:30.accessibility.json) |
-| [October 9 at 6:44 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-09T06:44:44.675412+05:30.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 6:48 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-14T06:48:07.682780+05:30.lighthouse.json) |
 | [October 13 at 6:26 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-13T18:26:14.125540+05:30.lighthouse.json) |
 | [October 13 at 6:47 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-13T06:47:17.056600+05:30.lighthouse.json) |
 | [October 12 at 6:23 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-12T18:23:23.691168+05:30.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 6:50 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-10T18:50:15.872433+05:30.lighthouse.json) |
 | [October 10 at 6:57 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-10T06:56:56.605635+05:30.lighthouse.json) |
 | [October 9 at 6:32 PM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-09T18:32:04.553393+05:30.lighthouse.json) |
-| [October 9 at 6:44 AM](https://archive.org/download/indiatoday-2022/indiatoday-2022-10-09T06:44:44.675412+05:30.lighthouse.json) |
 
 
 
