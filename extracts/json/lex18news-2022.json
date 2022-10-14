@@ -1,5 +1,6 @@
 {
-  "created": 1665710666,
+  "conflict": 1665753577,
+  "created": 1665753577,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/34/items/lex18news-2022",
@@ -8944,31 +8945,93 @@
       "sha1": "f56e68bdba2cf165d10533a2e96405f3080240f0"
     },
     {
+      "name": "lex18news-2022-10-14T09:12:12.082224-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665753143",
+      "size": "16642",
+      "md5": "ec75ec6ea8b550a052af18589726c1b9",
+      "crc32": "7da527aa",
+      "sha1": "11f726a8774af647864e053da6cb99b5ec7ff563",
+      "format": "JSON"
+    },
+    {
+      "name": "lex18news-2022-10-14T09:12:12.082224-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665753146",
+      "size": "48538",
+      "md5": "e09d71bfbb2040c11c14e8b9575eb29b",
+      "crc32": "8d1af2ba",
+      "sha1": "fd2b68a53e8fa7776c31ac727cc29d0691334e69",
+      "format": "JSON"
+    },
+    {
+      "name": "lex18news-2022-10-14T09:12:12.082224-04:00.jpg",
+      "source": "original",
+      "mtime": "1665753140",
+      "size": "266479",
+      "md5": "b4202b3183907fe380d01bcd0340744c",
+      "crc32": "73a48f35",
+      "sha1": "4746101f8c2d85110e7a9a0fe51680a3d5402632",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lex18news-2022-10-14T09:12:12.082224-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665753148",
+      "size": "1447",
+      "md5": "718cc781c5d08c580865b5274c0f7936",
+      "crc32": "fde1ef35",
+      "sha1": "767f5287a710ec471f3108adeaf6a8c582ba3550",
+      "format": "JSON"
+    },
+    {
+      "name": "lex18news-2022-10-14T09:12:12.082224-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665753150",
+      "size": "202",
+      "md5": "18add8430acfadb844499d3e1bbc0ad5",
+      "crc32": "d4c297a6",
+      "sha1": "2048b76a9cb553dc8b3f8f6439816c690d985d2e",
+      "format": "JSON"
+    },
+    {
+      "name": "lex18news-2022-10-14T09:12:12.082224-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lex18news-2022-10-14T09:12:12.082224-04:00.jpg",
+      "mtime": "1665753386",
+      "size": "10391",
+      "md5": "d59c2fbffa1313c4083c6d36c22f33d8",
+      "crc32": "c6a9a1f7",
+      "sha1": "c648dfeb7bd93164561bef0fa86c8098072906f1"
+    },
+    {
       "name": "lex18news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3a4ad5260b608f318f9d81402b5dc73a2094fd2",
-      "mtime": "1665710659",
-      "size": "184239",
-      "md5": "0461893406874f767e2cd36cc4e4d5ec",
-      "crc32": "c355dbd8",
-      "sha1": "ae954106ec03a7fa3148d2a64471c46cd26e70ea",
+      "btih": "7bdb692ec2c41ff5458a16adac1ea33f3fa85f19",
+      "mtime": "1665753537",
+      "size": "185511",
+      "md5": "eab7bdfe23a7105b496928b701e77b9f",
+      "crc32": "b53098a9",
+      "sha1": "cde8e8e8b49784777ba18b36d6e1a19e2bff0cd1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lex18news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4579d9392dd97ba37d7f5f10531761c0",
+      "md5": "33ec2114b05c38f67e93f410e8bee384",
       "summation": "md5"
     },
     {
       "name": "lex18news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665710580",
-      "size": "1105920",
-      "md5": "ddd7e4910489e6d50a17f96a5e741deb",
-      "crc32": "24bb8f6f",
-      "sha1": "6e9202d46b63d019089f1b3a4cf760a91fc3b9cd",
+      "mtime": "1665753165",
+      "size": "1114112",
+      "md5": "164c28f6c617f240309707118a210646",
+      "crc32": "639ac29e",
+      "sha1": "d6d1dd6fb239bf48592f03a994ea704e978bea1a",
       "format": "Metadata"
     },
     {
@@ -8982,9 +9045,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 868,
-  "item_last_updated": 1665710659,
-  "item_size": 64412982,
+  "files_count": 874,
+  "item_last_updated": 1665753537,
+  "item_size": 64766145,
   "metadata": {
     "identifier": "lex18news-2022",
     "collection": [
@@ -9001,10 +9064,29 @@
     "publicdate": "2022-08-01 06:42:16",
     "addeddate": "2022-08-01 06:42:16"
   },
+  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "uniq": 663269793,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3439742073,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3439747494,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1312090182,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia902509.us.archive.org"
   ]
 }

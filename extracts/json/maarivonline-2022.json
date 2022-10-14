@@ -1,5 +1,5 @@
 {
-  "created": 1665710686,
+  "created": 1665753662,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/8/items/maarivonline-2022",
@@ -7524,31 +7524,93 @@
       "sha1": "cfe4e27c9b9df6fb03925ffb6c4ff9b050c63b18"
     },
     {
+      "name": "maarivonline-2022-10-14T16:11:48.479676+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665753118",
+      "size": "100792",
+      "md5": "c9549cc10e891ce9bb71bec2dfbe4737",
+      "crc32": "695c8069",
+      "sha1": "445694e803d2d76492ae0525069bf37f50561455",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-14T16:11:48.479676+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665753120",
+      "size": "156326",
+      "md5": "1cfd416f82cdec379ebc453adab493ae",
+      "crc32": "aceab0eb",
+      "sha1": "3afd22d5c711ee7476c7c25434943eb09ff86d9d",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-14T16:11:48.479676+03:00.jpg",
+      "source": "original",
+      "mtime": "1665753116",
+      "size": "202647",
+      "md5": "ecfb856ab559b6bad2beaafd2b236cec",
+      "crc32": "59521c7e",
+      "sha1": "372194eb08ec39b4c528e99faf883fc099ebc85f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "maarivonline-2022-10-14T16:11:48.479676+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665753122",
+      "size": "1459",
+      "md5": "5f24d102d2bcc2addf7ec3a39d401c39",
+      "crc32": "dc81aa8d",
+      "sha1": "2bd95109c218671d3f7ea6df03df575bdd153503",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-14T16:11:48.479676+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665753129",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-14T16:11:48.479676+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maarivonline-2022-10-14T16:11:48.479676+03:00.jpg",
+      "mtime": "1665753540",
+      "size": "8560",
+      "md5": "e614d6cb70706e7f5a9bec7f3dfb5d8d",
+      "crc32": "581be28a",
+      "sha1": "3f1cca17b6e61d917aa60bb5d8303eebb646af16"
+    },
+    {
       "name": "maarivonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbe3d823c30e7200f38845ca2025efebd2792862",
-      "mtime": "1665710664",
-      "size": "158121",
-      "md5": "9115e5de1e64c8f698e74ee0ce23616a",
-      "crc32": "4cdea7f9",
-      "sha1": "b8c1bf85f4042a40f3c0d100223881d76af9b5c5",
+      "btih": "8fd8b5c5cf4a648a40743951a6be1a676b8643dc",
+      "mtime": "1665753559",
+      "size": "159412",
+      "md5": "d53bbaf4960cee42748cea7674d12026",
+      "crc32": "e09f6d49",
+      "sha1": "66649b0e8e2e0a41d7e4856b79039b7a133fd199",
       "format": "Archive BitTorrent"
     },
     {
       "name": "maarivonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ba80fff5e1118aa767236629aa69e97b",
+      "md5": "0861c481c5b6c73ac329548008da7090",
       "summation": "md5"
     },
     {
       "name": "maarivonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665710578",
-      "size": "937984",
-      "md5": "44643cb13f42b2dbaf16b86133a61d47",
-      "crc32": "0b43bdec",
-      "sha1": "4dca597d28c1e16a5142c4d2075324aa314d09a4",
+      "mtime": "1665753397",
+      "size": "950272",
+      "md5": "74df4d38d126dbbb39754fe0d55cb490",
+      "crc32": "5c3645e0",
+      "sha1": "ebc15fda247d5f75bb44cad5b2f8ed79f98cc522",
       "format": "Metadata"
     },
     {
@@ -7562,9 +7624,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 731,
-  "item_last_updated": 1665710664,
-  "item_size": 68281527,
+  "files_count": 737,
+  "item_last_updated": 1665753559,
+  "item_size": 68765092,
   "metadata": {
     "identifier": "maarivonline-2022",
     "collection": [
@@ -7581,10 +7643,10 @@
     "publicdate": "2022-08-14 03:14:50",
     "addeddate": "2022-08-14 03:14:50"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 565199352,
+  "server": "ia801500.us.archive.org",
+  "uniq": 57128425,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }
