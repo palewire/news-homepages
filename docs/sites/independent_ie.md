@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 180 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 179 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T14:05:35.894489+01:00.jpg">
+  <img src="https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T14:05:35.894489+01:00.jpg"
+     alt="Independent.ie at 2022-10-14 14:06:04+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T14:05:35.894489+01:00.jpg">October 14 at 2:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T02:18:01.875128+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-10-09T02:14:39.250469+01:00.jpg">October 9 at 2:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-10-08T14:01:07.580658+01:00.jpg">
-  <img src="https://archive.org/download/independent_ie-2022/independent_ie-2022-10-08T14:01:07.580658+01:00.jpg"
-     alt="Independent.ie at 2022-10-08 14:01:09+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/independent_ie-2022/independent_ie-2022-10-08T14:01:07.580658+01:00.jpg">October 8 at 2:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 178 hyperlink lists with the Internet Archive.
+The archiving routine has saved 179 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 2:06 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T14:05:35.894489+01:00.hyperlinks.json) |
 | [October 14 at 2:18 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T02:18:01.875128+01:00.hyperlinks.json) |
 | [October 13 at 1:56 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-13T13:56:23.802389+01:00.hyperlinks.json) |
 | [October 13 at 2:18 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-13T02:17:57.754985+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 2:23 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-11T02:23:32.559435+01:00.hyperlinks.json) |
 | [October 10 at 2:18 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-10T14:18:29.409578+01:00.hyperlinks.json) |
 | [October 10 at 2:27 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-10T02:26:58.334552+01:00.hyperlinks.json) |
-| [October 9 at 2:00 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-09T14:00:00.124976+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 179 accessibility trees with the Internet Archive.
+The archiving routine has saved 180 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 2:06 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T14:05:35.894489+01:00.accessibility.json) |
 | [October 14 at 2:18 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T02:18:01.875128+01:00.accessibility.json) |
 | [October 13 at 1:56 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-13T13:56:23.802389+01:00.accessibility.json) |
 | [October 13 at 2:18 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-13T02:17:57.754985+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 2:23 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-11T02:23:32.559435+01:00.accessibility.json) |
 | [October 10 at 2:18 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-10T14:18:29.409578+01:00.accessibility.json) |
 | [October 10 at 2:27 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-10T02:26:58.334552+01:00.accessibility.json) |
-| [October 9 at 2:00 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-09T14:00:00.124976+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 2:06 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T14:05:35.894489+01:00.lighthouse.json) |
 | [October 14 at 2:18 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-14T02:18:01.875128+01:00.lighthouse.json) |
 | [October 13 at 1:56 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-13T13:56:23.802389+01:00.lighthouse.json) |
 | [October 13 at 2:18 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-13T02:17:57.754985+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 2:23 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-11T02:23:32.559435+01:00.lighthouse.json) |
 | [October 10 at 2:18 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-10T14:18:29.409578+01:00.lighthouse.json) |
 | [October 10 at 2:27 AM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-10T02:26:58.334552+01:00.lighthouse.json) |
-| [October 9 at 2:00 PM](https://archive.org/download/independent_ie-2022/independent_ie-2022-10-09T14:00:00.124976+01:00.lighthouse.json) |
 
 
 

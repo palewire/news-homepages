@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 170 screenshots with the Internet Archive.
+The archiving routine has saved 171 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 170 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T15:18:23.987847+01:00.jpg">
+  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T15:18:23.987847+01:00.jpg"
+     alt="New Statesman at 2022-10-14 15:18:31+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T15:18:23.987847+01:00.jpg">October 14 at 3:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T10:24:40.796903+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-10-11T03:23:13.294473+01:00.jpg">October 11 at 3:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-10-10T15:20:03.394039+01:00.jpg">
-  <img src="https://archive.org/download/newstatesman-2022/newstatesman-2022-10-10T15:20:03.394039+01:00.jpg"
-     alt="New Statesman at 2022-10-10 15:20:11+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/newstatesman-2022/newstatesman-2022-10-10T15:20:03.394039+01:00.jpg">October 10 at 3:20 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 171 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 3:18 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T15:18:23.987847+01:00.hyperlinks.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T10:24:40.796903+01:00.hyperlinks.json) |
 | [October 14 at 3:18 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T03:18:29.705494+01:00.hyperlinks.json) |
 | [October 13 at 3:11 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-13T15:11:27.021060+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 10:28 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-12T10:28:12.776020+01:00.hyperlinks.json) |
 | [October 12 at 3:34 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-12T03:34:45.190767+01:00.hyperlinks.json) |
 | [October 11 at 4:03 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-11T16:03:15.524270+01:00.hyperlinks.json) |
-| [October 11 at 10:22 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-11T10:22:19.849261+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 170 accessibility trees with the Internet Archive.
+The archiving routine has saved 171 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 3:18 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T15:18:23.987847+01:00.accessibility.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T10:24:40.796903+01:00.accessibility.json) |
 | [October 14 at 3:18 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T03:18:29.705494+01:00.accessibility.json) |
 | [October 13 at 3:11 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-13T15:11:27.021060+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 10:28 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-12T10:28:12.776020+01:00.accessibility.json) |
 | [October 12 at 3:34 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-12T03:34:45.190767+01:00.accessibility.json) |
 | [October 11 at 4:03 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-11T16:03:15.524270+01:00.accessibility.json) |
-| [October 11 at 10:22 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-11T10:22:19.849261+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 3:18 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T15:18:23.987847+01:00.lighthouse.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T10:24:40.796903+01:00.lighthouse.json) |
 | [October 14 at 3:18 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-14T03:18:29.705494+01:00.lighthouse.json) |
 | [October 13 at 3:12 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-13T15:11:27.021060+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 10:28 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-12T10:28:12.776020+01:00.lighthouse.json) |
 | [October 12 at 3:34 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-12T03:34:45.190767+01:00.lighthouse.json) |
 | [October 11 at 4:03 PM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-11T16:03:15.524270+01:00.lighthouse.json) |
-| [October 11 at 10:22 AM](https://archive.org/download/newstatesman-2022/newstatesman-2022-10-11T10:22:19.849261+01:00.lighthouse.json) |
 
 
 

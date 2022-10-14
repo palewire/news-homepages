@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 201 screenshots with the Internet Archive.
+The archiving routine has saved 202 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 201 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-10-14T08:05:41.213830-05:00.jpg">
+  <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-10-14T08:05:41.213830-05:00.jpg"
+     alt="Houston Chronicle at 2022-10-14 08:05:51-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-10-14T08:05:41.213830-05:00.jpg">October 14 at 8:05 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-10-13T20:17:46.482736-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-10-08T20:15:17.284539-05:00.jpg">October 8 at 8:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-10-08T08:01:10.282223-05:00.jpg">
-  <img src="https://archive.org/download/houstonchron-2022/houstonchron-2022-10-08T08:01:10.282223-05:00.jpg"
-     alt="Houston Chronicle at 2022-10-08 08:01:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/houstonchron-2022/houstonchron-2022-10-08T08:01:10.282223-05:00.jpg">October 8 at 8:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 200 hyperlink lists with the Internet Archive.
+The archiving routine has saved 201 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 8:05 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-14T08:05:41.213830-05:00.hyperlinks.json) |
 | [October 13 at 8:17 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-13T20:17:46.482736-05:00.hyperlinks.json) |
 | [October 13 at 7:56 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-13T07:56:44.665573-05:00.hyperlinks.json) |
 | [October 12 at 8:17 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-12T20:17:05.234476-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 8:23 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-10T20:23:40.252363-05:00.hyperlinks.json) |
 | [October 10 at 8:17 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-10T08:17:47.506811-05:00.hyperlinks.json) |
 | [October 9 at 8:26 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-09T20:26:41.455959-05:00.hyperlinks.json) |
-| [October 9 at 8:02 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-09T08:01:55.517040-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 204 accessibility trees with the Internet Archive.
+The archiving routine has saved 205 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 8:05 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-14T08:05:41.213830-05:00.accessibility.json) |
 | [October 13 at 8:17 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-13T20:17:46.482736-05:00.accessibility.json) |
 | [October 13 at 7:56 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-13T07:56:44.665573-05:00.accessibility.json) |
 | [October 12 at 8:17 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-12T20:17:05.234476-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 8:23 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-10T20:23:40.252363-05:00.accessibility.json) |
 | [October 10 at 8:17 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-10T08:17:47.506811-05:00.accessibility.json) |
 | [October 9 at 8:26 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-09T20:26:41.455959-05:00.accessibility.json) |
-| [October 9 at 8:02 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-09T08:01:55.517040-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 8:05 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-14T08:05:41.213830-05:00.lighthouse.json) |
 | [October 13 at 8:17 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-13T20:17:46.482736-05:00.lighthouse.json) |
 | [October 13 at 7:56 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-13T07:56:44.665573-05:00.lighthouse.json) |
 | [October 12 at 8:17 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-12T20:17:05.234476-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 8:23 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-10T20:23:40.252363-05:00.lighthouse.json) |
 | [October 9 at 8:26 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-09T20:26:41.455959-05:00.lighthouse.json) |
 | [October 9 at 8:02 AM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-09T08:01:55.517040-05:00.lighthouse.json) |
-| [October 8 at 8:15 PM](https://archive.org/download/houstonchron-2022/houstonchron-2022-10-08T20:15:17.284539-05:00.lighthouse.json) |
 
 
 

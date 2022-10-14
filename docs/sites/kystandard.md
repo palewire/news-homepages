@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 151 screenshots with the Internet Archive.
+The archiving routine has saved 152 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 151 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kystandard-2022/kystandard-2022-10-14T09:08:34.899412-04:00.jpg">
+  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-10-14T09:08:34.899412-04:00.jpg"
+     alt="Kentucky Standard at 2022-10-14 09:08:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-10-14T09:08:34.899412-04:00.jpg">October 14 at 9:08 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kystandard-2022/kystandard-2022-10-13T21:20:32.004264-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-10-08T21:17:18.497719-04:00.jpg">October 8 at 9:17 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kystandard-2022/kystandard-2022-10-08T09:04:19.611328-04:00.jpg">
-  <img src="https://archive.org/download/kystandard-2022/kystandard-2022-10-08T09:04:19.611328-04:00.jpg"
-     alt="Kentucky Standard at 2022-10-08 09:04:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kystandard-2022/kystandard-2022-10-08T09:04:19.611328-04:00.jpg">October 8 at 9:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 150 hyperlink lists with the Internet Archive.
+The archiving routine has saved 151 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 9:08 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-14T09:08:34.899412-04:00.hyperlinks.json) |
 | [October 13 at 9:20 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-13T21:20:32.004264-04:00.hyperlinks.json) |
 | [October 13 at 8:58 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-13T08:58:09.170193-04:00.hyperlinks.json) |
 | [October 12 at 9:19 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-12T21:19:36.736204-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 9:29 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-10T21:28:48.130965-04:00.hyperlinks.json) |
 | [October 10 at 9:23 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-10T09:23:53.433751-04:00.hyperlinks.json) |
 | [October 9 at 9:30 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-09T21:29:55.678386-04:00.hyperlinks.json) |
-| [October 9 at 9:04 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-09T09:04:26.886772-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 151 accessibility trees with the Internet Archive.
+The archiving routine has saved 152 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 9:08 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-14T09:08:34.899412-04:00.accessibility.json) |
 | [October 13 at 9:20 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-13T21:20:32.004264-04:00.accessibility.json) |
 | [October 13 at 8:58 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-13T08:58:09.170193-04:00.accessibility.json) |
 | [October 12 at 9:19 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-12T21:19:36.736204-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 9:29 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-10T21:28:48.130965-04:00.accessibility.json) |
 | [October 10 at 9:23 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-10T09:23:53.433751-04:00.accessibility.json) |
 | [October 9 at 9:29 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-09T21:29:55.678386-04:00.accessibility.json) |
-| [October 9 at 9:04 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-09T09:04:26.886772-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 151 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 152 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 9:08 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-14T09:08:34.899412-04:00.lighthouse.json) |
 | [October 13 at 9:20 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-13T21:20:32.004264-04:00.lighthouse.json) |
 | [October 13 at 8:58 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-13T08:58:09.170193-04:00.lighthouse.json) |
 | [October 12 at 9:19 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-12T21:19:36.736204-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 9:29 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-10T21:28:48.130965-04:00.lighthouse.json) |
 | [October 10 at 9:23 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-10T09:23:53.433751-04:00.lighthouse.json) |
 | [October 9 at 9:30 PM](https://archive.org/download/kystandard-2022/kystandard-2022-10-09T21:29:55.678386-04:00.lighthouse.json) |
-| [October 9 at 9:04 AM](https://archive.org/download/kystandard-2022/kystandard-2022-10-09T09:04:26.886772-04:00.lighthouse.json) |
 
 
 

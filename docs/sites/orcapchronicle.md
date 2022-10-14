@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 204 screenshots with the Internet Archive.
+The archiving routine has saved 205 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 204 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-14T07:21:28.271935-07:00.jpg">
+  <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-14T07:21:28.271935-07:00.jpg"
+     alt="Oregon Capital Chronicle at 2022-10-14 07:21:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-14T07:21:28.271935-07:00.jpg">October 14 at 7:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-13T19:21:35.543895-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-08T19:31:45.150475-07:00.jpg">October 8 at 7:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-08T07:15:23.151557-07:00.jpg">
-  <img src="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-08T07:15:23.151557-07:00.jpg"
-     alt="Oregon Capital Chronicle at 2022-10-08 07:15:28-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-08T07:15:23.151557-07:00.jpg">October 8 at 7:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 204 hyperlink lists with the Internet Archive.
+The archiving routine has saved 205 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 7:21 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-14T07:21:28.271935-07:00.hyperlinks.json) |
 | [October 13 at 7:21 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-13T19:21:35.543895-07:00.hyperlinks.json) |
 | [October 13 at 7:14 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-13T07:13:53.195099-07:00.hyperlinks.json) |
 | [October 12 at 7:19 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-12T19:19:24.082329-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 7:26 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-10T19:25:54.789606-07:00.hyperlinks.json) |
 | [October 10 at 7:27 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-10T07:26:53.043673-07:00.hyperlinks.json) |
 | [October 9 at 7:37 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-09T19:36:59.884011-07:00.hyperlinks.json) |
-| [October 9 at 7:01 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-09T07:01:42.881587-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 204 accessibility trees with the Internet Archive.
+The archiving routine has saved 205 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 7:21 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-14T07:21:28.271935-07:00.accessibility.json) |
 | [October 13 at 7:21 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-13T19:21:35.543895-07:00.accessibility.json) |
 | [October 13 at 7:14 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-13T07:13:53.195099-07:00.accessibility.json) |
 | [October 12 at 7:19 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-12T19:19:24.082329-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 7:26 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-10T19:25:54.789606-07:00.accessibility.json) |
 | [October 10 at 7:27 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-10T07:26:53.043673-07:00.accessibility.json) |
 | [October 9 at 7:37 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-09T19:36:59.884011-07:00.accessibility.json) |
-| [October 9 at 7:01 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-09T07:01:42.881587-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 7:21 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-14T07:21:28.271935-07:00.lighthouse.json) |
 | [October 13 at 7:21 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-13T19:21:35.543895-07:00.lighthouse.json) |
 | [October 13 at 7:14 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-13T07:13:53.195099-07:00.lighthouse.json) |
 | [October 12 at 7:19 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-12T19:19:24.082329-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 7:26 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-10T19:25:54.789606-07:00.lighthouse.json) |
 | [October 10 at 7:27 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-10T07:26:53.043673-07:00.lighthouse.json) |
 | [October 9 at 7:37 PM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-09T19:36:59.884011-07:00.lighthouse.json) |
-| [October 9 at 7:01 AM](https://archive.org/download/orcapchronicle-2022/orcapchronicle-2022-10-09T07:01:42.881587-07:00.lighthouse.json) |
 
 
 

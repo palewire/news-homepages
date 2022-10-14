@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 47 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-14T09:21:33.694243-05:00.jpg">
+  <img src="https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-14T09:21:33.694243-05:00.jpg"
+     alt="Watertown Public Opinion at 2022-10-14 09:21:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-14T09:21:33.694243-05:00.jpg">October 14 at 9:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-13T21:22:28.808913-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-08T21:34:35.624373-05:00.jpg">October 8 at 9:34 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-08T09:15:03.977164-05:00.jpg">
-  <img src="https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-08T09:15:03.977164-05:00.jpg"
-     alt="Watertown Public Opinion at 2022-10-08 09:15:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-08T09:15:03.977164-05:00.jpg">October 8 at 9:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 9:21 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-14T09:21:33.694243-05:00.hyperlinks.json) |
 | [October 13 at 9:22 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-13T21:22:28.808913-05:00.hyperlinks.json) |
 | [October 13 at 9:14 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-13T09:14:05.789300-05:00.hyperlinks.json) |
 | [October 12 at 9:19 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-12T21:19:23.206797-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 9:25 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-10T21:25:16.178893-05:00.hyperlinks.json) |
 | [October 10 at 9:26 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-10T09:26:42.298840-05:00.hyperlinks.json) |
 | [October 9 at 9:37 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-09T21:37:02.033566-05:00.hyperlinks.json) |
-| [October 9 at 9:01 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-09T09:01:21.145605-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 9:21 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-14T09:21:33.694243-05:00.accessibility.json) |
 | [October 13 at 9:22 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-13T21:22:28.808913-05:00.accessibility.json) |
 | [October 13 at 9:14 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-13T09:14:05.789300-05:00.accessibility.json) |
 | [October 12 at 9:19 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-12T21:19:23.206797-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 9:25 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-10T21:25:16.178893-05:00.accessibility.json) |
 | [October 10 at 9:26 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-10T09:26:42.298840-05:00.accessibility.json) |
 | [October 9 at 9:37 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-09T21:37:02.033566-05:00.accessibility.json) |
-| [October 9 at 9:01 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-09T09:01:21.145605-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 9:21 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-14T09:21:33.694243-05:00.lighthouse.json) |
 | [October 13 at 9:22 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-13T21:22:28.808913-05:00.lighthouse.json) |
 | [October 13 at 9:14 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-13T09:14:05.789300-05:00.lighthouse.json) |
 | [October 12 at 9:19 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-12T21:19:23.206797-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 9:25 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-10T21:25:16.178893-05:00.lighthouse.json) |
 | [October 10 at 9:26 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-10T09:26:42.298840-05:00.lighthouse.json) |
 | [October 9 at 9:37 PM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-09T21:37:02.033566-05:00.lighthouse.json) |
-| [October 9 at 9:01 AM](https://archive.org/download/publicopinionsd-2022/publicopinionsd-2022-10-09T09:01:21.145605-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 195 screenshots with the Internet Archive.
+The archiving routine has saved 196 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 195 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-14T08:03:34.762462-04:00.jpg">
+  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-14T08:03:34.762462-04:00.jpg"
+     alt="Florida Bulldog at 2022-10-14 08:03:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-14T08:03:34.762462-04:00.jpg">October 14 at 8:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-13T19:59:22.034132-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-08T20:04:40.518337-04:00.jpg">October 8 at 8:04 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-08T07:56:45.563256-04:00.jpg">
-  <img src="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-08T07:56:45.563256-04:00.jpg"
-     alt="Florida Bulldog at 2022-10-08 07:57:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-08T07:56:45.563256-04:00.jpg">October 8 at 7:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 196 hyperlink lists with the Internet Archive.
+The archiving routine has saved 197 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 8:03 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-14T08:03:34.762462-04:00.hyperlinks.json) |
 | [October 13 at 7:59 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-13T19:59:22.034132-04:00.hyperlinks.json) |
 | [October 13 at 7:52 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-13T07:51:57.451511-04:00.hyperlinks.json) |
 | [October 12 at 7:54 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-12T19:53:55.177386-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 8:07 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-10T20:07:41.621234-04:00.hyperlinks.json) |
 | [October 10 at 8:29 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-10T08:28:57.369821-04:00.hyperlinks.json) |
 | [October 9 at 7:46 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-09T19:46:26.986569-04:00.hyperlinks.json) |
-| [October 9 at 8:03 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-09T08:03:43.104896-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 196 accessibility trees with the Internet Archive.
+The archiving routine has saved 197 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 8:03 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-14T08:03:34.762462-04:00.accessibility.json) |
 | [October 13 at 7:59 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-13T19:59:22.034132-04:00.accessibility.json) |
 | [October 13 at 7:52 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-13T07:51:57.451511-04:00.accessibility.json) |
 | [October 12 at 7:54 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-12T19:53:55.177386-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 8:07 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-10T20:07:41.621234-04:00.accessibility.json) |
 | [October 10 at 8:29 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-10T08:28:57.369821-04:00.accessibility.json) |
 | [October 9 at 7:46 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-09T19:46:26.986569-04:00.accessibility.json) |
-| [October 9 at 8:03 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-09T08:03:43.104896-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 8:03 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-14T08:03:34.762462-04:00.lighthouse.json) |
 | [October 13 at 7:59 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-13T19:59:22.034132-04:00.lighthouse.json) |
 | [October 13 at 7:52 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-13T07:51:57.451511-04:00.lighthouse.json) |
 | [October 12 at 7:54 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-12T19:53:55.177386-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 8:07 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-10T20:07:41.621234-04:00.lighthouse.json) |
 | [October 10 at 8:29 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-10T08:28:57.369821-04:00.lighthouse.json) |
 | [October 9 at 7:46 PM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-09T19:46:26.986569-04:00.lighthouse.json) |
-| [October 9 at 8:03 AM](https://archive.org/download/florida_bulldog-2022/florida_bulldog-2022-10-09T08:03:43.104896-04:00.lighthouse.json) |
 
 
 

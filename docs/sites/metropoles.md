@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 195 screenshots with the Internet Archive.
+The archiving routine has saved 197 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-14T10:11:26.203517-03:00.jpg">
+  <img src="https://archive.org/download/metropoles-2022/metropoles-2022-10-14T10:11:26.203517-03:00.jpg"
+     alt="Metrópoles at 2022-10-14 10:11:28-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-14T10:11:26.203517-03:00.jpg">October 14 at 10:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-14T09:11:59.672778-03:00.jpg">
+  <img src="https://archive.org/download/metropoles-2022/metropoles-2022-10-14T09:11:59.672778-03:00.jpg"
+     alt="Metrópoles at 2022-10-14 09:12:22-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-14T09:11:59.672778-03:00.jpg">October 14 at 9:12 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-13T22:23:04.803166-03:00.jpg">
   <img src="https://archive.org/download/metropoles-2022/metropoles-2022-10-13T22:23:04.803166-03:00.jpg"
      alt="Metrópoles at 2022-10-13 22:23:12-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-10T22:29:25.227073-03:00.jpg">October 10 at 10:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-10T10:24:51.655135-03:00.jpg">
-  <img src="https://archive.org/download/metropoles-2022/metropoles-2022-10-10T10:24:51.655135-03:00.jpg"
-     alt="Metrópoles at 2022-10-10 10:24:52-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-10T10:24:51.655135-03:00.jpg">October 10 at 10:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-10T09:14:50.758825-03:00.jpg">
-  <img src="https://archive.org/download/metropoles-2022/metropoles-2022-10-10T09:14:50.758825-03:00.jpg"
-     alt="Metrópoles at 2022-10-10 09:14:57-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/metropoles-2022/metropoles-2022-10-10T09:14:50.758825-03:00.jpg">October 10 at 9:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 190 hyperlink lists with the Internet Archive.
+The archiving routine has saved 192 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 10:11 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-14T10:11:26.203517-03:00.hyperlinks.json) |
+| [October 14 at 9:12 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-14T09:11:59.672778-03:00.hyperlinks.json) |
 | [October 13 at 10:23 PM](https://archive.org/download/metropoles-2022/metropoles-2022-10-13T22:23:04.803166-03:00.hyperlinks.json) |
 | [October 13 at 10:00 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-13T10:00:26.500534-03:00.hyperlinks.json) |
 | [October 13 at 8:54 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-13T08:54:25.036014-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 9:07 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-12T09:06:51.439627-03:00.hyperlinks.json) |
 | [October 11 at 10:39 PM](https://archive.org/download/metropoles-2022/metropoles-2022-10-11T22:39:13.099528-03:00.hyperlinks.json) |
 | [October 11 at 10:09 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-11T10:09:38.080785-03:00.hyperlinks.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-11T09:10:17.346969-03:00.hyperlinks.json) |
-| [October 10 at 10:29 PM](https://archive.org/download/metropoles-2022/metropoles-2022-10-10T22:29:25.227073-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 192 accessibility trees with the Internet Archive.
+The archiving routine has saved 194 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 10:11 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-14T10:11:26.203517-03:00.accessibility.json) |
+| [October 14 at 9:12 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-14T09:11:59.672778-03:00.accessibility.json) |
 | [October 13 at 10:23 PM](https://archive.org/download/metropoles-2022/metropoles-2022-10-13T22:23:04.803166-03:00.accessibility.json) |
 | [October 13 at 10:00 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-13T10:00:26.500534-03:00.accessibility.json) |
 | [October 13 at 8:54 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-13T08:54:25.036014-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 9:07 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-12T09:06:51.439627-03:00.accessibility.json) |
 | [October 11 at 10:39 PM](https://archive.org/download/metropoles-2022/metropoles-2022-10-11T22:39:13.099528-03:00.accessibility.json) |
 | [October 11 at 10:09 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-11T10:09:38.080785-03:00.accessibility.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-11T09:10:17.346969-03:00.accessibility.json) |
-| [October 10 at 10:29 PM](https://archive.org/download/metropoles-2022/metropoles-2022-10-10T22:29:25.227073-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 196 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 198 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 10:11 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-14T10:11:26.203517-03:00.lighthouse.json) |
+| [October 14 at 9:12 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-14T09:11:59.672778-03:00.lighthouse.json) |
 | [October 13 at 10:23 PM](https://archive.org/download/metropoles-2022/metropoles-2022-10-13T22:23:04.803166-03:00.lighthouse.json) |
 | [October 13 at 10:00 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-13T10:00:26.500534-03:00.lighthouse.json) |
 | [October 13 at 8:54 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-13T08:54:25.036014-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 9:07 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-12T09:06:51.439627-03:00.lighthouse.json) |
 | [October 11 at 10:39 PM](https://archive.org/download/metropoles-2022/metropoles-2022-10-11T22:39:13.099528-03:00.lighthouse.json) |
 | [October 11 at 10:09 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-11T10:09:38.080785-03:00.lighthouse.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/metropoles-2022/metropoles-2022-10-11T09:10:17.346969-03:00.lighthouse.json) |
-| [October 10 at 10:29 PM](https://archive.org/download/metropoles-2022/metropoles-2022-10-10T22:29:25.227073-03:00.lighthouse.json) |
 
 
 

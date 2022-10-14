@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 490 screenshots with the Internet Archive.
+The archiving routine has saved 491 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 490 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ktla-2022/ktla-2022-10-14T06:08:38.075769-07:00.jpg">
+  <img src="https://archive.org/download/ktla-2022/ktla-2022-10-14T06:08:38.075769-07:00.jpg"
+     alt="KTLA at 2022-10-14 06:09:09-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ktla-2022/ktla-2022-10-14T06:08:38.075769-07:00.jpg">October 14 at 6:09 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ktla-2022/ktla-2022-10-13T18:20:45.176082-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ktla-2022/ktla-2022-10-10T13:30:33.239707-07:00.jpg">October 10 at 1:31 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ktla-2022/ktla-2022-10-10T06:21:32.389038-07:00.jpg">
-  <img src="https://archive.org/download/ktla-2022/ktla-2022-10-10T06:21:32.389038-07:00.jpg"
-     alt="KTLA at 2022-10-10 06:21:34-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ktla-2022/ktla-2022-10-10T06:21:32.389038-07:00.jpg">October 10 at 6:21 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 486 hyperlink lists with the Internet Archive.
+The archiving routine has saved 487 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 6:09 AM](https://archive.org/download/ktla-2022/ktla-2022-10-14T06:08:38.075769-07:00.hyperlinks.json) |
 | [October 13 at 6:20 PM](https://archive.org/download/ktla-2022/ktla-2022-10-13T18:20:45.176082-07:00.hyperlinks.json) |
 | [October 13 at 1:26 PM](https://archive.org/download/ktla-2022/ktla-2022-10-13T13:25:18.502062-07:00.hyperlinks.json) |
 | [October 13 at 5:58 AM](https://archive.org/download/ktla-2022/ktla-2022-10-13T05:58:23.888288-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 6:37 PM](https://archive.org/download/ktla-2022/ktla-2022-10-11T18:36:46.012724-07:00.hyperlinks.json) |
 | [October 11 at 12:55 PM](https://archive.org/download/ktla-2022/ktla-2022-10-11T12:55:04.735140-07:00.hyperlinks.json) |
 | [October 11 at 6:07 AM](https://archive.org/download/ktla-2022/ktla-2022-10-11T06:07:35.309395-07:00.hyperlinks.json) |
-| [October 10 at 6:26 PM](https://archive.org/download/ktla-2022/ktla-2022-10-10T18:26:36.864065-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 487 accessibility trees with the Internet Archive.
+The archiving routine has saved 488 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 6:09 AM](https://archive.org/download/ktla-2022/ktla-2022-10-14T06:08:38.075769-07:00.accessibility.json) |
 | [October 13 at 6:20 PM](https://archive.org/download/ktla-2022/ktla-2022-10-13T18:20:45.176082-07:00.accessibility.json) |
 | [October 13 at 1:25 PM](https://archive.org/download/ktla-2022/ktla-2022-10-13T13:25:18.502062-07:00.accessibility.json) |
 | [October 13 at 5:58 AM](https://archive.org/download/ktla-2022/ktla-2022-10-13T05:58:23.888288-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 6:37 PM](https://archive.org/download/ktla-2022/ktla-2022-10-11T18:36:46.012724-07:00.accessibility.json) |
 | [October 11 at 12:55 PM](https://archive.org/download/ktla-2022/ktla-2022-10-11T12:55:04.735140-07:00.accessibility.json) |
 | [October 11 at 6:07 AM](https://archive.org/download/ktla-2022/ktla-2022-10-11T06:07:35.309395-07:00.accessibility.json) |
-| [October 10 at 6:26 PM](https://archive.org/download/ktla-2022/ktla-2022-10-10T18:26:36.864065-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 238 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 239 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 6:09 AM](https://archive.org/download/ktla-2022/ktla-2022-10-14T06:08:38.075769-07:00.lighthouse.json) |
 | [October 13 at 6:20 PM](https://archive.org/download/ktla-2022/ktla-2022-10-13T18:20:45.176082-07:00.lighthouse.json) |
 | [October 13 at 1:26 PM](https://archive.org/download/ktla-2022/ktla-2022-10-13T13:25:18.502062-07:00.lighthouse.json) |
 | [October 13 at 5:58 AM](https://archive.org/download/ktla-2022/ktla-2022-10-13T05:58:23.888288-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 6:37 PM](https://archive.org/download/ktla-2022/ktla-2022-10-11T18:36:46.012724-07:00.lighthouse.json) |
 | [October 11 at 12:55 PM](https://archive.org/download/ktla-2022/ktla-2022-10-11T12:55:04.735140-07:00.lighthouse.json) |
 | [October 11 at 6:07 AM](https://archive.org/download/ktla-2022/ktla-2022-10-11T06:07:35.309395-07:00.lighthouse.json) |
-| [October 10 at 6:26 PM](https://archive.org/download/ktla-2022/ktla-2022-10-10T18:26:36.864065-07:00.lighthouse.json) |
 
 
 
