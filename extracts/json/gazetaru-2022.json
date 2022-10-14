@@ -1,6 +1,6 @@
 {
-  "conflict": 1665734483,
-  "created": 1665734483,
+  "conflict": 1665734695,
+  "created": 1665734695,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/15/items/gazetaru-2022",
@@ -15657,31 +15657,88 @@
       "sha1": "271269df70e51879d723d4aac3bf2cf6f0c00e92"
     },
     {
+      "name": "gazetaru-2022-10-14T10:56:17.710030+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665734182",
+      "size": "51582",
+      "md5": "63374303be99ce9b72bf318377da374c",
+      "crc32": "cb3aebd8",
+      "sha1": "b538f44ec5a8eea38589e491ed033a28c9a0a990",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-10-14T10:56:17.710030+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665734184",
+      "size": "61161",
+      "md5": "6ec065ad197d8b840bbfc72d9d36d318",
+      "crc32": "116d0e2f",
+      "sha1": "45449056eff43245bc1a396d7dfc16555342a34e",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-10-14T10:56:17.710030+03:00.jpg",
+      "source": "original",
+      "mtime": "1665734179",
+      "size": "225868",
+      "md5": "26aa2d2c8f05853ce45debc40f137a36",
+      "crc32": "07cfef43",
+      "sha1": "b6f5f7d3459b844b3d8e642615d17259209dcb90",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetaru-2022-10-14T10:56:17.710030+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665734186",
+      "size": "1422",
+      "md5": "110d46891e3caa79bca38174cb163aef",
+      "crc32": "3c951c8e",
+      "sha1": "040a4d1c3f65d6a1d1e56001a6d6d370bc27427a",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-10-14T10:56:17.710030+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665734188",
+      "size": "229",
+      "md5": "89875815d64b1ee19f2f1b6732b6f313",
+      "crc32": "ccdc6dd9",
+      "sha1": "0bd55a5681b4531ce3989436bbba9c6875a8409e",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-10-14T10:56:17.710030+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetaru-2022-10-14T10:56:17.710030+03:00.jpg"
+    },
+    {
       "name": "gazetaru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33547e92f8e0f21b52536138729afd2de87d5938",
-      "mtime": "1665729816",
-      "size": "319829",
-      "md5": "c60c535d283543949f1328840c2d5528",
-      "crc32": "917bd3ce",
-      "sha1": "3e14684e5c04994f67e3bca65d885612c441672c",
+      "btih": "ccab855576e232aebb0af25aa01bbd9e540d1999",
+      "mtime": "1665734626",
+      "size": "320890",
+      "md5": "f0885b51bc5885d5457bf3ed3be1f711",
+      "crc32": "4aa05df2",
+      "sha1": "91278eef2272373b012c738615ce38e351bef1d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetaru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61b59f9edeed1cfac187c7c8cf93923f",
+      "md5": "4fdafad151d07854e81c053cc36cc081",
       "summation": "md5"
     },
     {
       "name": "gazetaru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665729685",
-      "size": "1908736",
-      "md5": "69083e87cb41a02b04a69e97345c2ab7",
-      "crc32": "5e053dd7",
-      "sha1": "532611575372bced990af8ff6fb7b30c09c44481",
+      "mtime": "1665734499",
+      "size": "1912832",
+      "md5": "9ac66ff52993aefbfb9c35a600ed2633",
+      "crc32": "c17774bc",
+      "sha1": "0d912fdf04e8d06d40ccf2e043848eab9130552e",
       "format": "Metadata"
     },
     {
@@ -15695,9 +15752,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1516,
-  "item_last_updated": 1665729816,
-  "item_size": 115437589,
+  "files_count": 1522,
+  "item_last_updated": 1665734626,
+  "item_size": 115783008,
   "metadata": {
     "identifier": "gazetaru-2022",
     "collection": [
@@ -15719,15 +15776,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3439436556,
-      "cmd": "archive.php",
-      "priority": -5,
+      "task_id": 3439445736,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1265212306,
+  "uniq": 523121971,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]
