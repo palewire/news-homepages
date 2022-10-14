@@ -1,5 +1,5 @@
 {
-  "created": 1665714081,
+  "created": 1665760584,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/2/items/nhk_news-2022",
@@ -14154,31 +14154,83 @@
       "sha1": "c60bc40f1ae7de3a4fdd7ce5de811c4d271c3704"
     },
     {
+      "name": "nhk_news-2022-10-14T23:18:25.381869+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665757127",
+      "size": "16233",
+      "md5": "c8a5ada35ab1cb8208776f4ca8907a07",
+      "crc32": "99cd2373",
+      "sha1": "e6175ed6c7f550431bcf2de80dbae301a96c82d9",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-14T23:18:25.381869+09:00.jpg",
+      "source": "original",
+      "mtime": "1665757125",
+      "size": "270066",
+      "md5": "85f48ded840b5af17e85d8e36a274803",
+      "crc32": "be5ceff2",
+      "sha1": "613ee6942e506448d9df315865ed933d1d5d2987",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhk_news-2022-10-14T23:18:25.381869+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665757129",
+      "size": "1503",
+      "md5": "6a0032893dbf9fe8863ee2dc7938947b",
+      "crc32": "903a37f0",
+      "sha1": "99bca458e795ebe8395a2d8208aed6915dc263db",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-14T23:18:25.381869+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1665757131",
+      "size": "235",
+      "md5": "223ed5cf147703bcdacc1a26da96abf9",
+      "crc32": "8e54644b",
+      "sha1": "7c2fe5d4ad945b17b2f7d54cb68ba3e3db0e7a99",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-14T23:18:25.381869+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhk_news-2022-10-14T23:18:25.381869+09:00.jpg",
+      "mtime": "1665757206",
+      "size": "9321",
+      "md5": "848d3ccea05d16e29766b2631846e90d",
+      "crc32": "634539f6",
+      "sha1": "ab11385107a726928db8c19fea2aa8a45fd291e7"
+    },
+    {
       "name": "nhk_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "290d0174796a09198dccf0942a51e262239b07e4",
-      "mtime": "1665714066",
-      "size": "285168",
-      "md5": "5f2e6e6e0dc9e73b772cf2695ad16d73",
-      "crc32": "7bc4fb09",
-      "sha1": "cf9eed175aec9eb8f3aa2581ef2d92af719380b4",
+      "btih": "b45f66f5c2c58a8b6fe6533257e65cd91e6fd559",
+      "mtime": "1665757235",
+      "size": "286219",
+      "md5": "c481296f71dc5b807baab9c83f71201a",
+      "crc32": "763b0241",
+      "sha1": "f51f1cdf4bc4a53395653ef8e51860f3f990daf0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhk_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf7437edc2f579bd02bfea31e5bb5b1d",
+      "md5": "9838927622d29e474f7c9cf70c68fcac",
       "summation": "md5"
     },
     {
       "name": "nhk_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665713950",
-      "size": "1634304",
-      "md5": "0e8ed673cbb32400e5eb6ba97a018add",
-      "crc32": "c2c4e0b4",
-      "sha1": "d25a3b125c1f32be24144f7ca5419dff4eaa94b9",
+      "mtime": "1665757136",
+      "size": "1638400",
+      "md5": "87f0f19ca3a8e269e66eca9e72785b17",
+      "crc32": "0487459b",
+      "sha1": "9a54f43209d87108ebb72a3e22aea9f84030aee4",
       "format": "Metadata"
     },
     {
@@ -14192,9 +14244,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1361,
-  "item_last_updated": 1665714066,
-  "item_size": 93580863,
+  "files_count": 1366,
+  "item_last_updated": 1665757235,
+  "item_size": 93883368,
   "metadata": {
     "identifier": "nhk_news-2022",
     "collection": [
@@ -14211,10 +14263,15 @@
     "publicdate": "2022-07-09 02:39:07",
     "addeddate": "2022-07-09 02:39:07"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 708779557,
+  "nhk_news-2022": {
+    "url": "https://www3.nhk.or.jp/news/",
+    "job_id": "spn2-096353eb8d871898e51e8e13d323c92876d0d0c8",
+    "message": "The same snapshot had been made 23 minutes, 31 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "server": "ia902506.us.archive.org",
+  "uniq": 723630989,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }
