@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 441 screenshots with the Internet Archive.
+The archiving routine has saved 443 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-10-14T10:25:33.773913+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-10-14T10:25:33.773913+02:00.jpg"
+     alt="Libération at 2022-10-14 10:25:35+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-10-14T10:25:33.773913+02:00.jpg">October 14 at 10:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/libe-2022/libe-2022-10-14T08:27:48.083588+02:00.jpg">
+  <img src="https://archive.org/download/libe-2022/libe-2022-10-14T08:27:48.083588+02:00.jpg"
+     alt="Libération at 2022-10-14 08:27:50+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/libe-2022/libe-2022-10-14T08:27:48.083588+02:00.jpg">October 14 at 8:27 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/libe-2022/libe-2022-10-13T19:53:57.220154+02:00.jpg">
   <img src="https://archive.org/download/libe-2022/libe-2022-10-13T19:53:57.220154+02:00.jpg"
      alt="Libération at 2022-10-13 19:54:21+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/libe-2022/libe-2022-10-10T20:08:17.847864+02:00.jpg">October 10 at 8:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-10-10T10:47:23.410248+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-10-10T10:47:23.410248+02:00.jpg"
-     alt="Libération at 2022-10-10 10:47:24+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-10-10T10:47:23.410248+02:00.jpg">October 10 at 10:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/libe-2022/libe-2022-10-10T10:18:34.495723+02:00.jpg">
-  <img src="https://archive.org/download/libe-2022/libe-2022-10-10T10:18:34.495723+02:00.jpg"
-     alt="Libération at 2022-10-10 10:18:47+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/libe-2022/libe-2022-10-10T10:18:34.495723+02:00.jpg">October 10 at 10:18 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 442 hyperlink lists with the Internet Archive.
+The archiving routine has saved 444 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 10:25 AM](https://archive.org/download/libe-2022/libe-2022-10-14T10:25:33.773913+02:00.hyperlinks.json) |
+| [October 14 at 8:27 AM](https://archive.org/download/libe-2022/libe-2022-10-14T08:27:48.083588+02:00.hyperlinks.json) |
 | [October 13 at 7:54 PM](https://archive.org/download/libe-2022/libe-2022-10-13T19:53:57.220154+02:00.hyperlinks.json) |
 | [October 13 at 10:28 AM](https://archive.org/download/libe-2022/libe-2022-10-13T10:28:27.606531+02:00.hyperlinks.json) |
 | [October 13 at 7:56 AM](https://archive.org/download/libe-2022/libe-2022-10-13T07:56:09.913245+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 8:33 AM](https://archive.org/download/libe-2022/libe-2022-10-12T08:32:29.194262+02:00.hyperlinks.json) |
 | [October 11 at 7:45 PM](https://archive.org/download/libe-2022/libe-2022-10-11T19:44:41.011300+02:00.hyperlinks.json) |
 | [October 11 at 10:30 AM](https://archive.org/download/libe-2022/libe-2022-10-11T10:29:56.329171+02:00.hyperlinks.json) |
-| [October 11 at 8:36 AM](https://archive.org/download/libe-2022/libe-2022-10-11T08:36:30.413494+02:00.hyperlinks.json) |
-| [October 10 at 8:08 PM](https://archive.org/download/libe-2022/libe-2022-10-10T20:08:17.847864+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 443 accessibility trees with the Internet Archive.
+The archiving routine has saved 445 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 10:25 AM](https://archive.org/download/libe-2022/libe-2022-10-14T10:25:33.773913+02:00.accessibility.json) |
+| [October 14 at 8:27 AM](https://archive.org/download/libe-2022/libe-2022-10-14T08:27:48.083588+02:00.accessibility.json) |
 | [October 13 at 7:54 PM](https://archive.org/download/libe-2022/libe-2022-10-13T19:53:57.220154+02:00.accessibility.json) |
 | [October 13 at 10:28 AM](https://archive.org/download/libe-2022/libe-2022-10-13T10:28:27.606531+02:00.accessibility.json) |
 | [October 13 at 7:56 AM](https://archive.org/download/libe-2022/libe-2022-10-13T07:56:09.913245+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 8:33 AM](https://archive.org/download/libe-2022/libe-2022-10-12T08:32:29.194262+02:00.accessibility.json) |
 | [October 11 at 7:45 PM](https://archive.org/download/libe-2022/libe-2022-10-11T19:44:41.011300+02:00.accessibility.json) |
 | [October 11 at 10:30 AM](https://archive.org/download/libe-2022/libe-2022-10-11T10:29:56.329171+02:00.accessibility.json) |
-| [October 11 at 8:36 AM](https://archive.org/download/libe-2022/libe-2022-10-11T08:36:30.413494+02:00.accessibility.json) |
-| [October 10 at 8:08 PM](https://archive.org/download/libe-2022/libe-2022-10-10T20:08:17.847864+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 241 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 243 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 10:25 AM](https://archive.org/download/libe-2022/libe-2022-10-14T10:25:33.773913+02:00.lighthouse.json) |
+| [October 14 at 8:27 AM](https://archive.org/download/libe-2022/libe-2022-10-14T08:27:48.083588+02:00.lighthouse.json) |
 | [October 13 at 7:54 PM](https://archive.org/download/libe-2022/libe-2022-10-13T19:53:57.220154+02:00.lighthouse.json) |
 | [October 13 at 10:28 AM](https://archive.org/download/libe-2022/libe-2022-10-13T10:28:27.606531+02:00.lighthouse.json) |
 | [October 13 at 7:56 AM](https://archive.org/download/libe-2022/libe-2022-10-13T07:56:09.913245+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 8:33 AM](https://archive.org/download/libe-2022/libe-2022-10-12T08:32:29.194262+02:00.lighthouse.json) |
 | [October 11 at 7:45 PM](https://archive.org/download/libe-2022/libe-2022-10-11T19:44:41.011300+02:00.lighthouse.json) |
 | [October 11 at 10:30 AM](https://archive.org/download/libe-2022/libe-2022-10-11T10:29:56.329171+02:00.lighthouse.json) |
-| [October 11 at 8:36 AM](https://archive.org/download/libe-2022/libe-2022-10-11T08:36:30.413494+02:00.lighthouse.json) |
-| [October 10 at 8:08 PM](https://archive.org/download/libe-2022/libe-2022-10-10T20:08:17.847864+02:00.lighthouse.json) |
 
 
 

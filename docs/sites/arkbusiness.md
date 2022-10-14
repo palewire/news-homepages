@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 65 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 64 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-14T05:56:48.835269-05:00.jpg">
+  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-14T05:56:48.835269-05:00.jpg"
+     alt="Arkansas Business at 2022-10-14 05:56:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-14T05:56:48.835269-05:00.jpg">October 14 at 5:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-13T18:05:20.026324-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-08T18:04:20.829100-05:00.jpg">October 8 at 6:04 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-08T05:50:09.763049-05:00.jpg">
-  <img src="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-08T05:50:09.763049-05:00.jpg"
-     alt="Arkansas Business at 2022-10-08 05:50:18-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-08T05:50:09.763049-05:00.jpg">October 8 at 5:50 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 63 hyperlink lists with the Internet Archive.
+The archiving routine has saved 64 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 5:56 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-14T05:56:48.835269-05:00.hyperlinks.json) |
 | [October 13 at 6:05 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-13T18:05:20.026324-05:00.hyperlinks.json) |
 | [October 13 at 5:47 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-13T05:47:22.689951-05:00.hyperlinks.json) |
 | [October 12 at 5:55 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-12T17:55:49.720238-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 6:04 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-10T18:04:44.679667-05:00.hyperlinks.json) |
 | [October 10 at 6:03 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-10T06:03:35.104859-05:00.hyperlinks.json) |
 | [October 9 at 5:51 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-09T17:51:02.450342-05:00.hyperlinks.json) |
-| [October 9 at 5:58 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-09T05:58:04.100067-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 64 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 5:56 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-14T05:56:48.835269-05:00.accessibility.json) |
 | [October 13 at 6:05 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-13T18:05:20.026324-05:00.accessibility.json) |
 | [October 13 at 5:47 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-13T05:47:22.689951-05:00.accessibility.json) |
 | [October 12 at 5:55 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-12T17:55:49.720238-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 6:03 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-10T06:03:35.104859-05:00.accessibility.json) |
 | [October 9 at 5:51 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-09T17:51:02.450342-05:00.accessibility.json) |
 | [October 9 at 5:58 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-09T05:58:04.100067-05:00.accessibility.json) |
-| [October 8 at 6:04 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-08T18:04:20.829100-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 5:56 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-14T05:56:48.835269-05:00.lighthouse.json) |
 | [October 13 at 6:05 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-13T18:05:20.026324-05:00.lighthouse.json) |
 | [October 13 at 5:47 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-13T05:47:22.689951-05:00.lighthouse.json) |
 | [October 12 at 5:55 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-12T17:55:49.720238-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 6:04 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-10T18:04:44.679667-05:00.lighthouse.json) |
 | [October 10 at 6:03 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-10T06:03:35.104859-05:00.lighthouse.json) |
 | [October 9 at 5:51 PM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-09T17:51:02.450342-05:00.lighthouse.json) |
-| [October 9 at 5:58 AM](https://archive.org/download/arkbusiness-2022/arkbusiness-2022-10-09T05:58:04.100067-05:00.lighthouse.json) |
 
 
 

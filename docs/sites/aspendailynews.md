@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 108 screenshots with the Internet Archive.
+The archiving routine has saved 109 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 108 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-14T04:56:21.144828-06:00.jpg">
+  <img src="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-14T04:56:21.144828-06:00.jpg"
+     alt="Aspen Daily News at 2022-10-14 04:56:26-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-14T04:56:21.144828-06:00.jpg">October 14 at 4:56 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-13T17:06:01.400609-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-08T17:04:34.876856-06:00.jpg">October 8 at 5:04 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-08T04:51:27.207206-06:00.jpg">
-  <img src="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-08T04:51:27.207206-06:00.jpg"
-     alt="Aspen Daily News at 2022-10-08 04:51:31-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-08T04:51:27.207206-06:00.jpg">October 8 at 4:51 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 108 hyperlink lists with the Internet Archive.
+The archiving routine has saved 109 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 4:56 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-14T04:56:21.144828-06:00.hyperlinks.json) |
 | [October 13 at 5:06 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-13T17:06:01.400609-06:00.hyperlinks.json) |
 | [October 13 at 4:47 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-13T04:46:54.615142-06:00.hyperlinks.json) |
 | [October 12 at 4:55 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-12T16:55:30.861842-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 5:04 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-10T17:04:03.874788-06:00.hyperlinks.json) |
 | [October 10 at 5:03 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-10T05:03:28.475700-06:00.hyperlinks.json) |
 | [October 9 at 4:51 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-09T16:51:14.028312-06:00.hyperlinks.json) |
-| [October 9 at 4:58 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-09T04:57:58.980686-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 107 accessibility trees with the Internet Archive.
+The archiving routine has saved 108 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 4:56 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-14T04:56:21.144828-06:00.accessibility.json) |
 | [October 13 at 5:06 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-13T17:06:01.400609-06:00.accessibility.json) |
 | [October 13 at 4:47 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-13T04:46:54.615142-06:00.accessibility.json) |
 | [October 12 at 4:55 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-12T16:55:30.861842-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 5:04 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-10T17:04:03.874788-06:00.accessibility.json) |
 | [October 10 at 5:03 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-10T05:03:28.475700-06:00.accessibility.json) |
 | [October 9 at 4:51 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-09T16:51:14.028312-06:00.accessibility.json) |
-| [October 9 at 4:58 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-09T04:57:58.980686-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 107 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 108 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 4:56 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-14T04:56:21.144828-06:00.lighthouse.json) |
 | [October 13 at 5:06 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-13T17:06:01.400609-06:00.lighthouse.json) |
 | [October 13 at 4:47 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-13T04:46:54.615142-06:00.lighthouse.json) |
 | [October 12 at 4:55 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-12T16:55:30.861842-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 5:04 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-10T17:04:03.874788-06:00.lighthouse.json) |
 | [October 10 at 5:03 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-10T05:03:28.475700-06:00.lighthouse.json) |
 | [October 9 at 4:51 PM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-09T16:51:14.028312-06:00.lighthouse.json) |
-| [October 9 at 4:58 AM](https://archive.org/download/aspendailynews-2022/aspendailynews-2022-10-09T04:57:58.980686-06:00.lighthouse.json) |
 
 
 

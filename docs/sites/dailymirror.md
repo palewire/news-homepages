@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 299 screenshots with the Internet Archive.
+The archiving routine has saved 300 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 299 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T10:24:37.638003+01:00.jpg">
+  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T10:24:37.638003+01:00.jpg"
+     alt="Daily Mirror at 2022-10-14 10:24:39+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T10:24:37.638003+01:00.jpg">October 14 at 10:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T07:35:28.441022+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-10-10T10:26:13.809288+01:00.jpg">October 10 at 10:26 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-10-10T07:29:24.940080+01:00.jpg">
-  <img src="https://archive.org/download/dailymirror-2022/dailymirror-2022-10-10T07:29:24.940080+01:00.jpg"
-     alt="Daily Mirror at 2022-10-10 07:29:39+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailymirror-2022/dailymirror-2022-10-10T07:29:24.940080+01:00.jpg">October 10 at 7:29 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 297 hyperlink lists with the Internet Archive.
+The archiving routine has saved 298 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 10:24 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T10:24:37.638003+01:00.hyperlinks.json) |
 | [October 14 at 7:35 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T07:35:28.441022+01:00.hyperlinks.json) |
 | [October 13 at 7:49 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-13T19:48:31.224886+01:00.hyperlinks.json) |
 | [October 13 at 10:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-13T10:19:10.877771+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 7:39 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-12T07:38:58.718125+01:00.hyperlinks.json) |
 | [October 11 at 6:55 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-11T18:54:46.163496+01:00.hyperlinks.json) |
 | [October 11 at 10:23 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-11T10:22:56.341284+01:00.hyperlinks.json) |
-| [October 11 at 7:42 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-11T07:42:32.791520+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 300 accessibility trees with the Internet Archive.
+The archiving routine has saved 301 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 10:24 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T10:24:37.638003+01:00.accessibility.json) |
 | [October 14 at 7:35 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T07:35:28.441022+01:00.accessibility.json) |
 | [October 13 at 7:49 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-13T19:48:31.224886+01:00.accessibility.json) |
 | [October 13 at 10:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-13T10:19:10.877771+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 7:39 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-12T07:38:58.718125+01:00.accessibility.json) |
 | [October 11 at 6:55 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-11T18:54:46.163496+01:00.accessibility.json) |
 | [October 11 at 10:23 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-11T10:22:56.341284+01:00.accessibility.json) |
-| [October 11 at 7:42 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-11T07:42:32.791520+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 247 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 248 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 10:24 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T10:24:37.638003+01:00.lighthouse.json) |
 | [October 14 at 7:36 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-14T07:35:28.441022+01:00.lighthouse.json) |
 | [October 13 at 7:49 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-13T19:48:31.224886+01:00.lighthouse.json) |
 | [October 13 at 10:19 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-13T10:19:10.877771+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 7:39 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-12T07:38:58.718125+01:00.lighthouse.json) |
 | [October 11 at 6:55 PM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-11T18:54:46.163496+01:00.lighthouse.json) |
 | [October 11 at 10:23 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-11T10:22:56.341284+01:00.lighthouse.json) |
-| [October 11 at 7:42 AM](https://archive.org/download/dailymirror-2022/dailymirror-2022-10-11T07:42:32.791520+01:00.lighthouse.json) |
 
 
 
