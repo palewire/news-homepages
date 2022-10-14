@@ -1,5 +1,5 @@
 {
-  "created": 1665665879,
+  "created": 1665710365,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/25/items/juneauempire-2022",
@@ -3912,31 +3912,93 @@
       "sha1": "9a46aa0b6eecd7016bddc04804c77fc62fa87182"
     },
     {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665710289",
+      "size": "34398",
+      "md5": "9e7bb6e4affcfaa7cdb91c25b4196687",
+      "crc32": "26754893",
+      "sha1": "f216b34e1a4a0fd451baa643fdbc74ea1926a0be",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665710291",
+      "size": "38195",
+      "md5": "f10bcfe593cb355a53a8341b058cf68c",
+      "crc32": "f55f97fd",
+      "sha1": "6783eb911374b18fdb044e54ef33a9407bd973a9",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.jpg",
+      "source": "original",
+      "mtime": "1665710287",
+      "size": "268635",
+      "md5": "93916b4022de21cec21f5598024775ab",
+      "crc32": "daf39b5b",
+      "sha1": "3017335c6279453fbd23c418e6f4ece743d863ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665710292",
+      "size": "1513",
+      "md5": "0fd27bcbfa374388565353f5e194cb9c",
+      "crc32": "72e62953",
+      "sha1": "d50024e2a930e2ea797b234e160320b278f767d2",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665710294",
+      "size": "34886",
+      "md5": "aa9ed2cc435e26c8296345e735bbdf0f",
+      "crc32": "c67059cd",
+      "sha1": "84b7891dd7c4725df2c0578d0b69fa8a7cd5d9e4",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-13T17:18:01.846240-08:00.jpg",
+      "mtime": "1665710350",
+      "size": "9030",
+      "md5": "6dd9bf08c50a02a6d35e4c75821199b1",
+      "crc32": "20782a5b",
+      "sha1": "526f87936a8d2c496b90266591fb890dabb3625a"
+    },
+    {
       "name": "juneauempire-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89192745fc1aed9db6a56de8e891f869ccaab624",
-      "mtime": "1665665874",
-      "size": "82362",
-      "md5": "817d4d37228f5d11817c7a3f0e7b7eb2",
-      "crc32": "3ad348df",
-      "sha1": "4eafa65464b8e7657b53e874f2da7a37abe0f543",
+      "btih": "e1fd7f4f90883a19d1172f9a22b89aa9da0cbff4",
+      "mtime": "1665710358",
+      "size": "83653",
+      "md5": "0587390039582663e608cc1a4af1a68f",
+      "crc32": "c1564c16",
+      "sha1": "8f5abb7475a51369a7a3a2bb6209352e452bf537",
       "format": "Archive BitTorrent"
     },
     {
       "name": "juneauempire-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7bda3ca2a1d7accda067bba240b1cdb",
+      "md5": "0e57735f6571799ed633b296b5d14da5",
       "summation": "md5"
     },
     {
       "name": "juneauempire-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665665821",
-      "size": "503808",
-      "md5": "e6c5087d9184264321cf8067e0e57629",
-      "crc32": "a3108fc2",
-      "sha1": "a1467846465fa9849663abceadb5f3dcac88d3e4",
+      "mtime": "1665710299",
+      "size": "512000",
+      "md5": "775b7cb96d15c5560584714e465e27b6",
+      "crc32": "852a82d3",
+      "sha1": "2f1d3b098e0bb383aff80e889af3de1c50da6829",
       "format": "Metadata"
     },
     {
@@ -3950,9 +4012,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 382,
-  "item_last_updated": 1665665874,
-  "item_size": 23950518,
+  "files_count": 388,
+  "item_last_updated": 1665710358,
+  "item_size": 24346658,
   "metadata": {
     "identifier": "juneauempire-2022",
     "collection": [
@@ -3970,7 +4032,7 @@
     "addeddate": "2022-09-13 00:00:30"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 2052932759,
+  "uniq": 1953336031,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665666086,
+  "created": 1665710552,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/lagrangenews-2022",
@@ -10300,31 +10300,93 @@
       "sha1": "40262af029caa8fa32931c847918cfab92cc52e9"
     },
     {
+      "name": "lagrangenews-2022-10-13T21:20:13.151054-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665710428",
+      "size": "21639",
+      "md5": "1d1895a7fbea5c3e10b2d8f1d635f6bb",
+      "crc32": "b5c01160",
+      "sha1": "cf7067c70beb082b8fec02564c5763e181e1800c",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-10-13T21:20:13.151054-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665710429",
+      "size": "12841",
+      "md5": "e9ec4ee93ac33b3a837ae7a0f32aa691",
+      "crc32": "6ca72113",
+      "sha1": "fa596998ade4ca317aa14dfe85dfef7dd9be69e5",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-10-13T21:20:13.151054-04:00.jpg",
+      "source": "original",
+      "mtime": "1665710425",
+      "size": "250070",
+      "md5": "e33b751b7abe67132039358d4a1296eb",
+      "crc32": "29413309",
+      "sha1": "e504091790864e36f36cd14c698aafce98d86c37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lagrangenews-2022-10-13T21:20:13.151054-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665710432",
+      "size": "1504",
+      "md5": "d6f75e3902a5337068b78dd355cb12d5",
+      "crc32": "47ed5d3a",
+      "sha1": "bfa0b56758000822c6d07ee054f80a8d0481cbe9",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-10-13T21:20:13.151054-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665710434",
+      "size": "12811",
+      "md5": "1ea9e2a055a7879672d568dc368488c4",
+      "crc32": "6780b530",
+      "sha1": "017b001ccb5fc099f9b7146ad8e2ca37471acb7f",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-10-13T21:20:13.151054-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lagrangenews-2022-10-13T21:20:13.151054-04:00.jpg",
+      "mtime": "1665710515",
+      "size": "8545",
+      "md5": "5537df1262177250eb56a02c4cac4c4d",
+      "crc32": "6a8fc018",
+      "sha1": "485649192dce9c9c21f66a017b8d22720b7c20b7"
+    },
+    {
       "name": "lagrangenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa6f1d773846a3c4ac0bdf1ba5671c9d752ab149",
-      "mtime": "1665666066",
-      "size": "214037",
-      "md5": "aad9c6fbeca8171ad4131652d598248e",
-      "crc32": "50442b42",
-      "sha1": "911c6235353051688d2b4122641d7b34acd51f98",
+      "btih": "e22b5ed55df8965289a522ab40d0f7a5f45f7468",
+      "mtime": "1665710535",
+      "size": "215328",
+      "md5": "bc0a6d68d55245eba6daea64e64f55ab",
+      "crc32": "807a9b93",
+      "sha1": "843b11b06b105855c9bd705fead5c63afc9ee8bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lagrangenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6571d677d9d961b8dd65a2416f695f30",
+      "md5": "d355bc99ac98033665c000636ecd74c8",
       "summation": "md5"
     },
     {
       "name": "lagrangenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665665941",
-      "size": "1273856",
-      "md5": "ff1316490d21f467dc2dd334e8896783",
-      "crc32": "ec053046",
-      "sha1": "3d01eda1555045c8cf21c6b81088d27f92ef6f0c",
+      "mtime": "1665710443",
+      "size": "1282048",
+      "md5": "7a06e7ae0d680c4cdbaefae6b47d8284",
+      "crc32": "bc91e812",
+      "sha1": "27ed5f949283bdbc8fe860bbd979ad8d3de6550f",
       "format": "Metadata"
     },
     {
@@ -10338,9 +10400,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 999,
-  "item_last_updated": 1665666066,
-  "item_size": 52478430,
+  "files_count": 1005,
+  "item_last_updated": 1665710535,
+  "item_size": 52795323,
   "metadata": {
     "identifier": "lagrangenews-2022",
     "collection": [
@@ -10357,10 +10419,10 @@
     "publicdate": "2022-07-20 23:31:04",
     "addeddate": "2022-07-20 23:31:04"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 390707552,
+  "server": "ia801409.us.archive.org",
+  "uniq": 718698062,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

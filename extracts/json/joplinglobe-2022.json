@@ -1,5 +1,5 @@
 {
-  "created": 1665665877,
+  "created": 1665710376,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/joplinglobe-2022",
@@ -10562,31 +10562,93 @@
       "sha1": "4ee90f26b43fe4fc5272dfc062b2590a19883434"
     },
     {
+      "name": "joplinglobe-2022-10-13T20:17:55.576987-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665710279",
+      "size": "64955",
+      "md5": "f18ac5f282ef2be132ca4d6cfdfd0a4c",
+      "crc32": "cdd9c965",
+      "sha1": "47970803fc5344d9825faf42998436e6e46b43ae",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-10-13T20:17:55.576987-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665710280",
+      "size": "88452",
+      "md5": "9c0248466ad871e926df78fd5c4f55cf",
+      "crc32": "2f16fe10",
+      "sha1": "06e6bb0102a73c17d5a34b5dfc123ab5656dd43d",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-10-13T20:17:55.576987-05:00.jpg",
+      "source": "original",
+      "mtime": "1665710277",
+      "size": "296516",
+      "md5": "476c1d238adf01c62f5e4f3d43bb3780",
+      "crc32": "9fb0517c",
+      "sha1": "861dbadf0ea9bf5ad8bdfe0bd0482b909c234894",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "joplinglobe-2022-10-13T20:17:55.576987-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665710282",
+      "size": "1501",
+      "md5": "e46e78dda95d7d0a19e9e400bbd9444a",
+      "crc32": "b8ba49d4",
+      "sha1": "27a57f4e51d62691477878d815fc186175a62744",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-10-13T20:17:55.576987-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665710284",
+      "size": "87093",
+      "md5": "c880621e3a709bbe155187e0dae55e3f",
+      "crc32": "07fe58ef",
+      "sha1": "90946419d3a6cfdc4fbd347fdfdac27e6b4dbbf3",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-10-13T20:17:55.576987-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "joplinglobe-2022-10-13T20:17:55.576987-05:00.jpg",
+      "mtime": "1665710351",
+      "size": "9316",
+      "md5": "53299517a3a89f69060370725dc749ef",
+      "crc32": "31d890ed",
+      "sha1": "deeb8ef884670a4d57f6ee45ad4bcf0d04963b05"
+    },
+    {
       "name": "joplinglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "281206cd4755fad84aa53e75245fb6bd812084f7",
-      "mtime": "1665665852",
-      "size": "218740",
-      "md5": "ea4287777d32d1a4b51524eb0e3e3776",
-      "crc32": "8893646e",
-      "sha1": "be26f57894c7bf78d7d7ad8be16584a49b859e60",
+      "btih": "410cd52be7e8a122c9da722a1b2b1c4055af52d5",
+      "mtime": "1665710365",
+      "size": "220025",
+      "md5": "f9870ae6f235a3bc7ca65bf0ecb373f6",
+      "crc32": "d8035ca9",
+      "sha1": "75cdfef0dd9a9f4ebea33a66959a7ec644a45973",
       "format": "Archive BitTorrent"
     },
     {
       "name": "joplinglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3bedde527dabc53e5eed9dc9af0c75de",
+      "md5": "d75fc2f1fa7da4116542dd20e8b80e40",
       "summation": "md5"
     },
     {
       "name": "joplinglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665665783",
-      "size": "1269760",
-      "md5": "1a2bf6eb8165fd08621eeb2029c91d70",
-      "crc32": "93bc4b38",
-      "sha1": "086e9ca9aadc97231f37fd57bb13623fc2315242",
+      "mtime": "1665710290",
+      "size": "1273856",
+      "md5": "03b994ef914aa0e9a0327f19fa6fa036",
+      "crc32": "70b14238",
+      "sha1": "1db602a162390c46cc400aa8381761f7228fa092",
       "format": "Metadata"
     },
     {
@@ -10600,9 +10662,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1020,
-  "item_last_updated": 1665665852,
-  "item_size": 95427038,
+  "files_count": 1026,
+  "item_last_updated": 1665710365,
+  "item_size": 95980252,
   "metadata": {
     "identifier": "joplinglobe-2022",
     "collection": [
@@ -10619,10 +10681,10 @@
     "publicdate": "2022-07-04 21:54:35",
     "addeddate": "2022-07-04 21:54:35"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 2101531031,
+  "server": "ia902500.us.archive.org",
+  "uniq": 887528265,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }
