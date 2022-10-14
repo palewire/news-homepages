@@ -1,5 +1,6 @@
 {
-  "created": 1665670616,
+  "conflict": 1665714190,
+  "created": 1665714190,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/31/items/oldiemagazine-2022",
@@ -10484,31 +10485,93 @@
       "sha1": "2eb872bca0c287fbf4b7e74adc8a5ff91d459059"
     },
     {
+      "name": "oldiemagazine-2022-10-14T03:21:37.224152+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665714105",
+      "size": "11842",
+      "md5": "5ddd70108bee5c3f380b60f5b37a2619",
+      "crc32": "9eb30fe8",
+      "sha1": "39d1cd372d584fb456d9583b4c44554eaa9d1cd9",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-10-14T03:21:37.224152+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665714107",
+      "size": "11464",
+      "md5": "c8d14ff5103ffcff71dd1483f06a68be",
+      "crc32": "e03e25ea",
+      "sha1": "70b433d77969e10c681973ce04796564e95419c7",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-10-14T03:21:37.224152+01:00.jpg",
+      "source": "original",
+      "mtime": "1665714104",
+      "size": "101322",
+      "md5": "421739497bc74b0b35f800896cc836f7",
+      "crc32": "1cb4bbc7",
+      "sha1": "ec2f5180a2405e76abb1a740e6d7df1f945cfa8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oldiemagazine-2022-10-14T03:21:37.224152+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665714108",
+      "size": "1492",
+      "md5": "ab57e4a2c870c954cbc9da83c0c24778",
+      "crc32": "0c418e1c",
+      "sha1": "e094b11dadd01069ad72beed720136c70216f057",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-10-14T03:21:37.224152+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665714110",
+      "size": "7141",
+      "md5": "7381253434da9594625a250a9bce4c65",
+      "crc32": "1c79db70",
+      "sha1": "73f5e4ad10fac467657d9ebb73f49f0df73ad8cb",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-10-14T03:21:37.224152+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oldiemagazine-2022-10-14T03:21:37.224152+01:00.jpg",
+      "mtime": "1665714177",
+      "size": "8505",
+      "md5": "2cf2e29352ad04dbb837f4a45e0afe04",
+      "crc32": "dac9603d",
+      "sha1": "2eb872bca0c287fbf4b7e74adc8a5ff91d459059"
+    },
+    {
       "name": "oldiemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc237bf85025c539430c79a822b1bd2075b74fe2",
-      "mtime": "1665670593",
-      "size": "217843",
-      "md5": "4fcb22b343107645cabf8814fa4fef0b",
-      "crc32": "24b5389e",
-      "sha1": "dba02ee30b33e8ab379f34ea764b07e9cfc63bed",
+      "btih": "859fc41d2d82bd4bd4e3b194ca8a99aa08d1697d",
+      "mtime": "1665714189",
+      "size": "219119",
+      "md5": "53399f36bdbf3105e2200126d7a66cd4",
+      "crc32": "b4b09a62",
+      "sha1": "90916823df5fbecc77f985f992dc2880c43e4717",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oldiemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "390b0c1dc0881a0c3bc605fe81f58f12",
+      "md5": "ebc6964b27cb6b5e328216d1d2fa5cc9",
       "summation": "md5"
     },
     {
       "name": "oldiemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665670501",
-      "size": "1314816",
-      "md5": "bfefd0ea242e1fd47d1501ec586e187b",
-      "crc32": "b7af25d1",
-      "sha1": "fee44de6267e66c3ba4396b3f171aa7b63102006",
+      "mtime": "1665714113",
+      "size": "1318912",
+      "md5": "f67c62bccac9e10c52238a2df3837707",
+      "crc32": "ae5d2d05",
+      "sha1": "1c2d861be1c6ef1aef306e8500b3cb3ca3053ec0",
       "format": "Metadata"
     },
     {
@@ -10522,9 +10585,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1018,
-  "item_last_updated": 1665670593,
-  "item_size": 24658165,
+  "files_count": 1024,
+  "item_last_updated": 1665714189,
+  "item_size": 24805303,
   "metadata": {
     "identifier": "oldiemagazine-2022",
     "collection": [
@@ -10541,10 +10604,29 @@
     "publicdate": "2022-08-18 23:58:11",
     "addeddate": "2022-08-18 23:58:11"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 206372347,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3439112117,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3439112583,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 153712596,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

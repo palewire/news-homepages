@@ -1,5 +1,5 @@
 {
-  "created": 1665673474,
+  "created": 1665714402,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -12942,31 +12942,93 @@
       "sha1": "178dc98844c40960f9cbeb6f4c560ca8a62c9a01"
     },
     {
+      "name": "reuters-2022-10-13T22:24:33.149336-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665714277",
+      "size": "36150",
+      "md5": "027ae9550a5f31ba9483737ed1744c42",
+      "crc32": "4b736dc4",
+      "sha1": "79059e78366d547d0aa0ca645433373c93b1f66b",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-10-13T22:24:33.149336-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665714280",
+      "size": "27405",
+      "md5": "fb47b6f5492483653c3adfb974a7768e",
+      "crc32": "d5276249",
+      "sha1": "240fcb6e6a796eb9a663781d4cdaf6298949836f",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-10-13T22:24:33.149336-04:00.jpg",
+      "source": "original",
+      "mtime": "1665714274",
+      "size": "216605",
+      "md5": "58a234c93b95a334b4953010a399528a",
+      "crc32": "23344a14",
+      "sha1": "3aca9b1ec9835d8b7ca67f5db1b61436fa88b6ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-10-13T22:24:33.149336-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665714282",
+      "size": "1459",
+      "md5": "bc8034d5fba04b22e94c676f32d7a958",
+      "crc32": "7e86b18a",
+      "sha1": "97f40d0df523034ae4812addc0f6c5c884909028",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-10-13T22:24:33.149336-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665714283",
+      "size": "11464",
+      "md5": "540bac90511641fd565c83eee8be0344",
+      "crc32": "fdc51259",
+      "sha1": "ec518d2275ad762eddaacbf20e8b98d613bf9f44",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-10-13T22:24:33.149336-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-10-13T22:24:33.149336-04:00.jpg",
+      "mtime": "1665714380",
+      "size": "8023",
+      "md5": "f12e85c5f82b5e574f79c6c735fd4786",
+      "crc32": "e31ef323",
+      "sha1": "aaf9742d42d3523ff0ecbe7310862f1daa09f5c2"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dcb0fb91849a7388ea9436c78c982e2c8247de90",
-      "mtime": "1665670722",
-      "size": "261614",
-      "md5": "d93f070a2af8853bd5eb96775747c95f",
-      "crc32": "4763ba89",
-      "sha1": "234edb941a8d8ee2ab2a15034aecdb9d291c8d82",
+      "btih": "20f726c17bf38c5f4ac6e3655bcc4284e0532a8a",
+      "mtime": "1665714394",
+      "size": "262875",
+      "md5": "47837a71ec620aaae766442d59990f30",
+      "crc32": "32242b6c",
+      "sha1": "341328ebf5d2426738140ac461c9a78b0b4382e3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1cb2e1f8f4124a228aa81ed1684b81e0",
+      "md5": "5ca5624fa5bc257b08069ef2f3c8a0e9",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665670617",
-      "size": "1544192",
-      "md5": "0ad114bdc6e93b2e7a175f9568c26105",
-      "crc32": "df7c6b33",
-      "sha1": "5b6ac5289a940911cfb6306399a33d40d9459941",
+      "mtime": "1665714294",
+      "size": "1552384",
+      "md5": "67b5c1afb229287098ad23032cb80fbc",
+      "crc32": "c2851207",
+      "sha1": "c556ee275e4d553d3441ead7cd52dcd5b7ef36a9",
       "format": "Metadata"
     },
     {
@@ -12980,9 +13042,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1250,
-  "item_last_updated": 1665670722,
-  "item_size": 74589313,
+  "files_count": 1256,
+  "item_last_updated": 1665714394,
+  "item_size": 74899872,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -12999,15 +13061,10 @@
     "publicdate": "2022-06-24 23:00:05",
     "addeddate": "2022-06-24 23:00:05"
   },
-  "reuters-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1520596037,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1053327685,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

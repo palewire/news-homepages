@@ -1,5 +1,5 @@
 {
-  "created": 1665673498,
+  "created": 1665714357,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/scsunnews-2022",
@@ -2858,31 +2858,93 @@
       "sha1": "80816f60d258458b8af746894815c4a108a802a7"
     },
     {
+      "name": "scsunnews-2022-10-13T20:23:47.981082-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665714238",
+      "size": "20184",
+      "md5": "555e422c5835fbfce69355da04cf3728",
+      "crc32": "5332d049",
+      "sha1": "74c64a47a469ebe402089160d7ea436467ea6582",
+      "format": "JSON"
+    },
+    {
+      "name": "scsunnews-2022-10-13T20:23:47.981082-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665714239",
+      "size": "31943",
+      "md5": "1608f62ea93836788365d3715ce93c11",
+      "crc32": "139a2126",
+      "sha1": "3e907971397742586a9e29b540bed315dbd1572e",
+      "format": "JSON"
+    },
+    {
+      "name": "scsunnews-2022-10-13T20:23:47.981082-06:00.jpg",
+      "source": "original",
+      "mtime": "1665714235",
+      "size": "259234",
+      "md5": "325d2e16b2edb521746385c2e6c1f557",
+      "crc32": "d1904eed",
+      "sha1": "684fc5bcff546553ae1fdf339319c100e9984cd7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scsunnews-2022-10-13T20:23:47.981082-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665714241",
+      "size": "1494",
+      "md5": "a37c6b42c15257586cb8297cfd51b98d",
+      "crc32": "523cdcaa",
+      "sha1": "1898f55101cae432125ffb9cf5bda26f64a3b1e8",
+      "format": "JSON"
+    },
+    {
+      "name": "scsunnews-2022-10-13T20:23:47.981082-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665714242",
+      "size": "87834",
+      "md5": "c71b891948f4fce1c082cba66cad3c29",
+      "crc32": "a25d47b3",
+      "sha1": "2df8ddff236c0e08db224c7f81b951d99b3f3915",
+      "format": "JSON"
+    },
+    {
+      "name": "scsunnews-2022-10-13T20:23:47.981082-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scsunnews-2022-10-13T20:23:47.981082-06:00.jpg",
+      "mtime": "1665714318",
+      "size": "8847",
+      "md5": "9b4fe2330911964fd2166ea8914a4b95",
+      "crc32": "02a4e966",
+      "sha1": "16d7f1d10330ad74a5a95f21f8b418d7fbe448bd"
+    },
+    {
       "name": "scsunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7c17cdf1d19a56c49b40f70b59c7bd2817a268ab",
-      "mtime": "1665670680",
-      "size": "59704",
-      "md5": "c186d69767284b15dec5aea7b70a12dd",
-      "crc32": "2e25fca4",
-      "sha1": "2dd1f8348ca894032c5f1a32668e4fcc5fb7f3ec",
+      "btih": "d6a726ac7c9480071dc74f7f258c06f3592347f1",
+      "mtime": "1665714322",
+      "size": "60977",
+      "md5": "ffcff64c8398678cf8f971b4c9ec4570",
+      "crc32": "a9afa127",
+      "sha1": "73e87e94b5e15c4e25df4c6bb418848effa2a0f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scsunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "477b58a0c2066ff84ad47570bdfd086a",
+      "md5": "8c7243376f0a1132d7204fa59eaa88a6",
       "summation": "md5"
     },
     {
       "name": "scsunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665670606",
-      "size": "372736",
-      "md5": "69616b21fd6eacd2d61f7b7111b0b08a",
-      "crc32": "35e93742",
-      "sha1": "3e48d404f6afc51e98892622932402750f78a119",
+      "mtime": "1665714254",
+      "size": "376832",
+      "md5": "785fc89caff3f7629e73c140ebf402f8",
+      "crc32": "b8185e98",
+      "sha1": "2aabe69c8bd7cfd440ba220c9d23e84d3f4295cb",
       "format": "Metadata"
     },
     {
@@ -2896,9 +2958,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 280,
-  "item_last_updated": 1665670680,
-  "item_size": 17527022,
+  "files_count": 286,
+  "item_last_updated": 1665714322,
+  "item_size": 17941927,
   "metadata": {
     "identifier": "scsunnews-2022",
     "collection": [
@@ -2915,13 +2977,8 @@
     "publicdate": "2022-09-21 02:24:53",
     "addeddate": "2022-09-21 02:24:53"
   },
-  "scsunnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia601409.us.archive.org",
-  "uniq": 1442159613,
+  "uniq": 346623788,
   "workable_servers": [
     "ia601409.us.archive.org",
     "ia801409.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665670676,
+  "created": 1665714336,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/ruidosonews-2022",
@@ -2858,31 +2858,93 @@
       "sha1": "8676cff15c008d79f0ec171a2bb6ad06a45f0c36"
     },
     {
+      "name": "ruidosonews-2022-10-13T20:23:44.445922-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665714231",
+      "size": "19492",
+      "md5": "da5e220ad6fef944b1dbe0521414b85d",
+      "crc32": "e2525fdc",
+      "sha1": "8adfbde3f4b3c1716cf8523ef9a53c326d26f898",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-13T20:23:44.445922-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665714234",
+      "size": "29507",
+      "md5": "6c62701404a87bed7b7210479631719a",
+      "crc32": "0abe034f",
+      "sha1": "dff257b05e2f2de545c0e2209f316f9150ada215",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-13T20:23:44.445922-06:00.jpg",
+      "source": "original",
+      "mtime": "1665714228",
+      "size": "259459",
+      "md5": "6b46a94045dea99b77d8d51f9832d04d",
+      "crc32": "2612673f",
+      "sha1": "0fd5abb528ad4c40d608df3b37b254819eb961c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ruidosonews-2022-10-13T20:23:44.445922-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665714236",
+      "size": "1504",
+      "md5": "acac90efc6f7f49c466a280d9bae3771",
+      "crc32": "1888bebe",
+      "sha1": "f04d37043e9bf9d731e74cbc571083de94629fb9",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-13T20:23:44.445922-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665714238",
+      "size": "103091",
+      "md5": "42ee3904805298db2f5e15ca4c705e64",
+      "crc32": "820e6acc",
+      "sha1": "60c2ff1f4559615abe1754c04b4aadbc809ba23b",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-13T20:23:44.445922-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ruidosonews-2022-10-13T20:23:44.445922-06:00.jpg",
+      "mtime": "1665714312",
+      "size": "8817",
+      "md5": "cc88d9415948c790ea8be03b74826ec6",
+      "crc32": "76d7cc89",
+      "sha1": "a310a62e6a4e4379703672aaa899f617b77c2635"
+    },
+    {
       "name": "ruidosonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f77aa6addbbbf3372f34230e2adc657a095956ea",
-      "mtime": "1665670668",
-      "size": "60186",
-      "md5": "40351c73ae4c6239a23b888f2c922878",
-      "crc32": "00c45ecd",
-      "sha1": "bacc3ce55a69f04811562594d3f319540182a2b6",
+      "btih": "a4c9fc5d92c79ebfbf02106f861f83e47de48388",
+      "mtime": "1665714319",
+      "size": "61472",
+      "md5": "9c84e63c580670779a29f2cd14b02b07",
+      "crc32": "f5b8402c",
+      "sha1": "898e7cd140fa1ca60c0115feaf60003b64e8ef6e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ruidosonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2195bbbaa8c51f8af5803572f47d946a",
+      "md5": "152c529dc9b5fcb1267fef2a29d1657d",
       "summation": "md5"
     },
     {
       "name": "ruidosonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665670609",
-      "size": "372736",
-      "md5": "e17c6c8c8326c603855d22cd77e389fe",
-      "crc32": "2c667560",
-      "sha1": "4e46846691c2b1efc6a25d2f6dd42a7dd9cf75f6",
+      "mtime": "1665714246",
+      "size": "376832",
+      "md5": "e5263ace1ca4fd58f89261a05497cec4",
+      "crc32": "89f6d7b0",
+      "sha1": "84011086bb754c63be7a870dbb42391f9db99527",
       "format": "Metadata"
     },
     {
@@ -2896,9 +2958,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 280,
-  "item_last_updated": 1665670668,
-  "item_size": 16232122,
+  "files_count": 286,
+  "item_last_updated": 1665714319,
+  "item_size": 16659374,
   "metadata": {
     "identifier": "ruidosonews-2022",
     "collection": [
@@ -2916,7 +2978,7 @@
     "addeddate": "2022-09-21 02:24:31"
   },
   "server": "ia801402.us.archive.org",
-  "uniq": 496645874,
+  "uniq": 46249965,
   "workable_servers": [
     "ia801402.us.archive.org",
     "ia601402.us.archive.org"
