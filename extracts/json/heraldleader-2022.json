@@ -1,5 +1,5 @@
 {
-  "created": 1665683394,
+  "created": 1665779038,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/heraldleader-2022",
@@ -8790,31 +8790,93 @@
       "sha1": "9390de086847e93a27525b1a1fff5b98ad305a87"
     },
     {
+      "name": "heraldleader-2022-10-14T02:24:33.321296-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665728676",
+      "size": "457",
+      "md5": "6f047b4d7e09895cada9351b19843a2a",
+      "crc32": "86b9ebd0",
+      "sha1": "0ab010b8384000f58e3aab33f4d4d2639ec64da3",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-10-14T02:24:33.321296-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665728678",
+      "size": "37255",
+      "md5": "4bbba86355c5cc601d7d694ac3f5bdc6",
+      "crc32": "a1c2ec85",
+      "sha1": "388a1267c3552d232703fbdd009c34005ba81304",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-10-14T02:24:33.321296-04:00.jpg",
+      "source": "original",
+      "mtime": "1665728675",
+      "size": "264570",
+      "md5": "f31e7a64309feebfd9890fc8bc9e9264",
+      "crc32": "a4006b6e",
+      "sha1": "23b9c5a3d1b7bdb6fd613c69653d32e41e2a9c0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldleader-2022-10-14T02:24:33.321296-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665728680",
+      "size": "1477",
+      "md5": "bc7efd31db99474aa5067dfe816ccd45",
+      "crc32": "d118b65e",
+      "sha1": "12c7942b2bf230c0d1d99fe5178f790d98475497",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-10-14T02:24:33.321296-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665728681",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldleader-2022-10-14T02:24:33.321296-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldleader-2022-10-14T02:24:33.321296-04:00.jpg",
+      "mtime": "1665728862",
+      "size": "9337",
+      "md5": "59ab38e1ee2cac242bbd6dd36dfec990",
+      "crc32": "362eeb03",
+      "sha1": "942154ad7d617094b48f4779ff6f8f9ecdf5173b"
+    },
+    {
       "name": "heraldleader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32bf7659f22a97fe1c6f0382207d017f43606683",
-      "mtime": "1665683378",
-      "size": "183103",
-      "md5": "0a1fdcec55bd1cae3810a539b48b38aa",
-      "crc32": "7abad477",
-      "sha1": "2749c58ac3c6f4cf388da312c0f1fc1918a17391",
+      "btih": "4845adff76c1d3dc6697a3e587e4f93112789d1e",
+      "mtime": "1665728886",
+      "size": "184390",
+      "md5": "0d0eac025fb24c45678379a32b60c6c5",
+      "crc32": "b7b68ba6",
+      "sha1": "0cc8b073c1edfdf5a119ba5856ac618cc50d4eaf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldleader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c1e107f79d70b546fba356e535c3388",
+      "md5": "b1424c2cd3f9aeedb253b5b857dbfe4b",
       "summation": "md5"
     },
     {
       "name": "heraldleader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665683285",
-      "size": "1089536",
-      "md5": "728aaae66c9bfcf7979a4bf3d1c878e6",
-      "crc32": "1d8b89f8",
-      "sha1": "cd1228163ca71d9200aea341da3fa1e468aea5e3",
+      "mtime": "1665728690",
+      "size": "1101824",
+      "md5": "459c7d9a5b1a13a87233d5a098291f6b",
+      "crc32": "6b7167d0",
+      "sha1": "1ec3577d14b1241152136b115aa537305e0ecd5d",
       "format": "Metadata"
     },
     {
@@ -8828,9 +8890,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 853,
-  "item_last_updated": 1665683378,
-  "item_size": 58158253,
+  "files_count": 859,
+  "heraldleader-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1665728886,
+  "item_size": 58485126,
   "metadata": {
     "identifier": "heraldleader-2022",
     "collection": [
@@ -8847,10 +8914,10 @@
     "publicdate": "2022-08-01 06:42:16",
     "addeddate": "2022-08-01 06:42:16"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 401540636,
+  "server": "ia801501.us.archive.org",
+  "uniq": 760371872,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1665736179,
-  "created": 1665736179,
+  "created": 1665772259,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/18/items/le_parisien-2022",
@@ -23149,31 +23148,93 @@
       "sha1": "a7aa50c200161577210c8fdf414853ece2d68bcd"
     },
     {
+      "name": "le_parisien-2022-10-14T20:16:10.217986+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665771401",
+      "size": "78691",
+      "md5": "bd9e40b8bb9413928ebcbe8461800c3c",
+      "crc32": "0291ebbb",
+      "sha1": "50198585c43194bee89df1b2f5c0463cc871dc39",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-10-14T20:16:10.217986+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665771407",
+      "size": "91363",
+      "md5": "7a9e166f2e6f3ef1dc7dd2b8d8559c2a",
+      "crc32": "3cd57b04",
+      "sha1": "aebbfc42d1a34e7b86739740c3c09eb6a1599836",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-10-14T20:16:10.217986+02:00.jpg",
+      "source": "original",
+      "mtime": "1665771395",
+      "size": "321697",
+      "md5": "42ec4913fe09562eb126b4f0039805ef",
+      "crc32": "7d156d4d",
+      "sha1": "33d21b90965ddaaf972358680a452a924cbc4912",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_parisien-2022-10-14T20:16:10.217986+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665771412",
+      "size": "1486",
+      "md5": "230a9708dc03de91ff9cbbd5f058c9c9",
+      "crc32": "e051da4b",
+      "sha1": "bf1b7539d854b7a13d2efa9cf92a95c9550617d1",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-10-14T20:16:10.217986+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665771417",
+      "size": "35111",
+      "md5": "0d5374754b50d59cc66d3073f774b8ac",
+      "crc32": "152aba59",
+      "sha1": "74299b24b167a4cd26901467383cd44ffc19390a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_parisien-2022-10-14T20:16:10.217986+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_parisien-2022-10-14T20:16:10.217986+02:00.jpg",
+      "mtime": "1665771884",
+      "size": "9969",
+      "md5": "dcff498dea73bbba88258e77b9119c73",
+      "crc32": "5badfca3",
+      "sha1": "e141c6916b342fe53c819074e9149bf9312348d1"
+    },
+    {
       "name": "le_parisien-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b8e182db7740d1c6bad5ca59141171fe5c16ff0",
-      "mtime": "1665736154",
-      "size": "478575",
-      "md5": "20751e401394760cd593ec74325823cc",
-      "crc32": "a3d605e0",
-      "sha1": "c0a8abf63b3f8c561cbc7955279c3dda6b1c5619",
+      "btih": "10ea8913d78751421f17e9c525e59e0a12dc0995",
+      "mtime": "1665772167",
+      "size": "479880",
+      "md5": "038c42559c2245ede99d99dd833f2ea6",
+      "crc32": "62d940f0",
+      "sha1": "646784eca6bcb4f4b034cd057f9ef275fa7ed4b5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_parisien-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9792c02f8565b5ac58b5ab1d5456de41",
+      "md5": "05c993d2b0f313fc5d155e68c1e16727",
       "summation": "md5"
     },
     {
       "name": "le_parisien-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665735965",
-      "size": "2736128",
-      "md5": "0ad64a6594e9aa7859e86f1f972f353f",
-      "crc32": "4ea4a224",
-      "sha1": "b59e12cfb1fadc8c28fb09505603cda1b256e59d",
+      "mtime": "1665771500",
+      "size": "2744320",
+      "md5": "b4a40afd7bb6cff2cc66c9289df340b7",
+      "crc32": "8cde0a1f",
+      "sha1": "a7d5573010011337e688388560c69ee20f0209c7",
       "format": "Metadata"
     },
     {
@@ -23187,9 +23248,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2229,
-  "item_last_updated": 1665736154,
-  "item_size": 220658494,
+  "files_count": 2235,
+  "item_last_updated": 1665772167,
+  "item_size": 221206308,
   "metadata": {
     "identifier": "le_parisien-2022",
     "collection": [
@@ -23206,21 +23267,10 @@
     "publicdate": "2022-04-09 13:42:51",
     "addeddate": "2022-04-09 13:42:51"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3439468499,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1976129325,
+  "server": "ia801404.us.archive.org",
+  "uniq": 85470965,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

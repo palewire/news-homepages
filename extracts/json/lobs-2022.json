@@ -1,5 +1,5 @@
 {
-  "created": 1665736113,
+  "created": 1665779586,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/34/items/lobs-2022",
@@ -17726,31 +17726,93 @@
       "sha1": "16dbe644d181b5ea8a544bcee9eb40d205c5cf32"
     },
     {
+      "name": "lobs-2022-10-14T20:17:55.907701+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665771481",
+      "size": "99050",
+      "md5": "77ef3efc17721c97629d01be1d7a0882",
+      "crc32": "fe8cb779",
+      "sha1": "715865ef9b3adf140c418a927f097f292921cdb9",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-14T20:17:55.907701+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665771484",
+      "size": "87253",
+      "md5": "030dc3fe292a1e81967d970ef8594a82",
+      "crc32": "7e3d9b22",
+      "sha1": "0bf0340bfed1d5fbfd5b98f7f189a575800077bf",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-14T20:17:55.907701+02:00.jpg",
+      "source": "original",
+      "mtime": "1665771479",
+      "size": "265292",
+      "md5": "64a89b616fc9db4c118b786d7b5ec3c5",
+      "crc32": "0b3d8d4b",
+      "sha1": "a4b14be18291f5b1dffaf28a08b94737240a8e90",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lobs-2022-10-14T20:17:55.907701+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665771487",
+      "size": "1477",
+      "md5": "9d2a4b09668469013483f8c1124c0274",
+      "crc32": "0ff928ec",
+      "sha1": "28ec111487e23becd1208f1b001eb1008a047b0f",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-14T20:17:55.907701+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665771491",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
+      "name": "lobs-2022-10-14T20:17:55.907701+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lobs-2022-10-14T20:17:55.907701+02:00.jpg",
+      "mtime": "1665771881",
+      "size": "9123",
+      "md5": "8424827025c74d92fbda69053e1f2557",
+      "crc32": "ccb32531",
+      "sha1": "dc271cb88a5f9d12a0eaf4386bbbbf1199e14d97"
+    },
+    {
       "name": "lobs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8dca939967104b3b604899b0308999813f13450d",
-      "mtime": "1665736086",
-      "size": "354696",
-      "md5": "343593fa347b5aa6e2afafb744b74cff",
-      "crc32": "54a5fbba",
-      "sha1": "d4adb70b0a93bcd0d08027b3a6870ad7645f3a21",
+      "btih": "410e72d720d6b19c9031ced114ba6accdca6e9b4",
+      "mtime": "1665772018",
+      "size": "355937",
+      "md5": "2145446c99931ee167dfdbbfdeca2cbe",
+      "crc32": "d69c93b0",
+      "sha1": "eea2f7632fa54fb47cd02fb0a50afd12aee0b8df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lobs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b993e4875f63096b2144214cb2bb1b97",
+      "md5": "5002b229d7cd2af3e3acd2aa4e9c226d",
       "summation": "md5"
     },
     {
       "name": "lobs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665735956",
-      "size": "2117632",
-      "md5": "da4b7fe95b04aad1f2edb641f1df2c6e",
-      "crc32": "c60db4f0",
-      "sha1": "3e979fbba6bdbb92c01d419df6734a549909c65f",
+      "mtime": "1665771600",
+      "size": "2125824",
+      "md5": "4af7790c50644cd1e742b0c9fef993fe",
+      "crc32": "11c7629b",
+      "sha1": "b13d58e72853c25826fe2d26e8be2ca370ac88bf",
       "format": "Metadata"
     },
     {
@@ -17764,9 +17826,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1713,
-  "item_last_updated": 1665736086,
-  "item_size": 141174557,
+  "files_count": 1719,
+  "item_last_updated": 1665772018,
+  "item_size": 141646431,
+  "lobs-2022": {
+    "message": "This URL has been already captured 10 times today. Please try again tomorrow. Please email us at \"info@archive.org\" if you would like to discuss this more.",
+    "status": "error",
+    "status_ext": "error:too-many-daily-captures"
+  },
   "metadata": {
     "identifier": "lobs-2022",
     "collection": [
@@ -17783,10 +17850,10 @@
     "publicdate": "2022-06-30 22:26:27",
     "addeddate": "2022-06-30 22:26:27"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 989372451,
+  "server": "ia801500.us.archive.org",
+  "uniq": 270395234,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

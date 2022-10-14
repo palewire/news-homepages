@@ -1,5 +1,5 @@
 {
-  "created": 1665687052,
+  "created": 1665771757,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/24/items/knoxnews-2022",
@@ -2848,31 +2848,155 @@
       "sha1": "f1f1bdb0ce79c08ca11a24c1c5ab89cf354c24f7"
     },
     {
+      "name": "knoxnews-2022-10-14T02:28:09.275228-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665728892",
+      "size": "22249",
+      "md5": "0ffdea6560880ca1cd3ada5216e6e55d",
+      "crc32": "1858b817",
+      "sha1": "f791b15623a3e1a13e9b7c90c05d500116b12b0d",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-14T02:28:09.275228-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665728893",
+      "size": "28650",
+      "md5": "79d547151405527250bbceacfeba238a",
+      "crc32": "58903795",
+      "sha1": "33670831ac510167764fe2112727909aea7d2c65",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-14T02:28:09.275228-04:00.jpg",
+      "source": "original",
+      "mtime": "1665728890",
+      "size": "261224",
+      "md5": "75a7b8aa9b6362a9da767bf2500a0c50",
+      "crc32": "02c0af42",
+      "sha1": "2e6b9a917cbbb4d332ffe0b0176011be6bb70148",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knoxnews-2022-10-14T02:28:09.275228-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665728895",
+      "size": "1477",
+      "md5": "95a459d455ebec3feda53561bde87ab1",
+      "crc32": "11419dd7",
+      "sha1": "a062d06dee5c1dc253b9a7048f7a3df6d28111ca",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-14T02:28:09.275228-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665728896",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-14T02:28:09.275228-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knoxnews-2022-10-14T02:28:09.275228-04:00.jpg",
+      "mtime": "1665728974",
+      "size": "9256",
+      "md5": "9e14288c89493567daf06edaf0144a47",
+      "crc32": "fe609b27",
+      "sha1": "8c6e6489c989615e678a75d2bb02d0308b6b5b65"
+    },
+    {
+      "name": "knoxnews-2022-10-14T14:15:51.706301-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665771363",
+      "size": "21136",
+      "md5": "bcbfb6e9129d2917c4c3e652143efb30",
+      "crc32": "304096ae",
+      "sha1": "44c8e02c3c7b3021415ec08fbb8be60a9c356366",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-14T14:15:51.706301-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665771370",
+      "size": "31440",
+      "md5": "366021af153af5cbc1a3e310c0feabaa",
+      "crc32": "5fb3ac72",
+      "sha1": "f6f6b839976f0659833f8404dada73c85e0eba4e",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-14T14:15:51.706301-04:00.jpg",
+      "source": "original",
+      "mtime": "1665771357",
+      "size": "252123",
+      "md5": "288ee10cd8e430483e32405426f4897e",
+      "crc32": "a2b031f8",
+      "sha1": "6d3f0f2828014075646e349f4c869de197ee63b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knoxnews-2022-10-14T14:15:51.706301-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665771375",
+      "size": "1475",
+      "md5": "986511d2ab640955c1a23404b588d06c",
+      "crc32": "3d0bf5cd",
+      "sha1": "582cb152a7875eea4840999dbe6d81f9777364a3",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-14T14:15:51.706301-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665771381",
+      "size": "94651",
+      "md5": "0118ff9e3d1a0a03f89f5900fb0a5603",
+      "crc32": "15893ff2",
+      "sha1": "b1d0f2a640b7741bd07830cb31363c04a49ba243",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-14T14:15:51.706301-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knoxnews-2022-10-14T14:15:51.706301-04:00.jpg",
+      "mtime": "1665771647",
+      "size": "9281",
+      "md5": "562d3ec92a19317d9ee5e96b97a3ff34",
+      "crc32": "c5db5854",
+      "sha1": "64ca255474b3df762292daf48bdb11dad6ec4895"
+    },
+    {
       "name": "knoxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b86fbbf0d30552b8f075c5ac6668ec5b8f9637a",
-      "mtime": "1665640589",
-      "size": "59227",
-      "md5": "87344b1670163ad95e53ca84546f9651",
-      "crc32": "228e676e",
-      "sha1": "467770a27d1cb299cfba68f56307023aaad0c0f3",
+      "btih": "c69bd92a3f9211fcc8f82a05f0021c036bdce64d",
+      "mtime": "1665771660",
+      "size": "61759",
+      "md5": "d15db19f2d591761767e3e139000d7da",
+      "crc32": "cb4b2b72",
+      "sha1": "755c28452a0e9950c4358839142c5bb1191dac91",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knoxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c7e0d3723b98fa8acc44de0c042e26d",
+      "md5": "c7afe1fabad6b74cc1deb4962e2c4bc6",
       "summation": "md5"
     },
     {
       "name": "knoxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665640544",
-      "size": "368640",
-      "md5": "f5ca045b0c0e77f6bb9e7e788de09667",
-      "crc32": "29528b61",
-      "sha1": "3feecce67265b306812e3b8c389d7ebfc1f77cb1",
+      "mtime": "1665771483",
+      "size": "385024",
+      "md5": "a2550a01a82c3ab31a85d62f61a25a2c",
+      "crc32": "23b6247b",
+      "sha1": "84b414d96526d8c4fa776df8c3569b462dfe425d",
       "format": "Metadata"
     },
     {
@@ -2886,13 +3010,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 279,
-  "item_last_updated": 1665640589,
-  "item_size": 18366778,
-  "knoxnews-2022": {
-    "url": "https://www.knoxnews.com/",
-    "job_id": "spn2-cd9ce0e29b771f144ff970e8bab35f5c0c9d3b69"
-  },
+  "files_count": 291,
+  "item_last_updated": 1665771660,
+  "item_size": 19118858,
   "metadata": {
     "identifier": "knoxnews-2022",
     "collection": [
@@ -2910,7 +3030,7 @@
     "addeddate": "2022-09-20 17:32:06"
   },
   "server": "ia801502.us.archive.org",
-  "uniq": 445550245,
+  "uniq": 2133622169,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"
