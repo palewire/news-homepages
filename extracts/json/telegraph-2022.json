@@ -1,5 +1,6 @@
 {
-  "created": 1665719779,
+  "conflict": 1665739642,
+  "created": 1665739642,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/4/items/telegraph-2022",
@@ -27302,31 +27303,88 @@
       "sha1": "5d9f6316c71958a8679585f0300b974418c06adb"
     },
     {
+      "name": "telegraph-2022-10-14T10:23:18.014374+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665739404",
+      "size": "31174",
+      "md5": "994b48101539041f89fc758039689325",
+      "crc32": "23651607",
+      "sha1": "b2d61e1618014356b8e64255b0d2b55103629c1d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-10-14T10:23:18.014374+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665739406",
+      "size": "28194",
+      "md5": "89528101d345a6e0266b176ecd66b866",
+      "crc32": "3ca0f2af",
+      "sha1": "6f36d0caf276358c5afc60cf8a6778bbe9c4fdee",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-10-14T10:23:18.014374+01:00.jpg",
+      "source": "original",
+      "mtime": "1665739401",
+      "size": "337559",
+      "md5": "9c160085ba6807b5e15f74adb3b357ee",
+      "crc32": "38be90f1",
+      "sha1": "5ad9fb6f37409aad22e4180b76b8b0ea2f7db01f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-10-14T10:23:18.014374+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665739408",
+      "size": "1503",
+      "md5": "016fbeac93ba92e511f17b3424acbbaf",
+      "crc32": "04b86113",
+      "sha1": "57d32f33b90474c32f81d451f74e84d0e82535fa",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-10-14T10:23:18.014374+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665739410",
+      "size": "235",
+      "md5": "e3d4647a3b15fd9f1414faf7e6eecae4",
+      "crc32": "c174101d",
+      "sha1": "7d0d8c7abba490938cdf1e1aad710b58566f14cd",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-10-14T10:23:18.014374+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-10-14T10:23:18.014374+01:00.jpg"
+    },
+    {
       "name": "telegraph-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03563d670b0d45504fbcdd0322d6d3b59051ca2c",
-      "mtime": "1665719739",
-      "size": "556142",
-      "md5": "62889ef2ae11d068c068b0864552da49",
-      "crc32": "0c7d5b86",
-      "sha1": "95721b5a90fc2982b41d932055ec4ff32ae9350c",
+      "btih": "aed48be345340c520003ca4c603c38ef26eb41d2",
+      "mtime": "1665739548",
+      "size": "557208",
+      "md5": "138abf80ba4c823b528c707a2220009f",
+      "crc32": "f8e0cb47",
+      "sha1": "1cd30f79fa99f2b3499d23737642ff9e1c3b6a36",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraph-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2f1d379cd81773cdbb02703a1a35d7d",
+      "md5": "bb92bf42d1f4db25989aeef34389f088",
       "summation": "md5"
     },
     {
       "name": "telegraph-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665719455",
-      "size": "3170304",
-      "md5": "a4937b93b7df087b032122bc3328dd04",
-      "crc32": "c174b854",
-      "sha1": "3f5f652f2eb4d2cd2cf5045850a62fef0bb3d615",
+      "mtime": "1665739439",
+      "size": "3174400",
+      "md5": "965ae3df62114e8e56802b5a2f18b779",
+      "crc32": "e9b67853",
+      "sha1": "84b737e5542aa5aecf795ededbba6486ac24bb64",
       "format": "Metadata"
     },
     {
@@ -27340,9 +27398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2624,
-  "item_last_updated": 1665719739,
-  "item_size": 225832990,
+  "files_count": 2630,
+  "item_last_updated": 1665739548,
+  "item_size": 226236817,
   "metadata": {
     "identifier": "telegraph-2022",
     "collection": [
@@ -27359,10 +27417,21 @@
     "publicdate": "2022-03-23 08:03:49",
     "addeddate": "2022-03-23 08:03:49"
   },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 2021516224,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3439526045,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 336507626,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }
