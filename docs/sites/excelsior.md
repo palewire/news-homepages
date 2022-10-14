@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 119 screenshots with the Internet Archive.
+The archiving routine has saved 121 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-13T19:00:06.898942-05:00.jpg">
+  <img src="https://archive.org/download/excelsior-2022/excelsior-2022-10-13T19:00:06.898942-05:00.jpg"
+     alt="Excélsior at 2022-10-13 19:00:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-13T19:00:06.898942-05:00.jpg">October 13 at 7:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-13T06:51:15.951118-05:00.jpg">
+  <img src="https://archive.org/download/excelsior-2022/excelsior-2022-10-13T06:51:15.951118-05:00.jpg"
+     alt="Excélsior at 2022-10-13 06:51:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-13T06:51:15.951118-05:00.jpg">October 13 at 6:51 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-12T18:54:07.831064-05:00.jpg">
   <img src="https://archive.org/download/excelsior-2022/excelsior-2022-10-12T18:54:07.831064-05:00.jpg"
      alt="Excélsior at 2022-10-12 18:54:14-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-08T06:55:06.560367-05:00.jpg">October 8 at 6:55 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-07T19:07:15.256996-05:00.jpg">
-  <img src="https://archive.org/download/excelsior-2022/excelsior-2022-10-07T19:07:15.256996-05:00.jpg"
-     alt="Excélsior at 2022-10-07 19:07:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-07T19:07:15.256996-05:00.jpg">October 7 at 7:07 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-07T07:08:51.450948-05:00.jpg">
-  <img src="https://archive.org/download/excelsior-2022/excelsior-2022-10-07T07:08:51.450948-05:00.jpg"
-     alt="Excélsior at 2022-10-07 07:08:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/excelsior-2022/excelsior-2022-10-07T07:08:51.450948-05:00.jpg">October 7 at 7:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 119 hyperlink lists with the Internet Archive.
+The archiving routine has saved 121 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 7:00 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-13T19:00:06.898942-05:00.hyperlinks.json) |
+| [October 13 at 6:51 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-13T06:51:15.951118-05:00.hyperlinks.json) |
 | [October 12 at 6:54 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-12T18:54:07.831064-05:00.hyperlinks.json) |
 | [October 12 at 7:02 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-12T07:01:54.372769-05:00.hyperlinks.json) |
 | [October 11 at 6:58 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-11T18:58:31.198417-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 7:29 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-10T07:28:58.540224-05:00.hyperlinks.json) |
 | [October 9 at 6:46 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-09T18:46:34.350470-05:00.hyperlinks.json) |
 | [October 9 at 7:01 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-09T07:01:50.363329-05:00.hyperlinks.json) |
-| [October 8 at 7:05 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-08T19:05:50.706466-05:00.hyperlinks.json) |
-| [October 8 at 6:55 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-08T06:55:06.560367-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 119 accessibility trees with the Internet Archive.
+The archiving routine has saved 121 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 7:00 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-13T19:00:06.898942-05:00.accessibility.json) |
+| [October 13 at 6:51 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-13T06:51:15.951118-05:00.accessibility.json) |
 | [October 12 at 6:54 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-12T18:54:07.831064-05:00.accessibility.json) |
 | [October 12 at 7:02 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-12T07:01:54.372769-05:00.accessibility.json) |
 | [October 11 at 6:58 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-11T18:58:31.198417-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 7:29 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-10T07:28:58.540224-05:00.accessibility.json) |
 | [October 9 at 6:46 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-09T18:46:34.350470-05:00.accessibility.json) |
 | [October 9 at 7:01 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-09T07:01:50.363329-05:00.accessibility.json) |
-| [October 8 at 7:05 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-08T19:05:50.706466-05:00.accessibility.json) |
-| [October 8 at 6:55 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-08T06:55:06.560367-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 121 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 7:00 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-13T19:00:06.898942-05:00.lighthouse.json) |
+| [October 13 at 6:51 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-13T06:51:15.951118-05:00.lighthouse.json) |
 | [October 12 at 6:54 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-12T18:54:07.831064-05:00.lighthouse.json) |
 | [October 12 at 7:02 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-12T07:01:54.372769-05:00.lighthouse.json) |
 | [October 11 at 6:58 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-11T18:58:31.198417-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 7:29 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-10T07:28:58.540224-05:00.lighthouse.json) |
 | [October 9 at 6:46 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-09T18:46:34.350470-05:00.lighthouse.json) |
 | [October 9 at 7:02 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-09T07:01:50.363329-05:00.lighthouse.json) |
-| [October 8 at 7:05 PM](https://archive.org/download/excelsior-2022/excelsior-2022-10-08T19:05:50.706466-05:00.lighthouse.json) |
-| [October 8 at 6:55 AM](https://archive.org/download/excelsior-2022/excelsior-2022-10-08T06:55:06.560367-05:00.lighthouse.json) |
 
 
 

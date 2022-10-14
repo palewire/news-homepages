@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 47 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 46 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-13T19:08:33.216937-04:00.jpg">
+  <img src="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-13T19:08:33.216937-04:00.jpg"
+     alt="Burlington County Times at 2022-10-13 19:08:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-13T19:08:33.216937-04:00.jpg">October 13 at 7:08 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-13T06:48:54.841857-04:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-08T06:53:20.498307-04:00.jpg">October 8 at 6:53 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-07T19:06:12.804243-04:00.jpg">
-  <img src="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-07T19:06:12.804243-04:00.jpg"
-     alt="Burlington County Times at 2022-10-07 19:06:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-07T19:06:12.804243-04:00.jpg">October 7 at 7:06 PM</a></p>
 </div>
 
 </div>
@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 7:08 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-13T19:08:33.216937-04:00.accessibility.json) |
 | [October 13 at 6:48 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-13T06:48:54.841857-04:00.accessibility.json) |
 | [October 12 at 6:59 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-12T18:59:44.547507-04:00.accessibility.json) |
 | [October 12 at 7:01 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-12T07:01:52.944733-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 7:06 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-10T07:06:50.724910-04:00.accessibility.json) |
 | [October 9 at 6:53 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-09T18:53:33.065658-04:00.accessibility.json) |
 | [October 9 at 7:00 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-09T07:00:44.666804-04:00.accessibility.json) |
-| [October 8 at 7:08 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-08T19:08:09.378891-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 7:08 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-13T19:08:33.216937-04:00.lighthouse.json) |
 | [October 13 at 6:49 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-13T06:48:54.841857-04:00.lighthouse.json) |
 | [October 12 at 6:59 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-12T18:59:44.547507-04:00.lighthouse.json) |
 | [October 12 at 7:02 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-12T07:01:52.944733-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 7:06 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-10T07:06:50.724910-04:00.lighthouse.json) |
 | [October 9 at 6:53 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-09T18:53:33.065658-04:00.lighthouse.json) |
 | [October 9 at 7:00 AM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-09T07:00:44.666804-04:00.lighthouse.json) |
-| [October 8 at 7:08 PM](https://archive.org/download/burlcotimes-2022/burlcotimes-2022-10-08T19:08:09.378891-04:00.lighthouse.json) |
 
 
 

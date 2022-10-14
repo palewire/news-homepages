@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-13T20:01:55.680100-04:00.jpg">
+  <img src="https://archive.org/download/goupstate-2022/goupstate-2022-10-13T20:01:55.680100-04:00.jpg"
+     alt="Spartanburg Herald-Journal at 2022-10-13 20:02:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-13T20:01:55.680100-04:00.jpg">October 13 at 8:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-13T07:52:49.351496-04:00.jpg">
+  <img src="https://archive.org/download/goupstate-2022/goupstate-2022-10-13T07:52:49.351496-04:00.jpg"
+     alt="Spartanburg Herald-Journal at 2022-10-13 07:52:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-13T07:52:49.351496-04:00.jpg">October 13 at 7:52 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-12T19:57:00.425212-04:00.jpg">
   <img src="https://archive.org/download/goupstate-2022/goupstate-2022-10-12T19:57:00.425212-04:00.jpg"
      alt="Spartanburg Herald-Journal at 2022-10-12 19:57:09-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-08T07:57:09.464470-04:00.jpg">October 8 at 7:57 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-07T20:09:49.032861-04:00.jpg">
-  <img src="https://archive.org/download/goupstate-2022/goupstate-2022-10-07T20:09:49.032861-04:00.jpg"
-     alt="Spartanburg Herald-Journal at 2022-10-07 20:09:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-07T20:09:49.032861-04:00.jpg">October 7 at 8:09 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-07T08:12:27.358571-04:00.jpg">
-  <img src="https://archive.org/download/goupstate-2022/goupstate-2022-10-07T08:12:27.358571-04:00.jpg"
-     alt="Spartanburg Herald-Journal at 2022-10-07 08:12:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/goupstate-2022/goupstate-2022-10-07T08:12:27.358571-04:00.jpg">October 7 at 8:12 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 46 hyperlink lists with the Internet Archive.
+The archiving routine has saved 48 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 13 at 8:02 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-13T20:01:55.680100-04:00.hyperlinks.json) |
+| [October 13 at 7:52 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-13T07:52:49.351496-04:00.hyperlinks.json) |
 | [October 12 at 7:57 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-12T19:57:00.425212-04:00.hyperlinks.json) |
 | [October 12 at 8:05 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-12T08:05:20.577202-04:00.hyperlinks.json) |
 | [October 11 at 8:02 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-11T20:01:58.405424-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 8:29 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-10T08:28:55.552060-04:00.hyperlinks.json) |
 | [October 9 at 7:49 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-09T19:49:11.453403-04:00.hyperlinks.json) |
 | [October 9 at 8:04 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-09T08:04:08.607491-04:00.hyperlinks.json) |
-| [October 8 at 8:07 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-08T20:07:48.222451-04:00.hyperlinks.json) |
-| [October 8 at 7:57 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-08T07:57:09.464470-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 13 at 8:02 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-13T20:01:55.680100-04:00.accessibility.json) |
+| [October 13 at 7:52 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-13T07:52:49.351496-04:00.accessibility.json) |
 | [October 12 at 7:57 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-12T19:57:00.425212-04:00.accessibility.json) |
 | [October 12 at 8:05 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-12T08:05:20.577202-04:00.accessibility.json) |
 | [October 11 at 8:02 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-11T20:01:58.405424-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 8:29 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-10T08:28:55.552060-04:00.accessibility.json) |
 | [October 9 at 7:49 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-09T19:49:11.453403-04:00.accessibility.json) |
 | [October 9 at 8:04 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-09T08:04:08.607491-04:00.accessibility.json) |
-| [October 8 at 8:07 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-08T20:07:48.222451-04:00.accessibility.json) |
-| [October 8 at 7:57 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-08T07:57:09.464470-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 13 at 8:02 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-13T20:01:55.680100-04:00.lighthouse.json) |
+| [October 13 at 7:52 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-13T07:52:49.351496-04:00.lighthouse.json) |
 | [October 12 at 7:57 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-12T19:57:00.425212-04:00.lighthouse.json) |
 | [October 12 at 8:05 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-12T08:05:20.577202-04:00.lighthouse.json) |
 | [October 11 at 8:02 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-11T20:01:58.405424-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 8:29 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-10T08:28:55.552060-04:00.lighthouse.json) |
 | [October 9 at 7:49 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-09T19:49:11.453403-04:00.lighthouse.json) |
 | [October 9 at 8:04 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-09T08:04:08.607491-04:00.lighthouse.json) |
-| [October 8 at 8:07 PM](https://archive.org/download/goupstate-2022/goupstate-2022-10-08T20:07:48.222451-04:00.lighthouse.json) |
-| [October 8 at 7:57 AM](https://archive.org/download/goupstate-2022/goupstate-2022-10-08T07:57:09.464470-04:00.lighthouse.json) |
 
 
 
