@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 195 screenshots with the Internet Archive.
+The archiving routine has saved 196 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 195 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T14:52:26.269186-05:00.jpg">
+  <img src="https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T14:52:26.269186-05:00.jpg"
+     alt="Flatwater Free Press at 2022-10-14 14:52:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T14:52:26.269186-05:00.jpg">October 14 at 2:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T01:38:27.816187-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-09T02:21:05.835884-05:00.jpg">October 9 at 2:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-08T12:54:12.722477-05:00.jpg">
-  <img src="https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-08T12:54:12.722477-05:00.jpg"
-     alt="Flatwater Free Press at 2022-10-08 12:54:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-08T12:54:12.722477-05:00.jpg">October 8 at 12:54 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 195 hyperlink lists with the Internet Archive.
+The archiving routine has saved 196 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 2:52 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T14:52:26.269186-05:00.hyperlinks.json) |
 | [October 14 at 1:38 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T01:38:27.816187-05:00.hyperlinks.json) |
 | [October 13 at 1:52 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-13T13:52:35.125705-05:00.hyperlinks.json) |
 | [October 13 at 1:04 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-13T01:04:47.017358-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 1:47 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-11T01:47:35.441097-05:00.hyperlinks.json) |
 | [October 10 at 1:59 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-10T13:59:17.388176-05:00.hyperlinks.json) |
 | [October 10 at 1:40 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-10T01:40:05.416296-05:00.hyperlinks.json) |
-| [October 9 at 12:51 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-09T12:51:26.443010-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 195 accessibility trees with the Internet Archive.
+The archiving routine has saved 196 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 2:52 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T14:52:26.269186-05:00.accessibility.json) |
 | [October 14 at 1:38 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T01:38:27.816187-05:00.accessibility.json) |
 | [October 13 at 1:52 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-13T13:52:35.125705-05:00.accessibility.json) |
 | [October 13 at 1:04 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-13T01:04:47.017358-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 1:47 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-11T01:47:35.441097-05:00.accessibility.json) |
 | [October 10 at 1:59 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-10T13:59:17.388176-05:00.accessibility.json) |
 | [October 10 at 1:40 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-10T01:40:05.416296-05:00.accessibility.json) |
-| [October 9 at 12:51 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-09T12:51:26.443010-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 2:52 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T14:52:26.269186-05:00.lighthouse.json) |
 | [October 14 at 1:38 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-14T01:38:27.816187-05:00.lighthouse.json) |
 | [October 13 at 1:52 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-13T13:52:35.125705-05:00.lighthouse.json) |
 | [October 13 at 1:04 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-13T01:04:47.017358-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 1:47 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-11T01:47:35.441097-05:00.lighthouse.json) |
 | [October 10 at 1:59 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-10T13:59:17.388176-05:00.lighthouse.json) |
 | [October 10 at 1:40 AM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-10T01:40:05.416296-05:00.lighthouse.json) |
-| [October 9 at 12:51 PM](https://archive.org/download/flatwaterfreep-2022/flatwaterfreep-2022-10-09T12:51:26.443010-05:00.lighthouse.json) |
 
 
 

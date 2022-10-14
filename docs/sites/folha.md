@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 204 screenshots with the Internet Archive.
+The archiving routine has saved 205 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 204 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/folha-2022/folha-2022-10-14T16:50:17.437990-03:00.jpg">
+  <img src="https://archive.org/download/folha-2022/folha-2022-10-14T16:50:17.437990-03:00.jpg"
+     alt="Folha de S.Paulo at 2022-10-14 16:50:19-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/folha-2022/folha-2022-10-14T16:50:17.437990-03:00.jpg">October 14 at 4:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/folha-2022/folha-2022-10-14T09:12:15.894364-03:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/folha-2022/folha-2022-10-11T03:47:18.949180-03:00.jpg">October 11 at 3:47 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/folha-2022/folha-2022-10-10T16:01:16.153539-03:00.jpg">
-  <img src="https://archive.org/download/folha-2022/folha-2022-10-10T16:01:16.153539-03:00.jpg"
-     alt="Folha de S.Paulo at 2022-10-10 16:01:17-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/folha-2022/folha-2022-10-10T16:01:16.153539-03:00.jpg">October 10 at 4:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 204 hyperlink lists with the Internet Archive.
+The archiving routine has saved 205 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 4:50 PM](https://archive.org/download/folha-2022/folha-2022-10-14T16:50:17.437990-03:00.hyperlinks.json) |
 | [October 14 at 9:12 AM](https://archive.org/download/folha-2022/folha-2022-10-14T09:12:15.894364-03:00.hyperlinks.json) |
 | [October 14 at 3:38 AM](https://archive.org/download/folha-2022/folha-2022-10-14T03:37:57.021520-03:00.hyperlinks.json) |
 | [October 13 at 3:51 PM](https://archive.org/download/folha-2022/folha-2022-10-13T15:51:41.198006-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 9:06 AM](https://archive.org/download/folha-2022/folha-2022-10-12T09:06:29.058242-03:00.hyperlinks.json) |
 | [October 12 at 3:41 AM](https://archive.org/download/folha-2022/folha-2022-10-12T03:41:25.121804-03:00.hyperlinks.json) |
 | [October 11 at 3:01 PM](https://archive.org/download/folha-2022/folha-2022-10-11T15:01:40.665105-03:00.hyperlinks.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/folha-2022/folha-2022-10-11T09:10:38.581713-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 204 accessibility trees with the Internet Archive.
+The archiving routine has saved 205 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 4:50 PM](https://archive.org/download/folha-2022/folha-2022-10-14T16:50:17.437990-03:00.accessibility.json) |
 | [October 14 at 9:12 AM](https://archive.org/download/folha-2022/folha-2022-10-14T09:12:15.894364-03:00.accessibility.json) |
 | [October 14 at 3:38 AM](https://archive.org/download/folha-2022/folha-2022-10-14T03:37:57.021520-03:00.accessibility.json) |
 | [October 13 at 3:51 PM](https://archive.org/download/folha-2022/folha-2022-10-13T15:51:41.198006-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 9:06 AM](https://archive.org/download/folha-2022/folha-2022-10-12T09:06:29.058242-03:00.accessibility.json) |
 | [October 12 at 3:41 AM](https://archive.org/download/folha-2022/folha-2022-10-12T03:41:25.121804-03:00.accessibility.json) |
 | [October 11 at 3:01 PM](https://archive.org/download/folha-2022/folha-2022-10-11T15:01:40.665105-03:00.accessibility.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/folha-2022/folha-2022-10-11T09:10:38.581713-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 205 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 206 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 4:50 PM](https://archive.org/download/folha-2022/folha-2022-10-14T16:50:17.437990-03:00.lighthouse.json) |
 | [October 14 at 9:12 AM](https://archive.org/download/folha-2022/folha-2022-10-14T09:12:15.894364-03:00.lighthouse.json) |
 | [October 14 at 3:38 AM](https://archive.org/download/folha-2022/folha-2022-10-14T03:37:57.021520-03:00.lighthouse.json) |
 | [October 13 at 3:51 PM](https://archive.org/download/folha-2022/folha-2022-10-13T15:51:41.198006-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 9:06 AM](https://archive.org/download/folha-2022/folha-2022-10-12T09:06:29.058242-03:00.lighthouse.json) |
 | [October 12 at 3:41 AM](https://archive.org/download/folha-2022/folha-2022-10-12T03:41:25.121804-03:00.lighthouse.json) |
 | [October 11 at 3:01 PM](https://archive.org/download/folha-2022/folha-2022-10-11T15:01:40.665105-03:00.lighthouse.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/folha-2022/folha-2022-10-11T09:10:38.581713-03:00.lighthouse.json) |
 
 
 

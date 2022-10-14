@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 48 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-14T15:48:36.872290-04:00.jpg">
+  <img src="https://archive.org/download/echopilot-2022/echopilot-2022-10-14T15:48:36.872290-04:00.jpg"
+     alt="Echo-Pilot at 2022-10-14 15:48:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-14T15:48:36.872290-04:00.jpg">October 14 at 3:48 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-14T02:37:55.820478-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-09T03:20:50.173551-04:00.jpg">October 9 at 3:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-08T13:48:40.827777-04:00.jpg">
-  <img src="https://archive.org/download/echopilot-2022/echopilot-2022-10-08T13:48:40.827777-04:00.jpg"
-     alt="Echo-Pilot at 2022-10-08 13:48:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/echopilot-2022/echopilot-2022-10-08T13:48:40.827777-04:00.jpg">October 8 at 1:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 3:48 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-14T15:48:36.872290-04:00.hyperlinks.json) |
 | [October 14 at 2:38 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-14T02:37:55.820478-04:00.hyperlinks.json) |
 | [October 13 at 2:52 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-13T14:52:40.128399-04:00.hyperlinks.json) |
 | [October 13 at 2:02 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-13T02:02:45.270786-04:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 2:45 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-11T02:44:51.207971-04:00.hyperlinks.json) |
 | [October 10 at 2:59 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-10T14:59:17.535171-04:00.hyperlinks.json) |
 | [October 10 at 2:34 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-10T02:34:53.923680-04:00.hyperlinks.json) |
-| [October 9 at 1:46 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-09T13:46:31.309629-04:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 3:48 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-14T15:48:36.872290-04:00.lighthouse.json) |
 | [October 14 at 2:38 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-14T02:37:55.820478-04:00.lighthouse.json) |
 | [October 13 at 2:52 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-13T14:52:40.128399-04:00.lighthouse.json) |
 | [October 13 at 2:02 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-13T02:02:45.270786-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 2:45 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-11T02:44:51.207971-04:00.lighthouse.json) |
 | [October 10 at 2:59 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-10T14:59:17.535171-04:00.lighthouse.json) |
 | [October 10 at 2:35 AM](https://archive.org/download/echopilot-2022/echopilot-2022-10-10T02:34:53.923680-04:00.lighthouse.json) |
-| [October 9 at 1:46 PM](https://archive.org/download/echopilot-2022/echopilot-2022-10-09T13:46:31.309629-04:00.lighthouse.json) |
 
 
 

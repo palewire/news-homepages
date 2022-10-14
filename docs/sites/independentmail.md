@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-14T14:12:17.115837-04:00.jpg">
+  <img src="https://archive.org/download/independentmail-2022/independentmail-2022-10-14T14:12:17.115837-04:00.jpg"
+     alt="Anderson Independent-Mail at 2022-10-14 14:12:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-14T14:12:17.115837-04:00.jpg">October 14 at 2:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-14T02:24:40.314838-04:00.jpg">
+  <img src="https://archive.org/download/independentmail-2022/independentmail-2022-10-14T02:24:40.314838-04:00.jpg"
+     alt="Anderson Independent-Mail at 2022-10-14 02:24:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-14T02:24:40.314838-04:00.jpg">October 14 at 2:24 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-13T13:47:39.237318-04:00.jpg">
   <img src="https://archive.org/download/independentmail-2022/independentmail-2022-10-13T13:47:39.237318-04:00.jpg"
      alt="Anderson Independent-Mail at 2022-10-13 13:47:43-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-09T01:20:09.570013-04:00.jpg">October 9 at 1:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-08T13:35:41.691640-04:00.jpg">
-  <img src="https://archive.org/download/independentmail-2022/independentmail-2022-10-08T13:35:41.691640-04:00.jpg"
-     alt="Anderson Independent-Mail at 2022-10-08 13:35:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-08T13:35:41.691640-04:00.jpg">October 8 at 1:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-08T01:40:34.377805-04:00.jpg">
-  <img src="https://archive.org/download/independentmail-2022/independentmail-2022-10-08T01:40:34.377805-04:00.jpg"
-     alt="Anderson Independent-Mail at 2022-10-08 01:40:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/independentmail-2022/independentmail-2022-10-08T01:40:34.377805-04:00.jpg">October 8 at 1:40 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 2:12 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-14T14:12:17.115837-04:00.hyperlinks.json) |
+| [October 14 at 2:24 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-14T02:24:40.314838-04:00.hyperlinks.json) |
 | [October 13 at 1:47 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-13T13:47:39.237318-04:00.hyperlinks.json) |
 | [October 13 at 1:52 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-13T01:52:36.224542-04:00.hyperlinks.json) |
 | [October 12 at 1:21 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-12T13:21:29.813066-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 2:29 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-11T02:29:00.817169-04:00.hyperlinks.json) |
 | [October 10 at 2:00 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-10T14:00:49.307063-04:00.hyperlinks.json) |
 | [October 10 at 4:13 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-10T04:13:32.781528-04:00.hyperlinks.json) |
-| [October 9 at 1:33 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-09T13:33:24.783067-04:00.hyperlinks.json) |
-| [October 9 at 1:20 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-09T01:20:09.570013-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 2:12 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-14T14:12:17.115837-04:00.accessibility.json) |
+| [October 14 at 2:24 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-14T02:24:40.314838-04:00.accessibility.json) |
 | [October 13 at 1:47 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-13T13:47:39.237318-04:00.accessibility.json) |
 | [October 13 at 1:52 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-13T01:52:36.224542-04:00.accessibility.json) |
 | [October 12 at 1:21 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-12T13:21:29.813066-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 2:29 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-11T02:29:00.817169-04:00.accessibility.json) |
 | [October 10 at 2:00 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-10T14:00:49.307063-04:00.accessibility.json) |
 | [October 10 at 4:13 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-10T04:13:32.781528-04:00.accessibility.json) |
-| [October 9 at 1:33 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-09T13:33:24.783067-04:00.accessibility.json) |
-| [October 9 at 1:20 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-09T01:20:09.570013-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 2:12 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-14T14:12:17.115837-04:00.lighthouse.json) |
+| [October 14 at 2:24 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-14T02:24:40.314838-04:00.lighthouse.json) |
 | [October 13 at 1:47 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-13T13:47:39.237318-04:00.lighthouse.json) |
 | [October 13 at 1:52 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-13T01:52:36.224542-04:00.lighthouse.json) |
 | [October 12 at 1:21 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-12T13:21:29.813066-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 2:29 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-11T02:29:00.817169-04:00.lighthouse.json) |
 | [October 10 at 2:00 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-10T14:00:49.307063-04:00.lighthouse.json) |
 | [October 10 at 4:13 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-10T04:13:32.781528-04:00.lighthouse.json) |
-| [October 9 at 1:33 PM](https://archive.org/download/independentmail-2022/independentmail-2022-10-09T13:33:24.783067-04:00.lighthouse.json) |
-| [October 9 at 1:20 AM](https://archive.org/download/independentmail-2022/independentmail-2022-10-09T01:20:09.570013-04:00.lighthouse.json) |
 
 
 

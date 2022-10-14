@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-14T11:18:11.539430-07:00.jpg">
+  <img src="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-14T11:18:11.539430-07:00.jpg"
+     alt="Mount Shasta Herald at 2022-10-14 11:18:16-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-14T11:18:11.539430-07:00.jpg">October 14 at 11:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T23:30:44.073738-07:00.jpg">
+  <img src="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T23:30:44.073738-07:00.jpg"
+     alt="Mount Shasta Herald at 2022-10-13 23:30:47-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T23:30:44.073738-07:00.jpg">October 13 at 11:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T10:54:29.478723-07:00.jpg">
   <img src="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T10:54:29.478723-07:00.jpg"
      alt="Mount Shasta Herald at 2022-10-13 10:54:33-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-08T22:25:44.325647-07:00.jpg">October 8 at 10:25 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-08T10:41:33.849073-07:00.jpg">
-  <img src="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-08T10:41:33.849073-07:00.jpg"
-     alt="Mount Shasta Herald at 2022-10-08 10:41:37-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-08T10:41:33.849073-07:00.jpg">October 8 at 10:41 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-07T22:45:45.965034-07:00.jpg">
-  <img src="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-07T22:45:45.965034-07:00.jpg"
-     alt="Mount Shasta Herald at 2022-10-07 22:45:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-07T22:45:45.965034-07:00.jpg">October 7 at 10:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 11:18 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-14T11:18:11.539430-07:00.hyperlinks.json) |
+| [October 13 at 11:30 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T23:30:44.073738-07:00.hyperlinks.json) |
 | [October 13 at 10:54 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T10:54:29.478723-07:00.hyperlinks.json) |
 | [October 12 at 10:56 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-12T22:56:45.262965-07:00.hyperlinks.json) |
 | [October 12 at 10:26 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-12T10:26:06.687072-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 10 at 11:39 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-10T23:39:24.770733-07:00.hyperlinks.json) |
 | [October 10 at 11:15 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-10T11:15:27.314515-07:00.hyperlinks.json) |
 | [October 10 at 1:22 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-10T01:21:58.097539-07:00.hyperlinks.json) |
-| [October 9 at 10:37 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-09T10:37:17.204967-07:00.hyperlinks.json) |
-| [October 8 at 10:25 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-08T22:25:44.325647-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 11:18 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-14T11:18:11.539430-07:00.accessibility.json) |
+| [October 13 at 11:30 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T23:30:44.073738-07:00.accessibility.json) |
 | [October 13 at 10:54 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T10:54:29.478723-07:00.accessibility.json) |
 | [October 12 at 10:56 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-12T22:56:45.262965-07:00.accessibility.json) |
 | [October 12 at 10:26 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-12T10:26:06.687072-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 10 at 11:39 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-10T23:39:24.770733-07:00.accessibility.json) |
 | [October 10 at 11:15 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-10T11:15:27.314515-07:00.accessibility.json) |
 | [October 10 at 1:22 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-10T01:21:58.097539-07:00.accessibility.json) |
-| [October 9 at 10:37 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-09T10:37:17.204967-07:00.accessibility.json) |
-| [October 8 at 10:25 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-08T22:25:44.325647-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 46 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 11:18 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-14T11:18:11.539430-07:00.lighthouse.json) |
+| [October 13 at 11:30 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T23:30:44.073738-07:00.lighthouse.json) |
 | [October 13 at 10:54 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-13T10:54:29.478723-07:00.lighthouse.json) |
 | [October 12 at 10:56 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-12T22:56:45.262965-07:00.lighthouse.json) |
 | [October 12 at 10:26 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-12T10:26:06.687072-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 10 at 11:39 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-10T23:39:24.770733-07:00.lighthouse.json) |
 | [October 10 at 11:15 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-10T11:15:27.314515-07:00.lighthouse.json) |
 | [October 10 at 1:22 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-10T01:21:58.097539-07:00.lighthouse.json) |
-| [October 9 at 10:37 AM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-09T10:37:17.204967-07:00.lighthouse.json) |
-| [October 8 at 10:25 PM](https://archive.org/download/mtshastanews-2022/mtshastanews-2022-10-08T22:25:44.325647-07:00.lighthouse.json) |
 
 
 

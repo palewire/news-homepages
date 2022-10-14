@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 143 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T14:18:37.348235-04:00.jpg">
+  <img src="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T14:18:37.348235-04:00.jpg"
+     alt="Morning Brew at 2022-10-14 14:18:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T14:18:37.348235-04:00.jpg">October 14 at 2:18 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T02:30:55.914940-04:00.jpg">
+  <img src="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T02:30:55.914940-04:00.jpg"
+     alt="Morning Brew at 2022-10-14 02:31:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T02:30:55.914940-04:00.jpg">October 14 at 2:31 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-13T13:54:07.454700-04:00.jpg">
   <img src="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-13T13:54:07.454700-04:00.jpg"
      alt="Morning Brew at 2022-10-13 13:54:11-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-09T01:25:22.360452-04:00.jpg">October 9 at 1:25 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-08T13:41:33.592810-04:00.jpg">
-  <img src="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-08T13:41:33.592810-04:00.jpg"
-     alt="Morning Brew at 2022-10-08 13:41:39-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-08T13:41:33.592810-04:00.jpg">October 8 at 1:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-08T01:45:03.910410-04:00.jpg">
-  <img src="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-08T01:45:03.910410-04:00.jpg"
-     alt="Morning Brew at 2022-10-08 01:45:11-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/morningbrew-2022/morningbrew-2022-10-08T01:45:03.910410-04:00.jpg">October 8 at 1:45 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 143 hyperlink lists with the Internet Archive.
+The archiving routine has saved 145 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 2:18 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T14:18:37.348235-04:00.hyperlinks.json) |
+| [October 14 at 2:31 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T02:30:55.914940-04:00.hyperlinks.json) |
 | [October 13 at 1:54 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-13T13:54:07.454700-04:00.hyperlinks.json) |
 | [October 13 at 1:58 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-13T01:57:55.759095-04:00.hyperlinks.json) |
 | [October 12 at 1:25 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-12T13:25:26.201412-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 2:38 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-11T02:38:43.672380-04:00.hyperlinks.json) |
 | [October 10 at 2:16 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-10T14:16:15.093629-04:00.hyperlinks.json) |
 | [October 10 at 4:19 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-10T04:19:09.256680-04:00.hyperlinks.json) |
-| [October 9 at 1:37 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-09T13:37:31.111638-04:00.hyperlinks.json) |
-| [October 9 at 1:25 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-09T01:25:22.360452-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 143 accessibility trees with the Internet Archive.
+The archiving routine has saved 145 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 2:18 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T14:18:37.348235-04:00.accessibility.json) |
+| [October 14 at 2:31 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T02:30:55.914940-04:00.accessibility.json) |
 | [October 13 at 1:54 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-13T13:54:07.454700-04:00.accessibility.json) |
 | [October 13 at 1:58 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-13T01:57:55.759095-04:00.accessibility.json) |
 | [October 12 at 1:25 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-12T13:25:26.201412-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 2:38 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-11T02:38:43.672380-04:00.accessibility.json) |
 | [October 10 at 2:16 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-10T14:16:15.093629-04:00.accessibility.json) |
 | [October 10 at 4:19 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-10T04:19:09.256680-04:00.accessibility.json) |
-| [October 9 at 1:37 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-09T13:37:31.111638-04:00.accessibility.json) |
-| [October 9 at 1:25 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-09T01:25:22.360452-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 142 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 144 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 2:18 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T14:18:37.348235-04:00.lighthouse.json) |
+| [October 14 at 2:31 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-14T02:30:55.914940-04:00.lighthouse.json) |
 | [October 13 at 1:54 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-13T13:54:07.454700-04:00.lighthouse.json) |
 | [October 13 at 1:58 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-13T01:57:55.759095-04:00.lighthouse.json) |
 | [October 12 at 1:25 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-12T13:25:26.201412-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 2:38 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-11T02:38:43.672380-04:00.lighthouse.json) |
 | [October 10 at 2:17 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-10T14:16:15.093629-04:00.lighthouse.json) |
 | [October 10 at 4:19 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-10T04:19:09.256680-04:00.lighthouse.json) |
-| [October 9 at 1:37 PM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-09T13:37:31.111638-04:00.lighthouse.json) |
-| [October 9 at 1:25 AM](https://archive.org/download/morningbrew-2022/morningbrew-2022-10-09T01:25:22.360452-04:00.lighthouse.json) |
 
 
 

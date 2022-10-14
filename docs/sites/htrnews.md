@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 343 screenshots with the Internet Archive.
+The archiving routine has saved 345 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-14T13:11:32.455957-05:00.jpg">
+  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-10-14T13:11:32.455957-05:00.jpg"
+     alt="Herald Times Reporter at 2022-10-14 13:11:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-14T13:11:32.455957-05:00.jpg">October 14 at 1:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-14T01:24:46.432999-05:00.jpg">
+  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-10-14T01:24:46.432999-05:00.jpg"
+     alt="Herald Times Reporter at 2022-10-14 01:24:47-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-14T01:24:46.432999-05:00.jpg">October 14 at 1:24 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-13T12:48:14.401578-05:00.jpg">
   <img src="https://archive.org/download/htrnews-2022/htrnews-2022-10-13T12:48:14.401578-05:00.jpg"
      alt="Herald Times Reporter at 2022-10-13 12:48:25-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-09T00:20:08.776027-05:00.jpg">October 9 at 12:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-08T12:35:30.771482-05:00.jpg">
-  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-10-08T12:35:30.771482-05:00.jpg"
-     alt="Herald Times Reporter at 2022-10-08 12:35:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-08T12:35:30.771482-05:00.jpg">October 8 at 12:35 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-08T00:40:21.796246-05:00.jpg">
-  <img src="https://archive.org/download/htrnews-2022/htrnews-2022-10-08T00:40:21.796246-05:00.jpg"
-     alt="Herald Times Reporter at 2022-10-08 00:40:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/htrnews-2022/htrnews-2022-10-08T00:40:21.796246-05:00.jpg">October 8 at 12:40 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 342 hyperlink lists with the Internet Archive.
+The archiving routine has saved 344 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 1:11 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-14T13:11:32.455957-05:00.hyperlinks.json) |
+| [October 14 at 1:24 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-14T01:24:46.432999-05:00.hyperlinks.json) |
 | [October 13 at 12:48 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-13T12:48:14.401578-05:00.hyperlinks.json) |
 | [October 13 at 12:52 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-13T00:52:27.959007-05:00.hyperlinks.json) |
 | [October 12 at 12:20 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-12T12:20:06.424041-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 1:29 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-11T01:28:55.244291-05:00.hyperlinks.json) |
 | [October 10 at 1:01 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-10T13:00:55.391818-05:00.hyperlinks.json) |
 | [October 10 at 3:14 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-10T03:13:27.981815-05:00.hyperlinks.json) |
-| [October 9 at 12:33 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-09T12:33:12.751916-05:00.hyperlinks.json) |
-| [October 9 at 12:20 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-09T00:20:08.776027-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 342 accessibility trees with the Internet Archive.
+The archiving routine has saved 344 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 1:11 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-14T13:11:32.455957-05:00.accessibility.json) |
+| [October 14 at 1:24 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-14T01:24:46.432999-05:00.accessibility.json) |
 | [October 13 at 12:48 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-13T12:48:14.401578-05:00.accessibility.json) |
 | [October 13 at 12:52 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-13T00:52:27.959007-05:00.accessibility.json) |
 | [October 12 at 12:20 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-12T12:20:06.424041-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 1:28 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-11T01:28:55.244291-05:00.accessibility.json) |
 | [October 10 at 1:00 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-10T13:00:55.391818-05:00.accessibility.json) |
 | [October 10 at 3:14 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-10T03:13:27.981815-05:00.accessibility.json) |
-| [October 9 at 12:33 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-09T12:33:12.751916-05:00.accessibility.json) |
-| [October 9 at 12:20 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-09T00:20:08.776027-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 1:11 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-14T13:11:32.455957-05:00.lighthouse.json) |
+| [October 14 at 1:24 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-14T01:24:46.432999-05:00.lighthouse.json) |
 | [October 13 at 12:48 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-13T12:48:14.401578-05:00.lighthouse.json) |
 | [October 13 at 12:52 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-13T00:52:27.959007-05:00.lighthouse.json) |
 | [October 12 at 12:20 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-12T12:20:06.424041-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 1:29 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-11T01:28:55.244291-05:00.lighthouse.json) |
 | [October 10 at 1:01 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-10T13:00:55.391818-05:00.lighthouse.json) |
 | [October 10 at 3:14 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-10T03:13:27.981815-05:00.lighthouse.json) |
-| [October 9 at 12:33 PM](https://archive.org/download/htrnews-2022/htrnews-2022-10-09T12:33:12.751916-05:00.lighthouse.json) |
-| [October 9 at 12:20 AM](https://archive.org/download/htrnews-2022/htrnews-2022-10-09T00:20:08.776027-05:00.lighthouse.json) |
 
 
 

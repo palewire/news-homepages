@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T14:11:37.614806-04:00.jpg">
+  <img src="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T14:11:37.614806-04:00.jpg"
+     alt="Ithaca Journal at 2022-10-14 14:11:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T14:11:37.614806-04:00.jpg">October 14 at 2:11 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T02:24:28.998014-04:00.jpg">
+  <img src="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T02:24:28.998014-04:00.jpg"
+     alt="Ithaca Journal at 2022-10-14 02:24:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T02:24:28.998014-04:00.jpg">October 14 at 2:24 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-13T13:48:14.471866-04:00.jpg">
   <img src="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-13T13:48:14.471866-04:00.jpg"
      alt="Ithaca Journal at 2022-10-13 13:48:16-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-09T01:21:46.456204-04:00.jpg">October 9 at 1:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-08T13:37:46.401408-04:00.jpg">
-  <img src="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-08T13:37:46.401408-04:00.jpg"
-     alt="Ithaca Journal at 2022-10-08 13:37:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-08T13:37:46.401408-04:00.jpg">October 8 at 1:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-08T01:41:35.061508-04:00.jpg">
-  <img src="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-08T01:41:35.061508-04:00.jpg"
-     alt="Ithaca Journal at 2022-10-08 01:41:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-08T01:41:35.061508-04:00.jpg">October 8 at 1:41 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 2:11 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T14:11:37.614806-04:00.hyperlinks.json) |
+| [October 14 at 2:24 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T02:24:28.998014-04:00.hyperlinks.json) |
 | [October 13 at 1:48 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-13T13:48:14.471866-04:00.hyperlinks.json) |
 | [October 13 at 1:52 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-13T01:52:31.064356-04:00.hyperlinks.json) |
 | [October 12 at 1:21 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-12T13:21:25.704239-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 2:29 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-11T02:28:57.323910-04:00.hyperlinks.json) |
 | [October 10 at 2:01 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-10T14:00:58.705824-04:00.hyperlinks.json) |
 | [October 10 at 4:15 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-10T04:15:23.161566-04:00.hyperlinks.json) |
-| [October 9 at 1:33 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-09T13:32:58.416660-04:00.hyperlinks.json) |
-| [October 9 at 1:21 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-09T01:21:46.456204-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 48 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 2:11 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T14:11:37.614806-04:00.accessibility.json) |
+| [October 14 at 2:24 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T02:24:28.998014-04:00.accessibility.json) |
 | [October 13 at 1:48 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-13T13:48:14.471866-04:00.accessibility.json) |
 | [October 13 at 1:52 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-13T01:52:31.064356-04:00.accessibility.json) |
 | [October 12 at 1:21 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-12T13:21:25.704239-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 2:29 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-11T02:28:57.323910-04:00.accessibility.json) |
 | [October 10 at 2:01 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-10T14:00:58.705824-04:00.accessibility.json) |
 | [October 10 at 4:15 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-10T04:15:23.161566-04:00.accessibility.json) |
-| [October 9 at 1:33 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-09T13:32:58.416660-04:00.accessibility.json) |
-| [October 9 at 1:21 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-09T01:21:46.456204-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 2:11 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T14:11:37.614806-04:00.lighthouse.json) |
+| [October 14 at 2:24 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-14T02:24:28.998014-04:00.lighthouse.json) |
 | [October 13 at 1:48 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-13T13:48:14.471866-04:00.lighthouse.json) |
 | [October 13 at 1:52 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-13T01:52:31.064356-04:00.lighthouse.json) |
 | [October 12 at 1:21 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-12T13:21:25.704239-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 2:29 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-11T02:28:57.323910-04:00.lighthouse.json) |
 | [October 10 at 2:01 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-10T14:00:58.705824-04:00.lighthouse.json) |
 | [October 10 at 4:15 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-10T04:15:23.161566-04:00.lighthouse.json) |
-| [October 9 at 1:33 PM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-09T13:32:58.416660-04:00.lighthouse.json) |
-| [October 9 at 1:21 AM](https://archive.org/download/ithacajournal-2022/ithacajournal-2022-10-09T01:21:46.456204-04:00.lighthouse.json) |
 
 
 
