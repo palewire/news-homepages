@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 190 screenshots with the Internet Archive.
+The archiving routine has saved 192 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-14T05:03:48.922583-03:00.jpg">
+  <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-14T05:03:48.922583-03:00.jpg"
+     alt="revista piauí at 2022-10-14 05:03:53-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-14T05:03:48.922583-03:00.jpg">October 14 at 5:03 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T17:10:49.901119-03:00.jpg">
+  <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T17:10:49.901119-03:00.jpg"
+     alt="revista piauí at 2022-10-13 17:10:55-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T17:10:49.901119-03:00.jpg">October 13 at 5:10 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T08:54:24.257253-03:00.jpg">
   <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T08:54:24.257253-03:00.jpg"
      alt="revista piauí at 2022-10-13 08:54:29-03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T09:17:55.619080-03:00.jpg">October 10 at 9:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T05:37:41.528090-03:00.jpg">
-  <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T05:37:41.528090-03:00.jpg"
-     alt="revista piauí at 2022-10-10 05:37:49-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T05:37:41.528090-03:00.jpg">October 10 at 5:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-09T16:22:41.001467-03:00.jpg">
-  <img src="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-09T16:22:41.001467-03:00.jpg"
-     alt="revista piauí at 2022-10-09 16:22:47-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-09T16:22:41.001467-03:00.jpg">October 9 at 4:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 189 hyperlink lists with the Internet Archive.
+The archiving routine has saved 191 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 5:03 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-14T05:03:48.922583-03:00.hyperlinks.json) |
+| [October 13 at 5:10 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T17:10:49.901119-03:00.hyperlinks.json) |
 | [October 13 at 8:54 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T08:54:24.257253-03:00.hyperlinks.json) |
 | [October 13 at 4:23 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T04:22:55.343756-03:00.hyperlinks.json) |
 | [October 12 at 4:18 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-12T16:18:38.924752-03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 4:13 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-11T16:13:00.605972-03:00.hyperlinks.json) |
 | [October 11 at 9:10 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-11T09:10:30.678614-03:00.hyperlinks.json) |
 | [October 11 at 5:07 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-11T05:06:51.403247-03:00.hyperlinks.json) |
-| [October 10 at 4:46 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T16:46:38.100547-03:00.hyperlinks.json) |
-| [October 10 at 9:18 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T09:17:55.619080-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 190 accessibility trees with the Internet Archive.
+The archiving routine has saved 192 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 5:03 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-14T05:03:48.922583-03:00.accessibility.json) |
+| [October 13 at 5:10 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T17:10:49.901119-03:00.accessibility.json) |
 | [October 13 at 8:54 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T08:54:24.257253-03:00.accessibility.json) |
 | [October 13 at 4:23 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T04:22:55.343756-03:00.accessibility.json) |
 | [October 12 at 4:18 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-12T16:18:38.924752-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 4:13 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-11T16:13:00.605972-03:00.accessibility.json) |
 | [October 11 at 9:10 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-11T09:10:30.678614-03:00.accessibility.json) |
 | [October 11 at 5:07 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-11T05:06:51.403247-03:00.accessibility.json) |
-| [October 10 at 4:46 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T16:46:38.100547-03:00.accessibility.json) |
-| [October 10 at 9:18 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T09:17:55.619080-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 191 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 193 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 5:03 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-14T05:03:48.922583-03:00.lighthouse.json) |
+| [October 13 at 5:11 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T17:10:49.901119-03:00.lighthouse.json) |
 | [October 13 at 8:54 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T08:54:24.257253-03:00.lighthouse.json) |
 | [October 13 at 4:23 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-13T04:22:55.343756-03:00.lighthouse.json) |
 | [October 12 at 4:18 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-12T16:18:38.924752-03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 4:13 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-11T16:13:00.605972-03:00.lighthouse.json) |
 | [October 11 at 9:10 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-11T09:10:30.678614-03:00.lighthouse.json) |
 | [October 11 at 5:07 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-11T05:06:51.403247-03:00.lighthouse.json) |
-| [October 10 at 4:46 PM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T16:46:38.100547-03:00.lighthouse.json) |
-| [October 10 at 9:18 AM](https://archive.org/download/revistapiaui-2022/revistapiaui-2022-10-10T09:17:55.619080-03:00.lighthouse.json) |
 
 
 
