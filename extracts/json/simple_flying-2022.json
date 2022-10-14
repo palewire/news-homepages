@@ -1,6 +1,5 @@
 {
-  "conflict": 1665653217,
-  "created": 1665645882,
+  "created": 1665734840,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/34/items/simple_flying-2022",
@@ -9675,31 +9674,279 @@
       "sha1": "0681fd2014e1d1e860cd860e0faf045422e41128"
     },
     {
+      "name": "simple_flying-2022-10-13T08:24:37.720980+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665645887",
+      "size": "35503",
+      "md5": "db737d65072d227c4aec257bb4116f1a",
+      "crc32": "0d2a2003",
+      "sha1": "eabf6688e08057e00c9105a5a9d4c32484d9f8d5",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T08:24:37.720980+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665645890",
+      "size": "26682",
+      "md5": "25c36d130fca9fa3c30de2a08e5d26a6",
+      "crc32": "ca548de0",
+      "sha1": "b1bdad3ef7a5f5d1d6b1f380268cd11685dbae8f",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T08:24:37.720980+01:00.jpg",
+      "source": "original",
+      "mtime": "1665645884",
+      "size": "217134",
+      "md5": "83736a8a98916cc19e10871139a89c7a",
+      "crc32": "deb0ecca",
+      "sha1": "53d9bc1404d199b851db2842d6cebb2c444c3b1d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "simple_flying-2022-10-13T08:24:37.720980+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665645892",
+      "size": "1468",
+      "md5": "299df38e1d373504a18b4f6dc241a45d",
+      "crc32": "1e7469df",
+      "sha1": "61bd3fd0757a235df0f7c10bdb014fdb84943e46",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T08:24:37.720980+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665645894",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T08:24:37.720980+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "simple_flying-2022-10-13T08:24:37.720980+01:00.jpg",
+      "mtime": "1665676027",
+      "size": "9139",
+      "md5": "7b3ee6b7ebfd69528619068751647e97",
+      "crc32": "867c499d",
+      "sha1": "f08fc4d0c3bf98d70cbb772ee3dfd1f506bb2309"
+    },
+    {
+      "name": "simple_flying-2022-10-13T10:18:53.775939+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665652740",
+      "size": "35432",
+      "md5": "042809293b0df2967c9b9ce086b30384",
+      "crc32": "437f0b5a",
+      "sha1": "b0235d55534564372791958d7049f7c91fac0c92",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T10:18:53.775939+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665652744",
+      "size": "26799",
+      "md5": "882f19bd8b9fdaf94165d04b9406eac4",
+      "crc32": "7c468863",
+      "sha1": "591b04f945852ef07c167a41a903609c5de80f32",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T10:18:53.775939+01:00.jpg",
+      "source": "original",
+      "mtime": "1665652736",
+      "size": "245187",
+      "md5": "dde26acc17a20a62a8b6f8390becce64",
+      "crc32": "d69e8fbb",
+      "sha1": "587ddb2cb621fa976eea7e0a9758a65e73647525",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "simple_flying-2022-10-13T10:18:53.775939+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665652746",
+      "size": "1468",
+      "md5": "3e2502bb0ca5d62a0de53662ee4414f3",
+      "crc32": "0c6c83eb",
+      "sha1": "daa8d61233144470fed48f5cc0550e71d376b470",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T10:18:53.775939+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665652749",
+      "size": "45686",
+      "md5": "c402d2017232fae98a5e2ed7d845b38b",
+      "crc32": "0fbb4b23",
+      "sha1": "4d1ed0886788a79462123d610f26554eab6ca5fe",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T10:18:53.775939+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "simple_flying-2022-10-13T10:18:53.775939+01:00.jpg",
+      "mtime": "1665676037",
+      "size": "9612",
+      "md5": "1e7b44b1f76710378a97b7755f9b3c02",
+      "crc32": "933dfdeb",
+      "sha1": "e390d7a9fd9b5a8f7dfc23ae13e9c217e72c3332"
+    },
+    {
+      "name": "simple_flying-2022-10-13T21:12:41.690455+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665691969",
+      "size": "35241",
+      "md5": "f4c5b4ce2fdc7395de7d97f9d3e3701b",
+      "crc32": "24504ee1",
+      "sha1": "3a9f618076e0627fddf90c1045119b27337c10af",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T21:12:41.690455+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665691971",
+      "size": "26641",
+      "md5": "62f6874b7864a6bf93626c306a8ac036",
+      "crc32": "b48e3658",
+      "sha1": "36d693d9bfefb9a7a1a8474c37245bb1f17d846c",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T21:12:41.690455+01:00.jpg",
+      "source": "original",
+      "mtime": "1665691967",
+      "size": "210282",
+      "md5": "6b95862b8a485a85e8de5326e76f28cf",
+      "crc32": "b118e9f3",
+      "sha1": "61c1c0b3160fe62f32769c95733e8369cc25517d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "simple_flying-2022-10-13T21:12:41.690455+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665691973",
+      "size": "1467",
+      "md5": "66b3649652b56985803b1d510be6660a",
+      "crc32": "6082b064",
+      "sha1": "97f78cd064c8bde286f327deeb679eb74158a8e1",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T21:12:41.690455+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665691974",
+      "size": "36766",
+      "md5": "9e7a4c03d94d09825cf5c05ffb1fb361",
+      "crc32": "0de9cdf6",
+      "sha1": "c9012acf51c203ce45ae0f766b46c0f736836320",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-13T21:12:41.690455+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "simple_flying-2022-10-13T21:12:41.690455+01:00.jpg",
+      "mtime": "1665692046",
+      "size": "9189",
+      "md5": "d7231bd627244ae031c4491205b71cb8",
+      "crc32": "792457b5",
+      "sha1": "5956ddaf3f231bcbb7c4221306a23fd5b8d202ef"
+    },
+    {
+      "name": "simple_flying-2022-10-14T09:04:52.773938+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665734696",
+      "size": "35609",
+      "md5": "de6dc8fc8bdc3b4f2cea556d94020d08",
+      "crc32": "ee15da69",
+      "sha1": "c1ad3ce83bff44be43d7aa9a05598f63279c5edd",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-14T09:04:52.773938+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665734698",
+      "size": "26568",
+      "md5": "da889ae8ccce82c59a5accc5c15afd41",
+      "crc32": "e8a8e9ce",
+      "sha1": "d59427ca9ceb305a6cc640b3cab27097ba916453",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-14T09:04:52.773938+01:00.jpg",
+      "source": "original",
+      "mtime": "1665734694",
+      "size": "206474",
+      "md5": "0ebcc714f387c864e62435368b86b3c9",
+      "crc32": "8c6ea5bb",
+      "sha1": "0643210410fcf3db4f68fe65352d000ad309a917",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "simple_flying-2022-10-14T09:04:52.773938+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665734700",
+      "size": "1468",
+      "md5": "c9aac71206e27ce0001c56967bcc509c",
+      "crc32": "f3481a2b",
+      "sha1": "48b34a409e0804b4e151662ce15f4adb7ac51729",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-14T09:04:52.773938+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665734702",
+      "size": "47836",
+      "md5": "12b6f40a24601fdd1d37d489cb7e433c",
+      "crc32": "1548d12b",
+      "sha1": "489593d8a940c5f21dd433be01b71ba93ec1fb53",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-14T09:04:52.773938+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "simple_flying-2022-10-14T09:04:52.773938+01:00.jpg",
+      "mtime": "1665734786",
+      "size": "9170",
+      "md5": "57f3c3448a577083cb91f21f8ad2366b",
+      "crc32": "06aa9a72",
+      "sha1": "95a6c732c49158ecabcd27e37cd3b363c9ffc9fe"
+    },
+    {
       "name": "simple_flying-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d4366e6dd0ecf736a7c963b46ef75afa56b7610",
-      "mtime": "1665602780",
-      "size": "202695",
-      "md5": "9094fa17182ec983271e4564a9bd9f1e",
-      "crc32": "13d8ce88",
-      "sha1": "a9fc3f652ccd2e33d4250e6d6f20735b340f726a",
+      "btih": "60a8b3c4ff081b5cab16ab2f881c06d72f0f024a",
+      "mtime": "1665734809",
+      "size": "207841",
+      "md5": "7b1b142a754cc8d160a1069da66e0dbe",
+      "crc32": "73db08e7",
+      "sha1": "64c775fd1947e10a059ea9357f2adb9c4c11c6f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "simple_flying-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d1a6f6ddc20354df499791db63928356",
+      "md5": "6e465b6203996c8170ead62e44af0a75",
       "summation": "md5"
     },
     {
       "name": "simple_flying-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665602500",
-      "size": "1216512",
-      "md5": "de2b657853590b88ccda1c7d82864049",
-      "crc32": "c9224e79",
-      "sha1": "95291168fe5e5a4dce2d1953f1c032607878bed8",
+      "mtime": "1665734716",
+      "size": "1245184",
+      "md5": "be80948aa958c2d1f7af3b9835bdb920",
+      "crc32": "a48f0d4f",
+      "sha1": "a081a632c72b3cad3d254afb77657501067a6975",
       "format": "Metadata"
     },
     {
@@ -9713,10 +9960,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 940,
-  "has_redrow": true,
-  "item_last_updated": 1665602780,
-  "item_size": 54765822,
+  "files_count": 964,
+  "item_last_updated": 1665734809,
+  "item_size": 56100663,
   "metadata": {
     "identifier": "simple_flying-2022",
     "collection": [
@@ -9733,93 +9979,10 @@
     "publicdate": "2022-08-21 03:36:53",
     "addeddate": "2022-08-21 03:36:53"
   },
-  "pending_tasks": true,
   "server": "ia801506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3438035528,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 2,
-      "color": "red",
-      "status": "error"
-    },
-    {
-      "task_id": 3438035572,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3438035624,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3438035656,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3438035713,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3438145007,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3438145114,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3438145167,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3438145207,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3438145268,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 660259725,
+  "uniq": 1871876186,
   "workable_servers": [
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

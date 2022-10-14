@@ -1,5 +1,5 @@
 {
-  "created": 1665692409,
+  "created": 1665735102,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/9/items/voicesofbay-2022",
@@ -11364,31 +11364,93 @@
       "sha1": "813c0b3a78bd11a6f3660e6c9012ca731eeb7a79"
     },
     {
+      "name": "voicesofbay-2022-10-14T01:10:16.795185-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665735020",
+      "size": "31559",
+      "md5": "1d1f11d86db24b9913e4ee4a96a6a615",
+      "crc32": "38a441e3",
+      "sha1": "ed6a089cae2c53c98f2478a15d9586954bc1943f",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-10-14T01:10:16.795185-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665735022",
+      "size": "15071",
+      "md5": "a2f632cf72c8329f36c8db69fa34eacd",
+      "crc32": "d9f8c9d8",
+      "sha1": "3f136a99dae51c8b0a3178975e8436f439b0073c",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-10-14T01:10:16.795185-07:00.jpg",
+      "source": "original",
+      "mtime": "1665735018",
+      "size": "173206",
+      "md5": "ccd6861383c65817e9351f849d054a37",
+      "crc32": "5779cffa",
+      "sha1": "a89f15608a907f71284b26e50fa0abb25d3938ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voicesofbay-2022-10-14T01:10:16.795185-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665735024",
+      "size": "1540",
+      "md5": "046fb6414ea03418e37ae193cb00e92b",
+      "crc32": "64a57427",
+      "sha1": "2a1160d7d446d65e720917800f3a25a3400a9bd7",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-10-14T01:10:16.795185-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665735026",
+      "size": "15231",
+      "md5": "2435ad09fac385958faec3c001e0ef3b",
+      "crc32": "9ce45cb4",
+      "sha1": "54703e606a73981dd17386ef23e5fa2d7e9e0b2c",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-10-14T01:10:16.795185-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voicesofbay-2022-10-14T01:10:16.795185-07:00.jpg",
+      "mtime": "1665735083",
+      "size": "8725",
+      "md5": "45d14faac1acfcfcd44f9ab4ff67e183",
+      "crc32": "d7c01922",
+      "sha1": "ac34c9ee1b9618059717b128052b1aa0a42c0bc1"
+    },
+    {
       "name": "voicesofbay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b5a5bccac181ad7a0f8f79c7ce3d5139d464501",
-      "mtime": "1665692397",
-      "size": "234314",
-      "md5": "eacfac52b77027396fed1719f785ed17",
-      "crc32": "1d4908ab",
-      "sha1": "3e0847baf9d6a58380db429f3c81a329389cf5cd",
+      "btih": "db87dc19d5ef2c934f3c71d0d2dc84211b3fb0c1",
+      "mtime": "1665735094",
+      "size": "235579",
+      "md5": "87f889f28da668e915f3eafeb8bcff77",
+      "crc32": "77f7f507",
+      "sha1": "de17d9671eaa6ff62d06b25368dbeb05fa129126",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voicesofbay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3d088f76656104c5ddf3f22507cbde1",
+      "md5": "50bf6a34de405950763778a39a14c2cd",
       "summation": "md5"
     },
     {
       "name": "voicesofbay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665692321",
-      "size": "1384448",
-      "md5": "6b634aaa6adec28b3f6e0352b4f1950b",
-      "crc32": "75d3b729",
-      "sha1": "5e93bacc931f5149c88c040cda3befd691aca414",
+      "mtime": "1665735030",
+      "size": "1392640",
+      "md5": "e27bc1b92f24f8e01017e9c2a37d0512",
+      "crc32": "9124ad3f",
+      "sha1": "3e34dd06e78e8cdab12049170ed54387c7f1b129",
       "format": "Metadata"
     },
     {
@@ -11402,9 +11464,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1100,
-  "item_last_updated": 1665692397,
-  "item_size": 51789176,
+  "files_count": 1106,
+  "item_last_updated": 1665735094,
+  "item_size": 52043965,
   "metadata": {
     "identifier": "voicesofbay-2022",
     "collection": [
@@ -11422,7 +11484,7 @@
     "addeddate": "2022-07-09 04:04:49"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 679972039,
+  "uniq": 2069236935,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"
