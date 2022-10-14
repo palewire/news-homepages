@@ -23,9 +23,8 @@ def read_script_from_file(filename, page_obj):
 @click.option("-w", "--wait", "wait", default=5000)
 @click.option("-x", "--width", "width", default=1300)
 @click.option("-y", "--height", "height", default=1600)
-@click.option("-f", "--screenshot_full_page", is_flag=True, default=False, help="Screenshot the whole page or just a part of it.")
 @click.option("-h", "--save_html", is_flag=True, default=False, help="Save HTML of the site as well.")
-def cli(handle: str, output_dir: str, wait: str, width: str, height: str, full_page: bool, save_html: bool):
+def cli(handle: str, output_dir: str, wait: str, width: str, height: str, save_html: bool):
     """Screenshot the provided homepage."""
     site = utils.get_site(handle)
     output_path = Path(output_dir)
@@ -33,7 +32,6 @@ def cli(handle: str, output_dir: str, wait: str, width: str, height: str, full_p
                 wait=int(wait),
                 width=int(width),
                 height=int(height),
-                screenshot_full_page=bool(full_page),
                 save_html=bool(save_html)
                 )
 
@@ -45,7 +43,6 @@ def _screenshot(
     wait: int = 5000,
     width: int = 1300,
     height: int = 1600,
-    screenshot_full_page: bool = False,
     save_html: bool = False,
 ):
     """Shoot the provided site."""
@@ -218,7 +215,6 @@ def _screenshot(
             quality=80,
             type="jpeg",
             path=jpeg_file_path,
-            full_page=screenshot_full_page,
         )
 
         # now that the page is loaded, we can dump to HTML and then save.
