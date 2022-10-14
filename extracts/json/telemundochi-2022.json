@@ -1,5 +1,5 @@
 {
-  "created": 1665677033,
+  "created": 1665719546,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/20/items/telemundochi-2022",
@@ -13694,31 +13694,93 @@
       "sha1": "0efd3bf305f904ef2f60531322169ea7ad649365"
     },
     {
+      "name": "telemundochi-2022-10-13T22:49:58.930074-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665719425",
+      "size": "52343",
+      "md5": "330dd81682a4c28140287e138d0626db",
+      "crc32": "ccc31cf0",
+      "sha1": "9265b6c8fc54a939ee7874233fc637c31560bba1",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-13T22:49:58.930074-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665719426",
+      "size": "60013",
+      "md5": "a2e87eb7ca6a865067f8b2841e697b38",
+      "crc32": "a9b32664",
+      "sha1": "b4ede6c961f1d399a364b4400105a58a95f01ec0",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-13T22:49:58.930074-05:00.jpg",
+      "source": "original",
+      "mtime": "1665719423",
+      "size": "285055",
+      "md5": "9d5fb5d8b41124195c342adedc1e5dbd",
+      "crc32": "267229c4",
+      "sha1": "14e8323903a7c1b66c3f3eb8072bedba44394fed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telemundochi-2022-10-13T22:49:58.930074-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665719428",
+      "size": "1540",
+      "md5": "7abf47ecea2e172ac47b3d089d611d42",
+      "crc32": "a291c61a",
+      "sha1": "ebf42e86170feb4c81ab371706201dfa7947c674",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-13T22:49:58.930074-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665719430",
+      "size": "70740",
+      "md5": "19a2f6dd940597d3780815c553c1ef43",
+      "crc32": "c7f8de64",
+      "sha1": "2ce09e0857138fda648a43e127c20a638a1265aa",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-13T22:49:58.930074-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telemundochi-2022-10-13T22:49:58.930074-05:00.jpg",
+      "mtime": "1665719505",
+      "size": "9715",
+      "md5": "103bb1c76ab4e0c1074958b196ec5353",
+      "crc32": "8f594a1f",
+      "sha1": "ee8b53c997452773451e7a6a2bccde8c5a10b79e"
+    },
+    {
       "name": "telemundochi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83e44ef241e98a9f839ae7d83929bf299bd52b3c",
-      "mtime": "1665677026",
-      "size": "286005",
-      "md5": "937473b4d0d7fa5fbad46bb1ee7de2c5",
-      "crc32": "90a9eb45",
-      "sha1": "bb2aeaf4d12e10998eb7c589987567c273a9be35",
+      "btih": "141aeee41fc9ab58240e4284b403ce89474ed6d4",
+      "mtime": "1665719533",
+      "size": "287296",
+      "md5": "4f4a35df01e861ff8ae5f768f9efce57",
+      "crc32": "aeee257f",
+      "sha1": "8fdb92a0db10c2e2d17d4d0ce5d109b009f145a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telemundochi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11b77988af99f2109796b5c0c13eb7ec",
+      "md5": "24b814adf31496c4806c01675355f57e",
       "summation": "md5"
     },
     {
       "name": "telemundochi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665676948",
-      "size": "1695744",
-      "md5": "75d492474b1e4ce4e65b32c268120569",
-      "crc32": "0b99f3dc",
-      "sha1": "c24e53cd1d8375b79e525ebe39ea817a8ed29f89",
+      "mtime": "1665719437",
+      "size": "1703936",
+      "md5": "a6adc893f6b149b6d6872dc9e79330cc",
+      "crc32": "6dbf7056",
+      "sha1": "b573ac08ad230ba9ac82487b46fcf1ae21f3845c",
       "format": "Metadata"
     },
     {
@@ -13732,9 +13794,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1328,
-  "item_last_updated": 1665677026,
-  "item_size": 108761872,
+  "files_count": 1334,
+  "item_last_updated": 1665719533,
+  "item_size": 109250761,
   "metadata": {
     "identifier": "telemundochi-2022",
     "collection": [
@@ -13751,10 +13813,10 @@
     "publicdate": "2022-07-28 20:04:16",
     "addeddate": "2022-07-28 20:04:16"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 2024586372,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1718893712,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }

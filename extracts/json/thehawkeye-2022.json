@@ -1,5 +1,5 @@
 {
-  "created": 1665673938,
+  "created": 1665719730,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/thehawkeye-2022",
@@ -3488,31 +3488,93 @@
       "sha1": "680acf88ba1cc93d604b7ac4b915a183bf9ac09e"
     },
     {
+      "name": "thehawkeye-2022-10-13T22:53:07.110240-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665719600",
+      "size": "24677",
+      "md5": "9e550ae3e0a73190d7d2bdd4d13fac98",
+      "crc32": "58f715f8",
+      "sha1": "8e4d96f51f1b16e551de8446cc62fe1521fc07db",
+      "format": "JSON"
+    },
+    {
+      "name": "thehawkeye-2022-10-13T22:53:07.110240-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665719603",
+      "size": "36964",
+      "md5": "79de53a795efe47a14681bbdf8549b5f",
+      "crc32": "480dff52",
+      "sha1": "ffeddd32f4e1a6d2addaa3d22b3c6a2cd5b8785b",
+      "format": "JSON"
+    },
+    {
+      "name": "thehawkeye-2022-10-13T22:53:07.110240-05:00.jpg",
+      "source": "original",
+      "mtime": "1665719589",
+      "size": "286094",
+      "md5": "c16d13c972ee92fd67cdb02f41998e18",
+      "crc32": "d6a5736f",
+      "sha1": "bd0df50fea91b89e8c3300d83fe0bfb157c98863",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehawkeye-2022-10-13T22:53:07.110240-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665719608",
+      "size": "1495",
+      "md5": "1fd2c088170a4e6f125fe945a251f071",
+      "crc32": "6af45f75",
+      "sha1": "76f78b30a6620289e16d5a740631c47bc345c07d",
+      "format": "JSON"
+    },
+    {
+      "name": "thehawkeye-2022-10-13T22:53:07.110240-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665719610",
+      "size": "91424",
+      "md5": "98d21b7d041ba05318ccaeab95a9be5c",
+      "crc32": "d77eb3e7",
+      "sha1": "936af00627fb0c5c1a0402842572725b4549a0fb",
+      "format": "JSON"
+    },
+    {
+      "name": "thehawkeye-2022-10-13T22:53:07.110240-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehawkeye-2022-10-13T22:53:07.110240-05:00.jpg",
+      "mtime": "1665719683",
+      "size": "9372",
+      "md5": "506fb9e4a06be87482107b90986c4a34",
+      "crc32": "cdcab797",
+      "sha1": "737d6645918002e04a869e1fb5222b3f29e90741"
+    },
+    {
       "name": "thehawkeye-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d90225541f7e7f63cfa7874b4beda9bbdfaea34c",
-      "mtime": "1665673925",
-      "size": "72959",
-      "md5": "1cbf25c261d4a46389b3233e0c1c5911",
-      "crc32": "8a7755c9",
-      "sha1": "6a17f462886c820740d0d0435483ecad83b2e44d",
+      "btih": "274cf4c32446956b5f9c4e5af9064bb64f48bc88",
+      "mtime": "1665719695",
+      "size": "74238",
+      "md5": "f6172724f6ffb3b942d3822043f142d9",
+      "crc32": "71532e35",
+      "sha1": "fed25580a166058b857eea5f83974b87281532fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehawkeye-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "627dde0afe396792964cae7029ae300b",
+      "md5": "b1dd3ac861745abd742f44dc258cbeca",
       "summation": "md5"
     },
     {
       "name": "thehawkeye-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665673834",
-      "size": "450560",
-      "md5": "a4d3a734502096d40ad218a44aa6f1a0",
-      "crc32": "62574019",
-      "sha1": "dd4f00be1598037b3c3ae340e7cb4919f3d5f939",
+      "mtime": "1665719616",
+      "size": "454656",
+      "md5": "e255b8e6de43ef9bf8627b04c2bd47ef",
+      "crc32": "d802b48a",
+      "sha1": "9d16369278d16d665f1094380d16510eefd2af56",
       "format": "Metadata"
     },
     {
@@ -3526,9 +3588,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 341,
-  "item_last_updated": 1665673925,
-  "item_size": 22333964,
+  "files_count": 347,
+  "item_last_updated": 1665719695,
+  "item_size": 22789365,
   "metadata": {
     "identifier": "thehawkeye-2022",
     "collection": [
@@ -3545,10 +3607,10 @@
     "publicdate": "2022-09-21 03:44:47",
     "addeddate": "2022-09-21 03:44:47"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 744167039,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1499375819,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }
