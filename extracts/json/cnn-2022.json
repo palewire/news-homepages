@@ -1,7 +1,8 @@
 {
-  "created": 1665820201,
-  "d1": "ia601504.us.archive.org",
-  "d2": "ia801504.us.archive.org",
+  "conflict": 1665838932,
+  "created": 1665838932,
+  "d1": "ia601402.us.archive.org",
+  "d2": "ia801402.us.archive.org",
   "dir": "/6/items/cnn-2022",
   "files": [
     {
@@ -44615,10 +44616,21 @@
     "publicdate": "2022-03-23 01:45:45",
     "addeddate": "2022-03-23 01:45:45"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 200228564,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3441032462,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1568963186,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601402.us.archive.org"
   ]
 }
