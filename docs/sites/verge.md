@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 254 screenshots with the Internet Archive.
+The archiving routine has saved 256 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/verge-2022/verge-2022-10-15T04:00:34.714480-04:00.jpg">
+  <img src="https://archive.org/download/verge-2022/verge-2022-10-15T04:00:34.714480-04:00.jpg"
+     alt="Verge at 2022-10-15 04:00:43-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-10-15T04:00:34.714480-04:00.jpg">October 15 at 4:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/verge-2022/verge-2022-10-14T16:36:43.243437-04:00.jpg">
+  <img src="https://archive.org/download/verge-2022/verge-2022-10-14T16:36:43.243437-04:00.jpg"
+     alt="Verge at 2022-10-14 16:37:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/verge-2022/verge-2022-10-14T16:36:43.243437-04:00.jpg">October 14 at 4:37 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/verge-2022/verge-2022-10-14T04:10:02.316079-04:00.jpg">
   <img src="https://archive.org/download/verge-2022/verge-2022-10-14T04:10:02.316079-04:00.jpg"
      alt="Verge at 2022-10-14 04:10:11-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/verge-2022/verge-2022-10-09T15:58:44.937141-04:00.jpg">October 9 at 3:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/verge-2022/verge-2022-10-09T03:33:08.829529-04:00.jpg">
-  <img src="https://archive.org/download/verge-2022/verge-2022-10-09T03:33:08.829529-04:00.jpg"
-     alt="Verge at 2022-10-09 03:33:10-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-10-09T03:33:08.829529-04:00.jpg">October 9 at 3:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/verge-2022/verge-2022-10-08T15:11:17.359626-04:00.jpg">
-  <img src="https://archive.org/download/verge-2022/verge-2022-10-08T15:11:17.359626-04:00.jpg"
-     alt="Verge at 2022-10-08 15:11:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/verge-2022/verge-2022-10-08T15:11:17.359626-04:00.jpg">October 8 at 3:11 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 254 hyperlink lists with the Internet Archive.
+The archiving routine has saved 256 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 4:00 AM](https://archive.org/download/verge-2022/verge-2022-10-15T04:00:34.714480-04:00.hyperlinks.json) |
+| [October 14 at 4:37 PM](https://archive.org/download/verge-2022/verge-2022-10-14T16:36:43.243437-04:00.hyperlinks.json) |
 | [October 14 at 4:10 AM](https://archive.org/download/verge-2022/verge-2022-10-14T04:10:02.316079-04:00.hyperlinks.json) |
 | [October 13 at 4:18 PM](https://archive.org/download/verge-2022/verge-2022-10-13T16:18:23.714957-04:00.hyperlinks.json) |
 | [October 13 at 3:28 AM](https://archive.org/download/verge-2022/verge-2022-10-13T03:27:49.541835-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 3:20 PM](https://archive.org/download/verge-2022/verge-2022-10-11T15:20:07.515830-04:00.hyperlinks.json) |
 | [October 11 at 4:14 AM](https://archive.org/download/verge-2022/verge-2022-10-11T04:14:14.779945-04:00.hyperlinks.json) |
 | [October 10 at 4:13 PM](https://archive.org/download/verge-2022/verge-2022-10-10T16:13:29.773637-04:00.hyperlinks.json) |
-| [October 10 at 4:28 AM](https://archive.org/download/verge-2022/verge-2022-10-10T04:28:13.577397-04:00.hyperlinks.json) |
-| [October 9 at 3:58 PM](https://archive.org/download/verge-2022/verge-2022-10-09T15:58:44.937141-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 255 accessibility trees with the Internet Archive.
+The archiving routine has saved 257 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 4:00 AM](https://archive.org/download/verge-2022/verge-2022-10-15T04:00:34.714480-04:00.accessibility.json) |
+| [October 14 at 4:37 PM](https://archive.org/download/verge-2022/verge-2022-10-14T16:36:43.243437-04:00.accessibility.json) |
 | [October 14 at 4:10 AM](https://archive.org/download/verge-2022/verge-2022-10-14T04:10:02.316079-04:00.accessibility.json) |
 | [October 13 at 4:18 PM](https://archive.org/download/verge-2022/verge-2022-10-13T16:18:23.714957-04:00.accessibility.json) |
 | [October 13 at 3:28 AM](https://archive.org/download/verge-2022/verge-2022-10-13T03:27:49.541835-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 3:20 PM](https://archive.org/download/verge-2022/verge-2022-10-11T15:20:07.515830-04:00.accessibility.json) |
 | [October 11 at 4:14 AM](https://archive.org/download/verge-2022/verge-2022-10-11T04:14:14.779945-04:00.accessibility.json) |
 | [October 10 at 4:13 PM](https://archive.org/download/verge-2022/verge-2022-10-10T16:13:29.773637-04:00.accessibility.json) |
-| [October 10 at 4:28 AM](https://archive.org/download/verge-2022/verge-2022-10-10T04:28:13.577397-04:00.accessibility.json) |
-| [October 9 at 3:58 PM](https://archive.org/download/verge-2022/verge-2022-10-09T15:58:44.937141-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 4:00 AM](https://archive.org/download/verge-2022/verge-2022-10-15T04:00:34.714480-04:00.lighthouse.json) |
+| [October 14 at 4:37 PM](https://archive.org/download/verge-2022/verge-2022-10-14T16:36:43.243437-04:00.lighthouse.json) |
 | [October 14 at 4:10 AM](https://archive.org/download/verge-2022/verge-2022-10-14T04:10:02.316079-04:00.lighthouse.json) |
 | [October 13 at 4:18 PM](https://archive.org/download/verge-2022/verge-2022-10-13T16:18:23.714957-04:00.lighthouse.json) |
 | [October 13 at 3:28 AM](https://archive.org/download/verge-2022/verge-2022-10-13T03:27:49.541835-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 3:20 PM](https://archive.org/download/verge-2022/verge-2022-10-11T15:20:07.515830-04:00.lighthouse.json) |
 | [October 11 at 4:14 AM](https://archive.org/download/verge-2022/verge-2022-10-11T04:14:14.779945-04:00.lighthouse.json) |
 | [October 10 at 4:13 PM](https://archive.org/download/verge-2022/verge-2022-10-10T16:13:29.773637-04:00.lighthouse.json) |
-| [October 10 at 4:28 AM](https://archive.org/download/verge-2022/verge-2022-10-10T04:28:13.577397-04:00.lighthouse.json) |
-| [October 9 at 3:58 PM](https://archive.org/download/verge-2022/verge-2022-10-09T15:58:44.937141-04:00.lighthouse.json) |
 
 
 

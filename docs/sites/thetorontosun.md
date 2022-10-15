@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 227 screenshots with the Internet Archive.
+The archiving routine has saved 229 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-15T03:58:41.001552-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-15T03:58:41.001552-04:00.jpg"
+     alt="Toronto Sun at 2022-10-15 03:58:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-15T03:58:41.001552-04:00.jpg">October 15 at 3:58 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T16:34:45.465355-04:00.jpg">
+  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T16:34:45.465355-04:00.jpg"
+     alt="Toronto Sun at 2022-10-14 16:34:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T16:34:45.465355-04:00.jpg">October 14 at 4:34 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T04:08:18.322300-04:00.jpg">
   <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T04:08:18.322300-04:00.jpg"
      alt="Toronto Sun at 2022-10-14 04:08:19-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-09T15:59:25.448968-04:00.jpg">October 9 at 3:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-09T03:31:34.850026-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-09T03:31:34.850026-04:00.jpg"
-     alt="Toronto Sun at 2022-10-09 03:31:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-09T03:31:34.850026-04:00.jpg">October 9 at 3:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-08T15:09:29.779700-04:00.jpg">
-  <img src="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-08T15:09:29.779700-04:00.jpg"
-     alt="Toronto Sun at 2022-10-08 15:09:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-08T15:09:29.779700-04:00.jpg">October 8 at 3:09 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 228 hyperlink lists with the Internet Archive.
+The archiving routine has saved 229 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 3:58 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-15T03:58:41.001552-04:00.hyperlinks.json) |
 | [October 14 at 4:08 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T04:08:18.322300-04:00.hyperlinks.json) |
 | [October 13 at 4:16 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-13T16:16:20.689791-04:00.hyperlinks.json) |
 | [October 13 at 3:27 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-13T03:27:10.754358-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 4:12 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-11T04:12:46.977817-04:00.hyperlinks.json) |
 | [October 10 at 4:13 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-10T16:13:15.931519-04:00.hyperlinks.json) |
 | [October 10 at 4:25 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-10T04:24:56.661660-04:00.hyperlinks.json) |
-| [October 9 at 3:59 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-09T15:59:25.448968-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 228 accessibility trees with the Internet Archive.
+The archiving routine has saved 230 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 3:58 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-15T03:58:41.001552-04:00.accessibility.json) |
+| [October 14 at 4:34 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T16:34:45.465355-04:00.accessibility.json) |
 | [October 14 at 4:08 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T04:08:18.322300-04:00.accessibility.json) |
 | [October 13 at 4:16 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-13T16:16:20.689791-04:00.accessibility.json) |
 | [October 13 at 3:27 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-13T03:27:10.754358-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 3:19 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-11T15:19:39.949343-04:00.accessibility.json) |
 | [October 11 at 4:12 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-11T04:12:46.977817-04:00.accessibility.json) |
 | [October 10 at 4:13 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-10T16:13:15.931519-04:00.accessibility.json) |
-| [October 10 at 4:25 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-10T04:24:56.661660-04:00.accessibility.json) |
-| [October 9 at 3:59 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-09T15:59:25.448968-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 3:58 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-15T03:58:41.001552-04:00.lighthouse.json) |
+| [October 14 at 4:34 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T16:34:45.465355-04:00.lighthouse.json) |
 | [October 14 at 4:08 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-14T04:08:18.322300-04:00.lighthouse.json) |
 | [October 13 at 4:16 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-13T16:16:20.689791-04:00.lighthouse.json) |
 | [October 13 at 3:27 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-13T03:27:10.754358-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 3:19 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-11T15:19:39.949343-04:00.lighthouse.json) |
 | [October 11 at 4:12 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-11T04:12:46.977817-04:00.lighthouse.json) |
 | [October 10 at 4:13 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-10T16:13:15.931519-04:00.lighthouse.json) |
-| [October 10 at 4:25 AM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-10T04:24:56.661660-04:00.lighthouse.json) |
-| [October 9 at 3:59 PM](https://archive.org/download/thetorontosun-2022/thetorontosun-2022-10-09T15:59:25.448968-04:00.lighthouse.json) |
 
 
 

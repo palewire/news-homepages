@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 265 screenshots with the Internet Archive.
+The archiving routine has saved 267 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T10:55:50.543167+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T10:55:50.543167+03:00.jpg"
+     alt="Lenta.ru at 2022-10-15 10:55:52+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T10:55:50.543167+03:00.jpg">October 15 at 10:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T09:25:48.497380+03:00.jpg">
+  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T09:25:48.497380+03:00.jpg"
+     alt="Lenta.ru at 2022-10-15 09:25:58+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T09:25:48.497380+03:00.jpg">October 15 at 9:25 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T21:15:53.439578+03:00.jpg">
   <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T21:15:53.439578+03:00.jpg"
      alt="Lenta.ru at 2022-10-14 21:15:57+03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T20:44:38.900689+03:00.jpg">October 11 at 8:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T11:16:08.389451+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T11:16:08.389451+03:00.jpg"
-     alt="Lenta.ru at 2022-10-11 11:16:10+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T11:16:08.389451+03:00.jpg">October 11 at 11:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T09:37:16.211883+03:00.jpg">
-  <img src="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T09:37:16.211883+03:00.jpg"
-     alt="Lenta.ru at 2022-10-11 09:37:28+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T09:37:16.211883+03:00.jpg">October 11 at 9:37 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 268 hyperlink lists with the Internet Archive.
+The archiving routine has saved 270 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 10:55 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T10:55:50.543167+03:00.hyperlinks.json) |
+| [October 15 at 9:26 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T09:25:48.497380+03:00.hyperlinks.json) |
 | [October 14 at 9:16 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T21:15:53.439578+03:00.hyperlinks.json) |
 | [October 14 at 10:57 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T10:56:58.951221+03:00.hyperlinks.json) |
 | [October 14 at 9:27 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T09:27:42.039324+03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 8:55 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-13T08:55:41.616631+03:00.hyperlinks.json) |
 | [October 12 at 8:23 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-12T20:22:51.216126+03:00.hyperlinks.json) |
 | [October 12 at 11:13 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-12T11:13:42.732303+03:00.hyperlinks.json) |
-| [October 12 at 9:32 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-12T09:32:45.285713+03:00.hyperlinks.json) |
-| [October 11 at 8:44 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T20:44:38.900689+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 266 accessibility trees with the Internet Archive.
+The archiving routine has saved 268 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 10:55 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T10:55:50.543167+03:00.accessibility.json) |
+| [October 15 at 9:26 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T09:25:48.497380+03:00.accessibility.json) |
 | [October 14 at 9:16 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T21:15:53.439578+03:00.accessibility.json) |
 | [October 14 at 10:57 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T10:56:58.951221+03:00.accessibility.json) |
 | [October 14 at 9:27 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T09:27:42.039324+03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 8:55 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-13T08:55:41.616631+03:00.accessibility.json) |
 | [October 12 at 8:23 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-12T20:22:51.216126+03:00.accessibility.json) |
 | [October 12 at 11:13 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-12T11:13:42.732303+03:00.accessibility.json) |
-| [October 12 at 9:32 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-12T09:32:45.285713+03:00.accessibility.json) |
-| [October 11 at 8:44 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T20:44:38.900689+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 245 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 247 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 10:55 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T10:55:50.543167+03:00.lighthouse.json) |
+| [October 15 at 9:26 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-15T09:25:48.497380+03:00.lighthouse.json) |
 | [October 14 at 9:16 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T21:15:53.439578+03:00.lighthouse.json) |
 | [October 14 at 10:57 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T10:56:58.951221+03:00.lighthouse.json) |
 | [October 14 at 9:27 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-14T09:27:42.039324+03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 8:55 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-13T08:55:41.616631+03:00.lighthouse.json) |
 | [October 12 at 8:23 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-12T20:22:51.216126+03:00.lighthouse.json) |
 | [October 12 at 11:13 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-12T11:13:42.732303+03:00.lighthouse.json) |
-| [October 12 at 9:32 AM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-12T09:32:45.285713+03:00.lighthouse.json) |
-| [October 11 at 8:44 PM](https://archive.org/download/lentaruofficial-2022/lentaruofficial-2022-10-11T20:44:38.900689+03:00.lighthouse.json) |
 
 
 

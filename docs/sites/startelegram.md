@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 177 screenshots with the Internet Archive.
+The archiving routine has saved 179 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-15T02:56:02.534131-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-10-15T02:56:02.534131-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-10-15 02:56:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-15T02:56:02.534131-05:00.jpg">October 15 at 2:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-14T15:31:52.683449-05:00.jpg">
+  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-10-14T15:31:52.683449-05:00.jpg"
+     alt="Fort Worth Star-Telegram at 2022-10-14 15:32:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-14T15:31:52.683449-05:00.jpg">October 14 at 3:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-14T03:06:47.878160-05:00.jpg">
   <img src="https://archive.org/download/startelegram-2022/startelegram-2022-10-14T03:06:47.878160-05:00.jpg"
      alt="Fort Worth Star-Telegram at 2022-10-14 03:06:49-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-09T14:56:42.768277-05:00.jpg">October 9 at 2:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-09T02:29:34.917722-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-10-09T02:29:34.917722-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-10-09 02:29:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-09T02:29:34.917722-05:00.jpg">October 9 at 2:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-08T14:05:39.710987-05:00.jpg">
-  <img src="https://archive.org/download/startelegram-2022/startelegram-2022-10-08T14:05:39.710987-05:00.jpg"
-     alt="Fort Worth Star-Telegram at 2022-10-08 14:05:45-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/startelegram-2022/startelegram-2022-10-08T14:05:39.710987-05:00.jpg">October 8 at 2:05 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 152 hyperlink lists with the Internet Archive.
+The archiving routine has saved 154 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 2:56 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-15T02:56:02.534131-05:00.hyperlinks.json) |
+| [October 14 at 3:32 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-14T15:31:52.683449-05:00.hyperlinks.json) |
 | [October 14 at 3:06 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-14T03:06:47.878160-05:00.hyperlinks.json) |
 | [October 13 at 3:13 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-13T15:13:17.759772-05:00.hyperlinks.json) |
 | [October 13 at 2:24 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-13T02:23:58.934067-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 2:16 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-11T14:16:11.707194-05:00.hyperlinks.json) |
 | [October 11 at 3:09 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-11T03:09:30.746385-05:00.hyperlinks.json) |
 | [October 10 at 3:10 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-10T15:10:11.314710-05:00.hyperlinks.json) |
-| [October 10 at 3:22 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-10T03:22:09.996861-05:00.hyperlinks.json) |
-| [October 9 at 2:56 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-09T14:56:42.768277-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 177 accessibility trees with the Internet Archive.
+The archiving routine has saved 179 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 2:56 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-15T02:56:02.534131-05:00.accessibility.json) |
+| [October 14 at 3:32 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-14T15:31:52.683449-05:00.accessibility.json) |
 | [October 14 at 3:06 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-14T03:06:47.878160-05:00.accessibility.json) |
 | [October 13 at 3:13 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-13T15:13:17.759772-05:00.accessibility.json) |
 | [October 13 at 2:24 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-13T02:23:58.934067-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 2:16 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-11T14:16:11.707194-05:00.accessibility.json) |
 | [October 11 at 3:09 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-11T03:09:30.746385-05:00.accessibility.json) |
 | [October 10 at 3:10 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-10T15:10:11.314710-05:00.accessibility.json) |
-| [October 10 at 3:22 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-10T03:22:09.996861-05:00.accessibility.json) |
-| [October 9 at 2:56 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-09T14:56:42.768277-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 2:56 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-15T02:56:02.534131-05:00.lighthouse.json) |
+| [October 14 at 3:32 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-14T15:31:52.683449-05:00.lighthouse.json) |
 | [October 14 at 3:06 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-14T03:06:47.878160-05:00.lighthouse.json) |
 | [October 13 at 3:13 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-13T15:13:17.759772-05:00.lighthouse.json) |
 | [October 13 at 2:24 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-13T02:23:58.934067-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 2:16 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-11T14:16:11.707194-05:00.lighthouse.json) |
 | [October 11 at 3:09 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-11T03:09:30.746385-05:00.lighthouse.json) |
 | [October 10 at 3:10 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-10T15:10:11.314710-05:00.lighthouse.json) |
-| [October 10 at 3:22 AM](https://archive.org/download/startelegram-2022/startelegram-2022-10-10T03:22:09.996861-05:00.lighthouse.json) |
-| [October 9 at 2:56 PM](https://archive.org/download/startelegram-2022/startelegram-2022-10-09T14:56:42.768277-05:00.lighthouse.json) |
 
 
 

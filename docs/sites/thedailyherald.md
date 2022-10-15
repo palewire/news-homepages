@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-15T02:56:28.645517-05:00.jpg">
+  <img src="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-15T02:56:28.645517-05:00.jpg"
+     alt="The Daily Herald at 2022-10-15 02:56:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-15T02:56:28.645517-05:00.jpg">October 15 at 2:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T15:31:39.880898-05:00.jpg">
+  <img src="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T15:31:39.880898-05:00.jpg"
+     alt="The Daily Herald at 2022-10-14 15:31:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T15:31:39.880898-05:00.jpg">October 14 at 3:31 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T03:07:18.597325-05:00.jpg">
   <img src="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T03:07:18.597325-05:00.jpg"
      alt="The Daily Herald at 2022-10-14 03:07:20-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-09T14:56:10.239068-05:00.jpg">October 9 at 2:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-09T02:31:34.356212-05:00.jpg">
-  <img src="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-09T02:31:34.356212-05:00.jpg"
-     alt="The Daily Herald at 2022-10-09 02:31:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-09T02:31:34.356212-05:00.jpg">October 9 at 2:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-08T14:06:16.774279-05:00.jpg">
-  <img src="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-08T14:06:16.774279-05:00.jpg"
-     alt="The Daily Herald at 2022-10-08 14:06:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-08T14:06:16.774279-05:00.jpg">October 8 at 2:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 2:56 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-15T02:56:28.645517-05:00.hyperlinks.json) |
+| [October 14 at 3:31 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T15:31:39.880898-05:00.hyperlinks.json) |
 | [October 14 at 3:07 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T03:07:18.597325-05:00.hyperlinks.json) |
 | [October 13 at 3:16 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-13T15:16:44.098955-05:00.hyperlinks.json) |
 | [October 13 at 2:25 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-13T02:25:23.336213-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 2:17 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-11T14:17:29.798798-05:00.hyperlinks.json) |
 | [October 11 at 3:12 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-11T03:12:00.267592-05:00.hyperlinks.json) |
 | [October 10 at 3:12 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-10T15:12:27.047362-05:00.hyperlinks.json) |
-| [October 10 at 3:24 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-10T03:24:46.216673-05:00.hyperlinks.json) |
-| [October 9 at 2:56 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-09T14:56:10.239068-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 50 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 2:56 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-15T02:56:28.645517-05:00.accessibility.json) |
+| [October 14 at 3:31 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T15:31:39.880898-05:00.accessibility.json) |
 | [October 14 at 3:07 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T03:07:18.597325-05:00.accessibility.json) |
 | [October 13 at 3:16 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-13T15:16:44.098955-05:00.accessibility.json) |
 | [October 13 at 2:25 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-13T02:25:23.336213-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 2:17 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-11T14:17:29.798798-05:00.accessibility.json) |
 | [October 11 at 3:12 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-11T03:12:00.267592-05:00.accessibility.json) |
 | [October 10 at 3:12 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-10T15:12:27.047362-05:00.accessibility.json) |
-| [October 10 at 3:24 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-10T03:24:46.216673-05:00.accessibility.json) |
-| [October 9 at 2:56 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-09T14:56:10.239068-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 2:56 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-15T02:56:28.645517-05:00.lighthouse.json) |
+| [October 14 at 3:31 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T15:31:39.880898-05:00.lighthouse.json) |
 | [October 14 at 3:07 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-14T03:07:18.597325-05:00.lighthouse.json) |
 | [October 13 at 3:16 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-13T15:16:44.098955-05:00.lighthouse.json) |
 | [October 13 at 2:25 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-13T02:25:23.336213-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 2:17 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-11T14:17:29.798798-05:00.lighthouse.json) |
 | [October 11 at 3:12 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-11T03:12:00.267592-05:00.lighthouse.json) |
 | [October 10 at 3:12 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-10T15:12:27.047362-05:00.lighthouse.json) |
-| [October 10 at 3:24 AM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-10T03:24:46.216673-05:00.lighthouse.json) |
-| [October 9 at 2:56 PM](https://archive.org/download/thedailyherald-2022/thedailyherald-2022-10-09T14:56:10.239068-05:00.lighthouse.json) |
 
 
 

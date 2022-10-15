@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 164 screenshots with the Internet Archive.
+The archiving routine has saved 166 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-15T03:55:30.752760-04:00.jpg">
+  <img src="https://archive.org/download/theappeal-2022/theappeal-2022-10-15T03:55:30.752760-04:00.jpg"
+     alt="Appeal at 2022-10-15 03:55:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-15T03:55:30.752760-04:00.jpg">October 15 at 3:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-14T16:32:24.124860-04:00.jpg">
+  <img src="https://archive.org/download/theappeal-2022/theappeal-2022-10-14T16:32:24.124860-04:00.jpg"
+     alt="Appeal at 2022-10-14 16:32:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-14T16:32:24.124860-04:00.jpg">October 14 at 4:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-14T04:07:37.151895-04:00.jpg">
   <img src="https://archive.org/download/theappeal-2022/theappeal-2022-10-14T04:07:37.151895-04:00.jpg"
      alt="Appeal at 2022-10-14 04:07:40-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-09T15:56:10.962547-04:00.jpg">October 9 at 3:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-09T03:30:51.537855-04:00.jpg">
-  <img src="https://archive.org/download/theappeal-2022/theappeal-2022-10-09T03:30:51.537855-04:00.jpg"
-     alt="Appeal at 2022-10-09 03:30:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-09T03:30:51.537855-04:00.jpg">October 9 at 3:30 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-08T15:06:30.917998-04:00.jpg">
-  <img src="https://archive.org/download/theappeal-2022/theappeal-2022-10-08T15:06:30.917998-04:00.jpg"
-     alt="Appeal at 2022-10-08 15:06:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/theappeal-2022/theappeal-2022-10-08T15:06:30.917998-04:00.jpg">October 8 at 3:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 164 hyperlink lists with the Internet Archive.
+The archiving routine has saved 166 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 3:55 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-15T03:55:30.752760-04:00.hyperlinks.json) |
+| [October 14 at 4:32 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-14T16:32:24.124860-04:00.hyperlinks.json) |
 | [October 14 at 4:07 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-14T04:07:37.151895-04:00.hyperlinks.json) |
 | [October 13 at 4:15 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-13T16:15:38.456527-04:00.hyperlinks.json) |
 | [October 13 at 3:26 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-13T03:25:55.118762-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 3:18 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-11T15:18:35.990821-04:00.hyperlinks.json) |
 | [October 11 at 4:10 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-11T04:10:24.618158-04:00.hyperlinks.json) |
 | [October 10 at 4:11 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-10T16:11:40.859277-04:00.hyperlinks.json) |
-| [October 10 at 4:25 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-10T04:24:58.620391-04:00.hyperlinks.json) |
-| [October 9 at 3:56 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-09T15:56:10.962547-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 164 accessibility trees with the Internet Archive.
+The archiving routine has saved 166 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 3:55 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-15T03:55:30.752760-04:00.accessibility.json) |
+| [October 14 at 4:32 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-14T16:32:24.124860-04:00.accessibility.json) |
 | [October 14 at 4:07 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-14T04:07:37.151895-04:00.accessibility.json) |
 | [October 13 at 4:15 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-13T16:15:38.456527-04:00.accessibility.json) |
 | [October 13 at 3:26 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-13T03:25:55.118762-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 3:18 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-11T15:18:35.990821-04:00.accessibility.json) |
 | [October 11 at 4:10 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-11T04:10:24.618158-04:00.accessibility.json) |
 | [October 10 at 4:11 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-10T16:11:40.859277-04:00.accessibility.json) |
-| [October 10 at 4:25 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-10T04:24:58.620391-04:00.accessibility.json) |
-| [October 9 at 3:56 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-09T15:56:10.962547-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 3:55 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-15T03:55:30.752760-04:00.lighthouse.json) |
+| [October 14 at 4:32 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-14T16:32:24.124860-04:00.lighthouse.json) |
 | [October 14 at 4:07 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-14T04:07:37.151895-04:00.lighthouse.json) |
 | [October 13 at 4:15 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-13T16:15:38.456527-04:00.lighthouse.json) |
 | [October 13 at 3:26 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-13T03:25:55.118762-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 3:18 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-11T15:18:35.990821-04:00.lighthouse.json) |
 | [October 11 at 4:10 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-11T04:10:24.618158-04:00.lighthouse.json) |
 | [October 10 at 4:11 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-10T16:11:40.859277-04:00.lighthouse.json) |
-| [October 10 at 4:25 AM](https://archive.org/download/theappeal-2022/theappeal-2022-10-10T04:24:58.620391-04:00.lighthouse.json) |
-| [October 9 at 3:56 PM](https://archive.org/download/theappeal-2022/theappeal-2022-10-09T15:56:10.962547-04:00.lighthouse.json) |
 
 
 

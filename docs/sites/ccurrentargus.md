@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 50 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-15T04:59:14.512114-06:00.jpg">
+  <img src="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-15T04:59:14.512114-06:00.jpg"
+     alt="Carlsbad Current-Argus at 2022-10-15 04:59:17-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-15T04:59:14.512114-06:00.jpg">October 15 at 4:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-14T17:08:52.608367-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-09T16:53:54.787551-06:00.jpg">October 9 at 4:53 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-09T05:01:42.682923-06:00.jpg">
-  <img src="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-09T05:01:42.682923-06:00.jpg"
-     alt="Carlsbad Current-Argus at 2022-10-09 05:01:46-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-09T05:01:42.682923-06:00.jpg">October 9 at 5:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 50 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 4:59 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-15T04:59:14.512114-06:00.hyperlinks.json) |
 | [October 14 at 5:09 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-14T17:08:52.608367-06:00.hyperlinks.json) |
 | [October 14 at 4:59 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-14T04:59:43.473115-06:00.hyperlinks.json) |
 | [October 13 at 5:08 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-13T17:08:10.196650-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 5:05 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-11T17:05:34.946943-06:00.hyperlinks.json) |
 | [October 11 at 5:02 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-11T05:02:38.054267-06:00.hyperlinks.json) |
 | [October 10 at 5:08 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-10T17:08:01.690345-06:00.hyperlinks.json) |
-| [October 10 at 5:07 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-10T05:07:16.044413-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 4:59 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-15T04:59:14.512114-06:00.accessibility.json) |
 | [October 14 at 5:08 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-14T17:08:52.608367-06:00.accessibility.json) |
 | [October 14 at 4:59 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-14T04:59:43.473115-06:00.accessibility.json) |
 | [October 13 at 5:08 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-13T17:08:10.196650-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 5:05 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-11T17:05:34.946943-06:00.accessibility.json) |
 | [October 11 at 5:02 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-11T05:02:38.054267-06:00.accessibility.json) |
 | [October 10 at 5:08 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-10T17:08:01.690345-06:00.accessibility.json) |
-| [October 10 at 5:07 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-10T05:07:16.044413-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 4:59 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-15T04:59:14.512114-06:00.lighthouse.json) |
 | [October 14 at 5:09 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-14T17:08:52.608367-06:00.lighthouse.json) |
 | [October 14 at 4:59 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-14T04:59:43.473115-06:00.lighthouse.json) |
 | [October 13 at 5:08 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-13T17:08:10.196650-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 5:05 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-11T17:05:34.946943-06:00.lighthouse.json) |
 | [October 11 at 5:02 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-11T05:02:38.054267-06:00.lighthouse.json) |
 | [October 10 at 5:08 PM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-10T17:08:01.690345-06:00.lighthouse.json) |
-| [October 10 at 5:07 AM](https://archive.org/download/ccurrentargus-2022/ccurrentargus-2022-10-10T05:07:16.044413-06:00.lighthouse.json) |
 
 
 
