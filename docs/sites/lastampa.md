@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 133 screenshots with the Internet Archive.
+The archiving routine has saved 134 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 133 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lastampa-2022/lastampa-2022-10-15T15:01:47.482767+02:00.jpg">
+  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-10-15T15:01:47.482767+02:00.jpg"
+     alt="La Stampa at 2022-10-15 15:01:55+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-10-15T15:01:47.482767+02:00.jpg">October 15 at 3:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lastampa-2022/lastampa-2022-10-15T03:21:56.000337+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-10-10T03:30:12.472049+02:00.jpg">October 10 at 3:30 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lastampa-2022/lastampa-2022-10-09T15:03:40.276281+02:00.jpg">
-  <img src="https://archive.org/download/lastampa-2022/lastampa-2022-10-09T15:03:40.276281+02:00.jpg"
-     alt="La Stampa at 2022-10-09 15:03:47+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lastampa-2022/lastampa-2022-10-09T15:03:40.276281+02:00.jpg">October 9 at 3:03 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 132 hyperlink lists with the Internet Archive.
+The archiving routine has saved 133 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 3:01 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-15T15:01:47.482767+02:00.hyperlinks.json) |
 | [October 15 at 3:22 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-15T03:21:56.000337+02:00.hyperlinks.json) |
 | [October 14 at 3:09 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-14T15:08:40.671445+02:00.hyperlinks.json) |
 | [October 14 at 3:20 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-14T03:20:15.642638+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 3:36 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-12T03:36:04.642401+02:00.hyperlinks.json) |
 | [October 11 at 3:08 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-11T15:08:37.696499+02:00.hyperlinks.json) |
 | [October 11 at 3:26 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-11T03:26:33.118820+02:00.hyperlinks.json) |
-| [October 10 at 3:23 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-10T15:23:22.739412+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 133 accessibility trees with the Internet Archive.
+The archiving routine has saved 134 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 3:01 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-15T15:01:47.482767+02:00.accessibility.json) |
 | [October 15 at 3:22 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-15T03:21:56.000337+02:00.accessibility.json) |
 | [October 14 at 3:09 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-14T15:08:40.671445+02:00.accessibility.json) |
 | [October 14 at 3:20 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-14T03:20:15.642638+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 3:36 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-12T03:36:04.642401+02:00.accessibility.json) |
 | [October 11 at 3:08 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-11T15:08:37.696499+02:00.accessibility.json) |
 | [October 11 at 3:26 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-11T03:26:33.118820+02:00.accessibility.json) |
-| [October 10 at 3:23 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-10T15:23:22.739412+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 134 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 3:02 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-15T15:01:47.482767+02:00.lighthouse.json) |
 | [October 15 at 3:22 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-15T03:21:56.000337+02:00.lighthouse.json) |
 | [October 14 at 3:09 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-14T15:08:40.671445+02:00.lighthouse.json) |
 | [October 14 at 3:20 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-14T03:20:15.642638+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 3:36 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-12T03:36:04.642401+02:00.lighthouse.json) |
 | [October 11 at 3:08 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-11T15:08:37.696499+02:00.lighthouse.json) |
 | [October 11 at 3:26 AM](https://archive.org/download/lastampa-2022/lastampa-2022-10-11T03:26:33.118820+02:00.lighthouse.json) |
-| [October 10 at 3:23 PM](https://archive.org/download/lastampa-2022/lastampa-2022-10-10T15:23:22.739412+02:00.lighthouse.json) |
 
 
 

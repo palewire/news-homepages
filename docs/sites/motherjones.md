@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 347 screenshots with the Internet Archive.
+The archiving routine has saved 348 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 347 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/motherjones-2022/motherjones-2022-10-15T07:59:30.592037-07:00.jpg">
+  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-10-15T07:59:30.592037-07:00.jpg"
+     alt="Mother Jones at 2022-10-15 07:59:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-10-15T07:59:30.592037-07:00.jpg">October 15 at 7:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/motherjones-2022/motherjones-2022-10-14T19:19:33.123118-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-10-11T12:50:16.005516-07:00.jpg">October 11 at 12:50 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/motherjones-2022/motherjones-2022-10-11T08:02:51.527172-07:00.jpg">
-  <img src="https://archive.org/download/motherjones-2022/motherjones-2022-10-11T08:02:51.527172-07:00.jpg"
-     alt="Mother Jones at 2022-10-11 08:03:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/motherjones-2022/motherjones-2022-10-11T08:02:51.527172-07:00.jpg">October 11 at 8:03 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 349 hyperlink lists with the Internet Archive.
+The archiving routine has saved 350 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 7:59 AM](https://archive.org/download/motherjones-2022/motherjones-2022-10-15T07:59:30.592037-07:00.hyperlinks.json) |
 | [October 14 at 7:19 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-14T19:19:33.123118-07:00.hyperlinks.json) |
 | [October 14 at 1:39 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-14T13:39:23.858154-07:00.hyperlinks.json) |
 | [October 14 at 7:18 AM](https://archive.org/download/motherjones-2022/motherjones-2022-10-14T07:18:19.514729-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 7:17 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-12T19:17:33.077997-07:00.hyperlinks.json) |
 | [October 12 at 12:30 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-12T12:30:35.330534-07:00.hyperlinks.json) |
 | [October 12 at 7:06 AM](https://archive.org/download/motherjones-2022/motherjones-2022-10-12T07:05:55.159450-07:00.hyperlinks.json) |
-| [October 11 at 7:34 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-11T19:34:47.954644-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 351 accessibility trees with the Internet Archive.
+The archiving routine has saved 352 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 7:59 AM](https://archive.org/download/motherjones-2022/motherjones-2022-10-15T07:59:30.592037-07:00.accessibility.json) |
 | [October 14 at 7:19 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-14T19:19:33.123118-07:00.accessibility.json) |
 | [October 14 at 1:39 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-14T13:39:23.858154-07:00.accessibility.json) |
 | [October 14 at 7:18 AM](https://archive.org/download/motherjones-2022/motherjones-2022-10-14T07:18:19.514729-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 7:17 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-12T19:17:33.077997-07:00.accessibility.json) |
 | [October 12 at 7:05 AM](https://archive.org/download/motherjones-2022/motherjones-2022-10-12T07:05:55.159450-07:00.accessibility.json) |
 | [October 11 at 7:34 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-11T19:34:47.954644-07:00.accessibility.json) |
-| [October 11 at 12:50 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-11T12:50:16.005516-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 244 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 245 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 7:59 AM](https://archive.org/download/motherjones-2022/motherjones-2022-10-15T07:59:30.592037-07:00.lighthouse.json) |
 | [October 14 at 7:19 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-14T19:19:33.123118-07:00.lighthouse.json) |
 | [October 14 at 1:39 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-14T13:39:23.858154-07:00.lighthouse.json) |
 | [October 14 at 7:18 AM](https://archive.org/download/motherjones-2022/motherjones-2022-10-14T07:18:19.514729-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 7:17 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-12T19:17:33.077997-07:00.lighthouse.json) |
 | [October 12 at 12:30 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-12T12:30:35.330534-07:00.lighthouse.json) |
 | [October 12 at 7:06 AM](https://archive.org/download/motherjones-2022/motherjones-2022-10-12T07:05:55.159450-07:00.lighthouse.json) |
-| [October 11 at 7:34 PM](https://archive.org/download/motherjones-2022/motherjones-2022-10-11T19:34:47.954644-07:00.lighthouse.json) |
 
 
 
