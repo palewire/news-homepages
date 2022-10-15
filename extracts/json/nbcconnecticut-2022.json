@@ -1,5 +1,5 @@
 {
-  "created": 1665757207,
+  "created": 1665800463,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/nbcconnecticut-2022",
@@ -3860,31 +3860,93 @@
       "sha1": "91b2842713c274462a504474ff2e623038eb53f8"
     },
     {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665800366",
+      "size": "45467",
+      "md5": "705747b698258a0f71b370951ee6b936",
+      "crc32": "c87e9672",
+      "sha1": "3a481670f863c4998119271c8b57712274226228",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665800367",
+      "size": "50816",
+      "md5": "bcefe374788a722e8e9a909270a1aa23",
+      "crc32": "b1ffb51e",
+      "sha1": "1347d39266d3bff98cf2a44d366b5d1adac36b12",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.jpg",
+      "source": "original",
+      "mtime": "1665800363",
+      "size": "288444",
+      "md5": "de5d77cbfc15013de0210fbee294df4b",
+      "crc32": "c989ca13",
+      "sha1": "bf8f5e332149952740bb89ad1dfbe9db332d466a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665800370",
+      "size": "1529",
+      "md5": "bfe0e4f26694e55b352387c8b533d959",
+      "crc32": "64620d18",
+      "sha1": "26fc0b9a062afe005c60852a3666bf4f87e74835",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665800372",
+      "size": "245112",
+      "md5": "31fdbdf5245c0e142faf9c5a96211f78",
+      "crc32": "6578d3a9",
+      "sha1": "e7cc5bc0823ae62efee5137f0335b49d49fbc998",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.jpg",
+      "mtime": "1665800434",
+      "size": "10080",
+      "md5": "009dec10365ab6cf8e225c572e71a309",
+      "crc32": "8f2a725d",
+      "sha1": "898e0b8818257a8119b50a9e78e553828b8ea67a"
+    },
+    {
       "name": "nbcconnecticut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "afe746df2a6b311ff90f0cee2a8ecf06895a440e",
-      "mtime": "1665757188",
-      "size": "82479",
-      "md5": "a8defacbdb7e20fa99018a2f6838d18c",
-      "crc32": "f2328c43",
-      "sha1": "b3b9c6ee67e5fa5dc647fcd968349b3abe68a3f2",
+      "btih": "5f7d584ba1c1e27c4dadee43d0878e84038a892f",
+      "mtime": "1665800444",
+      "size": "83784",
+      "md5": "9f1e75d725a5133c1f9d9485bee1a7d5",
+      "crc32": "f7ca7648",
+      "sha1": "cd0f7b98ccf239c5291015b92a962db372093a9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcconnecticut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5053d875add872c41f59309ddda068e1",
+      "md5": "c86cd484fed0d9626a6d4b6837647f6e",
       "summation": "md5"
     },
     {
       "name": "nbcconnecticut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665757110",
-      "size": "499712",
-      "md5": "d758eb10a44253e66ac1a8c69ff3045a",
-      "crc32": "a211ffbd",
-      "sha1": "362832592b3781470447c69b5945312f3eb8cbfa",
+      "mtime": "1665800375",
+      "size": "503808",
+      "md5": "bb06d9a66f8f371b12b386d049c95fef",
+      "crc32": "c3f4bca1",
+      "sha1": "38243a7ff720dcdcf19938024049417b378b7061",
       "format": "Metadata"
     },
     {
@@ -3898,9 +3960,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 377,
-  "item_last_updated": 1665757188,
-  "item_size": 31731393,
+  "files_count": 383,
+  "item_last_updated": 1665800444,
+  "item_size": 32378242,
   "metadata": {
     "identifier": "nbcconnecticut-2022",
     "collection": [
@@ -3917,10 +3979,10 @@
     "publicdate": "2022-09-14 01:20:27",
     "addeddate": "2022-09-14 01:20:27"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 401975992,
+  "server": "ia601403.us.archive.org",
+  "uniq": 25740584,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }
