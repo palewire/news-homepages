@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 48 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-14T22:24:26.040804-04:00.jpg">
+  <img src="https://archive.org/download/recordpub-2022/recordpub-2022-10-14T22:24:26.040804-04:00.jpg"
+     alt="Kent Ravenna Record-Courier at 2022-10-14 22:24:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-14T22:24:26.040804-04:00.jpg">October 14 at 10:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-14T10:24:49.044982-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-09T10:03:47.012886-04:00.jpg">October 9 at 10:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-08T22:34:33.248094-04:00.jpg">
-  <img src="https://archive.org/download/recordpub-2022/recordpub-2022-10-08T22:34:33.248094-04:00.jpg"
-     alt="Kent Ravenna Record-Courier at 2022-10-08 22:34:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordpub-2022/recordpub-2022-10-08T22:34:33.248094-04:00.jpg">October 8 at 10:34 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 10:24 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-14T22:24:26.040804-04:00.hyperlinks.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-14T10:24:49.044982-04:00.hyperlinks.json) |
 | [October 13 at 10:23 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-13T22:23:35.636941-04:00.hyperlinks.json) |
 | [October 13 at 10:16 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-13T10:16:16.252330-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 11:09 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-11T11:08:46.062117-04:00.hyperlinks.json) |
 | [October 10 at 10:28 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-10T22:28:32.558822-04:00.hyperlinks.json) |
 | [October 10 at 10:30 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-10T10:30:15.154446-04:00.hyperlinks.json) |
-| [October 9 at 10:39 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-09T22:39:25.303882-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 47 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 10:24 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-14T22:24:26.040804-04:00.accessibility.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-14T10:24:49.044982-04:00.accessibility.json) |
 | [October 13 at 10:23 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-13T22:23:35.636941-04:00.accessibility.json) |
 | [October 13 at 10:16 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-13T10:16:16.252330-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 11:08 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-11T11:08:46.062117-04:00.accessibility.json) |
 | [October 10 at 10:28 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-10T22:28:32.558822-04:00.accessibility.json) |
 | [October 10 at 10:30 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-10T10:30:15.154446-04:00.accessibility.json) |
-| [October 9 at 10:39 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-09T22:39:25.303882-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 10:24 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-14T22:24:26.040804-04:00.lighthouse.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-14T10:24:49.044982-04:00.lighthouse.json) |
 | [October 13 at 10:23 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-13T22:23:35.636941-04:00.lighthouse.json) |
 | [October 13 at 10:16 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-13T10:16:16.252330-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 11:09 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-11T11:08:46.062117-04:00.lighthouse.json) |
 | [October 10 at 10:28 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-10T22:28:32.558822-04:00.lighthouse.json) |
 | [October 10 at 10:30 AM](https://archive.org/download/recordpub-2022/recordpub-2022-10-10T10:30:15.154446-04:00.lighthouse.json) |
-| [October 9 at 10:39 PM](https://archive.org/download/recordpub-2022/recordpub-2022-10-09T22:39:25.303882-04:00.lighthouse.json) |
 
 
 

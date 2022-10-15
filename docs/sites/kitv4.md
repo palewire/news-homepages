@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 62 screenshots with the Internet Archive.
+The archiving routine has saved 63 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 62 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kitv4-2022/kitv4-2022-10-14T15:21:18.733934-10:00.jpg">
+  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-10-14T15:21:18.733934-10:00.jpg"
+     alt="KITV4 at 2022-10-14 15:21:23-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-10-14T15:21:18.733934-10:00.jpg">October 14 at 3:21 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kitv4-2022/kitv4-2022-10-14T03:08:36.475102-10:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-10-09T03:04:28.955066-10:00.jpg">October 9 at 3:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kitv4-2022/kitv4-2022-10-08T15:18:02.397157-10:00.jpg">
-  <img src="https://archive.org/download/kitv4-2022/kitv4-2022-10-08T15:18:02.397157-10:00.jpg"
-     alt="KITV4 at 2022-10-08 15:18:04-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kitv4-2022/kitv4-2022-10-08T15:18:02.397157-10:00.jpg">October 8 at 3:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 61 hyperlink lists with the Internet Archive.
+The archiving routine has saved 62 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 3:21 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-14T15:21:18.733934-10:00.hyperlinks.json) |
 | [October 14 at 3:08 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-14T03:08:36.475102-10:00.hyperlinks.json) |
 | [October 13 at 3:20 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-13T15:20:31.207548-10:00.hyperlinks.json) |
 | [October 13 at 2:58 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-13T02:58:35.786392-10:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 3:07 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-11T03:07:54.098674-10:00.hyperlinks.json) |
 | [October 10 at 3:26 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-10T15:26:40.594132-10:00.hyperlinks.json) |
 | [October 10 at 3:21 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-10T03:21:42.803489-10:00.hyperlinks.json) |
-| [October 9 at 3:30 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-09T15:30:03.414305-10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 61 accessibility trees with the Internet Archive.
+The archiving routine has saved 62 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 3:21 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-14T15:21:18.733934-10:00.accessibility.json) |
 | [October 14 at 3:08 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-14T03:08:36.475102-10:00.accessibility.json) |
 | [October 13 at 3:20 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-13T15:20:31.207548-10:00.accessibility.json) |
 | [October 13 at 2:58 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-13T02:58:35.786392-10:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 3:07 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-11T03:07:54.098674-10:00.accessibility.json) |
 | [October 10 at 3:26 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-10T15:26:40.594132-10:00.accessibility.json) |
 | [October 10 at 3:21 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-10T03:21:42.803489-10:00.accessibility.json) |
-| [October 9 at 3:30 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-09T15:30:03.414305-10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 62 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 3:21 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-14T15:21:18.733934-10:00.lighthouse.json) |
 | [October 14 at 3:08 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-14T03:08:36.475102-10:00.lighthouse.json) |
 | [October 13 at 3:20 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-13T15:20:31.207548-10:00.lighthouse.json) |
 | [October 13 at 2:58 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-13T02:58:35.786392-10:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 3:08 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-11T03:07:54.098674-10:00.lighthouse.json) |
 | [October 10 at 3:26 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-10T15:26:40.594132-10:00.lighthouse.json) |
 | [October 10 at 3:21 AM](https://archive.org/download/kitv4-2022/kitv4-2022-10-10T03:21:42.803489-10:00.lighthouse.json) |
-| [October 9 at 3:30 PM](https://archive.org/download/kitv4-2022/kitv4-2022-10-09T15:30:03.414305-10:00.lighthouse.json) |
 
 
 

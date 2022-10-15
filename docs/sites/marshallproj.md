@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 273 screenshots with the Internet Archive.
+The archiving routine has saved 274 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 273 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T21:23:53.871549-04:00.jpg">
+  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T21:23:53.871549-04:00.jpg"
+     alt="Marshall Project at 2022-10-14 21:23:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T21:23:53.871549-04:00.jpg">October 14 at 9:23 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T09:11:39.658140-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-10-09T09:06:51.718886-04:00.jpg">October 9 at 9:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-10-08T21:19:51.712451-04:00.jpg">
-  <img src="https://archive.org/download/marshallproj-2022/marshallproj-2022-10-08T21:19:51.712451-04:00.jpg"
-     alt="Marshall Project at 2022-10-08 21:19:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/marshallproj-2022/marshallproj-2022-10-08T21:19:51.712451-04:00.jpg">October 8 at 9:19 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 275 hyperlink lists with the Internet Archive.
+The archiving routine has saved 276 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 9:23 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T21:23:53.871549-04:00.hyperlinks.json) |
 | [October 14 at 9:11 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T09:11:39.658140-04:00.hyperlinks.json) |
 | [October 13 at 9:23 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-13T21:23:19.286199-04:00.hyperlinks.json) |
 | [October 13 at 9:00 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-13T09:00:30.299399-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 9:10 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-11T09:10:18.198534-04:00.hyperlinks.json) |
 | [October 10 at 9:30 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-10T21:30:01.401182-04:00.hyperlinks.json) |
 | [October 10 at 9:24 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-10T09:24:38.608932-04:00.hyperlinks.json) |
-| [October 9 at 9:33 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-09T21:33:16.320747-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 276 accessibility trees with the Internet Archive.
+The archiving routine has saved 277 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 9:23 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T21:23:53.871549-04:00.accessibility.json) |
 | [October 14 at 9:11 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T09:11:39.658140-04:00.accessibility.json) |
 | [October 13 at 9:23 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-13T21:23:19.286199-04:00.accessibility.json) |
 | [October 13 at 9:00 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-13T09:00:30.299399-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 9:10 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-11T09:10:18.198534-04:00.accessibility.json) |
 | [October 10 at 9:30 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-10T21:30:01.401182-04:00.accessibility.json) |
 | [October 10 at 9:24 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-10T09:24:38.608932-04:00.accessibility.json) |
-| [October 9 at 9:33 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-09T21:33:16.320747-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 9:24 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T21:23:53.871549-04:00.lighthouse.json) |
 | [October 14 at 9:11 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-14T09:11:39.658140-04:00.lighthouse.json) |
 | [October 13 at 9:23 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-13T21:23:19.286199-04:00.lighthouse.json) |
 | [October 13 at 9:00 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-13T09:00:30.299399-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 9:10 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-11T09:10:18.198534-04:00.lighthouse.json) |
 | [October 10 at 9:30 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-10T21:30:01.401182-04:00.lighthouse.json) |
 | [October 10 at 9:24 AM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-10T09:24:38.608932-04:00.lighthouse.json) |
-| [October 9 at 9:33 PM](https://archive.org/download/marshallproj-2022/marshallproj-2022-10-09T21:33:16.320747-04:00.lighthouse.json) |
 
 
 

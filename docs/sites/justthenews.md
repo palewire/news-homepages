@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 187 screenshots with the Internet Archive.
+The archiving routine has saved 188 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 187 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/justthenews-2022/justthenews-2022-10-14T21:19:22.371018-04:00.jpg">
+  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-10-14T21:19:22.371018-04:00.jpg"
+     alt="Just the News at 2022-10-14 21:19:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-10-14T21:19:22.371018-04:00.jpg">October 14 at 9:19 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/justthenews-2022/justthenews-2022-10-14T16:45:22.750297-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-10-11T09:07:05.648816-04:00.jpg">October 11 at 9:07 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/justthenews-2022/justthenews-2022-10-10T21:23:23.781422-04:00.jpg">
-  <img src="https://archive.org/download/justthenews-2022/justthenews-2022-10-10T21:23:23.781422-04:00.jpg"
-     alt="Just the News at 2022-10-10 21:23:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/justthenews-2022/justthenews-2022-10-10T21:23:23.781422-04:00.jpg">October 10 at 9:23 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 183 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 9:19 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-14T21:19:22.371018-04:00.hyperlinks.json) |
 | [October 14 at 4:45 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-14T16:45:22.750297-04:00.hyperlinks.json) |
 | [October 14 at 9:06 AM](https://archive.org/download/justthenews-2022/justthenews-2022-10-14T09:05:43.880550-04:00.hyperlinks.json) |
 | [October 13 at 9:18 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-13T21:18:26.553985-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 3:32 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-12T15:32:43.009836-04:00.hyperlinks.json) |
 | [October 12 at 8:54 AM](https://archive.org/download/justthenews-2022/justthenews-2022-10-12T08:53:57.847065-04:00.hyperlinks.json) |
 | [October 11 at 9:32 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-11T21:32:26.278493-04:00.hyperlinks.json) |
-| [October 11 at 3:52 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-11T15:52:25.771243-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 180 accessibility trees with the Internet Archive.
+The archiving routine has saved 181 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 9:19 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-14T21:19:22.371018-04:00.accessibility.json) |
 | [October 14 at 4:45 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-14T16:45:22.750297-04:00.accessibility.json) |
 | [October 14 at 9:05 AM](https://archive.org/download/justthenews-2022/justthenews-2022-10-14T09:05:43.880550-04:00.accessibility.json) |
 | [October 13 at 9:18 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-13T21:18:26.553985-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 3:32 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-12T15:32:43.009836-04:00.accessibility.json) |
 | [October 12 at 8:54 AM](https://archive.org/download/justthenews-2022/justthenews-2022-10-12T08:53:57.847065-04:00.accessibility.json) |
 | [October 11 at 9:32 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-11T21:32:26.278493-04:00.accessibility.json) |
-| [October 11 at 3:52 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-11T15:52:25.771243-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 186 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 187 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 9:19 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-14T21:19:22.371018-04:00.lighthouse.json) |
 | [October 14 at 4:45 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-14T16:45:22.750297-04:00.lighthouse.json) |
 | [October 14 at 9:06 AM](https://archive.org/download/justthenews-2022/justthenews-2022-10-14T09:05:43.880550-04:00.lighthouse.json) |
 | [October 13 at 9:18 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-13T21:18:26.553985-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 3:32 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-12T15:32:43.009836-04:00.lighthouse.json) |
 | [October 12 at 8:54 AM](https://archive.org/download/justthenews-2022/justthenews-2022-10-12T08:53:57.847065-04:00.lighthouse.json) |
 | [October 11 at 9:32 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-11T21:32:26.278493-04:00.lighthouse.json) |
-| [October 11 at 3:52 PM](https://archive.org/download/justthenews-2022/justthenews-2022-10-11T15:52:25.771243-04:00.lighthouse.json) |
 
 
 
