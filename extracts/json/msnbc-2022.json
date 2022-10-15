@@ -1,5 +1,6 @@
 {
-  "created": 1665864383,
+  "conflict": 1665869081,
+  "created": 1665869081,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/19/items/msnbc-2022",
@@ -43548,31 +43549,88 @@
       "sha1": "b601264a5c2144d73148f0eda9bb4b780c6ea609"
     },
     {
+      "name": "msnbc-2022-10-15T17:21:08.664395-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665868872",
+      "size": "60443",
+      "md5": "e768abfb3adff73e3939417e9c925605",
+      "crc32": "9deb0bf7",
+      "sha1": "e5b4c43c7551b4c08e4f373c5766452706b1accc",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-10-15T17:21:08.664395-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665868874",
+      "size": "74613",
+      "md5": "5083ae01617364f450decbb3b6845cf5",
+      "crc32": "af8b38de",
+      "sha1": "6ed58e90b8905e81412266950271d8abcb6574f0",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-10-15T17:21:08.664395-04:00.jpg",
+      "source": "original",
+      "mtime": "1665868870",
+      "size": "311422",
+      "md5": "2ccaeba97be10f5ce649e32e6e684698",
+      "crc32": "10d65731",
+      "sha1": "4e2335090ae461b44bf0233cc87ae98053c1e935",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msnbc-2022-10-15T17:21:08.664395-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665868876",
+      "size": "1450",
+      "md5": "14cf386fa198b3a4a62d145b98851f7b",
+      "crc32": "036c47d2",
+      "sha1": "7ddda82a6e5902f587bed1b072fb3e5fe164c45f",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-10-15T17:21:08.664395-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665868878",
+      "size": "21094",
+      "md5": "ddd131f96a47927add6b28cfcacace34",
+      "crc32": "312f5da1",
+      "sha1": "b3c14a2ed751c920c81c12f0ab9990ab1d3b61c9",
+      "format": "JSON"
+    },
+    {
+      "name": "msnbc-2022-10-15T17:21:08.664395-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msnbc-2022-10-15T17:21:08.664395-04:00.jpg"
+    },
+    {
       "name": "msnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "106f7cf8e162bb0e8f68bc31ce948d82ef0c8ac1",
-      "mtime": "1665864354",
-      "size": "871981",
-      "md5": "f1b46de253cf0f76af93fa7053315973",
-      "crc32": "2cc897f9",
-      "sha1": "380025a402904f38fae40867316761124e8324d3",
+      "btih": "b6b784c8747aa77968386c515d4babaf77789103",
+      "mtime": "1665869043",
+      "size": "873029",
+      "md5": "74253515d638f5968924da83473c023e",
+      "crc32": "4c8ecce3",
+      "sha1": "d657be6b6a44931090c3b53b5f912f2a17aee297",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db4ae9acd846cf1bb6101f46b67109e5",
+      "md5": "9941e62205e8e95a8412cb88ac572056",
       "summation": "md5"
     },
     {
       "name": "msnbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665863974",
-      "size": "5005312",
-      "md5": "0df2990ae5c92fee1d1bbbefe6d61103",
-      "crc32": "ca89caad",
-      "sha1": "97341de3e0b2a21eee801b1fc29470e1840f0b53",
+      "mtime": "1665868883",
+      "size": "5017600",
+      "md5": "65152ba4bccbcdeeea5b8bb93e5fa84c",
+      "crc32": "65f0bc35",
+      "sha1": "1b23275bbfa20205d7266e476dfd986f783b2c92",
       "format": "Metadata"
     },
     {
@@ -43586,9 +43644,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4183,
-  "item_last_updated": 1665864354,
-  "item_size": 405416886,
+  "files_count": 4189,
+  "item_last_updated": 1665869043,
+  "item_size": 405899244,
   "metadata": {
     "identifier": "msnbc-2022",
     "collection": [
@@ -43605,10 +43663,21 @@
     "publicdate": "2022-03-23 01:46:13",
     "addeddate": "2022-03-23 01:46:13"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1425870511,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3441422940,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 200563810,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }
