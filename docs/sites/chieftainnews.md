@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 50 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 49 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T18:06:04.405303-06:00.jpg">
+  <img src="https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T18:06:04.405303-06:00.jpg"
+     alt="The Pueblo Chieftain at 2022-10-14 18:06:07-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T18:06:04.405303-06:00.jpg">October 14 at 6:06 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T05:58:15.999853-06:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-09T06:00:05.654252-06:00.jpg">October 9 at 6:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-08T18:01:41.345512-06:00.jpg">
-  <img src="https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-08T18:01:41.345512-06:00.jpg"
-     alt="The Pueblo Chieftain at 2022-10-08 18:01:42-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-08T18:01:41.345512-06:00.jpg">October 8 at 6:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 50 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 6:06 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T18:06:04.405303-06:00.hyperlinks.json) |
 | [October 14 at 5:58 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T05:58:15.999853-06:00.hyperlinks.json) |
 | [October 13 at 5:56 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-13T17:56:51.659532-06:00.hyperlinks.json) |
 | [October 13 at 5:48 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-13T05:48:01.472456-06:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 6:03 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-11T06:03:26.242995-06:00.hyperlinks.json) |
 | [October 10 at 6:04 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-10T18:04:04.391105-06:00.hyperlinks.json) |
 | [October 10 at 6:18 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-10T06:18:31.623182-06:00.hyperlinks.json) |
-| [October 9 at 5:44 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-09T17:44:16.624163-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 6:06 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T18:06:04.405303-06:00.accessibility.json) |
 | [October 14 at 5:58 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T05:58:15.999853-06:00.accessibility.json) |
 | [October 13 at 5:56 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-13T17:56:51.659532-06:00.accessibility.json) |
 | [October 13 at 5:48 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-13T05:48:01.472456-06:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 6:03 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-11T06:03:26.242995-06:00.accessibility.json) |
 | [October 10 at 6:04 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-10T18:04:04.391105-06:00.accessibility.json) |
 | [October 10 at 6:18 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-10T06:18:31.623182-06:00.accessibility.json) |
-| [October 9 at 5:44 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-09T17:44:16.624163-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 6:06 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T18:06:04.405303-06:00.lighthouse.json) |
 | [October 14 at 5:58 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-14T05:58:15.999853-06:00.lighthouse.json) |
 | [October 13 at 5:56 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-13T17:56:51.659532-06:00.lighthouse.json) |
 | [October 13 at 5:48 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-13T05:48:01.472456-06:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 6:03 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-11T06:03:26.242995-06:00.lighthouse.json) |
 | [October 10 at 6:04 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-10T18:04:04.391105-06:00.lighthouse.json) |
 | [October 10 at 6:18 AM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-10T06:18:31.623182-06:00.lighthouse.json) |
-| [October 9 at 5:44 PM](https://archive.org/download/chieftainnews-2022/chieftainnews-2022-10-09T17:44:16.624163-06:00.lighthouse.json) |
 
 
 

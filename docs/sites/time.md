@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 386 screenshots with the Internet Archive.
+The archiving routine has saved 388 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-10-14T17:22:39.636555-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-10-14T17:22:39.636555-04:00.jpg"
+     alt="TIME at 2022-10-14 17:23:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-10-14T17:22:39.636555-04:00.jpg">October 14 at 5:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/time-2022/time-2022-10-14T12:25:18.164490-04:00.jpg">
+  <img src="https://archive.org/download/time-2022/time-2022-10-14T12:25:18.164490-04:00.jpg"
+     alt="TIME at 2022-10-14 12:25:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/time-2022/time-2022-10-14T12:25:18.164490-04:00.jpg">October 14 at 12:25 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/time-2022/time-2022-10-14T09:03:35.439049-04:00.jpg">
   <img src="https://archive.org/download/time-2022/time-2022-10-14T09:03:35.439049-04:00.jpg"
      alt="TIME at 2022-10-14 09:03:47-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/time-2022/time-2022-10-11T23:56:52.603057-04:00.jpg">October 11 at 11:56 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-10-11T17:23:03.083172-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-10-11T17:23:03.083172-04:00.jpg"
-     alt="TIME at 2022-10-11 17:23:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-10-11T17:23:03.083172-04:00.jpg">October 11 at 5:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/time-2022/time-2022-10-11T11:15:55.619894-04:00.jpg">
-  <img src="https://archive.org/download/time-2022/time-2022-10-11T11:15:55.619894-04:00.jpg"
-     alt="TIME at 2022-10-11 11:15:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/time-2022/time-2022-10-11T11:15:55.619894-04:00.jpg">October 11 at 11:15 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 383 hyperlink lists with the Internet Archive.
+The archiving routine has saved 385 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 5:23 PM](https://archive.org/download/time-2022/time-2022-10-14T17:22:39.636555-04:00.hyperlinks.json) |
+| [October 14 at 12:25 PM](https://archive.org/download/time-2022/time-2022-10-14T12:25:18.164490-04:00.hyperlinks.json) |
 | [October 14 at 9:03 AM](https://archive.org/download/time-2022/time-2022-10-14T09:03:35.439049-04:00.hyperlinks.json) |
 | [October 13 at 11:56 PM](https://archive.org/download/time-2022/time-2022-10-13T23:55:45.442968-04:00.hyperlinks.json) |
 | [October 13 at 5:19 PM](https://archive.org/download/time-2022/time-2022-10-13T17:19:35.112177-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 11:42 PM](https://archive.org/download/time-2022/time-2022-10-12T23:42:45.276177-04:00.hyperlinks.json) |
 | [October 12 at 5:27 PM](https://archive.org/download/time-2022/time-2022-10-12T17:27:25.041667-04:00.hyperlinks.json) |
 | [October 12 at 11:08 AM](https://archive.org/download/time-2022/time-2022-10-12T11:08:01.071847-04:00.hyperlinks.json) |
-| [October 12 at 8:50 AM](https://archive.org/download/time-2022/time-2022-10-12T08:50:16.350195-04:00.hyperlinks.json) |
-| [October 11 at 11:56 PM](https://archive.org/download/time-2022/time-2022-10-11T23:56:52.603057-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 383 accessibility trees with the Internet Archive.
+The archiving routine has saved 385 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 5:23 PM](https://archive.org/download/time-2022/time-2022-10-14T17:22:39.636555-04:00.accessibility.json) |
+| [October 14 at 12:25 PM](https://archive.org/download/time-2022/time-2022-10-14T12:25:18.164490-04:00.accessibility.json) |
 | [October 14 at 9:03 AM](https://archive.org/download/time-2022/time-2022-10-14T09:03:35.439049-04:00.accessibility.json) |
 | [October 13 at 11:55 PM](https://archive.org/download/time-2022/time-2022-10-13T23:55:45.442968-04:00.accessibility.json) |
 | [October 13 at 5:19 PM](https://archive.org/download/time-2022/time-2022-10-13T17:19:35.112177-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 11:42 PM](https://archive.org/download/time-2022/time-2022-10-12T23:42:45.276177-04:00.accessibility.json) |
 | [October 12 at 5:27 PM](https://archive.org/download/time-2022/time-2022-10-12T17:27:25.041667-04:00.accessibility.json) |
 | [October 12 at 11:08 AM](https://archive.org/download/time-2022/time-2022-10-12T11:08:01.071847-04:00.accessibility.json) |
-| [October 12 at 8:50 AM](https://archive.org/download/time-2022/time-2022-10-12T08:50:16.350195-04:00.accessibility.json) |
-| [October 11 at 11:56 PM](https://archive.org/download/time-2022/time-2022-10-11T23:56:52.603057-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 313 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 315 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 5:23 PM](https://archive.org/download/time-2022/time-2022-10-14T17:22:39.636555-04:00.lighthouse.json) |
+| [October 14 at 12:25 PM](https://archive.org/download/time-2022/time-2022-10-14T12:25:18.164490-04:00.lighthouse.json) |
 | [October 14 at 9:03 AM](https://archive.org/download/time-2022/time-2022-10-14T09:03:35.439049-04:00.lighthouse.json) |
 | [October 13 at 11:56 PM](https://archive.org/download/time-2022/time-2022-10-13T23:55:45.442968-04:00.lighthouse.json) |
 | [October 13 at 5:19 PM](https://archive.org/download/time-2022/time-2022-10-13T17:19:35.112177-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 11:42 PM](https://archive.org/download/time-2022/time-2022-10-12T23:42:45.276177-04:00.lighthouse.json) |
 | [October 12 at 5:27 PM](https://archive.org/download/time-2022/time-2022-10-12T17:27:25.041667-04:00.lighthouse.json) |
 | [October 12 at 11:08 AM](https://archive.org/download/time-2022/time-2022-10-12T11:08:01.071847-04:00.lighthouse.json) |
-| [October 12 at 8:50 AM](https://archive.org/download/time-2022/time-2022-10-12T08:50:16.350195-04:00.lighthouse.json) |
-| [October 11 at 11:57 PM](https://archive.org/download/time-2022/time-2022-10-11T23:56:52.603057-04:00.lighthouse.json) |
 
 
 

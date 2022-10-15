@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 146 screenshots with the Internet Archive.
+The archiving routine has saved 148 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T18:09:15.069679-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T18:09:15.069679-05:00.jpg"
+     alt="Borderless at 2022-10-14 18:09:21-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T18:09:15.069679-05:00.jpg">October 14 at 6:09 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T11:42:06.695220-05:00.jpg">
+  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T11:42:06.695220-05:00.jpg"
+     alt="Borderless at 2022-10-14 11:42:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T11:42:06.695220-05:00.jpg">October 14 at 11:42 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T05:59:07.891134-05:00.jpg">
   <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T05:59:07.891134-05:00.jpg"
      alt="Borderless at 2022-10-14 05:59:18-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T06:00:13.287608-05:00.jpg">October 11 at 6:00 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-10T18:04:50.659558-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-10T18:04:50.659558-05:00.jpg"
-     alt="Borderless at 2022-10-10 18:04:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-10T18:04:50.659558-05:00.jpg">October 10 at 6:04 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-10T12:21:32.099212-05:00.jpg">
-  <img src="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-10T12:21:32.099212-05:00.jpg"
-     alt="Borderless at 2022-10-10 12:21:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-10T12:21:32.099212-05:00.jpg">October 10 at 12:21 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 146 hyperlink lists with the Internet Archive.
+The archiving routine has saved 148 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 6:09 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T18:09:15.069679-05:00.hyperlinks.json) |
+| [October 14 at 11:42 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T11:42:06.695220-05:00.hyperlinks.json) |
 | [October 14 at 5:59 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T05:59:07.891134-05:00.hyperlinks.json) |
 | [October 13 at 6:08 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-13T18:08:10.154807-05:00.hyperlinks.json) |
 | [October 13 at 11:01 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-13T11:01:26.909185-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 10:54 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-12T10:54:44.711386-05:00.hyperlinks.json) |
 | [October 12 at 6:01 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-12T06:01:17.946439-05:00.hyperlinks.json) |
 | [October 11 at 6:02 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T18:02:08.702255-05:00.hyperlinks.json) |
-| [October 11 at 11:07 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T11:07:46.384596-05:00.hyperlinks.json) |
-| [October 11 at 6:00 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T06:00:13.287608-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 147 accessibility trees with the Internet Archive.
+The archiving routine has saved 149 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 6:09 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T18:09:15.069679-05:00.accessibility.json) |
+| [October 14 at 11:42 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T11:42:06.695220-05:00.accessibility.json) |
 | [October 14 at 5:59 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T05:59:07.891134-05:00.accessibility.json) |
 | [October 13 at 6:08 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-13T18:08:10.154807-05:00.accessibility.json) |
 | [October 13 at 11:01 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-13T11:01:26.909185-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 10:54 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-12T10:54:44.711386-05:00.accessibility.json) |
 | [October 12 at 6:01 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-12T06:01:17.946439-05:00.accessibility.json) |
 | [October 11 at 6:02 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T18:02:08.702255-05:00.accessibility.json) |
-| [October 11 at 11:07 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T11:07:46.384596-05:00.accessibility.json) |
-| [October 11 at 6:00 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T06:00:13.287608-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 147 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 6:09 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T18:09:15.069679-05:00.lighthouse.json) |
+| [October 14 at 11:42 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T11:42:06.695220-05:00.lighthouse.json) |
 | [October 14 at 5:59 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-14T05:59:07.891134-05:00.lighthouse.json) |
 | [October 13 at 6:08 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-13T18:08:10.154807-05:00.lighthouse.json) |
 | [October 13 at 11:01 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-13T11:01:26.909185-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 10:55 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-12T10:54:44.711386-05:00.lighthouse.json) |
 | [October 12 at 6:01 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-12T06:01:17.946439-05:00.lighthouse.json) |
 | [October 11 at 6:02 PM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T18:02:08.702255-05:00.lighthouse.json) |
-| [October 11 at 11:07 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T11:07:46.384596-05:00.lighthouse.json) |
-| [October 11 at 6:00 AM](https://archive.org/download/borderless_mag-2022/borderless_mag-2022-10-11T06:00:13.287608-05:00.lighthouse.json) |
 
 
 
