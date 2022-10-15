@@ -1,5 +1,5 @@
 {
-  "created": 1665862285,
+  "created": 1665864106,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/16/items/mmfa-2022",
@@ -15334,31 +15334,93 @@
       "sha1": "798b6b0807b043e4088592d2aacc9b2fcd27b648"
     },
     {
+      "name": "mmfa-2022-10-15T15:59:18.775088-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665863962",
+      "size": "16816",
+      "md5": "aa096b80dc4ab0da63e2fa4feabc238d",
+      "crc32": "9e3526a0",
+      "sha1": "776f2e41e6c5e43f93a878d1a2af5e07e5f5ed2c",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-10-15T15:59:18.775088-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665863964",
+      "size": "18086",
+      "md5": "ecb967bc746e1d52749b5cc3b8546149",
+      "crc32": "22162a2b",
+      "sha1": "2801087d439d93698edf076be00d412fa5557e6a",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-10-15T15:59:18.775088-04:00.jpg",
+      "source": "original",
+      "mtime": "1665863960",
+      "size": "226370",
+      "md5": "234799b6f573ea076ebd46bd7938e46c",
+      "crc32": "ac4713cb",
+      "sha1": "3196a328fc690486e67510cfccb37ac9ff5dca06",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mmfa-2022-10-15T15:59:18.775088-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665863966",
+      "size": "1513",
+      "md5": "01c5836cd51a5e953fa3db4942e9a44d",
+      "crc32": "cf824f00",
+      "sha1": "0abe91bc4df012c861216881ba57a6691d22fda1",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-10-15T15:59:18.775088-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665863967",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mmfa-2022-10-15T15:59:18.775088-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mmfa-2022-10-15T15:59:18.775088-04:00.jpg",
+      "mtime": "1665864060",
+      "size": "10089",
+      "md5": "a38245cbcff102c930e2ca104e67a54c",
+      "crc32": "afd2d119",
+      "sha1": "798b6b0807b043e4088592d2aacc9b2fcd27b648"
+    },
+    {
       "name": "mmfa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1012883f261b1c63386bf757546ee10975ee1326",
-      "mtime": "1665856928",
-      "size": "306541",
-      "md5": "62f7e506d1116d43227425563f292275",
-      "crc32": "f9d3f13a",
-      "sha1": "7541f0dd4365fc3bea6d8c94b433f1d1fac66f89",
+      "btih": "e0d42b00eb0d3f6be2fd10cd17e912db41de601f",
+      "mtime": "1665864078",
+      "size": "307763",
+      "md5": "a900d56fd2d54eecc63884f640683ecb",
+      "crc32": "7ffe7bbd",
+      "sha1": "b3b3663fafd2200f7d4606b319c519853c585551",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mmfa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4fac5e6025730a6691b31096947a14a8",
+      "md5": "0957bca148b8eaf4eab7a54a75b218a5",
       "summation": "md5"
     },
     {
       "name": "mmfa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665856775",
-      "size": "1859584",
-      "md5": "23ac2462612b4f32a437586b73a19eb1",
-      "crc32": "23e571f8",
-      "sha1": "29a1f2aebe1eb25e00c1be422fda107b69891d75",
+      "mtime": "1665863974",
+      "size": "1867776",
+      "md5": "9c216aec4f72563bdd73e6ba5e661a6b",
+      "crc32": "95998b82",
+      "sha1": "39b6cf61b21154a81505b1fdfaf707677f2c32b0",
       "format": "Metadata"
     },
     {
@@ -15372,9 +15434,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1485,
-  "item_last_updated": 1665856928,
-  "item_size": 84231847,
+  "files_count": 1491,
+  "item_last_updated": 1665864078,
+  "item_size": 84514337,
   "metadata": {
     "identifier": "mmfa-2022",
     "collection": [
@@ -15391,18 +15453,10 @@
     "publicdate": "2022-07-17 15:59:57",
     "addeddate": "2022-07-17 15:59:57"
   },
-  "mmfa-2022": {
-    "url": "https://www.mediamatters.org/",
-    "job_id": "spn2-4790c4af49c9a214396833d1789a98cc12a810b8",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 871.",
-    "resources": [],
-    "status": "error",
-    "status_ext": "WorkerLostError"
-  },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1306055282,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1028168802,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }
