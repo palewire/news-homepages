@@ -1,5 +1,5 @@
 {
-  "created": 1665792920,
+  "created": 1665835408,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/17/items/haaretzcom-2022",
@@ -7686,31 +7686,93 @@
       "sha1": "eb0ed2d63c1f8691241fd4015a1008c459bc0991"
     },
     {
+      "name": "haaretzcom-2022-10-15T15:01:41.374136+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665835321",
+      "size": "134227",
+      "md5": "e1620aafe7de9850c5f0f915edfbecce",
+      "crc32": "559398f6",
+      "sha1": "cbbd72114eeb320affa7079d51a4897709e2a022",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-15T15:01:41.374136+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665835323",
+      "size": "102682",
+      "md5": "0c40c36fdc435c93b002985dc70cacef",
+      "crc32": "89e2c86c",
+      "sha1": "34fed22993ff2b826975e94cec3506fcf5aeb25e",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-15T15:01:41.374136+03:00.jpg",
+      "source": "original",
+      "mtime": "1665835319",
+      "size": "246172",
+      "md5": "8b5a28b7d51f881efd205b9a73afc2a1",
+      "crc32": "5b6d294f",
+      "sha1": "111c923dfbb3d207d6be6d794b7e63ebe26da220",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "haaretzcom-2022-10-15T15:01:41.374136+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665835325",
+      "size": "1486",
+      "md5": "325ca1204d3373e5553bd9714e36dd13",
+      "crc32": "b8c887ec",
+      "sha1": "f39904994ab612514ad1bc886d9fe2908ce20972",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-15T15:01:41.374136+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665835326",
+      "size": "102",
+      "md5": "047842bbabeffeb74bd4e8350b57cd2c",
+      "crc32": "3a141d3e",
+      "sha1": "dddd39c6ee9397ab7841942f6657062a5fa0d566",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-15T15:01:41.374136+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "haaretzcom-2022-10-15T15:01:41.374136+03:00.jpg",
+      "mtime": "1665835393",
+      "size": "9708",
+      "md5": "487db0961eb3997354eebe8a62bea1d5",
+      "crc32": "35272077",
+      "sha1": "b7f95501d5a3a9d247be4792d3b97ba1ca11f8d5"
+    },
+    {
       "name": "haaretzcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f8b16b123d5d768b938217b1bd4de6af7e17199e",
-      "mtime": "1665792906",
-      "size": "160120",
-      "md5": "11412a5bcf7f5ec9c6da25be52488fb8",
-      "crc32": "90d6de54",
-      "sha1": "2f1d0f9379a314547416ff9e5390a81b0616a4fe",
+      "btih": "b9a843d4e0c9cab62a12a640e9f8e35bd6c032c8",
+      "mtime": "1665835401",
+      "size": "161399",
+      "md5": "2fb5def84764379932bc1a85ef50d309",
+      "crc32": "4a3a02f2",
+      "sha1": "ee7ef9d9c9fa9741f00eb4c53be5b3d803dc1ea3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "haaretzcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d8ab99bfec3a370ac74128eb192c57d2",
+      "md5": "07fdb914003534a8e2fd2c5ecf0bbc2c",
       "summation": "md5"
     },
     {
       "name": "haaretzcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665792833",
-      "size": "962560",
-      "md5": "5c64295170f9d928bf636891410bce45",
-      "crc32": "17ad96d7",
-      "sha1": "5cc4f1b103cff84975627031b9e832ad81545388",
+      "mtime": "1665835331",
+      "size": "970752",
+      "md5": "2f0306d97b5df604eed2449b9f4ed755",
+      "crc32": "7a4f9c1e",
+      "sha1": "76ec427582771f42723a99f8036c274022e9e71b",
       "format": "Metadata"
     },
     {
@@ -7724,9 +7786,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 747,
-  "item_last_updated": 1665792906,
-  "item_size": 69664458,
+  "files_count": 753,
+  "item_last_updated": 1665835401,
+  "item_size": 70168306,
   "metadata": {
     "identifier": "haaretzcom-2022",
     "collection": [
@@ -7743,10 +7805,10 @@
     "publicdate": "2022-08-13 23:57:56",
     "addeddate": "2022-08-13 23:57:56"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 1065325634,
+  "server": "ia801406.us.archive.org",
+  "uniq": 2101492699,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }
