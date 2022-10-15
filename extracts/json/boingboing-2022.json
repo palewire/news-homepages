@@ -1,6 +1,5 @@
 {
-  "conflict": 1665745409,
-  "created": 1665745409,
+  "created": 1665789113,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/25/items/boingboing-2022",
@@ -12773,31 +12772,93 @@
       "sha1": "97937b4e89d231fe283c08ea6cca3041028072db"
     },
     {
+      "name": "boingboing-2022-10-14T16:08:42.082898-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788926",
+      "size": "17949",
+      "md5": "ac02ff2d42fd7ff2ca3d06e90ccea82b",
+      "crc32": "3146abf5",
+      "sha1": "367af389b3c6eab16661f3fadcac188676dceafb",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-14T16:08:42.082898-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788930",
+      "size": "23938",
+      "md5": "a44f3a6150c73a168c7e03bf843ca68f",
+      "crc32": "5daee8fe",
+      "sha1": "e8f0b961d3e923bb68c35edee743009e852788d9",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-14T16:08:42.082898-07:00.jpg",
+      "source": "original",
+      "mtime": "1665788924",
+      "size": "176369",
+      "md5": "e8390e627b3cb7ed00b5ad7bfceb7df8",
+      "crc32": "03c814a0",
+      "sha1": "bd8bc4b0319f978f522961cfffa04e4ecd30091a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-14T16:08:42.082898-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788932",
+      "size": "1459",
+      "md5": "87054b8122ecbdd423814a849a6c10e0",
+      "crc32": "1f224910",
+      "sha1": "e42cb013acdce46f717c0cad7f7ab2e3e402f7b5",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-14T16:08:42.082898-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665788934",
+      "size": "103522",
+      "md5": "6256ce369220099a5e6c21cf224eb616",
+      "crc32": "14eaa614",
+      "sha1": "d679b8b6c65e9c1e0680596f58f4ecfa49f469d4",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-14T16:08:42.082898-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-14T16:08:42.082898-07:00.jpg",
+      "mtime": "1665789032",
+      "size": "7928",
+      "md5": "790791c6ce2d1d61ff0cb19aa97ab67b",
+      "crc32": "79473cb7",
+      "sha1": "0a9a1a35998ba90c9e447f85f2bb7345a483f6fb"
+    },
+    {
       "name": "boingboing-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99b79fbca4da6518c82e95b1c8f5093d05a72b5b",
-      "mtime": "1665745358",
-      "size": "261030",
-      "md5": "460b896aa8a60a9999f312017cb2e232",
-      "crc32": "6101e9a1",
-      "sha1": "55983ac4f892138491571be434a67b9ab944814b",
+      "btih": "0289fa6e17b48083741bcf22eb0c53197231f1c1",
+      "mtime": "1665789075",
+      "size": "262290",
+      "md5": "eef788581b361a072357632eff3b8ccf",
+      "crc32": "fc3d3859",
+      "sha1": "3316526378a33c01dc2a86802163d1930a70802d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "boingboing-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd770af3f14fe906f0d1fcd62c5fb6ca",
+      "md5": "07605562e04ed65bc8ad97fb199b84fb",
       "summation": "md5"
     },
     {
       "name": "boingboing-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665745151",
-      "size": "1519616",
-      "md5": "6d7acbee3cd8b6482992e8dba5556c52",
-      "crc32": "3fab10c5",
-      "sha1": "1082313de152aea93f4fba15eaf8cec034ab9bca",
+      "mtime": "1665788939",
+      "size": "1527808",
+      "md5": "d0ed77e8c660ed466514915591520cef",
+      "crc32": "213de297",
+      "sha1": "0c30265073e852e04a07fc8dc67a0b58d6002fb9",
       "format": "Metadata"
     },
     {
@@ -12811,9 +12872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1232,
-  "item_last_updated": 1665745358,
-  "item_size": 64858263,
+  "files_count": 1238,
+  "item_last_updated": 1665789075,
+  "item_size": 65198880,
   "metadata": {
     "identifier": "boingboing-2022",
     "collection": [
@@ -12830,21 +12891,10 @@
     "publicdate": "2022-06-24 22:53:11",
     "addeddate": "2022-06-24 22:53:11"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3439624134,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1860053731,
+  "server": "ia801508.us.archive.org",
+  "uniq": 45749740,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }
