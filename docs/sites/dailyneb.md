@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 156 screenshots with the Internet Archive.
+The archiving routine has saved 157 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 156 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-15T06:57:06.111210-05:00.jpg">
+  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-15T06:57:06.111210-05:00.jpg"
+     alt="Daily Nebraskan at 2022-10-15 06:57:10-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-15T06:57:06.111210-05:00.jpg">October 15 at 6:57 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-14T19:06:32.099139-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-09T18:44:37.328505-05:00.jpg">October 9 at 6:44 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-09T06:59:50.833118-05:00.jpg">
-  <img src="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-09T06:59:50.833118-05:00.jpg"
-     alt="Daily Nebraskan at 2022-10-09 06:59:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailyneb-2022/dailyneb-2022-10-09T06:59:50.833118-05:00.jpg">October 9 at 6:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 157 hyperlink lists with the Internet Archive.
+The archiving routine has saved 158 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 6:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-15T06:57:06.111210-05:00.hyperlinks.json) |
 | [October 14 at 7:06 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-14T19:06:32.099139-05:00.hyperlinks.json) |
 | [October 14 at 7:00 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-14T06:59:55.119324-05:00.hyperlinks.json) |
 | [October 13 at 6:58 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-13T18:58:00.453075-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 6:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-11T18:55:40.059657-05:00.hyperlinks.json) |
 | [October 11 at 7:03 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-11T07:03:51.603311-05:00.hyperlinks.json) |
 | [October 10 at 7:04 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-10T19:04:14.508898-05:00.hyperlinks.json) |
-| [October 10 at 7:25 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-10T07:25:41.957971-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 157 accessibility trees with the Internet Archive.
+The archiving routine has saved 158 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 6:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-15T06:57:06.111210-05:00.accessibility.json) |
 | [October 14 at 7:06 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-14T19:06:32.099139-05:00.accessibility.json) |
 | [October 14 at 7:00 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-14T06:59:55.119324-05:00.accessibility.json) |
 | [October 13 at 6:58 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-13T18:58:00.453075-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 6:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-11T18:55:40.059657-05:00.accessibility.json) |
 | [October 11 at 7:03 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-11T07:03:51.603311-05:00.accessibility.json) |
 | [October 10 at 7:04 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-10T19:04:14.508898-05:00.accessibility.json) |
-| [October 10 at 7:25 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-10T07:25:41.957971-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 157 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 6:57 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-15T06:57:06.111210-05:00.lighthouse.json) |
 | [October 14 at 7:06 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-14T19:06:32.099139-05:00.lighthouse.json) |
 | [October 14 at 7:00 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-14T06:59:55.119324-05:00.lighthouse.json) |
 | [October 13 at 6:58 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-13T18:58:00.453075-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 6:55 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-11T18:55:40.059657-05:00.lighthouse.json) |
 | [October 11 at 7:04 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-11T07:03:51.603311-05:00.lighthouse.json) |
 | [October 10 at 7:04 PM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-10T19:04:14.508898-05:00.lighthouse.json) |
-| [October 10 at 7:25 AM](https://archive.org/download/dailyneb-2022/dailyneb-2022-10-10T07:25:41.957971-05:00.lighthouse.json) |
 
 
 

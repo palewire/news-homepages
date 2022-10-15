@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 191 screenshots with the Internet Archive.
+The archiving routine has saved 194 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-10-15T09:04:21.849119-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-10-15T09:04:21.849119-03:00.jpg"
+     alt="O Povo at 2022-10-15 09:04:23-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-10-15T09:04:21.849119-03:00.jpg">October 15 at 9:04 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-10-15T04:49:10.427185-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-10-15T04:49:10.427185-03:00.jpg"
+     alt="O Povo at 2022-10-15 04:49:18-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-10-15T04:49:10.427185-03:00.jpg">October 15 at 4:49 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/opovo-2022/opovo-2022-10-14T17:23:19.358572-03:00.jpg">
+  <img src="https://archive.org/download/opovo-2022/opovo-2022-10-14T17:23:19.358572-03:00.jpg"
+     alt="O Povo at 2022-10-14 17:23:26-03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/opovo-2022/opovo-2022-10-14T17:23:19.358572-03:00.jpg">October 14 at 5:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/opovo-2022/opovo-2022-10-14T09:12:31.870245-03:00.jpg">
   <img src="https://archive.org/download/opovo-2022/opovo-2022-10-14T09:12:31.870245-03:00.jpg"
      alt="O Povo at 2022-10-14 09:12:33-03:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/opovo-2022/opovo-2022-10-11T09:10:22.780465-03:00.jpg">October 11 at 9:10 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/opovo-2022/opovo-2022-10-11T05:04:08.565488-03:00.jpg">
-  <img src="https://archive.org/download/opovo-2022/opovo-2022-10-11T05:04:08.565488-03:00.jpg"
-     alt="O Povo at 2022-10-11 05:04:36-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opovo-2022/opovo-2022-10-11T05:04:08.565488-03:00.jpg">October 11 at 5:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/opovo-2022/opovo-2022-10-10T16:41:20.416375-03:00.jpg">
-  <img src="https://archive.org/download/opovo-2022/opovo-2022-10-10T16:41:20.416375-03:00.jpg"
-     alt="O Povo at 2022-10-10 16:41:26-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opovo-2022/opovo-2022-10-10T16:41:20.416375-03:00.jpg">October 10 at 4:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/opovo-2022/opovo-2022-10-10T05:34:05.950271-03:00.jpg">
-  <img src="https://archive.org/download/opovo-2022/opovo-2022-10-10T05:34:05.950271-03:00.jpg"
-     alt="O Povo at 2022-10-10 05:34:07-03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/opovo-2022/opovo-2022-10-10T05:34:05.950271-03:00.jpg">October 10 at 5:34 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 197 hyperlink lists with the Internet Archive.
+The archiving routine has saved 200 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 9:04 AM](https://archive.org/download/opovo-2022/opovo-2022-10-15T09:04:21.849119-03:00.hyperlinks.json) |
+| [October 15 at 4:49 AM](https://archive.org/download/opovo-2022/opovo-2022-10-15T04:49:10.427185-03:00.hyperlinks.json) |
+| [October 14 at 5:23 PM](https://archive.org/download/opovo-2022/opovo-2022-10-14T17:23:19.358572-03:00.hyperlinks.json) |
 | [October 14 at 9:12 AM](https://archive.org/download/opovo-2022/opovo-2022-10-14T09:12:31.870245-03:00.hyperlinks.json) |
 | [October 14 at 5:01 AM](https://archive.org/download/opovo-2022/opovo-2022-10-14T05:01:30.279288-03:00.hyperlinks.json) |
 | [October 13 at 5:07 PM](https://archive.org/download/opovo-2022/opovo-2022-10-13T17:07:08.538118-03:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 4:20 AM](https://archive.org/download/opovo-2022/opovo-2022-10-13T04:20:25.541118-03:00.hyperlinks.json) |
 | [October 12 at 4:16 PM](https://archive.org/download/opovo-2022/opovo-2022-10-12T16:16:08.967044-03:00.hyperlinks.json) |
 | [October 12 at 9:06 AM](https://archive.org/download/opovo-2022/opovo-2022-10-12T09:06:50.559694-03:00.hyperlinks.json) |
-| [October 12 at 5:02 AM](https://archive.org/download/opovo-2022/opovo-2022-10-12T05:02:46.224298-03:00.hyperlinks.json) |
-| [October 11 at 4:10 PM](https://archive.org/download/opovo-2022/opovo-2022-10-11T16:10:12.883631-03:00.hyperlinks.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/opovo-2022/opovo-2022-10-11T09:10:22.780465-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 125 accessibility trees with the Internet Archive.
+The archiving routine has saved 127 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 4:49 AM](https://archive.org/download/opovo-2022/opovo-2022-10-15T04:49:10.427185-03:00.accessibility.json) |
+| [October 14 at 5:23 PM](https://archive.org/download/opovo-2022/opovo-2022-10-14T17:23:19.358572-03:00.accessibility.json) |
 | [October 14 at 9:12 AM](https://archive.org/download/opovo-2022/opovo-2022-10-14T09:12:31.870245-03:00.accessibility.json) |
 | [October 14 at 5:01 AM](https://archive.org/download/opovo-2022/opovo-2022-10-14T05:01:30.279288-03:00.accessibility.json) |
 | [October 13 at 5:07 PM](https://archive.org/download/opovo-2022/opovo-2022-10-13T17:07:08.538118-03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 4:16 PM](https://archive.org/download/opovo-2022/opovo-2022-10-12T16:16:08.967044-03:00.accessibility.json) |
 | [October 12 at 9:06 AM](https://archive.org/download/opovo-2022/opovo-2022-10-12T09:06:50.559694-03:00.accessibility.json) |
 | [October 11 at 4:10 PM](https://archive.org/download/opovo-2022/opovo-2022-10-11T16:10:12.883631-03:00.accessibility.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/opovo-2022/opovo-2022-10-11T09:10:22.780465-03:00.accessibility.json) |
-| [October 11 at 5:04 AM](https://archive.org/download/opovo-2022/opovo-2022-10-11T05:04:08.565488-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 182 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 185 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 9:04 AM](https://archive.org/download/opovo-2022/opovo-2022-10-15T09:04:21.849119-03:00.lighthouse.json) |
+| [October 15 at 4:49 AM](https://archive.org/download/opovo-2022/opovo-2022-10-15T04:49:10.427185-03:00.lighthouse.json) |
+| [October 14 at 5:23 PM](https://archive.org/download/opovo-2022/opovo-2022-10-14T17:23:19.358572-03:00.lighthouse.json) |
 | [October 13 at 5:07 PM](https://archive.org/download/opovo-2022/opovo-2022-10-13T17:07:08.538118-03:00.lighthouse.json) |
 | [October 13 at 8:54 AM](https://archive.org/download/opovo-2022/opovo-2022-10-13T08:54:23.335134-03:00.lighthouse.json) |
 | [October 13 at 4:20 AM](https://archive.org/download/opovo-2022/opovo-2022-10-13T04:20:25.541118-03:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 9:06 AM](https://archive.org/download/opovo-2022/opovo-2022-10-12T09:06:50.559694-03:00.lighthouse.json) |
 | [October 12 at 5:02 AM](https://archive.org/download/opovo-2022/opovo-2022-10-12T05:02:46.224298-03:00.lighthouse.json) |
 | [October 11 at 4:10 PM](https://archive.org/download/opovo-2022/opovo-2022-10-11T16:10:12.883631-03:00.lighthouse.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/opovo-2022/opovo-2022-10-11T09:10:22.780465-03:00.lighthouse.json) |
-| [October 11 at 5:04 AM](https://archive.org/download/opovo-2022/opovo-2022-10-11T05:04:08.565488-03:00.lighthouse.json) |
-| [October 10 at 4:41 PM](https://archive.org/download/opovo-2022/opovo-2022-10-10T16:41:20.416375-03:00.lighthouse.json) |
 
 
 
