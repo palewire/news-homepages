@@ -1,5 +1,5 @@
 {
-  "created": 1665797004,
+  "created": 1665839108,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/lavanguardia-2022",
@@ -9610,31 +9610,93 @@
       "sha1": "2a8c40062e58cb61bbcbae60839cfd781e0c364a"
     },
     {
+      "name": "lavanguardia-2022-10-15T15:02:02.280070+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665838924",
+      "size": "63256",
+      "md5": "00262e6bc79724f109beddeb05bf55f9",
+      "crc32": "b4b9ee98",
+      "sha1": "b0e01c298ab8d3c5c1f92f12ae8e9ff907d66139",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-15T15:02:02.280070+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665838925",
+      "size": "35288",
+      "md5": "845743d5d2a7346173d0f072e3e466e6",
+      "crc32": "106a228b",
+      "sha1": "9a6de806c6633b47d9d14724a5ca7a892591c387",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-15T15:02:02.280070+02:00.jpg",
+      "source": "original",
+      "mtime": "1665838923",
+      "size": "229987",
+      "md5": "7c124f5f57faf8e7961ead1c882f8448",
+      "crc32": "74da07b2",
+      "sha1": "8e9143561e561c3cdb8f68512a1eb79efa04b8e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavanguardia-2022-10-15T15:02:02.280070+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665838927",
+      "size": "1513",
+      "md5": "f5e45d4a38532b19d41f159d290d576f",
+      "crc32": "06e0d50a",
+      "sha1": "cca90a6f2821ea2ffe4a5699542e507428a9db3c",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-15T15:02:02.280070+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665838928",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-15T15:02:02.280070+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavanguardia-2022-10-15T15:02:02.280070+02:00.jpg",
+      "mtime": "1665839062",
+      "size": "9577",
+      "md5": "06dd27a3b506e88185a9999f8f92e11c",
+      "crc32": "9466d821",
+      "sha1": "05c0f09c1bd763f27d460d60b18603652a5cdb3f"
+    },
+    {
       "name": "lavanguardia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c4fe4f40027b0b94704557fd43fb6c31faf08232",
-      "mtime": "1665796990",
-      "size": "200488",
-      "md5": "b9e8ad449bbab2a8ed3caadb0318d975",
-      "crc32": "cbbe8384",
-      "sha1": "98e2a4641f9431f57381a8502dd64f318f9e7369",
+      "btih": "8a52a5713b7283699cff8318f6807fdc598061ef",
+      "mtime": "1665839086",
+      "size": "201777",
+      "md5": "557dd97efd390b85a7bd52f574ca0955",
+      "crc32": "7197c688",
+      "sha1": "dbf2c70d057e1026baa6c552187b25270a714ebf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavanguardia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ad5f56bf7e76278a757e8f0426e1e4c",
+      "md5": "4a92818da10c51d58f830a237bfd92da",
       "summation": "md5"
     },
     {
       "name": "lavanguardia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665796909",
-      "size": "1196032",
-      "md5": "449db17259978f46a1c733cb4eacc01b",
-      "crc32": "0d058a9d",
-      "sha1": "26f735506be51c2f788d6014f8532811b4b76ad8",
+      "mtime": "1665838974",
+      "size": "1204224",
+      "md5": "e52739f441e36da0216a42262646d7c0",
+      "crc32": "4dee3b9a",
+      "sha1": "77dc6576a89c7261b340f8703cd7b641440d2b47",
       "format": "Metadata"
     },
     {
@@ -9648,9 +9710,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 933,
-  "item_last_updated": 1665796990,
-  "item_size": 61992487,
+  "files_count": 939,
+  "item_last_updated": 1665839086,
+  "item_size": 62341791,
   "metadata": {
     "identifier": "lavanguardia-2022",
     "collection": [
@@ -9668,7 +9730,7 @@
     "addeddate": "2022-07-28 18:53:54"
   },
   "server": "ia801503.us.archive.org",
-  "uniq": 1095266144,
+  "uniq": 1122249456,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665797070,
+  "created": 1665839079,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -11808,31 +11808,93 @@
       "sha1": "36370ea75700431f708274e11d76b68f67eee704"
     },
     {
+      "name": "lasvegassun-2022-10-15T06:01:42.896354-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665838906",
+      "size": "19028",
+      "md5": "c151dfeedfb8b7e23917a7a13fd96409",
+      "crc32": "27b6ea72",
+      "sha1": "fd1cf988ecf7d03735dd66b619e6ed8893d20f6f",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-10-15T06:01:42.896354-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665838908",
+      "size": "13037",
+      "md5": "1980d8d2b777e4e4a23bf0e596ee9190",
+      "crc32": "4ac6c7a4",
+      "sha1": "0ec1cc51f6b2c2ec504b6405c389a821249983dd",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-10-15T06:01:42.896354-07:00.jpg",
+      "source": "original",
+      "mtime": "1665838904",
+      "size": "353406",
+      "md5": "45c92e67acea506799847509153bb58c",
+      "crc32": "80339e11",
+      "sha1": "dbee9ff4cea1a9f1d6f456202858616692f00bf6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lasvegassun-2022-10-15T06:01:42.896354-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665838910",
+      "size": "1483",
+      "md5": "2822c7291782f3606ea6899d47d25db6",
+      "crc32": "a10f21f3",
+      "sha1": "e0d372f3258ce39b4b12190e51224b595426bd65",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-10-15T06:01:42.896354-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665838912",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-10-15T06:01:42.896354-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-10-15T06:01:42.896354-07:00.jpg",
+      "mtime": "1665839011",
+      "size": "10509",
+      "md5": "b68f0122772c2557c5656efcbf109b22",
+      "crc32": "59006aba",
+      "sha1": "66c16cc9b64f419b3af469b4ff32a9c121f1032c"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c11a71442fcfd34d415b767b7b874dd09b3c42ec",
-      "mtime": "1665797040",
-      "size": "244642",
-      "md5": "daf63a232dc34182b9faf7a311b03f98",
-      "crc32": "2ec8fa8a",
-      "sha1": "bb241684eb314b40f0bfccbb95beeb78d0e746a8",
+      "btih": "381c5f46bf3b479558bb2ad514b6078b92bd0a1e",
+      "mtime": "1665839047",
+      "size": "245906",
+      "md5": "1990442ad720c36b711b448475ae235d",
+      "crc32": "09cad1f8",
+      "sha1": "1495c9ed336909a8935457cfbeffabc712f3c4f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c4761a620cd5071a5ac5d14fe572bf69",
+      "md5": "a4c33a472f30903be068bfda9501d8fe",
       "summation": "md5"
     },
     {
       "name": "lasvegassun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665796938",
-      "size": "1441792",
-      "md5": "398eb4d13d3ef238ff7cd6bc046deb02",
-      "crc32": "253c9f54",
-      "sha1": "e6163b2f8e8d13a792110c012f309f784886ad80",
+      "mtime": "1665838928",
+      "size": "1449984",
+      "md5": "c9c55259dfa6f6d0cc129af01472ad7a",
+      "crc32": "6c2622cb",
+      "sha1": "c2239608382a3334e4ed087c886667eed0c1a92e",
       "format": "Metadata"
     },
     {
@@ -11846,9 +11908,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1143,
-  "item_last_updated": 1665797040,
-  "item_size": 84152119,
+  "files_count": 1149,
+  "item_last_updated": 1665839047,
+  "item_size": 84559240,
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -11865,10 +11927,10 @@
     "publicdate": "2022-07-04 21:55:34",
     "addeddate": "2022-07-04 21:55:34"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 613416494,
+  "server": "ia801407.us.archive.org",
+  "uniq": 109235791,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }
