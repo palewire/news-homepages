@@ -1,5 +1,5 @@
 {
-  "created": 1665800799,
+  "created": 1665846434,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/31/items/salem_statesman-2022",
@@ -3054,31 +3054,93 @@
       "sha1": "c326347c07c9e8895ac00aba3fa080920b1d7925"
     },
     {
+      "name": "salem_statesman-2022-10-15T08:05:36.485726-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665846342",
+      "size": "21610",
+      "md5": "65f87e066905197333061605636f48e7",
+      "crc32": "408c3401",
+      "sha1": "18789c4f29f0b2cd3d3a464270bdad72ac2e5021",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-15T08:05:36.485726-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665846349",
+      "size": "29536",
+      "md5": "b376f90aec226c03bc5bf29fb920ecde",
+      "crc32": "febef17f",
+      "sha1": "352ea1328480e580006f33d27429e6961b2721bd",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-15T08:05:36.485726-07:00.jpg",
+      "source": "original",
+      "mtime": "1665846340",
+      "size": "254411",
+      "md5": "47ce6a3268fbf2a49a507428f016d2bb",
+      "crc32": "50e8e2b3",
+      "sha1": "ad70b271ddb8403bc7b48e4c95e572210ed7cf79",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salem_statesman-2022-10-15T08:05:36.485726-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665846351",
+      "size": "1549",
+      "md5": "17551b47405f114a8e195bdfbe524911",
+      "crc32": "eb1714bf",
+      "sha1": "2e7e7dd440ce793efefff558555cbbddd9871b62",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-15T08:05:36.485726-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665846352",
+      "size": "205260",
+      "md5": "93ca085f04305ecb87b1bf780ac40d1c",
+      "crc32": "13d035c7",
+      "sha1": "b13d3a9be7a5b42344b039bfa31cd489e813dce4",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-10-15T08:05:36.485726-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salem_statesman-2022-10-15T08:05:36.485726-07:00.jpg",
+      "mtime": "1665846410",
+      "size": "9508",
+      "md5": "6408f6020b15a500cb2499753d3acf88",
+      "crc32": "a7bdb8fa",
+      "sha1": "c6a23109be12c351fc6c6046d0a9e2bde8e5cfb1"
+    },
+    {
       "name": "salem_statesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fab3574e4c4eabacecea7f08d0d887d013848cd8",
-      "mtime": "1665800760",
-      "size": "65550",
-      "md5": "2a0b7044246819396fe51bb00455e695",
-      "crc32": "407c505d",
-      "sha1": "e67914fbcd751e3a913d15fc63e81e3c07199126",
+      "btih": "f317f303c4c8bc5e5cc6fac478402b029d6c8efe",
+      "mtime": "1665846419",
+      "size": "66860",
+      "md5": "6030194cdf523f70a018dfb0743e612c",
+      "crc32": "d5b34875",
+      "sha1": "618ba729f80aa4d867f2f2ba61c21fe44219713c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salem_statesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b4fb1796164be4d784782e179f370124",
+      "md5": "2279ca0a5f4a46200001c7deedf4fbfe",
       "summation": "md5"
     },
     {
       "name": "salem_statesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665800691",
-      "size": "401408",
-      "md5": "c9821083181d04ed81faf836ce610e17",
-      "crc32": "c20e5e4a",
-      "sha1": "6e85a5062e1c73a820c453674113a8654843c57e",
+      "mtime": "1665846360",
+      "size": "409600",
+      "md5": "b9ac85acacf56c3326bd3bb31871fed8",
+      "crc32": "6261effb",
+      "sha1": "6005938ebb5eb0dcdc3e84a7cf9187e96564660e",
       "format": "Metadata"
     },
     {
@@ -3092,9 +3154,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 299,
-  "item_last_updated": 1665800760,
-  "item_size": 19391477,
+  "files_count": 305,
+  "item_last_updated": 1665846419,
+  "item_size": 19922853,
   "metadata": {
     "identifier": "salem_statesman-2022",
     "collection": [
@@ -3112,7 +3174,7 @@
     "addeddate": "2022-09-21 02:24:48"
   },
   "server": "ia601508.us.archive.org",
-  "uniq": 442083831,
+  "uniq": 1225980322,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"

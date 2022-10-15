@@ -1,5 +1,5 @@
 {
-  "created": 1665800755,
+  "created": 1665847411,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/11/items/reporternews-2022",
@@ -10616,31 +10616,93 @@
       "sha1": "2ccbc213f801b0ee5c76664af41a6ab7075bc08a"
     },
     {
+      "name": "reporternews-2022-10-15T10:05:51.336917-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665846359",
+      "size": "22627",
+      "md5": "58dbf627b1126af644c0bac62138b3da",
+      "crc32": "fd915cf7",
+      "sha1": "d6c4d354ec212e6569e4989ac82dd27621567413",
+      "format": "JSON"
+    },
+    {
+      "name": "reporternews-2022-10-15T10:05:51.336917-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665846361",
+      "size": "37623",
+      "md5": "b292a45f0eee5ea341bf447efe608442",
+      "crc32": "e1d18504",
+      "sha1": "a68889575af7f225d972fd6913c9d8f84a5d52df",
+      "format": "JSON"
+    },
+    {
+      "name": "reporternews-2022-10-15T10:05:51.336917-05:00.jpg",
+      "source": "original",
+      "mtime": "1665846357",
+      "size": "250140",
+      "md5": "09d5f8458d7c92db0e08e71328a6bb10",
+      "crc32": "2e972edd",
+      "sha1": "5fac2139d52845b65d9a33f26ac33d7644d55f20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reporternews-2022-10-15T10:05:51.336917-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665846363",
+      "size": "1513",
+      "md5": "bae0fa2b538490818e5181a508e274e2",
+      "crc32": "63287871",
+      "sha1": "dff25b1dbe32ced3561ea0fa8f04b2ee06c87560",
+      "format": "JSON"
+    },
+    {
+      "name": "reporternews-2022-10-15T10:05:51.336917-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665846365",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reporternews-2022-10-15T10:05:51.336917-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reporternews-2022-10-15T10:05:51.336917-05:00.jpg",
+      "mtime": "1665846432",
+      "size": "9192",
+      "md5": "6b086401eeac53acc5243a75020b39bf",
+      "crc32": "beef75ed",
+      "sha1": "c326f86cbb75674e7289d50dda8bdb6778ad7940"
+    },
+    {
       "name": "reporternews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5086fdc74d53b29716b6041b5df60f5c84914bc4",
-      "mtime": "1665800748",
-      "size": "221008",
-      "md5": "1e3b9072dd83809e4d629010fe7a608e",
-      "crc32": "c1e49478",
-      "sha1": "c1668f1cba2cdc75ab1c6f9018c3c5b7acbca87b",
+      "btih": "ef9a0e8802b6ff967b6493bba4047b58471b98e8",
+      "mtime": "1665846461",
+      "size": "222297",
+      "md5": "e06f9fb44506802f603ac9a2c0a45609",
+      "crc32": "06b7be03",
+      "sha1": "4fc4472e931a799aceb5c83d6108ec093ab6ae3d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reporternews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0716ff819775f51e26e9425310799a62",
+      "md5": "17fa29150890fda4ed070afffcc3b0b1",
       "summation": "md5"
     },
     {
       "name": "reporternews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665800680",
-      "size": "1310720",
-      "md5": "4d7d761db6db3ee054e267e72188f9d0",
-      "crc32": "a204595f",
-      "sha1": "9c17442479c1896384736ed3a9ff39d800c256a7",
+      "mtime": "1665846368",
+      "size": "1314816",
+      "md5": "8060c4c4eff9ef727385c9de7925119e",
+      "crc32": "35394156",
+      "sha1": "20bb52bad00242407b3bf2d8b13611b5f48289b7",
       "format": "Metadata"
     },
     {
@@ -10654,9 +10716,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1029,
-  "item_last_updated": 1665800748,
-  "item_size": 67241647,
+  "files_count": 1035,
+  "item_last_updated": 1665846461,
+  "item_size": 67568329,
   "metadata": {
     "identifier": "reporternews-2022",
     "collection": [
@@ -10673,8 +10735,13 @@
     "publicdate": "2022-07-18 00:05:22",
     "addeddate": "2022-07-18 00:05:22"
   },
+  "reporternews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801501.us.archive.org",
-  "uniq": 1412576097,
+  "uniq": 1628076500,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"
