@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 121 screenshots with the Internet Archive.
+The archiving routine has saved 123 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-15T09:20:19.835808+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-15T09:20:19.835808+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-10-15 09:20:25+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-15T09:20:19.835808+03:00.jpg">October 15 at 9:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T19:42:20.185026+03:00.jpg">
+  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T19:42:20.185026+03:00.jpg"
+     alt="Yedioth Ahronoth at 2022-10-14 19:42:25+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T19:42:20.185026+03:00.jpg">October 14 at 7:42 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T09:24:20.289802+03:00.jpg">
   <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T09:24:20.289802+03:00.jpg"
      alt="Yedioth Ahronoth at 2022-10-14 09:24:23+03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-09T19:02:39.200404+03:00.jpg">October 9 at 7:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-09T08:19:13.889834+03:00.jpg">
-  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-09T08:19:13.889834+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-10-09 08:19:19+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-09T08:19:13.889834+03:00.jpg">October 9 at 8:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-08T19:18:11.786280+03:00.jpg">
-  <img src="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-08T19:18:11.786280+03:00.jpg"
-     alt="Yedioth Ahronoth at 2022-10-08 19:18:17+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-08T19:18:11.786280+03:00.jpg">October 8 at 7:18 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 121 hyperlink lists with the Internet Archive.
+The archiving routine has saved 123 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 9:20 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-15T09:20:19.835808+03:00.hyperlinks.json) |
+| [October 14 at 7:42 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T19:42:20.185026+03:00.hyperlinks.json) |
 | [October 14 at 9:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T09:24:20.289802+03:00.hyperlinks.json) |
 | [October 13 at 7:12 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-13T19:12:19.346648+03:00.hyperlinks.json) |
 | [October 13 at 7:40 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-13T07:39:39.025389+03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 7:26 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-11T19:26:33.269834+03:00.hyperlinks.json) |
 | [October 11 at 9:29 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-11T09:29:07.771790+03:00.hyperlinks.json) |
 | [October 10 at 7:43 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-10T19:43:21.616034+03:00.hyperlinks.json) |
-| [October 10 at 9:26 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-10T09:26:11.477476+03:00.hyperlinks.json) |
-| [October 9 at 7:02 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-09T19:02:39.200404+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 121 accessibility trees with the Internet Archive.
+The archiving routine has saved 123 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 9:20 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-15T09:20:19.835808+03:00.accessibility.json) |
+| [October 14 at 7:42 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T19:42:20.185026+03:00.accessibility.json) |
 | [October 14 at 9:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T09:24:20.289802+03:00.accessibility.json) |
 | [October 13 at 7:12 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-13T19:12:19.346648+03:00.accessibility.json) |
 | [October 13 at 7:40 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-13T07:39:39.025389+03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 7:26 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-11T19:26:33.269834+03:00.accessibility.json) |
 | [October 11 at 9:29 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-11T09:29:07.771790+03:00.accessibility.json) |
 | [October 10 at 7:43 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-10T19:43:21.616034+03:00.accessibility.json) |
-| [October 10 at 9:26 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-10T09:26:11.477476+03:00.accessibility.json) |
-| [October 9 at 7:02 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-09T19:02:39.200404+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 120 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 122 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 9:20 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-15T09:20:19.835808+03:00.lighthouse.json) |
+| [October 14 at 7:42 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T19:42:20.185026+03:00.lighthouse.json) |
 | [October 14 at 9:24 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-14T09:24:20.289802+03:00.lighthouse.json) |
 | [October 13 at 7:12 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-13T19:12:19.346648+03:00.lighthouse.json) |
 | [October 13 at 7:40 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-13T07:39:39.025389+03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 9:29 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-11T09:29:07.771790+03:00.lighthouse.json) |
 | [October 10 at 7:43 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-10T19:43:21.616034+03:00.lighthouse.json) |
 | [October 10 at 9:26 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-10T09:26:11.477476+03:00.lighthouse.json) |
-| [October 9 at 7:02 PM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-09T19:02:39.200404+03:00.lighthouse.json) |
-| [October 9 at 8:19 AM](https://archive.org/download/yediotahronot-2022/yediotahronot-2022-10-09T08:19:13.889834+03:00.lighthouse.json) |
 
 
 

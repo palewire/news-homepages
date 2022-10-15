@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 170 screenshots with the Internet Archive.
+The archiving routine has saved 172 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wsav-2022/wsav-2022-10-15T02:19:27.736011-04:00.jpg">
+  <img src="https://archive.org/download/wsav-2022/wsav-2022-10-15T02:19:27.736011-04:00.jpg"
+     alt="WSAV News 3 at 2022-10-15 02:19:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-10-15T02:19:27.736011-04:00.jpg">October 15 at 2:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wsav-2022/wsav-2022-10-14T12:42:47.293293-04:00.jpg">
+  <img src="https://archive.org/download/wsav-2022/wsav-2022-10-14T12:42:47.293293-04:00.jpg"
+     alt="WSAV News 3 at 2022-10-14 12:42:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wsav-2022/wsav-2022-10-14T12:42:47.293293-04:00.jpg">October 14 at 12:42 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wsav-2022/wsav-2022-10-14T02:21:12.288541-04:00.jpg">
   <img src="https://archive.org/download/wsav-2022/wsav-2022-10-14T02:21:12.288541-04:00.jpg"
      alt="WSAV News 3 at 2022-10-14 02:21:32-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wsav-2022/wsav-2022-10-09T12:02:04.897162-04:00.jpg">October 9 at 12:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wsav-2022/wsav-2022-10-09T01:19:34.867055-04:00.jpg">
-  <img src="https://archive.org/download/wsav-2022/wsav-2022-10-09T01:19:34.867055-04:00.jpg"
-     alt="WSAV News 3 at 2022-10-09 01:19:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-10-09T01:19:34.867055-04:00.jpg">October 9 at 1:19 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wsav-2022/wsav-2022-10-08T12:17:28.074303-04:00.jpg">
-  <img src="https://archive.org/download/wsav-2022/wsav-2022-10-08T12:17:28.074303-04:00.jpg"
-     alt="WSAV News 3 at 2022-10-08 12:17:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wsav-2022/wsav-2022-10-08T12:17:28.074303-04:00.jpg">October 8 at 12:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 171 hyperlink lists with the Internet Archive.
+The archiving routine has saved 173 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 2:19 AM](https://archive.org/download/wsav-2022/wsav-2022-10-15T02:19:27.736011-04:00.hyperlinks.json) |
+| [October 14 at 12:43 PM](https://archive.org/download/wsav-2022/wsav-2022-10-14T12:42:47.293293-04:00.hyperlinks.json) |
 | [October 14 at 2:21 AM](https://archive.org/download/wsav-2022/wsav-2022-10-14T02:21:12.288541-04:00.hyperlinks.json) |
 | [October 13 at 12:12 PM](https://archive.org/download/wsav-2022/wsav-2022-10-13T12:12:10.052994-04:00.hyperlinks.json) |
 | [October 13 at 12:40 AM](https://archive.org/download/wsav-2022/wsav-2022-10-13T00:39:55.159101-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 12:26 PM](https://archive.org/download/wsav-2022/wsav-2022-10-11T12:26:18.881555-04:00.hyperlinks.json) |
 | [October 11 at 2:28 AM](https://archive.org/download/wsav-2022/wsav-2022-10-11T02:28:44.190635-04:00.hyperlinks.json) |
 | [October 10 at 12:43 PM](https://archive.org/download/wsav-2022/wsav-2022-10-10T12:43:43.967367-04:00.hyperlinks.json) |
-| [October 10 at 2:26 AM](https://archive.org/download/wsav-2022/wsav-2022-10-10T02:26:45.193041-04:00.hyperlinks.json) |
-| [October 9 at 12:02 PM](https://archive.org/download/wsav-2022/wsav-2022-10-09T12:02:04.897162-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 171 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 2:19 AM](https://archive.org/download/wsav-2022/wsav-2022-10-15T02:19:27.736011-04:00.accessibility.json) |
+| [October 14 at 12:42 PM](https://archive.org/download/wsav-2022/wsav-2022-10-14T12:42:47.293293-04:00.accessibility.json) |
 | [October 14 at 2:21 AM](https://archive.org/download/wsav-2022/wsav-2022-10-14T02:21:12.288541-04:00.accessibility.json) |
 | [October 13 at 12:12 PM](https://archive.org/download/wsav-2022/wsav-2022-10-13T12:12:10.052994-04:00.accessibility.json) |
 | [October 13 at 12:40 AM](https://archive.org/download/wsav-2022/wsav-2022-10-13T00:39:55.159101-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 12:26 PM](https://archive.org/download/wsav-2022/wsav-2022-10-11T12:26:18.881555-04:00.accessibility.json) |
 | [October 11 at 2:28 AM](https://archive.org/download/wsav-2022/wsav-2022-10-11T02:28:44.190635-04:00.accessibility.json) |
 | [October 10 at 12:43 PM](https://archive.org/download/wsav-2022/wsav-2022-10-10T12:43:43.967367-04:00.accessibility.json) |
-| [October 10 at 2:26 AM](https://archive.org/download/wsav-2022/wsav-2022-10-10T02:26:45.193041-04:00.accessibility.json) |
-| [October 9 at 12:02 PM](https://archive.org/download/wsav-2022/wsav-2022-10-09T12:02:04.897162-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 2:19 AM](https://archive.org/download/wsav-2022/wsav-2022-10-15T02:19:27.736011-04:00.lighthouse.json) |
+| [October 14 at 12:43 PM](https://archive.org/download/wsav-2022/wsav-2022-10-14T12:42:47.293293-04:00.lighthouse.json) |
 | [October 14 at 2:21 AM](https://archive.org/download/wsav-2022/wsav-2022-10-14T02:21:12.288541-04:00.lighthouse.json) |
 | [October 13 at 12:12 PM](https://archive.org/download/wsav-2022/wsav-2022-10-13T12:12:10.052994-04:00.lighthouse.json) |
 | [October 13 at 12:40 AM](https://archive.org/download/wsav-2022/wsav-2022-10-13T00:39:55.159101-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 12:26 PM](https://archive.org/download/wsav-2022/wsav-2022-10-11T12:26:18.881555-04:00.lighthouse.json) |
 | [October 11 at 2:28 AM](https://archive.org/download/wsav-2022/wsav-2022-10-11T02:28:44.190635-04:00.lighthouse.json) |
 | [October 10 at 12:43 PM](https://archive.org/download/wsav-2022/wsav-2022-10-10T12:43:43.967367-04:00.lighthouse.json) |
-| [October 10 at 2:27 AM](https://archive.org/download/wsav-2022/wsav-2022-10-10T02:26:45.193041-04:00.lighthouse.json) |
-| [October 9 at 12:02 PM](https://archive.org/download/wsav-2022/wsav-2022-10-09T12:02:04.897162-04:00.lighthouse.json) |
 
 
 
