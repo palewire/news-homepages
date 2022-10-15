@@ -1,12 +1,7 @@
 {
-  "created": 1665779672,
+  "created": 1665815746,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
-  "dallasnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/1/items/dallasnews-2022",
   "files": [
     {
@@ -13035,31 +13030,93 @@
       "sha1": "f28c8b2bde82b91f7566e42d6da25ad549d9b404"
     },
     {
+      "name": "dallasnews-2022-10-15T01:32:23.595587-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815551",
+      "size": "26466",
+      "md5": "0a12cb0e1bd6f9f9641c870afdad398d",
+      "crc32": "ffb30093",
+      "sha1": "da8fc44a1806b77e10b674faa0cfb030537f1552",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-15T01:32:23.595587-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815553",
+      "size": "38610",
+      "md5": "8db01bb800d35eaa7a4df4e18a454a37",
+      "crc32": "52e65034",
+      "sha1": "a4929cde4259d08246039ec784ffe9effecc6557",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-15T01:32:23.595587-05:00.jpg",
+      "source": "original",
+      "mtime": "1665815550",
+      "size": "295927",
+      "md5": "1b0c524647498ed2cd6736e128da14e0",
+      "crc32": "1d0becab",
+      "sha1": "a81487b7e0af06422437002b488e0ebec7907cc9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasnews-2022-10-15T01:32:23.595587-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815555",
+      "size": "1495",
+      "md5": "b3b6ae8074dccc3b9fbcfa8c977e2c0d",
+      "crc32": "ff135b2b",
+      "sha1": "3853402932542ed8e4166ee77faf8e52784deb81",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-15T01:32:23.595587-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815557",
+      "size": "41289",
+      "md5": "4228e3c29fbd22e5fe246718f41c6624",
+      "crc32": "175213db",
+      "sha1": "224c93acd9b6936f074118646669aa45f0f56d22",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-15T01:32:23.595587-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasnews-2022-10-15T01:32:23.595587-05:00.jpg",
+      "mtime": "1665815683",
+      "size": "9515",
+      "md5": "299ab64503593eb50ce6a3b9af86272b",
+      "crc32": "8ad12844",
+      "sha1": "3c82afc3fc098491d68829f08dcf545e6296019b"
+    },
+    {
       "name": "dallasnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad327ca332d3dbb5b0b512eb2b85444f59da1032",
-      "mtime": "1665777040",
-      "size": "268029",
-      "md5": "a96259bf8088217348d12d0fff8ebf97",
-      "crc32": "dc9ec449",
-      "sha1": "7053777081430d69adf34350b5eec5d687b7c266",
+      "btih": "aee7a993c9aab3ed8959db16224da11d109a4072",
+      "mtime": "1665815715",
+      "size": "269308",
+      "md5": "057dc651affc188f7315a3d86d3f345d",
+      "crc32": "ae62e630",
+      "sha1": "069c01a07741bca3d603e666c4f9db60a1cf6400",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2643f3d26899de4b3b46149f25ec6dd8",
+      "md5": "2a8438363ca91c1ec205b0af75cee1c6",
       "summation": "md5"
     },
     {
       "name": "dallasnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665776923",
-      "size": "1564672",
-      "md5": "6a1ae6cff6c69be9e409932d1ee329c3",
-      "crc32": "c83b54d6",
-      "sha1": "22e3088ff5631f7f72d8b425e18dd810b3a00e45",
+      "mtime": "1665815571",
+      "size": "1572864",
+      "md5": "4a4ed8aeec499bd7ffe401e69d010416",
+      "crc32": "3b8e3ca6",
+      "sha1": "c092e7ffe76cbee8fcb6385e2ac8771c64ed7e36",
       "format": "Metadata"
     },
     {
@@ -13073,9 +13130,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1259,
-  "item_last_updated": 1665777040,
-  "item_size": 92277454,
+  "files_count": 1265,
+  "item_last_updated": 1665815715,
+  "item_size": 92700227,
   "metadata": {
     "identifier": "dallasnews-2022",
     "collection": [
@@ -13092,10 +13149,10 @@
     "publicdate": "2022-06-24 22:54:46",
     "addeddate": "2022-06-24 22:54:46"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 596607945,
+  "server": "ia601502.us.archive.org",
+  "uniq": 1730893477,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

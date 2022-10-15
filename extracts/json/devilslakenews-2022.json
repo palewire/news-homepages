@@ -1,7 +1,12 @@
 {
-  "created": 1665777057,
+  "created": 1665820390,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
+  "devilslakenews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/19/items/devilslakenews-2022",
   "files": [
     {
@@ -3054,31 +3059,93 @@
       "sha1": "6a8557f56bca71dd6551cf4b4e54e4c1d2f48261"
     },
     {
+      "name": "devilslakenews-2022-10-15T01:34:56.969611-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815701",
+      "size": "20961",
+      "md5": "4ec296393b5fee6aba910c851e7628c0",
+      "crc32": "98afb72e",
+      "sha1": "03e3cbbc9ed81cfc97cee3ed4653719dfa3e8d05",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-10-15T01:34:56.969611-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815703",
+      "size": "31050",
+      "md5": "5d21e9004aca0885fbccf9e7f4004eb1",
+      "crc32": "4fe1fed4",
+      "sha1": "e0daa4e62639ff0411f4e687c3f61549e8f2edcd",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-10-15T01:34:56.969611-05:00.jpg",
+      "source": "original",
+      "mtime": "1665815699",
+      "size": "269097",
+      "md5": "80df1423f505ce06fe5183f01d7e9bf9",
+      "crc32": "6efbf3cb",
+      "sha1": "5bc9f5eb99e6e8a96adf213a0b73809d7805b6de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "devilslakenews-2022-10-15T01:34:56.969611-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815704",
+      "size": "1558",
+      "md5": "713e55d4f8aa1f1c864311521be23101",
+      "crc32": "7b905f17",
+      "sha1": "9f2aabe5eb270133d70955181b885907cc455a4a",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-10-15T01:34:56.969611-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815706",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-10-15T01:34:56.969611-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "devilslakenews-2022-10-15T01:34:56.969611-05:00.jpg",
+      "mtime": "1665815783",
+      "size": "9151",
+      "md5": "beee55b6dc963f9893156792e6e5aed8",
+      "crc32": "9881687b",
+      "sha1": "7bc0f2b296ebc83d14f8cf3409da715dcea5a670"
+    },
+    {
       "name": "devilslakenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "71c97aefab7defbced051e96e8b016bed0cd6824",
-      "mtime": "1665777049",
-      "size": "65265",
-      "md5": "79735891901edbf2ae65c6e48b1bd03a",
-      "crc32": "b839705e",
-      "sha1": "7ada906b94f1a8c4829f0c432be62a4c433573a5",
+      "btih": "fab58d45ceef4c908479377b0d881aa94d95b734",
+      "mtime": "1665815787",
+      "size": "66566",
+      "md5": "b2dc7d6389f39eb25da1195b22d09aa2",
+      "crc32": "e95fc80c",
+      "sha1": "3f63c747318a85942148613a705b3b8980628127",
       "format": "Archive BitTorrent"
     },
     {
       "name": "devilslakenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b08d90548ad8d4c89195f8dd78a229f6",
+      "md5": "cf02d42f900d7a4b538586b58842784c",
       "summation": "md5"
     },
     {
       "name": "devilslakenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665776988",
-      "size": "401408",
-      "md5": "88732abd9a363451ec4502c3e1e8ae15",
-      "crc32": "4e395524",
-      "sha1": "e7aaef3282c7f085ae4aa2c4f78a6da903614458",
+      "mtime": "1665815712",
+      "size": "409600",
+      "md5": "40bca653d057c727673f569c17c293da",
+      "crc32": "1c028222",
+      "sha1": "f692ee2ca89bf55c171fcd433e235111f1316784",
       "format": "Metadata"
     },
     {
@@ -3092,9 +3159,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 299,
-  "item_last_updated": 1665777049,
-  "item_size": 19861593,
+  "files_count": 305,
+  "item_last_updated": 1665815787,
+  "item_size": 20203105,
   "metadata": {
     "identifier": "devilslakenews-2022",
     "collection": [
@@ -3112,7 +3179,7 @@
     "addeddate": "2022-09-20 17:43:32"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 40963728,
+  "uniq": 1809052908,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

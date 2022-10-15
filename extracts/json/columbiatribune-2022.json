@@ -1,5 +1,5 @@
 {
-  "created": 1665776868,
+  "created": 1665815630,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/8/items/columbiatribune-2022",
@@ -3022,31 +3022,93 @@
       "sha1": "06db3a98f48593f2e122721dfbdc2b0922c7b7bf"
     },
     {
+      "name": "columbiatribune-2022-10-15T01:31:59.607050-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815526",
+      "size": "22558",
+      "md5": "a7c6fbd3fc117a42ee6dd81d1cecc3a3",
+      "crc32": "0e8b45d1",
+      "sha1": "1e82079b428e885fb6f7b9d0b6a829cf2af75f65",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-15T01:31:59.607050-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815533",
+      "size": "30344",
+      "md5": "48213eaa408565ebace52dc3d4eee7aa",
+      "crc32": "ba71566d",
+      "sha1": "782e5db052d23a9367051010618e09e9075d459b",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-15T01:31:59.607050-05:00.jpg",
+      "source": "original",
+      "mtime": "1665815523",
+      "size": "266577",
+      "md5": "74f0e0c39f701cac3b1baed748a07835",
+      "crc32": "1e6db7f2",
+      "sha1": "f520ce0ca371fc28b269f43fbce5596f4116c56a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "columbiatribune-2022-10-15T01:31:59.607050-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815536",
+      "size": "1540",
+      "md5": "c91357641088f5cb772fa05165b75e54",
+      "crc32": "f944c326",
+      "sha1": "ca0f1a6981a459063a826cd4839dbf5102b90a4d",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-15T01:31:59.607050-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815537",
+      "size": "109741",
+      "md5": "fe3e3734b6d4f7fca375202a1985498d",
+      "crc32": "1619b96b",
+      "sha1": "e10aa6806a3914f5d795eacd97b6f669db7df10f",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-15T01:31:59.607050-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "columbiatribune-2022-10-15T01:31:59.607050-05:00.jpg",
+      "mtime": "1665815604",
+      "size": "9718",
+      "md5": "b12b709bc9ff921f914f1c27757e14f2",
+      "crc32": "d167e899",
+      "sha1": "85ea8cfb21791be3a50609e729b587bf328a6ce0"
+    },
+    {
       "name": "columbiatribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20b82f845a5a4b85a15afdf826ee6a61f13d2107",
-      "mtime": "1665776858",
-      "size": "65051",
-      "md5": "a9f1e3f96215a3f1532fb55c64cfd2a0",
-      "crc32": "c4d5a39e",
-      "sha1": "90565ee97c80d8028b77b2a981c2a97a7a9c822c",
+      "btih": "77c31618fe74e045d5825680c52bf937d76b3adc",
+      "mtime": "1665815615",
+      "size": "66361",
+      "md5": "e510da83e5d254f49fd674fb180d0b4e",
+      "crc32": "eb5f2488",
+      "sha1": "735a225b22a344fde9e2996dc08e7890765cbb8f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "columbiatribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68e99d2d0fdeac291f95c3cd9fa99a18",
+      "md5": "1425af30565f8eb2a3d085015181de73",
       "summation": "md5"
     },
     {
       "name": "columbiatribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665776804",
-      "size": "397312",
-      "md5": "20fa469d13fa058eb23e91bfa5d95b3a",
-      "crc32": "e015cdd3",
-      "sha1": "44b207dfc8e8570bb14954e5876784059c732118",
+      "mtime": "1665815541",
+      "size": "405504",
+      "md5": "b7218307aeeb7dec1a51e01b7efcc140",
+      "crc32": "283fc92f",
+      "sha1": "b5e4215c246e0cd2f1a77cbf50db355815f66052",
       "format": "Metadata"
     },
     {
@@ -3060,9 +3122,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 296,
-  "item_last_updated": 1665776858,
-  "item_size": 21695221,
+  "files_count": 302,
+  "item_last_updated": 1665815615,
+  "item_size": 22145201,
   "metadata": {
     "identifier": "columbiatribune-2022",
     "collection": [
@@ -3080,7 +3142,7 @@
     "addeddate": "2022-09-20 17:40:34"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 611378442,
+  "uniq": 489531603,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

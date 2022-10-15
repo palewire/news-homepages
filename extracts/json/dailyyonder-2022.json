@@ -1,12 +1,7 @@
 {
-  "created": 1665779661,
+  "created": 1665815682,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
-  "dailyyonder-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/9/items/dailyyonder-2022",
   "files": [
     {
@@ -11249,31 +11244,93 @@
       "sha1": "3f891bb1782b5f2a94833f2f077d8f452712f99f"
     },
     {
+      "name": "dailyyonder-2022-10-15T02:31:43.525069-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815514",
+      "size": "28642",
+      "md5": "b1026cd21e39900704fc85d8f39d8fb8",
+      "crc32": "01d6f3df",
+      "sha1": "d9509e3e7d9eb4e6aa6d2c36320bfcf1dcd5e86e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyyonder-2022-10-15T02:31:43.525069-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815516",
+      "size": "32012",
+      "md5": "f8179e3cf6255949932a61b806a4d78c",
+      "crc32": "72522674",
+      "sha1": "6227738ff2b5835443f9cd077b6e4e01569bf93e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyyonder-2022-10-15T02:31:43.525069-04:00.jpg",
+      "source": "original",
+      "mtime": "1665815512",
+      "size": "321551",
+      "md5": "e82a6b1196294ef52b222bc022fa1a1f",
+      "crc32": "ccd22e65",
+      "sha1": "7ee7b73d0bbb4f5ad59b91dc40182e3e2a7af8d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyyonder-2022-10-15T02:31:43.525069-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815518",
+      "size": "1456",
+      "md5": "a3be4711db6fe62520a6825ce9d60782",
+      "crc32": "eb47f546",
+      "sha1": "87601bf6d9735a2e1110979f371ae0b228ee6829",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyyonder-2022-10-15T02:31:43.525069-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815520",
+      "size": "20693",
+      "md5": "7bfb8ba04428ec5cae430059da3f1bf0",
+      "crc32": "b07ac303",
+      "sha1": "c4aba26c0b042fc575bbcf0bff0d2963a7bb78ba",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyyonder-2022-10-15T02:31:43.525069-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyyonder-2022-10-15T02:31:43.525069-04:00.jpg",
+      "mtime": "1665815642",
+      "size": "10659",
+      "md5": "5e047c6615b68834dc79ad54dad29501",
+      "crc32": "1509ac45",
+      "sha1": "3f891bb1782b5f2a94833f2f077d8f452712f99f"
+    },
+    {
       "name": "dailyyonder-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ba1e8951663a489f66cf22a03d64e7ea1bc5240",
-      "mtime": "1665777054",
-      "size": "233286",
-      "md5": "e5247512cfed745d8d8062da5037cb6e",
-      "crc32": "252a6333",
-      "sha1": "a6f67be3d8408632ae8bcc32bb10d536360fb9cd",
+      "btih": "47ac119385cc10cb5ea43fe3fe23b7ed6e561443",
+      "mtime": "1665815655",
+      "size": "234572",
+      "md5": "1fa2d4a24b2c8127174aceec65705b48",
+      "crc32": "2f7652c4",
+      "sha1": "625269ebfe505edaf31c8e9693d7619a1a20f7df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyyonder-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4057124f4841e72f160beca246ea1087",
+      "md5": "fb795dc06434eb87440c3c8b2a907361",
       "summation": "md5"
     },
     {
       "name": "dailyyonder-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665776958",
-      "size": "1376256",
-      "md5": "d9f87812d5e8dfb814f602aed7119cec",
-      "crc32": "f4e3528e",
-      "sha1": "fb2883918a17d8c6f8df39a1bbc1493ef4c1a1fb",
+      "mtime": "1665815527",
+      "size": "1384448",
+      "md5": "99424e67d08f7f4b2e99e5072b5489aa",
+      "crc32": "ac53d9e1",
+      "sha1": "488b4d3da8581c3d0672a8aef6880989a19fa228",
       "format": "Metadata"
     },
     {
@@ -11287,9 +11344,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1089,
-  "item_last_updated": 1665777054,
-  "item_size": 80324487,
+  "files_count": 1095,
+  "item_last_updated": 1665815655,
+  "item_size": 80748978,
   "metadata": {
     "identifier": "dailyyonder-2022",
     "collection": [
@@ -11307,7 +11364,7 @@
     "addeddate": "2022-07-09 03:57:34"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1863854316,
+  "uniq": 1679021580,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

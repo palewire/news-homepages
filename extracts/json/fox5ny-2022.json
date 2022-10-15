@@ -1,5 +1,5 @@
 {
-  "created": 1665779891,
+  "created": 1665815932,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/19/items/fox5ny-2022",
@@ -6372,31 +6372,93 @@
       "sha1": "929b1aed2db0d63feba430267b2acf3fb08b33c6"
     },
     {
+      "name": "fox5ny-2022-10-15T02:37:06.422590-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815835",
+      "size": "43251",
+      "md5": "2f5f894a5ba15830476bee29287c93b2",
+      "crc32": "0bb2f2cf",
+      "sha1": "ba85b761edcdbb0b99e557d4e757d8c065f55380",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-15T02:37:06.422590-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815837",
+      "size": "33623",
+      "md5": "eaf6681177900aaf941fac382e538315",
+      "crc32": "c3b61d2d",
+      "sha1": "f964c0b8e4c9f263887e715f92b1c24098b9e527",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-15T02:37:06.422590-04:00.jpg",
+      "source": "original",
+      "mtime": "1665815833",
+      "size": "315878",
+      "md5": "2270716ec5aa9b67d6454093e96203dd",
+      "crc32": "d9fc6f9d",
+      "sha1": "d02965963c78fe12aee1be35c45230bbca014b75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5ny-2022-10-15T02:37:06.422590-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815839",
+      "size": "1459",
+      "md5": "c37b9916d767afbe9a8bdbba43b254be",
+      "crc32": "fb08c921",
+      "sha1": "c06695e443fc9ab05a5cafd1798ff5090fa79c75",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-15T02:37:06.422590-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815841",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-15T02:37:06.422590-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5ny-2022-10-15T02:37:06.422590-04:00.jpg",
+      "mtime": "1665815901",
+      "size": "10726",
+      "md5": "75cf59eaac7180c7c1898eed175fa371",
+      "crc32": "0a13a470",
+      "sha1": "0daf7c851ae53564c82d1c0ad699a84ce65e708f"
+    },
+    {
       "name": "fox5ny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a7710ddd3cb144d046b8950d4e4f5e48128983dd",
-      "mtime": "1665777179",
-      "size": "130067",
-      "md5": "a63e0448b64bcc52df1790d1f9f7fdbc",
-      "crc32": "6ae289cd",
-      "sha1": "15cb6b6949cf8d62eb9e3a81ffa2233b55b12d48",
+      "btih": "14fab748f98ad954db5d79c43b9efe763878e969",
+      "mtime": "1665815916",
+      "size": "131321",
+      "md5": "9ee3d9842138b1c9c0c985fe166f3d81",
+      "crc32": "07bb8218",
+      "sha1": "3c986a5fd9d69ebfcb6a8de414c7de4cbce301cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5ny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "188b02f2fdae381dae0efb6e9c639938",
+      "md5": "29c7e70ac73295bc99dbbafca5c31198",
       "summation": "md5"
     },
     {
       "name": "fox5ny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665777117",
-      "size": "798720",
-      "md5": "e6bf72403ad043b6d7e67014d3e59b42",
-      "crc32": "02efe99f",
-      "sha1": "347f5bffd558a39fa34a3a6c00252e4ccbc3eea1",
+      "mtime": "1665815845",
+      "size": "806912",
+      "md5": "1627bf26368b45eb140b423181d439c1",
+      "crc32": "16e93962",
+      "sha1": "07ea68a84cf238452bd819b698246ce10765d099",
       "format": "Metadata"
     },
     {
@@ -6410,13 +6472,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 620,
-  "fox5ny-2022": {
-    "url": "https://www.fox5ny.com/",
-    "job_id": "spn2-5ac8275284860850d3fbd9d778f15401d774bdd6"
-  },
-  "item_last_updated": 1665777179,
-  "item_size": 48671227,
+  "files_count": 626,
+  "item_last_updated": 1665815916,
+  "item_size": 49085812,
   "metadata": {
     "identifier": "fox5ny-2022",
     "collection": [
@@ -6434,7 +6492,7 @@
     "addeddate": "2022-08-23 14:52:06"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 287290998,
+  "uniq": 804361024,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

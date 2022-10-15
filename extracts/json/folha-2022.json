@@ -1,5 +1,5 @@
 {
-  "created": 1665777245,
+  "created": 1665816457,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/12/items/folha-2022",
@@ -12576,31 +12576,93 @@
       "sha1": "5c6b83e3c54113062a066b4736f3d96d3967e7cc"
     },
     {
+      "name": "folha-2022-10-15T03:37:44.196310-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815866",
+      "size": "104541",
+      "md5": "1d131411449c4d2194cba4b3df8c076e",
+      "crc32": "e66bed4c",
+      "sha1": "19455a096f3f6305bd6e88d94d5f391e4367e701",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-10-15T03:37:44.196310-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815868",
+      "size": "110898",
+      "md5": "ebadfac78e568990ad066303462fd066",
+      "crc32": "773cf41d",
+      "sha1": "dd7d3da52e4cf21ff9d3fbb70485a3fa63ff6c2c",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-10-15T03:37:44.196310-03:00.jpg",
+      "source": "original",
+      "mtime": "1665815865",
+      "size": "275275",
+      "md5": "d5dca68275ba6a5054780cf3e7a0111a",
+      "crc32": "924168c7",
+      "sha1": "c6f4b0b500b08aa3e381aff00f3b48ff7cf6f51f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "folha-2022-10-15T03:37:44.196310-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815869",
+      "size": "1513",
+      "md5": "9103ae2d799a4ac702265661dc6d5d00",
+      "crc32": "c3c49608",
+      "sha1": "a14b42d78a2d885bd99a8fab8cbcf986d1c862e7",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-10-15T03:37:44.196310-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815871",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-10-15T03:37:44.196310-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "folha-2022-10-15T03:37:44.196310-03:00.jpg",
+      "mtime": "1665816194",
+      "size": "9436",
+      "md5": "d08a2753248e3dd0a8491c8299155c6b",
+      "crc32": "404e7bf5",
+      "sha1": "5ad04a13d56269b83929a805225c6f0da7d957db"
+    },
+    {
       "name": "folha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3bbd6a183d3429df2cc4de60790c9913cdbd16b8",
-      "mtime": "1665777170",
-      "size": "254915",
-      "md5": "8d4c40cbe472d4b23b565ed95ad10ce7",
-      "crc32": "071fb157",
-      "sha1": "0b6b4b49e8f732785ce301cd0fec0707504f366e",
+      "btih": "68f213d10f8dc41511868b18af4ac28c8c3d1314",
+      "mtime": "1665816266",
+      "size": "256164",
+      "md5": "4a6e2217b8d58f23defd5f9c4418e274",
+      "crc32": "b951a2cb",
+      "sha1": "0ba86b7130279a904a1d62e66243290e377ca631",
       "format": "Archive BitTorrent"
     },
     {
       "name": "folha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f383e67375cea423ce5142df8231ec35",
+      "md5": "ba911ece96e8bd7f51a1b1f4ba5908b5",
       "summation": "md5"
     },
     {
       "name": "folha-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665777055",
-      "size": "1548288",
-      "md5": "33664eeac40aceaf80a2608e9eb794b8",
-      "crc32": "42d08938",
-      "sha1": "a63b8844832a0fac89cfcb1d2de44f2910ea24e9",
+      "mtime": "1665815997",
+      "size": "1556480",
+      "md5": "7d0c538e137800caccf1dbd6ff0eb998",
+      "crc32": "1c70ea1c",
+      "sha1": "978221d6c99053fbaf1906a7f66e5ceffe13a73c",
       "format": "Metadata"
     },
     {
@@ -12614,9 +12676,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1220,
-  "item_last_updated": 1665777170,
-  "item_size": 110854139,
+  "files_count": 1226,
+  "item_last_updated": 1665816266,
+  "item_size": 111365445,
   "metadata": {
     "identifier": "folha-2022",
     "collection": [
@@ -12633,10 +12695,10 @@
     "publicdate": "2022-08-02 14:53:33",
     "addeddate": "2022-08-02 14:53:33"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 886475809,
+  "server": "ia601508.us.archive.org",
+  "uniq": 1645484658,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

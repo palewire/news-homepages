@@ -1,7 +1,12 @@
 {
-  "created": 1665777013,
+  "created": 1665820342,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
+  "dailytarheel-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/19/items/dailytarheel-2022",
   "files": [
     {
@@ -11414,31 +11419,93 @@
       "sha1": "9506ce7bc8453638089d9af6537e51e3c98ee709"
     },
     {
+      "name": "dailytarheel-2022-10-15T02:31:45.616295-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815511",
+      "size": "30635",
+      "md5": "c4959b8ce327d7f93e95bfbcbcbb542e",
+      "crc32": "5f858152",
+      "sha1": "b5b5f84fafcb92b9fdabf248cb2cdaa472f33965",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-15T02:31:45.616295-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815513",
+      "size": "29346",
+      "md5": "8a5315d0d63925fa68438c4fbef193e9",
+      "crc32": "5bc50354",
+      "sha1": "e25d537c9c9482ab3ad12c772f2fa25dd55e6a26",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-15T02:31:45.616295-04:00.jpg",
+      "source": "original",
+      "mtime": "1665815510",
+      "size": "347023",
+      "md5": "5b3e8ab161621fce2aa678e2509b965b",
+      "crc32": "15582362",
+      "sha1": "87d60f5e056a07f798385f2746da50ebff7ded72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailytarheel-2022-10-15T02:31:45.616295-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815515",
+      "size": "1510",
+      "md5": "93482b7a316f4553d16f8c96ea333aba",
+      "crc32": "5126573b",
+      "sha1": "c6924159a6340dac64a982d0b62bad3b87c6e69e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-15T02:31:45.616295-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815517",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-15T02:31:45.616295-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailytarheel-2022-10-15T02:31:45.616295-04:00.jpg",
+      "mtime": "1665815595",
+      "size": "9563",
+      "md5": "f0bd25e764bad5adbd2bdcbffdd2aff6",
+      "crc32": "36bba89c",
+      "sha1": "f320d0689072cf8bd5caf4340a31a501edf87967"
+    },
+    {
       "name": "dailytarheel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41807756fac5dfa30cab492cb5916a721e68d5af",
-      "mtime": "1665776989",
-      "size": "237836",
-      "md5": "37d1d5398b0021299185de61f1286c6e",
-      "crc32": "8754fe94",
-      "sha1": "a049be5a20a1e0cdd8f3f10a9d2f8d676c959f1d",
+      "btih": "e4752511cd9efcaab1af8351fdc6caac4ada832f",
+      "mtime": "1665815627",
+      "size": "239125",
+      "md5": "9fa85ffc2cbb62e6eefe970cdc0a5816",
+      "crc32": "53ba40c3",
+      "sha1": "8669f15a657ff988348cfc5998dfc4182f4a3902",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailytarheel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23e5b80354998ac9bd7f7b292e35875a",
+      "md5": "f0a9e7a7e1747070e962e0fd7a1b8674",
       "summation": "md5"
     },
     {
       "name": "dailytarheel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665776910",
-      "size": "1396736",
-      "md5": "ff4faf9a5980fb2407c0956116ba65b6",
-      "crc32": "f8d260b4",
-      "sha1": "68324ceffbbe8555bb38f5268d47ef62e0d44b0c",
+      "mtime": "1665815522",
+      "size": "1404928",
+      "md5": "89d075b51bbfc33a0634dbe6e0583a6c",
+      "crc32": "f6992b93",
+      "sha1": "a1899ddaf64105fc0b264f6679525ab574d7b7a9",
       "format": "Metadata"
     },
     {
@@ -11452,9 +11519,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1105,
-  "item_last_updated": 1665776989,
-  "item_size": 87386166,
+  "files_count": 1111,
+  "item_last_updated": 1665815627,
+  "item_size": 87813926,
   "metadata": {
     "identifier": "dailytarheel-2022",
     "collection": [
@@ -11471,10 +11538,10 @@
     "publicdate": "2022-07-09 03:57:38",
     "addeddate": "2022-07-09 03:57:38"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 1027755415,
+  "server": "ia801408.us.archive.org",
+  "uniq": 605944350,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

@@ -1,10 +1,5 @@
 {
-  "correio-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1665779560,
+  "created": 1665815812,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/19/items/correio-2022",
@@ -12711,31 +12706,93 @@
       "sha1": "7581683dc021f348b726fc672d85b9e8ac28641b"
     },
     {
+      "name": "correio-2022-10-15T03:32:23.659027-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815556",
+      "size": "51574",
+      "md5": "0a0497cea6c735272ad87dc99af2b3b0",
+      "crc32": "dd167acf",
+      "sha1": "a79655c938239469b841f87079b997d8803013bc",
+      "format": "JSON"
+    },
+    {
+      "name": "correio-2022-10-15T03:32:23.659027-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815557",
+      "size": "76366",
+      "md5": "c2a02c7b95b8b869045de3e20fde836b",
+      "crc32": "6a179c2f",
+      "sha1": "d8e3610cac3859a3898ccfab4471ad227e8480ba",
+      "format": "JSON"
+    },
+    {
+      "name": "correio-2022-10-15T03:32:23.659027-03:00.jpg",
+      "source": "original",
+      "mtime": "1665815554",
+      "size": "309829",
+      "md5": "f1d661f9c79d55b21a01dd2455e444c0",
+      "crc32": "1d8c2f66",
+      "sha1": "5f27b7e80a754936bc11eb3c5efa62cdf309e4e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "correio-2022-10-15T03:32:23.659027-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815559",
+      "size": "1590",
+      "md5": "f6211fca8968c712141ba70209a464db",
+      "crc32": "b7fd24df",
+      "sha1": "6b991877f8fda1d6e6616ab44321cc49053d70dc",
+      "format": "JSON"
+    },
+    {
+      "name": "correio-2022-10-15T03:32:23.659027-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815561",
+      "size": "41145",
+      "md5": "89a0b05db640b639c4175d45af77f898",
+      "crc32": "c0023c8e",
+      "sha1": "2eaf41e5849cc577f8d3e907b7709e71caf3dca8",
+      "format": "JSON"
+    },
+    {
+      "name": "correio-2022-10-15T03:32:23.659027-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "correio-2022-10-15T03:32:23.659027-03:00.jpg",
+      "mtime": "1665815680",
+      "size": "10781",
+      "md5": "9e3dccedce760179cc2c2c33c3c13182",
+      "crc32": "ac7552e6",
+      "sha1": "be2fcb0d60a1dda258f855e4ecd7b64a5faf001e"
+    },
+    {
       "name": "correio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3813aa492b8e45c62990dbdc2fae11e5375ce45c",
-      "mtime": "1665776947",
-      "size": "259131",
-      "md5": "9f68e613e1f3d5c68b527d0c4d49fca9",
-      "crc32": "73ef8047",
-      "sha1": "15f854f66b1ec4140d0129e59dc14da3b86b6062",
+      "btih": "204be2d249f642fe62ee4662e66df2476f3c7d5d",
+      "mtime": "1665815768",
+      "size": "260393",
+      "md5": "b53294fd4627ed5ab2535b7a07cda890",
+      "crc32": "198edfe5",
+      "sha1": "24920c5a461019544ea544320f88e958fa0b6b51",
       "format": "Archive BitTorrent"
     },
     {
       "name": "correio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69658eab96d8f173928495fd7c80dc46",
+      "md5": "8ef618b90a7523c98a4a9823cbe65307",
       "summation": "md5"
     },
     {
       "name": "correio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665776789",
-      "size": "1568768",
-      "md5": "6797929ccd3db5f6a7d20247bf3da35a",
-      "crc32": "f98070de",
-      "sha1": "02f14becc31e5255ade8c282e614da9cc6e5cdfb",
+      "mtime": "1665815573",
+      "size": "1576960",
+      "md5": "abb80e24eb7ca908eeb8fbb7a31f8ae0",
+      "crc32": "51fae90e",
+      "sha1": "ec232e767e2bc4a8d4a625f34e3e0784742cbeac",
       "format": "Metadata"
     },
     {
@@ -12749,9 +12806,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1233,
-  "item_last_updated": 1665776947,
-  "item_size": 93696958,
+  "files_count": 1239,
+  "item_last_updated": 1665815768,
+  "item_size": 94197697,
   "metadata": {
     "identifier": "correio-2022",
     "collection": [
@@ -12768,10 +12825,10 @@
     "publicdate": "2022-08-04 13:53:29",
     "addeddate": "2022-08-04 13:53:29"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1934192132,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1854084789,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }
