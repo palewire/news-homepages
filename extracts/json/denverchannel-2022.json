@@ -1,5 +1,5 @@
 {
-  "created": 1665749200,
+  "created": 1665792499,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/denverchannel-2022",
@@ -7636,31 +7636,93 @@
       "sha1": "5090292c8c7cd8c55c5d7810c9edbda73e3f35d3"
     },
     {
+      "name": "denverchannel-2022-10-14T18:06:27.387486-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665792397",
+      "size": "22038",
+      "md5": "77a920de0be20ee9696f8b3c50320194",
+      "crc32": "cbc0e0e7",
+      "sha1": "87450447e2414069bab33673a4839ce8e4dc8f8e",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-10-14T18:06:27.387486-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665792399",
+      "size": "58559",
+      "md5": "11ba9fd7d22c4629d020cadd7ecd0833",
+      "crc32": "13436ba5",
+      "sha1": "4c3957a20a546947bff994b723568fbce54071df",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-10-14T18:06:27.387486-06:00.jpg",
+      "source": "original",
+      "mtime": "1665792396",
+      "size": "356843",
+      "md5": "9180f2f1d1ef6322082e3d8b292bd097",
+      "crc32": "a7e4a1ee",
+      "sha1": "454fa147ddc04e016d77e57006c05f164b6990cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverchannel-2022-10-14T18:06:27.387486-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665792401",
+      "size": "1467",
+      "md5": "9bc399dfe560552ca2a4f33f0ca20d2b",
+      "crc32": "dfefe09e",
+      "sha1": "225052295c1eda97ec9fc9a00cf98bb83ef34e3e",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-10-14T18:06:27.387486-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665792403",
+      "size": "60373",
+      "md5": "f67a8a45f7e53c9b9f58d931fe718387",
+      "crc32": "2f7a219c",
+      "sha1": "1e409bb06b85055e0e765f1ac75e9616510dba72",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-10-14T18:06:27.387486-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverchannel-2022-10-14T18:06:27.387486-06:00.jpg",
+      "mtime": "1665792465",
+      "size": "10376",
+      "md5": "f3409afda41a37e42242d379419471d2",
+      "crc32": "ba21fd3e",
+      "sha1": "5790d55607ea2d70a96d78e48c3f1313e26c2a9f"
+    },
+    {
       "name": "denverchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c610279e3aef35acc8ba52021073a8ee69591f0f",
-      "mtime": "1665749163",
-      "size": "160539",
-      "md5": "6ae5e1b97fbda667c9d0b1f27a7fccf4",
-      "crc32": "46d20ce2",
-      "sha1": "d21ebc76b38e20321d71c9820d930af735623b53",
+      "btih": "7a787e509c9eeb92a181cf2bb06e65ebf58d83b8",
+      "mtime": "1665792484",
+      "size": "161837",
+      "md5": "35ba1a2d55da61a3462c8639b58dd0ce",
+      "crc32": "7ccab568",
+      "sha1": "35e49e33cc40db425a488bbfb860531c1d66312c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a870545a443e9d7cdf8be869cfc57703",
+      "md5": "ee89bc36f7232b4c4e1a64172710a19c",
       "summation": "md5"
     },
     {
       "name": "denverchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665749085",
-      "size": "954368",
-      "md5": "9abed0a6e218590315a4531a7cfe9c65",
-      "crc32": "afb41991",
-      "sha1": "800e10ece5c38fd7c1b9e274e40111fa61318a82",
+      "mtime": "1665792407",
+      "size": "966656",
+      "md5": "42c4da09cc1d078f1e74bea9afda3639",
+      "crc32": "773e1325",
+      "sha1": "9ef7701861c32f3e28a374c596718dd680c9eca2",
       "format": "Metadata"
     },
     {
@@ -7674,9 +7736,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 742,
-  "item_last_updated": 1665749163,
-  "item_size": 54625983,
+  "files_count": 748,
+  "item_last_updated": 1665792484,
+  "item_size": 55149225,
   "metadata": {
     "identifier": "denverchannel-2022",
     "collection": [
@@ -7694,7 +7756,7 @@
     "addeddate": "2022-08-13 23:53:35"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 2088744088,
+  "uniq": 1881157436,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"
