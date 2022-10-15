@@ -1,5 +1,5 @@
 {
-  "created": 1665779530,
+  "created": 1665856968,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/lemondefr-2022",
@@ -23236,31 +23236,217 @@
       "sha1": "def720538067739106d76622e246b49b9efae7ef"
     },
     {
+      "name": "lemondefr-2022-10-15T08:25:57.799695+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815162",
+      "size": "30075",
+      "md5": "897ac846640a58d45b81545e9b63ec5f",
+      "crc32": "cd4e3b87",
+      "sha1": "280395f7c516ed4424086eb05900b6f2ef413e30",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T08:25:57.799695+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815163",
+      "size": "47363",
+      "md5": "9bbc5a57b513c5de17ba5a31dd20f05f",
+      "crc32": "011a83d1",
+      "sha1": "26f24866aaa9f8ffa4c2ca6f52ed2e55bb748633",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T08:25:57.799695+02:00.jpg",
+      "source": "original",
+      "mtime": "1665815159",
+      "size": "279125",
+      "md5": "b0126db8dd3842d5d7f207dcf5a05bea",
+      "crc32": "74bdb56c",
+      "sha1": "6929ce67c4e5cd473448a4b6189613ceab8622f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemondefr-2022-10-15T08:25:57.799695+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815166",
+      "size": "1450",
+      "md5": "8728215375ce7b7ed48b7a214d33b3fe",
+      "crc32": "8a47971d",
+      "sha1": "e26a30efb8ed8758713495854ebfebd21f4fe099",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T08:25:57.799695+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815167",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T08:25:57.799695+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemondefr-2022-10-15T08:25:57.799695+02:00.jpg",
+      "mtime": "1665815291",
+      "size": "8991",
+      "md5": "3c2789a64d3a3107d8f2c913f32a56c3",
+      "crc32": "c96f8147",
+      "sha1": "0dc972046f8636277ce2a18584577b49e548a3a2"
+    },
+    {
+      "name": "lemondefr-2022-10-15T10:22:12.277670+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665822135",
+      "size": "29723",
+      "md5": "518662a8b042bdc11b3d0ba00f9d1229",
+      "crc32": "b24ac069",
+      "sha1": "f40f2111070f9cacbfd9659f9f2c79dfb05cf83a",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T10:22:12.277670+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665822137",
+      "size": "47108",
+      "md5": "686a6f62501e6b8c3c8cc96b31a6d153",
+      "crc32": "685b6b09",
+      "sha1": "17ce6bc2a28a555e7dc9bab467a96f964dc4e970",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T10:22:12.277670+02:00.jpg",
+      "source": "original",
+      "mtime": "1665822133",
+      "size": "270208",
+      "md5": "3421d74bde2884975268c931636eb366",
+      "crc32": "6e22c42e",
+      "sha1": "c6d9b3d36583c47ae31a660fc817b493a0780ff8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemondefr-2022-10-15T10:22:12.277670+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665822139",
+      "size": "1450",
+      "md5": "0f5c0dbf1c46d7e445de8ec43d59f2a8",
+      "crc32": "92123513",
+      "sha1": "8c8dc5ac7a2f8bd9733d8de922b38bc300673c1a",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T10:22:12.277670+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665822140",
+      "size": "266",
+      "md5": "7b730430f1da74f89e56d873ce3e332c",
+      "crc32": "654e11e1",
+      "sha1": "9b8c79603cfdebb1f9dadf990bbfd86b27f7b20a",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T10:22:12.277670+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemondefr-2022-10-15T10:22:12.277670+02:00.jpg",
+      "mtime": "1665822278",
+      "size": "9058",
+      "md5": "d598823fb7a37113f501b2e233c50c53",
+      "crc32": "cd2ea557",
+      "sha1": "7c503abfda4fb6775f10d79b51ea380b45eed72c"
+    },
+    {
+      "name": "lemondefr-2022-10-15T19:58:53.862730+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665856737",
+      "size": "28975",
+      "md5": "e3085c9f98e45c615ed4d8811adc5e36",
+      "crc32": "953a7f95",
+      "sha1": "5e3fa7eb13d52c8c0612a9a4c6fe38a19a2c0b1a",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T19:58:53.862730+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665856738",
+      "size": "46078",
+      "md5": "9cc73ece2c7d569d52152d6f6dfb4598",
+      "crc32": "610156a1",
+      "sha1": "1d4586488b1df2236d094ded4674be6bdb63969f",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T19:58:53.862730+02:00.jpg",
+      "source": "original",
+      "mtime": "1665856735",
+      "size": "269844",
+      "md5": "aa91e42e2a2d56a3d342f0af6edc942e",
+      "crc32": "31331dfd",
+      "sha1": "d2ac6e4c062265ab7afe176f889fe9af9cc5ea86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemondefr-2022-10-15T19:58:53.862730+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665856740",
+      "size": "1450",
+      "md5": "06bb08c7f6395c5da5e2c10a648aaf09",
+      "crc32": "d5029486",
+      "sha1": "32f10c90ffd43f27b612dab8d4d83ab0d42a3e25",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T19:58:53.862730+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665856742",
+      "size": "229",
+      "md5": "2de727da3efadb85f917759747612e6d",
+      "crc32": "2809dceb",
+      "sha1": "9dfd55924f19eb73a471c2e24ca59a417e04bbe6",
+      "format": "JSON"
+    },
+    {
+      "name": "lemondefr-2022-10-15T19:58:53.862730+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemondefr-2022-10-15T19:58:53.862730+02:00.jpg",
+      "mtime": "1665856886",
+      "size": "9179",
+      "md5": "650014e11eaa69a2ab43c15d6457210b",
+      "crc32": "39f8dce1",
+      "sha1": "f874dce39a3d247482b9edb087ba592c8e6e4399"
+    },
+    {
       "name": "lemondefr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e36e5ca6a30678fe02e3cd58c8eda39513586aa7",
-      "mtime": "1665772094",
-      "size": "473422",
-      "md5": "e6d254acce34bee1f2b3de4b1d766f0c",
-      "crc32": "ff24fdad",
-      "sha1": "e54054c9dc4de8f4236cd4e6ba4367523bbdc01c",
+      "btih": "b92631de7739519536c2ac3b0e0d9e883003f6b0",
+      "mtime": "1665856927",
+      "size": "477215",
+      "md5": "879c634086911a8666bdc89cf79c96d5",
+      "crc32": "3c5ffdfc",
+      "sha1": "ebb99c6b760b2ca3ff74eeb893cc0bd013a62a93",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemondefr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ca3d6a310cc41c7c4f4c13de81c861f",
+      "md5": "17588165d21eeb5d4c397fbaac26ac7f",
       "summation": "md5"
     },
     {
       "name": "lemondefr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665771489",
-      "size": "2740224",
-      "md5": "14a99f73bdd06acd1a2286114ecc9937",
-      "crc32": "3e2e3e7c",
-      "sha1": "adc8e9e37226656d620be392104bc868221787ab",
+      "mtime": "1665856750",
+      "size": "2764800",
+      "md5": "2e14416d7faa8b49c1c6ee22e00b9cb0",
+      "crc32": "7a44985f",
+      "sha1": "2425123c066462d339c171029d85aaf1680afa0c",
       "format": "Metadata"
     },
     {
@@ -23274,14 +23460,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2238,
-  "item_last_updated": 1665772094,
-  "item_size": 164353743,
-  "lemondefr-2022": {
-    "message": "This URL has been already captured 10 times today. Please try again tomorrow. Please email us at \"info@archive.org\" if you would like to discuss this more.",
-    "status": "error",
-    "status_ext": "error:too-many-daily-captures"
-  },
+  "files_count": 2256,
+  "item_last_updated": 1665856927,
+  "item_size": 165462886,
   "metadata": {
     "identifier": "lemondefr-2022",
     "collection": [
@@ -23299,7 +23480,7 @@
     "addeddate": "2022-04-09 13:41:01"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 727977980,
+  "uniq": 1530601479,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"
