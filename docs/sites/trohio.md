@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 46 screenshots with the Internet Archive.
+The archiving routine has saved 48 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/trohio-2022/trohio-2022-10-14T23:57:01.384030-04:00.jpg">
+  <img src="https://archive.org/download/trohio-2022/trohio-2022-10-14T23:57:01.384030-04:00.jpg"
+     alt="Times Reporter at 2022-10-14 23:57:05-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/trohio-2022/trohio-2022-10-14T23:57:01.384030-04:00.jpg">October 14 at 11:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/trohio-2022/trohio-2022-10-14T12:28:49.374888-04:00.jpg">
+  <img src="https://archive.org/download/trohio-2022/trohio-2022-10-14T12:28:49.374888-04:00.jpg"
+     alt="Times Reporter at 2022-10-14 12:28:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/trohio-2022/trohio-2022-10-14T12:28:49.374888-04:00.jpg">October 14 at 12:28 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/trohio-2022/trohio-2022-10-13T23:55:53.375681-04:00.jpg">
   <img src="https://archive.org/download/trohio-2022/trohio-2022-10-13T23:55:53.375681-04:00.jpg"
      alt="Times Reporter at 2022-10-13 23:55:57-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/trohio-2022/trohio-2022-10-09T11:01:51.262745-04:00.jpg">October 9 at 11:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/trohio-2022/trohio-2022-10-08T23:46:00.188456-04:00.jpg">
-  <img src="https://archive.org/download/trohio-2022/trohio-2022-10-08T23:46:00.188456-04:00.jpg"
-     alt="Times Reporter at 2022-10-08 23:46:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/trohio-2022/trohio-2022-10-08T23:46:00.188456-04:00.jpg">October 8 at 11:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/trohio-2022/trohio-2022-10-08T11:11:24.294179-04:00.jpg">
-  <img src="https://archive.org/download/trohio-2022/trohio-2022-10-08T11:11:24.294179-04:00.jpg"
-     alt="Times Reporter at 2022-10-08 11:11:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/trohio-2022/trohio-2022-10-08T11:11:24.294179-04:00.jpg">October 8 at 11:11 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 11:57 PM](https://archive.org/download/trohio-2022/trohio-2022-10-14T23:57:01.384030-04:00.hyperlinks.json) |
+| [October 14 at 12:28 PM](https://archive.org/download/trohio-2022/trohio-2022-10-14T12:28:49.374888-04:00.hyperlinks.json) |
 | [October 13 at 11:56 PM](https://archive.org/download/trohio-2022/trohio-2022-10-13T23:55:53.375681-04:00.hyperlinks.json) |
 | [October 13 at 11:11 AM](https://archive.org/download/trohio-2022/trohio-2022-10-13T11:11:46.384607-04:00.hyperlinks.json) |
 | [October 12 at 11:42 PM](https://archive.org/download/trohio-2022/trohio-2022-10-12T23:42:29.272114-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 11:16 AM](https://archive.org/download/trohio-2022/trohio-2022-10-11T11:16:49.433206-04:00.hyperlinks.json) |
 | [October 10 at 11:57 PM](https://archive.org/download/trohio-2022/trohio-2022-10-10T23:57:02.553629-04:00.hyperlinks.json) |
 | [October 10 at 11:25 AM](https://archive.org/download/trohio-2022/trohio-2022-10-10T11:25:08.354110-04:00.hyperlinks.json) |
-| [October 9 at 11:58 PM](https://archive.org/download/trohio-2022/trohio-2022-10-09T23:58:32.424652-04:00.hyperlinks.json) |
-| [October 9 at 11:01 AM](https://archive.org/download/trohio-2022/trohio-2022-10-09T11:01:51.262745-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 11:57 PM](https://archive.org/download/trohio-2022/trohio-2022-10-14T23:57:01.384030-04:00.accessibility.json) |
+| [October 14 at 12:28 PM](https://archive.org/download/trohio-2022/trohio-2022-10-14T12:28:49.374888-04:00.accessibility.json) |
 | [October 13 at 11:55 PM](https://archive.org/download/trohio-2022/trohio-2022-10-13T23:55:53.375681-04:00.accessibility.json) |
 | [October 13 at 11:11 AM](https://archive.org/download/trohio-2022/trohio-2022-10-13T11:11:46.384607-04:00.accessibility.json) |
 | [October 12 at 11:42 PM](https://archive.org/download/trohio-2022/trohio-2022-10-12T23:42:29.272114-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 11:16 AM](https://archive.org/download/trohio-2022/trohio-2022-10-11T11:16:49.433206-04:00.accessibility.json) |
 | [October 10 at 11:57 PM](https://archive.org/download/trohio-2022/trohio-2022-10-10T23:57:02.553629-04:00.accessibility.json) |
 | [October 10 at 11:25 AM](https://archive.org/download/trohio-2022/trohio-2022-10-10T11:25:08.354110-04:00.accessibility.json) |
-| [October 9 at 11:58 PM](https://archive.org/download/trohio-2022/trohio-2022-10-09T23:58:32.424652-04:00.accessibility.json) |
-| [October 9 at 11:01 AM](https://archive.org/download/trohio-2022/trohio-2022-10-09T11:01:51.262745-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 11:57 PM](https://archive.org/download/trohio-2022/trohio-2022-10-14T23:57:01.384030-04:00.lighthouse.json) |
+| [October 14 at 12:29 PM](https://archive.org/download/trohio-2022/trohio-2022-10-14T12:28:49.374888-04:00.lighthouse.json) |
 | [October 13 at 11:56 PM](https://archive.org/download/trohio-2022/trohio-2022-10-13T23:55:53.375681-04:00.lighthouse.json) |
 | [October 13 at 11:11 AM](https://archive.org/download/trohio-2022/trohio-2022-10-13T11:11:46.384607-04:00.lighthouse.json) |
 | [October 12 at 11:42 PM](https://archive.org/download/trohio-2022/trohio-2022-10-12T23:42:29.272114-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 11:17 AM](https://archive.org/download/trohio-2022/trohio-2022-10-11T11:16:49.433206-04:00.lighthouse.json) |
 | [October 10 at 11:57 PM](https://archive.org/download/trohio-2022/trohio-2022-10-10T23:57:02.553629-04:00.lighthouse.json) |
 | [October 10 at 11:25 AM](https://archive.org/download/trohio-2022/trohio-2022-10-10T11:25:08.354110-04:00.lighthouse.json) |
-| [October 9 at 11:58 PM](https://archive.org/download/trohio-2022/trohio-2022-10-09T23:58:32.424652-04:00.lighthouse.json) |
-| [October 9 at 11:01 AM](https://archive.org/download/trohio-2022/trohio-2022-10-09T11:01:51.262745-04:00.lighthouse.json) |
 
 
 

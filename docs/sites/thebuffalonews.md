@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 154 screenshots with the Internet Archive.
+The archiving routine has saved 156 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T23:53:39.674703-04:00.jpg">
+  <img src="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T23:53:39.674703-04:00.jpg"
+     alt="Buffalo News at 2022-10-14 23:53:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T23:53:39.674703-04:00.jpg">October 14 at 11:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T12:22:52.853243-04:00.jpg">
+  <img src="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T12:22:52.853243-04:00.jpg"
+     alt="Buffalo News at 2022-10-14 12:23:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T12:22:52.853243-04:00.jpg">October 14 at 12:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-13T23:52:49.907042-04:00.jpg">
   <img src="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-13T23:52:49.907042-04:00.jpg"
      alt="Buffalo News at 2022-10-13 23:53:02-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-09T10:59:03.146292-04:00.jpg">October 9 at 10:59 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-08T23:44:12.935961-04:00.jpg">
-  <img src="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-08T23:44:12.935961-04:00.jpg"
-     alt="Buffalo News at 2022-10-08 23:44:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-08T23:44:12.935961-04:00.jpg">October 8 at 11:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-08T11:08:33.375192-04:00.jpg">
-  <img src="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-08T11:08:33.375192-04:00.jpg"
-     alt="Buffalo News at 2022-10-08 11:08:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-08T11:08:33.375192-04:00.jpg">October 8 at 11:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 157 hyperlink lists with the Internet Archive.
+The archiving routine has saved 159 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 11:53 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T23:53:39.674703-04:00.hyperlinks.json) |
+| [October 14 at 12:23 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T12:22:52.853243-04:00.hyperlinks.json) |
 | [October 13 at 11:53 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-13T23:52:49.907042-04:00.hyperlinks.json) |
 | [October 13 at 11:09 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-13T11:09:32.212506-04:00.hyperlinks.json) |
 | [October 12 at 11:40 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-12T23:40:46.680418-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 11:12 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-11T11:12:19.050658-04:00.hyperlinks.json) |
 | [October 10 at 11:54 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-10T23:54:23.769174-04:00.hyperlinks.json) |
 | [October 10 at 11:21 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-10T11:21:40.898219-04:00.hyperlinks.json) |
-| [October 9 at 11:55 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-09T23:55:14.295827-04:00.hyperlinks.json) |
-| [October 9 at 10:59 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-09T10:59:03.146292-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 160 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 11:53 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T23:53:39.674703-04:00.accessibility.json) |
+| [October 14 at 12:23 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T12:22:52.853243-04:00.accessibility.json) |
 | [October 13 at 11:53 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-13T23:52:49.907042-04:00.accessibility.json) |
 | [October 13 at 11:09 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-13T11:09:32.212506-04:00.accessibility.json) |
 | [October 12 at 11:40 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-12T23:40:46.680418-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 11:12 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-11T11:12:19.050658-04:00.accessibility.json) |
 | [October 10 at 11:54 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-10T23:54:23.769174-04:00.accessibility.json) |
 | [October 10 at 11:21 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-10T11:21:40.898219-04:00.accessibility.json) |
-| [October 9 at 11:55 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-09T23:55:14.295827-04:00.accessibility.json) |
-| [October 9 at 10:59 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-09T10:59:03.146292-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 11:53 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T23:53:39.674703-04:00.lighthouse.json) |
+| [October 14 at 12:23 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-14T12:22:52.853243-04:00.lighthouse.json) |
 | [October 13 at 11:53 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-13T23:52:49.907042-04:00.lighthouse.json) |
 | [October 13 at 11:09 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-13T11:09:32.212506-04:00.lighthouse.json) |
 | [October 12 at 11:40 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-12T23:40:46.680418-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 11:12 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-11T11:12:19.050658-04:00.lighthouse.json) |
 | [October 10 at 11:54 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-10T23:54:23.769174-04:00.lighthouse.json) |
 | [October 10 at 11:21 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-10T11:21:40.898219-04:00.lighthouse.json) |
-| [October 9 at 11:55 PM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-09T23:55:14.295827-04:00.lighthouse.json) |
-| [October 9 at 10:59 AM](https://archive.org/download/thebuffalonews-2022/thebuffalonews-2022-10-09T10:59:03.146292-04:00.lighthouse.json) |
 
 
 

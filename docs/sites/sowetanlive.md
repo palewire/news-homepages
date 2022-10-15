@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 103 screenshots with the Internet Archive.
+The archiving routine has saved 105 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-15T05:50:40.853476+02:00.jpg">
+  <img src="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-15T05:50:40.853476+02:00.jpg"
+     alt="Sowetan at 2022-10-15 05:50:46+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-15T05:50:40.853476+02:00.jpg">October 15 at 5:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T18:18:58.459294+02:00.jpg">
+  <img src="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T18:18:58.459294+02:00.jpg"
+     alt="Sowetan at 2022-10-14 18:19:06+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T18:18:58.459294+02:00.jpg">October 14 at 6:19 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T05:49:47.600304+02:00.jpg">
   <img src="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T05:49:47.600304+02:00.jpg"
      alt="Sowetan at 2022-10-14 05:49:53+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-09T16:57:14.515106+02:00.jpg">October 9 at 4:57 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-09T05:41:52.332408+02:00.jpg">
-  <img src="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-09T05:41:52.332408+02:00.jpg"
-     alt="Sowetan at 2022-10-09 05:41:55+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-09T05:41:52.332408+02:00.jpg">October 9 at 5:41 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-08T17:05:29.042208+02:00.jpg">
-  <img src="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-08T17:05:29.042208+02:00.jpg"
-     alt="Sowetan at 2022-10-08 17:05:33+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-08T17:05:29.042208+02:00.jpg">October 8 at 5:05 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 102 hyperlink lists with the Internet Archive.
+The archiving routine has saved 104 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 5:50 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-15T05:50:40.853476+02:00.hyperlinks.json) |
+| [October 14 at 6:19 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T18:18:58.459294+02:00.hyperlinks.json) |
 | [October 14 at 5:49 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T05:49:47.600304+02:00.hyperlinks.json) |
 | [October 13 at 5:07 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-13T17:07:00.913567+02:00.hyperlinks.json) |
 | [October 13 at 5:39 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-13T05:39:06.808801+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 5:10 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-11T17:10:22.861455+02:00.hyperlinks.json) |
 | [October 11 at 5:51 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-11T05:51:41.196444+02:00.hyperlinks.json) |
 | [October 10 at 5:15 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-10T17:15:47.149165+02:00.hyperlinks.json) |
-| [October 10 at 5:52 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-10T05:52:27.306037+02:00.hyperlinks.json) |
-| [October 9 at 4:57 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-09T16:57:14.515106+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 103 accessibility trees with the Internet Archive.
+The archiving routine has saved 105 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 5:50 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-15T05:50:40.853476+02:00.accessibility.json) |
+| [October 14 at 6:19 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T18:18:58.459294+02:00.accessibility.json) |
 | [October 14 at 5:49 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T05:49:47.600304+02:00.accessibility.json) |
 | [October 13 at 5:07 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-13T17:07:00.913567+02:00.accessibility.json) |
 | [October 13 at 5:39 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-13T05:39:06.808801+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 5:10 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-11T17:10:22.861455+02:00.accessibility.json) |
 | [October 11 at 5:51 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-11T05:51:41.196444+02:00.accessibility.json) |
 | [October 10 at 5:15 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-10T17:15:47.149165+02:00.accessibility.json) |
-| [October 10 at 5:52 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-10T05:52:27.306037+02:00.accessibility.json) |
-| [October 9 at 4:57 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-09T16:57:14.515106+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 102 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 104 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 5:50 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-15T05:50:40.853476+02:00.lighthouse.json) |
+| [October 14 at 6:19 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T18:18:58.459294+02:00.lighthouse.json) |
 | [October 14 at 5:50 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-14T05:49:47.600304+02:00.lighthouse.json) |
 | [October 13 at 5:07 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-13T17:07:00.913567+02:00.lighthouse.json) |
 | [October 13 at 5:39 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-13T05:39:06.808801+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 5:10 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-11T17:10:22.861455+02:00.lighthouse.json) |
 | [October 11 at 5:51 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-11T05:51:41.196444+02:00.lighthouse.json) |
 | [October 10 at 5:15 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-10T17:15:47.149165+02:00.lighthouse.json) |
-| [October 10 at 5:52 AM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-10T05:52:27.306037+02:00.lighthouse.json) |
-| [October 9 at 4:57 PM](https://archive.org/download/sowetanlive-2022/sowetanlive-2022-10-09T16:57:14.515106+02:00.lighthouse.json) |
 
 
 

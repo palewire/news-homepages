@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T22:50:51.882509-05:00.jpg">
+  <img src="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T22:50:51.882509-05:00.jpg"
+     alt="Opelousas Daily World at 2022-10-14 22:50:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T22:50:51.882509-05:00.jpg">October 14 at 10:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T11:23:19.241631-05:00.jpg">
+  <img src="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T11:23:19.241631-05:00.jpg"
+     alt="Opelousas Daily World at 2022-10-14 11:23:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T11:23:19.241631-05:00.jpg">October 14 at 11:23 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-13T22:49:47.075038-05:00.jpg">
   <img src="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-13T22:49:47.075038-05:00.jpg"
      alt="Opelousas Daily World at 2022-10-13 22:49:51-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-09T09:56:53.417526-05:00.jpg">October 9 at 9:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-08T22:41:12.826085-05:00.jpg">
-  <img src="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-08T22:41:12.826085-05:00.jpg"
-     alt="Opelousas Daily World at 2022-10-08 22:41:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-08T22:41:12.826085-05:00.jpg">October 8 at 10:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-08T10:05:57.402589-05:00.jpg">
-  <img src="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-08T10:05:57.402589-05:00.jpg"
-     alt="Opelousas Daily World at 2022-10-08 10:06:01-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-08T10:05:57.402589-05:00.jpg">October 8 at 10:06 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 10:50 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T22:50:51.882509-05:00.hyperlinks.json) |
+| [October 14 at 11:23 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T11:23:19.241631-05:00.hyperlinks.json) |
 | [October 13 at 10:49 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-13T22:49:47.075038-05:00.hyperlinks.json) |
 | [October 13 at 10:07 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-13T10:07:16.203274-05:00.hyperlinks.json) |
 | [October 12 at 10:37 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-12T22:37:47.628179-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 10:12 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-11T10:12:30.308426-05:00.hyperlinks.json) |
 | [October 10 at 10:51 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-10T22:51:15.178101-05:00.hyperlinks.json) |
 | [October 10 at 10:21 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-10T10:21:40.478105-05:00.hyperlinks.json) |
-| [October 9 at 10:52 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-09T22:52:30.968220-05:00.hyperlinks.json) |
-| [October 9 at 9:57 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-09T09:56:53.417526-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 10:50 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T22:50:51.882509-05:00.accessibility.json) |
+| [October 14 at 11:23 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T11:23:19.241631-05:00.accessibility.json) |
 | [October 13 at 10:49 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-13T22:49:47.075038-05:00.accessibility.json) |
 | [October 13 at 10:07 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-13T10:07:16.203274-05:00.accessibility.json) |
 | [October 12 at 10:37 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-12T22:37:47.628179-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 10:12 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-11T10:12:30.308426-05:00.accessibility.json) |
 | [October 10 at 10:51 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-10T22:51:15.178101-05:00.accessibility.json) |
 | [October 10 at 10:21 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-10T10:21:40.478105-05:00.accessibility.json) |
-| [October 9 at 10:52 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-09T22:52:30.968220-05:00.accessibility.json) |
-| [October 9 at 9:56 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-09T09:56:53.417526-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 10:51 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T22:50:51.882509-05:00.lighthouse.json) |
+| [October 14 at 11:23 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-14T11:23:19.241631-05:00.lighthouse.json) |
 | [October 13 at 10:49 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-13T22:49:47.075038-05:00.lighthouse.json) |
 | [October 13 at 10:07 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-13T10:07:16.203274-05:00.lighthouse.json) |
 | [October 12 at 10:37 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-12T22:37:47.628179-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 10:12 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-11T10:12:30.308426-05:00.lighthouse.json) |
 | [October 10 at 10:51 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-10T22:51:15.178101-05:00.lighthouse.json) |
 | [October 10 at 10:21 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-10T10:21:40.478105-05:00.lighthouse.json) |
-| [October 9 at 10:52 PM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-09T22:52:30.968220-05:00.lighthouse.json) |
-| [October 9 at 9:57 AM](https://archive.org/download/the_daily_world-2022/the_daily_world-2022-10-09T09:56:53.417526-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 104 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-15T05:54:36.245927+02:00.jpg">
+  <img src="https://archive.org/download/thesanews-2022/thesanews-2022-10-15T05:54:36.245927+02:00.jpg"
+     alt="The South African at 2022-10-15 05:54:40+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-15T05:54:36.245927+02:00.jpg">October 15 at 5:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-14T18:25:24.455979+02:00.jpg">
+  <img src="https://archive.org/download/thesanews-2022/thesanews-2022-10-14T18:25:24.455979+02:00.jpg"
+     alt="The South African at 2022-10-14 18:25:42+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-14T18:25:24.455979+02:00.jpg">October 14 at 6:25 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-14T05:53:08.833914+02:00.jpg">
   <img src="https://archive.org/download/thesanews-2022/thesanews-2022-10-14T05:53:08.833914+02:00.jpg"
      alt="The South African at 2022-10-14 05:53:37+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-09T16:58:44.777024+02:00.jpg">October 9 at 4:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-09T05:43:31.046756+02:00.jpg">
-  <img src="https://archive.org/download/thesanews-2022/thesanews-2022-10-09T05:43:31.046756+02:00.jpg"
-     alt="The South African at 2022-10-09 05:43:35+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-09T05:43:31.046756+02:00.jpg">October 9 at 5:43 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-08T17:08:47.541265+02:00.jpg">
-  <img src="https://archive.org/download/thesanews-2022/thesanews-2022-10-08T17:08:47.541265+02:00.jpg"
-     alt="The South African at 2022-10-08 17:08:59+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thesanews-2022/thesanews-2022-10-08T17:08:47.541265+02:00.jpg">October 8 at 5:08 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 104 hyperlink lists with the Internet Archive.
+The archiving routine has saved 106 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 5:54 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-15T05:54:36.245927+02:00.hyperlinks.json) |
+| [October 14 at 6:25 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-14T18:25:24.455979+02:00.hyperlinks.json) |
 | [October 14 at 5:53 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-14T05:53:08.833914+02:00.hyperlinks.json) |
 | [October 13 at 5:10 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-13T17:09:42.513593+02:00.hyperlinks.json) |
 | [October 13 at 5:40 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-13T05:40:25.941400+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 5:14 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-11T17:14:39.052192+02:00.hyperlinks.json) |
 | [October 11 at 5:56 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-11T05:56:08.756137+02:00.hyperlinks.json) |
 | [October 10 at 5:22 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-10T17:22:21.717062+02:00.hyperlinks.json) |
-| [October 10 at 5:55 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-10T05:55:01.722003+02:00.hyperlinks.json) |
-| [October 9 at 4:58 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-09T16:58:44.777024+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 104 accessibility trees with the Internet Archive.
+The archiving routine has saved 106 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 5:54 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-15T05:54:36.245927+02:00.accessibility.json) |
+| [October 14 at 6:25 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-14T18:25:24.455979+02:00.accessibility.json) |
 | [October 14 at 5:53 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-14T05:53:08.833914+02:00.accessibility.json) |
 | [October 13 at 5:10 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-13T17:09:42.513593+02:00.accessibility.json) |
 | [October 13 at 5:40 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-13T05:40:25.941400+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 5:14 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-11T17:14:39.052192+02:00.accessibility.json) |
 | [October 11 at 5:56 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-11T05:56:08.756137+02:00.accessibility.json) |
 | [October 10 at 5:22 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-10T17:22:21.717062+02:00.accessibility.json) |
-| [October 10 at 5:55 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-10T05:55:01.722003+02:00.accessibility.json) |
-| [October 9 at 4:58 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-09T16:58:44.777024+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 104 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 106 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 5:54 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-15T05:54:36.245927+02:00.lighthouse.json) |
+| [October 14 at 6:25 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-14T18:25:24.455979+02:00.lighthouse.json) |
 | [October 14 at 5:53 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-14T05:53:08.833914+02:00.lighthouse.json) |
 | [October 13 at 5:10 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-13T17:09:42.513593+02:00.lighthouse.json) |
 | [October 13 at 5:40 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-13T05:40:25.941400+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 5:14 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-11T17:14:39.052192+02:00.lighthouse.json) |
 | [October 11 at 5:56 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-11T05:56:08.756137+02:00.lighthouse.json) |
 | [October 10 at 5:22 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-10T17:22:21.717062+02:00.lighthouse.json) |
-| [October 10 at 5:55 AM](https://archive.org/download/thesanews-2022/thesanews-2022-10-10T05:55:01.722003+02:00.lighthouse.json) |
-| [October 9 at 4:58 PM](https://archive.org/download/thesanews-2022/thesanews-2022-10-09T16:58:44.777024+02:00.lighthouse.json) |
 
 
 

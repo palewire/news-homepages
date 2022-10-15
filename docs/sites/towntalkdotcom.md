@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T22:56:56.520006-05:00.jpg">
+  <img src="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T22:56:56.520006-05:00.jpg"
+     alt="Alexandria Town Talk at 2022-10-14 22:57:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T22:56:56.520006-05:00.jpg">October 14 at 10:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T11:28:57.372542-05:00.jpg">
+  <img src="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T11:28:57.372542-05:00.jpg"
+     alt="Alexandria Town Talk at 2022-10-14 11:29:00-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T11:28:57.372542-05:00.jpg">October 14 at 11:29 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-13T22:56:35.699059-05:00.jpg">
   <img src="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-13T22:56:35.699059-05:00.jpg"
      alt="Alexandria Town Talk at 2022-10-13 22:56:43-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-09T10:01:05.983563-05:00.jpg">October 9 at 10:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-08T22:46:06.441850-05:00.jpg">
-  <img src="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-08T22:46:06.441850-05:00.jpg"
-     alt="Alexandria Town Talk at 2022-10-08 22:46:12-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-08T22:46:06.441850-05:00.jpg">October 8 at 10:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-08T10:12:09.724411-05:00.jpg">
-  <img src="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-08T10:12:09.724411-05:00.jpg"
-     alt="Alexandria Town Talk at 2022-10-08 10:12:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-08T10:12:09.724411-05:00.jpg">October 8 at 10:12 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 10:57 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T22:56:56.520006-05:00.hyperlinks.json) |
+| [October 14 at 11:29 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T11:28:57.372542-05:00.hyperlinks.json) |
 | [October 13 at 10:56 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-13T22:56:35.699059-05:00.hyperlinks.json) |
 | [October 13 at 10:11 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-13T10:11:40.208747-05:00.hyperlinks.json) |
 | [October 12 at 10:42 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-12T22:42:32.316500-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 10:17 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-11T10:17:14.720011-05:00.hyperlinks.json) |
 | [October 10 at 10:57 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-10T22:56:58.666584-05:00.hyperlinks.json) |
 | [October 10 at 10:24 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-10T10:24:15.153303-05:00.hyperlinks.json) |
-| [October 9 at 10:58 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-09T22:58:27.937653-05:00.hyperlinks.json) |
-| [October 9 at 10:01 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-09T10:01:05.983563-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 10:57 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T22:56:56.520006-05:00.accessibility.json) |
+| [October 14 at 11:29 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T11:28:57.372542-05:00.accessibility.json) |
 | [October 13 at 10:56 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-13T22:56:35.699059-05:00.accessibility.json) |
 | [October 13 at 10:11 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-13T10:11:40.208747-05:00.accessibility.json) |
 | [October 12 at 10:42 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-12T22:42:32.316500-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 10:17 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-11T10:17:14.720011-05:00.accessibility.json) |
 | [October 10 at 10:57 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-10T22:56:58.666584-05:00.accessibility.json) |
 | [October 10 at 10:24 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-10T10:24:15.153303-05:00.accessibility.json) |
-| [October 9 at 10:58 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-09T22:58:27.937653-05:00.accessibility.json) |
-| [October 9 at 10:01 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-09T10:01:05.983563-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 10:57 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T22:56:56.520006-05:00.lighthouse.json) |
+| [October 14 at 11:29 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-14T11:28:57.372542-05:00.lighthouse.json) |
 | [October 13 at 10:56 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-13T22:56:35.699059-05:00.lighthouse.json) |
 | [October 13 at 10:11 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-13T10:11:40.208747-05:00.lighthouse.json) |
 | [October 12 at 10:42 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-12T22:42:32.316500-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 10:17 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-11T10:17:14.720011-05:00.lighthouse.json) |
 | [October 10 at 10:57 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-10T22:56:58.666584-05:00.lighthouse.json) |
 | [October 10 at 10:24 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-10T10:24:15.153303-05:00.lighthouse.json) |
-| [October 9 at 10:58 PM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-09T22:58:27.937653-05:00.lighthouse.json) |
-| [October 9 at 10:01 AM](https://archive.org/download/towntalkdotcom-2022/towntalkdotcom-2022-10-09T10:01:05.983563-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 47 screenshots with the Internet Archive.
+The archiving routine has saved 49 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T23:53:52.068823-04:00.jpg">
+  <img src="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T23:53:52.068823-04:00.jpg"
+     alt="Fort Myers News-Press at 2022-10-14 23:53:55-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T23:53:52.068823-04:00.jpg">October 14 at 11:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T12:25:39.586636-04:00.jpg">
+  <img src="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T12:25:39.586636-04:00.jpg"
+     alt="Fort Myers News-Press at 2022-10-14 12:25:44-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T12:25:39.586636-04:00.jpg">October 14 at 12:25 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-13T23:53:08.709467-04:00.jpg">
   <img src="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-13T23:53:08.709467-04:00.jpg"
      alt="Fort Myers News-Press at 2022-10-13 23:53:10-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-09T10:58:51.706628-04:00.jpg">October 9 at 10:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-08T23:43:47.010626-04:00.jpg">
-  <img src="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-08T23:43:47.010626-04:00.jpg"
-     alt="Fort Myers News-Press at 2022-10-08 23:43:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-08T23:43:47.010626-04:00.jpg">October 8 at 11:43 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-08T11:08:56.542082-04:00.jpg">
-  <img src="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-08T11:08:56.542082-04:00.jpg"
-     alt="Fort Myers News-Press at 2022-10-08 11:08:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewspress-2022/thenewspress-2022-10-08T11:08:56.542082-04:00.jpg">October 8 at 11:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 49 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 11:54 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T23:53:52.068823-04:00.hyperlinks.json) |
+| [October 14 at 12:25 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T12:25:39.586636-04:00.hyperlinks.json) |
 | [October 13 at 11:53 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-13T23:53:08.709467-04:00.hyperlinks.json) |
 | [October 13 at 11:09 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-13T11:09:05.454234-04:00.hyperlinks.json) |
 | [October 12 at 11:40 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-12T23:40:13.092566-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 11:14 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-11T11:14:04.094879-04:00.hyperlinks.json) |
 | [October 10 at 11:54 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-10T23:54:38.818840-04:00.hyperlinks.json) |
 | [October 10 at 11:22 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-10T11:22:23.323843-04:00.hyperlinks.json) |
-| [October 9 at 11:55 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-09T23:55:09.308499-04:00.hyperlinks.json) |
-| [October 9 at 10:58 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-09T10:58:51.706628-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 47 accessibility trees with the Internet Archive.
+The archiving routine has saved 49 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 11:53 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T23:53:52.068823-04:00.accessibility.json) |
+| [October 14 at 12:25 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T12:25:39.586636-04:00.accessibility.json) |
 | [October 13 at 11:53 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-13T23:53:08.709467-04:00.accessibility.json) |
 | [October 13 at 11:09 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-13T11:09:05.454234-04:00.accessibility.json) |
 | [October 12 at 11:40 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-12T23:40:13.092566-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 11:14 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-11T11:14:04.094879-04:00.accessibility.json) |
 | [October 10 at 11:54 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-10T23:54:38.818840-04:00.accessibility.json) |
 | [October 10 at 11:22 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-10T11:22:23.323843-04:00.accessibility.json) |
-| [October 9 at 11:55 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-09T23:55:09.308499-04:00.accessibility.json) |
-| [October 9 at 10:58 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-09T10:58:51.706628-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 47 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 11:54 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T23:53:52.068823-04:00.lighthouse.json) |
+| [October 14 at 12:26 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-14T12:25:39.586636-04:00.lighthouse.json) |
 | [October 13 at 11:53 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-13T23:53:08.709467-04:00.lighthouse.json) |
 | [October 13 at 11:09 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-13T11:09:05.454234-04:00.lighthouse.json) |
 | [October 12 at 11:40 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-12T23:40:13.092566-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 11:14 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-11T11:14:04.094879-04:00.lighthouse.json) |
 | [October 10 at 11:54 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-10T23:54:38.818840-04:00.lighthouse.json) |
 | [October 10 at 11:22 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-10T11:22:23.323843-04:00.lighthouse.json) |
-| [October 9 at 11:55 PM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-09T23:55:09.308499-04:00.lighthouse.json) |
-| [October 9 at 10:59 AM](https://archive.org/download/thenewspress-2022/thenewspress-2022-10-09T10:58:51.706628-04:00.lighthouse.json) |
 
 
 

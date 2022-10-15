@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 193 screenshots with the Internet Archive.
+The archiving routine has saved 195 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T20:56:49.051674-07:00.jpg">
+  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T20:56:49.051674-07:00.jpg"
+     alt="Tucson Sentinel at 2022-10-14 20:56:51-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T20:56:49.051674-07:00.jpg">October 14 at 8:56 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T09:29:31.251570-07:00.jpg">
+  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T09:29:31.251570-07:00.jpg"
+     alt="Tucson Sentinel at 2022-10-14 09:29:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T09:29:31.251570-07:00.jpg">October 14 at 9:29 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-13T20:55:57.613131-07:00.jpg">
   <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-13T20:55:57.613131-07:00.jpg"
      alt="Tucson Sentinel at 2022-10-13 20:55:59-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-09T08:01:04.668904-07:00.jpg">October 9 at 8:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-08T20:46:10.899198-07:00.jpg">
-  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-08T20:46:10.899198-07:00.jpg"
-     alt="Tucson Sentinel at 2022-10-08 20:46:17-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-08T20:46:10.899198-07:00.jpg">October 8 at 8:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-08T08:12:12.187988-07:00.jpg">
-  <img src="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-08T08:12:12.187988-07:00.jpg"
-     alt="Tucson Sentinel at 2022-10-08 08:12:19-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-08T08:12:12.187988-07:00.jpg">October 8 at 8:12 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 193 hyperlink lists with the Internet Archive.
+The archiving routine has saved 195 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 8:56 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T20:56:49.051674-07:00.hyperlinks.json) |
+| [October 14 at 9:29 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T09:29:31.251570-07:00.hyperlinks.json) |
 | [October 13 at 8:56 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-13T20:55:57.613131-07:00.hyperlinks.json) |
 | [October 13 at 8:11 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-13T08:11:33.178755-07:00.hyperlinks.json) |
 | [October 12 at 8:42 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-12T20:42:39.145065-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 8:16 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-11T08:16:49.376356-07:00.hyperlinks.json) |
 | [October 10 at 8:57 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-10T20:57:10.105530-07:00.hyperlinks.json) |
 | [October 10 at 8:24 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-10T08:24:15.253769-07:00.hyperlinks.json) |
-| [October 9 at 8:58 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-09T20:58:11.529814-07:00.hyperlinks.json) |
-| [October 9 at 8:01 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-09T08:01:04.668904-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 196 accessibility trees with the Internet Archive.
+The archiving routine has saved 198 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 8:56 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T20:56:49.051674-07:00.accessibility.json) |
+| [October 14 at 9:29 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T09:29:31.251570-07:00.accessibility.json) |
 | [October 13 at 8:56 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-13T20:55:57.613131-07:00.accessibility.json) |
 | [October 13 at 8:11 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-13T08:11:33.178755-07:00.accessibility.json) |
 | [October 12 at 8:42 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-12T20:42:39.145065-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 8:16 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-11T08:16:49.376356-07:00.accessibility.json) |
 | [October 10 at 8:57 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-10T20:57:10.105530-07:00.accessibility.json) |
 | [October 10 at 8:24 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-10T08:24:15.253769-07:00.accessibility.json) |
-| [October 9 at 8:58 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-09T20:58:11.529814-07:00.accessibility.json) |
-| [October 9 at 8:01 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-09T08:01:04.668904-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 8:56 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T20:56:49.051674-07:00.lighthouse.json) |
+| [October 14 at 9:29 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-14T09:29:31.251570-07:00.lighthouse.json) |
 | [October 13 at 8:56 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-13T20:55:57.613131-07:00.lighthouse.json) |
 | [October 13 at 8:11 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-13T08:11:33.178755-07:00.lighthouse.json) |
 | [October 12 at 8:42 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-12T20:42:39.145065-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 8:17 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-11T08:16:49.376356-07:00.lighthouse.json) |
 | [October 10 at 8:57 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-10T20:57:10.105530-07:00.lighthouse.json) |
 | [October 10 at 8:24 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-10T08:24:15.253769-07:00.lighthouse.json) |
-| [October 9 at 8:58 PM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-09T20:58:11.529814-07:00.lighthouse.json) |
-| [October 9 at 8:01 AM](https://archive.org/download/tucsonsentinel-2022/tucsonsentinel-2022-10-09T08:01:04.668904-07:00.lighthouse.json) |
 
 
 

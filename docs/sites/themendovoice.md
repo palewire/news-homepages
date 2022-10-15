@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 111 screenshots with the Internet Archive.
+The archiving routine has saved 113 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T20:54:34.469058-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T20:54:34.469058-07:00.jpg"
+     alt="Mendoncino Voice at 2022-10-14 20:54:37-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T20:54:34.469058-07:00.jpg">October 14 at 8:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T09:26:34.239551-07:00.jpg">
+  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T09:26:34.239551-07:00.jpg"
+     alt="Mendoncino Voice at 2022-10-14 09:26:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T09:26:34.239551-07:00.jpg">October 14 at 9:26 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-13T20:53:12.028221-07:00.jpg">
   <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-13T20:53:12.028221-07:00.jpg"
      alt="Mendoncino Voice at 2022-10-13 20:53:16-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-09T07:58:42.654367-07:00.jpg">October 9 at 7:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-08T20:43:40.651906-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-08T20:43:40.651906-07:00.jpg"
-     alt="Mendoncino Voice at 2022-10-08 20:44:02-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-08T20:43:40.651906-07:00.jpg">October 8 at 8:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-08T08:08:24.315709-07:00.jpg">
-  <img src="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-08T08:08:24.315709-07:00.jpg"
-     alt="Mendoncino Voice at 2022-10-08 08:08:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/themendovoice-2022/themendovoice-2022-10-08T08:08:24.315709-07:00.jpg">October 8 at 8:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 111 hyperlink lists with the Internet Archive.
+The archiving routine has saved 113 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 14 at 8:54 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T20:54:34.469058-07:00.hyperlinks.json) |
+| [October 14 at 9:26 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T09:26:34.239551-07:00.hyperlinks.json) |
 | [October 13 at 8:53 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-13T20:53:12.028221-07:00.hyperlinks.json) |
 | [October 13 at 8:09 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-13T08:09:08.962677-07:00.hyperlinks.json) |
 | [October 12 at 8:40 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-12T20:40:13.757020-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 8:14 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-11T08:14:44.743205-07:00.hyperlinks.json) |
 | [October 10 at 8:54 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-10T20:54:12.337820-07:00.hyperlinks.json) |
 | [October 10 at 8:21 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-10T08:21:33.995462-07:00.hyperlinks.json) |
-| [October 9 at 8:55 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-09T20:55:15.588595-07:00.hyperlinks.json) |
-| [October 9 at 7:59 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-09T07:58:42.654367-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 111 accessibility trees with the Internet Archive.
+The archiving routine has saved 113 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 14 at 8:54 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T20:54:34.469058-07:00.accessibility.json) |
+| [October 14 at 9:26 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T09:26:34.239551-07:00.accessibility.json) |
 | [October 13 at 8:53 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-13T20:53:12.028221-07:00.accessibility.json) |
 | [October 13 at 8:09 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-13T08:09:08.962677-07:00.accessibility.json) |
 | [October 12 at 8:40 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-12T20:40:13.757020-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 8:14 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-11T08:14:44.743205-07:00.accessibility.json) |
 | [October 10 at 8:54 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-10T20:54:12.337820-07:00.accessibility.json) |
 | [October 10 at 8:21 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-10T08:21:33.995462-07:00.accessibility.json) |
-| [October 9 at 8:55 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-09T20:55:15.588595-07:00.accessibility.json) |
-| [October 9 at 7:58 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-09T07:58:42.654367-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 111 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 113 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 14 at 8:54 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T20:54:34.469058-07:00.lighthouse.json) |
+| [October 14 at 9:26 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-14T09:26:34.239551-07:00.lighthouse.json) |
 | [October 13 at 8:53 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-13T20:53:12.028221-07:00.lighthouse.json) |
 | [October 13 at 8:09 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-13T08:09:08.962677-07:00.lighthouse.json) |
 | [October 12 at 8:40 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-12T20:40:13.757020-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 8:14 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-11T08:14:44.743205-07:00.lighthouse.json) |
 | [October 10 at 8:54 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-10T20:54:12.337820-07:00.lighthouse.json) |
 | [October 10 at 8:21 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-10T08:21:33.995462-07:00.lighthouse.json) |
-| [October 9 at 8:55 PM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-09T20:55:15.588595-07:00.lighthouse.json) |
-| [October 9 at 7:59 AM](https://archive.org/download/themendovoice-2022/themendovoice-2022-10-09T07:58:42.654367-07:00.lighthouse.json) |
 
 
 
