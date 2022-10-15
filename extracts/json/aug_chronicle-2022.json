@@ -1,5 +1,6 @@
 {
-  "created": 1665789014,
+  "conflict": 1665831406,
+  "created": 1665831406,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/aug_chronicle-2022",
@@ -10477,6 +10478,7 @@
     }
   ],
   "files_count": 1012,
+  "has_redrow": true,
   "item_last_updated": 1665789000,
   "item_size": 70405003,
   "metadata": {
@@ -10495,10 +10497,21 @@
     "publicdate": "2022-07-20 23:30:16",
     "addeddate": "2022-07-20 23:30:16"
   },
-  "server": "ia601504.us.archive.org",
-  "uniq": 997853041,
+  "pending_tasks": true,
+  "server": "ia801504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3440926135,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    }
+  ],
+  "uniq": 1779069874,
   "workable_servers": [
-    "ia601504.us.archive.org",
     "ia801504.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1665825996,
-  "created": 1665825996,
+  "created": 1665831504,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/28/items/beltel-2022",
@@ -14315,31 +14314,93 @@
       "sha1": "dfd65a9c742b8923e0de053c8dcdea35a3260ac9"
     },
     {
+      "name": "beltel-2022-10-15T11:56:06.387195+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831369",
+      "size": "39457",
+      "md5": "13def2da45ec2c60dcaf69f019541a16",
+      "crc32": "70b00541",
+      "sha1": "5079355745532cc1c4b486553c88d954d0042b09",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-10-15T11:56:06.387195+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831371",
+      "size": "91406",
+      "md5": "a1367ae8df5f3ead5c5765d2cc79adde",
+      "crc32": "02f1ee6e",
+      "sha1": "033e9cf4df49599e2fdc0c2a0090d1cac5d2a68c",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-10-15T11:56:06.387195+01:00.jpg",
+      "source": "original",
+      "mtime": "1665831368",
+      "size": "268150",
+      "md5": "9ba5982721d68daecf1f3b7a4d6a03c2",
+      "crc32": "f3bd71a3",
+      "sha1": "2e04a361adb2930f6b7584c7933206e847ec9896",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beltel-2022-10-15T11:56:06.387195+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831372",
+      "size": "1548",
+      "md5": "127b811bbeca75b25689c3875520e74c",
+      "crc32": "c08a18e9",
+      "sha1": "465182a72b88625e0745b6c9c8435a00494d6a3d",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-10-15T11:56:06.387195+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831374",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "beltel-2022-10-15T11:56:06.387195+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "beltel-2022-10-15T11:56:06.387195+01:00.jpg",
+      "mtime": "1665831457",
+      "size": "9104",
+      "md5": "51eb7abb92323ae2061ce950ca00c040",
+      "crc32": "0c9955d1",
+      "sha1": "682dcf4b0fe800b87d2c8e5c2dfb1b0dce5f61fd"
+    },
+    {
       "name": "beltel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a47c74683a1201849cdcaedd9ab1264941768396",
-      "mtime": "1665825980",
-      "size": "289641",
-      "md5": "8f7042e2efc916eb79f37cad0127ee49",
-      "crc32": "13a0deb7",
-      "sha1": "c2fa2a767fabd00c69eb283bb434553a5d3fae20",
+      "btih": "0198e1e2077579ef756af65e1aa56efacaced9ad",
+      "mtime": "1665831473",
+      "size": "290894",
+      "md5": "14f458a94cbba10d5caf39f581fa39ae",
+      "crc32": "d78e8dc8",
+      "sha1": "b4f20fdbbc667b0e2f76846bd256150895d63702",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beltel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e61ba62f6f01bc56147fa177d9c13c33",
+      "md5": "c8d0ee82a9a9e9f67ca87c6f6720cf12",
       "summation": "md5"
     },
     {
       "name": "beltel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665825785",
-      "size": "1748992",
-      "md5": "9a76b2d7722bb7845c0f34f8b3f3916a",
-      "crc32": "741c5b3b",
-      "sha1": "31d41533ae188c7e4e55f229995ebe5ce12c98dc",
+      "mtime": "1665831381",
+      "size": "1757184",
+      "md5": "47a6fe481050b82c240bd40968449a6c",
+      "crc32": "9013b091",
+      "sha1": "7c14e93b965dbc4436bbf716a1fa2720a9ccf577",
       "format": "Metadata"
     },
     {
@@ -14353,9 +14414,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1387,
-  "item_last_updated": 1665825980,
-  "item_size": 98519148,
+  "files_count": 1393,
+  "item_last_updated": 1665831473,
+  "item_size": 98938460,
   "metadata": {
     "identifier": "beltel-2022",
     "collection": [
@@ -14372,21 +14433,10 @@
     "publicdate": "2022-07-18 00:59:08",
     "addeddate": "2022-07-18 00:59:08"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3440834124,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2098607315,
+  "uniq": 415369054,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

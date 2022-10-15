@@ -1,5 +1,6 @@
 {
-  "created": 1665788957,
+  "conflict": 1665831362,
+  "created": 1665831362,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/bild-2022",
@@ -8219,6 +8220,7 @@
     }
   ],
   "files_count": 795,
+  "has_redrow": true,
   "item_last_updated": 1665788808,
   "item_size": 43532492,
   "metadata": {
@@ -8237,10 +8239,21 @@
     "publicdate": "2022-08-11 00:38:50",
     "addeddate": "2022-08-11 00:38:50"
   },
+  "pending_tasks": true,
   "server": "ia801504.us.archive.org",
-  "uniq": 1023562311,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3440925330,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    }
+  ],
+  "uniq": 256002833,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia801504.us.archive.org"
   ]
 }
