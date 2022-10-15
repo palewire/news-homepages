@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T13:54:23.244817-04:00.jpg">
+  <img src="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T13:54:23.244817-04:00.jpg"
+     alt="Florida Times-Union at 2022-10-15 13:54:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T13:54:23.244817-04:00.jpg">October 15 at 1:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T02:22:26.192020-04:00.jpg">
+  <img src="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T02:22:26.192020-04:00.jpg"
+     alt="Florida Times-Union at 2022-10-15 02:22:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T02:22:26.192020-04:00.jpg">October 15 at 2:22 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-14T14:11:18.732986-04:00.jpg">
   <img src="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-14T14:11:18.732986-04:00.jpg"
      alt="Florida Times-Union at 2022-10-14 14:11:27-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-10T04:15:35.876943-04:00.jpg">October 10 at 4:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-09T13:34:16.089632-04:00.jpg">
-  <img src="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-09T13:34:16.089632-04:00.jpg"
-     alt="Florida Times-Union at 2022-10-09 13:34:18-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-09T13:34:16.089632-04:00.jpg">October 9 at 1:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-09T01:21:58.384264-04:00.jpg">
-  <img src="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-09T01:21:58.384264-04:00.jpg"
-     alt="Florida Times-Union at 2022-10-09 01:22:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-09T01:21:58.384264-04:00.jpg">October 9 at 1:22 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 1:54 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T13:54:23.244817-04:00.hyperlinks.json) |
+| [October 15 at 2:22 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T02:22:26.192020-04:00.hyperlinks.json) |
 | [October 14 at 2:11 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-14T14:11:18.732986-04:00.hyperlinks.json) |
 | [October 14 at 2:24 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-14T02:24:29.702416-04:00.hyperlinks.json) |
 | [October 13 at 1:48 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-13T13:48:47.393231-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 2:29 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-12T02:29:14.108316-04:00.hyperlinks.json) |
 | [October 11 at 1:41 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-11T13:41:06.217751-04:00.hyperlinks.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-11T02:29:12.150971-04:00.hyperlinks.json) |
-| [October 10 at 2:00 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-10T14:00:38.183710-04:00.hyperlinks.json) |
-| [October 10 at 4:15 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-10T04:15:35.876943-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 1:54 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T13:54:23.244817-04:00.accessibility.json) |
+| [October 15 at 2:22 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T02:22:26.192020-04:00.accessibility.json) |
 | [October 14 at 2:11 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-14T14:11:18.732986-04:00.accessibility.json) |
 | [October 14 at 2:24 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-14T02:24:29.702416-04:00.accessibility.json) |
 | [October 13 at 1:48 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-13T13:48:47.393231-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 2:29 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-12T02:29:14.108316-04:00.accessibility.json) |
 | [October 11 at 1:41 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-11T13:41:06.217751-04:00.accessibility.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-11T02:29:12.150971-04:00.accessibility.json) |
-| [October 10 at 2:00 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-10T14:00:38.183710-04:00.accessibility.json) |
-| [October 10 at 4:15 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-10T04:15:35.876943-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 1:54 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T13:54:23.244817-04:00.lighthouse.json) |
+| [October 15 at 2:22 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-15T02:22:26.192020-04:00.lighthouse.json) |
 | [October 14 at 2:11 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-14T14:11:18.732986-04:00.lighthouse.json) |
 | [October 14 at 2:24 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-14T02:24:29.702416-04:00.lighthouse.json) |
 | [October 13 at 1:48 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-13T13:48:47.393231-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 2:29 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-12T02:29:14.108316-04:00.lighthouse.json) |
 | [October 11 at 1:41 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-11T13:41:06.217751-04:00.lighthouse.json) |
 | [October 11 at 2:29 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-11T02:29:12.150971-04:00.lighthouse.json) |
-| [October 10 at 2:00 PM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-10T14:00:38.183710-04:00.lighthouse.json) |
-| [October 10 at 4:15 AM](https://archive.org/download/jaxdotcom-2022/jaxdotcom-2022-10-10T04:15:35.876943-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 202 screenshots with the Internet Archive.
+The archiving routine has saved 204 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-15T10:57:43.114337-07:00.jpg">
+  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-15T10:57:43.114337-07:00.jpg"
+     alt="Lookout Santa Cruz at 2022-10-15 10:57:44-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-15T10:57:43.114337-07:00.jpg">October 15 at 10:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T23:25:34.474486-07:00.jpg">
+  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T23:25:34.474486-07:00.jpg"
+     alt="Lookout Santa Cruz at 2022-10-14 23:25:41-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T23:25:34.474486-07:00.jpg">October 14 at 11:25 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T11:18:02.614940-07:00.jpg">
   <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T11:18:02.614940-07:00.jpg"
      alt="Lookout Santa Cruz at 2022-10-14 11:18:17-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T01:19:12.528705-07:00.jpg">October 10 at 1:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-09T10:36:50.672475-07:00.jpg">
-  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-09T10:36:50.672475-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-10-09 10:37:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-09T10:36:50.672475-07:00.jpg">October 9 at 10:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-08T22:24:25.345789-07:00.jpg">
-  <img src="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-08T22:24:25.345789-07:00.jpg"
-     alt="Lookout Santa Cruz at 2022-10-08 22:24:26-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-08T22:24:25.345789-07:00.jpg">October 8 at 10:24 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 203 hyperlink lists with the Internet Archive.
+The archiving routine has saved 205 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 10:57 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-15T10:57:43.114337-07:00.hyperlinks.json) |
+| [October 14 at 11:25 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T23:25:34.474486-07:00.hyperlinks.json) |
 | [October 14 at 11:18 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T11:18:02.614940-07:00.hyperlinks.json) |
 | [October 13 at 11:29 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-13T23:29:02.395482-07:00.hyperlinks.json) |
 | [October 13 at 10:54 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-13T10:54:52.719852-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 11 at 11:33 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-11T23:33:04.683639-07:00.hyperlinks.json) |
 | [October 11 at 10:45 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-11T10:44:40.909727-07:00.hyperlinks.json) |
 | [October 10 at 11:35 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T23:35:46.413241-07:00.hyperlinks.json) |
-| [October 10 at 11:08 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T11:08:34.849539-07:00.hyperlinks.json) |
-| [October 10 at 1:19 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T01:19:12.528705-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 203 accessibility trees with the Internet Archive.
+The archiving routine has saved 205 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 10:57 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-15T10:57:43.114337-07:00.accessibility.json) |
+| [October 14 at 11:25 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T23:25:34.474486-07:00.accessibility.json) |
 | [October 14 at 11:18 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T11:18:02.614940-07:00.accessibility.json) |
 | [October 13 at 11:29 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-13T23:29:02.395482-07:00.accessibility.json) |
 | [October 13 at 10:54 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-13T10:54:52.719852-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 11 at 11:33 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-11T23:33:04.683639-07:00.accessibility.json) |
 | [October 11 at 10:45 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-11T10:44:40.909727-07:00.accessibility.json) |
 | [October 10 at 11:35 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T23:35:46.413241-07:00.accessibility.json) |
-| [October 10 at 11:08 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T11:08:34.849539-07:00.accessibility.json) |
-| [October 10 at 1:19 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T01:19:12.528705-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 10:57 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-15T10:57:43.114337-07:00.lighthouse.json) |
+| [October 14 at 11:25 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T23:25:34.474486-07:00.lighthouse.json) |
 | [October 14 at 11:18 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-14T11:18:02.614940-07:00.lighthouse.json) |
 | [October 13 at 11:29 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-13T23:29:02.395482-07:00.lighthouse.json) |
 | [October 13 at 10:54 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-13T10:54:52.719852-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 11 at 11:33 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-11T23:33:04.683639-07:00.lighthouse.json) |
 | [October 11 at 10:45 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-11T10:44:40.909727-07:00.lighthouse.json) |
 | [October 10 at 11:35 PM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T23:35:46.413241-07:00.lighthouse.json) |
-| [October 10 at 11:08 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T11:08:34.849539-07:00.lighthouse.json) |
-| [October 10 at 1:19 AM](https://archive.org/download/lookoutscruz-2022/lookoutscruz-2022-10-10T01:19:12.528705-07:00.lighthouse.json) |
 
 
 

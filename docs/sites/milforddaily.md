@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T13:59:46.336071-04:00.jpg">
+  <img src="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T13:59:46.336071-04:00.jpg"
+     alt="Milford Daily News at 2022-10-15 13:59:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T13:59:46.336071-04:00.jpg">October 15 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T02:29:14.674957-04:00.jpg">
+  <img src="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T02:29:14.674957-04:00.jpg"
+     alt="Milford Daily News at 2022-10-15 02:29:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T02:29:14.674957-04:00.jpg">October 15 at 2:29 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-14T14:19:01.711141-04:00.jpg">
   <img src="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-14T14:19:01.711141-04:00.jpg"
      alt="Milford Daily News at 2022-10-14 14:19:06-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-10T04:18:41.440894-04:00.jpg">October 10 at 4:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-09T13:37:00.677037-04:00.jpg">
-  <img src="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-09T13:37:00.677037-04:00.jpg"
-     alt="Milford Daily News at 2022-10-09 13:37:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-09T13:37:00.677037-04:00.jpg">October 9 at 1:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-09T01:24:27.517638-04:00.jpg">
-  <img src="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-09T01:24:27.517638-04:00.jpg"
-     alt="Milford Daily News at 2022-10-09 01:24:29-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/milforddaily-2022/milforddaily-2022-10-09T01:24:27.517638-04:00.jpg">October 9 at 1:24 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 1:59 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T13:59:46.336071-04:00.hyperlinks.json) |
+| [October 15 at 2:29 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T02:29:14.674957-04:00.hyperlinks.json) |
 | [October 14 at 2:19 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-14T14:19:01.711141-04:00.hyperlinks.json) |
 | [October 14 at 2:31 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-14T02:30:59.864877-04:00.hyperlinks.json) |
 | [October 13 at 1:54 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-13T13:54:36.408541-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 2:36 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-12T02:36:08.523551-04:00.hyperlinks.json) |
 | [October 11 at 1:45 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-11T13:45:46.344963-04:00.hyperlinks.json) |
 | [October 11 at 2:38 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-11T02:38:49.694383-04:00.hyperlinks.json) |
-| [October 10 at 2:16 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-10T14:16:03.085212-04:00.hyperlinks.json) |
-| [October 10 at 4:18 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-10T04:18:41.440894-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 1:59 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T13:59:46.336071-04:00.accessibility.json) |
+| [October 15 at 2:29 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T02:29:14.674957-04:00.accessibility.json) |
 | [October 14 at 2:19 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-14T14:19:01.711141-04:00.accessibility.json) |
 | [October 14 at 2:31 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-14T02:30:59.864877-04:00.accessibility.json) |
 | [October 13 at 1:54 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-13T13:54:36.408541-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 2:36 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-12T02:36:08.523551-04:00.accessibility.json) |
 | [October 11 at 1:45 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-11T13:45:46.344963-04:00.accessibility.json) |
 | [October 11 at 2:38 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-11T02:38:49.694383-04:00.accessibility.json) |
-| [October 10 at 2:16 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-10T14:16:03.085212-04:00.accessibility.json) |
-| [October 10 at 4:18 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-10T04:18:41.440894-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 1:59 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T13:59:46.336071-04:00.lighthouse.json) |
+| [October 15 at 2:29 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-15T02:29:14.674957-04:00.lighthouse.json) |
 | [October 14 at 2:19 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-14T14:19:01.711141-04:00.lighthouse.json) |
 | [October 14 at 2:31 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-14T02:30:59.864877-04:00.lighthouse.json) |
 | [October 13 at 1:54 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-13T13:54:36.408541-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 2:36 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-12T02:36:08.523551-04:00.lighthouse.json) |
 | [October 11 at 1:45 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-11T13:45:46.344963-04:00.lighthouse.json) |
 | [October 11 at 2:38 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-11T02:38:49.694383-04:00.lighthouse.json) |
-| [October 10 at 2:16 PM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-10T14:16:03.085212-04:00.lighthouse.json) |
-| [October 10 at 4:18 AM](https://archive.org/download/milforddaily-2022/milforddaily-2022-10-10T04:18:41.440894-04:00.lighthouse.json) |
 
 
 

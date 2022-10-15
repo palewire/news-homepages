@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 194 screenshots with the Internet Archive.
+The archiving routine has saved 196 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T11:57:42.964361-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T11:57:42.964361-06:00.jpg"
+     alt="KPCW at 2022-10-15 11:57:50-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T11:57:42.964361-06:00.jpg">October 15 at 11:57 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T00:26:49.279478-06:00.jpg">
+  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T00:26:49.279478-06:00.jpg"
+     alt="KPCW at 2022-10-15 00:26:57-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T00:26:49.279478-06:00.jpg">October 15 at 12:26 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-14T12:16:12.366968-06:00.jpg">
   <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-14T12:16:12.366968-06:00.jpg"
      alt="KPCW at 2022-10-14 12:16:16-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-10T02:16:26.639655-06:00.jpg">October 10 at 2:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-09T11:35:07.329036-06:00.jpg">
-  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-09T11:35:07.329036-06:00.jpg"
-     alt="KPCW at 2022-10-09 11:35:15-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-09T11:35:07.329036-06:00.jpg">October 9 at 11:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-08T23:22:29.940191-06:00.jpg">
-  <img src="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-08T23:22:29.940191-06:00.jpg"
-     alt="KPCW at 2022-10-08 23:22:35-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-08T23:22:29.940191-06:00.jpg">October 8 at 11:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 195 hyperlink lists with the Internet Archive.
+The archiving routine has saved 197 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 11:57 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T11:57:42.964361-06:00.hyperlinks.json) |
+| [October 15 at 12:27 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T00:26:49.279478-06:00.hyperlinks.json) |
 | [October 14 at 12:16 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-14T12:16:12.366968-06:00.hyperlinks.json) |
 | [October 14 at 12:28 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-14T00:27:47.784954-06:00.hyperlinks.json) |
 | [October 13 at 11:51 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-13T11:51:37.487864-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 12:33 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-12T00:32:46.752684-06:00.hyperlinks.json) |
 | [October 11 at 11:43 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-11T11:43:19.671569-06:00.hyperlinks.json) |
 | [October 11 at 12:36 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-11T00:36:41.682235-06:00.hyperlinks.json) |
-| [October 10 at 12:07 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-10T12:07:16.892590-06:00.hyperlinks.json) |
-| [October 10 at 2:16 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-10T02:16:26.639655-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 195 accessibility trees with the Internet Archive.
+The archiving routine has saved 197 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 11:57 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T11:57:42.964361-06:00.accessibility.json) |
+| [October 15 at 12:26 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T00:26:49.279478-06:00.accessibility.json) |
 | [October 14 at 12:16 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-14T12:16:12.366968-06:00.accessibility.json) |
 | [October 14 at 12:27 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-14T00:27:47.784954-06:00.accessibility.json) |
 | [October 13 at 11:51 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-13T11:51:37.487864-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 12:32 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-12T00:32:46.752684-06:00.accessibility.json) |
 | [October 11 at 11:43 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-11T11:43:19.671569-06:00.accessibility.json) |
 | [October 11 at 12:36 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-11T00:36:41.682235-06:00.accessibility.json) |
-| [October 10 at 12:07 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-10T12:07:16.892590-06:00.accessibility.json) |
-| [October 10 at 2:16 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-10T02:16:26.639655-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 11:57 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T11:57:42.964361-06:00.lighthouse.json) |
+| [October 15 at 12:27 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-15T00:26:49.279478-06:00.lighthouse.json) |
 | [October 14 at 12:16 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-14T12:16:12.366968-06:00.lighthouse.json) |
 | [October 14 at 12:28 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-14T00:27:47.784954-06:00.lighthouse.json) |
 | [October 13 at 11:52 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-13T11:51:37.487864-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 12:33 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-12T00:32:46.752684-06:00.lighthouse.json) |
 | [October 11 at 11:43 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-11T11:43:19.671569-06:00.lighthouse.json) |
 | [October 11 at 12:36 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-11T00:36:41.682235-06:00.lighthouse.json) |
-| [October 10 at 12:07 PM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-10T12:07:16.892590-06:00.lighthouse.json) |
-| [October 10 at 2:16 AM](https://archive.org/download/kpcwradio-2022/kpcwradio-2022-10-10T02:16:26.639655-06:00.lighthouse.json) |
 
 
 
