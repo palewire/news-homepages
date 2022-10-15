@@ -1,5 +1,5 @@
 {
-  "created": 1665760584,
+  "created": 1665800114,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/2/items/nhk_news-2022",
@@ -14206,31 +14206,93 @@
       "sha1": "ab11385107a726928db8c19fea2aa8a45fd291e7"
     },
     {
+      "name": "nhk_news-2022-10-15T11:13:26.557097+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665800014",
+      "size": "16562",
+      "md5": "15e51e508221a4d798fd45ceae6d9407",
+      "crc32": "62724f96",
+      "sha1": "015d64d788a324ecb3560fc4f9efe10326ad9c39",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-15T11:13:26.557097+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665800015",
+      "size": "16697",
+      "md5": "c8a630c23ff5016df9c3f785b0fb3b57",
+      "crc32": "4b7143ff",
+      "sha1": "aaddd6ba5e789a3da666ca244539be4abdd2fc42",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-15T11:13:26.557097+09:00.jpg",
+      "source": "original",
+      "mtime": "1665800012",
+      "size": "275925",
+      "md5": "8f4ca57360fad36efd8211c174e42fda",
+      "crc32": "95aba4c4",
+      "sha1": "9a0f0411852637aeddaf77ae0b06471126301f61",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhk_news-2022-10-15T11:13:26.557097+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665800017",
+      "size": "1503",
+      "md5": "035446584f0cb1bfcaf6fc4bffd91244",
+      "crc32": "f9c1119a",
+      "sha1": "e0d4132a8831b337ae5299c453ac336c82f90775",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-15T11:13:26.557097+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1665800018",
+      "size": "16079",
+      "md5": "d6ee85dee8544c2b65714704d1be74ef",
+      "crc32": "f7a1bfaa",
+      "sha1": "a032c74852e622fcda12f45800c2d75b6b812121",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-15T11:13:26.557097+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhk_news-2022-10-15T11:13:26.557097+09:00.jpg",
+      "mtime": "1665800085",
+      "size": "9567",
+      "md5": "000c1709b16255a625d9c137fcf5e778",
+      "crc32": "e09938cd",
+      "sha1": "a0dd0ce02ca60630c824effdb49d0018a29fcb2c"
+    },
+    {
       "name": "nhk_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b45f66f5c2c58a8b6fe6533257e65cd91e6fd559",
-      "mtime": "1665757235",
-      "size": "286219",
-      "md5": "c481296f71dc5b807baab9c83f71201a",
-      "crc32": "763b0241",
-      "sha1": "f51f1cdf4bc4a53395653ef8e51860f3f990daf0",
+      "btih": "8c5b67bb0722c4146ca5a7c4cd3a5518347a2d95",
+      "mtime": "1665800104",
+      "size": "287486",
+      "md5": "8f066995ad3c13518418a3fd98f9adf9",
+      "crc32": "80a5ab1c",
+      "sha1": "654c55db6e5922323699742ca93af9178d60b1d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhk_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9838927622d29e474f7c9cf70c68fcac",
+      "md5": "5807375d1dd3dd2419baae0cdb4edea9",
       "summation": "md5"
     },
     {
       "name": "nhk_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665757136",
-      "size": "1638400",
-      "md5": "87f0f19ca3a8e269e66eca9e72785b17",
-      "crc32": "0487459b",
-      "sha1": "9a54f43209d87108ebb72a3e22aea9f84030aee4",
+      "mtime": "1665800021",
+      "size": "1646592",
+      "md5": "269a790d2bcb3512d34c53c26580ad8d",
+      "crc32": "c27d59ee",
+      "sha1": "e6cdfe9dcbe0f358b81e62cccca857afe4d02bc3",
       "format": "Metadata"
     },
     {
@@ -14244,9 +14306,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1366,
-  "item_last_updated": 1665757235,
-  "item_size": 93883368,
+  "files_count": 1372,
+  "item_last_updated": 1665800104,
+  "item_size": 94229160,
   "metadata": {
     "identifier": "nhk_news-2022",
     "collection": [
@@ -14263,15 +14325,10 @@
     "publicdate": "2022-07-09 02:39:07",
     "addeddate": "2022-07-09 02:39:07"
   },
-  "nhk_news-2022": {
-    "url": "https://www3.nhk.or.jp/news/",
-    "job_id": "spn2-096353eb8d871898e51e8e13d323c92876d0d0c8",
-    "message": "The same snapshot had been made 23 minutes, 31 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
-  "server": "ia902506.us.archive.org",
-  "uniq": 723630989,
+  "server": "ia802506.us.archive.org",
+  "uniq": 462008497,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }
