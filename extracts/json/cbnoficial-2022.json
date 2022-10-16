@@ -1,10 +1,5 @@
 {
-  "cbnoficial-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1665878668,
+  "created": 1665917891,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/5/items/cbnoficial-2022",
@@ -12105,31 +12100,93 @@
       "sha1": "a92812da1fe0c205f48bea90c066399058b496ec"
     },
     {
+      "name": "cbnoficial-2022-10-16T07:56:22.274841-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917789",
+      "size": "687",
+      "md5": "393032455fccd54e1848c27418703cd7",
+      "crc32": "32f9847c",
+      "sha1": "663673949f721d01ed87750b9e09dadf30cb99cb",
+      "format": "JSON"
+    },
+    {
+      "name": "cbnoficial-2022-10-16T07:56:22.274841-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917791",
+      "size": "652",
+      "md5": "5739bc575a31d6f12a82f9fb13b451ff",
+      "crc32": "610a11e3",
+      "sha1": "ce0675a559c311b6717855f2e9023a020867023a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbnoficial-2022-10-16T07:56:22.274841-03:00.jpg",
+      "source": "original",
+      "mtime": "1665917788",
+      "size": "232927",
+      "md5": "31a8f1ad34d7c7d14dc61bd5ab60b0c1",
+      "crc32": "84b89ae8",
+      "sha1": "cbf8cc11b744cb601a8dad71c0ea4b423f2fd01b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbnoficial-2022-10-16T07:56:22.274841-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917793",
+      "size": "1786",
+      "md5": "286bf18f5cfd72d36c742dedbd84f09b",
+      "crc32": "49f75097",
+      "sha1": "2912e104d997b0c08fd1824521699be0b84005db",
+      "format": "JSON"
+    },
+    {
+      "name": "cbnoficial-2022-10-16T07:56:22.274841-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917794",
+      "size": "109",
+      "md5": "502fe7b74e7bc36fd53bfd502eaa7de6",
+      "crc32": "62a8ffdb",
+      "sha1": "203cf17d0b79af25da7120155fd7f768e5a85d6e",
+      "format": "JSON"
+    },
+    {
+      "name": "cbnoficial-2022-10-16T07:56:22.274841-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbnoficial-2022-10-16T07:56:22.274841-03:00.jpg",
+      "mtime": "1665917860",
+      "size": "9505",
+      "md5": "2303c2827c4cbf92bd65f793682d58b2",
+      "crc32": "64dc2690",
+      "sha1": "dd081918a2c26854fc20cb196ac08bf895788df0"
+    },
+    {
       "name": "cbnoficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8afe1b4956c0f665dee8dfecc405d2ef66c886da",
-      "mtime": "1665875410",
-      "size": "248031",
-      "md5": "8405976890e1ddd5d8436f9abe2af8fb",
-      "crc32": "c442567a",
-      "sha1": "86cb75e776c12e8092955e166913bf5f08f62cc1",
+      "btih": "d733ddfdb7fb33d54a8cbe386cb30b06ff218cc4",
+      "mtime": "1665917883",
+      "size": "249304",
+      "md5": "8b3f7c4d1e4f0b3fdd0954240f7e81fa",
+      "crc32": "ca075b29",
+      "sha1": "68f6f6415b20156c17dd4860d66eec7d45953402",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbnoficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2801ec2340654e2e02bb379b2882dbd9",
+      "md5": "54ec668fadc3320184808564588bd585",
       "summation": "md5"
     },
     {
       "name": "cbnoficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665875331",
-      "size": "1486848",
-      "md5": "f6bd5f4196ad706683bb0d90be08d00b",
-      "crc32": "96a73635",
-      "sha1": "b4764bd5e27af0b6bf982c9de6866bb355b58497",
+      "mtime": "1665917800",
+      "size": "1495040",
+      "md5": "98d812d4093dd0cb8643d252ffc4c865",
+      "crc32": "65f8f3f6",
+      "sha1": "b815974c5054aebf69b3a6a5ee1d59178eadffd2",
       "format": "Metadata"
     },
     {
@@ -12143,9 +12200,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1173,
-  "item_last_updated": 1665875410,
-  "item_size": 61892022,
+  "files_count": 1179,
+  "item_last_updated": 1665917883,
+  "item_size": 62147153,
   "metadata": {
     "identifier": "cbnoficial-2022",
     "collection": [
@@ -12162,10 +12219,10 @@
     "publicdate": "2022-08-07 19:42:21",
     "addeddate": "2022-08-07 19:42:21"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1497828533,
+  "server": "ia601401.us.archive.org",
+  "uniq": 1765181127,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }
