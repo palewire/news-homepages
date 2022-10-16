@@ -1,5 +1,10 @@
 {
-  "created": 1665897361,
+  "bosbizjournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1665941973,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/34/items/bosbizjournal-2022",
@@ -7798,31 +7803,93 @@
       "sha1": "0b6d48e442ce4983d7e5f3e474b2a123dd1775f2"
     },
     {
+      "name": "bosbizjournal-2022-10-16T12:44:12.349403-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665938660",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-16T12:44:12.349403-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665938662",
+      "size": "23722",
+      "md5": "a241d766cb0606af94fa60986362bbdd",
+      "crc32": "633f3b14",
+      "sha1": "3d33cf1d5cc5b0c1774e508b8ef86681b4ea660b",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-16T12:44:12.349403-04:00.jpg",
+      "source": "original",
+      "mtime": "1665938658",
+      "size": "264836",
+      "md5": "9fa8266780164a27ae27f198c3dbe1b4",
+      "crc32": "c9a26d53",
+      "sha1": "adde8683262401eb3f753a4f6f40b25721a46194",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bosbizjournal-2022-10-16T12:44:12.349403-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665938663",
+      "size": "1567",
+      "md5": "00025d5b37b20b9be4c69dee46cff44c",
+      "crc32": "8adbc61e",
+      "sha1": "1c38c520a009bc87b1230a4ae52e5d4e69cd862d",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-16T12:44:12.349403-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665938665",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-16T12:44:12.349403-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bosbizjournal-2022-10-16T12:44:12.349403-04:00.jpg",
+      "mtime": "1665938726",
+      "size": "8703",
+      "md5": "f40b4bdd7675095ff77d9ec4f451c1bf",
+      "crc32": "a1723523",
+      "sha1": "0b6d48e442ce4983d7e5f3e474b2a123dd1775f2"
+    },
+    {
       "name": "bosbizjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f66e3d5be8c42483dc4388da3039fd023c0c4a0",
-      "mtime": "1665897353",
-      "size": "163534",
-      "md5": "5eb3d08b9ddaaf61ada4c09349a9d7c7",
-      "crc32": "042737ec",
-      "sha1": "0956c2e3d7315fe58c962480ef550ee4e0714504",
+      "btih": "bdc18071e3ae800b7f0d81d10caaa51be544bb4f",
+      "mtime": "1665938733",
+      "size": "164827",
+      "md5": "ca92acee73df36e3b5f2f7d8eb86f6f2",
+      "crc32": "2d3d4520",
+      "sha1": "e06540ff107b2fd92326e07e38679fe1e7257169",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bosbizjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1fb420bfc71f5f6ca7fe62fe63d7f74",
+      "md5": "e39e35e25c5dea8fd0e0ac2e645e8722",
       "summation": "md5"
     },
     {
       "name": "bosbizjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665897286",
-      "size": "978944",
-      "md5": "345aa8b2a765cb366cd268c771318ddd",
-      "crc32": "2bf5a773",
-      "sha1": "937549f8106536d19c7954b14f7121e83b88980e",
+      "mtime": "1665938669",
+      "size": "987136",
+      "md5": "a29eb59602999f548a1f88ead7510777",
+      "crc32": "030606f7",
+      "sha1": "f870747fcc21d432a49e9909ec9f38538c553203",
       "format": "Metadata"
     },
     {
@@ -7836,9 +7903,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 758,
-  "item_last_updated": 1665897353,
-  "item_size": 51950591,
+  "files_count": 764,
+  "item_last_updated": 1665938733,
+  "item_size": 52259246,
   "metadata": {
     "identifier": "bosbizjournal-2022",
     "collection": [
@@ -7856,7 +7923,7 @@
     "addeddate": "2022-08-14 05:02:07"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 752561893,
+  "uniq": 723510013,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

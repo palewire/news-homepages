@@ -1,5 +1,5 @@
 {
-  "created": 1665897508,
+  "created": 1665941620,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/weeklycitizen-2022",
@@ -3178,31 +3178,93 @@
       "sha1": "11286482ed7acb10378ac155f4688d5539d95449"
     },
     {
+      "name": "weeklycitizen-2022-10-16T11:47:20.436225-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665938849",
+      "size": "20703",
+      "md5": "cd21ddd026cc0c81af4aba28355f8ade",
+      "crc32": "ba1ef048",
+      "sha1": "fd7d0f2ead61d0bfc814fb916fd077fe7f187210",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-16T11:47:20.436225-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665938851",
+      "size": "31091",
+      "md5": "83024ee6c0bbbfb1af8b1fe3f2491982",
+      "crc32": "db58f2fb",
+      "sha1": "c87f56552b3f01a7a91d546acd4785741873a5d0",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-16T11:47:20.436225-05:00.jpg",
+      "source": "original",
+      "mtime": "1665938848",
+      "size": "249622",
+      "md5": "9d2bfe60cee044f9a8df813fc075b1e9",
+      "crc32": "acd95099",
+      "sha1": "71187abd78f37441e70f479e83ed9afa90a173bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-16T11:47:20.436225-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665938853",
+      "size": "1521",
+      "md5": "61e90971144b465d1723374429474211",
+      "crc32": "1211db11",
+      "sha1": "85e36d6894b6a65655e05a5d70997f6a161d2c59",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-16T11:47:20.436225-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665938854",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-16T11:47:20.436225-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-16T11:47:20.436225-05:00.jpg",
+      "mtime": "1665938916",
+      "size": "8960",
+      "md5": "0da740a98d426ebb10bfa5619cd0ee5c",
+      "crc32": "0eec4608",
+      "sha1": "222f57b4fe2c86ca1477b19d34c0d651d6107940"
+    },
+    {
       "name": "weeklycitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c131a8de1de3fd0875efa6fea197905ee76356f",
-      "mtime": "1665897500",
-      "size": "67545",
-      "md5": "07cbee3390493cc6ba1b8a0358b92ffd",
-      "crc32": "86befcdc",
-      "sha1": "67a20790d42862e9efa3a07cd40e0d6ab8ba5ef8",
+      "btih": "2e1c202bb559633ce2ba633a57ff66df38d78b07",
+      "mtime": "1665938925",
+      "size": "68840",
+      "md5": "4999adbc9a7a48b67ab07e913f08d20e",
+      "crc32": "c0a95985",
+      "sha1": "5b284d3e94024b5c4b0446ed9091a5551b2fd0dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weeklycitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51b234e608d03ea5824aa65d8f799b4b",
+      "md5": "dc78c026ef394487d57d7ce08e558a25",
       "summation": "md5"
     },
     {
       "name": "weeklycitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665897442",
-      "size": "413696",
-      "md5": "b4ee8bff329e1af89ed9cad8dd958868",
-      "crc32": "802e2313",
-      "sha1": "37d5eb8674693fbd0d54497a1135f87ffdaaa2b8",
+      "mtime": "1665938859",
+      "size": "421888",
+      "md5": "7b00182e29edb4a8c0ac5a56f5c88123",
+      "crc32": "3e5039a2",
+      "sha1": "8cc8d4fa34dd8bf2c68297db0441512fc62f4b54",
       "format": "Metadata"
     },
     {
@@ -3216,9 +3278,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 311,
-  "item_last_updated": 1665897500,
-  "item_size": 20228784,
+  "files_count": 317,
+  "item_last_updated": 1665938925,
+  "item_size": 20550370,
   "metadata": {
     "identifier": "weeklycitizen-2022",
     "collection": [
@@ -3235,10 +3297,15 @@
     "publicdate": "2022-09-21 04:40:52",
     "addeddate": "2022-09-21 04:40:52"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 122621317,
+  "server": "ia801502.us.archive.org",
+  "uniq": 800157907,
+  "weeklycitizen-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }
