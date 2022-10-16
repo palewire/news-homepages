@@ -1,5 +1,5 @@
 {
-  "created": 1665899661,
+  "created": 1665946193,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/1/items/humansofny-2022",
@@ -10394,31 +10394,93 @@
       "sha1": "b1e473998ef56aa52f536c1177b722ab0fde0f1e"
     },
     {
+      "name": "humansofny-2022-10-16T13:25:04.226559-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941110",
+      "size": "2190",
+      "md5": "b7a06cba358058809e25269f89a3a0f4",
+      "crc32": "e44e264a",
+      "sha1": "5ac2d42dc30bcf3597b6c6081b5379a1a193406c",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-16T13:25:04.226559-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941111",
+      "size": "1366",
+      "md5": "bb681b85453068c6eea27cd4abc506ee",
+      "crc32": "fd3b4771",
+      "sha1": "dc8c692057797512255650d3221752b27a4b883e",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-16T13:25:04.226559-04:00.jpg",
+      "source": "original",
+      "mtime": "1665941109",
+      "size": "121005",
+      "md5": "de35608c51e0252d2ef4b416a0589db0",
+      "crc32": "8e0735d2",
+      "sha1": "a706cc4ad12f95d4de8b2edc5a1527b672ca8fcc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humansofny-2022-10-16T13:25:04.226559-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941112",
+      "size": "1540",
+      "md5": "e5334185f5baf6a39007d5c6006d9dfc",
+      "crc32": "49b6ab2d",
+      "sha1": "3bb01c1067b7fbfca1816de05533bb5a7bcf71ce",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-16T13:25:04.226559-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941114",
+      "size": "6599",
+      "md5": "83aa68c35b9fd7d24657061c301c27b5",
+      "crc32": "5eb0c086",
+      "sha1": "da0f2170789b34899ab658344ef00adb5e012850",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-16T13:25:04.226559-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "humansofny-2022-10-16T13:25:04.226559-04:00.jpg",
+      "mtime": "1665941188",
+      "size": "8469",
+      "md5": "367fe7ccea41a92a97cbc1202e2f5b56",
+      "crc32": "a7cd2e73",
+      "sha1": "8461049e78ec2733cfcdfd64e6f846dfa1f6a1e0"
+    },
+    {
       "name": "humansofny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49c359b8a5a5e47b5a0ef709301c0c2de44ea40e",
-      "mtime": "1665899649",
-      "size": "212785",
-      "md5": "423d5803382fbe81f3446c0fee820cf9",
-      "crc32": "107e77da",
-      "sha1": "f893f43fba40ab977cfa1efb8ab74a7b7d243c5e",
+      "btih": "02c892e4324cdaedb7145974f9e5b7a0b71efeb5",
+      "mtime": "1665941207",
+      "size": "214041",
+      "md5": "fbec634fce2a1d9005f7e76e09456d92",
+      "crc32": "24702fcd",
+      "sha1": "02a0d6de65b10d8e2d8706813f1ee9779e44b866",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humansofny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "671bf2ced31b96480567c2d1ae1b895b",
+      "md5": "8563e8b4230d34fc090155c7916e81c1",
       "summation": "md5"
     },
     {
       "name": "humansofny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665899561",
-      "size": "1286144",
-      "md5": "4fb1d0f310805bdd06abb1b00b32c2d0",
-      "crc32": "04ddd881",
-      "sha1": "e9ff6272733eb0f810906d2c09a6f3605e435289",
+      "mtime": "1665941120",
+      "size": "1290240",
+      "md5": "c78cdf1a4457b65d4bcbc062857c80dd",
+      "crc32": "834c4125",
+      "sha1": "0103b5333885947d801c0c508e802bb9702bb657",
       "format": "Metadata"
     },
     {
@@ -10432,9 +10494,80 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1008,
-  "item_last_updated": 1665899649,
-  "item_size": 29214669,
+  "files_count": 1014,
+  "humansofny-2022": {
+    "url": "https://www.humansofnewyork.com/",
+    "job_id": "spn2-72448f1250e6595cbf0389bd28862bd59aeeb727",
+    "resources": [
+      "https://www.humansofnewyork.com/",
+      "https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=0bd772b381d2ac0a037b611a2b7ede2e",
+      "https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd",
+      "https://static.tumblr.com/kyy2zy0/6YBokmh6k/storydata4.js",
+      "https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js",
+      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js",
+      "https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js",
+      "https://static.tumblr.com/kyy2zy0/jl3okmh5s/oldmain.js",
+      "https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=a6aa44adbf4ca7baf8fe0498120e2ffc",
+      "https://s3.amazonaws.com/tholman.com/hony/main.js",
+      "https://d3js.org/d3.geo.projection.v0.min.js",
+      "https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98",
+      "https://s3.amazonaws.com/tholman.com/hony/index.css",
+      "https://s3.amazonaws.com/tholman.com/hony/libs/font-spy.js",
+      "https://d3js.org/topojson.v1.min.js",
+      "https://d3js.org/d3.v3.min.js",
+      "https://s0.wp.com/wp-content/js/bilmur.min.js?m=202241",
+      "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062",
+      "https://connect.facebook.net/en_US/sdk.js",
+      "https://ssl.google-analytics.com/ga.js",
+      "https://s3.amazonaws.com/tholman.com/hony/img/series-1.jpg",
+      "https://static.tumblr.com/kyy2zy0/sDeoezoqu/hony_banner__1_.jpg",
+      "https://px.srvcs.tumblr.com/impixu?T=1665937596&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL3d3dy5odW1hbnNvZm5ld3lvcmsuY29tLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiLyJ9&U=KAHILJMIPL&K=176242f02c6a5d6a22c15690cf5f011e73fa1fdeda2b537f042c50f1c8e72ee3&R=",
+      "https://px.srvcs.tumblr.com/impixu?T=1665937596&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly93d3cuaHVtYW5zb2ZuZXd5b3JrLmNvbS8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii8iLCJwb3N0cyI6W3sicG9zdGlkIjoiNjk2Mzc5MzgxMzA4ODgyOTQ0IiwiYmxvZ2lkIjoxMjkyOTUxNCwic291cmNlIjozM30seyJwb3N0aWQiOiI2OTYwMzU1OTIxNzIxNDI1OTIiLCJibG9naWQiOjEyOTI5NTE0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjY5NjAyNTA3NDkwOTc0MTA1NiIsImJsb2dpZCI6MTI5Mjk1MTQsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjk2MDE3NTkwNDI5MDQwNjQwIiwiYmxvZ2lkIjoxMjkyOTUxNCwic291cmNlIjozM30seyJwb3N0aWQiOiI2OTYwMTE0MzMzMTU2MzExMDQiLCJibG9naWQiOjEyOTI5NTE0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjY5NjAwNDA3NTQ4NTA4NTY5NiIsImJsb2dpZCI6MTI5Mjk1MTQsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjkxNzM1MjY3MTkyODQ4Mzg0IiwiYmxvZ2lkIjoxMjkyOTUxNCwic291cmNlIjozM30seyJwb3N0aWQiOiI2OTE3MzIyODY0MjM2Mjk4MjQiLCJibG9naWQiOjEyOTI5NTE0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjY5MTcwMDIxODA5NzQ2NzM5MiIsImJsb2dpZCI6MTI5Mjk1MTQsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjkxNjk3MDU2MDY4Mjg4NTEyIiwiYmxvZ2lkIjoxMjkyOTUxNCwic291cmNlIjozM30seyJwb3N0aWQiOiI2OTE2OTQzMjExOTEyNTYwNjQiLCJibG9naWQiOjEyOTI5NTE0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjY5MTY5MTc1MzkxMjI4NzIzMiIsImJsb2dpZCI6MTI5Mjk1MTQsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiNjkxNjg4MzE3MjMxNzkyMTI4IiwiYmxvZ2lkIjoxMjkyOTUxNCwic291cmNlIjozM30seyJwb3N0aWQiOiI2OTE2ODI3MTQ5NTg2NDMyMDAiLCJibG9naWQiOjEyOTI5NTE0LCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjY5MTY4MDAxNzIzNDcwNjQzMiIsImJsb2dpZCI6MTI5Mjk1MTQsInNvdXJjZSI6MzN9XX0=&U=ILOAMOJNMM&K=73be4041f726212184cd668704456213a9352a45978235c72a741d7ac9625855&R=",
+      "https://pixel.wp.com/g.gif?v=tumblr&tid=3&rand=3194177&_ts=1665937599326&ref=https://www.humansofnewyork.com/",
+      "https://connect.facebook.net/en_US/sdk.js?hash=c55f3bbdd1b51ed1c47123e356876642",
+      "https://s3.amazonaws.com/tholman.com/hony/img/home-1.jpg",
+      "https://ssl.google-analytics.com/r/__utm.gif?utmwv=5.7.2&utms=1&utmn=671234184&utmhn=www.humansofnewyork.com&utmcs=UTF-8&utmsr=1600x1000&utmvp=1085x784&utmsc=24-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Humans of New York&utmhid=1262827621&utmr=-&utmp=/&utmht=1665937599426&utmac=UA-31987421-1&utmcc=__utma=116744991.1572741510.1665937599.1665937599.1665937599.1;+__utmz=116744991.1665937599.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none);&utmjid=662636409&utmredir=1&utmu=qAAAAAAAAAAAAAAAAAAAAAAE~",
+      "https://s3.amazonaws.com/tholman.com/hony/img/series-2.jpg",
+      "https://s3.amazonaws.com/tholman.com/hony/img/countries-2.jpg",
+      "https://s3.amazonaws.com/tholman.com/hony/img/home-2.jpg",
+      "https://s3.amazonaws.com/tholman.com/hony/img/countries-1.jpg",
+      "https://be1uo0y30d.execute-api.us-east-1.amazonaws.com/prod/data?limit=12&offset=0&callback=jQuery22005080876937713408_1665937596854&_=1665937596855",
+      "https://www.humansofnewyork.com/assets/scripts/tumblr/dashboard/showads.js",
+      "https://s3.amazonaws.com/tholman.com/hony/img/home-4.jpg",
+      "https://s3.amazonaws.com/tholman.com/hony/Merriweather-Regular.ttf",
+      "https://s3.amazonaws.com/tholman.com/hony/GT-Sectra-Display-Regular.ttf",
+      "https://s3.amazonaws.com/tholman.com/hony/img/series-3.jpg",
+      "https://s3.amazonaws.com/tholman.com/hony/img/home-3.jpg",
+      "https://s3.amazonaws.com/tholman.com/hony/Akzidenz-Grotesk-BQ-Bold-Condensed_2806.ttf",
+      "https://s3.amazonaws.com/tholman.com/hony/img/countries-4.jpg",
+      "https://s3.amazonaws.com/tholman.com/hony/GT-Sectra-Display-Light.ttf",
+      "https://s3.amazonaws.com/tholman.com/hony/img/book_corner.png",
+      "https://s3.amazonaws.com/tholman.com/hony/img/countries-3.jpg",
+      "https://s3.amazonaws.com/tholman.com/hony/img/series-4.jpg",
+      "https://www.facebook.com/v2.5/plugins/like.php?action=like&app_id=869885766467319&channel=https://staticxx.facebook.com/x/connect/xd_arbiter/?version=46#cb=f2103222a6a5718&domain=www.humansofnewyork.com&is_canvas=false&origin=https%3A%2F%2Fwww.humansofnewyork.com%2Ffc9a7b406e3344&relation=parent.parent&container_width=0&height=25&href=https://facebook.com/humansofnewyork&layout=standard&locale=en_US&sdk=joey&show_faces=false&width=380",
+      "https://64.media.tumblr.com/avatar_14754b8b29b0_128.pnj"
+    ],
+    "timestamp": "20221016162636",
+    "http_status": 200,
+    "outlinks": [
+      "https://www.humansofnewyork.com/series",
+      "https://www.humansofnewyork.com/countries",
+      "https://www.facebook.com/humansofnewyork/",
+      "https://www.humansofnewyork.com/about",
+      "https://www.instagram.com/humansofny",
+      "https://twitter.com/humansofny"
+    ],
+    "status": "success",
+    "counters": {
+      "outlinks": 6,
+      "embeds": 47
+    },
+    "original_url": "https://www.humansofnewyork.com/",
+    "duration_sec": 9.517,
+    "screenshot": "http://web.archive.org/screenshot/https://www.humansofnewyork.com/"
+  },
+  "item_last_updated": 1665941207,
+  "item_size": 29361190,
   "metadata": {
     "identifier": "humansofny-2022",
     "collection": [
@@ -10451,10 +10584,10 @@
     "publicdate": "2022-07-21 02:25:52",
     "addeddate": "2022-07-21 02:25:52"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1762463332,
+  "server": "ia601506.us.archive.org",
+  "uniq": 1408533110,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

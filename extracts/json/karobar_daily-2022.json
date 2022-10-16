@@ -1,5 +1,5 @@
 {
-  "created": 1665899834,
+  "created": 1665941273,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/31/items/karobar_daily-2022",
@@ -10110,31 +10110,93 @@
       "sha1": "a8b95971d55a1d8ae045efd6d42c8aff1ab9ac27"
     },
     {
+      "name": "karobar_daily-2022-10-16T23:10:59.239076+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1665941169",
+      "size": "73379",
+      "md5": "05106f5e9f36d57ff111beb0171cae5e",
+      "crc32": "ea55bc3a",
+      "sha1": "cbb12bc491517a466e5fbae50a4aad242b008ccb",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-10-16T23:10:59.239076+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941170",
+      "size": "46570",
+      "md5": "f2003778edf146bfc1a2f0caa254d3e2",
+      "crc32": "f0676f94",
+      "sha1": "0e50692b36c7422124ad346b055cc7b911c335a8",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-10-16T23:10:59.239076+05:45.jpg",
+      "source": "original",
+      "mtime": "1665941167",
+      "size": "238256",
+      "md5": "1cfe7ae24d17596f3cd515c69aacb18c",
+      "crc32": "af4b3859",
+      "sha1": "dccf462b1e7c02caf3211a9e9f57363a9acf5983",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "karobar_daily-2022-10-16T23:10:59.239076+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941172",
+      "size": "1512",
+      "md5": "6119f8d7ecd6bf7ceb8c51ee6b99ff77",
+      "crc32": "6f5fa161",
+      "sha1": "47ccff4b55406eb41d0dd116b0e1bd32b72fcc3e",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-10-16T23:10:59.239076+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1665941173",
+      "size": "15113",
+      "md5": "07ed312961a37235e0802d962cb51591",
+      "crc32": "44372af9",
+      "sha1": "b63cf68cba00e46b8b473798cf78028e24021f78",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-10-16T23:10:59.239076+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "karobar_daily-2022-10-16T23:10:59.239076+05:45.jpg",
+      "mtime": "1665941241",
+      "size": "9832",
+      "md5": "e63c12d9e77c215c127787fc8bb693de",
+      "crc32": "49bf2312",
+      "sha1": "c029d6513f835510ad0477f9e6d469722296f731"
+    },
+    {
       "name": "karobar_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1cfbb907fd3e925773eba54d3b62471774b7bbe2",
-      "mtime": "1665899821",
-      "size": "211794",
-      "md5": "edc80209630b0cdea1ae6af90b086809",
-      "crc32": "7107af28",
-      "sha1": "68873a943df60b9e467a662cbfebaae41004937d",
+      "btih": "b4b1d6fe20fc8acbe8f6352039f8b983a2712876",
+      "mtime": "1665941250",
+      "size": "213091",
+      "md5": "ab6e11a3f42a10eacf8fdb12aa04fefb",
+      "crc32": "aadf5480",
+      "sha1": "bb1d812005042325328c2ce535b87de63d7d9b70",
       "format": "Archive BitTorrent"
     },
     {
       "name": "karobar_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62734607c0bb80ff2bc92068c28a8770",
+      "md5": "24a95aa40fe39010fa822877e741ea75",
       "summation": "md5"
     },
     {
       "name": "karobar_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665899736",
-      "size": "1257472",
-      "md5": "5d323372ac3e51a3b3effa115bcd959d",
-      "crc32": "e4a0b205",
-      "sha1": "337c0c974e7e6a8695811d52bbb8997d972a0b31",
+      "mtime": "1665941178",
+      "size": "1265664",
+      "md5": "791281b62e879040d441cdbb004abace",
+      "crc32": "55408a35",
+      "sha1": "df08edda3f6a9f3c56a8c8e7f6918e9fbcd7e983",
       "format": "Metadata"
     },
     {
@@ -10148,9 +10210,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 981,
-  "item_last_updated": 1665899821,
-  "item_size": 62868754,
+  "files_count": 987,
+  "item_last_updated": 1665941250,
+  "item_size": 63262905,
   "metadata": {
     "identifier": "karobar_daily-2022",
     "collection": [
@@ -10168,7 +10230,7 @@
     "addeddate": "2022-07-24 20:37:59"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 526733885,
+  "uniq": 688122192,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

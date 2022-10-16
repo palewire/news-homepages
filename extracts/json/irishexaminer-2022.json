@@ -1,5 +1,5 @@
 {
-  "created": 1665899782,
+  "created": 1665941186,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/irishexaminer-2022",
@@ -10594,31 +10594,93 @@
       "sha1": "9b24806492ad99245b41ffa722c5b904c3fccee4"
     },
     {
+      "name": "irishexaminer-2022-10-16T18:24:29.918295+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941080",
+      "size": "33157",
+      "md5": "b532b3223a5d32f4077fa2dbed879568",
+      "crc32": "9074e134",
+      "sha1": "c15aa172283862b7f68cecb7452eda9216683e99",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-16T18:24:29.918295+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941081",
+      "size": "32621",
+      "md5": "2b6c975e0b3010dd6cb47cd5395006ae",
+      "crc32": "3e32d2d6",
+      "sha1": "88bb37f81a120a2ea4f941f299e6540fed403976",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-16T18:24:29.918295+01:00.jpg",
+      "source": "original",
+      "mtime": "1665941078",
+      "size": "306869",
+      "md5": "0746512a6cc814cd1ce0e1e2df478a34",
+      "crc32": "f2e71893",
+      "sha1": "c0cd1e5af84f9c3c721c5da537f913ef93f031ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishexaminer-2022-10-16T18:24:29.918295+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941083",
+      "size": "1522",
+      "md5": "400c58a8070c8e11a347d7a4a933a60d",
+      "crc32": "a8bf8d6c",
+      "sha1": "04d826cde07645aad9e3e483ed9182efb09eb21e",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-16T18:24:29.918295+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941085",
+      "size": "16584",
+      "md5": "f2d59b8109f4f702183849ee84add3f4",
+      "crc32": "8e0781b3",
+      "sha1": "a205a5cf3a5c9719c3fa6dcffd9dac3733385c14",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-16T18:24:29.918295+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishexaminer-2022-10-16T18:24:29.918295+01:00.jpg",
+      "mtime": "1665941157",
+      "size": "10136",
+      "md5": "9b15f895d6804b4ece5201cca2cbc65b",
+      "crc32": "3b0f5087",
+      "sha1": "f241aa600c29725ffdee618eaef41c0519fc8c4b"
+    },
+    {
       "name": "irishexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "142b098ac33573455b2229b98dbf58290b411efe",
-      "mtime": "1665899762",
-      "size": "222051",
-      "md5": "7fc789890db4e0293163eec297b45f92",
-      "crc32": "10211fa5",
-      "sha1": "c82ebab87b7039b0d8b55f752ca1563abb9b9a9d",
+      "btih": "eb84b075e1022331f11bda2d58294ae3864ce245",
+      "mtime": "1665941169",
+      "size": "223349",
+      "md5": "d5647d502192bbb510ff49b84cf2be09",
+      "crc32": "9d9995b9",
+      "sha1": "83714a0be69f5d0a10b573ffb1c685b2a0a6d8c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5f9dbc6558165693844280d784ae4997",
+      "md5": "44804ede5624f152ca22e15357b9406d",
       "summation": "md5"
     },
     {
       "name": "irishexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665899663",
-      "size": "1310720",
-      "md5": "cef17ba55286bb476567b34f16caa4ff",
-      "crc32": "0cfbf242",
-      "sha1": "094f97391aef7396c0d6a3a84d8655fa39544cc8",
+      "mtime": "1665941091",
+      "size": "1318912",
+      "md5": "284c8a798981ce9e81690ac869b34205",
+      "crc32": "8234a1a6",
+      "sha1": "7711913f42318b9a58fe96742c7d150052efa273",
       "format": "Metadata"
     },
     {
@@ -10632,9 +10694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1027,
-  "item_last_updated": 1665899762,
-  "item_size": 74099101,
+  "files_count": 1033,
+  "item_last_updated": 1665941169,
+  "item_size": 74509480,
   "metadata": {
     "identifier": "irishexaminer-2022",
     "collection": [
@@ -10652,7 +10714,7 @@
     "addeddate": "2022-07-18 02:23:56"
   },
   "server": "ia601509.us.archive.org",
-  "uniq": 1809289870,
+  "uniq": 391006022,
   "workable_servers": [
     "ia601509.us.archive.org",
     "ia801509.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665899692,
+  "created": 1665941171,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/independentmail-2022",
@@ -3240,31 +3240,93 @@
       "sha1": "5141be911d7bc23e7560b5c779cecc45264d87f3"
     },
     {
+      "name": "independentmail-2022-10-16T13:24:48.660261-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941092",
+      "size": "19671",
+      "md5": "bab5190202ebcc74c7f56cd265f0db62",
+      "crc32": "607d7f6e",
+      "sha1": "2a269c2d53f054211e806d047df16d6031fad01c",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-10-16T13:24:48.660261-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941093",
+      "size": "28800",
+      "md5": "e9d2725ae8cdfe041ff2182e851caebb",
+      "crc32": "1076e8d5",
+      "sha1": "d409fcbb793efbd9d77e1ecc9fd23061152e110c",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-10-16T13:24:48.660261-04:00.jpg",
+      "source": "original",
+      "mtime": "1665941090",
+      "size": "308509",
+      "md5": "6c7d0b667df858332e82aa59c3c4706a",
+      "crc32": "2a337152",
+      "sha1": "90875561a1d299e86164578bafc44163d41c9116",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independentmail-2022-10-16T13:24:48.660261-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941095",
+      "size": "1540",
+      "md5": "2b228a5597b8d662778a3ac3e2a788be",
+      "crc32": "c8d3854f",
+      "sha1": "5f795c17b74479f5d6bdac9963f089dd22242a3e",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-10-16T13:24:48.660261-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941097",
+      "size": "86632",
+      "md5": "36bcf449aede0075883f00f5cb79cad2",
+      "crc32": "a8d70dff",
+      "sha1": "560704f6fd6542ae9ec707c685480fbd485872d6",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-10-16T13:24:48.660261-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independentmail-2022-10-16T13:24:48.660261-04:00.jpg",
+      "mtime": "1665941159",
+      "size": "9316",
+      "md5": "fbd8a2e88389c53fe44f23a34315a1ce",
+      "crc32": "1fd8af11",
+      "sha1": "bc796b811749b442ab079a08f6c72dec9ac44e9c"
+    },
+    {
       "name": "independentmail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4710105ebcaa12309e4fb284cb7cbcec670944d",
-      "mtime": "1665899685",
-      "size": "69524",
-      "md5": "840fd9a95a54b1983e9443e3e4680bdd",
-      "crc32": "b9a19cb7",
-      "sha1": "0158785c859e7095248c9e2480e624552b3534b5",
+      "btih": "2acb534c22a97238545bc9eeecf0b61d20321da0",
+      "mtime": "1665941163",
+      "size": "70833",
+      "md5": "90ef9ccb45489b5396b8469d5bc2f8d9",
+      "crc32": "2972f571",
+      "sha1": "4c36b4c1e1b2a25c919b09396aaaa33a5cd55d0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "independentmail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cd9965199bca72c28b15689a47b3f24",
+      "md5": "cd3f2d6fa5e1d17d6ed246f13fba0b40",
       "summation": "md5"
     },
     {
       "name": "independentmail-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665899612",
-      "size": "421888",
-      "md5": "da52df1e809e272311e3c06bfa3b72e2",
-      "crc32": "8360c587",
-      "sha1": "3658881307747c97623f0b92f50186bf54d58a09",
+      "mtime": "1665941104",
+      "size": "430080",
+      "md5": "b4799947c539a264a56a710308c0515a",
+      "crc32": "10e37a36",
+      "sha1": "87e00d84080f32100a767a4eaef0c6b0b5a6ec2a",
       "format": "Metadata"
     },
     {
@@ -3278,9 +3340,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 317,
-  "item_last_updated": 1665899685,
-  "item_size": 21714604,
+  "files_count": 323,
+  "item_last_updated": 1665941163,
+  "item_size": 22178573,
   "metadata": {
     "identifier": "independentmail-2022",
     "collection": [
@@ -3297,10 +3359,10 @@
     "publicdate": "2022-09-20 17:30:12",
     "addeddate": "2022-09-20 17:30:12"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 2094500952,
+  "server": "ia601404.us.archive.org",
+  "uniq": 742184171,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665899963,
+  "created": 1665941379,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/metrowestdaily-2022",
@@ -3220,31 +3220,93 @@
       "sha1": "546b7409ef468ea07ac695da9243d53cf659d778"
     },
     {
+      "name": "metrowestdaily-2022-10-16T13:28:25.383694-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941311",
+      "size": "22099",
+      "md5": "9c38607b3bbfb8f9ebec0a6ab9c1bf7d",
+      "crc32": "00f4b484",
+      "sha1": "54466639359fafd8dbb30aee69732dfafb610813",
+      "format": "JSON"
+    },
+    {
+      "name": "metrowestdaily-2022-10-16T13:28:25.383694-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941312",
+      "size": "36570",
+      "md5": "728f0e7c577231f91884fb7fc5abafc0",
+      "crc32": "e6d2b6b6",
+      "sha1": "868b88b088cad4ee93fb53278819d081ca9808b9",
+      "format": "JSON"
+    },
+    {
+      "name": "metrowestdaily-2022-10-16T13:28:25.383694-04:00.jpg",
+      "source": "original",
+      "mtime": "1665941309",
+      "size": "276287",
+      "md5": "23a16f0bd50518ceaf0133a29fbe2635",
+      "crc32": "f24b9dbd",
+      "sha1": "766c566e078fe972041bbd8e8b4d23f502f4a913",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metrowestdaily-2022-10-16T13:28:25.383694-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941314",
+      "size": "1566",
+      "md5": "84a9d1afc960cc76a37816db882267aa",
+      "crc32": "a5242199",
+      "sha1": "b67c8e2388d078ad18a26054c88ef4c8a3302bb1",
+      "format": "JSON"
+    },
+    {
+      "name": "metrowestdaily-2022-10-16T13:28:25.383694-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941315",
+      "size": "77995",
+      "md5": "ca5ec389f3f8bd7301a1df9ff3e0810e",
+      "crc32": "5a8cd87b",
+      "sha1": "cdf633d1391b88b2131b31ef51590bb336e83deb",
+      "format": "JSON"
+    },
+    {
+      "name": "metrowestdaily-2022-10-16T13:28:25.383694-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metrowestdaily-2022-10-16T13:28:25.383694-04:00.jpg",
+      "mtime": "1665941366",
+      "size": "9354",
+      "md5": "fb9072c65f21cca4db357024c9b00eda",
+      "crc32": "a5003bbf",
+      "sha1": "f7f7fa44f0ecdc42dd4f25b0e1d8deec1c9adcad"
+    },
+    {
       "name": "metrowestdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49da3c7b7e2eca9e048449d4c6407c6d38f40f0d",
-      "mtime": "1665899956",
-      "size": "68741",
-      "md5": "982b019f488d4a70665a7bb3d59554b8",
-      "crc32": "9bcfe688",
-      "sha1": "99e2b4eff9b1f0aac941e14bbbecc1e6284e3046",
+      "btih": "840d4c50d3c3b657e037b579814bf57441043ace",
+      "mtime": "1665941370",
+      "size": "70044",
+      "md5": "6e4864d975f3adfd7dbd933e2f0837e5",
+      "crc32": "110c750d",
+      "sha1": "372195fd299647bc7e585f03901810c3ea400558",
       "format": "Archive BitTorrent"
     },
     {
       "name": "metrowestdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14cb110e101cdcdb0edf1526a3e3de51",
+      "md5": "a51a60b0ce5fa642e973c8179b5ae8a7",
       "summation": "md5"
     },
     {
       "name": "metrowestdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665899907",
-      "size": "417792",
-      "md5": "2910b390d966e58c494ae653def9866b",
-      "crc32": "c4a9122a",
-      "sha1": "b4f5f0a79e17fc3901178f27f3d230dc5a004c34",
+      "mtime": "1665941319",
+      "size": "425984",
+      "md5": "6fc4d5ba527aec1df1872a2740bac5fe",
+      "crc32": "6994117f",
+      "sha1": "588ed9bdfd92d5ff7958bf9b2b95ff7119e4e83a",
       "format": "Metadata"
     },
     {
@@ -3258,9 +3320,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 315,
-  "item_last_updated": 1665899956,
-  "item_size": 21315628,
+  "files_count": 321,
+  "item_last_updated": 1665941370,
+  "item_size": 21748994,
   "metadata": {
     "identifier": "metrowestdaily-2022",
     "collection": [
@@ -3278,7 +3340,7 @@
     "addeddate": "2022-09-20 17:35:39"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1342638966,
+  "uniq": 415933755,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

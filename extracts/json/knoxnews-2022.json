@@ -1,5 +1,5 @@
 {
-  "created": 1665899861,
+  "created": 1665946420,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/24/items/knoxnews-2022",
@@ -3158,31 +3158,93 @@
       "sha1": "7d31ecfabc2ab632b2c7b6afb36b8a9b862fc301"
     },
     {
+      "name": "knoxnews-2022-10-16T13:25:57.200153-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941160",
+      "size": "21166",
+      "md5": "e7a48db64cbf97eedd2c688b8076fd00",
+      "crc32": "3ef5265e",
+      "sha1": "093fe1f646795a654f8009a364ffc86e526c17ca",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-16T13:25:57.200153-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941162",
+      "size": "34848",
+      "md5": "7217a366070df95969b57e322ec23f50",
+      "crc32": "98eed001",
+      "sha1": "acebe3209e337871ef5135ab21ec4c886ee57ced",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-16T13:25:57.200153-04:00.jpg",
+      "source": "original",
+      "mtime": "1665941158",
+      "size": "262689",
+      "md5": "ad17fd589b978b731763762300737d81",
+      "crc32": "267b1430",
+      "sha1": "6dfe4756cbe36133b4ce77afab329a0fc53e20bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "knoxnews-2022-10-16T13:25:57.200153-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941163",
+      "size": "1477",
+      "md5": "bd81beb21e0d32e55da84bed4c32bfab",
+      "crc32": "cbe9bf1c",
+      "sha1": "91e686ce300a441b19650665772a701703c3cbd9",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-16T13:25:57.200153-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941165",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "knoxnews-2022-10-16T13:25:57.200153-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knoxnews-2022-10-16T13:25:57.200153-04:00.jpg",
+      "mtime": "1665941228",
+      "size": "9495",
+      "md5": "73caa046e7aa9f1e3fe9e9de16f9ec45",
+      "crc32": "e6162f5b",
+      "sha1": "8f9a135d2101c81c97837cd9b24667c21c5d848a"
+    },
+    {
       "name": "knoxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73e4e200937f5ad3b7e7c87ffef2b6710b5fcce4",
-      "mtime": "1665899841",
-      "size": "65540",
-      "md5": "6c8b7f7212c5808ca0bab6bc8552cb18",
-      "crc32": "85cf8199",
-      "sha1": "a4ac451b77e2a4570017d4d8a2eda8fb15ff1266",
+      "btih": "f8586573c0e781d636e26b802166fd052d9837cb",
+      "mtime": "1665941233",
+      "size": "66805",
+      "md5": "603a07d5af30dedd6d40b8a153c1e1c0",
+      "crc32": "f04f2879",
+      "sha1": "a64f1f7c1cbf5d6ff34cde6672f5016d03ed58a1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knoxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "efcb4154c70d6f160223555c3c358aff",
+      "md5": "e6d9cf58c92c20c98ca8fa7abb005766",
       "summation": "md5"
     },
     {
       "name": "knoxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665899780",
-      "size": "405504",
-      "md5": "58321510fe06637ff2cb4dc5a5d51152",
-      "crc32": "8bfea60f",
-      "sha1": "d88d5e7f1bd3f216882ea6e262cd0e0e6ae5adb6",
+      "mtime": "1665941171",
+      "size": "413696",
+      "md5": "711341f3e5d50c6f7e24778d29754e6c",
+      "crc32": "2b98120f",
+      "sha1": "e4663861c9fa324fe230bd228c7d43764b7e7457",
       "format": "Metadata"
     },
     {
@@ -3196,9 +3258,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 309,
-  "item_last_updated": 1665899841,
-  "item_size": 20309169,
+  "files_count": 315,
+  "item_last_updated": 1665941233,
+  "item_size": 20648503,
+  "knoxnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "knoxnews-2022",
     "collection": [
@@ -3215,10 +3282,10 @@
     "publicdate": "2022-09-20 17:32:06",
     "addeddate": "2022-09-20 17:32:06"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 1258062262,
+  "server": "ia801502.us.archive.org",
+  "uniq": 291939707,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }
