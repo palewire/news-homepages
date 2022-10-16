@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 324 screenshots with the Internet Archive.
+The archiving routine has saved 326 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-16T15:29:45.586567-04:00.jpg">
+  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-10-16T15:29:45.586567-04:00.jpg"
+     alt="Democracy Now! at 2022-10-16 15:29:47-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-16T15:29:45.586567-04:00.jpg">October 16 at 3:29 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-16T13:34:45.522303-04:00.jpg">
+  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-10-16T13:34:45.522303-04:00.jpg"
+     alt="Democracy Now! at 2022-10-16 13:35:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-16T13:34:45.522303-04:00.jpg">October 16 at 1:35 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-16T02:37:20.928562-04:00.jpg">
   <img src="https://archive.org/download/democracynow-2022/democracynow-2022-10-16T02:37:20.928562-04:00.jpg"
      alt="Democracy Now! at 2022-10-16 02:37:39-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-13T02:02:33.262953-04:00.jpg">October 13 at 2:02 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-12T15:27:39.085091-04:00.jpg">
-  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-10-12T15:27:39.085091-04:00.jpg"
-     alt="Democracy Now! at 2022-10-12 15:27:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-12T15:27:39.085091-04:00.jpg">October 12 at 3:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-12T13:30:17.360461-04:00.jpg">
-  <img src="https://archive.org/download/democracynow-2022/democracynow-2022-10-12T13:30:17.360461-04:00.jpg"
-     alt="Democracy Now! at 2022-10-12 13:30:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/democracynow-2022/democracynow-2022-10-12T13:30:17.360461-04:00.jpg">October 12 at 1:30 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 325 hyperlink lists with the Internet Archive.
+The archiving routine has saved 327 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 3:29 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-16T15:29:45.586567-04:00.hyperlinks.json) |
+| [October 16 at 1:35 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-16T13:34:45.522303-04:00.hyperlinks.json) |
 | [October 16 at 2:37 AM](https://archive.org/download/democracynow-2022/democracynow-2022-10-16T02:37:20.928562-04:00.hyperlinks.json) |
 | [October 15 at 3:59 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-15T15:59:17.946466-04:00.hyperlinks.json) |
 | [October 15 at 2:07 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-15T14:06:59.279581-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 3:49 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-14T15:49:24.849596-04:00.hyperlinks.json) |
 | [October 14 at 2:34 AM](https://archive.org/download/democracynow-2022/democracynow-2022-10-14T02:34:39.172424-04:00.hyperlinks.json) |
 | [October 13 at 4:21 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-13T16:21:32.705182-04:00.hyperlinks.json) |
-| [October 13 at 2:48 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-13T14:48:35.943873-04:00.hyperlinks.json) |
-| [October 13 at 2:02 AM](https://archive.org/download/democracynow-2022/democracynow-2022-10-13T02:02:33.262953-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 326 accessibility trees with the Internet Archive.
+The archiving routine has saved 328 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 3:29 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-16T15:29:45.586567-04:00.accessibility.json) |
+| [October 16 at 1:35 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-16T13:34:45.522303-04:00.accessibility.json) |
 | [October 16 at 2:37 AM](https://archive.org/download/democracynow-2022/democracynow-2022-10-16T02:37:20.928562-04:00.accessibility.json) |
 | [October 15 at 3:59 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-15T15:59:17.946466-04:00.accessibility.json) |
 | [October 15 at 2:07 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-15T14:06:59.279581-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 3:49 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-14T15:49:24.849596-04:00.accessibility.json) |
 | [October 14 at 2:34 AM](https://archive.org/download/democracynow-2022/democracynow-2022-10-14T02:34:39.172424-04:00.accessibility.json) |
 | [October 13 at 4:21 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-13T16:21:32.705182-04:00.accessibility.json) |
-| [October 13 at 2:48 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-13T14:48:35.943873-04:00.accessibility.json) |
-| [October 13 at 2:02 AM](https://archive.org/download/democracynow-2022/democracynow-2022-10-13T02:02:33.262953-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 246 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 248 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 3:29 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-16T15:29:45.586567-04:00.lighthouse.json) |
+| [October 16 at 1:35 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-16T13:34:45.522303-04:00.lighthouse.json) |
 | [October 16 at 2:37 AM](https://archive.org/download/democracynow-2022/democracynow-2022-10-16T02:37:20.928562-04:00.lighthouse.json) |
 | [October 15 at 3:59 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-15T15:59:17.946466-04:00.lighthouse.json) |
 | [October 15 at 2:07 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-15T14:06:59.279581-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 3:49 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-14T15:49:24.849596-04:00.lighthouse.json) |
 | [October 14 at 2:34 AM](https://archive.org/download/democracynow-2022/democracynow-2022-10-14T02:34:39.172424-04:00.lighthouse.json) |
 | [October 13 at 4:21 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-13T16:21:32.705182-04:00.lighthouse.json) |
-| [October 13 at 2:49 PM](https://archive.org/download/democracynow-2022/democracynow-2022-10-13T14:48:35.943873-04:00.lighthouse.json) |
-| [October 13 at 2:02 AM](https://archive.org/download/democracynow-2022/democracynow-2022-10-13T02:02:33.262953-04:00.lighthouse.json) |
 
 
 
