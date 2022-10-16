@@ -1,5 +1,5 @@
 {
-  "created": 1665897681,
+  "created": 1665921629,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/33/items/agenciabrasil-2022",
@@ -12892,31 +12892,82 @@
       "sha1": "8de8d8a481aa977152d0a63db3df509c40c476f5"
     },
     {
+      "name": "agenciabrasil-2022-10-16T08:59:13.644125-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665921556",
+      "size": "32466",
+      "md5": "93d918463d9c7f24945bedfbda64a60c",
+      "crc32": "f408ff26",
+      "sha1": "d406d02e214b011eee1137c50a23acd20fd9ab3f",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-10-16T08:59:13.644125-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665921557",
+      "size": "39809",
+      "md5": "4ad4c94afef0e1e1a5c93ed6be9f5f76",
+      "crc32": "216615f9",
+      "sha1": "937d375b685cd63b4edc63d06a1053cc9ad88a54",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-10-16T08:59:13.644125-03:00.jpg",
+      "source": "original",
+      "mtime": "1665921554",
+      "size": "244432",
+      "md5": "4e655feddb031706075451ffb7d1f5ca",
+      "crc32": "353b50df",
+      "sha1": "19ceb0aeca8d83796c473132bf8cd41b229e1f4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciabrasil-2022-10-16T08:59:13.644125-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665921558",
+      "size": "1548",
+      "md5": "2c4270ff2010dbb50689284759112008",
+      "crc32": "a418b406",
+      "sha1": "81a921f52cc9581009ab26fadbadd0ee55961134",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-10-16T08:59:13.644125-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665921561",
+      "size": "24166",
+      "md5": "4f4116526b6ba67a1586f64ea2cb25c4",
+      "crc32": "c4497e24",
+      "sha1": "77f1d279100de80e5c69c447ce6f76a8b0d2a2f5",
+      "format": "JSON"
+    },
+    {
       "name": "agenciabrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2beea4c85df1963c5db35559071893705b5fb12a",
-      "mtime": "1665897446",
-      "size": "269734",
-      "md5": "fcb3e538ee62f5b6b08f3a20fff2d183",
-      "crc32": "8d084ede",
-      "sha1": "6a8818d750ace36d1a007eb1d16f476b42b59780",
+      "btih": "07e79a2edd8f35d374f49669e1df3c159b58970b",
+      "mtime": "1665921619",
+      "size": "270822",
+      "md5": "17c29d60cf20191037c9913296fc0326",
+      "crc32": "95df131e",
+      "sha1": "e3a3a6af7cf21d078b62e92509dd927227000ca6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciabrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3036518ccefc949645f10e3a447ffe9",
+      "md5": "dd55e4818ccd1bf8193d4831be50def5",
       "summation": "md5"
     },
     {
       "name": "agenciabrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665897133",
-      "size": "1609728",
-      "md5": "374ef382d69f42c2e257093a305be530",
-      "crc32": "319691d5",
-      "sha1": "21101b6cfba602afb562fe16495f9c54258a9a78",
+      "mtime": "1665921567",
+      "size": "1617920",
+      "md5": "e98d72e49a9cd6ecb6d0acba1646062d",
+      "crc32": "986b357e",
+      "sha1": "644a9f68c0cf528428bddbdad313e0471a6ee805",
       "format": "Metadata"
     },
     {
@@ -12930,9 +12981,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1251,
-  "item_last_updated": 1665897446,
-  "item_size": 76665311,
+  "files_count": 1256,
+  "item_last_updated": 1665921619,
+  "item_size": 77017012,
   "metadata": {
     "identifier": "agenciabrasil-2022",
     "collection": [
@@ -12949,10 +13000,21 @@
     "publicdate": "2022-08-04 04:55:44",
     "addeddate": "2022-08-04 04:55:44"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 1533036641,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3442130011,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1824869052,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }
