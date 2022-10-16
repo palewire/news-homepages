@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 241 screenshots with the Internet Archive.
+The archiving routine has saved 243 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-15T22:51:58.028121-05:00.jpg">
+  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-10-15T22:51:58.028121-05:00.jpg"
+     alt="Texas Tribune at 2022-10-15 22:51:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-15T22:51:58.028121-05:00.jpg">October 15 at 10:51 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-15T10:08:53.715556-05:00.jpg">
+  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-10-15T10:08:53.715556-05:00.jpg"
+     alt="Texas Tribune at 2022-10-15 10:08:55-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-15T10:08:53.715556-05:00.jpg">October 15 at 10:08 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-14T22:50:45.896313-05:00.jpg">
   <img src="https://archive.org/download/texastribune-2022/texastribune-2022-10-14T22:50:45.896313-05:00.jpg"
      alt="Texas Tribune at 2022-10-14 22:50:48-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-10T10:15:50.127585-05:00.jpg">October 10 at 10:15 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-09T22:51:58.372385-05:00.jpg">
-  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-10-09T22:51:58.372385-05:00.jpg"
-     alt="Texas Tribune at 2022-10-09 22:52:03-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-09T22:51:58.372385-05:00.jpg">October 9 at 10:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-09T09:56:48.980706-05:00.jpg">
-  <img src="https://archive.org/download/texastribune-2022/texastribune-2022-10-09T09:56:48.980706-05:00.jpg"
-     alt="Texas Tribune at 2022-10-09 09:56:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/texastribune-2022/texastribune-2022-10-09T09:56:48.980706-05:00.jpg">October 9 at 9:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 243 hyperlink lists with the Internet Archive.
+The archiving routine has saved 245 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 10:52 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-15T22:51:58.028121-05:00.hyperlinks.json) |
+| [October 15 at 10:08 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-15T10:08:53.715556-05:00.hyperlinks.json) |
 | [October 14 at 10:50 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-14T22:50:45.896313-05:00.hyperlinks.json) |
 | [October 14 at 11:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-14T11:22:32.588952-05:00.hyperlinks.json) |
 | [October 13 at 10:49 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-13T22:49:47.817724-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 10:03 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-12T10:03:04.223638-05:00.hyperlinks.json) |
 | [October 11 at 10:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-11T22:50:44.467539-05:00.hyperlinks.json) |
 | [October 11 at 10:12 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-11T10:12:00.537291-05:00.hyperlinks.json) |
-| [October 10 at 10:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-10T22:51:44.260092-05:00.hyperlinks.json) |
-| [October 10 at 10:15 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-10T10:15:50.127585-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 243 accessibility trees with the Internet Archive.
+The archiving routine has saved 245 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 10:52 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-15T22:51:58.028121-05:00.accessibility.json) |
+| [October 15 at 10:08 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-15T10:08:53.715556-05:00.accessibility.json) |
 | [October 14 at 10:50 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-14T22:50:45.896313-05:00.accessibility.json) |
 | [October 14 at 11:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-14T11:22:32.588952-05:00.accessibility.json) |
 | [October 13 at 10:49 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-13T22:49:47.817724-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 10:03 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-12T10:03:04.223638-05:00.accessibility.json) |
 | [October 11 at 10:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-11T22:50:44.467539-05:00.accessibility.json) |
 | [October 11 at 10:12 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-11T10:12:00.537291-05:00.accessibility.json) |
-| [October 10 at 10:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-10T22:51:44.260092-05:00.accessibility.json) |
-| [October 10 at 10:15 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-10T10:15:50.127585-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 10:52 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-15T22:51:58.028121-05:00.lighthouse.json) |
+| [October 15 at 10:09 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-15T10:08:53.715556-05:00.lighthouse.json) |
 | [October 14 at 10:50 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-14T22:50:45.896313-05:00.lighthouse.json) |
 | [October 14 at 11:22 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-14T11:22:32.588952-05:00.lighthouse.json) |
 | [October 13 at 10:49 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-13T22:49:47.817724-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 10:03 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-12T10:03:04.223638-05:00.lighthouse.json) |
 | [October 11 at 10:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-11T22:50:44.467539-05:00.lighthouse.json) |
 | [October 11 at 10:12 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-11T10:12:00.537291-05:00.lighthouse.json) |
-| [October 10 at 10:51 PM](https://archive.org/download/texastribune-2022/texastribune-2022-10-10T22:51:44.260092-05:00.lighthouse.json) |
-| [October 10 at 10:15 AM](https://archive.org/download/texastribune-2022/texastribune-2022-10-10T10:15:50.127585-05:00.lighthouse.json) |
 
 
 

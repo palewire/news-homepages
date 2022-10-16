@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T23:55:32.647473-04:00.jpg">
+  <img src="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T23:55:32.647473-04:00.jpg"
+     alt="The Newport Daily News at 2022-10-15 23:55:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T23:55:32.647473-04:00.jpg">October 15 at 11:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T11:12:40.062274-04:00.jpg">
+  <img src="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T11:12:40.062274-04:00.jpg"
+     alt="The Newport Daily News at 2022-10-15 11:12:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T11:12:40.062274-04:00.jpg">October 15 at 11:12 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-14T23:54:05.941970-04:00.jpg">
   <img src="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-14T23:54:05.941970-04:00.jpg"
      alt="The Newport Daily News at 2022-10-14 23:54:11-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-10T11:22:31.489939-04:00.jpg">October 10 at 11:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-09T23:55:15.944075-04:00.jpg">
-  <img src="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-09T23:55:15.944075-04:00.jpg"
-     alt="The Newport Daily News at 2022-10-09 23:55:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-09T23:55:15.944075-04:00.jpg">October 9 at 11:55 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-09T10:59:19.723245-04:00.jpg">
-  <img src="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-09T10:59:19.723245-04:00.jpg"
-     alt="The Newport Daily News at 2022-10-09 10:59:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-09T10:59:19.723245-04:00.jpg">October 9 at 10:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 11:55 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T23:55:32.647473-04:00.hyperlinks.json) |
+| [October 15 at 11:12 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T11:12:40.062274-04:00.hyperlinks.json) |
 | [October 14 at 11:54 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-14T23:54:05.941970-04:00.hyperlinks.json) |
 | [October 14 at 12:25 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-14T12:25:36.442051-04:00.hyperlinks.json) |
 | [October 13 at 11:53 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-13T23:53:19.990472-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 11:05 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-12T11:05:29.698557-04:00.hyperlinks.json) |
 | [October 11 at 11:53 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-11T23:53:47.275588-04:00.hyperlinks.json) |
 | [October 11 at 11:14 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-11T11:14:31.720996-04:00.hyperlinks.json) |
-| [October 10 at 11:54 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-10T23:54:00.992434-04:00.hyperlinks.json) |
-| [October 10 at 11:22 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-10T11:22:31.489939-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 11:55 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T23:55:32.647473-04:00.accessibility.json) |
+| [October 15 at 11:12 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T11:12:40.062274-04:00.accessibility.json) |
 | [October 14 at 11:54 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-14T23:54:05.941970-04:00.accessibility.json) |
 | [October 14 at 12:25 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-14T12:25:36.442051-04:00.accessibility.json) |
 | [October 13 at 11:53 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-13T23:53:19.990472-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 11:05 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-12T11:05:29.698557-04:00.accessibility.json) |
 | [October 11 at 11:53 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-11T23:53:47.275588-04:00.accessibility.json) |
 | [October 11 at 11:14 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-11T11:14:31.720996-04:00.accessibility.json) |
-| [October 10 at 11:54 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-10T23:54:00.992434-04:00.accessibility.json) |
-| [October 10 at 11:22 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-10T11:22:31.489939-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 11:55 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T23:55:32.647473-04:00.lighthouse.json) |
+| [October 15 at 11:12 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-15T11:12:40.062274-04:00.lighthouse.json) |
 | [October 14 at 11:54 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-14T23:54:05.941970-04:00.lighthouse.json) |
 | [October 14 at 12:25 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-14T12:25:36.442051-04:00.lighthouse.json) |
 | [October 13 at 11:53 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-13T23:53:19.990472-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 11:05 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-12T11:05:29.698557-04:00.lighthouse.json) |
 | [October 11 at 11:53 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-11T23:53:47.275588-04:00.lighthouse.json) |
 | [October 11 at 11:14 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-11T11:14:31.720996-04:00.lighthouse.json) |
-| [October 10 at 11:54 PM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-10T23:54:00.992434-04:00.lighthouse.json) |
-| [October 10 at 11:22 AM](https://archive.org/download/thenewportdaily-2022/thenewportdaily-2022-10-10T11:22:31.489939-04:00.lighthouse.json) |
 
 
 

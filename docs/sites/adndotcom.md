@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 65 screenshots with the Internet Archive.
+The archiving routine has saved 67 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T21:12:04.670618-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T21:12:04.670618-08:00.jpg"
+     alt="Anchorage Daily News at 2022-10-15 21:12:06-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T21:12:04.670618-08:00.jpg">October 15 at 9:12 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T08:15:22.296319-08:00.jpg">
+  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T08:15:22.296319-08:00.jpg"
+     alt="Anchorage Daily News at 2022-10-15 08:15:26-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T08:15:22.296319-08:00.jpg">October 15 at 8:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-14T22:13:18.632012-08:00.jpg">
   <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-14T22:13:18.632012-08:00.jpg"
      alt="Anchorage Daily News at 2022-10-14 22:13:24-08:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-10T08:33:16.936603-08:00.jpg">October 10 at 8:33 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-09T22:20:03.189155-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-09T22:20:03.189155-08:00.jpg"
-     alt="Anchorage Daily News at 2022-10-09 22:20:07-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-09T22:20:03.189155-08:00.jpg">October 9 at 10:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-09T07:57:19.015745-08:00.jpg">
-  <img src="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-09T07:57:19.015745-08:00.jpg"
-     alt="Anchorage Daily News at 2022-10-09 07:57:23-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/adndotcom-2022/adndotcom-2022-10-09T07:57:19.015745-08:00.jpg">October 9 at 7:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 65 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 9:12 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T21:12:04.670618-08:00.hyperlinks.json) |
+| [October 15 at 8:15 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T08:15:22.296319-08:00.hyperlinks.json) |
 | [October 14 at 10:13 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-14T22:13:18.632012-08:00.hyperlinks.json) |
 | [October 14 at 8:32 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-14T08:32:21.159827-08:00.hyperlinks.json) |
 | [October 13 at 10:15 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-13T22:15:16.742677-08:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 7:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-12T07:57:47.359801-08:00.hyperlinks.json) |
 | [October 11 at 10:20 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-11T22:19:56.745568-08:00.hyperlinks.json) |
 | [October 11 at 8:12 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-11T08:11:49.870477-08:00.hyperlinks.json) |
-| [October 10 at 10:20 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-10T22:19:52.269438-08:00.hyperlinks.json) |
-| [October 10 at 8:33 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-10T08:33:16.936603-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 65 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 9:12 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T21:12:04.670618-08:00.accessibility.json) |
+| [October 15 at 8:15 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T08:15:22.296319-08:00.accessibility.json) |
 | [October 14 at 10:13 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-14T22:13:18.632012-08:00.accessibility.json) |
 | [October 14 at 8:32 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-14T08:32:21.159827-08:00.accessibility.json) |
 | [October 13 at 10:15 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-13T22:15:16.742677-08:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 7:57 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-12T07:57:47.359801-08:00.accessibility.json) |
 | [October 11 at 10:20 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-11T22:19:56.745568-08:00.accessibility.json) |
 | [October 11 at 8:12 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-11T08:11:49.870477-08:00.accessibility.json) |
-| [October 10 at 10:19 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-10T22:19:52.269438-08:00.accessibility.json) |
-| [October 10 at 8:33 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-10T08:33:16.936603-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 65 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 9:12 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T21:12:04.670618-08:00.lighthouse.json) |
+| [October 15 at 8:15 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-15T08:15:22.296319-08:00.lighthouse.json) |
 | [October 14 at 10:13 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-14T22:13:18.632012-08:00.lighthouse.json) |
 | [October 14 at 8:32 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-14T08:32:21.159827-08:00.lighthouse.json) |
 | [October 13 at 10:15 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-13T22:15:16.742677-08:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 7:58 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-12T07:57:47.359801-08:00.lighthouse.json) |
 | [October 11 at 10:20 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-11T22:19:56.745568-08:00.lighthouse.json) |
 | [October 11 at 8:12 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-11T08:11:49.870477-08:00.lighthouse.json) |
-| [October 10 at 10:20 PM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-10T22:19:52.269438-08:00.lighthouse.json) |
-| [October 10 at 8:33 AM](https://archive.org/download/adndotcom-2022/adndotcom-2022-10-10T08:33:16.936603-08:00.lighthouse.json) |
 
 
 

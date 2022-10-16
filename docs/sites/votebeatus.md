@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 269 screenshots with the Internet Archive.
+The archiving routine has saved 271 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-16T01:16:15.442620-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-16T01:16:15.442620-04:00.jpg"
+     alt="Votebeat at 2022-10-16 01:16:17-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-16T01:16:15.442620-04:00.jpg">October 16 at 1:16 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T12:23:49.011221-04:00.jpg">
+  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T12:23:49.011221-04:00.jpg"
+     alt="Votebeat at 2022-10-15 12:23:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T12:23:49.011221-04:00.jpg">October 15 at 12:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T02:19:45.311348-04:00.jpg">
   <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T02:19:45.311348-04:00.jpg"
      alt="Votebeat at 2022-10-15 02:19:56-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-10T12:40:33.078642-04:00.jpg">October 10 at 12:40 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-10T02:26:45.743566-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-10T02:26:45.743566-04:00.jpg"
-     alt="Votebeat at 2022-10-10 02:27:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-10T02:26:45.743566-04:00.jpg">October 10 at 2:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-09T12:01:57.596390-04:00.jpg">
-  <img src="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-09T12:01:57.596390-04:00.jpg"
-     alt="Votebeat at 2022-10-09 12:02:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/votebeatus-2022/votebeatus-2022-10-09T12:01:57.596390-04:00.jpg">October 9 at 12:02 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 271 hyperlink lists with the Internet Archive.
+The archiving routine has saved 273 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 1:16 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-16T01:16:15.442620-04:00.hyperlinks.json) |
+| [October 15 at 12:24 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T12:23:49.011221-04:00.hyperlinks.json) |
 | [October 15 at 2:20 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T02:19:45.311348-04:00.hyperlinks.json) |
 | [October 14 at 12:39 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-14T12:39:33.202345-04:00.hyperlinks.json) |
 | [October 14 at 2:21 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-14T02:21:12.346785-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 12:01 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-12T12:00:46.833939-04:00.hyperlinks.json) |
 | [October 12 at 2:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-12T02:26:09.521383-04:00.hyperlinks.json) |
 | [October 11 at 12:24 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-11T12:23:51.937491-04:00.hyperlinks.json) |
-| [October 11 at 2:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-11T02:26:37.319064-04:00.hyperlinks.json) |
-| [October 10 at 12:40 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-10T12:40:33.078642-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 271 accessibility trees with the Internet Archive.
+The archiving routine has saved 273 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 1:16 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-16T01:16:15.442620-04:00.accessibility.json) |
+| [October 15 at 12:23 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T12:23:49.011221-04:00.accessibility.json) |
 | [October 15 at 2:19 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T02:19:45.311348-04:00.accessibility.json) |
 | [October 14 at 12:39 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-14T12:39:33.202345-04:00.accessibility.json) |
 | [October 14 at 2:21 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-14T02:21:12.346785-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 12:01 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-12T12:00:46.833939-04:00.accessibility.json) |
 | [October 12 at 2:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-12T02:26:09.521383-04:00.accessibility.json) |
 | [October 11 at 12:24 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-11T12:23:51.937491-04:00.accessibility.json) |
-| [October 11 at 2:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-11T02:26:37.319064-04:00.accessibility.json) |
-| [October 10 at 12:40 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-10T12:40:33.078642-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 1:16 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-16T01:16:15.442620-04:00.lighthouse.json) |
+| [October 15 at 12:24 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T12:23:49.011221-04:00.lighthouse.json) |
 | [October 15 at 2:20 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-15T02:19:45.311348-04:00.lighthouse.json) |
 | [October 14 at 12:39 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-14T12:39:33.202345-04:00.lighthouse.json) |
 | [October 14 at 2:21 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-14T02:21:12.346785-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 12:01 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-12T12:00:46.833939-04:00.lighthouse.json) |
 | [October 12 at 2:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-12T02:26:09.521383-04:00.lighthouse.json) |
 | [October 11 at 12:24 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-11T12:23:51.937491-04:00.lighthouse.json) |
-| [October 11 at 2:26 AM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-11T02:26:37.319064-04:00.lighthouse.json) |
-| [October 10 at 12:40 PM](https://archive.org/download/votebeatus-2022/votebeatus-2022-10-10T12:40:33.078642-04:00.lighthouse.json) |
 
 
 

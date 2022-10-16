@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 130 screenshots with the Internet Archive.
+The archiving routine has saved 132 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-16T08:37:30.519390+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-16T08:37:30.519390+02:00.jpg"
+     alt="Der Spiegel at 2022-10-16 08:37:40+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-16T08:37:30.519390+02:00.jpg">October 16 at 8:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T20:06:47.983348+02:00.jpg">
+  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T20:06:47.983348+02:00.jpg"
+     alt="Der Spiegel at 2022-10-15 20:06:52+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T20:06:47.983348+02:00.jpg">October 15 at 8:06 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T08:34:45.819983+02:00.jpg">
   <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T08:34:45.819983+02:00.jpg"
      alt="Der Spiegel at 2022-10-15 08:34:50+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-10T20:57:56.541810+02:00.jpg">October 10 at 8:58 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-10T08:34:47.750973+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-10T08:34:47.750973+02:00.jpg"
-     alt="Der Spiegel at 2022-10-10 08:35:12+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-10T08:34:47.750973+02:00.jpg">October 10 at 8:35 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-09T19:45:27.540606+02:00.jpg">
-  <img src="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-09T19:45:27.540606+02:00.jpg"
-     alt="Der Spiegel at 2022-10-09 19:45:55+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/derspiegel-2022/derspiegel-2022-10-09T19:45:27.540606+02:00.jpg">October 9 at 7:45 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 131 hyperlink lists with the Internet Archive.
+The archiving routine has saved 133 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 8:37 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-16T08:37:30.519390+02:00.hyperlinks.json) |
+| [October 15 at 8:06 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T20:06:47.983348+02:00.hyperlinks.json) |
 | [October 15 at 8:34 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T08:34:45.819983+02:00.hyperlinks.json) |
 | [October 14 at 9:49 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-14T21:48:52.347097+02:00.hyperlinks.json) |
 | [October 14 at 8:38 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-14T08:37:58.531435+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 7:30 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-12T19:30:02.746737+02:00.hyperlinks.json) |
 | [October 12 at 8:41 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-12T08:41:45.419892+02:00.hyperlinks.json) |
 | [October 11 at 7:55 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-11T19:55:25.072319+02:00.hyperlinks.json) |
-| [October 11 at 8:45 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-11T08:45:41.462157+02:00.hyperlinks.json) |
-| [October 10 at 8:58 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-10T20:57:56.541810+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 131 accessibility trees with the Internet Archive.
+The archiving routine has saved 133 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 8:37 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-16T08:37:30.519390+02:00.accessibility.json) |
+| [October 15 at 8:06 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T20:06:47.983348+02:00.accessibility.json) |
 | [October 15 at 8:34 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T08:34:45.819983+02:00.accessibility.json) |
 | [October 14 at 9:49 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-14T21:48:52.347097+02:00.accessibility.json) |
 | [October 14 at 8:38 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-14T08:37:58.531435+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 7:30 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-12T19:30:02.746737+02:00.accessibility.json) |
 | [October 12 at 8:41 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-12T08:41:45.419892+02:00.accessibility.json) |
 | [October 11 at 7:55 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-11T19:55:25.072319+02:00.accessibility.json) |
-| [October 11 at 8:45 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-11T08:45:41.462157+02:00.accessibility.json) |
-| [October 10 at 8:58 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-10T20:57:56.541810+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 133 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 8:37 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-16T08:37:30.519390+02:00.lighthouse.json) |
+| [October 15 at 8:06 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T20:06:47.983348+02:00.lighthouse.json) |
 | [October 15 at 8:34 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-15T08:34:45.819983+02:00.lighthouse.json) |
 | [October 14 at 9:49 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-14T21:48:52.347097+02:00.lighthouse.json) |
 | [October 14 at 8:38 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-14T08:37:58.531435+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 7:30 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-12T19:30:02.746737+02:00.lighthouse.json) |
 | [October 12 at 8:41 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-12T08:41:45.419892+02:00.lighthouse.json) |
 | [October 11 at 7:55 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-11T19:55:25.072319+02:00.lighthouse.json) |
-| [October 11 at 8:45 AM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-11T08:45:41.462157+02:00.lighthouse.json) |
-| [October 10 at 8:58 PM](https://archive.org/download/derspiegel-2022/derspiegel-2022-10-10T20:57:56.541810+02:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 199 screenshots with the Internet Archive.
+The archiving routine has saved 201 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-16T02:34:44.760865-04:00.jpg">
+  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-16T02:34:44.760865-04:00.jpg"
+     alt="Connecticut Mirror at 2022-10-16 02:34:50-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-16T02:34:44.760865-04:00.jpg">October 16 at 2:34 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T14:03:59.725739-04:00.jpg">
+  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T14:03:59.725739-04:00.jpg"
+     alt="Connecticut Mirror at 2022-10-15 14:04:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T14:03:59.725739-04:00.jpg">October 15 at 2:04 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T02:31:47.169239-04:00.jpg">
   <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T02:31:47.169239-04:00.jpg"
      alt="Connecticut Mirror at 2022-10-15 02:31:53-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-10T14:55:18.599341-04:00.jpg">October 10 at 2:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-10T02:29:11.329707-04:00.jpg">
-  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-10T02:29:11.329707-04:00.jpg"
-     alt="Connecticut Mirror at 2022-10-10 02:29:40-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-10T02:29:11.329707-04:00.jpg">October 10 at 2:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-09T13:39:54.894772-04:00.jpg">
-  <img src="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-09T13:39:54.894772-04:00.jpg"
-     alt="Connecticut Mirror at 2022-10-09 13:39:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctmirror-2022/ctmirror-2022-10-09T13:39:54.894772-04:00.jpg">October 9 at 1:39 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 200 hyperlink lists with the Internet Archive.
+The archiving routine has saved 202 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 2:34 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-16T02:34:44.760865-04:00.hyperlinks.json) |
+| [October 15 at 2:04 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T14:03:59.725739-04:00.hyperlinks.json) |
 | [October 15 at 2:31 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T02:31:47.169239-04:00.hyperlinks.json) |
 | [October 14 at 3:46 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-14T15:46:42.453747-04:00.hyperlinks.json) |
 | [October 14 at 2:35 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-14T02:35:09.538960-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 1:27 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-12T13:26:50.476467-04:00.hyperlinks.json) |
 | [October 12 at 2:39 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-12T02:38:58.302663-04:00.hyperlinks.json) |
 | [October 11 at 1:49 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-11T13:49:29.508722-04:00.hyperlinks.json) |
-| [October 11 at 2:41 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-11T02:41:49.981591-04:00.hyperlinks.json) |
-| [October 10 at 2:55 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-10T14:55:18.599341-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 200 accessibility trees with the Internet Archive.
+The archiving routine has saved 202 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 2:34 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-16T02:34:44.760865-04:00.accessibility.json) |
+| [October 15 at 2:04 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T14:03:59.725739-04:00.accessibility.json) |
 | [October 15 at 2:31 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T02:31:47.169239-04:00.accessibility.json) |
 | [October 14 at 3:46 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-14T15:46:42.453747-04:00.accessibility.json) |
 | [October 14 at 2:35 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-14T02:35:09.538960-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 1:27 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-12T13:26:50.476467-04:00.accessibility.json) |
 | [October 12 at 2:39 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-12T02:38:58.302663-04:00.accessibility.json) |
 | [October 11 at 1:49 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-11T13:49:29.508722-04:00.accessibility.json) |
-| [October 11 at 2:41 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-11T02:41:49.981591-04:00.accessibility.json) |
-| [October 10 at 2:55 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-10T14:55:18.599341-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 2:34 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-16T02:34:44.760865-04:00.lighthouse.json) |
+| [October 15 at 2:04 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T14:03:59.725739-04:00.lighthouse.json) |
 | [October 15 at 2:31 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-15T02:31:47.169239-04:00.lighthouse.json) |
 | [October 14 at 3:46 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-14T15:46:42.453747-04:00.lighthouse.json) |
 | [October 14 at 2:35 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-14T02:35:09.538960-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 1:27 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-12T13:26:50.476467-04:00.lighthouse.json) |
 | [October 12 at 2:39 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-12T02:38:58.302663-04:00.lighthouse.json) |
 | [October 11 at 1:49 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-11T13:49:29.508722-04:00.lighthouse.json) |
-| [October 11 at 2:42 AM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-11T02:41:49.981591-04:00.lighthouse.json) |
-| [October 10 at 2:55 PM](https://archive.org/download/ctmirror-2022/ctmirror-2022-10-10T14:55:18.599341-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 167 screenshots with the Internet Archive.
+The archiving routine has saved 169 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-10-15T23:58:09.675609-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-10-15T23:58:09.675609-04:00.jpg"
+     alt="U.S. News & World Report at 2022-10-15 23:58:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-10-15T23:58:09.675609-04:00.jpg">October 15 at 11:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/usnews-2022/usnews-2022-10-15T11:15:25.858581-04:00.jpg">
+  <img src="https://archive.org/download/usnews-2022/usnews-2022-10-15T11:15:25.858581-04:00.jpg"
+     alt="U.S. News & World Report at 2022-10-15 11:15:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/usnews-2022/usnews-2022-10-15T11:15:25.858581-04:00.jpg">October 15 at 11:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/usnews-2022/usnews-2022-10-14T23:57:17.917383-04:00.jpg">
   <img src="https://archive.org/download/usnews-2022/usnews-2022-10-14T23:57:17.917383-04:00.jpg"
      alt="U.S. News & World Report at 2022-10-14 23:57:24-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/usnews-2022/usnews-2022-10-10T11:24:46.989197-04:00.jpg">October 10 at 11:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-10-09T23:58:25.189399-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-10-09T23:58:25.189399-04:00.jpg"
-     alt="U.S. News & World Report at 2022-10-09 23:58:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-10-09T23:58:25.189399-04:00.jpg">October 9 at 11:58 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/usnews-2022/usnews-2022-10-09T11:01:06.017363-04:00.jpg">
-  <img src="https://archive.org/download/usnews-2022/usnews-2022-10-09T11:01:06.017363-04:00.jpg"
-     alt="U.S. News & World Report at 2022-10-09 11:01:15-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/usnews-2022/usnews-2022-10-09T11:01:06.017363-04:00.jpg">October 9 at 11:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 167 hyperlink lists with the Internet Archive.
+The archiving routine has saved 169 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 11:58 PM](https://archive.org/download/usnews-2022/usnews-2022-10-15T23:58:09.675609-04:00.hyperlinks.json) |
+| [October 15 at 11:15 AM](https://archive.org/download/usnews-2022/usnews-2022-10-15T11:15:25.858581-04:00.hyperlinks.json) |
 | [October 14 at 11:57 PM](https://archive.org/download/usnews-2022/usnews-2022-10-14T23:57:17.917383-04:00.hyperlinks.json) |
 | [October 14 at 12:29 PM](https://archive.org/download/usnews-2022/usnews-2022-10-14T12:28:58.800262-04:00.hyperlinks.json) |
 | [October 13 at 11:56 PM](https://archive.org/download/usnews-2022/usnews-2022-10-13T23:55:53.476733-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 11:07 AM](https://archive.org/download/usnews-2022/usnews-2022-10-12T11:07:45.217375-04:00.hyperlinks.json) |
 | [October 11 at 11:57 PM](https://archive.org/download/usnews-2022/usnews-2022-10-11T23:56:53.799085-04:00.hyperlinks.json) |
 | [October 11 at 11:17 AM](https://archive.org/download/usnews-2022/usnews-2022-10-11T11:17:23.390311-04:00.hyperlinks.json) |
-| [October 10 at 11:57 PM](https://archive.org/download/usnews-2022/usnews-2022-10-10T23:57:28.895979-04:00.hyperlinks.json) |
-| [October 10 at 11:24 AM](https://archive.org/download/usnews-2022/usnews-2022-10-10T11:24:46.989197-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 168 accessibility trees with the Internet Archive.
+The archiving routine has saved 170 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 11:58 PM](https://archive.org/download/usnews-2022/usnews-2022-10-15T23:58:09.675609-04:00.accessibility.json) |
+| [October 15 at 11:15 AM](https://archive.org/download/usnews-2022/usnews-2022-10-15T11:15:25.858581-04:00.accessibility.json) |
 | [October 14 at 11:57 PM](https://archive.org/download/usnews-2022/usnews-2022-10-14T23:57:17.917383-04:00.accessibility.json) |
 | [October 14 at 12:29 PM](https://archive.org/download/usnews-2022/usnews-2022-10-14T12:28:58.800262-04:00.accessibility.json) |
 | [October 13 at 11:56 PM](https://archive.org/download/usnews-2022/usnews-2022-10-13T23:55:53.476733-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 11:07 AM](https://archive.org/download/usnews-2022/usnews-2022-10-12T11:07:45.217375-04:00.accessibility.json) |
 | [October 11 at 11:57 PM](https://archive.org/download/usnews-2022/usnews-2022-10-11T23:56:53.799085-04:00.accessibility.json) |
 | [October 11 at 11:17 AM](https://archive.org/download/usnews-2022/usnews-2022-10-11T11:17:23.390311-04:00.accessibility.json) |
-| [October 10 at 11:57 PM](https://archive.org/download/usnews-2022/usnews-2022-10-10T23:57:28.895979-04:00.accessibility.json) |
-| [October 10 at 11:24 AM](https://archive.org/download/usnews-2022/usnews-2022-10-10T11:24:46.989197-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 11:58 PM](https://archive.org/download/usnews-2022/usnews-2022-10-15T23:58:09.675609-04:00.lighthouse.json) |
+| [October 15 at 11:15 AM](https://archive.org/download/usnews-2022/usnews-2022-10-15T11:15:25.858581-04:00.lighthouse.json) |
 | [October 14 at 11:57 PM](https://archive.org/download/usnews-2022/usnews-2022-10-14T23:57:17.917383-04:00.lighthouse.json) |
 | [October 14 at 12:29 PM](https://archive.org/download/usnews-2022/usnews-2022-10-14T12:28:58.800262-04:00.lighthouse.json) |
 | [October 13 at 11:56 PM](https://archive.org/download/usnews-2022/usnews-2022-10-13T23:55:53.476733-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 11:07 AM](https://archive.org/download/usnews-2022/usnews-2022-10-12T11:07:45.217375-04:00.lighthouse.json) |
 | [October 11 at 11:57 PM](https://archive.org/download/usnews-2022/usnews-2022-10-11T23:56:53.799085-04:00.lighthouse.json) |
 | [October 11 at 11:17 AM](https://archive.org/download/usnews-2022/usnews-2022-10-11T11:17:23.390311-04:00.lighthouse.json) |
-| [October 10 at 11:57 PM](https://archive.org/download/usnews-2022/usnews-2022-10-10T23:57:28.895979-04:00.lighthouse.json) |
-| [October 10 at 11:24 AM](https://archive.org/download/usnews-2022/usnews-2022-10-10T11:24:46.989197-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 49 screenshots with the Internet Archive.
+The archiving routine has saved 51 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T22:58:27.693456-05:00.jpg">
+  <img src="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T22:58:27.693456-05:00.jpg"
+     alt="Southwest Times Record at 2022-10-15 22:58:29-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T22:58:27.693456-05:00.jpg">October 15 at 10:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T10:15:30.415209-05:00.jpg">
+  <img src="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T10:15:30.415209-05:00.jpg"
+     alt="Southwest Times Record at 2022-10-15 10:15:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T10:15:30.415209-05:00.jpg">October 15 at 10:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-14T22:57:01.271118-05:00.jpg">
   <img src="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-14T22:57:01.271118-05:00.jpg"
      alt="Southwest Times Record at 2022-10-14 22:57:04-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-10T10:24:36.716786-05:00.jpg">October 10 at 10:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-09T22:57:53.344657-05:00.jpg">
-  <img src="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-09T22:57:53.344657-05:00.jpg"
-     alt="Southwest Times Record at 2022-10-09 22:57:56-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-09T22:57:53.344657-05:00.jpg">October 9 at 10:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-09T10:01:39.882309-05:00.jpg">
-  <img src="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-09T10:01:39.882309-05:00.jpg"
-     alt="Southwest Times Record at 2022-10-09 10:01:42-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/timesrecord-2022/timesrecord-2022-10-09T10:01:39.882309-05:00.jpg">October 9 at 10:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 49 hyperlink lists with the Internet Archive.
+The archiving routine has saved 51 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 10:58 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T22:58:27.693456-05:00.hyperlinks.json) |
+| [October 15 at 10:15 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T10:15:30.415209-05:00.hyperlinks.json) |
 | [October 14 at 10:57 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-14T22:57:01.271118-05:00.hyperlinks.json) |
 | [October 14 at 11:26 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-14T11:25:56.929563-05:00.hyperlinks.json) |
 | [October 13 at 10:55 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-13T22:55:51.776473-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 10:08 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-12T10:08:30.525288-05:00.hyperlinks.json) |
 | [October 11 at 10:57 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-11T22:57:00.520563-05:00.hyperlinks.json) |
 | [October 11 at 10:16 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-11T10:16:19.090422-05:00.hyperlinks.json) |
-| [October 10 at 10:57 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-10T22:57:08.565119-05:00.hyperlinks.json) |
-| [October 10 at 10:24 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-10T10:24:36.716786-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 49 accessibility trees with the Internet Archive.
+The archiving routine has saved 51 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 10:58 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T22:58:27.693456-05:00.accessibility.json) |
+| [October 15 at 10:15 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T10:15:30.415209-05:00.accessibility.json) |
 | [October 14 at 10:57 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-14T22:57:01.271118-05:00.accessibility.json) |
 | [October 14 at 11:26 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-14T11:25:56.929563-05:00.accessibility.json) |
 | [October 13 at 10:55 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-13T22:55:51.776473-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 10:08 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-12T10:08:30.525288-05:00.accessibility.json) |
 | [October 11 at 10:57 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-11T22:57:00.520563-05:00.accessibility.json) |
 | [October 11 at 10:16 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-11T10:16:19.090422-05:00.accessibility.json) |
-| [October 10 at 10:57 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-10T22:57:08.565119-05:00.accessibility.json) |
-| [October 10 at 10:24 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-10T10:24:36.716786-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 49 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 51 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 10:58 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T22:58:27.693456-05:00.lighthouse.json) |
+| [October 15 at 10:15 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-15T10:15:30.415209-05:00.lighthouse.json) |
 | [October 14 at 10:57 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-14T22:57:01.271118-05:00.lighthouse.json) |
 | [October 14 at 11:26 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-14T11:25:56.929563-05:00.lighthouse.json) |
 | [October 13 at 10:56 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-13T22:55:51.776473-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 10:08 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-12T10:08:30.525288-05:00.lighthouse.json) |
 | [October 11 at 10:57 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-11T22:57:00.520563-05:00.lighthouse.json) |
 | [October 11 at 10:16 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-11T10:16:19.090422-05:00.lighthouse.json) |
-| [October 10 at 10:57 PM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-10T22:57:08.565119-05:00.lighthouse.json) |
-| [October 10 at 10:24 AM](https://archive.org/download/timesrecord-2022/timesrecord-2022-10-10T10:24:36.716786-05:00.lighthouse.json) |
 
 
 
