@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 166 screenshots with the Internet Archive.
+The archiving routine has saved 167 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 166 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-16T04:46:13.516927+05:45.jpg">
+  <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-16T04:46:13.516927+05:45.jpg"
+     alt="Annapurna Post at 2022-10-16 04:46:23+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-16T04:46:13.516927+05:45.jpg">October 16 at 4:46 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-15T16:38:08.703398+05:45.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-10T16:45:32.252932+05:45.jpg">October 10 at 4:45 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-10T04:33:47.046478+05:45.jpg">
-  <img src="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-10T04:33:47.046478+05:45.jpg"
-     alt="Annapurna Post at 2022-10-10 04:34:06+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-10T04:33:47.046478+05:45.jpg">October 10 at 4:34 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 166 hyperlink lists with the Internet Archive.
+The archiving routine has saved 167 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 4:46 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-16T04:46:13.516927+05:45.hyperlinks.json) |
 | [October 15 at 4:38 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-15T16:38:08.703398+05:45.hyperlinks.json) |
 | [October 15 at 4:47 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-15T04:47:36.101469+05:45.hyperlinks.json) |
 | [October 14 at 4:41 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-14T16:40:49.347213+05:45.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 4:41 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-12T16:41:06.747428+05:45.hyperlinks.json) |
 | [October 12 at 4:44 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-12T04:44:07.111954+05:45.hyperlinks.json) |
 | [October 11 at 4:42 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-11T16:42:31.164458+05:45.hyperlinks.json) |
-| [October 11 at 4:46 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-11T04:46:18.546282+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 166 accessibility trees with the Internet Archive.
+The archiving routine has saved 167 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 4:46 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-16T04:46:13.516927+05:45.accessibility.json) |
 | [October 15 at 4:38 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-15T16:38:08.703398+05:45.accessibility.json) |
 | [October 15 at 4:47 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-15T04:47:36.101469+05:45.accessibility.json) |
 | [October 14 at 4:41 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-14T16:40:49.347213+05:45.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 4:41 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-12T16:41:06.747428+05:45.accessibility.json) |
 | [October 12 at 4:44 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-12T04:44:07.111954+05:45.accessibility.json) |
 | [October 11 at 4:42 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-11T16:42:31.164458+05:45.accessibility.json) |
-| [October 11 at 4:46 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-11T04:46:18.546282+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 168 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 4:46 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-16T04:46:13.516927+05:45.lighthouse.json) |
 | [October 15 at 4:38 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-15T16:38:08.703398+05:45.lighthouse.json) |
 | [October 15 at 4:47 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-15T04:47:36.101469+05:45.lighthouse.json) |
 | [October 14 at 4:41 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-14T16:40:49.347213+05:45.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 4:41 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-12T16:41:06.747428+05:45.lighthouse.json) |
 | [October 12 at 4:44 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-12T04:44:07.111954+05:45.lighthouse.json) |
 | [October 11 at 4:42 PM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-11T16:42:31.164458+05:45.lighthouse.json) |
-| [October 11 at 4:46 AM](https://archive.org/download/annapurna_post-2022/annapurna_post-2022-10-11T04:46:18.546282+05:45.lighthouse.json) |
 
 
 

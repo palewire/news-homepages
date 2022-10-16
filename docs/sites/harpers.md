@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 240 screenshots with the Internet Archive.
+The archiving routine has saved 241 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 240 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/harpers-2022/harpers-2022-10-15T20:10:33.456346-04:00.jpg">
+  <img src="https://archive.org/download/harpers-2022/harpers-2022-10-15T20:10:33.456346-04:00.jpg"
+     alt="Harper’s at 2022-10-15 20:10:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/harpers-2022/harpers-2022-10-15T20:10:33.456346-04:00.jpg">October 15 at 8:10 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/harpers-2022/harpers-2022-10-15T08:02:49.612086-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/harpers-2022/harpers-2022-10-10T08:32:07.409176-04:00.jpg">October 10 at 8:32 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/harpers-2022/harpers-2022-10-09T19:49:05.038484-04:00.jpg">
-  <img src="https://archive.org/download/harpers-2022/harpers-2022-10-09T19:49:05.038484-04:00.jpg"
-     alt="Harper’s at 2022-10-09 19:49:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/harpers-2022/harpers-2022-10-09T19:49:05.038484-04:00.jpg">October 9 at 7:49 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 242 hyperlink lists with the Internet Archive.
+The archiving routine has saved 243 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 8:11 PM](https://archive.org/download/harpers-2022/harpers-2022-10-15T20:10:33.456346-04:00.hyperlinks.json) |
 | [October 15 at 8:03 AM](https://archive.org/download/harpers-2022/harpers-2022-10-15T08:02:49.612086-04:00.hyperlinks.json) |
 | [October 14 at 8:14 PM](https://archive.org/download/harpers-2022/harpers-2022-10-14T20:13:59.795539-04:00.hyperlinks.json) |
 | [October 14 at 8:06 AM](https://archive.org/download/harpers-2022/harpers-2022-10-14T08:06:21.678283-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 8:04 AM](https://archive.org/download/harpers-2022/harpers-2022-10-12T08:04:07.419311-04:00.hyperlinks.json) |
 | [October 11 at 8:01 PM](https://archive.org/download/harpers-2022/harpers-2022-10-11T20:01:30.235230-04:00.hyperlinks.json) |
 | [October 11 at 8:08 AM](https://archive.org/download/harpers-2022/harpers-2022-10-11T08:08:23.892465-04:00.hyperlinks.json) |
-| [October 10 at 8:11 PM](https://archive.org/download/harpers-2022/harpers-2022-10-10T20:10:52.715903-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 242 accessibility trees with the Internet Archive.
+The archiving routine has saved 243 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 8:10 PM](https://archive.org/download/harpers-2022/harpers-2022-10-15T20:10:33.456346-04:00.accessibility.json) |
 | [October 15 at 8:03 AM](https://archive.org/download/harpers-2022/harpers-2022-10-15T08:02:49.612086-04:00.accessibility.json) |
 | [October 14 at 8:14 PM](https://archive.org/download/harpers-2022/harpers-2022-10-14T20:13:59.795539-04:00.accessibility.json) |
 | [October 14 at 8:06 AM](https://archive.org/download/harpers-2022/harpers-2022-10-14T08:06:21.678283-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 8:04 AM](https://archive.org/download/harpers-2022/harpers-2022-10-12T08:04:07.419311-04:00.accessibility.json) |
 | [October 11 at 8:01 PM](https://archive.org/download/harpers-2022/harpers-2022-10-11T20:01:30.235230-04:00.accessibility.json) |
 | [October 11 at 8:08 AM](https://archive.org/download/harpers-2022/harpers-2022-10-11T08:08:23.892465-04:00.accessibility.json) |
-| [October 10 at 8:11 PM](https://archive.org/download/harpers-2022/harpers-2022-10-10T20:10:52.715903-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 8:11 PM](https://archive.org/download/harpers-2022/harpers-2022-10-15T20:10:33.456346-04:00.lighthouse.json) |
 | [October 15 at 8:03 AM](https://archive.org/download/harpers-2022/harpers-2022-10-15T08:02:49.612086-04:00.lighthouse.json) |
 | [October 14 at 8:14 PM](https://archive.org/download/harpers-2022/harpers-2022-10-14T20:13:59.795539-04:00.lighthouse.json) |
 | [October 14 at 8:06 AM](https://archive.org/download/harpers-2022/harpers-2022-10-14T08:06:21.678283-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 8:04 AM](https://archive.org/download/harpers-2022/harpers-2022-10-12T08:04:07.419311-04:00.lighthouse.json) |
 | [October 11 at 8:01 PM](https://archive.org/download/harpers-2022/harpers-2022-10-11T20:01:30.235230-04:00.lighthouse.json) |
 | [October 11 at 8:08 AM](https://archive.org/download/harpers-2022/harpers-2022-10-11T08:08:23.892465-04:00.lighthouse.json) |
-| [October 10 at 8:11 PM](https://archive.org/download/harpers-2022/harpers-2022-10-10T20:10:52.715903-04:00.lighthouse.json) |
 
 
 

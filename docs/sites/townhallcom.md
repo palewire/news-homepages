@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 260 screenshots with the Internet Archive.
+The archiving routine has saved 262 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T16:04:14.970792-04:00.jpg">
+  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T16:04:14.970792-04:00.jpg"
+     alt="Townhall at 2022-10-15 16:04:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T16:04:14.970792-04:00.jpg">October 15 at 4:04 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T15:54:17.548496-04:00.jpg">
+  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T15:54:17.548496-04:00.jpg"
+     alt="Townhall at 2022-10-15 15:54:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T15:54:17.548496-04:00.jpg">October 15 at 3:54 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T03:58:13.642761-04:00.jpg">
   <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T03:58:13.642761-04:00.jpg"
      alt="Townhall at 2022-10-15 03:58:15-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T04:12:12.564652-04:00.jpg">October 12 at 4:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-11T15:52:36.521828-04:00.jpg">
-  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-11T15:52:36.521828-04:00.jpg"
-     alt="Townhall at 2022-10-11 15:52:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-11T15:52:36.521828-04:00.jpg">October 11 at 3:52 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-11T15:19:41.562550-04:00.jpg">
-  <img src="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-11T15:19:41.562550-04:00.jpg"
-     alt="Townhall at 2022-10-11 15:19:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/townhallcom-2022/townhallcom-2022-10-11T15:19:41.562550-04:00.jpg">October 11 at 3:19 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 256 hyperlink lists with the Internet Archive.
+The archiving routine has saved 258 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 4:04 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T16:04:14.970792-04:00.hyperlinks.json) |
+| [October 15 at 3:54 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T15:54:17.548496-04:00.hyperlinks.json) |
 | [October 15 at 3:58 AM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T03:58:13.642761-04:00.hyperlinks.json) |
 | [October 14 at 4:45 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-14T16:45:15.581337-04:00.hyperlinks.json) |
 | [October 14 at 4:33 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-14T16:33:38.622903-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 4:18 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-13T16:18:31.064597-04:00.hyperlinks.json) |
 | [October 13 at 3:28 AM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-13T03:28:12.877394-04:00.hyperlinks.json) |
 | [October 12 at 3:32 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T15:32:00.703322-04:00.hyperlinks.json) |
-| [October 12 at 2:51 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T14:50:55.677080-04:00.hyperlinks.json) |
-| [October 12 at 4:12 AM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T04:12:12.564652-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 260 accessibility trees with the Internet Archive.
+The archiving routine has saved 262 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 4:04 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T16:04:14.970792-04:00.accessibility.json) |
+| [October 15 at 3:54 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T15:54:17.548496-04:00.accessibility.json) |
 | [October 15 at 3:58 AM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T03:58:13.642761-04:00.accessibility.json) |
 | [October 14 at 4:45 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-14T16:45:15.581337-04:00.accessibility.json) |
 | [October 14 at 4:33 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-14T16:33:38.622903-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 4:18 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-13T16:18:31.064597-04:00.accessibility.json) |
 | [October 13 at 3:28 AM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-13T03:28:12.877394-04:00.accessibility.json) |
 | [October 12 at 3:32 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T15:32:00.703322-04:00.accessibility.json) |
-| [October 12 at 2:50 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T14:50:55.677080-04:00.accessibility.json) |
-| [October 12 at 4:12 AM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T04:12:12.564652-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 244 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 246 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 4:04 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T16:04:14.970792-04:00.lighthouse.json) |
+| [October 15 at 3:54 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T15:54:17.548496-04:00.lighthouse.json) |
 | [October 15 at 3:58 AM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-15T03:58:13.642761-04:00.lighthouse.json) |
 | [October 14 at 4:45 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-14T16:45:15.581337-04:00.lighthouse.json) |
 | [October 14 at 4:33 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-14T16:33:38.622903-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 4:18 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-13T16:18:31.064597-04:00.lighthouse.json) |
 | [October 13 at 3:28 AM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-13T03:28:12.877394-04:00.lighthouse.json) |
 | [October 12 at 3:32 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T15:32:00.703322-04:00.lighthouse.json) |
-| [October 12 at 2:51 PM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T14:50:55.677080-04:00.lighthouse.json) |
-| [October 12 at 4:12 AM](https://archive.org/download/townhallcom-2022/townhallcom-2022-10-12T04:12:12.564652-04:00.lighthouse.json) |
 
 
 

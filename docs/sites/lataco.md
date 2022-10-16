@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 289 screenshots with the Internet Archive.
+The archiving routine has saved 290 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 289 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lataco-2022/lataco-2022-10-15T13:01:29.667839-07:00.jpg">
+  <img src="https://archive.org/download/lataco-2022/lataco-2022-10-15T13:01:29.667839-07:00.jpg"
+     alt="L.A. Taco at 2022-10-15 13:01:36-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lataco-2022/lataco-2022-10-15T13:01:29.667839-07:00.jpg">October 15 at 1:01 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lataco-2022/lataco-2022-10-15T06:02:10.108577-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lataco-2022/lataco-2022-10-11T18:36:31.206533-07:00.jpg">October 11 at 6:36 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lataco-2022/lataco-2022-10-11T12:53:37.786079-07:00.jpg">
-  <img src="https://archive.org/download/lataco-2022/lataco-2022-10-11T12:53:37.786079-07:00.jpg"
-     alt="L.A. Taco at 2022-10-11 12:53:44-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lataco-2022/lataco-2022-10-11T12:53:37.786079-07:00.jpg">October 11 at 12:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 288 hyperlink lists with the Internet Archive.
+The archiving routine has saved 289 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 1:01 PM](https://archive.org/download/lataco-2022/lataco-2022-10-15T13:01:29.667839-07:00.hyperlinks.json) |
 | [October 15 at 6:02 AM](https://archive.org/download/lataco-2022/lataco-2022-10-15T06:02:10.108577-07:00.hyperlinks.json) |
 | [October 14 at 6:21 PM](https://archive.org/download/lataco-2022/lataco-2022-10-14T18:21:40.497295-07:00.hyperlinks.json) |
 | [October 14 at 1:42 PM](https://archive.org/download/lataco-2022/lataco-2022-10-14T13:42:00.981387-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 5:58 AM](https://archive.org/download/lataco-2022/lataco-2022-10-13T05:58:30.679622-07:00.hyperlinks.json) |
 | [October 12 at 6:19 PM](https://archive.org/download/lataco-2022/lataco-2022-10-12T18:19:35.078663-07:00.hyperlinks.json) |
 | [October 12 at 12:34 PM](https://archive.org/download/lataco-2022/lataco-2022-10-12T12:33:53.777285-07:00.hyperlinks.json) |
-| [October 12 at 5:55 AM](https://archive.org/download/lataco-2022/lataco-2022-10-12T05:54:56.207059-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 290 accessibility trees with the Internet Archive.
+The archiving routine has saved 291 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 1:01 PM](https://archive.org/download/lataco-2022/lataco-2022-10-15T13:01:29.667839-07:00.accessibility.json) |
 | [October 15 at 6:02 AM](https://archive.org/download/lataco-2022/lataco-2022-10-15T06:02:10.108577-07:00.accessibility.json) |
 | [October 14 at 6:21 PM](https://archive.org/download/lataco-2022/lataco-2022-10-14T18:21:40.497295-07:00.accessibility.json) |
 | [October 14 at 1:42 PM](https://archive.org/download/lataco-2022/lataco-2022-10-14T13:42:00.981387-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 5:58 AM](https://archive.org/download/lataco-2022/lataco-2022-10-13T05:58:30.679622-07:00.accessibility.json) |
 | [October 12 at 6:19 PM](https://archive.org/download/lataco-2022/lataco-2022-10-12T18:19:35.078663-07:00.accessibility.json) |
 | [October 12 at 12:34 PM](https://archive.org/download/lataco-2022/lataco-2022-10-12T12:33:53.777285-07:00.accessibility.json) |
-| [October 12 at 5:55 AM](https://archive.org/download/lataco-2022/lataco-2022-10-12T05:54:56.207059-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 244 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 245 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 1:01 PM](https://archive.org/download/lataco-2022/lataco-2022-10-15T13:01:29.667839-07:00.lighthouse.json) |
 | [October 15 at 6:02 AM](https://archive.org/download/lataco-2022/lataco-2022-10-15T06:02:10.108577-07:00.lighthouse.json) |
 | [October 14 at 6:21 PM](https://archive.org/download/lataco-2022/lataco-2022-10-14T18:21:40.497295-07:00.lighthouse.json) |
 | [October 14 at 1:42 PM](https://archive.org/download/lataco-2022/lataco-2022-10-14T13:42:00.981387-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 5:58 AM](https://archive.org/download/lataco-2022/lataco-2022-10-13T05:58:30.679622-07:00.lighthouse.json) |
 | [October 12 at 6:19 PM](https://archive.org/download/lataco-2022/lataco-2022-10-12T18:19:35.078663-07:00.lighthouse.json) |
 | [October 12 at 12:34 PM](https://archive.org/download/lataco-2022/lataco-2022-10-12T12:33:53.777285-07:00.lighthouse.json) |
-| [October 12 at 5:55 AM](https://archive.org/download/lataco-2022/lataco-2022-10-12T05:54:56.207059-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 874 screenshots with the Internet Archive.
+The archiving routine has saved 877 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T17:21:29.748865-04:00.jpg">
+  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T17:21:29.748865-04:00.jpg"
+     alt="Fox News at 2022-10-15 17:21:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T17:21:29.748865-04:00.jpg">October 15 at 5:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T16:01:33.419474-04:00.jpg">
+  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T16:01:33.419474-04:00.jpg"
+     alt="Fox News at 2022-10-15 16:01:36-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T16:01:33.419474-04:00.jpg">October 15 at 4:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T14:08:27.039781-04:00.jpg">
+  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T14:08:27.039781-04:00.jpg"
+     alt="Fox News at 2022-10-15 14:09:10-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T14:08:27.039781-04:00.jpg">October 15 at 2:09 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T08:55:12.925944-04:00.jpg">
   <img src="https://archive.org/download/foxnews-2022/foxnews-2022-10-15T08:55:12.925944-04:00.jpg"
      alt="Fox News at 2022-10-15 08:55:56-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T16:23:46.780174-04:00.jpg">October 13 at 4:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T14:52:37.283155-04:00.jpg">
-  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T14:52:37.283155-04:00.jpg"
-     alt="Fox News at 2022-10-13 14:53:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T14:52:37.283155-04:00.jpg">October 13 at 2:53 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T08:47:56.999877-04:00.jpg">
-  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T08:47:56.999877-04:00.jpg"
-     alt="Fox News at 2022-10-13 08:47:59-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T08:47:56.999877-04:00.jpg">October 13 at 8:47 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T02:04:51.498681-04:00.jpg">
-  <img src="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T02:04:51.498681-04:00.jpg"
-     alt="Fox News at 2022-10-13 02:05:20-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/foxnews-2022/foxnews-2022-10-13T02:04:51.498681-04:00.jpg">October 13 at 2:05 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 814 hyperlink lists with the Internet Archive.
+The archiving routine has saved 817 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 15 at 5:21 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T17:21:29.748865-04:00.hyperlinks.json) |
+| [October 15 at 4:01 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T16:01:33.419474-04:00.hyperlinks.json) |
+| [October 15 at 2:09 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T14:08:27.039781-04:00.hyperlinks.json) |
 | [October 15 at 8:56 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T08:55:12.925944-04:00.hyperlinks.json) |
 | [October 15 at 2:38 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T02:37:25.315329-04:00.hyperlinks.json) |
 | [October 14 at 5:22 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T17:22:01.830607-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 3:52 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T15:51:50.887499-04:00.hyperlinks.json) |
 | [October 14 at 9:02 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T09:01:18.092947-04:00.hyperlinks.json) |
 | [October 14 at 2:40 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T02:40:34.542553-04:00.hyperlinks.json) |
-| [October 13 at 5:19 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-13T17:19:37.126331-04:00.hyperlinks.json) |
-| [October 13 at 4:23 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-13T16:23:46.780174-04:00.hyperlinks.json) |
-| [October 13 at 2:53 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-13T14:52:37.283155-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 810 accessibility trees with the Internet Archive.
+The archiving routine has saved 813 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 15 at 5:21 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T17:21:29.748865-04:00.accessibility.json) |
+| [October 15 at 4:01 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T16:01:33.419474-04:00.accessibility.json) |
+| [October 15 at 2:09 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T14:08:27.039781-04:00.accessibility.json) |
 | [October 15 at 8:55 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T08:55:12.925944-04:00.accessibility.json) |
 | [October 15 at 2:38 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T02:37:25.315329-04:00.accessibility.json) |
 | [October 14 at 5:22 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T17:22:01.830607-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 3:52 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T15:51:50.887499-04:00.accessibility.json) |
 | [October 14 at 9:02 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T09:01:18.092947-04:00.accessibility.json) |
 | [October 14 at 2:40 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T02:40:34.542553-04:00.accessibility.json) |
-| [October 13 at 5:19 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-13T17:19:37.126331-04:00.accessibility.json) |
-| [October 13 at 4:23 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-13T16:23:46.780174-04:00.accessibility.json) |
-| [October 13 at 2:53 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-13T14:52:37.283155-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 406 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 409 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 15 at 5:21 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T17:21:29.748865-04:00.lighthouse.json) |
+| [October 15 at 4:01 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T16:01:33.419474-04:00.lighthouse.json) |
+| [October 15 at 2:09 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T14:08:27.039781-04:00.lighthouse.json) |
 | [October 15 at 8:56 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T08:55:12.925944-04:00.lighthouse.json) |
 | [October 15 at 2:38 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-15T02:37:25.315329-04:00.lighthouse.json) |
 | [October 14 at 5:22 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T17:22:01.830607-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 3:52 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T15:51:50.887499-04:00.lighthouse.json) |
 | [October 14 at 9:02 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T09:01:18.092947-04:00.lighthouse.json) |
 | [October 14 at 2:40 AM](https://archive.org/download/foxnews-2022/foxnews-2022-10-14T02:40:34.542553-04:00.lighthouse.json) |
-| [October 13 at 5:19 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-13T17:19:37.126331-04:00.lighthouse.json) |
-| [October 13 at 4:23 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-13T16:23:46.780174-04:00.lighthouse.json) |
-| [October 13 at 2:53 PM](https://archive.org/download/foxnews-2022/foxnews-2022-10-13T14:52:37.283155-04:00.lighthouse.json) |
 
 
 
