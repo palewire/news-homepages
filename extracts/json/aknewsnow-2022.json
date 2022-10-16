@@ -1,5 +1,5 @@
 {
-  "created": 1665917594,
+  "created": 1665961110,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/aknewsnow-2022",
@@ -4190,31 +4190,93 @@
       "sha1": "e1961e3dfc43eaba1bb42622025a2f58126c3164"
     },
     {
+      "name": "aknewsnow-2022-10-16T14:57:03.369859-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961029",
+      "size": "39707",
+      "md5": "9f79569e5cf5c37dfb39a10f7f0def7a",
+      "crc32": "f5493aae",
+      "sha1": "f4d871caca67a8255a9671be91165779eeb1e2d7",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-16T14:57:03.369859-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961031",
+      "size": "27085",
+      "md5": "d2cd8624a9722cefad8edacb17d4aeaf",
+      "crc32": "55537c41",
+      "sha1": "ba66b450b30a4597943eceae7da03df20da57b80",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-16T14:57:03.369859-08:00.jpg",
+      "source": "original",
+      "mtime": "1665961027",
+      "size": "369463",
+      "md5": "5d5aefe05e74557defb43f233c9d1a67",
+      "crc32": "abc13612",
+      "sha1": "19f0c88f7cb847747f7138f1f5e1690bc388c3a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aknewsnow-2022-10-16T14:57:03.369859-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961033",
+      "size": "1557",
+      "md5": "55f204ae6bc6fa76440ee5f0217fbd96",
+      "crc32": "8842d791",
+      "sha1": "89e3d5ab12d93134d0e5abbda94f2ebec5ae759a",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-16T14:57:03.369859-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961034",
+      "size": "46011",
+      "md5": "8ca482ecc703afa8716cf5c701c78f00",
+      "crc32": "a385b228",
+      "sha1": "26c5b0b2c239b3c4a26ee2e1180710efc25604af",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-16T14:57:03.369859-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aknewsnow-2022-10-16T14:57:03.369859-08:00.jpg",
+      "mtime": "1665961096",
+      "size": "10954",
+      "md5": "daaeb6826f648ffe9b54479eb41dc28e",
+      "crc32": "24936324",
+      "sha1": "ade7fffa4fe6fe7cafb9fd8dc4b11c990a0351a8"
+    },
+    {
       "name": "aknewsnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bce98e91d05ebc1a440e0bbb7246869fee76cdf1",
-      "mtime": "1665917586",
-      "size": "87316",
-      "md5": "fa43c401046ff627d8bd64ae4813f866",
-      "crc32": "9fd65bcb",
-      "sha1": "40cfd2e17ce8ba93dbc7915833f14f524539c749",
+      "btih": "647c4680f0156ca9b557ae1960c7b17aa0b435b5",
+      "mtime": "1665961102",
+      "size": "88590",
+      "md5": "26ea3f8732cfedf15548b1e367a48c4b",
+      "crc32": "5349d08c",
+      "sha1": "960a864a7af8bd9276ebaafcee3d086fa1dd1925",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aknewsnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9817c271c466851c000b1566e438b42a",
+      "md5": "07032af35e560b10ff80d850d0f65f73",
       "summation": "md5"
     },
     {
       "name": "aknewsnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665917532",
-      "size": "536576",
-      "md5": "1e5712b054bbc4f1c30ba4534a794574",
-      "crc32": "d1d21ad0",
-      "sha1": "3263a44a577b254c4a5ace6b8ade4f4abbb4a6da",
+      "mtime": "1665961040",
+      "size": "540672",
+      "md5": "09403494a9fe27fb8490612e7a7845dd",
+      "crc32": "227cc004",
+      "sha1": "5b2b3354661bcfb344ca28070a668fc08c2c722e",
       "format": "Metadata"
     },
     {
@@ -4228,9 +4290,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 409,
-  "item_last_updated": 1665917586,
-  "item_size": 34043842,
+  "files_count": 415,
+  "item_last_updated": 1665961102,
+  "item_size": 34543989,
   "metadata": {
     "identifier": "aknewsnow-2022",
     "collection": [
@@ -4247,10 +4309,10 @@
     "publicdate": "2022-09-12 22:57:53",
     "addeddate": "2022-09-12 22:57:53"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1884481664,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1083639328,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }
