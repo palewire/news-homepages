@@ -1,6 +1,6 @@
 {
-  "conflict": 1665924981,
-  "created": 1665924981,
+  "conflict": 1665955518,
+  "created": 1665955518,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/20/items/ap-2022",
@@ -24195,34 +24195,96 @@
       "name": "ap-2022-10-16T08:51:41.656476-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "ap-2022-10-16T08:51:41.656476-04:00.jpg"
+      "original": "ap-2022-10-16T08:51:41.656476-04:00.jpg",
+      "mtime": "1665924977",
+      "size": "8780",
+      "md5": "beefcc3764f6051c5bf81c0f4d963ac9",
+      "crc32": "d16d7175",
+      "sha1": "1433c94f28525bbe3990acd5fd4b34bacd1ec7d6"
+    },
+    {
+      "name": "ap-2022-10-16T17:22:00.123891-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665955332",
+      "size": "19245",
+      "md5": "fd4b73a3dfaee50ec9f45f569214df7d",
+      "crc32": "0607a8cb",
+      "sha1": "a6a021e5fd8a96692c73d259fc48167bd338c667",
+      "format": "JSON"
+    },
+    {
+      "name": "ap-2022-10-16T17:22:00.123891-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665955333",
+      "size": "21209",
+      "md5": "5537d3c28492e8a3f05eeb8e6b2654e8",
+      "crc32": "11564a34",
+      "sha1": "9530417e0f8e7eebe0847d1257c99bad6eb3893e",
+      "format": "JSON"
+    },
+    {
+      "name": "ap-2022-10-16T17:22:00.123891-04:00.jpg",
+      "source": "original",
+      "mtime": "1665955330",
+      "size": "222093",
+      "md5": "333c802afa1fbf3296dba31e7abd5e40",
+      "crc32": "da14c697",
+      "sha1": "3d0c1afa713f70901671740bcb54eba47114e57f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ap-2022-10-16T17:22:00.123891-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665955335",
+      "size": "1423",
+      "md5": "5fdf12d61e2d7411ccf44b6357784cb4",
+      "crc32": "4299f415",
+      "sha1": "3e5700ee6b442dbb298a8c7b8a26645b9ecf4e9b",
+      "format": "JSON"
+    },
+    {
+      "name": "ap-2022-10-16T17:22:00.123891-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665955338",
+      "size": "25031",
+      "md5": "1267984f3244cf9bffa8b44aa6f59dd1",
+      "crc32": "68ef92e0",
+      "sha1": "426d55a01305dc17c7817bcec5c8400e57db44b2",
+      "format": "JSON"
+    },
+    {
+      "name": "ap-2022-10-16T17:22:00.123891-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ap-2022-10-16T17:22:00.123891-04:00.jpg"
     },
     {
       "name": "ap-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5449e4f28c3eb849046db579818d8b73836a9194",
-      "mtime": "1665924833",
-      "size": "476029",
-      "md5": "eeda71fe9c4912ad4e4d8bc4c2f0692a",
-      "crc32": "63d672e5",
-      "sha1": "f61a5f9869ee0252d461a5bd8705ac1afe3f206e",
+      "btih": "882dd10abf7779ac40cc29fdbdda59de11d51838",
+      "mtime": "1665955443",
+      "size": "477260",
+      "md5": "9bd16e081a4c12a7526a9817ae5c1890",
+      "crc32": "4c29f0ec",
+      "sha1": "0efd645e2b0cbfd854fce971e7f7d70215e9f079",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ap-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40fa89f55c25dc9f314fab710948b994",
+      "md5": "dc267c399b1bdd79b37cda725600ffa1",
       "summation": "md5"
     },
     {
       "name": "ap-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665924719",
-      "size": "2867200",
-      "md5": "e504bba702163d0ad7045d894d2fc58c",
-      "crc32": "82385a8b",
-      "sha1": "a8ff9981681f20055123ff1f832f664ff9b3c6a3",
+      "mtime": "1665955349",
+      "size": "2875392",
+      "md5": "b22506bd392f8bea161e39933ed1445f",
+      "crc32": "b9653e77",
+      "sha1": "5e55ba1d70128f96aef039dc0b944ead58f81a4a",
       "format": "Metadata"
     },
     {
@@ -24236,9 +24298,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2336,
-  "item_last_updated": 1665924833,
-  "item_size": 129224661,
+  "files_count": 2342,
+  "item_last_updated": 1665955443,
+  "item_size": 129531865,
   "metadata": {
     "identifier": "ap-2022",
     "collection": [
@@ -24260,7 +24322,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3442165099,
+      "task_id": 3442507469,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -24268,7 +24330,7 @@
       "status": "running"
     }
   ],
-  "uniq": 170277962,
+  "uniq": 1045058852,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

@@ -1,6 +1,6 @@
 {
-  "conflict": 1665949100,
-  "created": 1665949100,
+  "conflict": 1665955333,
+  "created": 1665955333,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -43358,21 +43358,32 @@
       "format": "JSON"
     },
     {
+      "name": "foxnews-2022-10-16T15:33:45.047844-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-10-16T15:33:45.047844-04:00.jpg",
+      "mtime": "1665949155",
+      "size": "12144",
+      "md5": "bb2382c2db6f28864e8319bca0150f6d",
+      "crc32": "7dc704e2",
+      "sha1": "cf94d96f014ef9dd1b48555a5e8e6ce9445fb18f"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e6a85f84f4fb7df0a1db7c6f544547f0bf6eec4",
-      "mtime": "1665949070",
-      "size": "881294",
-      "md5": "d387b9b70b4548cb2e89c40414ffda6c",
-      "crc32": "06d835f2",
-      "sha1": "52903104823ae0840b0fb6ddfcf144d065aefa95",
+      "btih": "01231f30a74eeebb553c9e587c2edc66622d0822",
+      "mtime": "1665949896",
+      "size": "881498",
+      "md5": "4b94fe497728a9c08b01721a434a6a6b",
+      "crc32": "90c02a77",
+      "sha1": "2ce030ad7261f350ac0183a93bec089010ef37a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d26e2a4a60a70cc9abc0f0424e096496",
+      "md5": "9cb312582aad1ff3e154fba8fc781cea",
       "summation": "md5"
     },
     {
@@ -43396,9 +43407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4163,
-  "item_last_updated": 1665949070,
-  "item_size": 533751594,
+  "files_count": 4164,
+  "item_last_updated": 1665949896,
+  "item_size": 533763942,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -43420,15 +43431,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3442440161,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3442505787,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 334971348,
+  "uniq": 402352603,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
