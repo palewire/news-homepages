@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 293 screenshots with the Internet Archive.
+The archiving routine has saved 294 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 293 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jijicom-2022/jijicom-2022-10-16T11:35:13.938822+09:00.jpg">
+  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-10-16T11:35:13.938822+09:00.jpg"
+     alt="Jiji at 2022-10-16 11:35:15+09:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-10-16T11:35:13.938822+09:00.jpg">October 16 at 11:35 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/jijicom-2022/jijicom-2022-10-16T02:55:35.224316+09:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-10-12T15:29:13.570911+09:00.jpg">October 12 at 3:29 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jijicom-2022/jijicom-2022-10-12T11:30:53.499802+09:00.jpg">
-  <img src="https://archive.org/download/jijicom-2022/jijicom-2022-10-12T11:30:53.499802+09:00.jpg"
-     alt="Jiji at 2022-10-12 11:31:21+09:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jijicom-2022/jijicom-2022-10-12T11:30:53.499802+09:00.jpg">October 12 at 11:31 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 288 hyperlink lists with the Internet Archive.
+The archiving routine has saved 289 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 11:35 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-16T11:35:13.938822+09:00.hyperlinks.json) |
 | [October 16 at 2:55 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-16T02:55:35.224316+09:00.hyperlinks.json) |
 | [October 15 at 3:23 PM](https://archive.org/download/jijicom-2022/jijicom-2022-10-15T15:23:01.889033+09:00.hyperlinks.json) |
 | [October 15 at 11:12 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-15T11:12:12.582188+09:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 2:51 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-14T02:50:32.086939+09:00.hyperlinks.json) |
 | [October 13 at 2:53 PM](https://archive.org/download/jijicom-2022/jijicom-2022-10-13T14:53:30.633592+09:00.hyperlinks.json) |
 | [October 13 at 11:12 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-13T11:12:15.210586+09:00.hyperlinks.json) |
-| [October 13 at 2:21 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-13T02:21:42.271253+09:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 292 accessibility trees with the Internet Archive.
+The archiving routine has saved 293 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 11:35 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-16T11:35:13.938822+09:00.accessibility.json) |
 | [October 16 at 2:55 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-16T02:55:35.224316+09:00.accessibility.json) |
 | [October 15 at 3:23 PM](https://archive.org/download/jijicom-2022/jijicom-2022-10-15T15:23:01.889033+09:00.accessibility.json) |
 | [October 15 at 11:12 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-15T11:12:12.582188+09:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 2:51 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-14T02:50:32.086939+09:00.accessibility.json) |
 | [October 13 at 2:53 PM](https://archive.org/download/jijicom-2022/jijicom-2022-10-13T14:53:30.633592+09:00.accessibility.json) |
 | [October 13 at 11:12 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-13T11:12:15.210586+09:00.accessibility.json) |
-| [October 13 at 2:21 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-13T02:21:42.271253+09:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 247 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 248 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 11:35 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-16T11:35:13.938822+09:00.lighthouse.json) |
 | [October 16 at 2:55 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-16T02:55:35.224316+09:00.lighthouse.json) |
 | [October 15 at 3:23 PM](https://archive.org/download/jijicom-2022/jijicom-2022-10-15T15:23:01.889033+09:00.lighthouse.json) |
 | [October 15 at 11:12 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-15T11:12:12.582188+09:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 2:51 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-14T02:50:32.086939+09:00.lighthouse.json) |
 | [October 13 at 2:53 PM](https://archive.org/download/jijicom-2022/jijicom-2022-10-13T14:53:30.633592+09:00.lighthouse.json) |
 | [October 13 at 11:12 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-13T11:12:15.210586+09:00.lighthouse.json) |
-| [October 13 at 2:21 AM](https://archive.org/download/jijicom-2022/jijicom-2022-10-13T02:21:42.271253+09:00.lighthouse.json) |
 
 
 
