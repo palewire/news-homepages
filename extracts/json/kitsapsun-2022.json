@@ -1,5 +1,5 @@
 {
-  "created": 1665838993,
+  "created": 1665924862,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/kitsapsun-2022",
@@ -3178,31 +3178,155 @@
       "sha1": "8c52266dc06432babb96632eee8ef80d0a7352ca"
     },
     {
+      "name": "kitsapsun-2022-10-15T18:36:51.486610-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665884215",
+      "size": "20038",
+      "md5": "948d25a7913354a6eb228c304d4f56bb",
+      "crc32": "7fe28406",
+      "sha1": "babe5b4928d26043acefc70deed02ceb20728f24",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-15T18:36:51.486610-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665884217",
+      "size": "26960",
+      "md5": "a2ecdb2762067d0a7afc01ae028d375d",
+      "crc32": "d279bd78",
+      "sha1": "909b300ec83b68376f4b1ec687f743315271038d",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-15T18:36:51.486610-07:00.jpg",
+      "source": "original",
+      "mtime": "1665884214",
+      "size": "248862",
+      "md5": "86098ee4fef21e8f100cff4c69e1aab3",
+      "crc32": "94ef7e93",
+      "sha1": "71ae6c8bed6f8c9befd70cbbf50289c52d12f8c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kitsapsun-2022-10-15T18:36:51.486610-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665884221",
+      "size": "1486",
+      "md5": "9aefc76d88f8af173bd17887a2c2a7cc",
+      "crc32": "d5bd4607",
+      "sha1": "2efce067ddc776573535364fbc6c40ec7ef27fb9",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-15T18:36:51.486610-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665884223",
+      "size": "64429",
+      "md5": "24cb5ef5e4cd73222cb8bc3d06864a4b",
+      "crc32": "7a2c82d9",
+      "sha1": "75cd0e69a39a33f94e1d5f98c0f13e3c409bc944",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-15T18:36:51.486610-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kitsapsun-2022-10-15T18:36:51.486610-07:00.jpg",
+      "mtime": "1665884269",
+      "size": "9363",
+      "md5": "34884bf216f2d990d1ec7a1d56292e93",
+      "crc32": "48045b90",
+      "sha1": "90cce2615e28526a2c653a43f34def5c2c08f155"
+    },
+    {
+      "name": "kitsapsun-2022-10-16T05:53:20.713976-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665924803",
+      "size": "20449",
+      "md5": "3b8fcbd44dfcfbc983fd452bdc712ef4",
+      "crc32": "23c36dc8",
+      "sha1": "093af0917ae611877f1d7b056695bb6189b2921a",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-16T05:53:20.713976-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665924805",
+      "size": "27071",
+      "md5": "328a7a1984a892907c791a8933dbff40",
+      "crc32": "96706f6d",
+      "sha1": "0bb76905dd05ffb7a641570b945b898b0383f931",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-16T05:53:20.713976-07:00.jpg",
+      "source": "original",
+      "mtime": "1665924802",
+      "size": "246215",
+      "md5": "1a3981eed57b365a22e943d4a59d39e0",
+      "crc32": "f4154b0d",
+      "sha1": "4419eca20a32d9580b38d2997e09a71e28898531",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kitsapsun-2022-10-16T05:53:20.713976-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665924806",
+      "size": "1486",
+      "md5": "982a0dd51aeb6c6ad11500c108c6618e",
+      "crc32": "006472e1",
+      "sha1": "f9bff4d2eae888d1e7f75679b658aa35cacfd94c",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-16T05:53:20.713976-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665924808",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-16T05:53:20.713976-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kitsapsun-2022-10-16T05:53:20.713976-07:00.jpg",
+      "mtime": "1665924854",
+      "size": "9146",
+      "md5": "3e8da148a23d9fe16601194b9658f5c1",
+      "crc32": "50d3fb86",
+      "sha1": "030210214b42a5e428257efd3b4c180beeba687d"
+    },
+    {
       "name": "kitsapsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "934cb3f7c800ababaa246daa44a721a5b8e2c381",
-      "mtime": "1665838971",
-      "size": "66340",
-      "md5": "5d49107e7324b09ccd58c7d244ad5f37",
-      "crc32": "0d034651",
-      "sha1": "f1de82f238345e0628c34ab069af72a7dbbf91c3",
+      "btih": "b2daa662cb1917cafa25a08d505bd95cc4035450",
+      "mtime": "1665924857",
+      "size": "68864",
+      "md5": "0d4df908a8b914572cab7e83fd66206f",
+      "crc32": "7d70e532",
+      "sha1": "ec83181e2d6bd2cc2d9758dab7bbd7ea5c17b9cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kitsapsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af7aec49930a8b9d92eae57986591c55",
+      "md5": "015635560648779e2a870f3870f7e56a",
       "summation": "md5"
     },
     {
       "name": "kitsapsun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665838902",
-      "size": "409600",
-      "md5": "b47e28527125fb2ff83c7edfe8330ae2",
-      "crc32": "c2749cce",
-      "sha1": "9b47cef814675b5a6bb79838ae4c8e310c8c2da5",
+      "mtime": "1665924811",
+      "size": "430080",
+      "md5": "c4e2fd2dbfce15c5b84838292e082bf3",
+      "crc32": "fa073d0b",
+      "sha1": "68b4c7026f80e47f391b7db52c60c406438312e6",
       "format": "Metadata"
     },
     {
@@ -3216,9 +3340,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 311,
-  "item_last_updated": 1665838971,
-  "item_size": 21150290,
+  "files_count": 323,
+  "item_last_updated": 1665924857,
+  "item_size": 21849001,
   "metadata": {
     "identifier": "kitsapsun-2022",
     "collection": [
@@ -3235,10 +3359,10 @@
     "publicdate": "2022-09-20 22:26:18",
     "addeddate": "2022-09-20 22:26:18"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 1362940562,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1268577804,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
