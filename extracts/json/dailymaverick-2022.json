@@ -1,12 +1,7 @@
 {
-  "created": 1665820315,
+  "created": 1665902318,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
-  "dailymaverick-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/23/items/dailymaverick-2022",
   "files": [
     {
@@ -6717,31 +6712,155 @@
       "sha1": "f429264227b747c069902fd599c5bfc3ce4e95b4"
     },
     {
+      "name": "dailymaverick-2022-10-15T20:05:29.481815+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665857135",
+      "size": "65102",
+      "md5": "8b594afd5f15d4642559ca87e4163ae6",
+      "crc32": "49db1ee1",
+      "sha1": "05562a37467b1c57f01ae51799fa209d42cebdf8",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-15T20:05:29.481815+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665857137",
+      "size": "80877",
+      "md5": "0bd6705fc176cb88c0f0fbe3b8d74555",
+      "crc32": "c9bf824c",
+      "sha1": "0c095bbc8b916aa25cc97e434240b8ed590be4f6",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-15T20:05:29.481815+02:00.jpg",
+      "source": "original",
+      "mtime": "1665857133",
+      "size": "315618",
+      "md5": "d87fa1efee2e666b3399c188547df86a",
+      "crc32": "ec8a8805",
+      "sha1": "22649e1ebeebf73aeb386fccd45bff7874fd8cc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailymaverick-2022-10-15T20:05:29.481815+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665857139",
+      "size": "1538",
+      "md5": "26eaf5bab6c46c138e1e75dcead2a19e",
+      "crc32": "f63baf5e",
+      "sha1": "98de69fb9106f8374bf7e8ef6bb6818f55206dfd",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-15T20:05:29.481815+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665857141",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-15T20:05:29.481815+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailymaverick-2022-10-15T20:05:29.481815+02:00.jpg",
+      "mtime": "1665857199",
+      "size": "9760",
+      "md5": "23a7285934bc0b9a7d3c4456a15bdc7e",
+      "crc32": "7064240f",
+      "sha1": "3076a1a010ce5c7e10ce510b852fc3602508b414"
+    },
+    {
+      "name": "dailymaverick-2022-10-16T08:37:08.371135+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665902233",
+      "size": "64929",
+      "md5": "7ae1c3026bb9c1e68d5a93d24c1a0471",
+      "crc32": "f759cf1f",
+      "sha1": "563a86d110d843dcdad1124e44c179f3e513ba44",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-16T08:37:08.371135+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665902235",
+      "size": "80098",
+      "md5": "81218239c792169d63d58f0155292212",
+      "crc32": "cf2ac279",
+      "sha1": "7ebd4fc91e8190bbeedab8117e63ae12db16a291",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-16T08:37:08.371135+02:00.jpg",
+      "source": "original",
+      "mtime": "1665902231",
+      "size": "338445",
+      "md5": "565fa3d68e170de287745941f830c5b1",
+      "crc32": "eb0a3cd7",
+      "sha1": "6f5bf0a1803b148757df46dbcedfc4ce4548e7bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailymaverick-2022-10-16T08:37:08.371135+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665902236",
+      "size": "1540",
+      "md5": "5ea38840f9b946ce17230a5b7960f989",
+      "crc32": "3854a4d7",
+      "sha1": "f655d2113bca4df96e2ab50c69a37a62de0d5b1f",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-16T08:37:08.371135+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1665902238",
+      "size": "31754",
+      "md5": "8cc19f08f50558eed8835ca86e7d3867",
+      "crc32": "920df722",
+      "sha1": "f615993e9db5e49bcc3ba8e1913215139feb398c",
+      "format": "JSON"
+    },
+    {
+      "name": "dailymaverick-2022-10-16T08:37:08.371135+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailymaverick-2022-10-16T08:37:08.371135+02:00.jpg",
+      "mtime": "1665902298",
+      "size": "10040",
+      "md5": "635ece67416a347992f98beeb6779b95",
+      "crc32": "9ba74d6c",
+      "sha1": "d83eaa21ae265ae9f834bd1e605446afbf81e51b"
+    },
+    {
       "name": "dailymaverick-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9b94673f494adfe57ebf9c83559b49b20663944",
-      "mtime": "1665815621",
-      "size": "141475",
-      "md5": "2ad3a846e858965786cd26eaa8315330",
-      "crc32": "7b564e7a",
-      "sha1": "62fd45374cd278165e98cc023f937dbf030f7ec9",
+      "btih": "c0a23aeff2f2f03226ae3e52d211b2d35e531c3f",
+      "mtime": "1665902308",
+      "size": "144068",
+      "md5": "cfdcdfd61a11038e88cca6cca2a0bb80",
+      "crc32": "bc0574f7",
+      "sha1": "991d9ce7ddd4036325ad33af021ad594b86cd397",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailymaverick-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d54f75a46b956816390fcaa377ad175",
+      "md5": "318063710db1291ff0bff6bd51fbc816",
       "summation": "md5"
     },
     {
       "name": "dailymaverick-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665815537",
-      "size": "843776",
-      "md5": "af82676568ff42019419c4f7be8ff9fc",
-      "crc32": "f38260e2",
-      "sha1": "23c9e0216fe9396f8ea07b9a769dd70d3a952764",
+      "mtime": "1665902247",
+      "size": "864256",
+      "md5": "1a09e971c95ff1879210ee1a786b33f8",
+      "crc32": "9229a59f",
+      "sha1": "c0479a21cd5ab8181d9c9941b4eada296694fde1",
       "format": "Metadata"
     },
     {
@@ -6755,9 +6874,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 653,
-  "item_last_updated": 1665815621,
-  "item_size": 52204303,
+  "files_count": 665,
+  "item_last_updated": 1665902308,
+  "item_size": 53227279,
   "metadata": {
     "identifier": "dailymaverick-2022",
     "collection": [
@@ -6775,7 +6894,7 @@
     "addeddate": "2022-08-22 22:03:33"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 2113733387,
+  "uniq": 1659541044,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"
