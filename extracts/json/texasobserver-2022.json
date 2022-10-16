@@ -1,5 +1,5 @@
 {
-  "created": 1665892437,
+  "created": 1665936553,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/texasobserver-2022",
@@ -10728,31 +10728,93 @@
       "sha1": "78fbc3a44dfedfb4352d932921247f22354c6a03"
     },
     {
+      "name": "texasobserver-2022-10-16T10:02:23.660398-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665932555",
+      "size": "23550",
+      "md5": "80a31f232a38e189f66f1e6688f13103",
+      "crc32": "8011ac60",
+      "sha1": "b9cf9237a0bf9ff189329d74507cb5df509e8c7a",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-10-16T10:02:23.660398-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665932557",
+      "size": "23960",
+      "md5": "0fea8faa4dd28b9803542eb7dcb773da",
+      "crc32": "0251eaf2",
+      "sha1": "906d30aec7d14d27a322958ddd577a2ce58a255a",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-10-16T10:02:23.660398-05:00.jpg",
+      "source": "original",
+      "mtime": "1665932553",
+      "size": "192835",
+      "md5": "50223e343e0d73a425a1bb75399f7596",
+      "crc32": "d8c24854",
+      "sha1": "b6c37ded48b97cd1d80f07d41c914113fdc7b2b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasobserver-2022-10-16T10:02:23.660398-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665932558",
+      "size": "1518",
+      "md5": "6213948ea3865c6c267dfe654f0290f6",
+      "crc32": "5e3ca655",
+      "sha1": "e812f6136711f70da839264d20a4f1947c2aaae4",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-10-16T10:02:23.660398-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665932560",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-10-16T10:02:23.660398-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasobserver-2022-10-16T10:02:23.660398-05:00.jpg",
+      "mtime": "1665932630",
+      "size": "9190",
+      "md5": "73e11483c3c377d7b65a0a5e742f0d5f",
+      "crc32": "4eb24aa9",
+      "sha1": "78fbc3a44dfedfb4352d932921247f22354c6a03"
+    },
+    {
       "name": "texasobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "334f81f58dcfb0225e914642f32a7f44b541ef97",
-      "mtime": "1665892421",
-      "size": "223599",
-      "md5": "8fc21e464294af2b5a0ab2acb812f5ab",
-      "crc32": "80500452",
-      "sha1": "29a7e44c48641b272e002e3b38f4fa3f73f2b490",
+      "btih": "60b87013055707c1556193358c097ecd894aef09",
+      "mtime": "1665932643",
+      "size": "224874",
+      "md5": "c3cae59a1232844a581cb4193602a08f",
+      "crc32": "357d82ca",
+      "sha1": "3ab42f3cf625c287472d6b60595ab9ab6f4a191d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9194931bc4ce484df4a8d710ec1836f2",
+      "md5": "eabc9df5cac3df09cf922d17529d5f0a",
       "summation": "md5"
     },
     {
       "name": "texasobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665892345",
-      "size": "1327104",
-      "md5": "4bd1a55b45bc95a64a69cc82d3e88a89",
-      "crc32": "1e367b05",
-      "sha1": "893a91a04722150f831e20bbc6f849c36059d220",
+      "mtime": "1665932565",
+      "size": "1335296",
+      "md5": "8bf8ea7a9791efc4be7209d37e446875",
+      "crc32": "080f64f0",
+      "sha1": "4f8c67440f4c983d20c1518e5121464a16e70b6c",
       "format": "Metadata"
     },
     {
@@ -10766,9 +10828,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1040,
-  "item_last_updated": 1665892421,
-  "item_size": 46488555,
+  "files_count": 1046,
+  "item_last_updated": 1665932643,
+  "item_size": 46749277,
   "metadata": {
     "identifier": "texasobserver-2022",
     "collection": [
@@ -10785,10 +10847,15 @@
     "publicdate": "2022-07-18 00:05:22",
     "addeddate": "2022-07-18 00:05:22"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1601328720,
+  "server": "ia601505.us.archive.org",
+  "texasobserver-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1010714343,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
