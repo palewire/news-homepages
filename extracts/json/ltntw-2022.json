@@ -1,5 +1,5 @@
 {
-  "created": 1665857098,
+  "created": 1665905061,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/31/items/ltntw-2022",
@@ -8908,31 +8908,93 @@
       "sha1": "41a3b211c885b0686a78c8f8831b14ac49ceb271"
     },
     {
+      "name": "ltntw-2022-10-16T13:57:21.975309+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665899849",
+      "size": "83150",
+      "md5": "ed11adee3e5b9e7b031282bf77a2818a",
+      "crc32": "2fd0df92",
+      "sha1": "cdef956cf9dd839d798842ab99e26968576a56e7",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-10-16T13:57:21.975309+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665899851",
+      "size": "78047",
+      "md5": "43b4b51fe1ad303818d3971d5d74337b",
+      "crc32": "cf815012",
+      "sha1": "24777c1a7df731c304e2ab46e9eeaee4cb5e6658",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-10-16T13:57:21.975309+08:00.jpg",
+      "source": "original",
+      "mtime": "1665899848",
+      "size": "441700",
+      "md5": "5a3c653e03218b06e2344cff16ab27be",
+      "crc32": "149b176b",
+      "sha1": "db41108c4c0950e1d6ad31251d55a27b33c202e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ltntw-2022-10-16T13:57:21.975309+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665899852",
+      "size": "1459",
+      "md5": "a54a0719f12e631afde64cc0dfd9789a",
+      "crc32": "b6d6d532",
+      "sha1": "7d498d8e206615028bca5102b741eb4584733365",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-10-16T13:57:21.975309+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665899853",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ltntw-2022-10-16T13:57:21.975309+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ltntw-2022-10-16T13:57:21.975309+08:00.jpg",
+      "mtime": "1665899933",
+      "size": "11120",
+      "md5": "1d829e1759d35887298f0254181750e7",
+      "crc32": "ca18f19b",
+      "sha1": "495b6d2ed148e54c4681564e255cf9f8f11e04b9"
+    },
+    {
       "name": "ltntw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "466cfcdc4e2353992b3de2ac4dab2e26fb7fb815",
-      "mtime": "1665857068",
-      "size": "181210",
-      "md5": "71bd6a263d627c0faaeb99cafde4ee9d",
-      "crc32": "296c6aa5",
-      "sha1": "91f51b3759eb27efa0744fa8236f0bd47b1b6f8d",
+      "btih": "07b352814027c507ed916e35b92bfcb63484077a",
+      "mtime": "1665899941",
+      "size": "182478",
+      "md5": "c5385b1128fd39280ff2b8b03ab49072",
+      "crc32": "0f394ae5",
+      "sha1": "97970ef34beeb5de11870219b2c7a48b2edc079d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ltntw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5dda04f80b045498a3aaf251fc40ecb6",
+      "md5": "933099c3950c57abd67df2fb4ad35101",
       "summation": "md5"
     },
     {
       "name": "ltntw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665856838",
-      "size": "1097728",
-      "md5": "5cab32bea003914adb75981faa9eea9e",
-      "crc32": "cdadd82e",
-      "sha1": "25d69218fba7292e1d9fdf64a5380882f009d82f",
+      "mtime": "1665899859",
+      "size": "1110016",
+      "md5": "586e349bd4a0c51f79f959ff171d1aef",
+      "crc32": "e10048e3",
+      "sha1": "de87bef57f114096e20a8e206071d44857d21ca0",
       "format": "Metadata"
     },
     {
@@ -8946,9 +9008,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 865,
-  "item_last_updated": 1665857068,
-  "item_size": 91328840,
+  "files_count": 871,
+  "item_last_updated": 1665899941,
+  "item_size": 91958074,
+  "ltntw-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "ltntw-2022",
     "collection": [
@@ -8965,10 +9032,10 @@
     "publicdate": "2022-08-02 14:57:59",
     "addeddate": "2022-08-02 14:57:59"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1928521025,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1866704739,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665861703,
+  "created": 1665899751,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/hwherald-2022",
@@ -15870,31 +15870,93 @@
       "sha1": "f9b56077690c38c9b88ccda4e17835e7c5a88e2c"
     },
     {
+      "name": "hwherald-2022-10-16T00:52:47.176555-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665899581",
+      "size": "18439",
+      "md5": "802e14951a5a06f45872993aa5f31a07",
+      "crc32": "8a93e122",
+      "sha1": "4b987dda0a48562298f92fea29a4621444f17195",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-10-16T00:52:47.176555-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665899583",
+      "size": "7191",
+      "md5": "7c2180428d89c74cc124f9d61d6b1149",
+      "crc32": "df38bb42",
+      "sha1": "388b68653b00a07aba3b99d40cf05a33daa3fc21",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-10-16T00:52:47.176555-05:00.jpg",
+      "source": "original",
+      "mtime": "1665899579",
+      "size": "282518",
+      "md5": "71bf6a1a9c61934d19567e3cabb330ee",
+      "crc32": "c873120d",
+      "sha1": "48bf2dc3ac939cde70ab138c59d37b0ab9221fe6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hwherald-2022-10-16T00:52:47.176555-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665899585",
+      "size": "1458",
+      "md5": "c64a2868028cdd9039421573e6c3de02",
+      "crc32": "4b361644",
+      "sha1": "43e5f829eb3917fa50eda3a68b551876bb6c3ea4",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-10-16T00:52:47.176555-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665899587",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-10-16T00:52:47.176555-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hwherald-2022-10-16T00:52:47.176555-05:00.jpg",
+      "mtime": "1665899708",
+      "size": "8934",
+      "md5": "2a562b443322f96bc1604c411817cabf",
+      "crc32": "f3aea914",
+      "sha1": "f9b56077690c38c9b88ccda4e17835e7c5a88e2c"
+    },
+    {
       "name": "hwherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07f44aa52b16dd34d5d1d02c5f4854e692b8ec48",
-      "mtime": "1665856654",
-      "size": "322645",
-      "md5": "860b83991fc38a2e361638c55fc4a90f",
-      "crc32": "d7c8e45f",
-      "sha1": "64bc16da404225651635d51dfd85f3b6f25b93f0",
+      "btih": "9fdc76aa500bd5c5aeee0c6c0240b5403b0c443f",
+      "mtime": "1665899727",
+      "size": "323909",
+      "md5": "cef6bd70be753f1fbfb140d3f078621c",
+      "crc32": "87b901a7",
+      "sha1": "28cd34ea4cbf50f089d079b6bb6aec34dc89d3d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hwherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bbcdede3764825e7bc5bd94b76fde185",
+      "md5": "ab4da137c2d9d57be78241df2747d32e",
       "summation": "md5"
     },
     {
       "name": "hwherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665856482",
-      "size": "1929216",
-      "md5": "3f45ace27a4910621061786d035265fe",
-      "crc32": "96244565",
-      "sha1": "c1f55c352bdc20d400ad15de170518577f485112",
+      "mtime": "1665899597",
+      "size": "1937408",
+      "md5": "32e401fa8ed01238b4776a5ed86b9baf",
+      "crc32": "14fcde38",
+      "sha1": "8ab2cf064901d9f465e76647b2ff751945549107",
       "format": "Metadata"
     },
     {
@@ -15908,14 +15970,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1536,
-  "hwherald-2022": {
-    "url": "https://harveyworld.org/",
-    "job_id": "spn2-ec339ba55750d2615dd491e617319104cabe33d9",
-    "message": "The same snapshot had been made 12 minutes, 53 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
-  "item_last_updated": 1665856654,
-  "item_size": 87618503,
+  "files_count": 1542,
+  "item_last_updated": 1665899727,
+  "item_size": 87946701,
   "metadata": {
     "identifier": "hwherald-2022",
     "collection": [
@@ -15933,7 +15990,7 @@
     "addeddate": "2022-07-10 15:42:19"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 359892960,
+  "uniq": 849948545,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665860192,
+  "created": 1665899886,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/19/items/mainemonitor-2022",
@@ -6206,31 +6206,93 @@
       "sha1": "29f115ea009785dcb9cec0988df0c7ff1abf2f7b"
     },
     {
+      "name": "mainemonitor-2022-10-16T01:56:30.563954-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665899793",
+      "size": "14805",
+      "md5": "7b4918e5701886b596a3d63b34171eff",
+      "crc32": "7cbc859a",
+      "sha1": "a49147a13f5d62ead5e65c9096b751f6d56383c6",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-16T01:56:30.563954-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665899795",
+      "size": "13429",
+      "md5": "d7026ac0ec5991cd074c89e84496bb95",
+      "crc32": "d593ac46",
+      "sha1": "6ce94bab3f8c379c03574c0140a127bfe94582cf",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-16T01:56:30.563954-04:00.jpg",
+      "source": "original",
+      "mtime": "1665899792",
+      "size": "285046",
+      "md5": "0d42924da1e1bf604fbd202227b683fc",
+      "crc32": "fdeb5edb",
+      "sha1": "e852c1190fb59f115cd7eceae9d1a94e4d045cf4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-10-16T01:56:30.563954-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665899797",
+      "size": "1539",
+      "md5": "af171763b5ae7b8aa3f99977a4753e46",
+      "crc32": "c67dfec4",
+      "sha1": "3db66e0ae13a9031fe7002548f452f5c62e4f3de",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-16T01:56:30.563954-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665899798",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-16T01:56:30.563954-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mainemonitor-2022-10-16T01:56:30.563954-04:00.jpg",
+      "mtime": "1665899863",
+      "size": "10305",
+      "md5": "9b915248e4873f0d7e98e66e7d55c05c",
+      "crc32": "a08e8931",
+      "sha1": "2a4bae35f655779b8eceba546ee39cbdafcc7035"
+    },
+    {
       "name": "mainemonitor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60c9939c6603ddf2ccbd0008c4d0dc9b3d987b04",
-      "mtime": "1665856754",
-      "size": "129807",
-      "md5": "232efc8646d7797a083dad3ed4329f55",
-      "crc32": "151f874c",
-      "sha1": "3d8b9fdedcc9a6a57ac24466e4f57ef2d1cfb00e",
+      "btih": "137d95ba7e2d79f3c11871ab947b96e0635a491f",
+      "mtime": "1665899868",
+      "size": "131097",
+      "md5": "c94560cfb96ca95a259cad85cac21f7f",
+      "crc32": "66911265",
+      "sha1": "5e2be6abbf42dfdc35bfefde77bae8d4cbdadc83",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mainemonitor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b2947c97ee2fd4e2c947910e6a5f98e",
+      "md5": "93eda08bbc8c7dedab5a2c8c97788eb6",
       "summation": "md5"
     },
     {
       "name": "mainemonitor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665856693",
-      "size": "782336",
-      "md5": "574b5bf337396c0da782e23cd20adafb",
-      "crc32": "bd35de31",
-      "sha1": "e06a059d0248198152f3f98e86f3c21e538b14d5",
+      "mtime": "1665899807",
+      "size": "790528",
+      "md5": "c0443d2c71b7c48171cd8c4183757180",
+      "crc32": "1fb41437",
+      "sha1": "1803e556518f71a4a704bd0b6c7279c5c3eb23fb",
       "format": "Metadata"
     },
     {
@@ -6244,9 +6306,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 604,
-  "item_last_updated": 1665856754,
-  "item_size": 33445357,
+  "files_count": 610,
+  "item_last_updated": 1665899868,
+  "item_size": 33780165,
   "metadata": {
     "identifier": "mainemonitor-2022",
     "collection": [
@@ -6263,10 +6325,10 @@
     "publicdate": "2022-08-26 15:01:20",
     "addeddate": "2022-08-26 15:01:20"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1260639948,
+  "server": "ia601404.us.archive.org",
+  "uniq": 866157322,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665856963,
+  "created": 1665905155,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/31/items/mtlgazette-2022",
@@ -12748,31 +12748,93 @@
       "sha1": "08ac6d1c79ecc2976560d927c012a6d90873ec9b"
     },
     {
+      "name": "mtlgazette-2022-10-16T01:58:29.824130-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665899912",
+      "size": "63784",
+      "md5": "5b9afa7199b582b7c058f8cc728d7cb7",
+      "crc32": "b38df650",
+      "sha1": "5b5ab57dcc8b2a6715bfc8e659e32b9164c2fa0e",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-10-16T01:58:29.824130-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665899915",
+      "size": "45897",
+      "md5": "64a84da839c44fc3f1c09d651be652b0",
+      "crc32": "c67b8419",
+      "sha1": "25066675c015d328132da02998fa99cd46e14994",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-10-16T01:58:29.824130-04:00.jpg",
+      "source": "original",
+      "mtime": "1665899911",
+      "size": "310886",
+      "md5": "9a3b5ba5dc630d6e6f15ae5c6311ee56",
+      "crc32": "5513a9d3",
+      "sha1": "9a7dbdb4077ade485248664151bcb8613bff2928",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtlgazette-2022-10-16T01:58:29.824130-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665899916",
+      "size": "1494",
+      "md5": "01d4f76375ac3865236e11977802d052",
+      "crc32": "c7561f75",
+      "sha1": "7a8a8b9fc0b7b84e67af75fc7947e239f7d91385",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-10-16T01:58:29.824130-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665899918",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mtlgazette-2022-10-16T01:58:29.824130-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtlgazette-2022-10-16T01:58:29.824130-04:00.jpg",
+      "mtime": "1665899983",
+      "size": "10158",
+      "md5": "a6012643327180f86620ad8610e43e08",
+      "crc32": "4ccd9418",
+      "sha1": "6858687c9afc648250059c02f06e55dd50bb2cb0"
+    },
+    {
       "name": "mtlgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9bd8a8d346f7faf4bb911b65a8ddcb9b0ba0846e",
-      "mtime": "1665856947",
-      "size": "262746",
-      "md5": "64ee75223baabd4e6d19301e3d2a4934",
-      "crc32": "544983ff",
-      "sha1": "7de50d51f4a440632e0bf9640cdc34a5f2b4789e",
+      "btih": "98f9ee101b280e11265fff3f356cc0909c19c99e",
+      "mtime": "1665899997",
+      "size": "264024",
+      "md5": "85785ba474f00b2d45fad5c0ec497a0c",
+      "crc32": "9c189c94",
+      "sha1": "f6a33c5c6b2796b4e9717d234ee2cf8b50884be9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtlgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b850bf4979c0c61b35b5a6e14f4f296",
+      "md5": "2968394e9090cf8321f2d5e9b9662ba1",
       "summation": "md5"
     },
     {
       "name": "mtlgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665856856",
-      "size": "1536000",
-      "md5": "808f203133fd3869968a31d3631b49cf",
-      "crc32": "9298af14",
-      "sha1": "064f7e9a844c2de8cf42e69a0eef1923ff5b73d2",
+      "mtime": "1665899922",
+      "size": "1544192",
+      "md5": "ae3f524c87443cace86757a0a9012a7b",
+      "crc32": "f5e41832",
+      "sha1": "b46db8db872eeb029e4c3bdd60337ba52b4bbdc8",
       "format": "Metadata"
     },
     {
@@ -12786,9 +12848,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1232,
-  "item_last_updated": 1665856947,
-  "item_size": 102183763,
+  "files_count": 1238,
+  "item_last_updated": 1665899997,
+  "item_size": 102625654,
   "metadata": {
     "identifier": "mtlgazette-2022",
     "collection": [
@@ -12805,8 +12867,13 @@
     "publicdate": "2022-06-30 22:35:41",
     "addeddate": "2022-06-30 22:35:41"
   },
+  "mtlgazette-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia802507.us.archive.org",
-  "uniq": 843187548,
+  "uniq": 292158033,
   "workable_servers": [
     "ia802507.us.archive.org",
     "ia902507.us.archive.org"

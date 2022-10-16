@@ -1,5 +1,5 @@
 {
-  "created": 1665856980,
+  "created": 1665900056,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/15/items/miwisconsin-2022",
@@ -10810,31 +10810,93 @@
       "sha1": "589c817eff4366580c6fe3109b4a8d071904ef01"
     },
     {
+      "name": "miwisconsin-2022-10-16T00:58:14.082438-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665899897",
+      "size": "47744",
+      "md5": "1535a9fc73973a08519169a3de606f97",
+      "crc32": "f5141cff",
+      "sha1": "5c54086a63d9de137c81c816105631d97a298342",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-16T00:58:14.082438-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665899899",
+      "size": "58523",
+      "md5": "24d002d06ab7f1766467f583f2bc9554",
+      "crc32": "e43c1017",
+      "sha1": "bc4d0476f8c53f316df12316f08a7725951812a8",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-16T00:58:14.082438-05:00.jpg",
+      "source": "original",
+      "mtime": "1665899895",
+      "size": "227882",
+      "md5": "07c015cf119809fc081a4519bcadba4e",
+      "crc32": "94c21ce1",
+      "sha1": "90aab79639494f7b932ce747fe9ff640331ccd39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miwisconsin-2022-10-16T00:58:14.082438-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665899901",
+      "size": "1465",
+      "md5": "d6cff28a7778df727b3e6479439461c6",
+      "crc32": "e31daaff",
+      "sha1": "fa165f77e44989b9879960b914c0fba9ee1a76ff",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-16T00:58:14.082438-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665899902",
+      "size": "29393",
+      "md5": "4d566ef54f88068fe7edb70a18e9937e",
+      "crc32": "b2231df4",
+      "sha1": "dfb89e0257e10c4469b9ebaeb7bcc4ef6f0dafdf",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-16T00:58:14.082438-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "miwisconsin-2022-10-16T00:58:14.082438-05:00.jpg",
+      "mtime": "1665900012",
+      "size": "9812",
+      "md5": "884b0d8f9f477bee5889d261efbab770",
+      "crc32": "1a4f0367",
+      "sha1": "76ab26ac0c85d4d509f8f284e165fbade921b04d"
+    },
+    {
       "name": "miwisconsin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe2710df4682625c9fb18f69bd5a947ad498fbcc",
-      "mtime": "1665856955",
-      "size": "223683",
-      "md5": "41e72843cc7f8b448c3cb099d255ec71",
-      "crc32": "fe7d9ba6",
-      "sha1": "865e76ad80f6046f92ae8f2aeca12c5a4523aa8a",
+      "btih": "3bee43648532f2e3ca7a5b5c519896386b4d1328",
+      "mtime": "1665900024",
+      "size": "224968",
+      "md5": "547c32b7ef44057225ffbb9170ce68c9",
+      "crc32": "a19eea48",
+      "sha1": "5b6ae2f10f5753bc40906e35e0df0bfa97f763c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miwisconsin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1a95b179909367c139532562f563a9f0",
+      "md5": "7a0a96d5c73d375c0c9a94c6aff5229f",
       "summation": "md5"
     },
     {
       "name": "miwisconsin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665856864",
-      "size": "1323008",
-      "md5": "388c52382f875f083eab73c665650802",
-      "crc32": "e8508324",
-      "sha1": "f6ee36c937c33a50278e7628962285d5dcc3a7ab",
+      "mtime": "1665899916",
+      "size": "1335296",
+      "md5": "55615eba687b315be55281558c26b6f7",
+      "crc32": "7ffe2943",
+      "sha1": "ca9ca2a90b31bc7b614777b66cc40c6680ac48fe",
       "format": "Metadata"
     },
     {
@@ -10848,9 +10910,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1047,
-  "item_last_updated": 1665856955,
-  "item_size": 67145466,
+  "files_count": 1053,
+  "item_last_updated": 1665900024,
+  "item_size": 67533858,
   "metadata": {
     "identifier": "miwisconsin-2022",
     "collection": [
@@ -10868,7 +10930,7 @@
     "addeddate": "2022-07-09 04:00:37"
   },
   "server": "ia801502.us.archive.org",
-  "uniq": 527457358,
+  "uniq": 419172448,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"
