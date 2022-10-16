@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 104 screenshots with the Internet Archive.
+The archiving routine has saved 106 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-16T08:56:50.406599-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-10-16T08:56:50.406599-04:00.jpg"
+     alt="Mediaite at 2022-10-16 08:56:53-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-16T08:56:50.406599-04:00.jpg">October 16 at 8:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-15T21:40:18.450054-04:00.jpg">
+  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-10-15T21:40:18.450054-04:00.jpg"
+     alt="Mediaite at 2022-10-15 21:40:22-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-15T21:40:18.450054-04:00.jpg">October 15 at 9:40 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-15T09:04:48.566944-04:00.jpg">
   <img src="https://archive.org/download/mediaite-2022/mediaite-2022-10-15T09:04:48.566944-04:00.jpg"
      alt="Mediaite at 2022-10-15 09:04:51-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-10T21:30:05.146087-04:00.jpg">October 10 at 9:30 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-10T09:24:05.568803-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-10-10T09:24:05.568803-04:00.jpg"
-     alt="Mediaite at 2022-10-10 09:24:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-10T09:24:05.568803-04:00.jpg">October 10 at 9:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-09T21:33:06.955934-04:00.jpg">
-  <img src="https://archive.org/download/mediaite-2022/mediaite-2022-10-09T21:33:06.955934-04:00.jpg"
-     alt="Mediaite at 2022-10-09 21:33:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mediaite-2022/mediaite-2022-10-09T21:33:06.955934-04:00.jpg">October 9 at 9:33 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 105 hyperlink lists with the Internet Archive.
+The archiving routine has saved 107 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 8:56 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-16T08:56:50.406599-04:00.hyperlinks.json) |
+| [October 15 at 9:40 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-15T21:40:18.450054-04:00.hyperlinks.json) |
 | [October 15 at 9:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-15T09:04:48.566944-04:00.hyperlinks.json) |
 | [October 14 at 9:24 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-14T21:23:56.021059-04:00.hyperlinks.json) |
 | [October 14 at 9:12 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-14T09:12:01.349280-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 9:22 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-12T21:21:55.821583-04:00.hyperlinks.json) |
 | [October 12 at 8:56 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-12T08:56:31.857266-04:00.hyperlinks.json) |
 | [October 11 at 9:39 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-11T21:39:09.281791-04:00.hyperlinks.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-11T09:10:29.513298-04:00.hyperlinks.json) |
-| [October 10 at 9:30 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-10T21:30:05.146087-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 106 accessibility trees with the Internet Archive.
+The archiving routine has saved 108 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 8:56 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-16T08:56:50.406599-04:00.accessibility.json) |
+| [October 15 at 9:40 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-15T21:40:18.450054-04:00.accessibility.json) |
 | [October 15 at 9:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-15T09:04:48.566944-04:00.accessibility.json) |
 | [October 14 at 9:24 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-14T21:23:56.021059-04:00.accessibility.json) |
 | [October 14 at 9:12 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-14T09:12:01.349280-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 9:22 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-12T21:21:55.821583-04:00.accessibility.json) |
 | [October 12 at 8:56 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-12T08:56:31.857266-04:00.accessibility.json) |
 | [October 11 at 9:39 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-11T21:39:09.281791-04:00.accessibility.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-11T09:10:29.513298-04:00.accessibility.json) |
-| [October 10 at 9:30 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-10T21:30:05.146087-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 106 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 108 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 8:56 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-16T08:56:50.406599-04:00.lighthouse.json) |
+| [October 15 at 9:40 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-15T21:40:18.450054-04:00.lighthouse.json) |
 | [October 15 at 9:04 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-15T09:04:48.566944-04:00.lighthouse.json) |
 | [October 14 at 9:24 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-14T21:23:56.021059-04:00.lighthouse.json) |
 | [October 14 at 9:12 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-14T09:12:01.349280-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 9:22 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-12T21:21:55.821583-04:00.lighthouse.json) |
 | [October 12 at 8:56 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-12T08:56:31.857266-04:00.lighthouse.json) |
 | [October 11 at 9:39 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-11T21:39:09.281791-04:00.lighthouse.json) |
-| [October 11 at 9:10 AM](https://archive.org/download/mediaite-2022/mediaite-2022-10-11T09:10:29.513298-04:00.lighthouse.json) |
-| [October 10 at 9:30 PM](https://archive.org/download/mediaite-2022/mediaite-2022-10-10T21:30:05.146087-04:00.lighthouse.json) |
 
 
 

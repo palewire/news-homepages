@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 180 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T13:52:39.205533+01:00.jpg">
+  <img src="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T13:52:39.205533+01:00.jpg"
+     alt="Irish Catholic at 2022-10-16 13:52:41+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T13:52:39.205533+01:00.jpg">October 16 at 1:52 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T02:33:14.017644+01:00.jpg">
+  <img src="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T02:33:14.017644+01:00.jpg"
+     alt="Irish Catholic at 2022-10-16 02:33:21+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T02:33:14.017644+01:00.jpg">October 16 at 2:33 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-15T13:58:41.330387+01:00.jpg">
   <img src="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-15T13:58:41.330387+01:00.jpg"
      alt="Irish Catholic at 2022-10-15 13:58:47+01:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-11T02:23:23.164098+01:00.jpg">October 11 at 2:23 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-10T14:19:44.811014+01:00.jpg">
-  <img src="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-10T14:19:44.811014+01:00.jpg"
-     alt="Irish Catholic at 2022-10-10 14:19:46+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-10T14:19:44.811014+01:00.jpg">October 10 at 2:19 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-10T02:27:27.642778+01:00.jpg">
-  <img src="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-10T02:27:27.642778+01:00.jpg"
-     alt="Irish Catholic at 2022-10-10 02:27:28+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-10T02:27:27.642778+01:00.jpg">October 10 at 2:27 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 182 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 1:52 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T13:52:39.205533+01:00.hyperlinks.json) |
+| [October 16 at 2:33 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T02:33:14.017644+01:00.hyperlinks.json) |
 | [October 15 at 1:58 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-15T13:58:41.330387+01:00.hyperlinks.json) |
 | [October 15 at 2:18 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-15T02:18:41.938082+01:00.hyperlinks.json) |
 | [October 14 at 2:06 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-14T14:05:40.865606+01:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 2:17 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-13T02:16:49.776432+01:00.hyperlinks.json) |
 | [October 12 at 1:52 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-12T13:52:34.314868+01:00.hyperlinks.json) |
 | [October 12 at 2:32 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-12T02:32:43.771725+01:00.hyperlinks.json) |
-| [October 11 at 2:05 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-11T14:04:59.052127+01:00.hyperlinks.json) |
-| [October 11 at 2:23 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-11T02:23:23.164098+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 181 accessibility trees with the Internet Archive.
+The archiving routine has saved 183 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 1:52 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T13:52:39.205533+01:00.accessibility.json) |
+| [October 16 at 2:33 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T02:33:14.017644+01:00.accessibility.json) |
 | [October 15 at 1:58 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-15T13:58:41.330387+01:00.accessibility.json) |
 | [October 15 at 2:18 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-15T02:18:41.938082+01:00.accessibility.json) |
 | [October 14 at 2:06 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-14T14:05:40.865606+01:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 2:16 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-13T02:16:49.776432+01:00.accessibility.json) |
 | [October 12 at 1:52 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-12T13:52:34.314868+01:00.accessibility.json) |
 | [October 12 at 2:32 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-12T02:32:43.771725+01:00.accessibility.json) |
-| [October 11 at 2:05 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-11T14:04:59.052127+01:00.accessibility.json) |
-| [October 11 at 2:23 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-11T02:23:23.164098+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 1:52 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T13:52:39.205533+01:00.lighthouse.json) |
+| [October 16 at 2:33 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-16T02:33:14.017644+01:00.lighthouse.json) |
 | [October 15 at 1:58 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-15T13:58:41.330387+01:00.lighthouse.json) |
 | [October 15 at 2:18 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-15T02:18:41.938082+01:00.lighthouse.json) |
 | [October 14 at 2:06 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-14T14:05:40.865606+01:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 2:17 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-13T02:16:49.776432+01:00.lighthouse.json) |
 | [October 12 at 1:52 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-12T13:52:34.314868+01:00.lighthouse.json) |
 | [October 12 at 2:32 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-12T02:32:43.771725+01:00.lighthouse.json) |
-| [October 11 at 2:05 PM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-11T14:04:59.052127+01:00.lighthouse.json) |
-| [October 11 at 2:23 AM](https://archive.org/download/irishcathnews-2022/irishcathnews-2022-10-11T02:23:23.164098+01:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 144 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 144 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-10-16T10:12:23.061741-04:00.jpg">
+  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-10-16T10:12:23.061741-04:00.jpg"
+     alt="Real Clear Politics at 2022-10-16 10:12:27-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-10-16T10:12:23.061741-04:00.jpg">October 16 at 10:12 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-10-15T22:44:40.343243-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-10-10T22:27:54.251105-04:00.jpg">October 10 at 10:27 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-10-10T10:29:26.205921-04:00.jpg">
-  <img src="https://archive.org/download/realclearnews-2022/realclearnews-2022-10-10T10:29:26.205921-04:00.jpg"
-     alt="Real Clear Politics at 2022-10-10 10:29:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/realclearnews-2022/realclearnews-2022-10-10T10:29:26.205921-04:00.jpg">October 10 at 10:29 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 143 hyperlink lists with the Internet Archive.
+The archiving routine has saved 144 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 10:12 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-16T10:12:23.061741-04:00.hyperlinks.json) |
 | [October 15 at 10:44 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-15T22:44:40.343243-04:00.hyperlinks.json) |
 | [October 15 at 11:05 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-15T11:05:46.185650-04:00.hyperlinks.json) |
 | [October 14 at 10:24 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-14T22:24:23.764680-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 10:12 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-12T10:11:54.109770-04:00.hyperlinks.json) |
 | [October 11 at 10:38 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-11T22:38:38.006478-04:00.hyperlinks.json) |
 | [October 11 at 11:08 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-11T11:08:01.155180-04:00.hyperlinks.json) |
-| [October 10 at 10:28 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-10T22:27:54.251105-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 144 accessibility trees with the Internet Archive.
+The archiving routine has saved 145 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 10:12 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-16T10:12:23.061741-04:00.accessibility.json) |
 | [October 15 at 10:44 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-15T22:44:40.343243-04:00.accessibility.json) |
 | [October 15 at 11:05 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-15T11:05:46.185650-04:00.accessibility.json) |
 | [October 14 at 10:24 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-14T22:24:23.764680-04:00.accessibility.json) |
@@ -436,7 +437,6 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 10:21 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-12T22:21:48.024079-04:00.accessibility.json) |
 | [October 12 at 10:12 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-12T10:11:54.109770-04:00.accessibility.json) |
 | [October 11 at 10:38 PM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-11T22:38:38.006478-04:00.accessibility.json) |
-| [October 11 at 11:08 AM](https://archive.org/download/realclearnews-2022/realclearnews-2022-10-11T11:08:01.155180-04:00.accessibility.json) |
 
 
 

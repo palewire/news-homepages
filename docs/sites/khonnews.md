@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 64 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-16T02:54:09.270149-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-10-16T02:54:09.270149-10:00.jpg"
+     alt="KHON2 News at 2022-10-16 02:54:11-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-16T02:54:09.270149-10:00.jpg">October 16 at 2:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-15T15:37:26.967132-10:00.jpg">
+  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-10-15T15:37:26.967132-10:00.jpg"
+     alt="KHON2 News at 2022-10-15 15:37:30-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-15T15:37:26.967132-10:00.jpg">October 15 at 3:37 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-15T03:01:42.735452-10:00.jpg">
   <img src="https://archive.org/download/khonnews-2022/khonnews-2022-10-15T03:01:42.735452-10:00.jpg"
      alt="KHON2 News at 2022-10-15 03:01:44-10:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-10T15:26:40.432190-10:00.jpg">October 10 at 3:26 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-10T03:21:39.617499-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-10-10T03:21:39.617499-10:00.jpg"
-     alt="KHON2 News at 2022-10-10 03:21:41-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-10T03:21:39.617499-10:00.jpg">October 10 at 3:21 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-09T15:29:50.134091-10:00.jpg">
-  <img src="https://archive.org/download/khonnews-2022/khonnews-2022-10-09T15:29:50.134091-10:00.jpg"
-     alt="KHON2 News at 2022-10-09 15:29:52-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/khonnews-2022/khonnews-2022-10-09T15:29:50.134091-10:00.jpg">October 9 at 3:29 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 64 hyperlink lists with the Internet Archive.
+The archiving routine has saved 66 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 2:54 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-16T02:54:09.270149-10:00.hyperlinks.json) |
+| [October 15 at 3:37 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-15T15:37:26.967132-10:00.hyperlinks.json) |
 | [October 15 at 3:01 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-15T03:01:42.735452-10:00.hyperlinks.json) |
 | [October 14 at 3:21 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-14T15:21:25.022420-10:00.hyperlinks.json) |
 | [October 14 at 3:09 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-14T03:09:23.446201-10:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 12 at 3:19 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-12T15:19:35.371305-10:00.hyperlinks.json) |
 | [October 12 at 2:54 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-12T02:54:34.790980-10:00.hyperlinks.json) |
 | [October 11 at 3:36 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-11T15:36:35.837632-10:00.hyperlinks.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-11T03:07:06.492088-10:00.hyperlinks.json) |
-| [October 10 at 3:26 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-10T15:26:40.432190-10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 63 accessibility trees with the Internet Archive.
+The archiving routine has saved 65 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 2:54 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-16T02:54:09.270149-10:00.accessibility.json) |
+| [October 15 at 3:37 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-15T15:37:26.967132-10:00.accessibility.json) |
 | [October 15 at 3:01 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-15T03:01:42.735452-10:00.accessibility.json) |
 | [October 14 at 3:21 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-14T15:21:25.022420-10:00.accessibility.json) |
 | [October 14 at 3:09 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-14T03:09:23.446201-10:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 12 at 3:19 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-12T15:19:35.371305-10:00.accessibility.json) |
 | [October 12 at 2:54 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-12T02:54:34.790980-10:00.accessibility.json) |
 | [October 11 at 3:36 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-11T15:36:35.837632-10:00.accessibility.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-11T03:07:06.492088-10:00.accessibility.json) |
-| [October 10 at 3:26 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-10T15:26:40.432190-10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 64 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 66 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 2:54 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-16T02:54:09.270149-10:00.lighthouse.json) |
+| [October 15 at 3:37 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-15T15:37:26.967132-10:00.lighthouse.json) |
 | [October 15 at 3:01 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-15T03:01:42.735452-10:00.lighthouse.json) |
 | [October 14 at 3:21 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-14T15:21:25.022420-10:00.lighthouse.json) |
 | [October 14 at 3:09 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-14T03:09:23.446201-10:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 12 at 3:19 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-12T15:19:35.371305-10:00.lighthouse.json) |
 | [October 12 at 2:54 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-12T02:54:34.790980-10:00.lighthouse.json) |
 | [October 11 at 3:36 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-11T15:36:35.837632-10:00.lighthouse.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/khonnews-2022/khonnews-2022-10-11T03:07:06.492088-10:00.lighthouse.json) |
-| [October 10 at 3:26 PM](https://archive.org/download/khonnews-2022/khonnews-2022-10-10T15:26:40.432190-10:00.lighthouse.json) |
 
 
 
