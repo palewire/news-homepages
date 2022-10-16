@@ -1,5 +1,5 @@
 {
-  "created": 1665806146,
+  "created": 1665892622,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/25/items/theperrychief-2022",
@@ -3736,31 +3736,155 @@
       "sha1": "7f98b7cefe676a87ad1f0c5d326e22ae4ccc607e"
     },
     {
+      "name": "theperrychief-2022-10-15T10:12:04.805771-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665846728",
+      "size": "20883",
+      "md5": "986e86ce3daafa7955def121a2c56c4c",
+      "crc32": "bb7ef46e",
+      "sha1": "6cec1fd20ad4dc18cf01d3568aa20b71db89c970",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-15T10:12:04.805771-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665846733",
+      "size": "38774",
+      "md5": "87ccead238d9242daa43c3b96e6ec6bb",
+      "crc32": "75a06fb6",
+      "sha1": "3fb863ebb7b2d4b596c0d2749d801e92800d8192",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-15T10:12:04.805771-05:00.jpg",
+      "source": "original",
+      "mtime": "1665846726",
+      "size": "229339",
+      "md5": "71c20d90b13df5c361baf2ef3629f5b6",
+      "crc32": "fb229f14",
+      "sha1": "b85f2f1ce8e075df5ff759583ff39c426c4c325d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-15T10:12:04.805771-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665846735",
+      "size": "1837",
+      "md5": "bc596a713c6f9807d2f67cd4f6ee5bb3",
+      "crc32": "b3e44c50",
+      "sha1": "25e5c3658d994c3b24050e775c3ddcb2db1b6330",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-15T10:12:04.805771-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665846738",
+      "size": "72919",
+      "md5": "4792a21d1e7ccc189d177d025e718302",
+      "crc32": "7523cdd4",
+      "sha1": "2b32ac579fb986de6c54d7d29563ccd4d791a069",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-15T10:12:04.805771-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-15T10:12:04.805771-05:00.jpg",
+      "mtime": "1665846795",
+      "size": "8877",
+      "md5": "4df2a75bbccdbb278e27f26f60a1c68c",
+      "crc32": "9f65c3c4",
+      "sha1": "5955666fc44c49c3234bfa03dcc522fdd355a35c"
+    },
+    {
+      "name": "theperrychief-2022-10-15T22:55:46.906305-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665892550",
+      "size": "20348",
+      "md5": "3fe08ef356d132d6169e4c8ca1ff12d1",
+      "crc32": "84e69e96",
+      "sha1": "6e4491837f5f21eefc40414cf21cf74222ea44ec",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-15T22:55:46.906305-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665892552",
+      "size": "32682",
+      "md5": "d923e38f23d54a6f210464f81b7f0918",
+      "crc32": "08deb5f6",
+      "sha1": "4b49ff471ee006ae79643f55d299f9df46c95959",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-15T22:55:46.906305-05:00.jpg",
+      "source": "original",
+      "mtime": "1665892549",
+      "size": "228672",
+      "md5": "164ee598980acbe9057f057cafb81fff",
+      "crc32": "43127de2",
+      "sha1": "850ab7108c6296d839fb37755f94f91feeb9509c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-15T22:55:46.906305-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665892553",
+      "size": "1837",
+      "md5": "8c2b1daeb1e43968363ad61b7fc594fd",
+      "crc32": "93c9019e",
+      "sha1": "45185d848de4993e88b3e52c4ae2323841a461f9",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-15T22:55:46.906305-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665892555",
+      "size": "70831",
+      "md5": "00461757ec9b32acd8dcc740d1bf61c8",
+      "crc32": "376e0fb7",
+      "sha1": "8875238c8e13e0b99d11319d2d95206e7b5bd537",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-15T22:55:46.906305-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-15T22:55:46.906305-05:00.jpg",
+      "mtime": "1665892607",
+      "size": "8892",
+      "md5": "46959d7b0a0a718024c8a08c74f7fc34",
+      "crc32": "d7fa10c0",
+      "sha1": "3ce0faa8fe144eb5f960b8e7a907996c26bd634d"
+    },
+    {
       "name": "theperrychief-2022_archive.torrent",
       "source": "metadata",
-      "btih": "053e1ae664f3f896c6656ccc4a9116ab8df0a778",
-      "mtime": "1665806128",
-      "size": "79198",
-      "md5": "1356a7b08bf8a0e91a5ed51b559cdb8a",
-      "crc32": "0ba1982e",
-      "sha1": "fc081a43b247eedf266b8f8e99cc9ee0e38e030c",
+      "btih": "263694a667f8618c12e33a454788ff53b0a0a116",
+      "mtime": "1665892614",
+      "size": "81772",
+      "md5": "a17cd89660294b2526f4b1b6cbcde9fc",
+      "crc32": "b24fa59c",
+      "sha1": "5db8e7c407989e7d5f046c17deaf82663d71f9b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theperrychief-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad59cc718a0c194bf0fb527c2bc50e1a",
+      "md5": "83907898324f2d2c7f5ce03e75c855f7",
       "summation": "md5"
     },
     {
       "name": "theperrychief-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665806063",
-      "size": "483328",
-      "md5": "83ac354417e60dc01417cc9c498b4659",
-      "crc32": "b71bff0b",
-      "sha1": "70c45784ae98c90337d4d98e4f3a030777a67816",
+      "mtime": "1665892560",
+      "size": "499712",
+      "md5": "17e6ade58f14e2a4296e1f88235e2bbc",
+      "crc32": "007c53b2",
+      "sha1": "c9bdd3d7e41e79a826e339c7244b7c03cc85bbcb",
       "format": "Metadata"
     },
     {
@@ -3774,9 +3898,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 365,
-  "item_last_updated": 1665806128,
-  "item_size": 24211110,
+  "files_count": 377,
+  "item_last_updated": 1665892614,
+  "item_size": 24965959,
   "metadata": {
     "identifier": "theperrychief-2022",
     "collection": [
@@ -3794,7 +3918,7 @@
     "addeddate": "2022-09-21 03:45:08"
   },
   "server": "ia601409.us.archive.org",
-  "uniq": 182499274,
+  "uniq": 242830055,
   "workable_servers": [
     "ia601409.us.archive.org",
     "ia801409.us.archive.org"

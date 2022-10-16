@@ -1,5 +1,5 @@
 {
-  "created": 1665805969,
+  "created": 1665895017,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/27/items/stamadvocate-2022",
@@ -3892,31 +3892,155 @@
       "sha1": "9dc53b5e4a0dc11898ca64c181af4802b8b248d0"
     },
     {
+      "name": "stamadvocate-2022-10-15T11:09:24.426285-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665846568",
+      "size": "78169",
+      "md5": "cf0239f779384265d5e2a8d956a4c11f",
+      "crc32": "98445057",
+      "sha1": "7fc96d45c4dddd89e6036f15113e6add5328dde7",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T11:09:24.426285-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665846570",
+      "size": "79594",
+      "md5": "58fd6523a24ac910e12d88dae599bf21",
+      "crc32": "a5acf367",
+      "sha1": "6838f24da36226bcdfded33987e5a255fcea1601",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T11:09:24.426285-04:00.jpg",
+      "source": "original",
+      "mtime": "1665846567",
+      "size": "316812",
+      "md5": "7ea743222345fccf44a772581a923de5",
+      "crc32": "2222053b",
+      "sha1": "671c8986909ca358e2c723c3a38be9c74c5b59fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T11:09:24.426285-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665846572",
+      "size": "1549",
+      "md5": "43422d85c4674b3aba2e47e431a1bdfc",
+      "crc32": "cd7e26f5",
+      "sha1": "abef4df073d80ef74bfcf46831b97d314255a880",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T11:09:24.426285-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665846575",
+      "size": "89349",
+      "md5": "65492922c360446dec17eea9cb1b289b",
+      "crc32": "98a2a2dd",
+      "sha1": "2725210466a61f372dc5c85a4ec359ef2dab5cf1",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T11:09:24.426285-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stamadvocate-2022-10-15T11:09:24.426285-04:00.jpg",
+      "mtime": "1665846660",
+      "size": "9493",
+      "md5": "13cc3c3895aec76c060130b67779851c",
+      "crc32": "b9fe8b4a",
+      "sha1": "310116514ee12f6863d2f06e5910d5ae1f251135"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T23:52:16.851312-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665892350",
+      "size": "76515",
+      "md5": "b773533d08202d47004dc7e5bc881549",
+      "crc32": "adc7ca2a",
+      "sha1": "42c11981f2c0b0646f649f17f80413737f672c52",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T23:52:16.851312-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665892352",
+      "size": "78269",
+      "md5": "da6eecb323677047574517d2c622abbf",
+      "crc32": "6417d183",
+      "sha1": "f508c04b4bd0d94629208daf1d2dc697fcbc2b75",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T23:52:16.851312-04:00.jpg",
+      "source": "original",
+      "mtime": "1665892348",
+      "size": "321145",
+      "md5": "c4174344128c7d0a341ebda10fc91f65",
+      "crc32": "e8ef8ab6",
+      "sha1": "9df2c1d7d9f595f443d05685eb5c37ec8367ec22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T23:52:16.851312-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665892353",
+      "size": "1549",
+      "md5": "9e055afe6588754b1f52412e497e9957",
+      "crc32": "8179bc84",
+      "sha1": "b92e1e0e3c01d92b61f4024b6e4f8679e30a5c81",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T23:52:16.851312-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665892355",
+      "size": "257",
+      "md5": "aad0841ca36d2cb39545c86b3a02585f",
+      "crc32": "532f0ab5",
+      "sha1": "995200f65263012387da99167ebb94dbbb80d482",
+      "format": "JSON"
+    },
+    {
+      "name": "stamadvocate-2022-10-15T23:52:16.851312-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stamadvocate-2022-10-15T23:52:16.851312-04:00.jpg",
+      "mtime": "1665892421",
+      "size": "9840",
+      "md5": "cfa048801379f2d6a5017a4f2bf1aeb6",
+      "crc32": "4dd18d09",
+      "sha1": "8a4ba90b745ab1bbd62780f8da69b0ab80a3d2a9"
+    },
+    {
       "name": "stamadvocate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0b61f1accc4636e076c86c95a0ba57538860dc6",
-      "mtime": "1665805944",
-      "size": "82427",
-      "md5": "050c70210e808fb548ded10ea96de259",
-      "crc32": "b44fbce7",
-      "sha1": "0a1a3405180a5c791799c18fa9573e25dc819e48",
+      "btih": "ba242de734b760697063ba7f0d2f74686b2e31a9",
+      "mtime": "1665892425",
+      "size": "85027",
+      "md5": "19272084a7b97a89d99fcc49bdd9ff21",
+      "crc32": "4ae2eb91",
+      "sha1": "7f286130609438d27b479366e282014257247780",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stamadvocate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f12223dee6efaff2c6e10b68781bd6d",
+      "md5": "f1df0270916122f5d60dd5b38361b3a1",
       "summation": "md5"
     },
     {
       "name": "stamadvocate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665805876",
-      "size": "499712",
-      "md5": "1d742a7e34d60647b2a10c88daf69ff6",
-      "crc32": "01c9cce1",
-      "sha1": "34aad37093ea56a03eedbf8cee669794a86b9305",
+      "mtime": "1665892361",
+      "size": "516096",
+      "md5": "b5ee96f15882800a5c5df60bd011f77a",
+      "crc32": "08bb962b",
+      "sha1": "f8f2c4289a7c57cea7e433eed9792a3d1a251a1a",
       "format": "Metadata"
     },
     {
@@ -3930,9 +4054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 380,
-  "item_last_updated": 1665805944,
-  "item_size": 35730682,
+  "files_count": 392,
+  "item_last_updated": 1665892425,
+  "item_size": 36812207,
   "metadata": {
     "identifier": "stamadvocate-2022",
     "collection": [
@@ -3950,7 +4074,15 @@
     "addeddate": "2022-09-14 01:26:51"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1215436971,
+  "stamadvocate-2022": {
+    "url": "https://www.stamfordadvocate.com/",
+    "job_id": "spn2-d4945058305d00de97613cb590c93e6b3680d97e",
+    "resources": [],
+    "status": "error",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 555.",
+    "status_ext": "WorkerLostError"
+  },
+  "uniq": 2037971512,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"
