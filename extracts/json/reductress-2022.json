@@ -1,5 +1,5 @@
 {
-  "created": 1665846531,
+  "created": 1665888437,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/34/items/reductress-2022",
@@ -7684,31 +7684,93 @@
       "sha1": "e3136cade945f7c3966b3c53f933b3e98ec84809"
     },
     {
+      "name": "reductress-2022-10-15T22:45:29.239462-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665888339",
+      "size": "20087",
+      "md5": "eb79dd1e8d7f333033080fafc3ba1aa2",
+      "crc32": "17590c25",
+      "sha1": "ff46d09e927c2c8cef7240bea9c56f60babe6118",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-15T22:45:29.239462-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665888340",
+      "size": "20388",
+      "md5": "1dc1939caae38f776e163b6c72ce3184",
+      "crc32": "ff14854e",
+      "sha1": "60aa9d8b4b9e8025556dbe675f13fe7e2918b0cb",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-15T22:45:29.239462-04:00.jpg",
+      "source": "original",
+      "mtime": "1665888337",
+      "size": "309982",
+      "md5": "8c7c3bc78b8385c8964584c744adff63",
+      "crc32": "0e1431d9",
+      "sha1": "4e31ea0c4e282b6fcf6f91f002c66fad8a42b319",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-15T22:45:29.239462-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665888342",
+      "size": "1459",
+      "md5": "d43f6dbb922a6832fb969b9caa4c876e",
+      "crc32": "d63ac7e2",
+      "sha1": "a3e477ca02e318e1f1dd4a4d62c4440aa28124f3",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-15T22:45:29.239462-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665888344",
+      "size": "27570",
+      "md5": "d54fbb5eb6495d8808faf1ca98e93561",
+      "crc32": "ced84266",
+      "sha1": "b49d5fc13ee5c7a1917287c16b9b49a3d6b623e8",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-15T22:45:29.239462-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-15T22:45:29.239462-04:00.jpg",
+      "mtime": "1665888418",
+      "size": "10651",
+      "md5": "54223557849fc426a0ca7f5b63a041a2",
+      "crc32": "05a45f38",
+      "sha1": "7185e0f8cc36134e3a3c801d0578cf9941f758c8"
+    },
+    {
       "name": "reductress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4cae224afb12fb92e87c8865eb64f8052caf0550",
-      "mtime": "1665846507",
-      "size": "159227",
-      "md5": "82e5b5e8e6a11640da2de16724b8312e",
-      "crc32": "28f397bf",
-      "sha1": "2aa099c830fbedec4653771e708dde88c69a4edd",
+      "btih": "3e4f077b44dd9602b76c115811dd22c0c98514bf",
+      "mtime": "1665888426",
+      "size": "160487",
+      "md5": "797d8d3fb3870e78d8d7bcb161e0c5c8",
+      "crc32": "0275c133",
+      "sha1": "2c369407c8b7f84ba0f92d44b69917faf62a4f71",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reductress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "63481cf2e9061270d2573fdbae8b5273",
+      "md5": "2384cecfa932c612fa20632098a11557",
       "summation": "md5"
     },
     {
       "name": "reductress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665846404",
-      "size": "962560",
-      "md5": "d5b08dbb1c37770c30b792e9a02ac45b",
-      "crc32": "6492feeb",
-      "sha1": "9bdcf59724ef984fc0b8dd6f1340a0f04cc9b621",
+      "mtime": "1665888350",
+      "size": "970752",
+      "md5": "69a4327a7d37d334e3cacbce1962d50c",
+      "crc32": "7dae8783",
+      "sha1": "851cc90daaa08e5e7819580c8358d70d7ea5268d",
       "format": "Metadata"
     },
     {
@@ -7722,9 +7784,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 747,
-  "item_last_updated": 1665846507,
-  "item_size": 50065457,
+  "files_count": 753,
+  "item_last_updated": 1665888426,
+  "item_size": 50465046,
   "metadata": {
     "identifier": "reductress-2022",
     "collection": [
@@ -7741,10 +7803,10 @@
     "publicdate": "2022-08-15 01:29:39",
     "addeddate": "2022-08-15 01:29:39"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 534519154,
+  "server": "ia601502.us.archive.org",
+  "uniq": 1674389080,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

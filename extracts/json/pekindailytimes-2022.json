@@ -1,5 +1,5 @@
 {
-  "created": 1665846255,
+  "created": 1665888232,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/18/items/pekindailytimes-2022",
@@ -3116,31 +3116,93 @@
       "sha1": "6f40d55ac30bc3f9be4858943a5bedf5c53840e0"
     },
     {
+      "name": "pekindailytimes-2022-10-15T21:42:06.403866-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665888129",
+      "size": "23528",
+      "md5": "5bb3940ca1fda48e58f8cfdf6bf26ae7",
+      "crc32": "94d54dc0",
+      "sha1": "6a53113117b4cb4da28e289c4b6fc64fddf10d39",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-15T21:42:06.403866-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665888131",
+      "size": "31081",
+      "md5": "b213d7765a700d6ec0ca7b8bd9b2c559",
+      "crc32": "e6c53715",
+      "sha1": "53b62d856d9d214046d2256a2286f18070d447cc",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-15T21:42:06.403866-05:00.jpg",
+      "source": "original",
+      "mtime": "1665888128",
+      "size": "270324",
+      "md5": "b2baca706247b78d5c1732b16bc8f446",
+      "crc32": "e79aacba",
+      "sha1": "638d4ee94dd60eb68c3b81edcbe2034b4c5cef0c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pekindailytimes-2022-10-15T21:42:06.403866-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665888132",
+      "size": "1495",
+      "md5": "0489d894dc621ab12c98bc6c39163cb0",
+      "crc32": "4074d47f",
+      "sha1": "1c78db46c39f3584056cddcbb90524674d9244f7",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-15T21:42:06.403866-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665888134",
+      "size": "248646",
+      "md5": "bb3aabef804a47730ed4a20032407cd8",
+      "crc32": "e16e80f0",
+      "sha1": "06227467ffbe0b598a87b74709b581898817d766",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-15T21:42:06.403866-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pekindailytimes-2022-10-15T21:42:06.403866-05:00.jpg",
+      "mtime": "1665888203",
+      "size": "9559",
+      "md5": "dc6aada7963c2b713cba8388bed1d6c9",
+      "crc32": "d3acae57",
+      "sha1": "3a77c22905312d0950cee154e2d076a827b4e7b8"
+    },
+    {
       "name": "pekindailytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a97d073fd3b8b574aecc0fca1053911816b3ad6",
-      "mtime": "1665846238",
-      "size": "66903",
-      "md5": "44b0155da4fa78344c031490539ecc9c",
-      "crc32": "b1a38a22",
-      "sha1": "0e8db1c36bd3d613d8d1f81f33b81186a1c2a1e7",
+      "btih": "81ca2bb31689e58a689202d9e0ac47171137fef7",
+      "mtime": "1665888208",
+      "size": "68213",
+      "md5": "5435d840b57d3f7f62995e908606eadc",
+      "crc32": "bc0cc5bd",
+      "sha1": "ea586b53dfbbc0599f2cb99911c42462adf5be3c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pekindailytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c8f92169684e8285f5a3f317880fe2f",
+      "md5": "700814f6cf05247dd96c569fb6b77307",
       "summation": "md5"
     },
     {
       "name": "pekindailytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665846172",
-      "size": "409600",
-      "md5": "15a6b942408aa035ea127715ece94f50",
-      "crc32": "6586dfea",
-      "sha1": "3afbc02d2a4e903507e93a76ab9513f5c47e71a3",
+      "mtime": "1665888139",
+      "size": "413696",
+      "md5": "2a32cd65a652299647f94471c5196167",
+      "crc32": "a7851432",
+      "sha1": "4a46f6c91f06cb2e0fbfb90f89280992c257bd4f",
       "format": "Metadata"
     },
     {
@@ -3154,9 +3216,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 305,
-  "item_last_updated": 1665846238,
-  "item_size": 20629394,
+  "files_count": 311,
+  "item_last_updated": 1665888208,
+  "item_size": 21219433,
   "metadata": {
     "identifier": "pekindailytimes-2022",
     "collection": [
@@ -3174,7 +3236,7 @@
     "addeddate": "2022-09-21 02:22:42"
   },
   "server": "ia801502.us.archive.org",
-  "uniq": 1602522141,
+  "uniq": 72331052,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"
