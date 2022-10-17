@@ -1,5 +1,6 @@
 {
-  "created": 1665946321,
+  "conflict": 1665973374,
+  "created": 1665973374,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/17/items/jijicom-2022",
@@ -16998,31 +16999,93 @@
       "sha1": "2f2b4253bc1c45ad9da36f60363333393325ee44"
     },
     {
+      "name": "jijicom-2022-10-17T11:19:50.529655+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665973194",
+      "size": "48058",
+      "md5": "f889ff219f738eeb0003c3800238586d",
+      "crc32": "d03bebf8",
+      "sha1": "09d6d1490008f2c290bcae4673f3f44f4827b99b",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-17T11:19:50.529655+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665973196",
+      "size": "46204",
+      "md5": "29922cd5beb550188ce9966db6e86f35",
+      "crc32": "452a6eee",
+      "sha1": "f80c064991a96e7be19e3cd40cc1d2bd8d6950d9",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-17T11:19:50.529655+09:00.jpg",
+      "source": "original",
+      "mtime": "1665973192",
+      "size": "367114",
+      "md5": "9bbfeb7c64fd00adc28ecee60a113b29",
+      "crc32": "1eecb1be",
+      "sha1": "5fcbd0c94132e440670b55a9fb8933ca691ab352",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jijicom-2022-10-17T11:19:50.529655+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665973197",
+      "size": "1468",
+      "md5": "14fcedb3cc218d6ea6de99f0e243cd21",
+      "crc32": "579063d6",
+      "sha1": "e60c270902dffc28e39e791f950d0a39cd9a6187",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-17T11:19:50.529655+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1665973199",
+      "size": "34824",
+      "md5": "9d2a9ccc0c85c213c5a5660a4c22b6d5",
+      "crc32": "348a8f28",
+      "sha1": "14116abfcd7908d694e27a0a4edcb7db7b82a305",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-17T11:19:50.529655+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jijicom-2022-10-17T11:19:50.529655+09:00.jpg",
+      "mtime": "1665973336",
+      "size": "10654",
+      "md5": "c4f0860e1b194c96f7aeeff0d1178a2a",
+      "crc32": "8e2746f8",
+      "sha1": "54a58ba1f2fbeb630fc6d0cbbc478be05c61e641"
+    },
+    {
       "name": "jijicom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec045834d07689a17b5bfc17b7665c601744c358",
-      "mtime": "1665941353",
-      "size": "345820",
-      "md5": "9c76d195cadf2da0edbcb7a77520289a",
-      "crc32": "83862b43",
-      "sha1": "2b59fb9b70ed36b2c906953e2eefe5f4ad7e2a26",
+      "btih": "579b4d01caaadfd080dd0737c55a02a4f930be64",
+      "mtime": "1665973371",
+      "size": "347082",
+      "md5": "d0dfdbfeed176a6447485362fe0edddc",
+      "crc32": "0efd4ba8",
+      "sha1": "5d0a29b6e309f2d2062d787f9c96180fd977b689",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jijicom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a5df03c16ebe30eb77cf985c85bca1e",
+      "md5": "1f8ea4a0377aa903efaa6261f1ab6476",
       "summation": "md5"
     },
     {
       "name": "jijicom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665941225",
-      "size": "2056192",
-      "md5": "2461a77a61d8f38003e1907a3de75553",
-      "crc32": "8628bde3",
-      "sha1": "846fc24a282478bf9afc35b8ed3bc63871e7d2c4",
+      "mtime": "1665973225",
+      "size": "2064384",
+      "md5": "b0485db3095ef1891d2205410875a19f",
+      "crc32": "dea15bbb",
+      "sha1": "298616f20bcb5e3bcefe5a7e88e3e36b9116449d",
       "format": "Metadata"
     },
     {
@@ -17036,17 +17099,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1644,
-  "item_last_updated": 1665941353,
-  "item_size": 139600282,
-  "jijicom-2022": {
-    "url": "https://www.jiji.com/",
-    "job_id": "spn2-ee4d4b8d8610cf91cba48fd902bb1bdf00d76efc",
-    "resources": [],
-    "status": "error",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed"
-  },
+  "files_count": 1650,
+  "item_last_updated": 1665973371,
+  "item_size": 140118058,
   "metadata": {
     "identifier": "jijicom-2022",
     "collection": [
@@ -17063,10 +17118,21 @@
     "publicdate": "2022-07-09 02:39:28",
     "addeddate": "2022-07-09 02:39:28"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 497908968,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3442749344,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 976855429,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }
