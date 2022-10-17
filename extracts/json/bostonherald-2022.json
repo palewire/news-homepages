@@ -1,10 +1,5 @@
 {
-  "bostonherald-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666004428,
+  "created": 1666047624,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/33/items/bostonherald-2022",
@@ -9955,31 +9950,93 @@
       "sha1": "f3ef76448339a4ef418c278ff502ae5fb838d0d6"
     },
     {
+      "name": "bostonherald-2022-10-17T18:58:09.090432-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047499",
+      "size": "45333",
+      "md5": "2c534d1a879bd03a362791d685f95695",
+      "crc32": "94b9c7cf",
+      "sha1": "60acee1a92d26825a77432756a2ff81e858297d9",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-10-17T18:58:09.090432-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047500",
+      "size": "46078",
+      "md5": "35ded0066ae9650a122e66e34e4ecd70",
+      "crc32": "28d3a44a",
+      "sha1": "bfd27f993f07f2fb4f2788d0354b29bce48448db",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-10-17T18:58:09.090432-04:00.jpg",
+      "source": "original",
+      "mtime": "1666047497",
+      "size": "279002",
+      "md5": "921aec24748341ed28e6e3ee843bedd5",
+      "crc32": "655402b3",
+      "sha1": "de713565aef8f445670900fb8b5aaffa25397e6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bostonherald-2022-10-17T18:58:09.090432-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047502",
+      "size": "1513",
+      "md5": "ee46764189d056533627009946f75d6a",
+      "crc32": "907281bd",
+      "sha1": "d4f6ca7ab6adfac5901f4f3f467beb9ec8df2872",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-10-17T18:58:09.090432-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047503",
+      "size": "38619",
+      "md5": "3e13543c083b9a9907efdfc74bbcdc22",
+      "crc32": "4c70446b",
+      "sha1": "0ee0873737a2c9ee1bc3496b7e317bcf31d842ec",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-10-17T18:58:09.090432-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bostonherald-2022-10-17T18:58:09.090432-04:00.jpg",
+      "mtime": "1666047586",
+      "size": "9351",
+      "md5": "b216430a5d5c2b9fba70ba592b96d95e",
+      "crc32": "47011b42",
+      "sha1": "7089ae7f96908f1f778f9047a52bbac6a0465afc"
+    },
+    {
       "name": "bostonherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb876d15b27fcd0017a548b00abd22ff5fe8e924",
-      "mtime": "1665961518",
-      "size": "207596",
-      "md5": "66e6ee3b739f625d0580746cd04ccaae",
-      "crc32": "a2e10650",
-      "sha1": "0b89f892361e604c2069f07fb122f697d5dd971e",
+      "btih": "f37d4871a48ee4aae71ef5e19d96cdf94cd927cc",
+      "mtime": "1666047601",
+      "size": "208887",
+      "md5": "c52227edb4abb8aa0f557868bacdf63d",
+      "crc32": "406a5f04",
+      "sha1": "29855896732fa8056ce26fbd3affd019a8aebb36",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4939c29d67ce3252851518844b859b2b",
+      "md5": "417dc8565d504b8862eca2449c1e0347",
       "summation": "md5"
     },
     {
       "name": "bostonherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665961414",
-      "size": "1241088",
-      "md5": "3f1c437c0401bce0d16cc8dbfd0c1790",
-      "crc32": "bb29c164",
-      "sha1": "b1a4fbdf01651a904826d53cee6733b2fdb4eedc",
+      "mtime": "1666047511",
+      "size": "1249280",
+      "md5": "b0bba889482c10fbbb12946ba1ea984a",
+      "crc32": "5fceb4ed",
+      "sha1": "c703f35158a27b577c7b65aaac67bf03ae8e303d",
       "format": "Metadata"
     },
     {
@@ -9993,9 +10050,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 966,
-  "item_last_updated": 1665961518,
-  "item_size": 65030304,
+  "files_count": 972,
+  "item_last_updated": 1666047601,
+  "item_size": 65459683,
   "metadata": {
     "identifier": "bostonherald-2022",
     "collection": [
@@ -10012,10 +10069,10 @@
     "publicdate": "2022-07-27 23:03:07",
     "addeddate": "2022-07-27 23:03:07"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 895124925,
+  "server": "ia601503.us.archive.org",
+  "uniq": 1627289470,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

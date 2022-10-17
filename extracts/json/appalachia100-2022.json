@@ -1,5 +1,5 @@
 {
-  "created": 1666003880,
+  "created": 1666047195,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/appalachia100-2022",
@@ -11764,31 +11764,93 @@
       "sha1": "020474cdc479e94cf9d55a6c33fac33e180a98df"
     },
     {
+      "name": "appalachia100-2022-10-17T18:51:38.097925-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047101",
+      "size": "1109",
+      "md5": "2ebff2a418f698186e7e3a66572fb65c",
+      "crc32": "d0a7518b",
+      "sha1": "cbe181eabc9646d5f446ffd9b9571643dc83b933",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-10-17T18:51:38.097925-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047103",
+      "size": "39689",
+      "md5": "a9290ccd75cae627b5375240f75c68c5",
+      "crc32": "92cb7b02",
+      "sha1": "9f7c441f9cc0eada8e671e00004ffea0a0bb7054",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-10-17T18:51:38.097925-04:00.jpg",
+      "source": "original",
+      "mtime": "1666047099",
+      "size": "256304",
+      "md5": "dc6b049bfaed9211328433685d146d2a",
+      "crc32": "f6d7a33b",
+      "sha1": "9742d5978399dc4c8e81b19acb249556af2e2de2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-10-17T18:51:38.097925-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047105",
+      "size": "1575",
+      "md5": "536a13b9a8c53f39d7735e542cbcbef4",
+      "crc32": "14fe2dc9",
+      "sha1": "4205d9963d1cdc9192bb77dfde79669428f68ced",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-10-17T18:51:38.097925-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047107",
+      "size": "28842",
+      "md5": "888b718762ba9e880a08eeb4870b7dde",
+      "crc32": "6435d1b7",
+      "sha1": "5abda41234cae54180cdb72b01a49b5412d92858",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-10-17T18:51:38.097925-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-10-17T18:51:38.097925-04:00.jpg",
+      "mtime": "1666047175",
+      "size": "9595",
+      "md5": "4e0ca2da3ce23db7147954c29976ebd9",
+      "crc32": "05ce72a6",
+      "sha1": "020474cdc479e94cf9d55a6c33fac33e180a98df"
+    },
+    {
       "name": "appalachia100-2022_archive.torrent",
       "source": "metadata",
-      "btih": "afc6eb77dd8359acd598208007ebb7f4370ab707",
-      "mtime": "1666003874",
-      "size": "245368",
-      "md5": "06c75ca28672a3707f44d55c637bbfae",
-      "crc32": "1f46c570",
-      "sha1": "d9e78013f2a0c9f4cb0456609f0956593eaddac9",
+      "btih": "513c8caa0f28988498debeb0b6c38a1a7e4a936c",
+      "mtime": "1666047188",
+      "size": "246664",
+      "md5": "16dc23366e8d677faba89e724101bd95",
+      "crc32": "0a9cab70",
+      "sha1": "79e623b7bbd799f7b235a7be7b2a941c1b7b72d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "appalachia100-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36698c9d8171b1d47dbe1c1f6e995398",
+      "md5": "d4734045da2fabd2beff9b04aa69e248",
       "summation": "md5"
     },
     {
       "name": "appalachia100-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666003802",
-      "size": "1437696",
-      "md5": "a6aa505d2874c8f4daad02499c160091",
-      "crc32": "6b16a181",
-      "sha1": "3b05229bab383ad0b7bdd32b9cfa72012bebb234",
+      "mtime": "1666047112",
+      "size": "1454080",
+      "md5": "a503dbfe19dbe8b09f17f2ee80daa786",
+      "crc32": "e92e081e",
+      "sha1": "40d8f0b1b7f8bf1d9fab776e10360bcce58e5618",
       "format": "Metadata"
     },
     {
@@ -11802,9 +11864,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1139,
-  "item_last_updated": 1666003874,
-  "item_size": 72424599,
+  "files_count": 1145,
+  "item_last_updated": 1666047188,
+  "item_size": 72779393,
   "metadata": {
     "identifier": "appalachia100-2022",
     "collection": [
@@ -11821,10 +11883,10 @@
     "publicdate": "2022-07-09 03:55:39",
     "addeddate": "2022-07-09 03:55:39"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 293862429,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1422021373,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
