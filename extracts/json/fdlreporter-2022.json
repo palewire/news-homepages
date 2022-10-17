@@ -1,5 +1,5 @@
 {
-  "created": 1665988129,
+  "created": 1666030323,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/fdlreporter-2022",
@@ -3354,31 +3354,83 @@
       "sha1": "b00669d2f7e10adbbc1a8797c434879f919c5f3e"
     },
     {
+      "name": "fdlreporter-2022-10-17T13:10:10.208955-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666030227",
+      "size": "26372",
+      "md5": "84a8ca2acf89a2aed0d7b8bca27641c6",
+      "crc32": "f0dd4988",
+      "sha1": "0869ee288faf05688490e3d01e673585beeaaef7",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-17T13:10:10.208955-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666030229",
+      "size": "42521",
+      "md5": "4fab51be973fdd61fd08260c828b2a25",
+      "crc32": "08d974bf",
+      "sha1": "d3d80476478706353b63bf7099262c06742734f8",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-17T13:10:10.208955-05:00.jpg",
+      "source": "original",
+      "mtime": "1666030225",
+      "size": "307663",
+      "md5": "eadc0a6574dec066d7db0974d2ecd727",
+      "crc32": "58fcda3b",
+      "sha1": "34adfc0eb5bd7abd3455e6b47ef8e944e75a78f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fdlreporter-2022-10-17T13:10:10.208955-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666030230",
+      "size": "1504",
+      "md5": "f014cb99670649933df211133ae0a69d",
+      "crc32": "753f0bd3",
+      "sha1": "d40e58b6337fa5e02c1b125c9a831875cbd8bb70",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-17T13:10:10.208955-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fdlreporter-2022-10-17T13:10:10.208955-05:00.jpg",
+      "mtime": "1666030298",
+      "size": "9728",
+      "md5": "b4c5530e84be23e0b9f445931a4b8446",
+      "crc32": "16a7b702",
+      "sha1": "21d9b269c67a3f35a8738211141bec91f1a28618"
+    },
+    {
       "name": "fdlreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ec775e4be3231db7def272f528366e94df82645",
-      "mtime": "1665988106",
-      "size": "70569",
-      "md5": "dd718cfbe4d47396ae7c448f11b0f3e3",
-      "crc32": "cec0d6b6",
-      "sha1": "285b027fdd480662b0f72042f9f6d32b5de309b1",
+      "btih": "5694f5c5397951b8c32e9fdd05734b665e52e0ed",
+      "mtime": "1666030303",
+      "size": "71643",
+      "md5": "1e67491834a2d469d18fc62435a45a31",
+      "crc32": "cac2d6da",
+      "sha1": "134a24e0b3711f52d303ac42be61a815f761ec61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fdlreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa72f07f65900e211bf883b36a376035",
+      "md5": "dbf79a04b5f0c3f4338a77b2bde368d7",
       "summation": "md5"
     },
     {
       "name": "fdlreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665988019",
-      "size": "434176",
-      "md5": "973ca8a4ebf748d6940b93a5b94de325",
-      "crc32": "948933e8",
-      "sha1": "7c13abe818018aeed5ad90ec644980d850f8649c",
+      "mtime": "1666030240",
+      "size": "438272",
+      "md5": "98e875820679649e4bc4b781acedf5ea",
+      "crc32": "670d2cc4",
+      "sha1": "ebf6043ca256f32651dea7461f9a19c54b52e0c8",
       "format": "Metadata"
     },
     {
@@ -3392,9 +3444,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 328,
-  "item_last_updated": 1665988106,
-  "item_size": 22240253,
+  "files_count": 333,
+  "item_last_updated": 1666030303,
+  "item_size": 22633211,
   "metadata": {
     "identifier": "fdlreporter-2022",
     "collection": [
@@ -3411,10 +3463,10 @@
     "publicdate": "2022-09-20 17:49:26",
     "addeddate": "2022-09-20 17:49:26"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1437995593,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1668723110,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

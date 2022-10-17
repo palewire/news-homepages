@@ -1,15 +1,12 @@
 {
-  "created": 1665992880,
+  "created": 1666035874,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/30/items/elcorreo_com-2022",
   "elcorreo_com-2022": {
-    "url": "https://www.elcorreo.com/",
-    "job_id": "spn2-c86db35b9f7d32afbfe88a08eaa4d6797d304cd6",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 618.",
-    "resources": [],
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "status_ext": "WorkerLostError"
+    "status_ext": "error:user-session-limit"
   },
   "files": [
     {
@@ -4844,31 +4841,61 @@
       "format": "JSON"
     },
     {
+      "name": "elcorreo_com-2022-10-17T20:10:42.276792+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666030254",
+      "size": "199686",
+      "md5": "664935ba9de8437dfe4b6d6b4254d840",
+      "crc32": "a708b1a5",
+      "sha1": "81d227545bbbb276aedcd103328bffb633787425",
+      "format": "JSON"
+    },
+    {
+      "name": "elcorreo_com-2022-10-17T20:10:42.276792+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666030256",
+      "size": "1477",
+      "md5": "598c0d38183664f444187603bfc609d9",
+      "crc32": "304ee7b9",
+      "sha1": "231f1b20e6a5dbc054de864205ea7cf4c40ad6e2",
+      "format": "JSON"
+    },
+    {
+      "name": "elcorreo_com-2022-10-17T20:10:42.276792+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666030257",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "elcorreo_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d204ce65868644ba5ad372438d3f111d611aaf0",
-      "mtime": "1665987876",
-      "size": "105796",
-      "md5": "22dbad0c657ba6195cc368b4acaf1d1c",
-      "crc32": "906fd93d",
-      "sha1": "461943f9f08711fac7fcbde339f8ef0617e25ccc",
+      "btih": "027ea4e8ce4e13cf97886ffec3f9af007f1d10f3",
+      "mtime": "1666030299",
+      "size": "106456",
+      "md5": "b5f8e074b3ed15d264a9bce6b28075b6",
+      "crc32": "62308e10",
+      "sha1": "fd83f28dd10c1ab4abc247f7ea2444d508239ce8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elcorreo_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50e43634d6402dc0409b18d356ece2e3",
+      "md5": "81bf06f434b50dc7f82accd1141b80b8",
       "summation": "md5"
     },
     {
       "name": "elcorreo_com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665987841",
-      "size": "749568",
-      "md5": "00fcb77185aadb42f8e1b9565dc43101",
-      "crc32": "acb250cf",
-      "sha1": "6ab9258035f6b72702018b7620399bf45835a512",
+      "mtime": "1666030260",
+      "size": "753664",
+      "md5": "91f08c09acc4d1a6f3af6f9a39a3fc8b",
+      "crc32": "11ff96ab",
+      "sha1": "3662db8176b09164240239e03ec07c77dcfac1af",
       "format": "Metadata"
     },
     {
@@ -4882,9 +4909,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 486,
-  "item_last_updated": 1665987876,
-  "item_size": 35609891,
+  "files_count": 489,
+  "item_last_updated": 1666030299,
+  "item_size": 35816012,
   "metadata": {
     "identifier": "elcorreo_com-2022",
     "collection": [
@@ -4902,7 +4929,7 @@
     "addeddate": "2022-07-28 18:53:37"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 1384700860,
+  "uniq": 406039065,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

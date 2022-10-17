@@ -1,12 +1,7 @@
 {
-  "created": 1665992795,
+  "created": 1666030142,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
-  "dbnewsjournal-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/35/items/dbnewsjournal-2022",
   "files": [
     {
@@ -3369,31 +3364,83 @@
       "sha1": "872db0b2c6835e841bbb495883b9eb918d90aad9"
     },
     {
+      "name": "dbnewsjournal-2022-10-17T14:07:13.406070-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666030038",
+      "size": "24015",
+      "md5": "f5b1588bc82087e84286b2e6fd503fc3",
+      "crc32": "3e4d6d98",
+      "sha1": "b1be85d749cc3075eb21e6ab63c6d22c0e582394",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T14:07:13.406070-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666030039",
+      "size": "34914",
+      "md5": "4ebcc350eabb4b323f0a45927cc2720e",
+      "crc32": "df653aee",
+      "sha1": "73bc2f73589ef711de52b17fdec89b4d717c0aaa",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T14:07:13.406070-04:00.jpg",
+      "source": "original",
+      "mtime": "1666030036",
+      "size": "276219",
+      "md5": "6c6c79b32360479e5647d28cfdb4d323",
+      "crc32": "22d4742e",
+      "sha1": "cb50cdfd66a965ef6ff916c096494296a9107b6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T14:07:13.406070-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666030041",
+      "size": "1567",
+      "md5": "9f1b01e1eb02f7df7ca402f508d9b7cc",
+      "crc32": "d6a424b2",
+      "sha1": "20406ce8df66e058d2d00c810e7588be3a53e70c",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T14:07:13.406070-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dbnewsjournal-2022-10-17T14:07:13.406070-04:00.jpg",
+      "mtime": "1666030123",
+      "size": "9045",
+      "md5": "9faa593aa60d215fa7e73275d3f6600d",
+      "crc32": "06534fee",
+      "sha1": "1bb44ba90d3b762a5fd5e122b20eebb0cc602adf"
+    },
+    {
       "name": "dbnewsjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39b42de24f4a10b954dc832e1eff9f7f65bdefc3",
-      "mtime": "1665987790",
-      "size": "71441",
-      "md5": "85e0036d88ee0a9473c63ec7587703bd",
-      "crc32": "11b3b57a",
-      "sha1": "93ff15b76b97e7bb7e5e9e3549b6644e14fa74ab",
+      "btih": "659e81e3d13d61b169ae1a139620f397a44b5ccd",
+      "mtime": "1666030130",
+      "size": "72505",
+      "md5": "2fceca09dd4cc87654f58049e4589c31",
+      "crc32": "9abacaa2",
+      "sha1": "c3979bf244d0cadfad177a9f8bb8882896996417",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dbnewsjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "21e1e3b6f1f6b7dad6701f50aa653aba",
+      "md5": "8f17aee0b2103edaf2b1f1d49b7a4d66",
       "summation": "md5"
     },
     {
       "name": "dbnewsjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665987733",
-      "size": "434176",
-      "md5": "67ce7b6b67c749ad03bbe87765e8e55f",
-      "crc32": "eaf83452",
-      "sha1": "532640f0e6ee0d9949aa4a1d5173b6f6dce8fa02",
+      "mtime": "1666030045",
+      "size": "442368",
+      "md5": "1e9c39860f22a775682eacf5f124e5b0",
+      "crc32": "f63fdd6a",
+      "sha1": "22af50c60a261b071335f4736d2ac7218536ac64",
       "format": "Metadata"
     },
     {
@@ -3407,9 +3454,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 329,
-  "item_last_updated": 1665987790,
-  "item_size": 22138777,
+  "files_count": 334,
+  "item_last_updated": 1666030130,
+  "item_size": 22493793,
   "metadata": {
     "identifier": "dbnewsjournal-2022",
     "collection": [
@@ -3427,7 +3474,7 @@
     "addeddate": "2022-09-20 17:43:42"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 1110182990,
+  "uniq": 1724185702,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

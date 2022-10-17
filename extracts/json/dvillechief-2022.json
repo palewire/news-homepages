@@ -1,8 +1,13 @@
 {
-  "created": 1665987911,
+  "created": 1666035782,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/dvillechief-2022",
+  "dvillechief-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -3364,31 +3369,93 @@
       "sha1": "268fddcf80161f813efb13ce46d7b0a7218155a0"
     },
     {
+      "name": "dvillechief-2022-10-17T13:09:57.872230-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666030205",
+      "size": "20518",
+      "md5": "6b3be786c83c31a65a0d59b29bb054e2",
+      "crc32": "9291b354",
+      "sha1": "5bbe54b8677d5b9f7f15d20a6b56ed73235b31a1",
+      "format": "JSON"
+    },
+    {
+      "name": "dvillechief-2022-10-17T13:09:57.872230-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666030208",
+      "size": "10193",
+      "md5": "5f8171d9675d886d35d75873b0d7128a",
+      "crc32": "e2b9a089",
+      "sha1": "fa1fec8c5e69b21c920e0f25c284d00435e307a8",
+      "format": "JSON"
+    },
+    {
+      "name": "dvillechief-2022-10-17T13:09:57.872230-05:00.jpg",
+      "source": "original",
+      "mtime": "1666030201",
+      "size": "243843",
+      "md5": "caedbc1f059863b0da937f1964fab2aa",
+      "crc32": "ebe24f2b",
+      "sha1": "9969e75408ea01595c1c216244c051f6134fc689",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dvillechief-2022-10-17T13:09:57.872230-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666030210",
+      "size": "1576",
+      "md5": "61749c72cb3700f163934f3186814fed",
+      "crc32": "8c01dfa1",
+      "sha1": "d1163c28d61643ac03154da91b71e2a43cc1db43",
+      "format": "JSON"
+    },
+    {
+      "name": "dvillechief-2022-10-17T13:09:57.872230-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666030211",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dvillechief-2022-10-17T13:09:57.872230-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dvillechief-2022-10-17T13:09:57.872230-05:00.jpg",
+      "mtime": "1666030276",
+      "size": "9134",
+      "md5": "1df4f6e7f46f5f7db41080085db5c88c",
+      "crc32": "8a75259e",
+      "sha1": "b4c9254857204a2d103bb83c95f70d60116e2f5b"
+    },
+    {
       "name": "dvillechief-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03f771c63238652ce4b97a34377a7a2e9e93c92b",
-      "mtime": "1665987897",
-      "size": "70757",
-      "md5": "0ffd06286f3f4c664d1872ed61224cb0",
-      "crc32": "d5f1d83c",
-      "sha1": "6b278d4d55a41fe0d4dbf863d7e50b4c7976f324",
+      "btih": "cc0e9679ff1acaf444a7df0c6651947d9d7ab48d",
+      "mtime": "1666030280",
+      "size": "72040",
+      "md5": "bc7033a0c629f1d9ac5a0a43e55a7d91",
+      "crc32": "928f7ddd",
+      "sha1": "4f738b9f953bb193b0c9b4889f5d6d0c30fe4d69",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dvillechief-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "05f06ea2135dc0d4f92981b96e21eb78",
+      "md5": "7720ff81aabb7495a251cec6039e4adb",
       "summation": "md5"
     },
     {
       "name": "dvillechief-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665987836",
-      "size": "434176",
-      "md5": "c54f6f391260d4b72042174f8b743f59",
-      "crc32": "f3e1c048",
-      "sha1": "6d4b8a117857cd41374f083cc800c559edf6792a",
+      "mtime": "1666030222",
+      "size": "442368",
+      "md5": "719f0b3a751fbdf7394590de12039a13",
+      "crc32": "9c11b40c",
+      "sha1": "de167ddabddff5c220aa5d4e08cac782c4ef8b47",
       "format": "Metadata"
     },
     {
@@ -3402,9 +3469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 329,
-  "item_last_updated": 1665987897,
-  "item_size": 21371962,
+  "files_count": 335,
+  "item_last_updated": 1666030280,
+  "item_size": 21666903,
   "metadata": {
     "identifier": "dvillechief-2022",
     "collection": [
@@ -3422,7 +3489,7 @@
     "addeddate": "2022-09-20 17:50:08"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 636665277,
+  "uniq": 275120123,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

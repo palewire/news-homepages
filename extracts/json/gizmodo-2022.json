@@ -1,5 +1,5 @@
 {
-  "created": 1665993048,
+  "created": 1666036252,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/gizmodo-2022",
@@ -11770,31 +11770,93 @@
       "sha1": "696ca5a1f1f53eb178d60110ed3dbbdacc748b6c"
     },
     {
+      "name": "gizmodo-2022-10-17T11:12:53.845897-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666030378",
+      "size": "48138",
+      "md5": "f93bbcf6c4dd4b73e49ab04b979f7bc9",
+      "crc32": "00ffdbe3",
+      "sha1": "66102b0df27dc2d390cca135a5b4d6f349d0688c",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-10-17T11:12:53.845897-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666030379",
+      "size": "35242",
+      "md5": "f43186173e675405e57e4e62386985be",
+      "crc32": "9e590d81",
+      "sha1": "fc57e2b0d17ab3232ada07293dc53aea894ba37a",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-10-17T11:12:53.845897-07:00.jpg",
+      "source": "original",
+      "mtime": "1666030375",
+      "size": "266657",
+      "md5": "92c9208c86b48d6c11402d907798cbd4",
+      "crc32": "1272766a",
+      "sha1": "0e64a153ff7fb639461584ab327098fc8663d497",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gizmodo-2022-10-17T11:12:53.845897-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666030381",
+      "size": "1428",
+      "md5": "428a6d55508c0d07e9ea620bd9dc8b6c",
+      "crc32": "45ca0479",
+      "sha1": "dbf8d8c97e78eddc7525dc5ec13c63ba095219e3",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-10-17T11:12:53.845897-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666030383",
+      "size": "227",
+      "md5": "8979a3a381f23623bbb3f5b5738ae0ca",
+      "crc32": "67ae456b",
+      "sha1": "57556183a84e256f1ee83ec9fb28f86295045e74",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-10-17T11:12:53.845897-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gizmodo-2022-10-17T11:12:53.845897-07:00.jpg",
+      "mtime": "1666030469",
+      "size": "10701",
+      "md5": "276a00c19919ab16e3385106fde5007f",
+      "crc32": "e9d274f9",
+      "sha1": "8b96944b0fc9932c3cf1741b4284142779fa4c4d"
+    },
+    {
       "name": "gizmodo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3c0a5ad75b805d3d5b54425a89b2567eda8a4362",
-      "mtime": "1665988151",
-      "size": "238902",
-      "md5": "0e81eaf6fe1cf7d5f8becce33c349895",
-      "crc32": "242343a7",
-      "sha1": "62c8e6fa7247072cd26f2b95289656317b0f50a6",
+      "btih": "d52805963decf278bc1c207162900add8b146c51",
+      "mtime": "1666030485",
+      "size": "240142",
+      "md5": "984985da857f96931c58c9d7c89d2cad",
+      "crc32": "dcbfb99b",
+      "sha1": "0b0fe8ed588342eed0e5849677453310dbda8fab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gizmodo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1125f9e0c152e283fa3b2c4106737c8e",
+      "md5": "57c2d51d9f3f3b5bd503ff3a30df1f19",
       "summation": "md5"
     },
     {
       "name": "gizmodo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665988017",
-      "size": "1392640",
-      "md5": "0b6e02a6bcc9bd1555dd1c4e6e17f459",
-      "crc32": "9f967aad",
-      "sha1": "4cad5f8987ce4c159ecc1ef3fc8c279d68927d73",
+      "mtime": "1666030396",
+      "size": "1404928",
+      "md5": "0ee7dfd26a3ab89e5ff48505232f1268",
+      "crc32": "f16b7843",
+      "sha1": "06e0fc4b6ab9c7ce91cfc37fe3c0eba1aba3b1d4",
       "format": "Metadata"
     },
     {
@@ -11808,14 +11870,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1136,
+  "files_count": 1142,
   "gizmodo-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://gizmodo.com/",
+    "job_id": "spn2-ea596fb02279d0a4d917ba298431795a9a7c212a",
+    "message": "The same snapshot had been made 22 minutes, 40 seconds ago. You can make new capture of this URL after 45 minutes."
   },
-  "item_last_updated": 1665988151,
-  "item_size": 95221395,
+  "item_last_updated": 1666030485,
+  "item_size": 95597316,
   "metadata": {
     "identifier": "gizmodo-2022",
     "collection": [
@@ -11832,10 +11894,10 @@
     "publicdate": "2022-07-04 20:17:36",
     "addeddate": "2022-07-04 20:17:36"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 831509838,
+  "server": "ia801501.us.archive.org",
+  "uniq": 680612321,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }
