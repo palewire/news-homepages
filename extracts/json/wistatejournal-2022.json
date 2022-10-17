@@ -1,5 +1,5 @@
 {
-  "created": 1665938976,
+  "created": 1665985171,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/2/items/wistatejournal-2022",
@@ -17334,31 +17334,93 @@
       "sha1": "6999d057e93eb0682f1e4c622e51a5e089ae012c"
     },
     {
+      "name": "wistatejournal-2022-10-17T00:34:56.882793-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665984899",
+      "size": "24800",
+      "md5": "7bab206fa25c261fa55cdec60554652e",
+      "crc32": "d1d814ce",
+      "sha1": "26adecc62b2521325b7419466059b6bfc5f0c0a8",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-17T00:34:56.882793-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665984905",
+      "size": "74090",
+      "md5": "cb7658f5f9ceec42f8fbcee6a5396215",
+      "crc32": "b5e7753f",
+      "sha1": "fbc224710317dc695ad6f579911b2b757eb9e610",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-17T00:34:56.882793-05:00.jpg",
+      "source": "original",
+      "mtime": "1665984898",
+      "size": "352847",
+      "md5": "700177c0fdc503c4c1d80bceade95186",
+      "crc32": "fd9d9fac",
+      "sha1": "093c65161bdebb805c94fd6f9915578b0af7d287",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-17T00:34:56.882793-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665984906",
+      "size": "1468",
+      "md5": "60daf8f0fc95344ebd3a668f2b419282",
+      "crc32": "f30f055e",
+      "sha1": "ea787d7875777f63e2ecaf8abce5f29739e4a21a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-17T00:34:56.882793-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665984908",
+      "size": "41891",
+      "md5": "536ea83a056cfc199cb8180e5f8737fa",
+      "crc32": "80d83f3f",
+      "sha1": "7ce70ebb49deb273d88f5ffc76648352307c8e05",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-17T00:34:56.882793-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-17T00:34:56.882793-05:00.jpg",
+      "mtime": "1665985006",
+      "size": "12628",
+      "md5": "8792800b214e4ceb09abdf13ccbad45c",
+      "crc32": "58c8c9fa",
+      "sha1": "4f85123bc20667355538d9981949392f2d74ac75"
+    },
+    {
       "name": "wistatejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "360d10178f43dbe9a22c8e3fb203f93560957047",
-      "mtime": "1665938960",
-      "size": "362810",
-      "md5": "80bf8a7402ad2b123b0b8524cd912b59",
-      "crc32": "c2d70b48",
-      "sha1": "3bf58e44f2c215bf33d4f6135da1981132e0fde5",
+      "btih": "ac6f07243dd229ea233121376bd5760631dc8a07",
+      "mtime": "1665985110",
+      "size": "364114",
+      "md5": "b0479604127c5fa7557c4bf8126226eb",
+      "crc32": "c4c5b38c",
+      "sha1": "2efdba9dd2ae49feb3e9c5d6635c3c0c83a731b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wistatejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6625a25292e29e1e67925a9627a9ec6e",
+      "md5": "459a5328b810913510419b792d3f276b",
       "summation": "md5"
     },
     {
       "name": "wistatejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665938845",
-      "size": "2035712",
-      "md5": "11265f1716d64e8cdeb402926155f097",
-      "crc32": "64cdc434",
-      "sha1": "2a22101f671fcd487c7fb24a5170b70fb3260175",
+      "mtime": "1665984912",
+      "size": "2048000",
+      "md5": "5e8c2d4b75e71dffd5cfafdb6aa6205b",
+      "crc32": "23e7ecdd",
+      "sha1": "8d59eb6d66e466b263f01a13b40c938638cd6df9",
       "format": "Metadata"
     },
     {
@@ -17372,9 +17434,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1668,
-  "item_last_updated": 1665938960,
-  "item_size": 154501184,
+  "files_count": 1674,
+  "item_last_updated": 1665985110,
+  "item_size": 155022500,
   "metadata": {
     "identifier": "wistatejournal-2022",
     "collection": [
@@ -17391,10 +17453,10 @@
     "publicdate": "2022-03-23 23:08:08",
     "addeddate": "2022-03-23 23:08:08"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1777944879,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1174532480,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

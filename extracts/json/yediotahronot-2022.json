@@ -1,5 +1,5 @@
 {
-  "created": 1665939083,
+  "created": 1665987653,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/26/items/yediotahronot-2022",
@@ -7808,31 +7808,93 @@
       "sha1": "d646bf0a42fc89101a4629877ddee80760de4b9f"
     },
     {
+      "name": "yediotahronot-2022-10-17T08:34:14.758802+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665984861",
+      "size": "18505",
+      "md5": "906f104004c934bdac0d0824c10736d9",
+      "crc32": "f551231a",
+      "sha1": "62a2e54af53da0a8092f88d038be0726b4d6f0f9",
+      "format": "JSON"
+    },
+    {
+      "name": "yediotahronot-2022-10-17T08:34:14.758802+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665984863",
+      "size": "44004",
+      "md5": "433513b4a782550e92695f0696984311",
+      "crc32": "e822eb70",
+      "sha1": "12c185faf865b840ef479b6ac51b80c590cf4b4f",
+      "format": "JSON"
+    },
+    {
+      "name": "yediotahronot-2022-10-17T08:34:14.758802+03:00.jpg",
+      "source": "original",
+      "mtime": "1665984859",
+      "size": "285727",
+      "md5": "a98aca7a1a6dcdb8f2ff331b5461240d",
+      "crc32": "964ea643",
+      "sha1": "8014acbef64877d92efeeab49d8e5222f4fa4f8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yediotahronot-2022-10-17T08:34:14.758802+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665984864",
+      "size": "1696",
+      "md5": "ecc35076c874bfe5988d02317647f3d3",
+      "crc32": "cb5715de",
+      "sha1": "3aa3b0153aa8f4e323f0a2ecafa031db7189f52c",
+      "format": "JSON"
+    },
+    {
+      "name": "yediotahronot-2022-10-17T08:34:14.758802+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665984866",
+      "size": "205",
+      "md5": "366f621b4260a69b3777fc54148e8a2b",
+      "crc32": "7cea74c4",
+      "sha1": "c2d09a1a1f4d34361249ec4cd7b377977b0253e7",
+      "format": "JSON"
+    },
+    {
+      "name": "yediotahronot-2022-10-17T08:34:14.758802+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yediotahronot-2022-10-17T08:34:14.758802+03:00.jpg",
+      "mtime": "1665984936",
+      "size": "10631",
+      "md5": "c83afc36427eefd6d3df39838256d3a6",
+      "crc32": "8a71e45d",
+      "sha1": "6c477364e221db6221e44222f033aee88a4acb8d"
+    },
+    {
       "name": "yediotahronot-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3294c304b9eab94f6e89edf7be80516c3f95638",
-      "mtime": "1665939056",
-      "size": "163917",
-      "md5": "d650d096f2ad1480d30b4642665b20a8",
-      "crc32": "039d782e",
-      "sha1": "7ed4ce34ace9a9852c037c90741be79f7dd7eab9",
+      "btih": "bf40b19b3a5fd8af19223a576a547922da2e9db4",
+      "mtime": "1665984952",
+      "size": "165193",
+      "md5": "8079d72180d6d0240b7f8de80944b794",
+      "crc32": "ad2e5d71",
+      "sha1": "d02c58bbb27c7931f7c0d3c7bc01de97312cc7ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yediotahronot-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b4e958a190c44472ce6445d57d764860",
+      "md5": "8341d5e4a1120a2038a8536864ef9db4",
       "summation": "md5"
     },
     {
       "name": "yediotahronot-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665938995",
-      "size": "983040",
-      "md5": "17769373252680beba676d95a513247e",
-      "crc32": "98c13105",
-      "sha1": "79586332cdbb9e29d99b2500e21c2f7f7825159c",
+      "mtime": "1665984872",
+      "size": "987136",
+      "md5": "478abc9edbc77f35aa49ebaced550d68",
+      "crc32": "99678baa",
+      "sha1": "096e909dbdac131f7662bc369c93a0d8ef8a5c67",
       "format": "Metadata"
     },
     {
@@ -7846,9 +7908,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 759,
-  "item_last_updated": 1665939056,
-  "item_size": 48551161,
+  "files_count": 765,
+  "item_last_updated": 1665984952,
+  "item_size": 48917301,
   "metadata": {
     "identifier": "yediotahronot-2022",
     "collection": [
@@ -7865,10 +7927,18 @@
     "publicdate": "2022-08-14 05:14:33",
     "addeddate": "2022-08-14 05:14:33"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 950098477,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1597111665,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
-  ]
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
+  ],
+  "yediotahronot-2022": {
+    "url": "https://www.yediot.co.il/",
+    "job_id": "spn2-aa2c5c96becfe0540e10f55678ad2e06b3c66b2f",
+    "message": "Job failed.",
+    "resources": [],
+    "status": "error",
+    "status_ext": "error:job-failed"
+  }
 }

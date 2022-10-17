@@ -1,5 +1,5 @@
 {
-  "created": 1665938817,
+  "created": 1665984747,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/beaconjournal-2022",
@@ -7850,31 +7850,93 @@
       "sha1": "b6ab47d572012fbc3f8b15777b12728fb67da754"
     },
     {
+      "name": "beaconjournal-2022-10-17T01:28:56.524825-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665984549",
+      "size": "23897",
+      "md5": "027a78e0b3c4450cabd6d48492094272",
+      "crc32": "626e306a",
+      "sha1": "84d63655918d8936981a40e7e8d4e0baa1e9b96e",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-17T01:28:56.524825-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665984552",
+      "size": "31640",
+      "md5": "220fdbf7bc9925427b1bcf4f435e2cf9",
+      "crc32": "5cdc7d38",
+      "sha1": "a307abc8ae2cafc907ff54fd0288758200bb1cdc",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-17T01:28:56.524825-04:00.jpg",
+      "source": "original",
+      "mtime": "1665984548",
+      "size": "227956",
+      "md5": "b052b4274e9692e9fafd2db63a678355",
+      "crc32": "a81ef4b7",
+      "sha1": "3ffd661f54e7b51963d3a6d12a3e8ae3dbe8a156",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beaconjournal-2022-10-17T01:28:56.524825-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665984553",
+      "size": "1522",
+      "md5": "199e3b28e888e5c90abda444c56c245b",
+      "crc32": "38772651",
+      "sha1": "0e52e32fc6e06bd88ab96f8bf7e2d73466c23c92",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-17T01:28:56.524825-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665984555",
+      "size": "85459",
+      "md5": "4b7739eae6f934d4d7da15ae413d7478",
+      "crc32": "b0226e7b",
+      "sha1": "8483e4a8dc1fd0f3e2750b17e75d974aa2242ac7",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-17T01:28:56.524825-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "beaconjournal-2022-10-17T01:28:56.524825-04:00.jpg",
+      "mtime": "1665984684",
+      "size": "9065",
+      "md5": "e804b201ba85ab6af30bc5376ba4b4f9",
+      "crc32": "d95a1ed0",
+      "sha1": "bbbe6861040eb2a08c80b2268029c24592ccc13e"
+    },
+    {
       "name": "beaconjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ebc246b54bdaace4b906ff924ff4890265c7f39f",
-      "mtime": "1665938800",
-      "size": "164872",
-      "md5": "23d2251b0d0d5295801f345eab13c7bb",
-      "crc32": "a92aa8dc",
-      "sha1": "4708a2f81dc138207f85cc8afe0d0ef6186db0eb",
+      "btih": "b5be286842e8e7d4863bea9361c7ad8605b67fe4",
+      "mtime": "1665984699",
+      "size": "166169",
+      "md5": "047ce40533e3250ca83466e20abf8c45",
+      "crc32": "c2480927",
+      "sha1": "6f8e589a84110ae05b4faf3265f8b9e2ad9bfe96",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beaconjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e7e32a878e3dba366df6152d513e757a",
+      "md5": "4bd6b9e2d183c6afbbab08a3ca56f977",
       "summation": "md5"
     },
     {
       "name": "beaconjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665938717",
-      "size": "987136",
-      "md5": "e6e813759b860c78c023e07b94cfc06f",
-      "crc32": "dc2a583c",
-      "sha1": "6a1eb858a44ea0ba528e18c67d2124655531d08b",
+      "mtime": "1665984606",
+      "size": "991232",
+      "md5": "b675520778659f7e150fef8f13df4fe6",
+      "crc32": "8a23602b",
+      "sha1": "bbdde914d9e1626f0c80e3fd86aa745960f74871",
       "format": "Metadata"
     },
     {
@@ -7888,9 +7950,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 763,
-  "item_last_updated": 1665938800,
-  "item_size": 50681190,
+  "files_count": 769,
+  "item_last_updated": 1665984699,
+  "item_size": 51066122,
   "metadata": {
     "identifier": "beaconjournal-2022",
     "collection": [
@@ -7907,10 +7969,10 @@
     "publicdate": "2022-08-14 05:00:38",
     "addeddate": "2022-08-14 05:00:38"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1413480335,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1954008450,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }
