@@ -1,5 +1,5 @@
 {
-  "created": 1665961110,
+  "created": 1666003827,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/aknewsnow-2022",
@@ -4252,31 +4252,83 @@
       "sha1": "ade7fffa4fe6fe7cafb9fd8dc4b11c990a0351a8"
     },
     {
+      "name": "aknewsnow-2022-10-17T02:49:20.448695-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003762",
+      "size": "20041",
+      "md5": "96f33f11313f0b602402bca762763b56",
+      "crc32": "947c3bb1",
+      "sha1": "aab03b821f6eb1c0afceb3e7f24014b5c6392d26",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-17T02:49:20.448695-08:00.jpg",
+      "source": "original",
+      "mtime": "1666003761",
+      "size": "396643",
+      "md5": "262067c7e5857f00674692728f586a54",
+      "crc32": "d361491b",
+      "sha1": "894478a6b8e944984880021fa2d763ba46e30fac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aknewsnow-2022-10-17T02:49:20.448695-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003764",
+      "size": "1558",
+      "md5": "09cda93829d2e6701e27afc2343a099d",
+      "crc32": "1eb2f998",
+      "sha1": "5e237a86203e1ab54deb57e1f1c6b79f0ffe19e9",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-17T02:49:20.448695-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003765",
+      "size": "47628",
+      "md5": "291a0da9d61854c07e92358a8ba2cc7f",
+      "crc32": "899353a3",
+      "sha1": "5794992a686cd1552ba0d643032d17d92392e7fc",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-17T02:49:20.448695-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aknewsnow-2022-10-17T02:49:20.448695-08:00.jpg",
+      "mtime": "1666003817",
+      "size": "10959",
+      "md5": "5e112755d6c1f0eb81a8e94606b3f155",
+      "crc32": "2c213835",
+      "sha1": "43de3a8ec904781b5f9fd2ec3d08c1f31eba1c48"
+    },
+    {
       "name": "aknewsnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "647c4680f0156ca9b557ae1960c7b17aa0b435b5",
-      "mtime": "1665961102",
-      "size": "88590",
-      "md5": "26ea3f8732cfedf15548b1e367a48c4b",
-      "crc32": "5349d08c",
-      "sha1": "960a864a7af8bd9276ebaafcee3d086fa1dd1925",
+      "btih": "8ae7b38c4634c9e169945217935e4c9d6efba587",
+      "mtime": "1666003822",
+      "size": "89649",
+      "md5": "554104622700cea85ae8cbf2c189dfbb",
+      "crc32": "bc8429e9",
+      "sha1": "2e0e096afabcb6f884542c56bd12d2b210d4c643",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aknewsnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "07032af35e560b10ff80d850d0f65f73",
+      "md5": "2b5d65b4070d555b545b7fae2c390e22",
       "summation": "md5"
     },
     {
       "name": "aknewsnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665961040",
-      "size": "540672",
-      "md5": "09403494a9fe27fb8490612e7a7845dd",
-      "crc32": "227cc004",
-      "sha1": "5b2b3354661bcfb344ca28070a668fc08c2c722e",
+      "mtime": "1666003771",
+      "size": "548864",
+      "md5": "647cd091a6081f16806b30e421b1b2bd",
+      "crc32": "c73b89e0",
+      "sha1": "391e33528ce71b9b7bbb9eb58bcc20ce4db8ac98",
       "format": "Metadata"
     },
     {
@@ -4290,9 +4342,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 415,
-  "item_last_updated": 1665961102,
-  "item_size": 34543989,
+  "files_count": 420,
+  "item_last_updated": 1666003822,
+  "item_size": 35030069,
   "metadata": {
     "identifier": "aknewsnow-2022",
     "collection": [
@@ -4310,7 +4362,7 @@
     "addeddate": "2022-09-12 22:57:53"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 1083639328,
+  "uniq": 1935318012,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

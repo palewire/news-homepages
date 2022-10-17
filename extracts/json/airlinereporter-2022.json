@@ -1,5 +1,5 @@
 {
-  "created": 1665961098,
+  "created": 1666004162,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/airlinereporter-2022",
@@ -7158,31 +7158,93 @@
       "sha1": "84adc96d15e9e86d08d2f4f56d70091bdb5b3c63"
     },
     {
+      "name": "airlinereporter-2022-10-17T03:48:31.132673-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003714",
+      "size": "36513",
+      "md5": "ccf08b58d94774a72140836a48af5b58",
+      "crc32": "1a3a5999",
+      "sha1": "89ecd6709818e884987c97befa1c2d6b98d12e3b",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-17T03:48:31.132673-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003716",
+      "size": "25805",
+      "md5": "d841ae59b1bebe0d766700632a9dbe7b",
+      "crc32": "09146823",
+      "sha1": "9f4d197998e3e49c84e2b5286b0770f53b54c98f",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-17T03:48:31.132673-07:00.jpg",
+      "source": "original",
+      "mtime": "1666003712",
+      "size": "308445",
+      "md5": "a88efc4194b1817f9f1e732756d69007",
+      "crc32": "37158be5",
+      "sha1": "fc9592b92a1e81629c7064b290b6d3fc2218dae7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-17T03:48:31.132673-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003717",
+      "size": "1540",
+      "md5": "74964b33f4474ed5c43a130d7473fe9e",
+      "crc32": "08b940b5",
+      "sha1": "1ef82b58a5b619092dd880166179a2da06405971",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-17T03:48:31.132673-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003719",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-17T03:48:31.132673-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-17T03:48:31.132673-07:00.jpg",
+      "mtime": "1666003946",
+      "size": "9432",
+      "md5": "5e3576e55dab49d284e56f50b64c92ce",
+      "crc32": "0948d922",
+      "sha1": "6252e97317586f78434b43b3d86dde92e2cb10db"
+    },
+    {
       "name": "airlinereporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "815369b4248e3391817786c9fdc1c9af99c4601c",
-      "mtime": "1665961090",
-      "size": "151903",
-      "md5": "e064477ffcb79b1e74cf36eca24b66d0",
-      "crc32": "22c38bd7",
-      "sha1": "86cae1f1d92c12010c77827ced93863383765160",
+      "btih": "1cb520678e18999bd0837c716712b315f1df279e",
+      "mtime": "1666003956",
+      "size": "153210",
+      "md5": "5ab22503a109627224ae998abf21ebfe",
+      "crc32": "3620153e",
+      "sha1": "82876aecd6a1c867cfd147fa0533def1c81299dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airlinereporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d829772be7e3cfe77bc73976d133ba6",
+      "md5": "1265f567c5faf3f8977426f6f7a39f66",
       "summation": "md5"
     },
     {
       "name": "airlinereporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665961029",
-      "size": "901120",
-      "md5": "5b2bca3dca3fd17639a14bee0b6fdab1",
-      "crc32": "b078701d",
-      "sha1": "16eadd754faad2e3231ed2407b0ccdbc935b6343",
+      "mtime": "1666003803",
+      "size": "913408",
+      "md5": "fafbdbcdfd4e8a552e8e1ff6ba7d520a",
+      "crc32": "d903defd",
+      "sha1": "2a89d6cf895f7fa6ca1b9b735619b66c26aa74d0",
       "format": "Metadata"
     },
     {
@@ -7196,9 +7258,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 696,
-  "item_last_updated": 1665961090,
-  "item_size": 46067751,
+  "files_count": 702,
+  "item_last_updated": 1666003956,
+  "item_size": 46463283,
   "metadata": {
     "identifier": "airlinereporter-2022",
     "collection": [
@@ -7215,10 +7277,10 @@
     "publicdate": "2022-08-20 22:59:16",
     "addeddate": "2022-08-20 22:59:16"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1001036206,
+  "server": "ia601505.us.archive.org",
+  "uniq": 901667201,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

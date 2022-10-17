@@ -1,5 +1,5 @@
 {
-  "created": 1665961110,
+  "created": 1666003788,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/amerindependent-2022",
@@ -9254,31 +9254,93 @@
       "sha1": "936a7b43fb480894203a75feeb4c7d106bf22ed5"
     },
     {
+      "name": "amerindependent-2022-10-17T06:47:52.365684-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003678",
+      "size": "23069",
+      "md5": "0235a7a63070a78bd606d46a34b143d0",
+      "crc32": "a644acd0",
+      "sha1": "1e4a464aab842cecfe5df334b7d894276087951a",
+      "format": "JSON"
+    },
+    {
+      "name": "amerindependent-2022-10-17T06:47:52.365684-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003680",
+      "size": "15115",
+      "md5": "26d6d4bd12ecc17ad780638a9bacc40b",
+      "crc32": "8576365f",
+      "sha1": "64e6542c1771de9e953db1e5d0754b1c2e559fc7",
+      "format": "JSON"
+    },
+    {
+      "name": "amerindependent-2022-10-17T06:47:52.365684-04:00.jpg",
+      "source": "original",
+      "mtime": "1666003677",
+      "size": "207723",
+      "md5": "3e4335a88a162bd2951a3ea94621d5c2",
+      "crc32": "513aa18f",
+      "sha1": "e1185038b7db73b2fb0c1dc4ae07662fe2df6510",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amerindependent-2022-10-17T06:47:52.365684-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003682",
+      "size": "1540",
+      "md5": "41e1ed7a3cac56f921ab90852702492e",
+      "crc32": "9b8e6510",
+      "sha1": "f5513fae88d72b9ee247b096a728d42cfb5193ce",
+      "format": "JSON"
+    },
+    {
+      "name": "amerindependent-2022-10-17T06:47:52.365684-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003684",
+      "size": "20319",
+      "md5": "ac3e84d6204116e57de723c59d7a99c0",
+      "crc32": "b6126ce1",
+      "sha1": "e4c3cb772d7124a0547618c09a050344caab93a9",
+      "format": "JSON"
+    },
+    {
+      "name": "amerindependent-2022-10-17T06:47:52.365684-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amerindependent-2022-10-17T06:47:52.365684-04:00.jpg",
+      "mtime": "1666003762",
+      "size": "9689",
+      "md5": "3f6d5d95add02fc2854f35811a532c86",
+      "crc32": "8396142f",
+      "sha1": "3e355fde22116c379cb5925f4687381b825159f9"
+    },
+    {
       "name": "amerindependent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b21b51a363621054dc1adaa2811650cd040b81fd",
-      "mtime": "1665961103",
-      "size": "195299",
-      "md5": "20125885b2a7c8a06d5ca03f4c19b36d",
-      "crc32": "b94e1b02",
-      "sha1": "160abffbc4c9515e1c902a63c6c1dbf5e7561d3d",
+      "btih": "3d852f53b951fbbe5f9273bffb3c02e8e150f0ea",
+      "mtime": "1666003772",
+      "size": "196608",
+      "md5": "371296ffb820226a1b21ed070c3b7a41",
+      "crc32": "835ca8d5",
+      "sha1": "cce851ee7c446daa579ef53668d649a64ee33dcc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amerindependent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9f63715a5f0cf5fb6166c002270cd4b9",
+      "md5": "1f59cf95d11e63d941f0227a61c5a518",
       "summation": "md5"
     },
     {
       "name": "amerindependent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665961039",
-      "size": "1163264",
-      "md5": "8c7c7a57ee7e2c43bc0d7aa2eed1edbc",
-      "crc32": "cdf5469d",
-      "sha1": "487349ac17a0961f489caf25620c187d22c15321",
+      "mtime": "1666003692",
+      "size": "1167360",
+      "md5": "e92da08df57cf4303d4923f11f510717",
+      "crc32": "4a0a9af0",
+      "sha1": "cffb40068d0f62ffc0a637ae6ea3d614336be9c4",
       "format": "Metadata"
     },
     {
@@ -9292,9 +9354,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 899,
-  "item_last_updated": 1665961103,
-  "item_size": 42422707,
+  "files_count": 905,
+  "item_last_updated": 1666003772,
+  "item_size": 42705567,
   "metadata": {
     "identifier": "amerindependent-2022",
     "collection": [
@@ -9311,10 +9373,10 @@
     "publicdate": "2022-08-27 10:46:34",
     "addeddate": "2022-08-27 10:46:34"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1397423461,
+  "server": "ia601407.us.archive.org",
+  "uniq": 812955197,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

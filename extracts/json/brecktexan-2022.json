@@ -1,5 +1,5 @@
 {
-  "created": 1665961507,
+  "created": 1666004032,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/brecktexan-2022",
@@ -11668,31 +11668,93 @@
       "sha1": "5457116b49b5ba722735d367072e7a6ad8fd450d"
     },
     {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003908",
+      "size": "47080",
+      "md5": "058e9afeb19d17675da716818c49746d",
+      "crc32": "5fe6c3b1",
+      "sha1": "04ed0dd9901f09b1c7cbb093774e9d37bd14a225",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003910",
+      "size": "39904",
+      "md5": "c213e00029cc49c7e67b2857770f8d85",
+      "crc32": "9549b7ea",
+      "sha1": "df1ff2c32f961fdad5f5112d1d1789bcf9fbf5ae",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.jpg",
+      "source": "original",
+      "mtime": "1666003906",
+      "size": "466525",
+      "md5": "73c2f01b311a28cf16ee0adeab2f1d8e",
+      "crc32": "54728b53",
+      "sha1": "70211a659e00d50b58af86c56fc0fd4b94653682",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003912",
+      "size": "1522",
+      "md5": "057efe5640450b4710585e02f54c6674",
+      "crc32": "807787e7",
+      "sha1": "9f3b365e4ebac804e931532298bfbbce29d30596",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003915",
+      "size": "24948",
+      "md5": "729a2decda9f8351b8f30276177bab40",
+      "crc32": "562bec6e",
+      "sha1": "ef6538769ded659f68f40d3d7a50c39d1b1074d2",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-17T05:51:33.601208-05:00.jpg",
+      "mtime": "1666003999",
+      "size": "10544",
+      "md5": "203f858a598e8fa26edb4965b93ac2f3",
+      "crc32": "fea2a0c5",
+      "sha1": "ba99ed60592862779d260baf1968c4d0b469821f"
+    },
+    {
       "name": "brecktexan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f263b29dfb9e14c520547186125987023550d318",
-      "mtime": "1665961486",
-      "size": "242103",
-      "md5": "f922ff88fd2970e9f1f000fda9308d64",
-      "crc32": "c3af45d8",
-      "sha1": "7c13b9f517fba11a1e337343f5d3ae7ffc4a6717",
+      "btih": "cca43b31565d00feaaeb31438415fa62395c37b1",
+      "mtime": "1666004013",
+      "size": "243383",
+      "md5": "7a0f2c2237039ef4f8dc0100aefd1e12",
+      "crc32": "e5a6a943",
+      "sha1": "ae6afd9473a2fbb6f9e209ad290d1a3b6e486f5a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brecktexan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b42aa99e9e600132e6b16feb6b112b15",
+      "md5": "dc7dff520c4c46a13ff6818237937e5b",
       "summation": "md5"
     },
     {
       "name": "brecktexan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665961401",
-      "size": "1429504",
-      "md5": "afa2c46b8fb786235f7248a1c695da7a",
-      "crc32": "307bddfd",
-      "sha1": "cbf15936cb70e02040a2d0bbf828307ad1a7976d",
+      "mtime": "1666003921",
+      "size": "1437696",
+      "md5": "728ece9aaf8d958fcfff7571d48267ae",
+      "crc32": "75f522e9",
+      "sha1": "e52dbd1ded5c9def3eb37c9f8702960ddc662765",
       "format": "Metadata"
     },
     {
@@ -11706,9 +11768,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1130,
-  "item_last_updated": 1665961486,
-  "item_size": 114776949,
+  "files_count": 1136,
+  "item_last_updated": 1666004013,
+  "item_size": 115376944,
   "metadata": {
     "identifier": "brecktexan-2022",
     "collection": [
@@ -11726,7 +11788,7 @@
     "addeddate": "2022-07-09 03:56:32"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 595776678,
+  "uniq": 1955843329,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"
