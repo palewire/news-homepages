@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 169 screenshots with the Internet Archive.
+The archiving routine has saved 170 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 169 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T19:50:05.506702+05:45.jpg">
+  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T19:50:05.506702+05:45.jpg"
+     alt="Naya Patrika at 2022-10-17 19:50:07+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T19:50:05.506702+05:45.jpg">October 17 at 7:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T08:11:41.965767+05:45.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-12T08:19:44.463881+05:45.jpg">October 12 at 8:19 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-11T20:48:21.615255+05:45.jpg">
-  <img src="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-11T20:48:21.615255+05:45.jpg"
-     alt="Naya Patrika at 2022-10-11 20:48:28+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-11T20:48:21.615255+05:45.jpg">October 11 at 8:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 171 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 7:50 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T19:50:05.506702+05:45.hyperlinks.json) |
 | [October 17 at 8:11 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T08:11:41.965767+05:45.hyperlinks.json) |
 | [October 16 at 7:52 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-16T19:52:11.767844+05:45.hyperlinks.json) |
 | [October 16 at 8:24 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-16T08:24:00.463725+05:45.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 8:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-14T08:03:41.417270+05:45.hyperlinks.json) |
 | [October 13 at 7:56 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-13T19:56:20.723198+05:45.hyperlinks.json) |
 | [October 13 at 8:02 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-13T08:01:50.626794+05:45.hyperlinks.json) |
-| [October 12 at 7:51 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-12T19:50:54.727456+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 170 accessibility trees with the Internet Archive.
+The archiving routine has saved 171 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 7:50 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T19:50:05.506702+05:45.accessibility.json) |
 | [October 17 at 8:11 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T08:11:41.965767+05:45.accessibility.json) |
 | [October 16 at 7:52 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-16T19:52:11.767844+05:45.accessibility.json) |
 | [October 16 at 8:24 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-16T08:24:00.463725+05:45.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 8:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-14T08:03:41.417270+05:45.accessibility.json) |
 | [October 13 at 7:56 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-13T19:56:20.723198+05:45.accessibility.json) |
 | [October 13 at 8:01 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-13T08:01:50.626794+05:45.accessibility.json) |
-| [October 12 at 7:50 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-12T19:50:54.727456+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 7:50 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T19:50:05.506702+05:45.lighthouse.json) |
 | [October 17 at 8:11 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-17T08:11:41.965767+05:45.lighthouse.json) |
 | [October 16 at 7:52 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-16T19:52:11.767844+05:45.lighthouse.json) |
 | [October 16 at 8:24 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-16T08:24:00.463725+05:45.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 8:03 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-14T08:03:41.417270+05:45.lighthouse.json) |
 | [October 13 at 7:56 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-13T19:56:20.723198+05:45.lighthouse.json) |
 | [October 13 at 8:02 AM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-13T08:01:50.626794+05:45.lighthouse.json) |
-| [October 12 at 7:51 PM](https://archive.org/download/naya_patrika-2022/naya_patrika-2022-10-12T19:50:54.727456+05:45.lighthouse.json) |
 
 
 

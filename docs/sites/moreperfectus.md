@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 253 screenshots with the Internet Archive.
+The archiving routine has saved 254 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 253 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-17T10:04:43.368570-04:00.jpg">
+  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-17T10:04:43.368570-04:00.jpg"
+     alt="More Perfect Union at 2022-10-17 10:04:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-17T10:04:43.368570-04:00.jpg">October 17 at 10:04 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-16T22:27:48.147184-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-13T16:21:50.533771-04:00.jpg">October 13 at 4:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-13T10:11:04.216191-04:00.jpg">
-  <img src="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-13T10:11:04.216191-04:00.jpg"
-     alt="More Perfect Union at 2022-10-13 10:11:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-13T10:11:04.216191-04:00.jpg">October 13 at 10:11 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 253 hyperlink lists with the Internet Archive.
+The archiving routine has saved 254 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 10:04 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-17T10:04:43.368570-04:00.hyperlinks.json) |
 | [October 16 at 10:27 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-16T22:27:48.147184-04:00.hyperlinks.json) |
 | [October 16 at 3:30 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-16T15:30:36.886305-04:00.hyperlinks.json) |
 | [October 16 at 10:07 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-16T10:07:16.457940-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 10:21 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-14T22:21:09.969297-04:00.hyperlinks.json) |
 | [October 14 at 4:39 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-14T16:39:21.756741-04:00.hyperlinks.json) |
 | [October 14 at 10:18 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-14T10:18:13.225323-04:00.hyperlinks.json) |
-| [October 13 at 10:19 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-13T22:19:35.162766-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 253 accessibility trees with the Internet Archive.
+The archiving routine has saved 254 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 10:04 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-17T10:04:43.368570-04:00.accessibility.json) |
 | [October 16 at 10:27 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-16T22:27:48.147184-04:00.accessibility.json) |
 | [October 16 at 3:30 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-16T15:30:36.886305-04:00.accessibility.json) |
 | [October 16 at 10:07 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-16T10:07:16.457940-04:00.accessibility.json) |
@@ -642,7 +643,6 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 10:21 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-14T22:21:09.969297-04:00.accessibility.json) |
 | [October 14 at 4:39 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-14T16:39:21.756741-04:00.accessibility.json) |
 | [October 14 at 10:18 AM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-14T10:18:13.225323-04:00.accessibility.json) |
-| [October 13 at 10:19 PM](https://archive.org/download/moreperfectus-2022/moreperfectus-2022-10-13T22:19:35.162766-04:00.accessibility.json) |
 
 
 
