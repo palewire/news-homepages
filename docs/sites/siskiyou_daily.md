@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 53 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-17T08:01:02.599458-07:00.jpg">
+  <img src="https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-17T08:01:02.599458-07:00.jpg"
+     alt="The Siskiyou Daily News at 2022-10-17 08:01:04-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-17T08:01:02.599458-07:00.jpg">October 17 at 8:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-16T20:45:33.131928-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-11T20:51:48.667426-07:00.jpg">October 11 at 8:51 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-11T08:11:40.291155-07:00.jpg">
-  <img src="https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-11T08:11:40.291155-07:00.jpg"
-     alt="The Siskiyou Daily News at 2022-10-11 08:11:43-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-11T08:11:40.291155-07:00.jpg">October 11 at 8:11 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 8:01 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-17T08:01:02.599458-07:00.hyperlinks.json) |
 | [October 16 at 8:45 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-16T20:45:33.131928-07:00.hyperlinks.json) |
 | [October 16 at 8:02 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-16T08:01:58.127163-07:00.hyperlinks.json) |
 | [October 15 at 8:51 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-15T20:51:47.199619-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 8:50 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-13T20:50:29.034735-07:00.hyperlinks.json) |
 | [October 13 at 8:06 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-13T08:06:13.559569-07:00.hyperlinks.json) |
 | [October 12 at 8:37 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-12T20:37:41.504452-07:00.hyperlinks.json) |
-| [October 12 at 8:02 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-12T08:02:49.214443-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 8:01 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-17T08:01:02.599458-07:00.accessibility.json) |
 | [October 16 at 8:45 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-16T20:45:33.131928-07:00.accessibility.json) |
 | [October 16 at 8:02 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-16T08:01:58.127163-07:00.accessibility.json) |
 | [October 15 at 8:51 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-15T20:51:47.199619-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 8:50 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-13T20:50:29.034735-07:00.accessibility.json) |
 | [October 13 at 8:06 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-13T08:06:13.559569-07:00.accessibility.json) |
 | [October 12 at 8:37 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-12T20:37:41.504452-07:00.accessibility.json) |
-| [October 12 at 8:02 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-12T08:02:49.214443-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 8:01 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-17T08:01:02.599458-07:00.lighthouse.json) |
 | [October 16 at 8:45 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-16T20:45:33.131928-07:00.lighthouse.json) |
 | [October 16 at 8:02 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-16T08:01:58.127163-07:00.lighthouse.json) |
 | [October 15 at 8:51 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-15T20:51:47.199619-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 8:50 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-13T20:50:29.034735-07:00.lighthouse.json) |
 | [October 13 at 8:06 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-13T08:06:13.559569-07:00.lighthouse.json) |
 | [October 12 at 8:37 PM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-12T20:37:41.504452-07:00.lighthouse.json) |
-| [October 12 at 8:02 AM](https://archive.org/download/siskiyou_daily-2022/siskiyou_daily-2022-10-12T08:02:49.214443-07:00.lighthouse.json) |
 
 
 

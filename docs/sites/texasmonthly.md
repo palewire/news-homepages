@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 211 hyperlink lists with the Internet Archive.
+The archiving routine has saved 212 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 10:00 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-17T10:00:41.417100-05:00.hyperlinks.json) |
 | [October 16 at 10:45 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-16T22:45:20.540417-05:00.hyperlinks.json) |
 | [October 16 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-16T10:02:09.134996-05:00.hyperlinks.json) |
 | [October 15 at 10:51 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-15T22:51:53.124555-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 10:50 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-13T22:49:55.045900-05:00.hyperlinks.json) |
 | [October 13 at 10:06 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-13T10:06:29.889735-05:00.hyperlinks.json) |
 | [October 12 at 10:38 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-12T22:38:31.072053-05:00.hyperlinks.json) |
-| [October 12 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-12T10:02:32.694650-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 212 accessibility trees with the Internet Archive.
+The archiving routine has saved 213 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 10:00 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-17T10:00:41.417100-05:00.accessibility.json) |
 | [October 16 at 10:45 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-16T22:45:20.540417-05:00.accessibility.json) |
 | [October 16 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-16T10:02:09.134996-05:00.accessibility.json) |
 | [October 15 at 10:51 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-15T22:51:53.124555-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 10:50 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-13T22:49:55.045900-05:00.accessibility.json) |
 | [October 13 at 10:06 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-13T10:06:29.889735-05:00.accessibility.json) |
 | [October 12 at 10:38 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-12T22:38:31.072053-05:00.accessibility.json) |
-| [October 12 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-12T10:02:32.694650-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 173 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 10:00 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-17T10:00:41.417100-05:00.lighthouse.json) |
 | [October 16 at 10:45 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-16T22:45:20.540417-05:00.lighthouse.json) |
 | [October 16 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-16T10:02:09.134996-05:00.lighthouse.json) |
 | [October 15 at 10:52 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-15T22:51:53.124555-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 10:50 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-13T22:49:55.045900-05:00.lighthouse.json) |
 | [October 13 at 10:06 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-13T10:06:29.889735-05:00.lighthouse.json) |
 | [October 12 at 10:38 PM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-12T22:38:31.072053-05:00.lighthouse.json) |
-| [October 12 at 10:02 AM](https://archive.org/download/texasmonthly-2022/texasmonthly-2022-10-12T10:02:32.694650-05:00.lighthouse.json) |
 
 
 

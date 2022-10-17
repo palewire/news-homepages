@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 53 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 52 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tennessean-2022/tennessean-2022-10-17T10:01:23.307585-05:00.jpg">
+  <img src="https://archive.org/download/tennessean-2022/tennessean-2022-10-17T10:01:23.307585-05:00.jpg"
+     alt="Nashville Tennessean at 2022-10-17 10:01:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tennessean-2022/tennessean-2022-10-17T10:01:23.307585-05:00.jpg">October 17 at 10:01 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tennessean-2022/tennessean-2022-10-16T22:45:45.633538-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tennessean-2022/tennessean-2022-10-11T10:12:10.734138-05:00.jpg">October 11 at 10:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tennessean-2022/tennessean-2022-10-10T22:51:22.783587-05:00.jpg">
-  <img src="https://archive.org/download/tennessean-2022/tennessean-2022-10-10T22:51:22.783587-05:00.jpg"
-     alt="Nashville Tennessean at 2022-10-10 22:51:25-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tennessean-2022/tennessean-2022-10-10T22:51:22.783587-05:00.jpg">October 10 at 10:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 53 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 10:01 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-17T10:01:23.307585-05:00.hyperlinks.json) |
 | [October 16 at 10:45 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-16T22:45:45.633538-05:00.hyperlinks.json) |
 | [October 16 at 10:02 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-16T10:01:59.061886-05:00.hyperlinks.json) |
 | [October 15 at 10:52 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-15T22:52:14.592236-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 10:06 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-13T10:06:22.663675-05:00.hyperlinks.json) |
 | [October 12 at 10:37 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-12T22:37:49.566217-05:00.hyperlinks.json) |
 | [October 12 at 10:02 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-12T10:02:44.934333-05:00.hyperlinks.json) |
-| [October 11 at 10:51 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-11T22:51:09.698791-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 10:01 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-17T10:01:23.307585-05:00.accessibility.json) |
 | [October 16 at 10:45 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-16T22:45:45.633538-05:00.accessibility.json) |
 | [October 16 at 10:02 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-16T10:01:59.061886-05:00.accessibility.json) |
 | [October 15 at 10:52 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-15T22:52:14.592236-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 10:06 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-13T10:06:22.663675-05:00.accessibility.json) |
 | [October 12 at 10:37 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-12T22:37:49.566217-05:00.accessibility.json) |
 | [October 12 at 10:02 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-12T10:02:44.934333-05:00.accessibility.json) |
-| [October 11 at 10:51 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-11T22:51:09.698791-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 10:01 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-17T10:01:23.307585-05:00.lighthouse.json) |
 | [October 16 at 10:45 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-16T22:45:45.633538-05:00.lighthouse.json) |
 | [October 16 at 10:02 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-16T10:01:59.061886-05:00.lighthouse.json) |
 | [October 15 at 10:52 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-15T22:52:14.592236-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 10:06 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-13T10:06:22.663675-05:00.lighthouse.json) |
 | [October 12 at 10:37 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-12T22:37:49.566217-05:00.lighthouse.json) |
 | [October 12 at 10:02 AM](https://archive.org/download/tennessean-2022/tennessean-2022-10-12T10:02:44.934333-05:00.lighthouse.json) |
-| [October 11 at 10:51 PM](https://archive.org/download/tennessean-2022/tennessean-2022-10-11T22:51:09.698791-05:00.lighthouse.json) |
 
 
 

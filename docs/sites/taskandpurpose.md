@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 115 hyperlink lists with the Internet Archive.
+The archiving routine has saved 116 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 11:00 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-17T11:00:50.485486-04:00.hyperlinks.json) |
 | [October 16 at 11:45 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-16T23:45:23.614149-04:00.hyperlinks.json) |
 | [October 16 at 11:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-16T11:02:42.296515-04:00.hyperlinks.json) |
 | [October 15 at 11:52 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-15T23:52:00.845953-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 11:49 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-13T23:49:47.506068-04:00.hyperlinks.json) |
 | [October 13 at 11:06 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-13T11:06:08.328391-04:00.hyperlinks.json) |
 | [October 12 at 11:37 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-12T23:37:47.149649-04:00.hyperlinks.json) |
-| [October 12 at 11:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-12T11:02:35.214838-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 117 accessibility trees with the Internet Archive.
+The archiving routine has saved 118 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 11:00 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-17T11:00:50.485486-04:00.accessibility.json) |
 | [October 16 at 11:45 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-16T23:45:23.614149-04:00.accessibility.json) |
 | [October 16 at 11:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-16T11:02:42.296515-04:00.accessibility.json) |
 | [October 15 at 11:52 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-15T23:52:00.845953-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 11:49 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-13T23:49:47.506068-04:00.accessibility.json) |
 | [October 13 at 11:06 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-13T11:06:08.328391-04:00.accessibility.json) |
 | [October 12 at 11:37 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-12T23:37:47.149649-04:00.accessibility.json) |
-| [October 12 at 11:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-12T11:02:35.214838-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 117 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 118 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 11:00 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-17T11:00:50.485486-04:00.lighthouse.json) |
 | [October 16 at 11:45 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-16T23:45:23.614149-04:00.lighthouse.json) |
 | [October 16 at 11:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-16T11:02:42.296515-04:00.lighthouse.json) |
 | [October 15 at 11:52 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-15T23:52:00.845953-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 11:49 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-13T23:49:47.506068-04:00.lighthouse.json) |
 | [October 13 at 11:06 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-13T11:06:08.328391-04:00.lighthouse.json) |
 | [October 12 at 11:37 PM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-12T23:37:47.149649-04:00.lighthouse.json) |
-| [October 12 at 11:02 AM](https://archive.org/download/taskandpurpose-2022/taskandpurpose-2022-10-12T11:02:35.214838-04:00.lighthouse.json) |
 
 
 

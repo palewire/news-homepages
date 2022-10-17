@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 557 screenshots with the Internet Archive.
+The archiving routine has saved 558 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 557 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thesun-2022/thesun-2022-10-17T16:03:18.679321+01:00.jpg">
+  <img src="https://archive.org/download/thesun-2022/thesun-2022-10-17T16:03:18.679321+01:00.jpg"
+     alt="The Sun at 2022-10-17 16:03:20+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thesun-2022/thesun-2022-10-17T16:03:18.679321+01:00.jpg">October 17 at 4:03 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/thesun-2022/thesun-2022-10-17T10:24:08.364600+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thesun-2022/thesun-2022-10-14T04:53:03.611305+01:00.jpg">October 14 at 4:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thesun-2022/thesun-2022-10-13T16:08:54.338293+01:00.jpg">
-  <img src="https://archive.org/download/thesun-2022/thesun-2022-10-13T16:08:54.338293+01:00.jpg"
-     alt="The Sun at 2022-10-13 16:09:23+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thesun-2022/thesun-2022-10-13T16:08:54.338293+01:00.jpg">October 13 at 4:09 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 542 hyperlink lists with the Internet Archive.
+The archiving routine has saved 543 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 4:03 PM](https://archive.org/download/thesun-2022/thesun-2022-10-17T16:03:18.679321+01:00.hyperlinks.json) |
 | [October 17 at 10:24 AM](https://archive.org/download/thesun-2022/thesun-2022-10-17T10:24:08.364600+01:00.hyperlinks.json) |
 | [October 17 at 4:48 AM](https://archive.org/download/thesun-2022/thesun-2022-10-17T04:47:58.399005+01:00.hyperlinks.json) |
 | [October 16 at 4:05 PM](https://archive.org/download/thesun-2022/thesun-2022-10-16T16:04:54.232124+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 10:22 AM](https://archive.org/download/thesun-2022/thesun-2022-10-15T10:22:39.501769+01:00.hyperlinks.json) |
 | [October 15 at 4:54 AM](https://archive.org/download/thesun-2022/thesun-2022-10-15T04:53:51.451923+01:00.hyperlinks.json) |
 | [October 14 at 5:26 PM](https://archive.org/download/thesun-2022/thesun-2022-10-14T17:25:22.245758+01:00.hyperlinks.json) |
-| [October 14 at 10:24 AM](https://archive.org/download/thesun-2022/thesun-2022-10-14T10:23:51.958456+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 548 accessibility trees with the Internet Archive.
+The archiving routine has saved 549 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 4:03 PM](https://archive.org/download/thesun-2022/thesun-2022-10-17T16:03:18.679321+01:00.accessibility.json) |
 | [October 17 at 10:24 AM](https://archive.org/download/thesun-2022/thesun-2022-10-17T10:24:08.364600+01:00.accessibility.json) |
 | [October 17 at 4:48 AM](https://archive.org/download/thesun-2022/thesun-2022-10-17T04:47:58.399005+01:00.accessibility.json) |
 | [October 16 at 4:05 PM](https://archive.org/download/thesun-2022/thesun-2022-10-16T16:04:54.232124+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 10:22 AM](https://archive.org/download/thesun-2022/thesun-2022-10-15T10:22:39.501769+01:00.accessibility.json) |
 | [October 15 at 4:54 AM](https://archive.org/download/thesun-2022/thesun-2022-10-15T04:53:51.451923+01:00.accessibility.json) |
 | [October 14 at 5:25 PM](https://archive.org/download/thesun-2022/thesun-2022-10-14T17:25:22.245758+01:00.accessibility.json) |
-| [October 14 at 10:24 AM](https://archive.org/download/thesun-2022/thesun-2022-10-14T10:23:51.958456+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 258 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 259 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 4:03 PM](https://archive.org/download/thesun-2022/thesun-2022-10-17T16:03:18.679321+01:00.lighthouse.json) |
 | [October 17 at 10:24 AM](https://archive.org/download/thesun-2022/thesun-2022-10-17T10:24:08.364600+01:00.lighthouse.json) |
 | [October 17 at 4:48 AM](https://archive.org/download/thesun-2022/thesun-2022-10-17T04:47:58.399005+01:00.lighthouse.json) |
 | [October 16 at 4:05 PM](https://archive.org/download/thesun-2022/thesun-2022-10-16T16:04:54.232124+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 10:22 AM](https://archive.org/download/thesun-2022/thesun-2022-10-15T10:22:39.501769+01:00.lighthouse.json) |
 | [October 15 at 4:54 AM](https://archive.org/download/thesun-2022/thesun-2022-10-15T04:53:51.451923+01:00.lighthouse.json) |
 | [October 14 at 5:26 PM](https://archive.org/download/thesun-2022/thesun-2022-10-14T17:25:22.245758+01:00.lighthouse.json) |
-| [October 14 at 10:24 AM](https://archive.org/download/thesun-2022/thesun-2022-10-14T10:23:51.958456+01:00.lighthouse.json) |
 
 
 

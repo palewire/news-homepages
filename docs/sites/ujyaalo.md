@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 168 screenshots with the Internet Archive.
+The archiving routine has saved 169 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 168 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T20:50:43.664144+05:45.jpg">
+  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T20:50:43.664144+05:45.jpg"
+     alt="Ujyaalo at 2022-10-17 20:50:53+05:45 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T20:50:43.664144+05:45.jpg">October 17 at 8:50 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T09:35:48.774808+05:45.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-12T09:42:01.408576+05:45.jpg">October 12 at 9:42 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T21:01:49.695161+05:45.jpg">
-  <img src="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T21:01:49.695161+05:45.jpg"
-     alt="Ujyaalo at 2022-10-11 21:02:06+05:45 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-11T21:01:49.695161+05:45.jpg">October 11 at 9:02 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 171 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 8:50 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T20:50:43.664144+05:45.hyperlinks.json) |
 | [October 17 at 9:35 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T09:35:48.774808+05:45.hyperlinks.json) |
 | [October 16 at 8:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-16T20:53:23.584769+05:45.hyperlinks.json) |
 | [October 16 at 9:44 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-16T09:43:27.659700+05:45.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 9:41 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-14T09:40:54.415598+05:45.hyperlinks.json) |
 | [October 13 at 8:57 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-13T20:57:36.888938+05:45.hyperlinks.json) |
 | [October 13 at 9:27 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-13T09:27:41.924606+05:45.hyperlinks.json) |
-| [October 12 at 8:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-12T20:53:08.581087+05:45.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 170 accessibility trees with the Internet Archive.
+The archiving routine has saved 171 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 8:50 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T20:50:43.664144+05:45.accessibility.json) |
 | [October 17 at 9:35 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T09:35:48.774808+05:45.accessibility.json) |
 | [October 16 at 8:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-16T20:53:23.584769+05:45.accessibility.json) |
 | [October 16 at 9:44 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-16T09:43:27.659700+05:45.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 9:41 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-14T09:40:54.415598+05:45.accessibility.json) |
 | [October 13 at 8:57 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-13T20:57:36.888938+05:45.accessibility.json) |
 | [October 13 at 9:27 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-13T09:27:41.924606+05:45.accessibility.json) |
-| [October 12 at 8:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-12T20:53:08.581087+05:45.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 8:51 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T20:50:43.664144+05:45.lighthouse.json) |
 | [October 17 at 9:36 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-17T09:35:48.774808+05:45.lighthouse.json) |
 | [October 16 at 8:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-16T20:53:23.584769+05:45.lighthouse.json) |
 | [October 16 at 9:44 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-16T09:43:27.659700+05:45.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 9:41 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-14T09:40:54.415598+05:45.lighthouse.json) |
 | [October 13 at 8:57 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-13T20:57:36.888938+05:45.lighthouse.json) |
 | [October 13 at 9:27 AM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-13T09:27:41.924606+05:45.lighthouse.json) |
-| [October 12 at 8:53 PM](https://archive.org/download/ujyaalo-2022/ujyaalo-2022-10-12T20:53:08.581087+05:45.lighthouse.json) |
 
 
 
