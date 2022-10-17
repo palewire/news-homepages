@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 180 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 179 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/lrb-2022/lrb-2022-10-17T10:24:13.889004+01:00.jpg">
+  <img src="https://archive.org/download/lrb-2022/lrb-2022-10-17T10:24:13.889004+01:00.jpg"
+     alt="London Review of Books at 2022-10-17 10:24:23+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/lrb-2022/lrb-2022-10-17T10:24:13.889004+01:00.jpg">October 17 at 10:24 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/lrb-2022/lrb-2022-10-17T02:23:33.023010+01:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/lrb-2022/lrb-2022-10-13T14:00:55.757240+01:00.jpg">October 13 at 2:01 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/lrb-2022/lrb-2022-10-13T10:19:18.742615+01:00.jpg">
-  <img src="https://archive.org/download/lrb-2022/lrb-2022-10-13T10:19:18.742615+01:00.jpg"
-     alt="London Review of Books at 2022-10-13 10:19:23+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/lrb-2022/lrb-2022-10-13T10:19:18.742615+01:00.jpg">October 13 at 10:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 179 hyperlink lists with the Internet Archive.
+The archiving routine has saved 180 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 10:24 AM](https://archive.org/download/lrb-2022/lrb-2022-10-17T10:24:13.889004+01:00.hyperlinks.json) |
 | [October 17 at 2:23 AM](https://archive.org/download/lrb-2022/lrb-2022-10-17T02:23:33.023010+01:00.hyperlinks.json) |
 | [October 16 at 1:56 PM](https://archive.org/download/lrb-2022/lrb-2022-10-16T13:56:11.116639+01:00.hyperlinks.json) |
 | [October 16 at 10:20 AM](https://archive.org/download/lrb-2022/lrb-2022-10-16T10:19:52.452627+01:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 2:23 AM](https://archive.org/download/lrb-2022/lrb-2022-10-15T02:23:46.161457+01:00.hyperlinks.json) |
 | [October 14 at 2:11 PM](https://archive.org/download/lrb-2022/lrb-2022-10-14T14:11:30.121685+01:00.hyperlinks.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/lrb-2022/lrb-2022-10-14T10:24:31.259994+01:00.hyperlinks.json) |
-| [October 14 at 2:23 AM](https://archive.org/download/lrb-2022/lrb-2022-10-14T02:23:21.572622+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 180 accessibility trees with the Internet Archive.
+The archiving routine has saved 181 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 10:24 AM](https://archive.org/download/lrb-2022/lrb-2022-10-17T10:24:13.889004+01:00.accessibility.json) |
 | [October 17 at 2:23 AM](https://archive.org/download/lrb-2022/lrb-2022-10-17T02:23:33.023010+01:00.accessibility.json) |
 | [October 16 at 1:56 PM](https://archive.org/download/lrb-2022/lrb-2022-10-16T13:56:11.116639+01:00.accessibility.json) |
 | [October 16 at 10:19 AM](https://archive.org/download/lrb-2022/lrb-2022-10-16T10:19:52.452627+01:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 2:23 AM](https://archive.org/download/lrb-2022/lrb-2022-10-15T02:23:46.161457+01:00.accessibility.json) |
 | [October 14 at 2:11 PM](https://archive.org/download/lrb-2022/lrb-2022-10-14T14:11:30.121685+01:00.accessibility.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/lrb-2022/lrb-2022-10-14T10:24:31.259994+01:00.accessibility.json) |
-| [October 14 at 2:23 AM](https://archive.org/download/lrb-2022/lrb-2022-10-14T02:23:21.572622+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 180 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 181 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 10:24 AM](https://archive.org/download/lrb-2022/lrb-2022-10-17T10:24:13.889004+01:00.lighthouse.json) |
 | [October 17 at 2:23 AM](https://archive.org/download/lrb-2022/lrb-2022-10-17T02:23:33.023010+01:00.lighthouse.json) |
 | [October 16 at 1:56 PM](https://archive.org/download/lrb-2022/lrb-2022-10-16T13:56:11.116639+01:00.lighthouse.json) |
 | [October 16 at 10:20 AM](https://archive.org/download/lrb-2022/lrb-2022-10-16T10:19:52.452627+01:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 2:23 AM](https://archive.org/download/lrb-2022/lrb-2022-10-15T02:23:46.161457+01:00.lighthouse.json) |
 | [October 14 at 2:11 PM](https://archive.org/download/lrb-2022/lrb-2022-10-14T14:11:30.121685+01:00.lighthouse.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/lrb-2022/lrb-2022-10-14T10:24:31.259994+01:00.lighthouse.json) |
-| [October 14 at 2:23 AM](https://archive.org/download/lrb-2022/lrb-2022-10-14T02:23:21.572622+01:00.lighthouse.json) |
 
 
 
