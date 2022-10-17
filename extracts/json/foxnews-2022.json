@@ -1,5 +1,6 @@
 {
-  "created": 1665988711,
+  "conflict": 1666011278,
+  "created": 1666011278,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -43492,31 +43493,78 @@
       "sha1": "c4255728e60a79219def3edb41ac60b420ba4b5a"
     },
     {
+      "name": "foxnews-2022-10-17T08:50:24.701400-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666011029",
+      "size": "78413",
+      "md5": "57b48ed184cc8e78a07b3117ce5b0db4",
+      "crc32": "c9e6542e",
+      "sha1": "f42f7d06a22f0f7dcb856b3191f8efcbe0cea467",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-10-17T08:50:24.701400-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666011031",
+      "size": "99272",
+      "md5": "b8080339b20eefab2c699a02ac67ff08",
+      "crc32": "976ba1a7",
+      "sha1": "ee0741ce3fb0386116a20788811db6e56a3260d2",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-10-17T08:50:24.701400-04:00.jpg",
+      "source": "original",
+      "mtime": "1666011027",
+      "size": "425485",
+      "md5": "07790dbf4d0387ce6b8923eea111513d",
+      "crc32": "445c1787",
+      "sha1": "59e3bed8d8f09a4cb775fdebfb73e5a08f1e2c48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-10-17T08:50:24.701400-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666011033",
+      "size": "231",
+      "md5": "b3694a1c4d5b882861c01ae21d1f8072",
+      "crc32": "95f46743",
+      "sha1": "9629ddf27ca35bba57c980760d9ed7a8c6484100",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-10-17T08:50:24.701400-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-10-17T08:50:24.701400-04:00.jpg"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e39cdcfe4c55da65a54a94e4d09e4646e08864ca",
-      "mtime": "1665988681",
-      "size": "884022",
-      "md5": "de43a52f50d0d169e92c96ba8a92d836",
-      "crc32": "8ccae118",
-      "sha1": "5cdac6cc026c6df76c5f54c15cd79064ac7f18dc",
+      "btih": "83da4ebd75442d5a68f4e05204c046faa7b90fa0",
+      "mtime": "1666011215",
+      "size": "884889",
+      "md5": "8874eb4030615497c229ad0c2bc05d0e",
+      "crc32": "71188385",
+      "sha1": "4a6db02ceaed67a71aa4150ab40088f4258d78c1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa2d3c2ef38002fd329b585a394c5d08",
+      "md5": "1c64c817a148643f2ba4e20fe8a2e623",
       "summation": "md5"
     },
     {
       "name": "foxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665988029",
-      "size": "5001216",
-      "md5": "4abdc42935e195c5e1dd52208d163e20",
-      "crc32": "c8960cfc",
-      "sha1": "97c256d8f39f1fd5f60645e1342f65b0c9920851",
+      "mtime": "1666011042",
+      "size": "5009408",
+      "md5": "2e3b28fe3967f6f8ad86476d731f22ec",
+      "crc32": "8b0b66b0",
+      "sha1": "70865dceb15f1dc3932e9a7508f61c5366955ab1",
       "format": "Metadata"
     },
     {
@@ -43530,9 +43578,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4176,
-  "item_last_updated": 1665988681,
-  "item_size": 535098443,
+  "files_count": 4181,
+  "item_last_updated": 1666011215,
+  "item_size": 535710903,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -43549,10 +43597,21 @@
     "publicdate": "2022-03-23 01:45:55",
     "addeddate": "2022-03-23 01:45:55"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 789852201,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3443372804,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1537858933,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }
