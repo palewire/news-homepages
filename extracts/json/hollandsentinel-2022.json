@@ -1,5 +1,5 @@
 {
-  "created": 1665924788,
+  "created": 1665969580,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/28/items/hollandsentinel-2022",
@@ -3302,31 +3302,83 @@
       "sha1": "9a9ab2beb25c08e93891b3472252f775887e1c15"
     },
     {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665969503",
+      "size": "23937",
+      "md5": "bf06102241838a9eeb2108c82e6cab83",
+      "crc32": "226692ab",
+      "sha1": "97284e49c3f2d51b196775df372509fab200b2e6",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665969505",
+      "size": "34697",
+      "md5": "9c54afa19966270defbe2a907ddc5425",
+      "crc32": "4db8fa87",
+      "sha1": "35ad353ca596cd7f91d1c79cf7e783ccb0b6333d",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.jpg",
+      "source": "original",
+      "mtime": "1665969501",
+      "size": "256793",
+      "md5": "cb046d598c9c061e36bb4eae945c0b39",
+      "crc32": "f3a05142",
+      "sha1": "1fce8a034d881aa9fbd5d567aa524357019eea0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665969507",
+      "size": "1540",
+      "md5": "4334eadba4aa9abee5590bd79dc4490a",
+      "crc32": "48eee3ce",
+      "sha1": "4340b2b9a8c870ea282443047965bd199085b18e",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.jpg",
+      "mtime": "1665969560",
+      "size": "9128",
+      "md5": "d13755968ed55bb6a2f872b6aff97a4a",
+      "crc32": "0d926f6d",
+      "sha1": "849ee220bda172312b4b46faa0cd1900146fcf0b"
+    },
+    {
       "name": "hollandsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a564f9a0b461a2515dae35bb156c190f090620dd",
-      "mtime": "1665924778",
-      "size": "70822",
-      "md5": "fa837701e3ded04355dfae0caa59cbad",
-      "crc32": "6947d570",
-      "sha1": "7800038de59b873df579f373f2220235cf95ca92",
+      "btih": "86deb025575671643807699d1869cafff1a50615",
+      "mtime": "1665969566",
+      "size": "71916",
+      "md5": "3c6d067002612565175fc7bbe670b6aa",
+      "crc32": "3ce7165b",
+      "sha1": "4db3e4a8ac6f1a909272f7b9a16daa6af1206dbb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hollandsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "65797f27490ad42121c95d550692910d",
+      "md5": "36675d0b80486cff2a64d7c94cf8e9fb",
       "summation": "md5"
     },
     {
       "name": "hollandsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665924726",
-      "size": "430080",
-      "md5": "370a6d86f33af425c0cdaeae98b60e3b",
-      "crc32": "4e74e26a",
-      "sha1": "18b114aa46337e6fb5126c1517ceefab3d2dcf84",
+      "mtime": "1665969510",
+      "size": "434176",
+      "md5": "0896cc66115c2523e25ed0b944d925ca",
+      "crc32": "ce044113",
+      "sha1": "3788cb139b4deb93eca7c9c0ecd0ffbba6e63c2a",
       "format": "Metadata"
     },
     {
@@ -3340,9 +3392,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 323,
-  "item_last_updated": 1665924778,
-  "item_size": 22063911,
+  "files_count": 328,
+  "item_last_updated": 1665969566,
+  "item_size": 22395196,
   "metadata": {
     "identifier": "hollandsentinel-2022",
     "collection": [
@@ -3359,10 +3411,10 @@
     "publicdate": "2022-09-20 22:19:45",
     "addeddate": "2022-09-20 22:19:45"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 2119314767,
+  "server": "ia601501.us.archive.org",
+  "uniq": 393589845,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

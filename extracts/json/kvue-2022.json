@@ -1,5 +1,5 @@
 {
-  "created": 1665925013,
+  "created": 1665969716,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/15/items/kvue-2022",
@@ -10834,31 +10834,82 @@
       "sha1": "ab756814dd0425a358057f05d5c50407db13f05b"
     },
     {
+      "name": "kvue-2022-10-16T20:20:46.146739-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665969655",
+      "size": "7555",
+      "md5": "f6bc1460603a94e146d8315f9e5c7de0",
+      "crc32": "bef89542",
+      "sha1": "3e09e06728856289457c39f96dd4dfcc4128f33f",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-10-16T20:20:46.146739-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665969657",
+      "size": "80678",
+      "md5": "7d887736e685235a5d05b20c8f087bc9",
+      "crc32": "e922822f",
+      "sha1": "27b9ad880b3b2b4011cc206a3e5f4c73b547ce26",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-10-16T20:20:46.146739-05:00.jpg",
+      "source": "original",
+      "mtime": "1665969653",
+      "size": "253237",
+      "md5": "6c12c79084fb96756bb8eb6bc241ee85",
+      "crc32": "dd975bd5",
+      "sha1": "7e8fe5f6e6c711012e5841a94bfcfcb9436fcb29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvue-2022-10-16T20:20:46.146739-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665969659",
+      "size": "1441",
+      "md5": "813a8368a9c6ed3dd559441a2a81775d",
+      "crc32": "1625244a",
+      "sha1": "b3ee41ef7f2422b40501ec31c42f39008d958564",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-10-16T20:20:46.146739-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665969660",
+      "size": "18710",
+      "md5": "1576fcc34da4b447b2aa9a74c36f2593",
+      "crc32": "9b639fd3",
+      "sha1": "57242d0549e728414cd73f62c7a7ffab9a3c00e5",
+      "format": "JSON"
+    },
+    {
       "name": "kvue-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed81bd8dc883375e1458f9ad83ea01e66b665a7e",
-      "mtime": "1665925005",
-      "size": "216645",
-      "md5": "a59651fd3e573d9002fde07a031c2210",
-      "crc32": "ede99d14",
-      "sha1": "6ae70dacc099c7e84f97af158cde8556e49f56b3",
+      "btih": "c4adcc149e0828ab2e7148f7739051ece56b9933",
+      "mtime": "1665969711",
+      "size": "217687",
+      "md5": "95df9d47654c581545a9397054866ccd",
+      "crc32": "4a3a31c4",
+      "sha1": "b77c6731463d4969cdde2c1620e5c37bfd04a644",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvue-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61db6a52b8bbbafa50a55ea28bb17168",
+      "md5": "210948fdd5a2566817f4f288816f36f9",
       "summation": "md5"
     },
     {
       "name": "kvue-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665924940",
-      "size": "1318912",
-      "md5": "48eb3621b1150a9ab2ef06f54e9ee349",
-      "crc32": "4158a8e9",
-      "sha1": "fbdb75a5780d0e73621599622ff5a8f5ed51ca61",
+      "mtime": "1665969665",
+      "size": "1327104",
+      "md5": "444399fc92f8e0897c4b5e06267e483c",
+      "crc32": "d99c0368",
+      "sha1": "247a44b2f5f023b9b107aba66acda7665882f796",
       "format": "Metadata"
     },
     {
@@ -10872,9 +10923,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1050,
-  "item_last_updated": 1665925005,
-  "item_size": 63087820,
+  "files_count": 1055,
+  "item_last_updated": 1665969711,
+  "item_size": 63458675,
   "metadata": {
     "identifier": "kvue-2022",
     "collection": [
@@ -10891,10 +10942,21 @@
     "publicdate": "2022-07-18 00:04:44",
     "addeddate": "2022-07-18 00:04:44"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 613553147,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3442697072,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 858031415,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }
