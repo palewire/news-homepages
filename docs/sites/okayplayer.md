@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 255 screenshots with the Internet Archive.
+The archiving routine has saved 261 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-17T03:53:56.343492-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-17T03:53:56.343492-04:00.jpg"
+     alt="okayplayer at 2022-10-17 03:53:58-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-17T03:53:56.343492-04:00.jpg">October 17 at 3:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T14:56:58.493677-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T14:56:58.493677-04:00.jpg"
+     alt="okayplayer at 2022-10-16 14:57:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T14:56:58.493677-04:00.jpg">October 16 at 2:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T03:20:35.875684-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T03:20:35.875684-04:00.jpg"
+     alt="okayplayer at 2022-10-16 03:20:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T03:20:35.875684-04:00.jpg">October 16 at 3:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T15:21:38.053537-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T15:21:38.053537-04:00.jpg"
+     alt="okayplayer at 2022-10-15 15:21:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T15:21:38.053537-04:00.jpg">October 15 at 3:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T03:49:23.574712-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T03:49:23.574712-04:00.jpg"
+     alt="okayplayer at 2022-10-15 03:49:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T03:49:23.574712-04:00.jpg">October 15 at 3:49 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T16:24:07.794898-04:00.jpg">
+  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T16:24:07.794898-04:00.jpg"
+     alt="okayplayer at 2022-10-14 16:24:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T16:24:07.794898-04:00.jpg">October 14 at 4:24 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T03:59:20.718450-04:00.jpg">
   <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T03:59:20.718450-04:00.jpg"
      alt="okayplayer at 2022-10-14 03:59:22-04:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T15:10:02.780504-04:00.jpg">October 11 at 3:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T04:05:16.541425-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T04:05:16.541425-04:00.jpg"
-     alt="okayplayer at 2022-10-11 04:05:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T04:05:16.541425-04:00.jpg">October 11 at 4:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T15:41:29.529921-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T15:41:29.529921-04:00.jpg"
-     alt="okayplayer at 2022-10-10 15:41:31-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T15:41:29.529921-04:00.jpg">October 10 at 3:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T04:33:56.061205-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T04:33:56.061205-04:00.jpg"
-     alt="okayplayer at 2022-10-10 04:33:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T04:33:56.061205-04:00.jpg">October 10 at 4:33 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-09T15:16:50.904629-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-09T15:16:50.904629-04:00.jpg"
-     alt="okayplayer at 2022-10-09 15:17:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-09T15:16:50.904629-04:00.jpg">October 9 at 3:17 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-09T03:25:12.713060-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-09T03:25:12.713060-04:00.jpg"
-     alt="okayplayer at 2022-10-09 03:25:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-09T03:25:12.713060-04:00.jpg">October 9 at 3:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-08T15:15:08.028482-04:00.jpg">
-  <img src="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-08T15:15:08.028482-04:00.jpg"
-     alt="okayplayer at 2022-10-08 15:15:09-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/okayplayer-2022/okayplayer-2022-10-08T15:15:08.028482-04:00.jpg">October 8 at 3:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 259 hyperlink lists with the Internet Archive.
+The archiving routine has saved 265 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 3:54 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-17T03:53:56.343492-04:00.hyperlinks.json) |
+| [October 16 at 2:57 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T14:56:58.493677-04:00.hyperlinks.json) |
+| [October 16 at 3:20 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T03:20:35.875684-04:00.hyperlinks.json) |
+| [October 15 at 3:21 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T15:21:38.053537-04:00.hyperlinks.json) |
+| [October 15 at 3:49 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T03:49:23.574712-04:00.hyperlinks.json) |
+| [October 14 at 4:24 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T16:24:07.794898-04:00.hyperlinks.json) |
 | [October 14 at 3:59 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T03:59:20.718450-04:00.hyperlinks.json) |
 | [October 13 at 4:04 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-13T16:04:23.055935-04:00.hyperlinks.json) |
 | [October 13 at 3:19 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-13T03:19:34.590601-04:00.hyperlinks.json) |
 | [October 12 at 3:15 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-12T15:15:42.823253-04:00.hyperlinks.json) |
-| [October 12 at 4:01 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-12T04:01:42.005024-04:00.hyperlinks.json) |
-| [October 11 at 3:10 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T15:10:02.780504-04:00.hyperlinks.json) |
-| [October 11 at 4:05 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T04:05:16.541425-04:00.hyperlinks.json) |
-| [October 10 at 3:41 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T15:41:29.529921-04:00.hyperlinks.json) |
-| [October 10 at 4:33 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T04:33:56.061205-04:00.hyperlinks.json) |
-| [October 9 at 3:17 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-09T15:16:50.904629-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 259 accessibility trees with the Internet Archive.
+The archiving routine has saved 265 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 3:53 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-17T03:53:56.343492-04:00.accessibility.json) |
+| [October 16 at 2:57 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T14:56:58.493677-04:00.accessibility.json) |
+| [October 16 at 3:20 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T03:20:35.875684-04:00.accessibility.json) |
+| [October 15 at 3:21 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T15:21:38.053537-04:00.accessibility.json) |
+| [October 15 at 3:49 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T03:49:23.574712-04:00.accessibility.json) |
+| [October 14 at 4:24 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T16:24:07.794898-04:00.accessibility.json) |
 | [October 14 at 3:59 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T03:59:20.718450-04:00.accessibility.json) |
 | [October 13 at 4:04 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-13T16:04:23.055935-04:00.accessibility.json) |
 | [October 13 at 3:19 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-13T03:19:34.590601-04:00.accessibility.json) |
 | [October 12 at 3:15 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-12T15:15:42.823253-04:00.accessibility.json) |
-| [October 12 at 4:01 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-12T04:01:42.005024-04:00.accessibility.json) |
-| [October 11 at 3:10 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T15:10:02.780504-04:00.accessibility.json) |
-| [October 11 at 4:05 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T04:05:16.541425-04:00.accessibility.json) |
-| [October 10 at 3:41 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T15:41:29.529921-04:00.accessibility.json) |
-| [October 10 at 4:33 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T04:33:56.061205-04:00.accessibility.json) |
-| [October 9 at 3:17 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-09T15:16:50.904629-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:54 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-17T03:53:56.343492-04:00.lighthouse.json) |
+| [October 16 at 2:57 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T14:56:58.493677-04:00.lighthouse.json) |
+| [October 16 at 3:20 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-16T03:20:35.875684-04:00.lighthouse.json) |
+| [October 15 at 3:21 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T15:21:38.053537-04:00.lighthouse.json) |
+| [October 15 at 3:49 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-15T03:49:23.574712-04:00.lighthouse.json) |
+| [October 14 at 4:24 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T16:24:07.794898-04:00.lighthouse.json) |
 | [October 14 at 3:59 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-14T03:59:20.718450-04:00.lighthouse.json) |
 | [October 13 at 4:04 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-13T16:04:23.055935-04:00.lighthouse.json) |
 | [October 13 at 3:19 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-13T03:19:34.590601-04:00.lighthouse.json) |
 | [October 12 at 3:15 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-12T15:15:42.823253-04:00.lighthouse.json) |
-| [October 12 at 4:01 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-12T04:01:42.005024-04:00.lighthouse.json) |
-| [October 11 at 3:10 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T15:10:02.780504-04:00.lighthouse.json) |
-| [October 11 at 4:05 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-11T04:05:16.541425-04:00.lighthouse.json) |
-| [October 10 at 3:41 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T15:41:29.529921-04:00.lighthouse.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-10T04:33:56.061205-04:00.lighthouse.json) |
-| [October 9 at 3:17 PM](https://archive.org/download/okayplayer-2022/okayplayer-2022-10-09T15:16:50.904629-04:00.lighthouse.json) |
 
 
 

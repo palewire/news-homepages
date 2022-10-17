@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 199 screenshots with the Internet Archive.
+The archiving routine has saved 201 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/eater-2022/eater-2022-10-17T02:23:55.482273-04:00.jpg">
+  <img src="https://archive.org/download/eater-2022/eater-2022-10-17T02:23:55.482273-04:00.jpg"
+     alt="Eater at 2022-10-17 02:24:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-10-17T02:23:55.482273-04:00.jpg">October 17 at 2:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eater-2022/eater-2022-10-16T13:35:02.488592-04:00.jpg">
+  <img src="https://archive.org/download/eater-2022/eater-2022-10-16T13:35:02.488592-04:00.jpg"
+     alt="Eater at 2022-10-16 13:35:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eater-2022/eater-2022-10-16T13:35:02.488592-04:00.jpg">October 16 at 1:35 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/eater-2022/eater-2022-10-16T02:36:25.299436-04:00.jpg">
   <img src="https://archive.org/download/eater-2022/eater-2022-10-16T02:36:25.299436-04:00.jpg"
      alt="Eater at 2022-10-16 02:36:32-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eater-2022/eater-2022-10-11T13:55:28.938633-04:00.jpg">October 11 at 1:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eater-2022/eater-2022-10-11T02:45:46.318822-04:00.jpg">
-  <img src="https://archive.org/download/eater-2022/eater-2022-10-11T02:45:46.318822-04:00.jpg"
-     alt="Eater at 2022-10-11 02:45:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-10-11T02:45:46.318822-04:00.jpg">October 11 at 2:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eater-2022/eater-2022-10-10T14:57:34.805989-04:00.jpg">
-  <img src="https://archive.org/download/eater-2022/eater-2022-10-10T14:57:34.805989-04:00.jpg"
-     alt="Eater at 2022-10-10 14:57:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eater-2022/eater-2022-10-10T14:57:34.805989-04:00.jpg">October 10 at 2:57 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 197 hyperlink lists with the Internet Archive.
+The archiving routine has saved 199 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:24 AM](https://archive.org/download/eater-2022/eater-2022-10-17T02:23:55.482273-04:00.hyperlinks.json) |
+| [October 16 at 1:35 PM](https://archive.org/download/eater-2022/eater-2022-10-16T13:35:02.488592-04:00.hyperlinks.json) |
 | [October 16 at 2:36 AM](https://archive.org/download/eater-2022/eater-2022-10-16T02:36:25.299436-04:00.hyperlinks.json) |
 | [October 15 at 2:05 PM](https://archive.org/download/eater-2022/eater-2022-10-15T14:05:11.314592-04:00.hyperlinks.json) |
 | [October 15 at 2:34 AM](https://archive.org/download/eater-2022/eater-2022-10-15T02:34:38.872118-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 2:51 PM](https://archive.org/download/eater-2022/eater-2022-10-13T14:50:42.156488-04:00.hyperlinks.json) |
 | [October 13 at 2:03 AM](https://archive.org/download/eater-2022/eater-2022-10-13T02:02:49.878379-04:00.hyperlinks.json) |
 | [October 12 at 1:32 PM](https://archive.org/download/eater-2022/eater-2022-10-12T13:31:50.695985-04:00.hyperlinks.json) |
-| [October 12 at 2:42 AM](https://archive.org/download/eater-2022/eater-2022-10-12T02:42:08.095062-04:00.hyperlinks.json) |
-| [October 11 at 1:55 PM](https://archive.org/download/eater-2022/eater-2022-10-11T13:55:28.938633-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 198 accessibility trees with the Internet Archive.
+The archiving routine has saved 200 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:24 AM](https://archive.org/download/eater-2022/eater-2022-10-17T02:23:55.482273-04:00.accessibility.json) |
+| [October 16 at 1:35 PM](https://archive.org/download/eater-2022/eater-2022-10-16T13:35:02.488592-04:00.accessibility.json) |
 | [October 16 at 2:36 AM](https://archive.org/download/eater-2022/eater-2022-10-16T02:36:25.299436-04:00.accessibility.json) |
 | [October 15 at 2:05 PM](https://archive.org/download/eater-2022/eater-2022-10-15T14:05:11.314592-04:00.accessibility.json) |
 | [October 15 at 2:34 AM](https://archive.org/download/eater-2022/eater-2022-10-15T02:34:38.872118-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 2:51 PM](https://archive.org/download/eater-2022/eater-2022-10-13T14:50:42.156488-04:00.accessibility.json) |
 | [October 13 at 2:03 AM](https://archive.org/download/eater-2022/eater-2022-10-13T02:02:49.878379-04:00.accessibility.json) |
 | [October 12 at 1:32 PM](https://archive.org/download/eater-2022/eater-2022-10-12T13:31:50.695985-04:00.accessibility.json) |
-| [October 12 at 2:42 AM](https://archive.org/download/eater-2022/eater-2022-10-12T02:42:08.095062-04:00.accessibility.json) |
-| [October 11 at 1:55 PM](https://archive.org/download/eater-2022/eater-2022-10-11T13:55:28.938633-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:24 AM](https://archive.org/download/eater-2022/eater-2022-10-17T02:23:55.482273-04:00.lighthouse.json) |
+| [October 16 at 1:35 PM](https://archive.org/download/eater-2022/eater-2022-10-16T13:35:02.488592-04:00.lighthouse.json) |
 | [October 16 at 2:36 AM](https://archive.org/download/eater-2022/eater-2022-10-16T02:36:25.299436-04:00.lighthouse.json) |
 | [October 15 at 2:05 PM](https://archive.org/download/eater-2022/eater-2022-10-15T14:05:11.314592-04:00.lighthouse.json) |
 | [October 15 at 2:34 AM](https://archive.org/download/eater-2022/eater-2022-10-15T02:34:38.872118-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 2:51 PM](https://archive.org/download/eater-2022/eater-2022-10-13T14:50:42.156488-04:00.lighthouse.json) |
 | [October 13 at 2:03 AM](https://archive.org/download/eater-2022/eater-2022-10-13T02:02:49.878379-04:00.lighthouse.json) |
 | [October 12 at 1:32 PM](https://archive.org/download/eater-2022/eater-2022-10-12T13:31:50.695985-04:00.lighthouse.json) |
-| [October 12 at 2:42 AM](https://archive.org/download/eater-2022/eater-2022-10-12T02:42:08.095062-04:00.lighthouse.json) |
-| [October 11 at 1:55 PM](https://archive.org/download/eater-2022/eater-2022-10-11T13:55:28.938633-04:00.lighthouse.json) |
 
 
 

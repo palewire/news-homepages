@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 164 screenshots with the Internet Archive.
+The archiving routine has saved 166 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-17T02:22:07.770491-04:00.jpg">
+  <img src="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-17T02:22:07.770491-04:00.jpg"
+     alt="Daily Penn at 2022-10-17 02:22:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-17T02:22:07.770491-04:00.jpg">October 17 at 2:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T13:33:29.875037-04:00.jpg">
+  <img src="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T13:33:29.875037-04:00.jpg"
+     alt="Daily Penn at 2022-10-16 13:33:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T13:33:29.875037-04:00.jpg">October 16 at 1:33 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T02:36:43.125077-04:00.jpg">
   <img src="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T02:36:43.125077-04:00.jpg"
      alt="Daily Penn at 2022-10-16 02:36:47-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-11T02:41:47.724908-04:00.jpg">October 11 at 2:41 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-10T14:57:34.085521-04:00.jpg">
-  <img src="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-10T14:57:34.085521-04:00.jpg"
-     alt="Daily Penn at 2022-10-10 14:57:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-10T14:57:34.085521-04:00.jpg">October 10 at 2:57 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-10T02:29:44.165134-04:00.jpg">
-  <img src="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-10T02:29:44.165134-04:00.jpg"
-     alt="Daily Penn at 2022-10-10 02:30:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/dailypenn-2022/dailypenn-2022-10-10T02:29:44.165134-04:00.jpg">October 10 at 2:30 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 164 hyperlink lists with the Internet Archive.
+The archiving routine has saved 166 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:22 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-17T02:22:07.770491-04:00.hyperlinks.json) |
+| [October 16 at 1:33 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T13:33:29.875037-04:00.hyperlinks.json) |
 | [October 16 at 2:36 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T02:36:43.125077-04:00.hyperlinks.json) |
 | [October 15 at 2:05 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-15T14:05:16.048759-04:00.hyperlinks.json) |
 | [October 15 at 2:31 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-15T02:31:42.562410-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 13 at 2:49 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-13T14:48:55.184684-04:00.hyperlinks.json) |
 | [October 13 at 2:00 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-13T02:00:12.604201-04:00.hyperlinks.json) |
 | [October 12 at 1:28 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-12T13:28:34.354111-04:00.hyperlinks.json) |
-| [October 12 at 2:38 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-12T02:38:22.790418-04:00.hyperlinks.json) |
-| [October 11 at 1:55 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-11T13:55:14.730763-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 165 accessibility trees with the Internet Archive.
+The archiving routine has saved 167 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:22 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-17T02:22:07.770491-04:00.accessibility.json) |
+| [October 16 at 1:33 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T13:33:29.875037-04:00.accessibility.json) |
 | [October 16 at 2:36 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T02:36:43.125077-04:00.accessibility.json) |
 | [October 15 at 2:05 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-15T14:05:16.048759-04:00.accessibility.json) |
 | [October 15 at 2:31 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-15T02:31:42.562410-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 2:49 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-13T14:48:55.184684-04:00.accessibility.json) |
 | [October 13 at 2:00 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-13T02:00:12.604201-04:00.accessibility.json) |
 | [October 12 at 1:28 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-12T13:28:34.354111-04:00.accessibility.json) |
-| [October 12 at 2:38 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-12T02:38:22.790418-04:00.accessibility.json) |
-| [October 11 at 1:55 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-11T13:55:14.730763-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 167 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:22 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-17T02:22:07.770491-04:00.lighthouse.json) |
+| [October 16 at 1:33 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T13:33:29.875037-04:00.lighthouse.json) |
 | [October 16 at 2:36 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-16T02:36:43.125077-04:00.lighthouse.json) |
 | [October 15 at 2:05 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-15T14:05:16.048759-04:00.lighthouse.json) |
 | [October 15 at 2:31 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-15T02:31:42.562410-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 13 at 2:49 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-13T14:48:55.184684-04:00.lighthouse.json) |
 | [October 13 at 2:00 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-13T02:00:12.604201-04:00.lighthouse.json) |
 | [October 12 at 1:28 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-12T13:28:34.354111-04:00.lighthouse.json) |
-| [October 12 at 2:38 AM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-12T02:38:22.790418-04:00.lighthouse.json) |
-| [October 11 at 1:55 PM](https://archive.org/download/dailypenn-2022/dailypenn-2022-10-11T13:55:14.730763-04:00.lighthouse.json) |
 
 
 

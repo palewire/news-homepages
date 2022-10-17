@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 63 screenshots with the Internet Archive.
+The archiving routine has saved 67 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T21:50:09.286341-10:00.jpg">
+  <img src="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T21:50:09.286341-10:00.jpg"
+     alt="Hawaii Public Radio at 2022-10-16 21:50:12-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T21:50:09.286341-10:00.jpg">October 16 at 9:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T08:53:57.862803-10:00.jpg">
+  <img src="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T08:53:57.862803-10:00.jpg"
+     alt="Hawaii Public Radio at 2022-10-16 08:53:59-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T08:53:57.862803-10:00.jpg">October 16 at 8:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T21:30:50.136284-10:00.jpg">
+  <img src="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T21:30:50.136284-10:00.jpg"
+     alt="Hawaii Public Radio at 2022-10-15 21:30:51-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T21:30:50.136284-10:00.jpg">October 15 at 9:30 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T09:57:18.111339-10:00.jpg">
+  <img src="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T09:57:18.111339-10:00.jpg"
+     alt="Hawaii Public Radio at 2022-10-15 09:57:25-10:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T09:57:18.111339-10:00.jpg">October 15 at 9:57 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-14T22:00:49.713754-10:00.jpg">
   <img src="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-14T22:00:49.713754-10:00.jpg"
      alt="Hawaii Public Radio at 2022-10-14 22:00:53-10:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-11T09:21:12.230736-10:00.jpg">October 11 at 9:21 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T22:14:04.573553-10:00.jpg">
-  <img src="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T22:14:04.573553-10:00.jpg"
-     alt="Hawaii Public Radio at 2022-10-10 22:14:08-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T22:14:04.573553-10:00.jpg">October 10 at 10:14 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T10:16:05.265602-10:00.jpg">
-  <img src="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T10:16:05.265602-10:00.jpg"
-     alt="Hawaii Public Radio at 2022-10-10 10:16:06-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T10:16:05.265602-10:00.jpg">October 10 at 10:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-09T22:28:17.073841-10:00.jpg">
-  <img src="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-09T22:28:17.073841-10:00.jpg"
-     alt="Hawaii Public Radio at 2022-10-09 22:28:20-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-09T22:28:17.073841-10:00.jpg">October 9 at 10:28 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-09T10:02:01.682225-10:00.jpg">
-  <img src="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-09T10:02:01.682225-10:00.jpg"
-     alt="Hawaii Public Radio at 2022-10-09 10:02:04-10:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wearehpr-2022/wearehpr-2022-10-09T10:02:01.682225-10:00.jpg">October 9 at 10:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 63 hyperlink lists with the Internet Archive.
+The archiving routine has saved 67 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 16 at 9:50 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T21:50:09.286341-10:00.hyperlinks.json) |
+| [October 16 at 8:54 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T08:53:57.862803-10:00.hyperlinks.json) |
+| [October 15 at 9:30 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T21:30:50.136284-10:00.hyperlinks.json) |
+| [October 15 at 9:57 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T09:57:18.111339-10:00.hyperlinks.json) |
 | [October 14 at 10:00 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-14T22:00:49.713754-10:00.hyperlinks.json) |
 | [October 14 at 10:36 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-14T10:36:45.187640-10:00.hyperlinks.json) |
 | [October 13 at 10:10 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-13T22:10:06.789083-10:00.hyperlinks.json) |
 | [October 13 at 10:18 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-13T10:18:46.569461-10:00.hyperlinks.json) |
 | [October 12 at 9:28 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-12T21:28:15.148248-10:00.hyperlinks.json) |
 | [October 12 at 8:52 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-12T08:52:27.803893-10:00.hyperlinks.json) |
-| [October 11 at 10:11 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-11T22:11:17.247510-10:00.hyperlinks.json) |
-| [October 11 at 9:21 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-11T09:21:12.230736-10:00.hyperlinks.json) |
-| [October 10 at 10:14 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T22:14:04.573553-10:00.hyperlinks.json) |
-| [October 10 at 10:16 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T10:16:05.265602-10:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 63 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 16 at 9:50 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T21:50:09.286341-10:00.accessibility.json) |
+| [October 16 at 8:54 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T08:53:57.862803-10:00.accessibility.json) |
+| [October 15 at 9:30 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T21:30:50.136284-10:00.accessibility.json) |
+| [October 15 at 9:57 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T09:57:18.111339-10:00.accessibility.json) |
 | [October 14 at 10:00 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-14T22:00:49.713754-10:00.accessibility.json) |
 | [October 14 at 10:36 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-14T10:36:45.187640-10:00.accessibility.json) |
 | [October 13 at 10:10 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-13T22:10:06.789083-10:00.accessibility.json) |
 | [October 13 at 10:18 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-13T10:18:46.569461-10:00.accessibility.json) |
 | [October 12 at 9:28 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-12T21:28:15.148248-10:00.accessibility.json) |
 | [October 12 at 8:52 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-12T08:52:27.803893-10:00.accessibility.json) |
-| [October 11 at 10:11 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-11T22:11:17.247510-10:00.accessibility.json) |
-| [October 11 at 9:21 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-11T09:21:12.230736-10:00.accessibility.json) |
-| [October 10 at 10:14 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T22:14:04.573553-10:00.accessibility.json) |
-| [October 10 at 10:16 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T10:16:05.265602-10:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 16 at 9:50 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T21:50:09.286341-10:00.lighthouse.json) |
+| [October 16 at 8:54 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-16T08:53:57.862803-10:00.lighthouse.json) |
+| [October 15 at 9:30 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T21:30:50.136284-10:00.lighthouse.json) |
+| [October 15 at 9:57 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-15T09:57:18.111339-10:00.lighthouse.json) |
 | [October 14 at 10:00 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-14T22:00:49.713754-10:00.lighthouse.json) |
 | [October 14 at 10:36 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-14T10:36:45.187640-10:00.lighthouse.json) |
 | [October 13 at 10:10 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-13T22:10:06.789083-10:00.lighthouse.json) |
 | [October 13 at 10:18 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-13T10:18:46.569461-10:00.lighthouse.json) |
 | [October 12 at 9:28 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-12T21:28:15.148248-10:00.lighthouse.json) |
 | [October 12 at 8:52 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-12T08:52:27.803893-10:00.lighthouse.json) |
-| [October 11 at 10:11 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-11T22:11:17.247510-10:00.lighthouse.json) |
-| [October 11 at 9:21 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-11T09:21:12.230736-10:00.lighthouse.json) |
-| [October 10 at 10:14 PM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T22:14:04.573553-10:00.lighthouse.json) |
-| [October 10 at 10:16 AM](https://archive.org/download/wearehpr-2022/wearehpr-2022-10-10T10:16:05.265602-10:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 378 screenshots with the Internet Archive.
+The archiving routine has saved 384 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-17T02:55:41.946226-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-17T02:55:41.946226-05:00.jpg"
+     alt="Quad City Times at 2022-10-17 02:55:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-17T02:55:41.946226-05:00.jpg">October 17 at 2:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-16T13:59:51.513869-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-16T13:59:51.513869-05:00.jpg"
+     alt="Quad City Times at 2022-10-16 14:00:01-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-16T13:59:51.513869-05:00.jpg">October 16 at 2:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-16T02:23:01.812281-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-16T02:23:01.812281-05:00.jpg"
+     alt="Quad City Times at 2022-10-16 02:23:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-16T02:23:01.812281-05:00.jpg">October 16 at 2:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-15T14:24:13.167927-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-15T14:24:13.167927-05:00.jpg"
+     alt="Quad City Times at 2022-10-15 14:24:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-15T14:24:13.167927-05:00.jpg">October 15 at 2:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-15T02:51:48.253481-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-15T02:51:48.253481-05:00.jpg"
+     alt="Quad City Times at 2022-10-15 02:51:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-15T02:51:48.253481-05:00.jpg">October 15 at 2:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-14T15:26:22.617490-05:00.jpg">
+  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-14T15:26:22.617490-05:00.jpg"
+     alt="Quad City Times at 2022-10-14 15:26:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-14T15:26:22.617490-05:00.jpg">October 14 at 3:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-14T11:28:52.743870-05:00.jpg">
   <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-14T11:28:52.743870-05:00.jpg"
      alt="Quad City Times at 2022-10-14 11:29:22-05:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-12T10:56:18.268304-05:00.jpg">October 12 at 10:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-12T03:04:09.921963-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-12T03:04:09.921963-05:00.jpg"
-     alt="Quad City Times at 2022-10-12 03:04:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-12T03:04:09.921963-05:00.jpg">October 12 at 3:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-11T14:11:27.598752-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-11T14:11:27.598752-05:00.jpg"
-     alt="Quad City Times at 2022-10-11 14:11:39-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-11T14:11:27.598752-05:00.jpg">October 11 at 2:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-11T03:07:17.318033-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-11T03:07:17.318033-05:00.jpg"
-     alt="Quad City Times at 2022-10-11 03:07:41-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-11T03:07:17.318033-05:00.jpg">October 11 at 3:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-10T14:46:43.948139-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-10T14:46:43.948139-05:00.jpg"
-     alt="Quad City Times at 2022-10-10 14:46:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-10T14:46:43.948139-05:00.jpg">October 10 at 2:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-10T11:26:37.526165-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-10T11:26:37.526165-05:00.jpg"
-     alt="Quad City Times at 2022-10-10 11:26:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-10T11:26:37.526165-05:00.jpg">October 10 at 11:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-10T03:37:26.474692-05:00.jpg">
-  <img src="https://archive.org/download/qctimes-2022/qctimes-2022-10-10T03:37:26.474692-05:00.jpg"
-     alt="Quad City Times at 2022-10-10 03:37:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/qctimes-2022/qctimes-2022-10-10T03:37:26.474692-05:00.jpg">October 10 at 3:37 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 359 hyperlink lists with the Internet Archive.
+The archiving routine has saved 365 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-17T02:55:41.946226-05:00.hyperlinks.json) |
+| [October 16 at 2:00 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-16T13:59:51.513869-05:00.hyperlinks.json) |
+| [October 16 at 2:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-16T02:23:01.812281-05:00.hyperlinks.json) |
+| [October 15 at 2:24 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-15T14:24:13.167927-05:00.hyperlinks.json) |
+| [October 15 at 2:51 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-15T02:51:48.253481-05:00.hyperlinks.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-14T15:26:22.617490-05:00.hyperlinks.json) |
 | [October 14 at 11:29 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-14T11:28:52.743870-05:00.hyperlinks.json) |
 | [October 14 at 3:04 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-14T03:03:25.675757-05:00.hyperlinks.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-13T15:07:14.477710-05:00.hyperlinks.json) |
 | [October 13 at 2:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-13T02:22:46.567952-05:00.hyperlinks.json) |
-| [October 12 at 2:18 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-12T14:18:22.237363-05:00.hyperlinks.json) |
-| [October 12 at 10:56 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-12T10:56:18.268304-05:00.hyperlinks.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-12T03:04:09.921963-05:00.hyperlinks.json) |
-| [October 11 at 2:11 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-11T14:11:27.598752-05:00.hyperlinks.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-11T03:07:17.318033-05:00.hyperlinks.json) |
-| [October 10 at 2:47 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-10T14:46:43.948139-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 357 accessibility trees with the Internet Archive.
+The archiving routine has saved 363 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-17T02:55:41.946226-05:00.accessibility.json) |
+| [October 16 at 2:00 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-16T13:59:51.513869-05:00.accessibility.json) |
+| [October 16 at 2:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-16T02:23:01.812281-05:00.accessibility.json) |
+| [October 15 at 2:24 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-15T14:24:13.167927-05:00.accessibility.json) |
+| [October 15 at 2:51 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-15T02:51:48.253481-05:00.accessibility.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-14T15:26:22.617490-05:00.accessibility.json) |
 | [October 14 at 11:29 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-14T11:28:52.743870-05:00.accessibility.json) |
 | [October 14 at 3:03 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-14T03:03:25.675757-05:00.accessibility.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-13T15:07:14.477710-05:00.accessibility.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-13T02:22:46.567952-05:00.accessibility.json) |
-| [October 12 at 2:18 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-12T14:18:22.237363-05:00.accessibility.json) |
-| [October 12 at 10:56 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-12T10:56:18.268304-05:00.accessibility.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-12T03:04:09.921963-05:00.accessibility.json) |
-| [October 11 at 2:11 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-11T14:11:27.598752-05:00.accessibility.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-11T03:07:17.318033-05:00.accessibility.json) |
-| [October 10 at 2:46 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-10T14:46:43.948139-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 199 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 205 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-17T02:55:41.946226-05:00.lighthouse.json) |
+| [October 16 at 2:00 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-16T13:59:51.513869-05:00.lighthouse.json) |
+| [October 16 at 2:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-16T02:23:01.812281-05:00.lighthouse.json) |
+| [October 15 at 2:24 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-15T14:24:13.167927-05:00.lighthouse.json) |
+| [October 15 at 2:51 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-15T02:51:48.253481-05:00.lighthouse.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-14T15:26:22.617490-05:00.lighthouse.json) |
 | [October 14 at 11:29 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-14T11:28:52.743870-05:00.lighthouse.json) |
 | [October 14 at 3:04 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-14T03:03:25.675757-05:00.lighthouse.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-13T15:07:14.477710-05:00.lighthouse.json) |
 | [October 13 at 2:23 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-13T02:22:46.567952-05:00.lighthouse.json) |
-| [October 12 at 2:18 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-12T14:18:22.237363-05:00.lighthouse.json) |
-| [October 12 at 10:56 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-12T10:56:18.268304-05:00.lighthouse.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-12T03:04:09.921963-05:00.lighthouse.json) |
-| [October 11 at 2:11 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-11T14:11:27.598752-05:00.lighthouse.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/qctimes-2022/qctimes-2022-10-11T03:07:17.318033-05:00.lighthouse.json) |
-| [October 10 at 2:47 PM](https://archive.org/download/qctimes-2022/qctimes-2022-10-10T14:46:43.948139-05:00.lighthouse.json) |
 
 
 

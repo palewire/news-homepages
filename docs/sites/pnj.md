@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pnj-2022/pnj-2022-10-17T02:55:00.777922-05:00.jpg">
+  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-17T02:55:00.777922-05:00.jpg"
+     alt="Pensacola News Journal at 2022-10-17 02:55:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-17T02:55:00.777922-05:00.jpg">October 17 at 2:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pnj-2022/pnj-2022-10-16T13:58:01.603883-05:00.jpg">
+  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-16T13:58:01.603883-05:00.jpg"
+     alt="Pensacola News Journal at 2022-10-16 13:58:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-16T13:58:01.603883-05:00.jpg">October 16 at 1:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pnj-2022/pnj-2022-10-16T02:21:43.584662-05:00.jpg">
+  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-16T02:21:43.584662-05:00.jpg"
+     alt="Pensacola News Journal at 2022-10-16 02:21:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-16T02:21:43.584662-05:00.jpg">October 16 at 2:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pnj-2022/pnj-2022-10-15T14:22:42.927389-05:00.jpg">
+  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-15T14:22:42.927389-05:00.jpg"
+     alt="Pensacola News Journal at 2022-10-15 14:22:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-15T14:22:42.927389-05:00.jpg">October 15 at 2:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pnj-2022/pnj-2022-10-15T02:51:56.444791-05:00.jpg">
+  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-15T02:51:56.444791-05:00.jpg"
+     alt="Pensacola News Journal at 2022-10-15 02:52:04-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-15T02:51:56.444791-05:00.jpg">October 15 at 2:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pnj-2022/pnj-2022-10-14T15:24:28.114408-05:00.jpg">
+  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-14T15:24:28.114408-05:00.jpg"
+     alt="Pensacola News Journal at 2022-10-14 15:24:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-14T15:24:28.114408-05:00.jpg">October 14 at 3:24 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pnj-2022/pnj-2022-10-14T03:01:03.588557-05:00.jpg">
   <img src="https://archive.org/download/pnj-2022/pnj-2022-10-14T03:01:03.588557-05:00.jpg"
      alt="Pensacola News Journal at 2022-10-14 03:01:05-05:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-11T14:12:54.630387-05:00.jpg">October 11 at 2:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pnj-2022/pnj-2022-10-11T03:07:19.582296-05:00.jpg">
-  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-11T03:07:19.582296-05:00.jpg"
-     alt="Pensacola News Journal at 2022-10-11 03:07:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-11T03:07:19.582296-05:00.jpg">October 11 at 3:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pnj-2022/pnj-2022-10-10T14:47:16.557196-05:00.jpg">
-  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-10T14:47:16.557196-05:00.jpg"
-     alt="Pensacola News Journal at 2022-10-10 14:47:17-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-10T14:47:16.557196-05:00.jpg">October 10 at 2:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pnj-2022/pnj-2022-10-10T03:34:06.039461-05:00.jpg">
-  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-10T03:34:06.039461-05:00.jpg"
-     alt="Pensacola News Journal at 2022-10-10 03:34:09-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-10T03:34:06.039461-05:00.jpg">October 10 at 3:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pnj-2022/pnj-2022-10-09T14:20:40.818313-05:00.jpg">
-  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-09T14:20:40.818313-05:00.jpg"
-     alt="Pensacola News Journal at 2022-10-09 14:20:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-09T14:20:40.818313-05:00.jpg">October 9 at 2:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pnj-2022/pnj-2022-10-09T02:26:18.068918-05:00.jpg">
-  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-09T02:26:18.068918-05:00.jpg"
-     alt="Pensacola News Journal at 2022-10-09 02:26:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-09T02:26:18.068918-05:00.jpg">October 9 at 2:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pnj-2022/pnj-2022-10-08T14:15:20.976414-05:00.jpg">
-  <img src="https://archive.org/download/pnj-2022/pnj-2022-10-08T14:15:20.976414-05:00.jpg"
-     alt="Pensacola News Journal at 2022-10-08 14:15:24-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pnj-2022/pnj-2022-10-08T14:15:20.976414-05:00.jpg">October 8 at 2:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/pnj-2022/pnj-2022-10-17T02:55:00.777922-05:00.hyperlinks.json) |
+| [October 16 at 1:58 PM](https://archive.org/download/pnj-2022/pnj-2022-10-16T13:58:01.603883-05:00.hyperlinks.json) |
+| [October 16 at 2:21 AM](https://archive.org/download/pnj-2022/pnj-2022-10-16T02:21:43.584662-05:00.hyperlinks.json) |
+| [October 15 at 2:22 PM](https://archive.org/download/pnj-2022/pnj-2022-10-15T14:22:42.927389-05:00.hyperlinks.json) |
+| [October 15 at 2:52 AM](https://archive.org/download/pnj-2022/pnj-2022-10-15T02:51:56.444791-05:00.hyperlinks.json) |
+| [October 14 at 3:24 PM](https://archive.org/download/pnj-2022/pnj-2022-10-14T15:24:28.114408-05:00.hyperlinks.json) |
 | [October 14 at 3:01 AM](https://archive.org/download/pnj-2022/pnj-2022-10-14T03:01:03.588557-05:00.hyperlinks.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/pnj-2022/pnj-2022-10-13T15:07:11.360983-05:00.hyperlinks.json) |
 | [October 13 at 2:21 AM](https://archive.org/download/pnj-2022/pnj-2022-10-13T02:21:01.035122-05:00.hyperlinks.json) |
 | [October 12 at 2:18 PM](https://archive.org/download/pnj-2022/pnj-2022-10-12T14:18:21.156694-05:00.hyperlinks.json) |
-| [October 12 at 3:02 AM](https://archive.org/download/pnj-2022/pnj-2022-10-12T03:02:05.803511-05:00.hyperlinks.json) |
-| [October 11 at 2:13 PM](https://archive.org/download/pnj-2022/pnj-2022-10-11T14:12:54.630387-05:00.hyperlinks.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/pnj-2022/pnj-2022-10-11T03:07:19.582296-05:00.hyperlinks.json) |
-| [October 10 at 2:47 PM](https://archive.org/download/pnj-2022/pnj-2022-10-10T14:47:16.557196-05:00.hyperlinks.json) |
-| [October 10 at 3:34 AM](https://archive.org/download/pnj-2022/pnj-2022-10-10T03:34:06.039461-05:00.hyperlinks.json) |
-| [October 9 at 2:20 PM](https://archive.org/download/pnj-2022/pnj-2022-10-09T14:20:40.818313-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/pnj-2022/pnj-2022-10-17T02:55:00.777922-05:00.accessibility.json) |
+| [October 16 at 1:58 PM](https://archive.org/download/pnj-2022/pnj-2022-10-16T13:58:01.603883-05:00.accessibility.json) |
+| [October 16 at 2:21 AM](https://archive.org/download/pnj-2022/pnj-2022-10-16T02:21:43.584662-05:00.accessibility.json) |
+| [October 15 at 2:22 PM](https://archive.org/download/pnj-2022/pnj-2022-10-15T14:22:42.927389-05:00.accessibility.json) |
+| [October 15 at 2:52 AM](https://archive.org/download/pnj-2022/pnj-2022-10-15T02:51:56.444791-05:00.accessibility.json) |
+| [October 14 at 3:24 PM](https://archive.org/download/pnj-2022/pnj-2022-10-14T15:24:28.114408-05:00.accessibility.json) |
 | [October 14 at 3:01 AM](https://archive.org/download/pnj-2022/pnj-2022-10-14T03:01:03.588557-05:00.accessibility.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/pnj-2022/pnj-2022-10-13T15:07:11.360983-05:00.accessibility.json) |
 | [October 13 at 2:21 AM](https://archive.org/download/pnj-2022/pnj-2022-10-13T02:21:01.035122-05:00.accessibility.json) |
 | [October 12 at 2:18 PM](https://archive.org/download/pnj-2022/pnj-2022-10-12T14:18:21.156694-05:00.accessibility.json) |
-| [October 12 at 3:02 AM](https://archive.org/download/pnj-2022/pnj-2022-10-12T03:02:05.803511-05:00.accessibility.json) |
-| [October 11 at 2:13 PM](https://archive.org/download/pnj-2022/pnj-2022-10-11T14:12:54.630387-05:00.accessibility.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/pnj-2022/pnj-2022-10-11T03:07:19.582296-05:00.accessibility.json) |
-| [October 10 at 2:47 PM](https://archive.org/download/pnj-2022/pnj-2022-10-10T14:47:16.557196-05:00.accessibility.json) |
-| [October 10 at 3:34 AM](https://archive.org/download/pnj-2022/pnj-2022-10-10T03:34:06.039461-05:00.accessibility.json) |
-| [October 9 at 2:20 PM](https://archive.org/download/pnj-2022/pnj-2022-10-09T14:20:40.818313-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/pnj-2022/pnj-2022-10-17T02:55:00.777922-05:00.lighthouse.json) |
+| [October 16 at 1:58 PM](https://archive.org/download/pnj-2022/pnj-2022-10-16T13:58:01.603883-05:00.lighthouse.json) |
+| [October 16 at 2:21 AM](https://archive.org/download/pnj-2022/pnj-2022-10-16T02:21:43.584662-05:00.lighthouse.json) |
+| [October 15 at 2:22 PM](https://archive.org/download/pnj-2022/pnj-2022-10-15T14:22:42.927389-05:00.lighthouse.json) |
+| [October 15 at 2:52 AM](https://archive.org/download/pnj-2022/pnj-2022-10-15T02:51:56.444791-05:00.lighthouse.json) |
+| [October 14 at 3:24 PM](https://archive.org/download/pnj-2022/pnj-2022-10-14T15:24:28.114408-05:00.lighthouse.json) |
 | [October 14 at 3:01 AM](https://archive.org/download/pnj-2022/pnj-2022-10-14T03:01:03.588557-05:00.lighthouse.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/pnj-2022/pnj-2022-10-13T15:07:11.360983-05:00.lighthouse.json) |
 | [October 13 at 2:21 AM](https://archive.org/download/pnj-2022/pnj-2022-10-13T02:21:01.035122-05:00.lighthouse.json) |
 | [October 12 at 2:18 PM](https://archive.org/download/pnj-2022/pnj-2022-10-12T14:18:21.156694-05:00.lighthouse.json) |
-| [October 12 at 3:02 AM](https://archive.org/download/pnj-2022/pnj-2022-10-12T03:02:05.803511-05:00.lighthouse.json) |
-| [October 11 at 2:13 PM](https://archive.org/download/pnj-2022/pnj-2022-10-11T14:12:54.630387-05:00.lighthouse.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/pnj-2022/pnj-2022-10-11T03:07:19.582296-05:00.lighthouse.json) |
-| [October 10 at 2:47 PM](https://archive.org/download/pnj-2022/pnj-2022-10-10T14:47:16.557196-05:00.lighthouse.json) |
-| [October 10 at 3:34 AM](https://archive.org/download/pnj-2022/pnj-2022-10-10T03:34:06.039461-05:00.lighthouse.json) |
-| [October 9 at 2:20 PM](https://archive.org/download/pnj-2022/pnj-2022-10-09T14:20:40.818313-05:00.lighthouse.json) |
 
 
 

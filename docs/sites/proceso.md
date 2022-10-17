@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 119 screenshots with the Internet Archive.
+The archiving routine has saved 125 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-10-17T02:55:58.441177-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-17T02:55:58.441177-05:00.jpg"
+     alt="Proceso at 2022-10-17 02:56:02-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-17T02:55:58.441177-05:00.jpg">October 17 at 2:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-10-16T13:59:31.134943-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-16T13:59:31.134943-05:00.jpg"
+     alt="Proceso at 2022-10-16 13:59:35-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-16T13:59:31.134943-05:00.jpg">October 16 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-10-16T02:21:54.738550-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-16T02:21:54.738550-05:00.jpg"
+     alt="Proceso at 2022-10-16 02:21:59-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-16T02:21:54.738550-05:00.jpg">October 16 at 2:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-10-15T14:23:26.521865-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-15T14:23:26.521865-05:00.jpg"
+     alt="Proceso at 2022-10-15 14:23:36-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-15T14:23:26.521865-05:00.jpg">October 15 at 2:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-10-15T02:51:28.458752-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-15T02:51:28.458752-05:00.jpg"
+     alt="Proceso at 2022-10-15 02:51:37-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-15T02:51:28.458752-05:00.jpg">October 15 at 2:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/proceso-2022/proceso-2022-10-14T15:26:28.940143-05:00.jpg">
+  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-14T15:26:28.940143-05:00.jpg"
+     alt="Proceso at 2022-10-14 15:26:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-14T15:26:28.940143-05:00.jpg">October 14 at 3:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/proceso-2022/proceso-2022-10-14T03:01:57.227439-05:00.jpg">
   <img src="https://archive.org/download/proceso-2022/proceso-2022-10-14T03:01:57.227439-05:00.jpg"
      alt="Proceso at 2022-10-14 03:02:05-05:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-11T14:12:10.791334-05:00.jpg">October 11 at 2:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-10-11T03:06:25.981143-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-11T03:06:25.981143-05:00.jpg"
-     alt="Proceso at 2022-10-11 03:06:29-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-11T03:06:25.981143-05:00.jpg">October 11 at 3:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-10-10T14:47:14.494694-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-10T14:47:14.494694-05:00.jpg"
-     alt="Proceso at 2022-10-10 14:47:19-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-10T14:47:14.494694-05:00.jpg">October 10 at 2:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-10-10T03:34:15.946431-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-10T03:34:15.946431-05:00.jpg"
-     alt="Proceso at 2022-10-10 03:34:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-10T03:34:15.946431-05:00.jpg">October 10 at 3:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-10-09T14:20:32.567208-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-09T14:20:32.567208-05:00.jpg"
-     alt="Proceso at 2022-10-09 14:20:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-09T14:20:32.567208-05:00.jpg">October 9 at 2:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-10-09T02:26:42.848069-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-09T02:26:42.848069-05:00.jpg"
-     alt="Proceso at 2022-10-09 02:26:48-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-09T02:26:42.848069-05:00.jpg">October 9 at 2:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/proceso-2022/proceso-2022-10-08T14:17:25.058816-05:00.jpg">
-  <img src="https://archive.org/download/proceso-2022/proceso-2022-10-08T14:17:25.058816-05:00.jpg"
-     alt="Proceso at 2022-10-08 14:17:30-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/proceso-2022/proceso-2022-10-08T14:17:25.058816-05:00.jpg">October 8 at 2:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 118 hyperlink lists with the Internet Archive.
+The archiving routine has saved 124 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:56 AM](https://archive.org/download/proceso-2022/proceso-2022-10-17T02:55:58.441177-05:00.hyperlinks.json) |
+| [October 16 at 1:59 PM](https://archive.org/download/proceso-2022/proceso-2022-10-16T13:59:31.134943-05:00.hyperlinks.json) |
+| [October 16 at 2:22 AM](https://archive.org/download/proceso-2022/proceso-2022-10-16T02:21:54.738550-05:00.hyperlinks.json) |
+| [October 15 at 2:23 PM](https://archive.org/download/proceso-2022/proceso-2022-10-15T14:23:26.521865-05:00.hyperlinks.json) |
+| [October 15 at 2:51 AM](https://archive.org/download/proceso-2022/proceso-2022-10-15T02:51:28.458752-05:00.hyperlinks.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/proceso-2022/proceso-2022-10-14T15:26:28.940143-05:00.hyperlinks.json) |
 | [October 14 at 3:02 AM](https://archive.org/download/proceso-2022/proceso-2022-10-14T03:01:57.227439-05:00.hyperlinks.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/proceso-2022/proceso-2022-10-13T15:07:08.966242-05:00.hyperlinks.json) |
 | [October 13 at 2:20 AM](https://archive.org/download/proceso-2022/proceso-2022-10-13T02:20:39.424993-05:00.hyperlinks.json) |
 | [October 12 at 2:19 PM](https://archive.org/download/proceso-2022/proceso-2022-10-12T14:19:45.689623-05:00.hyperlinks.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/proceso-2022/proceso-2022-10-12T03:04:02.624351-05:00.hyperlinks.json) |
-| [October 11 at 2:12 PM](https://archive.org/download/proceso-2022/proceso-2022-10-11T14:12:10.791334-05:00.hyperlinks.json) |
-| [October 11 at 3:06 AM](https://archive.org/download/proceso-2022/proceso-2022-10-11T03:06:25.981143-05:00.hyperlinks.json) |
-| [October 10 at 2:47 PM](https://archive.org/download/proceso-2022/proceso-2022-10-10T14:47:14.494694-05:00.hyperlinks.json) |
-| [October 10 at 3:34 AM](https://archive.org/download/proceso-2022/proceso-2022-10-10T03:34:15.946431-05:00.hyperlinks.json) |
-| [October 9 at 2:20 PM](https://archive.org/download/proceso-2022/proceso-2022-10-09T14:20:32.567208-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 119 accessibility trees with the Internet Archive.
+The archiving routine has saved 125 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:56 AM](https://archive.org/download/proceso-2022/proceso-2022-10-17T02:55:58.441177-05:00.accessibility.json) |
+| [October 16 at 1:59 PM](https://archive.org/download/proceso-2022/proceso-2022-10-16T13:59:31.134943-05:00.accessibility.json) |
+| [October 16 at 2:22 AM](https://archive.org/download/proceso-2022/proceso-2022-10-16T02:21:54.738550-05:00.accessibility.json) |
+| [October 15 at 2:23 PM](https://archive.org/download/proceso-2022/proceso-2022-10-15T14:23:26.521865-05:00.accessibility.json) |
+| [October 15 at 2:51 AM](https://archive.org/download/proceso-2022/proceso-2022-10-15T02:51:28.458752-05:00.accessibility.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/proceso-2022/proceso-2022-10-14T15:26:28.940143-05:00.accessibility.json) |
 | [October 14 at 3:02 AM](https://archive.org/download/proceso-2022/proceso-2022-10-14T03:01:57.227439-05:00.accessibility.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/proceso-2022/proceso-2022-10-13T15:07:08.966242-05:00.accessibility.json) |
 | [October 13 at 2:20 AM](https://archive.org/download/proceso-2022/proceso-2022-10-13T02:20:39.424993-05:00.accessibility.json) |
 | [October 12 at 2:19 PM](https://archive.org/download/proceso-2022/proceso-2022-10-12T14:19:45.689623-05:00.accessibility.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/proceso-2022/proceso-2022-10-12T03:04:02.624351-05:00.accessibility.json) |
-| [October 11 at 2:12 PM](https://archive.org/download/proceso-2022/proceso-2022-10-11T14:12:10.791334-05:00.accessibility.json) |
-| [October 11 at 3:06 AM](https://archive.org/download/proceso-2022/proceso-2022-10-11T03:06:25.981143-05:00.accessibility.json) |
-| [October 10 at 2:47 PM](https://archive.org/download/proceso-2022/proceso-2022-10-10T14:47:14.494694-05:00.accessibility.json) |
-| [October 10 at 3:34 AM](https://archive.org/download/proceso-2022/proceso-2022-10-10T03:34:15.946431-05:00.accessibility.json) |
-| [October 9 at 2:20 PM](https://archive.org/download/proceso-2022/proceso-2022-10-09T14:20:32.567208-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 119 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 125 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:56 AM](https://archive.org/download/proceso-2022/proceso-2022-10-17T02:55:58.441177-05:00.lighthouse.json) |
+| [October 16 at 1:59 PM](https://archive.org/download/proceso-2022/proceso-2022-10-16T13:59:31.134943-05:00.lighthouse.json) |
+| [October 16 at 2:22 AM](https://archive.org/download/proceso-2022/proceso-2022-10-16T02:21:54.738550-05:00.lighthouse.json) |
+| [October 15 at 2:23 PM](https://archive.org/download/proceso-2022/proceso-2022-10-15T14:23:26.521865-05:00.lighthouse.json) |
+| [October 15 at 2:51 AM](https://archive.org/download/proceso-2022/proceso-2022-10-15T02:51:28.458752-05:00.lighthouse.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/proceso-2022/proceso-2022-10-14T15:26:28.940143-05:00.lighthouse.json) |
 | [October 14 at 3:02 AM](https://archive.org/download/proceso-2022/proceso-2022-10-14T03:01:57.227439-05:00.lighthouse.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/proceso-2022/proceso-2022-10-13T15:07:08.966242-05:00.lighthouse.json) |
 | [October 13 at 2:20 AM](https://archive.org/download/proceso-2022/proceso-2022-10-13T02:20:39.424993-05:00.lighthouse.json) |
 | [October 12 at 2:19 PM](https://archive.org/download/proceso-2022/proceso-2022-10-12T14:19:45.689623-05:00.lighthouse.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/proceso-2022/proceso-2022-10-12T03:04:02.624351-05:00.lighthouse.json) |
-| [October 11 at 2:12 PM](https://archive.org/download/proceso-2022/proceso-2022-10-11T14:12:10.791334-05:00.lighthouse.json) |
-| [October 11 at 3:06 AM](https://archive.org/download/proceso-2022/proceso-2022-10-11T03:06:25.981143-05:00.lighthouse.json) |
-| [October 10 at 2:47 PM](https://archive.org/download/proceso-2022/proceso-2022-10-10T14:47:14.494694-05:00.lighthouse.json) |
-| [October 10 at 3:34 AM](https://archive.org/download/proceso-2022/proceso-2022-10-10T03:34:15.946431-05:00.lighthouse.json) |
-| [October 9 at 2:20 PM](https://archive.org/download/proceso-2022/proceso-2022-10-09T14:20:32.567208-05:00.lighthouse.json) |
 
 
 

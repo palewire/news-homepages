@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 176 screenshots with the Internet Archive.
+The archiving routine has saved 182 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-17T02:55:34.989205-05:00.jpg">
+  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-17T02:55:34.989205-05:00.jpg"
+     alt="Fox South Texas at 2022-10-17 02:55:40-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-17T02:55:34.989205-05:00.jpg">October 17 at 2:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T14:01:52.612996-05:00.jpg">
+  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T14:01:52.612996-05:00.jpg"
+     alt="Fox South Texas at 2022-10-16 14:01:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T14:01:52.612996-05:00.jpg">October 16 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T02:23:06.887707-05:00.jpg">
+  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T02:23:06.887707-05:00.jpg"
+     alt="Fox South Texas at 2022-10-16 02:23:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T02:23:06.887707-05:00.jpg">October 16 at 2:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T14:25:03.604833-05:00.jpg">
+  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T14:25:03.604833-05:00.jpg"
+     alt="Fox South Texas at 2022-10-15 14:25:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T14:25:03.604833-05:00.jpg">October 15 at 2:25 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T02:53:49.567431-05:00.jpg">
+  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T02:53:49.567431-05:00.jpg"
+     alt="Fox South Texas at 2022-10-15 02:53:54-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T02:53:49.567431-05:00.jpg">October 15 at 2:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T15:26:27.000369-05:00.jpg">
+  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T15:26:27.000369-05:00.jpg"
+     alt="Fox South Texas at 2022-10-14 15:26:28-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T15:26:27.000369-05:00.jpg">October 14 at 3:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T03:04:17.330095-05:00.jpg">
   <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T03:04:17.330095-05:00.jpg"
      alt="Fox South Texas at 2022-10-14 03:04:18-05:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T14:14:35.521462-05:00.jpg">October 11 at 2:14 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T03:08:39.394212-05:00.jpg">
-  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T03:08:39.394212-05:00.jpg"
-     alt="Fox South Texas at 2022-10-11 03:08:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T03:08:39.394212-05:00.jpg">October 11 at 3:08 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T14:49:07.520601-05:00.jpg">
-  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T14:49:07.520601-05:00.jpg"
-     alt="Fox South Texas at 2022-10-10 14:49:15-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T14:49:07.520601-05:00.jpg">October 10 at 2:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T03:37:42.858666-05:00.jpg">
-  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T03:37:42.858666-05:00.jpg"
-     alt="Fox South Texas at 2022-10-10 03:37:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T03:37:42.858666-05:00.jpg">October 10 at 3:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-09T14:22:27.256715-05:00.jpg">
-  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-09T14:22:27.256715-05:00.jpg"
-     alt="Fox South Texas at 2022-10-09 14:22:33-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-09T14:22:27.256715-05:00.jpg">October 9 at 2:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-09T02:28:29.128206-05:00.jpg">
-  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-09T02:28:29.128206-05:00.jpg"
-     alt="Fox South Texas at 2022-10-09 02:28:36-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-09T02:28:29.128206-05:00.jpg">October 9 at 2:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-08T14:17:05.164699-05:00.jpg">
-  <img src="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-08T14:17:05.164699-05:00.jpg"
-     alt="Fox South Texas at 2022-10-08 14:17:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rgvfox-2022/rgvfox-2022-10-08T14:17:05.164699-05:00.jpg">October 8 at 2:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 176 hyperlink lists with the Internet Archive.
+The archiving routine has saved 182 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-17T02:55:34.989205-05:00.hyperlinks.json) |
+| [October 16 at 2:01 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T14:01:52.612996-05:00.hyperlinks.json) |
+| [October 16 at 2:23 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T02:23:06.887707-05:00.hyperlinks.json) |
+| [October 15 at 2:25 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T14:25:03.604833-05:00.hyperlinks.json) |
+| [October 15 at 2:53 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T02:53:49.567431-05:00.hyperlinks.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T15:26:27.000369-05:00.hyperlinks.json) |
 | [October 14 at 3:04 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T03:04:17.330095-05:00.hyperlinks.json) |
 | [October 13 at 3:09 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-13T15:09:40.096384-05:00.hyperlinks.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-13T02:22:27.008168-05:00.hyperlinks.json) |
 | [October 12 at 2:20 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-12T14:20:06.398715-05:00.hyperlinks.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-12T03:04:26.463800-05:00.hyperlinks.json) |
-| [October 11 at 2:14 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T14:14:35.521462-05:00.hyperlinks.json) |
-| [October 11 at 3:08 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T03:08:39.394212-05:00.hyperlinks.json) |
-| [October 10 at 2:49 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T14:49:07.520601-05:00.hyperlinks.json) |
-| [October 10 at 3:37 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T03:37:42.858666-05:00.hyperlinks.json) |
-| [October 9 at 2:22 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-09T14:22:27.256715-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 177 accessibility trees with the Internet Archive.
+The archiving routine has saved 183 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-17T02:55:34.989205-05:00.accessibility.json) |
+| [October 16 at 2:01 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T14:01:52.612996-05:00.accessibility.json) |
+| [October 16 at 2:23 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T02:23:06.887707-05:00.accessibility.json) |
+| [October 15 at 2:25 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T14:25:03.604833-05:00.accessibility.json) |
+| [October 15 at 2:53 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T02:53:49.567431-05:00.accessibility.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T15:26:27.000369-05:00.accessibility.json) |
 | [October 14 at 3:04 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T03:04:17.330095-05:00.accessibility.json) |
 | [October 13 at 3:09 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-13T15:09:40.096384-05:00.accessibility.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-13T02:22:27.008168-05:00.accessibility.json) |
 | [October 12 at 2:20 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-12T14:20:06.398715-05:00.accessibility.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-12T03:04:26.463800-05:00.accessibility.json) |
-| [October 11 at 2:14 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T14:14:35.521462-05:00.accessibility.json) |
-| [October 11 at 3:08 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T03:08:39.394212-05:00.accessibility.json) |
-| [October 10 at 2:49 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T14:49:07.520601-05:00.accessibility.json) |
-| [October 10 at 3:37 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T03:37:42.858666-05:00.accessibility.json) |
-| [October 9 at 2:22 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-09T14:22:27.256715-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-17T02:55:34.989205-05:00.lighthouse.json) |
+| [October 16 at 2:01 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T14:01:52.612996-05:00.lighthouse.json) |
+| [October 16 at 2:23 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-16T02:23:06.887707-05:00.lighthouse.json) |
+| [October 15 at 2:25 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T14:25:03.604833-05:00.lighthouse.json) |
+| [October 15 at 2:53 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-15T02:53:49.567431-05:00.lighthouse.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T15:26:27.000369-05:00.lighthouse.json) |
 | [October 14 at 3:04 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-14T03:04:17.330095-05:00.lighthouse.json) |
 | [October 13 at 3:09 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-13T15:09:40.096384-05:00.lighthouse.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-13T02:22:27.008168-05:00.lighthouse.json) |
 | [October 12 at 2:20 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-12T14:20:06.398715-05:00.lighthouse.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-12T03:04:26.463800-05:00.lighthouse.json) |
-| [October 11 at 2:14 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T14:14:35.521462-05:00.lighthouse.json) |
-| [October 11 at 3:08 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-11T03:08:39.394212-05:00.lighthouse.json) |
-| [October 10 at 2:49 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T14:49:07.520601-05:00.lighthouse.json) |
-| [October 10 at 3:37 AM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-10T03:37:42.858666-05:00.lighthouse.json) |
-| [October 9 at 2:22 PM](https://archive.org/download/rgvfox-2022/rgvfox-2022-10-09T14:22:27.256715-05:00.lighthouse.json) |
 
 
 

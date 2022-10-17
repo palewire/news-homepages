@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 139 screenshots with the Internet Archive.
+The archiving routine has saved 145 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T20:55:42.576809+13:00.jpg">
+  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T20:55:42.576809+13:00.jpg"
+     alt="RNZ at 2022-10-17 20:55:44+13:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T20:55:42.576809+13:00.jpg">October 17 at 8:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T08:00:24.184447+13:00.jpg">
+  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T08:00:24.184447+13:00.jpg"
+     alt="RNZ at 2022-10-17 08:00:25+13:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T08:00:24.184447+13:00.jpg">October 17 at 8:00 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T20:24:26.178886+13:00.jpg">
+  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T20:24:26.178886+13:00.jpg"
+     alt="RNZ at 2022-10-16 20:24:30+13:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T20:24:26.178886+13:00.jpg">October 16 at 8:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T08:24:14.394742+13:00.jpg">
+  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T08:24:14.394742+13:00.jpg"
+     alt="RNZ at 2022-10-16 08:24:16+13:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T08:24:14.394742+13:00.jpg">October 16 at 8:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T20:53:33.283699+13:00.jpg">
+  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T20:53:33.283699+13:00.jpg"
+     alt="RNZ at 2022-10-15 20:53:51+13:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T20:53:33.283699+13:00.jpg">October 15 at 8:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T09:26:30.319056+13:00.jpg">
+  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T09:26:30.319056+13:00.jpg"
+     alt="RNZ at 2022-10-15 09:26:59+13:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T09:26:30.319056+13:00.jpg">October 15 at 9:26 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-14T21:04:05.416271+13:00.jpg">
   <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-14T21:04:05.416271+13:00.jpg"
      alt="RNZ at 2022-10-14 21:04:07+13:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-12T08:13:41.663408+13:00.jpg">October 12 at 8:14 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T21:08:39.273351+13:00.jpg">
-  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T21:08:39.273351+13:00.jpg"
-     alt="RNZ at 2022-10-11 21:08:44+13:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T21:08:39.273351+13:00.jpg">October 11 at 9:08 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T08:49:18.217196+13:00.jpg">
-  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T08:49:18.217196+13:00.jpg"
-     alt="RNZ at 2022-10-11 08:49:20+13:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T08:49:18.217196+13:00.jpg">October 11 at 8:49 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T21:37:23.741262+13:00.jpg">
-  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T21:37:23.741262+13:00.jpg"
-     alt="RNZ at 2022-10-10 21:37:36+13:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T21:37:23.741262+13:00.jpg">October 10 at 9:37 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T08:22:46.924859+13:00.jpg">
-  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T08:22:46.924859+13:00.jpg"
-     alt="RNZ at 2022-10-10 08:22:51+13:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T08:22:46.924859+13:00.jpg">October 10 at 8:22 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-09T20:27:41.216523+13:00.jpg">
-  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-09T20:27:41.216523+13:00.jpg"
-     alt="RNZ at 2022-10-09 20:27:46+13:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-09T20:27:41.216523+13:00.jpg">October 9 at 8:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-09T08:17:03.827197+13:00.jpg">
-  <img src="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-09T08:17:03.827197+13:00.jpg"
-     alt="RNZ at 2022-10-09 08:17:05+13:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/rnz_news-2022/rnz_news-2022-10-09T08:17:03.827197+13:00.jpg">October 9 at 8:17 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 140 hyperlink lists with the Internet Archive.
+The archiving routine has saved 146 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 8:55 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T20:55:42.576809+13:00.hyperlinks.json) |
+| [October 17 at 8:00 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T08:00:24.184447+13:00.hyperlinks.json) |
+| [October 16 at 8:24 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T20:24:26.178886+13:00.hyperlinks.json) |
+| [October 16 at 8:24 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T08:24:14.394742+13:00.hyperlinks.json) |
+| [October 15 at 8:53 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T20:53:33.283699+13:00.hyperlinks.json) |
+| [October 15 at 9:27 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T09:26:30.319056+13:00.hyperlinks.json) |
 | [October 14 at 9:04 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-14T21:04:05.416271+13:00.hyperlinks.json) |
 | [October 14 at 9:09 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-14T09:09:47.022068+13:00.hyperlinks.json) |
 | [October 13 at 8:22 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-13T20:22:04.875148+13:00.hyperlinks.json) |
 | [October 13 at 8:19 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-13T08:19:18.500341+13:00.hyperlinks.json) |
-| [October 12 at 9:06 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-12T21:06:50.768041+13:00.hyperlinks.json) |
-| [October 12 at 8:14 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-12T08:13:41.663408+13:00.hyperlinks.json) |
-| [October 11 at 9:08 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T21:08:39.273351+13:00.hyperlinks.json) |
-| [October 11 at 8:49 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T08:49:18.217196+13:00.hyperlinks.json) |
-| [October 10 at 9:37 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T21:37:23.741262+13:00.hyperlinks.json) |
-| [October 10 at 8:22 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T08:22:46.924859+13:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 140 accessibility trees with the Internet Archive.
+The archiving routine has saved 146 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 8:55 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T20:55:42.576809+13:00.accessibility.json) |
+| [October 17 at 8:00 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T08:00:24.184447+13:00.accessibility.json) |
+| [October 16 at 8:24 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T20:24:26.178886+13:00.accessibility.json) |
+| [October 16 at 8:24 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T08:24:14.394742+13:00.accessibility.json) |
+| [October 15 at 8:53 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T20:53:33.283699+13:00.accessibility.json) |
+| [October 15 at 9:27 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T09:26:30.319056+13:00.accessibility.json) |
 | [October 14 at 9:04 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-14T21:04:05.416271+13:00.accessibility.json) |
 | [October 14 at 9:09 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-14T09:09:47.022068+13:00.accessibility.json) |
 | [October 13 at 8:22 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-13T20:22:04.875148+13:00.accessibility.json) |
 | [October 13 at 8:19 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-13T08:19:18.500341+13:00.accessibility.json) |
-| [October 12 at 9:06 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-12T21:06:50.768041+13:00.accessibility.json) |
-| [October 12 at 8:14 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-12T08:13:41.663408+13:00.accessibility.json) |
-| [October 11 at 9:08 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T21:08:39.273351+13:00.accessibility.json) |
-| [October 11 at 8:49 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T08:49:18.217196+13:00.accessibility.json) |
-| [October 10 at 9:37 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T21:37:23.741262+13:00.accessibility.json) |
-| [October 10 at 8:22 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T08:22:46.924859+13:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 140 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 146 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 8:55 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T20:55:42.576809+13:00.lighthouse.json) |
+| [October 17 at 8:00 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-17T08:00:24.184447+13:00.lighthouse.json) |
+| [October 16 at 8:24 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T20:24:26.178886+13:00.lighthouse.json) |
+| [October 16 at 8:24 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-16T08:24:14.394742+13:00.lighthouse.json) |
+| [October 15 at 8:53 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T20:53:33.283699+13:00.lighthouse.json) |
+| [October 15 at 9:27 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-15T09:26:30.319056+13:00.lighthouse.json) |
 | [October 14 at 9:04 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-14T21:04:05.416271+13:00.lighthouse.json) |
 | [October 14 at 9:10 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-14T09:09:47.022068+13:00.lighthouse.json) |
 | [October 13 at 8:22 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-13T20:22:04.875148+13:00.lighthouse.json) |
 | [October 13 at 8:19 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-13T08:19:18.500341+13:00.lighthouse.json) |
-| [October 12 at 9:06 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-12T21:06:50.768041+13:00.lighthouse.json) |
-| [October 12 at 8:14 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-12T08:13:41.663408+13:00.lighthouse.json) |
-| [October 11 at 9:08 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T21:08:39.273351+13:00.lighthouse.json) |
-| [October 11 at 8:49 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-11T08:49:18.217196+13:00.lighthouse.json) |
-| [October 10 at 9:37 PM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T21:37:23.741262+13:00.lighthouse.json) |
-| [October 10 at 8:22 AM](https://archive.org/download/rnz_news-2022/rnz_news-2022-10-10T08:22:46.924859+13:00.lighthouse.json) |
 
 
 

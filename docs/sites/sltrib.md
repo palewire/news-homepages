@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 192 screenshots with the Internet Archive.
+The archiving routine has saved 198 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-17T01:59:31.353383-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-17T01:59:31.353383-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-10-17 01:59:39-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-17T01:59:31.353383-06:00.jpg">October 17 at 1:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-16T13:02:56.424975-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-16T13:02:56.424975-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-10-16 13:03:05-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-16T13:02:56.424975-06:00.jpg">October 16 at 1:03 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-16T01:24:39.006062-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-16T01:24:39.006062-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-10-16 01:24:45-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-16T01:24:39.006062-06:00.jpg">October 16 at 1:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-15T13:26:06.271553-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-15T13:26:06.271553-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-10-15 13:26:28-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-15T13:26:06.271553-06:00.jpg">October 15 at 1:26 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-15T01:53:30.479581-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-15T01:53:30.479581-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-10-15 01:53:49-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-15T01:53:30.479581-06:00.jpg">October 15 at 1:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-14T14:30:10.345595-06:00.jpg">
+  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-14T14:30:10.345595-06:00.jpg"
+     alt="Salt Lake Tribune at 2022-10-14 14:30:15-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-14T14:30:10.345595-06:00.jpg">October 14 at 2:30 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-14T02:05:54.950409-06:00.jpg">
   <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-14T02:05:54.950409-06:00.jpg"
      alt="Salt Lake Tribune at 2022-10-14 02:05:56-06:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-11T13:15:39.455872-06:00.jpg">October 11 at 1:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-11T02:09:14.978147-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-11T02:09:14.978147-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-10-11 02:09:23-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-11T02:09:14.978147-06:00.jpg">October 11 at 2:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-10T13:49:23.133253-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-10T13:49:23.133253-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-10-10 13:49:28-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-10T13:49:23.133253-06:00.jpg">October 10 at 1:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-10T02:40:15.993374-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-10T02:40:15.993374-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-10-10 02:40:37-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-10T02:40:15.993374-06:00.jpg">October 10 at 2:40 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-09T13:25:23.121732-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-09T13:25:23.121732-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-10-09 13:25:30-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-09T13:25:23.121732-06:00.jpg">October 9 at 1:25 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-09T01:29:05.210302-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-09T01:29:05.210302-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-10-09 01:29:06-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-09T01:29:05.210302-06:00.jpg">October 9 at 1:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-08T13:19:46.608385-06:00.jpg">
-  <img src="https://archive.org/download/sltrib-2022/sltrib-2022-10-08T13:19:46.608385-06:00.jpg"
-     alt="Salt Lake Tribune at 2022-10-08 13:19:50-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sltrib-2022/sltrib-2022-10-08T13:19:46.608385-06:00.jpg">October 8 at 1:19 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 184 hyperlink lists with the Internet Archive.
+The archiving routine has saved 190 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 1:59 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-17T01:59:31.353383-06:00.hyperlinks.json) |
+| [October 16 at 1:03 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-16T13:02:56.424975-06:00.hyperlinks.json) |
+| [October 16 at 1:24 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-16T01:24:39.006062-06:00.hyperlinks.json) |
+| [October 15 at 1:26 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-15T13:26:06.271553-06:00.hyperlinks.json) |
+| [October 15 at 1:53 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-15T01:53:30.479581-06:00.hyperlinks.json) |
+| [October 14 at 2:30 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-14T14:30:10.345595-06:00.hyperlinks.json) |
 | [October 14 at 2:05 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-14T02:05:54.950409-06:00.hyperlinks.json) |
 | [October 13 at 2:13 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-13T14:13:00.136684-06:00.hyperlinks.json) |
 | [October 13 at 1:25 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-13T01:24:53.782275-06:00.hyperlinks.json) |
 | [October 12 at 1:20 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-12T13:20:26.682999-06:00.hyperlinks.json) |
-| [October 12 at 2:06 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-12T02:06:39.460517-06:00.hyperlinks.json) |
-| [October 11 at 1:15 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-11T13:15:39.455872-06:00.hyperlinks.json) |
-| [October 11 at 2:09 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-11T02:09:14.978147-06:00.hyperlinks.json) |
-| [October 10 at 1:49 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-10T13:49:23.133253-06:00.hyperlinks.json) |
-| [October 10 at 2:40 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-10T02:40:15.993374-06:00.hyperlinks.json) |
-| [October 9 at 1:25 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-09T13:25:23.121732-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 191 accessibility trees with the Internet Archive.
+The archiving routine has saved 197 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 1:59 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-17T01:59:31.353383-06:00.accessibility.json) |
+| [October 16 at 1:03 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-16T13:02:56.424975-06:00.accessibility.json) |
+| [October 16 at 1:24 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-16T01:24:39.006062-06:00.accessibility.json) |
+| [October 15 at 1:26 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-15T13:26:06.271553-06:00.accessibility.json) |
+| [October 15 at 1:53 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-15T01:53:30.479581-06:00.accessibility.json) |
+| [October 14 at 2:30 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-14T14:30:10.345595-06:00.accessibility.json) |
 | [October 14 at 2:05 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-14T02:05:54.950409-06:00.accessibility.json) |
 | [October 13 at 2:13 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-13T14:13:00.136684-06:00.accessibility.json) |
 | [October 13 at 1:24 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-13T01:24:53.782275-06:00.accessibility.json) |
 | [October 12 at 1:20 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-12T13:20:26.682999-06:00.accessibility.json) |
-| [October 12 at 2:06 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-12T02:06:39.460517-06:00.accessibility.json) |
-| [October 11 at 1:15 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-11T13:15:39.455872-06:00.accessibility.json) |
-| [October 11 at 2:09 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-11T02:09:14.978147-06:00.accessibility.json) |
-| [October 10 at 1:49 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-10T13:49:23.133253-06:00.accessibility.json) |
-| [October 10 at 2:40 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-10T02:40:15.993374-06:00.accessibility.json) |
-| [October 9 at 1:25 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-09T13:25:23.121732-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 1:59 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-17T01:59:31.353383-06:00.lighthouse.json) |
+| [October 16 at 1:03 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-16T13:02:56.424975-06:00.lighthouse.json) |
+| [October 16 at 1:24 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-16T01:24:39.006062-06:00.lighthouse.json) |
+| [October 15 at 1:26 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-15T13:26:06.271553-06:00.lighthouse.json) |
+| [October 15 at 1:53 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-15T01:53:30.479581-06:00.lighthouse.json) |
+| [October 14 at 2:30 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-14T14:30:10.345595-06:00.lighthouse.json) |
 | [October 14 at 2:06 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-14T02:05:54.950409-06:00.lighthouse.json) |
 | [October 13 at 2:13 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-13T14:13:00.136684-06:00.lighthouse.json) |
 | [October 13 at 1:25 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-13T01:24:53.782275-06:00.lighthouse.json) |
 | [October 12 at 1:20 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-12T13:20:26.682999-06:00.lighthouse.json) |
-| [October 12 at 2:06 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-12T02:06:39.460517-06:00.lighthouse.json) |
-| [October 11 at 1:16 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-11T13:15:39.455872-06:00.lighthouse.json) |
-| [October 11 at 2:09 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-11T02:09:14.978147-06:00.lighthouse.json) |
-| [October 10 at 1:49 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-10T13:49:23.133253-06:00.lighthouse.json) |
-| [October 10 at 2:40 AM](https://archive.org/download/sltrib-2022/sltrib-2022-10-10T02:40:15.993374-06:00.lighthouse.json) |
-| [October 9 at 1:25 PM](https://archive.org/download/sltrib-2022/sltrib-2022-10-09T13:25:23.121732-06:00.lighthouse.json) |
 
 
 

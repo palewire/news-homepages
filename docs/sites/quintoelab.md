@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 259 screenshots with the Internet Archive.
+The archiving routine has saved 265 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-17T02:55:23.106457-05:00.jpg">
+  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-17T02:55:23.106457-05:00.jpg"
+     alt="Quinto Elemento Lab at 2022-10-17 02:55:25-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-17T02:55:23.106457-05:00.jpg">October 17 at 2:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T14:00:59.055677-05:00.jpg">
+  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T14:00:59.055677-05:00.jpg"
+     alt="Quinto Elemento Lab at 2022-10-16 14:01:07-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T14:00:59.055677-05:00.jpg">October 16 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T02:22:30.822218-05:00.jpg">
+  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T02:22:30.822218-05:00.jpg"
+     alt="Quinto Elemento Lab at 2022-10-16 02:22:32-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T02:22:30.822218-05:00.jpg">October 16 at 2:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T14:24:10.949077-05:00.jpg">
+  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T14:24:10.949077-05:00.jpg"
+     alt="Quinto Elemento Lab at 2022-10-15 14:24:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T14:24:10.949077-05:00.jpg">October 15 at 2:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T02:51:42.829016-05:00.jpg">
+  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T02:51:42.829016-05:00.jpg"
+     alt="Quinto Elemento Lab at 2022-10-15 02:51:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T02:51:42.829016-05:00.jpg">October 15 at 2:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T15:26:25.052797-05:00.jpg">
+  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T15:26:25.052797-05:00.jpg"
+     alt="Quinto Elemento Lab at 2022-10-14 15:26:27-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T15:26:25.052797-05:00.jpg">October 14 at 3:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T03:03:10.503826-05:00.jpg">
   <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T03:03:10.503826-05:00.jpg"
      alt="Quinto Elemento Lab at 2022-10-14 03:03:17-05:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T14:11:54.507803-05:00.jpg">October 11 at 2:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T03:06:34.748406-05:00.jpg">
-  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T03:06:34.748406-05:00.jpg"
-     alt="Quinto Elemento Lab at 2022-10-11 03:06:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T03:06:34.748406-05:00.jpg">October 11 at 3:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T14:46:38.409197-05:00.jpg">
-  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T14:46:38.409197-05:00.jpg"
-     alt="Quinto Elemento Lab at 2022-10-10 14:46:40-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T14:46:38.409197-05:00.jpg">October 10 at 2:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T03:36:55.810192-05:00.jpg">
-  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T03:36:55.810192-05:00.jpg"
-     alt="Quinto Elemento Lab at 2022-10-10 03:37:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T03:36:55.810192-05:00.jpg">October 10 at 3:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-09T14:22:30.565004-05:00.jpg">
-  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-09T14:22:30.565004-05:00.jpg"
-     alt="Quinto Elemento Lab at 2022-10-09 14:22:32-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-09T14:22:30.565004-05:00.jpg">October 9 at 2:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-09T02:26:42.504916-05:00.jpg">
-  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-09T02:26:42.504916-05:00.jpg"
-     alt="Quinto Elemento Lab at 2022-10-09 02:26:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-09T02:26:42.504916-05:00.jpg">October 9 at 2:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-08T14:16:48.136316-05:00.jpg">
-  <img src="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-08T14:16:48.136316-05:00.jpg"
-     alt="Quinto Elemento Lab at 2022-10-08 14:16:49-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/quintoelab-2022/quintoelab-2022-10-08T14:16:48.136316-05:00.jpg">October 8 at 2:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 260 hyperlink lists with the Internet Archive.
+The archiving routine has saved 266 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-17T02:55:23.106457-05:00.hyperlinks.json) |
+| [October 16 at 2:01 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T14:00:59.055677-05:00.hyperlinks.json) |
+| [October 16 at 2:22 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T02:22:30.822218-05:00.hyperlinks.json) |
+| [October 15 at 2:24 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T14:24:10.949077-05:00.hyperlinks.json) |
+| [October 15 at 2:51 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T02:51:42.829016-05:00.hyperlinks.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T15:26:25.052797-05:00.hyperlinks.json) |
 | [October 14 at 3:03 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T03:03:10.503826-05:00.hyperlinks.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-13T15:06:54.447689-05:00.hyperlinks.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-13T02:22:05.661847-05:00.hyperlinks.json) |
 | [October 12 at 2:18 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-12T14:18:05.663806-05:00.hyperlinks.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-12T03:04:00.283814-05:00.hyperlinks.json) |
-| [October 11 at 2:12 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T14:11:54.507803-05:00.hyperlinks.json) |
-| [October 11 at 3:06 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T03:06:34.748406-05:00.hyperlinks.json) |
-| [October 10 at 2:46 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T14:46:38.409197-05:00.hyperlinks.json) |
-| [October 10 at 3:37 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T03:36:55.810192-05:00.hyperlinks.json) |
-| [October 9 at 2:22 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-09T14:22:30.565004-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 259 accessibility trees with the Internet Archive.
+The archiving routine has saved 265 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-17T02:55:23.106457-05:00.accessibility.json) |
+| [October 16 at 2:01 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T14:00:59.055677-05:00.accessibility.json) |
+| [October 16 at 2:22 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T02:22:30.822218-05:00.accessibility.json) |
+| [October 15 at 2:24 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T14:24:10.949077-05:00.accessibility.json) |
+| [October 15 at 2:51 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T02:51:42.829016-05:00.accessibility.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T15:26:25.052797-05:00.accessibility.json) |
 | [October 14 at 3:03 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T03:03:10.503826-05:00.accessibility.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-13T15:06:54.447689-05:00.accessibility.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-13T02:22:05.661847-05:00.accessibility.json) |
 | [October 12 at 2:18 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-12T14:18:05.663806-05:00.accessibility.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-12T03:04:00.283814-05:00.accessibility.json) |
-| [October 11 at 2:12 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T14:11:54.507803-05:00.accessibility.json) |
-| [October 11 at 3:06 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T03:06:34.748406-05:00.accessibility.json) |
-| [October 10 at 2:46 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T14:46:38.409197-05:00.accessibility.json) |
-| [October 10 at 3:37 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T03:36:55.810192-05:00.accessibility.json) |
-| [October 9 at 2:22 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-09T14:22:30.565004-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 165 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:55 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-17T02:55:23.106457-05:00.lighthouse.json) |
+| [October 16 at 2:01 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T14:00:59.055677-05:00.lighthouse.json) |
+| [October 16 at 2:22 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-16T02:22:30.822218-05:00.lighthouse.json) |
+| [October 15 at 2:24 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T14:24:10.949077-05:00.lighthouse.json) |
+| [October 15 at 2:51 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-15T02:51:42.829016-05:00.lighthouse.json) |
+| [October 14 at 3:26 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T15:26:25.052797-05:00.lighthouse.json) |
 | [October 14 at 3:03 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-14T03:03:10.503826-05:00.lighthouse.json) |
 | [October 13 at 3:07 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-13T15:06:54.447689-05:00.lighthouse.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-13T02:22:05.661847-05:00.lighthouse.json) |
 | [October 12 at 2:18 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-12T14:18:05.663806-05:00.lighthouse.json) |
-| [October 12 at 3:04 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-12T03:04:00.283814-05:00.lighthouse.json) |
-| [October 11 at 2:12 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T14:11:54.507803-05:00.lighthouse.json) |
-| [October 11 at 3:06 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-11T03:06:34.748406-05:00.lighthouse.json) |
-| [October 10 at 2:46 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T14:46:38.409197-05:00.lighthouse.json) |
-| [October 10 at 3:37 AM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-10T03:36:55.810192-05:00.lighthouse.json) |
-| [October 9 at 2:22 PM](https://archive.org/download/quintoelab-2022/quintoelab-2022-10-09T14:22:30.565004-05:00.lighthouse.json) |
 
 
 

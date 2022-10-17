@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-17T02:59:52.887435-05:00.jpg">
+  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-17T02:59:52.887435-05:00.jpg"
+     alt="Salina Journal at 2022-10-17 02:59:56-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-17T02:59:52.887435-05:00.jpg">October 17 at 2:59 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T14:01:08.740727-05:00.jpg">
+  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T14:01:08.740727-05:00.jpg"
+     alt="Salina Journal at 2022-10-16 14:01:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T14:01:08.740727-05:00.jpg">October 16 at 2:01 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T02:24:24.367307-05:00.jpg">
+  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T02:24:24.367307-05:00.jpg"
+     alt="Salina Journal at 2022-10-16 02:24:26-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T02:24:24.367307-05:00.jpg">October 16 at 2:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T14:24:47.033400-05:00.jpg">
+  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T14:24:47.033400-05:00.jpg"
+     alt="Salina Journal at 2022-10-15 14:24:53-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T14:24:47.033400-05:00.jpg">October 15 at 2:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T02:53:40.924580-05:00.jpg">
+  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T02:53:40.924580-05:00.jpg"
+     alt="Salina Journal at 2022-10-15 02:53:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T02:53:40.924580-05:00.jpg">October 15 at 2:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T15:29:40.077404-05:00.jpg">
+  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T15:29:40.077404-05:00.jpg"
+     alt="Salina Journal at 2022-10-14 15:29:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T15:29:40.077404-05:00.jpg">October 14 at 3:29 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T03:03:36.849547-05:00.jpg">
   <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T03:03:36.849547-05:00.jpg"
      alt="Salina Journal at 2022-10-14 03:03:38-05:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T14:13:47.674261-05:00.jpg">October 11 at 2:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T03:07:46.412917-05:00.jpg">
-  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T03:07:46.412917-05:00.jpg"
-     alt="Salina Journal at 2022-10-11 03:07:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T03:07:46.412917-05:00.jpg">October 11 at 3:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T14:49:51.989871-05:00.jpg">
-  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T14:49:51.989871-05:00.jpg"
-     alt="Salina Journal at 2022-10-10 14:49:54-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T14:49:51.989871-05:00.jpg">October 10 at 2:49 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T03:37:07.500098-05:00.jpg">
-  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T03:37:07.500098-05:00.jpg"
-     alt="Salina Journal at 2022-10-10 03:37:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T03:37:07.500098-05:00.jpg">October 10 at 3:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T14:22:40.691111-05:00.jpg">
-  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T14:22:40.691111-05:00.jpg"
-     alt="Salina Journal at 2022-10-09 14:22:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T14:22:40.691111-05:00.jpg">October 9 at 2:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T02:28:36.253251-05:00.jpg">
-  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T02:28:36.253251-05:00.jpg"
-     alt="Salina Journal at 2022-10-09 02:28:38-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T02:28:36.253251-05:00.jpg">October 9 at 2:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-08T14:17:31.995871-05:00.jpg">
-  <img src="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-08T14:17:31.995871-05:00.jpg"
-     alt="Salina Journal at 2022-10-08 14:17:35-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/salinajournal-2022/salinajournal-2022-10-08T14:17:31.995871-05:00.jpg">October 8 at 2:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:59 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-17T02:59:52.887435-05:00.hyperlinks.json) |
+| [October 16 at 2:01 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T14:01:08.740727-05:00.hyperlinks.json) |
+| [October 16 at 2:24 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T02:24:24.367307-05:00.hyperlinks.json) |
+| [October 15 at 2:24 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T14:24:47.033400-05:00.hyperlinks.json) |
+| [October 15 at 2:53 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T02:53:40.924580-05:00.hyperlinks.json) |
+| [October 14 at 3:29 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T15:29:40.077404-05:00.hyperlinks.json) |
 | [October 14 at 3:03 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T03:03:36.849547-05:00.hyperlinks.json) |
 | [October 13 at 3:10 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-13T15:10:20.794807-05:00.hyperlinks.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-13T02:22:20.154996-05:00.hyperlinks.json) |
 | [October 12 at 2:20 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-12T14:20:18.760318-05:00.hyperlinks.json) |
-| [October 12 at 3:06 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-12T03:06:21.625085-05:00.hyperlinks.json) |
-| [October 11 at 2:13 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T14:13:47.674261-05:00.hyperlinks.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T03:07:46.412917-05:00.hyperlinks.json) |
-| [October 10 at 2:49 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T14:49:51.989871-05:00.hyperlinks.json) |
-| [October 10 at 3:37 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T03:37:07.500098-05:00.hyperlinks.json) |
-| [October 9 at 2:22 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T14:22:40.691111-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 46 accessibility trees with the Internet Archive.
+The archiving routine has saved 52 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:59 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-17T02:59:52.887435-05:00.accessibility.json) |
+| [October 16 at 2:01 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T14:01:08.740727-05:00.accessibility.json) |
+| [October 16 at 2:24 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T02:24:24.367307-05:00.accessibility.json) |
+| [October 15 at 2:24 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T14:24:47.033400-05:00.accessibility.json) |
+| [October 15 at 2:53 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T02:53:40.924580-05:00.accessibility.json) |
+| [October 14 at 3:29 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T15:29:40.077404-05:00.accessibility.json) |
 | [October 14 at 3:03 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T03:03:36.849547-05:00.accessibility.json) |
 | [October 13 at 3:10 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-13T15:10:20.794807-05:00.accessibility.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-13T02:22:20.154996-05:00.accessibility.json) |
 | [October 12 at 3:06 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-12T03:06:21.625085-05:00.accessibility.json) |
-| [October 11 at 2:13 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T14:13:47.674261-05:00.accessibility.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T03:07:46.412917-05:00.accessibility.json) |
-| [October 10 at 2:49 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T14:49:51.989871-05:00.accessibility.json) |
-| [October 10 at 3:37 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T03:37:07.500098-05:00.accessibility.json) |
-| [October 9 at 2:22 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T14:22:40.691111-05:00.accessibility.json) |
-| [October 9 at 2:28 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T02:28:36.253251-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:00 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-17T02:59:52.887435-05:00.lighthouse.json) |
+| [October 16 at 2:01 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T14:01:08.740727-05:00.lighthouse.json) |
+| [October 16 at 2:24 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-16T02:24:24.367307-05:00.lighthouse.json) |
+| [October 15 at 2:24 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T14:24:47.033400-05:00.lighthouse.json) |
+| [October 15 at 2:53 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-15T02:53:40.924580-05:00.lighthouse.json) |
+| [October 14 at 3:29 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T15:29:40.077404-05:00.lighthouse.json) |
 | [October 14 at 3:03 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-14T03:03:36.849547-05:00.lighthouse.json) |
 | [October 13 at 3:10 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-13T15:10:20.794807-05:00.lighthouse.json) |
 | [October 13 at 2:22 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-13T02:22:20.154996-05:00.lighthouse.json) |
 | [October 12 at 2:20 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-12T14:20:18.760318-05:00.lighthouse.json) |
-| [October 12 at 3:06 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-12T03:06:21.625085-05:00.lighthouse.json) |
-| [October 11 at 2:13 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T14:13:47.674261-05:00.lighthouse.json) |
-| [October 11 at 3:07 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-11T03:07:46.412917-05:00.lighthouse.json) |
-| [October 10 at 2:49 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T14:49:51.989871-05:00.lighthouse.json) |
-| [October 10 at 3:37 AM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-10T03:37:07.500098-05:00.lighthouse.json) |
-| [October 9 at 2:22 PM](https://archive.org/download/salinajournal-2022/salinajournal-2022-10-09T14:22:40.691111-05:00.lighthouse.json) |
 
 
 

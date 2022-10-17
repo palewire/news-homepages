@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 159 screenshots with the Internet Archive.
+The archiving routine has saved 163 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-17T03:51:05.867161-04:00.jpg">
+  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-17T03:51:05.867161-04:00.jpg"
+     alt="Weather Channel at 2022-10-17 03:51:07-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-17T03:51:05.867161-04:00.jpg">October 17 at 3:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T14:54:26.131021-04:00.jpg">
+  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T14:54:26.131021-04:00.jpg"
+     alt="Weather Channel at 2022-10-16 14:54:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T14:54:26.131021-04:00.jpg">October 16 at 2:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T03:31:32.960658-04:00.jpg">
+  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T03:31:32.960658-04:00.jpg"
+     alt="Weather Channel at 2022-10-16 03:31:34-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T03:31:32.960658-04:00.jpg">October 16 at 3:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T15:56:47.831408-04:00.jpg">
+  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T15:56:47.831408-04:00.jpg"
+     alt="Weather Channel at 2022-10-15 15:56:52-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T15:56:47.831408-04:00.jpg">October 15 at 3:56 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T04:00:35.145259-04:00.jpg">
   <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T04:00:35.145259-04:00.jpg"
      alt="Weather Channel at 2022-10-15 04:00:36-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T15:22:02.272330-04:00.jpg">October 11 at 3:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T04:13:53.191415-04:00.jpg">
-  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T04:13:53.191415-04:00.jpg"
-     alt="Weather Channel at 2022-10-11 04:13:54-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T04:13:53.191415-04:00.jpg">October 11 at 4:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-10T16:16:15.917496-04:00.jpg">
-  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-10T16:16:15.917496-04:00.jpg"
-     alt="Weather Channel at 2022-10-10 16:16:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-10T16:16:15.917496-04:00.jpg">October 10 at 4:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-10T04:27:58.013586-04:00.jpg">
-  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-10T04:27:58.013586-04:00.jpg"
-     alt="Weather Channel at 2022-10-10 04:28:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-10T04:27:58.013586-04:00.jpg">October 10 at 4:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-09T16:01:54.881655-04:00.jpg">
-  <img src="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-09T16:01:54.881655-04:00.jpg"
-     alt="Weather Channel at 2022-10-09 16:02:01-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-09T16:01:54.881655-04:00.jpg">October 9 at 4:02 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 160 hyperlink lists with the Internet Archive.
+The archiving routine has saved 164 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 3:51 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-17T03:51:05.867161-04:00.hyperlinks.json) |
+| [October 16 at 2:54 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T14:54:26.131021-04:00.hyperlinks.json) |
+| [October 16 at 3:31 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T03:31:32.960658-04:00.hyperlinks.json) |
+| [October 15 at 3:56 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T15:56:47.831408-04:00.hyperlinks.json) |
 | [October 15 at 4:00 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T04:00:35.145259-04:00.hyperlinks.json) |
 | [October 14 at 4:36 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-14T16:36:37.273390-04:00.hyperlinks.json) |
 | [October 14 at 4:11 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-14T04:11:10.113657-04:00.hyperlinks.json) |
 | [October 13 at 4:20 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-13T16:19:46.993627-04:00.hyperlinks.json) |
 | [October 13 at 3:29 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-13T03:29:44.283796-04:00.hyperlinks.json) |
 | [October 12 at 2:52 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-12T14:52:20.390266-04:00.hyperlinks.json) |
-| [October 12 at 4:14 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-12T04:14:27.423081-04:00.hyperlinks.json) |
-| [October 11 at 3:22 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T15:22:02.272330-04:00.hyperlinks.json) |
-| [October 11 at 4:13 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T04:13:53.191415-04:00.hyperlinks.json) |
-| [October 10 at 4:16 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-10T16:16:15.917496-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 159 accessibility trees with the Internet Archive.
+The archiving routine has saved 163 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 3:51 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-17T03:51:05.867161-04:00.accessibility.json) |
+| [October 16 at 2:54 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T14:54:26.131021-04:00.accessibility.json) |
+| [October 16 at 3:31 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T03:31:32.960658-04:00.accessibility.json) |
+| [October 15 at 3:56 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T15:56:47.831408-04:00.accessibility.json) |
 | [October 15 at 4:00 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T04:00:35.145259-04:00.accessibility.json) |
 | [October 14 at 4:36 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-14T16:36:37.273390-04:00.accessibility.json) |
 | [October 14 at 4:11 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-14T04:11:10.113657-04:00.accessibility.json) |
 | [October 13 at 4:20 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-13T16:19:46.993627-04:00.accessibility.json) |
 | [October 13 at 3:29 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-13T03:29:44.283796-04:00.accessibility.json) |
 | [October 12 at 2:52 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-12T14:52:20.390266-04:00.accessibility.json) |
-| [October 12 at 4:14 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-12T04:14:27.423081-04:00.accessibility.json) |
-| [October 11 at 3:22 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T15:22:02.272330-04:00.accessibility.json) |
-| [October 11 at 4:13 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T04:13:53.191415-04:00.accessibility.json) |
-| [October 10 at 4:16 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-10T16:16:15.917496-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 164 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:51 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-17T03:51:05.867161-04:00.lighthouse.json) |
+| [October 16 at 2:54 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T14:54:26.131021-04:00.lighthouse.json) |
+| [October 16 at 3:31 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-16T03:31:32.960658-04:00.lighthouse.json) |
+| [October 15 at 3:56 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T15:56:47.831408-04:00.lighthouse.json) |
 | [October 15 at 4:00 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-15T04:00:35.145259-04:00.lighthouse.json) |
 | [October 14 at 4:36 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-14T16:36:37.273390-04:00.lighthouse.json) |
 | [October 14 at 4:11 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-14T04:11:10.113657-04:00.lighthouse.json) |
 | [October 13 at 4:20 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-13T16:19:46.993627-04:00.lighthouse.json) |
 | [October 13 at 3:29 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-13T03:29:44.283796-04:00.lighthouse.json) |
 | [October 12 at 2:52 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-12T14:52:20.390266-04:00.lighthouse.json) |
-| [October 12 at 4:14 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-12T04:14:27.423081-04:00.lighthouse.json) |
-| [October 11 at 3:22 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T15:22:02.272330-04:00.lighthouse.json) |
-| [October 11 at 4:13 AM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-11T04:13:53.191415-04:00.lighthouse.json) |
-| [October 10 at 4:16 PM](https://archive.org/download/weatherchannel-2022/weatherchannel-2022-10-10T16:16:15.917496-04:00.lighthouse.json) |
 
 
 

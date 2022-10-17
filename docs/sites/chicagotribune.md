@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 342 screenshots with the Internet Archive.
+The archiving routine has saved 343 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 342 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-17T00:31:29.766104-05:00.jpg">
+  <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-17T00:31:29.766104-05:00.jpg"
+     alt="Chicago Tribune at 2022-10-17 00:31:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-17T00:31:29.766104-05:00.jpg">October 17 at 12:31 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T11:46:05.130811-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-13T11:01:45.107466-05:00.jpg">October 13 at 11:01 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-12T23:37:16.949585-05:00.jpg">
-  <img src="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-12T23:37:16.949585-05:00.jpg"
-     alt="Chicago Tribune at 2022-10-12 23:37:18-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-12T23:37:16.949585-05:00.jpg">October 12 at 11:37 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 340 hyperlink lists with the Internet Archive.
+The archiving routine has saved 341 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 12:31 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-17T00:31:29.766104-05:00.hyperlinks.json) |
 | [October 16 at 11:46 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T11:46:05.130811-05:00.hyperlinks.json) |
 | [October 16 at 11:03 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T11:03:03.312346-05:00.hyperlinks.json) |
 | [October 16 at 12:14 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T00:14:29.092321-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 11:42 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-14T11:42:19.336339-05:00.hyperlinks.json) |
 | [October 14 at 11:39 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-14T11:39:08.271787-05:00.hyperlinks.json) |
 | [October 14 at 1:21 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-14T01:20:57.818367-05:00.hyperlinks.json) |
-| [October 13 at 11:09 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-13T11:09:41.204431-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 345 accessibility trees with the Internet Archive.
+The archiving routine has saved 346 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 12:31 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-17T00:31:29.766104-05:00.accessibility.json) |
 | [October 16 at 11:46 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T11:46:05.130811-05:00.accessibility.json) |
 | [October 16 at 11:03 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T11:03:03.312346-05:00.accessibility.json) |
 | [October 16 at 12:14 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T00:14:29.092321-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 11:42 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-14T11:42:19.336339-05:00.accessibility.json) |
 | [October 14 at 11:39 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-14T11:39:08.271787-05:00.accessibility.json) |
 | [October 14 at 1:21 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-14T01:20:57.818367-05:00.accessibility.json) |
-| [October 13 at 11:09 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-13T11:09:41.204431-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 253 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 254 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 12:31 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-17T00:31:29.766104-05:00.lighthouse.json) |
 | [October 16 at 11:46 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T11:46:05.130811-05:00.lighthouse.json) |
 | [October 16 at 11:03 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T11:03:03.312346-05:00.lighthouse.json) |
 | [October 16 at 12:14 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-16T00:14:29.092321-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 11:42 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-14T11:42:19.336339-05:00.lighthouse.json) |
 | [October 14 at 11:39 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-14T11:39:08.271787-05:00.lighthouse.json) |
 | [October 14 at 1:21 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-14T01:20:57.818367-05:00.lighthouse.json) |
-| [October 13 at 11:09 AM](https://archive.org/download/chicagotribune-2022/chicagotribune-2022-10-13T11:09:41.204431-05:00.lighthouse.json) |
 
 
 

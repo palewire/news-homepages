@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-17T02:50:39.750487-05:00.jpg">
+  <img src="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-17T02:50:39.750487-05:00.jpg"
+     alt="Wisconsin Rapids Daily Tribune at 2022-10-17 02:50:43-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-17T02:50:39.750487-05:00.jpg">October 17 at 2:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T13:55:54.208397-05:00.jpg">
+  <img src="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T13:55:54.208397-05:00.jpg"
+     alt="Wisconsin Rapids Daily Tribune at 2022-10-16 13:55:57-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T13:55:54.208397-05:00.jpg">October 16 at 1:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T02:31:13.161218-05:00.jpg">
+  <img src="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T02:31:13.161218-05:00.jpg"
+     alt="Wisconsin Rapids Daily Tribune at 2022-10-16 02:31:14-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T02:31:13.161218-05:00.jpg">October 16 at 2:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T14:57:07.736161-05:00.jpg">
+  <img src="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T14:57:07.736161-05:00.jpg"
+     alt="Wisconsin Rapids Daily Tribune at 2022-10-15 14:57:09-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T14:57:07.736161-05:00.jpg">October 15 at 2:57 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T03:01:16.730493-05:00.jpg">
   <img src="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T03:01:16.730493-05:00.jpg"
      alt="Wisconsin Rapids Daily Tribune at 2022-10-15 03:01:19-05:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T14:21:46.842860-05:00.jpg">October 11 at 2:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T03:16:19.557551-05:00.jpg">
-  <img src="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T03:16:19.557551-05:00.jpg"
-     alt="Wisconsin Rapids Daily Tribune at 2022-10-11 03:16:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T03:16:19.557551-05:00.jpg">October 11 at 3:16 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T15:15:10.625211-05:00.jpg">
-  <img src="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T15:15:10.625211-05:00.jpg"
-     alt="Wisconsin Rapids Daily Tribune at 2022-10-10 15:15:13-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T15:15:10.625211-05:00.jpg">October 10 at 3:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T03:30:59.136967-05:00.jpg">
-  <img src="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T03:30:59.136967-05:00.jpg"
-     alt="Wisconsin Rapids Daily Tribune at 2022-10-10 03:31:02-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T03:30:59.136967-05:00.jpg">October 10 at 3:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-09T15:01:54.965929-05:00.jpg">
-  <img src="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-09T15:01:54.965929-05:00.jpg"
-     alt="Wisconsin Rapids Daily Tribune at 2022-10-09 15:01:57-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wrtribune-2022/wrtribune-2022-10-09T15:01:54.965929-05:00.jpg">October 9 at 3:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 52 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:50 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-17T02:50:39.750487-05:00.hyperlinks.json) |
+| [October 16 at 1:56 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T13:55:54.208397-05:00.hyperlinks.json) |
+| [October 16 at 2:31 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T02:31:13.161218-05:00.hyperlinks.json) |
+| [October 15 at 2:57 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T14:57:07.736161-05:00.hyperlinks.json) |
 | [October 15 at 3:01 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T03:01:16.730493-05:00.hyperlinks.json) |
 | [October 14 at 3:38 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-14T15:37:58.197699-05:00.hyperlinks.json) |
 | [October 14 at 3:10 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-14T03:10:10.317267-05:00.hyperlinks.json) |
 | [October 13 at 3:21 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-13T15:21:44.749207-05:00.hyperlinks.json) |
 | [October 13 at 2:29 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-13T02:29:41.441836-05:00.hyperlinks.json) |
 | [October 12 at 1:54 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-12T13:53:59.729472-05:00.hyperlinks.json) |
-| [October 12 at 3:13 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-12T03:13:43.786890-05:00.hyperlinks.json) |
-| [October 11 at 2:21 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T14:21:46.842860-05:00.hyperlinks.json) |
-| [October 11 at 3:16 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T03:16:19.557551-05:00.hyperlinks.json) |
-| [October 10 at 3:15 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T15:15:10.625211-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 52 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:50 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-17T02:50:39.750487-05:00.accessibility.json) |
+| [October 16 at 1:55 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T13:55:54.208397-05:00.accessibility.json) |
+| [October 16 at 2:31 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T02:31:13.161218-05:00.accessibility.json) |
+| [October 15 at 2:57 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T14:57:07.736161-05:00.accessibility.json) |
 | [October 15 at 3:01 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T03:01:16.730493-05:00.accessibility.json) |
 | [October 14 at 3:10 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-14T03:10:10.317267-05:00.accessibility.json) |
 | [October 13 at 3:21 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-13T15:21:44.749207-05:00.accessibility.json) |
 | [October 13 at 2:29 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-13T02:29:41.441836-05:00.accessibility.json) |
 | [October 12 at 1:54 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-12T13:53:59.729472-05:00.accessibility.json) |
 | [October 12 at 3:13 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-12T03:13:43.786890-05:00.accessibility.json) |
-| [October 11 at 2:21 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T14:21:46.842860-05:00.accessibility.json) |
-| [October 11 at 3:16 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T03:16:19.557551-05:00.accessibility.json) |
-| [October 10 at 3:15 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T15:15:10.625211-05:00.accessibility.json) |
-| [October 10 at 3:31 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T03:30:59.136967-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:50 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-17T02:50:39.750487-05:00.lighthouse.json) |
+| [October 16 at 1:56 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T13:55:54.208397-05:00.lighthouse.json) |
+| [October 16 at 2:31 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-16T02:31:13.161218-05:00.lighthouse.json) |
+| [October 15 at 2:57 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T14:57:07.736161-05:00.lighthouse.json) |
 | [October 15 at 3:01 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-15T03:01:16.730493-05:00.lighthouse.json) |
 | [October 14 at 3:38 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-14T15:37:58.197699-05:00.lighthouse.json) |
 | [October 14 at 3:10 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-14T03:10:10.317267-05:00.lighthouse.json) |
 | [October 13 at 3:22 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-13T15:21:44.749207-05:00.lighthouse.json) |
 | [October 13 at 2:29 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-13T02:29:41.441836-05:00.lighthouse.json) |
 | [October 12 at 1:54 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-12T13:53:59.729472-05:00.lighthouse.json) |
-| [October 12 at 3:13 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-12T03:13:43.786890-05:00.lighthouse.json) |
-| [October 11 at 2:21 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T14:21:46.842860-05:00.lighthouse.json) |
-| [October 11 at 3:16 AM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-11T03:16:19.557551-05:00.lighthouse.json) |
-| [October 10 at 3:15 PM](https://archive.org/download/wrtribune-2022/wrtribune-2022-10-10T15:15:10.625211-05:00.lighthouse.json) |
 
 
 

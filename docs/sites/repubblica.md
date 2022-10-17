@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 129 screenshots with the Internet Archive.
+The archiving routine has saved 135 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.jpg"
+     alt="Repubblica at 2022-10-17 09:55:46+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.jpg">October 17 at 9:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-16T21:00:36.278877+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-16T21:00:36.278877+02:00.jpg"
+     alt="Repubblica at 2022-10-16 21:00:44+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-16T21:00:36.278877+02:00.jpg">October 16 at 9:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-16T09:25:58.209284+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-16T09:25:58.209284+02:00.jpg"
+     alt="Repubblica at 2022-10-16 09:25:59+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-16T09:25:58.209284+02:00.jpg">October 16 at 9:25 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-15T21:24:05.204747+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-15T21:24:05.204747+02:00.jpg"
+     alt="Repubblica at 2022-10-15 21:24:13+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-15T21:24:05.204747+02:00.jpg">October 15 at 9:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-15T09:51:35.052247+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-15T09:51:35.052247+02:00.jpg"
+     alt="Repubblica at 2022-10-15 09:51:49+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-15T09:51:35.052247+02:00.jpg">October 15 at 9:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-14T22:26:34.837885+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-14T22:26:34.837885+02:00.jpg"
+     alt="Repubblica at 2022-10-14 22:26:41+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-14T22:26:34.837885+02:00.jpg">October 14 at 10:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-14T10:04:14.220883+02:00.jpg">
   <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-14T10:04:14.220883+02:00.jpg"
      alt="Repubblica at 2022-10-14 10:04:22+02:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-11T21:11:54.070618+02:00.jpg">October 11 at 9:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-11T10:06:28.031351+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-11T10:06:28.031351+02:00.jpg"
-     alt="Repubblica at 2022-10-11 10:06:36+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-11T10:06:28.031351+02:00.jpg">October 11 at 10:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-10T21:46:32.098606+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-10T21:46:32.098606+02:00.jpg"
-     alt="Repubblica at 2022-10-10 21:46:44+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-10T21:46:32.098606+02:00.jpg">October 10 at 9:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-10T10:37:14.907237+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-10T10:37:14.907237+02:00.jpg"
-     alt="Repubblica at 2022-10-10 10:37:34+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-10T10:37:14.907237+02:00.jpg">October 10 at 10:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-09T21:23:23.039279+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-09T21:23:23.039279+02:00.jpg"
-     alt="Repubblica at 2022-10-09 21:23:31+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-09T21:23:23.039279+02:00.jpg">October 9 at 9:23 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-09T09:26:56.295724+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-09T09:26:56.295724+02:00.jpg"
-     alt="Repubblica at 2022-10-09 09:27:04+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-09T09:26:56.295724+02:00.jpg">October 9 at 9:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-08T21:17:14.114486+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-08T21:17:14.114486+02:00.jpg"
-     alt="Repubblica at 2022-10-08 21:17:21+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-08T21:17:14.114486+02:00.jpg">October 8 at 9:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 129 hyperlink lists with the Internet Archive.
+The archiving routine has saved 135 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 9:55 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.hyperlinks.json) |
+| [October 16 at 9:00 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T21:00:36.278877+02:00.hyperlinks.json) |
+| [October 16 at 9:26 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T09:25:58.209284+02:00.hyperlinks.json) |
+| [October 15 at 9:24 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-15T21:24:05.204747+02:00.hyperlinks.json) |
+| [October 15 at 9:51 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-15T09:51:35.052247+02:00.hyperlinks.json) |
+| [October 14 at 10:26 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T22:26:34.837885+02:00.hyperlinks.json) |
 | [October 14 at 10:04 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T10:04:14.220883+02:00.hyperlinks.json) |
 | [October 13 at 10:10 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T22:10:09.005668+02:00.hyperlinks.json) |
 | [October 13 at 9:22 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T09:22:33.193616+02:00.hyperlinks.json) |
 | [October 12 at 9:19 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-12T21:18:52.287261+02:00.hyperlinks.json) |
-| [October 12 at 10:05 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-12T10:04:59.149963+02:00.hyperlinks.json) |
-| [October 11 at 9:12 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-11T21:11:54.070618+02:00.hyperlinks.json) |
-| [October 11 at 10:06 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-11T10:06:28.031351+02:00.hyperlinks.json) |
-| [October 10 at 9:46 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-10T21:46:32.098606+02:00.hyperlinks.json) |
-| [October 10 at 10:37 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-10T10:37:14.907237+02:00.hyperlinks.json) |
-| [October 9 at 9:23 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-09T21:23:23.039279+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 135 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 9:55 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.accessibility.json) |
+| [October 16 at 9:00 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T21:00:36.278877+02:00.accessibility.json) |
+| [October 16 at 9:26 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T09:25:58.209284+02:00.accessibility.json) |
+| [October 15 at 9:24 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-15T21:24:05.204747+02:00.accessibility.json) |
+| [October 15 at 9:51 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-15T09:51:35.052247+02:00.accessibility.json) |
+| [October 14 at 10:26 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T22:26:34.837885+02:00.accessibility.json) |
 | [October 14 at 10:04 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T10:04:14.220883+02:00.accessibility.json) |
 | [October 13 at 10:10 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T22:10:09.005668+02:00.accessibility.json) |
 | [October 13 at 9:22 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T09:22:33.193616+02:00.accessibility.json) |
 | [October 12 at 9:19 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-12T21:18:52.287261+02:00.accessibility.json) |
-| [October 12 at 10:05 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-12T10:04:59.149963+02:00.accessibility.json) |
-| [October 11 at 9:12 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-11T21:11:54.070618+02:00.accessibility.json) |
-| [October 11 at 10:06 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-11T10:06:28.031351+02:00.accessibility.json) |
-| [October 10 at 9:46 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-10T21:46:32.098606+02:00.accessibility.json) |
-| [October 10 at 10:37 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-10T10:37:14.907237+02:00.accessibility.json) |
-| [October 9 at 9:23 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-09T21:23:23.039279+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 9:55 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.lighthouse.json) |
+| [October 16 at 9:00 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T21:00:36.278877+02:00.lighthouse.json) |
+| [October 16 at 9:26 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T09:25:58.209284+02:00.lighthouse.json) |
+| [October 15 at 9:24 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-15T21:24:05.204747+02:00.lighthouse.json) |
+| [October 15 at 9:51 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-15T09:51:35.052247+02:00.lighthouse.json) |
+| [October 14 at 10:26 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T22:26:34.837885+02:00.lighthouse.json) |
 | [October 14 at 10:04 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T10:04:14.220883+02:00.lighthouse.json) |
 | [October 13 at 10:10 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T22:10:09.005668+02:00.lighthouse.json) |
 | [October 13 at 9:22 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T09:22:33.193616+02:00.lighthouse.json) |
 | [October 12 at 9:19 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-12T21:18:52.287261+02:00.lighthouse.json) |
-| [October 12 at 10:05 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-12T10:04:59.149963+02:00.lighthouse.json) |
-| [October 11 at 9:12 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-11T21:11:54.070618+02:00.lighthouse.json) |
-| [October 11 at 10:06 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-11T10:06:28.031351+02:00.lighthouse.json) |
-| [October 10 at 9:46 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-10T21:46:32.098606+02:00.lighthouse.json) |
-| [October 10 at 10:37 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-10T10:37:14.907237+02:00.lighthouse.json) |
-| [October 9 at 9:23 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-09T21:23:23.039279+02:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-17T03:46:29.364973-04:00.jpg">
+  <img src="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-17T03:46:29.364973-04:00.jpg"
+     alt="Worcester Telegram & Gazette at 2022-10-17 03:46:37-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-17T03:46:29.364973-04:00.jpg">October 17 at 3:46 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T14:50:27.204552-04:00.jpg">
+  <img src="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T14:50:27.204552-04:00.jpg"
+     alt="Worcester Telegram & Gazette at 2022-10-16 14:50:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T14:50:27.204552-04:00.jpg">October 16 at 2:50 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T03:26:12.642500-04:00.jpg">
+  <img src="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T03:26:12.642500-04:00.jpg"
+     alt="Worcester Telegram & Gazette at 2022-10-16 03:26:15-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T03:26:12.642500-04:00.jpg">October 16 at 3:26 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T15:53:18.647344-04:00.jpg">
+  <img src="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T15:53:18.647344-04:00.jpg"
+     alt="Worcester Telegram & Gazette at 2022-10-15 15:53:21-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T15:53:18.647344-04:00.jpg">October 15 at 3:53 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T03:55:37.967918-04:00.jpg">
   <img src="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T03:55:37.967918-04:00.jpg"
      alt="Worcester Telegram & Gazette at 2022-10-15 03:55:41-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T15:16:34.085350-04:00.jpg">October 11 at 3:16 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T04:10:14.836425-04:00.jpg">
-  <img src="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T04:10:14.836425-04:00.jpg"
-     alt="Worcester Telegram & Gazette at 2022-10-11 04:10:17-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T04:10:14.836425-04:00.jpg">October 11 at 4:10 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-10T16:11:52.713616-04:00.jpg">
-  <img src="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-10T16:11:52.713616-04:00.jpg"
-     alt="Worcester Telegram & Gazette at 2022-10-10 16:11:57-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-10T16:11:52.713616-04:00.jpg">October 10 at 4:11 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-10T04:24:58.758507-04:00.jpg">
-  <img src="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-10T04:24:58.758507-04:00.jpg"
-     alt="Worcester Telegram & Gazette at 2022-10-10 04:25:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-10T04:24:58.758507-04:00.jpg">October 10 at 4:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-09T15:56:11.205104-04:00.jpg">
-  <img src="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-09T15:56:11.205104-04:00.jpg"
-     alt="Worcester Telegram & Gazette at 2022-10-09 15:56:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-09T15:56:11.205104-04:00.jpg">October 9 at 3:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 50 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 3:46 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-17T03:46:29.364973-04:00.hyperlinks.json) |
+| [October 16 at 2:50 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T14:50:27.204552-04:00.hyperlinks.json) |
+| [October 16 at 3:26 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T03:26:12.642500-04:00.hyperlinks.json) |
+| [October 15 at 3:53 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T15:53:18.647344-04:00.hyperlinks.json) |
 | [October 15 at 3:55 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T03:55:37.967918-04:00.hyperlinks.json) |
 | [October 14 at 4:32 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-14T16:32:22.615001-04:00.hyperlinks.json) |
 | [October 14 at 4:06 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-14T04:06:41.176294-04:00.hyperlinks.json) |
 | [October 13 at 4:15 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-13T16:15:20.267399-04:00.hyperlinks.json) |
 | [October 13 at 3:25 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-13T03:25:50.707435-04:00.hyperlinks.json) |
 | [October 12 at 2:48 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-12T14:48:02.092301-04:00.hyperlinks.json) |
-| [October 12 at 4:08 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-12T04:08:49.268589-04:00.hyperlinks.json) |
-| [October 11 at 3:16 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T15:16:34.085350-04:00.hyperlinks.json) |
-| [October 11 at 4:10 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T04:10:14.836425-04:00.hyperlinks.json) |
-| [October 10 at 4:12 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-10T16:11:52.713616-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 3:46 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-17T03:46:29.364973-04:00.accessibility.json) |
+| [October 16 at 2:50 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T14:50:27.204552-04:00.accessibility.json) |
+| [October 16 at 3:26 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T03:26:12.642500-04:00.accessibility.json) |
+| [October 15 at 3:53 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T15:53:18.647344-04:00.accessibility.json) |
 | [October 15 at 3:55 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T03:55:37.967918-04:00.accessibility.json) |
 | [October 14 at 4:32 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-14T16:32:22.615001-04:00.accessibility.json) |
 | [October 14 at 4:06 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-14T04:06:41.176294-04:00.accessibility.json) |
 | [October 13 at 4:15 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-13T16:15:20.267399-04:00.accessibility.json) |
 | [October 13 at 3:25 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-13T03:25:50.707435-04:00.accessibility.json) |
 | [October 12 at 2:48 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-12T14:48:02.092301-04:00.accessibility.json) |
-| [October 12 at 4:08 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-12T04:08:49.268589-04:00.accessibility.json) |
-| [October 11 at 3:16 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T15:16:34.085350-04:00.accessibility.json) |
-| [October 11 at 4:10 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T04:10:14.836425-04:00.accessibility.json) |
-| [October 10 at 4:11 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-10T16:11:52.713616-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:46 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-17T03:46:29.364973-04:00.lighthouse.json) |
+| [October 16 at 2:50 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T14:50:27.204552-04:00.lighthouse.json) |
+| [October 16 at 3:26 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-16T03:26:12.642500-04:00.lighthouse.json) |
+| [October 15 at 3:53 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T15:53:18.647344-04:00.lighthouse.json) |
 | [October 15 at 3:55 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-15T03:55:37.967918-04:00.lighthouse.json) |
 | [October 14 at 4:32 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-14T16:32:22.615001-04:00.lighthouse.json) |
 | [October 14 at 4:06 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-14T04:06:41.176294-04:00.lighthouse.json) |
 | [October 13 at 4:15 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-13T16:15:20.267399-04:00.lighthouse.json) |
 | [October 13 at 3:25 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-13T03:25:50.707435-04:00.lighthouse.json) |
 | [October 12 at 2:48 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-12T14:48:02.092301-04:00.lighthouse.json) |
-| [October 12 at 4:08 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-12T04:08:49.268589-04:00.lighthouse.json) |
-| [October 11 at 3:16 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T15:16:34.085350-04:00.lighthouse.json) |
-| [October 11 at 4:10 AM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-11T04:10:14.836425-04:00.lighthouse.json) |
-| [October 10 at 4:12 PM](https://archive.org/download/telegramdotcom-2022/telegramdotcom-2022-10-10T16:11:52.713616-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-17T03:56:05.128680-04:00.jpg">
+  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-17T03:56:05.128680-04:00.jpg"
+     alt="Binghamton Press & Sun-Bulletin at 2022-10-17 03:56:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-17T03:56:05.128680-04:00.jpg">October 17 at 3:56 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T14:59:10.876412-04:00.jpg">
+  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T14:59:10.876412-04:00.jpg"
+     alt="Binghamton Press & Sun-Bulletin at 2022-10-16 14:59:13-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T14:59:10.876412-04:00.jpg">October 16 at 2:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T03:22:14.193350-04:00.jpg">
+  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T03:22:14.193350-04:00.jpg"
+     alt="Binghamton Press & Sun-Bulletin at 2022-10-16 03:22:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T03:22:14.193350-04:00.jpg">October 16 at 3:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T15:21:55.253401-04:00.jpg">
+  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T15:21:55.253401-04:00.jpg"
+     alt="Binghamton Press & Sun-Bulletin at 2022-10-15 15:21:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T15:21:55.253401-04:00.jpg">October 15 at 3:21 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T03:50:37.077888-04:00.jpg">
+  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T03:50:37.077888-04:00.jpg"
+     alt="Binghamton Press & Sun-Bulletin at 2022-10-15 03:50:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T03:50:37.077888-04:00.jpg">October 15 at 3:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T16:27:34.582094-04:00.jpg">
+  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T16:27:34.582094-04:00.jpg"
+     alt="Binghamton Press & Sun-Bulletin at 2022-10-14 16:27:42-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T16:27:34.582094-04:00.jpg">October 14 at 4:27 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T04:00:50.964725-04:00.jpg">
   <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T04:00:50.964725-04:00.jpg"
      alt="Binghamton Press & Sun-Bulletin at 2022-10-14 04:00:55-04:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T15:12:03.259449-04:00.jpg">October 11 at 3:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T04:06:17.878393-04:00.jpg">
-  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T04:06:17.878393-04:00.jpg"
-     alt="Binghamton Press & Sun-Bulletin at 2022-10-11 04:06:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T04:06:17.878393-04:00.jpg">October 11 at 4:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T15:46:41.387565-04:00.jpg">
-  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T15:46:41.387565-04:00.jpg"
-     alt="Binghamton Press & Sun-Bulletin at 2022-10-10 15:46:44-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T15:46:41.387565-04:00.jpg">October 10 at 3:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T04:34:21.761224-04:00.jpg">
-  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T04:34:21.761224-04:00.jpg"
-     alt="Binghamton Press & Sun-Bulletin at 2022-10-10 04:34:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T04:34:21.761224-04:00.jpg">October 10 at 4:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-09T15:20:22.992744-04:00.jpg">
-  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-09T15:20:22.992744-04:00.jpg"
-     alt="Binghamton Press & Sun-Bulletin at 2022-10-09 15:20:26-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-09T15:20:22.992744-04:00.jpg">October 9 at 3:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-09T03:27:30.650716-04:00.jpg">
-  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-09T03:27:30.650716-04:00.jpg"
-     alt="Binghamton Press & Sun-Bulletin at 2022-10-09 03:27:36-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-09T03:27:30.650716-04:00.jpg">October 9 at 3:27 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-08T15:16:43.067403-04:00.jpg">
-  <img src="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-08T15:16:43.067403-04:00.jpg"
-     alt="Binghamton Press & Sun-Bulletin at 2022-10-08 15:16:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pressconnects-2022/pressconnects-2022-10-08T15:16:43.067403-04:00.jpg">October 8 at 3:16 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 3:56 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-17T03:56:05.128680-04:00.hyperlinks.json) |
+| [October 16 at 2:59 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T14:59:10.876412-04:00.hyperlinks.json) |
+| [October 16 at 3:22 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T03:22:14.193350-04:00.hyperlinks.json) |
+| [October 15 at 3:22 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T15:21:55.253401-04:00.hyperlinks.json) |
+| [October 15 at 3:50 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T03:50:37.077888-04:00.hyperlinks.json) |
+| [October 14 at 4:27 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T16:27:34.582094-04:00.hyperlinks.json) |
 | [October 14 at 4:00 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T04:00:50.964725-04:00.hyperlinks.json) |
 | [October 13 at 4:08 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-13T16:08:01.614826-04:00.hyperlinks.json) |
 | [October 13 at 3:21 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-13T03:21:45.481340-04:00.hyperlinks.json) |
 | [October 12 at 3:17 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-12T15:17:17.711516-04:00.hyperlinks.json) |
-| [October 12 at 4:04 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-12T04:04:48.742200-04:00.hyperlinks.json) |
-| [October 11 at 3:12 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T15:12:03.259449-04:00.hyperlinks.json) |
-| [October 11 at 4:06 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T04:06:17.878393-04:00.hyperlinks.json) |
-| [October 10 at 3:46 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T15:46:41.387565-04:00.hyperlinks.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T04:34:21.761224-04:00.hyperlinks.json) |
-| [October 9 at 3:20 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-09T15:20:22.992744-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 3:56 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-17T03:56:05.128680-04:00.accessibility.json) |
+| [October 16 at 2:59 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T14:59:10.876412-04:00.accessibility.json) |
+| [October 16 at 3:22 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T03:22:14.193350-04:00.accessibility.json) |
+| [October 15 at 3:21 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T15:21:55.253401-04:00.accessibility.json) |
+| [October 15 at 3:50 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T03:50:37.077888-04:00.accessibility.json) |
+| [October 14 at 4:27 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T16:27:34.582094-04:00.accessibility.json) |
 | [October 14 at 4:00 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T04:00:50.964725-04:00.accessibility.json) |
 | [October 13 at 4:08 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-13T16:08:01.614826-04:00.accessibility.json) |
 | [October 13 at 3:21 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-13T03:21:45.481340-04:00.accessibility.json) |
 | [October 12 at 3:17 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-12T15:17:17.711516-04:00.accessibility.json) |
-| [October 12 at 4:04 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-12T04:04:48.742200-04:00.accessibility.json) |
-| [October 11 at 3:12 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T15:12:03.259449-04:00.accessibility.json) |
-| [October 11 at 4:06 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T04:06:17.878393-04:00.accessibility.json) |
-| [October 10 at 3:46 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T15:46:41.387565-04:00.accessibility.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T04:34:21.761224-04:00.accessibility.json) |
-| [October 9 at 3:20 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-09T15:20:22.992744-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:56 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-17T03:56:05.128680-04:00.lighthouse.json) |
+| [October 16 at 2:59 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T14:59:10.876412-04:00.lighthouse.json) |
+| [October 16 at 3:22 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-16T03:22:14.193350-04:00.lighthouse.json) |
+| [October 15 at 3:22 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T15:21:55.253401-04:00.lighthouse.json) |
+| [October 15 at 3:50 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-15T03:50:37.077888-04:00.lighthouse.json) |
+| [October 14 at 4:27 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T16:27:34.582094-04:00.lighthouse.json) |
 | [October 14 at 4:01 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-14T04:00:50.964725-04:00.lighthouse.json) |
 | [October 13 at 4:08 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-13T16:08:01.614826-04:00.lighthouse.json) |
 | [October 13 at 3:21 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-13T03:21:45.481340-04:00.lighthouse.json) |
 | [October 12 at 3:17 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-12T15:17:17.711516-04:00.lighthouse.json) |
-| [October 12 at 4:04 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-12T04:04:48.742200-04:00.lighthouse.json) |
-| [October 11 at 3:12 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T15:12:03.259449-04:00.lighthouse.json) |
-| [October 11 at 4:06 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-11T04:06:17.878393-04:00.lighthouse.json) |
-| [October 10 at 3:46 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T15:46:41.387565-04:00.lighthouse.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-10T04:34:21.761224-04:00.lighthouse.json) |
-| [October 9 at 3:20 PM](https://archive.org/download/pressconnects-2022/pressconnects-2022-10-09T15:20:22.992744-04:00.lighthouse.json) |
 
 
 

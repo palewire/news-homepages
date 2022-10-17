@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 50 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-17T00:50:18.791157-07:00.jpg">
+  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-17T00:50:18.791157-07:00.jpg"
+     alt="Visalia Times Delta at 2022-10-17 00:50:21-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-17T00:50:18.791157-07:00.jpg">October 17 at 12:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T11:54:26.869226-07:00.jpg">
+  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T11:54:26.869226-07:00.jpg"
+     alt="Visalia Times Delta at 2022-10-16 11:54:30-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T11:54:26.869226-07:00.jpg">October 16 at 11:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T00:31:02.209651-07:00.jpg">
+  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T00:31:02.209651-07:00.jpg"
+     alt="Visalia Times Delta at 2022-10-16 00:31:06-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T00:31:02.209651-07:00.jpg">October 16 at 12:31 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T12:56:44.720421-07:00.jpg">
+  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T12:56:44.720421-07:00.jpg"
+     alt="Visalia Times Delta at 2022-10-15 12:56:48-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T12:56:44.720421-07:00.jpg">October 15 at 12:56 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T01:01:14.159594-07:00.jpg">
   <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T01:01:14.159594-07:00.jpg"
      alt="Visalia Times Delta at 2022-10-15 01:01:15-07:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T12:21:17.487403-07:00.jpg">October 11 at 12:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T01:13:33.267750-07:00.jpg">
-  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T01:13:33.267750-07:00.jpg"
-     alt="Visalia Times Delta at 2022-10-11 01:13:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T01:13:33.267750-07:00.jpg">October 11 at 1:13 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-10T13:15:30.582623-07:00.jpg">
-  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-10T13:15:30.582623-07:00.jpg"
-     alt="Visalia Times Delta at 2022-10-10 13:15:35-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-10T13:15:30.582623-07:00.jpg">October 10 at 1:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-10T01:28:13.119274-07:00.jpg">
-  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-10T01:28:13.119274-07:00.jpg"
-     alt="Visalia Times Delta at 2022-10-10 01:28:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-10T01:28:13.119274-07:00.jpg">October 10 at 1:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-09T13:02:15.843348-07:00.jpg">
-  <img src="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-09T13:02:15.843348-07:00.jpg"
-     alt="Visalia Times Delta at 2022-10-09 13:02:19-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vtdnews-2022/vtdnews-2022-10-09T13:02:15.843348-07:00.jpg">October 9 at 1:02 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 50 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 12:50 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-17T00:50:18.791157-07:00.hyperlinks.json) |
+| [October 16 at 11:54 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T11:54:26.869226-07:00.hyperlinks.json) |
+| [October 16 at 12:31 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T00:31:02.209651-07:00.hyperlinks.json) |
+| [October 15 at 12:56 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T12:56:44.720421-07:00.hyperlinks.json) |
 | [October 15 at 1:01 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T01:01:14.159594-07:00.hyperlinks.json) |
 | [October 14 at 1:37 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-14T13:37:00.407914-07:00.hyperlinks.json) |
 | [October 14 at 1:10 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-14T01:10:44.943263-07:00.hyperlinks.json) |
 | [October 13 at 1:18 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-13T13:18:31.419612-07:00.hyperlinks.json) |
 | [October 13 at 12:28 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-13T00:28:20.618328-07:00.hyperlinks.json) |
 | [October 12 at 11:52 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-12T11:52:14.027951-07:00.hyperlinks.json) |
-| [October 12 at 1:11 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-12T01:11:31.368168-07:00.hyperlinks.json) |
-| [October 11 at 12:21 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T12:21:17.487403-07:00.hyperlinks.json) |
-| [October 11 at 1:13 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T01:13:33.267750-07:00.hyperlinks.json) |
-| [October 10 at 1:15 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-10T13:15:30.582623-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 50 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 12:50 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-17T00:50:18.791157-07:00.accessibility.json) |
+| [October 16 at 11:54 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T11:54:26.869226-07:00.accessibility.json) |
+| [October 16 at 12:31 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T00:31:02.209651-07:00.accessibility.json) |
+| [October 15 at 12:56 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T12:56:44.720421-07:00.accessibility.json) |
 | [October 15 at 1:01 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T01:01:14.159594-07:00.accessibility.json) |
 | [October 14 at 1:37 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-14T13:37:00.407914-07:00.accessibility.json) |
 | [October 14 at 1:10 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-14T01:10:44.943263-07:00.accessibility.json) |
 | [October 13 at 1:18 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-13T13:18:31.419612-07:00.accessibility.json) |
 | [October 13 at 12:28 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-13T00:28:20.618328-07:00.accessibility.json) |
 | [October 12 at 11:52 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-12T11:52:14.027951-07:00.accessibility.json) |
-| [October 12 at 1:11 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-12T01:11:31.368168-07:00.accessibility.json) |
-| [October 11 at 12:21 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T12:21:17.487403-07:00.accessibility.json) |
-| [October 11 at 1:13 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T01:13:33.267750-07:00.accessibility.json) |
-| [October 10 at 1:15 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-10T13:15:30.582623-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 50 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 12:50 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-17T00:50:18.791157-07:00.lighthouse.json) |
+| [October 16 at 11:54 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T11:54:26.869226-07:00.lighthouse.json) |
+| [October 16 at 12:31 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-16T00:31:02.209651-07:00.lighthouse.json) |
+| [October 15 at 12:56 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T12:56:44.720421-07:00.lighthouse.json) |
 | [October 15 at 1:01 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-15T01:01:14.159594-07:00.lighthouse.json) |
 | [October 14 at 1:37 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-14T13:37:00.407914-07:00.lighthouse.json) |
 | [October 14 at 1:10 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-14T01:10:44.943263-07:00.lighthouse.json) |
 | [October 13 at 1:18 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-13T13:18:31.419612-07:00.lighthouse.json) |
 | [October 13 at 12:28 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-13T00:28:20.618328-07:00.lighthouse.json) |
 | [October 12 at 11:52 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-12T11:52:14.027951-07:00.lighthouse.json) |
-| [October 12 at 1:11 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-12T01:11:31.368168-07:00.lighthouse.json) |
-| [October 11 at 12:21 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T12:21:17.487403-07:00.lighthouse.json) |
-| [October 11 at 1:13 AM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-11T01:13:33.267750-07:00.lighthouse.json) |
-| [October 10 at 1:15 PM](https://archive.org/download/vtdnews-2022/vtdnews-2022-10-10T13:15:30.582623-07:00.lighthouse.json) |
 
 
 

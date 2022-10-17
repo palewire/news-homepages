@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 62 screenshots with the Internet Archive.
+The archiving routine has saved 66 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,42 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-17T03:51:43.761889-04:00.jpg">
+  <img src="https://archive.org/download/wnpr-2022/wnpr-2022-10-17T03:51:43.761889-04:00.jpg"
+     alt="Connecticut Public at 2022-10-17 03:51:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-17T03:51:43.761889-04:00.jpg">October 17 at 3:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-16T14:55:05.286206-04:00.jpg">
+  <img src="https://archive.org/download/wnpr-2022/wnpr-2022-10-16T14:55:05.286206-04:00.jpg"
+     alt="Connecticut Public at 2022-10-16 14:55:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-16T14:55:05.286206-04:00.jpg">October 16 at 2:55 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-16T03:30:11.392079-04:00.jpg">
+  <img src="https://archive.org/download/wnpr-2022/wnpr-2022-10-16T03:30:11.392079-04:00.jpg"
+     alt="Connecticut Public at 2022-10-16 03:30:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-16T03:30:11.392079-04:00.jpg">October 16 at 3:30 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-15T15:57:26.243945-04:00.jpg">
+  <img src="https://archive.org/download/wnpr-2022/wnpr-2022-10-15T15:57:26.243945-04:00.jpg"
+     alt="Connecticut Public at 2022-10-15 15:57:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-15T15:57:26.243945-04:00.jpg">October 15 at 3:57 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-15T04:00:34.409945-04:00.jpg">
   <img src="https://archive.org/download/wnpr-2022/wnpr-2022-10-15T04:00:34.409945-04:00.jpg"
      alt="Connecticut Public at 2022-10-15 04:00:36-04:00 local time"
@@ -397,47 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-11T15:21:22.462712-04:00.jpg">October 11 at 3:21 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-11T04:14:43.989717-04:00.jpg">
-  <img src="https://archive.org/download/wnpr-2022/wnpr-2022-10-11T04:14:43.989717-04:00.jpg"
-     alt="Connecticut Public at 2022-10-11 04:14:48-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-11T04:14:43.989717-04:00.jpg">October 11 at 4:14 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-10T16:15:17.873168-04:00.jpg">
-  <img src="https://archive.org/download/wnpr-2022/wnpr-2022-10-10T16:15:17.873168-04:00.jpg"
-     alt="Connecticut Public at 2022-10-10 16:15:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-10T16:15:17.873168-04:00.jpg">October 10 at 4:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-10T04:28:05.181487-04:00.jpg">
-  <img src="https://archive.org/download/wnpr-2022/wnpr-2022-10-10T04:28:05.181487-04:00.jpg"
-     alt="Connecticut Public at 2022-10-10 04:28:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-10T04:28:05.181487-04:00.jpg">October 10 at 4:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-09T16:01:17.554730-04:00.jpg">
-  <img src="https://archive.org/download/wnpr-2022/wnpr-2022-10-09T16:01:17.554730-04:00.jpg"
-     alt="Connecticut Public at 2022-10-09 16:01:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wnpr-2022/wnpr-2022-10-09T16:01:17.554730-04:00.jpg">October 9 at 4:01 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 62 hyperlink lists with the Internet Archive.
+The archiving routine has saved 66 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 3:51 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-17T03:51:43.761889-04:00.hyperlinks.json) |
+| [October 16 at 2:55 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-16T14:55:05.286206-04:00.hyperlinks.json) |
+| [October 16 at 3:30 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-16T03:30:11.392079-04:00.hyperlinks.json) |
+| [October 15 at 3:57 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-15T15:57:26.243945-04:00.hyperlinks.json) |
 | [October 15 at 4:00 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-15T04:00:34.409945-04:00.hyperlinks.json) |
 | [October 14 at 4:37 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-14T16:36:48.166045-04:00.hyperlinks.json) |
 | [October 14 at 4:10 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-14T04:10:09.158130-04:00.hyperlinks.json) |
 | [October 13 at 4:21 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-13T16:21:29.729844-04:00.hyperlinks.json) |
 | [October 13 at 3:30 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-13T03:30:00.011260-04:00.hyperlinks.json) |
 | [October 12 at 2:52 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-12T14:52:37.420093-04:00.hyperlinks.json) |
-| [October 12 at 4:14 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-12T04:14:42.239557-04:00.hyperlinks.json) |
-| [October 11 at 3:21 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-11T15:21:22.462712-04:00.hyperlinks.json) |
-| [October 11 at 4:14 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-11T04:14:43.989717-04:00.hyperlinks.json) |
-| [October 10 at 4:15 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-10T16:15:17.873168-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 63 accessibility trees with the Internet Archive.
+The archiving routine has saved 67 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 3:51 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-17T03:51:43.761889-04:00.accessibility.json) |
+| [October 16 at 2:55 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-16T14:55:05.286206-04:00.accessibility.json) |
+| [October 16 at 3:30 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-16T03:30:11.392079-04:00.accessibility.json) |
+| [October 15 at 3:57 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-15T15:57:26.243945-04:00.accessibility.json) |
 | [October 15 at 4:00 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-15T04:00:34.409945-04:00.accessibility.json) |
 | [October 14 at 4:37 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-14T16:36:48.166045-04:00.accessibility.json) |
 | [October 14 at 4:10 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-14T04:10:09.158130-04:00.accessibility.json) |
 | [October 13 at 4:21 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-13T16:21:29.729844-04:00.accessibility.json) |
 | [October 13 at 3:30 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-13T03:30:00.011260-04:00.accessibility.json) |
 | [October 12 at 2:52 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-12T14:52:37.420093-04:00.accessibility.json) |
-| [October 12 at 4:14 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-12T04:14:42.239557-04:00.accessibility.json) |
-| [October 11 at 3:21 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-11T15:21:22.462712-04:00.accessibility.json) |
-| [October 11 at 4:14 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-11T04:14:43.989717-04:00.accessibility.json) |
-| [October 10 at 4:15 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-10T16:15:17.873168-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 63 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 67 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:51 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-17T03:51:43.761889-04:00.lighthouse.json) |
+| [October 16 at 2:55 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-16T14:55:05.286206-04:00.lighthouse.json) |
+| [October 16 at 3:30 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-16T03:30:11.392079-04:00.lighthouse.json) |
+| [October 15 at 3:57 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-15T15:57:26.243945-04:00.lighthouse.json) |
 | [October 15 at 4:00 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-15T04:00:34.409945-04:00.lighthouse.json) |
 | [October 14 at 4:37 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-14T16:36:48.166045-04:00.lighthouse.json) |
 | [October 14 at 4:10 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-14T04:10:09.158130-04:00.lighthouse.json) |
 | [October 13 at 4:21 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-13T16:21:29.729844-04:00.lighthouse.json) |
 | [October 13 at 3:30 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-13T03:30:00.011260-04:00.lighthouse.json) |
 | [October 12 at 2:52 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-12T14:52:37.420093-04:00.lighthouse.json) |
-| [October 12 at 4:14 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-12T04:14:42.239557-04:00.lighthouse.json) |
-| [October 11 at 3:21 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-11T15:21:22.462712-04:00.lighthouse.json) |
-| [October 11 at 4:14 AM](https://archive.org/download/wnpr-2022/wnpr-2022-10-11T04:14:43.989717-04:00.lighthouse.json) |
-| [October 10 at 4:15 PM](https://archive.org/download/wnpr-2022/wnpr-2022-10-10T16:15:17.873168-04:00.lighthouse.json) |
 
 
 

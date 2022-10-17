@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 223 screenshots with the Internet Archive.
+The archiving routine has saved 229 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/politico-2022/politico-2022-10-17T03:54:01.731072-04:00.jpg">
+  <img src="https://archive.org/download/politico-2022/politico-2022-10-17T03:54:01.731072-04:00.jpg"
+     alt="POLITICO at 2022-10-17 03:54:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-10-17T03:54:01.731072-04:00.jpg">October 17 at 3:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politico-2022/politico-2022-10-16T14:58:40.566371-04:00.jpg">
+  <img src="https://archive.org/download/politico-2022/politico-2022-10-16T14:58:40.566371-04:00.jpg"
+     alt="POLITICO at 2022-10-16 14:58:46-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-10-16T14:58:40.566371-04:00.jpg">October 16 at 2:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politico-2022/politico-2022-10-16T03:21:24.141374-04:00.jpg">
+  <img src="https://archive.org/download/politico-2022/politico-2022-10-16T03:21:24.141374-04:00.jpg"
+     alt="POLITICO at 2022-10-16 03:21:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-10-16T03:21:24.141374-04:00.jpg">October 16 at 3:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politico-2022/politico-2022-10-15T15:22:39.043820-04:00.jpg">
+  <img src="https://archive.org/download/politico-2022/politico-2022-10-15T15:22:39.043820-04:00.jpg"
+     alt="POLITICO at 2022-10-15 15:22:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-10-15T15:22:39.043820-04:00.jpg">October 15 at 3:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politico-2022/politico-2022-10-15T03:51:49.512930-04:00.jpg">
+  <img src="https://archive.org/download/politico-2022/politico-2022-10-15T03:51:49.512930-04:00.jpg"
+     alt="POLITICO at 2022-10-15 03:51:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-10-15T03:51:49.512930-04:00.jpg">October 15 at 3:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/politico-2022/politico-2022-10-14T16:25:07.305963-04:00.jpg">
+  <img src="https://archive.org/download/politico-2022/politico-2022-10-14T16:25:07.305963-04:00.jpg"
+     alt="POLITICO at 2022-10-14 16:25:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/politico-2022/politico-2022-10-14T16:25:07.305963-04:00.jpg">October 14 at 4:25 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/politico-2022/politico-2022-10-14T04:01:21.476862-04:00.jpg">
   <img src="https://archive.org/download/politico-2022/politico-2022-10-14T04:01:21.476862-04:00.jpg"
      alt="POLITICO at 2022-10-14 04:01:30-04:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/politico-2022/politico-2022-10-11T15:11:50.244579-04:00.jpg">October 11 at 3:12 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/politico-2022/politico-2022-10-11T04:06:55.837114-04:00.jpg">
-  <img src="https://archive.org/download/politico-2022/politico-2022-10-11T04:06:55.837114-04:00.jpg"
-     alt="POLITICO at 2022-10-11 04:07:02-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-10-11T04:06:55.837114-04:00.jpg">October 11 at 4:07 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/politico-2022/politico-2022-10-10T15:46:37.726097-04:00.jpg">
-  <img src="https://archive.org/download/politico-2022/politico-2022-10-10T15:46:37.726097-04:00.jpg"
-     alt="POLITICO at 2022-10-10 15:46:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-10-10T15:46:37.726097-04:00.jpg">October 10 at 3:46 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/politico-2022/politico-2022-10-10T04:34:00.244321-04:00.jpg">
-  <img src="https://archive.org/download/politico-2022/politico-2022-10-10T04:34:00.244321-04:00.jpg"
-     alt="POLITICO at 2022-10-10 04:34:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-10-10T04:34:00.244321-04:00.jpg">October 10 at 4:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/politico-2022/politico-2022-10-09T15:20:09.258872-04:00.jpg">
-  <img src="https://archive.org/download/politico-2022/politico-2022-10-09T15:20:09.258872-04:00.jpg"
-     alt="POLITICO at 2022-10-09 15:20:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-10-09T15:20:09.258872-04:00.jpg">October 9 at 3:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/politico-2022/politico-2022-10-09T03:25:38.936581-04:00.jpg">
-  <img src="https://archive.org/download/politico-2022/politico-2022-10-09T03:25:38.936581-04:00.jpg"
-     alt="POLITICO at 2022-10-09 03:25:45-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-10-09T03:25:38.936581-04:00.jpg">October 9 at 3:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/politico-2022/politico-2022-10-08T15:15:19.210461-04:00.jpg">
-  <img src="https://archive.org/download/politico-2022/politico-2022-10-08T15:15:19.210461-04:00.jpg"
-     alt="POLITICO at 2022-10-08 15:15:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/politico-2022/politico-2022-10-08T15:15:19.210461-04:00.jpg">October 8 at 3:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 220 hyperlink lists with the Internet Archive.
+The archiving routine has saved 226 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 3:54 AM](https://archive.org/download/politico-2022/politico-2022-10-17T03:54:01.731072-04:00.hyperlinks.json) |
+| [October 16 at 2:58 PM](https://archive.org/download/politico-2022/politico-2022-10-16T14:58:40.566371-04:00.hyperlinks.json) |
+| [October 16 at 3:21 AM](https://archive.org/download/politico-2022/politico-2022-10-16T03:21:24.141374-04:00.hyperlinks.json) |
+| [October 15 at 3:22 PM](https://archive.org/download/politico-2022/politico-2022-10-15T15:22:39.043820-04:00.hyperlinks.json) |
+| [October 15 at 3:51 AM](https://archive.org/download/politico-2022/politico-2022-10-15T03:51:49.512930-04:00.hyperlinks.json) |
+| [October 14 at 4:25 PM](https://archive.org/download/politico-2022/politico-2022-10-14T16:25:07.305963-04:00.hyperlinks.json) |
 | [October 14 at 4:01 AM](https://archive.org/download/politico-2022/politico-2022-10-14T04:01:21.476862-04:00.hyperlinks.json) |
 | [October 13 at 4:07 PM](https://archive.org/download/politico-2022/politico-2022-10-13T16:06:44.668999-04:00.hyperlinks.json) |
 | [October 13 at 3:20 AM](https://archive.org/download/politico-2022/politico-2022-10-13T03:20:14.874884-04:00.hyperlinks.json) |
 | [October 12 at 3:16 PM](https://archive.org/download/politico-2022/politico-2022-10-12T15:16:47.117329-04:00.hyperlinks.json) |
-| [October 12 at 4:03 AM](https://archive.org/download/politico-2022/politico-2022-10-12T04:03:25.579487-04:00.hyperlinks.json) |
-| [October 11 at 3:12 PM](https://archive.org/download/politico-2022/politico-2022-10-11T15:11:50.244579-04:00.hyperlinks.json) |
-| [October 11 at 4:07 AM](https://archive.org/download/politico-2022/politico-2022-10-11T04:06:55.837114-04:00.hyperlinks.json) |
-| [October 10 at 3:46 PM](https://archive.org/download/politico-2022/politico-2022-10-10T15:46:37.726097-04:00.hyperlinks.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/politico-2022/politico-2022-10-10T04:34:00.244321-04:00.hyperlinks.json) |
-| [October 9 at 3:20 PM](https://archive.org/download/politico-2022/politico-2022-10-09T15:20:09.258872-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 224 accessibility trees with the Internet Archive.
+The archiving routine has saved 230 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 3:54 AM](https://archive.org/download/politico-2022/politico-2022-10-17T03:54:01.731072-04:00.accessibility.json) |
+| [October 16 at 2:58 PM](https://archive.org/download/politico-2022/politico-2022-10-16T14:58:40.566371-04:00.accessibility.json) |
+| [October 16 at 3:21 AM](https://archive.org/download/politico-2022/politico-2022-10-16T03:21:24.141374-04:00.accessibility.json) |
+| [October 15 at 3:22 PM](https://archive.org/download/politico-2022/politico-2022-10-15T15:22:39.043820-04:00.accessibility.json) |
+| [October 15 at 3:51 AM](https://archive.org/download/politico-2022/politico-2022-10-15T03:51:49.512930-04:00.accessibility.json) |
+| [October 14 at 4:25 PM](https://archive.org/download/politico-2022/politico-2022-10-14T16:25:07.305963-04:00.accessibility.json) |
 | [October 14 at 4:01 AM](https://archive.org/download/politico-2022/politico-2022-10-14T04:01:21.476862-04:00.accessibility.json) |
 | [October 13 at 4:06 PM](https://archive.org/download/politico-2022/politico-2022-10-13T16:06:44.668999-04:00.accessibility.json) |
 | [October 13 at 3:20 AM](https://archive.org/download/politico-2022/politico-2022-10-13T03:20:14.874884-04:00.accessibility.json) |
 | [October 12 at 3:16 PM](https://archive.org/download/politico-2022/politico-2022-10-12T15:16:47.117329-04:00.accessibility.json) |
-| [October 12 at 4:03 AM](https://archive.org/download/politico-2022/politico-2022-10-12T04:03:25.579487-04:00.accessibility.json) |
-| [October 11 at 3:12 PM](https://archive.org/download/politico-2022/politico-2022-10-11T15:11:50.244579-04:00.accessibility.json) |
-| [October 11 at 4:07 AM](https://archive.org/download/politico-2022/politico-2022-10-11T04:06:55.837114-04:00.accessibility.json) |
-| [October 10 at 3:46 PM](https://archive.org/download/politico-2022/politico-2022-10-10T15:46:37.726097-04:00.accessibility.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/politico-2022/politico-2022-10-10T04:34:00.244321-04:00.accessibility.json) |
-| [October 9 at 3:20 PM](https://archive.org/download/politico-2022/politico-2022-10-09T15:20:09.258872-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 163 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:54 AM](https://archive.org/download/politico-2022/politico-2022-10-17T03:54:01.731072-04:00.lighthouse.json) |
+| [October 16 at 2:58 PM](https://archive.org/download/politico-2022/politico-2022-10-16T14:58:40.566371-04:00.lighthouse.json) |
+| [October 16 at 3:21 AM](https://archive.org/download/politico-2022/politico-2022-10-16T03:21:24.141374-04:00.lighthouse.json) |
+| [October 15 at 3:22 PM](https://archive.org/download/politico-2022/politico-2022-10-15T15:22:39.043820-04:00.lighthouse.json) |
+| [October 15 at 3:51 AM](https://archive.org/download/politico-2022/politico-2022-10-15T03:51:49.512930-04:00.lighthouse.json) |
+| [October 14 at 4:25 PM](https://archive.org/download/politico-2022/politico-2022-10-14T16:25:07.305963-04:00.lighthouse.json) |
 | [October 14 at 4:01 AM](https://archive.org/download/politico-2022/politico-2022-10-14T04:01:21.476862-04:00.lighthouse.json) |
 | [October 13 at 4:07 PM](https://archive.org/download/politico-2022/politico-2022-10-13T16:06:44.668999-04:00.lighthouse.json) |
 | [October 13 at 3:20 AM](https://archive.org/download/politico-2022/politico-2022-10-13T03:20:14.874884-04:00.lighthouse.json) |
 | [October 12 at 3:17 PM](https://archive.org/download/politico-2022/politico-2022-10-12T15:16:47.117329-04:00.lighthouse.json) |
-| [October 12 at 4:03 AM](https://archive.org/download/politico-2022/politico-2022-10-12T04:03:25.579487-04:00.lighthouse.json) |
-| [October 11 at 3:12 PM](https://archive.org/download/politico-2022/politico-2022-10-11T15:11:50.244579-04:00.lighthouse.json) |
-| [October 11 at 4:07 AM](https://archive.org/download/politico-2022/politico-2022-10-11T04:06:55.837114-04:00.lighthouse.json) |
-| [October 10 at 3:46 PM](https://archive.org/download/politico-2022/politico-2022-10-10T15:46:37.726097-04:00.lighthouse.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/politico-2022/politico-2022-10-10T04:34:00.244321-04:00.lighthouse.json) |
-| [October 9 at 3:20 PM](https://archive.org/download/politico-2022/politico-2022-10-09T15:20:09.258872-04:00.lighthouse.json) |
 
 
 

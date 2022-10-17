@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-17T02:53:25.114412-05:00.jpg">
+  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-17T02:53:25.114412-05:00.jpg"
+     alt="Oshkosh Northwestern at 2022-10-17 02:53:31-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-17T02:53:25.114412-05:00.jpg">October 17 at 2:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-16T13:58:32.753386-05:00.jpg">
+  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-16T13:58:32.753386-05:00.jpg"
+     alt="Oshkosh Northwestern at 2022-10-16 13:58:34-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-16T13:58:32.753386-05:00.jpg">October 16 at 1:58 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-16T02:20:22.800608-05:00.jpg">
+  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-16T02:20:22.800608-05:00.jpg"
+     alt="Oshkosh Northwestern at 2022-10-16 02:20:23-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-16T02:20:22.800608-05:00.jpg">October 16 at 2:20 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-15T14:22:11.726767-05:00.jpg">
+  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-15T14:22:11.726767-05:00.jpg"
+     alt="Oshkosh Northwestern at 2022-10-15 14:22:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-15T14:22:11.726767-05:00.jpg">October 15 at 2:22 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-15T02:50:06.613257-05:00.jpg">
+  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-15T02:50:06.613257-05:00.jpg"
+     alt="Oshkosh Northwestern at 2022-10-15 02:50:11-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-15T02:50:06.613257-05:00.jpg">October 15 at 2:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-14T15:23:16.686804-05:00.jpg">
+  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-14T15:23:16.686804-05:00.jpg"
+     alt="Oshkosh Northwestern at 2022-10-14 15:23:20-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-14T15:23:16.686804-05:00.jpg">October 14 at 3:23 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-14T02:59:25.705954-05:00.jpg">
   <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-14T02:59:25.705954-05:00.jpg"
      alt="Oshkosh Northwestern at 2022-10-14 02:59:29-05:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-11T14:09:09.984566-05:00.jpg">October 11 at 2:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-11T03:03:48.079668-05:00.jpg">
-  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-11T03:03:48.079668-05:00.jpg"
-     alt="Oshkosh Northwestern at 2022-10-11 03:03:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-11T03:03:48.079668-05:00.jpg">October 11 at 3:03 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-10T14:41:40.376963-05:00.jpg">
-  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-10T14:41:40.376963-05:00.jpg"
-     alt="Oshkosh Northwestern at 2022-10-10 14:41:43-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-10T14:41:40.376963-05:00.jpg">October 10 at 2:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-10T03:34:16.096308-05:00.jpg">
-  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-10T03:34:16.096308-05:00.jpg"
-     alt="Oshkosh Northwestern at 2022-10-10 03:34:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-10T03:34:16.096308-05:00.jpg">October 10 at 3:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-09T14:16:43.708999-05:00.jpg">
-  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-09T14:16:43.708999-05:00.jpg"
-     alt="Oshkosh Northwestern at 2022-10-09 14:16:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-09T14:16:43.708999-05:00.jpg">October 9 at 2:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-09T02:25:18.981446-05:00.jpg">
-  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-09T02:25:18.981446-05:00.jpg"
-     alt="Oshkosh Northwestern at 2022-10-09 02:25:22-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-09T02:25:18.981446-05:00.jpg">October 9 at 2:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-08T14:15:07.639411-05:00.jpg">
-  <img src="https://archive.org/download/onwnews-2022/onwnews-2022-10-08T14:15:07.639411-05:00.jpg"
-     alt="Oshkosh Northwestern at 2022-10-08 14:15:10-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/onwnews-2022/onwnews-2022-10-08T14:15:07.639411-05:00.jpg">October 8 at 2:15 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 47 hyperlink lists with the Internet Archive.
+The archiving routine has saved 53 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:53 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-17T02:53:25.114412-05:00.hyperlinks.json) |
+| [October 16 at 1:58 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-16T13:58:32.753386-05:00.hyperlinks.json) |
+| [October 16 at 2:20 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-16T02:20:22.800608-05:00.hyperlinks.json) |
+| [October 15 at 2:22 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-15T14:22:11.726767-05:00.hyperlinks.json) |
+| [October 15 at 2:50 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-15T02:50:06.613257-05:00.hyperlinks.json) |
+| [October 14 at 3:23 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-14T15:23:16.686804-05:00.hyperlinks.json) |
 | [October 14 at 2:59 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-14T02:59:25.705954-05:00.hyperlinks.json) |
 | [October 13 at 3:04 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-13T15:03:54.811177-05:00.hyperlinks.json) |
 | [October 13 at 2:20 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-13T02:20:17.227680-05:00.hyperlinks.json) |
 | [October 12 at 2:17 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-12T14:17:15.129926-05:00.hyperlinks.json) |
-| [October 12 at 3:02 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-12T03:02:17.139226-05:00.hyperlinks.json) |
-| [October 11 at 2:09 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-11T14:09:09.984566-05:00.hyperlinks.json) |
-| [October 11 at 3:03 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-11T03:03:48.079668-05:00.hyperlinks.json) |
-| [October 10 at 2:41 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-10T14:41:40.376963-05:00.hyperlinks.json) |
-| [October 10 at 3:34 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-10T03:34:16.096308-05:00.hyperlinks.json) |
-| [October 9 at 2:16 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-09T14:16:43.708999-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:53 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-17T02:53:25.114412-05:00.accessibility.json) |
+| [October 16 at 1:58 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-16T13:58:32.753386-05:00.accessibility.json) |
+| [October 16 at 2:20 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-16T02:20:22.800608-05:00.accessibility.json) |
+| [October 15 at 2:22 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-15T14:22:11.726767-05:00.accessibility.json) |
+| [October 15 at 2:50 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-15T02:50:06.613257-05:00.accessibility.json) |
+| [October 14 at 3:23 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-14T15:23:16.686804-05:00.accessibility.json) |
 | [October 14 at 2:59 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-14T02:59:25.705954-05:00.accessibility.json) |
 | [October 13 at 3:04 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-13T15:03:54.811177-05:00.accessibility.json) |
 | [October 13 at 2:20 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-13T02:20:17.227680-05:00.accessibility.json) |
 | [October 12 at 2:17 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-12T14:17:15.129926-05:00.accessibility.json) |
-| [October 12 at 3:02 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-12T03:02:17.139226-05:00.accessibility.json) |
-| [October 11 at 2:09 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-11T14:09:09.984566-05:00.accessibility.json) |
-| [October 11 at 3:03 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-11T03:03:48.079668-05:00.accessibility.json) |
-| [October 10 at 2:41 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-10T14:41:40.376963-05:00.accessibility.json) |
-| [October 10 at 3:34 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-10T03:34:16.096308-05:00.accessibility.json) |
-| [October 9 at 2:16 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-09T14:16:43.708999-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:53 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-17T02:53:25.114412-05:00.lighthouse.json) |
+| [October 16 at 1:58 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-16T13:58:32.753386-05:00.lighthouse.json) |
+| [October 16 at 2:20 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-16T02:20:22.800608-05:00.lighthouse.json) |
+| [October 15 at 2:22 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-15T14:22:11.726767-05:00.lighthouse.json) |
+| [October 15 at 2:50 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-15T02:50:06.613257-05:00.lighthouse.json) |
+| [October 14 at 3:23 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-14T15:23:16.686804-05:00.lighthouse.json) |
 | [October 14 at 2:59 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-14T02:59:25.705954-05:00.lighthouse.json) |
 | [October 13 at 3:04 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-13T15:03:54.811177-05:00.lighthouse.json) |
 | [October 13 at 2:20 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-13T02:20:17.227680-05:00.lighthouse.json) |
 | [October 12 at 2:17 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-12T14:17:15.129926-05:00.lighthouse.json) |
-| [October 12 at 3:02 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-12T03:02:17.139226-05:00.lighthouse.json) |
-| [October 11 at 2:09 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-11T14:09:09.984566-05:00.lighthouse.json) |
-| [October 11 at 3:03 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-11T03:03:48.079668-05:00.lighthouse.json) |
-| [October 10 at 2:41 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-10T14:41:40.376963-05:00.lighthouse.json) |
-| [October 10 at 3:34 AM](https://archive.org/download/onwnews-2022/onwnews-2022-10-10T03:34:16.096308-05:00.lighthouse.json) |
-| [October 9 at 2:16 PM](https://archive.org/download/onwnews-2022/onwnews-2022-10-09T14:16:43.708999-05:00.lighthouse.json) |
 
 
 

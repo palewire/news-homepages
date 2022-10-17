@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 160 screenshots with the Internet Archive.
+The archiving routine has saved 166 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-17T03:52:16.701190-04:00.jpg">
+  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-17T03:52:16.701190-04:00.jpg"
+     alt="New Hampshire Public Radio at 2022-10-17 03:52:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-17T03:52:16.701190-04:00.jpg">October 17 at 3:52 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-16T14:57:11.575050-04:00.jpg">
+  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-16T14:57:11.575050-04:00.jpg"
+     alt="New Hampshire Public Radio at 2022-10-16 14:57:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-16T14:57:11.575050-04:00.jpg">October 16 at 2:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-16T03:19:33.858980-04:00.jpg">
+  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-16T03:19:33.858980-04:00.jpg"
+     alt="New Hampshire Public Radio at 2022-10-16 03:19:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-16T03:19:33.858980-04:00.jpg">October 16 at 3:19 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-15T15:19:57.405493-04:00.jpg">
+  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-15T15:19:57.405493-04:00.jpg"
+     alt="New Hampshire Public Radio at 2022-10-15 15:20:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-15T15:19:57.405493-04:00.jpg">October 15 at 3:20 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-15T03:48:12.976209-04:00.jpg">
+  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-15T03:48:12.976209-04:00.jpg"
+     alt="New Hampshire Public Radio at 2022-10-15 03:48:18-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-15T03:48:12.976209-04:00.jpg">October 15 at 3:48 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-14T16:21:10.807379-04:00.jpg">
+  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-14T16:21:10.807379-04:00.jpg"
+     alt="New Hampshire Public Radio at 2022-10-14 16:21:33-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-14T16:21:10.807379-04:00.jpg">October 14 at 4:21 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-14T03:58:27.461044-04:00.jpg">
   <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-14T03:58:27.461044-04:00.jpg"
      alt="New Hampshire Public Radio at 2022-10-14 03:58:38-04:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-11T15:08:05.975362-04:00.jpg">October 11 at 3:08 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-11T04:02:13.854046-04:00.jpg">
-  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-11T04:02:13.854046-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-10-11 04:02:35-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-11T04:02:13.854046-04:00.jpg">October 11 at 4:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-10T15:41:22.542844-04:00.jpg">
-  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-10T15:41:22.542844-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-10-10 15:41:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-10T15:41:22.542844-04:00.jpg">October 10 at 3:41 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-10T04:31:13.371635-04:00.jpg">
-  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-10T04:31:13.371635-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-10-10 04:31:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-10T04:31:13.371635-04:00.jpg">October 10 at 4:31 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-09T15:16:32.304577-04:00.jpg">
-  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-09T15:16:32.304577-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-10-09 15:16:46-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-09T15:16:32.304577-04:00.jpg">October 9 at 3:16 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-09T03:24:19.386438-04:00.jpg">
-  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-09T03:24:19.386438-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-10-09 03:24:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-09T03:24:19.386438-04:00.jpg">October 9 at 3:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-08T15:12:59.598162-04:00.jpg">
-  <img src="https://archive.org/download/nhpr-2022/nhpr-2022-10-08T15:12:59.598162-04:00.jpg"
-     alt="New Hampshire Public Radio at 2022-10-08 15:13:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nhpr-2022/nhpr-2022-10-08T15:12:59.598162-04:00.jpg">October 8 at 3:13 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 159 hyperlink lists with the Internet Archive.
+The archiving routine has saved 165 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 3:52 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-17T03:52:16.701190-04:00.hyperlinks.json) |
+| [October 16 at 2:57 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-16T14:57:11.575050-04:00.hyperlinks.json) |
+| [October 16 at 3:19 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-16T03:19:33.858980-04:00.hyperlinks.json) |
+| [October 15 at 3:20 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-15T15:19:57.405493-04:00.hyperlinks.json) |
+| [October 15 at 3:48 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-15T03:48:12.976209-04:00.hyperlinks.json) |
+| [October 14 at 4:21 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-14T16:21:10.807379-04:00.hyperlinks.json) |
 | [October 14 at 3:58 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-14T03:58:27.461044-04:00.hyperlinks.json) |
 | [October 13 at 3:18 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-13T03:18:16.865947-04:00.hyperlinks.json) |
 | [October 12 at 3:14 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-12T15:13:57.640475-04:00.hyperlinks.json) |
 | [October 12 at 4:00 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-12T04:00:15.470870-04:00.hyperlinks.json) |
-| [October 11 at 3:08 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-11T15:08:05.975362-04:00.hyperlinks.json) |
-| [October 11 at 4:02 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-11T04:02:13.854046-04:00.hyperlinks.json) |
-| [October 10 at 3:41 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-10T15:41:22.542844-04:00.hyperlinks.json) |
-| [October 10 at 4:31 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-10T04:31:13.371635-04:00.hyperlinks.json) |
-| [October 9 at 3:16 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-09T15:16:32.304577-04:00.hyperlinks.json) |
-| [October 9 at 3:24 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-09T03:24:19.386438-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 164 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 3:52 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-17T03:52:16.701190-04:00.accessibility.json) |
+| [October 16 at 2:57 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-16T14:57:11.575050-04:00.accessibility.json) |
+| [October 16 at 3:19 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-16T03:19:33.858980-04:00.accessibility.json) |
+| [October 15 at 3:20 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-15T15:19:57.405493-04:00.accessibility.json) |
+| [October 15 at 3:48 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-15T03:48:12.976209-04:00.accessibility.json) |
+| [October 14 at 4:21 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-14T16:21:10.807379-04:00.accessibility.json) |
 | [October 14 at 3:58 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-14T03:58:27.461044-04:00.accessibility.json) |
 | [October 13 at 4:04 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-13T16:04:13.240744-04:00.accessibility.json) |
 | [October 13 at 3:18 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-13T03:18:16.865947-04:00.accessibility.json) |
 | [October 12 at 3:14 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-12T15:13:57.640475-04:00.accessibility.json) |
-| [October 12 at 4:00 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-12T04:00:15.470870-04:00.accessibility.json) |
-| [October 11 at 3:08 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-11T15:08:05.975362-04:00.accessibility.json) |
-| [October 11 at 4:02 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-11T04:02:13.854046-04:00.accessibility.json) |
-| [October 10 at 3:41 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-10T15:41:22.542844-04:00.accessibility.json) |
-| [October 10 at 4:31 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-10T04:31:13.371635-04:00.accessibility.json) |
-| [October 9 at 3:16 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-09T15:16:32.304577-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 160 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 166 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:52 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-17T03:52:16.701190-04:00.lighthouse.json) |
+| [October 16 at 2:57 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-16T14:57:11.575050-04:00.lighthouse.json) |
+| [October 16 at 3:19 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-16T03:19:33.858980-04:00.lighthouse.json) |
+| [October 15 at 3:20 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-15T15:19:57.405493-04:00.lighthouse.json) |
+| [October 15 at 3:48 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-15T03:48:12.976209-04:00.lighthouse.json) |
+| [October 14 at 4:21 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-14T16:21:10.807379-04:00.lighthouse.json) |
 | [October 14 at 3:58 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-14T03:58:27.461044-04:00.lighthouse.json) |
 | [October 13 at 4:04 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-13T16:04:13.240744-04:00.lighthouse.json) |
 | [October 13 at 3:18 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-13T03:18:16.865947-04:00.lighthouse.json) |
 | [October 12 at 3:14 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-12T15:13:57.640475-04:00.lighthouse.json) |
-| [October 12 at 4:00 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-12T04:00:15.470870-04:00.lighthouse.json) |
-| [October 11 at 3:08 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-11T15:08:05.975362-04:00.lighthouse.json) |
-| [October 11 at 4:02 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-11T04:02:13.854046-04:00.lighthouse.json) |
-| [October 10 at 3:41 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-10T15:41:22.542844-04:00.lighthouse.json) |
-| [October 10 at 4:31 AM](https://archive.org/download/nhpr-2022/nhpr-2022-10-10T04:31:13.371635-04:00.lighthouse.json) |
-| [October 9 at 3:16 PM](https://archive.org/download/nhpr-2022/nhpr-2022-10-09T15:16:32.304577-04:00.lighthouse.json) |
 
 
 

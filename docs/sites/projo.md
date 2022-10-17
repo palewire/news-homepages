@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 48 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,60 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/projo-2022/projo-2022-10-17T03:55:19.659130-04:00.jpg">
+  <img src="https://archive.org/download/projo-2022/projo-2022-10-17T03:55:19.659130-04:00.jpg"
+     alt="The Providence Journal at 2022-10-17 03:55:25-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/projo-2022/projo-2022-10-17T03:55:19.659130-04:00.jpg">October 17 at 3:55 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/projo-2022/projo-2022-10-16T14:59:32.108710-04:00.jpg">
+  <img src="https://archive.org/download/projo-2022/projo-2022-10-16T14:59:32.108710-04:00.jpg"
+     alt="The Providence Journal at 2022-10-16 14:59:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/projo-2022/projo-2022-10-16T14:59:32.108710-04:00.jpg">October 16 at 2:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/projo-2022/projo-2022-10-16T03:22:05.264067-04:00.jpg">
+  <img src="https://archive.org/download/projo-2022/projo-2022-10-16T03:22:05.264067-04:00.jpg"
+     alt="The Providence Journal at 2022-10-16 03:22:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/projo-2022/projo-2022-10-16T03:22:05.264067-04:00.jpg">October 16 at 3:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/projo-2022/projo-2022-10-15T15:23:53.165541-04:00.jpg">
+  <img src="https://archive.org/download/projo-2022/projo-2022-10-15T15:23:53.165541-04:00.jpg"
+     alt="The Providence Journal at 2022-10-15 15:23:57-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/projo-2022/projo-2022-10-15T15:23:53.165541-04:00.jpg">October 15 at 3:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/projo-2022/projo-2022-10-15T03:50:48.196141-04:00.jpg">
+  <img src="https://archive.org/download/projo-2022/projo-2022-10-15T03:50:48.196141-04:00.jpg"
+     alt="The Providence Journal at 2022-10-15 03:50:51-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/projo-2022/projo-2022-10-15T03:50:48.196141-04:00.jpg">October 15 at 3:50 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/projo-2022/projo-2022-10-14T16:27:01.603732-04:00.jpg">
+  <img src="https://archive.org/download/projo-2022/projo-2022-10-14T16:27:01.603732-04:00.jpg"
+     alt="The Providence Journal at 2022-10-14 16:27:09-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/projo-2022/projo-2022-10-14T16:27:01.603732-04:00.jpg">October 14 at 4:27 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/projo-2022/projo-2022-10-14T04:01:32.796449-04:00.jpg">
   <img src="https://archive.org/download/projo-2022/projo-2022-10-14T04:01:32.796449-04:00.jpg"
      alt="The Providence Journal at 2022-10-14 04:01:36-04:00 local time"
@@ -379,65 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/projo-2022/projo-2022-10-11T15:11:47.675698-04:00.jpg">October 11 at 3:11 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/projo-2022/projo-2022-10-11T04:06:21.355349-04:00.jpg">
-  <img src="https://archive.org/download/projo-2022/projo-2022-10-11T04:06:21.355349-04:00.jpg"
-     alt="The Providence Journal at 2022-10-11 04:06:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/projo-2022/projo-2022-10-11T04:06:21.355349-04:00.jpg">October 11 at 4:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/projo-2022/projo-2022-10-10T15:47:37.862420-04:00.jpg">
-  <img src="https://archive.org/download/projo-2022/projo-2022-10-10T15:47:37.862420-04:00.jpg"
-     alt="The Providence Journal at 2022-10-10 15:47:43-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/projo-2022/projo-2022-10-10T15:47:37.862420-04:00.jpg">October 10 at 3:47 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/projo-2022/projo-2022-10-10T04:34:34.486358-04:00.jpg">
-  <img src="https://archive.org/download/projo-2022/projo-2022-10-10T04:34:34.486358-04:00.jpg"
-     alt="The Providence Journal at 2022-10-10 04:34:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/projo-2022/projo-2022-10-10T04:34:34.486358-04:00.jpg">October 10 at 4:34 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/projo-2022/projo-2022-10-09T15:22:12.244892-04:00.jpg">
-  <img src="https://archive.org/download/projo-2022/projo-2022-10-09T15:22:12.244892-04:00.jpg"
-     alt="The Providence Journal at 2022-10-09 15:22:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/projo-2022/projo-2022-10-09T15:22:12.244892-04:00.jpg">October 9 at 3:22 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/projo-2022/projo-2022-10-09T03:26:22.844185-04:00.jpg">
-  <img src="https://archive.org/download/projo-2022/projo-2022-10-09T03:26:22.844185-04:00.jpg"
-     alt="The Providence Journal at 2022-10-09 03:26:25-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/projo-2022/projo-2022-10-09T03:26:22.844185-04:00.jpg">October 9 at 3:26 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/projo-2022/projo-2022-10-08T15:17:24.159164-04:00.jpg">
-  <img src="https://archive.org/download/projo-2022/projo-2022-10-08T15:17:24.159164-04:00.jpg"
-     alt="The Providence Journal at 2022-10-08 15:17:28-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/projo-2022/projo-2022-10-08T15:17:24.159164-04:00.jpg">October 8 at 3:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 48 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,21 +528,21 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 3:55 AM](https://archive.org/download/projo-2022/projo-2022-10-17T03:55:19.659130-04:00.hyperlinks.json) |
+| [October 16 at 2:59 PM](https://archive.org/download/projo-2022/projo-2022-10-16T14:59:32.108710-04:00.hyperlinks.json) |
+| [October 16 at 3:22 AM](https://archive.org/download/projo-2022/projo-2022-10-16T03:22:05.264067-04:00.hyperlinks.json) |
+| [October 15 at 3:24 PM](https://archive.org/download/projo-2022/projo-2022-10-15T15:23:53.165541-04:00.hyperlinks.json) |
+| [October 15 at 3:50 AM](https://archive.org/download/projo-2022/projo-2022-10-15T03:50:48.196141-04:00.hyperlinks.json) |
+| [October 14 at 4:27 PM](https://archive.org/download/projo-2022/projo-2022-10-14T16:27:01.603732-04:00.hyperlinks.json) |
 | [October 14 at 4:01 AM](https://archive.org/download/projo-2022/projo-2022-10-14T04:01:32.796449-04:00.hyperlinks.json) |
 | [October 13 at 4:07 PM](https://archive.org/download/projo-2022/projo-2022-10-13T16:07:31.480179-04:00.hyperlinks.json) |
 | [October 13 at 3:21 AM](https://archive.org/download/projo-2022/projo-2022-10-13T03:21:06.297861-04:00.hyperlinks.json) |
 | [October 12 at 3:17 PM](https://archive.org/download/projo-2022/projo-2022-10-12T15:17:29.607232-04:00.hyperlinks.json) |
-| [October 12 at 4:05 AM](https://archive.org/download/projo-2022/projo-2022-10-12T04:04:58.575213-04:00.hyperlinks.json) |
-| [October 11 at 3:11 PM](https://archive.org/download/projo-2022/projo-2022-10-11T15:11:47.675698-04:00.hyperlinks.json) |
-| [October 11 at 4:06 AM](https://archive.org/download/projo-2022/projo-2022-10-11T04:06:21.355349-04:00.hyperlinks.json) |
-| [October 10 at 3:47 PM](https://archive.org/download/projo-2022/projo-2022-10-10T15:47:37.862420-04:00.hyperlinks.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/projo-2022/projo-2022-10-10T04:34:34.486358-04:00.hyperlinks.json) |
-| [October 9 at 3:22 PM](https://archive.org/download/projo-2022/projo-2022-10-09T15:22:12.244892-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 48 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,22 +633,22 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 3:55 AM](https://archive.org/download/projo-2022/projo-2022-10-17T03:55:19.659130-04:00.accessibility.json) |
+| [October 16 at 2:59 PM](https://archive.org/download/projo-2022/projo-2022-10-16T14:59:32.108710-04:00.accessibility.json) |
+| [October 16 at 3:22 AM](https://archive.org/download/projo-2022/projo-2022-10-16T03:22:05.264067-04:00.accessibility.json) |
+| [October 15 at 3:23 PM](https://archive.org/download/projo-2022/projo-2022-10-15T15:23:53.165541-04:00.accessibility.json) |
+| [October 15 at 3:50 AM](https://archive.org/download/projo-2022/projo-2022-10-15T03:50:48.196141-04:00.accessibility.json) |
+| [October 14 at 4:27 PM](https://archive.org/download/projo-2022/projo-2022-10-14T16:27:01.603732-04:00.accessibility.json) |
 | [October 14 at 4:01 AM](https://archive.org/download/projo-2022/projo-2022-10-14T04:01:32.796449-04:00.accessibility.json) |
 | [October 13 at 4:07 PM](https://archive.org/download/projo-2022/projo-2022-10-13T16:07:31.480179-04:00.accessibility.json) |
 | [October 13 at 3:21 AM](https://archive.org/download/projo-2022/projo-2022-10-13T03:21:06.297861-04:00.accessibility.json) |
 | [October 12 at 3:17 PM](https://archive.org/download/projo-2022/projo-2022-10-12T15:17:29.607232-04:00.accessibility.json) |
-| [October 12 at 4:05 AM](https://archive.org/download/projo-2022/projo-2022-10-12T04:04:58.575213-04:00.accessibility.json) |
-| [October 11 at 3:11 PM](https://archive.org/download/projo-2022/projo-2022-10-11T15:11:47.675698-04:00.accessibility.json) |
-| [October 11 at 4:06 AM](https://archive.org/download/projo-2022/projo-2022-10-11T04:06:21.355349-04:00.accessibility.json) |
-| [October 10 at 3:47 PM](https://archive.org/download/projo-2022/projo-2022-10-10T15:47:37.862420-04:00.accessibility.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/projo-2022/projo-2022-10-10T04:34:34.486358-04:00.accessibility.json) |
-| [October 9 at 3:22 PM](https://archive.org/download/projo-2022/projo-2022-10-09T15:22:12.244892-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 48 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,16 +739,16 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:55 AM](https://archive.org/download/projo-2022/projo-2022-10-17T03:55:19.659130-04:00.lighthouse.json) |
+| [October 16 at 2:59 PM](https://archive.org/download/projo-2022/projo-2022-10-16T14:59:32.108710-04:00.lighthouse.json) |
+| [October 16 at 3:22 AM](https://archive.org/download/projo-2022/projo-2022-10-16T03:22:05.264067-04:00.lighthouse.json) |
+| [October 15 at 3:24 PM](https://archive.org/download/projo-2022/projo-2022-10-15T15:23:53.165541-04:00.lighthouse.json) |
+| [October 15 at 3:50 AM](https://archive.org/download/projo-2022/projo-2022-10-15T03:50:48.196141-04:00.lighthouse.json) |
+| [October 14 at 4:27 PM](https://archive.org/download/projo-2022/projo-2022-10-14T16:27:01.603732-04:00.lighthouse.json) |
 | [October 14 at 4:01 AM](https://archive.org/download/projo-2022/projo-2022-10-14T04:01:32.796449-04:00.lighthouse.json) |
 | [October 13 at 4:07 PM](https://archive.org/download/projo-2022/projo-2022-10-13T16:07:31.480179-04:00.lighthouse.json) |
 | [October 13 at 3:21 AM](https://archive.org/download/projo-2022/projo-2022-10-13T03:21:06.297861-04:00.lighthouse.json) |
 | [October 12 at 3:17 PM](https://archive.org/download/projo-2022/projo-2022-10-12T15:17:29.607232-04:00.lighthouse.json) |
-| [October 12 at 4:05 AM](https://archive.org/download/projo-2022/projo-2022-10-12T04:04:58.575213-04:00.lighthouse.json) |
-| [October 11 at 3:11 PM](https://archive.org/download/projo-2022/projo-2022-10-11T15:11:47.675698-04:00.lighthouse.json) |
-| [October 11 at 4:06 AM](https://archive.org/download/projo-2022/projo-2022-10-11T04:06:21.355349-04:00.lighthouse.json) |
-| [October 10 at 3:47 PM](https://archive.org/download/projo-2022/projo-2022-10-10T15:47:37.862420-04:00.lighthouse.json) |
-| [October 10 at 4:34 AM](https://archive.org/download/projo-2022/projo-2022-10-10T04:34:34.486358-04:00.lighthouse.json) |
-| [October 9 at 3:22 PM](https://archive.org/download/projo-2022/projo-2022-10-09T15:22:12.244892-04:00.lighthouse.json) |
 
 
 
