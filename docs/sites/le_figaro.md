@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 454 screenshots with the Internet Archive.
+The archiving routine has saved 455 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 454 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-10-17T03:21:12.287279+02:00.jpg">
+  <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-10-17T03:21:12.287279+02:00.jpg"
+     alt="Le Figaro at 2022-10-17 03:21:40+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-10-17T03:21:12.287279+02:00.jpg">October 17 at 3:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T14:55:45.178440+02:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-10-13T10:28:19.036221+02:00.jpg">October 13 at 10:28 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-10-13T03:19:28.584293+02:00.jpg">
-  <img src="https://archive.org/download/le_figaro-2022/le_figaro-2022-10-13T03:19:28.584293+02:00.jpg"
-     alt="Le Figaro at 2022-10-13 03:19:57+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/le_figaro-2022/le_figaro-2022-10-13T03:19:28.584293+02:00.jpg">October 13 at 3:19 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 454 hyperlink lists with the Internet Archive.
+The archiving routine has saved 455 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 3:21 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-17T03:21:12.287279+02:00.hyperlinks.json) |
 | [October 16 at 2:55 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T14:55:45.178440+02:00.hyperlinks.json) |
 | [October 16 at 10:17 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T10:17:01.433797+02:00.hyperlinks.json) |
 | [October 16 at 3:37 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T03:36:57.541169+02:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 3:09 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-14T15:08:49.204869+02:00.hyperlinks.json) |
 | [October 14 at 10:25 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-14T10:25:46.074169+02:00.hyperlinks.json) |
 | [October 14 at 3:21 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-14T03:20:39.018310+02:00.hyperlinks.json) |
-| [October 13 at 2:58 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-13T14:58:36.156436+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 455 accessibility trees with the Internet Archive.
+The archiving routine has saved 456 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 3:21 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-17T03:21:12.287279+02:00.accessibility.json) |
 | [October 16 at 2:55 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T14:55:45.178440+02:00.accessibility.json) |
 | [October 16 at 10:17 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T10:17:01.433797+02:00.accessibility.json) |
 | [October 16 at 3:37 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T03:36:57.541169+02:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 3:09 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-14T15:08:49.204869+02:00.accessibility.json) |
 | [October 14 at 10:25 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-14T10:25:46.074169+02:00.accessibility.json) |
 | [October 14 at 3:21 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-14T03:20:39.018310+02:00.accessibility.json) |
-| [October 13 at 2:58 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-13T14:58:36.156436+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 253 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 254 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 3:21 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-17T03:21:12.287279+02:00.lighthouse.json) |
 | [October 16 at 2:55 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T14:55:45.178440+02:00.lighthouse.json) |
 | [October 16 at 10:17 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T10:17:01.433797+02:00.lighthouse.json) |
 | [October 16 at 3:37 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-16T03:36:57.541169+02:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 3:09 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-14T15:08:49.204869+02:00.lighthouse.json) |
 | [October 14 at 10:25 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-14T10:25:46.074169+02:00.lighthouse.json) |
 | [October 14 at 3:21 AM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-14T03:20:39.018310+02:00.lighthouse.json) |
-| [October 13 at 2:58 PM](https://archive.org/download/le_figaro-2022/le_figaro-2022-10-13T14:58:36.156436+02:00.lighthouse.json) |
 
 
 
