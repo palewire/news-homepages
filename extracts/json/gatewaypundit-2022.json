@@ -1,5 +1,5 @@
 {
-  "created": 1665948920,
+  "created": 1665993024,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -17548,31 +17548,93 @@
       "sha1": "e6262eac224282d4925aa5c443514f7e15efac70"
     },
     {
+      "name": "gatewaypundit-2022-10-17T01:26:24.526358-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665988014",
+      "size": "36287",
+      "md5": "0a4c3144b4ef76bc9d19b6bac68726dc",
+      "crc32": "a4a41f5a",
+      "sha1": "a459ddfc6c1011ddf5bc04cbb4f834c647613b68",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-17T01:26:24.526358-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665988016",
+      "size": "98555",
+      "md5": "1353048017fc05a7fab9cecdfde252e7",
+      "crc32": "cd7e32bd",
+      "sha1": "c65881f3b623b09306fcb7ad88b22a43da8655cf",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-17T01:26:24.526358-05:00.jpg",
+      "source": "original",
+      "mtime": "1665988013",
+      "size": "356440",
+      "md5": "2f1ba6b246c906cf0caffb5e51cc1079",
+      "crc32": "65555b2b",
+      "sha1": "ea67c99ddd612b34977ca550e4d4c90cf0470933",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gatewaypundit-2022-10-17T01:26:24.526358-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665988018",
+      "size": "1548",
+      "md5": "f70ed3842bd77c472e0a281d3730027d",
+      "crc32": "ade443c0",
+      "sha1": "6ab3bc34de04765a922468e051709b9de0b4bb9c",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-17T01:26:24.526358-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665988019",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-10-17T01:26:24.526358-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gatewaypundit-2022-10-17T01:26:24.526358-05:00.jpg",
+      "mtime": "1665988130",
+      "size": "11114",
+      "md5": "01eaa7cd584004a745a95debc0005753",
+      "crc32": "962dccef",
+      "sha1": "430daf6ed572d636eda85b6c19f9153d50c0209e"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a1673a75e04fe72680dd6d9ab3e539b1e27f190",
-      "mtime": "1665948892",
-      "size": "367140",
-      "md5": "e1099b9b8932d42450f289aab908e2d1",
-      "crc32": "16fde352",
-      "sha1": "a066d5bc48fd1cb4c7a79bcd81f4c5d439ecc395",
+      "btih": "b3f023e43eb82e8ef61807525dc85c4726112f00",
+      "mtime": "1665988200",
+      "size": "368436",
+      "md5": "1791eb4699db234721fe8aac86539fae",
+      "crc32": "760830c8",
+      "sha1": "738436242e2b40d7a714327f0d7d383f85410b94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b614e785cc24bd1678f4f717e8d874fc",
+      "md5": "be49f10cd14bd9a3e37a449302cff845",
       "summation": "md5"
     },
     {
       "name": "gatewaypundit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665948786",
-      "size": "2129920",
-      "md5": "dce65ffb05444ae3d0bd155fbafea89b",
-      "crc32": "ea327b74",
-      "sha1": "673429194ed5793750b84e5ea90369b6da91f272",
+      "mtime": "1665988025",
+      "size": "2138112",
+      "md5": "ab2667ee7603e5a3ad0b6cc5537ec0a3",
+      "crc32": "764775d6",
+      "sha1": "5b681984265ae0560cad938295d65835f4e97584",
       "format": "Metadata"
     },
     {
@@ -17586,9 +17648,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1696,
-  "item_last_updated": 1665948892,
-  "item_size": 147781969,
+  "files_count": 1702,
+  "gatewaypundit-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1665988200,
+  "item_size": 148295603,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -17606,7 +17673,7 @@
     "addeddate": "2022-07-02 15:24:15"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 2109590187,
+  "uniq": 1050854294,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

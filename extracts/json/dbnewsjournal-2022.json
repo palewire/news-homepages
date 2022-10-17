@@ -1,7 +1,12 @@
 {
-  "created": 1665902283,
+  "created": 1665992795,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
+  "dbnewsjournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/35/items/dbnewsjournal-2022",
   "files": [
     {
@@ -3240,31 +3245,155 @@
       "sha1": "163a402a2efe6ef672d9fbf14eb7d3b658db1a96"
     },
     {
+      "name": "dbnewsjournal-2022-10-16T13:32:50.656184-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941575",
+      "size": "22612",
+      "md5": "c35d0523340cd51174e1687a49575517",
+      "crc32": "e9a8e746",
+      "sha1": "c931a652862a2221a3a1b28a6b4786738b2255da",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-16T13:32:50.656184-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941580",
+      "size": "31432",
+      "md5": "61e27c9a9e99c34af57b96e9c262a2b7",
+      "crc32": "5693351b",
+      "sha1": "1986bc3281c8437d3601123bd096b492a41497c0",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-16T13:32:50.656184-04:00.jpg",
+      "source": "original",
+      "mtime": "1665941574",
+      "size": "317270",
+      "md5": "f599356b99d470083b4a856bcc482bd8",
+      "crc32": "326141a0",
+      "sha1": "5dd8bec0b5bcde44c6a55bf3d09f23e7fe8a8d77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-16T13:32:50.656184-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941582",
+      "size": "1567",
+      "md5": "1c93ad15066d68ce3ead3287eacdaabc",
+      "crc32": "ad7841b7",
+      "sha1": "4ac2c9569e9133a268561d985fcaddd299afacdd",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-16T13:32:50.656184-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941583",
+      "size": "259",
+      "md5": "1af4fa71da162f053ee0227f35750a9b",
+      "crc32": "bb86ac1b",
+      "sha1": "5b416e15b3511f121ff5e43db1bfdbccee0b6bf5",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-16T13:32:50.656184-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dbnewsjournal-2022-10-16T13:32:50.656184-04:00.jpg",
+      "mtime": "1665941632",
+      "size": "9429",
+      "md5": "a4f8ace2690f1cf21ca53035f3805b65",
+      "crc32": "9c185506",
+      "sha1": "d19aa49c835d900509b96486900b3c5480d2b192"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T02:21:58.556154-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665987725",
+      "size": "24211",
+      "md5": "e7f685deb0013ba937334d0a7b85283f",
+      "crc32": "f6d73dc9",
+      "sha1": "26d9245b933619af86d475643f13fc10f626f99f",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T02:21:58.556154-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665987726",
+      "size": "38113",
+      "md5": "e3d6b2430218f1c7ce8ef3c92d818535",
+      "crc32": "5cb9564f",
+      "sha1": "d1935407be68f1e6989b3b12de982906c9d9938d",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T02:21:58.556154-04:00.jpg",
+      "source": "original",
+      "mtime": "1665987723",
+      "size": "274421",
+      "md5": "0e539aa0b45a812be2eca50dce930018",
+      "crc32": "8a85f9b6",
+      "sha1": "05ff27b1e5c72ca24abd18a2f31c771c8cbf2714",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T02:21:58.556154-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665987728",
+      "size": "1567",
+      "md5": "2b0d2b86c2c1a249e9949fd3503be78e",
+      "crc32": "42646c7d",
+      "sha1": "dda5af2b58ad3a2380d7262364fb0a957482c4b5",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T02:21:58.556154-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665987730",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-17T02:21:58.556154-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dbnewsjournal-2022-10-17T02:21:58.556154-04:00.jpg",
+      "mtime": "1665987785",
+      "size": "9453",
+      "md5": "cdcddcd4f81c18c9b03472bbe310b93c",
+      "crc32": "ecc52ade",
+      "sha1": "872db0b2c6835e841bbb495883b9eb918d90aad9"
+    },
+    {
       "name": "dbnewsjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "669763685fc78d0c66f0295f0288e915b80cd542",
-      "mtime": "1665902275",
-      "size": "68851",
-      "md5": "637c4eb3adda8db260880f6912ff3312",
-      "crc32": "ce0929a1",
-      "sha1": "aea9090274c31c71f927b17baf5085300e21a5c6",
+      "btih": "39b42de24f4a10b954dc832e1eff9f7f65bdefc3",
+      "mtime": "1665987790",
+      "size": "71441",
+      "md5": "85e0036d88ee0a9473c63ec7587703bd",
+      "crc32": "11b3b57a",
+      "sha1": "93ff15b76b97e7bb7e5e9e3549b6644e14fa74ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dbnewsjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d3a83d908e7f69f4532de3fdecd174e7",
+      "md5": "21e1e3b6f1f6b7dad6701f50aa653aba",
       "summation": "md5"
     },
     {
       "name": "dbnewsjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665902225",
-      "size": "421888",
-      "md5": "88b861e72603720773694323fc643b37",
-      "crc32": "6c0cbe76",
-      "sha1": "3a9595f6086c41d393e8bec0bfa19ed7f1072254",
+      "mtime": "1665987733",
+      "size": "434176",
+      "md5": "67ce7b6b67c749ad03bbe87765e8e55f",
+      "crc32": "eaf83452",
+      "sha1": "532640f0e6ee0d9949aa4a1d5173b6f6dce8fa02",
       "format": "Metadata"
     },
     {
@@ -3278,9 +3407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 317,
-  "item_last_updated": 1665902275,
-  "item_size": 21393363,
+  "files_count": 329,
+  "item_last_updated": 1665987790,
+  "item_size": 22138777,
   "metadata": {
     "identifier": "dbnewsjournal-2022",
     "collection": [
@@ -3297,10 +3426,10 @@
     "publicdate": "2022-09-20 17:43:42",
     "addeddate": "2022-09-20 17:43:42"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1257253637,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1110182990,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }
