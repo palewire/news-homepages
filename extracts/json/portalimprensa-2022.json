@@ -1,5 +1,5 @@
 {
-  "created": 1665993532,
+  "created": 1666008003,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/2/items/portalimprensa-2022",
@@ -12344,31 +12344,82 @@
       "sha1": "afae14b988d1a1d8bf107890128c3db7111b2556"
     },
     {
+      "name": "portalimprensa-2022-10-17T08:57:22.848713-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666007848",
+      "size": "43997",
+      "md5": "c2331470b931dd0a70b359e9ab0f391c",
+      "crc32": "bfd0b327",
+      "sha1": "3b405772c1ef958f357b7c47542f73e39a7b61bf",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-10-17T08:57:22.848713-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666007849",
+      "size": "61605",
+      "md5": "74303c5d15f41f83107b670dd67ec625",
+      "crc32": "f6305735",
+      "sha1": "d9c3e7d4ac2f24882c83f43887c8a29f61b1ce2e",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-10-17T08:57:22.848713-03:00.jpg",
+      "source": "original",
+      "mtime": "1666007845",
+      "size": "308299",
+      "md5": "33ae2b1318a2eb0bed5d1d951dceddd9",
+      "crc32": "53688f6f",
+      "sha1": "388a1f8c6b55b46ce6b8955d6aefad50ee49338e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portalimprensa-2022-10-17T08:57:22.848713-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666007851",
+      "size": "1558",
+      "md5": "cc4270b43b066eb7cf7fd2df190f4c40",
+      "crc32": "ad73f84e",
+      "sha1": "4456f701629077781ac90ef49faa1b0a919bd0e3",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-10-17T08:57:22.848713-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666007854",
+      "size": "258",
+      "md5": "68a160539afb96d3736d5ccab2e984b3",
+      "crc32": "6bfc36f2",
+      "sha1": "0d684adde4e8a8c55aa88629af411bc754c43c18",
+      "format": "JSON"
+    },
+    {
       "name": "portalimprensa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdea84e747d265b6349c4821c57760867ac6e307",
-      "mtime": "1665993485",
-      "size": "259576",
-      "md5": "59063c8769849d6571931806f3f16435",
-      "crc32": "be816155",
-      "sha1": "184e1d7a616c8415b109bf30e4bb31b0559872f3",
+      "btih": "5a5efc5f4cc09182941d9079926609be1526e72f",
+      "mtime": "1666007971",
+      "size": "260667",
+      "md5": "5ba73ec509027e76ce6be12f2bbd7dbb",
+      "crc32": "085b3ee2",
+      "sha1": "7354ff905960bfdaac73e271e608b42506126c46",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portalimprensa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "67e8a46b043420d4964c091a37f9d4a7",
+      "md5": "537f939a953646c3d96e1cf4e267af95",
       "summation": "md5"
     },
     {
       "name": "portalimprensa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665993354",
-      "size": "1544192",
-      "md5": "ffda1bf39c7cf07662f0684b1887e356",
-      "crc32": "c89f7c8d",
-      "sha1": "9912fc632e43b8e7369d80ba39f609d4c3d70535",
+      "mtime": "1666007910",
+      "size": "1548288",
+      "md5": "e2271b8bcd4aad9ed39f59cd21b631b7",
+      "crc32": "c9953b33",
+      "sha1": "e40a00dc24eb16b8737c5246dcc002e6b3dd8912",
       "format": "Metadata"
     },
     {
@@ -12382,9 +12433,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1198,
-  "item_last_updated": 1665993485,
-  "item_size": 82769577,
+  "files_count": 1203,
+  "item_last_updated": 1666007971,
+  "item_size": 83190481,
   "metadata": {
     "identifier": "portalimprensa-2022",
     "collection": [
@@ -12401,10 +12452,21 @@
     "publicdate": "2022-08-07 19:44:00",
     "addeddate": "2022-08-07 19:44:00"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 605566509,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3443325914,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1654002440,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

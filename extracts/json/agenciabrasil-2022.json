@@ -1,5 +1,6 @@
 {
-  "created": 1665984536,
+  "conflict": 1666007914,
+  "created": 1666007914,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/33/items/agenciabrasil-2022",
@@ -13135,10 +13136,21 @@
     "publicdate": "2022-08-04 04:55:44",
     "addeddate": "2022-08-04 04:55:44"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 517013315,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3443323605,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1351543001,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }
