@@ -1,5 +1,5 @@
 {
-  "created": 1665948735,
+  "created": 1665974124,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/rawstory-2022",
@@ -15638,31 +15638,83 @@
       "sha1": "f34179b1ce26f20be6c1be0061d37ef913adeff6"
     },
     {
+      "name": "rawstory-2022-10-16T22:32:39.920847-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665973962",
+      "size": "32436",
+      "md5": "a9fee66dd55323d41af7e42d395e5e3e",
+      "crc32": "21f3c5b3",
+      "sha1": "397a01cdfdb4e3b66bd17e9a06d42b5371be1674",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-10-16T22:32:39.920847-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665973964",
+      "size": "61705",
+      "md5": "e8a796fc7e501a6de340405a5be82152",
+      "crc32": "a450c410",
+      "sha1": "b90b50c4ec7bc760e29f901230faea0d66aefd6c",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-10-16T22:32:39.920847-04:00.jpg",
+      "source": "original",
+      "mtime": "1665973961",
+      "size": "327611",
+      "md5": "be51186e92de1a123ef21587f2cc89f0",
+      "crc32": "a37fed9b",
+      "sha1": "464486ea35c4baeb04970355c660f4946c6bb792",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rawstory-2022-10-16T22:32:39.920847-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665973965",
+      "size": "1477",
+      "md5": "1b6e483ebeb7a398655a90352ecf32cf",
+      "crc32": "a4e19a9d",
+      "sha1": "32ef2c09d618f326e2a6d58c255227f5668e5ac6",
+      "format": "JSON"
+    },
+    {
+      "name": "rawstory-2022-10-16T22:32:39.920847-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rawstory-2022-10-16T22:32:39.920847-04:00.jpg",
+      "mtime": "1665974062",
+      "size": "11816",
+      "md5": "60569cf9090857c5e3f1666efb8e1e78",
+      "crc32": "35d299f7",
+      "sha1": "8f025cc9e8938cce9507ecf34e1b907c3e8cc536"
+    },
+    {
       "name": "rawstory-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f2d2220859a714c5c23e8601a52affafa42d98e",
-      "mtime": "1665948715",
-      "size": "319991",
-      "md5": "5a1c1d897c2a3c2151bf978cd690b68c",
-      "crc32": "60ff442b",
-      "sha1": "fdbfb01ddd4426f2d6b9c3ff4b1f69d0234ebdfc",
+      "btih": "214d42cf688298d0f81cb49e95e56ec5afb6c61a",
+      "mtime": "1665974087",
+      "size": "321051",
+      "md5": "e9fda88cbb648c299dcb9ad661b4fa7c",
+      "crc32": "20e8d45f",
+      "sha1": "08e4dac25a0b666c8ef785095233861e8f1e26e6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rawstory-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b1d2a0e024dc51706c49caba8ffd5e2",
+      "md5": "49d10ba9400f334cf0fe60fa723b96eb",
       "summation": "md5"
     },
     {
       "name": "rawstory-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665948620",
-      "size": "1904640",
-      "md5": "2b069ea2d0a8cfe50dad0d81019a7881",
-      "crc32": "4f3476c6",
-      "sha1": "896a2d92b806cd97538276beeba65c5dfe4657b4",
+      "mtime": "1665973978",
+      "size": "1908736",
+      "md5": "09b2f0ddc0a41ccc79ff94dabd97f7cb",
+      "crc32": "e6409a1b",
+      "sha1": "f96f822c28836d7d542ed8b60da59c7b4031e2ed",
       "format": "Metadata"
     },
     {
@@ -15676,9 +15728,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1514,
-  "item_last_updated": 1665948715,
-  "item_size": 124554460,
+  "files_count": 1519,
+  "item_last_updated": 1665974087,
+  "item_size": 124994661,
   "metadata": {
     "identifier": "rawstory-2022",
     "collection": [
@@ -15695,10 +15747,10 @@
     "publicdate": "2022-07-17 15:59:55",
     "addeddate": "2022-07-17 15:59:55"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1205017082,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1100668123,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }
