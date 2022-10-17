@@ -1,5 +1,5 @@
 {
-  "created": 1665974461,
+  "created": 1666016131,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/sbnation-2022",
@@ -13396,31 +13396,93 @@
       "sha1": "1122dd1ea4b5547fb7b5c42699b54376da1c7e91"
     },
     {
+      "name": "sbnation-2022-10-17T10:10:06.489181-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666015836",
+      "size": "38077",
+      "md5": "701644ca6cc7eb504db4b9db6bb330a9",
+      "crc32": "b24d549e",
+      "sha1": "9cb985616c209e70bca1a3676c343e9d80e3962b",
+      "format": "JSON"
+    },
+    {
+      "name": "sbnation-2022-10-17T10:10:06.489181-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666015838",
+      "size": "98794",
+      "md5": "967f168be98607e2b8dceae9df71e247",
+      "crc32": "2a57e7c9",
+      "sha1": "13ce63f8ecc786997648cdd3084bfa9fed4668b7",
+      "format": "JSON"
+    },
+    {
+      "name": "sbnation-2022-10-17T10:10:06.489181-04:00.jpg",
+      "source": "original",
+      "mtime": "1666015834",
+      "size": "313224",
+      "md5": "262cd0dcf9141aef7fa45074db298027",
+      "crc32": "5d1871be",
+      "sha1": "a9e7257db1c69aeb927d99c2a8b52715bc8173db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sbnation-2022-10-17T10:10:06.489181-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666015841",
+      "size": "1477",
+      "md5": "82103da6a790491c2a2cb61ffe5c60b0",
+      "crc32": "2b6d72bd",
+      "sha1": "a836d8c7dbca04776a3cc69273d38d4b3eb612fe",
+      "format": "JSON"
+    },
+    {
+      "name": "sbnation-2022-10-17T10:10:06.489181-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666015843",
+      "size": "110301",
+      "md5": "e6a3ce1cf35a918b069950cceee8f43b",
+      "crc32": "31a9b7d7",
+      "sha1": "efd0ab126d7f8c7f6df309ad171259ac4157e96f",
+      "format": "JSON"
+    },
+    {
+      "name": "sbnation-2022-10-17T10:10:06.489181-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sbnation-2022-10-17T10:10:06.489181-04:00.jpg",
+      "mtime": "1666016100",
+      "size": "10934",
+      "md5": "600d024c0221c1fb90958b920c79a102",
+      "crc32": "8c55109b",
+      "sha1": "67f57610a34322037249e829945fb1a8413c4ee8"
+    },
+    {
       "name": "sbnation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b49ae783537a3124d6d50c924b5c3fbeeffe7a2",
-      "mtime": "1665974426",
-      "size": "274431",
-      "md5": "fe0efdfaa8007687bc52ef2cb9fb0528",
-      "crc32": "0efb8c7b",
-      "sha1": "55a894fb1fd14b84952933c82b08573027fbc571",
+      "btih": "1f02dd694cd25458177637e3eb2370aa28f7b4b9",
+      "mtime": "1666016116",
+      "size": "275700",
+      "md5": "d3bbd93ba8253c75d822741e25a80128",
+      "crc32": "77e292d5",
+      "sha1": "4a49fc4ff9faee0f5b89e007f719d944e7d0d4fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sbnation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f67e5774e15ca2237c0d9d95a2ef02eb",
+      "md5": "a7b9a4ab6f2688e1a5aa2afc69315d51",
       "summation": "md5"
     },
     {
       "name": "sbnation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665974249",
-      "size": "1601536",
-      "md5": "f36707ff4ecb35907fda87bab1cf7d6d",
-      "crc32": "a29277d6",
-      "sha1": "d4a325a98bde02715e5f6dd358c607c132eda9fe",
+      "mtime": "1666015848",
+      "size": "1609728",
+      "md5": "ff4a02d52c13de1d54965a2a3f93d2ad",
+      "crc32": "b5863da3",
+      "sha1": "7181ff4953d9817e5b70fdcb6fbab951cf72683d",
       "format": "Metadata"
     },
     {
@@ -13434,9 +13496,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1294,
-  "item_last_updated": 1665974426,
-  "item_size": 127696236,
+  "files_count": 1300,
+  "item_last_updated": 1666016116,
+  "item_size": 128278504,
   "metadata": {
     "identifier": "sbnation-2022",
     "collection": [
@@ -13453,10 +13515,10 @@
     "publicdate": "2022-06-24 23:01:08",
     "addeddate": "2022-06-24 23:01:08"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 2101803472,
+  "server": "ia801403.us.archive.org",
+  "uniq": 134878529,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }
