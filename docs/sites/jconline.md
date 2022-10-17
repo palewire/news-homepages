@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/jconline-2022/jconline-2022-10-17T13:59:02.615011-04:00.jpg">
+  <img src="https://archive.org/download/jconline-2022/jconline-2022-10-17T13:59:02.615011-04:00.jpg"
+     alt="Lafayette Journal & Courier at 2022-10-17 13:59:06-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jconline-2022/jconline-2022-10-17T13:59:02.615011-04:00.jpg">October 17 at 1:59 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/jconline-2022/jconline-2022-10-17T02:15:29.208294-04:00.jpg">
+  <img src="https://archive.org/download/jconline-2022/jconline-2022-10-17T02:15:29.208294-04:00.jpg"
+     alt="Lafayette Journal & Courier at 2022-10-17 02:15:32-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/jconline-2022/jconline-2022-10-17T02:15:29.208294-04:00.jpg">October 17 at 2:15 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/jconline-2022/jconline-2022-10-16T13:26:10.834937-04:00.jpg">
   <img src="https://archive.org/download/jconline-2022/jconline-2022-10-16T13:26:10.834937-04:00.jpg"
      alt="Lafayette Journal & Courier at 2022-10-16 13:26:12-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/jconline-2022/jconline-2022-10-12T02:29:37.920645-04:00.jpg">October 12 at 2:29 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/jconline-2022/jconline-2022-10-11T13:40:50.597713-04:00.jpg">
-  <img src="https://archive.org/download/jconline-2022/jconline-2022-10-11T13:40:50.597713-04:00.jpg"
-     alt="Lafayette Journal & Courier at 2022-10-11 13:40:53-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jconline-2022/jconline-2022-10-11T13:40:50.597713-04:00.jpg">October 11 at 1:40 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/jconline-2022/jconline-2022-10-11T02:30:20.045403-04:00.jpg">
-  <img src="https://archive.org/download/jconline-2022/jconline-2022-10-11T02:30:20.045403-04:00.jpg"
-     alt="Lafayette Journal & Courier at 2022-10-11 02:30:21-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/jconline-2022/jconline-2022-10-11T02:30:20.045403-04:00.jpg">October 11 at 2:30 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 1:59 PM](https://archive.org/download/jconline-2022/jconline-2022-10-17T13:59:02.615011-04:00.hyperlinks.json) |
+| [October 17 at 2:15 AM](https://archive.org/download/jconline-2022/jconline-2022-10-17T02:15:29.208294-04:00.hyperlinks.json) |
 | [October 16 at 1:26 PM](https://archive.org/download/jconline-2022/jconline-2022-10-16T13:26:10.834937-04:00.hyperlinks.json) |
 | [October 16 at 1:53 AM](https://archive.org/download/jconline-2022/jconline-2022-10-16T01:53:14.138733-04:00.hyperlinks.json) |
 | [October 15 at 1:54 PM](https://archive.org/download/jconline-2022/jconline-2022-10-15T13:54:32.747912-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 2:24 AM](https://archive.org/download/jconline-2022/jconline-2022-10-14T02:24:34.989793-04:00.hyperlinks.json) |
 | [October 13 at 1:50 PM](https://archive.org/download/jconline-2022/jconline-2022-10-13T13:50:50.047216-04:00.hyperlinks.json) |
 | [October 13 at 1:53 AM](https://archive.org/download/jconline-2022/jconline-2022-10-13T01:53:48.964527-04:00.hyperlinks.json) |
-| [October 12 at 1:20 PM](https://archive.org/download/jconline-2022/jconline-2022-10-12T13:20:46.542560-04:00.hyperlinks.json) |
-| [October 12 at 2:29 AM](https://archive.org/download/jconline-2022/jconline-2022-10-12T02:29:37.920645-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 53 accessibility trees with the Internet Archive.
+The archiving routine has saved 55 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 1:59 PM](https://archive.org/download/jconline-2022/jconline-2022-10-17T13:59:02.615011-04:00.accessibility.json) |
+| [October 17 at 2:15 AM](https://archive.org/download/jconline-2022/jconline-2022-10-17T02:15:29.208294-04:00.accessibility.json) |
 | [October 16 at 1:26 PM](https://archive.org/download/jconline-2022/jconline-2022-10-16T13:26:10.834937-04:00.accessibility.json) |
 | [October 16 at 1:53 AM](https://archive.org/download/jconline-2022/jconline-2022-10-16T01:53:14.138733-04:00.accessibility.json) |
 | [October 15 at 1:54 PM](https://archive.org/download/jconline-2022/jconline-2022-10-15T13:54:32.747912-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 2:24 AM](https://archive.org/download/jconline-2022/jconline-2022-10-14T02:24:34.989793-04:00.accessibility.json) |
 | [October 13 at 1:50 PM](https://archive.org/download/jconline-2022/jconline-2022-10-13T13:50:50.047216-04:00.accessibility.json) |
 | [October 13 at 1:53 AM](https://archive.org/download/jconline-2022/jconline-2022-10-13T01:53:48.964527-04:00.accessibility.json) |
-| [October 12 at 1:20 PM](https://archive.org/download/jconline-2022/jconline-2022-10-12T13:20:46.542560-04:00.accessibility.json) |
-| [October 12 at 2:29 AM](https://archive.org/download/jconline-2022/jconline-2022-10-12T02:29:37.920645-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 1:59 PM](https://archive.org/download/jconline-2022/jconline-2022-10-17T13:59:02.615011-04:00.lighthouse.json) |
+| [October 17 at 2:15 AM](https://archive.org/download/jconline-2022/jconline-2022-10-17T02:15:29.208294-04:00.lighthouse.json) |
 | [October 16 at 1:26 PM](https://archive.org/download/jconline-2022/jconline-2022-10-16T13:26:10.834937-04:00.lighthouse.json) |
 | [October 16 at 1:53 AM](https://archive.org/download/jconline-2022/jconline-2022-10-16T01:53:14.138733-04:00.lighthouse.json) |
 | [October 15 at 1:54 PM](https://archive.org/download/jconline-2022/jconline-2022-10-15T13:54:32.747912-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 2:24 AM](https://archive.org/download/jconline-2022/jconline-2022-10-14T02:24:34.989793-04:00.lighthouse.json) |
 | [October 13 at 1:50 PM](https://archive.org/download/jconline-2022/jconline-2022-10-13T13:50:50.047216-04:00.lighthouse.json) |
 | [October 13 at 1:53 AM](https://archive.org/download/jconline-2022/jconline-2022-10-13T01:53:48.964527-04:00.lighthouse.json) |
-| [October 12 at 1:20 PM](https://archive.org/download/jconline-2022/jconline-2022-10-12T13:20:46.542560-04:00.lighthouse.json) |
-| [October 12 at 2:29 AM](https://archive.org/download/jconline-2022/jconline-2022-10-12T02:29:37.920645-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 234 screenshots with the Internet Archive.
+The archiving routine has saved 235 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 234 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/globalnews-2022/globalnews-2022-10-17T14:12:58.083113-04:00.jpg">
+  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-10-17T14:12:58.083113-04:00.jpg"
+     alt="Global News at 2022-10-17 14:13:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-10-17T14:12:58.083113-04:00.jpg">October 17 at 2:13 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/globalnews-2022/globalnews-2022-10-17T02:26:35.927741-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-10-12T02:43:56.978940-04:00.jpg">October 12 at 2:44 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/globalnews-2022/globalnews-2022-10-11T14:03:48.908661-04:00.jpg">
-  <img src="https://archive.org/download/globalnews-2022/globalnews-2022-10-11T14:03:48.908661-04:00.jpg"
-     alt="Global News at 2022-10-11 14:03:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/globalnews-2022/globalnews-2022-10-11T14:03:48.908661-04:00.jpg">October 11 at 2:03 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 220 hyperlink lists with the Internet Archive.
+The archiving routine has saved 221 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:13 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-17T14:12:58.083113-04:00.hyperlinks.json) |
 | [October 17 at 2:26 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-17T02:26:35.927741-04:00.hyperlinks.json) |
 | [October 16 at 1:37 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-16T13:37:37.048614-04:00.hyperlinks.json) |
 | [October 16 at 2:42 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-16T02:41:56.163869-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 2:40 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-14T02:40:40.826389-04:00.hyperlinks.json) |
 | [October 13 at 2:55 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-13T14:55:04.583916-04:00.hyperlinks.json) |
 | [October 13 at 2:05 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-13T02:05:25.495803-04:00.hyperlinks.json) |
-| [October 12 at 1:35 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-12T13:34:41.207324-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 217 accessibility trees with the Internet Archive.
+The archiving routine has saved 218 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:13 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-17T14:12:58.083113-04:00.accessibility.json) |
 | [October 17 at 2:26 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-17T02:26:35.927741-04:00.accessibility.json) |
 | [October 16 at 1:37 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-16T13:37:37.048614-04:00.accessibility.json) |
 | [October 16 at 2:41 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-16T02:41:56.163869-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 2:40 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-14T02:40:40.826389-04:00.accessibility.json) |
 | [October 13 at 2:55 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-13T14:55:04.583916-04:00.accessibility.json) |
 | [October 13 at 2:05 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-13T02:05:25.495803-04:00.accessibility.json) |
-| [October 12 at 1:35 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-12T13:34:41.207324-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 169 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:13 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-17T14:12:58.083113-04:00.lighthouse.json) |
 | [October 17 at 2:26 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-17T02:26:35.927741-04:00.lighthouse.json) |
 | [October 16 at 1:37 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-16T13:37:37.048614-04:00.lighthouse.json) |
 | [October 16 at 2:42 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-16T02:41:56.163869-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 2:40 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-14T02:40:40.826389-04:00.lighthouse.json) |
 | [October 13 at 2:55 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-13T14:55:04.583916-04:00.lighthouse.json) |
 | [October 13 at 2:05 AM](https://archive.org/download/globalnews-2022/globalnews-2022-10-13T02:05:25.495803-04:00.lighthouse.json) |
-| [October 12 at 1:35 PM](https://archive.org/download/globalnews-2022/globalnews-2022-10-12T13:34:41.207324-04:00.lighthouse.json) |
 
 
 

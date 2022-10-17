@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 263 screenshots with the Internet Archive.
+The archiving routine has saved 266 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,33 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-17T16:23:20.302151-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-10-17T16:23:20.302151-04:00.jpg"
+     alt="Media Matters at 2022-10-17 16:23:40-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-17T16:23:20.302151-04:00.jpg">October 17 at 4:23 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-17T14:01:51.363549-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-10-17T14:01:51.363549-04:00.jpg"
+     alt="Media Matters at 2022-10-17 14:02:00-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-17T14:01:51.363549-04:00.jpg">October 17 at 2:02 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-17T02:17:39.702984-04:00.jpg">
+  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-10-17T02:17:39.702984-04:00.jpg"
+     alt="Media Matters at 2022-10-17 02:17:48-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-17T02:17:39.702984-04:00.jpg">October 17 at 2:17 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-16T15:29:36.999034-04:00.jpg">
   <img src="https://archive.org/download/mmfa-2022/mmfa-2022-10-16T15:29:36.999034-04:00.jpg"
      alt="Media Matters at 2022-10-16 15:29:39-04:00 local time"
@@ -406,38 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-14T02:31:23.763338-04:00.jpg">October 14 at 2:31 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-13T16:21:05.034219-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-10-13T16:21:05.034219-04:00.jpg"
-     alt="Media Matters at 2022-10-13 16:21:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-13T16:21:05.034219-04:00.jpg">October 13 at 4:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-13T13:53:53.075905-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-10-13T13:53:53.075905-04:00.jpg"
-     alt="Media Matters at 2022-10-13 13:54:03-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-13T13:53:53.075905-04:00.jpg">October 13 at 1:54 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-13T01:57:35.243040-04:00.jpg">
-  <img src="https://archive.org/download/mmfa-2022/mmfa-2022-10-13T01:57:35.243040-04:00.jpg"
-     alt="Media Matters at 2022-10-13 01:57:42-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/mmfa-2022/mmfa-2022-10-13T01:57:35.243040-04:00.jpg">October 13 at 1:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 264 hyperlink lists with the Internet Archive.
+The archiving routine has saved 267 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,9 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 4:23 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-17T16:23:20.302151-04:00.hyperlinks.json) |
+| [October 17 at 2:02 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-17T14:01:51.363549-04:00.hyperlinks.json) |
+| [October 17 at 2:17 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-17T02:17:39.702984-04:00.hyperlinks.json) |
 | [October 16 at 3:29 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-16T15:29:36.999034-04:00.hyperlinks.json) |
 | [October 16 at 1:28 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-16T13:28:24.471070-04:00.hyperlinks.json) |
 | [October 16 at 1:58 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-16T01:58:13.952595-04:00.hyperlinks.json) |
@@ -535,14 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 1:59 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-15T13:59:15.699182-04:00.hyperlinks.json) |
 | [October 15 at 2:28 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-15T02:28:32.291062-04:00.hyperlinks.json) |
 | [October 14 at 4:40 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-14T16:39:59.991635-04:00.hyperlinks.json) |
-| [October 14 at 2:19 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-14T14:18:59.781996-04:00.hyperlinks.json) |
-| [October 14 at 2:31 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-14T02:31:23.763338-04:00.hyperlinks.json) |
-| [October 13 at 4:21 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-13T16:21:05.034219-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 263 accessibility trees with the Internet Archive.
+The archiving routine has saved 266 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,9 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 4:23 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-17T16:23:20.302151-04:00.accessibility.json) |
+| [October 17 at 2:02 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-17T14:01:51.363549-04:00.accessibility.json) |
+| [October 17 at 2:17 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-17T02:17:39.702984-04:00.accessibility.json) |
 | [October 16 at 3:29 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-16T15:29:36.999034-04:00.accessibility.json) |
 | [October 16 at 1:28 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-16T13:28:24.471070-04:00.accessibility.json) |
 | [October 16 at 1:58 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-16T01:58:13.952595-04:00.accessibility.json) |
@@ -640,15 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 1:59 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-15T13:59:15.699182-04:00.accessibility.json) |
 | [October 15 at 2:28 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-15T02:28:32.291062-04:00.accessibility.json) |
 | [October 14 at 4:40 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-14T16:39:59.991635-04:00.accessibility.json) |
-| [October 14 at 2:19 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-14T14:18:59.781996-04:00.accessibility.json) |
-| [October 14 at 2:31 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-14T02:31:23.763338-04:00.accessibility.json) |
-| [October 13 at 4:21 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-13T16:21:05.034219-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 248 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 251 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,9 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 4:23 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-17T16:23:20.302151-04:00.lighthouse.json) |
+| [October 17 at 2:02 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-17T14:01:51.363549-04:00.lighthouse.json) |
+| [October 17 at 2:17 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-17T02:17:39.702984-04:00.lighthouse.json) |
 | [October 16 at 3:29 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-16T15:29:36.999034-04:00.lighthouse.json) |
 | [October 16 at 1:28 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-16T13:28:24.471070-04:00.lighthouse.json) |
 | [October 16 at 1:58 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-16T01:58:13.952595-04:00.lighthouse.json) |
@@ -746,9 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 1:59 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-15T13:59:15.699182-04:00.lighthouse.json) |
 | [October 15 at 2:28 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-15T02:28:32.291062-04:00.lighthouse.json) |
 | [October 14 at 4:40 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-14T16:39:59.991635-04:00.lighthouse.json) |
-| [October 14 at 2:19 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-14T14:18:59.781996-04:00.lighthouse.json) |
-| [October 14 at 2:31 AM](https://archive.org/download/mmfa-2022/mmfa-2022-10-14T02:31:23.763338-04:00.lighthouse.json) |
-| [October 13 at 4:21 PM](https://archive.org/download/mmfa-2022/mmfa-2022-10-13T16:21:05.034219-04:00.lighthouse.json) |
 
 
 

@@ -28,7 +28,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 238 screenshots with the Internet Archive.
+The archiving routine has saved 239 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -118,6 +118,15 @@ The archiving routine has saved 238 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-10-17T14:07:15.095538-04:00.jpg">
+  <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-10-17T14:07:15.095538-04:00.jpg"
+     alt="CTV News at 2022-10-17 14:07:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-10-17T14:07:15.095538-04:00.jpg">October 17 at 2:07 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-10-17T02:21:53.183623-04:00.jpg">
@@ -218,20 +227,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-10-12T02:38:33.262115-04:00.jpg">October 12 at 2:38 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-10-11T13:48:48.664333-04:00.jpg">
-  <img src="https://archive.org/download/ctvnews-2022/ctvnews-2022-10-11T13:48:48.664333-04:00.jpg"
-     alt="CTV News at 2022-10-11 13:48:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ctvnews-2022/ctvnews-2022-10-11T13:48:48.664333-04:00.jpg">October 11 at 1:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 231 hyperlink lists with the Internet Archive.
+The archiving routine has saved 232 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -322,6 +322,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:07 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-17T14:07:15.095538-04:00.hyperlinks.json) |
 | [October 17 at 2:21 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-17T02:21:53.183623-04:00.hyperlinks.json) |
 | [October 16 at 1:31 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-16T13:31:14.706030-04:00.hyperlinks.json) |
 | [October 16 at 2:35 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-16T02:34:40.894700-04:00.hyperlinks.json) |
@@ -331,12 +332,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 2:36 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-14T02:36:04.062631-04:00.hyperlinks.json) |
 | [October 13 at 2:46 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-13T14:46:18.087792-04:00.hyperlinks.json) |
 | [October 13 at 2:00 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-13T02:00:11.663438-04:00.hyperlinks.json) |
-| [October 12 at 1:27 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-12T13:27:26.135388-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 236 accessibility trees with the Internet Archive.
+The archiving routine has saved 237 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -427,6 +427,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:07 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-17T14:07:15.095538-04:00.accessibility.json) |
 | [October 17 at 2:21 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-17T02:21:53.183623-04:00.accessibility.json) |
 | [October 16 at 1:31 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-16T13:31:14.706030-04:00.accessibility.json) |
 | [October 16 at 2:35 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-16T02:34:40.894700-04:00.accessibility.json) |
@@ -436,7 +437,6 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 2:36 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-14T02:36:04.062631-04:00.accessibility.json) |
 | [October 13 at 2:46 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-13T14:46:18.087792-04:00.accessibility.json) |
 | [October 13 at 2:00 AM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-13T02:00:11.663438-04:00.accessibility.json) |
-| [October 12 at 1:27 PM](https://archive.org/download/ctvnews-2022/ctvnews-2022-10-12T13:27:26.135388-04:00.accessibility.json) |
 
 
 
