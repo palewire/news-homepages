@@ -1,5 +1,5 @@
 {
-  "created": 1665941377,
+  "created": 1666035876,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/22/items/memphisnews-2022",
@@ -3292,31 +3292,155 @@
       "sha1": "bd92389de67a4a2f212020e693d6026daf6a38ee"
     },
     {
+      "name": "memphisnews-2022-10-17T01:17:24.780985-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665987450",
+      "size": "22570",
+      "md5": "8eef887a8cc87d45930ad2a3b2b61bf5",
+      "crc32": "e96496eb",
+      "sha1": "a53ea9322b6421a916960803cc5aecb86dd01a31",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-17T01:17:24.780985-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665987452",
+      "size": "31831",
+      "md5": "83cb37817495ee1eb37c34d1f464f14d",
+      "crc32": "06d227d5",
+      "sha1": "9f6f0d7155ab03c436b39dcec0ca3a0992d6b52c",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-17T01:17:24.780985-05:00.jpg",
+      "source": "original",
+      "mtime": "1665987448",
+      "size": "248203",
+      "md5": "01464db3dd3c8e92a573029dca07b5f8",
+      "crc32": "f3e49817",
+      "sha1": "0268c2a8a02183ca3c618c5142b2c13b7eb475cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "memphisnews-2022-10-17T01:17:24.780985-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665987454",
+      "size": "1549",
+      "md5": "6949575336c4d6481bc4cdf3da3bb25f",
+      "crc32": "2253cd5d",
+      "sha1": "cb6fcb22ce1c1edb518a199739f4cb296c2f6689",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-17T01:17:24.780985-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665987456",
+      "size": "128286",
+      "md5": "a3d2a4048318d136d3e63df97b090f22",
+      "crc32": "314c3447",
+      "sha1": "a686d53842bb4cdec1b359f911dd0ba207bd8aeb",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-17T01:17:24.780985-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "memphisnews-2022-10-17T01:17:24.780985-05:00.jpg",
+      "mtime": "1665987505",
+      "size": "9363",
+      "md5": "08042f5b8a940f228741244f9ee33193",
+      "crc32": "26b5b304",
+      "sha1": "01ec9edb7af95a3ab46088a9b8618519eb024821"
+    },
+    {
+      "name": "memphisnews-2022-10-17T13:00:49.340433-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666029656",
+      "size": "21962",
+      "md5": "57148c55d570c8d1aecbd6406bb5678a",
+      "crc32": "39169ebd",
+      "sha1": "e5ac3373744c1255d1645f54594c8406d048b40d",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-17T13:00:49.340433-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666029657",
+      "size": "32809",
+      "md5": "82e0e74f282f645e34320f7b74784c18",
+      "crc32": "b028172d",
+      "sha1": "deecc0deebe91d650b2150f07de3fff0cdd4fe69",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-17T13:00:49.340433-05:00.jpg",
+      "source": "original",
+      "mtime": "1666029654",
+      "size": "246047",
+      "md5": "9808bf24a57dce2b5ec09ab98755d356",
+      "crc32": "974cfdff",
+      "sha1": "1cc036b6b02286977ac00451828ebe791ecedb5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "memphisnews-2022-10-17T13:00:49.340433-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666029659",
+      "size": "1549",
+      "md5": "fd18d73fb9f1d5c47873ee9e3a266b37",
+      "crc32": "6ba397ed",
+      "sha1": "1ff61d09637df5ee221cd32fa141c34cf54131cb",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-17T13:00:49.340433-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666029661",
+      "size": "257",
+      "md5": "bc57539662d5683e9369950da9811285",
+      "crc32": "32f97317",
+      "sha1": "40eb3cbd324976058d0c3ef66495705c201e0e40",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-17T13:00:49.340433-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "memphisnews-2022-10-17T13:00:49.340433-05:00.jpg",
+      "mtime": "1666029715",
+      "size": "9352",
+      "md5": "5dfe423ed6290c8eb20ce2ba486bb0d4",
+      "crc32": "c417c275",
+      "sha1": "4d0cc768577e56346cfadb4a1334ac9721953f40"
+    },
+    {
       "name": "memphisnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9046fa16ef0b050089d6f85c1b7311806c0722c",
-      "mtime": "1665941372",
-      "size": "69267",
-      "md5": "ce081eb53cc8a2d7b558f7c38951f07c",
-      "crc32": "39e223e9",
-      "sha1": "360e4bd79bcf9cbfe56a858c40c56cd7f27f2c84",
+      "btih": "4ce15753bff08f5a62726d32f9b127e6d2a2cd2e",
+      "mtime": "1666029718",
+      "size": "71836",
+      "md5": "f7d75ca0a47eb9909ebc56badaeb86ae",
+      "crc32": "89a59cd2",
+      "sha1": "fdb274573be5f4fca492b16015ce33d92ece7e08",
       "format": "Archive BitTorrent"
     },
     {
       "name": "memphisnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "171a009a28282cd2a9ee4357dd1ecc0e",
+      "md5": "7d69cc7a7f95709cc845dd3d0f8ea904",
       "summation": "md5"
     },
     {
       "name": "memphisnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665941319",
-      "size": "425984",
-      "md5": "acdb35db0a494101ded9b87d2508b7f0",
-      "crc32": "77d6d26e",
-      "sha1": "c6e43d09f9e89895db6f2a174ccfaa4c28c3abb9",
+      "mtime": "1666029663",
+      "size": "442368",
+      "md5": "8c620f35b0e19bac11ec0c81225c8660",
+      "crc32": "74631435",
+      "sha1": "ce71d3a0e382cd5b6542253cfb749173bc140991",
       "format": "Metadata"
     },
     {
@@ -3330,9 +3454,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 322,
-  "item_last_updated": 1665941372,
-  "item_size": 21405630,
+  "files_count": 334,
+  "item_last_updated": 1666029718,
+  "item_size": 22178361,
+  "memphisnews-2022": {
+    "url": "https://www.commercialappeal.com/",
+    "job_id": "spn2-b43847b019328ba94bf903ccf529c067b8177d63",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 783.",
+    "resources": [],
+    "status": "error",
+    "status_ext": "WorkerLostError"
+  },
   "metadata": {
     "identifier": "memphisnews-2022",
     "collection": [
@@ -3350,7 +3482,7 @@
     "addeddate": "2022-09-20 17:35:56"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 496269538,
+  "uniq": 2072196897,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"

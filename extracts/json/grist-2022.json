@@ -1,5 +1,5 @@
 {
-  "created": 1665941215,
+  "created": 1666035325,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/28/items/grist-2022",
@@ -11350,31 +11350,93 @@
       "sha1": "e90825ece6a2b57c722362d1bf3c374622a72a11"
     },
     {
+      "name": "grist-2022-10-16T23:12:36.293186-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665987160",
+      "size": "45265",
+      "md5": "73fe998ae700908d0d9e52e48f78488e",
+      "crc32": "c515ec8e",
+      "sha1": "1c37622004ff9df7ff7dadce7561ee6cc37b7dfe",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-10-16T23:12:36.293186-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665987161",
+      "size": "38517",
+      "md5": "20ad7efc2009376b14c32593e6e8bc97",
+      "crc32": "da8267f5",
+      "sha1": "58b42c04f7e5689bdd11721bc11eafffae0b722f",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-10-16T23:12:36.293186-07:00.jpg",
+      "source": "original",
+      "mtime": "1665987158",
+      "size": "204307",
+      "md5": "377ea55ee6d332fb90dfdfdaca5d0e2a",
+      "crc32": "4270c890",
+      "sha1": "7bf58800af35bc12b9327bbd7703bdc7655eea03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "grist-2022-10-16T23:12:36.293186-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665987163",
+      "size": "1413",
+      "md5": "18b2c48094cdac3e497f13e7aea9d2b3",
+      "crc32": "32326260",
+      "sha1": "4b6cff2adad9a46101a11289e5b5156242df9dd7",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-10-16T23:12:36.293186-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665987165",
+      "size": "198",
+      "md5": "aa525ad218100c320622c551989609d7",
+      "crc32": "79992ad2",
+      "sha1": "c12eb126a7dd5a6d448e6a2e74407c6ecb9bfced",
+      "format": "JSON"
+    },
+    {
+      "name": "grist-2022-10-16T23:12:36.293186-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "grist-2022-10-16T23:12:36.293186-07:00.jpg",
+      "mtime": "1665987253",
+      "size": "7965",
+      "md5": "b6a68e9137ce4cfce9f0616d529f010c",
+      "crc32": "2a8c3dc4",
+      "sha1": "5016ffefd120481297f50a9e0df8d49d9d2e1e76"
+    },
+    {
       "name": "grist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19f31735ffbe21b3b477d9dc981bb55c21f5e9c6",
-      "mtime": "1665941198",
-      "size": "228148",
-      "md5": "d3ffc75770c5da77dc42cf40691e0ab6",
-      "crc32": "d3c8ef99",
-      "sha1": "27e0d5f578d6a2c976028b2e983f616158eb42a1",
+      "btih": "9d0f7001ce22b10c04577ffe7819ed14febb39ed",
+      "mtime": "1665987286",
+      "size": "229395",
+      "md5": "c1050acdda5051fd10bc36a13f55db7b",
+      "crc32": "30a6247c",
+      "sha1": "f0ba57642bf6bd84877e0d35d68e21ee30e16201",
       "format": "Archive BitTorrent"
     },
     {
       "name": "grist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "797141d9f7d8816584a8e4a6e2f6fe6e",
+      "md5": "324427c4fd884a1c4388936b65efffda",
       "summation": "md5"
     },
     {
       "name": "grist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665941099",
-      "size": "1376256",
-      "md5": "1303388cab0df94366fb50456ca26530",
-      "crc32": "40479549",
-      "sha1": "12f5ec53b00ef98ac41b9ff86f6e78e25ee2c798",
+      "mtime": "1665987173",
+      "size": "1384448",
+      "md5": "7d2c05826f9ddd2b5f88d4b9e6a25d94",
+      "crc32": "00af2614",
+      "sha1": "91af553c8bf4bd7a082309ace96029fbdfced0f6",
       "format": "Metadata"
     },
     {
@@ -11388,9 +11450,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1099,
-  "item_last_updated": 1665941198,
-  "item_size": 68855488,
+  "files_count": 1105,
+  "grist-2022": {
+    "url": "https://grist.org/",
+    "job_id": "spn2-6d934b94571539aab7cf0ed28f383158f0ed8a92",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "item_last_updated": 1665987286,
+  "item_size": 69162592,
   "metadata": {
     "identifier": "grist-2022",
     "collection": [
@@ -11408,7 +11478,7 @@
     "addeddate": "2022-07-09 03:58:54"
   },
   "server": "ia601502.us.archive.org",
-  "uniq": 211925192,
+  "uniq": 1590213051,
   "workable_servers": [
     "ia601502.us.archive.org",
     "ia801502.us.archive.org"
