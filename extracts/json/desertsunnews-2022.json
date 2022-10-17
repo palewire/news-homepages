@@ -1,5 +1,5 @@
 {
-  "created": 1665921379,
+  "created": 1665964759,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/desertsunnews-2022",
@@ -3302,31 +3302,93 @@
       "sha1": "a564b0d70922dd800146e7fae551888801451aa5"
     },
     {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665964684",
+      "size": "21036",
+      "md5": "931d6ffb3e93196e7e5cdf836da28728",
+      "crc32": "e36e6133",
+      "sha1": "53da05212a406e4ddad49b2de174ed74427155c0",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665964686",
+      "size": "28400",
+      "md5": "3ddb7f4699e6b3f5f17c6ac5f50bdb12",
+      "crc32": "d31c87ca",
+      "sha1": "46bf1096814f218e6fea97230649c236114646c9",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.jpg",
+      "source": "original",
+      "mtime": "1665964683",
+      "size": "235487",
+      "md5": "526a9766f0492ef9ce6a5a9a0c062d92",
+      "crc32": "34e351c6",
+      "sha1": "3c092abc85aac0e4995600837fcee724e73eac20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665964691",
+      "size": "1486",
+      "md5": "0e8f97c2a1c28f10f3a300ff8ec3622a",
+      "crc32": "93faead3",
+      "sha1": "337b3fbf4992ccac3866a069fe9c0224485a6616",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665964692",
+      "size": "52138",
+      "md5": "8c3351b710d40d5fe44b51531038fc29",
+      "crc32": "132ec36a",
+      "sha1": "97e6daac3db68a752da28030c38b91234b2c384a",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-16T16:58:00.456946-07:00.jpg",
+      "mtime": "1665964747",
+      "size": "8944",
+      "md5": "187562dfb48ad040283bc6fd389f337e",
+      "crc32": "edfd9b54",
+      "sha1": "e6938fe845e154a6deb6fe0908fe77f16cfd291c"
+    },
+    {
       "name": "desertsunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e567a9126340af24fe972363cd32e9616a9f8b4b",
-      "mtime": "1665921276",
-      "size": "70136",
-      "md5": "522164fbd117a1da694a9bdbaa6299c7",
-      "crc32": "9db89cca",
-      "sha1": "5b1537ff0e4b95e51701a4e19054c3746d906746",
+      "btih": "81e6af7cd06224048405d42fc8bdcc454e9b4165",
+      "mtime": "1665964751",
+      "size": "71433",
+      "md5": "080111823ee1298a76aa501ec28c56bc",
+      "crc32": "f09758c9",
+      "sha1": "a4018a8248469be8cd5b41eedcb4d1a2b8220671",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desertsunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3d57bde3e5bc91eb060263c684f1156e",
+      "md5": "64d3cf0e2b14c444a09bbcf802b3bb9f",
       "summation": "md5"
     },
     {
       "name": "desertsunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665921222",
-      "size": "430080",
-      "md5": "bc0477e99dabc8bc774a3da7ad7a6dc7",
-      "crc32": "24a50324",
-      "sha1": "2a5452edab53e0c1022782ed29cbe381055d35d1",
+      "mtime": "1665964697",
+      "size": "434176",
+      "md5": "73a1c1e9bdece7845b86068ee3dd03b4",
+      "crc32": "b8056e96",
+      "sha1": "50cb577a2488ed93140c0e513c86338e6fd80492",
       "format": "Metadata"
     },
     {
@@ -3340,9 +3402,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 323,
-  "item_last_updated": 1665921276,
-  "item_size": 21379633,
+  "files_count": 329,
+  "item_last_updated": 1665964751,
+  "item_size": 21732517,
   "metadata": {
     "identifier": "desertsunnews-2022",
     "collection": [
@@ -3359,10 +3421,10 @@
     "publicdate": "2022-09-20 22:16:38",
     "addeddate": "2022-09-20 22:16:38"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1131004456,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1421018257,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }
