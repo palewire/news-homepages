@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 772 hyperlink lists with the Internet Archive.
+The archiving routine has saved 773 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-17T17:20:48.255566-04:00.hyperlinks.json) |
 | [October 17 at 10:04 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-17T10:04:52.709907-04:00.hyperlinks.json) |
 | [October 17 at 8:50 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-17T08:50:28.827195-04:00.hyperlinks.json) |
 | [October 16 at 10:26 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-16T22:26:47.129069-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 10:38 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T22:38:35.029924-04:00.hyperlinks.json) |
 | [October 15 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T17:21:12.575528-04:00.hyperlinks.json) |
 | [October 15 at 10:59 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T10:59:21.441641-04:00.hyperlinks.json) |
-| [October 15 at 8:55 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T08:54:48.786561-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 774 accessibility trees with the Internet Archive.
+The archiving routine has saved 775 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-17T17:20:48.255566-04:00.accessibility.json) |
 | [October 17 at 10:04 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-17T10:04:52.709907-04:00.accessibility.json) |
 | [October 17 at 8:50 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-17T08:50:28.827195-04:00.accessibility.json) |
 | [October 16 at 10:26 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-16T22:26:47.129069-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 10:38 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T22:38:35.029924-04:00.accessibility.json) |
 | [October 15 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T17:21:12.575528-04:00.accessibility.json) |
 | [October 15 at 10:59 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T10:59:21.441641-04:00.accessibility.json) |
-| [October 15 at 8:55 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T08:54:48.786561-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 339 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 340 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-17T17:20:48.255566-04:00.lighthouse.json) |
 | [October 17 at 10:05 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-17T10:04:52.709907-04:00.lighthouse.json) |
 | [October 17 at 8:50 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-17T08:50:28.827195-04:00.lighthouse.json) |
 | [October 16 at 10:26 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-16T22:26:47.129069-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 10:38 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T22:38:35.029924-04:00.lighthouse.json) |
 | [October 15 at 5:21 PM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T17:21:12.575528-04:00.lighthouse.json) |
 | [October 15 at 10:59 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T10:59:21.441641-04:00.lighthouse.json) |
-| [October 15 at 8:55 AM](https://archive.org/download/nbcnews-2022/nbcnews-2022-10-15T08:54:48.786561-04:00.lighthouse.json) |
 
 
 

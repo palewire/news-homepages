@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 129 screenshots with the Internet Archive.
+The archiving routine has saved 131 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-18T02:54:04.216409+03:00.jpg">
+  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-18T02:54:04.216409+03:00.jpg"
+     alt="Haaretz at 2022-10-18 02:54:09+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-18T02:54:04.216409+03:00.jpg">October 18 at 2:54 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T14:56:02.148524+03:00.jpg">
+  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T14:56:02.148524+03:00.jpg"
+     alt="Haaretz at 2022-10-17 14:56:07+03:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T14:56:02.148524+03:00.jpg">October 17 at 2:56 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T03:01:50.937485+03:00.jpg">
   <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T03:01:50.937485+03:00.jpg"
      alt="Haaretz at 2022-10-17 03:01:55+03:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-12T15:04:12.015448+03:00.jpg">October 12 at 3:04 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-12T03:02:32.433503+03:00.jpg">
-  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-12T03:02:32.433503+03:00.jpg"
-     alt="Haaretz at 2022-10-12 03:02:41+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-12T03:02:32.433503+03:00.jpg">October 12 at 3:02 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-11T15:09:40.362974+03:00.jpg">
-  <img src="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-11T15:09:40.362974+03:00.jpg"
-     alt="Haaretz at 2022-10-11 15:09:49+03:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-11T15:09:40.362974+03:00.jpg">October 11 at 3:09 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 130 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 2:54 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-18T02:54:04.216409+03:00.hyperlinks.json) |
+| [October 17 at 2:56 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T14:56:02.148524+03:00.hyperlinks.json) |
 | [October 17 at 3:01 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T03:01:50.937485+03:00.hyperlinks.json) |
 | [October 16 at 2:58 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-16T14:58:24.857863+03:00.hyperlinks.json) |
 | [October 16 at 3:11 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-16T03:11:07.030117+03:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 3:06 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-14T15:06:19.857869+03:00.hyperlinks.json) |
 | [October 14 at 3:02 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-14T03:02:28.658798+03:00.hyperlinks.json) |
 | [October 13 at 2:54 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-13T14:53:52.012140+03:00.hyperlinks.json) |
-| [October 13 at 2:57 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-13T02:57:24.610586+03:00.hyperlinks.json) |
-| [October 12 at 3:04 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-12T15:04:12.015448+03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 125 accessibility trees with the Internet Archive.
+The archiving routine has saved 127 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 2:54 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-18T02:54:04.216409+03:00.accessibility.json) |
+| [October 17 at 2:56 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T14:56:02.148524+03:00.accessibility.json) |
 | [October 17 at 3:01 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T03:01:50.937485+03:00.accessibility.json) |
 | [October 16 at 2:58 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-16T14:58:24.857863+03:00.accessibility.json) |
 | [October 16 at 3:11 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-16T03:11:07.030117+03:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 3:06 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-14T15:06:19.857869+03:00.accessibility.json) |
 | [October 14 at 3:02 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-14T03:02:28.658798+03:00.accessibility.json) |
 | [October 13 at 2:54 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-13T14:53:52.012140+03:00.accessibility.json) |
-| [October 13 at 2:57 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-13T02:57:24.610586+03:00.accessibility.json) |
-| [October 12 at 3:04 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-12T15:04:12.015448+03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 131 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 2:54 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-18T02:54:04.216409+03:00.lighthouse.json) |
+| [October 17 at 2:56 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T14:56:02.148524+03:00.lighthouse.json) |
 | [October 17 at 3:01 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-17T03:01:50.937485+03:00.lighthouse.json) |
 | [October 16 at 2:58 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-16T14:58:24.857863+03:00.lighthouse.json) |
 | [October 16 at 3:11 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-16T03:11:07.030117+03:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 3:06 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-14T15:06:19.857869+03:00.lighthouse.json) |
 | [October 14 at 3:02 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-14T03:02:28.658798+03:00.lighthouse.json) |
 | [October 13 at 2:54 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-13T14:53:52.012140+03:00.lighthouse.json) |
-| [October 13 at 2:57 AM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-13T02:57:24.610586+03:00.lighthouse.json) |
-| [October 12 at 3:04 PM](https://archive.org/download/haaretzcom-2022/haaretzcom-2022-10-12T15:04:12.015448+03:00.lighthouse.json) |
 
 
 

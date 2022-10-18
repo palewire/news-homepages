@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 69 screenshots with the Internet Archive.
+The archiving routine has saved 70 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 69 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-17T14:52:08.548395-08:00.jpg">
+  <img src="https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-17T14:52:08.548395-08:00.jpg"
+     alt="Alaska’s News Source at 2022-10-17 14:52:11-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-17T14:52:08.548395-08:00.jpg">October 17 at 2:52 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-17T02:49:20.448695-08:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-12T02:56:43.672538-08:00.jpg">October 12 at 2:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-11T15:00:04.063194-08:00.jpg">
-  <img src="https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-11T15:00:04.063194-08:00.jpg"
-     alt="Alaska’s News Source at 2022-10-11 15:00:07-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-11T15:00:04.063194-08:00.jpg">October 11 at 3:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 69 hyperlink lists with the Internet Archive.
+The archiving routine has saved 70 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 2:52 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-17T14:52:08.548395-08:00.hyperlinks.json) |
 | [October 17 at 2:49 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-17T02:49:20.448695-08:00.hyperlinks.json) |
 | [October 16 at 2:57 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-16T14:57:03.369859-08:00.hyperlinks.json) |
 | [October 16 at 2:52 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-16T02:51:51.288330-08:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 2:54 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-14T02:54:02.968861-08:00.hyperlinks.json) |
 | [October 13 at 3:02 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-13T15:02:50.588576-08:00.hyperlinks.json) |
 | [October 13 at 2:44 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-13T02:44:40.476358-08:00.hyperlinks.json) |
-| [October 12 at 2:55 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-12T14:55:22.904137-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 68 accessibility trees with the Internet Archive.
+The archiving routine has saved 69 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 2:52 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-17T14:52:08.548395-08:00.accessibility.json) |
 | [October 16 at 2:57 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-16T14:57:03.369859-08:00.accessibility.json) |
 | [October 16 at 2:52 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-16T02:51:51.288330-08:00.accessibility.json) |
 | [October 15 at 3:01 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-15T15:01:46.378646-08:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 13 at 3:02 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-13T15:02:50.588576-08:00.accessibility.json) |
 | [October 13 at 2:44 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-13T02:44:40.476358-08:00.accessibility.json) |
 | [October 12 at 2:55 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-12T14:55:22.904137-08:00.accessibility.json) |
-| [October 12 at 2:56 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-12T02:56:43.672538-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 70 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 71 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 2:52 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-17T14:52:08.548395-08:00.lighthouse.json) |
 | [October 17 at 2:49 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-17T02:49:20.448695-08:00.lighthouse.json) |
 | [October 16 at 2:57 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-16T14:57:03.369859-08:00.lighthouse.json) |
 | [October 16 at 2:52 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-16T02:51:51.288330-08:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 2:54 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-14T02:54:02.968861-08:00.lighthouse.json) |
 | [October 13 at 3:03 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-13T15:02:50.588576-08:00.lighthouse.json) |
 | [October 13 at 2:44 AM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-13T02:44:40.476358-08:00.lighthouse.json) |
-| [October 12 at 2:55 PM](https://archive.org/download/aknewsnow-2022/aknewsnow-2022-10-12T14:55:22.904137-08:00.lighthouse.json) |
 
 
 

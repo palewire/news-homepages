@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-17T18:53:48.816103-05:00.jpg">
+  <img src="https://archive.org/download/galesburg-2022/galesburg-2022-10-17T18:53:48.816103-05:00.jpg"
+     alt="The Galesburg Register-Mail at 2022-10-17 18:53:52-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-17T18:53:48.816103-05:00.jpg">October 17 at 6:53 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-17T06:55:06.533065-05:00.jpg">
+  <img src="https://archive.org/download/galesburg-2022/galesburg-2022-10-17T06:55:06.533065-05:00.jpg"
+     alt="The Galesburg Register-Mail at 2022-10-17 06:55:08-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-17T06:55:06.533065-05:00.jpg">October 17 at 6:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-16T19:01:36.957739-05:00.jpg">
   <img src="https://archive.org/download/galesburg-2022/galesburg-2022-10-16T19:01:36.957739-05:00.jpg"
      alt="The Galesburg Register-Mail at 2022-10-16 19:01:38-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-12T07:03:54.728923-05:00.jpg">October 12 at 7:04 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-11T19:01:42.920179-05:00.jpg">
-  <img src="https://archive.org/download/galesburg-2022/galesburg-2022-10-11T19:01:42.920179-05:00.jpg"
-     alt="The Galesburg Register-Mail at 2022-10-11 19:01:46-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-11T19:01:42.920179-05:00.jpg">October 11 at 7:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-11T07:08:49.697452-05:00.jpg">
-  <img src="https://archive.org/download/galesburg-2022/galesburg-2022-10-11T07:08:49.697452-05:00.jpg"
-     alt="The Galesburg Register-Mail at 2022-10-11 07:08:51-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/galesburg-2022/galesburg-2022-10-11T07:08:49.697452-05:00.jpg">October 11 at 7:08 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 54 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 6:53 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-17T18:53:48.816103-05:00.hyperlinks.json) |
+| [October 17 at 6:55 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-17T06:55:06.533065-05:00.hyperlinks.json) |
 | [October 16 at 7:01 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-16T19:01:36.957739-05:00.hyperlinks.json) |
 | [October 16 at 6:58 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-16T06:58:24.294882-05:00.hyperlinks.json) |
 | [October 15 at 7:10 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-15T19:10:11.812987-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 7:06 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-14T07:05:54.557864-05:00.hyperlinks.json) |
 | [October 13 at 7:03 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-13T19:03:25.003060-05:00.hyperlinks.json) |
 | [October 13 at 6:52 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-13T06:52:15.433823-05:00.hyperlinks.json) |
-| [October 12 at 6:56 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-12T18:56:44.572305-05:00.hyperlinks.json) |
-| [October 12 at 7:04 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-12T07:03:54.728923-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 54 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 6:53 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-17T18:53:48.816103-05:00.accessibility.json) |
+| [October 17 at 6:55 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-17T06:55:06.533065-05:00.accessibility.json) |
 | [October 16 at 7:01 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-16T19:01:36.957739-05:00.accessibility.json) |
 | [October 16 at 6:58 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-16T06:58:24.294882-05:00.accessibility.json) |
 | [October 15 at 7:10 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-15T19:10:11.812987-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 7:06 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-14T07:05:54.557864-05:00.accessibility.json) |
 | [October 13 at 7:03 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-13T19:03:25.003060-05:00.accessibility.json) |
 | [October 13 at 6:52 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-13T06:52:15.433823-05:00.accessibility.json) |
-| [October 12 at 6:56 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-12T18:56:44.572305-05:00.accessibility.json) |
-| [October 12 at 7:04 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-12T07:03:54.728923-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 6:53 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-17T18:53:48.816103-05:00.lighthouse.json) |
+| [October 17 at 6:55 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-17T06:55:06.533065-05:00.lighthouse.json) |
 | [October 16 at 7:01 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-16T19:01:36.957739-05:00.lighthouse.json) |
 | [October 16 at 6:58 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-16T06:58:24.294882-05:00.lighthouse.json) |
 | [October 15 at 7:10 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-15T19:10:11.812987-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 7:06 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-14T07:05:54.557864-05:00.lighthouse.json) |
 | [October 13 at 7:03 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-13T19:03:25.003060-05:00.lighthouse.json) |
 | [October 13 at 6:52 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-13T06:52:15.433823-05:00.lighthouse.json) |
-| [October 12 at 6:56 PM](https://archive.org/download/galesburg-2022/galesburg-2022-10-12T18:56:44.572305-05:00.lighthouse.json) |
-| [October 12 at 7:04 AM](https://archive.org/download/galesburg-2022/galesburg-2022-10-12T07:03:54.728923-05:00.lighthouse.json) |
 
 
 

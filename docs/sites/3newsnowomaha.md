@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 161 screenshots with the Internet Archive.
+The archiving routine has saved 162 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 161 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T17:51:38.667134-05:00.jpg">
+  <img src="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T17:51:38.667134-05:00.jpg"
+     alt="KMTV 3 News Now at 2022-10-17 17:51:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T17:51:38.667134-05:00.jpg">October 17 at 5:51 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T05:49:13.567759-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-12T05:56:22.027680-05:00.jpg">October 12 at 5:56 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-11T05:57:48.654121-05:00.jpg">
-  <img src="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-11T05:57:48.654121-05:00.jpg"
-     alt="KMTV 3 News Now at 2022-10-11 05:57:56-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-11T05:57:48.654121-05:00.jpg">October 11 at 5:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 141 hyperlink lists with the Internet Archive.
+The archiving routine has saved 142 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 5:51 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T17:51:38.667134-05:00.hyperlinks.json) |
 | [October 17 at 5:49 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T05:49:13.567759-05:00.hyperlinks.json) |
 | [October 16 at 5:58 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-16T17:58:45.564128-05:00.hyperlinks.json) |
 | [October 16 at 5:51 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-16T05:51:50.102050-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 5:53 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-14T05:53:52.233891-05:00.hyperlinks.json) |
 | [October 13 at 6:03 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-13T18:02:54.667394-05:00.hyperlinks.json) |
 | [October 13 at 5:44 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-13T05:44:28.200459-05:00.hyperlinks.json) |
-| [October 12 at 5:54 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-12T17:53:55.722509-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 144 accessibility trees with the Internet Archive.
+The archiving routine has saved 145 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 5:51 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T17:51:38.667134-05:00.accessibility.json) |
 | [October 17 at 5:49 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T05:49:13.567759-05:00.accessibility.json) |
 | [October 16 at 5:58 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-16T17:58:45.564128-05:00.accessibility.json) |
 | [October 16 at 5:51 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-16T05:51:50.102050-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 5:53 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-14T05:53:52.233891-05:00.accessibility.json) |
 | [October 13 at 6:03 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-13T18:02:54.667394-05:00.accessibility.json) |
 | [October 13 at 5:44 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-13T05:44:28.200459-05:00.accessibility.json) |
-| [October 12 at 5:54 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-12T17:53:55.722509-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 161 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 162 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 5:51 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T17:51:38.667134-05:00.lighthouse.json) |
 | [October 17 at 5:49 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-17T05:49:13.567759-05:00.lighthouse.json) |
 | [October 16 at 5:59 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-16T17:58:45.564128-05:00.lighthouse.json) |
 | [October 16 at 5:52 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-16T05:51:50.102050-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 5:54 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-14T05:53:52.233891-05:00.lighthouse.json) |
 | [October 13 at 6:03 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-13T18:02:54.667394-05:00.lighthouse.json) |
 | [October 13 at 5:44 AM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-13T05:44:28.200459-05:00.lighthouse.json) |
-| [October 12 at 5:54 PM](https://archive.org/download/3newsnowomaha-2022/3newsnowomaha-2022-10-12T17:53:55.722509-05:00.lighthouse.json) |
 
 
 

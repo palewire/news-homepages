@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 113 screenshots with the Internet Archive.
+The archiving routine has saved 115 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-18T01:51:19.895634+02:00.jpg">
+  <img src="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-18T01:51:19.895634+02:00.jpg"
+     alt="Eyethu KwaZulu-Natal at 2022-10-18 01:51:23+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-18T01:51:19.895634+02:00.jpg">October 18 at 1:51 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T13:53:47.675235+02:00.jpg">
+  <img src="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T13:53:47.675235+02:00.jpg"
+     alt="Eyethu KwaZulu-Natal at 2022-10-17 13:53:51+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T13:53:47.675235+02:00.jpg">October 17 at 1:53 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T01:58:08.177292+02:00.jpg">
   <img src="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T01:58:08.177292+02:00.jpg"
      alt="Eyethu KwaZulu-Natal at 2022-10-17 01:58:11+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-12T14:02:29.437373+02:00.jpg">October 12 at 2:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-12T01:59:34.460985+02:00.jpg">
-  <img src="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-12T01:59:34.460985+02:00.jpg"
-     alt="Eyethu KwaZulu-Natal at 2022-10-12 01:59:39+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-12T01:59:34.460985+02:00.jpg">October 12 at 1:59 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-11T14:05:58.553226+02:00.jpg">
-  <img src="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-11T14:05:58.553226+02:00.jpg"
-     alt="Eyethu KwaZulu-Natal at 2022-10-11 14:06:03+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-11T14:05:58.553226+02:00.jpg">October 11 at 2:06 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 113 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 1:51 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-18T01:51:19.895634+02:00.hyperlinks.json) |
+| [October 17 at 1:53 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T13:53:47.675235+02:00.hyperlinks.json) |
 | [October 17 at 1:58 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T01:58:08.177292+02:00.hyperlinks.json) |
 | [October 16 at 1:56 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-16T13:56:41.612369+02:00.hyperlinks.json) |
 | [October 16 at 2:07 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-16T02:07:48.352458+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 2:03 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-14T14:03:35.359555+02:00.hyperlinks.json) |
 | [October 14 at 1:59 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-14T01:59:37.975704+02:00.hyperlinks.json) |
 | [October 13 at 1:51 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-13T13:51:15.528453+02:00.hyperlinks.json) |
-| [October 13 at 1:54 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-13T01:54:00.905137+02:00.hyperlinks.json) |
-| [October 12 at 2:02 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-12T14:02:29.437373+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 114 accessibility trees with the Internet Archive.
+The archiving routine has saved 116 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 1:51 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-18T01:51:19.895634+02:00.accessibility.json) |
+| [October 17 at 1:53 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T13:53:47.675235+02:00.accessibility.json) |
 | [October 17 at 1:58 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T01:58:08.177292+02:00.accessibility.json) |
 | [October 16 at 1:56 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-16T13:56:41.612369+02:00.accessibility.json) |
 | [October 16 at 2:07 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-16T02:07:48.352458+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 2:03 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-14T14:03:35.359555+02:00.accessibility.json) |
 | [October 14 at 1:59 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-14T01:59:37.975704+02:00.accessibility.json) |
 | [October 13 at 1:51 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-13T13:51:15.528453+02:00.accessibility.json) |
-| [October 13 at 1:54 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-13T01:54:00.905137+02:00.accessibility.json) |
-| [October 12 at 2:02 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-12T14:02:29.437373+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 116 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 1:51 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-18T01:51:19.895634+02:00.lighthouse.json) |
+| [October 17 at 1:53 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T13:53:47.675235+02:00.lighthouse.json) |
 | [October 17 at 1:58 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-17T01:58:08.177292+02:00.lighthouse.json) |
 | [October 16 at 1:56 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-16T13:56:41.612369+02:00.lighthouse.json) |
 | [October 16 at 2:08 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-16T02:07:48.352458+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 2:03 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-14T14:03:35.359555+02:00.lighthouse.json) |
 | [October 14 at 1:59 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-14T01:59:37.975704+02:00.lighthouse.json) |
 | [October 13 at 1:51 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-13T13:51:15.528453+02:00.lighthouse.json) |
-| [October 13 at 1:54 AM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-13T01:54:00.905137+02:00.lighthouse.json) |
-| [October 12 at 2:02 PM](https://archive.org/download/eyethunewskzn-2022/eyethunewskzn-2022-10-12T14:02:29.437373+02:00.lighthouse.json) |
 
 
 

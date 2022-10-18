@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 249 screenshots with the Internet Archive.
+The archiving routine has saved 251 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T13:26:06.284585-07:00.jpg">
+  <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T13:26:06.284585-07:00.jpg"
+     alt="Capital & Main at 2022-10-17 13:26:16-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T13:26:06.284585-07:00.jpg">October 17 at 1:26 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T09:20:57.208431-07:00.jpg">
+  <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T09:20:57.208431-07:00.jpg"
+     alt="Capital & Main at 2022-10-17 09:21:07-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T09:20:57.208431-07:00.jpg">October 17 at 9:21 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T22:31:40.553711-07:00.jpg">
   <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T22:31:40.553711-07:00.jpg"
      alt="Capital & Main at 2022-10-16 22:31:47-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T23:17:47.151111-07:00.jpg">October 13 at 11:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T13:25:42.526553-07:00.jpg">
-  <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T13:25:42.526553-07:00.jpg"
-     alt="Capital & Main at 2022-10-13 13:26:09-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T13:25:42.526553-07:00.jpg">October 13 at 1:26 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T09:09:46.841025-07:00.jpg">
-  <img src="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T09:09:46.841025-07:00.jpg"
-     alt="Capital & Main at 2022-10-13 09:10:08-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T09:09:46.841025-07:00.jpg">October 13 at 9:10 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 250 hyperlink lists with the Internet Archive.
+The archiving routine has saved 252 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 1:26 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T13:26:06.284585-07:00.hyperlinks.json) |
+| [October 17 at 9:21 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T09:20:57.208431-07:00.hyperlinks.json) |
 | [October 16 at 10:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T22:31:40.553711-07:00.hyperlinks.json) |
 | [October 16 at 12:27 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T12:27:09.366339-07:00.hyperlinks.json) |
 | [October 16 at 9:44 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T09:43:56.085852-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 9:21 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-15T09:20:57.756024-07:00.hyperlinks.json) |
 | [October 14 at 11:18 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-14T23:17:57.416938-07:00.hyperlinks.json) |
 | [October 14 at 1:42 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-14T13:42:07.467812-07:00.hyperlinks.json) |
-| [October 14 at 9:39 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-14T09:39:12.925838-07:00.hyperlinks.json) |
-| [October 13 at 11:18 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T23:17:47.151111-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 250 accessibility trees with the Internet Archive.
+The archiving routine has saved 252 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 1:26 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T13:26:06.284585-07:00.accessibility.json) |
+| [October 17 at 9:21 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T09:20:57.208431-07:00.accessibility.json) |
 | [October 16 at 10:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T22:31:40.553711-07:00.accessibility.json) |
 | [October 16 at 12:27 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T12:27:09.366339-07:00.accessibility.json) |
 | [October 16 at 9:44 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T09:43:56.085852-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 9:21 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-15T09:20:57.756024-07:00.accessibility.json) |
 | [October 14 at 11:18 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-14T23:17:57.416938-07:00.accessibility.json) |
 | [October 14 at 1:42 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-14T13:42:07.467812-07:00.accessibility.json) |
-| [October 14 at 9:39 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-14T09:39:12.925838-07:00.accessibility.json) |
-| [October 13 at 11:18 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T23:17:47.151111-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 251 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 253 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 1:26 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T13:26:06.284585-07:00.lighthouse.json) |
+| [October 17 at 9:21 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-17T09:20:57.208431-07:00.lighthouse.json) |
 | [October 16 at 10:31 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T22:31:40.553711-07:00.lighthouse.json) |
 | [October 16 at 12:27 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T12:27:09.366339-07:00.lighthouse.json) |
 | [October 16 at 9:44 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-16T09:43:56.085852-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 9:21 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-15T09:20:57.756024-07:00.lighthouse.json) |
 | [October 14 at 11:18 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-14T23:17:57.416938-07:00.lighthouse.json) |
 | [October 14 at 1:42 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-14T13:42:07.467812-07:00.lighthouse.json) |
-| [October 14 at 9:39 AM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-14T09:39:12.925838-07:00.lighthouse.json) |
-| [October 13 at 11:18 PM](https://archive.org/download/capitalandmain-2022/capitalandmain-2022-10-13T23:17:47.151111-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 126 screenshots with the Internet Archive.
+The archiving routine has saved 128 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T16:54:06.009946-07:00.jpg">
+  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T16:54:06.009946-07:00.jpg"
+     alt="Little Green Footballs at 2022-10-17 16:54:13-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T16:54:06.009946-07:00.jpg">October 17 at 4:54 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T04:55:28.453079-07:00.jpg">
+  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T04:55:28.453079-07:00.jpg"
+     alt="Little Green Footballs at 2022-10-17 04:55:35-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T04:55:28.453079-07:00.jpg">October 17 at 4:55 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-16T17:01:11.604868-07:00.jpg">
   <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-16T17:01:11.604868-07:00.jpg"
      alt="Little Green Footballs at 2022-10-16 17:01:17-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-12T05:03:53.375309-07:00.jpg">October 12 at 5:03 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-11T17:01:42.651082-07:00.jpg">
-  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-11T17:01:42.651082-07:00.jpg"
-     alt="Little Green Footballs at 2022-10-11 17:01:47-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-11T17:01:42.651082-07:00.jpg">October 11 at 5:01 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-11T05:09:03.163950-07:00.jpg">
-  <img src="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-11T05:09:03.163950-07:00.jpg"
-     alt="Little Green Footballs at 2022-10-11 05:09:10-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/green_footballs-2022/green_footballs-2022-10-11T05:09:03.163950-07:00.jpg">October 11 at 5:09 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 122 hyperlink lists with the Internet Archive.
+The archiving routine has saved 124 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 4:54 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T16:54:06.009946-07:00.hyperlinks.json) |
+| [October 17 at 4:55 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T04:55:28.453079-07:00.hyperlinks.json) |
 | [October 16 at 5:01 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-16T17:01:11.604868-07:00.hyperlinks.json) |
 | [October 16 at 4:58 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-16T04:58:23.944946-07:00.hyperlinks.json) |
 | [October 15 at 5:10 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-15T17:10:12.781927-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 5:06 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-14T05:06:08.683450-07:00.hyperlinks.json) |
 | [October 13 at 5:02 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-13T17:02:23.714369-07:00.hyperlinks.json) |
 | [October 13 at 4:53 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-13T04:53:01.409357-07:00.hyperlinks.json) |
-| [October 12 at 4:57 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-12T16:56:58.705988-07:00.hyperlinks.json) |
-| [October 12 at 5:04 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-12T05:03:53.375309-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 121 accessibility trees with the Internet Archive.
+The archiving routine has saved 123 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 4:54 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T16:54:06.009946-07:00.accessibility.json) |
+| [October 17 at 4:55 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T04:55:28.453079-07:00.accessibility.json) |
 | [October 16 at 5:01 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-16T17:01:11.604868-07:00.accessibility.json) |
 | [October 16 at 4:58 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-16T04:58:23.944946-07:00.accessibility.json) |
 | [October 15 at 5:10 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-15T17:10:12.781927-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 5:06 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-14T05:06:08.683450-07:00.accessibility.json) |
 | [October 13 at 5:02 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-13T17:02:23.714369-07:00.accessibility.json) |
 | [October 13 at 4:53 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-13T04:53:01.409357-07:00.accessibility.json) |
-| [October 12 at 4:57 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-12T16:56:58.705988-07:00.accessibility.json) |
-| [October 12 at 5:03 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-12T05:03:53.375309-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 127 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 4:54 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T16:54:06.009946-07:00.lighthouse.json) |
+| [October 17 at 4:55 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-17T04:55:28.453079-07:00.lighthouse.json) |
 | [October 16 at 5:01 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-16T17:01:11.604868-07:00.lighthouse.json) |
 | [October 16 at 4:58 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-16T04:58:23.944946-07:00.lighthouse.json) |
 | [October 15 at 5:10 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-15T17:10:12.781927-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 5:06 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-14T05:06:08.683450-07:00.lighthouse.json) |
 | [October 13 at 5:02 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-13T17:02:23.714369-07:00.lighthouse.json) |
 | [October 13 at 4:53 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-13T04:53:01.409357-07:00.lighthouse.json) |
-| [October 12 at 4:57 PM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-12T16:56:58.705988-07:00.lighthouse.json) |
-| [October 12 at 5:04 AM](https://archive.org/download/green_footballs-2022/green_footballs-2022-10-12T05:03:53.375309-07:00.lighthouse.json) |
 
 
 
