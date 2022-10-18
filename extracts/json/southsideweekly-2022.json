@@ -1,5 +1,6 @@
 {
-  "created": 1666064478,
+  "conflict": 1666109511,
+  "created": 1666109511,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/18/items/southsideweekly-2022",
@@ -20078,31 +20079,93 @@
       "sha1": "2aaeb3ec87161161ffcc71bb5b2b8c97a0851c59"
     },
     {
+      "name": "southsideweekly-2022-10-18T10:11:24.434749-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666105897",
+      "size": "16385",
+      "md5": "b9d2ce8df375b859522ba7f1ef57b257",
+      "crc32": "a0aeb2e2",
+      "sha1": "598bbd45e199a012ca749a83fa2f9d0950463242",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-18T10:11:24.434749-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666105899",
+      "size": "29863",
+      "md5": "db0d453364c509a34da86e2da3219a75",
+      "crc32": "0a2d8fcd",
+      "sha1": "aa8980532875cd5ee19c0ae42554b0a1f352e98b",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-18T10:11:24.434749-05:00.jpg",
+      "source": "original",
+      "mtime": "1666105895",
+      "size": "282845",
+      "md5": "ca94046221b0106f3ce321bae4b344db",
+      "crc32": "da7d273e",
+      "sha1": "d7a04e6b82c1f6c61ee9727f52f1851a8d132eca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-10-18T10:11:24.434749-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666105901",
+      "size": "1503",
+      "md5": "ce1675cf2bedc6d03af271768ded23b9",
+      "crc32": "ef0492a1",
+      "sha1": "7d92b854fae956c90493234c5b2409c0d1874314",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-18T10:11:24.434749-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666105903",
+      "size": "26139",
+      "md5": "4fd973ad78569f223a7560a95d6329c5",
+      "crc32": "e89ab7b3",
+      "sha1": "1a63b4f5ba5e1d2be6ac0365bb67882383dd9127",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-18T10:11:24.434749-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-10-18T10:11:24.434749-05:00.jpg",
+      "mtime": "1666105990",
+      "size": "9701",
+      "md5": "fa142b2cd96dc019377a18e9cc324ea0",
+      "crc32": "ba4c7738",
+      "sha1": "2aaeb3ec87161161ffcc71bb5b2b8c97a0851c59"
+    },
+    {
       "name": "southsideweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d04cb4e07e3ae8b25b78c079793feb75fc18b73b",
-      "mtime": "1666064468",
-      "size": "421860",
-      "md5": "218633ee9cb4681ab3bdd611885890eb",
-      "crc32": "e15fc567",
-      "sha1": "81af9f8f72cd62a1b68a128ba3054fe2114a22e9",
+      "btih": "950a4562e4753aa772c1b5fc94a4b03f93931f75",
+      "mtime": "1666106022",
+      "size": "423169",
+      "md5": "b7fbca24dd9ad4de932f6bc2eaa32aee",
+      "crc32": "441205a3",
+      "sha1": "29210d268bf6713bb9cc483ec648723a7f2e4661",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southsideweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9575973e5da2275c8004ea1a6c45c70d",
+      "md5": "8f097f72a29abb4a4d655712c2d37365",
       "summation": "md5"
     },
     {
       "name": "southsideweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666064358",
-      "size": "2428928",
-      "md5": "d4c6504536cdc3742b877efd0f6aa767",
-      "crc32": "82597339",
-      "sha1": "c1de876fd1174e10be2f4a647a98879c38219f72",
+      "mtime": "1666105908",
+      "size": "2433024",
+      "md5": "5eb2d8bbc896a1b6fdc17570358f2476",
+      "crc32": "b3c0fea5",
+      "sha1": "a634dd929450b01f36d62b492b239fa114ce87d0",
       "format": "Metadata"
     },
     {
@@ -20116,9 +20179,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1938,
-  "item_last_updated": 1666064468,
-  "item_size": 132739356,
+  "files_count": 1944,
+  "item_last_updated": 1666106022,
+  "item_size": 133111197,
   "metadata": {
     "identifier": "southsideweekly-2022",
     "collection": [
@@ -20135,10 +20198,21 @@
     "publicdate": "2022-06-19 23:28:17",
     "addeddate": "2022-06-19 23:28:17"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1316341370,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3444835215,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 786518272,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666064401,
+  "created": 1666105982,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/12/items/tci_newsroom-2022",
@@ -3416,31 +3416,93 @@
       "sha1": "b9e57b56a74c60415d78ef12e508c949fa9cea14"
     },
     {
+      "name": "tci_newsroom-2022-10-18T11:11:18.903221-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666105885",
+      "size": "22686",
+      "md5": "13e974d7a340d18973776c02d57fe367",
+      "crc32": "757f3a5a",
+      "sha1": "89f42d08befe06b97921f1236f824e4af932a2b9",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-18T11:11:18.903221-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666105887",
+      "size": "33198",
+      "md5": "56eb37969337546569160cb394dbb614",
+      "crc32": "b6ae5c2a",
+      "sha1": "362b0d86ee0ed74c74caffa1ff1843a9fdcb2473",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-18T11:11:18.903221-04:00.jpg",
+      "source": "original",
+      "mtime": "1666105882",
+      "size": "270239",
+      "md5": "938a0f2de495e7958016630d20767352",
+      "crc32": "bf11dd29",
+      "sha1": "ea9515baac4df94407dac0837a1d2bc1667cfd0c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tci_newsroom-2022-10-18T11:11:18.903221-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666105889",
+      "size": "1585",
+      "md5": "5bbae5d2cdff4e6812daf9c83474daae",
+      "crc32": "372e0a2a",
+      "sha1": "dbe45536140a1154a8f0a51c54fb9a03247d6787",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-18T11:11:18.903221-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666105892",
+      "size": "79368",
+      "md5": "75092157b26160b58a7fc6e66835bc92",
+      "crc32": "1cd0f5f8",
+      "sha1": "90ac2dbcad4092d0756e35cbab9295e5f0eb79e0",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-18T11:11:18.903221-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tci_newsroom-2022-10-18T11:11:18.903221-04:00.jpg",
+      "mtime": "1666105965",
+      "size": "9074",
+      "md5": "611be15cc7c8feb8b923cbb91603a400",
+      "crc32": "41d3ca57",
+      "sha1": "9d2cbe8d796bb3dc45c837003ff23cb872754038"
+    },
+    {
       "name": "tci_newsroom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0f2f8d89312163e52b6c5e383630a3b40b85b74a",
-      "mtime": "1666064391",
-      "size": "72228",
-      "md5": "31d1155b44e874da70ed856fd853b191",
-      "crc32": "d5bef161",
-      "sha1": "f97e41c5c4af7b7d607bd80261620a23e87cce2a",
+      "btih": "a626235ddc09e1d6b16519b493721cd1cd44096d",
+      "mtime": "1666105970",
+      "size": "73519",
+      "md5": "966387731ed03acc7fbb136d93e2c848",
+      "crc32": "6f04716d",
+      "sha1": "69462f846dbe8ab5d39d5e6ab810aea462b6de81",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tci_newsroom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f5fccff5fdddc93cc3179a600e4e8b1b",
+      "md5": "56996d041ee6a1ea2448f2805e4a3379",
       "summation": "md5"
     },
     {
       "name": "tci_newsroom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666064332",
-      "size": "442368",
-      "md5": "f649119dd9eb997363f6a973ae908052",
-      "crc32": "80f274c2",
-      "sha1": "0aa66b85dabc1aee96d9149632d6314d07f3af72",
+      "mtime": "1666105913",
+      "size": "446464",
+      "md5": "05b6f779da1cd44d935e79d136c22558",
+      "crc32": "35b08ed2",
+      "sha1": "e112e5aceb5a23cc921fa873bdcd63d393fcd307",
       "format": "Metadata"
     },
     {
@@ -3454,9 +3516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 334,
-  "item_last_updated": 1666064391,
-  "item_size": 23452643,
+  "files_count": 340,
+  "item_last_updated": 1666105970,
+  "item_size": 23874180,
   "metadata": {
     "identifier": "tci_newsroom-2022",
     "collection": [
@@ -3473,10 +3535,10 @@
     "publicdate": "2022-09-21 03:42:55",
     "addeddate": "2022-09-21 03:42:55"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1379330318,
+  "server": "ia601403.us.archive.org",
+  "uniq": 1965911695,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

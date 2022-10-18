@@ -1,5 +1,5 @@
 {
-  "created": 1666064575,
+  "created": 1666106169,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/therealnews-2022",
@@ -11510,31 +11510,93 @@
       "sha1": "08df9f995bad6134743957d8d6b3b115c27eca69"
     },
     {
+      "name": "therealnews-2022-10-18T11:14:19.153191-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666106063",
+      "size": "25233",
+      "md5": "b953e03f7b91993293805f763de73fcd",
+      "crc32": "ed5662d8",
+      "sha1": "d1cb52969e8f32d7fe3089b127923f0c87a2cbb4",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-18T11:14:19.153191-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666106065",
+      "size": "33475",
+      "md5": "49793c5f82106ddcdf8385a98a49bf88",
+      "crc32": "f9dfa5b9",
+      "sha1": "3ba299148e16894506ba95b4972c87702eb12d96",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-18T11:14:19.153191-04:00.jpg",
+      "source": "original",
+      "mtime": "1666106060",
+      "size": "351317",
+      "md5": "317e55552d3cc41846a7de824df89d05",
+      "crc32": "49b7d0cf",
+      "sha1": "51242b671711680a80d7e3e7514b326b2c184a66",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-18T11:14:19.153191-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666106068",
+      "size": "1468",
+      "md5": "650a1422adf2b5c768d530cc262eab08",
+      "crc32": "aa013e37",
+      "sha1": "ab43b60beb9141eabf217b74e69fa28b6811f3c5",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-18T11:14:19.153191-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666106070",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-18T11:14:19.153191-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-18T11:14:19.153191-04:00.jpg",
+      "mtime": "1666106141",
+      "size": "11532",
+      "md5": "4e7e90072b6336b71c2e251ec06b6c4f",
+      "crc32": "062146a4",
+      "sha1": "08df9f995bad6134743957d8d6b3b115c27eca69"
+    },
+    {
       "name": "therealnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "26930ff6d3d3fbbd8abb4776ca21136dd68ec310",
-      "mtime": "1666064559",
-      "size": "238966",
-      "md5": "0bbfb5e11493ed71a642fccf74af208e",
-      "crc32": "cd875b21",
-      "sha1": "e554757ccf481b2b706f464baaee651d2bb70f70",
+      "btih": "3c3b98764b2da6446b67b4348a1715243a1e8912",
+      "mtime": "1666106153",
+      "size": "240250",
+      "md5": "b4e2f520b635b1311831db3bd5d27f17",
+      "crc32": "f03067f7",
+      "sha1": "71fb2087a7bf6cd195c864d4928b28d2e35b8c4c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "therealnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5165dec62119cc6de18869d1f1a1ee9",
+      "md5": "67642d1f905a140fcce7f0899995050e",
       "summation": "md5"
     },
     {
       "name": "therealnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666064466",
-      "size": "1417216",
-      "md5": "27ef796640087db88045efa2e0e25b11",
-      "crc32": "b2cf36e0",
-      "sha1": "d53d9409bf03f84b572cf754ee2f2504099866b4",
+      "mtime": "1666106076",
+      "size": "1421312",
+      "md5": "0099766e3e48f1f0f3184f0e3b28a966",
+      "crc32": "95b124b9",
+      "sha1": "1fa82da4c23d7b9df8724cafa19ceef89d21be40",
       "format": "Metadata"
     },
     {
@@ -11548,9 +11610,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1115,
-  "item_last_updated": 1666064559,
-  "item_size": 85926861,
+  "files_count": 1121,
+  "item_last_updated": 1666106153,
+  "item_size": 86355468,
   "metadata": {
     "identifier": "therealnews-2022",
     "collection": [
@@ -11567,10 +11629,10 @@
     "publicdate": "2022-07-13 02:25:04",
     "addeddate": "2022-07-13 02:25:04"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 411023964,
+  "server": "ia801401.us.archive.org",
+  "uniq": 171087623,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
