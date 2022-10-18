@@ -1,5 +1,5 @@
 {
-  "created": 1665993618,
+  "created": 1666078131,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/12/items/shreveporttimes-2022",
@@ -3354,31 +3354,155 @@
       "sha1": "736e48a64aad40772e3f60a64a146a87a74a6fa6"
     },
     {
+      "name": "shreveporttimes-2022-10-17T14:43:39.007367-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666035824",
+      "size": "18013",
+      "md5": "088b8568bd3f6c5b55b5730b6d82517d",
+      "crc32": "d9b1fd77",
+      "sha1": "0698dec4ff3d238116e94cf9483891a30d66d4af",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-17T14:43:39.007367-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666035825",
+      "size": "35397",
+      "md5": "d1da6a51bc55089c12a57607cd5b4f4c",
+      "crc32": "393345ff",
+      "sha1": "2710fce56e22ecdba59981ae82df9bd65efb33a7",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-17T14:43:39.007367-05:00.jpg",
+      "source": "original",
+      "mtime": "1666035822",
+      "size": "293832",
+      "md5": "f2b2b8e5f73cb9490c4b23b1311d8165",
+      "crc32": "9b56ea67",
+      "sha1": "214cc7bd13f350f4a5cb2f121148f18db51a534f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shreveporttimes-2022-10-17T14:43:39.007367-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666035828",
+      "size": "1540",
+      "md5": "98f7e919f7316d868f4ad96248e584a7",
+      "crc32": "da937c4e",
+      "sha1": "dcfdaea4bf098d9e18f48bc8cb1423428f4b4bfe",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-17T14:43:39.007367-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666035829",
+      "size": "73876",
+      "md5": "c7567515ecaaf328a94c5fb5f902cb0d",
+      "crc32": "b793e7d2",
+      "sha1": "f1326d610136dd0ef3c80a99bfe015957b6a227d",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-17T14:43:39.007367-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shreveporttimes-2022-10-17T14:43:39.007367-05:00.jpg",
+      "mtime": "1666035884",
+      "size": "9150",
+      "md5": "413814dced688b0a948103f317944890",
+      "crc32": "c8da445a",
+      "sha1": "8b2214811f8691eea52e351dbb3f11d2a9472f08"
+    },
+    {
+      "name": "shreveporttimes-2022-10-18T02:27:31.194762-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666078059",
+      "size": "19914",
+      "md5": "cee0a939be32bb0b7654ab15666612a9",
+      "crc32": "c8075f1c",
+      "sha1": "8457d1b80cebb60d80fdfabe6ee4f2344043b19d",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-18T02:27:31.194762-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666078061",
+      "size": "34217",
+      "md5": "fb7bfeddf83851f20635be847767cdba",
+      "crc32": "fcfc1252",
+      "sha1": "d04d5eae60bb0c906a277f3105c11ad82a9d296c",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-18T02:27:31.194762-05:00.jpg",
+      "source": "original",
+      "mtime": "1666078058",
+      "size": "261306",
+      "md5": "7dcca286e935e66f1240a445d2516a9e",
+      "crc32": "7d0eb2ed",
+      "sha1": "6b4a8f2383b374bdee270aa80381ae9908c2fb6d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shreveporttimes-2022-10-18T02:27:31.194762-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666078062",
+      "size": "1540",
+      "md5": "c08cdb3331e321857f7278b96bbd1c51",
+      "crc32": "4ec58f52",
+      "sha1": "0799d71006290ba81e590c6322c5e7141ab8a957",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-18T02:27:31.194762-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666078064",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-18T02:27:31.194762-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shreveporttimes-2022-10-18T02:27:31.194762-05:00.jpg",
+      "mtime": "1666078120",
+      "size": "9256",
+      "md5": "35d2037ae383319886bb0ab3b3aae6ae",
+      "crc32": "059aac81",
+      "sha1": "60a3c9c871725e189f1ec0860ae0fd7fa3eed4e0"
+    },
+    {
       "name": "shreveporttimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "45510564ede1c9b95bfb55d9339554a447e65b29",
-      "mtime": "1665993606",
-      "size": "71844",
-      "md5": "114391acb08fdf3fb2f7bcf0ac699be5",
-      "crc32": "32a4d062",
-      "sha1": "a7a621808bed998e96de57d56f087bb4ae974f93",
+      "btih": "8225a7eee1aeaf290e343c4d239a08516084bbbf",
+      "mtime": "1666078124",
+      "size": "74460",
+      "md5": "22f25fc49b4debc92c7bea2c583b25db",
+      "crc32": "b5da5a58",
+      "sha1": "8824e20c9d5ea071aafe340f014fb8122bc10241",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shreveporttimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "15b85bfbc2d0d6ccfc68e804a5f20da6",
+      "md5": "7a11798103d6111fb367baf8c62802af",
       "summation": "md5"
     },
     {
       "name": "shreveporttimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665993533",
-      "size": "434176",
-      "md5": "d45b81827cf43f3ffd34158ca74a9f6f",
-      "crc32": "bf1d2f5a",
-      "sha1": "545be42a4b35d0d9fa96748b5e3d3aa22979bf38",
+      "mtime": "1666078074",
+      "size": "446464",
+      "md5": "7a3065b74a15a52cd42cc89eeb4de191",
+      "crc32": "a700ab6c",
+      "sha1": "198e1d245d6a18f587f76236840cf06e3ce716ab",
       "format": "Metadata"
     },
     {
@@ -3392,9 +3516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 328,
-  "item_last_updated": 1665993606,
-  "item_size": 20960913,
+  "files_count": 340,
+  "item_last_updated": 1666078124,
+  "item_size": 21734060,
   "metadata": {
     "identifier": "shreveporttimes-2022",
     "collection": [
@@ -3411,10 +3535,10 @@
     "publicdate": "2022-09-20 19:23:49",
     "addeddate": "2022-09-20 19:23:49"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 111020792,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1382358876,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
