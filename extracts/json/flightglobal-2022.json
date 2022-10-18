@@ -1,5 +1,5 @@
 {
-  "created": 1666050785,
+  "created": 1666085187,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/flightglobal-2022",
@@ -10970,31 +10970,93 @@
       "sha1": "1b70a6e75702514dd89401c5ec9907acb11a1cd7"
     },
     {
+      "name": "flightglobal-2022-10-18T10:24:00.953317+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666085050",
+      "size": "40251",
+      "md5": "bd26426a943da73b683bad6e242272f0",
+      "crc32": "a0c74fab",
+      "sha1": "48edee2d853b29c5e525f4c1db9c9cc0fcafcd47",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-10-18T10:24:00.953317+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666085051",
+      "size": "56560",
+      "md5": "ff56000b69f1d03b825ff915e97f6e69",
+      "crc32": "e022fe0d",
+      "sha1": "a3b30c0fe59c5c556d10e91d1e55630f997cff52",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-10-18T10:24:00.953317+01:00.jpg",
+      "source": "original",
+      "mtime": "1666085048",
+      "size": "249641",
+      "md5": "5b21992994a7b6a2576bd04e80ebec59",
+      "crc32": "23190ce9",
+      "sha1": "aecb007120e4664cad73f5c182a2f883d901a9b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flightglobal-2022-10-18T10:24:00.953317+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666085053",
+      "size": "1513",
+      "md5": "f6a86405e1def2cdf6c67017b209e777",
+      "crc32": "9fbeeedb",
+      "sha1": "a3f15c0295d1ab82e5023dd161242e21d935338c",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-10-18T10:24:00.953317+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666085056",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "flightglobal-2022-10-18T10:24:00.953317+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flightglobal-2022-10-18T10:24:00.953317+01:00.jpg",
+      "mtime": "1666085138",
+      "size": "9576",
+      "md5": "25e0945339fe08fb7a439281d4ccb059",
+      "crc32": "2f3848c2",
+      "sha1": "7e76bb89b9524c14c09462e05f436e115b70dc82"
+    },
+    {
       "name": "flightglobal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3cf1e70b5c8ea2ef8401c86c7ac2bfcf99d9addc",
-      "mtime": "1666050776",
-      "size": "228702",
-      "md5": "af413667f25ad8da04273a067d179e2d",
-      "crc32": "1c42d733",
-      "sha1": "3896df190cb00309ac4c502fa1d2f3725e2ab62d",
+      "btih": "15382a29f60594cb7819363c8b5a22f8f12c9ba0",
+      "mtime": "1666085170",
+      "size": "229991",
+      "md5": "ec87e5e4330a0bbbe5fee17dc9b65e99",
+      "crc32": "1f268f21",
+      "sha1": "de51b6650aa938a1cdc382e582d48f6df7a9513c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flightglobal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44b27a3ac7fee5f7b5deac6ecda35959",
+      "md5": "e6bb65c2f7a9458874d79848dd545c36",
       "summation": "md5"
     },
     {
       "name": "flightglobal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666050701",
-      "size": "1368064",
-      "md5": "d489e283e0e14ebc2fc13d61915cdbf9",
-      "crc32": "c48c9aa3",
-      "sha1": "e449ab1673f0e65f0266ed56e5e853b8adff406e",
+      "mtime": "1666085069",
+      "size": "1372160",
+      "md5": "2dc08a7a938fd0867e3314c97a8d99fd",
+      "crc32": "0884ff7b",
+      "sha1": "c6c376bcdd89931e7e03dd6446e60bd95ea91dca",
       "format": "Metadata"
     },
     {
@@ -11008,9 +11070,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1065,
-  "item_last_updated": 1666050776,
-  "item_size": 68598649,
+  "files_count": 1071,
+  "item_last_updated": 1666085170,
+  "item_size": 68961777,
   "metadata": {
     "identifier": "flightglobal-2022",
     "collection": [
@@ -11028,7 +11090,7 @@
     "addeddate": "2022-08-20 23:04:25"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 337983634,
+  "uniq": 543845410,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

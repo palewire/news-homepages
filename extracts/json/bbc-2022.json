@@ -1,5 +1,6 @@
 {
-  "created": 1666068254,
+  "conflict": 1666085183,
+  "created": 1666085183,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/3/items/bbc-2022",
@@ -28704,31 +28705,88 @@
       "sha1": "966d637b75f07e2afed8c8b50df3b4d997b09e84"
     },
     {
+      "name": "bbc-2022-10-18T10:23:55.763989+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666085039",
+      "size": "21731",
+      "md5": "957afde214723a3223fa89d05c5438c3",
+      "crc32": "cf501aba",
+      "sha1": "c01999b1de79f6e1d492da7e90f57cb1f514f551",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-10-18T10:23:55.763989+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666085041",
+      "size": "24697",
+      "md5": "29ebe75341ce18962d779afeae7612a7",
+      "crc32": "821d17ea",
+      "sha1": "0c38115b804bd3cd38c4007473fa0b5241f713a4",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-10-18T10:23:55.763989+01:00.jpg",
+      "source": "original",
+      "mtime": "1666085037",
+      "size": "320143",
+      "md5": "36ef4e9531b5bf470ebd64b2cf4edede",
+      "crc32": "bb76d30e",
+      "sha1": "af9ca8bfd4fdeffb95fcc7daa374eb7cbb99c76c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bbc-2022-10-18T10:23:55.763989+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666085048",
+      "size": "1468",
+      "md5": "9c60c9a3c1a1d6e27cdf35ce95fa453f",
+      "crc32": "cecdd96e",
+      "sha1": "9e3f0e2ba43bc55276e59f1ba86718334da699e9",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-10-18T10:23:55.763989+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666085050",
+      "size": "230",
+      "md5": "42a58ac44781f06000c78ddf7dedc062",
+      "crc32": "74dced99",
+      "sha1": "96ea79da4e54e68ab6c824fa77eba3dea26e5482",
+      "format": "JSON"
+    },
+    {
+      "name": "bbc-2022-10-18T10:23:55.763989+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bbc-2022-10-18T10:23:55.763989+01:00.jpg"
+    },
+    {
       "name": "bbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca9456d35537bec9821adbbd1caa20f9e159ec90",
-      "mtime": "1666068234",
-      "size": "568316",
-      "md5": "ccdd1a1df3a91e5ff0867b5822b065f6",
-      "crc32": "ae221d48",
-      "sha1": "c79ca7b6ae4ee6dde92191b006053c9df0ea777f",
+      "btih": "a81f0b7e096dc3e7611798795d7363e4dadf6f02",
+      "mtime": "1666085150",
+      "size": "569352",
+      "md5": "f1e0afa75cff741b872177b487e22b1d",
+      "crc32": "eb844d04",
+      "sha1": "1ff3d7e72ef6fd53352af1034caa6ff7fc7be4a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8ec54d61a369aa85f09a6c3c144f0fd",
+      "md5": "acec48103db3e2622700793cf2dc0481",
       "summation": "md5"
     },
     {
       "name": "bbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666068028",
-      "size": "3305472",
-      "md5": "7dfe7ce7e0d556c5a0310191c1221665",
-      "crc32": "89bc2c4c",
-      "sha1": "29bafad4866b69dec959775e842bd513db71f00a",
+      "mtime": "1666085053",
+      "size": "3313664",
+      "md5": "41da7ec6c783df7235c2f0f3359bccf7",
+      "crc32": "e36292d4",
+      "sha1": "210d4650bf2af1cfb3939360a348efe3be4b92d3",
       "format": "Metadata"
     },
     {
@@ -28742,9 +28800,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2759,
-  "item_last_updated": 1666068234,
-  "item_size": 230079240,
+  "files_count": 2765,
+  "item_last_updated": 1666085150,
+  "item_size": 230456737,
   "metadata": {
     "identifier": "bbc-2022",
     "collection": [
@@ -28761,10 +28819,21 @@
     "publicdate": "2022-03-23 01:47:02",
     "addeddate": "2022-03-23 01:47:02"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 910059910,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3444558076,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 724697017,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }
