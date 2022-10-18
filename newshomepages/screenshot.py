@@ -6,8 +6,10 @@ from playwright.sync_api import sync_playwright
 from retry import retry
 from rich import print
 
-from . import browser_utils
-from . import utils
+try:
+    from . import utils
+except:
+    import utils
 
 
 @click.command()
@@ -45,8 +47,8 @@ def _screenshot(
     output_path.mkdir(parents=True, exist_ok=True)
 
     with sync_playwright() as playwright:
-        context = browser_utils._load_persistent_context(playwright, width, height)
-        page = browser_utils._load_new_page_disable_javascript(
+        context = utils._load_persistent_context(playwright, width, height)
+        page = utils._load_new_page_disable_javascript(
             context=context,
             url=site['url'],
             wait_seconds=int(site["wait"] or wait) / 1000,
