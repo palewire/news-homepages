@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 173 screenshots with the Internet Archive.
+The archiving routine has saved 174 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 173 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-18T03:52:14.052852-07:00.jpg">
+  <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-18T03:52:14.052852-07:00.jpg"
+     alt="9to5Mac at 2022-10-18 03:52:32-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-18T03:52:14.052852-07:00.jpg">October 18 at 3:52 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-17T15:51:25.294578-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-12T15:55:30.333855-07:00.jpg">October 12 at 3:55 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-12T03:56:45.845971-07:00.jpg">
-  <img src="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-12T03:56:45.845971-07:00.jpg"
-     alt="9to5Mac at 2022-10-12 03:56:53-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/9to5mac-2022/9to5mac-2022-10-12T03:56:45.845971-07:00.jpg">October 12 at 3:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 173 hyperlink lists with the Internet Archive.
+The archiving routine has saved 174 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 3:52 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-18T03:52:14.052852-07:00.hyperlinks.json) |
 | [October 17 at 3:51 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-17T15:51:25.294578-07:00.hyperlinks.json) |
 | [October 17 at 3:48 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-17T03:48:43.579021-07:00.hyperlinks.json) |
 | [October 16 at 3:57 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-16T15:57:08.365952-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 4:02 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-14T16:02:36.460763-07:00.hyperlinks.json) |
 | [October 14 at 3:54 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-14T03:54:08.735261-07:00.hyperlinks.json) |
 | [October 13 at 4:03 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-13T16:03:13.673732-07:00.hyperlinks.json) |
-| [October 13 at 3:45 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-13T03:45:14.663728-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 173 accessibility trees with the Internet Archive.
+The archiving routine has saved 174 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 3:52 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-18T03:52:14.052852-07:00.accessibility.json) |
 | [October 17 at 3:51 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-17T15:51:25.294578-07:00.accessibility.json) |
 | [October 17 at 3:48 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-17T03:48:43.579021-07:00.accessibility.json) |
 | [October 16 at 3:57 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-16T15:57:08.365952-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 4:02 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-14T16:02:36.460763-07:00.accessibility.json) |
 | [October 14 at 3:54 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-14T03:54:08.735261-07:00.accessibility.json) |
 | [October 13 at 4:03 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-13T16:03:13.673732-07:00.accessibility.json) |
-| [October 13 at 3:45 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-13T03:45:14.663728-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 173 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 3:52 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-18T03:52:14.052852-07:00.lighthouse.json) |
 | [October 17 at 3:51 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-17T15:51:25.294578-07:00.lighthouse.json) |
 | [October 17 at 3:48 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-17T03:48:43.579021-07:00.lighthouse.json) |
 | [October 16 at 3:57 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-16T15:57:08.365952-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 4:02 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-14T16:02:36.460763-07:00.lighthouse.json) |
 | [October 14 at 3:54 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-14T03:54:08.735261-07:00.lighthouse.json) |
 | [October 13 at 4:03 PM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-13T16:03:13.673732-07:00.lighthouse.json) |
-| [October 13 at 3:45 AM](https://archive.org/download/9to5mac-2022/9to5mac-2022-10-13T03:45:14.663728-07:00.lighthouse.json) |
 
 
 
