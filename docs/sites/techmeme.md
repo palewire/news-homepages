@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 278 screenshots with the Internet Archive.
+The archiving routine has saved 280 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-18T00:15:18.698017-07:00.jpg">
+  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-10-18T00:15:18.698017-07:00.jpg"
+     alt="TechMeme at 2022-10-18 00:15:20-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-18T00:15:18.698017-07:00.jpg">October 18 at 12:15 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-17T13:04:20.096116-07:00.jpg">
+  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-10-17T13:04:20.096116-07:00.jpg"
+     alt="TechMeme at 2022-10-17 13:04:47-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-17T13:04:20.096116-07:00.jpg">October 17 at 1:04 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-17T00:46:46.123021-07:00.jpg">
   <img src="https://archive.org/download/techmeme-2022/techmeme-2022-10-17T00:46:46.123021-07:00.jpg"
      alt="TechMeme at 2022-10-17 00:46:56-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-12T11:48:12.780461-07:00.jpg">October 12 at 11:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-12T01:09:05.840903-07:00.jpg">
-  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-10-12T01:09:05.840903-07:00.jpg"
-     alt="TechMeme at 2022-10-12 01:09:16-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-12T01:09:05.840903-07:00.jpg">October 12 at 1:09 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-11T12:17:06.119444-07:00.jpg">
-  <img src="https://archive.org/download/techmeme-2022/techmeme-2022-10-11T12:17:06.119444-07:00.jpg"
-     alt="TechMeme at 2022-10-11 12:17:30-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techmeme-2022/techmeme-2022-10-11T12:17:06.119444-07:00.jpg">October 11 at 12:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 280 hyperlink lists with the Internet Archive.
+The archiving routine has saved 282 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 12:15 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-18T00:15:18.698017-07:00.hyperlinks.json) |
+| [October 17 at 1:04 PM](https://archive.org/download/techmeme-2022/techmeme-2022-10-17T13:04:20.096116-07:00.hyperlinks.json) |
 | [October 17 at 12:47 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-17T00:46:46.123021-07:00.hyperlinks.json) |
 | [October 16 at 11:53 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-16T11:52:34.363911-07:00.hyperlinks.json) |
 | [October 16 at 12:26 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-16T00:25:56.131821-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 1:31 PM](https://archive.org/download/techmeme-2022/techmeme-2022-10-14T13:31:37.751496-07:00.hyperlinks.json) |
 | [October 14 at 1:07 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-14T01:06:48.095126-07:00.hyperlinks.json) |
 | [October 13 at 1:14 PM](https://archive.org/download/techmeme-2022/techmeme-2022-10-13T13:13:15.148170-07:00.hyperlinks.json) |
-| [October 13 at 12:26 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-13T00:25:41.148378-07:00.hyperlinks.json) |
-| [October 12 at 11:48 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-12T11:48:12.780461-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 280 accessibility trees with the Internet Archive.
+The archiving routine has saved 282 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 12:15 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-18T00:15:18.698017-07:00.accessibility.json) |
+| [October 17 at 1:04 PM](https://archive.org/download/techmeme-2022/techmeme-2022-10-17T13:04:20.096116-07:00.accessibility.json) |
 | [October 17 at 12:46 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-17T00:46:46.123021-07:00.accessibility.json) |
 | [October 16 at 11:53 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-16T11:52:34.363911-07:00.accessibility.json) |
 | [October 16 at 12:26 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-16T00:25:56.131821-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 1:31 PM](https://archive.org/download/techmeme-2022/techmeme-2022-10-14T13:31:37.751496-07:00.accessibility.json) |
 | [October 14 at 1:07 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-14T01:06:48.095126-07:00.accessibility.json) |
 | [October 13 at 1:14 PM](https://archive.org/download/techmeme-2022/techmeme-2022-10-13T13:13:15.148170-07:00.accessibility.json) |
-| [October 13 at 12:26 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-13T00:25:41.148378-07:00.accessibility.json) |
-| [October 12 at 11:48 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-12T11:48:12.780461-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 173 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 12:15 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-18T00:15:18.698017-07:00.lighthouse.json) |
+| [October 17 at 1:04 PM](https://archive.org/download/techmeme-2022/techmeme-2022-10-17T13:04:20.096116-07:00.lighthouse.json) |
 | [October 17 at 12:47 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-17T00:46:46.123021-07:00.lighthouse.json) |
 | [October 16 at 11:53 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-16T11:52:34.363911-07:00.lighthouse.json) |
 | [October 16 at 12:26 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-16T00:25:56.131821-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 1:31 PM](https://archive.org/download/techmeme-2022/techmeme-2022-10-14T13:31:37.751496-07:00.lighthouse.json) |
 | [October 14 at 1:07 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-14T01:06:48.095126-07:00.lighthouse.json) |
 | [October 13 at 1:14 PM](https://archive.org/download/techmeme-2022/techmeme-2022-10-13T13:13:15.148170-07:00.lighthouse.json) |
-| [October 13 at 12:26 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-13T00:25:41.148378-07:00.lighthouse.json) |
-| [October 12 at 11:48 AM](https://archive.org/download/techmeme-2022/techmeme-2022-10-12T11:48:12.780461-07:00.lighthouse.json) |
 
 
 

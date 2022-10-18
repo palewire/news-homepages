@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 135 screenshots with the Internet Archive.
+The archiving routine has saved 137 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-18T09:24:51.091558+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-18T09:24:51.091558+02:00.jpg"
+     alt="Repubblica at 2022-10-18 09:24:58+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-18T09:24:51.091558+02:00.jpg">October 18 at 9:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-17T21:40:27.922982+02:00.jpg">
+  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-17T21:40:27.922982+02:00.jpg"
+     alt="Repubblica at 2022-10-17 21:40:36+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-17T21:40:27.922982+02:00.jpg">October 17 at 9:40 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.jpg">
   <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.jpg"
      alt="Repubblica at 2022-10-17 09:55:46+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-12T21:18:52.287261+02:00.jpg">October 12 at 9:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-12T10:04:59.149963+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-12T10:04:59.149963+02:00.jpg"
-     alt="Repubblica at 2022-10-12 10:05:08+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-12T10:04:59.149963+02:00.jpg">October 12 at 10:05 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-11T21:11:54.070618+02:00.jpg">
-  <img src="https://archive.org/download/repubblica-2022/repubblica-2022-10-11T21:11:54.070618+02:00.jpg"
-     alt="Repubblica at 2022-10-11 21:12:06+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/repubblica-2022/repubblica-2022-10-11T21:11:54.070618+02:00.jpg">October 11 at 9:12 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 135 hyperlink lists with the Internet Archive.
+The archiving routine has saved 137 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 9:25 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-18T09:24:51.091558+02:00.hyperlinks.json) |
+| [October 17 at 9:40 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-17T21:40:27.922982+02:00.hyperlinks.json) |
 | [October 17 at 9:55 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.hyperlinks.json) |
 | [October 16 at 9:00 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T21:00:36.278877+02:00.hyperlinks.json) |
 | [October 16 at 9:26 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T09:25:58.209284+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 10:26 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T22:26:34.837885+02:00.hyperlinks.json) |
 | [October 14 at 10:04 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T10:04:14.220883+02:00.hyperlinks.json) |
 | [October 13 at 10:10 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T22:10:09.005668+02:00.hyperlinks.json) |
-| [October 13 at 9:22 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T09:22:33.193616+02:00.hyperlinks.json) |
-| [October 12 at 9:19 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-12T21:18:52.287261+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 135 accessibility trees with the Internet Archive.
+The archiving routine has saved 137 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 9:25 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-18T09:24:51.091558+02:00.accessibility.json) |
+| [October 17 at 9:40 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-17T21:40:27.922982+02:00.accessibility.json) |
 | [October 17 at 9:55 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.accessibility.json) |
 | [October 16 at 9:00 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T21:00:36.278877+02:00.accessibility.json) |
 | [October 16 at 9:26 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T09:25:58.209284+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 10:26 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T22:26:34.837885+02:00.accessibility.json) |
 | [October 14 at 10:04 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T10:04:14.220883+02:00.accessibility.json) |
 | [October 13 at 10:10 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T22:10:09.005668+02:00.accessibility.json) |
-| [October 13 at 9:22 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T09:22:33.193616+02:00.accessibility.json) |
-| [October 12 at 9:19 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-12T21:18:52.287261+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 135 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 137 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 9:25 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-18T09:24:51.091558+02:00.lighthouse.json) |
+| [October 17 at 9:40 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-17T21:40:27.922982+02:00.lighthouse.json) |
 | [October 17 at 9:55 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-17T09:55:30.717688+02:00.lighthouse.json) |
 | [October 16 at 9:00 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T21:00:36.278877+02:00.lighthouse.json) |
 | [October 16 at 9:26 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-16T09:25:58.209284+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 10:26 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T22:26:34.837885+02:00.lighthouse.json) |
 | [October 14 at 10:04 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-14T10:04:14.220883+02:00.lighthouse.json) |
 | [October 13 at 10:10 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T22:10:09.005668+02:00.lighthouse.json) |
-| [October 13 at 9:22 AM](https://archive.org/download/repubblica-2022/repubblica-2022-10-13T09:22:33.193616+02:00.lighthouse.json) |
-| [October 12 at 9:19 PM](https://archive.org/download/repubblica-2022/repubblica-2022-10-12T21:18:52.287261+02:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 55 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-18T01:55:46.639820-04:00.jpg">
+  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-18T01:55:46.639820-04:00.jpg"
+     alt="Cherry Hill Courier Post at 2022-10-18 01:55:49-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-18T01:55:46.639820-04:00.jpg">October 18 at 1:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-17T14:04:53.346170-04:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-12T13:27:13.975418-04:00.jpg">October 12 at 1:27 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-12T02:39:10.837793-04:00.jpg">
-  <img src="https://archive.org/download/cpsj-2022/cpsj-2022-10-12T02:39:10.837793-04:00.jpg"
-     alt="Cherry Hill Courier Post at 2022-10-12 02:39:13-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cpsj-2022/cpsj-2022-10-12T02:39:10.837793-04:00.jpg">October 12 at 2:39 AM</a></p>
 </div>
 
 </div>
@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 1:55 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-18T01:55:46.639820-04:00.accessibility.json) |
 | [October 17 at 2:04 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-17T14:04:53.346170-04:00.accessibility.json) |
 | [October 17 at 2:19 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-17T02:19:36.067261-04:00.accessibility.json) |
 | [October 16 at 1:31 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-16T13:30:59.448444-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 3:46 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-14T15:46:19.515181-04:00.accessibility.json) |
 | [October 14 at 2:35 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-14T02:35:17.190931-04:00.accessibility.json) |
 | [October 13 at 2:46 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-13T14:46:23.710761-04:00.accessibility.json) |
-| [October 13 at 1:59 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-13T01:59:42.830147-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 1:55 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-18T01:55:46.639820-04:00.lighthouse.json) |
 | [October 17 at 2:05 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-17T14:04:53.346170-04:00.lighthouse.json) |
 | [October 17 at 2:19 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-17T02:19:36.067261-04:00.lighthouse.json) |
 | [October 16 at 1:31 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-16T13:30:59.448444-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 3:46 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-14T15:46:19.515181-04:00.lighthouse.json) |
 | [October 14 at 2:35 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-14T02:35:17.190931-04:00.lighthouse.json) |
 | [October 13 at 2:46 PM](https://archive.org/download/cpsj-2022/cpsj-2022-10-13T14:46:23.710761-04:00.lighthouse.json) |
-| [October 13 at 1:59 AM](https://archive.org/download/cpsj-2022/cpsj-2022-10-13T01:59:42.830147-04:00.lighthouse.json) |
 
 
 

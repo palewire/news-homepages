@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 168 screenshots with the Internet Archive.
+The archiving routine has saved 170 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-18T08:27:39.710391+01:00.jpg">
+  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-18T08:27:39.710391+01:00.jpg"
+     alt="Simple Flying at 2022-10-18 08:27:41+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-18T08:27:39.710391+01:00.jpg">October 18 at 8:27 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T20:44:31.485670+01:00.jpg">
+  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T20:44:31.485670+01:00.jpg"
+     alt="Simple Flying at 2022-10-17 20:44:32+01:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T20:44:31.485670+01:00.jpg">October 17 at 8:44 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T10:24:08.733501+01:00.jpg">
   <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T10:24:08.733501+01:00.jpg"
      alt="Simple Flying at 2022-10-17 10:24:09+01:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T10:24:30.680282+01:00.jpg">October 14 at 10:24 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T09:04:52.773938+01:00.jpg">
-  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T09:04:52.773938+01:00.jpg"
-     alt="Simple Flying at 2022-10-14 09:04:54+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T09:04:52.773938+01:00.jpg">October 14 at 9:04 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-13T21:12:41.690455+01:00.jpg">
-  <img src="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-13T21:12:41.690455+01:00.jpg"
-     alt="Simple Flying at 2022-10-13 21:12:47+01:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/simple_flying-2022/simple_flying-2022-10-13T21:12:41.690455+01:00.jpg">October 13 at 9:12 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 8:27 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-18T08:27:39.710391+01:00.hyperlinks.json) |
+| [October 17 at 8:44 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T20:44:31.485670+01:00.hyperlinks.json) |
 | [October 17 at 10:24 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T10:24:08.733501+01:00.hyperlinks.json) |
 | [October 17 at 8:58 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T08:58:06.064688+01:00.hyperlinks.json) |
 | [October 16 at 8:02 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-16T20:02:38.581171+01:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 8:27 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-15T20:26:41.537652+01:00.hyperlinks.json) |
 | [October 15 at 10:23 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-15T10:23:10.318273+01:00.hyperlinks.json) |
 | [October 15 at 8:53 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-15T08:53:34.707623+01:00.hyperlinks.json) |
-| [October 14 at 9:28 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T21:28:42.866666+01:00.hyperlinks.json) |
-| [October 14 at 10:24 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T10:24:30.680282+01:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 171 accessibility trees with the Internet Archive.
+The archiving routine has saved 173 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 8:27 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-18T08:27:39.710391+01:00.accessibility.json) |
+| [October 17 at 8:44 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T20:44:31.485670+01:00.accessibility.json) |
 | [October 17 at 10:24 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T10:24:08.733501+01:00.accessibility.json) |
 | [October 17 at 8:58 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T08:58:06.064688+01:00.accessibility.json) |
 | [October 16 at 8:02 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-16T20:02:38.581171+01:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 8:26 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-15T20:26:41.537652+01:00.accessibility.json) |
 | [October 15 at 10:23 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-15T10:23:10.318273+01:00.accessibility.json) |
 | [October 15 at 8:53 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-15T08:53:34.707623+01:00.accessibility.json) |
-| [October 14 at 9:28 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T21:28:42.866666+01:00.accessibility.json) |
-| [October 14 at 10:24 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T10:24:30.680282+01:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 173 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 8:27 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-18T08:27:39.710391+01:00.lighthouse.json) |
+| [October 17 at 8:44 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T20:44:31.485670+01:00.lighthouse.json) |
 | [October 17 at 10:24 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T10:24:08.733501+01:00.lighthouse.json) |
 | [October 17 at 8:58 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-17T08:58:06.064688+01:00.lighthouse.json) |
 | [October 16 at 8:02 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-16T20:02:38.581171+01:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 8:27 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-15T20:26:41.537652+01:00.lighthouse.json) |
 | [October 15 at 8:53 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-15T08:53:34.707623+01:00.lighthouse.json) |
 | [October 14 at 9:28 PM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T21:28:42.866666+01:00.lighthouse.json) |
-| [October 14 at 10:24 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T10:24:30.680282+01:00.lighthouse.json) |
-| [October 14 at 9:05 AM](https://archive.org/download/simple_flying-2022/simple_flying-2022-10-14T09:04:52.773938+01:00.lighthouse.json) |
 
 
 
