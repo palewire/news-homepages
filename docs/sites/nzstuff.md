@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 148 screenshots with the Internet Archive.
+The archiving routine has saved 149 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 148 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-19T03:17:07.522771+13:00.jpg">
+  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-19T03:17:07.522771+13:00.jpg"
+     alt="Stuff at 2022-10-19 03:17:09+13:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-19T03:17:07.522771+13:00.jpg">October 19 at 3:17 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-18T15:25:32.667452+13:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T15:19:18.795165+13:00.jpg">October 13 at 3:19 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T03:09:30.292072+13:00.jpg">
-  <img src="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T03:09:30.292072+13:00.jpg"
-     alt="Stuff at 2022-10-13 03:09:36+13:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nzstuff-2022/nzstuff-2022-10-13T03:09:30.292072+13:00.jpg">October 13 at 3:09 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 147 hyperlink lists with the Internet Archive.
+The archiving routine has saved 148 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 3:17 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-19T03:17:07.522771+13:00.hyperlinks.json) |
 | [October 18 at 3:25 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-18T15:25:32.667452+13:00.hyperlinks.json) |
 | [October 18 at 3:07 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-18T03:07:53.038304+13:00.hyperlinks.json) |
 | [October 17 at 3:30 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-17T15:30:03.965514+13:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 3:22 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-15T15:22:14.491435+13:00.hyperlinks.json) |
 | [October 15 at 3:22 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-15T03:22:26.358003+13:00.hyperlinks.json) |
 | [October 14 at 3:21 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-14T15:20:56.288344+13:00.hyperlinks.json) |
-| [October 14 at 3:13 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-14T03:13:38.598196+13:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 148 accessibility trees with the Internet Archive.
+The archiving routine has saved 149 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 3:17 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-19T03:17:07.522771+13:00.accessibility.json) |
 | [October 18 at 3:25 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-18T15:25:32.667452+13:00.accessibility.json) |
 | [October 18 at 3:07 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-18T03:07:53.038304+13:00.accessibility.json) |
 | [October 17 at 3:30 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-17T15:30:03.965514+13:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 3:22 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-15T15:22:14.491435+13:00.accessibility.json) |
 | [October 15 at 3:22 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-15T03:22:26.358003+13:00.accessibility.json) |
 | [October 14 at 3:20 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-14T15:20:56.288344+13:00.accessibility.json) |
-| [October 14 at 3:13 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-14T03:13:38.598196+13:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 148 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 149 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 3:17 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-19T03:17:07.522771+13:00.lighthouse.json) |
 | [October 18 at 3:25 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-18T15:25:32.667452+13:00.lighthouse.json) |
 | [October 18 at 3:08 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-18T03:07:53.038304+13:00.lighthouse.json) |
 | [October 17 at 3:30 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-17T15:30:03.965514+13:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 3:22 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-15T15:22:14.491435+13:00.lighthouse.json) |
 | [October 15 at 3:22 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-15T03:22:26.358003+13:00.lighthouse.json) |
 | [October 14 at 3:21 PM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-14T15:20:56.288344+13:00.lighthouse.json) |
-| [October 14 at 3:13 AM](https://archive.org/download/nzstuff-2022/nzstuff-2022-10-14T03:13:38.598196+13:00.lighthouse.json) |
 
 
 

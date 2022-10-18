@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 56 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 55 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/recordnet-2022/recordnet-2022-10-18T07:21:21.435282-07:00.jpg">
+  <img src="https://archive.org/download/recordnet-2022/recordnet-2022-10-18T07:21:21.435282-07:00.jpg"
+     alt="Stockton Record at 2022-10-18 07:21:24-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/recordnet-2022/recordnet-2022-10-18T07:21:21.435282-07:00.jpg">October 18 at 7:21 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/recordnet-2022/recordnet-2022-10-17T19:27:23.815105-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/recordnet-2022/recordnet-2022-10-12T19:22:00.407472-07:00.jpg">October 12 at 7:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/recordnet-2022/recordnet-2022-10-12T07:11:47.121407-07:00.jpg">
-  <img src="https://archive.org/download/recordnet-2022/recordnet-2022-10-12T07:11:47.121407-07:00.jpg"
-     alt="Stockton Record at 2022-10-12 07:11:54-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/recordnet-2022/recordnet-2022-10-12T07:11:47.121407-07:00.jpg">October 12 at 7:11 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 7:21 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-18T07:21:21.435282-07:00.hyperlinks.json) |
 | [October 17 at 7:27 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-17T19:27:23.815105-07:00.hyperlinks.json) |
 | [October 17 at 7:10 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-17T07:10:24.009099-07:00.hyperlinks.json) |
 | [October 16 at 7:31 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-16T19:31:53.123092-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 7:24 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-14T19:24:42.690562-07:00.hyperlinks.json) |
 | [October 14 at 7:25 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-14T07:25:29.413753-07:00.hyperlinks.json) |
 | [October 13 at 7:23 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-13T19:23:21.247363-07:00.hyperlinks.json) |
-| [October 13 at 7:16 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-13T07:16:20.313227-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 7:21 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-18T07:21:21.435282-07:00.accessibility.json) |
 | [October 17 at 7:27 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-17T19:27:23.815105-07:00.accessibility.json) |
 | [October 17 at 7:10 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-17T07:10:24.009099-07:00.accessibility.json) |
 | [October 16 at 7:31 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-16T19:31:53.123092-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 7:24 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-14T19:24:42.690562-07:00.accessibility.json) |
 | [October 14 at 7:25 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-14T07:25:29.413753-07:00.accessibility.json) |
 | [October 13 at 7:23 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-13T19:23:21.247363-07:00.accessibility.json) |
-| [October 13 at 7:16 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-13T07:16:20.313227-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 7:21 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-18T07:21:21.435282-07:00.lighthouse.json) |
 | [October 17 at 7:27 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-17T19:27:23.815105-07:00.lighthouse.json) |
 | [October 17 at 7:10 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-17T07:10:24.009099-07:00.lighthouse.json) |
 | [October 16 at 7:31 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-16T19:31:53.123092-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 7:24 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-14T19:24:42.690562-07:00.lighthouse.json) |
 | [October 14 at 7:25 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-14T07:25:29.413753-07:00.lighthouse.json) |
 | [October 13 at 7:23 PM](https://archive.org/download/recordnet-2022/recordnet-2022-10-13T19:23:21.247363-07:00.lighthouse.json) |
-| [October 13 at 7:16 AM](https://archive.org/download/recordnet-2022/recordnet-2022-10-13T07:16:20.313227-07:00.lighthouse.json) |
 
 
 
