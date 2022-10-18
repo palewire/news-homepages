@@ -1,5 +1,5 @@
 {
-  "created": 1666059834,
+  "created": 1666102549,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/news12nj-2022",
@@ -10200,31 +10200,93 @@
       "sha1": "9613cdd36e0cfe1b516df66929c3fc7d4fd0b312"
     },
     {
+      "name": "news12nj-2022-10-18T10:14:13.464292-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666102465",
+      "size": "19086",
+      "md5": "0226d64414e13875fc6581a2efb3191d",
+      "crc32": "f0954a9a",
+      "sha1": "67fd68c4f2e6d9622ebf6f4abc15620a4ffa3e4c",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-18T10:14:13.464292-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666102469",
+      "size": "24323",
+      "md5": "bcfc9931fd608deb61c8fbda424d4048",
+      "crc32": "c87ac977",
+      "sha1": "c10fc3f9ec2524cdfd9efc3f78381f28c7351828",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-18T10:14:13.464292-04:00.jpg",
+      "source": "original",
+      "mtime": "1666102464",
+      "size": "257620",
+      "md5": "9e645fb82b55001a9fc9503769291cbc",
+      "crc32": "67339120",
+      "sha1": "ddd46456ce98e8bdcb82873f5ba4bd37b5fcaa58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "news12nj-2022-10-18T10:14:13.464292-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666102471",
+      "size": "1510",
+      "md5": "13d68cf22b53a7f6d3a1d7bea16ca9a3",
+      "crc32": "0818040e",
+      "sha1": "e811c54a8b47b53253a2ff0caae81148e333e54b",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-18T10:14:13.464292-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666102473",
+      "size": "30113",
+      "md5": "46ecd2efc36f2ad12920ab3a89106f4d",
+      "crc32": "94a9609b",
+      "sha1": "6165243ca4935091047760c77fd39cbdb0fe78c1",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-18T10:14:13.464292-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "news12nj-2022-10-18T10:14:13.464292-04:00.jpg",
+      "mtime": "1666102532",
+      "size": "9036",
+      "md5": "e5a76d998ff4850200ece531c1985fd1",
+      "crc32": "b156a90d",
+      "sha1": "cc6d20170254cd3266658cafff824587a2a5c44a"
+    },
+    {
       "name": "news12nj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c2d117df3b0884f047549dac07b57a14fe6cd06b",
-      "mtime": "1666059825",
-      "size": "208277",
-      "md5": "a97c1e0e84aff972a96c56548e343f91",
-      "crc32": "648134c8",
-      "sha1": "19a0db0c374300006048e0b56e3644ebd6944ec6",
+      "btih": "f5c74bbbad96754468aaa6573cfb234684788df0",
+      "mtime": "1666102542",
+      "size": "209524",
+      "md5": "4c74ed56f574f57ef1086bb160751c7a",
+      "crc32": "59d1c6e3",
+      "sha1": "edd6be1750cde8c3da4f5365ae90d3fba5f3b046",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news12nj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3b876dd04068135ec1accd14cabcebd",
+      "md5": "e54fd8c0d871bec91296a5e3c971d6a1",
       "summation": "md5"
     },
     {
       "name": "news12nj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666059738",
-      "size": "1261568",
-      "md5": "bdabc3d38bf3e8af129f2ddb5b97bdea",
-      "crc32": "1f4a1d55",
-      "sha1": "ee80307a4b08aff116b80537de08ede872acca43",
+      "mtime": "1666102477",
+      "size": "1269760",
+      "md5": "323cd3d028a989cb5802d592b41263b0",
+      "crc32": "06901c5b",
+      "sha1": "9fd6c065e29fede50b7eb0102127d7ab434492e9",
       "format": "Metadata"
     },
     {
@@ -10238,9 +10300,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 990,
-  "item_last_updated": 1666059825,
-  "item_size": 53323458,
+  "files_count": 996,
+  "item_last_updated": 1666102542,
+  "item_size": 53674585,
   "metadata": {
     "identifier": "news12nj-2022",
     "collection": [
@@ -10257,10 +10319,10 @@
     "publicdate": "2022-07-26 00:20:38",
     "addeddate": "2022-07-26 00:20:38"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1282350418,
+  "server": "ia902508.us.archive.org",
+  "uniq": 218958866,
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

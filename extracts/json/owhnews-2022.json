@@ -1,5 +1,5 @@
 {
-  "created": 1666059968,
+  "created": 1666105963,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/owhnews-2022",
@@ -9786,31 +9786,93 @@
       "sha1": "6c05c3a503254ab81a46fe1d21a2fc7e9f96c092"
     },
     {
+      "name": "owhnews-2022-10-18T09:17:42.935051-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666102671",
+      "size": "25120",
+      "md5": "2a4e07bfa8fdb9eec8b7f78c5c12c9ff",
+      "crc32": "2deef35f",
+      "sha1": "59c08395a919878794e47574692fed7e6e5c68fa",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-10-18T09:17:42.935051-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666102672",
+      "size": "83909",
+      "md5": "f7317032e27b5a79c481417588fe7241",
+      "crc32": "e937336c",
+      "sha1": "f5fc0d9115a2d038be5eaf91b513144660fc3ce3",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-10-18T09:17:42.935051-05:00.jpg",
+      "source": "original",
+      "mtime": "1666102669",
+      "size": "324262",
+      "md5": "73a7d796cd65b8e49050e08082a4d14d",
+      "crc32": "b4bc99b1",
+      "sha1": "921ee5320c90e4fec20bdd7a0ef1cf67792816bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "owhnews-2022-10-18T09:17:42.935051-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666102674",
+      "size": "1410",
+      "md5": "bdda9685ed10d12ed8549e0ede4158f4",
+      "crc32": "e3551d1d",
+      "sha1": "71628a2bd9264c85094648f3f4ee949edabb6166",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-10-18T09:17:42.935051-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666102676",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "owhnews-2022-10-18T09:17:42.935051-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "owhnews-2022-10-18T09:17:42.935051-05:00.jpg",
+      "mtime": "1666102742",
+      "size": "12188",
+      "md5": "ad3f586de70d55ae28ffcc9b65e4a04f",
+      "crc32": "0741f4de",
+      "sha1": "5a9f23b88ea11d1db416de6f288947e5dabac134"
+    },
+    {
       "name": "owhnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d25bbf7d242f7d5778b84b8fb6c905feea94a0ca",
-      "mtime": "1666059953",
-      "size": "199968",
-      "md5": "9341f671a355e1152e00752267c641eb",
-      "crc32": "0e572084",
-      "sha1": "1d74bae882801057c5185e21edf4bdb05a6175e2",
+      "btih": "e7cd341715014c0383b96a23fd61e29e81391756",
+      "mtime": "1666102752",
+      "size": "201228",
+      "md5": "1d465ef490a7a80a5c2d66a17fd810ca",
+      "crc32": "ddb2647c",
+      "sha1": "a3a1d1d9349ad9479974aa15ea50da9f1905f522",
       "format": "Archive BitTorrent"
     },
     {
       "name": "owhnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2da72aebbe3e71467b48a9f51e7440c8",
+      "md5": "ed82fef9b785cacb8d2d208f7e8283c3",
       "summation": "md5"
     },
     {
       "name": "owhnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666059894",
-      "size": "1208320",
-      "md5": "00048243212056cb5d90a35542343c4a",
-      "crc32": "4778f135",
-      "sha1": "733cf7513c826fa30a1ab9bbfef3427fed5a2299",
+      "mtime": "1666102680",
+      "size": "1216512",
+      "md5": "aeb033565651101c52d249c4b24b6a4a",
+      "crc32": "af4c619c",
+      "sha1": "7044ad267175e11c4e619758ed50135c36211a03",
       "format": "Metadata"
     },
     {
@@ -9824,9 +9886,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 950,
-  "item_last_updated": 1666059953,
-  "item_size": 75595441,
+  "files_count": 956,
+  "item_last_updated": 1666102752,
+  "item_size": 76051984,
   "metadata": {
     "identifier": "owhnews-2022",
     "collection": [
@@ -9843,10 +9905,15 @@
     "publicdate": "2022-07-30 16:33:37",
     "addeddate": "2022-07-30 16:33:37"
   },
-  "server": "ia902509.us.archive.org",
-  "uniq": 147964288,
+  "owhnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia802509.us.archive.org",
+  "uniq": 1438199937,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666059923,
+  "created": 1666105738,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/nbsunjournal-2022",
@@ -3426,31 +3426,93 @@
       "sha1": "86d2809d1b2bcfd1be6dbcb249e706549847eab5"
     },
     {
+      "name": "nbsunjournal-2022-10-18T10:14:52.696797-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666102500",
+      "size": "23291",
+      "md5": "f993006a7adc67710887103e97e97562",
+      "crc32": "e621709c",
+      "sha1": "b7555aeff3d3b316d25f0cb95590f7a74bcb1729",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-18T10:14:52.696797-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666102502",
+      "size": "34517",
+      "md5": "59d55d076ac4dccea373d2bf85b50f29",
+      "crc32": "453163e3",
+      "sha1": "bbd3bbdaee4972d24b7c6cc989f932ea412a5edc",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-18T10:14:52.696797-04:00.jpg",
+      "source": "original",
+      "mtime": "1666102498",
+      "size": "302046",
+      "md5": "f2b3da58574bb311928eb3d88636cf10",
+      "crc32": "4cb5257b",
+      "sha1": "371a9b103cc7b60190e079eb570265ce6c636759",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbsunjournal-2022-10-18T10:14:52.696797-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666102504",
+      "size": "1486",
+      "md5": "8aa3122475df46dad450688f1fb81dd0",
+      "crc32": "ab5c2388",
+      "sha1": "f7f946dc2a978bee53461820990fcca5319e1b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-18T10:14:52.696797-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666102505",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-18T10:14:52.696797-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbsunjournal-2022-10-18T10:14:52.696797-04:00.jpg",
+      "mtime": "1666102575",
+      "size": "9421",
+      "md5": "63d47dafa12f36ad92784d15cf84250d",
+      "crc32": "c01d3e98",
+      "sha1": "c5691345b663e12b19cdcb095d56f0ca3bfa35ca"
+    },
+    {
       "name": "nbsunjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d17d321a2028a4e9b601a06d1b67ccccbc856ec",
-      "mtime": "1666059896",
-      "size": "72467",
-      "md5": "babcd186a4dbfb2e84ed95f3a1ef1c5c",
-      "crc32": "00fda31e",
-      "sha1": "88f30f955096eae212da810648f7da8cf2f73cc9",
+      "btih": "dd5f6eefcfec4496416c500ad3c3428b6add3837",
+      "mtime": "1666102586",
+      "size": "73736",
+      "md5": "1e9cc5aab74b7f286a72e783801c6c45",
+      "crc32": "08ebd392",
+      "sha1": "c6db671d25512bcada1f79ed0fc3c89f22e5e657",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbsunjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c54d16b41f5c0d8ce58fe3e79e9adf8",
+      "md5": "7f239846da232fc96e345cbabcd460c1",
       "summation": "md5"
     },
     {
       "name": "nbsunjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666059764",
-      "size": "442368",
-      "md5": "2dbe2cdb8b7389e0f6e262b30aba3769",
-      "crc32": "9d5d33ea",
-      "sha1": "1e076606cd1646e1908c1528b41816f9274c226c",
+      "mtime": "1666102511",
+      "size": "450560",
+      "md5": "8b736f089934124430a65a8e55b97b41",
+      "crc32": "3de1d069",
+      "sha1": "6377babd2e72a439f313f07b551b52e64e35c948",
       "format": "Metadata"
     },
     {
@@ -3464,9 +3526,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 335,
-  "item_last_updated": 1666059896,
-  "item_size": 23775394,
+  "files_count": 341,
+  "item_last_updated": 1666102586,
+  "item_size": 24155818,
   "metadata": {
     "identifier": "nbsunjournal-2022",
     "collection": [
@@ -3483,8 +3545,13 @@
     "publicdate": "2022-09-21 02:20:26",
     "addeddate": "2022-09-21 02:20:26"
   },
+  "nbsunjournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601404.us.archive.org",
-  "uniq": 1083080285,
+  "uniq": 1803710671,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

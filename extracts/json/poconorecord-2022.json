@@ -1,5 +1,5 @@
 {
-  "created": 1666059967,
+  "created": 1666102781,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/poconorecord-2022",
@@ -3426,31 +3426,93 @@
       "sha1": "6bcbc8cff22c6e32e9490bf41db429d2973d3608"
     },
     {
+      "name": "poconorecord-2022-10-18T10:17:33.533175-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666102657",
+      "size": "19766",
+      "md5": "5ff277a952dee54aaf1b3ac9fe0e1f79",
+      "crc32": "93ba402a",
+      "sha1": "d66e7f3a1eb1ff5f77ff8e3685edd20645ca0d6a",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-10-18T10:17:33.533175-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666102659",
+      "size": "29343",
+      "md5": "79b8840abdbafc828b2c81dbd477f1c8",
+      "crc32": "a342473f",
+      "sha1": "3c09659470e748ca05d2e4cbf527f517db6908e1",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-10-18T10:17:33.533175-04:00.jpg",
+      "source": "original",
+      "mtime": "1666102655",
+      "size": "274403",
+      "md5": "51c7c6c6a87a1eb17fab66199a859773",
+      "crc32": "6dca596d",
+      "sha1": "a100f91f3923a2336e7b088270fcb0bb6ae7f929",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "poconorecord-2022-10-18T10:17:33.533175-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666102661",
+      "size": "1513",
+      "md5": "601a9b11e4ba34a00b3ac7c1d7a3e063",
+      "crc32": "1551cd6a",
+      "sha1": "382ed2cb0124be21c29469fea7b3148c669480a6",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-10-18T10:17:33.533175-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666102663",
+      "size": "74343",
+      "md5": "17bc1006fecf65e877b8b34ba727434d",
+      "crc32": "5b4ab5ba",
+      "sha1": "cd32c7d446011917e76f4c82650fe39a86fa79af",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-10-18T10:17:33.533175-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "poconorecord-2022-10-18T10:17:33.533175-04:00.jpg",
+      "mtime": "1666102764",
+      "size": "9215",
+      "md5": "374cf815e9c5885a8633e5c5d041592d",
+      "crc32": "58984510",
+      "sha1": "4594bef32c178f14aeea31787dfdf81b128ce880"
+    },
+    {
       "name": "poconorecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ea2648e1a714723877582e6d257eb683aa6d8c6",
-      "mtime": "1666059953",
-      "size": "72374",
-      "md5": "eb6d50699e60c831620082781a2fcada",
-      "crc32": "9e4a8c4a",
-      "sha1": "98c40df5cf26134b930d84022cf366cb3fd2d339",
+      "btih": "1beacbf7ce0f82580d91931509afa7dc10867a75",
+      "mtime": "1666102769",
+      "size": "73645",
+      "md5": "a3c49e10d3edc63aa687873973ec6a7d",
+      "crc32": "6bb46636",
+      "sha1": "965fd7f866f7646286aa94bef94afe777f74f85f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poconorecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c3097e792044f315512d1da2a8ba4861",
+      "md5": "a7e33d2b6e26acc167d3e06157062abc",
       "summation": "md5"
     },
     {
       "name": "poconorecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666059897",
-      "size": "442368",
-      "md5": "8670fb6f808638dbab42ec0431f29e01",
-      "crc32": "e98cf138",
-      "sha1": "b0675ca3e17fe1038401b257f28de8d6d3ab60b9",
+      "mtime": "1666102667",
+      "size": "450560",
+      "md5": "d81c93b0411550dde1be557e4b977b58",
+      "crc32": "d702255d",
+      "sha1": "e85e1c25587445c31061fa349eba34b95f3a1a65",
       "format": "Metadata"
     },
     {
@@ -3464,9 +3526,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 335,
-  "item_last_updated": 1666059953,
-  "item_size": 22100282,
+  "files_count": 341,
+  "item_last_updated": 1666102769,
+  "item_size": 22518328,
   "metadata": {
     "identifier": "poconorecord-2022",
     "collection": [
@@ -3483,10 +3545,10 @@
     "publicdate": "2022-09-21 02:22:52",
     "addeddate": "2022-09-21 02:22:52"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 570808319,
+  "server": "ia601501.us.archive.org",
+  "uniq": 377642601,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

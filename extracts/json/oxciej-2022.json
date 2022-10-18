@@ -1,5 +1,5 @@
 {
-  "created": 1666060032,
+  "created": 1666106011,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/oxciej-2022",
@@ -6858,31 +6858,93 @@
       "sha1": "1804e60292f6cc2a3bdcc2b8bc5db8efe6fb9c48"
     },
     {
+      "name": "oxciej-2022-10-18T16:17:19.858012+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666102646",
+      "size": "19800",
+      "md5": "2718be154d0280288bc94d93e44b43f6",
+      "crc32": "20ea7661",
+      "sha1": "48ddbd21abefad7452909c44f278222a674efc2f",
+      "format": "JSON"
+    },
+    {
+      "name": "oxciej-2022-10-18T16:17:19.858012+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666102647",
+      "size": "18541",
+      "md5": "001cd4c8255d51ca02908db17d47e4cd",
+      "crc32": "c56c2982",
+      "sha1": "a05dbe6fd4ac8c65468ebc2d4526b977cd4676f3",
+      "format": "JSON"
+    },
+    {
+      "name": "oxciej-2022-10-18T16:17:19.858012+02:00.jpg",
+      "source": "original",
+      "mtime": "1666102644",
+      "size": "273034",
+      "md5": "44eb57591bebe290378eaaed02badff7",
+      "crc32": "afb5a74c",
+      "sha1": "333ca34c664e27feca0fd822f50a4d57d23b1b75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oxciej-2022-10-18T16:17:19.858012+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666102650",
+      "size": "1450",
+      "md5": "f5cefdf6bbbed8f0d46f6c2d9230b7f6",
+      "crc32": "4a5fd46b",
+      "sha1": "a0b1092459a4b706ba60281ff00711af18c8e71a",
+      "format": "JSON"
+    },
+    {
+      "name": "oxciej-2022-10-18T16:17:19.858012+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666102651",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oxciej-2022-10-18T16:17:19.858012+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oxciej-2022-10-18T16:17:19.858012+02:00.jpg",
+      "mtime": "1666102785",
+      "size": "9987",
+      "md5": "5692affd12b699343fc904d3237faa85",
+      "crc32": "137b9479",
+      "sha1": "1804e60292f6cc2a3bdcc2b8bc5db8efe6fb9c48"
+    },
+    {
       "name": "oxciej-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59ecdb80a4557b2cbfa38a7d29ca2ab26aa0998f",
-      "mtime": "1666060022",
-      "size": "139142",
-      "md5": "6e881a5a8ee6e9ed499c411754259ad3",
-      "crc32": "dd27d97d",
-      "sha1": "8b0613557a41e11d28f2fa6b8e6d9cc6cdd5db5d",
+      "btih": "fbb42ac8a64883d8aac2b9bba9d425db885e43ca",
+      "mtime": "1666102792",
+      "size": "140395",
+      "md5": "1649f9770b4c855f1ed29d0c96d50fda",
+      "crc32": "146c9112",
+      "sha1": "6db120b6f5a4be909febc643c2b2a8d917ee75d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oxciej-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd5fbaa376ae1c8843998c4d71cc7e41",
+      "md5": "65012f2375ef5798bdca64d5164d3fb0",
       "summation": "md5"
     },
     {
       "name": "oxciej-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666059954",
-      "size": "856064",
-      "md5": "f89e5b42395a55709adf0fc5a753d0c8",
-      "crc32": "40912eaf",
-      "sha1": "eb0038bd233c66e3ee0b5c5e1c2d15c44a03e47d",
+      "mtime": "1666102688",
+      "size": "864256",
+      "md5": "e81b1aabeee96e061081969f7148bbea",
+      "crc32": "fcf7a798",
+      "sha1": "f522f666c21c1d62db8cd4528c7fd8bfb346694d",
       "format": "Metadata"
     },
     {
@@ -6896,9 +6958,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 667,
-  "item_last_updated": 1666060022,
-  "item_size": 35753255,
+  "files_count": 673,
+  "item_last_updated": 1666102792,
+  "item_size": 36085714,
   "metadata": {
     "identifier": "oxciej-2022",
     "collection": [
@@ -6915,10 +6977,15 @@
     "publicdate": "2022-08-23 12:01:40",
     "addeddate": "2022-08-23 12:01:40"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 2099401824,
+  "oxciej-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia601409.us.archive.org",
+  "uniq": 878182456,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }
