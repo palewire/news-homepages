@@ -1,5 +1,5 @@
 {
-  "created": 1666064765,
+  "created": 1666109672,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/tmz-2022",
@@ -10946,31 +10946,93 @@
       "sha1": "fda9ee851c256d067b58ea616b7a89aa403dc8dd"
     },
     {
+      "name": "tmz-2022-10-18T08:17:36.679696-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666106271",
+      "size": "86729",
+      "md5": "346a5b2599cb3275329bdf7f27904588",
+      "crc32": "550dce51",
+      "sha1": "dff6a0161718ab5049c58b74890deaf3c020f232",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-18T08:17:36.679696-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666106273",
+      "size": "72376",
+      "md5": "2b5158549fca1816071198280f9dad0c",
+      "crc32": "be46e4ea",
+      "sha1": "db6d4221e89c755a2eb8783fc6437998f45aa654",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-18T08:17:36.679696-07:00.jpg",
+      "source": "original",
+      "mtime": "1666106269",
+      "size": "268624",
+      "md5": "0b398766ec5de7964014e6c15e86e8be",
+      "crc32": "3a587764",
+      "sha1": "820ecb7718d6ae81ae61f76cdec366d447375eca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tmz-2022-10-18T08:17:36.679696-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666106275",
+      "size": "1431",
+      "md5": "fe2ef34d96bf27c2317af910bb4a2f9d",
+      "crc32": "6552acee",
+      "sha1": "c364369b72be28f2406dfa1487614557114bdeb3",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-18T08:17:36.679696-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666106278",
+      "size": "96",
+      "md5": "0d70a18465b082698d5ae46a78dc805b",
+      "crc32": "1d65e586",
+      "sha1": "b18d458f8e1b45ea8f9494b8b86cafe3b0c5f7c9",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-18T08:17:36.679696-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tmz-2022-10-18T08:17:36.679696-07:00.jpg",
+      "mtime": "1666106360",
+      "size": "10559",
+      "md5": "cc0c15da7ea9b8d5d0554ea34a5427df",
+      "crc32": "449cad45",
+      "sha1": "df85f526c98f10ce3fdf217acb8c8e7dbb119462"
+    },
+    {
       "name": "tmz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "40b32e38c200d7a4841ff866f58e466d2e43970c",
-      "mtime": "1666064745",
-      "size": "219479",
-      "md5": "9c4648973bc462dadd17d25864fe8feb",
-      "crc32": "6c2db43a",
-      "sha1": "26cbd254486eb54476e95d894524fd93ac036ee7",
+      "btih": "1c9a28015e752e0ba77396b4699af1ce361092d9",
+      "mtime": "1666106371",
+      "size": "220714",
+      "md5": "e22fce65efeb21e6858c238ab0b815f7",
+      "crc32": "3332462f",
+      "sha1": "774ff608b422cdda652e7a853e2b5c8add425ed9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tmz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e68242b6282e3549fd7655f3365ae647",
+      "md5": "0e30f1956e421f7ff7f3425cc504494d",
       "summation": "md5"
     },
     {
       "name": "tmz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666064643",
-      "size": "1335296",
-      "md5": "19dffa5f0ec42eb412b29537a3391a44",
-      "crc32": "eacaff57",
-      "sha1": "8b3b411e73a2a9eaf5aaf68f4df41648b049d3c4",
+      "mtime": "1666106286",
+      "size": "1339392",
+      "md5": "55638383d55fef776ff1bf1afe7ca75a",
+      "crc32": "f62f5741",
+      "sha1": "9e2bb264ab443bf54e0d315075d680580ed1e1b6",
       "format": "Metadata"
     },
     {
@@ -10984,9 +11046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1061,
-  "item_last_updated": 1666064745,
-  "item_size": 96251196,
+  "files_count": 1067,
+  "item_last_updated": 1666106371,
+  "item_size": 96696342,
   "metadata": {
     "identifier": "tmz-2022",
     "collection": [
@@ -11004,7 +11066,11 @@
     "addeddate": "2022-07-18 04:19:31"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 777273754,
+  "tmz-2022": {
+    "url": "https://www.tmz.com/",
+    "job_id": "spn2-2bfc444999de5b2bad5ec32c15d795c1a9a222ef"
+  },
+  "uniq": 942724266,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"
