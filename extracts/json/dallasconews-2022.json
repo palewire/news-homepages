@@ -1,5 +1,5 @@
 {
-  "created": 1666050593,
+  "created": 1666094514,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/dallasconews-2022",
@@ -4222,31 +4222,93 @@
       "sha1": "f240099d2a0faaedf5a6243a07b3cf7b6bbfc844"
     },
     {
+      "name": "dallasconews-2022-10-18T06:58:52.600469-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666094337",
+      "size": "20867",
+      "md5": "ca2c19e04215870f31a41c307e60bf49",
+      "crc32": "07120ccd",
+      "sha1": "6c2eeed036b6f51ca1a558601c30e880a1c3e0a4",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-18T06:58:52.600469-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666094339",
+      "size": "29471",
+      "md5": "3c8cebe6123d7f4fe9c2075cb46a57e6",
+      "crc32": "599ff26f",
+      "sha1": "4b13ae99441b5ae28b385ed89922c2413a43365f",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-18T06:58:52.600469-05:00.jpg",
+      "source": "original",
+      "mtime": "1666094335",
+      "size": "228037",
+      "md5": "d4cc79948707c091a021bdf1829764dd",
+      "crc32": "4c472883",
+      "sha1": "23442c21f03598e32d56ad377c3acdff5bc9627d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasconews-2022-10-18T06:58:52.600469-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666094340",
+      "size": "1837",
+      "md5": "9c0b49d0ce6e8d0ade84a9dbdf379658",
+      "crc32": "f1c609e1",
+      "sha1": "5f5fb440a74605c86a3a7cb4529e775ab69f404a",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-18T06:58:52.600469-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666094342",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-18T06:58:52.600469-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasconews-2022-10-18T06:58:52.600469-05:00.jpg",
+      "mtime": "1666094416",
+      "size": "8536",
+      "md5": "7f73f8f09b355f534a6a9ed3869f8159",
+      "crc32": "9d758dfd",
+      "sha1": "ed3bfc3a01356ebd33e137770bbf46788bf4e0a6"
+    },
+    {
       "name": "dallasconews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c97b8ea33077e95ae638d8620ed866756c778ff",
-      "mtime": "1666050575",
-      "size": "88846",
-      "md5": "d47771f8dc71991ba4baa7bc4624ac0d",
-      "crc32": "1a576c58",
-      "sha1": "cb210c429284aa95f43b8b8648d61f22b5466b5a",
+      "btih": "1e75dab9957de80d74705484416f472be9ee52cb",
+      "mtime": "1666094439",
+      "size": "90135",
+      "md5": "8174278191eefffd6e102c4186a4d393",
+      "crc32": "0d62e0a1",
+      "sha1": "5f82edee6b8ed6c85ce857f71ac925fe35f3ad82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasconews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04ab64be02e04ee369c67b0204aba40c",
+      "md5": "cc6272566b224ff1cdf8340d6f2479ad",
       "summation": "md5"
     },
     {
       "name": "dallasconews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666050522",
-      "size": "536576",
-      "md5": "f316745aa5060da103b60a39128a174a",
-      "crc32": "9254efa0",
-      "sha1": "d1237f593cd74bb5afd8e5732be65119e9432f7a",
+      "mtime": "1666094349",
+      "size": "544768",
+      "md5": "d8961e3fc5c733b6b6d6ee80b032500e",
+      "crc32": "3d05ffbc",
+      "sha1": "dc44fb809c2011c5219e4461220760c0c6a7cb38",
       "format": "Metadata"
     },
     {
@@ -4260,9 +4322,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 412,
-  "item_last_updated": 1666050575,
-  "item_size": 26729605,
+  "files_count": 418,
+  "item_last_updated": 1666094439,
+  "item_size": 27028036,
   "metadata": {
     "identifier": "dallasconews-2022",
     "collection": [
@@ -4279,10 +4341,10 @@
     "publicdate": "2022-09-20 22:14:50",
     "addeddate": "2022-09-20 22:14:50"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1906369937,
+  "server": "ia601503.us.archive.org",
+  "uniq": 758728450,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

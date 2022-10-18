@@ -1,5 +1,6 @@
 {
-  "created": 1666050913,
+  "conflict": 1666094678,
+  "created": 1666094678,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/el_universal_mx-2022",
@@ -29694,31 +29695,93 @@
       "sha1": "243c56d61a0220040e26f29fe084d7f4c2469fba"
     },
     {
+      "name": "el_universal_mx-2022-10-18T07:00:24.452903-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666094428",
+      "size": "64824",
+      "md5": "58cff48b0cb70fb1950cd44f917733df",
+      "crc32": "e7f4fb86",
+      "sha1": "a30f0d1045a204612a31e846f0f824fd263a066d",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-10-18T07:00:24.452903-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666094430",
+      "size": "67969",
+      "md5": "0cf3b5acbb920009b091f32b5f35055a",
+      "crc32": "f46589c2",
+      "sha1": "48c478b4aab73a412e9da6a3219f84acdb2e5a69",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-10-18T07:00:24.452903-05:00.jpg",
+      "source": "original",
+      "mtime": "1666094426",
+      "size": "337764",
+      "md5": "987bcddd6e889e905cf648923cc7a846",
+      "crc32": "ac9b4392",
+      "sha1": "c30f4e40238eae37523c498f9cdeb9128af66f7c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_universal_mx-2022-10-18T07:00:24.452903-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666094432",
+      "size": "1585",
+      "md5": "3a099157c6516549ede6d94626d720aa",
+      "crc32": "8d9a6489",
+      "sha1": "1011de1e5f6997632fd9c31a4709c6989f4ec87d",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-10-18T07:00:24.452903-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666094437",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-10-18T07:00:24.452903-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_universal_mx-2022-10-18T07:00:24.452903-05:00.jpg",
+      "mtime": "1666094586",
+      "size": "10466",
+      "md5": "6f28eb3f16872293066e25f29f58c38f",
+      "crc32": "2ff3c87b",
+      "sha1": "61603030c0d77e515200de1a455eb7fa67e31490"
+    },
+    {
       "name": "el_universal_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0b106e67e2efa109ae8e3040b0dcf54b40c3a39",
-      "mtime": "1666050901",
-      "size": "622314",
-      "md5": "2e87ffa836a9dcfa1ebb81f5c05210a2",
-      "crc32": "10c73e71",
-      "sha1": "5899fbe4f4ee100943c4ffa905e3a1f0d6be419a",
+      "btih": "8311d306b842621450b14f701406720d0a6dd727",
+      "mtime": "1666094672",
+      "size": "623622",
+      "md5": "ff145cf6abd18e9334522af10c3d3fda",
+      "crc32": "04bb7441",
+      "sha1": "70990c3e6b7d00eea8199876c8af44282fe53fd5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_universal_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ebbc2c8bf32c9457809583261bc04ac0",
+      "md5": "3a0eeefb4d9a9fd6eec9e681d7d31e12",
       "summation": "md5"
     },
     {
       "name": "el_universal_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666050715",
-      "size": "3416064",
-      "md5": "51f824a8ffde60ed052f7cdece2e3393",
-      "crc32": "8e91ee1e",
-      "sha1": "3fbc09811a04c5baa00a746058fadece46419861",
+      "mtime": "1666094441",
+      "size": "3428352",
+      "md5": "4ae792000652f849d49b39caef571b0f",
+      "crc32": "9a40f718",
+      "sha1": "d7fb2202ecb0d093eef528fe499404a531ce9931",
       "format": "Metadata"
     },
     {
@@ -29732,9 +29795,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2847,
-  "item_last_updated": 1666050901,
-  "item_size": 281169679,
+  "files_count": 2853,
+  "item_last_updated": 1666094672,
+  "item_size": 281666085,
   "metadata": {
     "identifier": "el_universal_mx-2022",
     "collection": [
@@ -29751,10 +29814,21 @@
     "publicdate": "2022-04-15 20:40:16",
     "addeddate": "2022-04-15 20:40:16"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1406731573,
+  "pending_tasks": true,
+  "server": "ia902507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3444677666,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1468753243,
   "workable_servers": [
-    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }
