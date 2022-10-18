@@ -1,5 +1,5 @@
 {
-  "created": 1666038706,
+  "created": 1666068328,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -23572,31 +23572,93 @@
       "sha1": "e650502cd43173cc59c36e8de1d1344baa271b44"
     },
     {
+      "name": "washtimes-2022-10-18T00:42:01.670752-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666068136",
+      "size": "100861",
+      "md5": "029f06936bbba6c408c6b5188e90325e",
+      "crc32": "295a857e",
+      "sha1": "0ba3b6da3466fcec835136d029e9f7c58d4e8cb8",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-18T00:42:01.670752-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666068138",
+      "size": "63403",
+      "md5": "e5bf9f009d5648c8032d8932905e5560",
+      "crc32": "adb3ba22",
+      "sha1": "0070bccfbee32ac35a5eecb41fe9bb954ed44a17",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-18T00:42:01.670752-04:00.jpg",
+      "source": "original",
+      "mtime": "1666068134",
+      "size": "377264",
+      "md5": "f3ab53ef605d09443ab1b9e5f4ec039e",
+      "crc32": "a5620a7f",
+      "sha1": "6e0a732d3d5c0a0a5f79ba24fc2396172232e30d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-10-18T00:42:01.670752-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666068141",
+      "size": "1521",
+      "md5": "2ddd7b39ebfd5ce6325032b697c1db92",
+      "crc32": "d2f8af8c",
+      "sha1": "b4cfee2240ec6849de2a61ff226b3df14dae570e",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-18T00:42:01.670752-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666068143",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-18T00:42:01.670752-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "washtimes-2022-10-18T00:42:01.670752-04:00.jpg",
+      "mtime": "1666068237",
+      "size": "10947",
+      "md5": "42406203351753e5dffe3c06b5ea8a17",
+      "crc32": "cc10ed50",
+      "sha1": "6fb0df76e670f134cc3b7c04092746988180017e"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd28cb757b5caf3a385e95d8e0ce77455e8c0532",
-      "mtime": "1666038691",
-      "size": "484097",
-      "md5": "ec0270b463f9b49517fde5d06078d375",
-      "crc32": "79ff71ad",
-      "sha1": "6da8f5d551db6e052daf4a90e57976dcbad24c5d",
+      "btih": "f9a32427d212dbce30bb3c86ab477db395938dab",
+      "mtime": "1666068315",
+      "size": "485390",
+      "md5": "00ffe81bc197e8d14a8f5d39d7e519c9",
+      "crc32": "1978ff90",
+      "sha1": "5e14c947416ab31203b193fc8798aa001b927fd3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "17507806afd852257629c94a28c031af",
+      "md5": "90f641006fe287c026c5cfb763803b12",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666038555",
-      "size": "2777088",
-      "md5": "be035dc781369f894b35cc13ea4cdae2",
-      "crc32": "b42fbbfd",
-      "sha1": "ee42031d37349191eca8e216ab6d8d8c14941ea1",
+      "mtime": "1666068147",
+      "size": "2785280",
+      "md5": "6815f3c7b0e092afbb9d4e8080a04493",
+      "crc32": "75f85071",
+      "sha1": "67ce65aafb2b6b2a07747aa74f57cf7288701461",
       "format": "Metadata"
     },
     {
@@ -23610,9 +23672,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2270,
-  "item_last_updated": 1666038691,
-  "item_size": 251092200,
+  "files_count": 2276,
+  "item_last_updated": 1666068315,
+  "item_size": 251655883,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -23630,7 +23692,7 @@
     "addeddate": "2022-03-25 18:45:19"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 196287175,
+  "uniq": 311585018,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"
