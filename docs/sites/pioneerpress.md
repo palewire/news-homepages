@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 358 screenshots with the Internet Archive.
+The archiving routine has saved 359 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 358 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T21:25:56.451114-05:00.jpg">
+  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T21:25:56.451114-05:00.jpg"
+     alt="Twin Cities Pioneer Press at 2022-10-17 21:26:06-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T21:25:56.451114-05:00.jpg">October 17 at 9:26 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T09:07:16.955515-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-12T09:08:57.516596-05:00.jpg">October 12 at 9:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-11T21:36:14.424823-05:00.jpg">
-  <img src="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-11T21:36:14.424823-05:00.jpg"
-     alt="Twin Cities Pioneer Press at 2022-10-11 21:36:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-11T21:36:14.424823-05:00.jpg">October 11 at 9:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 357 hyperlink lists with the Internet Archive.
+The archiving routine has saved 358 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 9:26 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T21:25:56.451114-05:00.hyperlinks.json) |
 | [October 17 at 9:07 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T09:07:16.955515-05:00.hyperlinks.json) |
 | [October 16 at 9:29 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-16T21:29:33.203235-05:00.hyperlinks.json) |
 | [October 16 at 9:10 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-16T09:10:10.252146-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 9:22 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-14T09:22:19.140612-05:00.hyperlinks.json) |
 | [October 13 at 9:21 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-13T21:20:55.761781-05:00.hyperlinks.json) |
 | [October 13 at 9:13 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-13T09:13:39.337561-05:00.hyperlinks.json) |
-| [October 12 at 9:19 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-12T21:19:33.900551-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 356 accessibility trees with the Internet Archive.
+The archiving routine has saved 357 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 9:26 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T21:25:56.451114-05:00.accessibility.json) |
 | [October 17 at 9:07 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T09:07:16.955515-05:00.accessibility.json) |
 | [October 16 at 9:29 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-16T21:29:33.203235-05:00.accessibility.json) |
 | [October 16 at 9:10 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-16T09:10:10.252146-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 9:22 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-14T09:22:19.140612-05:00.accessibility.json) |
 | [October 13 at 9:20 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-13T21:20:55.761781-05:00.accessibility.json) |
 | [October 13 at 9:13 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-13T09:13:39.337561-05:00.accessibility.json) |
-| [October 12 at 9:19 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-12T21:19:33.900551-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 173 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 9:26 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T21:25:56.451114-05:00.lighthouse.json) |
 | [October 17 at 9:07 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-17T09:07:16.955515-05:00.lighthouse.json) |
 | [October 16 at 9:29 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-16T21:29:33.203235-05:00.lighthouse.json) |
 | [October 16 at 9:10 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-16T09:10:10.252146-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 9:22 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-14T09:22:19.140612-05:00.lighthouse.json) |
 | [October 13 at 9:21 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-13T21:20:55.761781-05:00.lighthouse.json) |
 | [October 13 at 9:13 AM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-13T09:13:39.337561-05:00.lighthouse.json) |
-| [October 12 at 9:19 PM](https://archive.org/download/pioneerpress-2022/pioneerpress-2022-10-12T21:19:33.900551-05:00.lighthouse.json) |
 
 
 

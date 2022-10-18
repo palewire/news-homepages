@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 151 screenshots with the Internet Archive.
+The archiving routine has saved 152 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 151 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T20:25:43.300280-05:00.jpg">
+  <img src="https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T20:25:43.300280-05:00.jpg"
+     alt="KSN News at 2022-10-17 20:25:49-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T20:25:43.300280-05:00.jpg">October 17 at 8:25 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T07:55:33.616342-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ksnnews-2022/ksnnews-2022-10-12T07:54:49.071434-05:00.jpg">October 12 at 7:54 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ksnnews-2022/ksnnews-2022-10-11T20:36:02.070481-05:00.jpg">
-  <img src="https://archive.org/download/ksnnews-2022/ksnnews-2022-10-11T20:36:02.070481-05:00.jpg"
-     alt="KSN News at 2022-10-11 20:36:11-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ksnnews-2022/ksnnews-2022-10-11T20:36:02.070481-05:00.jpg">October 11 at 8:36 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 151 hyperlink lists with the Internet Archive.
+The archiving routine has saved 152 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 8:25 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T20:25:43.300280-05:00.hyperlinks.json) |
 | [October 17 at 7:55 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T07:55:33.616342-05:00.hyperlinks.json) |
 | [October 16 at 8:21 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-16T20:21:38.940544-05:00.hyperlinks.json) |
 | [October 16 at 7:55 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-16T07:55:22.856182-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 8:09 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-14T08:09:26.677772-05:00.hyperlinks.json) |
 | [October 13 at 8:20 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-13T20:20:24.269197-05:00.hyperlinks.json) |
 | [October 13 at 7:58 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-13T07:58:36.000015-05:00.hyperlinks.json) |
-| [October 12 at 8:19 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-12T20:19:27.510114-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 152 accessibility trees with the Internet Archive.
+The archiving routine has saved 153 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 8:25 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T20:25:43.300280-05:00.accessibility.json) |
 | [October 17 at 7:55 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T07:55:33.616342-05:00.accessibility.json) |
 | [October 16 at 8:21 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-16T20:21:38.940544-05:00.accessibility.json) |
 | [October 16 at 7:55 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-16T07:55:22.856182-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 8:09 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-14T08:09:26.677772-05:00.accessibility.json) |
 | [October 13 at 8:20 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-13T20:20:24.269197-05:00.accessibility.json) |
 | [October 13 at 7:58 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-13T07:58:36.000015-05:00.accessibility.json) |
-| [October 12 at 8:19 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-12T20:19:27.510114-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 152 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 153 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 8:25 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T20:25:43.300280-05:00.lighthouse.json) |
 | [October 17 at 7:55 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-17T07:55:33.616342-05:00.lighthouse.json) |
 | [October 16 at 8:21 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-16T20:21:38.940544-05:00.lighthouse.json) |
 | [October 16 at 7:55 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-16T07:55:22.856182-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 8:09 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-14T08:09:26.677772-05:00.lighthouse.json) |
 | [October 13 at 8:20 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-13T20:20:24.269197-05:00.lighthouse.json) |
 | [October 13 at 7:58 AM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-13T07:58:36.000015-05:00.lighthouse.json) |
-| [October 12 at 8:19 PM](https://archive.org/download/ksnnews-2022/ksnnews-2022-10-12T20:19:27.510114-05:00.lighthouse.json) |
 
 
 
