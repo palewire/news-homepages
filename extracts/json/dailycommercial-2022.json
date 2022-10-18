@@ -1,5 +1,5 @@
 {
-  "created": 1666030131,
+  "created": 1666072765,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/2/items/dailycommercial-2022",
@@ -3426,31 +3426,93 @@
       "sha1": "0b7e67d0ec7cf534de02934c8f52f68464e9ce36"
     },
     {
+      "name": "dailycommercial-2022-10-18T01:58:07.813310-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072690",
+      "size": "24297",
+      "md5": "0a7cbcd73d982805e19e1a8ce6df51fd",
+      "crc32": "516d440c",
+      "sha1": "58a1342cac3b079d2ad347b5cf991b2c031a1278",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-18T01:58:07.813310-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072692",
+      "size": "43581",
+      "md5": "a2c16e826f076c0f48ccaf042ba31338",
+      "crc32": "b5657d8b",
+      "sha1": "a3aec246e16841a90171071b71deb25f9eec54e3",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-18T01:58:07.813310-04:00.jpg",
+      "source": "original",
+      "mtime": "1666072689",
+      "size": "277403",
+      "md5": "26f56051792ff3447b1ad9673096c2e6",
+      "crc32": "2a81f2c7",
+      "sha1": "3662c0f655124e6ad1f13c6bd188df78d84c600f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycommercial-2022-10-18T01:58:07.813310-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072694",
+      "size": "1540",
+      "md5": "90b86b0e068a86c478f440dff7c41a78",
+      "crc32": "0733ac90",
+      "sha1": "fd74add06b4a876c6807ffa4687d427792818ba9",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-18T01:58:07.813310-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072695",
+      "size": "109477",
+      "md5": "851fa9c14af0df9fd7ae5174d5163b48",
+      "crc32": "3d9153e0",
+      "sha1": "1fda0afbc2f52a4cd2e33c11f5672e1263f091f5",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-18T01:58:07.813310-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycommercial-2022-10-18T01:58:07.813310-04:00.jpg",
+      "mtime": "1666072747",
+      "size": "8996",
+      "md5": "5e1c08b1914fedf8c89a5ed122e668b4",
+      "crc32": "7635a39c",
+      "sha1": "0e2f620811464354a52243d7e798e3ac54206f9d"
+    },
+    {
       "name": "dailycommercial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "686ee2cac0013978508e1f0cc83dee2e2953cb34",
-      "mtime": "1666030120",
-      "size": "73482",
-      "md5": "586ef739a427173d28859ccf8478c255",
-      "crc32": "08c40037",
-      "sha1": "866ceca5a81770485a257b3cf18e412ef0017133",
+      "btih": "c4dc70088f21618b31fe3d66d01e9389005c3a97",
+      "mtime": "1666072752",
+      "size": "74792",
+      "md5": "cb7847515a8027bdefbaa542f9a0fa50",
+      "crc32": "c3ac4ae0",
+      "sha1": "3b6e5c9d12284929714c3bce9dd68a0a8186f991",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycommercial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f57d6d4cd2b052ebb6b1f8cb4c5c351a",
+      "md5": "99bade0943ee8af3cca0f69a381f88d9",
       "summation": "md5"
     },
     {
       "name": "dailycommercial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666030069",
-      "size": "442368",
-      "md5": "ce1142c647242038228f8fa99f26e5a2",
-      "crc32": "c66f60f0",
-      "sha1": "40909e709b8055a352efdda04b3e7c3cc8a62ae6",
+      "mtime": "1666072701",
+      "size": "450560",
+      "md5": "2bb0e5a4718cd83cff2d643205e23244",
+      "crc32": "b5ba9250",
+      "sha1": "8e0dee9fb385753ef15e7a925299d10d1723ebc8",
       "format": "Metadata"
     },
     {
@@ -3464,9 +3526,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 335,
-  "item_last_updated": 1666030120,
-  "item_size": 23924578,
+  "files_count": 341,
+  "item_last_updated": 1666072752,
+  "item_size": 24399374,
   "metadata": {
     "identifier": "dailycommercial-2022",
     "collection": [
@@ -3483,10 +3545,10 @@
     "publicdate": "2022-09-20 17:43:34",
     "addeddate": "2022-09-20 17:43:34"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 114478714,
+  "server": "ia601506.us.archive.org",
+  "uniq": 1573962523,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

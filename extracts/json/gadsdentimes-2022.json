@@ -1,5 +1,5 @@
 {
-  "created": 1666030590,
+  "created": 1666072971,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/17/items/gadsdentimes-2022",
@@ -3426,31 +3426,93 @@
       "sha1": "5e6f891f025b7b5821aaa46efb5c2fe84e1bed3c"
     },
     {
+      "name": "gadsdentimes-2022-10-18T01:01:14.668014-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072878",
+      "size": "23174",
+      "md5": "f867b8252b982357f061dbb20811ba3f",
+      "crc32": "98ce2ba9",
+      "sha1": "a747055f23d84299b3e1adcfaa452f1e4546ff03",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-18T01:01:14.668014-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072881",
+      "size": "31904",
+      "md5": "2442d87196929f14dec310258984f044",
+      "crc32": "c9877bdc",
+      "sha1": "262805012878965bf24726263b595eb4a1e47eaf",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-18T01:01:14.668014-05:00.jpg",
+      "source": "original",
+      "mtime": "1666072877",
+      "size": "260847",
+      "md5": "42acc0969b8298041fbe5eb7eb29cff3",
+      "crc32": "316d9bfa",
+      "sha1": "57dc395bd413bb9fa1ca3a39eff91f2c3d14e336",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-18T01:01:14.668014-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072885",
+      "size": "1513",
+      "md5": "a219cb8bc9fe54fffac004aa5d5f46c7",
+      "crc32": "e0f756ba",
+      "sha1": "e0b6ca3a24b2731ed892867b29087f1ca2cf4dd0",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-18T01:01:14.668014-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072887",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-18T01:01:14.668014-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-18T01:01:14.668014-05:00.jpg",
+      "mtime": "1666072943",
+      "size": "9332",
+      "md5": "19baf057acf3cae51b9ffbe809862be7",
+      "crc32": "487cd87d",
+      "sha1": "2e54e8e9e61550541a709606fe2032fa6f1baf5c"
+    },
+    {
       "name": "gadsdentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78281061f79c3b05fc16677ad6a42f707587689d",
-      "mtime": "1666030552",
-      "size": "72388",
-      "md5": "63e4b7bb695289096ae068d9d6a1645c",
-      "crc32": "632476ea",
-      "sha1": "ec21413f5ee24637b41f455313fe6ff85099de65",
+      "btih": "0f5db476d04b34bb94c6ab6530d9242c2e63a7e7",
+      "mtime": "1666072950",
+      "size": "73677",
+      "md5": "8673cccd3105c69f21b9a31a2f9f9c19",
+      "crc32": "278093b4",
+      "sha1": "96ea9cba96d07c58f4a3950a5c62155f02f2bf4f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gadsdentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1028c094fd116f2245db96263d93327d",
+      "md5": "a5d14dcf90c8ad956f719e0e241a6f2f",
       "summation": "md5"
     },
     {
       "name": "gadsdentimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666030469",
-      "size": "442368",
-      "md5": "7bec74dc904cfa4dca315e4b9269d99d",
-      "crc32": "190664a3",
-      "sha1": "a85e393a4837724c123c5c318e83debae100a93f",
+      "mtime": "1666072894",
+      "size": "450560",
+      "md5": "e69906f75d56dfc32e260fe4a9581996",
+      "crc32": "e4604a6b",
+      "sha1": "13219f888b6852d79034e8987a1d70db90bffb62",
       "format": "Metadata"
     },
     {
@@ -3464,9 +3526,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 335,
-  "item_last_updated": 1666030552,
-  "item_size": 22328613,
+  "files_count": 341,
+  "item_last_updated": 1666072950,
+  "item_size": 22665066,
   "metadata": {
     "identifier": "gadsdentimes-2022",
     "collection": [
@@ -3483,10 +3545,10 @@
     "publicdate": "2022-09-20 17:53:32",
     "addeddate": "2022-09-20 17:53:32"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 531886640,
+  "server": "ia801505.us.archive.org",
+  "uniq": 768440311,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

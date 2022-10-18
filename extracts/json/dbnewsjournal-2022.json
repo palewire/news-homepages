@@ -1,7 +1,12 @@
 {
-  "created": 1666030142,
+  "created": 1666077343,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
+  "dbnewsjournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/35/items/dbnewsjournal-2022",
   "files": [
     {
@@ -3416,31 +3421,93 @@
       "sha1": "1bb44ba90d3b762a5fd5e122b20eebb0cc602adf"
     },
     {
+      "name": "dbnewsjournal-2022-10-18T01:57:50.179988-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072678",
+      "size": "24706",
+      "md5": "a4b45f0b6f2b2e053d500fc290e0a4f4",
+      "crc32": "7d035944",
+      "sha1": "15fc6fda1049a723d02ef9b77577ebebb62d92e1",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-18T01:57:50.179988-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072680",
+      "size": "32758",
+      "md5": "8fbf51c5d4238632320c492ef71cfe3a",
+      "crc32": "17cd6110",
+      "sha1": "caf54d0358e8539ea0b6f5b3ee7bb2e64a694a95",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-18T01:57:50.179988-04:00.jpg",
+      "source": "original",
+      "mtime": "1666072673",
+      "size": "241369",
+      "md5": "b26f2fb16e6e699be37ee01e31ba0d11",
+      "crc32": "eed36ad7",
+      "sha1": "aa0ce6225c91d2b0797d86ba12b1b33b34592d6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-18T01:57:50.179988-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072682",
+      "size": "1566",
+      "md5": "f83003f56870932962501e5d7d92457a",
+      "crc32": "c10fe81b",
+      "sha1": "a88db0f36a4e02981957fbe03d6fca1cc40dd620",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-18T01:57:50.179988-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072683",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dbnewsjournal-2022-10-18T01:57:50.179988-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dbnewsjournal-2022-10-18T01:57:50.179988-04:00.jpg",
+      "mtime": "1666072736",
+      "size": "9010",
+      "md5": "0a11c3342cdce964fa42c58b5b2da6ac",
+      "crc32": "a925c050",
+      "sha1": "4396ca55b25adb6c2f0e455c1e77138f29224554"
+    },
+    {
       "name": "dbnewsjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "659e81e3d13d61b169ae1a139620f397a44b5ccd",
-      "mtime": "1666030130",
-      "size": "72505",
-      "md5": "2fceca09dd4cc87654f58049e4589c31",
-      "crc32": "9abacaa2",
-      "sha1": "c3979bf244d0cadfad177a9f8bb8882896996417",
+      "btih": "464da21d666748414ce9eaa5639bb8c1d07a4e7f",
+      "mtime": "1666072740",
+      "size": "73800",
+      "md5": "2adb21e194d0c63b6d0ad8e1872566d2",
+      "crc32": "5d0669dd",
+      "sha1": "2ab330961ec9fd4630bbe247ed84fe01ff56d982",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dbnewsjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f17aee0b2103edaf2b1f1d49b7a4d66",
+      "md5": "af6426254a60e9ab0a3fbbd7c6fbcc68",
       "summation": "md5"
     },
     {
       "name": "dbnewsjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666030045",
-      "size": "442368",
-      "md5": "1e9c39860f22a775682eacf5f124e5b0",
-      "crc32": "f63fdd6a",
-      "sha1": "22af50c60a261b071335f4736d2ac7218536ac64",
+      "mtime": "1666072687",
+      "size": "446464",
+      "md5": "59b4a0600f12168e05eada23c87cf8a4",
+      "crc32": "e2ab2bc8",
+      "sha1": "9af8701a3e7dd88e031be43a4a0d1dc446b42da2",
       "format": "Metadata"
     },
     {
@@ -3454,9 +3521,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 334,
-  "item_last_updated": 1666030130,
-  "item_size": 22493793,
+  "files_count": 340,
+  "item_last_updated": 1666072740,
+  "item_size": 22808795,
   "metadata": {
     "identifier": "dbnewsjournal-2022",
     "collection": [
@@ -3474,7 +3541,7 @@
     "addeddate": "2022-09-20 17:43:42"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 1724185702,
+  "uniq": 468941193,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"
