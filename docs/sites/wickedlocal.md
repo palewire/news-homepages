@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 53 screenshots with the Internet Archive.
+The archiving routine has saved 55 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-18T00:41:51.432431-04:00.jpg">
+  <img src="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-18T00:41:51.432431-04:00.jpg"
+     alt="Wicked Local at 2022-10-18 00:41:56-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-18T00:41:51.432431-04:00.jpg">October 18 at 12:41 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T12:25:59.850434-04:00.jpg">
+  <img src="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T12:25:59.850434-04:00.jpg"
+     alt="Wicked Local at 2022-10-17 12:26:03-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T12:25:59.850434-04:00.jpg">October 17 at 12:26 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T01:34:08.388857-04:00.jpg">
   <img src="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T01:34:08.388857-04:00.jpg"
      alt="Wicked Local at 2022-10-17 01:34:11-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-12T12:01:55.742238-04:00.jpg">October 12 at 12:02 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-12T02:25:37.344326-04:00.jpg">
-  <img src="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-12T02:25:37.344326-04:00.jpg"
-     alt="Wicked Local at 2022-10-12 02:25:41-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-12T02:25:37.344326-04:00.jpg">October 12 at 2:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-11T12:24:00.914011-04:00.jpg">
-  <img src="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-11T12:24:00.914011-04:00.jpg"
-     alt="Wicked Local at 2022-10-11 12:24:05-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-11T12:24:00.914011-04:00.jpg">October 11 at 12:24 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 53 hyperlink lists with the Internet Archive.
+The archiving routine has saved 55 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 12:42 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-18T00:41:51.432431-04:00.hyperlinks.json) |
+| [October 17 at 12:26 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T12:25:59.850434-04:00.hyperlinks.json) |
 | [October 17 at 1:34 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T01:34:08.388857-04:00.hyperlinks.json) |
 | [October 16 at 12:47 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-16T12:47:33.189012-04:00.hyperlinks.json) |
 | [October 16 at 1:17 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-16T01:16:56.857287-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 12:40 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-14T12:40:24.527105-04:00.hyperlinks.json) |
 | [October 14 at 2:21 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-14T02:21:33.685016-04:00.hyperlinks.json) |
 | [October 13 at 12:12 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-13T12:12:15.961428-04:00.hyperlinks.json) |
-| [October 13 at 12:41 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-13T00:41:17.367166-04:00.hyperlinks.json) |
-| [October 12 at 12:02 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-12T12:01:55.742238-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 51 accessibility trees with the Internet Archive.
+The archiving routine has saved 53 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 12:41 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-18T00:41:51.432431-04:00.accessibility.json) |
+| [October 17 at 12:26 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T12:25:59.850434-04:00.accessibility.json) |
 | [October 17 at 1:34 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T01:34:08.388857-04:00.accessibility.json) |
 | [October 16 at 12:47 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-16T12:47:33.189012-04:00.accessibility.json) |
 | [October 16 at 1:17 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-16T01:16:56.857287-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 12:40 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-14T12:40:24.527105-04:00.accessibility.json) |
 | [October 14 at 2:21 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-14T02:21:33.685016-04:00.accessibility.json) |
 | [October 13 at 12:12 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-13T12:12:15.961428-04:00.accessibility.json) |
-| [October 13 at 12:41 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-13T00:41:17.367166-04:00.accessibility.json) |
-| [October 12 at 12:02 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-12T12:01:55.742238-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 53 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 12:42 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-18T00:41:51.432431-04:00.lighthouse.json) |
+| [October 17 at 12:26 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T12:25:59.850434-04:00.lighthouse.json) |
 | [October 17 at 1:34 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-17T01:34:08.388857-04:00.lighthouse.json) |
 | [October 16 at 12:47 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-16T12:47:33.189012-04:00.lighthouse.json) |
 | [October 16 at 1:17 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-16T01:16:56.857287-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 12:40 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-14T12:40:24.527105-04:00.lighthouse.json) |
 | [October 14 at 2:21 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-14T02:21:33.685016-04:00.lighthouse.json) |
 | [October 13 at 12:12 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-13T12:12:15.961428-04:00.lighthouse.json) |
-| [October 13 at 12:41 AM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-13T00:41:17.367166-04:00.lighthouse.json) |
-| [October 12 at 12:02 PM](https://archive.org/download/wickedlocal-2022/wickedlocal-2022-10-12T12:01:55.742238-04:00.lighthouse.json) |
 
 
 

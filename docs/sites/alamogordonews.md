@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 52 screenshots with the Internet Archive.
+The archiving routine has saved 54 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T22:37:11.004825-06:00.jpg">
+  <img src="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T22:37:11.004825-06:00.jpg"
+     alt="Alamogordo Daily News at 2022-10-17 22:37:14-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T22:37:11.004825-06:00.jpg">October 17 at 10:37 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T10:18:22.087668-06:00.jpg">
+  <img src="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T10:18:22.087668-06:00.jpg"
+     alt="Alamogordo Daily News at 2022-10-17 10:18:25-06:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T10:18:22.087668-06:00.jpg">October 17 at 10:18 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-16T23:26:26.737796-06:00.jpg">
   <img src="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-16T23:26:26.737796-06:00.jpg"
      alt="Alamogordo Daily News at 2022-10-16 23:26:28-06:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T09:58:35.464412-06:00.jpg">October 12 at 9:58 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T00:20:09.994179-06:00.jpg">
-  <img src="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T00:20:09.994179-06:00.jpg"
-     alt="Alamogordo Daily News at 2022-10-12 00:20:13-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T00:20:09.994179-06:00.jpg">October 12 at 12:20 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-11T10:11:44.158119-06:00.jpg">
-  <img src="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-11T10:11:44.158119-06:00.jpg"
-     alt="Alamogordo Daily News at 2022-10-11 10:11:48-06:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-11T10:11:44.158119-06:00.jpg">October 11 at 10:11 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 52 hyperlink lists with the Internet Archive.
+The archiving routine has saved 54 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 17 at 10:37 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T22:37:11.004825-06:00.hyperlinks.json) |
+| [October 17 at 10:18 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T10:18:22.087668-06:00.hyperlinks.json) |
 | [October 16 at 11:26 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-16T23:26:26.737796-06:00.hyperlinks.json) |
 | [October 16 at 10:41 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-16T10:41:17.734445-06:00.hyperlinks.json) |
 | [October 15 at 11:10 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-15T23:10:46.841556-06:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 10:33 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-14T10:33:13.200792-06:00.hyperlinks.json) |
 | [October 14 at 12:15 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-14T00:15:30.954639-06:00.hyperlinks.json) |
 | [October 13 at 10:07 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-13T10:07:14.190150-06:00.hyperlinks.json) |
-| [October 12 at 10:34 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T22:34:31.522536-06:00.hyperlinks.json) |
-| [October 12 at 9:58 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T09:58:35.464412-06:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 52 accessibility trees with the Internet Archive.
+The archiving routine has saved 54 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 17 at 10:37 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T22:37:11.004825-06:00.accessibility.json) |
+| [October 17 at 10:18 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T10:18:22.087668-06:00.accessibility.json) |
 | [October 16 at 11:26 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-16T23:26:26.737796-06:00.accessibility.json) |
 | [October 16 at 10:41 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-16T10:41:17.734445-06:00.accessibility.json) |
 | [October 15 at 11:10 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-15T23:10:46.841556-06:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 10:33 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-14T10:33:13.200792-06:00.accessibility.json) |
 | [October 14 at 12:15 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-14T00:15:30.954639-06:00.accessibility.json) |
 | [October 13 at 10:07 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-13T10:07:14.190150-06:00.accessibility.json) |
-| [October 12 at 10:34 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T22:34:31.522536-06:00.accessibility.json) |
-| [October 12 at 9:58 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T09:58:35.464412-06:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 52 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 17 at 10:37 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T22:37:11.004825-06:00.lighthouse.json) |
+| [October 17 at 10:18 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-17T10:18:22.087668-06:00.lighthouse.json) |
 | [October 16 at 11:26 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-16T23:26:26.737796-06:00.lighthouse.json) |
 | [October 16 at 10:41 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-16T10:41:17.734445-06:00.lighthouse.json) |
 | [October 15 at 11:10 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-15T23:10:46.841556-06:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 10:33 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-14T10:33:13.200792-06:00.lighthouse.json) |
 | [October 14 at 12:15 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-14T00:15:30.954639-06:00.lighthouse.json) |
 | [October 13 at 10:07 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-13T10:07:14.190150-06:00.lighthouse.json) |
-| [October 12 at 10:34 PM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T22:34:31.522536-06:00.lighthouse.json) |
-| [October 12 at 9:58 AM](https://archive.org/download/alamogordonews-2022/alamogordonews-2022-10-12T09:58:35.464412-06:00.lighthouse.json) |
 
 
 
