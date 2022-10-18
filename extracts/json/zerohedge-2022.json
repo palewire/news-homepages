@@ -1,5 +1,5 @@
 {
-  "created": 1666038626,
+  "created": 1666077796,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/zerohedge-2022",
@@ -15804,31 +15804,93 @@
       "sha1": "5335c26a7591044aabb83f3376d7199616c800a2"
     },
     {
+      "name": "zerohedge-2022-10-18T03:20:50.357140-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666077654",
+      "size": "27952",
+      "md5": "90f3637343dd39d184b447dbe8806955",
+      "crc32": "8094fcd0",
+      "sha1": "f770bdba7fa7948eb7d1fd957dafd373a3d16d83",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-18T03:20:50.357140-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666077656",
+      "size": "21440",
+      "md5": "1b464e626908304d878d6c395cb3c50a",
+      "crc32": "e5aee7b6",
+      "sha1": "6cebb505b72ef0ed7764cdc05395b1c7a62cc22d",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-18T03:20:50.357140-04:00.jpg",
+      "source": "original",
+      "mtime": "1666077651",
+      "size": "262674",
+      "md5": "18cacff594d9101a14678054033c2563",
+      "crc32": "bf16d5ed",
+      "sha1": "6b5eb88e6af010f2749a9f602a08f53b26b813cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-10-18T03:20:50.357140-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666077657",
+      "size": "1483",
+      "md5": "0f647e17401e83df282cb635da5327cc",
+      "crc32": "87a5a24a",
+      "sha1": "9f77e93d5482151d9cce0f7239e7bfdc0befd5d4",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-18T03:20:50.357140-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666077659",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-18T03:20:50.357140-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-10-18T03:20:50.357140-04:00.jpg",
+      "mtime": "1666077752",
+      "size": "9306",
+      "md5": "5168f06a0fb861c39737b9bb58552f0c",
+      "crc32": "004ebdae",
+      "sha1": "e299b001730788010a69620f61bf05f0b8f4befd"
+    },
+    {
       "name": "zerohedge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "095ff5f51638c2786769b32ce2977050bd3f3643",
-      "mtime": "1666038604",
-      "size": "323604",
-      "md5": "0d82215290673cfd163d347629ed956c",
-      "crc32": "85d8cee9",
-      "sha1": "7a55da53892bca0bcbeca3a97a7aa84b2ea6767a",
+      "btih": "eb6e6f20666793271d035939bbdf6c2c3ea87171",
+      "mtime": "1666077773",
+      "size": "324875",
+      "md5": "02c3ea84860bde83ea2421af70322df0",
+      "crc32": "caca4999",
+      "sha1": "1338e0bbc9055aba63cf06b357d460c43b89e72c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohedge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76d3ecfd16c31bdbbeb15727a6f75bf6",
+      "md5": "1eaed8e06be6cbc8f84cbc1d3f5fa14a",
       "summation": "md5"
     },
     {
       "name": "zerohedge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666038514",
-      "size": "1937408",
-      "md5": "9eff3c9aaec6d8f29c8b48462b10460e",
-      "crc32": "bea03d6f",
-      "sha1": "1942131f6b03c98dd9ee9555e40cdb414f080b12",
+      "mtime": "1666077668",
+      "size": "1945600",
+      "md5": "d799c0544734748cac20ab7e38707c5e",
+      "crc32": "fca5ffac",
+      "sha1": "3d4b3bfbc3251fd0e4f4831bc5b9e53924529219",
       "format": "Metadata"
     },
     {
@@ -15842,9 +15904,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1531,
-  "item_last_updated": 1666038604,
-  "item_size": 92035227,
+  "files_count": 1537,
+  "item_last_updated": 1666077773,
+  "item_size": 92367747,
   "metadata": {
     "identifier": "zerohedge-2022",
     "collection": [
@@ -15861,10 +15923,10 @@
     "publicdate": "2022-07-17 15:04:04",
     "addeddate": "2022-07-17 15:04:04"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 906641632,
+  "server": "ia601505.us.archive.org",
+  "uniq": 319717332,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

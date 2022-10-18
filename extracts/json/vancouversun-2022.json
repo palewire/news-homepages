@@ -1,5 +1,6 @@
 {
-  "created": 1665993411,
+  "conflict": 1666078200,
+  "created": 1666078200,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/vancouversun-2022",
@@ -12932,31 +12933,155 @@
       "sha1": "f52d2ce9f0d08d455024b9c429092047bfcb67bd"
     },
     {
+      "name": "vancouversun-2022-10-17T13:10:07.970226-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666037431",
+      "size": "77131",
+      "md5": "47133c7faa17233ba71919c0ea74afdd",
+      "crc32": "0d995a62",
+      "sha1": "f61584b0edc4af7af0c44441141a0b605bc97b4a",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-10-17T13:10:07.970226-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666037433",
+      "size": "62067",
+      "md5": "ddaf585369e6d2f0f58861c01394f735",
+      "crc32": "5c374d47",
+      "sha1": "27efb960568a5cf2329692bd19ac6c791409035a",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-10-17T13:10:07.970226-07:00.jpg",
+      "source": "original",
+      "mtime": "1666037430",
+      "size": "288038",
+      "md5": "704028a07240313b28b057a3dea8d67b",
+      "crc32": "27bc4008",
+      "sha1": "9883c8a236f261ef4af451269cbfea318c3a94be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-10-17T13:10:07.970226-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666037435",
+      "size": "1466",
+      "md5": "21dd3658a20f40bbfeb7d5a4cec101d9",
+      "crc32": "62e3ef36",
+      "sha1": "843d7849b74e2fd6121b61d1b5355fdf7df9d945",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-10-17T13:10:07.970226-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666037436",
+      "size": "484",
+      "md5": "732acd22d5b89f8616c5cf505da397e0",
+      "crc32": "26867b7a",
+      "sha1": "d9a957037e3c747818d1cf332845856c0e984882",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-10-17T13:10:07.970226-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-10-17T13:10:07.970226-07:00.jpg",
+      "mtime": "1666037542",
+      "size": "9967",
+      "md5": "ad7a43c2b7acffb3f7c154ec4a6a710a",
+      "crc32": "10f9f439",
+      "sha1": "c3ca5e63939efa5f99749b701577c5a21a7800ed"
+    },
+    {
+      "name": "vancouversun-2022-10-18T00:17:29.811990-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666077453",
+      "size": "75630",
+      "md5": "2928fe11045bfaa92366234157df8b1b",
+      "crc32": "c08dfcc3",
+      "sha1": "d5a9cb8d1aba3faf0489d1c04609bcbd61a312dc",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-10-18T00:17:29.811990-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666077455",
+      "size": "61703",
+      "md5": "789d9801b63035c94b2cef4b5510d4ff",
+      "crc32": "9e3d4336",
+      "sha1": "62d4839b699441e7520e5d66f05f669a9946751a",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-10-18T00:17:29.811990-07:00.jpg",
+      "source": "original",
+      "mtime": "1666077451",
+      "size": "309780",
+      "md5": "9b32d4d285d1a8f25679ecfaf11fb5f1",
+      "crc32": "f987a71f",
+      "sha1": "dafb9ceb76fd60d27761d6e320cdba218c64b408",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vancouversun-2022-10-18T00:17:29.811990-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666077459",
+      "size": "1468",
+      "md5": "cf98d96977d4b2f9f77a835082470ae2",
+      "crc32": "2e54bbd4",
+      "sha1": "3af0429af0bf4519e374a66ea20ee96f20a89cff",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-10-18T00:17:29.811990-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666077461",
+      "size": "483",
+      "md5": "c4262e4238ef06ccdf3d7131e59e0986",
+      "crc32": "74d4cf76",
+      "sha1": "d2aa9a90f0ef4676338ef65e5b48884f46f72432",
+      "format": "JSON"
+    },
+    {
+      "name": "vancouversun-2022-10-18T00:17:29.811990-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-10-18T00:17:29.811990-07:00.jpg",
+      "mtime": "1666077858",
+      "size": "10306",
+      "md5": "c31706b6ccc03016c92258c375d679cc",
+      "crc32": "35dd8af4",
+      "sha1": "8a5990fdf85395dd82119f8a9332f09605b38209"
+    },
+    {
       "name": "vancouversun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8b09b1d5c6dd80d355942aa52dc03ad3eceacde3",
-      "mtime": "1665993397",
-      "size": "269231",
-      "md5": "cb08c4abd81c3424bb3f08b25fb3b49d",
-      "crc32": "465c74e6",
-      "sha1": "b0be0a4370706a19a631d1a3048342d3f570a119",
+      "btih": "4592eacb5ec5cee807524f36dfd6009890f5e4e7",
+      "mtime": "1666078009",
+      "size": "271810",
+      "md5": "f540352833bf34696ba32db96717a5a5",
+      "crc32": "9648ea34",
+      "sha1": "f686bdd27eafd88fc7de45aa059ff7544bce5ea0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vancouversun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2870a255ef56155099c495d680fc3311",
+      "md5": "1f1f160478dde01182b787141e3c7866",
       "summation": "md5"
     },
     {
       "name": "vancouversun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665992949",
-      "size": "1568768",
-      "md5": "c839ee3b0c872bfb96cd69e811567975",
-      "crc32": "27a3a55c",
-      "sha1": "8d1e713cc2cb1fd36c20448388f613b76b30e48d",
+      "mtime": "1666077497",
+      "size": "1581056",
+      "md5": "766ab8532aba2ac10739c86d75a4d939",
+      "crc32": "fbaf4e2f",
+      "sha1": "6ceb4d2cd269c0d7c52ae4a37ac386cb3d402bf9",
       "format": "Metadata"
     },
     {
@@ -12970,9 +13095,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1250,
-  "item_last_updated": 1665993397,
-  "item_size": 108481069,
+  "files_count": 1262,
+  "item_last_updated": 1666078009,
+  "item_size": 109394459,
   "metadata": {
     "identifier": "vancouversun-2022",
     "collection": [
@@ -12989,10 +13114,21 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1622826039,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3444444944,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1561076757,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }
