@@ -1,5 +1,5 @@
 {
-  "created": 1666011594,
+  "created": 1666056665,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/macrumors-2022",
@@ -10248,31 +10248,93 @@
       "sha1": "1d232e4377fe630f2229285b58eb194cddd82b13"
     },
     {
+      "name": "macrumors-2022-10-17T21:29:00.387650-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666056553",
+      "size": "185427",
+      "md5": "dd98fee313570c1dae56d690660ab8bf",
+      "crc32": "2d7609af",
+      "sha1": "457b99d6b20baf6c54665a1a2c190e5f2d34bdfb",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-17T21:29:00.387650-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666056554",
+      "size": "114322",
+      "md5": "577bb795b8ce4052e4c93a73721f1344",
+      "crc32": "bc4a59f9",
+      "sha1": "748dea521139fb6294179da4c5a91728c1d7d055",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-17T21:29:00.387650-04:00.jpg",
+      "source": "original",
+      "mtime": "1666056551",
+      "size": "308108",
+      "md5": "5437f15b3fa3c4bd8e22d0d72518e1a2",
+      "crc32": "d2818cd9",
+      "sha1": "a52e46fe270e9aae552ac3f2475bf7ba7158437e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "macrumors-2022-10-17T21:29:00.387650-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666056556",
+      "size": "1486",
+      "md5": "2c884dc0a703c92dd392e3820cf45414",
+      "crc32": "62bfe912",
+      "sha1": "7d267b5951ea15fa3a3e12b32d4ffb1e21e4b78c",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-17T21:29:00.387650-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666056557",
+      "size": "99385",
+      "md5": "c96c71e0ee1494b5eb26577669fb29b9",
+      "crc32": "db0acad3",
+      "sha1": "654250d664c15bd992a6ae43b406a226297ce692",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-17T21:29:00.387650-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "macrumors-2022-10-17T21:29:00.387650-04:00.jpg",
+      "mtime": "1666056633",
+      "size": "10309",
+      "md5": "ef344e588293c7e4e1fc44c0d4111bef",
+      "crc32": "afd89d13",
+      "sha1": "12b323230fec1fac52e365f74d93e21a6b78c955"
+    },
+    {
       "name": "macrumors-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c04e17de474020a3183dcf91cbad72434415aee",
-      "mtime": "1666011571",
-      "size": "212613",
-      "md5": "49bc11b63433f9220311445f877f38a1",
-      "crc32": "26d9062a",
-      "sha1": "6ad312d38395fa0ea62af8970af9b248cddd4035",
+      "btih": "82f3e8a5e04a697cbeee578681b4a237010e386b",
+      "mtime": "1666056645",
+      "size": "213909",
+      "md5": "50a9718a6fe7b88c558246542ab1c31e",
+      "crc32": "7b47a9a1",
+      "sha1": "509eb21f5ace5832b85241ac18c4d0beb049c2b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "macrumors-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "df7ae08afb237ae0ef8783947d3f19b7",
+      "md5": "295c8de6a0da516e0309fbf60ed68f5d",
       "summation": "md5"
     },
     {
       "name": "macrumors-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666011492",
-      "size": "1261568",
-      "md5": "467bcdd488cd337add61a0869f88a1cc",
-      "crc32": "f7e7422b",
-      "sha1": "fbe911dda49b9ed1963a4dc9ee94b70db9e8cc1e",
+      "mtime": "1666056562",
+      "size": "1273856",
+      "md5": "8e6ffce6fe87252261c8350656a0b401",
+      "crc32": "1eccd840",
+      "sha1": "d2ffb08a5cba68d2ae3a23b1f318d1c18f63e6ff",
       "format": "Metadata"
     },
     {
@@ -10286,9 +10348,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 994,
-  "item_last_updated": 1666011571,
-  "item_size": 109176050,
+  "files_count": 1000,
+  "item_last_updated": 1666056645,
+  "item_size": 109908671,
   "metadata": {
     "identifier": "macrumors-2022",
     "collection": [
@@ -10305,10 +10367,10 @@
     "publicdate": "2022-07-25 06:47:43",
     "addeddate": "2022-07-25 06:47:43"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1392515758,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1052249229,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

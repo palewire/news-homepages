@@ -1,5 +1,5 @@
 {
-  "created": 1666011471,
+  "created": 1666056496,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/kyivpost-2022",
@@ -20942,31 +20942,93 @@
       "sha1": "f9a261e2bb4c3a1c68fb28bc1f9ae62de644cdfa"
     },
     {
+      "name": "kyivpost-2022-10-18T04:25:55.054967+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666056358",
+      "size": "36769",
+      "md5": "962cc96863e5dd2f1b2d9306a93bba79",
+      "crc32": "d52fbb4b",
+      "sha1": "9b8fe495103b8b5c28f55c7c53e7a55c22f2d6dc",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-10-18T04:25:55.054967+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666056360",
+      "size": "60416",
+      "md5": "d9140481157b74b52c49ffc7a0540ed3",
+      "crc32": "e8ced8f9",
+      "sha1": "ff542908a066e58426445b4693462b234072dc43",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-10-18T04:25:55.054967+03:00.jpg",
+      "source": "original",
+      "mtime": "1666056356",
+      "size": "227318",
+      "md5": "817e444322c5d90329b05fe6d23d0541",
+      "crc32": "5c0a33a1",
+      "sha1": "51968197cb85d3166e54dfe49dace3a17439893d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivpost-2022-10-18T04:25:55.054967+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666056362",
+      "size": "1503",
+      "md5": "287e1754e89ec89a62602233068292cb",
+      "crc32": "70c5e66b",
+      "sha1": "b4a139d0e7d996f756cfec1f70a9782cfd05f5e0",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-10-18T04:25:55.054967+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666056364",
+      "size": "208",
+      "md5": "e7f0c385eb53e4aa2f347f857e8fcefb",
+      "crc32": "22e6b901",
+      "sha1": "c7d2ceb50969818216c5daffb28f88c9c8c5718e",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivpost-2022-10-18T04:25:55.054967+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivpost-2022-10-18T04:25:55.054967+03:00.jpg",
+      "mtime": "1666056453",
+      "size": "8616",
+      "md5": "978af400d6df78d54e84bb800db4fd06",
+      "crc32": "7814f403",
+      "sha1": "2fd829ae278ca24e4c23260a20003eacd7e8c651"
+    },
+    {
       "name": "kyivpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e670e20db7527e075b0dd5c1dde09eb85e5e002",
-      "mtime": "1666011463",
-      "size": "423940",
-      "md5": "aedcc2557b05ca53a7d61cc0f9fbc745",
-      "crc32": "bad541a8",
-      "sha1": "f697d338e863370ab0cdd80004c2aac44e7bd2e8",
+      "btih": "597d0dfc92686fd3556f69e88105071cefceabaf",
+      "mtime": "1666056484",
+      "size": "425205",
+      "md5": "550a902f9f61b1506bb50c203496011f",
+      "crc32": "60530da1",
+      "sha1": "19ae8e2cc45d8db0b715128930a134170a16eac1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6aa54d8f5793844e37cd277e1fc629d1",
+      "md5": "95632d35f6b505caf10033e8c6970c7a",
       "summation": "md5"
     },
     {
       "name": "kyivpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666011355",
-      "size": "2412544",
-      "md5": "6f0fcde0de465c2ad34f9d89bb131f95",
-      "crc32": "65c7c9eb",
-      "sha1": "e029a315613e80452dacdfc9d1fd9ad766b1fd05",
+      "mtime": "1666056369",
+      "size": "2416640",
+      "md5": "e1d102b35537185c1c5cfed1f0b21cd3",
+      "crc32": "3f9c2f4a",
+      "sha1": "811b0a3c53463d6ef5bfe29c9280775a089aa78c",
       "format": "Metadata"
     },
     {
@@ -20980,9 +21042,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2011,
-  "item_last_updated": 1666011463,
-  "item_size": 166854342,
+  "files_count": 2017,
+  "item_last_updated": 1666056484,
+  "item_size": 167194533,
   "metadata": {
     "identifier": "kyivpost-2022",
     "collection": [
@@ -20999,10 +21061,10 @@
     "publicdate": "2022-03-23 02:09:01",
     "addeddate": "2022-03-23 02:09:01"
   },
-  "server": "ia902502.us.archive.org",
-  "uniq": 1196154229,
+  "server": "ia802502.us.archive.org",
+  "uniq": 194188230,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }
