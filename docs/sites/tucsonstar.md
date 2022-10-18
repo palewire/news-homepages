@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 208 screenshots with the Internet Archive.
+The archiving routine has saved 209 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 208 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-18T08:18:39.606806-07:00.jpg">
+  <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-18T08:18:39.606806-07:00.jpg"
+     alt="Arizona Daily Star at 2022-10-18 08:18:40-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-18T08:18:39.606806-07:00.jpg">October 18 at 8:18 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-17T20:43:09.389267-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-12T20:42:58.491861-07:00.jpg">October 12 at 8:43 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-12T08:08:55.274097-07:00.jpg">
-  <img src="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-12T08:08:55.274097-07:00.jpg"
-     alt="Arizona Daily Star at 2022-10-12 08:09:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-12T08:08:55.274097-07:00.jpg">October 12 at 8:09 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 207 hyperlink lists with the Internet Archive.
+The archiving routine has saved 208 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 8:18 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-18T08:18:39.606806-07:00.hyperlinks.json) |
 | [October 17 at 8:43 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-17T20:43:09.389267-07:00.hyperlinks.json) |
 | [October 17 at 8:05 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-17T08:05:50.132747-07:00.hyperlinks.json) |
 | [October 16 at 8:51 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-16T20:51:07.807635-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 8:57 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-14T20:57:36.349111-07:00.hyperlinks.json) |
 | [October 14 at 9:28 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-14T09:28:45.583276-07:00.hyperlinks.json) |
 | [October 13 at 8:56 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-13T20:55:54.522342-07:00.hyperlinks.json) |
-| [October 13 at 8:11 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-13T08:11:44.214558-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 210 accessibility trees with the Internet Archive.
+The archiving routine has saved 211 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 8:18 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-18T08:18:39.606806-07:00.accessibility.json) |
 | [October 17 at 8:43 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-17T20:43:09.389267-07:00.accessibility.json) |
 | [October 17 at 8:05 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-17T08:05:50.132747-07:00.accessibility.json) |
 | [October 16 at 8:51 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-16T20:51:07.807635-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 8:57 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-14T20:57:36.349111-07:00.accessibility.json) |
 | [October 14 at 9:28 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-14T09:28:45.583276-07:00.accessibility.json) |
 | [October 13 at 8:55 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-13T20:55:54.522342-07:00.accessibility.json) |
-| [October 13 at 8:11 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-13T08:11:44.214558-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 174 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 175 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 8:18 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-18T08:18:39.606806-07:00.lighthouse.json) |
 | [October 17 at 8:43 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-17T20:43:09.389267-07:00.lighthouse.json) |
 | [October 17 at 8:05 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-17T08:05:50.132747-07:00.lighthouse.json) |
 | [October 16 at 8:51 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-16T20:51:07.807635-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 8:57 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-14T20:57:36.349111-07:00.lighthouse.json) |
 | [October 14 at 9:28 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-14T09:28:45.583276-07:00.lighthouse.json) |
 | [October 13 at 8:56 PM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-13T20:55:54.522342-07:00.lighthouse.json) |
-| [October 13 at 8:11 AM](https://archive.org/download/tucsonstar-2022/tucsonstar-2022-10-13T08:11:44.214558-07:00.lighthouse.json) |
 
 
 

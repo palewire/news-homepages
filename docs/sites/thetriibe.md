@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 365 screenshots with the Internet Archive.
+The archiving routine has saved 367 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T11:11:40.651962-05:00.jpg">
+  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T11:11:40.651962-05:00.jpg"
+     alt="The TriiBE at 2022-10-18 11:11:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T11:11:40.651962-05:00.jpg">October 18 at 11:11 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T10:17:26.443199-05:00.jpg">
+  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T10:17:26.443199-05:00.jpg"
+     alt="The TriiBE at 2022-10-18 10:17:41-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T10:17:26.443199-05:00.jpg">October 18 at 10:17 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T22:42:26.750639-05:00.jpg">
   <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T22:42:26.750639-05:00.jpg"
      alt="The TriiBE at 2022-10-17 22:42:40-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T22:54:14.239139-05:00.jpg">October 14 at 10:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T11:45:18.817228-05:00.jpg">
-  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T11:45:18.817228-05:00.jpg"
-     alt="The TriiBE at 2022-10-14 11:45:21-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T11:45:18.817228-05:00.jpg">October 14 at 11:45 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T11:25:47.873770-05:00.jpg">
-  <img src="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T11:25:47.873770-05:00.jpg"
-     alt="The TriiBE at 2022-10-14 11:25:52-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T11:25:47.873770-05:00.jpg">October 14 at 11:25 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 370 hyperlink lists with the Internet Archive.
+The archiving routine has saved 372 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 11:11 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T11:11:40.651962-05:00.hyperlinks.json) |
+| [October 18 at 10:17 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T10:17:26.443199-05:00.hyperlinks.json) |
 | [October 17 at 10:42 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T22:42:26.750639-05:00.hyperlinks.json) |
 | [October 17 at 11:12 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T11:12:29.535843-05:00.hyperlinks.json) |
 | [October 17 at 10:06 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T10:06:03.662041-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 16 at 10:07 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-16T10:07:53.051315-05:00.hyperlinks.json) |
 | [October 15 at 10:58 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-15T22:58:39.593804-05:00.hyperlinks.json) |
 | [October 15 at 12:07 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-15T12:06:59.295721-05:00.hyperlinks.json) |
-| [October 15 at 10:15 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-15T10:15:04.362962-05:00.hyperlinks.json) |
-| [October 14 at 10:54 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T22:54:14.239139-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 367 accessibility trees with the Internet Archive.
+The archiving routine has saved 369 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 11:11 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T11:11:40.651962-05:00.accessibility.json) |
+| [October 18 at 10:17 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T10:17:26.443199-05:00.accessibility.json) |
 | [October 17 at 10:42 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T22:42:26.750639-05:00.accessibility.json) |
 | [October 17 at 11:12 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T11:12:29.535843-05:00.accessibility.json) |
 | [October 17 at 10:06 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T10:06:03.662041-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 16 at 10:07 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-16T10:07:53.051315-05:00.accessibility.json) |
 | [October 15 at 10:58 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-15T22:58:39.593804-05:00.accessibility.json) |
 | [October 15 at 12:07 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-15T12:06:59.295721-05:00.accessibility.json) |
-| [October 15 at 10:15 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-15T10:15:04.362962-05:00.accessibility.json) |
-| [October 14 at 10:54 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T22:54:14.239139-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 256 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 258 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 11:11 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T11:11:40.651962-05:00.lighthouse.json) |
+| [October 18 at 10:17 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-18T10:17:26.443199-05:00.lighthouse.json) |
 | [October 17 at 10:42 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T22:42:26.750639-05:00.lighthouse.json) |
 | [October 17 at 11:12 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T11:12:29.535843-05:00.lighthouse.json) |
 | [October 17 at 10:06 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-17T10:06:03.662041-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 16 at 10:08 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-16T10:07:53.051315-05:00.lighthouse.json) |
 | [October 15 at 10:58 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-15T22:58:39.593804-05:00.lighthouse.json) |
 | [October 15 at 12:07 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-15T12:06:59.295721-05:00.lighthouse.json) |
-| [October 15 at 10:15 AM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-15T10:15:04.362962-05:00.lighthouse.json) |
-| [October 14 at 10:54 PM](https://archive.org/download/thetriibe-2022/thetriibe-2022-10-14T22:54:14.239139-05:00.lighthouse.json) |
 
 
 
