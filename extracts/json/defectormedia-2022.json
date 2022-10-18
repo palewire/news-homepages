@@ -1,5 +1,5 @@
 {
-  "created": 1665964651,
+  "created": 1666050683,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/15/items/defectormedia-2022",
@@ -12172,31 +12172,145 @@
       "sha1": "c8b9ed0ac17753f8dec999dbe05abaaf7f50ae35"
     },
     {
+      "name": "defectormedia-2022-10-17T07:51:12.242112-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666007484",
+      "size": "27555",
+      "md5": "948cfa4ceb4eb2b7e73cd6881c53997f",
+      "crc32": "3b565976",
+      "sha1": "dd974fcca03c23cb711346d2d8a927284c897c26",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-10-17T07:51:12.242112-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666007486",
+      "size": "18972",
+      "md5": "7e21c56738ccb1b2e7d43451def767eb",
+      "crc32": "e6f5dd66",
+      "sha1": "47935fad7000da0c2f0fd72cb9e9d0c81874efec",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-10-17T07:51:12.242112-04:00.jpg",
+      "source": "original",
+      "mtime": "1666007482",
+      "size": "232683",
+      "md5": "69404e1f0e3ed88fe6103950fbcf005f",
+      "crc32": "0bc08b72",
+      "sha1": "0a722269d9e2fff49b6ec0d533edda27505fb5a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "defectormedia-2022-10-17T07:51:12.242112-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666007488",
+      "size": "1441",
+      "md5": "76347be3614723de02d30722e1c9b42a",
+      "crc32": "0714df4a",
+      "sha1": "761af6da67e9f26a51437c245a5152cf07b44297",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-10-17T07:51:12.242112-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "defectormedia-2022-10-17T07:51:12.242112-04:00.jpg",
+      "mtime": "1666007596",
+      "size": "9940",
+      "md5": "6cb1423ead0de6b45e32bf7321744a99",
+      "crc32": "a4ba86fd",
+      "sha1": "ee027ea8213f0e0d6206584e79ed93441c0bdbba"
+    },
+    {
+      "name": "defectormedia-2022-10-17T19:48:51.286214-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666050543",
+      "size": "27963",
+      "md5": "a964e688a283f5d6528c77bbaaad27bf",
+      "crc32": "95c41ef5",
+      "sha1": "3b1a73d18a996b633a777afce36ff01ec8e9fa16",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-10-17T19:48:51.286214-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666050544",
+      "size": "19568",
+      "md5": "3431a294afde7f8c833773c8710707bf",
+      "crc32": "1a8a95f0",
+      "sha1": "ee9757cb5ca69b103516b1183d7d754f2873db6e",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-10-17T19:48:51.286214-04:00.jpg",
+      "source": "original",
+      "mtime": "1666050541",
+      "size": "245425",
+      "md5": "99088decc37a468bc112cee96a91f319",
+      "crc32": "a77910f5",
+      "sha1": "946f95b2f98a7ba639eef7024e3b24f6a97fce3e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "defectormedia-2022-10-17T19:48:51.286214-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666050546",
+      "size": "1437",
+      "md5": "6a8ae4d604bc831a2ae94c0fd6ac3a12",
+      "crc32": "a32f2d12",
+      "sha1": "23d22b3214c9f1a4071e7eb2437205fcf84cddc2",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-10-17T19:48:51.286214-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666050547",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "defectormedia-2022-10-17T19:48:51.286214-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "defectormedia-2022-10-17T19:48:51.286214-04:00.jpg",
+      "mtime": "1666050646",
+      "size": "10278",
+      "md5": "5dc3ac5d270a40d711be1669199a071e",
+      "crc32": "195064a7",
+      "sha1": "73303a092e153cfc85d33ca89c270c930439c4d7"
+    },
+    {
       "name": "defectormedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "411f05176581883d5203944e71d0f9410cbc111e",
-      "mtime": "1665964635",
-      "size": "253762",
-      "md5": "ee63b8417b44e995c2a891b6a4685b8c",
-      "crc32": "bab4adbe",
-      "sha1": "04e642fb16ba234fdfab0ce0b7f85413dbd58e34",
+      "btih": "5728a044e43a178ea235546a76c8411260007877",
+      "mtime": "1666050659",
+      "size": "256122",
+      "md5": "39a4430890f5b490348f9a8022c90aa9",
+      "crc32": "1424d452",
+      "sha1": "52cf023f64dba89170c4ea07283989560bf2b319",
       "format": "Archive BitTorrent"
     },
     {
       "name": "defectormedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b1bdae2b6cb83d99e763be717af1dbf4",
+      "md5": "888e3806bf50b2d9f3f598bda93a4658",
       "summation": "md5"
     },
     {
       "name": "defectormedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665964542",
-      "size": "1486848",
-      "md5": "beee1bbf8d7eb9687faed24cf61f4cbd",
-      "crc32": "f17c0557",
-      "sha1": "4cac791189ca726f9a27d1103dd4e489c2411d57",
+      "mtime": "1666050559",
+      "size": "1499136",
+      "md5": "e3fdcad66f7d0250b41b49c7cee7b769",
+      "crc32": "549d40d7",
+      "sha1": "74519c24824500f38bd64e0a6d9a487b4acf0faf",
       "format": "Metadata"
     },
     {
@@ -12210,9 +12324,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1178,
-  "item_last_updated": 1665964635,
-  "item_size": 66035768,
+  "files_count": 1189,
+  "item_last_updated": 1666050659,
+  "item_size": 66645880,
   "metadata": {
     "identifier": "defectormedia-2022",
     "collection": [
@@ -12230,7 +12344,7 @@
     "addeddate": "2022-07-04 20:47:28"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1122335332,
+  "uniq": 39118495,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"
