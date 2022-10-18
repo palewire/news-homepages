@@ -1,5 +1,6 @@
 {
-  "created": 1666019240,
+  "conflict": 1666064915,
+  "created": 1666064915,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/staradvertiser-2022",
@@ -4145,10 +4146,21 @@
     "publicdate": "2022-09-14 13:12:34",
     "addeddate": "2022-09-14 13:12:34"
   },
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 4461305,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3444234333,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1541838374,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia601507.us.archive.org"
   ]
 }

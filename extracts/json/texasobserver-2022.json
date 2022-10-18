@@ -1,5 +1,5 @@
 {
-  "created": 1666019120,
+  "created": 1666064619,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/texasobserver-2022",
@@ -10904,31 +10904,93 @@
       "sha1": "78fbc3a44dfedfb4352d932921247f22354c6a03"
     },
     {
+      "name": "texasobserver-2022-10-17T22:38:57.538484-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666064343",
+      "size": "23346",
+      "md5": "1ebd2f456af04ab0b29a6cf7d8066cff",
+      "crc32": "e48d94ff",
+      "sha1": "097548309b24a7660ad1c53e55e95f824397199b",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-10-17T22:38:57.538484-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666064350",
+      "size": "23995",
+      "md5": "762f8da8a25d3b979246bd33a478f23d",
+      "crc32": "0ad9ed87",
+      "sha1": "eb5d814e4eb5f75d8c3c6217fa1a1a3d8f873654",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-10-17T22:38:57.538484-05:00.jpg",
+      "source": "original",
+      "mtime": "1666064339",
+      "size": "192835",
+      "md5": "50223e343e0d73a425a1bb75399f7596",
+      "crc32": "d8c24854",
+      "sha1": "b6c37ded48b97cd1d80f07d41c914113fdc7b2b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasobserver-2022-10-17T22:38:57.538484-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666064352",
+      "size": "1517",
+      "md5": "2d4ec54793cda793e88f602bcd171597",
+      "crc32": "ffc9c25b",
+      "sha1": "537ae32d9fa5ea0dde671f24ce92906ca434a892",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-10-17T22:38:57.538484-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666064358",
+      "size": "10774",
+      "md5": "5a659993de9b36cfc8c9930f71a8620c",
+      "crc32": "f8aa8819",
+      "sha1": "67d585732ed8e78798213c91eba0da5a0b795785",
+      "format": "JSON"
+    },
+    {
+      "name": "texasobserver-2022-10-17T22:38:57.538484-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasobserver-2022-10-17T22:38:57.538484-05:00.jpg",
+      "mtime": "1666064491",
+      "size": "9190",
+      "md5": "73e11483c3c377d7b65a0a5e742f0d5f",
+      "crc32": "4eb24aa9",
+      "sha1": "78fbc3a44dfedfb4352d932921247f22354c6a03"
+    },
+    {
       "name": "texasobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3054763b951d81091e6e2a47cc3bdb8d3ae356f9",
-      "mtime": "1666019087",
-      "size": "227228",
-      "md5": "c8f109e785a3263a0299e2159a59fcdf",
-      "crc32": "9c0a97fe",
-      "sha1": "4f822f934075736f9fc9d72885ddadfee6b107fd",
+      "btih": "f4e52a8c3daf275d4e3387ce92b60195b39775a3",
+      "mtime": "1666064529",
+      "size": "228525",
+      "md5": "e81dd4b614310592a0858e10745ceca8",
+      "crc32": "21810c6f",
+      "sha1": "61cda8679255e33592e62d8e2208962eddc5d933",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7f1dea1981b56c1a1ebaed04ec499abd",
+      "md5": "36b1a24c366620e238b9163b2fd4922f",
       "summation": "md5"
     },
     {
       "name": "texasobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666018891",
-      "size": "1347584",
-      "md5": "d9498b2e907bdb0b982edae443c056e5",
-      "crc32": "defcff55",
-      "sha1": "da68f25c58dc58d75ff22b866654352a31a4a3d4",
+      "mtime": "1666064390",
+      "size": "1351680",
+      "md5": "f2ccabc0c1537c1729c95e81ac34725a",
+      "crc32": "97ee9884",
+      "sha1": "061f79762ef08d89431a57aade276b7b57da58a3",
       "format": "Metadata"
     },
     {
@@ -10942,9 +11004,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1057,
-  "item_last_updated": 1666019087,
-  "item_size": 47242479,
+  "files_count": 1063,
+  "item_last_updated": 1666064529,
+  "item_size": 47509529,
   "metadata": {
     "identifier": "texasobserver-2022",
     "collection": [
@@ -10962,7 +11024,7 @@
     "addeddate": "2022-07-18 00:05:22"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 1014344796,
+  "uniq": 919880936,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"
