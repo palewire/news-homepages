@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 204 screenshots with the Internet Archive.
+The archiving routine has saved 205 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 204 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/edsource-2022/edsource-2022-10-18T04:59:06.927116-07:00.jpg">
+  <img src="https://archive.org/download/edsource-2022/edsource-2022-10-18T04:59:06.927116-07:00.jpg"
+     alt="EdSource at 2022-10-18 04:59:15-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/edsource-2022/edsource-2022-10-18T04:59:06.927116-07:00.jpg">October 18 at 4:59 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/edsource-2022/edsource-2022-10-17T16:52:23.375808-07:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/edsource-2022/edsource-2022-10-12T16:54:11.982349-07:00.jpg">October 12 at 4:54 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/edsource-2022/edsource-2022-10-12T05:01:28.956634-07:00.jpg">
-  <img src="https://archive.org/download/edsource-2022/edsource-2022-10-12T05:01:28.956634-07:00.jpg"
-     alt="EdSource at 2022-10-12 05:01:31-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/edsource-2022/edsource-2022-10-12T05:01:28.956634-07:00.jpg">October 12 at 5:01 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 204 hyperlink lists with the Internet Archive.
+The archiving routine has saved 205 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 4:59 AM](https://archive.org/download/edsource-2022/edsource-2022-10-18T04:59:06.927116-07:00.hyperlinks.json) |
 | [October 17 at 4:52 PM](https://archive.org/download/edsource-2022/edsource-2022-10-17T16:52:23.375808-07:00.hyperlinks.json) |
 | [October 17 at 4:54 AM](https://archive.org/download/edsource-2022/edsource-2022-10-17T04:53:51.228738-07:00.hyperlinks.json) |
 | [October 16 at 4:58 PM](https://archive.org/download/edsource-2022/edsource-2022-10-16T16:58:46.510311-07:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 5:09 PM](https://archive.org/download/edsource-2022/edsource-2022-10-14T17:09:43.186688-07:00.hyperlinks.json) |
 | [October 14 at 5:24 AM](https://archive.org/download/edsource-2022/edsource-2022-10-14T05:24:01.170457-07:00.hyperlinks.json) |
 | [October 13 at 5:00 PM](https://archive.org/download/edsource-2022/edsource-2022-10-13T16:59:47.383326-07:00.hyperlinks.json) |
-| [October 13 at 4:51 AM](https://archive.org/download/edsource-2022/edsource-2022-10-13T04:50:49.919370-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 204 accessibility trees with the Internet Archive.
+The archiving routine has saved 205 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 4:59 AM](https://archive.org/download/edsource-2022/edsource-2022-10-18T04:59:06.927116-07:00.accessibility.json) |
 | [October 17 at 4:52 PM](https://archive.org/download/edsource-2022/edsource-2022-10-17T16:52:23.375808-07:00.accessibility.json) |
 | [October 17 at 4:54 AM](https://archive.org/download/edsource-2022/edsource-2022-10-17T04:53:51.228738-07:00.accessibility.json) |
 | [October 16 at 4:58 PM](https://archive.org/download/edsource-2022/edsource-2022-10-16T16:58:46.510311-07:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 5:09 PM](https://archive.org/download/edsource-2022/edsource-2022-10-14T17:09:43.186688-07:00.accessibility.json) |
 | [October 14 at 5:24 AM](https://archive.org/download/edsource-2022/edsource-2022-10-14T05:24:01.170457-07:00.accessibility.json) |
 | [October 13 at 5:00 PM](https://archive.org/download/edsource-2022/edsource-2022-10-13T16:59:47.383326-07:00.accessibility.json) |
-| [October 13 at 4:51 AM](https://archive.org/download/edsource-2022/edsource-2022-10-13T04:50:49.919370-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 175 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 176 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 4:59 AM](https://archive.org/download/edsource-2022/edsource-2022-10-18T04:59:06.927116-07:00.lighthouse.json) |
 | [October 17 at 4:52 PM](https://archive.org/download/edsource-2022/edsource-2022-10-17T16:52:23.375808-07:00.lighthouse.json) |
 | [October 17 at 4:54 AM](https://archive.org/download/edsource-2022/edsource-2022-10-17T04:53:51.228738-07:00.lighthouse.json) |
 | [October 16 at 4:58 PM](https://archive.org/download/edsource-2022/edsource-2022-10-16T16:58:46.510311-07:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 5:09 PM](https://archive.org/download/edsource-2022/edsource-2022-10-14T17:09:43.186688-07:00.lighthouse.json) |
 | [October 14 at 5:24 AM](https://archive.org/download/edsource-2022/edsource-2022-10-14T05:24:01.170457-07:00.lighthouse.json) |
 | [October 13 at 5:00 PM](https://archive.org/download/edsource-2022/edsource-2022-10-13T16:59:47.383326-07:00.lighthouse.json) |
-| [October 13 at 4:51 AM](https://archive.org/download/edsource-2022/edsource-2022-10-13T04:50:49.919370-07:00.lighthouse.json) |
 
 
 

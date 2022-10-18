@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 72 hyperlink lists with the Internet Archive.
+The archiving routine has saved 73 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 5:51 AM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-18T05:51:43.962010-05:00.hyperlinks.json) |
 | [October 17 at 5:53 PM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-17T17:53:39.549837-05:00.hyperlinks.json) |
 | [October 17 at 5:50 AM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-17T05:50:08.325092-05:00.hyperlinks.json) |
 | [October 16 at 6:00 PM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-16T17:59:59.573667-05:00.hyperlinks.json) |
@@ -537,7 +538,6 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 6:05 PM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-14T18:05:37.663260-05:00.hyperlinks.json) |
 | [October 14 at 5:56 AM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-14T05:56:24.609649-05:00.hyperlinks.json) |
 | [October 13 at 6:02 PM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-13T18:02:45.089237-05:00.hyperlinks.json) |
-| [October 13 at 5:46 AM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-13T05:46:40.827227-05:00.hyperlinks.json) |
 
 
 ### Accessibility
@@ -648,7 +648,7 @@ Here are the 10 most recent accessibility trees.
 
 ### Lighthouse
 
-The archiving routine has saved 72 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 73 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 5:51 AM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-18T05:51:43.962010-05:00.lighthouse.json) |
 | [October 17 at 5:53 PM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-17T17:53:39.549837-05:00.lighthouse.json) |
 | [October 17 at 5:50 AM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-17T05:50:08.325092-05:00.lighthouse.json) |
 | [October 16 at 6:00 PM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-16T17:59:59.573667-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 6:05 PM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-14T18:05:37.663260-05:00.lighthouse.json) |
 | [October 14 at 5:56 AM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-14T05:56:24.609649-05:00.lighthouse.json) |
 | [October 13 at 6:02 PM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-13T18:02:45.089237-05:00.lighthouse.json) |
-| [October 13 at 5:46 AM](https://archive.org/download/arkansasonline-2022/arkansasonline-2022-10-13T05:46:40.827227-05:00.lighthouse.json) |
 
 
 

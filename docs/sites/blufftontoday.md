@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 56 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-18T06:54:26.770914-04:00.jpg">
+  <img src="https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-18T06:54:26.770914-04:00.jpg"
+     alt="Bluffton Today at 2022-10-18 06:54:31-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-18T06:54:26.770914-04:00.jpg">October 18 at 6:54 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-17T18:54:51.086049-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-12T18:59:01.977630-04:00.jpg">October 12 at 6:59 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-12T06:59:19.279474-04:00.jpg">
-  <img src="https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-12T06:59:19.279474-04:00.jpg"
-     alt="Bluffton Today at 2022-10-12 06:59:22-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-12T06:59:19.279474-04:00.jpg">October 12 at 6:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 6:54 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-18T06:54:26.770914-04:00.hyperlinks.json) |
 | [October 17 at 6:54 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-17T18:54:51.086049-04:00.hyperlinks.json) |
 | [October 17 at 6:51 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-17T06:51:34.607904-04:00.hyperlinks.json) |
 | [October 16 at 7:00 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-16T19:00:50.024116-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 14 at 7:05 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-14T19:05:18.175748-04:00.hyperlinks.json) |
 | [October 14 at 6:56 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-14T06:56:38.650407-04:00.hyperlinks.json) |
 | [October 13 at 7:05 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-13T19:05:37.542242-04:00.hyperlinks.json) |
-| [October 13 at 6:47 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-13T06:47:26.088848-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 56 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 6:54 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-18T06:54:26.770914-04:00.accessibility.json) |
 | [October 17 at 6:54 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-17T18:54:51.086049-04:00.accessibility.json) |
 | [October 17 at 6:51 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-17T06:51:34.607904-04:00.accessibility.json) |
 | [October 16 at 7:00 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-16T19:00:50.024116-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 14 at 7:05 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-14T19:05:18.175748-04:00.accessibility.json) |
 | [October 14 at 6:56 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-14T06:56:38.650407-04:00.accessibility.json) |
 | [October 13 at 7:05 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-13T19:05:37.542242-04:00.accessibility.json) |
-| [October 13 at 6:47 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-13T06:47:26.088848-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 6:54 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-18T06:54:26.770914-04:00.lighthouse.json) |
 | [October 17 at 6:54 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-17T18:54:51.086049-04:00.lighthouse.json) |
 | [October 17 at 6:51 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-17T06:51:34.607904-04:00.lighthouse.json) |
 | [October 16 at 7:01 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-16T19:00:50.024116-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 14 at 7:05 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-14T19:05:18.175748-04:00.lighthouse.json) |
 | [October 14 at 6:56 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-14T06:56:38.650407-04:00.lighthouse.json) |
 | [October 13 at 7:05 PM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-13T19:05:37.542242-04:00.lighthouse.json) |
-| [October 13 at 6:47 AM](https://archive.org/download/blufftontoday-2022/blufftontoday-2022-10-13T06:47:26.088848-04:00.lighthouse.json) |
 
 
 
