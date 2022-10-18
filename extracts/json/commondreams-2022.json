@@ -1,10 +1,5 @@
 {
-  "commondreams-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666077256,
+  "created": 1666114793,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/commondreams-2022",
@@ -16175,31 +16170,93 @@
       "sha1": "779095487189bcd16bf3ee039404f715ac9251e2"
     },
     {
+      "name": "commondreams-2022-10-18T13:37:15.445167-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666114662",
+      "size": "42582",
+      "md5": "b66faa63645d92e5f305858bd570ba3c",
+      "crc32": "eb75d58b",
+      "sha1": "6f7e5147adac181bc627761d04e1166dabf9a744",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-10-18T13:37:15.445167-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666114664",
+      "size": "31045",
+      "md5": "54af9b67cd9d65e30fdec6d9e1dce1b7",
+      "crc32": "875ed532",
+      "sha1": "15c5a43fed81034e5507087cbb626768bc09b665",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-10-18T13:37:15.445167-04:00.jpg",
+      "source": "original",
+      "mtime": "1666114660",
+      "size": "342835",
+      "md5": "42759146b70d0c25cdacfdef902206be",
+      "crc32": "65d27a75",
+      "sha1": "47d1c28063cb3faba14959694b287defd7e0f67c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "commondreams-2022-10-18T13:37:15.445167-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666114666",
+      "size": "1512",
+      "md5": "617fe0d8ef2176b116196cbae79752cf",
+      "crc32": "0dd3d3a7",
+      "sha1": "bcc2daf8e24e7e5134be696942064fc5a208c9a4",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-10-18T13:37:15.445167-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666114668",
+      "size": "25785",
+      "md5": "9658df9da063b17fb7f5babe7cc3c2cf",
+      "crc32": "309e9623",
+      "sha1": "d7266dccee865587cda7de531fe13b50336bbbe6",
+      "format": "JSON"
+    },
+    {
+      "name": "commondreams-2022-10-18T13:37:15.445167-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "commondreams-2022-10-18T13:37:15.445167-04:00.jpg",
+      "mtime": "1666114755",
+      "size": "11232",
+      "md5": "609d75d38828be0536d6448713d901ce",
+      "crc32": "b214017d",
+      "sha1": "e870fc426584571f0ba72f518a24263c31da19fa"
+    },
+    {
       "name": "commondreams-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c28230fb5560d1822cdf6ff803549c7a1508ca12",
-      "mtime": "1666072664",
-      "size": "337033",
-      "md5": "2109df789c63562bcaa73256d084b900",
-      "crc32": "2ce907f5",
-      "sha1": "6fc8ebf7b32a9f1074a853db128dbf30c9ecc312",
+      "btih": "5810d939940b5e1e283e886f3afaafe9800a5758",
+      "mtime": "1666114778",
+      "size": "338325",
+      "md5": "1c2539776a80fe09162b5e8b47d407e4",
+      "crc32": "845cea88",
+      "sha1": "484977c77ed68121694cf1c5f2d25c5cd0076fb9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "commondreams-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f775c82616a32cfb1fee17c4b5d59c7",
+      "md5": "d5c55e37dc1be4037890ed18f229be49",
       "summation": "md5"
     },
     {
       "name": "commondreams-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666072566",
-      "size": "1986560",
-      "md5": "400e5eb09ea55fb5ff834bdeb845b74e",
-      "crc32": "c2ddcd42",
-      "sha1": "e8f1c0ba084c0ea5382fcf63922758d981bfee1a",
+      "mtime": "1666114673",
+      "size": "1994752",
+      "md5": "76d0ae6a3ea1bfba08250f8bc6dfe7dd",
+      "crc32": "e0224380",
+      "sha1": "4e12e1dba6ee8520bce255f292ce6eb02f1df5c0",
       "format": "Metadata"
     },
     {
@@ -16213,9 +16270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1566,
-  "item_last_updated": 1666072664,
-  "item_size": 121075780,
+  "files_count": 1572,
+  "item_last_updated": 1666114778,
+  "item_size": 121540255,
   "metadata": {
     "identifier": "commondreams-2022",
     "collection": [
@@ -16233,7 +16290,7 @@
     "addeddate": "2022-07-17 16:00:05"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1132596056,
+  "uniq": 307126741,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1666073071,
+  "created": 1666120577,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/freethinkmedia-2022",
@@ -10620,31 +10620,93 @@
       "sha1": "521c51583786689a6caa356cde38388493c646e5"
     },
     {
+      "name": "freethinkmedia-2022-10-18T10:43:02.589553-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666114999",
+      "size": "36220",
+      "md5": "c168478593ea5ece94c75e43e064837b",
+      "crc32": "754dd440",
+      "sha1": "ecacef20584f284049eca275605b7c74a59c4ec5",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-18T10:43:02.589553-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666115000",
+      "size": "29277",
+      "md5": "1d47443257f1b9c960535332ee689cd5",
+      "crc32": "355fb17d",
+      "sha1": "309a140720f92e4a4d242b73deadc9bba1717d65",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-18T10:43:02.589553-07:00.jpg",
+      "source": "original",
+      "mtime": "1666114997",
+      "size": "221813",
+      "md5": "60035a1b1971133ec460c2299a6772f3",
+      "crc32": "97dc4e2f",
+      "sha1": "a148abb3b859902a6769bfc2beba3890be92a27d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-10-18T10:43:02.589553-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666115002",
+      "size": "1483",
+      "md5": "121afca91181aca50aed18591c6edbf9",
+      "crc32": "587dfc14",
+      "sha1": "bf4fce53764b3c3b274836dca816ee9837c970f7",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-18T10:43:02.589553-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666115004",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-18T10:43:02.589553-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-10-18T10:43:02.589553-07:00.jpg",
+      "mtime": "1666115078",
+      "size": "9803",
+      "md5": "9d881e1e765660ef0114fe7ad1a8f19b",
+      "crc32": "1a994071",
+      "sha1": "521c51583786689a6caa356cde38388493c646e5"
+    },
+    {
       "name": "freethinkmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "696ccf6c29788db56e7adc4e7fb65358c6690a96",
-      "mtime": "1666073060",
-      "size": "222807",
-      "md5": "782017118385135fbd97e884a3c065ac",
-      "crc32": "4d4ea62a",
-      "sha1": "2ecb5e6ffc5b5f131ad77a2e436ad894d3ceae62",
+      "btih": "57ecff35deeaee85c9b3f93f80b5166de3edef8f",
+      "mtime": "1666115088",
+      "size": "224108",
+      "md5": "923a16d273015cb872e81f461d6778c3",
+      "crc32": "6d14a6a3",
+      "sha1": "8dd114f1f9c45be825654b2a8610425126e778b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freethinkmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fae5a262cf98eb299b34f68c0cc2d689",
+      "md5": "6b4228121e42f76ce6b8941d921fb464",
       "summation": "md5"
     },
     {
       "name": "freethinkmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666072981",
-      "size": "1318912",
-      "md5": "34a64e9fa5b8d5f3265f17662712e0c3",
-      "crc32": "9742c691",
-      "sha1": "ffe81f868f76ed9bf2bea7ef6d8ff78fdcb17730",
+      "mtime": "1666115009",
+      "size": "1327104",
+      "md5": "79f98fbe9c8e899b2e64c3002e8eace3",
+      "crc32": "b6251eb0",
+      "sha1": "8c1fd4f7d8da90201a3087899b73ffd0a962aeca",
       "format": "Metadata"
     },
     {
@@ -10658,9 +10720,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1030,
-  "item_last_updated": 1666073060,
-  "item_size": 53628449,
+  "files_count": 1036,
+  "freethinkmedia-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666115088,
+  "item_size": 53936740,
   "metadata": {
     "identifier": "freethinkmedia-2022",
     "collection": [
@@ -10678,7 +10745,7 @@
     "addeddate": "2022-07-21 02:24:31"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1446262396,
+  "uniq": 876640106,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"
