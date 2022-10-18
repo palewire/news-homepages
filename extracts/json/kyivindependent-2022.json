@@ -1,5 +1,5 @@
 {
-  "created": 1666029658,
+  "created": 1666077479,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/24/items/kyivindependent-2022",
@@ -21014,31 +21014,93 @@
       "format": "JSON"
     },
     {
+      "name": "kyivindependent-2022-10-18T08:52:15.082949+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072339",
+      "size": "45927",
+      "md5": "4168154439a4578be91d870ce424317b",
+      "crc32": "9a5914c3",
+      "sha1": "8f5b1206f2d811ae68a0fc4b336b82d6056cf972",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T08:52:15.082949+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072341",
+      "size": "30837",
+      "md5": "a5d941302c2c2d751a010c354c539b8a",
+      "crc32": "60f1efbb",
+      "sha1": "baff49fd740f763b473e1b15a4f6659a838684af",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T08:52:15.082949+03:00.jpg",
+      "source": "original",
+      "mtime": "1666072337",
+      "size": "340161",
+      "md5": "a1c974eb1cba2cd4b44ce8e6c53bdc58",
+      "crc32": "98fb2e25",
+      "sha1": "32cc4830b062f83dccbb930be30dbdb7c02a79e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T08:52:15.082949+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072343",
+      "size": "1504",
+      "md5": "a0da5839909500397268d8e91e87575c",
+      "crc32": "7e96d6b7",
+      "sha1": "0d9c6251a7974561948b9d258a850ef27d855d69",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T08:52:15.082949+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072348",
+      "size": "15594",
+      "md5": "aa98d7b760aea7942371d437f85400e1",
+      "crc32": "86f30391",
+      "sha1": "cdf4c812bb031c543a19c32b902ce55d9bfb223a",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T08:52:15.082949+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivindependent-2022-10-18T08:52:15.082949+03:00.jpg",
+      "mtime": "1666072436",
+      "size": "10005",
+      "md5": "ec7e37bb01ff20526d7289155162c140",
+      "crc32": "761d1398",
+      "sha1": "90167ef948177d5ca9f579e7c3329eb1ceda5154"
+    },
+    {
       "name": "kyivindependent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93640947a10268fd093c0ee488eb16023dcff2b6",
-      "mtime": "1666029585",
-      "size": "437987",
-      "md5": "6f6789ab04cfb5fd936e07f1d3e030b9",
-      "crc32": "e990522e",
-      "sha1": "f90cb3ebf5f650122d6ae4bee24e629dfebd79a1",
+      "btih": "4abb0e033b2dc5b9d98cad4d23b6a0426dd74c67",
+      "mtime": "1666072537",
+      "size": "439297",
+      "md5": "16e88ff333b972d8249d3cb96375d93e",
+      "crc32": "bfb6b9ff",
+      "sha1": "095fd1bec3d015319c09276c1c1fcdf2d6d9bb41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivindependent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e399adbb413935baf1ab3ad72c39815",
+      "md5": "5bdb43cada6934dd3974d29e446476c8",
       "summation": "md5"
     },
     {
       "name": "kyivindependent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666029522",
-      "size": "2445312",
-      "md5": "d9cec9496532af8998b94fd9e67c0cd2",
-      "crc32": "e97adeed",
-      "sha1": "feb81e763209cb7ed8595eb16f52cac4d47064c0",
+      "mtime": "1666072353",
+      "size": "2449408",
+      "md5": "de35ce69a6381090ba923b7ed8b259e4",
+      "crc32": "234fb7c1",
+      "sha1": "5c8865ef1475c3986dd9ca16bac62efdc93ae2e5",
       "format": "Metadata"
     },
     {
@@ -21052,9 +21114,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2018,
-  "item_last_updated": 1666029585,
-  "item_size": 140814579,
+  "files_count": 2024,
+  "item_last_updated": 1666072537,
+  "item_size": 141264013,
   "metadata": {
     "identifier": "kyivindependent-2022",
     "collection": [
@@ -21071,10 +21133,10 @@
     "publicdate": "2022-03-23 02:08:42",
     "addeddate": "2022-03-23 02:08:42"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1015202021,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1838224559,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

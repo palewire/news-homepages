@@ -1,5 +1,5 @@
 {
-  "created": 1666030056,
+  "created": 1666077493,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/6/items/lajornadaonline-2022",
@@ -7768,31 +7768,93 @@
       "sha1": "4c2eebffd0049e75ee6eb2ec0c879cdaf012f998"
     },
     {
+      "name": "lajornadaonline-2022-10-18T00:52:14.377477-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072340",
+      "size": "4505",
+      "md5": "f60b2b3b986b549aa3cb48b06902d9d9",
+      "crc32": "890b9053",
+      "sha1": "c09994fe0ad91584f7b2a20906ccbe7b1f4c18ef",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-18T00:52:14.377477-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072342",
+      "size": "8564",
+      "md5": "2523ee4b09a08d2178091bc8c8e87509",
+      "crc32": "c885ebc6",
+      "sha1": "6cb2c6bcc856fe062e617c84b1de33a35d0823df",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-18T00:52:14.377477-05:00.jpg",
+      "source": "original",
+      "mtime": "1666072338",
+      "size": "167400",
+      "md5": "2b5f2b305c3298aa21d0dd60ac32a3e2",
+      "crc32": "41186fee",
+      "sha1": "6ee2e0bbf3f1aa5cc8613a5035c67cd02c900941",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lajornadaonline-2022-10-18T00:52:14.377477-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072344",
+      "size": "1494",
+      "md5": "289666d2de0252be3241971d79e136dc",
+      "crc32": "8e741d1c",
+      "sha1": "9ffb2d7128d61bbf90faf48452145212d4ed2964",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-18T00:52:14.377477-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072348",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lajornadaonline-2022-10-18T00:52:14.377477-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lajornadaonline-2022-10-18T00:52:14.377477-05:00.jpg",
+      "mtime": "1666072417",
+      "size": "8648",
+      "md5": "d5de185e45c4f4e7a921f17493b8f7fe",
+      "crc32": "d9224d24",
+      "sha1": "5c8e04c40efb5cbf5e576255e613cd87dd36a005"
+    },
+    {
       "name": "lajornadaonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "151d55c71c99a6c7627341a6f1f932e8dc512506",
-      "mtime": "1666029615",
-      "size": "163524",
-      "md5": "27faedd649aa4ec43816b78a88e857ff",
-      "crc32": "dda16db0",
-      "sha1": "3d8a0227ac3adf4a2e37e9f4b149252fa7591f89",
+      "btih": "d0b1c77664f17027d5b35bc7441fe2bb3b042d75",
+      "mtime": "1666072433",
+      "size": "164809",
+      "md5": "f39354da38c916e8a56d275e4318a741",
+      "crc32": "1d25efc9",
+      "sha1": "ac4f6cd46304aa09942dc9b0c3e46e0bb2c77a8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lajornadaonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5851395fe97db75c8c32d26a5a086d68",
+      "md5": "76de8d27bfe02ad10012e4f1f4f8c99a",
       "summation": "md5"
     },
     {
       "name": "lajornadaonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666029497",
-      "size": "974848",
-      "md5": "133c520cb7c54b799e1911ed039a26b3",
-      "crc32": "eebc5707",
-      "sha1": "37786b1abc69754d3b1936c0a9227275a2135107",
+      "mtime": "1666072357",
+      "size": "987136",
+      "md5": "2bbdd05646dccb189c0b3664d2dbc232",
+      "crc32": "580d5819",
+      "sha1": "17b11686cd2066a80125ba610b2070ba0547e198",
       "format": "Metadata"
     },
     {
@@ -7806,9 +7868,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 755,
-  "item_last_updated": 1666029615,
-  "item_size": 27442722,
+  "files_count": 761,
+  "item_last_updated": 1666072433,
+  "item_size": 27647108,
+  "lajornadaonline-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lajornadaonline-2022",
     "collection": [
@@ -7825,10 +7892,10 @@
     "publicdate": "2022-08-16 17:11:32",
     "addeddate": "2022-08-16 17:11:32"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 1980080867,
+  "server": "ia801408.us.archive.org",
+  "uniq": 454491590,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

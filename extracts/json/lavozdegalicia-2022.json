@@ -1,5 +1,5 @@
 {
-  "created": 1666029794,
+  "created": 1666072481,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/lavozdegalicia-2022",
@@ -9726,31 +9726,93 @@
       "sha1": "6daa1c22a16bcca18bfd1f1872eebffadaafe3c9"
     },
     {
+      "name": "lavozdegalicia-2022-10-18T07:52:25.683570+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072349",
+      "size": "71317",
+      "md5": "b069a2aa933da54bbcc475099b270c45",
+      "crc32": "4554b4e6",
+      "sha1": "575e1501bb37d2f02ecfb27c3273c064378b2598",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-10-18T07:52:25.683570+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072351",
+      "size": "79041",
+      "md5": "f1e3d79147d9d13004b37ce7f0a1a7b5",
+      "crc32": "6b202179",
+      "sha1": "edf55128ffd039a567b8bc4250140931970c25c0",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-10-18T07:52:25.683570+02:00.jpg",
+      "source": "original",
+      "mtime": "1666072348",
+      "size": "294240",
+      "md5": "2e5684063073c5fc7c49bac614943996",
+      "crc32": "4b8144ce",
+      "sha1": "8b9377b6bd63b382dcc2d78bd965d958e0171705",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavozdegalicia-2022-10-18T07:52:25.683570+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072352",
+      "size": "1522",
+      "md5": "32f54dbd68bc74c688582f1ab42b6b12",
+      "crc32": "2e94e93f",
+      "sha1": "ac6aa5aab0b34d10bef6cc7b3bc21ef3005ee1ca",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-10-18T07:52:25.683570+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072357",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-10-18T07:52:25.683570+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavozdegalicia-2022-10-18T07:52:25.683570+02:00.jpg",
+      "mtime": "1666072442",
+      "size": "8654",
+      "md5": "0faba7c86a02321dd55a0a63b6dbc5da",
+      "crc32": "bd479d5d",
+      "sha1": "5d5cb5d84b4b75c54bfc39ee33a43dc64731f838"
+    },
+    {
       "name": "lavozdegalicia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79ccb88b84f7304c3d5d6e31371141e98f1025f4",
-      "mtime": "1666029770",
-      "size": "204975",
-      "md5": "d85feda998f03bf32d1fdb0b2881e3b2",
-      "crc32": "523ed958",
-      "sha1": "0852981a995054d6b13e58d183d8cafce10d4404",
+      "btih": "481b0366dae5f7d586f7dbb2b29113abf472e1f7",
+      "mtime": "1666072454",
+      "size": "206276",
+      "md5": "463b5c16fa7bbd3d57e96b8ca852db1c",
+      "crc32": "2241b449",
+      "sha1": "e225ee25a2ad0fc1fa8fdaeece24c170674574e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavozdegalicia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62cfdabf08263ad4fb2fc78073ec0e3a",
+      "md5": "022363d38b81e21c176806f3656f528b",
       "summation": "md5"
     },
     {
       "name": "lavozdegalicia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666029672",
-      "size": "1212416",
-      "md5": "f75500efa14bc7f32138c4fa8dec67c5",
-      "crc32": "159f6967",
-      "sha1": "d4b6a515963d9e1fe24f3624e6b647a972fb8b76",
+      "mtime": "1666072361",
+      "size": "1224704",
+      "md5": "c7b6db7a876890d0f19113ac0800a671",
+      "crc32": "c9e319c4",
+      "sha1": "6d8da504c1b03d5a5f26bf05e877bb89265457ad",
       "format": "Metadata"
     },
     {
@@ -9764,9 +9826,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 944,
-  "item_last_updated": 1666029770,
-  "item_size": 69337854,
+  "files_count": 950,
+  "item_last_updated": 1666072454,
+  "item_size": 69806419,
   "metadata": {
     "identifier": "lavozdegalicia-2022",
     "collection": [
@@ -9784,7 +9846,7 @@
     "addeddate": "2022-07-28 18:53:53"
   },
   "server": "ia601405.us.archive.org",
-  "uniq": 365861067,
+  "uniq": 1340062817,
   "workable_servers": [
     "ia601405.us.archive.org",
     "ia801405.us.archive.org"

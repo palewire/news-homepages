@@ -1,5 +1,5 @@
 {
-  "created": 1666035528,
+  "created": 1666072540,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/kcur-2022",
@@ -11558,31 +11558,93 @@
       "sha1": "b37693c787b87da096d15cfa24f4baa7e9e7e53b"
     },
     {
+      "name": "kcur-2022-10-18T00:53:30.882794-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072413",
+      "size": "21624",
+      "md5": "02bcf252011bb5ba7501fa89d55edfef",
+      "crc32": "1ed51156",
+      "sha1": "fd8245d62b2602161836e42c38c81334d69c4d0c",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-10-18T00:53:30.882794-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072415",
+      "size": "42153",
+      "md5": "d57ee38595934aa4df0a425dcefc24df",
+      "crc32": "32c5182a",
+      "sha1": "5385247cb8b0e84d50e521dd7e08c7f9376e6425",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-10-18T00:53:30.882794-05:00.jpg",
+      "source": "original",
+      "mtime": "1666072411",
+      "size": "395588",
+      "md5": "babff1d45aa6c0ad3b6f4f399fa816f1",
+      "crc32": "d7b9c26e",
+      "sha1": "d5904f049655f807ed3bd3ab5c91e86b09b07745",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcur-2022-10-18T00:53:30.882794-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072417",
+      "size": "1441",
+      "md5": "df587119d038c13d2669266f2c1570fb",
+      "crc32": "0705031f",
+      "sha1": "d6ed9b0b29cd1395799726bac863472b9a76af8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-10-18T00:53:30.882794-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072419",
+      "size": "23890",
+      "md5": "a327e63e2ddc12aa711c77e39f21e3b1",
+      "crc32": "4a52b82f",
+      "sha1": "5ae26232835f3133d5b3856822f864ca11de6dee",
+      "format": "JSON"
+    },
+    {
+      "name": "kcur-2022-10-18T00:53:30.882794-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcur-2022-10-18T00:53:30.882794-05:00.jpg",
+      "mtime": "1666072500",
+      "size": "11719",
+      "md5": "5e5e1827da5e5750a5ab6f3a3d5a3a8c",
+      "crc32": "d59de56a",
+      "sha1": "97d4afc30a6cb7eb3ca187927488e7c085b6bc72"
+    },
+    {
       "name": "kcur-2022_archive.torrent",
       "source": "metadata",
-      "btih": "359d4a8b018959507edbb8932da4d9eb83e67011",
-      "mtime": "1666029611",
-      "size": "231681",
-      "md5": "a6fd1361a069c94e39c5dd388b18d9d7",
-      "crc32": "f2fd38d9",
-      "sha1": "15ad6e3ffaebab13c4a000bbce29120886f4a442",
+      "btih": "8b0a6b48fd05fc1d822d480c797addb2159588ea",
+      "mtime": "1666072512",
+      "size": "232925",
+      "md5": "fe9da079aba55aede019d2f6ff12c48c",
+      "crc32": "1dd511af",
+      "sha1": "0147c7d9e4adc7ae3456a365a754b4e0c72c4c56",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcur-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6cb7d65c5f195326417b45f8c4dc9e7",
+      "md5": "2a6d9a0162487ad3389274b9b555588b",
       "summation": "md5"
     },
     {
       "name": "kcur-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666029503",
-      "size": "1400832",
-      "md5": "5ecbb71d5c59f91f86f947c75667c354",
-      "crc32": "dc306090",
-      "sha1": "b2e117879b1d0c7e92e26196a74b7755a8e414ba",
+      "mtime": "1666072424",
+      "size": "1404928",
+      "md5": "06c656a578de20a33ddfc3628e6575f5",
+      "crc32": "5ac3f043",
+      "sha1": "5fd509469b03fca85a57a936f8e4586f1cf2df6d",
       "format": "Metadata"
     },
     {
@@ -11596,14 +11658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1119,
-  "item_last_updated": 1666029611,
-  "item_size": 78680072,
-  "kcur-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 1125,
+  "item_last_updated": 1666072512,
+  "item_size": 79181827,
   "metadata": {
     "identifier": "kcur-2022",
     "collection": [
@@ -11621,7 +11678,7 @@
     "addeddate": "2022-07-09 03:59:38"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 1849195230,
+  "uniq": 213491095,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

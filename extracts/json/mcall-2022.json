@@ -1,5 +1,5 @@
 {
-  "created": 1666035813,
+  "created": 1666072594,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/23/items/mcall-2022",
@@ -13248,31 +13248,93 @@
       "sha1": "2d339ee2f314d6a16e51668a22ad47ff69db0a82"
     },
     {
+      "name": "mcall-2022-10-18T01:53:43.579912-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072434",
+      "size": "31326",
+      "md5": "295fda510372b4c7561dfd29f5dffab5",
+      "crc32": "96d35d39",
+      "sha1": "510fa6cd79ef8b90ac45e4840b1cf1309f36b7de",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-10-18T01:53:43.579912-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072436",
+      "size": "35645",
+      "md5": "1a43ad19ee49a6a01be2d84d17f0d9d8",
+      "crc32": "afa10ad4",
+      "sha1": "9a26710cf177fa7fb438f9b8375c477bb71499db",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-10-18T01:53:43.579912-04:00.jpg",
+      "source": "original",
+      "mtime": "1666072432",
+      "size": "253623",
+      "md5": "4ba5786751650ae599fbc5485fe3cdcb",
+      "crc32": "b0ca5c42",
+      "sha1": "52060e1277633828596984c5c05a88ccb4724b75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcall-2022-10-18T01:53:43.579912-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072438",
+      "size": "1450",
+      "md5": "e6aa353bfe5a77cf5f6dea7d8bf62643",
+      "crc32": "63fc07b3",
+      "sha1": "fddcb04e43d47db4ce5c702ed479bdc04c5ebf63",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-10-18T01:53:43.579912-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072440",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mcall-2022-10-18T01:53:43.579912-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcall-2022-10-18T01:53:43.579912-04:00.jpg",
+      "mtime": "1666072540",
+      "size": "8413",
+      "md5": "3cbee475ddc56a2e7b5a65b2f2db51d3",
+      "crc32": "53a83bc2",
+      "sha1": "8ae3216566006eb4eba9890b8c9ad63ad95b4fc0"
+    },
+    {
       "name": "mcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ee44533d9633e7e25b34b226fff185abc38588e",
-      "mtime": "1666029893",
-      "size": "266386",
-      "md5": "c65029e698dfcabcded4972a96a4bb1c",
-      "crc32": "d667694e",
-      "sha1": "08c8d9011cba130e61c345e7513ed05164b1a645",
+      "btih": "a4f3fbdb62b89bb88a0db90cd6bddac264dd619f",
+      "mtime": "1666072576",
+      "size": "267633",
+      "md5": "325d95dc66bd30f8ff0d935173aa92b3",
+      "crc32": "8549dca6",
+      "sha1": "7b1f003b3386a3f6fa5fafa80484e63b0bdae895",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e2c1e4f1694b111acf0bdb117ba6f6a2",
+      "md5": "16afbc911c57b07f2ef96b4dfbbc7820",
       "summation": "md5"
     },
     {
       "name": "mcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666029711",
-      "size": "1581056",
-      "md5": "fd8a580bdb7f1b2c0b3699dc131f55ed",
-      "crc32": "b2a68b72",
-      "sha1": "4d4fd3dba58cb6a91d0cc00faf302d41a18e5279",
+      "mtime": "1666072446",
+      "size": "1589248",
+      "md5": "563199b0cf3dd178f43dafd4f1bbeda6",
+      "crc32": "19d5a706",
+      "sha1": "33f9a5389a66e4825443af1442d92d0e8e92d305",
       "format": "Metadata"
     },
     {
@@ -13286,17 +13348,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1280,
-  "item_last_updated": 1666029893,
-  "item_size": 103013252,
-  "mcall-2022": {
-    "url": "https://www.mcall.com/",
-    "job_id": "spn2-4780ce70c6e60f245176fa492fb3bae27b8e7df5",
-    "resources": [],
-    "status": "error",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 790.",
-    "status_ext": "WorkerLostError"
-  },
+  "files_count": 1286,
+  "item_last_updated": 1666072576,
+  "item_size": 103353350,
   "metadata": {
     "identifier": "mcall-2022",
     "collection": [
@@ -13313,10 +13367,10 @@
     "publicdate": "2022-06-24 22:58:06",
     "addeddate": "2022-06-24 22:58:06"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 15461262,
+  "server": "ia601508.us.archive.org",
+  "uniq": 1651467540,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }
