@@ -1,5 +1,5 @@
 {
-  "created": 1666056270,
+  "created": 1666098059,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/ilanganewspaper-2022",
@@ -7124,31 +7124,93 @@
       "sha1": "d8ec6d8af12fbd8a982246f22ff84f55c921dd83"
     },
     {
+      "name": "ilanganewspaper-2022-10-18T14:57:43.215217+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666097868",
+      "size": "18534",
+      "md5": "cf8a7e44652d7343868632189502c1e3",
+      "crc32": "c2748ec4",
+      "sha1": "f6c9e81c60d72f9eeda34bcb573b7f07974eee14",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-18T14:57:43.215217+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666097870",
+      "size": "11086",
+      "md5": "b2d09fe3fc04168cb224fe8a1b2e7a57",
+      "crc32": "831dbd3b",
+      "sha1": "72b023ccf475526b72f074fb4994e478edc80b19",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-18T14:57:43.215217+02:00.jpg",
+      "source": "original",
+      "mtime": "1666097866",
+      "size": "326548",
+      "md5": "17b0bc634a6a413248ba15e92234c5f8",
+      "crc32": "8e7f780e",
+      "sha1": "d57d30d00bdae46ae0af132bd08ed2c5ed229181",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-18T14:57:43.215217+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666097871",
+      "size": "1476",
+      "md5": "dbf4c98ce6d39505b4ddcc8522059861",
+      "crc32": "2787b027",
+      "sha1": "ab43f1d1a784f37b88797ea0e64a824f39c3b03c",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-18T14:57:43.215217+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666097873",
+      "size": "205",
+      "md5": "8af2d689e4b3db624cd1c9ea1be9cf7f",
+      "crc32": "96ee9969",
+      "sha1": "223311d6b7f9f5667fad4acb75250a77ab5e15d1",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-18T14:57:43.215217+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-18T14:57:43.215217+02:00.jpg",
+      "mtime": "1666097944",
+      "size": "11266",
+      "md5": "c41658de9428eb41df4e0a7a8cfad03e",
+      "crc32": "dd80e6b4",
+      "sha1": "1d23ee8486655609c08c47c47bd0ca1240aba9a7"
+    },
+    {
       "name": "ilanganewspaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e87b6ce405565c4df10d911a5af1577bc3e5c3fd",
-      "mtime": "1666056258",
-      "size": "150973",
-      "md5": "a47514ce34096d52b4a23f8d7611c653",
-      "crc32": "cf89b84c",
-      "sha1": "7c3814bfef69ba2a67f695057cd1ee4fbf817ddb",
+      "btih": "30a4044677c15038550a20587d84b9f87572a5d9",
+      "mtime": "1666097954",
+      "size": "152261",
+      "md5": "5c947bd20e49a1741fd8ed972f2d84aa",
+      "crc32": "3776d4b3",
+      "sha1": "a110c152bf38893d479ead7186c772f7acb63655",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ilanganewspaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d01692d89143122e617c4c18d9521060",
+      "md5": "bb484b209808f2b4dc37d4422bbe1a42",
       "summation": "md5"
     },
     {
       "name": "ilanganewspaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666056182",
-      "size": "901120",
-      "md5": "2ed582f3679738b976c97b73dc16c08f",
-      "crc32": "ee637500",
-      "sha1": "457cd4f227bff85dfbb30fd6578b49106d571679",
+      "mtime": "1666097878",
+      "size": "909312",
+      "md5": "8fe13f72c65fc79e099c54440a773598",
+      "crc32": "65a931db",
+      "sha1": "42482e885014a2a6e5b0d3793e9bd17f63f567ed",
       "format": "Metadata"
     },
     {
@@ -7162,9 +7224,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 693,
-  "item_last_updated": 1666056258,
-  "item_size": 39589821,
+  "files_count": 699,
+  "item_last_updated": 1666097954,
+  "item_size": 39968416,
   "metadata": {
     "identifier": "ilanganewspaper-2022",
     "collection": [
@@ -7182,7 +7244,7 @@
     "addeddate": "2022-08-22 22:03:17"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 644399786,
+  "uniq": 1189921165,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"

@@ -1,6 +1,6 @@
 {
-  "conflict": 1666082106,
-  "created": 1666082106,
+  "conflict": 1666098743,
+  "created": 1666082236,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/5/items/le_figaro-2022",
@@ -24077,24 +24077,29 @@
       "name": "le_figaro-2022-10-18T10:31:47.586135+02:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "le_figaro-2022-10-18T10:31:47.586135+02:00.jpg"
+      "original": "le_figaro-2022-10-18T10:31:47.586135+02:00.jpg",
+      "mtime": "1666082101",
+      "size": "9824",
+      "md5": "30e055ab6b257551f6d8c1e1d40a8bfe",
+      "crc32": "0dbcc2b1",
+      "sha1": "6b6adde96996cffe8e9825880aad02f9c8b2c8de"
     },
     {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a2b1fffd44253935d28729fe5a40207192e371f5",
-      "mtime": "1666082051",
-      "size": "493879",
-      "md5": "fe14fa29753080aa528a390d2fd2b2b3",
-      "crc32": "07363e98",
-      "sha1": "96c54ab97f570a9eed63c028eec2500432229975",
+      "btih": "8895122a4f78944137a85fe752585ea1e5550ba6",
+      "mtime": "1666082207",
+      "size": "494084",
+      "md5": "bed5f1eb0010a4d21b17ca2dcb54ee8c",
+      "crc32": "847fbea8",
+      "sha1": "6f05d14604e57b440b41b450593f41baef1584b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "37d3124206fbc50eb3af572b6d283d69",
+      "md5": "6f496c7424fe63690948f1e957462bfa",
       "summation": "md5"
     },
     {
@@ -24119,8 +24124,8 @@
     }
   ],
   "files_count": 2320,
-  "item_last_updated": 1666082051,
-  "item_size": 240727170,
+  "item_last_updated": 1666082207,
+  "item_size": 240737199,
   "metadata": {
     "identifier": "le_figaro-2022",
     "collection": [
@@ -24138,20 +24143,52 @@
     "addeddate": "2022-04-09 13:41:47"
   },
   "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
+  "server": "ia802501.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3444504090,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3444710842,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3444710881,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3444710923,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3444710986,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3444711033,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1239241051,
+  "uniq": 1846061467,
   "workable_servers": [
-    "ia902501.us.archive.org"
+    "ia802501.us.archive.org"
   ]
 }
