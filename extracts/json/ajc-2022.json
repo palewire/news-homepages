@@ -1,5 +1,6 @@
 {
-  "created": 1666146649,
+  "conflict": 1666156753,
+  "created": 1666156753,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/ajc-2022",
@@ -27171,6 +27172,17 @@
       "format": "JSON"
     },
     {
+      "name": "ajc-2022-10-18T22:27:59.298397-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ajc-2022-10-18T22:27:59.298397-04:00.jpg",
+      "mtime": "1666156721",
+      "size": "8952",
+      "md5": "18941d48b64c78fe343ce42a086b03f3",
+      "crc32": "5ccdc57b",
+      "sha1": "f5759b2e6c5ae51e4dcfa3abdcc9e187fce9c6bf"
+    },
+    {
       "name": "ajc-2022_archive.torrent",
       "source": "metadata",
       "btih": "a0b59e562475932f64781a4e4b04df200f6bd7e0",
@@ -27185,7 +27197,7 @@
       "name": "ajc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "25793a874fc67906a3e839fb8aca4355",
+      "md5": "292cac9886dfe8183f0440c066d692cf",
       "summation": "md5"
     },
     {
@@ -27209,9 +27221,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2629,
-  "item_last_updated": 1666146632,
-  "item_size": 192630149,
+  "files_count": 2630,
+  "item_last_updated": 1666156721,
+  "item_size": 192639101,
   "metadata": {
     "identifier": "ajc-2022",
     "collection": [
@@ -27233,15 +27245,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445207753,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3445285568,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445317080,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1751095641,
+  "uniq": 1982150831,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

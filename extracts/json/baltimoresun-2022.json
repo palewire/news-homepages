@@ -1,5 +1,6 @@
 {
-  "created": 1666135125,
+  "conflict": 1666156377,
+  "created": 1666156377,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/13/items/baltimoresun-2022",
@@ -35497,6 +35498,12 @@
       "format": "JSON"
     },
     {
+      "name": "baltimoresun-2022-10-18T19:05:36.430056-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimoresun-2022-10-18T19:05:36.430056-04:00.jpg"
+    },
+    {
       "name": "baltimoresun-2022_archive.torrent",
       "source": "metadata",
       "btih": "9c0ddbeb038bf2250e8cc085862af092a33ca7b0",
@@ -35535,7 +35542,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3421,
+  "files_count": 3422,
   "item_last_updated": 1666135059,
   "item_size": 249988632,
   "metadata": {
@@ -35562,12 +35569,52 @@
       "task_id": 3445107939,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445285823,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445285853,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445285875,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445285901,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445285917,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1294549411,
+  "uniq": 1222979821,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
