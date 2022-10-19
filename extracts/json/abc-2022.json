@@ -4,7 +4,7 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "created": 1666138410,
+  "created": 1666177301,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/15/items/abc-2022",
@@ -39528,21 +39528,32 @@
       "format": "JSON"
     },
     {
+      "name": "abc-2022-10-18T19:08:10.435503-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc-2022-10-18T19:08:10.435503-04:00.jpg",
+      "mtime": "1666160133",
+      "size": "10643",
+      "md5": "ec3a87272e86b9b6d0a5302ef29e85fb",
+      "crc32": "4f6f70fd",
+      "sha1": "269e7529b10e1409fefb6a3567034a8301be1653"
+    },
+    {
       "name": "abc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e02ab49d3eff13da945848f3ddc5973a4256a1f3",
-      "mtime": "1666134638",
-      "size": "782157",
-      "md5": "497736cb21007653340e838a502b895a",
-      "crc32": "321f14f3",
-      "sha1": "b8824f6db4cd219a6c34080b1f72f2e6e2aaf1b3",
+      "btih": "e0929ebf226b15676988d03bacb70f470fbb0892",
+      "mtime": "1666161085",
+      "size": "782357",
+      "md5": "c6634d26e377ace888aa21c5464044a1",
+      "crc32": "b0ded0cc",
+      "sha1": "833faed57b3ad96ff382ba58fea02df018a42a4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0119a28823bbdf7630021ed43ddc83b6",
+      "md5": "848939eefb0a6b473cf03f8d218f4d65",
       "summation": "md5"
     },
     {
@@ -39566,9 +39577,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3796,
-  "item_last_updated": 1666134638,
-  "item_size": 326925261,
+  "files_count": 3797,
+  "item_last_updated": 1666161085,
+  "item_size": 326936104,
   "metadata": {
     "identifier": "abc-2022",
     "collection": [
@@ -39585,21 +39596,10 @@
     "publicdate": "2022-03-24 23:10:54",
     "addeddate": "2022-03-24 23:10:54"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445103482,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1989086555,
+  "uniq": 580517963,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

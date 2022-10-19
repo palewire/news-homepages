@@ -1,10 +1,5 @@
 {
-  "3newsnowomaha-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666138371,
+  "created": 1666176827,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/34/items/3newsnowomaha-2022",
@@ -9597,31 +9592,93 @@
       "format": "JSON"
     },
     {
+      "name": "3newsnowomaha-2022-10-18T18:07:45.871530-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "3newsnowomaha-2022-10-18T18:07:45.871530-05:00.jpg",
+      "mtime": "1666159993",
+      "size": "11421",
+      "md5": "2505859131d67fb0573afd247c4bcc68",
+      "crc32": "61d17877",
+      "sha1": "67691890bbbdb73f71ee347eb92070000ea430b8"
+    },
+    {
+      "name": "3newsnowomaha-2022-10-19T05:51:50.980589-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176731",
+      "size": "20563",
+      "md5": "50ca655f69b54629f7ea140e0df382fd",
+      "crc32": "effa081f",
+      "sha1": "bb240f7e21d66d3ff10404ae2f0339d1b2a36f06",
+      "format": "JSON"
+    },
+    {
+      "name": "3newsnowomaha-2022-10-19T05:51:50.980589-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176733",
+      "size": "61229",
+      "md5": "3a63a6ebf70cf4eafc7a2e4a6a43a1be",
+      "crc32": "7d93edad",
+      "sha1": "3093c1b00f04d6f378567b31097b1a8f9f37867a",
+      "format": "JSON"
+    },
+    {
+      "name": "3newsnowomaha-2022-10-19T05:51:50.980589-05:00.jpg",
+      "source": "original",
+      "mtime": "1666176730",
+      "size": "311678",
+      "md5": "d325fbb42c3ee96ca1d6c68fbd038178",
+      "crc32": "f8d520bd",
+      "sha1": "c62bb2fb39357d4025670a1af0e0b953e7ae0aec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "3newsnowomaha-2022-10-19T05:51:50.980589-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176735",
+      "size": "1477",
+      "md5": "d4d0ceee6a31be3b9b477e3d309bf631",
+      "crc32": "e6f7b731",
+      "sha1": "68d9cb40e1690b6cd568cd02e2b6b10665ed1667",
+      "format": "JSON"
+    },
+    {
+      "name": "3newsnowomaha-2022-10-19T05:51:50.980589-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176737",
+      "size": "53209",
+      "md5": "d30632a6479153720f8e84550648c7eb",
+      "crc32": "53099ace",
+      "sha1": "579dbd7df30f478daf288f68220061e9fb3b7a6c",
+      "format": "JSON"
+    },
+    {
       "name": "3newsnowomaha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db4cb1659297fb146c22209df093c677a0cf6789",
-      "mtime": "1666134530",
-      "size": "201633",
-      "md5": "0952a6b459af2b1c73719a5813639855",
-      "crc32": "3c3c7a0f",
-      "sha1": "54dd0078a123b75a2247b92b46b168b83325e1e0",
+      "btih": "e32ff9d5938150dfdc174831a6ab2158c0e8d1bc",
+      "mtime": "1666176808",
+      "size": "202931",
+      "md5": "0e8ecc0c5b9562c7e49149f2fa278afa",
+      "crc32": "da37062b",
+      "sha1": "126a79b2ff3cc4611fbe5d02d97d7a5714d1ed14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "3newsnowomaha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b88a903dfdb2d119e86f89aa610c9980",
+      "md5": "4a20770fb25435f0db49428155c10cf3",
       "summation": "md5"
     },
     {
       "name": "3newsnowomaha-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134485",
-      "size": "1187840",
-      "md5": "a115f0b7151defb1619852e16aa4d86e",
-      "crc32": "ff18e509",
-      "sha1": "2c4e268805d1589314a7a828864333f2a7cb30c7",
+      "mtime": "1666176749",
+      "size": "1191936",
+      "md5": "6329a41d926f4568c71e31b4342ca1b8",
+      "crc32": "84b7d38b",
+      "sha1": "b5c6a6e5735aa654699ad6890b3dd4e3610e32e9",
       "format": "Metadata"
     },
     {
@@ -9646,9 +9703,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 931,
-  "item_last_updated": 1666134530,
-  "item_size": 77072013,
+  "files_count": 937,
+  "item_last_updated": 1666176808,
+  "item_size": 77536984,
   "metadata": {
     "identifier": "3newsnowomaha-2022",
     "collection": [
@@ -9670,7 +9727,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445102622,
+      "task_id": 3445554905,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9678,7 +9735,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 792875510,
+  "uniq": 1835770199,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

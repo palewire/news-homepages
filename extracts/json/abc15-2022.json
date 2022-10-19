@@ -1,10 +1,5 @@
 {
-  "abc15-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666138418,
+  "created": 1666176846,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/17/items/abc15-2022",
@@ -10164,31 +10159,93 @@
       "format": "JSON"
     },
     {
+      "name": "abc15-2022-10-18T16:07:39.970803-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc15-2022-10-18T16:07:39.970803-07:00.jpg",
+      "mtime": "1666159997",
+      "size": "10720",
+      "md5": "4d2b301e6a0ed075cb8a10e4e23fec52",
+      "crc32": "7757c4f0",
+      "sha1": "cbda4c4cd90dffd9c55af3d56364c48680108767"
+    },
+    {
+      "name": "abc15-2022-10-19T03:52:21.856381-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176770",
+      "size": "21634",
+      "md5": "f5592f55fdf8e6f13a0a822adeacabae",
+      "crc32": "a2ac9b66",
+      "sha1": "61d6c8feb0ec2a63d1c4928ad36a49b62827541f",
+      "format": "JSON"
+    },
+    {
+      "name": "abc15-2022-10-19T03:52:21.856381-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176772",
+      "size": "59442",
+      "md5": "a70903aaaca70232e66d3c2e5ca18ced",
+      "crc32": "0f5e8250",
+      "sha1": "33a5f01566ffb99ffeece6b94572b3b706d44b87",
+      "format": "JSON"
+    },
+    {
+      "name": "abc15-2022-10-19T03:52:21.856381-07:00.jpg",
+      "source": "original",
+      "mtime": "1666176769",
+      "size": "279515",
+      "md5": "849b811539130904fd8a81b586f86652",
+      "crc32": "28ef1916",
+      "sha1": "7fe22193efc0dad53fcc5ff2306d1476637e35d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc15-2022-10-19T03:52:21.856381-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176773",
+      "size": "1450",
+      "md5": "f81e9d73d129a06ed72c23bbbf2d2919",
+      "crc32": "190bf40f",
+      "sha1": "060c4549eb62d079d415036aac94c1476314c56b",
+      "format": "JSON"
+    },
+    {
+      "name": "abc15-2022-10-19T03:52:21.856381-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176775",
+      "size": "67179",
+      "md5": "f4d3c2922bb4eb81b7b2af9031755462",
+      "crc32": "b90ae826",
+      "sha1": "8ce98d21eb3efa8fc9b37e8f40fbaf4ae8924105",
+      "format": "JSON"
+    },
+    {
       "name": "abc15-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5649da10b440a579532f54163b8a12c8e35279b",
-      "mtime": "1666134535",
-      "size": "205161",
-      "md5": "59a103dd8e010d4b79b802ddef019746",
-      "crc32": "6dc8a9da",
-      "sha1": "ab3d22e0f715fecb43791afbd17ab1c050a6b6ad",
+      "btih": "59b70578d880784cb1b81a67301b388e4f4ac0a7",
+      "mtime": "1666176840",
+      "size": "206411",
+      "md5": "c4e2a64dc64a7bbef560ed7733f20429",
+      "crc32": "f797a0dd",
+      "sha1": "c93df18217adbcad4a995fe0d5f50f4ba58b7c4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc15-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "098a9692fc0df241da38843efbe3dd4e",
+      "md5": "e7c8032ef040953fceb9d58880c340ef",
       "summation": "md5"
     },
     {
       "name": "abc15-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134490",
-      "size": "1241088",
-      "md5": "0cebba942fb98029260656de22bbfdd7",
-      "crc32": "69588489",
-      "sha1": "ac4cf892ee43aae4f1a1a0365fcf7ad88d4466f3",
+      "mtime": "1666176785",
+      "size": "1249280",
+      "md5": "b34ff1d5961a75b2439e68f80a7b89ac",
+      "crc32": "322fe5db",
+      "sha1": "d7cd50fe4b167aa43ae81c2f33854fa33a595026",
       "format": "Metadata"
     },
     {
@@ -10202,9 +10259,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 985,
-  "item_last_updated": 1666134535,
-  "item_size": 74917019,
+  "files_count": 991,
+  "item_last_updated": 1666176840,
+  "item_size": 75366401,
   "metadata": {
     "identifier": "abc15-2022",
     "collection": [
@@ -10226,7 +10283,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445102675,
+      "task_id": 3445555062,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10234,7 +10291,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 759936003,
+  "uniq": 1151347640,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

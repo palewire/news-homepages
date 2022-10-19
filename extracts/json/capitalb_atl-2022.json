@@ -1,5 +1,5 @@
 {
-  "created": 1666134970,
+  "created": 1666177100,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/9/items/capitalb_atl-2022",
@@ -10931,31 +10931,93 @@
       "format": "JSON"
     },
     {
+      "name": "capitalb_atl-2022-10-18T19:15:00.998975-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitalb_atl-2022-10-18T19:15:00.998975-04:00.jpg",
+      "mtime": "1666160622",
+      "size": "9904",
+      "md5": "26b2fd251540a222d04360eb89cae594",
+      "crc32": "22c0b83e",
+      "sha1": "7e09e7120fcc650f9776fee1201880a9816e4f7b"
+    },
+    {
+      "name": "capitalb_atl-2022-10-19T06:56:50.097383-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666177014",
+      "size": "7516",
+      "md5": "6c43339245638914ff0054266db687b1",
+      "crc32": "5d0ca16c",
+      "sha1": "0477c3eccd53e30472ce8e58ddba2d647dce192a",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-10-19T06:56:50.097383-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666177016",
+      "size": "8778",
+      "md5": "6831dc6fe7e5d1998308d4d7f3c768b2",
+      "crc32": "e96696bc",
+      "sha1": "cd456e387ac984ab733fd73321fecc873bc6c550",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-10-19T06:56:50.097383-04:00.jpg",
+      "source": "original",
+      "mtime": "1666177013",
+      "size": "257189",
+      "md5": "9d8e67ebdc33a137ca765fca0efe6274",
+      "crc32": "f7f1b461",
+      "sha1": "8387b548d7d8b4a0e69979bfea9e570a3abbd2d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitalb_atl-2022-10-19T06:56:50.097383-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666177017",
+      "size": "1540",
+      "md5": "523bee33f3bcdec76f1521172107958e",
+      "crc32": "04724610",
+      "sha1": "5f98d01d379426bf6bac227a0757048eda482b08",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalb_atl-2022-10-19T06:56:50.097383-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666177019",
+      "size": "10271",
+      "md5": "ea972c8521f988289241767c4e902602",
+      "crc32": "afd58987",
+      "sha1": "ef6aeb29d7887a80278db2efae1e0b74a70c35e7",
+      "format": "JSON"
+    },
+    {
       "name": "capitalb_atl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5babf101b83e2d6f175210ada41a9f0867aec988",
-      "mtime": "1666134965",
-      "size": "226826",
-      "md5": "7fa0920a1ba2f0b034142eb42a8aef07",
-      "crc32": "22b31c08",
-      "sha1": "15a0139e9bb41f18beba4feb9b81869ee5d33084",
+      "btih": "4ee80e84e5a743a68905a2f01ebc4b4ed3ab8eed",
+      "mtime": "1666177094",
+      "size": "228115",
+      "md5": "54e5682652af1cde2d142a86185dbba7",
+      "crc32": "83d36c5e",
+      "sha1": "c06db9b471a0380de55ebb2026ca3e942f2c7c87",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitalb_atl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4df2b5e37dc58ce2fabaf91466962bf",
+      "md5": "06d2d4e2ab21f368bfe1ccfdce52d77e",
       "summation": "md5"
     },
     {
       "name": "capitalb_atl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134919",
-      "size": "1351680",
-      "md5": "2030d17b3e38cca8f213d70a19279e98",
-      "crc32": "f9d0a7b0",
-      "sha1": "c04c68f1d5412d1c0146a2bdd664a6fc49d92082",
+      "mtime": "1666177046",
+      "size": "1359872",
+      "md5": "46427b02cb0d56a451de8cddd82e9802",
+      "crc32": "81440f4c",
+      "sha1": "46b7c45db9dd2b1aaf906413bba499f04d86b1de",
       "format": "Metadata"
     },
     {
@@ -10969,9 +11031,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1060,
-  "item_last_updated": 1666134965,
-  "item_size": 56324057,
+  "files_count": 1066,
+  "item_last_updated": 1666177094,
+  "item_size": 56628736,
   "metadata": {
     "identifier": "capitalb_atl-2022",
     "collection": [
@@ -10993,7 +11055,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445106646,
+      "task_id": 3445557859,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11001,7 +11063,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1260697256,
+  "uniq": 1051913927,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

@@ -1,10 +1,5 @@
 {
-  "borderless_mag-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666138721,
+  "created": 1666176932,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/2/items/borderless_mag-2022",
@@ -9890,31 +9885,93 @@
       "format": "JSON"
     },
     {
+      "name": "borderless_mag-2022-10-18T18:13:59.876379-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-10-18T18:13:59.876379-05:00.jpg",
+      "mtime": "1666160257",
+      "size": "9327",
+      "md5": "bb041219957ef215dc721cb00b869092",
+      "crc32": "2bd644cc",
+      "sha1": "2ebcaec959c8ff77361998541b4d1fc85b7832ef"
+    },
+    {
+      "name": "borderless_mag-2022-10-19T05:54:22.472003-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176866",
+      "size": "24567",
+      "md5": "6ddea256e6b3b5445759394376cc9bb0",
+      "crc32": "58ba49cf",
+      "sha1": "d8a21919a78c8bee040f70cbaf88eede639de9f5",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-10-19T05:54:22.472003-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176867",
+      "size": "26711",
+      "md5": "a7a125f53ca9eced64d85ddb3668031c",
+      "crc32": "7f5d2709",
+      "sha1": "a3051ddbb94f486eccc0cf0a4871c592d858449b",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-10-19T05:54:22.472003-05:00.jpg",
+      "source": "original",
+      "mtime": "1666176864",
+      "size": "222594",
+      "md5": "403aec56556998fa554bae8f4a401a07",
+      "crc32": "091639ae",
+      "sha1": "1efddb55d34cc18cb1c36a81929252781a09c233",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "borderless_mag-2022-10-19T05:54:22.472003-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176869",
+      "size": "1486",
+      "md5": "40fd2e70fff74e565341427d9181ede6",
+      "crc32": "10c87586",
+      "sha1": "0daa6f16514fe88e1119bf3da71657425f9ddf9a",
+      "format": "JSON"
+    },
+    {
+      "name": "borderless_mag-2022-10-19T05:54:22.472003-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176872",
+      "size": "206",
+      "md5": "8c2341d9b155c9e97e39cbd023a79d38",
+      "crc32": "b4aa5cdd",
+      "sha1": "fc7d9493ca04eb34cbcfcbe29af9574c47d2e257",
+      "format": "JSON"
+    },
+    {
       "name": "borderless_mag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35b533d5e98a2848830d56fd564fe99198b01dbe",
-      "mtime": "1666134920",
-      "size": "207523",
-      "md5": "e37c2b64871f5ea18bd5aed799362c9e",
-      "crc32": "c3de9970",
-      "sha1": "d52ab22d83d8dffa648e5809c825dd8a31cd186e",
+      "btih": "73c8b9314fe8bfd139f01352498c097949827202",
+      "mtime": "1666176924",
+      "size": "208824",
+      "md5": "463dd3d3c7bba9b7693023995fb88e91",
+      "crc32": "c8be3d21",
+      "sha1": "7d83ffc182fab92dc9cd1754aa9f78d669307125",
       "format": "Archive BitTorrent"
     },
     {
       "name": "borderless_mag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4329b7472842e0d6b0801e71a7c6f10",
+      "md5": "d3be3630d322095da96f79c743050232",
       "summation": "md5"
     },
     {
       "name": "borderless_mag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134861",
-      "size": "1241088",
-      "md5": "9c99fa70dc5d093b77ad5b696e2ea4f0",
-      "crc32": "6bd97ac1",
-      "sha1": "4e634b72dde87bf1cd3c015bc9f81ebe8c570515",
+      "mtime": "1666176876",
+      "size": "1245184",
+      "md5": "6090858eaa0411286ff0c3447c003afd",
+      "crc32": "84f32bb2",
+      "sha1": "1519d025cedc952f02ed84a436593c2ca4f36ab6",
       "format": "Metadata"
     },
     {
@@ -9928,9 +9985,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 960,
-  "item_last_updated": 1666134920,
-  "item_size": 47857337,
+  "files_count": 966,
+  "item_last_updated": 1666176924,
+  "item_size": 48147625,
   "metadata": {
     "identifier": "borderless_mag-2022",
     "collection": [
@@ -9952,7 +10009,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445106421,
+      "task_id": 3445556077,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9960,7 +10017,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 84659317,
+  "uniq": 375723930,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

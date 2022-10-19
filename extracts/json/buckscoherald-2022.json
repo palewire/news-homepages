@@ -1,5 +1,5 @@
 {
-  "created": 1666136289,
+  "created": 1666177101,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/12/items/buckscoherald-2022",
@@ -11851,31 +11851,93 @@
       "format": "JSON"
     },
     {
+      "name": "buckscoherald-2022-10-18T19:14:23.769706-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buckscoherald-2022-10-18T19:14:23.769706-04:00.jpg",
+      "mtime": "1666160274",
+      "size": "8929",
+      "md5": "49bd97d8275b4ed9e129b67e8bb00bb0",
+      "crc32": "d6fac9d4",
+      "sha1": "8828b76e9c75b530ae86907513659f932264ccad"
+    },
+    {
+      "name": "buckscoherald-2022-10-19T06:56:55.159172-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666177037",
+      "size": "41292",
+      "md5": "297ce7c1884d6cb04307bca6ebabd8f8",
+      "crc32": "9313cbf5",
+      "sha1": "1443845260f1590d756468e7f66b61a41c6bc8ac",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-10-19T06:56:55.159172-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666177039",
+      "size": "51385",
+      "md5": "c5326470197f58cafaafa0cb74982c19",
+      "crc32": "f1542a42",
+      "sha1": "b310775daaec7da81dc58900998f8325cd67dbe3",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-10-19T06:56:55.159172-04:00.jpg",
+      "source": "original",
+      "mtime": "1666177036",
+      "size": "225311",
+      "md5": "5a6d1fe53a736af488aa36bacb6f286e",
+      "crc32": "bff3c607",
+      "sha1": "daba1c1939ef14855c0261750138afe03187d96a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buckscoherald-2022-10-19T06:56:55.159172-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666177041",
+      "size": "1519",
+      "md5": "5b79da1c55037647aafafd88d13675f2",
+      "crc32": "08d2f15b",
+      "sha1": "0a681d3daff400f3862c9529facf7d62a5ac63ec",
+      "format": "JSON"
+    },
+    {
+      "name": "buckscoherald-2022-10-19T06:56:55.159172-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666177043",
+      "size": "38586",
+      "md5": "4a9d142f6c35325d26fad86fbaed7a5c",
+      "crc32": "f0f2c35f",
+      "sha1": "2526d320d4c0bfafb2fb1a94a8a70fa26942a52b",
+      "format": "JSON"
+    },
+    {
       "name": "buckscoherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6f04e8e334fdba5cb5dce98fae4f3b069546759",
-      "mtime": "1666134938",
-      "size": "247939",
-      "md5": "a1c423e6f467774b0849d8eea251b741",
-      "crc32": "ba923c15",
-      "sha1": "44238280e1535bfaa072600746d84b38e1de965d",
+      "btih": "bcb8cfa03486fcd3f73294d5af861533d4fdf613",
+      "mtime": "1666177096",
+      "size": "249236",
+      "md5": "9ecc41520d3a481ea585de67d66fadcb",
+      "crc32": "10e29a3f",
+      "sha1": "de795736c4a4165dcfa973cfe577449ec7a94580",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buckscoherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5f3cb807230651d11261ea6cfeeabd9e",
+      "md5": "10c9a0e6ef09ef4e6c897e23ce204085",
       "summation": "md5"
     },
     {
       "name": "buckscoherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134888",
-      "size": "1462272",
-      "md5": "7870aa149186ffbd95bd1214ac726aee",
-      "crc32": "3f6a3ed1",
-      "sha1": "3076a616a885e879ec829ada26828b7d4374f0d9",
+      "mtime": "1666177046",
+      "size": "1470464",
+      "md5": "4e087e20af74819caf9425b394f8591c",
+      "crc32": "4bf1b5a2",
+      "sha1": "033d7b308e141c856145d2fc48655e78c6a2fe8f",
       "format": "Metadata"
     },
     {
@@ -11889,9 +11951,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1148,
-  "item_last_updated": 1666134938,
-  "item_size": 82008618,
+  "files_count": 1154,
+  "item_last_updated": 1666177096,
+  "item_size": 82385129,
   "metadata": {
     "identifier": "buckscoherald-2022",
     "collection": [
@@ -11913,7 +11975,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445106460,
+      "task_id": 3445557866,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11921,7 +11983,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1170598940,
+  "uniq": 34302321,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

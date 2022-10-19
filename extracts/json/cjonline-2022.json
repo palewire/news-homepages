@@ -1,10 +1,5 @@
 {
-  "cjonline-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666138855,
+  "created": 1666177081,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/cjonline-2022",
@@ -3596,31 +3591,93 @@
       "format": "JSON"
     },
     {
+      "name": "cjonline-2022-10-18T18:14:09.695823-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cjonline-2022-10-18T18:14:09.695823-05:00.jpg",
+      "mtime": "1666160228",
+      "size": "8685",
+      "md5": "5ac7dcb1014a5d73820fe8dc291a0782",
+      "crc32": "f464e38d",
+      "sha1": "9547d01e3b0d1a86adf757645589533c338ec0a0"
+    },
+    {
+      "name": "cjonline-2022-10-19T05:57:00.234170-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666177023",
+      "size": "21518",
+      "md5": "81989859c18136f7e14a1ca1b62e8af0",
+      "crc32": "07bb29f1",
+      "sha1": "73e628bf6bd6c08119ace9a617138c220c57e040",
+      "format": "JSON"
+    },
+    {
+      "name": "cjonline-2022-10-19T05:57:00.234170-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666177025",
+      "size": "28190",
+      "md5": "e243f454d62ea98a592b0e3dacdd7e78",
+      "crc32": "b3e17bcb",
+      "sha1": "3b0b18758c215a905314ed2ea050ec6e186e9267",
+      "format": "JSON"
+    },
+    {
+      "name": "cjonline-2022-10-19T05:57:00.234170-05:00.jpg",
+      "source": "original",
+      "mtime": "1666177022",
+      "size": "281092",
+      "md5": "e0e3ac905de8a0b53d32b84d24bfece2",
+      "crc32": "f064cbd4",
+      "sha1": "4b5286ec7d8f49fca025653e4e39455655f9235b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cjonline-2022-10-19T05:57:00.234170-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666177026",
+      "size": "1477",
+      "md5": "5aa66e1bcf32760b93ca740770e1a654",
+      "crc32": "fdb9b90b",
+      "sha1": "be2ce101f4d742d96fb806a844881e63cb5e0c88",
+      "format": "JSON"
+    },
+    {
+      "name": "cjonline-2022-10-19T05:57:00.234170-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666177028",
+      "size": "121187",
+      "md5": "3c353e5acbc3abbc91e1872080a10c85",
+      "crc32": "0ece44c9",
+      "sha1": "0e103754e1e27243f7a3e1a90c72abc2e45599ba",
+      "format": "JSON"
+    },
+    {
       "name": "cjonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67b71dde992ec8f46abc03cffe7cf285fb0ef78b",
-      "mtime": "1666134897",
-      "size": "74365",
-      "md5": "5c4f712d88d4f8f831be48efc1b83860",
-      "crc32": "bcb243e4",
-      "sha1": "9e4e58f32cac16c839856a9fc7a118dede9f0e52",
+      "btih": "0c6160258d4d5cd3b3689afab94a6b8418053cbd",
+      "mtime": "1666177073",
+      "size": "75633",
+      "md5": "bac02c092c9791f400a597d2a4ef4f43",
+      "crc32": "264e2567",
+      "sha1": "13febaa93d94d5f8b81deec5a1c2f732eb392076",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cjonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e91e35f0f0e22fef569aba0a80a73a77",
+      "md5": "4cc012a0117398c44e6b6d454cbade23",
       "summation": "md5"
     },
     {
       "name": "cjonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134861",
-      "size": "462848",
-      "md5": "62309f3b30db472a11642c247738a2b5",
-      "crc32": "eb39a5a8",
-      "sha1": "6ed7b888cc44ca4809b4e1f9caaf6c25d93b0dda",
+      "mtime": "1666177034",
+      "size": "466944",
+      "md5": "23be09893492905b686f4c1822a0fc2b",
+      "crc32": "7ffc9f03",
+      "sha1": "66472de3f83112074a3f30e7a2a188e72ef42bd6",
       "format": "Metadata"
     },
     {
@@ -3634,9 +3691,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 351,
-  "item_last_updated": 1666134897,
-  "item_size": 22763687,
+  "files_count": 357,
+  "item_last_updated": 1666177073,
+  "item_size": 23231200,
   "metadata": {
     "identifier": "cjonline-2022",
     "collection": [
@@ -3658,7 +3715,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445106062,
+      "task_id": 3445557694,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3666,7 +3723,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 593204078,
+  "uniq": 1448636893,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

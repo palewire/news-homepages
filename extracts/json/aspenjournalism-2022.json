@@ -1,5 +1,5 @@
 {
-  "created": 1666134747,
+  "created": 1666176965,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/4/items/aspenjournalism-2022",
@@ -11865,31 +11865,93 @@
       "format": "JSON"
     },
     {
+      "name": "aspenjournalism-2022-10-18T17:11:18.732555-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenjournalism-2022-10-18T17:11:18.732555-06:00.jpg",
+      "mtime": "1666160147",
+      "size": "10597",
+      "md5": "bea5804673b94852ad24f35122cdf4f6",
+      "crc32": "b0c631ca",
+      "sha1": "59e7ee3cdffed61d63dbb96fbdecac6db4db0381"
+    },
+    {
+      "name": "aspenjournalism-2022-10-19T04:55:05.187174-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176907",
+      "size": "16457",
+      "md5": "a75fa2df54e3b3c476f5df526dd096cd",
+      "crc32": "e80cfbb3",
+      "sha1": "1961b71357b49d9cf253609fe31043db49425bc6",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenjournalism-2022-10-19T04:55:05.187174-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176909",
+      "size": "13098",
+      "md5": "27b05c019a11ee9031f4797e11ac3428",
+      "crc32": "184a2df2",
+      "sha1": "359527affbfebc915e68250b7f981322bc37e87b",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenjournalism-2022-10-19T04:55:05.187174-06:00.jpg",
+      "source": "original",
+      "mtime": "1666176906",
+      "size": "354469",
+      "md5": "e4adfd1d819534ca08269c2e13b3c805",
+      "crc32": "5b143fd6",
+      "sha1": "cae334362b0c3595edfcdb717318bcf1a4e01a68",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenjournalism-2022-10-19T04:55:05.187174-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176911",
+      "size": "1493",
+      "md5": "f98c09ff06f06dd73d6b5abe7201f558",
+      "crc32": "eb6c3d95",
+      "sha1": "ea3560c1863f97f802b23a33ae85808056084489",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenjournalism-2022-10-19T04:55:05.187174-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176912",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "aspenjournalism-2022_archive.torrent",
       "source": "metadata",
-      "btih": "26ca594f5f3529abfcd0af655d09ae68ecbfdfca",
-      "mtime": "1666134742",
-      "size": "250369",
-      "md5": "1b0b1694bcc3e7ada8cdeba9be7543ee",
-      "crc32": "cf89f757",
-      "sha1": "33e20f6d4888d29ee899675c4ddc2273676ba03e",
+      "btih": "1bc3edaee7bd15053d424f4efab5a3b10434250e",
+      "mtime": "1666176961",
+      "size": "251677",
+      "md5": "cc56f053dfe5d0f721ae293d65c6d9ab",
+      "crc32": "3a66de63",
+      "sha1": "86c7d5b6742d24b602806b876a835a4649a905e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspenjournalism-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2d7c878ffb46beaa10538b61b28add90",
+      "md5": "5d6b9378aea9c02af195fc40869aad40",
       "summation": "md5"
     },
     {
       "name": "aspenjournalism-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134693",
-      "size": "1462272",
-      "md5": "103d83edb719f6a0ace0f94fc1140bec",
-      "crc32": "86c9ea5a",
-      "sha1": "a4848e2834c2e214fe842be7db7635a00048bc54",
+      "mtime": "1666176916",
+      "size": "1466368",
+      "md5": "3a65bc68b396ce03b59a417c14325e3f",
+      "crc32": "7a0bd64b",
+      "sha1": "24135d8752a664798d982fd4996081a30c807568",
       "format": "Metadata"
     },
     {
@@ -11903,9 +11965,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1149,
-  "item_last_updated": 1666134742,
-  "item_size": 79097652,
+  "files_count": 1155,
+  "item_last_updated": 1666176961,
+  "item_size": 79499372,
   "metadata": {
     "identifier": "aspenjournalism-2022",
     "collection": [
@@ -11927,7 +11989,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445104456,
+      "task_id": 3445556436,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11935,7 +11997,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 803372018,
+  "uniq": 436620357,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

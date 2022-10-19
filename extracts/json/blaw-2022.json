@@ -1,10 +1,5 @@
 {
-  "blaw-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666138614,
+  "created": 1666176951,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/7/items/blaw-2022",
@@ -10496,31 +10491,93 @@
       "format": "JSON"
     },
     {
+      "name": "blaw-2022-10-18T19:11:23.197199-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blaw-2022-10-18T19:11:23.197199-04:00.jpg",
+      "mtime": "1666160172",
+      "size": "9413",
+      "md5": "7cf6d84e2eef7a478b5782564846c146",
+      "crc32": "0077838d",
+      "sha1": "c60c33e1717df22f2a1ed63d68f116cd100a22ff"
+    },
+    {
+      "name": "blaw-2022-10-19T06:54:35.704875-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176884",
+      "size": "17833",
+      "md5": "4e0b29784aadef97dbaaa3e857a5f5f5",
+      "crc32": "84072f5b",
+      "sha1": "78bb4a078d146776d3736367a549ea76e524ff8e",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-10-19T06:54:35.704875-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176885",
+      "size": "24291",
+      "md5": "7237515fa8aada69613515f21c363a17",
+      "crc32": "08d86d00",
+      "sha1": "8bdaca6079c6331e87797889840ab3a70c6fcc3f",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-10-19T06:54:35.704875-04:00.jpg",
+      "source": "original",
+      "mtime": "1666176882",
+      "size": "301005",
+      "md5": "83e7086e6d4cba9498c786c25952f9e8",
+      "crc32": "924b9fd8",
+      "sha1": "7f125a7055fe48916a34902935848ca11fc517a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blaw-2022-10-19T06:54:35.704875-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176887",
+      "size": "1522",
+      "md5": "1753586e8219d293ea3913253ebab6da",
+      "crc32": "d76796a7",
+      "sha1": "bc03d7af0f957c5146f6745ed1da8b3fd1527ab5",
+      "format": "JSON"
+    },
+    {
+      "name": "blaw-2022-10-19T06:54:35.704875-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176889",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "blaw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e47121876bf27954952a9f3911919f2ba4cb993a",
-      "mtime": "1666134754",
-      "size": "210392",
-      "md5": "1a63c55df11ca1e63f1d62e119a316f2",
-      "crc32": "ab823b19",
-      "sha1": "8902a87e7f557ef95fee10d266507cd5cdc38e73",
+      "btih": "4da16914880fec3a6d3f4c7b11602eca2f4926a8",
+      "mtime": "1666176943",
+      "size": "211633",
+      "md5": "3c5e479dc6216f2d4eadd63633c7f9cf",
+      "crc32": "61d02e48",
+      "sha1": "1b6628d8b4eef766b0a2b692bce8c0af853f604f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blaw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0c0122ddae007f0f833d80644bde8f0",
+      "md5": "9589e690b76f659178bdfb66081799d6",
       "summation": "md5"
     },
     {
       "name": "blaw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134705",
-      "size": "1290240",
-      "md5": "173d222b7897f339bb1a5f08cebb9ed0",
-      "crc32": "0a5bad4a",
-      "sha1": "676c776edde16f61df3f0e68262180fcdeea0e4e",
+      "mtime": "1666176895",
+      "size": "1298432",
+      "md5": "a27f1dd03867711257a7c27483b5beb7",
+      "crc32": "9a80d795",
+      "sha1": "8f91c8d7e468417fb91ea3eab62bb7f12d3227ae",
       "format": "Metadata"
     },
     {
@@ -10534,9 +10591,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1018,
-  "item_last_updated": 1666134754,
-  "item_size": 63975452,
+  "files_count": 1024,
+  "item_last_updated": 1666176943,
+  "item_size": 64339151,
   "metadata": {
     "identifier": "blaw-2022",
     "collection": [
@@ -10558,7 +10615,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445104614,
+      "task_id": 3445556281,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10566,7 +10623,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 158114452,
+  "uniq": 1174481460,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666134764,
+  "created": 1666176952,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/baltbizonline-2022",
@@ -11529,31 +11529,93 @@
       "format": "JSON"
     },
     {
+      "name": "baltbizonline-2022-10-18T19:11:23.006915-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-18T19:11:23.006915-04:00.jpg",
+      "mtime": "1666160189",
+      "size": "8670",
+      "md5": "8911d63d384250942f417a8ad5dfc4d6",
+      "crc32": "9e936dda",
+      "sha1": "09095098d8a3d24b078fd9287526f82e6a56e48f"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176887",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176889",
+      "size": "23386",
+      "md5": "c61cfa1a26e2c282352be9f8bd97d9bd",
+      "crc32": "e8e6c810",
+      "sha1": "c2143a9b5ad07d0a26d07c4286a7d803b217c9c5",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.jpg",
+      "source": "original",
+      "mtime": "1666176886",
+      "size": "242818",
+      "md5": "c692f4b62f7d6ec9038fd3f08b7f0482",
+      "crc32": "076ae311",
+      "sha1": "780d334718bb77e2d660cc1fceca12ee055c1b69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176891",
+      "size": "1586",
+      "md5": "bed7425407c25ced46e9ebe6520a4875",
+      "crc32": "953f5553",
+      "sha1": "9bc211715c76aa7d90a826e081c1dcee68d907b8",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176893",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "baltbizonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83f593b00b755537259de5db5ddb44e3bc37353b",
-      "mtime": "1666134760",
-      "size": "241317",
-      "md5": "6e13eab983a9cc66e0026e34af01cb38",
-      "crc32": "98e9e6da",
-      "sha1": "72b97d2da5dc1ebe6afdae90c573212347dba488",
+      "btih": "41bbee4c0d4576aa256d723c3f6b7076c8f1d3fc",
+      "mtime": "1666176946",
+      "size": "242590",
+      "md5": "efc6af263e2e71b84415fe198ebb5204",
+      "crc32": "e27966df",
+      "sha1": "cebf820b87178480f7176516668a1442acc6e0b5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbizonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "39c1c4f5b4e297178a4c9bce5639a6c3",
+      "md5": "654c701add5825912e5184c20e842285",
       "summation": "md5"
     },
     {
       "name": "baltbizonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134712",
-      "size": "1421312",
-      "md5": "436acdeef9123b293014e232ad3977d1",
-      "crc32": "b8fbc205",
-      "sha1": "d2a53870068ce5face61e80600aef46c48d99599",
+      "mtime": "1666176897",
+      "size": "1425408",
+      "md5": "4c1526b72821de5719b87f929854b5b3",
+      "crc32": "2c612f45",
+      "sha1": "9cf1e753438ae123ebe86abda0fbc660a04e3a5d",
       "format": "Metadata"
     },
     {
@@ -11567,9 +11629,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1117,
-  "item_last_updated": 1666134760,
-  "item_size": 91504005,
+  "files_count": 1123,
+  "item_last_updated": 1666176946,
+  "item_size": 91786176,
   "metadata": {
     "identifier": "baltbizonline-2022",
     "collection": [
@@ -11591,7 +11653,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445104643,
+      "task_id": 3445556290,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11599,7 +11661,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 454670378,
+  "uniq": 754300375,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

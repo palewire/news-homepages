@@ -1,10 +1,5 @@
 {
-  "9news-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666138383,
+  "created": 1666176787,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/7/items/9news-2022",
@@ -8267,31 +8262,93 @@
       "format": "JSON"
     },
     {
+      "name": "9news-2022-10-18T17:07:29.301553-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "9news-2022-10-18T17:07:29.301553-06:00.jpg",
+      "mtime": "1666160365",
+      "size": "9354",
+      "md5": "244fe60c20a3cfa9a4a92f6b617e8b0b",
+      "crc32": "43320b9f",
+      "sha1": "9835114f9207a84ffde6046e81dc029a1f7464df"
+    },
+    {
+      "name": "9news-2022-10-19T04:51:45.696163-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176713",
+      "size": "6108",
+      "md5": "ebedd94e85d75d04b6f666d368f6066f",
+      "crc32": "91b688a3",
+      "sha1": "030d48ab9bc3a1af1784e8ef616095f20866fe4a",
+      "format": "JSON"
+    },
+    {
+      "name": "9news-2022-10-19T04:51:45.696163-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176715",
+      "size": "76154",
+      "md5": "976cb1de9a8f6c1c7d3568ecf1e3062c",
+      "crc32": "c08500a4",
+      "sha1": "3f6ba71cd16df66b885fea3b2a2abcb9e122c59e",
+      "format": "JSON"
+    },
+    {
+      "name": "9news-2022-10-19T04:51:45.696163-06:00.jpg",
+      "source": "original",
+      "mtime": "1666176711",
+      "size": "235873",
+      "md5": "de568eac27386a1ebef8c219f4538659",
+      "crc32": "fc93e7ad",
+      "sha1": "ef47e424b5b8c50182946bba19ce759593a334c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "9news-2022-10-19T04:51:45.696163-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176716",
+      "size": "1444",
+      "md5": "ffc6097253469ecd9a54b6e73e8fb2bb",
+      "crc32": "7923242a",
+      "sha1": "b4aa130eaf7854c8c1b50f40d98f623dd5e1f03e",
+      "format": "JSON"
+    },
+    {
+      "name": "9news-2022-10-19T04:51:45.696163-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176718",
+      "size": "20138",
+      "md5": "7373dfab0be65b5126a5e99936daf871",
+      "crc32": "8b68fc7a",
+      "sha1": "e78d63cc1f2763219964d01970cb5283f5767464",
+      "format": "JSON"
+    },
+    {
       "name": "9news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a71a849267cad7192ff9723403290043ce9112b",
-      "mtime": "1666134520",
-      "size": "167152",
-      "md5": "f919a6d0f5edec71896e085789f1c122",
-      "crc32": "7bc4e0ba",
-      "sha1": "2e21c5342ec26c0ba533f6023b5e819f9bde4b30",
+      "btih": "6a55e9bab5f2100e9675a3f98806e4e2c9b595a7",
+      "mtime": "1666176780",
+      "size": "168400",
+      "md5": "a8dcc1acf123452ffeaf658ff8723ce9",
+      "crc32": "b2bd08e9",
+      "sha1": "575c617c36c271a09f3d7baa33a82acbb06e3cee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "9news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5fbed80f2a4b78834c66138041d80cd2",
+      "md5": "118514f8d914712349f68f2b580c6789",
       "summation": "md5"
     },
     {
       "name": "9news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134476",
-      "size": "1028096",
-      "md5": "9902427b45e542dcd117e6d7b1e74fe5",
-      "crc32": "cb35c5e2",
-      "sha1": "95c1b4cff705424c1620b5c75c7efe739fc8ad65",
+      "mtime": "1666176726",
+      "size": "1036288",
+      "md5": "0d0eac4bbd9aa8ed6cc132c6b68897a6",
+      "crc32": "e5a5b225",
+      "sha1": "6159b425a51596a915fd3c26c8b5bea70c75c5f9",
       "format": "Metadata"
     },
     {
@@ -8316,9 +8373,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 804,
-  "item_last_updated": 1666134520,
-  "item_size": 52501351,
+  "files_count": 810,
+  "item_last_updated": 1666176780,
+  "item_size": 52859862,
   "metadata": {
     "identifier": "9news-2022",
     "collection": [
@@ -8340,7 +8397,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445102535,
+      "task_id": 3445554509,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8348,7 +8405,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1741943495,
+  "uniq": 474585342,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]
