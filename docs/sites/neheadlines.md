@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 158 screenshots with the Internet Archive.
+The archiving routine has saved 159 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 158 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T21:33:37.448329-05:00.jpg">
+  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T21:33:37.448329-05:00.jpg"
+     alt="Hardin News-Enterprise at 2022-10-18 21:33:39-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T21:33:37.448329-05:00.jpg">October 18 at 9:33 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T09:14:13.213916-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-10-13T09:10:55.984058-05:00.jpg">October 13 at 9:11 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-10-12T21:17:00.887153-05:00.jpg">
-  <img src="https://archive.org/download/neheadlines-2022/neheadlines-2022-10-12T21:17:00.887153-05:00.jpg"
-     alt="Hardin News-Enterprise at 2022-10-12 21:17:07-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/neheadlines-2022/neheadlines-2022-10-12T21:17:00.887153-05:00.jpg">October 12 at 9:17 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 157 hyperlink lists with the Internet Archive.
+The archiving routine has saved 158 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 9:33 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T21:33:37.448329-05:00.hyperlinks.json) |
 | [October 18 at 9:14 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T09:14:13.213916-05:00.hyperlinks.json) |
 | [October 17 at 9:22 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-17T21:21:58.830712-05:00.hyperlinks.json) |
 | [October 17 at 9:05 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-17T09:04:55.315781-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 9:59 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-15T09:59:09.100948-05:00.hyperlinks.json) |
 | [October 14 at 9:19 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-14T21:19:22.188377-05:00.hyperlinks.json) |
 | [October 14 at 9:18 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-14T09:18:21.956334-05:00.hyperlinks.json) |
-| [October 13 at 9:18 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-13T21:18:28.327774-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 158 accessibility trees with the Internet Archive.
+The archiving routine has saved 159 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 9:33 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T21:33:37.448329-05:00.accessibility.json) |
 | [October 18 at 9:14 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T09:14:13.213916-05:00.accessibility.json) |
 | [October 17 at 9:22 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-17T21:21:58.830712-05:00.accessibility.json) |
 | [October 17 at 9:04 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-17T09:04:55.315781-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 9:59 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-15T09:59:09.100948-05:00.accessibility.json) |
 | [October 14 at 9:19 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-14T21:19:22.188377-05:00.accessibility.json) |
 | [October 14 at 9:18 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-14T09:18:21.956334-05:00.accessibility.json) |
-| [October 13 at 9:18 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-13T21:18:28.327774-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 158 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 159 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 9:33 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T21:33:37.448329-05:00.lighthouse.json) |
 | [October 18 at 9:14 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-18T09:14:13.213916-05:00.lighthouse.json) |
 | [October 17 at 9:22 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-17T21:21:58.830712-05:00.lighthouse.json) |
 | [October 17 at 9:05 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-17T09:04:55.315781-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 9:59 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-15T09:59:09.100948-05:00.lighthouse.json) |
 | [October 14 at 9:19 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-14T21:19:22.188377-05:00.lighthouse.json) |
 | [October 14 at 9:18 AM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-14T09:18:21.956334-05:00.lighthouse.json) |
-| [October 13 at 9:18 PM](https://archive.org/download/neheadlines-2022/neheadlines-2022-10-13T21:18:28.327774-05:00.lighthouse.json) |
 
 
 

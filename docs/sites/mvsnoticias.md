@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 128 hyperlink lists with the Internet Archive.
+The archiving routine has saved 129 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 8:28 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-18T20:28:16.000835-05:00.hyperlinks.json) |
 | [October 18 at 8:04 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-18T08:03:58.260038-05:00.hyperlinks.json) |
 | [October 17 at 8:29 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-17T20:29:00.827307-05:00.hyperlinks.json) |
 | [October 17 at 7:57 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-17T07:57:49.252161-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 8:04 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-15T08:04:50.583731-05:00.hyperlinks.json) |
 | [October 14 at 8:24 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-14T20:23:57.914317-05:00.hyperlinks.json) |
 | [October 14 at 8:11 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-14T08:11:38.113719-05:00.hyperlinks.json) |
-| [October 13 at 8:23 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-13T20:23:49.403337-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 129 accessibility trees with the Internet Archive.
+The archiving routine has saved 130 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 8:28 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-18T20:28:16.000835-05:00.accessibility.json) |
 | [October 18 at 8:04 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-18T08:03:58.260038-05:00.accessibility.json) |
 | [October 17 at 8:29 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-17T20:29:00.827307-05:00.accessibility.json) |
 | [October 17 at 7:57 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-17T07:57:49.252161-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 8:04 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-15T08:04:50.583731-05:00.accessibility.json) |
 | [October 14 at 8:24 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-14T20:23:57.914317-05:00.accessibility.json) |
 | [October 14 at 8:11 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-14T08:11:38.113719-05:00.accessibility.json) |
-| [October 13 at 8:23 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-13T20:23:49.403337-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 129 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 130 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 8:28 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-18T20:28:16.000835-05:00.lighthouse.json) |
 | [October 18 at 8:04 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-18T08:03:58.260038-05:00.lighthouse.json) |
 | [October 17 at 8:29 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-17T20:29:00.827307-05:00.lighthouse.json) |
 | [October 17 at 7:57 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-17T07:57:49.252161-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 8:05 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-15T08:04:50.583731-05:00.lighthouse.json) |
 | [October 14 at 8:24 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-14T20:23:57.914317-05:00.lighthouse.json) |
 | [October 14 at 8:11 AM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-14T08:11:38.113719-05:00.lighthouse.json) |
-| [October 13 at 8:24 PM](https://archive.org/download/mvsnoticias-2022/mvsnoticias-2022-10-13T20:23:49.403337-05:00.lighthouse.json) |
 
 
 

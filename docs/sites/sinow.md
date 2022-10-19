@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 213 screenshots with the Internet Archive.
+The archiving routine has saved 214 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 213 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sinow-2022/sinow-2022-10-18T22:39:23.265008-04:00.jpg">
+  <img src="https://archive.org/download/sinow-2022/sinow-2022-10-18T22:39:23.265008-04:00.jpg"
+     alt="Sports Illustrated at 2022-10-18 22:39:30-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinow-2022/sinow-2022-10-18T22:39:23.265008-04:00.jpg">October 18 at 10:39 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinow-2022/sinow-2022-10-18T10:20:11.336137-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sinow-2022/sinow-2022-10-13T10:16:20.693801-04:00.jpg">October 13 at 10:16 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sinow-2022/sinow-2022-10-12T22:21:56.484133-04:00.jpg">
-  <img src="https://archive.org/download/sinow-2022/sinow-2022-10-12T22:21:56.484133-04:00.jpg"
-     alt="Sports Illustrated at 2022-10-12 22:22:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinow-2022/sinow-2022-10-12T22:21:56.484133-04:00.jpg">October 12 at 10:22 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 213 hyperlink lists with the Internet Archive.
+The archiving routine has saved 214 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 10:39 PM](https://archive.org/download/sinow-2022/sinow-2022-10-18T22:39:23.265008-04:00.hyperlinks.json) |
 | [October 18 at 10:20 AM](https://archive.org/download/sinow-2022/sinow-2022-10-18T10:20:11.336137-04:00.hyperlinks.json) |
 | [October 17 at 10:28 PM](https://archive.org/download/sinow-2022/sinow-2022-10-17T22:28:32.430152-04:00.hyperlinks.json) |
 | [October 17 at 10:09 AM](https://archive.org/download/sinow-2022/sinow-2022-10-17T10:09:41.444333-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 11:05 AM](https://archive.org/download/sinow-2022/sinow-2022-10-15T11:05:33.965108-04:00.hyperlinks.json) |
 | [October 14 at 10:24 PM](https://archive.org/download/sinow-2022/sinow-2022-10-14T22:24:35.190699-04:00.hyperlinks.json) |
 | [October 14 at 10:25 AM](https://archive.org/download/sinow-2022/sinow-2022-10-14T10:24:47.636481-04:00.hyperlinks.json) |
-| [October 13 at 10:24 PM](https://archive.org/download/sinow-2022/sinow-2022-10-13T22:24:21.149922-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 213 accessibility trees with the Internet Archive.
+The archiving routine has saved 214 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 10:39 PM](https://archive.org/download/sinow-2022/sinow-2022-10-18T22:39:23.265008-04:00.accessibility.json) |
 | [October 18 at 10:20 AM](https://archive.org/download/sinow-2022/sinow-2022-10-18T10:20:11.336137-04:00.accessibility.json) |
 | [October 17 at 10:28 PM](https://archive.org/download/sinow-2022/sinow-2022-10-17T22:28:32.430152-04:00.accessibility.json) |
 | [October 17 at 10:09 AM](https://archive.org/download/sinow-2022/sinow-2022-10-17T10:09:41.444333-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 11:05 AM](https://archive.org/download/sinow-2022/sinow-2022-10-15T11:05:33.965108-04:00.accessibility.json) |
 | [October 14 at 10:24 PM](https://archive.org/download/sinow-2022/sinow-2022-10-14T22:24:35.190699-04:00.accessibility.json) |
 | [October 14 at 10:24 AM](https://archive.org/download/sinow-2022/sinow-2022-10-14T10:24:47.636481-04:00.accessibility.json) |
-| [October 13 at 10:24 PM](https://archive.org/download/sinow-2022/sinow-2022-10-13T22:24:21.149922-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 174 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 175 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 10:39 PM](https://archive.org/download/sinow-2022/sinow-2022-10-18T22:39:23.265008-04:00.lighthouse.json) |
 | [October 18 at 10:20 AM](https://archive.org/download/sinow-2022/sinow-2022-10-18T10:20:11.336137-04:00.lighthouse.json) |
 | [October 17 at 10:28 PM](https://archive.org/download/sinow-2022/sinow-2022-10-17T22:28:32.430152-04:00.lighthouse.json) |
 | [October 17 at 10:09 AM](https://archive.org/download/sinow-2022/sinow-2022-10-17T10:09:41.444333-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 11:05 AM](https://archive.org/download/sinow-2022/sinow-2022-10-15T11:05:33.965108-04:00.lighthouse.json) |
 | [October 14 at 10:24 PM](https://archive.org/download/sinow-2022/sinow-2022-10-14T22:24:35.190699-04:00.lighthouse.json) |
 | [October 14 at 10:25 AM](https://archive.org/download/sinow-2022/sinow-2022-10-14T10:24:47.636481-04:00.lighthouse.json) |
-| [October 13 at 10:24 PM](https://archive.org/download/sinow-2022/sinow-2022-10-13T22:24:21.149922-04:00.lighthouse.json) |
 
 
 
