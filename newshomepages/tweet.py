@@ -37,7 +37,7 @@ def update_list(number):
     print(f":abacus: {len(member_list)} sources in the Twitter list")
 
     # Get the full list of sources
-    source_list = [s["handle"].lower() for s in utils.get_site_list()]
+    source_list = [s["handle"].lower().strip() for s in utils.get_site_list()]
     print(f":newspaper: {len(source_list)} sources in the archive")
 
     # Accounts that have been banned
