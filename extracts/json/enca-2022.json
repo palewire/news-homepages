@@ -1,8 +1,13 @@
 {
-  "created": 1666162743,
+  "created": 1666209612,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/3/items/enca-2022",
+  "enca-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -7073,31 +7078,93 @@
       "format": "JSON"
     },
     {
+      "name": "enca-2022-10-19T08:01:34.658237+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enca-2022-10-19T08:01:34.658237+02:00.jpg",
+      "mtime": "1666180134",
+      "size": "9484",
+      "md5": "40708e1754d87607e3a3dd52afa843a6",
+      "crc32": "956e46e6",
+      "sha1": "a053c382ba06d5b4e14b38e29cbd63892ef519eb"
+    },
+    {
+      "name": "enca-2022-10-19T20:16:07.015315+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666203392",
+      "size": "19982",
+      "md5": "1a60d0681433240f3e7300fa11a4cc02",
+      "crc32": "061cb76a",
+      "sha1": "2774ff9681b347a164eb1d64c495d574b59a1593",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-19T20:16:07.015315+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666203406",
+      "size": "40310",
+      "md5": "ebae6bb5a6a12b86df5b9fa1482cb53a",
+      "crc32": "67c91245",
+      "sha1": "5ca8f7f0ec2d7c26998d093ba9ec84e88aeba357",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-19T20:16:07.015315+02:00.jpg",
+      "source": "original",
+      "mtime": "1666203378",
+      "size": "282821",
+      "md5": "ba9f275fce561e24803ef1d87361eff8",
+      "crc32": "6e936002",
+      "sha1": "1186e753927eb3bca9489e6cd9377a0e8743aab1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enca-2022-10-19T20:16:07.015315+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666203417",
+      "size": "1441",
+      "md5": "155cade0a5a4009f8c8fc495a4e5abd8",
+      "crc32": "e179d60c",
+      "sha1": "c7da28f17d296e7ba000035912e03d0b67878d8b",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-19T20:16:07.015315+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666203428",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "enca-2022_archive.torrent",
       "source": "metadata",
-      "btih": "150d78714cec73a6d970bd21c8a94662bf5edb66",
-      "mtime": "1666159362",
-      "size": "142318",
-      "md5": "9dc835baae4e85ea5aa5345fbbe94376",
-      "crc32": "59c668e4",
-      "sha1": "397ab66866f4e2b4ea56506d575c93ee6b74cf4c",
+      "btih": "92d7596ad639333cdc8f1df473638fd95ce76f12",
+      "mtime": "1666203740",
+      "size": "143559",
+      "md5": "7463f1c11110bd70a2220e48c1c1bb55",
+      "crc32": "2d7526a0",
+      "sha1": "e56a8cedc94c1f887785bc8ee6ca5d400d5d8606",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enca-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "41091603bcba0443b939e558a6e08463",
+      "md5": "c0cb8f33582a85361b1e44005499b67d",
       "summation": "md5"
     },
     {
       "name": "enca-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666159316",
-      "size": "880640",
-      "md5": "82874d290f35e3d145f7c809f993705d",
-      "crc32": "e25dd30f",
-      "sha1": "3ff49122d59291cf336c6613a2a3142327ebe759",
+      "mtime": "1666203695",
+      "size": "888832",
+      "md5": "c1be450de507aae8d590167477554115",
+      "crc32": "a2e1ab87",
+      "sha1": "2ea31b77aebc925c39a21a075e4a7abedb2344f2",
       "format": "Metadata"
     },
     {
@@ -7111,9 +7178,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 688,
-  "item_last_updated": 1666159362,
-  "item_size": 42290736,
+  "files_count": 694,
+  "item_last_updated": 1666203740,
+  "item_size": 42654409,
   "metadata": {
     "identifier": "enca-2022",
     "collection": [
@@ -7135,7 +7202,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445344744,
+      "task_id": 3445840988,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7143,7 +7210,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 950641874,
+  "uniq": 1063891518,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

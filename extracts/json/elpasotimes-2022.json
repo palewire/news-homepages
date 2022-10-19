@@ -1,5 +1,5 @@
 {
-  "created": 1666159340,
+  "created": 1666203748,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/elpasotimes-2022",
@@ -10253,31 +10253,93 @@
       "format": "JSON"
     },
     {
+      "name": "elpasotimes-2022-10-19T00:01:02.862489-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpasotimes-2022-10-19T00:01:02.862489-06:00.jpg",
+      "mtime": "1666180067",
+      "size": "8971",
+      "md5": "707b7c92c1b226723ecf4fbf07642c19",
+      "crc32": "080cbad3",
+      "sha1": "f692aa2971be9be0269e4b97354c0ea7ef79f2a6"
+    },
+    {
+      "name": "elpasotimes-2022-10-19T12:15:50.750337-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666203389",
+      "size": "21075",
+      "md5": "10f57daa454104522fd102c398573b0c",
+      "crc32": "ccb6ac5c",
+      "sha1": "46591a4222ea21fcf8371e287824f81cd77c01b0",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-10-19T12:15:50.750337-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666203403",
+      "size": "37458",
+      "md5": "4f8fdebb6ceb3739597ded51c70148d8",
+      "crc32": "2fe42a96",
+      "sha1": "9ff3d85c8a945ae3ee2f57174435873e5b409e7a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-10-19T12:15:50.750337-06:00.jpg",
+      "source": "original",
+      "mtime": "1666203370",
+      "size": "272756",
+      "md5": "f252bfc233373f6ac2e3441fd5d7dcde",
+      "crc32": "4305b3ba",
+      "sha1": "1981e8b3bd093b1ea8a6157327193d1de684d854",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasotimes-2022-10-19T12:15:50.750337-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666203415",
+      "size": "1504",
+      "md5": "bd1d0a966ab411fed94b1ae4f2cb4717",
+      "crc32": "6562986a",
+      "sha1": "321d35aee33f6a743c1ce12756a086f751af14de",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-10-19T12:15:50.750337-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666203429",
+      "size": "82695",
+      "md5": "e406170ed20d05240b48f575288b542f",
+      "crc32": "11518fb6",
+      "sha1": "7093c390eca829690ae3fe3af49e71c8e20b4d19",
+      "format": "JSON"
+    },
+    {
       "name": "elpasotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7442e6491bc7ab0775e557fc0348bde7735aef43",
-      "mtime": "1666159325",
-      "size": "212741",
-      "md5": "e55012342f2f73dc2e4d9987aaf5518b",
-      "crc32": "2e688c6f",
-      "sha1": "61e0caa96d78ecee585375fa971144595d05e3b2",
+      "btih": "d044f2be91c6510443df8b02ef464ce4682ceee6",
+      "mtime": "1666203743",
+      "size": "214026",
+      "md5": "587deb32de774567ce48408820ba9aba",
+      "crc32": "82702f9c",
+      "sha1": "f5573c76c4b5ed751fe6355999d31408426ddc7d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpasotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1aa012bed9cf416e46d9c40fc2ed7bdb",
+      "md5": "ee4a0ce182c2a7f9fb15de672b4957bd",
       "summation": "md5"
     },
     {
       "name": "elpasotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666159280",
-      "size": "1273856",
-      "md5": "dc438324d125949c59e4332154ac7a5d",
-      "crc32": "a340e210",
-      "sha1": "efbcec1450ba3ab03eb5fdad1bd27be917faab61",
+      "mtime": "1666203695",
+      "size": "1282048",
+      "md5": "107d690e95cec1f8ea441bd393edf1ff",
+      "crc32": "944bce8c",
+      "sha1": "0cb31c0d7a2410766c11d4efbd38d789da28618f",
       "format": "Metadata"
     },
     {
@@ -10291,9 +10353,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 995,
-  "item_last_updated": 1666159325,
-  "item_size": 64111557,
+  "files_count": 1001,
+  "item_last_updated": 1666203743,
+  "item_size": 64545493,
   "metadata": {
     "identifier": "elpasotimes-2022",
     "collection": [
@@ -10315,7 +10377,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445344248,
+      "task_id": 3445841008,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10323,7 +10385,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2005717484,
+  "uniq": 1312560323,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

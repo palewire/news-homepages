@@ -1,5 +1,5 @@
 {
-  "created": 1666159356,
+  "created": 1666203761,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/el_pais-2022",
@@ -10055,31 +10055,93 @@
       "format": "JSON"
     },
     {
+      "name": "el_pais-2022-10-19T08:01:11.691389+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_pais-2022-10-19T08:01:11.691389+02:00.jpg",
+      "mtime": "1666180028",
+      "size": "9690",
+      "md5": "e0806a81d126e91f755c0055a0d7802d",
+      "crc32": "03602aed",
+      "sha1": "d7094f9f0f02bfd2c7b0d1c9c90c9ce2156a90a7"
+    },
+    {
+      "name": "el_pais-2022-10-19T20:16:43.131570+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666203432",
+      "size": "64849",
+      "md5": "e90414fc14d446b3c393080d700501cc",
+      "crc32": "ec9577ad",
+      "sha1": "f4d9097a4ee2de2b19a3ab40c39182ba002af37a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-19T20:16:43.131570+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666203441",
+      "size": "77490",
+      "md5": "80962fd6fd23fcd59f8f70753049e1a4",
+      "crc32": "a156ffe1",
+      "sha1": "9b948c7d420f152b913dd520ba30b0e526fd5c30",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-19T20:16:43.131570+02:00.jpg",
+      "source": "original",
+      "mtime": "1666203424",
+      "size": "253528",
+      "md5": "893477e29c069df33cc99ee1caaae656",
+      "crc32": "d76951e4",
+      "sha1": "bce0bdd2e2dbe19ec7fc7c2445f7211677e4bd0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_pais-2022-10-19T20:16:43.131570+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666203451",
+      "size": "1495",
+      "md5": "85c168dc04709905a35e558d6c0fcd68",
+      "crc32": "e8b26049",
+      "sha1": "ad43bf660028e44de13fca0c336ece10d8b3086a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-19T20:16:43.131570+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666203461",
+      "size": "32077",
+      "md5": "ad8fdf1e3d00ea049dd9261fa417291c",
+      "crc32": "f36947f9",
+      "sha1": "d2c91855672fae0611b3ce2b2d9f605b8249403c",
+      "format": "JSON"
+    },
+    {
       "name": "el_pais-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8780c2a70d790cf8a65613045ed55d11671beb8",
-      "mtime": "1666159347",
-      "size": "205105",
-      "md5": "effce72cdbbb8108a2a7f6f1af82d7ba",
-      "crc32": "88da2d4c",
-      "sha1": "c1375683180e6ff6fa21fd48e16e1c5bc66f6058",
+      "btih": "2560b00eddc1c26e830ae7857849083cd3ee788c",
+      "mtime": "1666203750",
+      "size": "206366",
+      "md5": "f1a8c63e3357b360d4365642414e47b0",
+      "crc32": "be0086b9",
+      "sha1": "e8789611f42143a31387aaf150af55d44cfaa376",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_pais-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "012c2232d33ec7108d3d22255544ca21",
+      "md5": "a557e39a6c363609f565b3444bfb8681",
       "summation": "md5"
     },
     {
       "name": "el_pais-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666159291",
-      "size": "1245184",
-      "md5": "6723640d7d3cd208f7e14aafb4dd0e01",
-      "crc32": "bdc7dd8b",
-      "sha1": "319ac1a6ca173e9d4e3bdabb833c8291e11e856a",
+      "mtime": "1666203702",
+      "size": "1253376",
+      "md5": "c45af21dbb03b363d9d34d2e90cdb2c1",
+      "crc32": "38bd9831",
+      "sha1": "97dc91ebb255add5c3e1342a034a73c7995f0703",
       "format": "Metadata"
     },
     {
@@ -10093,9 +10155,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 976,
-  "item_last_updated": 1666159347,
-  "item_size": 72635514,
+  "files_count": 982,
+  "item_last_updated": 1666203750,
+  "item_size": 73084096,
   "metadata": {
     "identifier": "el_pais-2022",
     "collection": [
@@ -10117,7 +10179,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445344516,
+      "task_id": 3445841114,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10125,7 +10187,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 331181881,
+  "uniq": 1185234437,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

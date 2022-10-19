@@ -1,5 +1,5 @@
 {
-  "created": 1666159454,
+  "created": 1666203772,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/19/items/fox5ny-2022",
@@ -6919,31 +6919,93 @@
       "format": "JSON"
     },
     {
+      "name": "fox5ny-2022-10-19T02:03:08.908754-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5ny-2022-10-19T02:03:08.908754-04:00.jpg",
+      "mtime": "1666180343",
+      "size": "10782",
+      "md5": "8302f85f2a18be6fb1ef3301ccea47ca",
+      "crc32": "cb00b848",
+      "sha1": "d5bebdcae10a9024960bfedf402806d21cb5a3ca"
+    },
+    {
+      "name": "fox5ny-2022-10-19T14:18:27.300612-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666203537",
+      "size": "41974",
+      "md5": "a6619678cbd9d5ab6e844c4a930ef8f6",
+      "crc32": "d153ec1f",
+      "sha1": "34bd9f181e2f24c521ad8a723d3717d86c7ce215",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-19T14:18:27.300612-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666203543",
+      "size": "32869",
+      "md5": "acd356d4efb8b492d9d68dedd86733b9",
+      "crc32": "63f731f1",
+      "sha1": "87a49bf0fea7e16a474278208bc5516b4ee5b940",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-19T14:18:27.300612-04:00.jpg",
+      "source": "original",
+      "mtime": "1666203530",
+      "size": "315698",
+      "md5": "d56f3b2ca320db6e14e53c2de694adff",
+      "crc32": "ebd1f60d",
+      "sha1": "7af0b6942d4477f6675f217eb80cf4152820950d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5ny-2022-10-19T14:18:27.300612-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666203551",
+      "size": "1459",
+      "md5": "f04de0c44f1be1935cea67b0097f87ca",
+      "crc32": "9484d2ac",
+      "sha1": "4e49297c970b380ed207c1f252402169814e7e50",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-19T14:18:27.300612-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666203559",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "fox5ny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "faf0ecf254152bb69b459e6f292a5d95496204bb",
-      "mtime": "1666159451",
-      "size": "141136",
-      "md5": "a08ba06a508ebe96b9159267b9fb6e87",
-      "crc32": "58520401",
-      "sha1": "1495212a02c71bf02d315ccb4baf12fcb3560809",
+      "btih": "62103aa09017f32784c2a336e5c5001650a5d837",
+      "mtime": "1666203766",
+      "size": "142370",
+      "md5": "6377028268104b22b1b3937ffa1e9073",
+      "crc32": "0b5429c5",
+      "sha1": "5904764e5e32ae60f0d671db6545726c2558090a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5ny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f6d1496c9d829b2f60c349fbda0f6c3",
+      "md5": "6ad5299a654560b1e98aa52cd6b61c64",
       "summation": "md5"
     },
     {
       "name": "fox5ny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666159410",
-      "size": "864256",
-      "md5": "35a631d68e109a3b55720ed122ff202c",
-      "crc32": "21b4cece",
-      "sha1": "7a49a1c4583d95f90c8057adb09c40a474fd8a55",
+      "mtime": "1666203717",
+      "size": "872448",
+      "md5": "765ee596909ad5fab9dec7cb116a7eee",
+      "crc32": "fa0f490c",
+      "sha1": "1c54e4ae1219f5e71394cac3960d5f31b37265bf",
       "format": "Metadata"
     },
     {
@@ -6957,9 +7019,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 673,
-  "item_last_updated": 1666159451,
-  "item_size": 52619148,
+  "files_count": 679,
+  "item_last_updated": 1666203766,
+  "item_size": 53031558,
   "metadata": {
     "identifier": "fox5ny-2022",
     "collection": [
@@ -6981,7 +7043,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445345914,
+      "task_id": 3445841246,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6989,7 +7051,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2067179577,
+  "uniq": 1932814452,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]
