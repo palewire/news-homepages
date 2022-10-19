@@ -1,5 +1,5 @@
 {
-  "created": 1666163271,
+  "created": 1666184171,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/33/items/cbsnews-2022",
@@ -39758,31 +39758,82 @@
       "sha1": "2c1426d9d828bd6c0e722730e35c42b8146a3a20"
     },
     {
+      "name": "cbsnews-2022-10-19T08:53:33.137916-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666184016",
+      "size": "31191",
+      "md5": "2f5090d3954043107053ef9d6c82abe5",
+      "crc32": "6af4b98e",
+      "sha1": "b1cdf2d9c40b1da4c5398438effe0cc9258276c2",
+      "format": "JSON"
+    },
+    {
+      "name": "cbsnews-2022-10-19T08:53:33.137916-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666184018",
+      "size": "88539",
+      "md5": "631ae211ac1fde108db3a5ccc6871345",
+      "crc32": "43d38ccb",
+      "sha1": "9cd015f5507a36f879295be2c34906109088d01a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbsnews-2022-10-19T08:53:33.137916-04:00.jpg",
+      "source": "original",
+      "mtime": "1666184015",
+      "size": "212295",
+      "md5": "d05c508464de6a67b0f8b6676ee7df2e",
+      "crc32": "d5b19464",
+      "sha1": "140582a3226d55d939b0209dc4679ad5d65adeef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbsnews-2022-10-19T08:53:33.137916-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666184020",
+      "size": "1459",
+      "md5": "5ce2b2f0121b43a1e0c035c9d57e38ee",
+      "crc32": "e137133c",
+      "sha1": "7c7a789d9c62fc73164b2077343a13f88b9dc993",
+      "format": "JSON"
+    },
+    {
+      "name": "cbsnews-2022-10-19T08:53:33.137916-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666184022",
+      "size": "5430",
+      "md5": "b418cf1574f5690eb682874690f8a5d5",
+      "crc32": "99ecccda",
+      "sha1": "707314d4daa35e94a4e714502eb45ec15e3cae00",
+      "format": "JSON"
+    },
+    {
       "name": "cbsnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8a11b7192b94cdc8ddfb1aec38820230bd54376",
-      "mtime": "1666162210",
-      "size": "799320",
-      "md5": "7702e15475884007e9942f06c5793f73",
-      "crc32": "9132441f",
-      "sha1": "d841dc09bab2f5dfe99e9ba8d9ec15f78af9c5dd",
+      "btih": "74e10dd8708fda87ba89f87a300e1953191df199",
+      "mtime": "1666184163",
+      "size": "800377",
+      "md5": "4dcf641e2e5b5a9e81c044e1d352459b",
+      "crc32": "e423fa72",
+      "sha1": "a28b0fba519e9ca87211506817baebfeeda3dd8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbsnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2da0da642407b2e02bfba1e1079c909c",
+      "md5": "50967fb4ba81a22e68b187e91627a1fa",
       "summation": "md5"
     },
     {
       "name": "cbsnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666134881",
-      "size": "4575232",
-      "md5": "35061649e31021d9f1378f024b0383d2",
-      "crc32": "846fd3c7",
-      "sha1": "16ec27dc62c065534607737da7f56d479d1783c6",
+      "mtime": "1666184032",
+      "size": "4579328",
+      "md5": "d620b94e89905e705ee2eca42396f143",
+      "crc32": "9505c530",
+      "sha1": "80c68bc1db4335f1d2d92e7523d29bb505119ddb",
       "format": "Metadata"
     },
     {
@@ -39796,9 +39847,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3818,
-  "item_last_updated": 1666162210,
-  "item_size": 274311669,
+  "files_count": 3823,
+  "item_last_updated": 1666184163,
+  "item_size": 274655736,
   "metadata": {
     "identifier": "cbsnews-2022",
     "collection": [
@@ -39815,10 +39866,21 @@
     "publicdate": "2022-03-24 23:11:21",
     "addeddate": "2022-03-24 23:11:21"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 934642272,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445631441,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 523707699,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }
