@@ -1,5 +1,6 @@
 {
-  "created": 1666211237,
+  "conflict": 1666214794,
+  "created": 1666214794,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -44277,6 +44278,12 @@
       "format": "JSON"
     },
     {
+      "name": "foxnews-2022-10-19T16:23:10.082298-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-10-19T16:23:10.082298-04:00.jpg"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
       "btih": "b2c3f941eb5a9af4d0d0b7304c220ad0f2673b4c",
@@ -44315,7 +44322,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4252,
+  "files_count": 4253,
   "item_last_updated": 1666211218,
   "item_size": 543729135,
   "metadata": {
@@ -44342,12 +44349,52 @@
       "task_id": 3445922463,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445954125,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445954148,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445954170,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445954186,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445954204,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1556065440,
+  "uniq": 736797171,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
