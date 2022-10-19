@@ -620,6 +620,7 @@ def _write_template(template_name, context, output_name=None):
     template = TEMPLATE_ENV.get_template(f"{template_name}.tmpl")
     md = template.render(**context)
     output_path = PARENT_DIR / "_site" / (output_name or template_name)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w") as fh:
         fh.write(md)
 
@@ -629,6 +630,7 @@ def _write_chart_json(df, path):
     df["date"] = df["date"].dt.strftime("%Y-%m-%d")
 
     # Write it out
+    path.parent.mkdir(parents=True, exist_ok=True)
     df.to_json(path, indent=2, orient="records")
 
 
