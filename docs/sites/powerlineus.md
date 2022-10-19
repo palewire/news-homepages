@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 268 screenshots with the Internet Archive.
+The archiving routine has saved 270 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T16:00:09.362158-04:00.jpg">
+  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T16:00:09.362158-04:00.jpg"
+     alt="Power Line at 2022-10-18 16:00:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T16:00:09.362158-04:00.jpg">October 18 at 4:00 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T15:10:22.704151-04:00.jpg">
+  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T15:10:22.704151-04:00.jpg"
+     alt="Power Line at 2022-10-18 15:10:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T15:10:22.704151-04:00.jpg">October 18 at 3:10 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T03:24:53.872539-04:00.jpg">
   <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T03:24:53.872539-04:00.jpg"
      alt="Power Line at 2022-10-18 03:24:55-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T03:52:04.719429-04:00.jpg">October 15 at 3:52 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-14T16:44:56.922776-04:00.jpg">
-  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-14T16:44:56.922776-04:00.jpg"
-     alt="Power Line at 2022-10-14 16:44:58-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-14T16:44:56.922776-04:00.jpg">October 14 at 4:44 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-14T16:25:03.292994-04:00.jpg">
-  <img src="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-14T16:25:03.292994-04:00.jpg"
-     alt="Power Line at 2022-10-14 16:25:23-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/powerlineus-2022/powerlineus-2022-10-14T16:25:03.292994-04:00.jpg">October 14 at 4:25 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 267 hyperlink lists with the Internet Archive.
+The archiving routine has saved 269 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 4:00 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T16:00:09.362158-04:00.hyperlinks.json) |
+| [October 18 at 3:10 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T15:10:22.704151-04:00.hyperlinks.json) |
 | [October 18 at 3:24 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T03:24:53.872539-04:00.hyperlinks.json) |
 | [October 17 at 4:28 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-17T16:28:13.298016-04:00.hyperlinks.json) |
 | [October 17 at 3:37 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-17T15:37:29.127647-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 16 at 2:58 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-16T14:58:06.500419-04:00.hyperlinks.json) |
 | [October 16 at 3:21 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-16T03:21:38.976553-04:00.hyperlinks.json) |
 | [October 15 at 4:03 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T16:03:25.535574-04:00.hyperlinks.json) |
-| [October 15 at 3:21 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T15:21:28.847222-04:00.hyperlinks.json) |
-| [October 15 at 3:52 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T03:52:04.719429-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 267 accessibility trees with the Internet Archive.
+The archiving routine has saved 269 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 4:00 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T16:00:09.362158-04:00.accessibility.json) |
+| [October 18 at 3:10 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T15:10:22.704151-04:00.accessibility.json) |
 | [October 18 at 3:24 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T03:24:53.872539-04:00.accessibility.json) |
 | [October 17 at 4:28 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-17T16:28:13.298016-04:00.accessibility.json) |
 | [October 17 at 3:37 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-17T15:37:29.127647-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 16 at 2:58 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-16T14:58:06.500419-04:00.accessibility.json) |
 | [October 16 at 3:21 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-16T03:21:38.976553-04:00.accessibility.json) |
 | [October 15 at 4:03 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T16:03:25.535574-04:00.accessibility.json) |
-| [October 15 at 3:21 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T15:21:28.847222-04:00.accessibility.json) |
-| [October 15 at 3:52 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T03:52:04.719429-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 251 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 253 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 4:00 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T16:00:09.362158-04:00.lighthouse.json) |
+| [October 18 at 3:10 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T15:10:22.704151-04:00.lighthouse.json) |
 | [October 18 at 3:25 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-18T03:24:53.872539-04:00.lighthouse.json) |
 | [October 17 at 4:28 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-17T16:28:13.298016-04:00.lighthouse.json) |
 | [October 17 at 3:37 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-17T15:37:29.127647-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 16 at 2:58 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-16T14:58:06.500419-04:00.lighthouse.json) |
 | [October 16 at 3:21 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-16T03:21:38.976553-04:00.lighthouse.json) |
 | [October 15 at 4:03 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T16:03:25.535574-04:00.lighthouse.json) |
-| [October 15 at 3:21 PM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T15:21:28.847222-04:00.lighthouse.json) |
-| [October 15 at 3:52 AM](https://archive.org/download/powerlineus-2022/powerlineus-2022-10-15T03:52:04.719429-04:00.lighthouse.json) |
 
 
 

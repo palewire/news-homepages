@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 1156 screenshots with the Internet Archive.
+The archiving routine has saved 1158 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-18T17:24:38.041152-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-10-18T17:24:38.041152-04:00.jpg"
+     alt="New York Times at 2022-10-18 17:24:39-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-18T17:24:38.041152-04:00.jpg">October 18 at 5:24 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-18T15:08:50.748813-04:00.jpg">
+  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-10-18T15:08:50.748813-04:00.jpg"
+     alt="New York Times at 2022-10-18 15:09:04-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-18T15:08:50.748813-04:00.jpg">October 18 at 3:09 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-18T08:53:52.727577-04:00.jpg">
   <img src="https://archive.org/download/nytimes-2022/nytimes-2022-10-18T08:53:52.727577-04:00.jpg"
      alt="New York Times at 2022-10-18 08:53:54-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-16T03:20:07.300744-04:00.jpg">October 16 at 3:20 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-15T17:21:01.864389-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-10-15T17:21:01.864389-04:00.jpg"
-     alt="New York Times at 2022-10-15 17:21:04-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-15T17:21:01.864389-04:00.jpg">October 15 at 5:21 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-15T15:19:58.143267-04:00.jpg">
-  <img src="https://archive.org/download/nytimes-2022/nytimes-2022-10-15T15:19:58.143267-04:00.jpg"
-     alt="New York Times at 2022-10-15 15:20:00-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/nytimes-2022/nytimes-2022-10-15T15:19:58.143267-04:00.jpg">October 15 at 3:20 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 1094 hyperlink lists with the Internet Archive.
+The archiving routine has saved 1096 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 5:24 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T17:24:38.041152-04:00.hyperlinks.json) |
+| [October 18 at 3:09 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T15:08:50.748813-04:00.hyperlinks.json) |
 | [October 18 at 8:53 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T08:53:52.727577-04:00.hyperlinks.json) |
 | [October 18 at 3:23 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T03:22:27.115358-04:00.hyperlinks.json) |
 | [October 17 at 5:21 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-17T17:20:48.922771-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 17 at 3:53 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-17T03:53:22.096396-04:00.hyperlinks.json) |
 | [October 16 at 5:22 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T17:21:51.574927-04:00.hyperlinks.json) |
 | [October 16 at 2:57 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T14:56:30.124998-04:00.hyperlinks.json) |
-| [October 16 at 8:51 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T08:50:52.880850-04:00.hyperlinks.json) |
-| [October 16 at 3:20 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T03:20:07.300744-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 1100 accessibility trees with the Internet Archive.
+The archiving routine has saved 1102 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 5:24 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T17:24:38.041152-04:00.accessibility.json) |
+| [October 18 at 3:09 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T15:08:50.748813-04:00.accessibility.json) |
 | [October 18 at 8:53 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T08:53:52.727577-04:00.accessibility.json) |
 | [October 18 at 3:23 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T03:22:27.115358-04:00.accessibility.json) |
 | [October 17 at 5:21 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-17T17:20:48.922771-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 17 at 3:53 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-17T03:53:22.096396-04:00.accessibility.json) |
 | [October 16 at 5:22 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T17:21:51.574927-04:00.accessibility.json) |
 | [October 16 at 2:57 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T14:56:30.124998-04:00.accessibility.json) |
-| [October 16 at 8:51 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T08:50:52.880850-04:00.accessibility.json) |
-| [October 16 at 3:20 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T03:20:07.300744-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 339 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 341 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 5:24 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T17:24:38.041152-04:00.lighthouse.json) |
+| [October 18 at 3:09 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T15:08:50.748813-04:00.lighthouse.json) |
 | [October 18 at 8:54 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T08:53:52.727577-04:00.lighthouse.json) |
 | [October 18 at 3:23 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-18T03:22:27.115358-04:00.lighthouse.json) |
 | [October 17 at 5:21 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-17T17:20:48.922771-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 17 at 3:53 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-17T03:53:22.096396-04:00.lighthouse.json) |
 | [October 16 at 5:22 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T17:21:51.574927-04:00.lighthouse.json) |
 | [October 16 at 2:57 PM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T14:56:30.124998-04:00.lighthouse.json) |
-| [October 16 at 8:51 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T08:50:52.880850-04:00.lighthouse.json) |
-| [October 16 at 3:20 AM](https://archive.org/download/nytimes-2022/nytimes-2022-10-16T03:20:07.300744-04:00.lighthouse.json) |
 
 
 

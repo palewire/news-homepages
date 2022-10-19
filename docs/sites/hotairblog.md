@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 268 screenshots with the Internet Archive.
+The archiving routine has saved 270 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T15:57:19.350893-04:00.jpg">
+  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T15:57:19.350893-04:00.jpg"
+     alt="HotAir at 2022-10-18 15:57:29-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T15:57:19.350893-04:00.jpg">October 18 at 3:57 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T13:31:50.416684-04:00.jpg">
+  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T13:31:50.416684-04:00.jpg"
+     alt="HotAir at 2022-10-18 13:32:01-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T13:31:50.416684-04:00.jpg">October 18 at 1:32 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T01:51:02.281265-04:00.jpg">
   <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T01:51:02.281265-04:00.jpg"
      alt="HotAir at 2022-10-18 01:51:07-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T02:22:55.812790-04:00.jpg">October 15 at 2:22 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-14T16:42:37.398407-04:00.jpg">
-  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-14T16:42:37.398407-04:00.jpg"
-     alt="HotAir at 2022-10-14 16:42:38-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-14T16:42:37.398407-04:00.jpg">October 14 at 4:42 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-14T14:12:54.823518-04:00.jpg">
-  <img src="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-14T14:12:54.823518-04:00.jpg"
-     alt="HotAir at 2022-10-14 14:13:14-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/hotairblog-2022/hotairblog-2022-10-14T14:12:54.823518-04:00.jpg">October 14 at 2:13 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 265 hyperlink lists with the Internet Archive.
+The archiving routine has saved 267 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 3:57 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T15:57:19.350893-04:00.hyperlinks.json) |
+| [October 18 at 1:32 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T13:31:50.416684-04:00.hyperlinks.json) |
 | [October 18 at 1:51 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T01:51:02.281265-04:00.hyperlinks.json) |
 | [October 17 at 4:28 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-17T16:28:14.749115-04:00.hyperlinks.json) |
 | [October 17 at 1:55 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-17T13:55:08.313767-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 16 at 1:24 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-16T13:24:30.795439-04:00.hyperlinks.json) |
 | [October 16 at 1:53 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-16T01:53:12.451858-04:00.hyperlinks.json) |
 | [October 15 at 4:03 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T16:03:39.273004-04:00.hyperlinks.json) |
-| [October 15 at 1:55 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T13:55:01.683684-04:00.hyperlinks.json) |
-| [October 15 at 2:23 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T02:22:55.812790-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 269 accessibility trees with the Internet Archive.
+The archiving routine has saved 271 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 3:57 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T15:57:19.350893-04:00.accessibility.json) |
+| [October 18 at 1:32 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T13:31:50.416684-04:00.accessibility.json) |
 | [October 18 at 1:51 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T01:51:02.281265-04:00.accessibility.json) |
 | [October 17 at 4:28 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-17T16:28:14.749115-04:00.accessibility.json) |
 | [October 17 at 1:55 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-17T13:55:08.313767-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 16 at 1:24 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-16T13:24:30.795439-04:00.accessibility.json) |
 | [October 16 at 1:53 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-16T01:53:12.451858-04:00.accessibility.json) |
 | [October 15 at 4:03 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T16:03:39.273004-04:00.accessibility.json) |
-| [October 15 at 1:55 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T13:55:01.683684-04:00.accessibility.json) |
-| [October 15 at 2:22 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T02:22:55.812790-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 251 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 252 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 3:57 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T15:57:19.350893-04:00.lighthouse.json) |
 | [October 18 at 1:51 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-18T01:51:02.281265-04:00.lighthouse.json) |
 | [October 17 at 4:28 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-17T16:28:14.749115-04:00.lighthouse.json) |
 | [October 17 at 1:55 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-17T13:55:08.313767-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 16 at 1:53 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-16T01:53:12.451858-04:00.lighthouse.json) |
 | [October 15 at 4:03 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T16:03:39.273004-04:00.lighthouse.json) |
 | [October 15 at 1:55 PM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T13:55:01.683684-04:00.lighthouse.json) |
-| [October 15 at 2:23 AM](https://archive.org/download/hotairblog-2022/hotairblog-2022-10-15T02:22:55.812790-04:00.lighthouse.json) |
 
 
 
