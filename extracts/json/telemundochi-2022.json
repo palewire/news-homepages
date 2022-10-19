@@ -1,5 +1,5 @@
 {
-  "created": 1666112398,
+  "created": 1666150895,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/20/items/telemundochi-2022",
@@ -14624,31 +14624,82 @@
       "sha1": "9ac218d0b6059bad2f7a4aa12469bee323023f43"
     },
     {
+      "name": "telemundochi-2022-10-18T22:40:23.987327-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666150827",
+      "size": "49111",
+      "md5": "9a16497ed549c5a0f143f5ff9df799ae",
+      "crc32": "bd45fd02",
+      "sha1": "442917a4ea9462c268099974a901c890d7e9a690",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-18T22:40:23.987327-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666150829",
+      "size": "56046",
+      "md5": "b3fe52a640af1f75c9052ea93500d9f9",
+      "crc32": "17f4f82c",
+      "sha1": "606d7b6127e9553361e001ebaad379e6222d626b",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-18T22:40:23.987327-05:00.jpg",
+      "source": "original",
+      "mtime": "1666150825",
+      "size": "285611",
+      "md5": "cf469db5bcace9b0ef25089283680858",
+      "crc32": "3705bcc3",
+      "sha1": "6446ce3f04a04e124b8dd4e8591433800f8b57de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telemundochi-2022-10-18T22:40:23.987327-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666150831",
+      "size": "1540",
+      "md5": "c9eaee246281167d8d99edac6de10785",
+      "crc32": "ea80be55",
+      "sha1": "e01bb5bc02ef2ee84c9e25a60bfc22f8f63ac6ee",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-18T22:40:23.987327-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666150833",
+      "size": "52041",
+      "md5": "9599e7d48669972e3b18b824e347bc9e",
+      "crc32": "bbeb69d9",
+      "sha1": "afe6e546bba8a685d301ab667975dbef52373c55",
+      "format": "JSON"
+    },
+    {
       "name": "telemundochi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ab352b934342f10ae8396b997dd082811e548670",
-      "mtime": "1666109672",
-      "size": "305338",
-      "md5": "b890c2343c19b6606d133e1cf2614936",
-      "crc32": "0a87aa96",
-      "sha1": "cf00e31a958a03a36246f801e468ad654eec3eb5",
+      "btih": "92a122121510a454dffed1d98834c288e059f4a3",
+      "mtime": "1666150891",
+      "size": "306421",
+      "md5": "28412055180f5d3cbb7da3c9a3df7f07",
+      "crc32": "74ed20d6",
+      "sha1": "e9e1714910e7ab095fd9fb7dc41367f4e049bfb3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telemundochi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "63edfd5af186a5a0ec80efd52227abea",
+      "md5": "ed5aba8efb3675310742808706b17a6c",
       "summation": "md5"
     },
     {
       "name": "telemundochi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666109566",
-      "size": "1814528",
-      "md5": "bc9095320fd52119b16e95da9077add1",
-      "crc32": "53aa0252",
-      "sha1": "37084168ae710498ecc279973c59f8b730dfcf9b",
+      "mtime": "1666150838",
+      "size": "1818624",
+      "md5": "ff660fadb36917458163de7c93328e6b",
+      "crc32": "a84c7061",
+      "sha1": "01e2150453ed931c57da249002291b10d6ba720a",
       "format": "Metadata"
     },
     {
@@ -14662,9 +14713,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1418,
-  "item_last_updated": 1666109672,
-  "item_size": 115834946,
+  "files_count": 1423,
+  "item_last_updated": 1666150891,
+  "item_size": 116284474,
   "metadata": {
     "identifier": "telemundochi-2022",
     "collection": [
@@ -14681,15 +14732,21 @@
     "publicdate": "2022-07-28 20:04:16",
     "addeddate": "2022-07-28 20:04:16"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "telemundochi-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 146061101,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445248183,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1879196111,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

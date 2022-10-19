@@ -1,5 +1,5 @@
 {
-  "created": 1666109672,
+  "created": 1666151208,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/tmz-2022",
@@ -11008,31 +11008,82 @@
       "sha1": "df85f526c98f10ce3fdf217acb8c8e7dbb119462"
     },
     {
+      "name": "tmz-2022-10-18T20:45:43.781808-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666151146",
+      "size": "88610",
+      "md5": "8b68b205894e3e07fbfdfd24c24cbe5c",
+      "crc32": "617bda30",
+      "sha1": "ffde3f2551f6fdb33ddd893dea4832be96e58b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-18T20:45:43.781808-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666151147",
+      "size": "75608",
+      "md5": "f63913880c612e0bf75e6174bd718850",
+      "crc32": "ff39f5f6",
+      "sha1": "d7e06a87925770f80f12b5da35d50d19adfdc527",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-18T20:45:43.781808-07:00.jpg",
+      "source": "original",
+      "mtime": "1666151145",
+      "size": "224875",
+      "md5": "a73d8e5c23594843c369764add3f84fb",
+      "crc32": "4b724992",
+      "sha1": "0a2f6a8ba4578788e5832ee55d729237981f3991",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tmz-2022-10-18T20:45:43.781808-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666151149",
+      "size": "1429",
+      "md5": "39f573e6337f176225dfe4132c9d21db",
+      "crc32": "b13f0e81",
+      "sha1": "4524d5b6f7c60e212026f8659ec261b9b56bde5a",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-18T20:45:43.781808-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666151151",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "tmz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1c9a28015e752e0ba77396b4699af1ce361092d9",
-      "mtime": "1666106371",
-      "size": "220714",
-      "md5": "e22fce65efeb21e6858c238ab0b815f7",
-      "crc32": "3332462f",
-      "sha1": "774ff608b422cdda652e7a853e2b5c8add425ed9",
+      "btih": "32e78a522ab1e69ba852c0412b5d85813d1de6e5",
+      "mtime": "1666151204",
+      "size": "221730",
+      "md5": "0f05aafd952735ddc6c9405cb722711d",
+      "crc32": "ebcd21dd",
+      "sha1": "bd3fe4149482a08f65897b6d74a37a8427aa552e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tmz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e30f1956e421f7ff7f3425cc504494d",
+      "md5": "77fbcc2197a50692591ea051e5a9a862",
       "summation": "md5"
     },
     {
       "name": "tmz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666106286",
-      "size": "1339392",
-      "md5": "55638383d55fef776ff1bf1afe7ca75a",
-      "crc32": "f62f5741",
-      "sha1": "9e2bb264ab443bf54e0d315075d680580ed1e1b6",
+      "mtime": "1666151158",
+      "size": "1347584",
+      "md5": "3fb9d4d33a4d5fb2934fc220574d97b3",
+      "crc32": "d4fa3ed0",
+      "sha1": "5d1cfa996e12b21c1666750ff6c72195e850f98d",
       "format": "Metadata"
     },
     {
@@ -11046,9 +11097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1067,
-  "item_last_updated": 1666106371,
-  "item_size": 96696342,
+  "files_count": 1072,
+  "item_last_updated": 1666151204,
+  "item_size": 97096274,
   "metadata": {
     "identifier": "tmz-2022",
     "collection": [
@@ -11065,14 +11116,21 @@
     "publicdate": "2022-07-18 04:19:31",
     "addeddate": "2022-07-18 04:19:31"
   },
-  "server": "ia801408.us.archive.org",
-  "tmz-2022": {
-    "url": "https://www.tmz.com/",
-    "job_id": "spn2-2bfc444999de5b2bad5ec32c15d795c1a9a222ef"
-  },
-  "uniq": 942724266,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445251266,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1360554645,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

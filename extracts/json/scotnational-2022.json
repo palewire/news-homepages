@@ -1,5 +1,5 @@
 {
-  "created": 1666106194,
+  "created": 1666150915,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/scotnational-2022",
@@ -15594,31 +15594,82 @@
       "sha1": "2b0a88475ee780053b010de8035777a712ffbd8e"
     },
     {
+      "name": "scotnational-2022-10-19T04:40:25.777385+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666150829",
+      "size": "29518",
+      "md5": "de4158361f85de4ed63e02b45c5eb396",
+      "crc32": "6dac720c",
+      "sha1": "497552c6fbbe6ed9c1c23027468bba559478e919",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-19T04:40:25.777385+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666150831",
+      "size": "48576",
+      "md5": "affd7314e948b9bedef0e56dd26c1c4b",
+      "crc32": "ca369830",
+      "sha1": "4496696323164646ca74946a96a8457356678e24",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-19T04:40:25.777385+01:00.jpg",
+      "source": "original",
+      "mtime": "1666150827",
+      "size": "249845",
+      "md5": "f27e30edabe8e0682a8d16b46f6b4561",
+      "crc32": "bfebb420",
+      "sha1": "7a135aa20853001f9f4757e938b789842f9a96f7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scotnational-2022-10-19T04:40:25.777385+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666150832",
+      "size": "1512",
+      "md5": "50d711b569b8695e3fb427953c57aa99",
+      "crc32": "b00275ec",
+      "sha1": "f3206958b8e1837b9ad47825e8dc47ac7057fe3f",
+      "format": "JSON"
+    },
+    {
+      "name": "scotnational-2022-10-19T04:40:25.777385+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666150834",
+      "size": "81703",
+      "md5": "d682658f15263b34e01a76ad7459c246",
+      "crc32": "501c4876",
+      "sha1": "b81c889c339c06d7b1225b91d4002c8ebc454f7f",
+      "format": "JSON"
+    },
+    {
       "name": "scotnational-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41bee93d5ca1b7d81305553a673500acd8e45600",
-      "mtime": "1666106139",
-      "size": "324161",
-      "md5": "ba20a2e38b805454110c3eb63cb0684d",
-      "crc32": "2c91551f",
-      "sha1": "c7d6770806d43b283809e0f17de742f9f04e5ae3",
+      "btih": "347709b3878f8bd40b4864458271ef1bee411e6f",
+      "mtime": "1666150905",
+      "size": "325244",
+      "md5": "c2e9bf85d3c9fc2b585258529ae0e7a7",
+      "crc32": "0a2529c1",
+      "sha1": "d438138cc24092559f9c9a0600198c396fd8ef92",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotnational-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2fe0ce1a5c898e2037882f7115ea688",
+      "md5": "ba90cc269d8474d245f9c568d5ef0cf5",
       "summation": "md5"
     },
     {
       "name": "scotnational-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666105943",
-      "size": "1904640",
-      "md5": "151b1ecd37361a4b3d8fc5f85ea62fdc",
-      "crc32": "0fe8b0a3",
-      "sha1": "78e9695880ee402c70b053df6cf3c836856487fa",
+      "mtime": "1666150846",
+      "size": "1912832",
+      "md5": "bc8103373ebe26aeb6f75b417ea5e3c0",
+      "crc32": "fc9835bc",
+      "sha1": "f49ff899fe681a31d67d23de6d359f238c563ac2",
       "format": "Metadata"
     },
     {
@@ -15632,9 +15683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1509,
-  "item_last_updated": 1666106139,
-  "item_size": 108583926,
+  "files_count": 1514,
+  "item_last_updated": 1666150905,
+  "item_size": 109004355,
   "metadata": {
     "identifier": "scotnational-2022",
     "collection": [
@@ -15651,10 +15702,21 @@
     "publicdate": "2022-07-06 21:13:16",
     "addeddate": "2022-07-06 21:13:16"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 1941321784,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445248362,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1792169059,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

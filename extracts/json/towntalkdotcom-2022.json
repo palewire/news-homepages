@@ -1,5 +1,5 @@
 {
-  "created": 1666106614,
+  "created": 1666151156,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/towntalkdotcom-2022",
@@ -3488,31 +3488,82 @@
       "sha1": "f0a366822ce21add1ac88e18d7e1376c636bc2d4"
     },
     {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666151109",
+      "size": "20801",
+      "md5": "27a7a3d73c1c559cfa14b6152cc0c3f0",
+      "crc32": "7af2b023",
+      "sha1": "46fe100893fe3bae4a302361bc32a3a924d0a817",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666151111",
+      "size": "31957",
+      "md5": "2ef533a72eed3bcc05b0d1c5cbd6ced2",
+      "crc32": "33dcab87",
+      "sha1": "adbf5fa94fa56a55915d952bf82277588ff5230d",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.jpg",
+      "source": "original",
+      "mtime": "1666151107",
+      "size": "271860",
+      "md5": "c7965a3c1c787b29be0ed10c6dbdf113",
+      "crc32": "f82a93e1",
+      "sha1": "b651ab10ea5d16f7942808b02a485da380b0bef3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666151112",
+      "size": "1504",
+      "md5": "03e931a11cf8d15a488992d86b2dea43",
+      "crc32": "7ab01292",
+      "sha1": "4a18210827a1505651482b578e328970111d5965",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666151114",
+      "size": "94620",
+      "md5": "9d3c0eee25e626167b1b6008bd18dabf",
+      "crc32": "63b4b519",
+      "sha1": "b2dd2b423031445f2fee99eace09b17f8380db4b",
+      "format": "JSON"
+    },
+    {
       "name": "towntalkdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0e06fde94a1573b07f3fc4f32bfa2442aa79bd9",
-      "mtime": "1666106561",
-      "size": "74267",
-      "md5": "25256333487494d266833e63b92031dd",
-      "crc32": "13a03892",
-      "sha1": "8a1b948bf4c49098a411446544dfdd5bf6c4f5d1",
+      "btih": "b18d2288ec7f4becef98258f636211bc95fe2fb3",
+      "mtime": "1666151152",
+      "size": "75360",
+      "md5": "48fbdfe80caed91b62605d6c3bdfe177",
+      "crc32": "634c63cb",
+      "sha1": "5d8db4f2b3820039f3e987b6c1168678a050a89b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "towntalkdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4d281ee6fd7fbe6587bd9bcd870e6f3",
+      "md5": "6c8c5904702e581fa68a82a755e01cdb",
       "summation": "md5"
     },
     {
       "name": "towntalkdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666106283",
-      "size": "450560",
-      "md5": "8603215dd839d4c1eb4262c37409bb2d",
-      "crc32": "69f0f395",
-      "sha1": "fcfb50dd73141c5f018f618cc112e463fec874a4",
+      "mtime": "1666151117",
+      "size": "458752",
+      "md5": "8626b4f7fa35eaceaeef156ac32ae8d4",
+      "crc32": "c56762e7",
+      "sha1": "9750a2dd302fdd2c1adb81ea5f78b475f40fea66",
       "format": "Metadata"
     },
     {
@@ -3526,9 +3577,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 341,
-  "item_last_updated": 1666106561,
-  "item_size": 21011093,
+  "files_count": 346,
+  "item_last_updated": 1666151152,
+  "item_size": 21441120,
   "metadata": {
     "identifier": "towntalkdotcom-2022",
     "collection": [
@@ -3545,10 +3596,21 @@
     "publicdate": "2022-09-21 03:46:13",
     "addeddate": "2022-09-21 03:46:13"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1206578203,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445250794,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 449563061,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

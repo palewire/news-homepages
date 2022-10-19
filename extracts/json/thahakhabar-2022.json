@@ -1,5 +1,5 @@
 {
-  "created": 1666106010,
+  "created": 1666150953,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/12/items/thahakhabar-2022",
@@ -9710,31 +9710,82 @@
       "sha1": "7671294434be2ee80d0550ca4e5bd46c22b8a838"
     },
     {
+      "name": "thahakhabar-2022-10-19T09:26:16.830105+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666150886",
+      "size": "80422",
+      "md5": "a77014c6a134bc51677e6ed98de8a323",
+      "crc32": "91b2d7de",
+      "sha1": "b16f8b63600b3a8099f8084774f87567ae47bd78",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-19T09:26:16.830105+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666150887",
+      "size": "53121",
+      "md5": "219ba4f3719f67b7201272e1ab787f4e",
+      "crc32": "01d14990",
+      "sha1": "88d87bd6006657a1c891f62d7d4cab8d51d6fa76",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-19T09:26:16.830105+05:45.jpg",
+      "source": "original",
+      "mtime": "1666150883",
+      "size": "257825",
+      "md5": "fde1c6a4447b0ade22f2455bc63b987e",
+      "crc32": "b4b6629e",
+      "sha1": "310ee36450960b1d1c433b3ff60eb5304417930c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thahakhabar-2022-10-19T09:26:16.830105+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666150889",
+      "size": "1504",
+      "md5": "21501bb3b29a07da9a83f24794e404ca",
+      "crc32": "ce08fb06",
+      "sha1": "1487dfbbb3b6ac536ddd5bb65202f957b5c07831",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-19T09:26:16.830105+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666150890",
+      "size": "19932",
+      "md5": "997333854882b6e1cc8cbacfde8220c5",
+      "crc32": "4ab5d658",
+      "sha1": "3ba0c9ab2eacc6fa8b88a33f206077b3e18f8451",
+      "format": "JSON"
+    },
+    {
       "name": "thahakhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "366f720ad005b6859d175dd18ca8b47216603b4f",
-      "mtime": "1666105986",
-      "size": "201123",
-      "md5": "65f8602269eddfe3a3b711d41822ce2a",
-      "crc32": "8c04ffe3",
-      "sha1": "5a5b5b17a9926ca0813a85d9b354522f7656fca1",
+      "btih": "3fee30ff51cad4ec99ae1cf628854519f8404c89",
+      "mtime": "1666150947",
+      "size": "202201",
+      "md5": "e4830dd71e04e8546542a9a8aad3276d",
+      "crc32": "b0a93b37",
+      "sha1": "41c17e128ab90ad1d019843ea571156ffe3b6510",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thahakhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0bb7788d86a3f8437539f62166f6c9e",
+      "md5": "ad0fdfb2bcb88dd36666172107daed01",
       "summation": "md5"
     },
     {
       "name": "thahakhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666105907",
-      "size": "1183744",
-      "md5": "d5abc916c0df59c08629fd6af27de1d0",
-      "crc32": "51377680",
-      "sha1": "bb56f135829c98b3830809a67b8db0f2bbb36b32",
+      "mtime": "1666150899",
+      "size": "1191936",
+      "md5": "8e3a926d9f77fc3ec1b6a38b7c29782d",
+      "crc32": "dc1b04ca",
+      "sha1": "7bcec119d8ac856bedb7d0ee9742eacdc37cfe2f",
       "format": "Metadata"
     },
     {
@@ -9748,9 +9799,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 940,
-  "item_last_updated": 1666105986,
-  "item_size": 65674003,
+  "files_count": 945,
+  "item_last_updated": 1666150947,
+  "item_size": 66096077,
   "metadata": {
     "identifier": "thahakhabar-2022",
     "collection": [
@@ -9767,10 +9818,21 @@
     "publicdate": "2022-07-24 20:39:40",
     "addeddate": "2022-07-24 20:39:40"
   },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 1118245516,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445248697,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1646931687,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }

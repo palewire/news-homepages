@@ -1,5 +1,5 @@
 {
-  "created": 1666112386,
+  "created": 1666150949,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/3/items/suntimes-2022",
@@ -19330,31 +19330,82 @@
       "sha1": "7d17edf60519055bb3050cc92a40c4ea80f1bca3"
     },
     {
+      "name": "suntimes-2022-10-18T22:40:54.818475-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666150877",
+      "size": "38622",
+      "md5": "f8b306d19cce6841995dc2f013735830",
+      "crc32": "b04abb82",
+      "sha1": "8da04f71b3370cfa81ff85d1191f93cda7f94d6d",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-10-18T22:40:54.818475-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666150879",
+      "size": "55099",
+      "md5": "5b83ea3b8f310bfaed760cc2381a3122",
+      "crc32": "e2f1ffbd",
+      "sha1": "a5998571f07a82980dd3eba3e9e87eeb86d66ddc",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-10-18T22:40:54.818475-05:00.jpg",
+      "source": "original",
+      "mtime": "1666150875",
+      "size": "254637",
+      "md5": "356a1f74ea0d0f80333c59d7d635fab4",
+      "crc32": "c984a6e9",
+      "sha1": "d2e4b192589b57889c35be481c659675c973cf91",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "suntimes-2022-10-18T22:40:54.818475-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666150880",
+      "size": "1504",
+      "md5": "3aa2dd3c74374d9843c66127427c7493",
+      "crc32": "cd4255d3",
+      "sha1": "20df46b17646586711247d3f2d07adc90412e9cf",
+      "format": "JSON"
+    },
+    {
+      "name": "suntimes-2022-10-18T22:40:54.818475-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666150882",
+      "size": "61979",
+      "md5": "5c7ec09438a0c5fe203e8788eb3d2975",
+      "crc32": "e32ee73a",
+      "sha1": "a40f6204dd838baecd797e875549532375cbab33",
+      "format": "JSON"
+    },
+    {
       "name": "suntimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0923323ff5ad8a508e45b1727e4e7818ea1f077b",
-      "mtime": "1666109720",
-      "size": "393312",
-      "md5": "262d8c534d81fa423f94037d8a83fe71",
-      "crc32": "a3a34900",
-      "sha1": "e6430467d640ec3b8450de4a0a273a20cd829ac2",
+      "btih": "6ecebe49ad4e385677171cf15183060e24824888",
+      "mtime": "1666150944",
+      "size": "394355",
+      "md5": "ebe98ca1840e2a1c2a73efa7ab2dd1f6",
+      "crc32": "cfd9f4ea",
+      "sha1": "75c8147562f44ea83fecb3bcf26fe9179584225c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "suntimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "184f0580363e5b361b2e0be5ac358977",
+      "md5": "edd5a26307ea79b0475e297aee185529",
       "summation": "md5"
     },
     {
       "name": "suntimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666109548",
-      "size": "2314240",
-      "md5": "21af6ae3d98b3a0524142a1849ef6360",
-      "crc32": "3558cc8f",
-      "sha1": "002c27688322ced1a52c688eee8f57d31e5f0f59",
+      "mtime": "1666150886",
+      "size": "2322432",
+      "md5": "dbbd6db7705d9ca3bfb382480506f83a",
+      "crc32": "725ff1f9",
+      "sha1": "6250411c42b44b86dbef3ef3fe3e1a7b20b026c1",
       "format": "Metadata"
     },
     {
@@ -19368,9 +19419,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1867,
-  "item_last_updated": 1666109720,
-  "item_size": 132038778,
+  "files_count": 1872,
+  "item_last_updated": 1666150944,
+  "item_size": 132459854,
   "metadata": {
     "identifier": "suntimes-2022",
     "collection": [
@@ -19387,15 +19438,21 @@
     "publicdate": "2022-06-24 23:02:19",
     "addeddate": "2022-06-24 23:02:19"
   },
+  "pending_tasks": true,
   "server": "ia902503.us.archive.org",
-  "suntimes-2022": {
-    "url": "https://chicago.suntimes.com/",
-    "job_id": "spn2-e47350cbd559d97c0e1d2ceba8a9b8d3cec23870",
-    "message": "The same snapshot had been made 21 minutes, 53 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
-  "uniq": 1639097366,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445248658,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 936776730,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia902503.us.archive.org"
   ]
 }

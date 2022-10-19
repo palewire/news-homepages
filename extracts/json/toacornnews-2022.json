@@ -1,5 +1,5 @@
 {
-  "created": 1666123124,
+  "created": 1666151231,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/29/items/toacornnews-2022",
@@ -20278,31 +20278,82 @@
       "sha1": "32435781e300b5940a242ea5ac54416b5fcb45f7"
     },
     {
+      "name": "toacornnews-2022-10-18T20:44:52.292044-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666151107",
+      "size": "43638",
+      "md5": "aea2685618d9c4dfb9b6028082e20fd7",
+      "crc32": "2247877b",
+      "sha1": "fbb6c1af1cfa846cdaf0f10cfe3a7dc738e28fe9",
+      "format": "JSON"
+    },
+    {
+      "name": "toacornnews-2022-10-18T20:44:52.292044-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666151109",
+      "size": "34440",
+      "md5": "641225bd8d205c1d5edcbe07b7385ce8",
+      "crc32": "d68a967d",
+      "sha1": "41ab90a3c732c99f231f719b6ade626f01ff82fa",
+      "format": "JSON"
+    },
+    {
+      "name": "toacornnews-2022-10-18T20:44:52.292044-07:00.jpg",
+      "source": "original",
+      "mtime": "1666151105",
+      "size": "322609",
+      "md5": "11ee6a29ebf95f4a0bc0cd6b57c80008",
+      "crc32": "f602e7d9",
+      "sha1": "1186edf5932dab84a8cf15d162561d8c09d81b5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "toacornnews-2022-10-18T20:44:52.292044-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666151111",
+      "size": "1468",
+      "md5": "ae1fec6ecf433b641ae609e27d9dd192",
+      "crc32": "dc878165",
+      "sha1": "b0ff896a5566fbfcd5ce680085a5468f69584f71",
+      "format": "JSON"
+    },
+    {
+      "name": "toacornnews-2022-10-18T20:44:52.292044-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666151118",
+      "size": "24042",
+      "md5": "b9b97f74d1a25b08496f3e05adbf6a35",
+      "crc32": "92035825",
+      "sha1": "2304c8295d98593a978e236bfc0d987f5b8bf9c2",
+      "format": "JSON"
+    },
+    {
       "name": "toacornnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c925da2cc06a99ccba0fd60952ed57f3dfb9a1fb",
-      "mtime": "1666123087",
-      "size": "419445",
-      "md5": "4b7956b6426ebaa99ae345db66e79c8d",
-      "crc32": "1f56af36",
-      "sha1": "6d22ed13d3e1718fe42ed5e404cff407f145e2e0",
+      "btih": "91b41face9f722919b1b524cfc361d3ab57e9ae9",
+      "mtime": "1666151207",
+      "size": "420523",
+      "md5": "f7dfcaf52883d3320c69fa862a0dcaa1",
+      "crc32": "a7459434",
+      "sha1": "5a46fd2ac254896e214cbd09e2b937cde47c37d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "toacornnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3b3bb5e10a1169884968bfe21b99890",
+      "md5": "b6856a932e5b63ba59eabf6077a6ad30",
       "summation": "md5"
     },
     {
       "name": "toacornnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666122895",
-      "size": "2437120",
-      "md5": "bb968b008c69d01b651743cdaf6ebff5",
-      "crc32": "90e92959",
-      "sha1": "cb0a37a96b155f1a25c72754ed1ab77aa351fc92",
+      "mtime": "1666151136",
+      "size": "2445312",
+      "md5": "08c61c0276036b209eb5d976064b3b24",
+      "crc32": "f14a8f2b",
+      "sha1": "b4f61f3bf4c12514fa4f0b0fd8321943c5a6f0cc",
       "format": "Metadata"
     },
     {
@@ -20316,9 +20367,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1957,
-  "item_last_updated": 1666123087,
-  "item_size": 166069794,
+  "files_count": 1962,
+  "item_last_updated": 1666151207,
+  "item_size": 166505261,
   "metadata": {
     "identifier": "toacornnews-2022",
     "collection": [
@@ -20335,10 +20386,21 @@
     "publicdate": "2022-06-19 23:29:35",
     "addeddate": "2022-06-19 23:29:35"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 2077271839,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445251446,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 94056029,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

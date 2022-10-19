@@ -1,5 +1,5 @@
 {
-  "created": 1666105972,
+  "created": 1666150902,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/studyfindsorg-2022",
@@ -6816,31 +6816,82 @@
       "sha1": "555363fd11119d9839f6dc3cfd443e5a6cef1a93"
     },
     {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666150845",
+      "size": "29583",
+      "md5": "29dcee28250fbdd15df0309e6ab0055e",
+      "crc32": "98b2e2eb",
+      "sha1": "ea359c5d2e0b2e61a947ddbbd95d466502ed605d",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666150847",
+      "size": "33569",
+      "md5": "5aa63e9c3b46d73f42f8c56f69732234",
+      "crc32": "a60e7cb3",
+      "sha1": "b81eca1483ef5b82a01deb672944348a888a502a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.jpg",
+      "source": "original",
+      "mtime": "1666150843",
+      "size": "279654",
+      "md5": "f662cb1a28ec513ac9ac04c6ca34d655",
+      "crc32": "fc199571",
+      "sha1": "52ec219a362086eb064f15e26ae3e34219dab9c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666150849",
+      "size": "1459",
+      "md5": "d47aa4e581e6d726aa6e41f34d538d60",
+      "crc32": "39a30115",
+      "sha1": "e07487b21d5525b0b50cf78c31552471b600c2e5",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666150851",
+      "size": "35258",
+      "md5": "d1e2fcc0419531a18a973dad051be865",
+      "crc32": "18bd9191",
+      "sha1": "636873f3d8d57df0b90903dbac730d2dc8d91dcd",
+      "format": "JSON"
+    },
+    {
       "name": "studyfindsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0481b6fc712121ff7e901cde159618cd9e6f583",
-      "mtime": "1666105962",
-      "size": "143302",
-      "md5": "57225bc155e801d7c657784f2b725c49",
-      "crc32": "ca4a37f5",
-      "sha1": "c83845c8cf65f239a3d95054674f50def6c15fa0",
+      "btih": "27d72e9aff5a2052be78eba592250c5668f760c5",
+      "mtime": "1666150896",
+      "size": "144390",
+      "md5": "70548a63be7340e277cf7a0437ba9141",
+      "crc32": "14340085",
+      "sha1": "aec77e0878de04f60901c52c5ad5cb0614311bf9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "studyfindsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "96a0bb162e6d6c789ba3287b0921904f",
+      "md5": "488dc0e9c2ce315103534146b0ef6ce4",
       "summation": "md5"
     },
     {
       "name": "studyfindsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666105905",
-      "size": "860160",
-      "md5": "fa833261f3a836bd793ff249456e038b",
-      "crc32": "b1fbd6c0",
-      "sha1": "0f556323d594867e901936f8dc6fc37c9fc9ddb0",
+      "mtime": "1666150855",
+      "size": "868352",
+      "md5": "c1bb6ef2c9c5056398d53cf2f45c724e",
+      "crc32": "ab03010e",
+      "sha1": "90e5a35f92824848b6643840fd9ffbda9ae47c27",
       "format": "Metadata"
     },
     {
@@ -6854,9 +6905,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 663,
-  "item_last_updated": 1666105962,
-  "item_size": 43129811,
+  "files_count": 668,
+  "item_last_updated": 1666150896,
+  "item_size": 43518614,
   "metadata": {
     "identifier": "studyfindsorg-2022",
     "collection": [
@@ -6873,10 +6924,21 @@
     "publicdate": "2022-08-23 12:58:38",
     "addeddate": "2022-08-23 12:58:38"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1014991765,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445248251,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1863387327,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

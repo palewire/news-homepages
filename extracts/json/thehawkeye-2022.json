@@ -1,5 +1,5 @@
 {
-  "created": 1666106156,
+  "created": 1666151024,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/thehawkeye-2022",
@@ -4232,31 +4232,72 @@
       "sha1": "a79c2beed388ac6587052fdd94e06d8800c07afe"
     },
     {
+      "name": "thehawkeye-2022-10-18T22:42:40.282920-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666150965",
+      "size": "24642",
+      "md5": "b33622811657c9d76e71311655c9dc94",
+      "crc32": "38656eff",
+      "sha1": "ad5dcaf3eb2ea31c04d349482ebc522786555742",
+      "format": "JSON"
+    },
+    {
+      "name": "thehawkeye-2022-10-18T22:42:40.282920-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666150967",
+      "size": "32740",
+      "md5": "96e68b7ecf9982f601383a3fb811c388",
+      "crc32": "5b91a7f0",
+      "sha1": "e87cdcd5be1e23ab839254afe144f5ec711de781",
+      "format": "JSON"
+    },
+    {
+      "name": "thehawkeye-2022-10-18T22:42:40.282920-05:00.jpg",
+      "source": "original",
+      "mtime": "1666150964",
+      "size": "277239",
+      "md5": "3755000bd45bc4d1b0c274d3f6713671",
+      "crc32": "cff396a3",
+      "sha1": "5abeef8fb76f0eac8159dc09698dcabf4addd17f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehawkeye-2022-10-18T22:42:40.282920-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666150969",
+      "size": "1495",
+      "md5": "a11f3701b9e87758010e7a9965183830",
+      "crc32": "3dc692bd",
+      "sha1": "c2a5acd4d2b1512c34aacbb0d53d0c5326107dfd",
+      "format": "JSON"
+    },
+    {
       "name": "thehawkeye-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e0de5680400eadeacc6b5ad1ed5e19cc4d93357",
-      "mtime": "1666106144",
-      "size": "88241",
-      "md5": "9d309c5ce95fe1631b33f7ebdcdf3243",
-      "crc32": "a13a9c2b",
-      "sha1": "b5a0ec45f0345d5fa875f1ae4cb631a10c40da17",
+      "btih": "727bbe0ba1490706249eb65c5d58aa0371ef3d09",
+      "mtime": "1666151020",
+      "size": "89104",
+      "md5": "b4a1e2af2154477a34b343555047001f",
+      "crc32": "38a5bab0",
+      "sha1": "c994fd9b2ccb0cb8aff2246f638684eabb3b69ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehawkeye-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94fe9fea6f628b4af5664df220273cff",
+      "md5": "95f3997ef96eac2245976816264f89c8",
       "summation": "md5"
     },
     {
       "name": "thehawkeye-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666106088",
-      "size": "540672",
-      "md5": "fed459377c202a0f3cc32271d8d8bf9e",
-      "crc32": "3a65b955",
-      "sha1": "1508bf29caf86911669fb3db072dad26ff3cc655",
+      "mtime": "1666150978",
+      "size": "544768",
+      "md5": "c6581c952014064747d03ff6b859aa38",
+      "crc32": "b8e47dd9",
+      "sha1": "c9d357ea996c785b5e18eb79de7575c469cb2edd",
       "format": "Metadata"
     },
     {
@@ -4270,9 +4311,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 413,
-  "item_last_updated": 1666106144,
-  "item_size": 27074674,
+  "files_count": 417,
+  "item_last_updated": 1666151020,
+  "item_size": 27415749,
   "metadata": {
     "identifier": "thehawkeye-2022",
     "collection": [
@@ -4289,10 +4330,21 @@
     "publicdate": "2022-09-21 03:44:47",
     "addeddate": "2022-09-21 03:44:47"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1834787563,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445249626,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 839341532,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

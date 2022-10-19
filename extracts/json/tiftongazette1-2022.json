@@ -1,5 +1,5 @@
 {
-  "created": 1666106421,
+  "created": 1666151184,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/tiftongazette1-2022",
@@ -10326,31 +10326,82 @@
       "sha1": "dec1ac666a9d4b603d57aad075338ef07efb174e"
     },
     {
+      "name": "tiftongazette1-2022-10-18T23:44:59.438817-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666151103",
+      "size": "41404",
+      "md5": "25202e642934971183180acb81c78663",
+      "crc32": "0c185cf3",
+      "sha1": "fe6df5a873c9862a045f52cbca112784057aa814",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-10-18T23:44:59.438817-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666151105",
+      "size": "47685",
+      "md5": "2850c246f2e8e97caa75b7f8c6bb7c4a",
+      "crc32": "d8a690da",
+      "sha1": "662e2a7b6b9719d78678edaa9a09f0fa1a96e355",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-10-18T23:44:59.438817-04:00.jpg",
+      "source": "original",
+      "mtime": "1666151101",
+      "size": "327508",
+      "md5": "1bddf5adb9b35feb732a71eea25cca47",
+      "crc32": "8d5e4ac8",
+      "sha1": "30e37e2753dccba908f637e177231bdef0c2f086",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tiftongazette1-2022-10-18T23:44:59.438817-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666151107",
+      "size": "1522",
+      "md5": "09fda14f7a1aa393d5818c52f3e0b083",
+      "crc32": "4e8cac00",
+      "sha1": "333aa817882798251630e8b746ec655fb0d29c51",
+      "format": "JSON"
+    },
+    {
+      "name": "tiftongazette1-2022-10-18T23:44:59.438817-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666151108",
+      "size": "93423",
+      "md5": "4d060f82159d5c0c2e298091e1229f20",
+      "crc32": "05a8f38e",
+      "sha1": "ca583b57f163e1238615bd0fe791e2858b6f09f9",
+      "format": "JSON"
+    },
+    {
       "name": "tiftongazette1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a80e160395dedb69178347f4334a2e63524843e7",
-      "mtime": "1666106385",
-      "size": "217120",
-      "md5": "5d5eb416afb9bfc31f2f7cb03d3289a7",
-      "crc32": "6f3bf61c",
-      "sha1": "7eda5308d97242d15f860e30629459f656496598",
+      "btih": "899728e1d39e2d97a4ed5adbe35ee201ff8cf7d3",
+      "mtime": "1666151180",
+      "size": "218213",
+      "md5": "35e0385b991ddf7f86fd4fbdc11c9e58",
+      "crc32": "a3bbf6b9",
+      "sha1": "6e56378fe3095723ce4ea8dfb93058891e886312",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tiftongazette1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b10eff3bb956d7036dc98eb4c3d501f9",
+      "md5": "40c1a3c2547eea523fa5bcf086ae5588",
       "summation": "md5"
     },
     {
       "name": "tiftongazette1-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666106268",
-      "size": "1269760",
-      "md5": "3f185f0b294c44eef27ed68fda4e7e7f",
-      "crc32": "5b146472",
-      "sha1": "bec0197e1fd39cd6252a9d9f3ca68b1303a260ba",
+      "mtime": "1666151122",
+      "size": "1277952",
+      "md5": "1fe07302e976ca9834fafd4e8df7f789",
+      "crc32": "83830e77",
+      "sha1": "50406d26c4d859d198c73e397ade6dde691c09e0",
       "format": "Metadata"
     },
     {
@@ -10364,9 +10415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1000,
-  "item_last_updated": 1666106385,
-  "item_size": 79520066,
+  "files_count": 1005,
+  "item_last_updated": 1666151180,
+  "item_size": 80040893,
   "metadata": {
     "identifier": "tiftongazette1-2022",
     "collection": [
@@ -10383,10 +10434,21 @@
     "publicdate": "2022-07-20 23:31:20",
     "addeddate": "2022-07-20 23:31:20"
   },
+  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "uniq": 1506768806,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445251067,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1623698546,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia902506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666106295,
+  "created": 1666151048,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/17/items/theatlantic-2022",
@@ -13618,31 +13618,82 @@
       "sha1": "6a85955be2a4c69174be8469181e6d27ac522ee9"
     },
     {
+      "name": "theatlantic-2022-10-18T23:42:42.921246-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666150966",
+      "size": "27062",
+      "md5": "3799513229256c69110eac92b3b44b9b",
+      "crc32": "02245455",
+      "sha1": "47e748c208148f7306b6a5bf31cf72ef90a761f7",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-10-18T23:42:42.921246-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666150968",
+      "size": "30835",
+      "md5": "79454272eedb98640e7eda2f073022e2",
+      "crc32": "f14e941b",
+      "sha1": "23b73c5400e6112eadc93c9c56cb731bdbc64be2",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-10-18T23:42:42.921246-04:00.jpg",
+      "source": "original",
+      "mtime": "1666150964",
+      "size": "292327",
+      "md5": "8dbb17110bb2ee8c505e43cddc0f1294",
+      "crc32": "41280347",
+      "sha1": "2c090ff93bec6706bb2d101a675343e6201343ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theatlantic-2022-10-18T23:42:42.921246-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666150970",
+      "size": "1504",
+      "md5": "8c5f6790fd60bea47b033109c4e988b8",
+      "crc32": "48f359b8",
+      "sha1": "bab6c0a7f8eed821bda48da351a1e54590e38ae2",
+      "format": "JSON"
+    },
+    {
+      "name": "theatlantic-2022-10-18T23:42:42.921246-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666150972",
+      "size": "58624",
+      "md5": "18ba6ea564fd6b4778be7462137c7cd9",
+      "crc32": "aaa04770",
+      "sha1": "7470db009c74754a2cc2e165ee0225b4c8436d92",
+      "format": "JSON"
+    },
+    {
       "name": "theatlantic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6666c8fa36e350ece703b4bf2f9cef158769e709",
-      "mtime": "1666106267",
-      "size": "281490",
-      "md5": "c49415afc23acec455399c7dccf66a77",
-      "crc32": "45b19c9c",
-      "sha1": "bc13f9dd7059880fc8c0641879dfdb407d872827",
+      "btih": "8406e7cd359a8cf53604981c7cfd9589f0f01547",
+      "mtime": "1666151038",
+      "size": "282568",
+      "md5": "2d9bc7d1117c4887978449949192de72",
+      "crc32": "06b7ad71",
+      "sha1": "da717de4025e69a58764aee497a99439102cbe39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theatlantic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "525012d0ddb928467d19bf0462c96b8d",
+      "md5": "be423e94affb94ced2aba5d05bac1faa",
       "summation": "md5"
     },
     {
       "name": "theatlantic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666106128",
-      "size": "1642496",
-      "md5": "2a5607266da870858bcf6cac4843fdb6",
-      "crc32": "bfb28cd3",
-      "sha1": "5e4829e33571269dc83d404eb697c88c61bba19f",
+      "mtime": "1666150978",
+      "size": "1650688",
+      "md5": "8cec1503f78833e702d36a80ab51d9a1",
+      "crc32": "a86f7897",
+      "sha1": "f49e3884321f1461475afb232f107f1bf4eb688e",
       "format": "Metadata"
     },
     {
@@ -13656,9 +13707,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1316,
-  "item_last_updated": 1666106267,
-  "item_size": 94376933,
+  "files_count": 1321,
+  "item_last_updated": 1666151038,
+  "item_size": 94796555,
   "metadata": {
     "identifier": "theatlantic-2022",
     "collection": [
@@ -13675,10 +13726,21 @@
     "publicdate": "2022-06-24 23:01:58",
     "addeddate": "2022-06-24 23:01:58"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1593002732,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445249831,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 421044229,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }
