@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 178 screenshots with the Internet Archive.
+The archiving routine has saved 180 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-19T03:27:52.482639-04:00.jpg">
+  <img src="https://archive.org/download/wabenews-2022/wabenews-2022-10-19T03:27:52.482639-04:00.jpg"
+     alt="WABE News at 2022-10-19 03:28:11-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-19T03:27:52.482639-04:00.jpg">October 19 at 3:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-18T15:52:35.773476-04:00.jpg">
+  <img src="https://archive.org/download/wabenews-2022/wabenews-2022-10-18T15:52:35.773476-04:00.jpg"
+     alt="WABE News at 2022-10-18 15:52:54-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-18T15:52:35.773476-04:00.jpg">October 18 at 3:52 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-18T03:20:49.103539-04:00.jpg">
   <img src="https://archive.org/download/wabenews-2022/wabenews-2022-10-18T03:20:49.103539-04:00.jpg"
      alt="WABE News at 2022-10-18 03:21:04-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-13T16:18:37.684773-04:00.jpg">October 13 at 4:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-13T03:28:56.688534-04:00.jpg">
-  <img src="https://archive.org/download/wabenews-2022/wabenews-2022-10-13T03:28:56.688534-04:00.jpg"
-     alt="WABE News at 2022-10-13 03:29:16-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-13T03:28:56.688534-04:00.jpg">October 13 at 3:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-12T14:52:16.244677-04:00.jpg">
-  <img src="https://archive.org/download/wabenews-2022/wabenews-2022-10-12T14:52:16.244677-04:00.jpg"
-     alt="WABE News at 2022-10-12 14:52:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/wabenews-2022/wabenews-2022-10-12T14:52:16.244677-04:00.jpg">October 12 at 2:52 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 178 hyperlink lists with the Internet Archive.
+The archiving routine has saved 180 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 3:28 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-19T03:27:52.482639-04:00.hyperlinks.json) |
+| [October 18 at 3:52 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-18T15:52:35.773476-04:00.hyperlinks.json) |
 | [October 18 at 3:21 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-18T03:20:49.103539-04:00.hyperlinks.json) |
 | [October 17 at 4:09 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-17T16:08:59.882667-04:00.hyperlinks.json) |
 | [October 17 at 3:49 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-17T03:49:48.916350-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 3:56 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-15T15:56:44.941765-04:00.hyperlinks.json) |
 | [October 15 at 4:01 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-15T04:01:22.764229-04:00.hyperlinks.json) |
 | [October 14 at 4:37 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-14T16:36:56.332679-04:00.hyperlinks.json) |
-| [October 14 at 4:10 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-14T04:10:11.802215-04:00.hyperlinks.json) |
-| [October 13 at 4:18 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-13T16:18:37.684773-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 179 accessibility trees with the Internet Archive.
+The archiving routine has saved 181 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 3:28 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-19T03:27:52.482639-04:00.accessibility.json) |
+| [October 18 at 3:52 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-18T15:52:35.773476-04:00.accessibility.json) |
 | [October 18 at 3:21 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-18T03:20:49.103539-04:00.accessibility.json) |
 | [October 17 at 4:09 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-17T16:08:59.882667-04:00.accessibility.json) |
 | [October 17 at 3:49 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-17T03:49:48.916350-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 3:56 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-15T15:56:44.941765-04:00.accessibility.json) |
 | [October 15 at 4:01 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-15T04:01:22.764229-04:00.accessibility.json) |
 | [October 14 at 4:37 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-14T16:36:56.332679-04:00.accessibility.json) |
-| [October 14 at 4:10 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-14T04:10:11.802215-04:00.accessibility.json) |
-| [October 13 at 4:18 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-13T16:18:37.684773-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 3:28 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-19T03:27:52.482639-04:00.lighthouse.json) |
+| [October 18 at 3:53 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-18T15:52:35.773476-04:00.lighthouse.json) |
 | [October 18 at 3:21 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-18T03:20:49.103539-04:00.lighthouse.json) |
 | [October 17 at 4:09 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-17T16:08:59.882667-04:00.lighthouse.json) |
 | [October 17 at 3:49 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-17T03:49:48.916350-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 3:57 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-15T15:56:44.941765-04:00.lighthouse.json) |
 | [October 15 at 4:01 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-15T04:01:22.764229-04:00.lighthouse.json) |
 | [October 14 at 4:37 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-14T16:36:56.332679-04:00.lighthouse.json) |
-| [October 14 at 4:10 AM](https://archive.org/download/wabenews-2022/wabenews-2022-10-14T04:10:11.802215-04:00.lighthouse.json) |
-| [October 13 at 4:19 PM](https://archive.org/download/wabenews-2022/wabenews-2022-10-13T16:18:37.684773-04:00.lighthouse.json) |
 
 
 

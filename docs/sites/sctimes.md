@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-19T02:21:38.719703-05:00.jpg">
+  <img src="https://archive.org/download/sctimes-2022/sctimes-2022-10-19T02:21:38.719703-05:00.jpg"
+     alt="St. Cloud Times at 2022-10-19 02:21:42-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-19T02:21:38.719703-05:00.jpg">October 19 at 2:21 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-18T14:12:05.286107-05:00.jpg">
+  <img src="https://archive.org/download/sctimes-2022/sctimes-2022-10-18T14:12:05.286107-05:00.jpg"
+     alt="St. Cloud Times at 2022-10-18 14:12:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-18T14:12:05.286107-05:00.jpg">October 18 at 2:12 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-18T02:27:34.217008-05:00.jpg">
   <img src="https://archive.org/download/sctimes-2022/sctimes-2022-10-18T02:27:34.217008-05:00.jpg"
      alt="St. Cloud Times at 2022-10-18 02:27:36-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-13T15:10:01.223196-05:00.jpg">October 13 at 3:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-13T02:25:13.159003-05:00.jpg">
-  <img src="https://archive.org/download/sctimes-2022/sctimes-2022-10-13T02:25:13.159003-05:00.jpg"
-     alt="St. Cloud Times at 2022-10-13 02:25:20-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-13T02:25:13.159003-05:00.jpg">October 13 at 2:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-12T14:20:02.802027-05:00.jpg">
-  <img src="https://archive.org/download/sctimes-2022/sctimes-2022-10-12T14:20:02.802027-05:00.jpg"
-     alt="St. Cloud Times at 2022-10-12 14:20:06-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sctimes-2022/sctimes-2022-10-12T14:20:02.802027-05:00.jpg">October 12 at 2:20 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 2:21 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-19T02:21:38.719703-05:00.hyperlinks.json) |
+| [October 18 at 2:12 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-18T14:12:05.286107-05:00.hyperlinks.json) |
 | [October 18 at 2:27 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-18T02:27:34.217008-05:00.hyperlinks.json) |
 | [October 17 at 2:40 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-17T14:40:28.433818-05:00.hyperlinks.json) |
 | [October 17 at 2:59 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-17T02:59:36.068689-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 2:25 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-15T14:25:52.209694-05:00.hyperlinks.json) |
 | [October 15 at 2:53 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-15T02:53:00.933789-05:00.hyperlinks.json) |
 | [October 14 at 3:29 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-14T15:29:06.804305-05:00.hyperlinks.json) |
-| [October 14 at 3:03 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-14T03:03:46.849262-05:00.hyperlinks.json) |
-| [October 13 at 3:10 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-13T15:10:01.223196-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 2:21 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-19T02:21:38.719703-05:00.accessibility.json) |
+| [October 18 at 2:12 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-18T14:12:05.286107-05:00.accessibility.json) |
 | [October 18 at 2:27 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-18T02:27:34.217008-05:00.accessibility.json) |
 | [October 17 at 2:40 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-17T14:40:28.433818-05:00.accessibility.json) |
 | [October 17 at 2:59 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-17T02:59:36.068689-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 2:25 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-15T14:25:52.209694-05:00.accessibility.json) |
 | [October 15 at 2:53 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-15T02:53:00.933789-05:00.accessibility.json) |
 | [October 14 at 3:29 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-14T15:29:06.804305-05:00.accessibility.json) |
-| [October 14 at 3:03 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-14T03:03:46.849262-05:00.accessibility.json) |
-| [October 13 at 3:10 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-13T15:10:01.223196-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 2:21 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-19T02:21:38.719703-05:00.lighthouse.json) |
+| [October 18 at 2:12 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-18T14:12:05.286107-05:00.lighthouse.json) |
 | [October 18 at 2:27 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-18T02:27:34.217008-05:00.lighthouse.json) |
 | [October 17 at 2:40 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-17T14:40:28.433818-05:00.lighthouse.json) |
 | [October 17 at 2:59 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-17T02:59:36.068689-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 2:25 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-15T14:25:52.209694-05:00.lighthouse.json) |
 | [October 15 at 2:53 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-15T02:53:00.933789-05:00.lighthouse.json) |
 | [October 14 at 3:29 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-14T15:29:06.804305-05:00.lighthouse.json) |
-| [October 14 at 3:03 AM](https://archive.org/download/sctimes-2022/sctimes-2022-10-14T03:03:46.849262-05:00.lighthouse.json) |
-| [October 13 at 3:10 PM](https://archive.org/download/sctimes-2022/sctimes-2022-10-13T15:10:01.223196-05:00.lighthouse.json) |
 
 
 

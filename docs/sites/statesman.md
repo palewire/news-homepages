@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 185 screenshots with the Internet Archive.
+The archiving routine has saved 187 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/statesman-2022/statesman-2022-10-19T02:24:08.445842-05:00.jpg">
+  <img src="https://archive.org/download/statesman-2022/statesman-2022-10-19T02:24:08.445842-05:00.jpg"
+     alt="Austin Statesman at 2022-10-19 02:24:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statesman-2022/statesman-2022-10-19T02:24:08.445842-05:00.jpg">October 19 at 2:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/statesman-2022/statesman-2022-10-18T14:47:10.406724-05:00.jpg">
+  <img src="https://archive.org/download/statesman-2022/statesman-2022-10-18T14:47:10.406724-05:00.jpg"
+     alt="Austin Statesman at 2022-10-18 14:47:17-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/statesman-2022/statesman-2022-10-18T14:47:10.406724-05:00.jpg">October 18 at 2:47 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/statesman-2022/statesman-2022-10-18T02:15:08.164302-05:00.jpg">
   <img src="https://archive.org/download/statesman-2022/statesman-2022-10-18T02:15:08.164302-05:00.jpg"
      alt="Austin Statesman at 2022-10-18 02:15:09-05:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/statesman-2022/statesman-2022-10-13T15:12:55.231850-05:00.jpg">October 13 at 3:13 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/statesman-2022/statesman-2022-10-13T02:24:21.139255-05:00.jpg">
-  <img src="https://archive.org/download/statesman-2022/statesman-2022-10-13T02:24:21.139255-05:00.jpg"
-     alt="Austin Statesman at 2022-10-13 02:24:28-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/statesman-2022/statesman-2022-10-13T02:24:21.139255-05:00.jpg">October 13 at 2:24 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/statesman-2022/statesman-2022-10-12T13:46:44.148489-05:00.jpg">
-  <img src="https://archive.org/download/statesman-2022/statesman-2022-10-12T13:46:44.148489-05:00.jpg"
-     alt="Austin Statesman at 2022-10-12 13:46:50-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/statesman-2022/statesman-2022-10-12T13:46:44.148489-05:00.jpg">October 12 at 1:46 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 182 hyperlink lists with the Internet Archive.
+The archiving routine has saved 184 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 2:24 AM](https://archive.org/download/statesman-2022/statesman-2022-10-19T02:24:08.445842-05:00.hyperlinks.json) |
+| [October 18 at 2:47 PM](https://archive.org/download/statesman-2022/statesman-2022-10-18T14:47:10.406724-05:00.hyperlinks.json) |
 | [October 18 at 2:15 AM](https://archive.org/download/statesman-2022/statesman-2022-10-18T02:15:08.164302-05:00.hyperlinks.json) |
 | [October 17 at 3:03 PM](https://archive.org/download/statesman-2022/statesman-2022-10-17T15:03:25.162937-05:00.hyperlinks.json) |
 | [October 17 at 2:46 AM](https://archive.org/download/statesman-2022/statesman-2022-10-17T02:46:06.623834-05:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 2:52 PM](https://archive.org/download/statesman-2022/statesman-2022-10-15T14:52:34.155859-05:00.hyperlinks.json) |
 | [October 15 at 2:55 AM](https://archive.org/download/statesman-2022/statesman-2022-10-15T02:55:45.001615-05:00.hyperlinks.json) |
 | [October 14 at 3:32 PM](https://archive.org/download/statesman-2022/statesman-2022-10-14T15:32:38.231822-05:00.hyperlinks.json) |
-| [October 14 at 3:06 AM](https://archive.org/download/statesman-2022/statesman-2022-10-14T03:06:21.286127-05:00.hyperlinks.json) |
-| [October 13 at 3:13 PM](https://archive.org/download/statesman-2022/statesman-2022-10-13T15:12:55.231850-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 185 accessibility trees with the Internet Archive.
+The archiving routine has saved 187 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 2:24 AM](https://archive.org/download/statesman-2022/statesman-2022-10-19T02:24:08.445842-05:00.accessibility.json) |
+| [October 18 at 2:47 PM](https://archive.org/download/statesman-2022/statesman-2022-10-18T14:47:10.406724-05:00.accessibility.json) |
 | [October 18 at 2:15 AM](https://archive.org/download/statesman-2022/statesman-2022-10-18T02:15:08.164302-05:00.accessibility.json) |
 | [October 17 at 3:03 PM](https://archive.org/download/statesman-2022/statesman-2022-10-17T15:03:25.162937-05:00.accessibility.json) |
 | [October 17 at 2:46 AM](https://archive.org/download/statesman-2022/statesman-2022-10-17T02:46:06.623834-05:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 2:52 PM](https://archive.org/download/statesman-2022/statesman-2022-10-15T14:52:34.155859-05:00.accessibility.json) |
 | [October 15 at 2:55 AM](https://archive.org/download/statesman-2022/statesman-2022-10-15T02:55:45.001615-05:00.accessibility.json) |
 | [October 14 at 3:32 PM](https://archive.org/download/statesman-2022/statesman-2022-10-14T15:32:38.231822-05:00.accessibility.json) |
-| [October 14 at 3:06 AM](https://archive.org/download/statesman-2022/statesman-2022-10-14T03:06:21.286127-05:00.accessibility.json) |
-| [October 13 at 3:13 PM](https://archive.org/download/statesman-2022/statesman-2022-10-13T15:12:55.231850-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 174 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 2:24 AM](https://archive.org/download/statesman-2022/statesman-2022-10-19T02:24:08.445842-05:00.lighthouse.json) |
+| [October 18 at 2:47 PM](https://archive.org/download/statesman-2022/statesman-2022-10-18T14:47:10.406724-05:00.lighthouse.json) |
 | [October 18 at 2:15 AM](https://archive.org/download/statesman-2022/statesman-2022-10-18T02:15:08.164302-05:00.lighthouse.json) |
 | [October 17 at 3:03 PM](https://archive.org/download/statesman-2022/statesman-2022-10-17T15:03:25.162937-05:00.lighthouse.json) |
 | [October 17 at 2:46 AM](https://archive.org/download/statesman-2022/statesman-2022-10-17T02:46:06.623834-05:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 2:52 PM](https://archive.org/download/statesman-2022/statesman-2022-10-15T14:52:34.155859-05:00.lighthouse.json) |
 | [October 15 at 2:55 AM](https://archive.org/download/statesman-2022/statesman-2022-10-15T02:55:45.001615-05:00.lighthouse.json) |
 | [October 14 at 3:32 PM](https://archive.org/download/statesman-2022/statesman-2022-10-14T15:32:38.231822-05:00.lighthouse.json) |
-| [October 14 at 3:06 AM](https://archive.org/download/statesman-2022/statesman-2022-10-14T03:06:21.286127-05:00.lighthouse.json) |
-| [October 13 at 3:13 PM](https://archive.org/download/statesman-2022/statesman-2022-10-13T15:12:55.231850-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 384 screenshots with the Internet Archive.
+The archiving routine has saved 386 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-19T00:23:00.568989-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-19T00:23:00.568989-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-10-19 00:23:02-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-19T00:23:00.568989-07:00.jpg">October 19 at 12:23 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T12:14:42.767597-07:00.jpg">
+  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T12:14:42.767597-07:00.jpg"
+     alt="San Francisco Chronicle at 2022-10-18 12:14:54-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T12:14:42.767597-07:00.jpg">October 18 at 12:14 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T00:28:05.668229-07:00.jpg">
   <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T00:28:05.668229-07:00.jpg"
      alt="San Francisco Chronicle at 2022-10-18 00:28:24-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-13T13:10:58.320356-07:00.jpg">October 13 at 1:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-13T00:23:50.332803-07:00.jpg">
-  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-13T00:23:50.332803-07:00.jpg"
-     alt="San Francisco Chronicle at 2022-10-13 00:23:51-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-13T00:23:50.332803-07:00.jpg">October 13 at 12:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-12T12:20:01.231329-07:00.jpg">
-  <img src="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-12T12:20:01.231329-07:00.jpg"
-     alt="San Francisco Chronicle at 2022-10-12 12:20:03-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-12T12:20:01.231329-07:00.jpg">October 12 at 12:20 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 373 hyperlink lists with the Internet Archive.
+The archiving routine has saved 375 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 12:23 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-19T00:23:00.568989-07:00.hyperlinks.json) |
+| [October 18 at 12:14 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T12:14:42.767597-07:00.hyperlinks.json) |
 | [October 18 at 12:28 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T00:28:05.668229-07:00.hyperlinks.json) |
 | [October 17 at 12:44 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-17T12:43:54.436535-07:00.hyperlinks.json) |
 | [October 17 at 12:59 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-17T00:58:46.008445-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 12:26 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-15T12:26:34.977591-07:00.hyperlinks.json) |
 | [October 15 at 12:53 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-15T00:53:06.798923-07:00.hyperlinks.json) |
 | [October 14 at 1:29 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-14T13:29:12.880131-07:00.hyperlinks.json) |
-| [October 14 at 1:05 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-14T01:05:02.144014-07:00.hyperlinks.json) |
-| [October 13 at 1:11 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-13T13:10:58.320356-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 378 accessibility trees with the Internet Archive.
+The archiving routine has saved 380 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 12:23 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-19T00:23:00.568989-07:00.accessibility.json) |
+| [October 18 at 12:14 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T12:14:42.767597-07:00.accessibility.json) |
 | [October 18 at 12:28 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T00:28:05.668229-07:00.accessibility.json) |
 | [October 17 at 12:44 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-17T12:43:54.436535-07:00.accessibility.json) |
 | [October 17 at 12:59 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-17T00:58:46.008445-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 12:26 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-15T12:26:34.977591-07:00.accessibility.json) |
 | [October 15 at 12:53 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-15T00:53:06.798923-07:00.accessibility.json) |
 | [October 14 at 1:29 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-14T13:29:12.880131-07:00.accessibility.json) |
-| [October 14 at 1:05 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-14T01:05:02.144014-07:00.accessibility.json) |
-| [October 13 at 1:11 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-13T13:10:58.320356-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 174 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 12:23 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-19T00:23:00.568989-07:00.lighthouse.json) |
+| [October 18 at 12:14 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T12:14:42.767597-07:00.lighthouse.json) |
 | [October 18 at 12:28 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-18T00:28:05.668229-07:00.lighthouse.json) |
 | [October 17 at 12:44 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-17T12:43:54.436535-07:00.lighthouse.json) |
 | [October 17 at 12:59 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-17T00:58:46.008445-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 12:26 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-15T12:26:34.977591-07:00.lighthouse.json) |
 | [October 15 at 12:53 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-15T00:53:06.798923-07:00.lighthouse.json) |
 | [October 14 at 1:29 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-14T13:29:12.880131-07:00.lighthouse.json) |
-| [October 14 at 1:05 AM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-14T01:05:02.144014-07:00.lighthouse.json) |
-| [October 13 at 1:11 PM](https://archive.org/download/sfchronicle-2022/sfchronicle-2022-10-13T13:10:58.320356-07:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 179 screenshots with the Internet Archive.
+The archiving routine has saved 181 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-19T09:27:57.876579+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-10-19T09:27:57.876579+02:00.jpg"
+     alt="VG at 2022-10-19 09:28:04+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-19T09:27:57.876579+02:00.jpg">October 19 at 9:28 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-18T21:51:41.683074+02:00.jpg">
+  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-10-18T21:51:41.683074+02:00.jpg"
+     alt="VG at 2022-10-18 21:51:50+02:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-18T21:51:41.683074+02:00.jpg">October 18 at 9:51 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-18T09:17:57.146561+02:00.jpg">
   <img src="https://archive.org/download/vgnett-2022/vgnett-2022-10-18T09:17:57.146561+02:00.jpg"
      alt="VG at 2022-10-18 09:18:03+02:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-13T22:18:25.990535+02:00.jpg">October 13 at 10:18 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-13T09:28:05.440720+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-10-13T09:28:05.440720+02:00.jpg"
-     alt="VG at 2022-10-13 09:28:23+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-13T09:28:05.440720+02:00.jpg">October 13 at 9:28 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-12T20:52:07.319065+02:00.jpg">
-  <img src="https://archive.org/download/vgnett-2022/vgnett-2022-10-12T20:52:07.319065+02:00.jpg"
-     alt="VG at 2022-10-12 20:52:14+02:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vgnett-2022/vgnett-2022-10-12T20:52:07.319065+02:00.jpg">October 12 at 8:52 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 179 hyperlink lists with the Internet Archive.
+The archiving routine has saved 181 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 9:28 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-19T09:27:57.876579+02:00.hyperlinks.json) |
+| [October 18 at 9:51 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-18T21:51:41.683074+02:00.hyperlinks.json) |
 | [October 18 at 9:18 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-18T09:17:57.146561+02:00.hyperlinks.json) |
 | [October 17 at 10:09 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-17T22:09:30.476984+02:00.hyperlinks.json) |
 | [October 17 at 9:50 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-17T09:50:36.547461+02:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 9:57 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-15T21:57:28.129725+02:00.hyperlinks.json) |
 | [October 15 at 10:01 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-15T10:00:56.300359+02:00.hyperlinks.json) |
 | [October 14 at 10:37 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-14T22:37:06.257594+02:00.hyperlinks.json) |
-| [October 14 at 10:10 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-14T10:10:07.735019+02:00.hyperlinks.json) |
-| [October 13 at 10:18 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-13T22:18:25.990535+02:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 180 accessibility trees with the Internet Archive.
+The archiving routine has saved 182 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 9:28 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-19T09:27:57.876579+02:00.accessibility.json) |
+| [October 18 at 9:51 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-18T21:51:41.683074+02:00.accessibility.json) |
 | [October 18 at 9:18 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-18T09:17:57.146561+02:00.accessibility.json) |
 | [October 17 at 10:09 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-17T22:09:30.476984+02:00.accessibility.json) |
 | [October 17 at 9:50 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-17T09:50:36.547461+02:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 9:57 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-15T21:57:28.129725+02:00.accessibility.json) |
 | [October 15 at 10:01 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-15T10:00:56.300359+02:00.accessibility.json) |
 | [October 14 at 10:37 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-14T22:37:06.257594+02:00.accessibility.json) |
-| [October 14 at 10:10 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-14T10:10:07.735019+02:00.accessibility.json) |
-| [October 13 at 10:18 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-13T22:18:25.990535+02:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 9:28 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-19T09:27:57.876579+02:00.lighthouse.json) |
+| [October 18 at 9:51 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-18T21:51:41.683074+02:00.lighthouse.json) |
 | [October 18 at 9:18 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-18T09:17:57.146561+02:00.lighthouse.json) |
 | [October 17 at 10:09 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-17T22:09:30.476984+02:00.lighthouse.json) |
 | [October 17 at 9:50 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-17T09:50:36.547461+02:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 9:57 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-15T21:57:28.129725+02:00.lighthouse.json) |
 | [October 15 at 10:01 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-15T10:00:56.300359+02:00.lighthouse.json) |
 | [October 14 at 10:37 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-14T22:37:06.257594+02:00.lighthouse.json) |
-| [October 14 at 10:10 AM](https://archive.org/download/vgnett-2022/vgnett-2022-10-14T10:10:07.735019+02:00.lighthouse.json) |
-| [October 13 at 10:18 PM](https://archive.org/download/vgnett-2022/vgnett-2022-10-13T22:18:25.990535+02:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-19T03:21:58.933777-04:00.jpg">
+  <img src="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-19T03:21:58.933777-04:00.jpg"
+     alt="Seacoastonline.com at 2022-10-19 03:22:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-19T03:21:58.933777-04:00.jpg">October 19 at 3:22 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T15:12:04.624110-04:00.jpg">
+  <img src="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T15:12:04.624110-04:00.jpg"
+     alt="Seacoastonline.com at 2022-10-18 15:12:08-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T15:12:04.624110-04:00.jpg">October 18 at 3:12 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T03:27:04.947444-04:00.jpg">
   <img src="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T03:27:04.947444-04:00.jpg"
      alt="Seacoastonline.com at 2022-10-18 03:27:09-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-13T16:09:39.176591-04:00.jpg">October 13 at 4:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-13T03:23:32.162991-04:00.jpg">
-  <img src="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-13T03:23:32.162991-04:00.jpg"
-     alt="Seacoastonline.com at 2022-10-13 03:23:33-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-13T03:23:32.162991-04:00.jpg">October 13 at 3:23 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-12T15:21:16.221170-04:00.jpg">
-  <img src="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-12T15:21:16.221170-04:00.jpg"
-     alt="Seacoastonline.com at 2022-10-12 15:21:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-12T15:21:16.221170-04:00.jpg">October 12 at 3:21 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 54 hyperlink lists with the Internet Archive.
+The archiving routine has saved 56 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 3:22 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-19T03:21:58.933777-04:00.hyperlinks.json) |
+| [October 18 at 3:12 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T15:12:04.624110-04:00.hyperlinks.json) |
 | [October 18 at 3:27 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T03:27:04.947444-04:00.hyperlinks.json) |
 | [October 17 at 3:40 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-17T15:40:16.875430-04:00.hyperlinks.json) |
 | [October 17 at 3:59 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-17T03:59:29.430690-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 3:25 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-15T15:25:14.148854-04:00.hyperlinks.json) |
 | [October 15 at 3:53 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-15T03:53:47.635909-04:00.hyperlinks.json) |
 | [October 14 at 4:29 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-14T16:29:54.472495-04:00.hyperlinks.json) |
-| [October 14 at 4:04 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-14T04:04:44.527050-04:00.hyperlinks.json) |
-| [October 13 at 4:09 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-13T16:09:39.176591-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 56 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 3:22 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-19T03:21:58.933777-04:00.accessibility.json) |
+| [October 18 at 3:12 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T15:12:04.624110-04:00.accessibility.json) |
 | [October 18 at 3:27 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T03:27:04.947444-04:00.accessibility.json) |
 | [October 17 at 3:40 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-17T15:40:16.875430-04:00.accessibility.json) |
 | [October 17 at 3:59 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-17T03:59:29.430690-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 3:25 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-15T15:25:14.148854-04:00.accessibility.json) |
 | [October 15 at 3:53 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-15T03:53:47.635909-04:00.accessibility.json) |
 | [October 14 at 4:29 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-14T16:29:54.472495-04:00.accessibility.json) |
-| [October 14 at 4:04 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-14T04:04:44.527050-04:00.accessibility.json) |
-| [October 13 at 4:09 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-13T16:09:39.176591-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 3:22 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-19T03:21:58.933777-04:00.lighthouse.json) |
+| [October 18 at 3:12 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T15:12:04.624110-04:00.lighthouse.json) |
 | [October 18 at 3:27 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-18T03:27:04.947444-04:00.lighthouse.json) |
 | [October 17 at 3:40 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-17T15:40:16.875430-04:00.lighthouse.json) |
 | [October 17 at 3:59 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-17T03:59:29.430690-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 3:25 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-15T15:25:14.148854-04:00.lighthouse.json) |
 | [October 15 at 3:53 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-15T03:53:47.635909-04:00.lighthouse.json) |
 | [October 14 at 4:30 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-14T16:29:54.472495-04:00.lighthouse.json) |
-| [October 14 at 4:04 AM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-14T04:04:44.527050-04:00.lighthouse.json) |
-| [October 13 at 4:09 PM](https://archive.org/download/seacoastonline-2022/seacoastonline-2022-10-13T16:09:39.176591-04:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 199 screenshots with the Internet Archive.
+The archiving routine has saved 201 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-19T00:18:16.872256-07:00.jpg">
+  <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-19T00:18:16.872256-07:00.jpg"
+     alt="Objective at 2022-10-19 00:18:27-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-19T00:18:16.872256-07:00.jpg">October 19 at 12:18 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T12:07:13.531910-07:00.jpg">
+  <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T12:07:13.531910-07:00.jpg"
+     alt="Objective at 2022-10-18 12:07:24-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T12:07:13.531910-07:00.jpg">October 18 at 12:07 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T00:22:50.635499-07:00.jpg">
   <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T00:22:50.635499-07:00.jpg"
      alt="Objective at 2022-10-18 00:22:58-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-13T00:18:33.151351-07:00.jpg">October 13 at 12:18 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-12T12:15:17.314986-07:00.jpg">
-  <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-12T12:15:17.314986-07:00.jpg"
-     alt="Objective at 2022-10-12 12:15:24-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-12T12:15:17.314986-07:00.jpg">October 12 at 12:15 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-12T01:02:48.491543-07:00.jpg">
-  <img src="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-12T01:02:48.491543-07:00.jpg"
-     alt="Objective at 2022-10-12 01:02:57-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-12T01:02:48.491543-07:00.jpg">October 12 at 1:02 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 201 hyperlink lists with the Internet Archive.
+The archiving routine has saved 203 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 12:18 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-19T00:18:16.872256-07:00.hyperlinks.json) |
+| [October 18 at 12:07 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T12:07:13.531910-07:00.hyperlinks.json) |
 | [October 18 at 12:23 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T00:22:50.635499-07:00.hyperlinks.json) |
 | [October 17 at 12:34 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-17T12:34:42.816706-07:00.hyperlinks.json) |
 | [October 17 at 12:53 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-17T00:53:22.603260-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 12:20 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-15T12:20:33.300747-07:00.hyperlinks.json) |
 | [October 15 at 12:49 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-15T00:49:26.163607-07:00.hyperlinks.json) |
 | [October 14 at 1:24 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-14T13:23:57.385071-07:00.hyperlinks.json) |
-| [October 14 at 12:59 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-14T00:59:20.570358-07:00.hyperlinks.json) |
-| [October 13 at 12:18 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-13T00:18:33.151351-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 201 accessibility trees with the Internet Archive.
+The archiving routine has saved 203 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 12:18 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-19T00:18:16.872256-07:00.accessibility.json) |
+| [October 18 at 12:07 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T12:07:13.531910-07:00.accessibility.json) |
 | [October 18 at 12:23 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T00:22:50.635499-07:00.accessibility.json) |
 | [October 17 at 12:34 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-17T12:34:42.816706-07:00.accessibility.json) |
 | [October 17 at 12:53 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-17T00:53:22.603260-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 12:20 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-15T12:20:33.300747-07:00.accessibility.json) |
 | [October 15 at 12:49 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-15T00:49:26.163607-07:00.accessibility.json) |
 | [October 14 at 1:24 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-14T13:23:57.385071-07:00.accessibility.json) |
-| [October 14 at 12:59 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-14T00:59:20.570358-07:00.accessibility.json) |
-| [October 13 at 12:18 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-13T00:18:33.151351-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 173 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 12:18 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-19T00:18:16.872256-07:00.lighthouse.json) |
+| [October 18 at 12:07 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T12:07:13.531910-07:00.lighthouse.json) |
 | [October 18 at 12:23 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-18T00:22:50.635499-07:00.lighthouse.json) |
 | [October 17 at 12:34 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-17T12:34:42.816706-07:00.lighthouse.json) |
 | [October 17 at 12:53 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-17T00:53:22.603260-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 12:20 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-15T12:20:33.300747-07:00.lighthouse.json) |
 | [October 15 at 12:49 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-15T00:49:26.163607-07:00.lighthouse.json) |
 | [October 14 at 1:24 PM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-14T13:23:57.385071-07:00.lighthouse.json) |
-| [October 14 at 12:59 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-14T00:59:20.570358-07:00.lighthouse.json) |
-| [October 13 at 12:18 AM](https://archive.org/download/objectivejrn-2022/objectivejrn-2022-10-13T00:18:33.151351-07:00.lighthouse.json) |
 
 
 

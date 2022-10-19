@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 56 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-19T03:29:19.441374-04:00.jpg">
+  <img src="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-19T03:29:19.441374-04:00.jpg"
+     alt="York Daily Record at 2022-10-19 03:29:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-19T03:29:19.441374-04:00.jpg">October 19 at 3:29 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T15:52:09.564181-04:00.jpg">
+  <img src="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T15:52:09.564181-04:00.jpg"
+     alt="York Daily Record at 2022-10-18 15:52:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T15:52:09.564181-04:00.jpg">October 18 at 3:52 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T03:20:56.966368-04:00.jpg">
   <img src="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T03:20:56.966368-04:00.jpg"
      alt="York Daily Record at 2022-10-18 03:21:00-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-13T16:22:40.625036-04:00.jpg">October 13 at 4:22 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-13T03:29:31.773136-04:00.jpg">
-  <img src="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-13T03:29:31.773136-04:00.jpg"
-     alt="York Daily Record at 2022-10-13 03:29:37-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-13T03:29:31.773136-04:00.jpg">October 13 at 3:29 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-12T14:53:52.673324-04:00.jpg">
-  <img src="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-12T14:53:52.673324-04:00.jpg"
-     alt="York Daily Record at 2022-10-12 14:53:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/ydrcom-2022/ydrcom-2022-10-12T14:53:52.673324-04:00.jpg">October 12 at 2:53 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 56 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 3:29 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-19T03:29:19.441374-04:00.hyperlinks.json) |
+| [October 18 at 3:52 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T15:52:09.564181-04:00.hyperlinks.json) |
 | [October 18 at 3:21 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T03:20:56.966368-04:00.hyperlinks.json) |
 | [October 17 at 4:10 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-17T16:09:54.995881-04:00.hyperlinks.json) |
 | [October 17 at 3:52 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-17T03:52:38.083158-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 3:57 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-15T15:57:11.298689-04:00.hyperlinks.json) |
 | [October 15 at 4:00 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-15T04:00:42.773697-04:00.hyperlinks.json) |
 | [October 14 at 4:40 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-14T16:40:28.192769-04:00.hyperlinks.json) |
-| [October 14 at 4:12 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-14T04:12:25.374202-04:00.hyperlinks.json) |
-| [October 13 at 4:22 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-13T16:22:40.625036-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 56 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 3:29 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-19T03:29:19.441374-04:00.accessibility.json) |
+| [October 18 at 3:52 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T15:52:09.564181-04:00.accessibility.json) |
 | [October 18 at 3:21 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T03:20:56.966368-04:00.accessibility.json) |
 | [October 17 at 4:09 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-17T16:09:54.995881-04:00.accessibility.json) |
 | [October 17 at 3:52 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-17T03:52:38.083158-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 3:57 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-15T15:57:11.298689-04:00.accessibility.json) |
 | [October 15 at 4:00 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-15T04:00:42.773697-04:00.accessibility.json) |
 | [October 14 at 4:40 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-14T16:40:28.192769-04:00.accessibility.json) |
-| [October 14 at 4:12 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-14T04:12:25.374202-04:00.accessibility.json) |
-| [October 13 at 4:22 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-13T16:22:40.625036-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 3:29 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-19T03:29:19.441374-04:00.lighthouse.json) |
+| [October 18 at 3:52 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T15:52:09.564181-04:00.lighthouse.json) |
 | [October 18 at 3:21 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-18T03:20:56.966368-04:00.lighthouse.json) |
 | [October 17 at 4:10 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-17T16:09:54.995881-04:00.lighthouse.json) |
 | [October 17 at 3:52 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-17T03:52:38.083158-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 3:57 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-15T15:57:11.298689-04:00.lighthouse.json) |
 | [October 15 at 4:00 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-15T04:00:42.773697-04:00.lighthouse.json) |
 | [October 14 at 4:40 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-14T16:40:28.192769-04:00.lighthouse.json) |
-| [October 14 at 4:12 AM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-14T04:12:25.374202-04:00.lighthouse.json) |
-| [October 13 at 4:22 PM](https://archive.org/download/ydrcom-2022/ydrcom-2022-10-13T16:22:40.625036-04:00.lighthouse.json) |
 
 
 

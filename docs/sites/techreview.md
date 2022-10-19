@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 169 screenshots with the Internet Archive.
+The archiving routine has saved 171 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/techreview-2022/techreview-2022-10-19T03:24:19.712000-04:00.jpg">
+  <img src="https://archive.org/download/techreview-2022/techreview-2022-10-19T03:24:19.712000-04:00.jpg"
+     alt="MIT Technology Review at 2022-10-19 03:24:23-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-10-19T03:24:19.712000-04:00.jpg">October 19 at 3:24 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/techreview-2022/techreview-2022-10-18T15:47:32.035340-04:00.jpg">
+  <img src="https://archive.org/download/techreview-2022/techreview-2022-10-18T15:47:32.035340-04:00.jpg"
+     alt="MIT Technology Review at 2022-10-18 15:47:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/techreview-2022/techreview-2022-10-18T15:47:32.035340-04:00.jpg">October 18 at 3:47 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/techreview-2022/techreview-2022-10-18T03:15:56.259943-04:00.jpg">
   <img src="https://archive.org/download/techreview-2022/techreview-2022-10-18T03:15:56.259943-04:00.jpg"
      alt="MIT Technology Review at 2022-10-18 03:16:00-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/techreview-2022/techreview-2022-10-13T16:15:28.219553-04:00.jpg">October 13 at 4:15 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/techreview-2022/techreview-2022-10-13T03:25:01.966413-04:00.jpg">
-  <img src="https://archive.org/download/techreview-2022/techreview-2022-10-13T03:25:01.966413-04:00.jpg"
-     alt="MIT Technology Review at 2022-10-13 03:25:06-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techreview-2022/techreview-2022-10-13T03:25:01.966413-04:00.jpg">October 13 at 3:25 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/techreview-2022/techreview-2022-10-12T14:48:10.297341-04:00.jpg">
-  <img src="https://archive.org/download/techreview-2022/techreview-2022-10-12T14:48:10.297341-04:00.jpg"
-     alt="MIT Technology Review at 2022-10-12 14:48:24-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/techreview-2022/techreview-2022-10-12T14:48:10.297341-04:00.jpg">October 12 at 2:48 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 170 hyperlink lists with the Internet Archive.
+The archiving routine has saved 172 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 3:24 AM](https://archive.org/download/techreview-2022/techreview-2022-10-19T03:24:19.712000-04:00.hyperlinks.json) |
+| [October 18 at 3:47 PM](https://archive.org/download/techreview-2022/techreview-2022-10-18T15:47:32.035340-04:00.hyperlinks.json) |
 | [October 18 at 3:16 AM](https://archive.org/download/techreview-2022/techreview-2022-10-18T03:15:56.259943-04:00.hyperlinks.json) |
 | [October 17 at 4:03 PM](https://archive.org/download/techreview-2022/techreview-2022-10-17T16:03:48.164843-04:00.hyperlinks.json) |
 | [October 17 at 3:45 AM](https://archive.org/download/techreview-2022/techreview-2022-10-17T03:45:25.728961-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 3:53 PM](https://archive.org/download/techreview-2022/techreview-2022-10-15T15:53:00.494298-04:00.hyperlinks.json) |
 | [October 15 at 3:56 AM](https://archive.org/download/techreview-2022/techreview-2022-10-15T03:55:38.777336-04:00.hyperlinks.json) |
 | [October 14 at 4:32 PM](https://archive.org/download/techreview-2022/techreview-2022-10-14T16:31:46.260127-04:00.hyperlinks.json) |
-| [October 14 at 4:06 AM](https://archive.org/download/techreview-2022/techreview-2022-10-14T04:06:22.847119-04:00.hyperlinks.json) |
-| [October 13 at 4:15 PM](https://archive.org/download/techreview-2022/techreview-2022-10-13T16:15:28.219553-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 169 accessibility trees with the Internet Archive.
+The archiving routine has saved 171 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 3:24 AM](https://archive.org/download/techreview-2022/techreview-2022-10-19T03:24:19.712000-04:00.accessibility.json) |
+| [October 18 at 3:47 PM](https://archive.org/download/techreview-2022/techreview-2022-10-18T15:47:32.035340-04:00.accessibility.json) |
 | [October 18 at 3:16 AM](https://archive.org/download/techreview-2022/techreview-2022-10-18T03:15:56.259943-04:00.accessibility.json) |
 | [October 17 at 4:03 PM](https://archive.org/download/techreview-2022/techreview-2022-10-17T16:03:48.164843-04:00.accessibility.json) |
 | [October 17 at 3:45 AM](https://archive.org/download/techreview-2022/techreview-2022-10-17T03:45:25.728961-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 3:53 PM](https://archive.org/download/techreview-2022/techreview-2022-10-15T15:53:00.494298-04:00.accessibility.json) |
 | [October 15 at 3:56 AM](https://archive.org/download/techreview-2022/techreview-2022-10-15T03:55:38.777336-04:00.accessibility.json) |
 | [October 14 at 4:32 PM](https://archive.org/download/techreview-2022/techreview-2022-10-14T16:31:46.260127-04:00.accessibility.json) |
-| [October 14 at 4:06 AM](https://archive.org/download/techreview-2022/techreview-2022-10-14T04:06:22.847119-04:00.accessibility.json) |
-| [October 13 at 4:15 PM](https://archive.org/download/techreview-2022/techreview-2022-10-13T16:15:28.219553-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 170 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 3:24 AM](https://archive.org/download/techreview-2022/techreview-2022-10-19T03:24:19.712000-04:00.lighthouse.json) |
+| [October 18 at 3:47 PM](https://archive.org/download/techreview-2022/techreview-2022-10-18T15:47:32.035340-04:00.lighthouse.json) |
 | [October 18 at 3:16 AM](https://archive.org/download/techreview-2022/techreview-2022-10-18T03:15:56.259943-04:00.lighthouse.json) |
 | [October 17 at 4:04 PM](https://archive.org/download/techreview-2022/techreview-2022-10-17T16:03:48.164843-04:00.lighthouse.json) |
 | [October 17 at 3:45 AM](https://archive.org/download/techreview-2022/techreview-2022-10-17T03:45:25.728961-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 3:53 PM](https://archive.org/download/techreview-2022/techreview-2022-10-15T15:53:00.494298-04:00.lighthouse.json) |
 | [October 15 at 3:56 AM](https://archive.org/download/techreview-2022/techreview-2022-10-15T03:55:38.777336-04:00.lighthouse.json) |
 | [October 14 at 4:32 PM](https://archive.org/download/techreview-2022/techreview-2022-10-14T16:31:46.260127-04:00.lighthouse.json) |
-| [October 14 at 4:06 AM](https://archive.org/download/techreview-2022/techreview-2022-10-14T04:06:22.847119-04:00.lighthouse.json) |
-| [October 13 at 4:15 PM](https://archive.org/download/techreview-2022/techreview-2022-10-13T16:15:28.219553-04:00.lighthouse.json) |
 
 
 
