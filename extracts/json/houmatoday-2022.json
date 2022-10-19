@@ -1,5 +1,5 @@
 {
-  "created": 1666142671,
+  "created": 1666184232,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/15/items/houmatoday-2022",
@@ -3591,31 +3591,93 @@
       "format": "JSON"
     },
     {
+      "name": "houmatoday-2022-10-18T20:23:02.591096-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houmatoday-2022-10-18T20:23:02.591096-05:00.jpg",
+      "mtime": "1666166136",
+      "size": "9444",
+      "md5": "f5bfb6aaaf534a501ff2d2203f2fc7ef",
+      "crc32": "f5f702db",
+      "sha1": "09b04be160c5d506992410452e1e188c5a36b5f0"
+    },
+    {
+      "name": "houmatoday-2022-10-19T07:56:03.265142-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666184167",
+      "size": "22765",
+      "md5": "56cdbe46bc4b3295a9d9ac68d981fa1a",
+      "crc32": "93e028de",
+      "sha1": "46ae84e601ead68350b6a63b8cb6a39bda8019c6",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-19T07:56:03.265142-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666184169",
+      "size": "35297",
+      "md5": "c9c604a020ef2508fc6c107639728dde",
+      "crc32": "069ed84f",
+      "sha1": "c5990392b225f3851078ed4b2152f4f63da9af01",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-19T07:56:03.265142-05:00.jpg",
+      "source": "original",
+      "mtime": "1666184164",
+      "size": "281714",
+      "md5": "dd82784d838150d306ddda9976caeb4c",
+      "crc32": "260b3433",
+      "sha1": "6b345bf5b0562eba50c0882db7eb3afb5765f41b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houmatoday-2022-10-19T07:56:03.265142-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666184173",
+      "size": "1495",
+      "md5": "daf787c0dc9d5b4f22307b68b1ec53e7",
+      "crc32": "48187c95",
+      "sha1": "82eb18e4a21146a24b3dfb093c0fe82613f05081",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-19T07:56:03.265142-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666184175",
+      "size": "69153",
+      "md5": "265d13a50c01bb21722ce6a0678d355d",
+      "crc32": "cdc20602",
+      "sha1": "b9724d6148475954a8efe881eefe55c495ead3e5",
+      "format": "JSON"
+    },
+    {
       "name": "houmatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f27a5dfb9df25e7a5263b96b49fce2ca928b419",
-      "mtime": "1666142666",
-      "size": "75171",
-      "md5": "b30c99a6f00cdab466e045c49626cb16",
-      "crc32": "786bf0ba",
-      "sha1": "645412902236b808970686e4dbe01ca936b75e4a",
+      "btih": "cc981b5428048913d10b0da0220dbba3d801f5d0",
+      "mtime": "1666184222",
+      "size": "76450",
+      "md5": "7d8ede85182b54cb5370e25dcd5694e0",
+      "crc32": "75df4b71",
+      "sha1": "68388c37b6a773bbc7a7ec657db02720161951f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houmatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac713b657c5b298848007c4aff771300",
+      "md5": "c9f13310513d35adbae15a8b8208deba",
       "summation": "md5"
     },
     {
       "name": "houmatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666142627",
-      "size": "462848",
-      "md5": "36430147926dcb988052df7a949ff1ef",
-      "crc32": "182e67cb",
-      "sha1": "656a701a3c26cc10e4fdc50ecdbccc2fe58574db",
+      "mtime": "1666184181",
+      "size": "466944",
+      "md5": "2ad87ad64476316c7caabff5399049e5",
+      "crc32": "a293887e",
+      "sha1": "871a008c6be86553db9f90cb4fbfba6d192f63e7",
       "format": "Metadata"
     },
     {
@@ -3629,9 +3691,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 351,
-  "item_last_updated": 1666142666,
-  "item_size": 24626135,
+  "files_count": 357,
+  "item_last_updated": 1666184222,
+  "item_size": 25051378,
   "metadata": {
     "identifier": "houmatoday-2022",
     "collection": [
@@ -3653,7 +3715,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445171049,
+      "task_id": 3445632056,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3661,7 +3723,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1453380322,
+  "uniq": 70692361,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

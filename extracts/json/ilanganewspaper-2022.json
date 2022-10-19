@@ -1,5 +1,5 @@
 {
-  "created": 1666142614,
+  "created": 1666184236,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/ilanganewspaper-2022",
@@ -7237,31 +7237,93 @@
       "format": "JSON"
     },
     {
+      "name": "ilanganewspaper-2022-10-19T03:22:27.418449+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-19T03:22:27.418449+02:00.jpg",
+      "mtime": "1666166352",
+      "size": "11270",
+      "md5": "b867c12bd40653722ff6bb93e933e43d",
+      "crc32": "723e550b",
+      "sha1": "a185ff64cedab3c3537e4f1cb244e5bd2077dbda"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-19T14:55:54.502423+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666184157",
+      "size": "18530",
+      "md5": "db00d8ae83ce569bbe9f9610b6dadd86",
+      "crc32": "ec58e859",
+      "sha1": "d9685f3200da8f8c7b6f5a316c4f9d683acebbed",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-19T14:55:54.502423+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666184159",
+      "size": "11086",
+      "md5": "b2d09fe3fc04168cb224fe8a1b2e7a57",
+      "crc32": "831dbd3b",
+      "sha1": "72b023ccf475526b72f074fb4994e478edc80b19",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-19T14:55:54.502423+02:00.jpg",
+      "source": "original",
+      "mtime": "1666184156",
+      "size": "326656",
+      "md5": "93d2840f94f8508677fd162f1e6ecf25",
+      "crc32": "05bf9831",
+      "sha1": "02636f6dc4d1cd1a23706ec712e52ed314323b6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-19T14:55:54.502423+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666184160",
+      "size": "1477",
+      "md5": "ad933a942809208c980d1c8eb161e168",
+      "crc32": "0686d5f2",
+      "sha1": "eb8fd9e462a84e8489bdadc9e88daaa2cbb5cd1e",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-19T14:55:54.502423+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666184164",
+      "size": "9477",
+      "md5": "a47b24f569d76eb3c2f81efe19ff0ff0",
+      "crc32": "2ffe932a",
+      "sha1": "e67558d0617cb2b8e877f1b77a5b0ce4c15de064",
+      "format": "JSON"
+    },
+    {
       "name": "ilanganewspaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c15faf8f38724c9c55896a4be9e70f9a038c9698",
-      "mtime": "1666142609",
-      "size": "153358",
-      "md5": "80d5c1b09a4e2bcabb5368be95f15749",
-      "crc32": "c54c81cb",
-      "sha1": "83bafc22f208da908fba6a177faa5211f1ff8f71",
+      "btih": "2d3ee367a6ec9821e73b1e701c8bc658cc54a5ec",
+      "mtime": "1666184224",
+      "size": "154667",
+      "md5": "d3a375806c39057982773b85ab94a109",
+      "crc32": "781d0a45",
+      "sha1": "7f0d9816e7be8ee5a3eef1c8d7a9f8e0d2611347",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ilanganewspaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f73d174f64d670497d45cb8958bb623a",
+      "md5": "cafe040d1a14957d12a8e5bdf8b2e8ba",
       "summation": "md5"
     },
     {
       "name": "ilanganewspaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666142564",
-      "size": "917504",
-      "md5": "afdfe334ffa573fda7e48b2c7b27695c",
-      "crc32": "d462838b",
-      "sha1": "beccdacd89f6b7804400ceb7974cf905147dd4fb",
+      "mtime": "1666184173",
+      "size": "925696",
+      "md5": "7bdac0e426b2892ee5205a9bad8719d7",
+      "crc32": "1c4651e9",
+      "sha1": "4a28481602533f1d61c518c4e69c50ff76f6ea4a",
       "format": "Metadata"
     },
     {
@@ -7275,9 +7337,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 704,
-  "item_last_updated": 1666142609,
-  "item_size": 40342843,
+  "files_count": 710,
+  "item_last_updated": 1666184224,
+  "item_size": 40730840,
   "metadata": {
     "identifier": "ilanganewspaper-2022",
     "collection": [
@@ -7299,7 +7361,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445170637,
+      "task_id": 3445632078,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7307,7 +7369,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1179173289,
+  "uniq": 653040718,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

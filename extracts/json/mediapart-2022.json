@@ -1,5 +1,5 @@
 {
-  "created": 1666167868,
+  "created": 1666184574,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/33/items/mediapart-2022",
@@ -15559,31 +15559,93 @@
       "format": "JSON"
     },
     {
+      "name": "mediapart-2022-10-19T10:23:09.765580+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mediapart-2022-10-19T10:23:09.765580+02:00.jpg",
+      "mtime": "1666184504",
+      "size": "9786",
+      "md5": "b4af2181a3c5ceaff41977dbac45ec9c",
+      "crc32": "4e8f38cb",
+      "sha1": "18a9c1e012111ba05950ea0fb25ca74f4b67636f"
+    },
+    {
+      "name": "mediapart-2022-10-19T15:01:01.766726+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666184465",
+      "size": "96291",
+      "md5": "a5f56f98644d0a527ab3f33ad47e88e5",
+      "crc32": "8c17a3ae",
+      "sha1": "0f29244cf539af804d1c6025caaaba6cb98b528d",
+      "format": "JSON"
+    },
+    {
+      "name": "mediapart-2022-10-19T15:01:01.766726+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666184467",
+      "size": "44266",
+      "md5": "e697b0aa67395ea34233b48f46292393",
+      "crc32": "72ec19e3",
+      "sha1": "1f69fc2244cc1249da9b45a2ae516fec7d7f7405",
+      "format": "JSON"
+    },
+    {
+      "name": "mediapart-2022-10-19T15:01:01.766726+02:00.jpg",
+      "source": "original",
+      "mtime": "1666184463",
+      "size": "328857",
+      "md5": "d77102736c18940ec62dbe3fbd64c534",
+      "crc32": "f033eb10",
+      "sha1": "7e55c78ac0e7070d1b14f758df5099531c9b7306",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mediapart-2022-10-19T15:01:01.766726+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666184469",
+      "size": "1477",
+      "md5": "8f9af31b440f786ade069dfc4504eb0d",
+      "crc32": "5ba83311",
+      "sha1": "f1a2443ae151f5cf7dcd16aa4d273e45528786e6",
+      "format": "JSON"
+    },
+    {
+      "name": "mediapart-2022-10-19T15:01:01.766726+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666184470",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "mediapart-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a6d85f177c8eb95c46a576f85c3ecf6e0918e78",
-      "mtime": "1666167861",
-      "size": "320184",
-      "md5": "f24b96eca4f589d441412002a7abeafb",
-      "crc32": "cd21ad26",
-      "sha1": "1aa5615e8a96ba00f16ed6b89c314e49c0e60638",
+      "btih": "76b9c104b4a89f244b3053e3eed900eb23a8fbc2",
+      "mtime": "1666184557",
+      "size": "321455",
+      "md5": "bb08262a5073e8b4c8f808f3787f0bd1",
+      "crc32": "3b0819a1",
+      "sha1": "34472f929965fc356e72ab7fb18474a44b78f2ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mediapart-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f3f691d55bc3c05e3848da7f218293b0",
+      "md5": "59568bf6233486f3ccfbb5e6fee5c59b",
       "summation": "md5"
     },
     {
       "name": "mediapart-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666167806",
-      "size": "1912832",
-      "md5": "444a40a1194555028ed49bd88d5f5b30",
-      "crc32": "df16ddbc",
-      "sha1": "a2e54e5979c8cee7b70fea3046fec4ac36de695b",
+      "mtime": "1666184537",
+      "size": "1925120",
+      "md5": "78fd0d328cf23d116a304aa59237c58d",
+      "crc32": "6243faa4",
+      "sha1": "2663df79a1ea572fa68756c2f2992701560ed7ef",
       "format": "Metadata"
     },
     {
@@ -15597,9 +15659,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1508,
-  "item_last_updated": 1666167861,
-  "item_size": 125670827,
+  "files_count": 1514,
+  "item_last_updated": 1666184557,
+  "item_size": 126165265,
   "metadata": {
     "identifier": "mediapart-2022",
     "collection": [
@@ -15621,7 +15683,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445441094,
+      "task_id": 3445636832,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15629,7 +15691,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1184082664,
+  "uniq": 351602592,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

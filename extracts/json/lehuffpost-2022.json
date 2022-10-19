@@ -1,8 +1,8 @@
 {
-  "created": 1666167890,
-  "d1": "ia902503.us.archive.org",
-  "d2": "ia802503.us.archive.org",
-  "dir": "/10/items/lehuffpost-2022",
+  "created": 1666181578,
+  "d1": "ia601403.us.archive.org",
+  "d2": "ia801403.us.archive.org",
+  "dir": "/25/items/lehuffpost-2022",
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -24253,20 +24253,60 @@
     "addeddate": "2022-04-09 13:43:32"
   },
   "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
+  "server": "ia601403.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
       "task_id": 3445441283,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445636095,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445636125,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445636152,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445636186,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445636235,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1437410213,
+  "uniq": 554972905,
   "workable_servers": [
-    "ia902503.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

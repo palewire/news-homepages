@@ -1,5 +1,5 @@
 {
-  "created": 1666143013,
+  "created": 1666184514,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/lokaantar-2022",
@@ -10583,31 +10583,93 @@
       "format": "JSON"
     },
     {
+      "name": "lokaantar-2022-10-19T07:14:02.750339+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lokaantar-2022-10-19T07:14:02.750339+05:45.jpg",
+      "mtime": "1666166413",
+      "size": "9602",
+      "md5": "933f4a330a3df109ab36352fd9008f79",
+      "crc32": "58064118",
+      "sha1": "8ae664e864f900e3289b59d63822e5b20937bf06"
+    },
+    {
+      "name": "lokaantar-2022-10-19T18:45:05.851101+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666184410",
+      "size": "1074",
+      "md5": "9d2f16e35723ece94a4207c04e856ddf",
+      "crc32": "e5b3dc3b",
+      "sha1": "caa4bdc8a2adb34739ae235199ffb3bda674bb75",
+      "format": "JSON"
+    },
+    {
+      "name": "lokaantar-2022-10-19T18:45:05.851101+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666184411",
+      "size": "146160",
+      "md5": "68feffaf5eb8452cf914dba80622b195",
+      "crc32": "01722d93",
+      "sha1": "93e77b243034b2cf5de0f2d0cd6fc6a5c04db70c",
+      "format": "JSON"
+    },
+    {
+      "name": "lokaantar-2022-10-19T18:45:05.851101+05:45.jpg",
+      "source": "original",
+      "mtime": "1666184407",
+      "size": "265075",
+      "md5": "c5fdae7a591274f66919a067371faa14",
+      "crc32": "a3d29795",
+      "sha1": "e00416497996d3efefec18a9cddaad0ee54c2212",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lokaantar-2022-10-19T18:45:05.851101+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666184413",
+      "size": "1450",
+      "md5": "de0fae46b4450e0e31d846310fb30127",
+      "crc32": "89aa00e9",
+      "sha1": "1d0886d804138a0abec1ee340b63e11d7f345aaf",
+      "format": "JSON"
+    },
+    {
+      "name": "lokaantar-2022-10-19T18:45:05.851101+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666184415",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lokaantar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60e83b8678be1b78753be456d26a163c1774e02f",
-      "mtime": "1666143007",
-      "size": "217672",
-      "md5": "fbdc56eaa9d4d08bdd10e81b38f56f6d",
-      "crc32": "40a9ee58",
-      "sha1": "d6022f9595a62f358bdf644caf0434a50a2dc0b2",
+      "btih": "e5e796bcf35a1f7a1c619986a081f234846f48d5",
+      "mtime": "1666184504",
+      "size": "218943",
+      "md5": "138fad5885918307fa667e870081a357",
+      "crc32": "476de8c9",
+      "sha1": "6bc30074e11e63b38e2030921d5966aa421649cc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lokaantar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49981378c0d5bbda62b362c6bc8428b1",
+      "md5": "3472a584966c38d8dd265c1ee379b2cd",
       "summation": "md5"
     },
     {
       "name": "lokaantar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666142958",
-      "size": "1310720",
-      "md5": "4cf49dca163ac4c22e4f81414bacf497",
-      "crc32": "1e34ceb5",
-      "sha1": "384bf237d224a20c4f57e74968e8e7e3ee6cb1a5",
+      "mtime": "1666184445",
+      "size": "1318912",
+      "md5": "3309fc8100f33f81735b4294ee099f16",
+      "crc32": "aadc374a",
+      "sha1": "850f0a214c92856af357205cfbc3b79c7deec7d3",
       "format": "Metadata"
     },
     {
@@ -10621,9 +10683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1027,
-  "item_last_updated": 1666143007,
-  "item_size": 70802484,
+  "files_count": 1033,
+  "item_last_updated": 1666184504,
+  "item_size": 71235510,
   "metadata": {
     "identifier": "lokaantar-2022",
     "collection": [
@@ -10645,7 +10707,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445173796,
+      "task_id": 3445635926,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10653,7 +10715,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1514185337,
+  "uniq": 1904191410,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
