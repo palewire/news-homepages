@@ -33,7 +33,7 @@ def update_list(number):
     next_cursor, previous_cursor, member_list = api.GetListMembersPaged(
         list_id=sources_list.id, count=5000
     )
-    screenname_list = [m.screen_name.lower() for m in member_list]
+    screenname_list = [m.screen_name.lower().strip() for m in member_list]
     print(f":abacus: {len(member_list)} sources in the Twitter list")
 
     # Get the full list of sources
