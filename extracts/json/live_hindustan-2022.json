@@ -1,5 +1,5 @@
 {
-  "created": 1666098444,
+  "created": 1666142964,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/26/items/live_hindustan-2022",
@@ -10220,31 +10220,82 @@
       "sha1": "6dcf985295db62941e17f4f1df137c844721ea4d"
     },
     {
+      "name": "live_hindustan-2022-10-19T06:58:16.199943+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1666142905",
+      "size": "111698",
+      "md5": "5ef62bbe7a86f115e67e1d85dc270dfc",
+      "crc32": "b7d56058",
+      "sha1": "8f826ec7e4a684dd3e483302fe7ae72d01a47a32",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-10-19T06:58:16.199943+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142907",
+      "size": "127225",
+      "md5": "943da35f64286c9b18c71897832e255b",
+      "crc32": "a6c5016f",
+      "sha1": "995db50f16da893b47e7c7ef73643a58ffc1f27f",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-10-19T06:58:16.199943+05:30.jpg",
+      "source": "original",
+      "mtime": "1666142903",
+      "size": "313448",
+      "md5": "cdde8bfa97bda42b125b2c466c6fc98c",
+      "crc32": "cec5576a",
+      "sha1": "30e1aee81efab83da700f1deb1a6a03513348af0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "live_hindustan-2022-10-19T06:58:16.199943+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142908",
+      "size": "1522",
+      "md5": "95d3d654467f168c7e2c15395e13df67",
+      "crc32": "b0c908d6",
+      "sha1": "386f0ac397d9c4c781dffa681b8035c1259a8cde",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-10-19T06:58:16.199943+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1666142910",
+      "size": "30279",
+      "md5": "bdaeeedfd091284b0d3e5dc6e370016b",
+      "crc32": "4f807c08",
+      "sha1": "7966f54dab0363d51e1cc9be96a5cbec2edc5c06",
+      "format": "JSON"
+    },
+    {
       "name": "live_hindustan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7c9b0457fbfa2e276a4f8a63317a09d53e569a21",
-      "mtime": "1666098401",
-      "size": "217185",
-      "md5": "8ec96627c77d38e86a692cb0df4613a5",
-      "crc32": "f4e3e690",
-      "sha1": "f9f2123fcd2213f742aacae2fcf5fb1704fe9c9f",
+      "btih": "66b2086450e9d2d66ef4e381c3fdcce26e2a77d1",
+      "mtime": "1666142961",
+      "size": "218280",
+      "md5": "09d1b919af41807c4e2a7760b2d1dc7f",
+      "crc32": "b0f2d46e",
+      "sha1": "0d77839650ffe9b6745a9109e0077cab32cc2828",
       "format": "Archive BitTorrent"
     },
     {
       "name": "live_hindustan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ce6148471a2df030bc0e509ba9a16c35",
+      "md5": "284427ab1c08708f3484033a2aa94c2b",
       "summation": "md5"
     },
     {
       "name": "live_hindustan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666098196",
-      "size": "1277952",
-      "md5": "849c9c0ddb9f4f2fe6b5214ac054ca1f",
-      "crc32": "d876b67a",
-      "sha1": "2078e36b5efdb68788c5532cd4882e169edb711f",
+      "mtime": "1666142916",
+      "size": "1282048",
+      "md5": "6406180ff662436ec053acde5e81ab2d",
+      "crc32": "fb49dfb3",
+      "sha1": "b8f202d8edeec9411f779aac25bd35089dd3b20c",
       "format": "Metadata"
     },
     {
@@ -10258,9 +10309,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 992,
-  "item_last_updated": 1666098401,
-  "item_size": 106546665,
+  "files_count": 997,
+  "item_last_updated": 1666142961,
+  "item_size": 107136028,
   "metadata": {
     "identifier": "live_hindustan-2022",
     "collection": [
@@ -10277,10 +10328,21 @@
     "publicdate": "2022-07-27 17:18:19",
     "addeddate": "2022-07-27 17:18:19"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 107050412,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445173392,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1218858681,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666098661,
+  "created": 1666143096,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/6/items/lemonde_en-2022",
@@ -24136,31 +24136,82 @@
       "sha1": "f36cda3feb599be337f59029a84325dd8ce71e74"
     },
     {
+      "name": "lemonde_en-2022-10-19T03:29:25.739665+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142991",
+      "size": "29460",
+      "md5": "6b9e344b198e689fe1e404c38ca0c4b6",
+      "crc32": "5e6d52f7",
+      "sha1": "a4bc9f389684da01935f838ed8487888806815a6",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-10-19T03:29:25.739665+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142993",
+      "size": "48766",
+      "md5": "95d0a18e939c0d44c09c3345d4841e3a",
+      "crc32": "5045b9c8",
+      "sha1": "98df54b5f5d1b7798282ff015e20178234737b98",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-10-19T03:29:25.739665+02:00.jpg",
+      "source": "original",
+      "mtime": "1666142990",
+      "size": "273747",
+      "md5": "f08ff7c3b8957941c95bffb04d104117",
+      "crc32": "01a1bf19",
+      "sha1": "93d69f87515f4d845e1e796e08f8063060f9609c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-10-19T03:29:25.739665+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142995",
+      "size": "1477",
+      "md5": "587cecdaf2efb154fc0f9fa4604643f1",
+      "crc32": "68b7085d",
+      "sha1": "563f7f9e62b026022c3d2806f90502eddb369bfa",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-10-19T03:29:25.739665+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142997",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lemonde_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e37993c92ca04fa513c8e637b59c99fb639a283",
-      "mtime": "1666098583",
-      "size": "494191",
-      "md5": "4a8ba184ff0d564570ff279b60895408",
-      "crc32": "1dbe06ea",
-      "sha1": "71d8a8b41b2d263d765f807d9af7860763ebe82d",
+      "btih": "15c6d3ae13727c329ec030bdf408b492a6a8d8e4",
+      "mtime": "1666143088",
+      "size": "495262",
+      "md5": "315e4abbb8ee1cbe31ff79cbbd20c7a2",
+      "crc32": "7aa9e9a4",
+      "sha1": "3d490742c17a865688046d5efc16783879041887",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemonde_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c5a845e5aa9c62b0fa2b6e502f149a9",
+      "md5": "5ae2f055ea8553120df28cafcf49fb82",
       "summation": "md5"
     },
     {
       "name": "lemonde_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666098200",
-      "size": "2854912",
-      "md5": "db81a90c9d768a8ea6d7403708ed390a",
-      "crc32": "bcb60662",
-      "sha1": "47faa6fcecd1efa9e16751e6f0c27070446bc334",
+      "mtime": "1666143007",
+      "size": "2863104",
+      "md5": "d1da790f8d47a67bfb68550bd36bd428",
+      "crc32": "e62ddb94",
+      "sha1": "02d51f2ac9882cd365895990f9224919f9f236a6",
       "format": "Metadata"
     },
     {
@@ -24174,9 +24225,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2325,
-  "item_last_updated": 1666098583,
-  "item_size": 166651396,
+  "files_count": 2330,
+  "item_last_updated": 1666143088,
+  "item_size": 167014311,
   "metadata": {
     "identifier": "lemonde_en-2022",
     "collection": [
@@ -24193,10 +24244,21 @@
     "publicdate": "2022-04-09 13:40:13",
     "addeddate": "2022-04-09 13:40:13"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 212214646,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445174417,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1505920729,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

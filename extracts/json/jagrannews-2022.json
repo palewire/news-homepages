@@ -1,5 +1,5 @@
 {
-  "created": 1666098332,
+  "created": 1666142608,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/27/items/jagrannews-2022",
@@ -10326,31 +10326,82 @@
       "sha1": "b5fa03600c38a3f1c5a4ef660012877886fe43ca"
     },
     {
+      "name": "jagrannews-2022-10-19T06:52:17.852515+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1666142541",
+      "size": "150812",
+      "md5": "124cb9b9a2385a791feb9741c4e6abfb",
+      "crc32": "37d53a40",
+      "sha1": "65701f3f65b128280c2bbc4729449caff3f10751",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-19T06:52:17.852515+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142544",
+      "size": "135984",
+      "md5": "2cbfaf658b0c36f5d52d826e6ba9bbab",
+      "crc32": "d036ac87",
+      "sha1": "846affe99e666706e2b2f6362b78c02670138310",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-19T06:52:17.852515+05:30.jpg",
+      "source": "original",
+      "mtime": "1666142539",
+      "size": "259976",
+      "md5": "fba7b20027412199ab655519eaa0bc3c",
+      "crc32": "285cb151",
+      "sha1": "97a21065f30d314262afa4cdd7854f0a870bdd97",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jagrannews-2022-10-19T06:52:17.852515+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142546",
+      "size": "1459",
+      "md5": "ed80f2a268146754e6e653dab8132e7e",
+      "crc32": "a1a1b3a5",
+      "sha1": "c7360383ca8ec41b9be8ccc6a17b8220176dedbe",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-19T06:52:17.852515+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1666142550",
+      "size": "29703",
+      "md5": "9c31467309e626a86c757209fee4e564",
+      "crc32": "8f318c6a",
+      "sha1": "7b0bf9dc9a0e8063541a558cba8507d501ae6ddd",
+      "format": "JSON"
+    },
+    {
       "name": "jagrannews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec7b9d363c7b834cd923b82fea00b0d5914621bb",
-      "mtime": "1666098309",
-      "size": "214889",
-      "md5": "0657a89ba245e8f8f418a710e111e8f9",
-      "crc32": "f3cd3d9f",
-      "sha1": "0e66d3efdf92b7322c3495ae655c7fb199915592",
+      "btih": "1be86d4e0266127ae2ce264ac51892a481bc4858",
+      "mtime": "1666142600",
+      "size": "215984",
+      "md5": "b274abdf5241f48139ae091ef27db87a",
+      "crc32": "1e7b8b9a",
+      "sha1": "d57d6259d30028905884cce3e9a5c1d56dd64624",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jagrannews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69b6a7d99e860c98fbfcf8c4aa817f74",
+      "md5": "b94dfe7297eb720995900e834367b253",
       "summation": "md5"
     },
     {
       "name": "jagrannews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666097878",
-      "size": "1282048",
-      "md5": "d8f0a87643abbf16c5a434a4c998bb3c",
-      "crc32": "95653fc9",
-      "sha1": "8a2c8bd6b000319fc0f143045b65b87e07746a49",
+      "mtime": "1666142556",
+      "size": "1290240",
+      "md5": "ce13ea7c08aa0915f559268892d83f57",
+      "crc32": "c2817172",
+      "sha1": "44c8e5764e1069b9cd0a0e81117f0c9544a2b07a",
       "format": "Metadata"
     },
     {
@@ -10364,9 +10415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1002,
-  "item_last_updated": 1666098309,
-  "item_size": 100352069,
+  "files_count": 1007,
+  "item_last_updated": 1666142600,
+  "item_size": 100939290,
   "metadata": {
     "identifier": "jagrannews-2022",
     "collection": [
@@ -10383,10 +10434,21 @@
     "publicdate": "2022-07-27 17:18:37",
     "addeddate": "2022-07-27 17:18:37"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 146586477,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445170588,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1064510453,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

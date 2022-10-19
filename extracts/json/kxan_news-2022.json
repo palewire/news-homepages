@@ -1,5 +1,5 @@
 {
-  "created": 1666098313,
+  "created": 1666142801,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/kxan_news-2022",
@@ -11018,31 +11018,82 @@
       "sha1": "a716824156e8a7ebfe356c102768249d4881659c"
     },
     {
+      "name": "kxan_news-2022-10-18T20:25:29.849614-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142739",
+      "size": "60546",
+      "md5": "bc0bf68f01985dc7846f60b174c0daa8",
+      "crc32": "22403d81",
+      "sha1": "7a19c77f292ba8c32ed537296281b03ec36de9ff",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-10-18T20:25:29.849614-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142740",
+      "size": "122476",
+      "md5": "db972f47172c40c44e15ffa8efec224d",
+      "crc32": "844db24a",
+      "sha1": "0d00f3caaab4e7cc341900c6601efad8f17b3a81",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-10-18T20:25:29.849614-05:00.jpg",
+      "source": "original",
+      "mtime": "1666142737",
+      "size": "316991",
+      "md5": "095106d8b886421314f59db021d766ac",
+      "crc32": "c9b2801f",
+      "sha1": "82c7142d51eadb4f8c406923c0c53843c0eea81e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kxan_news-2022-10-18T20:25:29.849614-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142742",
+      "size": "1441",
+      "md5": "6521a8b0e89ba77a85a8a8694b446850",
+      "crc32": "04bad2fc",
+      "sha1": "cec3e5ba8e086921ea657ba47990f79234a5f250",
+      "format": "JSON"
+    },
+    {
+      "name": "kxan_news-2022-10-18T20:25:29.849614-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142743",
+      "size": "67714",
+      "md5": "041a56e976ccff9417cb1cd5a198244e",
+      "crc32": "af8ed794",
+      "sha1": "5a9ad2f426604d6c9cc0b6ea3cd6a290c4622cdf",
+      "format": "JSON"
+    },
+    {
       "name": "kxan_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00fa5e89d545c8c5db852ab1b0437827a6fd13e9",
-      "mtime": "1666098294",
-      "size": "227602",
-      "md5": "b818a651469053081cd8f0fc1904f04f",
-      "crc32": "1148d96a",
-      "sha1": "6fe80d212e2378a63470f143d92a1eb88e10da76",
+      "btih": "893628855c7b46911ca699ff9099400f69c0af4c",
+      "mtime": "1666142793",
+      "size": "228671",
+      "md5": "61ead5b8a6e432a3f2ffe76b5d3a3610",
+      "crc32": "c1f665a5",
+      "sha1": "a879d80dba93cc0e16a4eb8e2202308e50c2eca4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kxan_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ca7ce9642b68a8090f37caf72ee0713",
+      "md5": "b2ba2830803b2edcd9817565e07e1c0b",
       "summation": "md5"
     },
     {
       "name": "kxan_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666098080",
-      "size": "1351680",
-      "md5": "7286b48f5506f0a199b093ec4a69fc92",
-      "crc32": "c81725d8",
-      "sha1": "3f4aca138ff15dc8b7b6b3f6f3704a63b7054f01",
+      "mtime": "1666142747",
+      "size": "1359872",
+      "md5": "a0c13d76e89243b94702edc6e3b9448c",
+      "crc32": "131116c3",
+      "sha1": "521d2f8199aaeaeedaf2763197264213f4f91043",
       "format": "Metadata"
     },
     {
@@ -11056,9 +11107,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1068,
-  "item_last_updated": 1666098294,
-  "item_size": 100072159,
+  "files_count": 1073,
+  "item_last_updated": 1666142793,
+  "item_size": 100650588,
   "metadata": {
     "identifier": "kxan_news-2022",
     "collection": [
@@ -11075,10 +11126,21 @@
     "publicdate": "2022-07-18 00:05:12",
     "addeddate": "2022-07-18 00:05:12"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1899600862,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445172119,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 278740546,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

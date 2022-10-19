@@ -1,5 +1,5 @@
 {
-  "created": 1666098341,
+  "created": 1666142990,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/littlevillage-2022",
@@ -16106,31 +16106,82 @@
       "sha1": "29f647e78e3b6991b028695a1803bca04c354f22"
     },
     {
+      "name": "littlevillage-2022-10-18T20:28:16.123791-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142918",
+      "size": "32108",
+      "md5": "2ddc43679c0145a58492e2e80679bae9",
+      "crc32": "4add07de",
+      "sha1": "ad5e2d54f543fc7698b577ab981bb5b6357d9690",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-10-18T20:28:16.123791-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142919",
+      "size": "37936",
+      "md5": "739385eb7ba1f30bdc50b3b1f6713819",
+      "crc32": "002132c8",
+      "sha1": "b34918f2caa2850276fff19b28db03a99ed06486",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-10-18T20:28:16.123791-05:00.jpg",
+      "source": "original",
+      "mtime": "1666142916",
+      "size": "282797",
+      "md5": "56c60c74e6736dd49087fbdb49260355",
+      "crc32": "93508b5d",
+      "sha1": "724a21cd346f63a5054866634b02edd057c9003f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "littlevillage-2022-10-18T20:28:16.123791-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142921",
+      "size": "1510",
+      "md5": "6fb1f0bc8fab954363da86207a963144",
+      "crc32": "eed739ee",
+      "sha1": "99fe27991fd6d381ccd6d6893897557493a0e133",
+      "format": "JSON"
+    },
+    {
+      "name": "littlevillage-2022-10-18T20:28:16.123791-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142922",
+      "size": "27797",
+      "md5": "65ef1f7d9632798df0e00035cea76f1f",
+      "crc32": "1815202b",
+      "sha1": "49a43cb84cfb630f6493708005b4ae02c6f86f53",
+      "format": "JSON"
+    },
+    {
       "name": "littlevillage-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1220234fdbeedaf265f50a19b818f29cffc29ad6",
-      "mtime": "1666098322",
-      "size": "335934",
-      "md5": "d6aa4facef43c0fd3d4e7b1abfcfe4bf",
-      "crc32": "3c4052cb",
-      "sha1": "694f64e58b89876cee7346ba619c48dea47922bd",
+      "btih": "91645a4144f5a9d7b6d3f370c913da668d8432ef",
+      "mtime": "1666142987",
+      "size": "337022",
+      "md5": "7fc78aad8cedc802a5aeb2053377d65a",
+      "crc32": "747e8419",
+      "sha1": "29e9f583d4a38853becfc01699243766658d2308",
       "format": "Archive BitTorrent"
     },
     {
       "name": "littlevillage-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e755549f6bea881a3494fd41819b26a4",
+      "md5": "ca17d9acf4cc5ab2d75302bb9b291a62",
       "summation": "md5"
     },
     {
       "name": "littlevillage-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666098191",
-      "size": "1949696",
-      "md5": "d0e7aa76533c5f079d21fcd4a6cbf88e",
-      "crc32": "0d201d91",
-      "sha1": "abca86809fbac1951419c45b156d5e8f05e48fb3",
+      "mtime": "1666142926",
+      "size": "1953792",
+      "md5": "d1cd276c54ae7206ab3c2d09d5bba390",
+      "crc32": "28cbcab1",
+      "sha1": "008e5188e6a7ad95185c314041e958a198ad292a",
       "format": "Metadata"
     },
     {
@@ -16144,9 +16195,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1556,
-  "item_last_updated": 1666098322,
-  "item_size": 117604996,
+  "files_count": 1561,
+  "item_last_updated": 1666142987,
+  "item_size": 117992328,
   "metadata": {
     "identifier": "littlevillage-2022",
     "collection": [
@@ -16163,10 +16214,21 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 1628848071,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445173592,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1635367195,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }

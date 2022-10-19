@@ -1,5 +1,5 @@
 {
-  "created": 1666098245,
+  "created": 1666142800,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/20/items/lagrangenews-2022",
@@ -10920,31 +10920,82 @@
       "sha1": "ca2aeace200372ae7a1a9b060c876d71d05a43fc"
     },
     {
+      "name": "lagrangenews-2022-10-18T21:25:20.355689-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142728",
+      "size": "21591",
+      "md5": "753110dadbfdfa0d7de6858465d592a4",
+      "crc32": "17d1b7a7",
+      "sha1": "dcad975641ea7bc5158ea554b6262cbe39649a85",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-10-18T21:25:20.355689-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142730",
+      "size": "12624",
+      "md5": "73857031b75b792a66d720b90e30f2c9",
+      "crc32": "2956d4b7",
+      "sha1": "3ad10a924acdd10dda112cc99ab715ea36ff37e9",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-10-18T21:25:20.355689-04:00.jpg",
+      "source": "original",
+      "mtime": "1666142726",
+      "size": "315028",
+      "md5": "a36ab7117d07d4aa6ef951df51ae3bea",
+      "crc32": "1528b7d5",
+      "sha1": "c2f9b9ef4bc1ff398b476446c940a279b181f1a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lagrangenews-2022-10-18T21:25:20.355689-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142732",
+      "size": "1504",
+      "md5": "bb415ba7c7855ec11047b0d8fbb6d0e3",
+      "crc32": "c06f5d4a",
+      "sha1": "90d4468a3d8e346f1ba2ada77c1e680db87380dd",
+      "format": "JSON"
+    },
+    {
+      "name": "lagrangenews-2022-10-18T21:25:20.355689-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142733",
+      "size": "12439",
+      "md5": "95e70a18659296820fe6351c269499a0",
+      "crc32": "f7da05ba",
+      "sha1": "4ae7e3bb6a320429e6b645810a5c6823e8fdf7ea",
+      "format": "JSON"
+    },
+    {
       "name": "lagrangenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb92d16272f544bc67e6e8553c020895169df9a0",
-      "mtime": "1666098212",
-      "size": "226861",
-      "md5": "898e1d96f0b268562cc8175c79743308",
-      "crc32": "81b95041",
-      "sha1": "224eca43efa1137ad5ead29e6a5f76652027f267",
+      "btih": "844fe3092bdd4869037a4a4db49088e4afe34a3a",
+      "mtime": "1666142789",
+      "size": "227944",
+      "md5": "b9d65943480e1cdd8078de02afdc1732",
+      "crc32": "1781455c",
+      "sha1": "93989e30e1efdf5c1319d0b532d513b7d5b681bf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lagrangenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a1b18a11e9aa48e630184feec18ce6df",
+      "md5": "a5f04ca970f302d9bd20d59d5cc0c644",
       "summation": "md5"
     },
     {
       "name": "lagrangenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666098074",
-      "size": "1351680",
-      "md5": "b4746d19b0c0a24b53b258ff158e48c9",
-      "crc32": "376e0f50",
-      "sha1": "f9b42df3c5554e440069917e1af22057d7bea112",
+      "mtime": "1666142739",
+      "size": "1359872",
+      "md5": "10b28b8b3cffa25a54f047d1931e4451",
+      "crc32": "c3a4707b",
+      "sha1": "b87563dabbd2e960c5aef30139a6b694500757f7",
       "format": "Metadata"
     },
     {
@@ -10958,9 +11009,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1059,
-  "item_last_updated": 1666098212,
-  "item_size": 55657672,
+  "files_count": 1064,
+  "item_last_updated": 1666142789,
+  "item_size": 56030133,
   "metadata": {
     "identifier": "lagrangenews-2022",
     "collection": [
@@ -10977,10 +11028,21 @@
     "publicdate": "2022-07-20 23:31:04",
     "addeddate": "2022-07-20 23:31:04"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 11145703,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445172110,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1813020246,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

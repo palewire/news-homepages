@@ -1,5 +1,5 @@
 {
-  "created": 1666097945,
+  "created": 1666142600,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/jessicavalenti-2022",
@@ -8148,31 +8148,82 @@
       "sha1": "77bf629e8a0eb19459fc74b6605e731d80ee375f"
     },
     {
+      "name": "jessicavalenti-2022-10-18T21:22:16.889520-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142542",
+      "size": "13973",
+      "md5": "0b965892b52d330c4571c26f5b1b774b",
+      "crc32": "8b2d05c8",
+      "sha1": "98bdff7c120c5092f7af2dd9e22148a451809bfb",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-10-18T21:22:16.889520-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142544",
+      "size": "11350",
+      "md5": "bdb9350ce1855308571dbbea8be2d255",
+      "crc32": "fcb06178",
+      "sha1": "31bff686a903a3955655e627d02a05521ae21dd9",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-10-18T21:22:16.889520-04:00.jpg",
+      "source": "original",
+      "mtime": "1666142540",
+      "size": "203842",
+      "md5": "33c8ec6fdd7a9ca9e35d3092d2a8e124",
+      "crc32": "a95f9e09",
+      "sha1": "1034c9eb3241f3e50df0c187ce71c07e01effa2d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jessicavalenti-2022-10-18T21:22:16.889520-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142546",
+      "size": "1504",
+      "md5": "37ba22a896494d6ab04207c027e2df27",
+      "crc32": "f4dffca2",
+      "sha1": "999cf15f0ca46b042685a143562bc843005ac184",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-10-18T21:22:16.889520-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142550",
+      "size": "9574",
+      "md5": "99015059abdfd386d8006248febdf56e",
+      "crc32": "c87a7dcb",
+      "sha1": "9fd977afc47f5912b1a5c52b5eba1353e6daf4ea",
+      "format": "JSON"
+    },
+    {
       "name": "jessicavalenti-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1464941d9962a10392cca532cf64c95d8bc7209f",
-      "mtime": "1666097937",
-      "size": "171116",
-      "md5": "c24cb7be7eb9a17638ff67392e3df7f5",
-      "crc32": "b1f74d7c",
-      "sha1": "52a412a38823044339cf1491f90f26eabc4c5199",
+      "btih": "4813bb096eba416aaca3abdea8d8b93cfa860ead",
+      "mtime": "1666142596",
+      "size": "172208",
+      "md5": "c3cf6beed5e03a67834278ad84b4e7c9",
+      "crc32": "b2c34eaf",
+      "sha1": "f3743f69f4fa0891205641ee383849f015b05436",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jessicavalenti-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cdc03453539dfbff56a4cf8cf49ed9b9",
+      "md5": "8dc135674549bd6fd096a1152930c645",
       "summation": "md5"
     },
     {
       "name": "jessicavalenti-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666097870",
-      "size": "1028096",
-      "md5": "a5fd3b79fa890c1d6d3e884671656c68",
-      "crc32": "966176ce",
-      "sha1": "690a73a9b8e3a0550440f68715eacb2cfbbadb12",
+      "mtime": "1666142554",
+      "size": "1036288",
+      "md5": "2fb57680022ff334936a6c4d8c3a46c9",
+      "crc32": "0abd55d2",
+      "sha1": "8151c52ce03d849d2aa51ddf618b60334dab8ff3",
       "format": "Metadata"
     },
     {
@@ -8186,9 +8237,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 792,
-  "item_last_updated": 1666097937,
-  "item_size": 34680289,
+  "files_count": 797,
+  "item_last_updated": 1666142596,
+  "item_size": 34929816,
   "metadata": {
     "identifier": "jessicavalenti-2022",
     "collection": [
@@ -8205,10 +8256,21 @@
     "publicdate": "2022-08-14 20:19:10",
     "addeddate": "2022-08-14 20:19:10"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1455246943,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445170524,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 452070988,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

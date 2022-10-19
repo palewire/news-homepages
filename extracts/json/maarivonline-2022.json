@@ -1,5 +1,5 @@
 {
-  "created": 1666098487,
+  "created": 1666142977,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/8/items/maarivonline-2022",
@@ -8082,31 +8082,82 @@
       "sha1": "4cd1c3b55a640c2580db3f88067dd5ec8ac1a0e9"
     },
     {
+      "name": "maarivonline-2022-10-19T04:28:26.105742+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142918",
+      "size": "101630",
+      "md5": "badd92d6690325d201529bb1ad304278",
+      "crc32": "2f95a398",
+      "sha1": "c8a9b3b428e940f1ea05bbc23826c2db6bc11c19",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-19T04:28:26.105742+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142920",
+      "size": "154684",
+      "md5": "c27b377cb7c60df2915ac841d99f5cfc",
+      "crc32": "27f9635f",
+      "sha1": "95e5da4def64c61c6aeec575ffa9ebb172f9676d",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-19T04:28:26.105742+03:00.jpg",
+      "source": "original",
+      "mtime": "1666142917",
+      "size": "242196",
+      "md5": "84eca11eaf89d090de56da30342871a3",
+      "crc32": "8a86f56a",
+      "sha1": "42e79a55c8e2f5e2df3946f59310c122703de5d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "maarivonline-2022-10-19T04:28:26.105742+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142923",
+      "size": "1459",
+      "md5": "db33555bb2ebf088bb713dda2ddf248e",
+      "crc32": "b61e415b",
+      "sha1": "ca9094bd1f30e07c0946f7c3f4d90b4df7da0917",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-19T04:28:26.105742+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142925",
+      "size": "91045",
+      "md5": "2efb3323ed0f2b5f0e0b2c95581a8785",
+      "crc32": "e9ab63d2",
+      "sha1": "b3cc4e8f317eb354b15158c9e7d73d5b8c20226d",
+      "format": "JSON"
+    },
+    {
       "name": "maarivonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c737acb121b3b2f5e04963bbd88ed3444c8d768",
-      "mtime": "1666098305",
-      "size": "169769",
-      "md5": "a61714007cafbb08a61eba730bfe06b1",
-      "crc32": "462c53af",
-      "sha1": "d069b99f757cb3fa113327b4641770590d29ed93",
+      "btih": "3bbb78abcfdedbcd4f1c2dc07ac51b400ac47bc3",
+      "mtime": "1666142972",
+      "size": "170854",
+      "md5": "fc9a86a9cce2b129cb64164dc32abff0",
+      "crc32": "4e5a42cf",
+      "sha1": "85dfc5ab238e7c7b64a246e1715d17b7511ee385",
       "format": "Archive BitTorrent"
     },
     {
       "name": "maarivonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "65a37f2502bba9801fecdfb78b7917da",
+      "md5": "47b5b0a99b85d049347271001030d361",
       "summation": "md5"
     },
     {
       "name": "maarivonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666098212",
-      "size": "1007616",
-      "md5": "afad1f18cfb4079833f3bb5452a814f9",
-      "crc32": "c1b4a826",
-      "sha1": "8f920249494263f9f935116b7e1130c9efaa81f0",
+      "mtime": "1666142929",
+      "size": "1015808",
+      "md5": "cc1cf591bd512eecb71191386975baa3",
+      "crc32": "74115944",
+      "sha1": "c7adb905566d11f3fa3a9332860b0b1136bff152",
       "format": "Metadata"
     },
     {
@@ -8120,9 +8171,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 785,
-  "item_last_updated": 1666098305,
-  "item_size": 73067858,
+  "files_count": 790,
+  "item_last_updated": 1666142972,
+  "item_size": 73668149,
   "metadata": {
     "identifier": "maarivonline-2022",
     "collection": [
@@ -8139,10 +8190,21 @@
     "publicdate": "2022-08-14 03:14:50",
     "addeddate": "2022-08-14 03:14:50"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1511709365,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445173494,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 289906224,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666097996,
+  "created": 1666142661,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/34/items/houstonchron-2022",
@@ -12066,31 +12066,82 @@
       "sha1": "51dff1d7302e72d76d4498b1bacb806084af6150"
     },
     {
+      "name": "houstonchron-2022-10-18T20:23:07.351410-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142596",
+      "size": "63414",
+      "md5": "2e6b5050b86282673e969beaa3551648",
+      "crc32": "f38a0933",
+      "sha1": "41d1d2a3648244cf3fc444484e1aedcf871e3cee",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-10-18T20:23:07.351410-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142597",
+      "size": "80624",
+      "md5": "c35732db5126f27b029ff9d6a19746e4",
+      "crc32": "9fea12a4",
+      "sha1": "69240406b1ff5e74d4d92bdc1ed282d2aff9ca6c",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-10-18T20:23:07.351410-05:00.jpg",
+      "source": "original",
+      "mtime": "1666142594",
+      "size": "340523",
+      "md5": "1db7d6e9594d4688804d93fafe21ed8c",
+      "crc32": "1adea0cb",
+      "sha1": "c64a7a6d4ac40d45cdb64d3914e5334d5189e94d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houstonchron-2022-10-18T20:23:07.351410-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142599",
+      "size": "1549",
+      "md5": "2bebbb47b5cbefa2410ab6389d3f6732",
+      "crc32": "aedf5fd8",
+      "sha1": "26b0247b058ea3f293cfab66c2e63d61edd46f21",
+      "format": "JSON"
+    },
+    {
+      "name": "houstonchron-2022-10-18T20:23:07.351410-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142600",
+      "size": "110648",
+      "md5": "41c16e14b4ded6acd6cbde79053fc468",
+      "crc32": "7d17422e",
+      "sha1": "a2b245f84f2f023fb49a207e7f800c531d8ca8bf",
+      "format": "JSON"
+    },
+    {
       "name": "houstonchron-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f231ed0c8ad0db46df000643da25a9c98cd3ef4",
-      "mtime": "1666097977",
-      "size": "252305",
-      "md5": "3720125c130a3f89008e0c82df258c91",
-      "crc32": "a0c5612f",
-      "sha1": "e19ecda5cfe156f8cd5feab22c56d3cfb0ad9d49",
+      "btih": "feff090d981d7d9c695694fb7e19ef5e6f5f1076",
+      "mtime": "1666142656",
+      "size": "253389",
+      "md5": "be0850190505fc17ffcd98940ba7cb63",
+      "crc32": "a57eeb8c",
+      "sha1": "aa297a317819a5cda03b99d67ce7411eb649d8d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houstonchron-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "795e6c277e7f97d2ee22b76b512ea01f",
+      "md5": "189e8bcc8d93d94c7d51b1b3f12cf6ee",
       "summation": "md5"
     },
     {
       "name": "houstonchron-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666097884",
-      "size": "1478656",
-      "md5": "e04833dd2a13973af6a94d6c5788b569",
-      "crc32": "68075d60",
-      "sha1": "2916aec82dd135a340a08e849eee5e83e078ce2a",
+      "mtime": "1666142608",
+      "size": "1486848",
+      "md5": "5c58928429334610523a65523a12067b",
+      "crc32": "ca62607b",
+      "sha1": "fb135f3f5a1950aa8db192ef5092ad6f5e2688f4",
       "format": "Metadata"
     },
     {
@@ -12104,9 +12155,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1168,
-  "item_last_updated": 1666097977,
-  "item_size": 110418932,
+  "files_count": 1173,
+  "item_last_updated": 1666142656,
+  "item_size": 111024966,
   "metadata": {
     "identifier": "houstonchron-2022",
     "collection": [
@@ -12123,10 +12174,21 @@
     "publicdate": "2022-07-04 21:54:16",
     "addeddate": "2022-07-04 21:54:16"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1838123592,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445170986,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 130937178,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666098190,
+  "created": 1666142826,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/19/items/kcstar-2022",
@@ -11872,31 +11872,82 @@
       "sha1": "f58d8632685ea3ad7a95a21e3a2c13b505bff84f"
     },
     {
+      "name": "kcstar-2022-10-18T20:25:58.970257-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142762",
+      "size": "458",
+      "md5": "5b5de8b2713c640ac069b021da2482d9",
+      "crc32": "6fd2ec05",
+      "sha1": "9da168210da406b60f797b2153efe3a53253b882",
+      "format": "JSON"
+    },
+    {
+      "name": "kcstar-2022-10-18T20:25:58.970257-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142763",
+      "size": "42514",
+      "md5": "7674237ca40edda0046d5957237ddfed",
+      "crc32": "5e87d8d6",
+      "sha1": "be332df2732b48439814e358cdb537f0d2902a53",
+      "format": "JSON"
+    },
+    {
+      "name": "kcstar-2022-10-18T20:25:58.970257-05:00.jpg",
+      "source": "original",
+      "mtime": "1666142760",
+      "size": "251746",
+      "md5": "dfa5a79885392aa274736dbea7109e4b",
+      "crc32": "6be5d392",
+      "sha1": "fdd04759ae3f99d065fb0ff3f1a087bfe01704f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcstar-2022-10-18T20:25:58.970257-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142765",
+      "size": "1493",
+      "md5": "baf336e2271287d99d725634a19b7ad9",
+      "crc32": "665fc08b",
+      "sha1": "d89d5a7eaef67b9a449c685c7b62acd371710649",
+      "format": "JSON"
+    },
+    {
+      "name": "kcstar-2022-10-18T20:25:58.970257-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142766",
+      "size": "81923",
+      "md5": "81f797b3a8c7efc4032196ce7a4f7523",
+      "crc32": "77d91118",
+      "sha1": "9004349b0a7eba35f6579a0e45a17586f81c912d",
+      "format": "JSON"
+    },
+    {
       "name": "kcstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c23154fadeeffd4f56f5b4f18093ebe5f152224",
-      "mtime": "1666098171",
-      "size": "239037",
-      "md5": "de004652da55d763f9c07d8f0208bf87",
-      "crc32": "1caf0ddf",
-      "sha1": "d428f1fc5df97e481b379ab8c9f3eb6e2dfb48ea",
+      "btih": "f911218071e4230363e4479a18871bede07177f4",
+      "mtime": "1666142818",
+      "size": "240088",
+      "md5": "7c2c6bf3d2a7b715e8cc619950892a0a",
+      "crc32": "68e4316c",
+      "sha1": "3fd3a0fa313fabb0bd81ba305cef9efbac76ad0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7de403df52fab3742eabcf61f5357922",
+      "md5": "b5b13e3d1e9f6365198943d22e6701ff",
       "summation": "md5"
     },
     {
       "name": "kcstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666098056",
-      "size": "1429504",
-      "md5": "29e32bd87fb21ff535fd6430eebcb001",
-      "crc32": "8be6cfff",
-      "sha1": "d8d554881982f90473f379959260935fd4bc4307",
+      "mtime": "1666142773",
+      "size": "1437696",
+      "md5": "ffcd6b3e377f4ecd44b3e00f672ba1f6",
+      "crc32": "00cb9691",
+      "sha1": "092a1ff7366359960f7a8c64a5552f93002a75db",
       "format": "Metadata"
     },
     {
@@ -11910,9 +11961,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1148,
-  "item_last_updated": 1666098171,
-  "item_size": 76424471,
+  "files_count": 1153,
+  "item_last_updated": 1666142818,
+  "item_size": 76811848,
   "metadata": {
     "identifier": "kcstar-2022",
     "collection": [
@@ -11929,10 +11980,21 @@
     "publicdate": "2022-07-04 21:55:21",
     "addeddate": "2022-07-04 21:55:21"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 1502018661,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445172279,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 301752568,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

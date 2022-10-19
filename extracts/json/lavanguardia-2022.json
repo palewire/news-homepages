@@ -1,5 +1,5 @@
 {
-  "created": 1666098240,
+  "created": 1666142797,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/lavanguardia-2022",
@@ -10044,31 +10044,82 @@
       "sha1": "97461574ffe165d8d11034de5ecd0af536adb4d8"
     },
     {
+      "name": "lavanguardia-2022-10-19T03:25:24.770294+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142731",
+      "size": "62675",
+      "md5": "f99c15760bfdc3a3dd343d7d7a66fb3b",
+      "crc32": "0f26ff56",
+      "sha1": "d2433147102179e6a03af2928a8d3023a0f665f3",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-19T03:25:24.770294+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142732",
+      "size": "35662",
+      "md5": "dd658ac09ec3f6cee25c663f3e1ec3c3",
+      "crc32": "7d6f7e4a",
+      "sha1": "647bb7b2c697c3fd52a98a19065a69e1abe3f339",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-19T03:25:24.770294+02:00.jpg",
+      "source": "original",
+      "mtime": "1666142729",
+      "size": "256104",
+      "md5": "dc50bb551a7ffb402e19836ecedd904a",
+      "crc32": "1cc8cfd1",
+      "sha1": "14e8ca8c396aa82c193fdf7ebc19c44e0d81943d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavanguardia-2022-10-19T03:25:24.770294+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142734",
+      "size": "1512",
+      "md5": "14e7de64b4c87e92ce4878e4121c710f",
+      "crc32": "c8b779a7",
+      "sha1": "58342e66c4ab3e228115a5576a93e99888a282a5",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-19T03:25:24.770294+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142736",
+      "size": "20853",
+      "md5": "0f552d442ba83949d3e80d1e00f0e3e9",
+      "crc32": "2249adc0",
+      "sha1": "e215fb2e75ce9cc78b0c8b1cd7830b1f5ee484fe",
+      "format": "JSON"
+    },
+    {
       "name": "lavanguardia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f083abaa0a176c097089f9cb3cf36175fc8d5092",
-      "mtime": "1666098196",
-      "size": "209477",
-      "md5": "10f607bace58fb0124f1378ee80bdc78",
-      "crc32": "9cf12e94",
-      "sha1": "84353e44d15f2ae0ca6ecd00ee5d41b5be2b0992",
+      "btih": "7b2b867b166e16236f302aa5d68aff1e9f4f3055",
+      "mtime": "1666142787",
+      "size": "210560",
+      "md5": "f979193ece23da178086796886c4b5f1",
+      "crc32": "ba3acd94",
+      "sha1": "2a6e68712f89b79bd58f74d04b565429b8b8f745",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavanguardia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eb9dc73513770710a5dbbe8de56c7e80",
+      "md5": "f9ea1ebcf931cf67aef7f6f038f95b9c",
       "summation": "md5"
     },
     {
       "name": "lavanguardia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666098046",
-      "size": "1253376",
-      "md5": "f1522160349c384ef419f31d1ead5357",
-      "crc32": "32985890",
-      "sha1": "a257aff0319e8cc77095bff9b0238b524ffcbab5",
+      "mtime": "1666142741",
+      "size": "1261568",
+      "md5": "4ee51bc798d15e3f79f6713874fa2a98",
+      "crc32": "84ae9734",
+      "sha1": "0ecba4e96c39b17ff9cde675806a9ccb5d84fa4a",
       "format": "Metadata"
     },
     {
@@ -10082,9 +10133,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 975,
-  "item_last_updated": 1666098196,
-  "item_size": 64663190,
+  "files_count": 980,
+  "item_last_updated": 1666142787,
+  "item_size": 65049271,
   "metadata": {
     "identifier": "lavanguardia-2022",
     "collection": [
@@ -10101,10 +10152,21 @@
     "publicdate": "2022-07-28 18:53:54",
     "addeddate": "2022-07-28 18:53:54"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1651189969,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445172103,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1779794334,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

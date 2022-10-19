@@ -1,5 +1,5 @@
 {
-  "created": 1666098211,
+  "created": 1666142807,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -12242,31 +12242,82 @@
       "sha1": "407b22c6b1fc48d6856769b0c01ad0279a8e7035"
     },
     {
+      "name": "lasvegassun-2022-10-18T18:25:22.988818-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142737",
+      "size": "19866",
+      "md5": "d1901ce7d48e82b3928feb166309bbb4",
+      "crc32": "d6b5a1de",
+      "sha1": "feb440bfe0f8dbba4a6142ccf96dd1191697bb1a",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-10-18T18:25:22.988818-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142739",
+      "size": "13136",
+      "md5": "c5ab98dec6a5aa6781f0b26c08b23f36",
+      "crc32": "38fd6933",
+      "sha1": "a4ad8d014fb2502e6665ca5fb1aeabbc4e6637f7",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-10-18T18:25:22.988818-07:00.jpg",
+      "source": "original",
+      "mtime": "1666142735",
+      "size": "362460",
+      "md5": "570f08cbec786d5d1096984c31c4d951",
+      "crc32": "7418c1eb",
+      "sha1": "80a1ec419976b8388f7fb8fe179342f53cc0a476",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lasvegassun-2022-10-18T18:25:22.988818-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142741",
+      "size": "1483",
+      "md5": "40f65208b5efb1c7d115a4e0de6087c5",
+      "crc32": "a440cd2c",
+      "sha1": "2b74ccb1ab636d92496469afc2fdce508bb8020c",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-10-18T18:25:22.988818-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142743",
+      "size": "27166",
+      "md5": "629a46f4c86fc917d27ae3810d573dc7",
+      "crc32": "629abd99",
+      "sha1": "4c82f7620dd2b8fa9a7d78b9d5e62619228d0449",
+      "format": "JSON"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b2f9d94f2ebc3656f87decbf16191805bb3ba9b3",
-      "mtime": "1666098191",
-      "size": "253594",
-      "md5": "721318fb23deff815535092c23b869e3",
-      "crc32": "5adc98ab",
-      "sha1": "209d01413525ed8ea6afb671a214ba5ac4bc60de",
+      "btih": "91cdfd1a563587ad9b2630fa058dd5ff9dc49680",
+      "mtime": "1666142801",
+      "size": "254672",
+      "md5": "c794bafd473d9965a10ad6f141aef900",
+      "crc32": "566b45e0",
+      "sha1": "6dc06fc8874622ef960d559266ade326104cef8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b50455cf5828e6a059643c921647175",
+      "md5": "8c57999c66f7878292e015c27c4b4f77",
       "summation": "md5"
     },
     {
       "name": "lasvegassun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666098037",
-      "size": "1499136",
-      "md5": "0600055d3007cc88c00b4ea2b15935a2",
-      "crc32": "8ac4c74a",
-      "sha1": "cd53371d1e4f7261338cc2148ac1bc592b7f7e78",
+      "mtime": "1666142752",
+      "size": "1503232",
+      "md5": "69e9758c88d1529763528cd49929de4c",
+      "crc32": "fe7c3130",
+      "sha1": "178a002e37d68e3d84d27113be2094ac15f58420",
       "format": "Metadata"
     },
     {
@@ -12280,9 +12331,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1185,
-  "item_last_updated": 1666098191,
-  "item_size": 87145196,
+  "files_count": 1190,
+  "item_last_updated": 1666142801,
+  "item_size": 87574481,
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -12299,10 +12350,21 @@
     "publicdate": "2022-07-04 21:55:34",
     "addeddate": "2022-07-04 21:55:34"
   },
+  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "uniq": 274423388,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445172164,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1945428028,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }
