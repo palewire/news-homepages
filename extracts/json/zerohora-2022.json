@@ -1,5 +1,6 @@
 {
-  "created": 1666164697,
+  "conflict": 1666181543,
+  "created": 1666181543,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/zerohora-2022",
@@ -13355,6 +13356,17 @@
       "format": "JSON"
     },
     {
+      "name": "zerohora-2022-10-19T04:29:49.088724-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-10-19T04:29:49.088724-03:00.jpg",
+      "mtime": "1666181470",
+      "size": "10600",
+      "md5": "110c9020412e2c0d65121f2947d56589",
+      "crc32": "568ee758",
+      "sha1": "9d3690e86909d2b4da57e15fc94c248a65136ffe"
+    },
+    {
       "name": "zerohora-2022_archive.torrent",
       "source": "metadata",
       "btih": "97cb8683df26fd2b7b3df702386c6465fb9e9b2b",
@@ -13369,7 +13381,7 @@
       "name": "zerohora-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28e357ea21f10764fed09f044a8e42b0",
+      "md5": "ee24fadac1463e7ca9fe3d8fd6636181",
       "summation": "md5"
     },
     {
@@ -13393,9 +13405,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1296,
-  "item_last_updated": 1666164685,
-  "item_size": 92323353,
+  "files_count": 1297,
+  "item_last_updated": 1666181470,
+  "item_size": 92333953,
   "metadata": {
     "identifier": "zerohora-2022",
     "collection": [
@@ -13420,12 +13432,60 @@
       "task_id": 3445402573,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445604529,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445604574,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445604623,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445604657,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445604683,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445607852,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 559137398,
+  "uniq": 1720122322,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

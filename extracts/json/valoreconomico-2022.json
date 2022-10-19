@@ -1,5 +1,5 @@
 {
-  "created": 1666164544,
+  "created": 1666181563,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/valoreconomico-2022",
@@ -13409,31 +13409,83 @@
       "format": "JSON"
     },
     {
+      "name": "valoreconomico-2022-10-19T04:27:37.692043-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "valoreconomico-2022-10-19T04:27:37.692043-03:00.jpg",
+      "mtime": "1666181475",
+      "size": "8731",
+      "md5": "da07f1bc419e47f69e64551ca71a61b6",
+      "crc32": "58db7bbb",
+      "sha1": "59c82a04bdb9592c7f21dd033977ec9288f6fb42"
+    },
+    {
+      "name": "valoreconomico-2022-10-19T09:07:53.083825-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666181284",
+      "size": "64316",
+      "md5": "4517b6e0d204668c43cff4bd608be992",
+      "crc32": "7fe82b8e",
+      "sha1": "a183d257ec821a2b8ad3544047425b044447cce1",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-19T09:07:53.083825-03:00.jpg",
+      "source": "original",
+      "mtime": "1666181282",
+      "size": "218333",
+      "md5": "9e589267dce4966c78d2ef024ab3da30",
+      "crc32": "1229c49a",
+      "sha1": "791cd772dd48d49c3ac045a4e51397e7a58b310d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "valoreconomico-2022-10-19T09:07:53.083825-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666181286",
+      "size": "1468",
+      "md5": "1d040ab149606e69d0c599990efcd242",
+      "crc32": "faa2f8fe",
+      "sha1": "a88459fa7290ae5c61a239189849ac2b460bed15",
+      "format": "JSON"
+    },
+    {
+      "name": "valoreconomico-2022-10-19T09:07:53.083825-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666181287",
+      "size": "67734",
+      "md5": "860707c698cf1cd40e0350e64217a065",
+      "crc32": "944431d3",
+      "sha1": "98dc9b2e9b650ea55f30f8d7f7b7e6e514639633",
+      "format": "JSON"
+    },
+    {
       "name": "valoreconomico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1ecb0bc8d9be5ef3d104610edd5ed19ac77911d6",
-      "mtime": "1666164537",
-      "size": "282067",
-      "md5": "4d17028265c8d249b2df69c970cbdd32",
-      "crc32": "c13cefb4",
-      "sha1": "4afa104fd1fb553f551f34295ac96eddf1aa9375",
+      "btih": "b4be774a3806e721155bb6940b1615a5a9517185",
+      "mtime": "1666181540",
+      "size": "283153",
+      "md5": "bf7ed3307501b5bb30e6eba515702e22",
+      "crc32": "8dc64a0a",
+      "sha1": "993d80bcf0a53d5eb08bbe88a663d753cf628deb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "valoreconomico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "def5017241764eeb31f2ac1c1a80e67b",
+      "md5": "c61c8f6523955d4f0789a76e32bd6b9c",
       "summation": "md5"
     },
     {
       "name": "valoreconomico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666164479",
-      "size": "1675264",
-      "md5": "b124a3b80ded3856a3f1010c08c9550e",
-      "crc32": "81f433ec",
-      "sha1": "b7027321ffffe4e52409471c7429e21482a8f4ce",
+      "mtime": "1666181516",
+      "size": "1683456",
+      "md5": "f19668e0c283e1def60b6fb4520b7147",
+      "crc32": "3b90bf27",
+      "sha1": "f5f839982c8fe7b314de082133e3947a224f90d9",
       "format": "Metadata"
     },
     {
@@ -13447,9 +13499,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1301,
-  "item_last_updated": 1666164537,
-  "item_size": 89645303,
+  "files_count": 1306,
+  "item_last_updated": 1666181540,
+  "item_size": 90015163,
   "metadata": {
     "identifier": "valoreconomico-2022",
     "collection": [
@@ -13471,7 +13523,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445400874,
+      "task_id": 3445607154,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445607872,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13479,7 +13539,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2031330184,
+  "uniq": 1582615467,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666154159,
+  "created": 1666181288,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/amazoniaagencia-2022",
@@ -12849,31 +12849,93 @@
       "format": "JSON"
     },
     {
+      "name": "amazoniaagencia-2022-10-19T01:34:41.795485-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-19T01:34:41.795485-03:00.jpg",
+      "mtime": "1666174060",
+      "size": "10555",
+      "md5": "ba6878fbbd8e0826c5a49f7eb248c73d",
+      "crc32": "db585d63",
+      "sha1": "bc4fb5ce9cc9ca083d92b899ca80c9c0899165f7"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-19T09:06:01.852211-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666181193",
+      "size": "62735",
+      "md5": "4aa22aa75089e7b8894acb8dca14297a",
+      "crc32": "a8b3fc0a",
+      "sha1": "2d8158a5859f67bc5de5ea1ec705413f12d7eeca",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-19T09:06:01.852211-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666181195",
+      "size": "90652",
+      "md5": "8b762fc7df46e37b55e32da65bf08884",
+      "crc32": "74a32a54",
+      "sha1": "573e32613edc4e786a2aac1401529eb5360b325e",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-19T09:06:01.852211-03:00.jpg",
+      "source": "original",
+      "mtime": "1666181192",
+      "size": "242022",
+      "md5": "63629b2ee3264219347846c39743b231",
+      "crc32": "e2448956",
+      "sha1": "31ca40dad755305187013b9aee71c520680c0c35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-19T09:06:01.852211-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666181196",
+      "size": "1467",
+      "md5": "9f07a8fe99082928db7f143542195c3f",
+      "crc32": "267f53e8",
+      "sha1": "7793ca860540e3c4f573d95ad6f20f57e643cd55",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-19T09:06:01.852211-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666181198",
+      "size": "19768",
+      "md5": "53f10e33c0e7164870a02c711fd59cdc",
+      "crc32": "db37d860",
+      "sha1": "aed5b9d15074dfc40ec0db75cdacf95b0f14f1c8",
+      "format": "JSON"
+    },
+    {
       "name": "amazoniaagencia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b47746909b9196c352dc1a8f611dace7a764b7de",
-      "mtime": "1666154153",
-      "size": "272089",
-      "md5": "c4ca1ad83b3fed7272def9c54f09a03d",
-      "crc32": "df7c4154",
-      "sha1": "eb2e073feef69b4d04154288616fc5c47db9f461",
+      "btih": "0554e6d730c929833922443ace600a81a591ea72",
+      "mtime": "1666181277",
+      "size": "273379",
+      "md5": "3e33a54e2d1d6db63eb513388f6bad27",
+      "crc32": "c4882623",
+      "sha1": "e89f2a61f2a1b7aabe72092624828ec6ca69b2a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amazoniaagencia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "38d5dde8afac8515874a1d9b02fb724c",
+      "md5": "1ba7a68eab7bd83a4b981b8397fef94f",
       "summation": "md5"
     },
     {
       "name": "amazoniaagencia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154106",
-      "size": "1609728",
-      "md5": "c2923fc2299537eb707e4ca272c08460",
-      "crc32": "bc1fe1b2",
-      "sha1": "e0af196e3dab1d07cedbde792d6c4006eaa33f1c",
+      "mtime": "1666181213",
+      "size": "1613824",
+      "md5": "9f7ab6f14f6d412945ad73368e6c75c4",
+      "crc32": "9eb5639c",
+      "sha1": "001b43897fb01f709b2d123ef8f9578cef7e10bb",
       "format": "Metadata"
     },
     {
@@ -12887,9 +12949,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1247,
-  "item_last_updated": 1666154153,
-  "item_size": 91003538,
+  "files_count": 1253,
+  "item_last_updated": 1666181277,
+  "item_size": 91436123,
   "metadata": {
     "identifier": "amazoniaagencia-2022",
     "collection": [
@@ -12911,7 +12973,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445286194,
+      "task_id": 3445604646,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12919,7 +12981,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1926121889,
+  "uniq": 910891466,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]
