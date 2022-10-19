@@ -1,5 +1,5 @@
 {
-  "created": 1666115189,
+  "created": 1666164204,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/freep-2022",
@@ -3570,31 +3570,82 @@
       "sha1": "df6cedf667629f2d303e3469286f2e90ec7c8026"
     },
     {
+      "name": "freep-2022-10-19T02:04:01.967821-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159447",
+      "size": "24790",
+      "md5": "8e97660e27e9b8a98e314445dda24fb8",
+      "crc32": "baaa4a3e",
+      "sha1": "dbb705c0d545e92d62ea612dcddab1b672096625",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-10-19T02:04:01.967821-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159448",
+      "size": "37135",
+      "md5": "b6eee482b7db92589fb53f4905dd3f84",
+      "crc32": "0aada1bd",
+      "sha1": "eefa764847845f41385bb2a6933906db97ced580",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-10-19T02:04:01.967821-04:00.jpg",
+      "source": "original",
+      "mtime": "1666159445",
+      "size": "215196",
+      "md5": "11de244f56b7845c3fc5d117c1a14e3b",
+      "crc32": "92288128",
+      "sha1": "39ae9bda0215c9db4c541f639aa5697118c19ac7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freep-2022-10-19T02:04:01.967821-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159449",
+      "size": "1450",
+      "md5": "42c3fe9680ee41638f25f5f2e801c517",
+      "crc32": "d5a25517",
+      "sha1": "41cfc269a81252fbb594533ec6fad740f0dc95d5",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-10-19T02:04:01.967821-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159451",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "freep-2022_archive.torrent",
       "source": "metadata",
-      "btih": "953f331fd5dbf70a992d4163cc8799365686881d",
-      "mtime": "1666115179",
-      "size": "72974",
-      "md5": "023d1d7d936a51361abfe36ac39d0fd5",
-      "crc32": "2e67c250",
-      "sha1": "22a37ccf810b3839f4b93d494b7077cbebfe370c",
+      "btih": "09e1e5846858cbd2ddbd312bc3e2790081525304",
+      "mtime": "1666159500",
+      "size": "74000",
+      "md5": "c7dc8044b665998cc7cf3d2e4d1e3507",
+      "crc32": "512c780d",
+      "sha1": "32642dde953ccae7e8b2a8d14218912bb9638f0f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freep-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3056ef0b6b6190d514842ba5bfe0beb3",
+      "md5": "f8d0a039a3c14f705d2ca388d6e6d105",
       "summation": "md5"
     },
     {
       "name": "freep-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666115103",
-      "size": "458752",
-      "md5": "7de83694778d34e3a37c1e880b08a854",
-      "crc32": "d896fdb2",
-      "sha1": "d4c7161abec0211e36adce666a823aab73187118",
+      "mtime": "1666159455",
+      "size": "466944",
+      "md5": "e6439bac03605214099ff143e5226d2b",
+      "crc32": "1f71cdbb",
+      "sha1": "4fc843cd8bb3201c3a226cad7aa662cb6223ad9d",
       "format": "Metadata"
     },
     {
@@ -3608,9 +3659,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 349,
-  "item_last_updated": 1666115179,
-  "item_size": 24236868,
+  "files_count": 354,
+  "freep-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666159500,
+  "item_size": 24524859,
   "metadata": {
     "identifier": "freep-2022",
     "collection": [
@@ -3627,10 +3683,21 @@
     "publicdate": "2022-09-20 17:51:49",
     "addeddate": "2022-09-20 17:51:49"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1173700048,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445346750,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1910678198,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666115290,
+  "created": 1666159618,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/24/items/gradynewsource-2022",
@@ -10202,31 +10202,82 @@
       "sha1": "56905d374857a8744075144c5ec097c36c5f81c8"
     },
     {
+      "name": "gradynewsource-2022-10-19T02:05:35.399584-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159544",
+      "size": "46956",
+      "md5": "f8e32d1820287cf9953d3f192c43b0f4",
+      "crc32": "92e2a2bd",
+      "sha1": "8f37719f413b881b2960e6a365cbb4f1ebddc6ec",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-10-19T02:05:35.399584-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159546",
+      "size": "40213",
+      "md5": "fd0e77c0474c6a96f927880cd81adc6d",
+      "crc32": "ca432412",
+      "sha1": "d03202b41a3be6d004304f9535046b49b3a63833",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-10-19T02:05:35.399584-04:00.jpg",
+      "source": "original",
+      "mtime": "1666159543",
+      "size": "193004",
+      "md5": "00f251cae37aedfb56f60f1238a0af12",
+      "crc32": "8c3d97f3",
+      "sha1": "b32f008b6795cd313ce10543520f0f40168793a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gradynewsource-2022-10-19T02:05:35.399584-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159547",
+      "size": "1525",
+      "md5": "ed424e7ea8fc9dbeee60cf4d5e180989",
+      "crc32": "a8478852",
+      "sha1": "f552c8471da5d408682f389f10c5352515fcca09",
+      "format": "JSON"
+    },
+    {
+      "name": "gradynewsource-2022-10-19T02:05:35.399584-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159549",
+      "size": "31654",
+      "md5": "c628385c0ebebdd89b9b54ea1412a9f7",
+      "crc32": "7469e95e",
+      "sha1": "12b9200c700ebae32bf1e0ef368ea2db0ad01b9e",
+      "format": "JSON"
+    },
+    {
       "name": "gradynewsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e54316ef230144f1e61d9bd7f390fd9cf179804c",
-      "mtime": "1666115264",
-      "size": "214570",
-      "md5": "8d6cac1a1646744c78413b9b443258f9",
-      "crc32": "18717879",
-      "sha1": "7d55b53b2b8fc80ed13f03862ec3ace4e2852dbb",
+      "btih": "b4417048847f28db52338485910b9199557466cd",
+      "mtime": "1666159610",
+      "size": "215663",
+      "md5": "6979411653abc99839cbca5f7591b3c2",
+      "crc32": "d0f6b6ca",
+      "sha1": "8c2c0dea181b08e4ac4a29ea7098ad5eee14c86b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gradynewsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d6c04d3c125b7bbeb19ede199384771",
+      "md5": "b7df94ddd75eff0ae793553daa1e31f0",
       "summation": "md5"
     },
     {
       "name": "gradynewsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666115181",
-      "size": "1273856",
-      "md5": "750b1a317dd5a22569b6f99a4f66e3c4",
-      "crc32": "3bc43a2a",
-      "sha1": "f38ec023fc5848ab383fce2dcfb7077d1ec61406",
+      "mtime": "1666159563",
+      "size": "1277952",
+      "md5": "17c3e1fe007a2d7d00810466783ce49e",
+      "crc32": "12280ba1",
+      "sha1": "4a7f3c47255d813b983cc8e6de21e8de083fa830",
       "format": "Metadata"
     },
     {
@@ -10240,9 +10291,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 990,
-  "item_last_updated": 1666115264,
-  "item_size": 59173784,
+  "files_count": 995,
+  "item_last_updated": 1666159610,
+  "item_size": 59492325,
   "metadata": {
     "identifier": "gradynewsource-2022",
     "collection": [
@@ -10259,10 +10310,21 @@
     "publicdate": "2022-07-26 02:43:21",
     "addeddate": "2022-07-26 02:43:21"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1453965382,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445348009,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1859472984,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

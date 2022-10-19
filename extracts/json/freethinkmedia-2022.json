@@ -1,5 +1,5 @@
 {
-  "created": 1666120577,
+  "created": 1666159510,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/freethinkmedia-2022",
@@ -10682,31 +10682,82 @@
       "sha1": "521c51583786689a6caa356cde38388493c646e5"
     },
     {
+      "name": "freethinkmedia-2022-10-18T23:04:03.076206-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159451",
+      "size": "36259",
+      "md5": "a0923a6175f75ad0e7a350de879d1073",
+      "crc32": "5bf33996",
+      "sha1": "be0404de163d9468079ff2cc54ee41b1ea43797d",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-18T23:04:03.076206-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159453",
+      "size": "29183",
+      "md5": "211226d3e799f15c87b9cb951a84e832",
+      "crc32": "24f46543",
+      "sha1": "3d7ac4dd6034ed6197e8163913bd61103f9ab472",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-18T23:04:03.076206-07:00.jpg",
+      "source": "original",
+      "mtime": "1666159450",
+      "size": "223127",
+      "md5": "9cb1d71414dab422822941092f1ac84d",
+      "crc32": "6f24aadd",
+      "sha1": "6b7773c0d8777a5082af863203d51cc67f602e32",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-10-18T23:04:03.076206-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159454",
+      "size": "1483",
+      "md5": "5ddba0b1bef9368fae3442103fe86ad9",
+      "crc32": "fa6818d1",
+      "sha1": "630074bc414832c2871bc0307db22b9890107d59",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-18T23:04:03.076206-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159456",
+      "size": "14789",
+      "md5": "988a044203dbb7ebded31375cf188672",
+      "crc32": "870db4c1",
+      "sha1": "d9c4f7f2d689a22e1ce42fa625539687e2a4ee23",
+      "format": "JSON"
+    },
+    {
       "name": "freethinkmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "57ecff35deeaee85c9b3f93f80b5166de3edef8f",
-      "mtime": "1666115088",
-      "size": "224108",
-      "md5": "923a16d273015cb872e81f461d6778c3",
-      "crc32": "6d14a6a3",
-      "sha1": "8dd114f1f9c45be825654b2a8610425126e778b4",
+      "btih": "e51fc6c5ab92c2dfda83e9d843e7260c1728c230",
+      "mtime": "1666159505",
+      "size": "225201",
+      "md5": "34d7f7091d0107acebd1f9404a096b8b",
+      "crc32": "4bd23f2b",
+      "sha1": "a8e199439873ce0cdd7c481fce0035575c1133f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freethinkmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b4228121e42f76ce6b8941d921fb464",
+      "md5": "5a147fb42c323d22a5663dba72451014",
       "summation": "md5"
     },
     {
       "name": "freethinkmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666115009",
-      "size": "1327104",
-      "md5": "79f98fbe9c8e899b2e64c3002e8eace3",
-      "crc32": "b6251eb0",
-      "sha1": "8c1fd4f7d8da90201a3087899b73ffd0a962aeca",
+      "mtime": "1666159462",
+      "size": "1331200",
+      "md5": "a4bc3a6e62e73918908825e962260eee",
+      "crc32": "54999e3c",
+      "sha1": "46eab72491f429dfc19b5575b383dc2f6035f01d",
       "format": "Metadata"
     },
     {
@@ -10720,14 +10771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1036,
-  "freethinkmedia-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1666115088,
-  "item_size": 53936740,
+  "files_count": 1041,
+  "item_last_updated": 1666159505,
+  "item_size": 54246770,
   "metadata": {
     "identifier": "freethinkmedia-2022",
     "collection": [
@@ -10744,10 +10790,21 @@
     "publicdate": "2022-07-21 02:24:31",
     "addeddate": "2022-07-21 02:24:31"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 876640106,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445346704,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 141444052,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

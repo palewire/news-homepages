@@ -1,5 +1,5 @@
 {
-  "created": 1666115357,
+  "created": 1666159510,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/engadget-2022",
@@ -12720,31 +12720,82 @@
       "sha1": "f96370edb03d0b2eb1b5565e0f56dfe873d0e73f"
     },
     {
+      "name": "engadget-2022-10-18T23:03:33.461505-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159416",
+      "size": "23782",
+      "md5": "59587b2f60659ebf8521e568d001c7b4",
+      "crc32": "977a642e",
+      "sha1": "87046755f30a0887fade60cbb9698f4c5bea281e",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-10-18T23:03:33.461505-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159418",
+      "size": "21009",
+      "md5": "2f639266681d8dbf50dca998751918e3",
+      "crc32": "f1538a35",
+      "sha1": "82c12bdce1f0cf9c96c3142fa0f430943f287612",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-10-18T23:03:33.461505-07:00.jpg",
+      "source": "original",
+      "mtime": "1666159415",
+      "size": "230670",
+      "md5": "74f69a53e48698df54d499970319e6ca",
+      "crc32": "fc846a66",
+      "sha1": "3fc70a6700b6532c5b9c0722dab21b43c0998d10",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "engadget-2022-10-18T23:03:33.461505-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159420",
+      "size": "1476",
+      "md5": "6b618d85f4f08047c5ff32abe744ca6c",
+      "crc32": "bdd9cbf4",
+      "sha1": "4e5529899ec1710ac13762f34fa361a6b67d9ed7",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-10-18T23:03:33.461505-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159421",
+      "size": "26091",
+      "md5": "d69547d8f311575d50db57cbc70a03e4",
+      "crc32": "4ea1babd",
+      "sha1": "21bc3388ccc918afce3f4fa4455ad8055a43ede5",
+      "format": "JSON"
+    },
+    {
       "name": "engadget-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e818b95aed6123ceb413db2fca01351d8ddd633",
-      "mtime": "1666115311",
-      "size": "258799",
-      "md5": "c140b37f1145ad8af93f3a1c1ec3d5c6",
-      "crc32": "2401a094",
-      "sha1": "f647730213ad9ada1dccfc68f19d912614edeccf",
+      "btih": "a7c007e84cd9efc28762f0173afc7594900c4b13",
+      "mtime": "1666159498",
+      "size": "259862",
+      "md5": "1168eab6dc63efe33498aa70a19240cc",
+      "crc32": "89f65b34",
+      "sha1": "aacba994ed7f425bf00f870e7456f00943f92468",
       "format": "Archive BitTorrent"
     },
     {
       "name": "engadget-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3356c5ce80b3776482e9aeebeaa8d7f0",
+      "md5": "5dcf9a78269f875b035993e7f71a1c2f",
       "summation": "md5"
     },
     {
       "name": "engadget-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666115093",
-      "size": "1531904",
-      "md5": "10c395a36b2f85363b27584e07052de3",
-      "crc32": "13fd0ae4",
-      "sha1": "e473deea0437280be8faba7fe2024ba9059eec1f",
+      "mtime": "1666159432",
+      "size": "1540096",
+      "md5": "6448ecb947321a821f806d0c3ae8093c",
+      "crc32": "4eb3773f",
+      "sha1": "86c542ae25aa0d5125349663fb68159a56c03dfe",
       "format": "Metadata"
     },
     {
@@ -12758,9 +12809,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1230,
-  "item_last_updated": 1666115311,
-  "item_size": 72931424,
+  "files_count": 1235,
+  "item_last_updated": 1666159498,
+  "item_size": 73243707,
   "metadata": {
     "identifier": "engadget-2022",
     "collection": [
@@ -12777,10 +12828,21 @@
     "publicdate": "2022-07-04 20:17:31",
     "addeddate": "2022-07-04 20:17:31"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 417233089,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445346715,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1316633969,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

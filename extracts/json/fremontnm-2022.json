@@ -1,5 +1,5 @@
 {
-  "created": 1666115158,
+  "created": 1666164208,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/7/items/fremontnm-2022",
@@ -3550,31 +3550,82 @@
       "sha1": "eaae78637662bd631ba72d6a063f322ac1133f3b"
     },
     {
+      "name": "fremontnm-2022-10-19T02:03:21.896206-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159407",
+      "size": "18978",
+      "md5": "0649c1d85e859b9fc7e6a1a14b6cb790",
+      "crc32": "0f872e90",
+      "sha1": "1293206c51840bc82a71c67a33b98c1a198a9be1",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-19T02:03:21.896206-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159408",
+      "size": "29935",
+      "md5": "b3366d788f34540b8ddbe1e5d033496e",
+      "crc32": "897fb64b",
+      "sha1": "d45bc79c6fa4d6a4210b52fb66e1279d6ee926e4",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-19T02:03:21.896206-04:00.jpg",
+      "source": "original",
+      "mtime": "1666159405",
+      "size": "253471",
+      "md5": "228725fead35ab9921c0224024a2b0b3",
+      "crc32": "26ae2ea2",
+      "sha1": "5c58384b40a4e43a8cebcec4c9a703b6a309e030",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-19T02:03:21.896206-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159410",
+      "size": "1558",
+      "md5": "d227c39807828b1882a5e8ebc59fce55",
+      "crc32": "c3e1432f",
+      "sha1": "37cbb963edd3ff3beb9f57458b4d84c95042d50e",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-19T02:03:21.896206-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159412",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "fremontnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8548074647c3c7e5a7175d91ce5a37d9389ebf14",
-      "mtime": "1666115131",
-      "size": "73784",
-      "md5": "38d756937eb4e0b40eedbcc0c0e71326",
-      "crc32": "d9b2a0ae",
-      "sha1": "6466d8088ca6407417342719ed8d87a07698ad2b",
+      "btih": "c3fa77cbedf3db9bca16bc11be4a357dfc03f62c",
+      "mtime": "1666159451",
+      "size": "74850",
+      "md5": "2799f79259eaf1cc51eccbe41ba4d7a0",
+      "crc32": "ce41fefd",
+      "sha1": "c4978cb276831f77fa3fe6ed4c1c534c2430b424",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fremontnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b2f0fef3bfc36843649db580f353e99",
+      "md5": "f00fb32f7ac48bebba0437d0e0a43cfe",
       "summation": "md5"
     },
     {
       "name": "fremontnm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666115057",
-      "size": "454656",
-      "md5": "fdeeb9587932f4660820b0c1bc9c77f2",
-      "crc32": "7088314a",
-      "sha1": "4d9b11e1077fa12b11fb2ecd0eb57b3d061e9f89",
+      "mtime": "1666159415",
+      "size": "462848",
+      "md5": "6383605bc96853bf2ff4e73f9e478432",
+      "crc32": "af229c9f",
+      "sha1": "abdd1c88d8f345667cd0523a680c00904fb66b91",
       "format": "Metadata"
     },
     {
@@ -3588,9 +3639,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1666115131,
-  "item_size": 20864364,
+  "files_count": 352,
+  "fremontnm-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666159451,
+  "item_size": 21177766,
   "metadata": {
     "identifier": "fremontnm-2022",
     "collection": [
@@ -3607,10 +3663,21 @@
     "publicdate": "2022-09-20 17:53:26",
     "addeddate": "2022-09-20 17:53:26"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 275757916,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445345915,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1346218182,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

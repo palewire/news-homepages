@@ -1,10 +1,5 @@
 {
-  "courierpress-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666120103,
+  "created": 1666159184,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/25/items/courierpress-2022",
@@ -3555,31 +3550,82 @@
       "sha1": "1f9bba9eee94ea3f98fdd350ede21c6a9426796c"
     },
     {
+      "name": "courierpress-2022-10-19T00:58:39.310152-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159123",
+      "size": "20684",
+      "md5": "39fc42514a607f5d50c3fe5bc7e8d410",
+      "crc32": "3ec06c52",
+      "sha1": "7683b9a3e86ad95d18ed8770b184366c23724bcd",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-19T00:58:39.310152-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159125",
+      "size": "28526",
+      "md5": "ec408a6fd70e86d6912cf98368e9c3af",
+      "crc32": "8de88755",
+      "sha1": "d93bd3341a092ace8959a3b07281b051cd75c1c3",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-19T00:58:39.310152-05:00.jpg",
+      "source": "original",
+      "mtime": "1666159122",
+      "size": "279566",
+      "md5": "6082707af04d866c9013befc7b902c17",
+      "crc32": "c147b5bb",
+      "sha1": "f9393e929d14bfd6618f1f9d35414fa5ad30b24f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "courierpress-2022-10-19T00:58:39.310152-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159127",
+      "size": "1513",
+      "md5": "b9fbfb2ea371f626cd631ca14287fd47",
+      "crc32": "f502a966",
+      "sha1": "d319f30788def637376533f939ec991550f8ad95",
+      "format": "JSON"
+    },
+    {
+      "name": "courierpress-2022-10-19T00:58:39.310152-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159128",
+      "size": "113810",
+      "md5": "f74b3ba126679bd4be65db2d88c01feb",
+      "crc32": "2e014b50",
+      "sha1": "15308b97d92d7993fe80b0730aaebd45d9887cfe",
+      "format": "JSON"
+    },
+    {
       "name": "courierpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "610fbad8940752a16afb695667a2b23a57cc059e",
-      "mtime": "1666115091",
-      "size": "74990",
-      "md5": "b2cfeb0d0b7dbde07dde85efceaa05ce",
-      "crc32": "99c15eb6",
-      "sha1": "7d96057ae086b2df41d4047c5276437788969bfe",
+      "btih": "463e5f46531d1e9d7933d825095039e74bb7f317",
+      "mtime": "1666159177",
+      "size": "76074",
+      "md5": "8a1f62dc74e779ec6fa548633e416317",
+      "crc32": "2a1c99cb",
+      "sha1": "fd82f10d7d69c81ceaae9a3a1fb743e17d45a47d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "courierpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ea1047a416ed03f749da3408587cdf7d",
+      "md5": "9147db020795dfb9df0a9545a3dcf509",
       "summation": "md5"
     },
     {
       "name": "courierpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666114843",
-      "size": "454656",
-      "md5": "eb4b57c98d85956c7dd0203d383b5ae1",
-      "crc32": "76e4389d",
-      "sha1": "dcc73628b9bdd7e8f4bd2e0902cdb5afd972d8b0",
+      "mtime": "1666159137",
+      "size": "462848",
+      "md5": "4c8fa92c0a7cb4e25057c73d8a1a9860",
+      "crc32": "f2c007dc",
+      "sha1": "7d4ab406be4ab50d1f807dffbbc850967cf0414f",
       "format": "Metadata"
     },
     {
@@ -3593,9 +3639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1666115091,
-  "item_size": 23255335,
+  "files_count": 352,
+  "item_last_updated": 1666159177,
+  "item_size": 23708710,
   "metadata": {
     "identifier": "courierpress-2022",
     "collection": [
@@ -3612,10 +3658,21 @@
     "publicdate": "2022-09-20 17:43:44",
     "addeddate": "2022-09-20 17:43:44"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1708794250,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445341066,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 639438113,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

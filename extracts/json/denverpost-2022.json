@@ -1,5 +1,5 @@
 {
-  "created": 1666114964,
+  "created": 1666159339,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/denverpost-2022",
@@ -8190,31 +8190,82 @@
       "sha1": "2d3ff1039cce8a077ac85a00e46929013f69c0a8"
     },
     {
+      "name": "denverpost-2022-10-19T00:01:12.151119-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159275",
+      "size": "44823",
+      "md5": "3b0f111a06b729c017a6c4b7b26e3e13",
+      "crc32": "5a91d8e4",
+      "sha1": "5bd501bd155aff38982c19074d54f9f219ec578c",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-19T00:01:12.151119-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159279",
+      "size": "51019",
+      "md5": "5a6d67aaeb2b79750c19c0d6009b53dc",
+      "crc32": "918f9162",
+      "sha1": "66ab4400c6f391dcbf38fee8038cca5c14b047c5",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-19T00:01:12.151119-06:00.jpg",
+      "source": "original",
+      "mtime": "1666159273",
+      "size": "266361",
+      "md5": "3d5181c41020c43c8ad027960c3fda87",
+      "crc32": "6b87def5",
+      "sha1": "1d76637e9a11c7dd89d2ead816c4aaafcb89e337",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverpost-2022-10-19T00:01:12.151119-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159280",
+      "size": "1495",
+      "md5": "21a83064eef838586ab35433c5b5750a",
+      "crc32": "5dfed395",
+      "sha1": "3190b269b488c250134562f842cee84ed2698bb0",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-19T00:01:12.151119-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159282",
+      "size": "38136",
+      "md5": "b6d982021f3d8de4692144b1870ab3e6",
+      "crc32": "47d3d9aa",
+      "sha1": "0e0a67fa0fc6a1446bffe2f75c0ad448f0de23b1",
+      "format": "JSON"
+    },
+    {
       "name": "denverpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95deeb598675a263770f36008fbca81ed222bcdf",
-      "mtime": "1666114944",
-      "size": "169676",
-      "md5": "b0a393290934f6dd1e8e5030e3f7d839",
-      "crc32": "87ffa5bb",
-      "sha1": "ba587aaa21e490326fb02cb180993457dd9471d3",
+      "btih": "0a085619f495a0f01ca5a4a12512e5de7a6ae64b",
+      "mtime": "1666159333",
+      "size": "170729",
+      "md5": "0fb10d7b71814c21e4519680635cfaed",
+      "crc32": "9285b5bc",
+      "sha1": "d238225ee3a3d40901e33593507b89822aa65943",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b333916298717080a0fcb6a666f5562",
+      "md5": "c02996fef3519b9756e3f42d931d89ca",
       "summation": "md5"
     },
     {
       "name": "denverpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666114875",
-      "size": "1024000",
-      "md5": "2b95c0db8524a22018ff2f4c7b493b84",
-      "crc32": "6b80f79b",
-      "sha1": "c52909da0845ef25c8f46ac9ab49d07fef6b7e34",
+      "mtime": "1666159290",
+      "size": "1032192",
+      "md5": "64121fc414978e27f6dab7451badfaa0",
+      "crc32": "ce511ef8",
+      "sha1": "4c8795620b0eb964f28046b26fcc6a4ec9847b9c",
       "format": "Metadata"
     },
     {
@@ -8228,9 +8279,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 796,
-  "item_last_updated": 1666114944,
-  "item_size": 56887724,
+  "files_count": 801,
+  "item_last_updated": 1666159333,
+  "item_size": 57298803,
   "metadata": {
     "identifier": "denverpost-2022",
     "collection": [
@@ -8247,10 +8298,21 @@
     "publicdate": "2022-08-14 06:42:22",
     "addeddate": "2022-08-14 06:42:22"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1731920338,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445344222,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 811195058,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }
