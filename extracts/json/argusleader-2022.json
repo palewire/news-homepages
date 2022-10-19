@@ -1,6 +1,5 @@
 {
-  "conflict": 1666202920,
-  "created": 1666202920,
+  "created": 1666203139,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/14/items/argusleader-2022",
@@ -4357,31 +4356,82 @@
       "sha1": "d96b4be5eef1caf023cd555942dd3e763d8ffa00"
     },
     {
+      "name": "argusleader-2022-10-19T13:00:56.292432-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666202462",
+      "size": "20633",
+      "md5": "639681a5f8d9372634e78ae9c24c4c9d",
+      "crc32": "4a7419cf",
+      "sha1": "49886912ab452c17083ae2b79c3d92fc7bc08e8e",
+      "format": "JSON"
+    },
+    {
+      "name": "argusleader-2022-10-19T13:00:56.292432-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666202466",
+      "size": "29781",
+      "md5": "de956294f8a12c27387422bf41c7dc36",
+      "crc32": "c63dfe8d",
+      "sha1": "f7e77a231dc2f385ed6139926ef96b9752837f73",
+      "format": "JSON"
+    },
+    {
+      "name": "argusleader-2022-10-19T13:00:56.292432-05:00.jpg",
+      "source": "original",
+      "mtime": "1666202460",
+      "size": "258890",
+      "md5": "2e4f35095e1e89b9deaddd7b6d1b62f2",
+      "crc32": "080c5fa7",
+      "sha1": "a99fed4d0b26e31d4ee42832d663b182331974ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "argusleader-2022-10-19T13:00:56.292432-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666202469",
+      "size": "1503",
+      "md5": "2708b5b24f9814cab57abf4a06a75c33",
+      "crc32": "45e954a1",
+      "sha1": "b25cf03d844bf1d49510db5257e5fc23e9a36c90",
+      "format": "JSON"
+    },
+    {
+      "name": "argusleader-2022-10-19T13:00:56.292432-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666202471",
+      "size": "235",
+      "md5": "1b7da592045fd38b5c3eac40819135a0",
+      "crc32": "579ae870",
+      "sha1": "67e8f10f58451b6ec14bd7a00956d6b3d53d0e00",
+      "format": "JSON"
+    },
+    {
       "name": "argusleader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0fecd1ac978bf1bfdd50143ebbde6f4f6cfbccd3",
-      "mtime": "1666196434",
-      "size": "90998",
-      "md5": "a2ae4340a862de1f472a623113a3b94b",
-      "crc32": "6b93af4f",
-      "sha1": "0d12b02b59b9ac0387890ba150aefaec78019b0e",
+      "btih": "5e88b8e0a2b2ff622d39066d26c54068fd4fb031",
+      "mtime": "1666203133",
+      "size": "92281",
+      "md5": "6293d1555375308ac267974aa5738cd5",
+      "crc32": "83813bfc",
+      "sha1": "4834f0d4463e1cfb6509f8e7c631514e204afe45",
       "format": "Archive BitTorrent"
     },
     {
       "name": "argusleader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92aeeef50df3beeca6af76b67ec3613b",
+      "md5": "b7b517980312f4eb9e9ce7ef1d6a4847",
       "summation": "md5"
     },
     {
       "name": "argusleader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666196393",
-      "size": "552960",
-      "md5": "42fc84c81ae12b1e95971e787746a021",
-      "crc32": "b2c51ea8",
-      "sha1": "890784b99a4110801327c79a42bdbc7c6a00a0bc",
+      "mtime": "1666203128",
+      "size": "569344",
+      "md5": "73574258875a747a4ef585f5526b6d82",
+      "crc32": "fa78fe56",
+      "sha1": "27ea8935ead2a6c3cb13933c538ede856d8f4ca9",
       "format": "Metadata"
     },
     {
@@ -4395,9 +4445,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 425,
-  "item_last_updated": 1666202916,
-  "item_size": 27584759,
+  "files_count": 430,
+  "item_last_updated": 1666203133,
+  "item_size": 27913468,
   "metadata": {
     "identifier": "argusleader-2022",
     "collection": [
@@ -4419,63 +4469,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445765672,
+      "task_id": 3445836050,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3445826155,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3445826214,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3445826276,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3445826330,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3445826392,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3445833373,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 2045175102,
+  "uniq": 1880534458,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
