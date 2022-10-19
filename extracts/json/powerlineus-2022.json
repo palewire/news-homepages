@@ -1,5 +1,6 @@
 {
-  "created": 1666123599,
+  "conflict": 1666164726,
+  "created": 1666164169,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/powerlineus-2022",
@@ -15955,31 +15956,93 @@
       "format": "JSON"
     },
     {
+      "name": "powerlineus-2022-10-18T16:00:09.362158-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "powerlineus-2022-10-18T16:00:09.362158-04:00.jpg",
+      "mtime": "1666123709",
+      "size": "7925",
+      "md5": "cafbe2caca9dd85187939c3d1df53ddb",
+      "crc32": "ae05cf7f",
+      "sha1": "1162ea8c09a80d4808fd50853c94542fd68e8e92"
+    },
+    {
+      "name": "powerlineus-2022-10-19T03:19:46.960144-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666163990",
+      "size": "104280",
+      "md5": "5a693bbfe686697c5c260532f1afe107",
+      "crc32": "f8418918",
+      "sha1": "e9b21c5625667e0c7134a4e8561fb8da08dac3ac",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-19T03:19:46.960144-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666163992",
+      "size": "20692",
+      "md5": "06bb17968e90f81002d85a0ccf6a36e6",
+      "crc32": "bd31e014",
+      "sha1": "79bfcb20b754b0a0151ab14b37678532e56b65fe",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-19T03:19:46.960144-04:00.jpg",
+      "source": "original",
+      "mtime": "1666163988",
+      "size": "269813",
+      "md5": "0a9b3eda5462bdc5e3bb6c2056e04c29",
+      "crc32": "28eff662",
+      "sha1": "653ff7532c5b6245deadd8b345503634e6abd053",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "powerlineus-2022-10-19T03:19:46.960144-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666163994",
+      "size": "1515",
+      "md5": "9f4efb6d0474cb9f7a496397c2d7505e",
+      "crc32": "32210206",
+      "sha1": "c9e8bd4b280f131c38d8543162f4fa2f1e04c7ae",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-19T03:19:46.960144-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666163995",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "powerlineus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c91061a77e914b43d7ec8b3028d34e7ded1a3916",
-      "mtime": "1666123335",
-      "size": "330849",
-      "md5": "8f5fcb0f2639c6711389bb16636518e1",
-      "crc32": "76576746",
-      "sha1": "255737ee83cf259331ad538a336bdb663172845a",
+      "btih": "330f2166be918a289d70b4e06bcd64b1f3a44145",
+      "mtime": "1666164128",
+      "size": "332113",
+      "md5": "1e54061fb95314dd7ba62783bd16d239",
+      "crc32": "b129deb4",
+      "sha1": "3c20c6abed4c6bfe812dde37453f08e1621f30dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "powerlineus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0df369cb246a97fc038cc27355ff9487",
+      "md5": "27ed7d22fc5b72d4df3f3011d157c736",
       "summation": "md5"
     },
     {
       "name": "powerlineus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666123242",
-      "size": "1957888",
-      "md5": "d5c201c771903df92d087582dd255bf2",
-      "crc32": "4de0470c",
-      "sha1": "f509e580cbe17915e241b68c2e807d295d5135e8",
+      "mtime": "1666164029",
+      "size": "1966080",
+      "md5": "7830236d005423fc87aae9ee29e7d509",
+      "crc32": "f234b1c7",
+      "sha1": "7fffd5dc4a3dab5fe359cf64657169cf3b0635f9",
       "format": "Metadata"
     },
     {
@@ -15993,9 +16056,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1545,
-  "item_last_updated": 1666123335,
-  "item_size": 117347423,
+  "files_count": 1551,
+  "item_last_updated": 1666164128,
+  "item_size": 117761306,
   "metadata": {
     "identifier": "powerlineus-2022",
     "collection": [
@@ -16013,20 +16076,20 @@
     "addeddate": "2022-07-17 15:03:33"
   },
   "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
+  "server": "ia801409.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3444984237,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3445396612,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 529902474,
+  "uniq": 1056652422,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia801409.us.archive.org"
   ]
 }
