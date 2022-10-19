@@ -1,6 +1,6 @@
 {
-  "conflict": 1666094925,
-  "created": 1666094925,
+  "conflict": 1666139828,
+  "created": 1666139182,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/gwinnettdaily-2022",
@@ -10808,31 +10808,93 @@
       "format": "JSON"
     },
     {
+      "name": "gwinnettdaily-2022-10-18T08:01:45.501581-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gwinnettdaily-2022-10-18T08:01:45.501581-04:00.jpg",
+      "mtime": "1666094967",
+      "size": "10462",
+      "md5": "179b3989d5b961be3fce451fa339db71",
+      "crc32": "e686864c",
+      "sha1": "90099fab9a74ba631e5c8eff2e99b35ba98828ea"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-18T20:24:43.365205-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666139102",
+      "size": "81265",
+      "md5": "a0e7c1bb078992b261f0c9e30e034ef9",
+      "crc32": "d6ca023a",
+      "sha1": "18365bd8482e2cd5620c4a82fa8cb27d3f1247cc",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-18T20:24:43.365205-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666139103",
+      "size": "179394",
+      "md5": "00e9af3554e402f8d4714ec51c44b9e0",
+      "crc32": "118e311a",
+      "sha1": "bb10c0e2a1463ee000ac39a2204ec5f54041f2cf",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-18T20:24:43.365205-04:00.jpg",
+      "source": "original",
+      "mtime": "1666139100",
+      "size": "238435",
+      "md5": "855f1461e5acbabe78302286144f0620",
+      "crc32": "58cf96c0",
+      "sha1": "56a6051d5c5145b779c5891494353a34979e54c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-18T20:24:43.365205-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666139105",
+      "size": "1554",
+      "md5": "f609bd3bb710e1af05b5611a7a95e9a3",
+      "crc32": "7da2dd14",
+      "sha1": "1e8220e547a714d005050b87cf52d46d6ede4760",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-18T20:24:43.365205-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666139107",
+      "size": "213",
+      "md5": "6754f2e34f92dec4c222d41e23829241",
+      "crc32": "c66b0b1a",
+      "sha1": "0bc4cf2ba086375dd9378b3bfc9ec5241858dca8",
+      "format": "JSON"
+    },
+    {
       "name": "gwinnettdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e25bd83563d8ca8e3870ec0fdc97a61f04891ee8",
-      "mtime": "1666094739",
-      "size": "228086",
-      "md5": "1152d4b2f355b28dcb30eeec2e3a6761",
-      "crc32": "836e69c4",
-      "sha1": "02a411888721922d1e0a1d2b961b2856fec916a8",
+      "btih": "16e68aad3e4900d28eb5ded2ce5ca16296f18343",
+      "mtime": "1666139174",
+      "size": "229383",
+      "md5": "94b7fddf605b080f5b9e0a6c381aae0a",
+      "crc32": "99bec0cd",
+      "sha1": "b3e21c3248031025c669b36b26fde58bc65634d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gwinnettdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83b66e0b0975e096b5f4bb76ada4e91a",
+      "md5": "03b36f7e33faf4dd23e7ba83c7fc2c9f",
       "summation": "md5"
     },
     {
       "name": "gwinnettdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666094644",
-      "size": "1339392",
-      "md5": "05fe70c2393da9b3cd670a2869708a1d",
-      "crc32": "7b97bf9d",
-      "sha1": "0b221cf8356be84deda262cd347cc7740a690a8f",
+      "mtime": "1666139120",
+      "size": "1347584",
+      "md5": "03e9df90cb50717e9744f03ab066121d",
+      "crc32": "19225e2b",
+      "sha1": "7c242920ff4de6c7bbefef77ad484a94f6c63e56",
       "format": "Metadata"
     },
     {
@@ -10846,9 +10908,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1048,
-  "item_last_updated": 1666094739,
-  "item_size": 108242709,
+  "files_count": 1054,
+  "item_last_updated": 1666139174,
+  "item_size": 108763521,
   "metadata": {
     "identifier": "gwinnettdaily-2022",
     "collection": [
@@ -10866,20 +10928,20 @@
     "addeddate": "2022-07-20 23:31:08"
   },
   "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
+  "server": "ia801407.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3444680098,
+      "task_id": 3445140976,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 743078819,
+  "uniq": 66771251,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia801407.us.archive.org"
   ]
 }

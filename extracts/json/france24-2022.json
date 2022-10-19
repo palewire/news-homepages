@@ -1,5 +1,5 @@
 {
-  "created": 1666094688,
+  "created": 1666139229,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/26/items/france24-2022",
@@ -24240,31 +24240,72 @@
       "sha1": "bf5eb63d1886b682e8eaed78e014ce8dd75565e2"
     },
     {
+      "name": "france24-2022-10-19T02:24:59.896564+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666139114",
+      "size": "26979",
+      "md5": "049a7856e67c18daf456c2773150750a",
+      "crc32": "a5199a0c",
+      "sha1": "b798246b569d5303fbf18ad944ffb3325e6e0720",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-10-19T02:24:59.896564+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666139116",
+      "size": "47273",
+      "md5": "85f4caf7ac190982f84026df4b7fdbc6",
+      "crc32": "d766f666",
+      "sha1": "c7c33c889099b712bab260810c6decc9a3d93103",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-10-19T02:24:59.896564+02:00.jpg",
+      "source": "original",
+      "mtime": "1666139112",
+      "size": "226740",
+      "md5": "205afe1f3ee1d7ee35465a26007ae2c2",
+      "crc32": "c25d3e4f",
+      "sha1": "8f548b3143172fbc611cd950fdee3688bec032aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-10-19T02:24:59.896564+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666139118",
+      "size": "11876",
+      "md5": "a88722b1ab090b789c539d2541811c3f",
+      "crc32": "787e26ab",
+      "sha1": "ce5714eea96f4526e35e56f0c740c78a410d9a69",
+      "format": "JSON"
+    },
+    {
       "name": "france24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "869621fbc3aa4526d8820c8c1c5b5212a96e94d1",
-      "mtime": "1666094674",
-      "size": "491242",
-      "md5": "df9e630b7519b62bb452182748e6528f",
-      "crc32": "04a7b8b6",
-      "sha1": "b8a26b2f3b6089d4d85edc60e7bcffbe81b803bf",
+      "btih": "3c3583cb2ad39781fa20a47b0ab95cd0cac944e9",
+      "mtime": "1666139221",
+      "size": "492095",
+      "md5": "39d744539d546287ff9031e2d4b0f726",
+      "crc32": "ef2fb020",
+      "sha1": "d37518a6ad6ad09bffc8658ac8ce01cd9a81cafb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9912c0976b9241bbb51face221697a79",
+      "md5": "1c11a30a660c2d1408cdd015aeb90e83",
       "summation": "md5"
     },
     {
       "name": "france24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666094535",
-      "size": "2859008",
-      "md5": "e39fcfed9758f0a740a58bed3b9657bf",
-      "crc32": "8f1fdf6e",
-      "sha1": "2b60bb3609eaed91cca4e66842bc23c8257a1b56",
+      "mtime": "1666139133",
+      "size": "2863104",
+      "md5": "c2b171bb7b517a50db644f2a0b86edbe",
+      "crc32": "9ac81f7c",
+      "sha1": "acbc330f4ccce89fc6d4fed05d751b19ea532d58",
       "format": "Metadata"
     },
     {
@@ -24278,9 +24319,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2335,
-  "item_last_updated": 1666094674,
-  "item_size": 157578121,
+  "files_count": 2339,
+  "item_last_updated": 1666139221,
+  "item_size": 157895938,
   "metadata": {
     "identifier": "france24-2022",
     "collection": [
@@ -24297,10 +24338,21 @@
     "publicdate": "2022-04-09 13:41:21",
     "addeddate": "2022-04-09 13:41:21"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 1290395149,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445141319,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1120143945,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }

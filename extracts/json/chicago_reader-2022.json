@@ -1,5 +1,5 @@
 {
-  "created": 1666109709,
+  "created": 1666138767,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/chicago_reader-2022",
@@ -19502,31 +19502,82 @@
       "sha1": "d24db09d0576f9b8e8e85029861a1c170e445be5"
     },
     {
+      "name": "chicago_reader-2022-10-18T19:17:52.418524-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138676",
+      "size": "26942",
+      "md5": "b11c7cfba78986eba5dd0b2f4fc96fc7",
+      "crc32": "f9daafbc",
+      "sha1": "cc7ef390a98eb2d94062540f984bd1325a226b04",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-18T19:17:52.418524-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138684",
+      "size": "42064",
+      "md5": "d4594618140a1daa8d87535e2ba80d87",
+      "crc32": "2c7106f2",
+      "sha1": "c6e4fe88be5903848abe4d9706adf43c263a15ff",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-18T19:17:52.418524-05:00.jpg",
+      "source": "original",
+      "mtime": "1666138674",
+      "size": "167619",
+      "md5": "61dee0e2de0837fa5cb7c2d8379c0b30",
+      "crc32": "f696173f",
+      "sha1": "1fb5b9d995cf585e17fbc86c6051111d073f621c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicago_reader-2022-10-18T19:17:52.418524-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138686",
+      "size": "1483",
+      "md5": "4226da0154a322d54e898c888e4b2068",
+      "crc32": "23c513fa",
+      "sha1": "3c5547d473d0b415e5686aff30d08e063bbcec96",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-18T19:17:52.418524-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138688",
+      "size": "102",
+      "md5": "e788f4a840e4bcc4abe0573c44d66f69",
+      "crc32": "4708a1e4",
+      "sha1": "b38aace6a08e9e11ca1b9aea90f941c6751f04e1",
+      "format": "JSON"
+    },
+    {
       "name": "chicago_reader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "90357ede4e799ff1e1d25c268063e9a50219944c",
-      "mtime": "1666109690",
-      "size": "407056",
-      "md5": "511fd38cab7b4207855f9de6bf946c45",
-      "crc32": "d464156b",
-      "sha1": "2b54ea184bb511c1b1046329f8e7a682128f876d",
+      "btih": "09ed37deaf7d06259bfd0470ce38acbafb07f3da",
+      "mtime": "1666138754",
+      "size": "408147",
+      "md5": "f954056472be94e8c3d6e158bae5fa90",
+      "crc32": "c9cda287",
+      "sha1": "bcb5979171f8faa15e1948d09c37063119cc8d2d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicago_reader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e88e10a50cb8ff34f08609a40760c988",
+      "md5": "48c0cb8eef7a55b55e4dd0e05c952666",
       "summation": "md5"
     },
     {
       "name": "chicago_reader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666109544",
-      "size": "2355200",
-      "md5": "d89dbe763aa75b319756effd1f84ad14",
-      "crc32": "87579d9e",
-      "sha1": "96782439cc570f80d17935cbe12e617da5b7f879",
+      "mtime": "1666138691",
+      "size": "2359296",
+      "md5": "9c9a81be30f695375446caf2518cf6bf",
+      "crc32": "7a4e5903",
+      "sha1": "3d003d70f4c2219dc11fd4ac76fd0badad48a9f9",
       "format": "Metadata"
     },
     {
@@ -19540,9 +19591,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1883,
-  "item_last_updated": 1666109690,
-  "item_size": 109910601,
+  "files_count": 1888,
+  "item_last_updated": 1666138754,
+  "item_size": 110153998,
   "metadata": {
     "identifier": "chicago_reader-2022",
     "collection": [
@@ -19559,10 +19610,21 @@
     "publicdate": "2022-06-24 22:53:23",
     "addeddate": "2022-06-24 22:53:23"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1572031902,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445137980,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1102415289,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

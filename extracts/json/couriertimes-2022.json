@@ -1,5 +1,10 @@
 {
-  "created": 1666094287,
+  "couriertimes-2022": {
+    "url": "https://www.buckscountycouriertimes.com/",
+    "job_id": "spn2-a493da52275501c8f3ef411c86a97f16b7035d83",
+    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
+  },
+  "created": 1666139450,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/25/items/couriertimes-2022",
@@ -3550,31 +3555,82 @@
       "sha1": "57332345843a291009b9a4fb95f12c3ec007d32d"
     },
     {
+      "name": "couriertimes-2022-10-18T20:18:32.354063-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138717",
+      "size": "22125",
+      "md5": "00f595e1e78a78994824ac47c61a8252",
+      "crc32": "f7e86db5",
+      "sha1": "17ea832c74c445697fb56fc73fd9cfc881b56d71",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-18T20:18:32.354063-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138718",
+      "size": "37761",
+      "md5": "0a11202974ca17766b46907ee9ad3ec5",
+      "crc32": "d705de3e",
+      "sha1": "946c6aeee5440f358eabb5a3678ce795e1841cdf",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-18T20:18:32.354063-04:00.jpg",
+      "source": "original",
+      "mtime": "1666138715",
+      "size": "249084",
+      "md5": "86538ba57e8028aed73a300167dea48c",
+      "crc32": "9c7c7ad8",
+      "sha1": "8034639c5e7bfa8aa338c47aab354b12ba5c9763",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "couriertimes-2022-10-18T20:18:32.354063-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138720",
+      "size": "1611",
+      "md5": "c4206e8e5cee4553c16a32da9d1c45c3",
+      "crc32": "58691826",
+      "sha1": "b29c834ba680496ed9a15dea9520ddec2766ff48",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-18T20:18:32.354063-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138722",
+      "size": "281",
+      "md5": "2bf2910cf3976a58a2eeea772d24af53",
+      "crc32": "2dee7d7f",
+      "sha1": "f8b7a5d1e20f03be53d40e86e4083b588d942308",
+      "format": "JSON"
+    },
+    {
       "name": "couriertimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60e8a3c6707c8a54b2b83361bbc34afbdd63c0fc",
-      "mtime": "1666094274",
-      "size": "74994",
-      "md5": "3747febab4ac2117312f6fb2f9f53c01",
-      "crc32": "9b656052",
-      "sha1": "fd8dc2e27cc02be3f464e13c46a83b7aba6fd138",
+      "btih": "1068e5282b1417181b86b8c40103cc81fdf23ea3",
+      "mtime": "1666138765",
+      "size": "76055",
+      "md5": "4183a7844a0aa94c4dbcc77cbf277345",
+      "crc32": "b6605c03",
+      "sha1": "70ae132f189df0111ee4ef792154df259d762487",
       "format": "Archive BitTorrent"
     },
     {
       "name": "couriertimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "97201e42f5accdeee6b3b6a3a175f161",
+      "md5": "c7b42f36c88162375263121b62ccee42",
       "summation": "md5"
     },
     {
       "name": "couriertimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666094214",
-      "size": "454656",
-      "md5": "1b099e9d10a4988351b4f0895171219e",
-      "crc32": "fb2e5f34",
-      "sha1": "6e2903a36157e4416d7b838bb6064091b7d37d37",
+      "mtime": "1666138727",
+      "size": "462848",
+      "md5": "9948c8f2ccf77243e453f17f12ff2c92",
+      "crc32": "f729fa9d",
+      "sha1": "feceaa6f652c8893465089bd8fa0820509b12071",
       "format": "Metadata"
     },
     {
@@ -3588,9 +3644,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1666094274,
-  "item_size": 23803305,
+  "files_count": 352,
+  "item_last_updated": 1666138765,
+  "item_size": 24123420,
   "metadata": {
     "identifier": "couriertimes-2022",
     "collection": [
@@ -3607,10 +3663,21 @@
     "publicdate": "2022-09-20 22:14:24",
     "addeddate": "2022-09-20 22:14:24"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 435129218,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445138001,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 760264168,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666094632,
+  "created": 1666139011,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/fla_pol-2022",
@@ -8852,31 +8852,82 @@
       "sha1": "af0892f3fba74605b91b11405ec0dccca88cd7f2"
     },
     {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138916",
+      "size": "88864",
+      "md5": "481d6c4c5a18b1f4009f5c51e4d89307",
+      "crc32": "abe77852",
+      "sha1": "bf65e16bbf8114fad7982940d88befdd6890b4a5",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138921",
+      "size": "87811",
+      "md5": "447ff87082a89973c23b25d03dfc1ee2",
+      "crc32": "a56bb031",
+      "sha1": "475d07a894f2a3112c8def5e6318f07a9ccf3999",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.jpg",
+      "source": "original",
+      "mtime": "1666138909",
+      "size": "251525",
+      "md5": "a2f2a34c9cb7202f5a15403df7f01693",
+      "crc32": "c06f4819",
+      "sha1": "035d0fd4be5b15a053423ef0342cd760ded7b9bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138924",
+      "size": "1504",
+      "md5": "9b7f541e8c55764fd411b1da5e32d51b",
+      "crc32": "b20deca1",
+      "sha1": "95142a9d6332866867d9d19cc6e8792245c540a8",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138927",
+      "size": "24190",
+      "md5": "a992f412b82cc180f0897a668cbe0f7d",
+      "crc32": "86a9aaf3",
+      "sha1": "50c2c8f048fbc4e8c2dc31d2d6ac6a9611b025f9",
+      "format": "JSON"
+    },
+    {
       "name": "fla_pol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e447b1d5dd035c2d333bb562c6b367fd46641174",
-      "mtime": "1666094608",
-      "size": "181015",
-      "md5": "255bc239830fbcb03d7948549d987158",
-      "crc32": "536f3153",
-      "sha1": "bd9a27bd8ade88ddffbadb843aa8d950cd1676ac",
+      "btih": "e12597452b92262ac954abc80b60fc012cb6d9e0",
+      "mtime": "1666139005",
+      "size": "182073",
+      "md5": "2690e11595f258e0140d0538be5f2297",
+      "crc32": "541c6b4a",
+      "sha1": "8124c19f41edf4dc8166e2c695e533ef7b22333e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fla_pol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a01b4c5c5dd7981c49946f6bf64f1d2",
+      "md5": "671dc891c2985554e2017e0195b16fdf",
       "summation": "md5"
     },
     {
       "name": "fla_pol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666094515",
-      "size": "1101824",
-      "md5": "1ffbc16154627e5e6dacda834dc88108",
-      "crc32": "b9950080",
-      "sha1": "e75332c582f3fe09feb241a73a32e8d9868f0185",
+      "mtime": "1666138947",
+      "size": "1105920",
+      "md5": "90bf6a89fc387357b0b2ea156359846a",
+      "crc32": "c7ca0415",
+      "sha1": "006bc929da83957ddca2a32636a13afff0bf781e",
       "format": "Metadata"
     },
     {
@@ -8890,9 +8941,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 860,
-  "item_last_updated": 1666094608,
-  "item_size": 66837657,
+  "files_count": 865,
+  "item_last_updated": 1666139005,
+  "item_size": 67296705,
   "metadata": {
     "identifier": "fla_pol-2022",
     "collection": [
@@ -8909,10 +8960,21 @@
     "publicdate": "2022-08-09 03:37:17",
     "addeddate": "2022-08-09 03:37:17"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1934043140,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445139629,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 422772163,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

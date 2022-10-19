@@ -1,5 +1,5 @@
 {
-  "created": 1666094577,
+  "created": 1666139159,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/21/items/greenvillenews-2022",
@@ -3540,31 +3540,82 @@
       "sha1": "0e2b0fbb4962be069ea1c7d1f390607c66505a5c"
     },
     {
+      "name": "greenvillenews-2022-10-18T20:24:39.223501-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666139111",
+      "size": "20931",
+      "md5": "05622a9ca0e5745940574f857d2068e0",
+      "crc32": "8d74ab61",
+      "sha1": "b219f335e71f24a0871f1d777a08b091029a9211",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-10-18T20:24:39.223501-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666139112",
+      "size": "35810",
+      "md5": "9bbf7210eb654f4bc4bcbae72b0dd6cd",
+      "crc32": "55992110",
+      "sha1": "a0ce1eb72d189feb83212149dbf447de6780030c",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-10-18T20:24:39.223501-04:00.jpg",
+      "source": "original",
+      "mtime": "1666139108",
+      "size": "233787",
+      "md5": "c303b5a7d26e522ec48ce0d7f2bb59a7",
+      "crc32": "03213ac0",
+      "sha1": "e0576e451243f7162c5abdd359f6962f1e229fff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "greenvillenews-2022-10-18T20:24:39.223501-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666139114",
+      "size": "1549",
+      "md5": "cbab205c4936a0f558d70afedece5527",
+      "crc32": "33ad0781",
+      "sha1": "1395eb1f3029ebb5ab7f8057fd83ea66e6d29152",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-10-18T20:24:39.223501-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666139116",
+      "size": "109",
+      "md5": "b65083974639f8f7132f46a3e57974da",
+      "crc32": "4cebdf6b",
+      "sha1": "99aafb2dcd9d7482b1e77717674cf5ba325d089d",
+      "format": "JSON"
+    },
+    {
       "name": "greenvillenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2316daa6e25b133ca0580bcac8a5cddb6e8349db",
-      "mtime": "1666094568",
-      "size": "75464",
-      "md5": "639dc6d6d7c5ea359ba46cde076c6de8",
-      "crc32": "2c1eb3e3",
-      "sha1": "1825bdecf9e95709e3f1036e9d21d862212f161d",
+      "btih": "6cd0fe5f6fb8b496d9a257717adff03647e80224",
+      "mtime": "1666139156",
+      "size": "76555",
+      "md5": "67e7d60238b13ae6b09577d1d0332daf",
+      "crc32": "e3eed639",
+      "sha1": "846650cb14d64c3aa70d9f4313dd02843d593489",
       "format": "Archive BitTorrent"
     },
     {
       "name": "greenvillenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "65d89c28c64d38854c9cc62b5947c881",
+      "md5": "a2c0883bff0d693e5a76f676337b9221",
       "summation": "md5"
     },
     {
       "name": "greenvillenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666094512",
-      "size": "454656",
-      "md5": "7ca43a1998c9190ef7f8a61520a689ce",
-      "crc32": "0960325a",
-      "sha1": "c9024be29a730bff059479cbd103d3010ab73203",
+      "mtime": "1666139120",
+      "size": "466944",
+      "md5": "7f25104967f20e5760a8c50cac2d75a8",
+      "crc32": "dcc90499",
+      "sha1": "c256c117ed7748ac462d25177c6f77fe4e167e0a",
       "format": "Metadata"
     },
     {
@@ -3578,9 +3629,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 346,
-  "item_last_updated": 1666094568,
-  "item_size": 23567738,
+  "files_count": 351,
+  "item_last_updated": 1666139156,
+  "item_size": 23873303,
   "metadata": {
     "identifier": "greenvillenews-2022",
     "collection": [
@@ -3597,10 +3648,21 @@
     "publicdate": "2022-09-20 22:18:26",
     "addeddate": "2022-09-20 22:18:26"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 584192400,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445140803,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 789630707,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

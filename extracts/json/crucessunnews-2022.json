@@ -1,5 +1,5 @@
 {
-  "created": 1666094509,
+  "created": 1666138747,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/24/items/crucessunnews-2022",
@@ -18210,31 +18210,82 @@
       "sha1": "242ca050d0d7a47770a7916f76e2120be170e385"
     },
     {
+      "name": "crucessunnews-2022-10-18T18:17:43.766365-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138675",
+      "size": "20708",
+      "md5": "5848a8b7c5335c0179a02ca03ab6c249",
+      "crc32": "ba3fba76",
+      "sha1": "9ee1201588ec0a0909ede1ecc4835033a8e88634",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-10-18T18:17:43.766365-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138677",
+      "size": "31965",
+      "md5": "c6951a07f61885bacad2e51e55cf9ef5",
+      "crc32": "128b838b",
+      "sha1": "2e8c05bfc92b8283c02f7853ef65a4c36a4d52c5",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-10-18T18:17:43.766365-06:00.jpg",
+      "source": "original",
+      "mtime": "1666138673",
+      "size": "233950",
+      "md5": "9eb1f9e2825c9cffe0b7d5c4949c7f5d",
+      "crc32": "a4c2f6e5",
+      "sha1": "e4e81760898a5d6e63209067ac819fde0b72e49c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crucessunnews-2022-10-18T18:17:43.766365-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138679",
+      "size": "1495",
+      "md5": "a0ecc3ac61427c6f7492686855e57d53",
+      "crc32": "27646ee2",
+      "sha1": "41af393ca8d99dc6702bafbffccc8cc88d84cc5e",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-10-18T18:17:43.766365-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138681",
+      "size": "207",
+      "md5": "dc02311772efe3266c035c2a0e65087d",
+      "crc32": "e0ca8c7d",
+      "sha1": "a32cd408c5142675f2433c78ad063fbd103e8d02",
+      "format": "JSON"
+    },
+    {
       "name": "crucessunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa03c64a54bba183f27a06f5c075d526b2a90b10",
-      "mtime": "1666094437",
-      "size": "377698",
-      "md5": "c18a3fcdfda40bf1fd0c981f9599495d",
-      "crc32": "98230c5a",
-      "sha1": "e09648b8f00ec250c5a8d5058829d33450b9e13b",
+      "btih": "c1c24e3270963b002060a78c3f9ddc3a83b3faaa",
+      "mtime": "1666138742",
+      "size": "378764",
+      "md5": "e8af23eef78d38a255945ca2e02d4e9b",
+      "crc32": "2ff259c7",
+      "sha1": "4cc88bfdcae14a74b4b19c06c422ac5dbc1cbc8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crucessunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b9e6733928b5f32026ae5aee1984071d",
+      "md5": "46b8c39c1a9187451bac9fbe4ef69835",
       "summation": "md5"
     },
     {
       "name": "crucessunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666094252",
-      "size": "2138112",
-      "md5": "d3a8e97446158577c282329a7e64bab6",
-      "crc32": "692bbba4",
-      "sha1": "6c767cbe9f3c64996f266ca5d7e70f6625b07619",
+      "mtime": "1666138685",
+      "size": "2146304",
+      "md5": "5d0af47791880b4ae9ab876633e60a55",
+      "crc32": "5f0f97ab",
+      "sha1": "a4e86dd2bcc4638074de8b73b5a7506ea0698ff6",
       "format": "Metadata"
     },
     {
@@ -18248,9 +18299,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1752,
-  "item_last_updated": 1666094437,
-  "item_size": 125854950,
+  "files_count": 1757,
+  "item_last_updated": 1666138742,
+  "item_size": 126152533,
   "metadata": {
     "identifier": "crucessunnews-2022",
     "collection": [
@@ -18267,10 +18318,21 @@
     "publicdate": "2022-03-25 03:47:56",
     "addeddate": "2022-03-25 03:47:56"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 528283097,
+  "pending_tasks": true,
+  "server": "ia902509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445137791,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 460704042,
   "workable_servers": [
-    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

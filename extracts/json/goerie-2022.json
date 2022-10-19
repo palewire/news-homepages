@@ -1,5 +1,5 @@
 {
-  "created": 1666094594,
+  "created": 1666139140,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/goerie-2022",
@@ -3550,31 +3550,82 @@
       "sha1": "0ff29efb6630ea26c4e0ebd72849e7a965c50793"
     },
     {
+      "name": "goerie-2022-10-18T20:24:37.182779-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666139084",
+      "size": "23636",
+      "md5": "4e257c4331ca2f550c2d43b04009616e",
+      "crc32": "79e94635",
+      "sha1": "1435decc1733a19461eede954b893277c675ddbd",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-18T20:24:37.182779-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666139085",
+      "size": "33627",
+      "md5": "f988d04493db630201a519342ba4a493",
+      "crc32": "4085f9ed",
+      "sha1": "d2a2446864fed8ce44f98115fb2651f4edbff481",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-18T20:24:37.182779-04:00.jpg",
+      "source": "original",
+      "mtime": "1666139082",
+      "size": "275276",
+      "md5": "e026f348022af63f28651ce1896e346c",
+      "crc32": "86714db2",
+      "sha1": "c453faa1f2fc88bd649fc8bbf3b2c14218426bce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "goerie-2022-10-18T20:24:37.182779-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666139091",
+      "size": "1459",
+      "md5": "45f37e235b28f1356900c825fecd1c53",
+      "crc32": "4b620bea",
+      "sha1": "e4e3c884d120c73bfbb74fa62a84c0de3c7d095c",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-18T20:24:37.182779-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666139093",
+      "size": "77036",
+      "md5": "81240c34c65eba8c989990370aece165",
+      "crc32": "b97ec638",
+      "sha1": "18bbde3d00afee1e09220ae57dae6df229f00f23",
+      "format": "JSON"
+    },
+    {
       "name": "goerie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "57dcce82be3506ca53c4f409eb90a8d23cb19616",
-      "mtime": "1666094584",
-      "size": "72867",
-      "md5": "7280d3c317c0d0e292dbe4de5b71ed19",
-      "crc32": "564fd4fe",
-      "sha1": "1bba5ca2437423ffe91f55201f7adba629347b80",
+      "btih": "c6aff045f34d25f4345e340fa87b6685d5a93459",
+      "mtime": "1666139133",
+      "size": "73920",
+      "md5": "39b40a43e08bc8c1266865ecb479d973",
+      "crc32": "97486e03",
+      "sha1": "81f203f3c436cd3f8393858fa35aef2de3420997",
       "format": "Archive BitTorrent"
     },
     {
       "name": "goerie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd6685a3d26692b8ac61331306a4e87c",
+      "md5": "3ec66151e0a4d420d3b4adbb5a060f66",
       "summation": "md5"
     },
     {
       "name": "goerie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666094536",
-      "size": "454656",
-      "md5": "a0e4e9546cd4be83d5ac653223c6fcd4",
-      "crc32": "6fb3c861",
-      "sha1": "06af1a2659273056ad92668b021edf46e8a93ea6",
+      "mtime": "1666139097",
+      "size": "462848",
+      "md5": "392894f0f5f831da470d81adbe82e8a5",
+      "crc32": "8fde17cc",
+      "sha1": "3e7233109bbde89e07b8d74c3817dca20a78d660",
       "format": "Metadata"
     },
     {
@@ -3588,9 +3639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 347,
-  "item_last_updated": 1666094584,
-  "item_size": 23638772,
+  "files_count": 352,
+  "item_last_updated": 1666139133,
+  "item_size": 24059051,
   "metadata": {
     "identifier": "goerie-2022",
     "collection": [
@@ -3607,10 +3658,21 @@
     "publicdate": "2022-09-20 22:18:33",
     "addeddate": "2022-09-20 22:18:33"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 447087684,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445140669,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 936222333,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }
