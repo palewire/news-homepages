@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 309 hyperlink lists with the Internet Archive.
+The archiving routine has saved 310 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 5:53 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-19T05:52:59.251709-05:00.hyperlinks.json) |
 | [October 18 at 6:08 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-18T18:07:35.353695-05:00.hyperlinks.json) |
 | [October 18 at 5:52 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-18T05:52:19.421388-05:00.hyperlinks.json) |
 | [October 17 at 5:51 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-17T17:51:29.863150-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 16 at 5:51 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-16T05:51:42.261284-05:00.hyperlinks.json) |
 | [October 15 at 6:02 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-15T18:01:57.385080-05:00.hyperlinks.json) |
 | [October 15 at 5:54 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-15T05:54:17.052684-05:00.hyperlinks.json) |
-| [October 14 at 6:02 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-14T18:02:46.493340-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 312 accessibility trees with the Internet Archive.
+The archiving routine has saved 313 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 5:53 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-19T05:52:59.251709-05:00.accessibility.json) |
 | [October 18 at 6:08 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-18T18:07:35.353695-05:00.accessibility.json) |
 | [October 18 at 5:52 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-18T05:52:19.421388-05:00.accessibility.json) |
 | [October 17 at 5:51 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-17T17:51:29.863150-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 16 at 5:51 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-16T05:51:42.261284-05:00.accessibility.json) |
 | [October 15 at 6:02 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-15T18:01:57.385080-05:00.accessibility.json) |
 | [October 15 at 5:54 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-15T05:54:17.052684-05:00.accessibility.json) |
-| [October 14 at 6:02 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-14T18:02:46.493340-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 213 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 214 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 5:53 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-19T05:52:59.251709-05:00.lighthouse.json) |
 | [October 18 at 6:08 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-18T18:07:35.353695-05:00.lighthouse.json) |
 | [October 18 at 5:52 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-18T05:52:19.421388-05:00.lighthouse.json) |
 | [October 17 at 5:51 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-17T17:51:29.863150-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 16 at 5:52 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-16T05:51:42.261284-05:00.lighthouse.json) |
 | [October 15 at 6:02 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-15T18:01:57.385080-05:00.lighthouse.json) |
 | [October 15 at 5:54 AM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-15T05:54:17.052684-05:00.lighthouse.json) |
-| [October 14 at 6:02 PM](https://archive.org/download/amestribnews-2022/amestribnews-2022-10-14T18:02:46.493340-05:00.lighthouse.json) |
 
 
 

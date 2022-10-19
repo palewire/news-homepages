@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 74 screenshots with the Internet Archive.
+The archiving routine has saved 75 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 74 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-19T02:51:49.928156-08:00.jpg">
+  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-19T02:51:49.928156-08:00.jpg"
+     alt="Alaska Public Media at 2022-10-19 02:51:51-08:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-19T02:51:49.928156-08:00.jpg">October 19 at 2:51 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-18T15:09:08.471996-08:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-13T15:03:45.259383-08:00.jpg">October 13 at 3:03 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-13T02:44:50.927727-08:00.jpg">
-  <img src="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-13T02:44:50.927727-08:00.jpg"
-     alt="Alaska Public Media at 2022-10-13 02:44:54-08:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-13T02:44:50.927727-08:00.jpg">October 13 at 2:44 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 73 hyperlink lists with the Internet Archive.
+The archiving routine has saved 74 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 2:51 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-19T02:51:49.928156-08:00.hyperlinks.json) |
 | [October 18 at 3:09 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-18T15:09:08.471996-08:00.hyperlinks.json) |
 | [October 18 at 2:51 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-18T02:51:39.723378-08:00.hyperlinks.json) |
 | [October 17 at 2:52 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-17T14:52:10.440763-08:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 3:01 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-15T15:01:20.794080-08:00.hyperlinks.json) |
 | [October 15 at 2:53 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-15T02:53:00.669108-08:00.hyperlinks.json) |
 | [October 14 at 3:02 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-14T15:02:48.949904-08:00.hyperlinks.json) |
-| [October 14 at 2:54 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-14T02:54:34.755954-08:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 74 accessibility trees with the Internet Archive.
+The archiving routine has saved 75 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 2:51 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-19T02:51:49.928156-08:00.accessibility.json) |
 | [October 18 at 3:09 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-18T15:09:08.471996-08:00.accessibility.json) |
 | [October 18 at 2:51 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-18T02:51:39.723378-08:00.accessibility.json) |
 | [October 17 at 2:52 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-17T14:52:10.440763-08:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 3:01 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-15T15:01:20.794080-08:00.accessibility.json) |
 | [October 15 at 2:53 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-15T02:53:00.669108-08:00.accessibility.json) |
 | [October 14 at 3:02 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-14T15:02:48.949904-08:00.accessibility.json) |
-| [October 14 at 2:54 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-14T02:54:34.755954-08:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 74 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 2:51 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-19T02:51:49.928156-08:00.lighthouse.json) |
 | [October 18 at 3:09 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-18T15:09:08.471996-08:00.lighthouse.json) |
 | [October 18 at 2:51 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-18T02:51:39.723378-08:00.lighthouse.json) |
 | [October 17 at 2:52 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-17T14:52:10.440763-08:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 3:01 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-15T15:01:20.794080-08:00.lighthouse.json) |
 | [October 15 at 2:53 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-15T02:53:00.669108-08:00.lighthouse.json) |
 | [October 14 at 3:02 PM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-14T15:02:48.949904-08:00.lighthouse.json) |
-| [October 14 at 2:54 AM](https://archive.org/download/akpublicnews-2022/akpublicnews-2022-10-14T02:54:34.755954-08:00.lighthouse.json) |
 
 
 

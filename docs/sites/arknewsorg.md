@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 206 screenshots with the Internet Archive.
+The archiving routine has saved 207 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 206 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-19T05:54:56.130031-05:00.jpg">
+  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-19T05:54:56.130031-05:00.jpg"
+     alt="Arkansas Nonprofit News Network at 2022-10-19 05:55:03-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-19T05:54:56.130031-05:00.jpg">October 19 at 5:55 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-18T18:10:09.956608-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-13T18:06:05.515081-05:00.jpg">October 13 at 6:06 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-13T05:46:45.965027-05:00.jpg">
-  <img src="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-13T05:46:45.965027-05:00.jpg"
-     alt="Arkansas Nonprofit News Network at 2022-10-13 05:46:56-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-13T05:46:45.965027-05:00.jpg">October 13 at 5:46 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 207 hyperlink lists with the Internet Archive.
+The archiving routine has saved 208 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 5:55 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-19T05:54:56.130031-05:00.hyperlinks.json) |
 | [October 18 at 6:10 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-18T18:10:09.956608-05:00.hyperlinks.json) |
 | [October 18 at 5:55 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-18T05:54:54.096346-05:00.hyperlinks.json) |
 | [October 17 at 5:54 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-17T17:54:33.577660-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 6:05 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-15T18:05:18.477948-05:00.hyperlinks.json) |
 | [October 15 at 5:56 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-15T05:56:24.382794-05:00.hyperlinks.json) |
 | [October 14 at 6:06 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-14T18:06:00.728555-05:00.hyperlinks.json) |
-| [October 14 at 5:56 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-14T05:56:43.284099-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 207 accessibility trees with the Internet Archive.
+The archiving routine has saved 208 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 5:55 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-19T05:54:56.130031-05:00.accessibility.json) |
 | [October 18 at 6:10 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-18T18:10:09.956608-05:00.accessibility.json) |
 | [October 18 at 5:55 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-18T05:54:54.096346-05:00.accessibility.json) |
 | [October 17 at 5:54 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-17T17:54:33.577660-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 6:05 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-15T18:05:18.477948-05:00.accessibility.json) |
 | [October 15 at 5:56 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-15T05:56:24.382794-05:00.accessibility.json) |
 | [October 14 at 6:06 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-14T18:06:00.728555-05:00.accessibility.json) |
-| [October 14 at 5:56 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-14T05:56:43.284099-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 177 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 178 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 5:55 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-19T05:54:56.130031-05:00.lighthouse.json) |
 | [October 18 at 6:10 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-18T18:10:09.956608-05:00.lighthouse.json) |
 | [October 18 at 5:55 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-18T05:54:54.096346-05:00.lighthouse.json) |
 | [October 17 at 5:54 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-17T17:54:33.577660-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 6:05 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-15T18:05:18.477948-05:00.lighthouse.json) |
 | [October 15 at 5:56 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-15T05:56:24.382794-05:00.lighthouse.json) |
 | [October 14 at 6:06 PM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-14T18:06:00.728555-05:00.lighthouse.json) |
-| [October 14 at 5:56 AM](https://archive.org/download/arknewsorg-2022/arknewsorg-2022-10-14T05:56:43.284099-05:00.lighthouse.json) |
 
 
 
