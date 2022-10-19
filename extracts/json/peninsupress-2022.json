@@ -1,5 +1,5 @@
 {
-  "created": 1666102845,
+  "created": 1666147024,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/peninsupress-2022",
@@ -13294,31 +13294,82 @@
       "sha1": "0a4001eead523a40c182711acf351ffecc96585b"
     },
     {
+      "name": "peninsupress-2022-10-18T19:35:38.630707-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666146949",
+      "size": "19465",
+      "md5": "9f93891689554432f2f680b5a44b92c8",
+      "crc32": "6b27e342",
+      "sha1": "faa2de0ef53d3ba374a70231ec0d8ade9c15f535",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-10-18T19:35:38.630707-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666146951",
+      "size": "18226",
+      "md5": "9e2102369cd04e9b47299a3f19dcacb6",
+      "crc32": "e00c13bc",
+      "sha1": "1a916ba3bac84b8be2143a1e3cc146542295f280",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-10-18T19:35:38.630707-07:00.jpg",
+      "source": "original",
+      "mtime": "1666146948",
+      "size": "176350",
+      "md5": "245db5ab9c2ddea376de1b89ae699db9",
+      "crc32": "52c2b6e9",
+      "sha1": "9f506a74860ce6c0233075ff41cf1fc07384ed29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "peninsupress-2022-10-18T19:35:38.630707-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666146953",
+      "size": "1494",
+      "md5": "92864d2403beca76d05090c40a3ed84c",
+      "crc32": "f68054ae",
+      "sha1": "48b4778437a40298db6835afce7bda5d7535a7b0",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-10-18T19:35:38.630707-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666146955",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "peninsupress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e684f1ef5a5bd16c2f484fc8b8df6a43b7eec761",
-      "mtime": "1666102819",
-      "size": "274331",
-      "md5": "26eb5e10be826ee57e8c2219b042492a",
-      "crc32": "53c9e729",
-      "sha1": "a6d580e1b8e512c39d6541ac56e59ceda0e7332e",
+      "btih": "ae2f4dd6cf903632fc8b09dd54b01b28853739b7",
+      "mtime": "1666147015",
+      "size": "275392",
+      "md5": "fe559dc766caacbeacd9aa23668cac15",
+      "crc32": "a6f92d59",
+      "sha1": "0f38d69b8b8ca3e5e89f9d1446c18521dbac9491",
       "format": "Archive BitTorrent"
     },
     {
       "name": "peninsupress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dad68d488403f8388feca2e83c450f8d",
+      "md5": "6db17fc5cf8cb675da6297515777dd98",
       "summation": "md5"
     },
     {
       "name": "peninsupress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666102659",
-      "size": "1605632",
-      "md5": "fdb6dbba70e77cb1ec2c90a53e8ac440",
-      "crc32": "4af15a23",
-      "sha1": "405527496d4f8c46ddf52b49ac683c670f5b3642",
+      "mtime": "1666146960",
+      "size": "1613824",
+      "md5": "c4d548c5f722f28b6734056b653e85b5",
+      "crc32": "da17a656",
+      "sha1": "60f9a870adf4d0a551e0d02096bc81e25fa2088c",
       "format": "Metadata"
     },
     {
@@ -13332,9 +13383,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1285,
-  "item_last_updated": 1666102819,
-  "item_size": 51889288,
+  "files_count": 1290,
+  "item_last_updated": 1666147015,
+  "item_size": 52114278,
   "metadata": {
     "identifier": "peninsupress-2022",
     "collection": [
@@ -13351,10 +13402,21 @@
     "publicdate": "2022-06-30 20:48:32",
     "addeddate": "2022-06-30 20:48:32"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 1826161885,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445211725,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1282374443,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

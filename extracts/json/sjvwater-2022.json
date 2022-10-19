@@ -1,5 +1,5 @@
 {
-  "created": 1666102969,
+  "created": 1666147222,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/sjvwater-2022",
@@ -6578,31 +6578,82 @@
       "sha1": "3eac0415fbbd91365e934d029b10e24fd1d67e6c"
     },
     {
+      "name": "sjvwater-2022-10-18T19:39:05.479772-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666147154",
+      "size": "18756",
+      "md5": "58e260f145215252aaae4824b8ccace5",
+      "crc32": "b1fb1a72",
+      "sha1": "38286fff6700da882e9a2a1f1b958d583caf3fb5",
+      "format": "JSON"
+    },
+    {
+      "name": "sjvwater-2022-10-18T19:39:05.479772-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666147155",
+      "size": "16891",
+      "md5": "0589b0d08e0d56f0fb39f87d8ae81ae5",
+      "crc32": "2790ddcb",
+      "sha1": "17f9ce2c04467669aceba539e5cd7a036ee94c4f",
+      "format": "JSON"
+    },
+    {
+      "name": "sjvwater-2022-10-18T19:39:05.479772-07:00.jpg",
+      "source": "original",
+      "mtime": "1666147152",
+      "size": "231525",
+      "md5": "19c1356e0ab168f323166a257cc0a503",
+      "crc32": "999e7ccd",
+      "sha1": "552ea4d48c6dee09c518ba7ecb39598f7b9961e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sjvwater-2022-10-18T19:39:05.479772-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666147157",
+      "size": "1486",
+      "md5": "60e59207a69aa427b5d6530fda5b7e4c",
+      "crc32": "f3b38cf4",
+      "sha1": "6e201da54468e6c86ce428a4a0f3eb6cfbb74d8f",
+      "format": "JSON"
+    },
+    {
+      "name": "sjvwater-2022-10-18T19:39:05.479772-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666147158",
+      "size": "8574",
+      "md5": "4e3ad7e7f9c85ff649a9fe9ec47d26fa",
+      "crc32": "ae1452f9",
+      "sha1": "1a5b609df923a8b3f17ae0a2bd83cb844ad99348",
+      "format": "JSON"
+    },
+    {
       "name": "sjvwater-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07d3916e874c8adea2c62192cc0ce1267f18b30e",
-      "mtime": "1666102944",
-      "size": "134654",
-      "md5": "ece0b9b658c3d113a43136bf51f98680",
-      "crc32": "46c01f7e",
-      "sha1": "26d6bd280f66938aaa134c8805cc542b028e3a05",
+      "btih": "39572ad8ffbd666a45b57c40802c49ffe549c208",
+      "mtime": "1666147206",
+      "size": "135696",
+      "md5": "a8eee165ba87e11bdb472844820c13c7",
+      "crc32": "074c6f13",
+      "sha1": "30a7e98f621d8a10ec00ed2fefc7b47eb41de653",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sjvwater-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "978419ae9a23016c3f360107e253f36d",
+      "md5": "44d28fd2b0c039170a635cdf232621ad",
       "summation": "md5"
     },
     {
       "name": "sjvwater-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666102843",
-      "size": "823296",
-      "md5": "8cfd2ce62dafc5f56fa9488849396e82",
-      "crc32": "337bd3aa",
-      "sha1": "fb9dbf3f1ad38fe81aa89449fee01ada309b8e20",
+      "mtime": "1666147165",
+      "size": "831488",
+      "md5": "d7427ab5b49247a2bd57bab9a0382615",
+      "crc32": "0ae26077",
+      "sha1": "eb35659a7aeb15ddfdcb9eca594866a6ddbd7bdd",
       "format": "Metadata"
     },
     {
@@ -6616,9 +6667,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 640,
-  "item_last_updated": 1666102944,
-  "item_size": 31753186,
+  "files_count": 645,
+  "item_last_updated": 1666147206,
+  "item_size": 32039652,
   "metadata": {
     "identifier": "sjvwater-2022",
     "collection": [
@@ -6635,10 +6686,21 @@
     "publicdate": "2022-08-26 13:01:22",
     "addeddate": "2022-08-26 13:01:22"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 1265455625,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445213645,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 895210187,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

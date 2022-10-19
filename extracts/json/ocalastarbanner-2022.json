@@ -1,5 +1,5 @@
 {
-  "created": 1666105972,
+  "created": 1666146999,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/21/items/ocalastarbanner-2022",
@@ -3478,31 +3478,82 @@
       "sha1": "f421a73e123e1d8417ff4aab1c56435d52c52503"
     },
     {
+      "name": "ocalastarbanner-2022-10-18T22:35:43.330658-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666146948",
+      "size": "22044",
+      "md5": "6b9312458a983bbb72116990d3653bc6",
+      "crc32": "43754a1b",
+      "sha1": "1d87a8b32ae5310ba854d47074fdb4d8e4638bb8",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-18T22:35:43.330658-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666146949",
+      "size": "33093",
+      "md5": "5067fd7e22e2a544f5fe0227986ce605",
+      "crc32": "455f1cc5",
+      "sha1": "2b1ef6990b0e156314710064f72ccad9e27aeee1",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-18T22:35:43.330658-04:00.jpg",
+      "source": "original",
+      "mtime": "1666146946",
+      "size": "263215",
+      "md5": "b7756216a3bd6051b71e283fc43a224d",
+      "crc32": "fbc36a19",
+      "sha1": "f6f66ab8bcac77757c79dbb0d986f773adfe5b23",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-18T22:35:43.330658-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666146951",
+      "size": "1450",
+      "md5": "00a27b7be4f15e9ea02d6c1a82035c9c",
+      "crc32": "8e1646b7",
+      "sha1": "b677bd67285369768505bc441e2c4d0a1e6b4a23",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-18T22:35:43.330658-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666146952",
+      "size": "57916",
+      "md5": "de8bfe66a573150f395f47d2818333dd",
+      "crc32": "4acaf5fd",
+      "sha1": "be78cde9838625c16a53610cc6a453be87f87d91",
+      "format": "JSON"
+    },
+    {
       "name": "ocalastarbanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a3241415fc187fed42a8bf4eb4861cd517276da",
-      "mtime": "1666102761",
-      "size": "74414",
-      "md5": "25ee9331b0180849a2ccea2f2f433da6",
-      "crc32": "49933001",
-      "sha1": "bf29e592436989c774d3d60228d2ca56ab364ec5",
+      "btih": "407a2d0c9b580aa17598a7dd9c7c05ca3b741fbd",
+      "mtime": "1666146995",
+      "size": "75512",
+      "md5": "df72869f53d6e95a6ac1219312a39fc4",
+      "crc32": "7e6e5ed3",
+      "sha1": "3e3088cd2292380b73e4535ac875de5f0bfcf615",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocalastarbanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e53ffefd0998f3bdaebcf43cb993ba5",
+      "md5": "9ebd8df5e43932ba9ca53e19e22e695a",
       "summation": "md5"
     },
     {
       "name": "ocalastarbanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666102711",
-      "size": "446464",
-      "md5": "fe0319ed0a98514067a8c89664d66d86",
-      "crc32": "e4c2e6ae",
-      "sha1": "1b6bf4c746aac7440b7a77ae032cf80c1de97a63",
+      "mtime": "1666146958",
+      "size": "458752",
+      "md5": "b03bd6fafd0680ccea6c01b6c5616193",
+      "crc32": "29ef6961",
+      "sha1": "b1feed5cbaed42ccf2739b346bb895515e0b576a",
       "format": "Metadata"
     },
     {
@@ -3516,9 +3567,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 340,
-  "item_last_updated": 1666102761,
-  "item_size": 21841527,
+  "files_count": 345,
+  "item_last_updated": 1666146995,
+  "item_size": 22232631,
   "metadata": {
     "identifier": "ocalastarbanner-2022",
     "collection": [
@@ -3535,15 +3586,21 @@
     "publicdate": "2022-09-21 02:22:57",
     "addeddate": "2022-09-21 02:22:57"
   },
-  "ocalastarbanner-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801505.us.archive.org",
-  "uniq": 841457709,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445211488,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 909607051,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

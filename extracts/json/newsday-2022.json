@@ -1,5 +1,5 @@
 {
-  "created": 1666102566,
+  "created": 1666146837,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/33/items/newsday-2022",
@@ -10326,31 +10326,82 @@
       "sha1": "238d4bed697d8fcf09db2a5faa3c22090ed53a60"
     },
     {
+      "name": "newsday-2022-10-18T22:32:52.976038-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666146779",
+      "size": "19490",
+      "md5": "accdb29b04e55da4a0d0ee081d9f8d58",
+      "crc32": "2cfca00a",
+      "sha1": "7a12ce60bff8559db63ea97400b039808d4a8183",
+      "format": "JSON"
+    },
+    {
+      "name": "newsday-2022-10-18T22:32:52.976038-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666146781",
+      "size": "16775",
+      "md5": "f8656e385ad020939a813bd615c73ea7",
+      "crc32": "f595318d",
+      "sha1": "c38aa95fb47b76157a1a1fb67f328badbc655035",
+      "format": "JSON"
+    },
+    {
+      "name": "newsday-2022-10-18T22:32:52.976038-04:00.jpg",
+      "source": "original",
+      "mtime": "1666146778",
+      "size": "338419",
+      "md5": "66b90e4c9769e8b8c427eb7c7f955ee3",
+      "crc32": "936c6bf2",
+      "sha1": "d5310c7fca8990a3435183a539c37afb32606941",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsday-2022-10-18T22:32:52.976038-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666146783",
+      "size": "1468",
+      "md5": "968ac0192919320041936369a772d347",
+      "crc32": "d7b4545b",
+      "sha1": "bae8ee8c0ab101dc8977337ec5bdb9953a0d56e0",
+      "format": "JSON"
+    },
+    {
+      "name": "newsday-2022-10-18T22:32:52.976038-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666146784",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "newsday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1c2ef13f432db032cf5977acf5d5267e1aea8f75",
-      "mtime": "1666102558",
-      "size": "210357",
-      "md5": "85d16522d2bd13f99d3cdee2d463fe43",
-      "crc32": "d335373d",
-      "sha1": "1ef43c15ccf677c356d1f81c9b8b35ad28f1648f",
+      "btih": "86b043a8f3a7770992e4ee0c8ef9fcf4d31bd04a",
+      "mtime": "1666146832",
+      "size": "211393",
+      "md5": "70ebccc147c1ccde438b2272f3f636ae",
+      "crc32": "4dd9dd3c",
+      "sha1": "8edd1cd16f03af8a41a5ab93c5db8df55392b145",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "91c31d6bb9ad24bb10bc3ffef56604b9",
+      "md5": "a157df4ad972b168e48f562ce9197c55",
       "summation": "md5"
     },
     {
       "name": "newsday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666102460",
-      "size": "1273856",
-      "md5": "ebb10c37a69e91f1a1c1d107000b4727",
-      "crc32": "dc646091",
-      "sha1": "aeeca8217eba9801b55877402b8537b792acb89a",
+      "mtime": "1666146789",
+      "size": "1282048",
+      "md5": "de3c4f49e3defeb03ed74a4cb33e86fd",
+      "crc32": "2794d55d",
+      "sha1": "a271fdd668a91814703efa82324c7c37cb4efa52",
       "format": "Metadata"
     },
     {
@@ -10364,9 +10415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1002,
-  "item_last_updated": 1666102558,
-  "item_size": 68894867,
+  "files_count": 1007,
+  "item_last_updated": 1666146832,
+  "item_size": 69280449,
   "metadata": {
     "identifier": "newsday-2022",
     "collection": [
@@ -10383,10 +10434,21 @@
     "publicdate": "2022-07-26 00:21:25",
     "addeddate": "2022-07-26 00:21:25"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 1348412582,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445209921,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1524181891,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

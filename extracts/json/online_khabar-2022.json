@@ -1,5 +1,5 @@
 {
-  "created": 1666102786,
+  "created": 1666147084,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/23/items/online_khabar-2022",
@@ -10442,31 +10442,82 @@
       "sha1": "0e88515d568f682ba355a271dbc1a64f04ae5501"
     },
     {
+      "name": "online_khabar-2022-10-19T08:21:57.877463+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666147027",
+      "size": "136172",
+      "md5": "2a0614df1bcd1ead9a225101c56891af",
+      "crc32": "bbac6064",
+      "sha1": "2cb2003f4db0935b85d7da46d013b09ec57ab322",
+      "format": "JSON"
+    },
+    {
+      "name": "online_khabar-2022-10-19T08:21:57.877463+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666147028",
+      "size": "106073",
+      "md5": "8a7045de2d81511255bd4567519d2644",
+      "crc32": "79ed1bc3",
+      "sha1": "223e23ae0f215a9220c32ceec85659871c25dc58",
+      "format": "JSON"
+    },
+    {
+      "name": "online_khabar-2022-10-19T08:21:57.877463+05:45.jpg",
+      "source": "original",
+      "mtime": "1666147025",
+      "size": "241984",
+      "md5": "56d30b373c82441130e269fffa2c24d2",
+      "crc32": "fdb9a798",
+      "sha1": "4ece111952742e36da5b7a6a609a653cd31ba854",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "online_khabar-2022-10-19T08:21:57.877463+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666147030",
+      "size": "1504",
+      "md5": "bbc2cd51f0006e216376fa58c819b495",
+      "crc32": "e5f835d8",
+      "sha1": "2c4a8e5c3d5a99518c246d913110f144d0c134de",
+      "format": "JSON"
+    },
+    {
+      "name": "online_khabar-2022-10-19T08:21:57.877463+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666147032",
+      "size": "28990",
+      "md5": "a47f12e65097747dc62b1baf3779a424",
+      "crc32": "1cc2df16",
+      "sha1": "f9907faa0560c6824abb531182747f8e538eea40",
+      "format": "JSON"
+    },
+    {
       "name": "online_khabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "653544bc88d685e06c56dee5bb675f03e090e156",
-      "mtime": "1666102775",
-      "size": "219448",
-      "md5": "f75884979119906a60b530da54f46e57",
-      "crc32": "192bc456",
-      "sha1": "b3fadb140faae2857a17057f45900405e2506685",
+      "btih": "633aee03af9f20937f79a6836a7cc2c8cf8bcdaa",
+      "mtime": "1666147080",
+      "size": "220538",
+      "md5": "e21a1fdff6ed4b3dd194a98cb82fb220",
+      "crc32": "1c97db0d",
+      "sha1": "7dc1ca4818a18d6eef0b3650baff82cb972e7af5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "online_khabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "63def82b963e8ecced77a569add37f16",
+      "md5": "79f7edf7c926d1b256a109860e0b6279",
       "summation": "md5"
     },
     {
       "name": "online_khabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666102699",
-      "size": "1298432",
-      "md5": "3b0b1742dcd7c09310660dd28707db9f",
-      "crc32": "7424d928",
-      "sha1": "ebbac5281556c314ccd63980080dd289e07b8f07",
+      "mtime": "1666147038",
+      "size": "1306624",
+      "md5": "f76259aa958016e456f045abf361f565",
+      "crc32": "60129a6f",
+      "sha1": "2d554939c4530581864d5339047be3905e4fef45",
       "format": "Metadata"
     },
     {
@@ -10480,9 +10531,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1013,
-  "item_last_updated": 1666102775,
-  "item_size": 79156635,
+  "files_count": 1018,
+  "item_last_updated": 1666147080,
+  "item_size": 79680640,
   "metadata": {
     "identifier": "online_khabar-2022",
     "collection": [
@@ -10499,10 +10550,21 @@
     "publicdate": "2022-07-24 20:38:53",
     "addeddate": "2022-07-24 20:38:53"
   },
+  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "uniq": 2124390076,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445212250,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 653845619,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia902509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666105738,
+  "created": 1666146781,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/nbsunjournal-2022",
@@ -3488,31 +3488,82 @@
       "sha1": "c5691345b663e12b19cdcb095d56f0ca3bfa35ca"
     },
     {
+      "name": "nbsunjournal-2022-10-18T22:32:06.148409-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666146729",
+      "size": "23182",
+      "md5": "d8cfe92d82d4ef37744b109e6442cfbf",
+      "crc32": "1c93817d",
+      "sha1": "dda0ff94ba7138f170a526e78ffcc4c39f1f2a2e",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-18T22:32:06.148409-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666146730",
+      "size": "31105",
+      "md5": "2869ffeb72e2aab770d9bab7309cd4fb",
+      "crc32": "ee38163f",
+      "sha1": "ee4a6a25757b06153aa3ce4ea11b072a41ac618c",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-18T22:32:06.148409-04:00.jpg",
+      "source": "original",
+      "mtime": "1666146727",
+      "size": "270237",
+      "md5": "39c0c0d5351191b8f4ec5963e11637a4",
+      "crc32": "d3d8a8fb",
+      "sha1": "bfc398a036ad3e57df62a29df999e5917d742c58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbsunjournal-2022-10-18T22:32:06.148409-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666146732",
+      "size": "1486",
+      "md5": "33f517155f44d4d90bd11b7b2014ef07",
+      "crc32": "a5f9509d",
+      "sha1": "80eeb1edbc79df1af560abfbf42c8a9cf618ce2d",
+      "format": "JSON"
+    },
+    {
+      "name": "nbsunjournal-2022-10-18T22:32:06.148409-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666146734",
+      "size": "102979",
+      "md5": "854d6a6565aa11c3595c2398cb43205a",
+      "crc32": "eb9d5dfe",
+      "sha1": "b2027a843e92bffabfb72e410f097eb2356c64c5",
+      "format": "JSON"
+    },
+    {
       "name": "nbsunjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd5f6eefcfec4496416c500ad3c3428b6add3837",
-      "mtime": "1666102586",
-      "size": "73736",
-      "md5": "1e9cc5aab74b7f286a72e783801c6c45",
-      "crc32": "08ebd392",
-      "sha1": "c6db671d25512bcada1f79ed0fc3c89f22e5e657",
+      "btih": "d97aa5cac956ad9a7e95005de38a990fc58da723",
+      "mtime": "1666146778",
+      "size": "74820",
+      "md5": "d1ec5516512d3a9228a1d1533585dc61",
+      "crc32": "ef6dc919",
+      "sha1": "a75eeffb8799729121931f9b706723683c42c86b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbsunjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7f239846da232fc96e345cbabcd460c1",
+      "md5": "c0363fab3949850804aa724aed7a6f6f",
       "summation": "md5"
     },
     {
       "name": "nbsunjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666102511",
-      "size": "450560",
-      "md5": "8b736f089934124430a65a8e55b97b41",
-      "crc32": "3de1d069",
-      "sha1": "6377babd2e72a439f313f07b551b52e64e35c948",
+      "mtime": "1666146741",
+      "size": "454656",
+      "md5": "e1882d55c8576ce8137819922041957b",
+      "crc32": "a9d63696",
+      "sha1": "5c31293a2122edb4e7778896104c53981d678083",
       "format": "Metadata"
     },
     {
@@ -3526,9 +3577,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 341,
-  "item_last_updated": 1666102586,
-  "item_size": 24155818,
+  "files_count": 346,
+  "item_last_updated": 1666146778,
+  "item_size": 24589987,
   "metadata": {
     "identifier": "nbsunjournal-2022",
     "collection": [
@@ -3545,15 +3596,21 @@
     "publicdate": "2022-09-21 02:20:26",
     "addeddate": "2022-09-21 02:20:26"
   },
-  "nbsunjournal-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 1803710671,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445209282,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 935551678,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }
