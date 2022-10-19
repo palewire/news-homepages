@@ -1,5 +1,5 @@
 {
-  "created": 1666151157,
+  "created": 1666191953,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/umd_sbs-2022",
@@ -11635,31 +11635,93 @@
       "format": "JSON"
     },
     {
+      "name": "umd_sbs-2022-10-18T23:44:48.983735-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "umd_sbs-2022-10-18T23:44:48.983735-04:00.jpg",
+      "mtime": "1666170510",
+      "size": "7817",
+      "md5": "782bc02f4627461866c1f133477e8610",
+      "crc32": "b6a1ba70",
+      "sha1": "960005d217ace66e21eedea705c7d4ae5a27ff59"
+    },
+    {
+      "name": "umd_sbs-2022-10-19T11:04:40.906359-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666191889",
+      "size": "17075",
+      "md5": "922d0e7c310ac971c4b8924f094ae2b6",
+      "crc32": "cd26e963",
+      "sha1": "43a47743f365d369fc30d6415053633d84f2b782",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-10-19T11:04:40.906359-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666191891",
+      "size": "15261",
+      "md5": "3099434623260951ad6a6883494aab68",
+      "crc32": "75bd0c8f",
+      "sha1": "94ca23b39bab101e5ef44997abb9de00fc7b47f5",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-10-19T11:04:40.906359-04:00.jpg",
+      "source": "original",
+      "mtime": "1666191887",
+      "size": "234172",
+      "md5": "d561bb2204f44280d487ce7ebfca1bd0",
+      "crc32": "953a5d45",
+      "sha1": "188d247ece22f5bcde9a7ed8bb4f4995abaf1b30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "umd_sbs-2022-10-19T11:04:40.906359-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666191897",
+      "size": "1504",
+      "md5": "f45327551dbe9f744d7eeec8de8a2baf",
+      "crc32": "3e9ede4a",
+      "sha1": "a7fba7003c89b9f6d27306ab017042df1defcb9b",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-10-19T11:04:40.906359-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666191899",
+      "size": "8996",
+      "md5": "82f6691f3eef3954ea44b186de2b8caf",
+      "crc32": "c9565c74",
+      "sha1": "33abf7e14c98ddedd3ff107ee020043dbfbd31a4",
+      "format": "JSON"
+    },
+    {
       "name": "umd_sbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2af5bf4a3cc274f11195a92e3561b4da0a2fe4c0",
-      "mtime": "1666151154",
-      "size": "235697",
-      "md5": "d76f1f0862065a40d142319dcd08c75c",
-      "crc32": "734202a2",
-      "sha1": "7d9a71b54ec1b3fc4fd352c8ee2b07aace596f37",
+      "btih": "8aff336054075f3863d31b57fac5c1840805d4c3",
+      "mtime": "1666191948",
+      "size": "236937",
+      "md5": "7e21b48b028512203c66222774771b2c",
+      "crc32": "8fac7d04",
+      "sha1": "e311682e04fee0b26a13212a7d5fae3c945d8bbb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "umd_sbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e028711a393abd42ae3a22a39590865",
+      "md5": "49e68a0fcae07fac0c00ad3a2f135df9",
       "summation": "md5"
     },
     {
       "name": "umd_sbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666151107",
-      "size": "1421312",
-      "md5": "4dc119ad3a55e5249d3480a22dcb7cc8",
-      "crc32": "b96a012f",
-      "sha1": "33c789453793c6480aedb22e290b3c33a8177d28",
+      "mtime": "1666191902",
+      "size": "1429504",
+      "md5": "f8f0382296604672da43585b702e6c92",
+      "crc32": "b59465a7",
+      "sha1": "47899fd6b302e8574272479b57c1253db7131e8e",
       "format": "Metadata"
     },
     {
@@ -11673,9 +11735,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1127,
-  "item_last_updated": 1666151154,
-  "item_size": 59134596,
+  "files_count": 1133,
+  "item_last_updated": 1666191948,
+  "item_size": 59428853,
   "metadata": {
     "identifier": "umd_sbs-2022",
     "collection": [
@@ -11697,7 +11759,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445250799,
+      "task_id": 3445719354,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11705,7 +11767,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1289881104,
+  "uniq": 869691278,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

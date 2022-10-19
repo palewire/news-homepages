@@ -1,5 +1,5 @@
 {
-  "created": 1666150926,
+  "created": 1666191682,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/18/items/southsideweekly-2022",
@@ -20253,31 +20253,93 @@
       "format": "JSON"
     },
     {
+      "name": "southsideweekly-2022-10-18T22:40:34.538346-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southsideweekly-2022-10-18T22:40:34.538346-05:00.jpg",
+      "mtime": "1666170366",
+      "size": "9701",
+      "md5": "fa142b2cd96dc019377a18e9cc324ea0",
+      "crc32": "ba4c7738",
+      "sha1": "2aaeb3ec87161161ffcc71bb5b2b8c97a0851c59"
+    },
+    {
+      "name": "southsideweekly-2022-10-19T09:59:50.132231-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666191606",
+      "size": "15736",
+      "md5": "5beba191041283682b707c424154f095",
+      "crc32": "7ee712a6",
+      "sha1": "57e64c81a68ec45a1529b96ca8dd34db43f031a2",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-19T09:59:50.132231-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666191608",
+      "size": "29595",
+      "md5": "2a607a8687e3fb86dec162385762ebb8",
+      "crc32": "44543222",
+      "sha1": "8bbc75e7114cc4537b41a562154b3d859e743f5b",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-19T09:59:50.132231-05:00.jpg",
+      "source": "original",
+      "mtime": "1666191604",
+      "size": "282845",
+      "md5": "ca94046221b0106f3ce321bae4b344db",
+      "crc32": "da7d273e",
+      "sha1": "d7a04e6b82c1f6c61ee9727f52f1851a8d132eca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-10-19T09:59:50.132231-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666191609",
+      "size": "1503",
+      "md5": "0a3a87f2c955daa6dae4fdd435ca5e40",
+      "crc32": "a37f515a",
+      "sha1": "5606629f2273949cd49eba97eb1eef8bb0d3b9c9",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-19T09:59:50.132231-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666191611",
+      "size": "23723",
+      "md5": "d0fc9b39be688bc526eff5ec0c75ea97",
+      "crc32": "55d87c6e",
+      "sha1": "05a122f37e4f312f9b5633ccf0a18300292de548",
+      "format": "JSON"
+    },
+    {
       "name": "southsideweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10fc1d42e650738a11b63d83d302704e79e9e864",
-      "mtime": "1666150922",
-      "size": "425554",
-      "md5": "58bf61d90a5509fd7d440864406d5052",
-      "crc32": "e0cf3193",
-      "sha1": "7b637a86ec35f619c653b962ba5bdbc187a4129f",
+      "btih": "760e5dc608fd5e04ceb784a8180e7f1e1daae017",
+      "mtime": "1666191678",
+      "size": "426863",
+      "md5": "7c8a2ed22b091489b881c14370210f69",
+      "crc32": "82564438",
+      "sha1": "d93e3940f36c6230b90711a5f7a9675ee1680641",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southsideweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "236c4cc8de938859e9d5773f3de6aca7",
+      "md5": "b05a0adad91788f0daa7a032f58682e8",
       "summation": "md5"
     },
     {
       "name": "southsideweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666150856",
-      "size": "2449408",
-      "md5": "38f2797f5b06c9c9638a744299abe36a",
-      "crc32": "cb60824e",
-      "sha1": "4554cda92ea27e175df4ee306c3e7ec5ae1172d1",
+      "mtime": "1666191615",
+      "size": "2453504",
+      "md5": "ba1a776dbd39d21f4c0d412ccb1a1d99",
+      "crc32": "21f7e272",
+      "sha1": "4cd12ea9b3f046d513ccd2408af2e6f2805ae8da",
       "format": "Metadata"
     },
     {
@@ -20291,9 +20353,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1955,
-  "item_last_updated": 1666150922,
-  "item_size": 133823799,
+  "files_count": 1961,
+  "item_last_updated": 1666191678,
+  "item_size": 134192307,
   "metadata": {
     "identifier": "southsideweekly-2022",
     "collection": [
@@ -20315,7 +20377,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445248463,
+      "task_id": 3445714797,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -20323,7 +20385,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1989943632,
+  "uniq": 1613984708,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

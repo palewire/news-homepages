@@ -1,5 +1,5 @@
 {
-  "created": 1666150897,
+  "created": 1666192261,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/starnewsonline-2022",
@@ -3539,31 +3539,93 @@
       "format": "JSON"
     },
     {
+      "name": "starnewsonline-2022-10-18T23:40:38.012892-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "starnewsonline-2022-10-18T23:40:38.012892-04:00.jpg",
+      "mtime": "1666170286",
+      "size": "9498",
+      "md5": "67c629020f644467b5381d6916e41da7",
+      "crc32": "98f44724",
+      "sha1": "df59f4a72100f7ee19e2b5a825bc030b74b6a8c5"
+    },
+    {
+      "name": "starnewsonline-2022-10-19T10:59:40.630489-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666191589",
+      "size": "23264",
+      "md5": "d8dd8bc79e658caefc99cf3007909e35",
+      "crc32": "d8fc1fd6",
+      "sha1": "9148f00b515e723a4d29513d9b5fc3c3905abfc4",
+      "format": "JSON"
+    },
+    {
+      "name": "starnewsonline-2022-10-19T10:59:40.630489-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666191591",
+      "size": "39364",
+      "md5": "c0b0447bc6240d9162356606acf33b5c",
+      "crc32": "4f2b1a3a",
+      "sha1": "8f0b60a0e046eb1903827c3a5beac105bbca5263",
+      "format": "JSON"
+    },
+    {
+      "name": "starnewsonline-2022-10-19T10:59:40.630489-04:00.jpg",
+      "source": "original",
+      "mtime": "1666191587",
+      "size": "277129",
+      "md5": "9e82ed27b04f35e94872c254a255e622",
+      "crc32": "7f92cf5c",
+      "sha1": "9d1cc0d0ef6488bdf248e516f4a68687fee64293",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "starnewsonline-2022-10-19T10:59:40.630489-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666191593",
+      "size": "1531",
+      "md5": "ece6272589991ccee81efcd573521fb8",
+      "crc32": "57f4471e",
+      "sha1": "5b80721dc81df33b6d1e8da31c0a93ce2a2cc59c",
+      "format": "JSON"
+    },
+    {
+      "name": "starnewsonline-2022-10-19T10:59:40.630489-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666191594",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "starnewsonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "14f2444f25bdb08d1d80d259e1ed8401d17b34ae",
-      "mtime": "1666150892",
-      "size": "75493",
-      "md5": "ce156d7f9f9d5803b5eb4e57b7833219",
-      "crc32": "0f0f77e3",
-      "sha1": "207fea052e048c6e05b39de4d247c1919a0b5456",
+      "btih": "a32ba8ec9d49fec3b0bd486598a35afca678d72e",
+      "mtime": "1666191649",
+      "size": "76774",
+      "md5": "69dd0a9ab6859c1cca794c6561cc9e75",
+      "crc32": "88b4cbac",
+      "sha1": "0a7457569b0910bbd8e9545e875056c760417f56",
       "format": "Archive BitTorrent"
     },
     {
       "name": "starnewsonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "212f84fca256ac30aba0d14973dde2c9",
+      "md5": "9e580c7e8c957e602453f5f3854e7132",
       "summation": "md5"
     },
     {
       "name": "starnewsonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666150854",
-      "size": "458752",
-      "md5": "510ae3ca1f0d28c0dc414f9e39e8ca63",
-      "crc32": "18a2ec2e",
-      "sha1": "97b1ea45461a2fe86c49a0b3410cd66c61b94ff0",
+      "mtime": "1666191604",
+      "size": "466944",
+      "md5": "974516f42364666cb6dc17b8baef34ee",
+      "crc32": "31f3c7a3",
+      "sha1": "5a2819704dda840c85076f0c23a17d0a4f71cbb7",
       "format": "Metadata"
     },
     {
@@ -3577,9 +3639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 346,
-  "item_last_updated": 1666150892,
-  "item_size": 23702424,
+  "files_count": 352,
+  "item_last_updated": 1666191649,
+  "item_size": 24062885,
   "metadata": {
     "identifier": "starnewsonline-2022",
     "collection": [
@@ -3599,9 +3661,14 @@
   "pending_tasks": true,
   "server": "ia601508.us.archive.org",
   "servers_unavailable": true,
+  "starnewsonline-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "tasks": [
     {
-      "task_id": 3445248203,
+      "task_id": 3445714277,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3609,7 +3676,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 899518179,
+  "uniq": 1019533826,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666151181,
+  "created": 1666191984,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/5/items/uvaldenews-2022",
@@ -11057,31 +11057,93 @@
       "format": "JSON"
     },
     {
+      "name": "uvaldenews-2022-10-18T22:45:05.046103-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uvaldenews-2022-10-18T22:45:05.046103-05:00.jpg",
+      "mtime": "1666170503",
+      "size": "10122",
+      "md5": "feec507b438f6a37fa5350e3fe465a85",
+      "crc32": "265c7d60",
+      "sha1": "34108837079c6ae7f0c2223d83a840a98968eb46"
+    },
+    {
+      "name": "uvaldenews-2022-10-19T10:05:00.018731-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666191911",
+      "size": "22749",
+      "md5": "780722543265b39050655963eff5bc86",
+      "crc32": "2926984d",
+      "sha1": "344ff0c82e1f2a9471f776f111b1af82c161f25b",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-10-19T10:05:00.018731-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666191913",
+      "size": "17864",
+      "md5": "6b6fb76d72e01e2295453cc9c395db0f",
+      "crc32": "2a418fcf",
+      "sha1": "f1e330da8131a2e82e318614a6f088e7f09c005d",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-10-19T10:05:00.018731-05:00.jpg",
+      "source": "original",
+      "mtime": "1666191909",
+      "size": "219928",
+      "md5": "591e987070b7825b39aef09c9a185525",
+      "crc32": "59d9f46b",
+      "sha1": "23d2414fb305e6a512c4d09dca2e67a7666d9f10",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uvaldenews-2022-10-19T10:05:00.018731-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666191914",
+      "size": "1549",
+      "md5": "e5aa9a550f6790fa16b991607a45f5b7",
+      "crc32": "4807e9d8",
+      "sha1": "a60dc6991284083de702a2d4f82de2a9efdc094d",
+      "format": "JSON"
+    },
+    {
+      "name": "uvaldenews-2022-10-19T10:05:00.018731-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666191916",
+      "size": "135013",
+      "md5": "0aad14878644071da7fc9fc9df40fb30",
+      "crc32": "38c58c3e",
+      "sha1": "88f872ed4ba20a09017719e55432623b75e4bb26",
+      "format": "JSON"
+    },
+    {
       "name": "uvaldenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae3fe9de1b6b06d63e846f337886bff924bff467",
-      "mtime": "1666151175",
-      "size": "228127",
-      "md5": "c26b4ab8190b15895a979c6c6751c13f",
-      "crc32": "93397361",
-      "sha1": "5ae8a509c7727963d8427f37c5f8096c04691d02",
+      "btih": "72fa952070739a15cb3732813dc9efba8078d72f",
+      "mtime": "1666191974",
+      "size": "229388",
+      "md5": "eebbb105a1d76fa97f08fd3908e358da",
+      "crc32": "8945a1a7",
+      "sha1": "c0f392fcbce7f605c26816cda9fc69bf9d32cd27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uvaldenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aefae322a1e8ab23308fa9609e225ae7",
+      "md5": "70dbc192e3d649b66fb710603c6fbf07",
       "summation": "md5"
     },
     {
       "name": "uvaldenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666151127",
-      "size": "1363968",
-      "md5": "9b1ef50d6ebb90d6f43b6e34bc360ef4",
-      "crc32": "f035df78",
-      "sha1": "14a6244dfb06e76b2e12d31f5df35a926e12de2c",
+      "mtime": "1666191926",
+      "size": "1372160",
+      "md5": "67376a20a0e26c3513fad7790bd22be1",
+      "crc32": "1904ac54",
+      "sha1": "76443a6f489b21b88565a98912cd8b7596fd75d8",
       "format": "Metadata"
     },
     {
@@ -11095,9 +11157,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1072,
-  "item_last_updated": 1666151175,
-  "item_size": 65339739,
+  "files_count": 1078,
+  "item_last_updated": 1666191974,
+  "item_size": 65756417,
   "metadata": {
     "identifier": "uvaldenews-2022",
     "collection": [
@@ -11119,7 +11181,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445251034,
+      "task_id": 3445719756,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11127,7 +11189,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1865550404,
+  "uniq": 1059883812,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]
