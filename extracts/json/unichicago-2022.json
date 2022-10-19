@@ -1,5 +1,5 @@
 {
-  "created": 1666164597,
+  "created": 1666196315,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/unichicago-2022",
@@ -14457,31 +14457,93 @@
       "format": "JSON"
     },
     {
+      "name": "unichicago-2022-10-19T02:28:15.480462-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "unichicago-2022-10-19T02:28:15.480462-05:00.jpg",
+      "mtime": "1666185979",
+      "size": "10118",
+      "md5": "ca9b9f3c6ecc6de4d4d7eff98ac389b7",
+      "crc32": "27dbddbb",
+      "sha1": "986dae2de43f058364b5b1b37e6faa2e5933bcaa"
+    },
+    {
+      "name": "unichicago-2022-10-19T11:17:11.166424-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196243",
+      "size": "17541",
+      "md5": "c48c60a4ffd04f56f88cc8f1a68ca80c",
+      "crc32": "1b86e5af",
+      "sha1": "ea6df3ac9d5c7f08c8cde06a861e0f04bc0c9731",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-19T11:17:11.166424-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196245",
+      "size": "30679",
+      "md5": "d9075bf9d83ea39f20882a53115bb4b1",
+      "crc32": "30a695f0",
+      "sha1": "3fb3e5c846415d818596fcc46236df41cf2eff2c",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-19T11:17:11.166424-05:00.jpg",
+      "source": "original",
+      "mtime": "1666196242",
+      "size": "237762",
+      "md5": "209834c6e89b6927ae0e97053e7b0af5",
+      "crc32": "53f6a967",
+      "sha1": "2b8350fdf036ca2f1698a79ff448581f5d0b36ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "unichicago-2022-10-19T11:17:11.166424-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196247",
+      "size": "1648",
+      "md5": "9e7f0d64bd8a11a61d9036a930385204",
+      "crc32": "a41a6983",
+      "sha1": "5a12400b8b25754b0d1e51ec542984136094e0e3",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-19T11:17:11.166424-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196250",
+      "size": "87483",
+      "md5": "5fc6b86fb7e90f7122072fe8cfa94fc4",
+      "crc32": "551d8d75",
+      "sha1": "db506cac2c9660669284174ebf17dd94ae0ac495",
+      "format": "JSON"
+    },
+    {
       "name": "unichicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "399e72fb10d31caab8aeb70c87369c34b626c21c",
-      "mtime": "1666164584",
-      "size": "298007",
-      "md5": "55d553c061d75be0e121950d5d2eace4",
-      "crc32": "4ef3155d",
-      "sha1": "5bd9fee38e9f81b93c00746c15e9bd101a1b8d6a",
+      "btih": "eedc9f51e402a3446f4d3e90e6d81940a5a6ea2a",
+      "mtime": "1666196309",
+      "size": "299267",
+      "md5": "92215eb9a18a8a451d1fed30b5fba898",
+      "crc32": "9b948d7b",
+      "sha1": "a6f8cac6fbfc91cb3f1a7ee07e10bd48de46513e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "unichicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "95be5369eaebdebf56143e3aaff1fec0",
+      "md5": "77e09ea05a6c4bf77af1d69e51137f3a",
       "summation": "md5"
     },
     {
       "name": "unichicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666164521",
-      "size": "1781760",
-      "md5": "c1a674f66c0bd18833fa375c9d8f1008",
-      "crc32": "2fce17cc",
-      "sha1": "8d2e6b0973a7632d1883bd837dd8a84ac7782274",
+      "mtime": "1666196255",
+      "size": "1785856",
+      "md5": "0cb57e07c11b536c3cdd2ac84c178496",
+      "crc32": "e7038e23",
+      "sha1": "b138778223132989d67cc11b717b1034192b8f0c",
       "format": "Metadata"
     },
     {
@@ -14495,9 +14557,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1401,
-  "item_last_updated": 1666164584,
-  "item_size": 91079270,
+  "files_count": 1407,
+  "item_last_updated": 1666196309,
+  "item_size": 91469857,
   "metadata": {
     "identifier": "unichicago-2022",
     "collection": [
@@ -14519,7 +14581,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445401438,
+      "task_id": 3445764484,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14527,7 +14589,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1717104150,
+  "uniq": 1978347873,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]
