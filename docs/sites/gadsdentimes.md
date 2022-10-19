@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-19T01:03:44.192947-05:00.jpg">
+  <img src="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-19T01:03:44.192947-05:00.jpg"
+     alt="The Gadsden Times at 2022-10-19 01:03:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-19T01:03:44.192947-05:00.jpg">October 19 at 1:03 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-18T12:43:32.222621-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-13T13:51:32.522866-05:00.jpg">October 13 at 1:51 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-13T01:04:46.837174-05:00.jpg">
-  <img src="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-13T01:04:46.837174-05:00.jpg"
-     alt="The Gadsden Times at 2022-10-13 01:04:55-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-13T01:04:46.837174-05:00.jpg">October 13 at 1:04 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 57 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 1:03 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-19T01:03:44.192947-05:00.hyperlinks.json) |
 | [October 18 at 12:43 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-18T12:43:32.222621-05:00.hyperlinks.json) |
 | [October 18 at 1:01 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-18T01:01:14.668014-05:00.hyperlinks.json) |
 | [October 17 at 1:14 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-17T13:14:09.467992-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 1:08 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-15T13:08:53.684145-05:00.hyperlinks.json) |
 | [October 15 at 1:37 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-15T01:37:45.253064-05:00.hyperlinks.json) |
 | [October 14 at 2:50 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-14T14:50:30.827605-05:00.hyperlinks.json) |
-| [October 14 at 1:40 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-14T01:40:50.223527-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 57 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 1:03 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-19T01:03:44.192947-05:00.accessibility.json) |
 | [October 18 at 12:43 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-18T12:43:32.222621-05:00.accessibility.json) |
 | [October 18 at 1:01 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-18T01:01:14.668014-05:00.accessibility.json) |
 | [October 17 at 1:14 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-17T13:14:09.467992-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 1:08 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-15T13:08:53.684145-05:00.accessibility.json) |
 | [October 15 at 1:37 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-15T01:37:45.253064-05:00.accessibility.json) |
 | [October 14 at 2:50 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-14T14:50:30.827605-05:00.accessibility.json) |
-| [October 14 at 1:40 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-14T01:40:50.223527-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 1:03 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-19T01:03:44.192947-05:00.lighthouse.json) |
 | [October 18 at 12:43 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-18T12:43:32.222621-05:00.lighthouse.json) |
 | [October 18 at 1:01 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-18T01:01:14.668014-05:00.lighthouse.json) |
 | [October 17 at 1:14 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-17T13:14:09.467992-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 1:09 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-15T13:08:53.684145-05:00.lighthouse.json) |
 | [October 15 at 1:37 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-15T01:37:45.253064-05:00.lighthouse.json) |
 | [October 14 at 2:50 PM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-14T14:50:30.827605-05:00.lighthouse.json) |
-| [October 14 at 1:40 AM](https://archive.org/download/gadsdentimes-2022/gadsdentimes-2022-10-14T01:40:50.223527-05:00.lighthouse.json) |
 
 
 
