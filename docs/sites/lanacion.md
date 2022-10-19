@@ -437,7 +437,7 @@ Here are the 12 most recent screenshots.
 
 ### Hyperlinks
 
-The archiving routine has saved 141 hyperlink lists with the Internet Archive.
+The archiving routine has saved 142 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 9:59 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-19T09:59:53.907899-03:00.hyperlinks.json) |
 | [October 18 at 10:25 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-18T22:25:19.869677-03:00.hyperlinks.json) |
 | [October 18 at 10:01 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-18T10:00:54.248444-03:00.hyperlinks.json) |
 | [October 17 at 10:26 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-17T22:26:43.240600-03:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 10:37 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-15T22:37:13.074973-03:00.hyperlinks.json) |
 | [October 15 at 10:02 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-15T10:02:06.007700-03:00.hyperlinks.json) |
 | [October 14 at 10:21 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-14T22:21:17.742085-03:00.hyperlinks.json) |
-| [October 14 at 10:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-14T10:08:45.434381-03:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 142 accessibility trees with the Internet Archive.
+The archiving routine has saved 143 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 9:59 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-19T09:59:53.907899-03:00.accessibility.json) |
 | [October 18 at 10:25 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-18T22:25:19.869677-03:00.accessibility.json) |
 | [October 18 at 10:01 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-18T10:00:54.248444-03:00.accessibility.json) |
 | [October 17 at 10:26 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-17T22:26:43.240600-03:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 10:37 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-15T22:37:13.074973-03:00.accessibility.json) |
 | [October 15 at 10:02 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-15T10:02:06.007700-03:00.accessibility.json) |
 | [October 14 at 10:21 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-14T22:21:17.742085-03:00.accessibility.json) |
-| [October 14 at 10:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-14T10:08:45.434381-03:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 142 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 143 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 9:59 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-19T09:59:53.907899-03:00.lighthouse.json) |
 | [October 18 at 10:25 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-18T22:25:19.869677-03:00.lighthouse.json) |
 | [October 18 at 10:01 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-18T10:00:54.248444-03:00.lighthouse.json) |
 | [October 17 at 10:26 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-17T22:26:43.240600-03:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 10:37 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-15T22:37:13.074973-03:00.lighthouse.json) |
 | [October 15 at 10:02 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-15T10:02:06.007700-03:00.lighthouse.json) |
 | [October 14 at 10:21 PM](https://archive.org/download/lanacion-2022/lanacion-2022-10-14T22:21:17.742085-03:00.lighthouse.json) |
-| [October 14 at 10:08 AM](https://archive.org/download/lanacion-2022/lanacion-2022-10-14T10:08:45.434381-03:00.lighthouse.json) |
 
 
 

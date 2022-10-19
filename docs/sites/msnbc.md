@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 892 screenshots with the Internet Archive.
+The archiving routine has saved 894 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-19T08:53:24.730662-04:00.jpg">
+  <img src="https://archive.org/download/msnbc-2022/msnbc-2022-10-19T08:53:24.730662-04:00.jpg"
+     alt="MSNBC at 2022-10-19 08:53:26-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-19T08:53:24.730662-04:00.jpg">October 19 at 8:53 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-19T01:55:43.756688-04:00.jpg">
+  <img src="https://archive.org/download/msnbc-2022/msnbc-2022-10-19T01:55:43.756688-04:00.jpg"
+     alt="MSNBC at 2022-10-19 01:56:12-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-19T01:55:43.756688-04:00.jpg">October 19 at 1:56 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-18T17:24:31.299349-04:00.jpg">
   <img src="https://archive.org/download/msnbc-2022/msnbc-2022-10-18T17:24:31.299349-04:00.jpg"
      alt="MSNBC at 2022-10-18 17:24:32-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-17T02:17:13.176435-04:00.jpg">October 17 at 2:17 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-16T17:20:28.074164-04:00.jpg">
-  <img src="https://archive.org/download/msnbc-2022/msnbc-2022-10-16T17:20:28.074164-04:00.jpg"
-     alt="MSNBC at 2022-10-16 17:20:30-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-16T17:20:28.074164-04:00.jpg">October 16 at 5:20 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-16T15:29:17.611133-04:00.jpg">
-  <img src="https://archive.org/download/msnbc-2022/msnbc-2022-10-16T15:29:17.611133-04:00.jpg"
-     alt="MSNBC at 2022-10-16 15:29:19-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/msnbc-2022/msnbc-2022-10-16T15:29:17.611133-04:00.jpg">October 16 at 3:29 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 862 hyperlink lists with the Internet Archive.
+The archiving routine has saved 864 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 8:53 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-19T08:53:24.730662-04:00.hyperlinks.json) |
+| [October 19 at 1:56 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-19T01:55:43.756688-04:00.hyperlinks.json) |
 | [October 18 at 5:24 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-18T17:24:31.299349-04:00.hyperlinks.json) |
 | [October 18 at 3:57 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-18T15:57:24.279560-04:00.hyperlinks.json) |
 | [October 18 at 1:37 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-18T13:36:32.365729-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 17 at 5:20 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T17:20:40.986487-04:00.hyperlinks.json) |
 | [October 17 at 4:23 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T16:23:41.864484-04:00.hyperlinks.json) |
 | [October 17 at 2:05 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T14:04:46.335327-04:00.hyperlinks.json) |
-| [October 17 at 8:51 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T08:50:30.944933-04:00.hyperlinks.json) |
-| [October 17 at 2:17 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T02:17:13.176435-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 857 accessibility trees with the Internet Archive.
+The archiving routine has saved 859 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 8:53 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-19T08:53:24.730662-04:00.accessibility.json) |
+| [October 19 at 1:56 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-19T01:55:43.756688-04:00.accessibility.json) |
 | [October 18 at 5:24 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-18T17:24:31.299349-04:00.accessibility.json) |
 | [October 18 at 3:57 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-18T15:57:24.279560-04:00.accessibility.json) |
 | [October 18 at 1:37 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-18T13:36:32.365729-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 17 at 5:20 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T17:20:40.986487-04:00.accessibility.json) |
 | [October 17 at 4:23 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T16:23:41.864484-04:00.accessibility.json) |
 | [October 17 at 2:05 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T14:04:46.335327-04:00.accessibility.json) |
-| [October 17 at 8:51 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T08:50:30.944933-04:00.accessibility.json) |
-| [October 17 at 2:17 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T02:17:13.176435-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 423 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 425 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 8:53 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-19T08:53:24.730662-04:00.lighthouse.json) |
+| [October 19 at 1:56 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-19T01:55:43.756688-04:00.lighthouse.json) |
 | [October 18 at 5:24 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-18T17:24:31.299349-04:00.lighthouse.json) |
 | [October 18 at 3:57 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-18T15:57:24.279560-04:00.lighthouse.json) |
 | [October 18 at 1:37 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-18T13:36:32.365729-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 17 at 5:20 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T17:20:40.986487-04:00.lighthouse.json) |
 | [October 17 at 4:23 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T16:23:41.864484-04:00.lighthouse.json) |
 | [October 17 at 2:05 PM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T14:04:46.335327-04:00.lighthouse.json) |
-| [October 17 at 8:51 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T08:50:30.944933-04:00.lighthouse.json) |
-| [October 17 at 2:17 AM](https://archive.org/download/msnbc-2022/msnbc-2022-10-17T02:17:13.176435-04:00.lighthouse.json) |
 
 
 

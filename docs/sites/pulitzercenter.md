@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 205 screenshots with the Internet Archive.
+The archiving routine has saved 206 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 205 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-19T10:10:35.720902-04:00.jpg">
+  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-19T10:10:35.720902-04:00.jpg"
+     alt="Pulitzer Center at 2022-10-19 10:10:41-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-19T10:10:35.720902-04:00.jpg">October 19 at 10:10 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-18T22:38:54.434940-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-13T22:23:20.132029-04:00.jpg">October 13 at 10:23 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-13T10:14:08.568563-04:00.jpg">
-  <img src="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-13T10:14:08.568563-04:00.jpg"
-     alt="Pulitzer Center at 2022-10-13 10:14:12-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-13T10:14:08.568563-04:00.jpg">October 13 at 10:14 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 205 hyperlink lists with the Internet Archive.
+The archiving routine has saved 206 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 10:10 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-19T10:10:35.720902-04:00.hyperlinks.json) |
 | [October 18 at 10:39 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-18T22:38:54.434940-04:00.hyperlinks.json) |
 | [October 18 at 10:17 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-18T10:17:40.316644-04:00.hyperlinks.json) |
 | [October 17 at 10:24 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-17T22:24:42.634113-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 10:45 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-15T22:45:17.292143-04:00.hyperlinks.json) |
 | [October 15 at 11:05 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-15T11:05:44.024591-04:00.hyperlinks.json) |
 | [October 14 at 10:22 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-14T22:22:34.061483-04:00.hyperlinks.json) |
-| [October 14 at 10:21 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-14T10:21:38.435781-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 205 accessibility trees with the Internet Archive.
+The archiving routine has saved 206 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 10:10 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-19T10:10:35.720902-04:00.accessibility.json) |
 | [October 18 at 10:39 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-18T22:38:54.434940-04:00.accessibility.json) |
 | [October 18 at 10:17 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-18T10:17:40.316644-04:00.accessibility.json) |
 | [October 17 at 10:24 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-17T22:24:42.634113-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 10:45 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-15T22:45:17.292143-04:00.accessibility.json) |
 | [October 15 at 11:05 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-15T11:05:44.024591-04:00.accessibility.json) |
 | [October 14 at 10:22 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-14T22:22:34.061483-04:00.accessibility.json) |
-| [October 14 at 10:21 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-14T10:21:38.435781-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 175 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 176 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 10:10 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-19T10:10:35.720902-04:00.lighthouse.json) |
 | [October 18 at 10:39 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-18T22:38:54.434940-04:00.lighthouse.json) |
 | [October 18 at 10:17 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-18T10:17:40.316644-04:00.lighthouse.json) |
 | [October 17 at 10:24 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-17T22:24:42.634113-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 10:45 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-15T22:45:17.292143-04:00.lighthouse.json) |
 | [October 15 at 11:05 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-15T11:05:44.024591-04:00.lighthouse.json) |
 | [October 14 at 10:22 PM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-14T22:22:34.061483-04:00.lighthouse.json) |
-| [October 14 at 10:21 AM](https://archive.org/download/pulitzercenter-2022/pulitzercenter-2022-10-14T10:21:38.435781-04:00.lighthouse.json) |
 
 
 

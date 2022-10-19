@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 75 screenshots with the Internet Archive.
+The archiving routine has saved 76 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 75 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/kark4news-2022/kark4news-2022-10-19T07:58:10.880540-05:00.jpg">
+  <img src="https://archive.org/download/kark4news-2022/kark4news-2022-10-19T07:58:10.880540-05:00.jpg"
+     alt="KARK 4 News at 2022-10-19 07:58:12-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/kark4news-2022/kark4news-2022-10-19T07:58:10.880540-05:00.jpg">October 19 at 7:58 AM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/kark4news-2022/kark4news-2022-10-18T20:25:18.880974-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/kark4news-2022/kark4news-2022-10-13T20:20:14.057913-05:00.jpg">October 13 at 8:20 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/kark4news-2022/kark4news-2022-10-13T07:56:12.585912-05:00.jpg">
-  <img src="https://archive.org/download/kark4news-2022/kark4news-2022-10-13T07:56:12.585912-05:00.jpg"
-     alt="KARK 4 News at 2022-10-13 07:56:23-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/kark4news-2022/kark4news-2022-10-13T07:56:12.585912-05:00.jpg">October 13 at 7:56 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 75 hyperlink lists with the Internet Archive.
+The archiving routine has saved 76 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 7:58 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-19T07:58:10.880540-05:00.hyperlinks.json) |
 | [October 18 at 8:25 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-18T20:25:18.880974-05:00.hyperlinks.json) |
 | [October 18 at 7:59 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-18T07:59:49.064495-05:00.hyperlinks.json) |
 | [October 17 at 8:23 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-17T20:22:52.467412-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 8:37 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-15T20:37:11.504582-05:00.hyperlinks.json) |
 | [October 15 at 8:01 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-15T08:01:09.884631-05:00.hyperlinks.json) |
 | [October 14 at 8:19 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-14T20:19:24.213574-05:00.hyperlinks.json) |
-| [October 14 at 8:08 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-14T08:08:23.123677-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 74 accessibility trees with the Internet Archive.
+The archiving routine has saved 75 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 7:58 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-19T07:58:10.880540-05:00.accessibility.json) |
 | [October 18 at 8:25 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-18T20:25:18.880974-05:00.accessibility.json) |
 | [October 18 at 7:59 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-18T07:59:49.064495-05:00.accessibility.json) |
 | [October 17 at 8:23 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-17T20:22:52.467412-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 8:37 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-15T20:37:11.504582-05:00.accessibility.json) |
 | [October 15 at 8:01 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-15T08:01:09.884631-05:00.accessibility.json) |
 | [October 14 at 8:19 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-14T20:19:24.213574-05:00.accessibility.json) |
-| [October 14 at 8:08 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-14T08:08:23.123677-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 75 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 76 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 7:58 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-19T07:58:10.880540-05:00.lighthouse.json) |
 | [October 18 at 8:25 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-18T20:25:18.880974-05:00.lighthouse.json) |
 | [October 18 at 7:59 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-18T07:59:49.064495-05:00.lighthouse.json) |
 | [October 17 at 8:23 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-17T20:22:52.467412-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 8:37 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-15T20:37:11.504582-05:00.lighthouse.json) |
 | [October 15 at 8:01 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-15T08:01:09.884631-05:00.lighthouse.json) |
 | [October 14 at 8:19 PM](https://archive.org/download/kark4news-2022/kark4news-2022-10-14T20:19:24.213574-05:00.lighthouse.json) |
-| [October 14 at 8:08 AM](https://archive.org/download/kark4news-2022/kark4news-2022-10-14T08:08:23.123677-05:00.lighthouse.json) |
 
 
 
