@@ -13,7 +13,6 @@ import iso3166
 import pandas as pd
 import pytz
 import tldextract
-
 from playwright.sync_api._generated import BrowserContext
 
 # Set paths for key files
@@ -387,7 +386,7 @@ def get_screenshots_by_site(site: typing.Dict) -> typing.List[typing.Dict]:
     return sorted_list
 
 
-def get_javascript(handle: str) -> typing.Optional[str]:
+def get_javascript(handle: typing.Optional[str]) -> typing.Optional[str]:
     """Get the JavaScript file to run before the screenshot, if it exists.
 
     Args:
@@ -395,6 +394,9 @@ def get_javascript(handle: str) -> typing.Optional[str]:
 
     Returns a JavaScript string ready to be run. Or None, if no file exists.
     """
+    if handle is None:
+        raise ValueError("Please supply non-None `handle`.")
+
     javascript_path = SOURCES_PATH / "javascript" / f"{handle.lower()}.js"
     if javascript_path.exists():
         with open(javascript_path) as fh:
@@ -470,10 +472,10 @@ def intcomma(value):
         return intcomma(new)
 
 
-def _load_persistent_context(p_handle: BrowserContext, width: int = 1300, height: int = 1600):
-    """
-    Loads the browser with a persistent context nad with a set of common ad-blocking extensions.
-    """
+def _load_persistent_context(
+    p_handle: BrowserContext, width: int = 1300, height: int = 1600
+):
+    """Load the browser with a persistent context nad with a set of common ad-blocking extensions."""
     # Boot up the browser with the ad blocker plugin installed
     data_dir = tempfile.mkdtemp()
     print(f"Temporary data directory created at {data_dir}")
@@ -515,9 +517,7 @@ def _load_persistent_context(p_handle: BrowserContext, width: int = 1300, height
 
 
 def _get_common_blocking_javascript():
-    """
-    Compiles a set of commands into an executable javascript script to block common pop-ups, banners, etc.
-    """
+    """Compiles a set of commands into an executable javascript script to block common pop-ups, banners, etc."""
     # Run common JavaScript for all sites
     target_list = [
         ".tp-modal",  # Common popover ad
@@ -587,8 +587,10 @@ def _get_common_blocking_javascript():
     return javascript
 
 
-def _load_new_page_disable_javascript(context: BrowserContext, url: str, wait_seconds: int = 5, handle: str = None):
-    """Loads the page with javascript blocking."""
+def _load_new_page_disable_javascript(
+    context: BrowserContext, url: str, wait_seconds: int = 5, handle: str = None
+):
+    """Load the page with javascript blocking."""
     # Create an empty tab
     page = context.new_page()
     # Open the page
@@ -609,8 +611,8 @@ def _load_new_page_disable_javascript(context: BrowserContext, url: str, wait_se
         print("Executing custom JavaScript")
         try:
             page.evaluate(custom_javascript)
-        except Error as error:
-            raise click.ClickException(error.message)
+        except Exception as e:
+            raise click.ClickException(str(e))
 
     # Hide the scrollbars
     print("Hiding scrollbars with CSS")

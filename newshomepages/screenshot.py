@@ -6,10 +6,7 @@ from playwright.sync_api import sync_playwright
 from retry import retry
 from rich import print
 
-try:
-    from . import utils
-except:
-    import utils
+from . import utils
 
 
 @click.command()
@@ -18,17 +15,32 @@ except:
 @click.option("-w", "--wait", "wait", default=5000)
 @click.option("-x", "--width", "width", default=1300)
 @click.option("-y", "--height", "height", default=1600)
-@click.option("-f", "--screenshot_full_page", is_flag=True, default=False, help="Screenshot the whole page or just a part of it.")
-def cli(handle: str, output_dir: str, wait: str, width: str, height: str, screenshot_full_page: bool):
+@click.option(
+    "-f",
+    "--screenshot_full_page",
+    is_flag=True,
+    default=False,
+    help="Screenshot the whole page or just a part of it.",
+)
+def cli(
+    handle: str,
+    output_dir: str,
+    wait: str,
+    width: str,
+    height: str,
+    screenshot_full_page: bool,
+):
     """Screenshot the provided homepage."""
     site = utils.get_site(handle)
     output_path = Path(output_dir)
-    _screenshot(site, output_path,
-                wait=int(wait),
-                width=int(width),
-                height=int(height),
-                screenshot_full_page=bool(screenshot_full_page),
-                )
+    _screenshot(
+        site,
+        output_path,
+        wait=int(wait),
+        width=int(width),
+        height=int(height),
+        screenshot_full_page=bool(screenshot_full_page),
+    )
 
 
 @retry(tries=3, delay=5, backoff=2)
@@ -50,9 +62,9 @@ def _screenshot(
         context = utils._load_persistent_context(playwright, width, height)
         page = utils._load_new_page_disable_javascript(
             context=context,
-            url=site['url'],
-            wait_seconds=int(site["wait"] or wait) / 1000,
-            handle=site["handle"]
+            url=site["url"],
+            wait_seconds=int((site["wait"] or wait) / 1000),
+            handle=site["handle"],
         )
 
         # Take the screenshot
