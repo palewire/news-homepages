@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 216 screenshots with the Internet Archive.
+The archiving routine has saved 218 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-18T21:35:31.178478-07:00.jpg">
+  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-10-18T21:35:31.178478-07:00.jpg"
+     alt="Arizona Republic at 2022-10-18 21:35:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-18T21:35:31.178478-07:00.jpg">October 18 at 9:35 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-18T09:18:05.396386-07:00.jpg">
+  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-10-18T09:18:05.396386-07:00.jpg"
+     alt="Arizona Republic at 2022-10-18 09:18:14-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-18T09:18:05.396386-07:00.jpg">October 18 at 9:18 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-17T21:37:04.971226-07:00.jpg">
   <img src="https://archive.org/download/azcentral-2022/azcentral-2022-10-17T21:37:04.971226-07:00.jpg"
      alt="Arizona Republic at 2022-10-17 21:37:23-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-13T09:06:11.790696-07:00.jpg">October 13 at 9:06 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-12T21:34:51.304049-07:00.jpg">
-  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-10-12T21:34:51.304049-07:00.jpg"
-     alt="Arizona Republic at 2022-10-12 21:34:59-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-12T21:34:51.304049-07:00.jpg">October 12 at 9:34 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-12T08:57:49.749822-07:00.jpg">
-  <img src="https://archive.org/download/azcentral-2022/azcentral-2022-10-12T08:57:49.749822-07:00.jpg"
-     alt="Arizona Republic at 2022-10-12 08:57:58-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/azcentral-2022/azcentral-2022-10-12T08:57:49.749822-07:00.jpg">October 12 at 8:57 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 214 hyperlink lists with the Internet Archive.
+The archiving routine has saved 216 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 9:35 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-18T21:35:31.178478-07:00.hyperlinks.json) |
+| [October 18 at 9:18 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-18T09:18:05.396386-07:00.hyperlinks.json) |
 | [October 17 at 9:37 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-17T21:37:04.971226-07:00.hyperlinks.json) |
 | [October 17 at 9:19 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-17T09:19:17.382712-07:00.hyperlinks.json) |
 | [October 16 at 10:29 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-16T22:29:03.175505-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 9:18 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-15T09:18:20.878267-07:00.hyperlinks.json) |
 | [October 14 at 11:16 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-14T23:16:05.996912-07:00.hyperlinks.json) |
 | [October 14 at 9:36 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-14T09:36:29.930887-07:00.hyperlinks.json) |
-| [October 13 at 11:18 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-13T23:18:24.885267-07:00.hyperlinks.json) |
-| [October 13 at 9:06 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-13T09:06:11.790696-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 214 accessibility trees with the Internet Archive.
+The archiving routine has saved 216 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 9:35 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-18T21:35:31.178478-07:00.accessibility.json) |
+| [October 18 at 9:18 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-18T09:18:05.396386-07:00.accessibility.json) |
 | [October 17 at 9:37 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-17T21:37:04.971226-07:00.accessibility.json) |
 | [October 17 at 9:19 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-17T09:19:17.382712-07:00.accessibility.json) |
 | [October 16 at 10:29 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-16T22:29:03.175505-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 9:18 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-15T09:18:20.878267-07:00.accessibility.json) |
 | [October 14 at 11:16 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-14T23:16:05.996912-07:00.accessibility.json) |
 | [October 14 at 9:36 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-14T09:36:29.930887-07:00.accessibility.json) |
-| [October 13 at 11:18 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-13T23:18:24.885267-07:00.accessibility.json) |
-| [October 13 at 9:06 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-13T09:06:11.790696-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 177 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 179 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 9:35 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-18T21:35:31.178478-07:00.lighthouse.json) |
+| [October 18 at 9:18 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-18T09:18:05.396386-07:00.lighthouse.json) |
 | [October 17 at 9:37 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-17T21:37:04.971226-07:00.lighthouse.json) |
 | [October 17 at 9:19 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-17T09:19:17.382712-07:00.lighthouse.json) |
 | [October 16 at 10:29 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-16T22:29:03.175505-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 9:18 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-15T09:18:20.878267-07:00.lighthouse.json) |
 | [October 14 at 11:16 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-14T23:16:05.996912-07:00.lighthouse.json) |
 | [October 14 at 9:36 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-14T09:36:29.930887-07:00.lighthouse.json) |
-| [October 13 at 11:19 PM](https://archive.org/download/azcentral-2022/azcentral-2022-10-13T23:18:24.885267-07:00.lighthouse.json) |
-| [October 13 at 9:06 AM](https://archive.org/download/azcentral-2022/azcentral-2022-10-13T09:06:11.790696-07:00.lighthouse.json) |
 
 
 

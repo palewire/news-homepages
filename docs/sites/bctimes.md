@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-19T00:37:15.119535-04:00.jpg">
+  <img src="https://archive.org/download/bctimes-2022/bctimes-2022-10-19T00:37:15.119535-04:00.jpg"
+     alt="The Beaver County Times at 2022-10-19 00:37:16-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-19T00:37:15.119535-04:00.jpg">October 19 at 12:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-18T12:18:08.301808-04:00.jpg">
+  <img src="https://archive.org/download/bctimes-2022/bctimes-2022-10-18T12:18:08.301808-04:00.jpg"
+     alt="The Beaver County Times at 2022-10-18 12:18:14-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-18T12:18:08.301808-04:00.jpg">October 18 at 12:18 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-18T00:40:12.928561-04:00.jpg">
   <img src="https://archive.org/download/bctimes-2022/bctimes-2022-10-18T00:40:12.928561-04:00.jpg"
      alt="The Beaver County Times at 2022-10-18 00:40:16-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-13T12:10:33.018160-04:00.jpg">October 13 at 12:10 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-13T00:36:53.546616-04:00.jpg">
-  <img src="https://archive.org/download/bctimes-2022/bctimes-2022-10-13T00:36:53.546616-04:00.jpg"
-     alt="The Beaver County Times at 2022-10-13 00:36:55-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-13T00:36:53.546616-04:00.jpg">October 13 at 12:36 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-12T11:59:23.968868-04:00.jpg">
-  <img src="https://archive.org/download/bctimes-2022/bctimes-2022-10-12T11:59:23.968868-04:00.jpg"
-     alt="The Beaver County Times at 2022-10-12 11:59:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/bctimes-2022/bctimes-2022-10-12T11:59:23.968868-04:00.jpg">October 12 at 11:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 12:37 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-19T00:37:15.119535-04:00.hyperlinks.json) |
+| [October 18 at 12:18 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-18T12:18:08.301808-04:00.hyperlinks.json) |
 | [October 18 at 12:40 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-18T00:40:12.928561-04:00.hyperlinks.json) |
 | [October 17 at 12:21 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-17T12:21:38.232732-04:00.hyperlinks.json) |
 | [October 17 at 1:29 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-17T01:29:30.566286-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 12:18 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-15T12:18:03.589552-04:00.hyperlinks.json) |
 | [October 15 at 2:17 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-15T02:16:57.158648-04:00.hyperlinks.json) |
 | [October 14 at 12:36 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-14T12:36:02.548725-04:00.hyperlinks.json) |
-| [October 14 at 2:18 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-14T02:18:37.263980-04:00.hyperlinks.json) |
-| [October 13 at 12:10 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-13T12:10:33.018160-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 12:37 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-19T00:37:15.119535-04:00.accessibility.json) |
+| [October 18 at 12:18 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-18T12:18:08.301808-04:00.accessibility.json) |
 | [October 18 at 12:40 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-18T00:40:12.928561-04:00.accessibility.json) |
 | [October 17 at 12:21 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-17T12:21:38.232732-04:00.accessibility.json) |
 | [October 17 at 1:29 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-17T01:29:30.566286-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 12:18 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-15T12:18:03.589552-04:00.accessibility.json) |
 | [October 15 at 2:17 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-15T02:16:57.158648-04:00.accessibility.json) |
 | [October 14 at 12:36 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-14T12:36:02.548725-04:00.accessibility.json) |
-| [October 14 at 2:18 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-14T02:18:37.263980-04:00.accessibility.json) |
-| [October 13 at 12:10 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-13T12:10:33.018160-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 54 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 56 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 12:37 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-19T00:37:15.119535-04:00.lighthouse.json) |
+| [October 18 at 12:18 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-18T12:18:08.301808-04:00.lighthouse.json) |
 | [October 18 at 12:40 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-18T00:40:12.928561-04:00.lighthouse.json) |
 | [October 17 at 12:21 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-17T12:21:38.232732-04:00.lighthouse.json) |
 | [October 17 at 1:29 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-17T01:29:30.566286-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 12:18 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-15T12:18:03.589552-04:00.lighthouse.json) |
 | [October 15 at 2:17 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-15T02:16:57.158648-04:00.lighthouse.json) |
 | [October 14 at 12:36 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-14T12:36:02.548725-04:00.lighthouse.json) |
-| [October 14 at 2:18 AM](https://archive.org/download/bctimes-2022/bctimes-2022-10-14T02:18:37.263980-04:00.lighthouse.json) |
-| [October 13 at 12:10 PM](https://archive.org/download/bctimes-2022/bctimes-2022-10-13T12:10:33.018160-04:00.lighthouse.json) |
 
 
 

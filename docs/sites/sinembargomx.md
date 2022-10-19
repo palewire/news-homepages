@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 126 screenshots with the Internet Archive.
+The archiving routine has saved 127 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 126 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-18T22:40:37.773458-05:00.jpg">
+  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-18T22:40:37.773458-05:00.jpg"
+     alt="SinEmbargo at 2022-10-18 22:40:44-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-18T22:40:37.773458-05:00.jpg">October 18 at 10:40 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-18T10:11:11.349662-05:00.jpg">
@@ -422,15 +431,6 @@ Here are the 12 most recent screenshots.
      loading="lazy">
  </a>
  <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-13T10:06:27.385547-05:00.jpg">October 13 at 10:06 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-12T22:38:33.292512-05:00.jpg">
-  <img src="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-12T22:38:33.292512-05:00.jpg"
-     alt="SinEmbargo at 2022-10-12 22:38:37-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-12T22:38:33.292512-05:00.jpg">October 12 at 10:38 PM</a></p>
 </div>
 
 </div>
@@ -542,7 +542,7 @@ Here are the 10 most recent hyperlink lists.
 
 ### Accessibility
 
-The archiving routine has saved 126 accessibility trees with the Internet Archive.
+The archiving routine has saved 127 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 10:40 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-18T22:40:37.773458-05:00.accessibility.json) |
 | [October 18 at 10:11 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-18T10:11:11.349662-05:00.accessibility.json) |
 | [October 17 at 10:38 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-17T22:38:43.630491-05:00.accessibility.json) |
 | [October 17 at 10:00 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-17T10:00:35.623324-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 10:09 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-15T10:09:00.112272-05:00.accessibility.json) |
 | [October 14 at 10:50 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-14T22:50:50.768060-05:00.accessibility.json) |
 | [October 14 at 11:19 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-14T11:19:08.708762-05:00.accessibility.json) |
-| [October 13 at 10:49 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-13T22:49:47.277791-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 120 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 121 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 10:40 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-18T22:40:37.773458-05:00.lighthouse.json) |
 | [October 18 at 10:11 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-18T10:11:11.349662-05:00.lighthouse.json) |
 | [October 17 at 10:38 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-17T22:38:43.630491-05:00.lighthouse.json) |
 | [October 17 at 10:00 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-17T10:00:35.623324-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 10:09 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-15T10:09:00.112272-05:00.lighthouse.json) |
 | [October 14 at 10:51 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-14T22:50:50.768060-05:00.lighthouse.json) |
 | [October 11 at 10:10 AM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-11T10:10:16.455828-05:00.lighthouse.json) |
-| [October 10 at 10:52 PM](https://archive.org/download/sinembargomx-2022/sinembargomx-2022-10-10T22:51:51.943445-05:00.lighthouse.json) |
 
 
 

@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 200 screenshots with the Internet Archive.
+The archiving routine has saved 202 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-19T00:37:10.546669-04:00.jpg">
+  <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-19T00:37:10.546669-04:00.jpg"
+     alt="Belt Magazine at 2022-10-19 00:37:19-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-19T00:37:10.546669-04:00.jpg">October 19 at 12:37 AM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T12:18:23.363790-04:00.jpg">
+  <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T12:18:23.363790-04:00.jpg"
+     alt="Belt Magazine at 2022-10-18 12:18:24-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T12:18:23.363790-04:00.jpg">October 18 at 12:18 PM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T00:39:27.914379-04:00.jpg">
   <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T00:39:27.914379-04:00.jpg"
      alt="Belt Magazine at 2022-10-18 00:39:34-04:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-13T12:09:31.193743-04:00.jpg">October 13 at 12:09 PM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-13T00:37:06.515344-04:00.jpg">
-  <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-13T00:37:06.515344-04:00.jpg"
-     alt="Belt Magazine at 2022-10-13 00:37:08-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-13T00:37:06.515344-04:00.jpg">October 13 at 12:37 AM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-12T11:59:19.714328-04:00.jpg">
-  <img src="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-12T11:59:19.714328-04:00.jpg"
-     alt="Belt Magazine at 2022-10-12 11:59:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-12T11:59:19.714328-04:00.jpg">October 12 at 11:59 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 204 hyperlink lists with the Internet Archive.
+The archiving routine has saved 206 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 19 at 12:37 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-19T00:37:10.546669-04:00.hyperlinks.json) |
+| [October 18 at 12:18 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T12:18:23.363790-04:00.hyperlinks.json) |
 | [October 18 at 12:39 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T00:39:27.914379-04:00.hyperlinks.json) |
 | [October 17 at 12:22 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-17T12:22:00.479131-04:00.hyperlinks.json) |
 | [October 17 at 1:29 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-17T01:29:31.354846-04:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 12:18 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-15T12:18:14.800993-04:00.hyperlinks.json) |
 | [October 15 at 2:15 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-15T02:15:23.449247-04:00.hyperlinks.json) |
 | [October 14 at 12:37 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-14T12:36:27.695627-04:00.hyperlinks.json) |
-| [October 14 at 2:19 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-14T02:18:28.364705-04:00.hyperlinks.json) |
-| [October 13 at 12:09 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-13T12:09:31.193743-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 203 accessibility trees with the Internet Archive.
+The archiving routine has saved 205 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 19 at 12:37 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-19T00:37:10.546669-04:00.accessibility.json) |
+| [October 18 at 12:18 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T12:18:23.363790-04:00.accessibility.json) |
 | [October 18 at 12:39 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T00:39:27.914379-04:00.accessibility.json) |
 | [October 17 at 12:22 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-17T12:22:00.479131-04:00.accessibility.json) |
 | [October 17 at 1:29 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-17T01:29:31.354846-04:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 12:18 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-15T12:18:14.800993-04:00.accessibility.json) |
 | [October 15 at 2:15 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-15T02:15:23.449247-04:00.accessibility.json) |
 | [October 14 at 12:36 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-14T12:36:27.695627-04:00.accessibility.json) |
-| [October 14 at 2:18 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-14T02:18:28.364705-04:00.accessibility.json) |
-| [October 13 at 12:09 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-13T12:09:31.193743-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 174 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 176 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 19 at 12:37 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-19T00:37:10.546669-04:00.lighthouse.json) |
+| [October 18 at 12:18 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T12:18:23.363790-04:00.lighthouse.json) |
 | [October 18 at 12:39 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-18T00:39:27.914379-04:00.lighthouse.json) |
 | [October 17 at 12:22 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-17T12:22:00.479131-04:00.lighthouse.json) |
 | [October 17 at 1:29 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-17T01:29:31.354846-04:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 12:18 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-15T12:18:14.800993-04:00.lighthouse.json) |
 | [October 15 at 2:15 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-15T02:15:23.449247-04:00.lighthouse.json) |
 | [October 14 at 12:37 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-14T12:36:27.695627-04:00.lighthouse.json) |
-| [October 14 at 2:19 AM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-14T02:18:28.364705-04:00.lighthouse.json) |
-| [October 13 at 12:09 PM](https://archive.org/download/belt_magazine-2022/belt_magazine-2022-10-13T12:09:31.193743-04:00.lighthouse.json) |
 
 
 

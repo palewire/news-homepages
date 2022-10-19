@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 347 screenshots with the Internet Archive.
+The archiving routine has saved 348 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 347 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/suntimes-2022/suntimes-2022-10-18T22:40:54.818475-05:00.jpg">
+  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-10-18T22:40:54.818475-05:00.jpg"
+     alt="Chicago Sun-Times at 2022-10-18 22:41:15-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-10-18T22:40:54.818475-05:00.jpg">October 18 at 10:41 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/suntimes-2022/suntimes-2022-10-18T11:12:13.457554-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-10-15T10:09:05.870195-05:00.jpg">October 15 at 10:09 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/suntimes-2022/suntimes-2022-10-14T22:50:46.037878-05:00.jpg">
-  <img src="https://archive.org/download/suntimes-2022/suntimes-2022-10-14T22:50:46.037878-05:00.jpg"
-     alt="Chicago Sun-Times at 2022-10-14 22:50:58-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/suntimes-2022/suntimes-2022-10-14T22:50:46.037878-05:00.jpg">October 14 at 10:50 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 347 hyperlink lists with the Internet Archive.
+The archiving routine has saved 348 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 10:41 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-18T22:40:54.818475-05:00.hyperlinks.json) |
 | [October 18 at 11:12 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-18T11:12:13.457554-05:00.hyperlinks.json) |
 | [October 18 at 10:11 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-18T10:11:16.317558-05:00.hyperlinks.json) |
 | [October 17 at 10:39 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-17T22:39:01.627109-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 16 at 11:05 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-16T11:05:08.343590-05:00.hyperlinks.json) |
 | [October 16 at 10:02 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-16T10:02:32.458933-05:00.hyperlinks.json) |
 | [October 15 at 10:52 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-15T22:52:02.382392-05:00.hyperlinks.json) |
-| [October 15 at 12:07 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-15T12:06:46.432639-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 351 accessibility trees with the Internet Archive.
+The archiving routine has saved 352 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 10:41 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-18T22:40:54.818475-05:00.accessibility.json) |
 | [October 18 at 11:12 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-18T11:12:13.457554-05:00.accessibility.json) |
 | [October 18 at 10:11 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-18T10:11:16.317558-05:00.accessibility.json) |
 | [October 17 at 10:39 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-17T22:39:01.627109-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 16 at 11:05 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-16T11:05:08.343590-05:00.accessibility.json) |
 | [October 16 at 10:02 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-16T10:02:32.458933-05:00.accessibility.json) |
 | [October 15 at 10:52 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-15T22:52:02.382392-05:00.accessibility.json) |
-| [October 15 at 12:06 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-15T12:06:46.432639-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 258 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 259 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 10:41 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-18T22:40:54.818475-05:00.lighthouse.json) |
 | [October 18 at 11:12 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-18T11:12:13.457554-05:00.lighthouse.json) |
 | [October 18 at 10:11 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-18T10:11:16.317558-05:00.lighthouse.json) |
 | [October 17 at 10:39 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-17T22:39:01.627109-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 16 at 11:05 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-16T11:05:08.343590-05:00.lighthouse.json) |
 | [October 16 at 10:02 AM](https://archive.org/download/suntimes-2022/suntimes-2022-10-16T10:02:32.458933-05:00.lighthouse.json) |
 | [October 15 at 10:52 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-15T22:52:02.382392-05:00.lighthouse.json) |
-| [October 15 at 12:07 PM](https://archive.org/download/suntimes-2022/suntimes-2022-10-15T12:06:46.432639-05:00.lighthouse.json) |
 
 
 

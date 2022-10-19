@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 55 screenshots with the Internet Archive.
+The archiving routine has saved 57 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -326,6 +326,24 @@ Here are the 12 most recent screenshots.
 <div class="latest-parent">
 
 <div class="latest-child">
+ <a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T21:40:36.222320-07:00.jpg">
+  <img src="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T21:40:36.222320-07:00.jpg"
+     alt="Victorville Daily Press at 2022-10-18 21:40:38-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T21:40:36.222320-07:00.jpg">October 18 at 9:40 PM</a></p>
+</div>
+
+<div class="latest-child">
+ <a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T09:21:15.091534-07:00.jpg">
+  <img src="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T09:21:15.091534-07:00.jpg"
+     alt="Victorville Daily Press at 2022-10-18 09:21:22-07:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T09:21:15.091534-07:00.jpg">October 18 at 9:21 AM</a></p>
+</div>
+
+<div class="latest-child">
  <a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-17T21:41:39.638743-07:00.jpg">
   <img src="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-17T21:41:39.638743-07:00.jpg"
      alt="Victorville Daily Press at 2022-10-17 21:41:41-07:00 local time"
@@ -415,29 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-13T09:12:40.121541-07:00.jpg">October 13 at 9:12 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-12T21:38:45.204978-07:00.jpg">
-  <img src="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-12T21:38:45.204978-07:00.jpg"
-     alt="Victorville Daily Press at 2022-10-12 21:38:48-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-12T21:38:45.204978-07:00.jpg">October 12 at 9:38 PM</a></p>
-</div>
-
-<div class="latest-child">
- <a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-12T09:00:42.929342-07:00.jpg">
-  <img src="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-12T09:00:42.929342-07:00.jpg"
-     alt="Victorville Daily Press at 2022-10-12 09:00:46-07:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-12T09:00:42.929342-07:00.jpg">October 12 at 9:00 AM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 55 hyperlink lists with the Internet Archive.
+The archiving routine has saved 57 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,8 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 9:40 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T21:40:36.222320-07:00.hyperlinks.json) |
+| [October 18 at 9:21 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T09:21:15.091534-07:00.hyperlinks.json) |
 | [October 17 at 9:41 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-17T21:41:39.638743-07:00.hyperlinks.json) |
 | [October 17 at 9:25 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-17T09:25:23.030027-07:00.hyperlinks.json) |
 | [October 16 at 10:31 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-16T22:31:46.516398-07:00.hyperlinks.json) |
@@ -536,13 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 9:23 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-15T09:23:29.524851-07:00.hyperlinks.json) |
 | [October 14 at 11:19 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-14T23:19:28.186883-07:00.hyperlinks.json) |
 | [October 14 at 9:40 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-14T09:39:52.683685-07:00.hyperlinks.json) |
-| [October 13 at 11:21 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-13T23:21:33.573544-07:00.hyperlinks.json) |
-| [October 13 at 9:12 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-13T09:12:40.121541-07:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 55 accessibility trees with the Internet Archive.
+The archiving routine has saved 57 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,8 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 9:40 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T21:40:36.222320-07:00.accessibility.json) |
+| [October 18 at 9:21 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T09:21:15.091534-07:00.accessibility.json) |
 | [October 17 at 9:41 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-17T21:41:39.638743-07:00.accessibility.json) |
 | [October 17 at 9:25 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-17T09:25:23.030027-07:00.accessibility.json) |
 | [October 16 at 10:31 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-16T22:31:46.516398-07:00.accessibility.json) |
@@ -641,14 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 9:23 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-15T09:23:29.524851-07:00.accessibility.json) |
 | [October 14 at 11:19 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-14T23:19:28.186883-07:00.accessibility.json) |
 | [October 14 at 9:39 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-14T09:39:52.683685-07:00.accessibility.json) |
-| [October 13 at 11:21 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-13T23:21:33.573544-07:00.accessibility.json) |
-| [October 13 at 9:12 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-13T09:12:40.121541-07:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 55 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,8 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 9:40 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T21:40:36.222320-07:00.lighthouse.json) |
+| [October 18 at 9:21 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-18T09:21:15.091534-07:00.lighthouse.json) |
 | [October 17 at 9:41 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-17T21:41:39.638743-07:00.lighthouse.json) |
 | [October 17 at 9:25 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-17T09:25:23.030027-07:00.lighthouse.json) |
 | [October 16 at 10:31 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-16T22:31:46.516398-07:00.lighthouse.json) |
@@ -747,8 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 9:23 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-15T09:23:29.524851-07:00.lighthouse.json) |
 | [October 14 at 11:19 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-14T23:19:28.186883-07:00.lighthouse.json) |
 | [October 14 at 9:40 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-14T09:39:52.683685-07:00.lighthouse.json) |
-| [October 13 at 11:21 PM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-13T23:21:33.573544-07:00.lighthouse.json) |
-| [October 13 at 9:12 AM](https://archive.org/download/vvdailypress-2022/vvdailypress-2022-10-13T09:12:40.121541-07:00.lighthouse.json) |
 
 
 
