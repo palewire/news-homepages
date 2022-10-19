@@ -1,5 +1,6 @@
 {
-  "created": 1666184113,
+  "conflict": 1666189039,
+  "created": 1666189039,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/newshour-2022",
@@ -26081,6 +26082,17 @@
       "format": "JSON"
     },
     {
+      "name": "newshour-2022-10-19T08:53:34.927347-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newshour-2022-10-19T08:53:34.927347-04:00.jpg",
+      "mtime": "1666188998",
+      "size": "10647",
+      "md5": "2c88080e36857ddc69c764c68bf55950",
+      "crc32": "09123730",
+      "sha1": "43003c335a0ba45240eadca4e196ca30a193cd13"
+    },
+    {
       "name": "newshour-2022_archive.torrent",
       "source": "metadata",
       "btih": "a65bb62a6de1c1e91e111e380462fd2ff9de0677",
@@ -26095,7 +26107,7 @@
       "name": "newshour-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "597e0e9b9de0736c7dd2efef77e8ddaa",
+      "md5": "0c51c426f9e34dc7aad9d76fa08d2951",
       "summation": "md5"
     },
     {
@@ -26119,9 +26131,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2518,
-  "item_last_updated": 1666184107,
-  "item_size": 193606062,
+  "files_count": 2519,
+  "item_last_updated": 1666188998,
+  "item_size": 193616709,
   "metadata": {
     "identifier": "newshour-2022",
     "collection": [
@@ -26146,12 +26158,52 @@
       "task_id": 3445630867,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445681773,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445681812,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445681846,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445681878,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3445688958,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1628492249,
+  "uniq": 639508280,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666147255,
+  "created": 1666188888,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/6/items/sahanjournal-2022",
@@ -18325,31 +18325,93 @@
       "format": "JSON"
     },
     {
+      "name": "sahanjournal-2022-10-18T21:39:29.869738-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-10-18T21:39:29.869738-05:00.jpg",
+      "mtime": "1666169008",
+      "size": "11617",
+      "md5": "cc65aa0d59039362f04bd06897fec035",
+      "crc32": "71574cba",
+      "sha1": "4793606bbb4d118d5b76e69d1f0fdc6388caaf06"
+    },
+    {
+      "name": "sahanjournal-2022-10-19T09:13:21.919680-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666188806",
+      "size": "31237",
+      "md5": "b9e7cf35366f7e87ef82dd95a89b272d",
+      "crc32": "d9049ca4",
+      "sha1": "1fb5c4f403c8c0a870bd0a2471805b8a2f7119da",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-10-19T09:13:21.919680-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666188807",
+      "size": "33951",
+      "md5": "3b13751c979e50e4af200650e3edbe5b",
+      "crc32": "fdf83ddb",
+      "sha1": "63f70e8ab8ac341b880cb498192a615fd42f1249",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-10-19T09:13:21.919680-05:00.jpg",
+      "source": "original",
+      "mtime": "1666188804",
+      "size": "331212",
+      "md5": "a05c3e441fb68d7e92d6e882a4672f2d",
+      "crc32": "2e7ce71b",
+      "sha1": "f8d4b1eb161093423256b87292d82c378c721f27",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-10-19T09:13:21.919680-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666188809",
+      "size": "1476",
+      "md5": "571379db2d113555ada4fafa30b3b559",
+      "crc32": "71a80f05",
+      "sha1": "cabf872ebeb6970e58c5b9fca95a4ad4c6056f5a",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-10-19T09:13:21.919680-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666188811",
+      "size": "30091",
+      "md5": "e3b3c4b24ee460dac0123136970b1deb",
+      "crc32": "2cd9c456",
+      "sha1": "1b60ce43fd5ec239e872b1b8db33ffed62088000",
+      "format": "JSON"
+    },
+    {
       "name": "sahanjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e49c58122327ac8a8cfc817bf743ddf2569ea656",
-      "mtime": "1666147245",
-      "size": "379105",
-      "md5": "9fc3950a985aeab8a4d15f0e52e7e242",
-      "crc32": "9280b1e0",
-      "sha1": "e9228f697474f396c775418a70df647da5436420",
+      "btih": "de6b6e3c02ae4c237bae82e63b5b220627a7e31c",
+      "mtime": "1666188880",
+      "size": "380397",
+      "md5": "40e74da66ec0bfcd923e385ae8fd279a",
+      "crc32": "ebfc77b6",
+      "sha1": "66ea4eba06f685ee7156cf7a663eacfc9b954c88",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sahanjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "20e8db59ab661bcf39dffadd58bcef6e",
+      "md5": "e74a7591786cbdbe5c1464364d584cda",
       "summation": "md5"
     },
     {
       "name": "sahanjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666147186",
-      "size": "2154496",
-      "md5": "77f61106d85f2ae693415ac39c8275c2",
-      "crc32": "35620e15",
-      "sha1": "f25137cbb6c3849b57a220a4d86ecddf347ae6de",
+      "mtime": "1666188816",
+      "size": "2166784",
+      "md5": "340dad526159aaafcd1b1b7bbbaf44e7",
+      "crc32": "99422bfb",
+      "sha1": "f4770837a6fb4377ef15463b2d5224c105df9e08",
       "format": "Metadata"
     },
     {
@@ -18363,9 +18425,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1764,
-  "item_last_updated": 1666147245,
-  "item_size": 132171846,
+  "files_count": 1770,
+  "item_last_updated": 1666188880,
+  "item_size": 132625010,
   "metadata": {
     "identifier": "sahanjournal-2022",
     "collection": [
@@ -18387,7 +18449,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445213940,
+      "task_id": 3445687366,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -18395,7 +18457,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 373226779,
+  "uniq": 1851773926,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

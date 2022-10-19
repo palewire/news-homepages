@@ -1,5 +1,5 @@
 {
-  "created": 1666146827,
+  "created": 1666188549,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/njherald-2022",
@@ -3539,31 +3539,93 @@
       "format": "JSON"
     },
     {
+      "name": "njherald-2022-10-18T22:32:55.065948-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "njherald-2022-10-18T22:32:55.065948-04:00.jpg",
+      "mtime": "1666169741",
+      "size": "9136",
+      "md5": "edf3d2d706dca169c40e059795a72422",
+      "crc32": "adf295c0",
+      "sha1": "a4becaf70397b2973fde71164c76148769f207e1"
+    },
+    {
+      "name": "njherald-2022-10-19T10:07:56.742014-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666188481",
+      "size": "22245",
+      "md5": "78e33e6458a8ed762494092b364cbbe0",
+      "crc32": "8ff0c44f",
+      "sha1": "7090ec7f7ce9e85dcc009d16f3c86c581a3e9fcb",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-10-19T10:07:56.742014-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666188483",
+      "size": "36104",
+      "md5": "4e22e4db4c23f4c40cfc739e25d236b7",
+      "crc32": "8c2239c7",
+      "sha1": "29b66295d358eecb952902fc675b1f42b38f1e2b",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-10-19T10:07:56.742014-04:00.jpg",
+      "source": "original",
+      "mtime": "1666188479",
+      "size": "263912",
+      "md5": "d5f3b4cb15c72050a32f8997357e5248",
+      "crc32": "be36d74f",
+      "sha1": "8a83e7b429e8292d0b550feffd95f4a0af78655b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "njherald-2022-10-19T10:07:56.742014-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666188485",
+      "size": "1477",
+      "md5": "b6f087b51bac9e80a0b0b91ebe75599c",
+      "crc32": "1dd254e0",
+      "sha1": "6354b58f5224c5ffd72c212a9c85fa428134c396",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-10-19T10:07:56.742014-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666188487",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "njherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d3cdae339a1b9c9a8f94c3ccf078e77748be1c3",
-      "mtime": "1666146825",
-      "size": "73363",
-      "md5": "d2f9ffb1fcd8fc07ea4e73f972018c46",
-      "crc32": "82f5deb7",
-      "sha1": "d513e919631a5e6c1376bf934e9eb8200f2b2ee5",
+      "btih": "b4172706436e375956dc15186e152276d1f463f1",
+      "mtime": "1666188529",
+      "size": "74628",
+      "md5": "9b8f074bcf32d071445be48f335852a1",
+      "crc32": "e7a37111",
+      "sha1": "9517234d8c1b6167cbd62f06aede5d76d0cce275",
       "format": "Archive BitTorrent"
     },
     {
       "name": "njherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5ae2d771312b659bd256a84bc186ee7",
+      "md5": "7470f9bc1ffbf14909fe8fb04581dee4",
       "summation": "md5"
     },
     {
       "name": "njherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666146788",
-      "size": "454656",
-      "md5": "db0ed526257dfd22e5b4882b899ddba5",
-      "crc32": "6c21a3c4",
-      "sha1": "3cda6cc10b6e155f684f993191ae7354236140d1",
+      "mtime": "1666188491",
+      "size": "462848",
+      "md5": "16f19f253518d9f312ab5413d3803740",
+      "crc32": "351545ba",
+      "sha1": "238a7cb3bc528294e8a9706fa8a1bf717554098b",
       "format": "Metadata"
     },
     {
@@ -3577,9 +3639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 346,
-  "item_last_updated": 1666146825,
-  "item_size": 23473997,
+  "files_count": 352,
+  "item_last_updated": 1666188529,
+  "item_size": 23816530,
   "metadata": {
     "identifier": "njherald-2022",
     "collection": [
@@ -3601,7 +3663,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445209804,
+      "task_id": 3445682857,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3609,7 +3671,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 436550269,
+  "uniq": 1717955204,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

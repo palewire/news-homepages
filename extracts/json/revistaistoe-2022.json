@@ -1,5 +1,6 @@
 {
-  "created": 1666181226,
+  "conflict": 1666189429,
+  "created": 1666189429,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/revistaistoe-2022",
@@ -13577,6 +13578,17 @@
       "format": "JSON"
     },
     {
+      "name": "revistaistoe-2022-10-19T09:05:27.348521-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistaistoe-2022-10-19T09:05:27.348521-03:00.jpg",
+      "mtime": "1666189052",
+      "size": "9718",
+      "md5": "c23af446e1108d9ffc8a3080be76ec78",
+      "crc32": "8ca3799f",
+      "sha1": "94760acb65c89f0080511ca9dbf0dd72c5017f4e"
+    },
+    {
       "name": "revistaistoe-2022_archive.torrent",
       "source": "metadata",
       "btih": "f04162c2531ca5faf6f1ebcd194bf10939454392",
@@ -13591,7 +13603,7 @@
       "name": "revistaistoe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d19a19815399993bdc6aa5549924255",
+      "md5": "b557f39f6d82c3009c141584b2344b65",
       "summation": "md5"
     },
     {
@@ -13615,9 +13627,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1317,
-  "item_last_updated": 1666181206,
-  "item_size": 82623534,
+  "files_count": 1318,
+  "item_last_updated": 1666189052,
+  "item_size": 82633252,
   "metadata": {
     "identifier": "revistaistoe-2022",
     "collection": [
@@ -13639,15 +13651,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445603646,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3445686410,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445689079,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 958335026,
+  "uniq": 374154901,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

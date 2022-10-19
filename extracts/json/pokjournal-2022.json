@@ -1,5 +1,5 @@
 {
-  "created": 1666147031,
+  "created": 1666188739,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/24/items/pokjournal-2022",
@@ -3509,31 +3509,93 @@
       "format": "JSON"
     },
     {
+      "name": "pokjournal-2022-10-18T22:36:18.469548-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pokjournal-2022-10-18T22:36:18.469548-04:00.jpg",
+      "mtime": "1666168961",
+      "size": "8784",
+      "md5": "1a68dbd595d6f3141a7198ef04ff326c",
+      "crc32": "2be4d608",
+      "sha1": "278180c8aeda09e00ac9c2f10af4c5bae5ab4f31"
+    },
+    {
+      "name": "pokjournal-2022-10-19T10:11:23.760819-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666188687",
+      "size": "20458",
+      "md5": "eece125054e710520cb2533592d99cf2",
+      "crc32": "8ee1b0e6",
+      "sha1": "6228d6e822c54e1113ea0ff1651988868649b3c2",
+      "format": "JSON"
+    },
+    {
+      "name": "pokjournal-2022-10-19T10:11:23.760819-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666188689",
+      "size": "29381",
+      "md5": "b3097fb81a2944aee74cc4e264e485a9",
+      "crc32": "3c583fea",
+      "sha1": "1bc8b490e4a6b3eb57d67a7cb146b0d729033c13",
+      "format": "JSON"
+    },
+    {
+      "name": "pokjournal-2022-10-19T10:11:23.760819-04:00.jpg",
+      "source": "original",
+      "mtime": "1666188685",
+      "size": "253287",
+      "md5": "b619ae5aa0909350ab8aec2c40d2399b",
+      "crc32": "b3fbbde8",
+      "sha1": "cd0ffcefb4bbf98d73b4094e97e0b87b73958113",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pokjournal-2022-10-19T10:11:23.760819-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666188690",
+      "size": "1576",
+      "md5": "3ac741e259a7c944dbf636b5a98caae3",
+      "crc32": "fc00bba1",
+      "sha1": "2e0f9dabfc996daf07ad43eb098e4de3fb76b966",
+      "format": "JSON"
+    },
+    {
+      "name": "pokjournal-2022-10-19T10:11:23.760819-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666188692",
+      "size": "69962",
+      "md5": "9701126260bce6b7e96f8463015de6c7",
+      "crc32": "8e5859c2",
+      "sha1": "fc4383baffb86c36cfe779d41d0f6e89577f0050",
+      "format": "JSON"
+    },
+    {
       "name": "pokjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89c2414ffd1f74dca569ba9f129a468cc2a04455",
-      "mtime": "1666147028",
-      "size": "73386",
-      "md5": "f4ba361f825d7b1ec133ee9265145562",
-      "crc32": "6f885b25",
-      "sha1": "c35c02a4af46b5737ecb210faf1f5e3f7ac7702b",
+      "btih": "835e29f841c36355a225769b5428a3a2dbeaafb6",
+      "mtime": "1666188735",
+      "size": "74665",
+      "md5": "ef3f2a3998b04c51f21ae76deeed7a10",
+      "crc32": "4ecd0218",
+      "sha1": "2adc4facc7d21a5b4ca4f61cbae71b8602a28aa3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pokjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de7dfb07db511bf0761ac00897881de3",
+      "md5": "341920ca80390f33e8a63c8728dbdf14",
       "summation": "md5"
     },
     {
       "name": "pokjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666146991",
-      "size": "450560",
-      "md5": "fb4b2dce5826a6ec66a1041dac87d281",
-      "crc32": "2fb7692f",
-      "sha1": "bd3af058a2c4b9c712a6fd7595e76cd3eaa885c5",
+      "mtime": "1666188698",
+      "size": "458752",
+      "md5": "9fe26133c091557b3d80eef02ab12d97",
+      "crc32": "2d4ae30d",
+      "sha1": "cf81fdb9b592f8092f5ba3db6d6bf2bd80072f87",
       "format": "Metadata"
     },
     {
@@ -3547,9 +3609,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 343,
-  "item_last_updated": 1666147028,
-  "item_size": 22496624,
+  "files_count": 349,
+  "item_last_updated": 1666188735,
+  "item_size": 22889543,
   "metadata": {
     "identifier": "pokjournal-2022",
     "collection": [
@@ -3571,7 +3633,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445211795,
+      "task_id": 3445685410,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3579,7 +3641,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1780854881,
+  "uniq": 1681527746,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]
