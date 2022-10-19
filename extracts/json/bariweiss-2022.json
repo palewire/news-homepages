@@ -1,5 +1,5 @@
 {
-  "created": 1666196730,
+  "created": 1666211086,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/bariweiss-2022",
@@ -16323,31 +16323,93 @@
       "format": "JSON"
     },
     {
+      "name": "bariweiss-2022-10-19T09:23:49.501593-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bariweiss-2022-10-19T09:23:49.501593-07:00.jpg",
+      "mtime": "1666208672",
+      "size": "8451",
+      "md5": "104f7bed911de7e65027b7a7053efa97",
+      "crc32": "63a94336",
+      "sha1": "39d58eae4ca9debdf5f0d1a6b499d0d8ba59af77"
+    },
+    {
+      "name": "bariweiss-2022-10-19T13:23:21.645143-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666211004",
+      "size": "14377",
+      "md5": "951c1a88a3dba946627e4bddfe67cc01",
+      "crc32": "792bc0f6",
+      "sha1": "79e3ed0fa5c487b6d7af608eac88ece5b51c8442",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-19T13:23:21.645143-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666211005",
+      "size": "13554",
+      "md5": "1a8afeef8f657439f674a469a5778e19",
+      "crc32": "e5f0953c",
+      "sha1": "37cc48c3498639e449709aa6ad95226ef1b5beba",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-19T13:23:21.645143-07:00.jpg",
+      "source": "original",
+      "mtime": "1666211002",
+      "size": "212627",
+      "md5": "18bc1baf2b45827808be2f772ef32d5c",
+      "crc32": "c2ba09a7",
+      "sha1": "9ec3567bb82bd6c62960c684f5afcede2e017207",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bariweiss-2022-10-19T13:23:21.645143-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666211007",
+      "size": "1504",
+      "md5": "c69a843affdc5eaf504f96819becc667",
+      "crc32": "28365220",
+      "sha1": "4d5311a2b64a307ae5dc9ab64d28172f1e579312",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-19T13:23:21.645143-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666211008",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bariweiss-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6870699684c19a87310fbf7209d3ba5953e4b354",
-      "mtime": "1666196717",
-      "size": "333858",
-      "md5": "489df4b829136d5f0f09f3696365d9dd",
-      "crc32": "a259302d",
-      "sha1": "aec3c679f8b4d989303f3ccd64d5653c1085a97a",
+      "btih": "32d0e37cd6d61e6847bfcec37db2c14c7e6bcba5",
+      "mtime": "1666211075",
+      "size": "335109",
+      "md5": "66053bdef515179deeef436d049a270b",
+      "crc32": "b12328f3",
+      "sha1": "338bdba0f8fb0cf3bdfc678e88a63f3a7434b019",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bariweiss-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "121e7367c340d22da786e4e109f693fb",
+      "md5": "1b546fbc83fda64b32ade783c79c541f",
       "summation": "md5"
     },
     {
       "name": "bariweiss-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666196655",
-      "size": "2002944",
-      "md5": "48d04046293ae49eb78e8b50705e0e82",
-      "crc32": "f1dbe821",
-      "sha1": "6d3d5c3c00ca265155d6b32e47f4e6f3b6f6a423",
+      "mtime": "1666211019",
+      "size": "2007040",
+      "md5": "d6ab814e80032dc42b61458de868e7ca",
+      "crc32": "2894506d",
+      "sha1": "389121c4de2032ae710d6851da66e7c6c2193feb",
       "format": "Metadata"
     },
     {
@@ -16361,9 +16423,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1581,
-  "item_last_updated": 1666196717,
-  "item_size": 85357411,
+  "files_count": 1587,
+  "item_last_updated": 1666211075,
+  "item_size": 85613473,
   "metadata": {
     "identifier": "bariweiss-2022",
     "collection": [
@@ -16385,7 +16447,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445768788,
+      "task_id": 3445920992,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -16393,7 +16455,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 696422920,
+  "uniq": 1740057589,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

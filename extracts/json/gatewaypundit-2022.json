@@ -1,5 +1,6 @@
 {
-  "created": 1666209980,
+  "conflict": 1666211326,
+  "created": 1666211326,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -18033,6 +18034,17 @@
       "format": "JSON"
     },
     {
+      "name": "gatewaypundit-2022-10-19T13:19:21.364769-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gatewaypundit-2022-10-19T13:19:21.364769-05:00.jpg",
+      "mtime": "1666211266",
+      "size": "10864",
+      "md5": "b833c21f3fa8fe97fd0c7b897e4adca3",
+      "crc32": "ff7871e5",
+      "sha1": "b5fb2072d4b94ae8af9cc79a646dbf66fef61f84"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
       "btih": "d27fff6c9e7c1b505ccdf5faddc93127386d6fb5",
@@ -18047,7 +18059,7 @@
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c2d408c8eba60f1b4c6450b019f18c3",
+      "md5": "82e9c9dca3e120329c076c0cad02f05e",
       "summation": "md5"
     },
     {
@@ -18071,14 +18083,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1743,
-  "gatewaypundit-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1666203834,
-  "item_size": 151836020,
+  "files_count": 1744,
+  "item_last_updated": 1666211266,
+  "item_size": 151846884,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -18100,15 +18107,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445842217,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3445920687,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445923008,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1720174438,
+  "uniq": 1048992818,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]
