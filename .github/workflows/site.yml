@@ -2,17 +2,6 @@ name: "Update website"
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows:
-      - Archive a single site
-      - Archive all sites (Batch 2)
-      - Archive all sites (Batch 4)
-      - Archive all sites (Batch 6)
-      - Archive all sites (Batch 8)
-      - Archive all sites (Batch 10)
-      - "Archive: U.S. national"
-    types:
-      - completed
   schedule:
     - cron: "0 */6 * * *"
 
