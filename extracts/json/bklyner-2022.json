@@ -1,5 +1,10 @@
 {
-  "created": 1666154309,
+  "bklyner-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1666203201,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/bklyner-2022",
@@ -14655,31 +14660,93 @@
       "format": "JSON"
     },
     {
+      "name": "bklyner-2022-10-19T00:37:03.278288-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bklyner-2022-10-19T00:37:03.278288-04:00.jpg",
+      "mtime": "1666174168",
+      "size": "10360",
+      "md5": "77e46961f6c42983a34f2c6a38b24991",
+      "crc32": "5f45ba7c",
+      "sha1": "fda517462a0887f1f18a3fd848e34e3fc372fd6a"
+    },
+    {
+      "name": "bklyner-2022-10-19T12:24:43.830981-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196694",
+      "size": "22649",
+      "md5": "63e6aa91591fef654d6891cd07c2c83b",
+      "crc32": "d366179d",
+      "sha1": "7db0e2edfaf5a0f6fa53744503b3c3e53d20a07b",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-10-19T12:24:43.830981-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196697",
+      "size": "18642",
+      "md5": "7124711bbf8832e53a7086097392d0a7",
+      "crc32": "b1da5401",
+      "sha1": "a33fc93489ec4107bce70c23a28cd4b403c3cc04",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-10-19T12:24:43.830981-04:00.jpg",
+      "source": "original",
+      "mtime": "1666196693",
+      "size": "349814",
+      "md5": "0d96b6c80547f1006a9a83c55975a5be",
+      "crc32": "877e0417",
+      "sha1": "608a28bc1d9cc4e7634fd94a06d78441aec19eda",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bklyner-2022-10-19T12:24:43.830981-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196698",
+      "size": "1423",
+      "md5": "48a9c1f110288afa96bb1db1ea245f27",
+      "crc32": "cc49338a",
+      "sha1": "32917619e87e7ef002be7faf690182bdee5c8dcb",
+      "format": "JSON"
+    },
+    {
+      "name": "bklyner-2022-10-19T12:24:43.830981-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196700",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bklyner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c57d81bcb0c250ac9109148449d169ae3798cbe3",
-      "mtime": "1666154301",
-      "size": "297507",
-      "md5": "28345ffdfddca3e7ad9a0dec8e8c85ce",
-      "crc32": "921b1599",
-      "sha1": "62a78e836464ee221823564a71f61c1b3b319ef7",
+      "btih": "839db68fda2beeccf2636ff692ce699d11096549",
+      "mtime": "1666196772",
+      "size": "298767",
+      "md5": "b9a2a53d99579de040a25133f0379dff",
+      "crc32": "eb4064f3",
+      "sha1": "735e8440d59a1a4fab4cc1876dc99281c174e5a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bklyner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6595e5bfd97142373aa50232715f2520",
+      "md5": "d523de7a8ec4b78733df9c6214e2eaa2",
       "summation": "md5"
     },
     {
       "name": "bklyner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154246",
-      "size": "1748992",
-      "md5": "1c0cedd8698c2e3a0692d75912db146f",
-      "crc32": "37ddd49e",
-      "sha1": "d91b10ac3ff99a7565908fc087f005a801dac1d8",
+      "mtime": "1666196714",
+      "size": "1753088",
+      "md5": "d8c241def8e045e5c7b7c5cd6ffdf615",
+      "crc32": "83a6fd97",
+      "sha1": "e02ad702243bba44e02933cc0e55f821ea9ef75e",
       "format": "Metadata"
     },
     {
@@ -14693,9 +14760,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1415,
-  "item_last_updated": 1666154301,
-  "item_size": 114317518,
+  "files_count": 1421,
+  "item_last_updated": 1666196772,
+  "item_size": 114725964,
   "metadata": {
     "identifier": "bklyner-2022",
     "collection": [
@@ -14717,7 +14784,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445287794,
+      "task_id": 3445769227,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14725,7 +14792,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1799550821,
+  "uniq": 1323511354,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

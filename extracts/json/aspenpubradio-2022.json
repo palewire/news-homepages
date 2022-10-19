@@ -1,5 +1,5 @@
 {
-  "created": 1666154183,
+  "created": 1666196621,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/16/items/aspenpubradio-2022",
@@ -7063,31 +7063,93 @@
       "format": "JSON"
     },
     {
+      "name": "aspenpubradio-2022-10-18T22:35:25.642762-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-18T22:35:25.642762-06:00.jpg",
+      "mtime": "1666174075",
+      "size": "9905",
+      "md5": "52b15c41541916a670d6c579e3d68d4b",
+      "crc32": "7efe9cf0",
+      "sha1": "ac0fab2983839c19f0132890adaa3c4d502202ab"
+    },
+    {
+      "name": "aspenpubradio-2022-10-19T10:22:26.488052-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196552",
+      "size": "19254",
+      "md5": "8e6060acbd26be5ad59b67167f8663ec",
+      "crc32": "e552019b",
+      "sha1": "a5801f1209cff1cd527da60ade996f91e50202a1",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-19T10:22:26.488052-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196554",
+      "size": "38090",
+      "md5": "0fe29b6bb6937cb4b4a2dbbeabf870c8",
+      "crc32": "587d9fb5",
+      "sha1": "3d197f3e8cf77bb160f0fe87cd985f58bc8a76dc",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-19T10:22:26.488052-06:00.jpg",
+      "source": "original",
+      "mtime": "1666196551",
+      "size": "304132",
+      "md5": "78cf766602a1a0d600454d8917ecba44",
+      "crc32": "2978c483",
+      "sha1": "e8303f97693b4ed89730f2e5fe12983aea2fd465",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-19T10:22:26.488052-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196556",
+      "size": "1537",
+      "md5": "c8d66089b3d772951fb6bcadd50aff23",
+      "crc32": "4f6c51b2",
+      "sha1": "03209623493220d1f8ee576be3a77f2ffa39b6e9",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-19T10:22:26.488052-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196557",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "aspenpubradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8dd456b084ed434e3819e9f2162c2510f9499489",
-      "mtime": "1666154179",
-      "size": "148676",
-      "md5": "7a8ebef322eb73dd2c675d03625d1bb0",
-      "crc32": "5c9d2a70",
-      "sha1": "6e99081fd88797a5798a9b6c2c2f69b286f8bcab",
+      "btih": "4351b302c00fe864d7aaa773c788cd20c16234d6",
+      "mtime": "1666196613",
+      "size": "149971",
+      "md5": "ef8573be8f3c4b5ec668b1d54df712df",
+      "crc32": "82dc2caf",
+      "sha1": "7de4c2a07bee1a89591d8ed4946c76cdc8275656",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspenpubradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d16461bb842bee0388802b1f50d736d3",
+      "md5": "8b2079d404ae9831f42d75540a3712e6",
       "summation": "md5"
     },
     {
       "name": "aspenpubradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154140",
-      "size": "892928",
-      "md5": "a58d939f9146f5419afac958fb153d38",
-      "crc32": "d6d26423",
-      "sha1": "6d837beb170b2a9fe6f3ad486463c7783a087ce5",
+      "mtime": "1666196563",
+      "size": "901120",
+      "md5": "8edddbc69d374bd6f26d3661b25cb2fd",
+      "crc32": "f8bbeb99",
+      "sha1": "f037d9754f0a61dd98dec182b9cd8602ebfcc59c",
       "format": "Metadata"
     },
     {
@@ -7101,9 +7163,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 687,
-  "item_last_updated": 1666154179,
-  "item_size": 47645057,
+  "files_count": 693,
+  "item_last_updated": 1666196613,
+  "item_size": 48027664,
   "metadata": {
     "identifier": "aspenpubradio-2022",
     "collection": [
@@ -7125,7 +7187,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445286393,
+      "task_id": 3445767452,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7133,7 +7195,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 382201260,
+  "uniq": 1526322608,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

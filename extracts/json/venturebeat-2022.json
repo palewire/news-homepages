@@ -1,5 +1,5 @@
 {
-  "created": 1666154297,
+  "created": 1666202517,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/6/items/venturebeat-2022",
@@ -12883,31 +12883,93 @@
       "format": "JSON"
     },
     {
+      "name": "venturebeat-2022-10-18T21:37:05.185569-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-18T21:37:05.185569-07:00.jpg",
+      "mtime": "1666174191",
+      "size": "9662",
+      "md5": "11017eba6892b2c09e7db500c4d2f39c",
+      "crc32": "6e86c2bb",
+      "sha1": "f00b8da5c0868251c92fdfdd7b3d70ffab9c0a17"
+    },
+    {
+      "name": "venturebeat-2022-10-19T09:26:23.279212-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196792",
+      "size": "32836",
+      "md5": "55b2bc9ee399e3212d110d012c0c5acc",
+      "crc32": "3b617ac2",
+      "sha1": "88287c8bc858e79761ef606c690cb840b56d57f4",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-19T09:26:23.279212-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196794",
+      "size": "44609",
+      "md5": "79821512ae1d8f8dbab517f1487a4d86",
+      "crc32": "d4b06007",
+      "sha1": "8c1822ac2b0b194bd63c5d7cf1593c7ebf1300ee",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-19T09:26:23.279212-07:00.jpg",
+      "source": "original",
+      "mtime": "1666196791",
+      "size": "199453",
+      "md5": "7b4d8101ab77ef7530e7297be88f61b1",
+      "crc32": "d0007529",
+      "sha1": "eb9bc992edad848972607aef02c6d614a46862ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-19T09:26:23.279212-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196796",
+      "size": "1459",
+      "md5": "ed038ca8c000ba5cd93c4c4cdacd0abe",
+      "crc32": "ada19273",
+      "sha1": "e40df91ca4b9a6fce2a94f87cf5bd155f85253e1",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-19T09:26:23.279212-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196798",
+      "size": "204",
+      "md5": "77c4bcbff6e48019b0db71c24305a3b3",
+      "crc32": "4be60281",
+      "sha1": "24e27c4e1c1acdbd133f7a62774b94aa66642422",
+      "format": "JSON"
+    },
+    {
       "name": "venturebeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9953b56f984e20cfee9f1f85b1d4fe7022f2f2ef",
-      "mtime": "1666154292",
-      "size": "265767",
-      "md5": "d88192cd089f407854a44194ae24e371",
-      "crc32": "6b1f6dd1",
-      "sha1": "e6d3733bc60e60d71eba51d1222d94b6ea7c74a5",
+      "btih": "cbd0b835c9c702a0c6703381f01988be80bbd509",
+      "mtime": "1666196864",
+      "size": "267030",
+      "md5": "989fc61b64ae7c18baaf2b66b0748cd6",
+      "crc32": "ba8c1ff9",
+      "sha1": "a8477a908c40b85b210ea60dab185453e37143cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "venturebeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44d2d4c77c844259c3557a1a7a4473f2",
+      "md5": "82018d39618867b81130e297106b0d5e",
       "summation": "md5"
     },
     {
       "name": "venturebeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154243",
-      "size": "1564672",
-      "md5": "434cd612e1de58f19a437c3d93eb2b35",
-      "crc32": "e8497f81",
-      "sha1": "f648970fd2dedeeb819a22c1d974e3080ae61c0d",
+      "mtime": "1666196812",
+      "size": "1576960",
+      "md5": "a6d9ccc2eb3f4dbb40e0499f0d061af3",
+      "crc32": "fc8fe680",
+      "sha1": "a96fe5aa526c34b6279df3d4d68a1bc92b292251",
       "format": "Metadata"
     },
     {
@@ -12921,9 +12983,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1246,
-  "item_last_updated": 1666154292,
-  "item_size": 70587604,
+  "files_count": 1252,
+  "item_last_updated": 1666196864,
+  "item_size": 70889378,
   "metadata": {
     "identifier": "venturebeat-2022",
     "collection": [
@@ -12945,7 +13007,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445287646,
+      "task_id": 3445770252,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12953,7 +13015,15 @@
       "status": "queued"
     }
   ],
-  "uniq": 778566388,
+  "uniq": 512468678,
+  "venturebeat-2022": {
+    "url": "https://venturebeat.com/",
+    "job_id": "spn2-5e44207dac86dc957797889af013b08b880f334c",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

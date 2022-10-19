@@ -1,5 +1,5 @@
 {
-  "created": 1666154285,
+  "created": 1666196691,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/bctimes-2022",
@@ -3529,31 +3529,93 @@
       "format": "JSON"
     },
     {
+      "name": "bctimes-2022-10-19T00:37:15.119535-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bctimes-2022-10-19T00:37:15.119535-04:00.jpg",
+      "mtime": "1666174209",
+      "size": "9277",
+      "md5": "1b474e9746cb3fe80e42fdde1057b426",
+      "crc32": "f0b4897e",
+      "sha1": "fc45f2ba4cb49d42edf2108160a4b169385232ab"
+    },
+    {
+      "name": "bctimes-2022-10-19T12:23:53.204546-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196637",
+      "size": "21124",
+      "md5": "f58c62ab5b1384865473804a4d47d329",
+      "crc32": "1aaffb1d",
+      "sha1": "65a41312814a83297252afdda5117acf07997dd9",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-19T12:23:53.204546-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196640",
+      "size": "35723",
+      "md5": "81074c7dcbbf76620c2586af915e7507",
+      "crc32": "eb103b11",
+      "sha1": "646e5b81f30a16258aa78cfcda235bb3f7b041e4",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-19T12:23:53.204546-04:00.jpg",
+      "source": "original",
+      "mtime": "1666196634",
+      "size": "232811",
+      "md5": "d14171c12998432777174d6bac689d3e",
+      "crc32": "8cd8e051",
+      "sha1": "ede52635ec678d236b2285211974bcddf6ff8fa1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bctimes-2022-10-19T12:23:53.204546-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196642",
+      "size": "1504",
+      "md5": "c8fb1f1c2ee69d4b1c716b38e0c7cc59",
+      "crc32": "4c78f51c",
+      "sha1": "da19a53190cc768ff39b6acd12f1a57247abaacf",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-19T12:23:53.204546-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196644",
+      "size": "101764",
+      "md5": "a1776d0d35ff20aaafbf41b845055346",
+      "crc32": "13c04069",
+      "sha1": "939837d43145de87b5e05cd12186a1e4c69221ea",
+      "format": "JSON"
+    },
+    {
       "name": "bctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3121cd66444990daa3ec8400049d433347ebeb3",
-      "mtime": "1666154282",
-      "size": "72773",
-      "md5": "d193e05d08d86ca0f78e18ac2caa8470",
-      "crc32": "81a95405",
-      "sha1": "c4dd3cd70da1fff1659e47b796217f64135c902e",
+      "btih": "ed7346a3a8447ccff423fdf920ebf2849309cc94",
+      "mtime": "1666196688",
+      "size": "74035",
+      "md5": "28b36a3ba30d325f85cfc0119d3fcef3",
+      "crc32": "16d078ee",
+      "sha1": "25c872669cbd5d102b634b00e1190aa0b175b74b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3441a336c3615b3a66ae4fb4cc1afc9d",
+      "md5": "3e611c1e77156eba255392f2e11263ac",
       "summation": "md5"
     },
     {
       "name": "bctimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154247",
-      "size": "454656",
-      "md5": "6b77bf27138e43659f26ae06b6eafa63",
-      "crc32": "a3c2be22",
-      "sha1": "7369f027a20d150ce893fa7cce0362d68171f8c1",
+      "mtime": "1666196649",
+      "size": "462848",
+      "md5": "466d0ecac48503fb83379cf6ff4c667e",
+      "crc32": "bf84ddf4",
+      "sha1": "5fac5fe227223366b0f42b328734e26081bee7c7",
       "format": "Metadata"
     },
     {
@@ -3567,9 +3629,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 345,
-  "item_last_updated": 1666154282,
-  "item_size": 22969853,
+  "files_count": 351,
+  "item_last_updated": 1666196688,
+  "item_size": 23381510,
   "metadata": {
     "identifier": "bctimes-2022",
     "collection": [
@@ -3591,7 +3653,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445287523,
+      "task_id": 3445768398,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3599,7 +3661,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 873667384,
+  "uniq": 1869744234,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666154309,
+  "created": 1666202503,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/1/items/variety-2022",
@@ -10997,31 +10997,93 @@
       "format": "JSON"
     },
     {
+      "name": "variety-2022-10-18T21:37:06.540104-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "variety-2022-10-18T21:37:06.540104-07:00.jpg",
+      "mtime": "1666174268",
+      "size": "11142",
+      "md5": "0e4613defa075e184f896593d6e938d4",
+      "crc32": "99681d78",
+      "sha1": "3799d9fba3dacf1b26c2085726358eaf140ecf2f"
+    },
+    {
+      "name": "variety-2022-10-19T09:27:39.601059-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196867",
+      "size": "43504",
+      "md5": "bc8d9d0e50243c7369ac2d535082d68c",
+      "crc32": "f732b745",
+      "sha1": "20e540a9d44a358e68264427c643b1cdc7911237",
+      "format": "JSON"
+    },
+    {
+      "name": "variety-2022-10-19T09:27:39.601059-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196868",
+      "size": "69609",
+      "md5": "69fe50364575bac4219a9f6c3d11a041",
+      "crc32": "dff5fbb2",
+      "sha1": "eba79be589957ca9c90c409d854fd3e4e443e4e5",
+      "format": "JSON"
+    },
+    {
+      "name": "variety-2022-10-19T09:27:39.601059-07:00.jpg",
+      "source": "original",
+      "mtime": "1666196865",
+      "size": "307628",
+      "md5": "744c0dfb178b3355720a1144398a2ec5",
+      "crc32": "cfe6784f",
+      "sha1": "03e6e25095aea97b42cca4a6a1ce32696bfe3812",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "variety-2022-10-19T09:27:39.601059-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196870",
+      "size": "1432",
+      "md5": "52cc9633a0c50c91392eac00f94775ea",
+      "crc32": "285c643d",
+      "sha1": "d5b1cbc5092fa97dba241faa1208f477c73da32a",
+      "format": "JSON"
+    },
+    {
+      "name": "variety-2022-10-19T09:27:39.601059-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196872",
+      "size": "226",
+      "md5": "f1c228a94a9e50e346317e59c100b617",
+      "crc32": "17aca6ea",
+      "sha1": "39bbfb72e255ae2b145deee2d9ead2b43b5d22a0",
+      "format": "JSON"
+    },
+    {
       "name": "variety-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eea3ea2e1bdf94220d4351063bff3c19fc569d19",
-      "mtime": "1666154302",
-      "size": "224618",
-      "md5": "4eac3d9948cc75dd4c4cf7e0d02d3ebe",
-      "crc32": "0a3b7efc",
-      "sha1": "ab6c040b25db475d87ac6b7694a08620019344b7",
+      "btih": "abc0e5e9c88ba1a793178ad3d0a6da25d6fc9e19",
+      "mtime": "1666196920",
+      "size": "225858",
+      "md5": "a1a1fa5749195c7a218522cc3dba8617",
+      "crc32": "4aef064e",
+      "sha1": "73a43f049eef6d17c49d186e1a95f868b1da4cc6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "variety-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c2f24e2afcbfe60e824b6a35b25b4ac",
+      "md5": "a3c9f7cdb14ab61cb05f3fafef3b19b5",
       "summation": "md5"
     },
     {
       "name": "variety-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154252",
-      "size": "1347584",
-      "md5": "88243c8579fc8aed72bd720ffffaa9e0",
-      "crc32": "572fc676",
-      "sha1": "e79e0d731ae4ba4e256f3f75b535abebc998f6ea",
+      "mtime": "1666196876",
+      "size": "1355776",
+      "md5": "7f5056499ae7255319b0fbf3b6f13e68",
+      "crc32": "cf5c7a43",
+      "sha1": "9f3b9c00e9873066f47c40731ed90f9cc2320c74",
       "format": "Metadata"
     },
     {
@@ -11035,9 +11097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1066,
-  "item_last_updated": 1666154302,
-  "item_size": 91457648,
+  "files_count": 1072,
+  "item_last_updated": 1666196920,
+  "item_size": 91900621,
   "metadata": {
     "identifier": "variety-2022",
     "collection": [
@@ -11059,7 +11121,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445287798,
+      "task_id": 3445770788,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11067,7 +11129,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 307578073,
+  "uniq": 1765670974,
+  "variety-2022": {
+    "url": "https://variety.com/",
+    "job_id": "spn2-768758f4d110b969e133a1059d0390b89f9deaf0",
+    "message": "The same snapshot had been made 3 minutes, 46 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

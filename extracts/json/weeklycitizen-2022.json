@@ -1,5 +1,5 @@
 {
-  "created": 1666154471,
+  "created": 1666196856,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/weeklycitizen-2022",
@@ -3539,31 +3539,93 @@
       "format": "JSON"
     },
     {
+      "name": "weeklycitizen-2022-10-18T23:40:11.866389-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-18T23:40:11.866389-05:00.jpg",
+      "mtime": "1666174348",
+      "size": "9051",
+      "md5": "9747d5515c79cf3384f46c0e14472543",
+      "crc32": "5580d714",
+      "sha1": "2ebb0990f7230d95ddf2dada62101eed8b32a689"
+    },
+    {
+      "name": "weeklycitizen-2022-10-19T11:26:38.000729-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196803",
+      "size": "18966",
+      "md5": "967cedcd17164dd0720780b029057f87",
+      "crc32": "67124326",
+      "sha1": "dff2f1666fb76b24ca49da60223ac64b1517d73d",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-19T11:26:38.000729-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196805",
+      "size": "30809",
+      "md5": "5c5935c4fbaf37c048b793e35f6fe0da",
+      "crc32": "11ad166f",
+      "sha1": "16f5e92d8f794ad2951bbbc538097eb157b54161",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-19T11:26:38.000729-05:00.jpg",
+      "source": "original",
+      "mtime": "1666196801",
+      "size": "266064",
+      "md5": "78fa2f93d58ddb680a58fdc7eb312589",
+      "crc32": "c16d3642",
+      "sha1": "e976fbfb15a59fdfc39b43b20ef143de872ad237",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-19T11:26:38.000729-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196807",
+      "size": "1522",
+      "md5": "008ac42c4006b29b4811812c775d968a",
+      "crc32": "13c57c78",
+      "sha1": "7a8f9e58cdb446000cc8b328193c714ab3fe00b3",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-19T11:26:38.000729-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196808",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "weeklycitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "96af405bbd2abd78aa43cf93b4a16d80a9e880a9",
-      "mtime": "1666154468",
-      "size": "75074",
-      "md5": "207352d2bff3d56d18126254b65a8104",
-      "crc32": "7527f50d",
-      "sha1": "dc2f2f4dddf8d8ab07d16162e67f4a332d0df97d",
+      "btih": "6694043ce3a9f10668651e7c7d6cdf4ab8a84147",
+      "mtime": "1666196852",
+      "size": "76369",
+      "md5": "422ed2ac2e1f5aec80c744ccda47270f",
+      "crc32": "99dd876f",
+      "sha1": "d9a85103f0b2eefaa8d306243a8f63917354a372",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weeklycitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "159e2f3a4afce7202130c2ae03199b14",
+      "md5": "b381af19caf592d570438aa0148ad58b",
       "summation": "md5"
     },
     {
       "name": "weeklycitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154430",
-      "size": "454656",
-      "md5": "ceb33685298db1155a15d4a4516cc7cf",
-      "crc32": "70b9aa27",
-      "sha1": "35d3c2dcc43fea9bd3028eaec35467aa43fcc327",
+      "mtime": "1666196815",
+      "size": "466944",
+      "md5": "959207a603d4dd39787c8d2713c74531",
+      "crc32": "43f3f333",
+      "sha1": "99db992209efb962705c0d04f3d64a6934645323",
       "format": "Metadata"
     },
     {
@@ -3577,9 +3639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 346,
-  "item_last_updated": 1666154468,
-  "item_size": 22485445,
+  "files_count": 352,
+  "item_last_updated": 1666196852,
+  "item_size": 22825642,
   "metadata": {
     "identifier": "weeklycitizen-2022",
     "collection": [
@@ -3601,7 +3663,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445289467,
+      "task_id": 3445770086,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3609,7 +3671,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1783931720,
+  "uniq": 105954728,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

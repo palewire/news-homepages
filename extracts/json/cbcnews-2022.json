@@ -1,5 +1,5 @@
 {
-  "created": 1666154323,
+  "created": 1666203356,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/8/items/cbcnews-2022",
@@ -13061,31 +13061,93 @@
       "format": "JSON"
     },
     {
+      "name": "cbcnews-2022-10-19T00:37:19.085092-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbcnews-2022-10-19T00:37:19.085092-04:00.jpg",
+      "mtime": "1666174365",
+      "size": "10045",
+      "md5": "6d260564d04fbd635c2ebe1368e734e3",
+      "crc32": "c4eb4cb9",
+      "sha1": "e3447165d43d93ade1b3798370b93e1ede99e53d"
+    },
+    {
+      "name": "cbcnews-2022-10-19T12:24:20.298400-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196678",
+      "size": "455",
+      "md5": "806ddf9b9201cb596d0f85a27652ac64",
+      "crc32": "1848f6a1",
+      "sha1": "a68c0482be02a745a694ce91648bfe63fb898200",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-10-19T12:24:20.298400-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196680",
+      "size": "23608",
+      "md5": "36c716e6ed6d708b5545a3d47dc75cee",
+      "crc32": "f760c097",
+      "sha1": "ebfaadb2a3e115f24ecdea1b6f144826601e9e3d",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-10-19T12:24:20.298400-04:00.jpg",
+      "source": "original",
+      "mtime": "1666196676",
+      "size": "354297",
+      "md5": "acdf18e03312ffbc9cfc1c3bd57ac643",
+      "crc32": "cf479374",
+      "sha1": "5fc4de4c59eb21231cdfaf81d2e6191f885909ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbcnews-2022-10-19T12:24:20.298400-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196682",
+      "size": "1456",
+      "md5": "a9d3c0f555b84cfc19f7bb020f2800b5",
+      "crc32": "93d2ae5a",
+      "sha1": "88e56bf8bc345fbdd7db54942ebf19c4440d75b0",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-10-19T12:24:20.298400-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196683",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "cbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e86e47cb20cb01b9cef6f80b157d28e9343fd1c",
-      "mtime": "1666154314",
-      "size": "264405",
-      "md5": "d3fd192ac39f9874cb7509479f4058a9",
-      "crc32": "fd575754",
-      "sha1": "7a1d0d7ff7c2b8a850f7be52dbab2bddc8fadccd",
+      "btih": "c808e5abcbb2e3a0aae3413b13aed6e200a54cdb",
+      "mtime": "1666196773",
+      "size": "265663",
+      "md5": "08b55dd1e4aa20ec715a8f573f16ba12",
+      "crc32": "9dc3ccf3",
+      "sha1": "9ef375f0c71f01db62d90bcca737c209d2a4b2bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f23e8a1d6dbb48e48c18a50d6fa86043",
+      "md5": "215ea68021f19e753488c9afd8c88f0a",
       "summation": "md5"
     },
     {
       "name": "cbcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154259",
-      "size": "1572864",
-      "md5": "1260aeed3f47cfd0e7bdb0f35c98afc2",
-      "crc32": "38826720",
-      "sha1": "2d3752dee639cef23439555e824823a8c86bcb6c",
+      "mtime": "1666196709",
+      "size": "1581056",
+      "md5": "6b73439c2f78f5fc395d3c9c2a69c929",
+      "crc32": "d5f18c24",
+      "sha1": "5a9c23c90b75a3b4f04b6b857a3c4875a379c820",
       "format": "Metadata"
     },
     {
@@ -13099,9 +13161,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1263,
-  "item_last_updated": 1666154314,
-  "item_size": 85178161,
+  "files_count": 1269,
+  "item_last_updated": 1666196773,
+  "item_size": 85577674,
   "metadata": {
     "identifier": "cbcnews-2022",
     "collection": [
@@ -13123,7 +13185,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445287944,
+      "task_id": 3445769306,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13131,7 +13193,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 813720369,
+  "uniq": 2072758799,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

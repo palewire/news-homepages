@@ -1,5 +1,5 @@
 {
-  "created": 1666154340,
+  "created": 1666196737,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/31/items/capitalandmain-2022",
@@ -15465,31 +15465,93 @@
       "format": "JSON"
     },
     {
+      "name": "capitalandmain-2022-10-18T21:37:47.222795-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitalandmain-2022-10-18T21:37:47.222795-07:00.jpg",
+      "mtime": "1666174343",
+      "size": "12078",
+      "md5": "a2d0064351cf5b0e1340b523f46d4fef",
+      "crc32": "790cb401",
+      "sha1": "bc0a116965d19b14b0921a88713443d8d2c37532"
+    },
+    {
+      "name": "capitalandmain-2022-10-19T09:24:19.264476-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196670",
+      "size": "14008",
+      "md5": "bbca5fe30065e9bc3563c08697bb7f64",
+      "crc32": "bdd7e38d",
+      "sha1": "adbe0b42d4ef743c71d99e8322ab3cb86502986c",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-19T09:24:19.264476-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196672",
+      "size": "26635",
+      "md5": "9bf07c6562ad8804f3e5a3520599ba67",
+      "crc32": "82e0d5ed",
+      "sha1": "ed76d7aa347198907c72b977053a7c862d25ab26",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-19T09:24:19.264476-07:00.jpg",
+      "source": "original",
+      "mtime": "1666196668",
+      "size": "275069",
+      "md5": "a5ebb1f8b85cb65b0fd486594576715e",
+      "crc32": "50598359",
+      "sha1": "24c759c28277519bab09efb842c7da3083cbd9d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitalandmain-2022-10-19T09:24:19.264476-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196673",
+      "size": "1494",
+      "md5": "238943c50e98c6613c991793c9c2e1c3",
+      "crc32": "0cdce73c",
+      "sha1": "7e297c43fbca6d6de183e3b96f453fed1dff69ea",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-19T09:24:19.264476-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196675",
+      "size": "19099",
+      "md5": "687dbd07d55924193bf1f25e39baad59",
+      "crc32": "a559ac83",
+      "sha1": "e45e19ccee33fafd0e542f0f22ede6780e857fbb",
+      "format": "JSON"
+    },
+    {
       "name": "capitalandmain-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe1597c714edebbeb0875411409c66357e7f4b06",
-      "mtime": "1666154336",
-      "size": "324895",
-      "md5": "fb335b9d55be9077fc8203c36652dbca",
-      "crc32": "cb37b210",
-      "sha1": "58a13aa43263eae75bdbd48d4a30d6980a09345e",
+      "btih": "53d89800c84685bd9256a49e7e7944477a30c67e",
+      "mtime": "1666196734",
+      "size": "326179",
+      "md5": "b64a389610d0a264f52ba68c8f84b772",
+      "crc32": "fb697dc5",
+      "sha1": "35eb52f96e1dbe009a82351cef7b36d8e613f117",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitalandmain-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b89966a448a35155c29001ffc3db89b",
+      "md5": "88103ccc535422a82308829cb82c0c0f",
       "summation": "md5"
     },
     {
       "name": "capitalandmain-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154286",
-      "size": "1921024",
-      "md5": "49d2ce5aa241ecc71950911b01330db0",
-      "crc32": "0bd17ddd",
-      "sha1": "1aeb704c16d3ad304dee2a0bee730a763b3c433b",
+      "mtime": "1666196681",
+      "size": "1925120",
+      "md5": "b364148a7b535258b5cf860e594a6a63",
+      "crc32": "ca54d424",
+      "sha1": "52bb47470653269dfc15d5eb0ffd2b6ff3c55a46",
       "format": "Metadata"
     },
     {
@@ -15503,9 +15565,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1499,
-  "item_last_updated": 1666154336,
-  "item_size": 95856875,
+  "files_count": 1505,
+  "item_last_updated": 1666196734,
+  "item_size": 96210638,
   "metadata": {
     "identifier": "capitalandmain-2022",
     "collection": [
@@ -15527,7 +15589,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445288115,
+      "task_id": 3445768860,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15535,7 +15597,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 147488142,
+  "uniq": 1242427138,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

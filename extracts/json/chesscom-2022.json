@@ -1,5 +1,5 @@
 {
-  "created": 1666154298,
+  "created": 1666196839,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/11/items/chesscom-2022",
@@ -11013,31 +11013,93 @@
       "format": "JSON"
     },
     {
+      "name": "chesscom-2022-10-18T21:37:06.814632-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-18T21:37:06.814632-07:00.jpg",
+      "mtime": "1666174163",
+      "size": "9416",
+      "md5": "66de725cf74221b94fc50d844a3095ff",
+      "crc32": "dc4ac035",
+      "sha1": "72655a785baf81aaf5792c83bf51fdc277a0050f"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196777",
+      "size": "26156",
+      "md5": "229424b7631d35e88723e13fdaaf18e2",
+      "crc32": "d604f0d0",
+      "sha1": "2b2bdf46cd3f7543bccdc7e56d3de55b3b5ba88b",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196779",
+      "size": "17131",
+      "md5": "634c9fae25a170609c492008eab011a9",
+      "crc32": "bf1f8d04",
+      "sha1": "0b30d91a7263879455727027e390387033b5ddf7",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.jpg",
+      "source": "original",
+      "mtime": "1666196775",
+      "size": "230666",
+      "md5": "7f56611c1b162094879ff4315108f124",
+      "crc32": "fc9fb62e",
+      "sha1": "a2e9705c7ccde17fb14e9fb0ce5028b31ed6884e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196781",
+      "size": "1486",
+      "md5": "040321efe8b4f8f81a067ef5bc16d0ae",
+      "crc32": "37574fed",
+      "sha1": "69c1cd4805702ea37d18493fe0ef26b21c570942",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196783",
+      "size": "12323",
+      "md5": "94e2cb5b68108a7c3ae2649e89e27e89",
+      "crc32": "3b17a2b2",
+      "sha1": "c3feec8d0197e3a1d4594187f8c48ab9f55f5679",
+      "format": "JSON"
+    },
+    {
       "name": "chesscom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "31aaa06abd54c5fe11d9b4efef4ee9df4614727d",
-      "mtime": "1666154295",
-      "size": "224616",
-      "md5": "dc197a8713db200bb8c3139991070107",
-      "crc32": "7ebd224a",
-      "sha1": "8515acd7fcfe2daf8ceab6289855437fb81eb44b",
+      "btih": "1956c1bb52cba53d00fd481accbb80e9180ad7c0",
+      "mtime": "1666196835",
+      "size": "225863",
+      "md5": "7ddbd1633b431c3755148725a0f86a03",
+      "crc32": "b9566480",
+      "sha1": "0ff50d9b1c999af736f911c2858ef879dca91134",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesscom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "45c1eed6f51350734787031d78ca30f7",
+      "md5": "3c04009c31a1b1ecbb73c141a40ae28b",
       "summation": "md5"
     },
     {
       "name": "chesscom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154246",
-      "size": "1355776",
-      "md5": "41104ce2a02a9af950f82229cac6e956",
-      "crc32": "7b79a4e2",
-      "sha1": "946f520e354da3ef1ba777d1df1b2dc121cc910f",
+      "mtime": "1666196790",
+      "size": "1359872",
+      "md5": "1c8905c971977272dc4875cfccdade7c",
+      "crc32": "81e5034f",
+      "sha1": "17946c1036a194844e94cfd8d63614996abdc50d",
       "format": "Metadata"
     },
     {
@@ -11051,9 +11113,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1068,
-  "item_last_updated": 1666154295,
-  "item_size": 57049688,
+  "files_count": 1074,
+  "item_last_updated": 1666196835,
+  "item_size": 57352209,
   "metadata": {
     "identifier": "chesscom-2022",
     "collection": [
@@ -11075,7 +11137,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445287671,
+      "task_id": 3445769911,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11083,7 +11145,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1649296111,
+  "uniq": 691880740,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666154324,
+  "created": 1666196859,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/citylimitsnews-2022",
@@ -11979,31 +11979,93 @@
       "format": "JSON"
     },
     {
+      "name": "citylimitsnews-2022-10-19T00:37:18.965439-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "citylimitsnews-2022-10-19T00:37:18.965439-04:00.jpg",
+      "mtime": "1666174300",
+      "size": "9950",
+      "md5": "0b20d6ac823fed7c3a3bd87403c86a2f",
+      "crc32": "f169fa06",
+      "sha1": "c00a6de1386d269405410ea7c3a77351115c03fe"
+    },
+    {
+      "name": "citylimitsnews-2022-10-19T12:26:26.773962-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196796",
+      "size": "23325",
+      "md5": "c99155e2bd00177b24d5db8e9d02bb43",
+      "crc32": "3e83038d",
+      "sha1": "97bcdd3edac20156836cf9fc84ce9735e6308a11",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-19T12:26:26.773962-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196798",
+      "size": "34345",
+      "md5": "569d43901ce362cbf6842be944ac6d29",
+      "crc32": "3718a345",
+      "sha1": "9310c48143373499eea5f10d29fc5ba1b99f6582",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-19T12:26:26.773962-04:00.jpg",
+      "source": "original",
+      "mtime": "1666196794",
+      "size": "275593",
+      "md5": "5c51ca2988fb26f126ad4661bace9398",
+      "crc32": "062e0352",
+      "sha1": "2f185c29b40f3d35e9251c4f9fd7c9e5ef67bc12",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "citylimitsnews-2022-10-19T12:26:26.773962-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196800",
+      "size": "1459",
+      "md5": "45b1e0ffd74b662511762c701747180e",
+      "crc32": "0f3815e6",
+      "sha1": "ef28d7b9b85b6a28ffe70ee3ff9d12984d0443ab",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-19T12:26:26.773962-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196802",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "citylimitsnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04e4c13329f294dbc7cda3f5f43912ed5c6fba04",
-      "mtime": "1666154320",
-      "size": "251202",
-      "md5": "ae68ea76afc8cfdecbc1411b66a55c05",
-      "crc32": "95857b7e",
-      "sha1": "79f19badb9d2cb8f0e7b1a30d589922ee2d682ca",
+      "btih": "ee1cafa507361faf3a3729c3440f443c59bd6a95",
+      "mtime": "1666196855",
+      "size": "252503",
+      "md5": "f358a13faca03a9636eb1dbc8e5354aa",
+      "crc32": "48a1a176",
+      "sha1": "be11dd9113a67b62e03957e5b879776fcae62c72",
       "format": "Archive BitTorrent"
     },
     {
       "name": "citylimitsnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3feecd01c18a6bc9ff1e1dc16228d3a9",
+      "md5": "c77dc6d0b38dcd02513c46fce4ddfc36",
       "summation": "md5"
     },
     {
       "name": "citylimitsnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666154270",
-      "size": "1474560",
-      "md5": "fef3be464ceffccc2c09be2bbeeddbe1",
-      "crc32": "1e0ce2af",
-      "sha1": "a8bc1454a048f79df9093d9432e5af6c3512937d",
+      "mtime": "1666196807",
+      "size": "1478656",
+      "md5": "06fa965da78f8ddb8460ae8351a7ca1f",
+      "crc32": "e4f339f1",
+      "sha1": "68a5590d03aaf84870105953864e01aab9adbf19",
       "format": "Metadata"
     },
     {
@@ -12017,9 +12079,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1160,
-  "item_last_updated": 1666154320,
-  "item_size": 69764775,
+  "files_count": 1166,
+  "item_last_updated": 1666196855,
+  "item_size": 70115046,
   "metadata": {
     "identifier": "citylimitsnews-2022",
     "collection": [
@@ -12041,7 +12103,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445287949,
+      "task_id": 3445770117,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12049,7 +12111,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1099871216,
+  "uniq": 927129871,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]
