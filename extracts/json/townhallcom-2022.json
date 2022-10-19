@@ -1,5 +1,5 @@
 {
-  "created": 1666123376,
+  "created": 1666164466,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/31/items/townhallcom-2022",
@@ -16018,31 +16018,82 @@
       "sha1": "d4d51c296625cb50a06d457604418ac943985bbc"
     },
     {
+      "name": "townhallcom-2022-10-19T03:26:24.273486-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666164388",
+      "size": "42949",
+      "md5": "2b7b2e0af715027c9d51071dc70620f4",
+      "crc32": "315b6748",
+      "sha1": "257e8201e87cc01bd6ec28b57b0d17a4cacddc19",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-19T03:26:24.273486-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666164390",
+      "size": "39692",
+      "md5": "386b945ee383a5084b143b528a4a4479",
+      "crc32": "ace50653",
+      "sha1": "fed2c74925398571e23cf3b2ad3073aa38309ff6",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-19T03:26:24.273486-04:00.jpg",
+      "source": "original",
+      "mtime": "1666164386",
+      "size": "297155",
+      "md5": "cef701e4c1e4fd50832ee835bd9dfc6c",
+      "crc32": "711b2ebd",
+      "sha1": "21e7a04d8f9206029a2f9fd1b2c059e4ab234ee0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "townhallcom-2022-10-19T03:26:24.273486-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666164392",
+      "size": "1441",
+      "md5": "2cb18c987882a65adb2ada1deb872ea6",
+      "crc32": "865bfb71",
+      "sha1": "50c6d92602fd26c1fa007564385d69dd78eca41d",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-19T03:26:24.273486-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666164394",
+      "size": "52713",
+      "md5": "8a41c1cf276c33f2a0961e7bc6f98e68",
+      "crc32": "d289e5f8",
+      "sha1": "c70e8db7bfc0b53e25c084c64388549ad9443450",
+      "format": "JSON"
+    },
+    {
       "name": "townhallcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da5c39bb7010c4bc6505c460c796c20ad3c402ce",
-      "mtime": "1666123344",
-      "size": "331153",
-      "md5": "7ddfea653658be89a02fc1d4d3aaea43",
-      "crc32": "d4458d41",
-      "sha1": "b6a63be73a07f36a6cc5f313d82d6afbda103b11",
+      "btih": "9336e3f03ca34d9ca182af84504a26f6519a2e76",
+      "mtime": "1666164462",
+      "size": "332211",
+      "md5": "908edf5e2783696ea24a8befad09d32d",
+      "crc32": "f8e62cc7",
+      "sha1": "49e0a36da13df56944ca3d026e918cb972e55c6b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "townhallcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f88ff167fcc1cf9db850c88c15c548ba",
+      "md5": "c96e663becbd99572e2ec07cf4cbc659",
       "summation": "md5"
     },
     {
       "name": "townhallcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666123242",
-      "size": "1961984",
-      "md5": "a4b61925d853d8b5a9e68808816dfb20",
-      "crc32": "0e5db44a",
-      "sha1": "8c9d49ae0579f569cd22617f29236263b41030d4",
+      "mtime": "1666164410",
+      "size": "1970176",
+      "md5": "fb1b3fe72e00766c87fa86d5d6a884eb",
+      "crc32": "62af382a",
+      "sha1": "928b018a8d2d122890a6e723ed0983b14b82ed3d",
       "format": "Metadata"
     },
     {
@@ -16056,9 +16107,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1551,
-  "item_last_updated": 1666123344,
-  "item_size": 98943351,
+  "files_count": 1556,
+  "item_last_updated": 1666164462,
+  "item_size": 99386551,
   "metadata": {
     "identifier": "townhallcom-2022",
     "collection": [
@@ -16075,10 +16126,21 @@
     "publicdate": "2022-07-17 15:04:11",
     "addeddate": "2022-07-17 15:04:11"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 2038789553,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445399857,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1605363744,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

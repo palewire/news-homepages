@@ -1,5 +1,5 @@
 {
-  "created": 1666123415,
+  "created": 1666164652,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/zerohedge-2022",
@@ -15990,31 +15990,82 @@
       "sha1": "c7f677eda134394318a5781c6dbdda915a2e95ef"
     },
     {
+      "name": "zerohedge-2022-10-19T03:29:31.612183-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666164575",
+      "size": "33379",
+      "md5": "3d380cadc16e570dae392c16a67a3919",
+      "crc32": "dafe64c2",
+      "sha1": "d44f2b88697e68ea585ce7b621eb340736a34911",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-19T03:29:31.612183-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666164576",
+      "size": "22252",
+      "md5": "cf56d1e1f83aaf2e678f3b97e1abcb48",
+      "crc32": "980ed37c",
+      "sha1": "489a1ae12d8a2a41a2a9f1aab734b90145882e49",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-19T03:29:31.612183-04:00.jpg",
+      "source": "original",
+      "mtime": "1666164573",
+      "size": "259909",
+      "md5": "2dc8cde93eb300b1d12839724a54d517",
+      "crc32": "ae00b377",
+      "sha1": "27b800492be7f4e3e417fba66c59fc030ec21493",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-10-19T03:29:31.612183-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666164578",
+      "size": "1484",
+      "md5": "169a351f0538bc7776a9ad1c359b9191",
+      "crc32": "605448bb",
+      "sha1": "c7ceb7ac80a520307cb67f31bb2520353a1594b0",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-19T03:29:31.612183-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666164580",
+      "size": "50945",
+      "md5": "6ebcb16f280b43b17068edd736d928e7",
+      "crc32": "fd0e7e43",
+      "sha1": "08a8723ef378c9b2cdf173cde7bac3e54c7887a1",
+      "format": "JSON"
+    },
+    {
       "name": "zerohedge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a39813aab3c69ded935bde7fef3746d068782e22",
-      "mtime": "1666123397",
-      "size": "327399",
-      "md5": "bbed59f65b66f3af735e437d9598cb35",
-      "crc32": "9268219c",
-      "sha1": "1e775c06b9523a9671140a21027927e0397bcd51",
+      "btih": "fd833181a235dd4dd998d6f6373ef28a36504e8a",
+      "mtime": "1666164642",
+      "size": "328467",
+      "md5": "025eb2c01cd644dda671e31cc09c28f9",
+      "crc32": "8588955f",
+      "sha1": "0074d49ae0eb835e555c18d032c1cba5309ab385",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohedge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9be951c320ea79b8a813138149f4e06c",
+      "md5": "167b703d206243bc34c32cbe5d7714dd",
       "summation": "md5"
     },
     {
       "name": "zerohedge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666123223",
-      "size": "1961984",
-      "md5": "39ab144701a8dd99efec166d04890801",
-      "crc32": "8847db0f",
-      "sha1": "025a6fef32265a160ec1c98eb524e7d46c01075d",
+      "mtime": "1666164590",
+      "size": "1970176",
+      "md5": "bd0e2bdcfa7e4e427cc5cdf076f563e3",
+      "crc32": "9fb134c9",
+      "sha1": "b2bbd10d8180b2922bbff6f9337ac6618fac2766",
       "format": "Metadata"
     },
     {
@@ -16028,9 +16079,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1549,
-  "item_last_updated": 1666123397,
-  "item_size": 93036801,
+  "files_count": 1554,
+  "item_last_updated": 1666164642,
+  "item_size": 93414030,
   "metadata": {
     "identifier": "zerohedge-2022",
     "collection": [
@@ -16047,10 +16098,21 @@
     "publicdate": "2022-07-17 15:04:04",
     "addeddate": "2022-07-17 15:04:04"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1353481834,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445402084,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 594792810,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }
