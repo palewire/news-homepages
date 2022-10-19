@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 216 screenshots with the Internet Archive.
+The archiving routine has saved 217 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 216 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/discovermag-2022/discovermag-2022-10-18T20:21:23.644633-04:00.jpg">
+  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-10-18T20:21:23.644633-04:00.jpg"
+     alt="Discover at 2022-10-18 20:21:38-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-10-18T20:21:23.644633-04:00.jpg">October 18 at 8:21 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/discovermag-2022/discovermag-2022-10-18T07:58:50.070650-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-10-13T07:50:04.834962-04:00.jpg">October 13 at 7:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/discovermag-2022/discovermag-2022-10-12T19:54:26.172747-04:00.jpg">
-  <img src="https://archive.org/download/discovermag-2022/discovermag-2022-10-12T19:54:26.172747-04:00.jpg"
-     alt="Discover at 2022-10-12 19:54:27-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/discovermag-2022/discovermag-2022-10-12T19:54:26.172747-04:00.jpg">October 12 at 7:54 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 199 hyperlink lists with the Internet Archive.
+The archiving routine has saved 200 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 8:21 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-18T20:21:23.644633-04:00.hyperlinks.json) |
 | [October 18 at 7:59 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-18T07:58:50.070650-04:00.hyperlinks.json) |
 | [October 17 at 7:52 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-17T19:51:52.439300-04:00.hyperlinks.json) |
 | [October 17 at 7:52 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-17T07:52:18.586640-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 7:59 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-15T07:59:19.464913-04:00.hyperlinks.json) |
 | [October 14 at 8:10 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-14T20:10:00.184544-04:00.hyperlinks.json) |
 | [October 14 at 8:00 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-14T08:00:25.174269-04:00.hyperlinks.json) |
-| [October 13 at 7:59 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-13T19:59:26.109707-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 207 accessibility trees with the Internet Archive.
+The archiving routine has saved 208 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 8:21 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-18T20:21:23.644633-04:00.accessibility.json) |
 | [October 18 at 7:59 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-18T07:58:50.070650-04:00.accessibility.json) |
 | [October 17 at 7:52 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-17T19:51:52.439300-04:00.accessibility.json) |
 | [October 17 at 7:52 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-17T07:52:18.586640-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 7:59 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-15T07:59:19.464913-04:00.accessibility.json) |
 | [October 14 at 8:10 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-14T20:10:00.184544-04:00.accessibility.json) |
 | [October 14 at 8:00 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-14T08:00:25.174269-04:00.accessibility.json) |
-| [October 13 at 7:59 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-13T19:59:26.109707-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 176 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 177 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 8:21 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-18T20:21:23.644633-04:00.lighthouse.json) |
 | [October 18 at 7:59 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-18T07:58:50.070650-04:00.lighthouse.json) |
 | [October 17 at 7:52 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-17T19:51:52.439300-04:00.lighthouse.json) |
 | [October 17 at 7:52 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-17T07:52:18.586640-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 7:59 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-15T07:59:19.464913-04:00.lighthouse.json) |
 | [October 14 at 8:10 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-14T20:10:00.184544-04:00.lighthouse.json) |
 | [October 14 at 8:00 AM](https://archive.org/download/discovermag-2022/discovermag-2022-10-14T08:00:25.174269-04:00.lighthouse.json) |
-| [October 13 at 7:59 PM](https://archive.org/download/discovermag-2022/discovermag-2022-10-13T19:59:26.109707-04:00.lighthouse.json) |
 
 
 

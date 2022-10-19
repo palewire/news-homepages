@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 114 screenshots with the Internet Archive.
+The archiving routine has saved 115 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 114 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/cnbc-2022/cnbc-2022-10-18T19:13:56.755962-04:00.jpg">
+  <img src="https://archive.org/download/cnbc-2022/cnbc-2022-10-18T19:13:56.755962-04:00.jpg"
+     alt="CNBC at 2022-10-18 19:14:02-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/cnbc-2022/cnbc-2022-10-18T19:13:56.755962-04:00.jpg">October 18 at 7:14 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/cnbc-2022/cnbc-2022-10-18T06:57:20.967462-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/cnbc-2022/cnbc-2022-10-13T06:48:47.368881-04:00.jpg">October 13 at 6:48 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/cnbc-2022/cnbc-2022-10-12T19:00:47.911570-04:00.jpg">
-  <img src="https://archive.org/download/cnbc-2022/cnbc-2022-10-12T19:00:47.911570-04:00.jpg"
-     alt="CNBC at 2022-10-12 19:00:49-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/cnbc-2022/cnbc-2022-10-12T19:00:47.911570-04:00.jpg">October 12 at 7:00 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 114 hyperlink lists with the Internet Archive.
+The archiving routine has saved 115 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 7:14 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-18T19:13:56.755962-04:00.hyperlinks.json) |
 | [October 18 at 6:57 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-18T06:57:20.967462-04:00.hyperlinks.json) |
 | [October 17 at 6:57 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-17T18:57:42.484700-04:00.hyperlinks.json) |
 | [October 17 at 6:52 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-17T06:52:40.730114-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 6:58 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-15T06:58:35.772279-04:00.hyperlinks.json) |
 | [October 14 at 7:09 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-14T19:09:37.450267-04:00.hyperlinks.json) |
 | [October 14 at 6:59 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-14T06:59:20.558810-04:00.hyperlinks.json) |
-| [October 13 at 7:09 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-13T19:09:22.094856-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 114 accessibility trees with the Internet Archive.
+The archiving routine has saved 115 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 7:14 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-18T19:13:56.755962-04:00.accessibility.json) |
 | [October 18 at 6:57 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-18T06:57:20.967462-04:00.accessibility.json) |
 | [October 17 at 6:57 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-17T18:57:42.484700-04:00.accessibility.json) |
 | [October 17 at 6:52 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-17T06:52:40.730114-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 6:58 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-15T06:58:35.772279-04:00.accessibility.json) |
 | [October 14 at 7:09 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-14T19:09:37.450267-04:00.accessibility.json) |
 | [October 14 at 6:59 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-14T06:59:20.558810-04:00.accessibility.json) |
-| [October 13 at 7:09 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-13T19:09:22.094856-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 114 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 115 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 7:14 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-18T19:13:56.755962-04:00.lighthouse.json) |
 | [October 18 at 6:57 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-18T06:57:20.967462-04:00.lighthouse.json) |
 | [October 17 at 6:57 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-17T18:57:42.484700-04:00.lighthouse.json) |
 | [October 17 at 6:52 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-17T06:52:40.730114-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 6:58 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-15T06:58:35.772279-04:00.lighthouse.json) |
 | [October 14 at 7:09 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-14T19:09:37.450267-04:00.lighthouse.json) |
 | [October 14 at 6:59 AM](https://archive.org/download/cnbc-2022/cnbc-2022-10-14T06:59:20.558810-04:00.lighthouse.json) |
-| [October 13 at 7:09 PM](https://archive.org/download/cnbc-2022/cnbc-2022-10-13T19:09:22.094856-04:00.lighthouse.json) |
 
 
 

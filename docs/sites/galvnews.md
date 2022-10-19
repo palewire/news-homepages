@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 188 screenshots with the Internet Archive.
+The archiving routine has saved 189 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 188 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/galvnews-2022/galvnews-2022-10-18T19:24:40.610600-05:00.jpg">
+  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-10-18T19:24:40.610600-05:00.jpg"
+     alt="Galveston County Daily News at 2022-10-18 19:24:46-05:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-10-18T19:24:40.610600-05:00.jpg">October 18 at 7:24 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/galvnews-2022/galvnews-2022-10-18T07:01:53.226129-05:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-10-13T06:53:00.721682-05:00.jpg">October 13 at 6:53 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/galvnews-2022/galvnews-2022-10-12T18:56:45.207061-05:00.jpg">
-  <img src="https://archive.org/download/galvnews-2022/galvnews-2022-10-12T18:56:45.207061-05:00.jpg"
-     alt="Galveston County Daily News at 2022-10-12 18:56:47-05:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/galvnews-2022/galvnews-2022-10-12T18:56:45.207061-05:00.jpg">October 12 at 6:56 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 177 hyperlink lists with the Internet Archive.
+The archiving routine has saved 178 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 7:24 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-18T19:24:40.610600-05:00.hyperlinks.json) |
 | [October 18 at 7:01 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-18T07:01:53.226129-05:00.hyperlinks.json) |
 | [October 17 at 6:54 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-17T18:54:10.323533-05:00.hyperlinks.json) |
 | [October 17 at 6:56 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-17T06:56:18.942829-05:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 7:01 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-15T07:01:52.956529-05:00.hyperlinks.json) |
 | [October 14 at 7:13 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-14T19:12:57.711046-05:00.hyperlinks.json) |
 | [October 14 at 7:06 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-14T07:06:01.457890-05:00.hyperlinks.json) |
-| [October 13 at 7:03 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-13T19:02:45.870824-05:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 169 accessibility trees with the Internet Archive.
+The archiving routine has saved 170 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 7:24 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-18T19:24:40.610600-05:00.accessibility.json) |
 | [October 18 at 7:01 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-18T07:01:53.226129-05:00.accessibility.json) |
 | [October 17 at 6:54 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-17T18:54:10.323533-05:00.accessibility.json) |
 | [October 17 at 6:56 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-17T06:56:18.942829-05:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 7:01 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-15T07:01:52.956529-05:00.accessibility.json) |
 | [October 14 at 7:13 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-14T19:12:57.711046-05:00.accessibility.json) |
 | [October 14 at 7:06 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-14T07:06:01.457890-05:00.accessibility.json) |
-| [October 13 at 7:02 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-13T19:02:45.870824-05:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 171 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 172 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 7:24 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-18T19:24:40.610600-05:00.lighthouse.json) |
 | [October 18 at 7:02 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-18T07:01:53.226129-05:00.lighthouse.json) |
 | [October 17 at 6:54 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-17T18:54:10.323533-05:00.lighthouse.json) |
 | [October 17 at 6:56 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-17T06:56:18.942829-05:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 7:01 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-15T07:01:52.956529-05:00.lighthouse.json) |
 | [October 14 at 7:13 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-14T19:12:57.711046-05:00.lighthouse.json) |
 | [October 14 at 7:06 AM](https://archive.org/download/galvnews-2022/galvnews-2022-10-14T07:06:01.457890-05:00.lighthouse.json) |
-| [October 13 at 7:03 PM](https://archive.org/download/galvnews-2022/galvnews-2022-10-13T19:02:45.870824-05:00.lighthouse.json) |
 
 
 

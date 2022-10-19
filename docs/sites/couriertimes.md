@@ -234,7 +234,7 @@ Assets gathered by our system and stored in the Internet Archive
 
 ### Screenshots
 
-The archiving routine has saved 57 screenshots with the Internet Archive.
+The archiving routine has saved 58 screenshots with the Internet Archive.
 
 
   <div id="vis--screenshots" style="width: 100%; height: 250px;"></div>
@@ -324,6 +324,15 @@ The archiving routine has saved 57 screenshots with the Internet Archive.
 Here are the 12 most recent screenshots.
 
 <div class="latest-parent">
+
+<div class="latest-child">
+ <a href="https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T20:18:32.354063-04:00.jpg">
+  <img src="https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T20:18:32.354063-04:00.jpg"
+     alt="Bucks County Courier Times at 2022-10-18 20:18:35-04:00 local time"
+     loading="lazy">
+ </a>
+ <p><a href="https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T20:18:32.354063-04:00.jpg">October 18 at 8:18 PM</a></p>
+</div>
 
 <div class="latest-child">
  <a href="https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T07:56:36.196143-04:00.jpg">
@@ -424,20 +433,11 @@ Here are the 12 most recent screenshots.
  <p><a href="https://archive.org/download/couriertimes-2022/couriertimes-2022-10-13T07:50:43.481550-04:00.jpg">October 13 at 7:50 AM</a></p>
 </div>
 
-<div class="latest-child">
- <a href="https://archive.org/download/couriertimes-2022/couriertimes-2022-10-12T19:51:04.051845-04:00.jpg">
-  <img src="https://archive.org/download/couriertimes-2022/couriertimes-2022-10-12T19:51:04.051845-04:00.jpg"
-     alt="Bucks County Courier Times at 2022-10-12 19:51:07-04:00 local time"
-     loading="lazy">
- </a>
- <p><a href="https://archive.org/download/couriertimes-2022/couriertimes-2022-10-12T19:51:04.051845-04:00.jpg">October 12 at 7:51 PM</a></p>
-</div>
-
 </div>
 
 ### Hyperlinks
 
-The archiving routine has saved 57 hyperlink lists with the Internet Archive.
+The archiving routine has saved 58 hyperlink lists with the Internet Archive.
 
 
   <div id="vis--hyperlinks" style="width: 100%; height: 250px;"></div>
@@ -528,6 +528,7 @@ Here are the 10 most recent hyperlink lists.
 
 | Time  |
 | :---- |
+| [October 18 at 8:18 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T20:18:32.354063-04:00.hyperlinks.json) |
 | [October 18 at 7:56 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T07:56:36.196143-04:00.hyperlinks.json) |
 | [October 17 at 7:48 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-17T19:48:29.467402-04:00.hyperlinks.json) |
 | [October 17 at 7:51 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-17T07:51:55.321552-04:00.hyperlinks.json) |
@@ -537,12 +538,11 @@ Here are the 10 most recent hyperlink lists.
 | [October 15 at 7:56 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-15T07:56:41.783003-04:00.hyperlinks.json) |
 | [October 14 at 8:06 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-14T20:06:15.427186-04:00.hyperlinks.json) |
 | [October 14 at 7:58 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-14T07:58:45.935921-04:00.hyperlinks.json) |
-| [October 13 at 7:56 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-13T19:56:46.941499-04:00.hyperlinks.json) |
 
 
 ### Accessibility
 
-The archiving routine has saved 57 accessibility trees with the Internet Archive.
+The archiving routine has saved 58 accessibility trees with the Internet Archive.
 
 
   <div id="vis--accessibility" style="width: 100%; height: 250px;"></div>
@@ -633,6 +633,7 @@ Here are the 10 most recent accessibility trees.
 
 | Time  |
 | :---- |
+| [October 18 at 8:18 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T20:18:32.354063-04:00.accessibility.json) |
 | [October 18 at 7:56 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T07:56:36.196143-04:00.accessibility.json) |
 | [October 17 at 7:48 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-17T19:48:29.467402-04:00.accessibility.json) |
 | [October 17 at 7:51 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-17T07:51:55.321552-04:00.accessibility.json) |
@@ -642,13 +643,12 @@ Here are the 10 most recent accessibility trees.
 | [October 15 at 7:56 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-15T07:56:41.783003-04:00.accessibility.json) |
 | [October 14 at 8:06 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-14T20:06:15.427186-04:00.accessibility.json) |
 | [October 14 at 7:58 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-14T07:58:45.935921-04:00.accessibility.json) |
-| [October 13 at 7:56 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-13T19:56:46.941499-04:00.accessibility.json) |
 
 
 
 ### Lighthouse
 
-The archiving routine has saved 57 Lighthouse audits with the Internet Archive.
+The archiving routine has saved 58 Lighthouse audits with the Internet Archive.
 
 
   <div id="vis--lighthouse" style="width: 100%; height: 250px;"></div>
@@ -739,6 +739,7 @@ Here are the 10 most recent Lighthouse audits.
 
 | Time  |
 | :---- |
+| [October 18 at 8:18 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T20:18:32.354063-04:00.lighthouse.json) |
 | [October 18 at 7:56 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-18T07:56:36.196143-04:00.lighthouse.json) |
 | [October 17 at 7:48 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-17T19:48:29.467402-04:00.lighthouse.json) |
 | [October 17 at 7:52 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-17T07:51:55.321552-04:00.lighthouse.json) |
@@ -748,7 +749,6 @@ Here are the 10 most recent Lighthouse audits.
 | [October 15 at 7:57 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-15T07:56:41.783003-04:00.lighthouse.json) |
 | [October 14 at 8:06 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-14T20:06:15.427186-04:00.lighthouse.json) |
 | [October 14 at 7:58 AM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-14T07:58:45.935921-04:00.lighthouse.json) |
-| [October 13 at 7:56 PM](https://archive.org/download/couriertimes-2022/couriertimes-2022-10-13T19:56:46.941499-04:00.lighthouse.json) |
 
 
 
