@@ -1,5 +1,5 @@
 {
-  "created": 1666159523,
+  "created": 1666181273,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/gazetadopovo-2022",
@@ -13277,31 +13277,93 @@
       "format": "JSON"
     },
     {
+      "name": "gazetadopovo-2022-10-19T03:04:03.678040-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetadopovo-2022-10-19T03:04:03.678040-03:00.jpg",
+      "mtime": "1666180402",
+      "size": "10027",
+      "md5": "f1c92a8234bdc5cf50e76dbbf82fd541",
+      "crc32": "015d540e",
+      "sha1": "df4990419b49f8b84570ce1e6f9adb048827aa30"
+    },
+    {
+      "name": "gazetadopovo-2022-10-19T09:06:05.618703-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666181172",
+      "size": "68631",
+      "md5": "d44b32ccd8397cf52c594db20eb48606",
+      "crc32": "13daa5ee",
+      "sha1": "3f48d4a511b689da8ba7db8595dbd55e2fe01319",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-10-19T09:06:05.618703-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666181174",
+      "size": "98344",
+      "md5": "3b5ab8bce0527d42391cbd4f8f7c68cf",
+      "crc32": "2dd5dfd6",
+      "sha1": "0ec74d58360f27cefdcd42ec07b4db47431ecc91",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-10-19T09:06:05.618703-03:00.jpg",
+      "source": "original",
+      "mtime": "1666181170",
+      "size": "268571",
+      "md5": "525988ca218b87693531e039ddd3d3b8",
+      "crc32": "5b2a9ea7",
+      "sha1": "f1c35ecc4af12712b23b56b541dbdf3c310a0bfc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetadopovo-2022-10-19T09:06:05.618703-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666181175",
+      "size": "1540",
+      "md5": "ec3070e57f42f530790af138e733f97b",
+      "crc32": "8513e9d8",
+      "sha1": "1ca68373be02ba13509d83f0b364f102536857bc",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-10-19T09:06:05.618703-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666181177",
+      "size": "48406",
+      "md5": "0ca9328c504ace01865cb8966ba65ed1",
+      "crc32": "0d4d9fa6",
+      "sha1": "a6a4b0d1e6c9ee162f3ba572a69726f666536515",
+      "format": "JSON"
+    },
+    {
       "name": "gazetadopovo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ca5544fa05faa905ba89c662e57de756819783e",
-      "mtime": "1666159514",
-      "size": "277649",
-      "md5": "bb69189d397ff853d1f12121d2fa54d9",
-      "crc32": "e37f4532",
-      "sha1": "0490fb611f304237b4d7ac3d475b9cf9dafe7d08",
+      "btih": "d128ef6a6fe4a0dea1b3d8974014003f9e63b35b",
+      "mtime": "1666181265",
+      "size": "278941",
+      "md5": "050f05b3294cb2c688b5219fd75516fc",
+      "crc32": "4ccec2d8",
+      "sha1": "7c662b68be4b02f790ccb3b3bcbe1434362424eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetadopovo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "496ba441115f2a3aa42cc5d818c0ab55",
+      "md5": "b25574cb8d7a4a50316fcc11a0975f6a",
       "summation": "md5"
     },
     {
       "name": "gazetadopovo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666159459",
-      "size": "1650688",
-      "md5": "786b6d80f0d4bd7255d32c147c196a56",
-      "crc32": "c499e528",
-      "sha1": "72764663ca45fbd9c00cd0994d163b93776b5c25",
+      "mtime": "1666181199",
+      "size": "1658880",
+      "md5": "5ea8c7afc6dc2c2dcde4795789e57d38",
+      "crc32": "868cc150",
+      "sha1": "c2f879dce7dfde997df20968a8fd14b69ba1a2da",
       "format": "Metadata"
     },
     {
@@ -13315,9 +13377,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1288,
-  "item_last_updated": 1666159514,
-  "item_size": 110141898,
+  "files_count": 1294,
+  "item_last_updated": 1666181265,
+  "item_size": 110646901,
   "metadata": {
     "identifier": "gazetadopovo-2022",
     "collection": [
@@ -13339,7 +13401,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445346876,
+      "task_id": 3445604347,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13347,7 +13409,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1604782133,
+  "uniq": 1946758333,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
