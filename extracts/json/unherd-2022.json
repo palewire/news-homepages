@@ -1,5 +1,6 @@
 {
-  "created": 1666164569,
+  "conflict": 1666171811,
+  "created": 1666171811,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/7/items/unherd-2022",
@@ -9121,6 +9122,17 @@
       "format": "JSON"
     },
     {
+      "name": "unherd-2022-10-19T08:28:04.854188+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "unherd-2022-10-19T08:28:04.854188+01:00.jpg",
+      "mtime": "1666171753",
+      "size": "10260",
+      "md5": "2b4726222191d24831f5a53a9b8837e2",
+      "crc32": "e921fe1a",
+      "sha1": "46512643806fb25ad34d8aef74f11a1368538431"
+    },
+    {
       "name": "unherd-2022_archive.torrent",
       "source": "metadata",
       "btih": "cf4e610acdd248c26a6fdc96a8c22b7684f2c253",
@@ -9135,7 +9147,7 @@
       "name": "unherd-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a405c589e5fb260d2ecd21e7533c7a91",
+      "md5": "5ded869b179b12b6c09ebdeed6d14328",
       "summation": "md5"
     },
     {
@@ -9159,9 +9171,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 886,
-  "item_last_updated": 1666164561,
-  "item_size": 52204873,
+  "files_count": 887,
+  "item_last_updated": 1666171753,
+  "item_size": 52215133,
   "metadata": {
     "identifier": "unherd-2022",
     "collection": [
@@ -9183,15 +9195,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445401125,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3445488160,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445491591,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1029154008,
+  "uniq": 660030861,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

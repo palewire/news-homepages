@@ -1,5 +1,5 @@
 {
-  "created": 1666164272,
+  "created": 1666171631,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/34/items/simple_flying-2022",
@@ -10831,31 +10831,82 @@
       "format": "JSON"
     },
     {
+      "name": "simple_flying-2022-10-19T08:23:24.715236+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "simple_flying-2022-10-19T08:23:24.715236+01:00.jpg",
+      "mtime": "1666171561",
+      "size": "9664",
+      "md5": "e9048fa85b51c2c79a975162c5ccb7cc",
+      "crc32": "715291d5",
+      "sha1": "6bb0140964b1a76b10ae23580cb38e23dc5b6c84"
+    },
+    {
+      "name": "simple_flying-2022-10-19T10:25:16.445598+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666171518",
+      "size": "35104",
+      "md5": "8952d5bd38dcff5f433379f146b59871",
+      "crc32": "3628d232",
+      "sha1": "496650ece3a238ee9f0e3b38afa67e377c398fef",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-19T10:25:16.445598+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666171520",
+      "size": "26323",
+      "md5": "a508c5b4cd9decd4584a1e231e6d6f01",
+      "crc32": "ca5d3c61",
+      "sha1": "8e46142bfe73a73d04b41daec53ef2d04a4c16f5",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-19T10:25:16.445598+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666171522",
+      "size": "1477",
+      "md5": "31e98cf1ffe1c3ba11532a55af6a99b3",
+      "crc32": "94115cb0",
+      "sha1": "b6d0d0ef123fa0d6682198290c1c6bb34a4890a0",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-19T10:25:16.445598+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666171526",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "simple_flying-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1fa9a92ee55910f1f6ea2e125789e3d0913c9439",
-      "mtime": "1666164267",
-      "size": "226737",
-      "md5": "de4633c31bc2276cc708d69ff945a0a2",
-      "crc32": "50d11040",
-      "sha1": "850cd229fa56f0af82f1eb4299c58a4d356fad89",
+      "btih": "3688093c988dbc5689788d72b571f46ae49455f4",
+      "mtime": "1666171618",
+      "size": "227807",
+      "md5": "ed9d2816e1f0d2dcd09b2153e63a1823",
+      "crc32": "ae3637b9",
+      "sha1": "461ef6826a93be719fcdd827b005d62656267c3d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "simple_flying-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36dad6dd006fbba6dc23e43602ac87a2",
+      "md5": "1250ab926703976025861ea7e6bd52c3",
       "summation": "md5"
     },
     {
       "name": "simple_flying-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666164221",
-      "size": "1355776",
-      "md5": "a74fbde38dc8208fb44bf8afb2c56b8c",
-      "crc32": "eb7ad43b",
-      "sha1": "914179f426ed0d12d3cbe37f60561675024584a4",
+      "mtime": "1666171599",
+      "size": "1363968",
+      "md5": "22869170ce24759d00b24116906e8b66",
+      "crc32": "4fe53cdf",
+      "sha1": "d2f21dc0e5ee2cfdfc2fa4259547926a7350177a",
       "format": "Metadata"
     },
     {
@@ -10869,9 +10920,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1052,
-  "item_last_updated": 1666164267,
-  "item_size": 60749374,
+  "files_count": 1057,
+  "item_last_updated": 1666171618,
+  "item_size": 60831406,
   "metadata": {
     "identifier": "simple_flying-2022",
     "collection": [
@@ -10893,7 +10944,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445397669,
+      "task_id": 3445489597,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10901,7 +10952,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1271819092,
+  "uniq": 1237666474,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

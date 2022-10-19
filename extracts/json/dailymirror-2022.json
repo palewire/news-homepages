@@ -1,5 +1,6 @@
 {
-  "created": 1666164000,
+  "conflict": 1666171719,
+  "created": 1666171719,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/29/items/dailymirror-2022",
@@ -18003,6 +18004,17 @@
       "format": "JSON"
     },
     {
+      "name": "dailymirror-2022-10-19T07:00:29.417251+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailymirror-2022-10-19T07:00:29.417251+01:00.jpg",
+      "mtime": "1666171662",
+      "size": "11188",
+      "md5": "33c743b0bfd621f08c2c76823266f4ec",
+      "crc32": "38e886f4",
+      "sha1": "33ad62d3f443c9e84d9ee3f38a41f8ee9566fcb2"
+    },
+    {
       "name": "dailymirror-2022_archive.torrent",
       "source": "metadata",
       "btih": "1aa0ac35d00ca6036979d260c216a21ead58b9b5",
@@ -18017,7 +18029,7 @@
       "name": "dailymirror-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cb1cad63343b7f862b838dd1dccea0a",
+      "md5": "ed3912583a79b8900c0665ba6799b5e6",
       "summation": "md5"
     },
     {
@@ -18041,9 +18053,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1741,
-  "item_last_updated": 1666159395,
-  "item_size": 180047476,
+  "files_count": 1742,
+  "item_last_updated": 1666171662,
+  "item_size": 180058664,
   "metadata": {
     "identifier": "dailymirror-2022",
     "collection": [
@@ -18065,15 +18077,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445345585,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3445488781,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3445490447,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1341387515,
+  "uniq": 1564701453,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
