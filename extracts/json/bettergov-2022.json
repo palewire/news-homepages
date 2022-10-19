@@ -1,5 +1,5 @@
 {
-  "created": 1666109904,
+  "created": 1666134696,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/bettergov-2022",
@@ -17332,31 +17332,82 @@
       "sha1": "c4d6247162e5dcdc8b4c87916cf5400af7a8dc4e"
     },
     {
+      "name": "bettergov-2022-10-18T18:10:09.666828-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134613",
+      "size": "12855",
+      "md5": "57f65a7cf9bd39be3a0c79809bbe0cab",
+      "crc32": "570fde42",
+      "sha1": "0205e83dbc77590f260f26317bc3748d3bee20e0",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-10-18T18:10:09.666828-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134615",
+      "size": "17233",
+      "md5": "9bff9117e2d95a1f824e3ccdc06009a1",
+      "crc32": "75bf5454",
+      "sha1": "4211a1d35acdc80b6dc9835bbc4bedb3927ceff3",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-10-18T18:10:09.666828-05:00.jpg",
+      "source": "original",
+      "mtime": "1666134611",
+      "size": "307563",
+      "md5": "24a8898a946d358f7cfa6151ab379eca",
+      "crc32": "1dd81151",
+      "sha1": "82688b2824911a601185eb92cfa848b023815e74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bettergov-2022-10-18T18:10:09.666828-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134617",
+      "size": "1484",
+      "md5": "012b6a564ce920cbecd44f7dd7e316e8",
+      "crc32": "aea434c2",
+      "sha1": "ad711eed7fa6d6831263eaea24763bdc9cfd2231",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-10-18T18:10:09.666828-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134618",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bettergov-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04169060cf1b09af5763d0962ef600ba65b80169",
-      "mtime": "1666109774",
-      "size": "355032",
-      "md5": "024ed8c2f8b781922efa6bf544ce7682",
-      "crc32": "638a1186",
-      "sha1": "cfee75d796b3776d302f318f955c9aa7852cc538",
+      "btih": "e87e3eb547a445e7a2bc7dca614d9dcb9b6363f2",
+      "mtime": "1666134690",
+      "size": "356098",
+      "md5": "37a71fb17238881beda32ece953d32ba",
+      "crc32": "1debdf65",
+      "sha1": "59407fb8c8ca0f2e2b8b5f6ec2a899610cf76107",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bettergov-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f52f60c91e7565b2bf0d841d89361015",
+      "md5": "babbf02d446f95ac425513a4d1a2ce68",
       "summation": "md5"
     },
     {
       "name": "bettergov-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666109629",
-      "size": "2105344",
-      "md5": "7c196461c2c595f1779ce356e2e36d24",
-      "crc32": "134dda87",
-      "sha1": "12c113e04ec6cc0e0972a5351329383c4426c8b9",
+      "mtime": "1666134629",
+      "size": "2113536",
+      "md5": "3b18db6026679a89ce064b63a1c78562",
+      "crc32": "556ff762",
+      "sha1": "7c365c5ac5acb6b38c43cfaf52f3ae735b36609d",
       "format": "Metadata"
     },
     {
@@ -17370,9 +17421,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1677,
-  "item_last_updated": 1666109774,
-  "item_size": 108824600,
+  "files_count": 1682,
+  "item_last_updated": 1666134690,
+  "item_size": 109173195,
   "metadata": {
     "identifier": "bettergov-2022",
     "collection": [
@@ -17389,10 +17440,21 @@
     "publicdate": "2022-07-09 03:56:41",
     "addeddate": "2022-07-09 03:56:41"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 1719251522,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445103909,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2131361436,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }
