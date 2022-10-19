@@ -8,8 +8,8 @@ from rich.progress import track
 
 from . import utils
 
-RSS_DIR = utils.DOCS_DIR / "_extra" / "rss"
-TEMPLATE_DIR = utils.DOCS_DIR / "_templates/"
+RSS_DIR = utils.SITE_DIR / "_extra" / "rss"
+TEMPLATE_DIR = utils.SITE_DIR / "_templates/"
 TEMPLATE_LOADER = jinja2.FileSystemLoader(searchpath=TEMPLATE_DIR)
 TEMPLATE_ENV = jinja2.Environment(loader=TEMPLATE_LOADER)
 
