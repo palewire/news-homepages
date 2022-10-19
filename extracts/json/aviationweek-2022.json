@@ -1,5 +1,10 @@
 {
-  "created": 1666090673,
+  "aviationweek-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1666138588,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/3/items/aviationweek-2022",
@@ -7384,31 +7389,82 @@
       "sha1": "c0fcf833b353d45ffb825f4400ad084d5b9efe48"
     },
     {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134634",
+      "size": "27373",
+      "md5": "9e139197e512a73916a764484615a892",
+      "crc32": "15dd7bf9",
+      "sha1": "89a251e91226d20e3a2c9a6f14b877fc25be1550",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134636",
+      "size": "36540",
+      "md5": "9a3971a8414d64dc2368a364a440bfb5",
+      "crc32": "01da312a",
+      "sha1": "aa65e858e8ba68301996d2f866cb3446952a0a1d",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.jpg",
+      "source": "original",
+      "mtime": "1666134633",
+      "size": "199406",
+      "md5": "3556142685e50960cf9af9126acd9aa4",
+      "crc32": "f18c129c",
+      "sha1": "cfbe7ba004d944193159c2741aec8eaac41462f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134638",
+      "size": "1475",
+      "md5": "0a0235b88b7d4ae5a7c803a349d1208c",
+      "crc32": "58ce0a46",
+      "sha1": "56f0aad95ab798679a548f866edd4e97290ad7af",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134639",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "aviationweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ac3006aa1814fd2727c1c0adf4854ace7c2af93",
-      "mtime": "1666090636",
-      "size": "154282",
-      "md5": "5c13161772a5a3432669f3912dbd0427",
-      "crc32": "5ed8998e",
-      "sha1": "717b181076ad64f891015125fb8eb9b5cbdc83ff",
+      "btih": "57b9fb1043278f6da412628c85bdb1620ac7fd3a",
+      "mtime": "1666134694",
+      "size": "155343",
+      "md5": "6ba2ae3bce457e1a4e4f20d529afbe84",
+      "crc32": "2c8e3e02",
+      "sha1": "1236bd6802765a00ef4cc0518462a205f5760240",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aviationweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3eb4185c84dda4ea4a094e0ae752cad",
+      "md5": "f2ac2853b5fca8eef1f70b855ddd2f8f",
       "summation": "md5"
     },
     {
       "name": "aviationweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666090541",
-      "size": "925696",
-      "md5": "2081149f07575d85a51bf46bc65d7f71",
-      "crc32": "3ec1838a",
-      "sha1": "ec17f1b46e0672c80a761f01a725b6721b7ed472",
+      "mtime": "1666134646",
+      "size": "933888",
+      "md5": "b37bace124611f7b74d9e7ed861fe10a",
+      "crc32": "510a5b8b",
+      "sha1": "d5e3c47aa593f72894d54c2ace817388379d500b",
       "format": "Metadata"
     },
     {
@@ -7422,9 +7478,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 718,
-  "item_last_updated": 1666090636,
-  "item_size": 42153889,
+  "files_count": 723,
+  "item_last_updated": 1666134694,
+  "item_size": 42428138,
   "metadata": {
     "identifier": "aviationweek-2022",
     "collection": [
@@ -7441,10 +7497,21 @@
     "publicdate": "2022-08-20 23:00:04",
     "addeddate": "2022-08-20 23:00:04"
   },
+  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "uniq": 1221621049,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445103961,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1442525898,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }
