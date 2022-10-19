@@ -1,5 +1,5 @@
 {
-  "created": 1666171631,
+  "created": 1666210861,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/34/items/simple_flying-2022",
@@ -10882,31 +10882,82 @@
       "format": "JSON"
     },
     {
+      "name": "simple_flying-2022-10-19T21:19:46.992454+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666210797",
+      "size": "35073",
+      "md5": "dac80eaa60e9d687b5ee26a733b5d8f3",
+      "crc32": "191ba10b",
+      "sha1": "23ca83f3e185cd13d76bf831e2de8b93c750f4ec",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-19T21:19:46.992454+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666210804",
+      "size": "26204",
+      "md5": "aecb0ee0714220aede8172734f77f94d",
+      "crc32": "80b47555",
+      "sha1": "ee9c9566e0fc85d2db032b152917168b731b838c",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-19T21:19:46.992454+01:00.jpg",
+      "source": "original",
+      "mtime": "1666210795",
+      "size": "250929",
+      "md5": "a0af2e6637296f8241466816cadae9d1",
+      "crc32": "1ed0f191",
+      "sha1": "bab135285521b4d715d224a6e8484863a6332c7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "simple_flying-2022-10-19T21:19:46.992454+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666210806",
+      "size": "1477",
+      "md5": "ebf1b2819d37790fd0e9c2ad23311090",
+      "crc32": "c50dfc26",
+      "sha1": "4145535d24cc3e0f710c47ee049a1e256c126454",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-10-19T21:19:46.992454+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666210807",
+      "size": "30981",
+      "md5": "b6314475189cc30a3681237e2f0e9d2c",
+      "crc32": "5539e7ff",
+      "sha1": "623af45281d587472301c6fc527c4a3b5297c14f",
+      "format": "JSON"
+    },
+    {
       "name": "simple_flying-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3688093c988dbc5689788d72b571f46ae49455f4",
-      "mtime": "1666171618",
-      "size": "227807",
-      "md5": "ed9d2816e1f0d2dcd09b2153e63a1823",
-      "crc32": "ae3637b9",
-      "sha1": "461ef6826a93be719fcdd827b005d62656267c3d",
+      "btih": "4a8fb41dbc987d7fcc1f09c81e499f463bf24ada",
+      "mtime": "1666210855",
+      "size": "228895",
+      "md5": "dee02b7bc1e6edd5d185b1c9f385b801",
+      "crc32": "d8f69c83",
+      "sha1": "d47d5a93802c860b633956a32e3271bab085d000",
       "format": "Archive BitTorrent"
     },
     {
       "name": "simple_flying-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1250ab926703976025861ea7e6bd52c3",
+      "md5": "0abc55c315cb8dc95138e9f13ae6d5cb",
       "summation": "md5"
     },
     {
       "name": "simple_flying-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666171599",
-      "size": "1363968",
-      "md5": "22869170ce24759d00b24116906e8b66",
-      "crc32": "4fe53cdf",
-      "sha1": "d2f21dc0e5ee2cfdfc2fa4259547926a7350177a",
+      "mtime": "1666210811",
+      "size": "1372160",
+      "md5": "002927dd2cd56b74a8e0c0169b34f93a",
+      "crc32": "76aab097",
+      "sha1": "4ec17d2d553ed4fdcbb9845e84f91c6bac62e4e8",
       "format": "Metadata"
     },
     {
@@ -10920,9 +10971,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1057,
-  "item_last_updated": 1666171618,
-  "item_size": 60831406,
+  "files_count": 1062,
+  "item_last_updated": 1666210855,
+  "item_size": 61185350,
   "metadata": {
     "identifier": "simple_flying-2022",
     "collection": [
@@ -10944,7 +10995,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445489597,
+      "task_id": 3445918289,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10952,7 +11003,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1237666474,
+  "uniq": 1800424784,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666164175,
+  "created": 1666210747,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/10/items/seacoastonline-2022",
@@ -3559,31 +3559,93 @@
       "format": "JSON"
     },
     {
+      "name": "seacoastonline-2022-10-19T03:21:58.933777-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seacoastonline-2022-10-19T03:21:58.933777-04:00.jpg",
+      "mtime": "1666185405",
+      "size": "9495",
+      "md5": "5fb3f4649cdb537341fd128c591ea249",
+      "crc32": "34b8a9fd",
+      "sha1": "fca6f815eaf80509a3a6346d7560f8cb681fc1e4"
+    },
+    {
+      "name": "seacoastonline-2022-10-19T16:18:03.735492-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666210690",
+      "size": "23553",
+      "md5": "d2eeb2c3e74ae9fe62e534991609cc3c",
+      "crc32": "e905b14b",
+      "sha1": "24c3d91f565caae56b69041d3f6349ed06a3f128",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-19T16:18:03.735492-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666210692",
+      "size": "34430",
+      "md5": "b331ecb4575add1f52b20e5798d66f9b",
+      "crc32": "56b485e4",
+      "sha1": "9ea08bba56f4631f7e2034fd47cfc8abea8c270b",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-19T16:18:03.735492-04:00.jpg",
+      "source": "original",
+      "mtime": "1666210688",
+      "size": "297144",
+      "md5": "54df06142ecfbceba95b761c9ca36df5",
+      "crc32": "341bb39c",
+      "sha1": "829e4e236358601dc07ff0889f7b4ac2b9ce5679",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seacoastonline-2022-10-19T16:18:03.735492-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666210695",
+      "size": "1531",
+      "md5": "0c5a0e03d3b7493c80e55f4d24b07d70",
+      "crc32": "4c521886",
+      "sha1": "64bffb4f1dbb3d88b57b8cce1982a9daa34b57e4",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-19T16:18:03.735492-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666210698",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "seacoastonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70552b8e4d08877f639881899be4c1832345a5f1",
-      "mtime": "1666164172",
-      "size": "75949",
-      "md5": "06427f1a81c5b0dd54ccf7db8dc1e6b7",
-      "crc32": "bb2c0fd9",
-      "sha1": "3408cf702331240c0925df3a4c7484300254f3d1",
+      "btih": "6d9f642a09ba382cdf7340053c711c5313c2b834",
+      "mtime": "1666210739",
+      "size": "77250",
+      "md5": "35116fd26ff8670f853a92732c33f98b",
+      "crc32": "03f8b7da",
+      "sha1": "7d297b5bca88c68861850e248bef2480c74f2119",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seacoastonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9f14df57def80cdc16d7ba0df5328a22",
+      "md5": "7a32151075d9145c1a4d8acf61a050ca",
       "summation": "md5"
     },
     {
       "name": "seacoastonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666164133",
-      "size": "462848",
-      "md5": "be5425628c07e4e5ce30b41bd9f6c4ab",
-      "crc32": "f6d21c21",
-      "sha1": "4fb8832f73da7ee7945ce852cde41947374642fa",
+      "mtime": "1666210702",
+      "size": "471040",
+      "md5": "4522c8c57fb540c74f1a2bcff45d92e6",
+      "crc32": "a81804de",
+      "sha1": "236b04bf3064620b6927b2791f6970987c02958a",
       "format": "Metadata"
     },
     {
@@ -3597,9 +3659,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 348,
-  "item_last_updated": 1666164172,
-  "item_size": 24441033,
+  "files_count": 354,
+  "item_last_updated": 1666210739,
+  "item_size": 24816881,
   "metadata": {
     "identifier": "seacoastonline-2022",
     "collection": [
@@ -3621,7 +3683,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445396499,
+      "task_id": 3445917030,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3629,7 +3691,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 686731644,
+  "uniq": 932316532,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

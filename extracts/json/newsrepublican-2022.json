@@ -1,5 +1,5 @@
 {
-  "created": 1666202751,
+  "created": 1666210451,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/newsrepublican-2022",
@@ -4387,31 +4387,93 @@
       "format": "JSON"
     },
     {
+      "name": "newsrepublican-2022-10-19T13:01:20.307299-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-19T13:01:20.307299-05:00.jpg",
+      "mtime": "1666210418",
+      "size": "8675",
+      "md5": "c034842731ffca60bd8b984c69cfe489",
+      "crc32": "ca9010c8",
+      "sha1": "8de5c9f3a3a27ad46794dd6a3d5dc426706a7a87"
+    },
+    {
+      "name": "newsrepublican-2022-10-19T15:13:10.321544-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666210393",
+      "size": "22458",
+      "md5": "5611c1ea7ced1c802a259fc1dba9ccc0",
+      "crc32": "d0b01fab",
+      "sha1": "cd53068619ec56cb8d16ad1700270214d4b3f6d1",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-19T15:13:10.321544-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666210395",
+      "size": "28372",
+      "md5": "9d2e97cf1ab6a75391c1ad6d02878fe9",
+      "crc32": "a9905fca",
+      "sha1": "592644e8c1eecbd1d3a1a73bbd05f3a418382c1b",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-19T15:13:10.321544-05:00.jpg",
+      "source": "original",
+      "mtime": "1666210392",
+      "size": "218808",
+      "md5": "c158f7988017749a0456dd8b9065227d",
+      "crc32": "2a6b7376",
+      "sha1": "530e8c84ad9b120d98ea0dfb24c60f74f4d01015",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-19T15:13:10.321544-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666210397",
+      "size": "1630",
+      "md5": "17666dd7bd2da3552914cb03e41fc2d0",
+      "crc32": "7e3c6549",
+      "sha1": "88d0f45673a060744a6207aed54986e099fa7618",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-19T15:13:10.321544-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666210399",
+      "size": "74894",
+      "md5": "5cfe544fbc8768097999cb72c17ec9e9",
+      "crc32": "3ec59b1f",
+      "sha1": "8d26754a8e4d82a1047c8c4c261a4dcba7ddd700",
+      "format": "JSON"
+    },
+    {
       "name": "newsrepublican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "254e178596543b1766fcfb566b8d7812953c9c23",
-      "mtime": "1666202714",
-      "size": "93254",
-      "md5": "8a102aa21a723d17894b479a93952d7e",
-      "crc32": "2dea913f",
-      "sha1": "791a796b49b086576183266a7ccf9a1ad7444ff4",
+      "btih": "649c7c48a1fc88ca51059404662c121709c52083",
+      "mtime": "1666210443",
+      "size": "94557",
+      "md5": "34391b8bac04b8a56d52a335969f787c",
+      "crc32": "10d2880c",
+      "sha1": "b8a0e01e4d5d305dbf9497998f18a5246f9ee755",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsrepublican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d0674d889027e4cf2ee766c1e1db63b7",
+      "md5": "4ab2cb869112e3d49a07e317d8a29bdd",
       "summation": "md5"
     },
     {
       "name": "newsrepublican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666202666",
-      "size": "565248",
-      "md5": "4d8e501349f04b7728d0c208119f4410",
-      "crc32": "cdce01ff",
-      "sha1": "2f4e7bf14ac79bf1dd40d137342674e1dfb26661",
+      "mtime": "1666210438",
+      "size": "573440",
+      "md5": "b7c8aa495d51e66dfaa814783a661a1d",
+      "crc32": "60097006",
+      "sha1": "14ca77017b68d3536c19ae41742704e7f473fad4",
       "format": "Metadata"
     },
     {
@@ -4425,9 +4487,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 428,
-  "item_last_updated": 1666202714,
-  "item_size": 29307321,
+  "files_count": 434,
+  "item_last_updated": 1666210443,
+  "item_size": 29671653,
   "metadata": {
     "identifier": "newsrepublican-2022",
     "collection": [
@@ -4449,7 +4511,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445831009,
+      "task_id": 3445913643,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4457,7 +4519,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 555443096,
+  "uniq": 320374435,
   "workable_servers": [
     "ia601402.us.archive.org"
   ]

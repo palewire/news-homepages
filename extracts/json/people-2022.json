@@ -1,5 +1,5 @@
 {
-  "created": 1666163994,
+  "created": 1666210618,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/people-2022",
@@ -11911,31 +11911,83 @@
       "format": "JSON"
     },
     {
+      "name": "people-2022-10-19T03:18:33.434514-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "people-2022-10-19T03:18:33.434514-04:00.jpg",
+      "mtime": "1666185102",
+      "size": "10372",
+      "md5": "e4231407198537e1652cfa134b217cfb",
+      "crc32": "f153b00c",
+      "sha1": "ea74ac812a806d4beeea29836e102d04ed82e162"
+    },
+    {
+      "name": "people-2022-10-19T16:15:39.261818-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666210558",
+      "size": "34835",
+      "md5": "c6ee406b75ef71410f042ece87fd18c1",
+      "crc32": "a22c3396",
+      "sha1": "b3fea74b3cc4915d82c42084cb085a26d6f7f5e4",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-10-19T16:15:39.261818-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666210560",
+      "size": "54600",
+      "md5": "88677e1a6d81c39cb9c7b3ce9b720a33",
+      "crc32": "1e891f44",
+      "sha1": "d93c8eec3364cc435b9edffcbeabc873ee99a08a",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-10-19T16:15:39.261818-04:00.jpg",
+      "source": "original",
+      "mtime": "1666210557",
+      "size": "322977",
+      "md5": "75e6218c3d5b4bd965c8ac725c71436c",
+      "crc32": "e37c6173",
+      "sha1": "b475ea21a7be51be2c9949f3e2e505ffb2a8e74e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "people-2022-10-19T16:15:39.261818-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666210561",
+      "size": "1420",
+      "md5": "b3bef1809e93fac19bac821c99dd01e8",
+      "crc32": "639c8540",
+      "sha1": "23f300db88bb17da1c9d60aea171035a440fd074",
+      "format": "JSON"
+    },
+    {
       "name": "people-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6bd79de490d56344dbea5d97f207f7d7672824b8",
-      "mtime": "1666163992",
-      "size": "241223",
-      "md5": "67871c20739863453f0b38c2e5448091",
-      "crc32": "b2645a8e",
-      "sha1": "55a358d8d8fbddd5643c3a34b5d025c7f56f9b7f",
+      "btih": "467590871832ffa3befe499863fa968e89b0cf71",
+      "mtime": "1666210615",
+      "size": "242273",
+      "md5": "3e6f621f3b4f64e5e62f3590160aba0b",
+      "crc32": "97ec0f8a",
+      "sha1": "805461a326ebdf645cd0f888bcaac2b49210db77",
       "format": "Archive BitTorrent"
     },
     {
       "name": "people-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a46162229c32610be53a8c698d1b8c38",
+      "md5": "2570a3fbaf4726dc317725afba99c60a",
       "summation": "md5"
     },
     {
       "name": "people-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666163931",
-      "size": "1437696",
-      "md5": "d48877ba5a561d192572e69c95e9a8a3",
-      "crc32": "76ac78c9",
-      "sha1": "3afd77d0eee0b644e272a9397c2cb71d0afa34eb",
+      "mtime": "1666210566",
+      "size": "1441792",
+      "md5": "157a883cec641596f8673bb38e12b706",
+      "crc32": "7ce24a7e",
+      "sha1": "f8a7f5f62de5a907130aa8921d480631331c9500",
       "format": "Metadata"
     },
     {
@@ -11949,9 +12001,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1152,
-  "item_last_updated": 1666163992,
-  "item_size": 95777125,
+  "files_count": 1157,
+  "item_last_updated": 1666210615,
+  "item_size": 96206475,
   "metadata": {
     "identifier": "people-2022",
     "collection": [
@@ -11973,7 +12025,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445394239,
+      "task_id": 3445915544,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11981,7 +12033,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1379153261,
+  "uniq": 139733247,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

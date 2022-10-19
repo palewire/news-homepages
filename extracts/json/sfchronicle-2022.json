@@ -1,5 +1,5 @@
 {
-  "created": 1666164265,
+  "created": 1666210801,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -19237,31 +19237,93 @@
       "format": "JSON"
     },
     {
+      "name": "sfchronicle-2022-10-19T00:23:00.568989-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-10-19T00:23:00.568989-07:00.jpg",
+      "mtime": "1666185763",
+      "size": "9939",
+      "md5": "c81784024c7e096faf4f00daff3ab1fd",
+      "crc32": "bfe87490",
+      "sha1": "7c830d3a82fa987d11f2d74fee0a98fa7e50512b"
+    },
+    {
+      "name": "sfchronicle-2022-10-19T13:18:16.479692-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666210727",
+      "size": "92629",
+      "md5": "21721ab1a18049043bcd441338568209",
+      "crc32": "84b30d3a",
+      "sha1": "3cf7dc9cfde9768f0739e926e3ab2f960041bdf2",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-19T13:18:16.479692-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666210729",
+      "size": "108161",
+      "md5": "1678fac0ed28be027a59fdccceac9a7f",
+      "crc32": "33f4b74f",
+      "sha1": "795c0c5f8d131582c2b522029bc1c3e29dd571ed",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-19T13:18:16.479692-07:00.jpg",
+      "source": "original",
+      "mtime": "1666210725",
+      "size": "332865",
+      "md5": "f96baf7519c2c5091e876c26f5eebd3f",
+      "crc32": "c5e3429a",
+      "sha1": "2d92dfc3c3b66c9020f64bd48d4ea2b281a55f43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sfchronicle-2022-10-19T13:18:16.479692-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666210731",
+      "size": "1504",
+      "md5": "e852a3961253b7edc3964c4c72c97ce8",
+      "crc32": "c1705f41",
+      "sha1": "ef39cbe5e6a04188c432a2704b448534cbf62c4a",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-19T13:18:16.479692-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666210733",
+      "size": "253",
+      "md5": "2d529158380e5fada8130b14482d5d5b",
+      "crc32": "41b4c122",
+      "sha1": "1ffab78df14e92ad8b4345dc76bbb2f5b5ea70df",
+      "format": "JSON"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b00f51df43932814929e100b07925c278d03e0d0",
-      "mtime": "1666164259",
-      "size": "398572",
-      "md5": "fa9a15c0d64f80938e8116d6f0a072a2",
-      "crc32": "1df4c4b6",
-      "sha1": "0672b8a96f3bb54f9007ac6264b12798a509eff7",
+      "btih": "bbef03cdc09f22608c759962cabeb1352ef9b5f2",
+      "mtime": "1666210795",
+      "size": "399856",
+      "md5": "9b3ebdd0bdde1b8a7569c7116d7b3e19",
+      "crc32": "cfc41fe6",
+      "sha1": "c16c583301b32e0907bc66640871d097ba1460b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ea0b57ff0e3a7969d87f6ea8869b47d5",
+      "md5": "21f3877a0b5802b97b4ee1953792e16f",
       "summation": "md5"
     },
     {
       "name": "sfchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666164195",
-      "size": "2240512",
-      "md5": "fb7a19edd201fe20ab4a9992cdcf5bfd",
-      "crc32": "8e883dee",
-      "sha1": "177915733faa791a9b82195b61f0402ec1dd77dd",
+      "mtime": "1666210736",
+      "size": "2252800",
+      "md5": "7c2f4ad424f97b0d01f4249524343324",
+      "crc32": "1f1c7675",
+      "sha1": "c10a813481777499de5907bc6c20a032bbd6cd62",
       "format": "Metadata"
     },
     {
@@ -19275,9 +19337,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1850,
-  "item_last_updated": 1666164259,
-  "item_size": 213037369,
+  "files_count": 1856,
+  "item_last_updated": 1666210795,
+  "item_size": 213596292,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -19299,7 +19361,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445397588,
+      "task_id": 3445917617,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19307,7 +19369,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 285529944,
+  "uniq": 830511987,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

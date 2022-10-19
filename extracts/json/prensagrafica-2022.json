@@ -1,5 +1,5 @@
 {
-  "created": 1666164122,
+  "created": 1666210610,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/25/items/prensagrafica-2022",
@@ -13357,31 +13357,83 @@
       "format": "JSON"
     },
     {
+      "name": "prensagrafica-2022-10-19T01:20:51.198043-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prensagrafica-2022-10-19T01:20:51.198043-06:00.jpg",
+      "mtime": "1666185295",
+      "size": "11378",
+      "md5": "a254940e052d0c69a6bf19c83cb9bb9c",
+      "crc32": "abec5f39",
+      "sha1": "80f363fc5f329efb41d450ebd396978141a78f4f"
+    },
+    {
+      "name": "prensagrafica-2022-10-19T14:15:40.024587-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666210546",
+      "size": "64218",
+      "md5": "578107db565c308b5699eaf559a4ac11",
+      "crc32": "be7315e8",
+      "sha1": "5f32b919f6b98e36c560946b03143b2f40ffddc0",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-10-19T14:15:40.024587-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666210548",
+      "size": "46060",
+      "md5": "12eba84c3fe730c084a3d4619c4ba333",
+      "crc32": "d14731f5",
+      "sha1": "281f5b101442266c9eca4660554deb4b3df2348e",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-10-19T14:15:40.024587-06:00.jpg",
+      "source": "original",
+      "mtime": "1666210542",
+      "size": "323040",
+      "md5": "0a7a6df5bdcd29a83d6b44834f094ad8",
+      "crc32": "f8f94284",
+      "sha1": "2c8ad537c5b95175c25133186766a3acad23368e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prensagrafica-2022-10-19T14:15:40.024587-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666210550",
+      "size": "1540",
+      "md5": "81f74b6f592a1e202a637abe96ba61aa",
+      "crc32": "fb718976",
+      "sha1": "c912da1016da44a3bc555b839c900983cd4fe4db",
+      "format": "JSON"
+    },
+    {
       "name": "prensagrafica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0bb8981925ca626a6b153d4d53a167da1eaa9bf",
-      "mtime": "1666164117",
-      "size": "279618",
-      "md5": "56c37151b0b6a499e582f50b4dc386ca",
-      "crc32": "3a137d50",
-      "sha1": "3af113c6d2ce8f3da320e15efd8d005b0bc09f22",
+      "btih": "5362d4cba34ca9c1d647e113a5593c5e4ed101f7",
+      "mtime": "1666210606",
+      "size": "280703",
+      "md5": "09639c5aede9a87e5edbc1c13babde56",
+      "crc32": "737136e4",
+      "sha1": "464e3273cd07e9fad186b1cb11f61872c4a783b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prensagrafica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90ce0c39447520106b8f9d590649f9c4",
+      "md5": "9d8b8e846d98657c70b43a467f443247",
       "summation": "md5"
     },
     {
       "name": "prensagrafica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666164065",
-      "size": "1609728",
-      "md5": "559c969b1f43246c8c9b9edfb64374d6",
-      "crc32": "fcfa7b45",
-      "sha1": "2a267d643774b2fb07c9d10e65a467221517f98c",
+      "mtime": "1666210555",
+      "size": "1617920",
+      "md5": "a8eef17791ad4dba4c30717329ad7425",
+      "crc32": "97e1884c",
+      "sha1": "94708f114bc99976839809e624ca2d4898be3861",
       "format": "Metadata"
     },
     {
@@ -13395,9 +13447,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1290,
-  "item_last_updated": 1666164117,
-  "item_size": 119905735,
+  "files_count": 1295,
+  "item_last_updated": 1666210606,
+  "item_size": 120361248,
   "metadata": {
     "identifier": "prensagrafica-2022",
     "collection": [
@@ -13419,7 +13471,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445395882,
+      "task_id": 3445915454,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13427,7 +13479,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1920077981,
+  "uniq": 982142472,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

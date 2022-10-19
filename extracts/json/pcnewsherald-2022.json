@@ -1,5 +1,5 @@
 {
-  "created": 1666164042,
+  "created": 1666210558,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/15/items/pcnewsherald-2022",
@@ -3539,31 +3539,93 @@
       "format": "JSON"
     },
     {
+      "name": "pcnewsherald-2022-10-19T03:19:46.315436-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pcnewsherald-2022-10-19T03:19:46.315436-04:00.jpg",
+      "mtime": "1666185144",
+      "size": "9282",
+      "md5": "bd50fd0b38d99313c0736bd0d86c67ca",
+      "crc32": "f7a0842a",
+      "sha1": "5ee36ab39f03bc7fa97c75b64010315a03f13630"
+    },
+    {
+      "name": "pcnewsherald-2022-10-19T16:14:58.275603-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666210507",
+      "size": "19130",
+      "md5": "4cea04f8336e7a8dfc6520d705a7da1c",
+      "crc32": "ddf566f1",
+      "sha1": "c3deb9ff931625f50d6503cba0f86f1b207f08dd",
+      "format": "JSON"
+    },
+    {
+      "name": "pcnewsherald-2022-10-19T16:14:58.275603-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666210508",
+      "size": "29278",
+      "md5": "577a1ba8da2ae42ace085af5cb68407f",
+      "crc32": "44882c22",
+      "sha1": "739d3c4da9fde86186ef822c530aaf3c80d68ef7",
+      "format": "JSON"
+    },
+    {
+      "name": "pcnewsherald-2022-10-19T16:14:58.275603-04:00.jpg",
+      "source": "original",
+      "mtime": "1666210504",
+      "size": "234601",
+      "md5": "5d061648f81160980846ecf6db85754d",
+      "crc32": "84aad068",
+      "sha1": "27b18d67ab91aa839e0b886ff1997a9dae8dbf79",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pcnewsherald-2022-10-19T16:14:58.275603-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666210512",
+      "size": "1594",
+      "md5": "a3a39f4a63e45f684936a518e778aadb",
+      "crc32": "2ad3a416",
+      "sha1": "70e5b99a0e806a6c175d293211513e2ba9b994f4",
+      "format": "JSON"
+    },
+    {
+      "name": "pcnewsherald-2022-10-19T16:14:58.275603-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666210514",
+      "size": "133281",
+      "md5": "54aebaab3ecea9f83e67ed41acab8606",
+      "crc32": "a6e50eb6",
+      "sha1": "83c25b736dc72ce971cf5e526528cff91abee423",
+      "format": "JSON"
+    },
+    {
       "name": "pcnewsherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "228f203ffcb33361e9a373fd2e65feb1e699b589",
-      "mtime": "1666164036",
-      "size": "74743",
-      "md5": "72da3c1710a22c5ef99ae874af3a1749",
-      "crc32": "0f59772e",
-      "sha1": "75b6c3eded339dd14f15ba44521f02b385dc4912",
+      "btih": "40a74b22d348c3d1075dafa95ad30c1f788bd72e",
+      "mtime": "1666210555",
+      "size": "76035",
+      "md5": "68e2219b064aa733ea0648a4309b30d4",
+      "crc32": "6573690f",
+      "sha1": "64b4e03d0c0149133b7652483a72ca5eb84aacea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pcnewsherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4c4b0b4751e83c9f7db89ad8f576e4c",
+      "md5": "170dc8367ced608d1874d28a758747cd",
       "summation": "md5"
     },
     {
       "name": "pcnewsherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666164000",
-      "size": "454656",
-      "md5": "3346d69ade69be9c7a3201045a6ac5de",
-      "crc32": "79c4a4c6",
-      "sha1": "34fef9dc6833673a71186759dfe3d1b905e93d53",
+      "mtime": "1666210519",
+      "size": "462848",
+      "md5": "5a7175bde5ced5d3fce72148a77deb11",
+      "crc32": "fba9e81a",
+      "sha1": "c9f212d47dbfd21c81ebd97fe517b23a72c80448",
       "format": "Metadata"
     },
     {
@@ -3577,9 +3639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 346,
-  "item_last_updated": 1666164036,
-  "item_size": 22805832,
+  "files_count": 352,
+  "item_last_updated": 1666210555,
+  "item_size": 23242482,
   "metadata": {
     "identifier": "pcnewsherald-2022",
     "collection": [
@@ -3601,7 +3663,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445394833,
+      "task_id": 3445914866,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -3609,7 +3671,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1116956258,
+  "uniq": 776288663,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]
