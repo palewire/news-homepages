@@ -130,3 +130,6 @@ jobs:
           access-key: ${{ secrets.IA_ACCESS_KEY }}
           secret-key: ${{ secrets.IA_SECRET_KEY }}
           collection:  ${{ secrets.IA_COLLECTION }}
+          s3-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          s3-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          s3-bucket-name: ${{ secrets.AWS_BUCKET_NAME }}

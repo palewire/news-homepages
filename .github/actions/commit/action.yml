@@ -14,6 +14,15 @@ inputs:
   collection:
     description: The identifier of the target archive.org collection
     required: true
+  s3-access-key-id:
+    description: An API key with permission to post to Amazon S3
+    required: true
+  s3-secret-access-key:
+    description: An API secret with permission to post to Amazon S3
+    required: true
+  s3-bucket-name:
+    description: The identifier of the target Amazon S3 bucket
+    required: true
 
 runs:
   using: "composite"
@@ -45,15 +54,22 @@ runs:
         name: archive
         path: ./newshomepages/sources/latest/
 
-    - id: git-commit
-      name: Commit latest screenshots
-      run: |
-        git add ./latest-screenshots/*.jpg
-        git commit -m "Latest screenshots" --author="palewire <palewire@users.noreply.github.com>"
-        git pull origin $GITHUB_REF
-        git pull origin $GITHUB_REF
-        git push
-      shell: bash
+    - uses: shallwefootball/s3-upload-action@master
+      with:
+        aws_key_id: ${{ inputs.s3-access-key-id }}
+        aws_secret_access_key: ${{ inputs.s3-secret-access-key }}
+        aws_bucket: ${{ inputs.s3-bucket-name }}
+        source_dir: ./latest-screenshots/
+
+    # - id: git-commit
+    #   name: Commit latest screenshots
+    #   run: |
+    #     git add ./latest-screenshots/*.jpg
+    #     git commit -m "Latest screenshots" --author="palewire <palewire@users.noreply.github.com>"
+    #     git pull origin $GITHUB_REF
+    #     git pull origin $GITHUB_REF
+    #     git push
+    #   shell: bash
 
     - id: git-commit-archive
       name: Commit latest archive.org urls
