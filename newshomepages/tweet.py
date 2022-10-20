@@ -33,24 +33,15 @@ def update_list(number):
     next_cursor, previous_cursor, member_list = api.GetListMembersPaged(
         list_id=sources_list.id, count=5000
     )
-    screenname_list = [m.screen_name.lower() for m in member_list]
+    screenname_list = [m.screen_name.lower().strip() for m in member_list]
     print(f":abacus: {len(member_list)} sources in the Twitter list")
 
     # Get the full list of sources
-    source_list = [s["handle"].lower() for s in utils.get_site_list()]
+    source_list = [s["handle"].lower().strip() for s in utils.get_site_list()]
     print(f":newspaper: {len(source_list)} sources in the archive")
 
     # Accounts that have been banned
-    blacklist = [
-        "gatewaypundit",
-        "infowars",
-        "enewsofnepal",
-        "gcm_nf",
-        "eyethunewskzn",
-        "theleftbench",
-        "udn",
-        "johncombest",
-    ]
+    blacklist = ["gatewaypundit", "infowars", "enewsofnepal", "gcm_nf", "eyethunewskzn", "theleftbench", "udn", "johncombest", "nepalkhabar24"]
 
     # Add what's missing
     missing_list = list(set(source_list) - set(screenname_list) - set(blacklist))[
