@@ -195,6 +195,7 @@ def _write_template(template_name, context, output_name=None):
     template = TEMPLATE_ENV.get_template(f"{template_name}.tmpl")
     md = template.render(**context)
     output_path = RSS_DIR / (output_name or template_name)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     with open(output_path, "w") as fh:
         fh.write(md)
 
