@@ -1,5 +1,5 @@
 {
-  "created": 1666072625,
+  "created": 1666247231,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/33/items/marylandmatters-2022",
@@ -18328,31 +18328,279 @@
       "sha1": "ed963537162c98c50ece06b65ebb2aab2fda2815"
     },
     {
+      "name": "marylandmatters-2022-10-18T13:35:23.601324-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666114533",
+      "size": "16040",
+      "md5": "73db05dde46580e3b1a8921d7f0044be",
+      "crc32": "dbbe73b1",
+      "sha1": "a02fb05169c7ba57759d8c71570b1931757e0224",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-18T13:35:23.601324-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666114536",
+      "size": "18210",
+      "md5": "0a58ac992586f53a1c2722929ad93f04",
+      "crc32": "10e877b6",
+      "sha1": "562dd202dc8ac4192412e3259957b545222044f9",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-18T13:35:23.601324-04:00.jpg",
+      "source": "original",
+      "mtime": "1666114531",
+      "size": "336496",
+      "md5": "9dd438a5cd7890d12b096b236b77d522",
+      "crc32": "2a5eb5eb",
+      "sha1": "66f3454e5cb16eb553cc0765c70ee7d7732cb11a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marylandmatters-2022-10-18T13:35:23.601324-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666114538",
+      "size": "1540",
+      "md5": "c5602e9aeb515724d230673922deeea0",
+      "crc32": "7e587728",
+      "sha1": "936760db5d4072df712afd48aab44db04f559cae",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-18T13:35:23.601324-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666114540",
+      "size": "8737",
+      "md5": "0181b6e2ea99d27dbc77357be3ed9944",
+      "crc32": "dbb0c3fc",
+      "sha1": "aa5636bc2284a951cca8be6298430cc8976213b8",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-18T13:35:23.601324-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marylandmatters-2022-10-18T13:35:23.601324-04:00.jpg",
+      "mtime": "1666114618",
+      "size": "10371",
+      "md5": "2e1d8c05c36699d42e794d2924a28936",
+      "crc32": "a7ff5231",
+      "sha1": "f8307e0b5fe68b7d6766bccf8124b3f0acf3c5d8"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T01:55:03.118071-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666158912",
+      "size": "15893",
+      "md5": "53eda276f20216eb8e2ae9c9dd97fe0b",
+      "crc32": "2ee1b48e",
+      "sha1": "df99250f26d998d3ee77129bb9d54e3b5ec3c13e",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T01:55:03.118071-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666158914",
+      "size": "18154",
+      "md5": "5c563512ee9a8eacf4b8962f6169d64b",
+      "crc32": "166f90b0",
+      "sha1": "697ba025f956801ce56e169ed573b902e56ed97a",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T01:55:03.118071-04:00.jpg",
+      "source": "original",
+      "mtime": "1666158911",
+      "size": "367262",
+      "md5": "8489597907c5807c7f744e48fb1e34c2",
+      "crc32": "c430c0af",
+      "sha1": "512ee80288e33e165b5e96eba0e21c251c56b637",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T01:55:03.118071-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666158915",
+      "size": "1540",
+      "md5": "09fa89b7520b0776288afb8e13028f19",
+      "crc32": "aba200cb",
+      "sha1": "4fd98127622cd5e43bf45cdcd5bc70f36aacbcc0",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T01:55:03.118071-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666158920",
+      "size": "9308",
+      "md5": "c40e7ac8c1bf7f6f98f64d30964b79fe",
+      "crc32": "f7941cbb",
+      "sha1": "8d2ca47684f62ac1805c2b541b54ea802f249a1c",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T01:55:03.118071-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marylandmatters-2022-10-19T01:55:03.118071-04:00.jpg",
+      "mtime": "1666179647",
+      "size": "10169",
+      "md5": "20582915f37b30fea069972848cc98f4",
+      "crc32": "3c144740",
+      "sha1": "21e08f268313e251dfb36c4fb6e33256184f6661"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T14:07:22.251377-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666202847",
+      "size": "15852",
+      "md5": "19be73169be66b4afd5dc8b5257c02e9",
+      "crc32": "32d1b243",
+      "sha1": "9fa2606d62fd4ff9f43f9f7c123a43c4c3a341d7",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T14:07:22.251377-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666202848",
+      "size": "18421",
+      "md5": "0abe1dae3fccec809ff8942649910fd0",
+      "crc32": "61f6f85b",
+      "sha1": "28a52c36015160ff1a44eff563fa45ff779a24a7",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T14:07:22.251377-04:00.jpg",
+      "source": "original",
+      "mtime": "1666202844",
+      "size": "361652",
+      "md5": "61cf972b4ad8cb924f6e9c55b5942f20",
+      "crc32": "a8901632",
+      "sha1": "0fb5230b90260e1c1a24da8e0d3a437f3fce6883",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T14:07:22.251377-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666202850",
+      "size": "1539",
+      "md5": "481266c06c9439368bad3059f35dd00b",
+      "crc32": "f520e881",
+      "sha1": "b1c117bffbebb45ffbc0f9706992ed514c39f562",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T14:07:22.251377-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666202852",
+      "size": "9268",
+      "md5": "fff6fd9da8698d3893e6b1de2881f7ab",
+      "crc32": "f6ba48bd",
+      "sha1": "6135c84807877ed0242413a44b52f520f95b423e",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-19T14:07:22.251377-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marylandmatters-2022-10-19T14:07:22.251377-04:00.jpg",
+      "mtime": "1666211531",
+      "size": "10369",
+      "md5": "3fb7db3c0401f82e1c290218c2300b3f",
+      "crc32": "da0b856b",
+      "sha1": "1e9f399380e3024f883071dc2b9151e672de2e3e"
+    },
+    {
+      "name": "marylandmatters-2022-10-20T02:25:11.640208-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666247119",
+      "size": "15960",
+      "md5": "15d69db5d959d1af334151fa1166f24c",
+      "crc32": "3fea4d90",
+      "sha1": "5c439e7f4e524d8938fa6f82dd690474ffc6298d",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-20T02:25:11.640208-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666247121",
+      "size": "18344",
+      "md5": "1859fda901de51cb421be7c601642628",
+      "crc32": "5b195750",
+      "sha1": "34ff733aae9900e1c8e84666106911f088cb9974",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-20T02:25:11.640208-04:00.jpg",
+      "source": "original",
+      "mtime": "1666247117",
+      "size": "394911",
+      "md5": "e628ea286cd62db2fe7995853779b21c",
+      "crc32": "36ec4fad",
+      "sha1": "e933ddf6a0558adadf40f05b3b94d47982aa56ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marylandmatters-2022-10-20T02:25:11.640208-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666247122",
+      "size": "1540",
+      "md5": "5b661bb533098fc976d7593026661df7",
+      "crc32": "519c52b1",
+      "sha1": "be99b2b7e08b11ddc8bfe0a46bf4f11242923ebb",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-20T02:25:11.640208-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666247124",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-20T02:25:11.640208-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marylandmatters-2022-10-20T02:25:11.640208-04:00.jpg",
+      "mtime": "1666247199",
+      "size": "10277",
+      "md5": "84d6e2499696e4e3fe4daecfe422d2e4",
+      "crc32": "914901a0",
+      "sha1": "945d52f8b772889068b5683093fef41dd7a23a44"
+    },
+    {
       "name": "marylandmatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "56ccf6982d50cb955146d95fdce08bdd0dfa487f",
-      "mtime": "1666072611",
-      "size": "385033",
-      "md5": "ebd15c875f7ab4b81500f801f0914f59",
-      "crc32": "bbf7e2d6",
-      "sha1": "254612eca66d41ea2431cb9211cfcc5787075196",
+      "btih": "7ef654a2a1b5a4eab1e61caa5a4a6f17f63e4047",
+      "mtime": "1666247224",
+      "size": "390248",
+      "md5": "f7a5e994f1443aa03fbc9c851dc3ce6c",
+      "crc32": "2257db89",
+      "sha1": "da1ed6ce868fd2bf12d1f048d17ba0145e43bed3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marylandmatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b9e0fe15f82d6ae6a5fcd0dfe200003",
+      "md5": "f5e3056db6d56be196d6b9dd2964ca79",
       "summation": "md5"
     },
     {
       "name": "marylandmatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666072481",
-      "size": "2162688",
-      "md5": "f8b02d863a58de2ca40c273d8b8bb5b6",
-      "crc32": "620a2fd5",
-      "sha1": "bf74d2216d92364442a9777e92d723546eb869f2",
+      "mtime": "1666247128",
+      "size": "2191360",
+      "md5": "6655862560896795c420f8bff15b5216",
+      "crc32": "61c8af82",
+      "sha1": "b93bbe7d32139c51d12237c91a38f90e0292e2fd",
       "format": "Metadata"
     },
     {
@@ -18366,9 +18614,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1764,
-  "item_last_updated": 1666072611,
-  "item_size": 150469050,
+  "files_count": 1788,
+  "item_last_updated": 1666247224,
+  "item_size": 152174992,
   "metadata": {
     "identifier": "marylandmatters-2022",
     "collection": [
@@ -18386,7 +18634,7 @@
     "addeddate": "2022-03-31 13:13:28"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 699869171,
+  "uniq": 1627396076,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

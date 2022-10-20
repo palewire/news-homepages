@@ -1,5 +1,5 @@
 {
-  "created": 1666077479,
+  "created": 1666247219,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/24/items/kyivindependent-2022",
@@ -21076,31 +21076,279 @@
       "sha1": "90167ef948177d5ca9f579e7c3329eb1ceda5154"
     },
     {
+      "name": "kyivindependent-2022-10-18T20:33:05.370000+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666114389",
+      "size": "46254",
+      "md5": "05e93d3eaf87f8a4051552da706a6656",
+      "crc32": "2ac0fb4e",
+      "sha1": "f79771fb750224f4d340423903b4e959b43323a4",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T20:33:05.370000+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666114391",
+      "size": "31350",
+      "md5": "fece77aeef4734b62dc421005dea80a9",
+      "crc32": "c3cdf19f",
+      "sha1": "a3650ac8ba7949decce5b71097039fc5fbf666e8",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T20:33:05.370000+03:00.jpg",
+      "source": "original",
+      "mtime": "1666114387",
+      "size": "339271",
+      "md5": "9db5693d998e89ef076adb00458bcf46",
+      "crc32": "62f912cb",
+      "sha1": "23d7a2739727ff7c38aad0076746670bae952d8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T20:33:05.370000+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666114393",
+      "size": "1504",
+      "md5": "c4da5407a0d44532431ba7861e561568",
+      "crc32": "3418cd9b",
+      "sha1": "530cce1a931a74f853d2f9064d52015309b8e264",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T20:33:05.370000+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666114394",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-18T20:33:05.370000+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivindependent-2022-10-18T20:33:05.370000+03:00.jpg",
+      "mtime": "1666114487",
+      "size": "9848",
+      "md5": "299dd824e1bd8da43785887c39b4f5aa",
+      "crc32": "bc1aa4ae",
+      "sha1": "2707f3290101689049d703144705c41ff9c16649"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T08:53:01.481002+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666158785",
+      "size": "46804",
+      "md5": "428004a6388ae32c55f29c0b2c303ae8",
+      "crc32": "571b2cc3",
+      "sha1": "c8d49c1de53dc20c76077d2aaeb51d889ee43e93",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T08:53:01.481002+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666158786",
+      "size": "31089",
+      "md5": "ff2a31335eac9c5911fe481f37d3503f",
+      "crc32": "6385fb07",
+      "sha1": "20d28504f68bfb2cc08a7769d1565aa56285487b",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T08:53:01.481002+03:00.jpg",
+      "source": "original",
+      "mtime": "1666158783",
+      "size": "335669",
+      "md5": "b3cea7e8d9024b7b54d62e151ba981b7",
+      "crc32": "69b11648",
+      "sha1": "5acf767c2d30724fb73d29749faa7e9cec463296",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T08:53:01.481002+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666158788",
+      "size": "1504",
+      "md5": "074eaf2ae2f6e07aac35f3c38a0053f9",
+      "crc32": "4d7e2e04",
+      "sha1": "a05af5e8a074e1a0b79b06915420103281ed262d",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T08:53:01.481002+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666158790",
+      "size": "16236",
+      "md5": "909ac8470ace7371b57aad256bd73bb9",
+      "crc32": "24f2f139",
+      "sha1": "4e293addb51fe244234df513c9c0f3166983f6dc",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T08:53:01.481002+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivindependent-2022-10-19T08:53:01.481002+03:00.jpg",
+      "mtime": "1666179543",
+      "size": "9984",
+      "md5": "96f0cd042739f08d8d4e0de6a11cd95f",
+      "crc32": "b48334d2",
+      "sha1": "13cd2439be4fb690c3ec49bdb9309cd43763472c"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T21:04:13.486835+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666202666",
+      "size": "47157",
+      "md5": "03bb388d9aa717e6619e16a76cac9757",
+      "crc32": "2a5e9923",
+      "sha1": "94276c0ae1c6d853f93d245f61354078301317b5",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T21:04:13.486835+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666202668",
+      "size": "30972",
+      "md5": "86de21c15409cc61713cf9c89fd62798",
+      "crc32": "88da64a9",
+      "sha1": "86fb3fa9b55ddec6bcedcdead6cd114c5c3f3fa3",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T21:04:13.486835+03:00.jpg",
+      "source": "original",
+      "mtime": "1666202664",
+      "size": "336047",
+      "md5": "6e82deca787411eae6092cc5a8739ca7",
+      "crc32": "4465116f",
+      "sha1": "841f8ef2cacf34ed41c28d47df4d9859e55748d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T21:04:13.486835+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666202670",
+      "size": "1504",
+      "md5": "bcb5b9240d335eb8b57bd077bc85d100",
+      "crc32": "a840cf85",
+      "sha1": "da281d53574d56ee134a17a4d9ceef917768aec1",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T21:04:13.486835+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666202672",
+      "size": "252",
+      "md5": "adb3d009e1c2d8baf9a26a46751156ba",
+      "crc32": "696adc3b",
+      "sha1": "00fedab3e72c9b6d9446d6c1be84d6754b731ec4",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-19T21:04:13.486835+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivindependent-2022-10-19T21:04:13.486835+03:00.jpg",
+      "mtime": "1666211466",
+      "size": "10113",
+      "md5": "b1d6f51a28e938bd2a1f66dd873169e8",
+      "crc32": "4de97daf",
+      "sha1": "1640b6f2461706bd5fbe4b0963ea8b5c9ba58032"
+    },
+    {
+      "name": "kyivindependent-2022-10-20T09:24:13.477364+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666247067",
+      "size": "45869",
+      "md5": "1565b338515c04a39444ea588333b6cc",
+      "crc32": "e8deec0d",
+      "sha1": "dbe3e31174840db87a99fc9b6810fd3b483dc51a",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-20T09:24:13.477364+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666247069",
+      "size": "32309",
+      "md5": "cd62407a49fe6d37fb68484775608e03",
+      "crc32": "31458d71",
+      "sha1": "ced429431f54711c0290eaed2ec9c8dbc6ec57e1",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-20T09:24:13.477364+03:00.jpg",
+      "source": "original",
+      "mtime": "1666247065",
+      "size": "329871",
+      "md5": "838314ebbee56a9b336669823208fcaa",
+      "crc32": "82e52b9c",
+      "sha1": "c31b11437370f52d1b02d8e55e4e367b8619f22d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivindependent-2022-10-20T09:24:13.477364+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666247071",
+      "size": "1504",
+      "md5": "45ade5d37286abccc935e3194b5b3ffd",
+      "crc32": "99496743",
+      "sha1": "a32225f649ba73dde1eafc32a1e1c87c9e28bd94",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-20T09:24:13.477364+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666247073",
+      "size": "16405",
+      "md5": "3950bee5b47829282f27a6ce1ba3bd8c",
+      "crc32": "4052447c",
+      "sha1": "a34aeb0fb4008bec7896fb1b61b4c4ceb25418a6",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-10-20T09:24:13.477364+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivindependent-2022-10-20T09:24:13.477364+03:00.jpg",
+      "mtime": "1666247159",
+      "size": "9970",
+      "md5": "f43cc868e8b39f5c9da457cebe1afe24",
+      "crc32": "83019420",
+      "sha1": "6f01ff4850db5a7980efd53b6674be649f526352"
+    },
+    {
       "name": "kyivindependent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4abb0e033b2dc5b9d98cad4d23b6a0426dd74c67",
-      "mtime": "1666072537",
-      "size": "439297",
-      "md5": "16e88ff333b972d8249d3cb96375d93e",
-      "crc32": "bfb6b9ff",
-      "sha1": "095fd1bec3d015319c09276c1c1fcdf2d6d9bb41",
+      "btih": "48ea30c1d231f7c82f44d4dca78f09c85a466e1d",
+      "mtime": "1666247204",
+      "size": "444510",
+      "md5": "2e7a6852d8df5eeae1b1c34373520f97",
+      "crc32": "51df4080",
+      "sha1": "caab4bb9e12fb6809e1fc18f461e6cf26481e404",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivindependent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5bdb43cada6934dd3974d29e446476c8",
+      "md5": "1e0ba2be93a989f270fb83db03ad0fb0",
       "summation": "md5"
     },
     {
       "name": "kyivindependent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666072353",
-      "size": "2449408",
-      "md5": "de35ce69a6381090ba923b7ed8b259e4",
-      "crc32": "234fb7c1",
-      "sha1": "5c8865ef1475c3986dd9ca16bac62efdc93ae2e5",
+      "mtime": "1666247076",
+      "size": "2486272",
+      "md5": "025e42c0dbc00fe30c6223525f5bc48b",
+      "crc32": "fc0aeb94",
+      "sha1": "c42eb1e0575094556a76c0d4156af31ed3fa756f",
       "format": "Metadata"
     },
     {
@@ -21114,9 +21362,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2024,
-  "item_last_updated": 1666072537,
-  "item_size": 141264013,
+  "files_count": 2048,
+  "item_last_updated": 1666247204,
+  "item_size": 143037778,
   "metadata": {
     "identifier": "kyivindependent-2022",
     "collection": [
@@ -21134,7 +21382,7 @@
     "addeddate": "2022-03-23 02:08:42"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 1838224559,
+  "uniq": 1423713440,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

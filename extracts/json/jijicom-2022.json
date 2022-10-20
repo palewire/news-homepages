@@ -1,5 +1,5 @@
 {
-  "created": 1666233626,
+  "created": 1666253407,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/17/items/jijicom-2022",
@@ -17618,31 +17618,93 @@
       "sha1": "c8d4f1298836b61538c639eb85ebdbdc57000f11"
     },
     {
+      "name": "jijicom-2022-10-20T15:21:12.441132+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666246894",
+      "size": "48865",
+      "md5": "a341003a1b0818313b0c9aabf73f1b3d",
+      "crc32": "4e394c10",
+      "sha1": "816ac69269f66b197a0b445354cf5ac726cc293b",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-20T15:21:12.441132+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666246896",
+      "size": "47247",
+      "md5": "00f64c8a70ee3313d6e37e805149a15c",
+      "crc32": "f21c5386",
+      "sha1": "3b833e6d64b2bd095a9bf156e4201357e2e1059d",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-20T15:21:12.441132+09:00.jpg",
+      "source": "original",
+      "mtime": "1666246892",
+      "size": "375251",
+      "md5": "b77d8693a5b189cf80576deff64d8151",
+      "crc32": "d769b4d4",
+      "sha1": "6062919c2570c77653ddbb021cc6bc1df998fa63",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jijicom-2022-10-20T15:21:12.441132+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666246898",
+      "size": "1467",
+      "md5": "cac1a4042cbb6f8fd7c968b0d2f36e5a",
+      "crc32": "e314f0be",
+      "sha1": "4b541ae80129f99341ecfe36ed7bde8a4195c95f",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-20T15:21:12.441132+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1666246899",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jijicom-2022-10-20T15:21:12.441132+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jijicom-2022-10-20T15:21:12.441132+09:00.jpg",
+      "mtime": "1666247005",
+      "size": "11051",
+      "md5": "291c5b09b2c87615af15db830c83b5cb",
+      "crc32": "036a42c9",
+      "sha1": "df10a3773f3bdf5908b73cfd0373a0a7d85ec3d8"
+    },
+    {
       "name": "jijicom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e94c2dc7bd037b3dc2b7e43c17e85f36bebeae9",
-      "mtime": "1666233599",
-      "size": "358434",
-      "md5": "d71f4f04252a284a308ef960004846a8",
-      "crc32": "15ecabb3",
-      "sha1": "635ae14d8509f2cbbd4c9d8f64c16b0ddb864d1f",
+      "btih": "6308082a25e08aa42ef4e35c2a3bedbedd39b0af",
+      "mtime": "1666247040",
+      "size": "359694",
+      "md5": "83ab337e5aa7fd25f9d05cbafee57874",
+      "crc32": "7890bf00",
+      "sha1": "d323d4d542bde32103647cbe82dc42aedb3bf482",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jijicom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "78883013dbf116094d32797ae018c551",
+      "md5": "8bb4e269ab522d9ea9e96310147b16fa",
       "summation": "md5"
     },
     {
       "name": "jijicom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666233431",
-      "size": "2129920",
-      "md5": "af5d147280065ade0ee83bbdfd78ae06",
-      "crc32": "f16594f4",
-      "sha1": "83bf79e68ba1c9507202993486eac76ed5dee086",
+      "mtime": "1666246904",
+      "size": "2138112",
+      "md5": "5a9e873b6fffa5ed33704e4580e59c7b",
+      "crc32": "9de8a88d",
+      "sha1": "b04ef9ad982c4159364b86365641309b81675d2b",
       "format": "Metadata"
     },
     {
@@ -17656,9 +17718,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1704,
-  "item_last_updated": 1666233599,
-  "item_size": 144811415,
+  "files_count": 1710,
+  "item_last_updated": 1666247040,
+  "item_size": 145304950,
+  "jijicom-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "jijicom-2022",
     "collection": [
@@ -17675,10 +17742,10 @@
     "publicdate": "2022-07-09 02:39:28",
     "addeddate": "2022-07-09 02:39:28"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 2139702461,
+  "server": "ia601502.us.archive.org",
+  "uniq": 769109591,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }
