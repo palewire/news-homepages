@@ -1,5 +1,5 @@
 {
-  "created": 1666253736,
+  "created": 1666267114,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/34/items/revistapiaui-2022",
@@ -12976,31 +12976,93 @@
       "sha1": "81a7361af972ab9d88dde0421cf4434c33c7c357"
     },
     {
+      "name": "revistapiaui-2022-10-20T08:56:03.297142-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666266967",
+      "size": "21720",
+      "md5": "b343603f7e8ca813104ac2f008d77d75",
+      "crc32": "aa1b6130",
+      "sha1": "712e7a7e18603249af8ff788ad91f911f8ec4670",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-10-20T08:56:03.297142-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666266969",
+      "size": "30865",
+      "md5": "2ec7c823bb7d3a2b3aa2c97a1880b74d",
+      "crc32": "8fc817d3",
+      "sha1": "52bf196bc275ab080161bb4666edcf63ab4dd42c",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-10-20T08:56:03.297142-03:00.jpg",
+      "source": "original",
+      "mtime": "1666266965",
+      "size": "212099",
+      "md5": "79b24a86fc320a0e87567b22a0a586d1",
+      "crc32": "b408d784",
+      "sha1": "eccb9b12bbeb78656b80cdf867fd65d56b4cafc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-10-20T08:56:03.297142-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666266971",
+      "size": "1531",
+      "md5": "0f338d54cd3e7910e252065102f8364f",
+      "crc32": "d82b3aa7",
+      "sha1": "c702b839f3b1dec28908bb900a2b956ef401981e",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-10-20T08:56:03.297142-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666266973",
+      "size": "37086",
+      "md5": "7a434e20c035d449e596ce7c594ae6bc",
+      "crc32": "bda4e1be",
+      "sha1": "a23058dffef29d8fb47b02051d4e176acbe5a2d7",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-10-20T08:56:03.297142-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-10-20T08:56:03.297142-03:00.jpg",
+      "mtime": "1666267057",
+      "size": "9431",
+      "md5": "b91e92d9affae2e24939097a3d3e685d",
+      "crc32": "3fd568ec",
+      "sha1": "110f784446d257870b4ccc3d84683bd30c23b6dc"
+    },
+    {
       "name": "revistapiaui-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46d791f0231e5fd8e0069f2b5a2fe431aad752a9",
-      "mtime": "1666253722",
-      "size": "269816",
-      "md5": "9ae4aa29a53316d21a9e9e73cac96577",
-      "crc32": "a7ec6eba",
-      "sha1": "a4da5e8b18104cf447bafe1d66280499cf1f6f98",
+      "btih": "fafa08c9b9cefe9b471ad0e564a089fb4a43aadc",
+      "mtime": "1666267096",
+      "size": "271107",
+      "md5": "2431e04eebbb914e48c2faeb38be23b0",
+      "crc32": "8abbf598",
+      "sha1": "de5b868a7ff003bbbc02bdbc8032a508455fef73",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistapiaui-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "71103a13369c8000abf804af08973607",
+      "md5": "f81ee3d7335b5a9838c11373591e04f6",
       "summation": "md5"
     },
     {
       "name": "revistapiaui-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666253632",
-      "size": "1609728",
-      "md5": "8e70f6bd914bbd6617aa4563e5566400",
-      "crc32": "e4179210",
-      "sha1": "1f0fa64396e6d1a4bf28049627b0b94cd84787cb",
+      "mtime": "1666266980",
+      "size": "1617920",
+      "md5": "2b66c8c0505114c4faf30efd7bf5c031",
+      "crc32": "92dfddbb",
+      "sha1": "468c7e1bf58b98634172b9403f7cb962431802f9",
       "format": "Metadata"
     },
     {
@@ -13014,9 +13076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1259,
-  "item_last_updated": 1666253722,
-  "item_size": 69703578,
+  "files_count": 1265,
+  "item_last_updated": 1666267096,
+  "item_size": 70025793,
   "metadata": {
     "identifier": "revistapiaui-2022",
     "collection": [
@@ -13033,10 +13095,10 @@
     "publicdate": "2022-08-07 19:43:52",
     "addeddate": "2022-08-07 19:43:52"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1314878863,
+  "server": "ia601501.us.archive.org",
+  "uniq": 729587174,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

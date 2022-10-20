@@ -1,5 +1,5 @@
 {
-  "created": 1666254419,
+  "created": 1666267033,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/observatorio-2022",
@@ -13564,31 +13564,93 @@
       "format": "JSON"
     },
     {
+      "name": "observatorio-2022-10-20T08:55:11.419940-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666266919",
+      "size": "30518",
+      "md5": "8d86245efbf96e558d41d51070dce62a",
+      "crc32": "45543a49",
+      "sha1": "8f7ad1c2520c3d1a103d8a1fe59dfbf53e78c9fb",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-20T08:55:11.419940-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666266920",
+      "size": "39561",
+      "md5": "d6bc9e3bad66d9e57022ef39d79e768b",
+      "crc32": "39c02bef",
+      "sha1": "968b3a03b40aa59228dcf75880507e4395623447",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-20T08:55:11.419940-03:00.jpg",
+      "source": "original",
+      "mtime": "1666266917",
+      "size": "248998",
+      "md5": "119585b376f335e6bb38768c70783042",
+      "crc32": "67dfb672",
+      "sha1": "028b048360209b233a73b67be699ad5c79cc212d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "observatorio-2022-10-20T08:55:11.419940-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666266921",
+      "size": "1626",
+      "md5": "f0e8518415f7053accae6704fbf84823",
+      "crc32": "d41a04b1",
+      "sha1": "60f641048824e106e4f016ef83037ad27a8d8e8d",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-20T08:55:11.419940-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666266923",
+      "size": "14732",
+      "md5": "fd0c40be5e58bb7ad12368e93af10b73",
+      "crc32": "62047b0e",
+      "sha1": "ad7958acb134997e83ffa065c7cdce4a8a238d6f",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-20T08:55:11.419940-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "observatorio-2022-10-20T08:55:11.419940-03:00.jpg",
+      "mtime": "1666266998",
+      "size": "9129",
+      "md5": "291c898022783df4ac9b7febd4224785",
+      "crc32": "281cb9f0",
+      "sha1": "c6791d4bd5c998a5099c9dd941835ceedafef728"
+    },
+    {
       "name": "observatorio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1378a9dccc7e2b25fa6193995168c609db67451",
-      "mtime": "1666253496",
-      "size": "282147",
-      "md5": "3bc2536b0aaaf9d3eaa5a7758b226bd7",
-      "crc32": "feca390c",
-      "sha1": "b72a228baeefeb03e411226b80358d6629b28676",
+      "btih": "c387f5c8b45343b862f355fecb4df0e4e4bc408a",
+      "mtime": "1666267017",
+      "size": "283438",
+      "md5": "4726c9f28017fe5349584e60623b9ba8",
+      "crc32": "902b1e50",
+      "sha1": "e48b2908339bbf69894b24190fe0058f343ccd33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "observatorio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34c82dceec14d4232db3e7c85eb5430d",
+      "md5": "df83622fcb57f5ecc5cefbb30d4cf84a",
       "summation": "md5"
     },
     {
       "name": "observatorio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666253447",
-      "size": "1683456",
-      "md5": "74583e6eb8e1285f11c048edc22f690c",
-      "crc32": "00ef8243",
-      "sha1": "6f97c7a368c9a95eebd9c22cdc58d1ca31fface4",
+      "mtime": "1666266929",
+      "size": "1691648",
+      "md5": "b260e98cd836902aafa2edee8541ae8d",
+      "crc32": "3416e825",
+      "sha1": "a5392698d298062579845ce23c230bf843be725d",
       "format": "Metadata"
     },
     {
@@ -13602,9 +13664,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1316,
-  "item_last_updated": 1666253496,
-  "item_size": 76175585,
+  "files_count": 1322,
+  "item_last_updated": 1666267017,
+  "item_size": 76529632,
   "metadata": {
     "identifier": "observatorio-2022",
     "collection": [
@@ -13621,18 +13683,10 @@
     "publicdate": "2022-08-04 04:55:35",
     "addeddate": "2022-08-04 04:55:35"
   },
-  "observatorio-2022": {
-    "url": "https://www.observatoriodaimprensa.com.br/",
-    "job_id": "spn2-51f5e65ad2d1444693cc615f55119d8cb1b63d52",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "resources": [],
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 553."
-  },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1127758530,
+  "server": "ia902500.us.archive.org",
+  "uniq": 892835880,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

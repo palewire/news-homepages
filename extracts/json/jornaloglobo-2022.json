@@ -1,5 +1,6 @@
 {
-  "created": 1666253424,
+  "conflict": 1666267117,
+  "created": 1666267117,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/35/items/jornaloglobo-2022",
@@ -13692,31 +13693,93 @@
       "sha1": "9ab16cff7bc0edb9883ace715d7322751a2127a4"
     },
     {
+      "name": "jornaloglobo-2022-10-20T08:55:06.014652-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666266909",
+      "size": "39013",
+      "md5": "a22fcd8a7302b78c0d7f19b2ecbdb2a3",
+      "crc32": "f26343c4",
+      "sha1": "aeb34a0584b97e316b502bdcf92ec4ccebdf2fd3",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-20T08:55:06.014652-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666266911",
+      "size": "47745",
+      "md5": "58b63ed4222fb307668f789c1c612d59",
+      "crc32": "b1ad45a6",
+      "sha1": "bb8b1f3e9be2d6a808307d2e161e9d318a1a92f0",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-20T08:55:06.014652-03:00.jpg",
+      "source": "original",
+      "mtime": "1666266907",
+      "size": "304747",
+      "md5": "650a0fbf74bc440a35adb9013d2195ec",
+      "crc32": "21ffcc3f",
+      "sha1": "9b377d38d778766718597bc1fcd73d6f1aa186ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-10-20T08:55:06.014652-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666266912",
+      "size": "1474",
+      "md5": "45a6626fc827291294393a253329eff2",
+      "crc32": "7859c556",
+      "sha1": "f7c139f0aafa7ec4c99556ffdcbc8fb8ee31d8db",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-20T08:55:06.014652-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666266914",
+      "size": "80224",
+      "md5": "537cffb04af48c69788cdb512951254d",
+      "crc32": "1b5fb7e2",
+      "sha1": "a76e616b504fe3fa6d6643563d2d5e78898c2c30",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-20T08:55:06.014652-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaloglobo-2022-10-20T08:55:06.014652-03:00.jpg",
+      "mtime": "1666267061",
+      "size": "10260",
+      "md5": "bce83124317ab8827c8eee6c944f3430",
+      "crc32": "a677d86a",
+      "sha1": "0f624701c165bd68fe5c7f3d489a8ffd42e425ec"
+    },
+    {
       "name": "jornaloglobo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fc1d9b3c943ea426c92ad1d24ea21b5460485e2c",
-      "mtime": "1666247002",
-      "size": "285973",
-      "md5": "b978a2f33c372f6bac04eff835269abf",
-      "crc32": "0d0ae8b2",
-      "sha1": "9a6277b9683a2df5e19fd2214ac7d72a96e96770",
+      "btih": "56d9283ee8c246d641ac3f33cf8a448958d07fcb",
+      "mtime": "1666267103",
+      "size": "287265",
+      "md5": "f596a191d119334ceaca9a4dbe53d153",
+      "crc32": "79d80b99",
+      "sha1": "ec38df2c8e1e791786627cccfefd8fbb36800232",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaloglobo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13b93d9f3d74c62a31f306c88ee8bd5e",
+      "md5": "63ee8de9f522483c81f8a2d039ae6967",
       "summation": "md5"
     },
     {
       "name": "jornaloglobo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666246912",
-      "size": "1695744",
-      "md5": "b0a4f0d0f2396d9a0234096a87658b8a",
-      "crc32": "4caa0361",
-      "sha1": "a565ba2a6c3b5f5fcf34f19a50773f660ed77f23",
+      "mtime": "1666266920",
+      "size": "1708032",
+      "md5": "51becb0e7c40e42bef318bba6d43e83f",
+      "crc32": "42ab8d24",
+      "sha1": "aa8aa8e21b582e5882133ee9c6ea1d832eccf5ce",
       "format": "Metadata"
     },
     {
@@ -13730,9 +13793,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1328,
-  "item_last_updated": 1666247002,
-  "item_size": 105434443,
+  "files_count": 1334,
+  "item_last_updated": 1666267103,
+  "item_size": 105931486,
   "metadata": {
     "identifier": "jornaloglobo-2022",
     "collection": [
@@ -13749,10 +13812,29 @@
     "publicdate": "2022-08-02 14:55:56",
     "addeddate": "2022-08-02 14:55:56"
   },
+  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "uniq": 1929117372,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3446526282,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3446527478,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 965528266,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia601400.us.archive.org"
   ]
 }
