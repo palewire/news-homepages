@@ -1,5 +1,5 @@
 {
-  "created": 1666188716,
+  "created": 1666279154,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/34/items/ponews-2022",
@@ -3581,31 +3581,166 @@
       "format": "JSON"
     },
     {
+      "name": "ponews-2022-10-19T10:10:59.764117-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ponews-2022-10-19T10:10:59.764117-04:00.jpg",
+      "mtime": "1666203729",
+      "size": "8829",
+      "md5": "d0e6db9196e7720a2b00f873b51c3692",
+      "crc32": "e80e80ea",
+      "sha1": "3d2490fe58c7227ae55683c6a56b980c1b6da6ed"
+    },
+    {
+      "name": "ponews-2022-10-19T22:29:56.666150-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666233000",
+      "size": "20910",
+      "md5": "7de8f413bda290a583dfafbc03a85321",
+      "crc32": "219f4392",
+      "sha1": "6a9bee3c50d230387c49b744fe8868139e8c9056",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-19T22:29:56.666150-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666233001",
+      "size": "30261",
+      "md5": "45341f45add2e19d254effc34c5fbec6",
+      "crc32": "c54fd452",
+      "sha1": "48c01eab317e41956a605c3dc78d49ad02947b89",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-19T22:29:56.666150-04:00.jpg",
+      "source": "original",
+      "mtime": "1666232998",
+      "size": "264302",
+      "md5": "7baa64387a810f432f806fbfcabace36",
+      "crc32": "82f81078",
+      "sha1": "b113915c193e7c424d0953b0ed9199f9d6c43785",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ponews-2022-10-19T22:29:56.666150-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666233003",
+      "size": "1576",
+      "md5": "aaa6701ed533c7a9c97c6b9ac537772b",
+      "crc32": "9f3beeff",
+      "sha1": "922a1c4067d61e011afb7b06c071c23cb208b728",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-19T22:29:56.666150-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666233005",
+      "size": "88787",
+      "md5": "8658d8fb08f0e9844b83f77f5c0dbb53",
+      "crc32": "8a8591bc",
+      "sha1": "8ca145a8399e281369119bc9e5e3680ed299483e",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-19T22:29:56.666150-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ponews-2022-10-19T22:29:56.666150-04:00.jpg",
+      "mtime": "1666233068",
+      "size": "9401",
+      "md5": "c3d61170c9da8a28b117e35d8ae51cca",
+      "crc32": "646194c2",
+      "sha1": "e85be93da972c86ac453c8f1f867e279776d81c7"
+    },
+    {
+      "name": "ponews-2022-10-20T10:20:35.121542-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666275642",
+      "size": "20978",
+      "md5": "c45a3f789ce87161dc1af5a31bdb1b8e",
+      "crc32": "62265584",
+      "sha1": "84cd71d6ae52b9a460dd970bd66f2523cb5d2009",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-20T10:20:35.121542-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666275643",
+      "size": "32736",
+      "md5": "54478d2a3086e6b95846843600ca7b57",
+      "crc32": "2c23e9e2",
+      "sha1": "2de4237f40edae2d12284b114034f5134810c4b7",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-20T10:20:35.121542-04:00.jpg",
+      "source": "original",
+      "mtime": "1666275640",
+      "size": "285600",
+      "md5": "681ce58f8f04d26d2a0d0f0493d51dec",
+      "crc32": "c4d628a2",
+      "sha1": "25bd0b03ba74e8d55d6bf6c2e7429fb72e0d00b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ponews-2022-10-20T10:20:35.121542-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666275645",
+      "size": "1576",
+      "md5": "30f853785d86858141858a4a6d424ec3",
+      "crc32": "2d33e94f",
+      "sha1": "a7c8d6f46eae314c39351c0181c9b135cea2ae44",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-20T10:20:35.121542-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666275647",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-20T10:20:35.121542-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ponews-2022-10-20T10:20:35.121542-04:00.jpg",
+      "mtime": "1666275703",
+      "size": "9589",
+      "md5": "04f75b6f302a90f56bc6480c52345ca6",
+      "crc32": "46603f86",
+      "sha1": "bb9d0eacd11a72bfa94620af7bf58a41de1edda4"
+    },
+    {
       "name": "ponews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d435ec5c4cc2a0dba74e8d5213b4ac8d953728d1",
-      "mtime": "1666188712",
-      "size": "73417",
-      "md5": "5c11218d36a669f9c5e7ea1adf34b197",
-      "crc32": "870a104c",
-      "sha1": "faa4d19c258423563220eebc72f5047cd1618475",
+      "btih": "bd80b56055b217d0a6db3a9d6f241fdca81d1a99",
+      "mtime": "1666275716",
+      "size": "76127",
+      "md5": "2174c941e26253ecb6fc6c59f6f6e87f",
+      "crc32": "a856fb46",
+      "sha1": "1c7ca92458bf4bda9f8c2b19f52b1df59d33782d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ponews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c189b646b40631c904c1c8f11a37430f",
+      "md5": "d603ed4d0068994714f84141a9032c47",
       "summation": "md5"
     },
     {
       "name": "ponews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666188674",
-      "size": "458752",
-      "md5": "1dad2ed4c608abcfd11c6521f7c558dd",
-      "crc32": "bdb94492",
-      "sha1": "fda161ca94bf1034d45812b715a00d7e3b62be0d",
+      "mtime": "1666275651",
+      "size": "475136",
+      "md5": "51ba23f9c2cd9b251b6a2b8527d78e86",
+      "crc32": "ff119050",
+      "sha1": "cc826a6fb5bd0eb97dbcab4605a8b6ed54728107",
       "format": "Metadata"
     },
     {
@@ -3619,9 +3754,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 350,
-  "item_last_updated": 1666188712,
-  "item_size": 22400467,
+  "files_count": 363,
+  "item_last_updated": 1666275716,
+  "item_size": 23194308,
   "metadata": {
     "identifier": "ponews-2022",
     "collection": [
@@ -3638,21 +3773,15 @@
     "publicdate": "2022-09-21 02:22:41",
     "addeddate": "2022-09-21 02:22:41"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445685136,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 138673711,
+  "ponews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801401.us.archive.org",
+  "uniq": 1655317312,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

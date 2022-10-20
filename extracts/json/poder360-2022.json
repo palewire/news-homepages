@@ -1,5 +1,5 @@
 {
-  "created": 1666267064,
+  "created": 1666279257,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/28/items/poder360-2022",
@@ -13182,31 +13182,93 @@
       "sha1": "e980325f727cd368348673bd008d8400de27d8d7"
     },
     {
+      "name": "poder360-2022-10-20T11:20:20.614794-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666275631",
+      "size": "45201",
+      "md5": "c1068f6df79fbdeca5819ac4aba68b33",
+      "crc32": "9bd40377",
+      "sha1": "1bf29d3a2cee35e598f959897a7b4b27faa8eb38",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-10-20T11:20:20.614794-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666275633",
+      "size": "40863",
+      "md5": "93cf0903b3a889b29c91a0121a27673a",
+      "crc32": "8893ef0d",
+      "sha1": "4c3130afe39b466b7246d9897d170e655781d5ed",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-10-20T11:20:20.614794-03:00.jpg",
+      "source": "original",
+      "mtime": "1666275629",
+      "size": "281559",
+      "md5": "add8a8272885d886ded7093fc0e76738",
+      "crc32": "17809487",
+      "sha1": "1a549d84adc8943a707e7d3727f64f47226d46e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "poder360-2022-10-20T11:20:20.614794-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666275635",
+      "size": "1504",
+      "md5": "cfa67de3f78645fd5afa7faee2184bee",
+      "crc32": "5a797305",
+      "sha1": "9e663b196f9550f5b1662c3bc2adc39346098c7d",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-10-20T11:20:20.614794-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666275637",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-10-20T11:20:20.614794-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "poder360-2022-10-20T11:20:20.614794-03:00.jpg",
+      "mtime": "1666275724",
+      "size": "9945",
+      "md5": "d644fbe8a46957218d18e40da991e900",
+      "crc32": "bd04f82b",
+      "sha1": "ba41f62552a00e44b698091f64ebd0cc05fc1f2c"
+    },
+    {
       "name": "poder360-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59063a1a02222c4d232e851dd8a7f96f38d7fbbc",
-      "mtime": "1666267039",
-      "size": "269608",
-      "md5": "7d1785adc2f0cd466da6fd072a53fa68",
-      "crc32": "3a2f9886",
-      "sha1": "52b20687a893f8d30e5695f8e0b30e84ab41b3c9",
+      "btih": "df5ba891e2a52fb8b76313a0fb400563ccc47972",
+      "mtime": "1666275745",
+      "size": "270873",
+      "md5": "eb0b5fd23b56637e3c1eb0b7e11acb65",
+      "crc32": "9440fcc5",
+      "sha1": "5a3fe186b9cd21071296af0e7e5e040b1ba4456e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poder360-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "78e21b17899488f26bd11e57324ca046",
+      "md5": "5a43bf67753c078bab648498f24be210",
       "summation": "md5"
     },
     {
       "name": "poder360-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666266920",
-      "size": "1630208",
-      "md5": "e7b963811c12942ac088fa15d8be60e4",
-      "crc32": "f8ff4cd3",
-      "sha1": "88f821a3cf3ec8b54675e27a5dd15ce27bf4b9d9",
+      "mtime": "1666275645",
+      "size": "1638400",
+      "md5": "ecfd7121f8d14a0fb00bddfd01e189e0",
+      "crc32": "2d56765a",
+      "sha1": "18f620a9317c500ddd552bd6f4325c605f102466",
       "format": "Metadata"
     },
     {
@@ -13220,9 +13282,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1279,
-  "item_last_updated": 1666267039,
-  "item_size": 85599517,
+  "files_count": 1285,
+  "item_last_updated": 1666275745,
+  "item_size": 85988248,
   "metadata": {
     "identifier": "poder360-2022",
     "collection": [
@@ -13239,8 +13301,13 @@
     "publicdate": "2022-08-07 19:43:59",
     "addeddate": "2022-08-07 19:43:59"
   },
+  "poder360-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801507.us.archive.org",
-  "uniq": 722528409,
+  "uniq": 104386092,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"
