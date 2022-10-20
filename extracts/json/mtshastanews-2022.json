@@ -1,5 +1,5 @@
 {
-  "created": 1665683755,
+  "created": 1666072609,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/29/items/mtshastanews-2022",
@@ -2910,31 +2910,589 @@
       "sha1": "9d97c401238e00d84b522e02cafde385e8559b78"
     },
     {
+      "name": "mtshastanews-2022-10-13T23:30:44.073738-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665729049",
+      "size": "24418",
+      "md5": "bb0abe0140e8fde89c86aa14d5ce0d95",
+      "crc32": "ec107a34",
+      "sha1": "f85a17118ebc930455799ef5ba019cc9fd9a2a31",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-13T23:30:44.073738-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665729051",
+      "size": "29379",
+      "md5": "d15a567f87ed8459687a470dd12a6ee0",
+      "crc32": "7800fcab",
+      "sha1": "94bdfc7e5aa22d9458ef5285214401247a6c2433",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-13T23:30:44.073738-07:00.jpg",
+      "source": "original",
+      "mtime": "1665729047",
+      "size": "238509",
+      "md5": "e9e354bbc570e183fc34e780610f5cab",
+      "crc32": "b74370b5",
+      "sha1": "dc4fc2c51059e7ed67d89ad39a7a55fa38cfac17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-13T23:30:44.073738-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665729053",
+      "size": "1513",
+      "md5": "c4a8e3643dc0158aa8bd32f0dfa408a5",
+      "crc32": "2bb0dbc4",
+      "sha1": "9cf88d49458fb594f03c08ddc025f21f04c4532f",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-13T23:30:44.073738-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665729056",
+      "size": "143347",
+      "md5": "2c5df40ab14056b53c799140b26eb13f",
+      "crc32": "a4012a7e",
+      "sha1": "e50e5d7b6be9c3e766dda27fea98e50b2c3b9383",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-13T23:30:44.073738-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-13T23:30:44.073738-07:00.jpg",
+      "mtime": "1665729110",
+      "size": "9046",
+      "md5": "bb740d1b5125ee5d63496eaadb066285",
+      "crc32": "c5ee3154",
+      "sha1": "b841abb42ef96e8a87f78bfe203d8f22fee7eec7"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T11:18:11.539430-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665771499",
+      "size": "23827",
+      "md5": "173d96186cf46f1f020ccab4729833b7",
+      "crc32": "8e09e813",
+      "sha1": "a47f37d26bfaf914cf956de95d121b437289dd98",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T11:18:11.539430-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665771502",
+      "size": "31437",
+      "md5": "0c43bb2e95e84fa984760befe8f7d17b",
+      "crc32": "847e7d71",
+      "sha1": "6825dd8f3b7918aa23465ebda3aa7637a179cb89",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T11:18:11.539430-07:00.jpg",
+      "source": "original",
+      "mtime": "1665771496",
+      "size": "240062",
+      "md5": "53a78b26fcdc9be8b98b98e364ecd0f6",
+      "crc32": "99ec858f",
+      "sha1": "1bcd8233bd07d3783bbafbe083a5667cf7ee3aae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T11:18:11.539430-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665771506",
+      "size": "1513",
+      "md5": "c3fad261cca9b1d8cd3279ec26ae8036",
+      "crc32": "4029ed6c",
+      "sha1": "a7a7d0ab50cd8abad6bca8c8f2f2d10b93b457a0",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T11:18:11.539430-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665771509",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T11:18:11.539430-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-14T11:18:11.539430-07:00.jpg",
+      "mtime": "1665771684",
+      "size": "9065",
+      "md5": "67d377b9e6724aaed60a0aa2aaf919ca",
+      "crc32": "12fdc17d",
+      "sha1": "7bf3c8e47426164c9f071ed98ec948ef0fdb2cee"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T23:28:54.342360-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815338",
+      "size": "24752",
+      "md5": "9cb3f41c0c872281371a410c8f17077d",
+      "crc32": "9bbabee5",
+      "sha1": "7c2b75ce5720535242e8df904c89df440a72de0c",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T23:28:54.342360-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815340",
+      "size": "30695",
+      "md5": "5b2ae9d06acd286129bad33fcea7eda2",
+      "crc32": "08e99240",
+      "sha1": "b9d506a0df3dc94b8277a6b1494d47da07d9f08b",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T23:28:54.342360-07:00.jpg",
+      "source": "original",
+      "mtime": "1665815337",
+      "size": "221414",
+      "md5": "2c9806ea34d1065807e9cec4712bf652",
+      "crc32": "c26b601a",
+      "sha1": "bf0f7743285c26a9e12e829b548953a7141e797e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T23:28:54.342360-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815342",
+      "size": "1513",
+      "md5": "90085d1f7fcedf8b14df982424535b2c",
+      "crc32": "f6ac1d32",
+      "sha1": "890f0c404a5a8593bb990f0b5bb1771e3aa6239c",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T23:28:54.342360-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815344",
+      "size": "98841",
+      "md5": "92b034649685ac165f1eb8ef806a58c4",
+      "crc32": "1e31d50c",
+      "sha1": "b16f88e15a5aabcfc9b5d80d1d819a867650f6a8",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-14T23:28:54.342360-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-14T23:28:54.342360-07:00.jpg",
+      "mtime": "1665815416",
+      "size": "8689",
+      "md5": "a16e795cc0eb56ff878d71c783571b04",
+      "crc32": "502ce438",
+      "sha1": "2c0400cd49f1b0f4efa523d2a7073a8a3b0b8616"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T11:00:49.601337-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665856855",
+      "size": "25615",
+      "md5": "0765df01bac4e53371648e552bb0ad37",
+      "crc32": "7359e5b1",
+      "sha1": "9c3277217527f6bf7356b777c6521358a875ecf2",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T11:00:49.601337-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665856856",
+      "size": "12138",
+      "md5": "41ab79f7182262f0f98e521daced666c",
+      "crc32": "c0bc69cc",
+      "sha1": "5e587046af92c032c41d5f5b43583164d7de8bf4",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T11:00:49.601337-07:00.jpg",
+      "source": "original",
+      "mtime": "1665856853",
+      "size": "242103",
+      "md5": "eb6a59815f2612d9966e30164efb704b",
+      "crc32": "3f87fb0b",
+      "sha1": "acc7b0a445d1276a85aa632b01d3c3c50b7817de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T11:00:49.601337-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665856858",
+      "size": "1513",
+      "md5": "8d69afc9d565bfb1400ab3591d71da2e",
+      "crc32": "075a61ef",
+      "sha1": "e99967617b95fda23e939528e315dec4f6fe1afb",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T11:00:49.601337-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665856859",
+      "size": "105768",
+      "md5": "ab580c52a3948bedd4301cc2a88fa3b7",
+      "crc32": "73ea38a7",
+      "sha1": "deb74ef0c66886ff1d66f0d6302de7fc9eb60636",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T11:00:49.601337-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-15T11:00:49.601337-07:00.jpg",
+      "mtime": "1665856919",
+      "size": "9236",
+      "md5": "2b9604f3c2b35f0f79e5bd1ba688cd03",
+      "crc32": "a3feac2f",
+      "sha1": "1450c5fa6957b738ab18d43c8ce3df08c26161fc"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T22:58:55.972455-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665899938",
+      "size": "24206",
+      "md5": "4a3836359978dc94d0826d1a61c48311",
+      "crc32": "0ee5ed4b",
+      "sha1": "d7d0a545b830b5fb3461f36900cc3c9854a4de0d",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T22:58:55.972455-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665899939",
+      "size": "33574",
+      "md5": "86774c14e6e046f192985647c29cbe0a",
+      "crc32": "97014f58",
+      "sha1": "9de681d95037560a59bfd7b1d8008dba67b93b00",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T22:58:55.972455-07:00.jpg",
+      "source": "original",
+      "mtime": "1665899937",
+      "size": "269726",
+      "md5": "3e3342cb681eb57d49e8be46012d937c",
+      "crc32": "fdf8490f",
+      "sha1": "6ace47b99aef57df72f2146275ea95adad26c419",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T22:58:55.972455-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665899941",
+      "size": "1512",
+      "md5": "3860ed033c41cd77756636e608c047d0",
+      "crc32": "08c9ad57",
+      "sha1": "1ee8427cb726b51f98b1120b0fe9816be9285de4",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T22:58:55.972455-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665899942",
+      "size": "136836",
+      "md5": "248c2f57e2d1488e6c286c9754306166",
+      "crc32": "68335171",
+      "sha1": "54777126a16cfa591106ee351ab3a461f8515b55",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-15T22:58:55.972455-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-15T22:58:55.972455-07:00.jpg",
+      "mtime": "1665900911",
+      "size": "9022",
+      "md5": "95d5cc505d190a266fd7fdfc3960279c",
+      "crc32": "ed5b31d1",
+      "sha1": "537839d4da573a933da73e1a9fd98a6fdbe1ec46"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T10:28:10.817765-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941294",
+      "size": "25155",
+      "md5": "f0a5315025f82cdbb5ad11bdd1af0ba2",
+      "crc32": "cf1fb064",
+      "sha1": "1829b79eddef118bde4a090a79d3552cf70f74b8",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T10:28:10.817765-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941295",
+      "size": "32868",
+      "md5": "882b04b69eedc16cfe3e3b3468efb969",
+      "crc32": "115d1b53",
+      "sha1": "9542745793a186a276bbc69ff5c0870b126ba359",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T10:28:10.817765-07:00.jpg",
+      "source": "original",
+      "mtime": "1665941292",
+      "size": "228549",
+      "md5": "1d792cc21631423529492278569677ee",
+      "crc32": "cf17c010",
+      "sha1": "2feefeee5c41af77f8ee791745eab08c0c9cc077",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T10:28:10.817765-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941297",
+      "size": "1513",
+      "md5": "da827db79f7ee5c1a45ff579780ef353",
+      "crc32": "56207e90",
+      "sha1": "ede4764e705a71dc1556b6babd42a659ca139f70",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T10:28:10.817765-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941299",
+      "size": "96108",
+      "md5": "9cb086a342127fe8dcb45d8f7ab7e6c6",
+      "crc32": "57c9c272",
+      "sha1": "7feff3385a609e202b6e1f7cec8678a91bc76179",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T10:28:10.817765-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-16T10:28:10.817765-07:00.jpg",
+      "mtime": "1665941353",
+      "size": "8803",
+      "md5": "4784fd59eea3cd6223b9fc47e8a02b08",
+      "crc32": "32382038",
+      "sha1": "52f0dd15ffde68065a910a6d522b39e32294d6c2"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T23:19:18.811680-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665987564",
+      "size": "25434",
+      "md5": "fdf645eee2431070685536ec6358dae2",
+      "crc32": "b5da58fd",
+      "sha1": "d36b264a3c3a67e0298e603bdb1e40f668e94a1e",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T23:19:18.811680-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665987565",
+      "size": "31080",
+      "md5": "7e7dc30603eeab154d77d1e308b0313b",
+      "crc32": "b1726653",
+      "sha1": "cb06ccad177f164891c28a6dd4fefe42fa11c407",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T23:19:18.811680-07:00.jpg",
+      "source": "original",
+      "mtime": "1665987562",
+      "size": "221202",
+      "md5": "ba70f9831a25908c19f63b643cf6ea7c",
+      "crc32": "d9f919e3",
+      "sha1": "c93c6346cde0506dd031cb71254c0e65ee9e78c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T23:19:18.811680-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665987567",
+      "size": "1513",
+      "md5": "5b122bd5eb53df4a8ad6adadcd3aabeb",
+      "crc32": "e3bf4507",
+      "sha1": "07c3d19fa152a9c4ee84c6a9c70528659bdf1b9e",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T23:19:18.811680-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665987570",
+      "size": "183625",
+      "md5": "6109986e42c1f9b05c6a1d9bb87d5048",
+      "crc32": "3912b5cc",
+      "sha1": "6a534e97db17144abc24f8c9ae3e5927fdba3d00",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-16T23:19:18.811680-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-16T23:19:18.811680-07:00.jpg",
+      "mtime": "1665987638",
+      "size": "8693",
+      "md5": "89e3ae128e38cc5c150022e1aa6bef88",
+      "crc32": "5e0c30bf",
+      "sha1": "61d8ea52d7962c03ae2b9a82d1d5f4a9b993b053"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T11:05:03.732198-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666029909",
+      "size": "24533",
+      "md5": "69ebada0c0b7209530e9bb1578093b1c",
+      "crc32": "797441f1",
+      "sha1": "8208ef4b48785653a7494711d90046ae67857f14",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T11:05:03.732198-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666029910",
+      "size": "35211",
+      "md5": "3309f9bd78c3cb12d711b156a8ee44e5",
+      "crc32": "9eb5facb",
+      "sha1": "f889bc2f859a9e3670e1d2660ad1b616b2c6c495",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T11:05:03.732198-07:00.jpg",
+      "source": "original",
+      "mtime": "1666029907",
+      "size": "229278",
+      "md5": "699ed1b022dc6e2618000ea478f303f3",
+      "crc32": "d3d320a2",
+      "sha1": "df4a77af42d3127408e30440674f5898f7e73446",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T11:05:03.732198-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666029912",
+      "size": "1513",
+      "md5": "ce50629554b351edff54e9a6901d65e6",
+      "crc32": "b3d6ffa6",
+      "sha1": "77ae221b628d5d745b9bb556643d5fbe8c540be2",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T11:05:03.732198-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666029914",
+      "size": "105825",
+      "md5": "2aec61897c7c9650b414ac73d392ed5d",
+      "crc32": "7f5b3ee4",
+      "sha1": "3978e7e84e060f2a58a5b71340008a46435e8922",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T11:05:03.732198-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-17T11:05:03.732198-07:00.jpg",
+      "mtime": "1666031108",
+      "size": "8796",
+      "md5": "bdfb12270967f5d05e8698c4bdb44977",
+      "crc32": "c06cae3c",
+      "sha1": "d1370a373a91c747ec6fe1b6bc38565e33b9af8a"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T22:55:15.396656-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072525",
+      "size": "24907",
+      "md5": "0f3ec45bf994c1c8a378c0e381aabb58",
+      "crc32": "ab0e0f55",
+      "sha1": "97d55824afb50855eb556b7a02911af6b680d902",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T22:55:15.396656-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072526",
+      "size": "31659",
+      "md5": "1c22eaee870098b8fb073b495cbcf4de",
+      "crc32": "91876c2a",
+      "sha1": "9ea01d1e8a55ab2238cd61f0bb62b98855a032dd",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T22:55:15.396656-07:00.jpg",
+      "source": "original",
+      "mtime": "1666072520",
+      "size": "196917",
+      "md5": "34d27ae5329715e1bacd0098d4d732f5",
+      "crc32": "e142a6ad",
+      "sha1": "1a81627596e68d10cb625913c867ea15adf72ab2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T22:55:15.396656-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072528",
+      "size": "1513",
+      "md5": "d42da064189fd898b7e262731d43148a",
+      "crc32": "94d1bda5",
+      "sha1": "4fe31a4188625c4e179321ae97baf8ebca9b8893",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T22:55:15.396656-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072530",
+      "size": "164801",
+      "md5": "52305fd5c474c154ec8fa13bc017a204",
+      "crc32": "cf5ead86",
+      "sha1": "00a783c8f58bf382a343f5fe4a9414fc17d8269a",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-17T22:55:15.396656-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-10-17T22:55:15.396656-07:00.jpg",
+      "mtime": "1666072590",
+      "size": "8508",
+      "md5": "468d528367cd82f3c360f4ef630019e8",
+      "crc32": "d8fdfadd",
+      "sha1": "7b23e6855039a37447f46cece6be7cbd3a5c0ade"
+    },
+    {
       "name": "mtshastanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3690894584c602f139d89729e1d1d5e7af7f57cb",
-      "mtime": "1665683746",
-      "size": "61663",
-      "md5": "1776330d5cfa0ea73226c6757d626e12",
-      "crc32": "0d2bdb8e",
-      "sha1": "2aee48c0bc828b95484b69251795ad2521824ce7",
+      "btih": "6c4108c4f6393eb112d4b1f3be859a40cce0fae1",
+      "mtime": "1666072597",
+      "size": "73246",
+      "md5": "cf9702f0b49d45beb1318a863985f403",
+      "crc32": "685f521e",
+      "sha1": "c4de9fb0da0e28107b0915d580a64d5c5e494156",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtshastanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "044bf6d80678d2455c1784475a4f5ee1",
+      "md5": "3d2c2049952438bb3172eee3b347ce17",
       "summation": "md5"
     },
     {
       "name": "mtshastanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665683685",
-      "size": "376832",
-      "md5": "1dc9c6c17ff0c797a9d7d9f2a8cfe554",
-      "crc32": "e61aa694",
-      "sha1": "8793064bf8da304a5108dfdcd8997bfe58fc3077",
+      "mtime": "1666072534",
+      "size": "446464",
+      "md5": "281d5299fbf02e18b8bea3f13c9b3d69",
+      "crc32": "2cf38b36",
+      "sha1": "adb6aff965f95c4e96e2adc2abc41b2e501312e1",
       "format": "Metadata"
     },
     {
@@ -2948,9 +3506,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 285,
-  "item_last_updated": 1665683746,
-  "item_size": 18589648,
+  "files_count": 339,
+  "item_last_updated": 1666072597,
+  "item_size": 22378338,
   "metadata": {
     "identifier": "mtshastanews-2022",
     "collection": [
@@ -2967,10 +3525,10 @@
     "publicdate": "2022-09-20 17:35:39",
     "addeddate": "2022-09-20 17:35:39"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 1172495147,
+  "server": "ia801505.us.archive.org",
+  "uniq": 610778895,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

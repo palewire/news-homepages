@@ -1,5 +1,5 @@
 {
-  "created": 1665665879,
+  "created": 1666184314,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/25/items/juneauempire-2022",
@@ -3912,31 +3912,754 @@
       "sha1": "9a46aa0b6eecd7016bddc04804c77fc62fa87182"
     },
     {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665710289",
+      "size": "34398",
+      "md5": "9e7bb6e4affcfaa7cdb91c25b4196687",
+      "crc32": "26754893",
+      "sha1": "f216b34e1a4a0fd451baa643fdbc74ea1926a0be",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665710291",
+      "size": "38195",
+      "md5": "f10bcfe593cb355a53a8341b058cf68c",
+      "crc32": "f55f97fd",
+      "sha1": "6783eb911374b18fdb044e54ef33a9407bd973a9",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.jpg",
+      "source": "original",
+      "mtime": "1665710287",
+      "size": "268635",
+      "md5": "93916b4022de21cec21f5598024775ab",
+      "crc32": "daf39b5b",
+      "sha1": "3017335c6279453fbd23c418e6f4ece743d863ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665710292",
+      "size": "1513",
+      "md5": "0fd27bcbfa374388565353f5e194cb9c",
+      "crc32": "72e62953",
+      "sha1": "d50024e2a930e2ea797b234e160320b278f767d2",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665710294",
+      "size": "34886",
+      "md5": "aa9ed2cc435e26c8296345e735bbdf0f",
+      "crc32": "c67059cd",
+      "sha1": "84b7891dd7c4725df2c0578d0b69fa8a7cd5d9e4",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-13T17:18:01.846240-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-13T17:18:01.846240-08:00.jpg",
+      "mtime": "1665710350",
+      "size": "9030",
+      "md5": "6dd9bf08c50a02a6d35e4c75821199b1",
+      "crc32": "20782a5b",
+      "sha1": "526f87936a8d2c496b90266591fb890dabb3625a"
+    },
+    {
+      "name": "juneauempire-2022-10-14T05:05:41.125835-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665752747",
+      "size": "34284",
+      "md5": "6ddd5c591cd516ec771fb5b122908fc5",
+      "crc32": "4c385d5d",
+      "sha1": "77b078a4d647cf3a4a46bdf0be7a46adf1e9e3d2",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-14T05:05:41.125835-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665752752",
+      "size": "38166",
+      "md5": "181ec819224b1c19a4686d296a243879",
+      "crc32": "240dfd67",
+      "sha1": "ece40010a7d60a4cc8198dbf9c1fb1829e412834",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-14T05:05:41.125835-08:00.jpg",
+      "source": "original",
+      "mtime": "1665752745",
+      "size": "265299",
+      "md5": "a3742a0e1d9bb127f7f615df6d43afd6",
+      "crc32": "7b3eb9ef",
+      "sha1": "47c95ea8574e628b6c6b5bf8cd5d8d0204f6a2da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-14T05:05:41.125835-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665752754",
+      "size": "1512",
+      "md5": "50da1c7d5b32e391d243cd7c6e3aac03",
+      "crc32": "571ae093",
+      "sha1": "3bb572e25783418edfeeafabbd81b3a568b770a9",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-14T05:05:41.125835-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665752756",
+      "size": "33451",
+      "md5": "03b41c96aa07b6331c7be5d763599b4c",
+      "crc32": "c7330fe9",
+      "sha1": "c87e0fefb173fb7e5785daf375274daadb10498e",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-14T05:05:41.125835-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-14T05:05:41.125835-08:00.jpg",
+      "mtime": "1665752826",
+      "size": "9041",
+      "md5": "e4e52ec2553d982a25567b1ad4d3d527",
+      "crc32": "075d3870",
+      "sha1": "bc169d7c5d5b32b01f1158092b31f1ea967d146e"
+    },
+    {
+      "name": "juneauempire-2022-10-14T17:19:22.950025-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665796774",
+      "size": "34033",
+      "md5": "9e8578be45764e23d4448421ed0d5d28",
+      "crc32": "d6b8e4e2",
+      "sha1": "c417f3bc4010a7184e2228268668f4dec3b524dc",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-14T17:19:22.950025-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665796775",
+      "size": "38173",
+      "md5": "f9bfc1a6b27cabb5728b72b14bc5ebc9",
+      "crc32": "7d39bf19",
+      "sha1": "2714889275adff89c6e92268668bac4bb421e720",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-14T17:19:22.950025-08:00.jpg",
+      "source": "original",
+      "mtime": "1665796772",
+      "size": "267933",
+      "md5": "5ec5c3ed190357c16db05c7989efa478",
+      "crc32": "8db01402",
+      "sha1": "73fa30b9ff8fb313461c45f203975b021823b669",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-14T17:19:22.950025-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665796776",
+      "size": "1512",
+      "md5": "4f6ca4d3c65af3204d7aee3c2106dcd8",
+      "crc32": "5ad4ef7c",
+      "sha1": "e39bc69267ca3471bc6fb05d613a6a22468c1b23",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-14T17:19:22.950025-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665796778",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-14T17:19:22.950025-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-14T17:19:22.950025-08:00.jpg",
+      "mtime": "1665796870",
+      "size": "8938",
+      "md5": "df04d7586c12f5c3d487f3366cc21444",
+      "crc32": "f43e21c2",
+      "sha1": "1f39a6a41eb11c8b269fc481bb35eb8195415399"
+    },
+    {
+      "name": "juneauempire-2022-10-15T04:58:53.016953-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665838736",
+      "size": "33771",
+      "md5": "c265689aad4455f1f26e0c85c975d677",
+      "crc32": "5172cbdb",
+      "sha1": "dd1749528d2a9aa382819c0e5d42d6b0414f362b",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-15T04:58:53.016953-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665838738",
+      "size": "38292",
+      "md5": "67322b31e638cf9fef5debec02108a0f",
+      "crc32": "28bd5067",
+      "sha1": "87ff8ca6153590d196522444b94014350207279c",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-15T04:58:53.016953-08:00.jpg",
+      "source": "original",
+      "mtime": "1665838735",
+      "size": "279687",
+      "md5": "5b6de68483c1780ff09f8596e8e4ebb1",
+      "crc32": "2c504bb8",
+      "sha1": "97ef523c1ef1e18b8ee8bb3eb97fdebe006eca12",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-15T04:58:53.016953-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665838739",
+      "size": "1513",
+      "md5": "e0e04d7b8c1416c0ef0c1cff9ac44e57",
+      "crc32": "b4e7ac8b",
+      "sha1": "ce1ea17b017aee9f8ab75c77830da458471f0d4b",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-15T04:58:53.016953-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665838741",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-15T04:58:53.016953-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-15T04:58:53.016953-08:00.jpg",
+      "mtime": "1665838800",
+      "size": "9003",
+      "md5": "d825be5737dc8cfe3835e53230380564",
+      "crc32": "56d0ab5b",
+      "sha1": "9e3a88ea7cbaaa3067bad27ebaae0a57be165117"
+    },
+    {
+      "name": "juneauempire-2022-10-15T17:33:37.362876-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665884022",
+      "size": "33699",
+      "md5": "8587c8bd18a147f8bd32226a5e2a5960",
+      "crc32": "eaafbd32",
+      "sha1": "722a75cb03b0989d13c75392546e5f1dc980df7f",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-15T17:33:37.362876-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665884023",
+      "size": "38203",
+      "md5": "982c99d8083248db717e7e286a3107de",
+      "crc32": "0072be15",
+      "sha1": "765a9bfbde4acad84a415030f71481efd6414078",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-15T17:33:37.362876-08:00.jpg",
+      "source": "original",
+      "mtime": "1665884020",
+      "size": "292685",
+      "md5": "3f0277e00e73b8a9a6f537eb4a5c8368",
+      "crc32": "bacccb43",
+      "sha1": "3de368f13659eb1d9ecbbcc2454b7222b675ca3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-15T17:33:37.362876-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665884025",
+      "size": "1513",
+      "md5": "535fa9eb5c56bb167cd93ee25170ec6a",
+      "crc32": "fb6869ce",
+      "sha1": "5848a3bc1d14ebd0b7d4e8b92d9930fd8a3c1f74",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-15T17:33:37.362876-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665884026",
+      "size": "34021",
+      "md5": "a53f2aca58aa19b03a328388eee86d8b",
+      "crc32": "c5b66192",
+      "sha1": "071412e06274b88c5f138ae7bfe41ad812d496af",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-15T17:33:37.362876-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-15T17:33:37.362876-08:00.jpg",
+      "mtime": "1665884078",
+      "size": "9018",
+      "md5": "b1dd849771d4f5f96400ff015457a5cc",
+      "crc32": "bb8a41d3",
+      "sha1": "9a0563aa4063de8315a7310836f4fa42e6552d9c"
+    },
+    {
+      "name": "juneauempire-2022-10-16T04:53:14.692153-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665924799",
+      "size": "34009",
+      "md5": "57bff31ceb78a4ee30401014eb22b4bc",
+      "crc32": "f7659b2b",
+      "sha1": "912bf6a20390d78f603d254d22db1e1e70b37d66",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-16T04:53:14.692153-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665924801",
+      "size": "38049",
+      "md5": "09b55d31b8d5699868189069d3be7b60",
+      "crc32": "50028ff6",
+      "sha1": "0b23e00ac6a2d6234ae8f99635eca81b2ce8f256",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-16T04:53:14.692153-08:00.jpg",
+      "source": "original",
+      "mtime": "1665924798",
+      "size": "283896",
+      "md5": "d09f0f94b0894ffb37f22ca17babd0eb",
+      "crc32": "77c9ca76",
+      "sha1": "43f7e11e30b354b6c746991fc754ac89760fcda1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-16T04:53:14.692153-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665924803",
+      "size": "1512",
+      "md5": "7b302982f29723d7b686623034665990",
+      "crc32": "99c6deea",
+      "sha1": "4db86730eea13d823f9554df3ce64fd4ef6b88c6",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-16T04:53:14.692153-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665924804",
+      "size": "209",
+      "md5": "3a1e5fe71b35dfb01d5e6ee2a0f8701a",
+      "crc32": "185f30bc",
+      "sha1": "b01850a3e32b258b0c673aea8a58ca74b1a9ed7f",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-16T04:53:14.692153-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-16T04:53:14.692153-08:00.jpg",
+      "mtime": "1665924855",
+      "size": "9079",
+      "md5": "e39c941089999517eed302d16a5edce3",
+      "crc32": "994b0ee3",
+      "sha1": "03d99cfe867dacd3037572a3177aa1c44b27b0c4"
+    },
+    {
+      "name": "juneauempire-2022-10-16T17:18:45.832129-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665969529",
+      "size": "33971",
+      "md5": "5799d482a2301e2ee7765babd08e5723",
+      "crc32": "f1efb82f",
+      "sha1": "20d95a2029af1b3cdbd7262289a01d10addac67d",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-16T17:18:45.832129-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665969530",
+      "size": "38053",
+      "md5": "2fff0ed6ded0a9f5713a5136a18b1d75",
+      "crc32": "9e6883e5",
+      "sha1": "768717245ac2fe1e6e6c14e91433b7743f15079a",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-16T17:18:45.832129-08:00.jpg",
+      "source": "original",
+      "mtime": "1665969528",
+      "size": "283547",
+      "md5": "49bbe5fb6c8910382826024ea07d5aad",
+      "crc32": "5c9612bc",
+      "sha1": "2fe306a3311d4011746ffcfeabd7d101d0e64823",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-16T17:18:45.832129-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665969532",
+      "size": "1513",
+      "md5": "89126995928b973af0e23d634c26137e",
+      "crc32": "ac083c99",
+      "sha1": "e1c26e5fb6c66bcce677c222415c91936dc70f5d",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-16T17:18:45.832129-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1665969533",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-16T17:18:45.832129-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-16T17:18:45.832129-08:00.jpg",
+      "mtime": "1665969585",
+      "size": "9079",
+      "md5": "8a0b23cf31a815836305c07fa01cdda1",
+      "crc32": "8363fa3a",
+      "sha1": "c2c74c6b36b81b76a15add8938863148ef1c6c98"
+    },
+    {
+      "name": "juneauempire-2022-10-17T04:53:34.166123-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666011218",
+      "size": "33971",
+      "md5": "4fab4214e19b79821f8a28debf9bc8be",
+      "crc32": "19833c70",
+      "sha1": "708587169d6c9a96b9578c2535481d8b10ea0b1c",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-17T04:53:34.166123-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666011220",
+      "size": "38054",
+      "md5": "ce82cdd16a909f9179f70d1d852b8481",
+      "crc32": "025b131a",
+      "sha1": "862b56a5f25d7af503c98a3c039fd0aeff06d636",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-17T04:53:34.166123-08:00.jpg",
+      "source": "original",
+      "mtime": "1666011217",
+      "size": "283870",
+      "md5": "14df1fb1b7316faa8696c80230cb968a",
+      "crc32": "2b64b53e",
+      "sha1": "cdc899608f8b0db2b96e4cd46ac65eb0f6dff985",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-17T04:53:34.166123-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666011222",
+      "size": "1512",
+      "md5": "153c1e15dd215e2cef7aeca487528399",
+      "crc32": "65977309",
+      "sha1": "0f1513457573d63a124b8262b7e3456c3bc88545",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-17T04:53:34.166123-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666011223",
+      "size": "47131",
+      "md5": "490132c815cabb7592ea97928bb84f49",
+      "crc32": "c98b147e",
+      "sha1": "8cba0f37fe5ea90abb50e28243ba137e12da9567",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-17T04:53:34.166123-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-17T04:53:34.166123-08:00.jpg",
+      "mtime": "1666011276",
+      "size": "9088",
+      "md5": "f0d2a3b110d2705daae4c421de563e0e",
+      "crc32": "b379974b",
+      "sha1": "80636d55351c6bf30e8bb7f6d63c713582a46e1d"
+    },
+    {
+      "name": "juneauempire-2022-10-17T17:23:04.362513-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666056190",
+      "size": "34245",
+      "md5": "9db3377e582d8e2017baca152cd331de",
+      "crc32": "8e532851",
+      "sha1": "e84ef92d4286a72202593bd2f8cf0d101438cd76",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-17T17:23:04.362513-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666056191",
+      "size": "38076",
+      "md5": "9fc03e47252f08d2c77c918dd24c3f02",
+      "crc32": "97fcd1c1",
+      "sha1": "d28a46a4225917c51e7157e09ed5a7b9f3f8a6ba",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-17T17:23:04.362513-08:00.jpg",
+      "source": "original",
+      "mtime": "1666056188",
+      "size": "279852",
+      "md5": "b39ee748b002b5ff9e9e8ba909c2a1d9",
+      "crc32": "aa34d8c5",
+      "sha1": "8321f4b72ca31b2b4b6129f0b57bbb0b088f8ba5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-17T17:23:04.362513-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666056193",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-17T17:23:04.362513-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-17T17:23:04.362513-08:00.jpg",
+      "mtime": "1666056393",
+      "size": "9082",
+      "md5": "44863be40ab18e15e8983099061dcb51",
+      "crc32": "b7706a5e",
+      "sha1": "0e7e55d37b15df8ed100578cd23b46298ef42f8a"
+    },
+    {
+      "name": "juneauempire-2022-10-18T04:58:11.316395-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666097897",
+      "size": "35066",
+      "md5": "2bb6167a62558a40f219bef4d416821f",
+      "crc32": "8f15dc63",
+      "sha1": "ed05242cafb3f52a413daf51b030b9bd155c6f90",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-18T04:58:11.316395-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666097899",
+      "size": "38170",
+      "md5": "2b08de8faeea83b167428a2157dc6d64",
+      "crc32": "a9fb4dc9",
+      "sha1": "3de11e4697bb29539a9db52791cd5214cc6a61e0",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-18T04:58:11.316395-08:00.jpg",
+      "source": "original",
+      "mtime": "1666097895",
+      "size": "300444",
+      "md5": "48f07b45f92fb6b7961b7f1c8d9b7396",
+      "crc32": "1722e072",
+      "sha1": "9fe064082460f53aed7da0b39247be17a1aaa4a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-18T04:58:11.316395-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666097900",
+      "size": "1512",
+      "md5": "d22f5b2c94afbefcc22a5e6962cf5139",
+      "crc32": "872b2396",
+      "sha1": "dbe57a2ee8d581f6190567e03449f34b3a7a64ba",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-18T04:58:11.316395-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666097902",
+      "size": "50711",
+      "md5": "52e40b8ccee63a4d3eaafffd4803f502",
+      "crc32": "39b95bdc",
+      "sha1": "04b6a201b4ec8e437f5e84ed4e6277fbc67c282d",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-18T04:58:11.316395-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-18T04:58:11.316395-08:00.jpg",
+      "mtime": "1666097951",
+      "size": "9042",
+      "md5": "712a496791b626b3dbb9f2a14b3d87b4",
+      "crc32": "a4631d3e",
+      "sha1": "fbd9ddc0209485fd867018ea89e1359ab4899934"
+    },
+    {
+      "name": "juneauempire-2022-10-18T17:22:22.180392-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142550",
+      "size": "34210",
+      "md5": "e8963171da50cea536e09a7ffc42cd3e",
+      "crc32": "bada1fdb",
+      "sha1": "eb0a5d053a2d0b1a0ede656ceedfea2a6749fee8",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-18T17:22:22.180392-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142552",
+      "size": "37899",
+      "md5": "516b788a838121e03a9c533f75160b8f",
+      "crc32": "1d5bafb7",
+      "sha1": "c9b8d010be9db2c665bf948e015288fa2077a231",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-18T17:22:22.180392-08:00.jpg",
+      "source": "original",
+      "mtime": "1666142548",
+      "size": "268211",
+      "md5": "41422befba6afa47322c59e3a50a7625",
+      "crc32": "629b4f7b",
+      "sha1": "fb18ccb33398d5ba1b7bc6e481bd9e3ccf86d0f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-18T17:22:22.180392-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142554",
+      "size": "1512",
+      "md5": "70d54dece624084cc86711c5078bea0f",
+      "crc32": "34462c81",
+      "sha1": "45b7bbb928cf2e0669af4705087ff3535a0dc395",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-18T17:22:22.180392-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142556",
+      "size": "34906",
+      "md5": "5e914a0ce2ac7a92088fd6aa44670c87",
+      "crc32": "21d7bb53",
+      "sha1": "ca171ccec44ad753d64912c15f9e53ae5b02dc66",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-18T17:22:22.180392-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-18T17:22:22.180392-08:00.jpg",
+      "mtime": "1666165948",
+      "size": "8729",
+      "md5": "8b2b9453a49ac3ae76acd4e83b5fccae",
+      "crc32": "4e8e4829",
+      "sha1": "e17276d594777edf72fa7e60bb9c3c03f70d4ccc"
+    },
+    {
+      "name": "juneauempire-2022-10-19T04:57:42.033725-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666184264",
+      "size": "34836",
+      "md5": "2afe14e86554b6d35bc77fb5ebc191e9",
+      "crc32": "df7f48cc",
+      "sha1": "e7f9113a7754a5828ce874c9263d6f76de78bb31",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-19T04:57:42.033725-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666184266",
+      "size": "38287",
+      "md5": "37d341de19540f66a29f9b334d9a5c50",
+      "crc32": "c4190261",
+      "sha1": "87e89c638b4c7cee0827f7f60d116f21f7c4b920",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-19T04:57:42.033725-08:00.jpg",
+      "source": "original",
+      "mtime": "1666184263",
+      "size": "277384",
+      "md5": "ad62544583b24a386acd837aaea4f402",
+      "crc32": "d96b1699",
+      "sha1": "e2ed61caf9dbe8f0970253b56704fceb28d7e1f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-19T04:57:42.033725-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666184267",
+      "size": "1513",
+      "md5": "cf1dd3463d52b8774e3b744064487ba1",
+      "crc32": "833b24e3",
+      "sha1": "bfb9e5d497058a6ddae26770b7a4d1c19d56856a",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-19T04:57:42.033725-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666184269",
+      "size": "254",
+      "md5": "b84e8819cd10f566f38916822fedfcca",
+      "crc32": "cf586d8e",
+      "sha1": "e636ead4e3f0477dc9e244a08ee49b9b7649d6b3",
+      "format": "JSON"
+    },
+    {
       "name": "juneauempire-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89192745fc1aed9db6a56de8e891f869ccaab624",
-      "mtime": "1665665874",
-      "size": "82362",
-      "md5": "817d4d37228f5d11817c7a3f0e7b7eb2",
-      "crc32": "3ad348df",
-      "sha1": "4eafa65464b8e7657b53e874f2da7a37abe0f543",
+      "btih": "d764d8fd90d51b78916a83c077e5e2fd82d87a9d",
+      "mtime": "1666184311",
+      "size": "97361",
+      "md5": "85ed7fbb671730c00b5e00e248e8289b",
+      "crc32": "33fd0dce",
+      "sha1": "dece393c3a93fdf34bd22a0bafa9fe4d2a60f44e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "juneauempire-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7bda3ca2a1d7accda067bba240b1cdb",
+      "md5": "08ef0fc423a128e9b39b543edfb122d5",
       "summation": "md5"
     },
     {
       "name": "juneauempire-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665665821",
-      "size": "503808",
-      "md5": "e6c5087d9184264321cf8067e0e57629",
-      "crc32": "a3108fc2",
-      "sha1": "a1467846465fa9849663abceadb5f3dcac88d3e4",
+      "mtime": "1666184273",
+      "size": "593920",
+      "md5": "8c39e8a80e067302d4d0dd4e250fb615",
+      "crc32": "30738625",
+      "sha1": "e91493bdf39e01faae10bff85f074cda0323121a",
       "format": "Metadata"
     },
     {
@@ -3950,9 +4673,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 382,
-  "item_last_updated": 1665665874,
-  "item_size": 23950518,
+  "files_count": 452,
+  "item_last_updated": 1666184311,
+  "item_size": 28627325,
   "metadata": {
     "identifier": "juneauempire-2022",
     "collection": [
@@ -3969,10 +4692,21 @@
     "publicdate": "2022-09-13 00:00:30",
     "addeddate": "2022-09-13 00:00:30"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 2052932759,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445632841,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1031178401,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

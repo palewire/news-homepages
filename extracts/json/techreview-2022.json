@@ -1,5 +1,6 @@
 {
-  "created": 1665692244,
+  "conflict": 1666164875,
+  "created": 1666164329,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/16/items/techreview-2022",
@@ -9686,31 +9687,702 @@
       "sha1": "f601d848c9a246d7fd9e7ab3baa5ea5bc627a7cf"
     },
     {
+      "name": "techreview-2022-10-14T04:06:22.847119-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665734789",
+      "size": "25076",
+      "md5": "cc0b648b22e93ff9fe126bfb53dde180",
+      "crc32": "9f58cbea",
+      "sha1": "09bbb3b511b8c8a1fd6ef9fd9746830aa919a11a",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-14T04:06:22.847119-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665734791",
+      "size": "13871",
+      "md5": "c2abd1ff446ec8d904bc062c9f7fd7e8",
+      "crc32": "3ef41d08",
+      "sha1": "36a9448fc065ad6c727cdae4cc156b4550d9d77f",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-14T04:06:22.847119-04:00.jpg",
+      "source": "original",
+      "mtime": "1665734787",
+      "size": "277729",
+      "md5": "1c76d1499aa8c0d839c89ab90aadbf24",
+      "crc32": "5dcb5d7f",
+      "sha1": "28d79758aa2121fe7fd626df00f37802a32835eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-14T04:06:22.847119-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665734792",
+      "size": "1548",
+      "md5": "7b9fb444f2e3c444786ced73be45cadf",
+      "crc32": "4f484573",
+      "sha1": "e54ac8f5eb28ae368d285813df85138e1b0232cd",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-14T04:06:22.847119-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665734794",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-14T04:06:22.847119-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-14T04:06:22.847119-04:00.jpg",
+      "mtime": "1665734861",
+      "size": "10128",
+      "md5": "34108f53acf2e2182ad893a7e63d9c35",
+      "crc32": "7cb28377",
+      "sha1": "b84922befd16782e1cedea350cd6caddd9becdad"
+    },
+    {
+      "name": "techreview-2022-10-14T16:31:46.260127-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665779521",
+      "size": "24572",
+      "md5": "d7271802c217bc84837929c17b79df0b",
+      "crc32": "cd75ba60",
+      "sha1": "dfc0e9ae0edd51d566235814bc4d2ab44698b4fe",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-14T16:31:46.260127-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665779523",
+      "size": "13099",
+      "md5": "040436e553028b4ad60624ca3a4a356a",
+      "crc32": "42cb07c9",
+      "sha1": "20d4c3c49e5b90f4675175d6e6f509d3fd045731",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-14T16:31:46.260127-04:00.jpg",
+      "source": "original",
+      "mtime": "1665779519",
+      "size": "263680",
+      "md5": "93ddf5ceb85ea5ac9ecb6984a01c1f9c",
+      "crc32": "afcd5a28",
+      "sha1": "445f8f86a3e9c5debc0a75ad4d3a2c9cc3334d64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-14T16:31:46.260127-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665779525",
+      "size": "1548",
+      "md5": "f6403d43fc3c3968af466809f3d9592b",
+      "crc32": "81debf07",
+      "sha1": "8acd4968176881061e668bb71b61b3e6dcf4afdf",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-14T16:31:46.260127-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665779527",
+      "size": "76516",
+      "md5": "3a1f007da2d3b6f6d44030a0828f1640",
+      "crc32": "0c25731b",
+      "sha1": "1182f4ec4023fce15b0e13912650ec92efe295c9",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-14T16:31:46.260127-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-14T16:31:46.260127-04:00.jpg",
+      "mtime": "1665779620",
+      "size": "9628",
+      "md5": "33376c819327d453a3eee2061d85a2ed",
+      "crc32": "1979d5b0",
+      "sha1": "26100e6be7a1a336eacb4de09f1de98fb128eaa7"
+    },
+    {
+      "name": "techreview-2022-10-15T03:55:38.777336-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665820568",
+      "size": "24557",
+      "md5": "9b93390eecb687ed68dcd8959eb26cc5",
+      "crc32": "958be98e",
+      "sha1": "aace082b9cf5be77360aa9a523329733c4fd5f22",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-15T03:55:38.777336-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665820570",
+      "size": "13018",
+      "md5": "6c73955b4a6bb9dfd211dbad6d27999d",
+      "crc32": "8e46d4a1",
+      "sha1": "53cd4a5da66ceed2a6f07473465992ace1957f9e",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-15T03:55:38.777336-04:00.jpg",
+      "source": "original",
+      "mtime": "1665820566",
+      "size": "265924",
+      "md5": "ffeda141356bc20726b01305924f8e8c",
+      "crc32": "a7c02053",
+      "sha1": "d7792c74e57f6c753077148add07697a82c0768c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-15T03:55:38.777336-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665820571",
+      "size": "1548",
+      "md5": "be33f71369fbb296be2a06f769aa90e4",
+      "crc32": "949dace6",
+      "sha1": "53640f0db3c4705bb80c53e83810987fd0fd3b08",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-15T03:55:38.777336-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665820573",
+      "size": "276",
+      "md5": "6cc74d0c2c246ef78352a6dbf9e3b4af",
+      "crc32": "5b236319",
+      "sha1": "14048c3298df26a2041764523c02166bf6307f2d",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-15T03:55:38.777336-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-15T03:55:38.777336-04:00.jpg",
+      "mtime": "1665820664",
+      "size": "9635",
+      "md5": "a5ec34388100d38b1a413aab47b19673",
+      "crc32": "b69b9b34",
+      "sha1": "cc48e3a8b8d943a9b9268e688997a519444ec474"
+    },
+    {
+      "name": "techreview-2022-10-15T15:53:00.494298-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665863595",
+      "size": "24454",
+      "md5": "2566da733defc24df041f7f62e639f1c",
+      "crc32": "74dc5d79",
+      "sha1": "93c63ad5fb5de4e71677d5ea4e593d1af4dd9f93",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-15T15:53:00.494298-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665863596",
+      "size": "13019",
+      "md5": "b9c13fa955e1a5fe9b2ab18c9aca6d3d",
+      "crc32": "160173f3",
+      "sha1": "f8a46744fdbe583f0a0c4fcb34981799f7c51d32",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-15T15:53:00.494298-04:00.jpg",
+      "source": "original",
+      "mtime": "1665863593",
+      "size": "263704",
+      "md5": "2e8b65540bcfc3013937297412957f39",
+      "crc32": "cb3309fc",
+      "sha1": "2a192edcf88bca4ebb702a8c5c0f547ef838f1b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-15T15:53:00.494298-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665863598",
+      "size": "1549",
+      "md5": "c0389f143ffd7749dc06e41e52ebb7e4",
+      "crc32": "61cba71c",
+      "sha1": "1e606f6e9b211bbd6143a7833dd9e45c0636dd94",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-15T15:53:00.494298-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665863600",
+      "size": "42367",
+      "md5": "b21076490f507d199ad41a3410976761",
+      "crc32": "33da9c3b",
+      "sha1": "e31278477608e2ca2094c668de96df3c87523256",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-15T15:53:00.494298-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-15T15:53:00.494298-04:00.jpg",
+      "mtime": "1665863661",
+      "size": "9610",
+      "md5": "f2af932e111a23b982d01c6a8bcccf67",
+      "crc32": "50624886",
+      "sha1": "9373f74c881b7c2451abc61d69a51ba71700a5dd"
+    },
+    {
+      "name": "techreview-2022-10-16T03:26:42.048383-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665905207",
+      "size": "24590",
+      "md5": "e7bc2209a6a4fb45d0a21cc3116ecb37",
+      "crc32": "6b80b696",
+      "sha1": "5c2dcca51477d811dbad90ed512658ff2492d976",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-16T03:26:42.048383-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665905209",
+      "size": "13018",
+      "md5": "ebe48f2d7d97474a87fb2b7342d083c5",
+      "crc32": "2b09682c",
+      "sha1": "cfd3fd79157564290ea268862fcee05ccdb9267e",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-16T03:26:42.048383-04:00.jpg",
+      "source": "original",
+      "mtime": "1665905206",
+      "size": "266121",
+      "md5": "8b003a0f56e6b0ebce6a7fca05c4cc47",
+      "crc32": "aa51d31a",
+      "sha1": "e0502cf8136d9ddd6778909f091f056faebd1171",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-16T03:26:42.048383-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665905211",
+      "size": "1548",
+      "md5": "6d5c7a293b15f821a17feb432fa14dc8",
+      "crc32": "6a9c8fc0",
+      "sha1": "de8fe993465dbbc89dea7530925735f50db01f64",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-16T03:26:42.048383-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665905212",
+      "size": "72470",
+      "md5": "8c1346f5bd9302c6396d15d9a3501ff6",
+      "crc32": "75e9501e",
+      "sha1": "43a5fe6d59e377136cc2493f6ec308a6d238d20f",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-16T03:26:42.048383-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-16T03:26:42.048383-04:00.jpg",
+      "mtime": "1665908036",
+      "size": "9626",
+      "md5": "3dbed88b6b44e2ef2d29d82cfec201c0",
+      "crc32": "76e483ef",
+      "sha1": "1104d5848eac1c8d65387f25617d2119e8fdf2b7"
+    },
+    {
+      "name": "techreview-2022-10-16T14:50:36.810016-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665946247",
+      "size": "24613",
+      "md5": "500f9fe4f18d01dbe67d1d671366d408",
+      "crc32": "0b4242f5",
+      "sha1": "ff7aec7838dcb0979e646136383633bd3822c8ed",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-16T14:50:36.810016-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665946249",
+      "size": "13009",
+      "md5": "3b3fe1a2a15dff1e12bd415fdaf293b5",
+      "crc32": "4183dd0f",
+      "sha1": "181313af41152214bde12dff034b3532f483a19d",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-16T14:50:36.810016-04:00.jpg",
+      "source": "original",
+      "mtime": "1665946246",
+      "size": "274885",
+      "md5": "9ff195d11ad0a5accf4588bd7803ecb9",
+      "crc32": "fba62936",
+      "sha1": "1b42383f96428863084a51c92e04e8b55b93e032",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-16T14:50:36.810016-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665946250",
+      "size": "1546",
+      "md5": "900a2feea03d3c47d8027a577c36d8a6",
+      "crc32": "dd9327d8",
+      "sha1": "1190c3732f4704b5c42fcf95bfa50e26c062d958",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-16T14:50:36.810016-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665946252",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-16T14:50:36.810016-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-16T14:50:36.810016-04:00.jpg",
+      "mtime": "1665946312",
+      "size": "9520",
+      "md5": "cc0680c19298ea29d50f842990ac0c2d",
+      "crc32": "11474e64",
+      "sha1": "41b095f65a96a7c718e649c447b794a880ae57e6"
+    },
+    {
+      "name": "techreview-2022-10-17T03:45:25.728961-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665992732",
+      "size": "24722",
+      "md5": "d0773c57b8296efeafcb3a22b7606e16",
+      "crc32": "34698f58",
+      "sha1": "35e3df9a92ea5856c5ea22841b1f4916f0e35ab1",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-17T03:45:25.728961-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665992734",
+      "size": "13139",
+      "md5": "5dd9d4c1a5c5e55b72bc5ed65f32bf15",
+      "crc32": "d0506e8e",
+      "sha1": "f56a261eb08d588151ce6432f00468aeffb2e7c7",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-17T03:45:25.728961-04:00.jpg",
+      "source": "original",
+      "mtime": "1665992730",
+      "size": "274828",
+      "md5": "f90e19725e4782b55e35570dda15889f",
+      "crc32": "0c4144fa",
+      "sha1": "50f1e8c1f3c9e75b85a65e028c725137cbf6f2b4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-17T03:45:25.728961-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665992736",
+      "size": "1549",
+      "md5": "a82c5df4e8bfd0ac2e2c89e3b063af94",
+      "crc32": "b6fa243e",
+      "sha1": "b51568e9830c41267c65f906496905e7f309e071",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-17T03:45:25.728961-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665992738",
+      "size": "74216",
+      "md5": "516dbfc3696e546d549b3510782195b9",
+      "crc32": "0e394064",
+      "sha1": "b6ad9d10efb9d872255d2cb74666fb47ceb53682",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-17T03:45:25.728961-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-17T03:45:25.728961-04:00.jpg",
+      "mtime": "1665992827",
+      "size": "9487",
+      "md5": "b5a4219b397c732977fb95199e0efc29",
+      "crc32": "43c684a5",
+      "sha1": "c01630e92449b2be0c793656e48f07bb8b93dff1"
+    },
+    {
+      "name": "techreview-2022-10-17T16:03:48.164843-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666037037",
+      "size": "24860",
+      "md5": "12f5bae5325481ea74da1ac14c2a481b",
+      "crc32": "42b9f6ce",
+      "sha1": "07ce589cba227b74ff4390ebb1559bfa7743f892",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-17T16:03:48.164843-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666037039",
+      "size": "13558",
+      "md5": "babadb8f24533310941491e4b4d51edc",
+      "crc32": "413fdf13",
+      "sha1": "83fe5bcda7e3e3a94a6a4dc165b3626c8f897f6e",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-17T16:03:48.164843-04:00.jpg",
+      "source": "original",
+      "mtime": "1666037035",
+      "size": "297341",
+      "md5": "d5844cfc8fec5224b9c1bc2f9be81796",
+      "crc32": "a47685fa",
+      "sha1": "423dbd3c726a547b7061269b4dad902cb4e2e000",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-17T16:03:48.164843-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666037041",
+      "size": "1549",
+      "md5": "4a6826f27127a30c70cb294c4eb44ea4",
+      "crc32": "be44546e",
+      "sha1": "1383a7ee15fc98e936887279d8b8e6b6595ba475",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-17T16:03:48.164843-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666037042",
+      "size": "61685",
+      "md5": "4272e2eef21d5a823c8f1ca1d31a5b58",
+      "crc32": "b4d61a34",
+      "sha1": "0eda01893068831bc6f79a4039d291277669f6db",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-17T16:03:48.164843-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-17T16:03:48.164843-04:00.jpg",
+      "mtime": "1666037110",
+      "size": "9959",
+      "md5": "bd99d8398a4cb899bf52fea7e4d2635a",
+      "crc32": "446c5818",
+      "sha1": "f3791bd6201f9a2b816dc6555341fbd69af59276"
+    },
+    {
+      "name": "techreview-2022-10-18T03:15:56.259943-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666077362",
+      "size": "24678",
+      "md5": "fdfd522231f3e8ffbf9280b922f2155d",
+      "crc32": "052cfaf4",
+      "sha1": "0f1317fa506e292a34cd38d8330cfc8ee5548e7a",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-18T03:15:56.259943-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666077363",
+      "size": "13466",
+      "md5": "b53ccba70a8bda7698184463b070d141",
+      "crc32": "4ddea5c5",
+      "sha1": "4263d63e897f5fba8575da073b8497b07babe1bf",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-18T03:15:56.259943-04:00.jpg",
+      "source": "original",
+      "mtime": "1666077360",
+      "size": "298896",
+      "md5": "0fc0aa8878a63e6cef16fbb6d1ffff85",
+      "crc32": "a0230f59",
+      "sha1": "af144e8c6607830a7d9054db586b755648dd54b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-18T03:15:56.259943-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666077365",
+      "size": "1548",
+      "md5": "be9a0a7bc81d6413e95655db309a4fcd",
+      "crc32": "cd14a09e",
+      "sha1": "59df847b6db86b29d760dccfdfd2be0bbee82c2f",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-18T03:15:56.259943-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666077367",
+      "size": "42500",
+      "md5": "c9541d7fe93fb43206aa824feeb62032",
+      "crc32": "022dbce1",
+      "sha1": "04379ad44ce541ec2d3568e5fc3c49fbcd2daa88",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-18T03:15:56.259943-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-18T03:15:56.259943-04:00.jpg",
+      "mtime": "1666077445",
+      "size": "9940",
+      "md5": "d49b89bd9b14f4ce16725a51de87dc31",
+      "crc32": "3534d0c4",
+      "sha1": "c8e70c5a6bca4b8c0c6a2dd45c56986ed8457dc7"
+    },
+    {
+      "name": "techreview-2022-10-18T15:47:32.035340-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666122460",
+      "size": "24557",
+      "md5": "a8d6d4398e832ff9d2d36fcae78c8733",
+      "crc32": "0b4b1fb7",
+      "sha1": "3a0b666d01c68960543f17a7b3040f731270ce14",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-18T15:47:32.035340-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666122462",
+      "size": "13542",
+      "md5": "c898ef3d0e711d5cd62a3004e59eef86",
+      "crc32": "47c10b8d",
+      "sha1": "f59828e70e6b4738e1b84c31273ed533ac41108f",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-18T15:47:32.035340-04:00.jpg",
+      "source": "original",
+      "mtime": "1666122458",
+      "size": "285205",
+      "md5": "b443f81de4571392a56f0547adce1c72",
+      "crc32": "a6c2ba18",
+      "sha1": "c8acbf85873e37931cf043324bf4a6037e24dcae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-18T15:47:32.035340-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666122464",
+      "size": "1549",
+      "md5": "54b982ff2748638b5ddb3b082adeccee",
+      "crc32": "a252e077",
+      "sha1": "19b858a9a5fcc008bd9ae56bb5d0807623e3b3f5",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-18T15:47:32.035340-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666122465",
+      "size": "74602",
+      "md5": "a7cd64c45559536b489b3539ab2ef313",
+      "crc32": "d54609d2",
+      "sha1": "8e68f2f97fa71a1f19dbf3dfd5c72e794b78c2a0",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-18T15:47:32.035340-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-18T15:47:32.035340-04:00.jpg",
+      "mtime": "1666122538",
+      "size": "10229",
+      "md5": "1810dbcf58969c0da285d1aba48381b8",
+      "crc32": "9d5eb480",
+      "sha1": "aac9aaec2b0447278686d81d273d3156db83ae99"
+    },
+    {
+      "name": "techreview-2022-10-19T03:24:19.712000-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666164264",
+      "size": "24532",
+      "md5": "2902dfa86550aca25c3f546dad9f793e",
+      "crc32": "ae53649e",
+      "sha1": "1783bd5ea228dcfea442956a3277c70cfa5fd9aa",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-19T03:24:19.712000-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666164266",
+      "size": "13565",
+      "md5": "dcc937a8865c0f7b31fe96728a6cffb4",
+      "crc32": "4d642a74",
+      "sha1": "822d5c1ff89cdbeac527626f4669ab11abbd9bbd",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-19T03:24:19.712000-04:00.jpg",
+      "source": "original",
+      "mtime": "1666164263",
+      "size": "288177",
+      "md5": "0ea97e3b8f406120828300e8f3171fe1",
+      "crc32": "ae7f6e0f",
+      "sha1": "20445d27e3d21c772c2c345455189bc11fcd169f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-19T03:24:19.712000-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666164267",
+      "size": "1549",
+      "md5": "263ac0c2c1030eef405eaba214396a8c",
+      "crc32": "f47a43fa",
+      "sha1": "9d6f2b9133bf6a4c01022f297373fc9d2eb405e8",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-19T03:24:19.712000-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666164269",
+      "size": "76306",
+      "md5": "a2b5cedfb522a1154e2c2846b0321b27",
+      "crc32": "e9e3f165",
+      "sha1": "bd2883a723c019d667ad45354675b07b1d6dbc4a",
+      "format": "JSON"
+    },
+    {
       "name": "techreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d55171272269a62ecdee28795223af692b26739",
-      "mtime": "1665692222",
-      "size": "200060",
-      "md5": "776e1c0c8743b8c7b16a4eb8ceada82c",
-      "crc32": "a6c45cc6",
-      "sha1": "344fa6f173d305c5df9589ccbe6bb119221a2c1e",
+      "btih": "c8ccf2dc44cc2a80c239d36b828eb674dc01308d",
+      "mtime": "1666164320",
+      "size": "213859",
+      "md5": "1c4cb5d5645a05f0d1887b29abe30edd",
+      "crc32": "ab458e54",
+      "sha1": "bc4fddfac62ac09a0b448d6dae92c13c7cc1a48d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b74d47eff094d02474e77a9a1d835162",
+      "md5": "3cdf61d8a2c38528da663b1a6f971a38",
       "summation": "md5"
     },
     {
       "name": "techreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665692148",
-      "size": "1204224",
-      "md5": "ca06f581996d247c715053b2411498fd",
-      "crc32": "e1ae2faf",
-      "sha1": "37ce2eba7a3c56ea94a12d8af99d1f19c63fe45e",
+      "mtime": "1666164276",
+      "size": "1286144",
+      "md5": "e8e1e5d09a9544a35f90112a2cfaa73e",
+      "crc32": "1156bda9",
+      "sha1": "4b8b3ecdcd7da59a0a4154f9432ac82c6b6922fa",
       "format": "Metadata"
     },
     {
@@ -9724,9 +10396,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 940,
-  "item_last_updated": 1665692222,
-  "item_size": 58420797,
+  "files_count": 1005,
+  "item_last_updated": 1666164320,
+  "item_size": 62626656,
   "metadata": {
     "identifier": "techreview-2022",
     "collection": [
@@ -9743,10 +10415,21 @@
     "publicdate": "2022-07-25 06:47:07",
     "addeddate": "2022-07-25 06:47:07"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 1123806175,
+  "pending_tasks": true,
+  "server": "ia801408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445398293,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 922358140,
   "workable_servers": [
-    "ia601408.us.archive.org",
     "ia801408.us.archive.org"
   ]
 }

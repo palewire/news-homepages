@@ -1,5 +1,5 @@
 {
-  "created": 1665683337,
+  "created": 1666072306,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/18/items/hburgamerican-2022",
@@ -2908,31 +2908,527 @@
       "sha1": "82d55d4a38061873c0cb329998a3d724b16eab49"
     },
     {
+      "name": "hburgamerican-2022-10-14T01:24:42.766174-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665728688",
+      "size": "22487",
+      "md5": "1ffd24a3e7985157fa35385c93ad8e5d",
+      "crc32": "dc85704e",
+      "sha1": "970ab02b8faa70303a63fca9a5d6ec8bc2b59fb6",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-14T01:24:42.766174-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665728689",
+      "size": "36214",
+      "md5": "4a1a29a7cda6c03ecb6a216ff29a2161",
+      "crc32": "b771fd35",
+      "sha1": "6c79041d035f201801239d169546052a69730eb5",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-14T01:24:42.766174-05:00.jpg",
+      "source": "original",
+      "mtime": "1665728686",
+      "size": "240829",
+      "md5": "ef2296fa5579c53771b7e6aef233d316",
+      "crc32": "0e1a61db",
+      "sha1": "9c7086a99d77d7a68f0a5eeca693e5839760ef99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-14T01:24:42.766174-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665728691",
+      "size": "1576",
+      "md5": "33a8874fd379c41003107eadc7b16db2",
+      "crc32": "60b4fb20",
+      "sha1": "c75ccacae00c2399ec4e9dc4f188b06133b1d5ee",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-14T01:24:42.766174-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665728693",
+      "size": "95871",
+      "md5": "8550d1228776945346b7c3034dcc239e",
+      "crc32": "4f7a68e5",
+      "sha1": "5ea936e7101a327fcb510df3c4954ec7e63919cd",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-14T01:24:42.766174-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-14T01:24:42.766174-05:00.jpg",
+      "mtime": "1665728748",
+      "size": "9147",
+      "md5": "cbef0a666e4794b9edb072dc8157b319",
+      "crc32": "52e88992",
+      "sha1": "1151934179e929ecf4b67269a3cebdb9cebd8945"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T01:22:21.546699-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665814947",
+      "size": "22118",
+      "md5": "6df71705cc68be2af9a803da5812bc37",
+      "crc32": "828a4d79",
+      "sha1": "87bb38a510c37d976f094480f882aeaa12a95d08",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T01:22:21.546699-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665814948",
+      "size": "31787",
+      "md5": "283ab6052efe6b1b12f9d04da847d933",
+      "crc32": "c583c5b9",
+      "sha1": "c3aa46d7212b4599d0ac48eee828699d30399012",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T01:22:21.546699-05:00.jpg",
+      "source": "original",
+      "mtime": "1665814945",
+      "size": "246415",
+      "md5": "0b6752176bfce1e9b37c76b5fc4a22cb",
+      "crc32": "bdfbeaa7",
+      "sha1": "0ca3b695343ee472d9ca9cb6f1450ec4b147f902",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T01:22:21.546699-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665814950",
+      "size": "1576",
+      "md5": "7841f808655f0f8e28f23ecf1f867e10",
+      "crc32": "e87a6015",
+      "sha1": "c93e0b9961b59ca4918b2a722cd0552033567066",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T01:22:21.546699-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665814959",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T01:22:21.546699-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-15T01:22:21.546699-05:00.jpg",
+      "mtime": "1665815023",
+      "size": "9330",
+      "md5": "80a00fb736cd6cf3d9e54d8aca387ea5",
+      "crc32": "43886d17",
+      "sha1": "ae5151f886a7dff782f93379c984eb67e417ada7"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T12:54:24.648533-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665856471",
+      "size": "21251",
+      "md5": "c24f4ef13507b40da3ac1280ab56e277",
+      "crc32": "2a15adbb",
+      "sha1": "24cb99d7d2226ebb03c3676e32b93fe5537265c3",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T12:54:24.648533-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665856472",
+      "size": "33327",
+      "md5": "889a8dabae0c03b39ae00a8f8505dd3a",
+      "crc32": "e556e9f7",
+      "sha1": "bd1a2fff6015a001f54d07e58c2ead13619bb76d",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T12:54:24.648533-05:00.jpg",
+      "source": "original",
+      "mtime": "1665856469",
+      "size": "247062",
+      "md5": "a796d5dfda4eb53a52e378e1c72ed674",
+      "crc32": "9af3d422",
+      "sha1": "0fc1af38b71d8b7f3d14418a2fbd828032634700",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T12:54:24.648533-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665856474",
+      "size": "1576",
+      "md5": "c07a0ad61774aaadd5ce39ce82513580",
+      "crc32": "4f961bcb",
+      "sha1": "ba82dc53a3ed0db28c9cef311ebb91b89d9e2b71",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T12:54:24.648533-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665856475",
+      "size": "86347",
+      "md5": "78317cee4a0e615bd3f53fd12c5b5ad6",
+      "crc32": "5ae7585a",
+      "sha1": "38c58d2a654a400af2d8ae5be10d1cbb804fd9d0",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-15T12:54:24.648533-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-15T12:54:24.648533-05:00.jpg",
+      "mtime": "1665856531",
+      "size": "9327",
+      "md5": "efcfd122f2fd597b286a99bfde0656d4",
+      "crc32": "d7f29ca0",
+      "sha1": "e2d04e4480a39d9965d1f2c50dcd567a7ca74a18"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T00:53:05.109035-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665899591",
+      "size": "22128",
+      "md5": "4b48a14d0797746deffcea762dba8d9e",
+      "crc32": "35171b64",
+      "sha1": "4e15729ea283c77eede5c4a1e72af7f47b91bd52",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T00:53:05.109035-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665899592",
+      "size": "30666",
+      "md5": "fdb3b02c69721c2de1a7e4588a584749",
+      "crc32": "b8c6e49b",
+      "sha1": "8d956d0625f5a1143e3df9321993094a34714343",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T00:53:05.109035-05:00.jpg",
+      "source": "original",
+      "mtime": "1665899589",
+      "size": "255909",
+      "md5": "3ad3ca7f55892f573d21a8ee35fa944e",
+      "crc32": "ad55d187",
+      "sha1": "b3a76d027f55463a2a8f87bb5e1b2e34e2413dce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T00:53:05.109035-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665899593",
+      "size": "1576",
+      "md5": "e223920ed4b228e043774371ade36f75",
+      "crc32": "c4aea60d",
+      "sha1": "a25c1a73589f5a356ba64b34ee1c22fc049c432e",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T00:53:05.109035-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665899595",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T00:53:05.109035-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-16T00:53:05.109035-05:00.jpg",
+      "mtime": "1665899651",
+      "size": "9261",
+      "md5": "bbc628ad4e168f387f33879f8feab4fd",
+      "crc32": "081240e5",
+      "sha1": "e7df330b75cfe23b6c751781acf63c30f026f461"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T12:24:57.604319-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941102",
+      "size": "21626",
+      "md5": "0aed7676fff336b803f95eb95f9e5318",
+      "crc32": "7928b6a7",
+      "sha1": "4711f1a47644f17da581bc97b692d619f423ba4b",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T12:24:57.604319-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941104",
+      "size": "34052",
+      "md5": "0f49fc537fc54a2c0e4a2a8526525826",
+      "crc32": "9885cdc4",
+      "sha1": "fb9617cb3c031c304ffc36bb79110b6d0f9f8537",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T12:24:57.604319-05:00.jpg",
+      "source": "original",
+      "mtime": "1665941100",
+      "size": "272580",
+      "md5": "32010d95f7f36c5f79819bfb30fc1d73",
+      "crc32": "47394e96",
+      "sha1": "43cf2fb2cd4260d8f9fc8184384bcb3412763dfc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T12:24:57.604319-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941105",
+      "size": "1576",
+      "md5": "6fb920e1679655d59779034c25df41d8",
+      "crc32": "85f9f640",
+      "sha1": "a28031af815d816ff3a37181001324be3fe5d4d7",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T12:24:57.604319-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941107",
+      "size": "204753",
+      "md5": "7f513d38d43fa88fbfd6ed7961924ae7",
+      "crc32": "8ca5ad22",
+      "sha1": "29ea04ce7aa832afe12195af1951f911f5db4605",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-16T12:24:57.604319-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-16T12:24:57.604319-05:00.jpg",
+      "mtime": "1665941159",
+      "size": "9319",
+      "md5": "87fc4c0a6133827985febb8a89237462",
+      "crc32": "fa372fb2",
+      "sha1": "8d5f7e54589115f0d99fb21bd4fb7637f231376b"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T01:13:06.517031-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665987193",
+      "size": "21361",
+      "md5": "8220c63bbf3b22fc811094d9927e63b8",
+      "crc32": "6a220013",
+      "sha1": "dce5a83e3e177a7c0442569fbe5c44a4ccfede81",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T01:13:06.517031-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665987195",
+      "size": "32887",
+      "md5": "8c1dedb4b90c21f9183ca29932561ec7",
+      "crc32": "51e16915",
+      "sha1": "c0a5c11db9bf9f9aca5363d2629ae8bf8c394bfd",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T01:13:06.517031-05:00.jpg",
+      "source": "original",
+      "mtime": "1665987191",
+      "size": "277191",
+      "md5": "d0baca94ea6c8f7757e5e0e4e8c6d8cc",
+      "crc32": "7469214a",
+      "sha1": "8137ecd82a56a6d0ddd1ae04b0de50bb41f12c29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T01:13:06.517031-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665987196",
+      "size": "1576",
+      "md5": "73600df44b5432668ab78a1d4fb695d3",
+      "crc32": "93de6920",
+      "sha1": "f6e4314a31e16d919080395479fa8d673b8e3952",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T01:13:06.517031-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665987198",
+      "size": "89409",
+      "md5": "34e599159398049c4f9d261bf306172b",
+      "crc32": "b4c408fe",
+      "sha1": "6798a9a449df6c772d0a3cc1baa8ce12ae42ee6c",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T01:13:06.517031-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-17T01:13:06.517031-05:00.jpg",
+      "mtime": "1665987250",
+      "size": "9485",
+      "md5": "d60eaaef7f86f2900d723517537e92e3",
+      "crc32": "cf1106e5",
+      "sha1": "f7cb99703986e6d879112ad278ee966bcbdc4a32"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T12:55:20.044429-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666029326",
+      "size": "21484",
+      "md5": "8246f6bd64d13de124c143e9fbbccc16",
+      "crc32": "9282d833",
+      "sha1": "0f5156e263335369c018612f1c69a78d5da4664b",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T12:55:20.044429-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666029328",
+      "size": "33292",
+      "md5": "207bf045525a70d01b9e323332bd5f3f",
+      "crc32": "666d0b49",
+      "sha1": "571634679b3395941ba448c1970c9743d6ae3dca",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T12:55:20.044429-05:00.jpg",
+      "source": "original",
+      "mtime": "1666029325",
+      "size": "270478",
+      "md5": "8a7f3ff4aa16da9a1c0f15c448a12cdd",
+      "crc32": "6cb2ad53",
+      "sha1": "ce0aa27bf86fa41d78df0ba229efc00dcbb4245d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T12:55:20.044429-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666029330",
+      "size": "1576",
+      "md5": "11c5a66f34422f821103d920cf98a4a8",
+      "crc32": "23648063",
+      "sha1": "6d8e4fb074a238acc8156660ec7b9fdf8ff58a75",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T12:55:20.044429-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666029332",
+      "size": "96481",
+      "md5": "1b4ffc67fc2872314586d1bc1b3bf686",
+      "crc32": "f22dc84b",
+      "sha1": "b4b1ffa3b3bbdbc60e5e7a664f3ef3e6da8bf384",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-17T12:55:20.044429-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-17T12:55:20.044429-05:00.jpg",
+      "mtime": "1666029406",
+      "size": "9618",
+      "md5": "1f2bc89dc7109ca03f6e31b66e2bc3ba",
+      "crc32": "a8a9bfbd",
+      "sha1": "edd78c265e06dbf130faf4922dc95b5c08fde5ba"
+    },
+    {
+      "name": "hburgamerican-2022-10-18T00:49:40.955855-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072184",
+      "size": "20163",
+      "md5": "7d699ff27f3b9dca0eb12a564e95e74f",
+      "crc32": "3fb71422",
+      "sha1": "e9233bdf3e26f584d2d7d5a9afde2b474f06e91f",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-18T00:49:40.955855-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072186",
+      "size": "31006",
+      "md5": "442d2243df29a50ca5c995f9df5d0a97",
+      "crc32": "20cd1113",
+      "sha1": "52362f28348c9d64f8f7008d1f7451d4b44cce07",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-18T00:49:40.955855-05:00.jpg",
+      "source": "original",
+      "mtime": "1666072182",
+      "size": "254747",
+      "md5": "4f4c3533aaac4f12be9d213ec9d80600",
+      "crc32": "21d6e43b",
+      "sha1": "24333e6ce0c50485daddbe4b1be20e4592799bce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-18T00:49:40.955855-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072188",
+      "size": "1576",
+      "md5": "f330aec19d25f39dad80a8aa70cc6d46",
+      "crc32": "76441d12",
+      "sha1": "6c99f2adde9a1aca1713ae4bc3ecc0fbca4ac366",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-18T00:49:40.955855-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072190",
+      "size": "119903",
+      "md5": "f06db1202f0805620c9c11b58b48cc62",
+      "crc32": "5f5e0df7",
+      "sha1": "10c3c13be92388eb2e5a3a8cad0fd615cd4d44ff",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-18T00:49:40.955855-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-18T00:49:40.955855-05:00.jpg",
+      "mtime": "1666072281",
+      "size": "9379",
+      "md5": "458e1a76fa161090ab92402a9cb43779",
+      "crc32": "ee78064d",
+      "sha1": "9e389c1bef40fa286bb6bbf9ddfa5e682bc65a5b"
+    },
+    {
       "name": "hburgamerican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a0a6e89b410b1b24e5142394e0bc71b2cf253b49",
-      "mtime": "1665683330",
-      "size": "61993",
-      "md5": "12abf53815289fd7b7f8a35d7317dfb4",
-      "crc32": "929e7334",
-      "sha1": "b9c78d585bea39fb62e4a245e170d93f8ee4d23c",
+      "btih": "be54a76da68360e677f6b2753a355a1d27db2911",
+      "mtime": "1666072295",
+      "size": "72327",
+      "md5": "6187df037c7cf35793609ac43acb9637",
+      "crc32": "d81ffe45",
+      "sha1": "71ea880bb1e6c1150674d5b9435372d47fc29c9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hburgamerican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7e93c37c0808ef4c61565e66383bdbb6",
+      "md5": "13497c7237fe5fa2f98774d2eb851e6b",
       "summation": "md5"
     },
     {
       "name": "hburgamerican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665683267",
-      "size": "376832",
-      "md5": "9521230ca9572d7581c10b6248f7903b",
-      "crc32": "01f1bc51",
-      "sha1": "08e522d50606301acf02ef8050863263ef5fbf75",
+      "mtime": "1666072200",
+      "size": "442368",
+      "md5": "99720b6243d6670f354c44062c6a5cca",
+      "crc32": "f1b6284f",
+      "sha1": "42f1aea85aa1dbbafc19a2804bcb5a259cf4fffa",
       "format": "Metadata"
     },
     {
@@ -2946,9 +3442,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 285,
-  "item_last_updated": 1665683330,
-  "item_size": 19064401,
+  "files_count": 333,
+  "item_last_updated": 1666072295,
+  "item_size": 22421973,
   "metadata": {
     "identifier": "hburgamerican-2022",
     "collection": [
@@ -2966,7 +3462,7 @@
     "addeddate": "2022-09-20 17:30:05"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 1079889729,
+  "uniq": 395071564,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"

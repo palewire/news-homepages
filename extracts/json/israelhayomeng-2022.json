@@ -1,5 +1,5 @@
 {
-  "created": 1665665945,
+  "created": 1666184372,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/israelhayomeng-2022",
@@ -7612,31 +7612,764 @@
       "sha1": "0f156a9df7f8a32915415c051960dcd5ce83a6f3"
     },
     {
+      "name": "israelhayomeng-2022-10-14T04:17:48.157375+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665710288",
+      "size": "124406",
+      "md5": "ab55acd77d0221dd3eeefa8f876dca75",
+      "crc32": "28bdfef6",
+      "sha1": "a484d88acd1b8aa2cd90d170c51441379c811066",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T04:17:48.157375+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665710290",
+      "size": "136210",
+      "md5": "ec44ecf321489be253e1bd34e0d45741",
+      "crc32": "89ccc8ca",
+      "sha1": "8974c8296c4bdf29e127e04e57f3717aaf7fdc0b",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T04:17:48.157375+03:00.jpg",
+      "source": "original",
+      "mtime": "1665710286",
+      "size": "315818",
+      "md5": "e41daeefae3d61320b4a4411e7b0953b",
+      "crc32": "400b8fff",
+      "sha1": "f89d660341c81c019ab6382632da996b0dce8474",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T04:17:48.157375+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665710292",
+      "size": "1521",
+      "md5": "f13a6201317953db54c3e8b3790fb3f9",
+      "crc32": "c3731c57",
+      "sha1": "6078dcdf5173729a866a423fbfaf8d70639eaa92",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T04:17:48.157375+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665710295",
+      "size": "52774",
+      "md5": "175692968a1f6bf193924d7786b51e23",
+      "crc32": "90ae103e",
+      "sha1": "b2fc7f2fda26cbcd64365e47291f397a80ac7a54",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T04:17:48.157375+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-14T04:17:48.157375+03:00.jpg",
+      "mtime": "1665710402",
+      "size": "11608",
+      "md5": "b189948262573147845bea0cfc7861e1",
+      "crc32": "238572b0",
+      "sha1": "48d5d0ad582ddf44dd8d2fbc5b0ac4a4f7225717"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T16:05:35.571435+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665752758",
+      "size": "123009",
+      "md5": "a2179b103ba66e3bc020624187751afd",
+      "crc32": "6ed62761",
+      "sha1": "98b35f896e86f09ae29c0170c564076b98940fe0",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T16:05:35.571435+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665752760",
+      "size": "136667",
+      "md5": "4d76eb2c5610cb565cdbb01fe443e845",
+      "crc32": "229563e1",
+      "sha1": "ed6ead1c142eefa5f1330b5ee90310bf422998de",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T16:05:35.571435+03:00.jpg",
+      "source": "original",
+      "mtime": "1665752754",
+      "size": "348895",
+      "md5": "c939d83f9b6f77a82654ddcaeef0a219",
+      "crc32": "79ced2cf",
+      "sha1": "f151f3762f8ae204d9fbe1daf3fc3ca6e78c01cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T16:05:35.571435+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665752762",
+      "size": "1522",
+      "md5": "7eb5396a070e6fafd2aa33a068e7fd0b",
+      "crc32": "70e0012d",
+      "sha1": "839b4cb89385c5370559f7f2b159be10cbfa80d5",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T16:05:35.571435+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665752764",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-14T16:05:35.571435+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-14T16:05:35.571435+03:00.jpg",
+      "mtime": "1665752905",
+      "size": "11761",
+      "md5": "2292004383261a0de1140afb91cd2203",
+      "crc32": "e3359c66",
+      "sha1": "fa8f06804638e2d583525c7681396d062b2ff6d0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T04:18:42.058403+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665796729",
+      "size": "124763",
+      "md5": "2b1174a674a9daa207df2773ecae5e9d",
+      "crc32": "b0ecba3e",
+      "sha1": "ef44bce6f93fd08ad70b0e5dcb1ab70092cd807e",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T04:18:42.058403+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665796731",
+      "size": "137876",
+      "md5": "0cf269fdbdc7cd83d1f3deb6238b52dc",
+      "crc32": "b0c7d8d3",
+      "sha1": "dae05a4fb599bad727e2dc9e409d6a86e0895977",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T04:18:42.058403+03:00.jpg",
+      "source": "original",
+      "mtime": "1665796726",
+      "size": "296895",
+      "md5": "d7a99496a5d49f3dc0825ea1d3ee2cff",
+      "crc32": "8d31785c",
+      "sha1": "15b8cb998c1a150a685c1a1523e2e2e2056a32d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T04:18:42.058403+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665796733",
+      "size": "1522",
+      "md5": "5c79759de447b128a26e77711103da0d",
+      "crc32": "b970950a",
+      "sha1": "3c8bf15a2eacd1f99a6775f8f7fe7f83c70eafed",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T04:18:42.058403+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665796739",
+      "size": "60288",
+      "md5": "fc155e0d617006a0aa7d0f49792c3c31",
+      "crc32": "3c409642",
+      "sha1": "a3986223273576eee468aeb8c42a73f4f9cb21d8",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T04:18:42.058403+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-15T04:18:42.058403+03:00.jpg",
+      "mtime": "1665796807",
+      "size": "11388",
+      "md5": "069dd95f54b59cf820c53b0e89e38ba6",
+      "crc32": "1c747a13",
+      "sha1": "51d598624ec16f7e19c845e9e0051c180f6a9aa2"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T15:58:36.682461+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665838725",
+      "size": "122657",
+      "md5": "131ca6658e683622e38945d12e12d7ae",
+      "crc32": "a0cf5a60",
+      "sha1": "9bf5065caeaf675126ab25bcd5d0064b31867897",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T15:58:36.682461+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665838727",
+      "size": "136301",
+      "md5": "2a91c55a1a814b47dadddba6c7104de2",
+      "crc32": "f870e861",
+      "sha1": "767f2131cbb9ec9f3b915612bb100f9a61a926a5",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T15:58:36.682461+03:00.jpg",
+      "source": "original",
+      "mtime": "1665838723",
+      "size": "13138",
+      "md5": "ea987d5a23910acc5fc3afce720baed4",
+      "crc32": "2d2dfb42",
+      "sha1": "c82e951aeb3af7b182407e2bb14a05efe6928b4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T15:58:36.682461+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665838728",
+      "size": "1522",
+      "md5": "6eb82f9a43e6dee6a9eb419a9b00bc47",
+      "crc32": "721f1827",
+      "sha1": "577283d92789bd5378cc5ae001b7fa1421b63b80",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T15:58:36.682461+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665838730",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-15T15:58:36.682461+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-15T15:58:36.682461+03:00.jpg",
+      "mtime": "1665838830",
+      "size": "4845",
+      "md5": "54c63b5941c14c75c0854015acb3225d",
+      "crc32": "dd207209",
+      "sha1": "9f8b4360cb8938ab3724ed399c9cb3d1dd68155f"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T04:33:15.368340+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665884002",
+      "size": "119079",
+      "md5": "ede603b607a8eeae59a29210b3c02bc9",
+      "crc32": "6ff3067f",
+      "sha1": "0b28002ee51dfa844ed73aabb541bb7b4b8ccf7a",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T04:33:15.368340+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665884004",
+      "size": "130550",
+      "md5": "1ff6dc02b10dcef67cab1667ed8ea136",
+      "crc32": "fce305d9",
+      "sha1": "b5c6286063dc47dacbb8fea338f2d3f3a56f3abd",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T04:33:15.368340+03:00.jpg",
+      "source": "original",
+      "mtime": "1665884001",
+      "size": "336189",
+      "md5": "1438d491489ce95421703d13a178537e",
+      "crc32": "2a069f06",
+      "sha1": "447050e82cdb4c8a2093baef72889977ee7592cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T04:33:15.368340+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665884005",
+      "size": "1522",
+      "md5": "3004394fac05883e0b80021202cce71c",
+      "crc32": "b7d75e1a",
+      "sha1": "f7f2c05fe065204c87fb72504f524653fa881f0a",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T04:33:15.368340+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665884007",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T04:33:15.368340+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-16T04:33:15.368340+03:00.jpg",
+      "mtime": "1665884330",
+      "size": "11194",
+      "md5": "d2957b02f475f0249749c324d9a0113e",
+      "crc32": "bf9e98b0",
+      "sha1": "e4c2c388fd48aef31dc1771b534de0650fbfeb39"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T15:53:10.593436+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665924798",
+      "size": "116586",
+      "md5": "2f7d7e8d545817e1f09944a1a1b5f8ff",
+      "crc32": "ec86185f",
+      "sha1": "b65896ee53bf784cec4bfb2b0330632931907a95",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T15:53:10.593436+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665924799",
+      "size": "127349",
+      "md5": "2112f819d8f547638a386b5cd00d858b",
+      "crc32": "9a90a11a",
+      "sha1": "9d8f6036fc46873409aeed98668dd27fbb3d2ea4",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T15:53:10.593436+03:00.jpg",
+      "source": "original",
+      "mtime": "1665924797",
+      "size": "363984",
+      "md5": "fe87c7e388f617a9ad8c31c70c0f7575",
+      "crc32": "37ccdeb2",
+      "sha1": "73b08beb34682d5e17d7db06302f0e8bc69bdcc5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T15:53:10.593436+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665924801",
+      "size": "1522",
+      "md5": "aad1abf2f6c36e8a8b68eb97ae7f7842",
+      "crc32": "5d66c37b",
+      "sha1": "cebf9e3c53419885ccd5a1594933006535a0664d",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T15:53:10.593436+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665924802",
+      "size": "48205",
+      "md5": "ce1e49803f828410b45f10e6cdac4275",
+      "crc32": "578fe539",
+      "sha1": "14945929b0b9f3c901e35aa27d973cd54015e8d9",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-16T15:53:10.593436+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-16T15:53:10.593436+03:00.jpg",
+      "mtime": "1665924917",
+      "size": "11535",
+      "md5": "d984ee1194545f4eb4b5366a90907e9b",
+      "crc32": "25245de7",
+      "sha1": "705a8fbc974c6268790f04a2e02d002b77296f78"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T04:18:05.362194+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665969494",
+      "size": "117623",
+      "md5": "840645111e15887a750691132c570289",
+      "crc32": "62127de5",
+      "sha1": "0e35841bf79571c52f8d6a7e747c1437ef7e5129",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T04:18:05.362194+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665969496",
+      "size": "129782",
+      "md5": "026a3214c7dc5c8750f50ce43b1266f9",
+      "crc32": "1a2fbd96",
+      "sha1": "1f0e168911ec72216c9634821216df5f478cc1ee",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T04:18:05.362194+03:00.jpg",
+      "source": "original",
+      "mtime": "1665969493",
+      "size": "304415",
+      "md5": "dc4fc6e62acbdd704ff60832308ca7c3",
+      "crc32": "f28379fa",
+      "sha1": "e0b53085be45be703521afe44d020481bbaf2c75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T04:18:05.362194+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665969498",
+      "size": "1522",
+      "md5": "2684f522ff48a953b7a2fa9e8f1ee17e",
+      "crc32": "52b35af3",
+      "sha1": "025e114bb98106c7c9917dedf943259c8a48b1f6",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T04:18:05.362194+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665969499",
+      "size": "55267",
+      "md5": "de918a70a9fab1c7afd1f89b094f3cf5",
+      "crc32": "72e6a69e",
+      "sha1": "52bea37afeeccd36b597b38c5242627421017248",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T04:18:05.362194+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-17T04:18:05.362194+03:00.jpg",
+      "mtime": "1665969632",
+      "size": "10908",
+      "md5": "df0e492a829e0581c40c3a678bdd69bf",
+      "crc32": "aff7cf13",
+      "sha1": "a568c1faecdfd27143ccb9454697db24752428cd"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T15:53:47.567505+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666011252",
+      "size": "42",
+      "md5": "2c44e5332bbb2c8cce7db932cef2f7de",
+      "crc32": "320d6962",
+      "sha1": "4adf22edd6c4f5646546cf06832072268c0ced30",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T15:53:47.567505+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666011254",
+      "size": "135156",
+      "md5": "b82c4295f5f88037b87b22a112aa9c1a",
+      "crc32": "2b93bdcc",
+      "sha1": "b5ea7232493f8eead93c61a9a4f90a94844c9587",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T15:53:47.567505+03:00.jpg",
+      "source": "original",
+      "mtime": "1666011251",
+      "size": "318112",
+      "md5": "82d503ee6f91488612a7986b25a544cf",
+      "crc32": "648e0d77",
+      "sha1": "2f7cf9130fbddf4f538936f53cdc82f5b07db8af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T15:53:47.567505+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666011255",
+      "size": "1522",
+      "md5": "27d2bdb6b9275d2b54ce03ede8ac79d8",
+      "crc32": "7927d35a",
+      "sha1": "57e3592bbb88f6e8d98f68d4cb56d6e9c84c7e8d",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T15:53:47.567505+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666011257",
+      "size": "210",
+      "md5": "a77fb12e55d7a103f42db8949251dbb6",
+      "crc32": "26cbc4f3",
+      "sha1": "7b3f8d047e0c91ab1084b5df9b648477a8f7718a",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-17T15:53:47.567505+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-17T15:53:47.567505+03:00.jpg",
+      "mtime": "1666011395",
+      "size": "11230",
+      "md5": "8dc18a2d5855a1d5410ef001cf717415",
+      "crc32": "904598ac",
+      "sha1": "187d371d0c2979b3ed6c758616167000675eb629"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T04:23:06.424919+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666056200",
+      "size": "116558",
+      "md5": "1ef086f2d229610726b54e153d96a978",
+      "crc32": "d4a9dc07",
+      "sha1": "da91724b5c4205d5d9e74143add602cb22392993",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T04:23:06.424919+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666056202",
+      "size": "128895",
+      "md5": "33971e5d5bf8f87f098ff5ae5bd2e666",
+      "crc32": "3af590da",
+      "sha1": "ac1b5a99c23a5c81349334cf64627884ec00f203",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T04:23:06.424919+03:00.jpg",
+      "source": "original",
+      "mtime": "1666056198",
+      "size": "249231",
+      "md5": "53d60d508fe57d3c1711ba45f02df08e",
+      "crc32": "d8494dfc",
+      "sha1": "af0779790406491d96fdae206fdcab772aa72dfe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T04:23:06.424919+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666056204",
+      "size": "1522",
+      "md5": "ff17238ed3de7ef915f4db2b7ee7809e",
+      "crc32": "360a0c30",
+      "sha1": "b842593448404fb6c09e2d31c92b22e6bf036eae",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T04:23:06.424919+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666056205",
+      "size": "52983",
+      "md5": "96c0fb53ba8f07e1cb34519313db1617",
+      "crc32": "0764ffe6",
+      "sha1": "8efcadff892293eb127b83add6946e8b1b009ca4",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T04:23:06.424919+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-18T04:23:06.424919+03:00.jpg",
+      "mtime": "1666056323",
+      "size": "10034",
+      "md5": "b1672f4961e3288d37317fa2062f9a07",
+      "crc32": "e4017bfb",
+      "sha1": "f0d04cc632e52532cf86d6a5fe7aa4ccaf66ef4a"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T15:58:13.327341+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666097898",
+      "size": "112379",
+      "md5": "f57692f376a650990321e835797c5d2d",
+      "crc32": "f3db0903",
+      "sha1": "f7d09439feabe4117e24ae709e25b23bf149ddc5",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T15:58:13.327341+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666097900",
+      "size": "123887",
+      "md5": "5cb9539c3a3eed4fcca015d2954ae41b",
+      "crc32": "aceadb06",
+      "sha1": "ff3ddd5145f01f833c579428cb608e2e0015ca8d",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T15:58:13.327341+03:00.jpg",
+      "source": "original",
+      "mtime": "1666097897",
+      "size": "306684",
+      "md5": "92f750c9386042f7c4a15ed339ee0410",
+      "crc32": "841de489",
+      "sha1": "49f77da150ffb3ee7a97de81a116a78262ff1901",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T15:58:13.327341+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666097901",
+      "size": "1522",
+      "md5": "61487b0aa7f8ef9b5c27fe4c37296790",
+      "crc32": "4c6f396f",
+      "sha1": "f319576c55052581b1eed601fa704cefe89ce055",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T15:58:13.327341+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666097903",
+      "size": "255",
+      "md5": "96c20b87e4559d9a0fdd89cdc030e64b",
+      "crc32": "c6b9d2e7",
+      "sha1": "4fb1857041d297efb901de09d4822e061129f261",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-18T15:58:13.327341+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-18T15:58:13.327341+03:00.jpg",
+      "mtime": "1666098668",
+      "size": "11536",
+      "md5": "781769f67859a097c6854d4282fedc4a",
+      "crc32": "518be4a9",
+      "sha1": "6ed449f014981ce4053a6f3a90f131ec9b3aa57d"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T04:22:18.993993+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142550",
+      "size": "114859",
+      "md5": "3f8b002bd4fffff293bf8c1206f1a3ed",
+      "crc32": "91fb24a1",
+      "sha1": "5a5d2d09e3783b7e398c3fe3ba86b234cecb6155",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T04:22:18.993993+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142552",
+      "size": "126488",
+      "md5": "9560e4662c8481af5594eb0b62b670aa",
+      "crc32": "89211bc2",
+      "sha1": "5e8bcea558002a241b467500b37dc5771fe45ac2",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T04:22:18.993993+03:00.jpg",
+      "source": "original",
+      "mtime": "1666142548",
+      "size": "301352",
+      "md5": "deea12c5f04c404832a00bbc7ded3d19",
+      "crc32": "e00df642",
+      "sha1": "376aed5ba392317f51b044760a601f96230e18b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T04:22:18.993993+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142554",
+      "size": "1522",
+      "md5": "95ff18b28c824189dbf314ef83d84eb8",
+      "crc32": "ac403c10",
+      "sha1": "34d36467f022c53095bf960f988897e3a41ddb02",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T04:22:18.993993+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142555",
+      "size": "53373",
+      "md5": "7b63941c8920a31586eb5180dee2a52a",
+      "crc32": "8760a335",
+      "sha1": "18ab702c6fc61a74bcddd1c87c9d27d764b76fe6",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T04:22:18.993993+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "israelhayomeng-2022-10-19T04:22:18.993993+03:00.jpg",
+      "mtime": "1666166056",
+      "size": "10633",
+      "md5": "5a7263c29d5bcbcc4da6ef247b091946",
+      "crc32": "ec6abf86",
+      "sha1": "99be5c2e5f8d6751f1f4c4e328c94e22acf594e9"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T15:57:47.770567+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666184276",
+      "size": "116607",
+      "md5": "a9e04b039af43e8a999a42372b4b8fd5",
+      "crc32": "6495ded5",
+      "sha1": "86c98a0575612eda2ecdddfe432966b5951fd81f",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T15:57:47.770567+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666184278",
+      "size": "127353",
+      "md5": "2fca6c000bbef43a6240588b4406da48",
+      "crc32": "322182a2",
+      "sha1": "8589946a08ab40ea51d3e0e541078b6b18bb0d15",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T15:57:47.770567+03:00.jpg",
+      "source": "original",
+      "mtime": "1666184275",
+      "size": "381837",
+      "md5": "1e241ea3286771156e24189b7d907479",
+      "crc32": "bcd6c6a9",
+      "sha1": "bf31c22793f586b20aa6eaf852b5029c0e6baf37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T15:57:47.770567+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666184279",
+      "size": "1522",
+      "md5": "2a854b9b7252ba7391cb2002483517a7",
+      "crc32": "6f645417",
+      "sha1": "fb23d4320c841d1b836e36ab92f5b71e9949d889",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-10-19T15:57:47.770567+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666184281",
+      "size": "50009",
+      "md5": "e6bb8efa28f14733d5b4280e49a40a27",
+      "crc32": "2c414abb",
+      "sha1": "9d1dd44339165ce05be36801559d9bc8600d48ae",
+      "format": "JSON"
+    },
+    {
       "name": "israelhayomeng-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4e7a2be95631e5bf1e189a9f641f6af5129813b0",
-      "mtime": "1665665919",
-      "size": "161947",
-      "md5": "bdc800f8ac916b9db7238aa4bfedd38c",
-      "crc32": "6e6d95e5",
-      "sha1": "2b659c1023ffa211387d585bfe2b11b2b0d5c2ef",
+      "btih": "61af54831d1239cba179581642e1d027421e69e1",
+      "mtime": "1666184361",
+      "size": "177413",
+      "md5": "fd5b60dcaef37f66dfcda09f0d9280a9",
+      "crc32": "3438bb40",
+      "sha1": "c95c00db78726d30a744f94938077aee8e8163a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "israelhayomeng-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4fea5fb314a4cd7831327de671abc29b",
+      "md5": "1de4a656848a3d1f28fad0f360138115",
       "summation": "md5"
     },
     {
       "name": "israelhayomeng-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665665787",
-      "size": "958464",
-      "md5": "44019f9971ae49b7ecc23414054e8880",
-      "crc32": "8cfe6c23",
-      "sha1": "0b70cffd13f1cfd485354a699b0a45512db715ed",
+      "mtime": "1666184289",
+      "size": "1048576",
+      "md5": "27c26f2c0d94780e56985e26d7a4f5da",
+      "crc32": "cc9e4012",
+      "sha1": "e8e552d1f4dabc6a2313593a1374e985e282cbdd",
       "format": "Metadata"
     },
     {
@@ -7650,9 +8383,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 740,
-  "item_last_updated": 1665665919,
-  "item_size": 75693831,
+  "files_count": 811,
+  "item_last_updated": 1666184361,
+  "item_size": 82729946,
   "metadata": {
     "identifier": "israelhayomeng-2022",
     "collection": [
@@ -7669,10 +8402,21 @@
     "publicdate": "2022-08-14 03:09:12",
     "addeddate": "2022-08-14 03:09:12"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 946493824,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445633422,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 874445527,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

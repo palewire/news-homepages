@@ -2,22 +2,11 @@ name: "Update website"
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows:
-      - Archive a single site
-      - Archive all sites (Batch 2)
-      - Archive all sites (Batch 4)
-      - Archive all sites (Batch 6)
-      - Archive all sites (Batch 8)
-      - Archive all sites (Batch 10)
-      - "Archive: U.S. national"
-    types:
-      - completed
   schedule:
     - cron: "0 */6 * * *"
 
 concurrency:
-  group: docs
+  group: site
   cancel-in-progress: true
 
 jobs:
@@ -49,8 +38,8 @@ jobs:
           git commit -m "Consolidate extracts" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
 
-      - id: update-docs
-        name: Update docs
+      - id: update-site
+        name: Update site
         uses: ./.github/actions/site
         with:
           api-key: ${{ secrets.PALEWIRE_DOCS_AWS_ACCESS_KEY_ID }}

@@ -1,5 +1,5 @@
 {
-  "created": 1665683795,
+  "created": 1666072483,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/35/items/lexdispatch-2022",
@@ -2900,31 +2900,589 @@
       "sha1": "c8547b9f14a044afd348b603cee2ad157077cd71"
     },
     {
+      "name": "lexdispatch-2022-10-14T02:28:22.601492-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665728906",
+      "size": "21487",
+      "md5": "cb1c20b8d23c42d20180e8e32656a830",
+      "crc32": "db3e93d2",
+      "sha1": "c62a7f6fbd702e18fc1d7064c22bce15fd776c63",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T02:28:22.601492-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665728908",
+      "size": "32230",
+      "md5": "f68bf268402f8dbc5a56c80738b26455",
+      "crc32": "62f4b356",
+      "sha1": "984092d98fe3a843a299a0be16d8dccb58bba8c5",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T02:28:22.601492-04:00.jpg",
+      "source": "original",
+      "mtime": "1665728905",
+      "size": "308317",
+      "md5": "ce16ef9e111d8ee0638446b43e4d7e2c",
+      "crc32": "06714811",
+      "sha1": "4b2d0e6f15ece141c8ed0096a36aae254b5d7467",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T02:28:22.601492-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665728909",
+      "size": "1512",
+      "md5": "4276e98cd0a560a6604ccc55d80e9c6f",
+      "crc32": "b34d20f3",
+      "sha1": "b006348615a532d3ce7b50c73b6a395b6dd03d4f",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T02:28:22.601492-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665728911",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T02:28:22.601492-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-14T02:28:22.601492-04:00.jpg",
+      "mtime": "1665728991",
+      "size": "9303",
+      "md5": "a26c580c0eeb15f12445c9162a10ed66",
+      "crc32": "64541062",
+      "sha1": "378512097c142e7f152a148c209252fb3e4da7bf"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T14:15:40.805235-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665771356",
+      "size": "22548",
+      "md5": "18cd53d65d69848d4a923df5b2fe2292",
+      "crc32": "0462b457",
+      "sha1": "ac9fe4341944ad4999509cae85f193a5f6432816",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T14:15:40.805235-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665771363",
+      "size": "34922",
+      "md5": "a0678f037500a11bbfd888ff76b2c45b",
+      "crc32": "88461546",
+      "sha1": "3f0f4b5f44eaa0968d36543e725aff1ce366d414",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T14:15:40.805235-04:00.jpg",
+      "source": "original",
+      "mtime": "1665771347",
+      "size": "285082",
+      "md5": "f98759b6558270fd1547af6ed01e0120",
+      "crc32": "24a46345",
+      "sha1": "41216152d123ae44ebc876243625c2f8073804a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T14:15:40.805235-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665771369",
+      "size": "1513",
+      "md5": "3be00a68416d79af905fc513c9ce1ba6",
+      "crc32": "95c5c36a",
+      "sha1": "6083d730dafe2aa7f1a62fb84e91e1e8d39502b6",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T14:15:40.805235-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665771375",
+      "size": "158850",
+      "md5": "0b1f10570a5f4a793982ecf4be4d4f8c",
+      "crc32": "297aa5c9",
+      "sha1": "cf1ec4613fb36adc4669cd55377c2a7c61917d3f",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-14T14:15:40.805235-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-14T14:15:40.805235-04:00.jpg",
+      "mtime": "1665771718",
+      "size": "9373",
+      "md5": "b0af8589bdf88bf04a9064b35d084612",
+      "crc32": "c3596d6c",
+      "sha1": "ca7d492f1bb00bbc0f92301df145e595f007a806"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T02:26:49.818862-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815213",
+      "size": "23043",
+      "md5": "9654dd5f5a432df5166d0ea66cca5297",
+      "crc32": "4f053521",
+      "sha1": "f0259cd5607518342f14a29057bf73f4a1cda33d",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T02:26:49.818862-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815214",
+      "size": "30882",
+      "md5": "db5ddb722410be93c6c6e19c8913f3d8",
+      "crc32": "88df76e0",
+      "sha1": "5d4e5f2514734d1b6d1f448818feacfbfcc14464",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T02:26:49.818862-04:00.jpg",
+      "source": "original",
+      "mtime": "1665815211",
+      "size": "260619",
+      "md5": "012f51c37363d1f2258f1f46c8d4f0df",
+      "crc32": "a4a4e4fd",
+      "sha1": "2763a95c6f673b3d25625545615ebecef1d138e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T02:26:49.818862-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815216",
+      "size": "1513",
+      "md5": "f1ec7f2b496bd65f7d27446446d640e6",
+      "crc32": "119ad7c6",
+      "sha1": "ef56bf60cc7a253ea4d69910d0ce59099ba0090a",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T02:26:49.818862-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815218",
+      "size": "128723",
+      "md5": "05d3aae6fd5006f31225ea6858e2ce70",
+      "crc32": "773e85e6",
+      "sha1": "57fa7e588299f0a516ba639b8d02bddfde4ba1e9",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T02:26:49.818862-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-15T02:26:49.818862-04:00.jpg",
+      "mtime": "1665815272",
+      "size": "9241",
+      "md5": "01d0fbe0a08f03df1c34d067dedcc85b",
+      "crc32": "d4787a3e",
+      "sha1": "18542b97352483860ba1942385b347a87feabf96"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T13:57:54.485948-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665856682",
+      "size": "23780",
+      "md5": "79d82537d3ac7329a7bc510904b19bc2",
+      "crc32": "42ce0a17",
+      "sha1": "dda72c20c1027c72983332af686ed262467908ea",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T13:57:54.485948-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665856684",
+      "size": "34611",
+      "md5": "e5ae8b570a7b8c5b162c6681e96a6fc9",
+      "crc32": "34c62057",
+      "sha1": "c61e4a8f6997cc09ccf17a7433a1cc677791155f",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T13:57:54.485948-04:00.jpg",
+      "source": "original",
+      "mtime": "1665856680",
+      "size": "302494",
+      "md5": "586d54f39e806f9101bd1863dce05a32",
+      "crc32": "2b06ce83",
+      "sha1": "1e92d8789034feebe2ec989b480e22deb350b55a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T13:57:54.485948-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665856686",
+      "size": "1512",
+      "md5": "f04016d6f116cd814684600c12fbc191",
+      "crc32": "9f85b222",
+      "sha1": "afc99a2c4d20098150d7c69aba4e2c5f549cfc77",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T13:57:54.485948-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665856687",
+      "size": "96479",
+      "md5": "cde8a43ec084885fcfc7f8f44c3863f9",
+      "crc32": "23bb7539",
+      "sha1": "526aac62528b48e2f6d5351a266a48c9a8cc8bd7",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-15T13:57:54.485948-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-15T13:57:54.485948-04:00.jpg",
+      "mtime": "1665856743",
+      "size": "9464",
+      "md5": "e306ffdca3a5b5591cdea4afc200d0b3",
+      "crc32": "ba74da0f",
+      "sha1": "681dccfea219dc392d1bfa6fe22ca713febbc850"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T01:56:37.687867-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665899809",
+      "size": "21706",
+      "md5": "618feac02666500fb1a2fe845f3a2202",
+      "crc32": "d719ea4b",
+      "sha1": "5ac85f8d905c48a8d108972c0ad47fbc1ed9ccfa",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T01:56:37.687867-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665899812",
+      "size": "35578",
+      "md5": "1c1ec696c6c9140d18ce8cf9d44a4417",
+      "crc32": "afa29f26",
+      "sha1": "3179f7aa486c1de26f2eed6a112adb0ee45f9da7",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T01:56:37.687867-04:00.jpg",
+      "source": "original",
+      "mtime": "1665899807",
+      "size": "266422",
+      "md5": "75ff817d75e0e3be5b807dca3d1edf2a",
+      "crc32": "9f19f271",
+      "sha1": "7f4ec2a512096f46fa9db9ba33c0301b64be2761",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T01:56:37.687867-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665899813",
+      "size": "1512",
+      "md5": "138506c1feb4b6246f08650be2eae793",
+      "crc32": "1d58fc75",
+      "sha1": "074e11029fc6412adb8aff8934f2250a98ac8ec3",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T01:56:37.687867-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665899815",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T01:56:37.687867-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-16T01:56:37.687867-04:00.jpg",
+      "mtime": "1665899874",
+      "size": "9318",
+      "md5": "f0d2beb8dbbbc833f0b2aa45d8e48836",
+      "crc32": "bb9c31e4",
+      "sha1": "f4420a19bbaf6be0be838cf6bc49019c8d256ab2"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T13:28:08.992587-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941292",
+      "size": "23344",
+      "md5": "7f3631b3983ff831d79dc22fb6c9e860",
+      "crc32": "69a64be5",
+      "sha1": "0e54cc79b07dcdc5b262d8ea9e7514884a107146",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T13:28:08.992587-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941294",
+      "size": "32602",
+      "md5": "9e70cf83dc97a31905e29daa4f2ee9c7",
+      "crc32": "01de619c",
+      "sha1": "ee0163704a296286e1cfd3e3717361298f268507",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T13:28:08.992587-04:00.jpg",
+      "source": "original",
+      "mtime": "1665941290",
+      "size": "270831",
+      "md5": "330976a4ae2a1da2ea712301588428a9",
+      "crc32": "fc102ccb",
+      "sha1": "a222ba2cbdfcea77ec26e501994ff4d0f60ffa01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T13:28:08.992587-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941295",
+      "size": "1513",
+      "md5": "853d07c22712afa01013043dac20b5a5",
+      "crc32": "36c27d0a",
+      "sha1": "f8ae31d5dd74c568b5e6c6fd7ce712a3afee793a",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T13:28:08.992587-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941297",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-16T13:28:08.992587-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-16T13:28:08.992587-04:00.jpg",
+      "mtime": "1665941360",
+      "size": "9265",
+      "md5": "6b20016f029685a5d52c4b20ecf4816a",
+      "crc32": "e5c7140a",
+      "sha1": "363e7de5e928bfcd878f575dc04bab09c16bdd47"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T02:17:03.373134-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665987427",
+      "size": "21884",
+      "md5": "1e360da1e9b91a7fb2968c3acf310443",
+      "crc32": "9c9315d2",
+      "sha1": "330c86a3c13c8b57572fb9e9ce5b3a6385405efd",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T02:17:03.373134-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665987429",
+      "size": "31613",
+      "md5": "a19c93333e26538cc69ac2dc10752411",
+      "crc32": "9532160e",
+      "sha1": "7aafcd51789f14a779c65eea1ab779f100e67aff",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T02:17:03.373134-04:00.jpg",
+      "source": "original",
+      "mtime": "1665987425",
+      "size": "242008",
+      "md5": "91a30d262890c6e4b347ece4dbe7501d",
+      "crc32": "68a0c166",
+      "sha1": "f6a9dc6015b47b9d10b42ed3d5b9b69d0f7f3228",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T02:17:03.373134-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665987430",
+      "size": "1513",
+      "md5": "aac683200d50b8f3fc51acb68af2b6b9",
+      "crc32": "922df4a3",
+      "sha1": "f52308e8cdd0aa6e3b11d48cceca98b9ed8b49e3",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T02:17:03.373134-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665987432",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T02:17:03.373134-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-17T02:17:03.373134-04:00.jpg",
+      "mtime": "1665987485",
+      "size": "8686",
+      "md5": "edff5447e5aada7394d231ab3e0ef2f6",
+      "crc32": "59801c18",
+      "sha1": "e15d81930dc43af22dfe3dccc5c4ceaf61a62fff"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T14:01:06.855761-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666029670",
+      "size": "21965",
+      "md5": "5727908645f88f5ea23449a9f0d28b4d",
+      "crc32": "bcf48343",
+      "sha1": "ac37267d1d80f41031ef20bdcba665bad6484ce2",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T14:01:06.855761-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666029671",
+      "size": "33172",
+      "md5": "a83bc357e65a40f422bba97281e5191d",
+      "crc32": "b87c8fa2",
+      "sha1": "c5291d188f4d24b4590bfbc97f8d8633241c642c",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T14:01:06.855761-04:00.jpg",
+      "source": "original",
+      "mtime": "1666029668",
+      "size": "276232",
+      "md5": "21df8d56ffe8394365df0c415c90b63b",
+      "crc32": "1fdab72f",
+      "sha1": "9d81f6cbfbfd3e0bda4189835fe3de2206414a15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T14:01:06.855761-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666029673",
+      "size": "1513",
+      "md5": "d6c1325cc44573dd0db8da8241452a87",
+      "crc32": "e9c4f091",
+      "sha1": "b833616dee6b21f1f37c44eb1d14bf33f37e4605",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T14:01:06.855761-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666029674",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-17T14:01:06.855761-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-17T14:01:06.855761-04:00.jpg",
+      "mtime": "1666029740",
+      "size": "9227",
+      "md5": "3985f760bb512e368ca0eb2b498ad04b",
+      "crc32": "3a095284",
+      "sha1": "214b719d00ae0454ca9177c92ca0ca4f6342f48c"
+    },
+    {
+      "name": "lexdispatch-2022-10-18T01:53:30.876905-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072416",
+      "size": "21901",
+      "md5": "337e84b3a5b9ac98861e47b6a26f2741",
+      "crc32": "a0807f79",
+      "sha1": "fa15611f61e2dfa70c5f87187ceb90b706d4a135",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-18T01:53:30.876905-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072418",
+      "size": "35704",
+      "md5": "b5c576f2fd68596d72ce435dfee9222b",
+      "crc32": "bd4a150e",
+      "sha1": "f22aeebe897311369714b9c87f09165dca493cf7",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-18T01:53:30.876905-04:00.jpg",
+      "source": "original",
+      "mtime": "1666072414",
+      "size": "248761",
+      "md5": "2a14ccdf89f0de25c20a1624c3976c23",
+      "crc32": "c8fbd75a",
+      "sha1": "5b0cf0e86677ab41e2efd66681ac3c700c13aa0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-18T01:53:30.876905-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072419",
+      "size": "1513",
+      "md5": "412f7c5463526128e80a842ba4a1001b",
+      "crc32": "3bbd78f2",
+      "sha1": "824fe1d6d6b53b22e9d8b25ff8d6410d6b22b351",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-18T01:53:30.876905-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072421",
+      "size": "100223",
+      "md5": "69420880c13c266408de4384ae9d22fb",
+      "crc32": "48e0243e",
+      "sha1": "84fc377867c67388fa93985f352b7c6257bbac59",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-18T01:53:30.876905-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-18T01:53:30.876905-04:00.jpg",
+      "mtime": "1666072474",
+      "size": "8935",
+      "md5": "71b79619486503dc6cc74d738d893572",
+      "crc32": "957ade19",
+      "sha1": "42d96cf8bb8761bdbd2384cd0dd128ec485de437"
+    },
+    {
       "name": "lexdispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f5d6864fe1b05e6f60ca7f6abc68d74ae8f2fcd",
-      "mtime": "1665683765",
-      "size": "61204",
-      "md5": "539b8bd49670005204b8f2df644d9fd6",
-      "crc32": "eea56327",
-      "sha1": "4ab4b8de7d72cfa9559e944e163496c091a9a826",
+      "btih": "52f805a54892aca59478ef131039f58cfd2f7d49",
+      "mtime": "1666072478",
+      "size": "72722",
+      "md5": "1de13d35fa5ab9fc70e08cf03e6c9277",
+      "crc32": "48930800",
+      "sha1": "67f731ca18cdd3f2f5057837dc171a135222d584",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lexdispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18df11f527dba362ea66198cdb97792f",
+      "md5": "9e0d189d57a7dde30e2a91cc5f0daafd",
       "summation": "md5"
     },
     {
       "name": "lexdispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665683661",
-      "size": "376832",
-      "md5": "fce76c06ce553bbbe0581954a99bd78d",
-      "crc32": "4ce31c35",
-      "sha1": "61911ce841b1f2699f46e9e4b9c1d2234b46ce94",
+      "mtime": "1666072426",
+      "size": "446464",
+      "md5": "7898c756225800e06fc30278cf8b5155",
+      "crc32": "d71c8e73",
+      "sha1": "155e4996b18873461f0e7b82a1f753d6e0aad31f",
       "format": "Metadata"
     },
     {
@@ -2938,9 +3496,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 284,
-  "item_last_updated": 1665683765,
-  "item_size": 19659706,
+  "files_count": 338,
+  "item_last_updated": 1666072478,
+  "item_size": 23286305,
   "metadata": {
     "identifier": "lexdispatch-2022",
     "collection": [
@@ -2957,10 +3515,10 @@
     "publicdate": "2022-09-20 17:33:29",
     "addeddate": "2022-09-20 17:33:29"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1374596492,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1316819143,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

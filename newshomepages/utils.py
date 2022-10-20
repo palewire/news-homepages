@@ -23,7 +23,7 @@ BUNDLES_PATH = SOURCES_PATH / "bundles.csv"
 EXTENSIONS_PATH = THIS_DIR / "extensions"
 EXTRACT_DIR = THIS_DIR.parent / "extracts"
 NOTEBOOKS_DIR = THIS_DIR.parent / "notebooks"
-DOCS_DIR = THIS_DIR.parent / "docs"
+SITE_DIR = THIS_DIR.parent / "_site"
 ANALYSIS_DIR = THIS_DIR.parent / "_analysis"
 
 

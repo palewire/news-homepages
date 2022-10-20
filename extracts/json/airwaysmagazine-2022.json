@@ -1,5 +1,5 @@
 {
-  "created": 1665677465,
+  "created": 1666196560,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/3/items/airwaysmagazine-2022",
@@ -6568,31 +6568,764 @@
       "sha1": "e451f01a2f0926ec062ea7f219ce42a13a248a50"
     },
     {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665728150",
+      "size": "37990",
+      "md5": "53256ddc9081ce0d7c8546d59363483c",
+      "crc32": "040021ef",
+      "sha1": "e07fe458925fddf83db1c94d32cac8f057015441",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665728152",
+      "size": "30197",
+      "md5": "b446f26e8c2c1c54494a2e61863a4fad",
+      "crc32": "ec4863ec",
+      "sha1": "e60ec184fc4f9effb549e80da11bf32017e24742",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.jpg",
+      "source": "original",
+      "mtime": "1665728147",
+      "size": "246416",
+      "md5": "d56aca5eaf972a760a1024e187b88b25",
+      "crc32": "4c6b5735",
+      "sha1": "e704ae0360b1e8018da3c432dbb71ae530f0771c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665728154",
+      "size": "1459",
+      "md5": "c0b1f77c6b3c8d22677a83116ff63f4e",
+      "crc32": "1f890c6f",
+      "sha1": "9261d43dbee64bb2f2e754c2a932b1a2a0250355",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665728156",
+      "size": "25814",
+      "md5": "ea74fc556363547580e63d395c69c9f0",
+      "crc32": "58d9855d",
+      "sha1": "19d9d994ce5b47ff446a76704b6624e8044e50de",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-14T02:15:30.927750-04:00.jpg",
+      "mtime": "1665728257",
+      "size": "10226",
+      "md5": "a3e53a42eb997dae38024b1e9fdbbcde",
+      "crc32": "e062359e",
+      "sha1": "3dedc2d44ed1e7156eaa5e512fdee525611ddd0c"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T12:32:34.499455-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665765174",
+      "size": "40039",
+      "md5": "adfe3dbe790c1384d46216c05f237109",
+      "crc32": "7ad20159",
+      "sha1": "fd83849c49343b4b47d0926ff5708963da6c5c95",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T12:32:34.499455-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665765177",
+      "size": "31845",
+      "md5": "fb42747cde2fec3dd0af27da72512ca8",
+      "crc32": "0303c770",
+      "sha1": "db00ad1504130cbeade548f24420bb7756c69cb4",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T12:32:34.499455-04:00.jpg",
+      "source": "original",
+      "mtime": "1665765172",
+      "size": "268078",
+      "md5": "545a1c9005e412f255db554ed7c320c6",
+      "crc32": "c27cb729",
+      "sha1": "78b736e5bed2b64ebfe021ae1f0c4285f334a121",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T12:32:34.499455-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665765179",
+      "size": "1459",
+      "md5": "89a7ad868d4a44a1d0f0c11c98043880",
+      "crc32": "355229fd",
+      "sha1": "30b3991f4ab94ad19836c75d35255c2b42010d6e",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T12:32:34.499455-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665765181",
+      "size": "26018",
+      "md5": "554b1f6d11a3a68e540fbbd833585ae3",
+      "crc32": "09b8dbec",
+      "sha1": "6242f2aff7fd99887990d5c74af39e076f43dd58",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-14T12:32:34.499455-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-14T12:32:34.499455-04:00.jpg",
+      "mtime": "1665765290",
+      "size": "10112",
+      "md5": "f2f502376284e0704102249e4058894c",
+      "crc32": "c364712e",
+      "sha1": "048bd24e050be0998271d4ecaf8f31e5cb0bf1db"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T02:13:07.618327-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665814394",
+      "size": "39838",
+      "md5": "8f32f24840f6586e1583899d31db25c5",
+      "crc32": "101fba0f",
+      "sha1": "acf3cc7ae8fcbd3c2f42aae8c8154b852a6bca4d",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T02:13:07.618327-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665814397",
+      "size": "32038",
+      "md5": "cf0bf10136fc712b2bec4f5e77245c62",
+      "crc32": "8a50b978",
+      "sha1": "9098e8fa9b70350091ba668bb74169bc5cd1b560",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T02:13:07.618327-04:00.jpg",
+      "source": "original",
+      "mtime": "1665814393",
+      "size": "217951",
+      "md5": "72a5a034e80f6ef4bbd105ceb4e126e9",
+      "crc32": "b6f5da2f",
+      "sha1": "b328a278b52f44cc24eff8303a4fb751f5ae4e94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T02:13:07.618327-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665814398",
+      "size": "1459",
+      "md5": "de7f304bdd076957ab40e4aabf907aad",
+      "crc32": "579d5729",
+      "sha1": "55a1acbf5161ea764e7bc8af8cdea9a6228ffd0b",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T02:13:07.618327-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665814400",
+      "size": "25707",
+      "md5": "9780e487d8509ac1fc90021b449d8cf9",
+      "crc32": "9fbf7be7",
+      "sha1": "41fedb9a140966dd77c27f79d825bb5bc12a45fe",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T02:13:07.618327-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-15T02:13:07.618327-04:00.jpg",
+      "mtime": "1665814482",
+      "size": "9975",
+      "md5": "e7bc33578353e4db6b0c7a6684382c57",
+      "crc32": "3366a557",
+      "sha1": "00bbf68c920137a9a3a012fa44b3561dae3f16ee"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T12:17:55.082176-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665850682",
+      "size": "39795",
+      "md5": "c8ac5eb8cff13adb613b1ec9ccf56762",
+      "crc32": "beeccadd",
+      "sha1": "6ff9e7f68b6128a561509bf89b3285c3f701aac2",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T12:17:55.082176-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665850686",
+      "size": "31923",
+      "md5": "426bebabc17f373c4f3add92b42c43fe",
+      "crc32": "9fef0193",
+      "sha1": "e9f0e98af106a38a8b443ad666088de5daa52903",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T12:17:55.082176-04:00.jpg",
+      "source": "original",
+      "mtime": "1665850680",
+      "size": "228617",
+      "md5": "b343e2f085e01956399ebc7d4e852547",
+      "crc32": "b328ad5f",
+      "sha1": "ad5981b1ce825d1b941963352962c1280ad811bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T12:17:55.082176-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665850688",
+      "size": "1459",
+      "md5": "9b8f9a25b4f9731ac7695a50c57caec6",
+      "crc32": "694840d5",
+      "sha1": "1943aa647d805159bbef8928aa6c2dd81446cef4",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T12:17:55.082176-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665850689",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-15T12:17:55.082176-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-15T12:17:55.082176-04:00.jpg",
+      "mtime": "1665850771",
+      "size": "9960",
+      "md5": "f442922d4c35045ca776a2dfc1d90c5b",
+      "crc32": "38c9c645",
+      "sha1": "951024a90cd5ce3a7ff18363ca304f8390fd54c1"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T01:11:48.051277-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665897118",
+      "size": "40432",
+      "md5": "ade88c8623b00fe556d1acf8d9bf6617",
+      "crc32": "1eeeed30",
+      "sha1": "6da36e20d80a9a1f27e0af429c4492316bf1fa9f",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T01:11:48.051277-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665897119",
+      "size": "32618",
+      "md5": "bd9d666fbfb4787267f89e8550d0a7fc",
+      "crc32": "9556441a",
+      "sha1": "83b5bdd08175f42692ec5662174ebbdfb8fca181",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T01:11:48.051277-04:00.jpg",
+      "source": "original",
+      "mtime": "1665897116",
+      "size": "230909",
+      "md5": "c0fbeb283278f8937d39fd35fb07124f",
+      "crc32": "b3770441",
+      "sha1": "474bed32bdb7935b8205f5c5e9811829358cc6b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T01:11:48.051277-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665897121",
+      "size": "1459",
+      "md5": "2a55e411eaae1b5bc67d88f89ed55797",
+      "crc32": "34e96238",
+      "sha1": "bede2f6e8f34f480c1a714360ebcfd06296667ef",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T01:11:48.051277-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665897122",
+      "size": "25429",
+      "md5": "e1960019a6c7fa8661a18cbd5674e316",
+      "crc32": "47a47ef5",
+      "sha1": "c17fa9bf2d9bcddf3f0938f9f98cb85f54325ac6",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T01:11:48.051277-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-16T01:11:48.051277-04:00.jpg",
+      "mtime": "1665897192",
+      "size": "9963",
+      "md5": "5fccecd0222c34b5c897da2bfd9ed96c",
+      "crc32": "6eead0e5",
+      "sha1": "6d8b9efee839ba26896442110ce697df9089dcb8"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T12:41:29.660142-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665938495",
+      "size": "39896",
+      "md5": "06a0ea20499b320f97ac6828bdf986b3",
+      "crc32": "40a81516",
+      "sha1": "05cc5844a916f66940e147bbf2d01de0b96e574e",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T12:41:29.660142-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665938497",
+      "size": "31912",
+      "md5": "4a707eced21845ddac8b786bfeec5158",
+      "crc32": "8e7da3a9",
+      "sha1": "41be21a7dab016f827ad8c8ae1935c99f479a04f",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T12:41:29.660142-04:00.jpg",
+      "source": "original",
+      "mtime": "1665938494",
+      "size": "234088",
+      "md5": "a51eb7d51833c23eb5c727c66751906b",
+      "crc32": "4e3e73b3",
+      "sha1": "6d102c902a362d88494bddbdb225cf00a638f43f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T12:41:29.660142-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665938498",
+      "size": "1459",
+      "md5": "0fef3d65613c7624f9a7a837d7b8ab3f",
+      "crc32": "2fc1b66e",
+      "sha1": "2d58ceec4f48a6c409c46f975a1e832eb6677d14",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T12:41:29.660142-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665938500",
+      "size": "24891",
+      "md5": "8014bd797c697fc6076f8b2d453687e5",
+      "crc32": "e48451e4",
+      "sha1": "5ed93707b8d0032df078b086cdfbbba5f59e29e5",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-16T12:41:29.660142-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-16T12:41:29.660142-04:00.jpg",
+      "mtime": "1665938561",
+      "size": "9844",
+      "md5": "3c57629617d278e21afd2b9cc8d736b1",
+      "crc32": "665c9e9e",
+      "sha1": "9a1e6163941858c1013200b7c90057d371f98011"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T01:26:33.332467-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665984400",
+      "size": "39538",
+      "md5": "788c43f57bb3ed2084ec7d2f1991040b",
+      "crc32": "5f8fd15b",
+      "sha1": "16d0b33d2797a4c7a4296f31d8251ddfdc4d39d1",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T01:26:33.332467-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665984401",
+      "size": "31617",
+      "md5": "983980d0310bd2358c350d2e888bdcd2",
+      "crc32": "ea09f8c3",
+      "sha1": "abbdd24952dcc58434baad814189f8fa6c0e1cf3",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T01:26:33.332467-04:00.jpg",
+      "source": "original",
+      "mtime": "1665984398",
+      "size": "223305",
+      "md5": "e7f5a558df8290f6be9500c007331ccf",
+      "crc32": "e733b5b6",
+      "sha1": "309c9c3b7492e201009b90563dec8735e532daca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T01:26:33.332467-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665984403",
+      "size": "1458",
+      "md5": "2d149a4d9e0ebb6867a8e7f3c3858cac",
+      "crc32": "a78b81a8",
+      "sha1": "c65368e9a1ef260e2a2f6090048662137279379f",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T01:26:33.332467-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665984404",
+      "size": "25888",
+      "md5": "261392cc90a8ca87ee5983e6da4615d0",
+      "crc32": "709e8e0d",
+      "sha1": "ab5a7d89a72e503cb28d0962416b0d9b094d0828",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T01:26:33.332467-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-17T01:26:33.332467-04:00.jpg",
+      "mtime": "1665984471",
+      "size": "9987",
+      "md5": "286a1a62d81b0a0ffd545d9d1231e2d2",
+      "crc32": "69cf16ef",
+      "sha1": "2feb71cff21c41ddd7ead631836a78f07c5cebcd"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T12:18:38.036461-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666023523",
+      "size": "39256",
+      "md5": "d92f97985f1de62f366c3d56bfe6e28f",
+      "crc32": "22d1e7b5",
+      "sha1": "124df566fb61e2f6d86b4d5a73ff8b00767f88ea",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T12:18:38.036461-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666023525",
+      "size": "31315",
+      "md5": "a46fe357e1a3115f658b6fb3cf873a1d",
+      "crc32": "882a42d4",
+      "sha1": "06833f521c23ca42c7fec4e6295f4e09f54181c5",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T12:18:38.036461-04:00.jpg",
+      "source": "original",
+      "mtime": "1666023521",
+      "size": "207133",
+      "md5": "3821c12c0dfda72b6af2d7602ee5842c",
+      "crc32": "10aeac42",
+      "sha1": "f16e6f45bdaf4138daf02482615b9141efe125c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T12:18:38.036461-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666023531",
+      "size": "1459",
+      "md5": "6334416fc471910dabcfee29a7b125f1",
+      "crc32": "f1cc1df1",
+      "sha1": "26773aceea1d973b150d013726a2b2950520e0d7",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T12:18:38.036461-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666023533",
+      "size": "25861",
+      "md5": "be7251bd02dcecbc9f53ed7f20e97c9a",
+      "crc32": "d93e1488",
+      "sha1": "1d0b5a3134e130a9d069175d8e8d8e7b9162755c",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-17T12:18:38.036461-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-17T12:18:38.036461-04:00.jpg",
+      "mtime": "1666023618",
+      "size": "9651",
+      "md5": "5a61160093b0e202c14228c16e53d6c6",
+      "crc32": "bec9cf2e",
+      "sha1": "ff9651ae7a0d1dffc30ed126faa326dc72557e72"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T00:37:10.998289-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666067839",
+      "size": "39625",
+      "md5": "988d6d88b90292db891b689ad05bcab1",
+      "crc32": "033d1ea9",
+      "sha1": "552a80a270ddaacd861c9164c7ffc0f57a4e960e",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T00:37:10.998289-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666067841",
+      "size": "31678",
+      "md5": "517e49980c1fe8225b244ca863817325",
+      "crc32": "5c02ef8c",
+      "sha1": "1c5ef469f1d17510f07ac48b7f000149e2a2cb05",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T00:37:10.998289-04:00.jpg",
+      "source": "original",
+      "mtime": "1666067838",
+      "size": "240297",
+      "md5": "b08cb5ea4f9dcc4274dd9f6495542b73",
+      "crc32": "8de3f5de",
+      "sha1": "cac957f68763ffa6c6139e306e23a6236d00770e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T00:37:10.998289-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666067843",
+      "size": "1459",
+      "md5": "bd525d68f1ba1faf8d9313b69f36017c",
+      "crc32": "85249531",
+      "sha1": "b525a2034f8c0c6e79c5ab185b0afeecd2301978",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T00:37:10.998289-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666067845",
+      "size": "25619",
+      "md5": "ff1bb92a746fa31c0da6a8e2b0b0d36a",
+      "crc32": "f9470253",
+      "sha1": "7e81408e5a8792c0565b4ac6a4fb7795b6d980fb",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T00:37:10.998289-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-18T00:37:10.998289-04:00.jpg",
+      "mtime": "1666067916",
+      "size": "10048",
+      "md5": "948f1e898bf9a26290aa2dfb58937fcb",
+      "crc32": "80fcd69a",
+      "sha1": "e48ece06719ac2921a5722b7f56e32c2347e717a"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T12:15:52.816842-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666109760",
+      "size": "38952",
+      "md5": "214068e92211da51bdef46b7c20c70fa",
+      "crc32": "0d373622",
+      "sha1": "7832be757fd99966308d3334aab6023391282eb3",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T12:15:52.816842-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666109761",
+      "size": "31056",
+      "md5": "4eeb3edb8281647b9baf17a546324eff",
+      "crc32": "88184287",
+      "sha1": "579e70b7967047f92f527c10e2be9fa238764406",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T12:15:52.816842-04:00.jpg",
+      "source": "original",
+      "mtime": "1666109757",
+      "size": "210753",
+      "md5": "2f4b3386157188e5454b38937df528b5",
+      "crc32": "81375a7b",
+      "sha1": "08f0c121d22270f375147d0f0d0ef5a87117a571",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T12:15:52.816842-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666109763",
+      "size": "1458",
+      "md5": "489632246277a62995eb90a363af1e1a",
+      "crc32": "4808e482",
+      "sha1": "f96853455ce36fb415afd5f2a10a4d5cf11f931b",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T12:15:52.816842-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666109765",
+      "size": "25835",
+      "md5": "e23df508ccacdcc5f010595b54b034c7",
+      "crc32": "75274377",
+      "sha1": "bb45acda6ea07cedcfe9fb86e7ca01f3ba18a648",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-18T12:15:52.816842-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-18T12:15:52.816842-04:00.jpg",
+      "mtime": "1666109839",
+      "size": "9739",
+      "md5": "ce6b242021e3c1be9146e03b08c21c7e",
+      "crc32": "8cf68bfd",
+      "sha1": "4aa1582d17ae882421bcbec48a03b1f9bc1e0f71"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T00:35:06.337833-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666154112",
+      "size": "39718",
+      "md5": "7cb6becea963f7014ff954bc3c0f901a",
+      "crc32": "3d9e03ba",
+      "sha1": "d9bfc0cbad0b17ee71bdf5094c8bbcffe5fdd773",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T00:35:06.337833-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666154114",
+      "size": "31084",
+      "md5": "30ac75376f98c5bbf0f62f271ee79788",
+      "crc32": "13b44dc0",
+      "sha1": "8a2ae954d516f0dec8be24f1d1a84abe84bea032",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T00:35:06.337833-04:00.jpg",
+      "source": "original",
+      "mtime": "1666154111",
+      "size": "258796",
+      "md5": "0c90b351475e8123f615857d3228e28d",
+      "crc32": "b7460def",
+      "sha1": "648cf2d5da0614216e5d07edba31da387e086295",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T00:35:06.337833-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666154115",
+      "size": "1458",
+      "md5": "92c45ee4d58b975d32b4faeb1039a555",
+      "crc32": "53e10583",
+      "sha1": "c287e033fd2d44766edd24cd38a364fb8c059448",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T00:35:06.337833-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666154117",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T00:35:06.337833-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-19T00:35:06.337833-04:00.jpg",
+      "mtime": "1666174052",
+      "size": "10291",
+      "md5": "3660d29484802213d1cb24cf39655ea3",
+      "crc32": "78d9bf8a",
+      "sha1": "cb702823eb0437f43876966c9846961a8ab39e6b"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T12:21:16.918537-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196486",
+      "size": "39115",
+      "md5": "898dde577b56d20e7b397b5b035117e8",
+      "crc32": "ddba2b19",
+      "sha1": "985e70f76a8d4e23cfc6e9f364918f57aaaf0988",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T12:21:16.918537-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196487",
+      "size": "30842",
+      "md5": "7241e3e2efe37f5d2a58b7906502d42b",
+      "crc32": "8cc5b04f",
+      "sha1": "5bdbb5b18815915897c8a0e25cf58eb00d62b8d3",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T12:21:16.918537-04:00.jpg",
+      "source": "original",
+      "mtime": "1666196484",
+      "size": "205438",
+      "md5": "d1f37bd1e78bdb7dd07a3e83b30b852b",
+      "crc32": "9eefd5b0",
+      "sha1": "b9860562eaef5a0586982403a226702d574613d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T12:21:16.918537-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196489",
+      "size": "1458",
+      "md5": "21afd58d911be17ad1b0d56188c6b712",
+      "crc32": "4fc414a4",
+      "sha1": "d84abdc2f68169e62dcb54866d64abee99be1ff1",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-19T12:21:16.918537-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196491",
+      "size": "25623",
+      "md5": "5d767a46838c421e05d08b8913824b24",
+      "crc32": "324f9476",
+      "sha1": "738957bc34deb03429704e8746d8c7c709eac28e",
+      "format": "JSON"
+    },
+    {
       "name": "airwaysmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e98a352dcef1ef0f6ed77adfafe035e6999848d9",
-      "mtime": "1665677415",
-      "size": "138625",
-      "md5": "480af6d6a6cf11d44aab53dd04dcd199",
-      "crc32": "0f3e7e9b",
-      "sha1": "85d840095ad7cf328eb3f1a816a367b25a23112e",
+      "btih": "c0f75ef1371dc70f66ec5623e109db5cf26c92bd",
+      "mtime": "1666196548",
+      "size": "154043",
+      "md5": "c20c5fcf0cc4d4c61af260800185dd21",
+      "crc32": "9b0f29dc",
+      "sha1": "435cb35da3219ac6bda2fa8981403f347aca6b6e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airwaysmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ebad79620376803c42b8ba63f2861278",
+      "md5": "fdb546f06568dfeea68328a5f1a21417",
       "summation": "md5"
     },
     {
       "name": "airwaysmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665677220",
-      "size": "827392",
-      "md5": "c79ef543f538f18e2648664420c8c2ce",
-      "crc32": "5ae4d6a1",
-      "sha1": "041907bdf2628b7f6d69639c1e75eeb59aa68cc3",
+      "mtime": "1666196505",
+      "size": "921600",
+      "md5": "351657b93b0f5d42d1af0f969b6c732d",
+      "crc32": "ed4eb8f8",
+      "sha1": "04786790d911e0134e64d004f36be739d50bd109",
       "format": "Metadata"
     },
     {
@@ -6606,9 +7339,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 639,
-  "item_last_updated": 1665677415,
-  "item_size": 22803677,
+  "files_count": 710,
+  "item_last_updated": 1666196548,
+  "item_size": 26921792,
   "metadata": {
     "identifier": "airwaysmagazine-2022",
     "collection": [
@@ -6625,10 +7358,21 @@
     "publicdate": "2022-08-21 01:13:36",
     "addeddate": "2022-08-21 01:13:36"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 767299888,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445766894,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1178009932,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

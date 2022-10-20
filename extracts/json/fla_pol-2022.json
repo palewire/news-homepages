@@ -1,5 +1,5 @@
 {
-  "created": 1665618927,
+  "created": 1666224728,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/fla_pol-2022",
@@ -8170,31 +8170,899 @@
       "sha1": "97e38b89fcc85fbb015113f7634a086217df5437"
     },
     {
+      "name": "fla_pol-2022-10-13T07:51:07.427039-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665661877",
+      "size": "89673",
+      "md5": "7f42ea4e2ea0d970c5a67ce0ae8c1842",
+      "crc32": "9db5c170",
+      "sha1": "6ed65c4cd409225e65a672d6a2a03fe7a2e8808c",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-13T07:51:07.427039-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665661879",
+      "size": "87182",
+      "md5": "11c815c794ac6f5e8abfaafe114d193b",
+      "crc32": "b271843d",
+      "sha1": "5d4406093d2327450019ee9f40873e3c3efb5b87",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-13T07:51:07.427039-04:00.jpg",
+      "source": "original",
+      "mtime": "1665661876",
+      "size": "246085",
+      "md5": "95c74b13bf27810fa7d677041524395a",
+      "crc32": "78940624",
+      "sha1": "6fe32b371cc17c64f7669294d9bd328ec7cca60c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-13T07:51:07.427039-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665661881",
+      "size": "1504",
+      "md5": "f14fef9e7f023db1db21a038a265e329",
+      "crc32": "a40a6471",
+      "sha1": "d5030957311a3ffba5b50dec8ffc04d0e24fbd93",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-13T07:51:07.427039-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665661883",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-13T07:51:07.427039-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-13T07:51:07.427039-04:00.jpg",
+      "mtime": "1665661975",
+      "size": "10613",
+      "md5": "d8c84360ddf4221f83444a804c7e4549",
+      "crc32": "3258b5a5",
+      "sha1": "31176ab1cfe534d5c906698b36aee7ab9e612ffc"
+    },
+    {
+      "name": "fla_pol-2022-10-13T19:59:23.127994-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665705571",
+      "size": "89748",
+      "md5": "6911a3e12f9be10e8ac4398906432bbd",
+      "crc32": "b1b2b7e2",
+      "sha1": "cda42f5069cc1adcc005dd3726c7c32f9546178a",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-13T19:59:23.127994-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665705572",
+      "size": "90355",
+      "md5": "b5e918093be921fa2deade6a551917ff",
+      "crc32": "00d47aca",
+      "sha1": "8334ea1a108159ebcba08fd2a0f2ed97de38a843",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-13T19:59:23.127994-04:00.jpg",
+      "source": "original",
+      "mtime": "1665705569",
+      "size": "275702",
+      "md5": "b946218b677ad0e79c38361f907e54b1",
+      "crc32": "4858f843",
+      "sha1": "1ff7c9d633ebd8ff06453bc2922ddbc022fa2102",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-13T19:59:23.127994-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665705575",
+      "size": "1503",
+      "md5": "96ca0291fe0444e9a2d5ec6764c2a44e",
+      "crc32": "b88cad3a",
+      "sha1": "a160ee55a33c36b90972523e99e7a1fa93518962",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-13T19:59:23.127994-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665705577",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-13T19:59:23.127994-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-13T19:59:23.127994-04:00.jpg",
+      "mtime": "1665705650",
+      "size": "10050",
+      "md5": "299a4123d14010bff30be7c890adf08b",
+      "crc32": "ef70ccaf",
+      "sha1": "56ef4f8f4f8911be1778272fb229f7ac20c228b9"
+    },
+    {
+      "name": "fla_pol-2022-10-14T08:03:03.387282-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665748995",
+      "size": "89882",
+      "md5": "59d8d1d072a6170ad248166ff90ea252",
+      "crc32": "4b3044ea",
+      "sha1": "1702843c1aac021dd96cf32b5e8ae7ebb58b3dce",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-14T08:03:03.387282-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665748997",
+      "size": "88714",
+      "md5": "fd0d33605959428da160f6d583797eff",
+      "crc32": "8a0bb256",
+      "sha1": "142cefb136ce486fa64b68630bffaa5c31036396",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-14T08:03:03.387282-04:00.jpg",
+      "source": "original",
+      "mtime": "1665748992",
+      "size": "277002",
+      "md5": "d307a5f599f46faafc89c69e69cf642d",
+      "crc32": "abf6b3ad",
+      "sha1": "ff2a2c479ddbfa97dd242fb6c8a50d0d8b6011c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-14T08:03:03.387282-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665748999",
+      "size": "1503",
+      "md5": "cbdfb7f4b107b10df6e3a3d5c9cedb2a",
+      "crc32": "45ab98d7",
+      "sha1": "49e47c73a422d356d7854a371f98ea82338038d7",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-14T08:03:03.387282-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665749001",
+      "size": "24394",
+      "md5": "7e1934d308be2425c42c2ea06eb4181d",
+      "crc32": "9ecd8c20",
+      "sha1": "814f8b8c7e9f8e6fe1b930730d5c2f47ab41bcb5",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-14T08:03:03.387282-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-14T08:03:03.387282-04:00.jpg",
+      "mtime": "1665749073",
+      "size": "10786",
+      "md5": "18437bc822aa57bfae815d85bb7a4c22",
+      "crc32": "2edcfa59",
+      "sha1": "60ce4b9fefeb2a97d94aee51c80e73fa8d3d1a7f"
+    },
+    {
+      "name": "fla_pol-2022-10-14T20:09:21.711136-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665792565",
+      "size": "90056",
+      "md5": "8a68363c46f6e32c669b00a43abaea0e",
+      "crc32": "2f28a1af",
+      "sha1": "d5c311a620fa984dcbf2cd28a92e5070858245cd",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-14T20:09:21.711136-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665792567",
+      "size": "88762",
+      "md5": "bf780b5b00b70a2c17a3cc373e4ed1ff",
+      "crc32": "0d4f0faf",
+      "sha1": "bc58b1420dc003f2fe2ce2c5f87ce12dd0724eb7",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-14T20:09:21.711136-04:00.jpg",
+      "source": "original",
+      "mtime": "1665792563",
+      "size": "318629",
+      "md5": "b02bbdc0d137073c880e76d2498e6f85",
+      "crc32": "3b2393f1",
+      "sha1": "f8917d9329eea7a34ea1ca3f4622ef97c1dfdd22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-14T20:09:21.711136-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665792569",
+      "size": "1504",
+      "md5": "0707b082961b524c1d7890ece8b4fdd1",
+      "crc32": "afda4ec4",
+      "sha1": "73b90e864baffb0b9ece7387ca79227d6f315af4",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-14T20:09:21.711136-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665792571",
+      "size": "23821",
+      "md5": "0c024ea501ce12d9662a18af7b8eaf0e",
+      "crc32": "ad670f58",
+      "sha1": "aa627975d0ba92eee2e2483fb2ea7d57d39319af",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-14T20:09:21.711136-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-14T20:09:21.711136-04:00.jpg",
+      "mtime": "1665792630",
+      "size": "11015",
+      "md5": "8d53134bbea9f1ca88367d3728c9d584",
+      "crc32": "225071bc",
+      "sha1": "ec4e4e5719fcf03c959756aaf20e18a17e762c6c"
+    },
+    {
+      "name": "fla_pol-2022-10-15T08:02:00.421244-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665835330",
+      "size": "89729",
+      "md5": "6bb5da7b7714b88d8edc63150ff1b60a",
+      "crc32": "cd19dfae",
+      "sha1": "34aaf317966c0f68f71b930bf750386d28a009cd",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-15T08:02:00.421244-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665835331",
+      "size": "89407",
+      "md5": "936f2d072ba5e8eb5316a75f7a233440",
+      "crc32": "d7df75ba",
+      "sha1": "b04c9b0aa856425ad71f34b75ec1feedccaaf345",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-15T08:02:00.421244-04:00.jpg",
+      "source": "original",
+      "mtime": "1665835328",
+      "size": "405802",
+      "md5": "d0f735a14df60f38eb9477f956f00ca5",
+      "crc32": "bd9a6ef5",
+      "sha1": "8392d3c3a105a75eba1379b940291852eb0a2e48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-15T08:02:00.421244-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665835333",
+      "size": "1503",
+      "md5": "f968ca4b1aeea576c4458417fd84d8af",
+      "crc32": "5a31066f",
+      "sha1": "373180f8099f5d6c9d88036d7786b721ae74cecc",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-15T08:02:00.421244-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665835335",
+      "size": "208",
+      "md5": "5bd5b6adbe05f18c642e24c6b3dafe2b",
+      "crc32": "ab422b19",
+      "sha1": "c8e57af9c1eadf2ee24c6c5caa5811a2bb70f205",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-15T08:02:00.421244-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-15T08:02:00.421244-04:00.jpg",
+      "mtime": "1665835420",
+      "size": "10172",
+      "md5": "68e74b5add0e1877ffa14651363d038b",
+      "crc32": "99018262",
+      "sha1": "f5875dd89bc911a7a5c4233248ab85b94fea07bc"
+    },
+    {
+      "name": "fla_pol-2022-10-15T20:07:15.788694-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665878838",
+      "size": "89301",
+      "md5": "3e661ba127a460a706503376079c7e91",
+      "crc32": "0950d2c8",
+      "sha1": "1bce505e2ec76f6a27f74f8cc0ed203a318b6325",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-15T20:07:15.788694-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665878840",
+      "size": "88965",
+      "md5": "b9fb3e7779e5b4229bd03de62d1c5b09",
+      "crc32": "29f48b62",
+      "sha1": "e6f69d97475ff6df2f8170c2690475ab41e8c73a",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-15T20:07:15.788694-04:00.jpg",
+      "source": "original",
+      "mtime": "1665878837",
+      "size": "269416",
+      "md5": "433378074039ac778cb89c419d77f697",
+      "crc32": "4042f613",
+      "sha1": "bacc9d2c54352970967932b32512be340f662e34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-15T20:07:15.788694-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665878841",
+      "size": "1503",
+      "md5": "3272c616cd5113b2a36c384301339281",
+      "crc32": "150e62d3",
+      "sha1": "903f46c70f9284d3af7333821549255a78423dc4",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-15T20:07:15.788694-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665878843",
+      "size": "23465",
+      "md5": "93151949c4cc177956ccce011e93b3ad",
+      "crc32": "e7b5c877",
+      "sha1": "3bcc044ce5c30331b57ea36d48b90a210bacb113",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-15T20:07:15.788694-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-15T20:07:15.788694-04:00.jpg",
+      "mtime": "1665878958",
+      "size": "10598",
+      "md5": "4cb97d8cec5cb1b1dd5af74a5baba9f9",
+      "crc32": "5eae03b6",
+      "sha1": "63f8f3020362c18995831cb2bcc2358b1d8437f5"
+    },
+    {
+      "name": "fla_pol-2022-10-16T07:56:30.889894-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665921394",
+      "size": "89386",
+      "md5": "d4c3732e21db62efb9ec3b0ad15140f1",
+      "crc32": "c4409fb7",
+      "sha1": "82574af69a4e63bbed8b3283e192b9400e0b4c1d",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-16T07:56:30.889894-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665921395",
+      "size": "88562",
+      "md5": "fe817299e082d53eef9b59f5c8ed29f5",
+      "crc32": "11562379",
+      "sha1": "0006208927a5eb30b7a38d10c95325a4d42a7e94",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-16T07:56:30.889894-04:00.jpg",
+      "source": "original",
+      "mtime": "1665921392",
+      "size": "262607",
+      "md5": "c402890d268b512daf73701e55b6dfc7",
+      "crc32": "945559f0",
+      "sha1": "809c3b95ad5a08a55692cfa283a306c86bf1dd24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-16T07:56:30.889894-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665921397",
+      "size": "1504",
+      "md5": "654115ebadde6f36e43710bc07584762",
+      "crc32": "4ff331f0",
+      "sha1": "97ef593ade6f80d785912c56642f34f36232a428",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-16T07:56:30.889894-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665921398",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-16T07:56:30.889894-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-16T07:56:30.889894-04:00.jpg",
+      "mtime": "1665921471",
+      "size": "10020",
+      "md5": "5764e7f3c3e3d0190f1870df7b66b761",
+      "crc32": "97a184f5",
+      "sha1": "f728677a937f5c175cebd0609c97298720247565"
+    },
+    {
+      "name": "fla_pol-2022-10-16T19:58:26.885375-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665964714",
+      "size": "89290",
+      "md5": "8110c1018fcd19b7e4d9493bbddf251f",
+      "crc32": "d0e0df2b",
+      "sha1": "ddfa185b8e8ffb8e7d6918fcb8d382d0b9b74eb6",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-16T19:58:26.885375-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665964715",
+      "size": "88362",
+      "md5": "4e677abef67a7a03940cfd653d07a2c5",
+      "crc32": "61d2c377",
+      "sha1": "71008809c5c03b55b7d5529a31be51bac8b6edc6",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-16T19:58:26.885375-04:00.jpg",
+      "source": "original",
+      "mtime": "1665964711",
+      "size": "330082",
+      "md5": "8c2cff86d105257a0e50f0ddb57a93bc",
+      "crc32": "b58cbb74",
+      "sha1": "64a40de0e3287e0d14045c016210fea693709b94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-16T19:58:26.885375-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665964717",
+      "size": "1504",
+      "md5": "e5eb7f1f3c7389f46272cea32927aca7",
+      "crc32": "0185ac1e",
+      "sha1": "abc5bd9040bfbf35e160ec06f046082e4cc1c549",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-16T19:58:26.885375-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665964718",
+      "size": "250",
+      "md5": "a916010620aeaf75b546ecf247810cd2",
+      "crc32": "caea0994",
+      "sha1": "eb7cefb4d9b62f4649d3a7fbe44a601481d233cc",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-16T19:58:26.885375-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-16T19:58:26.885375-04:00.jpg",
+      "mtime": "1665964828",
+      "size": "11210",
+      "md5": "02ebf32c96a37b9230c5f57a03f40da3",
+      "crc32": "9cf26f3f",
+      "sha1": "0169d44128a211a0065bcb8877c3f78ed3f70096"
+    },
+    {
+      "name": "fla_pol-2022-10-17T07:54:52.926431-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666007706",
+      "size": "89144",
+      "md5": "491531315ea164a1891fa7dc3cfbf724",
+      "crc32": "8698f1b9",
+      "sha1": "82a35f3a57b3853a0d837bbd52c52b0844fc8dae",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-17T07:54:52.926431-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666007707",
+      "size": "86722",
+      "md5": "3bdde006b1305d5aaf5d0c69d23d3943",
+      "crc32": "b4701d7b",
+      "sha1": "7b1ed7a5fbfc69316b5e770f63f0f604c38855b2",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-17T07:54:52.926431-04:00.jpg",
+      "source": "original",
+      "mtime": "1666007704",
+      "size": "266506",
+      "md5": "14a679b258aa8060cb877da093c72fc2",
+      "crc32": "162fe240",
+      "sha1": "4164f96451dcfe5da75518515c63e0eefa6e9e6d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-17T07:54:52.926431-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666007709",
+      "size": "1504",
+      "md5": "c576a1c9843524f442f58d4d646add35",
+      "crc32": "c351c0a1",
+      "sha1": "5b825685cc0834bbe9a7fed1c56fb031c49d8365",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-17T07:54:52.926431-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666007711",
+      "size": "24700",
+      "md5": "b3692929aa02fed662bcb4f828efc57e",
+      "crc32": "931b5a71",
+      "sha1": "8b8bd3b30ba45da240f57ca21492438a820015bd",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-17T07:54:52.926431-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-17T07:54:52.926431-04:00.jpg",
+      "mtime": "1666007818",
+      "size": "10772",
+      "md5": "a9026bf4681aa493e2029b99aaf03f22",
+      "crc32": "142106db",
+      "sha1": "330a0deb305717fe114375199db3d7267884e357"
+    },
+    {
+      "name": "fla_pol-2022-10-17T19:52:12.755195-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666050741",
+      "size": "89492",
+      "md5": "3b4184b17e1a96ac6821314ecbda44d7",
+      "crc32": "eb3acd44",
+      "sha1": "1df44d0ab1ef104f2a464835843184441e7a9456",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-17T19:52:12.755195-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666050742",
+      "size": "88725",
+      "md5": "e0b553ca37a5516e6d08e92d2b59729d",
+      "crc32": "2d33be36",
+      "sha1": "36f3c567d0f21180d5c722a768076087d46d90ae",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-17T19:52:12.755195-04:00.jpg",
+      "source": "original",
+      "mtime": "1666050740",
+      "size": "251254",
+      "md5": "f6ed9e0f6a0d2b7ae1cd6b97a1e7be67",
+      "crc32": "a8642701",
+      "sha1": "154290fa12819f163267a3eed1d777a24c7c3f07",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-17T19:52:12.755195-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666050744",
+      "size": "1504",
+      "md5": "cae0b385f10e1164939eaf3123e49f84",
+      "crc32": "f5c4f08a",
+      "sha1": "c4a458c99cc675d2953ad2d70af55f04a6b26532",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-17T19:52:12.755195-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666050750",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-17T19:52:12.755195-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-17T19:52:12.755195-04:00.jpg",
+      "mtime": "1666050824",
+      "size": "10468",
+      "md5": "23fb2740a66cb1d6cbfa312f2b8bb973",
+      "crc32": "e48f1a04",
+      "sha1": "10fc9a93e8eaf0b40c526d31cf50cec23f22f913"
+    },
+    {
+      "name": "fla_pol-2022-10-18T08:01:32.440764-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666094502",
+      "size": "89291",
+      "md5": "1cc85bb22586da4c71700ecf6a98085a",
+      "crc32": "a85274fd",
+      "sha1": "816cd33f391dbadf5e0cd5c1a8df3bdeeead80f3",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T08:01:32.440764-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666094504",
+      "size": "87348",
+      "md5": "d601f0626ed0c77b6dd02144242fb58c",
+      "crc32": "60e15e4b",
+      "sha1": "3273cc40700077aaa8df2b41dff0160d9b91eed4",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T08:01:32.440764-04:00.jpg",
+      "source": "original",
+      "mtime": "1666094500",
+      "size": "305232",
+      "md5": "ee2faf013fd4b90188627329ee74b864",
+      "crc32": "b65c7476",
+      "sha1": "ae9791350a382db04a1066d479557811cda7590a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-18T08:01:32.440764-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666094506",
+      "size": "1504",
+      "md5": "00a2c78ba3b6a72d6bb22daf2f648cd0",
+      "crc32": "ebbedc78",
+      "sha1": "fa3051d7567d2467dc956608d0baf689e573e4b7",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T08:01:32.440764-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666094507",
+      "size": "23923",
+      "md5": "371fd72bc319f13405ef329724a527e3",
+      "crc32": "543ce225",
+      "sha1": "d025782b537c656ec1c58f1e8d7414d10fd91b5f",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T08:01:32.440764-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-18T08:01:32.440764-04:00.jpg",
+      "mtime": "1666094599",
+      "size": "10889",
+      "md5": "a1b0fdf98bfb736fac56f9229af324d6",
+      "crc32": "3e4a008c",
+      "sha1": "af0892f3fba74605b91b11405ec0dccca88cd7f2"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138916",
+      "size": "88864",
+      "md5": "481d6c4c5a18b1f4009f5c51e4d89307",
+      "crc32": "abe77852",
+      "sha1": "bf65e16bbf8114fad7982940d88befdd6890b4a5",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138921",
+      "size": "87811",
+      "md5": "447ff87082a89973c23b25d03dfc1ee2",
+      "crc32": "a56bb031",
+      "sha1": "475d07a894f2a3112c8def5e6318f07a9ccf3999",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.jpg",
+      "source": "original",
+      "mtime": "1666138909",
+      "size": "251525",
+      "md5": "a2f2a34c9cb7202f5a15403df7f01693",
+      "crc32": "c06f4819",
+      "sha1": "035d0fd4be5b15a053423ef0342cd760ded7b9bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138924",
+      "size": "1504",
+      "md5": "9b7f541e8c55764fd411b1da5e32d51b",
+      "crc32": "b20deca1",
+      "sha1": "95142a9d6332866867d9d19cc6e8792245c540a8",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138927",
+      "size": "24190",
+      "md5": "a992f412b82cc180f0897a668cbe0f7d",
+      "crc32": "86a9aaf3",
+      "sha1": "50c2c8f048fbc4e8c2dc31d2d6ac6a9611b025f9",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-18T20:21:36.202668-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-18T20:21:36.202668-04:00.jpg",
+      "mtime": "1666163059",
+      "size": "10069",
+      "md5": "f0eb8bbb64ebfc5f3b2b5cb42a5fdbca",
+      "crc32": "aa7e004c",
+      "sha1": "bc46c775642385da3efd81cca21fcf1040623a16"
+    },
+    {
+      "name": "fla_pol-2022-10-19T08:03:33.177509-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666181016",
+      "size": "89426",
+      "md5": "70f3094d2cb1055240d09ea3c644e7da",
+      "crc32": "937ff795",
+      "sha1": "a59ebdec97ade214f9a8ad52b12c1faf5c5dfa91",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-19T08:03:33.177509-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666181018",
+      "size": "88831",
+      "md5": "c43759817322400d8cd51d2eeffcf5c4",
+      "crc32": "581c5069",
+      "sha1": "258cf81215c94d1863b5b9e4ab8ff8c0d8dca446",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-19T08:03:33.177509-04:00.jpg",
+      "source": "original",
+      "mtime": "1666181014",
+      "size": "280685",
+      "md5": "8b346e643ce78a6c6186460edc89d1fd",
+      "crc32": "fb63146b",
+      "sha1": "4fdabd82e057ba21f3e460fdcf75aab6281e0afa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-19T08:03:33.177509-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666181020",
+      "size": "1504",
+      "md5": "b0d86b12593677134abcb9fa20e9fdcb",
+      "crc32": "123cb4a0",
+      "sha1": "4e4301ada7b4030cdb721d4f3a0c5a3b6c74d3e9",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-19T08:03:33.177509-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666181022",
+      "size": "104",
+      "md5": "9d92d9d1626757f396f7ebcc66139d9a",
+      "crc32": "c04ece38",
+      "sha1": "6ff855f5168df4587b56d366f364bb97edb249bc",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-19T08:03:33.177509-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-19T08:03:33.177509-04:00.jpg",
+      "mtime": "1666199170",
+      "size": "10698",
+      "md5": "6e8d92082f1e3d851e41486f1970d4ec",
+      "crc32": "cf6cf40b",
+      "sha1": "14e4edd44afcfbc2fc761449624f4d08ff75d111"
+    },
+    {
+      "name": "fla_pol-2022-10-19T20:10:09.935686-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224616",
+      "size": "89265",
+      "md5": "8049b95cf4fb7068a2fe8740fe972e29",
+      "crc32": "80eee206",
+      "sha1": "d129c509021c62500e7bb26fd2bb75f0eeb7e243",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-19T20:10:09.935686-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224617",
+      "size": "87395",
+      "md5": "fb687c55d9ff44af33449cd93e1eae7f",
+      "crc32": "31df509b",
+      "sha1": "1e45be601866dc708028728f169f779065504dad",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-19T20:10:09.935686-04:00.jpg",
+      "source": "original",
+      "mtime": "1666224614",
+      "size": "250584",
+      "md5": "0dc99ceb9e7770d452d7aafbb2fa0c76",
+      "crc32": "7c88cb2c",
+      "sha1": "2086202b91fbee4202991b7a01d0cde4291456cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-19T20:10:09.935686-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224619",
+      "size": "1504",
+      "md5": "52d399a2b7a51000a182ed4e1f0a73cb",
+      "crc32": "f76f1b0a",
+      "sha1": "267c3e669d376c6f03a2d6ec520262ce243450df",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-19T20:10:09.935686-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224620",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-19T20:10:09.935686-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-19T20:10:09.935686-04:00.jpg",
+      "mtime": "1666224704",
+      "size": "10155",
+      "md5": "5db51d92e3fcfdc2fa19179c7d738692",
+      "crc32": "344f0ad7",
+      "sha1": "859decb6a66e5200eecefefc2695067b87769fc6"
+    },
+    {
       "name": "fla_pol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84673f230f9aea72dd83ac7b60d54d669b1d1529",
-      "mtime": "1665618917",
-      "size": "167145",
-      "md5": "e4f3616ad76ffaba0dbc4096cd75f1dd",
-      "crc32": "be45148f",
-      "sha1": "917424aa33727e4cf86d01bdbbae104880988f8a",
+      "btih": "506b55592fd70eb06cb903814e7a3cd7fb45180e",
+      "mtime": "1666224713",
+      "size": "184777",
+      "md5": "0c71b5c98d8448104f0678a987198241",
+      "crc32": "70cb2ca1",
+      "sha1": "9f8a06bdd58e0ece207a885b350e6aebabfd67c1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fla_pol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d3a800d2d49347c118d8cb4a4bc2fb1",
+      "md5": "52411eb95db33f3e7753b2d79064ea6f",
       "summation": "md5"
     },
     {
       "name": "fla_pol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665618852",
-      "size": "1015808",
-      "md5": "9db2fd034aab7384f39afe9491d5cf06",
-      "crc32": "8be73194",
-      "sha1": "538c25db909251a0bca395b2da90e100f9dd8dca",
+      "mtime": "1666224629",
+      "size": "1122304",
+      "md5": "332e8620837ebf9bc738447bee900b0b",
+      "crc32": "54c52a42",
+      "sha1": "20be6570547cd241a607bdfe817f54e25638dbbd",
       "format": "Metadata"
     },
     {
@@ -8208,9 +9076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 794,
-  "item_last_updated": 1665618917,
-  "item_size": 61316656,
+  "files_count": 878,
+  "item_last_updated": 1666224713,
+  "item_size": 68236215,
   "metadata": {
     "identifier": "fla_pol-2022",
     "collection": [
@@ -8228,7 +9096,7 @@
     "addeddate": "2022-08-09 03:37:17"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 956400753,
+  "uniq": 503294907,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

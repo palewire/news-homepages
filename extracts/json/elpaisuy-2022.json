@@ -1,8 +1,31 @@
 {
-  "created": 1665687292,
+  "created": 1666209654,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/elpaisuy-2022",
+  "elpaisuy-2022": {
+    "url": "https://www.elpais.com.uy/",
+    "job_id": "spn2-d01f5fbeb4eff8d8f5f908ba917d82ebc05b9cca",
+    "resources": [
+      "https://www.elpais.com.uy/",
+      "https://www.elpais.com.uy/cdn-cgi/styles/challenges.css",
+      "https://www.elpais.com.uy/favicon.ico",
+      "https://www.elpais.com.uy/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=75cb630d0d6b9446",
+      "https://www.elpais.com.uy/cdn-cgi/images/trace/captcha/js/transparent.gif?ray=75cb630d0d6b9446",
+      "https://cloudflare.hcaptcha.com/1/api.js?endpoint=https://cloudflare.hcaptcha.com&assethost=https://cf-assets.hcaptcha.com&imghost=https://cf-imgs.hcaptcha.com&render=explicit&recaptchacompat=off&onload=_cf_chl_hload",
+      "https://www.elpais.com.uy/favicon.ico"
+    ],
+    "timestamp": "20221019175549",
+    "http_status": 403,
+    "status": "success",
+    "counters": {
+      "outlinks": 0,
+      "embeds": 7
+    },
+    "original_url": "https://www.elpais.com.uy/",
+    "duration_sec": 12.209,
+    "screenshot": "http://web.archive.org/screenshot/https://www.elpais.com.uy/"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -11092,31 +11115,754 @@
       "sha1": "cdd96f672282dafb75ef5769343ce31d479058e6"
     },
     {
+      "name": "elpaisuy-2022-10-14T03:38:01.737406-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665729493",
+      "size": "50951",
+      "md5": "14844395fb9913e6d81b1a4f793dcc3e",
+      "crc32": "d6f0c293",
+      "sha1": "be0c76b6ab2f59d9daba9e817f3cc40a91c4bcfb",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T03:38:01.737406-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665729494",
+      "size": "95054",
+      "md5": "1a2b42137be026385a2000a339d91363",
+      "crc32": "addf3bc8",
+      "sha1": "1ef13dee54ee689ec0234115b18ee4eab19a275d",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T03:38:01.737406-03:00.jpg",
+      "source": "original",
+      "mtime": "1665729491",
+      "size": "300121",
+      "md5": "dc0bb7999d24bf4309fd06a0ca3614a9",
+      "crc32": "1971aed8",
+      "sha1": "f64650abed4538b89e7c4b0fbaf80b1846c96c26",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T03:38:01.737406-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665729496",
+      "size": "1483",
+      "md5": "5f5586d214650c53b5516309c4434009",
+      "crc32": "472a8aaf",
+      "sha1": "1a364a05de5b173a954f81b958d421c30843774c",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T03:38:01.737406-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665729498",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T03:38:01.737406-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-14T03:38:01.737406-03:00.jpg",
+      "mtime": "1665729578",
+      "size": "10906",
+      "md5": "a1026815f0ac5d153a4986507465bdbb",
+      "crc32": "f51bf6e2",
+      "sha1": "bfca9be6501fb0dd267285ddad908db1b7abe8f2"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T16:48:08.042305-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665776901",
+      "size": "54993",
+      "md5": "31326c5872df1108a420b07f495e698f",
+      "crc32": "9caac8a2",
+      "sha1": "a53342599c27b182263a5df808b06d22a236735e",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T16:48:08.042305-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665776903",
+      "size": "105319",
+      "md5": "acd81bec305aa8dcb9bdf8809b4097b2",
+      "crc32": "d8ff3ca4",
+      "sha1": "e5ac2ed8e5b4242d343cb57f2a8fe5b74154910b",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T16:48:08.042305-03:00.jpg",
+      "source": "original",
+      "mtime": "1665776899",
+      "size": "313102",
+      "md5": "73610d7e8c510ea5c29ce46351d150e9",
+      "crc32": "798ed63c",
+      "sha1": "277e69677d2690bb761493171e05d6d0f6181e34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T16:48:08.042305-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665776905",
+      "size": "1508",
+      "md5": "86458b985688d98d71caeb12595139af",
+      "crc32": "dbbcb82e",
+      "sha1": "2a6cb271d8396a7397e3d776cb63b9c2ab8e79a0",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-14T16:48:08.042305-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-14T16:48:08.042305-03:00.jpg",
+      "mtime": "1665777013",
+      "size": "10984",
+      "md5": "97fb2fb6b26350ca300433450e3b4a1e",
+      "crc32": "b29a86bf",
+      "sha1": "e3d38220e4dc09ab6bd5ff72e20d08f4be7f867c"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T03:35:01.108953-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815720",
+      "size": "52478",
+      "md5": "1985265068ab9a51cf0951383efd39dd",
+      "crc32": "4ac724c3",
+      "sha1": "f91b8343d011674e5ce4657112dd6bd92fecb160",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T03:35:01.108953-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815721",
+      "size": "100330",
+      "md5": "812cf50a29880c266e5ef35a32fc72c5",
+      "crc32": "6a518bb6",
+      "sha1": "353a7ca139abdb3bfc18b30576ad7808d457e170",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T03:35:01.108953-03:00.jpg",
+      "source": "original",
+      "mtime": "1665815718",
+      "size": "296172",
+      "md5": "587c64dd4645f3b3ed4e2a504612c469",
+      "crc32": "5c04fb81",
+      "sha1": "1f7ee68d697a5229d5e7c3cb45809b0af9a70961",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T03:35:01.108953-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815723",
+      "size": "1483",
+      "md5": "4cbcd2499f6d034070f2cb1f648bf657",
+      "crc32": "018c05ae",
+      "sha1": "6e1f945f74f033ea318f6026a04646c5feeffe2c",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T03:35:01.108953-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815724",
+      "size": "1687",
+      "md5": "c85c2f358da878de2e53deb09485ac6d",
+      "crc32": "b9df921e",
+      "sha1": "c2f3ba2a9f9b137103654060a2ad85d74fb23bf7",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T03:35:01.108953-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-15T03:35:01.108953-03:00.jpg",
+      "mtime": "1665815822",
+      "size": "10866",
+      "md5": "bead384135c884f8deb4c7fcd20e67a8",
+      "crc32": "75b874a2",
+      "sha1": "453341dddb629bc8174ba7b60ca57fe4c6d4430d"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T15:06:02.838175-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665857182",
+      "size": "51020",
+      "md5": "77cdb9087d056e866f191f389d1b929e",
+      "crc32": "89ee9da1",
+      "sha1": "70ce4f2ae958b65d9b392ba5403bf1be7c608072",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T15:06:02.838175-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665857184",
+      "size": "96309",
+      "md5": "bae3c07cf5bf75b1cbf33806a96ed173",
+      "crc32": "661076cf",
+      "sha1": "863405c7b789b643f342d36d013f98bc6c3cef52",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T15:06:02.838175-03:00.jpg",
+      "source": "original",
+      "mtime": "1665857181",
+      "size": "291965",
+      "md5": "f5fb6fc389ab9539b8244750061812d1",
+      "crc32": "b1c5920f",
+      "sha1": "6a37d934af6fbeaa99026d1f3d5fed2044bdbda4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T15:06:02.838175-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665857186",
+      "size": "1486",
+      "md5": "9616f67e105c9dc624a700e3939d8254",
+      "crc32": "46349d89",
+      "sha1": "6cf137ae9da61c6f84422e4a638f20618e2afd1c",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T15:06:02.838175-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665857187",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-15T15:06:02.838175-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-15T15:06:02.838175-03:00.jpg",
+      "mtime": "1665857308",
+      "size": "10570",
+      "md5": "5efc77c6f5aef7c5603b0a6e3e261d5f",
+      "crc32": "3a73000e",
+      "sha1": "e88bb72aa26aef96056aca4b070fef879f7b708d"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T03:39:16.247599-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665902358",
+      "size": "52240",
+      "md5": "107010be09c6663be69cc09b8f574607",
+      "crc32": "badec424",
+      "sha1": "3dfee80d0ba424d5c0ac2a9c5ed0d670051a1dce",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T03:39:16.247599-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665902360",
+      "size": "97487",
+      "md5": "8fe1f2e1f5aa869440916fef9417724c",
+      "crc32": "a701102e",
+      "sha1": "4bb32b2c27e9ce8df0ebbb6cfb621aa6439492c3",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T03:39:16.247599-03:00.jpg",
+      "source": "original",
+      "mtime": "1665902357",
+      "size": "305477",
+      "md5": "a3fb5545b0c0deb10029c149d9571e00",
+      "crc32": "4e9e0ac6",
+      "sha1": "d4c50113a3dbd0b71dac6898cad936944b989dd6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T03:39:16.247599-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665902362",
+      "size": "1486",
+      "md5": "070b51c86f2feb73c7cc39bd411ad78a",
+      "crc32": "8d3a4710",
+      "sha1": "71b838ddde179de0f72b67497d435fcafa7f1f0f",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T03:39:16.247599-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665902363",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T03:39:16.247599-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-16T03:39:16.247599-03:00.jpg",
+      "mtime": "1665902446",
+      "size": "10878",
+      "md5": "e3bebcc1bddebd91af5fe65589a5ef9e",
+      "crc32": "5b2a8397",
+      "sha1": "3bf4c4229304a14dfb6f1a13f49390025fb6dcce"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T14:34:18.762718-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941669",
+      "size": "55224",
+      "md5": "b1fbb1f7157142513755b288fcf81240",
+      "crc32": "adb2c092",
+      "sha1": "52b31973fd62f8e0730845c702b7908c6a56f8fc",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T14:34:18.762718-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941671",
+      "size": "103043",
+      "md5": "afdf3407f3bc7a597d98d17cfb46141d",
+      "crc32": "7449399e",
+      "sha1": "3f85f9dc5772274f647eea804c3a4f1d7bb154c1",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T14:34:18.762718-03:00.jpg",
+      "source": "original",
+      "mtime": "1665941668",
+      "size": "286916",
+      "md5": "ad6a2dd4ff841873ab5f93bbcc4634b1",
+      "crc32": "d963ef23",
+      "sha1": "b244f3065704aa16c520deb517a3c79250d1b0e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T14:34:18.762718-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941673",
+      "size": "1484",
+      "md5": "8ec395796f022c1c1265d845576e3776",
+      "crc32": "6128b924",
+      "sha1": "c1a8d738c9749ebb9699fe95b64753baec064ec2",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T14:34:18.762718-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941674",
+      "size": "1509",
+      "md5": "b516556857c1639b05485e06082372ce",
+      "crc32": "e90ddb76",
+      "sha1": "67c181bf8c3f73e3439e063c7f6ebf91c11b52e5",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-16T14:34:18.762718-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-16T14:34:18.762718-03:00.jpg",
+      "mtime": "1665941743",
+      "size": "10655",
+      "md5": "21b1c45cb9d0e148ba08e5731208b462",
+      "crc32": "38e4bb8e",
+      "sha1": "9e5d1f54dff2b4c6beb256e3a560721ec2fdf8ce"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T03:24:08.371442-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665987859",
+      "size": "54145",
+      "md5": "1a52509cb17f39377b7c46a800b7737e",
+      "crc32": "e11a4675",
+      "sha1": "16d6346ec1484461afbcbb53605252b5dbec7345",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T03:24:08.371442-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665987860",
+      "size": "100776",
+      "md5": "26a859dc05a540c40ca56aa74fa30224",
+      "crc32": "3bec40ff",
+      "sha1": "7a740a3dec4563dbb3c39c4eae91ecbdb44f4705",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T03:24:08.371442-03:00.jpg",
+      "source": "original",
+      "mtime": "1665987857",
+      "size": "304260",
+      "md5": "2e5cd9c8c14b8ba3bb9ceee4626fbca9",
+      "crc32": "6e8db92a",
+      "sha1": "375cd513953915c6a7db9a4df06d80cd287d9aad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T03:24:08.371442-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665987862",
+      "size": "1483",
+      "md5": "4c57776c54b22d576d9f9b2362fc9345",
+      "crc32": "6b21e0e6",
+      "sha1": "95ffc1a79b8a7ec4b13db7ed29f0fbd9ec7d6fcd",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T03:24:08.371442-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1665987864",
+      "size": "2048",
+      "md5": "ffdcd23485dc05de4b9e7f6b6d5c96b3",
+      "crc32": "c2b5946c",
+      "sha1": "f721dd9fde1dfb7afa5e598889eefebe03666a73",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T03:24:08.371442-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-17T03:24:08.371442-03:00.jpg",
+      "mtime": "1665987933",
+      "size": "10876",
+      "md5": "9bba099dcfbcc65797b117dd57738c0e",
+      "crc32": "0cab11d0",
+      "sha1": "ed48f9933595cac18314117c5e912687d7fbb030"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T15:10:45.080526-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666030255",
+      "size": "55946",
+      "md5": "9b2af2a4ac1ea75a895f36ef6410cdfd",
+      "crc32": "2156cdcd",
+      "sha1": "1c04455264bc7c65083a79408682b66320e39c18",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T15:10:45.080526-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666030256",
+      "size": "104645",
+      "md5": "0e8caa911ef5797a12cc55aa5b84c9d4",
+      "crc32": "ad938b9f",
+      "sha1": "b97d6780d6102078319e791aecdd9314a5180c93",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T15:10:45.080526-03:00.jpg",
+      "source": "original",
+      "mtime": "1666030254",
+      "size": "314437",
+      "md5": "6c6046bd4eb0deb9d3b4a9eec6a3c229",
+      "crc32": "caaa1ccb",
+      "sha1": "521f81286a8aff319583b69aeb910fb2dc147a21",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T15:10:45.080526-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666030258",
+      "size": "1483",
+      "md5": "acbcc766812b8a34791596dae025938f",
+      "crc32": "f8243930",
+      "sha1": "9f8a8af7f8d9000ed6ce7c160830718c48ae214a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T15:10:45.080526-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666030259",
+      "size": "1167",
+      "md5": "7eae41601dfa87c1c8af68f2b3784490",
+      "crc32": "4349fdc2",
+      "sha1": "d8be2f9aec718efbe6625376bd08b833ba159aa5",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-17T15:10:45.080526-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-17T15:10:45.080526-03:00.jpg",
+      "mtime": "1666030329",
+      "size": "11128",
+      "md5": "cbfc1bb560c1fb2a590d90cdb2ca6120",
+      "crc32": "50a8bc60",
+      "sha1": "14c940192007c122c346d9a2e4610d3789191ea8"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T02:59:22.750476-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072768",
+      "size": "51596",
+      "md5": "797e3771168f2b93620ed4cd430d2199",
+      "crc32": "00e58b44",
+      "sha1": "94c10736b52e4dd972601f5a201764561c27a41e",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T02:59:22.750476-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072769",
+      "size": "95104",
+      "md5": "71631b45adda4d8d70d38df30adef745",
+      "crc32": "cd6bad2e",
+      "sha1": "08a6cf8d2ae718f8b27b9e7321536e9b715158bb",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T02:59:22.750476-03:00.jpg",
+      "source": "original",
+      "mtime": "1666072764",
+      "size": "317618",
+      "md5": "0dc3c683d97fa885da35863cf307eaab",
+      "crc32": "cad8984b",
+      "sha1": "3fe3fbd81a47f44362f766c091675bb38ccad536",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T02:59:22.750476-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072771",
+      "size": "1483",
+      "md5": "6e1b8b8230f2bea9f90a19b3dbdff8ec",
+      "crc32": "ed2703e8",
+      "sha1": "39e15c0444ab1fb4920faf747d553697b1dda2e8",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T02:59:22.750476-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072772",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T02:59:22.750476-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-18T02:59:22.750476-03:00.jpg",
+      "mtime": "1666072839",
+      "size": "11046",
+      "md5": "173c0e099003dc840164fc818edd6132",
+      "crc32": "95c8eb9e",
+      "sha1": "605b62dea4c336680d464eaccb949cf69a7ee706"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T14:43:21.247266-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666115015",
+      "size": "50393",
+      "md5": "adc657794c64998730711131df458357",
+      "crc32": "77358eeb",
+      "sha1": "3a34939808a42cc37b8f2547611ae97b564325bb",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T14:43:21.247266-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666115017",
+      "size": "93044",
+      "md5": "c2e63a0f3cb4176a3737770005b95f1e",
+      "crc32": "03f7f138",
+      "sha1": "634ed2cb6302b03e8cdebc717e9d731f2cfbc77b",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T14:43:21.247266-03:00.jpg",
+      "source": "original",
+      "mtime": "1666115013",
+      "size": "297012",
+      "md5": "8a25c38d963f8bf14dc102a7e9128aed",
+      "crc32": "f7f42c05",
+      "sha1": "5ebf8e256bd9d946d1acb5b2d71d9a7b2a15d565",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T14:43:21.247266-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666115019",
+      "size": "1483",
+      "md5": "09895ae67c4507b299031e9347dd02f5",
+      "crc32": "3e6fa1ca",
+      "sha1": "e6519d41b16058820e9aae9651a2f8eaff20a298",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T14:43:21.247266-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666115021",
+      "size": "1326",
+      "md5": "a2a7f77c5a1e5ee454100ccd717811cf",
+      "crc32": "4d2e379b",
+      "sha1": "d46884c520699f390e4ffbc069c92e2eb49b639f",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-18T14:43:21.247266-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-18T14:43:21.247266-03:00.jpg",
+      "mtime": "1666115091",
+      "size": "10900",
+      "md5": "63689775354bc21330bf0ba6e0638b26",
+      "crc32": "63b1b455",
+      "sha1": "58e70be862b5bbb350bdf2ebc8484adc7083aea9"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T03:01:17.679488-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159290",
+      "size": "50485",
+      "md5": "cb2ab9aa161181c1dddbaa584181287d",
+      "crc32": "cf924b98",
+      "sha1": "28bc2bf69002631341c6dc734f71e873fb46fa9f",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T03:01:17.679488-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159292",
+      "size": "93690",
+      "md5": "baaa6e84e44818ee7444fa0fdf691ab7",
+      "crc32": "47e4ca41",
+      "sha1": "7f68b6491852b8a25b92c242ce7044258eaa12be",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T03:01:17.679488-03:00.jpg",
+      "source": "original",
+      "mtime": "1666159288",
+      "size": "293391",
+      "md5": "cad97ea16c609dfdad0227eb79535b79",
+      "crc32": "751879f8",
+      "sha1": "77c7a3e7bf0fc0200dfca02d1b46f8b0168ab28d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T03:01:17.679488-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159294",
+      "size": "1483",
+      "md5": "97e8b71e5192fcb9ba5a36571efa9f11",
+      "crc32": "ff218ebe",
+      "sha1": "6f8b0a97a81816ecfad7a8030a884e1f9767d207",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T03:01:17.679488-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159295",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T03:01:17.679488-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-19T03:01:17.679488-03:00.jpg",
+      "mtime": "1666180061",
+      "size": "10678",
+      "md5": "46e68e45d7fc043a169a5aeeeea4e240",
+      "crc32": "7091fbf3",
+      "sha1": "c55cb4d8904368a1f21857db95d9d0682c40e250"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T15:16:54.266321-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666203438",
+      "size": "51041",
+      "md5": "139c796f88d8f2ed107405602696c3a9",
+      "crc32": "7733e3a7",
+      "sha1": "a4c00113bcb58a1bfa9b4a68c0510065a71a6df4",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T15:16:54.266321-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666203448",
+      "size": "95428",
+      "md5": "8027206de88c9262bf1781c06f3660d5",
+      "crc32": "41137749",
+      "sha1": "b0ae809cb4bb25ce303f1d08d0eb2f89ace70050",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T15:16:54.266321-03:00.jpg",
+      "source": "original",
+      "mtime": "1666203428",
+      "size": "282073",
+      "md5": "07770ca62398adbb491f7d05a76e73e2",
+      "crc32": "118ccd29",
+      "sha1": "f37fd52c386a775125cf04fd703d92f40b115b8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T15:16:54.266321-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666203459",
+      "size": "1483",
+      "md5": "5fedc0036a59351a6cf99e16a2ec994d",
+      "crc32": "8552e136",
+      "sha1": "06d04a2467ad949db8d03c6824b04676b445db33",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-19T15:16:54.266321-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666203467",
+      "size": "1032",
+      "md5": "68d6f1236e8067185f2693f21fba7530",
+      "crc32": "df08463d",
+      "sha1": "6753f194e977d9943241d3c8c4ddfdb3e28d79ab",
+      "format": "JSON"
+    },
+    {
       "name": "elpaisuy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fda79da74673245230df439f3f707103804f0330",
-      "mtime": "1665687272",
-      "size": "227102",
-      "md5": "0fd5a08c15c1070a3dc7214eb613a996",
-      "crc32": "e31917b1",
-      "sha1": "1778f4b8e5c26cd92e35839f000d98eb8c4e1217",
+      "btih": "3bd30573798d67fe685b6ac0d217e29ad9b0c595",
+      "mtime": "1666203753",
+      "size": "241871",
+      "md5": "df361456d6a6465de031c8476a4b14b4",
+      "crc32": "4210b669",
+      "sha1": "a578cb1013f4069e052a2668e9a2a6746f4a90d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpaisuy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e12fe2db59c971e4fa0cf2e54498960a",
+      "md5": "34c43a05c66b0c331798d71e135a9bac",
       "summation": "md5"
     },
     {
       "name": "elpaisuy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665687162",
-      "size": "1347584",
-      "md5": "b1e2a8642f795a3138f53aea73100276",
-      "crc32": "46930ce5",
-      "sha1": "dbc721813974a6e58af7f16d4c3de2b341e9432d",
+      "mtime": "1666203703",
+      "size": "1437696",
+      "md5": "2287cdc57a1c28ad566e1839399c3750",
+      "crc32": "c74dde1d",
+      "sha1": "6aeb351da4d54634d87654fa36488cc349e68fdc",
       "format": "Metadata"
     },
     {
@@ -11130,9 +11876,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1074,
-  "item_last_updated": 1665687272,
-  "item_size": 88017007,
+  "files_count": 1144,
+  "item_last_updated": 1666203753,
+  "item_size": 93682267,
   "metadata": {
     "identifier": "elpaisuy-2022",
     "collection": [
@@ -11149,10 +11895,21 @@
     "publicdate": "2022-07-09 03:58:10",
     "addeddate": "2022-07-09 03:58:10"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 246448236,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445841121,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 253447964,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

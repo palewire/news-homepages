@@ -1,5 +1,5 @@
 {
-  "created": 1665658110,
+  "created": 1666221043,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/5/items/austinvida-2022",
@@ -11089,31 +11089,848 @@
       "format": "JSON"
     },
     {
+      "name": "austinvida-2022-10-13T05:46:50.649327-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-13T05:46:50.649327-05:00.jpg",
+      "mtime": "1665658446",
+      "size": "8870",
+      "md5": "5d766aa12e26fa7290ecfaced8064679",
+      "crc32": "3438ecf0",
+      "sha1": "aa7500daa33549cb6463ace50fe994d0e17cb74d"
+    },
+    {
+      "name": "austinvida-2022-10-13T18:06:34.492769-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702397",
+      "size": "19723",
+      "md5": "968c22cfd4d2b29b4dbd3189b52d6afd",
+      "crc32": "fcb2b3af",
+      "sha1": "768ea2f28906e3214c8b241820ed0229717e1683",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-13T18:06:34.492769-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702398",
+      "size": "4968",
+      "md5": "347937fc4b929e5316be379ed92d9e81",
+      "crc32": "61ac9770",
+      "sha1": "3389d84b73cda82cc59da3d995c8de299c4f0a82",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-13T18:06:34.492769-05:00.jpg",
+      "source": "original",
+      "mtime": "1665702395",
+      "size": "312988",
+      "md5": "99bc61a2b321156f3e312df408b72f2c",
+      "crc32": "f05b0192",
+      "sha1": "a4817e42f6736ca3863cf305dc1791688c35f06d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-13T18:06:34.492769-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702401",
+      "size": "1483",
+      "md5": "8b641a3eac724f7119ec15f3e1a81011",
+      "crc32": "f7cc31b4",
+      "sha1": "974ce02e860ce9a8b701f369152d4987820546bb",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-13T18:06:34.492769-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702403",
+      "size": "207",
+      "md5": "bf027dbd149384341fa256bf914e6874",
+      "crc32": "7e107000",
+      "sha1": "7dba50be39253e882b0326f1ccb7aa0be0d4b24c",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-13T18:06:34.492769-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-13T18:06:34.492769-05:00.jpg",
+      "mtime": "1665702481",
+      "size": "8870",
+      "md5": "5d766aa12e26fa7290ecfaced8064679",
+      "crc32": "3438ecf0",
+      "sha1": "aa7500daa33549cb6463ace50fe994d0e17cb74d"
+    },
+    {
+      "name": "austinvida-2022-10-14T05:57:11.546200-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665745038",
+      "size": "19723",
+      "md5": "968c22cfd4d2b29b4dbd3189b52d6afd",
+      "crc32": "fcb2b3af",
+      "sha1": "768ea2f28906e3214c8b241820ed0229717e1683",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-14T05:57:11.546200-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665745039",
+      "size": "4968",
+      "md5": "347937fc4b929e5316be379ed92d9e81",
+      "crc32": "61ac9770",
+      "sha1": "3389d84b73cda82cc59da3d995c8de299c4f0a82",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-14T05:57:11.546200-05:00.jpg",
+      "source": "original",
+      "mtime": "1665745036",
+      "size": "312988",
+      "md5": "99bc61a2b321156f3e312df408b72f2c",
+      "crc32": "f05b0192",
+      "sha1": "a4817e42f6736ca3863cf305dc1791688c35f06d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-14T05:57:11.546200-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665745041",
+      "size": "1483",
+      "md5": "275aefdb095b2ebafd6a93fe6407ed73",
+      "crc32": "0c769f69",
+      "sha1": "17d1b5801b37866546c832df18b066a187025772",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-14T05:57:11.546200-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665745042",
+      "size": "10262",
+      "md5": "e58f99d7df90fcabac9591af11aed144",
+      "crc32": "2356babd",
+      "sha1": "1d81ec5a55906dfade3def6ab0ba7b5f0da9fff2",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-14T05:57:11.546200-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-14T05:57:11.546200-05:00.jpg",
+      "mtime": "1665745112",
+      "size": "8870",
+      "md5": "5d766aa12e26fa7290ecfaced8064679",
+      "crc32": "3438ecf0",
+      "sha1": "aa7500daa33549cb6463ace50fe994d0e17cb74d"
+    },
+    {
+      "name": "austinvida-2022-10-14T18:06:48.279848-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788810",
+      "size": "19723",
+      "md5": "968c22cfd4d2b29b4dbd3189b52d6afd",
+      "crc32": "fcb2b3af",
+      "sha1": "768ea2f28906e3214c8b241820ed0229717e1683",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-14T18:06:48.279848-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788812",
+      "size": "4968",
+      "md5": "347937fc4b929e5316be379ed92d9e81",
+      "crc32": "61ac9770",
+      "sha1": "3389d84b73cda82cc59da3d995c8de299c4f0a82",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-14T18:06:48.279848-05:00.jpg",
+      "source": "original",
+      "mtime": "1665788809",
+      "size": "312988",
+      "md5": "99bc61a2b321156f3e312df408b72f2c",
+      "crc32": "f05b0192",
+      "sha1": "a4817e42f6736ca3863cf305dc1791688c35f06d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-14T18:06:48.279848-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788815",
+      "size": "1483",
+      "md5": "23637988bf88e1b75cafd29784747364",
+      "crc32": "62c4ddab",
+      "sha1": "34958394c5da3304953d2e7188933e6aaef6a3c9",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-14T18:06:48.279848-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665788817",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-14T18:06:48.279848-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-14T18:06:48.279848-05:00.jpg",
+      "mtime": "1665788901",
+      "size": "8870",
+      "md5": "5d766aa12e26fa7290ecfaced8064679",
+      "crc32": "3438ecf0",
+      "sha1": "aa7500daa33549cb6463ace50fe994d0e17cb74d"
+    },
+    {
+      "name": "austinvida-2022-10-15T05:56:46.895532-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831415",
+      "size": "19723",
+      "md5": "968c22cfd4d2b29b4dbd3189b52d6afd",
+      "crc32": "fcb2b3af",
+      "sha1": "768ea2f28906e3214c8b241820ed0229717e1683",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-15T05:56:46.895532-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831417",
+      "size": "4968",
+      "md5": "347937fc4b929e5316be379ed92d9e81",
+      "crc32": "61ac9770",
+      "sha1": "3389d84b73cda82cc59da3d995c8de299c4f0a82",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-15T05:56:46.895532-05:00.jpg",
+      "source": "original",
+      "mtime": "1665831414",
+      "size": "312988",
+      "md5": "99bc61a2b321156f3e312df408b72f2c",
+      "crc32": "f05b0192",
+      "sha1": "a4817e42f6736ca3863cf305dc1791688c35f06d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-15T05:56:46.895532-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831418",
+      "size": "1483",
+      "md5": "b8a6481aa7daf6965fdbceaefc165698",
+      "crc32": "528eb7d1",
+      "sha1": "be5adfc8a73b887b3de3fb841d890845e13d3f7b",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-15T05:56:46.895532-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831419",
+      "size": "11599",
+      "md5": "79d80bcd78bcaa28efe40884ca8914a2",
+      "crc32": "ca4e4c5d",
+      "sha1": "f81f478e6c0cb370fab4f2338e51014e9ba857fa",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-15T05:56:46.895532-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-15T05:56:46.895532-05:00.jpg",
+      "mtime": "1665831515",
+      "size": "8870",
+      "md5": "5d766aa12e26fa7290ecfaced8064679",
+      "crc32": "3438ecf0",
+      "sha1": "aa7500daa33549cb6463ace50fe994d0e17cb74d"
+    },
+    {
+      "name": "austinvida-2022-10-15T18:04:59.329423-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665875112",
+      "size": "19723",
+      "md5": "968c22cfd4d2b29b4dbd3189b52d6afd",
+      "crc32": "fcb2b3af",
+      "sha1": "768ea2f28906e3214c8b241820ed0229717e1683",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-15T18:04:59.329423-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665875114",
+      "size": "4968",
+      "md5": "347937fc4b929e5316be379ed92d9e81",
+      "crc32": "61ac9770",
+      "sha1": "3389d84b73cda82cc59da3d995c8de299c4f0a82",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-15T18:04:59.329423-05:00.jpg",
+      "source": "original",
+      "mtime": "1665875111",
+      "size": "312988",
+      "md5": "99bc61a2b321156f3e312df408b72f2c",
+      "crc32": "f05b0192",
+      "sha1": "a4817e42f6736ca3863cf305dc1791688c35f06d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-15T18:04:59.329423-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665875116",
+      "size": "1483",
+      "md5": "f5edd3dbe41314e17303a1870aa159b7",
+      "crc32": "51f0ccb1",
+      "sha1": "bd7cac9360e5c341e2c154855553e1637f752b21",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-15T18:04:59.329423-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665875118",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-15T18:04:59.329423-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-15T18:04:59.329423-05:00.jpg",
+      "mtime": "1665875220",
+      "size": "8870",
+      "md5": "5d766aa12e26fa7290ecfaced8064679",
+      "crc32": "3438ecf0",
+      "sha1": "aa7500daa33549cb6463ace50fe994d0e17cb74d"
+    },
+    {
+      "name": "austinvida-2022-10-16T05:54:11.485131-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917661",
+      "size": "19723",
+      "md5": "968c22cfd4d2b29b4dbd3189b52d6afd",
+      "crc32": "fcb2b3af",
+      "sha1": "768ea2f28906e3214c8b241820ed0229717e1683",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-16T05:54:11.485131-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917663",
+      "size": "4968",
+      "md5": "347937fc4b929e5316be379ed92d9e81",
+      "crc32": "61ac9770",
+      "sha1": "3389d84b73cda82cc59da3d995c8de299c4f0a82",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-16T05:54:11.485131-05:00.jpg",
+      "source": "original",
+      "mtime": "1665917660",
+      "size": "312988",
+      "md5": "99bc61a2b321156f3e312df408b72f2c",
+      "crc32": "f05b0192",
+      "sha1": "a4817e42f6736ca3863cf305dc1791688c35f06d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-16T05:54:11.485131-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917665",
+      "size": "1481",
+      "md5": "bcc983cdccf65b57266ac94bb0a5955f",
+      "crc32": "51b32f7a",
+      "sha1": "bcec0851a0ae09f5938387e6eb0862cf7ac78466",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-16T05:54:11.485131-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917667",
+      "size": "103",
+      "md5": "5d6592c132d473dc9f3acc0735730b75",
+      "crc32": "787127c1",
+      "sha1": "b2db9ab889a438359ab53f1d9ee5cfde62a28cc6",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-16T05:54:11.485131-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-16T05:54:11.485131-05:00.jpg",
+      "mtime": "1665917739",
+      "size": "8870",
+      "md5": "5d766aa12e26fa7290ecfaced8064679",
+      "crc32": "3438ecf0",
+      "sha1": "aa7500daa33549cb6463ace50fe994d0e17cb74d"
+    },
+    {
+      "name": "austinvida-2022-10-16T17:59:58.373102-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961205",
+      "size": "19723",
+      "md5": "968c22cfd4d2b29b4dbd3189b52d6afd",
+      "crc32": "fcb2b3af",
+      "sha1": "768ea2f28906e3214c8b241820ed0229717e1683",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-16T17:59:58.373102-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961206",
+      "size": "4968",
+      "md5": "347937fc4b929e5316be379ed92d9e81",
+      "crc32": "61ac9770",
+      "sha1": "3389d84b73cda82cc59da3d995c8de299c4f0a82",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-16T17:59:58.373102-05:00.jpg",
+      "source": "original",
+      "mtime": "1665961203",
+      "size": "312988",
+      "md5": "99bc61a2b321156f3e312df408b72f2c",
+      "crc32": "f05b0192",
+      "sha1": "a4817e42f6736ca3863cf305dc1791688c35f06d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-16T17:59:58.373102-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961208",
+      "size": "1483",
+      "md5": "91c03d8b839509ee6897d6c1a6e5197f",
+      "crc32": "e50ae36e",
+      "sha1": "b2793fde2099866859285f5b34b2aec45e208aae",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-16T17:59:58.373102-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961210",
+      "size": "11866",
+      "md5": "e67ebc063e81c6ed270dc6b71507948d",
+      "crc32": "1d0aaa56",
+      "sha1": "e6429c04c9561a03ea2c1730d0209825372804dd",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-16T17:59:58.373102-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-16T17:59:58.373102-05:00.jpg",
+      "mtime": "1665961279",
+      "size": "8870",
+      "md5": "5d766aa12e26fa7290ecfaced8064679",
+      "crc32": "3438ecf0",
+      "sha1": "aa7500daa33549cb6463ace50fe994d0e17cb74d"
+    },
+    {
+      "name": "austinvida-2022-10-17T05:50:43.942853-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003854",
+      "size": "20426",
+      "md5": "2d8d233d8d75701690bf0d27eaa7834c",
+      "crc32": "feab8b39",
+      "sha1": "21e6d6ac4ff70775cc58fdf0a7c56556e5b40097",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-17T05:50:43.942853-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003856",
+      "size": "4708",
+      "md5": "cbf8941576a477d4fde488a11f0f39b7",
+      "crc32": "ca219573",
+      "sha1": "e74aeb9a6b50a8720ac9481938b9f2a970a6ba8c",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-17T05:50:43.942853-05:00.jpg",
+      "source": "original",
+      "mtime": "1666003852",
+      "size": "253075",
+      "md5": "9f4958f1c622143aad90f15ae1c718ad",
+      "crc32": "0b67dcbc",
+      "sha1": "6484a636cd657e0d2f1d871ce62d1463e2bbea7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-17T05:50:43.942853-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003857",
+      "size": "1482",
+      "md5": "c6681e073c531b9d309bfe562d92d9e1",
+      "crc32": "11fe1d51",
+      "sha1": "b67e862100ab01fc2b909172897f516fc0c28f78",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-17T05:50:43.942853-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003858",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-17T05:50:43.942853-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-17T05:50:43.942853-05:00.jpg",
+      "mtime": "1666003933",
+      "size": "8435",
+      "md5": "889b84323e8087922f21eac2e1d1ba4a",
+      "crc32": "27157737",
+      "sha1": "014739f949b7fe496e723cb72542138114bc9ab7"
+    },
+    {
+      "name": "austinvida-2022-10-17T17:54:53.876726-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047304",
+      "size": "20426",
+      "md5": "2d8d233d8d75701690bf0d27eaa7834c",
+      "crc32": "feab8b39",
+      "sha1": "21e6d6ac4ff70775cc58fdf0a7c56556e5b40097",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-17T17:54:53.876726-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047306",
+      "size": "4708",
+      "md5": "cbf8941576a477d4fde488a11f0f39b7",
+      "crc32": "ca219573",
+      "sha1": "e74aeb9a6b50a8720ac9481938b9f2a970a6ba8c",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-17T17:54:53.876726-05:00.jpg",
+      "source": "original",
+      "mtime": "1666047303",
+      "size": "253075",
+      "md5": "9f4958f1c622143aad90f15ae1c718ad",
+      "crc32": "0b67dcbc",
+      "sha1": "6484a636cd657e0d2f1d871ce62d1463e2bbea7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-17T17:54:53.876726-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047308",
+      "size": "1483",
+      "md5": "7b919478c860263ebb44454bc7e1a3f7",
+      "crc32": "f14d61dd",
+      "sha1": "880b42f1edcd610ef218e951a39a011fa314b4a0",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-17T17:54:53.876726-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047310",
+      "size": "11470",
+      "md5": "64b057d2f9e8afccd0274aaa0ca8fb3e",
+      "crc32": "dc4887cd",
+      "sha1": "0c9669649939987b46e354600f76ff7f57e43bb3",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-17T17:54:53.876726-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-17T17:54:53.876726-05:00.jpg",
+      "mtime": "1666047382",
+      "size": "8435",
+      "md5": "889b84323e8087922f21eac2e1d1ba4a",
+      "crc32": "27157737",
+      "sha1": "014739f949b7fe496e723cb72542138114bc9ab7"
+    },
+    {
+      "name": "austinvida-2022-10-18T05:54:46.662835-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666090490",
+      "size": "20426",
+      "md5": "2d8d233d8d75701690bf0d27eaa7834c",
+      "crc32": "feab8b39",
+      "sha1": "21e6d6ac4ff70775cc58fdf0a7c56556e5b40097",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-18T05:54:46.662835-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666090491",
+      "size": "4708",
+      "md5": "cbf8941576a477d4fde488a11f0f39b7",
+      "crc32": "ca219573",
+      "sha1": "e74aeb9a6b50a8720ac9481938b9f2a970a6ba8c",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-18T05:54:46.662835-05:00.jpg",
+      "source": "original",
+      "mtime": "1666090488",
+      "size": "253075",
+      "md5": "9f4958f1c622143aad90f15ae1c718ad",
+      "crc32": "0b67dcbc",
+      "sha1": "6484a636cd657e0d2f1d871ce62d1463e2bbea7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-18T05:54:46.662835-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666090493",
+      "size": "1482",
+      "md5": "fd83d80741d84de85dcd8fe1d90cea48",
+      "crc32": "324815cd",
+      "sha1": "1a7e55cdb34856852fb1d1ece41691d436292cf0",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-18T05:54:46.662835-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666090495",
+      "size": "11469",
+      "md5": "b5b34628b1f730cefcb3b108c8638e7a",
+      "crc32": "db479822",
+      "sha1": "d46fed242b0a6d0f48bc0929e3457ed91eb495bf",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-18T05:54:46.662835-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-18T05:54:46.662835-05:00.jpg",
+      "mtime": "1666090606",
+      "size": "8435",
+      "md5": "889b84323e8087922f21eac2e1d1ba4a",
+      "crc32": "27157737",
+      "sha1": "014739f949b7fe496e723cb72542138114bc9ab7"
+    },
+    {
+      "name": "austinvida-2022-10-18T18:11:13.380911-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134677",
+      "size": "20426",
+      "md5": "2d8d233d8d75701690bf0d27eaa7834c",
+      "crc32": "feab8b39",
+      "sha1": "21e6d6ac4ff70775cc58fdf0a7c56556e5b40097",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-18T18:11:13.380911-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134678",
+      "size": "4708",
+      "md5": "cbf8941576a477d4fde488a11f0f39b7",
+      "crc32": "ca219573",
+      "sha1": "e74aeb9a6b50a8720ac9481938b9f2a970a6ba8c",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-18T18:11:13.380911-05:00.jpg",
+      "source": "original",
+      "mtime": "1666134675",
+      "size": "253075",
+      "md5": "9f4958f1c622143aad90f15ae1c718ad",
+      "crc32": "0b67dcbc",
+      "sha1": "6484a636cd657e0d2f1d871ce62d1463e2bbea7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-18T18:11:13.380911-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134680",
+      "size": "1483",
+      "md5": "5ad745bbd8ca526506c4f67c53ba9baf",
+      "crc32": "da48950e",
+      "sha1": "6a20b3ee44eb42fd936d6b131c690008d095e525",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-18T18:11:13.380911-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134682",
+      "size": "11081",
+      "md5": "86012556395bf22636d18ac24deeff25",
+      "crc32": "0685a4d2",
+      "sha1": "5f89ab12175c97d93521caeaa8b58f9f4fcbc4a0",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-18T18:11:13.380911-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-18T18:11:13.380911-05:00.jpg",
+      "mtime": "1666160145",
+      "size": "8435",
+      "md5": "889b84323e8087922f21eac2e1d1ba4a",
+      "crc32": "27157737",
+      "sha1": "014739f949b7fe496e723cb72542138114bc9ab7"
+    },
+    {
+      "name": "austinvida-2022-10-19T05:55:05.207196-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176921",
+      "size": "20426",
+      "md5": "2d8d233d8d75701690bf0d27eaa7834c",
+      "crc32": "feab8b39",
+      "sha1": "21e6d6ac4ff70775cc58fdf0a7c56556e5b40097",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-19T05:55:05.207196-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176922",
+      "size": "4708",
+      "md5": "cbf8941576a477d4fde488a11f0f39b7",
+      "crc32": "ca219573",
+      "sha1": "e74aeb9a6b50a8720ac9481938b9f2a970a6ba8c",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-19T05:55:05.207196-05:00.jpg",
+      "source": "original",
+      "mtime": "1666176920",
+      "size": "253075",
+      "md5": "9f4958f1c622143aad90f15ae1c718ad",
+      "crc32": "0b67dcbc",
+      "sha1": "6484a636cd657e0d2f1d871ce62d1463e2bbea7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-19T05:55:05.207196-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176924",
+      "size": "1483",
+      "md5": "9d6d5d9191f9d8a7081c01b8fa822628",
+      "crc32": "ae04450a",
+      "sha1": "5d04c0a31a3546091faa9670a89997d7ca628cc9",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-19T05:55:05.207196-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176925",
+      "size": "11470",
+      "md5": "c16d4744bfa22d2d832a37bd62fb6352",
+      "crc32": "d7fcfbcf",
+      "sha1": "c182712c0b35ec02be6a27266f00b8c8b3e486a7",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-19T05:55:05.207196-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-19T05:55:05.207196-05:00.jpg",
+      "mtime": "1666196565",
+      "size": "8435",
+      "md5": "889b84323e8087922f21eac2e1d1ba4a",
+      "crc32": "27157737",
+      "sha1": "014739f949b7fe496e723cb72542138114bc9ab7"
+    },
+    {
+      "name": "austinvida-2022-10-19T18:06:29.937896-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666220797",
+      "size": "20426",
+      "md5": "2d8d233d8d75701690bf0d27eaa7834c",
+      "crc32": "feab8b39",
+      "sha1": "21e6d6ac4ff70775cc58fdf0a7c56556e5b40097",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-19T18:06:29.937896-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666220799",
+      "size": "4708",
+      "md5": "cbf8941576a477d4fde488a11f0f39b7",
+      "crc32": "ca219573",
+      "sha1": "e74aeb9a6b50a8720ac9481938b9f2a970a6ba8c",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-19T18:06:29.937896-05:00.jpg",
+      "source": "original",
+      "mtime": "1666220796",
+      "size": "253075",
+      "md5": "9f4958f1c622143aad90f15ae1c718ad",
+      "crc32": "0b67dcbc",
+      "sha1": "6484a636cd657e0d2f1d871ce62d1463e2bbea7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-19T18:06:29.937896-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666220801",
+      "size": "1482",
+      "md5": "31aa553ece3aa2fe99e90fbf4389653e",
+      "crc32": "08724e99",
+      "sha1": "e2bdaa1e9f043d1464185640d8395a84992ef0f6",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-19T18:06:29.937896-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666220803",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-19T18:06:29.937896-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-19T18:06:29.937896-05:00.jpg",
+      "mtime": "1666221001",
+      "size": "8435",
+      "md5": "889b84323e8087922f21eac2e1d1ba4a",
+      "crc32": "27157737",
+      "sha1": "014739f949b7fe496e723cb72542138114bc9ab7"
+    },
+    {
       "name": "austinvida-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78ae62c9f3c213b627e8ab47874761297c43cfaf",
-      "mtime": "1665658094",
-      "size": "228175",
-      "md5": "9d5f1906487e171c8d0cd35144b485df",
-      "crc32": "b21b0885",
-      "sha1": "dd5a14f789e8b675bc30b13bedbccab8a5da7aa1",
+      "btih": "01fe54cd7faf167fdab66c891865e215e71d1f7a",
+      "mtime": "1666221014",
+      "size": "244883",
+      "md5": "b26b7f370c09dee563c2d87683a501c4",
+      "crc32": "ab7a9c78",
+      "sha1": "24f1177039d7cbadd23168512c1dbb68a7900395",
       "format": "Archive BitTorrent"
     },
     {
       "name": "austinvida-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52780283225456b731dab87ecc68a9a7",
+      "md5": "7c66f5f19fc2f844511b56c919ec41ab",
       "summation": "md5"
     },
     {
       "name": "austinvida-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658031",
-      "size": "1359872",
-      "md5": "33d948e4146f166022d6d4a3656c8f19",
-      "crc32": "c67c7f0d",
-      "sha1": "207311d41957bf5636f3143c2b965c604e5020c8",
+      "mtime": "1666220817",
+      "size": "1458176",
+      "md5": "6e9eb8c5a2576aac77591e04dd4fb64e",
+      "crc32": "e1b1a39b",
+      "sha1": "3549a38fa38ff3985cf7d06dd58e7ba4bcc81a5a",
       "format": "Metadata"
     },
     {
@@ -11127,9 +11944,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1074,
-  "item_last_updated": 1665658094,
-  "item_size": 67153543,
+  "files_count": 1153,
+  "item_last_updated": 1666221014,
+  "item_size": 71522741,
   "metadata": {
     "identifier": "austinvida-2022",
     "collection": [
@@ -11146,21 +11963,10 @@
     "publicdate": "2022-07-10 15:39:44",
     "addeddate": "2022-07-10 15:39:44"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3438236858,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1124072626,
+  "uniq": 443787372,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

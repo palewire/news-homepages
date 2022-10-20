@@ -1,5 +1,5 @@
 {
-  "created": 1665645646,
+  "created": 1666210519,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/20/items/nzherald-2022",
@@ -8540,31 +8540,826 @@
       "sha1": "68579cb8222597d748b0beeee6e2007092b2a279"
     },
     {
+      "name": "nzherald-2022-10-14T09:03:55.669196+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665691449",
+      "size": "97212",
+      "md5": "1dd801d4c513ecc523b02195cfdc1fed",
+      "crc32": "0a8aa5a6",
+      "sha1": "4c66e165eec5fd8db5547c5d5375929d67a20f08",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-14T09:03:55.669196+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665691451",
+      "size": "215646",
+      "md5": "fdd593b9e510e9a7d5ae21f97d9988e1",
+      "crc32": "bf359493",
+      "sha1": "2c76a251072026301b064779af3525e53a121c66",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-14T09:03:55.669196+13:00.jpg",
+      "source": "original",
+      "mtime": "1665691446",
+      "size": "255546",
+      "md5": "76cf22e848e09252003bce4593d2f0e1",
+      "crc32": "a79709a8",
+      "sha1": "71c8cc4f692619a2f7994cf7f4ceff2e89641c31",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-14T09:03:55.669196+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665691453",
+      "size": "1495",
+      "md5": "99c2e016674306ad414d508df24cc86b",
+      "crc32": "f191abef",
+      "sha1": "86959dfb944af802a2611cec4518461436754de7",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-14T09:03:55.669196+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665691454",
+      "size": "86137",
+      "md5": "10e063c6dbe1cd2e44c42c04b2fc4e40",
+      "crc32": "2a848115",
+      "sha1": "41b3594c0254a808af16dfa857c2f75a6a54ed61",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-14T09:03:55.669196+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-14T09:03:55.669196+13:00.jpg",
+      "mtime": "1665691518",
+      "size": "8928",
+      "md5": "1edf7f43d6adf3bda976672bacdb634f",
+      "crc32": "94815dd7",
+      "sha1": "afffa5b98a77e7962ff2d22d841523094d613ee8"
+    },
+    {
+      "name": "nzherald-2022-10-14T20:59:36.192440+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665734397",
+      "size": "97490",
+      "md5": "c2fc27e121b428d8a284921aa8811ba0",
+      "crc32": "d91acc1b",
+      "sha1": "e1e7e04777d06750dd57abb72ad653d670c75d07",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-14T20:59:36.192440+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665734398",
+      "size": "216102",
+      "md5": "3cdf3906ca5d7c9a9b951e3fec53c309",
+      "crc32": "b4c43899",
+      "sha1": "6bd395707c173357de1cbe7029001877a2a61ed6",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-14T20:59:36.192440+13:00.jpg",
+      "source": "original",
+      "mtime": "1665734395",
+      "size": "241058",
+      "md5": "2fa4ba8b87b2340b2a5a6f73c097d7b9",
+      "crc32": "e83026db",
+      "sha1": "5b0f3edf601ac9a2b0be9d124a08ec1ab3bce57c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-14T20:59:36.192440+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665734400",
+      "size": "1495",
+      "md5": "f08a537cd7b25a51f80e2b6edc6a0af3",
+      "crc32": "08cd04a8",
+      "sha1": "a1aa793601a4d0ea08c0545b11a78bbf105bfc0f",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-14T20:59:36.192440+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665734405",
+      "size": "67648",
+      "md5": "00cb2a084314324b1ae3713699898d5f",
+      "crc32": "2be78b28",
+      "sha1": "ed43ae99477ea2dc3f489ac98de4f2be8c2b9261",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-14T20:59:36.192440+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-14T20:59:36.192440+13:00.jpg",
+      "mtime": "1665734465",
+      "size": "8712",
+      "md5": "6e8d2f02549012cd7b9ff4a48b501c41",
+      "crc32": "7ee6f2a4",
+      "sha1": "d1370e88f8be63db13d4d16ff43bad985e05b998"
+    },
+    {
+      "name": "nzherald-2022-10-15T09:23:19.744089+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665779013",
+      "size": "99117",
+      "md5": "a8ffd81eddcca3975ccda00b6a18d292",
+      "crc32": "faf7cd6c",
+      "sha1": "dca93627c4fdb564e8b919d3bfc2cfdfaf364543",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-15T09:23:19.744089+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665779014",
+      "size": "216464",
+      "md5": "556ca1e775773fc0911b2510cad8f1a7",
+      "crc32": "e167f00c",
+      "sha1": "b078631c44111179ac6db125fc80366f36384001",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-15T09:23:19.744089+13:00.jpg",
+      "source": "original",
+      "mtime": "1665779011",
+      "size": "253598",
+      "md5": "65207296a233aa060fa78cae24edbfbe",
+      "crc32": "8e215a64",
+      "sha1": "4509235b710ec6ec95fd3de04b8da76c285ced89",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-15T09:23:19.744089+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665779016",
+      "size": "1495",
+      "md5": "6db99c18ca0b326f9f18df1f7eaa0464",
+      "crc32": "0fe1c6e9",
+      "sha1": "af1ceef97b8c28cacde0241ff35660f9f250efb1",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-15T09:23:19.744089+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665779018",
+      "size": "73839",
+      "md5": "4ea2ec9b0610eed3a90af814bab506e0",
+      "crc32": "e01a8918",
+      "sha1": "8833b3525819736223add716283024cc161438c6",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-15T09:23:19.744089+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-15T09:23:19.744089+13:00.jpg",
+      "mtime": "1665779114",
+      "size": "8616",
+      "md5": "d7fa92a540ff30dce2a1f30187eaa30e",
+      "crc32": "1fb05c30",
+      "sha1": "849f5e90eb770e3eef61c5aa7da4ff200533b5bf"
+    },
+    {
+      "name": "nzherald-2022-10-15T20:49:01.860710+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665820154",
+      "size": "97752",
+      "md5": "cb165722514dd5f8f9ee398616399664",
+      "crc32": "fcb54afd",
+      "sha1": "25bb8fff032a5412beb7bb1a3b37a847b4cdae7c",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-15T20:49:01.860710+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665820156",
+      "size": "215589",
+      "md5": "5ea9a3130e5b70897001bc91a40dba96",
+      "crc32": "ec46d67f",
+      "sha1": "d58bf7f453b7b2248f8db1d4cee11ed2e93f0213",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-15T20:49:01.860710+13:00.jpg",
+      "source": "original",
+      "mtime": "1665820152",
+      "size": "243076",
+      "md5": "f11a5219ad849c58169f12d5810ae589",
+      "crc32": "47d6a490",
+      "sha1": "26d4c9bd5c2a61e1b4bae48c02e1f178d86e50c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-15T20:49:01.860710+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665820158",
+      "size": "1495",
+      "md5": "0c833f66811e3030cb4ce184894af63f",
+      "crc32": "78c752b9",
+      "sha1": "aa148a87b6687bd4a64529fec111520b70a7c4ba",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-15T20:49:01.860710+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665820160",
+      "size": "270",
+      "md5": "5209123a51b32b089fec22f9e18514d7",
+      "crc32": "f9221b8f",
+      "sha1": "636b6d8fd6664408715c7b27dcd98556baf61a01",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-15T20:49:01.860710+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-15T20:49:01.860710+13:00.jpg",
+      "mtime": "1665820218",
+      "size": "8678",
+      "md5": "37c76095f67b89d32bacb1d7b37da0ed",
+      "crc32": "5e8735bd",
+      "sha1": "3d2a09853f7e551d2a34fcb74c467c5863dca2d5"
+    },
+    {
+      "name": "nzherald-2022-10-16T08:20:20.632579+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665861631",
+      "size": "97570",
+      "md5": "6d5e67fbc182b136a538df6030478dc7",
+      "crc32": "be96d6fb",
+      "sha1": "f2cfe311b22729e61ecc2f9273559da103bcc886",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-16T08:20:20.632579+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665861632",
+      "size": "214155",
+      "md5": "4f1368827f0b490a8c15f599bddd11d9",
+      "crc32": "8571e77a",
+      "sha1": "6a4d72f2578ed638f967fd91e33892e68ba50604",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-16T08:20:20.632579+13:00.jpg",
+      "source": "original",
+      "mtime": "1665861629",
+      "size": "245173",
+      "md5": "c8105f3c5372575b23fa5952d8520caf",
+      "crc32": "1a8b5520",
+      "sha1": "8fe5bb9374f537689fcba46551259c7ef02c23b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-16T08:20:20.632579+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665861633",
+      "size": "1495",
+      "md5": "1ebdb377a615b3a322f923a12ff8880f",
+      "crc32": "bbd77c41",
+      "sha1": "874e4014363ef04a389c5493cf474ffb86b7039b",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-16T08:20:20.632579+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665861635",
+      "size": "71712",
+      "md5": "f19a47b2c9b4eda899ac7549194df2b1",
+      "crc32": "2e1bfeab",
+      "sha1": "5409bd683bf4a3dc9719b667e322b88c71d90896",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-16T08:20:20.632579+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-16T08:20:20.632579+13:00.jpg",
+      "mtime": "1665861713",
+      "size": "8893",
+      "md5": "466b27a1db3f5f30750074bfdff5a75e",
+      "crc32": "fb819969",
+      "sha1": "b0ec9dc9bd2b1fd7833cb5297458fae14925e8c4"
+    },
+    {
+      "name": "nzherald-2022-10-16T20:20:05.083974+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665904817",
+      "size": "97236",
+      "md5": "17c712d8b79ba2abeff4d2ac2b51fdbf",
+      "crc32": "aee62b84",
+      "sha1": "98ab0f895c68c6dd36af36253d07b3036346a62a",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-16T20:20:05.083974+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665904818",
+      "size": "215137",
+      "md5": "3c9264af04e55dddb8a327d157fc01b9",
+      "crc32": "2cdb6d23",
+      "sha1": "890aee571bba060699af925e2e9fe4f5a270aeeb",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-16T20:20:05.083974+13:00.jpg",
+      "source": "original",
+      "mtime": "1665904815",
+      "size": "240519",
+      "md5": "4db780b2fcfb662083d35a3437dddb11",
+      "crc32": "fd266f28",
+      "sha1": "8e5e33d2f0d138a1d7ffcc7b12ad38bf3ef90cdd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-16T20:20:05.083974+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665904820",
+      "size": "1495",
+      "md5": "3bb0b442f4703074e23fa73719e81ca3",
+      "crc32": "f8e969cb",
+      "sha1": "eebc290af9c987f3890d9d0f70e36134b44f2da7",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-16T20:20:05.083974+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665904821",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-16T20:20:05.083974+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-16T20:20:05.083974+13:00.jpg",
+      "mtime": "1665904891",
+      "size": "8725",
+      "md5": "de400439fb1e411afaee9f7aef6d8cd4",
+      "crc32": "0129fd35",
+      "sha1": "2c07ff9476f05a53cbcb4d5114a7add89aec1912"
+    },
+    {
+      "name": "nzherald-2022-10-17T07:57:05.287490+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665946637",
+      "size": "97139",
+      "md5": "6c122a38283a4015503248a4575d8599",
+      "crc32": "479a472f",
+      "sha1": "1729ff69a6d87fcec91aead138784de0bbf5728f",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-17T07:57:05.287490+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665946638",
+      "size": "217813",
+      "md5": "01bbede7d0760a8eb42614ee1dac0b54",
+      "crc32": "46ff3e1f",
+      "sha1": "d43ca7491bd441ab765d46840bdd9b5dd1161716",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-17T07:57:05.287490+13:00.jpg",
+      "source": "original",
+      "mtime": "1665946635",
+      "size": "255866",
+      "md5": "9d86744cd7ff785cd2aff600f209c42f",
+      "crc32": "b42018ac",
+      "sha1": "d6f50c2882115450a898586b61aefed7b8181ac0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-17T07:57:05.287490+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665946640",
+      "size": "1495",
+      "md5": "336edf566c57456b1de1581347a8da04",
+      "crc32": "9a392ed9",
+      "sha1": "d353434055f6078841a2925b6c54c96e3e202d8d",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-17T07:57:05.287490+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665946642",
+      "size": "84893",
+      "md5": "92071517f090486e69c5b8c8631eb997",
+      "crc32": "50b1a2cd",
+      "sha1": "d8c9b76e6d67fbfeeb89147cf97add0c14e38b43",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-17T07:57:05.287490+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-17T07:57:05.287490+13:00.jpg",
+      "mtime": "1665946710",
+      "size": "8736",
+      "md5": "17e9d33fa3802069ae77c67d077b844c",
+      "crc32": "fe8fc332",
+      "sha1": "8ba684af61c8974576179ea4317a37e294c9702c"
+    },
+    {
+      "name": "nzherald-2022-10-17T20:53:47.983904+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665993241",
+      "size": "98618",
+      "md5": "87c7b2279f80b3001bd948d0011ab518",
+      "crc32": "3e87e4e6",
+      "sha1": "2f2982567e4bce1332d7e74e9cbd227d27dd4a2c",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-17T20:53:47.983904+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665993242",
+      "size": "219185",
+      "md5": "1f74061eba2eb0f8a4f8bb991095ad29",
+      "crc32": "e029e7e3",
+      "sha1": "57638f2cc7d1afc18d0e23ec993d4e1f2e642880",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-17T20:53:47.983904+13:00.jpg",
+      "source": "original",
+      "mtime": "1665993239",
+      "size": "245080",
+      "md5": "f036db453f380475c740cace7af7ff1f",
+      "crc32": "6f5d7abf",
+      "sha1": "3c0b074523e29571529d77fb4f03e6bb61173bc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-17T20:53:47.983904+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665993244",
+      "size": "1495",
+      "md5": "5aa5c71876ea3aa2dca85aac3f079644",
+      "crc32": "4804964b",
+      "sha1": "0cc644dcbe3a74b307ca50fcaefdaa15f9cc0250",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-17T20:53:47.983904+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1665993246",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-17T20:53:47.983904+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-17T20:53:47.983904+13:00.jpg",
+      "mtime": "1665993318",
+      "size": "8706",
+      "md5": "968d8c4749892c0036c728cbf1d29a10",
+      "crc32": "98c7c8ae",
+      "sha1": "21b33e3f621c8679a01b0c4d56e0ae63eb72ae1b"
+    },
+    {
+      "name": "nzherald-2022-10-18T08:35:01.487236+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666035314",
+      "size": "99211",
+      "md5": "19f42251934d6070cfd559fe7d61e02a",
+      "crc32": "0cbb5a24",
+      "sha1": "54f82fb5ae73da130a2dc3cd1a8db922205f84d4",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-18T08:35:01.487236+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666035316",
+      "size": "216745",
+      "md5": "5f0b41a7e75960b84d57e7a6a9ead20a",
+      "crc32": "3bb51320",
+      "sha1": "d707f4c8490bf1d38eca305c4cb00b62072dd3b4",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-18T08:35:01.487236+13:00.jpg",
+      "source": "original",
+      "mtime": "1666035312",
+      "size": "242777",
+      "md5": "bcd64bb80a44cbf8c285b69325ff6166",
+      "crc32": "671c9a12",
+      "sha1": "a22b304d9d0ceb0e58ba9eb6870d4cc08bdc837e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-18T08:35:01.487236+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666035318",
+      "size": "1495",
+      "md5": "6f7472d9e2019506850400712c6c5abf",
+      "crc32": "f4bd396a",
+      "sha1": "c59e68ccc8b0ad93a67af6784cf894aecb3e2738",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-18T08:35:01.487236+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1666035320",
+      "size": "91412",
+      "md5": "57a1fab7c2c901b80a0e181b70eed807",
+      "crc32": "2be81f3b",
+      "sha1": "1c5225d6e0df519ffad57318d5b56520d18b0343",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-18T08:35:01.487236+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-18T08:35:01.487236+13:00.jpg",
+      "mtime": "1666035394",
+      "size": "8562",
+      "md5": "52cad60c90f2154b2b70c387b9447dc4",
+      "crc32": "3bd9015a",
+      "sha1": "8f3830aef9acd580016605668aa8383f3a454e25"
+    },
+    {
+      "name": "nzherald-2022-10-18T20:22:19.307791+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666077754",
+      "size": "97086",
+      "md5": "74197fa7df532696b72d5d4c67f64773",
+      "crc32": "f2a48cf6",
+      "sha1": "cdad0319c8e25376fec5a8ac167694c4fc43d000",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-18T20:22:19.307791+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666077756",
+      "size": "214930",
+      "md5": "06aea8a32623e23d48545de17932a008",
+      "crc32": "7f6b7cad",
+      "sha1": "82ff8d650fde72a755ae814dfc1300ace0edba16",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-18T20:22:19.307791+13:00.jpg",
+      "source": "original",
+      "mtime": "1666077752",
+      "size": "241134",
+      "md5": "abe5a3308e49937f87204a32ca0000cc",
+      "crc32": "cd562069",
+      "sha1": "8f487ade0ce2222fb98fefa927f76931a026f7c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-18T20:22:19.307791+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666077758",
+      "size": "1495",
+      "md5": "7bc69d96a784d7e7ba984349f0fdbe1b",
+      "crc32": "047d4af4",
+      "sha1": "1f77105bf3f450d24062c30682c091bba75234ca",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-18T20:22:19.307791+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1666077761",
+      "size": "85054",
+      "md5": "122b01753a75f9494fd4300f9e53be68",
+      "crc32": "ca663c7d",
+      "sha1": "27d365111a31fc19901b6e127de63ae46067a5ad",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-18T20:22:19.307791+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-18T20:22:19.307791+13:00.jpg",
+      "mtime": "1666077967",
+      "size": "8551",
+      "md5": "bdd7958854aca6a485fcca69b9c5d320",
+      "crc32": "e07d90dd",
+      "sha1": "f707836c8a84be1904c482aead19e65a8dc79a05"
+    },
+    {
+      "name": "nzherald-2022-10-19T08:07:55.461977+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666120090",
+      "size": "97639",
+      "md5": "0d218bf80efc6ecd749386849b0e61b0",
+      "crc32": "2b995638",
+      "sha1": "0e702d5ff6d99001b04cc2750b7ac2c3c5feb1c2",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-19T08:07:55.461977+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666120092",
+      "size": "217751",
+      "md5": "7e633acadd55d59f080b8e374246cf9c",
+      "crc32": "bd13c886",
+      "sha1": "e4b008d373231616a838dec1d4b8c6deff395d0c",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-19T08:07:55.461977+13:00.jpg",
+      "source": "original",
+      "mtime": "1666120088",
+      "size": "247550",
+      "md5": "66e9e73f4786c2648a95b0c368c8d8ee",
+      "crc32": "2cab6b1a",
+      "sha1": "580ca9c71bce93a6e8ddce22889d2ceb430f93cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-19T08:07:55.461977+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666120093",
+      "size": "1495",
+      "md5": "c8ebc0bfbc0af60b5e9e77f84eaee57f",
+      "crc32": "9bfa531c",
+      "sha1": "bfab9c7d3a4a402691971b4f23a74d3e3c2f8672",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-19T08:07:55.461977+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1666120095",
+      "size": "75537",
+      "md5": "01e3f4bb58dbebd3f29640a480b5c37d",
+      "crc32": "4c6e52d3",
+      "sha1": "67ad950d6b39f5aab1f4e03d9f9ba4a796ee380f",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-19T08:07:55.461977+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-19T08:07:55.461977+13:00.jpg",
+      "mtime": "1666120190",
+      "size": "8570",
+      "md5": "3be119777022f0e1ddd6310dae30ab72",
+      "crc32": "272eca51",
+      "sha1": "cf8ebf80a24c8fce4197f59ae42e684203f31464"
+    },
+    {
+      "name": "nzherald-2022-10-19T20:18:04.498784+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666163900",
+      "size": "99049",
+      "md5": "66a6f226dc0bd3632cd4cd270f61879f",
+      "crc32": "44939664",
+      "sha1": "4cc9a4bd7cb8628d22eb7c9202587a4a42a6d21b",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-19T20:18:04.498784+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666163902",
+      "size": "218410",
+      "md5": "366bb16750a645be9a826b01a59104f1",
+      "crc32": "5ec2d7d7",
+      "sha1": "3edbb43c8e640359e7d0786af6dfcf08d5c37d26",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-19T20:18:04.498784+13:00.jpg",
+      "source": "original",
+      "mtime": "1666163896",
+      "size": "247617",
+      "md5": "57d53b0e96af3b978a8a214a0518a562",
+      "crc32": "dab851ae",
+      "sha1": "667d9845039266c19a9924be45c63a3e6d18f3ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-19T20:18:04.498784+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666163904",
+      "size": "1495",
+      "md5": "f33a241fd2498c528c584848d2457032",
+      "crc32": "2d54b258",
+      "sha1": "f9b99385cc5b274a0a5786b99a063530f5c3e8bf",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-19T20:18:04.498784+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1666163906",
+      "size": "11987",
+      "md5": "ba571e29db6664a293209bd8b64f2935",
+      "crc32": "3f9dfbda",
+      "sha1": "713bb9c62fd9003231d9e87734b8b86516240bb4",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-19T20:18:04.498784+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-19T20:18:04.498784+13:00.jpg",
+      "mtime": "1666185308",
+      "size": "8997",
+      "md5": "924bb449581a2d04a199b1a533e5c875",
+      "crc32": "d4ea756b",
+      "sha1": "b3b65eaae5d0c04ae273c716616820a1f92b4909"
+    },
+    {
+      "name": "nzherald-2022-10-20T09:14:04.106768+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666210458",
+      "size": "97239",
+      "md5": "11b43263fc6bd468e3ed6699b66d7050",
+      "crc32": "d952db1d",
+      "sha1": "82a07ea9045c0048ba7e45376470ffd599a68370",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-20T09:14:04.106768+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666210459",
+      "size": "216391",
+      "md5": "0e1145d338e844f58db83ca69b3a9e42",
+      "crc32": "147f7df0",
+      "sha1": "65920dbb6c290709e4888b8a758e24e94f262fa3",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-20T09:14:04.106768+13:00.jpg",
+      "source": "original",
+      "mtime": "1666210456",
+      "size": "245653",
+      "md5": "8eb0bfd047cb41e73303853204902758",
+      "crc32": "07dfc55c",
+      "sha1": "cba253d4c31b17d7f39febe15c1084a18c767346",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-20T09:14:04.106768+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666210462",
+      "size": "1495",
+      "md5": "a5d4b506c43f497906e8045bb239c0fa",
+      "crc32": "f3fb0e77",
+      "sha1": "52ca756eaa9151acaf159c4ccfe12a3761fc1107",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-20T09:14:04.106768+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1666210464",
+      "size": "62930",
+      "md5": "2612050c6bb3c165ac79ed4659bb9bf7",
+      "crc32": "60acc2ec",
+      "sha1": "a0a2692b04dfd06ebb83b8b18587101734235389",
+      "format": "JSON"
+    },
+    {
       "name": "nzherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a8e0e9db9857055769dd4556cc03f96c8d62ed5",
-      "mtime": "1665645638",
-      "size": "176647",
-      "md5": "d5a8689be966837a9210c8450c65c43e",
-      "crc32": "5383e5ec",
-      "sha1": "fa438c0a7f61eb2da77bcd6bb679f2a972d175b9",
+      "btih": "8d67ddf43273f12bb5b9d32cafb805a5081e882a",
+      "mtime": "1666210515",
+      "size": "192961",
+      "md5": "58931984c6a61037ed65a76b064afe9b",
+      "crc32": "181f9a86",
+      "sha1": "f89c71f5da7738289993c090ef8e88c346ed0e62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nzherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5836f72d1713feaf35b21fd99080ca7",
+      "md5": "95f2082f9eab2d5f3f58aa9f2b4ae45a",
       "summation": "md5"
     },
     {
       "name": "nzherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665645571",
-      "size": "1064960",
-      "md5": "5cecdb67398aeb27daf9e6bb2c65c896",
-      "crc32": "e8cfbebe",
-      "sha1": "fc03ab0399ecee628bc19c4e7475a311113de006",
+      "mtime": "1666210471",
+      "size": "1163264",
+      "md5": "09888cd7adfe2b1da3962a9c14dda39d",
+      "crc32": "2d40e0f5",
+      "sha1": "16cc21ec9424e31f9cc963563ea35c86225a756e",
       "format": "Metadata"
     },
     {
@@ -8578,9 +9373,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 830,
-  "item_last_updated": 1665645638,
-  "item_size": 88312623,
+  "files_count": 907,
+  "item_last_updated": 1666210515,
+  "item_size": 96554496,
   "metadata": {
     "identifier": "nzherald-2022",
     "collection": [
@@ -8597,10 +9392,21 @@
     "publicdate": "2022-08-05 04:36:58",
     "addeddate": "2022-08-05 04:36:58"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 760746239,
+  "pending_tasks": true,
+  "server": "ia902506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445914513,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 954970884,
   "workable_servers": [
-    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

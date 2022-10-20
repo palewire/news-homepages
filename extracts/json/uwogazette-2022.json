@@ -1,5 +1,5 @@
 {
-  "created": 1665692407,
+  "created": 1666164531,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/uwogazette-2022",
@@ -9238,31 +9238,680 @@
       "sha1": "743b121ce0fad297f20b4fb84dc582f3cad5f253"
     },
     {
+      "name": "uwogazette-2022-10-14T04:10:09.760425-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665735021",
+      "size": "23631",
+      "md5": "dc360a1be3f23095442cc1e7779ad753",
+      "crc32": "b29c641c",
+      "sha1": "a734fa45d85302361ea322e9c40787fa4f25f0f0",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-14T04:10:09.760425-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665735023",
+      "size": "28248",
+      "md5": "001f75629985812d5f533ed47ac69832",
+      "crc32": "d952c38a",
+      "sha1": "07d9c72e43e9f741c84e55262dc5a990b2d905d7",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-14T04:10:09.760425-04:00.jpg",
+      "source": "original",
+      "mtime": "1665735020",
+      "size": "300429",
+      "md5": "10b330143e1da8322215e67b3c15d4aa",
+      "crc32": "830295f6",
+      "sha1": "a76dce610d86903db9849bd00ab329fc5d73df58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-14T04:10:09.760425-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665735026",
+      "size": "1486",
+      "md5": "449ee33a99062b2f3f083afeed6f2ca9",
+      "crc32": "d303d50f",
+      "sha1": "e02f5b3d7314c607d34ea4f5354e807504024249",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-14T04:10:09.760425-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665735028",
+      "size": "49217",
+      "md5": "84b9f6a627e72ecc24be976f56ef6fb7",
+      "crc32": "02d1959d",
+      "sha1": "f7b1110e1284a3edb77ee6764c87757176a16087",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-14T04:10:09.760425-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-14T04:10:09.760425-04:00.jpg",
+      "mtime": "1665735094",
+      "size": "9736",
+      "md5": "6a308a770b90bac3e31c167efafe8a4b",
+      "crc32": "e58d83a8",
+      "sha1": "ab61034da4f8a73126a0a0e31f4ba0d5c931b84a"
+    },
+    {
+      "name": "uwogazette-2022-10-14T16:36:49.653590-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665779817",
+      "size": "23817",
+      "md5": "026d314de72f1a351a3966b781cfdcdd",
+      "crc32": "f00579e1",
+      "sha1": "00900a5534cdb34c1ce41efc77d87a75f0c5f6d7",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-14T16:36:49.653590-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665779819",
+      "size": "28329",
+      "md5": "1659bc8e2497e444215ce5b787b3487c",
+      "crc32": "1286cc09",
+      "sha1": "56a4a1478d4acba5e664f16d6586039d8e3956e6",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-14T16:36:49.653590-04:00.jpg",
+      "source": "original",
+      "mtime": "1665779815",
+      "size": "313735",
+      "md5": "67d37e4a763708bba9635c50329d9f5f",
+      "crc32": "7783e6d0",
+      "sha1": "bd2e22ef7ff73ab208877b7d51072556dbb97dd9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-14T16:36:49.653590-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665779820",
+      "size": "1486",
+      "md5": "1650380d6149f422d67dfd5a8c288103",
+      "crc32": "13c4fe8f",
+      "sha1": "a9dfd0fa500fdd6f254dc51c183e519e32b6a299",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-14T16:36:49.653590-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665779823",
+      "size": "49243",
+      "md5": "f3a55edadaff285527890cdd449b74cf",
+      "crc32": "c83ab8ee",
+      "sha1": "80af5a2338349019e49f8912cf89633b7ad76539",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-14T16:36:49.653590-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-14T16:36:49.653590-04:00.jpg",
+      "mtime": "1665779891",
+      "size": "9550",
+      "md5": "7392e3f1b4df534a051922900bed2db5",
+      "crc32": "33f73ec3",
+      "sha1": "54cc8cd0bdce01df09317f623cd78124b4b84818"
+    },
+    {
+      "name": "uwogazette-2022-10-15T03:58:52.355194-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665820738",
+      "size": "24364",
+      "md5": "e10743d7d64235e230d138e4acbfb00b",
+      "crc32": "6548e0c5",
+      "sha1": "38d91db084cd18e0bab8f72a07085825aff9d8a8",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-15T03:58:52.355194-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665820740",
+      "size": "28327",
+      "md5": "0a4ac753e0f6670673898451f1d93542",
+      "crc32": "991c1c52",
+      "sha1": "8dd38529530a957a382cd20db3627e6951ec5421",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-15T03:58:52.355194-04:00.jpg",
+      "source": "original",
+      "mtime": "1665820736",
+      "size": "311246",
+      "md5": "fd12f1b6a39809681a2d3bd046078749",
+      "crc32": "95c0321c",
+      "sha1": "11c0c11215bab1a3a350e24b35f3a6884480e762",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-15T03:58:52.355194-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665820742",
+      "size": "1486",
+      "md5": "07fe9b58337a9169f11afad366505c1d",
+      "crc32": "8e4654b6",
+      "sha1": "1923e04b352d45b820ebcab5b17a3a6def4b9eb7",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-15T03:58:52.355194-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665820743",
+      "size": "269",
+      "md5": "1999951836620b2734ab27ce522e02ef",
+      "crc32": "c0fbc10e",
+      "sha1": "14f05c226d5dd955aff78f03d7da619e7e1548cb",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-15T03:58:52.355194-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-15T03:58:52.355194-04:00.jpg",
+      "mtime": "1665820814",
+      "size": "9542",
+      "md5": "72dbad814d6ec1095cf8f43ad676e00f",
+      "crc32": "47c19103",
+      "sha1": "2361fc8230a7c47c698f50daf507aa42aa145c03"
+    },
+    {
+      "name": "uwogazette-2022-10-15T15:56:40.206103-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665863805",
+      "size": "23669",
+      "md5": "94c8337faef0dfc54a12c24f63d99984",
+      "crc32": "defd8c37",
+      "sha1": "2dec79406e25902871a516efa3fd39160ac27b9d",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-15T15:56:40.206103-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665863807",
+      "size": "28327",
+      "md5": "0a4ac753e0f6670673898451f1d93542",
+      "crc32": "991c1c52",
+      "sha1": "8dd38529530a957a382cd20db3627e6951ec5421",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-15T15:56:40.206103-04:00.jpg",
+      "source": "original",
+      "mtime": "1665863804",
+      "size": "311558",
+      "md5": "eac2d0b5ea76e33c88885c4b483a244e",
+      "crc32": "f78ca9da",
+      "sha1": "cb51dd7bdc301112d0e46a6dbc9f78339e0db574",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-15T15:56:40.206103-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665863809",
+      "size": "1486",
+      "md5": "5b200a0867416fc22db82d5830b384ba",
+      "crc32": "d5bb460d",
+      "sha1": "dec3d36834fce530a3b2f5d33f01d98229c47f2c",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-15T15:56:40.206103-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665863811",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-15T15:56:40.206103-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-15T15:56:40.206103-04:00.jpg",
+      "mtime": "1665863992",
+      "size": "9548",
+      "md5": "7dde4de89a4175c926b96c243a05ec6c",
+      "crc32": "3e05cf8d",
+      "sha1": "9d87b30bcfece6e4a542cbffb40dff02e8154c1e"
+    },
+    {
+      "name": "uwogazette-2022-10-16T03:29:04.506825-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665905352",
+      "size": "23383",
+      "md5": "9e57c9cae612c95433a12d621c97467b",
+      "crc32": "b44b19e0",
+      "sha1": "ca237bddc7b51f21fc20d1c64a76057118f50379",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-16T03:29:04.506825-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665905354",
+      "size": "28347",
+      "md5": "5a57566f37d4b1e31511f026b8fa3bd2",
+      "crc32": "f3e3dde6",
+      "sha1": "ba89434c5418a7f3e9432d22d37a334dbf142b2e",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-16T03:29:04.506825-04:00.jpg",
+      "source": "original",
+      "mtime": "1665905351",
+      "size": "311778",
+      "md5": "37e81039aa585db1b2230504ed06ed25",
+      "crc32": "32a4eba6",
+      "sha1": "2f3680758696b4f1ae07a15f32a9528fb437eecc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-16T03:29:04.506825-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665905356",
+      "size": "1486",
+      "md5": "b0dfe39cdbfbf39d382d54872bf4fe55",
+      "crc32": "c5910bc5",
+      "sha1": "8adddab1c0f5c20c0a243bc99ee88fae629795e8",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-16T03:29:04.506825-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665905358",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-16T03:29:04.506825-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-16T03:29:04.506825-04:00.jpg",
+      "mtime": "1665905435",
+      "size": "9552",
+      "md5": "556bf31d2e7c9b5f2a220bd317584ed7",
+      "crc32": "70a4dc34",
+      "sha1": "2e13115a85d8951fc58693e3c6f07da24d3ec64f"
+    },
+    {
+      "name": "uwogazette-2022-10-16T14:52:37.000919-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665946364",
+      "size": "23385",
+      "md5": "739725c1dadc83685a6243f4217f4474",
+      "crc32": "b641a302",
+      "sha1": "067d8cdbcadc4b33a89d200064506bba36e77f38",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-16T14:52:37.000919-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665946365",
+      "size": "28347",
+      "md5": "5a57566f37d4b1e31511f026b8fa3bd2",
+      "crc32": "f3e3dde6",
+      "sha1": "ba89434c5418a7f3e9432d22d37a334dbf142b2e",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-16T14:52:37.000919-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665946367",
+      "size": "1486",
+      "md5": "fd1abb4eca92dcd8de5075a31052fc3b",
+      "crc32": "3435f483",
+      "sha1": "a67a3533c651017ec939071f9f201eedacb62014",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-16T14:52:37.000919-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665946369",
+      "size": "49431",
+      "md5": "e695a9ed2855e02e8ca6f45ba063e7f3",
+      "crc32": "66096e2f",
+      "sha1": "ba766adac7cb66f74047f31fdc51cb881ef83d52",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-17T03:49:45.864093-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665992990",
+      "size": "23524",
+      "md5": "d76b77c186359b5061af210125813a73",
+      "crc32": "5a34c037",
+      "sha1": "f3edb1d0a577a20c79b76277784555be55b4c955",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-17T03:49:45.864093-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665992995",
+      "size": "28347",
+      "md5": "5a57566f37d4b1e31511f026b8fa3bd2",
+      "crc32": "f3e3dde6",
+      "sha1": "ba89434c5418a7f3e9432d22d37a334dbf142b2e",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-17T03:49:45.864093-04:00.jpg",
+      "source": "original",
+      "mtime": "1665992989",
+      "size": "311778",
+      "md5": "37e81039aa585db1b2230504ed06ed25",
+      "crc32": "32a4eba6",
+      "sha1": "2f3680758696b4f1ae07a15f32a9528fb437eecc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-17T03:49:45.864093-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665992996",
+      "size": "1486",
+      "md5": "a1d6739fa9e80c093729cc6d97d72443",
+      "crc32": "550d0d67",
+      "sha1": "f0fd40a16e6baa36ceb1cd600616343862524ce0",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-17T03:49:45.864093-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665992998",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-17T03:49:45.864093-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-17T03:49:45.864093-04:00.jpg",
+      "mtime": "1665993057",
+      "size": "9552",
+      "md5": "556bf31d2e7c9b5f2a220bd317584ed7",
+      "crc32": "70a4dc34",
+      "sha1": "2e13115a85d8951fc58693e3c6f07da24d3ec64f"
+    },
+    {
+      "name": "uwogazette-2022-10-17T16:06:14.346979-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666037181",
+      "size": "23473",
+      "md5": "1cadc504552f6793d64a1f354682da0f",
+      "crc32": "533fe195",
+      "sha1": "1f3e09ea00483eeb58d769d47fccf2d29044596f",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-17T16:06:14.346979-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666037183",
+      "size": "28296",
+      "md5": "789c61f3c62985a0ca342a2809d76737",
+      "crc32": "e14fa32e",
+      "sha1": "8142d06661bc116adaeae81b4fa995890d2345ae",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-17T16:06:14.346979-04:00.jpg",
+      "source": "original",
+      "mtime": "1666037179",
+      "size": "301467",
+      "md5": "1b0098c95bbe354387431321b1c3bd04",
+      "crc32": "c6cf3ac2",
+      "sha1": "87345094d704804e04bc49c207a76ff44132dd21",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-17T16:06:14.346979-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666037185",
+      "size": "1486",
+      "md5": "26ac104f88eff4942ef1fc766599b80a",
+      "crc32": "8607f606",
+      "sha1": "0644c8d3fa32b035ceabaf96b1e5366e23cde594",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-17T16:06:14.346979-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666037186",
+      "size": "49084",
+      "md5": "7517f043d12bd4243c3c442fce49d43c",
+      "crc32": "ce15595b",
+      "sha1": "ade96c4416cd434c55aa48c81f370ed5f2f2fd05",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-17T16:06:14.346979-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-17T16:06:14.346979-04:00.jpg",
+      "mtime": "1666037247",
+      "size": "9492",
+      "md5": "dcebd052207571170fed2ea8a0e3f84f",
+      "crc32": "5da0385c",
+      "sha1": "6016a6b48b440cef24a5826f060fff577a962e60"
+    },
+    {
+      "name": "uwogazette-2022-10-18T03:17:37.529917-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666077465",
+      "size": "23250",
+      "md5": "203f807ed7bcbe804f2bf050b59927e2",
+      "crc32": "00f0bea6",
+      "sha1": "c60d52f412962a084ddbac4d24e7262a7f618915",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-18T03:17:37.529917-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666077468",
+      "size": "28026",
+      "md5": "5647b9fc949ffd87bc8db425b4a449e8",
+      "crc32": "8f13f025",
+      "sha1": "74bf6d8f4ad7965792a5cc48e7f6a761bd9d9640",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-18T03:17:37.529917-04:00.jpg",
+      "source": "original",
+      "mtime": "1666077463",
+      "size": "294976",
+      "md5": "629d383c9cf591669b375dee4033d0da",
+      "crc32": "bd949ae4",
+      "sha1": "93418bbb73f970c43499a2c1c570b565322d83c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-18T03:17:37.529917-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666077470",
+      "size": "1486",
+      "md5": "7be18979fa90e2d2a7ee882fc77db991",
+      "crc32": "818226be",
+      "sha1": "66721f1c21635ff80b3a7017e03e84ae47f37548",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-18T03:17:37.529917-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666077471",
+      "size": "47790",
+      "md5": "dfa9cc23df2e6ab2b13ef9b3c2e10f21",
+      "crc32": "565e3c11",
+      "sha1": "3fe2463771351fda3145e88834d6ae4e60e9699f",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-18T03:17:37.529917-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-18T03:17:37.529917-04:00.jpg",
+      "mtime": "1666077530",
+      "size": "9472",
+      "md5": "26a7603086a60f8ed0c163512ec13665",
+      "crc32": "9dbc2d59",
+      "sha1": "01d663d913acdf7414a209592fd291ec0aae620f"
+    },
+    {
+      "name": "uwogazette-2022-10-18T15:51:23.645507-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666122690",
+      "size": "23705",
+      "md5": "5a19bac48e6d34db19efabf579781076",
+      "crc32": "8b7947b6",
+      "sha1": "eb0a20237c0e0ce61de9155033f5c30c487b7220",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-18T15:51:23.645507-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666122692",
+      "size": "27743",
+      "md5": "138a044233404437cd03c2b6dacb451a",
+      "crc32": "6f4b93ac",
+      "sha1": "b6f149317ec9afc3c23081916f5026262b890985",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-18T15:51:23.645507-04:00.jpg",
+      "source": "original",
+      "mtime": "1666122688",
+      "size": "298342",
+      "md5": "84feaad3f70208c56e7a37736740381f",
+      "crc32": "41bcbb97",
+      "sha1": "ad90f982b661e576d2de011284cde6338f23c764",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-18T15:51:23.645507-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666122693",
+      "size": "1485",
+      "md5": "c3fb268fbc66ff225c59f9e0acaaf163",
+      "crc32": "19a66334",
+      "sha1": "cdc21f8031dbfdc4114b5e9a0287d32d00209837",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-18T15:51:23.645507-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666122695",
+      "size": "37513",
+      "md5": "d3d68c1b457ccdd7d1adbca6708b3791",
+      "crc32": "e48f3f9d",
+      "sha1": "482d6afa31de413d4208814c0c075a1f76ae801c",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-18T15:51:23.645507-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-18T15:51:23.645507-04:00.jpg",
+      "mtime": "1666122764",
+      "size": "9633",
+      "md5": "705e3f1128e29fbf97f3200c42757dfe",
+      "crc32": "cea2c000",
+      "sha1": "31141de676807f9ee6322f3ff0191e989bfa6007"
+    },
+    {
+      "name": "uwogazette-2022-10-19T03:27:20.358311-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666164448",
+      "size": "23747",
+      "md5": "ef7a51f542e871ed5c6dc6d84fbca1f4",
+      "crc32": "bdd4ef41",
+      "sha1": "19da227341db203f004fb85023ce206df04003fa",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-19T03:27:20.358311-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666164449",
+      "size": "27810",
+      "md5": "f1e7be78841809d66432ce91b198b7ca",
+      "crc32": "453964f2",
+      "sha1": "13105df84552225c6cfd3215d87bbdb25432e85e",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-19T03:27:20.358311-04:00.jpg",
+      "source": "original",
+      "mtime": "1666164446",
+      "size": "298612",
+      "md5": "9055eb1a52af2f7579fa1b0c50aa66fe",
+      "crc32": "47d2dd7d",
+      "sha1": "be87a710a83be04218d842ecea761a22b32658a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uwogazette-2022-10-19T03:27:20.358311-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666164451",
+      "size": "1486",
+      "md5": "7fc174f4dac1d5e49afac8cdf3c2bfab",
+      "crc32": "92b3a005",
+      "sha1": "754720f02440a16fd072982dbdd6f37800a42e7c",
+      "format": "JSON"
+    },
+    {
+      "name": "uwogazette-2022-10-19T03:27:20.358311-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666164453",
+      "size": "51656",
+      "md5": "e4e2acee892197bf76e26baea3d9c6ff",
+      "crc32": "8055ee54",
+      "sha1": "1f8d15829aafd2ab17d0ab2fd9f7e58a012d904b",
+      "format": "JSON"
+    },
+    {
       "name": "uwogazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "58e6acb37430e1f846a8a76fb68ce41bbd85fc61",
-      "mtime": "1665692392",
-      "size": "190425",
-      "md5": "73bac20c817caa79eb2dd0f4066a64cb",
-      "crc32": "beafda38",
-      "sha1": "22c02b6ef757e5e05aa97c21e67946cb3fb99ec8",
+      "btih": "28037b645f54aa7f683639b5070103bd54d968ad",
+      "mtime": "1666164523",
+      "size": "203792",
+      "md5": "7cf824513a442284ce5f4f1dcbd838fd",
+      "crc32": "3d02db91",
+      "sha1": "982180301a47007b84b3729c95f1a8329ee79c41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uwogazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61921bea409f7606bc49f5f2efa7254f",
+      "md5": "a706e253f8f594bf2dbaf3ea9025d0dd",
       "summation": "md5"
     },
     {
       "name": "uwogazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665692321",
-      "size": "1130496",
-      "md5": "cfec372c4427f16af2966326580856fc",
-      "crc32": "507eb382",
-      "sha1": "5e77594316a01ca8426b6794ec18378e3301620b",
+      "mtime": "1666164479",
+      "size": "1212416",
+      "md5": "e1a60817261355ae157ef1d56fed2ebf",
+      "crc32": "79ac88b5",
+      "sha1": "1d3a2b256352cd4d5966b971e19fcc5518708708",
       "format": "Metadata"
     },
     {
@@ -9276,9 +9925,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 895,
-  "item_last_updated": 1665692392,
-  "item_size": 61008225,
+  "files_count": 958,
+  "item_last_updated": 1666164523,
+  "item_size": 65164759,
   "metadata": {
     "identifier": "uwogazette-2022",
     "collection": [
@@ -9295,10 +9944,21 @@
     "publicdate": "2022-07-24 03:45:41",
     "addeddate": "2022-07-24 03:45:41"
   },
+  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "uniq": 1283749497,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445400693,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2095697819,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia601400.us.archive.org"
   ]
 }

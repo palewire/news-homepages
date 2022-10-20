@@ -1,5 +1,5 @@
 {
-  "created": 1665692197,
+  "created": 1666164336,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/telegramdotcom-2022",
@@ -2930,31 +2930,702 @@
       "sha1": "3cfe96d0a25567ecbc15d833a79ad9aae70b9101"
     },
     {
+      "name": "telegramdotcom-2022-10-14T04:06:41.176294-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665734806",
+      "size": "23594",
+      "md5": "8e426d6210c0ad914ffc6000a941c15b",
+      "crc32": "53a5928d",
+      "sha1": "7c485b86348fcb21c0d0d107841171e75cf1756e",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T04:06:41.176294-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665734807",
+      "size": "32984",
+      "md5": "9d435396c3b107c3db466c8083e8a414",
+      "crc32": "b6b6c1c9",
+      "sha1": "f12529f92a848cf1feb4f95d82ece78ed27a1c40",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T04:06:41.176294-04:00.jpg",
+      "source": "original",
+      "mtime": "1665734804",
+      "size": "317160",
+      "md5": "70940d4f28b580449e98e751e569d2e7",
+      "crc32": "592560f0",
+      "sha1": "55df5a5b63c2be97dca9764b5a89e254ab1abcbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T04:06:41.176294-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665734809",
+      "size": "1476",
+      "md5": "a7e2940fa0156f419172132da6508a4b",
+      "crc32": "a46c01a3",
+      "sha1": "bf82526802dca0ee68d1d5b141e4269d2efb376f",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T04:06:41.176294-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665734811",
+      "size": "78115",
+      "md5": "cdadc20a7101eb5084a0b7796cd071d8",
+      "crc32": "6085fbc7",
+      "sha1": "e7590647ffc7938643361dc78522d0ec6c66ba0b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T04:06:41.176294-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-14T04:06:41.176294-04:00.jpg",
+      "mtime": "1665734872",
+      "size": "9137",
+      "md5": "6549863beb07d8e7861ce694e1e44948",
+      "crc32": "fa7fb9e8",
+      "sha1": "b843d5f42275af5ee8751695684e492c5e3c197f"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T16:32:22.615001-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665779547",
+      "size": "22498",
+      "md5": "66cd5e646a3895fe0740496a1b8f788a",
+      "crc32": "dd139703",
+      "sha1": "2b495077ba9e340450e6ddbbe98e87866f59ac22",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T16:32:22.615001-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665779548",
+      "size": "31198",
+      "md5": "33c683f3871b5710b25c8ede4b782701",
+      "crc32": "1b446c87",
+      "sha1": "8ef29917beba9d867e8337e8f170285c3518bf9e",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T16:32:22.615001-04:00.jpg",
+      "source": "original",
+      "mtime": "1665779545",
+      "size": "262405",
+      "md5": "8449f6797eeea5efec8e46e4efe397f9",
+      "crc32": "200f3bbf",
+      "sha1": "59666b6e53b18c81f7d19c4b59eeb28c7cb134e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T16:32:22.615001-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665779550",
+      "size": "1477",
+      "md5": "a46854a55fe82df7520f5a9759737ff8",
+      "crc32": "7d278e1b",
+      "sha1": "0cf4ee11678716f4af19d2ef0c71dbe7d4137fce",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T16:32:22.615001-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665779551",
+      "size": "92294",
+      "md5": "dac09751a16290696a418e5e8b153d0f",
+      "crc32": "942a296f",
+      "sha1": "34d4fdc7eb0e30444748d1dedc1091fec43d5088",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-14T16:32:22.615001-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-14T16:32:22.615001-04:00.jpg",
+      "mtime": "1665779605",
+      "size": "9268",
+      "md5": "68e850d5468d55968966f8b2fd40f5ec",
+      "crc32": "b614ce91",
+      "sha1": "69606a51e6367981ac79953792ff4c4d9a4a10f5"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T03:55:37.967918-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665820542",
+      "size": "22449",
+      "md5": "e9290069a87e421ce0a52f8d09436251",
+      "crc32": "efd8cc04",
+      "sha1": "425dd165930b1def48d49b91948330d93a79b57b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T03:55:37.967918-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665820544",
+      "size": "35185",
+      "md5": "7f64d88aefd1cbb26733bf36051b04d7",
+      "crc32": "1a490fce",
+      "sha1": "778ca5812519ec9c47c38e34484649d2887f0c69",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T03:55:37.967918-04:00.jpg",
+      "source": "original",
+      "mtime": "1665820541",
+      "size": "272927",
+      "md5": "41c2fc2c4ba7f2b23cc2d087a2da477a",
+      "crc32": "1c0eb6e3",
+      "sha1": "f80619ecb03a67c2c8d8a9f165b55aebc4461553",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T03:55:37.967918-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665820546",
+      "size": "1477",
+      "md5": "07cddd0290784beec4ca2659b26b2de0",
+      "crc32": "014f917f",
+      "sha1": "9c361d21735e153403d886c0b4c22ac15c7b5397",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T03:55:37.967918-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665820548",
+      "size": "268",
+      "md5": "bddaf4cfc3fdb892b5cbead488203a77",
+      "crc32": "f4601c65",
+      "sha1": "b995dda34bf24f5e2fa38ac3a43263da5a7ef191",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T03:55:37.967918-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-15T03:55:37.967918-04:00.jpg",
+      "mtime": "1665820602",
+      "size": "9397",
+      "md5": "86e6c9875565e61c5a14a64de9ae29de",
+      "crc32": "1c75886f",
+      "sha1": "637f372caa3e1c3b59565c7a033faf42d203c805"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T15:53:18.647344-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665863603",
+      "size": "22363",
+      "md5": "98ca24fb287465c378b6bc36c01b3869",
+      "crc32": "18469a46",
+      "sha1": "d0dceee7220b77545d9e77f619b5d504d0c87aa9",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T15:53:18.647344-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665863604",
+      "size": "31972",
+      "md5": "ad92bd3c0db0b7290c4185c88cc028f6",
+      "crc32": "b60bd303",
+      "sha1": "7d4f806a6788facb3552df4b10d6ff95fa1c1d35",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T15:53:18.647344-04:00.jpg",
+      "source": "original",
+      "mtime": "1665863601",
+      "size": "323863",
+      "md5": "fcbbeb083f09fb3ccdfe1c2d8e6f4cc3",
+      "crc32": "0deae581",
+      "sha1": "d3fc18b3708a88297bae6be8449f60fb2ff37865",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T15:53:18.647344-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665863606",
+      "size": "1476",
+      "md5": "fc0987582fa4ad4af68cab0906e90db2",
+      "crc32": "6cdc700a",
+      "sha1": "5d45afd0d75c9207edb40bf6cf2b4b13485f97b2",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T15:53:18.647344-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665863607",
+      "size": "84380",
+      "md5": "ceebc04a84fb8811523ea2090cc83945",
+      "crc32": "c70373e1",
+      "sha1": "1ae151bdb9e5d98ed95e44a6a37a085b07ccac9e",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-15T15:53:18.647344-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-15T15:53:18.647344-04:00.jpg",
+      "mtime": "1665863659",
+      "size": "9486",
+      "md5": "4163b0033231005a5318dd85897b2a58",
+      "crc32": "59511023",
+      "sha1": "518fdef75f738e22924f7d6e27c9d75d202c1605"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T03:26:12.642500-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665905177",
+      "size": "23174",
+      "md5": "e85f726b975cd04cb11c0be3c1c5d40f",
+      "crc32": "9c73ae7e",
+      "sha1": "ddb941391198806da943a093155ea7c17a7d9ca7",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T03:26:12.642500-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665905179",
+      "size": "29942",
+      "md5": "91de391046c96dc5ea79143112a632bf",
+      "crc32": "105d5f11",
+      "sha1": "9faf2a1d49c99ba2ad9a0d198032da0d042952ca",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T03:26:12.642500-04:00.jpg",
+      "source": "original",
+      "mtime": "1665905175",
+      "size": "314365",
+      "md5": "dd4ee79756cda7eade64727b297106da",
+      "crc32": "3de1c50d",
+      "sha1": "e1c502046c258aaa2694b1798259a225c82e26b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T03:26:12.642500-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665905180",
+      "size": "1477",
+      "md5": "82ff261f7ae8b38f6e0d382ecaf384e8",
+      "crc32": "cbb5b80b",
+      "sha1": "07a5385423db85b2f917e73200290847a25fbcf7",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T03:26:12.642500-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665905182",
+      "size": "73762",
+      "md5": "a08619ef5757d98ff91c15cbf19000a8",
+      "crc32": "83acc23f",
+      "sha1": "4821ebbc360d6486fada7576711010c7d87c7cbe",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T03:26:12.642500-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-16T03:26:12.642500-04:00.jpg",
+      "mtime": "1665905238",
+      "size": "9408",
+      "md5": "d1cf780720f0526e6d0099ec7159c610",
+      "crc32": "f664f5c4",
+      "sha1": "219c1e1d0aae77041dd4d6a3e3bc436ec3bbdbd2"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T14:50:27.204552-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665946232",
+      "size": "21943",
+      "md5": "9c024054918676a0c7b46f7325f9f5a4",
+      "crc32": "e8a825a2",
+      "sha1": "4e083aad3496884c7cf2845d88bd85da1b92386f",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T14:50:27.204552-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665946234",
+      "size": "29097",
+      "md5": "928a177b17d565e5feed7b7df341ab75",
+      "crc32": "d7473fbf",
+      "sha1": "8560c5c72af4a88b938e9fcfd39756c04381e997",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T14:50:27.204552-04:00.jpg",
+      "source": "original",
+      "mtime": "1665946230",
+      "size": "272853",
+      "md5": "71c8aa5d137a6419767de1b74834fd22",
+      "crc32": "54afb86e",
+      "sha1": "fb03d6edb03e278dc814b2e05803862dcd5279ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T14:50:27.204552-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665946235",
+      "size": "1477",
+      "md5": "a137e86da65aa6b0492355f80acba504",
+      "crc32": "f7d8f301",
+      "sha1": "be29a4a27b06a8af49f30cd10002b15237c1e687",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T14:50:27.204552-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665946237",
+      "size": "103109",
+      "md5": "6c9ced7932cc666c2547c34812eaaf26",
+      "crc32": "ababda24",
+      "sha1": "12879ec5f987f395ed4971514cf8447810316e95",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-16T14:50:27.204552-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-16T14:50:27.204552-04:00.jpg",
+      "mtime": "1665946312",
+      "size": "9192",
+      "md5": "f36a72b05c1b5432a10a90e1996c3cd4",
+      "crc32": "48b8f5fa",
+      "sha1": "012315bb289111e4407723d2098218d75df2cb02"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T03:46:29.364973-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665992799",
+      "size": "23264",
+      "md5": "7852d0050b5da1b0e790d980823e6a51",
+      "crc32": "e1bfbeaf",
+      "sha1": "9135005d2c15a3af7dccb5cc7efc0004b4a0e8a9",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T03:46:29.364973-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665992800",
+      "size": "40246",
+      "md5": "cd5f8211b78357f28f7243f370ad1e1b",
+      "crc32": "57e875c8",
+      "sha1": "9552985b8e58bdb3a5bd01709997b88656199a8b",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T03:46:29.364973-04:00.jpg",
+      "source": "original",
+      "mtime": "1665992797",
+      "size": "252945",
+      "md5": "562c43c763bad3ee084079216601a75f",
+      "crc32": "2ee8c7a5",
+      "sha1": "53cec8a6899721508ff85e74d95ead21c139bf8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T03:46:29.364973-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665992802",
+      "size": "1477",
+      "md5": "6eb671e95abfad06d137e47208976b96",
+      "crc32": "efc47afa",
+      "sha1": "a3a9107029a8db5c940a597bea6c56ea655e6394",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T03:46:29.364973-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665992804",
+      "size": "91396",
+      "md5": "2835b56a801cd2038139e07b9c24e5d4",
+      "crc32": "afad706f",
+      "sha1": "a67ae3333e274b64a22df9cb1b4bc89671c2afe4",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T03:46:29.364973-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-17T03:46:29.364973-04:00.jpg",
+      "mtime": "1665992860",
+      "size": "9084",
+      "md5": "1895e313bd71419661f9479232b8fea2",
+      "crc32": "a4449134",
+      "sha1": "ae58c675c49fc52bab7a95d9d0e12122b7fabc00"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T16:03:35.855362-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666037024",
+      "size": "23743",
+      "md5": "968cac2fa02c84bfcb0f18c2b6ed9dad",
+      "crc32": "50491ac2",
+      "sha1": "1a408795a04dbdd56fd7dfe58230444de0d80677",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T16:03:35.855362-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666037026",
+      "size": "34423",
+      "md5": "84694e7121eae74ca732da47d16aa45b",
+      "crc32": "e20e7bd8",
+      "sha1": "104facead39eb05b5eaff8f251a960cd4978dcb9",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T16:03:35.855362-04:00.jpg",
+      "source": "original",
+      "mtime": "1666037022",
+      "size": "275869",
+      "md5": "b7ee168c5ae3af0e81744fe38c8e2ffa",
+      "crc32": "8bd34f7c",
+      "sha1": "819ef7e002595d220446aec247594f7d6c4df933",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T16:03:35.855362-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666037028",
+      "size": "1477",
+      "md5": "f5e8cb9cf6ec48dd18706739f00e26d1",
+      "crc32": "25709915",
+      "sha1": "36181d49ba3b27b1bb687acef623e9fba84f06c6",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T16:03:35.855362-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666037030",
+      "size": "93648",
+      "md5": "731258ea346a15dd0db98b02b2b9796a",
+      "crc32": "5a7cdea7",
+      "sha1": "ec9a45aa04490a1391016a892f65d4093eaaefa9",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-17T16:03:35.855362-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-17T16:03:35.855362-04:00.jpg",
+      "mtime": "1666037084",
+      "size": "9499",
+      "md5": "754664c0990fec830c909ead5ac0c1bf",
+      "crc32": "ee665e75",
+      "sha1": "9fe1635817efb185cf86e428cccc540def7041ad"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T03:15:03.687598-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666077309",
+      "size": "24545",
+      "md5": "e458adfc21fc711d40a10dabf7fc6a9b",
+      "crc32": "1f6ed0a8",
+      "sha1": "78d2a03c3750e1f8db75ffeafeb4e3f2bb5a1a92",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T03:15:03.687598-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666077311",
+      "size": "30452",
+      "md5": "e12c2c77c503d3bc77ae666e0f46c169",
+      "crc32": "e5217caf",
+      "sha1": "324de8756b405a3205d33a395624ed4b52f74258",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T03:15:03.687598-04:00.jpg",
+      "source": "original",
+      "mtime": "1666077307",
+      "size": "266041",
+      "md5": "b72a1a84d3b93d4097cbc65b7bad3153",
+      "crc32": "64490131",
+      "sha1": "442fef2966891fb06afd26404a4ab3c2270a9d08",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T03:15:03.687598-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666077315",
+      "size": "1476",
+      "md5": "0ecb389e82f2616999d654891382c045",
+      "crc32": "732cafa0",
+      "sha1": "3f37e971e64282eae672381fa5e41f39a3b5872d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T03:15:03.687598-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666077317",
+      "size": "138696",
+      "md5": "d18fcae3f93b016e9d568d22d2594cab",
+      "crc32": "0ed2b865",
+      "sha1": "9295d75bdc7a1479f10fad753c0f3ee78d98acd8",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T03:15:03.687598-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-18T03:15:03.687598-04:00.jpg",
+      "mtime": "1666077524",
+      "size": "9180",
+      "md5": "ef43b4a2cac93e4814132ba8158edc29",
+      "crc32": "dac1742d",
+      "sha1": "b4bf538f9d2748e45fb396f7100b5eb3e906cd1c"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T15:47:21.603348-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666122445",
+      "size": "22415",
+      "md5": "2932eb876ed2bc53af06c3f3b86591d7",
+      "crc32": "5a1df01f",
+      "sha1": "c97b636f54da6b3e488010cfcb2521d730f92a42",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T15:47:21.603348-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666122446",
+      "size": "30969",
+      "md5": "2f44547ef7ea80eda8c284dc0d540da6",
+      "crc32": "c2916c3d",
+      "sha1": "cf629aea19df07977809f8f0c22b56c871ea7b04",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T15:47:21.603348-04:00.jpg",
+      "source": "original",
+      "mtime": "1666122443",
+      "size": "262251",
+      "md5": "af6a91293c7e8247a1e1e59cc46dc673",
+      "crc32": "b0926320",
+      "sha1": "3dd0bf95bb8b9659e240e4985b27edde662db46a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T15:47:21.603348-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666122448",
+      "size": "1476",
+      "md5": "02a101698b82991966dfe25390f5e95b",
+      "crc32": "9d93007c",
+      "sha1": "b5af01f238ab5201ee54a38a8b48c190741181bf",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T15:47:21.603348-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666122450",
+      "size": "87014",
+      "md5": "208c0e394bd36199e2e64a35a7650cd8",
+      "crc32": "1b8623ec",
+      "sha1": "7dd79d3345d0766462fc7634345b827eaed19214",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-18T15:47:21.603348-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-18T15:47:21.603348-04:00.jpg",
+      "mtime": "1666122519",
+      "size": "8937",
+      "md5": "6a8247581f5c83c17ff7095a442ff145",
+      "crc32": "e898cef1",
+      "sha1": "0b9d458b318f820b880a6fae777a5d9505317c20"
+    },
+    {
+      "name": "telegramdotcom-2022-10-19T03:24:38.153929-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666164282",
+      "size": "22359",
+      "md5": "f38a073b9066c4ab4787d4ca92e74883",
+      "crc32": "4dcdde53",
+      "sha1": "c2a97a089f499df01e3406932daab8db2016b201",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-19T03:24:38.153929-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666164283",
+      "size": "31979",
+      "md5": "63a67edc322373d6810f43f1398560e1",
+      "crc32": "be8614a4",
+      "sha1": "c9b132bc064cf27bf8cb706903e568e7034c8820",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-19T03:24:38.153929-04:00.jpg",
+      "source": "original",
+      "mtime": "1666164280",
+      "size": "304017",
+      "md5": "098595294fdb26f43a888a19dca73326",
+      "crc32": "cc272fc7",
+      "sha1": "41c319bb8a09ae60a66531e4c8f3b95f1e27406a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-19T03:24:38.153929-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666164285",
+      "size": "1477",
+      "md5": "734ea9590a0cc99998cab857740b6716",
+      "crc32": "a06a2777",
+      "sha1": "af144e5dda1a755db662fbf96116cfcdbee1bd56",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-19T03:24:38.153929-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666164288",
+      "size": "79237",
+      "md5": "1784c178e9af7c2f5c6f9c518c04cdb7",
+      "crc32": "9b1af44f",
+      "sha1": "05f40ffec4d4bd0e9402a8ab430532e0a7cae2a8",
+      "format": "JSON"
+    },
+    {
       "name": "telegramdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c0f889a704959c6ce20672c1b5531e6e1f203e6",
-      "mtime": "1665692190",
-      "size": "62763",
-      "md5": "bef2b71263ba0baf1afc38697e7b20f5",
-      "crc32": "14cfaef9",
-      "sha1": "88e49c69d2ba8165c66baaa56f3b2984297c5ec4",
+      "btih": "bce7fb3cb2e68de586559b67cd583eb812f622cd",
+      "mtime": "1666164331",
+      "size": "76846",
+      "md5": "5b893827361cd2b21ff336ddbd1998f2",
+      "crc32": "ce48dee0",
+      "sha1": "ef542e1a073054f3d6c8a132ad8f05d28c659624",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegramdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f82260a6682be9202ace97dc215e99a6",
+      "md5": "e0ae4e11dd7324996887ada3d42da4dd",
       "summation": "md5"
     },
     {
       "name": "telegramdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665692138",
-      "size": "385024",
-      "md5": "d84e2dfbbc4a9ff938df9a942c4fc01f",
-      "crc32": "6ec288df",
-      "sha1": "31d7f5efa85f728caa21a893f023a777c1c61f98",
+      "mtime": "1666164293",
+      "size": "466944",
+      "md5": "6d0c992d75bfbc7b7501a8138c0a0802",
+      "crc32": "fa2bf5d7",
+      "sha1": "908b0736722cf5b6de117fd51037bbdfaf65f5d2",
       "format": "Metadata"
     },
     {
@@ -2968,9 +3639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 287,
-  "item_last_updated": 1665692190,
-  "item_size": 20781764,
+  "files_count": 352,
+  "item_last_updated": 1666164331,
+  "item_size": 25644007,
   "metadata": {
     "identifier": "telegramdotcom-2022",
     "collection": [
@@ -2987,10 +3658,21 @@
     "publicdate": "2022-09-20 19:29:58",
     "addeddate": "2022-09-20 19:29:58"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1280552209,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445398358,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1001401076,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

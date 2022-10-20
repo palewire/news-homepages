@@ -1,5 +1,5 @@
 {
-  "created": 1665658168,
+  "created": 1666221029,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/baltbizonline-2022",
@@ -10858,31 +10858,837 @@
       "sha1": "0ebd2acae5bbb17610f03b5234b84573996a7cd8"
     },
     {
+      "name": "baltbizonline-2022-10-13T19:05:43.741406-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702347",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-13T19:05:43.741406-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702349",
+      "size": "20103",
+      "md5": "cc69544eadf97764a0103b5ba14857df",
+      "crc32": "28c3bd4b",
+      "sha1": "f835d9c7e48ee816e431b3e32a40957d0ca2f25f",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-13T19:05:43.741406-04:00.jpg",
+      "source": "original",
+      "mtime": "1665702345",
+      "size": "234111",
+      "md5": "93860112afa0621c44a5c8a0c3d0d1ed",
+      "crc32": "424e78bb",
+      "sha1": "956002b00f9f13ab36ee7cd533e9199f8ec4cb76",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-13T19:05:43.741406-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702351",
+      "size": "1594",
+      "md5": "cbc2006287f85a469e680de132733b31",
+      "crc32": "3bbc42d7",
+      "sha1": "1d04ed29a44cc8cdb5bf5a86a16543e1d18337a0",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-13T19:05:43.741406-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702353",
+      "size": "281674",
+      "md5": "82b5643732380572d930536319b174b4",
+      "crc32": "76c8e638",
+      "sha1": "20e7234b5a141ed582461980fb09a9551ca3d3b2",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-13T19:05:43.741406-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-13T19:05:43.741406-04:00.jpg",
+      "mtime": "1665702439",
+      "size": "8429",
+      "md5": "d52a87d861e82e1e0d07fe63488bb347",
+      "crc32": "0984a6be",
+      "sha1": "178d065fab82424970632a9c4b60947311fe680b"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T06:57:21.078020-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665745064",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T06:57:21.078020-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665745065",
+      "size": "20103",
+      "md5": "53026b1ff6f4f47698c6f4c13bdb9d31",
+      "crc32": "55535064",
+      "sha1": "11d9ba2b8a0c3817b8f013ef56d99e0be4fa0efd",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T06:57:21.078020-04:00.jpg",
+      "source": "original",
+      "mtime": "1665745062",
+      "size": "235952",
+      "md5": "a70f9a6eeac292c5737b9cf8ceb62a88",
+      "crc32": "1047827a",
+      "sha1": "9800f7f0006397043979c0ba8ae09d71cff31204",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T06:57:21.078020-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665745067",
+      "size": "1594",
+      "md5": "ff53dced53ffeeb1b98262c60c3a4768",
+      "crc32": "0cb7860e",
+      "sha1": "3b1d4c4b1fe6d9b4b86a699aff29a5a245d21cd6",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T06:57:21.078020-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665745068",
+      "size": "715958",
+      "md5": "c81993d1cca2da78dc119d929b8bfb43",
+      "crc32": "29f1016d",
+      "sha1": "d280d007a601472b36d9bbf8ca56d2dcffd8ef0b",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T06:57:21.078020-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-14T06:57:21.078020-04:00.jpg",
+      "mtime": "1665745126",
+      "size": "8506",
+      "md5": "9e9547eb676090ea1cb4aef4ce0d3b35",
+      "crc32": "90f13583",
+      "sha1": "ca6a1ada98f13eb3dd8500ad13f6499defd3f396"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T19:06:22.634349-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788795",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T19:06:22.634349-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788796",
+      "size": "19972",
+      "md5": "81a8f7dacdb5e0fdda0131673f78605f",
+      "crc32": "1918bcbf",
+      "sha1": "1ecb3cd97d7d565fb4e2b1e45cc14b30f199ab5b",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T19:06:22.634349-04:00.jpg",
+      "source": "original",
+      "mtime": "1665788789",
+      "size": "220040",
+      "md5": "a03d0ca084468830347d5299a604a4da",
+      "crc32": "db9e8491",
+      "sha1": "034aa164b935b59343014013c5c716611922e0b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T19:06:22.634349-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788798",
+      "size": "1594",
+      "md5": "0e96a4291f449b16cd250899d0c46be5",
+      "crc32": "555a2bf5",
+      "sha1": "c340324c274c882cee66d59b6935fd8b33899b15",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T19:06:22.634349-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665788800",
+      "size": "273331",
+      "md5": "6ccd0ee3ad05b3bc136df923bb8e3f8b",
+      "crc32": "d4d49d76",
+      "sha1": "858be64ab3048e11d4b256995aceaa1446cd2e93",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-14T19:06:22.634349-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-14T19:06:22.634349-04:00.jpg",
+      "mtime": "1665788876",
+      "size": "8330",
+      "md5": "980ba34cd65ac3342cad00e7165823f3",
+      "crc32": "b23d917f",
+      "sha1": "4c6fa53370e557658f89dbac75b26f0179bb7233"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T06:57:22.848582-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831453",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T06:57:22.848582-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831454",
+      "size": "19972",
+      "md5": "81a8f7dacdb5e0fdda0131673f78605f",
+      "crc32": "1918bcbf",
+      "sha1": "1ecb3cd97d7d565fb4e2b1e45cc14b30f199ab5b",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T06:57:22.848582-04:00.jpg",
+      "source": "original",
+      "mtime": "1665831452",
+      "size": "219517",
+      "md5": "7c984f6fafdf46f652d8afa9d454d2e4",
+      "crc32": "b7d44328",
+      "sha1": "ed15cd09209aca69e3747fdf28fdbbb4d63fd1cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T06:57:22.848582-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831456",
+      "size": "1590",
+      "md5": "cdc215a324c386303626ac1053f8b701",
+      "crc32": "6b44f6d0",
+      "sha1": "11b7e7979b49752b8e049e2aeed83715cfbff145",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T06:57:22.848582-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831457",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T06:57:22.848582-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-15T06:57:22.848582-04:00.jpg",
+      "mtime": "1665831523",
+      "size": "8347",
+      "md5": "63c39aec48b4d77b859602affc88a45d",
+      "crc32": "b4043dac",
+      "sha1": "f4b36a7604adc7dedc426d6e93f21630dd30ca15"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T19:04:56.188066-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665875106",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T19:04:56.188066-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665875108",
+      "size": "23327",
+      "md5": "6c978f73b38a2d2f6b466ebc36dc4112",
+      "crc32": "9c20f34d",
+      "sha1": "4af5ddeabfa2e213a8e0e1a27939992000ebaf1a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T19:04:56.188066-04:00.jpg",
+      "source": "original",
+      "mtime": "1665875105",
+      "size": "219517",
+      "md5": "7c984f6fafdf46f652d8afa9d454d2e4",
+      "crc32": "b7d44328",
+      "sha1": "ed15cd09209aca69e3747fdf28fdbbb4d63fd1cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T19:04:56.188066-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665875110",
+      "size": "1593",
+      "md5": "bac3333658cb00e8020246bda29deaab",
+      "crc32": "78f32658",
+      "sha1": "061bde1f35634b726b225da40b8170cf2b9d69ba",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T19:04:56.188066-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665875112",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-15T19:04:56.188066-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-15T19:04:56.188066-04:00.jpg",
+      "mtime": "1665875302",
+      "size": "8347",
+      "md5": "63c39aec48b4d77b859602affc88a45d",
+      "crc32": "b4043dac",
+      "sha1": "f4b36a7604adc7dedc426d6e93f21630dd30ca15"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T06:54:11.604225-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917663",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T06:54:11.604225-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917665",
+      "size": "19972",
+      "md5": "81a8f7dacdb5e0fdda0131673f78605f",
+      "crc32": "1918bcbf",
+      "sha1": "1ecb3cd97d7d565fb4e2b1e45cc14b30f199ab5b",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T06:54:11.604225-04:00.jpg",
+      "source": "original",
+      "mtime": "1665917661",
+      "size": "219517",
+      "md5": "7c984f6fafdf46f652d8afa9d454d2e4",
+      "crc32": "b7d44328",
+      "sha1": "ed15cd09209aca69e3747fdf28fdbbb4d63fd1cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T06:54:11.604225-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917666",
+      "size": "1594",
+      "md5": "1c54d1d99fb71e32015fc647a28783a1",
+      "crc32": "d6cba3e7",
+      "sha1": "b6e35d0ed14fe18805bce7597df0f7f44343f92a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T06:54:11.604225-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917668",
+      "size": "114",
+      "md5": "a845dfb6b7210686703f5ca94765b5f1",
+      "crc32": "6f03f45f",
+      "sha1": "9e84c6bf9554d63723a144f4d4b85a0e5572b1e9",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T06:54:11.604225-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-16T06:54:11.604225-04:00.jpg",
+      "mtime": "1665917726",
+      "size": "8347",
+      "md5": "63c39aec48b4d77b859602affc88a45d",
+      "crc32": "b4043dac",
+      "sha1": "f4b36a7604adc7dedc426d6e93f21630dd30ca15"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T19:00:17.971230-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961229",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T19:00:17.971230-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961231",
+      "size": "23281",
+      "md5": "61bba77bedc37c5108b1197b5dd2abaa",
+      "crc32": "48d5fb6b",
+      "sha1": "c94cc5b8b01652ae369d81cde80bd0fd2b27220f",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T19:00:17.971230-04:00.jpg",
+      "source": "original",
+      "mtime": "1665961227",
+      "size": "219517",
+      "md5": "7c984f6fafdf46f652d8afa9d454d2e4",
+      "crc32": "b7d44328",
+      "sha1": "ed15cd09209aca69e3747fdf28fdbbb4d63fd1cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T19:00:17.971230-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961232",
+      "size": "1590",
+      "md5": "2a492b002dc912195600c1bc04bdb70f",
+      "crc32": "7753bf8b",
+      "sha1": "c61403a62ac95d80a83bbe520516dae012c99d06",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T19:00:17.971230-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961234",
+      "size": "6352",
+      "md5": "68ef2f31f75fc2f596400477869b4ea4",
+      "crc32": "aded197b",
+      "sha1": "dd22af063b2eb47e5ad4d710373255f8b961a407",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-16T19:00:17.971230-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-16T19:00:17.971230-04:00.jpg",
+      "mtime": "1665961298",
+      "size": "8347",
+      "md5": "63c39aec48b4d77b859602affc88a45d",
+      "crc32": "b4043dac",
+      "sha1": "f4b36a7604adc7dedc426d6e93f21630dd30ca15"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T06:50:15.994801-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003825",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T06:50:15.994801-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003827",
+      "size": "23243",
+      "md5": "dfff77f5162d3f5791acb130d9dbdff3",
+      "crc32": "6ee88ed4",
+      "sha1": "df1475520e348915e0a846ce528b5d2bc399d3bc",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T06:50:15.994801-04:00.jpg",
+      "source": "original",
+      "mtime": "1666003823",
+      "size": "240884",
+      "md5": "39c4175d8aa65e6973df32d4c49700df",
+      "crc32": "7fa52a7b",
+      "sha1": "c0a5ad1874d2d2a5f0e001533eeb3247acbc7c39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T06:50:15.994801-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003829",
+      "size": "1593",
+      "md5": "56c681bec204ad56f49698bd4aece061",
+      "crc32": "aca68914",
+      "sha1": "3312c6fc99689fe3feb4581836944cbf838d0a7f",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T06:50:15.994801-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003830",
+      "size": "239211",
+      "md5": "361ac0b35c56feacf4eea8fbcda8bc91",
+      "crc32": "a4b5d8ae",
+      "sha1": "d85e8c98528b790a0325058694312bb269fcee74",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T06:50:15.994801-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-17T06:50:15.994801-04:00.jpg",
+      "mtime": "1666003895",
+      "size": "8637",
+      "md5": "82c04b55fc9203bfdd8983af83dd5fad",
+      "crc32": "900f5b5a",
+      "sha1": "3a6ccd71f34070cc8d3c56938f430bf204b6f4e8"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T18:54:25.844310-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047276",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T18:54:25.844310-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047278",
+      "size": "20066",
+      "md5": "cd6b093a29f2cacf5cc65a75371e4288",
+      "crc32": "63da1d45",
+      "sha1": "134c248b6250ad8132014b1ca71c91bcd74bb444",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T18:54:25.844310-04:00.jpg",
+      "source": "original",
+      "mtime": "1666047274",
+      "size": "263946",
+      "md5": "24ec6cbe54c9dab0af75234ce036e517",
+      "crc32": "1fbcc13d",
+      "sha1": "85686051a8fda197a189d4cc0f7c4fbc10514cbd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T18:54:25.844310-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047280",
+      "size": "1588",
+      "md5": "5a9466b236c7605367ba10435cefdc4a",
+      "crc32": "87631c54",
+      "sha1": "bada14fa9d0dfd9e22fa290619492baa46a2c10e",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T18:54:25.844310-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047282",
+      "size": "2519",
+      "md5": "5a79475225c3fd1560487ad631a7c2d5",
+      "crc32": "2eb4ce69",
+      "sha1": "30ef31a017ba4ce83479bc2f7b447491065158d1",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-17T18:54:25.844310-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-17T18:54:25.844310-04:00.jpg",
+      "mtime": "1666047354",
+      "size": "8701",
+      "md5": "dea887f5a7775a8ddc4381cde15bffd7",
+      "crc32": "48a5d3a0",
+      "sha1": "64f94a39d3a2a179c3f50b388ccd62fadd91a5bb"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T06:54:51.288582-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666090493",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T06:54:51.288582-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666090495",
+      "size": "20066",
+      "md5": "cd6b093a29f2cacf5cc65a75371e4288",
+      "crc32": "63da1d45",
+      "sha1": "134c248b6250ad8132014b1ca71c91bcd74bb444",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T06:54:51.288582-04:00.jpg",
+      "source": "original",
+      "mtime": "1666090492",
+      "size": "260436",
+      "md5": "ac12a5c8af7c263fb2194f76a2fc93c4",
+      "crc32": "1240b23a",
+      "sha1": "607bfbf7283504c9e7db14951f157ec16b5b794d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T06:54:51.288582-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666090497",
+      "size": "1593",
+      "md5": "51d2e0465ec2fc4d0df32e19e0ea0ac5",
+      "crc32": "5f7f6aab",
+      "sha1": "b5e2271556835957767213321847bad626d8d8f9",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T06:54:51.288582-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666090499",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T06:54:51.288582-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-18T06:54:51.288582-04:00.jpg",
+      "mtime": "1666090569",
+      "size": "8699",
+      "md5": "52b0e0021b0870c032fd2ecb6123b1b0",
+      "crc32": "270bd27e",
+      "sha1": "11bbf01e3b578eef5085ef94115c09229d92fb38"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T19:11:23.006915-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134703",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T19:11:23.006915-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134705",
+      "size": "23338",
+      "md5": "0ec17ce230941ee4fece66d946b0f41c",
+      "crc32": "b508694d",
+      "sha1": "af298e478b8b1425302c4ca3ca1e2620ad0f922c",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T19:11:23.006915-04:00.jpg",
+      "source": "original",
+      "mtime": "1666134702",
+      "size": "244009",
+      "md5": "0b1941a064c748b4de1169c5ae5dcd5a",
+      "crc32": "ebf9368f",
+      "sha1": "4a1c205166fce49ec955183de59e8995be9f99bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T19:11:23.006915-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134706",
+      "size": "1587",
+      "md5": "d01bce70fa9d70661ffb13c8ea89319a",
+      "crc32": "59637173",
+      "sha1": "8e610db6950da4ef5b1a758f78d8d643a2c20bd8",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T19:11:23.006915-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134708",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-18T19:11:23.006915-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-18T19:11:23.006915-04:00.jpg",
+      "mtime": "1666160189",
+      "size": "8670",
+      "md5": "8911d63d384250942f417a8ad5dfc4d6",
+      "crc32": "9e936dda",
+      "sha1": "09095098d8a3d24b078fd9287526f82e6a56e48f"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176887",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176889",
+      "size": "23386",
+      "md5": "c61cfa1a26e2c282352be9f8bd97d9bd",
+      "crc32": "e8e6c810",
+      "sha1": "c2143a9b5ad07d0a26d07c4286a7d803b217c9c5",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.jpg",
+      "source": "original",
+      "mtime": "1666176886",
+      "size": "242818",
+      "md5": "c692f4b62f7d6ec9038fd3f08b7f0482",
+      "crc32": "076ae311",
+      "sha1": "780d334718bb77e2d660cc1fceca12ee055c1b69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176891",
+      "size": "1586",
+      "md5": "bed7425407c25ced46e9ebe6520a4875",
+      "crc32": "953f5553",
+      "sha1": "9bc211715c76aa7d90a826e081c1dcee68d907b8",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176893",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T06:54:23.805772-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-19T06:54:23.805772-04:00.jpg",
+      "mtime": "1666196519",
+      "size": "8666",
+      "md5": "434f4873e4807a644eab9476ea6c7118",
+      "crc32": "6a1f3514",
+      "sha1": "fee10dd5fa88043f3e487a5c200ff89f3a116a3f"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T19:06:44.418438-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666220813",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T19:06:44.418438-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666220814",
+      "size": "27364",
+      "md5": "309fffd1ca87331051b7cfbe23fcdb28",
+      "crc32": "d5da38f1",
+      "sha1": "e677395650a68db4a1788b4fb7f35b60f38f1f9d",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T19:06:44.418438-04:00.jpg",
+      "source": "original",
+      "mtime": "1666220811",
+      "size": "264342",
+      "md5": "2f89be7101359628cbf30e14bfddd61e",
+      "crc32": "ef4d93f5",
+      "sha1": "807ca36a8aa3b0d96910eb1606154fed595b1cbb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T19:06:44.418438-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666220816",
+      "size": "1594",
+      "md5": "8138a018ac19fa8ce7301ff3aea7f6cc",
+      "crc32": "e600a87e",
+      "sha1": "273fd75a128ffb82682314941fdd38eb25e8c539",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T19:06:44.418438-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666220818",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbizonline-2022-10-19T19:06:44.418438-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-19T19:06:44.418438-04:00.jpg",
+      "mtime": "1666220978",
+      "size": "8803",
+      "md5": "5a7b1968b9276248c2573304af8c8545",
+      "crc32": "dba71c4b",
+      "sha1": "ccddfed0027caab8cd740a4be40d1346436953dc"
+    },
+    {
       "name": "baltbizonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ded38fc9c4ef9b6bf8cacf68cd1e0aeb0fdbb4fd",
-      "mtime": "1665658155",
-      "size": "227329",
-      "md5": "837ef89ebe8e245246cfc42eae0cb625",
-      "crc32": "8942c3b6",
-      "sha1": "7fa31f5c16f057c856c2257f88a2b2142071749b",
+      "btih": "7869e9437f5a1ceaf6bbbdfa3518185222851bce",
+      "mtime": "1666220990",
+      "size": "244092",
+      "md5": "8ba5f3042a6f937103af93a1ac4217e2",
+      "crc32": "64be724e",
+      "sha1": "9880503886e2aa441579e838659a990dc6f777e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbizonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87dbaa5418516f7c36f98c59018ba289",
+      "md5": "5cc9850480cf83e2ca057d4313ebf106",
       "summation": "md5"
     },
     {
       "name": "baltbizonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658028",
-      "size": "1335296",
-      "md5": "08a75c8dc3c42153f54add2de83f93ef",
-      "crc32": "0949a26d",
-      "sha1": "a4c0b3f91756ce335d363122c43a832fa8267565",
+      "mtime": "1666220823",
+      "size": "1433600",
+      "md5": "c092ade6847299d5acc89f67b0e4c02f",
+      "crc32": "ccacf7c8",
+      "sha1": "435b96feeffd60cec1140eb689f9c3502b14ce0d",
       "format": "Metadata"
     },
     {
@@ -10896,9 +11702,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1052,
-  "item_last_updated": 1665658155,
-  "item_size": 86969405,
+  "files_count": 1130,
+  "item_last_updated": 1666220990,
+  "item_size": 92106981,
   "metadata": {
     "identifier": "baltbizonline-2022",
     "collection": [
@@ -10915,10 +11721,10 @@
     "publicdate": "2022-07-13 02:24:31",
     "addeddate": "2022-07-13 02:24:31"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 1658277760,
+  "server": "ia902506.us.archive.org",
+  "uniq": 1582845975,
   "workable_servers": [
-    "ia802506.us.archive.org",
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

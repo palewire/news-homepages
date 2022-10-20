@@ -1,5 +1,5 @@
 {
-  "created": 1665658157,
+  "created": 1666220982,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/berkeleyside-2022",
@@ -19016,31 +19016,837 @@
       "sha1": "be3a2d0d695a023748296a2d66e47d029a33cd37"
     },
     {
+      "name": "berkeleyside-2022-10-13T16:05:44.245479-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702353",
+      "size": "34939",
+      "md5": "b62eb917d4134a9beac03965c60c4f95",
+      "crc32": "718936f6",
+      "sha1": "720747b44f501cc2eca3751b6db91ed3a975b7b4",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-13T16:05:44.245479-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702355",
+      "size": "30968",
+      "md5": "1b192e60b2133ac79e4d898286bbac5e",
+      "crc32": "2559b57e",
+      "sha1": "6d0df706fcf127bef24615fae2ec0a7246b508b9",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-13T16:05:44.245479-07:00.jpg",
+      "source": "original",
+      "mtime": "1665702351",
+      "size": "305613",
+      "md5": "2d79436b7270c5f116cffde25a4a905d",
+      "crc32": "58ade598",
+      "sha1": "a3d795150e3328a9e1f648c0d1267163dd8fc51c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-13T16:05:44.245479-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702356",
+      "size": "1510",
+      "md5": "c1b0c13954ed4385ae2762c7c2793934",
+      "crc32": "282fff24",
+      "sha1": "004684e47e6135c94db90b913b91a3d66895a051",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-13T16:05:44.245479-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702358",
+      "size": "49629",
+      "md5": "1e5760421e98314e505480fe77500965",
+      "crc32": "4290301d",
+      "sha1": "50259afc161de75cc9bb35c88a0c218a7503d23d",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-13T16:05:44.245479-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-13T16:05:44.245479-07:00.jpg",
+      "mtime": "1665702443",
+      "size": "9768",
+      "md5": "c2b06b7319610dc99ca747c64c7c29bf",
+      "crc32": "692c1f3f",
+      "sha1": "4f7a72c50fd9763888479226fc23ee3a58e91b5d"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T03:56:20.816108-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665744984",
+      "size": "34444",
+      "md5": "e0c0cdf1f624c064dce31682ecf78f36",
+      "crc32": "c18166c9",
+      "sha1": "c66bb5262e8c7b3a51f092f9a001ac5e8e5d1461",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T03:56:20.816108-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665744986",
+      "size": "30640",
+      "md5": "5644cd176a5c1848f2cb8eeb0443d809",
+      "crc32": "75f0be8d",
+      "sha1": "40858b35b7f1ed972c50943b58c9050e5c52ba1b",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T03:56:20.816108-07:00.jpg",
+      "source": "original",
+      "mtime": "1665744982",
+      "size": "306247",
+      "md5": "74e88f58a66c333e2965648efc50fb7e",
+      "crc32": "31d70a94",
+      "sha1": "5e28e464344c7b73a03f1acb40746505ce882382",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T03:56:20.816108-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665744988",
+      "size": "1510",
+      "md5": "8458c61bd391557a26f0be8852937336",
+      "crc32": "58c927ba",
+      "sha1": "b49a4293ea26e0bac979650f0c7911880fb61a71",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T03:56:20.816108-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665744990",
+      "size": "52903",
+      "md5": "e9666bf6a7e1f99348402e2277288831",
+      "crc32": "22fe88b1",
+      "sha1": "a7672a085427ea90661b9f7244bc1bb707c8fe91",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T03:56:20.816108-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-14T03:56:20.816108-07:00.jpg",
+      "mtime": "1665745100",
+      "size": "9766",
+      "md5": "554fb1cb9ba313db716e9f4042a9a58c",
+      "crc32": "05789a45",
+      "sha1": "79037763b9900236a16c8b5dbe034216666e0d8a"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T16:05:18.315884-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788723",
+      "size": "35725",
+      "md5": "09d70a8966c8ca6f8c50ce375d0a770f",
+      "crc32": "5879d282",
+      "sha1": "8ea95bd7049dacd427593a03b5710f677dbe7621",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T16:05:18.315884-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788727",
+      "size": "30958",
+      "md5": "fa212687da3b3e11face7e26d4293f14",
+      "crc32": "5fb38b0b",
+      "sha1": "eb4c40b1ca5d576a43aba76041af7b71c77c16ac",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T16:05:18.315884-07:00.jpg",
+      "source": "original",
+      "mtime": "1665788720",
+      "size": "276221",
+      "md5": "98b1ce7ab7f19e960ff4ea235c895a87",
+      "crc32": "25c6386d",
+      "sha1": "50ed6e60952c49d8ddb51235fd485488c88da1c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T16:05:18.315884-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788729",
+      "size": "1513",
+      "md5": "b01dabd26d3eb4ec7ce1b29ef9ab4b2e",
+      "crc32": "984b5309",
+      "sha1": "71b8df6f80730c421c043260c547c293e8c14575",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T16:05:18.315884-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665788731",
+      "size": "53843",
+      "md5": "d0032b997b1d6713e3e3d5286942fb87",
+      "crc32": "3ae088e2",
+      "sha1": "69bee86cd3a1e6a916145491fd22d45adda8896b",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-14T16:05:18.315884-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-14T16:05:18.315884-07:00.jpg",
+      "mtime": "1665788818",
+      "size": "8743",
+      "md5": "bb71e1f803d5d058e7c2a07b6a779495",
+      "crc32": "0de9f203",
+      "sha1": "d6c32a07856bf16ef70ff52b999198d6e415f2c8"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T03:57:09.701444-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831433",
+      "size": "34996",
+      "md5": "59af88a978ce441de01441a1421a6179",
+      "crc32": "4886f0df",
+      "sha1": "a0b10ffe78396277e57df022c918c1b5cdf5d0de",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T03:57:09.701444-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831440",
+      "size": "30831",
+      "md5": "1ce3a012ba6997dc1f35c1b9b355a6a0",
+      "crc32": "21fc64e2",
+      "sha1": "3b4abfef6d5dc742f9f8374b0e96100e3fbb1955",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T03:57:09.701444-07:00.jpg",
+      "source": "original",
+      "mtime": "1665831431",
+      "size": "276221",
+      "md5": "98b1ce7ab7f19e960ff4ea235c895a87",
+      "crc32": "25c6386d",
+      "sha1": "50ed6e60952c49d8ddb51235fd485488c88da1c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T03:57:09.701444-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831442",
+      "size": "1512",
+      "md5": "d0fe64d5f5b98f94f419a53144e756a7",
+      "crc32": "e327ac26",
+      "sha1": "22e78d7f8ef1ab24d636229b403d4c033cd9335a",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T03:57:09.701444-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831444",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T03:57:09.701444-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-15T03:57:09.701444-07:00.jpg",
+      "mtime": "1665831551",
+      "size": "8743",
+      "md5": "bb71e1f803d5d058e7c2a07b6a779495",
+      "crc32": "0de9f203",
+      "sha1": "d6c32a07856bf16ef70ff52b999198d6e415f2c8"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T16:05:02.340669-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665875105",
+      "size": "34226",
+      "md5": "b22bf29924023000412827e0be1ba841",
+      "crc32": "d6603f8c",
+      "sha1": "a787c5352fe2a55a41c0c8b9af2ff81f313f8917",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T16:05:02.340669-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665875107",
+      "size": "30651",
+      "md5": "0a9551e54d0d7c6652b29a2b79bd30ec",
+      "crc32": "5de03af0",
+      "sha1": "12903e5e3cec14bc6b1f5ef9b2b4ed50f4b3eded",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T16:05:02.340669-07:00.jpg",
+      "source": "original",
+      "mtime": "1665875104",
+      "size": "333287",
+      "md5": "eb7fdd4cfc8aa7307b873210ec78fab9",
+      "crc32": "99812118",
+      "sha1": "34936d51cf91ff5649b6bf4591f53c4c7cecc45b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T16:05:02.340669-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665875109",
+      "size": "1501",
+      "md5": "f800d51b6b15bf73bc0fde619646c477",
+      "crc32": "0151778f",
+      "sha1": "d6d786d370c49af76aa8a8ef0c12cd61707d3bc5",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T16:05:02.340669-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665875110",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-15T16:05:02.340669-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-15T16:05:02.340669-07:00.jpg",
+      "mtime": "1665875203",
+      "size": "10226",
+      "md5": "58947e02d581dc3c89dd9af4b4b8a7b9",
+      "crc32": "15ae545a",
+      "sha1": "7aa813fc691cf111e1f1fa71f65a71beeccdbcb9"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T03:54:36.149907-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917684",
+      "size": "34226",
+      "md5": "15a2ae2acbe799fbbc23e11a33f27e7b",
+      "crc32": "47c92a5a",
+      "sha1": "d3e8ffc30ce42b4a7f1365d7ea825dbbe218277b",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T03:54:36.149907-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917686",
+      "size": "30651",
+      "md5": "f317e31194ea6951289d4f44f9f48f5a",
+      "crc32": "e0856d0c",
+      "sha1": "2e10736e33bd8279a53991352912908c78dd7b33",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T03:54:36.149907-07:00.jpg",
+      "source": "original",
+      "mtime": "1665917682",
+      "size": "333287",
+      "md5": "eb7fdd4cfc8aa7307b873210ec78fab9",
+      "crc32": "99812118",
+      "sha1": "34936d51cf91ff5649b6bf4591f53c4c7cecc45b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T03:54:36.149907-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917687",
+      "size": "1501",
+      "md5": "9ea02f30769f9eb01a02160b848975d6",
+      "crc32": "368abb0c",
+      "sha1": "ef363389d67236cf12947e856607d822768f29fc",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T03:54:36.149907-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917689",
+      "size": "101",
+      "md5": "d0c18d21181a8126b3f1069d28af1d15",
+      "crc32": "a54bb076",
+      "sha1": "78b0832a5bfb35d824dbb1635194b74e2a427f24",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T03:54:36.149907-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-16T03:54:36.149907-07:00.jpg",
+      "mtime": "1665917766",
+      "size": "10226",
+      "md5": "58947e02d581dc3c89dd9af4b4b8a7b9",
+      "crc32": "15ae545a",
+      "sha1": "7aa813fc691cf111e1f1fa71f65a71beeccdbcb9"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T16:00:00.328205-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961205",
+      "size": "34390",
+      "md5": "2ea782f3ae306ae89e5465e306bddb1c",
+      "crc32": "bca36dfb",
+      "sha1": "ac78de05384612c5a84a993fe5de037f2620fa2c",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T16:00:00.328205-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961207",
+      "size": "30789",
+      "md5": "bc9e009b09e0624ce057e94a748947b6",
+      "crc32": "50c9b0c7",
+      "sha1": "16db6634e3daec223c698e229228347e6671b128",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T16:00:00.328205-07:00.jpg",
+      "source": "original",
+      "mtime": "1665961203",
+      "size": "360218",
+      "md5": "4a1631d0e18d0a8d3031ea6d562df1fa",
+      "crc32": "2eb206c7",
+      "sha1": "e9d2a81fdeae0fe55b281eac42f037674348aa69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T16:00:00.328205-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961209",
+      "size": "1501",
+      "md5": "7d914e54c20890a1e3a7b92affadb9c3",
+      "crc32": "c9a4e47d",
+      "sha1": "6303eb26a731fbbc50052ccedc06f49f9062d532",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T16:00:00.328205-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961211",
+      "size": "55503",
+      "md5": "523babf4c97c270c9344500f7acfc7dc",
+      "crc32": "ad38076f",
+      "sha1": "40dc43b6827b48f2a3ea521a8ea45cff32f80451",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-16T16:00:00.328205-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-16T16:00:00.328205-07:00.jpg",
+      "mtime": "1665961294",
+      "size": "10271",
+      "md5": "29dc2f1b507e7c359934543aae2ccf46",
+      "crc32": "e120c0c5",
+      "sha1": "b660e5bf01ee8f64110e7ce63f0c1bfa52c31aec"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T03:51:09.391293-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003873",
+      "size": "35118",
+      "md5": "43b07809f0a2e2032128b9d716ce64e5",
+      "crc32": "5a034ce1",
+      "sha1": "8a02a83e68b31aa3b605f347fd13c5a95d126c4f",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T03:51:09.391293-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003874",
+      "size": "30662",
+      "md5": "ef0b4624cc827f82ce4693260e5400b5",
+      "crc32": "9fc7a018",
+      "sha1": "a9a246f99f2d0c2b87c1a82ddc6d9874a5acd132",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T03:51:09.391293-07:00.jpg",
+      "source": "original",
+      "mtime": "1666003870",
+      "size": "360218",
+      "md5": "4a1631d0e18d0a8d3031ea6d562df1fa",
+      "crc32": "2eb206c7",
+      "sha1": "e9d2a81fdeae0fe55b281eac42f037674348aa69",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T03:51:09.391293-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003876",
+      "size": "1504",
+      "md5": "7fbaa979694d4c8b34261b05350ed302",
+      "crc32": "e5440395",
+      "sha1": "ebcf82401102e516e1eb486daddd7f6c119ccd3c",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T03:51:09.391293-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003877",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T03:51:09.391293-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-17T03:51:09.391293-07:00.jpg",
+      "mtime": "1666003971",
+      "size": "10271",
+      "md5": "29dc2f1b507e7c359934543aae2ccf46",
+      "crc32": "e120c0c5",
+      "sha1": "b660e5bf01ee8f64110e7ce63f0c1bfa52c31aec"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T15:54:31.279946-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047281",
+      "size": "34777",
+      "md5": "52daaf4cd38f1281754849e1e51d2597",
+      "crc32": "057a6f23",
+      "sha1": "e8961285c8b6abc3de478e4c2c183059057f6ecc",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T15:54:31.279946-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047283",
+      "size": "30813",
+      "md5": "5b538d42cb67d459b8eea170e6778598",
+      "crc32": "36fb5bf7",
+      "sha1": "8cbac1d79519c0f8d2ddc070657cb91778495492",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T15:54:31.279946-07:00.jpg",
+      "source": "original",
+      "mtime": "1666047279",
+      "size": "309100",
+      "md5": "1a9080be9399d5153b87aad93a7e5d25",
+      "crc32": "70c4a0e8",
+      "sha1": "8399e0e9753b76e1636a014269475b3855766803",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T15:54:31.279946-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047285",
+      "size": "1503",
+      "md5": "622e7b68b4b763f97982afcb2b7220ee",
+      "crc32": "aff6a565",
+      "sha1": "5f126d7bb1a89398734744229131903e3c803614",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T15:54:31.279946-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047287",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-17T15:54:31.279946-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-17T15:54:31.279946-07:00.jpg",
+      "mtime": "1666047370",
+      "size": "10086",
+      "md5": "0e74fea69f0163a0ce6d4e19b44a5030",
+      "crc32": "fa4bcdbf",
+      "sha1": "22733c681e611dfb8fe58e389430967700cf83b5"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T03:54:41.673423-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666090522",
+      "size": "35503",
+      "md5": "d7a424afc8b3a67f218205b0913e7af6",
+      "crc32": "0b94280c",
+      "sha1": "a0b034bccdceabf559ee872153d4e5a037aac491",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T03:54:41.673423-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666090527",
+      "size": "30813",
+      "md5": "5b538d42cb67d459b8eea170e6778598",
+      "crc32": "36fb5bf7",
+      "sha1": "8cbac1d79519c0f8d2ddc070657cb91778495492",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T03:54:41.673423-07:00.jpg",
+      "source": "original",
+      "mtime": "1666090520",
+      "size": "308883",
+      "md5": "0dfa0e1fce6a4189ce316bea369f7992",
+      "crc32": "df704e6d",
+      "sha1": "345b81d8630ed92075b44ab96a1d95f92ee2f4c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T03:54:41.673423-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666090529",
+      "size": "1501",
+      "md5": "af603f66334a17a534d6a89821cc8edb",
+      "crc32": "244b15d7",
+      "sha1": "19561c7b87c70b5562b81644c9b05bb54e04117d",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T03:54:41.673423-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666090532",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T03:54:41.673423-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-18T03:54:41.673423-07:00.jpg",
+      "mtime": "1666090702",
+      "size": "10082",
+      "md5": "7c36097c4bb6e431052f7c4934962ffb",
+      "crc32": "b1ca6564",
+      "sha1": "28ca1b9434c27d41465f00f06e05b421378b719b"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T16:11:21.442333-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134685",
+      "size": "33589",
+      "md5": "c382b6412b0dd5b0498cb36c2b6acf66",
+      "crc32": "7f165751",
+      "sha1": "51181f55a5c1e4dbfceb1dde83c8e6d8717e6b68",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T16:11:21.442333-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134688",
+      "size": "30090",
+      "md5": "d0712f93550b7fa9981b096eff31a288",
+      "crc32": "c6cd18fe",
+      "sha1": "a12471b578aef04fa520d2ff15a42f36729eee9b",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T16:11:21.442333-07:00.jpg",
+      "source": "original",
+      "mtime": "1666134683",
+      "size": "337039",
+      "md5": "c97ccb7310d922850df49d1e4a90e163",
+      "crc32": "2d0b8e40",
+      "sha1": "3c76b6495a5382cc45ad1f27aa3aad856d75f1ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T16:11:21.442333-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134690",
+      "size": "1506",
+      "md5": "8fbb3785b6175cd17eb66b5acf9380ce",
+      "crc32": "52e38e4d",
+      "sha1": "b32d245149826a492b63578756febe55d48c2456",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T16:11:21.442333-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134691",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-18T16:11:21.442333-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-18T16:11:21.442333-07:00.jpg",
+      "mtime": "1666160190",
+      "size": "10543",
+      "md5": "cab1ad10df8d0c5714ec05bd749350df",
+      "crc32": "bb97ac33",
+      "sha1": "b3ec37b987ba8626c4cec096d3c672ee5905af98"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T03:55:05.976457-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176908",
+      "size": "33903",
+      "md5": "57e035422fbbabd0eed172423d00dfd1",
+      "crc32": "61c7a61e",
+      "sha1": "7dbbd3cf58945affab17a1c9820701b7b7c4f9bb",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T03:55:05.976457-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176910",
+      "size": "30090",
+      "md5": "d0712f93550b7fa9981b096eff31a288",
+      "crc32": "c6cd18fe",
+      "sha1": "a12471b578aef04fa520d2ff15a42f36729eee9b",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T03:55:05.976457-07:00.jpg",
+      "source": "original",
+      "mtime": "1666176907",
+      "size": "337039",
+      "md5": "c97ccb7310d922850df49d1e4a90e163",
+      "crc32": "2d0b8e40",
+      "sha1": "3c76b6495a5382cc45ad1f27aa3aad856d75f1ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T03:55:05.976457-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176911",
+      "size": "1504",
+      "md5": "5b61c3a2a4b441fdaa26ae41311c5ae0",
+      "crc32": "d7fc392f",
+      "sha1": "c8f3908067da5379e6025dfd52b2d7c532a6839f",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T03:55:05.976457-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176913",
+      "size": "52779",
+      "md5": "51e25ff0d62f553b07fba2a197f5eb76",
+      "crc32": "90a3f71b",
+      "sha1": "6658193d34a46a07293b6df71562929bb6d0c9c3",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T03:55:05.976457-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-19T03:55:05.976457-07:00.jpg",
+      "mtime": "1666196603",
+      "size": "10543",
+      "md5": "cab1ad10df8d0c5714ec05bd749350df",
+      "crc32": "bb97ac33",
+      "sha1": "b3ec37b987ba8626c4cec096d3c672ee5905af98"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T16:06:36.765043-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666220808",
+      "size": "34476",
+      "md5": "6c9e59baafd62531b83370b20c1549d0",
+      "crc32": "0ba77efe",
+      "sha1": "756773b5fbc4c09c28367e4ce85a88f43e1e4d55",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T16:06:36.765043-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666220810",
+      "size": "31309",
+      "md5": "8fb9c818485e02ad8b2dec341d91e52e",
+      "crc32": "9ed74b1a",
+      "sha1": "247e3cf5f3795ec5f0c0b5d82e2145be3e09d1d6",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T16:06:36.765043-07:00.jpg",
+      "source": "original",
+      "mtime": "1666220806",
+      "size": "294202",
+      "md5": "dec8f35ebb96d89a078c32f6440c2fea",
+      "crc32": "f1d5acfd",
+      "sha1": "62b6d149095061f299ee5e7479f74ca08f7768b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T16:06:36.765043-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666220812",
+      "size": "1501",
+      "md5": "8545ab73da0f2df5650393c9d756dfd7",
+      "crc32": "e73ce414",
+      "sha1": "60ef736b9f8d7a9029d498e554b603742a957748",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T16:06:36.765043-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666220814",
+      "size": "56236",
+      "md5": "9bdecb69d5dc224550b275a544312080",
+      "crc32": "b92a15c5",
+      "sha1": "5d40d63dd985bea61438af04a11146fce17084fc",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-10-19T16:06:36.765043-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-19T16:06:36.765043-07:00.jpg",
+      "mtime": "1666220919",
+      "size": "10034",
+      "md5": "5126b838b23a1eafa0e61a8fe90be478",
+      "crc32": "d0c17e55",
+      "sha1": "54173b60acb25a760101929cd487b0c92aebf4da"
+    },
+    {
       "name": "berkeleyside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a271b31dce5a0ae535e3ae361bfe078c54372e92",
-      "mtime": "1665658136",
-      "size": "393680",
-      "md5": "bc689cac5ad15024d1a313931711e6a7",
-      "crc32": "201d694f",
-      "sha1": "baa780a3ac595979f4c088181907cf0ce69fc334",
+      "btih": "14bd3c5f592b6e71970e41efbe050f3432c43131",
+      "mtime": "1666220960",
+      "size": "410398",
+      "md5": "5835e9a2bb46e11ba513b8724dd266f9",
+      "crc32": "9ac22abe",
+      "sha1": "a038f53e84ad68db783777b24976b6940a0852ef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkeleyside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3591301cf6aaa2c3537c5c3b5f151ddb",
+      "md5": "bcb1319dde5791ef636712e3024087fd",
       "summation": "md5"
     },
     {
       "name": "berkeleyside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658022",
-      "size": "2211840",
-      "md5": "55b44706e8ba49b55bd445c1bdf33a3d",
-      "crc32": "5c5dd665",
-      "sha1": "9acfb8805ce1f4dcaf0306765f1a72db0c101070",
+      "mtime": "1666220820",
+      "size": "2310144",
+      "md5": "54fb009b2aecb0ddaf2c0b618c8de00c",
+      "crc32": "64e9d060",
+      "sha1": "d49675c4e5b0e97cf9d23233e6fa76b906a440d2",
       "format": "Metadata"
     },
     {
@@ -19054,9 +19860,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1828,
-  "item_last_updated": 1665658136,
-  "item_size": 165753987,
+  "files_count": 1906,
+  "item_last_updated": 1666220960,
+  "item_size": 171327236,
   "metadata": {
     "identifier": "berkeleyside-2022",
     "collection": [
@@ -19075,7 +19881,7 @@
     "year": "2022"
   },
   "server": "ia601406.us.archive.org",
-  "uniq": 1427348490,
+  "uniq": 208117983,
   "workable_servers": [
     "ia601406.us.archive.org",
     "ia801406.us.archive.org"

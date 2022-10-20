@@ -1,5 +1,5 @@
 {
-  "created": 1665687464,
+  "created": 1666203847,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/gastongazette-2022",
@@ -2920,31 +2920,764 @@
       "sha1": "69adce5b6c6267c75a7e7b6c4f84657d7e0e0dcc"
     },
     {
+      "name": "gastongazette-2022-10-14T02:41:23.402007-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665729687",
+      "size": "22933",
+      "md5": "76360d277301f1438cd1fd108404483b",
+      "crc32": "db93c5ec",
+      "sha1": "2d1b98c579278d44cc86e3edc1cbf0abc8edb09e",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-14T02:41:23.402007-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665729689",
+      "size": "34643",
+      "md5": "6a0710f101969dd215ee98d786c72356",
+      "crc32": "23dc2ca4",
+      "sha1": "c7ec3f4d55cb0d981198ef130b5151fad793a056",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-14T02:41:23.402007-04:00.jpg",
+      "source": "original",
+      "mtime": "1665729686",
+      "size": "276904",
+      "md5": "e6fabb92a7b9debfa1283d2581599ec4",
+      "crc32": "76f8d7fc",
+      "sha1": "18db69fc09dbd45db9a20ca8ac030f58aa608222",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-14T02:41:23.402007-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665729690",
+      "size": "1522",
+      "md5": "38414cfd6240b4765e8d42ec733f86a1",
+      "crc32": "997fab1c",
+      "sha1": "6115e399e273a8f18e15aa8a35aec3c646c26d1b",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-14T02:41:23.402007-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665729691",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-14T02:41:23.402007-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-14T02:41:23.402007-04:00.jpg",
+      "mtime": "1665729748",
+      "size": "9516",
+      "md5": "4076b0b22d41ff4563a8e404d0ce7879",
+      "crc32": "5f093c74",
+      "sha1": "e1798e66ea3134c4c07104a96cc4429965d1d1dd"
+    },
+    {
+      "name": "gastongazette-2022-10-14T15:52:11.283824-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665777141",
+      "size": "22164",
+      "md5": "9ae072013b6ac3bc7647012450881d96",
+      "crc32": "032291d0",
+      "sha1": "d0f044450d75c55956db6cb6ff3441e86d07e07f",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-14T15:52:11.283824-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665777142",
+      "size": "33105",
+      "md5": "55743003362b5a09db11418595e8bcd9",
+      "crc32": "7ea9dbe1",
+      "sha1": "5924b2a9bf65f5872f5d324bbcd0199c86562356",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-14T15:52:11.283824-04:00.jpg",
+      "source": "original",
+      "mtime": "1665777139",
+      "size": "249382",
+      "md5": "7e948a345909b6b7be996ef3890df991",
+      "crc32": "a8ff304b",
+      "sha1": "ed1a1bdf4abed8d1331fe28d50853a7027e7f7a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-14T15:52:11.283824-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665777144",
+      "size": "1522",
+      "md5": "acd3591207c6367d74a1f2dfd1b7f284",
+      "crc32": "8bd848d2",
+      "sha1": "f81742e3bf3fdc0747824a70970cec98e40481c7",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-14T15:52:11.283824-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665777147",
+      "size": "104475",
+      "md5": "026586cd7ba61cf267c7f9d6e5091657",
+      "crc32": "1b29f660",
+      "sha1": "f3c55a387a13f0af81876d75558115ffecbebb82",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-14T15:52:11.283824-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-14T15:52:11.283824-04:00.jpg",
+      "mtime": "1665777202",
+      "size": "9195",
+      "md5": "1fd464df713629484e66e22fc7cf7e94",
+      "crc32": "5fd57cbb",
+      "sha1": "729b33090b7800d6912ec5c688092778f4334983"
+    },
+    {
+      "name": "gastongazette-2022-10-15T02:37:17.144579-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815846",
+      "size": "22851",
+      "md5": "6d808918fbf73f69ae7d491205994f83",
+      "crc32": "04747e77",
+      "sha1": "988944134a18bb46ee42bad3d07eb5d75b858746",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-15T02:37:17.144579-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815848",
+      "size": "39583",
+      "md5": "5ed47e2519abc741e574dbc0337e94d2",
+      "crc32": "9d92f904",
+      "sha1": "b10220506e324c765779cc40dc193c29cc92206a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-15T02:37:17.144579-04:00.jpg",
+      "source": "original",
+      "mtime": "1665815845",
+      "size": "288398",
+      "md5": "e8e6d4b8e1d96d5ac278fbdda7f130a6",
+      "crc32": "fd69e962",
+      "sha1": "7b1c614db23869ed4493237fff366911c6eb6664",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-15T02:37:17.144579-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815852",
+      "size": "1521",
+      "md5": "55f15fb959f546be7439062f3ff5bfe8",
+      "crc32": "66f39891",
+      "sha1": "55c4ed7ef2d12a3072480d60854d5120ce93576b",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-15T02:37:17.144579-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815859",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-15T02:37:17.144579-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-15T02:37:17.144579-04:00.jpg",
+      "mtime": "1665815913",
+      "size": "9647",
+      "md5": "6acb5e65e1d5b203724ea9d52713fba4",
+      "crc32": "79923b90",
+      "sha1": "f3875d58c48f748a8cd54d98ec5eca2ac8f62082"
+    },
+    {
+      "name": "gastongazette-2022-10-15T14:09:39.095585-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665857381",
+      "size": "20012",
+      "md5": "76003c7ba7f9b2c9d678a5a7097b48b2",
+      "crc32": "d9cb9c52",
+      "sha1": "e8d04b87b8636c7978f028f8c7efb02c8f1a4e17",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-15T14:09:39.095585-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665857383",
+      "size": "34021",
+      "md5": "00965c3b3ef80e937799930d342106f1",
+      "crc32": "37c1d2e4",
+      "sha1": "a0714d4caad54f33d3c05520b687cfe09c91d666",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-15T14:09:39.095585-04:00.jpg",
+      "source": "original",
+      "mtime": "1665857380",
+      "size": "286576",
+      "md5": "cea069e104498f69e33df90c1398ed97",
+      "crc32": "c7f25491",
+      "sha1": "8682c92dc92889a3401cb4e561127ac301205140",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-15T14:09:39.095585-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665857384",
+      "size": "1522",
+      "md5": "8ef583ef3e36c39a179d99f61423da82",
+      "crc32": "6f8db585",
+      "sha1": "e2b694e02a1db3b0e53a63a497c78ce1ff4fd05c",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-15T14:09:39.095585-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665857385",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-15T14:09:39.095585-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-15T14:09:39.095585-04:00.jpg",
+      "mtime": "1665857488",
+      "size": "9724",
+      "md5": "8d116aceb775687cb7d8fb3ea6c4faee",
+      "crc32": "feb4d67a",
+      "sha1": "6850048b30e95f118220a1a5d1ce35360a647490"
+    },
+    {
+      "name": "gastongazette-2022-10-16T02:39:06.485461-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665902352",
+      "size": "23086",
+      "md5": "aabee02914bf3914cf9d987ee285b67f",
+      "crc32": "d8234689",
+      "sha1": "19153b5751725fb4587944c4c588621611d5d5a2",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-16T02:39:06.485461-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665902354",
+      "size": "32292",
+      "md5": "67fe7405664b82d5c615afb709cb1a1c",
+      "crc32": "31412ec9",
+      "sha1": "b73625bb02607ae3f462aa1104f2a409fcfbf368",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-16T02:39:06.485461-04:00.jpg",
+      "source": "original",
+      "mtime": "1665902350",
+      "size": "251786",
+      "md5": "0681e1d110675bb80dc4f6574e7fae2b",
+      "crc32": "092724f1",
+      "sha1": "7074cf5495a90a7d4da7438116fd93378b129439",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-16T02:39:06.485461-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665902356",
+      "size": "1522",
+      "md5": "b9d039df6eeccdc15ad926567b026f8c",
+      "crc32": "f2936c93",
+      "sha1": "9f5bff4cfbe13163c656d00ec8bc9b3dea8dce1f",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-16T02:39:06.485461-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665902358",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-16T02:39:06.485461-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-16T02:39:06.485461-04:00.jpg",
+      "mtime": "1665902414",
+      "size": "9474",
+      "md5": "c32710e957bc32e7663f9984bda3a22c",
+      "crc32": "f1571ab2",
+      "sha1": "b1bb97c105f920e91739bb3dfa0dd085ec19cd76"
+    },
+    {
+      "name": "gastongazette-2022-10-16T13:36:51.274974-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941817",
+      "size": "23325",
+      "md5": "ddc6d7469f55ce5187506a757bd509df",
+      "crc32": "d8dceba8",
+      "sha1": "c61e85bcd196d4489031cd3571dd5b117489de66",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-16T13:36:51.274974-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941818",
+      "size": "35749",
+      "md5": "423316143a35a2139ba75f4f00b1f59d",
+      "crc32": "8ea77bc0",
+      "sha1": "f72c64e4ffbc443331eb19e7b3928b20f10c1cd7",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-16T13:36:51.274974-04:00.jpg",
+      "source": "original",
+      "mtime": "1665941815",
+      "size": "255290",
+      "md5": "39f31bffaf17f5050eff63b317979c4f",
+      "crc32": "4389ec9c",
+      "sha1": "fc612bdb178637bb76af6a72562e1aa05f2a213b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-16T13:36:51.274974-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941820",
+      "size": "1522",
+      "md5": "0cd16e43fc6d07551254dc95e80832ec",
+      "crc32": "14832ee5",
+      "sha1": "da73ec068e1d3f3e1d320939c84f9cd08d35f6ae",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-16T13:36:51.274974-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941821",
+      "size": "83676",
+      "md5": "7fc6dd1c93af0a6bb51b6ed28a1789be",
+      "crc32": "00ee969f",
+      "sha1": "0d780c701679a8b3b28ded074d86d8411fc06ddf",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-16T13:36:51.274974-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-16T13:36:51.274974-04:00.jpg",
+      "mtime": "1665941877",
+      "size": "9340",
+      "md5": "037413e0eef9eac190398ea733a96be6",
+      "crc32": "35a09e94",
+      "sha1": "db4d889b437722b7dd57bbfe130da4c54659af6f"
+    },
+    {
+      "name": "gastongazette-2022-10-17T02:26:43.390778-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665988012",
+      "size": "22679",
+      "md5": "8297c6b56a694d926601c6347efaf3c2",
+      "crc32": "653783ec",
+      "sha1": "751b0338a2eaacd948a44e33feb81b58cabe707d",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-17T02:26:43.390778-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665988013",
+      "size": "34511",
+      "md5": "1584fe5d0b03fe426dcaf4bac64351bf",
+      "crc32": "5d2be676",
+      "sha1": "f8a3ff0859089037a06173470fcf5175de791594",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-17T02:26:43.390778-04:00.jpg",
+      "source": "original",
+      "mtime": "1665988010",
+      "size": "243813",
+      "md5": "a34108d5b2581c81158fa8b2db998d2c",
+      "crc32": "1bcff768",
+      "sha1": "6f988a74d62be1b4513dddf10aa426c940dcc027",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-17T02:26:43.390778-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665988015",
+      "size": "1522",
+      "md5": "670324db5bc096f5acac8b9ad77b852a",
+      "crc32": "5a5acf39",
+      "sha1": "bc8b0abd67202634e399529192e8a2dff7dcfc48",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-17T02:26:43.390778-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665988017",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-17T02:26:43.390778-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-17T02:26:43.390778-04:00.jpg",
+      "mtime": "1665988072",
+      "size": "8956",
+      "md5": "9efc57ea0b6c4b04bf320a728f2bbb56",
+      "crc32": "a18c4f85",
+      "sha1": "b82a1e270c6455d2fc9a4595902fde6197db9648"
+    },
+    {
+      "name": "gastongazette-2022-10-17T14:12:55.733109-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666030381",
+      "size": "21802",
+      "md5": "9d592e3e7c0c1128a4b2a91a4c737819",
+      "crc32": "c5a3dde6",
+      "sha1": "3de51ce0ac90445947956a6f4c724f93ff0b9e93",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-17T14:12:55.733109-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666030383",
+      "size": "33603",
+      "md5": "94e23ef8e24d18dec71e5ce5e470a7c9",
+      "crc32": "33b705b6",
+      "sha1": "176a66adc66f184245d050bb83fbc70e151d450d",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-17T14:12:55.733109-04:00.jpg",
+      "source": "original",
+      "mtime": "1666030380",
+      "size": "235547",
+      "md5": "aa0160e53d05694331bfb58b5191fe80",
+      "crc32": "c0c89d5a",
+      "sha1": "cc99aadbe7ab9afdf9cdfa55b6544b38a3d63625",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-17T14:12:55.733109-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666030385",
+      "size": "1522",
+      "md5": "049d04e93d7f382b881b39443293af13",
+      "crc32": "a1568439",
+      "sha1": "859eaaed5f740480508aafd1772ac9ea4b873ee6",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-17T14:12:55.733109-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666030387",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-17T14:12:55.733109-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-17T14:12:55.733109-04:00.jpg",
+      "mtime": "1666030449",
+      "size": "9022",
+      "md5": "263e7a2ea55ca62e91c148ebbed9f888",
+      "crc32": "6746f748",
+      "sha1": "995937cba3764ae0b9e7db0f81f9ece1f3148ef8"
+    },
+    {
+      "name": "gastongazette-2022-10-18T02:03:13.956150-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072998",
+      "size": "22604",
+      "md5": "63861261b246bae6dacd2dd605490b98",
+      "crc32": "907129bb",
+      "sha1": "037d1788a038c6b087f2a3d7552ca31b3ae68fe7",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-18T02:03:13.956150-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666073000",
+      "size": "30919",
+      "md5": "7f37ef9a67c8f0e0ecf11f0dc2c31d13",
+      "crc32": "86b1f006",
+      "sha1": "9e04d8435b70e140a2834a9b6e909617093fe055",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-18T02:03:13.956150-04:00.jpg",
+      "source": "original",
+      "mtime": "1666072997",
+      "size": "219308",
+      "md5": "f48901422e17224b089c0bbef4e7e625",
+      "crc32": "39b32c88",
+      "sha1": "9f2d7e12a054a95f13ecd1a52ac21aab8d78b2ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-18T02:03:13.956150-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666073001",
+      "size": "1522",
+      "md5": "fc7ca3677e4e4af7db3fb0a4f62fed05",
+      "crc32": "832ec474",
+      "sha1": "94f11afa7edcea93136c941d43fb7af41c0fb9fa",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-18T02:03:13.956150-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666073006",
+      "size": "79328",
+      "md5": "3173a4821b6969f2475512a53a099fed",
+      "crc32": "1eef5514",
+      "sha1": "5aa063f1a47b8cb03d8dbf20f3059fcafa625fdc",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-18T02:03:13.956150-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-18T02:03:13.956150-04:00.jpg",
+      "mtime": "1666073062",
+      "size": "8825",
+      "md5": "c0923bf371c795748d52584a71a8d938",
+      "crc32": "2dcaec09",
+      "sha1": "73cf9ad8b3b7e9cbc64298f03c0945307952eea2"
+    },
+    {
+      "name": "gastongazette-2022-10-18T13:45:13.878395-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666115120",
+      "size": "23577",
+      "md5": "400e3cc7db6c66cb3d249e67a66b71ea",
+      "crc32": "c75e89e2",
+      "sha1": "15f449f82250d11bced02180c1e66a0e0d97667a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-18T13:45:13.878395-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666115122",
+      "size": "29983",
+      "md5": "e4705ecec756aa8ad181250271bbb8e1",
+      "crc32": "2c33023a",
+      "sha1": "7c8f880f5e087ee49a150fdf49004240f85bbf26",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-18T13:45:13.878395-04:00.jpg",
+      "source": "original",
+      "mtime": "1666115118",
+      "size": "206081",
+      "md5": "538079747981852c8ecd1198f279caca",
+      "crc32": "a2864530",
+      "sha1": "32caeeb0f4a118f5824fa1031b7e8f7cf996c011",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-18T13:45:13.878395-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666115124",
+      "size": "1522",
+      "md5": "90e44b60c23d433a8d10b452872f86f1",
+      "crc32": "f3047c9e",
+      "sha1": "416d93fd7c9203c374b5fc15766af7ff4dc94a7b",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-18T13:45:13.878395-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666115125",
+      "size": "90351",
+      "md5": "f4ba9dbe334747d3ab67afc2e6d23002",
+      "crc32": "9a2d4c8b",
+      "sha1": "4eb4e390bbf3ffe29bd3e1f084e1e0f478247b3f",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-18T13:45:13.878395-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-18T13:45:13.878395-04:00.jpg",
+      "mtime": "1666115191",
+      "size": "8809",
+      "md5": "fed4d2df377cdc9de0fc9ff5dd0336c4",
+      "crc32": "737380a3",
+      "sha1": "aebe27d066308e3d3574c5e8c5471814bb5a5e23"
+    },
+    {
+      "name": "gastongazette-2022-10-19T02:04:10.553956-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159452",
+      "size": "24407",
+      "md5": "3bef3f3d66e6fb6d93620537de66d257",
+      "crc32": "29e92476",
+      "sha1": "8928d5b402f95f6c268bb01fe5cfd4ed44308686",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-19T02:04:10.553956-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159454",
+      "size": "40665",
+      "md5": "12bbacc5b5162cc42f6df508380575b0",
+      "crc32": "424e4698",
+      "sha1": "936f5665171a1c01b27215ede343cd62f6508d58",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-19T02:04:10.553956-04:00.jpg",
+      "source": "original",
+      "mtime": "1666159451",
+      "size": "256361",
+      "md5": "88634a9df3eaa66d2306119202c92183",
+      "crc32": "e6eb6336",
+      "sha1": "54894d06278fc8c9d2c4b93e8c36541d6452ae14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-19T02:04:10.553956-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159455",
+      "size": "1522",
+      "md5": "b0526c00a9fabcb6698a144135b80e95",
+      "crc32": "227cfc47",
+      "sha1": "b998e75f9fec211e4a4ad68648f4ab36b1376467",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-19T02:04:10.553956-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159456",
+      "size": "87465",
+      "md5": "c7017a07a7fa7d65a30598d9e71fae31",
+      "crc32": "cec0b73e",
+      "sha1": "30b4d8211d73683e8ae45426f70c9c5624bc90a5",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-19T02:04:10.553956-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-10-19T02:04:10.553956-04:00.jpg",
+      "mtime": "1666183231",
+      "size": "9362",
+      "md5": "de96b27c5e6f5a9ba7a73dbedefd0c06",
+      "crc32": "8be2c127",
+      "sha1": "8cf113513c50d2fc73fc8e10e8de19cb5a73ce85"
+    },
+    {
+      "name": "gastongazette-2022-10-19T14:21:03.212269-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666203669",
+      "size": "23422",
+      "md5": "baa0ce078e548f0c1b7fcb119c2f4dc8",
+      "crc32": "fadcba93",
+      "sha1": "b3e655cf22511a25e4e0ca59786209c4f01f0e48",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-19T14:21:03.212269-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666203676",
+      "size": "39916",
+      "md5": "376a9e05b1150289232b6d70756cbc68",
+      "crc32": "912fb95e",
+      "sha1": "9cc692ae07e317ecae5d287d8b2c46121c6367e0",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-19T14:21:03.212269-04:00.jpg",
+      "source": "original",
+      "mtime": "1666203667",
+      "size": "272559",
+      "md5": "08d44c5e148760f013f0881427158409",
+      "crc32": "7945f71a",
+      "sha1": "9458bcdf3e7634615b572ebc6530de0175e59aa7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-10-19T14:21:03.212269-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666203679",
+      "size": "1521",
+      "md5": "fdeedb1cc0ae8f5bc19b0f81733989f8",
+      "crc32": "f8e1311e",
+      "sha1": "4892b7bad50ca97157c17af385d926a3900ed80a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-10-19T14:21:03.212269-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666203681",
+      "size": "86836",
+      "md5": "959227414a969abed125814743b2b221",
+      "crc32": "89b1778d",
+      "sha1": "1858aae74fc26ce96a7fdf0131bcf992ea42fa31",
+      "format": "JSON"
+    },
+    {
       "name": "gastongazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a57c99b7ca0646dc0d9c5a03bcc06a9977c01d4e",
-      "mtime": "1665687443",
-      "size": "62173",
-      "md5": "3bedef2ca54b4bf89cbfc32a74454887",
-      "crc32": "5d5f6608",
-      "sha1": "309057deadab94dafc88bc7d502f434a028a7147",
+      "btih": "51c40cdccc2165f3a8b9e319692ec4ecb33dfdd2",
+      "mtime": "1666203837",
+      "size": "77437",
+      "md5": "eff89187e68d87e8356065824de13af0",
+      "crc32": "15dbf7b3",
+      "sha1": "31be3cacac188237a72c6527cae571866e1a1deb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gastongazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7a8252c24eca53b8b097ee607de120d0",
+      "md5": "d88617d31369fa8eb68f9e6cb95ba54d",
       "summation": "md5"
     },
     {
       "name": "gastongazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665687288",
-      "size": "376832",
-      "md5": "8b1f9ce32fc8e87bd11b236d0de0c8e1",
-      "crc32": "c39a5df2",
-      "sha1": "987bb2488a9726c794e0ebf28c4c240cb1b0a7db",
+      "mtime": "1666203797",
+      "size": "471040",
+      "md5": "22315f2f32344e5eeb259e826e4ac0b6",
+      "crc32": "90c01d26",
+      "sha1": "0ef3baed6cb3740dfecae69399a509f5eb18958d",
       "format": "Metadata"
     },
     {
@@ -2958,9 +3691,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 286,
-  "item_last_updated": 1665687443,
-  "item_size": 18982002,
+  "files_count": 357,
+  "item_last_updated": 1666203837,
+  "item_size": 23478806,
   "metadata": {
     "identifier": "gastongazette-2022",
     "collection": [
@@ -2977,10 +3710,21 @@
     "publicdate": "2022-09-20 17:51:49",
     "addeddate": "2022-09-20 17:51:49"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 855261443,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445842098,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 621265976,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

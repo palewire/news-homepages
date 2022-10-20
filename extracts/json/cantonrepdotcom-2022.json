@@ -1,5 +1,5 @@
 {
-  "created": 1665658243,
+  "created": 1666221143,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/cantonrepdotcom-2022",
@@ -2878,31 +2878,837 @@
       "sha1": "75e97a930c5c630d9a301da74d51307a292f0840"
     },
     {
+      "name": "cantonrepdotcom-2022-10-13T19:08:28.880923-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702514",
+      "size": "21628",
+      "md5": "2cee47c2e435749de4f775621da04f79",
+      "crc32": "aab4e216",
+      "sha1": "247262b1389ae678ddf2e2be9d43a9a51247e5d2",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-13T19:08:28.880923-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702516",
+      "size": "35808",
+      "md5": "e79a0d84f2ed27a0b8551493996a2ab4",
+      "crc32": "c1456752",
+      "sha1": "c6b050565896b5057549b8faf90c44f0efde752a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-13T19:08:28.880923-04:00.jpg",
+      "source": "original",
+      "mtime": "1665702512",
+      "size": "268887",
+      "md5": "1617e3cdc94acc5dda428b7647050e04",
+      "crc32": "0aac36b0",
+      "sha1": "508acb25a1a8e8237389f9e86ebe0b09e3280d13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-13T19:08:28.880923-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702517",
+      "size": "1485",
+      "md5": "484a64b3cfde1cc49b525f052234b8be",
+      "crc32": "9b728e78",
+      "sha1": "32365cdff1d8994b22c160da279659de743f9f09",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-13T19:08:28.880923-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702520",
+      "size": "98920",
+      "md5": "9cdab6158f1e3016de98e62b0d2649ad",
+      "crc32": "e8dd8ac4",
+      "sha1": "298c245d34eb026e5a1d128857de8f73b4985243",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-13T19:08:28.880923-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-13T19:08:28.880923-04:00.jpg",
+      "mtime": "1665702595",
+      "size": "9689",
+      "md5": "273fab79ba6869bb21c2de59bc746735",
+      "crc32": "1b2430cd",
+      "sha1": "ebaf751332cf3b026622079cc6c4e5d3a6142050"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T06:59:32.728566-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665745177",
+      "size": "21112",
+      "md5": "823835d5cea869e822e66a54a0969db2",
+      "crc32": "5dfca369",
+      "sha1": "bb9d5a491eb548b71c04e8ee4a935ef4352e7ff6",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T06:59:32.728566-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665745179",
+      "size": "31184",
+      "md5": "16c50c7f2d3133e9971bf6e1e090000c",
+      "crc32": "ee5a3e3c",
+      "sha1": "daffbf676878d971228b3290f74193c9d2111f20",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T06:59:32.728566-04:00.jpg",
+      "source": "original",
+      "mtime": "1665745175",
+      "size": "302701",
+      "md5": "d758f09dc781ff028e81b91d41dd6423",
+      "crc32": "89ac84af",
+      "sha1": "985c7e218e147fd3856ff5d9252a3f589d3e0a2e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T06:59:32.728566-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665745180",
+      "size": "1486",
+      "md5": "3078bc5102b5f586996eb59d5c3ce259",
+      "crc32": "01634c3e",
+      "sha1": "f37005fb322261cb547be8c2276e987df509b0e5",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T06:59:32.728566-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665745182",
+      "size": "251",
+      "md5": "196c66d8944fd39d8834e04b1b1b855a",
+      "crc32": "c6bc2835",
+      "sha1": "02b1b143b3b825c7ecf5472ad4af3118b6ffd066",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T06:59:32.728566-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-14T06:59:32.728566-04:00.jpg",
+      "mtime": "1665745254",
+      "size": "9668",
+      "md5": "b145e005aac8a6260e61c58dd102b9c3",
+      "crc32": "8a90ae4b",
+      "sha1": "4c4029e74a357c6003a39e4fcd29ba44d6700545"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T19:08:53.154537-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788940",
+      "size": "21541",
+      "md5": "61ce3b04bc3e1757641c949c1c373472",
+      "crc32": "2a191051",
+      "sha1": "c53b01cdd5b2ca31917a0a8d68a7cc36428e0f1a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T19:08:53.154537-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788942",
+      "size": "34249",
+      "md5": "746c029c1e79631b9150e63c235562eb",
+      "crc32": "06caa5f0",
+      "sha1": "2561ecd3fef2d048638ae2807eb57c27c069a6a7",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T19:08:53.154537-04:00.jpg",
+      "source": "original",
+      "mtime": "1665788938",
+      "size": "244380",
+      "md5": "7d465ce792c3f6e4e25fad7133a8b53b",
+      "crc32": "aedebac8",
+      "sha1": "8ec56d042abb4c2da77a8284305ed1cf54d02f3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T19:08:53.154537-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788943",
+      "size": "1486",
+      "md5": "a3b67969aca24874e906cd0728cfb7e5",
+      "crc32": "6217c415",
+      "sha1": "01881e257ddeeeeaf74f69c6787914ee15b9d9bf",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T19:08:53.154537-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665788945",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-14T19:08:53.154537-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-14T19:08:53.154537-04:00.jpg",
+      "mtime": "1665789018",
+      "size": "9340",
+      "md5": "de78b38ba4a5ae6f2bd81e35f74d50bf",
+      "crc32": "15852acd",
+      "sha1": "c51a3ee7c1ee95889329fb32332bd03f2d4124b7"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T06:58:49.455665-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831542",
+      "size": "20672",
+      "md5": "1355caca096b5da02ff38e3c374ef798",
+      "crc32": "e2ad9754",
+      "sha1": "8427a463d43d409c4e64175331f2558f827c4daa",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T06:58:49.455665-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831544",
+      "size": "44461",
+      "md5": "8f559fc5617e058ab56de72ebe1891fb",
+      "crc32": "6996eb60",
+      "sha1": "fbf95b870f4854b7a2b530dbec5fbf7d5bd1c523",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T06:58:49.455665-04:00.jpg",
+      "source": "original",
+      "mtime": "1665831540",
+      "size": "226539",
+      "md5": "d6cb2d86479ce52b0746442517cba169",
+      "crc32": "b072fecc",
+      "sha1": "42f2f4e3eb23975aef13479fbd46fff2dd61ef5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T06:58:49.455665-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831547",
+      "size": "1486",
+      "md5": "290b05c14bee82f82e891e383e1d642e",
+      "crc32": "55f31207",
+      "sha1": "63c65ab1ca712fb3315771003bffe8f7d1023d49",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T06:58:49.455665-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831548",
+      "size": "84003",
+      "md5": "e920f3e0e1ae803077f2c6dd417af7fa",
+      "crc32": "0e4bc7fa",
+      "sha1": "191ac5429f9d01917ec1b0cf64683b9b283e5c02",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T06:58:49.455665-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-15T06:58:49.455665-04:00.jpg",
+      "mtime": "1665831628",
+      "size": "8974",
+      "md5": "a3ba1c33d001cd8792e25092e46886d9",
+      "crc32": "da7c886e",
+      "sha1": "7158ae4100d7824a93eda7f7cec7d7a018bfa08c"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T19:08:01.150301-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665875288",
+      "size": "21791",
+      "md5": "0cbb5f95c00bea79aea3cbad3e0b6538",
+      "crc32": "313d680c",
+      "sha1": "050349af297759c1950c26e10631e53006eb74b2",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T19:08:01.150301-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665875289",
+      "size": "34126",
+      "md5": "4393a089ce8d2cafd45c424befadad46",
+      "crc32": "92559e71",
+      "sha1": "e08d4f4a6da8a723212e8cf7a5456b64b416887a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T19:08:01.150301-04:00.jpg",
+      "source": "original",
+      "mtime": "1665875286",
+      "size": "244177",
+      "md5": "96f6588e4092e04b43dd485e677ed71e",
+      "crc32": "b6e03c21",
+      "sha1": "af22de73ad6986033e2c840b912e28684d2e2900",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T19:08:01.150301-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665875291",
+      "size": "1486",
+      "md5": "59be6cb8205181dd36410ebf0f86a2d6",
+      "crc32": "026186f2",
+      "sha1": "34ee95a5bae0c2d9782b891125f126728a1de694",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T19:08:01.150301-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665875293",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-15T19:08:01.150301-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-15T19:08:01.150301-04:00.jpg",
+      "mtime": "1665875357",
+      "size": "9479",
+      "md5": "7646cb823148bdb3d84edd340270fbaa",
+      "crc32": "6be2e2f1",
+      "sha1": "54402b30a29544eebe3ed9a4766cb74b0a2c8cea"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T06:57:02.235197-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917826",
+      "size": "22804",
+      "md5": "1c7fa961a2230a7b6b85ef7999e17309",
+      "crc32": "82c65865",
+      "sha1": "400e352e22ecdfb74c1f52827910c03d13fd70f9",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T06:57:02.235197-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917827",
+      "size": "36373",
+      "md5": "61407c7c4f677aaa5d4158d83d8f97b3",
+      "crc32": "878a07f5",
+      "sha1": "1a699fecda2ec037d4fc671151810b7e5c81aafa",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T06:57:02.235197-04:00.jpg",
+      "source": "original",
+      "mtime": "1665917824",
+      "size": "266553",
+      "md5": "57e0d172ce14862816ada4d57c6d6f7a",
+      "crc32": "5015a052",
+      "sha1": "2540cccc9fd0430754fcb6cb5ac6ad76abe60a4b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T06:57:02.235197-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917828",
+      "size": "1486",
+      "md5": "7bf0515dee66630943421e9ceaebab5d",
+      "crc32": "2b0dea5d",
+      "sha1": "85702363999124dab07e4b8492a7f0054fc5f3a8",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T06:57:02.235197-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917829",
+      "size": "102",
+      "md5": "53d2e3839d711a3c90fea903f91228f6",
+      "crc32": "b5bfe863",
+      "sha1": "783156cac0ef73c2418c8e81fa03684a3d042883",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T06:57:02.235197-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-16T06:57:02.235197-04:00.jpg",
+      "mtime": "1665917910",
+      "size": "9232",
+      "md5": "402c8bdac39d98f1d06c998036fc3da6",
+      "crc32": "843a682a",
+      "sha1": "98b3befae99bf358bf7092e05ba4036c40e86546"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T19:03:55.958288-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961438",
+      "size": "21184",
+      "md5": "4f2e1d2e143dd9678865c4f1cc3f2225",
+      "crc32": "2efd6644",
+      "sha1": "f752f0276e0b2048cd9c6e042e3efc6ff373d9b3",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T19:03:55.958288-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961439",
+      "size": "31208",
+      "md5": "d97f1053b51e6ed9540a79e2c6612f2d",
+      "crc32": "b0bcf518",
+      "sha1": "bab10b0985870824951e6867c923a3af7e572b5f",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T19:03:55.958288-04:00.jpg",
+      "source": "original",
+      "mtime": "1665961436",
+      "size": "232207",
+      "md5": "e4e6e1d46ca0f079becab59a8fd0cd46",
+      "crc32": "b371e67c",
+      "sha1": "5a9dfa7962da301b0c5291f5fe874c18338511d6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T19:03:55.958288-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961440",
+      "size": "1485",
+      "md5": "cfcc5e358b0908317fd672ba6bf3b8cf",
+      "crc32": "4847d6ae",
+      "sha1": "406372cc5cab3c3e6115d26e80325660bfaba600",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T19:03:55.958288-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961442",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-16T19:03:55.958288-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-16T19:03:55.958288-04:00.jpg",
+      "mtime": "1665961493",
+      "size": "9220",
+      "md5": "73641f3160812d2c75ea0186cba108b9",
+      "crc32": "a036decf",
+      "sha1": "9ba9f8c96106800b7dc462bac35e300d0c0c94e7"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T06:52:32.470150-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003957",
+      "size": "24047",
+      "md5": "6254c55175c166be89ff1182061dd968",
+      "crc32": "5d20bf61",
+      "sha1": "f17b9c73f74df60289bab72562541365030a97cc",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T06:52:32.470150-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003958",
+      "size": "30356",
+      "md5": "0512f35a70037a1f1425483297565383",
+      "crc32": "410c3da0",
+      "sha1": "80d70dd931bfe8cedc810add161a4fe1c9396c9c",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T06:52:32.470150-04:00.jpg",
+      "source": "original",
+      "mtime": "1666003955",
+      "size": "246715",
+      "md5": "80940712d95d4eedd06ee4aca60f03f0",
+      "crc32": "6072651c",
+      "sha1": "6cda8cc43ef29046d15b82ac7d9e9af6bc9a14f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T06:52:32.470150-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003960",
+      "size": "1486",
+      "md5": "067b37ab24399af43ee7b01b21310b76",
+      "crc32": "53d9aa1b",
+      "sha1": "1e8ed381ab3d51d007c213ceec80dcd7a4300b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T06:52:32.470150-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003961",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T06:52:32.470150-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-17T06:52:32.470150-04:00.jpg",
+      "mtime": "1666004029",
+      "size": "8928",
+      "md5": "026a7376535f0bd81f3934eb7d838c92",
+      "crc32": "6a10aa5a",
+      "sha1": "9e8f9a7009dc0e67707a7c9829337b74f43ec946"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T18:58:16.612550-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047499",
+      "size": "21537",
+      "md5": "f9fdc7bbe80b933338726fffbbf41783",
+      "crc32": "607b7a75",
+      "sha1": "5a4abe404c222f085ab990e7aabe88c56fd1b97b",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T18:58:16.612550-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047501",
+      "size": "32973",
+      "md5": "68c9de6d892fce24f8502b07d99cd31a",
+      "crc32": "4e38d3b6",
+      "sha1": "c144c09be9c55117fafce1f3ebc9092c9ef990d8",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T18:58:16.612550-04:00.jpg",
+      "source": "original",
+      "mtime": "1666047497",
+      "size": "250151",
+      "md5": "80034358cfd0e2aaff2deaa297e33e31",
+      "crc32": "270ca8d7",
+      "sha1": "c662c8ef6076d17ec9870a59422d36638994ba3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T18:58:16.612550-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047502",
+      "size": "1486",
+      "md5": "dee0e901fe334c49d3b551add37159b4",
+      "crc32": "8a36f7e2",
+      "sha1": "c43f1832faaa1792906b8d004dc62e711ab08786",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T18:58:16.612550-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047504",
+      "size": "114576",
+      "md5": "0d15e9d5b15690db1a0148fea04fdcfa",
+      "crc32": "d71903ce",
+      "sha1": "337e46e874e1b7be9090d03bfef65728809e1f68",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-17T18:58:16.612550-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-17T18:58:16.612550-04:00.jpg",
+      "mtime": "1666047559",
+      "size": "9509",
+      "md5": "29a08953a3a3d424fa9010b5a74c1593",
+      "crc32": "43b9702a",
+      "sha1": "90a7ce22ab11f65456b8e90108cbf6636fd7305f"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T06:57:07.645244-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666090631",
+      "size": "21954",
+      "md5": "9be5445454063ffdd4bdecc169babb6d",
+      "crc32": "c9ee827a",
+      "sha1": "04869395dac0a068760e71d914e5728d32ce96f0",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T06:57:07.645244-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666090633",
+      "size": "30174",
+      "md5": "f3698a4c19cade5044a3c10a222f5f09",
+      "crc32": "9c98db23",
+      "sha1": "6cb14d53addaa4502525bcb8c2c085624116810d",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T06:57:07.645244-04:00.jpg",
+      "source": "original",
+      "mtime": "1666090630",
+      "size": "237242",
+      "md5": "2424e4a058cd7b1042b4f2ba818dbac4",
+      "crc32": "e9e2f39e",
+      "sha1": "e1c14f4cf36f21e32ccdbe6f0897b23766834732",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T06:57:07.645244-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666090635",
+      "size": "1486",
+      "md5": "2a3c188bb0363946efdc73585e767609",
+      "crc32": "d53f822b",
+      "sha1": "39460c0d2fd4b4fd3653b0ba0dbcbc162dae02bc",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T06:57:07.645244-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666090637",
+      "size": "95606",
+      "md5": "4f8a41ae8bb5f8cd8f76f75ac2e06aed",
+      "crc32": "e2ec0ee4",
+      "sha1": "bda74a52892e1c450cd975cc3c6d9dcaf96e8901",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T06:57:07.645244-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-18T06:57:07.645244-04:00.jpg",
+      "mtime": "1666090728",
+      "size": "9234",
+      "md5": "ecbde7dbbb0c09dc9586feb4d25fe683",
+      "crc32": "e81d0814",
+      "sha1": "0dfd9e20c237cdc5c41ceed5afb52e9ac5016ba6"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T19:13:54.539371-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134840",
+      "size": "21120",
+      "md5": "4f79681f79768ec53521263db60f460c",
+      "crc32": "a2f14a66",
+      "sha1": "0cfea8afcfca9a715f03c8d83cd4764d80684af9",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T19:13:54.539371-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134842",
+      "size": "38721",
+      "md5": "a3fe20a0679a597466464105c62f6546",
+      "crc32": "32ff1354",
+      "sha1": "79317644ae1b45b8ed02ebff2e980ba26c875d34",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T19:13:54.539371-04:00.jpg",
+      "source": "original",
+      "mtime": "1666134839",
+      "size": "233639",
+      "md5": "36dd06205e934f4ca6284620ec7c9518",
+      "crc32": "c405ad58",
+      "sha1": "40b66cc9987ae6af43a8345f3c27103c6a90e97f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T19:13:54.539371-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134844",
+      "size": "1486",
+      "md5": "ca741a3318daaaef90e47b88e34a9ee7",
+      "crc32": "24f51530",
+      "sha1": "aa3e49ec49834f2c91edd3efb614bf8382b0e473",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T19:13:54.539371-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134845",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-18T19:13:54.539371-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-18T19:13:54.539371-04:00.jpg",
+      "mtime": "1666160312",
+      "size": "9374",
+      "md5": "369d29ad670248b9dad42fc376187bb0",
+      "crc32": "8e79d9d0",
+      "sha1": "2175ec26e8e37ec870e154c41c3826f63dbc4f07"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T06:57:05.733368-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666177028",
+      "size": "21880",
+      "md5": "01bb0bdc09f531c3afa59394652b522d",
+      "crc32": "87878d5c",
+      "sha1": "1632d3ab90711147556522bae3a43007ade71712",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T06:57:05.733368-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666177030",
+      "size": "31605",
+      "md5": "56dff013f8081a00ea5b25b2492db6c2",
+      "crc32": "8b3bd169",
+      "sha1": "53e7ffc30435dc425da889c5464c5c4bf0cbd48e",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T06:57:05.733368-04:00.jpg",
+      "source": "original",
+      "mtime": "1666177027",
+      "size": "254919",
+      "md5": "eedfe23810560fde81ca90e509f60475",
+      "crc32": "c6cc8c27",
+      "sha1": "486c9664e0956d6c4e9a33447f0d40034ac797a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T06:57:05.733368-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666177032",
+      "size": "1486",
+      "md5": "731c9b7df17282aa8a0b15d02dd3d3e2",
+      "crc32": "77f7e7cb",
+      "sha1": "c57e4cdf8d15caae686629c2b65d21154255f2c5",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T06:57:05.733368-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666177034",
+      "size": "68127",
+      "md5": "fe220000d75fb1d6f6d869b0fd916243",
+      "crc32": "7decb822",
+      "sha1": "36e124fe55a184d406c5dbd4e582b7258ade065f",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T06:57:05.733368-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-19T06:57:05.733368-04:00.jpg",
+      "mtime": "1666196734",
+      "size": "9519",
+      "md5": "ab6a48aaa0ab05e1d3442b3cc48915fa",
+      "crc32": "9f77b5a4",
+      "sha1": "555c4722d71769bac8f1f126c135b8875a074973"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T19:10:33.844619-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666221041",
+      "size": "22233",
+      "md5": "58550b5f2f247745b5db6fc5539f27d2",
+      "crc32": "b11d6c72",
+      "sha1": "2fda8cf470772cce31a3e86d5ce260fa7c776bc5",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T19:10:33.844619-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666221044",
+      "size": "31807",
+      "md5": "905c1706e304057a7150278bdde19726",
+      "crc32": "9064a170",
+      "sha1": "59c66c7400dcddbad02cbe7a76f1ce4d7f65bce1",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T19:10:33.844619-04:00.jpg",
+      "source": "original",
+      "mtime": "1666221037",
+      "size": "269182",
+      "md5": "d805943d28e2c00bcf786a72345df0d2",
+      "crc32": "e29e7f13",
+      "sha1": "4a4916b7caf48e95cbadccb83bbd14555fc2ed15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T19:10:33.844619-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666221046",
+      "size": "1486",
+      "md5": "c401c6274acc10e68a9a9e7e2f0e4818",
+      "crc32": "95dad088",
+      "sha1": "413e8112f5b4ddbe6f6035f5be1367bdbb0eb28d",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T19:10:33.844619-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666221047",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-10-19T19:10:33.844619-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-10-19T19:10:33.844619-04:00.jpg",
+      "mtime": "1666221118",
+      "size": "9615",
+      "md5": "fe27ae0f8691454fe9e2cfe21c14faf4",
+      "crc32": "80e180f7",
+      "sha1": "edfcd324b940390db9ad6ad8afa9d9b547388f60"
+    },
+    {
       "name": "cantonrepdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ea0c8160970396727f185eaba1c4225a1447f5e",
-      "mtime": "1665658231",
-      "size": "61896",
-      "md5": "5f4915646d4a7d30af4175d027b6ab8c",
-      "crc32": "df763042",
-      "sha1": "377d1b487d73f60726ed91ba4a854ed7d08093ad",
+      "btih": "01e139ce72722f8a6aa207652d320782877299ec",
+      "mtime": "1666221127",
+      "size": "78818",
+      "md5": "3b03ac57128ae6ac9bc376b044d2e620",
+      "crc32": "613ad628",
+      "sha1": "6956acce8c3aab55e7606c67e0310aa2b042d3ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cantonrepdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "506dd8e49c7bb232f00d6cb680d3b7ac",
+      "md5": "1d154923c1b3a447eb853342c4e9dd3a",
       "summation": "md5"
     },
     {
       "name": "cantonrepdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658177",
-      "size": "376832",
-      "md5": "fc7e30d3e04205bf448801ecf436cec4",
-      "crc32": "d1e4e64a",
-      "sha1": "5572163e45804dff7d6ee18914ae5b1e7cd0af15",
+      "mtime": "1666221053",
+      "size": "479232",
+      "md5": "ba97a80bb0b1b1469dbfa58d2c081753",
+      "crc32": "a8c86c28",
+      "sha1": "d8fcb224daaa624b83a921749901f325c46ae395",
       "format": "Metadata"
     },
     {
@@ -2916,9 +3722,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 282,
-  "item_last_updated": 1665658231,
-  "item_size": 19244295,
+  "files_count": 360,
+  "item_last_updated": 1666221127,
+  "item_size": 23971351,
   "metadata": {
     "identifier": "cantonrepdotcom-2022",
     "collection": [
@@ -2935,10 +3741,10 @@
     "publicdate": "2022-09-20 22:11:40",
     "addeddate": "2022-09-20 22:11:40"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 2027048610,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1411554209,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665618817,
+  "created": 1666224457,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/8/items/chilligaz-2022",
@@ -2858,31 +2858,899 @@
       "sha1": "db0daf8b34a9dc5c044911e956a80cdef44828a1"
     },
     {
+      "name": "chilligaz-2022-10-13T07:48:05.071620-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665661688",
+      "size": "20793",
+      "md5": "dde1bd06e61955a7c629984c51b4c763",
+      "crc32": "7cd651f0",
+      "sha1": "e5154dc25b980c8ef56a1ff1bb67318aa016ddb9",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-13T07:48:05.071620-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665661691",
+      "size": "50210",
+      "md5": "1cedcf856cb1e5bf8e8f150c3b9800e5",
+      "crc32": "1b41e335",
+      "sha1": "057cf433fec361057d345c3e4ae40fd2fb3a55f5",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-13T07:48:05.071620-04:00.jpg",
+      "source": "original",
+      "mtime": "1665661687",
+      "size": "295765",
+      "md5": "0844a568ee83e1ed140de55bc4f22607",
+      "crc32": "28362b8d",
+      "sha1": "6d70d1177cb9edeef317a4d31a1b9ac839ff0733",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-13T07:48:05.071620-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665661693",
+      "size": "1567",
+      "md5": "39d90ff238b815af0731d3ba7c6b4afc",
+      "crc32": "d1dd948e",
+      "sha1": "81de324ba2b94553e50bb02b1b6adc859ba35742",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-13T07:48:05.071620-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665661694",
+      "size": "92617",
+      "md5": "fe5d562f616532c12b33c98a7f2ed2f7",
+      "crc32": "4190bd65",
+      "sha1": "d57e1b7a8b2e570d80de2bd409abd18659cc6e41",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-13T07:48:05.071620-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-13T07:48:05.071620-04:00.jpg",
+      "mtime": "1665661762",
+      "size": "9146",
+      "md5": "3b27b49ea333ed2346d52f769c39cf4a",
+      "crc32": "aaa23ef6",
+      "sha1": "b3d40382d997c6f458e75ffd19a9401043a2c0b9"
+    },
+    {
+      "name": "chilligaz-2022-10-13T19:56:43.847093-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665705407",
+      "size": "19776",
+      "md5": "67ad0aa35e2c26c0c6d9f579e25e6b22",
+      "crc32": "ba48d8e8",
+      "sha1": "a6c2c52754eff5e1ca9cce0a645003498720f03e",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-13T19:56:43.847093-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665705408",
+      "size": "47062",
+      "md5": "0ad2e6929216164346fb7c199486e773",
+      "crc32": "6e00add7",
+      "sha1": "1c5ee63612cafe9c02937eebed489fbff4797b05",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-13T19:56:43.847093-04:00.jpg",
+      "source": "original",
+      "mtime": "1665705405",
+      "size": "300284",
+      "md5": "6465761b7a3db71e75fdc3ccd2b3cf40",
+      "crc32": "e277b682",
+      "sha1": "a78b93a0dbf0b3fb4ec2715ac8b21f77d2710c20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-13T19:56:43.847093-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665705410",
+      "size": "1567",
+      "md5": "182770176a8bab0e0b51d70e9089568e",
+      "crc32": "7ce288a3",
+      "sha1": "9fd42e466efc08afbc653eab0b3fef579f923309",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-13T19:56:43.847093-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665705412",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-13T19:56:43.847093-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-13T19:56:43.847093-04:00.jpg",
+      "mtime": "1665705468",
+      "size": "9557",
+      "md5": "8976826972629fc493d79cbb3618b54d",
+      "crc32": "a5baa413",
+      "sha1": "619c88ae771896c9047ccaded9f063cbbd353237"
+    },
+    {
+      "name": "chilligaz-2022-10-14T07:58:14.063357-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665748700",
+      "size": "22098",
+      "md5": "c0762e371ef15fa52b6ffa2ad3dd6284",
+      "crc32": "01df5a68",
+      "sha1": "e65636329e152c5973cec829e794b563936bf690",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-14T07:58:14.063357-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665748701",
+      "size": "45365",
+      "md5": "36c4ccb6adff2317979bec79fe4c96f5",
+      "crc32": "c172ebe3",
+      "sha1": "3e6d13bf4434e48f70d302a54f8b87e7b6802d39",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-14T07:58:14.063357-04:00.jpg",
+      "source": "original",
+      "mtime": "1665748699",
+      "size": "290414",
+      "md5": "cd0bac45b623bf9c92adbf2758497918",
+      "crc32": "866e4118",
+      "sha1": "800016e2da9d2681547aa4d72547276dc3b47ff4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-14T07:58:14.063357-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665748703",
+      "size": "1567",
+      "md5": "9352a4ab3dd37cb07d6790de3d6d229e",
+      "crc32": "30572484",
+      "sha1": "3dac544010ace1e0cf23b9b8cec62ed13d477931",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-14T07:58:14.063357-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665748704",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-14T07:58:14.063357-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-14T07:58:14.063357-04:00.jpg",
+      "mtime": "1665748786",
+      "size": "9253",
+      "md5": "8c542b7790b09e8661465b98778b1fa9",
+      "crc32": "c306227e",
+      "sha1": "02159d0b00e05ef03936ba384c0eb659832e9cf1"
+    },
+    {
+      "name": "chilligaz-2022-10-14T20:05:58.796579-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665792365",
+      "size": "19442",
+      "md5": "554257bd81679439fa708af2fa5f77f1",
+      "crc32": "96b9fd12",
+      "sha1": "1937a8dfe30bb590cdd3de5d8d9d0f39b4b3e0af",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-14T20:05:58.796579-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665792367",
+      "size": "43061",
+      "md5": "26557937da926176ec1bea97de8c420a",
+      "crc32": "c2383827",
+      "sha1": "6f0c4ef007d529a8437cbc831cf06165dd91905d",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-14T20:05:58.796579-04:00.jpg",
+      "source": "original",
+      "mtime": "1665792363",
+      "size": "254947",
+      "md5": "bf2f289b12cc30bd06d29b92732de59f",
+      "crc32": "32a3aa20",
+      "sha1": "23b5a0a3a32b416620fad237d0ba7d1c2c0be625",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-14T20:05:58.796579-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665792369",
+      "size": "1567",
+      "md5": "4be7f10e6dd9b06acbebcc01c355fe2b",
+      "crc32": "1fc70fe0",
+      "sha1": "be1a05ce8ef9dda0b088a4baccb3851af9a9ab90",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-14T20:05:58.796579-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665792371",
+      "size": "118371",
+      "md5": "abb28d774465157170801db966959f95",
+      "crc32": "a5d835d3",
+      "sha1": "8555d9ac0be0184940fa8096721bfb1be10c90e6",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-14T20:05:58.796579-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-14T20:05:58.796579-04:00.jpg",
+      "mtime": "1665792433",
+      "size": "8760",
+      "md5": "d0d659e9429236b3416c0ab0ee7ee2e7",
+      "crc32": "7818f31d",
+      "sha1": "7bd6c560c00d7caac2e8f7df9745673f7a2b4c51"
+    },
+    {
+      "name": "chilligaz-2022-10-15T07:56:38.255257-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665835014",
+      "size": "20902",
+      "md5": "8ad8b0eab700940a17b4f8d594310f58",
+      "crc32": "c7971b15",
+      "sha1": "22956c828285e353026c9a4e656ebf969713c325",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-15T07:56:38.255257-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665835016",
+      "size": "45469",
+      "md5": "cc9fae8c90f396b850a71729ab853956",
+      "crc32": "35391835",
+      "sha1": "1369588698c227a99d22e12d1a3fd67cb62e19c5",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-15T07:56:38.255257-04:00.jpg",
+      "source": "original",
+      "mtime": "1665835008",
+      "size": "256032",
+      "md5": "6b044a6e21d0d681dad1e3562e8e42d9",
+      "crc32": "59dc7903",
+      "sha1": "9f72e2392639ba855fc5574b8d07669441b0c80d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-15T07:56:38.255257-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665835022",
+      "size": "1567",
+      "md5": "7091d03a9f6804f8e9d0057ab59f11b3",
+      "crc32": "ec0562f3",
+      "sha1": "42f395878dff89df1a3e2ecab25866a28ccf5b24",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-15T07:56:38.255257-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665835023",
+      "size": "109275",
+      "md5": "0895244217894ac5f1acd9b1dbf1af74",
+      "crc32": "b673df4b",
+      "sha1": "5e6e9ddd3d06d36a94f8cadc2f0846847a403d59",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-15T07:56:38.255257-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-15T07:56:38.255257-04:00.jpg",
+      "mtime": "1665835110",
+      "size": "9190",
+      "md5": "52b6bea0c79dd3f0525ad4eb6ce5b0b8",
+      "crc32": "bff0d894",
+      "sha1": "6bbc56aaa15daa67e82610ecf2d0f68b147b3363"
+    },
+    {
+      "name": "chilligaz-2022-10-15T20:03:32.662266-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665878618",
+      "size": "20342",
+      "md5": "c0df18bbb13538d46e1ce5a01bb385c5",
+      "crc32": "50e30e38",
+      "sha1": "232f1cceae5dc25583e100c6539575da8020e15b",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-15T20:03:32.662266-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665878620",
+      "size": "41609",
+      "md5": "f48f80ba6e2001c29f9d0d11ce15ad89",
+      "crc32": "321ae69b",
+      "sha1": "829cdae62183c39e1ae67ac37b0eb0967d1d8ce0",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-15T20:03:32.662266-04:00.jpg",
+      "source": "original",
+      "mtime": "1665878616",
+      "size": "259893",
+      "md5": "3453b4e4f12c7d91673f46e67e674d6d",
+      "crc32": "a96a5322",
+      "sha1": "9b9fa362bede687ee7aff11638e08456fcd1370b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-15T20:03:32.662266-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665878622",
+      "size": "1567",
+      "md5": "ae760271106d637d83423b379250da66",
+      "crc32": "06490e27",
+      "sha1": "bd73111da17cd13aa69d8d44bde3978eb31b773b",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-15T20:03:32.662266-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665878624",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-15T20:03:32.662266-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-15T20:03:32.662266-04:00.jpg",
+      "mtime": "1665878674",
+      "size": "9249",
+      "md5": "7a36d383f7196543b0869074089ba41e",
+      "crc32": "1a399393",
+      "sha1": "ba83807f2a7150673e1d8d15a31b52bbdf390449"
+    },
+    {
+      "name": "chilligaz-2022-10-16T07:52:08.709457-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665921133",
+      "size": "21134",
+      "md5": "2e741ada18e0d44aebb231b67db16af6",
+      "crc32": "6521777d",
+      "sha1": "1e4003b31ae2a85c0f115bb61081a4ec1e11bcb7",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-16T07:52:08.709457-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665921135",
+      "size": "44133",
+      "md5": "c81d7b46af76c48766298d7e335e04c0",
+      "crc32": "feccf6ff",
+      "sha1": "79c28520ef69161e7ad9785b436bde3ea42ce391",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-16T07:52:08.709457-04:00.jpg",
+      "source": "original",
+      "mtime": "1665921131",
+      "size": "220089",
+      "md5": "988f7480c1ccd4753e062bff20bfd666",
+      "crc32": "6efb3a24",
+      "sha1": "ae1f37afb4d71cef96cfea7b217125b5234710c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-16T07:52:08.709457-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665921136",
+      "size": "1567",
+      "md5": "42b82a56e87894b90c9b74db3a6ad129",
+      "crc32": "78cf3d60",
+      "sha1": "eeef75ae6dc77177a68090da09492a179417f10e",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-16T07:52:08.709457-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665921138",
+      "size": "101579",
+      "md5": "db6ab789451152429ca1619ca6025a1c",
+      "crc32": "2856aaa2",
+      "sha1": "6cbfb8c059c620ea3a320f3e4839e1a3716feccb",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-16T07:52:08.709457-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-16T07:52:08.709457-04:00.jpg",
+      "mtime": "1665921189",
+      "size": "8906",
+      "md5": "dcaed35c80195a3f411551eb09097818",
+      "crc32": "2b13615f",
+      "sha1": "299ec132dc3a4d8dd1101519654b9444e4493cf2"
+    },
+    {
+      "name": "chilligaz-2022-10-16T19:56:14.365870-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665964581",
+      "size": "20720",
+      "md5": "be6b6ac2988d49ff2ce33e422ad6a306",
+      "crc32": "e166fba5",
+      "sha1": "054cd86d3c6dd6e80d97db21bde17bcf0f74af26",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-16T19:56:14.365870-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665964583",
+      "size": "44190",
+      "md5": "9de59b0d809756db98f93a8a31e9ba43",
+      "crc32": "65961c68",
+      "sha1": "f933faf4b0e04996a2fe6d36387499f92bf79522",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-16T19:56:14.365870-04:00.jpg",
+      "source": "original",
+      "mtime": "1665964579",
+      "size": "221872",
+      "md5": "4e8ffd87f9d043d948d96f19d5fac6a8",
+      "crc32": "2b0a7599",
+      "sha1": "4c94b21a9452aea4645f9767cf4134e71532baef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-16T19:56:14.365870-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665964584",
+      "size": "1567",
+      "md5": "39fb9db7f8f23f7b02d4ec7592510bb6",
+      "crc32": "2aaa44e3",
+      "sha1": "c7b347ac40c5497cf8d39dcb00a9eea1568762a1",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-16T19:56:14.365870-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665964586",
+      "size": "92510",
+      "md5": "8671b552d95774c8c11a97a87cf2654d",
+      "crc32": "b3d93723",
+      "sha1": "a9cfa9f422db89aef4d515cb279dd357887ff52e",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-16T19:56:14.365870-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-16T19:56:14.365870-04:00.jpg",
+      "mtime": "1665964652",
+      "size": "8963",
+      "md5": "5fc8cc6f5153d1d11267b0089e655700",
+      "crc32": "a7eee3d5",
+      "sha1": "7e0bd18cabf6390d31fb244b4ebeca6e3539ac7a"
+    },
+    {
+      "name": "chilligaz-2022-10-17T07:50:31.603253-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666007437",
+      "size": "20133",
+      "md5": "11fd080fe817fec429f634f8672b20a5",
+      "crc32": "e1958db5",
+      "sha1": "fc1ed93defc9a8ed55c864f18f656c352c54eabd",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-17T07:50:31.603253-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666007439",
+      "size": "39018",
+      "md5": "bc666996f5a23babbaa581767f156f29",
+      "crc32": "047e1285",
+      "sha1": "230d45c01536b6124106a3c627dd9d6686fc419a",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-17T07:50:31.603253-04:00.jpg",
+      "source": "original",
+      "mtime": "1666007436",
+      "size": "284879",
+      "md5": "1c8f6ccd5b88ab7ab38d247d259385a8",
+      "crc32": "a07e95e4",
+      "sha1": "1b850c5de9e6fbaa1bf5ad0b61039eef47cfe8e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-17T07:50:31.603253-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666007441",
+      "size": "1566",
+      "md5": "635bbb5828646448fc387bfec74d4351",
+      "crc32": "c83df9f1",
+      "sha1": "cfc698a34831df68a4630c14bfb664500b987a4f",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-17T07:50:31.603253-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666007443",
+      "size": "93801",
+      "md5": "fc8d76a7c3e5c82bd074422c1bbc7e5d",
+      "crc32": "460c7ebb",
+      "sha1": "558e0e6462d398d77811b57e957f8e6c8490269c",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-17T07:50:31.603253-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-17T07:50:31.603253-04:00.jpg",
+      "mtime": "1666007602",
+      "size": "8761",
+      "md5": "3f34fb4c229a6dbb66fe4227cc7834cf",
+      "crc32": "2e724447",
+      "sha1": "f5464db1aa3aef52cfa0e376a2eabfeb900b3608"
+    },
+    {
+      "name": "chilligaz-2022-10-17T19:48:24.339400-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666050509",
+      "size": "20523",
+      "md5": "a7f151926ee896a73415dd777c95f26a",
+      "crc32": "5cd92188",
+      "sha1": "1dff3d43d96363fc310a8fba734294eeef72d5cf",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-17T19:48:24.339400-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666050511",
+      "size": "38081",
+      "md5": "eecf2d5c25d08707af3498ca3b6707ba",
+      "crc32": "1f96b4b9",
+      "sha1": "3bdb23cefb96c3030245491501ac00a4f9a313f2",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-17T19:48:24.339400-04:00.jpg",
+      "source": "original",
+      "mtime": "1666050508",
+      "size": "303450",
+      "md5": "d7c8065af3002601409e03960e8e83a5",
+      "crc32": "cb8ddcaa",
+      "sha1": "d5fa53f5e06d0ba95a9c62a951af464e5b74497d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-17T19:48:24.339400-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666050512",
+      "size": "1567",
+      "md5": "82a58e17218b18a9f3cab09b32cf8c95",
+      "crc32": "4f3d5b26",
+      "sha1": "9ac37681a95d79c2ec05245a086e4c53ba7d1ea1",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-17T19:48:24.339400-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666050514",
+      "size": "114694",
+      "md5": "41692478d1e530bc2ec7624bf167229c",
+      "crc32": "a102466c",
+      "sha1": "cf3ef0b1a9f74e19693fa663aaf7fc2ec34bc0f8",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-17T19:48:24.339400-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-17T19:48:24.339400-04:00.jpg",
+      "mtime": "1666050568",
+      "size": "9187",
+      "md5": "1d895a61e29b819979629803bc556ef8",
+      "crc32": "aa2b1dfe",
+      "sha1": "0e470214e77e825efaa2b23ace7ed4a333689c59"
+    },
+    {
+      "name": "chilligaz-2022-10-18T07:56:42.648329-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666094208",
+      "size": "20478",
+      "md5": "664bafcfc963cb450a1a58281a0380ba",
+      "crc32": "e7eafb96",
+      "sha1": "fbe1976a34b8039502f45572c711f023eed8e3a6",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-18T07:56:42.648329-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666094210",
+      "size": "46420",
+      "md5": "16e9870b0e915fb3098e0ec5d243a65e",
+      "crc32": "cfbe74f9",
+      "sha1": "eb1cf6068190d9cf6ed5f27bf4e7d4bbea8c26a0",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-18T07:56:42.648329-04:00.jpg",
+      "source": "original",
+      "mtime": "1666094206",
+      "size": "254946",
+      "md5": "991dbbb5a628b71dffdccc4f550a0e5d",
+      "crc32": "4269703f",
+      "sha1": "77bbda554a9f70deb488488fdfe7362296e608a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-18T07:56:42.648329-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666094211",
+      "size": "1567",
+      "md5": "9b4b3cf44ab8f1e8c2a50bc324bca2d2",
+      "crc32": "67df1568",
+      "sha1": "4e5e99c79057f71f51dea20de4cbac3cc0164716",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-18T07:56:42.648329-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666094213",
+      "size": "95280",
+      "md5": "eda53db83e132f13e4267233dbfa54e9",
+      "crc32": "6d89cc9d",
+      "sha1": "b601d9cc6e0d8a8640bcdaf5bbfb4d169ca86b62",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-18T07:56:42.648329-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-18T07:56:42.648329-04:00.jpg",
+      "mtime": "1666094551",
+      "size": "9412",
+      "md5": "92743dbe901044e3768c39fb3b6e6229",
+      "crc32": "86fb6a58",
+      "sha1": "93c47cfe1bbfc75be728394142679f4dc33a1a75"
+    },
+    {
+      "name": "chilligaz-2022-10-18T20:18:30.745112-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138717",
+      "size": "19187",
+      "md5": "1e0b74e51450254195b111f18f06b486",
+      "crc32": "a785378e",
+      "sha1": "6fa8e6da7f746f14e54fee1e6f0f68dd7eaec46a",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-18T20:18:30.745112-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138719",
+      "size": "34217",
+      "md5": "bb26c1bfacf42bee3d9b028f96c3f80b",
+      "crc32": "1547d306",
+      "sha1": "6a0f6ee04b9e5201c0970bf4d650d47f443d72a4",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-18T20:18:30.745112-04:00.jpg",
+      "source": "original",
+      "mtime": "1666138715",
+      "size": "247372",
+      "md5": "39bc0d27509268f8a69bd05aa6e74e19",
+      "crc32": "d8c9ce0b",
+      "sha1": "b1e615fb7d9768e6ddac7ecc21a109b53b33741f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-18T20:18:30.745112-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138720",
+      "size": "1567",
+      "md5": "62391a2826b7bd92071d4099d40ddad7",
+      "crc32": "82712cc4",
+      "sha1": "5c1fa478c2cf5082623e3dc2d26addcdfe978b31",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-18T20:18:30.745112-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138722",
+      "size": "215",
+      "md5": "a71be21119009a64ba683f21f9191a60",
+      "crc32": "74a87de4",
+      "sha1": "757ab0cb25667c05e612442bbd070e5e3d297d7b",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-18T20:18:30.745112-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-18T20:18:30.745112-04:00.jpg",
+      "mtime": "1666162734",
+      "size": "9288",
+      "md5": "bdfa3809dc4c7a704e00cc365699360f",
+      "crc32": "36cd4e8e",
+      "sha1": "ecfedc815a8abc312bd969be1d71d5cb32c5ea30"
+    },
+    {
+      "name": "chilligaz-2022-10-19T07:59:32.558029-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666180777",
+      "size": "22676",
+      "md5": "0c90c66aa32ad0df5ae033cba5f61748",
+      "crc32": "5e715edf",
+      "sha1": "8e65b0030df00b55df1841375c9be7dec1131066",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-19T07:59:32.558029-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666180779",
+      "size": "50425",
+      "md5": "7f0d4707230f8c1a3d1b14fdae8af7cc",
+      "crc32": "ce6aecf5",
+      "sha1": "fb0c6597f9aace10b66f23411591236d5726fad8",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-19T07:59:32.558029-04:00.jpg",
+      "source": "original",
+      "mtime": "1666180776",
+      "size": "287325",
+      "md5": "e9e1b31205e36c79f96fb4f0441b3067",
+      "crc32": "9d83faa2",
+      "sha1": "ddd0a16f2d06f4eb2d10d6fd0f9d1b03e065b390",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-19T07:59:32.558029-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666180780",
+      "size": "1566",
+      "md5": "e91095e601778f254b3a81e793d8c5b8",
+      "crc32": "07a77191",
+      "sha1": "d2869aed75a3aa7d7d1f8a839374a1a6a59d43b1",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-19T07:59:32.558029-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666180782",
+      "size": "91568",
+      "md5": "0a0d3a893d03d7840775ead09b8493e7",
+      "crc32": "46e50453",
+      "sha1": "857c772bc9aef856da57e4caa4345c7c9348452e",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-19T07:59:32.558029-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-19T07:59:32.558029-04:00.jpg",
+      "mtime": "1666198940",
+      "size": "9454",
+      "md5": "bdd803e53b6b2ab7c0559ef1f31fbc86",
+      "crc32": "22b96dde",
+      "sha1": "704c0deaac03af57f2c1126538694cb407b26ade"
+    },
+    {
+      "name": "chilligaz-2022-10-19T20:06:14.208628-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224379",
+      "size": "20180",
+      "md5": "e9535603ba9bb2d3cc9cef700e533376",
+      "crc32": "eba40c3b",
+      "sha1": "7c593c2c408d9207eed68a82ef24d320806b0fdd",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-19T20:06:14.208628-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224380",
+      "size": "36663",
+      "md5": "1f13e8398668edb87e903d847099bdd9",
+      "crc32": "41ebeb61",
+      "sha1": "d68179f2896bebe4a12817b05d3de0d4bef555c6",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-19T20:06:14.208628-04:00.jpg",
+      "source": "original",
+      "mtime": "1666224377",
+      "size": "280198",
+      "md5": "503d66e1da84bc49f9fb429df6900190",
+      "crc32": "97f90dce",
+      "sha1": "cf6af5747524eb75fa15911c23517a4b115f0d52",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-19T20:06:14.208628-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224382",
+      "size": "1567",
+      "md5": "cc5614f68691fde36c40230cfe1473fd",
+      "crc32": "e86a651b",
+      "sha1": "bcebccb6770848dee843919d5a8142f9c1033368",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-19T20:06:14.208628-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224383",
+      "size": "107664",
+      "md5": "729386e152045796a811e4c2afc4837b",
+      "crc32": "56fd76cc",
+      "sha1": "d8945693a6c0fa7b8b00ecd035d2db8e10597199",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-19T20:06:14.208628-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-19T20:06:14.208628-04:00.jpg",
+      "mtime": "1666224436",
+      "size": "9335",
+      "md5": "06969b4f51e123aecb7c05bdbf27cbbd",
+      "crc32": "ce776e0b",
+      "sha1": "09024bb57fc8bb0e1b79720c9fb04fe3d4d26fc4"
+    },
+    {
       "name": "chilligaz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3928e82be13f252aad8e95ae83fb61de32b14596",
-      "mtime": "1665618807",
-      "size": "59810",
-      "md5": "bb9bba3a67ebc747de12f46cced7a711",
-      "crc32": "06437eeb",
-      "sha1": "7e44bdae00a072406231c93f74faddeef7e6fa91",
+      "btih": "b9eb7622c9ad5fcdb522d0bf7c5d8da4fca21fa1",
+      "mtime": "1666224441",
+      "size": "77569",
+      "md5": "45339409722a9e7293caf78309a4deba",
+      "crc32": "9365ab34",
+      "sha1": "0a292879797b2f7832e37bc39d611cd15e29e231",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chilligaz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b79a32c192665cb97786c5c3bdbaad1",
+      "md5": "b7f452eb208670b78f7aa6d800f0c34c",
       "summation": "md5"
     },
     {
       "name": "chilligaz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665618755",
-      "size": "372736",
-      "md5": "5484875ca525916fd1368cba4d3081fe",
-      "crc32": "c142b5ea",
-      "sha1": "38f1bcdc77217d1c3d270769cfd3f04c8915fe46",
+      "mtime": "1666224387",
+      "size": "475136",
+      "md5": "b921227a6c3809e07fd6b5398293b7c3",
+      "crc32": "cbfa3518",
+      "sha1": "e067cc50cfedd02211006c6d7047e9f2769e83d9",
       "format": "Metadata"
     },
     {
@@ -2896,9 +3764,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 280,
-  "item_last_updated": 1665618807,
-  "item_size": 19802856,
+  "files_count": 364,
+  "item_last_updated": 1666224441,
+  "item_size": 25743365,
   "metadata": {
     "identifier": "chilligaz-2022",
     "collection": [
@@ -2915,10 +3783,10 @@
     "publicdate": "2022-09-20 22:13:45",
     "addeddate": "2022-09-20 22:13:45"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 895514472,
+  "server": "ia601402.us.archive.org",
+  "uniq": 1074522939,
   "workable_servers": [
-    "ia801402.us.archive.org",
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }

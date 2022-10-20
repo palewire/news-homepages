@@ -1,5 +1,5 @@
 {
-  "created": 1665673972,
+  "created": 1666191959,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/towntalkdotcom-2022",
@@ -2868,31 +2868,764 @@
       "sha1": "3697ce62e8cba886808074f72aed9ab4215364ab"
     },
     {
+      "name": "towntalkdotcom-2022-10-13T22:56:35.699059-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665719805",
+      "size": "20644",
+      "md5": "de2bf7177e2b6590f83dbd3c7ea1c1e5",
+      "crc32": "f23dec21",
+      "sha1": "d0ba00849e38afd6ccbd9f32a29ff5c737a1b486",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-13T22:56:35.699059-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665719807",
+      "size": "33313",
+      "md5": "027aac424fb906e31e6ed9405f689b39",
+      "crc32": "4098bbf4",
+      "sha1": "79474c00e058e35181d2c945472d96d6f1957479",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-13T22:56:35.699059-05:00.jpg",
+      "source": "original",
+      "mtime": "1665719803",
+      "size": "238034",
+      "md5": "0fd65f9ecbbd8c46d18b9b25c0cffa1d",
+      "crc32": "ec59c9f5",
+      "sha1": "1a1f35945a20fbf803ab303daf7088a52560bd87",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-13T22:56:35.699059-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665719808",
+      "size": "1504",
+      "md5": "49368617ca9d3999dfe1cc08513bd02c",
+      "crc32": "9d695557",
+      "sha1": "da43d2bac789d3c591320fa6f391ba6de710eefc",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-13T22:56:35.699059-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665719812",
+      "size": "76619",
+      "md5": "fe12dfb69ebebe38c03f2b93e663c6fd",
+      "crc32": "45aa3f0d",
+      "sha1": "40c2326a08aa11734092105b85cc5cddf6837ead",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-13T22:56:35.699059-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-13T22:56:35.699059-05:00.jpg",
+      "mtime": "1665719873",
+      "size": "8849",
+      "md5": "e2ff9d5bdece095557c0bcc7b09d70a2",
+      "crc32": "75cb3eca",
+      "sha1": "7354316d4ac34ae8067737f6a863bc867ea3e6e6"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T11:28:57.372542-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665764943",
+      "size": "21435",
+      "md5": "396b490932d04cd46adc49bbc998d4c3",
+      "crc32": "81941199",
+      "sha1": "dbf7f85df0b27cdca5b061927651900666460e14",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T11:28:57.372542-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665764946",
+      "size": "31947",
+      "md5": "dd84065db248bba4e4c05dad6d94ee5b",
+      "crc32": "d97bfdff",
+      "sha1": "d8668332fc6848a5464f084189999e894d4ed762",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T11:28:57.372542-05:00.jpg",
+      "source": "original",
+      "mtime": "1665764940",
+      "size": "240463",
+      "md5": "c75c2ec53449fbd4808b61f5dbe2a035",
+      "crc32": "6d3874d5",
+      "sha1": "3084ec8f528c8b6210b71eb630348adab948402b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T11:28:57.372542-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665764948",
+      "size": "1504",
+      "md5": "b4ac6597ca5e3d16c17431dd732502d1",
+      "crc32": "c597a9bd",
+      "sha1": "65c9cdf10026ba07c8a63322a798b775a4debe31",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T11:28:57.372542-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665764951",
+      "size": "79520",
+      "md5": "5f07d6fe9359d735692d1724d8ac321c",
+      "crc32": "03dfe183",
+      "sha1": "df72fd7af8a50b837be681f9822950633e5c320c",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T11:28:57.372542-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-14T11:28:57.372542-05:00.jpg",
+      "mtime": "1665765135",
+      "size": "8937",
+      "md5": "240782aa9484d938ceec53fd1f3f7702",
+      "crc32": "e29d6ddc",
+      "sha1": "0268a8fba832fc3d7d2ebe7e889c7b5b7f2a35be"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T22:56:56.520006-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665806227",
+      "size": "20359",
+      "md5": "602d363c8d593c2a817380b64a9358c0",
+      "crc32": "bbb23d6e",
+      "sha1": "be1f734fb960d01480c7a6531b8f784f71c8d1b9",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T22:56:56.520006-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665806229",
+      "size": "40912",
+      "md5": "5db625207d1b250e5a8170777fb7a037",
+      "crc32": "7f943e38",
+      "sha1": "9b79d046f6baf5dc00ada355465fbdcb2c093e05",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T22:56:56.520006-05:00.jpg",
+      "source": "original",
+      "mtime": "1665806226",
+      "size": "238045",
+      "md5": "2c7008970f3cb36908e03249b3516116",
+      "crc32": "fb3eb36f",
+      "sha1": "693721365108494191da998bf0a05f6ccd3e1456",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T22:56:56.520006-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665806231",
+      "size": "1504",
+      "md5": "2341532f075a95a5c10128bf58414f45",
+      "crc32": "37c170e6",
+      "sha1": "4a4075c72896d6db00194d57a34c1ebcb89a75b2",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T22:56:56.520006-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665806233",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-14T22:56:56.520006-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-14T22:56:56.520006-05:00.jpg",
+      "mtime": "1665806296",
+      "size": "9004",
+      "md5": "37808b513edcb5c0e91afd37e19be1c9",
+      "crc32": "067f7f2c",
+      "sha1": "5da2b4160c5cf7fd3ffedfea737910166ec38076"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T10:15:40.875933-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665846944",
+      "size": "21138",
+      "md5": "399fbaec66935319bece7ff031926ce1",
+      "crc32": "3a7a08b6",
+      "sha1": "e02f00dc7a680278f2e443972060457b123773f9",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T10:15:40.875933-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665846945",
+      "size": "31614",
+      "md5": "4df4e6fd8c8178018ab4d395ae69d01c",
+      "crc32": "8e4ee33f",
+      "sha1": "0d6ba0932b7d7463db97d37ba9e5652bd13804c7",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T10:15:40.875933-05:00.jpg",
+      "source": "original",
+      "mtime": "1665846942",
+      "size": "237126",
+      "md5": "a5220d14c094c28f4260fcfd42f4a821",
+      "crc32": "ad83da3a",
+      "sha1": "aeddd7a872dd516bed316207ab7eca9b6b0ce0c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T10:15:40.875933-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665846947",
+      "size": "1504",
+      "md5": "a5d4fdab8c9ea6486c520a8fba200581",
+      "crc32": "9a51ee7e",
+      "sha1": "97991d63668c031d35b23aca1e145f8a260a2c2a",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T10:15:40.875933-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665846948",
+      "size": "133225",
+      "md5": "9b829207ed489a72ff2803bddf567dfa",
+      "crc32": "8ef4e1ec",
+      "sha1": "701d8a932a82a9570780514ec71aa2a6aa9ba70b",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T10:15:40.875933-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-15T10:15:40.875933-05:00.jpg",
+      "mtime": "1665847003",
+      "size": "9022",
+      "md5": "0798167b99cfa729976995125b381327",
+      "crc32": "f493b9bf",
+      "sha1": "766aa07f38670e0570a4e20d6913b64a50ef3a91"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T22:58:51.818900-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665892733",
+      "size": "19605",
+      "md5": "4a3fc5730214db36945e1e40720b54a6",
+      "crc32": "25b257dc",
+      "sha1": "8fc1b6cfbc4c9239b01528f46f968193526d4436",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T22:58:51.818900-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665892735",
+      "size": "32807",
+      "md5": "e701f50b7d314e78bde9dbc97ef9f213",
+      "crc32": "6ffecd9b",
+      "sha1": "b1c70da62bf3088bdf21c73c8228e05d5257fc12",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T22:58:51.818900-05:00.jpg",
+      "source": "original",
+      "mtime": "1665892732",
+      "size": "239436",
+      "md5": "fedf7c455b506bd20bb49e975d35a692",
+      "crc32": "7deb3cdd",
+      "sha1": "9028ffe11c61c43f76729e84133754b3f9e21145",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T22:58:51.818900-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665892736",
+      "size": "1504",
+      "md5": "cca675fdfea794e95ab66ea998e303fd",
+      "crc32": "15cd0a96",
+      "sha1": "9dd2a62d8b3850d32317fdd805624a882a133798",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T22:58:51.818900-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665892738",
+      "size": "95619",
+      "md5": "c2896c097ff610e4bb7c6aaf5b837e88",
+      "crc32": "295bd810",
+      "sha1": "eeac49a447e4413ffb223fc5469e4bb2c78bbdf8",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-15T22:58:51.818900-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-15T22:58:51.818900-05:00.jpg",
+      "mtime": "1665892797",
+      "size": "9091",
+      "md5": "73a19e6b9d09329b889a5fb724e0f922",
+      "crc32": "06776069",
+      "sha1": "edf0cc9c9328b37587bc7d1cae99c4b197003b9e"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T10:08:07.596175-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665932896",
+      "size": "19980",
+      "md5": "4ed95e3067ea79d2a2fb278c0486469e",
+      "crc32": "86e7b8cc",
+      "sha1": "28c89b311440ffea6654848a3ad44fa1144dc16c",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T10:08:07.596175-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665932898",
+      "size": "28969",
+      "md5": "94452a6de9e37979a343e0019eb9179d",
+      "crc32": "6d83c46a",
+      "sha1": "ff2a801558be30c163202447002529585edd5cc7",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T10:08:07.596175-05:00.jpg",
+      "source": "original",
+      "mtime": "1665932895",
+      "size": "240639",
+      "md5": "b6e296a3ea713ddcf626a7ec6778e7bf",
+      "crc32": "409e999f",
+      "sha1": "d2f35627a4c17eb40dfb51cb8422816eca2a4c75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T10:08:07.596175-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665932899",
+      "size": "1504",
+      "md5": "16a5370fab6f1f32cc87132ca2e0dee3",
+      "crc32": "6a6efad5",
+      "sha1": "08c8c79a3565683cd951734797414ea98c6149ec",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T10:08:07.596175-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665932901",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T10:08:07.596175-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-16T10:08:07.596175-05:00.jpg",
+      "mtime": "1665932954",
+      "size": "9107",
+      "md5": "3be14b0ee6abfc3d1205bdb1170e2c01",
+      "crc32": "768c001b",
+      "sha1": "c5b2aab558451050cbb5a38212d2d044001962d0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T22:50:26.777524-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665978632",
+      "size": "20318",
+      "md5": "b2e34e0422eb2e1414df6ddfd2fd9e9d",
+      "crc32": "9ffdc6f2",
+      "sha1": "19a3f875be06bba3f9da0b0b919776b1034fe97e",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T22:50:26.777524-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665978634",
+      "size": "32645",
+      "md5": "93f3222cbd0f8326cb6353a5d8cc3471",
+      "crc32": "fa8ca8c6",
+      "sha1": "854c76744b62bcca4fc15a117679b9372bd07cc5",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T22:50:26.777524-05:00.jpg",
+      "source": "original",
+      "mtime": "1665978630",
+      "size": "252287",
+      "md5": "9e80579267dec37eb82f615de0620bf8",
+      "crc32": "31c6e8af",
+      "sha1": "53e18d93de490e69183bb26e59d6f96b2cbe40e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T22:50:26.777524-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665978635",
+      "size": "1504",
+      "md5": "9c12994e3a8ceebf5605ac45a93c3c7d",
+      "crc32": "88358885",
+      "sha1": "af63f9303379ea69f31f33236f2e8a2fd6f70e32",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T22:50:26.777524-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665978637",
+      "size": "252",
+      "md5": "46da58ab69e2ca4074e1660098c70250",
+      "crc32": "830588e2",
+      "sha1": "f89ddc37ef42c5bb675e34368e70152719596570",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-16T22:50:26.777524-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-16T22:50:26.777524-05:00.jpg",
+      "mtime": "1665978685",
+      "size": "9452",
+      "md5": "04b2790bc66ecff6469c2dd498f66e51",
+      "crc32": "67b2ef2f",
+      "sha1": "5a9f4b82a0e87bad07622f05b3d1ecc6861cf3ac"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T10:06:37.685020-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666019202",
+      "size": "20393",
+      "md5": "f23ff90e5fca438b1bd3becd77f9660b",
+      "crc32": "109b83cf",
+      "sha1": "592188b809985cf3fec4b01214d49c3ccac517fc",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T10:06:37.685020-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666019203",
+      "size": "29258",
+      "md5": "c725bba66ed25ce94e5f1aa688286a2c",
+      "crc32": "3e923e55",
+      "sha1": "5ce9772cfa4b0bf064e60e714455f65dccb9d43e",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T10:06:37.685020-05:00.jpg",
+      "source": "original",
+      "mtime": "1666019200",
+      "size": "225242",
+      "md5": "d9904779bc65eeed7678d2774ed5a627",
+      "crc32": "fb186da4",
+      "sha1": "70dd1d43888871b258bb87c71c94c7a72f264ecf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T10:06:37.685020-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666019205",
+      "size": "1504",
+      "md5": "a8a8c5e1dc2716a8f59e713eca08284c",
+      "crc32": "a7aa57e0",
+      "sha1": "db11ed27dfb84b44c5c648cca45f0c90f2ae7ec8",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T10:06:37.685020-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666019206",
+      "size": "115363",
+      "md5": "e872a07fe9d0e82ced8eca342d70458c",
+      "crc32": "b715ee72",
+      "sha1": "5f909d645fb352b304e7517a74e1a4fdf237e82d",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T10:06:37.685020-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-17T10:06:37.685020-05:00.jpg",
+      "mtime": "1666019270",
+      "size": "9063",
+      "md5": "d1d446980582a6e1e62889c75fb37637",
+      "crc32": "0f962138",
+      "sha1": "8a470a2770f43107776102a91bcabf4beff12e1b"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T22:43:48.891186-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666064639",
+      "size": "20075",
+      "md5": "d562cd11ec3d945b273f46cdbcf1b9a3",
+      "crc32": "2039620e",
+      "sha1": "6fb5455e226ba5c61d7b49a8d82048a0cdc48a12",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T22:43:48.891186-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666064641",
+      "size": "31361",
+      "md5": "0f45ec432ce2f8176ad4323f246754a5",
+      "crc32": "ec5e93c5",
+      "sha1": "a6ac12e9b12c81634940c55c0822cadf3a50ea01",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T22:43:48.891186-05:00.jpg",
+      "source": "original",
+      "mtime": "1666064632",
+      "size": "236318",
+      "md5": "d7a4b422502e7310834fa4e7068527f3",
+      "crc32": "762b0ae4",
+      "sha1": "553eaf673cad0edf4a71dd4c6a36a914a798195a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T22:43:48.891186-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666064642",
+      "size": "1504",
+      "md5": "48de212717818439dd213d093c97e5d4",
+      "crc32": "d17a7c87",
+      "sha1": "ed3428eb8af4b89683d31b3583c14dddae8e5b9c",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T22:43:48.891186-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666064644",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-17T22:43:48.891186-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-17T22:43:48.891186-05:00.jpg",
+      "mtime": "1666064696",
+      "size": "9145",
+      "md5": "4e9a73e2bbe137f4752266a7349041b0",
+      "crc32": "9ae7a48a",
+      "sha1": "592ae4b3a970684e53867133b5b27b4308165b54"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T10:17:48.136002-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666106272",
+      "size": "20535",
+      "md5": "09a557e887d8bfacf3fb149360ebca99",
+      "crc32": "17e63080",
+      "sha1": "6eda5d03b3035424aca255e1c7f15bd773fdb457",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T10:17:48.136002-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666106273",
+      "size": "33560",
+      "md5": "98ecf9b0eb0b3776213d7dfe39981382",
+      "crc32": "41d07295",
+      "sha1": "cdd7c6a9f3a1f4736619c48a4c3f2a98e8362320",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T10:17:48.136002-05:00.jpg",
+      "source": "original",
+      "mtime": "1666106269",
+      "size": "278322",
+      "md5": "7b4252f9c31f06c85c7eeca153e4565c",
+      "crc32": "76fc3ea9",
+      "sha1": "cb285513c4bc60a836303c945aad2e17f468cc4e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T10:17:48.136002-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666106276",
+      "size": "1503",
+      "md5": "7338bae8ff2893faf2f39b5d90fecd4f",
+      "crc32": "c6f7c686",
+      "sha1": "c8c1e37c85514784d8052f58aaa267683f25acdd",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T10:17:48.136002-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666106278",
+      "size": "72967",
+      "md5": "970ec9ee1b62ef378552b0749a397234",
+      "crc32": "9595274b",
+      "sha1": "999350d3f6d6c120b3e821fd77ba11e05a9ba427",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T10:17:48.136002-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-18T10:17:48.136002-05:00.jpg",
+      "mtime": "1666106524",
+      "size": "9362",
+      "md5": "1610c98eee3bd0786fabfe6bd4e610a6",
+      "crc32": "f9ecf76c",
+      "sha1": "f0a366822ce21add1ac88e18d7e1376c636bc2d4"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666151109",
+      "size": "20801",
+      "md5": "27a7a3d73c1c559cfa14b6152cc0c3f0",
+      "crc32": "7af2b023",
+      "sha1": "46fe100893fe3bae4a302361bc32a3a924d0a817",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666151111",
+      "size": "31957",
+      "md5": "2ef533a72eed3bcc05b0d1c5cbd6ced2",
+      "crc32": "33dcab87",
+      "sha1": "adbf5fa94fa56a55915d952bf82277588ff5230d",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.jpg",
+      "source": "original",
+      "mtime": "1666151107",
+      "size": "271860",
+      "md5": "c7965a3c1c787b29be0ed10c6dbdf113",
+      "crc32": "f82a93e1",
+      "sha1": "b651ab10ea5d16f7942808b02a485da380b0bef3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666151112",
+      "size": "1504",
+      "md5": "03e931a11cf8d15a488992d86b2dea43",
+      "crc32": "7ab01292",
+      "sha1": "4a18210827a1505651482b578e328970111d5965",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666151114",
+      "size": "94620",
+      "md5": "9d3c0eee25e626167b1b6008bd18dabf",
+      "crc32": "63b4b519",
+      "sha1": "b2dd2b423031445f2fee99eace09b17f8380db4b",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-18T22:45:04.060286-05:00.jpg",
+      "mtime": "1666170745",
+      "size": "9163",
+      "md5": "7fb1cf76308ebead38265e7485b1c79b",
+      "crc32": "c00f3be5",
+      "sha1": "06c619867ea5bc1f06b15dc74a0c4b97df5df307"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-19T10:05:03.556100-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666191906",
+      "size": "20727",
+      "md5": "e80cdd03269a03e97b7f6716b955a9d1",
+      "crc32": "35af1799",
+      "sha1": "41cd917407eca037ae3fb028ff45c2f88b70e8f8",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-19T10:05:03.556100-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666191908",
+      "size": "36584",
+      "md5": "c10c494b42b2cfd7639c7fed2b319555",
+      "crc32": "72002c89",
+      "sha1": "f6c3439bda035ae7e70840492abdb0d343a2149e",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-19T10:05:03.556100-05:00.jpg",
+      "source": "original",
+      "mtime": "1666191905",
+      "size": "268275",
+      "md5": "6c913aa73268c0ad109d3d38d9761d87",
+      "crc32": "2c6f950d",
+      "sha1": "be39df3a4e13e1f29bae5d283447b508687147d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-19T10:05:03.556100-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666191909",
+      "size": "1504",
+      "md5": "d8d95f783b28bb2682d0bf0c99445cb7",
+      "crc32": "a566c2cb",
+      "sha1": "e7b3b9648820881c389fd12ae003675c62da88d1",
+      "format": "JSON"
+    },
+    {
+      "name": "towntalkdotcom-2022-10-19T10:05:03.556100-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666191911",
+      "size": "118641",
+      "md5": "0c0c390635442e2056323b54ae0f1a07",
+      "crc32": "946a404a",
+      "sha1": "51da522325815cb54218d483e1d83d8a4d5d7eb1",
+      "format": "JSON"
+    },
+    {
       "name": "towntalkdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e8a8d16ae424c2b597d455ea28bd60c1e794633",
-      "mtime": "1665673965",
-      "size": "61303",
-      "md5": "e8385cffa3240db4de7709fba9248275",
-      "crc32": "5fbe3b4e",
-      "sha1": "392ea7a5679708cdcbf4b67cd0fc69c9126b643b",
+      "btih": "a77e7ebd0489647a87161fb5dcf8af034f359a0d",
+      "mtime": "1666191956",
+      "size": "76664",
+      "md5": "0ba8f293cd7d5803085bfd1bbfa9935d",
+      "crc32": "dad94939",
+      "sha1": "a8ef1da4e9c5f676ce151f7e0a822abd657019c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "towntalkdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7faaca7974749288ed5800e39aca6e33",
+      "md5": "d7fd1656d2cde6ed99a9f3867e116b88",
       "summation": "md5"
     },
     {
       "name": "towntalkdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665673913",
-      "size": "372736",
-      "md5": "14b2054f15380a0ce4e45542d63d0b4f",
-      "crc32": "d9d6c176",
-      "sha1": "b231b921537c771260af08e50bf7071ff49f8eb7",
+      "mtime": "1666191919",
+      "size": "466944",
+      "md5": "c64710b4d6f388aa769941cccf5c81c8",
+      "crc32": "1a097d11",
+      "sha1": "9181fdb24a74df00c65ef62328717a83cd6df8a3",
       "format": "Metadata"
     },
     {
@@ -2906,9 +3639,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1665673965,
-  "item_size": 17283283,
+  "files_count": 352,
+  "item_last_updated": 1666191956,
+  "item_size": 21905510,
   "metadata": {
     "identifier": "towntalkdotcom-2022",
     "collection": [
@@ -2925,10 +3658,21 @@
     "publicdate": "2022-09-21 03:46:13",
     "addeddate": "2022-09-21 03:46:13"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1925982053,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445719463,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1692487617,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665665911,
+  "created": 1666184281,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/28/items/hollandsentinel-2022",
@@ -2930,31 +2930,754 @@
       "sha1": "422186156bd6e6c481c847f90d2491a7172f69ca"
     },
     {
+      "name": "hollandsentinel-2022-10-13T21:18:10.572477-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665710297",
+      "size": "25814",
+      "md5": "3d2eba9ec7c1c7be95659cf2150e0c65",
+      "crc32": "a769936f",
+      "sha1": "439c43ee91cfa8b0496ddc9f081c6ffde3e72d2a",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-13T21:18:10.572477-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665710300",
+      "size": "33876",
+      "md5": "4d9ce848982959ce2eddad2b650c2282",
+      "crc32": "aa0b446d",
+      "sha1": "9e79c9275021cca1b380be5146b4adc3f684bdb3",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-13T21:18:10.572477-04:00.jpg",
+      "source": "original",
+      "mtime": "1665710295",
+      "size": "280730",
+      "md5": "f7e4a121d8044c93ed04dd8fd89dce5e",
+      "crc32": "380f215c",
+      "sha1": "bf4806a24d100afee826a9a9e47f60ae6f3f1c81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-13T21:18:10.572477-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665710302",
+      "size": "1540",
+      "md5": "3e4867b9c7044072f3e5402c3f5f6745",
+      "crc32": "2aa444e5",
+      "sha1": "dc245fb8d9859e27b38c1d8d991067f58e6039a3",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-13T21:18:10.572477-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665710304",
+      "size": "113824",
+      "md5": "e233d10a7c51e1dec22944fd0a81d3c3",
+      "crc32": "9a26d11f",
+      "sha1": "44f3a4c1f59e30a2e26d33fb4dfbe19b8b609924",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-13T21:18:10.572477-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-13T21:18:10.572477-04:00.jpg",
+      "mtime": "1665710359",
+      "size": "9731",
+      "md5": "0f432c93a811ff06127b8973ca953a92",
+      "crc32": "52417454",
+      "sha1": "a3cddf263b307a93b991d3667cc52f71bf343b57"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T09:06:04.764814-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665752771",
+      "size": "23687",
+      "md5": "63de4ab37ef92aa0a6eeaf88419a19ad",
+      "crc32": "2b06937e",
+      "sha1": "0893a6061a92e414be759c634662db7fc3acab72",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T09:06:04.764814-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665752773",
+      "size": "36196",
+      "md5": "9815f225592eb20e0c4874905cd29fad",
+      "crc32": "76559a38",
+      "sha1": "f510d7f1ea159a46313d7af0f4d86a0ba228cbc1",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T09:06:04.764814-04:00.jpg",
+      "source": "original",
+      "mtime": "1665752768",
+      "size": "283926",
+      "md5": "636dff32115fb8306c7be18a5bc26171",
+      "crc32": "b89771cd",
+      "sha1": "72697619cfa24745047feed7e41b6d35bead44cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T09:06:04.764814-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665752775",
+      "size": "1540",
+      "md5": "eae456c9a734d3e841ebf75fe90a4ac1",
+      "crc32": "8f3f0423",
+      "sha1": "1c6a6d372f5f297803722605769a880e704bf9cf",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T09:06:04.764814-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665752777",
+      "size": "94924",
+      "md5": "d2e8ad0afcdbcdf62736f66d6cc132fd",
+      "crc32": "fbb2c3c8",
+      "sha1": "4175ac276717f67b54d59db763604fecb02dda4d",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T09:06:04.764814-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-14T09:06:04.764814-04:00.jpg",
+      "mtime": "1665752865",
+      "size": "9391",
+      "md5": "a0e9e1f38b2dc22796710131e6d1e335",
+      "crc32": "9a6dbc81",
+      "sha1": "3633d78376e0d1d7c831115c453970738a055c46"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T21:19:23.533975-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665796768",
+      "size": "24177",
+      "md5": "b4045ff002e74c0c6bc841b8b635b85b",
+      "crc32": "2949348a",
+      "sha1": "7068b7c9693b9efcc8e68fe99911b0ad728099b7",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T21:19:23.533975-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665796769",
+      "size": "35937",
+      "md5": "2a5647e4f0fc5a9aa298e83ba570999a",
+      "crc32": "d894ff99",
+      "sha1": "2a0159f1fbfe2274d13b2246e1a9a639045a6307",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T21:19:23.533975-04:00.jpg",
+      "source": "original",
+      "mtime": "1665796766",
+      "size": "280808",
+      "md5": "2c3b421d5498ce3efd058ea8d6d9cc7e",
+      "crc32": "268b9fc6",
+      "sha1": "a940e90cf50a06ff7bb296457a1391c1407654e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T21:19:23.533975-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665796771",
+      "size": "1540",
+      "md5": "ebc9e5f0c775e031dab93d71931cdfef",
+      "crc32": "eb98be54",
+      "sha1": "8e641e72da6250768475eec7a2d100cbd82fc3a2",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T21:19:23.533975-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665796772",
+      "size": "88817",
+      "md5": "475c3c3bf169eb0dfa5c8883d4c6c38d",
+      "crc32": "03ba39b9",
+      "sha1": "0c24a7df8469ff0c09c9a09539424dfb136ccffe",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-14T21:19:23.533975-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-14T21:19:23.533975-04:00.jpg",
+      "mtime": "1665796827",
+      "size": "9370",
+      "md5": "75c41d6e208459ed21898d8acb12fb11",
+      "crc32": "3064322a",
+      "sha1": "71719d7646f3487b5515a424ae37ca92c7f39053"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T08:58:32.434483-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665838715",
+      "size": "23786",
+      "md5": "17ab2c8148a3e1502eb0af2efa7a4546",
+      "crc32": "0eef0ff8",
+      "sha1": "589cf08de06d3b68b6ee5a735ad95b1a6a4b29c0",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T08:58:32.434483-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665838718",
+      "size": "36785",
+      "md5": "f9a5c154cdd3373018ca24eb07b581cb",
+      "crc32": "82efab02",
+      "sha1": "045fd97a118069b30f37e122e0f20f67cee7d98d",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T08:58:32.434483-04:00.jpg",
+      "source": "original",
+      "mtime": "1665838714",
+      "size": "254312",
+      "md5": "b85866b31579738800c11cf1dd8a4c82",
+      "crc32": "091459bc",
+      "sha1": "87ea9655fe7acea8eba75280fdca86450594388c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T08:58:32.434483-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665838720",
+      "size": "1540",
+      "md5": "7dfcda5755d7552b6344319133b79a01",
+      "crc32": "d0fdeac6",
+      "sha1": "d85fec8f8092a7237cc8734faad89043605a3a95",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T08:58:32.434483-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665838722",
+      "size": "212",
+      "md5": "577cdf2ccfc7d4c38e447292aba18e75",
+      "crc32": "56ad7e6d",
+      "sha1": "677f5c5a26b7bc5985db34b72e796cd059d554f8",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T08:58:32.434483-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-15T08:58:32.434483-04:00.jpg",
+      "mtime": "1665838796",
+      "size": "9135",
+      "md5": "bd5f11fa9151f7874e755121fff34302",
+      "crc32": "785f670d",
+      "sha1": "6d80e6eed79edc58e095d83803a684593d9ea7b7"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T21:33:11.057976-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665883999",
+      "size": "24564",
+      "md5": "5850b8e43ad517c3bf63b3c21951f250",
+      "crc32": "a0676f15",
+      "sha1": "030564494cf6c1c8a8685a8f6f68df2096a0c4a3",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T21:33:11.057976-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665884001",
+      "size": "39603",
+      "md5": "04a99026a708d43b5180e071ccad7e46",
+      "crc32": "71dfc819",
+      "sha1": "e151080d43a00574da8a86e07c9f60bf820650ea",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T21:33:11.057976-04:00.jpg",
+      "source": "original",
+      "mtime": "1665883998",
+      "size": "279568",
+      "md5": "ecb9d1fcb381fd611eb8e0f933a5dc9c",
+      "crc32": "2919c6fa",
+      "sha1": "7b7ec33d589d5652c6474a78ff8e586c68ed1afc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T21:33:11.057976-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665884003",
+      "size": "1540",
+      "md5": "894379763b722a45da73027dc4459373",
+      "crc32": "7e81e114",
+      "sha1": "0b1f2c42c955ecfe11212914c563bdd49eadc470",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T21:33:11.057976-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665884004",
+      "size": "136056",
+      "md5": "81b2a63b5e144a0a779fd8eb18f717c1",
+      "crc32": "9f6eb4d2",
+      "sha1": "e5a486b589cc00b536db2ec65c324034ad3e60db",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-15T21:33:11.057976-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-15T21:33:11.057976-04:00.jpg",
+      "mtime": "1665884103",
+      "size": "9293",
+      "md5": "e2f83dbc007d9e305deadba0df67594d",
+      "crc32": "51454600",
+      "sha1": "af234edd83afa9e4f99548db7c0ad72aedd6ee6f"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T08:51:49.839075-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665924714",
+      "size": "24216",
+      "md5": "8cb9250636c065f7652783527feff8d5",
+      "crc32": "533d1223",
+      "sha1": "2d261770ef59b694c01937691707640a5f468d0a",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T08:51:49.839075-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665924716",
+      "size": "36484",
+      "md5": "d454a603877834ca193b6f17d0e5e48d",
+      "crc32": "8a819866",
+      "sha1": "e636b42c190a9712f6da075c5706f940f82a4c16",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T08:51:49.839075-04:00.jpg",
+      "source": "original",
+      "mtime": "1665924713",
+      "size": "262410",
+      "md5": "069d23645579b23d663268d4f63878e6",
+      "crc32": "cfe4bd95",
+      "sha1": "42eebcfefd5d856e0c099a6392a18acd65a9e537",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T08:51:49.839075-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665924717",
+      "size": "1540",
+      "md5": "edce204a54e3e8db9f0fc5571eca449c",
+      "crc32": "f49c9cc5",
+      "sha1": "78489af9d645cf9fb3ac4eb5282ba7df0f7ddfb1",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T08:51:49.839075-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665924719",
+      "size": "81138",
+      "md5": "30c94e9457c88d23cb66054f991d1ce2",
+      "crc32": "1f33abfc",
+      "sha1": "1793254cd131e5afaad233e8276be4d6ed1e2fb8",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T08:51:49.839075-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-16T08:51:49.839075-04:00.jpg",
+      "mtime": "1665924774",
+      "size": "9251",
+      "md5": "b892ca5f75fe6420b76b9a39e5528604",
+      "crc32": "59ff0f51",
+      "sha1": "9a9ab2beb25c08e93891b3472252f775887e1c15"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665969503",
+      "size": "23937",
+      "md5": "bf06102241838a9eeb2108c82e6cab83",
+      "crc32": "226692ab",
+      "sha1": "97284e49c3f2d51b196775df372509fab200b2e6",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665969505",
+      "size": "34697",
+      "md5": "9c54afa19966270defbe2a907ddc5425",
+      "crc32": "4db8fa87",
+      "sha1": "35ad353ca596cd7f91d1c79cf7e783ccb0b6333d",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.jpg",
+      "source": "original",
+      "mtime": "1665969501",
+      "size": "256793",
+      "md5": "cb046d598c9c061e36bb4eae945c0b39",
+      "crc32": "f3a05142",
+      "sha1": "1fce8a034d881aa9fbd5d567aa524357019eea0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665969507",
+      "size": "1540",
+      "md5": "4334eadba4aa9abee5590bd79dc4490a",
+      "crc32": "48eee3ce",
+      "sha1": "4340b2b9a8c870ea282443047965bd199085b18e",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-16T21:18:10.588379-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-16T21:18:10.588379-04:00.jpg",
+      "mtime": "1665969560",
+      "size": "9128",
+      "md5": "d13755968ed55bb6a2f872b6aff97a4a",
+      "crc32": "0d926f6d",
+      "sha1": "849ee220bda172312b4b46faa0cd1900146fcf0b"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T08:53:32.093749-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666011218",
+      "size": "25646",
+      "md5": "565611ed4f3cdf091bc8d29bbcaa5511",
+      "crc32": "4e070aa4",
+      "sha1": "8632c086a3d9184de686d07f1f8e63a9c0a3404c",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T08:53:32.093749-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666011219",
+      "size": "36807",
+      "md5": "fae5b9d1b6c144bdc1434f07b40610a1",
+      "crc32": "e8476e5a",
+      "sha1": "ba98093b4b3d278f5289577187847a95ac8897b9",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T08:53:32.093749-04:00.jpg",
+      "source": "original",
+      "mtime": "1666011216",
+      "size": "265410",
+      "md5": "fd9418494ca9824aba8c12db8d5ce7c8",
+      "crc32": "46d4baff",
+      "sha1": "e8e1c9d0c5e8f12875a09ed3be7e27dc9ab7333f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T08:53:32.093749-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666011221",
+      "size": "1540",
+      "md5": "1f3d4c70628889028a8c28a379b9b1fa",
+      "crc32": "01f9d9bc",
+      "sha1": "e2727e7e8660ef8454c4b186a6e0f0e07b0f117e",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T08:53:32.093749-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666011222",
+      "size": "311281",
+      "md5": "16f143b82871033fc10a6b839c789035",
+      "crc32": "a8d5c398",
+      "sha1": "3cdc8e3aef621a869802f0078e58e8753b28a0ee",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T08:53:32.093749-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-17T08:53:32.093749-04:00.jpg",
+      "mtime": "1666011290",
+      "size": "9449",
+      "md5": "e2f42b34c46724eefe6975b7973260a2",
+      "crc32": "51b7255e",
+      "sha1": "d451d380d18757929ebe1ad35630494ef554171b"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T21:23:05.396942-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666056194",
+      "size": "23685",
+      "md5": "0f76707709c0581b4f4e31ef739b5a79",
+      "crc32": "1df0abc3",
+      "sha1": "1dc620be6580f945a16bec2202cf19de2460bd57",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T21:23:05.396942-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666056196",
+      "size": "34672",
+      "md5": "887ee22ddc4b2d00e92c4f32d71950cc",
+      "crc32": "d0e9db76",
+      "sha1": "c1dc71c7fd75cb4937c1a5e0c65a0f306854e7ca",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T21:23:05.396942-04:00.jpg",
+      "source": "original",
+      "mtime": "1666056192",
+      "size": "229535",
+      "md5": "7aa07df178e2ff36ba8f02e93f2c6f8b",
+      "crc32": "d28959a6",
+      "sha1": "df9d65710276a4096b90220d53f97232dc0552f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T21:23:05.396942-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666056198",
+      "size": "1540",
+      "md5": "61a6db9baef6438189f1833ca95efd75",
+      "crc32": "7483ea8d",
+      "sha1": "cdd41a7a614b8c2fd43d6c206c64fc8d8a5d9ab0",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T21:23:05.396942-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666056200",
+      "size": "88034",
+      "md5": "a5c854b225223707fce861cbc0635d26",
+      "crc32": "18734c75",
+      "sha1": "6361079ad5dd7c523cbba7d7afa576794ddd1895",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-17T21:23:05.396942-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-17T21:23:05.396942-04:00.jpg",
+      "mtime": "1666056260",
+      "size": "9212",
+      "md5": "2e61293bf5763c358c8dab5274d731b9",
+      "crc32": "7d632c00",
+      "sha1": "9e5dd3f483d6fbf61a3075f61d4c04e132264e8b"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T08:57:59.655936-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666097883",
+      "size": "23290",
+      "md5": "b96ce23892141de4de16ed73328bd7f5",
+      "crc32": "7b32aa33",
+      "sha1": "e5f406e764e5e1ba3e3b6d84e24ff7fe2886c0bf",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T08:57:59.655936-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666097885",
+      "size": "36630",
+      "md5": "cc0277573b7a0aaf0be9a6df058922ac",
+      "crc32": "f71bb5dd",
+      "sha1": "4598743d1d14a40fc5885c4711056ee8275a06ed",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T08:57:59.655936-04:00.jpg",
+      "source": "original",
+      "mtime": "1666097881",
+      "size": "235030",
+      "md5": "3905d4cb8e2f64473560e65c248cb7ff",
+      "crc32": "ad245be1",
+      "sha1": "d87f6df27a32b2c6e1e6380a362aeea5f16ff811",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T08:57:59.655936-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666097887",
+      "size": "1540",
+      "md5": "95978e685c6fe856860770422a891cbf",
+      "crc32": "fb89718c",
+      "sha1": "d54b1d8eda852e4140030f27e066f0236c834e16",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T08:57:59.655936-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666097889",
+      "size": "117969",
+      "md5": "a2b86da49718d38759c2316771902d6e",
+      "crc32": "1ae51aa3",
+      "sha1": "7edffb628ff179a91e5a3851082aed3855f1e495",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T08:57:59.655936-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-18T08:57:59.655936-04:00.jpg",
+      "mtime": "1666097984",
+      "size": "9054",
+      "md5": "b9d7f5300a85acfbbdcbbd31d090e247",
+      "crc32": "fd230e5e",
+      "sha1": "cc86d2f727f8a61f0e5ca5af458e8d89945a9851"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T21:23:04.967200-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666142589",
+      "size": "24851",
+      "md5": "4d204c53b7ad5bbcb08fde5e8c112138",
+      "crc32": "4db5c2cf",
+      "sha1": "65332dce0c0d95550a674a1df117abb8f9128c4c",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T21:23:04.967200-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666142591",
+      "size": "36981",
+      "md5": "271ed84abde78ec4d0e8bc93822372c2",
+      "crc32": "8625bcac",
+      "sha1": "90826d9ed26aab631ac66f6d5f21269a5c3b30bb",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T21:23:04.967200-04:00.jpg",
+      "source": "original",
+      "mtime": "1666142588",
+      "size": "254165",
+      "md5": "79d426a06ebdd4049ef9766b8c55cc7a",
+      "crc32": "01af6d8f",
+      "sha1": "8b6ee7fa9940df955821de0ea08009d228ac5cd6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T21:23:04.967200-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666142592",
+      "size": "1540",
+      "md5": "504d308840e43aa8ed7ef0a8e33890c7",
+      "crc32": "e8cba6e9",
+      "sha1": "2d4699d09116607ce0d8dff2a67eb698295903b3",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T21:23:04.967200-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666142594",
+      "size": "68118",
+      "md5": "d66caa8fcf266ba9e3b1ff5b716fe828",
+      "crc32": "98fc7b55",
+      "sha1": "b83fc76d71899dc44b132e626441beffac138efc",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-18T21:23:04.967200-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-18T21:23:04.967200-04:00.jpg",
+      "mtime": "1666166251",
+      "size": "9419",
+      "md5": "347fdcb3beb16382aa4a9026ee887542",
+      "crc32": "9dba1965",
+      "sha1": "c5dc415e12b20e21ddc823b80f08dd43c37d643d"
+    },
+    {
+      "name": "hollandsentinel-2022-10-19T08:57:03.274283-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666184226",
+      "size": "24188",
+      "md5": "ebc8302896c4ae341971dab555065e52",
+      "crc32": "062563a7",
+      "sha1": "e0aa648f69ca63a7964866713cea83791ba82ac2",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-19T08:57:03.274283-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666184228",
+      "size": "34884",
+      "md5": "c0c38cd21709118e17f25f6307513f83",
+      "crc32": "80122568",
+      "sha1": "8fdcc84371b77205c0cad83ebdc778acc61ba970",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-19T08:57:03.274283-04:00.jpg",
+      "source": "original",
+      "mtime": "1666184224",
+      "size": "241998",
+      "md5": "dc0f9cb7ae1253c545b5b9240a3f8f44",
+      "crc32": "b21a81e0",
+      "sha1": "17160f8ac008a90090198b74071cb740569bede7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-19T08:57:03.274283-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666184229",
+      "size": "1540",
+      "md5": "74902dc32b12b245a9fa084f304b92cb",
+      "crc32": "11236104",
+      "sha1": "d8ffa2af0fc65272709d871efae2a6909ced2a02",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-19T08:57:03.274283-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666184231",
+      "size": "104152",
+      "md5": "ba3be6cc57efe91d058501232adbcf20",
+      "crc32": "3fc175f1",
+      "sha1": "be34bc0c0312df9da2e06bf1e520606448d4a6da",
+      "format": "JSON"
+    },
+    {
       "name": "hollandsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "112c31b61bf890f6b8f3fafe0b2b15bd0aa2583c",
-      "mtime": "1665665900",
-      "size": "62988",
-      "md5": "cabec36f2a15ba7a60e7868f30205314",
-      "crc32": "1fa3d59d",
-      "sha1": "59574a2c129b460597397c422efe4fbee89b10bb",
+      "btih": "15b69c6a0c9c2bbc156d5dfc0b1be91858c317ed",
+      "mtime": "1666184276",
+      "size": "78233",
+      "md5": "cd4fe036d7e566175746e0b471e0556d",
+      "crc32": "ceba2f8a",
+      "sha1": "63c2cfdf9bb200408e7c47a3b2629f85ee3ccdf2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hollandsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e202dcb67b94cef9d92be73d85fa2f6",
+      "md5": "73292d2ed2e7003df876a59c40faaaed",
       "summation": "md5"
     },
     {
       "name": "hollandsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665665841",
-      "size": "385024",
-      "md5": "9eb4c93cfaba3363609000909c86a31f",
-      "crc32": "b2e5126f",
-      "sha1": "09bc534166d2f6cd65587d268c66f4e1a153eb85",
+      "mtime": "1666184237",
+      "size": "475136",
+      "md5": "b34eb705a0869ec0494dae7aee246807",
+      "crc32": "31508d30",
+      "sha1": "8747908f1e7f6f6d5f8650c12e5f39be7fc0e645",
       "format": "Metadata"
     },
     {
@@ -2968,9 +3691,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 287,
-  "item_last_updated": 1665665900,
-  "item_size": 19423760,
+  "files_count": 357,
+  "item_last_updated": 1666184276,
+  "item_size": 24704633,
   "metadata": {
     "identifier": "hollandsentinel-2022",
     "collection": [
@@ -2987,10 +3710,21 @@
     "publicdate": "2022-09-20 22:19:45",
     "addeddate": "2022-09-20 22:19:45"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1661567067,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445632497,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 458693102,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }
