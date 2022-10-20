@@ -1,5 +1,5 @@
 {
-  "created": 1666210440,
+  "created": 1666254419,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/observatorio-2022",
@@ -13513,31 +13513,82 @@
       "format": "JSON"
     },
     {
+      "name": "observatorio-2022-10-19T17:12:49.264610-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "observatorio-2022-10-19T17:12:49.264610-03:00.jpg",
+      "mtime": "1666214425",
+      "size": "9132",
+      "md5": "7de8a877e64a519b59ddd5e54718ace6",
+      "crc32": "7f5423f4",
+      "sha1": "b163bd923e19e809adc7de50287174953a57b00c"
+    },
+    {
+      "name": "observatorio-2022-10-20T05:10:31.978966-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666253440",
+      "size": "30518",
+      "md5": "605e47d09e713d15cb1762de2cd5157d",
+      "crc32": "c8b62043",
+      "sha1": "a0ffd8985cff40661de8c201a301e15868f12579",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-20T05:10:31.978966-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666253442",
+      "size": "39561",
+      "md5": "994d4d117c9f404368aefeeb94d5db6c",
+      "crc32": "7a40e1b2",
+      "sha1": "b5457fab96447b0f2c5d04ee270f6f1cf2328c01",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-20T05:10:31.978966-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666253443",
+      "size": "1626",
+      "md5": "1b57753c7e525b9e8df76112c820c900",
+      "crc32": "70e1a43f",
+      "sha1": "dfb237c6cfa31aa69dd21fc8b9ccee598e122fa5",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-20T05:10:31.978966-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666253445",
+      "size": "266",
+      "md5": "9817d947de84cac2f632329171667967",
+      "crc32": "4ec4372f",
+      "sha1": "c893b4bc4c4a3940af3f5abba0fae8fb78552901",
+      "format": "JSON"
+    },
+    {
       "name": "observatorio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "949ddd16c323b51884b2299b246925eaaf16c3ff",
-      "mtime": "1666210435",
-      "size": "281082",
-      "md5": "a37436de47085cff4a5f1ccfc9d9b6c3",
-      "crc32": "05a06893",
-      "sha1": "ae57b3f8bad318d616942c819886e06d9a08da03",
+      "btih": "a1378a9dccc7e2b25fa6193995168c609db67451",
+      "mtime": "1666253496",
+      "size": "282147",
+      "md5": "3bc2536b0aaaf9d3eaa5a7758b226bd7",
+      "crc32": "feca390c",
+      "sha1": "b72a228baeefeb03e411226b80358d6629b28676",
       "format": "Archive BitTorrent"
     },
     {
       "name": "observatorio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dea02f35cfbaff3b786f0cdb4067c636",
+      "md5": "34c82dceec14d4232db3e7c85eb5430d",
       "summation": "md5"
     },
     {
       "name": "observatorio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666210385",
-      "size": "1679360",
-      "md5": "a6e1d841c30f203521d824b8396429fd",
-      "crc32": "84414d44",
-      "sha1": "a30125969b6021f2d8694449fae6f5804c7b9492",
+      "mtime": "1666253447",
+      "size": "1683456",
+      "md5": "74583e6eb8e1285f11c048edc22f690c",
+      "crc32": "00ef8243",
+      "sha1": "6f97c7a368c9a95eebd9c22cdc58d1ca31fface4",
       "format": "Metadata"
     },
     {
@@ -13551,9 +13602,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1311,
-  "item_last_updated": 1666210435,
-  "item_size": 76089321,
+  "files_count": 1316,
+  "item_last_updated": 1666253496,
+  "item_size": 76175585,
   "metadata": {
     "identifier": "observatorio-2022",
     "collection": [
@@ -13570,21 +13621,18 @@
     "publicdate": "2022-08-04 04:55:35",
     "addeddate": "2022-08-04 04:55:35"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445913566,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 220221535,
+  "observatorio-2022": {
+    "url": "https://www.observatoriodaimprensa.com.br/",
+    "job_id": "spn2-51f5e65ad2d1444693cc615f55119d8cb1b63d52",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "resources": [],
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 553."
+  },
+  "server": "ia802500.us.archive.org",
+  "uniq": 1127758530,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666210801,
+  "created": 1666253935,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -19299,31 +19299,94 @@
       "format": "JSON"
     },
     {
+      "name": "sfchronicle-2022-10-19T13:18:16.479692-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-10-19T13:18:16.479692-07:00.jpg",
+      "mtime": "1666214520",
+      "size": "9503",
+      "md5": "d333df685f60de19290d3279779919ce",
+      "crc32": "4b6c74a8",
+      "sha1": "31106aa811c1d04962e419b13ffc28231523b911"
+    },
+    {
+      "name": "sfchronicle-2022-10-20T01:16:20.012848-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666253794",
+      "size": "87283",
+      "md5": "afce915fea3b4dd0040ee9fbeac78a66",
+      "crc32": "acace6a0",
+      "sha1": "9cb43a353cd7de0a8b6f379139e8ca59e2b3f040",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-20T01:16:20.012848-07:00.jpg",
+      "source": "original",
+      "mtime": "1666253793",
+      "size": "333729",
+      "md5": "b7a3cf9305dd564496e2c7323308ebd8",
+      "crc32": "969c6447",
+      "sha1": "2ca9f30d91b1ec0824f19a26df7a2845d974cf38",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sfchronicle-2022-10-20T01:16:20.012848-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666253796",
+      "size": "1504",
+      "md5": "cff060ebe7708e508ec598e8a1cbf17d",
+      "crc32": "719f606a",
+      "sha1": "748e3d7ea398f4f6f348fda4dc05ec876ec2514d",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-20T01:16:20.012848-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666253798",
+      "size": "63938",
+      "md5": "2b7ff269d109ca704756d2925237eb80",
+      "crc32": "93425238",
+      "sha1": "46143274a8fb7eac9b9efc9312ba992cbec4c3b8",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-20T01:16:20.012848-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-10-20T01:16:20.012848-07:00.jpg",
+      "mtime": "1666253881",
+      "size": "9892",
+      "md5": "09081303094d7a431df2f64ddc47a710",
+      "crc32": "83fb59e2",
+      "sha1": "97bea08bcd83c5a639c53d06681f5f3b309eecbe"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbef03cdc09f22608c759962cabeb1352ef9b5f2",
-      "mtime": "1666210795",
-      "size": "399856",
-      "md5": "9b3ebdd0bdde1b8a7569c7116d7b3e19",
-      "crc32": "cfc41fe6",
-      "sha1": "c16c583301b32e0907bc66640871d097ba1460b2",
+      "btih": "95c4f7a08c3ce8dafe62225ddcf63eacdaca97d6",
+      "mtime": "1666253918",
+      "size": "401134",
+      "md5": "b747fa60d98cdf2f67fb7c63a528c2ec",
+      "crc32": "ecdcd8c9",
+      "sha1": "61ed40712eca5e03dac39496c2bb849da7d2c0a8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "21f3877a0b5802b97b4ee1953792e16f",
+      "md5": "7ac66188a0014db8711559e7abab78aa",
       "summation": "md5"
     },
     {
       "name": "sfchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666210736",
-      "size": "2252800",
-      "md5": "7c2f4ad424f97b0d01f4249524343324",
-      "crc32": "1f1c7675",
-      "sha1": "c10a813481777499de5907bc6c20a032bbd6cd62",
+      "mtime": "1666253801",
+      "size": "2260992",
+      "md5": "ae7ccbcc955a86823b61e15f4c4054c7",
+      "crc32": "f5e07824",
+      "sha1": "546af1c28a16d6afabfe7ba718e041613537c3c5",
       "format": "Metadata"
     },
     {
@@ -19337,9 +19400,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1856,
-  "item_last_updated": 1666210795,
-  "item_size": 213596292,
+  "files_count": 1862,
+  "item_last_updated": 1666253918,
+  "item_size": 214111611,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -19356,21 +19419,10 @@
     "publicdate": "2022-03-23 02:09:45",
     "addeddate": "2022-03-23 02:09:45"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445917617,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 830511987,
+  "server": "ia802504.us.archive.org",
+  "uniq": 40457753,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }
