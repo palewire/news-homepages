@@ -1,5 +1,5 @@
 {
-  "created": 1666247373,
+  "created": 1666295895,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/mashable-2022",
@@ -12804,31 +12804,93 @@
       "sha1": "2852034b8b3b4b414c2ec035b8c994e8f7eb57c0"
     },
     {
+      "name": "mashable-2022-10-20T11:06:25.675666-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666289202",
+      "size": "22946",
+      "md5": "250a10c3cca5c10609799e3e943149a1",
+      "crc32": "ac722694",
+      "sha1": "a17120a8fdceb3d5467493a65defefd9cd07416b",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-10-20T11:06:25.675666-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666289204",
+      "size": "25526",
+      "md5": "dd1f8ae26080011b2a9c3934e35632a4",
+      "crc32": "2969d143",
+      "sha1": "a93bd7a005a52cd07a6438981366f0f388597c4d",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-10-20T11:06:25.675666-07:00.jpg",
+      "source": "original",
+      "mtime": "1666289201",
+      "size": "288893",
+      "md5": "aa90305a7002478942580fbb559ba89f",
+      "crc32": "41ceaa76",
+      "sha1": "7d8d277315c80505ad769a590820d282b170e21c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mashable-2022-10-20T11:06:25.675666-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666289206",
+      "size": "1438",
+      "md5": "c8378a9e83e260a4fc24ccd2eb22c57d",
+      "crc32": "8cb8d4f6",
+      "sha1": "3b58d064b507267ad88a250c885ac54bca898ab8",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-10-20T11:06:25.675666-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666289208",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mashable-2022-10-20T11:06:25.675666-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mashable-2022-10-20T11:06:25.675666-07:00.jpg",
+      "mtime": "1666289286",
+      "size": "10742",
+      "md5": "540a4fbe886cb378bdc72330bb1660d4",
+      "crc32": "0a7ae77c",
+      "sha1": "03774c35783b6a2325149968d4bd7a1d81d870ee"
+    },
+    {
       "name": "mashable-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e7971e88383eb30290e63f657465393be657f57f",
-      "mtime": "1666247357",
-      "size": "260971",
-      "md5": "16f7ed77b3f5bcbfee4293194f807b2e",
-      "crc32": "8985778b",
-      "sha1": "98957519cb5b93d7fd1b746eb6c05bba32a4faaa",
+      "btih": "e2c224f7e2f195bcae635f2c1a636013f1adecda",
+      "mtime": "1666289301",
+      "size": "262217",
+      "md5": "8d80469a2dbfa1ae8550b75a18738f7b",
+      "crc32": "95e0cbd5",
+      "sha1": "bd2f99511e547070dfdbce2b848bcefcab72edcf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mashable-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c3faa3b1d3a94890362f150915b605f",
+      "md5": "a7aac65309eb388bfa5bd6fcccca478f",
       "summation": "md5"
     },
     {
       "name": "mashable-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666247241",
-      "size": "1540096",
-      "md5": "752b9bf35efb9b70d54c01642b535e6e",
-      "crc32": "716e6a45",
-      "sha1": "1447b48ec9153a9357fac5df565c2444147b4927",
+      "mtime": "1666289212",
+      "size": "1548288",
+      "md5": "49a8443500803fd04a8f713315882517",
+      "crc32": "ef5a224a",
+      "sha1": "1148b6baf2fe6b19fcba7d2ea1971cc5de12acbb",
       "format": "Metadata"
     },
     {
@@ -12842,9 +12904,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1238,
-  "item_last_updated": 1666247357,
-  "item_size": 82161963,
+  "files_count": 1244,
+  "item_last_updated": 1666289301,
+  "item_size": 82521148,
+  "mashable-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "mashable-2022",
     "collection": [
@@ -12861,10 +12928,10 @@
     "publicdate": "2022-07-04 20:17:39",
     "addeddate": "2022-07-04 20:17:39"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 312880497,
+  "server": "ia801400.us.archive.org",
+  "uniq": 265009372,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

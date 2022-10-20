@@ -1,5 +1,5 @@
 {
-  "created": 1666246944,
+  "created": 1666288874,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/18/items/hburgamerican-2022",
@@ -3652,31 +3652,93 @@
       "sha1": "80631ce0903d43ff173a3769f5238936f3140d1a"
     },
     {
+      "name": "hburgamerican-2022-10-20T12:59:03.717206-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666288747",
+      "size": "20839",
+      "md5": "d462b180ad047084ac9939e30b2acd59",
+      "crc32": "96ff868e",
+      "sha1": "9ec2d8a6fc2f1d3c935a4738b177f43ec7d25e09",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-20T12:59:03.717206-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666288749",
+      "size": "34353",
+      "md5": "f62ff4871e6130a10799db80fffaea3d",
+      "crc32": "5d3ead4f",
+      "sha1": "3ac49270efa4d76f4cacec0aaa1fc409178eed02",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-20T12:59:03.717206-05:00.jpg",
+      "source": "original",
+      "mtime": "1666288745",
+      "size": "278459",
+      "md5": "6f810aa6783e3e3e11280a51f37127b0",
+      "crc32": "710ab1fd",
+      "sha1": "523b76d9efedcdc8cc5c9d7f5c88b7203b13958d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-20T12:59:03.717206-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666288750",
+      "size": "1576",
+      "md5": "c51574cad87c5ba6f8d32fc3a1769167",
+      "crc32": "2eeb5a01",
+      "sha1": "d1cd4c970ecea2cb37fd43bc9e58162f0df8fdc2",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-20T12:59:03.717206-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666288752",
+      "size": "128207",
+      "md5": "065551baa191f34764d344394a30c192",
+      "crc32": "00d5ff64",
+      "sha1": "917bba25234b3d97a573ba5c3fd66af19fea51d5",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-20T12:59:03.717206-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hburgamerican-2022-10-20T12:59:03.717206-05:00.jpg",
+      "mtime": "1666288839",
+      "size": "9857",
+      "md5": "6b341ec92f5ff850633699bb1cb76ec7",
+      "crc32": "f804bcae",
+      "sha1": "25219327e425c2874f61c9aea4eeadf49b616b02"
+    },
+    {
       "name": "hburgamerican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ce73885cf1f0ab327fbd4291fde30d1e5ce1d88",
-      "mtime": "1666246929",
-      "size": "77517",
-      "md5": "e582b5819532f23dbdeaa78f7daed50e",
-      "crc32": "0b02c600",
-      "sha1": "a1724e47f188ef0b2f0451a7002e9a7e2ee0f7a0",
+      "btih": "855f92ead208e64c0b131387b5ef9e4f1b77e33b",
+      "mtime": "1666288846",
+      "size": "78815",
+      "md5": "b60b8f9b7071deb88ae2b29e444ab332",
+      "crc32": "9c9a2afb",
+      "sha1": "fe7229597c5677ddd40e540ed142b51ff9f2964f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hburgamerican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "937bc1fb802511306797fbffca64818d",
+      "md5": "c677337637f63027b0c6f970105f3080",
       "summation": "md5"
     },
     {
       "name": "hburgamerican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666246863",
-      "size": "471040",
-      "md5": "112311bef9fa3b39e0003ff772a26f0c",
-      "crc32": "2c5988fc",
-      "sha1": "3744a172aec25e9b45d1979ed28c87425cf5a568",
+      "mtime": "1666288764",
+      "size": "483328",
+      "md5": "5f777ece0503b74047671d6db11d47dc",
+      "crc32": "245036dc",
+      "sha1": "282b8622fdb3de712a21508473180fdeec63cd58",
       "format": "Metadata"
     },
     {
@@ -3690,9 +3752,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 357,
-  "item_last_updated": 1666246929,
-  "item_size": 24277135,
+  "files_count": 363,
+  "item_last_updated": 1666288846,
+  "item_size": 24764012,
   "metadata": {
     "identifier": "hburgamerican-2022",
     "collection": [
@@ -3709,10 +3771,10 @@
     "publicdate": "2022-09-20 17:30:05",
     "addeddate": "2022-09-20 17:30:05"
   },
-  "server": "ia601500.us.archive.org",
-  "uniq": 2049325653,
+  "server": "ia801500.us.archive.org",
+  "uniq": 566552957,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia801500.us.archive.org",
+    "ia601500.us.archive.org"
   ]
 }

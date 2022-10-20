@@ -1,5 +1,5 @@
 {
-  "created": 1666247153,
+  "created": 1666295772,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/35/items/lexdispatch-2022",
@@ -3706,31 +3706,93 @@
       "sha1": "e54c4d2f4b12c00de070241e567299ff11518943"
     },
     {
+      "name": "lexdispatch-2022-10-20T14:05:43.226043-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666289148",
+      "size": "18778",
+      "md5": "8d0316fda010bac2cbad8bd65d6b3195",
+      "crc32": "d480bac6",
+      "sha1": "99401d4649e273b82f28c25e3ae0f331a9d0c836",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-20T14:05:43.226043-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666289150",
+      "size": "32675",
+      "md5": "a2d53c02568d9555637adbb930d8b1b1",
+      "crc32": "114123d1",
+      "sha1": "0e296db8a3005d9ba389ed31261290dc2b5d1252",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-20T14:05:43.226043-04:00.jpg",
+      "source": "original",
+      "mtime": "1666289147",
+      "size": "225709",
+      "md5": "e3f4004b135edebba3c1e373ef2998da",
+      "crc32": "bc3047e4",
+      "sha1": "e83bb1725afae6aa431cd1bc553157e7d5b4f616",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lexdispatch-2022-10-20T14:05:43.226043-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666289151",
+      "size": "1513",
+      "md5": "e20dbbb160ffbb181586e0d0b0dbc685",
+      "crc32": "9bf64790",
+      "sha1": "7c0af0ab0306942aacb912dd16935aa6d9c03cf3",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-20T14:05:43.226043-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666289153",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lexdispatch-2022-10-20T14:05:43.226043-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lexdispatch-2022-10-20T14:05:43.226043-04:00.jpg",
+      "mtime": "1666289207",
+      "size": "8894",
+      "md5": "8e2f4dedeb6c81d173d7e577395d1fe6",
+      "crc32": "32eba6a0",
+      "sha1": "22a6809a745406926b46d77bf85490ec8f3b7658"
+    },
+    {
       "name": "lexdispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8e620d8b0eb938d1d8683e6f8eb50058d90c8a04",
-      "mtime": "1666247147",
-      "size": "77840",
-      "md5": "440fe819442df4d1699412f13d62fe22",
-      "crc32": "4c563348",
-      "sha1": "ac058cabd2fd6e9a701b90062c0ec4155eeb578e",
+      "btih": "4a0b88cbf2db755be445bc58a324bb01625b47d5",
+      "mtime": "1666289212",
+      "size": "79103",
+      "md5": "cc11e4c74c031e92d3310dc0320d8ed0",
+      "crc32": "8490daa2",
+      "sha1": "448c183d30d4de0fc84d69993216c5816f743931",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lexdispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab7908e3297baedb76a61f3a184baf86",
+      "md5": "d45ca6012bd9605737ceed5466fd7dad",
       "summation": "md5"
     },
     {
       "name": "lexdispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666247092",
-      "size": "471040",
-      "md5": "daf1b6dfcc666075f7075a33206ee849",
-      "crc32": "193add42",
-      "sha1": "a583a328ce609c9c41c2751a44d5d836257fb2c2",
+      "mtime": "1666289159",
+      "size": "483328",
+      "md5": "e1d4e4fa6e67eb2d544759c48232f6bf",
+      "crc32": "ecfb0bc2",
+      "sha1": "9d0f38e39834106a0c416bedf69584ed788e2813",
       "format": "Metadata"
     },
     {
@@ -3744,9 +3806,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 362,
-  "item_last_updated": 1666247147,
-  "item_size": 24821231,
+  "files_count": 368,
+  "item_last_updated": 1666289212,
+  "item_size": 25122553,
+  "lexdispatch-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lexdispatch-2022",
     "collection": [
@@ -3764,7 +3831,7 @@
     "addeddate": "2022-09-20 17:33:29"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 1245347665,
+  "uniq": 1314204197,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

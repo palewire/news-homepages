@@ -1,5 +1,5 @@
 {
-  "created": 1666267157,
+  "created": 1666295675,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/lancenet-2022",
@@ -13648,31 +13648,93 @@
       "sha1": "0e619e41fc4f45cf1853d3b06e506fdfd2775b77"
     },
     {
+      "name": "lancenet-2022-10-20T15:05:03.521131-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666289116",
+      "size": "10841",
+      "md5": "ab0cfa3d0a1e560f48b313b2f93bd75d",
+      "crc32": "4cbb4ede",
+      "sha1": "88d0f5df746dac46ac56dcf812d93283025e1267",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-10-20T15:05:03.521131-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666289118",
+      "size": "22601",
+      "md5": "c8b7d1e79c821e43e5fec2efa76101f4",
+      "crc32": "bd2dd9f1",
+      "sha1": "3d958607658d8feebc9334d769ac8c4887e0ade4",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-10-20T15:05:03.521131-03:00.jpg",
+      "source": "original",
+      "mtime": "1666289114",
+      "size": "323746",
+      "md5": "6477443d31f074a44268a6c0dd8f4fec",
+      "crc32": "3c99f4fb",
+      "sha1": "9b762fdc74093a63c2ecbbb7947c0a2bb2bf028f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lancenet-2022-10-20T15:05:03.521131-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666289120",
+      "size": "1459",
+      "md5": "1d6fa294b8f37c9b8a14cc45f7500b5d",
+      "crc32": "b10237be",
+      "sha1": "a98e29e5e3a21d8679b46302a784e14594d7b7db",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-10-20T15:05:03.521131-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666289122",
+      "size": "101",
+      "md5": "bae543a77da5d66a544e5b9eb42090dc",
+      "crc32": "77698fce",
+      "sha1": "f6184f971b4eb17a31d4bc47884b7a5cbfc20f6c",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-10-20T15:05:03.521131-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lancenet-2022-10-20T15:05:03.521131-03:00.jpg",
+      "mtime": "1666289209",
+      "size": "10781",
+      "md5": "8fb5acbdaa8417eac4dd4430d568c50b",
+      "crc32": "65d61f33",
+      "sha1": "8a46d79db546cdaa08859ecb70fd739a970dc105"
+    },
+    {
       "name": "lancenet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9864a40fb99d9aa172cd1b1829d97580b0d95b21",
-      "mtime": "1666267080",
-      "size": "279230",
-      "md5": "b005500698e30172ced2bf8efdc55c85",
-      "crc32": "5fe6c71f",
-      "sha1": "3e0c50ca1a2b5f58f05d16d9249d3b29ed9215df",
+      "btih": "aab1b43fdc3844b2cbc7d4acee757f9fd9692da3",
+      "mtime": "1666289226",
+      "size": "280476",
+      "md5": "ad991263bfeb12eb3fd20e2d4fefbc4c",
+      "crc32": "05f566dd",
+      "sha1": "ebef41fe772013910bb684ebdf9b732233f453de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lancenet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eaaca206a1b335ee52d03c1eb84abcbb",
+      "md5": "5294038e234c77073e6f4d3053598fff",
       "summation": "md5"
     },
     {
       "name": "lancenet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666266952",
-      "size": "1683456",
-      "md5": "f2e2282da90273ffd37f45140d64be09",
-      "crc32": "31a144ef",
-      "sha1": "e33f696344c1118cd539ee2385a30b12a227554f",
+      "mtime": "1666289127",
+      "size": "1691648",
+      "md5": "3e7b6b630420502a2a727a1622ffcb88",
+      "crc32": "40f0329a",
+      "sha1": "f1ea03858b27b8217ab93e622928288b6a1fa008",
       "format": "Metadata"
     },
     {
@@ -13686,9 +13748,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1324,
-  "item_last_updated": 1666267080,
-  "item_size": 88367601,
+  "files_count": 1330,
+  "item_last_updated": 1666289226,
+  "item_size": 88746568,
+  "lancenet-2022": {
+    "url": "https://www.lance.com.br/",
+    "job_id": "spn2-2740971da1049501dc1a8b6e34045b6b7f49f247"
+  },
   "metadata": {
     "identifier": "lancenet-2022",
     "collection": [
@@ -13705,10 +13771,10 @@
     "publicdate": "2022-08-04 04:55:32",
     "addeddate": "2022-08-04 04:55:32"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 899968851,
+  "server": "ia801505.us.archive.org",
+  "uniq": 975205318,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

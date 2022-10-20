@@ -1,5 +1,5 @@
 {
-  "created": 1666247190,
+  "created": 1666295719,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/14/items/ledevoir-2022",
@@ -13316,31 +13316,93 @@
       "sha1": "ebeb960d97253eb812793617a3424efb3aab0426"
     },
     {
+      "name": "ledevoir-2022-10-20T14:05:44.104151-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666289157",
+      "size": "42819",
+      "md5": "75c83bce3266932b978669762952a3ce",
+      "crc32": "dd591b05",
+      "sha1": "3fdb9d26a1382460d5534f626f2200202fa7159a",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-10-20T14:05:44.104151-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666289158",
+      "size": "129956",
+      "md5": "77451cb44991eed66de7702c0af4826f",
+      "crc32": "5ddff6bb",
+      "sha1": "9f11a22da81c91ced38cc80dfe848732894ba25f",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-10-20T14:05:44.104151-04:00.jpg",
+      "source": "original",
+      "mtime": "1666289155",
+      "size": "297006",
+      "md5": "c0bbc92b147f9a7af0069e3759c11e4d",
+      "crc32": "342eaa1a",
+      "sha1": "3a31fbef9ecce1d24cf0d5a56084656365b965e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledevoir-2022-10-20T14:05:44.104151-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666289160",
+      "size": "1474",
+      "md5": "b9d19ca06eccf42389d745901fbd6900",
+      "crc32": "7f10f253",
+      "sha1": "259c51ab7d21375c9f21a47b89c21130f6718027",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-10-20T14:05:44.104151-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666289162",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ledevoir-2022-10-20T14:05:44.104151-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledevoir-2022-10-20T14:05:44.104151-04:00.jpg",
+      "mtime": "1666289225",
+      "size": "9514",
+      "md5": "1ef54f913b76859dbcbfa8a488109e7c",
+      "crc32": "2e27c273",
+      "sha1": "71c0a3b7cfe9401792838af342e8d2a38a0ae405"
+    },
+    {
       "name": "ledevoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca11c87e5fea4c3285c7ce08f6f579146dc0c5e8",
-      "mtime": "1666247179",
-      "size": "272631",
-      "md5": "10982515b9c1a4e32d2d3ecc6c0d7b87",
-      "crc32": "17726a0b",
-      "sha1": "ef8d76169d7ab71468165d0c27c87323041d6b8d",
+      "btih": "ba3c112fbdb5bda14180fe27478e7355584371e4",
+      "mtime": "1666289241",
+      "size": "273897",
+      "md5": "0cbe710dec869d8ac7ab4e27efbca81e",
+      "crc32": "4369f939",
+      "sha1": "931a35cfda83965ba70841d1274b474ce89c2200",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledevoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8048f303841bd2e9adbf30bbd1d5d44a",
+      "md5": "f3f5efe828b11cf55b8bc9f4c28a67fc",
       "summation": "md5"
     },
     {
       "name": "ledevoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666247096",
-      "size": "1601536",
-      "md5": "c4ef4d60f570c342bc36ca9bf04554d4",
-      "crc32": "64567d94",
-      "sha1": "fe57d4191aff3ea273330a7368200678cb48a5ab",
+      "mtime": "1666289165",
+      "size": "1605632",
+      "md5": "2199491b96a45722d469cbae56e70e97",
+      "crc32": "a6d90852",
+      "sha1": "a11b72b9905dbd90f3cd4cb7312693e90bd4f277",
       "format": "Metadata"
     },
     {
@@ -13354,9 +13416,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1287,
-  "item_last_updated": 1666247179,
-  "item_size": 119688853,
+  "files_count": 1293,
+  "item_last_updated": 1666289241,
+  "item_size": 120175186,
+  "ledevoir-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "ledevoir-2022",
     "collection": [
@@ -13373,10 +13440,10 @@
     "publicdate": "2022-06-30 22:35:31",
     "addeddate": "2022-06-30 22:35:31"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1572189926,
+  "server": "ia902504.us.archive.org",
+  "uniq": 51180785,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

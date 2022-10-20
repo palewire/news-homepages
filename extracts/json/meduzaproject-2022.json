@@ -1,5 +1,5 @@
 {
-  "created": 1666247465,
+  "created": 1666295937,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/meduzaproject-2022",
@@ -21158,31 +21158,93 @@
       "sha1": "99d3082e4eb59d90cbd8c18325695319f6c0eadd"
     },
     {
+      "name": "meduzaproject-2022-10-20T21:06:33.577122+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666289204",
+      "size": "44758",
+      "md5": "d919a0fd8d364e4ed13b5e1fe8747b05",
+      "crc32": "8fcd0f2d",
+      "sha1": "9528ef58e7954e4fbf682845527194434ce86938",
+      "format": "JSON"
+    },
+    {
+      "name": "meduzaproject-2022-10-20T21:06:33.577122+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666289206",
+      "size": "32833",
+      "md5": "09c76270ffed36ed3549c41210179eb5",
+      "crc32": "b9d5520f",
+      "sha1": "2b5bcc3354f8fdfb8ac252bb1ddc7ffd8e68f758",
+      "format": "JSON"
+    },
+    {
+      "name": "meduzaproject-2022-10-20T21:06:33.577122+03:00.jpg",
+      "source": "original",
+      "mtime": "1666289202",
+      "size": "270060",
+      "md5": "088a13681a4dd5074d1b1dff18736500",
+      "crc32": "a4fd6acf",
+      "sha1": "07b72365e5bbb92bc8a5a951b7c4f6df5b1b136b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "meduzaproject-2022-10-20T21:06:33.577122+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666289208",
+      "size": "1413",
+      "md5": "e31b24618004938478151af99d127be2",
+      "crc32": "2b4acf83",
+      "sha1": "6e5fdce0eec1b15e410479adb50e4a6c1f4b2dc8",
+      "format": "JSON"
+    },
+    {
+      "name": "meduzaproject-2022-10-20T21:06:33.577122+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666289210",
+      "size": "224",
+      "md5": "36eac8afb98cef31664030af8b9179bc",
+      "crc32": "646386f3",
+      "sha1": "69822a82c6e7adc9dc11f134a70c1711f68aadfd",
+      "format": "JSON"
+    },
+    {
+      "name": "meduzaproject-2022-10-20T21:06:33.577122+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "meduzaproject-2022-10-20T21:06:33.577122+03:00.jpg",
+      "mtime": "1666289307",
+      "size": "9564",
+      "md5": "b46a3f3f7c1c7a7558f6e5069bc3af42",
+      "crc32": "84d666ce",
+      "sha1": "58651df77a10652525f0dfc604c5bcd4bfd8e3dc"
+    },
+    {
       "name": "meduzaproject-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2a6ee16e4ee77df89bae404f1b93dbcf3682ee8e",
-      "mtime": "1666247447",
-      "size": "438578",
-      "md5": "b7e4a7da176a5b78c36facf560a52acf",
-      "crc32": "eca80449",
-      "sha1": "d53ee7073bea69eed3cf84901997c12136f0837f",
+      "btih": "33a227a88d37c7320b3d7806a21747eee706518b",
+      "mtime": "1666289351",
+      "size": "439873",
+      "md5": "66e8551b37d2e9567a781e6fe27bdb9f",
+      "crc32": "1e103961",
+      "sha1": "b4a085fd2e04dec359e93224a8e4bebaf8b5a325",
       "format": "Archive BitTorrent"
     },
     {
       "name": "meduzaproject-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aef39a7743a82277b61e8729505dfa75",
+      "md5": "dbe5b0260e2bfa9880f84743671ae881",
       "summation": "md5"
     },
     {
       "name": "meduzaproject-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666247301",
-      "size": "2461696",
-      "md5": "7b3f85cfd64a723969ef61731e9aab0d",
-      "crc32": "b9b472d0",
-      "sha1": "4096166facd4da6b172dcb68f1739f1c5e1719dd",
+      "mtime": "1666289214",
+      "size": "2465792",
+      "md5": "8603a395482c3871d410ead96a7c717d",
+      "crc32": "32786603",
+      "sha1": "c48135b1a9ba2ec5df2827421daf590a0c7a5faf",
       "format": "Metadata"
     },
     {
@@ -21196,9 +21258,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2032,
-  "item_last_updated": 1666247447,
-  "item_size": 165777001,
+  "files_count": 2038,
+  "item_last_updated": 1666289351,
+  "item_size": 166141244,
+  "meduzaproject-2022": {
+    "url": "https://meduza.io/",
+    "job_id": "spn2-5dcb16af7ef4b916936748156ebf94a3bf7f72da",
+    "message": "The same snapshot had been made 21 minutes, 4 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "metadata": {
     "identifier": "meduzaproject-2022",
     "collection": [
@@ -21216,7 +21283,7 @@
     "addeddate": "2022-03-23 02:09:21"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 193971088,
+  "uniq": 1472991227,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"
