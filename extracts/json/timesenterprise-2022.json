@@ -1,5 +1,5 @@
 {
-  "created": 1666254132,
+  "created": 1666296888,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/30/items/timesenterprise-2022",
@@ -10274,31 +10274,93 @@
       "sha1": "ddf77edabade6261b9ebc14c4739ec1675776c93"
     },
     {
+      "name": "timesenterprise-2022-10-20T16:13:13.549056-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666296800",
+      "size": "56882",
+      "md5": "db7740ba873b13fc44a20a7336a75962",
+      "crc32": "c846d365",
+      "sha1": "b63c0edd24a3d5f4544acf1f2add165ab3ea9e92",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-10-20T16:13:13.549056-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666296802",
+      "size": "77828",
+      "md5": "db5fc285a317752a9d01878daa1c93f7",
+      "crc32": "08745f6c",
+      "sha1": "5be083b48a3af12956ffacbd28ae61c6357bf649",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-10-20T16:13:13.549056-04:00.jpg",
+      "source": "original",
+      "mtime": "1666296799",
+      "size": "317406",
+      "md5": "e2e4e01b01eafc25fcc4a22ec6aff7fa",
+      "crc32": "49f3230b",
+      "sha1": "8a2c26fe24dd4df8397cafee45dd9952a8c83823",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesenterprise-2022-10-20T16:13:13.549056-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666296803",
+      "size": "1540",
+      "md5": "5fadf29025cb803b4263a171960da0ec",
+      "crc32": "4595b9c8",
+      "sha1": "2cef0b3ce8d60e40da4108bb13360f290e880400",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-10-20T16:13:13.549056-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666296805",
+      "size": "89372",
+      "md5": "a37c40570e40c33bfb1b0373cf1d4eb8",
+      "crc32": "eaefdee1",
+      "sha1": "9b902adbfe31fea01e50078bb7397dc94c78caca",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-10-20T16:13:13.549056-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesenterprise-2022-10-20T16:13:13.549056-04:00.jpg",
+      "mtime": "1666296865",
+      "size": "9629",
+      "md5": "73118704ab611de46cb9b54721487fdc",
+      "crc32": "d8d8e9e9",
+      "sha1": "313d43719501fb8c6f4e82260d6e8b22fab2fb1c"
+    },
+    {
       "name": "timesenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a7c53260b8aab04e9b4b8bcfc6abd0b7875ab444",
-      "mtime": "1666254106",
-      "size": "217372",
-      "md5": "0d2ef9c379ca744b772bad4744a7b942",
-      "crc32": "d23c8ad5",
-      "sha1": "a9f5e1b659e815569fabeb781990c6c8777fb9cf",
+      "btih": "fabac7f5dba19740afae120d410edd0bc9c77d14",
+      "mtime": "1666296876",
+      "size": "218681",
+      "md5": "92fa7e25bdae80d124883b34199082ca",
+      "crc32": "94397f07",
+      "sha1": "4f35e88d041113fdffc3ae50452a4b38c9e6b9ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e056657c8d2454f6655e89981943c0cd",
+      "md5": "c4c403855b72c2b803b7eeccac13235e",
       "summation": "md5"
     },
     {
       "name": "timesenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666253990",
-      "size": "1265664",
-      "md5": "1df7fa536421c701437ea84aae84d01d",
-      "crc32": "2d3e41c4",
-      "sha1": "575b3ceeb7f71d3970e331a7f51ac354a1761d33",
+      "mtime": "1666296809",
+      "size": "1269760",
+      "md5": "65ff7007a845f9a9e526092d6e59baa0",
+      "crc32": "646f3e6c",
+      "sha1": "ebc5cd3730189dbecabca500e0cb5ca24dbbc40d",
       "format": "Metadata"
     },
     {
@@ -10312,9 +10374,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 995,
-  "item_last_updated": 1666254106,
-  "item_size": 87478522,
+  "files_count": 1001,
+  "item_last_updated": 1666296876,
+  "item_size": 88036584,
   "metadata": {
     "identifier": "timesenterprise-2022",
     "collection": [
@@ -10332,7 +10394,7 @@
     "addeddate": "2022-07-20 23:31:34"
   },
   "server": "ia601407.us.archive.org",
-  "uniq": 208885618,
+  "uniq": 1802170299,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

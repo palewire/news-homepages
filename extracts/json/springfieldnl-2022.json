@@ -1,5 +1,5 @@
 {
-  "created": 1666253857,
+  "created": 1666296659,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/23/items/springfieldnl-2022",
@@ -3736,31 +3736,93 @@
       "sha1": "bd877e81605519fd2f7c1c2cca26ce7333d02dcd"
     },
     {
+      "name": "springfieldnl-2022-10-20T15:09:11.730595-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666296556",
+      "size": "19058",
+      "md5": "2a6f576b30a5af8ab8a77bbe44cdd63d",
+      "crc32": "c165f98e",
+      "sha1": "3d1c36ea9b5f3ca475e6ae402b1a4e4a3bc3bd97",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-20T15:09:11.730595-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666296558",
+      "size": "36448",
+      "md5": "6248833e9d1e4bc20e79b60740be4d1a",
+      "crc32": "7d1e179a",
+      "sha1": "92cc3d536c683cf0773574aaef3be3fb21c42ed3",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-20T15:09:11.730595-05:00.jpg",
+      "source": "original",
+      "mtime": "1666296555",
+      "size": "224363",
+      "md5": "63ba5740fbebd86827359c3935d95485",
+      "crc32": "35ed6b9b",
+      "sha1": "41d7701e74bd8242c7d15f37488f46ed8e0489a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "springfieldnl-2022-10-20T15:09:11.730595-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666296560",
+      "size": "1504",
+      "md5": "83b2017e7f47a2ef685956aed5520fe1",
+      "crc32": "9181152e",
+      "sha1": "7edde823351f504fd63236d00bcf61fa9eb59266",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-20T15:09:11.730595-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666296562",
+      "size": "105224",
+      "md5": "28a42bd448e26ce0788191f94ede3a4d",
+      "crc32": "3684b76d",
+      "sha1": "0546c1a591c5e9c8ea03169a3933ffe8c2c86a11",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-20T15:09:11.730595-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "springfieldnl-2022-10-20T15:09:11.730595-05:00.jpg",
+      "mtime": "1666296639",
+      "size": "8824",
+      "md5": "9670a9a32f9a71a953378b33c3c4f3a8",
+      "crc32": "66d72af8",
+      "sha1": "dbeda160c3b18d40472a4423f69c949e86953e6f"
+    },
+    {
       "name": "springfieldnl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c65f7603edca6cdd91e3539d0baa5d828f14afad",
-      "mtime": "1666253847",
-      "size": "79210",
-      "md5": "ebf749993a2f6eb9e9106b7a6dfc00a4",
-      "crc32": "29b37078",
-      "sha1": "158c26f9fa495c3a94ddaafc56b13c2f750e9b59",
+      "btih": "990edde68393df0b33aa8a3c854a7249ee67251b",
+      "mtime": "1666296647",
+      "size": "80508",
+      "md5": "5f11a0473c7a09f50e2fd46f06dbdc0f",
+      "crc32": "45a738ea",
+      "sha1": "3cb7791fa0fe7a16de66f20cc459c40d0ba1f78e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "springfieldnl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "63ebe708aef23446fe3f183ab0da42d3",
+      "md5": "d74d5ccaf84fa75fc02ba8968bf70db0",
       "summation": "md5"
     },
     {
       "name": "springfieldnl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666253791",
-      "size": "483328",
-      "md5": "f56a426c532b238be2a9d45577bd76ad",
-      "crc32": "bd9b71cd",
-      "sha1": "7f9d7aee8db26f4d325b3fe195f2baaf03c72f12",
+      "mtime": "1666296577",
+      "size": "491520",
+      "md5": "cf1d4dc7fdfcd82fedf8988c32720b04",
+      "crc32": "933dcfd2",
+      "sha1": "8347b200f47543f9426690c6d767b4aecfd178e2",
       "format": "Metadata"
     },
     {
@@ -3774,9 +3836,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 365,
-  "item_last_updated": 1666253847,
-  "item_size": 24370664,
+  "files_count": 371,
+  "item_last_updated": 1666296647,
+  "item_size": 24775575,
   "metadata": {
     "identifier": "springfieldnl-2022",
     "collection": [
@@ -3794,7 +3856,7 @@
     "addeddate": "2022-09-20 19:30:04"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 1324640083,
+  "uniq": 1151076277,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"
