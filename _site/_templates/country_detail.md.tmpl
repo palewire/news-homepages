@@ -13,7 +13,7 @@ The most recent homepages from {{ site_list|length }} news sites in this country
 {% for obj in site_list %}
 <div class="latest-child">
  <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
-  <img src="https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg"
+  <img src="https://palewi.re/news-homepages/latest-screenshots/{{ obj.handle|lower }}.jpg"
      alt="{{ obj.name }}"
      loading="lazy">
  </a>
