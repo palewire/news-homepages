@@ -1,5 +1,5 @@
 {
-  "created": 1666253192,
+  "created": 1666292566,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/freethinkmedia-2022",
@@ -10868,31 +10868,93 @@
       "sha1": "19e00b30d2df177805e96f9d393544f587075cd8"
     },
     {
+      "name": "freethinkmedia-2022-10-20T12:01:01.638614-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666292470",
+      "size": "36515",
+      "md5": "3f9f7c6425601c5a0bf0a86e18c1dcd2",
+      "crc32": "c02361ab",
+      "sha1": "cbf00a6b47b426df86aad859f80b102171d955d9",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-20T12:01:01.638614-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666292472",
+      "size": "29606",
+      "md5": "9899441bf30e634949ecd54bca30b992",
+      "crc32": "fb7dcd36",
+      "sha1": "c2fe1590d5e0b933e25d3712d9b04ba664975f18",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-20T12:01:01.638614-07:00.jpg",
+      "source": "original",
+      "mtime": "1666292468",
+      "size": "210936",
+      "md5": "e92ebe2cff0c16a9e67ee7b4b030f996",
+      "crc32": "e58cafaa",
+      "sha1": "e3234bd8ba77dccd7ebf7512f0a5ba54572a638c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freethinkmedia-2022-10-20T12:01:01.638614-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666292474",
+      "size": "1483",
+      "md5": "e3a948fd5f47725fc55269faa9dec0d3",
+      "crc32": "aaa1620a",
+      "sha1": "4d3a86d38d2b2e7c60f52bb8281216da527dd1d4",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-20T12:01:01.638614-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666292476",
+      "size": "15127",
+      "md5": "7872d43944ed11bae3e29e7c923b0364",
+      "crc32": "2c0f31ed",
+      "sha1": "6dba6cb6a485f9f83b84a97cdbcea6f5e04d1b3a",
+      "format": "JSON"
+    },
+    {
+      "name": "freethinkmedia-2022-10-20T12:01:01.638614-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-10-20T12:01:01.638614-07:00.jpg",
+      "mtime": "1666292549",
+      "size": "9527",
+      "md5": "57601c232de60162be7c34118158e5e1",
+      "crc32": "727b3445",
+      "sha1": "f7b5f8f32a3878f59e0aa996f77f6ebc920f66da"
+    },
+    {
       "name": "freethinkmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "591391531e304c4988be7fa6a415ff6062a0f780",
-      "mtime": "1666253171",
-      "size": "227995",
-      "md5": "fe254a72fffd3125795e1f57303f2b08",
-      "crc32": "0dd8cee6",
-      "sha1": "5cf2567d574339b36a48132455d8d9ef0475707c",
+      "btih": "c9bada3bed80f15b384192c2d25d809c6a04f601",
+      "mtime": "1666292560",
+      "size": "229278",
+      "md5": "7c0af11ccad9c8fe9e8fb1a8602e1a33",
+      "crc32": "b05df9a4",
+      "sha1": "4a94a2f4fb150b0039c3f5a332b060b485e4ea1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freethinkmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c933ffb0761150b78bf5c0049849cddc",
+      "md5": "63357a37f6c5f0b283b1d69c21a89e69",
       "summation": "md5"
     },
     {
       "name": "freethinkmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666253096",
-      "size": "1351680",
-      "md5": "48d2a246fcdb1eb5f5c492c366ab067a",
-      "crc32": "2b5c79a6",
-      "sha1": "a2102a6bab21efa70f576df7a8353b84260ef4b5",
+      "mtime": "1666292483",
+      "size": "1355776",
+      "md5": "217bd7cf67f5d9c4f7062985aac294da",
+      "crc32": "26fa9f39",
+      "sha1": "c18215564aa4da221af4c13d90324481f17a34d5",
       "format": "Metadata"
     },
     {
@@ -10906,9 +10968,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1054,
-  "item_last_updated": 1666253171,
-  "item_size": 54891579,
+  "files_count": 1060,
+  "item_last_updated": 1666292560,
+  "item_size": 55200152,
   "metadata": {
     "identifier": "freethinkmedia-2022",
     "collection": [
@@ -10926,7 +10988,7 @@
     "addeddate": "2022-07-21 02:24:31"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 786127843,
+  "uniq": 681569796,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

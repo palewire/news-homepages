@@ -1,7 +1,12 @@
 {
-  "created": 1666252949,
+  "created": 1666296027,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
+  "dainik_online-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/13/items/dainik_online-2022",
   "files": [
     {
@@ -10626,31 +10631,93 @@
       "sha1": "f6b86ae72e598c52988d7285c379ad5fc75c328c"
     },
     {
+      "name": "dainik_online-2022-10-21T00:40:49.986736+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666292158",
+      "size": "73451",
+      "md5": "19a264cfb5282ac4020f209dbd290b07",
+      "crc32": "b7cf113f",
+      "sha1": "2183a60936dcea56b1c365a78678e97e751fa345",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-10-21T00:40:49.986736+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666292160",
+      "size": "54848",
+      "md5": "c002d1ee93ee3ef1ca074fcbc3d951c9",
+      "crc32": "ff5e1a28",
+      "sha1": "9d1a4c18ffb0e8b834773d40d395daa51c2b8529",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-10-21T00:40:49.986736+05:45.jpg",
+      "source": "original",
+      "mtime": "1666292156",
+      "size": "219337",
+      "md5": "45d5ecf1b8429141c09f4f331142ca7d",
+      "crc32": "63f3b116",
+      "sha1": "2a0832342c31c954df44be918730c38316567caf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dainik_online-2022-10-21T00:40:49.986736+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666292161",
+      "size": "1513",
+      "md5": "6ecfec89ccaaf2c64d59c7ef70f58f0c",
+      "crc32": "4ef658b5",
+      "sha1": "e448abad9cdd60c26b926e75a3cc8087eac5680c",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-10-21T00:40:49.986736+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666292163",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-10-21T00:40:49.986736+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dainik_online-2022-10-21T00:40:49.986736+05:45.jpg",
+      "mtime": "1666292234",
+      "size": "10204",
+      "md5": "f2aa5b68b7b31455599543307ca58da0",
+      "crc32": "a4c5a077",
+      "sha1": "d69a529f4408608fe8768b48de3cbbabdc5159d2"
+    },
+    {
       "name": "dainik_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a62607964416e66ad1cd573c45e3eec4beec9924",
-      "mtime": "1666252942",
-      "size": "222798",
-      "md5": "e16179cade06f228028365a99b7cf0e6",
-      "crc32": "b97cb2da",
-      "sha1": "f2d3757788a854201b287228c98e7d77227ba0ab",
+      "btih": "257976f32f3c151692059394d7d9ad5b0cab9279",
+      "mtime": "1666292262",
+      "size": "224074",
+      "md5": "70c03c60e96f51bcadfcb7b8b374a996",
+      "crc32": "9a8501aa",
+      "sha1": "756659e2c3a8162da5bd1762cc64349b8ac3fc81",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainik_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a95a921541fb35099060cd9c4c8d31fb",
+      "md5": "097c0b1c810e3a0ec99a017faea969f5",
       "summation": "md5"
     },
     {
       "name": "dainik_online-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666252865",
-      "size": "1323008",
-      "md5": "28d1c67f3aadbacf989d99afd0dae573",
-      "crc32": "7cac3d62",
-      "sha1": "8aa96e2a223b4612c389de00f662d30da8afddd9",
+      "mtime": "1666292168",
+      "size": "1331200",
+      "md5": "847f4918ef5ee5d3edae4a45555fb949",
+      "crc32": "67cab3d3",
+      "sha1": "3687f37f8d12d36219bc6381f5b27bb691876c9a",
       "format": "Metadata"
     },
     {
@@ -10664,9 +10731,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1031,
-  "item_last_updated": 1666252942,
-  "item_size": 71567218,
+  "files_count": 1037,
+  "item_last_updated": 1666292262,
+  "item_size": 71936241,
   "metadata": {
     "identifier": "dainik_online-2022",
     "collection": [
@@ -10683,10 +10750,10 @@
     "publicdate": "2022-07-24 20:37:14",
     "addeddate": "2022-07-24 20:37:14"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1944559750,
+  "server": "ia601401.us.archive.org",
+  "uniq": 1263098079,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

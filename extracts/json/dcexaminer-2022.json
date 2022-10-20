@@ -1,7 +1,12 @@
 {
-  "created": 1666253137,
+  "created": 1666296052,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
+  "dcexaminer-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/18/items/dcexaminer-2022",
   "files": [
     {
@@ -24148,31 +24153,93 @@
       "sha1": "f1e2eee5366f38fd337b3d872a881af00edb1efc"
     },
     {
+      "name": "dcexaminer-2022-10-20T14:56:53.449304-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666292227",
+      "size": "36730",
+      "md5": "5b1b34e73d4e24fec90271252c45bdaf",
+      "crc32": "86d834aa",
+      "sha1": "325c0908e70d80dbd8d9155a22c64f87e31c95fd",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-10-20T14:56:53.449304-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666292229",
+      "size": "35488",
+      "md5": "c7d3b8d71e326bc6519c89a4bf3dcbc6",
+      "crc32": "17a6f37d",
+      "sha1": "8b05c640d986135c55077d29bcac4259ca4216a3",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-10-20T14:56:53.449304-04:00.jpg",
+      "source": "original",
+      "mtime": "1666292226",
+      "size": "311115",
+      "md5": "5ba58de795413f0890fe017fb8e69bcd",
+      "crc32": "65046f27",
+      "sha1": "8685c920b5279a3ae42b66434e43495369ee0433",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dcexaminer-2022-10-20T14:56:53.449304-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666292230",
+      "size": "1566",
+      "md5": "3d272a888207d1bd1a1816a2566f78f0",
+      "crc32": "bbfef31c",
+      "sha1": "9a5d0b3143a6054d87e0fdc8b2c3ff7a796fbacc",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-10-20T14:56:53.449304-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666292232",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dcexaminer-2022-10-20T14:56:53.449304-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dcexaminer-2022-10-20T14:56:53.449304-04:00.jpg",
+      "mtime": "1666292341",
+      "size": "9334",
+      "md5": "262217a4e73c6f6511d3301cce855986",
+      "crc32": "c8a37732",
+      "sha1": "c635f0b981677829fec56bf0a649547441d4328a"
+    },
+    {
       "name": "dcexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "86b2e5653a9d8c9b0ea91b3b3253e52f93212e88",
-      "mtime": "1666253115",
-      "size": "495689",
-      "md5": "33687a48d313754dc09a5ef13d8d614e",
-      "crc32": "5f11a42b",
-      "sha1": "fbcd217dd2e7f93160a82779157d618cdc3045f2",
+      "btih": "ebc74da01818cfce9ec8d449b2c79f68ff6fbd64",
+      "mtime": "1666292395",
+      "size": "496966",
+      "md5": "71925c1baba21945fe646163ddd35647",
+      "crc32": "ba40b878",
+      "sha1": "40310e66f97bfd3b34e8f00562f05abe412cb6c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9345fdf9691e978f40683fe250066a7",
+      "md5": "3ed6d221ef65ed8ff2778c2d62b0d8ea",
       "summation": "md5"
     },
     {
       "name": "dcexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666252891",
-      "size": "2854912",
-      "md5": "9cfacd6748caf807d0ec92085b5ffc67",
-      "crc32": "5a286968",
-      "sha1": "c1d192df509db54b5e16db0b118b073e4aab58c3",
+      "mtime": "1666292240",
+      "size": "2863104",
+      "md5": "856c52bfb0e50319c1915400666aaced",
+      "crc32": "09ebd0a8",
+      "sha1": "846ee1bde5638109a053b1976f0d2bfb26b2e7ba",
       "format": "Metadata"
     },
     {
@@ -24186,9 +24253,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2326,
-  "item_last_updated": 1666253115,
-  "item_size": 200139985,
+  "files_count": 2332,
+  "item_last_updated": 1666292395,
+  "item_size": 200543889,
   "metadata": {
     "identifier": "dcexaminer-2022",
     "collection": [
@@ -24206,7 +24273,7 @@
     "addeddate": "2022-03-25 18:45:33"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 231413352,
+  "uniq": 2058808643,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

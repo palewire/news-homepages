@@ -1,5 +1,5 @@
 {
-  "created": 1666253358,
+  "created": 1666296396,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/4/items/gazettedotcom-2022",
@@ -20522,31 +20522,93 @@
       "sha1": "e557fbcccad72f027d0c4ca77265cf6f21e1e982"
     },
     {
+      "name": "gazettedotcom-2022-10-20T14:01:16.098831-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666292503",
+      "size": "41407",
+      "md5": "6ede5fa88d205ffebd24132f285daf46",
+      "crc32": "d41f805e",
+      "sha1": "92f83e051f613d680242e17859f7ae810acad86e",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-20T14:01:16.098831-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666292505",
+      "size": "79649",
+      "md5": "1673e0d6a0252da75e059b38836ac4e5",
+      "crc32": "8debf3fd",
+      "sha1": "856d298872f0f8094b2ca218875070a22da394a0",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-20T14:01:16.098831-05:00.jpg",
+      "source": "original",
+      "mtime": "1666292501",
+      "size": "189901",
+      "md5": "516ad4e6068a2b69906329e5943846eb",
+      "crc32": "27cd50f3",
+      "sha1": "eadd4f382602a524d158ce90fa369c00e14b2ca0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazettedotcom-2022-10-20T14:01:16.098831-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666292507",
+      "size": "1488",
+      "md5": "93b3f36da8db1026975d6ef40be30b48",
+      "crc32": "887e09f0",
+      "sha1": "00480427f430519d81945530d546bcca148649a1",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-20T14:01:16.098831-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666292509",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gazettedotcom-2022-10-20T14:01:16.098831-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazettedotcom-2022-10-20T14:01:16.098831-05:00.jpg",
+      "mtime": "1666292586",
+      "size": "8262",
+      "md5": "dda233469c1faa7414a1cc385f9b8e9f",
+      "crc32": "89123e23",
+      "sha1": "40f957d314b3ac0c495b065e981449be7cd0b516"
+    },
+    {
       "name": "gazettedotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "515539335d8591314cd3059c2ad4f33ab80f14c6",
-      "mtime": "1666253348",
-      "size": "426862",
-      "md5": "dfbb552f43b9b80c86dfc8761eabd48e",
-      "crc32": "34bc9193",
-      "sha1": "67a3c840c50efc604a7f90aa5da75f2a47de5382",
+      "btih": "0bc92f9b028de3ac5608b4ac4ea73ef92e61cc86",
+      "mtime": "1666292617",
+      "size": "428137",
+      "md5": "fe547492df302ab7edb3c11ee04a9eb3",
+      "crc32": "828527aa",
+      "sha1": "5a6aa52a6237c187a1a964cab7fb99da1700ac10",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazettedotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "053d476578bc3c1aca3cedcfbae692c0",
+      "md5": "cdc6a36c1a03659563bcdf22ef8a2c67",
       "summation": "md5"
     },
     {
       "name": "gazettedotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666253241",
-      "size": "2428928",
-      "md5": "ddd0fde059dea0a7011a5796c83635c4",
-      "crc32": "5c4dec66",
-      "sha1": "5d76d94b971c2d9f6dd361ce82203ee804df419a",
+      "mtime": "1666292513",
+      "size": "2441216",
+      "md5": "22fe65b6eb962966ee5b57f9c6103c92",
+      "crc32": "191cc85e",
+      "sha1": "2f9f701c86b47d3eb1e7e1c2c5651dc658c9a818",
       "format": "Metadata"
     },
     {
@@ -20560,9 +20622,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1976,
-  "item_last_updated": 1666253348,
-  "item_size": 164662127,
+  "files_count": 1982,
+  "gazettedotcom-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666292617,
+  "item_size": 164996599,
   "metadata": {
     "identifier": "gazettedotcom-2022",
     "collection": [
@@ -20579,10 +20646,10 @@
     "publicdate": "2022-03-25 03:34:38",
     "addeddate": "2022-03-25 03:34:38"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 1319584733,
+  "server": "ia802508.us.archive.org",
+  "uniq": 158544024,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

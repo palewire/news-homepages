@@ -1,5 +1,5 @@
 {
-  "created": 1666253787,
+  "created": 1666292204,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/8/items/columbiatribune-2022",
@@ -3704,31 +3704,93 @@
       "sha1": "af0720f30c7f1cea3482c646ba4caa19cf8da914"
     },
     {
+      "name": "columbiatribune-2022-10-20T13:55:27.963087-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666292132",
+      "size": "21236",
+      "md5": "8b57d59080e009c2b097e8befad728de",
+      "crc32": "673726d6",
+      "sha1": "7990927c092313fd206488e6a8e0879389c89005",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-20T13:55:27.963087-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666292134",
+      "size": "34846",
+      "md5": "63317f82da4da93c7b7a63d2b7d7da9c",
+      "crc32": "d638bd78",
+      "sha1": "9d4a8962d358696486f143f94585dd5836c6c0ef",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-20T13:55:27.963087-05:00.jpg",
+      "source": "original",
+      "mtime": "1666292130",
+      "size": "258472",
+      "md5": "a9e5be17a85288bdcb84adad3271488b",
+      "crc32": "c1f7f9e4",
+      "sha1": "e4063a45537406e2e7fae22d5593871723c2dec4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "columbiatribune-2022-10-20T13:55:27.963087-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666292136",
+      "size": "1540",
+      "md5": "607d2a6a31e50fabbee2048c14376ec2",
+      "crc32": "2d7a9521",
+      "sha1": "50f4d9a7ab25ea663dc1b3c16cd502dc7f0f2659",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-20T13:55:27.963087-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666292137",
+      "size": "93401",
+      "md5": "863697785406d73764140331b62e1a17",
+      "crc32": "a0117aaf",
+      "sha1": "835632dc637964a00bc39a72918d8e728776f5f7",
+      "format": "JSON"
+    },
+    {
+      "name": "columbiatribune-2022-10-20T13:55:27.963087-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "columbiatribune-2022-10-20T13:55:27.963087-05:00.jpg",
+      "mtime": "1666292188",
+      "size": "9317",
+      "md5": "e1db2e03408b8bff9e192487f8ffd729",
+      "crc32": "801db5d4",
+      "sha1": "0932624ea212f8292bb6e12b715fe43aa80acdf0"
+    },
+    {
       "name": "columbiatribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33ece247ff8a5f87ee6b3a51408f0f4e3a52c679",
-      "mtime": "1666253770",
-      "size": "79412",
-      "md5": "4bd5e5e96e5e2ed8a4c228d21f7f8479",
-      "crc32": "7b0a1cd2",
-      "sha1": "f78618bf61b7e1a1a5d20e1f3686b2f10deec04a",
+      "btih": "e99c5518cec3e84cee81b1b08bd84a9ed32b36af",
+      "mtime": "1666292193",
+      "size": "80701",
+      "md5": "1061a1945df02b3b4d97e2fd572cb3cb",
+      "crc32": "e637e1c2",
+      "sha1": "bc5edeede9566ead4b7a52379a74fb17984f45a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "columbiatribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac9b66a38e539d8454e51710561cf1cd",
+      "md5": "b5ea3bed306ad77a76d919709e42e7c9",
       "summation": "md5"
     },
     {
       "name": "columbiatribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666252704",
-      "size": "483328",
-      "md5": "d47bd04e31787ae6e5d6b7b9c799da4d",
-      "crc32": "91162337",
-      "sha1": "905bf503b8b0ff0da783fda349ca7116ad625573",
+      "mtime": "1666292142",
+      "size": "487424",
+      "md5": "1784b9eae208470531fdc138cb40ccfd",
+      "crc32": "161fb0e9",
+      "sha1": "505e25d2f1bb19905defcd51d8518f78089b1bdc",
       "format": "Metadata"
     },
     {
@@ -3742,9 +3804,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 362,
-  "item_last_updated": 1666253770,
-  "item_size": 26360830,
+  "files_count": 368,
+  "item_last_updated": 1666292193,
+  "item_size": 26785027,
   "metadata": {
     "identifier": "columbiatribune-2022",
     "collection": [
@@ -3762,7 +3824,7 @@
     "addeddate": "2022-09-20 17:40:34"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 1841136679,
+  "uniq": 1158673812,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

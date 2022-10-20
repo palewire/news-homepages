@@ -1,5 +1,5 @@
 {
-  "created": 1666252945,
+  "created": 1666292280,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/19/items/dailycamera-2022",
@@ -8324,31 +8324,93 @@
       "sha1": "f999b60fdf76c50184e0af0012b163615490c66e"
     },
     {
+      "name": "dailycamera-2022-10-20T12:56:24.635380-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666292190",
+      "size": "37391",
+      "md5": "d13f5684e07b8fa306b4a6c7cf7a225d",
+      "crc32": "5bc19650",
+      "sha1": "a96e0f9d7804dd6868fcfe6f12fae8a0e3314d38",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycamera-2022-10-20T12:56:24.635380-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666292191",
+      "size": "50016",
+      "md5": "7e1f76c58196852e48077b104f0f3e80",
+      "crc32": "e7bba990",
+      "sha1": "e614fb142178d2ec784a6646848b408bee8837f7",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycamera-2022-10-20T12:56:24.635380-06:00.jpg",
+      "source": "original",
+      "mtime": "1666292188",
+      "size": "271312",
+      "md5": "57520071d5db4b09c1460d940fbf7536",
+      "crc32": "5ca22707",
+      "sha1": "a5ccbb9efcea610229ab26d518b2ad73403573d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycamera-2022-10-20T12:56:24.635380-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666292193",
+      "size": "1504",
+      "md5": "9851e9640b31b07178df3c18d7b0e44a",
+      "crc32": "9cd0ed80",
+      "sha1": "03034c38612379fcb7c13b8a4b46b815b000e986",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycamera-2022-10-20T12:56:24.635380-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666292196",
+      "size": "39216",
+      "md5": "bf5c5a8d6df0bb4bc43d437c58f4b281",
+      "crc32": "2b7eae6c",
+      "sha1": "dffe164b5c2653b595d7594582920eb1704a0450",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycamera-2022-10-20T12:56:24.635380-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycamera-2022-10-20T12:56:24.635380-06:00.jpg",
+      "mtime": "1666292254",
+      "size": "9556",
+      "md5": "4cafda3d6aba433f0bf3834f4b3c91ce",
+      "crc32": "f22dfa60",
+      "sha1": "012282d1ed29ae348420113a471022bb78c33459"
+    },
+    {
       "name": "dailycamera-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0d22e5a952cd808734061dc1ab5f110c4bd19d81",
-      "mtime": "1666252939",
-      "size": "173143",
-      "md5": "7765bd0038b143862bce906f6e3dbce7",
-      "crc32": "62c669a5",
-      "sha1": "cdf5807e08fc246ea3bff676f61442fccca3864e",
+      "btih": "6847a5613317624ba8d5f34ecba53de19215e465",
+      "mtime": "1666292270",
+      "size": "174428",
+      "md5": "e41a0623b89afc349769dc3289c0bfaf",
+      "crc32": "bb861743",
+      "sha1": "3d6d3a3a91042e65e19492663631c866c4b566cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycamera-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3d71627c0e2f4fc54d98a5a21a54bc9",
+      "md5": "558f3ea5109dd55ecb0e9945771625ad",
       "summation": "md5"
     },
     {
       "name": "dailycamera-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666252883",
-      "size": "1044480",
-      "md5": "45fab27ff5e3be101fbfd9a316359d4e",
-      "crc32": "e67ac566",
-      "sha1": "95fb828d8bc0089c578177d4049fe2da14c9ad95",
+      "mtime": "1666292200",
+      "size": "1048576",
+      "md5": "92d265f07c8949d922ecf32f0792a5c2",
+      "crc32": "55f9039d",
+      "sha1": "ddb5d60bc3d384348b0d78accbd52fcd0f28fd76",
       "format": "Metadata"
     },
     {
@@ -8362,9 +8424,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 809,
-  "item_last_updated": 1666252939,
-  "item_size": 54318927,
+  "files_count": 815,
+  "item_last_updated": 1666292270,
+  "item_size": 54733303,
   "metadata": {
     "identifier": "dailycamera-2022",
     "collection": [
@@ -8381,10 +8443,10 @@
     "publicdate": "2022-08-14 06:41:13",
     "addeddate": "2022-08-14 06:41:13"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 605200722,
+  "server": "ia902504.us.archive.org",
+  "uniq": 83129075,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }
