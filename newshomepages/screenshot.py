@@ -17,7 +17,8 @@ from . import utils
 @click.option("-y", "--height", "height", default=1600)
 @click.option(
     "-f",
-    "--screenshot_full_page",
+    "--full-page",
+    "full_page",
     is_flag=True,
     default=False,
     help="Screenshot the whole page or just a part of it.",
@@ -28,7 +29,7 @@ def cli(
     wait: str,
     width: str,
     height: str,
-    screenshot_full_page: bool,
+    full_page: bool,
 ):
     """Screenshot the provided homepage."""
     site = utils.get_site(handle)
@@ -39,7 +40,7 @@ def cli(
         wait=int(wait),
         width=int(width),
         height=int(height),
-        screenshot_full_page=bool(screenshot_full_page),
+        full_page=bool(full_page),
     )
 
 
@@ -50,7 +51,7 @@ def _screenshot(
     wait: int = 5000,
     width: int = 1300,
     height: int = 1600,
-    screenshot_full_page: bool = False,
+    full_page: bool = False,
 ):
     """Shoot the provided site."""
     print(f":camera: Screenshotting {site['name']}")
@@ -74,7 +75,7 @@ def _screenshot(
             quality=80,
             type="jpeg",
             path=jpeg_file_path,
-            full_page=screenshot_full_page,
+            full_page=full_page,
         )
 
         # Close it out
