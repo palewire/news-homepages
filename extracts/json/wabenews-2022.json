@@ -1,5 +1,5 @@
 {
-  "created": 1666164558,
+  "created": 1666254298,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/wabenews-2022",
@@ -10735,31 +10735,166 @@
       "format": "JSON"
     },
     {
+      "name": "wabenews-2022-10-19T03:27:52.482639-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wabenews-2022-10-19T03:27:52.482639-04:00.jpg",
+      "mtime": "1666185920",
+      "size": "10048",
+      "md5": "72efdcd225bd17022ed819046e8a2409",
+      "crc32": "740bbb6e",
+      "sha1": "619ff432f81d8940c6e350b49902c4b9defc5f29"
+    },
+    {
+      "name": "wabenews-2022-10-19T15:58:56.028837-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666209556",
+      "size": "743",
+      "md5": "770f2b198f4e3eba3d91508b23e6edd2",
+      "crc32": "87cd0026",
+      "sha1": "d0b48ca5bd1dfdf1b84b404074bf3c240d4f6779",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-10-19T15:58:56.028837-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666209558",
+      "size": "45519",
+      "md5": "15beeaa078800d067d621fad35cdb278",
+      "crc32": "5cbc63a2",
+      "sha1": "94196209d0af14af9dfb3527ef3238cede1dc220",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-10-19T15:58:56.028837-04:00.jpg",
+      "source": "original",
+      "mtime": "1666209555",
+      "size": "260369",
+      "md5": "9d8b94bf79a79c485bf2b28bc8f894ba",
+      "crc32": "51fc29f3",
+      "sha1": "7f0ba7c7fb3a991949869ce81af9cbbc0fd3bcad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wabenews-2022-10-19T15:58:56.028837-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666209560",
+      "size": "1441",
+      "md5": "cb5926bb95b70f8bec5b021a5e40140a",
+      "crc32": "fb3cf11e",
+      "sha1": "40ea564adc64a26fbea29884128d8eeed3b5b4bf",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-10-19T15:58:56.028837-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666209561",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-10-19T15:58:56.028837-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wabenews-2022-10-19T15:58:56.028837-04:00.jpg",
+      "mtime": "1666214215",
+      "size": "10163",
+      "md5": "0e03ef64d28878a31eb0ac3d29680998",
+      "crc32": "8bfcadd6",
+      "sha1": "95dbb21a88b949c2db0ec4342ae2a80bbe97732f"
+    },
+    {
+      "name": "wabenews-2022-10-20T04:22:04.160196-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666254133",
+      "size": "743",
+      "md5": "770f2b198f4e3eba3d91508b23e6edd2",
+      "crc32": "87cd0026",
+      "sha1": "d0b48ca5bd1dfdf1b84b404074bf3c240d4f6779",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-10-20T04:22:04.160196-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666254134",
+      "size": "47501",
+      "md5": "3d8a68af0c7e5079385dc10e46dd69ff",
+      "crc32": "b095aa88",
+      "sha1": "7a307e55b25a959fcdf433dabe9a9b3f3895d15c",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-10-20T04:22:04.160196-04:00.jpg",
+      "source": "original",
+      "mtime": "1666254131",
+      "size": "273733",
+      "md5": "5805d47edeaa1ae4e9b4e21e991db7ba",
+      "crc32": "1efc3fff",
+      "sha1": "b35021eb1e86615e93aa9628bd130a1448dc7035",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wabenews-2022-10-20T04:22:04.160196-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666254136",
+      "size": "1438",
+      "md5": "d75a0210c6c81f06da7c0134888be42c",
+      "crc32": "d6b7b245",
+      "sha1": "1351f38df66a3db0f7c3198b177648c360cd733d",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-10-20T04:22:04.160196-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666254138",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wabenews-2022-10-20T04:22:04.160196-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wabenews-2022-10-20T04:22:04.160196-04:00.jpg",
+      "mtime": "1666254246",
+      "size": "10228",
+      "md5": "9227dd4a03bf72fbbae74fc19eb920e2",
+      "crc32": "89fcec0e",
+      "sha1": "e6b6eff2d7fc00863e4e20b19b3d4d64c8938620"
+    },
+    {
       "name": "wabenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "06d3035b129ec8109a61073b190df5217da91907",
-      "mtime": "1666164549",
-      "size": "219166",
-      "md5": "616811da5fad6bfe7d499f6114d8a63b",
-      "crc32": "a903a4ab",
-      "sha1": "8352abe23d84bc6448729c468851d5e6963cf9e7",
+      "btih": "ae0283445c3fefff9a3f5131c83185938f00ccf9",
+      "mtime": "1666254274",
+      "size": "221879",
+      "md5": "8c2b09ccea957cd9d7a9609d35e6a8e9",
+      "crc32": "e325e42b",
+      "sha1": "15bfa4c8d481331077bf09665d7d848afa05cec1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wabenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32970a5f03c840180640feef790dea08",
+      "md5": "d6c5040ca7f533a8e8a8315d2f22b6bc",
       "summation": "md5"
     },
     {
       "name": "wabenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666164502",
-      "size": "1323008",
-      "md5": "68faaf19da58847534786e6d6b2381d3",
-      "crc32": "fc45db54",
-      "sha1": "fa41fdc1fd76ef903bd780dc77fb99232ea5f899",
+      "mtime": "1666254149",
+      "size": "1335296",
+      "md5": "c86316d8ebd649b3987bd0e3562af516",
+      "crc32": "da54953b",
+      "sha1": "078ef12895ccce2cf469182bbde72ad64442b281",
       "format": "Metadata"
     },
     {
@@ -10773,9 +10908,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1041,
-  "item_last_updated": 1666164549,
-  "item_size": 65560694,
+  "files_count": 1054,
+  "item_last_updated": 1666254274,
+  "item_size": 66238025,
   "metadata": {
     "identifier": "wabenews-2022",
     "collection": [
@@ -10792,21 +10927,10 @@
     "publicdate": "2022-07-20 23:31:49",
     "addeddate": "2022-07-20 23:31:49"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445401001,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2064793828,
+  "server": "ia801406.us.archive.org",
+  "uniq": 299149248,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }
