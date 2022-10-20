@@ -1,5 +1,10 @@
 {
-  "created": 1666176840,
+  "ajenglish-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1666224153,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/8/items/ajenglish-2022",
@@ -13891,31 +13896,104 @@
       "format": "JSON"
     },
     {
+      "name": "ajenglish-2022-10-19T13:52:45.522464+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ajenglish-2022-10-19T13:52:45.522464+03:00.jpg",
+      "mtime": "1666196592",
+      "size": "9919",
+      "md5": "cb2da825b2d84e94700da45d66942392",
+      "crc32": "c8e5ec93",
+      "sha1": "63be582f1cd3150d664bebdca265e4a24abdd6a1"
+    },
+    {
+      "name": "ajenglish-2022-10-20T02:03:03.782015+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666220591",
+      "size": "17551",
+      "md5": "a46ca63a9950e7cb2631998d3a753edd",
+      "crc32": "758083a9",
+      "sha1": "6c9c0f373eb2e3a1ab6fccf6ee3f0143f0c44e37",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-10-20T02:03:03.782015+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666220593",
+      "size": "9570",
+      "md5": "bdfb1f4cfeb5d458932be85e0609aa5e",
+      "crc32": "3f8f9cb6",
+      "sha1": "6ad112a918359d155673d730f1ba83cd84ad85f1",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-10-20T02:03:03.782015+03:00.jpg",
+      "source": "original",
+      "mtime": "1666220589",
+      "size": "292001",
+      "md5": "a50feef4d1c05ab185aaa2416a39c452",
+      "crc32": "f28a429c",
+      "sha1": "69d48d3458ed97e3cfbf40e8c4b29ce6489b3a4f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ajenglish-2022-10-20T02:03:03.782015+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666220595",
+      "size": "1477",
+      "md5": "3fb281ec473ec4e0668ac3fb61d1024d",
+      "crc32": "1184d938",
+      "sha1": "da48cecb0810b53e231833f3c2de6249a2ccfd0b",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-10-20T02:03:03.782015+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666220596",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ajenglish-2022-10-20T02:03:03.782015+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ajenglish-2022-10-20T02:03:03.782015+03:00.jpg",
+      "mtime": "1666222035",
+      "size": "9964",
+      "md5": "0f6932ac328872bc73f35a2639f262ff",
+      "crc32": "c4919a18",
+      "sha1": "e57a41a9653cac2762a3f9367e430f9da5d4d097"
+    },
+    {
       "name": "ajenglish-2022_archive.torrent",
       "source": "metadata",
-      "btih": "951211e4c40b1f4e0656e6c86b25ba232364e012",
-      "mtime": "1666176832",
-      "size": "283870",
-      "md5": "f93759ab887e86a7fb1c3a9d1ebc8ba1",
-      "crc32": "17eddb6b",
-      "sha1": "d3e292c9464902f599ab2d95477af39320727ecc",
+      "btih": "102cd0938ef09a869a22687853e4a38d90d632c2",
+      "mtime": "1666222086",
+      "size": "285325",
+      "md5": "ed29ded98666793afaca7a2a033dc564",
+      "crc32": "1874f41e",
+      "sha1": "4d70267866352dc9518008186fd8d1999870acc4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ajenglish-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ebf9aa7cc997b88527db2fce0b0a1cec",
+      "md5": "2db83e23bb09e50034e956a6ded9de88",
       "summation": "md5"
     },
     {
       "name": "ajenglish-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666176780",
-      "size": "1667072",
-      "md5": "2311c488c76a59dbd8826568ffb03c73",
-      "crc32": "e12c0aaf",
-      "sha1": "2430874da43e5f0a5291a91c9d9741171385f4fd",
+      "mtime": "1666220603",
+      "size": "1675264",
+      "md5": "b95217c3b5f4139a4674b3287643184e",
+      "crc32": "b8337faf",
+      "sha1": "c81cb23a7f94a28c255870d41ba1d9f0a9a839c9",
       "format": "Metadata"
     },
     {
@@ -13929,9 +14007,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1342,
-  "item_last_updated": 1666176832,
-  "item_size": 86874660,
+  "files_count": 1349,
+  "item_last_updated": 1666222086,
+  "item_size": 87224991,
   "metadata": {
     "identifier": "ajenglish-2022",
     "collection": [
@@ -13948,21 +14026,10 @@
     "publicdate": "2022-06-24 22:52:32",
     "addeddate": "2022-06-24 22:52:32"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445555017,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1219782850,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1884537757,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }
