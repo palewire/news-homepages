@@ -1,49 +1,8 @@
 {
-  "created": 1666209748,
+  "created": 1666253191,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/24/items/espn-2022",
-  "espn-2022": [
-    {
-      "url": "https://www.espn.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_46_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_46_44.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.83,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.espn.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_47_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_47_56.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.83,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.espn.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_47_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_47_22.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.82,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.7
-      }
-    }
-  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -12244,31 +12203,104 @@
       "format": "JSON"
     },
     {
+      "name": "espn-2022-10-19T14:16:46.876976-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-19T14:16:46.876976-04:00.jpg",
+      "mtime": "1666211793",
+      "size": "11041",
+      "md5": "757b0613ef76020c9e039616050a82a5",
+      "crc32": "7e5b761d",
+      "sha1": "5a7dd24773c21e178ecbde261920a98893f4d78c"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666253053",
+      "size": "52172",
+      "md5": "66930337cc4cd95d4ece49a5f47a94da",
+      "crc32": "1edfd206",
+      "sha1": "252e5a0a86eecafa473bad209b40883380df3b47",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666253055",
+      "size": "133508",
+      "md5": "0a09ebc9b9dc5be4da8945ddf71bf0cd",
+      "crc32": "2e2f22d1",
+      "sha1": "183bf2449b9e86b680cb0a013bce6cb9b0886770",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.jpg",
+      "source": "original",
+      "mtime": "1666253051",
+      "size": "353640",
+      "md5": "550b5f410071507c8623f65e9e306653",
+      "crc32": "7c2a6f89",
+      "sha1": "4a7d3fd4e4a49bc72b1da06dd41c68c00c8c2525",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666253056",
+      "size": "1441",
+      "md5": "a11f8c18d45afd2cb3ee1cbedc710af4",
+      "crc32": "3e94a667",
+      "sha1": "496fb09221227dc164f613c8e7f673a4ec7184b3",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666253058",
+      "size": "64441",
+      "md5": "f926a0558ab2721701bc4f2b0f232805",
+      "crc32": "4122cb1c",
+      "sha1": "99465e9e8aee6c2906a2746d67ff0283c19389f8",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-20T04:04:06.335080-04:00.jpg",
+      "mtime": "1666253145",
+      "size": "11604",
+      "md5": "20d436cf39d344c862be73a29229a1a9",
+      "crc32": "443a84cb",
+      "sha1": "0f5a72154bc73e018abf972a2c2854f9bdd33604"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78c93feb644ce97e4eeb4da1de7a4c797ca7417c",
-      "mtime": "1666203758",
-      "size": "246044",
-      "md5": "23b5a48854c8e38b5cea1b1c7aa41723",
-      "crc32": "5e5170f8",
-      "sha1": "0dd86b5c89a22876b013ddd713ad8510197637e8",
+      "btih": "7e6b66edd1d91d9c67ffd804a6075a44e5275b6d",
+      "mtime": "1666253169",
+      "size": "247490",
+      "md5": "7f6c264223c863264ce88fba68fe5a2b",
+      "crc32": "3f263a90",
+      "sha1": "b03907490434a63f1ae6b2831803ba8716915e89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "819a810f6f3dff3e7c5bf291f6b62908",
+      "md5": "f4baa8c98c202e6320a0cf35581d709a",
       "summation": "md5"
     },
     {
       "name": "espn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666203705",
-      "size": "1474560",
-      "md5": "464e6dd6b1972126ee914e377577bea4",
-      "crc32": "e4891b04",
-      "sha1": "d25d46d74c8387f47b0bfa008b6dad783ce0819e",
+      "mtime": "1666253065",
+      "size": "1482752",
+      "md5": "d9fbd12d0db3adb1488afb291e5f4f40",
+      "crc32": "c0e95002",
+      "sha1": "56a92bc3f51d238d5f15b839f8798d3c1956140f",
       "format": "Metadata"
     },
     {
@@ -12282,9 +12314,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1181,
-  "item_last_updated": 1666203758,
-  "item_size": 119511477,
+  "files_count": 1188,
+  "item_last_updated": 1666253169,
+  "item_size": 120148962,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -12301,21 +12333,10 @@
     "publicdate": "2022-07-04 20:48:15",
     "addeddate": "2022-07-04 20:48:15"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445841165,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 559203838,
+  "uniq": 1417211898,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

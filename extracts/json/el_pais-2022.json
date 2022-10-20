@@ -1,5 +1,5 @@
 {
-  "created": 1666203761,
+  "created": 1666253164,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/el_pais-2022",
@@ -10117,31 +10117,104 @@
       "format": "JSON"
     },
     {
+      "name": "el_pais-2022-10-19T20:16:43.131570+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_pais-2022-10-19T20:16:43.131570+02:00.jpg",
+      "mtime": "1666211776",
+      "size": "8964",
+      "md5": "8a0e79d11b6e802603a155018d90d996",
+      "crc32": "ad45c482",
+      "sha1": "11c88730ed8347dc0ef94d1b301daf7033227cd7"
+    },
+    {
+      "name": "el_pais-2022-10-20T10:04:14.359547+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666253065",
+      "size": "65076",
+      "md5": "7c6892354a758bf74a5e3be1bb474ec7",
+      "crc32": "0fd52fbf",
+      "sha1": "a4295fa0b0f97f050b38077bf3cd7188ebde3f2c",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-20T10:04:14.359547+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666253066",
+      "size": "77552",
+      "md5": "2d60f0cd54a460f89752b2b5f021bed7",
+      "crc32": "e1da8391",
+      "sha1": "17a99417a9df00ea7fce202a922080221345642e",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-20T10:04:14.359547+02:00.jpg",
+      "source": "original",
+      "mtime": "1666253063",
+      "size": "275782",
+      "md5": "ad3c5919282abf743ac299239876314d",
+      "crc32": "13165d27",
+      "sha1": "d5f7e073cb37c55d4f2c01d03e8c7e02d900f076",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_pais-2022-10-20T10:04:14.359547+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666253067",
+      "size": "1495",
+      "md5": "04987e52b8f3f2a0076eaaa7d14205e1",
+      "crc32": "6cf35290",
+      "sha1": "bd22804c33c1784197ffd38a068d38fd7d18345a",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-20T10:04:14.359547+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666253069",
+      "size": "31822",
+      "md5": "c9400ef7cc40235133884e9de199e7cb",
+      "crc32": "4d81f5c5",
+      "sha1": "ca1517de92fd1f867944b362270cc244dd884170",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-20T10:04:14.359547+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_pais-2022-10-20T10:04:14.359547+02:00.jpg",
+      "mtime": "1666253137",
+      "size": "9099",
+      "md5": "31cb80c0235b46c6b60ccfd3a61fa03a",
+      "crc32": "44329bd4",
+      "sha1": "0fdb433bb99dacd32bb1e09cc2d74f451de4e834"
+    },
+    {
       "name": "el_pais-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2560b00eddc1c26e830ae7857849083cd3ee788c",
-      "mtime": "1666203750",
-      "size": "206366",
-      "md5": "f1a8c63e3357b360d4365642414e47b0",
-      "crc32": "be0086b9",
-      "sha1": "e8789611f42143a31387aaf150af55d44cfaa376",
+      "btih": "888f76fbd26955133fa30f61fd1d71038a0af8fa",
+      "mtime": "1666253148",
+      "size": "207810",
+      "md5": "a18b6f8dbcd6724982d576094b7489af",
+      "crc32": "117f6366",
+      "sha1": "278a4db2679e02ef332bd1ec472adad700b6856c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_pais-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a557e39a6c363609f565b3444bfb8681",
+      "md5": "1fca8e4005204ab56d492c4241aad16b",
       "summation": "md5"
     },
     {
       "name": "el_pais-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666203702",
-      "size": "1253376",
-      "md5": "c45af21dbb03b363d9d34d2e90cdb2c1",
-      "crc32": "38bd9831",
-      "sha1": "97dc91ebb255add5c3e1342a034a73c7995f0703",
+      "mtime": "1666253073",
+      "size": "1261568",
+      "md5": "7c8213a785b2ede6655bf7a19e04980d",
+      "crc32": "ca7f7364",
+      "sha1": "eb9eb9887caa36db42ccf68523917428995e4f38",
       "format": "Metadata"
     },
     {
@@ -10155,9 +10228,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 982,
-  "item_last_updated": 1666203750,
-  "item_size": 73084096,
+  "files_count": 989,
+  "item_last_updated": 1666253148,
+  "item_size": 73563522,
   "metadata": {
     "identifier": "el_pais-2022",
     "collection": [
@@ -10174,21 +10247,10 @@
     "publicdate": "2022-07-28 18:53:38",
     "addeddate": "2022-07-28 18:53:38"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445841114,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1185234437,
+  "uniq": 212801003,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

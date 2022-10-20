@@ -1,31 +1,8 @@
 {
-  "created": 1666209654,
+  "created": 1666253339,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/elpaisuy-2022",
-  "elpaisuy-2022": {
-    "url": "https://www.elpais.com.uy/",
-    "job_id": "spn2-d01f5fbeb4eff8d8f5f908ba917d82ebc05b9cca",
-    "resources": [
-      "https://www.elpais.com.uy/",
-      "https://www.elpais.com.uy/cdn-cgi/styles/challenges.css",
-      "https://www.elpais.com.uy/favicon.ico",
-      "https://www.elpais.com.uy/cdn-cgi/challenge-platform/h/b/orchestrate/captcha/v1?ray=75cb630d0d6b9446",
-      "https://www.elpais.com.uy/cdn-cgi/images/trace/captcha/js/transparent.gif?ray=75cb630d0d6b9446",
-      "https://cloudflare.hcaptcha.com/1/api.js?endpoint=https://cloudflare.hcaptcha.com&assethost=https://cf-assets.hcaptcha.com&imghost=https://cf-imgs.hcaptcha.com&render=explicit&recaptchacompat=off&onload=_cf_chl_hload",
-      "https://www.elpais.com.uy/favicon.ico"
-    ],
-    "timestamp": "20221019175549",
-    "http_status": 403,
-    "status": "success",
-    "counters": {
-      "outlinks": 0,
-      "embeds": 7
-    },
-    "original_url": "https://www.elpais.com.uy/",
-    "duration_sec": 12.209,
-    "screenshot": "http://web.archive.org/screenshot/https://www.elpais.com.uy/"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -11838,31 +11815,104 @@
       "format": "JSON"
     },
     {
+      "name": "elpaisuy-2022-10-19T15:16:54.266321-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-19T15:16:54.266321-03:00.jpg",
+      "mtime": "1666211794",
+      "size": "10777",
+      "md5": "a2f919c98b407d1f361c02adcce5f995",
+      "crc32": "5903b792",
+      "sha1": "c21b8a8dd8f710edd5ee7c1eb44ed1277d72d2c7"
+    },
+    {
+      "name": "elpaisuy-2022-10-20T05:04:25.089263-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666253077",
+      "size": "52349",
+      "md5": "251a62cc5040e4c8e6117567f73d2396",
+      "crc32": "b61090dc",
+      "sha1": "3a157d2ba316bca556b3298547fea9d9c34020cf",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-20T05:04:25.089263-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666253078",
+      "size": "98689",
+      "md5": "6570cebd80f2abe8a3c7247f9ccbe8af",
+      "crc32": "47732022",
+      "sha1": "1e2b6d1756b5e8a0495deb545eb2bb3a3ed95ff3",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-20T05:04:25.089263-03:00.jpg",
+      "source": "original",
+      "mtime": "1666253075",
+      "size": "297572",
+      "md5": "54f10fe74cafe82b0e8e2826e961e149",
+      "crc32": "fc142bdb",
+      "sha1": "3a42e2a3082f39e070adc12f52e0a2531f57a87e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-20T05:04:25.089263-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666253079",
+      "size": "1483",
+      "md5": "585f607f87e20cdd005aab0f597112d3",
+      "crc32": "b92825f7",
+      "sha1": "153c5281181fe87961326892379c3f0565cf5089",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-20T05:04:25.089263-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666253081",
+      "size": "1508",
+      "md5": "7906997c5a69778ce6b8f11d53c7efbf",
+      "crc32": "f10979d5",
+      "sha1": "c39ac0276be0d7d92bc48658cb3ce78cb8ade9e0",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-20T05:04:25.089263-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-20T05:04:25.089263-03:00.jpg",
+      "mtime": "1666253154",
+      "size": "10869",
+      "md5": "a763a6730fdee514d5eb862ee47d9adb",
+      "crc32": "5f66c758",
+      "sha1": "c25cf46b739b3db8d12f67f0181f3be18e7e864c"
+    },
+    {
       "name": "elpaisuy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3bd30573798d67fe685b6ac0d217e29ad9b0c595",
-      "mtime": "1666203753",
-      "size": "241871",
-      "md5": "df361456d6a6465de031c8476a4b14b4",
-      "crc32": "4210b669",
-      "sha1": "a578cb1013f4069e052a2668e9a2a6746f4a90d1",
+      "btih": "9b8a0f63fc5c967e4ba33410e502a35bf6015ae1",
+      "mtime": "1666253215",
+      "size": "243343",
+      "md5": "f8389bc411b81259aa513ebb95ef3466",
+      "crc32": "0fe6df3d",
+      "sha1": "b98e9b5ba6404ff53d2ae89ab0fd6e0cdcc84e1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpaisuy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34c43a05c66b0c331798d71e135a9bac",
+      "md5": "f55ffdd85cfdcc42e10b1adda2b6928a",
       "summation": "md5"
     },
     {
       "name": "elpaisuy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666203703",
-      "size": "1437696",
-      "md5": "2287cdc57a1c28ad566e1839399c3750",
-      "crc32": "c74dde1d",
-      "sha1": "6aeb351da4d54634d87654fa36488cc349e68fdc",
+      "mtime": "1666253086",
+      "size": "1445888",
+      "md5": "b6e3bd2ec4457b5f515d23e7733ff96f",
+      "crc32": "0c13909a",
+      "sha1": "218fe52f26c72bb9b7abc6852752a664f8ad367d",
       "format": "Metadata"
     },
     {
@@ -11876,9 +11926,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1144,
-  "item_last_updated": 1666203753,
-  "item_size": 93682267,
+  "files_count": 1151,
+  "item_last_updated": 1666253215,
+  "item_size": 94165178,
   "metadata": {
     "identifier": "elpaisuy-2022",
     "collection": [
@@ -11895,21 +11945,10 @@
     "publicdate": "2022-07-09 03:58:10",
     "addeddate": "2022-07-09 03:58:10"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445841121,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 253447964,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1947356962,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }
