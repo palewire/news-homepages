@@ -1,5 +1,5 @@
 {
-  "created": 1666224438,
+  "created": 1666309353,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/chieftainnews-2022",
@@ -3716,31 +3716,155 @@
       "sha1": "1a8495cd6b42ae6a97d0dee68fa20615028bc92a"
     },
     {
+      "name": "chieftainnews-2022-10-20T05:48:33.707516-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666266518",
+      "size": "24813",
+      "md5": "93b41404960e4af6e57010c4657dbe07",
+      "crc32": "69f27bf9",
+      "sha1": "164d08ec88eeba3d9f1d8b7e0b28a33a4dfa0d46",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T05:48:33.707516-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666266520",
+      "size": "51955",
+      "md5": "122c779ba4ee242be174ca18c0853dec",
+      "crc32": "08c1242c",
+      "sha1": "f36ba2ae8f3e038b8a6dee598be76d8509cc253a",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T05:48:33.707516-06:00.jpg",
+      "source": "original",
+      "mtime": "1666266517",
+      "size": "311452",
+      "md5": "7c6e25e1019e4fa4dae74298744f3346",
+      "crc32": "358dd782",
+      "sha1": "a5c456cb8002b54dedc08122e5727b7ccc0f8d15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T05:48:33.707516-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666266521",
+      "size": "1486",
+      "md5": "26835a329ece61cc7ec03cb2199d4ffb",
+      "crc32": "bce62311",
+      "sha1": "5f36897380eb5a8d493dbb903c0ef00429f7cef3",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T05:48:33.707516-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666266523",
+      "size": "88884",
+      "md5": "ac1fad7ce6bfe6fe080cb2e4a5ce2490",
+      "crc32": "77837785",
+      "sha1": "af5ade8e6a5d57596b3c3022a4fe061ab6a7f672",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T05:48:33.707516-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chieftainnews-2022-10-20T05:48:33.707516-06:00.jpg",
+      "mtime": "1666266579",
+      "size": "9518",
+      "md5": "a98d8686c266268386a850b231b21622",
+      "crc32": "1e95af00",
+      "sha1": "ae3e2a38151e24a783f2c57848df82ff578c31b3"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T17:41:11.275000-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666309275",
+      "size": "23976",
+      "md5": "cee45d73356be64b0fffe89a9db62769",
+      "crc32": "11148f6a",
+      "sha1": "e7dacc91e568019b78a2698d2bb4541fd14a46b1",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T17:41:11.275000-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666309276",
+      "size": "39965",
+      "md5": "4e15f507db12076883b1486356e1521c",
+      "crc32": "ae4f41f5",
+      "sha1": "11a4d65596ff84bbe3175ed14fb0cf934e153e6b",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T17:41:11.275000-06:00.jpg",
+      "source": "original",
+      "mtime": "1666309273",
+      "size": "291878",
+      "md5": "cb5e8c95dee5d762ae0d19afe6fd19b8",
+      "crc32": "ebfc9834",
+      "sha1": "acde8c60dfcfd4e087f685df3f9b2d729d54f96d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T17:41:11.275000-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666309278",
+      "size": "1486",
+      "md5": "8c94cb32691b846394138bb20ded6183",
+      "crc32": "91b764d7",
+      "sha1": "c3157c051a5980433edb9bb4b9fe1af68733e469",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T17:41:11.275000-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666309279",
+      "size": "105478",
+      "md5": "09a1917f88422f6f2599057410127582",
+      "crc32": "d316d81f",
+      "sha1": "68010b87ee9ed06da2c7c0655f3c3a1fb7b05a2c",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-20T17:41:11.275000-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chieftainnews-2022-10-20T17:41:11.275000-06:00.jpg",
+      "mtime": "1666309337",
+      "size": "9192",
+      "md5": "14575fa906ee40ac16a74977721834c8",
+      "crc32": "ca97e8df",
+      "sha1": "8c223f0b3c2ffe9abe2841a76217a8dbedf85fd0"
+    },
+    {
       "name": "chieftainnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdacafad6d77f18f4cc59c157143b8d75c02ef50",
-      "mtime": "1666224416",
-      "size": "78847",
-      "md5": "5a29077b412cccde789b2c2e6704b37e",
-      "crc32": "39475e17",
-      "sha1": "e4429a1740bd52fd180cbe088dc18fa42977fd88",
+      "btih": "81860bde991c5ba0be4e08f1c266b5fd603b8f33",
+      "mtime": "1666309341",
+      "size": "81442",
+      "md5": "133e858f94acc507eb013162b747a5cd",
+      "crc32": "7a9ecd17",
+      "sha1": "3961b57790e1e7a2ad115efc6d538244fcfce252",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chieftainnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f32a0901841b394c10033c330448d452",
+      "md5": "ae42d4882bd5990e5452144d2564c7d2",
       "summation": "md5"
     },
     {
       "name": "chieftainnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666224341",
-      "size": "483328",
-      "md5": "101eab2a42d57642709c220e88703ec7",
-      "crc32": "16363f31",
-      "sha1": "8800bbd13e0ea67e4ae3663f63ef817a3f7440fe",
+      "mtime": "1666309283",
+      "size": "495616",
+      "md5": "a4bcb702db30c01145e7adce933c2b6c",
+      "crc32": "82c65602",
+      "sha1": "6637c80cbbfe2e8ed76aa0ca29aea8770f0f8acb",
       "format": "Metadata"
     },
     {
@@ -3754,9 +3878,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 363,
-  "item_last_updated": 1666224416,
-  "item_size": 25913165,
+  "files_count": 375,
+  "item_last_updated": 1666309341,
+  "item_size": 26888131,
   "metadata": {
     "identifier": "chieftainnews-2022",
     "collection": [
@@ -3774,7 +3898,7 @@
     "addeddate": "2022-09-20 22:13:16"
   },
   "server": "ia601409.us.archive.org",
-  "uniq": 1682201055,
+  "uniq": 679200464,
   "workable_servers": [
     "ia601409.us.archive.org",
     "ia801409.us.archive.org"

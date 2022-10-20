@@ -1,5 +1,5 @@
 {
-  "created": 1666224491,
+  "created": 1666309457,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/25/items/coloradosun-2022",
@@ -8468,31 +8468,155 @@
       "sha1": "38f1f896175f9e1c3c40cb8948ee5d75b1b66eb8"
     },
     {
+      "name": "coloradosun-2022-10-20T05:49:40.348120-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666266586",
+      "size": "29670",
+      "md5": "db3c0abcae424c07d682da77ec231e97",
+      "crc32": "5ae259d6",
+      "sha1": "8d978cdbf23f49115a2b51b4867cebc11c169212",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-20T05:49:40.348120-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666266588",
+      "size": "45487",
+      "md5": "dbcc2c460a228d4adb4731ccf273c30c",
+      "crc32": "ad3e61e3",
+      "sha1": "86d2aad3e1d5c1d83a383cb8e086ca79442a2777",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-20T05:49:40.348120-06:00.jpg",
+      "source": "original",
+      "mtime": "1666266585",
+      "size": "299376",
+      "md5": "a769238cf8e435f2574740a0ecd26092",
+      "crc32": "65598098",
+      "sha1": "268f928293bb507cc6359e3aa095ef94bffbfae5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradosun-2022-10-20T05:49:40.348120-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666266590",
+      "size": "1468",
+      "md5": "44910e9b81fdb2fdcdc11ce3de752bce",
+      "crc32": "8ae1e84f",
+      "sha1": "6723313a0bbfc208f98438c1ae49c59d119bb289",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-20T05:49:40.348120-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666266591",
+      "size": "39687",
+      "md5": "7c69b649c6fc79d173445ea8e051baeb",
+      "crc32": "847e59fb",
+      "sha1": "466167d7ae83a193cfddedd8b126d03a02664d12",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-20T05:49:40.348120-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradosun-2022-10-20T05:49:40.348120-06:00.jpg",
+      "mtime": "1666266658",
+      "size": "10102",
+      "md5": "f3cb6eab2ccc45c1a5b13da649743e2e",
+      "crc32": "00a91325",
+      "sha1": "6e8e9db3ff3f46470d05c0ebd1f16489f18f95b5"
+    },
+    {
+      "name": "coloradosun-2022-10-20T17:41:29.572846-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666309297",
+      "size": "29821",
+      "md5": "8424a2b82eb9e62ad89a09e1235e2ae9",
+      "crc32": "ae388670",
+      "sha1": "43347947800e64f4ee8cea1dcfcc473f213cb6b3",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-20T17:41:29.572846-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666309299",
+      "size": "45497",
+      "md5": "eafe97f80e1b04c9359f69e4b5fcb710",
+      "crc32": "127b73f4",
+      "sha1": "8f1b3a16752808b6c345cdaa221df04b96a6f6c1",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-20T17:41:29.572846-06:00.jpg",
+      "source": "original",
+      "mtime": "1666309295",
+      "size": "298846",
+      "md5": "e47ca531a37cd95bd5684d04f657bcab",
+      "crc32": "7b5d8ab1",
+      "sha1": "6eaa4280aa2f4c863cde57ea6c9aa8b3422b964b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradosun-2022-10-20T17:41:29.572846-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666309301",
+      "size": "1467",
+      "md5": "6ef166e7c617b756a2e3fe3ab71a9895",
+      "crc32": "c2a2dd3c",
+      "sha1": "501163c27584bab1ca64c913b0b9f06be7b37b7a",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-20T17:41:29.572846-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666309302",
+      "size": "41202",
+      "md5": "3f22c37a971efc14c89dd0d98bdba085",
+      "crc32": "448f5b8f",
+      "sha1": "fc9bd3b8d24aa1d7b3bf0d046b2fd87e530d3b6f",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-20T17:41:29.572846-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradosun-2022-10-20T17:41:29.572846-06:00.jpg",
+      "mtime": "1666309384",
+      "size": "9976",
+      "md5": "5af2186181efe19373c0f4c682ca7ccd",
+      "crc32": "4cc09344",
+      "sha1": "e0c557009c86badd4cb426877242df01b4ad7fbb"
+    },
+    {
       "name": "coloradosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc5f194b15cc978dd67b6edff6def3e82b67df09",
-      "mtime": "1666224464",
-      "size": "176110",
-      "md5": "5593a921d79996ec04b3360eb03cb85f",
-      "crc32": "3a7ba12e",
-      "sha1": "ac98bde25187ee1452e42f2bcbfa3ac1490c5137",
+      "btih": "a0768a2d10df87929bc1d9252d065e46f3f6ad7a",
+      "mtime": "1666309439",
+      "size": "178661",
+      "md5": "e74054e8809a0a5416d39eb673636a9b",
+      "crc32": "488fd065",
+      "sha1": "a3bbb10e1439efff6a05aa20a042556d387f5c1b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coloradosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc3047ff8cd36d3cb915f47cb8a20de1",
+      "md5": "d4033edf2d84eecefd6dd5cde0a2b7d9",
       "summation": "md5"
     },
     {
       "name": "coloradosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666224391",
-      "size": "1060864",
-      "md5": "5551aad587a2cbe1a9b56c00b5f8648a",
-      "crc32": "d8ed00eb",
-      "sha1": "9f707a9d26a644b2229de85d5b5af0c2915cd9c8",
+      "mtime": "1666309308",
+      "size": "1077248",
+      "md5": "db1b957232601861a1032dda249493a8",
+      "crc32": "aaa81c6b",
+      "sha1": "f9b5670ad9f17351e6818daa618ad0ce51bae494",
       "format": "Metadata"
     },
     {
@@ -8506,9 +8630,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 823,
-  "item_last_updated": 1666224464,
-  "item_size": 52626096,
+  "files_count": 835,
+  "item_last_updated": 1666309439,
+  "item_size": 53497630,
   "metadata": {
     "identifier": "coloradosun-2022",
     "collection": [
@@ -8525,10 +8649,10 @@
     "publicdate": "2022-08-13 23:50:43",
     "addeddate": "2022-08-13 23:50:43"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 1547496175,
+  "server": "ia801408.us.archive.org",
+  "uniq": 520875300,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

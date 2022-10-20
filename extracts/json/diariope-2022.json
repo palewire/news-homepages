@@ -1,6 +1,5 @@
 {
-  "conflict": 1666267181,
-  "created": 1666267181,
+  "created": 1666309528,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/diariope-2022",
@@ -13845,31 +13844,93 @@
       "sha1": "530dccbaa2b8f4f3659ca81f1950cb31dd62f243"
     },
     {
+      "name": "diariope-2022-10-20T20:43:33.002980-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666309416",
+      "size": "123478",
+      "md5": "03f82f558c1f510f068207a0ee6b7959",
+      "crc32": "32dc2dd3",
+      "sha1": "364b0c81f2207274cc9577c32614a05a09caeda5",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-20T20:43:33.002980-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666309417",
+      "size": "146873",
+      "md5": "99baf1c9d2fdf3261ba6bc673b1b4957",
+      "crc32": "e6d439d4",
+      "sha1": "9d1c926a2dc969627852e0ffc07b0d7ae3d2aec5",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-20T20:43:33.002980-03:00.jpg",
+      "source": "original",
+      "mtime": "1666309414",
+      "size": "250566",
+      "md5": "ed384feb35c7804d32c084fbe7f2a9a9",
+      "crc32": "73f0bb75",
+      "sha1": "fc73831f83c93aa891bfc5ff3c30796f81e25dbd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-20T20:43:33.002980-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666309419",
+      "size": "1590",
+      "md5": "c1cb3cc64c77223340be8381c2e791d6",
+      "crc32": "93839173",
+      "sha1": "04f958a964206dd799b497d6c091908b371dc043",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-20T20:43:33.002980-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666309420",
+      "size": "114",
+      "md5": "fc3f49ad0d4189ba478e4fe2aa51c52d",
+      "crc32": "c5217cf2",
+      "sha1": "7c01fd8ca29d40ef909e2e58088b404f82ef1340",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-20T20:43:33.002980-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-20T20:43:33.002980-03:00.jpg",
+      "mtime": "1666309497",
+      "size": "9285",
+      "md5": "b5d5885c72a892539c915d65c30b5571",
+      "crc32": "d55f9401",
+      "sha1": "612ab014faa9f2f349f310d4b625f10eeb204d6f"
+    },
+    {
       "name": "diariope-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9944117260fa1c243667d4b9d42de80a34f93354",
-      "mtime": "1666267146",
-      "size": "284847",
-      "md5": "2d81f702badd088d75c1f1d5c31a211c",
-      "crc32": "986bd152",
-      "sha1": "b55c14cedf68a004f2b4fbfa88cfe174f464177b",
+      "btih": "607dbc3ecfb6d2c1321457991db06d910fcb4758",
+      "mtime": "1666309515",
+      "size": "286134",
+      "md5": "9e30d5cac8a66047c918f5db4470717f",
+      "crc32": "29fac4fe",
+      "sha1": "0e24540ffe70175b023c42576b0937d5aeacf7db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariope-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a29af127b17f653a91d5554cf90d8de",
+      "md5": "713183831005655c73e71aaa7a12b84f",
       "summation": "md5"
     },
     {
       "name": "diariope-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666266985",
-      "size": "1712128",
-      "md5": "8726b683c1ba810508aa236ac5cb8a76",
-      "crc32": "cd193cf1",
-      "sha1": "4b8681f494a22ed61ae90e970a01b43a538519e2",
+      "mtime": "1666309426",
+      "size": "1716224",
+      "md5": "44b97e065758491503cf97963db6f3c6",
+      "crc32": "b3ad0f3c",
+      "sha1": "08b706aa0de6250ac743f32ff1ad04503f8f588e",
       "format": "Metadata"
     },
     {
@@ -13883,9 +13944,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1343,
-  "item_last_updated": 1666267146,
-  "item_size": 129257963,
+  "files_count": 1349,
+  "item_last_updated": 1666309515,
+  "item_size": 129795252,
   "metadata": {
     "identifier": "diariope-2022",
     "collection": [
@@ -13902,21 +13963,10 @@
     "publicdate": "2022-08-04 04:55:38",
     "addeddate": "2022-08-04 04:55:38"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3446527800,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 41028532,
+  "uniq": 273781228,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }
