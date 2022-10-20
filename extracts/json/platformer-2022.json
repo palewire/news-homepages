@@ -1,5 +1,5 @@
 {
-  "created": 1666253592,
+  "created": 1666298126,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/platformer-2022",
@@ -10544,31 +10544,93 @@
       "sha1": "3d83db1fa02f33961048c42b8726385f6ef5e7b8"
     },
     {
+      "name": "platformer-2022-10-20T12:49:54.908389-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666295413",
+      "size": "17437",
+      "md5": "4110c293b6aa1d879a6ffd215a799b50",
+      "crc32": "beacd038",
+      "sha1": "ca0e47d2bac503c4d62fbdef7cdf513788bc767b",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-20T12:49:54.908389-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666295415",
+      "size": "13776",
+      "md5": "f3ca7d83cdac0a75c86468b96e7e15df",
+      "crc32": "81502e36",
+      "sha1": "96ec6ce0c0e0c8f0b9d7325519390e4e4a557875",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-20T12:49:54.908389-07:00.jpg",
+      "source": "original",
+      "mtime": "1666295411",
+      "size": "196708",
+      "md5": "a5da6d51d71972bdbba89bd5e9886285",
+      "crc32": "c5d29937",
+      "sha1": "d099ef95900b345d78259022e8e92fad14b425dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "platformer-2022-10-20T12:49:54.908389-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666295416",
+      "size": "1495",
+      "md5": "411e153450e71aabf11ed5073e6c4339",
+      "crc32": "ecaf3766",
+      "sha1": "2259bcba88224b3a32861279c68e38b2aa052657",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-20T12:49:54.908389-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666295418",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-20T12:49:54.908389-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "platformer-2022-10-20T12:49:54.908389-07:00.jpg",
+      "mtime": "1666295498",
+      "size": "8649",
+      "md5": "01775889ad602899717dfbc0ce2980d4",
+      "crc32": "8fcb04b9",
+      "sha1": "044267063c5180380278860d0b3cf2c45ff5625a"
+    },
+    {
       "name": "platformer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0fed2b1f1d10812b262249ed6b7054db2df5a0f0",
-      "mtime": "1666253573",
-      "size": "216806",
-      "md5": "f24a4acb6a1737c013f16c61a3aefebd",
-      "crc32": "539a1aba",
-      "sha1": "6719ec7c40874084cc955adbe4bb795c285fc25b",
+      "btih": "72fede23deb36ab83bbca4ffecb08bb6e6b755d3",
+      "mtime": "1666295509",
+      "size": "218083",
+      "md5": "6d402976a1077932fe466886668ad0c1",
+      "crc32": "85870e11",
+      "sha1": "53424e4237687f14cfcaa727becbb118bdc42bae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "platformer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b678abef8fad475aa149ba906f298aa",
+      "md5": "eae45d4b69f21e73c6322d7bf882f943",
       "summation": "md5"
     },
     {
       "name": "platformer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666253444",
-      "size": "1306624",
-      "md5": "4f400301ea1e190e47919332087f40b7",
-      "crc32": "b4e66b0f",
-      "sha1": "117765ac61e936af981b280a868bb269f87677ff",
+      "mtime": "1666295425",
+      "size": "1310720",
+      "md5": "18ea31d154c3f6716aa75f0a60d9fc0b",
+      "crc32": "a9cd2737",
+      "sha1": "e99daeb3e14fad94b7cf4aa7c1eb3d0b39dbcb73",
       "format": "Metadata"
     },
     {
@@ -10582,9 +10644,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1023,
-  "item_last_updated": 1666253573,
-  "item_size": 44174877,
+  "files_count": 1029,
+  "item_last_updated": 1666295509,
+  "item_size": 44418517,
   "metadata": {
     "identifier": "platformer-2022",
     "collection": [
@@ -10601,8 +10663,13 @@
     "publicdate": "2022-07-25 06:47:18",
     "addeddate": "2022-07-25 06:47:18"
   },
+  "platformer-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801500.us.archive.org",
-  "uniq": 726611564,
+  "uniq": 283619071,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"
