@@ -1,5 +1,5 @@
 {
-  "created": 1666244209,
+  "created": 1666283188,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/14/items/yahoofinance-2022",
@@ -7064,31 +7064,93 @@
       "sha1": "dcec7806b66a52c9b7df5055e78cfed8b2ec883d"
     },
     {
+      "name": "yahoofinance-2022-10-20T12:25:04.232915-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666283110",
+      "size": "40118",
+      "md5": "d09ef724f587e0ab4cfb51c3ea050570",
+      "crc32": "7d794f5b",
+      "sha1": "3b3a6edfd8562ee04984b1f980cde6169cd8f1b0",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-20T12:25:04.232915-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666283113",
+      "size": "43037",
+      "md5": "83e9eadc5d31abd374efa4b382f4094c",
+      "crc32": "15e40290",
+      "sha1": "336e78719944a4b92fc16e3f078a43143a10ffb9",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-20T12:25:04.232915-04:00.jpg",
+      "source": "original",
+      "mtime": "1666283108",
+      "size": "259858",
+      "md5": "32f35ed43f34e2d78f73c86203da6202",
+      "crc32": "36a08f9e",
+      "sha1": "ba93475b760d575bd4546facd390386014e84d5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoofinance-2022-10-20T12:25:04.232915-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666283114",
+      "size": "1486",
+      "md5": "c820126a5f9cb261938a93862f55b61c",
+      "crc32": "812171d3",
+      "sha1": "6d4f32ec4f9b8119992d3e73b85cfaabb82b0905",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-20T12:25:04.232915-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666283116",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-20T12:25:04.232915-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoofinance-2022-10-20T12:25:04.232915-04:00.jpg",
+      "mtime": "1666283174",
+      "size": "9520",
+      "md5": "502895f14c08a75940d604a8c3d8895b",
+      "crc32": "1d68c993",
+      "sha1": "09410cf50bafc95e67b3b5d119acb194ec345f3a"
+    },
+    {
       "name": "yahoofinance-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fccce2dbdded803d0ce96d9964734ddacc17915",
-      "mtime": "1666244201",
-      "size": "147903",
-      "md5": "3452038d8ffb415fff156e3af4452be3",
-      "crc32": "cd92e165",
-      "sha1": "fc06daabfd7e8127839a24c384e2e89fd10b6140",
+      "btih": "2a9eff11fce8e0c458e1acb998c63476a167d600",
+      "mtime": "1666283180",
+      "size": "149192",
+      "md5": "b9f8e4e84aa1a8f3638fb4be8bdc85d9",
+      "crc32": "83f2d1c0",
+      "sha1": "e69e34452ebdac314e362e9ced243ca9fcb3671a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoofinance-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f01787f62f93c4aedf36db4b175490cf",
+      "md5": "1fff1ab52258f88867bef6195f069e52",
       "summation": "md5"
     },
     {
       "name": "yahoofinance-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666244132",
-      "size": "892928",
-      "md5": "087d67123946e80b531b5c21693f2eee",
-      "crc32": "dab1e0de",
-      "sha1": "7da31a8339add93d5786bfc7d1ee0f4ed6aeec11",
+      "mtime": "1666283122",
+      "size": "897024",
+      "md5": "75efd2a30f5ae0ff0e7d320260ff9827",
+      "crc32": "3ac6cd1f",
+      "sha1": "30546a9b31b0a7475a38434b25be772fde824816",
       "format": "Metadata"
     },
     {
@@ -7102,9 +7164,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 687,
-  "item_last_updated": 1666244201,
-  "item_size": 48581947,
+  "files_count": 693,
+  "item_last_updated": 1666283180,
+  "item_size": 48941553,
   "metadata": {
     "identifier": "yahoofinance-2022",
     "collection": [
@@ -7121,10 +7183,10 @@
     "publicdate": "2022-08-23 14:05:03",
     "addeddate": "2022-08-23 14:05:03"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 258334372,
+  "server": "ia601401.us.archive.org",
+  "uniq": 810237586,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

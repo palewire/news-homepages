@@ -1,5 +1,5 @@
 {
-  "created": 1666244222,
+  "created": 1666289006,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/3/items/wickedlocal-2022",
@@ -3654,31 +3654,93 @@
       "sha1": "b8938df135ad5e2774cc13bf900cccab4719e104"
     },
     {
+      "name": "wickedlocal-2022-10-20T12:24:32.900725-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666283086",
+      "size": "23686",
+      "md5": "808886067fdb77569cfcafc0b7de6563",
+      "crc32": "ed54e734",
+      "sha1": "eb99e17a16c522924b42bb8831b5ee9bcda75ae6",
+      "format": "JSON"
+    },
+    {
+      "name": "wickedlocal-2022-10-20T12:24:32.900725-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666283088",
+      "size": "36290",
+      "md5": "b9b1675707bcdc2d45291532c9772f89",
+      "crc32": "29287f18",
+      "sha1": "707081cd114066df7615e60372c722fbfabed359",
+      "format": "JSON"
+    },
+    {
+      "name": "wickedlocal-2022-10-20T12:24:32.900725-04:00.jpg",
+      "source": "original",
+      "mtime": "1666283084",
+      "size": "253888",
+      "md5": "6673975d58870b786b6a3b72355b828c",
+      "crc32": "f5843e0e",
+      "sha1": "0b14f725432155aa89f0735bb8e684e5f20374b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wickedlocal-2022-10-20T12:24:32.900725-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666283090",
+      "size": "1504",
+      "md5": "d28a59b78cb563c573ba6d7d6c5abb9e",
+      "crc32": "09ec88c9",
+      "sha1": "c02463702dbaa1a71e7ed52537413d2d130cd133",
+      "format": "JSON"
+    },
+    {
+      "name": "wickedlocal-2022-10-20T12:24:32.900725-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666283091",
+      "size": "104",
+      "md5": "865d7780666eecdc611cb19c00669d93",
+      "crc32": "98273701",
+      "sha1": "f26fc0d284cd267164b791a6d2dbf649582e990e",
+      "format": "JSON"
+    },
+    {
+      "name": "wickedlocal-2022-10-20T12:24:32.900725-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wickedlocal-2022-10-20T12:24:32.900725-04:00.jpg",
+      "mtime": "1666283191",
+      "size": "9318",
+      "md5": "e9b31435ee5804f6132e417b71271e96",
+      "crc32": "bcb043b6",
+      "sha1": "036adb21ec9be7bcd18cdec65b18cfe6d8acc53f"
+    },
+    {
       "name": "wickedlocal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2006b4396b738251c71d59f0287eccb57f4138f8",
-      "mtime": "1666244213",
-      "size": "76714",
-      "md5": "fc3b54316eb6fb7c658276a23b0d27bb",
-      "crc32": "df80643c",
-      "sha1": "2772aa08455613404bfafa444c0f80e57c64392e",
+      "btih": "828a8e942a186744faa3a1c77733045a1fc9483f",
+      "mtime": "1666283203",
+      "size": "77997",
+      "md5": "c39217bea02e009c70f516f5d2343952",
+      "crc32": "3171d51b",
+      "sha1": "296fa21cebb9127e7069b34cfa3e3522aea11b21",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wickedlocal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "074c2ac9ad989801fcc1a2022d99b1c9",
+      "md5": "5ec9663f6670c39116837e42740b102c",
       "summation": "md5"
     },
     {
       "name": "wickedlocal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666244163",
-      "size": "466944",
-      "md5": "ef4f31cd2399caa7064bd091ac091f98",
-      "crc32": "6cfca5da",
-      "sha1": "8885171d46788b9f96e1c5c228f88c1bc5039f66",
+      "mtime": "1666283104",
+      "size": "479232",
+      "md5": "4a5e8cdda3a175ca534b605814794ec5",
+      "crc32": "fefcf404",
+      "sha1": "c59e9ba5deb92f83d96d65b46ecb6510290c3777",
       "format": "Metadata"
     },
     {
@@ -3692,9 +3754,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 357,
-  "item_last_updated": 1666244213,
-  "item_size": 23880094,
+  "files_count": 363,
+  "item_last_updated": 1666283203,
+  "item_size": 24218455,
   "metadata": {
     "identifier": "wickedlocal-2022",
     "collection": [
@@ -3712,7 +3774,11 @@
     "addeddate": "2022-09-21 04:40:34"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 1077466060,
+  "uniq": 645589,
+  "wickedlocal-2022": {
+    "url": "https://www.wickedlocal.com/",
+    "job_id": "spn2-176be1c5bc210ee2b09784d8970ad5c5971aeda5"
+  },
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

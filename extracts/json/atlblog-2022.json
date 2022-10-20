@@ -1,5 +1,5 @@
 {
-  "created": 1666243977,
+  "created": 1666282927,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/atlblog-2022",
@@ -16280,31 +16280,93 @@
       "sha1": "55f1a55aaf9b6c2319469df5d1786a0691e8eae3"
     },
     {
+      "name": "atlblog-2022-10-20T12:18:27.812184-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666282730",
+      "size": "24764",
+      "md5": "ed1a57fbf635c8f35a070aa485a1a85b",
+      "crc32": "76cc8386",
+      "sha1": "41b474050502d772bbb5232e0558092cedf9b9f4",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-20T12:18:27.812184-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666282731",
+      "size": "44954",
+      "md5": "6d4640675132261271fe70913cb2c77b",
+      "crc32": "cc1fc19b",
+      "sha1": "808d076363e4614974671d641d803360d26092eb",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-20T12:18:27.812184-04:00.jpg",
+      "source": "original",
+      "mtime": "1666282728",
+      "size": "289103",
+      "md5": "d92ac840fc0308f9bdfa13e3c297e586",
+      "crc32": "191a9c0d",
+      "sha1": "e2123469a8b37d02608dbe94adc2f721b2169bb3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlblog-2022-10-20T12:18:27.812184-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666282733",
+      "size": "1463",
+      "md5": "be0f62e468712fbb578f8b7afbef1957",
+      "crc32": "f4dbac81",
+      "sha1": "a69568c4039d790b0d46c7087a8c32b8c265dab8",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-20T12:18:27.812184-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666282735",
+      "size": "89126",
+      "md5": "a8b6788c7b547b7fab8d5137f8b902f9",
+      "crc32": "2e5e6c6c",
+      "sha1": "e0d0675f03b5307cf60050cc7fc9af7af8f774f9",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-20T12:18:27.812184-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlblog-2022-10-20T12:18:27.812184-04:00.jpg",
+      "mtime": "1666282840",
+      "size": "9691",
+      "md5": "74415904558bf2d4e77fbcbde16d5348",
+      "crc32": "f69951de",
+      "sha1": "38676d5e986c23386f9845fa94e577153bb587b9"
+    },
+    {
       "name": "atlblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c7fca4827669e24242880e77bfba133cc328f2b",
-      "mtime": "1666243962",
-      "size": "330773",
-      "md5": "ce1d80d2affeabd22d14dba811690641",
-      "crc32": "daa1cf23",
-      "sha1": "2f78cf0f9990f4875fd77f5c77608c4ecd6977ad",
+      "btih": "1d254ee80b55bc690212c3822cd942c1f298307d",
+      "mtime": "1666282899",
+      "size": "332034",
+      "md5": "0ead61fca5f38547c4d5eb64abd3f40f",
+      "crc32": "d85c0b94",
+      "sha1": "1ff4c3d9907c2e5cd77d018b145e3571e54b9cde",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "64f1f934a091dc1155b4a8b8f4ee4d9d",
+      "md5": "4bafd423393724a3b8d2af1711539120",
       "summation": "md5"
     },
     {
       "name": "atlblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666243843",
-      "size": "1990656",
-      "md5": "1f2ac46b836011660d6128f1c92139d4",
-      "crc32": "8b4bfbc6",
-      "sha1": "40f5d559e2c6ff9bcde34f21e7e26bafabdcb70f",
+      "mtime": "1666282741",
+      "size": "1994752",
+      "md5": "87da9b020931aaaf6ed009d59078a6af",
+      "crc32": "c7a62d77",
+      "sha1": "92c234bbd8e278a84f18ade6473d203e64c6b315",
       "format": "Metadata"
     },
     {
@@ -16318,9 +16380,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1577,
-  "item_last_updated": 1666243962,
-  "item_size": 109175661,
+  "files_count": 1583,
+  "item_last_updated": 1666282899,
+  "item_size": 109640119,
   "metadata": {
     "identifier": "atlblog-2022",
     "collection": [
@@ -16337,10 +16399,10 @@
     "publicdate": "2022-07-19 01:14:59",
     "addeddate": "2022-07-19 01:14:59"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1279031586,
+  "server": "ia601406.us.archive.org",
+  "uniq": 2069792534,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }
