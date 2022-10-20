@@ -1,5 +1,6 @@
 {
-  "created": 1666139140,
+  "conflict": 1666224865,
+  "created": 1666224865,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/goerie-2022",
@@ -3601,31 +3602,166 @@
       "format": "JSON"
     },
     {
+      "name": "goerie-2022-10-18T20:24:37.182779-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "goerie-2022-10-18T20:24:37.182779-04:00.jpg",
+      "mtime": "1666163219",
+      "size": "9165",
+      "md5": "659c5ae2d5f512dbad714c03a63c25c7",
+      "crc32": "21994187",
+      "sha1": "359200aa285dbc7ee762224f3b29493e29b26807"
+    },
+    {
+      "name": "goerie-2022-10-19T08:03:03.947761-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666180987",
+      "size": "23414",
+      "md5": "ad4c7294d112d3ca67fb9f2f0b58ec43",
+      "crc32": "85645c5b",
+      "sha1": "519528f137a5663c325a27c31544396a02643f89",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-19T08:03:03.947761-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666180989",
+      "size": "34773",
+      "md5": "10bdf6a0534a7add670c387e07fdfc9b",
+      "crc32": "d52d6c8e",
+      "sha1": "25fe687f451356373670174b2c7c1200ce26ff0c",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-19T08:03:03.947761-04:00.jpg",
+      "source": "original",
+      "mtime": "1666180985",
+      "size": "240608",
+      "md5": "2c8e1ff20ff3a332189113a152386139",
+      "crc32": "9eb1ceda",
+      "sha1": "b32d0b565734bf275ee3dc8e48d4e2a0b922aed6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "goerie-2022-10-19T08:03:03.947761-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666180990",
+      "size": "1459",
+      "md5": "c9f94fcd583ee13e7a6aca154222bfae",
+      "crc32": "5c0dde4f",
+      "sha1": "0c2e691a5cc3e16dc9ebfc1b8512ab191f10570b",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-19T08:03:03.947761-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666180992",
+      "size": "99",
+      "md5": "3664ec67a7e1c199fa152a6fb4346237",
+      "crc32": "85e67cdc",
+      "sha1": "87233e4477e12d573fa23fcf5533e8275860cb9d",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-19T08:03:03.947761-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "goerie-2022-10-19T08:03:03.947761-04:00.jpg",
+      "mtime": "1666199598",
+      "size": "9168",
+      "md5": "96b728bafd489cb4a63bc3eac3023561",
+      "crc32": "095851a1",
+      "sha1": "194d80c60f4d8b754cdc39ed4355d31bd917cd9a"
+    },
+    {
+      "name": "goerie-2022-10-19T20:12:09.856100-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224733",
+      "size": "23465",
+      "md5": "0655d01c42a4044c997a28c3f9929b18",
+      "crc32": "281c8e7f",
+      "sha1": "681a4b03a55a4845d5112a7ebf164565def21bbc",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-19T20:12:09.856100-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224738",
+      "size": "29591",
+      "md5": "e4798d88ef267dfd630708e7363a8b2e",
+      "crc32": "9d2a6a85",
+      "sha1": "ac4cb665c0a3394fa8e29f91239f04604e91680b",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-19T20:12:09.856100-04:00.jpg",
+      "source": "original",
+      "mtime": "1666224731",
+      "size": "264853",
+      "md5": "fcf29de17963751cbc36aa8ef7927fbe",
+      "crc32": "f55ffd1b",
+      "sha1": "ac78b38534fd038dfb0ccea42f12c1bf49fa36f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "goerie-2022-10-19T20:12:09.856100-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224740",
+      "size": "1459",
+      "md5": "192d5a0932934d2d00b0a87a3bbbd784",
+      "crc32": "7dcf7998",
+      "sha1": "1e23c0b84f0a6bbef33e14a91e9f224660940265",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-19T20:12:09.856100-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224742",
+      "size": "89847",
+      "md5": "39f1965112483fa0d9d949f94feb5e19",
+      "crc32": "54b6022f",
+      "sha1": "d7811c2a7053a2e7abe68358278eb2f751e95795",
+      "format": "JSON"
+    },
+    {
+      "name": "goerie-2022-10-19T20:12:09.856100-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "goerie-2022-10-19T20:12:09.856100-04:00.jpg",
+      "mtime": "1666224855",
+      "size": "9224",
+      "md5": "db0653a514434903deea4d95294914b8",
+      "crc32": "a23ef278",
+      "sha1": "12c0233d484de1c200002d97104b6bcef3c0e55d"
+    },
+    {
       "name": "goerie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6aff045f34d25f4345e340fa87b6685d5a93459",
-      "mtime": "1666139133",
-      "size": "73920",
-      "md5": "39b40a43e08bc8c1266865ecb479d973",
-      "crc32": "97486e03",
-      "sha1": "81f203f3c436cd3f8393858fa35aef2de3420997",
+      "btih": "032b7c60fcc4ed7de7c26bbf47533395171d8b69",
+      "mtime": "1666224862",
+      "size": "76629",
+      "md5": "0506348099c3679d0db1b26c0e27d337",
+      "crc32": "91ab584d",
+      "sha1": "bcece5a6774c9ba6c1265774fa6efdb75a11d4b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "goerie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ec66151e0a4d420d3b4adbb5a060f66",
+      "md5": "b0299e6d4c8530d8ff8d9c6bb2e438e7",
       "summation": "md5"
     },
     {
       "name": "goerie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666139097",
-      "size": "462848",
-      "md5": "392894f0f5f831da470d81adbe82e8a5",
-      "crc32": "8fde17cc",
-      "sha1": "3e7233109bbde89e07b8d74c3817dca20a78d660",
+      "mtime": "1666224748",
+      "size": "475136",
+      "md5": "469c79dddd26b3e420f4a0f324f10ffb",
+      "crc32": "84545f1f",
+      "sha1": "112f3749d35e537248a17f008b33ade723cffa19",
       "format": "Metadata"
     },
     {
@@ -3639,9 +3775,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 352,
-  "item_last_updated": 1666139133,
-  "item_size": 24059051,
+  "files_count": 365,
+  "item_last_updated": 1666224862,
+  "item_size": 24811173,
   "metadata": {
     "identifier": "goerie-2022",
     "collection": [
@@ -3663,15 +3799,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445140669,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3446067151,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 936222333,
+  "uniq": 1936116679,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

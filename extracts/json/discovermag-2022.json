@@ -1,5 +1,6 @@
 {
-  "created": 1666139006,
+  "conflict": 1666224857,
+  "created": 1666224857,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/21/items/discovermag-2022",
@@ -12119,31 +12120,166 @@
       "format": "JSON"
     },
     {
+      "name": "discovermag-2022-10-18T20:21:23.644633-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovermag-2022-10-18T20:21:23.644633-04:00.jpg",
+      "mtime": "1666162882",
+      "size": "8441",
+      "md5": "1a574c1d4be584e05a03d7b0b7920976",
+      "crc32": "a2a2b6d4",
+      "sha1": "165a23569889da82a511bf35d0986370e08d0093"
+    },
+    {
+      "name": "discovermag-2022-10-19T08:01:07.804279-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666180871",
+      "size": "21495",
+      "md5": "8a6347a319b406009b17ff6c95b72e7d",
+      "crc32": "f6b0aa03",
+      "sha1": "a893fe21ac9c9893decbe9ecbbabf5cc6ce3feed",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-19T08:01:07.804279-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666180872",
+      "size": "24917",
+      "md5": "37696351d16ba1753278e572c4b664a9",
+      "crc32": "e0768eca",
+      "sha1": "655dedbf13879a77d078dcd3fd7ed8ba0f28be77",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-19T08:01:07.804279-04:00.jpg",
+      "source": "original",
+      "mtime": "1666180869",
+      "size": "304200",
+      "md5": "ffda411df7220aa8290e7566d460f757",
+      "crc32": "72b11aed",
+      "sha1": "09cdb7c12522d4f6f5547efe7449046ced4ca003",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovermag-2022-10-19T08:01:07.804279-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666180874",
+      "size": "1547",
+      "md5": "870652f690dd183f0e5745e4ff43245c",
+      "crc32": "94c3d2b0",
+      "sha1": "235d69303bd7425ce69a979ee394c2efc9dedfbd",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-19T08:01:07.804279-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666180876",
+      "size": "18889",
+      "md5": "797102236598e25c81f684b6b2329b30",
+      "crc32": "8f8dec66",
+      "sha1": "dc9fa1d8ec47ffe516b751eed93f657d10242086",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-19T08:01:07.804279-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovermag-2022-10-19T08:01:07.804279-04:00.jpg",
+      "mtime": "1666199099",
+      "size": "8441",
+      "md5": "1a574c1d4be584e05a03d7b0b7920976",
+      "crc32": "a2a2b6d4",
+      "sha1": "165a23569889da82a511bf35d0986370e08d0093"
+    },
+    {
+      "name": "discovermag-2022-10-19T20:08:54.641206-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224548",
+      "size": "21580",
+      "md5": "a8a4ac6b5e441526f38f8ef247873403",
+      "crc32": "4c2a6205",
+      "sha1": "87dac510d324894f0b86e61891ea6b1f36fd8748",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-19T20:08:54.641206-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224550",
+      "size": "24873",
+      "md5": "58f0c6ed4618f979a1ecde397f5a8d53",
+      "crc32": "fde67b7e",
+      "sha1": "e28f9ee1a8ed1842acfd04905f6ae49600b330ab",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-19T20:08:54.641206-04:00.jpg",
+      "source": "original",
+      "mtime": "1666224546",
+      "size": "299880",
+      "md5": "54f70e6ebf5a693a45299eb8ecb84de5",
+      "crc32": "01f57fc4",
+      "sha1": "d74423661f494e8eff436412591f0f47fab83a0d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "discovermag-2022-10-19T20:08:54.641206-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224552",
+      "size": "1549",
+      "md5": "3498a563127a39ad45f8c71e094bdcd5",
+      "crc32": "1d455449",
+      "sha1": "679c4b2aeb8145ccaa5393c0afe99b5d94c8cbe7",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-19T20:08:54.641206-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224554",
+      "size": "18525",
+      "md5": "a69bc4264c913b8bee3923a378569d16",
+      "crc32": "0de1a577",
+      "sha1": "29589683e60618bf19bafffee40c790374d68f45",
+      "format": "JSON"
+    },
+    {
+      "name": "discovermag-2022-10-19T20:08:54.641206-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovermag-2022-10-19T20:08:54.641206-04:00.jpg",
+      "mtime": "1666224828",
+      "size": "8712",
+      "md5": "cdc02493ff7d7367feb1e4d638a49c32",
+      "crc32": "1874a7e0",
+      "sha1": "fa786e226a75ac40ce377ea92b3765b184143f07"
+    },
+    {
       "name": "discovermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2377d5e4d4682c5b2f0408ccfd61641a03d40f04",
-      "mtime": "1666139001",
-      "size": "250484",
-      "md5": "3fa5d546568f216fc89fa6b2afa76ddb",
-      "crc32": "45664765",
-      "sha1": "282b7ea6d243e0669c86bfdc7ca4961618846a30",
+      "btih": "fe574b70516f27d9d1c760b3089758a76eb11e10",
+      "mtime": "1666224853",
+      "size": "253261",
+      "md5": "cc75a75d8640abfa06ad3f9e14d34e03",
+      "crc32": "82bcdb18",
+      "sha1": "645cc330fda6f74ba4b3d2367eff310a8cab85a1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "discovermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83c04f987584fcf15b1ca2f885481a88",
+      "md5": "b44ebbbd377f495aa9ed82c6f11e97f0",
       "summation": "md5"
     },
     {
       "name": "discovermag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666138941",
-      "size": "1466368",
-      "md5": "80b68bdbdfe800b952740437b5434772",
-      "crc32": "1e079b5b",
-      "sha1": "806853e1822a4c8084a453a64d3b75aaad73028d",
+      "mtime": "1666224558",
+      "size": "1486848",
+      "md5": "858fdf6f4d140fc851e4e2cc2b00da7a",
+      "crc32": "6e7923a6",
+      "sha1": "24b8bd5840c34c0008bcb66cda14a571dfe05a10",
       "format": "Metadata"
     },
     {
@@ -12157,9 +12293,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1172,
-  "item_last_updated": 1666139001,
-  "item_size": 82443293,
+  "files_count": 1185,
+  "item_last_updated": 1666224853,
+  "item_size": 83229599,
   "metadata": {
     "identifier": "discovermag-2022",
     "collection": [
@@ -12181,15 +12317,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445139607,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3446067104,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1315929280,
+  "uniq": 1106288176,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

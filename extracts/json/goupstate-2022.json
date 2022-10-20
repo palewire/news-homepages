@@ -1,5 +1,6 @@
 {
-  "created": 1666139208,
+  "conflict": 1666224900,
+  "created": 1666224900,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/28/items/goupstate-2022",
@@ -3601,31 +3602,166 @@
       "format": "JSON"
     },
     {
+      "name": "goupstate-2022-10-18T20:25:52.731081-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "goupstate-2022-10-18T20:25:52.731081-04:00.jpg",
+      "mtime": "1666163482",
+      "size": "8974",
+      "md5": "28bcd361fd21cc30c29d00292f452dc5",
+      "crc32": "5a2af003",
+      "sha1": "69226efee06bc3c80c48ed8a142a0fa888faadea"
+    },
+    {
+      "name": "goupstate-2022-10-19T08:04:17.417561-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666181065",
+      "size": "20008",
+      "md5": "9aacd7be3240ddde1c0a5cbfeec67a3e",
+      "crc32": "1646e22f",
+      "sha1": "543f9f3af8e763bbbebe1bfbd0adc29c3d2f090a",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-19T08:04:17.417561-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666181066",
+      "size": "30595",
+      "md5": "f29514da511ddb89bf776335140d845a",
+      "crc32": "9bd28d48",
+      "sha1": "206368615daeb45e8677d1bbdb18a509c718cb17",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-19T08:04:17.417561-04:00.jpg",
+      "source": "original",
+      "mtime": "1666181064",
+      "size": "266020",
+      "md5": "060b1f7208ed432bb688c85ef33b5905",
+      "crc32": "bc371ef1",
+      "sha1": "986bb038d627d62c525762f365f9f69916443e68",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "goupstate-2022-10-19T08:04:17.417561-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666181068",
+      "size": "1486",
+      "md5": "95ca9d1620821ac5fc8a3c236761e217",
+      "crc32": "f61ed0db",
+      "sha1": "e7d1aef05e3b6f34ea727f06c1ec3994937d8f07",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-19T08:04:17.417561-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666181069",
+      "size": "206",
+      "md5": "93c9c8858c60cd55c17d4b096b0b135d",
+      "crc32": "622b3e6d",
+      "sha1": "924cca897d7ec649fe417c1630cf4b9e05aed1fc",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-19T08:04:17.417561-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "goupstate-2022-10-19T08:04:17.417561-04:00.jpg",
+      "mtime": "1666199200",
+      "size": "9003",
+      "md5": "ecaed34cfdd6535653047503e4f4dc97",
+      "crc32": "58ea7533",
+      "sha1": "e73e93035e95d1a2f6f6887afa881c2a48d0a558"
+    },
+    {
+      "name": "goupstate-2022-10-19T20:12:49.575605-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224778",
+      "size": "20841",
+      "md5": "1624bc3c0eee39fe2c9509bd7b35d7f9",
+      "crc32": "cd4be48c",
+      "sha1": "77f450168e7d116fadbd31e41d7d65f2b787a2b6",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-19T20:12:49.575605-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224783",
+      "size": "12708",
+      "md5": "d1133b03f4515f89effc14ff47bbcb5b",
+      "crc32": "9e309a5c",
+      "sha1": "36cbc5d70053104b6de2947d48b805d28387af7b",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-19T20:12:49.575605-04:00.jpg",
+      "source": "original",
+      "mtime": "1666224776",
+      "size": "278192",
+      "md5": "bbe752cd25624edd0fc7559bdb5749b2",
+      "crc32": "204d833c",
+      "sha1": "7fc85bbf445e6c56885bc4fa719243a8be6dbd82",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "goupstate-2022-10-19T20:12:49.575605-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224784",
+      "size": "1486",
+      "md5": "d4991a539af81eb2fa96b1111f9bbdaf",
+      "crc32": "52abe9e4",
+      "sha1": "65f7715e9891878e56816a040938a410187545b5",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-19T20:12:49.575605-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224786",
+      "size": "73538",
+      "md5": "f5d0a7c97dfee60328381d8326fb8749",
+      "crc32": "31957276",
+      "sha1": "11ab3b3628be2d6a3e7459576daaea76e2cd682c",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-19T20:12:49.575605-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "goupstate-2022-10-19T20:12:49.575605-04:00.jpg",
+      "mtime": "1666224884",
+      "size": "9248",
+      "md5": "3a7e332a2895597ec539223ef727a0a3",
+      "crc32": "f9f989af",
+      "sha1": "2d5a7fdc3d885b6af3c483b5e77a4d061ded96b0"
+    },
+    {
       "name": "goupstate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d827fe967f17b384b35ff146b4770fa18cc1ffc0",
-      "mtime": "1666139205",
-      "size": "74964",
-      "md5": "aa36b7dcd4c82dcc41b55e8cdf75f922",
-      "crc32": "0b58099a",
-      "sha1": "573cb81df62cd4afbc7fce9463b4c9d84fa2d08c",
+      "btih": "b0ffcd25f9c3f8dc6e30da3cc5863d33735bcfd5",
+      "mtime": "1666224896",
+      "size": "77693",
+      "md5": "294d456e51b79f82cd5b3a1a6e0d9216",
+      "crc32": "6848d72d",
+      "sha1": "637bb342bc1acedc007487a8457130995bffe6a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "goupstate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4456407c0db0035a862019f06deec83",
+      "md5": "142844a6a22e0f5cdd21ce10b08fdfb3",
       "summation": "md5"
     },
     {
       "name": "goupstate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666139168",
-      "size": "462848",
-      "md5": "a4a2df1db3ad3031e16654b8b2118778",
-      "crc32": "c1e00d26",
-      "sha1": "848f050906b7ab12caa472f02ca2c9687e3b568f",
+      "mtime": "1666224790",
+      "size": "475136",
+      "md5": "c02769a6497bdee5b3051f130a821821",
+      "crc32": "3e1a2b9e",
+      "sha1": "9441f9b199ce3ef20359b580d89aab3c8fa39044",
       "format": "Metadata"
     },
     {
@@ -3639,9 +3775,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 352,
-  "item_last_updated": 1666139205,
-  "item_size": 23224879,
+  "files_count": 365,
+  "item_last_updated": 1666224896,
+  "item_size": 23972201,
   "metadata": {
     "identifier": "goupstate-2022",
     "collection": [
@@ -3663,15 +3799,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3445141120,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3446067379,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 420492015,
+  "uniq": 1651159703,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
