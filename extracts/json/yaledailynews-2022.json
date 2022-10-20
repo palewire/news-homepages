@@ -1,5 +1,5 @@
 {
-  "created": 1666254394,
+  "created": 1666297026,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/33/items/yaledailynews-2022",
@@ -4522,31 +4522,93 @@
       "sha1": "1c76c9d8c11f13b2d398e5ee94c3b25b6465bacf"
     },
     {
+      "name": "yaledailynews-2022-10-20T16:15:47.937473-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666296953",
+      "size": "13261",
+      "md5": "1c5041d8647c11179927c16ee29c6fce",
+      "crc32": "0e041599",
+      "sha1": "1f9b3a2a9bdc5aa91ceeb613272f28ee2b9796e1",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-20T16:15:47.937473-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666296955",
+      "size": "35677",
+      "md5": "7c3b3ba8bace1042edaf7df92a2137de",
+      "crc32": "54537047",
+      "sha1": "64afb6b6e1fab6b504e2bbc8d20ca3db204cbb67",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-20T16:15:47.937473-04:00.jpg",
+      "source": "original",
+      "mtime": "1666296951",
+      "size": "250089",
+      "md5": "955b77923ad977d0ef1a0f122db94169",
+      "crc32": "d3f464c1",
+      "sha1": "7dcc558750f3f9b5cfc6ce7070bd505d63479ea3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yaledailynews-2022-10-20T16:15:47.937473-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666296956",
+      "size": "1486",
+      "md5": "cdd2861bff64b44be6bfd5c89397dd8e",
+      "crc32": "c2f95bc3",
+      "sha1": "99f17d9c7245e7d3a1aea80d557c4e5e14f99538",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-20T16:15:47.937473-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666296958",
+      "size": "25257",
+      "md5": "1a6eecb67b9640627fc597f6ad35a49f",
+      "crc32": "e92786ed",
+      "sha1": "3506a37108553ca08e87c9b9c21328a16eb7d980",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-20T16:15:47.937473-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yaledailynews-2022-10-20T16:15:47.937473-04:00.jpg",
+      "mtime": "1666297014",
+      "size": "8984",
+      "md5": "7de6883e140c8f15e7f2406e7ef9fb2b",
+      "crc32": "2ae02d81",
+      "sha1": "fcbef28fa4b35da4f276d9064703316a03c30003"
+    },
+    {
       "name": "yaledailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70da83b9db953edeadc6105ea25b39c354309583",
-      "mtime": "1666254385",
-      "size": "95371",
-      "md5": "85846b6d15ebb1fe0725a222b91de7f3",
-      "crc32": "42b77d5d",
-      "sha1": "bb61468758d180a8ffdec1850ea4fe01dc50a44b",
+      "btih": "edf2c4d57938af6c81148e77ca836a6f9c3cc866",
+      "mtime": "1666297018",
+      "size": "96669",
+      "md5": "b1b7e5aecdd3457899a9315d7bbd8259",
+      "crc32": "777ad8f1",
+      "sha1": "9550a9fe0ddc0f0a4b45eb11283e45bed8721778",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yaledailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bdcabe24f6e1415f446f6cfde8085402",
+      "md5": "461d15db737f5e1b9e43ffbe3d9ff0ca",
       "summation": "md5"
     },
     {
       "name": "yaledailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666254327",
-      "size": "577536",
-      "md5": "7caeca3a25b2c91ccf9831183c8c4865",
-      "crc32": "c396d0b1",
-      "sha1": "fbcbf2b896e76145274fd298fd5e8fe28bb91cb0",
+      "mtime": "1666296963",
+      "size": "585728",
+      "md5": "d9bea0100166c84376069adcdf0675ef",
+      "crc32": "bc962b86",
+      "sha1": "74cc8fcaae9877be8d34e46e0a6b8837ceba62a1",
       "format": "Metadata"
     },
     {
@@ -4560,9 +4622,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 441,
-  "item_last_updated": 1666254385,
-  "item_size": 25665802,
+  "files_count": 447,
+  "item_last_updated": 1666297018,
+  "item_size": 26010046,
   "metadata": {
     "identifier": "yaledailynews-2022",
     "collection": [
@@ -4580,7 +4642,7 @@
     "addeddate": "2022-09-14 05:42:09"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 1725707932,
+  "uniq": 1509752158,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"

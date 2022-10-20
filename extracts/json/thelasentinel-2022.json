@@ -1,5 +1,5 @@
 {
-  "created": 1666254176,
+  "created": 1666298112,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/7/items/thelasentinel-2022",
@@ -26596,31 +26596,93 @@
       "sha1": "c2d2628d2609790101dcd79bceff97171d69da39"
     },
     {
+      "name": "thelasentinel-2022-10-20T13:12:40.476614-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666296764",
+      "size": "41519",
+      "md5": "fc494ca56a4b5997b68b4c8608ffb505",
+      "crc32": "66e9bd46",
+      "sha1": "faa5f47bc7a3bd7515ffa8088bb2da38a0febec4",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-10-20T13:12:40.476614-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666296767",
+      "size": "46326",
+      "md5": "f7249f29724c0b88e486c3770935bc96",
+      "crc32": "702ba278",
+      "sha1": "5bc7f840dcb5136913fe15902df933efaed57b09",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-10-20T13:12:40.476614-07:00.jpg",
+      "source": "original",
+      "mtime": "1666296762",
+      "size": "257201",
+      "md5": "9c12771b6245be9c6b7281117c4a27dc",
+      "crc32": "75b24398",
+      "sha1": "fcb7eed9aa58bb45bf21f0a0e0443cc43ae5aef9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-10-20T13:12:40.476614-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666296770",
+      "size": "1459",
+      "md5": "30c97989d476abca339e32f7f8e52a04",
+      "crc32": "c3d7549b",
+      "sha1": "def47c333a277abda4d55e359245bd0db2ea20da",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-10-20T13:12:40.476614-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666296772",
+      "size": "31748",
+      "md5": "bc33cb93b1521735b30a85c1752ccbf3",
+      "crc32": "9bd576fd",
+      "sha1": "7f1e9c4bcec59417a5d6ca55b04f28e3dfc16309",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-10-20T13:12:40.476614-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-10-20T13:12:40.476614-07:00.jpg",
+      "mtime": "1666296893",
+      "size": "10185",
+      "md5": "0ce65a6623e57fc54c720ffffd20bc29",
+      "crc32": "dc380025",
+      "sha1": "8851aac544806f53090b6b972a92f9a4202f8587"
+    },
+    {
       "name": "thelasentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "55d92baa5b3feccb2aea89b2319e121af91f0c48",
-      "mtime": "1666254161",
-      "size": "553802",
-      "md5": "abd0a8e8cfe97a26702d602075ff73b8",
-      "crc32": "d3073501",
-      "sha1": "ab6279d316cf3b9fca252f2c0c8eb3075bf36adb",
+      "btih": "94b9398cf3ad244e058f5972ff169b470c4ab1ee",
+      "mtime": "1666296981",
+      "size": "555100",
+      "md5": "c23dfe9e2f5bae0e4b9eeef53711c2b5",
+      "crc32": "e1cc246a",
+      "sha1": "5cf2ccbbe8c98005965145ce7d65dac4b29257a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelasentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34a48ceb590f0df16f89b3a40f298dc7",
+      "md5": "615b2af1b85ffa0dbf14afacee538474",
       "summation": "md5"
     },
     {
       "name": "thelasentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666253983",
-      "size": "3125248",
-      "md5": "515cad83734b02587695734867825326",
-      "crc32": "e7fac273",
-      "sha1": "33d8227aacf3ad7fb5f9757e8911a18294526f4c",
+      "mtime": "1666296778",
+      "size": "3133440",
+      "md5": "53a21e4d885667c2d1fc6ba03c86c16a",
+      "crc32": "4adc34ff",
+      "sha1": "afefebc312a32b3b1badf19d0cb97a10f25363ae",
       "format": "Metadata"
     },
     {
@@ -26634,9 +26696,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2558,
-  "item_last_updated": 1666254161,
-  "item_size": 241090676,
+  "files_count": 2564,
+  "item_last_updated": 1666296981,
+  "item_size": 241488604,
   "metadata": {
     "identifier": "thelasentinel-2022",
     "collection": [
@@ -26654,7 +26716,7 @@
     "addeddate": "2022-03-25 02:05:03"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 303671304,
+  "uniq": 519424384,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"
