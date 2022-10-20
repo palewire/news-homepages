@@ -1,10 +1,5 @@
 {
-  "cantonledger-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666224579,
+  "created": 1666263234,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/33/items/cantonledger-2022",
@@ -3689,31 +3684,93 @@
       "sha1": "2dac5f96fe65231ec4886893e3a4b4512116e7a7"
     },
     {
+      "name": "cantonledger-2022-10-20T05:52:17.533747-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666263143",
+      "size": "21858",
+      "md5": "4a3ab05100ade8d53d21672670c0e9c0",
+      "crc32": "69dbd542",
+      "sha1": "71d993faa25e0c3a7e6895f7080fa2477a55ce1b",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonledger-2022-10-20T05:52:17.533747-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666263144",
+      "size": "36117",
+      "md5": "b7c2413976c16d14c191040670846a46",
+      "crc32": "8b744eaa",
+      "sha1": "33d7db665f8a5e980fb1815cf9512357a2ff7753",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonledger-2022-10-20T05:52:17.533747-05:00.jpg",
+      "source": "original",
+      "mtime": "1666263141",
+      "size": "268551",
+      "md5": "45bacc8eb6c924c7ba1df52820554e06",
+      "crc32": "02a8b575",
+      "sha1": "cbac9179d6ca1bd2f437633ad53c4e143f16db9c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonledger-2022-10-20T05:52:17.533747-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666263146",
+      "size": "1558",
+      "md5": "d9ec995597a59fb84c0ebd0ed256ad86",
+      "crc32": "0225c99e",
+      "sha1": "a43c21545289f96bd503cda66cb81de27f8499ca",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonledger-2022-10-20T05:52:17.533747-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666263148",
+      "size": "74031",
+      "md5": "265f7c1db435944678f300e4a8741ec0",
+      "crc32": "0e468c03",
+      "sha1": "609ea2cc7ec0b321e7d8e298085527d9fe5ea16a",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonledger-2022-10-20T05:52:17.533747-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonledger-2022-10-20T05:52:17.533747-05:00.jpg",
+      "mtime": "1666263211",
+      "size": "9458",
+      "md5": "ed4531d533c3f370f29d7016314f1e4b",
+      "crc32": "1d357f52",
+      "sha1": "d10d7b5f59f668ea419d3b6c56dbcf79d8dc5076"
+    },
+    {
       "name": "cantonledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03e08d13c99a5623b0ccc4061ff981bace0dd8cf",
-      "mtime": "1666221126",
-      "size": "77667",
-      "md5": "7c88f3b3c3f6b72503c72ba45028b418",
-      "crc32": "fddcbbb0",
-      "sha1": "e3bcf4966249a4481e776e60020132acbb01dc64",
+      "btih": "e901942859e27ac12c1fcdf32103b8288faebb20",
+      "mtime": "1666263218",
+      "size": "78958",
+      "md5": "96ea8ed804c7a7c89c97717db7b98ae7",
+      "crc32": "041cb53a",
+      "sha1": "7651effa292107a2f37a3c9ce8bd1db6a6aa7b67",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cantonledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3dcd3a4fbf63b5bdb87b04585a68b626",
+      "md5": "7cacbdea27d5bc4c516259bc857a749a",
       "summation": "md5"
     },
     {
       "name": "cantonledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666221035",
-      "size": "475136",
-      "md5": "e3d2fb1841a0b0a0dd38e7fde31c4598",
-      "crc32": "cd6c6d1d",
-      "sha1": "4c681dc6f9f2b2c66db872737de3c60cf92aea44",
+      "mtime": "1666263156",
+      "size": "487424",
+      "md5": "8dde83c22e95b6b8a9a5c6ad71280b29",
+      "crc32": "41ec125f",
+      "sha1": "44f52a7884384b77a9ca5849a462b1e99cdb0e86",
       "format": "Metadata"
     },
     {
@@ -3727,9 +3784,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 360,
-  "item_last_updated": 1666221126,
-  "item_size": 22246000,
+  "files_count": 366,
+  "item_last_updated": 1666263218,
+  "item_size": 22671152,
   "metadata": {
     "identifier": "cantonledger-2022",
     "collection": [
@@ -3746,10 +3803,10 @@
     "publicdate": "2022-09-20 22:11:46",
     "addeddate": "2022-09-20 22:11:46"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 196397941,
+  "server": "ia801405.us.archive.org",
+  "uniq": 485775593,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666220833,
+  "created": 1666262991,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/aftenposten-2022",
@@ -11058,31 +11058,93 @@
       "sha1": "10b0d8783a3bb878675a12972f7ebf4822e6cdd5"
     },
     {
+      "name": "aftenposten-2022-10-20T12:47:06.910086+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666262836",
+      "size": "31873",
+      "md5": "c8b2bf6b9cd70ef986474541588955d3",
+      "crc32": "bc5a6b93",
+      "sha1": "8c63257550e959b44e5c5ca0ad83b4ceee7d9dbd",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-10-20T12:47:06.910086+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666262838",
+      "size": "34370",
+      "md5": "d1c21e33e1b1ba2d1fd46e350b3cf3af",
+      "crc32": "3b467a32",
+      "sha1": "e6a905de720b8c0e551764e7a6a0aee5ca40112c",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-10-20T12:47:06.910086+02:00.jpg",
+      "source": "original",
+      "mtime": "1666262834",
+      "size": "236178",
+      "md5": "cfd6a087d82155bbd7de04ae1e4586a1",
+      "crc32": "880fc9cb",
+      "sha1": "8948e3c7f3128055e9a1a581db566324b8963fba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aftenposten-2022-10-20T12:47:06.910086+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666262840",
+      "size": "1495",
+      "md5": "6d688369ebe857089bffba129826fcee",
+      "crc32": "2a08bcc9",
+      "sha1": "cb0f12461b8a90c8aa6d3d02e8dd8d6962018440",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-10-20T12:47:06.910086+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666262841",
+      "size": "32125",
+      "md5": "900ab2f5696c81ca8ddb85d2889fb306",
+      "crc32": "12343427",
+      "sha1": "956f8d24ba0327db9f94a44aa6f26ca14a6ce55e",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-10-20T12:47:06.910086+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aftenposten-2022-10-20T12:47:06.910086+02:00.jpg",
+      "mtime": "1666262933",
+      "size": "9213",
+      "md5": "ba671a2d4dedfaa9ac37c0b3428ca9c2",
+      "crc32": "fe8c5bc1",
+      "sha1": "d8a95bc72af89bf232d90d26279ab5b72e376edb"
+    },
+    {
       "name": "aftenposten-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c17c4a2a4ca7f608a3cda67926ac7033675f9ed7",
-      "mtime": "1666220788",
-      "size": "229087",
-      "md5": "39e489e99bba7f9e6052e9cd52950d63",
-      "crc32": "1ab4aab9",
-      "sha1": "223c899000a533c2a8882c6908bb6ea555477e57",
+      "btih": "d847da2637c314467a5f0a8fb65fb4db73c95aae",
+      "mtime": "1666262966",
+      "size": "230372",
+      "md5": "eb59803f4e7e17b8baecb20dc1233e8a",
+      "crc32": "746ebc43",
+      "sha1": "e6c90cdceac6808bccb67964a96586063874cac7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aftenposten-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5b9217484b4d9d0cd9ac5668c8f744c5",
+      "md5": "4c7377200986aaefb51eab7943567eb2",
       "summation": "md5"
     },
     {
       "name": "aftenposten-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666220676",
-      "size": "1363968",
-      "md5": "55092247d58ea0f0e069564545c96e02",
-      "crc32": "b6869809",
-      "sha1": "d13cb149c4bc4f37566aab6e3d6e4cbc21cd69c7",
+      "mtime": "1666262847",
+      "size": "1372160",
+      "md5": "017f01f4e9a1fb8c623e6e2494fd9a8f",
+      "crc32": "469748b5",
+      "sha1": "5e1a08c8d9b94f7f62f7a72fb688c259d03b21b1",
       "format": "Metadata"
     },
     {
@@ -11096,9 +11158,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1072,
-  "item_last_updated": 1666220788,
-  "item_size": 67858115,
+  "files_count": 1078,
+  "item_last_updated": 1666262966,
+  "item_size": 68212846,
   "metadata": {
     "identifier": "aftenposten-2022",
     "collection": [
@@ -11116,7 +11178,7 @@
     "addeddate": "2022-07-20 11:37:13"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 1185216806,
+  "uniq": 981726820,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

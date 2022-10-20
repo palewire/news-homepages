@@ -1,5 +1,5 @@
 {
-  "created": 1666221020,
+  "created": 1666263181,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/2/items/austinchronicle-2022",
@@ -11296,31 +11296,93 @@
       "sha1": "a1e73dcf5b9b1671c4de8b78fccd42714d337453"
     },
     {
+      "name": "austinchronicle-2022-10-20T05:50:18.453139-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666263025",
+      "size": "26097",
+      "md5": "e8b38564affc5f62a3bdc0acaa220881",
+      "crc32": "ddfdc848",
+      "sha1": "0fbb3d02ab65132fc54e679e72773cb07cc5babe",
+      "format": "JSON"
+    },
+    {
+      "name": "austinchronicle-2022-10-20T05:50:18.453139-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666263026",
+      "size": "25501",
+      "md5": "c91f77b4b05281f9905e0e8e8ad0c5c0",
+      "crc32": "59622302",
+      "sha1": "98f549cc4e2db889dd49e06a9d3474aa89596a4a",
+      "format": "JSON"
+    },
+    {
+      "name": "austinchronicle-2022-10-20T05:50:18.453139-05:00.jpg",
+      "source": "original",
+      "mtime": "1666263023",
+      "size": "286084",
+      "md5": "397c9d67101dc243bb8f3cdbfabf6ba2",
+      "crc32": "6e1aa556",
+      "sha1": "dcf3e6c2937388177689358e99c93327432c096e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinchronicle-2022-10-20T05:50:18.453139-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666263028",
+      "size": "1537",
+      "md5": "18662d37ef973518a56f315b562ee601",
+      "crc32": "fd5dc0c9",
+      "sha1": "e4b41ea1051d140943b0e834cbfc89da3f8f0852",
+      "format": "JSON"
+    },
+    {
+      "name": "austinchronicle-2022-10-20T05:50:18.453139-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666263029",
+      "size": "44563",
+      "md5": "ef0ad1d6f1afa599820a2703e30caf22",
+      "crc32": "3a3adf99",
+      "sha1": "de41e34ca661acf3bb16585f81668be37585732b",
+      "format": "JSON"
+    },
+    {
+      "name": "austinchronicle-2022-10-20T05:50:18.453139-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinchronicle-2022-10-20T05:50:18.453139-05:00.jpg",
+      "mtime": "1666263158",
+      "size": "10158",
+      "md5": "6a85b62811dcfc694066a9b7f2d4082c",
+      "crc32": "b6423ba2",
+      "sha1": "50e1c0fc540ad05eca3108ed60c03945d5e41c5d"
+    },
+    {
       "name": "austinchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b25ab4397853956c581e4689d248871886725f7",
-      "mtime": "1666220986",
-      "size": "238897",
-      "md5": "3bd6bc1fa8eedbf2fa71c7fd15c541d5",
-      "crc32": "f53bac64",
-      "sha1": "3ca202125bdc1bd3c776908d89174a113f52e0cc",
+      "btih": "b8998392236a863128b48c982b322aac9924b64f",
+      "mtime": "1666263171",
+      "size": "240207",
+      "md5": "3291e1631eec8b75583dbbaa49a48786",
+      "crc32": "7eb804e6",
+      "sha1": "70c35bfbf2b233295d3b742017c7de6d1eb1f272",
       "format": "Archive BitTorrent"
     },
     {
       "name": "austinchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d70515a3bcf5bdf80c66b2a7f1c2b95",
+      "md5": "616204cc64c63219dcb4ff363e591956",
       "summation": "md5"
     },
     {
       "name": "austinchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666220813",
-      "size": "1396736",
-      "md5": "bfe5117580044b7fe5964a9a50f593a3",
-      "crc32": "54cc34bb",
-      "sha1": "cb87c7b0416419ca165bf148be56d47133c85cf0",
+      "mtime": "1666263034",
+      "size": "1404928",
+      "md5": "bd9cc53c4468cdae073a3c5f61da8996",
+      "crc32": "9ebe565e",
+      "sha1": "b4313ea3287ce659a53c5bbe6944bd480e7aed3e",
       "format": "Metadata"
     },
     {
@@ -11334,9 +11396,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1095,
-  "item_last_updated": 1666220986,
-  "item_size": 79364018,
+  "files_count": 1101,
+  "item_last_updated": 1666263171,
+  "item_size": 79767460,
   "metadata": {
     "identifier": "austinchronicle-2022",
     "collection": [
@@ -11353,10 +11415,10 @@
     "publicdate": "2022-07-18 00:04:18",
     "addeddate": "2022-07-18 00:04:18"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 128256420,
+  "server": "ia802505.us.archive.org",
+  "uniq": 12992713,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }
