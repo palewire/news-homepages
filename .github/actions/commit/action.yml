@@ -60,6 +60,7 @@ runs:
         aws_secret_access_key: ${{ inputs.s3-secret-access-key }}
         aws_bucket: ${{ inputs.s3-bucket-name }}
         source_dir: './latest-screenshots/'
+        destination_dir: "./latest-screenshots/"
 
     # - id: git-commit
     #   name: Commit latest screenshots
