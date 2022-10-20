@@ -1,5 +1,5 @@
 {
-  "created": 1666232895,
+  "created": 1666270891,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/25/items/juneauempire-2022",
@@ -4708,31 +4708,93 @@
       "sha1": "f2024d1882bb2d4ce651b8ac08d62dc03c6f5ca0"
     },
     {
+      "name": "juneauempire-2022-10-20T05:00:09.154826-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666270813",
+      "size": "35420",
+      "md5": "784382895025e60cbc55fb1429d5e39d",
+      "crc32": "7cfcbf4a",
+      "sha1": "9c0a711f9c11b8536b36f801d7269d129508dbd4",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-20T05:00:09.154826-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666270815",
+      "size": "38728",
+      "md5": "49264605a569c59d0e97deb6f3e92e0b",
+      "crc32": "06390879",
+      "sha1": "1d027bdd792a57a4cff3ce517805a23df41ca511",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-20T05:00:09.154826-08:00.jpg",
+      "source": "original",
+      "mtime": "1666270811",
+      "size": "273565",
+      "md5": "3ab64b47d5866b53c2cf9a142ec8a2cd",
+      "crc32": "0cead92b",
+      "sha1": "c8f25bf90a83ce6abba81949602d2a7885ffb3a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-20T05:00:09.154826-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666270816",
+      "size": "1513",
+      "md5": "2610f926e1a41a8d1772204109975284",
+      "crc32": "17ca17a4",
+      "sha1": "5cae6495eec3b6770c196a50e0c38224db4c10fe",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-20T05:00:09.154826-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666270818",
+      "size": "46568",
+      "md5": "446ca23be71e5784496cf96d632322b9",
+      "crc32": "4841cd8b",
+      "sha1": "bcaacd95f2830448bcbdac0f2ea250f6936a75bc",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-20T05:00:09.154826-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-20T05:00:09.154826-08:00.jpg",
+      "mtime": "1666270873",
+      "size": "8948",
+      "md5": "1ae2448257c06bb048115d52fe73035d",
+      "crc32": "c202789a",
+      "sha1": "c1001c1cd835440c14d1cfd5812e4e8206358337"
+    },
+    {
       "name": "juneauempire-2022_archive.torrent",
       "source": "metadata",
-      "btih": "746d4537d1e75bb11a7f2e08ac2f54fca514200c",
-      "mtime": "1666229410",
-      "size": "98858",
-      "md5": "249293dc0c28da39167a65988ccf567e",
-      "crc32": "85c8a36c",
-      "sha1": "d44034a74fe0cef0eec6f7027576574a23633fe7",
+      "btih": "fc3877eb75972f730de2782e28bb1ccf6a49fcd9",
+      "mtime": "1666270881",
+      "size": "100129",
+      "md5": "451fd791239dfe6d2b2b3cf3821f38ad",
+      "crc32": "c1e05c1e",
+      "sha1": "bd60a4938920f6a917f1887315dbb1e1907973bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "juneauempire-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d5874845f5f93af9540158933494ed3a",
+      "md5": "bc205cec4aae21074fc4e2eebe66197a",
       "summation": "md5"
     },
     {
       "name": "juneauempire-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666229337",
-      "size": "598016",
-      "md5": "127a4f9fb3fde5d1e18b8d77318bce4f",
-      "crc32": "fbfb3963",
-      "sha1": "7756f445e2d9c16bdd6e51a2f8b8554e4209b6a4",
+      "mtime": "1666270822",
+      "size": "606208",
+      "md5": "42cbb3956032fdebbb00300a9ff59c84",
+      "crc32": "6591cc4e",
+      "sha1": "6618d488a0c4e60e6fc4ad95e9ef0a136c232437",
       "format": "Metadata"
     },
     {
@@ -4746,14 +4808,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 459,
-  "item_last_updated": 1666229410,
-  "item_size": 29003346,
-  "juneauempire-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 465,
+  "item_last_updated": 1666270881,
+  "item_size": 29417551,
   "metadata": {
     "identifier": "juneauempire-2022",
     "collection": [
@@ -4770,10 +4827,10 @@
     "publicdate": "2022-09-13 00:00:30",
     "addeddate": "2022-09-13 00:00:30"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 889586830,
+  "server": "ia801401.us.archive.org",
+  "uniq": 734041061,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
