@@ -1,5 +1,5 @@
 {
-  "created": 1666238129,
+  "created": 1666282567,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/11/items/thestarpress-2022",
@@ -3674,31 +3674,93 @@
       "sha1": "9c4e41210e9e7b6d42635ba91bc46369f54e0895"
     },
     {
+      "name": "thestarpress-2022-10-20T12:14:57.810111-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666282502",
+      "size": "20161",
+      "md5": "8ef54d1704e64fc0d8ed9d31829e4292",
+      "crc32": "91784b7d",
+      "sha1": "5c32a34ecf2e73f62ecae8ff5913fb24003632bf",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-20T12:14:57.810111-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666282505",
+      "size": "31461",
+      "md5": "5467695a83dd59be1090d0bd96cfd15d",
+      "crc32": "405c945e",
+      "sha1": "935e490463a20d3acde4dec284b84f2529772375",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-20T12:14:57.810111-04:00.jpg",
+      "source": "original",
+      "mtime": "1666282500",
+      "size": "232166",
+      "md5": "cc5036cb197df844694648e7da4696be",
+      "crc32": "1444525b",
+      "sha1": "9cf0b86660ab08f172e4abfbce1de2ade175ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-20T12:14:57.810111-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666282507",
+      "size": "1513",
+      "md5": "1fe1005bfbbd7c7551d2038f71b44d3c",
+      "crc32": "9899307e",
+      "sha1": "449e62ad16f5db2e978da8bc593ed2dc1ba2c3b5",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-20T12:14:57.810111-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666282509",
+      "size": "253",
+      "md5": "1e5a760c761464dfcdf3c44918793e0e",
+      "crc32": "d1654942",
+      "sha1": "f38826d2297cf0929c62d5b974b14d94da4a418f",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-20T12:14:57.810111-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-20T12:14:57.810111-04:00.jpg",
+      "mtime": "1666282557",
+      "size": "9193",
+      "md5": "5755d214462185f64480f4fee72c1d1c",
+      "crc32": "deb065e8",
+      "sha1": "e5f9b7c598779df2a0898311802cdee5df6ef827"
+    },
+    {
       "name": "thestarpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7c9b292883822497f30520bd0fb804aebab27aa0",
-      "mtime": "1666238114",
-      "size": "77508",
-      "md5": "a5605c80968076d50a70ab95cbc173e0",
-      "crc32": "6d6e8148",
-      "sha1": "b4ad515871637047c146f795b388e34c0fa36342",
+      "btih": "0ac6790689ca589ce3a3e99cb69f532e57cb3921",
+      "mtime": "1666282561",
+      "size": "78777",
+      "md5": "62e78dcaca1217a370298acc33202daf",
+      "crc32": "5c5f9f60",
+      "sha1": "8d12a48f07944a3eb38f5c20a1cdb6afe22089de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thestarpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "54178e613eafd9bcfbc30b5fad2bd7d0",
+      "md5": "8444b1fab9e7108dc6ab2b2aeff1148b",
       "summation": "md5"
     },
     {
       "name": "thestarpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666238055",
-      "size": "475136",
-      "md5": "2c6ea1a8f60f7d474b7f587e747a391c",
-      "crc32": "78c977a3",
-      "sha1": "a0d7a2607db6eec0ec7a12698afceb1d4bdc8ad8",
+      "mtime": "1666282512",
+      "size": "479232",
+      "md5": "86119d66e0a6ce47d5297ebf4efd7df4",
+      "crc32": "c5cde011",
+      "sha1": "269f389be137267f449c246c05b792986e76d1f5",
       "format": "Metadata"
     },
     {
@@ -3712,9 +3774,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 359,
-  "item_last_updated": 1666238114,
-  "item_size": 23179965,
+  "files_count": 365,
+  "item_last_updated": 1666282561,
+  "item_size": 23480077,
   "metadata": {
     "identifier": "thestarpress-2022",
     "collection": [
@@ -3731,10 +3793,10 @@
     "publicdate": "2022-09-21 03:45:24",
     "addeddate": "2022-09-21 03:45:24"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 357560068,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1558073892,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }
