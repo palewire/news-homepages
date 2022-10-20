@@ -13,7 +13,7 @@ import iso3166
 import pandas as pd
 import pytz
 import tldextract
-from playwright.sync_api._generated import BrowserContext
+from playwright.sync_api._generated import BrowserContext, Playwright
 
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
@@ -473,7 +473,7 @@ def intcomma(value):
 
 
 def _load_persistent_context(
-    p_handle: BrowserContext, width: int = 1300, height: int = 1600
+    p_handle: Playwright, width: int = 1300, height: int = 1600
 ):
     """Load the browser with a persistent context nad with a set of common ad-blocking extensions."""
     # Boot up the browser with the ad blocker plugin installed
