@@ -7,7 +7,6 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
-import click
 import iso639
 import iso3166
 import pandas as pd
@@ -394,7 +393,6 @@ def get_javascript(handle: str) -> typing.Optional[str]:
 
     Returns a JavaScript string ready to be run. Or None, if no file exists.
     """
-    
     javascript_path = SOURCES_PATH / "javascript" / f"{handle.lower()}.js"
     if javascript_path.exists():
         with open(javascript_path) as fh:
@@ -612,6 +610,12 @@ def _load_new_page_disable_javascript(
     print("Hiding scrollbars with CSS")
     css = """document.body.style.overflow = 'hidden';"""
     page.evaluate(css)
+
+    print("scrolling to bottom")
+    scroll_height = page.evaluate("document.body.offsetHeight")
+    for i in range(0, scroll_height, 500):
+        page.evaluate("scroll(0, %s)" % i)
+        time.sleep(1)
 
     # Prevent Playwright from hovering over a link and highlighting it
     print("Preventing mouse hovers")
