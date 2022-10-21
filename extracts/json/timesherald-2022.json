@@ -1,5 +1,5 @@
 {
-  "created": 1666282645,
+  "created": 1666326625,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/1/items/timesherald-2022",
@@ -10806,31 +10806,93 @@
       "sha1": "637a42bd7d1084792d07e934eafd482aef733536"
     },
     {
+      "name": "timesherald-2022-10-21T00:28:33.621757-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666326523",
+      "size": "35275",
+      "md5": "148efc542210774d9e23aae42d484b73",
+      "crc32": "3b6652f6",
+      "sha1": "b818ed54564133204e01a964a6d4a63e32ec2497",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-10-21T00:28:33.621757-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666326525",
+      "size": "24701",
+      "md5": "79e08ef2eab70d13d47e16a494746e16",
+      "crc32": "c7160f97",
+      "sha1": "32a00c95dd711989f8b4147b86890fb381206436",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-10-21T00:28:33.621757-04:00.jpg",
+      "source": "original",
+      "mtime": "1666326521",
+      "size": "278108",
+      "md5": "74773c3516875744a95f528958421578",
+      "crc32": "75e9e6f5",
+      "sha1": "a3c7b32cb37adb2eded3a2c09b55d0ac3a008e85",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesherald-2022-10-21T00:28:33.621757-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666326526",
+      "size": "1476",
+      "md5": "541f5586cf94db13d7fcaeb8b1643b26",
+      "crc32": "ece32ff7",
+      "sha1": "7eea375233e02225efe3c022ec5260ef6926aafb",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-10-21T00:28:33.621757-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666326528",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-10-21T00:28:33.621757-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesherald-2022-10-21T00:28:33.621757-04:00.jpg",
+      "mtime": "1666326599",
+      "size": "9152",
+      "md5": "e72c1aa4fa60c0286f8d9c4f0a858b46",
+      "crc32": "06307e9b",
+      "sha1": "f0192f4e9b38ed5626c84248a57b8df1c40484aa"
+    },
+    {
       "name": "timesherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "713f57555d0a58a8d405329220d079dca88b0674",
-      "mtime": "1666282624",
-      "size": "223817",
-      "md5": "7e01b1f5c4d772051d3667bc1e25e6e5",
-      "crc32": "9372e5c6",
-      "sha1": "83144e1a7b974d846e9166e0d568b9ddeea553f1",
+      "btih": "e39cf4a7041ecd4f571c88498d0355953392258a",
+      "mtime": "1666326611",
+      "size": "225100",
+      "md5": "1fc8562bd3d56959d93d9e189cb61439",
+      "crc32": "45ec8ac1",
+      "sha1": "08d450770c4a929fccaac2ce25692242e8fe3caa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e5805530de9767d2dc6ee3515911291f",
+      "md5": "69322012de8cc7b042871814a5591cec",
       "summation": "md5"
     },
     {
       "name": "timesherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666282532",
-      "size": "1339392",
-      "md5": "9a114300f031e655bad86a55100e6ccf",
-      "crc32": "a820827f",
-      "sha1": "e726537b1f22834f001a7e283d4979f3d9cd8ee9",
+      "mtime": "1666326532",
+      "size": "1347584",
+      "md5": "8502fd14361d7cc87acc820e79f6b312",
+      "crc32": "cd7fe943",
+      "sha1": "de0c20ff71cb0f15872f67d6ffb5916f1d6cf868",
       "format": "Metadata"
     },
     {
@@ -10844,9 +10906,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1048,
-  "item_last_updated": 1666282624,
-  "item_size": 64605586,
+  "files_count": 1054,
+  "item_last_updated": 1666326611,
+  "item_size": 64963975,
   "metadata": {
     "identifier": "timesherald-2022",
     "collection": [
@@ -10863,10 +10925,10 @@
     "publicdate": "2022-07-20 23:31:58",
     "addeddate": "2022-07-20 23:31:58"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 220010286,
+  "server": "ia601407.us.archive.org",
+  "uniq": 1180066738,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }
