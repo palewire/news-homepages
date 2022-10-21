@@ -386,7 +386,7 @@ def get_screenshots_by_site(site: typing.Dict) -> typing.List[typing.Dict]:
     return sorted_list
 
 
-def get_javascript(handle: typing.Optional[str]) -> typing.Optional[str]:
+def get_javascript(handle: str) -> typing.Optional[str]:
     """Get the JavaScript file to run before the screenshot, if it exists.
 
     Args:
@@ -394,9 +394,7 @@ def get_javascript(handle: typing.Optional[str]) -> typing.Optional[str]:
 
     Returns a JavaScript string ready to be run. Or None, if no file exists.
     """
-    if handle is None:
-        raise ValueError("Please supply non-None `handle`.")
-
+    
     javascript_path = SOURCES_PATH / "javascript" / f"{handle.lower()}.js"
     if javascript_path.exists():
         with open(javascript_path) as fh:
@@ -516,7 +514,7 @@ def _load_persistent_context(
     return context
 
 
-def _get_common_blocking_javascript():
+def _get_common_blocking_javascript() -> str:
     """Compiles a set of commands into an executable javascript script to block common pop-ups, banners, etc."""
     # Run common JavaScript for all sites
     target_list = [
@@ -588,7 +586,7 @@ def _get_common_blocking_javascript():
 
 
 def _load_new_page_disable_javascript(
-    context: BrowserContext, url: str, wait_seconds: int = 5, handle: str = None
+    context: BrowserContext, url: str, handle: str, wait_seconds: int = 5
 ):
     """Load the page with javascript blocking."""
     # Create an empty tab
