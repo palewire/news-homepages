@@ -1,0 +1,178 @@
+name: "Reusable workflow: Archive batch"
+
+on:
+  workflow_call:
+    inputs:
+      batch:
+        description: "The batch number to archive"
+        required: true
+        type: string
+
+jobs:
+  sources:
+    name: Sources
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: get-site-list
+        uses: ./.github/actions/batch
+        with:
+          command: sites-by-batch ${{ inputs.batch }}
+    outputs:
+      site-list: ${{ steps.get-site-list.outputs.site-list }}
+
+  jpg:
+    name: JPG
+    runs-on: ubuntu-20.04
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: screenshot
+        name: Screenshot
+        uses: ./.github/actions/screenshot
+        with:
+          source: ${{ matrix.source }}
+
+  accessibility:
+    name: a11y
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: save-page
+        name: Save the accessibility tree
+        uses: ./.github/actions/accessibility
+        with:
+          source: ${{ matrix.source }}
+
+  hyperlinks:
+    name: Hyperlinks
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: save-page
+        name: Save hyperlinks
+        uses: ./.github/actions/hyperlinks
+        with:
+          source: ${{ matrix.source }}
+
+  wayback:
+    name: Wayback Machine
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: save-page
+        name: Save in Wayback Machine
+        uses: ./.github/actions/wayback
+        with:
+          source: ${{ matrix.source }}
+          access-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
+
+  lighthouse:
+    name: Lighthouse audit
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: audit
+        name: Audit
+        uses: ./.github/actions/lighthouse
+        with:
+          source: ${{ matrix.source }}
+
+  archive:
+    name: Post to archive.org
+    needs: [jpg,accessibility,hyperlinks,wayback,lighthouse,sources]
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: archive
+        name: Post
+        uses: ./.github/actions/archive
+        with:
+          source: ${{ matrix.source }}
+          access-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
+          collection: ${{ secrets.IA_COLLECTION }}
+
+  publish:
+    name: Publish
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    needs: [archive]
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: commit
+        name: Commit
+        uses: ./.github/actions/commit
+        with:
+          download-items-command: "--batch=${{ inputs.batch }}"
+          access-key: ${{ secrets.IA_ACCESS_KEY }}
+          secret-key: ${{ secrets.IA_SECRET_KEY }}
+          collection:  ${{ secrets.IA_COLLECTION }}
+          s3-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          s3-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          s3-bucket-name: ${{ secrets.AWS_BUCKET_NAME }}

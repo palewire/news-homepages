@@ -1,0 +1,67 @@
+name: Analyze
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: analyze
+  cancel-in-progress: true
+
+jobs:
+  lighthouse:
+    name: Lighthouse
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: analyze
+        name: Analyze Lighthouse audits
+        run: pipenv run python -m newshomepages.analyze lighthouse;
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Update lighthouse analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
+
+  drudge:
+    name: Drudge
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: analyze
+        name: Analyze Drudge hyperlinks
+        run: pipenv run python -m newshomepages.analyze drudge;
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Update Drudge analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash

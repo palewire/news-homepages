@@ -1,0 +1,17 @@
+name: "Archive a country"
+
+on:
+  workflow_dispatch:
+    inputs:
+      country:
+        description: 'Country code'
+        required: true
+        type: string
+
+jobs:
+  archive-bundle:
+    name: Archive country
+    uses: palewire/news-homepages/.github/workflows/reusable-archive-country-workflow.yml@main
+    with:
+      country: ${{ inputs.country }}
+    secrets: inherit

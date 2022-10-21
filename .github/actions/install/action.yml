@@ -1,0 +1,29 @@
+name: Install
+description: Install common Python dependencies
+
+runs:
+  using: "composite"
+  steps:
+    - id: install-pipenv
+      name: Install pipenv
+      run: pipx install pipenv
+      shell: bash
+
+    - id: install-python
+      name: Install Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.9"
+        cache: "pipenv"
+
+    - id: install-python-dependencies
+      name: Install Python dependencies
+      run: |
+        pipenv install --dev
+        pipenv run pip install certifi
+      shell: bash
+
+    - id: pip-freeze
+      name: Print installed Python dependencies
+      run: pipenv run pip freeze
+      shell: bash

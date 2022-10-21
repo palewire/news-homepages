@@ -1,0 +1,61 @@
+import pytz
+
+from newshomepages import utils
+
+
+def test_sites():
+    """Test sites utils."""
+    # Read in the list
+    site_list = utils.get_site_list()
+    assert len(site_list) > 0
+    assert utils.get_site("latimes")["name"] == "Los Angeles Times"
+    unique_handles = {i["handle"].lower() for i in site_list}
+    assert len(site_list) == len(unique_handles)
+
+    # Make sure all the required fields are filled in
+    site_df = utils.get_site_df()
+    assert not site_df.handle.isnull().any()
+    assert not site_df.url.isnull().any()
+    assert not site_df.name.isnull().any()
+    assert not site_df.location.isnull().any()
+    assert not site_df.timezone.isnull().any()
+    assert not site_df.country.isnull().any()
+
+    # Test timezones
+    for s in site_list:
+        pytz.timezone(s["timezone"])
+
+
+def test_bundles():
+    """Test bundles utils."""
+    # Get bundles
+    bundle_list = utils.get_bundle_list()
+    assert len(bundle_list) > 0
+
+    # Test timezones
+    for b in bundle_list:
+        pytz.timezone(b["timezone"])
+
+    # Pull on by name
+    assert utils.get_bundle("socal")["name"] == "Southern California"
+
+
+def test_javascript():
+    """Test javascript utils."""
+    assert utils.get_javascript("latimes") is not None
+    assert utils.get_javascript("foobar") is None
+
+
+def test_numoji():
+    """Test numoji util."""
+    assert utils.numoji("1") == "1️⃣"
+
+
+def test_url_parse():
+    """Test the URL parser."""
+    utils.parse_archive_url(
+        "https://archive.org/download/100reporters-2022/100reporters-2022-07-08T23:55:17.494439-04:00.hyperlinks.json"
+    )
+    utils.parse_archive_url(
+        "https://archive.org/download/appalachia100-2022/appalachia100-2022-07-29T19:59:50.561493-04:00.jpg"
+    )

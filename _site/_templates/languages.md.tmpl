@@ -1,0 +1,12 @@
+```{include} _templates/nav.html
+```
+
+# Languages
+
+The archiving routine is currently saving sites in {{ language_list|length }} languages.
+
+| Country  | Sites |
+| :------- | :---- |
+{% for obj in language_list -%}
+|[{{ obj.name }}](https://palewi.re/docs/news-homepages/languages/{{ obj.part1|lower }}.html)|{{ obj.site_list|length }}|
+{% endfor %}

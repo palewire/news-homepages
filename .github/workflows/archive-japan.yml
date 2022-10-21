@@ -1,0 +1,14 @@
+name: "Archive: Japan"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+jobs:
+  archive-bundle:
+    name: Archive bundle
+    uses: palewire/news-homepages/.github/workflows/reusable-archive-country-workflow.yml@main
+    with:
+      country: JP
+    secrets: inherit

@@ -1,0 +1,54 @@
+name: Status report
+
+on:
+  schedule:
+    - cron: "0 16 * * 0"
+  workflow_dispatch:
+
+jobs:
+  calculate:
+    name: Calculate and Tweet
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install-chromedriver
+        name: Install chromedriver
+        run: |
+          sudo apt update
+          sudo apt --only-upgrade install google-chrome-stable
+          sudo apt -yqq install chromium-chromedriver
+        shell: bash
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: run-notebook
+        name: Run notebook
+        run: pipenv run jupyter execute notebooks/status-report.ipynb
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git status
+          git pull origin $GITHUB_REF
+          git add ./notebooks
+          git commit -m "Status report data update" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
+
+      - id: tweet
+        name: Tweet
+        run: pipenv run python -m newshomepages.tweet status-report
+        shell: bash
+        env:
+          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+          TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}

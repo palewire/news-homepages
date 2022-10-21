@@ -1,0 +1,165 @@
+name: Extract
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      download-items:
+        description: 'Download items'
+        required: true
+        type: boolean
+        default: false
+      download-lighthouse:
+        description: 'Download Lighthouse'
+        required: true
+        type: boolean
+        default: true
+      download-drudge-hyperlinks:
+        description: 'Download Drudge hyperlinks'
+        required: true
+        type: boolean
+        default: true
+
+concurrency:
+  group: extract
+  cancel-in-progress: true
+
+jobs:
+  download-items:
+    name: Download items
+    runs-on: ubuntu-latest
+    if: inputs.download-items == true
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
+      - id: configure-git
+        name: Configure git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+
+      - id: download-items
+        name: Download items
+        run: pipenv run python -m newshomepages.extract download-items
+        shell: bash
+        env:
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+          IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
+
+      - id: consolidate-items
+        name: Consolidate items
+        run: pipenv run python -m newshomepages.extract consolidate
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
+
+  download-lighthouse:
+    name: Download Lighthouse
+    runs-on: ubuntu-latest
+    if: inputs.download-lighthouse == true
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: get-latest
+        name: Get latest data
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+
+      - id: cache
+        name: Update cache
+        uses: actions/cache@v3
+        with:
+          path: .cache
+          key: extract-lighthouse-${{ github.run_id }}
+          restore-keys: |
+            extract-lighthouse
+
+      - id: download-lighthouse
+        name: Download Lighthouse files
+        run: pipenv run python -m newshomepages.extract download-lighthouse --days=7 --output-path=./extracts/csv/lighthouse-sample.csv;
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Update Lighthouse sample" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
+
+  download-drudge-hyperlinks:
+    name: Download Drudge hyperlinks
+    runs-on: ubuntu-latest
+    if: inputs.download-drudge-hyperlinks == true
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: get-latest
+        name: Get latest data
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+
+      - id: cache
+        name: Update cache
+        uses: actions/cache@v3
+        with:
+          path: .cache
+          key: extract-drudge-${{ github.run_id }}
+          restore-keys: |
+            extract-drudge
+
+      - id: download-drudge-items
+        name: Download Drudge items
+        run: pipenv run python -m newshomepages.extract download-items --site=drudge
+        shell: bash
+        env:
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+          IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
+
+      - id: download-drudge-hyperlinks
+        name: Download Drudge hyperlink lists
+        run: pipenv run python -m newshomepages.extract download-hyperlinks --site=drudge --days=90 --output-path=./extracts/csv/drudge-hyperlinks-sample.csv;
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Update Drudge hyperlinks sample" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash

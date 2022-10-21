@@ -1,0 +1,18 @@
+```{include} _templates/nav.html
+```
+
+# Countries
+
+The archiving routine is currently saving sites in {{ has_list|length }} countries.
+
+| Country  | Sites | RSS |
+| :------- | :---- | :-- |
+{% for obj in has_list -%}
+|[{{ obj.name }}](https://palewi.re/docs/news-homepages/countries/{{ obj.alpha2|lower }}.html)|{{ obj.site_list|length }}|[🔗](https://palewi.re/docs/news-homepages/rss/countries/{{ obj.alpha2|lower }}.xml)|
+{% endfor %}
+
+The system is not yet archiving sites in the following {{ hasnot_list|length }} countries. Help us expand our coverage. Read [our guide to adding sites](https://palewi.re/docs/news-homepages/adding.html) and make a contribution.
+
+{% for obj in hasnot_list -%}
+* {{ obj.name }}
+{% endfor %}

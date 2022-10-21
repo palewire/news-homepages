@@ -1,0 +1,47 @@
+name: "Update website"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+concurrency:
+  group: site
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: consolidate-files
+        name: Consolidate Internet Archive metadata
+        run: pipenv run python -m newshomepages.extract consolidate;
+        shell: bash
+
+      - id: commit-extracts
+        name: Commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Consolidate extracts" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
+
+      - id: update-site
+        name: Update site
+        uses: ./.github/actions/site
+        with:
+          api-key: ${{ secrets.PALEWIRE_DOCS_AWS_ACCESS_KEY_ID }}
+          api-secret-access-key: ${{ secrets.PALEWIRE_DOCS_AWS_SECRET_ACCESS_KEY }}
+          bucket: ${{ secrets.PALEWIRE_DOCS_AWS_BUCKET }}

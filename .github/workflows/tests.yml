@@ -1,0 +1,68 @@
+name: Testing
+on:
+  # push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  lint-python:
+    name: Lint Python code
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v2
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: lint
+        name: Lint
+        run: pipenv run flake8 ./
+
+  test-python:
+    name: Test Python code
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python and dependencies
+        uses: ./.github/actions/install
+
+      - id: cache-playwright
+        name: Cache Playwright
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/ms-playwright/
+          key: ${{ runner.os }}-browsers
+
+      - id: install-playwright
+        name: Install Playwright
+        run: |
+            pipenv run python -m playwright install
+            pipenv run python -m playwright install-deps
+        shell: bash
+
+      - id: test
+        name: Run tests
+        run: pipenv run xvfb-run pytest tests
+
+  static-type-check:
+    name: Static type check
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: mypy
+        name: mypy
+        run: pipenv run mypy ./

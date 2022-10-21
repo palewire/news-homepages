@@ -1,0 +1,14 @@
+name: "Archive: U.S. left wing"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
+
+jobs:
+  archive-bundle:
+    name: Archive bundle
+    uses: palewire/news-homepages/.github/workflows/reusable-archive-bundle-workflow.yml@main
+    with:
+      bundle: us-left-wing
+    secrets: inherit
