@@ -1,5 +1,10 @@
 {
-  "created": 1666283008,
+  "bfp_news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1666329994,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/bfp_news-2022",
@@ -3726,31 +3731,93 @@
       "sha1": "11bcb895e2c0ebbbfb88903e5665cca3cd32076e"
     },
     {
+      "name": "bfp_news-2022-10-21T00:34:18.134709-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666326863",
+      "size": "19053",
+      "md5": "aef95c497f3e30693f4786bec2d6fc67",
+      "crc32": "c0b6e9b5",
+      "sha1": "3fc51b5bcbc4e8c7482eefc2596a7f44846415bf",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-21T00:34:18.134709-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666326865",
+      "size": "32871",
+      "md5": "80958d90d095e74d40f7a1772730cc41",
+      "crc32": "428c88b0",
+      "sha1": "bbd3d27da906433ee59959b4f2c08561d3d07779",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-21T00:34:18.134709-04:00.jpg",
+      "source": "original",
+      "mtime": "1666326861",
+      "size": "269893",
+      "md5": "54cde75eb0556c97ff8c6ebc45f81646",
+      "crc32": "8ee8c1e2",
+      "sha1": "44df59694aa37a65a5424aea346c986f171d9dc5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bfp_news-2022-10-21T00:34:18.134709-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666326866",
+      "size": "1576",
+      "md5": "b9f50d9d1e15a3c5f1d2f320f9d7ffe2",
+      "crc32": "90bb563a",
+      "sha1": "b61750b0e4a10ab792a6f0a917d7225be5181d26",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-21T00:34:18.134709-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666326868",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-21T00:34:18.134709-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bfp_news-2022-10-21T00:34:18.134709-04:00.jpg",
+      "mtime": "1666326932",
+      "size": "9478",
+      "md5": "44ab4eea457ac768de964f8302c98851",
+      "crc32": "90d42a51",
+      "sha1": "69d3d1c74733ec6bed66bd56a9ce863e7fad9fc9"
+    },
+    {
       "name": "bfp_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "444c7d77d821e76b5875498394d94a05d506c8d6",
-      "mtime": "1666282992",
-      "size": "77132",
-      "md5": "0c14a8c7421a5f8307ea8f97b51bb9b3",
-      "crc32": "6d5be2b8",
-      "sha1": "e4d3ce7ae965867e81d1e39f9c875bcbe38d70dc",
+      "btih": "aa6ac7e2996bb3ce43beee0e4762b0ed75c049f6",
+      "mtime": "1666326936",
+      "size": "78397",
+      "md5": "63bc61a362de56401e306dd069f317b6",
+      "crc32": "f9a9bc1a",
+      "sha1": "60edfd40b35d9f1b4e6585ec65351df0c4d76b0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bfp_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f2c77c10cb5d60e2aa2ba8436e85c3a",
+      "md5": "1ee71a92d433b85972c1432ffb2592bf",
       "summation": "md5"
     },
     {
       "name": "bfp_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666282917",
-      "size": "475136",
-      "md5": "b1f2993c42bef2945f867bb02d0806fb",
-      "crc32": "1928a2ab",
-      "sha1": "801181b40702d0ca1f9b2582798932db10e5cc00",
+      "mtime": "1666326877",
+      "size": "483328",
+      "md5": "47b7699c9d57727355057f6a8c4b8cc7",
+      "crc32": "6e6a105a",
+      "sha1": "920331cee3e114c684f5f924bcd832ad8806be80",
       "format": "Metadata"
     },
     {
@@ -3764,9 +3831,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 364,
-  "item_last_updated": 1666282992,
-  "item_size": 24405492,
+  "files_count": 370,
+  "item_last_updated": 1666326936,
+  "item_size": 24748022,
   "metadata": {
     "identifier": "bfp_news-2022",
     "collection": [
@@ -3783,10 +3850,10 @@
     "publicdate": "2022-09-21 04:39:40",
     "addeddate": "2022-09-21 04:39:40"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1030160676,
+  "server": "ia601403.us.archive.org",
+  "uniq": 881813092,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }
