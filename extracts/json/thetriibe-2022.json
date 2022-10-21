@@ -1,6 +1,5 @@
 {
-  "conflict": 1666370619,
-  "created": 1666370619,
+  "created": 1666371018,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/thetriibe-2022",
@@ -20788,21 +20787,32 @@
       "format": "JSON"
     },
     {
+      "name": "thetriibe-2022-10-21T11:38:50.578083-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetriibe-2022-10-21T11:38:50.578083-05:00.jpg",
+      "mtime": "1666370630",
+      "size": "10739",
+      "md5": "b2c40ac26ed4b9cf85728397bab40cd1",
+      "crc32": "30d8689b",
+      "sha1": "b362567e1da17a0e1e8bb7ac5700eeaf274b4e17"
+    },
+    {
       "name": "thetriibe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d95d318052fd7eb90d3470392866199143fd3ca7",
-      "mtime": "1666370502",
-      "size": "424228",
-      "md5": "cf29266071542a6592d08f72cf299f66",
-      "crc32": "097ac45d",
-      "sha1": "b040c7136bf832ce8ca9162784033248b448c026",
+      "btih": "9c2c60ba8ca7d4aa35aff10bdc18f5f91fb60cd8",
+      "mtime": "1666370696",
+      "size": "424434",
+      "md5": "b03fb3563e8ec41cf710ea341ff7faba",
+      "crc32": "cc875e1b",
+      "sha1": "f2b9eadb1f2210da50dd818803316791e5c9a523",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetriibe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5f952514127a6a6ada44f3d622cd731",
+      "md5": "83d75e3f1c75fbc99a14fb0ca7767a6c",
       "summation": "md5"
     },
     {
@@ -20826,9 +20836,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2007,
-  "item_last_updated": 1666370502,
-  "item_size": 142994819,
+  "files_count": 2008,
+  "item_last_updated": 1666370696,
+  "item_size": 143005764,
   "metadata": {
     "identifier": "thetriibe-2022",
     "collection": [
@@ -20845,21 +20855,10 @@
     "publicdate": "2022-06-19 23:29:01",
     "addeddate": "2022-06-19 23:29:01"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3447668598,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 466105299,
+  "server": "ia801508.us.archive.org",
+  "uniq": 2130951079,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }
