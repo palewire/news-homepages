@@ -1,5 +1,5 @@
 {
-  "created": 1666295761,
+  "created": 1666338401,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/sacbee_news-2022",
@@ -12554,31 +12554,82 @@
       "sha1": "41838ffce66e3a76c16c28ce496e0f20725021c2"
     },
     {
+      "name": "sacbee_news-2022-10-21T00:45:29.635235-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666338339",
+      "size": "455",
+      "md5": "907aadcc61ff52d09a89765c63d09f0f",
+      "crc32": "2df2ebdf",
+      "sha1": "904f649b8d4d78dbde4baaf006dfd5123d30afff",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-21T00:45:29.635235-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666338341",
+      "size": "41945",
+      "md5": "cb74af672debef5fe846d50538bcb864",
+      "crc32": "19473858",
+      "sha1": "d3bfb7d038be461a6630eeddc624996a88d0aa7d",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-21T00:45:29.635235-07:00.jpg",
+      "source": "original",
+      "mtime": "1666338337",
+      "size": "319675",
+      "md5": "0ffec421a74a8da9527c35afa014ab84",
+      "crc32": "41e28170",
+      "sha1": "1299c77016b43c47b4df804c11d62523d3f74fc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sacbee_news-2022-10-21T00:45:29.635235-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666338343",
+      "size": "1458",
+      "md5": "6bc739fdf1071950e0464c117e9a627b",
+      "crc32": "ba32a974",
+      "sha1": "83a3d15a84f6cdd9b27420df956a7b64f4d376b2",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-21T00:45:29.635235-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666338345",
+      "size": "97420",
+      "md5": "8b779f494e0e73610d04f3c95bfa7813",
+      "crc32": "6def9cb3",
+      "sha1": "7e0b6d19f6e3d9f8d88ff468798b8027f2da8979",
+      "format": "JSON"
+    },
+    {
       "name": "sacbee_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1c0241fb687ba48c63a6e4e0987b48f01e18fd8",
-      "mtime": "1666295728",
-      "size": "258637",
-      "md5": "5e8c8dc73e49580c980a532382dd7845",
-      "crc32": "ae6602bd",
-      "sha1": "4c0c6a91f885159de1c05550e800128421bdf283",
+      "btih": "9d2827cb19ec542954946c1902dc055170e1749f",
+      "mtime": "1666338396",
+      "size": "259713",
+      "md5": "ace5ab3a130bf8537948c83cd22b10b9",
+      "crc32": "7b045203",
+      "sha1": "0eb26181da0b2c797d17b8cd086700aa267610e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sacbee_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "979cb7dc39dfbefe9eb22ad513ff04c6",
+      "md5": "6f201668e8fcf3edb4d25fca77b21c91",
       "summation": "md5"
     },
     {
       "name": "sacbee_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666295651",
-      "size": "1515520",
-      "md5": "6463df736c7fa6b222577878f59af205",
-      "crc32": "8bb770a2",
-      "sha1": "4be21b10917a0095f815a96884a596fd1b8b35b1",
+      "mtime": "1666338349",
+      "size": "1519616",
+      "md5": "622cc1a618f7ffa1cf52e17556548214",
+      "crc32": "a9f2b76f",
+      "sha1": "1ada598d6ef3d02a069f0dc41e1bc3e1791e50e1",
       "format": "Metadata"
     },
     {
@@ -12592,9 +12643,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1213,
-  "item_last_updated": 1666295728,
-  "item_size": 83371946,
+  "files_count": 1218,
+  "item_last_updated": 1666338396,
+  "item_size": 83838071,
   "metadata": {
     "identifier": "sacbee_news-2022",
     "collection": [
@@ -12611,10 +12662,21 @@
     "publicdate": "2022-06-24 23:00:30",
     "addeddate": "2022-06-24 23:00:30"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 275711415,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3447309642,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 721485096,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

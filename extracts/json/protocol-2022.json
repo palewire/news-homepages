@@ -1,5 +1,5 @@
 {
-  "created": 1666295962,
+  "created": 1666338546,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/0/items/protocol-2022",
@@ -12966,31 +12966,83 @@
       "sha1": "5e95e71c0b8a8885bc248c44846eb3761a888efc"
     },
     {
+      "name": "protocol-2022-10-21T00:42:46.102328-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666338174",
+      "size": "31157",
+      "md5": "c8dc8a1d5a28da8af8e7f33ecc155122",
+      "crc32": "e705d2f9",
+      "sha1": "5ae7e1664ae4903fd5801d22f6a273bde22e8886",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-10-21T00:42:46.102328-07:00.jpg",
+      "source": "original",
+      "mtime": "1666338172",
+      "size": "227132",
+      "md5": "e01be9ef518ad159515f715ed7aba2c6",
+      "crc32": "eb37efa4",
+      "sha1": "ab434bd59866c5df841176c3c2b20c4c4353720c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "protocol-2022-10-21T00:42:46.102328-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666338176",
+      "size": "1471",
+      "md5": "0a2e4d3a8d897fa2e264d16b1510f256",
+      "crc32": "8bc3465b",
+      "sha1": "ced352fac3645d50ca0c2d79f0f743655e56c7a0",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-10-21T00:42:46.102328-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666338177",
+      "size": "20218",
+      "md5": "a9d9f54dc01b1d24fc3ede5bbe251e49",
+      "crc32": "9cc4feca",
+      "sha1": "2f8f96d0fc3957fe85693599513be6ed059ac75b",
+      "format": "JSON"
+    },
+    {
+      "name": "protocol-2022-10-21T00:42:46.102328-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "protocol-2022-10-21T00:42:46.102328-07:00.jpg",
+      "mtime": "1666338266",
+      "size": "9388",
+      "md5": "3482716196d8449ee885996945b841a9",
+      "crc32": "b4dd5fc0",
+      "sha1": "b03e4e6c913a284e59d372256b10f14c1540bd6f"
+    },
+    {
       "name": "protocol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "296e700d5843239e52564f1190368ddf884e020c",
-      "mtime": "1666295951",
-      "size": "263568",
-      "md5": "0335e1822bff8aafd246e7d8daa1521a",
-      "crc32": "1edbd023",
-      "sha1": "b3816b4810809b8fa75b20dedbc73302403cb96f",
+      "btih": "11f17674dc771c0ff719fbe7e71cb1c04d34118d",
+      "mtime": "1666338288",
+      "size": "264601",
+      "md5": "b61c78a5c049698dfe9a5255443481b8",
+      "crc32": "43c5245c",
+      "sha1": "c91a7dadd8baf9297e4eab2a5824e83113959dc8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "protocol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4bd5badaf773f177fbc19c213de5f2c",
+      "md5": "74273b6f35f5e3aa5a14bb3d43238567",
       "summation": "md5"
     },
     {
       "name": "protocol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666295841",
-      "size": "1568768",
-      "md5": "06b3cea9354c4b11eba9ff8c71d6d161",
-      "crc32": "b5531ed2",
-      "sha1": "1d347a0368a74b16baf71e9eebc9d6ca1ab91e38",
+      "mtime": "1666338182",
+      "size": "1572864",
+      "md5": "1770e3b38255e35217141d0cdb291922",
+      "crc32": "53c1da20",
+      "sha1": "1101154016655612aeed668e865138fd95b3523b",
       "format": "Metadata"
     },
     {
@@ -13004,9 +13056,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1254,
-  "item_last_updated": 1666295951,
-  "item_size": 66988625,
+  "files_count": 1259,
+  "item_last_updated": 1666338288,
+  "item_size": 67283120,
   "metadata": {
     "identifier": "protocol-2022",
     "collection": [
@@ -13023,10 +13075,10 @@
     "publicdate": "2022-07-04 20:17:42",
     "addeddate": "2022-07-04 20:17:42"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 1789731160,
+  "server": "ia801508.us.archive.org",
+  "uniq": 2078552900,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

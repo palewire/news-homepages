@@ -1,5 +1,5 @@
 {
-  "created": 1666295960,
+  "created": 1666338559,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -19424,31 +19424,93 @@
       "sha1": "db2cf19a10a14ea9d36b4c033d8ee5ec0bc3a5c3"
     },
     {
+      "name": "sfchronicle-2022-10-21T00:46:14.202849-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666338398",
+      "size": "93996",
+      "md5": "148e459150db715c895dc0c3daabaff8",
+      "crc32": "0240daee",
+      "sha1": "f2cccbac0ec6a7b505806a06cd3208233b78e4fd",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-21T00:46:14.202849-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666338400",
+      "size": "111502",
+      "md5": "f79c4aad95ec8611d4f6a78bc3cb289e",
+      "crc32": "c93ba458",
+      "sha1": "2f1c323e12de0d87785f800a74a4591f39f5634e",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-21T00:46:14.202849-07:00.jpg",
+      "source": "original",
+      "mtime": "1666338397",
+      "size": "350567",
+      "md5": "2034d16058a583e926d795910329a1a9",
+      "crc32": "dc78461f",
+      "sha1": "6fa2c0eaeee78308610fc569f9a85e66d21b3cd8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sfchronicle-2022-10-21T00:46:14.202849-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666338407",
+      "size": "1504",
+      "md5": "d86c4ed102e08411cb6ee3944c5aa5f7",
+      "crc32": "98bdeb12",
+      "sha1": "8c32fb689cb3203c227a007511510278d7db12b1",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-21T00:46:14.202849-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666338409",
+      "size": "63527",
+      "md5": "d5d2b749358ca333d6a66537d11382b7",
+      "crc32": "138d3c97",
+      "sha1": "505506299dd57866cc1ba23a66c302656962b859",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-21T00:46:14.202849-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-10-21T00:46:14.202849-07:00.jpg",
+      "mtime": "1666338490",
+      "size": "10019",
+      "md5": "e543faaad7c962ac660ae5bcbc88e1f6",
+      "crc32": "fd94a09c",
+      "sha1": "59aff3ddfd5ba1e42485e27b6e937a5845def802"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4e731ef7cf9edea1fd00cbaaf33a9f566fe90cc",
-      "mtime": "1666295946",
-      "size": "402421",
-      "md5": "eec3dbc93babd3821a55af6aab866ade",
-      "crc32": "4254b7d0",
-      "sha1": "8e7f558d7b307b840a60d4169da36214e6dfb417",
+      "btih": "e25d8a7e1bcbdf97d1d726ff3611ab661e2e42de",
+      "mtime": "1666338546",
+      "size": "403728",
+      "md5": "cef868e9ae7e453b7628aaffe0bebe9d",
+      "crc32": "0195dd04",
+      "sha1": "4bf06c9f04602e4712b82994612252cf52af51f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d99edce450e4942312fa1029393caf2",
+      "md5": "706b58cd299797fe3ec08420f006164b",
       "summation": "md5"
     },
     {
       "name": "sfchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666295842",
-      "size": "2269184",
-      "md5": "abd46907c7956ba750867a8e420d03d2",
-      "crc32": "e660ad3f",
-      "sha1": "d3c84850f2f65da601fef0575e798cdd5caa9e1c",
+      "mtime": "1666338413",
+      "size": "2273280",
+      "md5": "8cdf868f94c2408de9089fb17a86eeb7",
+      "crc32": "1f62c6c6",
+      "sha1": "f069ec84b7c8e3a6959198fe584c1a81134fe9ce",
       "format": "Metadata"
     },
     {
@@ -19462,9 +19524,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1868,
-  "item_last_updated": 1666295946,
-  "item_size": 214732448,
+  "files_count": 1874,
+  "item_last_updated": 1666338546,
+  "item_size": 215368966,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -19481,10 +19543,10 @@
     "publicdate": "2022-03-23 02:09:45",
     "addeddate": "2022-03-23 02:09:45"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1969922350,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1059644040,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }
