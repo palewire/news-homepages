@@ -1,5 +1,5 @@
 {
-  "created": 1666289316,
+  "created": 1666337860,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/lookoutscruz-2022",
@@ -12274,31 +12274,93 @@
       "sha1": "3670c0fe21055f165c88aabaf4fc890fb1375326"
     },
     {
+      "name": "lookoutscruz-2022-10-20T23:04:27.821511-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666332277",
+      "size": "14518",
+      "md5": "13513ea0ed0d826d9b2dbdce41abd6f8",
+      "crc32": "4299b4c8",
+      "sha1": "b24e75074f0a3aa2f9f7906db2d7a46219fe4126",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-10-20T23:04:27.821511-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666332279",
+      "size": "59702",
+      "md5": "60935912b8cd748d2b00a876f0cb8d64",
+      "crc32": "298d91cb",
+      "sha1": "52a17bda186e4abac1b50572c112e1de889d1adf",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-10-20T23:04:27.821511-07:00.jpg",
+      "source": "original",
+      "mtime": "1666332275",
+      "size": "307577",
+      "md5": "8920e10f4d04c4b5aebbad255b204186",
+      "crc32": "66d08db0",
+      "sha1": "21e3f6e2b48ce4bb8aaa8c51818eea813c79aa43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lookoutscruz-2022-10-20T23:04:27.821511-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666332280",
+      "size": "1512",
+      "md5": "33514398ed194e8dc2e608a0482adbdb",
+      "crc32": "61bae0d1",
+      "sha1": "56d598bf618394a9f57a050eeda4c25db2ffa396",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-10-20T23:04:27.821511-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666332282",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lookoutscruz-2022-10-20T23:04:27.821511-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lookoutscruz-2022-10-20T23:04:27.821511-07:00.jpg",
+      "mtime": "1666332350",
+      "size": "11182",
+      "md5": "7c61ff51399c995604de55aada98ed16",
+      "crc32": "2f011202",
+      "sha1": "c457f9dd7b72b0277c4a961b01e30ba434d174b6"
+    },
+    {
       "name": "lookoutscruz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb320ceacc9695ba0e7a2ac48b9ecca64279baec",
-      "mtime": "1666289296",
-      "size": "255838",
-      "md5": "03609ce7d745846cc2fcbc6e4706a284",
-      "crc32": "a09bc085",
-      "sha1": "17a68c679de4628626b76830994a7a60cb4bc064",
+      "btih": "960512c24912cf26388a603e5ad4c42149464fa4",
+      "mtime": "1666332364",
+      "size": "257128",
+      "md5": "3f6b4ea21d055ac790d0c7b59163cda5",
+      "crc32": "e1009067",
+      "sha1": "93a40e33fe4a8c509345fee44f7e1b4ef66d51b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lookoutscruz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca16fcbf96e2b599c430ac082bd1d9b3",
+      "md5": "7c5df4ee410595cd9c7709cc86cbb7ed",
       "summation": "md5"
     },
     {
       "name": "lookoutscruz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666289190",
-      "size": "1499136",
-      "md5": "1cc0a635106d06f531552093d75dcf46",
-      "crc32": "ca20598a",
-      "sha1": "b57e1bc68c54ed51167911f3b42b5d60585e14dd",
+      "mtime": "1666332287",
+      "size": "1507328",
+      "md5": "828458f8c15fc17cc8a3188824d48754",
+      "crc32": "25c3de4a",
+      "sha1": "745baa8ec39a3e67886475b5efacfecb6e3ac569",
       "format": "Metadata"
     },
     {
@@ -12312,9 +12374,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1188,
-  "item_last_updated": 1666289296,
-  "item_size": 93216993,
+  "files_count": 1194,
+  "item_last_updated": 1666332364,
+  "item_size": 93621168,
+  "lookoutscruz-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lookoutscruz-2022",
     "collection": [
@@ -12331,10 +12398,10 @@
     "publicdate": "2022-07-09 04:00:07",
     "addeddate": "2022-07-09 04:00:07"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1864561413,
+  "server": "ia801409.us.archive.org",
+  "uniq": 2063516938,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }
