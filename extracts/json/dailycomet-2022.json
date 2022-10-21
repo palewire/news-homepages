@@ -1,5 +1,5 @@
 {
-  "created": 1666309411,
+  "created": 1666395994,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/11/items/dailycomet-2022",
@@ -3840,31 +3840,155 @@
       "sha1": "20f7e7af8d6e0d5b974641c61efce2c3a3dc1258"
     },
     {
+      "name": "dailycomet-2022-10-21T07:16:08.623128-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666354575",
+      "size": "22417",
+      "md5": "9c3969000299993a84591549eb618b0e",
+      "crc32": "6958877b",
+      "sha1": "2d4d3a3d3cd4e90f87146f41421733cee1d6fb83",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-10-21T07:16:08.623128-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666354577",
+      "size": "33221",
+      "md5": "614c7f595582ecaf96dbe8ea93d82794",
+      "crc32": "65d0b1b7",
+      "sha1": "173e93c31758113e69c1cf079319022b11c6ec5c",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-10-21T07:16:08.623128-05:00.jpg",
+      "source": "original",
+      "mtime": "1666354573",
+      "size": "251397",
+      "md5": "75b501f3eef9c7611d616d3f22183a1d",
+      "crc32": "190a74be",
+      "sha1": "b6ac1c9760cc0338d5759ff53b3bf29dad426336",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycomet-2022-10-21T07:16:08.623128-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666354578",
+      "size": "1495",
+      "md5": "503da85486dec17593188ea94f52f9c0",
+      "crc32": "72686a6d",
+      "sha1": "fbf1a0f7ebd588d90e387ec7ef25f59c52d3a1f1",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-10-21T07:16:08.623128-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666354581",
+      "size": "108767",
+      "md5": "c57d3ea258de6d8e6a388bf134829365",
+      "crc32": "5baf3a87",
+      "sha1": "f32121086c85b056d49c417fe8c1acb02527aab3",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-10-21T07:16:08.623128-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycomet-2022-10-21T07:16:08.623128-05:00.jpg",
+      "mtime": "1666354636",
+      "size": "9747",
+      "md5": "c2eed4db658e91e5e4a2296fdf4c40bc",
+      "crc32": "6b4ceac9",
+      "sha1": "f7bc98d5f7675933ae55c33670db6416882f03b5"
+    },
+    {
+      "name": "dailycomet-2022-10-21T18:42:53.013237-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666395778",
+      "size": "23134",
+      "md5": "25b0a87b36d6342ea59afdaaa00aad14",
+      "crc32": "2f144497",
+      "sha1": "4683a2fc3bb1e79f73f7b9b5cfb5b9cab80267bc",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-10-21T18:42:53.013237-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666395779",
+      "size": "33143",
+      "md5": "83aea92c083c89cbb73714db8ff29047",
+      "crc32": "07265b8b",
+      "sha1": "7df6d024ebc658f66c9bc1edb5c7245b06dbb452",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-10-21T18:42:53.013237-05:00.jpg",
+      "source": "original",
+      "mtime": "1666395776",
+      "size": "276938",
+      "md5": "c123d4880d253f1499fb010c3bab5a43",
+      "crc32": "aa441771",
+      "sha1": "aedfb6cf57d3ccaf2a917f8668791b1b6db7a520",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycomet-2022-10-21T18:42:53.013237-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666395781",
+      "size": "1495",
+      "md5": "1b27c9f17c877e4ceab627ee2abb60b7",
+      "crc32": "81397b36",
+      "sha1": "6fbe6467e1665b03b0a07b26c060c18e4e3e5069",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-10-21T18:42:53.013237-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666395783",
+      "size": "96519",
+      "md5": "30ec49dddf4c4efb0e225f347d22e29d",
+      "crc32": "8cdf2695",
+      "sha1": "94eea7efb07c988eaf94d04295346211002c3082",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-10-21T18:42:53.013237-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycomet-2022-10-21T18:42:53.013237-05:00.jpg",
+      "mtime": "1666395860",
+      "size": "9250",
+      "md5": "6a0c2e89b77d58af699b56d2cf701f89",
+      "crc32": "a6d6f268",
+      "sha1": "6f91f345c02f9e4a550d477ce10bfcb863f9196f"
+    },
+    {
       "name": "dailycomet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c20fd50265862215b61a1f48639ef1af09b2c78",
-      "mtime": "1666309399",
-      "size": "80184",
-      "md5": "2405b7b6d64a007e2075915d822d43fa",
-      "crc32": "22918e89",
-      "sha1": "4e26d34a042512ba3c04b03c15fc97e5c7c6909f",
+      "btih": "acf3b3f137a46f7af3b5696be377a13b32427bc7",
+      "mtime": "1666395932",
+      "size": "82743",
+      "md5": "6f4d98ada8460ba2c1551b3d80be7bd7",
+      "crc32": "03f45b53",
+      "sha1": "c48715f8ec2b104f5b0818f5062ef5066d3cfeb7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycomet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "618f4354a8945dc3a7b3a785f6f0ae08",
+      "md5": "113fabb025a4d2e2f1734b6f23ea391b",
       "summation": "md5"
     },
     {
       "name": "dailycomet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666309339",
-      "size": "491520",
-      "md5": "e28cf082fb1be34ee275673a9f92ddec",
-      "crc32": "81a85ed2",
-      "sha1": "b7d07d905f3b82be229547d05f520ac161a458de",
+      "mtime": "1666395790",
+      "size": "507904",
+      "md5": "0a826117158ad6602607bb1f1fef8cab",
+      "crc32": "292e48d6",
+      "sha1": "ffd9a2dfb41aa9b0e1b97da176252a28c08ad9e9",
       "format": "Metadata"
     },
     {
@@ -3878,9 +4002,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 375,
-  "item_last_updated": 1666309399,
-  "item_size": 24637050,
+  "files_count": 387,
+  "item_last_updated": 1666395932,
+  "item_size": 25523516,
   "metadata": {
     "identifier": "dailycomet-2022",
     "collection": [
@@ -3897,10 +4021,10 @@
     "publicdate": "2022-09-20 22:13:43",
     "addeddate": "2022-09-20 22:13:43"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 173707370,
+  "server": "ia601503.us.archive.org",
+  "uniq": 17584885,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }
