@@ -1,6 +1,5 @@
 {
-  "conflict": 1666337611,
-  "created": 1666337611,
+  "created": 1666337712,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/7/items/izvestia_ru-2022",
@@ -16513,24 +16512,29 @@
       "name": "izvestia_ru-2022-10-21T10:31:32.078932+03:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "izvestia_ru-2022-10-21T10:31:32.078932+03:00.jpg"
+      "original": "izvestia_ru-2022-10-21T10:31:32.078932+03:00.jpg",
+      "mtime": "1666337605",
+      "size": "11669",
+      "md5": "c773442091f7d6a384d06507935a23cc",
+      "crc32": "4405af29",
+      "sha1": "b4a0d279d48fbcff911949d493155c84c384d886"
     },
     {
       "name": "izvestia_ru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13367c48ff36bbb5e7906ab475ccb263a7a728b3",
-      "mtime": "1666337573",
-      "size": "344150",
-      "md5": "a477335a70ef4f35eee3b1f9281bf1ea",
-      "crc32": "bde47fc9",
-      "sha1": "8ae8abcb6b5f7b565f3331b39386161cac111a02",
+      "btih": "e666e3d48d2c42d4f2c3372f0e6a66bf647d8e0f",
+      "mtime": "1666337673",
+      "size": "344358",
+      "md5": "7ea494dac3f28bd270b0153ac40e9f84",
+      "crc32": "94d36ce5",
+      "sha1": "1454c54057327cba07a41c5c823de71ea3986ac2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "izvestia_ru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d4017a7b6a3ab81ea8164b1b33745b2",
+      "md5": "76e4d2e9a8cac88c3a299b99af6c51fe",
       "summation": "md5"
     },
     {
@@ -16555,8 +16559,8 @@
     }
   ],
   "files_count": 1598,
-  "item_last_updated": 1666337573,
-  "item_size": 172063916,
+  "item_last_updated": 1666337673,
+  "item_size": 172075793,
   "metadata": {
     "identifier": "izvestia_ru-2022",
     "collection": [
@@ -16573,21 +16577,10 @@
     "publicdate": "2022-07-16 20:48:55",
     "addeddate": "2022-07-16 20:48:55"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3447299902,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 175768199,
+  "uniq": 361775850,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }
