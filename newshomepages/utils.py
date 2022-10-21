@@ -583,7 +583,11 @@ def _get_common_blocking_javascript() -> str:
 
 
 def _load_new_page_disable_javascript(
-    context: BrowserContext, url: str, handle: str, wait_seconds: int = 5
+    context: BrowserContext,
+    url: str,
+    handle: str,
+    wait_seconds: int = 5,
+    full_page: bool = False,
 ):
     """Load the page with javascript blocking."""
     # Create an empty tab
@@ -611,11 +615,13 @@ def _load_new_page_disable_javascript(
     css = """document.body.style.overflow = 'hidden';"""
     page.evaluate(css)
 
-    print("scrolling to bottom")
-    scroll_height = page.evaluate("document.body.offsetHeight")
-    for i in range(0, scroll_height, 500):
-        page.evaluate("scroll(0, %s)" % i)
-        time.sleep(1)
+    # If we're saving full-page content, we need to scroll to the bottom to make sure all the images get fetched.
+    if full_page:
+        print("scrolling to bottom")
+        scroll_height = page.evaluate("document.body.offsetHeight")
+        for i in range(0, scroll_height + 500, 500):
+            page.evaluate("scroll(0, %s)" % i)
+            time.sleep(1)
 
     # Prevent Playwright from hovering over a link and highlighting it
     print("Preventing mouse hovers")

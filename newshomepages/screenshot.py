@@ -66,10 +66,11 @@ def _screenshot(
             url=site["url"],
             wait_seconds=int((site["wait"] or wait) / 1000),
             handle=site["handle"],
+            full_page=full_page,
         )
 
         # Take the screenshot
-        jpeg_file_path = str(output_path / f"{site['handle'].lower()}.jpg")
+        jpeg_file_path = output_path / f"{site['handle'].lower()}.jpg"
         print(f"Saving image to {jpeg_file_path}")
         page.screenshot(
             quality=80,
