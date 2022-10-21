@@ -1,10 +1,5 @@
 {
-  "brecktexan-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666354843,
+  "created": 1666392630,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/brecktexan-2022",
@@ -12231,31 +12226,93 @@
       "sha1": "cceb7aff2fde97791ec0a92cc854312e7b42d76a"
     },
     {
+      "name": "brecktexan-2022-10-21T17:48:02.765752-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666392493",
+      "size": "47070",
+      "md5": "d2ddf6992753d6770054523f7c73c446",
+      "crc32": "cfd7dc87",
+      "sha1": "b9ca31656b63efdd939e5a98f15aaa0a932ed0aa",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-21T17:48:02.765752-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666392495",
+      "size": "39835",
+      "md5": "cc6c372e95f3e4cc5026c12e9eba5386",
+      "crc32": "a1eecee3",
+      "sha1": "89c2e82835d6a4696d20ea37c0d056a8e874d30b",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-21T17:48:02.765752-05:00.jpg",
+      "source": "original",
+      "mtime": "1666392491",
+      "size": "463515",
+      "md5": "da3f50c0a78c5c3c412c4b11dd45672a",
+      "crc32": "6e35373b",
+      "sha1": "28a99e7e87dc3717e0aac94b27df9a2bf9a08246",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-21T17:48:02.765752-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666392497",
+      "size": "1522",
+      "md5": "5f3c7bbba63cdf1a19aeede22012a1dc",
+      "crc32": "37d2ae0b",
+      "sha1": "472ac4bc2e0af34859c936df3b2ac3f3907a15e2",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-21T17:48:02.765752-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666392499",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-21T17:48:02.765752-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-21T17:48:02.765752-05:00.jpg",
+      "mtime": "1666392580",
+      "size": "10421",
+      "md5": "dac2a8583760019148cf8e4e2890db29",
+      "crc32": "f19d73f5",
+      "sha1": "d24ca5c5eff40751ec86960ab585d3f21824c411"
+    },
+    {
       "name": "brecktexan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "96ebc4510c68371d8b0bbb2638936cc88c5939c3",
-      "mtime": "1666350813",
-      "size": "253635",
-      "md5": "475d14d1045ce9865eb4eeabfa533749",
-      "crc32": "57ff6b1e",
-      "sha1": "e58e0c71aa0691bb810b892825e9fd6855566b58",
+      "btih": "e09887b758c503b021dba639021be43d526cb201",
+      "mtime": "1666392607",
+      "size": "254913",
+      "md5": "08068f05232e18749d6d6124171e6da5",
+      "crc32": "79514f72",
+      "sha1": "9a99b810a8f343adaa5c536effe766668a669075",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brecktexan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "846fb8353ef7d62174e6b394403dd763",
+      "md5": "911201ffbe98eeca0405cf89ea63b6e4",
       "summation": "md5"
     },
     {
       "name": "brecktexan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666350561",
-      "size": "1490944",
-      "md5": "d78ec0f016727dcc261cc1b0828b095f",
-      "crc32": "ef9430c6",
-      "sha1": "bd0a895f76c277cb42194faf548f3b0c1b80c9fa",
+      "mtime": "1666392504",
+      "size": "1503232",
+      "md5": "6c8ca079480861f810a378658dc78b3e",
+      "crc32": "62c3e715",
+      "sha1": "6873a984e6d92a3821e7e5b4a257b51aab852dac",
       "format": "Metadata"
     },
     {
@@ -12269,9 +12326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1184,
-  "item_last_updated": 1666350813,
-  "item_size": 120039020,
+  "files_count": 1190,
+  "item_last_updated": 1666392607,
+  "item_size": 120615151,
   "metadata": {
     "identifier": "brecktexan-2022",
     "collection": [
@@ -12288,10 +12345,10 @@
     "publicdate": "2022-07-09 03:56:32",
     "addeddate": "2022-07-09 03:56:32"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 806820434,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1876632338,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
