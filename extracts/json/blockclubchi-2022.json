@@ -1,5 +1,5 @@
 {
-  "created": 1666263215,
+  "created": 1666350548,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/32/items/blockclubchi-2022",
@@ -20614,31 +20614,217 @@
       "sha1": "c60ae0fab845c026bdf1c8e614db75df11a98890"
     },
     {
+      "name": "blockclubchi-2022-10-20T11:27:27.969843-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666283259",
+      "size": "22749",
+      "md5": "d0501eb7514d6121aa3ecc1042616ceb",
+      "crc32": "d52c0890",
+      "sha1": "8cdf42db9c354a2d11e199f58db95e1e60bc3c41",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T11:27:27.969843-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666283262",
+      "size": "32225",
+      "md5": "b17489b025453024919dfa0b018dc344",
+      "crc32": "87557382",
+      "sha1": "a64a716d32748aa34aac44b63fd326cdec86823e",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T11:27:27.969843-05:00.jpg",
+      "source": "original",
+      "mtime": "1666283257",
+      "size": "342220",
+      "md5": "ad6d9411f7e276ae5a19be685dc30977",
+      "crc32": "052d99a2",
+      "sha1": "3814784eb96ed67d120abf340170d88195c8de38",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T11:27:27.969843-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666283264",
+      "size": "1513",
+      "md5": "005c42243f583a1de7a0a75d231c0d48",
+      "crc32": "1462de9c",
+      "sha1": "090595f76667fe59c49b51755f4eaef99697e2ee",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T11:27:27.969843-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666283265",
+      "size": "18087",
+      "md5": "a684a4466032e0f02060ed30f0ccd266",
+      "crc32": "8b7b338a",
+      "sha1": "474b6f273c118638ce0c9ad5674b245f8898271a",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T11:27:27.969843-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blockclubchi-2022-10-20T11:27:27.969843-05:00.jpg",
+      "mtime": "1666283382",
+      "size": "10207",
+      "md5": "1317b947867746d9354b8d8e77495b5d",
+      "crc32": "95ae2483",
+      "sha1": "7f92dbeedde439ff428a2f22b9130834547c5a18"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T17:54:47.497331-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666306502",
+      "size": "22853",
+      "md5": "420e3ef57d83fb0f074bd50c17ca15cb",
+      "crc32": "b2a89288",
+      "sha1": "1833724a51438db0a6a3ba470c332402dd6f5b56",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T17:54:47.497331-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666306504",
+      "size": "32309",
+      "md5": "dfedb85c975d20563071e87a9906e433",
+      "crc32": "7f7e8aa8",
+      "sha1": "44cb4015400c4d643c6d2b3b057b7ac7eb2d8f4d",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T17:54:47.497331-05:00.jpg",
+      "source": "original",
+      "mtime": "1666306500",
+      "size": "326770",
+      "md5": "fb95bb2828f0bb776c5af2ca9a6d2b1d",
+      "crc32": "3705fb05",
+      "sha1": "9b30a9c431f0f53c32193a8a67c96533fb7582a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T17:54:47.497331-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666306506",
+      "size": "1513",
+      "md5": "63d8bbd4357c552f15de1ec8849dbca2",
+      "crc32": "5c41b731",
+      "sha1": "7da75f37a973da41a6ce442ddf958fc88ce4f0e9",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T17:54:47.497331-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666306508",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-20T17:54:47.497331-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blockclubchi-2022-10-20T17:54:47.497331-05:00.jpg",
+      "mtime": "1666306626",
+      "size": "10049",
+      "md5": "9e8956b9b9d9530152f00af55ffa5024",
+      "crc32": "c5c784de",
+      "sha1": "2b39095c274fda0baf2e5e9d17daa2eefe11aa8b"
+    },
+    {
+      "name": "blockclubchi-2022-10-21T06:05:22.682268-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666350336",
+      "size": "21817",
+      "md5": "24384c072cb93bee3d475005235e052f",
+      "crc32": "87828f44",
+      "sha1": "74abc3e5ab9f1df9569a902505323e27b230be81",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-21T06:05:22.682268-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666350338",
+      "size": "32173",
+      "md5": "b80306146f08371fe93392a13010a7e0",
+      "crc32": "82cc5541",
+      "sha1": "9b06981788529d62ad6fab2c090dfbce6aec217b",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-21T06:05:22.682268-05:00.jpg",
+      "source": "original",
+      "mtime": "1666350334",
+      "size": "326493",
+      "md5": "6cbb28ed8f7ac7f02f67edcc9fd8d311",
+      "crc32": "f3eaa235",
+      "sha1": "cc8ff06deb2af155cc9f8f5869e5afb66266df77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blockclubchi-2022-10-21T06:05:22.682268-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666350340",
+      "size": "1513",
+      "md5": "e83da6da35d09d4d6bf94b7a1cf74e9b",
+      "crc32": "834df1b2",
+      "sha1": "a25215cc96fd6a02d5da126c30b71d673d8a1cdf",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-21T06:05:22.682268-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666350342",
+      "size": "17777",
+      "md5": "f4db33519452bccf21b3ae6554dbcf06",
+      "crc32": "0728631c",
+      "sha1": "fa0d12cda42ea63f79f37f7a7db7fb8550807127",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-21T06:05:22.682268-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blockclubchi-2022-10-21T06:05:22.682268-05:00.jpg",
+      "mtime": "1666350455",
+      "size": "10365",
+      "md5": "8d959119b916398d1e8a7339ffffe480",
+      "crc32": "b6e06e6b",
+      "sha1": "1ae02e69390039d35652f7a1fb3edc9b9563ef3a"
+    },
+    {
       "name": "blockclubchi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "215f109eef5d1df5e576d5b1a3e9de30f1f540ff",
-      "mtime": "1666263178",
-      "size": "427865",
-      "md5": "1be1137b882b53940a63cd30911cccd4",
-      "crc32": "6820cd1c",
-      "sha1": "a1e1019302076ff89b1ef71600bf8db76acbaf0d",
+      "btih": "bf78cc97af9495b43f33216da93c0057865cb2f5",
+      "mtime": "1666350524",
+      "size": "431719",
+      "md5": "aae908886fb72c6d87f864aff3f05379",
+      "crc32": "bab33155",
+      "sha1": "6dd10d4d9acb3bb1dc0cebe314f9ea4a99efc3d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blockclubchi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3689509780f573d041403b107ac364e6",
+      "md5": "7a1a04c55b552739d2017e90c31bffd4",
       "summation": "md5"
     },
     {
       "name": "blockclubchi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666263005",
-      "size": "2486272",
-      "md5": "ba2249c00e0671a617faf1839e477102",
-      "crc32": "11b1eea8",
-      "sha1": "b1538820d9dc9f42b379b425c2fd1bfff157908a",
+      "mtime": "1666350348",
+      "size": "2506752",
+      "md5": "2a31c96c90a44314482d2dd930ff0327",
+      "crc32": "c7ede808",
+      "sha1": "5e1b530d22f4da49c5e810080d3b1696a6a8381a",
       "format": "Metadata"
     },
     {
@@ -20652,9 +20838,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1990,
-  "item_last_updated": 1666263178,
-  "item_size": 151621255,
+  "files_count": 2008,
+  "item_last_updated": 1666350524,
+  "item_size": 152876424,
   "metadata": {
     "identifier": "blockclubchi-2022",
     "collection": [
@@ -20672,7 +20858,7 @@
     "addeddate": "2022-06-19 23:23:08"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1955673687,
+  "uniq": 367874848,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"
