@@ -1,6 +1,5 @@
 {
-  "conflict": 1666370352,
-  "created": 1666370352,
+  "created": 1666370500,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/telegraphherald-2022",
@@ -20251,24 +20250,29 @@
       "name": "telegraphherald-2022-10-21T11:36:39.122211-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "telegraphherald-2022-10-21T11:36:39.122211-05:00.jpg"
+      "original": "telegraphherald-2022-10-21T11:36:39.122211-05:00.jpg",
+      "mtime": "1666370346",
+      "size": "10234",
+      "md5": "e3e824dedf6f56ee3a1523f3888e1689",
+      "crc32": "aba69faa",
+      "sha1": "01520f91f0d1c00ee7b2e52c65e08da22456af60"
     },
     {
       "name": "telegraphherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "96b1737290afa88e081c5994e6475181ab1fe806",
-      "mtime": "1666370292",
-      "size": "424543",
-      "md5": "eb49ba93e3e4cb22664a56070823c1da",
-      "crc32": "e1232261",
-      "sha1": "005f289d09c8954aa6278f49082fa1dc8b8b2109",
+      "btih": "26c1c4871abafa0bc57f8450e32884924ea8c44f",
+      "mtime": "1666370459",
+      "size": "424755",
+      "md5": "43b96ee9d442176d9b81a01c852fc2a3",
+      "crc32": "d4cac541",
+      "sha1": "c0a29fe6d4ef1c58f5b6673319728b345bb0f25e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraphherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "08e100240919a38dfd620d09bbd39bbb",
+      "md5": "dec6be69352cbc25e345c426d019a303",
       "summation": "md5"
     },
     {
@@ -20293,8 +20297,8 @@
     }
   ],
   "files_count": 1949,
-  "item_last_updated": 1666370292,
-  "item_size": 163297524,
+  "item_last_updated": 1666370459,
+  "item_size": 163307970,
   "metadata": {
     "identifier": "telegraphherald-2022",
     "collection": [
@@ -20311,21 +20315,10 @@
     "publicdate": "2022-03-25 14:09:23",
     "addeddate": "2022-03-25 14:09:23"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3447665643,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1413772319,
+  "uniq": 219086012,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

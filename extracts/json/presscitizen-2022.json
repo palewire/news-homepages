@@ -1,5 +1,6 @@
 {
-  "created": 1666338471,
+  "conflict": 1666370298,
+  "created": 1666370298,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/presscitizen-2022",
@@ -20597,10 +20598,21 @@
     "publicdate": "2022-03-25 03:35:38",
     "addeddate": "2022-03-25 03:35:38"
   },
+  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "uniq": 630735695,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3447663608,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1406559090,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }
