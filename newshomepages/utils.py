@@ -609,10 +609,7 @@ def _load_new_page_disable_javascript(
     custom_javascript = get_javascript(handle)
     if custom_javascript:
         print("Executing custom JavaScript")
-        try:
-            page.evaluate(custom_javascript)
-        except Exception as e:
-            raise click.ClickException(str(e))
+        page.evaluate(custom_javascript)
 
     # Hide the scrollbars
     print("Hiding scrollbars with CSS")
