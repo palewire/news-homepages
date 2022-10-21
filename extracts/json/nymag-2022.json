@@ -1,5 +1,5 @@
 {
-  "created": 1666275835,
+  "created": 1666319000,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/0/items/nymag-2022",
@@ -12496,31 +12496,93 @@
       "sha1": "72671b63389721d0a4db3c87651b294a585a93bf"
     },
     {
+      "name": "nymag-2022-10-20T22:21:36.270098-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666318908",
+      "size": "37299",
+      "md5": "3bf247ba1daa80244db4098f3172726e",
+      "crc32": "f6642f4c",
+      "sha1": "9754cf11adeab8bad835fb61a3162e9bac238ab1",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-10-20T22:21:36.270098-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666318909",
+      "size": "72675",
+      "md5": "71b658d1dbdbfc409e77da0a6fcc6a0d",
+      "crc32": "e36ab210",
+      "sha1": "67c57c0d2ffb569551daf30940eb871ab12047c6",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-10-20T22:21:36.270098-04:00.jpg",
+      "source": "original",
+      "mtime": "1666318906",
+      "size": "344995",
+      "md5": "74e84053b92ba3a2cf3a11bc2fb4d73c",
+      "crc32": "32adea02",
+      "sha1": "a71a88ead27452e66511d7d6717f2e78e9bf24ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nymag-2022-10-20T22:21:36.270098-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666318911",
+      "size": "1405",
+      "md5": "49cb187c700b1f67cec7428e8560c76e",
+      "crc32": "8e5b9454",
+      "sha1": "1bae4fb4796611764bc39ee5e3f7f29ed5942bae",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-10-20T22:21:36.270098-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666318913",
+      "size": "7408",
+      "md5": "df49b1dc8054c15e0fe47be186f52db7",
+      "crc32": "e7ccfcbe",
+      "sha1": "b2bc2ad118652ee1fedcf8af227687ced8ada4e6",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-10-20T22:21:36.270098-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nymag-2022-10-20T22:21:36.270098-04:00.jpg",
+      "mtime": "1666318975",
+      "size": "9622",
+      "md5": "544a8a3621825153939a3fd28e765411",
+      "crc32": "0795a202",
+      "sha1": "c12020e9bb1f03862ee501e5ae46a370c27c2609"
+    },
+    {
       "name": "nymag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b1bfeb0dbfa6505d041bde0232f8557e55e6ad58",
-      "mtime": "1666275819",
-      "size": "252238",
-      "md5": "f6289938436fb9fe6238c7ea30e3619c",
-      "crc32": "28916a7e",
-      "sha1": "c3318541a76afe93a76bbd59c34318fb192f62de",
+      "btih": "843e6a192f395f4908e7f9e027bdb4b8badcd785",
+      "mtime": "1666318992",
+      "size": "253486",
+      "md5": "f8230d575e3667ec3ab918cfff1ca871",
+      "crc32": "a798b8ba",
+      "sha1": "8e70001da4f668fc5c84be8d57d899228fab77bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nymag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5deec087d62660d8542d744b3b1e8cb3",
+      "md5": "82370f2c1d74b7319d762048c9b04dee",
       "summation": "md5"
     },
     {
       "name": "nymag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666275730",
-      "size": "1503232",
-      "md5": "7e807d669b886b560e2d4c6b8e8b8004",
-      "crc32": "40362cd1",
-      "sha1": "cdf6a0fac99bf5c8440a71b0c862d1f7309811b6",
+      "mtime": "1666318918",
+      "size": "1511424",
+      "md5": "4892651f2471067f1e781c1a96299a44",
+      "crc32": "cc617dc4",
+      "sha1": "ed210a2d8ef78c26feba5dcc40c19a8d2dd0bb73",
       "format": "Metadata"
     },
     {
@@ -12534,9 +12596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1209,
-  "item_last_updated": 1666275819,
-  "item_size": 110678525,
+  "files_count": 1215,
+  "item_last_updated": 1666318992,
+  "item_size": 111161369,
   "metadata": {
     "identifier": "nymag-2022",
     "collection": [
@@ -12553,10 +12615,10 @@
     "publicdate": "2022-07-04 21:50:24",
     "addeddate": "2022-07-04 21:50:24"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 634670817,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1797646393,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }
