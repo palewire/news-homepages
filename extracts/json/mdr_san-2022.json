@@ -1,5 +1,5 @@
 {
-  "created": 1666315559,
+  "created": 1666362669,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/mdr_san-2022",
@@ -10802,31 +10802,93 @@
       "sha1": "02ebc89de088e2414996ab023b7d8e87cf307f93"
     },
     {
+      "name": "mdr_san-2022-10-21T15:27:58.300301+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666358887",
+      "size": "34347",
+      "md5": "ad42414ada4f8dc892f13a084f1fbf57",
+      "crc32": "af0239fe",
+      "sha1": "1e0526dac0e39933be41c6f1e25d708d7fe4557e",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-10-21T15:27:58.300301+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666358888",
+      "size": "60276",
+      "md5": "8022d088c3a87f06815e887c69b7b49a",
+      "crc32": "bdf34e50",
+      "sha1": "271d8a5eb5bb5a7ef5f93133d586ce051cdf0772",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-10-21T15:27:58.300301+02:00.jpg",
+      "source": "original",
+      "mtime": "1666358885",
+      "size": "234230",
+      "md5": "fdd500dbc0a6b8183e0a4f3ed8116ff8",
+      "crc32": "dac88d14",
+      "sha1": "fb724a1094030d15d562229941f94c337b1f6d71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdr_san-2022-10-21T15:27:58.300301+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666358890",
+      "size": "1612",
+      "md5": "c36fbbf29ac59505b67d205f72abb54e",
+      "crc32": "903e179f",
+      "sha1": "f72470aac5fc02e92f7baf2f60baeeb2f8a3b381",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-10-21T15:27:58.300301+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666358892",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-10-21T15:27:58.300301+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdr_san-2022-10-21T15:27:58.300301+02:00.jpg",
+      "mtime": "1666358958",
+      "size": "9880",
+      "md5": "d103af9e09ccfe010d38c25e7381d3e8",
+      "crc32": "e5ee4396",
+      "sha1": "21f698ff1dbc379b36900d402b11a18b389a5510"
+    },
+    {
       "name": "mdr_san-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f3870a9bb7c3a410c4e1d4b961558bdff377497f",
-      "mtime": "1666315483",
-      "size": "219905",
-      "md5": "08a5f513119e2b461eaf9fbbba8505ac",
-      "crc32": "a11f879a",
-      "sha1": "e58939974a59f0764d838c5ec1035db4fe6270fa",
+      "btih": "d40302c3ad2cd850412456fa274cad895c52e1b5",
+      "mtime": "1666358969",
+      "size": "221144",
+      "md5": "4d1f00eec7a69384421a8076dcc0f8ae",
+      "crc32": "5a99287b",
+      "sha1": "8cff3ce3129bb36dd036af91417417497718c6f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdr_san-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b980c3766ba373752b94532f20980e9c",
+      "md5": "62d835538c4500026277d968e6ef6978",
       "summation": "md5"
     },
     {
       "name": "mdr_san-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666315386",
-      "size": "1335296",
-      "md5": "db0869bc2e7d01722d845ab8af48a20c",
-      "crc32": "227fcf15",
-      "sha1": "596625a72042a57103bccb7078b5e138a94d0dca",
+      "mtime": "1666358897",
+      "size": "1339392",
+      "md5": "1c3a5a7f850ebf347bc8352d6aed5214",
+      "crc32": "3d7a069f",
+      "sha1": "8d00c5a3f99cbca1323304ef78f53af9a26bbbaa",
       "format": "Metadata"
     },
     {
@@ -10840,9 +10902,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1048,
-  "item_last_updated": 1666315483,
-  "item_size": 69603378,
+  "files_count": 1054,
+  "item_last_updated": 1666358969,
+  "item_size": 69949260,
+  "mdr_san-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "mdr_san-2022",
     "collection": [
@@ -10859,10 +10926,10 @@
     "publicdate": "2022-07-26 00:19:02",
     "addeddate": "2022-07-26 00:19:02"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 2028692561,
+  "server": "ia801401.us.archive.org",
+  "uniq": 577685569,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

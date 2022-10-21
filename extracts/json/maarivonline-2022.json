@@ -1,5 +1,5 @@
 {
-  "created": 1666315528,
+  "created": 1666362701,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/8/items/maarivonline-2022",
@@ -8392,31 +8392,93 @@
       "sha1": "7b80a6e750df56503d75f145833ce89c715f5a61"
     },
     {
+      "name": "maarivonline-2022-10-21T16:29:07.167491+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666358954",
+      "size": "104096",
+      "md5": "90b42288142d1ad6914f10d5f31082e4",
+      "crc32": "e4497f0f",
+      "sha1": "365ec1cf8fdb91a509590622838a80934775c30e",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-21T16:29:07.167491+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666358955",
+      "size": "155901",
+      "md5": "eca0e54c002dfb1fa1e75611ce4faa97",
+      "crc32": "4b62a9b3",
+      "sha1": "b1f01732902f1efb6b19b069a21bf6941bcb65a5",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-21T16:29:07.167491+03:00.jpg",
+      "source": "original",
+      "mtime": "1666358953",
+      "size": "216860",
+      "md5": "54950fa0448f34c31a7e4e8e47cbb5c9",
+      "crc32": "fbe7bfff",
+      "sha1": "00704c6c00ba11889f2251d1abb4a6688e6b395c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "maarivonline-2022-10-21T16:29:07.167491+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666358957",
+      "size": "1459",
+      "md5": "1c0d1592c42d6db0a38e975ad374becb",
+      "crc32": "2036730f",
+      "sha1": "a3084d122b8e36b6aeee11f1dbc72daf38051351",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-21T16:29:07.167491+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666358958",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-21T16:29:07.167491+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maarivonline-2022-10-21T16:29:07.167491+03:00.jpg",
+      "mtime": "1666359033",
+      "size": "8746",
+      "md5": "55adec5abdb0dc751d78004b0b7a3246",
+      "crc32": "2aa12937",
+      "sha1": "f7aae30204c98cdcf74c2418d7b3c6a2e3b01aed"
+    },
+    {
       "name": "maarivonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a338115184f42c82994452bc9996511be19c4fd",
-      "mtime": "1666315481",
-      "size": "176235",
-      "md5": "999d512d5c75c101fa2a0222a7935e64",
-      "crc32": "d02fe9e6",
-      "sha1": "4b696e5acedb25579ec9d1c94dc5998207037e5e",
+      "btih": "8ba448556b4a538ab309b721ca1d397ffb3ffa6f",
+      "mtime": "1666359051",
+      "size": "177526",
+      "md5": "6f9bd1f0aa05493edf75c98b473ff860",
+      "crc32": "c42321c8",
+      "sha1": "8934b610ede642a1dc14873eedd77cb59748f521",
       "format": "Archive BitTorrent"
     },
     {
       "name": "maarivonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f201c893378c9f50e3d35bfb73ee030",
+      "md5": "2df2dc8c6db62e4b76fed61f1561d213",
       "summation": "md5"
     },
     {
       "name": "maarivonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666315400",
-      "size": "1044480",
-      "md5": "b289c15cc23ccc926424e958b3453d13",
-      "crc32": "4c4b4386",
-      "sha1": "1b73334b6e93ba4b940ac6b27ac4d8a2e44952ed",
+      "mtime": "1666358970",
+      "size": "1056768",
+      "md5": "7bebc702fdffd009bd898648dc137705",
+      "crc32": "318a6097",
+      "sha1": "4a09223412da79e312b8c97e84a56b0c2b50c9c6",
       "format": "Metadata"
     },
     {
@@ -8430,9 +8492,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 815,
-  "item_last_updated": 1666315481,
-  "item_size": 76021557,
+  "files_count": 821,
+  "item_last_updated": 1666359051,
+  "item_size": 76522400,
+  "maarivonline-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "maarivonline-2022",
     "collection": [
@@ -8449,10 +8516,10 @@
     "publicdate": "2022-08-14 03:14:50",
     "addeddate": "2022-08-14 03:14:50"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1146955685,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1859613012,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
