@@ -1,10 +1,5 @@
 {
-  "created": 1666295962,
-  "csgazette-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "created": 1666332747,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/5/items/csgazette-2022",
@@ -8103,31 +8098,93 @@
       "sha1": "ed9a77a486750ac2cc597e537eb4e9e9763020fa"
     },
     {
+      "name": "csgazette-2022-10-21T00:08:06.984172-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666332496",
+      "size": "58216",
+      "md5": "a3d0df4330008c3e122ef22b572adc8e",
+      "crc32": "1248884e",
+      "sha1": "8d719494919e4f5437556747fc588ca624bb2520",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-21T00:08:06.984172-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666332497",
+      "size": "106020",
+      "md5": "6b5b8ebacbda9ce7a8bf69aab2ee8583",
+      "crc32": "7318360e",
+      "sha1": "70ba397c499f7446b928a661099e359c47fe07b8",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-21T00:08:06.984172-06:00.jpg",
+      "source": "original",
+      "mtime": "1666332494",
+      "size": "402540",
+      "md5": "c9d1ce3d58a51caad473a3e094d176cd",
+      "crc32": "645da105",
+      "sha1": "24f4f4d2e1b6ea5d95f4a8cbf2c5158e5210860a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-21T00:08:06.984172-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666332499",
+      "size": "1429",
+      "md5": "041ead6e1e032411df250a22e453c35a",
+      "crc32": "d36e3fbf",
+      "sha1": "3f5a47677c7ffffc2a29c59f3f72dbc27cf1bae1",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-21T00:08:06.984172-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666332501",
+      "size": "159522",
+      "md5": "767e7cd5b8b1f465028f575ab5166475",
+      "crc32": "e8920fde",
+      "sha1": "23e1dd907782d51ca8563d4b2ed59bd1198d87a5",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-21T00:08:06.984172-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-21T00:08:06.984172-06:00.jpg",
+      "mtime": "1666332671",
+      "size": "10276",
+      "md5": "91c7d11eb4f13dda13b16f5b52a10ca5",
+      "crc32": "6dee018c",
+      "sha1": "57fe0ebb7d8d0e94cd06ac8b0921cf00caf076ab"
+    },
+    {
       "name": "csgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a67fd5731c7176228a3bfa8b7d38b0da8a20ca8",
-      "mtime": "1666292241",
-      "size": "168358",
-      "md5": "36615bc3df6b3a1972a9e38ea1d8be94",
-      "crc32": "26e9745f",
-      "sha1": "aa9a0f6972c9a6aef321ab61fd566d58d431822c",
+      "btih": "a6fd0094d770b7b0440e6d71f3b8cc6ef15874a9",
+      "mtime": "1666332720",
+      "size": "169635",
+      "md5": "783ef65057f1b5b0cc47a8c51a13c4dd",
+      "crc32": "8eacc89c",
+      "sha1": "9e8eac4b5eada9d5d9f5647ff30e1665d2bb586a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "csgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5745eee141f892eceedeb8f7646bb33",
+      "md5": "0872a13721350d4d92046ff0af3b5efe",
       "summation": "md5"
     },
     {
       "name": "csgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666292124",
-      "size": "999424",
-      "md5": "5ed0c7bc4eca701ab477028156d35fd7",
-      "crc32": "a6e5c4d9",
-      "sha1": "bf5f1d0b4e983162e63158df0a335c58cdfbfbf8",
+      "mtime": "1666332507",
+      "size": "1007616",
+      "md5": "3d0ea62f1a5a68f20e695c3590109c5d",
+      "crc32": "b28c49c2",
+      "sha1": "84634088b273adda0e7b088d423784ce52729bbe",
       "format": "Metadata"
     },
     {
@@ -8141,9 +8198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 786,
-  "item_last_updated": 1666292241,
-  "item_size": 93162385,
+  "files_count": 792,
+  "item_last_updated": 1666332720,
+  "item_size": 93909857,
   "metadata": {
     "identifier": "csgazette-2022",
     "collection": [
@@ -8161,7 +8218,7 @@
     "addeddate": "2022-08-14 06:41:11"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 1732457890,
+  "uniq": 486425701,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"

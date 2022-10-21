@@ -1,5 +1,5 @@
 {
-  "created": 1666292306,
+  "created": 1666332525,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/coshtribune-2022",
@@ -3798,31 +3798,93 @@
       "sha1": "fd4ef7496ae6c5fc32db9f036040898754c4dee4"
     },
     {
+      "name": "coshtribune-2022-10-21T02:07:09.956129-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666332433",
+      "size": "18881",
+      "md5": "f08360f857b291600a2bfb414f9a8c6d",
+      "crc32": "85b6f835",
+      "sha1": "e5172c5622e53eb0cebb2636b895215a1f1755f0",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-21T02:07:09.956129-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666332435",
+      "size": "29500",
+      "md5": "33611e7c2c7aa566939d4deaaa1dabed",
+      "crc32": "1063ccca",
+      "sha1": "8f471ebddac600e41c1c364433841d56a7e1a129",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-21T02:07:09.956129-04:00.jpg",
+      "source": "original",
+      "mtime": "1666332431",
+      "size": "274700",
+      "md5": "ee6198f21441a587ce52ff3e2c800794",
+      "crc32": "08da6e9e",
+      "sha1": "6e25ca2f434a8fc36d89655e97c2b5e39e9af877",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coshtribune-2022-10-21T02:07:09.956129-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666332437",
+      "size": "1549",
+      "md5": "59ef40b2e62134e24a156bad81de278a",
+      "crc32": "75eeb251",
+      "sha1": "923d16ef0397922e8e4b6596e4292e38111efd3e",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-21T02:07:09.956129-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666332439",
+      "size": "75445",
+      "md5": "b2f3b4c1ef49550088cf4c66968b608c",
+      "crc32": "3013d1ee",
+      "sha1": "c3dfa45cb13bf95290e9d311952af52c978d8d7c",
+      "format": "JSON"
+    },
+    {
+      "name": "coshtribune-2022-10-21T02:07:09.956129-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coshtribune-2022-10-21T02:07:09.956129-04:00.jpg",
+      "mtime": "1666332500",
+      "size": "9317",
+      "md5": "c3e611f315a024c9e075d784e6df8ff3",
+      "crc32": "cc6da051",
+      "sha1": "0fff39aa251a9eee9a9788698fdee63c082ff90e"
+    },
+    {
       "name": "coshtribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5337e46d64346ee55464544a407c342154ad8632",
-      "mtime": "1666292230",
-      "size": "79722",
-      "md5": "917b8de9823f552ea8fc894ff743b51a",
-      "crc32": "7d1ae09c",
-      "sha1": "2aa749f61c0075fc4213d59c7b0c6b9a2da4536c",
+      "btih": "0f94ca2141193fae98f826a2dae3b732a79cba1d",
+      "mtime": "1666332511",
+      "size": "81007",
+      "md5": "72dc5fc0cb37fc2e417c0cf3fe7c8f14",
+      "crc32": "2f966a98",
+      "sha1": "a2a3916a2e3ad6b74ef4a83f3ce726d8cd5ca0de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coshtribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99c8036bc691c13274be139e457fb3d9",
+      "md5": "aac99c6cd3b52b77c30716f13d76a6e7",
       "summation": "md5"
     },
     {
       "name": "coshtribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666292156",
-      "size": "491520",
-      "md5": "b5d3784a6bfcba7966f11f63036243ad",
-      "crc32": "16771df8",
-      "sha1": "396b5d097b285fb3d16529f2e968800425c3a344",
+      "mtime": "1666332444",
+      "size": "499712",
+      "md5": "94abfe94a38b714176bec0282a7846d2",
+      "crc32": "cfc4ffab",
+      "sha1": "e59ea8ed21a026d742f975d46c050bb72666824c",
       "format": "Metadata"
     },
     {
@@ -3836,9 +3898,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 371,
-  "item_last_updated": 1666292230,
-  "item_size": 24591075,
+  "files_count": 377,
+  "item_last_updated": 1666332511,
+  "item_size": 25009944,
   "metadata": {
     "identifier": "coshtribune-2022",
     "collection": [
@@ -3855,10 +3917,10 @@
     "publicdate": "2022-09-20 17:43:35",
     "addeddate": "2022-09-20 17:43:35"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 312922322,
+  "server": "ia601505.us.archive.org",
+  "uniq": 533556118,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

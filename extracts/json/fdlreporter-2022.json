@@ -1,8 +1,13 @@
 {
-  "created": 1666292399,
+  "created": 1666337935,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/fdlreporter-2022",
+  "fdlreporter-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -3768,31 +3773,93 @@
       "sha1": "6e00d7c7f4f3895f20fa2d6840c91045286a7123"
     },
     {
+      "name": "fdlreporter-2022-10-21T01:13:42.162060-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666332828",
+      "size": "24242",
+      "md5": "c948c5ad3cda59c49b98c39890b9619c",
+      "crc32": "497befc9",
+      "sha1": "56eb84292b6425d3f2c7c4ffc4a4dbf9c83b8557",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-21T01:13:42.162060-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666332830",
+      "size": "30594",
+      "md5": "818042a9d366f89dcff88686800f0352",
+      "crc32": "e3c447fe",
+      "sha1": "8332759b52f7300528b4334aaa57e89338f9dfd0",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-21T01:13:42.162060-05:00.jpg",
+      "source": "original",
+      "mtime": "1666332826",
+      "size": "274964",
+      "md5": "f8d2544e8e33688fe9dba5661d316ac9",
+      "crc32": "961fee2e",
+      "sha1": "595781de15e36e4a588cbf3ff0cf22446fc1d6cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fdlreporter-2022-10-21T01:13:42.162060-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666332832",
+      "size": "1504",
+      "md5": "498ec28d94437969d910db2b21497be2",
+      "crc32": "09fa9e38",
+      "sha1": "9be344c4e4f542d0b7190666f422bb4092827a95",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-21T01:13:42.162060-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666332834",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-21T01:13:42.162060-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fdlreporter-2022-10-21T01:13:42.162060-05:00.jpg",
+      "mtime": "1666332887",
+      "size": "9066",
+      "md5": "e6619277d37da48960fb747327450883",
+      "crc32": "4f730e8e",
+      "sha1": "0a35f4beab43605982c9b9348d76f8a8a7cb1d09"
+    },
+    {
       "name": "fdlreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8142e88e0df9dec12d5565614dfd4a672556deb0",
-      "mtime": "1666292385",
-      "size": "79117",
-      "md5": "d095b9d396f147fdf21aa59b517c421b",
-      "crc32": "9a89f707",
-      "sha1": "2ae2ca7ab10517e70c461aa16376bcf0eb0834e9",
+      "btih": "86bb60949ad69610353b1ebd69f59eaf219729e6",
+      "mtime": "1666332891",
+      "size": "80380",
+      "md5": "5bc48903336579d8052e4ea9b832f53f",
+      "crc32": "c424e76f",
+      "sha1": "1b997e733b101c0400a7687d79fd181752fabbf1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fdlreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "401876406829b5c56cac551e7df37e6c",
+      "md5": "e6a814e70dab5ac72930a572067f812a",
       "summation": "md5"
     },
     {
       "name": "fdlreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666292325",
-      "size": "483328",
-      "md5": "4683a020b8c334d9d3be56bd62d2e160",
-      "crc32": "d1c71bf0",
-      "sha1": "586e9549dc41ea0937b95593dea2415e8495a953",
+      "mtime": "1666332836",
+      "size": "495616",
+      "md5": "12f79c94afd594fd80fdb082b74e1593",
+      "crc32": "e384631a",
+      "sha1": "39bfed997d7e500ef2fc246a2c9212ff309ee55e",
       "format": "Metadata"
     },
     {
@@ -3806,9 +3873,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 368,
-  "item_last_updated": 1666292385,
-  "item_size": 25248516,
+  "files_count": 374,
+  "item_last_updated": 1666332891,
+  "item_size": 25602639,
   "metadata": {
     "identifier": "fdlreporter-2022",
     "collection": [
@@ -3825,10 +3892,10 @@
     "publicdate": "2022-09-20 17:49:26",
     "addeddate": "2022-09-20 17:49:26"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 639527868,
+  "server": "ia801501.us.archive.org",
+  "uniq": 560858660,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }
