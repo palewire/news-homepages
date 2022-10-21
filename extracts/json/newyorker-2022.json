@@ -1,5 +1,5 @@
 {
-  "created": 1666318990,
+  "created": 1666370255,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -13768,31 +13768,93 @@
       "sha1": "9451ff78db3493cab75a50e1b0f1dfdffb76c070"
     },
     {
+      "name": "newyorker-2022-10-21T11:12:49.990320-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666365193",
+      "size": "47889",
+      "md5": "cfa577a9b7ed0d8e84cf76cfb95be282",
+      "crc32": "3c87ad12",
+      "sha1": "a7b819642bdd871671ca0f8c3eef09fb1f8f3bf9",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-21T11:12:49.990320-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666365195",
+      "size": "26293",
+      "md5": "4f0d5505478384b855383ae247b8c852",
+      "crc32": "48c376b6",
+      "sha1": "8c12e7f69b2dcfe727916f5019cdd3c1b3f90cf5",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-21T11:12:49.990320-04:00.jpg",
+      "source": "original",
+      "mtime": "1666365191",
+      "size": "327759",
+      "md5": "00c668fe44c64bf31043f3a5ac346473",
+      "crc32": "a8091722",
+      "sha1": "591d42d112e4fc433b55dd2b86970ded18cb041e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-10-21T11:12:49.990320-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666365196",
+      "size": "1477",
+      "md5": "565c3302096397b37cebc24f24ef880b",
+      "crc32": "35ddd1b7",
+      "sha1": "78d04b62ce2bd1f4841748d3d6e0735204fb46c4",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-21T11:12:49.990320-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666365199",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-21T11:12:49.990320-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-10-21T11:12:49.990320-04:00.jpg",
+      "mtime": "1666365285",
+      "size": "9657",
+      "md5": "ba8886e75976b52eefa06e5c45e24b40",
+      "crc32": "86dd4acd",
+      "sha1": "251faad0a36b841436bfc17d3948ed167b30608a"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80b80eafa239e7fb744917aeb217e5d234ff499a",
-      "mtime": "1666318969",
-      "size": "281906",
-      "md5": "5449b67a4a1a7f7b115e36626b3d1d1f",
-      "crc32": "e57fbdb6",
-      "sha1": "af0cafbffb9052c9790005c68101f0e769cc0934",
+      "btih": "b5540e53d4c00d8a4376f08ee33c489980c9bc1e",
+      "mtime": "1666365323",
+      "size": "283157",
+      "md5": "130f0b63b2b032f8d3b402ac9e94284a",
+      "crc32": "6fb67aa2",
+      "sha1": "0d436baa1a6b244082bdad1c343c108f4908bf94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e5ebace12acf70bf00d352f6430ebc4b",
+      "md5": "98deaaf840e1d335529ed72491b17a5f",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666318872",
-      "size": "1650688",
-      "md5": "62d1edb149c5033161d21757e1752b25",
-      "crc32": "5047c7a6",
-      "sha1": "9ee39a05b8cc3dda43fc4794c24031b25062e9a4",
+      "mtime": "1666365203",
+      "size": "1658880",
+      "md5": "179a3dd3a153ead58e29992f54adf69a",
+      "crc32": "617fdb33",
+      "sha1": "8dfa374f43f060bb8c9be0f59365feaf827544ed",
       "format": "Metadata"
     },
     {
@@ -13806,9 +13868,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1330,
-  "item_last_updated": 1666318969,
-  "item_size": 101520510,
+  "files_count": 1336,
+  "item_last_updated": 1666365323,
+  "item_size": 101943230,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -13825,10 +13887,15 @@
     "publicdate": "2022-06-24 22:58:35",
     "addeddate": "2022-06-24 22:58:35"
   },
+  "newyorker-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia801503.us.archive.org",
-  "servers_unavailable": true,
-  "uniq": 207362904,
+  "uniq": 294282113,
   "workable_servers": [
-    "ia801503.us.archive.org"
+    "ia801503.us.archive.org",
+    "ia601503.us.archive.org"
   ]
 }

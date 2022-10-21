@@ -1,5 +1,5 @@
 {
-  "created": 1666318988,
+  "created": 1666370426,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/0/items/patriotledger-2022",
@@ -3788,31 +3788,93 @@
       "sha1": "a0e5bb300dd7a6ed8d5e98de7067110412901d6e"
     },
     {
+      "name": "patriotledger-2022-10-21T11:15:26.347408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666365333",
+      "size": "22619",
+      "md5": "de32f541fe179f0ec7703983e8049ceb",
+      "crc32": "6fa9512d",
+      "sha1": "eb0a63db158d56e7c6faa1a4fa4427131874e10a",
+      "format": "JSON"
+    },
+    {
+      "name": "patriotledger-2022-10-21T11:15:26.347408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666365334",
+      "size": "34527",
+      "md5": "87728be2d843ca36dbcbb64407195527",
+      "crc32": "2f99cfa6",
+      "sha1": "7284918e8e543e13d990dc60edeacfdfda050b46",
+      "format": "JSON"
+    },
+    {
+      "name": "patriotledger-2022-10-21T11:15:26.347408-04:00.jpg",
+      "source": "original",
+      "mtime": "1666365331",
+      "size": "250506",
+      "md5": "4bb79beeb4fd8b1731c29531021637f0",
+      "crc32": "4d9fd5c9",
+      "sha1": "19082a6da587e7b660a03be0c274c7f5a465a611",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "patriotledger-2022-10-21T11:15:26.347408-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666365336",
+      "size": "1522",
+      "md5": "57ee9c1e1147d0f4c9969a59ca22820d",
+      "crc32": "b862ca77",
+      "sha1": "e239ad5f46586364aa46aa7b3b5562c56a611bb1",
+      "format": "JSON"
+    },
+    {
+      "name": "patriotledger-2022-10-21T11:15:26.347408-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666365338",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "patriotledger-2022-10-21T11:15:26.347408-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "patriotledger-2022-10-21T11:15:26.347408-04:00.jpg",
+      "mtime": "1666365425",
+      "size": "9046",
+      "md5": "93023cd12636c44e732aeced14ec6e17",
+      "crc32": "a201b3c0",
+      "sha1": "3f6a5982373019da20e12cacd69fb2b26ce94aa6"
+    },
+    {
       "name": "patriotledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10356e265419cd99edf5f7c10194ef8f66c4aa63",
-      "mtime": "1666318973",
-      "size": "80201",
-      "md5": "235c5cdcce4f5cacddf77008e8b4062b",
-      "crc32": "9c7a7a6d",
-      "sha1": "787709f1b501f0caab7733ad06a82ec641624387",
+      "btih": "2dce593c9ed13c8080b52f0dc7bac1f5056a113f",
+      "mtime": "1666365432",
+      "size": "81496",
+      "md5": "913c443b6872defac89d53a7a4ad1c51",
+      "crc32": "f04f0dac",
+      "sha1": "6549d283541504dece68ad3ef4ee57b3d7053df9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "patriotledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "686392c80b29ece3a40766d1d7c0acc9",
+      "md5": "68a908d2e6c64a658d43ffda5cb8e57d",
       "summation": "md5"
     },
     {
       "name": "patriotledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666318902",
-      "size": "491520",
-      "md5": "f2ea1fb26fcb1361827536df0a6d4284",
-      "crc32": "1d2a4684",
-      "sha1": "57a79c089c7f9edd81bf3202420486ff9d033cf8",
+      "mtime": "1666365343",
+      "size": "495616",
+      "md5": "22c4f2ceb5c6edbd0ac247736de80eaf",
+      "crc32": "4f447bd3",
+      "sha1": "f814ee6fe075587f34193ea9c9930fc9e2dc8e2d",
       "format": "Metadata"
     },
     {
@@ -3826,9 +3888,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 370,
-  "item_last_updated": 1666318973,
-  "item_size": 24012287,
+  "files_count": 376,
+  "item_last_updated": 1666365432,
+  "item_size": 24336100,
   "metadata": {
     "identifier": "patriotledger-2022",
     "collection": [
@@ -3845,10 +3907,15 @@
     "publicdate": "2022-09-21 02:22:30",
     "addeddate": "2022-09-21 02:22:30"
   },
-  "server": "ia601404.us.archive.org",
-  "uniq": 609614168,
+  "patriotledger-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801404.us.archive.org",
+  "uniq": 1978820491,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia801404.us.archive.org",
+    "ia601404.us.archive.org"
   ]
 }

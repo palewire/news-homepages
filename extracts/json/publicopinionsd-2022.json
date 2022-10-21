@@ -1,5 +1,5 @@
 {
-  "created": 1666319104,
+  "created": 1666365550,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/28/items/publicopinionsd-2022",
@@ -3798,31 +3798,93 @@
       "sha1": "daf6571233f00e48f2efa0af2d71027929c6707d"
     },
     {
+      "name": "publicopinionsd-2022-10-21T10:16:53.319101-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666365421",
+      "size": "22083",
+      "md5": "798b48017dd614e2d9f1e41e3a621707",
+      "crc32": "b4c9ed58",
+      "sha1": "12ddbf7d8d1f6fca9e7cec7ccc923cbed08c3029",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-21T10:16:53.319101-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666365422",
+      "size": "33567",
+      "md5": "03806e9c5da9dd8a32d7cbaf32370598",
+      "crc32": "aab186b7",
+      "sha1": "f51ea55251f246d2fa8a31a3d40505c6a50892e8",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-21T10:16:53.319101-05:00.jpg",
+      "source": "original",
+      "mtime": "1666365419",
+      "size": "243540",
+      "md5": "c826cb051a4a6086c2d21e7f51928a92",
+      "crc32": "cef6b692",
+      "sha1": "61a8276eed40d7bef3c49cfbbc305d384155e7ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-21T10:16:53.319101-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666365424",
+      "size": "1549",
+      "md5": "db51780f102301d9e3a34abadddf18e3",
+      "crc32": "415918ba",
+      "sha1": "a36cdcc52638cf0895e2b40ccdce2e3c771cd831",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-21T10:16:53.319101-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666365426",
+      "size": "86298",
+      "md5": "653421a41776f39b28497f894867d50c",
+      "crc32": "427dfd11",
+      "sha1": "3d18f44523a13469ce18f61ca376dfcacd2809e9",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-21T10:16:53.319101-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-21T10:16:53.319101-05:00.jpg",
+      "mtime": "1666365494",
+      "size": "9275",
+      "md5": "f5ad5bfd65379ceaabfc54e8cebdb87d",
+      "crc32": "6613c9e9",
+      "sha1": "dea852971ba7d8ac10139c671ea201c797118f1b"
+    },
+    {
       "name": "publicopinionsd-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2fdb603915df423100c2b8a2348ac559ee75dca7",
-      "mtime": "1666319092",
-      "size": "81120",
-      "md5": "e1a5add11f03edc6eea4b459f2852b59",
-      "crc32": "001a5ed1",
-      "sha1": "ef65ca171211fbbfb6e66595572a8daaf2764fde",
+      "btih": "06c43aab98f83d8694b7d760d17a371782c25279",
+      "mtime": "1666365502",
+      "size": "82429",
+      "md5": "600203f0a03fff68db135ce6dafcd3ab",
+      "crc32": "19387421",
+      "sha1": "6d3bbb2fc0ba3be3e410f2b126ac504a59199156",
       "format": "Archive BitTorrent"
     },
     {
       "name": "publicopinionsd-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55802c343483550f3f6d6d8ce4a6de71",
+      "md5": "9cd5f31bbb452fe3e1e1557281d86e0b",
       "summation": "md5"
     },
     {
       "name": "publicopinionsd-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666319042",
-      "size": "491520",
-      "md5": "dbea8f450ed6efba950d845a59df5ea9",
-      "crc32": "fc03f9fb",
-      "sha1": "a9d5a97f1470da93a0180049eb0b6b4cc30aed0d",
+      "mtime": "1666365431",
+      "size": "499712",
+      "md5": "976ddc809e2c8ef9b5f801abb5941b7e",
+      "crc32": "54143988",
+      "sha1": "9c450cba8ef2e7171233e795af30a6c69868f416",
       "format": "Metadata"
     },
     {
@@ -3836,9 +3898,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 371,
-  "item_last_updated": 1666319092,
-  "item_size": 22976599,
+  "files_count": 377,
+  "item_last_updated": 1666365502,
+  "item_size": 23382412,
   "metadata": {
     "identifier": "publicopinionsd-2022",
     "collection": [
@@ -3855,10 +3917,10 @@
     "publicdate": "2022-09-21 02:22:50",
     "addeddate": "2022-09-21 02:22:50"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 241379441,
+  "server": "ia601501.us.archive.org",
+  "uniq": 1334086945,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }
