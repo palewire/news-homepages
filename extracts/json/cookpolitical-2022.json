@@ -1,5 +1,6 @@
 {
-  "created": 1665618791,
+  "conflict": 1666224532,
+  "created": 1666224532,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/0/items/cookpolitical-2022",
@@ -11666,31 +11667,889 @@
       "sha1": "c146ee4eb1edb890b38ad8872c617c640ff197c0"
     },
     {
+      "name": "cookpolitical-2022-10-13T07:48:15.780699-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665661699",
+      "size": "11645",
+      "md5": "ae0e83bd0aa3a69b79dfd0c5dd83b329",
+      "crc32": "8493e85b",
+      "sha1": "baeb8fc90e5025081f3fb563e82422ce9b9dbbd5",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T07:48:15.780699-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665661701",
+      "size": "9283",
+      "md5": "bc15332d58cfb299016ef0841d8a1577",
+      "crc32": "898bfb56",
+      "sha1": "1d1827cfbc68ce22d61584173ab5c1391d372d6d",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T07:48:15.780699-04:00.jpg",
+      "source": "original",
+      "mtime": "1665661697",
+      "size": "277237",
+      "md5": "6d13a2c343c572a32a1e40b2356913eb",
+      "crc32": "7d21b438",
+      "sha1": "6d3c76361d09073d7a86716541dd83daf03823d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T07:48:15.780699-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665661702",
+      "size": "1513",
+      "md5": "a9ce7ed2a0c23dd2f49239d1a4eaa867",
+      "crc32": "768ccd13",
+      "sha1": "ef0fdbb4979818a9fad4994ff127e3815a093d8d",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T07:48:15.780699-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665661705",
+      "size": "8620",
+      "md5": "7b98bf9ff92585b2c56638adadb2bbf6",
+      "crc32": "ec2bd7ed",
+      "sha1": "7adc43b2ecad11ea766dd1632fceb57e3ec5d2cf",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T07:48:15.780699-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-13T07:48:15.780699-04:00.jpg",
+      "mtime": "1665661767",
+      "size": "10734",
+      "md5": "cbce0165d273fd70876d6d26a9007980",
+      "crc32": "4d549476",
+      "sha1": "c146ee4eb1edb890b38ad8872c617c640ff197c0"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T19:56:52.652374-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665705420",
+      "size": "11599",
+      "md5": "756eed3a8cc0058bb40061018054f11f",
+      "crc32": "141e24bd",
+      "sha1": "9f73f4bdecb903a080904f02938dc362624b60e4",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T19:56:52.652374-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665705422",
+      "size": "9303",
+      "md5": "1dd3cba1eb4eed40d217bf0218c08f01",
+      "crc32": "fa214ef8",
+      "sha1": "34aecfa88aabcd038a62fcf19704a642c043a861",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T19:56:52.652374-04:00.jpg",
+      "source": "original",
+      "mtime": "1665705414",
+      "size": "287813",
+      "md5": "805ee4c538eff6fa72ee346228eca806",
+      "crc32": "943a5dd0",
+      "sha1": "11784b266ef120e188f3bd7ff2c25a3b2a221d1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T19:56:52.652374-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665705423",
+      "size": "1521",
+      "md5": "cc7fb2bcd0ec884ce4e1f73673df24ad",
+      "crc32": "7d07ee02",
+      "sha1": "520aed67d648612d4b64a80f6e988ff162c66fd1",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T19:56:52.652374-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665705425",
+      "size": "7832",
+      "md5": "7dfe71f95637d0085a72fcd30c2183cf",
+      "crc32": "f3859d74",
+      "sha1": "1eebc167b80ea3a719a6c5cc6d080a502122ff07",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-13T19:56:52.652374-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-13T19:56:52.652374-04:00.jpg",
+      "mtime": "1665705522",
+      "size": "10879",
+      "md5": "bd7adf0a361bbbf22135e77c738678ff",
+      "crc32": "f107d790",
+      "sha1": "fd5ce4f591f69c497b6692ca1545185907e07e59"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T07:57:54.485454-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665748677",
+      "size": "11584",
+      "md5": "26f8a41d48622dde6d65979a093676cc",
+      "crc32": "1bc25330",
+      "sha1": "8d1e135869620c3895a0fda85bc62612b89da9d8",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T07:57:54.485454-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665748679",
+      "size": "9283",
+      "md5": "0e9565ed3fb0cc2bde2ac6a219ce9d5d",
+      "crc32": "d7acf85c",
+      "sha1": "b8ab56c1f70cfe9fcaae0d2bbeadc21c9ebf6247",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T07:57:54.485454-04:00.jpg",
+      "source": "original",
+      "mtime": "1665748676",
+      "size": "293228",
+      "md5": "16afa251fd1acd454fa4748670b9c270",
+      "crc32": "a7802276",
+      "sha1": "b8ea8e31662209024a98523573733e24d369d2e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T07:57:54.485454-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665748681",
+      "size": "1522",
+      "md5": "41b5c18151862f59b5c9804b31dc7abf",
+      "crc32": "95f7265c",
+      "sha1": "c32aa04ca74cc7c393da0049d658f4fa60350b03",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T07:57:54.485454-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665748682",
+      "size": "8652",
+      "md5": "f19935be093750d9ebf7097f514154e2",
+      "crc32": "90d8e08b",
+      "sha1": "8ffa2f5b784159383fc14b82580652d37e07cda4",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T07:57:54.485454-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-14T07:57:54.485454-04:00.jpg",
+      "mtime": "1665748757",
+      "size": "10450",
+      "md5": "60ab7446b5372ac0fd424298142b466e",
+      "crc32": "9ea3d6e2",
+      "sha1": "0c8cdce6790b93e54233096a46b4934b3150efe5"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T20:06:34.520242-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665792409",
+      "size": "11842",
+      "md5": "cf71ed3bcc02da8d24288aba0a6cc655",
+      "crc32": "3e3c2059",
+      "sha1": "76fc8c827b3f624329e0f9009aacbaaa31034c17",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T20:06:34.520242-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665792411",
+      "size": "9386",
+      "md5": "ab2b7e3d9a241185171d208988dd13ab",
+      "crc32": "3bdfb25d",
+      "sha1": "0b66120b9c35728f2b4ab887d35d8e6dc00baa69",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T20:06:34.520242-04:00.jpg",
+      "source": "original",
+      "mtime": "1665792407",
+      "size": "249070",
+      "md5": "924c288f2d7012f51d0342bcc9df7ce3",
+      "crc32": "8fb22866",
+      "sha1": "9f5608e332e961272cc56a8297eddca2f58095ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T20:06:34.520242-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665792412",
+      "size": "1522",
+      "md5": "acb9db2dfa945e7111d9f4c5b462823e",
+      "crc32": "eb60dec3",
+      "sha1": "b25aa470c2a5d5e8fff1422fc7c916855f9199d2",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T20:06:34.520242-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665792414",
+      "size": "8664",
+      "md5": "55f2e76f84469278d5acbe582bc270a7",
+      "crc32": "01f34512",
+      "sha1": "5eace933abd75c81d3b560fce6726a9dadba4bcd",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-14T20:06:34.520242-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-14T20:06:34.520242-04:00.jpg",
+      "mtime": "1665792488",
+      "size": "10565",
+      "md5": "8a799c8206056203a9a9453d77c3a698",
+      "crc32": "b5413f74",
+      "sha1": "a20a97ceb689bcf5ea8bf91da82ed5ebd7fcae83"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T07:56:43.485887-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665835018",
+      "size": "11842",
+      "md5": "cf71ed3bcc02da8d24288aba0a6cc655",
+      "crc32": "3e3c2059",
+      "sha1": "76fc8c827b3f624329e0f9009aacbaaa31034c17",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T07:56:43.485887-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665835020",
+      "size": "9386",
+      "md5": "ab2b7e3d9a241185171d208988dd13ab",
+      "crc32": "3bdfb25d",
+      "sha1": "0b66120b9c35728f2b4ab887d35d8e6dc00baa69",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T07:56:43.485887-04:00.jpg",
+      "source": "original",
+      "mtime": "1665835016",
+      "size": "249070",
+      "md5": "924c288f2d7012f51d0342bcc9df7ce3",
+      "crc32": "8fb22866",
+      "sha1": "9f5608e332e961272cc56a8297eddca2f58095ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T07:56:43.485887-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665835021",
+      "size": "1522",
+      "md5": "bf69d2f97c1da275dd13a4ca6494abd6",
+      "crc32": "453851f3",
+      "sha1": "b1aca70ab78cb3b902dd3a5ed47ceee32c84e32f",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T07:56:43.485887-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665835023",
+      "size": "210",
+      "md5": "0011ad6273e6b954842a5e146b56a64e",
+      "crc32": "273b15f4",
+      "sha1": "17ff215e36db1cf3b24ab91c0970e7b00dc3b29e",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T07:56:43.485887-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-15T07:56:43.485887-04:00.jpg",
+      "mtime": "1665835103",
+      "size": "10565",
+      "md5": "8a799c8206056203a9a9453d77c3a698",
+      "crc32": "b5413f74",
+      "sha1": "a20a97ceb689bcf5ea8bf91da82ed5ebd7fcae83"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T20:03:32.499588-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665878616",
+      "size": "11842",
+      "md5": "cf71ed3bcc02da8d24288aba0a6cc655",
+      "crc32": "3e3c2059",
+      "sha1": "76fc8c827b3f624329e0f9009aacbaaa31034c17",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T20:03:32.499588-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665878618",
+      "size": "9386",
+      "md5": "ab2b7e3d9a241185171d208988dd13ab",
+      "crc32": "3bdfb25d",
+      "sha1": "0b66120b9c35728f2b4ab887d35d8e6dc00baa69",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T20:03:32.499588-04:00.jpg",
+      "source": "original",
+      "mtime": "1665878614",
+      "size": "249070",
+      "md5": "924c288f2d7012f51d0342bcc9df7ce3",
+      "crc32": "8fb22866",
+      "sha1": "9f5608e332e961272cc56a8297eddca2f58095ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T20:03:32.499588-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665878620",
+      "size": "1522",
+      "md5": "bc921717221c8ab0e6456905a9c38310",
+      "crc32": "58bdcd32",
+      "sha1": "21c80cc19993bbae428a7038746de0d1648bddd7",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T20:03:32.499588-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665878622",
+      "size": "8670",
+      "md5": "73abaf2883b5bbe59ea6eaf8dcfa653b",
+      "crc32": "64e42dd5",
+      "sha1": "28e9ea53cf61fed6595bd740fe42d116dd6c6fac",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-15T20:03:32.499588-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-15T20:03:32.499588-04:00.jpg",
+      "mtime": "1665878696",
+      "size": "10565",
+      "md5": "8a799c8206056203a9a9453d77c3a698",
+      "crc32": "b5413f74",
+      "sha1": "a20a97ceb689bcf5ea8bf91da82ed5ebd7fcae83"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T07:52:13.954357-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665921144",
+      "size": "11778",
+      "md5": "5ec02a49292a3d651a73454adf0d5890",
+      "crc32": "03d0bec0",
+      "sha1": "08a17c9232028ec4b07226b060b15b03a831eef1",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T07:52:13.954357-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665921147",
+      "size": "9301",
+      "md5": "c15947ac674ed9cb0a6e14f18bf9eb36",
+      "crc32": "902f8b36",
+      "sha1": "8a20157c07c952c5d4aafff7260380ed3106fd69",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T07:52:13.954357-04:00.jpg",
+      "source": "original",
+      "mtime": "1665921140",
+      "size": "249070",
+      "md5": "924c288f2d7012f51d0342bcc9df7ce3",
+      "crc32": "8fb22866",
+      "sha1": "9f5608e332e961272cc56a8297eddca2f58095ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T07:52:13.954357-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665921150",
+      "size": "1521",
+      "md5": "3be0acac8da4152dc3303893a88aef71",
+      "crc32": "3cd77bb7",
+      "sha1": "1e69214ef5737ce76299e028f40486a436c2f385",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T07:52:13.954357-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665921151",
+      "size": "8815",
+      "md5": "e504c178ebdadca2196bad6c7883367a",
+      "crc32": "388a639f",
+      "sha1": "9885e76cce04e3e7fc1c2f7be581a035f10c1156",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T07:52:13.954357-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-16T07:52:13.954357-04:00.jpg",
+      "mtime": "1665921219",
+      "size": "10565",
+      "md5": "8a799c8206056203a9a9453d77c3a698",
+      "crc32": "b5413f74",
+      "sha1": "a20a97ceb689bcf5ea8bf91da82ed5ebd7fcae83"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T19:55:21.899621-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665964529",
+      "size": "11778",
+      "md5": "5ec02a49292a3d651a73454adf0d5890",
+      "crc32": "03d0bec0",
+      "sha1": "08a17c9232028ec4b07226b060b15b03a831eef1",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T19:55:21.899621-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665964530",
+      "size": "9301",
+      "md5": "c15947ac674ed9cb0a6e14f18bf9eb36",
+      "crc32": "902f8b36",
+      "sha1": "8a20157c07c952c5d4aafff7260380ed3106fd69",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T19:55:21.899621-04:00.jpg",
+      "source": "original",
+      "mtime": "1665964527",
+      "size": "249070",
+      "md5": "924c288f2d7012f51d0342bcc9df7ce3",
+      "crc32": "8fb22866",
+      "sha1": "9f5608e332e961272cc56a8297eddca2f58095ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T19:55:21.899621-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665964532",
+      "size": "1522",
+      "md5": "502e79db4162390a4d7956416b8650a5",
+      "crc32": "61568501",
+      "sha1": "8db424a6e8de0736f274a67bcf017b3300f258ef",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T19:55:21.899621-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665964533",
+      "size": "8547",
+      "md5": "2529b6d2fc6da39681f23f9279cb3267",
+      "crc32": "5cff16cb",
+      "sha1": "9d3c70e68042afede4fc13474db615b86b742953",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-16T19:55:21.899621-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-16T19:55:21.899621-04:00.jpg",
+      "mtime": "1665964603",
+      "size": "10565",
+      "md5": "8a799c8206056203a9a9453d77c3a698",
+      "crc32": "b5413f74",
+      "sha1": "a20a97ceb689bcf5ea8bf91da82ed5ebd7fcae83"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T07:51:24.615515-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666007492",
+      "size": "11778",
+      "md5": "5ec02a49292a3d651a73454adf0d5890",
+      "crc32": "03d0bec0",
+      "sha1": "08a17c9232028ec4b07226b060b15b03a831eef1",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T07:51:24.615515-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666007494",
+      "size": "9301",
+      "md5": "c15947ac674ed9cb0a6e14f18bf9eb36",
+      "crc32": "902f8b36",
+      "sha1": "8a20157c07c952c5d4aafff7260380ed3106fd69",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T07:51:24.615515-04:00.jpg",
+      "source": "original",
+      "mtime": "1666007490",
+      "size": "249070",
+      "md5": "924c288f2d7012f51d0342bcc9df7ce3",
+      "crc32": "8fb22866",
+      "sha1": "9f5608e332e961272cc56a8297eddca2f58095ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T07:51:24.615515-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666007496",
+      "size": "1522",
+      "md5": "4c09b545529b0854a351944beab2a263",
+      "crc32": "a0fe182c",
+      "sha1": "76b50fa7c02fc97f6b73ca7ad8983eb9614d354a",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T07:51:24.615515-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666007498",
+      "size": "8900",
+      "md5": "da4b2921f9636ed50f690cff20d4660c",
+      "crc32": "dd68c0fd",
+      "sha1": "958312e9374a4609c4a5c7914a722f46c29d5840",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T07:51:24.615515-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-17T07:51:24.615515-04:00.jpg",
+      "mtime": "1666007575",
+      "size": "10565",
+      "md5": "8a799c8206056203a9a9453d77c3a698",
+      "crc32": "b5413f74",
+      "sha1": "a20a97ceb689bcf5ea8bf91da82ed5ebd7fcae83"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T19:49:30.295491-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666050575",
+      "size": "11809",
+      "md5": "42a16b2367a3b3d6c539392b51b6c782",
+      "crc32": "f4b88836",
+      "sha1": "4a78570ad156125d7345fe1bc8f8e8cb8bdce17a",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T19:49:30.295491-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666050577",
+      "size": "9380",
+      "md5": "efa274fbdf4d6bf8146bc4be5661ff3a",
+      "crc32": "a9511fae",
+      "sha1": "bc4c9a4a84e95268b9a40f3787fa108a64d3756d",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T19:49:30.295491-04:00.jpg",
+      "source": "original",
+      "mtime": "1666050574",
+      "size": "228437",
+      "md5": "68d1483cb8e7a748854c707149867873",
+      "crc32": "62a30573",
+      "sha1": "ef8365e343d4bf609274747c3391b229891c3659",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T19:49:30.295491-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666050578",
+      "size": "8666",
+      "md5": "cb3007a674559ba3d523f49627682d39",
+      "crc32": "f74b6f6e",
+      "sha1": "8e71690a631ec05dc28e13dc3a03da320ccf5468",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-17T19:49:30.295491-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-17T19:49:30.295491-04:00.jpg",
+      "mtime": "1666050642",
+      "size": "10272",
+      "md5": "2135ffea95d61abcad9989d8fc0bf765",
+      "crc32": "fafb01f5",
+      "sha1": "62db835a70940f023bcaf4091f9f8bbb96c5592e"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T07:56:22.804855-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666094187",
+      "size": "11817",
+      "md5": "20342846defbf7c3873c5500cdc64d0d",
+      "crc32": "d2c7a451",
+      "sha1": "cf8b9e29af734572a54b5730c5e8acfee26111bf",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T07:56:22.804855-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666094189",
+      "size": "9380",
+      "md5": "efa274fbdf4d6bf8146bc4be5661ff3a",
+      "crc32": "a9511fae",
+      "sha1": "bc4c9a4a84e95268b9a40f3787fa108a64d3756d",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T07:56:22.804855-04:00.jpg",
+      "source": "original",
+      "mtime": "1666094184",
+      "size": "228437",
+      "md5": "68d1483cb8e7a748854c707149867873",
+      "crc32": "62a30573",
+      "sha1": "ef8365e343d4bf609274747c3391b229891c3659",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T07:56:22.804855-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666094193",
+      "size": "1522",
+      "md5": "ae461de46b0fee8a6111c4cb2234507f",
+      "crc32": "e2ebea53",
+      "sha1": "4ef7508fb281e74f7d2b2eccef35445caa73d6b0",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T07:56:22.804855-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666094195",
+      "size": "8666",
+      "md5": "1868c571aca1cc119fed8165df9fa082",
+      "crc32": "f0d83850",
+      "sha1": "9d64ade08d7a05d5ad7985fba755a7af53b17f27",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T07:56:22.804855-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-18T07:56:22.804855-04:00.jpg",
+      "mtime": "1666094286",
+      "size": "10272",
+      "md5": "2135ffea95d61abcad9989d8fc0bf765",
+      "crc32": "fafb01f5",
+      "sha1": "62db835a70940f023bcaf4091f9f8bbb96c5592e"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T20:17:42.912534-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138672",
+      "size": "11772",
+      "md5": "7e17c5f42b8c09eee1a64be47ce0ace9",
+      "crc32": "d963c35f",
+      "sha1": "76ed965a1299096da61afd0d6f26e61edf0b29e0",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T20:17:42.912534-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138673",
+      "size": "9343",
+      "md5": "220b7d2ef62e3e3093523e3cff9959fc",
+      "crc32": "f642bf1c",
+      "sha1": "c1901550295e09740b33340e78b84cf612439cca",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T20:17:42.912534-04:00.jpg",
+      "source": "original",
+      "mtime": "1666138670",
+      "size": "271836",
+      "md5": "936d0cd42fe029f2a395b6fbe47e8b6e",
+      "crc32": "5ccd0bb5",
+      "sha1": "750ccf6ddb1e36a18235049d4dc0eb25fbbc3bb7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T20:17:42.912534-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138675",
+      "size": "1522",
+      "md5": "21c96176e47785c781c04bb6a8b07a98",
+      "crc32": "7e4359a0",
+      "sha1": "a5d7465170ee7664e3521f73d1d8a8c342365127",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T20:17:42.912534-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138678",
+      "size": "210",
+      "md5": "0011ad6273e6b954842a5e146b56a64e",
+      "crc32": "273b15f4",
+      "sha1": "17ff215e36db1cf3b24ab91c0970e7b00dc3b29e",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-18T20:17:42.912534-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-18T20:17:42.912534-04:00.jpg",
+      "mtime": "1666162357",
+      "size": "11315",
+      "md5": "d9116d94c52c57a725e63200a95f2524",
+      "crc32": "a4af9f1c",
+      "sha1": "e9f0f26b2ef60628ad4f75cc1f519735debc9087"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T07:59:19.327469-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666180763",
+      "size": "11772",
+      "md5": "7e17c5f42b8c09eee1a64be47ce0ace9",
+      "crc32": "d963c35f",
+      "sha1": "76ed965a1299096da61afd0d6f26e61edf0b29e0",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T07:59:19.327469-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666180765",
+      "size": "9343",
+      "md5": "220b7d2ef62e3e3093523e3cff9959fc",
+      "crc32": "f642bf1c",
+      "sha1": "c1901550295e09740b33340e78b84cf612439cca",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T07:59:19.327469-04:00.jpg",
+      "source": "original",
+      "mtime": "1666180761",
+      "size": "271836",
+      "md5": "936d0cd42fe029f2a395b6fbe47e8b6e",
+      "crc32": "5ccd0bb5",
+      "sha1": "750ccf6ddb1e36a18235049d4dc0eb25fbbc3bb7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T07:59:19.327469-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666180766",
+      "size": "1522",
+      "md5": "5388957e195a7a6b34e2fc90e5e3e90d",
+      "crc32": "d6f1992a",
+      "sha1": "dbf3e7586e51f7cec5e7359fc9bc577ecf1d8e22",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T07:59:19.327469-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666180768",
+      "size": "8634",
+      "md5": "0520a4a990434fe2abb235c604b9a81c",
+      "crc32": "0d50a47b",
+      "sha1": "10168679917f5cfefc8d90666eec275e683ba4bc",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T07:59:19.327469-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-19T07:59:19.327469-04:00.jpg",
+      "mtime": "1666198934",
+      "size": "11315",
+      "md5": "d9116d94c52c57a725e63200a95f2524",
+      "crc32": "a4af9f1c",
+      "sha1": "e9f0f26b2ef60628ad4f75cc1f519735debc9087"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T20:06:19.116771-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224384",
+      "size": "12233",
+      "md5": "a2ccdcd685e3b197025336dda2d05bc1",
+      "crc32": "f4c9aacb",
+      "sha1": "39f2e68e904d65dcd5d0ddfbdaae17799b763c21",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T20:06:19.116771-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224385",
+      "size": "9383",
+      "md5": "163055a9cf2d1a11f5e7f8b1f22ad790",
+      "crc32": "94e48c1e",
+      "sha1": "48bf4eb52ccecb88b8fb7d3e1f41ba8dfb124eeb",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T20:06:19.116771-04:00.jpg",
+      "source": "original",
+      "mtime": "1666224383",
+      "size": "293466",
+      "md5": "576d59d7d63e2405137c733c7f96e716",
+      "crc32": "f3e32a4d",
+      "sha1": "c326c7e9cd1cdc0c4c849e7690a40526dce785d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T20:06:19.116771-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224387",
+      "size": "1522",
+      "md5": "7add2518652e6aa65e62767dd7d8b77e",
+      "crc32": "f16537a1",
+      "sha1": "f56febaf857f8a3e081b5f6484f0460c34fc1605",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T20:06:19.116771-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224388",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-19T20:06:19.116771-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-19T20:06:19.116771-04:00.jpg",
+      "mtime": "1666224469",
+      "size": "11164",
+      "md5": "d62f5854280fea9a7fa5fe7bf703b585",
+      "crc32": "441f04ae",
+      "sha1": "96cff9bcaa9cf06f7a3fc92e46119679b4b99c22"
+    },
+    {
       "name": "cookpolitical-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6d2d5893ad5421768cc895f2d658ff81480cf3a",
-      "mtime": "1665618784",
-      "size": "243059",
-      "md5": "745708ca7d48fbb880dcd11873a8d80c",
-      "crc32": "30e8efe7",
-      "sha1": "b389e13259ae58d8bb5199b7403517e5c54f3fb3",
+      "btih": "0b36aa802915f52462687e23941608f1f0dfabdc",
+      "mtime": "1666224489",
+      "size": "260865",
+      "md5": "7f2fef4b4d45ce730ca3d68ab0151b8a",
+      "crc32": "b2526534",
+      "sha1": "6a5809f5868e9d9e0bf20b8c6b26c7b2da806f77",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cookpolitical-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8209db550206874f797aec7f9d995790",
+      "md5": "701f6a009bec0500625f77136c88a463",
       "summation": "md5"
     },
     {
       "name": "cookpolitical-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665618693",
-      "size": "1425408",
-      "md5": "ff08cc0059cb426da952a2d834166676",
-      "crc32": "3f309542",
-      "sha1": "e7e6c8b9dc5322ff02311f1aa9b6fe7b470deeed",
+      "mtime": "1666224394",
+      "size": "1536000",
+      "md5": "4894d664d78a71ee6764c1cf4e538933",
+      "crc32": "ef322b63",
+      "sha1": "f68cba0bdf159f9d71763585f08634c9cca080dd",
       "format": "Metadata"
     },
     {
@@ -11704,9 +12563,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1129,
-  "item_last_updated": 1665618784,
-  "item_size": 64863999,
+  "files_count": 1212,
+  "item_last_updated": 1666224489,
+  "item_size": 69199811,
   "metadata": {
     "identifier": "cookpolitical-2022",
     "collection": [
@@ -11723,10 +12582,21 @@
     "publicdate": "2022-07-04 20:47:01",
     "addeddate": "2022-07-04 20:47:01"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1116517910,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3446062157,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 391661149,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

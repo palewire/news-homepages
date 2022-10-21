@@ -1,5 +1,5 @@
 {
-  "created": 1665670368,
+  "created": 1666188546,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/nbcconnecticut-2022",
@@ -3736,31 +3736,764 @@
       "sha1": "74e8f761591db68f6661d855cd11fde02f8de620"
     },
     {
+      "name": "nbcconnecticut-2022-10-13T22:18:44.647469-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665713930",
+      "size": "44545",
+      "md5": "84b6b3d55b7d170ee236fd8b2b63026a",
+      "crc32": "45f76f38",
+      "sha1": "5a2b4194e2f00ac861588e0fdd8fc51ec8f20fd4",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-13T22:18:44.647469-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665713931",
+      "size": "51722",
+      "md5": "52f6ac1229cdaec8be14ecd45064fa69",
+      "crc32": "6d3d8acb",
+      "sha1": "b81fa062ad8690f8c68b8465eeff71bc4642e094",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-13T22:18:44.647469-04:00.jpg",
+      "source": "original",
+      "mtime": "1665713928",
+      "size": "301349",
+      "md5": "0c7dc5b8103a1be82862b0e2ad81e53d",
+      "crc32": "1a7fc73e",
+      "sha1": "64131e43c48e56ed83c2deaa45446894c1c38683",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-13T22:18:44.647469-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665713933",
+      "size": "1530",
+      "md5": "56279bfe4787e5a59314667998ee656b",
+      "crc32": "c2345536",
+      "sha1": "4c38b36dc7181c8d3609ca083a53a905d2669b3a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-13T22:18:44.647469-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665713935",
+      "size": "135900",
+      "md5": "b47607b64c1c95db58b8c7fa16db5ae7",
+      "crc32": "f5675453",
+      "sha1": "c5594def9e0da5cd183696aa8183ce99fd03e58e",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-13T22:18:44.647469-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-13T22:18:44.647469-04:00.jpg",
+      "mtime": "1665714030",
+      "size": "10370",
+      "md5": "e2d6c71aa1a791d83f39bf932823e9e4",
+      "crc32": "50e1f572",
+      "sha1": "1f4120e678a65db23cbba3dad2e7ca5093ff7b99"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T10:18:10.214631-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665757095",
+      "size": "46535",
+      "md5": "4b70434e5c85f2f6a97323af5fb7fad2",
+      "crc32": "d7d51ec3",
+      "sha1": "f1d00473eae866ac7527a2f9090d7980d7dc4e0f",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T10:18:10.214631-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665757097",
+      "size": "51800",
+      "md5": "aeabff2430d484f2420265b8c19693f5",
+      "crc32": "ef76b41e",
+      "sha1": "51d69e04e76edb57be9fb987afd4476c766887cf",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T10:18:10.214631-04:00.jpg",
+      "source": "original",
+      "mtime": "1665757093",
+      "size": "301787",
+      "md5": "b593f029a07ea04d24506cc9f652e241",
+      "crc32": "e7b9b702",
+      "sha1": "93c97b0102bbc30e64a6a58311860e346bc78ca9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T10:18:10.214631-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665757098",
+      "size": "1531",
+      "md5": "e3a76900558b90953a56f57c21bea44d",
+      "crc32": "80ba79d5",
+      "sha1": "a109dab6586838899a6614a06bd375df4a30768e",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T10:18:10.214631-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665757101",
+      "size": "141885",
+      "md5": "85eb1436238e452b563b1b64a4364dbe",
+      "crc32": "fd352961",
+      "sha1": "288a0a33f23d256e158674c5ce430d9c91516712",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T10:18:10.214631-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-14T10:18:10.214631-04:00.jpg",
+      "mtime": "1665757182",
+      "size": "10267",
+      "md5": "4fe00435cd11dc622c6a1213407d0c1f",
+      "crc32": "e48c1430",
+      "sha1": "91b2842713c274462a504474ff2e623038eb53f8"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665800366",
+      "size": "45467",
+      "md5": "705747b698258a0f71b370951ee6b936",
+      "crc32": "c87e9672",
+      "sha1": "3a481670f863c4998119271c8b57712274226228",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665800367",
+      "size": "50816",
+      "md5": "bcefe374788a722e8e9a909270a1aa23",
+      "crc32": "b1ffb51e",
+      "sha1": "1347d39266d3bff98cf2a44d366b5d1adac36b12",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.jpg",
+      "source": "original",
+      "mtime": "1665800363",
+      "size": "288444",
+      "md5": "de5d77cbfc15013de0210fbee294df4b",
+      "crc32": "c989ca13",
+      "sha1": "bf8f5e332149952740bb89ad1dfbe9db332d466a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665800370",
+      "size": "1529",
+      "md5": "bfe0e4f26694e55b352387c8b533d959",
+      "crc32": "64620d18",
+      "sha1": "26fc0b9a062afe005c60852a3666bf4f87e74835",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665800372",
+      "size": "245112",
+      "md5": "31fdbdf5245c0e142faf9c5a96211f78",
+      "crc32": "6578d3a9",
+      "sha1": "e7cc5bc0823ae62efee5137f0335b49d49fbc998",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-14T22:19:21.835842-04:00.jpg",
+      "mtime": "1665800434",
+      "size": "10080",
+      "md5": "009dec10365ab6cf8e225c572e71a309",
+      "crc32": "8f2a725d",
+      "sha1": "898e0b8818257a8119b50a9e78e553828b8ea67a"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T10:59:20.017258-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665845963",
+      "size": "45251",
+      "md5": "872b6274b7ec48ca39569bcd5d70c6cf",
+      "crc32": "9aec29db",
+      "sha1": "b7efafed8783ca759ddd22e006928aa97bb01a09",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T10:59:20.017258-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665845964",
+      "size": "50899",
+      "md5": "179b403333e4d0f8dabfc0f1609084e7",
+      "crc32": "3ad15910",
+      "sha1": "b3ae33c0f7582c85a0d808077ad681753e31d9e4",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T10:59:20.017258-04:00.jpg",
+      "source": "original",
+      "mtime": "1665845961",
+      "size": "291816",
+      "md5": "b95f805c2b3880b31e8aa5ec54b16eb9",
+      "crc32": "90e73cbf",
+      "sha1": "123b080036ecd2821f8d4f15ae649bcc92fcace2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T10:59:20.017258-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665845966",
+      "size": "1530",
+      "md5": "e79b95a5f6e0a62ee27e065c8fa51302",
+      "crc32": "b4021c58",
+      "sha1": "ba64885bbabbc95fc60fd52a9898651cdee098af",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T10:59:20.017258-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665845967",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T10:59:20.017258-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-15T10:59:20.017258-04:00.jpg",
+      "mtime": "1665846024",
+      "size": "10161",
+      "md5": "aa2b30845683ca11775ca96ff0bbf693",
+      "crc32": "73788531",
+      "sha1": "f9d822a0c9dd54bfae2acdbd8afa00b0772ede55"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T22:39:06.377746-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665887951",
+      "size": "46040",
+      "md5": "3dcb974056911f62d1e5ed60facde303",
+      "crc32": "97a83635",
+      "sha1": "9ff6627a378e8a04a7c5fee12b49c06df1da4590",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T22:39:06.377746-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665887953",
+      "size": "52264",
+      "md5": "8d91dc832ae74488289ea4068cd61c17",
+      "crc32": "53939957",
+      "sha1": "3a8a33086f7a279f6cd49255687be667dd76e8c3",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T22:39:06.377746-04:00.jpg",
+      "source": "original",
+      "mtime": "1665887950",
+      "size": "310836",
+      "md5": "0bf34be55b5397650dd94e1e0539aa27",
+      "crc32": "832a2db5",
+      "sha1": "14d80dd62afb1b7f13b9d2137ec20d0fa9b796f7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T22:39:06.377746-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665887955",
+      "size": "1531",
+      "md5": "cdc291ba0258c4a0096fb3d596badd15",
+      "crc32": "5ca58d05",
+      "sha1": "55901c4f366046941194f1fcb23b01026da2c850",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T22:39:06.377746-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665887956",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-15T22:39:06.377746-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-15T22:39:06.377746-04:00.jpg",
+      "mtime": "1665888017",
+      "size": "10115",
+      "md5": "e9cbe439f5dda89134fa2cc47415bff8",
+      "crc32": "6eeaa828",
+      "sha1": "2003b9466c6bb794b6d53913eabdfd0ec5cfd701"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T10:06:44.774378-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665929207",
+      "size": "45064",
+      "md5": "0a68e783ba70e0618f3d31462990e1c2",
+      "crc32": "49269493",
+      "sha1": "e8d7f115373c9e64448aadc7cff747b041cf4c54",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T10:06:44.774378-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665929209",
+      "size": "51302",
+      "md5": "b22cf4f44de99978a765387aced38934",
+      "crc32": "e385658b",
+      "sha1": "dc1a93e78f7009cd5f2771e9eb5ed962aaff650e",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T10:06:44.774378-04:00.jpg",
+      "source": "original",
+      "mtime": "1665929206",
+      "size": "293886",
+      "md5": "e6a92bcb7e65502312b24102686d5575",
+      "crc32": "8ff7ab98",
+      "sha1": "1c68a60cee26a956466c6af67e8a57d98acfa954",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T10:06:44.774378-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665929210",
+      "size": "1531",
+      "md5": "f6f72faf2101d54a8c46c0d933f2ae26",
+      "crc32": "cbfbec6c",
+      "sha1": "b4060cab14a40b0e90a7f3015a043c0712dd0ce6",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T10:06:44.774378-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665929212",
+      "size": "142594",
+      "md5": "0d558bc23cd99c48f16a266521e788a6",
+      "crc32": "6fc32ba8",
+      "sha1": "0b13a1818385d1a980b4df532c5439c53f4a2672",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T10:06:44.774378-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-16T10:06:44.774378-04:00.jpg",
+      "mtime": "1665929265",
+      "size": "9978",
+      "md5": "b5eb27e88951bf066284635258a2d44e",
+      "crc32": "94b31339",
+      "sha1": "b96c355e278407c29b241a28529e65137083013f"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T22:27:23.392458-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665973645",
+      "size": "43214",
+      "md5": "86ce4e3b73100ab1f42b798675075690",
+      "crc32": "0f9809f0",
+      "sha1": "a99beae6278073bf3002041c48f327b1f55806b8",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T22:27:23.392458-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665973647",
+      "size": "51335",
+      "md5": "d1fee7fca264d2ea851adc53afde794a",
+      "crc32": "8a865502",
+      "sha1": "4b50f0188fee927564ec0a51d8f64d81b4c22e79",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T22:27:23.392458-04:00.jpg",
+      "source": "original",
+      "mtime": "1665973644",
+      "size": "312821",
+      "md5": "0d6c52e5239338ff92bedd9bcb00be35",
+      "crc32": "4c3360c9",
+      "sha1": "7d2b990e9679b61ebb1751a02ac2f88693386c98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T22:27:23.392458-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665973649",
+      "size": "1531",
+      "md5": "bb042c2780d09035c2867eb0bc06f0c1",
+      "crc32": "9f8bb84f",
+      "sha1": "0ee9890c1b2a52b1d27ebee66c170e079ff9d7e0",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T22:27:23.392458-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665973650",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-16T22:27:23.392458-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-16T22:27:23.392458-04:00.jpg",
+      "mtime": "1665973711",
+      "size": "9909",
+      "md5": "0302d6cc94b3ff81de3ad940f1064203",
+      "crc32": "242c4bdf",
+      "sha1": "8a3cb78bc2969482e62ab5bb9ceb4f0b806b469e"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T10:05:25.637012-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666015527",
+      "size": "42247",
+      "md5": "330f9fbe0e2c86b3e6e2e00f72196f8e",
+      "crc32": "40639111",
+      "sha1": "c3a4ff8de3bdbb2eceb4cf7f9a1d5cc50716dd65",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T10:05:25.637012-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666015529",
+      "size": "50096",
+      "md5": "339c0ab947d308ca5ab594ebd2a0beb6",
+      "crc32": "599fe846",
+      "sha1": "cad352aab2f6b884880efd5406ff9db691ce303e",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T10:05:25.637012-04:00.jpg",
+      "source": "original",
+      "mtime": "1666015526",
+      "size": "307391",
+      "md5": "c8a62520ed9d3464d7b3f74e1e4d0889",
+      "crc32": "c90dcd3a",
+      "sha1": "d799f0a325124b76ba9d800f7c3838bb11542517",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T10:05:25.637012-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666015530",
+      "size": "1530",
+      "md5": "9ed313decd7cdf056f9f3b5a1ce42c4d",
+      "crc32": "4b9b3075",
+      "sha1": "9b3e529b8c98e743cd33794a887b31bcd59ca592",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T10:05:25.637012-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666015534",
+      "size": "152756",
+      "md5": "fd04522a3db0bc155f8be8fa4cdfbe07",
+      "crc32": "2e26aa17",
+      "sha1": "23e1bf0aad25590ab7ea3e871de4a2d57699975f",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T10:05:25.637012-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-17T10:05:25.637012-04:00.jpg",
+      "mtime": "1666015598",
+      "size": "9989",
+      "md5": "7516c7aa7a830b9b729cc5ad0cddc8d9",
+      "crc32": "690fff4f",
+      "sha1": "f471b2923b55f34ccb126bbcd7d118882c6d8892"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T22:21:56.318102-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666059727",
+      "size": "44483",
+      "md5": "1161c47e4a0b564dab25fa044db70f60",
+      "crc32": "c3fa457b",
+      "sha1": "3dd13f4d89f338b658518f0baf0a53f3660e600d",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T22:21:56.318102-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666059728",
+      "size": "50379",
+      "md5": "4c7f73cfba7f24b694654da2237e620a",
+      "crc32": "8d0aba05",
+      "sha1": "b6f7db8aaa518c7dc5fe0cc779baaa8e08fb9cf8",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T22:21:56.318102-04:00.jpg",
+      "source": "original",
+      "mtime": "1666059725",
+      "size": "330688",
+      "md5": "f24437f0783c527416c80fd85d4559d0",
+      "crc32": "bceefcd0",
+      "sha1": "a76d75df16c4ba065b696cfa4bffb0b0cca53c22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T22:21:56.318102-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666059730",
+      "size": "1531",
+      "md5": "b82e67b84ebf5fbdea988d873ae8026b",
+      "crc32": "9c7189db",
+      "sha1": "a36b1e19f52761162b49e1a601e9b82b4bb2f723",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T22:21:56.318102-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666059732",
+      "size": "109975",
+      "md5": "bd85a6ac8a419c264f1b1122a8d8786b",
+      "crc32": "e4553fdc",
+      "sha1": "a320d79ae6c519c5b266334be342d1377c092a03",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-17T22:21:56.318102-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-17T22:21:56.318102-04:00.jpg",
+      "mtime": "1666059794",
+      "size": "10220",
+      "md5": "fa85235359a8cbf765f68da9fb77c0a2",
+      "crc32": "95aa671d",
+      "sha1": "8a2d856298447b76f80785cd5d0bdd17441850cd"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T10:14:12.911938-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666102459",
+      "size": "45420",
+      "md5": "bb43751894ea1c35fac10e400b40de6c",
+      "crc32": "da3d5dc1",
+      "sha1": "e7444431e47496691e070976ceacc205387f02c0",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T10:14:12.911938-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666102461",
+      "size": "51220",
+      "md5": "cfbfec32baa38b7a033147dc937a74f4",
+      "crc32": "183a4883",
+      "sha1": "cada29f0738a3e083fa5e3418a004592819657ad",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T10:14:12.911938-04:00.jpg",
+      "source": "original",
+      "mtime": "1666102457",
+      "size": "308179",
+      "md5": "acb92045d04bed8713724282e0ff2f78",
+      "crc32": "9e62a883",
+      "sha1": "e8f6c65ce2d0b79bd698a0a3a26cff8d36ce346a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T10:14:12.911938-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666102463",
+      "size": "1531",
+      "md5": "45737d3819d5e9d1a3d9392d41f4bf0b",
+      "crc32": "888caaf5",
+      "sha1": "4e544f450c345589de9935e5bca35d7b50de93c9",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T10:14:12.911938-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666102464",
+      "size": "183277",
+      "md5": "1a74aeb87e1f7e4031fd4c9930dabf54",
+      "crc32": "2f55200e",
+      "sha1": "4c451f955d95d87a22a7798ba479d92e34819efc",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T10:14:12.911938-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-18T10:14:12.911938-04:00.jpg",
+      "mtime": "1666102532",
+      "size": "10003",
+      "md5": "399eb9ab1e7adb218ba573e60a838f51",
+      "crc32": "1bf3e704",
+      "sha1": "12a292d2c2df9f9d5c4590d0de693ebc285fb552"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T22:32:32.071606-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666146756",
+      "size": "44509",
+      "md5": "6cb2875b4b7528a7b457a13dde76f665",
+      "crc32": "58630eb9",
+      "sha1": "d4ad314c484533ae39bd1cc925f371758c104278",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T22:32:32.071606-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666146758",
+      "size": "50901",
+      "md5": "3232c9d48dbdd5a2e38000016e500423",
+      "crc32": "a425b0f8",
+      "sha1": "7d8a206713c2f12adc43a86c29fa6334c564b526",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T22:32:32.071606-04:00.jpg",
+      "source": "original",
+      "mtime": "1666146755",
+      "size": "291624",
+      "md5": "d0bdb0400ece9eca65401c4e788a808c",
+      "crc32": "8dbb7c3c",
+      "sha1": "5525a51da557197a815e97ff3c0ebb67f67f566f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T22:32:32.071606-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666146759",
+      "size": "1530",
+      "md5": "e3194746a9130e40be5070f0c5f688f1",
+      "crc32": "2721af8e",
+      "sha1": "82098cc06d707468621c084ae3b77182cce03c46",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T22:32:32.071606-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666146761",
+      "size": "171187",
+      "md5": "8c413b18c33f9605a83dbd02c3e3c953",
+      "crc32": "3a78054a",
+      "sha1": "3c28607ae340b813c2eb07389324c15f30014e2a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-18T22:32:32.071606-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-18T22:32:32.071606-04:00.jpg",
+      "mtime": "1666168667",
+      "size": "9923",
+      "md5": "ef84e4a2fc250e6e0ea56609df51ffd2",
+      "crc32": "cd06ef97",
+      "sha1": "7c579e9a5a2d81dcb2e83ea224277d09c09271cf"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-19T10:07:54.169654-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666188481",
+      "size": "45141",
+      "md5": "7ccc00a7b9e86595f11544c64b467991",
+      "crc32": "391f9800",
+      "sha1": "c81efacb4d58c6e795591d32d1c365b9f27a1ba9",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-19T10:07:54.169654-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666188483",
+      "size": "51638",
+      "md5": "dd5b0d1973547d9230f70502c94c8f3b",
+      "crc32": "fa33bf4b",
+      "sha1": "366df23fd37af37361fd04dbc49bafdbf0f33758",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-19T10:07:54.169654-04:00.jpg",
+      "source": "original",
+      "mtime": "1666188479",
+      "size": "283379",
+      "md5": "37d97c3d583f39d52c77765a5b982434",
+      "crc32": "ae37b309",
+      "sha1": "186f828ae4a2de5ba3c8f53ebe2a7a31110225c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-19T10:07:54.169654-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666188485",
+      "size": "1531",
+      "md5": "9ea207e872e8c7df4b7b6664eb3f24fc",
+      "crc32": "b7aec365",
+      "sha1": "505561c8fffb390b88af33f04bed86eb11f0fe5e",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcconnecticut-2022-10-19T10:07:54.169654-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666188487",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "nbcconnecticut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08e33717f8f3308ca58efc405f61843406915cbb",
-      "mtime": "1665670351",
-      "size": "79869",
-      "md5": "1c740680c95da1c800c64ec397010df7",
-      "crc32": "a824c679",
-      "sha1": "65f8d5cfa892887a9fcb93b916533d38a48b4edc",
+      "btih": "71159291e647b4297d75fbe97270859c40807781",
+      "mtime": "1666188538",
+      "size": "95302",
+      "md5": "80ac245b162c0067db5d9917d9783f4e",
+      "crc32": "e28d9d14",
+      "sha1": "c91331b821cc4b907fe6aa636cfee4f32191ff4f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcconnecticut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7fd7f2c86530ad0484c5d998840fb26",
+      "md5": "3eb72372dbd8b62b7cbdcad4f26e2e63",
       "summation": "md5"
     },
     {
       "name": "nbcconnecticut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665670285",
-      "size": "483328",
-      "md5": "cf662742d405905806e465e40018fbef",
-      "crc32": "54e09c76",
-      "sha1": "54d4e850830e8f478ba9c32a9b01ee4257085455",
+      "mtime": "1666188500",
+      "size": "573440",
+      "md5": "a4147e12e7b579c2ee64037de1b55990",
+      "crc32": "d05caeb5",
+      "sha1": "994b26dae2334858ffe06cd042c8c53277cdfc00",
       "format": "Metadata"
     },
     {
@@ -3774,9 +4507,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 365,
-  "item_last_updated": 1665670351,
-  "item_size": 30613178,
+  "files_count": 436,
+  "item_last_updated": 1666188538,
+  "item_size": 36906086,
   "metadata": {
     "identifier": "nbcconnecticut-2022",
     "collection": [
@@ -3793,10 +4526,21 @@
     "publicdate": "2022-09-14 01:20:27",
     "addeddate": "2022-09-14 01:20:27"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 248398982,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445682815,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1488921512,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

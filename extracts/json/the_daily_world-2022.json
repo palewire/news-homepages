@@ -1,5 +1,5 @@
 {
-  "created": 1665677196,
+  "created": 1666191650,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/30/items/the_daily_world-2022",
@@ -2858,31 +2858,764 @@
       "sha1": "2eea24f44a0c5c4621ed29b92023a69fdac650c6"
     },
     {
+      "name": "the_daily_world-2022-10-13T22:49:47.075038-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665719393",
+      "size": "20433",
+      "md5": "0609795da3f2c84df89c0a23c50fc220",
+      "crc32": "2c3782be",
+      "sha1": "d3bc3492650c70e054758c7a110d8fc78eb1203f",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T22:49:47.075038-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665719395",
+      "size": "35155",
+      "md5": "fc7c2ba76e29a614276d4e33ee108b35",
+      "crc32": "a6d32f91",
+      "sha1": "d5b9266b43e4dc1044188d3bd4179f25f2f3d59e",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T22:49:47.075038-05:00.jpg",
+      "source": "original",
+      "mtime": "1665719391",
+      "size": "252045",
+      "md5": "90a3dd17bc480cd2f2141e841d9dc26c",
+      "crc32": "942fa142",
+      "sha1": "7f892518e8317f8714900cb01a688db30a7213ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T22:49:47.075038-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665719398",
+      "size": "1495",
+      "md5": "a79d6dc7ea4906c850746383e6cc2872",
+      "crc32": "4abbd9c7",
+      "sha1": "05806ad9d41f92b384bd94ed3000c59a6a16bb77",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T22:49:47.075038-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665719404",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-13T22:49:47.075038-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-13T22:49:47.075038-05:00.jpg",
+      "mtime": "1665719475",
+      "size": "8800",
+      "md5": "0deb97bb2e668fbc681fd88f64d88d6a",
+      "crc32": "27c1e00c",
+      "sha1": "fc54b056fc215a55deb1ff163bef56478e14fced"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T11:23:19.241631-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665764610",
+      "size": "19903",
+      "md5": "48c100a538320dd24ec9c7447371a26d",
+      "crc32": "c3ba97ea",
+      "sha1": "a1ab754980c53dac51a7182031262a70fe4eb68d",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T11:23:19.241631-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665764612",
+      "size": "29538",
+      "md5": "cd3a050153636a426233a1d8117c2c2a",
+      "crc32": "0eb094d0",
+      "sha1": "998e6f23d37b0d41f9085c1bda1e71867f85c450",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T11:23:19.241631-05:00.jpg",
+      "source": "original",
+      "mtime": "1665764609",
+      "size": "262547",
+      "md5": "850bad3f27700549b11bcfabdf8d89fe",
+      "crc32": "0124ff55",
+      "sha1": "278906aec23306baa7e28f917eb981bf17cf2e5d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T11:23:19.241631-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665764613",
+      "size": "1493",
+      "md5": "a966c1ea8131b15af6fb93086ac724ac",
+      "crc32": "33e28602",
+      "sha1": "297838c45865b68c5651750f9b6e62fd17191a46",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T11:23:19.241631-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665764614",
+      "size": "81064",
+      "md5": "d0ebf582a2d800c5fb5f5b6a35a04549",
+      "crc32": "d43ba7da",
+      "sha1": "c98cf38b0c0aa882e088ee1e5dfe21602b766f76",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T11:23:19.241631-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-14T11:23:19.241631-05:00.jpg",
+      "mtime": "1665764775",
+      "size": "8877",
+      "md5": "298d1cfc5dd162ac50ae622bc8dcac87",
+      "crc32": "876acfbc",
+      "sha1": "df61e26d54e8ae95752ec7c367f6939ef1364a41"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T22:50:51.882509-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665805857",
+      "size": "20263",
+      "md5": "b65fb73cdcc7cad8794373e36af801c7",
+      "crc32": "9e83bd03",
+      "sha1": "99d79c5a4e9914f2cc79f22cd989e02d1959ad26",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T22:50:51.882509-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665805858",
+      "size": "32424",
+      "md5": "5fffbb698a7c2ec9edc51ca3de02eca6",
+      "crc32": "d70703e3",
+      "sha1": "268a20e5a545377a00130c52bfddad18dc54876b",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T22:50:51.882509-05:00.jpg",
+      "source": "original",
+      "mtime": "1665805855",
+      "size": "273610",
+      "md5": "281d2bdf80b9ada5c52ebbd3e3c02b8c",
+      "crc32": "ce7d8a42",
+      "sha1": "bf74044256b990daac1681905c471078f0dcaea9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T22:50:51.882509-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665805860",
+      "size": "1495",
+      "md5": "2457646f1584571fa70b1fc3031537a1",
+      "crc32": "3e417d30",
+      "sha1": "e151cc3f8bc12a48bd1484c940b596f7426f7870",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T22:50:51.882509-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665805861",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-14T22:50:51.882509-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-14T22:50:51.882509-05:00.jpg",
+      "mtime": "1665805919",
+      "size": "8894",
+      "md5": "3ecb249951df05b6fdfc83bca9672e52",
+      "crc32": "992270c4",
+      "sha1": "2f0cea41a5b2cd7f6dc3d43f3c2e0348c3c1c0ee"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T10:09:26.098629-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665846571",
+      "size": "19854",
+      "md5": "14e8d49badbed443810de2fce2557bc2",
+      "crc32": "ff1437b0",
+      "sha1": "2539ec0b518a76ddb0cc5618c5791b877d79d3b8",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T10:09:26.098629-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665846574",
+      "size": "29547",
+      "md5": "adcf272027d154ac8dca4a3761d657b9",
+      "crc32": "23bebfe5",
+      "sha1": "45981d3185a63d7878a61dc398ae24f902034508",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T10:09:26.098629-05:00.jpg",
+      "source": "original",
+      "mtime": "1665846568",
+      "size": "273376",
+      "md5": "4062f7f7f22c97b554b70e1acf53f0cd",
+      "crc32": "d47308e2",
+      "sha1": "fb1d666ed19573cb7f0b95f60202a877965d249e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T10:09:26.098629-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665846575",
+      "size": "1494",
+      "md5": "31b8083f8c1101694e3fa926297cbd27",
+      "crc32": "be9b031c",
+      "sha1": "354b3d56fed53945914ca8a6b1b1411e82ba322e",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T10:09:26.098629-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665846579",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T10:09:26.098629-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-15T10:09:26.098629-05:00.jpg",
+      "mtime": "1665846630",
+      "size": "8898",
+      "md5": "7743a43facaab91c13700ff38c8e1603",
+      "crc32": "a58a0108",
+      "sha1": "0360b238f2082dd048d969f53871e875297874e1"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T22:52:01.868680-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665892325",
+      "size": "20133",
+      "md5": "758fc212db7b68391ee2322a94b58acf",
+      "crc32": "7278270a",
+      "sha1": "7fc9a5173aa00762df117f8a8119fa398aceb7fb",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T22:52:01.868680-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665892326",
+      "size": "29361",
+      "md5": "af8ee3fcd6cf128779d4ecd642e3a601",
+      "crc32": "705c1b77",
+      "sha1": "b904a7532f41e353a01835a67a9eb0f23207faaf",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T22:52:01.868680-05:00.jpg",
+      "source": "original",
+      "mtime": "1665892323",
+      "size": "245973",
+      "md5": "72be23ecf4ea7db73eaa7857da432a00",
+      "crc32": "05b7df04",
+      "sha1": "bc76d8a4b9bc2f8c56ee12be32d585baa80b3761",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T22:52:01.868680-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665892328",
+      "size": "1495",
+      "md5": "787372fd70d8a70473b04f56012c6cf8",
+      "crc32": "bae07769",
+      "sha1": "67a192785ab1844cdb15f0e3a0c7335ec3ba84c5",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T22:52:01.868680-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665892329",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-15T22:52:01.868680-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-15T22:52:01.868680-05:00.jpg",
+      "mtime": "1665892391",
+      "size": "9219",
+      "md5": "c49f79ea9f543594454bd60efcd29938",
+      "crc32": "0176970a",
+      "sha1": "fcc4da62d682360d24575503a8ddf1171b1708ae"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T10:02:26.886643-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665932556",
+      "size": "20348",
+      "md5": "f1ed97c28735e7db37be75f65ce42b5f",
+      "crc32": "0b287842",
+      "sha1": "f0000743377a49d18adffab20b5a628c99d8ffa4",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T10:02:26.886643-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665932557",
+      "size": "30635",
+      "md5": "4e8fd4e0f9b9f14c4abff7891b69caf9",
+      "crc32": "071c6ab6",
+      "sha1": "d8208a8aae8f49b36460d5b8d62c4caef8494267",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T10:02:26.886643-05:00.jpg",
+      "source": "original",
+      "mtime": "1665932554",
+      "size": "245193",
+      "md5": "d89f7dc6d5dfa5f20a2a5e8c37973de9",
+      "crc32": "c3bb5937",
+      "sha1": "a4082736b86fe26174cc21fb56a61f219b9b529b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T10:02:26.886643-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665932559",
+      "size": "1494",
+      "md5": "4295fd32a31c42b6a310dedb68eaaee9",
+      "crc32": "94b9c6f9",
+      "sha1": "d75ebc98b0c5418dd3bd83aa63806b6712df826e",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T10:02:26.886643-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665932560",
+      "size": "94203",
+      "md5": "018088dc639a0f5ff1902253982fb768",
+      "crc32": "8b0ad563",
+      "sha1": "8ee2ecf423d0e0376437b7c40238bf2d64a17cd6",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T10:02:26.886643-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-16T10:02:26.886643-05:00.jpg",
+      "mtime": "1665932614",
+      "size": "9218",
+      "md5": "57a6c233f98b7d98b0f4b7ffcd59663a",
+      "crc32": "cfd2d6b5",
+      "sha1": "1571d15b5e2237fc35e8d3fe2218d54c3169768c"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T22:45:18.859799-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665978328",
+      "size": "19842",
+      "md5": "fcf40e5c9e303b1dc44ed006543bfd4d",
+      "crc32": "31026af8",
+      "sha1": "99972221ce683dd39e18599cb6f5efc320eb0c8b",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T22:45:18.859799-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665978330",
+      "size": "30581",
+      "md5": "fa7c65d94293eb2ce26d66158533fec6",
+      "crc32": "0690a3e5",
+      "sha1": "5d22d21c00669000d795e773d3f7e16b45d0d371",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T22:45:18.859799-05:00.jpg",
+      "source": "original",
+      "mtime": "1665978323",
+      "size": "247092",
+      "md5": "03b40cee057997ab3bee8972613ba5a4",
+      "crc32": "3e228dd8",
+      "sha1": "e3649c3b81b7ba8146b78d2af5f1ecada743f15d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T22:45:18.859799-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665978332",
+      "size": "1493",
+      "md5": "558fe7390761f08242eca4cf1ea59b30",
+      "crc32": "c434036c",
+      "sha1": "80addfbbef2939eeb2bb1121ac81bf8dd2a6bda6",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T22:45:18.859799-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665978333",
+      "size": "89012",
+      "md5": "c209c6de830711be89fe1d903a4be501",
+      "crc32": "6f1f92b3",
+      "sha1": "42b3e95ce2e92f681e7c73d86002970dc0e75fcd",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-16T22:45:18.859799-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-16T22:45:18.859799-05:00.jpg",
+      "mtime": "1665978386",
+      "size": "9383",
+      "md5": "96d72a826afe87ab0e36d63850f6aa0d",
+      "crc32": "45dcccab",
+      "sha1": "e16628ff1d5b692525ae4e0f47da24c091999829"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T10:01:05.096009-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666018870",
+      "size": "19857",
+      "md5": "9afeeaa7f4a281b7bc520401ba32688d",
+      "crc32": "58e8e008",
+      "sha1": "b67eca75f74f839532c276a80c23b793a912b196",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T10:01:05.096009-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666018872",
+      "size": "30610",
+      "md5": "4d9c7adebbf7693d4847ce0e033b1ab2",
+      "crc32": "e4b57410",
+      "sha1": "2b139b47647eafe9729dd09297ab82ecd6ce01e7",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T10:01:05.096009-05:00.jpg",
+      "source": "original",
+      "mtime": "1666018869",
+      "size": "241625",
+      "md5": "1cb6af6cca81c5140cc11efcd7b19182",
+      "crc32": "f53cd3e2",
+      "sha1": "2c7d2018dd44ebbfc2038f0891ace70364864673",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T10:01:05.096009-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666018874",
+      "size": "1495",
+      "md5": "229ee81fd7a55367ffa59185d17d5de5",
+      "crc32": "6b859e20",
+      "sha1": "16455c88aa40ceb9beff96b1c9f5e7fe303d86c4",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T10:01:05.096009-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666018875",
+      "size": "91321",
+      "md5": "c071c64313d4dfeccd5532eea00aa0ab",
+      "crc32": "0c8828f0",
+      "sha1": "e4b60860e9a48f4746373b7e22bb6416b786c03e",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T10:01:05.096009-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-17T10:01:05.096009-05:00.jpg",
+      "mtime": "1666018938",
+      "size": "9463",
+      "md5": "14edc524e5cee8d079388157631a44f1",
+      "crc32": "6afff7cd",
+      "sha1": "de022c842eb4102922c9cc364c96de5f40645074"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T22:38:45.155434-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666064333",
+      "size": "20588",
+      "md5": "511d2ef24b0f8875213c7bc750f3e304",
+      "crc32": "87711eee",
+      "sha1": "d5b2c734dc9cb6552e568b542e53cc0f7a11b07d",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T22:38:45.155434-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666064335",
+      "size": "29785",
+      "md5": "89cf8eec3a0fa78e19746ed8d2c7cf07",
+      "crc32": "8fa55092",
+      "sha1": "f125ef0fc3bb51ae77cc81fd32a7c9b2f4307220",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T22:38:45.155434-05:00.jpg",
+      "source": "original",
+      "mtime": "1666064332",
+      "size": "241820",
+      "md5": "21474f76ada02c2f5d284b5a62f45ca9",
+      "crc32": "8053ab6a",
+      "sha1": "431b9350eb000aa39d313022a89448eb21c36ead",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T22:38:45.155434-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666064337",
+      "size": "1495",
+      "md5": "8c76e0f13c6c24a2805682f80bde9494",
+      "crc32": "8d253584",
+      "sha1": "8095e38c24578f4929daf19dc531459ad45b81d0",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T22:38:45.155434-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666064339",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-17T22:38:45.155434-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-17T22:38:45.155434-05:00.jpg",
+      "mtime": "1666064394",
+      "size": "9097",
+      "md5": "102b5840b560feba029f655dd2156b65",
+      "crc32": "f3b609f1",
+      "sha1": "f4ebaa31e36f121ee6bd4ce374379ce23d26305a"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T10:11:13.783468-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666105881",
+      "size": "20360",
+      "md5": "91c8aa6cd35b9f419201f372f0bd553a",
+      "crc32": "8c4b26bf",
+      "sha1": "6ac4237924df638825bd99a7e806d30443070905",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T10:11:13.783468-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666105883",
+      "size": "28600",
+      "md5": "3e9ffb0b3e691e333496fc374c3877e7",
+      "crc32": "25697e52",
+      "sha1": "1eae0a17927f7ad7be0ae6470c60e290eababfb9",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T10:11:13.783468-05:00.jpg",
+      "source": "original",
+      "mtime": "1666105878",
+      "size": "245987",
+      "md5": "5097bdd7ccf563dd18e57caeddb07526",
+      "crc32": "d3992a6e",
+      "sha1": "f3441596fb8f922913b46fe20f7805f3754d1cc3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T10:11:13.783468-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666105886",
+      "size": "1495",
+      "md5": "4f4c105785ff933847835a8150d00187",
+      "crc32": "b65546cb",
+      "sha1": "0ef1105e9b2da2d9f5c57bbc8d8fe34ce5d3ab3a",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T10:11:13.783468-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666105888",
+      "size": "88817",
+      "md5": "73ce3f5048ddcbd98b47e63c17fc38cc",
+      "crc32": "a5168fb0",
+      "sha1": "5474a31072265f56cc3b2818201ad465a9f5a56d",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T10:11:13.783468-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-18T10:11:13.783468-05:00.jpg",
+      "mtime": "1666106007",
+      "size": "9218",
+      "md5": "b2c1dc12c5d50427d56a5b5e3a34e619",
+      "crc32": "39c12092",
+      "sha1": "50743979a8bb6c538fa0a1dc061d7b74985535a8"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T22:40:51.333438-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666150854",
+      "size": "20508",
+      "md5": "5f905ea38412f4c5deae5febd0fe1d09",
+      "crc32": "ea32f0db",
+      "sha1": "ab7919b1046620ac9561a30e67c278b9fecc4a20",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T22:40:51.333438-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666150856",
+      "size": "32768",
+      "md5": "b29ec52639ea01e3454326f0566c5dcf",
+      "crc32": "2391fc8b",
+      "sha1": "abaa15e6e7a7825bb19b4c0319d0f49b58d3a6ee",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T22:40:51.333438-05:00.jpg",
+      "source": "original",
+      "mtime": "1666150853",
+      "size": "265356",
+      "md5": "91bda956cdac51dd6852ee1b49b93844",
+      "crc32": "43594e76",
+      "sha1": "8646dc8afb428e13797e29d424a672f4437a82e6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T22:40:51.333438-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666150857",
+      "size": "1495",
+      "md5": "c2cd06b3565da2d1ac5aa7f5e2423708",
+      "crc32": "8218eec4",
+      "sha1": "fe774f2b7d6e63e65440e368fe05f9a0929833d2",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T22:40:51.333438-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666150859",
+      "size": "98763",
+      "md5": "5e9429f1c16acf2b15c8b0132cff271a",
+      "crc32": "de914ff1",
+      "sha1": "758c5cc3ad1445cc32026e6339edc1197aafd353",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-18T22:40:51.333438-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-18T22:40:51.333438-05:00.jpg",
+      "mtime": "1666170363",
+      "size": "9025",
+      "md5": "6ca9cba565b24133c2d54b7fede3853c",
+      "crc32": "f6a6c431",
+      "sha1": "79c0466d76c63fda9fd621119b098a171083921d"
+    },
+    {
+      "name": "the_daily_world-2022-10-19T09:59:52.488919-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666191597",
+      "size": "21237",
+      "md5": "f83cd056168c825ba2db463549c20e0f",
+      "crc32": "87b97be7",
+      "sha1": "43dc62e2b4e2473e7f5c32fbae650bde831059b1",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-19T09:59:52.488919-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666191600",
+      "size": "10944",
+      "md5": "7d73b853011a51f855ed48784ad5c285",
+      "crc32": "d22b7f5d",
+      "sha1": "5fec28b5a8e1ea434f0e48704400e2304e71dc5c",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-19T09:59:52.488919-05:00.jpg",
+      "source": "original",
+      "mtime": "1666191595",
+      "size": "265167",
+      "md5": "6f7267c33c52b16e1d0907c5f8790064",
+      "crc32": "56fa1ecb",
+      "sha1": "b831679c8187bd09b491db439f88164ffb6b81d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_daily_world-2022-10-19T09:59:52.488919-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666191603",
+      "size": "1495",
+      "md5": "a17949cc62cd049231aee3c0ea163c2c",
+      "crc32": "9710c41e",
+      "sha1": "d683ce616f2a01a5c8c742a35d4ce8d03ec3affe",
+      "format": "JSON"
+    },
+    {
+      "name": "the_daily_world-2022-10-19T09:59:52.488919-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666191605",
+      "size": "83999",
+      "md5": "5b6648d3daaf0084a61b8f74d7246896",
+      "crc32": "39825fd4",
+      "sha1": "77e9d77b14519842a6c6b76344650caa2598a6de",
+      "format": "JSON"
+    },
+    {
       "name": "the_daily_world-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e104999630a0cfd9a4df6a5833c418dd0d746ce3",
-      "mtime": "1665673712",
-      "size": "61376",
-      "md5": "4d4eefcf9dbfc565a9c09576e88c5f9e",
-      "crc32": "646266c7",
-      "sha1": "eb1fce103f627d0c3832d698668b797c5ba29e80",
+      "btih": "8d8bba2a8b6fe285c00861ae09ce98004ae3c553",
+      "mtime": "1666191647",
+      "size": "76803",
+      "md5": "6daf1596c398791cc92b10ba3d7653cd",
+      "crc32": "601dc13e",
+      "sha1": "0ff251d8c93472f535ff31af6e464689162b9fec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_daily_world-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2abc9997333844e84e2315fe4db4a64f",
+      "md5": "75194a93102aa87e4334c4ab9820664e",
       "summation": "md5"
     },
     {
       "name": "the_daily_world-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665673654",
-      "size": "372736",
-      "md5": "024135d45feaa77dd20a1afcbcc6274c",
-      "crc32": "d8ec3788",
-      "sha1": "845f73629d20f9cd547d336971dd27dfc409b9d5",
+      "mtime": "1666191610",
+      "size": "466944",
+      "md5": "82dc685bca6880aefc7b366a2bea8e0d",
+      "crc32": "359aef46",
+      "sha1": "f79250ca50dcc846dd715591be2194cc65449a32",
       "format": "Metadata"
     },
     {
@@ -2896,9 +3629,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 280,
-  "item_last_updated": 1665673712,
-  "item_size": 17258252,
+  "files_count": 351,
+  "item_last_updated": 1666191647,
+  "item_size": 21767167,
   "metadata": {
     "identifier": "the_daily_world-2022",
     "collection": [
@@ -2915,18 +3648,21 @@
     "publicdate": "2022-09-21 03:43:02",
     "addeddate": "2022-09-21 03:43:02"
   },
-  "server": "ia801504.us.archive.org",
-  "the_daily_world-2022": {
-    "url": "https://www.dailyworld.com/",
-    "job_id": "spn2-956d0a66a8737eec4e17bacda0b09da54e33f5c8",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "resources": [],
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1098."
-  },
-  "uniq": 895428694,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445714156,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 632369331,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

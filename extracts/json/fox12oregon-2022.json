@@ -1,5 +1,5 @@
 {
-  "created": 1665687261,
+  "created": 1666203781,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -11416,31 +11416,764 @@
       "sha1": "29b0a1c672e78db7085b9b04f0625717f26fdda6"
     },
     {
+      "name": "fox12oregon-2022-10-13T23:37:48.723396-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665729472",
+      "size": "36227",
+      "md5": "a88803d155f4e0891333aee3ea487596",
+      "crc32": "90764e8e",
+      "sha1": "94945394919a0e14bd2798724a6a5dcc5deabb14",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-13T23:37:48.723396-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665729474",
+      "size": "21859",
+      "md5": "144137d347b5da1f4b6b6ad4847e2952",
+      "crc32": "e0733eee",
+      "sha1": "954cd6512a220360d86d00568ad3f7e91e298b96",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-13T23:37:48.723396-07:00.jpg",
+      "source": "original",
+      "mtime": "1665729470",
+      "size": "398717",
+      "md5": "edd55781d047c233da7a40ab24445a87",
+      "crc32": "aa929fa8",
+      "sha1": "90af69e47079290aea41e7aa0e2389d8f36fef1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-13T23:37:48.723396-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665729475",
+      "size": "1441",
+      "md5": "2576896631d7216d3c20c0ec3d61a63b",
+      "crc32": "c418b2b1",
+      "sha1": "2f72df2736427c0cbf793a2542697f9b080bfe77",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-13T23:37:48.723396-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665729477",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-13T23:37:48.723396-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-13T23:37:48.723396-07:00.jpg",
+      "mtime": "1665729605",
+      "size": "11654",
+      "md5": "f4bf32e48f6473547f8848d7af78a1d2",
+      "crc32": "330d2cc9",
+      "sha1": "c109524742435ef7406d828c4cb5d314041eb265"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T12:50:52.590720-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665777055",
+      "size": "36137",
+      "md5": "421c34a47d3b8a5f7da584d55c0c2da3",
+      "crc32": "634adf8f",
+      "sha1": "e30206a7a56b4b90555e4a37d30cb63036f0bf2b",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T12:50:52.590720-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665777056",
+      "size": "21729",
+      "md5": "d9c4025beca7c707d81089514d8f2be2",
+      "crc32": "6aca3afb",
+      "sha1": "78b3de863fed7c783a82278bd67005b8862c9c47",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T12:50:52.590720-07:00.jpg",
+      "source": "original",
+      "mtime": "1665777053",
+      "size": "382269",
+      "md5": "57fd93d58d38b013a1bf241bd871dbc7",
+      "crc32": "ed609f1d",
+      "sha1": "53eeb993b8bfa540801c25a348deaa59c0f9c397",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T12:50:52.590720-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665777057",
+      "size": "1441",
+      "md5": "e4e9f03699703d659221bb267a14d153",
+      "crc32": "4cc280f1",
+      "sha1": "45618e2b001a4c9106d98d72cb283910edcfa0fc",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T12:50:52.590720-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665777059",
+      "size": "60717",
+      "md5": "82d8ec5413624579cd606d02342340d2",
+      "crc32": "3bcb61a9",
+      "sha1": "00a9d5d3269648d7d095390cab6c13f03c85079e",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T12:50:52.590720-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-14T12:50:52.590720-07:00.jpg",
+      "mtime": "1665777152",
+      "size": "11834",
+      "md5": "0785ed8d025ec9c1e961b6480d42e1c3",
+      "crc32": "9aeceb17",
+      "sha1": "a5277cc07f9043c6b6e77f16d23f1798d5752032"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T23:37:51.094142-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815874",
+      "size": "36470",
+      "md5": "19d03d03ee4dbaf36712e0b443a1f136",
+      "crc32": "40076de2",
+      "sha1": "5ff942c35f32ab71b3780f5ec8e040ca2381e271",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T23:37:51.094142-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815876",
+      "size": "23045",
+      "md5": "420480d5b847a5521acdb86f1cdd9328",
+      "crc32": "990f6b76",
+      "sha1": "ef4c07644cf0a1a17cfbdbc3d5daafbb51bcf633",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T23:37:51.094142-07:00.jpg",
+      "source": "original",
+      "mtime": "1665815872",
+      "size": "373732",
+      "md5": "0e2a93fe3dd157eadcc791d4c7247f8b",
+      "crc32": "f57f6aa6",
+      "sha1": "b0ef08b4599160a14b1d4d59de5bdc0d0118cfab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T23:37:51.094142-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815877",
+      "size": "1440",
+      "md5": "2b21fd064596c7769a64dc4ef230359f",
+      "crc32": "c87ab6d5",
+      "sha1": "86d808d1e6074623beadaa2c13465f3cc616488c",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T23:37:51.094142-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815879",
+      "size": "97",
+      "md5": "e5cb69c3f531361a6f51a9def0a56e26",
+      "crc32": "28ee2c4d",
+      "sha1": "1be3b579ba946131e9d0e16d70ed4f951151dec6",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-14T23:37:51.094142-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-14T23:37:51.094142-07:00.jpg",
+      "mtime": "1665815961",
+      "size": "11650",
+      "md5": "29fcff6f4210ca1f28992c001e9e9992",
+      "crc32": "cbe9e780",
+      "sha1": "006ffc6df18e82e7901bad9a7f78745e9361c0ec"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T11:09:33.150081-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665857384",
+      "size": "35111",
+      "md5": "995ba404962a58ad66e355ab43978f31",
+      "crc32": "b936a5be",
+      "sha1": "c01bf6ef03e312ba865b77abdbf5334bc0ec0cc5",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T11:09:33.150081-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665857387",
+      "size": "21830",
+      "md5": "1d3e239ed337d4697d7f5ce93bf26b9f",
+      "crc32": "8400f84c",
+      "sha1": "33166f5307e63b4ccc2ba32a0f87357061d18140",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T11:09:33.150081-07:00.jpg",
+      "source": "original",
+      "mtime": "1665857383",
+      "size": "377484",
+      "md5": "90f2010dcc128f6639483e9d8f22e4b1",
+      "crc32": "24b7f50f",
+      "sha1": "15395671e3ed2c93b9c68086f3895aab265fc800",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T11:09:33.150081-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665857388",
+      "size": "1441",
+      "md5": "37e40a14b9c0b597469326580200c432",
+      "crc32": "3e2d8e6e",
+      "sha1": "c9f800525e03341c961db27810fae33a711bec53",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T11:09:33.150081-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665857390",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T11:09:33.150081-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-15T11:09:33.150081-07:00.jpg",
+      "mtime": "1665857463",
+      "size": "11920",
+      "md5": "4a2428e74d42c59547f4adbd8dbc7a4b",
+      "crc32": "f8ca6cf2",
+      "sha1": "e79c8a99b9ed6b2210bc45d652cd28dc48b7cdaf"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T23:39:18.034605-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665902365",
+      "size": "35477",
+      "md5": "a02b3c14831bd32edd5f926706fd9825",
+      "crc32": "f0c7dd1f",
+      "sha1": "0619b68b2b4c170eadcbac0a62026e5132ce706d",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T23:39:18.034605-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665902367",
+      "size": "22032",
+      "md5": "b4420d9f100840fe15891a914c431eb8",
+      "crc32": "033b892e",
+      "sha1": "703a2419a8921973bd04f295652a47a352f05609",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T23:39:18.034605-07:00.jpg",
+      "source": "original",
+      "mtime": "1665902364",
+      "size": "380866",
+      "md5": "68c02fae8c7d88294306f8bf8bd3f97c",
+      "crc32": "64f9482f",
+      "sha1": "2b7d47a1b3887372ed68ddfea0e65570e96da5b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T23:39:18.034605-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665902369",
+      "size": "1441",
+      "md5": "5e8ae59a7564d50b75b48623d1594fed",
+      "crc32": "7d9498f1",
+      "sha1": "c3f1a7dd5b325a604231b64e4cb4524a491f6509",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T23:39:18.034605-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665902370",
+      "size": "56969",
+      "md5": "752a5e8eaff5e2f08aa852b53a827f48",
+      "crc32": "93365854",
+      "sha1": "bfa026fb39044665e299d5acb873370ff942b368",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-15T23:39:18.034605-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-15T23:39:18.034605-07:00.jpg",
+      "mtime": "1665902445",
+      "size": "11851",
+      "md5": "c16b04e07a8dd9738f0a78b66e4d90f7",
+      "crc32": "ce24e34c",
+      "sha1": "e52994d8365104b367347e0408cadb273e2c3d88"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T10:36:08.949555-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941773",
+      "size": "42703",
+      "md5": "b22c8753478fd536e069b4bf597bdf5f",
+      "crc32": "79a6cfe8",
+      "sha1": "6c0994564d0fa9dbf07a2aa47f43c702fadf61ff",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T10:36:08.949555-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941774",
+      "size": "21705",
+      "md5": "fccca2a5e8f0fbcf98db1f58f175d010",
+      "crc32": "758297f2",
+      "sha1": "b9d1dd9c7a65b2e3a8e263bd763fd886fb173d3c",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T10:36:08.949555-07:00.jpg",
+      "source": "original",
+      "mtime": "1665941771",
+      "size": "390594",
+      "md5": "51de5bb2e8b02e9b33b123712ef732a0",
+      "crc32": "6edcc218",
+      "sha1": "af3ca3d124b7a41ba941e739475e77abc40341a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T10:36:08.949555-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941776",
+      "size": "1441",
+      "md5": "1048f4ccaa58818657f199dc281d0940",
+      "crc32": "e93b13cd",
+      "sha1": "833356eb8581b21babef3d0284b5e234dec9cbc4",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T10:36:08.949555-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941778",
+      "size": "60225",
+      "md5": "88d81b93de4e0a40bace787e5b7b1ea1",
+      "crc32": "625149d6",
+      "sha1": "99b65d8d57b9e6d87ec9ff5dfa3fe23c50ed6602",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T10:36:08.949555-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-16T10:36:08.949555-07:00.jpg",
+      "mtime": "1665941860",
+      "size": "11808",
+      "md5": "88373ae8282fc1c793a2975484573974",
+      "crc32": "6df1acc4",
+      "sha1": "a97b11e31f65f7ecf00bf2782ed8e9943fe29f11"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T23:25:40.046263-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665987951",
+      "size": "36364",
+      "md5": "5fac0284b9f9549e5fba26e7d3f517e6",
+      "crc32": "56f672ba",
+      "sha1": "37ff8be56a3c83b23a1c629d31b6e2a1484893d9",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T23:25:40.046263-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665987952",
+      "size": "21892",
+      "md5": "dd6a26d15d0478f26fce7ba53935af76",
+      "crc32": "b78887d2",
+      "sha1": "8fab7a22ce2b3d058f2a4cd56afb982cd7e2e246",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T23:25:40.046263-07:00.jpg",
+      "source": "original",
+      "mtime": "1665987949",
+      "size": "377354",
+      "md5": "6776ec8c980d85d1179e3ec68576b204",
+      "crc32": "bf20189d",
+      "sha1": "428f78b045bc85035c69d15c76d08bd81630236b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T23:25:40.046263-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665987954",
+      "size": "1441",
+      "md5": "88f5bd461571230bf0e544e2ce16921f",
+      "crc32": "7307adc6",
+      "sha1": "8221eabcca6a351167619f91c251b6f0f6030b16",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T23:25:40.046263-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665987956",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-16T23:25:40.046263-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-16T23:25:40.046263-07:00.jpg",
+      "mtime": "1665988021",
+      "size": "11616",
+      "md5": "95262faeeba6d173ae49657f9126fd18",
+      "crc32": "1700da82",
+      "sha1": "12d83d3bf8cacd334f7f8c4980d2d532684534f0"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T11:10:19.474981-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666030222",
+      "size": "41429",
+      "md5": "926f294d3c8f525e6fcfc3140984149e",
+      "crc32": "77fac849",
+      "sha1": "b2037bc0c683822fd992c73dd2cc01a44beab08b",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T11:10:19.474981-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666030225",
+      "size": "28733",
+      "md5": "b968af6405980f0d1df9d8b6345ea691",
+      "crc32": "7aec1276",
+      "sha1": "83430bb459e85e9320a9fd37298e5f2e3f1dace5",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T11:10:19.474981-07:00.jpg",
+      "source": "original",
+      "mtime": "1666030220",
+      "size": "362201",
+      "md5": "6e704ceecbaad44f04d70924f6f22f33",
+      "crc32": "09082724",
+      "sha1": "2c992830c7c334e95633c311d53a811a35e62b63",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T11:10:19.474981-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666030227",
+      "size": "1441",
+      "md5": "b2446650e6e73423afde2825594312a6",
+      "crc32": "16f50da4",
+      "sha1": "ddaa36e2fa30734701c9acb968e96c2a3740bf01",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T11:10:19.474981-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666030229",
+      "size": "63830",
+      "md5": "3aa0d3b1655979f69924a19d2622fe1e",
+      "crc32": "116a3e77",
+      "sha1": "0a79c4dade7dc506b5e1c39cb89fc90a33221f54",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T11:10:19.474981-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-17T11:10:19.474981-07:00.jpg",
+      "mtime": "1666030307",
+      "size": "11344",
+      "md5": "aa91fe8a4697550e0f7fbf7abd72925c",
+      "crc32": "7980c20e",
+      "sha1": "5c335afae82763b6f22f7ae2826655b1889c4b8f"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T23:01:13.078001-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072877",
+      "size": "41111",
+      "md5": "7d6c1d876801fc83b39a6f253b0ed4a4",
+      "crc32": "e0384ae2",
+      "sha1": "0b8b78a5f21f9b16068d4287ac59f7a18148c297",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T23:01:13.078001-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072879",
+      "size": "29323",
+      "md5": "3e79eac60d626b85615d725bc3445584",
+      "crc32": "e3009916",
+      "sha1": "eb79cd5e0869b1416bce30e20c2e295cd86f3dc8",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T23:01:13.078001-07:00.jpg",
+      "source": "original",
+      "mtime": "1666072875",
+      "size": "367297",
+      "md5": "da2e5dd2f5af7dfe0da19a48f07e74fc",
+      "crc32": "945a38b4",
+      "sha1": "159b0ca4a9d1ca96248f7ad9276ad15033b6701a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T23:01:13.078001-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072881",
+      "size": "1440",
+      "md5": "77e1f1089c15aba56b342ea662a8878d",
+      "crc32": "a14a5a08",
+      "sha1": "e20399f545becea77037209adc3d781a329135de",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T23:01:13.078001-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072883",
+      "size": "62843",
+      "md5": "2e22bb66e9cf622ba7f5f465cabcd5dd",
+      "crc32": "113929cc",
+      "sha1": "b2a0ff1eb8d22e221f7702eadbef1483b945735f",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-17T23:01:13.078001-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-17T23:01:13.078001-07:00.jpg",
+      "mtime": "1666072955",
+      "size": "11277",
+      "md5": "6fa0c29b0cffb8474ff5d7a6126c4a49",
+      "crc32": "6c72962a",
+      "sha1": "8d53f5e2bbf0789349c0606f1fa769dc01c6ee59"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T10:43:18.504056-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666115001",
+      "size": "34996",
+      "md5": "ec114e62e14cb32c61dabb299f190c90",
+      "crc32": "a601330c",
+      "sha1": "e0bd0658600775c8cb18b660607078d5998e31d7",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T10:43:18.504056-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666115003",
+      "size": "22029",
+      "md5": "463d30c64d21801201e5a3108b1d0fca",
+      "crc32": "36e49e95",
+      "sha1": "b87da3e12d7bb43610a2765d7d01b9afeedd56a1",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T10:43:18.504056-07:00.jpg",
+      "source": "original",
+      "mtime": "1666115000",
+      "size": "384790",
+      "md5": "74312253ee8b515baac749068f0333f5",
+      "crc32": "90704bbd",
+      "sha1": "d11a62944ae2787964497aa9c0b94a95d4c4327f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T10:43:18.504056-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666115005",
+      "size": "1441",
+      "md5": "be3690e6ce50c2c7ee33fdde22c0cdce",
+      "crc32": "0ad80db6",
+      "sha1": "dc7fe89d696a3baa34fdf9e6cf8241a179434ead",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T10:43:18.504056-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666115007",
+      "size": "85908",
+      "md5": "ab80332ac2485fa3ad77f9ddef94d5d1",
+      "crc32": "2577e7d3",
+      "sha1": "e86dc414b4861e0f71bf969604e4c060f7e8877a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T10:43:18.504056-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-18T10:43:18.504056-07:00.jpg",
+      "mtime": "1666115101",
+      "size": "11723",
+      "md5": "13ce0d2299fee5dfddfb3cc29813e9bc",
+      "crc32": "8bd92365",
+      "sha1": "615abc429dfe44869add36eb16ba1456a006b0b4"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T23:02:58.324284-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159381",
+      "size": "36306",
+      "md5": "13e69152f6f7d53c1c2d4ac29ebfdb26",
+      "crc32": "068e0c0c",
+      "sha1": "e3dfb02e81030ed1e0ee3b829d38b7a0f33121cb",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T23:02:58.324284-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159383",
+      "size": "22870",
+      "md5": "baa65c983859410c0c27944b59fdecb0",
+      "crc32": "c24ea323",
+      "sha1": "5c57ebcbe80d9f32d5db91252f226c31b71219f7",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T23:02:58.324284-07:00.jpg",
+      "source": "original",
+      "mtime": "1666159380",
+      "size": "408135",
+      "md5": "4212faf168563d056113ee1ab66cf927",
+      "crc32": "709a2b51",
+      "sha1": "85023935796c7e3e2517578b056d0d950052bf6c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T23:02:58.324284-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159385",
+      "size": "1441",
+      "md5": "83e4d404ea8d2fc7f28561d2664c1971",
+      "crc32": "4274816a",
+      "sha1": "7a0d4be84e2d626488b2c8e3384cb0c66158c3f1",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T23:02:58.324284-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159386",
+      "size": "61736",
+      "md5": "aa9239f35e3b0871f99ef7b35e8a5de5",
+      "crc32": "dc4f83a3",
+      "sha1": "697b8131813c3f9c0849e70be2947614cb1dfd62",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-18T23:02:58.324284-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-18T23:02:58.324284-07:00.jpg",
+      "mtime": "1666180334",
+      "size": "11536",
+      "md5": "bccff186c1057b23bdf58ec04804b277",
+      "crc32": "ccbad223",
+      "sha1": "1d9950fd351dad24d1200e7f3f3039d36f147a79"
+    },
+    {
+      "name": "fox12oregon-2022-10-19T11:18:43.442842-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666203545",
+      "size": "36607",
+      "md5": "442a911b6bc6d3c5d54b18d9d0a31636",
+      "crc32": "a94c68ab",
+      "sha1": "934e3ec752cf9c5b80a891ff231564de10d803d9",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-19T11:18:43.442842-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666203553",
+      "size": "23632",
+      "md5": "8b2183642954f6556ef8c6e9fddac644",
+      "crc32": "83b51937",
+      "sha1": "ed4ca67f5eeb7b2ec5fcffb5dc19fc22fcfc279d",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-19T11:18:43.442842-07:00.jpg",
+      "source": "original",
+      "mtime": "1666203538",
+      "size": "378735",
+      "md5": "f7f362520e623b1dc3b26a2fce9f9281",
+      "crc32": "57f1dfca",
+      "sha1": "2b36f40d2a60b90511a03bf440941ccae2c080fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-19T11:18:43.442842-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666203561",
+      "size": "1441",
+      "md5": "f320613573bf8ee252f6bcc1525958c1",
+      "crc32": "37fbacf7",
+      "sha1": "802519d85942a00a32f34d96f209e1ba20bbd2f3",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-19T11:18:43.442842-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666203569",
+      "size": "59899",
+      "md5": "eb8b8c195ffb2fc8ffe74fc7aba5c4bb",
+      "crc32": "abcb96c6",
+      "sha1": "abf39d65b156fb4cfe59dc75bd3ed31525563c98",
+      "format": "JSON"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c14f6a37ad8ba19813b6189388489f32b28490f2",
-      "mtime": "1665687239",
-      "size": "237300",
-      "md5": "da5b262553fa00c71aa4ff5e63b32d72",
-      "crc32": "79755da4",
-      "sha1": "f6d2144feb7ec8d2fd82f0dd8ba0c47c596675f0",
+      "btih": "196d01d19244bc652e52e67423449494e7e49a07",
+      "mtime": "1666203773",
+      "size": "252515",
+      "md5": "9e3654798b95db73e8601b689cdb786d",
+      "crc32": "678d33af",
+      "sha1": "29c92ef52fccb4d9ca899834254f9b9cd9239519",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b93e21cf1e05f0cb8cc98b5a60497cf",
+      "md5": "0ee655d004ffa7bd0c0229dd28316e17",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665687144",
-      "size": "1388544",
-      "md5": "c4209f6ff0488ebd6d435eb3487db046",
-      "crc32": "96dcc3a4",
-      "sha1": "509810757c8875517d6aae7bc95e55bb488c052f",
+      "mtime": "1666203716",
+      "size": "1486848",
+      "md5": "56ac4aaa4ab379660e0c32104875ec0f",
+      "crc32": "9f4410b1",
+      "sha1": "0cba14e2b3c3d4ce93f79dbad956e7574490c311",
       "format": "Metadata"
     },
     {
@@ -11454,9 +12187,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1105,
-  "item_last_updated": 1665687239,
-  "item_size": 96969831,
+  "files_count": 1176,
+  "item_last_updated": 1666203773,
+  "item_size": 103053474,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -11473,10 +12206,21 @@
     "publicdate": "2022-07-04 21:52:58",
     "addeddate": "2022-07-04 21:52:58"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 755976307,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445841382,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1171458657,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

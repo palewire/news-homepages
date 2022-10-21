@@ -1,5 +1,5 @@
 {
-  "created": 1665687440,
+  "created": 1666203777,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/15/items/gawker-2022",
@@ -11368,31 +11368,764 @@
       "sha1": "d436626a4b5e38ecd7e80205e924fcdfd7427ea4"
     },
     {
+      "name": "gawker-2022-10-14T02:41:06.713413-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665729669",
+      "size": "9464",
+      "md5": "29e6ce30f383f7d457b1b48eb3f53b24",
+      "crc32": "7d0e9467",
+      "sha1": "6308139d4a63c1cef6b138aaeb7b158ae84cfa80",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-14T02:41:06.713413-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665729671",
+      "size": "11276",
+      "md5": "49856781cdf665d239c9bb1b2a6d5877",
+      "crc32": "3425a4d7",
+      "sha1": "8a2bd70a2536a073d556ad1609d62a67769c0b46",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-14T02:41:06.713413-04:00.jpg",
+      "source": "original",
+      "mtime": "1665729668",
+      "size": "301724",
+      "md5": "3d634fac710613c890096780a0a75a2f",
+      "crc32": "0251dea7",
+      "sha1": "f844e675bb131b2365f44bf75afa9cbfe5620879",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-14T02:41:06.713413-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665729673",
+      "size": "1450",
+      "md5": "a7a9cf67ca601c033fe088dbf59721d4",
+      "crc32": "d14618ad",
+      "sha1": "7ab955acecc31927c148ec782e5f42fc0d5df9f0",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-14T02:41:06.713413-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665729675",
+      "size": "33074",
+      "md5": "be60df929df3c72d75135d5b92e4709c",
+      "crc32": "c7e563c6",
+      "sha1": "5e469f75e7f6ec038b161522b98dcebaa21c62b9",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-14T02:41:06.713413-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-14T02:41:06.713413-04:00.jpg",
+      "mtime": "1665729741",
+      "size": "11238",
+      "md5": "03d33384863ddc37a12b301b81870bf8",
+      "crc32": "c7f5476c",
+      "sha1": "c34ebb0edd5bfa977c20b95cf9790281090d31e8"
+    },
+    {
+      "name": "gawker-2022-10-14T15:51:29.945999-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665777093",
+      "size": "9740",
+      "md5": "43a1bbcc63e3f02c5984e5e0d395786f",
+      "crc32": "bf7b424c",
+      "sha1": "cc88f9e887340b4cad9a9d426059efea1627d338",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-14T15:51:29.945999-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665777094",
+      "size": "11558",
+      "md5": "cdbe89b6420fbc0ae1cbab0ef757706d",
+      "crc32": "10b23002",
+      "sha1": "a38fd24fca6f7edcd17f405c0b4cde0a2d37fab9",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-14T15:51:29.945999-04:00.jpg",
+      "source": "original",
+      "mtime": "1665777091",
+      "size": "313851",
+      "md5": "7afed3ff08320049b11fdca18c9f1227",
+      "crc32": "73b08784",
+      "sha1": "dc6cee3d712ff644ce0c5cca1c21577e486d62bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-14T15:51:29.945999-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665777096",
+      "size": "1450",
+      "md5": "c45ea691e7e682fe503724eb881ec872",
+      "crc32": "4f389f4a",
+      "sha1": "ded7de5d3942ad7eb117229c08d8e9f71298cae5",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-14T15:51:29.945999-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665777098",
+      "size": "64479",
+      "md5": "48d97b40afc26260527930152616a075",
+      "crc32": "24c1059a",
+      "sha1": "5d90fed0357752b40fb92a1808a0e0748ccd3fdc",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-14T15:51:29.945999-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-14T15:51:29.945999-04:00.jpg",
+      "mtime": "1665777170",
+      "size": "11128",
+      "md5": "86d93c688e2bdabc89d69e0e4d7d5a94",
+      "crc32": "99e6b6f4",
+      "sha1": "326fee484d44799b447429bd95fcc34059b22af7"
+    },
+    {
+      "name": "gawker-2022-10-15T02:37:26.651147-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665815850",
+      "size": "9595",
+      "md5": "8a5195727c927d1d662b682c91adf278",
+      "crc32": "82d53c4d",
+      "sha1": "a73cb6ac752f1f42f14ba12b26c65a4dd0f1130e",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-15T02:37:26.651147-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665815852",
+      "size": "11447",
+      "md5": "349b80f120e11ea6e34fb4f1b69094a1",
+      "crc32": "7a1e444d",
+      "sha1": "a3ee9458b495c43049ce2a69430fa4d126b126c0",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-15T02:37:26.651147-04:00.jpg",
+      "source": "original",
+      "mtime": "1665815848",
+      "size": "310088",
+      "md5": "002ec23849e5d95e3b67e1a232a02828",
+      "crc32": "5f21dfb6",
+      "sha1": "d7d6d6e6ab29862ff5be47b03f88e4475289eb0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-15T02:37:26.651147-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665815854",
+      "size": "1450",
+      "md5": "e9fa3528107ee225cbfa865a64d05d95",
+      "crc32": "7542beec",
+      "sha1": "7be823e44e59881c04950bbd2ea6e79a3c533601",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-15T02:37:26.651147-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665815856",
+      "size": "30570",
+      "md5": "780ca216a0de5c449bd8dc766596461f",
+      "crc32": "5b1ad2e1",
+      "sha1": "12635cd8086c1c4d2f8d25cce9abf628f05f80de",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-15T02:37:26.651147-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-15T02:37:26.651147-04:00.jpg",
+      "mtime": "1665815918",
+      "size": "11177",
+      "md5": "c5f3b647f1763e7093ba5bc762945321",
+      "crc32": "b2725695",
+      "sha1": "d257f2cea0b996ee723f05a587e58b48a8be881f"
+    },
+    {
+      "name": "gawker-2022-10-15T14:08:53.003522-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665857335",
+      "size": "9520",
+      "md5": "5eb02d4b831bd521fd1e8426a857ed70",
+      "crc32": "d4d61327",
+      "sha1": "2c6719986fe55952d9337eb28f29d25580467a6a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-15T14:08:53.003522-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665857337",
+      "size": "11356",
+      "md5": "6fe01276f4fb3e5b7d22313184501424",
+      "crc32": "cbc211b9",
+      "sha1": "53062c5e73ae665a0b7ecbc516c0304f90c2b29a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-15T14:08:53.003522-04:00.jpg",
+      "source": "original",
+      "mtime": "1665857334",
+      "size": "290872",
+      "md5": "d181559f1b2edbee1d2485ed8e336ccc",
+      "crc32": "698239ea",
+      "sha1": "1ca5352072747bc870eb410c9bf252b0ec333877",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-15T14:08:53.003522-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665857339",
+      "size": "1449",
+      "md5": "ac05c6c4b0776c8470a5bbc3f021e56c",
+      "crc32": "9beabdbb",
+      "sha1": "195488ea0511c9a8e15c1ba149470b0e2d8aed2a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-15T14:08:53.003522-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665857340",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-15T14:08:53.003522-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-15T14:08:53.003522-04:00.jpg",
+      "mtime": "1665857406",
+      "size": "10905",
+      "md5": "1c3de74fef2fbc1aaa94fa3ca5db3870",
+      "crc32": "622e2dc7",
+      "sha1": "9c3388ef49faa88073d34c9676ba8d97d3677444"
+    },
+    {
+      "name": "gawker-2022-10-16T02:40:00.980774-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665902404",
+      "size": "9522",
+      "md5": "08f624c495614fbcd72bb3ddd2e6c6dc",
+      "crc32": "dbb0a957",
+      "sha1": "eb7628ee59fc0979da58b4dab1a24ad6c21d1cca",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-16T02:40:00.980774-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665902406",
+      "size": "11358",
+      "md5": "44f30c95ddc80ab591cf7cfc588c2022",
+      "crc32": "a4814378",
+      "sha1": "bdeac739fbad40bf441625eb1e28ec8e99c13697",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-16T02:40:00.980774-04:00.jpg",
+      "source": "original",
+      "mtime": "1665902402",
+      "size": "290872",
+      "md5": "d181559f1b2edbee1d2485ed8e336ccc",
+      "crc32": "698239ea",
+      "sha1": "1ca5352072747bc870eb410c9bf252b0ec333877",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-16T02:40:00.980774-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665902408",
+      "size": "1450",
+      "md5": "49d73ad836d205ce0037e4dcca892dce",
+      "crc32": "fe8426ae",
+      "sha1": "f06bc8d9a4f354e264e4c1cb2b35d7f17d2a6baa",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-16T02:40:00.980774-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665902409",
+      "size": "33579",
+      "md5": "76c3366996c0b424464845b69b2bc285",
+      "crc32": "77aedc9e",
+      "sha1": "dee872c8315935dfa3c7a15ba25cab7df817badf",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-16T02:40:00.980774-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-16T02:40:00.980774-04:00.jpg",
+      "mtime": "1665902472",
+      "size": "10905",
+      "md5": "1c3de74fef2fbc1aaa94fa3ca5db3870",
+      "crc32": "622e2dc7",
+      "sha1": "9c3388ef49faa88073d34c9676ba8d97d3677444"
+    },
+    {
+      "name": "gawker-2022-10-16T13:36:53.247800-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665941816",
+      "size": "9523",
+      "md5": "773ff7087eac6c80f3a0dc9b10f4df4c",
+      "crc32": "ddaa18e6",
+      "sha1": "43efca5f424c9930609ff65b8baef16f81690c82",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-16T13:36:53.247800-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665941818",
+      "size": "11360",
+      "md5": "14abf09f4135e8e639102f05aebd9c2e",
+      "crc32": "b556d534",
+      "sha1": "c7afa4776098c86e745eaeac1935af88b6a04aad",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-16T13:36:53.247800-04:00.jpg",
+      "source": "original",
+      "mtime": "1665941815",
+      "size": "290872",
+      "md5": "d181559f1b2edbee1d2485ed8e336ccc",
+      "crc32": "698239ea",
+      "sha1": "1ca5352072747bc870eb410c9bf252b0ec333877",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-16T13:36:53.247800-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665941820",
+      "size": "1447",
+      "md5": "71651e5b9e773652e9eff7273e591bdb",
+      "crc32": "145469a7",
+      "sha1": "8d290f3ee733ae1aba01576dea8f0a7f4c8f3860",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-16T13:36:53.247800-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665941822",
+      "size": "44888",
+      "md5": "51a1d6ce534beee782c8fc5c1197e3b1",
+      "crc32": "67bf05fb",
+      "sha1": "7835c99457167eb1b4f6cd262e6a4443a13e4cee",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-16T13:36:53.247800-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-16T13:36:53.247800-04:00.jpg",
+      "mtime": "1665941901",
+      "size": "10905",
+      "md5": "1c3de74fef2fbc1aaa94fa3ca5db3870",
+      "crc32": "622e2dc7",
+      "sha1": "9c3388ef49faa88073d34c9676ba8d97d3677444"
+    },
+    {
+      "name": "gawker-2022-10-17T02:26:17.845868-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665988004",
+      "size": "9523",
+      "md5": "773ff7087eac6c80f3a0dc9b10f4df4c",
+      "crc32": "ddaa18e6",
+      "sha1": "43efca5f424c9930609ff65b8baef16f81690c82",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-17T02:26:17.845868-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665988006",
+      "size": "11360",
+      "md5": "14abf09f4135e8e639102f05aebd9c2e",
+      "crc32": "b556d534",
+      "sha1": "c7afa4776098c86e745eaeac1935af88b6a04aad",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-17T02:26:17.845868-04:00.jpg",
+      "source": "original",
+      "mtime": "1665988002",
+      "size": "290872",
+      "md5": "d181559f1b2edbee1d2485ed8e336ccc",
+      "crc32": "698239ea",
+      "sha1": "1ca5352072747bc870eb410c9bf252b0ec333877",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-17T02:26:17.845868-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665988008",
+      "size": "1450",
+      "md5": "6664deb57d0bf8e6b84f2491beb8f90a",
+      "crc32": "d82d5d1b",
+      "sha1": "4c594137ce84d04f518560e00974e76851920a5c",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-17T02:26:17.845868-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665988010",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-17T02:26:17.845868-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-17T02:26:17.845868-04:00.jpg",
+      "mtime": "1665988076",
+      "size": "10905",
+      "md5": "1c3de74fef2fbc1aaa94fa3ca5db3870",
+      "crc32": "622e2dc7",
+      "sha1": "9c3388ef49faa88073d34c9676ba8d97d3677444"
+    },
+    {
+      "name": "gawker-2022-10-17T14:12:53.087576-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666030376",
+      "size": "9864",
+      "md5": "c007c91b15d6ec5247014a69f5a4dd3f",
+      "crc32": "b4c3634a",
+      "sha1": "f611ad3bf415eac10e0c821ac8dc2c1233a358fd",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-17T14:12:53.087576-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666030378",
+      "size": "11455",
+      "md5": "88a849615e051e8dff75922bc94232f5",
+      "crc32": "95525517",
+      "sha1": "e8ede2513903683d6f95eb5f76a18561ca85ef77",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-17T14:12:53.087576-04:00.jpg",
+      "source": "original",
+      "mtime": "1666030374",
+      "size": "293593",
+      "md5": "63b636f4e5a76ff3d5157fd23789b1ff",
+      "crc32": "9f2dfd1f",
+      "sha1": "a81af3b5f3cf50c37af3e468129fe4fb9b331448",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-17T14:12:53.087576-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666030380",
+      "size": "1450",
+      "md5": "91401192a4c0d4a893cdd6a264eed198",
+      "crc32": "898a0d97",
+      "sha1": "28a3d9e382ab790db50e47138f27f65b02b9137a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-17T14:12:53.087576-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666030382",
+      "size": "33667",
+      "md5": "50667c6ceb0ce8c0f888092848b7426e",
+      "crc32": "56b95843",
+      "sha1": "32d66ee83de01244a3ac3e589c5537ef503a5517",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-17T14:12:53.087576-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-17T14:12:53.087576-04:00.jpg",
+      "mtime": "1666030462",
+      "size": "11054",
+      "md5": "be885195d1605632014eb8e501672670",
+      "crc32": "bdcaf3ae",
+      "sha1": "f6b2c1de5194e1cf1ad97f4dce56acf79d0c5665"
+    },
+    {
+      "name": "gawker-2022-10-18T02:01:49.167548-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666072913",
+      "size": "10030",
+      "md5": "cc74af139cad41b4c89892fb29abee82",
+      "crc32": "5d06f59c",
+      "sha1": "7a61eef26bbd03fed4d8fe55b1ec80bb6a452b3b",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-18T02:01:49.167548-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666072915",
+      "size": "11576",
+      "md5": "3994f0576bbc2286acc21d23fd98b45f",
+      "crc32": "23098167",
+      "sha1": "ec0e0577b53aaaf69b594480416d40b4fb2a624e",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-18T02:01:49.167548-04:00.jpg",
+      "source": "original",
+      "mtime": "1666072911",
+      "size": "305683",
+      "md5": "6540471cf6707fa87d91d1c7c39bec11",
+      "crc32": "9b5d37a2",
+      "sha1": "936e8085f716c2e76dc24b57aa440f9f62c5038d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-18T02:01:49.167548-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666072917",
+      "size": "1450",
+      "md5": "f0fb574af274f688f2e031405b0281ef",
+      "crc32": "4d7026ce",
+      "sha1": "8e73f05d97dbcc51588a343c248ef6035b01ef9a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-18T02:01:49.167548-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666072919",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-18T02:01:49.167548-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-18T02:01:49.167548-04:00.jpg",
+      "mtime": "1666072991",
+      "size": "11136",
+      "md5": "9b1b9c90a86d7091bf8fb457d193d9dd",
+      "crc32": "9d6a2f4d",
+      "sha1": "62e4661ac4c86c5b9e8bb5841777b008445b7f34"
+    },
+    {
+      "name": "gawker-2022-10-18T13:43:27.248451-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666115011",
+      "size": "9638",
+      "md5": "b11a178a58826beed870f380fdaa0536",
+      "crc32": "96febc6c",
+      "sha1": "c097290fd4a14a9d22ba4f80680a0f39a52733d8",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-18T13:43:27.248451-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666115013",
+      "size": "11516",
+      "md5": "c512c7f41431bd2a24d545d5a0035e59",
+      "crc32": "a4a7fa94",
+      "sha1": "cbe3a885233f7449b7d675538a49c7d31579b363",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-18T13:43:27.248451-04:00.jpg",
+      "source": "original",
+      "mtime": "1666115009",
+      "size": "281078",
+      "md5": "79480bc86fbfe91e36254bb7965c0555",
+      "crc32": "5ebf55d3",
+      "sha1": "01065d7452fa7715beb2fd6b5e535adc3536adfe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-18T13:43:27.248451-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666115015",
+      "size": "1450",
+      "md5": "24b0988e139a972a98210981b9314a4e",
+      "crc32": "15916963",
+      "sha1": "339f4c148a824482fded2932d98b165e78f55171",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-18T13:43:27.248451-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666115017",
+      "size": "33636",
+      "md5": "8d95353b1209c4a300f546f7e7877362",
+      "crc32": "f53432f8",
+      "sha1": "077743a6852891cadc1dbedbe983cb094ed095b2",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-18T13:43:27.248451-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-18T13:43:27.248451-04:00.jpg",
+      "mtime": "1666115085",
+      "size": "10799",
+      "md5": "b1064774848c6624c7a5f753b93ead2d",
+      "crc32": "5f01cc72",
+      "sha1": "0fe68c2a9c80589daa3f509da212d887e3dedd31"
+    },
+    {
+      "name": "gawker-2022-10-19T02:03:37.723554-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666159426",
+      "size": "9568",
+      "md5": "bae52ad13fca64f3db96b9ac0bd4dbe0",
+      "crc32": "9e29c24b",
+      "sha1": "8dbb29f6d33fcb28e7431e3eed00061b29bb3e4c",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-19T02:03:37.723554-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666159427",
+      "size": "11608",
+      "md5": "7cec4f852c0d1f9986c33f7a6f4f0abc",
+      "crc32": "d50d0df7",
+      "sha1": "9c246ec7a44503f99e9dc176e827251be3df361a",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-19T02:03:37.723554-04:00.jpg",
+      "source": "original",
+      "mtime": "1666159424",
+      "size": "284959",
+      "md5": "2f7a1f9e7270915d0ed75b57724a2a0c",
+      "crc32": "5aa5ec33",
+      "sha1": "84c298d7b436f204ca77d190c470a596dd11cb41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-19T02:03:37.723554-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666159429",
+      "size": "1449",
+      "md5": "e284d15fb112d44fee8e9e03a885a9ab",
+      "crc32": "71ef2542",
+      "sha1": "e8b8bb151e447cd9b41787fbe2c06a1d650d883f",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-19T02:03:37.723554-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666159431",
+      "size": "247",
+      "md5": "b61e71042d03e3b69fd679342512c6c6",
+      "crc32": "ccfe7587",
+      "sha1": "3a4cfda9dc313a606ee12ed854334e89b455c060",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-19T02:03:37.723554-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-19T02:03:37.723554-04:00.jpg",
+      "mtime": "1666180294",
+      "size": "10972",
+      "md5": "661cf628717027d318b96dc3a5611735",
+      "crc32": "39688031",
+      "sha1": "a9d65e76f522966d05ecef906708c4017f7b3210"
+    },
+    {
+      "name": "gawker-2022-10-19T14:20:33.605599-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666203639",
+      "size": "9603",
+      "md5": "0f9dd03ef25a21a0081f118bef73f556",
+      "crc32": "ae85c8b9",
+      "sha1": "65ce2540781f4cbb88693c5f5877fa8016d10669",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-19T14:20:33.605599-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666203642",
+      "size": "11505",
+      "md5": "6badf4b136206b301464f33ac501600b",
+      "crc32": "2d8e1ad6",
+      "sha1": "403363671545193c3653653e61c33b3e6d098c64",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-19T14:20:33.605599-04:00.jpg",
+      "source": "original",
+      "mtime": "1666203636",
+      "size": "299231",
+      "md5": "6e75b12d365eab0ff18016ba68f2f389",
+      "crc32": "8e8195c8",
+      "sha1": "9ca1e3d449dc6cba14343dcd22d3a89535a0801f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gawker-2022-10-19T14:20:33.605599-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666203644",
+      "size": "1450",
+      "md5": "232a2638cfae73940123990499862462",
+      "crc32": "a4b220d2",
+      "sha1": "d3f489c43ca714f22c6a7be16cb070bfecbc95ae",
+      "format": "JSON"
+    },
+    {
+      "name": "gawker-2022-10-19T14:20:33.605599-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666203647",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gawker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca9c7f70abe287010a29fc6a473fd6038024b508",
-      "mtime": "1665687410",
-      "size": "229420",
-      "md5": "2d7883417b05987252ea697f02dcbedf",
-      "crc32": "7e3e84c7",
-      "sha1": "c0ee1527165bfa1cb2f582c29c0a7295c3b8c6a8",
+      "btih": "721d277e5402b0def0ae1f34a070da552c40830f",
+      "mtime": "1666203774",
+      "size": "244208",
+      "md5": "61538bb9fb0313e9d9c84a16caf9302f",
+      "crc32": "5e33772f",
+      "sha1": "753582571491561aad3a607fb53aa48c74d6d89c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gawker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2462ce89740f69fd4010a6b33c350106",
+      "md5": "1c0fe546dd1804a8bf001faa8e28484a",
       "summation": "md5"
     },
     {
       "name": "gawker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665687333",
-      "size": "1372160",
-      "md5": "2472e5bfc3f4d0e9c0daf790e58f3cb5",
-      "crc32": "6d27a627",
-      "sha1": "24388af259810d5725d31eeb07bb48c4cd8bad0c",
+      "mtime": "1666203719",
+      "size": "1462272",
+      "md5": "9a88516e40db962a1e3896561aeda2ed",
+      "crc32": "9c115932",
+      "sha1": "510a4deb310c26b2145c826c1705f2004d2aea9e",
       "format": "Metadata"
     },
     {
@@ -11406,9 +12139,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1100,
-  "item_last_updated": 1665687410,
-  "item_size": 69385996,
+  "files_count": 1171,
+  "item_last_updated": 1666203774,
+  "item_size": 73711023,
   "metadata": {
     "identifier": "gawker-2022",
     "collection": [
@@ -11425,10 +12158,21 @@
     "publicdate": "2022-07-04 21:53:36",
     "addeddate": "2022-07-04 21:53:36"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 2089283578,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445841311,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 28681287,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

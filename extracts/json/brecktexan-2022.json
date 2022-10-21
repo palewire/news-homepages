@@ -1,5 +1,5 @@
 {
-  "created": 1665658396,
+  "created": 1666221206,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/brecktexan-2022",
@@ -11234,31 +11234,837 @@
       "sha1": "508df741989da7b74e49536ac46f087273483f0f"
     },
     {
+      "name": "brecktexan-2022-10-13T18:05:37.073855-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702347",
+      "size": "52463",
+      "md5": "a2f4014ce7fbad257ad05c497e7f259b",
+      "crc32": "38e337fa",
+      "sha1": "9344be526e140e4062f59f19d97b72a8de277ec7",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-13T18:05:37.073855-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702349",
+      "size": "47028",
+      "md5": "d5310ac3144c581d15d125ec7cdfca56",
+      "crc32": "dd10c96a",
+      "sha1": "fc2911a997f5fbb3c72faff26a19cb2d0acdefdf",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-13T18:05:37.073855-05:00.jpg",
+      "source": "original",
+      "mtime": "1665702345",
+      "size": "443792",
+      "md5": "1ff67f32d43d464d457cb39762483720",
+      "crc32": "84cef0a2",
+      "sha1": "2d0964d94ef8e84ee6f10b739ae09d538b0ba338",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-13T18:05:37.073855-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702352",
+      "size": "1521",
+      "md5": "4901b59d86b9a1723da7af6729d3bf3c",
+      "crc32": "8e7f3657",
+      "sha1": "701850df7f68ccf9a8b37baffb87dc26703f5db0",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-13T18:05:37.073855-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702353",
+      "size": "31616",
+      "md5": "36e257b797e0695dce359e62a7e6e0e2",
+      "crc32": "9232f330",
+      "sha1": "ff439e38e6772a6a45eac07f279c0310fb226f9b",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-13T18:05:37.073855-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-13T18:05:37.073855-05:00.jpg",
+      "mtime": "1665702445",
+      "size": "10323",
+      "md5": "bb17f68138d8351c80a64f201a52ef3b",
+      "crc32": "5ded2998",
+      "sha1": "04cf82c4f609180d642132df2f66af3b331f827b"
+    },
+    {
+      "name": "brecktexan-2022-10-14T05:59:09.312341-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665745158",
+      "size": "52463",
+      "md5": "a2f4014ce7fbad257ad05c497e7f259b",
+      "crc32": "38e337fa",
+      "sha1": "9344be526e140e4062f59f19d97b72a8de277ec7",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-14T05:59:09.312341-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665745161",
+      "size": "47028",
+      "md5": "d5310ac3144c581d15d125ec7cdfca56",
+      "crc32": "dd10c96a",
+      "sha1": "fc2911a997f5fbb3c72faff26a19cb2d0acdefdf",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-14T05:59:09.312341-05:00.jpg",
+      "source": "original",
+      "mtime": "1665745156",
+      "size": "443747",
+      "md5": "4456eea042c71bb46087246989113f54",
+      "crc32": "de830697",
+      "sha1": "25a5bc0771e23aac85cc17326b3eb1ecf8c44836",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-14T05:59:09.312341-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665745162",
+      "size": "1522",
+      "md5": "d41d975ea531eb113078fb2fe2e5675c",
+      "crc32": "8bf619f6",
+      "sha1": "696b609a410f4f542f2292cb0e596269238c7570",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-14T05:59:09.312341-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665745165",
+      "size": "31778",
+      "md5": "182539bd783afb7d9dabfc4df32e43df",
+      "crc32": "87bfff6c",
+      "sha1": "ec8c65f95409996ac2c675b8e9c98361202715b3",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-14T05:59:09.312341-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-14T05:59:09.312341-05:00.jpg",
+      "mtime": "1665745336",
+      "size": "10323",
+      "md5": "bb17f68138d8351c80a64f201a52ef3b",
+      "crc32": "5ded2998",
+      "sha1": "04cf82c4f609180d642132df2f66af3b331f827b"
+    },
+    {
+      "name": "brecktexan-2022-10-14T18:09:29.179430-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788977",
+      "size": "52660",
+      "md5": "764e413aa0f3e306dd27859b54a80e56",
+      "crc32": "b39f9179",
+      "sha1": "a539339a48ca3645b0e1f3941717ecdb4e62fc4c",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-14T18:09:29.179430-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788980",
+      "size": "47067",
+      "md5": "ac2104fc4b2f3ec4245f9578c8fc3de3",
+      "crc32": "b0f5f996",
+      "sha1": "2ac6e0f7a477c04c8dd63de5f575d2d6fae481c1",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-14T18:09:29.179430-05:00.jpg",
+      "source": "original",
+      "mtime": "1665788975",
+      "size": "448937",
+      "md5": "b75bd503b0f69747bb92762458d4eb89",
+      "crc32": "aadca3a1",
+      "sha1": "55e4965ed79adc9867b1ef586cc9a602e37c18c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-14T18:09:29.179430-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788982",
+      "size": "1522",
+      "md5": "d3f575cd443107ea68f9931931d14bc1",
+      "crc32": "d9e110d8",
+      "sha1": "d9b87b124a8829a89a8cab23a8fd582d82ad404d",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-14T18:09:29.179430-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665788986",
+      "size": "31383",
+      "md5": "d2853040f2a1a44f98209ee3518a1f66",
+      "crc32": "5b7c8fb6",
+      "sha1": "ec29c40b1079f8d7db7889b5564ca2a966b4f465",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-14T18:09:29.179430-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-14T18:09:29.179430-05:00.jpg",
+      "mtime": "1665789065",
+      "size": "10353",
+      "md5": "160b49a9c4965fb02b7d494539d79c7b",
+      "crc32": "278143e6",
+      "sha1": "31532bd4b6487bd88acf72b667ba930125569e55"
+    },
+    {
+      "name": "brecktexan-2022-10-15T05:59:14.544004-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831566",
+      "size": "52660",
+      "md5": "764e413aa0f3e306dd27859b54a80e56",
+      "crc32": "b39f9179",
+      "sha1": "a539339a48ca3645b0e1f3941717ecdb4e62fc4c",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-15T05:59:14.544004-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831567",
+      "size": "47067",
+      "md5": "ac2104fc4b2f3ec4245f9578c8fc3de3",
+      "crc32": "b0f5f996",
+      "sha1": "2ac6e0f7a477c04c8dd63de5f575d2d6fae481c1",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-15T05:59:14.544004-05:00.jpg",
+      "source": "original",
+      "mtime": "1665831564",
+      "size": "448989",
+      "md5": "09ac6182927353942fc2a7b59fb8bbc1",
+      "crc32": "57d62478",
+      "sha1": "ec8fc73aa9a11bc4c2da0f8a5fec2276c8626cb9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-15T05:59:14.544004-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831569",
+      "size": "1522",
+      "md5": "8871c9d7c6c321b2355eb8ee931aae94",
+      "crc32": "7ee182a9",
+      "sha1": "89e7c6ef5bcd08bd42048eae802c502ebba3b24b",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-15T05:59:14.544004-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831571",
+      "size": "31524",
+      "md5": "6db053bd73417e157b6fbf024b390d5c",
+      "crc32": "0e84edb2",
+      "sha1": "a99a64ebbb289638c70f0c94d40097f2da04b179",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-15T05:59:14.544004-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-15T05:59:14.544004-05:00.jpg",
+      "mtime": "1665831756",
+      "size": "10353",
+      "md5": "160b49a9c4965fb02b7d494539d79c7b",
+      "crc32": "278143e6",
+      "sha1": "31532bd4b6487bd88acf72b667ba930125569e55"
+    },
+    {
+      "name": "brecktexan-2022-10-15T18:08:11.122848-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665875299",
+      "size": "52660",
+      "md5": "764e413aa0f3e306dd27859b54a80e56",
+      "crc32": "b39f9179",
+      "sha1": "a539339a48ca3645b0e1f3941717ecdb4e62fc4c",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-15T18:08:11.122848-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665875300",
+      "size": "47067",
+      "md5": "ac2104fc4b2f3ec4245f9578c8fc3de3",
+      "crc32": "b0f5f996",
+      "sha1": "2ac6e0f7a477c04c8dd63de5f575d2d6fae481c1",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-15T18:08:11.122848-05:00.jpg",
+      "source": "original",
+      "mtime": "1665875297",
+      "size": "450153",
+      "md5": "c7bf0bbc3dbc887cc6bd4b2519f3b71a",
+      "crc32": "2e80ff36",
+      "sha1": "d8e3503b4047317a0f65174ff8212fe2b62df344",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-15T18:08:11.122848-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665875302",
+      "size": "1522",
+      "md5": "d905477ae7a6f2e3ac580ff8c2b8de72",
+      "crc32": "313f4f5f",
+      "sha1": "9fdc3da27a86e189e61cfea8ff14c12b7d01b8b0",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-15T18:08:11.122848-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665875303",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-15T18:08:11.122848-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-15T18:08:11.122848-05:00.jpg",
+      "mtime": "1665875390",
+      "size": "10361",
+      "md5": "9cef81ce0e43064f16ccd524f2f4cb6f",
+      "crc32": "1a021ee7",
+      "sha1": "2996d2a7fa5af166e2694ca7bb6a4ead6c09ba7f"
+    },
+    {
+      "name": "brecktexan-2022-10-16T05:57:12.720738-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917841",
+      "size": "52660",
+      "md5": "764e413aa0f3e306dd27859b54a80e56",
+      "crc32": "b39f9179",
+      "sha1": "a539339a48ca3645b0e1f3941717ecdb4e62fc4c",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-16T05:57:12.720738-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917843",
+      "size": "47067",
+      "md5": "ac2104fc4b2f3ec4245f9578c8fc3de3",
+      "crc32": "b0f5f996",
+      "sha1": "2ac6e0f7a477c04c8dd63de5f575d2d6fae481c1",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-16T05:57:12.720738-05:00.jpg",
+      "source": "original",
+      "mtime": "1665917840",
+      "size": "450158",
+      "md5": "0e5f6896b3c614c3a5723241bd2fca22",
+      "crc32": "84b352ef",
+      "sha1": "baf6576d63b1d3d0350b8048dbb09b05dd7b3081",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-16T05:57:12.720738-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917845",
+      "size": "1521",
+      "md5": "caf78a0b6c7bf50983e5f068f3a103fd",
+      "crc32": "f99b767e",
+      "sha1": "9a6ceeed936c2a6080aa3c4ad87aefaafb8ada46",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-16T05:57:12.720738-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917846",
+      "size": "106",
+      "md5": "ddc8ab58e9326d3db517f400393e7b9d",
+      "crc32": "86c653ef",
+      "sha1": "9a8a1a73f0647576e20dee6c33f034540c1af671",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-16T05:57:12.720738-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-16T05:57:12.720738-05:00.jpg",
+      "mtime": "1665917923",
+      "size": "10365",
+      "md5": "c69b952790e9223fb79f2eeb7857d676",
+      "crc32": "810c5220",
+      "sha1": "7edd91ac16526ed62c114cf03285d70cce891a4e"
+    },
+    {
+      "name": "brecktexan-2022-10-16T18:03:03.840643-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961390",
+      "size": "47057",
+      "md5": "64a3a14e2db56e51779d7bd0965c40d3",
+      "crc32": "74d141a8",
+      "sha1": "092f58e8ea738fcf5062ed19feb39b92669b61fa",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-16T18:03:03.840643-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961392",
+      "size": "39865",
+      "md5": "a78da00b2763e664353109ecea7a453d",
+      "crc32": "bc96861d",
+      "sha1": "f9c8f28f116e01de3a69e99705e4586e855e658f",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-16T18:03:03.840643-05:00.jpg",
+      "source": "original",
+      "mtime": "1665961389",
+      "size": "467387",
+      "md5": "9444a4167f099421cf13923cf5c0a989",
+      "crc32": "8d617fd7",
+      "sha1": "541692b935d5a4851e9d17001662780150847646",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-16T18:03:03.840643-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961393",
+      "size": "1522",
+      "md5": "f242bd510dfb91358e544cb6c73d9dfa",
+      "crc32": "75eb2615",
+      "sha1": "1fe355a1dda369592a32eb5680ede7df0e4592c5",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-16T18:03:03.840643-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961395",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-16T18:03:03.840643-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-16T18:03:03.840643-05:00.jpg",
+      "mtime": "1665961474",
+      "size": "10509",
+      "md5": "3332dca4780a0ab39191d9e815926743",
+      "crc32": "90fd90bd",
+      "sha1": "5457116b49b5ba722735d367072e7a6ad8fd450d"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003908",
+      "size": "47080",
+      "md5": "058e9afeb19d17675da716818c49746d",
+      "crc32": "5fe6c3b1",
+      "sha1": "04ed0dd9901f09b1c7cbb093774e9d37bd14a225",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003910",
+      "size": "39904",
+      "md5": "c213e00029cc49c7e67b2857770f8d85",
+      "crc32": "9549b7ea",
+      "sha1": "df1ff2c32f961fdad5f5112d1d1789bcf9fbf5ae",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.jpg",
+      "source": "original",
+      "mtime": "1666003906",
+      "size": "466525",
+      "md5": "73c2f01b311a28cf16ee0adeab2f1d8e",
+      "crc32": "54728b53",
+      "sha1": "70211a659e00d50b58af86c56fc0fd4b94653682",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003912",
+      "size": "1522",
+      "md5": "057efe5640450b4710585e02f54c6674",
+      "crc32": "807787e7",
+      "sha1": "9f3b365e4ebac804e931532298bfbbce29d30596",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003915",
+      "size": "24948",
+      "md5": "729a2decda9f8351b8f30276177bab40",
+      "crc32": "562bec6e",
+      "sha1": "ef6538769ded659f68f40d3d7a50c39d1b1074d2",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T05:51:33.601208-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-17T05:51:33.601208-05:00.jpg",
+      "mtime": "1666003999",
+      "size": "10544",
+      "md5": "203f858a598e8fa26edb4965b93ac2f3",
+      "crc32": "fea2a0c5",
+      "sha1": "ba99ed60592862779d260baf1968c4d0b469821f"
+    },
+    {
+      "name": "brecktexan-2022-10-17T17:56:59.451761-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047428",
+      "size": "46978",
+      "md5": "1dbbb3e717e717913ecf4be8892fddb1",
+      "crc32": "71adefae",
+      "sha1": "afaca63b62ed1e0c9185c7ed8baef6dee3f74583",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T17:56:59.451761-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047430",
+      "size": "39798",
+      "md5": "04be24857f61c6429e0efba9f6c630cd",
+      "crc32": "6b33970f",
+      "sha1": "1c8fc0f423b4b930dd02b0f8b969259f86d8f677",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T17:56:59.451761-05:00.jpg",
+      "source": "original",
+      "mtime": "1666047427",
+      "size": "463949",
+      "md5": "db451f34ff09134d910564b99588a0b9",
+      "crc32": "d5159167",
+      "sha1": "2f843014a5f8bf9f912661f8b4f0671f07bc7df0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-17T17:56:59.451761-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047432",
+      "size": "1522",
+      "md5": "28d71f6d86bd6347f207a4c6537f5c99",
+      "crc32": "7f405f59",
+      "sha1": "db1bac1c5c7872271f843e148a37c11a78c0b828",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T17:56:59.451761-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047434",
+      "size": "25250",
+      "md5": "2d36648a7e0821c23505de7692742f89",
+      "crc32": "dc00d200",
+      "sha1": "125339ac21b7b42497f4be46c5eb5203f89b56d4",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-17T17:56:59.451761-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-17T17:56:59.451761-05:00.jpg",
+      "mtime": "1666047521",
+      "size": "10547",
+      "md5": "3407e72a5f1c6f5bf88d25eaa4b43959",
+      "crc32": "70f3d1ce",
+      "sha1": "40183dd979935c252109f53e890aec4a063eef5d"
+    },
+    {
+      "name": "brecktexan-2022-10-18T05:56:54.082600-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666090619",
+      "size": "46978",
+      "md5": "1dbbb3e717e717913ecf4be8892fddb1",
+      "crc32": "71adefae",
+      "sha1": "afaca63b62ed1e0c9185c7ed8baef6dee3f74583",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-18T05:56:54.082600-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666090620",
+      "size": "39798",
+      "md5": "04be24857f61c6429e0efba9f6c630cd",
+      "crc32": "6b33970f",
+      "sha1": "1c8fc0f423b4b930dd02b0f8b969259f86d8f677",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-18T05:56:54.082600-05:00.jpg",
+      "source": "original",
+      "mtime": "1666090616",
+      "size": "464406",
+      "md5": "b9b97433b214f7f1197c82ad10398753",
+      "crc32": "27520407",
+      "sha1": "a0d2f3c08da0e0a1e3a8427db4ef82b4fd21a6ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-18T05:56:54.082600-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666090622",
+      "size": "1522",
+      "md5": "5474975d72a0a74cf1da6ed75c9e8197",
+      "crc32": "e8307256",
+      "sha1": "7870b3a812f6e1a08449087f2dc99bdbae17d1a6",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-18T05:56:54.082600-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666090624",
+      "size": "25056",
+      "md5": "fdd1bc59892388e60dc42c87477bf974",
+      "crc32": "bcf0379e",
+      "sha1": "60ef7186426b7232b77d2f39d9ab09687e75793e",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-18T05:56:54.082600-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-18T05:56:54.082600-05:00.jpg",
+      "mtime": "1666090698",
+      "size": "10560",
+      "md5": "0065ec57d2e11f5bf51b9c1e0dc53b4b",
+      "crc32": "76ef4991",
+      "sha1": "8c008e8daeeda403c53e4cb72e82d6c88183e967"
+    },
+    {
+      "name": "brecktexan-2022-10-18T18:14:07.356101-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134859",
+      "size": "47070",
+      "md5": "d2ddf6992753d6770054523f7c73c446",
+      "crc32": "cfd7dc87",
+      "sha1": "b9ca31656b63efdd939e5a98f15aaa0a932ed0aa",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-18T18:14:07.356101-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134860",
+      "size": "39835",
+      "md5": "cc6c372e95f3e4cc5026c12e9eba5386",
+      "crc32": "a1eecee3",
+      "sha1": "89c2e82835d6a4696d20ea37c0d056a8e874d30b",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-18T18:14:07.356101-05:00.jpg",
+      "source": "original",
+      "mtime": "1666134857",
+      "size": "463040",
+      "md5": "e806672d99c913c5e79b6daad3fc3dbe",
+      "crc32": "db946c70",
+      "sha1": "7807b68556d4a61f948bf59ea6b699cc88b44b5c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-18T18:14:07.356101-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134862",
+      "size": "1521",
+      "md5": "8b2baeb3a774acd7d2adeb11f30acf5e",
+      "crc32": "355b7280",
+      "sha1": "459341ea5e30bd432730059ebb86dcee239f0f36",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-18T18:14:07.356101-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134863",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-18T18:14:07.356101-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-18T18:14:07.356101-05:00.jpg",
+      "mtime": "1666160338",
+      "size": "10483",
+      "md5": "c62de8ab158e751eeda03d07f193ee57",
+      "crc32": "483bf2c3",
+      "sha1": "18dcf8ef1dbc10a7e85e4ab81d660162ac3160db"
+    },
+    {
+      "name": "brecktexan-2022-10-19T05:57:20.997747-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666177063",
+      "size": "47070",
+      "md5": "d2ddf6992753d6770054523f7c73c446",
+      "crc32": "cfd7dc87",
+      "sha1": "b9ca31656b63efdd939e5a98f15aaa0a932ed0aa",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-19T05:57:20.997747-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666177065",
+      "size": "39835",
+      "md5": "cc6c372e95f3e4cc5026c12e9eba5386",
+      "crc32": "a1eecee3",
+      "sha1": "89c2e82835d6a4696d20ea37c0d056a8e874d30b",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-19T05:57:20.997747-05:00.jpg",
+      "source": "original",
+      "mtime": "1666177062",
+      "size": "463029",
+      "md5": "3bf0110c0ccb571020b3e9596844d7ae",
+      "crc32": "7fe89c1c",
+      "sha1": "0ed8b03d64f0d31d8c309c19d32bd4ef47f1468b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-19T05:57:20.997747-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666177066",
+      "size": "1522",
+      "md5": "9bf500c8619ab0eb02b5a4fc9e1094fc",
+      "crc32": "ad035de9",
+      "sha1": "2a1d83185580be4d00a74d87601e2d774d81db6a",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-19T05:57:20.997747-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666177068",
+      "size": "25136",
+      "md5": "c96d834685ffb3ae4b2eef4c89f3548e",
+      "crc32": "20bb1a25",
+      "sha1": "8a472bb82ce192a941fa65af5f6cd84b1aa602d8",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-19T05:57:20.997747-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-19T05:57:20.997747-05:00.jpg",
+      "mtime": "1666196762",
+      "size": "10490",
+      "md5": "b0ee852b4632deab88aaf4a190159f43",
+      "crc32": "1c2d1d6d",
+      "sha1": "f59a37d047cd2e3f3885949524b27a8a4d856f43"
+    },
+    {
+      "name": "brecktexan-2022-10-19T18:09:55.181444-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666221025",
+      "size": "47070",
+      "md5": "d2ddf6992753d6770054523f7c73c446",
+      "crc32": "cfd7dc87",
+      "sha1": "b9ca31656b63efdd939e5a98f15aaa0a932ed0aa",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-19T18:09:55.181444-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666221027",
+      "size": "39835",
+      "md5": "cc6c372e95f3e4cc5026c12e9eba5386",
+      "crc32": "a1eecee3",
+      "sha1": "89c2e82835d6a4696d20ea37c0d056a8e874d30b",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-19T18:09:55.181444-05:00.jpg",
+      "source": "original",
+      "mtime": "1666221023",
+      "size": "463496",
+      "md5": "bb33f783d766c316c522884c9d31ea9f",
+      "crc32": "d7b11e52",
+      "sha1": "b4d6951f26c5c07f9de3b1e354a13a7abda9e68e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-19T18:09:55.181444-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666221028",
+      "size": "1522",
+      "md5": "9c54467964da504b3d9b6c18d85e801e",
+      "crc32": "768520f6",
+      "sha1": "1478f6cb9f7351870ea3b7f3ceebcd79c10e13f4",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-19T18:09:55.181444-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666221030",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-19T18:09:55.181444-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-19T18:09:55.181444-05:00.jpg",
+      "mtime": "1666221151",
+      "size": "10496",
+      "md5": "bd4e5ae72c9ff29a4893ca7e3b3211e1",
+      "crc32": "3a1d9e78",
+      "sha1": "eb193d3739a5b219597da097c959216a14b18884"
+    },
+    {
       "name": "brecktexan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "06860519328fca09a429a39cec43bda14120a3bb",
-      "mtime": "1665658339",
-      "size": "233129",
-      "md5": "4a8365b1566ab1963d6ae7e7410e4074",
-      "crc32": "ab0217cf",
-      "sha1": "8afa40fa0b9e7ac1142c1bcbb3c0638e1a63a852",
+      "btih": "f0e772036a67310cf5cf2667b1195c3a27eb9a1d",
+      "mtime": "1666221167",
+      "size": "249799",
+      "md5": "0afe488788c30661a8247224aff8a6a1",
+      "crc32": "33be7947",
+      "sha1": "94887f6b297ac0f8cf75ac4fd006903c3923c4e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brecktexan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5c0fe24a2062ffafc51c25503b0871f",
+      "md5": "35742448e5cdf37fe20fb73c2526adf5",
       "summation": "md5"
     },
     {
       "name": "brecktexan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658165",
-      "size": "1376256",
-      "md5": "5eb8b60854aa60be1a9b1376f42c7487",
-      "crc32": "a37a684a",
-      "sha1": "df012e4ffbecf9a41db98fd4389889b0c33372b2",
+      "mtime": "1666221042",
+      "size": "1470464",
+      "md5": "6d9bcdb9212cbcd9f805273a85250f3c",
+      "crc32": "12894e69",
+      "sha1": "cab0abffff389847ae6f0f1828da9f603f45aa1d",
       "format": "Metadata"
     },
     {
@@ -11272,9 +12078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1088,
-  "item_last_updated": 1665658339,
-  "item_size": 110666702,
+  "files_count": 1166,
+  "item_last_updated": 1666221167,
+  "item_size": 118304346,
   "metadata": {
     "identifier": "brecktexan-2022",
     "collection": [
@@ -11291,10 +12097,10 @@
     "publicdate": "2022-07-09 03:56:32",
     "addeddate": "2022-07-09 03:56:32"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 360940134,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1834158094,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

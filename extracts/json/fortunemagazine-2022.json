@@ -1,5 +1,6 @@
 {
-  "created": 1665619132,
+  "conflict": 1666224945,
+  "created": 1666224945,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/21/items/fortunemagazine-2022",
@@ -13670,31 +13671,899 @@
       "sha1": "91ffb191d7230fbcee34c93d4813b3f368f1eb69"
     },
     {
+      "name": "fortunemagazine-2022-10-13T07:51:45.101138-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665661908",
+      "size": "76144",
+      "md5": "f6c3999d61c0218f7e08f3ccce0556d6",
+      "crc32": "0c1e3604",
+      "sha1": "087c5f2d1cecaeacb7ad5713929f0191f3643c2e",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T07:51:45.101138-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665661910",
+      "size": "56708",
+      "md5": "0bf55747046c591afc07868a59c00771",
+      "crc32": "3f6689fc",
+      "sha1": "995149f24bd9f9d259986bf507fe873089a5ea7b",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T07:51:45.101138-04:00.jpg",
+      "source": "original",
+      "mtime": "1665661906",
+      "size": "282100",
+      "md5": "72a04ee7356f5b957a5a3113da2c3bf5",
+      "crc32": "8cb3c532",
+      "sha1": "1dd2eab8aee2f41a21e7552908d7025779fa5645",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T07:51:45.101138-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665661912",
+      "size": "1423",
+      "md5": "c633e63c70fd13b8fc2723bf4fdfae73",
+      "crc32": "8d1492b6",
+      "sha1": "7e47fd4917f9c9f9dd9105e7647f983f8dc7a5d8",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T07:51:45.101138-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665661914",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T07:51:45.101138-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-13T07:51:45.101138-04:00.jpg",
+      "mtime": "1665662006",
+      "size": "9658",
+      "md5": "52a9bd7f09dcdc65c0d958738150f118",
+      "crc32": "eb934c54",
+      "sha1": "d0a9daa0fb05bc77005fae18e529c2428eee69fe"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T20:02:20.114989-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665705750",
+      "size": "78931",
+      "md5": "0da29bbe89793359f116b2506864d2ff",
+      "crc32": "57274a29",
+      "sha1": "777d389dc60f35ca97a15f75861f465c2aeaebf1",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T20:02:20.114989-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665705752",
+      "size": "58654",
+      "md5": "2ba4403cd0bb93c621385aa992d2860d",
+      "crc32": "5c568fb8",
+      "sha1": "dd4aa948062a332228bdc96e221d0ad5dc6dc40a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T20:02:20.114989-04:00.jpg",
+      "source": "original",
+      "mtime": "1665705748",
+      "size": "326848",
+      "md5": "2e7e842692ca07e60018dc9e8a1c2330",
+      "crc32": "bcae4568",
+      "sha1": "0fd5aaec9d722bd2d8dcdd20b85b9ceb764be946",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T20:02:20.114989-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665705754",
+      "size": "1423",
+      "md5": "f14ecde9d808eff98ad02b02b8a9dd0c",
+      "crc32": "6a34ceb5",
+      "sha1": "69c4d457d692d380b43d470818f25e96923a8834",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T20:02:20.114989-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665705755",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-13T20:02:20.114989-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-13T20:02:20.114989-04:00.jpg",
+      "mtime": "1665705866",
+      "size": "10194",
+      "md5": "fb287bf5db39ceab475d022ee25ebc2a",
+      "crc32": "3eb196cf",
+      "sha1": "921184fb4d27471a6245623df07040f6eebdd657"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T08:03:18.331120-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665749002",
+      "size": "78539",
+      "md5": "2c1d3f102c0ce5189bfdbb9dcc60f1a4",
+      "crc32": "f93545a0",
+      "sha1": "d1b41f1fcbe2d6738533e8004dc4b8f9922976a1",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T08:03:18.331120-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665749004",
+      "size": "59061",
+      "md5": "9a53208b23b3658397de2a348b334541",
+      "crc32": "210df32b",
+      "sha1": "00b021d1c8d0f58c564935faf7567e027338e1e9",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T08:03:18.331120-04:00.jpg",
+      "source": "original",
+      "mtime": "1665749000",
+      "size": "308544",
+      "md5": "c8e8c473b2efafacfdd8684022826e4e",
+      "crc32": "f027e35f",
+      "sha1": "07674b536148136b1ed27669808ae0efd1d87914",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T08:03:18.331120-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665749005",
+      "size": "1423",
+      "md5": "e517ccf1293589a5bafd764afe445276",
+      "crc32": "ab1aa437",
+      "sha1": "7fa83aa4adedf575231be24f412a8eab5e7c10b1",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T08:03:18.331120-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665749008",
+      "size": "14522",
+      "md5": "2b29388656946f5e623fb741b99a7b6c",
+      "crc32": "5d2a8d20",
+      "sha1": "2f461a19c7335ff2c5f812e952cce901b8867a08",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T08:03:18.331120-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-14T08:03:18.331120-04:00.jpg",
+      "mtime": "1665749103",
+      "size": "9932",
+      "md5": "e4f93de07349ca9a1d8b0d263b699218",
+      "crc32": "6292828a",
+      "sha1": "223cdfd784306c6052b54d247f6e3f23b8a430f8"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T20:12:45.927313-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665792779",
+      "size": "78186",
+      "md5": "96fd4222878295efdcc09c60a7672dd1",
+      "crc32": "c697eb8f",
+      "sha1": "c2b1340af7c6e1a8ef1f2d1b0d61446bcda57820",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T20:12:45.927313-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665792782",
+      "size": "58017",
+      "md5": "278be95a3b4dedf8c7995ff74492c46c",
+      "crc32": "647bd632",
+      "sha1": "7019e4491fb84115db3f5ade47e2be9aa27b8423",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T20:12:45.927313-04:00.jpg",
+      "source": "original",
+      "mtime": "1665792777",
+      "size": "305411",
+      "md5": "ce46cc23210d87b318cfedcf08795bc6",
+      "crc32": "5c80b897",
+      "sha1": "7862945d66f80cf45d22bebfe92aac37088cd991",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T20:12:45.927313-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665792784",
+      "size": "1423",
+      "md5": "2dcebcf387c834c7e09127ccbc438155",
+      "crc32": "f351868b",
+      "sha1": "8df9d6cd22122564cd49009f92ae40140b5853c0",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T20:12:45.927313-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665792787",
+      "size": "227",
+      "md5": "64eb4d7201493efbbb7fa4d8e5f834fa",
+      "crc32": "a1098a49",
+      "sha1": "cc89f2bddfca3d3b4e358077914323742b0e459a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-14T20:12:45.927313-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-14T20:12:45.927313-04:00.jpg",
+      "mtime": "1665792903",
+      "size": "9871",
+      "md5": "b5f2ac59e8ea0b13772ed179788b0c0d",
+      "crc32": "e9d2cb82",
+      "sha1": "0d8e1248bb6e73dfb235d498f3f9678572f73143"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T08:01:50.451349-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665835314",
+      "size": "77746",
+      "md5": "5ffae1c804c04763bc8dbbdf0fa1fb9c",
+      "crc32": "2fcc1966",
+      "sha1": "9049f5c252cda67b03eeba737efd48bfdc3e2e84",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T08:01:50.451349-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665835316",
+      "size": "58442",
+      "md5": "bfa64464c5b11d932341bbeac4c185c2",
+      "crc32": "b40efb76",
+      "sha1": "6dcd1aa020a15cdbabd841766c04e6d0cbb73522",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T08:01:50.451349-04:00.jpg",
+      "source": "original",
+      "mtime": "1665835312",
+      "size": "303322",
+      "md5": "f3677c32c77744ccbfe115d6ff685505",
+      "crc32": "c302673f",
+      "sha1": "7e54dd542f7efca3476724a6d7af160039616fb6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T08:01:50.451349-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665835318",
+      "size": "1423",
+      "md5": "57940a8294e772a10cefcf4970646bd8",
+      "crc32": "356918da",
+      "sha1": "c5c8b6be661ab3eede59c02adfecbda2d8922e9e",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T08:01:50.451349-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665835320",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T08:01:50.451349-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-15T08:01:50.451349-04:00.jpg",
+      "mtime": "1665835704",
+      "size": "9834",
+      "md5": "a2e237be69588c63bef548a4522d7e72",
+      "crc32": "ad62d8cc",
+      "sha1": "ab164200e436220e35e6aef357dd5053c401a1a8"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T20:10:24.209378-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665879039",
+      "size": "77741",
+      "md5": "774962ef2c34cdabbb0b0ef4fc5a9c3c",
+      "crc32": "dfa60c67",
+      "sha1": "0a32164f325296a11ac918dbcd267aa318628d06",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T20:10:24.209378-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665879040",
+      "size": "58424",
+      "md5": "273ebd4e53c6f2e79f7ea584a140a4c4",
+      "crc32": "6d22e6c6",
+      "sha1": "709291b2bbc49398b33a5611cf1eb1908b857b58",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T20:10:24.209378-04:00.jpg",
+      "source": "original",
+      "mtime": "1665879037",
+      "size": "313886",
+      "md5": "244e3570d03b9e0d18baaa67dffe8f72",
+      "crc32": "7f18712c",
+      "sha1": "09501bb103c8e6b6d6387eea827b7e083405c23c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T20:10:24.209378-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665879042",
+      "size": "1423",
+      "md5": "6795b51cb4d63636ab356675a5518229",
+      "crc32": "4e4a1ff6",
+      "sha1": "c9f9d79d69dbc672c7fec0894a57291e1b8ffead",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T20:10:24.209378-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665879044",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-15T20:10:24.209378-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-15T20:10:24.209378-04:00.jpg",
+      "mtime": "1665879130",
+      "size": "9508",
+      "md5": "283f447dd638d9a316827c5eeed3e9d6",
+      "crc32": "b360c932",
+      "sha1": "6239ec5db3173a1753a18b762251edc93bed140d"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T07:56:40.742651-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665921414",
+      "size": "77742",
+      "md5": "77a7b2e3e65f234f4fa175479f81c03b",
+      "crc32": "269dffbc",
+      "sha1": "1f41f2981b3847548668b86fcffacad49cfa802c",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T07:56:40.742651-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665921416",
+      "size": "58448",
+      "md5": "62604d72386d9a823e5177fba948ba41",
+      "crc32": "a77a729b",
+      "sha1": "d25e48da47a4bb56afc75e956e4b6f45454ae5f1",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T07:56:40.742651-04:00.jpg",
+      "source": "original",
+      "mtime": "1665921413",
+      "size": "312414",
+      "md5": "da7c276730975c9ec1f887a6f682598e",
+      "crc32": "d18a7c07",
+      "sha1": "7689c3bdb427858a8b259b8934ebd44942818787",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T07:56:40.742651-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665921417",
+      "size": "1414",
+      "md5": "fec47a243360b96fe515e146b06768e4",
+      "crc32": "aed69b6e",
+      "sha1": "8817e06ac5c6d0296ed9551c06891a1f8206b652",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T07:56:40.742651-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665921418",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T07:56:40.742651-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-16T07:56:40.742651-04:00.jpg",
+      "mtime": "1665921495",
+      "size": "9478",
+      "md5": "50e352fed533682dec5a2bb489d217ec",
+      "crc32": "0e6c69c4",
+      "sha1": "f16a1ce6b3f0b15bca500f9b80e45341dcde303d"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T20:01:12.162912-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665964879",
+      "size": "77455",
+      "md5": "2a8aa4ad0742c3748e5941936a54230a",
+      "crc32": "9cbd5e02",
+      "sha1": "e3b3dff8d1ac8c50473da203a9ba15318cc519b7",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T20:01:12.162912-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665964881",
+      "size": "58653",
+      "md5": "5c8db39d44af0c7cf347e0045431d2c1",
+      "crc32": "b984175b",
+      "sha1": "086edf170fcea4829d7b3b72cca1949a5d3a9c6b",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T20:01:12.162912-04:00.jpg",
+      "source": "original",
+      "mtime": "1665964878",
+      "size": "294091",
+      "md5": "26a73285f9c3f3c6b31ca65d73c1c7c3",
+      "crc32": "ef5f5823",
+      "sha1": "2eaeef6dddb772901f2f79d5e49e9d6522d83113",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T20:01:12.162912-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665964888",
+      "size": "1414",
+      "md5": "821442ed136fb0b338c0b10ecb9b8d1f",
+      "crc32": "eae56ab9",
+      "sha1": "5a661e82229a2789c9747aa403f857f818c5f89d",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T20:01:12.162912-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665964890",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-16T20:01:12.162912-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-16T20:01:12.162912-04:00.jpg",
+      "mtime": "1665964982",
+      "size": "9586",
+      "md5": "5cfd6116f35ef14fa83f6ec9b0110b71",
+      "crc32": "37ea3915",
+      "sha1": "6c4ad05624b529e059c6f1a2e53c8f4e4844e265"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T07:54:08.476647-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666007652",
+      "size": "77267",
+      "md5": "6278f34eb70fb81e7a326cb116ef5579",
+      "crc32": "c7f81050",
+      "sha1": "43367bfccfe590f72af559566a2ff17107af3cb1",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T07:54:08.476647-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666007653",
+      "size": "58908",
+      "md5": "453bf0b7c48d31ba5b90ef266d7c0359",
+      "crc32": "64dcd7c9",
+      "sha1": "d46ac3c9ae50a924c5d058bf16d9e7835d2168e4",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T07:54:08.476647-04:00.jpg",
+      "source": "original",
+      "mtime": "1666007650",
+      "size": "289821",
+      "md5": "0b0a3fb271965bf6c56b99905a9d7659",
+      "crc32": "c90de9aa",
+      "sha1": "d2287d6a89f73bc105e322fb75efe987df2a9452",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T07:54:08.476647-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666007655",
+      "size": "1423",
+      "md5": "31d6bf7882b310ea6c8cede1d1e643be",
+      "crc32": "5668e36b",
+      "sha1": "b56008d7b6da27333af74ffb25377c07d7703214",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T07:54:08.476647-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666007657",
+      "size": "15025",
+      "md5": "0cb466c72744b6fc879278ab01c37267",
+      "crc32": "99d9f2ce",
+      "sha1": "a3c6581c9e2ac3a7fe69d1e51d805ac2fe8fae3d",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T07:54:08.476647-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-17T07:54:08.476647-04:00.jpg",
+      "mtime": "1666007763",
+      "size": "9563",
+      "md5": "7d73e3a8b74d20361959de89e2d795d1",
+      "crc32": "9446930d",
+      "sha1": "ef1424361eeccf068dc088e727c90380e46a1845"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T19:54:34.500737-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666050888",
+      "size": "77835",
+      "md5": "7e31a436d57873c3b54ff6c18c3fac40",
+      "crc32": "74c96848",
+      "sha1": "5abe64e782205bf9740f144abbd15868053df046",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T19:54:34.500737-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666050890",
+      "size": "58978",
+      "md5": "c844a6923162a781086f5fc81833b5d6",
+      "crc32": "9d2af58b",
+      "sha1": "7692a1b4f836431af18297098956aff0cf7d2914",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T19:54:34.500737-04:00.jpg",
+      "source": "original",
+      "mtime": "1666050887",
+      "size": "305283",
+      "md5": "27cc5c43d441047990d16704655018ce",
+      "crc32": "fbebb238",
+      "sha1": "25f27c19dfae1a9e6e242891c304efe012550e03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T19:54:34.500737-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666050891",
+      "size": "1423",
+      "md5": "c5f341966113d0843bf2877261a35d7b",
+      "crc32": "4671aa37",
+      "sha1": "830b7792b87b43ba6368737616682dccf88b857d",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T19:54:34.500737-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666050893",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-17T19:54:34.500737-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-17T19:54:34.500737-04:00.jpg",
+      "mtime": "1666051001",
+      "size": "9797",
+      "md5": "006a667ae5933bb066f1cd752d6d319f",
+      "crc32": "0522c164",
+      "sha1": "caf89b018550b4dc7b1ddd4fc3418ad9f338ae2a"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T08:01:31.293935-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666094517",
+      "size": "77924",
+      "md5": "40e888fa547e6447f23a013ee5295178",
+      "crc32": "ecdbab59",
+      "sha1": "b59736aa7e63a423e5f71691dd2166ae3eecde0c",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T08:01:31.293935-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666094519",
+      "size": "59496",
+      "md5": "1c2c42fe2cb43eb9237837e46e14ab36",
+      "crc32": "c0f713a2",
+      "sha1": "cc0edf8c785f378f467c2007f71faf1a3cdddfa8",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T08:01:31.293935-04:00.jpg",
+      "source": "original",
+      "mtime": "1666094515",
+      "size": "272147",
+      "md5": "c164a2886211a21e08bdc25299edd214",
+      "crc32": "2b5e7309",
+      "sha1": "c4739be2bc15d992d785be51f8ac58d62f7e5408",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T08:01:31.293935-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666094520",
+      "size": "1423",
+      "md5": "0d2c2c8b8b5eddfffc6901e03e63b1be",
+      "crc32": "b6106fb5",
+      "sha1": "777658bf4216bd6aa0161c536d10f3388fc7894d",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T08:01:31.293935-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666094522",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T08:01:31.293935-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-18T08:01:31.293935-04:00.jpg",
+      "mtime": "1666094631",
+      "size": "9547",
+      "md5": "1ad9860c9d157fb1e8b4fd19a97dcd2f",
+      "crc32": "808966a2",
+      "sha1": "443c9b9f4adab835724c8990b85dd4f081360f88"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T20:24:47.132572-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666139091",
+      "size": "78062",
+      "md5": "4ab79bc889ab02b4ba744244c6e70fe1",
+      "crc32": "df701687",
+      "sha1": "8bdac895fe7b65b434081831fa6ef4a86b3d171f",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T20:24:47.132572-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666139092",
+      "size": "59529",
+      "md5": "bba67f6dc0dae16dec93d53b33c819da",
+      "crc32": "0a89efe6",
+      "sha1": "c1911ff5d1b135307254fe9d362846f56b305b91",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T20:24:47.132572-04:00.jpg",
+      "source": "original",
+      "mtime": "1666139088",
+      "size": "321627",
+      "md5": "dc5675fff467d33a151d7c89afc4558e",
+      "crc32": "5a31eed2",
+      "sha1": "00fb0a0f92ea9375bc510260bc258cfe427087bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T20:24:47.132572-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666139094",
+      "size": "1423",
+      "md5": "d510ca66510ee837ccfeeaa7ca677f09",
+      "crc32": "ec231998",
+      "sha1": "88e64f92eae81c3e5fcebcf4662d5a87e21e6781",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T20:24:47.132572-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666139096",
+      "size": "14386",
+      "md5": "3af575aef317ffc8ef41fbe5210263bb",
+      "crc32": "a1f5b00d",
+      "sha1": "b4054a4e1b3a08ea6add1e59eed5becdb0f64395",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-18T20:24:47.132572-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-18T20:24:47.132572-04:00.jpg",
+      "mtime": "1666163528",
+      "size": "9958",
+      "md5": "17dfbf5c6113a19de56d5d9f7b8caff6",
+      "crc32": "13141d77",
+      "sha1": "36c64393cdd5e4c35893b6766f55c2579b318587"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T08:03:02.472631-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666180985",
+      "size": "79421",
+      "md5": "eec3e12524b663013cbfc6a64f41748e",
+      "crc32": "aee095c0",
+      "sha1": "5d621f6855e365abfed8a0c51dbbec960f138e88",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T08:03:02.472631-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666180987",
+      "size": "59959",
+      "md5": "671a8bb000c9f0518e44b41af434c608",
+      "crc32": "3cea4ce3",
+      "sha1": "2199c1bca7b819e73083338bf336106eca0cd5e4",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T08:03:02.472631-04:00.jpg",
+      "source": "original",
+      "mtime": "1666180984",
+      "size": "329268",
+      "md5": "c4ee38ddaef4dfa24a1d59c435406b73",
+      "crc32": "36eea3ad",
+      "sha1": "ef57c603884a2254840474335ecfdc0a13985073",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T08:03:02.472631-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666180989",
+      "size": "1423",
+      "md5": "3b987e607c3abec755b10ddd3813d94b",
+      "crc32": "eb1cca3f",
+      "sha1": "9e2c259a3128064b55570dfb8126f849f9b97ae2",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T08:03:02.472631-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666180991",
+      "size": "96",
+      "md5": "a7ab83d0305cc4623ba628b90117f614",
+      "crc32": "c65e0f98",
+      "sha1": "d5c60ab2697933ac81b5d702289ae07b31f66c0a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T08:03:02.472631-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-19T08:03:02.472631-04:00.jpg",
+      "mtime": "1666199198",
+      "size": "10022",
+      "md5": "9dc83b12dfc76b335aa2836c5a0bf73d",
+      "crc32": "928e206e",
+      "sha1": "a868cf3200a3e594ba884fd3d1ef5b898f322d50"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T20:12:24.655328-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224754",
+      "size": "78352",
+      "md5": "46a84075882c6d7efacbdf9118a0f615",
+      "crc32": "3c0c9250",
+      "sha1": "4fe336943005985252f878bf9b20b1cb6c43c769",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T20:12:24.655328-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224761",
+      "size": "59905",
+      "md5": "bd2aaa3f59d4a93fe8a2dc5b4cb22c59",
+      "crc32": "7cf8acb0",
+      "sha1": "83ea48addd4688cb0f460d17142bb5370689c004",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T20:12:24.655328-04:00.jpg",
+      "source": "original",
+      "mtime": "1666224752",
+      "size": "316256",
+      "md5": "ea7fabd01c466411d73ec17c7ad5a7e7",
+      "crc32": "6d01ae15",
+      "sha1": "a4a8d1e7fc0b7f89ccd330f2484b2c148758e56d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T20:12:24.655328-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224763",
+      "size": "1423",
+      "md5": "e069770a65567c197e1ab2424a81e8f7",
+      "crc32": "26f5a457",
+      "sha1": "20c5107b8607de2a35b065e376881abf5e05bfa4",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T20:12:24.655328-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224764",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-19T20:12:24.655328-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-19T20:12:24.655328-04:00.jpg",
+      "mtime": "1666224884",
+      "size": "9543",
+      "md5": "cc6951b542e74aa2dea45cadfa21a7c0",
+      "crc32": "bb1f100c",
+      "sha1": "1ae5ccd387d0d608adc69edff42a269e3cf81953"
+    },
+    {
       "name": "fortunemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ba12d27256326968250d014828de0c2585d7c5e",
-      "mtime": "1665619115",
-      "size": "288226",
-      "md5": "028171da71a53710c9823807afb35a8a",
-      "crc32": "5be5d56a",
-      "sha1": "c71ed39a3b1c9e6573244a0477969a9fc08e2d6c",
+      "btih": "9ca155d45ca95b946b1b85f400e9521de4207241",
+      "mtime": "1666224940",
+      "size": "306511",
+      "md5": "fd8fa71c8fa6b1295f3299f4c9f1969a",
+      "crc32": "8508d813",
+      "sha1": "8e01f2db5bddbddb2a2d4e0bfa05c81898f9ba57",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortunemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f98bf5497bf38126f655ec5804face8f",
+      "md5": "7bc687e88f26b1f6abced2743ffe8071",
       "summation": "md5"
     },
     {
       "name": "fortunemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665619027",
-      "size": "1650688",
-      "md5": "1a7703028646b33904e2e33892bec473",
-      "crc32": "7120e911",
-      "sha1": "0bce2035e198e66b0e3fca881cb0df5bd8cf7419",
+      "mtime": "1666224767",
+      "size": "1757184",
+      "md5": "4c010c5ba1301ce915567369d27a09f3",
+      "crc32": "99bdc9b3",
+      "sha1": "a27d7174379f7270389276b9f0ce5d238af015e6",
       "format": "Metadata"
     },
     {
@@ -13708,9 +14577,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1320,
-  "item_last_updated": 1665619115,
-  "item_size": 112922668,
+  "files_count": 1404,
+  "item_last_updated": 1666224940,
+  "item_size": 119445463,
   "metadata": {
     "identifier": "fortunemagazine-2022",
     "collection": [
@@ -13727,10 +14596,21 @@
     "publicdate": "2022-06-19 23:24:03",
     "addeddate": "2022-06-19 23:24:03"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 153070093,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3446067665,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 399347667,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

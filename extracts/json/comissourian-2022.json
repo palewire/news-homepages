@@ -1,5 +1,5 @@
 {
-  "created": 1665618796,
+  "created": 1666224507,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/comissourian-2022",
@@ -11536,31 +11536,837 @@
       "sha1": "5c0915e6c80185d61493dba9dd387eaad6ef956f"
     },
     {
+      "name": "comissourian-2022-10-13T06:48:36.010864-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665661723",
+      "size": "30688",
+      "md5": "6026cc4e487c20fd3fcd1f6a9302f8ce",
+      "crc32": "224acff6",
+      "sha1": "895b69d8ffb24cca54da896de4521e95937e405c",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-13T06:48:36.010864-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665661725",
+      "size": "43738",
+      "md5": "68321cedf902aeafc5c7c738a7f894e1",
+      "crc32": "686dd57c",
+      "sha1": "b91e03bc485e2a63b37e341182663470145293a9",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-13T06:48:36.010864-05:00.jpg",
+      "source": "original",
+      "mtime": "1665661721",
+      "size": "322265",
+      "md5": "0f535f2ce786b3a2c8adeaa20168b24c",
+      "crc32": "c9d9b957",
+      "sha1": "2171220df09f6e12c4a24ea756fd83c730a483e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-13T06:48:36.010864-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665661727",
+      "size": "1567",
+      "md5": "4520a9510d3c92b9c21ed8f75d9e0955",
+      "crc32": "3b329b94",
+      "sha1": "b8657d7da8f731d4cc95123aadfbe54d00725b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-13T06:48:36.010864-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665661728",
+      "size": "54192",
+      "md5": "11442f234b9d8580671c63df9421f0b2",
+      "crc32": "921041d9",
+      "sha1": "23b8bd27ebaa6269e7256c91471e3a95b23abfb5",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-13T06:48:36.010864-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-13T06:48:36.010864-05:00.jpg",
+      "mtime": "1665661796",
+      "size": "9608",
+      "md5": "a5d2b0e6ca655e94b90eefea89929019",
+      "crc32": "0ea37a5a",
+      "sha1": "8326286141678dfc263558efb3a982e16380e2a7"
+    },
+    {
+      "name": "comissourian-2022-10-13T18:56:40.842488-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665705410",
+      "size": "30675",
+      "md5": "5b54a0e758a19b2e1e97da1f45a21d31",
+      "crc32": "230ebee0",
+      "sha1": "9f96e13335467aba18168b3b95ef547ddee08a03",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-13T18:56:40.842488-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665705412",
+      "size": "43727",
+      "md5": "70ce47e5da1b117e8d8f5bff30aba68c",
+      "crc32": "c4063522",
+      "sha1": "f8ede55dd1ace024da21cd5881785feb7d183ded",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-13T18:56:40.842488-05:00.jpg",
+      "source": "original",
+      "mtime": "1665705408",
+      "size": "317790",
+      "md5": "0d2acb3a76f6fe97f3ce2f89a6dbdd1b",
+      "crc32": "34217605",
+      "sha1": "6d154bce982945bf0c9c1d54136edaf61b236b7a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-13T18:56:40.842488-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665705413",
+      "size": "1567",
+      "md5": "df3550aaaa067f928821ab0153c30769",
+      "crc32": "2ce5482b",
+      "sha1": "38dc862b21f362b750bce680d48a2e555bdc8ad1",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-13T18:56:40.842488-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665705415",
+      "size": "55348",
+      "md5": "06f64da8e6f82f6dc39b11f41926bdd0",
+      "crc32": "4a45d619",
+      "sha1": "f68fb2b95956f966cd0c2fa81ebe4a6aaf46f289",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-13T18:56:40.842488-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-13T18:56:40.842488-05:00.jpg",
+      "mtime": "1665705493",
+      "size": "9566",
+      "md5": "a68dbef6fc8eeb0d0be486a685dc9cb0",
+      "crc32": "01e6d2ec",
+      "sha1": "af1d6dfd9993045e42f0cc847e5647168c804f43"
+    },
+    {
+      "name": "comissourian-2022-10-14T06:57:43.505215-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665748667",
+      "size": "31840",
+      "md5": "eb2a35766e9e1b247ea10bcde6fbbf2a",
+      "crc32": "2a68ba62",
+      "sha1": "c74dd1dda5e742f2bfaf2b1cc70252af601c9c27",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-14T06:57:43.505215-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665748669",
+      "size": "45579",
+      "md5": "daa5f49df3cd31b86a32d2dac98a0273",
+      "crc32": "7006b16e",
+      "sha1": "ba829a74f62b1899f7e0b8cdc8b9e9ac07e4e5bd",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-14T06:57:43.505215-05:00.jpg",
+      "source": "original",
+      "mtime": "1665748665",
+      "size": "344262",
+      "md5": "08e68fa5578f23fc77446f515677aa12",
+      "crc32": "6ba3a222",
+      "sha1": "53a20826ea77206734d032c83c832347336065a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-14T06:57:43.505215-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665748670",
+      "size": "1566",
+      "md5": "28a8804a4fc81e127f5805f0289bf506",
+      "crc32": "b8dac1b7",
+      "sha1": "16a903e856ced0082022ff93d2270b026945e6f7",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-14T06:57:43.505215-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665748673",
+      "size": "49432",
+      "md5": "e0192c2a02bfa573b68bdb2b58533913",
+      "crc32": "e6848369",
+      "sha1": "b2d67ff8790024128153a315c13eb456098e10d3",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-14T06:57:43.505215-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-14T06:57:43.505215-05:00.jpg",
+      "mtime": "1665748758",
+      "size": "9709",
+      "md5": "39f3477c141f18e8ed3bf7daba7e1f69",
+      "crc32": "65845579",
+      "sha1": "aa9b4dec6bf05237a18f9ba84eef94bddf7acf12"
+    },
+    {
+      "name": "comissourian-2022-10-14T19:05:49.338930-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665792362",
+      "size": "31367",
+      "md5": "50125bc5b906c7b69182c4a35466cf98",
+      "crc32": "8d6466dc",
+      "sha1": "8adc4cfc25a36089e7d0f5d572563c4da92f73cf",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-14T19:05:49.338930-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665792364",
+      "size": "43958",
+      "md5": "0c332e34511c4813f8bb5c76624e214f",
+      "crc32": "fe9385a3",
+      "sha1": "4e4f30aeccff3fc943c595f7b0e4b9a3ccbbb087",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-14T19:05:49.338930-05:00.jpg",
+      "source": "original",
+      "mtime": "1665792360",
+      "size": "333930",
+      "md5": "474b3df9a45f6ae4f5e5386b143ffd2f",
+      "crc32": "c75fde6d",
+      "sha1": "b653abd7381e91ea7bd196dbfc05d2aec27dbe1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-14T19:05:49.338930-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665792366",
+      "size": "1566",
+      "md5": "8f23471b9a297491f785ba169764cf3a",
+      "crc32": "67108615",
+      "sha1": "8b6298f193d4b95eeb6d45a2387652e76a096eab",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-14T19:05:49.338930-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665792368",
+      "size": "59699",
+      "md5": "9edae6f4de3c8e33e7dbf9712fd431e3",
+      "crc32": "2b68acd0",
+      "sha1": "154fb173f95db35e59f8a8b25be1dfe9d167211d",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-14T19:05:49.338930-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-14T19:05:49.338930-05:00.jpg",
+      "mtime": "1665792434",
+      "size": "9525",
+      "md5": "ac098f4433ab80d1a0e38ecdc18c57d3",
+      "crc32": "8bfb3fe8",
+      "sha1": "aa2c4b67e08f4b2f1bea735e897adb304d8c2c60"
+    },
+    {
+      "name": "comissourian-2022-10-15T06:57:07.035995-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665835037",
+      "size": "32412",
+      "md5": "db1469198b6995a2f1018dff96991e58",
+      "crc32": "5bd966dd",
+      "sha1": "f6e67643ee1d5b5d9bad7ac005fe9a1974efaf93",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-15T06:57:07.035995-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665835039",
+      "size": "45839",
+      "md5": "56a3d1669024ee8eaaf7635ebf4f623c",
+      "crc32": "47ec7f4c",
+      "sha1": "b5bd0eff198391380f90fb3bbf717a95c3a0d11a",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-15T06:57:07.035995-05:00.jpg",
+      "source": "original",
+      "mtime": "1665835036",
+      "size": "332934",
+      "md5": "901f9f1c3963e680fc572d5463e0dcd5",
+      "crc32": "9c49f978",
+      "sha1": "93c017366e702de3263d275b825236071ed70aa7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-15T06:57:07.035995-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665835041",
+      "size": "1567",
+      "md5": "cc50faa9493ab656ce293ee22d5307e8",
+      "crc32": "cc8832f1",
+      "sha1": "285f340e38a1397df54ab8ec5ee97cd1b738dda8",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-15T06:57:07.035995-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665835044",
+      "size": "215",
+      "md5": "f87299df25ad4889f2affda0a21145c2",
+      "crc32": "7c854899",
+      "sha1": "6642f952366c3e7dca09f4d46634e62ca9143759",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-15T06:57:07.035995-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-15T06:57:07.035995-05:00.jpg",
+      "mtime": "1665835119",
+      "size": "9914",
+      "md5": "da5b64030a62d855f6ce2996a0720cdc",
+      "crc32": "df9b39a1",
+      "sha1": "c988e7a488c98bbb47e602ae50847e60a7de1d08"
+    },
+    {
+      "name": "comissourian-2022-10-15T19:03:15.852462-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665878606",
+      "size": "30198",
+      "md5": "73c5fa78fece4febbfcec824b688b1a7",
+      "crc32": "29d14b51",
+      "sha1": "9028b4ddcd99532cdced921e01e39b8bab135da5",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-15T19:03:15.852462-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665878608",
+      "size": "43180",
+      "md5": "73af42e773325909f4eb6622d32c1772",
+      "crc32": "3e7ed3a5",
+      "sha1": "b98586f659034b18d3aeda518dd04e1657f1b357",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-15T19:03:15.852462-05:00.jpg",
+      "source": "original",
+      "mtime": "1665878604",
+      "size": "342746",
+      "md5": "ac623b5510dbf4c99315645ac52c5f5a",
+      "crc32": "c969c981",
+      "sha1": "ae8b776db15f8f3eae7a68d2fd99fe784aee695e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-15T19:03:15.852462-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665878610",
+      "size": "1567",
+      "md5": "ada46d760789e0f77e4aa88171a58647",
+      "crc32": "1485cf37",
+      "sha1": "77cbbeaa0088664d13ee2e375412cd2cccf684a2",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-15T19:03:15.852462-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665878613",
+      "size": "49858",
+      "md5": "19147fe576def59f8e37940c06371a58",
+      "crc32": "a5ce04b9",
+      "sha1": "920f164c5891d3c808ef9c5c6eec20bd8e01386f",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-15T19:03:15.852462-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-15T19:03:15.852462-05:00.jpg",
+      "mtime": "1665878680",
+      "size": "9667",
+      "md5": "c9ee12928af0436df49bfe23749efa85",
+      "crc32": "1aea3bb6",
+      "sha1": "fe9a73cd5a8b6ca7d17288f5b889e029fcec350d"
+    },
+    {
+      "name": "comissourian-2022-10-16T06:52:35.039575-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665921163",
+      "size": "29219",
+      "md5": "70699f44bbb0931327773b2f63f1292a",
+      "crc32": "d9f99cc2",
+      "sha1": "29440ab007c968676d5f70c1749ce3dbb02395b7",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-16T06:52:35.039575-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665921164",
+      "size": "40650",
+      "md5": "7c2f07572f670d54b3ee70cf7a0d52ac",
+      "crc32": "d7234c4f",
+      "sha1": "7606d0caa81a71a5f6e6c0d7931f63b925509052",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-16T06:52:35.039575-05:00.jpg",
+      "source": "original",
+      "mtime": "1665921161",
+      "size": "350984",
+      "md5": "228754bf69fa47890e8692a750523a64",
+      "crc32": "6808f0fe",
+      "sha1": "3abc57a294a743b0a7e65b2b481e16794474b592",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-16T06:52:35.039575-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665921166",
+      "size": "1567",
+      "md5": "4b2a3f109cef913bfd1c8918a8590c38",
+      "crc32": "8ec7346a",
+      "sha1": "8ba9ce477500be2ca400e27b382878049f585076",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-16T06:52:35.039575-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665921171",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-16T06:52:35.039575-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-16T06:52:35.039575-05:00.jpg",
+      "mtime": "1665921236",
+      "size": "9611",
+      "md5": "4f661dc8aadee9a7b70dba9de62f27e2",
+      "crc32": "426d3ccf",
+      "sha1": "c3188be68fe5301c8c4c410b1cdafdabcecef536"
+    },
+    {
+      "name": "comissourian-2022-10-16T18:55:15.325089-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665964525",
+      "size": "30238",
+      "md5": "811a9aaaf2a72f22ee28a45aa382da97",
+      "crc32": "dcf4f120",
+      "sha1": "6a15b4db6de58d38aaa81949f03630d6479c4061",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-16T18:55:15.325089-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665964527",
+      "size": "42965",
+      "md5": "882b570bfa0b39eb3dbb924dd010d09b",
+      "crc32": "543e708a",
+      "sha1": "595df79b66d228df87891641eb6cf22ed75bfa11",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-16T18:55:15.325089-05:00.jpg",
+      "source": "original",
+      "mtime": "1665964523",
+      "size": "334530",
+      "md5": "32c619efe57b717d266747312c05585a",
+      "crc32": "3498ccb3",
+      "sha1": "e9b199ee100b65a5d0991a8a64c00132eddd7f0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-16T18:55:15.325089-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665964529",
+      "size": "1567",
+      "md5": "e2595c2f262b1e9f92146aa141b361bd",
+      "crc32": "5fb54081",
+      "sha1": "2a6d6bd271268f87630098c691af5cbde53a4ee6",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-16T18:55:15.325089-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665964530",
+      "size": "57781",
+      "md5": "171b97de10b87b796ed69d04bdafbb6c",
+      "crc32": "831391d4",
+      "sha1": "6971cf07e92ce497465a507644bbb6f224567d56",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-16T18:55:15.325089-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-16T18:55:15.325089-05:00.jpg",
+      "mtime": "1665964603",
+      "size": "9569",
+      "md5": "451f8988185f68c213eac41a2de26f91",
+      "crc32": "9e93ccc9",
+      "sha1": "ca39fb24fe66dc48ebdfb149aee2c9511d2ddf0d"
+    },
+    {
+      "name": "comissourian-2022-10-17T06:50:48.761827-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666007457",
+      "size": "30144",
+      "md5": "1b772e1fc0b747bb86c2e84aa83d8577",
+      "crc32": "a87c1a39",
+      "sha1": "2290f2033738588a56a37d30e09b0cfdd338b7bd",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-17T06:50:48.761827-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666007459",
+      "size": "42415",
+      "md5": "d9dc96d54a74fce2ef2c6a0b67019617",
+      "crc32": "141fc788",
+      "sha1": "468401ab110d6c0304259767eef13422a2b8ebe5",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-17T06:50:48.761827-05:00.jpg",
+      "source": "original",
+      "mtime": "1666007455",
+      "size": "343066",
+      "md5": "51504bf47b7c7b2131c94ac9bf1b94ab",
+      "crc32": "666a0d4b",
+      "sha1": "c96482f42967ab20a00de831571fd1d94b87dd7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-17T06:50:48.761827-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666007460",
+      "size": "1567",
+      "md5": "9bd45f526209b66d06f0ec024f9440af",
+      "crc32": "ade8fdee",
+      "sha1": "3c2d47a3bdfa65af942952e286bf857b7aa7c320",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-17T06:50:48.761827-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666007462",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-17T06:50:48.761827-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-17T06:50:48.761827-05:00.jpg",
+      "mtime": "1666007536",
+      "size": "9611",
+      "md5": "1b9b66e517e0ee8270611bcf9e73489d",
+      "crc32": "ec4aac59",
+      "sha1": "63c156327b40e5e0620a4d6abb043ccc8098539c"
+    },
+    {
+      "name": "comissourian-2022-10-18T06:56:42.883478-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666094210",
+      "size": "30350",
+      "md5": "a576e73103411e92b57b6f76023ee831",
+      "crc32": "db9c61a0",
+      "sha1": "e00a91c6bd066e5a8fba22d62510b0b20f66cf16",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-18T06:56:42.883478-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666094211",
+      "size": "43658",
+      "md5": "d832107d64a4452bec9e958394b5937f",
+      "crc32": "719e6315",
+      "sha1": "95e3f25042f0608c7fc39a2917473711e200db4b",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-18T06:56:42.883478-05:00.jpg",
+      "source": "original",
+      "mtime": "1666094208",
+      "size": "358734",
+      "md5": "c06687eead32d189ef67221d874280c3",
+      "crc32": "46697151",
+      "sha1": "7c8d8425630c3fbcd324b31e13d42480bdaef944",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-18T06:56:42.883478-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666094213",
+      "size": "1567",
+      "md5": "5805c897a2367140eda64425e8dba285",
+      "crc32": "daee1b4d",
+      "sha1": "7120cc5e3f7edac8d9db4566f11d47012312c008",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-18T06:56:42.883478-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666094215",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-18T06:56:42.883478-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-18T06:56:42.883478-05:00.jpg",
+      "mtime": "1666094300",
+      "size": "9802",
+      "md5": "21490c0a0a2d0a101e3314e28adb6bda",
+      "crc32": "1a0dab92",
+      "sha1": "894a666f58a8357d3d2e400738b8da63a51b6eb2"
+    },
+    {
+      "name": "comissourian-2022-10-18T19:17:44.038793-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138671",
+      "size": "30890",
+      "md5": "9ea57453a33d80234ca754b0c7c43b96",
+      "crc32": "73a65fce",
+      "sha1": "88504dee60c5b0a9219ab69b105eb0cef3ecdac0",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-18T19:17:44.038793-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138673",
+      "size": "45118",
+      "md5": "8849632ca62c8f99acf7a434e0d67303",
+      "crc32": "6f36b58c",
+      "sha1": "fdcf4ab05837c59bf4a641e550f8dc0c025ab48f",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-18T19:17:44.038793-05:00.jpg",
+      "source": "original",
+      "mtime": "1666138669",
+      "size": "354789",
+      "md5": "f6c1ec16b9f95b9258e6fd23eadcd3a5",
+      "crc32": "7415b0d9",
+      "sha1": "3b2ac4d0b68833aaeb282734715ccc25cf181502",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-18T19:17:44.038793-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138675",
+      "size": "1567",
+      "md5": "df1c212d49b74206be4be0b1db858101",
+      "crc32": "74f8f910",
+      "sha1": "c2a87de07f12475f5f715d093ef4fb1270e05e0e",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-18T19:17:44.038793-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138678",
+      "size": "111",
+      "md5": "bf271d42c50831b53658fc42bd8c07bf",
+      "crc32": "64137ead",
+      "sha1": "514a3cc6b4daf9569da3a815eae20e046f389214",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-18T19:17:44.038793-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-18T19:17:44.038793-05:00.jpg",
+      "mtime": "1666162689",
+      "size": "9780",
+      "md5": "0d9236021cc4d16a32c22bbad73a735a",
+      "crc32": "349f0f27",
+      "sha1": "56bf1d55a3a5fb901abc672aba4136022c83efd2"
+    },
+    {
+      "name": "comissourian-2022-10-19T06:58:45.325381-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666180747",
+      "size": "30815",
+      "md5": "07e6b1ce28ac5686fd642b9a7805f66c",
+      "crc32": "2551a7f0",
+      "sha1": "27de67a5d9e2466a96b9bbf6bc94ebf8e3a60df0",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-19T06:58:45.325381-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666180748",
+      "size": "45779",
+      "md5": "0bf2097b8aa13e0379bec3034644d17f",
+      "crc32": "98eeccea",
+      "sha1": "04fa2630d16fd91442bed35cfcda05ab4da326c6",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-19T06:58:45.325381-05:00.jpg",
+      "source": "original",
+      "mtime": "1666180745",
+      "size": "335719",
+      "md5": "e824fbca47cd0527e24131453ad17181",
+      "crc32": "e42993df",
+      "sha1": "eacd484a9e89a70ea671fcc3649fdb33250e1af6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-19T06:58:45.325381-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666180750",
+      "size": "1566",
+      "md5": "657be06a53819e5751e7393fb12d398b",
+      "crc32": "87fad3b6",
+      "sha1": "cb57ac149381c9dc3bebb0c94acbcab2d5b29c1e",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-19T06:58:45.325381-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666180752",
+      "size": "55747",
+      "md5": "4531543f1a1531ca181ce6249d06ce27",
+      "crc32": "bcdea178",
+      "sha1": "1c6ae59441a779011d805de0ff203dfa827104d6",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-19T06:58:45.325381-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-19T06:58:45.325381-05:00.jpg",
+      "mtime": "1666199170",
+      "size": "9684",
+      "md5": "98de148eae1f8245a7138a8b7a493b32",
+      "crc32": "0b2ed14d",
+      "sha1": "405199057f9d97f0b6a79c3f64f54b3189de9823"
+    },
+    {
+      "name": "comissourian-2022-10-19T19:06:16.130136-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224387",
+      "size": "30466",
+      "md5": "f59c4a91c298462d78f5cf6f60c5dd70",
+      "crc32": "ec0de367",
+      "sha1": "4905efd36b1466b6fa53e35abe4ce61f5c6a0d3d",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-19T19:06:16.130136-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224388",
+      "size": "43972",
+      "md5": "e8222c7d6c23646fc64d826c7c71e274",
+      "crc32": "06ba076b",
+      "sha1": "0abdeaa7052bbda3f1f4288da7e06f2aec2036ca",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-19T19:06:16.130136-05:00.jpg",
+      "source": "original",
+      "mtime": "1666224385",
+      "size": "339621",
+      "md5": "5428a5908674a6cfef5dda74058b6be4",
+      "crc32": "22ec23a9",
+      "sha1": "dbf998f69cdc121a308cc3c67f3104049b858362",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-19T19:06:16.130136-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224391",
+      "size": "1567",
+      "md5": "57b5813790bbc72716d4888d8a37d79e",
+      "crc32": "90c14762",
+      "sha1": "3bcf0fb76b0ed9cf254554705411cc483523f145",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-19T19:06:16.130136-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224392",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-19T19:06:16.130136-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-19T19:06:16.130136-05:00.jpg",
+      "mtime": "1666224471",
+      "size": "9621",
+      "md5": "e559c1ad3d302ead31915bcbf7497704",
+      "crc32": "a7af78fa",
+      "sha1": "258dc7dfc3172e73d000c839d18aee44f61859d5"
+    },
+    {
       "name": "comissourian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "644d2b87adae833dc6f132938da061bcb0d25552",
-      "mtime": "1665618784",
-      "size": "240416",
-      "md5": "68d4139c05024ad1f2124ad8db493de0",
-      "crc32": "cfa35a8d",
-      "sha1": "05dd19ad4326e3b1d62eba213ee69cbc5dadf01c",
+      "btih": "5b6f35e505d9e6f0663c0a13d9416d40e33619c6",
+      "mtime": "1666224485",
+      "size": "257167",
+      "md5": "2fec2b13e40d28aaf9e26e2eb2f4e90a",
+      "crc32": "a7e8bb7a",
+      "sha1": "1998fd9784cdacf18c0c6365a387b4aa10bc7339",
       "format": "Archive BitTorrent"
     },
     {
       "name": "comissourian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5e063f6871ee26e94243bcd01d0a4374",
+      "md5": "bd777eedeb3fda1d5722029e8310c1ef",
       "summation": "md5"
     },
     {
       "name": "comissourian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665618697",
-      "size": "1404928",
-      "md5": "5e698c045d43cb2201effb161f596d7f",
-      "crc32": "91c63832",
-      "sha1": "88caf04fb3b69c8df8bd739c33e1e25421453e2b",
+      "mtime": "1666224398",
+      "size": "1503232",
+      "md5": "73c0ee1d879ce2979d6c82078c769564",
+      "crc32": "2c92f4a0",
+      "sha1": "a878763883841ea301f6152c04b3125581395e75",
       "format": "Metadata"
     },
     {
@@ -11574,9 +12380,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1116,
-  "item_last_updated": 1665618784,
-  "item_size": 96119129,
+  "files_count": 1194,
+  "item_last_updated": 1666224485,
+  "item_size": 102144660,
   "metadata": {
     "identifier": "comissourian-2022",
     "collection": [
@@ -11594,7 +12400,7 @@
     "addeddate": "2022-07-04 20:47:01"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1363273647,
+  "uniq": 1538198325,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

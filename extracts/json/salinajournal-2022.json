@@ -1,5 +1,5 @@
 {
-  "created": 1665645869,
+  "created": 1666210809,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/salinajournal-2022",
@@ -2838,31 +2838,826 @@
       "sha1": "7461739f36581303fbba79da85e2f352eef8c852"
     },
     {
+      "name": "salinajournal-2022-10-13T15:10:20.794807-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665691830",
+      "size": "24368",
+      "md5": "8af8c0739760a84c2c7d6722fc5e5d4d",
+      "crc32": "9b745320",
+      "sha1": "0e08eee4ffc67071fe8cfe6cd5f0032941bca399",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-13T15:10:20.794807-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665691832",
+      "size": "32090",
+      "md5": "53f245aa16c8f46b0ecf4aceb6584712",
+      "crc32": "7978f6e3",
+      "sha1": "41b82ccfcd4928e14705c8719d73081c790a8d8b",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-13T15:10:20.794807-05:00.jpg",
+      "source": "original",
+      "mtime": "1665691827",
+      "size": "276371",
+      "md5": "35f32f61ab12945de6c81649b0af643f",
+      "crc32": "a03423e1",
+      "sha1": "bdd506f60de475264cb09a7513bcfcc1c5c3de21",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-13T15:10:20.794807-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665691834",
+      "size": "1459",
+      "md5": "197073394b1afeb4ced42a88add9cee9",
+      "crc32": "b63ee2b2",
+      "sha1": "4ef3485d132ccf424c3795b3ad5e95cc4fb19a50",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-13T15:10:20.794807-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665691835",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-13T15:10:20.794807-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-13T15:10:20.794807-05:00.jpg",
+      "mtime": "1665692181",
+      "size": "9307",
+      "md5": "beb40fd95d5c7c3d57b822fde2c918a4",
+      "crc32": "cd6a7cba",
+      "sha1": "6e34b7cbbb6ef902b16ec46da6366a79318e4cfc"
+    },
+    {
+      "name": "salinajournal-2022-10-14T03:03:36.849547-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665734620",
+      "size": "22768",
+      "md5": "f96a137f25b2a62cae2df68b132b918b",
+      "crc32": "6cbcc086",
+      "sha1": "82dbdef06563fef03d2d4bf87f8d88cab6e079d9",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-14T03:03:36.849547-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665734622",
+      "size": "33931",
+      "md5": "6eda61c65d4645922e6f371964326cba",
+      "crc32": "be14396d",
+      "sha1": "823c2d86761f88cff2cbfbda169226531d3407b8",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-14T03:03:36.849547-05:00.jpg",
+      "source": "original",
+      "mtime": "1665734618",
+      "size": "297114",
+      "md5": "5d53df2112400c027d8fbb0d4823ac73",
+      "crc32": "11fd75d3",
+      "sha1": "9e5dd0c08377ec5fd6fd0291eb4a266da71e4545",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-14T03:03:36.849547-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665734623",
+      "size": "1459",
+      "md5": "ffd374cd67f1aa59a1c14d270e00878f",
+      "crc32": "f6959586",
+      "sha1": "ae88a9b53bf39b8212b3152ae3e03315df90db78",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-14T03:03:36.849547-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665734625",
+      "size": "109808",
+      "md5": "3dc7ef1a115c3bd4989354e87b54099b",
+      "crc32": "48c20425",
+      "sha1": "b44b088c154e7834be72c454ea0de8196cb91617",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-14T03:03:36.849547-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-14T03:03:36.849547-05:00.jpg",
+      "mtime": "1665734683",
+      "size": "9410",
+      "md5": "9ad4403207f8f00e2512063999d806a9",
+      "crc32": "3bdfd588",
+      "sha1": "130887ffe9d5737284c98f75f54783d5b17037a2"
+    },
+    {
+      "name": "salinajournal-2022-10-14T15:29:40.077404-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665779383",
+      "size": "22377",
+      "md5": "d19e1b379a5ae42c9a29398efacd9154",
+      "crc32": "6d929149",
+      "sha1": "71efb425bcd0910459042f939bff728965932738",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-14T15:29:40.077404-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665779385",
+      "size": "32596",
+      "md5": "bc8460e9c85aff709b5eefa1d7013236",
+      "crc32": "383837b6",
+      "sha1": "95be58b063eb085c509ec7dd223f0cb3403925b3",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-14T15:29:40.077404-05:00.jpg",
+      "source": "original",
+      "mtime": "1665779382",
+      "size": "274218",
+      "md5": "8d7c01e3c96e05e2a79124ffacb07ad1",
+      "crc32": "eed6c0d7",
+      "sha1": "07bf82f7991cd1ffd430643a734939c4c16f2f1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-14T15:29:40.077404-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665779387",
+      "size": "1459",
+      "md5": "65397db4297b48a9b4b060cd12e6ecf5",
+      "crc32": "2d3dfa0f",
+      "sha1": "f8df8939bf43637ad7b8897245d7f9780192d9db",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-14T15:29:40.077404-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665779388",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-14T15:29:40.077404-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-14T15:29:40.077404-05:00.jpg",
+      "mtime": "1665779536",
+      "size": "9617",
+      "md5": "e504661e7ce754fa7f7975f8f1afa6f7",
+      "crc32": "743aea5b",
+      "sha1": "863a6001332226533964e863d5d50b647dc41452"
+    },
+    {
+      "name": "salinajournal-2022-10-15T02:53:40.924580-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665820425",
+      "size": "19655",
+      "md5": "e7370ca81a9fcf88f7b2242eed98ad10",
+      "crc32": "fd386dc4",
+      "sha1": "e24051f1de1e888ab80916f9bef42f404f100d3a",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-15T02:53:40.924580-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665820426",
+      "size": "31714",
+      "md5": "0c6152841f579f20cce4e1c1e4bfca40",
+      "crc32": "2705def9",
+      "sha1": "dc0d8bb6f5ab07aa034a44742f79fdaae13e62fa",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-15T02:53:40.924580-05:00.jpg",
+      "source": "original",
+      "mtime": "1665820423",
+      "size": "263053",
+      "md5": "621ed9aa0e0fbdb65d25bfec9a53c4bc",
+      "crc32": "5181ba48",
+      "sha1": "c86fca15f210d48d4c1530f4cb86bf1fe2a12fdb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-15T02:53:40.924580-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665820427",
+      "size": "1459",
+      "md5": "8e2cf173cca324ff33510dc46e35cd35",
+      "crc32": "a675ee61",
+      "sha1": "d4f935bc54c936020e26fbc930912eb633b5c3f9",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-15T02:53:40.924580-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665820429",
+      "size": "266",
+      "md5": "087123c55f1a3cdf580c4e173ed4e0b3",
+      "crc32": "d9b014ec",
+      "sha1": "c919193433ab7743ee7e1b56e7b7f5ed4ffcbdc4",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-15T02:53:40.924580-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-15T02:53:40.924580-05:00.jpg",
+      "mtime": "1665820572",
+      "size": "9550",
+      "md5": "b292037c2616116c5dfd211e1c3d72d1",
+      "crc32": "8bdeecd5",
+      "sha1": "c0d376f0399495bdf5884b98181db7ffe557a387"
+    },
+    {
+      "name": "salinajournal-2022-10-15T14:24:47.033400-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665861894",
+      "size": "23058",
+      "md5": "b70e52095373005eb79f10e8bec6bc27",
+      "crc32": "d08826e3",
+      "sha1": "6063efde20a9fb88b46e9dd16b02f1209216b6d0",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-15T14:24:47.033400-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665861896",
+      "size": "32916",
+      "md5": "86a7c3af7f8551d0c4194541bfbcc66e",
+      "crc32": "add4cd8d",
+      "sha1": "41db8ae5ee44095d37d2a10fed9e44695d04c752",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-15T14:24:47.033400-05:00.jpg",
+      "source": "original",
+      "mtime": "1665861893",
+      "size": "270271",
+      "md5": "c1a60ac5e4cff97350af9ffbead3ad89",
+      "crc32": "bbf50cd7",
+      "sha1": "242c0d1b023136f446e7302b45dee8955f873693",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-15T14:24:47.033400-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665861897",
+      "size": "1459",
+      "md5": "dd0d565fd9a978d5a271b219ee904f77",
+      "crc32": "c2c0e967",
+      "sha1": "9c748013b2b940f6e8031737ca0cdd0411f5e252",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-15T14:24:47.033400-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665861899",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-15T14:24:47.033400-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-15T14:24:47.033400-05:00.jpg",
+      "mtime": "1665861964",
+      "size": "9562",
+      "md5": "01cbdae63e48dd2ad0baa3a25a76baf0",
+      "crc32": "a167c56f",
+      "sha1": "dd12b331456d2871eb46361d27e5246f163c9f38"
+    },
+    {
+      "name": "salinajournal-2022-10-16T02:24:24.367307-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665905068",
+      "size": "21806",
+      "md5": "daa9032ac965039df0bd7f2bf9af0e0d",
+      "crc32": "b645415c",
+      "sha1": "ccb99efe30927eafbe6a8e454fdd1a1991598b88",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-16T02:24:24.367307-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665905069",
+      "size": "37135",
+      "md5": "17a6339c42324c5f49524a793f280c10",
+      "crc32": "180a64da",
+      "sha1": "bc9d6673a70b3517117eb2af06b97d4fdf4cc567",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-16T02:24:24.367307-05:00.jpg",
+      "source": "original",
+      "mtime": "1665905066",
+      "size": "287497",
+      "md5": "593057608964bcb75303853594e324d1",
+      "crc32": "7244b9b7",
+      "sha1": "5b95ee92c1a7898997c8ab4e4ff38733f5f25ab5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-16T02:24:24.367307-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665905071",
+      "size": "1459",
+      "md5": "8a652f870915bc3f0a719ee2e208dccd",
+      "crc32": "f3237173",
+      "sha1": "7fc7d88f51235380687dd2cf7057af858e587f30",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-16T02:24:24.367307-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665905072",
+      "size": "87848",
+      "md5": "5868fde330d83d73cb7b68eb11208ebd",
+      "crc32": "9d5af873",
+      "sha1": "d53318b2ec5e2e1e3621daa05043a614a61c069d",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-16T02:24:24.367307-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-16T02:24:24.367307-05:00.jpg",
+      "mtime": "1665905137",
+      "size": "9574",
+      "md5": "38f929b9a599074527ce19f18fa35875",
+      "crc32": "1bca8ba0",
+      "sha1": "0759fe4b25d4194aa751bfcaa7339260efbc8147"
+    },
+    {
+      "name": "salinajournal-2022-10-16T14:01:08.740727-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665946874",
+      "size": "21716",
+      "md5": "e57eb686c75498e7e5809c1a24997300",
+      "crc32": "26c601da",
+      "sha1": "74e35109da30771dd698d2535ae45feea24679f6",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-16T14:01:08.740727-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665946876",
+      "size": "32875",
+      "md5": "961979eab47cc219a97ded1d7d995a34",
+      "crc32": "a27023df",
+      "sha1": "3492b0b14e2d2c3679eb42f2f19e073d5767cc20",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-16T14:01:08.740727-05:00.jpg",
+      "source": "original",
+      "mtime": "1665946872",
+      "size": "263480",
+      "md5": "7806bcd28b2509f38c2ac800ef497610",
+      "crc32": "8a0e1777",
+      "sha1": "cfcd231a857380fb5c20e65329b20806b6c817ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-16T14:01:08.740727-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665946878",
+      "size": "1459",
+      "md5": "f21336581bb6a57088ca518166ac5cdd",
+      "crc32": "87e022d9",
+      "sha1": "b9e077f0cda9210a1d656008290422d6b909969a",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-16T14:01:08.740727-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665946879",
+      "size": "80956",
+      "md5": "3ace6ac7db7cc7dc802fe4c6f59e4807",
+      "crc32": "fead931e",
+      "sha1": "b242190f96cae7d21003223fd890bbd44011e23e",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-16T14:01:08.740727-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-16T14:01:08.740727-05:00.jpg",
+      "mtime": "1665946934",
+      "size": "9270",
+      "md5": "6a59fcac2a5231609903fcf7a96928f0",
+      "crc32": "2b77cd76",
+      "sha1": "340d10bbd34ec310ac475fc968863f6544757f7f"
+    },
+    {
+      "name": "salinajournal-2022-10-17T02:59:52.887435-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665993598",
+      "size": "21503",
+      "md5": "520167a0f501aa55227e1dfa8d3afa38",
+      "crc32": "291ed171",
+      "sha1": "744829cc9914dc99add12702328d26d6529e0235",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-17T02:59:52.887435-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665993599",
+      "size": "30831",
+      "md5": "2354ee0a4f5576fc59a2e72cd4d95542",
+      "crc32": "f906aed8",
+      "sha1": "ba076b479e210b9893c94a645b06fbae11e510f7",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-17T02:59:52.887435-05:00.jpg",
+      "source": "original",
+      "mtime": "1665993596",
+      "size": "262120",
+      "md5": "8281ec6e76cab0074986e8bf8a54414c",
+      "crc32": "d51e9733",
+      "sha1": "9ef31087c8dc25930d34cc8c94af599f583d5b93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-17T02:59:52.887435-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665993601",
+      "size": "1459",
+      "md5": "ad12be49f9f7813f43c1ce56ca14a06b",
+      "crc32": "49ed1245",
+      "sha1": "d9f59a53f7a98e47fce695d08278ee81148365db",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-17T02:59:52.887435-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665993603",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-17T02:59:52.887435-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-17T02:59:52.887435-05:00.jpg",
+      "mtime": "1665993666",
+      "size": "9152",
+      "md5": "50e4f7dffb6fb03229465e38f8ab1513",
+      "crc32": "28bc154b",
+      "sha1": "0d83ebd13e4c875c68c4225ffc7fb8a1bce0daaf"
+    },
+    {
+      "name": "salinajournal-2022-10-17T14:40:29.854049-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666035635",
+      "size": "22046",
+      "md5": "f0f22f0f2c5b33e8d57db0f66e799c60",
+      "crc32": "e3d50cb2",
+      "sha1": "34ee9019a9931951a8d17421ae516a13e4c5241c",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-17T14:40:29.854049-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666035637",
+      "size": "31416",
+      "md5": "925ece7cce81214dc6a975c3baf381a2",
+      "crc32": "ee63eb17",
+      "sha1": "ccb11efbdc5001c28c21aca2fa1d1aed8c6c4523",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-17T14:40:29.854049-05:00.jpg",
+      "source": "original",
+      "mtime": "1666035633",
+      "size": "279951",
+      "md5": "9a1632930130ce204cebc805c68473ae",
+      "crc32": "290aecdd",
+      "sha1": "f7fd104f72a0099a70e9375091afe1362aa1f173",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-17T14:40:29.854049-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666035639",
+      "size": "1458",
+      "md5": "cfd01a4d2a3cd3775ea85a823b9e3ac2",
+      "crc32": "2faf0077",
+      "sha1": "f9afd540f192077eae4bdaf0f1607b4873aa0b43",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-17T14:40:29.854049-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666035640",
+      "size": "80973",
+      "md5": "e7f93cd65867fe235a06324b1fd7d212",
+      "crc32": "07cc911a",
+      "sha1": "922d720108f7df10ec25e23a6efdf91b16077fff",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-17T14:40:29.854049-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-17T14:40:29.854049-05:00.jpg",
+      "mtime": "1666035697",
+      "size": "9221",
+      "md5": "5569eca89e164213964df43642c34de5",
+      "crc32": "cdb8f50c",
+      "sha1": "311ef4bdff118ef4999978ebad3877dde53991fe"
+    },
+    {
+      "name": "salinajournal-2022-10-18T02:28:03.702076-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666078088",
+      "size": "22630",
+      "md5": "442af52e5372534b01e85f2a3ccfbbc4",
+      "crc32": "1b4b5582",
+      "sha1": "6ec1a35bf1d3e29b7b63bed24e3beccdad3ebf14",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-18T02:28:03.702076-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666078090",
+      "size": "16927",
+      "md5": "fa8a0c2831aba4545864391a08486a40",
+      "crc32": "a0f9a936",
+      "sha1": "e7dda340b90490d852e6634c9e069280e7f030b6",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-18T02:28:03.702076-05:00.jpg",
+      "source": "original",
+      "mtime": "1666078086",
+      "size": "322487",
+      "md5": "f14cd4fb361666943d2835e244d6e47c",
+      "crc32": "d6d5b80a",
+      "sha1": "dfc8cfd4253e0d76dc96d25b7fae180dfa8fa637",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-18T02:28:03.702076-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666078091",
+      "size": "1459",
+      "md5": "a02cfc08874c97ddca3ee931ae775716",
+      "crc32": "bc1d77ae",
+      "sha1": "451693143c25e5c2955b2a6d5a6d91344c46ce78",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-18T02:28:03.702076-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666078093",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-18T02:28:03.702076-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-18T02:28:03.702076-05:00.jpg",
+      "mtime": "1666078140",
+      "size": "9502",
+      "md5": "73b3995bcf0260cb7e838ecb77e525ce",
+      "crc32": "94e28579",
+      "sha1": "c2b5ed3a9e2891108762cd99a6390b3c3f79732b"
+    },
+    {
+      "name": "salinajournal-2022-10-18T14:11:50.807173-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666120316",
+      "size": "23698",
+      "md5": "5ec0bdf8a096ff5a1b1b584b72815268",
+      "crc32": "329c71b1",
+      "sha1": "473f42c037654b92245d74f860d0c008ebbd8660",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-18T14:11:50.807173-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666120318",
+      "size": "34507",
+      "md5": "67ecef6bd5be0011f5844e8cfc364c59",
+      "crc32": "9b7e10df",
+      "sha1": "c57f679fe37df12f0cf4cebadf9b0257189d1792",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-18T14:11:50.807173-05:00.jpg",
+      "source": "original",
+      "mtime": "1666120315",
+      "size": "229363",
+      "md5": "d5cb88c57955e251558381348df7663e",
+      "crc32": "840d4a75",
+      "sha1": "250377027ae9139f69b34e0e966f1a104a5fc1e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-18T14:11:50.807173-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666120319",
+      "size": "1459",
+      "md5": "338cf94baf0ac2f6ba3070328437b02d",
+      "crc32": "14b3026f",
+      "sha1": "a6a69f2fb0c6a934da42321c941887bdba332215",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-18T14:11:50.807173-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666120321",
+      "size": "100888",
+      "md5": "5dd4d549a90eb5194e59f5151169a1fc",
+      "crc32": "2486627c",
+      "sha1": "192aced4f972e1522791e52fffcbb68263f67d93",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-18T14:11:50.807173-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-18T14:11:50.807173-05:00.jpg",
+      "mtime": "1666120398",
+      "size": "8796",
+      "md5": "cf2305a8e2dc5deb195907d7606aaf36",
+      "crc32": "5d5450fa",
+      "sha1": "eb9e953c71a1c998a50de1653fe3394d631a24c8"
+    },
+    {
+      "name": "salinajournal-2022-10-19T02:22:14.727351-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666164140",
+      "size": "22921",
+      "md5": "001d3036774fc86e1f626ac58f347957",
+      "crc32": "007eda40",
+      "sha1": "b367e4897c90fa96c34729986448b8885d71d230",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-19T02:22:14.727351-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666164142",
+      "size": "34547",
+      "md5": "49d1de1bc27b5f0b175445a3c5d0aa3f",
+      "crc32": "2c760d6b",
+      "sha1": "4b79da46d497b7029bde5db990336c519d5f9456",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-19T02:22:14.727351-05:00.jpg",
+      "source": "original",
+      "mtime": "1666164138",
+      "size": "285122",
+      "md5": "83862e86178d934ea886d4149a8a3f11",
+      "crc32": "9b8e0a35",
+      "sha1": "d53e03182fd1c3ab774efccbaa4ad030a63a06b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-19T02:22:14.727351-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666164147",
+      "size": "1459",
+      "md5": "3d9a0e9f8431e409079fd3236c6689fb",
+      "crc32": "818e6641",
+      "sha1": "beed1b205d922c571d0a5d28d2dc1149998bb047",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-19T02:22:14.727351-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666164149",
+      "size": "80534",
+      "md5": "65f850e12ffef1190e87ae14e17ce40a",
+      "crc32": "2c0c4411",
+      "sha1": "cfc660e1f969669e0b20d6df91d33feedb599aeb",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-19T02:22:14.727351-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-19T02:22:14.727351-05:00.jpg",
+      "mtime": "1666185434",
+      "size": "9255",
+      "md5": "a23a411165cd08900e2174ac1d0a0ea9",
+      "crc32": "c1dbda30",
+      "sha1": "f038d5a5d6e08d7ae1a4226dbbedb2460e64e874"
+    },
+    {
+      "name": "salinajournal-2022-10-19T15:19:01.851390-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666210749",
+      "size": "22076",
+      "md5": "9d2fa25b1d5ef28b01d64206e251d18c",
+      "crc32": "d369497e",
+      "sha1": "04d20511a98ed070d80bace2c9bb43db2026327b",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-19T15:19:01.851390-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666210750",
+      "size": "37822",
+      "md5": "e3c6d6e8ecdcfbb5ccf238d3b4dbff01",
+      "crc32": "599a10f8",
+      "sha1": "0c15b562e1288d03e0f6a54405812c3c3f66b748",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-19T15:19:01.851390-05:00.jpg",
+      "source": "original",
+      "mtime": "1666210747",
+      "size": "291879",
+      "md5": "8ce2f3a235797d2e111d5c0ab6ce292e",
+      "crc32": "4d34d5ce",
+      "sha1": "8821c483102a9fc70dd112126271faea4c9de601",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salinajournal-2022-10-19T15:19:01.851390-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666210753",
+      "size": "1459",
+      "md5": "52d73b4139aa7014cda13b17cbc746be",
+      "crc32": "34d86fe4",
+      "sha1": "a4f6033753fc3c6635890cad2b6745753e3b0ed4",
+      "format": "JSON"
+    },
+    {
+      "name": "salinajournal-2022-10-19T15:19:01.851390-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666210754",
+      "size": "247",
+      "md5": "fa7ca06511522cd4d97244ecff5a5348",
+      "crc32": "65fc63ba",
+      "sha1": "678036b0f9f5bfdd62d825c0193c5085efc706a5",
+      "format": "JSON"
+    },
+    {
       "name": "salinajournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "674d4770d58d1f93f88823554ab86a26002ba1d2",
-      "mtime": "1665645848",
-      "size": "60452",
-      "md5": "d8c459eb2c2c08d683583631b46a3011",
-      "crc32": "f9b8129e",
-      "sha1": "e17575954bb61412c78d3c863899aeaf36ae501d",
+      "btih": "1bbfa6b6f244e593f161ad7a539e8883c2041e25",
+      "mtime": "1666210805",
+      "size": "77032",
+      "md5": "25cb7db8acf94f8701d910ed8d0e9bf4",
+      "crc32": "b76e557a",
+      "sha1": "725c645144cb2142370cd8425587dd1f99d5d975",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salinajournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4776141d6cb0bbe22a971ee4fe4bcd30",
+      "md5": "57ebe78b08605c3f5eeb0436c1f855da",
       "summation": "md5"
     },
     {
       "name": "salinajournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665645766",
-      "size": "368640",
-      "md5": "a4431f87a2f4d6ca39935deac7625392",
-      "crc32": "8a857d4b",
-      "sha1": "2ce8d8cb708ebd5cfbf14f7490bad982a462e909",
+      "mtime": "1666210765",
+      "size": "471040",
+      "md5": "9ec99e4fd71d37b9f62b0075e27bba12",
+      "crc32": "14e9a2d4",
+      "sha1": "1d597d147fd19dd9b173372154c0d5b5ed085292",
       "format": "Metadata"
     },
     {
@@ -2876,9 +3671,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 278,
-  "item_last_updated": 1665645848,
-  "item_size": 18753942,
+  "files_count": 355,
+  "item_last_updated": 1666210805,
+  "item_size": 23859489,
   "metadata": {
     "identifier": "salinajournal-2022",
     "collection": [
@@ -2895,10 +3690,21 @@
     "publicdate": "2022-09-20 19:23:54",
     "addeddate": "2022-09-20 19:23:54"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 27417883,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445917687,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1154213339,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

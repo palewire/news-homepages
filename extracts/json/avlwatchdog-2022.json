@@ -1,5 +1,5 @@
 {
-  "created": 1665658138,
+  "created": 1666221033,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/9/items/avlwatchdog-2022",
@@ -11310,31 +11310,837 @@
       "sha1": "031ee31f7c0e786b5cf513b50ce0dc95da84d2d6"
     },
     {
+      "name": "avlwatchdog-2022-10-13T19:05:28.685637-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702337",
+      "size": "98423",
+      "md5": "2a2f80ce8e1133206213f1006db877dc",
+      "crc32": "581ea82b",
+      "sha1": "6e2467422a4377009ba3a0495290d9611fb84d82",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-13T19:05:28.685637-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702339",
+      "size": "28794",
+      "md5": "53266a9da0508f0c20c8de51757b650a",
+      "crc32": "5a05580a",
+      "sha1": "666e6eb1bde366ebc3acd59a5d8ebf2d7c3759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-13T19:05:28.685637-04:00.jpg",
+      "source": "original",
+      "mtime": "1665702335",
+      "size": "358763",
+      "md5": "e09b315258670a154ba7f666e1815496",
+      "crc32": "cd7c7c56",
+      "sha1": "fd84215952000721078200e408471ba09075cd48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-13T19:05:28.685637-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702345",
+      "size": "1465",
+      "md5": "353d0dbf0c8673199983ea32b878b7fa",
+      "crc32": "2199e0bb",
+      "sha1": "70cdf91e159ab8b66dea5d3a6c86854021e0f3b2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-13T19:05:28.685637-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702347",
+      "size": "17774",
+      "md5": "dd77e58cdc6e14785599758c902f68d7",
+      "crc32": "af17f46f",
+      "sha1": "5ddc93118d613e33c47d76ebe44b64bb6203ad2d",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-13T19:05:28.685637-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-13T19:05:28.685637-04:00.jpg",
+      "mtime": "1665702407",
+      "size": "10375",
+      "md5": "122f283cda404471170d7f34c7a92cf5",
+      "crc32": "42b3d5c2",
+      "sha1": "031ee31f7c0e786b5cf513b50ce0dc95da84d2d6"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T06:57:16.183317-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665745039",
+      "size": "98423",
+      "md5": "ffcbde2ee21a6014fae0e8c0041a0f04",
+      "crc32": "526d4a1a",
+      "sha1": "139e4d0a1d9183e5f2d19e508f77a5ebc39f9f5d",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T06:57:16.183317-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665745040",
+      "size": "28874",
+      "md5": "124dabc47dbabf3f4dc1ac10bd568022",
+      "crc32": "a43aff50",
+      "sha1": "927a81c376b1fc87c99160d6718c8190a017f6c5",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T06:57:16.183317-04:00.jpg",
+      "source": "original",
+      "mtime": "1665745037",
+      "size": "358730",
+      "md5": "24e30f06ffe1ac382f848888f7963381",
+      "crc32": "ffab9513",
+      "sha1": "60ff96af45476a3074e6dee91e7e935f25d101ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T06:57:16.183317-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665745042",
+      "size": "1465",
+      "md5": "1a3841179a576b8633373e193cac6157",
+      "crc32": "5a7b7927",
+      "sha1": "5610f7ee1ddfab1e5bd221e5826344b837940aa9",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T06:57:16.183317-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665745043",
+      "size": "17852",
+      "md5": "0946e9a49bc8af1a657ccdc3eafb4873",
+      "crc32": "12c7da63",
+      "sha1": "42745a4607c43b09691167aad80e1562303f495e",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T06:57:16.183317-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-14T06:57:16.183317-04:00.jpg",
+      "mtime": "1665745103",
+      "size": "10376",
+      "md5": "75db3ad67120219a1fc0a52f62092d4e",
+      "crc32": "45184d9c",
+      "sha1": "393d78145a21ca8376e362825390dcf9d92f1185"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T19:05:37.603925-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788741",
+      "size": "98423",
+      "md5": "ffcbde2ee21a6014fae0e8c0041a0f04",
+      "crc32": "526d4a1a",
+      "sha1": "139e4d0a1d9183e5f2d19e508f77a5ebc39f9f5d",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T19:05:37.603925-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788743",
+      "size": "28794",
+      "md5": "53266a9da0508f0c20c8de51757b650a",
+      "crc32": "5a05580a",
+      "sha1": "666e6eb1bde366ebc3acd59a5d8ebf2d7c3759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T19:05:37.603925-04:00.jpg",
+      "source": "original",
+      "mtime": "1665788739",
+      "size": "358730",
+      "md5": "24e30f06ffe1ac382f848888f7963381",
+      "crc32": "ffab9513",
+      "sha1": "60ff96af45476a3074e6dee91e7e935f25d101ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T19:05:37.603925-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788745",
+      "size": "1465",
+      "md5": "ae1480fbd5375eb2f81218d6a1aca55d",
+      "crc32": "4ee38c1f",
+      "sha1": "ca04d7b5108d00d416362f3790cd1c8a1e505c46",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T19:05:37.603925-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665788747",
+      "size": "17615",
+      "md5": "86ff7e9dd7ad9a063e9dc25bdbebab39",
+      "crc32": "bcafea37",
+      "sha1": "1eea9f7faf9d20e2a6cab7faa669004db7f40219",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-14T19:05:37.603925-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-14T19:05:37.603925-04:00.jpg",
+      "mtime": "1665788803",
+      "size": "10376",
+      "md5": "75db3ad67120219a1fc0a52f62092d4e",
+      "crc32": "45184d9c",
+      "sha1": "393d78145a21ca8376e362825390dcf9d92f1185"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T06:55:54.189864-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831357",
+      "size": "98423",
+      "md5": "d1a1e5b48514a8385a209a2ce27365a0",
+      "crc32": "9efbb23c",
+      "sha1": "f3d31eb0133850de3b4c178263d030bdbe05b771",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T06:55:54.189864-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831359",
+      "size": "28794",
+      "md5": "53266a9da0508f0c20c8de51757b650a",
+      "crc32": "5a05580a",
+      "sha1": "666e6eb1bde366ebc3acd59a5d8ebf2d7c3759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T06:55:54.189864-04:00.jpg",
+      "source": "original",
+      "mtime": "1665831356",
+      "size": "358724",
+      "md5": "a32fc6d4801536215783c637a98d74f5",
+      "crc32": "381e6ea5",
+      "sha1": "1209423616af2a2a47ee90b14fee7d69ec85c653",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T06:55:54.189864-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831360",
+      "size": "1465",
+      "md5": "c85c360a881074e7072745ad5fb13e60",
+      "crc32": "3151252d",
+      "sha1": "c6d3c9ff37798ceefc8d2260f66c95b8f963159b",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T06:55:54.189864-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831362",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T06:55:54.189864-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-15T06:55:54.189864-04:00.jpg",
+      "mtime": "1665831425",
+      "size": "10375",
+      "md5": "69bf2ecf212ab56ba935140d1390d505",
+      "crc32": "dcd74880",
+      "sha1": "ac562346d5d63a7e3234c211bd2a187d284c8a06"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T19:05:04.470761-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665875126",
+      "size": "98423",
+      "md5": "d1a1e5b48514a8385a209a2ce27365a0",
+      "crc32": "9efbb23c",
+      "sha1": "f3d31eb0133850de3b4c178263d030bdbe05b771",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T19:05:04.470761-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665875127",
+      "size": "28794",
+      "md5": "53266a9da0508f0c20c8de51757b650a",
+      "crc32": "5a05580a",
+      "sha1": "666e6eb1bde366ebc3acd59a5d8ebf2d7c3759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T19:05:04.470761-04:00.jpg",
+      "source": "original",
+      "mtime": "1665875124",
+      "size": "358724",
+      "md5": "a32fc6d4801536215783c637a98d74f5",
+      "crc32": "381e6ea5",
+      "sha1": "1209423616af2a2a47ee90b14fee7d69ec85c653",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T19:05:04.470761-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665875129",
+      "size": "1464",
+      "md5": "c83f6fb9568e299a4db85677d981a2f6",
+      "crc32": "bdf37615",
+      "sha1": "5b99548f60cae4abf6de4a28fa5233ab728a340c",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T19:05:04.470761-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665875131",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-15T19:05:04.470761-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-15T19:05:04.470761-04:00.jpg",
+      "mtime": "1665875194",
+      "size": "10375",
+      "md5": "69bf2ecf212ab56ba935140d1390d505",
+      "crc32": "dcd74880",
+      "sha1": "ac562346d5d63a7e3234c211bd2a187d284c8a06"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T06:53:49.614729-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917648",
+      "size": "98423",
+      "md5": "93a1109310bd898e7d10b3a3eb00ae81",
+      "crc32": "1031bc17",
+      "sha1": "b330d54edfcccd9b7e9f435536694b91eabc592c",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T06:53:49.614729-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917650",
+      "size": "28794",
+      "md5": "53266a9da0508f0c20c8de51757b650a",
+      "crc32": "5a05580a",
+      "sha1": "666e6eb1bde366ebc3acd59a5d8ebf2d7c3759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T06:53:49.614729-04:00.jpg",
+      "source": "original",
+      "mtime": "1665917647",
+      "size": "358760",
+      "md5": "ab9f67964c453cd7eea15d685e1c3708",
+      "crc32": "f2cb16e2",
+      "sha1": "8a7519078b231e6c2d2a15e7f7694b402a7a63fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T06:53:49.614729-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917651",
+      "size": "1465",
+      "md5": "ae2275708dba27ae039dd9a63f635fc0",
+      "crc32": "49c80a38",
+      "sha1": "1d328cbee1cd2a6f7899447db44ac70297e4160e",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T06:53:49.614729-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917653",
+      "size": "100",
+      "md5": "a2613f02a93752420b3ca118f293c5be",
+      "crc32": "14e2dff7",
+      "sha1": "5b676131d060ce334fb681a4cfa55c3c73faa085",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T06:53:49.614729-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-16T06:53:49.614729-04:00.jpg",
+      "mtime": "1665917716",
+      "size": "10365",
+      "md5": "33d10b95c85573ff34c34bd7870f32a5",
+      "crc32": "b78ec344",
+      "sha1": "ba54c8e0fc17c79b9c000b7737ac8d8a138a051f"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T19:00:11.435122-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961215",
+      "size": "98423",
+      "md5": "93a1109310bd898e7d10b3a3eb00ae81",
+      "crc32": "1031bc17",
+      "sha1": "b330d54edfcccd9b7e9f435536694b91eabc592c",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T19:00:11.435122-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961217",
+      "size": "28874",
+      "md5": "124dabc47dbabf3f4dc1ac10bd568022",
+      "crc32": "a43aff50",
+      "sha1": "927a81c376b1fc87c99160d6718c8190a017f6c5",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T19:00:11.435122-04:00.jpg",
+      "source": "original",
+      "mtime": "1665961213",
+      "size": "358760",
+      "md5": "ab9f67964c453cd7eea15d685e1c3708",
+      "crc32": "f2cb16e2",
+      "sha1": "8a7519078b231e6c2d2a15e7f7694b402a7a63fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T19:00:11.435122-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961218",
+      "size": "1465",
+      "md5": "d229f81ee015c0de4229bbf453ea81bb",
+      "crc32": "008cb2b8",
+      "sha1": "d6678d10effe029f9a8ba1fc03c3d3770ed091ec",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T19:00:11.435122-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961220",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-16T19:00:11.435122-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-16T19:00:11.435122-04:00.jpg",
+      "mtime": "1665961278",
+      "size": "10365",
+      "md5": "33d10b95c85573ff34c34bd7870f32a5",
+      "crc32": "b78ec344",
+      "sha1": "ba54c8e0fc17c79b9c000b7737ac8d8a138a051f"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T06:50:31.670079-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003853",
+      "size": "98423",
+      "md5": "c6d3b108732221604233f3c296f51ebe",
+      "crc32": "dca74431",
+      "sha1": "b4b7ccdc4d1bb2ca23df74390800792180369125",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T06:50:31.670079-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003854",
+      "size": "28794",
+      "md5": "53266a9da0508f0c20c8de51757b650a",
+      "crc32": "5a05580a",
+      "sha1": "666e6eb1bde366ebc3acd59a5d8ebf2d7c3759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T06:50:31.670079-04:00.jpg",
+      "source": "original",
+      "mtime": "1666003851",
+      "size": "358678",
+      "md5": "75d08c6b7b1d3268f799f8b31507e62d",
+      "crc32": "01c51be2",
+      "sha1": "ed56cbeadb7f0c8d98dc1e172cd2c83699ccfc43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T06:50:31.670079-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003856",
+      "size": "1465",
+      "md5": "f2f6103febe020c7eb9f94b35ab6df57",
+      "crc32": "2cb37f9f",
+      "sha1": "e3784c3e28fc727af9ec92a38d258c28834dfc7b",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T06:50:31.670079-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003857",
+      "size": "17875",
+      "md5": "7fdec3bc3e186178ecba8306f024329d",
+      "crc32": "98a41536",
+      "sha1": "e09683237b57d64abad7622e48abd1d1485b5dd0",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T06:50:31.670079-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-17T06:50:31.670079-04:00.jpg",
+      "mtime": "1666003932",
+      "size": "10366",
+      "md5": "0b89930b358d3ac3efb3bcc00647ba2d",
+      "crc32": "17679046",
+      "sha1": "ac571fcf4676e5911b71306bb07e70ef48403153"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T18:54:55.292933-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047298",
+      "size": "98423",
+      "md5": "c6d3b108732221604233f3c296f51ebe",
+      "crc32": "dca74431",
+      "sha1": "b4b7ccdc4d1bb2ca23df74390800792180369125",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T18:54:55.292933-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047299",
+      "size": "28794",
+      "md5": "53266a9da0508f0c20c8de51757b650a",
+      "crc32": "5a05580a",
+      "sha1": "666e6eb1bde366ebc3acd59a5d8ebf2d7c3759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T18:54:55.292933-04:00.jpg",
+      "source": "original",
+      "mtime": "1666047296",
+      "size": "358678",
+      "md5": "75d08c6b7b1d3268f799f8b31507e62d",
+      "crc32": "01c51be2",
+      "sha1": "ed56cbeadb7f0c8d98dc1e172cd2c83699ccfc43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T18:54:55.292933-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047301",
+      "size": "1465",
+      "md5": "72bd0667aba050cf3ff0dc540ff50922",
+      "crc32": "af76e869",
+      "sha1": "1c5aa497287a327962f647a7c2f435c07c27766c",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T18:54:55.292933-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047303",
+      "size": "17445",
+      "md5": "45eb3b253225ba818318b4cc406593ed",
+      "crc32": "3f96f236",
+      "sha1": "ff6d1fb0d52f527b7b7f2cf748a1c11e71a4e555",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-17T18:54:55.292933-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-17T18:54:55.292933-04:00.jpg",
+      "mtime": "1666047377",
+      "size": "10366",
+      "md5": "0b89930b358d3ac3efb3bcc00647ba2d",
+      "crc32": "17679046",
+      "sha1": "ac571fcf4676e5911b71306bb07e70ef48403153"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T06:54:32.271719-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666090483",
+      "size": "98423",
+      "md5": "732dbb7006daff3e6321f2bec46b9344",
+      "crc32": "04d67875",
+      "sha1": "b321ab0df167561403849410d68b1bdacd763b6f",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T06:54:32.271719-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666090485",
+      "size": "28874",
+      "md5": "124dabc47dbabf3f4dc1ac10bd568022",
+      "crc32": "a43aff50",
+      "sha1": "927a81c376b1fc87c99160d6718c8190a017f6c5",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T06:54:32.271719-04:00.jpg",
+      "source": "original",
+      "mtime": "1666090481",
+      "size": "358791",
+      "md5": "9cdae1b2cc6d37cf3eef33ac0443e1f2",
+      "crc32": "f4f1c4ff",
+      "sha1": "54d43f6adbbd214a27e4b0a83b2b2c50ac9b0e98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T06:54:32.271719-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666090487",
+      "size": "1465",
+      "md5": "194b948faade44e4252f59bee4495c60",
+      "crc32": "ce275cc3",
+      "sha1": "25a76710a8362afa365f1807e9914ac4e580b688",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T06:54:32.271719-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666090489",
+      "size": "17663",
+      "md5": "3da2909acc40e2a1b98ed5c2fd48016b",
+      "crc32": "58e06f55",
+      "sha1": "8d13948464ba8d87cb2609b61d8591f43a9d866c",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T06:54:32.271719-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-18T06:54:32.271719-04:00.jpg",
+      "mtime": "1666090553",
+      "size": "10365",
+      "md5": "9edb57fe26fd8da182b3810d30e86648",
+      "crc32": "41e3561b",
+      "sha1": "d5390ccc86dec86e179148762e0cba71300d72c0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T19:11:53.163974-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134715",
+      "size": "98423",
+      "md5": "732dbb7006daff3e6321f2bec46b9344",
+      "crc32": "04d67875",
+      "sha1": "b321ab0df167561403849410d68b1bdacd763b6f",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T19:11:53.163974-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134716",
+      "size": "28794",
+      "md5": "53266a9da0508f0c20c8de51757b650a",
+      "crc32": "5a05580a",
+      "sha1": "666e6eb1bde366ebc3acd59a5d8ebf2d7c3759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T19:11:53.163974-04:00.jpg",
+      "source": "original",
+      "mtime": "1666134714",
+      "size": "358791",
+      "md5": "9cdae1b2cc6d37cf3eef33ac0443e1f2",
+      "crc32": "f4f1c4ff",
+      "sha1": "54d43f6adbbd214a27e4b0a83b2b2c50ac9b0e98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T19:11:53.163974-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134718",
+      "size": "1465",
+      "md5": "abd39481666d03c3f4565b0deb267340",
+      "crc32": "ea9e0efe",
+      "sha1": "5f1f958c209139a987124b0dc6ef2217b4d0c26a",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T19:11:53.163974-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134719",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-18T19:11:53.163974-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-18T19:11:53.163974-04:00.jpg",
+      "mtime": "1666160183",
+      "size": "10365",
+      "md5": "9edb57fe26fd8da182b3810d30e86648",
+      "crc32": "41e3561b",
+      "sha1": "d5390ccc86dec86e179148762e0cba71300d72c0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T06:55:04.559903-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176916",
+      "size": "98423",
+      "md5": "39f82e56cec6a41b0e9ed597bc33e842",
+      "crc32": "c8408053",
+      "sha1": "a51f313b7d850a2f4f82a76bcf2ba8bc42c4149b",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T06:55:04.559903-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176918",
+      "size": "28794",
+      "md5": "53266a9da0508f0c20c8de51757b650a",
+      "crc32": "5a05580a",
+      "sha1": "666e6eb1bde366ebc3acd59a5d8ebf2d7c3759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T06:55:04.559903-04:00.jpg",
+      "source": "original",
+      "mtime": "1666176914",
+      "size": "358733",
+      "md5": "27c7a428ae6fafc822748885e43df761",
+      "crc32": "cf23b0b3",
+      "sha1": "f389a392c032d2d33c1f35c2ca4be66829cd530e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T06:55:04.559903-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176919",
+      "size": "1464",
+      "md5": "5066598f333d688c82517ee79d18548f",
+      "crc32": "b41427d8",
+      "sha1": "31eda36b56141d3175beb8d165c2983c323fea3e",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T06:55:04.559903-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176921",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T06:55:04.559903-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-19T06:55:04.559903-04:00.jpg",
+      "mtime": "1666196543",
+      "size": "10365",
+      "md5": "33d10b95c85573ff34c34bd7870f32a5",
+      "crc32": "b78ec344",
+      "sha1": "ba54c8e0fc17c79b9c000b7737ac8d8a138a051f"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T19:06:46.775700-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666220810",
+      "size": "15136",
+      "md5": "467b8fab6433850ece50fcbde6384a32",
+      "crc32": "0fb1c0c3",
+      "sha1": "bbcc9d0626114d99c7f387e3b0091b94a006f650",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T19:06:46.775700-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666220812",
+      "size": "13042",
+      "md5": "26c815a5e62c8bf92f6114901d62b76c",
+      "crc32": "0121c043",
+      "sha1": "11842e89adff64064c886bc0f73636658c70438c",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T19:06:46.775700-04:00.jpg",
+      "source": "original",
+      "mtime": "1666220808",
+      "size": "310164",
+      "md5": "3ad8045ea43689a6d9024e0219263fdb",
+      "crc32": "873a96d7",
+      "sha1": "084ca97776e92912d49666967d46568c87ac1c9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T19:06:46.775700-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666220813",
+      "size": "1459",
+      "md5": "c05d453b87d4c802ac758acf8cf408d3",
+      "crc32": "e2dfe848",
+      "sha1": "6cdc1f0244b897e574350df89655d2f0e19e9de6",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T19:06:46.775700-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666220815",
+      "size": "9095",
+      "md5": "cc75526da8f07fb567d8be15a62d5ccd",
+      "crc32": "aff72cb8",
+      "sha1": "e957154071d1c6b9eec98b03e4864d6fd3fc5e5c",
+      "format": "JSON"
+    },
+    {
+      "name": "avlwatchdog-2022-10-19T19:06:46.775700-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-19T19:06:46.775700-04:00.jpg",
+      "mtime": "1666220968",
+      "size": "9745",
+      "md5": "eaafcecf3cc2fc3d888d6689e40ff919",
+      "crc32": "0ba73c74",
+      "sha1": "f59ee9013c1f488118b0233f5df6fe0c5c231916"
+    },
+    {
       "name": "avlwatchdog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e58fde964a765a4ac877d97ce0d7bb765f7fdf1",
-      "mtime": "1665658133",
-      "size": "234821",
-      "md5": "1e8caf6b624e6ed14da7d1f9b38c13ec",
-      "crc32": "d7551f3c",
-      "sha1": "f55e43a6016fc1d43e2608af3fe20b3e56852059",
+      "btih": "79f89079555512f690901ca75e106035e3aede90",
+      "mtime": "1666220982",
+      "size": "251505",
+      "md5": "326f46d6e6cd02c81f8b942bba24b982",
+      "crc32": "05e14330",
+      "sha1": "ef55f4a5e3bf20b7429e1ee10b849e5a3d4a4bcc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "avlwatchdog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4875b1012e2d68fb857c2469e2913d0f",
+      "md5": "cb3f8faebd70ffc6c8206eef0387373c",
       "summation": "md5"
     },
     {
       "name": "avlwatchdog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658069",
-      "size": "1380352",
-      "md5": "bb219acac0fb566ce5a23fda34ad1f35",
-      "crc32": "3099d755",
-      "sha1": "afc1f544086a0d3a7ea12e5a479fb3b160579b4c",
+      "mtime": "1666220820",
+      "size": "1482752",
+      "md5": "f864c9edd746290fd0dbe91717ba34c8",
+      "crc32": "743e16d3",
+      "sha1": "2942078060f70e05d4a7cb3548de2512edf86a3b",
       "format": "Metadata"
     },
     {
@@ -11348,9 +12154,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1095,
-  "item_last_updated": 1665658133,
-  "item_size": 87394177,
+  "files_count": 1173,
+  "item_last_updated": 1666220982,
+  "item_size": 93952954,
   "metadata": {
     "identifier": "avlwatchdog-2022",
     "collection": [
@@ -11368,7 +12174,7 @@
     "addeddate": "2022-07-09 03:55:46"
   },
   "server": "ia802508.us.archive.org",
-  "uniq": 1472503086,
+  "uniq": 575060873,
   "workable_servers": [
     "ia802508.us.archive.org",
     "ia902508.us.archive.org"

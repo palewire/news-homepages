@@ -1,5 +1,5 @@
 {
-  "created": 1665658110,
+  "created": 1666220983,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/3/items/aviationweek-2022",
@@ -6764,31 +6764,827 @@
       "sha1": "13afa2fc5860a3acbd922571f55ca2983894e361"
     },
     {
+      "name": "aviationweek-2022-10-13T19:05:58.208603-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702362",
+      "size": "27798",
+      "md5": "6d7299e16df2fafb02aa0831a1e76a24",
+      "crc32": "f5e9aba1",
+      "sha1": "6dffadf8768b665251cc0c146a02217edfc811bd",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-13T19:05:58.208603-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702364",
+      "size": "36488",
+      "md5": "b4242f04233b40bce20131b9c3926362",
+      "crc32": "140bae31",
+      "sha1": "339c0f2d54c52b121ebe30d8f1b8a7be310ffd82",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-13T19:05:58.208603-04:00.jpg",
+      "source": "original",
+      "mtime": "1665702360",
+      "size": "164184",
+      "md5": "c0c8db11ea01dea58f7d5f8ac9fdb779",
+      "crc32": "dff911c5",
+      "sha1": "3d5a33eea19da1e7749ea950b5cbede709c7f8da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-13T19:05:58.208603-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702369",
+      "size": "1477",
+      "md5": "9d5225716bfb8c61e826993bd2b9b43f",
+      "crc32": "ce32bbec",
+      "sha1": "5dda83a37d8ab7fcb1fffcbdf23e5596d77400e6",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-13T19:05:58.208603-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702371",
+      "size": "125662",
+      "md5": "a8ddbc760f8a0e6f16fbef27a1a01b7f",
+      "crc32": "71895d49",
+      "sha1": "52035866b17df460a3f18fda23a381e84ea95647",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-13T19:05:58.208603-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-13T19:05:58.208603-04:00.jpg",
+      "mtime": "1665702436",
+      "size": "8494",
+      "md5": "6b9699263192995bdce4cb28344fc93f",
+      "crc32": "e800253a",
+      "sha1": "6a3d2fd456565c5639f3cbeb477c0f8e920c54cf"
+    },
+    {
+      "name": "aviationweek-2022-10-14T06:56:59.738786-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665745022",
+      "size": "27575",
+      "md5": "dacd2bf1d32ab842aea47bf365893596",
+      "crc32": "fd7cc6bc",
+      "sha1": "1596f1389373c265c0a307eec5f675542517b3fa",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-14T06:56:59.738786-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665745024",
+      "size": "36466",
+      "md5": "4f7a2c688a521c2a18be3b61db7dee91",
+      "crc32": "cfd6e87f",
+      "sha1": "e9f404066d684293a808b0ed6dc65c98a887d990",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-14T06:56:59.738786-04:00.jpg",
+      "source": "original",
+      "mtime": "1665745021",
+      "size": "164184",
+      "md5": "c0c8db11ea01dea58f7d5f8ac9fdb779",
+      "crc32": "dff911c5",
+      "sha1": "3d5a33eea19da1e7749ea950b5cbede709c7f8da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-14T06:56:59.738786-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665745026",
+      "size": "1477",
+      "md5": "6aa5ca9b56ce00b56f89d2fa58b2249b",
+      "crc32": "fe1aac40",
+      "sha1": "a8991c96e9be9930be5602496abcb8291f3b56e8",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-14T06:56:59.738786-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665745028",
+      "size": "86595",
+      "md5": "5f1921997db72bd50476293606500b41",
+      "crc32": "86e4a1ca",
+      "sha1": "ae29d768478d65c9d939e1130546061ee7bd78b7",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-14T06:56:59.738786-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-14T06:56:59.738786-04:00.jpg",
+      "mtime": "1665745192",
+      "size": "8494",
+      "md5": "6b9699263192995bdce4cb28344fc93f",
+      "crc32": "e800253a",
+      "sha1": "6a3d2fd456565c5639f3cbeb477c0f8e920c54cf"
+    },
+    {
+      "name": "aviationweek-2022-10-14T19:05:42.421882-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788755",
+      "size": "27793",
+      "md5": "8014a27a69d389eaf8e86cf424953a73",
+      "crc32": "3639999d",
+      "sha1": "c4054fd253225b1635d749a66fa621302b6edfc9",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-14T19:05:42.421882-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788757",
+      "size": "36487",
+      "md5": "3602baca0e2e7f56c9d4298f0a69945a",
+      "crc32": "fc00fe23",
+      "sha1": "de342c4f6fbba90e84d0d7bacff6f1ee9a33a208",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-14T19:05:42.421882-04:00.jpg",
+      "source": "original",
+      "mtime": "1665788753",
+      "size": "164986",
+      "md5": "07fb1508f526060e8fb66a8e3d4cc401",
+      "crc32": "a860d00d",
+      "sha1": "d56f728c7520dadc4e8d6ab8dd2fbde9f1543e9e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-14T19:05:42.421882-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788759",
+      "size": "1476",
+      "md5": "e32f5f809bde24d4b8244aa7671b7aa1",
+      "crc32": "a8a17c32",
+      "sha1": "5a3fce4db16831901c126e7bcc49928baf7cc765",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-14T19:05:42.421882-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665788760",
+      "size": "101",
+      "md5": "cf34d9636326bb235bd0c17ab6e16b07",
+      "crc32": "17c51448",
+      "sha1": "33df7ce203ebca3af36e3722dba8104589d17c45",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-14T19:05:42.421882-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-14T19:05:42.421882-04:00.jpg",
+      "mtime": "1665788842",
+      "size": "8509",
+      "md5": "6b4c30479b2d61c267f7809bffb15e6a",
+      "crc32": "55079814",
+      "sha1": "ab33410fee1a4dc3ce7bd446e01c34166319c526"
+    },
+    {
+      "name": "aviationweek-2022-10-15T06:56:37.980743-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831404",
+      "size": "27793",
+      "md5": "8014a27a69d389eaf8e86cf424953a73",
+      "crc32": "3639999d",
+      "sha1": "c4054fd253225b1635d749a66fa621302b6edfc9",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-15T06:56:37.980743-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831405",
+      "size": "36487",
+      "md5": "3602baca0e2e7f56c9d4298f0a69945a",
+      "crc32": "fc00fe23",
+      "sha1": "de342c4f6fbba90e84d0d7bacff6f1ee9a33a208",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-15T06:56:37.980743-04:00.jpg",
+      "source": "original",
+      "mtime": "1665831403",
+      "size": "164986",
+      "md5": "07fb1508f526060e8fb66a8e3d4cc401",
+      "crc32": "a860d00d",
+      "sha1": "d56f728c7520dadc4e8d6ab8dd2fbde9f1543e9e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-15T06:56:37.980743-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831407",
+      "size": "1476",
+      "md5": "49aa659670ad1d77c780de7547b23c7f",
+      "crc32": "240ca6e9",
+      "sha1": "ac10079a1cd3f52037ef2405d839de0b4d4fd7d1",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-15T06:56:37.980743-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831408",
+      "size": "76389",
+      "md5": "130d88fa54eb9b1bc864f003160b4ead",
+      "crc32": "d8f81d1c",
+      "sha1": "625c80c276ea163002d3cac886e34dbd8a30ac95",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-15T06:56:37.980743-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-15T06:56:37.980743-04:00.jpg",
+      "mtime": "1665831508",
+      "size": "8509",
+      "md5": "6b4c30479b2d61c267f7809bffb15e6a",
+      "crc32": "55079814",
+      "sha1": "ab33410fee1a4dc3ce7bd446e01c34166319c526"
+    },
+    {
+      "name": "aviationweek-2022-10-15T19:05:15.069916-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665875133",
+      "size": "27646",
+      "md5": "99370cba5265f2b06abe7d6fc5e00d9b",
+      "crc32": "47218e36",
+      "sha1": "192357f6786f7f7d0d796f560358e904222fa6b8",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-15T19:05:15.069916-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665875134",
+      "size": "36520",
+      "md5": "70cfdb918f3a847b19a3a36574c069b4",
+      "crc32": "51b46132",
+      "sha1": "c8931c4f4ea4d9c05ea35f30179dbcadadaab596",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-15T19:05:15.069916-04:00.jpg",
+      "source": "original",
+      "mtime": "1665875131",
+      "size": "164986",
+      "md5": "07fb1508f526060e8fb66a8e3d4cc401",
+      "crc32": "a860d00d",
+      "sha1": "d56f728c7520dadc4e8d6ab8dd2fbde9f1543e9e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-15T19:05:15.069916-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665875135",
+      "size": "1477",
+      "md5": "bf0d30afb3a18d15b52029b152282b73",
+      "crc32": "bf67fb74",
+      "sha1": "16e4a7eeb49ad3f4c6c56431a9b268a410425a0d",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-15T19:05:15.069916-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665875137",
+      "size": "87282",
+      "md5": "bb7f3e98d5e9b24b64d932afdd309ad9",
+      "crc32": "bd181d10",
+      "sha1": "c30de2d79caef05291970ac34d7ed5bb7d17e607",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-15T19:05:15.069916-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-15T19:05:15.069916-04:00.jpg",
+      "mtime": "1665875226",
+      "size": "8509",
+      "md5": "6b4c30479b2d61c267f7809bffb15e6a",
+      "crc32": "55079814",
+      "sha1": "ab33410fee1a4dc3ce7bd446e01c34166319c526"
+    },
+    {
+      "name": "aviationweek-2022-10-16T06:54:53.426436-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917696",
+      "size": "27023",
+      "md5": "60d9a97377d2377594e3dc55dff7e8b9",
+      "crc32": "e7b51bc8",
+      "sha1": "957a16bce89366ea59c5fb5bd6e7b976b184f3a0",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-16T06:54:53.426436-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917697",
+      "size": "36520",
+      "md5": "70cfdb918f3a847b19a3a36574c069b4",
+      "crc32": "51b46132",
+      "sha1": "c8931c4f4ea4d9c05ea35f30179dbcadadaab596",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-16T06:54:53.426436-04:00.jpg",
+      "source": "original",
+      "mtime": "1665917694",
+      "size": "164986",
+      "md5": "07fb1508f526060e8fb66a8e3d4cc401",
+      "crc32": "a860d00d",
+      "sha1": "d56f728c7520dadc4e8d6ab8dd2fbde9f1543e9e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-16T06:54:53.426436-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917698",
+      "size": "1477",
+      "md5": "80a0cc602f032e71f5df8ccd1a3a4757",
+      "crc32": "71b1f5d7",
+      "sha1": "40600eeb4cb656fec1f5e1c484fa711908ddbef4",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-16T06:54:53.426436-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917700",
+      "size": "101",
+      "md5": "cf34d9636326bb235bd0c17ab6e16b07",
+      "crc32": "17c51448",
+      "sha1": "33df7ce203ebca3af36e3722dba8104589d17c45",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-16T06:54:53.426436-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-16T06:54:53.426436-04:00.jpg",
+      "mtime": "1665917803",
+      "size": "8509",
+      "md5": "6b4c30479b2d61c267f7809bffb15e6a",
+      "crc32": "55079814",
+      "sha1": "ab33410fee1a4dc3ce7bd446e01c34166319c526"
+    },
+    {
+      "name": "aviationweek-2022-10-16T19:00:03.646431-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961209",
+      "size": "27624",
+      "md5": "16ef849fc63450aa095d5bfd79e0cf4f",
+      "crc32": "0c51cb38",
+      "sha1": "829b9112e8a50554a824ec4553cee840ce127631",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-16T19:00:03.646431-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961210",
+      "size": "36398",
+      "md5": "dd8cd57d7a8a3695b307afcc9d90d9c0",
+      "crc32": "12f16c18",
+      "sha1": "765af291bd4d877b419cf8f9bd8c033fe44a8aaa",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-16T19:00:03.646431-04:00.jpg",
+      "source": "original",
+      "mtime": "1665961207",
+      "size": "181467",
+      "md5": "96753c5c2a26cdf5b9e691848d94c9f4",
+      "crc32": "8d46b162",
+      "sha1": "89f284931e40aa78c5508a93b6c9464e493c2e24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-16T19:00:03.646431-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961212",
+      "size": "1476",
+      "md5": "b735c3fd0266c7563a6036c6fc38f2df",
+      "crc32": "0d03b1e2",
+      "sha1": "e751b5821de33b2bc3b6ca8e61977a489494d0d1",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-16T19:00:03.646431-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961214",
+      "size": "76524",
+      "md5": "88987ff111f8bb02ef8eec782ecda316",
+      "crc32": "fc659e9e",
+      "sha1": "ea83954c0c22b85ceaf1d5320f582e8c92980864",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-16T19:00:03.646431-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-16T19:00:03.646431-04:00.jpg",
+      "mtime": "1665961293",
+      "size": "8725",
+      "md5": "41186720edf12614e337a1fed830c693",
+      "crc32": "dc5f2cb8",
+      "sha1": "c8286621259f3e6b3bb5761b63ec70eedf2e774e"
+    },
+    {
+      "name": "aviationweek-2022-10-17T06:50:18.389888-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003821",
+      "size": "27376",
+      "md5": "5fd75e22801eb73cae756be22d6d8cc1",
+      "crc32": "0324544f",
+      "sha1": "ddf420a136792523f19d2dcfbc05db32aff5b0f0",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-17T06:50:18.389888-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003823",
+      "size": "36312",
+      "md5": "16b6352f07685b195f84b4f30e242864",
+      "crc32": "d7d5f7bd",
+      "sha1": "baf600832100f3d9b6df46e49966496b038a76e8",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-17T06:50:18.389888-04:00.jpg",
+      "source": "original",
+      "mtime": "1666003820",
+      "size": "181467",
+      "md5": "96753c5c2a26cdf5b9e691848d94c9f4",
+      "crc32": "8d46b162",
+      "sha1": "89f284931e40aa78c5508a93b6c9464e493c2e24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-17T06:50:18.389888-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003824",
+      "size": "1477",
+      "md5": "14bb3b3e1dd58d17a2297c1355168571",
+      "crc32": "55fa1d23",
+      "sha1": "723f1ed1fc4092da7c1151daff12cf86eebef901",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-17T06:50:18.389888-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003826",
+      "size": "113390",
+      "md5": "3d8158b6b5720d9390f29ec5cc528bd7",
+      "crc32": "301614ee",
+      "sha1": "b692f7f2919af98409c7fb483bb53f1a0e37e6dc",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-17T06:50:18.389888-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-17T06:50:18.389888-04:00.jpg",
+      "mtime": "1666003901",
+      "size": "8725",
+      "md5": "41186720edf12614e337a1fed830c693",
+      "crc32": "dc5f2cb8",
+      "sha1": "c8286621259f3e6b3bb5761b63ec70eedf2e774e"
+    },
+    {
+      "name": "aviationweek-2022-10-17T18:54:33.370767-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047282",
+      "size": "27339",
+      "md5": "8eee9c704397fd1bc6db864afb15be78",
+      "crc32": "d241af1c",
+      "sha1": "15917bc561975d4e64fdf4323d3b4611282d0f45",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-17T18:54:33.370767-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047284",
+      "size": "36267",
+      "md5": "1557a80b13262a02a3be94b627c5202a",
+      "crc32": "3f306b1e",
+      "sha1": "18769562453d079aa5d76733312e4eb0e4bf4bd2",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-17T18:54:33.370767-04:00.jpg",
+      "source": "original",
+      "mtime": "1666047280",
+      "size": "189689",
+      "md5": "fef1f4e9a72a7c9d261bae43afd89e1e",
+      "crc32": "7b847b07",
+      "sha1": "4795a63e8c2bada20ee0343b3ddc049a41a91f7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-17T18:54:33.370767-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047286",
+      "size": "1477",
+      "md5": "0aa962f6164a156f309413604e19f579",
+      "crc32": "30030129",
+      "sha1": "89bcd861a11d56d7db55c51dbcd325be0c136c96",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-17T18:54:33.370767-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047289",
+      "size": "21789",
+      "md5": "5165cda657d022507f3ee871502d225d",
+      "crc32": "2df328c6",
+      "sha1": "ced05689bcd16f1778bbcf76adfbd4e6100e0795",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-17T18:54:33.370767-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-17T18:54:33.370767-04:00.jpg",
+      "mtime": "1666047361",
+      "size": "8711",
+      "md5": "bc2e83d297aa8b2656d09c3d6b547b09",
+      "crc32": "a76bd206",
+      "sha1": "c86de72adbcdcd6f340741788bdf8f85fa32d593"
+    },
+    {
+      "name": "aviationweek-2022-10-18T06:54:33.193744-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666090479",
+      "size": "27339",
+      "md5": "8eee9c704397fd1bc6db864afb15be78",
+      "crc32": "d241af1c",
+      "sha1": "15917bc561975d4e64fdf4323d3b4611282d0f45",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T06:54:33.193744-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666090481",
+      "size": "36483",
+      "md5": "01bfaf3bfe000356d4e4949fedb000f5",
+      "crc32": "254fcb27",
+      "sha1": "6ad11fdc0b3c690fb3438b170a19d8e5ca2718b9",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T06:54:33.193744-04:00.jpg",
+      "source": "original",
+      "mtime": "1666090477",
+      "size": "183962",
+      "md5": "e2ea8e537eb2f3a4e8dfddaa7e79e053",
+      "crc32": "9a7097e7",
+      "sha1": "6da6f5ccc6db5ba6b3bf9ad65042e3d9744ed5ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-18T06:54:33.193744-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666090482",
+      "size": "1477",
+      "md5": "5b8c7433cd6143a1c9b382dcf2c3d2f4",
+      "crc32": "82a85021",
+      "sha1": "ed920e99c25a4ee9172da07c31f56d4736ae5c30",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T06:54:33.193744-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666090484",
+      "size": "91408",
+      "md5": "40fe2efdfc192af720b1878c6fa34b17",
+      "crc32": "de072497",
+      "sha1": "02b91a90e2cb8beca0efd2b09f5ebe9d14aeb42c",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T06:54:33.193744-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-18T06:54:33.193744-04:00.jpg",
+      "mtime": "1666090622",
+      "size": "8710",
+      "md5": "0de27215e29abe2d8d3077372dd7e6df",
+      "crc32": "ad0237d0",
+      "sha1": "c0fcf833b353d45ffb825f4400ad084d5b9efe48"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134634",
+      "size": "27373",
+      "md5": "9e139197e512a73916a764484615a892",
+      "crc32": "15dd7bf9",
+      "sha1": "89a251e91226d20e3a2c9a6f14b877fc25be1550",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134636",
+      "size": "36540",
+      "md5": "9a3971a8414d64dc2368a364a440bfb5",
+      "crc32": "01da312a",
+      "sha1": "aa65e858e8ba68301996d2f866cb3446952a0a1d",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.jpg",
+      "source": "original",
+      "mtime": "1666134633",
+      "size": "199406",
+      "md5": "3556142685e50960cf9af9126acd9aa4",
+      "crc32": "f18c129c",
+      "sha1": "cfbe7ba004d944193159c2741aec8eaac41462f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134638",
+      "size": "1475",
+      "md5": "0a0235b88b7d4ae5a7c803a349d1208c",
+      "crc32": "58ce0a46",
+      "sha1": "56f0aad95ab798679a548f866edd4e97290ad7af",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134639",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-18T19:10:26.196141-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-18T19:10:26.196141-04:00.jpg",
+      "mtime": "1666160159",
+      "size": "8979",
+      "md5": "b0df3dfdd45f48293cec969425236182",
+      "crc32": "48572a92",
+      "sha1": "45fe70d2f67b2ad45b02e5094a52bc1218d0d9e6"
+    },
+    {
+      "name": "aviationweek-2022-10-19T06:54:21.575685-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176877",
+      "size": "27162",
+      "md5": "bcfb5bfdff5ef6a6aa3be58cc861395d",
+      "crc32": "3ffc7522",
+      "sha1": "256277475fcbc3fc4e846853f7ee2746f5fe4012",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-19T06:54:21.575685-04:00.jpg",
+      "source": "original",
+      "mtime": "1666176876",
+      "size": "205712",
+      "md5": "c2202d3ddd9051fdd2cb9ad28f1fdd57",
+      "crc32": "1efc594d",
+      "sha1": "42853568024fa62d37d9244bab0ad99fd0439fb6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-19T06:54:21.575685-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176879",
+      "size": "1477",
+      "md5": "432dda467567ed314de9014d1f682626",
+      "crc32": "2d16e4b9",
+      "sha1": "433303230ef12d359895b05f1d721f5b659f659f",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-19T06:54:21.575685-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176881",
+      "size": "92567",
+      "md5": "6caeafab70e2940bbedc9308a0ba0a54",
+      "crc32": "debbd396",
+      "sha1": "ea44714bad714ec4a91e3b87ffc4aaf9d1e9bb76",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-19T06:54:21.575685-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-19T06:54:21.575685-04:00.jpg",
+      "mtime": "1666196495",
+      "size": "8791",
+      "md5": "213968013e45176ab326dc0bfdc0f9e7",
+      "crc32": "0c6ce3b0",
+      "sha1": "ac5ee712a039d581d99abfd0283a06b089148f00"
+    },
+    {
+      "name": "aviationweek-2022-10-19T19:06:27.971870-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666220794",
+      "size": "27056",
+      "md5": "46d6590a9297f0f9c5be750aec65cfcf",
+      "crc32": "070d38bf",
+      "sha1": "699eb746225acddb87e8604ce0d31bfe4b47a015",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-19T19:06:27.971870-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666220796",
+      "size": "36407",
+      "md5": "ce360b58d513748ac6ddc524249715b4",
+      "crc32": "93abc6a2",
+      "sha1": "78ee8567a6c9490e0edd6ca18bd69b1f2b592a5f",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-19T19:06:27.971870-04:00.jpg",
+      "source": "original",
+      "mtime": "1666220793",
+      "size": "217161",
+      "md5": "8dab3591ef926143b617f33ae97d92f2",
+      "crc32": "e6a66299",
+      "sha1": "1d807f03e49c08758e58599533bf8b46d25cac14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-19T19:06:27.971870-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666220798",
+      "size": "1477",
+      "md5": "2fa65eeeaea249d4f99e3cd6ee12abfe",
+      "crc32": "b0c83b5c",
+      "sha1": "2df3d661ec7b2f3c5eb178af2871e01d621a3275",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-19T19:06:27.971870-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666220800",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-19T19:06:27.971870-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-19T19:06:27.971870-04:00.jpg",
+      "mtime": "1666220920",
+      "size": "8958",
+      "md5": "7d5569aa02dc5daa0e4fb49fb396c49b",
+      "crc32": "01da4067",
+      "sha1": "f46a9dc3a9695983902e6f78a1e72353d8b25fbf"
+    },
+    {
       "name": "aviationweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ffc5fce828ef31d8ddf5a065413623b17261e371",
-      "mtime": "1665658095",
-      "size": "141434",
-      "md5": "f3bb592a9fd797ce00b524c3977e7da9",
-      "crc32": "06211c9b",
-      "sha1": "4ef9f07019317b74553c1c049686dbd0c32991c6",
+      "btih": "62fc1e6e796bc91df485c5b6b3271f6d0f44a85d",
+      "mtime": "1666220928",
+      "size": "157896",
+      "md5": "75deb9f7a3536571e05d3a0b95444469",
+      "crc32": "b50a16b2",
+      "sha1": "cf6ccf12bd2bccd69c5d8f6c255b7fd4c09e39ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aviationweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d558c12c3db2aa907e58a3007f0dabfd",
+      "md5": "22fde9143474cc10332756480b200e1b",
       "summation": "md5"
     },
     {
       "name": "aviationweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658035",
-      "size": "851968",
-      "md5": "c0f2f292059adddb5a4cd860ba6d1154",
-      "crc32": "a37aba85",
-      "sha1": "500ff802f289f6b874b5e39ebb8ac52f4a727985",
+      "mtime": "1666220806",
+      "size": "950272",
+      "md5": "c00995ad3e70ca4a60aee243f3757eb8",
+      "crc32": "8f445bbf",
+      "sha1": "d8c5b02cf1dc3a82989004f5924d8a1df93fc394",
       "format": "Metadata"
     },
     {
@@ -6802,9 +7598,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 658,
-  "item_last_updated": 1665658095,
-  "item_size": 38922779,
+  "files_count": 735,
+  "item_last_updated": 1666220928,
+  "item_size": 43083024,
   "metadata": {
     "identifier": "aviationweek-2022",
     "collection": [
@@ -6822,7 +7618,7 @@
     "addeddate": "2022-08-20 23:00:04"
   },
   "server": "ia601509.us.archive.org",
-  "uniq": 948246494,
+  "uniq": 1647285258,
   "workable_servers": [
     "ia601509.us.archive.org",
     "ia801509.us.archive.org"

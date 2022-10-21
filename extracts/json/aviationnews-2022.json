@@ -1,5 +1,5 @@
 {
-  "created": 1665658244,
+  "created": 1666221006,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/34/items/aviationnews-2022",
@@ -6734,31 +6734,827 @@
       "sha1": "ed81c4e0eb679685ae4d624039f084feb1ce12ca"
     },
     {
+      "name": "aviationnews-2022-10-13T19:05:28.063703-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702331",
+      "size": "155347",
+      "md5": "f3bcf3d3c2b9ea35bb454ccb9ebf9ee2",
+      "crc32": "80d157b6",
+      "sha1": "417a098010a39131746f8c2edf45df748ec413c7",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-13T19:05:28.063703-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702333",
+      "size": "256742",
+      "md5": "f496389e8ad5d0d741bd720392e17afc",
+      "crc32": "543d66ea",
+      "sha1": "fd784c4ee6313aafae418df6f5e52a9adbbd8c81",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-13T19:05:28.063703-04:00.jpg",
+      "source": "original",
+      "mtime": "1665702329",
+      "size": "120118",
+      "md5": "63d497f72999b283f2c163496c23a7f8",
+      "crc32": "52a9128d",
+      "sha1": "3e24dae309fc9d9a31fa87fa9697b59406a689bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-13T19:05:28.063703-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702334",
+      "size": "1485",
+      "md5": "13992d4d9aad6640068ac84b77913ac8",
+      "crc32": "ef53e9c2",
+      "sha1": "6d3c69e7d800ddb763f2ae8a6b4b13325a0d2118",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-13T19:05:28.063703-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702336",
+      "size": "36409",
+      "md5": "161b7a1db0c337d2bd966875951d6ee7",
+      "crc32": "170fc250",
+      "sha1": "a45798fab78b83bfb2a09114bec613e8ee2966dc",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-13T19:05:28.063703-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-13T19:05:28.063703-04:00.jpg",
+      "mtime": "1665702421",
+      "size": "7238",
+      "md5": "9c4b7e95f5b7a1910789fe6708165cca",
+      "crc32": "a66405b6",
+      "sha1": "b9fcec7367f0d7ee4d58545d17bab613098034ce"
+    },
+    {
+      "name": "aviationnews-2022-10-14T06:57:04.906774-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665745033",
+      "size": "155276",
+      "md5": "3ac0c6463ca46ccdf25c10be92629866",
+      "crc32": "50ecf7db",
+      "sha1": "7c20d04daff3cfae9addb1a31c8b26205976df1b",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-14T06:57:04.906774-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665745035",
+      "size": "256753",
+      "md5": "79ef24e2c01fdd88a7f2e1d335240aed",
+      "crc32": "972e692e",
+      "sha1": "7ce4d7d17ee60fb9464118ecec7edf36a18de797",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-14T06:57:04.906774-04:00.jpg",
+      "source": "original",
+      "mtime": "1665745031",
+      "size": "128360",
+      "md5": "f7fc3bbc2b40cfbb5cb7d8778f8e452a",
+      "crc32": "6812c159",
+      "sha1": "61353a37075791ffcf083414aee2325ba4f67a18",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-14T06:57:04.906774-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665745037",
+      "size": "1486",
+      "md5": "4f00c2280074723bb5559d5f8de5c7c3",
+      "crc32": "7aace9fd",
+      "sha1": "d5b2e7996caaf5d08064fdce226ed92949c46090",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-14T06:57:04.906774-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665745038",
+      "size": "36248",
+      "md5": "47c8e6ed86fb9f33ab7623917177ccb6",
+      "crc32": "6c0efb53",
+      "sha1": "2cf5ddbc2a6ecbe77ccea9e9db6291ffb5a44327",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-14T06:57:04.906774-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-14T06:57:04.906774-04:00.jpg",
+      "mtime": "1665745285",
+      "size": "7306",
+      "md5": "4612a5a4149ecfa4be03f9599d4b749b",
+      "crc32": "669a80c4",
+      "sha1": "fe1f1008c8b8477c6aae853bda20f6bae833b3fe"
+    },
+    {
+      "name": "aviationnews-2022-10-14T19:06:00.460181-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788764",
+      "size": "155562",
+      "md5": "58009142a52892cdc78400c7e027f369",
+      "crc32": "85899eb2",
+      "sha1": "6c356a02d5c59035b0feaad14a4a3114d8fcbd3f",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-14T19:06:00.460181-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788766",
+      "size": "256743",
+      "md5": "b3e070eeaa2aa1af0320347c1cda9489",
+      "crc32": "dc687c25",
+      "sha1": "af4b9aebae1085b99715c63adaf77e5492d32693",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-14T19:06:00.460181-04:00.jpg",
+      "source": "original",
+      "mtime": "1665788762",
+      "size": "117188",
+      "md5": "fce78379375890985e452fec6dfa82ce",
+      "crc32": "b81b81b2",
+      "sha1": "d5eeaee36eeebbf1ba9570e047d543bc5093028c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-14T19:06:00.460181-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788768",
+      "size": "1486",
+      "md5": "c0c0dd95afba828f8d9f49c020716f41",
+      "crc32": "c5cf8627",
+      "sha1": "3e24bb56852aaaaf0242c4e0b23838b256a5a1b8",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-14T19:06:00.460181-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-14T19:06:00.460181-04:00.jpg",
+      "mtime": "1665788849",
+      "size": "7157",
+      "md5": "43cbaa4a6f245268c3889f951c0d259e",
+      "crc32": "cf77ffa4",
+      "sha1": "7d5b1bfd7e9b2d1f2ef35c4872f1ac93a626de82"
+    },
+    {
+      "name": "aviationnews-2022-10-15T06:56:19.100583-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831383",
+      "size": "155402",
+      "md5": "724a78fd88372324cde756f228d58546",
+      "crc32": "6f0b1088",
+      "sha1": "f7095c3c36ed2f97c4cfdaa63fc8da443df51648",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-15T06:56:19.100583-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831384",
+      "size": "256741",
+      "md5": "2bec3facad65c2c53b51bed3c811fe97",
+      "crc32": "bda370cd",
+      "sha1": "96294804157ffbf51f32649eb960f49927d2b252",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-15T06:56:19.100583-04:00.jpg",
+      "source": "original",
+      "mtime": "1665831381",
+      "size": "121662",
+      "md5": "2c5c3a5dc0683d20d370aae081e9a2bf",
+      "crc32": "bdc7fc78",
+      "sha1": "18238c9431e2736d7a099cc6d502c1daf7b6fdd3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-15T06:56:19.100583-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831386",
+      "size": "1486",
+      "md5": "ccf84a7492be9b2555630ff9eea6f58c",
+      "crc32": "a310d437",
+      "sha1": "7d9855cd80c213118240255d4eb6d53e36623b4c",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-15T06:56:19.100583-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831388",
+      "size": "32539",
+      "md5": "2edd8bb45dcf8d51589ee2e35226947a",
+      "crc32": "f87152bc",
+      "sha1": "f560972e9d7c4a165937681906298c12f43f30f5",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-15T06:56:19.100583-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-15T06:56:19.100583-04:00.jpg",
+      "mtime": "1665831465",
+      "size": "7251",
+      "md5": "615a4d4bd9a5cd45ab97547aac0c7d62",
+      "crc32": "6038c348",
+      "sha1": "7bae3d1d0c31f83879462bfaeba05d3db8e573e7"
+    },
+    {
+      "name": "aviationnews-2022-10-15T19:04:38.244886-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665875084",
+      "size": "155686",
+      "md5": "79d0b9db70dd207a51d921a23f5340c9",
+      "crc32": "257c60bf",
+      "sha1": "359616e5fdce1334307ccf07b3d88f1b8bf12419",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-15T19:04:38.244886-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665875086",
+      "size": "256741",
+      "md5": "7a24c65ed85708a0e67ed9e7c929e956",
+      "crc32": "1923a1e5",
+      "sha1": "1deb67e3acff46cbe65a056a4d593ed1d64efb63",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-15T19:04:38.244886-04:00.jpg",
+      "source": "original",
+      "mtime": "1665875080",
+      "size": "118070",
+      "md5": "fd93ed24b396dca33038e4c10cb739c9",
+      "crc32": "2cf127f1",
+      "sha1": "d2fb910ae24e61a3fe40049cee2d47fed1ba63fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-15T19:04:38.244886-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665875088",
+      "size": "1486",
+      "md5": "e5b6149f4376be781e480c7aaf279247",
+      "crc32": "00ddf3ce",
+      "sha1": "f755f3e1958a7eb893bb59f3e89fcfc7bdd2092e",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-15T19:04:38.244886-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665875090",
+      "size": "36277",
+      "md5": "b5657306d1e165f3a0b443f13d855edd",
+      "crc32": "1ef232d9",
+      "sha1": "22f0ff17b89c5b017fc8d548c58c97e1e2892389",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-15T19:04:38.244886-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-15T19:04:38.244886-04:00.jpg",
+      "mtime": "1665875555",
+      "size": "7065",
+      "md5": "f5a4fad421cfe18927282626e9168c6f",
+      "crc32": "7f128b7a",
+      "sha1": "1d3d79da46217fc6db18fd2a0340f2d1282f3559"
+    },
+    {
+      "name": "aviationnews-2022-10-16T06:54:17.008125-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917660",
+      "size": "156873",
+      "md5": "707b1a81e8e8fdc9aebaa3911a17b19a",
+      "crc32": "c4b6c64a",
+      "sha1": "aa9881c03bc4495f6beee83d00cf571852adcbce",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-16T06:54:17.008125-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917662",
+      "size": "258600",
+      "md5": "bf33121a8ae123378ad38f5fa3273626",
+      "crc32": "101b976a",
+      "sha1": "58d5509035342f19757d8b8e9802b4d84fe609d4",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-16T06:54:17.008125-04:00.jpg",
+      "source": "original",
+      "mtime": "1665917658",
+      "size": "117703",
+      "md5": "cc8a2451bfc25abe10c369b994672737",
+      "crc32": "0f7fa970",
+      "sha1": "e68567c4d74ac696b6568df4edcd1d055613c472",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-16T06:54:17.008125-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917664",
+      "size": "1486",
+      "md5": "b0f23d58b823cf4750d341b6d969ca8e",
+      "crc32": "311959b7",
+      "sha1": "25eea836d48cf0cce388935a555f357419086fe6",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-16T06:54:17.008125-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917666",
+      "size": "36789",
+      "md5": "8e509d0cb3e6039a94f2c7dbe7b535c1",
+      "crc32": "0d7705c4",
+      "sha1": "6f1ad20970ea769ad77ea163a493079909c1d756",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-16T06:54:17.008125-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-16T06:54:17.008125-04:00.jpg",
+      "mtime": "1665917734",
+      "size": "7220",
+      "md5": "f575b534a99a11e8f0d10578268777ce",
+      "crc32": "7aa91094",
+      "sha1": "141542d09d00a0c5eb4c85ebda5fc65df3f59b9a"
+    },
+    {
+      "name": "aviationnews-2022-10-16T19:00:10.757994-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961221",
+      "size": "156663",
+      "md5": "85152a5c20403c64f7ba155c2ddb161a",
+      "crc32": "0d527137",
+      "sha1": "75257e3b68f9803cf6fb511e753ee625e36e95fa",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-16T19:00:10.757994-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961223",
+      "size": "258354",
+      "md5": "7d1f45e233dca0dc972b27ffa8a176ca",
+      "crc32": "593d891d",
+      "sha1": "04aa215b116242c73a6e64ba3ff7b32dcf692d02",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-16T19:00:10.757994-04:00.jpg",
+      "source": "original",
+      "mtime": "1665961220",
+      "size": "129961",
+      "md5": "415105542df376fec41cfcb2b3539e0a",
+      "crc32": "c5d03cf3",
+      "sha1": "db005d73d2f2309cd99dfe1d26f5cabe90d147d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-16T19:00:10.757994-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961225",
+      "size": "1486",
+      "md5": "0848ae749b60e2634773308d5aa6c40b",
+      "crc32": "651486ae",
+      "sha1": "134177d4e4be1ed46c6298c1f6299f7ba3a83a6c",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-16T19:00:10.757994-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961226",
+      "size": "37429",
+      "md5": "57d5e533e1a57926c7ca96966657c0ff",
+      "crc32": "5f364438",
+      "sha1": "6ca80325d887791048f7815e3148275d6f514fb2",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-16T19:00:10.757994-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-16T19:00:10.757994-04:00.jpg",
+      "mtime": "1665961302",
+      "size": "7295",
+      "md5": "a391c57ed946f1bf11dba8bd67d6ce95",
+      "crc32": "2d642789",
+      "sha1": "d21a7b6a5de6ffdc828737d77566c27d7cfb30a0"
+    },
+    {
+      "name": "aviationnews-2022-10-17T06:50:05.393780-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003809",
+      "size": "156470",
+      "md5": "8a6f3180ba797563769099403e628b37",
+      "crc32": "ed9b92d1",
+      "sha1": "ba20488f52fe7b09a02ff88fb2ff85a7ce84b418",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-17T06:50:05.393780-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003810",
+      "size": "258469",
+      "md5": "e16f4d111e0f4659440d4581a5b1a782",
+      "crc32": "00a10904",
+      "sha1": "fae5aacb3e8cb9dfd82461be20846953351cfb8c",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-17T06:50:05.393780-04:00.jpg",
+      "source": "original",
+      "mtime": "1666003807",
+      "size": "119330",
+      "md5": "88a430af52a56ff72d698e47b3de5a54",
+      "crc32": "2e206ff1",
+      "sha1": "b6e6c83e41dce02fb7cae834e13bf3f3d96f717d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-17T06:50:05.393780-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003812",
+      "size": "1486",
+      "md5": "8eebc9e53a5cbd7ca5643da8969b28b0",
+      "crc32": "1342d630",
+      "sha1": "1482532771afdddff8a1125c18a715a09c66a4f3",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-17T06:50:05.393780-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003814",
+      "size": "35016",
+      "md5": "d0a021a974ae52936b079221cea9e8a6",
+      "crc32": "f8fb1016",
+      "sha1": "9a3ba707b22fccf1ec6868d8a321184eda6be376",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-17T06:50:05.393780-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-17T06:50:05.393780-04:00.jpg",
+      "mtime": "1666003899",
+      "size": "7079",
+      "md5": "199c78edd1d89d8d35f3f25927fddcac",
+      "crc32": "392435d4",
+      "sha1": "fed5a1f59ff2f7466e877994ba71130957311c6f"
+    },
+    {
+      "name": "aviationnews-2022-10-17T18:54:26.352816-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047270",
+      "size": "156731",
+      "md5": "c0c450bfbc4191873b2de6588334c829",
+      "crc32": "baf2964a",
+      "sha1": "0b7ecc84cb63cc98243cd839b0659ef6d3422284",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-17T18:54:26.352816-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047272",
+      "size": "259105",
+      "md5": "b3ad6700e0bac4fa6e691dd2557f284e",
+      "crc32": "e1119e97",
+      "sha1": "af6faa02891bf05e3053ea5a4b3441632d97af21",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-17T18:54:26.352816-04:00.jpg",
+      "source": "original",
+      "mtime": "1666047268",
+      "size": "115204",
+      "md5": "0853f5bcd705151554c188ee17659564",
+      "crc32": "220ed06f",
+      "sha1": "d159a417fe35f1e7efa2c1e0dc4b39a32860c6ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-17T18:54:26.352816-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047274",
+      "size": "1486",
+      "md5": "2c09664a62661a5196964e2baad6636d",
+      "crc32": "dc24c70b",
+      "sha1": "9e01fd03b0fb30aa7ad871ecc5195e29cbcc2eca",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-17T18:54:26.352816-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047275",
+      "size": "36011",
+      "md5": "cf37b115e6e4caa2b2c97ee306440d41",
+      "crc32": "280dc41d",
+      "sha1": "3920ab1a7e620395c80c4178bf3d19e1475268d7",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-17T18:54:26.352816-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-17T18:54:26.352816-04:00.jpg",
+      "mtime": "1666047368",
+      "size": "7126",
+      "md5": "f99c874d290db84d9c8174ede431c5ad",
+      "crc32": "d3b3ce51",
+      "sha1": "c54433a4cf862609c9caf90b5c617ed1a2e333da"
+    },
+    {
+      "name": "aviationnews-2022-10-18T06:54:48.277776-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666090491",
+      "size": "157290",
+      "md5": "fbf90ad543627dbc55368cb2e39eee3b",
+      "crc32": "9605d8e3",
+      "sha1": "05236b30b78ce424bc6c96be0edd999c46d90747",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-18T06:54:48.277776-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666090493",
+      "size": "259712",
+      "md5": "5df5a04f815f4b4e99c90e1eb10fe4a9",
+      "crc32": "3ab255a8",
+      "sha1": "92eb51e3ab5d10f3c221039495b0ac06b19f92a9",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-18T06:54:48.277776-04:00.jpg",
+      "source": "original",
+      "mtime": "1666090489",
+      "size": "117849",
+      "md5": "7943a369945e778c0086159b32274efb",
+      "crc32": "a3f1862d",
+      "sha1": "c52e98d59361223bbe23009ad3c10c1e2da7ab9e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-18T06:54:48.277776-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666090495",
+      "size": "1486",
+      "md5": "d48477e9f8a77df07d79666d5eb35683",
+      "crc32": "c41a1fea",
+      "sha1": "26d441db7efa41737071f2eb192526b9b9e40760",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-18T06:54:48.277776-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666090497",
+      "size": "36641",
+      "md5": "4cabaae5e413e999efd8ad994b1746b9",
+      "crc32": "1f78aba3",
+      "sha1": "7f08d0cab704cc56e85ab810618ab1ede38da5da",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-18T06:54:48.277776-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-18T06:54:48.277776-04:00.jpg",
+      "mtime": "1666090562",
+      "size": "7192",
+      "md5": "2c0675e94e355eca1dc0078b779acf2e",
+      "crc32": "db898810",
+      "sha1": "2e9dd0304f81144cb7e703b04134ed42fd2b7946"
+    },
+    {
+      "name": "aviationnews-2022-10-18T19:10:26.787036-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134636",
+      "size": "156405",
+      "md5": "dc086a4b27fed87e4dc43bcd30d329ab",
+      "crc32": "f5727e3e",
+      "sha1": "49d304f0806399f031ae54d052552fd51a558ca9",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-18T19:10:26.787036-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134638",
+      "size": "260176",
+      "md5": "7f2c76819b5847dc97dd93399102fd49",
+      "crc32": "c6f58f49",
+      "sha1": "f4266c2c963624928d449ccf5b13dfb08d9af6fb",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-18T19:10:26.787036-04:00.jpg",
+      "source": "original",
+      "mtime": "1666134634",
+      "size": "116642",
+      "md5": "5f59caf5b958970ad94efeefc331761c",
+      "crc32": "50342a05",
+      "sha1": "c779cd9e467e091558eca18018cd12193f5548f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-18T19:10:26.787036-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134640",
+      "size": "1486",
+      "md5": "118036b1b444e1f9f9a6aa42476ce390",
+      "crc32": "ebfa7650",
+      "sha1": "84fb795b77eddb7f6f1ce4f6ceef0fef7095b0a1",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-18T19:10:26.787036-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134641",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-18T19:10:26.787036-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-18T19:10:26.787036-04:00.jpg",
+      "mtime": "1666160124",
+      "size": "7137",
+      "md5": "44c61ebc2175de496887d73516b7e60c",
+      "crc32": "67edc98d",
+      "sha1": "769f19a74742303e4afb9a8f685cd51b43dbc261"
+    },
+    {
+      "name": "aviationnews-2022-10-19T06:55:09.183174-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176935",
+      "size": "157447",
+      "md5": "24ec4927c5d47df5500356b7aa23e83f",
+      "crc32": "cb8ab3ba",
+      "sha1": "c17db4ffeabf22b8df9c2b037b8470f33536dbaf",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-19T06:55:09.183174-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176938",
+      "size": "260069",
+      "md5": "134938e651ec8161b396a4846fa8758a",
+      "crc32": "2f79d22d",
+      "sha1": "4bd60e87efc9b300bebbd035261fb512a5134373",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-19T06:55:09.183174-04:00.jpg",
+      "source": "original",
+      "mtime": "1666176934",
+      "size": "122595",
+      "md5": "e73de353c10b1257d268a9b4604c64bb",
+      "crc32": "3a43f054",
+      "sha1": "ad26f7e1d951e9afdb12b8248cb77aec2c164ce3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-19T06:55:09.183174-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176939",
+      "size": "1486",
+      "md5": "7c36bb6d42eaffe98cb9158302ab14d6",
+      "crc32": "c91a4c26",
+      "sha1": "4c564852532e9411775bef1c9ecf252caa60cfd5",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-19T06:55:09.183174-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176940",
+      "size": "41016",
+      "md5": "27cba1cb3f247db598bc87d46c14fc8e",
+      "crc32": "78734523",
+      "sha1": "d5a278a0cd88450e2f6d19e67cecf2c6749cba84",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-19T06:55:09.183174-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-19T06:55:09.183174-04:00.jpg",
+      "mtime": "1666196582",
+      "size": "7339",
+      "md5": "4f2c6770d53861a38ae8ce30c3c7e449",
+      "crc32": "a5bd7a65",
+      "sha1": "53965a95eefa9ff44e0107f8e712066414594841"
+    },
+    {
+      "name": "aviationnews-2022-10-19T19:06:35.958961-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666220824",
+      "size": "157252",
+      "md5": "ef7d4a128186c90ba182cfa028d9a53d",
+      "crc32": "b0821511",
+      "sha1": "619cd23addbbff1877a2db133079dfeb38b37b3f",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-19T19:06:35.958961-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666220826",
+      "size": "260066",
+      "md5": "a3b4db74fc4a8ac9351d24321d5b2484",
+      "crc32": "fa295a00",
+      "sha1": "4a6f011098391b0693a1b82dd724be683fdfa210",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-19T19:06:35.958961-04:00.jpg",
+      "source": "original",
+      "mtime": "1666220817",
+      "size": "122057",
+      "md5": "04e530719307d0f5fe02372f2a98d57d",
+      "crc32": "e626ded2",
+      "sha1": "77a939ffb9bf7e363f2d96e91bf27bf55760d547",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-19T19:06:35.958961-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666220829",
+      "size": "1486",
+      "md5": "c1fb4c26b5bb1440949ca385f6dd967f",
+      "crc32": "c8e53070",
+      "sha1": "13e4ce0ba1f3a96d78c8d18f537b95d2ef96f65b",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-19T19:06:35.958961-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666220831",
+      "size": "36672",
+      "md5": "de15877a1a435d336b454dd8b2fc8b41",
+      "crc32": "12268fe9",
+      "sha1": "b168021b41c802cd520450b40ac75c1ff04b97e6",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-19T19:06:35.958961-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-19T19:06:35.958961-04:00.jpg",
+      "mtime": "1666220963",
+      "size": "7394",
+      "md5": "f3550d412a3eb1cb8f74754dd70aef87",
+      "crc32": "cdbf4ea3",
+      "sha1": "41a70215f318120b08235fdec53fd45b7739ab0c"
+    },
+    {
       "name": "aviationnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae055560e434c553d3656596776a7cf98b607daf",
-      "mtime": "1665658178",
-      "size": "141883",
-      "md5": "a68f0658cb8a67a30994126c76f9dfca",
-      "crc32": "ad1c1f31",
-      "sha1": "62556099da91dd1e40c10f06edac8ac1a97c6e66",
+      "btih": "6f7258e7f44b6de6d607c64fe9e40863b55e3756",
+      "mtime": "1666220971",
+      "size": "158518",
+      "md5": "b32219f644a107041b66007679fe1194",
+      "crc32": "36557ba5",
+      "sha1": "2044d6dee838cf9bea9d3eb93d016545c91b535e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aviationnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2aa47402ce88d5f917c299fc950eaffc",
+      "md5": "a3369f56dacae4f350c7c4750ad33d73",
       "summation": "md5"
     },
     {
       "name": "aviationnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658030",
-      "size": "847872",
-      "md5": "c41201d717dc8e0a4e05d213c571649b",
-      "crc32": "f97ec1a6",
-      "sha1": "c2bf0e935172abf6a5feb72ed75f751c5d3fe835",
+      "mtime": "1666220835",
+      "size": "946176",
+      "md5": "76cd426764341bf150eef233b94774f0",
+      "crc32": "94871547",
+      "sha1": "de333f4453c177131c8f30acfcf5c3f8dedf940e",
       "format": "Metadata"
     },
     {
@@ -6772,9 +7568,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 655,
-  "item_last_updated": 1665658178,
-  "item_size": 62886304,
+  "files_count": 732,
+  "item_last_updated": 1666220971,
+  "item_size": 70473022,
   "metadata": {
     "identifier": "aviationnews-2022",
     "collection": [
@@ -6792,7 +7588,7 @@
     "addeddate": "2022-08-20 22:59:00"
   },
   "server": "ia801508.us.archive.org",
-  "uniq": 697596240,
+  "uniq": 64908127,
   "workable_servers": [
     "ia801508.us.archive.org",
     "ia601508.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1665618935,
+  "created": 1666224620,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/desertsunnews-2022",
@@ -2868,31 +2868,899 @@
       "sha1": "13e418c0fef4c4076422e08ab839632668b470c6"
     },
     {
+      "name": "desertsunnews-2022-10-13T04:50:19.304821-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665661822",
+      "size": "21100",
+      "md5": "7b725e55c76333dfe4186dbdb7bbdc23",
+      "crc32": "3a28aab0",
+      "sha1": "b18a16d46e4df0c9ec705613accab912e23501ea",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T04:50:19.304821-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665661824",
+      "size": "28886",
+      "md5": "6db89cb4551f667aa96100ed83e03e4b",
+      "crc32": "3542a91a",
+      "sha1": "72d807704a1cd051bfbcdbf0ccef54d73e8f6d5b",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T04:50:19.304821-07:00.jpg",
+      "source": "original",
+      "mtime": "1665661820",
+      "size": "286244",
+      "md5": "45ed862c14d7fa8f6c15304198b03e95",
+      "crc32": "050166b0",
+      "sha1": "ef75983cd7480492c307721c9de79a427dceae77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T04:50:19.304821-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665661825",
+      "size": "1485",
+      "md5": "729e910b8473d93250bb59073c96d953",
+      "crc32": "507b0351",
+      "sha1": "83a1bfbd08935c6789c0e48bb406fbebbdfb24af",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T04:50:19.304821-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665661827",
+      "size": "109457",
+      "md5": "5e754e14262912e7dc913d42b4ec9f88",
+      "crc32": "0cb01ddc",
+      "sha1": "071bbe89bf5d2e5dbffddc1920710eea58d97c36",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T04:50:19.304821-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-13T04:50:19.304821-07:00.jpg",
+      "mtime": "1665661900",
+      "size": "8956",
+      "md5": "815af60b791ae929ff93e287dc027407",
+      "crc32": "dbd34f69",
+      "sha1": "b025879116a6ec56f8b43e3ef87663dd519c1d41"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T16:59:31.883967-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665705581",
+      "size": "21053",
+      "md5": "5aa18a8e76b4c581f96e5edcaf121f83",
+      "crc32": "daf600ea",
+      "sha1": "c4645f820126d9c756ab5252e7142a439501a42a",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T16:59:31.883967-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665705583",
+      "size": "29708",
+      "md5": "95769fcf02b2c4a3f01a6c7dedb81a02",
+      "crc32": "f755a53b",
+      "sha1": "ac143a99a55d7e621ca4855861cfc65444e69c52",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T16:59:31.883967-07:00.jpg",
+      "source": "original",
+      "mtime": "1665705580",
+      "size": "247089",
+      "md5": "349aa233a85fb061e3e17e79dfb6be9d",
+      "crc32": "671e04a2",
+      "sha1": "768f4cd12b0a2484609e2bf61e4fd04b70d71f38",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T16:59:31.883967-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665705585",
+      "size": "1486",
+      "md5": "3b0a72cb397274cc0e8ed4b69d6bee32",
+      "crc32": "427e0dac",
+      "sha1": "c7c6e4fcb93281ef3892ff118f45711f478d6a00",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T16:59:31.883967-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665705586",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-13T16:59:31.883967-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-13T16:59:31.883967-07:00.jpg",
+      "mtime": "1665705664",
+      "size": "8763",
+      "md5": "88445c589681e1416b918e8c0eec41a1",
+      "crc32": "83823178",
+      "sha1": "eaf750bc6033c4101f4ec0e55ec451776cae82ec"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T05:00:24.663212-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665748827",
+      "size": "21358",
+      "md5": "fa2d15eb749974aa1802eabadc471e38",
+      "crc32": "589e72a6",
+      "sha1": "545dc731e17d6a94c67f9633a106c9ab46684a84",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T05:00:24.663212-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665748829",
+      "size": "34415",
+      "md5": "ee2a879c9f0e80ca8a240a2aed02df83",
+      "crc32": "49b06bf6",
+      "sha1": "6749dc9e9dd6aeb3b40f2f7865319dc584e50cae",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T05:00:24.663212-07:00.jpg",
+      "source": "original",
+      "mtime": "1665748826",
+      "size": "261524",
+      "md5": "ee7de0649d029c93b3cd26f7077e4857",
+      "crc32": "31b1e0f6",
+      "sha1": "b3706114cfbc66fb47d89d7cd67137eb5565f938",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T05:00:24.663212-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665748831",
+      "size": "1486",
+      "md5": "52ce1f8fcb986c5c577eb67afc145694",
+      "crc32": "d28878b8",
+      "sha1": "2ab1b4581234f858cbf5b4de1f017ab0debb1f74",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T05:00:24.663212-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665748833",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T05:00:24.663212-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-14T05:00:24.663212-07:00.jpg",
+      "mtime": "1665748900",
+      "size": "9279",
+      "md5": "f28a0179984813bcf99902fced779bd0",
+      "crc32": "e2d8a712",
+      "sha1": "6fcc9cb853fbbfb679ceb1c96cc5accb387f9cea"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T17:09:28.138629-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665792573",
+      "size": "21829",
+      "md5": "199a8c2b461e128ae15c336fb898539c",
+      "crc32": "df370124",
+      "sha1": "2794fc569d4b57c3fa86730c79560533e33ecd64",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T17:09:28.138629-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665792575",
+      "size": "30262",
+      "md5": "5a4968a6de9e6a6cb5bf8b145733df96",
+      "crc32": "0e375193",
+      "sha1": "8b96bb16e3c627c4e8662729047a8a427b8c334a",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T17:09:28.138629-07:00.jpg",
+      "source": "original",
+      "mtime": "1665792571",
+      "size": "311062",
+      "md5": "2153e2834331de918f6c373fc50dca2a",
+      "crc32": "034343d6",
+      "sha1": "74fe8e5c200fed989d48933ca1d49c77d20aa7ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T17:09:28.138629-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665792577",
+      "size": "1486",
+      "md5": "78f5cadf864c5038c409c280f5b08cfd",
+      "crc32": "94142bb2",
+      "sha1": "e0968b8373e1d63ac17536c52b9cda0a14656156",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T17:09:28.138629-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665792579",
+      "size": "84635",
+      "md5": "48038d9c9ea4190b203fe6df0855f8ba",
+      "crc32": "f167186d",
+      "sha1": "81d78799af09be165d2c7e381eddadbcf19f1f9b",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-14T17:09:28.138629-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-14T17:09:28.138629-07:00.jpg",
+      "mtime": "1665792640",
+      "size": "9427",
+      "md5": "fb14f9d064e1012508d600ac90c767cf",
+      "crc32": "0ce270c6",
+      "sha1": "27a592dbaf956cf5962dac45f48250cec1855fb2"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T04:59:47.536227-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665835198",
+      "size": "20876",
+      "md5": "de7e6133e0ddfe9df288b43e5ad79673",
+      "crc32": "546ca07b",
+      "sha1": "19bf31a04e65e3828adf46dbadfc1a8032c88137",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T04:59:47.536227-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665835199",
+      "size": "31090",
+      "md5": "40507741ad96881be3bb823ac056838b",
+      "crc32": "c4dc4d56",
+      "sha1": "60e4e41939a108e7297752aea43aba8b2cc2babd",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T04:59:47.536227-07:00.jpg",
+      "source": "original",
+      "mtime": "1665835196",
+      "size": "279350",
+      "md5": "b873770b59b83d779ec402e3b63608aa",
+      "crc32": "f09ee933",
+      "sha1": "e52385d8cb4cd46170209375cf65353814eb3140",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T04:59:47.536227-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665835204",
+      "size": "1486",
+      "md5": "b83d9b955c158755f625c260c1a6518c",
+      "crc32": "4b50c790",
+      "sha1": "9a118ff2aa62cb4bfaf4d98b0af3ad1d5daefe6e",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T04:59:47.536227-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665835205",
+      "size": "105449",
+      "md5": "2236c415c702313554578ce6225aced5",
+      "crc32": "b5dd7764",
+      "sha1": "fd95f5563400c1a712345af8f7a265330c6a9be3",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T04:59:47.536227-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-15T04:59:47.536227-07:00.jpg",
+      "mtime": "1665835261",
+      "size": "9600",
+      "md5": "06a740d5aff5998c03584a8aeaaff048",
+      "crc32": "50f3e692",
+      "sha1": "5174cab5989600eedad92b4d5ebb9dfdac89932c"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T17:06:37.285846-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665878803",
+      "size": "21001",
+      "md5": "db7c06040acd387354cebfcb2736025c",
+      "crc32": "97273511",
+      "sha1": "7fdeab518f7d5d36d6f8cd0bd2815caf95f5f011",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T17:06:37.285846-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665878805",
+      "size": "36194",
+      "md5": "f6802d2183f0c4448ed5adcabbbbbf59",
+      "crc32": "699c0c12",
+      "sha1": "771da7eb654c9987589a062eb182c3f2d754b4ac",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T17:06:37.285846-07:00.jpg",
+      "source": "original",
+      "mtime": "1665878801",
+      "size": "284840",
+      "md5": "022b7b734dea2b355e9575732ad4b3ca",
+      "crc32": "11e34314",
+      "sha1": "2de18e7c7e3e5282a91c139c44316f1d3a4ff411",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T17:06:37.285846-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665878807",
+      "size": "1485",
+      "md5": "9699024371baa64b60be1b48e452bb40",
+      "crc32": "f038834f",
+      "sha1": "966b305945d256bed6ffbdbee324853fdd97a3f8",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T17:06:37.285846-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665878809",
+      "size": "84042",
+      "md5": "6831a1bf369a80a60d0ef3d09927e76b",
+      "crc32": "e3eed6cc",
+      "sha1": "5c8025da0857011c5229168a36bd349bed3c40fb",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-15T17:06:37.285846-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-15T17:06:37.285846-07:00.jpg",
+      "mtime": "1665878881",
+      "size": "9009",
+      "md5": "2d8534089a9bbac433e5c3f91005c30a",
+      "crc32": "642e2dcf",
+      "sha1": "ee12c92e6452caf295bcec3d0ce6f9980f7d926b"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T04:53:30.628607-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665921213",
+      "size": "20027",
+      "md5": "cab2f774b164241056e9a1fba875fe1d",
+      "crc32": "c985ede4",
+      "sha1": "6e46c0c5327728ac5647499d727474422771063d",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T04:53:30.628607-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665921215",
+      "size": "47670",
+      "md5": "29c35f02fc097e403a0b2924efb95c92",
+      "crc32": "125bf335",
+      "sha1": "cc6469d86d882013994ac3e454cd961272c3cd3c",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T04:53:30.628607-07:00.jpg",
+      "source": "original",
+      "mtime": "1665921212",
+      "size": "244107",
+      "md5": "bbaf7ecd628930713658037ec2daea77",
+      "crc32": "8c328969",
+      "sha1": "13a08e8ec12efb8e4e245cb5d6d1a82804b9427b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T04:53:30.628607-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665921217",
+      "size": "1485",
+      "md5": "c3ef5e9a0d70b2971777b99e291cf343",
+      "crc32": "2dd90dda",
+      "sha1": "698d05fcf56a574da15cd2669e97f010839450c1",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T04:53:30.628607-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665921218",
+      "size": "88143",
+      "md5": "7018348f8e4a0af94fb016709cb5f307",
+      "crc32": "5b043039",
+      "sha1": "26a1eec8f33398aba5a5c999c2d1032e4493017b",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T04:53:30.628607-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-16T04:53:30.628607-07:00.jpg",
+      "mtime": "1665921270",
+      "size": "8984",
+      "md5": "7cd1943f234853897f8517d6625aa770",
+      "crc32": "1f447c2f",
+      "sha1": "a564b0d70922dd800146e7fae551888801451aa5"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665964684",
+      "size": "21036",
+      "md5": "931d6ffb3e93196e7e5cdf836da28728",
+      "crc32": "e36e6133",
+      "sha1": "53da05212a406e4ddad49b2de174ed74427155c0",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665964686",
+      "size": "28400",
+      "md5": "3ddb7f4699e6b3f5f17c6ac5f50bdb12",
+      "crc32": "d31c87ca",
+      "sha1": "46bf1096814f218e6fea97230649c236114646c9",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.jpg",
+      "source": "original",
+      "mtime": "1665964683",
+      "size": "235487",
+      "md5": "526a9766f0492ef9ce6a5a9a0c062d92",
+      "crc32": "34e351c6",
+      "sha1": "3c092abc85aac0e4995600837fcee724e73eac20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665964691",
+      "size": "1486",
+      "md5": "0e8f97c2a1c28f10f3a300ff8ec3622a",
+      "crc32": "93faead3",
+      "sha1": "337b3fbf4992ccac3866a069fe9c0224485a6616",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665964692",
+      "size": "52138",
+      "md5": "8c3351b710d40d5fe44b51531038fc29",
+      "crc32": "132ec36a",
+      "sha1": "97e6daac3db68a752da28030c38b91234b2c384a",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-16T16:58:00.456946-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-16T16:58:00.456946-07:00.jpg",
+      "mtime": "1665964747",
+      "size": "8944",
+      "md5": "187562dfb48ad040283bc6fd389f337e",
+      "crc32": "edfd9b54",
+      "sha1": "e6938fe845e154a6deb6fe0908fe77f16cfd291c"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T04:52:48.981450-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666007573",
+      "size": "20691",
+      "md5": "5ec341a90799a56f04d971e85a2e66af",
+      "crc32": "c3ebe2a2",
+      "sha1": "87f5f041e759bd98f681976f02de3e51728935ac",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T04:52:48.981450-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666007576",
+      "size": "30710",
+      "md5": "5f394a78e136d3f66d70d3876abb8236",
+      "crc32": "79a8a15b",
+      "sha1": "5234b1dc0a917dbd9f3530b5618b4ac0e8a5ab48",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T04:52:48.981450-07:00.jpg",
+      "source": "original",
+      "mtime": "1666007571",
+      "size": "255630",
+      "md5": "1fd571046193d2729a25a3b84b2f8aa8",
+      "crc32": "c5476ec5",
+      "sha1": "6c39d1da8c74319fe43efff8a79d2374e99004b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T04:52:48.981450-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666007577",
+      "size": "1486",
+      "md5": "f75016a469edbde9de20f0f02a168561",
+      "crc32": "31ed63cd",
+      "sha1": "724513849408aed4dd02925a99eb2ca385965970",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T04:52:48.981450-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666007579",
+      "size": "91709",
+      "md5": "41304a3b7493a26e20f074432cd9b58f",
+      "crc32": "3a6c2bda",
+      "sha1": "a36e8014f0af0d0fea2a1d9800943b08db4ec533",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T04:52:48.981450-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-17T04:52:48.981450-07:00.jpg",
+      "mtime": "1666007639",
+      "size": "9008",
+      "md5": "7e5e1031b47f11cda0e679c7ce662afa",
+      "crc32": "78f98cc5",
+      "sha1": "a30af9a74b7fd6ad01397d073bb02e55383e10ba"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T16:51:06.261598-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666050671",
+      "size": "20251",
+      "md5": "c68412f14215f7955fe22239df2ba2b9",
+      "crc32": "90b34d8a",
+      "sha1": "5b9cd05f11d405abac32ec6d7820299810d225d6",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T16:51:06.261598-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666050672",
+      "size": "30101",
+      "md5": "add7603b51066353060e92ffec9727aa",
+      "crc32": "44624ebb",
+      "sha1": "4541b35c8d41f6513e8dcefb48551d36f4eaf614",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T16:51:06.261598-07:00.jpg",
+      "source": "original",
+      "mtime": "1666050669",
+      "size": "229377",
+      "md5": "6990e786f2f3810da3067662e0c31e09",
+      "crc32": "2a20f964",
+      "sha1": "ee9cd3df8c587d171527e816f44fdd2f331a0125",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T16:51:06.261598-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666050674",
+      "size": "1486",
+      "md5": "2ad1d1a17f8e16e04d3e55143a6324a5",
+      "crc32": "91d39b52",
+      "sha1": "6d01425665a319e4cb376562f641e0c3d2a515f5",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T16:51:06.261598-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666050675",
+      "size": "94754",
+      "md5": "60f145fc4bafeae17d3772cbe7d08e2c",
+      "crc32": "2e31393b",
+      "sha1": "ab7b0123ca606f93b8f5989d7708d160b54ddb16",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-17T16:51:06.261598-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-17T16:51:06.261598-07:00.jpg",
+      "mtime": "1666050730",
+      "size": "8920",
+      "md5": "4458a1c5d0988ccffc593882a87a1ec9",
+      "crc32": "6817e1d8",
+      "sha1": "5537ecee6f45689eb3be99064a4110cbb7ee692e"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T04:59:01.043405-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666094357",
+      "size": "21622",
+      "md5": "a226d14efb115d8a415e2f0e8f1039dd",
+      "crc32": "ddb641c3",
+      "sha1": "373f4d156ad6a04ef12459924210f74ece8a068d",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T04:59:01.043405-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666094358",
+      "size": "32692",
+      "md5": "b32b9f65c47d9cd04e4116fd2e256f67",
+      "crc32": "f1c3b5a2",
+      "sha1": "3a03d2a1c31e127be5a1c5537c97c12b82bcc189",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T04:59:01.043405-07:00.jpg",
+      "source": "original",
+      "mtime": "1666094353",
+      "size": "203574",
+      "md5": "445d3c0a396630f20b936a48be1ee25f",
+      "crc32": "0948f67b",
+      "sha1": "ef1716b2e11a861030ca9d5af08c53c7b98d8183",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T04:59:01.043405-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666094361",
+      "size": "1486",
+      "md5": "29c5542ed4913d46f06fe0945b76058f",
+      "crc32": "576c043c",
+      "sha1": "949a5e1f7faadf84bda81a7131b1efe6bc81871b",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T04:59:01.043405-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666094363",
+      "size": "112927",
+      "md5": "8bbe28cc6a02f561d0cd4595ec8b96c4",
+      "crc32": "b7a009a1",
+      "sha1": "8eb41e106d5759fde2a6079c642e6e0d73cbb035",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T04:59:01.043405-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-18T04:59:01.043405-07:00.jpg",
+      "mtime": "1666094428",
+      "size": "8370",
+      "md5": "972b58f8b27489ee6b47ce2ae0a9e01b",
+      "crc32": "7895b243",
+      "sha1": "394849312fb1dcea66435dca6aafcdac570e76bd"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T17:21:27.820222-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138911",
+      "size": "19817",
+      "md5": "ee309a4b953e132c1b2f94059b18a64f",
+      "crc32": "ae9142e1",
+      "sha1": "4c28d37107a263d7f040cb6ba1b1f0ddf05f0aef",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T17:21:27.820222-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138917",
+      "size": "33863",
+      "md5": "68dc884f959e780eddbebb3624576cdc",
+      "crc32": "af4aa891",
+      "sha1": "c8721d780fb58e5cdd514162a82710768c95437c",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T17:21:27.820222-07:00.jpg",
+      "source": "original",
+      "mtime": "1666138902",
+      "size": "275259",
+      "md5": "1c218e29c1a5ec6f0c906603d11558dd",
+      "crc32": "06d4e171",
+      "sha1": "1a8772b1c9bc897af7484967eb747770830f23e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T17:21:27.820222-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138920",
+      "size": "1485",
+      "md5": "10ffa8f04627038e1b179bec41f02de4",
+      "crc32": "af3e36ce",
+      "sha1": "79f52e84d5e20321f8dff74ef051a8b21a505595",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T17:21:27.820222-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138923",
+      "size": "206",
+      "md5": "0b4919a24904352de2a9e86577a73e33",
+      "crc32": "4c66eeb9",
+      "sha1": "3f453a6ee958dcc92540d307f9d2d6691a9eefff",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-18T17:21:27.820222-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-18T17:21:27.820222-07:00.jpg",
+      "mtime": "1666163158",
+      "size": "9211",
+      "md5": "6ed6cfc213aa968dcd250094659d2a42",
+      "crc32": "ec78f685",
+      "sha1": "9b651d3bc655c87fca28c19aa400eb37879cb270"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T05:01:06.702477-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666180877",
+      "size": "20077",
+      "md5": "3282730b2a323bb2a462ee662dee48c2",
+      "crc32": "da652806",
+      "sha1": "b8632c8e6a5f17e30d2eee625662d5401eca2987",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T05:01:06.702477-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666180879",
+      "size": "32157",
+      "md5": "6921a4ba9c4759491f01f630d6b632e7",
+      "crc32": "b95580da",
+      "sha1": "ad96853f48c2bfe57ed99f5f7381e24860128711",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T05:01:06.702477-07:00.jpg",
+      "source": "original",
+      "mtime": "1666180876",
+      "size": "277521",
+      "md5": "9474865a30ed6d05561564f2e1aa41fb",
+      "crc32": "5346f9b8",
+      "sha1": "dc31ac1e3ac2ead7a838d0cfcdc4a1d8b13e56f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T05:01:06.702477-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666180881",
+      "size": "1486",
+      "md5": "00238c598064f5f04cfddb0ba45d1e0a",
+      "crc32": "9bcbc7ca",
+      "sha1": "aaef568ba44aa6e06bd279c2cd2543da5e8142cf",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T05:01:06.702477-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666180882",
+      "size": "90121",
+      "md5": "51ee4b5c8d18f07bc369a2966665486b",
+      "crc32": "8eb6bfe8",
+      "sha1": "e68e1df8299550b0b4dd6a3838d7063ee89247d4",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T05:01:06.702477-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-19T05:01:06.702477-07:00.jpg",
+      "mtime": "1666199059",
+      "size": "9226",
+      "md5": "fbbaa73b5f92e440f68559503badede5",
+      "crc32": "9f81a4a7",
+      "sha1": "73d79f7af5edaaab051909640f1d8506eb991cdb"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T17:08:44.765770-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224529",
+      "size": "21074",
+      "md5": "e77eb44ae461fcd3f98b18fa6247124a",
+      "crc32": "0ee07559",
+      "sha1": "32af08883967b6478a8cc336cd2b3592037bc461",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T17:08:44.765770-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224531",
+      "size": "30338",
+      "md5": "c442f802c9be47f4460bcdf9531a73ff",
+      "crc32": "eb850e19",
+      "sha1": "3e8e0e6e1093e947076f56246c78cfaf95da115e",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T17:08:44.765770-07:00.jpg",
+      "source": "original",
+      "mtime": "1666224528",
+      "size": "259112",
+      "md5": "06ac56d985e314193eb7cae451034b28",
+      "crc32": "f64e0c05",
+      "sha1": "81f8c9ece82c72a08fb7f693007366e7163967c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T17:08:44.765770-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224533",
+      "size": "1486",
+      "md5": "17b9f02b965e1026ba33bd58dd3d0769",
+      "crc32": "3dfec5e0",
+      "sha1": "3f61cbfc7bcca2c21e631e49cdc377c766d538c4",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T17:08:44.765770-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224535",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-19T17:08:44.765770-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-19T17:08:44.765770-07:00.jpg",
+      "mtime": "1666224601",
+      "size": "8906",
+      "md5": "47a4b6dd0db73a3d54a29c8d0defe80c",
+      "crc32": "8fccdf07",
+      "sha1": "57c82577d2f1288d63887d67656ac46f48c6c43a"
+    },
+    {
       "name": "desertsunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "206ae52f6bcff392caada524fa9de03ce3c3e7af",
-      "mtime": "1665618919",
-      "size": "61099",
-      "md5": "4c857501643be0b4e867faf9862b927d",
-      "crc32": "97b219c8",
-      "sha1": "bafd67100ade28d3288fbddcd41cf5f61c345033",
+      "btih": "0abf9d521f8e09f074557556511df16ce796b28f",
+      "mtime": "1666224609",
+      "size": "79172",
+      "md5": "830e4171fe620598355da42b6fc37a4c",
+      "crc32": "48dcc1a0",
+      "sha1": "79336c453645980bc2633691ebab7906fb1f3835",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desertsunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "59c84a241213312baacbb2d9781cc02d",
+      "md5": "a8644acf264fff8ded6c73f29e29ce6f",
       "summation": "md5"
     },
     {
       "name": "desertsunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665618858",
-      "size": "372736",
-      "md5": "bd502d1ebba6d45648859c234f7bac85",
-      "crc32": "a48f59f7",
-      "sha1": "ef6dcfa891a47ea256add560c856504844dbab92",
+      "mtime": "1666224540",
+      "size": "483328",
+      "md5": "59b662a813379896c00c1da757b5ba61",
+      "crc32": "4bc32f62",
+      "sha1": "202eb2822d0b384853df329e44739ad21f0c2620",
       "format": "Metadata"
     },
     {
@@ -2906,9 +3774,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 281,
-  "item_last_updated": 1665618919,
-  "item_size": 18467020,
+  "files_count": 365,
+  "item_last_updated": 1666224609,
+  "item_size": 24055749,
   "metadata": {
     "identifier": "desertsunnews-2022",
     "collection": [
@@ -2925,10 +3793,10 @@
     "publicdate": "2022-09-20 22:16:38",
     "addeddate": "2022-09-20 22:16:38"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 103346482,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1688005255,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

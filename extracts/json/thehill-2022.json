@@ -1,5 +1,5 @@
 {
-  "created": 1665692254,
+  "created": 1666164406,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/32/items/thehill-2022",
@@ -11386,31 +11386,702 @@
       "sha1": "30afafe9f3bf725c2d61b5b8836596e952a861a5"
     },
     {
+      "name": "thehill-2022-10-14T04:07:34.609756-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665734857",
+      "size": "49018",
+      "md5": "fbd1d38498a156acf2e210cafcef186f",
+      "crc32": "aa9b4b88",
+      "sha1": "7fd8ae6964c9b7274e6d1b4364087b9646383530",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-14T04:07:34.609756-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665734859",
+      "size": "72451",
+      "md5": "52bdc8acf5859e795676ec72a7ecddc7",
+      "crc32": "1e08cdb9",
+      "sha1": "c002dadac7d7eb5c8f7e9d99a7e4f4ac09b3856f",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-14T04:07:34.609756-04:00.jpg",
+      "source": "original",
+      "mtime": "1665734856",
+      "size": "315593",
+      "md5": "5c4a2c7d5145bf2b38e1e78b6918e724",
+      "crc32": "10f5b6e8",
+      "sha1": "35af268e0d8a3fd3fa799b8aaf80ac1840c2c904",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-14T04:07:34.609756-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665734860",
+      "size": "1431",
+      "md5": "53ff64afc5e837ba3f3111a48c275e62",
+      "crc32": "55bdb714",
+      "sha1": "0d0ffa589f891a2d65b374afc4b25642229dd3b4",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-14T04:07:34.609756-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665734862",
+      "size": "96",
+      "md5": "e1327ce0a7f37527fef2eff54f1f2549",
+      "crc32": "7dd8052a",
+      "sha1": "f660d22004d0d28bea4ef6d7200214aad3bd685b",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-14T04:07:34.609756-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-14T04:07:34.609756-04:00.jpg",
+      "mtime": "1665734954",
+      "size": "10986",
+      "md5": "50c3403f5a7ba14125d39505b815a7a9",
+      "crc32": "ae3706b5",
+      "sha1": "9298603e768a76e8ab2144f008da3a5e42f563d1"
+    },
+    {
+      "name": "thehill-2022-10-14T16:33:58.095880-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665779650",
+      "size": "47618",
+      "md5": "e5508043da3719e9090579ad376c9dd9",
+      "crc32": "f8bed4cb",
+      "sha1": "54c9de5fce72f5b1b2860e7ea8d2a7e112d735c1",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-14T16:33:58.095880-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665779652",
+      "size": "71933",
+      "md5": "c550409c217c1f8671caad5de70947e2",
+      "crc32": "920661b9",
+      "sha1": "2f20b963d0a7bf4cbc06b6f73bd6219616c316a2",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-14T16:33:58.095880-04:00.jpg",
+      "source": "original",
+      "mtime": "1665779648",
+      "size": "321643",
+      "md5": "60fe32ce176fc599778e6887b957884f",
+      "crc32": "802b42c1",
+      "sha1": "d573c8fcd5454a49d33ca9a135167f5d4f31d766",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-14T16:33:58.095880-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665779653",
+      "size": "1432",
+      "md5": "8016cef38f5423daa5855fb687f50241",
+      "crc32": "5504adbb",
+      "sha1": "1c1759dddeaab7f8e0c0de1f8c5daa36f110e5be",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-14T16:33:58.095880-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665779655",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-14T16:33:58.095880-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-14T16:33:58.095880-04:00.jpg",
+      "mtime": "1665779720",
+      "size": "11185",
+      "md5": "8b2e7379495683285aaf1907729a25f3",
+      "crc32": "6ac2a336",
+      "sha1": "339ffc55387176cddf412d1c845522a06e951f4f"
+    },
+    {
+      "name": "thehill-2022-10-15T03:58:45.831108-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665820733",
+      "size": "47625",
+      "md5": "28791a282bdd32d0535ccdfd438d2b53",
+      "crc32": "251b3699",
+      "sha1": "cc4874c46654c29a80dc98b544f34ca33e58ee5b",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-15T03:58:45.831108-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665820736",
+      "size": "78516",
+      "md5": "a7a51b3f22279d6753cd1887028a3438",
+      "crc32": "6a4d75ea",
+      "sha1": "bcaa25bbb9c9a39a5e5d8747e33b86a6b853129f",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-15T03:58:45.831108-04:00.jpg",
+      "source": "original",
+      "mtime": "1665820731",
+      "size": "317062",
+      "md5": "16c5ddcd6d04fcf8e29e1f9274e4e187",
+      "crc32": "cc19e926",
+      "sha1": "ea6e16b219d9c31d9b903c9f93f95fe6410b536b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-15T03:58:45.831108-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665820738",
+      "size": "1432",
+      "md5": "37bcc25a3343c4ff71d3772a07004c4d",
+      "crc32": "e1bc80f7",
+      "sha1": "c46784aa9e43642b80e886282c905e9868bcd00b",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-15T03:58:45.831108-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665820739",
+      "size": "263",
+      "md5": "a3955c5543f7fcb7125c5aca10d84571",
+      "crc32": "e378e3fc",
+      "sha1": "908200f9d90f9edc75807c47e7c7596a696cb891",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-15T03:58:45.831108-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-15T03:58:45.831108-04:00.jpg",
+      "mtime": "1665820988",
+      "size": "11498",
+      "md5": "647c346c01a680568e868369216b5004",
+      "crc32": "651fe03f",
+      "sha1": "ff1cce6d9f3cf6f8d751ba71dc8751f9552d30a9"
+    },
+    {
+      "name": "thehill-2022-10-15T15:54:28.485250-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665863675",
+      "size": "47448",
+      "md5": "51ff86d9f324da9434df88cffdd7da27",
+      "crc32": "b26ef8c2",
+      "sha1": "8410916d330ace84f1f079516d1478a8e9eaeafd",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-15T15:54:28.485250-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665863677",
+      "size": "72603",
+      "md5": "ae284e9206b7410fe5a8c8d82c90f5e8",
+      "crc32": "922947ec",
+      "sha1": "e910b4054ebd3d087851cc859984abf7c8ffb579",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-15T15:54:28.485250-04:00.jpg",
+      "source": "original",
+      "mtime": "1665863673",
+      "size": "314499",
+      "md5": "0430a71977506600f55039d6682ffdad",
+      "crc32": "3c1fcdcc",
+      "sha1": "6bc9b9488b2fb5d2312f02b95c3f3516299998e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-15T15:54:28.485250-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665863679",
+      "size": "1432",
+      "md5": "3f06bebc5465930f19836ca0b6f10dd7",
+      "crc32": "7354cfcb",
+      "sha1": "3d4d02395589e1c51035952988e552ae7c262132",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-15T15:54:28.485250-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665863680",
+      "size": "55954",
+      "md5": "2f12b866aa7364e25f859ba5c79ba3cc",
+      "crc32": "54320b86",
+      "sha1": "7ffc8b5746bddabcdb109673651800e80839497a",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-15T15:54:28.485250-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-15T15:54:28.485250-04:00.jpg",
+      "mtime": "1665863746",
+      "size": "11203",
+      "md5": "b8618dbc3c3bab26dfa921cadcba6748",
+      "crc32": "caf350ed",
+      "sha1": "a08639e701c793abc2740fc837b72e2c02001dfd"
+    },
+    {
+      "name": "thehill-2022-10-16T03:27:40.923971-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665905264",
+      "size": "47510",
+      "md5": "c0bb58d2aa6e5ba730ae046319a91d49",
+      "crc32": "493cc6a7",
+      "sha1": "6865ee1bf36ad0f932288c5def2dc0ae859a828b",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-16T03:27:40.923971-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665905266",
+      "size": "72477",
+      "md5": "b1aef9baa0a2895a026af47735cba53a",
+      "crc32": "4b13de45",
+      "sha1": "95b8958ed9e434cc212f15503b85a8ddb5ba7339",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-16T03:27:40.923971-04:00.jpg",
+      "source": "original",
+      "mtime": "1665905262",
+      "size": "307971",
+      "md5": "2649fe9cb79449132ced8f35b6099be0",
+      "crc32": "d2c93091",
+      "sha1": "8e27ab8350dc0efdfe0ae0c77bd6e0d20acb5ab3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-16T03:27:40.923971-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665905267",
+      "size": "1432",
+      "md5": "b11ccaaf6d93984b97625b9e167cd144",
+      "crc32": "0219bd3b",
+      "sha1": "eec89a75bf05d0c531418a38971c1ce35a9913a3",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-16T03:27:40.923971-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665905269",
+      "size": "46117",
+      "md5": "ad792714b68503e764f546d8315466b8",
+      "crc32": "62e1631f",
+      "sha1": "9b889cfed92c73d557eabfef299d9f426ab6db8d",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-16T03:27:40.923971-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-16T03:27:40.923971-04:00.jpg",
+      "mtime": "1665905407",
+      "size": "10972",
+      "md5": "112c15fe2eb4147e9cfb9308f84f9327",
+      "crc32": "f618fdfe",
+      "sha1": "d01b792a82dc14cafcd9adc216abf295c03bc994"
+    },
+    {
+      "name": "thehill-2022-10-16T14:50:19.763738-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665946223",
+      "size": "48486",
+      "md5": "97bdc61d79abc889aef93c8d1db1747e",
+      "crc32": "968e7294",
+      "sha1": "7fe1004cebb4cd028e93bb6c26832b9d2e7324da",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-16T14:50:19.763738-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665946225",
+      "size": "72351",
+      "md5": "e177a1383210ba73f51a613f0d147cbb",
+      "crc32": "0f2b9654",
+      "sha1": "4e2e73a13d59402c6baa12f0c9db3ba6796de217",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-16T14:50:19.763738-04:00.jpg",
+      "source": "original",
+      "mtime": "1665946221",
+      "size": "317715",
+      "md5": "613660f9c8bf708af830a5cb42536aae",
+      "crc32": "032b0b81",
+      "sha1": "9f1364dc3afe62ca19c70e78e3ac4ec1e9dbbfd5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-16T14:50:19.763738-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665946226",
+      "size": "1432",
+      "md5": "0a14ee78d795fd31825c7cede8501ebc",
+      "crc32": "5dfe35eb",
+      "sha1": "66a6d19911c6b4c99740ff203d07ab03fc4e627b",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-16T14:50:19.763738-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665946228",
+      "size": "244",
+      "md5": "181525ad1a9f2a6a0050814492c80fa8",
+      "crc32": "60ad8806",
+      "sha1": "1b562721c90ad3e01d3870bbb682c95a4cf5ef87",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-16T14:50:19.763738-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-16T14:50:19.763738-04:00.jpg",
+      "mtime": "1665946289",
+      "size": "11281",
+      "md5": "53a110548b27707271f3e199050e51cd",
+      "crc32": "458b8a36",
+      "sha1": "b23fbcd946031d5edc640ae05561ca5a9f955508"
+    },
+    {
+      "name": "thehill-2022-10-17T03:46:18.439062-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665992782",
+      "size": "47578",
+      "md5": "e487d35467f77d2b687b6b7fdc0e1cfb",
+      "crc32": "04a97cc3",
+      "sha1": "e61dc652007f9123336f74bf15b91ad1e390b8d7",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-17T03:46:18.439062-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665992784",
+      "size": "72198",
+      "md5": "85c85787a09d9b1dd8f70f1dfd37984f",
+      "crc32": "2237bc84",
+      "sha1": "e882116cb05bf2c791b6ca67c405320a5bae554b",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-17T03:46:18.439062-04:00.jpg",
+      "source": "original",
+      "mtime": "1665992780",
+      "size": "338104",
+      "md5": "fbdacbe7014f15ba434a4c1ccfc18db8",
+      "crc32": "4be32ecb",
+      "sha1": "0b78926b5560361adc34d37dfc1c5402bb959a05",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-17T03:46:18.439062-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665992786",
+      "size": "1432",
+      "md5": "991f6fc84b793d016c2c30f429c49830",
+      "crc32": "4fb4d0c0",
+      "sha1": "c87f453872e52e696cbbf8979ce77011c8abb95d",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-17T03:46:18.439062-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665992787",
+      "size": "59216",
+      "md5": "6708cf8f77befbdb711841950f0daedf",
+      "crc32": "d0f8fa7a",
+      "sha1": "09c0f6e4246869221ad01a9e7e54947c697502e7",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-17T03:46:18.439062-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-17T03:46:18.439062-04:00.jpg",
+      "mtime": "1665992885",
+      "size": "11433",
+      "md5": "b03e1c36371e9f20e769027af0709929",
+      "crc32": "71ddf070",
+      "sha1": "cdebe2cc56bb571a978c9f475e3925765f7a5d34"
+    },
+    {
+      "name": "thehill-2022-10-17T16:06:50.077776-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666037217",
+      "size": "47508",
+      "md5": "b929eba27498419749badc74cd287819",
+      "crc32": "7da974a9",
+      "sha1": "7c106380446f3994976d8db1079edb0279413296",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-17T16:06:50.077776-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666037219",
+      "size": "72322",
+      "md5": "3ed2554fb26be38946e43129db399775",
+      "crc32": "b78ce1e0",
+      "sha1": "b1816280a378a2d3039c74438ea622561a295466",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-17T16:06:50.077776-04:00.jpg",
+      "source": "original",
+      "mtime": "1666037215",
+      "size": "321626",
+      "md5": "40e8b9ecad49c1ef0971084a74c267e8",
+      "crc32": "3dc74b3d",
+      "sha1": "4e7dc7ca7a09920ed2db7051d42a567bf967e956",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-17T16:06:50.077776-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666037221",
+      "size": "1432",
+      "md5": "20aeb85b27097ad72934c31c37a9635b",
+      "crc32": "5f9d311b",
+      "sha1": "439706d652dcc94185eea68882970e24517f32d6",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-17T16:06:50.077776-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666037223",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-17T16:06:50.077776-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-17T16:06:50.077776-04:00.jpg",
+      "mtime": "1666037289",
+      "size": "11390",
+      "md5": "ecb6d0acf65a2f01dbdfca9d0dfa4114",
+      "crc32": "b0b5693f",
+      "sha1": "f2c0b4532236f31dca3ffa8567f2d2e04ae39276"
+    },
+    {
+      "name": "thehill-2022-10-18T03:15:45.822829-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666077348",
+      "size": "47387",
+      "md5": "29b06a6bd99af321d64fc39574d8cb01",
+      "crc32": "4b4bab80",
+      "sha1": "d463e78a4f5c8a82bf5583b8811140d8208359d8",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-18T03:15:45.822829-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666077350",
+      "size": "72018",
+      "md5": "5d3b786b020d19722a1edef4db81d211",
+      "crc32": "9e22e5af",
+      "sha1": "e2d51999a4d65d51e5a6e7f6ddf2d76cd7d7114a",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-18T03:15:45.822829-04:00.jpg",
+      "source": "original",
+      "mtime": "1666077346",
+      "size": "335870",
+      "md5": "9c229f48a218bab49e05ff8dcb1e68ff",
+      "crc32": "db7b74aa",
+      "sha1": "b7c5af1f4ec87c9c585f4d2c9615d407137ba06f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-18T03:15:45.822829-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666077352",
+      "size": "1432",
+      "md5": "b304c648389d5f0f31b405e26d632310",
+      "crc32": "02cafd40",
+      "sha1": "741bfb9dd08bf231e0ee70791d9d9f82fe045960",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-18T03:15:45.822829-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666077353",
+      "size": "48066",
+      "md5": "20003be4fd7d23868e8f74d50c7cfd06",
+      "crc32": "d1081d00",
+      "sha1": "2c13dff81794b6f81b15e26f1c92bed19038ecc1",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-18T03:15:45.822829-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-18T03:15:45.822829-04:00.jpg",
+      "mtime": "1666077443",
+      "size": "11450",
+      "md5": "4790207cacb053e352e6371c6c51ffc3",
+      "crc32": "5e1451d2",
+      "sha1": "b68b2962de50c0fb9f5a490f2b7e9e6b7796ee0b"
+    },
+    {
+      "name": "thehill-2022-10-18T15:49:17.886105-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666122561",
+      "size": "47872",
+      "md5": "d4976047f8874cbb8a0198bdcdef316b",
+      "crc32": "03b17cc6",
+      "sha1": "1f3c71779a3833b8cdf64a201308da7646b162ef",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-18T15:49:17.886105-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666122563",
+      "size": "71754",
+      "md5": "0fad710ca98d80e05668ba92923a041d",
+      "crc32": "4a87368d",
+      "sha1": "e9770f27a79bed713297d5a7510d017b4b8bff18",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-18T15:49:17.886105-04:00.jpg",
+      "source": "original",
+      "mtime": "1666122559",
+      "size": "320718",
+      "md5": "4e7d14a2da5736802ba83370a20b0b77",
+      "crc32": "ca4f5297",
+      "sha1": "c2940c3386bc431b7f98761f2813a74f582e70f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-18T15:49:17.886105-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666122565",
+      "size": "1430",
+      "md5": "631654a4e11a595314f3adaf57e35062",
+      "crc32": "5305631a",
+      "sha1": "c0a2f58a0f31f56efba17cf26c4c3bef874a48fd",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-18T15:49:17.886105-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666122567",
+      "size": "62633",
+      "md5": "db5ae1f2c2459aa5f8a5f7e35bcf533f",
+      "crc32": "3431103f",
+      "sha1": "919d83b439cf28fa5e7a471eec3f10e863016347",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-18T15:49:17.886105-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-18T15:49:17.886105-04:00.jpg",
+      "mtime": "1666123037",
+      "size": "11104",
+      "md5": "808915216c8d044189bb0faab2e29ef9",
+      "crc32": "e6d355ee",
+      "sha1": "cda4281b7c1e2aeb1792c4fdd6a2e40b81c30cd1"
+    },
+    {
+      "name": "thehill-2022-10-19T03:25:34.718572-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666164337",
+      "size": "47568",
+      "md5": "a7ed92239df39d352d1b22414344e011",
+      "crc32": "94bf4923",
+      "sha1": "11a155bff6aab5159a4eb41dfc7bdf76ff8db43f",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-19T03:25:34.718572-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666164339",
+      "size": "71456",
+      "md5": "17df5c69f3396fc245614609ba40bb81",
+      "crc32": "db556691",
+      "sha1": "42f3fa9efd9efa0d845ef2e47fc5aa5fed845634",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-19T03:25:34.718572-04:00.jpg",
+      "source": "original",
+      "mtime": "1666164336",
+      "size": "297409",
+      "md5": "a39e79e967aaea9d35d8d29c5f986e0a",
+      "crc32": "8a58356d",
+      "sha1": "bc3d7e1e8c78534527dd7880dfeea9955141fc0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-19T03:25:34.718572-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666164341",
+      "size": "1432",
+      "md5": "cc9914a4353f1306812a7f783a991ace",
+      "crc32": "17297389",
+      "sha1": "9d3829b61bb2d1664fc654d829d6fb43534f5f81",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-19T03:25:34.718572-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666164342",
+      "size": "57596",
+      "md5": "063bc2a4fac664f1331dc83e4cd4c27d",
+      "crc32": "f8a09242",
+      "sha1": "e80d179d1a28321011a3f49f105a072e7800a244",
+      "format": "JSON"
+    },
+    {
       "name": "thehill-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d70085ab7590e61636361896e4e094a396d8e203",
-      "mtime": "1665692235",
-      "size": "232086",
-      "md5": "e615172881644e234b0e924a7480d5af",
-      "crc32": "a5e3d2d4",
-      "sha1": "0726b339003438d48204700c9dd3d6115d319b5a",
+      "btih": "ae6fc2bb295b5f28d7cfa47f2bf18d66a4e62a1c",
+      "mtime": "1666164401",
+      "size": "245733",
+      "md5": "5348c1c0765dbe443ee85438770a2156",
+      "crc32": "1e458ac7",
+      "sha1": "cf6d5c0a3817b0ef8b595d7e335fcfaa71150a4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehill-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dfb397f997731ec48efe400c5a4d3dbd",
+      "md5": "57a312e11fbbf3d9762236c1b8499309",
       "summation": "md5"
     },
     {
       "name": "thehill-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665692144",
-      "size": "1376256",
-      "md5": "b06fdaf7ac755945e1771a56615568a8",
-      "crc32": "d674135a",
-      "sha1": "c9cb2de2c0f65e7a8af33470d5746441b5103580",
+      "mtime": "1666164351",
+      "size": "1462272",
+      "md5": "a56c94f2a7b78bf603b297e5115a39d3",
+      "crc32": "2a1f9b0d",
+      "sha1": "b6c060bbc48f69d47e25aeabb90b80e76d734983",
       "format": "Metadata"
     },
     {
@@ -11424,9 +12095,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1102,
-  "item_last_updated": 1665692235,
-  "item_size": 93765053,
+  "files_count": 1167,
+  "item_last_updated": 1666164401,
+  "item_size": 99157463,
   "metadata": {
     "identifier": "thehill-2022",
     "collection": [
@@ -11443,10 +12114,21 @@
     "publicdate": "2022-07-04 21:46:22",
     "addeddate": "2022-07-04 21:46:22"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 1954555966,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445399158,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 767733862,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1665676973,
+  "created": 1666191651,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/studyfindsorg-2022",
@@ -6196,31 +6196,764 @@
       "sha1": "73beec956d46947dcde8abb57a45307636d65d6c"
     },
     {
+      "name": "studyfindsorg-2022-10-13T23:49:58.754748-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665719407",
+      "size": "29581",
+      "md5": "c99431ba0648bdc7792c8e6b9e82eaf0",
+      "crc32": "977df406",
+      "sha1": "d8e7370f95ed3f253bc7de26a3dcfda446dc38ae",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-13T23:49:58.754748-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665719409",
+      "size": "33597",
+      "md5": "368a68b9c0f0ea98270faa334d0fd7c1",
+      "crc32": "61969d14",
+      "sha1": "ad0a8607c82618bd0b5875c365f6ca8ffb1b5983",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-13T23:49:58.754748-04:00.jpg",
+      "source": "original",
+      "mtime": "1665719404",
+      "size": "286233",
+      "md5": "f538bfc74e7a0f89d035a7631e645405",
+      "crc32": "90526a82",
+      "sha1": "a243ca2a73c3b807660a422c71450c5fd0e9616e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-13T23:49:58.754748-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665719411",
+      "size": "1459",
+      "md5": "be860f4df2507f085da117afb5bb0642",
+      "crc32": "af1be0eb",
+      "sha1": "08ca63c57ce3c8b885278718f25a93e7c1521ed2",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-13T23:49:58.754748-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665719415",
+      "size": "35182",
+      "md5": "d55f3b6f2fe7c76e844102ec9bbbb830",
+      "crc32": "26afa4df",
+      "sha1": "68228078418479f961ff2c29fcaf896826558c60",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-13T23:49:58.754748-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-13T23:49:58.754748-04:00.jpg",
+      "mtime": "1665719471",
+      "size": "10107",
+      "md5": "83fb5aef26f13046444f71609162e543",
+      "crc32": "ab5d4c7a",
+      "sha1": "09dd7cb8cf91ad0a50ba588a7896a471830a6b50"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T12:22:24.401649-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665764553",
+      "size": "29625",
+      "md5": "be2ddc9ea5df6fa65e76bf36ee0910cd",
+      "crc32": "bf408272",
+      "sha1": "c56784005481ea7e1fe7bd219bd00f0e089af58a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T12:22:24.401649-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665764555",
+      "size": "33572",
+      "md5": "b522676b3e13ebdb4606dc40e3fd13b1",
+      "crc32": "2267c4bb",
+      "sha1": "adf93693fda6401e43478478fefc9c3115cc6057",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T12:22:24.401649-04:00.jpg",
+      "source": "original",
+      "mtime": "1665764548",
+      "size": "281901",
+      "md5": "6a90191a7d5e7491d0fb42b03366ba72",
+      "crc32": "bbfa651f",
+      "sha1": "c0b2f0c6a8a49d0753cac23884a4d5a79c0b6c9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T12:22:24.401649-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665764559",
+      "size": "1459",
+      "md5": "113234e9d3adfb6c9d477f964b5eeeff",
+      "crc32": "6d648a4d",
+      "sha1": "426ae9520904b72160a4ca06690d3d4ed55202f5",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T12:22:24.401649-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665764562",
+      "size": "37315",
+      "md5": "ab93b122b034ce7549dd241dab6da677",
+      "crc32": "00270770",
+      "sha1": "a69758a778cc1e8eadfd133341f2f689da9658f8",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T12:22:24.401649-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-14T12:22:24.401649-04:00.jpg",
+      "mtime": "1665764620",
+      "size": "9978",
+      "md5": "7f4fa8eaea9f91294e07ecefbfa99004",
+      "crc32": "a0395309",
+      "sha1": "87ef4468609751c1f68722a7e0daf2dd94ccd0b0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T23:50:58.716345-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665805865",
+      "size": "29988",
+      "md5": "814b8629ac559c759ca49801d216d74f",
+      "crc32": "ddd37a34",
+      "sha1": "af2b9225a884f49e5f461f00e4e9bff300351c8d",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T23:50:58.716345-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665805866",
+      "size": "33670",
+      "md5": "0c60581432419660a39e8165d8b26542",
+      "crc32": "8c6751fd",
+      "sha1": "c42668ec649f7127055d8b747be72eacf2508ea7",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T23:50:58.716345-04:00.jpg",
+      "source": "original",
+      "mtime": "1665805863",
+      "size": "296212",
+      "md5": "1a9cc8192b4d32e9cb80cae78e881b12",
+      "crc32": "caa76f16",
+      "sha1": "ca4d37d0fdefa477e6a64e0dde27ba4ab76f12f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T23:50:58.716345-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665805868",
+      "size": "1459",
+      "md5": "cc4859aff81745b92774fab4b3d639f3",
+      "crc32": "fb86a692",
+      "sha1": "d6ab5d1b199e8aed4fd0c8290d4be83daf7ab5f4",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T23:50:58.716345-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665805870",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-14T23:50:58.716345-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-14T23:50:58.716345-04:00.jpg",
+      "mtime": "1665805941",
+      "size": "9900",
+      "md5": "5c70439a678e3e53bd0eb17997f8d7c7",
+      "crc32": "01fb2ac5",
+      "sha1": "11a60b405aa609ecd4ad964e765c900b0b170c1b"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T11:08:51.261247-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665846537",
+      "size": "29485",
+      "md5": "9f91f2d05512e535679bea887eebad2c",
+      "crc32": "3cc89327",
+      "sha1": "e26132b7c124fef70b602f4a29ea614b3d62df98",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T11:08:51.261247-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665846539",
+      "size": "33907",
+      "md5": "b8f4e95f566fa047cce8718ee5b59154",
+      "crc32": "bb6fed4f",
+      "sha1": "dada680da965f7bfbb265d0ee7d18a1224fab11d",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T11:08:51.261247-04:00.jpg",
+      "source": "original",
+      "mtime": "1665846535",
+      "size": "294058",
+      "md5": "5d68940e3a3133cbb0cac51232b016d1",
+      "crc32": "c521bd08",
+      "sha1": "b59e89d468d0ffc4b8a0c9d00b077fe2b6a85f46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T11:08:51.261247-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665846541",
+      "size": "1459",
+      "md5": "e689611ef9dd4a07f38074a809ab4d07",
+      "crc32": "41d8ad1f",
+      "sha1": "e14c56c42ae81e18e508f11dfcbd6f6b287feada",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T11:08:51.261247-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665846542",
+      "size": "34820",
+      "md5": "1ccf3594514be85bb59dbf7cbef2023f",
+      "crc32": "45d3e9ea",
+      "sha1": "120ba0dc312bcbda79e659cee26bff603437d36a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T11:08:51.261247-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-15T11:08:51.261247-04:00.jpg",
+      "mtime": "1665846604",
+      "size": "9988",
+      "md5": "b615a6d1f66d007a037bbf2249ea8a93",
+      "crc32": "479605a7",
+      "sha1": "a2d3382fc4ed4f1d59382844b503960d0a26e730"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T23:51:57.288318-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665892322",
+      "size": "29615",
+      "md5": "e7fc0a344358509509f2a990d63159f8",
+      "crc32": "5a283946",
+      "sha1": "f38335d4f82aa20c819d018804f4db520848e65a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T23:51:57.288318-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665892324",
+      "size": "33922",
+      "md5": "99fe7bd5788fded825adcf8d19524eda",
+      "crc32": "43649610",
+      "sha1": "5361051b639006a0f604dcd738eaff6b91abb8b3",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T23:51:57.288318-04:00.jpg",
+      "source": "original",
+      "mtime": "1665892320",
+      "size": "295284",
+      "md5": "a6be8d80e0c1d8d4b61a6ee3ab130cf9",
+      "crc32": "d64fd83a",
+      "sha1": "054d5d37835c5688b4ef81183f3fd9a9ff41ca5e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T23:51:57.288318-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665892325",
+      "size": "1459",
+      "md5": "66191487b7bfeb20b6a899718ea7f41f",
+      "crc32": "76d6eb0c",
+      "sha1": "a1e03b9bc0e166f3fecf6a341601dfdd993feb3e",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T23:51:57.288318-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665892327",
+      "size": "35654",
+      "md5": "9caa7ee0534e0f5003854e27883fddbe",
+      "crc32": "ebfbfa5c",
+      "sha1": "b718c350f0be043c2002523785f3fb9e16e1c4bd",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-15T23:51:57.288318-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-15T23:51:57.288318-04:00.jpg",
+      "mtime": "1665892378",
+      "size": "9998",
+      "md5": "e1b9ad5a59f83d6bfb3209bfe1af53d3",
+      "crc32": "e2d7d1d0",
+      "sha1": "3c8634d5eba13110cff6d5973b428252547117a6"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T11:02:24.478666-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665932551",
+      "size": "29615",
+      "md5": "e7fc0a344358509509f2a990d63159f8",
+      "crc32": "5a283946",
+      "sha1": "f38335d4f82aa20c819d018804f4db520848e65a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T11:02:24.478666-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665932553",
+      "size": "34040",
+      "md5": "611fe6437d225841caa287db2af9d516",
+      "crc32": "ad37eaa4",
+      "sha1": "ffc29ba095818a88878fd27729efee03484cd702",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T11:02:24.478666-04:00.jpg",
+      "source": "original",
+      "mtime": "1665932550",
+      "size": "295284",
+      "md5": "a6be8d80e0c1d8d4b61a6ee3ab130cf9",
+      "crc32": "d64fd83a",
+      "sha1": "054d5d37835c5688b4ef81183f3fd9a9ff41ca5e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T11:02:24.478666-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665932555",
+      "size": "1459",
+      "md5": "5794381666b34cb1378bc7a50cf35efd",
+      "crc32": "aaefc04c",
+      "sha1": "b5b6d37a4851ff9da951af59a91819b720b9304b",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T11:02:24.478666-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665932556",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T11:02:24.478666-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-16T11:02:24.478666-04:00.jpg",
+      "mtime": "1665932606",
+      "size": "9998",
+      "md5": "e1b9ad5a59f83d6bfb3209bfe1af53d3",
+      "crc32": "e2d7d1d0",
+      "sha1": "3c8634d5eba13110cff6d5973b428252547117a6"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T23:45:32.199321-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665978338",
+      "size": "29914",
+      "md5": "a679405630f8abae8699510d6f31bc0b",
+      "crc32": "7bc26f54",
+      "sha1": "07ae8e2b261e3431853f9fabc30922da9562f062",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T23:45:32.199321-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665978339",
+      "size": "34040",
+      "md5": "611fe6437d225841caa287db2af9d516",
+      "crc32": "ad37eaa4",
+      "sha1": "ffc29ba095818a88878fd27729efee03484cd702",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T23:45:32.199321-04:00.jpg",
+      "source": "original",
+      "mtime": "1665978336",
+      "size": "300775",
+      "md5": "dbeeaad7ec54a9a8172fe1ae70c60e2d",
+      "crc32": "20a25f85",
+      "sha1": "837f460e6be4d958a78d29980a3de472fb81ef8f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T23:45:32.199321-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665978341",
+      "size": "1459",
+      "md5": "f45912218b58e5abaa7d491450ef5401",
+      "crc32": "8b1ec0b5",
+      "sha1": "36a64cce802e5bda8c6d6b90fb6ba007d7f3ae3a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T23:45:32.199321-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1665978342",
+      "size": "36650",
+      "md5": "f09c79164309ecfea145abdbb5d28575",
+      "crc32": "00b82ae9",
+      "sha1": "e868d14a37efd4a6790faed4c9e2213a628db4e4",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-16T23:45:32.199321-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-16T23:45:32.199321-04:00.jpg",
+      "mtime": "1665978401",
+      "size": "9890",
+      "md5": "e0831441417b24e0868613638a3ad9b9",
+      "crc32": "dce98532",
+      "sha1": "ac08293e088c320cf0026b53a65bc47317901457"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T11:00:42.954729-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666018849",
+      "size": "29639",
+      "md5": "38cf4dc4448f513be76abc1035ccbb70",
+      "crc32": "ea830e80",
+      "sha1": "eb301cd34d31245b8a6d16ac8a9b8c6c47da056a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T11:00:42.954729-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666018851",
+      "size": "33939",
+      "md5": "b42ef193157a003ae2e4d22036548f80",
+      "crc32": "9af705eb",
+      "sha1": "d99c40a34a3aa3e7d39ffe33f3a867dc19355729",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T11:00:42.954729-04:00.jpg",
+      "source": "original",
+      "mtime": "1666018847",
+      "size": "304860",
+      "md5": "ec397b962ad5af2646de244e3a6dbf58",
+      "crc32": "67232e5e",
+      "sha1": "2d0a85726f49de6dd621e1aa5a4b0b39f5bbed78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T11:00:42.954729-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666018853",
+      "size": "1459",
+      "md5": "51b4f54f7ec30c943f81ee10ed3af0a5",
+      "crc32": "4231aae7",
+      "sha1": "2fe8cfd1774a5e09a3cbfd7e50fad5488f357610",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T11:00:42.954729-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666018856",
+      "size": "37874",
+      "md5": "70f54faa9128f6feeb30e8edea4c0671",
+      "crc32": "5904d7f8",
+      "sha1": "c13c4be1d6846eff6ae0f51ccd4192207d907ad2",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T11:00:42.954729-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-17T11:00:42.954729-04:00.jpg",
+      "mtime": "1666018929",
+      "size": "10342",
+      "md5": "421700374b23ec1409527188cb38777a",
+      "crc32": "5b989ea7",
+      "sha1": "c7ca642d78452565baa2a8e9e8990ca49f770ba3"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T23:38:23.748258-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666064310",
+      "size": "29880",
+      "md5": "78594001e50c4126b448dd2d9b25e390",
+      "crc32": "0cc34f76",
+      "sha1": "bc94006bf1290300a56621b569ea5523e21d8f32",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T23:38:23.748258-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666064314",
+      "size": "34061",
+      "md5": "62ac3e4c424a137f70a8f6e2ea62cc47",
+      "crc32": "c76d5806",
+      "sha1": "0a9b8c330796e298fdd1c74fea79a99d1856000a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T23:38:23.748258-04:00.jpg",
+      "source": "original",
+      "mtime": "1666064308",
+      "size": "260723",
+      "md5": "af001c2c5d35a3ca1d2a088fb4eec9dd",
+      "crc32": "b9fc70e7",
+      "sha1": "b59e1bf35a16a00390e139c2f0ba8c836c4a8445",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T23:38:23.748258-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666064316",
+      "size": "1459",
+      "md5": "81c6b826b92f62ac7c056aef5f6d9abd",
+      "crc32": "61014368",
+      "sha1": "86cadb256a675a7fb52bde0d9788bbe9a8be5b59",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T23:38:23.748258-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666064318",
+      "size": "34549",
+      "md5": "e2e06f7968dd3d27fe83ed27764552c4",
+      "crc32": "b753bd8a",
+      "sha1": "432ebf86ff86050f769c929f1acd24f0720ed7b8",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-17T23:38:23.748258-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-17T23:38:23.748258-04:00.jpg",
+      "mtime": "1666064376",
+      "size": "9744",
+      "md5": "9a1e4d5050650a3d75d8224e4ff18e49",
+      "crc32": "6aa76fc5",
+      "sha1": "0ba53c0599861f4f28b5a43286b6415134f30796"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T11:11:25.597283-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666105895",
+      "size": "29872",
+      "md5": "3c00d061e6578a46a5a4cc1052ae9146",
+      "crc32": "f30bf953",
+      "sha1": "bf39cce9619d07cd0b4c2eb6c172ed3b2a494847",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T11:11:25.597283-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666105896",
+      "size": "34041",
+      "md5": "5db4e2253dd553ed5219c3c245f79e86",
+      "crc32": "735d6ffb",
+      "sha1": "aaa3f7691743944d1435e6b2deca868e99cf2880",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T11:11:25.597283-04:00.jpg",
+      "source": "original",
+      "mtime": "1666105893",
+      "size": "282968",
+      "md5": "60c205a6b26f04dc55b7975859ff8990",
+      "crc32": "d3375695",
+      "sha1": "e47ada43f575c71202b7b66c4e18592ee69e374d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T11:11:25.597283-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666105898",
+      "size": "1459",
+      "md5": "0f78566eb822e9da72bcd06d1d872f61",
+      "crc32": "f7f06ba4",
+      "sha1": "4caa836b77bf159c3f3c75fe6cdb42f60ded6860",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T11:11:25.597283-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666105900",
+      "size": "35577",
+      "md5": "06376316ea332bd73fc466d008f9ad71",
+      "crc32": "8723849d",
+      "sha1": "2b0467978a14f6b7ffe412aaa309490fbb744b40",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T11:11:25.597283-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-18T11:11:25.597283-04:00.jpg",
+      "mtime": "1666105956",
+      "size": "9906",
+      "md5": "55992aff94c3718446618a8968dedba6",
+      "crc32": "2445cc9d",
+      "sha1": "555363fd11119d9839f6dc3cfd443e5a6cef1a93"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666150845",
+      "size": "29583",
+      "md5": "29dcee28250fbdd15df0309e6ab0055e",
+      "crc32": "98b2e2eb",
+      "sha1": "ea359c5d2e0b2e61a947ddbbd95d466502ed605d",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666150847",
+      "size": "33569",
+      "md5": "5aa63e9c3b46d73f42f8c56f69732234",
+      "crc32": "a60e7cb3",
+      "sha1": "b81eca1483ef5b82a01deb672944348a888a502a",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.jpg",
+      "source": "original",
+      "mtime": "1666150843",
+      "size": "279654",
+      "md5": "f662cb1a28ec513ac9ac04c6ca34d655",
+      "crc32": "fc199571",
+      "sha1": "52ec219a362086eb064f15e26ae3e34219dab9c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666150849",
+      "size": "1459",
+      "md5": "d47aa4e581e6d726aa6e41f34d538d60",
+      "crc32": "39a30115",
+      "sha1": "e07487b21d5525b0b50cf78c31552471b600c2e5",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666150851",
+      "size": "35258",
+      "md5": "d1e2fcc0419531a18a973dad051be865",
+      "crc32": "18bd9191",
+      "sha1": "636873f3d8d57df0b90903dbac730d2dc8d91dcd",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-18T23:40:37.083293-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-18T23:40:37.083293-04:00.jpg",
+      "mtime": "1666170296",
+      "size": "10178",
+      "md5": "a0dc4ef21886cdbd9bf8952c4ade71c7",
+      "crc32": "fe1b4805",
+      "sha1": "dbf6c951b6228649585beac001ce454e437ad222"
+    },
+    {
+      "name": "studyfindsorg-2022-10-19T10:59:49.949302-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666191596",
+      "size": "29792",
+      "md5": "a207a4bed07e6fee560f66473d71146c",
+      "crc32": "3d0009c5",
+      "sha1": "1995768d251ac624d7d879ac7870fc82d31ac05b",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-19T10:59:49.949302-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666191598",
+      "size": "33763",
+      "md5": "6af06888aedf7c3ac20b2212eb703299",
+      "crc32": "69c52d5a",
+      "sha1": "fcf9c657e124df73f409f5ed5c48d7645b181f1b",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-19T10:59:49.949302-04:00.jpg",
+      "source": "original",
+      "mtime": "1666191594",
+      "size": "264630",
+      "md5": "e870068fc91fd0830d5bfb5315b28ec6",
+      "crc32": "da819f15",
+      "sha1": "03bb9a3ca350883afe7fa21248370fc7a55d4400",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-19T10:59:49.949302-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666191599",
+      "size": "1458",
+      "md5": "3e68160269aeced7e41dee73266fa675",
+      "crc32": "86b22903",
+      "sha1": "cc8b9c6a5bbbbeb79b40f4e65911f9a53139ba9b",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-19T10:59:49.949302-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666191601",
+      "size": "35304",
+      "md5": "f2b12244fa9b45b8ac2e400c131d2095",
+      "crc32": "676dc037",
+      "sha1": "6501a859165bdbf68b829aaeced83cb3a25bd77a",
+      "format": "JSON"
+    },
+    {
       "name": "studyfindsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "be0c3f35280d2b84bc6805765936c4f6d3b21dc9",
-      "mtime": "1665673662",
-      "size": "130394",
-      "md5": "977838eae6ab7bb0c8b23b9af0e7539e",
-      "crc32": "77b5a2d9",
-      "sha1": "81df940d66deb6485b18944118f8cb33ada613ae",
+      "btih": "e8185c69706fc46503d95ca55308ccd490003ca7",
+      "mtime": "1666191648",
+      "size": "145688",
+      "md5": "3cf2b3f31e3600f6cb3b8098180e4a46",
+      "crc32": "40d0607a",
+      "sha1": "fdcb29e94274aa8427ce61dcd09dcd2349d0c1c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "studyfindsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4c8d01dbb922513e94904798bba851f",
+      "md5": "04f1940daf623c65d5764d17799cb315",
       "summation": "md5"
     },
     {
       "name": "studyfindsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665673589",
-      "size": "782336",
-      "md5": "b28a1873b4ea3c39415a500f2ac3c08c",
-      "crc32": "a1f09679",
-      "sha1": "22689acc26b22887c334a87b8320a5363eab6fcf",
+      "mtime": "1666191609",
+      "size": "872448",
+      "md5": "42ff0f435e1425f83c590a7512966b27",
+      "crc32": "9d94c3a6",
+      "sha1": "c09e18813e456fa9569b20f35e642c4bdd87521d",
       "format": "Metadata"
     },
     {
@@ -6234,9 +6967,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 603,
-  "item_last_updated": 1665673662,
-  "item_size": 39102312,
+  "files_count": 674,
+  "item_last_updated": 1666191648,
+  "item_size": 43899133,
   "metadata": {
     "identifier": "studyfindsorg-2022",
     "collection": [
@@ -6253,15 +6986,21 @@
     "publicdate": "2022-08-23 12:58:38",
     "addeddate": "2022-08-23 12:58:38"
   },
-  "server": "ia801401.us.archive.org",
-  "studyfindsorg-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1292142356,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3445714167,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 640202416,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

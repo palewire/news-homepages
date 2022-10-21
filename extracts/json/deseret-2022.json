@@ -1,5 +1,5 @@
 {
-  "created": 1665618772,
+  "created": 1666224657,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/27/items/deseret-2022",
@@ -7612,31 +7612,899 @@
       "sha1": "2943f43bd17dee70a7706dbfec63907d2dca52a2"
     },
     {
+      "name": "deseret-2022-10-13T05:50:04.167668-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665661809",
+      "size": "32274",
+      "md5": "b88df5fe153136d1c7a8373686585c41",
+      "crc32": "91edf7ea",
+      "sha1": "2e627c467e8c836d42317dc699b65a53e7802537",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-13T05:50:04.167668-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665661811",
+      "size": "49135",
+      "md5": "2f8167f0649b215976633477982eb035",
+      "crc32": "d6f11c57",
+      "sha1": "441bd998a987feba8ac94dd8a522adf4b602a3e8",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-13T05:50:04.167668-06:00.jpg",
+      "source": "original",
+      "mtime": "1665661808",
+      "size": "204646",
+      "md5": "77370c2fa260b05c6f6d64e1b1aa0d9f",
+      "crc32": "2210cc43",
+      "sha1": "42cf51587c897913487ac543ca8c85212183b252",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-13T05:50:04.167668-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665661813",
+      "size": "1468",
+      "md5": "04709e14d4328800276efa3f1fb75f0b",
+      "crc32": "4cd2455e",
+      "sha1": "77f3e4adba27b192758ceedf01b39b249db53c60",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-13T05:50:04.167668-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665661814",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-13T05:50:04.167668-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-13T05:50:04.167668-06:00.jpg",
+      "mtime": "1665661979",
+      "size": "9068",
+      "md5": "8b30fc199285013ebfdf79f9bef964db",
+      "crc32": "3256ecc6",
+      "sha1": "18d2074ea1a37a07f836b2fc391200ba04ffe930"
+    },
+    {
+      "name": "deseret-2022-10-13T17:59:17.445431-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665705563",
+      "size": "32564",
+      "md5": "9e13643585638686f09d90dc8f56dd73",
+      "crc32": "afb00894",
+      "sha1": "bb585dd8a7e03e66dcf973b0c866cb86f0f64cf3",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-13T17:59:17.445431-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665705565",
+      "size": "49463",
+      "md5": "a0d6ff460d480c5e31efbb794cb7a7f1",
+      "crc32": "941b7379",
+      "sha1": "02bc379cc8932f74c2cb1180e1f7fb74d14f6ab1",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-13T17:59:17.445431-06:00.jpg",
+      "source": "original",
+      "mtime": "1665705561",
+      "size": "245830",
+      "md5": "258edccc10354f1d1800ff0f5a82de2d",
+      "crc32": "1e5b8a6d",
+      "sha1": "235574a3b558890a3ae10a1ae66b99de7f72c21f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-13T17:59:17.445431-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665705567",
+      "size": "1467",
+      "md5": "66b5ea6f987499e1aaffe2f35edaea56",
+      "crc32": "8a98ce0c",
+      "sha1": "4a105068c84613abda9426f35bb563ec38a17011",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-13T17:59:17.445431-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665705568",
+      "size": "37210",
+      "md5": "54aa7eb036eece1c4d0865e18f42fff2",
+      "crc32": "25bce2f1",
+      "sha1": "dbe26f825aba0961bc44dfeb9dd601c31d55b55b",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-13T17:59:17.445431-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-13T17:59:17.445431-06:00.jpg",
+      "mtime": "1665705658",
+      "size": "9339",
+      "md5": "4e9666f7bc0a773829fc83cca8ef5d39",
+      "crc32": "9f6e5853",
+      "sha1": "ca54b327725c8ccefd6a253975cd2572fc71a836"
+    },
+    {
+      "name": "deseret-2022-10-14T06:01:13.962779-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665748880",
+      "size": "32450",
+      "md5": "e8c6dbf3e7135258e1dfe209ac3ac918",
+      "crc32": "083261b9",
+      "sha1": "2c2acc38bad9ca3e740c6a0ac4f94a4f3564b20d",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-14T06:01:13.962779-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665748882",
+      "size": "49343",
+      "md5": "909015ff249583e9c22cc6bce65170d1",
+      "crc32": "d83fc8f0",
+      "sha1": "4a4b20e92f7650e78721b5e6c03ef31fe9e7b7be",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-14T06:01:13.962779-06:00.jpg",
+      "source": "original",
+      "mtime": "1665748879",
+      "size": "244271",
+      "md5": "a5bb523aa5ceb4d704f5bcb9648da60c",
+      "crc32": "78fbd803",
+      "sha1": "325faeb7057ed0d261da9884000bfa78c1b7a75e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-14T06:01:13.962779-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665748883",
+      "size": "1468",
+      "md5": "ef58ca10cd63c84f7e54a500212fecf8",
+      "crc32": "96c82d4c",
+      "sha1": "8789d9345349b4002f32a7d8b72ccb7fe200b7fc",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-14T06:01:13.962779-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665748885",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-14T06:01:13.962779-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-14T06:01:13.962779-06:00.jpg",
+      "mtime": "1665749064",
+      "size": "10127",
+      "md5": "f0d34864c49c7d74d9a7b347777c963f",
+      "crc32": "e4ca2f37",
+      "sha1": "f559ce8098ea56a1ddc679455cc8515d8a9173eb"
+    },
+    {
+      "name": "deseret-2022-10-14T18:09:15.687732-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665792567",
+      "size": "32538",
+      "md5": "718ee4313626decaddf68f7bfd3096c3",
+      "crc32": "a171a2bd",
+      "sha1": "ca5153f13da87d50eb17272045f2c9a3eef42c9c",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-14T18:09:15.687732-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665792569",
+      "size": "48763",
+      "md5": "d0effc0862d3432de17e58de45c18171",
+      "crc32": "a607b58b",
+      "sha1": "0980c579765b2151ab1a2f46d90e8671451ce607",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-14T18:09:15.687732-06:00.jpg",
+      "source": "original",
+      "mtime": "1665792565",
+      "size": "253774",
+      "md5": "d1e4608e82904241a0d8b3cbe53aa371",
+      "crc32": "0087a020",
+      "sha1": "e16b6f9552446ffb5eb486f0b54c2544898d787a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-14T18:09:15.687732-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665792571",
+      "size": "1467",
+      "md5": "8b3e3c53995163d93234482cc868ebeb",
+      "crc32": "4cdad164",
+      "sha1": "bd3e70316bc6f61d2dfd0845e8e996bc3b3f2265",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-14T18:09:15.687732-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665792572",
+      "size": "35378",
+      "md5": "bb208ac0ac771ca366d7731973c6934c",
+      "crc32": "9c94fcbb",
+      "sha1": "229318c4a362d83f03753b870031d8d7d84e9cbd",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-14T18:09:15.687732-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-14T18:09:15.687732-06:00.jpg",
+      "mtime": "1665792635",
+      "size": "9702",
+      "md5": "9dd26fbba8ea10415cf03b88037a6ff8",
+      "crc32": "9d194b57",
+      "sha1": "cf207b32030f2b82ebee494a5869d7ccd8532cb8"
+    },
+    {
+      "name": "deseret-2022-10-15T05:58:45.595844-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665835138",
+      "size": "32257",
+      "md5": "7bb30e3d461178193fcc462d66774d7b",
+      "crc32": "35ba979c",
+      "sha1": "4a42bb2f2d707ba2ba8472061f6c52d2b6ee8d86",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-15T05:58:45.595844-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665835140",
+      "size": "48991",
+      "md5": "ecd4023ebc7f9a9c43d16b23033e71be",
+      "crc32": "ed9b149e",
+      "sha1": "8698f6960ada7740dc6acfec6a03c06b64d11fc0",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-15T05:58:45.595844-06:00.jpg",
+      "source": "original",
+      "mtime": "1665835136",
+      "size": "251548",
+      "md5": "4b76fa694b5b1e9606f066adbc9f1dd6",
+      "crc32": "42a97f06",
+      "sha1": "070aad5b65f2e0bfb7e7f71477803a5ea5d36a64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-15T05:58:45.595844-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665835142",
+      "size": "1467",
+      "md5": "e3a053b140f6528d2336438cd8c5aa14",
+      "crc32": "568f9ecc",
+      "sha1": "d7f04914b8a94fc180fe9f2080deec35394d4f7b",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-15T05:58:45.595844-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665835144",
+      "size": "40689",
+      "md5": "5e78aedf2ccace55a392aba0ff8332b2",
+      "crc32": "21fbb7b2",
+      "sha1": "854b74c3f847978fbd45014bf6841269c3b32672",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-15T05:58:45.595844-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-15T05:58:45.595844-06:00.jpg",
+      "mtime": "1665835964",
+      "size": "9302",
+      "md5": "c503168d9eb245318e0cf1c595638d4b",
+      "crc32": "6c1c936b",
+      "sha1": "2ea9addda049e4a425caf80d4b3c790f030ac412"
+    },
+    {
+      "name": "deseret-2022-10-15T18:06:56.056050-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665878827",
+      "size": "32353",
+      "md5": "d8e6d21064e756de0e2a3b2f9298d5aa",
+      "crc32": "ad69b96c",
+      "sha1": "d9cea749928b72a748c69b10ef778dc0952484b6",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-15T18:06:56.056050-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665878828",
+      "size": "49210",
+      "md5": "987ff8e98a46b38a88a8b09a8add7ce5",
+      "crc32": "56e13531",
+      "sha1": "9acd088ed5e1f0716462799515d82afc1edcc2d9",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-15T18:06:56.056050-06:00.jpg",
+      "source": "original",
+      "mtime": "1665878825",
+      "size": "249942",
+      "md5": "0b8be8d8420a67c089cf0aa3d57f35e6",
+      "crc32": "d0abf99d",
+      "sha1": "bdd31c69363dbb1014d9c7893f8d2f2b09962006",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-15T18:06:56.056050-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665878830",
+      "size": "1467",
+      "md5": "b4dcc814f4866eea545b56c2b73efd8c",
+      "crc32": "99a18fa1",
+      "sha1": "2321e40b3f25809febaf27eab0c93ac0af484c56",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-15T18:06:56.056050-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665878831",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-15T18:06:56.056050-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-15T18:06:56.056050-06:00.jpg",
+      "mtime": "1665878947",
+      "size": "9266",
+      "md5": "92b4833bfb0469379f49a0d05898041b",
+      "crc32": "9ed186bb",
+      "sha1": "46da4893a892e03ed271fbb8e141504c236720ba"
+    },
+    {
+      "name": "deseret-2022-10-16T05:53:55.638666-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665921245",
+      "size": "32215",
+      "md5": "59314950921b5fad7b835f82fd571fd5",
+      "crc32": "b93e9480",
+      "sha1": "daa389a4ee77755a1f8f2dc913a079400f73723d",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-16T05:53:55.638666-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665921247",
+      "size": "49336",
+      "md5": "00cd1221e8fe53bbeabf52c8f771ae5c",
+      "crc32": "0d8f3a32",
+      "sha1": "36c20b3cc960db111ddc19de306ff6fd7997332f",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-16T05:53:55.638666-06:00.jpg",
+      "source": "original",
+      "mtime": "1665921243",
+      "size": "281957",
+      "md5": "195a486d5c43abde207f5b49dd04376e",
+      "crc32": "e39cfd2b",
+      "sha1": "04a08a380c8259f4628300d4cefc62f13a38dd82",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-16T05:53:55.638666-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665921248",
+      "size": "1468",
+      "md5": "00fa440dd16abc8f82ad66a7e06d3804",
+      "crc32": "dca5aaf9",
+      "sha1": "c4b8454a92fd7c6d347afd974205f2d19e49ed86",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-16T05:53:55.638666-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665921250",
+      "size": "40284",
+      "md5": "b00b72e3881234645a28b2391a897a2a",
+      "crc32": "31026ec7",
+      "sha1": "ea95a5633d333941eeee7f0f369233d829de61df",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-16T05:53:55.638666-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-16T05:53:55.638666-06:00.jpg",
+      "mtime": "1665921309",
+      "size": "9525",
+      "md5": "620f57afeb910b3cb4d636d7f01f99c9",
+      "crc32": "5c4a9f26",
+      "sha1": "36a8128bf58cea35efc29d1d4e77b3810fdbc1f9"
+    },
+    {
+      "name": "deseret-2022-10-16T17:58:05.041508-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665964691",
+      "size": "32328",
+      "md5": "cd962e986ad280a63703145754b566c2",
+      "crc32": "772f0f78",
+      "sha1": "7eb7e4114d4a8a1d10b76eae53c2660a99f5b5bf",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-16T17:58:05.041508-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665964693",
+      "size": "49598",
+      "md5": "1b1c554a05befd5c10e85ca793c0b58c",
+      "crc32": "fc9a4ad0",
+      "sha1": "a49fec585f40c2794b9c7b7c0974070fe34317f3",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-16T17:58:05.041508-06:00.jpg",
+      "source": "original",
+      "mtime": "1665964690",
+      "size": "287969",
+      "md5": "4251bc531e020b1e88a1c13987a56ee6",
+      "crc32": "4e9b483f",
+      "sha1": "c7e71e8f871a6a27a667eb1a78773f0374dd4bed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-16T17:58:05.041508-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665964695",
+      "size": "1468",
+      "md5": "801155058a8d3455934b0fa67bd172c4",
+      "crc32": "27f7f6ae",
+      "sha1": "e479968f5c8612d3f931d6cb85f66cd67342ca1d",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-16T17:58:05.041508-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1665964696",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-16T17:58:05.041508-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-16T17:58:05.041508-06:00.jpg",
+      "mtime": "1665964755",
+      "size": "9569",
+      "md5": "23af4557f1b6d0ff6b2096e12e9d8f94",
+      "crc32": "e1a1b417",
+      "sha1": "48e612d9133a540f5a0ed3d668a3654933d2a24c"
+    },
+    {
+      "name": "deseret-2022-10-17T05:51:57.524540-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666007525",
+      "size": "32418",
+      "md5": "87779aa0b86084133c96dc90b12e57aa",
+      "crc32": "4b631a3c",
+      "sha1": "3acca03b156d2d9842766c01c2e3d006e2e15e24",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-17T05:51:57.524540-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666007527",
+      "size": "49787",
+      "md5": "232152c9dde7ff4a4b5d4e16cd4f6483",
+      "crc32": "ef8e6c60",
+      "sha1": "69dcab777d4ed38185410241499f132eb9758fcf",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-17T05:51:57.524540-06:00.jpg",
+      "source": "original",
+      "mtime": "1666007523",
+      "size": "237259",
+      "md5": "474d6eab460bcf54346d8a17798a1bb7",
+      "crc32": "333360d1",
+      "sha1": "15adc49e254a8b98f858e7b4525bbf7dc6bc6611",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-17T05:51:57.524540-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666007529",
+      "size": "1468",
+      "md5": "4f76c5b6bad2b4dad108234728a90fbd",
+      "crc32": "5def0575",
+      "sha1": "53a195c749d05f84e1a6ab465f7c58a297bf7cbf",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-17T05:51:57.524540-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666007531",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-17T05:51:57.524540-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-17T05:51:57.524540-06:00.jpg",
+      "mtime": "1666007652",
+      "size": "9418",
+      "md5": "4256e2f582f80cd36bb24b0a20edecaa",
+      "crc32": "fac22f5e",
+      "sha1": "2bb6562685373efc0ab419d2ec7b71e0ff232be1"
+    },
+    {
+      "name": "deseret-2022-10-17T17:51:48.599694-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666050714",
+      "size": "32449",
+      "md5": "c5a16e3ceff562741aeadee3fe8e6087",
+      "crc32": "188bebe4",
+      "sha1": "5ef94a252391e5212d682eb8f5b7e963381aa72a",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-17T17:51:48.599694-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666050715",
+      "size": "49659",
+      "md5": "ecb856f9331df4d4e4690ee38d86bd21",
+      "crc32": "063e0ac4",
+      "sha1": "8c41bc2ed3e92af523898a901c9dd6c4b1e54b76",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-17T17:51:48.599694-06:00.jpg",
+      "source": "original",
+      "mtime": "1666050713",
+      "size": "234179",
+      "md5": "d9ee02d24e6a99b96fe9763cb12a2942",
+      "crc32": "ba40761a",
+      "sha1": "f80647445fab07f60506be3208e3b03b3b05f9a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-17T17:51:48.599694-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666050717",
+      "size": "1467",
+      "md5": "1182e11899be3f6a53a0209650543b97",
+      "crc32": "8a9e5974",
+      "sha1": "d7b3801d40e761bc67ad790bdd297cf6f220c35f",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-17T17:51:48.599694-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666050718",
+      "size": "37197",
+      "md5": "ab8a5c1e692ece2995c4f7cf333d3acb",
+      "crc32": "4d0bc448",
+      "sha1": "43ec2af65532c108fc6c7d6e1d1bcae5ffddc19a",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-17T17:51:48.599694-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-17T17:51:48.599694-06:00.jpg",
+      "mtime": "1666050822",
+      "size": "9466",
+      "md5": "33149439c7f9fb7e3a23036c76fc8d77",
+      "crc32": "c3b575cb",
+      "sha1": "1cae6a0fc1c467b362c13011e589d04196cdc6ca"
+    },
+    {
+      "name": "deseret-2022-10-18T05:59:34.476752-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666094381",
+      "size": "33037",
+      "md5": "e89784c6ad576dde07508a03fa476895",
+      "crc32": "413c70d6",
+      "sha1": "2f350ae5cf80af635b1b8b49f7ed693804257831",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-18T05:59:34.476752-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666094383",
+      "size": "49762",
+      "md5": "55850b66dbd44afbd291683c66e232d4",
+      "crc32": "0cf4ffab",
+      "sha1": "d40023cbba2b796432bae36b53c556648e47a6dc",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-18T05:59:34.476752-06:00.jpg",
+      "source": "original",
+      "mtime": "1666094380",
+      "size": "228650",
+      "md5": "465c48ddfafc2a80fca11fb272d7c8c8",
+      "crc32": "4b13610d",
+      "sha1": "a550d86d61d6c84ad76dee02e6163e1495dd3770",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-18T05:59:34.476752-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666094384",
+      "size": "1468",
+      "md5": "8e38eea11ee9ba324226ac7c66ef844a",
+      "crc32": "cb7e7dfc",
+      "sha1": "fa6f97d32b01c3778841a18bc5c71e9d428ab7b0",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-18T05:59:34.476752-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666094386",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-18T05:59:34.476752-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-18T05:59:34.476752-06:00.jpg",
+      "mtime": "1666094463",
+      "size": "9209",
+      "md5": "cb7bc974f9b9855ec39376c38aaa27a4",
+      "crc32": "9102d3d7",
+      "sha1": "49d4b11ccc1cb8d76efea74732b21adbbd410d2a"
+    },
+    {
+      "name": "deseret-2022-10-18T18:21:21.274761-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666138901",
+      "size": "32192",
+      "md5": "ebbebf7d69e67761a27be43e738eb769",
+      "crc32": "cbd95aad",
+      "sha1": "ed957db077c1016b78bdea87a52881c588cdee0e",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-18T18:21:21.274761-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666138911",
+      "size": "49497",
+      "md5": "c3d2f56f6c9312dd874f17dda545b78f",
+      "crc32": "0dbb7980",
+      "sha1": "1cd86e3b70a940c898d52f5ac5eb4de3ef58de44",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-18T18:21:21.274761-06:00.jpg",
+      "source": "original",
+      "mtime": "1666138892",
+      "size": "277760",
+      "md5": "2278d8c4d2bcab961923d75a18447ad9",
+      "crc32": "3d30d346",
+      "sha1": "5b15a582476f0d1cbfff50f912bc7130c3c413c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-18T18:21:21.274761-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666138916",
+      "size": "1467",
+      "md5": "c58686620251c42b089e5899641f34fc",
+      "crc32": "ff7c6566",
+      "sha1": "a225f9d9b388f8679db2011a9e8f9a7be2c4a828",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-18T18:21:21.274761-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666138921",
+      "size": "100",
+      "md5": "bb735fd553bad24b2e1554fccc51080b",
+      "crc32": "64583959",
+      "sha1": "46b1867a21f6f5fe1b9b50940137ec7447e2c649",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-18T18:21:21.274761-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-18T18:21:21.274761-06:00.jpg",
+      "mtime": "1666162959",
+      "size": "9917",
+      "md5": "1f31c8948bd0f932e7ea3892399438d9",
+      "crc32": "0affdf0f",
+      "sha1": "4619a1541fadc422b663a98b46b84b30e27c7b96"
+    },
+    {
+      "name": "deseret-2022-10-19T06:00:58.036563-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666180861",
+      "size": "31825",
+      "md5": "5384535bcde9b6d59bb83d02a79f9b36",
+      "crc32": "5e455cd4",
+      "sha1": "bbc001b4fce41bb9c9afa015a05528406dfa5728",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-19T06:00:58.036563-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666180865",
+      "size": "49382",
+      "md5": "e96662762d8ee8f5488f99dd435e7fe2",
+      "crc32": "73af925e",
+      "sha1": "0adf91cdaeceb6d02d2b1cce22797426618f6e92",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-19T06:00:58.036563-06:00.jpg",
+      "source": "original",
+      "mtime": "1666180859",
+      "size": "280451",
+      "md5": "e136fb8aabdfaccb912e904393a3a1ec",
+      "crc32": "844ae8d9",
+      "sha1": "69ee2e6c5cccd318fe23db747af819e2deda6e58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-19T06:00:58.036563-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666180869",
+      "size": "1468",
+      "md5": "b688f7ef8a9fb4d5db0c5ac0e98df768",
+      "crc32": "35613edb",
+      "sha1": "7d0e27581e9c31c8289f0a7fd99f05711ae08dd2",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-19T06:00:58.036563-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666180870",
+      "size": "37322",
+      "md5": "8ba008ccf08bf48823e6d9e1bdc9245c",
+      "crc32": "4ec6ab2b",
+      "sha1": "8e2ba0c871cfc71539114a32301bd102305b0c73",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-19T06:00:58.036563-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-19T06:00:58.036563-06:00.jpg",
+      "mtime": "1666199046",
+      "size": "9708",
+      "md5": "86d2856816218dde7bffcaf4c4d7fd62",
+      "crc32": "ca26d106",
+      "sha1": "c6ad8021e8ce4d0b9f75c41b248212a8cae3b8f5"
+    },
+    {
+      "name": "deseret-2022-10-19T18:08:40.085663-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666224527",
+      "size": "32143",
+      "md5": "69fd8cd293c8018e5e5cb17b734363e3",
+      "crc32": "d5eadb0f",
+      "sha1": "8919dbcf297d8fb3446c88a7d8e166e3db859db5",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-19T18:08:40.085663-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666224529",
+      "size": "49146",
+      "md5": "eea0fab946cc7165c7424e3f7760f259",
+      "crc32": "67538f95",
+      "sha1": "3e3400d7e12b1e37a20b163e4e5fb2fee00b5940",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-19T18:08:40.085663-06:00.jpg",
+      "source": "original",
+      "mtime": "1666224526",
+      "size": "273536",
+      "md5": "b51fb9b2b8507725b046a7fbddbe5f92",
+      "crc32": "3e930855",
+      "sha1": "dab5d9e1fd4d4c32e74481e07249dbb0e0ddd8ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-19T18:08:40.085663-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666224531",
+      "size": "1467",
+      "md5": "45078c9707c6ee36737be25ec57133d3",
+      "crc32": "279e9bc8",
+      "sha1": "b381eb99ae359d8391cf9592415afa99a38813ea",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-19T18:08:40.085663-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666224533",
+      "size": "35713",
+      "md5": "83157cef751b7bee923a7fa6d79a8321",
+      "crc32": "73c99d3d",
+      "sha1": "f5e8ac19bb67e16989b7b1abffdbf3798001b999",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-19T18:08:40.085663-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deseret-2022-10-19T18:08:40.085663-06:00.jpg",
+      "mtime": "1666224612",
+      "size": "9306",
+      "md5": "555689bc38773138cc76dbcb85bd4b58",
+      "crc32": "36a233a4",
+      "sha1": "73af70828b40afde06983f9d3a5c6cd7896327ca"
+    },
+    {
       "name": "deseret-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c3b2dd5333a5423758bd966c545c00633c6335ac",
-      "mtime": "1665618760",
-      "size": "155418",
-      "md5": "55588d6d061003d5a48c69e255838f90",
-      "crc32": "0bb8450f",
-      "sha1": "01be02cf9d4a697d7f3412086eb821b31cb4694a",
+      "btih": "c91835c369b7e73500fcec3e861d1387cef75365",
+      "mtime": "1666224622",
+      "size": "172980",
+      "md5": "ef48dbee0c9471454fc8fa589d78bbe7",
+      "crc32": "799f00a0",
+      "sha1": "e544b2ce094856bcc0692d7715c6635973bc7008",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deseret-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e7bb9c66068336ad18cadb8e0015ec54",
+      "md5": "e9cf99c71a82e3f3d5b507ec63cb509d",
       "summation": "md5"
     },
     {
       "name": "deseret-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665618685",
-      "size": "946176",
-      "md5": "df7a55d40392313562e1226e6ac82ae5",
-      "crc32": "4d7051b5",
-      "sha1": "c5e1c1298190fc7ded3d5f0690b26fe05e671c83",
+      "mtime": "1666224542",
+      "size": "1056768",
+      "md5": "8c4551ac4a7463e27c7bd9a8929c4c40",
+      "crc32": "7e61d369",
+      "sha1": "4063e81514c407519d86a83fb3df1289d0076e61",
       "format": "Metadata"
     },
     {
@@ -7650,9 +8518,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 740,
-  "item_last_updated": 1665618760,
-  "item_size": 48870040,
+  "files_count": 824,
+  "item_last_updated": 1666224622,
+  "item_size": 54112653,
   "metadata": {
     "identifier": "deseret-2022",
     "collection": [
@@ -7669,10 +8537,10 @@
     "publicdate": "2022-08-13 23:54:11",
     "addeddate": "2022-08-13 23:54:11"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 210166669,
+  "server": "ia801507.us.archive.org",
+  "uniq": 292972903,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

@@ -1,5 +1,10 @@
 {
-  "created": 1665658098,
+  "arktimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1666224296,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/6/items/arktimes-2022",
@@ -3922,31 +3927,837 @@
       "sha1": "c3d56b5f8fef59a45b74bbdf4bd3345f2e73bbb7"
     },
     {
+      "name": "arktimes-2022-10-13T18:05:47.086572-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665702353",
+      "size": "32100",
+      "md5": "b4f5ecb373f2080a50ecdc23d5130a32",
+      "crc32": "5793dc41",
+      "sha1": "4dc3edb996c98e01c4409a1fa3f63f81fe7e8de7",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-13T18:05:47.086572-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665702354",
+      "size": "31895",
+      "md5": "ce255d12eee77d5d7a299c07418c07fa",
+      "crc32": "ca8829c3",
+      "sha1": "873529423e1c6f70aa398bbb08f500f9dc1734ca",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-13T18:05:47.086572-05:00.jpg",
+      "source": "original",
+      "mtime": "1665702351",
+      "size": "299857",
+      "md5": "5acac2a4ea00e863e2d0c860729bf296",
+      "crc32": "92e357a2",
+      "sha1": "67948ede389462505846c4f3790259d084b24f55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-13T18:05:47.086572-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665702356",
+      "size": "1438",
+      "md5": "195dc2b4218000cd2e1179f29cdf2452",
+      "crc32": "cdbb61d4",
+      "sha1": "ad0da71d14aad2cd57faf885418be009989a1f02",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-13T18:05:47.086572-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665702357",
+      "size": "36261",
+      "md5": "80528978fe694f3d9448fd106fd6491e",
+      "crc32": "5e90e571",
+      "sha1": "8408a37465984992ab16c3d4bb7b2dfe3a4c6e43",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-13T18:05:47.086572-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-13T18:05:47.086572-05:00.jpg",
+      "mtime": "1665702404",
+      "size": "10206",
+      "md5": "97a86d99e08fc36e9c6b49792b96f499",
+      "crc32": "f9716dad",
+      "sha1": "f063fcc093b7d326ad13f7de1c93883305744543"
+    },
+    {
+      "name": "arktimes-2022-10-14T05:56:23.700520-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665744990",
+      "size": "32076",
+      "md5": "4e39b17bf147fc856bfa6249e12dc9de",
+      "crc32": "722b6c9c",
+      "sha1": "8e9a26d41aa617bee233ec5750fe69f4289cf843",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-14T05:56:23.700520-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665744992",
+      "size": "31987",
+      "md5": "c3e8b3da959ade87c3e5cced681fbdc2",
+      "crc32": "2f0a1950",
+      "sha1": "830484aa91707d6ebc7dc4db522025746b7f01c6",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-14T05:56:23.700520-05:00.jpg",
+      "source": "original",
+      "mtime": "1665744988",
+      "size": "301591",
+      "md5": "eab7a217405aef74d7963b04bf46a3cc",
+      "crc32": "a399bc92",
+      "sha1": "7cfe42d1ce917cf4eaf154462c91de5d111987c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-14T05:56:23.700520-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665744998",
+      "size": "1436",
+      "md5": "6eeb6988d29c743ba368f98db4248e5f",
+      "crc32": "c4f7fad9",
+      "sha1": "70036e754ed2f121c44660f62b3101db74181fbe",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-14T05:56:23.700520-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665744999",
+      "size": "69555",
+      "md5": "071a99a2d08408a1a00ac15719d2d008",
+      "crc32": "013b0c98",
+      "sha1": "739fcaf1313a8cc3dc4ea8e59367c741a269c7c2",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-14T05:56:23.700520-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-14T05:56:23.700520-05:00.jpg",
+      "mtime": "1665745091",
+      "size": "10175",
+      "md5": "ec66b4115b60d680df002d032a5c40d4",
+      "crc32": "711a84d6",
+      "sha1": "937986239d2a95b80a47a04c7051cc304539ffa8"
+    },
+    {
+      "name": "arktimes-2022-10-14T18:05:19.562191-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665788726",
+      "size": "32551",
+      "md5": "7014699dad46594c86e9a0c8e1e36115",
+      "crc32": "12043fde",
+      "sha1": "81db675571038bd4d8b37a743c801a9a5a062266",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-14T18:05:19.562191-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665788728",
+      "size": "32305",
+      "md5": "d4b27aae1b46d316833377f5977ae0d6",
+      "crc32": "0e241b3d",
+      "sha1": "ca140c5eb6714448e677598f4b4be43caa66edea",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-14T18:05:19.562191-05:00.jpg",
+      "source": "original",
+      "mtime": "1665788724",
+      "size": "313760",
+      "md5": "31108106fc9d0eeb7abfa075b254a91f",
+      "crc32": "1d6439c9",
+      "sha1": "30cafda402dd2f3b58976df12aecd32093ab82be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-14T18:05:19.562191-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665788730",
+      "size": "1437",
+      "md5": "435dcd45a8b715b30bb3864d497a867d",
+      "crc32": "ee9cbf13",
+      "sha1": "a19322d4b774017380853311a460cae154af5972",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-14T18:05:19.562191-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665788732",
+      "size": "53531",
+      "md5": "085761622b452f577a080a6d70f6d9f1",
+      "crc32": "f12d9421",
+      "sha1": "ad9f27b835a30c2f083b3bc701fa53d93430ab7e",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-14T18:05:19.562191-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-14T18:05:19.562191-05:00.jpg",
+      "mtime": "1665788790",
+      "size": "10557",
+      "md5": "3163d477a8a5623525fc2c65b206c5a5",
+      "crc32": "71f7e653",
+      "sha1": "e4ee4196a59c3cd4b7bd34c64c05d660568a0deb"
+    },
+    {
+      "name": "arktimes-2022-10-15T05:54:19.390995-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665831271",
+      "size": "32423",
+      "md5": "52bf404650ea6160581f460aef1cb8ca",
+      "crc32": "f91a9ca0",
+      "sha1": "591daa1d34b30784c66fe50568604e2ddd6ef4d8",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-15T05:54:19.390995-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665831273",
+      "size": "32159",
+      "md5": "c55e6886bbb5f3dd19df9dcb052fb4d0",
+      "crc32": "e809d8bf",
+      "sha1": "cbc6befb931155ba2e41fbcd186ce16657a43c02",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-15T05:54:19.390995-05:00.jpg",
+      "source": "original",
+      "mtime": "1665831269",
+      "size": "319468",
+      "md5": "59f428f130f78460d4d2ccc2044049ed",
+      "crc32": "dbc90678",
+      "sha1": "98b3185e1075900aa60fb8de20bf8106393e8b1c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-15T05:54:19.390995-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665831275",
+      "size": "1436",
+      "md5": "da62f2b02d11b77ac4dba92e0474dae1",
+      "crc32": "abe5c341",
+      "sha1": "b9c1d16ab8a9ec6ffdfa6734160d71877d9078cb",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-15T05:54:19.390995-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665831276",
+      "size": "201",
+      "md5": "bf7cf32ea6c13566681ccac68cbc51a3",
+      "crc32": "aca37593",
+      "sha1": "1e6aa8bd04a6ae805f43fa5576bf185ec450a049",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-15T05:54:19.390995-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-15T05:54:19.390995-05:00.jpg",
+      "mtime": "1665831338",
+      "size": "10564",
+      "md5": "50a677916ab2444940367ebce634704f",
+      "crc32": "0c3f9c09",
+      "sha1": "db63beef8c2cce78fb42bea72e641ed0ed3f5a55"
+    },
+    {
+      "name": "arktimes-2022-10-15T18:04:34.732505-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665875080",
+      "size": "32049",
+      "md5": "fe5ea25e3a5fd33ceae58307f5b27f3a",
+      "crc32": "5e8fbca5",
+      "sha1": "d7d6f893e207b2087d5edf7a23dacc3b9fdd09e8",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-15T18:04:34.732505-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665875082",
+      "size": "31629",
+      "md5": "83befe16f5362d99fa97c2a44d063167",
+      "crc32": "85285a53",
+      "sha1": "b3d41a566002b50d2436d7354977a059af2ea5bb",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-15T18:04:34.732505-05:00.jpg",
+      "source": "original",
+      "mtime": "1665875078",
+      "size": "319949",
+      "md5": "98bd07fa4c8427a1fa2ff46df7668ae6",
+      "crc32": "952792d1",
+      "sha1": "54af1363dc7c89afde9ef3cf79248aaf5cd66f0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-15T18:04:34.732505-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665875083",
+      "size": "1437",
+      "md5": "006c509692cb80679450fc76b5683981",
+      "crc32": "7065a027",
+      "sha1": "a6a6b0fc46c9824532441cc72fc8c7db08bf1e1d",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-15T18:04:34.732505-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665875085",
+      "size": "41963",
+      "md5": "ac4bff56ee3c605d76e3e9a3f63dbdb4",
+      "crc32": "d74b93e3",
+      "sha1": "d10b52166834faf9c98dcbdaca9d1fd391a17905",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-15T18:04:34.732505-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-15T18:04:34.732505-05:00.jpg",
+      "mtime": "1665875138",
+      "size": "10560",
+      "md5": "8885c79029a06c86cb416d52ec5593d3",
+      "crc32": "a0cd35c0",
+      "sha1": "794a9d8dc21d290b33720c8d75581bbdee1e4a6e"
+    },
+    {
+      "name": "arktimes-2022-10-16T05:53:47.941490-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665917632",
+      "size": "31477",
+      "md5": "33fa8c3b81512864dd11370f6da607f8",
+      "crc32": "825f2ea0",
+      "sha1": "12e78e33e5ecb9e0f552e7b22c90a03a987f2414",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-16T05:53:47.941490-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665917634",
+      "size": "31181",
+      "md5": "d7d05032e0dc86ed2bbf7618b7ef4517",
+      "crc32": "16fa4da9",
+      "sha1": "319b4b24fcd19bc3a9c6eed7b4af55df657a641e",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-16T05:53:47.941490-05:00.jpg",
+      "source": "original",
+      "mtime": "1665917630",
+      "size": "308098",
+      "md5": "c830ad87dc4ecac95d22c16c0b7a7c43",
+      "crc32": "272d2e0b",
+      "sha1": "fb7c26fa21831fb45c3292c728036d1708186cae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-16T05:53:47.941490-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665917635",
+      "size": "1437",
+      "md5": "b99066861a8cb01a20262940fa326f72",
+      "crc32": "65fc4962",
+      "sha1": "183e655ca02eccd2ab3d5d254a87a066d66e9ef9",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-16T05:53:47.941490-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665917637",
+      "size": "45993",
+      "md5": "c3d234188a22e6a17f4a3cc94309e3bb",
+      "crc32": "bf259659",
+      "sha1": "686497ae45a532f7c143697c8fc3e34b13ef91c4",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-16T05:53:47.941490-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-16T05:53:47.941490-05:00.jpg",
+      "mtime": "1665917683",
+      "size": "10448",
+      "md5": "4c1e93189b3a7a4710fa647ec9bc33f5",
+      "crc32": "1997bf32",
+      "sha1": "3aaf6d4b4329a751a63a5f03dca2ebdc30bd84a4"
+    },
+    {
+      "name": "arktimes-2022-10-16T18:00:02.791070-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665961209",
+      "size": "31659",
+      "md5": "009437f0756873780bbdc4c31dde4351",
+      "crc32": "39c03c0e",
+      "sha1": "53955374f6201eabc0a92873eb883f8f1d5a5887",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-16T18:00:02.791070-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665961210",
+      "size": "31351",
+      "md5": "18f293187218ab1e7fc34cd8fd7f0712",
+      "crc32": "e0c0af1b",
+      "sha1": "eb224617b77df772b84930e2da3c77dd2be5a697",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-16T18:00:02.791070-05:00.jpg",
+      "source": "original",
+      "mtime": "1665961207",
+      "size": "314077",
+      "md5": "47a70baa0d35b9b3ce35f9da8e182014",
+      "crc32": "5edc2b83",
+      "sha1": "2ec6015d8284a7143f10c0b67e690430c37a4ab0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-16T18:00:02.791070-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665961212",
+      "size": "1436",
+      "md5": "576ac42d3fc290f4468fd99e82027b94",
+      "crc32": "4a41483a",
+      "sha1": "016216f93c1117b72fdf650524a242e56665f157",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-16T18:00:02.791070-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1665961213",
+      "size": "40770",
+      "md5": "f65b871838c3745f5b1134faa37a6fcd",
+      "crc32": "91601f83",
+      "sha1": "d7a2c57e4be98af2cbef4d7a096e9843a3937894",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-16T18:00:02.791070-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-16T18:00:02.791070-05:00.jpg",
+      "mtime": "1665961268",
+      "size": "10547",
+      "md5": "7e69271d2b437e1d7405ca8aaef997cb",
+      "crc32": "140f13fa",
+      "sha1": "f375637ccd491aec4285fa49f2facab7b278d3b8"
+    },
+    {
+      "name": "arktimes-2022-10-17T05:50:01.450740-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666003806",
+      "size": "31493",
+      "md5": "5f44b90777f084f96a080798141f80ec",
+      "crc32": "de68aab7",
+      "sha1": "6bb933cb85b819084f79b41e8212a98171da60c9",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-17T05:50:01.450740-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666003808",
+      "size": "31221",
+      "md5": "d7bd7c49b4380043f8ec8c1ca2fcb55e",
+      "crc32": "76b94fd6",
+      "sha1": "48cbe195cc00e3570445669ce9e9443a526acb8e",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-17T05:50:01.450740-05:00.jpg",
+      "source": "original",
+      "mtime": "1666003804",
+      "size": "312416",
+      "md5": "c8c34e291ee8a0bff80f5fad11ec2417",
+      "crc32": "d121ec7f",
+      "sha1": "c6f9069cabbbad8dd3907a5a63205745e4f6730a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-17T05:50:01.450740-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666003810",
+      "size": "1437",
+      "md5": "d0c2c3e2bf81ed95a9c55d6ddd191cf7",
+      "crc32": "65200793",
+      "sha1": "3b78ba426635b9a7be898208d93b923b935baba0",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-17T05:50:01.450740-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666003812",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-17T05:50:01.450740-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-17T05:50:01.450740-05:00.jpg",
+      "mtime": "1666003954",
+      "size": "10524",
+      "md5": "c188032c011096fe4a7958d696fa8a05",
+      "crc32": "c835de4e",
+      "sha1": "413a08f747b35ffd49837fc1e42f4b6d18f55fff"
+    },
+    {
+      "name": "arktimes-2022-10-17T17:54:33.936159-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666047279",
+      "size": "32117",
+      "md5": "96f0ac4a395d40dcd65e78ea2f6b77d8",
+      "crc32": "9890ddb0",
+      "sha1": "71910dc16245120b0687452b0ea0c43dc9a52fa7",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-17T17:54:33.936159-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666047281",
+      "size": "31903",
+      "md5": "575354c658ac83e9d4784decf769d508",
+      "crc32": "c760a9cd",
+      "sha1": "d2342662444266801cd9f55f12c2a760bf045c4c",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-17T17:54:33.936159-05:00.jpg",
+      "source": "original",
+      "mtime": "1666047277",
+      "size": "313651",
+      "md5": "ca1d16c86fad493912d31244a4245962",
+      "crc32": "a9d8a92f",
+      "sha1": "96b8576a5a1f32a83ad34457c9ae31629f2ac259",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-17T17:54:33.936159-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666047283",
+      "size": "1437",
+      "md5": "90c92ed51fc235dcb0772a864fe93938",
+      "crc32": "c1389ffd",
+      "sha1": "5260f4644a3eefaee044051d920e61c4ac33deff",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-17T17:54:33.936159-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666047285",
+      "size": "62851",
+      "md5": "0687601c3b544642903b35b6947f9bf0",
+      "crc32": "456a97f4",
+      "sha1": "8b60101e3743cb10259650ae2ef4cfd2a4e32715",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-17T17:54:33.936159-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-17T17:54:33.936159-05:00.jpg",
+      "mtime": "1666047339",
+      "size": "10492",
+      "md5": "bcc7f28abf273bb17d2ff26834b4c14a",
+      "crc32": "a4313523",
+      "sha1": "8c07241ee20e020b3c40dde7d4594875a838561b"
+    },
+    {
+      "name": "arktimes-2022-10-18T05:54:42.843657-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666090491",
+      "size": "32566",
+      "md5": "8c3bc44eb246aae48b4711d6306e8729",
+      "crc32": "2d67ddbb",
+      "sha1": "7054a8aa9e0fc47126421932bf3e443b4f4b0343",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-18T05:54:42.843657-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666090493",
+      "size": "32137",
+      "md5": "d0526edd626ba002600cff50f061e1e2",
+      "crc32": "a151c96e",
+      "sha1": "743cb8e845571a7fff3b91ae06439617443149fd",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-18T05:54:42.843657-05:00.jpg",
+      "source": "original",
+      "mtime": "1666090489",
+      "size": "308550",
+      "md5": "43a835258f803de601ba6f3a04a52766",
+      "crc32": "c0ac8d67",
+      "sha1": "f8196c3194c16efeff76c6334c61dc8864301ba8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-18T05:54:42.843657-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666090494",
+      "size": "1437",
+      "md5": "0efb0f7d3d6f4d9aa08108ef603b7b30",
+      "crc32": "8157d14c",
+      "sha1": "35b543bcd1b4a683e2b94ca720d1ed685b7c7328",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-18T05:54:42.843657-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666090496",
+      "size": "68906",
+      "md5": "d3650a157da99ebad34d46985c15d00b",
+      "crc32": "1f2ea673",
+      "sha1": "1758d313299790a351b5b8399373128e4732f061",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-18T05:54:42.843657-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-18T05:54:42.843657-05:00.jpg",
+      "mtime": "1666090658",
+      "size": "10318",
+      "md5": "c1f4e8b89bc5cb80a8dcd82ee13c6fa3",
+      "crc32": "64c3e8c4",
+      "sha1": "28760e2c2742e2d9b95f780b3c603b30fb9f7d07"
+    },
+    {
+      "name": "arktimes-2022-10-18T18:10:19.313476-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666134630",
+      "size": "32516",
+      "md5": "5ca43f305a58f68abde69073188062b7",
+      "crc32": "b5adc081",
+      "sha1": "6c66a0142a76081eb15b6d420e2cc4383e859bf8",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-18T18:10:19.313476-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666134632",
+      "size": "31956",
+      "md5": "611bb6ff61a59361890fd6feaffa3fa5",
+      "crc32": "4f59f9d2",
+      "sha1": "022018e41f5404dbc4443b3f39990f6d09be70c5",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-18T18:10:19.313476-05:00.jpg",
+      "source": "original",
+      "mtime": "1666134628",
+      "size": "313157",
+      "md5": "4901961850926972dca14d5575d7a1bf",
+      "crc32": "c42d2e7c",
+      "sha1": "8194bca42e69d4a34337bdee3cd8a4ca61d3b6d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-18T18:10:19.313476-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666134633",
+      "size": "1436",
+      "md5": "87aa949ef89a304afc2dbdbf2f83ebca",
+      "crc32": "d28f5d8b",
+      "sha1": "73be9a402257c093ae44ef8768ebb5fd4715afcf",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-18T18:10:19.313476-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666134635",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-18T18:10:19.313476-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-18T18:10:19.313476-05:00.jpg",
+      "mtime": "1666160109",
+      "size": "10128",
+      "md5": "9fcdc744519f10bbf074782de93cec61",
+      "crc32": "bac4e66c",
+      "sha1": "aab38e42fafe78d5044aff846065122f444423d3"
+    },
+    {
+      "name": "arktimes-2022-10-19T05:54:41.094317-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666176885",
+      "size": "32761",
+      "md5": "53ac62bfa1deeb165a467a11e3f02b57",
+      "crc32": "c87849f2",
+      "sha1": "85591ea67bf36e981438b01143c3528ca8a798e9",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-19T05:54:41.094317-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666176886",
+      "size": "32409",
+      "md5": "ec06091c4c299203889fa9acf1b6c1b5",
+      "crc32": "7c1bb1e1",
+      "sha1": "c17a4821547d5f34ab3c20c906e4d53d54c0f6dc",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-19T05:54:41.094317-05:00.jpg",
+      "source": "original",
+      "mtime": "1666176882",
+      "size": "332350",
+      "md5": "59229e3378a908b3eb3e500b0a42c5bf",
+      "crc32": "e27f8ac8",
+      "sha1": "83338c62802f14f693858086956914255872ad5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-19T05:54:41.094317-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666176887",
+      "size": "1438",
+      "md5": "becdd328515614b264b06d0faeb1e5ea",
+      "crc32": "9dc49e36",
+      "sha1": "e6ab7282ffd5acdc0bc8de72a042823f68ff8ec8",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-19T05:54:41.094317-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666176889",
+      "size": "54228",
+      "md5": "236274a3688c868d1829629371ec21d8",
+      "crc32": "897732bf",
+      "sha1": "c162ea907abcbba24972e1671b12e645ef46fb5c",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-19T05:54:41.094317-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-19T05:54:41.094317-05:00.jpg",
+      "mtime": "1666196514",
+      "size": "10375",
+      "md5": "9d1d2c5ea2f5335c553ec28189795b1b",
+      "crc32": "8cbb19e4",
+      "sha1": "13438a7deb1ea68ece1d4124ffe0f5642ee98d94"
+    },
+    {
+      "name": "arktimes-2022-10-19T18:06:53.757018-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666220819",
+      "size": "32144",
+      "md5": "09feadc57de23e94cdc027863344b9d4",
+      "crc32": "ce769ae0",
+      "sha1": "484ee0ae417787fe812aaf9a63d642b53802e084",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-19T18:06:53.757018-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666220820",
+      "size": "31663",
+      "md5": "80a843cad6ffcd1617e8353f8ad680a7",
+      "crc32": "d566b5e0",
+      "sha1": "be3cc4f9e24c33e5efa16ca1c28a1b0e8af47166",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-19T18:06:53.757018-05:00.jpg",
+      "source": "original",
+      "mtime": "1666220817",
+      "size": "278871",
+      "md5": "4fd2e0aa3e4960d4bd8ae264f7036a56",
+      "crc32": "1561a6a5",
+      "sha1": "396765628f144aeea395e956b77af21e72c76dba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arktimes-2022-10-19T18:06:53.757018-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666220822",
+      "size": "1438",
+      "md5": "6b17bed207c01478bcfc1c48b3351828",
+      "crc32": "f82ee0ad",
+      "sha1": "b51b44d38bc5463bfef7f57a33ff607bc0104062",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-19T18:06:53.757018-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666220828",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "arktimes-2022-10-19T18:06:53.757018-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arktimes-2022-10-19T18:06:53.757018-05:00.jpg",
+      "mtime": "1666220908",
+      "size": "9811",
+      "md5": "2f2bda74ef7703986955f557993a81a7",
+      "crc32": "87c02e8c",
+      "sha1": "6655dc9da5bd79cbecbff445bb0329af14882f0a"
+    },
+    {
       "name": "arktimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "623abbbc01719a1cd2e050f4e0d05d72f6f78a56",
-      "mtime": "1665658088",
-      "size": "81212",
-      "md5": "db466522ca96532d83f8168b80701c4b",
-      "crc32": "20a31c53",
-      "sha1": "57c9221cca0067b7e7c240705a182cc00ba5c329",
+      "btih": "d30d1d49e53ef2ebfdbaeb1eb388f047b24de063",
+      "mtime": "1666220912",
+      "size": "97647",
+      "md5": "fa6be896336beb29301d50eef1b38f56",
+      "crc32": "6f2c3712",
+      "sha1": "e5888f0b717e3e72bf147ff04788c35b90cf1623",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arktimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a7543d461756ec31df3deae129aaab0",
+      "md5": "6ab9f46b6f6f44ca2ea48b073be44793",
       "summation": "md5"
     },
     {
       "name": "arktimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665658022",
-      "size": "495616",
-      "md5": "67d693319af5e6492a11a207189322f5",
-      "crc32": "fab12a26",
-      "sha1": "6fad5d39b9f1b9cd8c127bf1045636d3274bcd0c",
+      "mtime": "1666220829",
+      "size": "602112",
+      "md5": "8da219ab7965f2d64357b6acb6bc3abe",
+      "crc32": "34602fa3",
+      "sha1": "2812fe0e74a43f0b98fc586f7ff9c5d0cee0d8fc",
       "format": "Metadata"
     },
     {
@@ -3960,9 +4771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 383,
-  "item_last_updated": 1665658088,
-  "item_size": 27230533,
+  "files_count": 461,
+  "item_last_updated": 1666220912,
+  "item_size": 32849237,
   "metadata": {
     "identifier": "arktimes-2022",
     "collection": [
@@ -3979,10 +4790,10 @@
     "publicdate": "2022-09-12 11:05:46",
     "addeddate": "2022-09-12 11:05:46"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 86778893,
+  "server": "ia601401.us.archive.org",
+  "uniq": 623478087,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }
