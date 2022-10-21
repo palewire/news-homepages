@@ -576,13 +576,12 @@ def _get_common_blocking_javascript() -> str:
         ".Campaign",
     ]
     target_str = ",".join(target_list)
-    javascript = f"""
+    return f"""
         document.querySelectorAll('{target_str}').forEach(el => el.remove());
         var styleSheet = document.createElement('style');
         styleSheet.innerText = '{target_str} {{ display: none !important; }}';
         document.head.appendChild(styleSheet);
      """
-    return javascript
 
 
 def _load_new_page_disable_javascript(
