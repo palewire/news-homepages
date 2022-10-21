@@ -1,5 +1,5 @@
 {
-  "created": 1666332275,
+  "created": 1666358553,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/lancenet-2022",
@@ -13772,31 +13772,93 @@
       "sha1": "88772cd0d531b96b55b6a8d8919673121cee8f64"
     },
     {
+      "name": "lancenet-2022-10-21T09:25:48.745140-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666355159",
+      "size": "10781",
+      "md5": "25a5e5c3aabf8ac10237f649a785524f",
+      "crc32": "d0f237fa",
+      "sha1": "56cd1d4696c73a0fe81f0212f4895ad442f86cc1",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-10-21T09:25:48.745140-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666355161",
+      "size": "21923",
+      "md5": "17981c949b52f9d982df74af6e3f3951",
+      "crc32": "53305110",
+      "sha1": "aa810892e3d8c28e7259a09016e4b52117d2c858",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-10-21T09:25:48.745140-03:00.jpg",
+      "source": "original",
+      "mtime": "1666355157",
+      "size": "299618",
+      "md5": "cd65214c62089a397f956cb89250bf24",
+      "crc32": "703f6b71",
+      "sha1": "30967d9ea9a2865e21f69968af01c2a99114acd4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lancenet-2022-10-21T09:25:48.745140-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666355164",
+      "size": "1459",
+      "md5": "b042cf86451208829f48ebee71053c6a",
+      "crc32": "6f27707a",
+      "sha1": "aa2dbeec535261de9ece09dc16fe5aecb8615eb8",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-10-21T09:25:48.745140-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666355166",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lancenet-2022-10-21T09:25:48.745140-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lancenet-2022-10-21T09:25:48.745140-03:00.jpg",
+      "mtime": "1666355322",
+      "size": "10597",
+      "md5": "5aab18404a3838ac271bba58d5214af5",
+      "crc32": "4456450c",
+      "sha1": "86f3f27ca9c7150b73da620ca3a780f214926d43"
+    },
+    {
       "name": "lancenet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "433409a2bd9df5669a36164cea47acfa2541e4c1",
-      "mtime": "1666332254",
-      "size": "281742",
-      "md5": "7a897893cb7e345e1f03012b6c3b588e",
-      "crc32": "b429ece0",
-      "sha1": "024bde3862150ce31b00e2b62c8bb2a5b84e81bc",
+      "btih": "b029319791c7380aec58f5412b79c6032c837ef8",
+      "mtime": "1666355385",
+      "size": "283008",
+      "md5": "8dde87c8506f7ed8087fdc1db0f58eed",
+      "crc32": "ff10542c",
+      "sha1": "fb9e1cc3045f799a8da39fe33dedbeb1551f7af9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lancenet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8bd40b0202afb000844b5af5655b7691",
+      "md5": "61490ec0b225de67342bbf4786f269ec",
       "summation": "md5"
     },
     {
       "name": "lancenet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666332137",
-      "size": "1699840",
-      "md5": "8c011e6dd99f96c15d26b6a685797106",
-      "crc32": "6cf0adaa",
-      "sha1": "9f399277896a50e51a3baa91a0ae186e734c878b",
+      "mtime": "1666355173",
+      "size": "1703936",
+      "md5": "16159f4914efcbda315e9b9cfb927a36",
+      "crc32": "8b398ac9",
+      "sha1": "610c6c4387885788d4cd08ac654bd90768b54108",
       "format": "Metadata"
     },
     {
@@ -13810,9 +13872,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1336,
-  "item_last_updated": 1666332254,
-  "item_size": 89089660,
+  "files_count": 1342,
+  "item_last_updated": 1666355385,
+  "item_size": 89439602,
+  "lancenet-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lancenet-2022",
     "collection": [
@@ -13829,10 +13896,10 @@
     "publicdate": "2022-08-04 04:55:32",
     "addeddate": "2022-08-04 04:55:32"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 270327536,
+  "server": "ia801505.us.archive.org",
+  "uniq": 774724746,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }
