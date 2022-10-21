@@ -49,10 +49,10 @@ runs:
         name: screenshots
         path: ./latest-screenshots
 
-    - uses: actions/download-artifact@v3
-      with:
-        name: archive
-        path: ./newshomepages/sources/latest/
+    # - uses: actions/download-artifact@v3
+    #   with:
+    #     name: archive
+    #     path: ./newshomepages/sources/latest/
 
     - uses: shallwefootball/s3-upload-action@master
       with:
@@ -72,18 +72,18 @@ runs:
     #     git push
     #   shell: bash
 
-    - id: git-commit-archive
-      name: Commit latest archive.org urls
-      run: |
-        git stash
-        git pull origin $GITHUB_REF
-        git stash apply
-        git add ./newshomepages/sources/latest
-        git commit -m "Latest archive.org urls" --author="palewire <palewire@users.noreply.github.com>"
-        git pull origin $GITHUB_REF
-        git pull origin $GITHUB_REF
-        git push
-      shell: bash
+    # - id: git-commit-archive
+    #   name: Commit latest archive.org urls
+    #   run: |
+    #     git stash
+    #     git pull origin $GITHUB_REF
+    #     git stash apply
+    #     git add ./newshomepages/sources/latest
+    #     git commit -m "Latest archive.org urls" --author="palewire <palewire@users.noreply.github.com>"
+    #     git pull origin $GITHUB_REF
+    #     git pull origin $GITHUB_REF
+    #     git push
+    #   shell: bash
 
     - id: download-items
       name: Download archive.org items
