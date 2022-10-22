@@ -1,5 +1,5 @@
 {
-  "created": 1666401138,
+  "created": 1666443474,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/8/items/king5seattle-2022",
@@ -12656,31 +12656,93 @@
       "sha1": "50740b1dda12c6c0adf2b377a56e263b5a6523a4"
     },
     {
+      "name": "king5seattle-2022-10-22T05:55:39.543423-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666443342",
+      "size": "6287",
+      "md5": "fd8628c14ae7c0568039e2985e589950",
+      "crc32": "98204bcc",
+      "sha1": "4a218b2ad9b1adc2a1b7a2e8b1b5d69da2a6da97",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-10-22T05:55:39.543423-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666443343",
+      "size": "74901",
+      "md5": "f8b2cefd0ba3951bf45b4857ea3a4d05",
+      "crc32": "e079fcca",
+      "sha1": "a18544d615b6d1544196f589c14ba61474da893d",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-10-22T05:55:39.543423-07:00.jpg",
+      "source": "original",
+      "mtime": "1666443340",
+      "size": "251913",
+      "md5": "ab0d14d325977b1c422782cb3b875100",
+      "crc32": "7fd35ff0",
+      "sha1": "82ef7131fd400b4bf16724d7224abc51c08edbf7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "king5seattle-2022-10-22T05:55:39.543423-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666443345",
+      "size": "1447",
+      "md5": "daf456cc9b9ae12a3b03b9ed033f8f62",
+      "crc32": "33c92e63",
+      "sha1": "d229498bc33b5d07a17e61cd71cfee7b74653961",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-10-22T05:55:39.543423-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666443346",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-10-22T05:55:39.543423-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "king5seattle-2022-10-22T05:55:39.543423-07:00.jpg",
+      "mtime": "1666443435",
+      "size": "9499",
+      "md5": "9a9701eb92d726c43cf79b6557dbfe85",
+      "crc32": "380a4d95",
+      "sha1": "3f575a8b2d98086e6a34e6e1ab8ef63d70d3b4e9"
+    },
+    {
       "name": "king5seattle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "820f61fb4b4540c94253f1b80ff5f2fd6df5fe05",
-      "mtime": "1666401093",
-      "size": "262920",
-      "md5": "fb4b3152d746a354f210497e7891690e",
-      "crc32": "4b72d85f",
-      "sha1": "2a078a9cd12b13957a126c4d678ca81956d10db1",
+      "btih": "fed7283672992ead1183a2ce40f4ae9ad93badf8",
+      "mtime": "1666443455",
+      "size": "264208",
+      "md5": "67d59075d3fc919e9b2836f6822e443a",
+      "crc32": "b548ff33",
+      "sha1": "30645f47b05b4fe26e13241a940853bf5df038bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "king5seattle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "533321453f756000a609dbffcc3a8096",
+      "md5": "e714ae2422a668b0e1c1bd30180d7023",
       "summation": "md5"
     },
     {
       "name": "king5seattle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666400996",
-      "size": "1548288",
-      "md5": "bc63c24ce43565fdf5a3e89429a9f868",
-      "crc32": "fcb4c50d",
-      "sha1": "0f0053251bff383041d20e04a97587d6e98d361c",
+      "mtime": "1666443353",
+      "size": "1556480",
+      "md5": "903517371ac9d91bcdca8dec9a5a5237",
+      "crc32": "d6fabab1",
+      "sha1": "1c5e4830d805290dced592eae13baedbd87d477b",
       "format": "Metadata"
     },
     {
@@ -12694,9 +12756,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1225,
-  "item_last_updated": 1666401093,
-  "item_size": 83375913,
+  "files_count": 1231,
+  "item_last_updated": 1666443455,
+  "item_size": 83729642,
   "metadata": {
     "identifier": "king5seattle-2022",
     "collection": [
@@ -12713,10 +12775,10 @@
     "publicdate": "2022-07-04 21:55:32",
     "addeddate": "2022-07-04 21:55:32"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 1331634277,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1003372392,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

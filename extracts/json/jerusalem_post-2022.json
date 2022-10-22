@@ -1,5 +1,5 @@
 {
-  "created": 1666400996,
+  "created": 1666443442,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/9/items/jerusalem_post-2022",
@@ -8664,31 +8664,93 @@
       "sha1": "c0988d7901beae21e7dc23ec5f5bf41c5d617664"
     },
     {
+      "name": "jerusalem_post-2022-10-22T15:53:17.618517+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666443206",
+      "size": "1895",
+      "md5": "a71134fb6334479540521a0ef2f696ba",
+      "crc32": "34d409ec",
+      "sha1": "d6e567c0e9d3dd5708506aec0a0e686b8d9f7960",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-22T15:53:17.618517+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666443207",
+      "size": "61837",
+      "md5": "ea0fbb5ab70fb1ee54ebacc9fdd941ee",
+      "crc32": "f5ba2d43",
+      "sha1": "d3f4e4ba2780d00cb10c2b449199a10467375832",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-22T15:53:17.618517+03:00.jpg",
+      "source": "original",
+      "mtime": "1666443204",
+      "size": "310855",
+      "md5": "d0f61316e42564aeeabf17355a8f392f",
+      "crc32": "0fed392c",
+      "sha1": "4d91e7b4e4f04c1a0488f3f7b1543774e59a5063",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-22T15:53:17.618517+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666443209",
+      "size": "1432",
+      "md5": "75d39dec034dade77da35247277c60bb",
+      "crc32": "3dec62e4",
+      "sha1": "e44c914f43e8ac3ba886cb103e907ca97f9d77b1",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-22T15:53:17.618517+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666443210",
+      "size": "64263",
+      "md5": "b1b6cdf0891ef0b4e89042d39406e5b5",
+      "crc32": "40f74abb",
+      "sha1": "6b5e6bd7b6a78998defb233ac68803092266eded",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-22T15:53:17.618517+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-22T15:53:17.618517+03:00.jpg",
+      "mtime": "1666443361",
+      "size": "9637",
+      "md5": "846fcdd0f53d28a9fc092ba1fcebd91b",
+      "crc32": "af320697",
+      "sha1": "fd550e0a101ec9ec463f4d90f1c6e579a12e49c0"
+    },
+    {
       "name": "jerusalem_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f056e0cd6b8d2576d0a8839d1eb5372c2675ba4",
-      "mtime": "1666400962",
-      "size": "183069",
-      "md5": "09b7cd630a0ba7ef47a0a6bab3e2f943",
-      "crc32": "4694abd4",
-      "sha1": "80f6fe3f12137d5ef9af579695fc6f8fae487e4c",
+      "btih": "f36ed1e9e88eac1b44cddd81c1a2bce1d83e4a7a",
+      "mtime": "1666443415",
+      "size": "184371",
+      "md5": "ff7733f060636b6912c83ff60b156891",
+      "crc32": "10cd1cd9",
+      "sha1": "d786865d019e9cb1d4e157ac6b5c1bdd075afd1d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jerusalem_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb882f0818381c9cf3b49d1e53f2872f",
+      "md5": "658dbbb9a0921d6b76daa9b9431265b5",
       "summation": "md5"
     },
     {
       "name": "jerusalem_post-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666400880",
-      "size": "1089536",
-      "md5": "cb0506591b326301c3cc05ac990b8199",
-      "crc32": "8ca07058",
-      "sha1": "42d4ee3e558f22cc29fd3edf4f592393196da4ee",
+      "mtime": "1666443217",
+      "size": "1097728",
+      "md5": "83656828a142d585e5c00e1578d0b684",
+      "crc32": "6e05d29f",
+      "sha1": "a6f4ff5d59c5afd3207045afcc906f6cd1a84d66",
       "format": "Metadata"
     },
     {
@@ -8702,9 +8764,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 842,
-  "item_last_updated": 1666400962,
-  "item_size": 67509148,
+  "files_count": 848,
+  "item_last_updated": 1666443415,
+  "item_size": 67968561,
   "metadata": {
     "identifier": "jerusalem_post-2022",
     "collection": [
@@ -8721,10 +8783,10 @@
     "publicdate": "2022-08-14 03:09:31",
     "addeddate": "2022-08-14 03:09:31"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 162542824,
+  "server": "ia601508.us.archive.org",
+  "uniq": 1471053806,
   "workable_servers": [
-    "ia801508.us.archive.org",
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }
