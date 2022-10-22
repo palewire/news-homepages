@@ -1,5 +1,5 @@
 {
-  "created": 1666409316,
+  "created": 1666449934,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/studyfindsorg-2022",
@@ -7250,31 +7250,93 @@
       "sha1": "a9f6972ee5cbd33ded61e6b1b26c6f854ff9504e"
     },
     {
+      "name": "studyfindsorg-2022-10-22T10:42:28.639431-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666449754",
+      "size": "29533",
+      "md5": "1bbbc6660069224c6064ff757ec60516",
+      "crc32": "af7c6e6d",
+      "sha1": "e03ca06a46e049f4541480d6ac6090ff8e923c21",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-22T10:42:28.639431-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666449756",
+      "size": "33321",
+      "md5": "fb0fdbd4c77e999682536255fe227e4b",
+      "crc32": "9baafc67",
+      "sha1": "e65c31562cbea0179db8c870db17e1dba489cd8c",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-22T10:42:28.639431-04:00.jpg",
+      "source": "original",
+      "mtime": "1666449752",
+      "size": "269208",
+      "md5": "2b80e6098e8e394c49c8b2a82b18c917",
+      "crc32": "b8a39d18",
+      "sha1": "597b9793ee8d6515f3adcf0b131e640cb444cc89",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-22T10:42:28.639431-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666449757",
+      "size": "1459",
+      "md5": "974eca75a475785bbbb40cf811bed98f",
+      "crc32": "eccb7391",
+      "sha1": "64b119408009b7b0faec97bd76d86ea7a09bd4c5",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-22T10:42:28.639431-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666449759",
+      "size": "35670",
+      "md5": "676d47fe01a838deab796bdcc1d9a6cc",
+      "crc32": "ea8f39c7",
+      "sha1": "b70fe3aea6a89de94ff165f2bb08ecffb7008697",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-22T10:42:28.639431-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-10-22T10:42:28.639431-04:00.jpg",
+      "mtime": "1666449877",
+      "size": "9865",
+      "md5": "a8a2743600bdcffde4c4172291fad7fd",
+      "crc32": "74291547",
+      "sha1": "b267d114ed26dc9782d2fc749693e19a24fd91fe"
+    },
+    {
       "name": "studyfindsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f3fa7c2a435810b20ca505523ae0a47c0ccb0014",
-      "mtime": "1666409307",
-      "size": "152363",
-      "md5": "a2b6d8d49c55d27a9b553ee9a9303646",
-      "crc32": "c15184a7",
-      "sha1": "855902bbc08c543d71f315b73116774e347a11bb",
+      "btih": "e150f2a900afe94db986c7f494b212ff4657aabe",
+      "mtime": "1666449906",
+      "size": "153660",
+      "md5": "1f0f59ed6e4f2af2fbc952710cad5bc8",
+      "crc32": "83a82cff",
+      "sha1": "35e4d533ef24648fa4fb107388e3272353da3110",
       "format": "Archive BitTorrent"
     },
     {
       "name": "studyfindsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7547cdf9b377ba0c3269353c9f73cb66",
+      "md5": "be1cfdc18a30e91123421b2eccc0a251",
       "summation": "md5"
     },
     {
       "name": "studyfindsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666409232",
-      "size": "913408",
-      "md5": "abd52e6bf7b3eba8485fc22e2fcd7828",
-      "crc32": "5e6a2ded",
-      "sha1": "ad029d4d507b249da5e2e74b6abd063a608ccc99",
+      "mtime": "1666449763",
+      "size": "917504",
+      "md5": "e5ccc15da2212d96588d16fbb87aa8f9",
+      "crc32": "cb191a93",
+      "sha1": "6ebbea86793bdc294a8f7bf582e86e043d03025e",
       "format": "Metadata"
     },
     {
@@ -7288,9 +7350,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 705,
-  "item_last_updated": 1666409307,
-  "item_size": 45918038,
+  "files_count": 711,
+  "item_last_updated": 1666449906,
+  "item_size": 46302487,
   "metadata": {
     "identifier": "studyfindsorg-2022",
     "collection": [
@@ -7307,10 +7369,10 @@
     "publicdate": "2022-08-23 12:58:38",
     "addeddate": "2022-08-23 12:58:38"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 936521336,
+  "server": "ia801401.us.archive.org",
+  "uniq": 933313170,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1666409509,
-  "created": 1666409509,
+  "created": 1666449863,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/spectrumnews-2022",
@@ -13953,31 +13952,93 @@
       "sha1": "c8530ef82deb211ffdf067546418e1e094823549"
     },
     {
+      "name": "spectrumnews-2022-10-22T08:42:42.672754-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666449765",
+      "size": "22280",
+      "md5": "49ee970bc560ea7e2aac77ae4723e3d8",
+      "crc32": "9ab47547",
+      "sha1": "38c366be6ca96ad472213571d311a93866d526cf",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-10-22T08:42:42.672754-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666449767",
+      "size": "32980",
+      "md5": "11f373761f01656642ab500b48e7b53e",
+      "crc32": "5b48ae15",
+      "sha1": "69df93f6140078f8ba5b2733fdccbfafd3b3d3da",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-10-22T08:42:42.672754-06:00.jpg",
+      "source": "original",
+      "mtime": "1666449764",
+      "size": "317370",
+      "md5": "b9a497a842b1f59c83d9a014ccb54dca",
+      "crc32": "b8996e4b",
+      "sha1": "70f7e660dd62d4adda69cb1a6544238126dcfbd3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-10-22T08:42:42.672754-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666449768",
+      "size": "1502",
+      "md5": "b02c50c31fb7d2f22a5b22ce39c6d725",
+      "crc32": "50972d08",
+      "sha1": "999b3b2d25ff62e6f752bcc74156d8742c5f32ab",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-10-22T08:42:42.672754-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666449770",
+      "size": "102641",
+      "md5": "3baabeb099695518e216824d949755bd",
+      "crc32": "e0c8da2b",
+      "sha1": "cc940196871e718d8c232925aed43628b1d9560d",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-10-22T08:42:42.672754-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-10-22T08:42:42.672754-06:00.jpg",
+      "mtime": "1666449839",
+      "size": "9689",
+      "md5": "afeb4a7e5f6c9ebf941e8ab1851f8e14",
+      "crc32": "fd86c30d",
+      "sha1": "36a3bde5b74d2004c865892559943f6323b1a1df"
+    },
+    {
       "name": "spectrumnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eaf090e883e3d3aeb2e212f9f2e7d4c2c7041608",
-      "mtime": "1666409507",
-      "size": "289388",
-      "md5": "6a74ebddd997ec6727f246378dcec603",
-      "crc32": "33e9d49a",
-      "sha1": "ba758c921c778370ee314ff8180f262698ad2b9d",
+      "btih": "bfa1b586e940f7bb634a14f0cf7fec4d5110e6da",
+      "mtime": "1666449855",
+      "size": "290680",
+      "md5": "4d48caed7b8cff911f0bd7b82decb5eb",
+      "crc32": "18153630",
+      "sha1": "9eabc8038d33cc2cde600ef5c86fb1f841dee679",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectrumnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "225bb6f66edbc43e913fbaed36c65090",
+      "md5": "cbe3bc5c06607f9f432dccc05bfcce21",
       "summation": "md5"
     },
     {
       "name": "spectrumnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666409241",
-      "size": "1683456",
-      "md5": "98417be51a38d4287d20fd0699f4a7ef",
-      "crc32": "e34cfb50",
-      "sha1": "19fda5ecdc628438ef22c214f1459a4a1f69b1e4",
+      "mtime": "1666449776",
+      "size": "1687552",
+      "md5": "b48f4c35a1189b8804d57ad86364b46a",
+      "crc32": "4021bca0",
+      "sha1": "657ac899c10526893cbccdf22f9623e33c32e3e0",
       "format": "Metadata"
     },
     {
@@ -13991,9 +14052,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1348,
-  "item_last_updated": 1666409507,
-  "item_size": 91601531,
+  "files_count": 1354,
+  "item_last_updated": 1666449855,
+  "item_size": 92093381,
   "metadata": {
     "identifier": "spectrumnews-2022",
     "collection": [
@@ -14010,29 +14071,10 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3448061233,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3448063448,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1869921291,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1085420124,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

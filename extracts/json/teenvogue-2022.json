@@ -1,5 +1,5 @@
 {
-  "created": 1666409370,
+  "created": 1666449917,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/teenvogue-2022",
@@ -11482,31 +11482,93 @@
       "sha1": "76aa930b71df64c4e9c47fdcbe13aa8b02303f8e"
     },
     {
+      "name": "teenvogue-2022-10-22T10:43:09.286946-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666449796",
+      "size": "31723",
+      "md5": "e756f1e953352ce873976bf0cd818465",
+      "crc32": "4454d74f",
+      "sha1": "85664ba52ee18d809e419df7572b656956b7577a",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-10-22T10:43:09.286946-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666449797",
+      "size": "13474",
+      "md5": "a6e36ab0c885bd7dae58a9fdcee4b459",
+      "crc32": "47582ce8",
+      "sha1": "6ef38dcbef61a870482970cddf4f652b4f00d559",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-10-22T10:43:09.286946-04:00.jpg",
+      "source": "original",
+      "mtime": "1666449795",
+      "size": "221891",
+      "md5": "f9713cd79bb6c82ef127fe62a241c770",
+      "crc32": "1f73a791",
+      "sha1": "6b8b8840c981fe17739d97c893adbf5db2ebc4a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "teenvogue-2022-10-22T10:43:09.286946-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666449799",
+      "size": "1485",
+      "md5": "66c9d22232f57b4ec3f2a819465b82a4",
+      "crc32": "ec069f2d",
+      "sha1": "3ccb6964d9202dad9265c257a4d683b593ef2da7",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-10-22T10:43:09.286946-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666449801",
+      "size": "106048",
+      "md5": "6d6ca92add80de4dcbe4960e9a283c38",
+      "crc32": "3ca90564",
+      "sha1": "afe84dc8631ea89557c12fdecedb54b45f918e04",
+      "format": "JSON"
+    },
+    {
+      "name": "teenvogue-2022-10-22T10:43:09.286946-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "teenvogue-2022-10-22T10:43:09.286946-04:00.jpg",
+      "mtime": "1666449872",
+      "size": "8899",
+      "md5": "81ae92dc9974609a8c7df7ae521ff2c8",
+      "crc32": "8c4912e7",
+      "sha1": "234f736e6eb797b73edb9521fb63e2b633898b31"
+    },
+    {
       "name": "teenvogue-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1237d457a3da9400215e881c29feec4825e4fd5",
-      "mtime": "1666409350",
-      "size": "235530",
-      "md5": "b5a995ccd5b3ade2366f51155a9a5b73",
-      "crc32": "41e90c44",
-      "sha1": "ceec9a1c837b5817d7fed7438a790a31271d12f4",
+      "btih": "003f618e41eb0af1a6baac8be0ca7ad28c28048b",
+      "mtime": "1666449893",
+      "size": "236784",
+      "md5": "b3b99bb8af98686c02f128a9ca12ea7c",
+      "crc32": "1310da6b",
+      "sha1": "8c85ea1c315f925ef86bcbb102bc0ce368d9fa7a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "teenvogue-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbd3abb661587259ac2f22b6f173033a",
+      "md5": "4a60b65ac8dc51204377d5d321bf0ba8",
       "summation": "md5"
     },
     {
       "name": "teenvogue-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666409272",
-      "size": "1409024",
-      "md5": "0b041f11b28340ed6daca3e542786d86",
-      "crc32": "2907d0b6",
-      "sha1": "f1cd9b5344e1ebb6d0b090d4c06ff0baa8c7c7b5",
+      "mtime": "1666449808",
+      "size": "1417216",
+      "md5": "887ee7930bba5941948091a2246db0df",
+      "crc32": "8d157624",
+      "sha1": "ed9ba04339dbd4dc4178bc8bb25561220b158942",
       "format": "Metadata"
     },
     {
@@ -11520,9 +11582,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1113,
-  "item_last_updated": 1666409350,
-  "item_size": 67399323,
+  "files_count": 1119,
+  "item_last_updated": 1666449893,
+  "item_size": 67792289,
   "metadata": {
     "identifier": "teenvogue-2022",
     "collection": [
@@ -11539,10 +11601,10 @@
     "publicdate": "2022-07-18 04:16:36",
     "addeddate": "2022-07-18 04:16:36"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 1155491655,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1018021820,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }
