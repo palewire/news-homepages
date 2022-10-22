@@ -1,5 +1,5 @@
 {
-  "created": 1666422529,
+  "created": 1666463639,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/14/items/nextcityorg-2022",
@@ -12366,31 +12366,93 @@
       "sha1": "b5b6c38114a8bb8f157fc3754486aa6cf2285e8e"
     },
     {
+      "name": "nextcityorg-2022-10-22T14:30:11.912611-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666463418",
+      "size": "17112",
+      "md5": "f69c7e6ae6d2df1bc3cdee7a8b448b43",
+      "crc32": "090f1a7d",
+      "sha1": "613f7e086495e3866f0e2f578c04dbb61b90c8b4",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-10-22T14:30:11.912611-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666463419",
+      "size": "18393",
+      "md5": "969fdca3a2ebc0721ee1ee9c0254b9b9",
+      "crc32": "cd91023d",
+      "sha1": "889d0a97c4b4e8a0d367d01cce46010c6a9ae857",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-10-22T14:30:11.912611-04:00.jpg",
+      "source": "original",
+      "mtime": "1666463416",
+      "size": "319030",
+      "md5": "7753b2058c2a9cff3f0a4c4de2ca061d",
+      "crc32": "bf8e4ef3",
+      "sha1": "7bfade429d80adcb3c31981ffb95d85bca227bee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nextcityorg-2022-10-22T14:30:11.912611-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666463421",
+      "size": "1439",
+      "md5": "587eb6bd100c656aba4b166bfdea635d",
+      "crc32": "e82228cc",
+      "sha1": "1c941f7e54fd7d9fca95bf9c05c7d2d72226f257",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-10-22T14:30:11.912611-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666463423",
+      "size": "19159",
+      "md5": "f4e1aa9931b988eac282bef6ca648827",
+      "crc32": "f8d147e9",
+      "sha1": "105b60e8a3d38a62861fcd84b885461b62b7954c",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-10-22T14:30:11.912611-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nextcityorg-2022-10-22T14:30:11.912611-04:00.jpg",
+      "mtime": "1666463541",
+      "size": "10706",
+      "md5": "83189be0fa6014f66c6d44994ddae21b",
+      "crc32": "5ebd063b",
+      "sha1": "bbece6b18d272c686371b3460f81dddb8fb1aebe"
+    },
+    {
       "name": "nextcityorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c4fdcfca10722e3762e6195d30d2a19baa4c84c",
-      "mtime": "1666422516",
-      "size": "256473",
-      "md5": "0ba3944ac5745c24f9589320871d9f8a",
-      "crc32": "3b6c6ae5",
-      "sha1": "ff80c8b556b94de891b6238583bbb066acf727c7",
+      "btih": "9e5a0ca506d14c0b1b78f94558d3fc6a2ebc3b8a",
+      "mtime": "1666463606",
+      "size": "257759",
+      "md5": "5fd8e508f85b4cd75f9fea91755c6b3c",
+      "crc32": "40ef803e",
+      "sha1": "2428e8168ec62f0bd500f253326e3befa3a425d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nextcityorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc124929a35196b6b4ed4c85410df32b",
+      "md5": "f9645fa28672b33ed170719883200547",
       "summation": "md5"
     },
     {
       "name": "nextcityorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666422292",
-      "size": "1511424",
-      "md5": "0a984072587c0d1e795e961adffa5d5d",
-      "crc32": "a5f9c4a2",
-      "sha1": "f296c4d6028d3b212106b77d077cecfebd0a6df9",
+      "mtime": "1666463430",
+      "size": "1519616",
+      "md5": "8dcc9dfaace3c55f3c4105c1126b2cf2",
+      "crc32": "35764134",
+      "sha1": "4569af284e20daa117c43b8af21bce7e512ff408",
       "format": "Metadata"
     },
     {
@@ -12404,9 +12466,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1197,
-  "item_last_updated": 1666422516,
-  "item_size": 90667540,
+  "files_count": 1203,
+  "item_last_updated": 1666463606,
+  "item_size": 91062857,
   "metadata": {
     "identifier": "nextcityorg-2022",
     "collection": [
@@ -12424,7 +12486,7 @@
     "addeddate": "2022-07-09 04:01:27"
   },
   "server": "ia601504.us.archive.org",
-  "uniq": 222309144,
+  "uniq": 1859879256,
   "workable_servers": [
     "ia601504.us.archive.org",
     "ia801504.us.archive.org"

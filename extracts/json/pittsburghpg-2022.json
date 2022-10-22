@@ -1,5 +1,5 @@
 {
-  "created": 1666422492,
+  "created": 1666463731,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/24/items/pittsburghpg-2022",
@@ -10636,31 +10636,93 @@
       "sha1": "f22f4094ab3c58028745eda3581279b262681908"
     },
     {
+      "name": "pittsburghpg-2022-10-22T14:32:35.004107-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666463564",
+      "size": "45921",
+      "md5": "4fa5a4ad9f4e1066ea5dd587772bf6d4",
+      "crc32": "20b81f07",
+      "sha1": "2f9629581966e75b209c0675c63ef0116767df6b",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-22T14:32:35.004107-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666463566",
+      "size": "85653",
+      "md5": "4df4a9cda9a005283f0bcc55824b7ebd",
+      "crc32": "2b502572",
+      "sha1": "151cdaa8dbe4e7a0888265ac2f539879402e360b",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-22T14:32:35.004107-04:00.jpg",
+      "source": "original",
+      "mtime": "1666463562",
+      "size": "330756",
+      "md5": "cf5e86a3b4be9872c96b1557fb7a0e1a",
+      "crc32": "376c9e42",
+      "sha1": "16c1e84e4eca1dce3e877479eb61d9db3d58fc47",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-22T14:32:35.004107-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666463567",
+      "size": "1513",
+      "md5": "acd7d5cac2f610b81f4db3bdab95f078",
+      "crc32": "7cc7a942",
+      "sha1": "39ab9610fd38191544b464e790d12fb84bac1985",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-22T14:32:35.004107-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666463569",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-22T14:32:35.004107-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-22T14:32:35.004107-04:00.jpg",
+      "mtime": "1666463662",
+      "size": "9766",
+      "md5": "07bbbff0a736059e36cbffd6d3446a67",
+      "crc32": "cc732604",
+      "sha1": "d8a7fd865d9cf2d8e6eca9ea3a3b65593a535f20"
+    },
+    {
       "name": "pittsburghpg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20e8ba3fca5d997c654009ac16339118e832edf1",
-      "mtime": "1666422478",
-      "size": "222648",
-      "md5": "bc0f4df30a20bee002ae2c6c4b491ae5",
-      "crc32": "cbbd384c",
-      "sha1": "e8ed94111fa966d979b6f8216927129aaa449ca1",
+      "btih": "8e891cdc85a62ea6679dd37782c8f7766f1d4192",
+      "mtime": "1666463705",
+      "size": "223937",
+      "md5": "bcf980754e47cbb5215bc39d961a36e7",
+      "crc32": "9066a043",
+      "sha1": "a9fe93bdabf74693e9ac8390b96dd7c778cc3a84",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pittsburghpg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32ccd377272c09a1ab5408e1faf9e307",
+      "md5": "e56963c293743b0056446e959d0e425e",
       "summation": "md5"
     },
     {
       "name": "pittsburghpg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666422405",
-      "size": "1323008",
-      "md5": "d031a535ff5e152ef1fc304a963189e9",
-      "crc32": "0103e919",
-      "sha1": "3406142f58f617d95c29dac2a60bbe768817a8dd",
+      "mtime": "1666463574",
+      "size": "1331200",
+      "md5": "41b46666f8ed641f62eff95a89be150b",
+      "crc32": "131b295c",
+      "sha1": "6d79baf3444341097aeca20e5e79c2f96976ba53",
       "format": "Metadata"
     },
     {
@@ -10674,9 +10736,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1032,
-  "item_last_updated": 1666422478,
-  "item_size": 92429119,
+  "files_count": 1038,
+  "item_last_updated": 1666463705,
+  "item_size": 92912411,
   "metadata": {
     "identifier": "pittsburghpg-2022",
     "collection": [
@@ -10693,10 +10755,10 @@
     "publicdate": "2022-07-26 03:54:28",
     "addeddate": "2022-07-26 03:54:28"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 392065014,
+  "server": "ia801400.us.archive.org",
+  "uniq": 352328339,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

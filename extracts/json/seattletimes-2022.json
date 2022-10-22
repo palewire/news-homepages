@@ -1,5 +1,5 @@
 {
-  "created": 1666422610,
+  "created": 1666465210,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/2/items/seattletimes-2022",
@@ -12492,31 +12492,93 @@
       "sha1": "6fbb5e97eaadafff61c23b0431a272002e529fba"
     },
     {
+      "name": "seattletimes-2022-10-22T11:36:04.765514-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666463769",
+      "size": "461",
+      "md5": "a658bd28ee3e666adc724e23d8762ffc",
+      "crc32": "1dedccc0",
+      "sha1": "8fe3d77ac7849e306430336ac5f16f691f4f74d3",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-22T11:36:04.765514-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666463770",
+      "size": "46930",
+      "md5": "69cfd06922964560f9e7c29579c2cd52",
+      "crc32": "d0b1cedc",
+      "sha1": "d58e3e2b928f9c216abc6c674772c5225f5d20fb",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-22T11:36:04.765514-07:00.jpg",
+      "source": "original",
+      "mtime": "1666463766",
+      "size": "300958",
+      "md5": "ab504e1fd010bb299cd788585c0e436b",
+      "crc32": "7798d2c8",
+      "sha1": "8d5b3f33415491301ad3b0589bb17652ddaeb657",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seattletimes-2022-10-22T11:36:04.765514-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666463772",
+      "size": "1512",
+      "md5": "7835de67b703d7cb3d008d49e08726a6",
+      "crc32": "36448404",
+      "sha1": "dc76a2dd56d326c57da3a3b7cbb3001b684002be",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-22T11:36:04.765514-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666463774",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-22T11:36:04.765514-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seattletimes-2022-10-22T11:36:04.765514-07:00.jpg",
+      "mtime": "1666463857",
+      "size": "9092",
+      "md5": "d3a1a3f18bebe1d11dfed0bcf018ec48",
+      "crc32": "76eb251d",
+      "sha1": "470b5d730d3f65214225e120e05983cbb5cb3b08"
+    },
+    {
       "name": "seattletimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "396215a8b3bcf390fd032b7044d182440da34b17",
-      "mtime": "1666422598",
-      "size": "259144",
-      "md5": "fbe6c9beed014d6fbbdde943efb38719",
-      "crc32": "425f7570",
-      "sha1": "ce77ae51b61be0b1bb84efee1b9d460fc03206c1",
+      "btih": "7f4600a116d37f327f6f402cc5f46ee39fcb369a",
+      "mtime": "1666463888",
+      "size": "260431",
+      "md5": "b6ddb0ac3290fdc4d4d88d0584feee63",
+      "crc32": "335d2e55",
+      "sha1": "0ced966436c58af8904ddaa649a1360b6a4b6489",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seattletimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2bb23d3e2ad9405df13ed15b8ab911da",
+      "md5": "fa6c06ab600adb6acf6680322384243c",
       "summation": "md5"
     },
     {
       "name": "seattletimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666422514",
-      "size": "1523712",
-      "md5": "db1377274e7fe70c1dfe270fae4ff62e",
-      "crc32": "74203d0a",
-      "sha1": "fe27087f6db082ea727ef7f1d82dae5c0fd46af2",
+      "mtime": "1666463778",
+      "size": "1531904",
+      "md5": "708f9c749f586b2db4a417491e508317",
+      "crc32": "3fb1ce74",
+      "sha1": "d593c04581a5c95845383015d1d8f32f594ceb6d",
       "format": "Metadata"
     },
     {
@@ -12530,9 +12592,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1209,
-  "item_last_updated": 1666422598,
-  "item_size": 82460639,
+  "files_count": 1215,
+  "item_last_updated": 1666463888,
+  "item_size": 82829273,
   "metadata": {
     "identifier": "seattletimes-2022",
     "collection": [
@@ -12549,8 +12611,13 @@
     "publicdate": "2022-07-04 21:53:09",
     "addeddate": "2022-07-04 21:53:09"
   },
+  "seattletimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia902500.us.archive.org",
-  "uniq": 127915350,
+  "uniq": 1716988262,
   "workable_servers": [
     "ia902500.us.archive.org",
     "ia802500.us.archive.org"

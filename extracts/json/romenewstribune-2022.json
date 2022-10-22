@@ -1,5 +1,5 @@
 {
-  "created": 1666422667,
+  "created": 1666463743,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/11/items/romenewstribune-2022",
@@ -11180,31 +11180,93 @@
       "sha1": "0d541a1e6b591e4e957d5f6163a76a9a164fd93e"
     },
     {
+      "name": "romenewstribune-2022-10-22T14:34:00.357452-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666463653",
+      "size": "38140",
+      "md5": "c3727e80e47d847ecf5f17d6b6acad2b",
+      "crc32": "c854c1cd",
+      "sha1": "5c9127692da0b27d3680561697fe6dea48b80f8e",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-10-22T14:34:00.357452-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666463654",
+      "size": "50555",
+      "md5": "99bcf06bf75811c654374398d52788af",
+      "crc32": "6a3965fc",
+      "sha1": "4600b3f4c53853df5176108eac0b55ea4c9509ff",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-10-22T14:34:00.357452-04:00.jpg",
+      "source": "original",
+      "mtime": "1666463651",
+      "size": "310033",
+      "md5": "b6167bf31f0fe970bfef3ea6c312b980",
+      "crc32": "588aa333",
+      "sha1": "6c0ef70937f872a59b3a7624499445f06e62ac31",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "romenewstribune-2022-10-22T14:34:00.357452-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666463656",
+      "size": "1630",
+      "md5": "1a2432ef116768426d077c7aa8f6bdee",
+      "crc32": "b242ef6f",
+      "sha1": "a5d65111c7ac309d65aec0448bffca63ef70e1ef",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-10-22T14:34:00.357452-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666463658",
+      "size": "43133",
+      "md5": "56a4cb0c0efc9a16d42c56ca4c7feed3",
+      "crc32": "eb2f8740",
+      "sha1": "25d51abdd44572ba1a66a45cdf463d64b5433679",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-10-22T14:34:00.357452-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "romenewstribune-2022-10-22T14:34:00.357452-04:00.jpg",
+      "mtime": "1666463719",
+      "size": "9454",
+      "md5": "748aa5852b0ab407cf42d6ac50831966",
+      "crc32": "c2d89103",
+      "sha1": "039d8802b2d1ab0aae3f14d165c551134caad212"
+    },
+    {
       "name": "romenewstribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ef10f4316349268bfe730b4400502a127aebbe44",
-      "mtime": "1666422643",
-      "size": "236761",
-      "md5": "8a96dd9c7bb0912d12a9314aa9f24dfc",
-      "crc32": "eb3d1cb1",
-      "sha1": "28031d00d1d1c5e7e0042084c0e86bca2d07389a",
+      "btih": "982b1550452aa713a43416de2722acb5e3aeadfe",
+      "mtime": "1666463731",
+      "size": "238050",
+      "md5": "9cb602b87173bebc99c71e95b23bfe50",
+      "crc32": "7b60ede4",
+      "sha1": "6095b189119474b7ac52f334809917f8dfe83197",
       "format": "Archive BitTorrent"
     },
     {
       "name": "romenewstribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "71ef556276ac698dee98065586376e64",
+      "md5": "1017f433047a2ca76046948373ab19d0",
       "summation": "md5"
     },
     {
       "name": "romenewstribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666422518",
-      "size": "1388544",
-      "md5": "ec8a48169e126a4ea0b922e7d3b5fe21",
-      "crc32": "3074f86c",
-      "sha1": "ad6b75ee24393abde15823435d1ffe3b7657bd47",
+      "mtime": "1666463661",
+      "size": "1392640",
+      "md5": "a3521a688ad1b345914f1e613dd3c596",
+      "crc32": "295e3bdb",
+      "sha1": "d80cb05f0c9b4481ebb25335c5ef4899e1394ccc",
       "format": "Metadata"
     },
     {
@@ -11218,9 +11280,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1084,
-  "item_last_updated": 1666422643,
-  "item_size": 87821939,
+  "files_count": 1090,
+  "item_last_updated": 1666463731,
+  "item_size": 88280269,
   "metadata": {
     "identifier": "romenewstribune-2022",
     "collection": [
@@ -11238,7 +11300,7 @@
     "addeddate": "2022-07-20 23:31:09"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 1145760122,
+  "uniq": 399527438,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"
