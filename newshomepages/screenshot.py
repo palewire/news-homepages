@@ -75,7 +75,7 @@ def _screenshot(
         page.screenshot(
             quality=80,
             type="jpeg",
-            path=jpeg_file_path,
+            path=str(jpeg_file_path),
             full_page=full_page,
         )
 
