@@ -1,5 +1,5 @@
 {
-  "created": 1666297018,
+  "created": 1666422853,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/9/items/theeveningsun-2022",
@@ -3778,31 +3778,217 @@
       "sha1": "2cc529d611dc257ad13426a3d2fcd1a8ea64e084"
     },
     {
+      "name": "theeveningsun-2022-10-21T03:34:22.966514-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666337667",
+      "size": "21399",
+      "md5": "342cc1803b8a2faa6d94bc899c89222a",
+      "crc32": "b5f2ebdb",
+      "sha1": "54c8ab3078cab3095bbc6a292692b0561d19176a",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T03:34:22.966514-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666337668",
+      "size": "33167",
+      "md5": "9188042a5e61da82eff87217393beeca",
+      "crc32": "423a1271",
+      "sha1": "45d2101bb94e6380fba5f379c0ca17b3b0874d82",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T03:34:22.966514-04:00.jpg",
+      "source": "original",
+      "mtime": "1666337665",
+      "size": "266259",
+      "md5": "3b055ce39f09de0fe028e909fd783c56",
+      "crc32": "d3b525fc",
+      "sha1": "13f32eb89917179560a0126b8acec46a172130eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T03:34:22.966514-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666337669",
+      "size": "1495",
+      "md5": "471f69c05ba0c2c59cd49106d69c6013",
+      "crc32": "5426c7fe",
+      "sha1": "54ea7f872d8e33949c6cb85de7651139e494c2ad",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T03:34:22.966514-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666337670",
+      "size": "78211",
+      "md5": "223683e54bbb1aa014cbb956cc2d2c56",
+      "crc32": "305f91bd",
+      "sha1": "1477232869a8a49acab80fac766eba6093439ca4",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T03:34:22.966514-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeveningsun-2022-10-21T03:34:22.966514-04:00.jpg",
+      "mtime": "1666338143",
+      "size": "8980",
+      "md5": "96d2f730ec9ebc39daa271f538b9ba39",
+      "crc32": "2f71168a",
+      "sha1": "35c4da707a0a131539784423b72b687e355f9e1f"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T16:45:29.961714-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666385134",
+      "size": "20611",
+      "md5": "a0aaece8ed20333fdb3f2448f7e8d135",
+      "crc32": "78cc1503",
+      "sha1": "a20c1c0595e39c33da8f6cfdae51aaa0ccb4e93d",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T16:45:29.961714-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666385136",
+      "size": "34211",
+      "md5": "8875a0776cebd3f4156255fa017fb0ae",
+      "crc32": "64c3b795",
+      "sha1": "5daee7cd14ab5d1f5dea0dc892698c76af185ac8",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T16:45:29.961714-04:00.jpg",
+      "source": "original",
+      "mtime": "1666385133",
+      "size": "252549",
+      "md5": "aa116946c5e6cb942e3cb049f4acdab4",
+      "crc32": "d4d195b3",
+      "sha1": "c8ee0e81e75534ecde4f0446f119c2c1035a7b0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T16:45:29.961714-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666385137",
+      "size": "1495",
+      "md5": "314598c9ce33c7e163804cc50660afd1",
+      "crc32": "13553e20",
+      "sha1": "6e2db0a19db16188dfea734c05f796406d9e2986",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T16:45:29.961714-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666385141",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-21T16:45:29.961714-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeveningsun-2022-10-21T16:45:29.961714-04:00.jpg",
+      "mtime": "1666385200",
+      "size": "9390",
+      "md5": "03efc0e59501261a7bf3686519a4df37",
+      "crc32": "adde2856",
+      "sha1": "b61f4204cb82c92955151ce7df2624a919c1b7bf"
+    },
+    {
+      "name": "theeveningsun-2022-10-22T03:12:53.639835-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666422779",
+      "size": "20700",
+      "md5": "ae6e136a78efa4b33adf3aebf5d8b577",
+      "crc32": "5e3a84d1",
+      "sha1": "030b7c014c68b3b5a8f8f0c5f658a10813362f05",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-22T03:12:53.639835-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666422781",
+      "size": "32269",
+      "md5": "95a9506a17f51023822f00446927bdaf",
+      "crc32": "dada1812",
+      "sha1": "15654450d5167a5b0fd4b86e5ceaaca91b245f72",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-22T03:12:53.639835-04:00.jpg",
+      "source": "original",
+      "mtime": "1666422777",
+      "size": "236538",
+      "md5": "0b783659faf99828c4a0f4abad821a05",
+      "crc32": "7de3332b",
+      "sha1": "7554ad0185cbf049bc3bafca9e3c6c0a49f08363",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theeveningsun-2022-10-22T03:12:53.639835-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666422783",
+      "size": "1495",
+      "md5": "ae47baecde07617f05ad910d3d614ed2",
+      "crc32": "5afab95d",
+      "sha1": "bb9c5710e187cc9e9ab47bece0b06e28bee97d90",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-22T03:12:53.639835-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666422784",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theeveningsun-2022-10-22T03:12:53.639835-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeveningsun-2022-10-22T03:12:53.639835-04:00.jpg",
+      "mtime": "1666422839",
+      "size": "9212",
+      "md5": "8eb527d7c898512b7ddcc5d2194f8b35",
+      "crc32": "09c637ca",
+      "sha1": "620678092d1ae96ed05101da3069edec9584c7e4"
+    },
+    {
       "name": "theeveningsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7db499a38742fff5f99bad7385e677c6969661b8",
-      "mtime": "1666296994",
-      "size": "80029",
-      "md5": "2007b244ff4d5a993e74c14365253e93",
-      "crc32": "b3e18105",
-      "sha1": "2f739081918e5521ca5a0a11f38a1b7cd75beb7b",
+      "btih": "306751446364fe56b96cbd65d522d149ac094106",
+      "mtime": "1666422844",
+      "size": "83896",
+      "md5": "183ba72aa1011ace1393a536d2992201",
+      "crc32": "c5a24c73",
+      "sha1": "1a217f663d27d83d46bf70b10f60d66a5afd8b92",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theeveningsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3af241fa158a92e37295bd3f0c180ee",
+      "md5": "b05a574c43828bdd98869f6180518e16",
       "summation": "md5"
     },
     {
       "name": "theeveningsun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666296785",
-      "size": "487424",
-      "md5": "c50c2c7935bfc712f9d76659132f829c",
-      "crc32": "31449410",
-      "sha1": "961c57a6bb3c39f05b65f753b11e7510b1a0b294",
+      "mtime": "1666422788",
+      "size": "507904",
+      "md5": "c51efe38842c01d2542ca7639441e402",
+      "crc32": "e576ad49",
+      "sha1": "ca97012d648648acc295086f07839e11618df3c2",
       "format": "Metadata"
     },
     {
@@ -3816,9 +4002,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 369,
-  "item_last_updated": 1666296994,
-  "item_size": 24230853,
+  "files_count": 387,
+  "item_last_updated": 1666422844,
+  "item_size": 25283585,
   "metadata": {
     "identifier": "theeveningsun-2022",
     "collection": [
@@ -3836,7 +4022,7 @@
     "addeddate": "2022-09-20 19:28:42"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 1039520535,
+  "uniq": 1801675125,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

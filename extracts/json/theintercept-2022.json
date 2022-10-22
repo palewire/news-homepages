@@ -1,5 +1,5 @@
 {
-  "created": 1666298076,
+  "created": 1666422898,
   "d1": "ia904701.us.archive.org",
   "d2": "ia804701.us.archive.org",
   "dir": "/0/items/theintercept-2022",
@@ -19862,31 +19862,279 @@
       "sha1": "5646d0823d1e6375b1e62cf663aab5915d37353e"
     },
     {
+      "name": "theintercept-2022-10-21T03:34:21.779142-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666337664",
+      "size": "5687",
+      "md5": "5440500d3c909fc30bbafd4e81ce04b5",
+      "crc32": "843b9292",
+      "sha1": "7216106dbc73cd2c3f115c51d51e0b9ac176620f",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T03:34:21.779142-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666337666",
+      "size": "6189",
+      "md5": "72904ec9d9343df1c8eda2051357cdf3",
+      "crc32": "51b7fed9",
+      "sha1": "136745ca0fbf8664111f544f93ac9983f3d5d96a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T03:34:21.779142-04:00.jpg",
+      "source": "original",
+      "mtime": "1666337662",
+      "size": "267908",
+      "md5": "f6f70a469be08cc5271a6d6c284bcd0b",
+      "crc32": "54c09b94",
+      "sha1": "e1551c2a59dbb57b8555d2ba6804efa37c9d7569",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-10-21T03:34:21.779142-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666337667",
+      "size": "1477",
+      "md5": "de354079a38d1b0a1e4cf8d631357fb7",
+      "crc32": "24e78132",
+      "sha1": "de7946714a4387a53fd8e212590c5e87b9b0c42f",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T03:34:21.779142-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666337669",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T03:34:21.779142-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-10-21T03:34:21.779142-04:00.jpg",
+      "mtime": "1666337769",
+      "size": "10202",
+      "md5": "a9521a53038ea4f76f58404a85b62df6",
+      "crc32": "247c0962",
+      "sha1": "5646d0823d1e6375b1e62cf663aab5915d37353e"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:48:14.498872-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666385297",
+      "size": "5738",
+      "md5": "d9eed3d4f352c4ddeeabbd228dd9d53f",
+      "crc32": "c9d1acdb",
+      "sha1": "a10c7b92fc394611fc5b94659d50547480651850",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:48:14.498872-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666385298",
+      "size": "6230",
+      "md5": "57b3802a97f1dee321e3810672fa70be",
+      "crc32": "1554b22d",
+      "sha1": "60cef4edacf57e332dbc6cb9e11a64b1d4a81617",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:48:14.498872-04:00.jpg",
+      "source": "original",
+      "mtime": "1666385295",
+      "size": "260970",
+      "md5": "bda38174a9cd7db723cb64a341a0cada",
+      "crc32": "cfa045ab",
+      "sha1": "7f135cc48d064b73de2302881677501d280a7d19",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:48:14.498872-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666385300",
+      "size": "1476",
+      "md5": "0085b7a8284a4f68bf25d162d00d11cc",
+      "crc32": "bfabf33e",
+      "sha1": "640a88d871b14312cf876dd933bbe5c5c95242c0",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:48:14.498872-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666385302",
+      "size": "232",
+      "md5": "5f555393d612375477e78db6ec0721f7",
+      "crc32": "58dc70c8",
+      "sha1": "2ed7552484f7a5bdc32cc75e6bfa0a3b5f1a31f3",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:48:14.498872-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-10-21T16:48:14.498872-04:00.jpg",
+      "mtime": "1666385375",
+      "size": "9961",
+      "md5": "678eadfe156c191f5443561aa097e9bf",
+      "crc32": "bbac7bae",
+      "sha1": "f66a837ebc9ddb3c9463376044fc16d1b4597cb9"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:56:03.543579-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666385767",
+      "size": "5686",
+      "md5": "e67c4fcce3e4239d6d3060f11e04596f",
+      "crc32": "dddb1247",
+      "sha1": "6c60983adba62c584c49663c8f5d849bf22cf5b0",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:56:03.543579-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666385768",
+      "size": "6230",
+      "md5": "57b3802a97f1dee321e3810672fa70be",
+      "crc32": "1554b22d",
+      "sha1": "60cef4edacf57e332dbc6cb9e11a64b1d4a81617",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:56:03.543579-04:00.jpg",
+      "source": "original",
+      "mtime": "1666385765",
+      "size": "260970",
+      "md5": "bda38174a9cd7db723cb64a341a0cada",
+      "crc32": "cfa045ab",
+      "sha1": "7f135cc48d064b73de2302881677501d280a7d19",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:56:03.543579-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666385770",
+      "size": "1477",
+      "md5": "e0379a187db4f20334709c38ceedd0ee",
+      "crc32": "ed9eb52e",
+      "sha1": "ed64cf4fde35b8785194e9b710c77f497dbef845",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:56:03.543579-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666385772",
+      "size": "378",
+      "md5": "6eec92c4117ca1066107a66d2f1ae7b1",
+      "crc32": "18098d92",
+      "sha1": "0c52ea20708b915090e9f3e6bf0800ec7b830273",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-21T16:56:03.543579-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-10-21T16:56:03.543579-04:00.jpg",
+      "mtime": "1666385860",
+      "size": "9961",
+      "md5": "678eadfe156c191f5443561aa097e9bf",
+      "crc32": "bbac7bae",
+      "sha1": "f66a837ebc9ddb3c9463376044fc16d1b4597cb9"
+    },
+    {
+      "name": "theintercept-2022-10-22T03:13:07.160928-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666422790",
+      "size": "5738",
+      "md5": "d9eed3d4f352c4ddeeabbd228dd9d53f",
+      "crc32": "c9d1acdb",
+      "sha1": "a10c7b92fc394611fc5b94659d50547480651850",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-22T03:13:07.160928-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666422792",
+      "size": "6230",
+      "md5": "57b3802a97f1dee321e3810672fa70be",
+      "crc32": "1554b22d",
+      "sha1": "60cef4edacf57e332dbc6cb9e11a64b1d4a81617",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-22T03:13:07.160928-04:00.jpg",
+      "source": "original",
+      "mtime": "1666422788",
+      "size": "260970",
+      "md5": "bda38174a9cd7db723cb64a341a0cada",
+      "crc32": "cfa045ab",
+      "sha1": "7f135cc48d064b73de2302881677501d280a7d19",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-10-22T03:13:07.160928-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666422794",
+      "size": "1477",
+      "md5": "623d2493f8eb42fced3ef4a21762f6b8",
+      "crc32": "d63de0e0",
+      "sha1": "a7bc35fb0995b4b093291619be0e94d35fe0a2df",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-22T03:13:07.160928-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666422796",
+      "size": "241",
+      "md5": "2c832db69f325ddb4bba3e480f1903a6",
+      "crc32": "c74d59a5",
+      "sha1": "ee7f141c57fbb8f92846c697abd662c4d84b2660",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-10-22T03:13:07.160928-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-10-22T03:13:07.160928-04:00.jpg",
+      "mtime": "1666422863",
+      "size": "9961",
+      "md5": "678eadfe156c191f5443561aa097e9bf",
+      "crc32": "bbac7bae",
+      "sha1": "f66a837ebc9ddb3c9463376044fc16d1b4597cb9"
+    },
+    {
       "name": "theintercept-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b984ccef908c6eb52f9387823e76044d5bdeed0",
-      "mtime": "1666298060",
-      "size": "409815",
-      "md5": "ec8e4b6b8122e994abf339fcf46e9b38",
-      "crc32": "ef9cf06b",
-      "sha1": "977b738a4e9bfbe80f767dcf11de024bff3ce004",
+      "btih": "50e10c91e4c365f22cd6ec761a3b4a1e29d8828b",
+      "mtime": "1666422891",
+      "size": "414944",
+      "md5": "dff97a4ebd9d9eef1f1cf4c121905925",
+      "crc32": "7835857d",
+      "sha1": "91c733e169c669a7edc7a61c55b9b24f0a5d8592",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintercept-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "afc68bffe9c53e7faf3b5da32ec53900",
+      "md5": "7d87ed17e15b79ddce15e6d83c7ff5a8",
       "summation": "md5"
     },
     {
       "name": "theintercept-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666297863",
-      "size": "2404352",
-      "md5": "66e3a76e508baaa19a14a77d1984c80b",
-      "crc32": "7c033974",
-      "sha1": "4c9ceb80b3d7d4ee339f739b2a37525668bc8cbc",
+      "mtime": "1666422798",
+      "size": "2428928",
+      "md5": "fbc8065f82397aa6d790702eefb71e1b",
+      "crc32": "358043e6",
+      "sha1": "cb550a3ecb85bcb43aa80107ea4e8004dce73bda",
       "format": "Metadata"
     },
     {
@@ -19900,9 +20148,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1918,
-  "item_last_updated": 1666298060,
-  "item_size": 103119665,
+  "files_count": 1942,
+  "item_last_updated": 1666422891,
+  "item_size": 104294961,
   "metadata": {
     "identifier": "theintercept-2022",
     "collection": [
@@ -19920,7 +20168,7 @@
     "addeddate": "2022-06-19 23:28:41"
   },
   "server": "ia804701.us.archive.org",
-  "uniq": 1490172467,
+  "uniq": 1969117658,
   "workable_servers": [
     "ia804701.us.archive.org",
     "ia904701.us.archive.org"

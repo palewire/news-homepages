@@ -1,5 +1,5 @@
 {
-  "created": 1666297034,
+  "created": 1666423009,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/20/items/windowscentral-2022",
@@ -10524,31 +10524,217 @@
       "sha1": "c56b5e83bee0d05a3c77d6b1fd0784428e2dacdd"
     },
     {
+      "name": "windowscentral-2022-10-21T00:38:30.906401-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666337916",
+      "size": "17173",
+      "md5": "f10d371c9efd829c5af408214e458514",
+      "crc32": "406f8643",
+      "sha1": "3abd08741af346b2bfe9bb39ec5258a91623efcc",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-21T00:38:30.906401-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666337917",
+      "size": "22867",
+      "md5": "4a3eefbfed7627129d0b756301e6f323",
+      "crc32": "b816a280",
+      "sha1": "0f74797b7264b721df5f81f06c8996420884accc",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-21T00:38:30.906401-07:00.jpg",
+      "source": "original",
+      "mtime": "1666337914",
+      "size": "262385",
+      "md5": "0d6cfa9fe20a50121d6fd7692e85f27e",
+      "crc32": "88c3e332",
+      "sha1": "a79f6a7eb8b1faf2105a01f0080ed1140b3f4cd5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "windowscentral-2022-10-21T00:38:30.906401-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666337919",
+      "size": "1530",
+      "md5": "89591311817b65c8eb142b630d309ae3",
+      "crc32": "47349ecf",
+      "sha1": "a357cc3011902620d3e7690362921f0da232b5a2",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-21T00:38:30.906401-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666337921",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-21T00:38:30.906401-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "windowscentral-2022-10-21T00:38:30.906401-07:00.jpg",
+      "mtime": "1666337986",
+      "size": "10453",
+      "md5": "ca9859d001b2a9c92c0c4eac03a43438",
+      "crc32": "354cc3b8",
+      "sha1": "84ed3e2971648ed036d06370ac50cffd35d26cb0"
+    },
+    {
+      "name": "windowscentral-2022-10-21T13:51:04.277031-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666385466",
+      "size": "16758",
+      "md5": "d4965370fe46fe0f63833498989d2f7a",
+      "crc32": "3196cd96",
+      "sha1": "0f9187d3b6482696e1052a53e8ec3bb814330462",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-21T13:51:04.277031-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666385468",
+      "size": "22824",
+      "md5": "9cab874716a51e3a5aa8eed4c7407c35",
+      "crc32": "d76a15b0",
+      "sha1": "c8fe6acc06abc24b69a1513bbeb1c936b534ab52",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-21T13:51:04.277031-07:00.jpg",
+      "source": "original",
+      "mtime": "1666385465",
+      "size": "288535",
+      "md5": "1ca584ad8a0476cf871e1a9315d0d8e0",
+      "crc32": "6652e43f",
+      "sha1": "4dfe11c1f17eca763db6302ced7e0aa1fbfea654",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "windowscentral-2022-10-21T13:51:04.277031-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666385470",
+      "size": "1531",
+      "md5": "bd7beee3c524b3488298a49bf23aa8a9",
+      "crc32": "6774c1cb",
+      "sha1": "97622e087f4870035c76fbaa50f5e75635b5f5b6",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-21T13:51:04.277031-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666385472",
+      "size": "17515",
+      "md5": "daf6a8cf7da7872e428f93117ccbec59",
+      "crc32": "ec34e698",
+      "sha1": "80086f21b7f9aa80373b167c9d4bd9dda0a0e635",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-21T13:51:04.277031-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "windowscentral-2022-10-21T13:51:04.277031-07:00.jpg",
+      "mtime": "1666385526",
+      "size": "10437",
+      "md5": "c29d8bfa2092e76c4157b968ba36cdbf",
+      "crc32": "fc3de55a",
+      "sha1": "e6b75b6cd84f6820418af923cb981b4960eeac4f"
+    },
+    {
+      "name": "windowscentral-2022-10-22T00:15:23.979197-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666422926",
+      "size": "16721",
+      "md5": "9533888f04ead9e914dca0d7e0ff1223",
+      "crc32": "e85a4db6",
+      "sha1": "0e4dd575613193373ee974803ea8754b09813693",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-22T00:15:23.979197-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666422928",
+      "size": "22816",
+      "md5": "8962bf367de35bcffdc8f1b638ef78af",
+      "crc32": "b9332064",
+      "sha1": "1fd149d3a99e3ea10bb749da14d06be2d1f6155a",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-22T00:15:23.979197-07:00.jpg",
+      "source": "original",
+      "mtime": "1666422925",
+      "size": "289882",
+      "md5": "025e86489e8d62dab53bd69d4ca8ba7f",
+      "crc32": "3cc0526d",
+      "sha1": "a0c536cdae94150a6ca7c815eafcf6f41fd05bbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "windowscentral-2022-10-22T00:15:23.979197-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666422929",
+      "size": "1531",
+      "md5": "cce3dcc7dc4cd65e33224c9abc374bf0",
+      "crc32": "1197cc65",
+      "sha1": "67fbcb399d4fc1aa1da1e210bbc1a7e545e05be3",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-22T00:15:23.979197-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666422931",
+      "size": "85738",
+      "md5": "5f4bb8290b897aca379e32a94c042765",
+      "crc32": "4c65fcb8",
+      "sha1": "50fd1b1f5eb43eeed799f443c038e006fbe37f12",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-22T00:15:23.979197-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "windowscentral-2022-10-22T00:15:23.979197-07:00.jpg",
+      "mtime": "1666422985",
+      "size": "10420",
+      "md5": "cb4bc0fe2bd421f8c061cca5a7f1765f",
+      "crc32": "4c1f97fc",
+      "sha1": "93fed0b3d6fcdc2867e82334f1246863bc0a4e1c"
+    },
+    {
       "name": "windowscentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "621aa2819501403b99f3c3794a202051116060f4",
-      "mtime": "1666297022",
-      "size": "221009",
-      "md5": "c84197c05a3820cfa865fac7d8ffe9eb",
-      "crc32": "94539241",
-      "sha1": "6a2f1aad74a9f93c6a4c4a6d5d1960fe832e0fb3",
+      "btih": "d574114655adff6f76ff99356f9bc6fa69240cdf",
+      "mtime": "1666423000",
+      "size": "224899",
+      "md5": "3b6029e16ddd1bec8d2411dcc8bd88a2",
+      "crc32": "a52cdbe9",
+      "sha1": "8bd388693e4e1b3e755ab122fcbf054d12d6855c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "windowscentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db07341aa8ce15a5d3b3d6b0c304a2d8",
+      "md5": "4075420b81d5316dcf7eb0ad44b103ae",
       "summation": "md5"
     },
     {
       "name": "windowscentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666296939",
-      "size": "1310720",
-      "md5": "be0d55f4778865c75e5420a90464014d",
-      "crc32": "67d2664b",
-      "sha1": "15ab0af658567a63ddfa0e1197624417ee4ef10e",
+      "mtime": "1666422934",
+      "size": "1331200",
+      "md5": "66cda6199d578e40b0c7253d92b19943",
+      "crc32": "86d5b756",
+      "sha1": "0d120729e29be1214365861571df004ccd365ce4",
       "format": "Metadata"
     },
     {
@@ -10562,9 +10748,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1021,
-  "item_last_updated": 1666297022,
-  "item_size": 57382478,
+  "files_count": 1039,
+  "item_last_updated": 1666423000,
+  "item_size": 58506166,
   "metadata": {
     "identifier": "windowscentral-2022",
     "collection": [
@@ -10582,7 +10768,7 @@
     "addeddate": "2022-07-25 06:48:02"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 1638068612,
+  "uniq": 1190978938,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"
