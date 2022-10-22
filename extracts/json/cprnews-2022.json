@@ -1,5 +1,5 @@
 {
-  "created": 1666392641,
+  "created": 1666435928,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/cprnews-2022",
@@ -8696,31 +8696,82 @@
       "sha1": "8e93f32ce06bdaa23f765c9dc119250128159d13"
     },
     {
+      "name": "cprnews-2022-10-22T04:50:50.271067-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666435859",
+      "size": "28299",
+      "md5": "5b9eab3a49ef974d5213f9de7a58e2eb",
+      "crc32": "c7345d1b",
+      "sha1": "de9cc70a7f65a60fb61df279e5d12404242cf5c3",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-10-22T04:50:50.271067-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666435860",
+      "size": "16137",
+      "md5": "853c3e1d6a30d69086b3100fd7febff6",
+      "crc32": "1138799b",
+      "sha1": "8784e382392f920290ca7ab281f5de8900bb398c",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-10-22T04:50:50.271067-06:00.jpg",
+      "source": "original",
+      "mtime": "1666435858",
+      "size": "254251",
+      "md5": "8fba7aead4cef6274e02f42661ee9e51",
+      "crc32": "20d44587",
+      "sha1": "8ae0320871fb81cb469b6fe8cd7456157761900a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cprnews-2022-10-22T04:50:50.271067-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666435863",
+      "size": "1423",
+      "md5": "c6eb71b2154c342d096654544c0561c6",
+      "crc32": "e0971bff",
+      "sha1": "8cb5cbdef27f53466c4db9bed54e0d6771f3a188",
+      "format": "JSON"
+    },
+    {
+      "name": "cprnews-2022-10-22T04:50:50.271067-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666435864",
+      "size": "21244",
+      "md5": "263e66a2113abae57c44a6aae3d801a8",
+      "crc32": "e0b453de",
+      "sha1": "977ab0eabf8e21c2eb541437b80591834426ddb2",
+      "format": "JSON"
+    },
+    {
       "name": "cprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3c95fad6c9efa7e349278249efcb31bb1be6d80",
-      "mtime": "1666392618",
-      "size": "177199",
-      "md5": "ab67847f4d978ad4b32883e76b40499e",
-      "crc32": "4df2a8fd",
-      "sha1": "486b90213c6a09d5e57cc8e4372c42232b45859d",
+      "btih": "78493f53a2bdc60babdc1cd69fec0b347efbf5f7",
+      "mtime": "1666435918",
+      "size": "178257",
+      "md5": "d556e673a61b406f3c29571bf3e22bb8",
+      "crc32": "c45cdb24",
+      "sha1": "9fc10b689be9fed5563046eabb92dcce673cf790",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b58a99b3129035ecf0c28d1df455271",
+      "md5": "814eb362ac92f8056c4062f84bb43ad7",
       "summation": "md5"
     },
     {
       "name": "cprnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666392512",
-      "size": "1085440",
-      "md5": "8c68fdc4310980d5c543885ae3df615f",
-      "crc32": "87e5004b",
-      "sha1": "4e2cf7882efe5da1e24b344159c4518cfcfe771c",
+      "mtime": "1666435869",
+      "size": "1089536",
+      "md5": "1ed0d5eac64a40ab5784f3cad32e40c4",
+      "crc32": "cfa2bbb5",
+      "sha1": "f44aa01645912edcc074b39d2e06f6a6c3cd9222",
       "format": "Metadata"
     },
     {
@@ -8734,9 +8785,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 845,
-  "item_last_updated": 1666392618,
-  "item_size": 48674238,
+  "files_count": 850,
+  "item_last_updated": 1666435918,
+  "item_size": 49000746,
   "metadata": {
     "identifier": "cprnews-2022",
     "collection": [
@@ -8753,10 +8804,21 @@
     "publicdate": "2022-08-13 23:51:19",
     "addeddate": "2022-08-13 23:51:19"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1178239086,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3448325247,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1953887105,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }
