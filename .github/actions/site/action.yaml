@@ -24,11 +24,6 @@ runs:
       run: pipenv run python -m newshomepages.site latest-screenshots;
       shell: bash
 
-    - id: git-add-archive
-      name: Consolidate latest files
-      run: pipenv run python -m newshomepages.extract latest-files
-      shell: bash
-
     - id: git-extract-consolidate
       name: Consolidate latest extracts
       run: pipenv run python -m newshomepages.extract consolidate
