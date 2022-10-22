@@ -25,10 +25,10 @@ from . import utils
 )
 def cli(
     handle: str,
-    output_dir: str,
-    wait: str,
-    width: str,
-    height: str,
+    output_dir: str = "./",
+    wait: str = "5000",
+    width: str = "1300",
+    height: str = "1600",
     full_page: bool = False,
 ):
     """Screenshot the provided homepage."""
