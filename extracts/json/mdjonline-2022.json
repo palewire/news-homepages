@@ -1,5 +1,5 @@
 {
-  "created": 1666422613,
+  "created": 1666463511,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/20/items/mdjonline-2022",
@@ -11044,31 +11044,93 @@
       "sha1": "92ae99a2fa3fdad0664ff219c8794af0c357f516"
     },
     {
+      "name": "mdjonline-2022-10-22T13:14:51.371587-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666458902",
+      "size": "45324",
+      "md5": "c6abf7ab910555a7bc5eb593b054e143",
+      "crc32": "35e1673b",
+      "sha1": "11d0e766de73199cd62a3b5fdf21411bbf6fed62",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-10-22T13:14:51.371587-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666458905",
+      "size": "54628",
+      "md5": "a31967b11bc5abfe6700bde0e962fe8c",
+      "crc32": "7c335a2a",
+      "sha1": "a01285bfd29a88958aaca177224c307054f5b4ed",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-10-22T13:14:51.371587-04:00.jpg",
+      "source": "original",
+      "mtime": "1666458899",
+      "size": "263305",
+      "md5": "eaf24174cdc60721c74993167f5216fb",
+      "crc32": "b938335d",
+      "sha1": "32ab84464495e92c9798fe7e26a757b4179219fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdjonline-2022-10-22T13:14:51.371587-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666458907",
+      "size": "1482",
+      "md5": "a5d59d09529cd724ed22c1cad0a02bf7",
+      "crc32": "7d1e9d44",
+      "sha1": "6cd5f991740d0c2fcb4d8c22433b66db85fa7bea",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-10-22T13:14:51.371587-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666458908",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-10-22T13:14:51.371587-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdjonline-2022-10-22T13:14:51.371587-04:00.jpg",
+      "mtime": "1666458988",
+      "size": "9766",
+      "md5": "a3511b7218a72e87831d4678f5596856",
+      "crc32": "7850f309",
+      "sha1": "318fdc3c8a899f6a47d40c85892329518f898d9d"
+    },
+    {
       "name": "mdjonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4937950b185d139329e5192fa973d63c225d3f2c",
-      "mtime": "1666417775",
-      "size": "227623",
-      "md5": "9b233209ac6525abd9d3a08787578130",
-      "crc32": "b3771c5e",
-      "sha1": "eb0de75c370115e31f457b633857921bc4c17cbf",
+      "btih": "83bd6500c407b4e5404090af42896ecf570c43da",
+      "mtime": "1666459022",
+      "size": "228894",
+      "md5": "46aebe0379655b1d3dc70ea73c60ae41",
+      "crc32": "8b3bb879",
+      "sha1": "dc442f8086bef1d42607633d3826e420b65cc34b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdjonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f731b59bdc29693e3a15e67b09a5aa90",
+      "md5": "1a18ac57b5bf50977bfefcb3afd83da4",
       "summation": "md5"
     },
     {
       "name": "mdjonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666417642",
-      "size": "1359872",
-      "md5": "73772f33a0fbaea15bd2f491d4f61ab5",
-      "crc32": "50a0ac75",
-      "sha1": "ceb31a9c8a65b0f3bc902410e7b36d8c7675c93b",
+      "mtime": "1666458913",
+      "size": "1372160",
+      "md5": "f686fc49f2e2361b17bebb83355c12ab",
+      "crc32": "738d0f19",
+      "sha1": "fef3c5129152d2d89fe8aee9251d59dd65f50386",
       "format": "Metadata"
     },
     {
@@ -11082,9 +11144,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1071,
-  "item_last_updated": 1666417775,
-  "item_size": 88061772,
+  "files_count": 1077,
+  "item_last_updated": 1666459022,
+  "item_size": 88450038,
   "mdjonline-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
@@ -11106,10 +11168,10 @@
     "publicdate": "2022-07-20 23:31:19",
     "addeddate": "2022-07-20 23:31:19"
   },
-  "server": "ia601502.us.archive.org",
-  "uniq": 837295220,
+  "server": "ia801502.us.archive.org",
+  "uniq": 67154816,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

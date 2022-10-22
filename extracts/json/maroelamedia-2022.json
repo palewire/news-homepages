@@ -1,5 +1,5 @@
 {
-  "created": 1666417815,
+  "created": 1666459170,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/32/items/maroelamedia-2022",
@@ -7384,31 +7384,93 @@
       "sha1": "16995fcad021a2cfa5ac0786d8122c2672b1e5f2"
     },
     {
+      "name": "maroelamedia-2022-10-22T19:15:02.961089+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666458909",
+      "size": "31871",
+      "md5": "9cf1277808552af2fb31d438b6ce13b5",
+      "crc32": "3538f09b",
+      "sha1": "0d38ff39bf5458babb8be1aace77af6ed0c6e7a8",
+      "format": "JSON"
+    },
+    {
+      "name": "maroelamedia-2022-10-22T19:15:02.961089+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666458911",
+      "size": "37061",
+      "md5": "4a5ca71116aeb8c469dd120c1e8a8042",
+      "crc32": "e1febfb3",
+      "sha1": "a1bc8b4ce208e38c0b91b1cbda6f846133745858",
+      "format": "JSON"
+    },
+    {
+      "name": "maroelamedia-2022-10-22T19:15:02.961089+02:00.jpg",
+      "source": "original",
+      "mtime": "1666458907",
+      "size": "330839",
+      "md5": "0fcf37d7cfcda0727bfcbb2fc99ac768",
+      "crc32": "c5672a78",
+      "sha1": "0cf91e3a3903938be51f361e867829bbdd3f2933",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "maroelamedia-2022-10-22T19:15:02.961089+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666458913",
+      "size": "1494",
+      "md5": "1bf7133730792c9d51431bdb74d6723e",
+      "crc32": "bf3fe863",
+      "sha1": "aa32cba6bce26899dd92fca804a8add1e908d4b3",
+      "format": "JSON"
+    },
+    {
+      "name": "maroelamedia-2022-10-22T19:15:02.961089+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666458915",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "maroelamedia-2022-10-22T19:15:02.961089+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maroelamedia-2022-10-22T19:15:02.961089+02:00.jpg",
+      "mtime": "1666459003",
+      "size": "9916",
+      "md5": "c5d4706ae3a281236821135a2d16f5e7",
+      "crc32": "013a9bed",
+      "sha1": "2106ba7c5754370c9675ab0a76807051323dfd41"
+    },
+    {
       "name": "maroelamedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9042f5a34f5602cecf343ba2c71768fbd8ef5a4c",
-      "mtime": "1666417777",
-      "size": "154635",
-      "md5": "ae1895274a36239debcedf0a283ab10f",
-      "crc32": "29d48fa5",
-      "sha1": "930bbca1e92c3042cf78e934f4b7bfafa2e5dd7d",
+      "btih": "d25d6afbd75dc85cb198a1022280e2061fa79422",
+      "mtime": "1666459033",
+      "size": "155924",
+      "md5": "7f80229e38da4210f6283ef6146ec5a2",
+      "crc32": "efd6b2ce",
+      "sha1": "19384d75f89e462b3152261d8c469616b3b2b2b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "maroelamedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "990f9441f865ee8a37cc45cb08d42736",
+      "md5": "331daf2b08b69465d5c310d012edc748",
       "summation": "md5"
     },
     {
       "name": "maroelamedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666417627",
-      "size": "925696",
-      "md5": "7c3ae64af545b2b0d4640d04af8062bf",
-      "crc32": "06b41209",
-      "sha1": "4e0e96fb90196b366ccc3959ff448d87af9dc732",
+      "mtime": "1666458922",
+      "size": "933888",
+      "md5": "ae4f4b99a053e4c730324e0925f89960",
+      "crc32": "662f4015",
+      "sha1": "ad50e02c2ebd2be0e48a942afffbbd3d20255338",
       "format": "Metadata"
     },
     {
@@ -7422,9 +7484,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 718,
-  "item_last_updated": 1666417777,
-  "item_size": 52315454,
+  "files_count": 724,
+  "item_last_updated": 1666459033,
+  "item_size": 52736318,
   "metadata": {
     "identifier": "maroelamedia-2022",
     "collection": [
@@ -7442,7 +7504,7 @@
     "addeddate": "2022-08-22 22:03:37"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 679705036,
+  "uniq": 928013435,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"
