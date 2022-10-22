@@ -31,6 +31,19 @@ runs:
       name: Install Python dependencies
       uses: ./.github/actions/install
 
+    - uses: actions/download-artifact@v3
+      with:
+        name: screenshots
+        path: ./latest-screenshots
+
+    - uses: shallwefootball/s3-upload-action@master
+      with:
+        aws_key_id: ${{ inputs.s3-access-key-id }}
+        aws_secret_access_key: ${{ inputs.s3-secret-access-key }}
+        aws_bucket: ${{ inputs.s3-bucket-name }}
+        source_dir: './latest-screenshots/'
+        destination_dir: "./latest-screenshots/"
+
     - id: configure-github
       name: Configure GitHub
       run: |
@@ -44,47 +57,6 @@ runs:
       run: git pull origin $GITHUB_REF
       shell: bash
 
-    - uses: actions/download-artifact@v3
-      with:
-        name: screenshots
-        path: ./latest-screenshots
-
-    # - uses: actions/download-artifact@v3
-    #   with:
-    #     name: archive
-    #     path: ./newshomepages/sources/latest/
-
-    - uses: shallwefootball/s3-upload-action@master
-      with:
-        aws_key_id: ${{ inputs.s3-access-key-id }}
-        aws_secret_access_key: ${{ inputs.s3-secret-access-key }}
-        aws_bucket: ${{ inputs.s3-bucket-name }}
-        source_dir: './latest-screenshots/'
-        destination_dir: "./latest-screenshots/"
-
-    # - id: git-commit
-    #   name: Commit latest screenshots
-    #   run: |
-    #     git add ./latest-screenshots/*.jpg
-    #     git commit -m "Latest screenshots" --author="palewire <palewire@users.noreply.github.com>"
-    #     git pull origin $GITHUB_REF
-    #     git pull origin $GITHUB_REF
-    #     git push
-    #   shell: bash
-
-    # - id: git-commit-archive
-    #   name: Commit latest archive.org urls
-    #   run: |
-    #     git stash
-    #     git pull origin $GITHUB_REF
-    #     git stash apply
-    #     git add ./newshomepages/sources/latest
-    #     git commit -m "Latest archive.org urls" --author="palewire <palewire@users.noreply.github.com>"
-    #     git pull origin $GITHUB_REF
-    #     git pull origin $GITHUB_REF
-    #     git push
-    #   shell: bash
-
     - id: download-items
       name: Download archive.org items
       run: pipenv run python -m newshomepages.extract download-items ${{ inputs.download-items-command }}
@@ -97,13 +69,8 @@ runs:
     - id: git-commit-items
       name: Commit archive.org items
       run: |
-          git stash
-          git pull origin $GITHUB_REF
-          git pull origin $GITHUB_REF
-          git stash apply
           git add ./extracts
           git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>"
-          git pull origin $GITHUB_REF
           git pull origin $GITHUB_REF
           git push
       shell: bash
