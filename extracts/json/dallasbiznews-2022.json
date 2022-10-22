@@ -1,5 +1,5 @@
 {
-  "created": 1666438919,
+  "created": 1666482392,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/15/items/dallasbiznews-2022",
@@ -11458,31 +11458,93 @@
       "sha1": "a8ba8bd927107882c676aca6c295e5ca8272768e"
     },
     {
+      "name": "dallasbiznews-2022-10-22T18:44:14.472835-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666482275",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-10-22T18:44:14.472835-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666482277",
+      "size": "20969",
+      "md5": "1eb78397f0996dd61bb943d06899847a",
+      "crc32": "76b74701",
+      "sha1": "b383e539068587e3c73227e16027803151a9c474",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-10-22T18:44:14.472835-05:00.jpg",
+      "source": "original",
+      "mtime": "1666482273",
+      "size": "234268",
+      "md5": "74b4166c63debf2243019a82f5c917bd",
+      "crc32": "035b2e38",
+      "sha1": "ea8f9196a63f578e9bc9cac13fcd8ba5730ed4b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasbiznews-2022-10-22T18:44:14.472835-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666482278",
+      "size": "1566",
+      "md5": "00a53d4dc308c512d4c0e6c4344cb723",
+      "crc32": "5c90a287",
+      "sha1": "5d59c9ed4d4eb967da716c511a050f2b13afe037",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-10-22T18:44:14.472835-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666482280",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-10-22T18:44:14.472835-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasbiznews-2022-10-22T18:44:14.472835-05:00.jpg",
+      "mtime": "1666482357",
+      "size": "8720",
+      "md5": "6160bcd9ba634a13496868420ae5333a",
+      "crc32": "d98e1e87",
+      "sha1": "76d4645f3392b444f52742d6a8e79f9ed55acc19"
+    },
+    {
       "name": "dallasbiznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bfa6e2e03be42f9cffa51f32e6782ecff57e6695",
-      "mtime": "1666438898",
-      "size": "239623",
-      "md5": "1271281f601126a5034694b0e8e5c70b",
-      "crc32": "5ff60e26",
-      "sha1": "b9fbd7f354a731d0e81ededbf97948df3824530b",
+      "btih": "0909149527d3d73bb5126b954ca59b581423ec3c",
+      "mtime": "1666482377",
+      "size": "240916",
+      "md5": "020ffb5284bf365d39c63ccd44aa764f",
+      "crc32": "59225c48",
+      "sha1": "b28d9715671ae4326e01b909e3f8e128b1850da9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasbiznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "529efbc31c1647a2594ec7479a907e13",
+      "md5": "35a49cb51f41e7629eeb9a89b23a3e9b",
       "summation": "md5"
     },
     {
       "name": "dallasbiznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666438784",
-      "size": "1417216",
-      "md5": "740ecf9dbc9400ad59889e3668585f48",
-      "crc32": "3bfc12e6",
-      "sha1": "4209e7b99ad95c0ce5496d7e449d9660b162f4e9",
+      "mtime": "1666482285",
+      "size": "1425408",
+      "md5": "a5fbcc98d135bd2e7095683d0334cbfb",
+      "crc32": "960a5069",
+      "sha1": "11bd0132057872f4400eb2b6cdce46a86d1becd8",
       "format": "Metadata"
     },
     {
@@ -11496,9 +11558,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1111,
-  "item_last_updated": 1666438898,
-  "item_size": 80304294,
+  "files_count": 1117,
+  "item_last_updated": 1666482377,
+  "item_size": 80579644,
   "metadata": {
     "identifier": "dallasbiznews-2022",
     "collection": [
@@ -11516,7 +11578,7 @@
     "addeddate": "2022-07-18 00:04:04"
   },
   "server": "ia801507.us.archive.org",
-  "uniq": 1058969434,
+  "uniq": 1661564398,
   "workable_servers": [
     "ia801507.us.archive.org",
     "ia601507.us.archive.org"

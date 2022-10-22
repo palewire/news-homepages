@@ -1,5 +1,5 @@
 {
-  "created": 1666439034,
+  "created": 1666482751,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/26/items/france24-2022",
@@ -24974,31 +24974,93 @@
       "sha1": "348b15a3c188eb86ae91d4d405886041722406bd"
     },
     {
+      "name": "france24-2022-10-23T01:49:42.953076+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666482586",
+      "size": "26737",
+      "md5": "5f65eb6f78df15081500758d07d74e47",
+      "crc32": "15e40353",
+      "sha1": "82396e7e3f8cb27b1dba45bceac229fa8a5d9721",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-10-23T01:49:42.953076+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666482587",
+      "size": "46938",
+      "md5": "e0a9da9f1083f61b251f74d9ff310727",
+      "crc32": "22e2aaac",
+      "sha1": "19022095c6d2b5c9a639a0d67d20e0dfa7d1e6da",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-10-23T01:49:42.953076+02:00.jpg",
+      "source": "original",
+      "mtime": "1666482584",
+      "size": "245189",
+      "md5": "608c638a66d37f4cedf15851deb3f26c",
+      "crc32": "e0679545",
+      "sha1": "3e9cb1f3544bfc44e25269a164b3c0ebcd76f536",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24-2022-10-23T01:49:42.953076+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666482589",
+      "size": "1497",
+      "md5": "c2b895182485f7815647302b3d59ab77",
+      "crc32": "2005e42e",
+      "sha1": "308430bb30c19292128f98c1248bf62a6bbd954a",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-10-23T01:49:42.953076+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666482591",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "france24-2022-10-23T01:49:42.953076+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-10-23T01:49:42.953076+02:00.jpg",
+      "mtime": "1666482687",
+      "size": "9428",
+      "md5": "551104e144ab34752530ba3b4a439ecd",
+      "crc32": "3a989cdd",
+      "sha1": "b5a42ecbe3d7d8cf28726025f990bd40fff21e20"
+    },
+    {
       "name": "france24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6be9da3dbf51a17881a02a2459c08d99f03fd779",
-      "mtime": "1666439021",
-      "size": "506146",
-      "md5": "30742ebf18f0c4a6ac321113e29a3a70",
-      "crc32": "26e1e80f",
-      "sha1": "415abaf892a8284363579973f245da7a27f4b105",
+      "btih": "f66429514e315d11441e4b683aa7b0b527f0e2c4",
+      "mtime": "1666482732",
+      "size": "507411",
+      "md5": "91c713afadd22577449e8d23650431e1",
+      "crc32": "72cbd2a6",
+      "sha1": "0dc6b3e8faeb0e6ee32ef9ea9075800e3e3f3525",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e178747033859970a1d4a44e156d1b0",
+      "md5": "46de6c5d3f79bd09b2534f691324a8f0",
       "summation": "md5"
     },
     {
       "name": "france24-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666438883",
-      "size": "2949120",
-      "md5": "78b6b57fdd2ae06613075e4e9d28be87",
-      "crc32": "83377c31",
-      "sha1": "f2a50b4e2c76e521bcb9a9c4fed9fda48b415e18",
+      "mtime": "1666482596",
+      "size": "2953216",
+      "md5": "45c85f16b1b128fa3339fc6e757871ce",
+      "crc32": "273fc629",
+      "sha1": "a97d984b9d81ae09a0e1b888aac15eb09c8861db",
       "format": "Metadata"
     },
     {
@@ -25012,9 +25074,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2406,
-  "item_last_updated": 1666439021,
-  "item_size": 161679757,
+  "files_count": 2412,
+  "item_last_updated": 1666482732,
+  "item_size": 162015109,
   "metadata": {
     "identifier": "france24-2022",
     "collection": [
@@ -25032,7 +25094,7 @@
     "addeddate": "2022-04-09 13:41:21"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 192245519,
+  "uniq": 644416377,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

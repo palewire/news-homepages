@@ -1,5 +1,5 @@
 {
-  "created": 1666438894,
+  "created": 1666482489,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/destinlog-2022",
@@ -4046,31 +4046,93 @@
       "sha1": "062322ad5e0b8e57bcdb5ce316cf76be493c0098"
     },
     {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666482415",
+      "size": "22442",
+      "md5": "724c1438e3c3c28a836e94a4aa84d58a",
+      "crc32": "9219c329",
+      "sha1": "7389b72d735c740443540bc142e9b135df2e46f0",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666482417",
+      "size": "40632",
+      "md5": "054e2285f54f63f4dc40aec10cdb34a6",
+      "crc32": "1ab21e65",
+      "sha1": "6f6a72f86b7217a2311ec43ce3b3656009bbccd0",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.jpg",
+      "source": "original",
+      "mtime": "1666482414",
+      "size": "240780",
+      "md5": "d28316c11eff12fec45fbbb613a4ff10",
+      "crc32": "284070ce",
+      "sha1": "c43fedd2d013b7b0d6cfe926d254e46cd10045cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666482419",
+      "size": "1513",
+      "md5": "d863ea2cabb37d3688cf328ed29b8ed7",
+      "crc32": "275619bc",
+      "sha1": "0d4336b53526592aa97d7a7fc17516195de9c320",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666482420",
+      "size": "90676",
+      "md5": "8216bf25760c526cd83619bdc5a318ee",
+      "crc32": "6288109c",
+      "sha1": "954d474752388560109acc56e0db7a5b44d05de6",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-22T18:46:47.727388-05:00.jpg",
+      "mtime": "1666482476",
+      "size": "9302",
+      "md5": "fdf0b8103c7301010f7994f6aab3c4ae",
+      "crc32": "21e0c5a0",
+      "sha1": "3e1ef5f654cddce4ba1cc225a1827e17165887b1"
+    },
+    {
       "name": "destinlog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0bd697061b70d8e371ae78518c0dfe09fd61c06",
-      "mtime": "1666438879",
-      "size": "84109",
-      "md5": "d2caf85e1625ccc3290f43eaa700c420",
-      "crc32": "76d0424e",
-      "sha1": "042624463e85b9c55059e4ba919efef021a4ce89",
+      "btih": "329b18ed0e33d365ffadfc9b2f03e17bb2ad55a4",
+      "mtime": "1666482482",
+      "size": "85382",
+      "md5": "48581e1f7da976db3d3b4e310f84d3bc",
+      "crc32": "7f4432d2",
+      "sha1": "c5208d35a93cf313e974611fbad12091bd6fad64",
       "format": "Archive BitTorrent"
     },
     {
       "name": "destinlog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "048118d081a0a9307b0872ef0c6d6cd5",
+      "md5": "921d3374ec28d54b5f6a54ae7cf81a6f",
       "summation": "md5"
     },
     {
       "name": "destinlog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666438804",
-      "size": "520192",
-      "md5": "10ffd1d160607f9c18efb6550c44f50e",
-      "crc32": "000fafa4",
-      "sha1": "6444cf6e79227afa01933fc612a640842feaef4d",
+      "mtime": "1666482424",
+      "size": "524288",
+      "md5": "9b5ae1fba38b8bf692abf63f0e3a2860",
+      "crc32": "f3b70321",
+      "sha1": "8b455bd20de5c32259d74bf9ef3ce1f83fe262b6",
       "format": "Metadata"
     },
     {
@@ -4084,9 +4146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 395,
-  "item_last_updated": 1666438879,
-  "item_size": 27823805,
+  "files_count": 401,
+  "item_last_updated": 1666482482,
+  "item_size": 28234519,
   "metadata": {
     "identifier": "destinlog-2022",
     "collection": [
@@ -4103,10 +4165,10 @@
     "publicdate": "2022-09-20 22:15:36",
     "addeddate": "2022-09-20 22:15:36"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 2080435034,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1983880855,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

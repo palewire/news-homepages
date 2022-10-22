@@ -1,5 +1,6 @@
 {
-  "created": 1666438986,
+  "conflict": 1666482656,
+  "created": 1666482656,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/flphoenixnews-2022",
@@ -15080,31 +15081,93 @@
       "sha1": "c32ef52da7c81daf92456325bf57acf604ebb0ff"
     },
     {
+      "name": "flphoenixnews-2022-10-22T19:46:45.396955-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666482416",
+      "size": "16245",
+      "md5": "56c027a8bc8d2afccada184db9475e8d",
+      "crc32": "aa4f64bd",
+      "sha1": "a208ed4a96f170e69aa913429051ffc7c62e5ed5",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-10-22T19:46:45.396955-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666482417",
+      "size": "14017",
+      "md5": "0647b2d41c0a800570b6f32c55ed5715",
+      "crc32": "4c3cac1b",
+      "sha1": "130ed16dfd7740b313be340cc75d8fec9551ca8c",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-10-22T19:46:45.396955-04:00.jpg",
+      "source": "original",
+      "mtime": "1666482414",
+      "size": "367109",
+      "md5": "65ddcdf115da7813a3324774bb8924b1",
+      "crc32": "dd2f04cd",
+      "sha1": "0c1a16d2e68377075ce2c361590ca772c6f4b096",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flphoenixnews-2022-10-22T19:46:45.396955-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666482419",
+      "size": "1494",
+      "md5": "34198f6d4f802a743850a70d51f03c63",
+      "crc32": "99b10bad",
+      "sha1": "397edf9e00c7338d4d9f4e754be78b7479448705",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-10-22T19:46:45.396955-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666482421",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-10-22T19:46:45.396955-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flphoenixnews-2022-10-22T19:46:45.396955-04:00.jpg",
+      "mtime": "1666482538",
+      "size": "10383",
+      "md5": "b3acddf30ac8474add34786fa5d21616",
+      "crc32": "65c2576a",
+      "sha1": "9f9eed9291a4b3498fb7c9c8ecd6329f4becdde8"
+    },
+    {
       "name": "flphoenixnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "411707096bd723e1a2db9db2afe6bfddacaf59c0",
-      "mtime": "1666438961",
-      "size": "314341",
-      "md5": "784c56acc3132c4cf3b58cb24e0d7073",
-      "crc32": "445a2042",
-      "sha1": "4a63a4a82e5200aff9c86a5859f549cc39985817",
+      "btih": "370dc7eef50242056e88a076b0bda7ef38d8310a",
+      "mtime": "1666482619",
+      "size": "315637",
+      "md5": "34ec82d4f7bcd122d6ff1636961c909d",
+      "crc32": "e67f39ca",
+      "sha1": "6d43e850ebd1fd59e5750f18d0c093dfc1ba22a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flphoenixnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34a20b230eacba10153ca4c810721ed1",
+      "md5": "7aca8f1fde64688ea1633a30aec765d1",
       "summation": "md5"
     },
     {
       "name": "flphoenixnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666438844",
-      "size": "1814528",
-      "md5": "99e39a5176c5d86ee54b2f333877ac98",
-      "crc32": "15121217",
-      "sha1": "5c7946eedbf60c5148c95df6db338eff2ff374c1",
+      "mtime": "1666482425",
+      "size": "1818624",
+      "md5": "16db7f482f68555f1e36eb707afa15ae",
+      "crc32": "fe66f2ff",
+      "sha1": "27c2c7431fe76f4258b294245aa74db84fcff811",
       "format": "Metadata"
     },
     {
@@ -15118,9 +15181,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1456,
-  "item_last_updated": 1666438961,
-  "item_size": 104011075,
+  "files_count": 1462,
+  "item_last_updated": 1666482619,
+  "item_size": 104425917,
   "metadata": {
     "identifier": "flphoenixnews-2022",
     "collection": [
@@ -15137,10 +15200,29 @@
     "publicdate": "2022-06-19 23:24:00",
     "addeddate": "2022-06-19 23:24:00"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1152371557,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3448755640,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3448756906,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 100832726,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

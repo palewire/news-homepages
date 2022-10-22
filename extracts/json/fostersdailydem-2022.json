@@ -1,5 +1,5 @@
 {
-  "created": 1666438974,
+  "created": 1666482739,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/fostersdailydem-2022",
@@ -4016,31 +4016,93 @@
       "sha1": "b3f40ce811831a3811ff7c5cde986870b4392087"
     },
     {
+      "name": "fostersdailydem-2022-10-22T19:50:00.760461-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666482605",
+      "size": "22841",
+      "md5": "d595db99c0d8b45634881d83f09479fa",
+      "crc32": "77899596",
+      "sha1": "052ce8c11caa2f76c62c75e872c92e8c3ae447fa",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-22T19:50:00.760461-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666482607",
+      "size": "28166",
+      "md5": "cd6a53ddcb87606240543f1d641db61c",
+      "crc32": "bbe6adf3",
+      "sha1": "67c8f12192cb4c250ccfe505a35eaab59c483583",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-22T19:50:00.760461-04:00.jpg",
+      "source": "original",
+      "mtime": "1666482604",
+      "size": "291658",
+      "md5": "ce6047ebed35283cb80aa651a4429b77",
+      "crc32": "80c92dcd",
+      "sha1": "5dd712d4afca512fee9be056e6ab8c7d296ba768",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fostersdailydem-2022-10-22T19:50:00.760461-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666482608",
+      "size": "1468",
+      "md5": "b14225c51f4c2ca0fdb31c59ef67935b",
+      "crc32": "f356eef7",
+      "sha1": "dcb8ea5e9e42ac89f77bc5e25150693fecaefa68",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-22T19:50:00.760461-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666482609",
+      "size": "72132",
+      "md5": "2955f7d7e05f09a7f7cb8ef9bc1474b7",
+      "crc32": "e8dd157c",
+      "sha1": "388277ede38bbbeef667c24e92667bb24718edcb",
+      "format": "JSON"
+    },
+    {
+      "name": "fostersdailydem-2022-10-22T19:50:00.760461-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fostersdailydem-2022-10-22T19:50:00.760461-04:00.jpg",
+      "mtime": "1666482693",
+      "size": "9676",
+      "md5": "226724bb65d9c48ebfd3e2f55d97da81",
+      "crc32": "2209264b",
+      "sha1": "904107575aa53d19c9c8c859145c1c28713a020f"
+    },
+    {
       "name": "fostersdailydem-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0fb32aaa8fa3fcc0c18b455446eb695a759157cd",
-      "mtime": "1666438963",
-      "size": "85783",
-      "md5": "7feaba3597de8ae66e4b3c94d902543d",
-      "crc32": "d32cdd86",
-      "sha1": "dbd61a30ccc9cc61613ce68b7a7f421f5aa4644e",
+      "btih": "a942d090af7217553f5405039ccc8acbb56aeaf9",
+      "mtime": "1666482714",
+      "size": "87092",
+      "md5": "1c25f8894db4c756d69c9cae1fe3db49",
+      "crc32": "89865d7b",
+      "sha1": "5ff1ba699f909ae40eedb81cce927a98d51552e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fostersdailydem-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7f49ece2fc7ad44654d0a9f0708b633e",
+      "md5": "f886e7bd4d3f493a255018bd4debdebe",
       "summation": "md5"
     },
     {
       "name": "fostersdailydem-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666438856",
-      "size": "516096",
-      "md5": "d9c16983222a7b2410eeafe46de25b2f",
-      "crc32": "e17ff027",
-      "sha1": "d92d2469ec6d15b12b187b522a424336d5396a11",
+      "mtime": "1666482618",
+      "size": "520192",
+      "md5": "46ce45b7efd78ef1dae6ca5ba280ea54",
+      "crc32": "c6f6e56a",
+      "sha1": "876e97689de59e6f2f10db6488a6043f1316b7b8",
       "format": "Metadata"
     },
     {
@@ -4054,9 +4116,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 392,
-  "item_last_updated": 1666438963,
-  "item_size": 26519751,
+  "files_count": 398,
+  "item_last_updated": 1666482714,
+  "item_size": 26951097,
   "metadata": {
     "identifier": "fostersdailydem-2022",
     "collection": [
@@ -4074,7 +4136,7 @@
     "addeddate": "2022-09-20 22:17:24"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 509684700,
+  "uniq": 1100845861,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"
