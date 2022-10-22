@@ -1,5 +1,6 @@
 {
-  "created": 1666365313,
+  "conflict": 1666404424,
+  "created": 1666404424,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/2/items/nhk_news-2022",
@@ -15348,31 +15349,78 @@
       "sha1": "d86269e163b292a6a5f4486a9973e606e359f0b8"
     },
     {
+      "name": "nhk_news-2022-10-22T11:05:22.083559+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666404329",
+      "size": "16569",
+      "md5": "d1344295a761350912e52c2d2b742caa",
+      "crc32": "e93c03c8",
+      "sha1": "7c714ee9d05afb5caf781579454ff76658926f7b",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-22T11:05:22.083559+09:00.jpg",
+      "source": "original",
+      "mtime": "1666404328",
+      "size": "264796",
+      "md5": "565b8f3581c97045f0b3c81d87fb30fc",
+      "crc32": "19c3407d",
+      "sha1": "df99bf96e5761392ef5110ac2733ae4dc533a519",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhk_news-2022-10-22T11:05:22.083559+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666404331",
+      "size": "1504",
+      "md5": "26a2d18373db5d87e987e1a93ad273d4",
+      "crc32": "3204cc24",
+      "sha1": "fcc888ad75e235e22f56c1122369c598c5ad2c11",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-22T11:05:22.083559+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1666404332",
+      "size": "15490",
+      "md5": "5de78f23de13e02db5dea98629c3e04f",
+      "crc32": "830b99fd",
+      "sha1": "708a177a618f3104ec6a9345df81e3ad321b11c6",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-22T11:05:22.083559+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhk_news-2022-10-22T11:05:22.083559+09:00.jpg"
+    },
+    {
       "name": "nhk_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "583ae4e5e3ebcaac81699be0fec683960964b2fc",
-      "mtime": "1666365303",
-      "size": "309218",
-      "md5": "f2aba7311532c6a9e2c747f8d5f57e56",
-      "crc32": "17e40d10",
-      "sha1": "49973328119dfdfe64de4252c8c18d6ae63a11f1",
+      "btih": "6eb33d24fb9ee4a8b2daea7b3945bfff49e621d9",
+      "mtime": "1666404391",
+      "size": "310067",
+      "md5": "1a6bb999ab498a2d7c625686bdaf842a",
+      "crc32": "f65b280d",
+      "sha1": "c7002fe095496568c15d8be53acec897ea97bd4c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhk_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "54005a14de91dfa04f6cdc742fa8f509",
+      "md5": "9ac0bbacd28683be840bfd5929e9fefe",
       "summation": "md5"
     },
     {
       "name": "nhk_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666365214",
-      "size": "1777664",
-      "md5": "6870ce6e1caada4acc9899f735374e8c",
-      "crc32": "f40083b8",
-      "sha1": "2912189c285e5d70beb5522cb2c4bfa99d1d9da1",
+      "mtime": "1666404337",
+      "size": "1781760",
+      "md5": "6e0610dde22e9b219c4079266de7d51a",
+      "crc32": "85d5bdea",
+      "sha1": "f0565899e72ecec17482e29c454df9af9cea9fea",
       "format": "Metadata"
     },
     {
@@ -15386,9 +15434,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1476,
-  "item_last_updated": 1666365303,
-  "item_size": 100676720,
+  "files_count": 1481,
+  "item_last_updated": 1666404391,
+  "item_size": 100980024,
   "metadata": {
     "identifier": "nhk_news-2022",
     "collection": [
@@ -15405,10 +15453,21 @@
     "publicdate": "2022-07-09 02:39:07",
     "addeddate": "2022-07-09 02:39:07"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 1956064236,
+  "pending_tasks": true,
+  "server": "ia902506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3448015879,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 557088274,
   "workable_servers": [
-    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }
