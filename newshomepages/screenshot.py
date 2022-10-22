@@ -21,7 +21,7 @@ from . import utils
     "full_page",
     is_flag=True,
     default=False,
-    help="Screenshot the whole page or just a part of it.",
+    help="Screenshot the whole page",
 )
 def cli(
     handle: str,
@@ -29,7 +29,7 @@ def cli(
     wait: str,
     width: str,
     height: str,
-    full_page: bool,
+    full_page: bool = False,
 ):
     """Screenshot the provided homepage."""
     site = utils.get_site(handle)
