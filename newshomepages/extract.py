@@ -5,13 +5,11 @@ import pathlib
 import re
 import time
 from datetime import datetime
-from json.decoder import JSONDecodeError
 from urllib.parse import urlparse
 
 import click
 import internetarchive
 import pandas as pd
-import pytz
 import requests
 from requests.adapters import HTTPAdapter, Retry
 from rich import print
