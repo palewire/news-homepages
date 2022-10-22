@@ -1,5 +1,5 @@
 {
-  "created": 1666435812,
+  "created": 1666479141,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/28/items/arknewsorg-2022",
@@ -12362,31 +12362,93 @@
       "sha1": "d9f7026156a4249fce937eac93e3d58257771ec6"
     },
     {
+      "name": "arknewsorg-2022-10-22T17:49:41.635126-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666478984",
+      "size": "15526",
+      "md5": "678b846ff08f976d56b5d76c722a7437",
+      "crc32": "23d8a0cf",
+      "sha1": "e76153223421ea4ace9ad6f3273b529830bb424d",
+      "format": "JSON"
+    },
+    {
+      "name": "arknewsorg-2022-10-22T17:49:41.635126-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666478986",
+      "size": "11170",
+      "md5": "34f8b62450f961d0973cb0c09a3faaae",
+      "crc32": "9d7df122",
+      "sha1": "8beead838fa0006f98de9afe11c7edc3d7e28dac",
+      "format": "JSON"
+    },
+    {
+      "name": "arknewsorg-2022-10-22T17:49:41.635126-05:00.jpg",
+      "source": "original",
+      "mtime": "1666478983",
+      "size": "253424",
+      "md5": "4bb6111978ff2d66b1cf280e76ac8bb3",
+      "crc32": "91b3778a",
+      "sha1": "0d69867ab6520992b6b5d2c85755353303ab44cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arknewsorg-2022-10-22T17:49:41.635126-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666478987",
+      "size": "1431",
+      "md5": "682dfd02e53e2ca1cd3bb81cae5afa39",
+      "crc32": "903e64b2",
+      "sha1": "337a512dfec75c05e52583f99c5294b01779d29d",
+      "format": "JSON"
+    },
+    {
+      "name": "arknewsorg-2022-10-22T17:49:41.635126-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666478989",
+      "size": "6346",
+      "md5": "e0192e56d3fa93fd7ddcca8713ca37d5",
+      "crc32": "c8ad948d",
+      "sha1": "5c54210c4c6d2dde36cdace4c5ffb8254310c5a6",
+      "format": "JSON"
+    },
+    {
+      "name": "arknewsorg-2022-10-22T17:49:41.635126-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arknewsorg-2022-10-22T17:49:41.635126-05:00.jpg",
+      "mtime": "1666479078",
+      "size": "9848",
+      "md5": "f2525fb891767cb5a5dbc176e80482ba",
+      "crc32": "b0ffa60b",
+      "sha1": "d9f7026156a4249fce937eac93e3d58257771ec6"
+    },
+    {
       "name": "arknewsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2baa66ad8945fd8d887d50cb6f6084e57e4dd1b3",
-      "mtime": "1666435793",
-      "size": "253937",
-      "md5": "ae51bedf0c10ad8ff4642611727e022e",
-      "crc32": "dc26fb1b",
-      "sha1": "00809d26644a86f2ecfc1e918fa20213a7015324",
+      "btih": "c051cb3fe2b027c68f22602aaf5247bf73f60b37",
+      "mtime": "1666479101",
+      "size": "255215",
+      "md5": "798382eb15a2ba8848f61d36c8e3b7bc",
+      "crc32": "76f1707a",
+      "sha1": "0d62dda04cfb9a45a58ba28d08d4701906d0d988",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arknewsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8fbb4691d7e78dbceaa48e439266503d",
+      "md5": "c7526eac18fe38c9a8d28cb023dc645c",
       "summation": "md5"
     },
     {
       "name": "arknewsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666435705",
-      "size": "1515520",
-      "md5": "8e33b06b73d377b9b2a575cb4f47accf",
-      "crc32": "ec1b37bc",
-      "sha1": "9acdad79956882e0d57bdb8130a9bcba935d79e9",
+      "mtime": "1666478996",
+      "size": "1519616",
+      "md5": "5350d6b2fce0b3d5fba0cdb67dc34a26",
+      "crc32": "4508cbf7",
+      "sha1": "a83329ed677c0f851118b16d2e708ceeb307e2fe",
       "format": "Metadata"
     },
     {
@@ -12400,9 +12462,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1197,
-  "item_last_updated": 1666435793,
-  "item_size": 64506972,
+  "files_count": 1203,
+  "item_last_updated": 1666479101,
+  "item_size": 64810091,
   "metadata": {
     "identifier": "arknewsorg-2022",
     "collection": [
@@ -12419,10 +12481,10 @@
     "publicdate": "2022-07-09 03:55:37",
     "addeddate": "2022-07-09 03:55:37"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 195255379,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1484159765,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }
