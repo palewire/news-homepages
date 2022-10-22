@@ -1,5 +1,5 @@
 {
-  "created": 1666359102,
+  "created": 1666401182,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/midnight_sun_ak-2022",
@@ -4914,31 +4914,93 @@
       "sha1": "2a0a2d18bab7014e9267afbbfc039d02e70ea8d3"
     },
     {
+      "name": "midnight_sun_ak-2022-10-21T17:11:44.547542-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666401107",
+      "size": "15276",
+      "md5": "cc8801b16ed6d2e98fc837c47f955357",
+      "crc32": "2baf705f",
+      "sha1": "ed50bc7c2dc5f6c7c7f18abb7b2463fcecbf1711",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-21T17:11:44.547542-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666401109",
+      "size": "10970",
+      "md5": "2d66fc59683de31b0ac5bdfea002cc14",
+      "crc32": "c4c23d48",
+      "sha1": "0d7c4be06318b787073c765df537b763e83cb083",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-21T17:11:44.547542-08:00.jpg",
+      "source": "original",
+      "mtime": "1666401106",
+      "size": "282716",
+      "md5": "31af47546956863479cb28b57ead27ef",
+      "crc32": "7b50aa21",
+      "sha1": "9a260c114e3880475f6668a4b3522ae78f80fc5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-21T17:11:44.547542-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666401110",
+      "size": "1486",
+      "md5": "536cb509a5cd456408e067b659f121c6",
+      "crc32": "b172f766",
+      "sha1": "2a9c2e41b7542dfbbdbcc3705b19227daf7a763a",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-21T17:11:44.547542-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666401114",
+      "size": "6218",
+      "md5": "6f9ad3b4c01c8f3fc851e51f3ae0fd49",
+      "crc32": "835ca83f",
+      "sha1": "894fec882a5e3a3c1dc7d03b02f3405fe495f11f",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-21T17:11:44.547542-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "midnight_sun_ak-2022-10-21T17:11:44.547542-08:00.jpg",
+      "mtime": "1666401168",
+      "size": "11129",
+      "md5": "a347d63b4a2e840131db26446806fe14",
+      "crc32": "ac45aa61",
+      "sha1": "e8533f3aa7c56a9e9b335d801d9b817497c608bf"
+    },
+    {
       "name": "midnight_sun_ak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80873f792cfc24ca7001ed0e0acb9c4a99e64540",
-      "mtime": "1666359081",
-      "size": "104518",
-      "md5": "c404ae58fd9dd446b22ed63acda77343",
-      "crc32": "8c569436",
-      "sha1": "b9fac2dcc35464d48a6cd7ccd7d320784b812dac",
+      "btih": "6d533d2a2ab117185ed40c90587ce33d4ad802e9",
+      "mtime": "1666401174",
+      "size": "105827",
+      "md5": "325e18a819ce2b55a5beb82b730c9680",
+      "crc32": "ea9903ac",
+      "sha1": "2a853d3dd19b4c3dba7d42aabab2498aa90d4418",
       "format": "Archive BitTorrent"
     },
     {
       "name": "midnight_sun_ak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "786b5ee2615535daa60885e896571cc8",
+      "md5": "3d3d7f46ea6c8dc2871089fd5e680096",
       "summation": "md5"
     },
     {
       "name": "midnight_sun_ak-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666358944",
-      "size": "630784",
-      "md5": "a3a96f5c782ad1bb3a70725212b80354",
-      "crc32": "4a7d230b",
-      "sha1": "fd4a3f9838976da8fd06ed9d7e414cf1e7d40a32",
+      "mtime": "1666401119",
+      "size": "638976",
+      "md5": "65db16db4a83b35f286625726e0db15e",
+      "crc32": "66141891",
+      "sha1": "d9a711469165b8551bf333fb1f10140445ff102d",
       "format": "Metadata"
     },
     {
@@ -4952,9 +5014,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 479,
-  "item_last_updated": 1666359081,
-  "item_size": 27187686,
+  "files_count": 485,
+  "item_last_updated": 1666401174,
+  "item_size": 27524982,
   "metadata": {
     "identifier": "midnight_sun_ak-2022",
     "collection": [
@@ -4972,7 +5034,7 @@
     "addeddate": "2022-09-13 01:14:49"
   },
   "server": "ia801400.us.archive.org",
-  "uniq": 537612477,
+  "uniq": 1375433208,
   "workable_servers": [
     "ia801400.us.archive.org",
     "ia601400.us.archive.org"

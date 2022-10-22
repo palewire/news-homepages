@@ -1,5 +1,5 @@
 {
-  "created": 1666362513,
+  "created": 1666401226,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/34/items/lex18news-2022",
@@ -9864,31 +9864,93 @@
       "sha1": "0ee1a7c6dd81f8a5510e5150b2909622dd2d6b2a"
     },
     {
+      "name": "lex18news-2022-10-21T21:11:58.349148-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666401132",
+      "size": "16772",
+      "md5": "7985e33b83a39628dadbcb96e46e9ba7",
+      "crc32": "b409878f",
+      "sha1": "d9f1782e45da81568ca30bb6b663c2ec7007d818",
+      "format": "JSON"
+    },
+    {
+      "name": "lex18news-2022-10-21T21:11:58.349148-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666401133",
+      "size": "48808",
+      "md5": "6917ad24c4503eb6954f08a6cd0b48dd",
+      "crc32": "557e9be5",
+      "sha1": "0f8ef2849dd9f0dfd69356483418e3aec4dd6121",
+      "format": "JSON"
+    },
+    {
+      "name": "lex18news-2022-10-21T21:11:58.349148-04:00.jpg",
+      "source": "original",
+      "mtime": "1666401130",
+      "size": "288778",
+      "md5": "7cc073167417dfd7843ee871bcee6727",
+      "crc32": "403b0ff6",
+      "sha1": "bd5d2e277c262b5ceeb672f2f3bb009b04ad3a36",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lex18news-2022-10-21T21:11:58.349148-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666401135",
+      "size": "1447",
+      "md5": "a32c8e94b221e1e7a34ef7245ccdd85b",
+      "crc32": "d7ec1a91",
+      "sha1": "34855f27fb170b0fcc2e8c7c6f226363ea464d9b",
+      "format": "JSON"
+    },
+    {
+      "name": "lex18news-2022-10-21T21:11:58.349148-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666401138",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lex18news-2022-10-21T21:11:58.349148-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lex18news-2022-10-21T21:11:58.349148-04:00.jpg",
+      "mtime": "1666401199",
+      "size": "10897",
+      "md5": "ec88daa4d3739f6864048b72f1ae4235",
+      "crc32": "2555cd04",
+      "sha1": "03369a1cfe98dfc1a2804c40d74822df8e5c056a"
+    },
+    {
       "name": "lex18news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf36a93ba9246783e794af0d47397b8d60bf9315",
-      "mtime": "1666359010",
-      "size": "203055",
-      "md5": "2463eaf825e0e3e20391226018d78aa0",
-      "crc32": "55b71aa5",
-      "sha1": "af1bb20d001a9ddaaa10ece1ecb044eafeabc0ac",
+      "btih": "ec6d4024ed22382c44c3892ab45a6f438c7a3728",
+      "mtime": "1666401216",
+      "size": "204307",
+      "md5": "a37a949b87e54c0fdcfeb19235240b77",
+      "crc32": "17d7d8fb",
+      "sha1": "627bee093819f866995b216d81fdce6980d043c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lex18news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9561c5378ad653eb907272ccac9756ba",
+      "md5": "047b5e91453bb4e38ac5454549be6088",
       "summation": "md5"
     },
     {
       "name": "lex18news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666358926",
-      "size": "1220608",
-      "md5": "05843c5b1573d1211e7cfd24ce60b064",
-      "crc32": "1235febe",
-      "sha1": "c953ebc7c22da9c4c2ebd855a186e02d6d7c77ec",
+      "mtime": "1666401143",
+      "size": "1228800",
+      "md5": "4acfa7b102774eb23a9ff29df94738d8",
+      "crc32": "7a346e14",
+      "sha1": "5b23aad7fb981b925a0fcda9515288170ce376b6",
       "format": "Metadata"
     },
     {
@@ -9902,17 +9964,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 957,
-  "item_last_updated": 1666359010,
-  "item_size": 70569132,
-  "lex18news-2022": {
-    "url": "https://www.lex18.com/",
-    "job_id": "spn2-657e9b5276a2e53978ab1f203868930264f504e4",
-    "resources": [],
-    "status": "error",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 885.",
-    "status_ext": "WorkerLostError"
-  },
+  "files_count": 963,
+  "item_last_updated": 1666401216,
+  "item_size": 70945480,
   "metadata": {
     "identifier": "lex18news-2022",
     "collection": [
@@ -9930,7 +9984,7 @@
     "addeddate": "2022-08-01 06:42:16"
   },
   "server": "ia802509.us.archive.org",
-  "uniq": 2106392616,
+  "uniq": 132552095,
   "workable_servers": [
     "ia802509.us.archive.org",
     "ia902509.us.archive.org"

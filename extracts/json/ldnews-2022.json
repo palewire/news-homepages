@@ -1,5 +1,5 @@
 {
-  "created": 1666362496,
+  "created": 1666401065,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/24/items/ldnews-2022",
@@ -3922,31 +3922,93 @@
       "sha1": "6104986ff8874350451ed1c985a7f9cc3d20209d"
     },
     {
+      "name": "ldnews-2022-10-21T21:09:36.988706-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666400982",
+      "size": "20934",
+      "md5": "79e448bd762b33e8d01ad3a64447ea59",
+      "crc32": "b2595ef4",
+      "sha1": "313e46b8fe78392d7860981bd90c70e7364c7371",
+      "format": "JSON"
+    },
+    {
+      "name": "ldnews-2022-10-21T21:09:36.988706-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666400983",
+      "size": "34095",
+      "md5": "e90026eab9b9e6eacd14e8de62165099",
+      "crc32": "c34a04e5",
+      "sha1": "01d98abb5cef5d3f415526fd04851dd8988dcc2c",
+      "format": "JSON"
+    },
+    {
+      "name": "ldnews-2022-10-21T21:09:36.988706-04:00.jpg",
+      "source": "original",
+      "mtime": "1666400980",
+      "size": "246052",
+      "md5": "fb2bd5ce3b1f424ef90cfefe836f1f28",
+      "crc32": "93144329",
+      "sha1": "2e2f85c42237508d4d0ffa26a274db74c0261933",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ldnews-2022-10-21T21:09:36.988706-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666400985",
+      "size": "1459",
+      "md5": "8b7ec3153c9aeac80f837dee79f6717c",
+      "crc32": "a312d86a",
+      "sha1": "d307c0198e68e693ed963b49dc5c280f6fc7bb45",
+      "format": "JSON"
+    },
+    {
+      "name": "ldnews-2022-10-21T21:09:36.988706-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666400986",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ldnews-2022-10-21T21:09:36.988706-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ldnews-2022-10-21T21:09:36.988706-04:00.jpg",
+      "mtime": "1666401041",
+      "size": "9529",
+      "md5": "880d97676903587e1bfb83a765e11d86",
+      "crc32": "bff7bbb3",
+      "sha1": "88468d3851de3ebadd8e3687d9e52d08dbeadb04"
+    },
+    {
       "name": "ldnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e2ab4706021cb6be0b8051a3bc1d6168364c4dda",
-      "mtime": "1666358892",
-      "size": "80291",
-      "md5": "7f282278f757e19e4d613147d8b86df7",
-      "crc32": "0b21e6d3",
-      "sha1": "520bedf5a1255101c031ae06c639fb9f88939097",
+      "btih": "94365ae218620cee66e8dd61ec21f7dc83be935e",
+      "mtime": "1666401053",
+      "size": "81544",
+      "md5": "94789f3b7fec4b03bd2d144189d99802",
+      "crc32": "ed98d7c3",
+      "sha1": "c9f2a10a041b9a312e47b98c50ea52e213de61d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ldnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23b10223dcf4082a1ccd9d9868052039",
+      "md5": "93ea86824fb156457ea2337d15fe5e6b",
       "summation": "md5"
     },
     {
       "name": "ldnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666358822",
-      "size": "495616",
-      "md5": "07a487c2e3086f7fb4b25c603c7d93f7",
-      "crc32": "181b788f",
-      "sha1": "28787e6c4f4b12e2ce16580041ec839da12adc36",
+      "mtime": "1666400991",
+      "size": "503808",
+      "md5": "f343322c4018cb7a4a4ef82407dd3e25",
+      "crc32": "66398f46",
+      "sha1": "3b4b5c2c6e7b8df774e2f3d146df7b6d92ddca2f",
       "format": "Metadata"
     },
     {
@@ -3960,14 +4022,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 383,
-  "item_last_updated": 1666358892,
-  "item_size": 24449190,
-  "ldnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 389,
+  "item_last_updated": 1666401053,
+  "item_size": 24770906,
   "metadata": {
     "identifier": "ldnews-2022",
     "collection": [
@@ -3985,7 +4042,7 @@
     "addeddate": "2022-09-20 22:26:33"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1334051317,
+  "uniq": 85072186,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

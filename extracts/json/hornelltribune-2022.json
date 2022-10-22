@@ -1,5 +1,5 @@
 {
-  "created": 1666358518,
+  "created": 1666400904,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/hornelltribune-2022",
@@ -3922,31 +3922,93 @@
       "sha1": "ab7452d7d86a0a68f0bafec7ef7439b3fb55da0c"
     },
     {
+      "name": "hornelltribune-2022-10-21T21:07:12.654036-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666400837",
+      "size": "24540",
+      "md5": "9a7b88a6909332d8b542cc4f8fa57a3c",
+      "crc32": "7f8a19e7",
+      "sha1": "26d7537b7457d82c8fed43b04adeb86321f0f188",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-21T21:07:12.654036-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666400838",
+      "size": "32234",
+      "md5": "6bf2acba18e0c15a1b38a5c7acd61734",
+      "crc32": "1955c88d",
+      "sha1": "51392fb2c4fda0363c6c59d5683cd308f7d52326",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-21T21:07:12.654036-04:00.jpg",
+      "source": "original",
+      "mtime": "1666400835",
+      "size": "260965",
+      "md5": "dd85e7dc3ad5c3682a3787542702b7b6",
+      "crc32": "ff611a39",
+      "sha1": "5ad27f9bfaebc0ea42a8e256a37798e9ee9353a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-21T21:07:12.654036-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666400840",
+      "size": "1531",
+      "md5": "efc3a193a9198d58adf2d55b6dd7cd22",
+      "crc32": "5a9aebf5",
+      "sha1": "3d2e7d0930a0fb2baa543764755d26833b63df76",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-21T21:07:12.654036-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666400841",
+      "size": "81183",
+      "md5": "f592be41410df01da7c2432c84823adf",
+      "crc32": "f019039c",
+      "sha1": "4abbab0df38863953212f2b3ab724e41d2eb4ffb",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-21T21:07:12.654036-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-21T21:07:12.654036-04:00.jpg",
+      "mtime": "1666400892",
+      "size": "9393",
+      "md5": "b5d3c9a25eb9be3f318bc3d30602b417",
+      "crc32": "d1d94bd3",
+      "sha1": "71143dc6a1a8aa7be9f2c734ccb804df84c03faf"
+    },
+    {
       "name": "hornelltribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f89fe5dcf3509454179edb891b6b1a2231da7d99",
-      "mtime": "1666358502",
-      "size": "83586",
-      "md5": "488cd1cbeca9338d72431987c0273a83",
-      "crc32": "9b310bd9",
-      "sha1": "de6c34673bfd0557b733e1bb6f2632eaf669398d",
+      "btih": "e96a190d52d952e6d563a65f956f8f49164fe27d",
+      "mtime": "1666400897",
+      "size": "84889",
+      "md5": "37d0ba005cf82f87498c4558ba9e2b0d",
+      "crc32": "eae7d659",
+      "sha1": "46ee5a08516b0734594675fb6c93fa2de22d9737",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hornelltribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "65ca0974b33529db3cea207fc3f7a90d",
+      "md5": "958a95ed316b44511e9948b59c39952b",
       "summation": "md5"
     },
     {
       "name": "hornelltribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666358364",
-      "size": "503808",
-      "md5": "f9d08f8e7741b61ec6e12ec605d498f7",
-      "crc32": "fc14e720",
-      "sha1": "f4aa1ea04d0aec2f5c052904daabba29e1182cac",
+      "mtime": "1666400845",
+      "size": "512000",
+      "md5": "20f8fe97140aefd6fc99c4a817084b81",
+      "crc32": "f575d089",
+      "sha1": "d2fba7da709a1dedcc3292eea0504a686170bdf3",
       "format": "Metadata"
     },
     {
@@ -3960,9 +4022,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 383,
-  "item_last_updated": 1666358502,
-  "item_size": 28094753,
+  "files_count": 389,
+  "item_last_updated": 1666400897,
+  "item_size": 28514094,
   "metadata": {
     "identifier": "hornelltribune-2022",
     "collection": [
@@ -3980,7 +4042,7 @@
     "addeddate": "2022-09-20 22:19:33"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1711219025,
+  "uniq": 497521617,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

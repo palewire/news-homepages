@@ -1,5 +1,5 @@
 {
-  "created": 1666362473,
+  "created": 1666401092,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/kitsapsun-2022",
@@ -3922,31 +3922,93 @@
       "sha1": "3c5b1d63fb74bacbdc4e33b95c38b918d40a352d"
     },
     {
+      "name": "kitsapsun-2022-10-21T18:09:28.120971-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666400971",
+      "size": "20312",
+      "md5": "4228e33194f74ccd0db83cc4c3c8ac56",
+      "crc32": "156745bd",
+      "sha1": "76fff1ff87e2dcdfa75a45c2a6745958c86bef1f",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-21T18:09:28.120971-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666400973",
+      "size": "29017",
+      "md5": "7198df8e30dfc51e116a065a8a73630e",
+      "crc32": "11ea8b4c",
+      "sha1": "6fa4649226aee3a501a0e2cfe1fb4cc21c8162cf",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-21T18:09:28.120971-07:00.jpg",
+      "source": "original",
+      "mtime": "1666400969",
+      "size": "260511",
+      "md5": "53a68001719adf035b2ac086c98d69db",
+      "crc32": "948aebf0",
+      "sha1": "ea772a287dfdf4f658c7634b1591c6040d674b7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kitsapsun-2022-10-21T18:09:28.120971-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666400974",
+      "size": "1486",
+      "md5": "8a7301c13ee5a550157f252b5288ee3d",
+      "crc32": "4dc74e99",
+      "sha1": "c4ef1a0a69795ef18b189f0aaf1d944569ce0f9f",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-21T18:09:28.120971-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666400976",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-21T18:09:28.120971-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kitsapsun-2022-10-21T18:09:28.120971-07:00.jpg",
+      "mtime": "1666401064",
+      "size": "9270",
+      "md5": "adbaed49205ae4b372d7995e6dc24bff",
+      "crc32": "fbe58b74",
+      "sha1": "c3d3e25838187f3beebba4f1159f4aeb8480b1fe"
+    },
+    {
       "name": "kitsapsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3eb4bc4ae6ee98c025e65754535d73ee322008c4",
-      "mtime": "1666358639",
-      "size": "81523",
-      "md5": "c4d2f6178a7a2d8643ef3e3456681e80",
-      "crc32": "6f787fe6",
-      "sha1": "149b25e104e9e824dd4183835984220bc47a2c1f",
+      "btih": "11805aefa2aa9e74e09012eefd470449f2d0f6cd",
+      "mtime": "1666401071",
+      "size": "82774",
+      "md5": "f407d66041a8651b980d7b11168e04dd",
+      "crc32": "b0fd5f3e",
+      "sha1": "14ae279ca0f97ea41c069aaa6bc2373b1c7b81f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kitsapsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b28863ea8421a7da060a50668e121d9",
+      "md5": "246fbdf3e42ccba2e25681bd23e3f55b",
       "summation": "md5"
     },
     {
       "name": "kitsapsun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666358564",
-      "size": "503808",
-      "md5": "913bb0fd3eddbece6758958af2e6abdc",
-      "crc32": "d3fda318",
-      "sha1": "48b4d8e4aae722cd67662e89eff48dbf24a81b3f",
+      "mtime": "1666400980",
+      "size": "512000",
+      "md5": "13a7f588093c594c2814646233847da7",
+      "crc32": "cce446b7",
+      "sha1": "37888e9b6ae52727c0ed6e925f84f00ded10f992",
       "format": "Metadata"
     },
     {
@@ -3960,14 +4022,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 383,
-  "item_last_updated": 1666358639,
-  "item_size": 25422243,
-  "kitsapsun-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 389,
+  "item_last_updated": 1666401071,
+  "item_size": 25752484,
   "metadata": {
     "identifier": "kitsapsun-2022",
     "collection": [
@@ -3984,10 +4041,10 @@
     "publicdate": "2022-09-20 22:26:18",
     "addeddate": "2022-09-20 22:26:18"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 747680257,
+  "server": "ia801401.us.archive.org",
+  "uniq": 824415185,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
