@@ -172,7 +172,38 @@ jobs:
           download-items-command: "--batch=${{ inputs.batch }}"
           access-key: ${{ secrets.IA_ACCESS_KEY }}
           secret-key: ${{ secrets.IA_SECRET_KEY }}
-          collection:  ${{ secrets.IA_COLLECTION }}
+          collection: ${{ secrets.IA_COLLECTION }}
           s3-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           s3-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           s3-bucket-name: ${{ secrets.AWS_BUCKET_NAME }}
+
+      - id: configure-github
+        name: Configure GitHub
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+        shell: bash
+
+      - id: git-pull
+        name: Git pull
+        run: git pull origin $GITHUB_REF
+        shell: bash
+
+      - id: download-items
+        name: Download archive.org items
+        run: pipenv run python -m newshomepages.extract download-items --batch=${{ inputs.batch }}
+        shell: bash
+        env:
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+          IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
+
+      - id: git-commit-items
+        name: Commit archive.org items
+        run: |
+          git add ./extracts
+          git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>"
+          git pull origin $GITHUB_REF
+          git push
+        shell: bash
