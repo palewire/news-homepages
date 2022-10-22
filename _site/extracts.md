@@ -68,22 +68,6 @@ Field | Description
 `publicdate` | The date the item went public
 `addeddate` | The date the item was created
 
-## latest-files.csv
-
-The latest files for each site uploaded to the Internet Archive.
-
-URL: [raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/latest-files.csv](https://raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/latest-files.csv)
-
-Field | Description
-:---- | :----------
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
-`datetime` | The timestamp of the files
-`screenshot_url` | The URL of the latest image file
-`hyperlinks_url` | The URL of the latest hyperlinks list
-`accessibility_url` | The URL of the latest accessibility tree
-`lighthouse_url` | The URL of the latest Lighthouse audit
-`wayback_url` | The URL of the latest Wayback Machine capture request
-
 ## screenshot-files.csv
 
 The image files saved in the Internet Archive.
