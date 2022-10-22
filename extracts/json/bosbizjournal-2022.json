@@ -1,5 +1,5 @@
 {
-  "created": 1666412929,
+  "created": 1666453780,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/34/items/bosbizjournal-2022",
@@ -8542,31 +8542,93 @@
       "sha1": "11a538ea838150483ae05413f133ea6777e88b37"
     },
     {
+      "name": "bosbizjournal-2022-10-22T11:47:35.124764-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666453659",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-22T11:47:35.124764-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666453661",
+      "size": "23689",
+      "md5": "0b942ff02bcc4e0775e4a95fb48d26e1",
+      "crc32": "a3081437",
+      "sha1": "c4597952b3c43ea9c5f8e22a9bf9a7aafac5917d",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-22T11:47:35.124764-04:00.jpg",
+      "source": "original",
+      "mtime": "1666453658",
+      "size": "270074",
+      "md5": "497eb628e76f3836ac0dccb1c2a9e392",
+      "crc32": "4af9a26c",
+      "sha1": "69819fdedf19d91a9dc81a5de82ae3df28102af2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bosbizjournal-2022-10-22T11:47:35.124764-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666453662",
+      "size": "1564",
+      "md5": "52a8a310efc9d55ff579f48416b94763",
+      "crc32": "ccc403f1",
+      "sha1": "25b71b9f700cf0608479395b43a3bc60b9e90886",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-22T11:47:35.124764-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666453664",
+      "size": "719163",
+      "md5": "3cfdc19578a9d21c77e938b2dfb88b58",
+      "crc32": "8e637ca1",
+      "sha1": "76e59081dae093334ae3f58908dd981818941d74",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-22T11:47:35.124764-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bosbizjournal-2022-10-22T11:47:35.124764-04:00.jpg",
+      "mtime": "1666453742",
+      "size": "8761",
+      "md5": "6df2470c40044774f3901f699548d3c4",
+      "crc32": "1b5ea960",
+      "sha1": "fa4744f8c4c2933791826f6add8335d0f3834b62"
+    },
+    {
       "name": "bosbizjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "327407c929648265731a80e036e1d13d83e30540",
-      "mtime": "1666412918",
-      "size": "179049",
-      "md5": "4b956e357b45e1142b43125a7a6d2e08",
-      "crc32": "ab6348c5",
-      "sha1": "19f7d866430225d17ca6dbadcd1c83f9691fe081",
+      "btih": "ac8f43d1bad36b06e9025ad9650eb1a1bc499ecc",
+      "mtime": "1666453765",
+      "size": "180365",
+      "md5": "7bfcdb9c0a69f96cbd9adf0d4f61b41e",
+      "crc32": "7cf3f21e",
+      "sha1": "1d39058fa18cb098006a3ae5f1c7bcf99ed573b5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bosbizjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d16046303e2fa423b0575edb25244c29",
+      "md5": "dec50f6c7dd2cdf4cbc590a13bda890b",
       "summation": "md5"
     },
     {
       "name": "bosbizjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666412845",
-      "size": "1069056",
-      "md5": "1cf8b0d9dade5933d92b125d8d7cce62",
-      "crc32": "da8e3e07",
-      "sha1": "ea3cac24b6dd0ae6552b95e591de80ae7fb503fc",
+      "mtime": "1666453669",
+      "size": "1081344",
+      "md5": "c68c3ae099f87ccd167527a3d1ff9766",
+      "crc32": "29dd69b3",
+      "sha1": "a6ddb18bf0b2c8937a2196c1fa43afa1701c2589",
       "format": "Metadata"
     },
     {
@@ -8580,9 +8642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 830,
-  "item_last_updated": 1666412918,
-  "item_size": 57388208,
+  "files_count": 836,
+  "item_last_updated": 1666453765,
+  "item_size": 58425203,
   "metadata": {
     "identifier": "bosbizjournal-2022",
     "collection": [
@@ -8600,7 +8662,7 @@
     "addeddate": "2022-08-14 05:02:07"
   },
   "server": "ia601407.us.archive.org",
-  "uniq": 704442211,
+  "uniq": 1810403482,
   "workable_servers": [
     "ia601407.us.archive.org",
     "ia801407.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1666412827,
+  "created": 1666453693,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/4/items/arstechnica-2022",
@@ -13298,31 +13298,93 @@
       "sha1": "7098878e16081b643a36e948f3ce403fcd97ffdb"
     },
     {
+      "name": "arstechnica-2022-10-22T11:45:45.385812-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666453549",
+      "size": "32693",
+      "md5": "1462ae8f011fae22a33d27e78dc5d259",
+      "crc32": "e094e22d",
+      "sha1": "e13c13e5901f2f5e0000e0da5909991ec0fcb271",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-22T11:45:45.385812-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666453551",
+      "size": "36392",
+      "md5": "aba879d8e0389db5d5f69de6cd70b0cb",
+      "crc32": "03ef076c",
+      "sha1": "9318a0122d8159955032246b35a94b29f965d062",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-22T11:45:45.385812-04:00.jpg",
+      "source": "original",
+      "mtime": "1666453547",
+      "size": "323109",
+      "md5": "96dad1d098f70279548414c4337254d7",
+      "crc32": "d453f121",
+      "sha1": "7a8a6144f05b33b019d9fc55a5e261267b30f94f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arstechnica-2022-10-22T11:45:45.385812-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666453553",
+      "size": "1468",
+      "md5": "6e4ec5309ed14c63a8f00e63f4630768",
+      "crc32": "bf295b81",
+      "sha1": "e8b2cd39da77182a530caa99a05055317f65a41c",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-22T11:45:45.385812-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666453555",
+      "size": "248",
+      "md5": "585c82180f40dab6e8dc2496bb584c28",
+      "crc32": "46535dde",
+      "sha1": "89d761f47eb093b0f032ca60fe146e8e19797ca4",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-22T11:45:45.385812-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arstechnica-2022-10-22T11:45:45.385812-04:00.jpg",
+      "mtime": "1666453667",
+      "size": "11131",
+      "md5": "b6d34dfccb9808fe8ddd4f4010685673",
+      "crc32": "f44582e3",
+      "sha1": "b914e53805e2d07ee27538be5933ef0142241b15"
+    },
+    {
       "name": "arstechnica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "529a63f76e95f40d4551d4328dc60ae4d53244cd",
-      "mtime": "1666412818",
-      "size": "275624",
-      "md5": "f73c5db4b67ff5385a18145fc7faabe4",
-      "crc32": "22104384",
-      "sha1": "8a8d608a45f9705d2450b6102e2fe905fc146008",
+      "btih": "201cbab662abe65ed10efa004cbcc1c6381d0d59",
+      "mtime": "1666453683",
+      "size": "276888",
+      "md5": "a652d4e40f80ca54f2f562e2f56b439d",
+      "crc32": "3c278db8",
+      "sha1": "f399870e0e44836fb602b8406fbc485cc5654e9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arstechnica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46e1b429b2b6da1798ce7fbc11224515",
+      "md5": "4a982e11098447e64a1d77bf88b1d906",
       "summation": "md5"
     },
     {
       "name": "arstechnica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666412742",
-      "size": "1613824",
-      "md5": "6402e0ebab4204e6f4245ab640650950",
-      "crc32": "846e0b12",
-      "sha1": "3fd8a37d6caff3a69959cdd210655ba1c3022464",
+      "mtime": "1666453560",
+      "size": "1617920",
+      "md5": "76c3c0e3554383f701ede1dfe48a2d74",
+      "crc32": "08a5ac89",
+      "sha1": "6168ecf720da51fd9f9564ef8f8177baa0b7c243",
       "format": "Metadata"
     },
     {
@@ -13336,9 +13398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1286,
-  "item_last_updated": 1666412818,
-  "item_size": 103105714,
+  "files_count": 1292,
+  "item_last_updated": 1666453683,
+  "item_size": 103516115,
   "metadata": {
     "identifier": "arstechnica-2022",
     "collection": [
@@ -13356,7 +13418,7 @@
     "addeddate": "2022-07-04 20:17:38"
   },
   "server": "ia601507.us.archive.org",
-  "uniq": 1656097105,
+  "uniq": 602988363,
   "workable_servers": [
     "ia601507.us.archive.org",
     "ia801507.us.archive.org"
