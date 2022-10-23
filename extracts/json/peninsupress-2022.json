@@ -1,5 +1,6 @@
 {
-  "created": 1666447083,
+  "conflict": 1666490994,
+  "created": 1666490994,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/peninsupress-2022",
@@ -13790,31 +13791,93 @@
       "sha1": "8d36d05dc51b0930e461454ec61b13ccaaab8238"
     },
     {
+      "name": "peninsupress-2022-10-22T19:06:46.215200-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666490846",
+      "size": "19554",
+      "md5": "1489cc49f9d5f67dc671efca3b3432a8",
+      "crc32": "f95543e7",
+      "sha1": "ba506c316ce231744c62e504ae15752281e05f32",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-10-22T19:06:46.215200-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666490848",
+      "size": "17894",
+      "md5": "53a3efcba3677d69bfba9356606f4ec8",
+      "crc32": "d4fa6d14",
+      "sha1": "4669eb37844de505fe069fe26894e1812b67f46d",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-10-22T19:06:46.215200-07:00.jpg",
+      "source": "original",
+      "mtime": "1666490844",
+      "size": "163346",
+      "md5": "7ab4a739331675f3d4999378f9af710e",
+      "crc32": "be4de5fd",
+      "sha1": "e738b9702edacff108c8cd6a45f4a32c287a1530",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "peninsupress-2022-10-22T19:06:46.215200-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666490850",
+      "size": "1495",
+      "md5": "931286a4f412a73f32c9f3d5011720e4",
+      "crc32": "247e2956",
+      "sha1": "dd2dfc48c6c2b7c9b7553de9fbcae27f5acdbe8d",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-10-22T19:06:46.215200-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666490851",
+      "size": "10186",
+      "md5": "faaf6e2589a632470211325dc6bfe117",
+      "crc32": "f585b8d3",
+      "sha1": "0c9c325416a19a42ffadbf333bd126ddbb676c39",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-10-22T19:06:46.215200-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "peninsupress-2022-10-22T19:06:46.215200-07:00.jpg",
+      "mtime": "1666490970",
+      "size": "9075",
+      "md5": "b4f24fc9e2319670e1ac577660902f89",
+      "crc32": "49d731ce",
+      "sha1": "bf0895e42514a7f2e4d9c8fcc5e873ef79ef2a4a"
+    },
+    {
       "name": "peninsupress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "622298da33dc115d2a2864574cd71d7b1e4e6b08",
-      "mtime": "1666447066",
-      "size": "284572",
-      "md5": "5f95916f4209238b9a17d247d2857f55",
-      "crc32": "f1a99465",
-      "sha1": "231f4371e5ac9623563976f75bc2043ad4ba851a",
+      "btih": "c89d310544acf49f952a4f72687885a87a26b553",
+      "mtime": "1666490987",
+      "size": "285843",
+      "md5": "b7f697c70ffc429e4f39da3bdbe27874",
+      "crc32": "40c6d7ff",
+      "sha1": "b90401a119a65b02d2dad2121051ef870460a94d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "peninsupress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "851bd051cb01966720a304f4f29aa9a9",
+      "md5": "555302c314416b59341f2ce2258e72d3",
       "summation": "md5"
     },
     {
       "name": "peninsupress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666446932",
-      "size": "1671168",
-      "md5": "30de2d7d5af3cd9f00d7048645d8d29a",
-      "crc32": "44fb7967",
-      "sha1": "d732b9c4a0c60cb4c5aed9f862fc4767e453fee7",
+      "mtime": "1666490859",
+      "size": "1675264",
+      "md5": "76cad8f4e636dc77a6de77b31733e953",
+      "crc32": "040d7eaa",
+      "sha1": "e5371f6f26c2826082fcb0c09c094a716c6f2970",
       "format": "Metadata"
     },
     {
@@ -13828,9 +13891,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1333,
-  "item_last_updated": 1666447066,
-  "item_size": 53800777,
+  "files_count": 1339,
+  "item_last_updated": 1666490987,
+  "item_size": 54027694,
   "metadata": {
     "identifier": "peninsupress-2022",
     "collection": [
@@ -13847,10 +13910,29 @@
     "publicdate": "2022-06-30 20:48:32",
     "addeddate": "2022-06-30 20:48:32"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1257975307,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3448827049,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3448827633,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 187772366,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }
