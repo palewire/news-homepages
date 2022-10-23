@@ -1,5 +1,5 @@
 {
-  "created": 1666507091,
+  "created": 1666555013,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/reviewjournal-2022",
@@ -12660,31 +12660,93 @@
       "sha1": "bc16dfbf97cce7abf31ab3ea30a9733464995bbb"
     },
     {
+      "name": "reviewjournal-2022-10-23T12:18:38.076729-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666552729",
+      "size": "58238",
+      "md5": "baa72ed2d2f08e6804e8115240fdcc27",
+      "crc32": "94f885a9",
+      "sha1": "1554713bf07aa318fe1dda4ceef04816eae7cacd",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-10-23T12:18:38.076729-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666552730",
+      "size": "54396",
+      "md5": "0305e30a82bbaacb16c4758361183739",
+      "crc32": "0e21c550",
+      "sha1": "ba05504a725a7ab84d0cd293a6b8d6b16ff2bd03",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-10-23T12:18:38.076729-07:00.jpg",
+      "source": "original",
+      "mtime": "1666552727",
+      "size": "322155",
+      "md5": "3f9929c0c28b6575ee7ef12586bde120",
+      "crc32": "3b6090b4",
+      "sha1": "a17e6955635edbc3ff015d8f283be8311f065f6b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reviewjournal-2022-10-23T12:18:38.076729-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666552732",
+      "size": "1522",
+      "md5": "e05b27b77f9e8236223eaaf420321bb4",
+      "crc32": "a55ea7df",
+      "sha1": "5ee2a7a415f2a0121df0205ba7342857dacab57b",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-10-23T12:18:38.076729-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666552733",
+      "size": "210",
+      "md5": "f11f23a7afdbbe5aea6420e309e2da66",
+      "crc32": "4ca53acf",
+      "sha1": "489b63358bc0bc32fda88a4ae9df449e12ea3733",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-10-23T12:18:38.076729-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reviewjournal-2022-10-23T12:18:38.076729-07:00.jpg",
+      "mtime": "1666552803",
+      "size": "10146",
+      "md5": "a51355a208b9c635e2f5c2a792cb8eeb",
+      "crc32": "6b4b4d77",
+      "sha1": "edb28d5a0535cf30baca57931498cb6c4e3710a7"
+    },
+    {
       "name": "reviewjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84a2668fb87875ca5c4dcdf8ac49a65d950db10e",
-      "mtime": "1666507075",
-      "size": "265063",
-      "md5": "bd9c02f4c31832361103de5fef553767",
-      "crc32": "83d1c89c",
-      "sha1": "df174e61b8367ee329db9d48ccac97f54206d40a",
+      "btih": "0197ee3fce55c3b007012dba2a414a2d81e61cdc",
+      "mtime": "1666552834",
+      "size": "266359",
+      "md5": "aad100a16b906175313c761c65f3169e",
+      "crc32": "2f8cee51",
+      "sha1": "c75b7ceb933cac02b70c1a049efaae1a4ac3beee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reviewjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc1607194ae4d1807e227d0c48b48880",
+      "md5": "f2851fa603fa4d2d3e2d513b833e2064",
       "summation": "md5"
     },
     {
       "name": "reviewjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666506988",
-      "size": "1548288",
-      "md5": "d405113caf14047aad4a9788513ae76b",
-      "crc32": "dd09b169",
-      "sha1": "16ba28bd50ba8b67e9fc9ff5b0ebc467f9d6138d",
+      "mtime": "1666552738",
+      "size": "1556480",
+      "md5": "82ccc9c9be2efee941d4560eb1c7a75d",
+      "crc32": "1a133ca5",
+      "sha1": "8c43de1b68a72317fe8afbfa3f16aa13b5283957",
       "format": "Metadata"
     },
     {
@@ -12698,9 +12760,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1225,
-  "item_last_updated": 1666507075,
-  "item_size": 102998394,
+  "files_count": 1231,
+  "item_last_updated": 1666552834,
+  "item_size": 103454549,
   "metadata": {
     "identifier": "reviewjournal-2022",
     "collection": [
@@ -12717,8 +12779,16 @@
     "publicdate": "2022-07-04 21:52:05",
     "addeddate": "2022-07-04 21:52:05"
   },
+  "reviewjournal-2022": {
+    "url": "https://www.reviewjournal.com/",
+    "job_id": "spn2-dee7446d7f87f2cca2f2148dd19e934758c0346e",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
   "server": "ia601506.us.archive.org",
-  "uniq": 1937343516,
+  "uniq": 1473266457,
   "workable_servers": [
     "ia601506.us.archive.org",
     "ia801506.us.archive.org"

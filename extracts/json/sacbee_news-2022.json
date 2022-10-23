@@ -1,5 +1,5 @@
 {
-  "created": 1666507188,
+  "created": 1666553015,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/sacbee_news-2022",
@@ -12864,31 +12864,93 @@
       "sha1": "bc059b66fb9c173d87b4d866bd4789c32f5864fe"
     },
     {
+      "name": "sacbee_news-2022-10-23T12:20:57.567710-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666552865",
+      "size": "455",
+      "md5": "dc9a7f52d8384471cf80cf412dcd72ae",
+      "crc32": "2d760cc6",
+      "sha1": "f479193adb6f68791fe3f86e57de1eece93544e0",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-23T12:20:57.567710-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666552867",
+      "size": "42820",
+      "md5": "0de4eaf7312bd6ecad61018763e369d0",
+      "crc32": "9a2abc06",
+      "sha1": "648eb6288aa3d15ff039256c7ab052d8fd930cb6",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-23T12:20:57.567710-07:00.jpg",
+      "source": "original",
+      "mtime": "1666552863",
+      "size": "296477",
+      "md5": "6569bdaafb7f3f9f1a429b18bb194eed",
+      "crc32": "045686ac",
+      "sha1": "57df8341d1aa7abd4a39ac47d7a4d3b38056863f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sacbee_news-2022-10-23T12:20:57.567710-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666552868",
+      "size": "1459",
+      "md5": "024e542b30ff44294704e832eaf5922f",
+      "crc32": "1c153a37",
+      "sha1": "d34e9255ac396225ec0a9952154d911063451c6f",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-23T12:20:57.567710-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666552870",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-23T12:20:57.567710-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sacbee_news-2022-10-23T12:20:57.567710-07:00.jpg",
+      "mtime": "1666552969",
+      "size": "9643",
+      "md5": "7393b838fb1a09ac90a313fd6e4aebc7",
+      "crc32": "9bcd29ca",
+      "sha1": "25eabc207e72104f83c500c1fa0b35cc1b8aa044"
+    },
+    {
       "name": "sacbee_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4bd3f8098b7ac6f9a8d51c9fff328cdd04b4c8b",
-      "mtime": "1666507153",
-      "size": "265026",
-      "md5": "65f441b8f8de0233238a5330c1c935ee",
-      "crc32": "73a055ea",
-      "sha1": "83e2bcdbed87e9322828280490c2f771751115ee",
+      "btih": "3bc0cedcadc7b8c4eb7312a7bb3fec56481f9efe",
+      "mtime": "1666552996",
+      "size": "266287",
+      "md5": "43d9aaa5da9f0781e6180b8b8c285d26",
+      "crc32": "879732a6",
+      "sha1": "fb629167ce2429517501deb90508400a4d002da3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sacbee_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d8385c8e554157f816df40ba19964526",
+      "md5": "6e28ae27f620635e70406df3bd09388e",
       "summation": "md5"
     },
     {
       "name": "sacbee_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666507007",
-      "size": "1548288",
-      "md5": "4f45883a17a291ef1d5563d98c161d5a",
-      "crc32": "6fd4ff99",
-      "sha1": "d5ab901674616ba7a8d7f9ac62f98ce61c7a9f4f",
+      "mtime": "1666552876",
+      "size": "1556480",
+      "md5": "509e69246666338401cb4671a4b7c044",
+      "crc32": "1e338c01",
+      "sha1": "6135bd3e3ad00dabdbcb1d87af2efb1855cf1f3d",
       "format": "Metadata"
     },
     {
@@ -12902,9 +12964,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1243,
-  "item_last_updated": 1666507153,
-  "item_size": 85336861,
+  "files_count": 1249,
+  "item_last_updated": 1666552996,
+  "item_size": 85697370,
   "metadata": {
     "identifier": "sacbee_news-2022",
     "collection": [
@@ -12922,7 +12984,7 @@
     "addeddate": "2022-06-24 23:00:30"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 1093922202,
+  "uniq": 338013328,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"
