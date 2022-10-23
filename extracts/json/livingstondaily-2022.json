@@ -1,5 +1,5 @@
 {
-  "created": 1666443529,
+  "created": 1666487718,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/livingstondaily-2022",
@@ -4046,31 +4046,93 @@
       "sha1": "72be9bb5201a010903c148cda468ac8fa87ee3fc"
     },
     {
+      "name": "livingstondaily-2022-10-22T21:13:32.400699-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666487617",
+      "size": "20182",
+      "md5": "86d179a2a167726582374155584cf358",
+      "crc32": "268df55a",
+      "sha1": "519774412c0111dba66ed5e84d7bef12b516bebf",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-22T21:13:32.400699-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666487619",
+      "size": "35619",
+      "md5": "035d0d56f1de22fa898124565622702b",
+      "crc32": "db2bb228",
+      "sha1": "e698ab5fb94d7977585bb47cc9473774aa95c541",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-22T21:13:32.400699-04:00.jpg",
+      "source": "original",
+      "mtime": "1666487616",
+      "size": "270625",
+      "md5": "7d2591561c7c63e7d318217b1f705992",
+      "crc32": "9875615a",
+      "sha1": "47a99f44dff0a1443010ef8c9ac0b3d90ab4327a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "livingstondaily-2022-10-22T21:13:32.400699-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666487620",
+      "size": "1540",
+      "md5": "01727f8bd458ddc1d1c49a7800f20cbc",
+      "crc32": "ee253420",
+      "sha1": "cfe68aad544d4871df4f8b7b237d44fa182197ed",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-22T21:13:32.400699-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666487622",
+      "size": "101924",
+      "md5": "c9e5d4ff13c8f5df9980860c444ecb33",
+      "crc32": "342c230c",
+      "sha1": "5b6a2127fff95e1b76282ae70cb12b4cc5494e9b",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-22T21:13:32.400699-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "livingstondaily-2022-10-22T21:13:32.400699-04:00.jpg",
+      "mtime": "1666487686",
+      "size": "9277",
+      "md5": "5d8736a71b988ea8c1df275f8328c879",
+      "crc32": "7085844f",
+      "sha1": "7b44a50c338d7eb6a4353cea8b1f1b27f1f0b92e"
+    },
+    {
       "name": "livingstondaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98abf579fde8c44aa57873f8b6ac941ce3ff2df6",
-      "mtime": "1666443515",
-      "size": "86350",
-      "md5": "b61c314ff3193107f7b2eb89a7900f49",
-      "crc32": "6596d6dd",
-      "sha1": "0bfc05ea98975d373d75e1a2f85465361c9c516f",
+      "btih": "c471fd3e47da46c64703392cd6eb22deacb0945c",
+      "mtime": "1666487698",
+      "size": "87660",
+      "md5": "940cf3b814e4bfdd65d296eda5db8da0",
+      "crc32": "5c010ce9",
+      "sha1": "7c7bbd782b98e134550378827b5796b402f7b621",
       "format": "Archive BitTorrent"
     },
     {
       "name": "livingstondaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "713b27de0a4c4034ed31aea6c7f2637a",
+      "md5": "92bda33dcdd59ad23b2232c1550cff59",
       "summation": "md5"
     },
     {
       "name": "livingstondaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666443458",
-      "size": "520192",
-      "md5": "eb66e38821b130bc05f6fdfb52aa6720",
-      "crc32": "107b8fbb",
-      "sha1": "91428702e69992761de1236f61fa935bd6692ebc",
+      "mtime": "1666487629",
+      "size": "524288",
+      "md5": "bcee1750499cde372d8928b57c8ce173",
+      "crc32": "78a001f1",
+      "sha1": "105df2e97dc22232053a7278f5b26d11e07ac3e1",
       "format": "Metadata"
     },
     {
@@ -4084,9 +4146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 395,
-  "item_last_updated": 1666443515,
-  "item_size": 24353588,
+  "files_count": 401,
+  "item_last_updated": 1666487698,
+  "item_size": 24798161,
   "metadata": {
     "identifier": "livingstondaily-2022",
     "collection": [
@@ -4103,10 +4165,10 @@
     "publicdate": "2022-09-20 22:27:01",
     "addeddate": "2022-09-20 22:27:01"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 2141473289,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1830942051,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

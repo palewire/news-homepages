@@ -1,5 +1,5 @@
 {
-  "created": 1666443521,
+  "created": 1666487775,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/le_figaro-2022",
@@ -24880,31 +24880,93 @@
       "sha1": "d2e8e376db5e665af2e430b991cc4c214e041e9c"
     },
     {
+      "name": "le_figaro-2022-10-23T03:12:04.696536+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666487547",
+      "size": "97303",
+      "md5": "d36c7d3b3009e6c163f1b8fa29b3e7cd",
+      "crc32": "6c0ec90e",
+      "sha1": "93b739bff27afc7493a182069c9e8be01b7593f2",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-23T03:12:04.696536+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666487549",
+      "size": "114228",
+      "md5": "70a4d85e3e2e1adf28b2eaf9e1200898",
+      "crc32": "eed7897e",
+      "sha1": "34907fb570e3e6ee575bc10f33c7c746eee27ec9",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-23T03:12:04.696536+02:00.jpg",
+      "source": "original",
+      "mtime": "1666487545",
+      "size": "255869",
+      "md5": "8001a9f07654b41cf18d3a73dc24470d",
+      "crc32": "5cbadde1",
+      "sha1": "4fe6141f7c39368fe63e6f2e3e22fa6cbc2560bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-23T03:12:04.696536+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666487551",
+      "size": "1468",
+      "md5": "9ed275851d515770f22b6a9a1213153f",
+      "crc32": "9240252e",
+      "sha1": "4aed94fdf4eef769fabd90fee26eec75ee560065",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-23T03:12:04.696536+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666487553",
+      "size": "230",
+      "md5": "4f54995ebbe80cca9e4c162c259fd619",
+      "crc32": "5a6a9a8c",
+      "sha1": "20fb8dfa085b8bf9a68d2ae3bcdf2b5a54ec4f63",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-23T03:12:04.696536+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-23T03:12:04.696536+02:00.jpg",
+      "mtime": "1666487669",
+      "size": "9826",
+      "md5": "b6c21e0296fadb2bf6c9b13f29a877e9",
+      "crc32": "dc3d7d3e",
+      "sha1": "d5a92eeba41f0109b711a3e83e692bbd5f249610"
+    },
+    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74164ef2ddf4f4934d3ac9f53c6dac097e9055f5",
-      "mtime": "1666443507",
-      "size": "510425",
-      "md5": "52f064e9420cf2d16e1638a01e3fcb10",
-      "crc32": "a6aef69b",
-      "sha1": "ff55b7ef084803a18e09f135fffa94e66775bb53",
+      "btih": "62606eb46f8e740a62ebd7d023c63f95a7098829",
+      "mtime": "1666487746",
+      "size": "511697",
+      "md5": "b0474997b28d32ebe0a293f627b65781",
+      "crc32": "8a12d7f5",
+      "sha1": "9d070dd82a6a176e1d292c924b2129b29ffaf3fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "184d8744358a00c8cd041534b0728cae",
+      "md5": "3db17671e6b1a22fbf1a1c8de792aa36",
       "summation": "md5"
     },
     {
       "name": "le_figaro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666443354",
-      "size": "2940928",
-      "md5": "df9f42c01415e1dfa146eca8b9e926d2",
-      "crc32": "244c3993",
-      "sha1": "46ae2fe57931d3c4bd81f708c58787634617dbd1",
+      "mtime": "1666487558",
+      "size": "2949120",
+      "md5": "a4579053fac6e207db433852648b6574",
+      "crc32": "1480e746",
+      "sha1": "7d00d3a44c5c93e78da43d79800323521a356ced",
       "format": "Metadata"
     },
     {
@@ -24918,9 +24980,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2397,
-  "item_last_updated": 1666443507,
-  "item_size": 247746830,
+  "files_count": 2403,
+  "item_last_updated": 1666487746,
+  "item_size": 248235218,
   "metadata": {
     "identifier": "le_figaro-2022",
     "collection": [
@@ -24937,10 +24999,10 @@
     "publicdate": "2022-04-09 13:41:47",
     "addeddate": "2022-04-09 13:41:47"
   },
-  "server": "ia601507.us.archive.org",
-  "uniq": 1922871246,
+  "server": "ia801507.us.archive.org",
+  "uniq": 2017322441,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia801507.us.archive.org",
+    "ia601507.us.archive.org"
   ]
 }

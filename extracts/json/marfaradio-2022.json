@@ -1,5 +1,5 @@
 {
-  "created": 1666443585,
+  "created": 1666487750,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/marfaradio-2022",
@@ -11544,31 +11544,93 @@
       "sha1": "9f8223a975214fe5e9b3207d745c31a56ac85e61"
     },
     {
+      "name": "marfaradio-2022-10-22T20:13:39.578144-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666487627",
+      "size": "24695",
+      "md5": "a095b82042c4473199fac4eec03bb0af",
+      "crc32": "a90d56db",
+      "sha1": "a23e5279f41a688d57b7cd853bee73a540bee865",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-10-22T20:13:39.578144-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666487628",
+      "size": "23869",
+      "md5": "c9d71ab8577c2ab546cc6c5c891b1638",
+      "crc32": "a5e1def5",
+      "sha1": "b26d3ad400be45ef8213c9d2f41c0474ca293cec",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-10-22T20:13:39.578144-05:00.jpg",
+      "source": "original",
+      "mtime": "1666487625",
+      "size": "260174",
+      "md5": "e48919887ee213bfbf66bd014573f9b7",
+      "crc32": "f45d72bb",
+      "sha1": "795c8d520601f73ccf19cc4bf11a6d7517979940",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marfaradio-2022-10-22T20:13:39.578144-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666487630",
+      "size": "1513",
+      "md5": "d816d743bfcbadca63cad85a39cb21eb",
+      "crc32": "2d1c61fc",
+      "sha1": "889db8b84a54816bb56ab0beddb5c46f6f54f61d",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-10-22T20:13:39.578144-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666487632",
+      "size": "13897",
+      "md5": "9c7aafcf004535730ff074403bcb4a1f",
+      "crc32": "1a147d2c",
+      "sha1": "ba26cfcd700ba98a41bf42646fd8a3d841964e70",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-10-22T20:13:39.578144-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marfaradio-2022-10-22T20:13:39.578144-05:00.jpg",
+      "mtime": "1666487701",
+      "size": "8697",
+      "md5": "969768eb909c5b3ae6eead8c4eb4ed8c",
+      "crc32": "a10173de",
+      "sha1": "9f8223a975214fe5e9b3207d745c31a56ac85e61"
+    },
+    {
       "name": "marfaradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fbddbbb2df03f63664880987c59d4be1b1ec0a53",
-      "mtime": "1666443574",
-      "size": "237711",
-      "md5": "f66a324fcbeeabcba78781823ed426e5",
-      "crc32": "cd03e471",
-      "sha1": "cff3190f040d8d3dc866d9a635f0d81f46af1012",
+      "btih": "a3507e0ec24e10b4281f1788a8acb5267c8d6fcf",
+      "mtime": "1666487725",
+      "size": "238990",
+      "md5": "1ca2e03dc28dcbe77a5504a688c5e834",
+      "crc32": "98193b41",
+      "sha1": "9c0093ed9ddca6bdc094dd5c3a4e47eaf482d0c9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marfaradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b33ff2414c73fb246ae07cc73cec628f",
+      "md5": "0ca08256e46c6ca9d97beab0009d050a",
       "summation": "md5"
     },
     {
       "name": "marfaradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666443502",
-      "size": "1421312",
-      "md5": "05ba859446fca3bb86e66bf689eb87b7",
-      "crc32": "84f70b11",
-      "sha1": "509d6fab14460cb1622669e4dfc7f472e13e09c5",
+      "mtime": "1666487636",
+      "size": "1433600",
+      "md5": "b377af13b895795b34e232decb496a40",
+      "crc32": "85a0bd99",
+      "sha1": "a89b1df89ab3934bb5a2389bcdee426423a8a29f",
       "format": "Metadata"
     },
     {
@@ -11582,9 +11644,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1119,
-  "item_last_updated": 1666443574,
-  "item_size": 65099495,
+  "files_count": 1125,
+  "item_last_updated": 1666487725,
+  "item_size": 65445907,
   "metadata": {
     "identifier": "marfaradio-2022",
     "collection": [
@@ -11601,10 +11663,10 @@
     "publicdate": "2022-07-18 00:04:45",
     "addeddate": "2022-07-18 00:04:45"
   },
-  "server": "ia902506.us.archive.org",
-  "uniq": 722244876,
+  "server": "ia802506.us.archive.org",
+  "uniq": 421384941,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia802506.us.archive.org",
+    "ia902506.us.archive.org"
   ]
 }
