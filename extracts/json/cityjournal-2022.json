@@ -1,5 +1,5 @@
 {
-  "created": 1666526278,
+  "created": 1666568014,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/5/items/cityjournal-2022",
@@ -14472,31 +14472,155 @@
       "sha1": "adbc1974ea8ec2c1f8e66bcf111eeb9d172b3b53"
     },
     {
+      "name": "cityjournal-2022-10-23T15:50:55.055416-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666554662",
+      "size": "20782",
+      "md5": "8e26c8013e05919e935e8eda264c34e4",
+      "crc32": "8a5ca2f8",
+      "sha1": "4797ef6df9c1cc92eafe17e53ee60d68a2a8e217",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-10-23T15:50:55.055416-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666554663",
+      "size": "18997",
+      "md5": "3da2ba6b20ced8a5887f59440489095b",
+      "crc32": "daf665fe",
+      "sha1": "9890b16ae7700f6d970ed7dfc9fef80c760a29f8",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-10-23T15:50:55.055416-04:00.jpg",
+      "source": "original",
+      "mtime": "1666554660",
+      "size": "217552",
+      "md5": "aea332e258898c80e30fcf0690fc0f40",
+      "crc32": "9d8aba56",
+      "sha1": "b4ef19e75d62bb08c6eb99feb9e604f02ef144e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cityjournal-2022-10-23T15:50:55.055416-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666554665",
+      "size": "1512",
+      "md5": "931a73c0419754365bb6db406ab967f3",
+      "crc32": "baea0823",
+      "sha1": "a50236ba9e39b87012c9dea0685e6b44cd8d5694",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-10-23T15:50:55.055416-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666554667",
+      "size": "209",
+      "md5": "be5dafb4b4e0f0b256b23389c90c6488",
+      "crc32": "6bd3647e",
+      "sha1": "b067edf064f8c006d896142574bcb521726558f8",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-10-23T15:50:55.055416-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cityjournal-2022-10-23T15:50:55.055416-04:00.jpg",
+      "mtime": "1666554917",
+      "size": "9657",
+      "md5": "b36db946af1a631f0bc7a366a5a76f88",
+      "crc32": "98620126",
+      "sha1": "d169bcb4d69c9dd7b1f1c34eba76544cdb139459"
+    },
+    {
+      "name": "cityjournal-2022-10-23T19:31:38.610692-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666567909",
+      "size": "20782",
+      "md5": "8e26c8013e05919e935e8eda264c34e4",
+      "crc32": "8a5ca2f8",
+      "sha1": "4797ef6df9c1cc92eafe17e53ee60d68a2a8e217",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-10-23T19:31:38.610692-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666567911",
+      "size": "18997",
+      "md5": "3da2ba6b20ced8a5887f59440489095b",
+      "crc32": "daf665fe",
+      "sha1": "9890b16ae7700f6d970ed7dfc9fef80c760a29f8",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-10-23T19:31:38.610692-04:00.jpg",
+      "source": "original",
+      "mtime": "1666567907",
+      "size": "217527",
+      "md5": "77f228af3cdafd08fc631fba0d9c98a3",
+      "crc32": "88e9c848",
+      "sha1": "603592ecc3b603576999c2e6c8ba6040afbfa34f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cityjournal-2022-10-23T19:31:38.610692-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666567913",
+      "size": "1513",
+      "md5": "1ed248ada24441d924d04c5054109a21",
+      "crc32": "3b569391",
+      "sha1": "08968561fd7ade542d0c88dc24f40a54dbedeaed",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-10-23T19:31:38.610692-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666567915",
+      "size": "16764",
+      "md5": "ac259a5096521e50370584adbff11739",
+      "crc32": "019a0b58",
+      "sha1": "66cb179249266c60e246fc2d59fd7f6c538e930d",
+      "format": "JSON"
+    },
+    {
+      "name": "cityjournal-2022-10-23T19:31:38.610692-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cityjournal-2022-10-23T19:31:38.610692-04:00.jpg",
+      "mtime": "1666567986",
+      "size": "9658",
+      "md5": "228bd36d4d0f375ad185385f0d3574c5",
+      "crc32": "0a41eb55",
+      "sha1": "a3ed18f3babfa442834306bc63dfda8903a2adbe"
+    },
+    {
       "name": "cityjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a53707b01d3ff7865ce722fc48ea5014f607db26",
-      "mtime": "1666526270",
-      "size": "298934",
-      "md5": "c2378f07793063ed91576f42491fa610",
-      "crc32": "2d4fd86b",
-      "sha1": "5a8222b29c8a29897325844ba50652de5ea9ae68",
+      "btih": "1701e449e9144b9ba7355db2de9e0331c6e256af",
+      "mtime": "1666568003",
+      "size": "301482",
+      "md5": "1857c702ddb5c194a5216e1a174afdb4",
+      "crc32": "c6f8b562",
+      "sha1": "d019a8cbe958190085419107013391f098466b5b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cityjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "79d8c0cd3154010dea7c68cba078a355",
+      "md5": "b72dfebee17e6ad90a73a4974b75d6c7",
       "summation": "md5"
     },
     {
       "name": "cityjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666526186",
-      "size": "1798144",
-      "md5": "1f88da88337d5217509d4a99d9b11483",
-      "crc32": "834ae8cb",
-      "sha1": "84a56af87088bee6fdfda3cb3d410869f64a9492",
+      "mtime": "1666567919",
+      "size": "1810432",
+      "md5": "532c1d66fa2d3762f188955b2e1b72d0",
+      "crc32": "87138c82",
+      "sha1": "0de1026d644abdb8814711aa68bda60ae08a2d4c",
       "format": "Metadata"
     },
     {
@@ -14510,9 +14634,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1404,
-  "item_last_updated": 1666526270,
-  "item_size": 63758002,
+  "files_count": 1416,
+  "item_last_updated": 1666568003,
+  "item_size": 64326788,
   "metadata": {
     "identifier": "cityjournal-2022",
     "collection": [
@@ -14529,10 +14653,10 @@
     "publicdate": "2022-08-05 12:25:05",
     "addeddate": "2022-08-05 12:25:05"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1104831312,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1295061333,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }
