@@ -1,5 +1,5 @@
 {
-  "created": 1666499302,
+  "created": 1666544188,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/5/items/asheville-2022",
@@ -4046,31 +4046,93 @@
       "sha1": "7d05f9910274d65bc363bea2bc9b09ec05593fa8"
     },
     {
+      "name": "asheville-2022-10-23T12:54:10.635422-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666544056",
+      "size": "19951",
+      "md5": "8d5631190a0c5143575e914dbc33e47c",
+      "crc32": "6c2c907e",
+      "sha1": "5040140c664a774858bb8204e32c7274e916b223",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-23T12:54:10.635422-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666544058",
+      "size": "35707",
+      "md5": "8345b12ee7a500749a7ea6d5413f57ec",
+      "crc32": "1f0b3e01",
+      "sha1": "a1f80ccf87f894f8b15422fcf049dcd3015e7ab7",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-23T12:54:10.635422-04:00.jpg",
+      "source": "original",
+      "mtime": "1666544054",
+      "size": "260555",
+      "md5": "b3720bba4d16eb379a99820ac27ad3a0",
+      "crc32": "311647d8",
+      "sha1": "c9472d9a87dfb77e9769b6f8291cb945da549847",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-23T12:54:10.635422-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666544059",
+      "size": "1521",
+      "md5": "e8a396dc9bd8c2f72cbae5d7f456846b",
+      "crc32": "cda11359",
+      "sha1": "043c7ff197fe8194193c5e96a2027012bf8c0e74",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-23T12:54:10.635422-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666544061",
+      "size": "210",
+      "md5": "7dcdee2cde6ef7577c9f4528ffaa22d9",
+      "crc32": "66d0e708",
+      "sha1": "f303caaed352df11e5126f116558c81ccd4864f9",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-23T12:54:10.635422-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-23T12:54:10.635422-04:00.jpg",
+      "mtime": "1666544170",
+      "size": "9181",
+      "md5": "59643de7575b6a32874858638171800c",
+      "crc32": "01a0f064",
+      "sha1": "ec0070f15480c9e6a52ee9761c0bb2e521da52f9"
+    },
+    {
       "name": "asheville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7cc002deab5bcaa57d1002705f22dfcb362b01fd",
-      "mtime": "1666499296",
-      "size": "84056",
-      "md5": "29e265fd783f38296e88762d33887d63",
-      "crc32": "bb8d5482",
-      "sha1": "9edc6d89fa27fd61c081c27ef194c3d647d22fc4",
+      "btih": "fd3f39b70810e6ae4c7d51a4924cbec7860f16f1",
+      "mtime": "1666544179",
+      "size": "85327",
+      "md5": "74aab96be53e476cfadb2745f3236db1",
+      "crc32": "65f5e375",
+      "sha1": "3d4ee7eac56b9edbc6f2d3ab9a7ad91467d2278d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asheville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b99b611f4c90c219b08ef3c607dfcc95",
+      "md5": "78da698de6f25f43b2989bf36096ae03",
       "summation": "md5"
     },
     {
       "name": "asheville-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666499247",
-      "size": "520192",
-      "md5": "33a3cfe9212a52e1967b1590de0809c4",
-      "crc32": "1a1a34c8",
-      "sha1": "6c3dfaacb4ac608ac04956bcd457cd86c0b9f9f3",
+      "mtime": "1666544064",
+      "size": "524288",
+      "md5": "3b21c0fd6a2639dd5ea49c50dff5109f",
+      "crc32": "afb03d40",
+      "sha1": "597bab418dfc02de27ec2eb79f3eeac1979f87d4",
       "format": "Metadata"
     },
     {
@@ -4084,9 +4146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 395,
-  "item_last_updated": 1666499296,
-  "item_size": 26806094,
+  "files_count": 401,
+  "item_last_updated": 1666544179,
+  "item_size": 27138586,
   "metadata": {
     "identifier": "asheville-2022",
     "collection": [
@@ -4103,10 +4165,10 @@
     "publicdate": "2022-09-21 04:37:26",
     "addeddate": "2022-09-21 04:37:26"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 1193895826,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1589373112,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }

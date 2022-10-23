@@ -1,5 +1,5 @@
 {
-  "created": 1666499436,
+  "created": 1666544164,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/35/items/axios-2022",
@@ -15144,31 +15144,93 @@
       "sha1": "d76b6643ec8d522a60ef52d82a875ce24c1f64cb"
     },
     {
+      "name": "axios-2022-10-23T12:54:12.918367-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666544060",
+      "size": "19343",
+      "md5": "2685cbda2e1de307c60a5aac3613ca18",
+      "crc32": "b6eb2bdd",
+      "sha1": "c183eb9056200d0f53c708d7d14c238f3a98663f",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-10-23T12:54:12.918367-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666544061",
+      "size": "12878",
+      "md5": "41e008407ed1d5f9eae487cb4bf48833",
+      "crc32": "aed1f9f9",
+      "sha1": "46c736ce2154f179c9fcbfd01c768b98e6fe5ac6",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-10-23T12:54:12.918367-04:00.jpg",
+      "source": "original",
+      "mtime": "1666544058",
+      "size": "179948",
+      "md5": "960c8b5619a8ef5679b855f3450375f6",
+      "crc32": "6d9d5ffc",
+      "sha1": "2ce97cde4bafe7e24b6a9a68337a9694575e9ef8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "axios-2022-10-23T12:54:12.918367-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666544063",
+      "size": "1449",
+      "md5": "de1a6b179afcd390bb0723114d15beb9",
+      "crc32": "f31b50ea",
+      "sha1": "9ee27ad7eb4cc27dda5f26d0ab1ab21184ac918b",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-10-23T12:54:12.918367-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666544066",
+      "size": "23854",
+      "md5": "1b08f55eb571fb6f747bdd49f1afe795",
+      "crc32": "8d2bc1a2",
+      "sha1": "773d0b83e7281cf5647cc83b982a0d37d748f3f2",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-10-23T12:54:12.918367-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "axios-2022-10-23T12:54:12.918367-04:00.jpg",
+      "mtime": "1666544135",
+      "size": "7670",
+      "md5": "eaea3b4a97a517d5d24f15992fe78904",
+      "crc32": "64c58bf7",
+      "sha1": "32b2debf491deefc3e9fdf6800704b5322ab5f89"
+    },
+    {
       "name": "axios-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5e78676a9baa0c5e301bf8ef887a61c7d835626",
-      "mtime": "1666499418",
-      "size": "303140",
-      "md5": "1b16793d52d1b1924f79a0000d5d8b92",
-      "crc32": "0d9cd73c",
-      "sha1": "6efb543e5243eb2c3ae1cf436dce839ab8b4797c",
+      "btih": "3378760598cff9fb4df2263ee2406af036edfdd0",
+      "mtime": "1666544154",
+      "size": "304389",
+      "md5": "8d58410aab0b81496859eab5038088ef",
+      "crc32": "21b7da63",
+      "sha1": "65250006dc6a1101b8802f12ea4d143aa8e169ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "axios-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5858d9411a41ea5b5b7cb7003ed298c2",
+      "md5": "76adeb719aa86325292a91523c7cf6f8",
       "summation": "md5"
     },
     {
       "name": "axios-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666499280",
-      "size": "1798144",
-      "md5": "806603a7a96be2e9a7c0c838fae2454e",
-      "crc32": "ffd4922c",
-      "sha1": "c31996e8bf857234e527c61dbb24f010f7f6ef4b",
+      "mtime": "1666544070",
+      "size": "1806336",
+      "md5": "2f4940c4e025be08face6ca10dc0d5c0",
+      "crc32": "dd09cea0",
+      "sha1": "162d38d7a0c184ed1aa4170efebfa14732bd02e7",
       "format": "Metadata"
     },
     {
@@ -15182,9 +15244,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1462,
-  "item_last_updated": 1666499418,
-  "item_size": 91349505,
+  "files_count": 1468,
+  "item_last_updated": 1666544154,
+  "item_size": 91604088,
   "metadata": {
     "identifier": "axios-2022",
     "collection": [
@@ -15201,10 +15263,10 @@
     "publicdate": "2022-06-19 23:22:59",
     "addeddate": "2022-06-19 23:22:59"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 1658238822,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1209103025,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

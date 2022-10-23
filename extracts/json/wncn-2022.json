@@ -1,5 +1,5 @@
 {
-  "created": 1666499749,
+  "created": 1666547457,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/8/items/wncn-2022",
@@ -18536,31 +18536,93 @@
       "sha1": "8a4ba071dfb4aceaed3bf55011b1b31587d5fbe7"
     },
     {
+      "name": "wncn-2022-10-23T13:00:10.166532-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666544413",
+      "size": "44667",
+      "md5": "c46e2239ebb2ed3c10a22a1b1e44af2a",
+      "crc32": "126d6f7e",
+      "sha1": "3ab029cf73b29ef5b848a0a2f0558dbcb325ca3a",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-10-23T13:00:10.166532-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666544415",
+      "size": "95773",
+      "md5": "88053f69cb5d733ffb2cd1994f0b4299",
+      "crc32": "c45b080e",
+      "sha1": "6cff3ca82ec7d9b72c8c6315d0c532b8fce0fbcb",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-10-23T13:00:10.166532-04:00.jpg",
+      "source": "original",
+      "mtime": "1666544411",
+      "size": "314533",
+      "md5": "e22e6ea97963226a19737d990c2cf7d8",
+      "crc32": "59aa1ddf",
+      "sha1": "3c471bd21505bb56b2cbc6871c6707eb1bc6e21f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wncn-2022-10-23T13:00:10.166532-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666544417",
+      "size": "1450",
+      "md5": "0ccb677c48088f35bbd0cc82dd576bef",
+      "crc32": "bcd7a9b9",
+      "sha1": "6637fdb5be039393756d010b5c61a392629f883c",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-10-23T13:00:10.166532-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666544418",
+      "size": "98",
+      "md5": "208f2edf52ea82fd7af6ea2ae12243fd",
+      "crc32": "b3ea82c7",
+      "sha1": "d81a68cae779bd03f5b58c94c584983484b10922",
+      "format": "JSON"
+    },
+    {
+      "name": "wncn-2022-10-23T13:00:10.166532-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wncn-2022-10-23T13:00:10.166532-04:00.jpg",
+      "mtime": "1666544527",
+      "size": "10707",
+      "md5": "00d50f2686a5396721484bd913e4fdc5",
+      "crc32": "99b5f50d",
+      "sha1": "f9a93cdfcedf503e3108c3d8abc0479a0b9a2c02"
+    },
+    {
       "name": "wncn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5001728dccb338f9789235c97b5f21b6aac7addf",
-      "mtime": "1666499716",
-      "size": "370532",
-      "md5": "f6cd8990c26dd7eaebc98b1fbc3fb481",
-      "crc32": "91bb735e",
-      "sha1": "e05b3efb9c87ad4f887715048270e8c1f5be7edf",
+      "btih": "7e0bd0d3b9a418a7ea3b4206c4e6fe924f19654d",
+      "mtime": "1666544556",
+      "size": "371773",
+      "md5": "a178d535ec29edcbbc282fd850fb1511",
+      "crc32": "f79f0a6c",
+      "sha1": "df640fe4832362b524d20da2885b4716910dc5f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wncn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "675713a69af52b2f3a4d534dd11e09ec",
+      "md5": "992dbd90de92bacac1c425b295452a10",
       "summation": "md5"
     },
     {
       "name": "wncn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666499475",
-      "size": "2162688",
-      "md5": "fe646c69aeac5fdcf8c357d82c0fdf1e",
-      "crc32": "befd8563",
-      "sha1": "cb8b1e251ba9365d19a4b103bebf64e0933e1225",
+      "mtime": "1666544429",
+      "size": "2166784",
+      "md5": "7b3279afd657c6d2728e229dd5838303",
+      "crc32": "10a811f6",
+      "sha1": "6e2e174754a5f7d751d7609e77844bf442b90642",
       "format": "Metadata"
     },
     {
@@ -18574,9 +18636,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1785,
-  "item_last_updated": 1666499716,
-  "item_size": 166351990,
+  "files_count": 1791,
+  "item_last_updated": 1666544556,
+  "item_size": 166824555,
   "metadata": {
     "identifier": "wncn-2022",
     "collection": [
@@ -18593,10 +18655,14 @@
     "publicdate": "2022-03-26 14:58:09",
     "addeddate": "2022-03-26 14:58:09"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 922268729,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1033404304,
+  "wncn-2022": {
+    "url": "https://www.cbs17.com/",
+    "job_id": "spn2-2c8cdb55d3da406f0e98db2f73bba8082fe46cfa"
+  },
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }
