@@ -1,5 +1,5 @@
 {
-  "created": 1666507121,
+  "created": 1666554890,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/presscitizen-2022",
@@ -20840,31 +20840,93 @@
       "sha1": "6ab28309a70181e43ef6025659f202d5ed7ebfea"
     },
     {
+      "name": "presscitizen-2022-10-23T14:18:37.117857-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666552725",
+      "size": "19166",
+      "md5": "2bd1681c9e4bec32b694e220d17425b4",
+      "crc32": "fb9d0947",
+      "sha1": "f7fb373c3f33ea8030333865035c95a0b7f62385",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-10-23T14:18:37.117857-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666552727",
+      "size": "27535",
+      "md5": "e6aa5a65d2e1016da52b5dfc0ba78eb5",
+      "crc32": "8c9a10c6",
+      "sha1": "de45876af48674b5aac9f552ef1f3a3cc8add351",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-10-23T14:18:37.117857-05:00.jpg",
+      "source": "original",
+      "mtime": "1666552724",
+      "size": "254073",
+      "md5": "e6a1219a5a39468559a4b46ee123e102",
+      "crc32": "dd2feb94",
+      "sha1": "e5952112bd59f75460cb748c4f1226a39eea5b0c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "presscitizen-2022-10-23T14:18:37.117857-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666552729",
+      "size": "1522",
+      "md5": "9d4eae9619e99498953966658da3fe0e",
+      "crc32": "1786ec6e",
+      "sha1": "3573f6c17428d9d2b7904d77612b9dcde1d0e66c",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-10-23T14:18:37.117857-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666552730",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-10-23T14:18:37.117857-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "presscitizen-2022-10-23T14:18:37.117857-05:00.jpg",
+      "mtime": "1666552819",
+      "size": "9156",
+      "md5": "664b671b6e17da7fc31ab01698b92801",
+      "crc32": "90f76320",
+      "sha1": "2c66efc5f5e1fb09265857b5051d3ef737f9056a"
+    },
+    {
       "name": "presscitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd29b4fcd8d03b5ecc773b05dfe04ba671b1a359",
-      "mtime": "1666507090",
-      "size": "430847",
-      "md5": "e0d8b8e5357c358d8192d4100115a5b0",
-      "crc32": "3a3f1163",
-      "sha1": "1ec1a065024b6e81e02a8c3be231f0f1c7de42f6",
+      "btih": "7ce3286e5a32670035e6e54995337b417c2775f4",
+      "mtime": "1666552882",
+      "size": "432136",
+      "md5": "1a9e067687441734ce6cce589c281b84",
+      "crc32": "0d351e6f",
+      "sha1": "b93e2a24851d4f2e194a7ba3a8844c6c77f71049",
       "format": "Archive BitTorrent"
     },
     {
       "name": "presscitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ce3280d95875db530fc1efed6ba926bc",
+      "md5": "df78e1e8518d813dfcc0fbe400149289",
       "summation": "md5"
     },
     {
       "name": "presscitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666506922",
-      "size": "2465792",
-      "md5": "455066583f1bde08f162728897fb27db",
-      "crc32": "23e627db",
-      "sha1": "d89b11321d0a519c51c864e09a733b9ce99ce54b",
+      "mtime": "1666552734",
+      "size": "2478080",
+      "md5": "0685a8c22a3de169c4c65917749ae5cb",
+      "crc32": "cb775457",
+      "sha1": "44778613ff02ecb561c45af309b35731ae331284",
       "format": "Metadata"
     },
     {
@@ -20878,9 +20940,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2007,
-  "item_last_updated": 1666507090,
-  "item_size": 147667094,
+  "files_count": 2013,
+  "item_last_updated": 1666552882,
+  "item_size": 147992325,
   "metadata": {
     "identifier": "presscitizen-2022",
     "collection": [
@@ -20897,8 +20959,13 @@
     "publicdate": "2022-03-25 03:35:38",
     "addeddate": "2022-03-25 03:35:38"
   },
+  "presscitizen-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601509.us.archive.org",
-  "uniq": 1638309276,
+  "uniq": 723112163,
   "workable_servers": [
     "ia601509.us.archive.org",
     "ia801509.us.archive.org"
