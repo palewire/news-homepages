@@ -1,5 +1,6 @@
 {
-  "created": 1666450385,
+  "conflict": 1666495871,
+  "created": 1666495871,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/16/items/thesun-2022",
@@ -28954,31 +28955,93 @@
       "sha1": "3d478661870042a6fb0c7868cbb4c32f90ad3b88"
     },
     {
+      "name": "thesun-2022-10-23T04:26:24.084634+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666495614",
+      "size": "88325",
+      "md5": "017aaa763e6822e27dfda66d131ffdaa",
+      "crc32": "5da202ce",
+      "sha1": "91ec878c36b65f8e57636b13bb0bc7ac0680fec9",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-10-23T04:26:24.084634+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666495615",
+      "size": "102479",
+      "md5": "dd0fd31b4a1432e3e6b55ce64a872fad",
+      "crc32": "c1e33a59",
+      "sha1": "e39cc1d81dbba05077dc295fadef66a50f641918",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-10-23T04:26:24.084634+01:00.jpg",
+      "source": "original",
+      "mtime": "1666495612",
+      "size": "323418",
+      "md5": "e25133464c59be8600ee32312c638973",
+      "crc32": "282af513",
+      "sha1": "4d40dc91d6aed6ef679b22a51d8ba8dac2fa7ee2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesun-2022-10-23T04:26:24.084634+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666495617",
+      "size": "1477",
+      "md5": "0a9c147431634b9160dcf3dee40a2f8e",
+      "crc32": "f7eae702",
+      "sha1": "58b2d324ac740b6588732bd8d1e5b4987c3b0f65",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-10-23T04:26:24.084634+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666495619",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thesun-2022-10-23T04:26:24.084634+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesun-2022-10-23T04:26:24.084634+01:00.jpg",
+      "mtime": "1666495767",
+      "size": "11149",
+      "md5": "841c13b4cd01eeae2f8571e5cc518000",
+      "crc32": "b89881db",
+      "sha1": "716c4663e76b4c02b0ced52ab703f9dd53fe43d7"
+    },
+    {
       "name": "thesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f3a556c94fb32c0224710d50cb869960836ba8ba",
-      "mtime": "1666450365",
-      "size": "585435",
-      "md5": "881f0e05f25d5e6c55f95777a6936c9b",
-      "crc32": "4bef7e6a",
-      "sha1": "b8f1ec1ab7cdcf2d8ef7b78bc64eec293ba1b743",
+      "btih": "60285d328dd1842dd86bd8f17dc2e26196912896",
+      "mtime": "1666495867",
+      "size": "586690",
+      "md5": "fba0bea44822fc1a88df4400bf95d86c",
+      "crc32": "92dec281",
+      "sha1": "d298e4d18fc1481b32a05f9e07a3ec2a28cb998a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50c3e65748a7afd5e941f1ebaa53503e",
+      "md5": "027e2a6bfb588234e5818590076f6566",
       "summation": "md5"
     },
     {
       "name": "thesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666449937",
-      "size": "3358720",
-      "md5": "159842575ee73512e8642ddd678f638b",
-      "crc32": "896a834a",
-      "sha1": "766d0bdbbe1a1566f9be536918b83d4a8da75232",
+      "mtime": "1666495630",
+      "size": "3366912",
+      "md5": "d35830fec713f12ff09c4f6c4e560a53",
+      "crc32": "431fb7a6",
+      "sha1": "39b103b944763099c63c297b54b0637e925347c1",
       "format": "Metadata"
     },
     {
@@ -28992,9 +29055,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2784,
-  "item_last_updated": 1666450365,
-  "item_size": 309916481,
+  "files_count": 2790,
+  "item_last_updated": 1666495867,
+  "item_size": 310452978,
   "metadata": {
     "identifier": "thesun-2022",
     "collection": [
@@ -29011,10 +29074,29 @@
     "publicdate": "2022-03-23 08:04:03",
     "addeddate": "2022-03-23 08:04:03"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 232016666,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3448861836,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3448862641,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1072854967,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

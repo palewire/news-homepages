@@ -1,5 +1,5 @@
 {
-  "created": 1666450102,
+  "created": 1666495693,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/timestelegram-2022",
@@ -3974,31 +3974,93 @@
       "sha1": "7cf3303437872623a9772f012e89f34a2d452933"
     },
     {
+      "name": "timestelegram-2022-10-22T23:26:49.645088-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666495614",
+      "size": "23622",
+      "md5": "8bfa637f7004d2f7e1c3cae89d49e85b",
+      "crc32": "e2ec3874",
+      "sha1": "5461f72d86cd833e797895cbf8d126353af8651c",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-22T23:26:49.645088-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666495616",
+      "size": "32932",
+      "md5": "945b6d24a9b21d00d9cc661e49bb1be6",
+      "crc32": "b8d12d52",
+      "sha1": "bafc5f08c539ad0383160dc5c56822461d85a8d9",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-22T23:26:49.645088-04:00.jpg",
+      "source": "original",
+      "mtime": "1666495613",
+      "size": "249180",
+      "md5": "729ca2d648d981a7d3a93f5573dd3820",
+      "crc32": "7e74d5aa",
+      "sha1": "17bd2dd05505e04e4fa376c415bdb6e78c056e38",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timestelegram-2022-10-22T23:26:49.645088-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666495617",
+      "size": "1522",
+      "md5": "076cf77aea95943450ff4fbf86c7c379",
+      "crc32": "3a7b66e0",
+      "sha1": "12fa7b0ba81f07593a07e46e0c60677b0659c4e2",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-22T23:26:49.645088-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666495619",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-22T23:26:49.645088-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timestelegram-2022-10-22T23:26:49.645088-04:00.jpg",
+      "mtime": "1666495674",
+      "size": "9434",
+      "md5": "c7ddbd6d3a172f63f44530b255badbc6",
+      "crc32": "391f72f6",
+      "sha1": "5ba03dfba4a5c9213d83a945f4f21087f016f627"
+    },
+    {
       "name": "timestelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6666f90cdbfeeac2f170b2962107104ca6ad3866",
-      "mtime": "1666450096",
-      "size": "84134",
-      "md5": "1326bac6dfacf1ba0b97d0ff394208a3",
-      "crc32": "2d9296c9",
-      "sha1": "f0cf014bf736f77458f4f3beaf58660c2fc9e430",
+      "btih": "fc3394a5137bb16a190c7c9687b11999fd480153",
+      "mtime": "1666495679",
+      "size": "85429",
+      "md5": "4ef80174cfbabaf46936c7b2c4376d19",
+      "crc32": "6032006e",
+      "sha1": "257a19fcb9257620c97dabfe56e53d3bf4df3fc6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timestelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed4e136f372a9823f46c919441931bee",
+      "md5": "742a25686796a2d4bf051ab71b1cc5a8",
       "summation": "md5"
     },
     {
       "name": "timestelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666450046",
-      "size": "512000",
-      "md5": "dfb8cde09ba838940a81dab27692da62",
-      "crc32": "b090bff7",
-      "sha1": "2e4ba79be52c40c764590d5e64ae87feb2df3ab0",
+      "mtime": "1666495626",
+      "size": "516096",
+      "md5": "4116174b0fa605ba9fa46eda0b1bf2ec",
+      "crc32": "0391fc73",
+      "sha1": "8cb5a77507006b609a7c275d79fa413096105ab7",
       "format": "Metadata"
     },
     {
@@ -4012,9 +4074,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 388,
-  "item_last_updated": 1666450096,
-  "item_size": 26094323,
+  "files_count": 394,
+  "item_last_updated": 1666495679,
+  "item_size": 26416606,
   "metadata": {
     "identifier": "timestelegram-2022",
     "collection": [
@@ -4032,7 +4094,7 @@
     "addeddate": "2022-09-21 03:46:50"
   },
   "server": "ia801409.us.archive.org",
-  "uniq": 1279639102,
+  "uniq": 457187560,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

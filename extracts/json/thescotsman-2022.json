@@ -1,5 +1,6 @@
 {
-  "created": 1666450264,
+  "conflict": 1666495872,
+  "created": 1666495872,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/4/items/thescotsman-2022",
@@ -16464,31 +16465,88 @@
       "sha1": "603710741af40ab3b7b176dc70aa268506953270"
     },
     {
+      "name": "thescotsman-2022-10-23T04:26:26.996627+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666495590",
+      "size": "66114",
+      "md5": "0ebc7ff42941424dcfb1e40ab7b3e878",
+      "crc32": "4a21d70f",
+      "sha1": "021243b7a26701a470551cf41e3a50b72634d905",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-10-23T04:26:26.996627+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666495591",
+      "size": "64598",
+      "md5": "1d082d8215c0eb253326aa1cbcb40ebc",
+      "crc32": "b6447bc4",
+      "sha1": "ae8e885cceb4e020a4228a0daf5437c1a7f86bc3",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-10-23T04:26:26.996627+01:00.jpg",
+      "source": "original",
+      "mtime": "1666495588",
+      "size": "206174",
+      "md5": "fd683e74588d376981e2d1f402607045",
+      "crc32": "59e7ae5d",
+      "sha1": "18233b0818c2cf5cd2c2cfa9122f5bc811a2d7d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thescotsman-2022-10-23T04:26:26.996627+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666495593",
+      "size": "1477",
+      "md5": "8c91ce080dfe5146b1262b91d8972a40",
+      "crc32": "1560515d",
+      "sha1": "38b81afea4f48ea54a4f8310fee964672dfc4ecf",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-10-23T04:26:26.996627+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666495594",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thescotsman-2022-10-23T04:26:26.996627+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thescotsman-2022-10-23T04:26:26.996627+01:00.jpg"
+    },
+    {
       "name": "thescotsman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e0c7c4d88081bffdd720f29002e4c5c94ba4d19f",
-      "mtime": "1666450231",
-      "size": "340302",
-      "md5": "492f8b11527b99d1bbe13613b09afcde",
-      "crc32": "b1985b54",
-      "sha1": "380c989fd4c6cd4fdd1bb1be7559d931e20457ea",
+      "btih": "d16289c12d03ff2554089224e89eb24f2a7c34b1",
+      "mtime": "1666495658",
+      "size": "341358",
+      "md5": "ccd86226f91ad36dc7f4bcede90075fd",
+      "crc32": "c4d17b81",
+      "sha1": "49936db46bd6eb4e9055ebbf741eb6828eb02db8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thescotsman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75f4ed01bc8dd32f3380c3d4170ba601",
+      "md5": "7a5b8337981a0e64a690b2faa28379b5",
       "summation": "md5"
     },
     {
       "name": "thescotsman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666449904",
-      "size": "2007040",
-      "md5": "b57b1887ae68756840463b3514fc97e2",
-      "crc32": "d208b599",
-      "sha1": "1dcfa93796000173e3f5c4f734f6bf7b97203f0a",
+      "mtime": "1666495602",
+      "size": "2019328",
+      "md5": "5bda653fe037d7ce9d2a4dfc22db11f4",
+      "crc32": "9dae0fda",
+      "sha1": "2c09f1420ae4353b8ba389b4a4229cc6509254d6",
       "format": "Metadata"
     },
     {
@@ -16502,9 +16560,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1593,
-  "item_last_updated": 1666450231,
-  "item_size": 110488558,
+  "files_count": 1599,
+  "item_last_updated": 1666495658,
+  "item_size": 110840467,
   "metadata": {
     "identifier": "thescotsman-2022",
     "collection": [
@@ -16521,10 +16579,21 @@
     "publicdate": "2022-07-06 21:13:25",
     "addeddate": "2022-07-06 21:13:25"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1693342749,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3448861413,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1340886673,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

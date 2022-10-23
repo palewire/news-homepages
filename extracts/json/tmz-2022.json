@@ -1,5 +1,6 @@
 {
-  "created": 1666450209,
+  "conflict": 1666495848,
+  "created": 1666495848,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/tmz-2022",
@@ -11504,31 +11505,93 @@
       "sha1": "2a2dc6a9d5119d4d7d757df2d3fdad9560d5b4c1"
     },
     {
+      "name": "tmz-2022-10-22T20:27:12.871603-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666495662",
+      "size": "91174",
+      "md5": "e9b21e7aece2511117bf640c42d19087",
+      "crc32": "369fb918",
+      "sha1": "49a49bb620dd0f11bd9c8d4b9afc2a89add3990c",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-22T20:27:12.871603-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666495664",
+      "size": "70235",
+      "md5": "9b3073e05ebcc5adcbd539e59cc586e9",
+      "crc32": "25df7677",
+      "sha1": "8b14b02c015bf56eb4cb50def3f738a5010b3b4e",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-22T20:27:12.871603-07:00.jpg",
+      "source": "original",
+      "mtime": "1666495660",
+      "size": "239161",
+      "md5": "e41da04f50b09f2a691b096eb6eec6b7",
+      "crc32": "47e2352d",
+      "sha1": "04b91369ef6067f287a08b765c6760cdc6587d71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tmz-2022-10-22T20:27:12.871603-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666495665",
+      "size": "1432",
+      "md5": "6295950fe057d7ead08446a006304f9a",
+      "crc32": "0326e0df",
+      "sha1": "44276680384441befae78dcf461c06930d33910c",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-22T20:27:12.871603-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666495667",
+      "size": "208405",
+      "md5": "971fa95df56cc114cee8eba8a4364286",
+      "crc32": "7e40ec68",
+      "sha1": "e2bb62b42a67dfa778940f6b21c990776a3568dc",
+      "format": "JSON"
+    },
+    {
+      "name": "tmz-2022-10-22T20:27:12.871603-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tmz-2022-10-22T20:27:12.871603-07:00.jpg",
+      "mtime": "1666495784",
+      "size": "9899",
+      "md5": "fb6f54a7742d885722e44512ca2037c1",
+      "crc32": "e817ec41",
+      "sha1": "421f499bc57ae09ff4193c9dfadf0a40e7238aae"
+    },
+    {
       "name": "tmz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7fd4f4d9167af2b0da4f0b3bc3253a8d0dfb014c",
-      "mtime": "1666450196",
-      "size": "230613",
-      "md5": "8f0578a11234634c10efc689dbb6ccc5",
-      "crc32": "59fce6f9",
-      "sha1": "0e46d8e6edb36385384ace16acabc42fdebd10ea",
+      "btih": "14c245a28a19d8bb6d5b2c34a7664c8d0ba89144",
+      "mtime": "1666495818",
+      "size": "231851",
+      "md5": "a5a8d97f775a48e739223d71fd1c87f6",
+      "crc32": "962d5a05",
+      "sha1": "4754c3e0cc60148a104648f2cd67e836aa1a6017",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tmz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c444c1d0c261c727f1d789084b332de",
+      "md5": "d893aa6131d9d496c275a4a6e6bc1641",
       "summation": "md5"
     },
     {
       "name": "tmz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666450095",
-      "size": "1404928",
-      "md5": "5d0f8156e87c1549b7ade50ba6301142",
-      "crc32": "5ac50497",
-      "sha1": "b1d003319d8badfbe3e90b313801c728d2fd3f1a",
+      "mtime": "1666495680",
+      "size": "1409024",
+      "md5": "b32cf361219ad5fff503ee8cc048cb05",
+      "crc32": "98ca9309",
+      "sha1": "eb9aafb603e7f8a774c25ddf5c80d63b2baf8d0b",
       "format": "Metadata"
     },
     {
@@ -11542,9 +11605,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1115,
-  "item_last_updated": 1666450196,
-  "item_size": 101008180,
+  "files_count": 1121,
+  "item_last_updated": 1666495818,
+  "item_size": 101633820,
   "metadata": {
     "identifier": "tmz-2022",
     "collection": [
@@ -11561,10 +11624,21 @@
     "publicdate": "2022-07-18 04:19:31",
     "addeddate": "2022-07-18 04:19:31"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 217476452,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3448862343,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1467870026,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }
