@@ -1,5 +1,5 @@
 {
-  "created": 1666465081,
+  "created": 1666507104,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/31/items/propublica-2022",
@@ -15368,31 +15368,93 @@
       "sha1": "989a7c0c27ee27125ab80ede72ad6404a57a4fee"
     },
     {
+      "name": "propublica-2022-10-23T02:36:19.891612-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666506989",
+      "size": "51370",
+      "md5": "3927d45c5d86365f57c2f9e07b571f0e",
+      "crc32": "4390b4b7",
+      "sha1": "3466468107a270defd1cd30cf22460f60c053d30",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-10-23T02:36:19.891612-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666506990",
+      "size": "21278",
+      "md5": "4fad101222f6e3f949817e6160acabd1",
+      "crc32": "2c8c1b2c",
+      "sha1": "4dcfa44a2d2f04de0b0b016d08355f691fb4f013",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-10-23T02:36:19.891612-04:00.jpg",
+      "source": "original",
+      "mtime": "1666506987",
+      "size": "312761",
+      "md5": "88cbde92aa98c751477b83024a0e00a9",
+      "crc32": "3389f977",
+      "sha1": "e3bc01dd8ac6fbd80cb7b718fae549defb7db714",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "propublica-2022-10-23T02:36:19.891612-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666506992",
+      "size": "1483",
+      "md5": "a0def58d11449e5d4fd0d82870e09406",
+      "crc32": "aed398bf",
+      "sha1": "c15105233de4a1b6b0837c576b3b7bd11afdd17b",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-10-23T02:36:19.891612-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666506993",
+      "size": "26189",
+      "md5": "1f374a743500d75531c4908db89df8f7",
+      "crc32": "f2fe5c6c",
+      "sha1": "e3c0e589a9b4acf32eec0267d41f04cb9233f78b",
+      "format": "JSON"
+    },
+    {
+      "name": "propublica-2022-10-23T02:36:19.891612-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "propublica-2022-10-23T02:36:19.891612-04:00.jpg",
+      "mtime": "1666507065",
+      "size": "10544",
+      "md5": "5372d9323025b90cd2085487fab2d84c",
+      "crc32": "b3937b6f",
+      "sha1": "b0ebeb7eda55237e337ee05d2b51e686f098efa8"
+    },
+    {
       "name": "propublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0920e48c8c4c30e3038d68a67047f7d757ad60ef",
-      "mtime": "1666463821",
-      "size": "316014",
-      "md5": "755739be8c987bd99a4b6ec91795e43c",
-      "crc32": "39f658e9",
-      "sha1": "f97d0723aeeb7dbf7a051396b292123ba46d1f9d",
+      "btih": "b4da9f19d393713b54b4eeb93d64735ffe06fc8a",
+      "mtime": "1666507084",
+      "size": "317274",
+      "md5": "34cea4cdee2a5ee61e1ce5f271ff3b3b",
+      "crc32": "786637cf",
+      "sha1": "66fc1f4301ed475d9fc493bd7a99c71c6009613f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "propublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57233e80548018b13f360fa127d10fce",
+      "md5": "ab9022190a4d5fb3d9621021363b509e",
       "summation": "md5"
     },
     {
       "name": "propublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666463667",
-      "size": "1835008",
-      "md5": "7b4eae33fb73a472f9d2eb6b98af60fc",
-      "crc32": "8b75560b",
-      "sha1": "cc820e55032278395fc6c2673312f4998c617a84",
+      "mtime": "1666506997",
+      "size": "1839104",
+      "md5": "a0e70f3c18bfb5c7309c84d67e5d5add",
+      "crc32": "0cd1da20",
+      "sha1": "aacc11a7a2d3c1393c483eadc94ce0ebfcc073a6",
       "format": "Metadata"
     },
     {
@@ -15406,9 +15468,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1483,
-  "item_last_updated": 1666463821,
-  "item_size": 115707017,
+  "files_count": 1489,
+  "item_last_updated": 1666507084,
+  "item_size": 116135998,
   "metadata": {
     "identifier": "propublica-2022",
     "collection": [
@@ -15425,15 +15487,10 @@
     "publicdate": "2022-06-17 17:26:41",
     "addeddate": "2022-06-17 17:26:41"
   },
-  "propublica-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1915907510,
+  "server": "ia601504.us.archive.org",
+  "uniq": 1102865138,
   "workable_servers": [
-    "ia801504.us.archive.org",
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }
