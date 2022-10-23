@@ -1,5 +1,5 @@
 {
-  "created": 1666453754,
+  "created": 1666499741,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/amazoniaagencia-2022",
@@ -13532,31 +13532,93 @@
       "sha1": "cf759163e2d9e57ac6ad71985ed4187e5c998cfc"
     },
     {
+      "name": "amazoniaagencia-2022-10-23T01:27:47.442279-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666499276",
+      "size": "62683",
+      "md5": "ca1bae1c59d3fa7fd18a8ca3d8a48d7c",
+      "crc32": "7f052a48",
+      "sha1": "14a614bf6c25fdaf407a682439707e89f8cdae15",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-23T01:27:47.442279-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666499277",
+      "size": "90732",
+      "md5": "7002a62fa75945aad928588b3e2b722a",
+      "crc32": "7973063f",
+      "sha1": "4cc639f43dde6485ac15d7d95ce02e6a8d43d93e",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-23T01:27:47.442279-03:00.jpg",
+      "source": "original",
+      "mtime": "1666499274",
+      "size": "286287",
+      "md5": "7bd6f518ba4432e6757c4ba703b1099b",
+      "crc32": "76bf9912",
+      "sha1": "92ed002c0342eca9d0c45ca9c9cfbd49b7f898f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-23T01:27:47.442279-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666499279",
+      "size": "1468",
+      "md5": "db4c364cdff15bc1add2f8a8918a6b73",
+      "crc32": "1114e1ed",
+      "sha1": "d465f5d312f9a1fe18afd1ab7a917887b4eb2bfe",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-23T01:27:47.442279-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666499280",
+      "size": "20590",
+      "md5": "8fd356c470cbc3568806acc30cdbfb35",
+      "crc32": "f0ff2c75",
+      "sha1": "f78d3918ec212cef13681cf79eb60c75b911eb38",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-23T01:27:47.442279-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-23T01:27:47.442279-03:00.jpg",
+      "mtime": "1666499388",
+      "size": "11475",
+      "md5": "7f259b80b6b99865f265acc145ee9b9a",
+      "crc32": "bc0b9c2c",
+      "sha1": "b1380fd621e3c6bd2d4b84433715155627e00e21"
+    },
+    {
       "name": "amazoniaagencia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b1b51da341b570e3389f3c2f91fb518d1be45dd3",
-      "mtime": "1666453725",
-      "size": "286445",
-      "md5": "5dd560acd7685796297b374b7e38f277",
-      "crc32": "8e843750",
-      "sha1": "773bdba5b3bbd4b61cdfd8aa19978c5878dc7f89",
+      "btih": "0e9922cf755d907d5ec2d1c13af6cc19e9a5431c",
+      "mtime": "1666499411",
+      "size": "287755",
+      "md5": "69b1cba248e1154c07b76968c63c138b",
+      "crc32": "3b476d70",
+      "sha1": "69d9233e1bb2058755974c49387e4f6c4d2aed09",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amazoniaagencia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dd6ade2b20b7e6e22560603c82d8b006",
+      "md5": "6a17fcd40ad7beb3428a077e3ec55a63",
       "summation": "md5"
     },
     {
       "name": "amazoniaagencia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666453595",
-      "size": "1691648",
-      "md5": "69635c24d3b37979c089b82bb22ce33e",
-      "crc32": "a27e824e",
-      "sha1": "b36a52ff253da79a634323b250fd3a80ef243432",
+      "mtime": "1666499295",
+      "size": "1695744",
+      "md5": "30ef4a899cd5340392f0ea5e5ea651d7",
+      "crc32": "2e7d755f",
+      "sha1": "f52c9adf46ed7fe0fd1da9745452261136bea660",
       "format": "Metadata"
     },
     {
@@ -13570,9 +13632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1313,
-  "item_last_updated": 1666453725,
-  "item_size": 95861044,
+  "files_count": 1319,
+  "item_last_updated": 1666499411,
+  "item_size": 96339685,
   "metadata": {
     "identifier": "amazoniaagencia-2022",
     "collection": [
@@ -13589,10 +13651,10 @@
     "publicdate": "2022-08-07 19:42:20",
     "addeddate": "2022-08-07 19:42:20"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 41308605,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1282219920,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

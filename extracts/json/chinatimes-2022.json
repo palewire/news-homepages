@@ -1,5 +1,5 @@
 {
-  "created": 1666453849,
+  "created": 1666499551,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/8/items/chinatimes-2022",
@@ -10000,31 +10000,93 @@
       "sha1": "e53bb0f9578101dce7f5c962b13a37782a1a777f"
     },
     {
+      "name": "chinatimes-2022-10-23T12:29:27.231294+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666499386",
+      "size": "41553",
+      "md5": "c0b2f024b7165f958495e3d3edef53ea",
+      "crc32": "faaf448e",
+      "sha1": "f53d7489eb99348f9bd018c7eb27eaa3332c1176",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-10-23T12:29:27.231294+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666499388",
+      "size": "80755",
+      "md5": "28babc22293132a4523de7338f86ba0c",
+      "crc32": "1f212c92",
+      "sha1": "b054affe875470721c534d33aa7a37e2fc74c2fd",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-10-23T12:29:27.231294+08:00.jpg",
+      "source": "original",
+      "mtime": "1666499385",
+      "size": "285729",
+      "md5": "c6d1ed8053f00a55e63c9267f119ce18",
+      "crc32": "17ce7fe6",
+      "sha1": "49de7401eaf7910010c75aba33989baebbcd6dcf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chinatimes-2022-10-23T12:29:27.231294+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666499390",
+      "size": "1495",
+      "md5": "5a1f72d1a559772fd971e8cbdf39ee2e",
+      "crc32": "4508b104",
+      "sha1": "77f9adcf6d373799e83f41b85c6f183898aaf37b",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-10-23T12:29:27.231294+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666499392",
+      "size": "79134",
+      "md5": "3148d6d591d1f8636da69069d029ee6f",
+      "crc32": "d8d6c519",
+      "sha1": "6375121d4eb8c709fa2dd45761040bf32ea69163",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-10-23T12:29:27.231294+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chinatimes-2022-10-23T12:29:27.231294+08:00.jpg",
+      "mtime": "1666499501",
+      "size": "9706",
+      "md5": "302c9c512db1658749b386fb652db746",
+      "crc32": "8a956717",
+      "sha1": "571e51f16ff280ff54f6bf85cdd118594991db0a"
+    },
+    {
       "name": "chinatimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75c2dd5e29f37d3c5dbe30abbc6b008b4b0d4e99",
-      "mtime": "1666453822",
-      "size": "206830",
-      "md5": "6cdb0cccdc730f97eb958efec3971a75",
-      "crc32": "d8a85855",
-      "sha1": "8c5db92579494123f687ae1727bd1bddbe909097",
+      "btih": "d574af8dcaf9c540038b8b797353e1423a536120",
+      "mtime": "1666499511",
+      "size": "208109",
+      "md5": "d971434bf9d2bbebb7bfdc45b6769f5d",
+      "crc32": "8932ab50",
+      "sha1": "74ada55e90516eff01285e1a6df3091a5574b2a8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chinatimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b9f1057abbc40c123a344bc0f426156",
+      "md5": "62962b0ea9179e8bdcdf7310068bf532",
       "summation": "md5"
     },
     {
       "name": "chinatimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666453719",
-      "size": "1241088",
-      "md5": "42a396b468085710e0e271723032cf27",
-      "crc32": "d9f3ed15",
-      "sha1": "2bf08783b73e22d7506cf2faa8c4ae5ad0b2c337",
+      "mtime": "1666499406",
+      "size": "1253376",
+      "md5": "5b1357d6c5dcd56ffe1cf96914b0c7e9",
+      "crc32": "68487efa",
+      "sha1": "d3e8e7f5bf60a5ae93eeb8b770b3378911a99b9f",
       "format": "Metadata"
     },
     {
@@ -10038,9 +10100,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 971,
-  "item_last_updated": 1666453822,
-  "item_size": 69155185,
+  "files_count": 977,
+  "item_last_updated": 1666499511,
+  "item_size": 69667124,
   "metadata": {
     "identifier": "chinatimes-2022",
     "collection": [
@@ -10058,7 +10120,7 @@
     "addeddate": "2022-08-03 01:54:37"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 154946139,
+  "uniq": 318518104,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"
