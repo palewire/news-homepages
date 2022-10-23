@@ -1,5 +1,5 @@
 {
-  "created": 1666522721,
+  "created": 1666564945,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/28/items/burlcotimes-2022",
@@ -4098,31 +4098,93 @@
       "sha1": "980cf07dbc87008a00becf90e695495c1a91470d"
     },
     {
+      "name": "burlcotimes-2022-10-23T18:41:20.425936-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666564884",
+      "size": "23849",
+      "md5": "90dd095b5e26c6fe94a3c3ac777733dc",
+      "crc32": "5b94306d",
+      "sha1": "ad1e52f86f3daff258317196444b48e8be3a76ff",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-23T18:41:20.425936-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666564885",
+      "size": "35788",
+      "md5": "8ee1302efc74f5cb977b9fe82ff65ecd",
+      "crc32": "4a93fde4",
+      "sha1": "36433d9989d54b4dc13771e44742fd852ab12427",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-23T18:41:20.425936-04:00.jpg",
+      "source": "original",
+      "mtime": "1666564883",
+      "size": "264222",
+      "md5": "fbcb0963aadc2f11887b7292089f8590",
+      "crc32": "f01f2f82",
+      "sha1": "9e9f866cf0b66ac8ecf00b6e787ea5cad1cefceb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "burlcotimes-2022-10-23T18:41:20.425936-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666564887",
+      "size": "1594",
+      "md5": "64295229578b6890762585c4b587b0d1",
+      "crc32": "b2e567bc",
+      "sha1": "8a8f6da3474dd60f22e4810977ce1607b8a551e2",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-23T18:41:20.425936-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666564888",
+      "size": "90967",
+      "md5": "4727c18c1c5639ee7e89e1c9bc39c684",
+      "crc32": "b4a30425",
+      "sha1": "1e6a021ab9eeea8b449b4a6fe3a42721aeeb2656",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-23T18:41:20.425936-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "burlcotimes-2022-10-23T18:41:20.425936-04:00.jpg",
+      "mtime": "1666564936",
+      "size": "9436",
+      "md5": "b67e433207b2eb2191f71252d7986b41",
+      "crc32": "0988f20c",
+      "sha1": "115210d8049d97fe57e574183760bd94eaa45f58"
+    },
+    {
       "name": "burlcotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "70c6c0d677548973e4d938bfe838a903983985e5",
-      "mtime": "1666522714",
-      "size": "85912",
-      "md5": "d94b5676f65ff32cb5b3ac06d1916f81",
-      "crc32": "40d5aa67",
-      "sha1": "e8ebdfaf8e24d000c569cd864876dd624c054ed2",
+      "btih": "a9ed54492fb7b3671e2f678cdc15af7e2aca1450",
+      "mtime": "1666564940",
+      "size": "87197",
+      "md5": "c34ac02d26f22349f30d790385bf6e5a",
+      "crc32": "c0c4ed90",
+      "sha1": "7989edc3ff4d52948c8e6f26d97103f8c434ad28",
       "format": "Archive BitTorrent"
     },
     {
       "name": "burlcotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ecbe04e2b979dd5df191f005746833e5",
+      "md5": "c4f4b0c244bfc14d8568dbb7604b8adc",
       "summation": "md5"
     },
     {
       "name": "burlcotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666522666",
-      "size": "524288",
-      "md5": "b547813f32a383150f79ef15e7976227",
-      "crc32": "cc612561",
-      "sha1": "256b0532db54a9d5e41a6be89360196e8f737ebd",
+      "mtime": "1666564893",
+      "size": "532480",
+      "md5": "3a46f212629ce50db87a455113e9e2f5",
+      "crc32": "6fc850c1",
+      "sha1": "1b803633fe8dd245cc0f38137be65acf6cb357ba",
       "format": "Metadata"
     },
     {
@@ -4136,9 +4198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 400,
-  "item_last_updated": 1666522714,
-  "item_size": 26962399,
+  "files_count": 406,
+  "item_last_updated": 1666564940,
+  "item_size": 27397732,
   "metadata": {
     "identifier": "burlcotimes-2022",
     "collection": [
@@ -4155,10 +4217,10 @@
     "publicdate": "2022-09-20 22:11:31",
     "addeddate": "2022-09-20 22:11:31"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 801662439,
+  "server": "ia601409.us.archive.org",
+  "uniq": 1403308124,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }
