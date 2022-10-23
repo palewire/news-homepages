@@ -1,5 +1,5 @@
 {
-  "created": 1666482511,
+  "created": 1666526207,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/26/items/charlie_hebdo_-2022",
@@ -14650,31 +14650,155 @@
       "sha1": "31ff6b84c15859f94d2283d42de981052bef7ce1"
     },
     {
+      "name": "charlie_hebdo_-2022-10-23T10:19:14.825261+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666513162",
+      "size": "14764",
+      "md5": "1b67d7d1bdc02944204aab84186bd9b9",
+      "crc32": "07974358",
+      "sha1": "f64237ce1a31690513e9e33718b2389eced59598",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T10:19:14.825261+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666513163",
+      "size": "13961",
+      "md5": "1a01930f2d42938e7bbbb11e466c189e",
+      "crc32": "7bf37bf1",
+      "sha1": "50a5d7a8f12bc2914362385bc96f1489d1bc1466",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T10:19:14.825261+02:00.jpg",
+      "source": "original",
+      "mtime": "1666513160",
+      "size": "307089",
+      "md5": "c97a6f503e7e9f8eb1a44f523a362b74",
+      "crc32": "33136185",
+      "sha1": "a71c1484032551f4dff5c144a87285afd7af7f9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T10:19:14.825261+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666513165",
+      "size": "1466",
+      "md5": "f9ed1d246bb3666be677d1136a1e02dc",
+      "crc32": "ffbbf11e",
+      "sha1": "fd590cc0e2b6bec2651b7909129349a900c4e239",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T10:19:14.825261+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666513167",
+      "size": "7692",
+      "md5": "fe1bbf8916e7161f0986e93d4b0f64c3",
+      "crc32": "cac0b522",
+      "sha1": "c277e76e8c1d40aa0cadd7452cbaed4b006fd791",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T10:19:14.825261+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "charlie_hebdo_-2022-10-23T10:19:14.825261+02:00.jpg",
+      "mtime": "1666513248",
+      "size": "11358",
+      "md5": "a88769b16b70b245251b04b530421ee8",
+      "crc32": "24707beb",
+      "sha1": "31ff6b84c15859f94d2283d42de981052bef7ce1"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T13:55:09.902913+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666526118",
+      "size": "14764",
+      "md5": "1b67d7d1bdc02944204aab84186bd9b9",
+      "crc32": "07974358",
+      "sha1": "f64237ce1a31690513e9e33718b2389eced59598",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T13:55:09.902913+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666526119",
+      "size": "13961",
+      "md5": "1a01930f2d42938e7bbbb11e466c189e",
+      "crc32": "7bf37bf1",
+      "sha1": "50a5d7a8f12bc2914362385bc96f1489d1bc1466",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T13:55:09.902913+02:00.jpg",
+      "source": "original",
+      "mtime": "1666526116",
+      "size": "307089",
+      "md5": "c97a6f503e7e9f8eb1a44f523a362b74",
+      "crc32": "33136185",
+      "sha1": "a71c1484032551f4dff5c144a87285afd7af7f9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T13:55:09.902913+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666526121",
+      "size": "1468",
+      "md5": "e4d7d2677bcd38c3f3ef7a7a290cc9f5",
+      "crc32": "b7e3a336",
+      "sha1": "b6dba3ee3b35a1eb86b1d4670ac510e0552595b2",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T13:55:09.902913+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666526123",
+      "size": "7549",
+      "md5": "2f9a8cfa82d1f8193c5854457a2cb44f",
+      "crc32": "ae39cdde",
+      "sha1": "cfc05bd19cef7c3e33e2d0ed2e06f10f5c5b1610",
+      "format": "JSON"
+    },
+    {
+      "name": "charlie_hebdo_-2022-10-23T13:55:09.902913+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "charlie_hebdo_-2022-10-23T13:55:09.902913+02:00.jpg",
+      "mtime": "1666526186",
+      "size": "11358",
+      "md5": "a88769b16b70b245251b04b530421ee8",
+      "crc32": "24707beb",
+      "sha1": "31ff6b84c15859f94d2283d42de981052bef7ce1"
+    },
+    {
       "name": "charlie_hebdo_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e121039d27e5128dbb72596d69379859d1b66a4",
-      "mtime": "1666482501",
-      "size": "308536",
-      "md5": "a7dd81e489666b370a405e0446b47aa9",
-      "crc32": "0f4e41ad",
-      "sha1": "1c29e3b91fb990fe155c8a4d33ddc483c8947117",
+      "btih": "0055f51c0d3051a5e0dc2b05cd3356264b4237ba",
+      "mtime": "1666526202",
+      "size": "311122",
+      "md5": "9b86a363da5d1dee03c743768c3679cb",
+      "crc32": "9e631d62",
+      "sha1": "7d253d1605baafeeb8b47d4daf69146942cf8366",
       "format": "Archive BitTorrent"
     },
     {
       "name": "charlie_hebdo_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3595c1124937553423a34e41fd6e204e",
+      "md5": "b1c060088d3617e975ccb56118229d62",
       "summation": "md5"
     },
     {
       "name": "charlie_hebdo_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666482284",
-      "size": "1826816",
-      "md5": "95613c6ff1889c19799c66920799595b",
-      "crc32": "7b0fe9f8",
-      "sha1": "93befef9cf19ea21e561e50d9751d362cbe0a7eb",
+      "mtime": "1666526127",
+      "size": "1843200",
+      "md5": "e860aab956a3ca435e47b3ddd54d29fd",
+      "crc32": "5f72d815",
+      "sha1": "7ce98e3720cdec2aade5ba1899255fb930f7c254",
       "format": "Metadata"
     },
     {
@@ -14688,9 +14812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1421,
-  "item_last_updated": 1666482501,
-  "item_size": 104262713,
+  "files_count": 1433,
+  "item_last_updated": 1666526202,
+  "item_size": 104994202,
   "metadata": {
     "identifier": "charlie_hebdo_-2022",
     "collection": [
@@ -14707,10 +14831,10 @@
     "publicdate": "2022-08-05 08:11:56",
     "addeddate": "2022-08-05 08:11:56"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1872535599,
+  "server": "ia902502.us.archive.org",
+  "uniq": 1829315361,
   "workable_servers": [
-    "ia802502.us.archive.org",
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

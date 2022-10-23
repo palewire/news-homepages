@@ -1,5 +1,5 @@
 {
-  "created": 1666482901,
+  "created": 1666526555,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/19/items/elfinanciero_mx-2022",
@@ -8584,31 +8584,93 @@
       "sha1": "beae082b8acd72a5a5fa1f4a79059faede6d0b9c"
     },
     {
+      "name": "elfinanciero_mx-2022-10-23T07:00:05.167673-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666526411",
+      "size": "34124",
+      "md5": "c4b0adb1492a123bd3aac0547fc5312f",
+      "crc32": "1f010426",
+      "sha1": "bfe48d65a8d707b80aabdcb6a96de33bacc5248c",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-10-23T07:00:05.167673-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666526412",
+      "size": "38973",
+      "md5": "ff09b1074588736d487b189cd5064056",
+      "crc32": "e910c648",
+      "sha1": "258c3143075276da5444214557e1823dcec498fa",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-10-23T07:00:05.167673-05:00.jpg",
+      "source": "original",
+      "mtime": "1666526409",
+      "size": "280510",
+      "md5": "a31acd7844192153265d22ddf4acf578",
+      "crc32": "8a72c80f",
+      "sha1": "4f33772d0e6073dc8a31517bbb7cfcfccba6beb3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elfinanciero_mx-2022-10-23T07:00:05.167673-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666526414",
+      "size": "1540",
+      "md5": "544d350148134606e0f2c3a32cb00202",
+      "crc32": "97ba7440",
+      "sha1": "b6128b7f12d04d55fd9a5910cb544b2c52411acf",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-10-23T07:00:05.167673-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666526415",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-10-23T07:00:05.167673-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elfinanciero_mx-2022-10-23T07:00:05.167673-05:00.jpg",
+      "mtime": "1666526512",
+      "size": "9652",
+      "md5": "7b62d07d42a9f1ff3385cc26d78810fb",
+      "crc32": "bdfa3cb7",
+      "sha1": "3783517e5230ba0816bc575bb670c1f726bf5dd3"
+    },
+    {
       "name": "elfinanciero_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7440e59713b9a590a69fcd18ee0581a323a3b3d",
-      "mtime": "1666482852",
-      "size": "182147",
-      "md5": "04fc09fdad79ecd109016cecfc763b82",
-      "crc32": "38585af1",
-      "sha1": "1a425735af02847b18466ed013d75a0fc557dc39",
+      "btih": "3e0e766edb8e2f88ceee96c03a17525edeb21ab8",
+      "mtime": "1666526521",
+      "size": "183434",
+      "md5": "67533ca8c10965b6e43bc315fdea431b",
+      "crc32": "27cc1e9f",
+      "sha1": "466892cfcc44d68c3bc27b2db437c2bbdd5a87bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elfinanciero_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ca8b9cee9ffcb0bc0052ce169942de6",
+      "md5": "facb69dac37cef5f3a6c7b2cbb58999d",
       "summation": "md5"
     },
     {
       "name": "elfinanciero_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666482446",
-      "size": "1077248",
-      "md5": "54cd04de944720c4a86aa682465bdaed",
-      "crc32": "23ba4e49",
-      "sha1": "89a2d737d5887eff92a5658ea45586ac4091a940",
+      "mtime": "1666526426",
+      "size": "1085440",
+      "md5": "390dbcf185f5caf067019ce3c0e16610",
+      "crc32": "0f72f645",
+      "sha1": "67f7db17d6983fa28fdc1275038931645fcaf77f",
       "format": "Metadata"
     },
     {
@@ -8622,9 +8684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 834,
-  "item_last_updated": 1666482852,
-  "item_size": 61560311,
+  "files_count": 840,
+  "item_last_updated": 1666526521,
+  "item_size": 61934791,
   "metadata": {
     "identifier": "elfinanciero_mx-2022",
     "collection": [
@@ -8641,10 +8703,10 @@
     "publicdate": "2022-08-16 17:10:52",
     "addeddate": "2022-08-16 17:10:52"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1422326720,
+  "server": "ia601503.us.archive.org",
+  "uniq": 1676796912,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

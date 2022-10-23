@@ -1,5 +1,5 @@
 {
-  "created": 1666482382,
+  "created": 1666526388,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/25/items/couriertimes-2022",
@@ -4108,31 +4108,93 @@
       "sha1": "b3465804a7dc28c66d76ad2f766e1a5c8ee4ae4f"
     },
     {
+      "name": "couriertimes-2022-10-23T07:58:07.715792-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666526292",
+      "size": "22431",
+      "md5": "0ae3b2663d7b014a187a6a1fb536692c",
+      "crc32": "37c668ec",
+      "sha1": "1e946d3fdafa9b881a1215d0c640b08e7b23c9af",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-23T07:58:07.715792-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666526293",
+      "size": "32020",
+      "md5": "9819bd1dd5e17fd4b6c2553a89b0454f",
+      "crc32": "f5cdda91",
+      "sha1": "09df467bd2658be8a880266deb75e003914839f0",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-23T07:58:07.715792-04:00.jpg",
+      "source": "original",
+      "mtime": "1666526291",
+      "size": "269216",
+      "md5": "b3b183737c5dfa82038c2adb19bf2b4e",
+      "crc32": "305577e4",
+      "sha1": "2ad7c4358645120486325dcc7ac4a365b257c47d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "couriertimes-2022-10-23T07:58:07.715792-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666526295",
+      "size": "1612",
+      "md5": "f4602f2e6c87c7508238b297b9f86504",
+      "crc32": "7473d3e7",
+      "sha1": "f5fd122c6ca0cb4b8291c689886858677c178c65",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-23T07:58:07.715792-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666526296",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-23T07:58:07.715792-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "couriertimes-2022-10-23T07:58:07.715792-04:00.jpg",
+      "mtime": "1666526361",
+      "size": "9648",
+      "md5": "5282febaca42856d119c6a6ac1746d3d",
+      "crc32": "b7d092e1",
+      "sha1": "c27d7275b1699121a578e99c4bd48048139324c4"
+    },
+    {
       "name": "couriertimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9912f324875d768f7976d9c5c964ba5d0490cb79",
-      "mtime": "1666482349",
-      "size": "86570",
-      "md5": "fe837d2355296d07be2e6d79656038c3",
-      "crc32": "e6029430",
-      "sha1": "6525f6dff3f5b290358ec9cd4e7ad16e89078c77",
+      "btih": "76b3654dda96dba69a84f153077c4099ab859d62",
+      "mtime": "1666526375",
+      "size": "87839",
+      "md5": "a7db982ff9863978a6e2ee84ac33e921",
+      "crc32": "10b06a36",
+      "sha1": "512afe20b947cfbea10ef6da6d7007edbe65e79d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "couriertimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "efce3215405dd47983e117a75ceab69e",
+      "md5": "a21bf51ed5a7e1486d98e3d2ef08a64a",
       "summation": "md5"
     },
     {
       "name": "couriertimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666482277",
-      "size": "524288",
-      "md5": "2f220a2277d98c837ca3fe8d97b806a7",
-      "crc32": "7f6c6e16",
-      "sha1": "6ab53aa5fb99810850b819616c5a7d59eb0e7e0c",
+      "mtime": "1666526303",
+      "size": "532480",
+      "md5": "a2110c95ac094d320cac9dba937aa385",
+      "crc32": "06327544",
+      "sha1": "9a83ffbd477f7cde71ad5141df4f1c38efcd0b64",
       "format": "Metadata"
     },
     {
@@ -4146,9 +4208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 401,
-  "item_last_updated": 1666482349,
-  "item_size": 27480261,
+  "files_count": 407,
+  "item_last_updated": 1666526375,
+  "item_size": 27824851,
   "metadata": {
     "identifier": "couriertimes-2022",
     "collection": [
@@ -4165,10 +4227,10 @@
     "publicdate": "2022-09-20 22:14:24",
     "addeddate": "2022-09-20 22:14:24"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 692535971,
+  "server": "ia801506.us.archive.org",
+  "uniq": 59053075,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }
