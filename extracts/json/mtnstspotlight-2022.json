@@ -1,5 +1,5 @@
 {
-  "created": 1666503186,
+  "created": 1666553275,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/24/items/mtnstspotlight-2022",
@@ -15136,31 +15136,93 @@
       "sha1": "3910d79a61f7110bb62b72c35abead4810fdab65"
     },
     {
+      "name": "mtnstspotlight-2022-10-23T13:48:03.582364-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666547303",
+      "size": "9885",
+      "md5": "a285ec5e58d34df4e4d58c97d8e1f4cb",
+      "crc32": "4801a6e1",
+      "sha1": "918f60bf998bcc62636a08828950d881c71342a2",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-23T13:48:03.582364-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666547305",
+      "size": "11087",
+      "md5": "0238eaba4f66c44ad369d2525b6c307c",
+      "crc32": "e7db178c",
+      "sha1": "42c9850f52517eb3d928f0387e465f31ec044697",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-23T13:48:03.582364-04:00.jpg",
+      "source": "original",
+      "mtime": "1666547302",
+      "size": "260472",
+      "md5": "138bab898aa54248cfd87c0541301e4a",
+      "crc32": "20301609",
+      "sha1": "49b343a10323b223cb58608591d6fca7785913d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-23T13:48:03.582364-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666547307",
+      "size": "1558",
+      "md5": "cce5ff819d21596836eee829446153e7",
+      "crc32": "95978b99",
+      "sha1": "6ba5c103a0c350f0332b13741349577b744959d7",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-23T13:48:03.582364-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666547309",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-23T13:48:03.582364-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtnstspotlight-2022-10-23T13:48:03.582364-04:00.jpg",
+      "mtime": "1666547406",
+      "size": "9606",
+      "md5": "5d8409184b00429a6252a1c8e5c18e9b",
+      "crc32": "6ecc9c37",
+      "sha1": "3910d79a61f7110bb62b72c35abead4810fdab65"
+    },
+    {
       "name": "mtnstspotlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "68b954069632fbfb24c4c2a2f0e5de1a3a0fb28a",
-      "mtime": "1666503164",
-      "size": "315574",
-      "md5": "f2dcd7bd69e949d2e21dca3e0c34ac51",
-      "crc32": "f609c980",
-      "sha1": "c50267db61072c9eb2621a871592006de4608451",
+      "btih": "44d9c64907312b90ecda9ca4fe519bbe494d13dc",
+      "mtime": "1666547431",
+      "size": "316874",
+      "md5": "a8e62af5d7f68d33ef8db84eae433a1f",
+      "crc32": "f0a8d0e5",
+      "sha1": "266069afc01581c495bcddaac8e8f4850f67522f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtnstspotlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e875b20932d0ee6fa801714c231308b",
+      "md5": "42e62debea3967f409a8f5487eead26c",
       "summation": "md5"
     },
     {
       "name": "mtnstspotlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666503065",
-      "size": "1818624",
-      "md5": "d6bd602ac7bb0fb393a47031f2e00e33",
-      "crc32": "d8d05792",
-      "sha1": "81b6c0eec82ef051dc3147cbc3217fad09f57392",
+      "mtime": "1666547314",
+      "size": "1826816",
+      "md5": "13d994f013efd19956943ec6f44221a4",
+      "crc32": "b76c7971",
+      "sha1": "e22e3d70c65c9f4b01477e9b42cbd688dd6f68ed",
       "format": "Metadata"
     },
     {
@@ -15174,9 +15236,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1461,
-  "item_last_updated": 1666503164,
-  "item_size": 80821841,
+  "files_count": 1467,
+  "item_last_updated": 1666547431,
+  "item_size": 81124143,
   "metadata": {
     "identifier": "mtnstspotlight-2022",
     "collection": [
@@ -15193,10 +15255,15 @@
     "publicdate": "2022-06-18 21:04:13",
     "addeddate": "2022-06-18 21:04:13"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 220220131,
+  "mtnstspotlight-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801408.us.archive.org",
+  "uniq": 548706406,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }

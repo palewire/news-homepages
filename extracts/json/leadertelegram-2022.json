@@ -1,5 +1,5 @@
 {
-  "created": 1666503072,
+  "created": 1666552949,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/leadertelegram-2022",
@@ -18366,31 +18366,93 @@
       "sha1": "fae13bc33be8813c3b841c9dc6896bcd86c1a269"
     },
     {
+      "name": "leadertelegram-2022-10-23T12:45:06.043933-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666547130",
+      "size": "45415",
+      "md5": "07baa18a3f9c0b72fb994c89dea9d5e6",
+      "crc32": "a478e92d",
+      "sha1": "7670244203b7ba7d9f85cce8e3f4341a706db0a3",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-23T12:45:06.043933-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666547132",
+      "size": "70021",
+      "md5": "d0c70c23bf895d4d28688f6df1e101ea",
+      "crc32": "a690c18c",
+      "sha1": "1d3a6efebfb8e40d8364b4e3211193d2ae5b82a6",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-23T12:45:06.043933-05:00.jpg",
+      "source": "original",
+      "mtime": "1666547128",
+      "size": "235790",
+      "md5": "29b93d5e2e3721cff619483f659d96bd",
+      "crc32": "2af919f4",
+      "sha1": "d361a69a542054f6b48f98451d59c65a7e643852",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leadertelegram-2022-10-23T12:45:06.043933-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666547134",
+      "size": "1531",
+      "md5": "f8a7021fbfaf6782e1e92dc7e4d55b74",
+      "crc32": "8ca82e3b",
+      "sha1": "ca345d5992b6ea0e189c24c831a462e5c9f18005",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-23T12:45:06.043933-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666547135",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-23T12:45:06.043933-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leadertelegram-2022-10-23T12:45:06.043933-05:00.jpg",
+      "mtime": "1666547218",
+      "size": "8869",
+      "md5": "8a64f56c6ead8676975b022c68d17a71",
+      "crc32": "31e4dd7f",
+      "sha1": "efc33c435879f3cfd2f1fc8a8f55bbda600f8243"
+    },
+    {
       "name": "leadertelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a974e6f89507bf463b0a4222287404a0416ba518",
-      "mtime": "1666503009",
-      "size": "383969",
-      "md5": "7cc87a3958dbaf6d0eb4632746eea5f1",
-      "crc32": "bbdaecf2",
-      "sha1": "03b41f062e5f73078250d4fe1649a52767964b92",
+      "btih": "b7bd29dda09afa3ee692f1d84077378fd91f420d",
+      "mtime": "1666547251",
+      "size": "385270",
+      "md5": "0eadbfc79464f6fd59eef581f25835bf",
+      "crc32": "38cd418e",
+      "sha1": "5f1f5025571146e303e336ace4b5e9c6cb650f16",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leadertelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8954ce88cbc4e1014f261f20ada73c27",
+      "md5": "ad24b48b91ee96a1902931eec5597277",
       "summation": "md5"
     },
     {
       "name": "leadertelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666502886",
-      "size": "2166784",
-      "md5": "2f673fc5924aee135dad09461c4da470",
-      "crc32": "60b15b88",
-      "sha1": "819e8c125d0b496b2432916b79efba0f69581b80",
+      "mtime": "1666547139",
+      "size": "2174976",
+      "md5": "db89586b1ce35f406f806e03b4bd63d5",
+      "crc32": "47525646",
+      "sha1": "297c8c401e2ba5756ffdea5c74fbf085805de562",
       "format": "Metadata"
     },
     {
@@ -18404,9 +18466,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1768,
-  "item_last_updated": 1666503009,
-  "item_size": 152735334,
+  "files_count": 1774,
+  "item_last_updated": 1666547251,
+  "item_size": 153106655,
+  "leadertelegram-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "leadertelegram-2022",
     "collection": [
@@ -18423,10 +18490,10 @@
     "publicdate": "2022-03-23 23:07:05",
     "addeddate": "2022-03-23 23:07:05"
   },
-  "server": "ia601409.us.archive.org",
-  "uniq": 1279683677,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1546956110,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia801409.us.archive.org",
+    "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666506828,
+  "created": 1666553180,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/10/items/milforddaily-2022",
@@ -4108,31 +4108,93 @@
       "sha1": "b12ef4018e9e540a1bc80634bcd775ad1528e667"
     },
     {
+      "name": "milforddaily-2022-10-23T13:47:22.964723-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666547248",
+      "size": "26550",
+      "md5": "2b0214629f56a109f9d2fabb532090c7",
+      "crc32": "62106673",
+      "sha1": "6af26f49598d898648f0ca5768536150555f3fcd",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-23T13:47:22.964723-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666547250",
+      "size": "42194",
+      "md5": "bcb6b683f85e92ec87bf1c758adae1d4",
+      "crc32": "8498da35",
+      "sha1": "26096cb3e9ce26c33a150728b56989475c77ef13",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-23T13:47:22.964723-04:00.jpg",
+      "source": "original",
+      "mtime": "1666547246",
+      "size": "256893",
+      "md5": "0b78ef39d5e798cf8501890dbcf08ff8",
+      "crc32": "ad50221c",
+      "sha1": "619b876be270651ca204d43ea5fc828c783c383e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "milforddaily-2022-10-23T13:47:22.964723-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666547252",
+      "size": "1549",
+      "md5": "4801da50e45931ea329d70496839d9d8",
+      "crc32": "f8909bfd",
+      "sha1": "926862a612bd4ce7e20be9ad0775b40fa79e6ed9",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-23T13:47:22.964723-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666547255",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-23T13:47:22.964723-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "milforddaily-2022-10-23T13:47:22.964723-04:00.jpg",
+      "mtime": "1666547370",
+      "size": "9091",
+      "md5": "b729a2bf5b3142c743945dc0827fdf39",
+      "crc32": "3980270a",
+      "sha1": "a4c75633ea9c997dd650e125e561b3bde357f1d9"
+    },
+    {
       "name": "milforddaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c3c1bcf78c4439680ae1fcfd2e816803408a05d",
-      "mtime": "1666503045",
-      "size": "86640",
-      "md5": "f1d9ccc0330a230efab8e8c5633ceac3",
-      "crc32": "a3619a43",
-      "sha1": "4f00eec2d3b87bff3a662f41e8a415891165d98d",
+      "btih": "59d4faedf316377a8957a3a8953d02bcf98594d7",
+      "mtime": "1666547394",
+      "size": "87929",
+      "md5": "aef6a4469a9fb6482b2d32b09d9ec673",
+      "crc32": "2a518c73",
+      "sha1": "fe324a034c842059bbc33fdc0ea3d5268d6d5809",
       "format": "Archive BitTorrent"
     },
     {
       "name": "milforddaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ba02692541c044ad3c14abee85e6ab3",
+      "md5": "cb3a6bba2348d052b9a9d389369e3c10",
       "summation": "md5"
     },
     {
       "name": "milforddaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666502995",
-      "size": "524288",
-      "md5": "d69768f64a6315ab1e122d6e8849e880",
-      "crc32": "46a06dae",
-      "sha1": "d35abf22613a0d31418add2961c5ee3a19d15632",
+      "mtime": "1666547261",
+      "size": "532480",
+      "md5": "dfd4c19f0cfe2a7541d9ca4306a1cbc0",
+      "crc32": "49ae0d6c",
+      "sha1": "7d4c51c72fb6d48c25dfcb5a447239a05f4b3039",
       "format": "Metadata"
     },
     {
@@ -4146,9 +4208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 401,
-  "item_last_updated": 1666503045,
-  "item_size": 29168703,
+  "files_count": 407,
+  "item_last_updated": 1666547394,
+  "item_size": 29514663,
   "metadata": {
     "identifier": "milforddaily-2022",
     "collection": [
@@ -4171,7 +4233,7 @@
     "status_ext": "error:user-session-limit"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1584714906,
+  "uniq": 1506237132,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

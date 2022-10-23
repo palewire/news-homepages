@@ -1,5 +1,5 @@
 {
-  "created": 1666503113,
+  "created": 1666553165,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/19/items/metrowestdaily-2022",
@@ -4088,31 +4088,93 @@
       "sha1": "7b398fb6331bbd747e6af9dcae6453ea2a1983b1"
     },
     {
+      "name": "metrowestdaily-2022-10-23T13:45:47.616540-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666547152",
+      "size": "22213",
+      "md5": "a7880f3e2c4c6cdc6650e7e5a3c31e58",
+      "crc32": "2829113f",
+      "sha1": "72db8aeaaa44a01de888c7c1b22d3b3a4fb97ba4",
+      "format": "JSON"
+    },
+    {
+      "name": "metrowestdaily-2022-10-23T13:45:47.616540-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666547154",
+      "size": "39082",
+      "md5": "78e3e69a4d582c3ece0ce9174a7ab3c2",
+      "crc32": "7e8666b2",
+      "sha1": "2dce63d195b77d92c52911caa6cc0f22f6c99417",
+      "format": "JSON"
+    },
+    {
+      "name": "metrowestdaily-2022-10-23T13:45:47.616540-04:00.jpg",
+      "source": "original",
+      "mtime": "1666547151",
+      "size": "278851",
+      "md5": "5cc03ef7aff7519476a541f20afe70c0",
+      "crc32": "1bf3f593",
+      "sha1": "dbb64e1aa725e19a3666a424d40aa927b3b4e4ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "metrowestdaily-2022-10-23T13:45:47.616540-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666547155",
+      "size": "1567",
+      "md5": "3c6793c221060279128e3561d62836c0",
+      "crc32": "cfbfbd4d",
+      "sha1": "3de98ed72286156640e9b13da74e88baf58404db",
+      "format": "JSON"
+    },
+    {
+      "name": "metrowestdaily-2022-10-23T13:45:47.616540-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666547157",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "metrowestdaily-2022-10-23T13:45:47.616540-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metrowestdaily-2022-10-23T13:45:47.616540-04:00.jpg",
+      "mtime": "1666547257",
+      "size": "9612",
+      "md5": "a5ee0b27e1962d9534e4cec89c89caa7",
+      "crc32": "82b260bb",
+      "sha1": "4d80afcb25ed959a36f769ecaf13406cab32bf11"
+    },
+    {
       "name": "metrowestdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df44ea26891308f1c7eb1962587a014999c64ffb",
-      "mtime": "1666503094",
-      "size": "86888",
-      "md5": "3fb3159abfc7b782f2cdb4d9ac012c30",
-      "crc32": "87e35c67",
-      "sha1": "0a99800a58db74a1359640cea5325d0840e63743",
+      "btih": "7a8b33aff1012467f2accf6fc14b5eba2d8b0a21",
+      "mtime": "1666547275",
+      "size": "88189",
+      "md5": "fd13b4d9acfd76d03c746688519ad677",
+      "crc32": "d2838226",
+      "sha1": "50e7152868aa3be58c7483d68963a76c68a601a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "metrowestdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9ffe3a77b7446668256d8ac00da966c5",
+      "md5": "b11fff8475122f28a328308ad67adab2",
       "summation": "md5"
     },
     {
       "name": "metrowestdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666503010",
-      "size": "524288",
-      "md5": "5530cd50ba3d7c6979dfd5acf9537c82",
-      "crc32": "08ed09ac",
-      "sha1": "a101fb20dbbed0a726d5631e8341c3724d817701",
+      "mtime": "1666547162",
+      "size": "528384",
+      "md5": "423eedd07a7d26601fba80434d42b9c4",
+      "crc32": "d094fcbd",
+      "sha1": "21600db4492d18550b295aec846c982fe4902d9a",
       "format": "Metadata"
     },
     {
@@ -4126,9 +4188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 399,
-  "item_last_updated": 1666503094,
-  "item_size": 26730309,
+  "files_count": 405,
+  "item_last_updated": 1666547275,
+  "item_size": 27087233,
   "metadata": {
     "identifier": "metrowestdaily-2022",
     "collection": [
@@ -4145,10 +4207,15 @@
     "publicdate": "2022-09-20 17:35:39",
     "addeddate": "2022-09-20 17:35:39"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 1432126109,
+  "metrowestdaily-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801407.us.archive.org",
+  "uniq": 881537949,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }
