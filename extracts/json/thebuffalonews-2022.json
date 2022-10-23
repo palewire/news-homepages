@@ -1,5 +1,5 @@
 {
-  "created": 1666495688,
+  "created": 1666536967,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/11/items/thebuffalonews-2022",
@@ -10620,31 +10620,93 @@
       "sha1": "4d47ce745513215f58f151a742128f00d5405737"
     },
     {
+      "name": "thebuffalonews-2022-10-23T10:54:36.643020-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666536883",
+      "size": "29765",
+      "md5": "fda4da8abe5289d43b38ea50c6eb77ab",
+      "crc32": "ca9397f6",
+      "sha1": "465b7bf057c96c236c55558f624123afa086e992",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-10-23T10:54:36.643020-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666536884",
+      "size": "82849",
+      "md5": "f5b29a23e45fc8e03cecc6d5c9f11aac",
+      "crc32": "e56381b5",
+      "sha1": "f29542f1232275261c7033244108893cf3515701",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-10-23T10:54:36.643020-04:00.jpg",
+      "source": "original",
+      "mtime": "1666536882",
+      "size": "296075",
+      "md5": "e325fe6305e97fee77e4558c2c221c55",
+      "crc32": "b34c11e6",
+      "sha1": "eb7007562e26e757712b49fca1478a06fefdc39b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebuffalonews-2022-10-23T10:54:36.643020-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666536886",
+      "size": "1468",
+      "md5": "8472fd9c729a0f33caf1ea4a17b0b258",
+      "crc32": "e5cfa911",
+      "sha1": "6cd385ca468066389be46330678479b0ff15168f",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-10-23T10:54:36.643020-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666536887",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thebuffalonews-2022-10-23T10:54:36.643020-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebuffalonews-2022-10-23T10:54:36.643020-04:00.jpg",
+      "mtime": "1666536950",
+      "size": "11623",
+      "md5": "6ffa0eefe6552ffa280b4c5212393273",
+      "crc32": "19d33968",
+      "sha1": "73fb4dab3b29973c4094e068b5e6e956e7e18150"
+    },
+    {
       "name": "thebuffalonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e92bdbbd897e9b52fc5176400c97233f9f95bf81",
-      "mtime": "1666495675",
-      "size": "224303",
-      "md5": "2c379a35a0a80ad9f16d491c017be4a0",
-      "crc32": "2692fc99",
-      "sha1": "93f5fcaaed34921286ea01d3ecebbb8a45bc9b24",
+      "btih": "9b79ed41c432d39740dc80d92955cc8d7eafd88e",
+      "mtime": "1666536960",
+      "size": "225605",
+      "md5": "a5807d9f9319ec1f447280052d514276",
+      "crc32": "d8b2db5c",
+      "sha1": "7f9e135600bb9b47bca040c0243711bc03aa9bc4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebuffalonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1cb6a3fd1dc252221da8b426f6a685d",
+      "md5": "7aab1f72dbff15a141d5dcaf814f63a2",
       "summation": "md5"
     },
     {
       "name": "thebuffalonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666495542",
-      "size": "1327104",
-      "md5": "3dde7b97f2836baec06b8ef444d55253",
-      "crc32": "9ac7b662",
-      "sha1": "53ae8e3f8a10a771b12d74bc981789b545dfeb15",
+      "mtime": "1666536893",
+      "size": "1335296",
+      "md5": "1450019dd04ebbf8c321c678de4ea7ad",
+      "crc32": "d645ff10",
+      "sha1": "3feee9307953890ddadcd1f8d894ac6fcd4f4687",
       "format": "Metadata"
     },
     {
@@ -10658,9 +10720,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1031,
-  "item_last_updated": 1666495675,
-  "item_size": 82861421,
+  "files_count": 1037,
+  "item_last_updated": 1666536960,
+  "item_size": 83292897,
   "metadata": {
     "identifier": "thebuffalonews-2022",
     "collection": [
@@ -10677,10 +10739,10 @@
     "publicdate": "2022-07-26 16:39:33",
     "addeddate": "2022-07-26 16:39:33"
   },
-  "server": "ia902504.us.archive.org",
-  "uniq": 664656675,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1361770900,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia802504.us.archive.org",
+    "ia902504.us.archive.org"
   ]
 }
