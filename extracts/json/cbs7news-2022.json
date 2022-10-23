@@ -1,5 +1,5 @@
 {
-  "created": 1666479231,
+  "created": 1666522738,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/8/items/cbs7news-2022",
@@ -11670,31 +11670,93 @@
       "sha1": "4e34a63ae297cb9db213e5ed6df5d59bba298ef6"
     },
     {
+      "name": "cbs7news-2022-10-23T05:57:08.408816-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666522637",
+      "size": "33240",
+      "md5": "8fa06bcb66d809437df46b6b935f106e",
+      "crc32": "2cde48e3",
+      "sha1": "9f99ed1393ae3120c2b7271b2530ada1cdf97ac3",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-23T05:57:08.408816-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666522639",
+      "size": "21030",
+      "md5": "95f58d659bfccc37f92600fe4cea1fd1",
+      "crc32": "0084e5a2",
+      "sha1": "a3e8fe9477a6dfc4991db42fbef30e45398a3ee1",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-23T05:57:08.408816-05:00.jpg",
+      "source": "original",
+      "mtime": "1666522635",
+      "size": "341819",
+      "md5": "9194e535c4d11372dff7d68348697fd4",
+      "crc32": "51992b37",
+      "sha1": "07832c5a45a1565c667cb04ad3dc17bdf874065b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-23T05:57:08.408816-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666522640",
+      "size": "1441",
+      "md5": "00eec4d22bc6e5474b0ca976affa2d7e",
+      "crc32": "444e5b9d",
+      "sha1": "5ece379f4dcea777599fe5b2b494c834a0578489",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-23T05:57:08.408816-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666522642",
+      "size": "85880",
+      "md5": "723ba978a8e28b7ad7f34b9863b32e34",
+      "crc32": "b879e5d0",
+      "sha1": "d23e8032596102048ba1a1b5ba3164e619240ed3",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-23T05:57:08.408816-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-23T05:57:08.408816-05:00.jpg",
+      "mtime": "1666522714",
+      "size": "10663",
+      "md5": "8be9c6e802d6abd1c03f98afba24a71d",
+      "crc32": "a27e064c",
+      "sha1": "b09f5684d3bd25e889d37d84f2269a1b3d33dc34"
+    },
+    {
       "name": "cbs7news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a804459ee70d255c015fae3184ab2adcf29f4a46",
-      "mtime": "1666479218",
-      "size": "238960",
-      "md5": "67026d5372acb8f914536ceab80e15be",
-      "crc32": "6bd8782a",
-      "sha1": "a8de5611b6f3d26a42d9c9996bf7f2bd82561074",
+      "btih": "cf273db6bcd36c0ddb630ee27fbd26915e2f8dd0",
+      "mtime": "1666522725",
+      "size": "240228",
+      "md5": "9351b827c99a6a53de36157254e206c2",
+      "crc32": "bdaae655",
+      "sha1": "40ba622e488a51890e489173640303da3c0c0d25",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbs7news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e34d7cae66386ebd4c00d49ddef73ea",
+      "md5": "9efa1ebf2fb654cbee08fa3f51ae1ece",
       "summation": "md5"
     },
     {
       "name": "cbs7news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666479144",
-      "size": "1429504",
-      "md5": "77ceb3b3372d74b6005da5771431490f",
-      "crc32": "0da61e3f",
-      "sha1": "671b15308e97d02dba10594fae7cfd953c9d878b",
+      "mtime": "1666522649",
+      "size": "1437696",
+      "md5": "5022119a42ed0dd2cb38436996d101b2",
+      "crc32": "4bb4efc2",
+      "sha1": "b4827faf7a0a40fc9eb688f4740c4e795d7b5431",
       "format": "Metadata"
     },
     {
@@ -11708,9 +11770,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1131,
-  "item_last_updated": 1666479218,
-  "item_size": 85869284,
+  "files_count": 1137,
+  "item_last_updated": 1666522725,
+  "item_size": 86372817,
   "metadata": {
     "identifier": "cbs7news-2022",
     "collection": [
@@ -11728,7 +11790,7 @@
     "addeddate": "2022-07-18 00:04:04"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 667533930,
+  "uniq": 1839042001,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

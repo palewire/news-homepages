@@ -1,5 +1,5 @@
 {
-  "created": 1666479214,
+  "created": 1666522555,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/10/items/arkbusiness-2022",
@@ -5090,31 +5090,93 @@
       "sha1": "77b619b0c5d39737cee1133f5c1d9bcd0fea2a97"
     },
     {
+      "name": "arkbusiness-2022-10-23T05:54:37.285297-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666522483",
+      "size": "41073",
+      "md5": "77ac6d1ed060f9b193c40e19d98834f5",
+      "crc32": "31078a02",
+      "sha1": "31af8caf0f114c7c1c1200651e0f14924617beb6",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-23T05:54:37.285297-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666522485",
+      "size": "36233",
+      "md5": "9a0a23c44ad51378573e31b1615f2dec",
+      "crc32": "c98a44b7",
+      "sha1": "2d1ba15d0ceea5b8a09879a84349912fb69c2170",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-23T05:54:37.285297-05:00.jpg",
+      "source": "original",
+      "mtime": "1666522482",
+      "size": "311255",
+      "md5": "758578795d286d2c1a5de563c06460a7",
+      "crc32": "ced84d09",
+      "sha1": "4f8fa09e033fcc5c920cad993d5b3b31d800a30d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-23T05:54:37.285297-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666522487",
+      "size": "1549",
+      "md5": "f523a202baee94e7081adb22279c9540",
+      "crc32": "0a2f62c7",
+      "sha1": "b3a194ea18d943d5ceda5dedb58605228a7641f3",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-23T05:54:37.285297-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666522488",
+      "size": "20020",
+      "md5": "ce9f6dbc482d3a99c5a67c79ace117ad",
+      "crc32": "5198e1ff",
+      "sha1": "236dfbd77493f1ca3ee069b18460e6b0f05ffaf4",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-23T05:54:37.285297-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-23T05:54:37.285297-05:00.jpg",
+      "mtime": "1666522541",
+      "size": "9741",
+      "md5": "15a2376cd717bdb5f2a64f481ccff961",
+      "crc32": "d674fff0",
+      "sha1": "c1266d8697364be3cf6b378f13f1a32307b27517"
+    },
+    {
       "name": "arkbusiness-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c61fdc6ec717327caccade7f85d0882abd73a54d",
-      "mtime": "1666479089",
-      "size": "106443",
-      "md5": "9149df62aa89ebc2f8cf68342fb668d7",
-      "crc32": "6d83d0b4",
-      "sha1": "44892dc8d79aa346efbeddd37e4bcae870a77768",
+      "btih": "64fc7423a587aaa67a8fd2bcf30424c8e168f032",
+      "mtime": "1666522547",
+      "size": "107728",
+      "md5": "18653e8fe1c811b10f4773abe12351e8",
+      "crc32": "5daeaa1b",
+      "sha1": "0ee79491f8a6deabefef55f6fc8de91c0e087981",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkbusiness-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6136ad699abf41a5cd2538d4473945f7",
+      "md5": "ad62687828ac58be7087a36c3f02e0e6",
       "summation": "md5"
     },
     {
       "name": "arkbusiness-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666479019",
-      "size": "651264",
-      "md5": "141bfd664e3dad1f31e78d06f9a0ddcf",
-      "crc32": "a2de71fa",
-      "sha1": "98474db97a13b38b6f1d6781dc6a480e5e04563a",
+      "mtime": "1666522493",
+      "size": "655360",
+      "md5": "6b11bfa7b97b6ac388f2b68723a9dfbe",
+      "crc32": "37281b88",
+      "sha1": "88c08d54d2f4845deaed9aef2d513e9ccdc76763",
       "format": "Metadata"
     },
     {
@@ -5128,9 +5190,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 496,
-  "item_last_updated": 1666479089,
-  "item_size": 35126903,
+  "files_count": 502,
+  "item_last_updated": 1666522547,
+  "item_size": 35552155,
   "metadata": {
     "identifier": "arkbusiness-2022",
     "collection": [
@@ -5147,10 +5209,10 @@
     "publicdate": "2022-09-12 11:05:02",
     "addeddate": "2022-09-12 11:05:02"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 2013095603,
+  "server": "ia601405.us.archive.org",
+  "uniq": 388889513,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }
