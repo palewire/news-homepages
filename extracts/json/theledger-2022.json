@@ -1,5 +1,5 @@
 {
-  "created": 1666507236,
+  "created": 1666554528,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/theledger-2022",
@@ -4086,31 +4086,93 @@
       "sha1": "ffc92cb5997a1655b0d2204f10f4415dc2aeea75"
     },
     {
+      "name": "theledger-2022-10-23T15:47:14.380405-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666554441",
+      "size": "22069",
+      "md5": "490b3a87feaf654717eb33e292ec8fda",
+      "crc32": "c8737eed",
+      "sha1": "06543a585cbdd2c0f05572aa9c0e83f60d2fc555",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-23T15:47:14.380405-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666554442",
+      "size": "29162",
+      "md5": "c05ef493e1ed3ad2da1f073db1a991c3",
+      "crc32": "88cc48d7",
+      "sha1": "90ba7f3c616b56409b886622d5a30a49c39badff",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-23T15:47:14.380405-04:00.jpg",
+      "source": "original",
+      "mtime": "1666554439",
+      "size": "231467",
+      "md5": "86b1b62bf6d3bc3b3b5dd8431e8ba0d3",
+      "crc32": "b21dc98d",
+      "sha1": "43a68981f3f98cf64c73be07183cb5e9155d7e53",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theledger-2022-10-23T15:47:14.380405-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666554444",
+      "size": "1486",
+      "md5": "454cc682a19ace690d60d7158fe892a2",
+      "crc32": "a5cc3902",
+      "sha1": "06e84c68d5cb97092f853a3d34a018c914752a9d",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-23T15:47:14.380405-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666554446",
+      "size": "118292",
+      "md5": "8658c1a4c7b5f305443961d9c53f69af",
+      "crc32": "6c60ae52",
+      "sha1": "3f5fdea7dc42d7caf718035b2606d9284ae1df27",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-23T15:47:14.380405-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theledger-2022-10-23T15:47:14.380405-04:00.jpg",
+      "mtime": "1666554510",
+      "size": "9078",
+      "md5": "01acebe8a07fce37b00c95c2f904a77c",
+      "crc32": "33b7fa1d",
+      "sha1": "b6baa695ce60d9f4b94058a462019fab043247c7"
+    },
+    {
       "name": "theledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec9e02d5f02d39e0a4d6dafbb367899044ff55ec",
-      "mtime": "1666507226",
-      "size": "84948",
-      "md5": "6920a5126c30872e376b88032cbff031",
-      "crc32": "b29c46f9",
-      "sha1": "148342d0f06f43aaa5a216d8843d14ac6a1c3dcf",
+      "btih": "cf73c0eaab9e6e9f045559ad7c3014a0ad4b0fbc",
+      "mtime": "1666554519",
+      "size": "86202",
+      "md5": "a5aac9f0b170815bf639788c50d6c24b",
+      "crc32": "3ffb305d",
+      "sha1": "0009cc82faa5610c926c57268a96c9359f65b2e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad5ea04082c2aac33a4b667d5c72b193",
+      "md5": "69ed58f32702518ec1e3b870402f3461",
       "summation": "md5"
     },
     {
       "name": "theledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666507172",
-      "size": "524288",
-      "md5": "551c78adac07a47e3be99e8857ca1c67",
-      "crc32": "4a7d7b79",
-      "sha1": "0d08b56c4122ba3feb651e3ce4c15a99870e3c0f",
+      "mtime": "1666554449",
+      "size": "532480",
+      "md5": "3bd71faea45f79d87b223941891eb4f9",
+      "crc32": "79424ecb",
+      "sha1": "e864eb20df113432d2026011ad0f0cad535d0699",
       "format": "Metadata"
     },
     {
@@ -4124,9 +4186,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 399,
-  "item_last_updated": 1666507226,
-  "item_size": 27373727,
+  "files_count": 405,
+  "item_last_updated": 1666554519,
+  "item_size": 27794727,
   "metadata": {
     "identifier": "theledger-2022",
     "collection": [
@@ -4144,7 +4206,7 @@
     "addeddate": "2022-09-20 19:30:14"
   },
   "server": "ia601408.us.archive.org",
-  "uniq": 1627042738,
+  "uniq": 479714006,
   "workable_servers": [
     "ia601408.us.archive.org",
     "ia801408.us.archive.org"

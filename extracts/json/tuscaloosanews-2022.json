@@ -1,5 +1,5 @@
 {
-  "created": 1666507342,
+  "created": 1666554448,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/9/items/tuscaloosanews-2022",
@@ -5142,31 +5142,93 @@
       "sha1": "fa6400885b1de8ccf0321503ab4805e849616ae5"
     },
     {
+      "name": "tuscaloosanews-2022-10-23T14:46:13.230126-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666554377",
+      "size": "20266",
+      "md5": "07652fa65147b060ad5a39fe0bdbbfd3",
+      "crc32": "70d005e2",
+      "sha1": "628e899d5997689c668af30d90c3d219bbcf09ba",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-23T14:46:13.230126-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666554379",
+      "size": "32058",
+      "md5": "e1fe669ccd9b27d9fd115a344bc340bc",
+      "crc32": "92ff8a80",
+      "sha1": "dc048352fe976a4813f4743675a2297d90f645fc",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-23T14:46:13.230126-05:00.jpg",
+      "source": "original",
+      "mtime": "1666554375",
+      "size": "300687",
+      "md5": "c62d183ae6aa024633e6396328b98aab",
+      "crc32": "16b20731",
+      "sha1": "7d85417a7a7566d6372679274b34b5e0a48f0a80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-23T14:46:13.230126-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666554380",
+      "size": "1531",
+      "md5": "91dd33876a896ded8cf168a880d67e1f",
+      "crc32": "3062d6c9",
+      "sha1": "8dc70ae0e7a048ded481624ea4a546c159232e68",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-23T14:46:13.230126-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666554382",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-23T14:46:13.230126-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-23T14:46:13.230126-05:00.jpg",
+      "mtime": "1666554437",
+      "size": "9999",
+      "md5": "8726ee1877bed9d38905c939f1410819",
+      "crc32": "34bdb57e",
+      "sha1": "8548075a33eefa24c999c1f13c8eace6dee68361"
+    },
+    {
       "name": "tuscaloosanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e5b04642fa2e09d6b67c788b83df405e366a0d8",
-      "mtime": "1666507331",
-      "size": "109007",
-      "md5": "41f98f46f2c89a082ed6b548539a12a8",
-      "crc32": "dfeb8f61",
-      "sha1": "0f1277a353f22b742b1b90613582c09a123bb976",
+      "btih": "d77523d8666543b2a93b16f50b71caf0a2dddd32",
+      "mtime": "1666554441",
+      "size": "110308",
+      "md5": "269e8b7040cf2e68155e5e8060a5c962",
+      "crc32": "f2f8b54d",
+      "sha1": "d1771944caa30e7aca566fe753f28c8d1fc8d5ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tuscaloosanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76603661041ef8ff6cdb12e3e9f24981",
+      "md5": "079bbc5c1a6161e8047b62f59cd3db6f",
       "summation": "md5"
     },
     {
       "name": "tuscaloosanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666507259",
-      "size": "655360",
-      "md5": "53df2b4412ae870b570c960640f69135",
-      "crc32": "347a8873",
-      "sha1": "b7a805279ae5706ad41e5c9ec52349d4ee92d329",
+      "mtime": "1666554387",
+      "size": "663552",
+      "md5": "cb097b18836e84fde142ab4a5e915919",
+      "crc32": "24c9a15a",
+      "sha1": "b7fbc09a04f1eea13d15443e624a605e97ff1f8f",
       "format": "Metadata"
     },
     {
@@ -5180,9 +5242,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 501,
-  "item_last_updated": 1666507331,
-  "item_size": 34523210,
+  "files_count": 507,
+  "item_last_updated": 1666554441,
+  "item_size": 34897446,
   "metadata": {
     "identifier": "tuscaloosanews-2022",
     "collection": [
@@ -5199,10 +5261,10 @@
     "publicdate": "2022-09-12 05:10:37",
     "addeddate": "2022-09-12 05:10:37"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 84301130,
+  "server": "ia801501.us.archive.org",
+  "uniq": 385008459,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

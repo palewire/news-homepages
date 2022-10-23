@@ -1,5 +1,5 @@
 {
-  "created": 1666507208,
+  "created": 1666554333,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/telegramdotcom-2022",
@@ -4108,31 +4108,93 @@
       "sha1": "168cbecf35805083dcf752771c54285cf8b6683d"
     },
     {
+      "name": "telegramdotcom-2022-10-23T15:44:13.289941-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666554255",
+      "size": "22593",
+      "md5": "b9c357014a4229d73111712085bfc8c2",
+      "crc32": "7f56351f",
+      "sha1": "ebfa98849ded2977998d3c190ff1c052b438779d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-23T15:44:13.289941-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666554256",
+      "size": "33540",
+      "md5": "8b788757cecef12feaeda73b0e3c9df7",
+      "crc32": "a20ecadf",
+      "sha1": "7b5c3535f396d27185c186da9c61f4ecd440dcb2",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-23T15:44:13.289941-04:00.jpg",
+      "source": "original",
+      "mtime": "1666554254",
+      "size": "315470",
+      "md5": "6c67e57e77a5b16b455b7f68bcf63223",
+      "crc32": "02c9c5f1",
+      "sha1": "fbcd2940a59c5e841784de3ca7343d5dcbdaa12f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegramdotcom-2022-10-23T15:44:13.289941-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666554258",
+      "size": "1477",
+      "md5": "6860c12d5ec00850603fefda6c5334c1",
+      "crc32": "c6882e12",
+      "sha1": "99c5c7a8b417a9a0f9d37b3ee0b1653018f6f896",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-23T15:44:13.289941-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666554259",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegramdotcom-2022-10-23T15:44:13.289941-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-23T15:44:13.289941-04:00.jpg",
+      "mtime": "1666554320",
+      "size": "9560",
+      "md5": "5b4751dd25d5cf6a36433c3be2a5804c",
+      "crc32": "a9ca4b26",
+      "sha1": "36e18bce0950eeda4e2c445ca674c14f76d0b484"
+    },
+    {
       "name": "telegramdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1899cb8397c1b5e105cb78f7c31c737a5eaeb714",
-      "mtime": "1666507194",
-      "size": "87460",
-      "md5": "d116db76f0fb87f488eecc745e0b48c1",
-      "crc32": "12834aac",
-      "sha1": "1b3be1c5382aea3beb434b8bff5f74c83d2b93a8",
+      "btih": "082877c9f94256d6b756a644267f32dabf3c1c5e",
+      "mtime": "1666554325",
+      "size": "88761",
+      "md5": "40bd86d9948b1823b5a9d661d3e89968",
+      "crc32": "c6a1c682",
+      "sha1": "9687d0be67165f5bde89b24b9a95f60205bde5f5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegramdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a93a2f5a18bc485f5074a9178fdc7199",
+      "md5": "71e5c9d113e4a60bd5fd29724e7b9c3d",
       "summation": "md5"
     },
     {
       "name": "telegramdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666507126",
-      "size": "524288",
-      "md5": "6cc34f0d9a58ba305930976d3889323d",
-      "crc32": "14f219ff",
-      "sha1": "07ea343460fde01f89f30ce9eca9b53067a35b06",
+      "mtime": "1666554266",
+      "size": "532480",
+      "md5": "92afe2d30c95ccf0cf68ded9cb2cf151",
+      "crc32": "8f48b424",
+      "sha1": "35d2a6da6fc3c7dca4f33e70c18ea792cebd0347",
       "format": "Metadata"
     },
     {
@@ -4146,9 +4208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 401,
-  "item_last_updated": 1666507194,
-  "item_size": 29092664,
+  "files_count": 407,
+  "item_last_updated": 1666554325,
+  "item_size": 29484999,
   "metadata": {
     "identifier": "telegramdotcom-2022",
     "collection": [
@@ -4165,10 +4227,10 @@
     "publicdate": "2022-09-20 19:29:58",
     "addeddate": "2022-09-20 19:29:58"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 970008159,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1176672467,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }
