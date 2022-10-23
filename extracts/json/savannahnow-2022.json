@@ -1,5 +1,5 @@
 {
-  "created": 1666491036,
+  "created": 1666534203,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/29/items/savannahnow-2022",
@@ -11346,31 +11346,93 @@
       "sha1": "c954caa59ebaec23402ea1b829500b6b976540c4"
     },
     {
+      "name": "savannahnow-2022-10-23T10:07:30.359991-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666534074",
+      "size": "23857",
+      "md5": "774bf8175b9d341268dd1f8ab01fb484",
+      "crc32": "627df6f9",
+      "sha1": "464de4e07d38ff05d629423c669be279c69b9ba8",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-23T10:07:30.359991-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666534076",
+      "size": "35762",
+      "md5": "9880b1d92f20e5a71efef08aa73ec21c",
+      "crc32": "3b71c880",
+      "sha1": "4b6dd2374a26be2e32d0d6d9f698bb7d1b0b78b7",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-23T10:07:30.359991-04:00.jpg",
+      "source": "original",
+      "mtime": "1666534072",
+      "size": "305767",
+      "md5": "270c6d4df08d82235d2948829e2e46fd",
+      "crc32": "7f24445a",
+      "sha1": "a135e424f88369db2d61027627b42685b982c6cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "savannahnow-2022-10-23T10:07:30.359991-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666534079",
+      "size": "1503",
+      "md5": "b5b4c1d67c1e59ec012923aba510b2b5",
+      "crc32": "e76a0163",
+      "sha1": "be6ce28257a8fe3d882c73726feabb807864cb3c",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-23T10:07:30.359991-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666534081",
+      "size": "82923",
+      "md5": "61751636c04e3a3151f5ff3ce8c10f7b",
+      "crc32": "468da66f",
+      "sha1": "a10835b02f638fd03c5fce34a7a88f0675d9ef1a",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-23T10:07:30.359991-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "savannahnow-2022-10-23T10:07:30.359991-04:00.jpg",
+      "mtime": "1666534147",
+      "size": "9446",
+      "md5": "03f397b02c588ca351c1e8d65bf57ab8",
+      "crc32": "1536b804",
+      "sha1": "9f1b7e18b30fbd1209c8f381268a1038f547e55e"
+    },
+    {
       "name": "savannahnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "27a51f74ced7b69228752062dd053090443da7ee",
-      "mtime": "1666491010",
-      "size": "235333",
-      "md5": "e3eebac4723ec6ddee80ff8704ff1084",
-      "crc32": "a09a4ebc",
-      "sha1": "7d27e9dcb73ec31f7acce31436cf61cc2377d065",
+      "btih": "803943fed329e7e4b3dc8a40f34b388c3cdced54",
+      "mtime": "1666534171",
+      "size": "236618",
+      "md5": "3c5f688735b5c72387487315a92f65cf",
+      "crc32": "256ee6ab",
+      "sha1": "bd8e404447c63a564036997c248addd8136769d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "savannahnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98dc61498ab56b686a4b014b38ad53ac",
+      "md5": "dd9cc91d575ce11f258617b920175fb5",
       "summation": "md5"
     },
     {
       "name": "savannahnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666490921",
-      "size": "1404928",
-      "md5": "cd4bd516c2ded76a4441ee0d1a2c5192",
-      "crc32": "ca38dbd5",
-      "sha1": "1d2fc6bc59142260c3b7cbad800522766a0931a2",
+      "mtime": "1666534084",
+      "size": "1413120",
+      "md5": "a2e3fe786cd718ac68d39e649e2239d2",
+      "crc32": "3ae2f4bb",
+      "sha1": "dbb37bb5dc2366a78f3d5858b894c060e3e39eec",
       "format": "Metadata"
     },
     {
@@ -11384,9 +11446,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1100,
-  "item_last_updated": 1666491010,
-  "item_size": 76733021,
+  "files_count": 1106,
+  "item_last_updated": 1666534171,
+  "item_size": 77201756,
   "metadata": {
     "identifier": "savannahnow-2022",
     "collection": [
@@ -11403,10 +11465,10 @@
     "publicdate": "2022-07-20 23:31:15",
     "addeddate": "2022-07-20 23:31:15"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 61287922,
+  "server": "ia902505.us.archive.org",
+  "uniq": 274338595,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }
