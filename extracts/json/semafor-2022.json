@@ -1,5 +1,5 @@
 {
-  "created": 1666464343,
+  "created": 1666507319,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/32/items/semafor-2022",
@@ -13980,31 +13980,93 @@
       "sha1": "c68e21fa79ed653c67ffa6eaca63ab3ca3526675"
     },
     {
+      "name": "semafor-2022-10-23T02:37:43.927064-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666507066",
+      "size": "11267",
+      "md5": "08ec4511ee9d32615de1e26bbb5b883c",
+      "crc32": "555f7710",
+      "sha1": "ba787ed7e6142ffe195735864648493c59feb927",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-23T02:37:43.927064-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666507067",
+      "size": "12366",
+      "md5": "d1e779a8e28c3b84a523620abf1365a8",
+      "crc32": "4a7dfca2",
+      "sha1": "9be9be8d1c2138f38394a2000cf408007a68d3d5",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-23T02:37:43.927064-04:00.jpg",
+      "source": "original",
+      "mtime": "1666507064",
+      "size": "421882",
+      "md5": "55efde51bcfb6dec4af29183521b0b73",
+      "crc32": "f79df564",
+      "sha1": "90568d9971f15d3696ebd326ce888cebf47afe11",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-10-23T02:37:43.927064-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666507068",
+      "size": "1455",
+      "md5": "5f05da2fc423b69d2661bc9e31e222f7",
+      "crc32": "b3fc29fa",
+      "sha1": "f0e95a790a3df3f89d6bb463c67b552a31aa85b2",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-23T02:37:43.927064-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666507070",
+      "size": "5964",
+      "md5": "bd8910161fc6cc9d37e5cd704d1a4b29",
+      "crc32": "44b634f7",
+      "sha1": "2b9ba8e13067e7c846ac3b0fe83955e654f1eda2",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-23T02:37:43.927064-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "semafor-2022-10-23T02:37:43.927064-04:00.jpg",
+      "mtime": "1666507264",
+      "size": "9562",
+      "md5": "3c4802c7cff5bdac8ab780d7859787a5",
+      "crc32": "71a0d8b2",
+      "sha1": "3113260630980778dc2a9e97e1712da5bc224bcf"
+    },
+    {
       "name": "semafor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77a2f2f24ab1598cbdb221a1109e40ec2e4c7a33",
-      "mtime": "1666464127",
-      "size": "280601",
-      "md5": "5998e50a8366162eca97eca489270ac9",
-      "crc32": "d9aec53d",
-      "sha1": "736c087d3f3faa46e1dcbf560414e03477ca7032",
+      "btih": "31fbc677ccad27dfa73cacf3248cc8efc7cad305",
+      "mtime": "1666507300",
+      "size": "281861",
+      "md5": "a7ba51604a642704c3cb60b6a5e06373",
+      "crc32": "a15a12ff",
+      "sha1": "a8c4a05a24d5bf79c6aa192d3a75a459052d5e72",
       "format": "Archive BitTorrent"
     },
     {
       "name": "semafor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ade9bd5571e30d49d239c9b2cc5ad353",
+      "md5": "ed8d02fc021ec6dd18073a8e213450fc",
       "summation": "md5"
     },
     {
       "name": "semafor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666463792",
-      "size": "1675264",
-      "md5": "f3d23254cc25ecfc3481159a8e998048",
-      "crc32": "f330a87b",
-      "sha1": "ba2aab7bb2a0c8b2d7164db48163abe43b355f56",
+      "mtime": "1666507158",
+      "size": "1687552",
+      "md5": "986df4fc8ee780bb80c73f6cf75b0fed",
+      "crc32": "eac55e65",
+      "sha1": "0cf5e8a5ba04dc376ef6a080541062844e5c892f",
       "format": "Metadata"
     },
     {
@@ -14018,9 +14080,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1351,
-  "item_last_updated": 1666464127,
-  "item_size": 43936428,
+  "files_count": 1357,
+  "item_last_updated": 1666507300,
+  "item_size": 44412472,
   "metadata": {
     "identifier": "semafor-2022",
     "collection": [
@@ -14037,10 +14099,10 @@
     "publicdate": "2022-06-24 23:02:08",
     "addeddate": "2022-06-24 23:02:08"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1199786094,
+  "server": "ia601407.us.archive.org",
+  "uniq": 2042363150,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }
