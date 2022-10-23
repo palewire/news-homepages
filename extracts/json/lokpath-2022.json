@@ -1,5 +1,5 @@
 {
-  "created": 1666459011,
+  "created": 1666506783,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/23/items/lokpath-2022",
@@ -10792,31 +10792,93 @@
       "sha1": "ef2c2f1e101c52fe3be46ccefbbeffacd840f29e"
     },
     {
+      "name": "lokpath-2022-10-23T11:13:37.990761+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666502928",
+      "size": "52553",
+      "md5": "66369171f7ed263d35cda0ada14f3cd1",
+      "crc32": "2cdf1a88",
+      "sha1": "28017817b88afce12193a5c430ab99c673aff3ef",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-23T11:13:37.990761+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666502929",
+      "size": "41015",
+      "md5": "660ad32b9c5e2b6092486ab90b3ac305",
+      "crc32": "639fd1b1",
+      "sha1": "3971d14407bf84749ca0866888f918e0b11d3f57",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-23T11:13:37.990761+05:45.jpg",
+      "source": "original",
+      "mtime": "1666502926",
+      "size": "267817",
+      "md5": "b25c9189dca91c42b3e32d52b47a3687",
+      "crc32": "834bc103",
+      "sha1": "ceac3be6c6678dff45e64649a4335a9d5d93dbdc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lokpath-2022-10-23T11:13:37.990761+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666502931",
+      "size": "1468",
+      "md5": "0bb9c827f674c110d2f5fd846b868ca0",
+      "crc32": "307e8b5b",
+      "sha1": "120e5a62abbe97b8ea33e94823c796f0e4e9e01c",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-23T11:13:37.990761+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666502933",
+      "size": "204",
+      "md5": "ebbc762f1d348856d4deed24e48e7e83",
+      "crc32": "1d5daf0d",
+      "sha1": "737409d45517cd34ab9a536c9a1e924618ef9d84",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-23T11:13:37.990761+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lokpath-2022-10-23T11:13:37.990761+05:45.jpg",
+      "mtime": "1666502994",
+      "size": "9797",
+      "md5": "46078530a565d2c2f85287cbbacfa5cd",
+      "crc32": "4086a57f",
+      "sha1": "b3ea75bf9534937f01dea867f4f156121219447b"
+    },
+    {
       "name": "lokpath-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2870b913af0d9c1c99a7c1c0d5c2f4c7cbb315fc",
-      "mtime": "1666458998",
-      "size": "219593",
-      "md5": "8498d08788bf4278ee0ac26143d63a73",
-      "crc32": "44ddf792",
-      "sha1": "5c77a902aa10ce010d362acb5692b4e5258def0c",
+      "btih": "f1c6b84caf650da6739b83cf5f864ea5f413ab37",
+      "mtime": "1666503017",
+      "size": "220832",
+      "md5": "b5c2bbc184183b6bdaf51b24c6cfb0ac",
+      "crc32": "f1ec586c",
+      "sha1": "4e34d428d61adad44fa8e5aaefd70bc04fe66c2c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lokpath-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0dc7aea67e872b85dc32e5b0b2c99e81",
+      "md5": "009cf07206c98b7cfdffd5fba32e72a8",
       "summation": "md5"
     },
     {
       "name": "lokpath-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666458913",
-      "size": "1331200",
-      "md5": "28f0c7e98ef3ba6a929fe591f1a84cdd",
-      "crc32": "99c7307f",
-      "sha1": "cf7b3a893572bb3c7f1b2e13196099bdf6c83e82",
+      "mtime": "1666502937",
+      "size": "1339392",
+      "md5": "2e70b75c989aaf396aa1c97bc7d9e8a8",
+      "crc32": "93932d86",
+      "sha1": "75dd986722910a58698a760af802d060c5d97097",
       "format": "Metadata"
     },
     {
@@ -10830,9 +10892,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1047,
-  "item_last_updated": 1666458998,
-  "item_size": 65868077,
+  "files_count": 1053,
+  "item_last_updated": 1666503017,
+  "item_size": 66250362,
+  "lokpath-2022": {
+    "url": "https://www.lokpath.com/",
+    "job_id": "spn2-5d88958c59d7e3c144ddd1189f7b4e17fecdadd5",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
   "metadata": {
     "identifier": "lokpath-2022",
     "collection": [
@@ -10850,7 +10920,7 @@
     "addeddate": "2022-07-24 20:38:13"
   },
   "server": "ia802502.us.archive.org",
-  "uniq": 336848339,
+  "uniq": 1023636292,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"

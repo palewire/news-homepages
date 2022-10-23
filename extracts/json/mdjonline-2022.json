@@ -1,5 +1,5 @@
 {
-  "created": 1666463511,
+  "created": 1666503279,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/20/items/mdjonline-2022",
@@ -11106,31 +11106,93 @@
       "sha1": "318fdc3c8a899f6a47d40c85892329518f898d9d"
     },
     {
+      "name": "mdjonline-2022-10-23T01:28:44.535418-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666502945",
+      "size": "45199",
+      "md5": "94e514a9987ad6a7912ace345d3bdbdf",
+      "crc32": "9ec80c9f",
+      "sha1": "2db48d045b0071ef827519ab6dbde6b3c928d2c7",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-10-23T01:28:44.535418-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666502947",
+      "size": "56252",
+      "md5": "769638ed37f1d907be723b590b50fe89",
+      "crc32": "7582de0a",
+      "sha1": "93ab376ddee3391940d0c01031d9e88e8534b6e5",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-10-23T01:28:44.535418-04:00.jpg",
+      "source": "original",
+      "mtime": "1666502943",
+      "size": "263652",
+      "md5": "547555bd8ecd1bce9090f5347734bd0e",
+      "crc32": "e85939f4",
+      "sha1": "46fa82b6cd30f5901f0cd40074626184f0444a27",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdjonline-2022-10-23T01:28:44.535418-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666502948",
+      "size": "1483",
+      "md5": "3353d2ec7a5591304ff610e4fa4a9551",
+      "crc32": "7da12b7f",
+      "sha1": "0af8945fff4cd7d281107fc0d1c56e595ef3159d",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-10-23T01:28:44.535418-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666502950",
+      "size": "101",
+      "md5": "8e053d1de215426093650b3bd2a78e5d",
+      "crc32": "f9f9f481",
+      "sha1": "f66985831845e3065440fca55239514ef73d910d",
+      "format": "JSON"
+    },
+    {
+      "name": "mdjonline-2022-10-23T01:28:44.535418-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdjonline-2022-10-23T01:28:44.535418-04:00.jpg",
+      "mtime": "1666503097",
+      "size": "9759",
+      "md5": "040db897b412216a1794a010f5814697",
+      "crc32": "f61fa962",
+      "sha1": "9849c7d8cb658bbf0bc606864b17a6cc3c4e16a5"
+    },
+    {
       "name": "mdjonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83bd6500c407b4e5404090af42896ecf570c43da",
-      "mtime": "1666459022",
-      "size": "228894",
-      "md5": "46aebe0379655b1d3dc70ea73c60ae41",
-      "crc32": "8b3bb879",
-      "sha1": "dc442f8086bef1d42607633d3826e420b65cc34b",
+      "btih": "995fe0ce53e172d52cd5ac7c8b6cff6b1ae4e9b4",
+      "mtime": "1666503133",
+      "size": "230165",
+      "md5": "dcd19fff449a6a92b4b7173e5b0d1f02",
+      "crc32": "4fc3dce6",
+      "sha1": "9c2696dedb7f6a665bd110e6b750294939ca67e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdjonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1a18ac57b5bf50977bfefcb3afd83da4",
+      "md5": "f6abdf261b844a9cfc581f27bc34916b",
       "summation": "md5"
     },
     {
       "name": "mdjonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666458913",
-      "size": "1372160",
-      "md5": "f686fc49f2e2361b17bebb83355c12ab",
-      "crc32": "738d0f19",
-      "sha1": "fef3c5129152d2d89fe8aee9251d59dd65f50386",
+      "mtime": "1666502977",
+      "size": "1380352",
+      "md5": "93c0d3ebba0c4fc2636abff9deaece6f",
+      "crc32": "edb152ee",
+      "sha1": "150e6856ee9b9d0cdca7a6d0e475062ce8abbbd0",
       "format": "Metadata"
     },
     {
@@ -11144,14 +11206,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1077,
-  "item_last_updated": 1666459022,
-  "item_size": 88450038,
-  "mdjonline-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 1083,
+  "item_last_updated": 1666503133,
+  "item_size": 88835947,
   "metadata": {
     "identifier": "mdjonline-2022",
     "collection": [
@@ -11168,10 +11225,10 @@
     "publicdate": "2022-07-20 23:31:19",
     "addeddate": "2022-07-20 23:31:19"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 67154816,
+  "server": "ia601502.us.archive.org",
+  "uniq": 1610311892,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

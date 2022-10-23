@@ -1,5 +1,5 @@
 {
-  "created": 1666463573,
+  "created": 1666503070,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/15/items/miwisconsin-2022",
@@ -11645,31 +11645,82 @@
       "format": "JSON"
     },
     {
+      "name": "miwisconsin-2022-10-23T00:29:39.843834-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666502984",
+      "size": "47298",
+      "md5": "a9c6342e662b9a0f0907257a681e157f",
+      "crc32": "906c9ed2",
+      "sha1": "6bcf37bb8746149e50ed27a2bd4f1e8e56b01bdb",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-23T00:29:39.843834-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666502985",
+      "size": "58243",
+      "md5": "ae2fac0d39d68e5ff85ee36dae637b92",
+      "crc32": "5217203f",
+      "sha1": "a070d5da117fe3471dcd1e1410ad78cae4330a98",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-23T00:29:39.843834-05:00.jpg",
+      "source": "original",
+      "mtime": "1666502982",
+      "size": "236359",
+      "md5": "e057d1a7c4973d76f98be2aef5548cfa",
+      "crc32": "7ee993ca",
+      "sha1": "4db8ccb355266fa7cefb583187c602b0b260a61c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "miwisconsin-2022-10-23T00:29:39.843834-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666502987",
+      "size": "1465",
+      "md5": "7cfd8401020735b2a81007a776b76faa",
+      "crc32": "8c154226",
+      "sha1": "ada6383610cba65479efc358abfb62fd52d4cd62",
+      "format": "JSON"
+    },
+    {
+      "name": "miwisconsin-2022-10-23T00:29:39.843834-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666502989",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "miwisconsin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee78afe0d3b739d7c07dc60039390e87c7d68dee",
-      "mtime": "1666458996",
-      "size": "240968",
-      "md5": "677f460abc05d23912ef9931bbdc507e",
-      "crc32": "c774a78e",
-      "sha1": "4a923b6f8a9e451b947fa4f462f558f6c30c7278",
+      "btih": "7f3cebd210db8791bd9692eb9601fd70fab4c7ae",
+      "mtime": "1666503063",
+      "size": "242044",
+      "md5": "dfbda0f31c7041bc3544ae60d2de4f49",
+      "crc32": "10d2b669",
+      "sha1": "cf61a2d0fea24a5429de0779fb245e434538e24a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "miwisconsin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50ac3fda70d6121f4428919e25d547b0",
+      "md5": "76baa4a854adc3c1a4bbce9265f4dccc",
       "summation": "md5"
     },
     {
       "name": "miwisconsin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666458951",
-      "size": "1433600",
-      "md5": "0200487c9d4be41997affa14afb65472",
-      "crc32": "83f0a8ff",
-      "sha1": "bdde427db90f5f3dca7aba51b0394dd912c2e00a",
+      "mtime": "1666502998",
+      "size": "1437696",
+      "md5": "49519a00636ae65bf4e62290d5c6fd29",
+      "crc32": "9b9bd07f",
+      "sha1": "b1fd7a44dba1bb5b7c0e4ed443ee5bc874719ddf",
       "format": "Metadata"
     },
     {
@@ -11683,10 +11734,10 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1128,
+  "files_count": 1133,
   "has_redrow": true,
-  "item_last_updated": 1666458996,
-  "item_size": 72495889,
+  "item_last_updated": 1666503063,
+  "item_size": 72844628,
   "metadata": {
     "identifier": "miwisconsin-2022",
     "collection": [
@@ -11703,11 +11754,6 @@
     "publicdate": "2022-07-09 04:00:37",
     "addeddate": "2022-07-09 04:00:37"
   },
-  "miwisconsin-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "pending_tasks": true,
   "server": "ia601502.us.archive.org",
   "servers_unavailable": true,
@@ -11721,7 +11767,7 @@
       "status": "error"
     }
   ],
-  "uniq": 1722447315,
+  "uniq": 1632616034,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]
