@@ -1,5 +1,5 @@
 {
-  "created": 1666554771,
+  "created": 1666593988,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/31/items/townhallcom-2022",
@@ -16948,31 +16948,93 @@
       "sha1": "3bf2fc4b00bc2e33d5f265d3a03e2a28d3040f62"
     },
     {
+      "name": "townhallcom-2022-10-24T02:44:25.580949-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666593869",
+      "size": "42842",
+      "md5": "b7436affc56e3e5bb70ffd32df131bc6",
+      "crc32": "e390259b",
+      "sha1": "3a3baa121a98ca16e7b4e96c29f1e6a2be13b929",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-24T02:44:25.580949-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666593870",
+      "size": "40025",
+      "md5": "a1d01c7e9f49c049e05a5de5c9ec64b3",
+      "crc32": "fab8fa51",
+      "sha1": "c8133b8cec8c5b624ff41bb4309e46309610a140",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-24T02:44:25.580949-04:00.jpg",
+      "source": "original",
+      "mtime": "1666593867",
+      "size": "338486",
+      "md5": "e945ac6f56d3cc9fae4b354ec34c2704",
+      "crc32": "4afc6350",
+      "sha1": "4d4594d50aa49c20a7dfc6bbbf7a87398eb3f574",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "townhallcom-2022-10-24T02:44:25.580949-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666593872",
+      "size": "1440",
+      "md5": "2ae374edb619ea17b819194c49925e80",
+      "crc32": "20b0e1bf",
+      "sha1": "27ee1614304798c98d22113e9b163d5cb068d023",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-24T02:44:25.580949-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666593873",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-24T02:44:25.580949-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "townhallcom-2022-10-24T02:44:25.580949-04:00.jpg",
+      "mtime": "1666593951",
+      "size": "10775",
+      "md5": "31700c7cf96a85800e7f16e48dc1677b",
+      "crc32": "6b959873",
+      "sha1": "626267dc07c83250dec933cfc70955604c865154"
+    },
+    {
       "name": "townhallcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "66144586f2a5f3c8cba7a4b3e739b94cb989092a",
-      "mtime": "1666554758",
-      "size": "350368",
-      "md5": "10c6da927f9dd895e4b8e127a9b1de75",
-      "crc32": "6b4d459a",
-      "sha1": "6c3177c489c3167f7421106bc5dbaf7647665b4b",
+      "btih": "209034a4f5d55479d6cb1c1c7c8e3da7b525e7ab",
+      "mtime": "1666593974",
+      "size": "351652",
+      "md5": "d92840804894e74a7f7850421ed45437",
+      "crc32": "c9ea67d9",
+      "sha1": "4b9f0c895c30d9d1ffc68b3fcf934eae735e488d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "townhallcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3da276bd5dc144db4d7bec104227e05d",
+      "md5": "4d423db3e4f0ac0d6156f588fd7dc845",
       "summation": "md5"
     },
     {
       "name": "townhallcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666554668",
-      "size": "2076672",
-      "md5": "4a7628ce1d212801af3b8a8012de679f",
-      "crc32": "f696a8d9",
-      "sha1": "3147fc45685cbc0c9d20ea8d07b234958a4c2991",
+      "mtime": "1666593878",
+      "size": "2084864",
+      "md5": "dffbaa199d49e079d6328966b91651d2",
+      "crc32": "e8ff12f6",
+      "sha1": "9f0ebb1ea6e679ce776d1dd873d339ae7c2bd299",
       "format": "Metadata"
     },
     {
@@ -16986,9 +17048,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1641,
-  "item_last_updated": 1666554758,
-  "item_size": 105437846,
+  "files_count": 1647,
+  "item_last_updated": 1666593974,
+  "item_size": 105881092,
   "metadata": {
     "identifier": "townhallcom-2022",
     "collection": [
@@ -17005,10 +17067,10 @@
     "publicdate": "2022-07-17 15:04:11",
     "addeddate": "2022-07-17 15:04:11"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 2123393327,
+  "server": "ia601500.us.archive.org",
+  "uniq": 156682704,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }
