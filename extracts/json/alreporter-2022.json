@@ -1,5 +1,5 @@
 {
-  "created": 1666564814,
+  "created": 1666609160,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/alreporter-2022",
@@ -5256,31 +5256,93 @@
       "sha1": "ac356a94e270f5063fa8914ac2affb678a4d7ebd"
     },
     {
+      "name": "alreporter-2022-10-24T05:57:43.052217-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666609065",
+      "size": "32089",
+      "md5": "fd2dfc8bab6b8c5ec52953d1607876d4",
+      "crc32": "eee5ed51",
+      "sha1": "30fe1d5ff592470d0c6f8307fdaf8e5a52d1baae",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-24T05:57:43.052217-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666609066",
+      "size": "29163",
+      "md5": "5f53c3b5e6af1b3fd0e8d5e31c59b0cc",
+      "crc32": "7a5a9c1a",
+      "sha1": "56dc44a8a5384fbdbc0c281e60428e7192ccfaf1",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-24T05:57:43.052217-05:00.jpg",
+      "source": "original",
+      "mtime": "1666609064",
+      "size": "291929",
+      "md5": "a10fbaa95564f0085617f6d046cdadd9",
+      "crc32": "c7195151",
+      "sha1": "9aa2b58287a8bfdca548cb16d32bb2ca5941cdf3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-24T05:57:43.052217-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666609068",
+      "size": "1494",
+      "md5": "11516a6b4136c72f474e7098266cd510",
+      "crc32": "b5d08697",
+      "sha1": "3d9280c34e9284e1e11f6d1a06a94a456adda0d7",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-24T05:57:43.052217-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666609069",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-24T05:57:43.052217-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-24T05:57:43.052217-05:00.jpg",
+      "mtime": "1666609138",
+      "size": "10401",
+      "md5": "83b06eaf534ab008978405ada11ced6a",
+      "crc32": "ef57bbbd",
+      "sha1": "dc272251b2fd4e49af5ab578d4b4d39165330d1e"
+    },
+    {
       "name": "alreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a70fe2f4e835224f916e8631320b3ba725487b4",
-      "mtime": "1666564799",
-      "size": "109299",
-      "md5": "8eeacf0b5d55ccd8a5db85f6ef322d7f",
-      "crc32": "8d200629",
-      "sha1": "4602591c746e4b8cb704d6ed9e6dcbc7b77036a5",
+      "btih": "61d6cb392f03ace60c565ad9c53f4b0a53e30232",
+      "mtime": "1666609145",
+      "size": "110557",
+      "md5": "2b5a894932872ba3444c1d082ceaa987",
+      "crc32": "62f0f872",
+      "sha1": "222d924a2e41f00ad868c7e72c3604be4114151f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc011b8310dd1318f612f15eaec7fcb3",
+      "md5": "4c4629b11659029c60fe02b3fa05ea9b",
       "summation": "md5"
     },
     {
       "name": "alreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666564709",
-      "size": "667648",
-      "md5": "95e47aa1799c4e993ce4ce9fde5d1478",
-      "crc32": "9aa203fd",
-      "sha1": "808815bd33321c1154b75522f5e7c96f317ebe9e",
+      "mtime": "1666609074",
+      "size": "675840",
+      "md5": "4fe86aeb885cce7f4b0fc447ad2d7e40",
+      "crc32": "d371eaad",
+      "sha1": "b5bf1cc1415df2d87919413212a83080e5e2a576",
       "format": "Metadata"
     },
     {
@@ -5294,9 +5356,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 512,
-  "item_last_updated": 1666564799,
-  "item_size": 33167215,
+  "files_count": 518,
+  "item_last_updated": 1666609145,
+  "item_size": 33541943,
   "metadata": {
     "identifier": "alreporter-2022",
     "collection": [
@@ -5313,10 +5375,10 @@
     "publicdate": "2022-09-12 11:04:37",
     "addeddate": "2022-09-12 11:04:37"
   },
-  "server": "ia601509.us.archive.org",
-  "uniq": 1990675462,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1463904576,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia801509.us.archive.org",
+    "ia601509.us.archive.org"
   ]
 }

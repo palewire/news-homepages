@@ -1,5 +1,5 @@
 {
-  "created": 1666564847,
+  "created": 1666609305,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/asburyparkpress-2022",
@@ -4222,31 +4222,93 @@
       "sha1": "c76f2d9bc94e7baed34983f88f0ec826cb40c83f"
     },
     {
+      "name": "asburyparkpress-2022-10-24T07:00:13.400083-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666609220",
+      "size": "19101",
+      "md5": "69d828952e417ee12c5ef57ecebe3874",
+      "crc32": "3b1d74b1",
+      "sha1": "045eaa11b59af441d0a3f52711b43812039faff4",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-24T07:00:13.400083-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666609221",
+      "size": "25922",
+      "md5": "2f5b043ff3a120a1d17a2d6aeeee09df",
+      "crc32": "2fae251a",
+      "sha1": "8924d608c0cbf251400de00bd6af23d5a30f79cd",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-24T07:00:13.400083-04:00.jpg",
+      "source": "original",
+      "mtime": "1666609218",
+      "size": "272645",
+      "md5": "f7ba9b8e1270191e7b76b782d1cbeaf0",
+      "crc32": "4779f5ed",
+      "sha1": "dafd09bd9b317fc3eb00273bdea4fab99f782ad4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-24T07:00:13.400083-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666609223",
+      "size": "1431",
+      "md5": "ad0098ca47582d0eaf6e83725e936a28",
+      "crc32": "fd421615",
+      "sha1": "ccbe37901299289d720ea9eda54dc533b6205af6",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-24T07:00:13.400083-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666609225",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-24T07:00:13.400083-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-24T07:00:13.400083-04:00.jpg",
+      "mtime": "1666609290",
+      "size": "9351",
+      "md5": "74b54fe6ef4d518b64960f6c144453ac",
+      "crc32": "9f397c6a",
+      "sha1": "58abc6a12b977dbfb9a85a7fcd2cec5c30b54aad"
+    },
+    {
       "name": "asburyparkpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "abbd6b1eea3a144e7c48ca6885400101301d6448",
-      "mtime": "1666564836",
-      "size": "90121",
-      "md5": "1185c73514d2966ad796977169f4588b",
-      "crc32": "3f2e7ab3",
-      "sha1": "507071e765596e709bfc5f489b3fc9e68d5a9d2f",
+      "btih": "1d012cf6b2781d891544602821345fae7ed6e087",
+      "mtime": "1666609296",
+      "size": "91408",
+      "md5": "e87c7e414bb2e048969da6ebc62f9dd9",
+      "crc32": "a15dcbf0",
+      "sha1": "d9e87c95cd0459af56e0c5a7055de1e3e63f15b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asburyparkpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "39ba91f1ddd627c28527a9d65fd34e26",
+      "md5": "60b533065281e89958c3592d887b7a69",
       "summation": "md5"
     },
     {
       "name": "asburyparkpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666564778",
-      "size": "544768",
-      "md5": "53a035876ae83d8d25e66c4f6749a79d",
-      "crc32": "4ea15ae0",
-      "sha1": "17ef9575d0f7612486336931278e3f2db79722bd",
+      "mtime": "1666609235",
+      "size": "552960",
+      "md5": "4a5a986bb4f9532347b4155a325be97e",
+      "crc32": "a86ddac5",
+      "sha1": "e06141e35af8b9924db35084caeee99a45bdb421",
       "format": "Metadata"
     },
     {
@@ -4260,9 +4322,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 412,
-  "item_last_updated": 1666564836,
-  "item_size": 26984131,
+  "files_count": 418,
+  "item_last_updated": 1666609296,
+  "item_size": 27322262,
   "metadata": {
     "identifier": "asburyparkpress-2022",
     "collection": [
@@ -4279,10 +4341,10 @@
     "publicdate": "2022-09-20 22:10:26",
     "addeddate": "2022-09-20 22:10:26"
   },
-  "server": "ia601404.us.archive.org",
-  "uniq": 1775800227,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1694294952,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia801404.us.archive.org",
+    "ia601404.us.archive.org"
   ]
 }

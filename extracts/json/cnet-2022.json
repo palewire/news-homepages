@@ -1,5 +1,5 @@
 {
-  "created": 1666564999,
+  "created": 1666609520,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/33/items/cnet-2022",
@@ -13580,31 +13580,93 @@
       "sha1": "0e0ea93b73182a827986226cac57c621b991c5b3"
     },
     {
+      "name": "cnet-2022-10-24T04:02:59.653198-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666609387",
+      "size": "24276",
+      "md5": "e50691fde7ce73dc4bd4d32b49bbc633",
+      "crc32": "180c39af",
+      "sha1": "20b8f9923debdc1c061c59f72ef928ffda309fab",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-10-24T04:02:59.653198-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666609389",
+      "size": "24930",
+      "md5": "fa6a6f8343ff6cdc0e8984294ff1a530",
+      "crc32": "5c7a550d",
+      "sha1": "14c773880f496c99a4f3f01ece95711a4f392d57",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-10-24T04:02:59.653198-07:00.jpg",
+      "source": "original",
+      "mtime": "1666609385",
+      "size": "209173",
+      "md5": "9f34a32757e693b540403172bbd1a868",
+      "crc32": "b31876e9",
+      "sha1": "1cad2ad05f5ce9f1a2ebc02d33370ccdcbe5ab21",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnet-2022-10-24T04:02:59.653198-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666609391",
+      "size": "1438",
+      "md5": "07aa2dd3371cc9a53d9ee2d69fdc6563",
+      "crc32": "e77a757d",
+      "sha1": "d640e15b6691c364c055036ea03309f5d261720d",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-10-24T04:02:59.653198-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666609392",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-10-24T04:02:59.653198-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnet-2022-10-24T04:02:59.653198-07:00.jpg",
+      "mtime": "1666609473",
+      "size": "8647",
+      "md5": "315621ffc89a00214ed235b224825a0f",
+      "crc32": "e63ab9a6",
+      "sha1": "85773b664375ac69a0190f0db3ef790ed2aa6a24"
+    },
+    {
       "name": "cnet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9721af17d9f6d37d04cd0e745a6f9b5cf1965956",
-      "mtime": "1666564984",
-      "size": "270785",
-      "md5": "6bcf7d2231f6122916956bb1b7bf4831",
-      "crc32": "1d89bc4e",
-      "sha1": "97b2524744af00481602841ceb41ed632f85a78c",
+      "btih": "0457c95d31e0d8bb6b81b55a2ff94b6e53e10bab",
+      "mtime": "1666609505",
+      "size": "272006",
+      "md5": "5ab5679c8b00d49286d7891b5130e0d4",
+      "crc32": "cc62d9b6",
+      "sha1": "0e61df69a4b6870bd998c6bd45b96684c430e07a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9408e71831cd19eaa561f2e4d35f39dc",
+      "md5": "f97bc9719bd34db1da8afe4e1dd55371",
       "summation": "md5"
     },
     {
       "name": "cnet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666564883",
-      "size": "1626112",
-      "md5": "3ace6b320f15850ae52a23b0d7a42050",
-      "crc32": "c8b356d7",
-      "sha1": "9c8f11627253a8021b46dfcad370e8b2b6adca59",
+      "mtime": "1666609403",
+      "size": "1634304",
+      "md5": "f7475b62c3832e77fd314de784441133",
+      "crc32": "9baa5ea1",
+      "sha1": "93cb55937bccedb8bb94b07504ec78d7f4d5fc76",
       "format": "Metadata"
     },
     {
@@ -13618,9 +13680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1313,
-  "item_last_updated": 1666564984,
-  "item_size": 74214995,
+  "files_count": 1319,
+  "item_last_updated": 1666609505,
+  "item_size": 74493074,
   "metadata": {
     "identifier": "cnet-2022",
     "collection": [
@@ -13637,10 +13699,10 @@
     "publicdate": "2022-07-04 20:17:32",
     "addeddate": "2022-07-04 20:17:32"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 1042432672,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1807950096,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }
