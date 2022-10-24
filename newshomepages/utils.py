@@ -12,7 +12,7 @@ import iso3166
 import pandas as pd
 import pytz
 import tldextract
-from playwright.sync_api._generated import BrowserContext, Playwright
+from playwright.sync_api._generated import BrowserContext, Page, Playwright
 
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
@@ -643,3 +643,10 @@ def _load_new_page_disable_javascript(
     print(f"Waiting {wait_seconds} seconds")
     time.sleep(wait_seconds)
     return page
+
+
+def read_script_from_file(filename: str, page_obj: Page):
+    """Read and execute Javascript code from a file to a `Page` object."""
+    with open(filename) as f:
+        script = f.read()
+        page_obj.evaluate(script)
