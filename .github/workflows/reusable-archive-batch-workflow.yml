@@ -192,7 +192,7 @@ jobs:
 
       - id: download-items
         name: Download archive.org items
-        run: pipenv run python -m newshomepages.extract download-items --batch=${{ inputs.batch }}
+        run: pipenv run python -m newshomepages.extract download-items --batch=${{ inputs.batch }} --output-path=./_dist/
         shell: bash
         env:
           IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
@@ -202,7 +202,9 @@ jobs:
       - id: git-commit-items
         name: Commit archive.org items
         run: |
-          git add ./extracts
+          git pull origin $GITHUB_REF
+          cp ./_dist/*.json extracts/json/
+          git add ./extracts/json
           git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>"
           git pull origin $GITHUB_REF
           git push
