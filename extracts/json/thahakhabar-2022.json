@@ -1,5 +1,5 @@
 {
-  "created": 1666536858,
+  "created": 1666582285,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/12/items/thahakhabar-2022",
@@ -10310,31 +10310,93 @@
       "sha1": "930c035df2c557be6281217169a8ef19f27b310c"
     },
     {
+      "name": "thahakhabar-2022-10-24T09:14:05.664373+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666582165",
+      "size": "78669",
+      "md5": "b2e8d4d8d00ec1298bf291ac8dea10e4",
+      "crc32": "b7503c5f",
+      "sha1": "cb4daef59c94f1644ac66e13bc37f533599cd4e7",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-24T09:14:05.664373+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666582166",
+      "size": "52047",
+      "md5": "606058611115de20df8879040ff78496",
+      "crc32": "7e861648",
+      "sha1": "4950e39ca4d3b6ae8afcec7c9cd958bb9c642cd5",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-24T09:14:05.664373+05:45.jpg",
+      "source": "original",
+      "mtime": "1666582163",
+      "size": "195008",
+      "md5": "5ff5e4597a6eef2674f50e179f99229c",
+      "crc32": "fde67ada",
+      "sha1": "ecfaa5650a8464b1a1a2d80f2dae246d523bf016",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thahakhabar-2022-10-24T09:14:05.664373+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666582168",
+      "size": "1503",
+      "md5": "6788e0e4324d21500cc4d371e84f474f",
+      "crc32": "a034e8de",
+      "sha1": "33640da489d0e078d3c96db3157bdb54aa131c77",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-24T09:14:05.664373+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666582173",
+      "size": "20181",
+      "md5": "b71a650842f53182a1fbc9a96b96d7d2",
+      "crc32": "29f768a2",
+      "sha1": "3eb828bec557941818752f4130204cbd60fda6f5",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-24T09:14:05.664373+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thahakhabar-2022-10-24T09:14:05.664373+05:45.jpg",
+      "mtime": "1666582252",
+      "size": "10168",
+      "md5": "5feadeb3d4a3c5778e2629dd035c6f61",
+      "crc32": "57c81160",
+      "sha1": "82ac7d3a4adde14d072d5631b9abf6f747c32e3e"
+    },
+    {
       "name": "thahakhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "17414dbcdbf6c303646e620139a7fb85329e4e8d",
-      "mtime": "1666536842",
-      "size": "213511",
-      "md5": "56726994f5d4eb5e8e26f0976a481734",
-      "crc32": "562a75ba",
-      "sha1": "e05bfc59f6ea90df9a1cabdc88b1b9798adc9447",
+      "btih": "c1f1b9a288e55815a72ff1cd0ffbd4f847a2dda0",
+      "mtime": "1666582266",
+      "size": "214777",
+      "md5": "6c822e821e2b60c3e818fcf3ce2a2d62",
+      "crc32": "daf527d3",
+      "sha1": "dd0040ce34ac3fe72ab745f81450ccef8821c2c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thahakhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7916a9477fee5e16f5c41445a5571d1d",
+      "md5": "fd96e0fe4e23103cdb0ca110806d2767",
       "summation": "md5"
     },
     {
       "name": "thahakhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666536746",
-      "size": "1257472",
-      "md5": "5cd2c0db2a702123d5bc05eea8f1eaa5",
-      "crc32": "2842069c",
-      "sha1": "5c48f5c35ab721f0ceae05a5f9c483443d63b868",
+      "mtime": "1666582180",
+      "size": "1265664",
+      "md5": "2517799a560d2719ac40b5a8116696bd",
+      "crc32": "4223251c",
+      "sha1": "270a50083b85b8cf9ece332c30f7dece44db1188",
       "format": "Metadata"
     },
     {
@@ -10348,9 +10410,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 998,
-  "item_last_updated": 1666536842,
-  "item_size": 69570908,
+  "files_count": 1004,
+  "item_last_updated": 1666582266,
+  "item_size": 69937942,
   "metadata": {
     "identifier": "thahakhabar-2022",
     "collection": [
@@ -10367,10 +10429,10 @@
     "publicdate": "2022-07-24 20:39:40",
     "addeddate": "2022-07-24 20:39:40"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1789871902,
+  "server": "ia601503.us.archive.org",
+  "uniq": 1652235161,
   "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }
