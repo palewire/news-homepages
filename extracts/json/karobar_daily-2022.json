@@ -1,5 +1,5 @@
 {
-  "created": 1666547147,
+  "created": 1666593785,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/31/items/karobar_daily-2022",
@@ -11040,31 +11040,93 @@
       "sha1": "d40ca392abcf34454d843caace88a37cdf1ebf1c"
     },
     {
+      "name": "karobar_daily-2022-10-24T11:23:15.156871+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666589903",
+      "size": "70166",
+      "md5": "cab893eb7738eea695df3f5b60ddc95e",
+      "crc32": "9d960e11",
+      "sha1": "19cc42737f8b355ffd1f7519859ad67afee29e73",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-10-24T11:23:15.156871+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666589905",
+      "size": "45409",
+      "md5": "0ecde1f112377b0670b3147b303f52a8",
+      "crc32": "feb78444",
+      "sha1": "34f4524a804b88bb5a8630ad1f1bc1fe70977869",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-10-24T11:23:15.156871+05:45.jpg",
+      "source": "original",
+      "mtime": "1666589902",
+      "size": "235260",
+      "md5": "3ff92ee2b7f3b6cc05cb88732aa41bb2",
+      "crc32": "788d47c7",
+      "sha1": "a37afdcd9f4e0906155df060e4b42fda20fd827f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "karobar_daily-2022-10-24T11:23:15.156871+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666589906",
+      "size": "1513",
+      "md5": "3c31bcf03e064578a1faf2cccbc1183f",
+      "crc32": "08bf219c",
+      "sha1": "c8468f71157bb2fd69ed6a54352689762f017631",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-10-24T11:23:15.156871+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666589908",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-10-24T11:23:15.156871+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "karobar_daily-2022-10-24T11:23:15.156871+05:45.jpg",
+      "mtime": "1666589981",
+      "size": "10584",
+      "md5": "ad11ad34d1e74149abe4309ee96a6ba7",
+      "crc32": "7cc55667",
+      "sha1": "e01bbaede4aa2db3d3e917b36171bacfb7509aec"
+    },
+    {
       "name": "karobar_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2fb76a2ab9d387868e2d3bfd54a78deafa847ab",
-      "mtime": "1666547129",
-      "size": "231144",
-      "md5": "7e3dd0444f3ac9248933c021179dc151",
-      "crc32": "9125a788",
-      "sha1": "2ea59966c73190505d2b32c34221f43b60f97233",
+      "btih": "58f0efbe3d6c658510ce872523e9130dafde6d00",
+      "mtime": "1666590006",
+      "size": "232440",
+      "md5": "07e87e450582bbe953366538cbe45916",
+      "crc32": "ef3bd080",
+      "sha1": "00dc4ef47aaabae3893ebf75b24fc2cd0254a631",
       "format": "Archive BitTorrent"
     },
     {
       "name": "karobar_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e5dd1c24ad655896c1ad2b17ddbd114d",
+      "md5": "858db1467f035bcf5d259045cc13d9a5",
       "summation": "md5"
     },
     {
       "name": "karobar_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666547043",
-      "size": "1372160",
-      "md5": "1243229117810f5ee8f9e119fbfe4139",
-      "crc32": "58377696",
-      "sha1": "76548c71d6936c42e3a00937f5620b2971fcd4e4",
+      "mtime": "1666589912",
+      "size": "1384448",
+      "md5": "015be6ef1ab7002fbcaa9bb2a01f9a27",
+      "crc32": "ffb91846",
+      "sha1": "673bdeac6a0f234cec559837b45ff501b1528e7e",
       "format": "Metadata"
     },
     {
@@ -11078,9 +11140,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1071,
-  "item_last_updated": 1666547129,
-  "item_size": 68279814,
+  "files_count": 1077,
+  "item_last_updated": 1666590006,
+  "item_size": 68656532,
+  "karobar_daily-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "karobar_daily-2022",
     "collection": [
@@ -11097,10 +11164,10 @@
     "publicdate": "2022-07-24 20:37:59",
     "addeddate": "2022-07-24 20:37:59"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 2039994546,
+  "server": "ia601400.us.archive.org",
+  "uniq": 1257874031,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }
