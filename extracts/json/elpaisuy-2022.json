@@ -1,8 +1,13 @@
 {
-  "created": 1666547940,
+  "created": 1666593981,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/elpaisuy-2022",
+  "elpaisuy-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -12322,31 +12327,93 @@
       "sha1": "38eeabbeb9d02d2a6ad963e55c126fb0dd55b85b"
     },
     {
+      "name": "elpaisuy-2022-10-24T02:45:51.649178-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590364",
+      "size": "53676",
+      "md5": "523fc333cd65e0e6bfbe1f0de692c57c",
+      "crc32": "f0ddbd07",
+      "sha1": "7b97f4bf7147b87b1c64bf5cebf7fe90d8a0db30",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-24T02:45:51.649178-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590365",
+      "size": "98481",
+      "md5": "2e54af45c0c1946ba222df9945d3c39a",
+      "crc32": "cb654916",
+      "sha1": "0aaba3362ff5b597caae3091ef0de48e4e00a4af",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-24T02:45:51.649178-03:00.jpg",
+      "source": "original",
+      "mtime": "1666590362",
+      "size": "288048",
+      "md5": "337576369ecda6905118c02fd4e1c395",
+      "crc32": "7cd24fa0",
+      "sha1": "6dc9e27630e39d3239af6ab0a6fc49f54caa89c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-24T02:45:51.649178-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590366",
+      "size": "1485",
+      "md5": "1c463148962b6f722d17694f440e1448",
+      "crc32": "8de25fdb",
+      "sha1": "3dd38bdeeabfcd753ab393eb36efc08818dacb16",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-24T02:45:51.649178-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666590368",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-24T02:45:51.649178-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-24T02:45:51.649178-03:00.jpg",
+      "mtime": "1666590432",
+      "size": "10793",
+      "md5": "d3fd201fb6aa7e6074a20fa41cb3fc01",
+      "crc32": "8985bad8",
+      "sha1": "a158ea1d945ba4d7d1a55643d12fdd38da8f5664"
+    },
+    {
       "name": "elpaisuy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "649d946d1ee2668f7971e849fa8603284b2c1d44",
-      "mtime": "1666547790",
-      "size": "252195",
-      "md5": "77b93cf6e75a3756cf7adfa297df5947",
-      "crc32": "9ebf4db4",
-      "sha1": "3710ea90bafe3ffdccb3e9e59cc75ae5ae06d8bd",
+      "btih": "55dc37bcee9a7ef2881202cdb211dfa5cdb476a0",
+      "mtime": "1666590455",
+      "size": "253461",
+      "md5": "3d58bb04b049604e3eba230398ee106d",
+      "crc32": "dddd6946",
+      "sha1": "cd976e638ac707d643080b5244844c449679da30",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpaisuy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7936000443aa6aa8f1c4da8e30cea147",
+      "md5": "2da7cedc8ee9ad45303594b04b290ea7",
       "summation": "md5"
     },
     {
       "name": "elpaisuy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666547673",
-      "size": "1499136",
-      "md5": "0dff3b279e669873fc1c30ff6f788fc3",
-      "crc32": "60d615bf",
-      "sha1": "230c6b9b62e2091649bd6ef510bb94b8a4651cdc",
+      "mtime": "1666590372",
+      "size": "1507328",
+      "md5": "ed6f61312e987b3f4e5ecf0d94770fd3",
+      "crc32": "5ee366cc",
+      "sha1": "8b8f6bc35fb0158be687143dba98e493b2a635f0",
       "format": "Metadata"
     },
     {
@@ -12360,9 +12427,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1193,
-  "item_last_updated": 1666547790,
-  "item_size": 97549977,
+  "files_count": 1199,
+  "item_last_updated": 1666590455,
+  "item_size": 98012120,
   "metadata": {
     "identifier": "elpaisuy-2022",
     "collection": [
@@ -12380,7 +12447,7 @@
     "addeddate": "2022-07-09 03:58:10"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1952253713,
+  "uniq": 1686919308,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

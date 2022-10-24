@@ -1,5 +1,5 @@
 {
-  "created": 1666547539,
+  "created": 1666590267,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/dailyamerican-2022",
@@ -4170,31 +4170,93 @@
       "sha1": "11a76c1e133e4c1de991e25d3a01d6c79fa1087d"
     },
     {
+      "name": "dailyamerican-2022-10-24T01:43:03.133260-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590188",
+      "size": "23516",
+      "md5": "d0980fadca44a471e3b2b1cac48c6868",
+      "crc32": "ef1953f6",
+      "sha1": "c0f74167d65ff1335d3827d62493d58e24aa558e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-10-24T01:43:03.133260-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590189",
+      "size": "33952",
+      "md5": "9b15ca6af47169a6b6b7764f85a57ec7",
+      "crc32": "7606ab4e",
+      "sha1": "1d536194678caba7d2dbffaf600d533261b1b582",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-10-24T01:43:03.133260-04:00.jpg",
+      "source": "original",
+      "mtime": "1666590186",
+      "size": "272114",
+      "md5": "dcc00d317b2336ff7ad1404ebeeed0bb",
+      "crc32": "5583aa9e",
+      "sha1": "19fa2d419fa9b3e37507de4a5d83256f4b943a4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyamerican-2022-10-24T01:43:03.133260-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590191",
+      "size": "1521",
+      "md5": "395b7264728c50fbacec5cd6048a6391",
+      "crc32": "2206fc93",
+      "sha1": "b79177bea62ed8ebaed7b4e6cdfd70b90d950275",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-10-24T01:43:03.133260-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666590193",
+      "size": "114223",
+      "md5": "baccc64e4f7ff14636bdc37b91d48fea",
+      "crc32": "3cda6f77",
+      "sha1": "962595737efa2e55146d580bfd080fb8ffac88eb",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-10-24T01:43:03.133260-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyamerican-2022-10-24T01:43:03.133260-04:00.jpg",
+      "mtime": "1666590252",
+      "size": "9728",
+      "md5": "86bac6a3632be15cf6af942bacbe6f99",
+      "crc32": "9fdc2f05",
+      "sha1": "a176f183a52fba3472438005ac47f612baf4469a"
+    },
+    {
       "name": "dailyamerican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "291d2cf4ccce5b7a7c0ccb5c936307c88b519954",
-      "mtime": "1666547530",
-      "size": "88336",
-      "md5": "f839c2ae38615905ea4599c701b9bacf",
-      "crc32": "91ba70aa",
-      "sha1": "389bd70fcee142d8181d27b1d55fe47b31ea73b0",
+      "btih": "7e8d92f261e6e5049544a55a2a3df49afabff761",
+      "mtime": "1666590257",
+      "size": "89634",
+      "md5": "95715893c07aa0266b506105a3ce4261",
+      "crc32": "16dd8fa3",
+      "sha1": "01b1d1fc75a2b2e52febe598ba2cca398cac80e6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyamerican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8d71110f67883b7ce60ee5b440894970",
+      "md5": "c4ccff6d4ed7251bf0f17b6814548203",
       "summation": "md5"
     },
     {
       "name": "dailyamerican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666547475",
-      "size": "532480",
-      "md5": "e87d949e377b45e2dcb5fb464d6f8f43",
-      "crc32": "9f4bbcee",
-      "sha1": "f0536651c6372721c2d0fed8fafebed5f5c442f8",
+      "mtime": "1666590200",
+      "size": "540672",
+      "md5": "da028dc9ce28868733096b970d0af409",
+      "crc32": "03e7ee61",
+      "sha1": "c181635fc2dbd29f3f7b68756d912f1e16dc804d",
       "format": "Metadata"
     },
     {
@@ -4208,9 +4270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 407,
-  "item_last_updated": 1666547530,
-  "item_size": 29212247,
+  "files_count": 413,
+  "item_last_updated": 1666590257,
+  "item_size": 29676791,
   "metadata": {
     "identifier": "dailyamerican-2022",
     "collection": [
@@ -4227,10 +4289,10 @@
     "publicdate": "2022-09-20 17:43:40",
     "addeddate": "2022-09-20 17:43:40"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 943243532,
+  "server": "ia801407.us.archive.org",
+  "uniq": 747691067,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }

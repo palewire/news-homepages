@@ -1,5 +1,5 @@
 {
-  "created": 1666553035,
+  "created": 1666590518,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/14/items/gardner_news-2022",
@@ -4170,31 +4170,93 @@
       "sha1": "1de65351e6cae1f403b1d4a4c840c34e167c8d9b"
     },
     {
+      "name": "gardner_news-2022-10-24T01:47:33.735438-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590456",
+      "size": "24315",
+      "md5": "cc62d3f7bc6fccf6f1dc566a3175dead",
+      "crc32": "cc936c7f",
+      "sha1": "6dd8973f32324621878ecd1027a2733c1bd40338",
+      "format": "JSON"
+    },
+    {
+      "name": "gardner_news-2022-10-24T01:47:33.735438-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590458",
+      "size": "37776",
+      "md5": "d68962cecb1d59b28b2e1dfb6df8ed88",
+      "crc32": "5d2360e0",
+      "sha1": "e1bbcc8064a236fd2bd6e0425c4aa2e0416f1dc7",
+      "format": "JSON"
+    },
+    {
+      "name": "gardner_news-2022-10-24T01:47:33.735438-04:00.jpg",
+      "source": "original",
+      "mtime": "1666590455",
+      "size": "275883",
+      "md5": "026c2e96109ae8869bc847435b52b7f6",
+      "crc32": "649c25a2",
+      "sha1": "2254a947de171c248b744f55164642cc426f2b41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gardner_news-2022-10-24T01:47:33.735438-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590459",
+      "size": "1528",
+      "md5": "8607a7527a5e6bf63122c512d83fa13c",
+      "crc32": "a51db6c5",
+      "sha1": "4aec27d6117029b69114cf4d8430458e6f33c2ee",
+      "format": "JSON"
+    },
+    {
+      "name": "gardner_news-2022-10-24T01:47:33.735438-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666590460",
+      "size": "251363",
+      "md5": "9a54efac9e876bcce63a57b2ad1e2351",
+      "crc32": "fed04c4c",
+      "sha1": "97449d15bd678fe475cf696a878181826f899e75",
+      "format": "JSON"
+    },
+    {
+      "name": "gardner_news-2022-10-24T01:47:33.735438-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gardner_news-2022-10-24T01:47:33.735438-04:00.jpg",
+      "mtime": "1666590509",
+      "size": "9691",
+      "md5": "4333594f861089d592e4493d6fadf1c1",
+      "crc32": "c660dbb2",
+      "sha1": "89a15d032199bb4c6ca2fa4ce757735c42020517"
+    },
+    {
       "name": "gardner_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "595f2d4d814b60e58b8206e14fce510c13731d4d",
-      "mtime": "1666547749",
-      "size": "87756",
-      "md5": "09a00a4dee51ab5b08eee2d2865abcb4",
-      "crc32": "acd60287",
-      "sha1": "25b9e9d051b7fcb308e4e203b5c1e763506be4cc",
+      "btih": "0fa1b63c57ba17905004bd8977625a4b37bebfc1",
+      "mtime": "1666590513",
+      "size": "89048",
+      "md5": "f20ca31943c1cd664065f0e7d9671e28",
+      "crc32": "b42bb8ba",
+      "sha1": "0a77ec154a12a3269a693a2db88d02a216b94607",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gardner_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47575de189e06e2be3e162399518e4a9",
+      "md5": "a148a4ca462ba4f85f2ac83f362c1214",
       "summation": "md5"
     },
     {
       "name": "gardner_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666547700",
-      "size": "532480",
-      "md5": "dfbbd5d44dcdcac6b42a4df0cd6e7e09",
-      "crc32": "77d45925",
-      "sha1": "bc9668f8506e030507a2155bb78e155576bc3175",
+      "mtime": "1666590465",
+      "size": "540672",
+      "md5": "081017c7eab3e7f45ab253eead8e3837",
+      "crc32": "2155524b",
+      "sha1": "8c6c983f23b866356ae287cab9c1955c21b16e58",
       "format": "Metadata"
     },
     {
@@ -4208,17 +4270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 407,
-  "gardner_news-2022": {
-    "url": "https://www.thegardnernews.com/",
-    "job_id": "spn2-97d8a0523c15212ac501d1abf23dca213d29a66b",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "resources": [],
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 851."
-  },
-  "item_last_updated": 1666547749,
-  "item_size": 25942204,
+  "files_count": 413,
+  "item_last_updated": 1666590513,
+  "item_size": 26552244,
   "metadata": {
     "identifier": "gardner_news-2022",
     "collection": [
@@ -4236,7 +4290,7 @@
     "addeddate": "2022-09-20 17:51:52"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1327115023,
+  "uniq": 1824468887,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

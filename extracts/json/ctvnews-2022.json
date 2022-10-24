@@ -1,5 +1,5 @@
 {
-  "created": 1666547529,
+  "created": 1666591741,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/ctvnews-2022",
@@ -12218,31 +12218,83 @@
       "sha1": "64d808d223338b85bd5479dd5a188b8f7a391431"
     },
     {
+      "name": "ctvnews-2022-10-24T01:42:51.782408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590193",
+      "size": "79787",
+      "md5": "8a8871e07ac3024d70e819b681a9d009",
+      "crc32": "8e17b61f",
+      "sha1": "e5afdf2d32100194191975bfec55b9ad235f3ba0",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-10-24T01:42:51.782408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590195",
+      "size": "94456",
+      "md5": "feb5c73146af3e141cf12a903fbf068a",
+      "crc32": "453f28c5",
+      "sha1": "2e297e5c608f94dfa91aa3f9fc60f96a46b5ec02",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-10-24T01:42:51.782408-04:00.jpg",
+      "source": "original",
+      "mtime": "1666590192",
+      "size": "302610",
+      "md5": "1f45ce5ab99e948e903f4807c5caf70b",
+      "crc32": "17789e8c",
+      "sha1": "eaab102f8d87b982321666c5772bf4f92906ad68",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctvnews-2022-10-24T01:42:51.782408-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590196",
+      "size": "1458",
+      "md5": "83ab28f7c6cb6d4da5906bc5ab3c2c03",
+      "crc32": "3788f9e2",
+      "sha1": "c89c80dc299cfad97fbb3afba9c25aa821102b3a",
+      "format": "JSON"
+    },
+    {
+      "name": "ctvnews-2022-10-24T01:42:51.782408-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctvnews-2022-10-24T01:42:51.782408-04:00.jpg",
+      "mtime": "1666590286",
+      "size": "10086",
+      "md5": "cecccc7e3cd3625024b39feddd9a973d",
+      "crc32": "ec5bdffb",
+      "sha1": "a36b7de0623b0715de3d49f8a478d01f2358e7fc"
+    },
+    {
       "name": "ctvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a199880c7d0fd905cf16e42379bcd6a36c19a993",
-      "mtime": "1666547511",
-      "size": "248084",
-      "md5": "a4ae5c84c177d02c7a329f1483528fd2",
-      "crc32": "e33edbbf",
-      "sha1": "a777e33202756e6d2ffad9f611e543b817b89e1b",
+      "btih": "2c1de251644f588b299827dd82750390915b5916",
+      "mtime": "1666590299",
+      "size": "249139",
+      "md5": "077e9d4b7087ee3436d995e089af15e7",
+      "crc32": "e64c507b",
+      "sha1": "5cd73e25fc53de968933b97c635685903bf208a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe4773e6bce311a3372a112075161721",
+      "md5": "7faf2a78cba3e57272ec3e1efae9a320",
       "summation": "md5"
     },
     {
       "name": "ctvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666547402",
-      "size": "1413120",
-      "md5": "4f2bc7cbf62a75a9401fddd696247613",
-      "crc32": "0fed4093",
-      "sha1": "f00fc1d70ed329059085f841071df3486f2bcc56",
+      "mtime": "1666590215",
+      "size": "1421312",
+      "md5": "bf6bf3d9db8174e9c8c117e5a69c2146",
+      "crc32": "dc719477",
+      "sha1": "33cc1a2e094dbb9e713e1aca950e307d6af46afa",
       "format": "Metadata"
     },
     {
@@ -12256,9 +12308,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1175,
-  "item_last_updated": 1666547511,
-  "item_size": 131551401,
+  "files_count": 1180,
+  "item_last_updated": 1666590299,
+  "item_size": 132049045,
   "metadata": {
     "identifier": "ctvnews-2022",
     "collection": [
@@ -12275,10 +12327,10 @@
     "publicdate": "2022-06-30 22:35:40",
     "addeddate": "2022-06-30 22:35:40"
   },
-  "server": "ia902505.us.archive.org",
-  "uniq": 820751180,
+  "server": "ia802505.us.archive.org",
+  "uniq": 909438239,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia802505.us.archive.org",
+    "ia902505.us.archive.org"
   ]
 }

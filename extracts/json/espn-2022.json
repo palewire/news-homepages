@@ -1,13 +1,8 @@
 {
-  "created": 1666552890,
+  "created": 1666590439,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/24/items/espn-2022",
-  "espn-2022": {
-    "url": "https://www.espn.com/",
-    "job_id": "spn2-dff78aa29955c1e16418f801d663011b1bfd4175",
-    "message": "The same snapshot had been made 4 minutes, 47 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -12715,31 +12710,93 @@
       "sha1": "536070ef63d67b362bb2b737990377f4189066a4"
     },
     {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590347",
+      "size": "57466",
+      "md5": "cd3d81cbbe2b2a0bfdc03c4ffcb236b4",
+      "crc32": "d5568f02",
+      "sha1": "aa7c714d3d18840cbf312c76352332246b3b9c6d",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590349",
+      "size": "147922",
+      "md5": "f1b7b6380c3afa163fc95a5530be10ee",
+      "crc32": "4bd2f9ba",
+      "sha1": "834bd13d917aa8fa5b61e182b8f026830e964631",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.jpg",
+      "source": "original",
+      "mtime": "1666590344",
+      "size": "350223",
+      "md5": "8171cae84dfac09fae85bf442e312431",
+      "crc32": "4b2cdae8",
+      "sha1": "988a3479caa2a02326cd7578122a21feab009881",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590350",
+      "size": "1441",
+      "md5": "2195dd7fef8cd505119ea01e0e4d13be",
+      "crc32": "5d2749fd",
+      "sha1": "e941a80152f158e18376b3beba512be3832ef357",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666590352",
+      "size": "64726",
+      "md5": "6a5a76fd145db3a08b19b7a3f7ae7c54",
+      "crc32": "a26595fe",
+      "sha1": "315b78dfde86c7e806755b08160398908d72a6b4",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-24T01:45:21.244836-04:00.jpg",
+      "mtime": "1666590417",
+      "size": "11182",
+      "md5": "e5ad0360871ecfa15286feebca942302",
+      "crc32": "b99bcbd3",
+      "sha1": "9aa9129ff1f7b2b87def3c9c8cdca608df55425e"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b45c1cf1815afd7a055e96a63e6c57e65831e659",
-      "mtime": "1666547725",
-      "size": "256212",
-      "md5": "e183eb2cc4f2f96ee8467669e2f60161",
-      "crc32": "c5b8f205",
-      "sha1": "e7ffb97be9ac78a31d63a29beedf55ee8f589158",
+      "btih": "10734d6f6508b89db4375e6bebfbe2e83968d133",
+      "mtime": "1666590431",
+      "size": "257457",
+      "md5": "8add255a84431740e46e4c00661c9d7b",
+      "crc32": "cb22caef",
+      "sha1": "1f74b18fe9c9ae4502f9c2f5231ce9be37453645",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5f5d75c6e6754db6ae9b50e6cccafe6",
+      "md5": "5fb7476b64a565963fdca658cc30f55e",
       "summation": "md5"
     },
     {
       "name": "espn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666547617",
-      "size": "1531904",
-      "md5": "88361bb01936cff93a2a1d9f96653f43",
-      "crc32": "0329b404",
-      "sha1": "521375276cece81eb555244234b31d9a16586551",
+      "mtime": "1666590356",
+      "size": "1536000",
+      "md5": "ddc46c31a61d538441c6efcfc83691a0",
+      "crc32": "9b4751c8",
+      "sha1": "111795dd5c60d5b7c432ba6ccf4ff4750898f16d",
       "format": "Metadata"
     },
     {
@@ -12753,9 +12810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1230,
-  "item_last_updated": 1666547725,
-  "item_size": 124110231,
+  "files_count": 1236,
+  "item_last_updated": 1666590431,
+  "item_size": 124748532,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -12773,7 +12830,7 @@
     "addeddate": "2022-07-04 20:48:15"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 1566623871,
+  "uniq": 286814897,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

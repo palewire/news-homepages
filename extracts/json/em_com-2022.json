@@ -1,13 +1,8 @@
 {
-  "created": 1666552826,
+  "created": 1666590434,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/em_com-2022",
-  "em_com-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -14235,31 +14230,93 @@
       "sha1": "a20109af255e9c9cddcab5df50c1468b1d8122dc"
     },
     {
+      "name": "em_com-2022-10-24T02:45:19.823930-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590329",
+      "size": "64086",
+      "md5": "06bd31c2393b87cc60575a953fa9a8b7",
+      "crc32": "57a68609",
+      "sha1": "d22f60d6e8291322e41f46a9f55783df1e884da4",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-10-24T02:45:19.823930-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590330",
+      "size": "162728",
+      "md5": "11a379ced6fd8d3d74d80296426c2d6a",
+      "crc32": "7721c635",
+      "sha1": "25ea28cb68c095c31832444f1bcd1377007fc548",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-10-24T02:45:19.823930-03:00.jpg",
+      "source": "original",
+      "mtime": "1666590322",
+      "size": "327474",
+      "md5": "1624bad295b0c0b36a9b83d7c8eef602",
+      "crc32": "0e94e918",
+      "sha1": "bb9b866f779bb40c72cf76cdd0f464b145c9ef04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "em_com-2022-10-24T02:45:19.823930-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590332",
+      "size": "1450",
+      "md5": "c80610c51ddd1e1f710ef0043baa0f1c",
+      "crc32": "ba515a12",
+      "sha1": "7268a7af546579c3663a3c2a08fc46a32001c47c",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-10-24T02:45:19.823930-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666590334",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "em_com-2022-10-24T02:45:19.823930-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "em_com-2022-10-24T02:45:19.823930-03:00.jpg",
+      "mtime": "1666590404",
+      "size": "9463",
+      "md5": "01b472a51067d39b8846571793b1f956",
+      "crc32": "98992082",
+      "sha1": "ecf327edac9b82057784da4deb982424df4875bd"
+    },
+    {
       "name": "em_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78eb55c651a91c52a96ea47b9619675f731b4e6a",
-      "mtime": "1666547754",
-      "size": "290667",
-      "md5": "cbd859ff556da87ee1c3439ce5445f7c",
-      "crc32": "2e3cf618",
-      "sha1": "27fc56147cd5df7f357d7a7a3da862838dd17864",
+      "btih": "a269561df9050846fd45d6f474039bdcff3c75a5",
+      "mtime": "1666590424",
+      "size": "291921",
+      "md5": "c7d14074e8dca0997c305aa56d25e60f",
+      "crc32": "1fc96e90",
+      "sha1": "c0c5f448f22cbf1f51f96aa91ee37887889a9c14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "em_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bd27f6ad994caf6c89ffab2a857b4b98",
+      "md5": "922d16fe4ef38b87963f0581a095368a",
       "summation": "md5"
     },
     {
       "name": "em_com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666547656",
-      "size": "1748992",
-      "md5": "cce9fe5fd4c8075b015f21a950ed920c",
-      "crc32": "5a9416a5",
-      "sha1": "768fd5a522c270b59411da1b4d0cc18d42ad6e7d",
+      "mtime": "1666590338",
+      "size": "1757184",
+      "md5": "50e891ea41d958e142960eaf3976df55",
+      "crc32": "a7d9a94d",
+      "sha1": "ffd1e608f61853d0d81f4f4bd8c894fe5b4d30f8",
       "format": "Metadata"
     },
     {
@@ -14273,9 +14330,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1380,
-  "item_last_updated": 1666547754,
-  "item_size": 154647536,
+  "files_count": 1386,
+  "item_last_updated": 1666590424,
+  "item_size": 155222385,
   "metadata": {
     "identifier": "em_com-2022",
     "collection": [
@@ -14292,10 +14349,10 @@
     "publicdate": "2022-08-04 04:55:27",
     "addeddate": "2022-08-04 04:55:27"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 364987393,
+  "server": "ia601401.us.archive.org",
+  "uniq": 150236599,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }
