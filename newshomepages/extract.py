@@ -37,6 +37,7 @@ def cli():
 @click.option("--language", "language", default=None)
 @click.option("--bundle", "bundle", default=None)
 @click.option("--batch", "batch", default=None)
+@click.option("--output-path", "output_path", default=utils.EXTRACT_DIR / "json")
 def download_items(
     year: str,
     site: str = None,
@@ -44,6 +45,7 @@ def download_items(
     language: str = None,
     bundle: str = None,
     batch: str = None,
+    output_path = utils.EXTRACT_DIR / "json",
 ):
     """Download the full list of Internet Archive items as JSON."""
     print(f"Extracting metadata for the Internet Archive collection `{IA_COLLECTION}`")
@@ -53,7 +55,7 @@ def download_items(
 
     def _save_item(item):
         # Save it locally
-        with open(utils.EXTRACT_DIR / "json" / f"{item.identifier}.json", "w") as fh:
+        with open(pathlib.Path(output_path) / f"{item.identifier}.json", "w") as fh:
             json.dump(item.item_metadata, fh, indent=2)
             time.sleep(0.2)
 
