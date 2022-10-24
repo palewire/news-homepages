@@ -16,8 +16,8 @@ repos:
         exclude: newshomepages/extensions
     -   id: check-case-conflict
         exclude: newshomepages/extensions/
-    # -   id: check-json
-    #     exclude: newshomepages/extensions/
+    -   id: check-json
+        exclude: newshomepages/extensions/
     -   id: mixed-line-ending
         exclude: newshomepages/extensions/
 
