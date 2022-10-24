@@ -1,12 +1,13 @@
 {
-<<<<<<< HEAD
-  "created": 1666332788,
-=======
-  "created": 1666590395,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666635934,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/dvillechief-2022",
+  "dvillechief-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -3864,16 +3865,6 @@
       "sha1": "18f32a60903571cf9bd205de5921b79cdd8cad99"
     },
     {
-<<<<<<< HEAD
-      "name": "dvillechief-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "c6baf569b497b8af1ac83e28179cb2e2ecd45c95",
-      "mtime": "1666332771",
-      "size": "80987",
-      "md5": "28bf91be4349d69d798ed337edba2611",
-      "crc32": "c1e023f7",
-      "sha1": "84976e5737e13d511957aa49e7cfa43dbadbbd7d",
-=======
       "name": "dvillechief-2022-10-21T15:03:50.979253-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666382634",
@@ -4246,44 +4237,93 @@
       "sha1": "d3708bbb838477db595000d51cd4f722fb7b7028"
     },
     {
+      "name": "dvillechief-2022-10-24T12:17:39.861108-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666631863",
+      "size": "17858",
+      "md5": "40482c98e98d2db0b2dd5a4aff0e5681",
+      "crc32": "38abcde7",
+      "sha1": "0142d8202c1299386ee21cb0bd220dc4de7c7a34",
+      "format": "JSON"
+    },
+    {
+      "name": "dvillechief-2022-10-24T12:17:39.861108-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666631865",
+      "size": "31055",
+      "md5": "d3c1cb9eecf32bc27bd5d2e9e7da481c",
+      "crc32": "9f448510",
+      "sha1": "93591fa08e02dc06353d4be567ebcb398c4d5062",
+      "format": "JSON"
+    },
+    {
+      "name": "dvillechief-2022-10-24T12:17:39.861108-05:00.jpg",
+      "source": "original",
+      "mtime": "1666631862",
+      "size": "202402",
+      "md5": "c73711eaaf49f7d44262ff9e83ea7621",
+      "crc32": "580b82e5",
+      "sha1": "e6a62d38b96eeaaa667054e0da2dbd3cded785e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dvillechief-2022-10-24T12:17:39.861108-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666631866",
+      "size": "1576",
+      "md5": "04b757edfb25f6a297da45696487da49",
+      "crc32": "645aaf66",
+      "sha1": "efa90938de0f3f3b04ab8ff818a305b6229309ed",
+      "format": "JSON"
+    },
+    {
+      "name": "dvillechief-2022-10-24T12:17:39.861108-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666631868",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dvillechief-2022-10-24T12:17:39.861108-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dvillechief-2022-10-24T12:17:39.861108-05:00.jpg",
+      "mtime": "1666631918",
+      "size": "8521",
+      "md5": "9261d32e87d0aef2566865e677361f72",
+      "crc32": "0f021cb9",
+      "sha1": "75266a63e6512b4cb931ff71b3bc19a107ef39b5"
+    },
+    {
       "name": "dvillechief-2022_archive.torrent",
       "source": "metadata",
-      "btih": "799dfd2b3c21fc16c0130cd0e700e525736c6fb7",
-      "mtime": "1666590390",
-      "size": "88652",
-      "md5": "16ee37cdda4358c79c1297815463a069",
-      "crc32": "22ab2258",
-      "sha1": "15b3a2e751cbaea4aab48144ca3f5a20fcb47fc4",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "43f02147377245a1df37bac73f07bdada9db05d9",
+      "mtime": "1666631923",
+      "size": "89935",
+      "md5": "e40318ff324fee806b6ee5baeb74793d",
+      "crc32": "58c9117f",
+      "sha1": "dda0bef2ccdc442add909ef687bb202a204bb9b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dvillechief-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "1e831444ceda17ed0866c8a2b340cb8a",
-=======
-      "md5": "bb54b3a81ad4f0b6e01f089c9b4a0c8a",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "56d87c063d9b28561b974b118e1570d9",
       "summation": "md5"
     },
     {
       "name": "dvillechief-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666332666",
-      "size": "499712",
-      "md5": "722bf7c4bd3d148d1abc13d737a5eb30",
-      "crc32": "eea8893c",
-      "sha1": "95fd34ec119a8369b55e338e794dce32c5ec5c11",
-=======
-      "mtime": "1666590342",
-      "size": "540672",
-      "md5": "b04eb1802f95881e1ad3be6d20b2baf7",
-      "crc32": "d485718c",
-      "sha1": "c07fe0774b37250599048ca7c57092ab18088dba",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666631872",
+      "size": "544768",
+      "md5": "8ea6a42a4d078c82f5fd4e23f1195f57",
+      "crc32": "e04e2dd6",
+      "sha1": "ad4c1630c8e1efdfc52cf56407e7b6d22e98d869",
       "format": "Metadata"
     },
     {
@@ -4297,15 +4337,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 377,
-  "item_last_updated": 1666332771,
-  "item_size": 24342332,
-=======
-  "files_count": 413,
-  "item_last_updated": 1666590390,
-  "item_size": 26765945,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 419,
+  "item_last_updated": 1666631923,
+  "item_size": 27032938,
   "metadata": {
     "identifier": "dvillechief-2022",
     "collection": [
@@ -4322,18 +4356,10 @@
     "publicdate": "2022-09-20 17:50:08",
     "addeddate": "2022-09-20 17:50:08"
   },
-<<<<<<< HEAD
-  "server": "ia601401.us.archive.org",
-  "uniq": 455579752,
-  "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
-=======
   "server": "ia801401.us.archive.org",
-  "uniq": 421857073,
+  "uniq": 1587019238,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }
