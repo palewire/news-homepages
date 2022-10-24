@@ -1,5 +1,5 @@
 {
-  "created": 1666544105,
+  "created": 1666585847,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/1/items/amarilloglobe-2022",
@@ -4108,31 +4108,93 @@
       "sha1": "803861c05e28acafc68f76bcf3fe3254a6311ed8"
     },
     {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666585777",
+      "size": "27202",
+      "md5": "3e5a416c83e8af76228f8b1564c91542",
+      "crc32": "e634e4ec",
+      "sha1": "a5abc411f258455eb5e1d51550df664c60726ad0",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666585779",
+      "size": "39406",
+      "md5": "cb61f8f11e75f54c56045a217fb5ac98",
+      "crc32": "797d7129",
+      "sha1": "0533c191067c4d43fc855d04752f523a8622fdd7",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.jpg",
+      "source": "original",
+      "mtime": "1666585776",
+      "size": "288154",
+      "md5": "7c0e837dae46920bc2716734f3dfbbcf",
+      "crc32": "1b838a02",
+      "sha1": "ef9a0d6ebdeaf40c56185dfbc566bb05bd05840d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666585781",
+      "size": "1477",
+      "md5": "bec9b534fee3545c820cc2e9c371e304",
+      "crc32": "2c9ba766",
+      "sha1": "59c19a041c0e8d13b7add1333112aa921c2ddbd0",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666585783",
+      "size": "85191",
+      "md5": "ec17dc19e8b6171753e01d08eb99bbc2",
+      "crc32": "8c58f4d2",
+      "sha1": "f5d8622439aed93f7c4c3ca1c4f8955ff1ff7adc",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.jpg",
+      "mtime": "1666585834",
+      "size": "9393",
+      "md5": "9a81b63cb935a177648d8c91be1867ee",
+      "crc32": "ffa27921",
+      "sha1": "edbe1ebaef36d190b587030b2e44c209855ecafc"
+    },
+    {
       "name": "amarilloglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4dbc27bffa167bc0f9e581f23700324496a22de0",
-      "mtime": "1666544096",
-      "size": "86947",
-      "md5": "3177ad9d6f95fd343ed0db1cb208875c",
-      "crc32": "2131b0b2",
-      "sha1": "ac5126df4222e39b88ab42e9fd0b45b022abf93d",
+      "btih": "288b9b2d95de390ddf1408fa6facfd5fea5ef9dc",
+      "mtime": "1666585839",
+      "size": "88244",
+      "md5": "7a14410886231253cd0235422e8ab7ac",
+      "crc32": "fe238aaf",
+      "sha1": "0f251aad2c14e88014a203bcaceedd5aa92a5d31",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amarilloglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69b1af93de6131b1d38af59920cbacaf",
+      "md5": "878995626b53404b2be08c8682f49f02",
       "summation": "md5"
     },
     {
       "name": "amarilloglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666544039",
-      "size": "524288",
-      "md5": "fa683360b77bfaf3fe79750687ac58b5",
-      "crc32": "90b9c07a",
-      "sha1": "9f01ad0661d08d729154d6a3ecb81cec3af54f89",
+      "mtime": "1666585786",
+      "size": "532480",
+      "md5": "d936d8cafa06e36c4d4d48d426c28959",
+      "crc32": "e2623e5b",
+      "sha1": "a588cdf66a979a1bc745252693f7edef32328ced",
       "format": "Metadata"
     },
     {
@@ -4146,9 +4208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 401,
-  "item_last_updated": 1666544096,
-  "item_size": 27069450,
+  "files_count": 407,
+  "item_last_updated": 1666585839,
+  "item_size": 27529762,
   "metadata": {
     "identifier": "amarilloglobe-2022",
     "collection": [
@@ -4166,7 +4228,7 @@
     "addeddate": "2022-09-21 04:37:30"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 355750968,
+  "uniq": 106796277,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"
