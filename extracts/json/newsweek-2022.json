@@ -1,5 +1,5 @@
 {
-  "created": 1666536671,
+  "created": 1666577853,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/13/items/newsweek-2022",
@@ -12760,31 +12760,93 @@
       "sha1": "f4666abb8ded5e75e6d13b0ef1e4bff8e4f6cbfa"
     },
     {
+      "name": "newsweek-2022-10-23T22:15:33.927944-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666577745",
+      "size": "56729",
+      "md5": "0ae7195a6d9a2f5cdde9a9dd6a8bb2c0",
+      "crc32": "e778018c",
+      "sha1": "35f28361620dffc5d8dbe8ff91acd7941f2aaf83",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-10-23T22:15:33.927944-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666577746",
+      "size": "46177",
+      "md5": "f1f76570690a49221231690cc07cad4c",
+      "crc32": "d77759f5",
+      "sha1": "fcdd8b931c966efd95ab5f333b4f6f4e2aead573",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-10-23T22:15:33.927944-04:00.jpg",
+      "source": "original",
+      "mtime": "1666577743",
+      "size": "389724",
+      "md5": "d65ffc6d35140caa0fce6768a260fe36",
+      "crc32": "29176b02",
+      "sha1": "9d6cffed518b02d3ca0f0b5b1e0ab0e637edafc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsweek-2022-10-23T22:15:33.927944-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666577748",
+      "size": "1473",
+      "md5": "3f3b72de3810f0aa1f83815e428f34f2",
+      "crc32": "e48609ed",
+      "sha1": "e46d304ed47cb2900da9192a0b1c941399499cba",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-10-23T22:15:33.927944-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666577750",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-10-23T22:15:33.927944-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsweek-2022-10-23T22:15:33.927944-04:00.jpg",
+      "mtime": "1666577824",
+      "size": "11256",
+      "md5": "2f34b975032ad9ecbb9c15560c678701",
+      "crc32": "07964e6d",
+      "sha1": "8656c1504c1a4bf1ba17fd4d6e6bb5ea77fa8bd4"
+    },
+    {
       "name": "newsweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e57a1846f02ad0cc29efbb39c70c98f6bfb441a",
-      "mtime": "1666533881",
-      "size": "261583",
-      "md5": "08887aa92aba78e488e7de3af23bb463",
-      "crc32": "6f723321",
-      "sha1": "488935955f3b87970a880cfc81a974de0b22268e",
+      "btih": "6a5461f431a660d2e255e1a28e55ca0e3dd8a925",
+      "mtime": "1666577837",
+      "size": "262849",
+      "md5": "9610954fabe848e46b05864cbd2dceb5",
+      "crc32": "279e0b7a",
+      "sha1": "6fb8cf688db213e4cb7859d746a9619bc930dbe5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03545a3cc780f2ee730403dcd836a56f",
+      "md5": "6e02cb9d570eeac90350b108dbb5de50",
       "summation": "md5"
     },
     {
       "name": "newsweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666533747",
-      "size": "1544192",
-      "md5": "bdc6d16590b497c1fae1b37ab1373a18",
-      "crc32": "0fc00adb",
-      "sha1": "a7b1517bff5f234fcca9cc9b4fdfe94a966cbba3",
+      "mtime": "1666577755",
+      "size": "1556480",
+      "md5": "dadf18399acba952369967c56ae1af90",
+      "crc32": "7f6dc502",
+      "sha1": "482edf53ee7d45b7e3afb2952ca246a5e0c40896",
       "format": "Metadata"
     },
     {
@@ -12798,9 +12860,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1235,
-  "item_last_updated": 1666533881,
-  "item_size": 112918130,
+  "files_count": 1241,
+  "item_last_updated": 1666577837,
+  "item_size": 113437245,
   "metadata": {
     "identifier": "newsweek-2022",
     "collection": [
@@ -12817,13 +12879,8 @@
     "publicdate": "2022-07-04 21:49:52",
     "addeddate": "2022-07-04 21:49:52"
   },
-  "newsweek-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia801504.us.archive.org",
-  "uniq": 247260709,
+  "uniq": 746524491,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"
