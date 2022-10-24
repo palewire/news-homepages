@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
   "conflict": 1666340791,
   "created": 1666340791,
+=======
+  "created": 1666591398,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/10/items/franceinfo-2022",
@@ -24430,6 +24434,7 @@
       "format": "JSON"
     },
     {
+<<<<<<< HEAD
       "name": "franceinfo-2022_archive.torrent",
       "source": "metadata",
       "btih": "db5414ea679ee52fd999b247b62c385ffa8464d6",
@@ -24438,23 +24443,552 @@
       "md5": "11d6f3ac7407d07774b29d32e7392dda",
       "crc32": "9dac3bb5",
       "sha1": "c71aa4e8e019cb1b48926219620f2a0972ddecf2",
+=======
+      "name": "franceinfo-2022-10-21T10:21:36.545365+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-21T10:21:36.545365+02:00.jpg",
+      "mtime": "1666340817",
+      "size": "10579",
+      "md5": "d1bc0f63e3c4a9032bfde99709658edb",
+      "crc32": "1bee064f",
+      "sha1": "ffbefc430ebb0ee1e7367b12cec15b456bcfdc3a"
+    },
+    {
+      "name": "franceinfo-2022-10-21T22:07:12.515227+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666382848",
+      "size": "93886",
+      "md5": "f45eb9b0598f89fb14b7e21844e21d31",
+      "crc32": "be927656",
+      "sha1": "c0f0eb06c5d6e1eb9fcea66a06b5d0e1e2567c38",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-21T22:07:12.515227+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666382850",
+      "size": "143507",
+      "md5": "4b650d00d9e2c2bbb55b190a7692b2b9",
+      "crc32": "9b77d4bd",
+      "sha1": "4925ce5f8fa51f6d6b30e3bfeff8d36e0cfcc683",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-21T22:07:12.515227+02:00.jpg",
+      "source": "original",
+      "mtime": "1666382846",
+      "size": "300320",
+      "md5": "1b807a36cd08138d5af7f291d94915e7",
+      "crc32": "3835867c",
+      "sha1": "fab37de2e7ecd7a79f0188e113b4e2f1f74d7475",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-10-21T22:07:12.515227+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666382852",
+      "size": "1531",
+      "md5": "404b21b7512c5fc231286a02a0fab9b5",
+      "crc32": "a9518f8c",
+      "sha1": "7d9bd9f398c19ea5b64c80b442fd26aed5604afc",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-21T22:07:12.515227+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666382855",
+      "size": "37668",
+      "md5": "0bf6f794406ef8de2059ded068b27863",
+      "crc32": "5d29752f",
+      "sha1": "0f50237575f9b7d56352564dcc223978f00b1d05",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-21T22:07:12.515227+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-21T22:07:12.515227+02:00.jpg",
+      "mtime": "1666382992",
+      "size": "10769",
+      "md5": "3e6bbfbd0569ce0f6226c828dd38991e",
+      "crc32": "394c23e7",
+      "sha1": "ab89305771b2382c89afe402d749563a538e003b"
+    },
+    {
+      "name": "franceinfo-2022-10-22T07:53:47.443783+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666418055",
+      "size": "93254",
+      "md5": "8910cb355e1ac1e50352d3bd9e720f9c",
+      "crc32": "9f765fdd",
+      "sha1": "0ebaed7238f395f1e2af9a79f8d9d49dc861f13d",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T07:53:47.443783+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666418057",
+      "size": "140508",
+      "md5": "439c63777c5cb71e89c2992dea8a2593",
+      "crc32": "38a4c14d",
+      "sha1": "795ce715385157f44af10d3aadeba7cd1060a441",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T07:53:47.443783+02:00.jpg",
+      "source": "original",
+      "mtime": "1666418053",
+      "size": "312332",
+      "md5": "7742186b03052bddbc67bfd1ddfcdd93",
+      "crc32": "7fbbc81d",
+      "sha1": "43460750978035d8f87ebc83fe794ee9daec4c08",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-10-22T07:53:47.443783+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666418059",
+      "size": "1531",
+      "md5": "2a0146078329ddfb648acb93865d9a89",
+      "crc32": "4d0fcdf9",
+      "sha1": "cf87cf65e7b884f8a2522171ca4b6e25aeedcb3c",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T07:53:47.443783+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666418061",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T07:53:47.443783+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-22T07:53:47.443783+02:00.jpg",
+      "mtime": "1666418175",
+      "size": "10851",
+      "md5": "c729a2b7a6440c1a5cc979233e294d63",
+      "crc32": "4098783c",
+      "sha1": "7de3f4a190dbdc283b6e68ce36e904695f265670"
+    },
+    {
+      "name": "franceinfo-2022-10-22T10:16:28.904841+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666426592",
+      "size": "93497",
+      "md5": "fb24472ea69432b4b14d9327db0deff5",
+      "crc32": "b0893d17",
+      "sha1": "9e111f9a8ac3cd350df8738e4734726908764af0",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T10:16:28.904841+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666426594",
+      "size": "141260",
+      "md5": "d2dcdbbea729f62daaf18dc11ecd893d",
+      "crc32": "0f8071c7",
+      "sha1": "ca73b7c0173d5be606ddf6a51e6200b0cfa4a264",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T10:16:28.904841+02:00.jpg",
+      "source": "original",
+      "mtime": "1666426591",
+      "size": "327795",
+      "md5": "dfa553d3f8e2674f24454571f516da1c",
+      "crc32": "05edacab",
+      "sha1": "0796f116a03d73761c1037feb3ae8505e36d45a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-10-22T10:16:28.904841+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666426596",
+      "size": "1531",
+      "md5": "8e07be18a75f220d9d9239efad06091f",
+      "crc32": "be7c402d",
+      "sha1": "3764f5fa2ed94215a0b3564c195f05c1f5e48bdd",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T10:16:28.904841+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666426598",
+      "size": "38572",
+      "md5": "22e9946178cd9fcab87e8e820977da2a",
+      "crc32": "fd2475cc",
+      "sha1": "75c375019a9fae32a78cc6af7ffb140d70c3382e",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T10:16:28.904841+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-22T10:16:28.904841+02:00.jpg",
+      "mtime": "1666426706",
+      "size": "10305",
+      "md5": "408f9bcda7176583d96bef54770eb504",
+      "crc32": "3b09bcf4",
+      "sha1": "0a4418f0714820b9d691fa43d75499407b14d4d4"
+    },
+    {
+      "name": "franceinfo-2022-10-22T19:23:00.703580+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666459394",
+      "size": "87894",
+      "md5": "63420bc44f8ea396a9fa44125d56d12e",
+      "crc32": "fd4d1c65",
+      "sha1": "9e4bf8b418a4f6a0cd8a5f0914833132fb36011d",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T19:23:00.703580+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666459396",
+      "size": "137126",
+      "md5": "86162dcecc1920397aaa9d309d93c3b4",
+      "crc32": "039c170f",
+      "sha1": "e8b799cfefeaeff6b7e90ae03a6f3ab3b95d7622",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T19:23:00.703580+02:00.jpg",
+      "source": "original",
+      "mtime": "1666459393",
+      "size": "264380",
+      "md5": "1a8b415820defc48ce31775b4d036cac",
+      "crc32": "eb1bb84a",
+      "sha1": "beeb14439a12be38c32c83bfa97bd70ea064dbb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-10-22T19:23:00.703580+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666459398",
+      "size": "1531",
+      "md5": "a65c4d21e508efa5d9acb41d81e2ddc2",
+      "crc32": "28a4a670",
+      "sha1": "91fa5c138b214139e7d9f0f775a59e8f0b698196",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T19:23:00.703580+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666459400",
+      "size": "208",
+      "md5": "e32950df779b81edb07b5090d7f2ba10",
+      "crc32": "f1d1bb16",
+      "sha1": "73de4137541c2a4d5785568bebd0613c626d0142",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-22T19:23:00.703580+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-22T19:23:00.703580+02:00.jpg",
+      "mtime": "1666459536",
+      "size": "10076",
+      "md5": "4d70ee7745800c99dd04d28fe655a6f6",
+      "crc32": "42a515b4",
+      "sha1": "33124f742ba0c8ce95577667f27e8582309a359d"
+    },
+    {
+      "name": "franceinfo-2022-10-23T08:32:10.279454+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666506756",
+      "size": "86300",
+      "md5": "12c60a3872c2a674c6c749533afb635c",
+      "crc32": "a041914b",
+      "sha1": "1a409e3975451690fa20b636fe647a615bd52b8c",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T08:32:10.279454+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666506758",
+      "size": "137939",
+      "md5": "95de0cc6fe9ad7357187ebc24a0d421f",
+      "crc32": "a5582084",
+      "sha1": "1eba99a50759b5a9245db690d610915fac513e36",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T08:32:10.279454+02:00.jpg",
+      "source": "original",
+      "mtime": "1666506755",
+      "size": "320826",
+      "md5": "09cafc60ed2e975ff6a98527a6684920",
+      "crc32": "7d5e35d9",
+      "sha1": "896fc7704b0e7722eb99e4397c6473c41ae3afd2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-10-23T08:32:10.279454+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666506759",
+      "size": "1531",
+      "md5": "ff563c8c6be0081e969fd8ec8aac862c",
+      "crc32": "56149149",
+      "sha1": "ac219622804de564276b523924865abdf64689ea",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T08:32:10.279454+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666506761",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T08:32:10.279454+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-23T08:32:10.279454+02:00.jpg",
+      "mtime": "1666506858",
+      "size": "10623",
+      "md5": "9a9a402e40f296bf18b785368268e1dd",
+      "crc32": "a670f0ba",
+      "sha1": "0190128dcc546d457cb22b0794308db169035e9c"
+    },
+    {
+      "name": "franceinfo-2022-10-23T10:19:07.616802+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666513151",
+      "size": "94860",
+      "md5": "3194dcf95d3cc7a72e52214f5e8d9319",
+      "crc32": "144a1688",
+      "sha1": "0be4a3abf56b589adecbd666d0593c4bd6f6be23",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T10:19:07.616802+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666513153",
+      "size": "141321",
+      "md5": "ca034232c080dadc89c540ac5a3a8f88",
+      "crc32": "06aeb215",
+      "sha1": "b05c1e97a0bdb5692e3f8c47a4224470af77b4c5",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T10:19:07.616802+02:00.jpg",
+      "source": "original",
+      "mtime": "1666513149",
+      "size": "306952",
+      "md5": "a688209e94e0fe72a329a283e01c1ed2",
+      "crc32": "c303d699",
+      "sha1": "c1ba739f6b5afff9da4d93148518d23a191bec60",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-10-23T10:19:07.616802+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666513155",
+      "size": "1530",
+      "md5": "0daec7bb3f22be3a369857a051691b6e",
+      "crc32": "91a27228",
+      "sha1": "5946185d3188de401626e2a01a8deb5e0c438aad",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T10:19:07.616802+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666513157",
+      "size": "38438",
+      "md5": "ec734a3e6b8bd064aad5ae30e47c982b",
+      "crc32": "cea5c183",
+      "sha1": "0a5a9ae1a964213374b4f000b3664b6c7580c5e6",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T10:19:07.616802+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-23T10:19:07.616802+02:00.jpg",
+      "mtime": "1666513297",
+      "size": "10201",
+      "md5": "f0a7804bd9b6a0586bc9041ff4461633",
+      "crc32": "03034cf1",
+      "sha1": "050eac2f63a13087322dad6512f37465b382ef5d"
+    },
+    {
+      "name": "franceinfo-2022-10-23T19:54:45.333987+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666547707",
+      "size": "87666",
+      "md5": "3bd5af6c1bcca3a55ba31b9d13e8c04a",
+      "crc32": "54dd2283",
+      "sha1": "7a2ecb37e55c8f2b99e17baf88993f0e2d39decf",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T19:54:45.333987+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666547709",
+      "size": "136505",
+      "md5": "abf0f8b979c88ffe5e71a5de2a089c1f",
+      "crc32": "2739ab73",
+      "sha1": "4a35e1eddad811d060bb79d5f5f8d117bb8dfee2",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T19:54:45.333987+02:00.jpg",
+      "source": "original",
+      "mtime": "1666547705",
+      "size": "311487",
+      "md5": "c53f78b6f515202b97137f2a64fd68ed",
+      "crc32": "e2bc8a4a",
+      "sha1": "e3451eec3a554d6d13ba7e8763bd6128e8bbb7d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-10-23T19:54:45.333987+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666547710",
+      "size": "1531",
+      "md5": "189a46b54d4923d1ad163f2d14fe3f9b",
+      "crc32": "97aa1acf",
+      "sha1": "3f88ec2069c7d623f5754cc03ee0bb8b43f01369",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T19:54:45.333987+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666547712",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-23T19:54:45.333987+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-23T19:54:45.333987+02:00.jpg",
+      "mtime": "1666547807",
+      "size": "10513",
+      "md5": "d37e5d8e11c9f427ae809c02b97ca237",
+      "crc32": "7e9e369f",
+      "sha1": "5f7ff217ebb83aa7aea9ebd2d98999e7a60fcf4d"
+    },
+    {
+      "name": "franceinfo-2022-10-24T07:46:41.541432+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590405",
+      "size": "91062",
+      "md5": "5249819cc2d47d0f2918ea018c9ee85d",
+      "crc32": "30ebb758",
+      "sha1": "b1d4300a914ce140719c59e9e9a3b75b7584f33b",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-24T07:46:41.541432+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590407",
+      "size": "140383",
+      "md5": "9ebd17e3af3258470377673d6faeb5fd",
+      "crc32": "46dff2ff",
+      "sha1": "03a19a71b375d536f8462b63f694beea3594830b",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-24T07:46:41.541432+02:00.jpg",
+      "source": "original",
+      "mtime": "1666590403",
+      "size": "222958",
+      "md5": "2f3eef34e46187c133baca0b1be84902",
+      "crc32": "f92a13ab",
+      "sha1": "ecd5899af145d6aff68af82c611af0229a8e1ab3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "franceinfo-2022-10-24T07:46:41.541432+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590409",
+      "size": "1530",
+      "md5": "0acc0a50127e438809f12a2fc5ddef11",
+      "crc32": "19c81242",
+      "sha1": "1b0037167c2aeeca1ae3eedaeb5b561a02e4643f",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-24T07:46:41.541432+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666590411",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "franceinfo-2022-10-24T07:46:41.541432+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-24T07:46:41.541432+02:00.jpg",
+      "mtime": "1666590927",
+      "size": "9609",
+      "md5": "8b6109361ff4ef81663a7f7007fa04d3",
+      "crc32": "55929f06",
+      "sha1": "0722fa0b89458806a613c8663f106eccac36eeef"
+    },
+    {
+      "name": "franceinfo-2022_archive.torrent",
+      "source": "metadata",
+      "btih": "2bb6ffd8594f70a2af8adec2915e31418ca00202",
+      "mtime": "1666591016",
+      "size": "515332",
+      "md5": "19ce151d5d3b10b9b7da5c5bff09f9f8",
+      "crc32": "822af61b",
+      "sha1": "8715fbaf134b9833fe18439d0cb12258c4b89596",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Archive BitTorrent"
     },
     {
       "name": "franceinfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
+<<<<<<< HEAD
       "md5": "69c625691ba6f0b080ed8c1ecf6e0386",
+=======
+      "md5": "5ef12efa6cdeb298e623c74d764f50d5",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "summation": "md5"
     },
     {
       "name": "franceinfo-2022_meta.sqlite",
       "source": "original",
+<<<<<<< HEAD
       "mtime": "1666340538",
       "size": "2891776",
       "md5": "008381ba3f9e5b53cbd269110230089e",
       "crc32": "0f2a0612",
       "sha1": "a00cb7c02951c20140540aecc4661d2a9c4f81fd",
+=======
+      "mtime": "1666590444",
+      "size": "2949120",
+      "md5": "412d52e1af2ad880add136e5b0cb79bd",
+      "crc32": "bfac4e8b",
+      "sha1": "733a4174690f0648a7949a87ced8643314628867",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Metadata"
     },
     {
@@ -24468,9 +25002,15 @@
       "format": "Metadata"
     }
   ],
+<<<<<<< HEAD
   "files_count": 2353,
   "item_last_updated": 1666340685,
   "item_size": 268427331,
+=======
+  "files_count": 2402,
+  "item_last_updated": 1666591016,
+  "item_size": 272930603,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "metadata": {
     "identifier": "franceinfo-2022",
     "collection": [
@@ -24487,6 +25027,7 @@
     "publicdate": "2022-04-09 13:42:09",
     "addeddate": "2022-04-09 13:42:09"
   },
+<<<<<<< HEAD
   "pending_tasks": true,
   "server": "ia902504.us.archive.org",
   "servers_unavailable": true,
@@ -24502,6 +25043,12 @@
   ],
   "uniq": 780377336,
   "workable_servers": [
+=======
+  "server": "ia802504.us.archive.org",
+  "uniq": 2035573744,
+  "workable_servers": [
+    "ia802504.us.archive.org",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
     "ia902504.us.archive.org"
   ]
 }

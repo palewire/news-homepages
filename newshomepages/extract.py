@@ -5,13 +5,11 @@ import pathlib
 import re
 import time
 from datetime import datetime
-from json.decoder import JSONDecodeError
 from urllib.parse import urlparse
 
 import click
 import internetarchive
 import pandas as pd
-import pytz
 import requests
 from requests.adapters import HTTPAdapter, Retry
 from rich import print
@@ -30,47 +28,6 @@ CURRENT_YEAR = datetime.now().year
 def cli():
     """Extract data from the Internet Archive collection."""
     pass
-
-
-@cli.command()
-@click.option("--init", is_flag=True, default=False)
-def latest_files(init: bool = False):
-    """Parse and consolidate the latest files for each site."""
-    # Get all the JSON files
-    latest_dir = utils.SOURCES_PATH / "latest"
-    json_list = sorted(list(latest_dir.glob("*.json")))
-    print(f"Parsing {len(json_list)} archive artifacts")
-
-    # Loop through them all ...
-    row_list = []
-    for f in track(json_list):
-        # ... pulling out the data we want
-        try:
-            data = json.load(open(f))
-        except JSONDecodeError:
-            continue
-        row = dict(handle=f.stem)
-        metadata = utils.parse_archive_url(data[0])
-        row["datetime"] = metadata["timestamp"].astimezone(pytz.utc)
-        artifact_urls = utils.parse_archive_artifact(data)
-        row.update(artifact_urls)
-        row_list.append(row)
-
-    # Load it into a dataframe
-    new_df = pd.DataFrame(row_list).sort_values("handle").set_index("handle")
-
-    # Update the existing dataframe
-    csv_path = utils.EXTRACT_DIR / "csv" / "latest-files.csv"
-    if not init:
-        old_df = pd.read_csv(csv_path, parse_dates=["datetime"], index_col="handle")
-        out_df = pd.concat([old_df[~old_df.index.isin(new_df.index)], new_df])
-    # Unless the --init flag was passed
-    else:
-        out_df = new_df
-
-    # Write it out
-    print(f":pencil: Writing {len(out_df)} rows to {csv_path}")
-    out_df.sort_values("handle").to_csv(csv_path)
 
 
 @cli.command()

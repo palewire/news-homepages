@@ -118,10 +118,6 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: install
-        name: Install Python dependencies
-        uses: ./.github/actions/install
-
       - id: commit
         name: Commit
         uses: ./.github/actions/commit
