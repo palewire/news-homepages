@@ -1,5 +1,5 @@
 {
-  "created": 1666203402,
+  "created": 1666631986,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/8/items/dailypenn-2022",
@@ -10407,31 +10407,662 @@
       "format": "JSON"
     },
     {
+      "name": "dailypenn-2022-10-19T14:14:18.854336-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-19T14:14:18.854336-04:00.jpg",
+      "mtime": "1666211759",
+      "size": "9134",
+      "md5": "7c4804cae3d37f683b9cdf54f2eb7dbe",
+      "crc32": "b760ac63",
+      "sha1": "7b449f2579aed18a0669c35f655e89874b153998"
+    },
+    {
+      "name": "dailypenn-2022-10-20T04:00:43.795752-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666252851",
+      "size": "26501",
+      "md5": "39d12364701c7514542a0e705d467559",
+      "crc32": "e0df4be9",
+      "sha1": "4db60894aa1c9f4229b4b64d5b1d2865d1481c41",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-20T04:00:43.795752-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666252853",
+      "size": "25575",
+      "md5": "c48c05100b5451fd60d07d802be5ba68",
+      "crc32": "7cfaa980",
+      "sha1": "738255fea7110eaf33ab97f93d0252d75bd0af59",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-20T04:00:43.795752-04:00.jpg",
+      "source": "original",
+      "mtime": "1666252849",
+      "size": "343836",
+      "md5": "b3f1b2bef5f3211b28d3d1b39511282c",
+      "crc32": "19e4a274",
+      "sha1": "64410e06bb23847400afc61b29be9cfd5063d4c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-20T04:00:43.795752-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666252856",
+      "size": "1450",
+      "md5": "460157fcb542be44c0055ee69b2484fd",
+      "crc32": "6121250c",
+      "sha1": "1b03c92f30235309b6b5d61dfa12ced8dbe68000",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-20T04:00:43.795752-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666252859",
+      "size": "12662",
+      "md5": "91bffa088bc3d1da2bcc5c02acfebe83",
+      "crc32": "8e73765b",
+      "sha1": "bef37d3d9c7940d97059262d745d0ec5f3c81bd5",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-20T04:00:43.795752-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-20T04:00:43.795752-04:00.jpg",
+      "mtime": "1666252926",
+      "size": "9110",
+      "md5": "7e2bdbe7e03e03051b9c7f80b5e2b280",
+      "crc32": "df6ae430",
+      "sha1": "142eafa5ce033d6ec6d068b655840327b3d254c2"
+    },
+    {
+      "name": "dailypenn-2022-10-20T14:55:52.854013-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666292161",
+      "size": "26402",
+      "md5": "2f361f1a44ad1576daf2c380663f867b",
+      "crc32": "a61572b9",
+      "sha1": "fbbca89b479e54b7f20f1aafc3b0db96fe537ead",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-20T14:55:52.854013-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666292162",
+      "size": "24823",
+      "md5": "f8301f436475354d323e28017ea5b14b",
+      "crc32": "d3a2e99a",
+      "sha1": "6b08f3f226efbb1f92d58b192f02c7540c7912ea",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-20T14:55:52.854013-04:00.jpg",
+      "source": "original",
+      "mtime": "1666292159",
+      "size": "352398",
+      "md5": "78acd53e3ae663b114929e021d5467d8",
+      "crc32": "e883e8cb",
+      "sha1": "f78ebb2b26f40d0aef4185a338579e749b3a348b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-20T14:55:52.854013-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666292164",
+      "size": "1450",
+      "md5": "78c3134b777304b58c9899ac9e06828e",
+      "crc32": "eefe8987",
+      "sha1": "401ae2f950cb008a5130ead06651b1c891a416d5",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-20T14:55:52.854013-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666292166",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-20T14:55:52.854013-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-20T14:55:52.854013-04:00.jpg",
+      "mtime": "1666292259",
+      "size": "9207",
+      "md5": "556dd538f16a6e23641bd697bc632091",
+      "crc32": "b3bbb9bd",
+      "sha1": "7a0b2e576087e08731ec9b2f4a787e619b2bcfe8"
+    },
+    {
+      "name": "dailypenn-2022-10-21T02:11:24.197122-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666332699",
+      "size": "26464",
+      "md5": "3647631a69836227dd4a3e7b5eb34eec",
+      "crc32": "db40b02d",
+      "sha1": "6f2be1bbca9afd15f57f3a8c0a4f14d2bf1c8b41",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-21T02:11:24.197122-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666332700",
+      "size": "25973",
+      "md5": "ef10c2019738f9582461e36ac5bbc42b",
+      "crc32": "e17f4e4c",
+      "sha1": "f264bb1376367766299c1a599d411e7fd7ed2755",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-21T02:11:24.197122-04:00.jpg",
+      "source": "original",
+      "mtime": "1666332692",
+      "size": "353325",
+      "md5": "564772a085def9c7b2b3b29960b7bc9b",
+      "crc32": "1b9ac662",
+      "sha1": "11db9b982ad78617a13805c158344d438d4273ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-21T02:11:24.197122-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666332702",
+      "size": "1449",
+      "md5": "768e44732affe99767ef26b3781d4bb9",
+      "crc32": "005f0a8e",
+      "sha1": "8e84da3d41253b896e2c85649dc1c6f6d2f574db",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-21T02:11:24.197122-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666332704",
+      "size": "20182",
+      "md5": "6e30e1f62c59d620b095212ff1f49f7e",
+      "crc32": "802fcc2c",
+      "sha1": "de6d904f5b6b0cccaf90c6ae0b05485e9e4ce039",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-21T02:11:24.197122-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-21T02:11:24.197122-04:00.jpg",
+      "mtime": "1666332779",
+      "size": "9212",
+      "md5": "e3e64f35ebaf7a57b2e1c749393469e0",
+      "crc32": "30834898",
+      "sha1": "45549cf452441792b55114a4d91e6531639af8b7"
+    },
+    {
+      "name": "dailypenn-2022-10-21T16:06:04.694216-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666382778",
+      "size": "24906",
+      "md5": "489de59112de766f32567c021b050e80",
+      "crc32": "1a669497",
+      "sha1": "d78465d60b83c04b7cc5d584079595c44b631bcb",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-21T16:06:04.694216-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666382779",
+      "size": "24178",
+      "md5": "e14a0e8f72f0d937d0ab25b4bf1d5b7b",
+      "crc32": "9336f14e",
+      "sha1": "0b4ac3d4071967e0cdf9a4bbce5516dfc5e17ad2",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-21T16:06:04.694216-04:00.jpg",
+      "source": "original",
+      "mtime": "1666382773",
+      "size": "347139",
+      "md5": "f159a4b9788e1812f886be384750b7d7",
+      "crc32": "b292df28",
+      "sha1": "4e7f4b76466fa4c15cc62d6a97dea4842f320d1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-21T16:06:04.694216-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666382781",
+      "size": "1450",
+      "md5": "56bb3d59620ca082d23604ccc56587cf",
+      "crc32": "81d9a515",
+      "sha1": "6ff24db4bb6aee6c4fac650566099a4357dc688e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-21T16:06:04.694216-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666382783",
+      "size": "16307",
+      "md5": "22c0ba33d0615f4469db864e3a31878b",
+      "crc32": "deee859f",
+      "sha1": "15103fa289acef776b31bd94bc47523243dade68",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-21T16:06:04.694216-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-21T16:06:04.694216-04:00.jpg",
+      "mtime": "1666382850",
+      "size": "9376",
+      "md5": "96f72552e57e5a19d5313b862637147f",
+      "crc32": "6f5c1b6b",
+      "sha1": "0b145b549b45c5a9922b32a3432939670b641f83"
+    },
+    {
+      "name": "dailypenn-2022-10-22T01:51:02.772951-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666417873",
+      "size": "25939",
+      "md5": "a9f5ead63cc3049ac70c35f2df8bc183",
+      "crc32": "9790cb84",
+      "sha1": "bdb44a29d5eba48ca8a4b3b4b85fa32576b839d0",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-22T01:51:02.772951-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666417875",
+      "size": "26209",
+      "md5": "99b15db244ecc9f04944af7caa5d316a",
+      "crc32": "088431f0",
+      "sha1": "906c840f814ed923f008dabe1e2e913178f684b5",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-22T01:51:02.772951-04:00.jpg",
+      "source": "original",
+      "mtime": "1666417871",
+      "size": "347478",
+      "md5": "675d9a07ccc58d24926614398983823a",
+      "crc32": "228eb16d",
+      "sha1": "7c8d6a900804f229b5feff38c3fbb8f26e4143b6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-22T01:51:02.772951-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666417876",
+      "size": "1450",
+      "md5": "bbe1a4d9938f46e5a3462699446aaa28",
+      "crc32": "27c2f85d",
+      "sha1": "94347d939b7b9790e3006c4f922318b2c32c281f",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-22T01:51:02.772951-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666417877",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-22T01:51:02.772951-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-22T01:51:02.772951-04:00.jpg",
+      "mtime": "1666417962",
+      "size": "9351",
+      "md5": "1cb29b22682f77bdf8d7a333c8f95a1b",
+      "crc32": "2e8caf7e",
+      "sha1": "9888e03d4b4f8b693d08183fc468652ec20dc338"
+    },
+    {
+      "name": "dailypenn-2022-10-22T13:19:18.860006-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666459170",
+      "size": "26374",
+      "md5": "1763bcc03d3cab9cf41282827139139e",
+      "crc32": "44a76196",
+      "sha1": "8cf3133cb1fe919e9f2b770a968a6bc5de91bf64",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-22T13:19:18.860006-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666459171",
+      "size": "24383",
+      "md5": "f036040ecdcbcfb11d59a6cf35bfae6b",
+      "crc32": "697b5460",
+      "sha1": "dfa26e19d73632b172f695142b0b9d02d55e6c48",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-22T13:19:18.860006-04:00.jpg",
+      "source": "original",
+      "mtime": "1666459168",
+      "size": "347685",
+      "md5": "c0e535c107dc17068abc0e0b58bc29a3",
+      "crc32": "7431b637",
+      "sha1": "f2893ed187f1a0abcb50b65044800f87254f6567",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-22T13:19:18.860006-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666459173",
+      "size": "1450",
+      "md5": "d24a5a7f6ad4c6db1702039c5e5daf19",
+      "crc32": "f45ef659",
+      "sha1": "1f5e86172a40471e988aeb8759b618b4441c700f",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-22T13:19:18.860006-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666459174",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-22T13:19:18.860006-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-22T13:19:18.860006-04:00.jpg",
+      "mtime": "1666459258",
+      "size": "9352",
+      "md5": "95b3f1eb4374b9450d24f59f2e5c31c3",
+      "crc32": "b59a1ae4",
+      "sha1": "693f6615b56da67455b6655bc0d527428f333612"
+    },
+    {
+      "name": "dailypenn-2022-10-23T02:29:17.026950-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666506568",
+      "size": "26433",
+      "md5": "0ec7a3c1321eba2afa0caa2aa196fd55",
+      "crc32": "d1cf4866",
+      "sha1": "97adb4b187e4f62e20e5d4a993a2c7dcafb841d3",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-23T02:29:17.026950-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666506569",
+      "size": "27352",
+      "md5": "34fea43e44be042232cbe6a1e86af60a",
+      "crc32": "a2c3b8c1",
+      "sha1": "2ce3f70efdb81b47fba1a0aa781ab1186339e915",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-23T02:29:17.026950-04:00.jpg",
+      "source": "original",
+      "mtime": "1666506566",
+      "size": "326726",
+      "md5": "ed507be1d7de6adc56275c4eaf61dc4b",
+      "crc32": "e87d4020",
+      "sha1": "18fb6e4725ce2b9cdb05ccc5ef49ab386f0667a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-23T02:29:17.026950-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666506571",
+      "size": "1450",
+      "md5": "6e4a310f4c60b2dcc92a22e8aab44e77",
+      "crc32": "b6b8d104",
+      "sha1": "c64fd0081ad7f1461ca1e1728fb4d802394f4ce1",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-23T02:29:17.026950-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666506573",
+      "size": "246",
+      "md5": "8a5627d0155b63187efcf799d5541c4c",
+      "crc32": "50c1e98a",
+      "sha1": "4ceae869a4c5da46eb5564e605e07e3fb4dfc339",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-23T02:29:17.026950-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-23T02:29:17.026950-04:00.jpg",
+      "mtime": "1666506637",
+      "size": "9368",
+      "md5": "7ca8d422fdf49b8b7040bb6a71cc5db4",
+      "crc32": "887b946f",
+      "sha1": "066f79141ec805f1d181b0ce280c29f13c66bb11"
+    },
+    {
+      "name": "dailypenn-2022-10-23T13:51:10.981158-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666547477",
+      "size": "26318",
+      "md5": "bf916c881539dbcd75dfdea84ee30f32",
+      "crc32": "7d1c6255",
+      "sha1": "23fda979e3a5986c7f3e98fa0a5cfdd50dc4d42d",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-23T13:51:10.981158-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666547479",
+      "size": "27334",
+      "md5": "a73e1a065063757f597c5d0b11df27cd",
+      "crc32": "1df55ff6",
+      "sha1": "4efa45a1c4d7c74a986b10acdfb101b8274002cb",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-23T13:51:10.981158-04:00.jpg",
+      "source": "original",
+      "mtime": "1666547476",
+      "size": "326770",
+      "md5": "2f7d1265040c352599669b7143268c0e",
+      "crc32": "c0bd06e1",
+      "sha1": "52e6a3c43eccdcc3724d16b864db59541278507d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-23T13:51:10.981158-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666547480",
+      "size": "1450",
+      "md5": "52b1562c85083f91f54c92552da39a5b",
+      "crc32": "afeb41f3",
+      "sha1": "4c1440518a00b1abd925e3cd5e29949cbbb65b0f",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-23T13:51:10.981158-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666547482",
+      "size": "14967",
+      "md5": "d7424f2540cb5614bfea70656c478552",
+      "crc32": "fcc20dd6",
+      "sha1": "16e0530848cfdbb8328f42324e75cd6d8ffa99f4",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-23T13:51:10.981158-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-23T13:51:10.981158-04:00.jpg",
+      "mtime": "1666547559",
+      "size": "9371",
+      "md5": "e281281fe178c0a5de8d0d97b687c879",
+      "crc32": "86410802",
+      "sha1": "933db20deae38fd94d1ff458a492a354a7a5aa14"
+    },
+    {
+      "name": "dailypenn-2022-10-24T01:43:09.713237-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590198",
+      "size": "26852",
+      "md5": "f32448f6fede1a1da9fc61b26013827e",
+      "crc32": "2c5d451d",
+      "sha1": "480c3688bf0ae1ac9ef97141feb108c507f3ad9e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-24T01:43:09.713237-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590200",
+      "size": "28087",
+      "md5": "e57048302ceee954a118d24f128e5ed7",
+      "crc32": "f9868f22",
+      "sha1": "2ef2fe4ee8eac6ffcadd6d187192170f73c6a8cf",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-24T01:43:09.713237-04:00.jpg",
+      "source": "original",
+      "mtime": "1666590197",
+      "size": "324442",
+      "md5": "8642f991475e0fbb82abe4e999bb5e55",
+      "crc32": "45eb7de3",
+      "sha1": "b9189175f0f78eea7a3698c11fae67ea30bb511c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-24T01:43:09.713237-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590202",
+      "size": "1450",
+      "md5": "761cc8c753f07ae57974c51f79777622",
+      "crc32": "0c69570c",
+      "sha1": "65354e038eca20e9ad05d896d0680cd9cd199380",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-24T01:43:09.713237-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666590204",
+      "size": "202",
+      "md5": "08394a618a58802ada190249ad02ada0",
+      "crc32": "caa88fdd",
+      "sha1": "9e1a59e1093108679a30232819c096a7792427c1",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-24T01:43:09.713237-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-24T01:43:09.713237-04:00.jpg",
+      "mtime": "1666590321",
+      "size": "9288",
+      "md5": "afc86dce8621f78d2008a5de32d17128",
+      "crc32": "ba85a984",
+      "sha1": "76f63637b56b2146b895e2a30babe6db0605e45c"
+    },
+    {
+      "name": "dailypenn-2022-10-24T13:15:36.320627-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666631742",
+      "size": "26423",
+      "md5": "c9d68147aa0a4d34cdd0dcb02325c9ea",
+      "crc32": "b71d9fff",
+      "sha1": "c8c97f3d339409ed0dc47628053a91ccd85f7a7c",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-24T13:15:36.320627-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666631744",
+      "size": "24312",
+      "md5": "f6695b60ea30df86f4582bd25b702b18",
+      "crc32": "6ba5cc01",
+      "sha1": "8851d6a745b07b2b5f74583d4ac70d3771f62711",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-24T13:15:36.320627-04:00.jpg",
+      "source": "original",
+      "mtime": "1666631741",
+      "size": "326414",
+      "md5": "8a2eb9f3034ba9350d1eef7a40337ed2",
+      "crc32": "db358d38",
+      "sha1": "0e3b3d5be9b0bac993042a83c059f4f98235b214",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailypenn-2022-10-24T13:15:36.320627-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666631746",
+      "size": "1450",
+      "md5": "847499961de357350d8c0c795e742e80",
+      "crc32": "6599594c",
+      "sha1": "dffd56f27aed29cc4f8e897ef1846e123464cdeb",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-24T13:15:36.320627-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666631747",
+      "size": "238",
+      "md5": "0ea2fe70e35bbcf83421fd6b656d93e2",
+      "crc32": "b87e3e39",
+      "sha1": "c268c1e0edf8204ad3594aea8bd25728b774df27",
+      "format": "JSON"
+    },
+    {
+      "name": "dailypenn-2022-10-24T13:15:36.320627-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailypenn-2022-10-24T13:15:36.320627-04:00.jpg",
+      "mtime": "1666631915",
+      "size": "9302",
+      "md5": "beccd4a7b67be90b5f8dd69851b4d217",
+      "crc32": "c83bd804",
+      "sha1": "1bd46039bd3764efc17c335155e1d5c4f289d262"
+    },
+    {
       "name": "dailypenn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b263b35a5faae52ac76f7b53d892fd12931a8ce",
-      "mtime": "1666203388",
-      "size": "213953",
-      "md5": "65f7ab111b3cb9d09376dc1280f0d93b",
-      "crc32": "ea598f65",
-      "sha1": "74f71407d83f1ad010492c576d191b1921a4ac64",
+      "btih": "43c029dbcb8dcd0af7e9cae1e039d3225bf62c8d",
+      "mtime": "1666631933",
+      "size": "226836",
+      "md5": "75f467c290f2586106734fec54ea90e9",
+      "crc32": "c2ed67b7",
+      "sha1": "a4cd54ad348a59bb68154c9476a70cb425efa0e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailypenn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cfef48f2031f090aec70e83d6a611c33",
+      "md5": "f044e3271cca49c74cec5fe53b2552aa",
       "summation": "md5"
     },
     {
       "name": "dailypenn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666203300",
-      "size": "1294336",
-      "md5": "476e0f25e8e425d03f0d9778e92d2e27",
-      "crc32": "a9985a59",
-      "sha1": "f019e5210efa3439fe9b124791b033526a87a115",
+      "mtime": "1666631758",
+      "size": "1368064",
+      "md5": "943a0137ca8d34ae41da03e276198839",
+      "crc32": "44ece2d1",
+      "sha1": "5db49e24250f895bfb9d44da1c5242f07564c2f6",
       "format": "Metadata"
     },
     {
@@ -10445,9 +11076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1010,
-  "item_last_updated": 1666203388,
-  "item_size": 69829067,
+  "files_count": 1071,
+  "item_last_updated": 1666631933,
+  "item_size": 74014709,
   "metadata": {
     "identifier": "dailypenn-2022",
     "collection": [
@@ -10464,21 +11095,10 @@
     "publicdate": "2022-07-26 02:41:30",
     "addeddate": "2022-07-26 02:41:30"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445838121,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1659657587,
+  "server": "ia801507.us.archive.org",
+  "uniq": 505035881,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

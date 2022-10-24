@@ -1,5 +1,9 @@
 {
-  "created": 1666224605,
+<<<<<<< HEAD
+  "created": 1666309465,
+=======
+  "created": 1666612734,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/destinlog-2022",
@@ -3736,31 +3740,612 @@
       "sha1": "9f89dcac1d860578cce855a049d76528cdd06a06"
     },
     {
+      "name": "destinlog-2022-10-20T06:51:18.109444-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666266689",
+      "size": "21793",
+      "md5": "8c1b35e9b53b42064483c079bd89fb40",
+      "crc32": "327e2ecb",
+      "sha1": "88029128ded43c551a3001d8c2b499d1bc999281",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-20T06:51:18.109444-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666266691",
+      "size": "41473",
+      "md5": "8353b7addfb9627986a2d6a372956c92",
+      "crc32": "35a766cb",
+      "sha1": "b6387488854ce16111916117a69d832f401aa2b5",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-20T06:51:18.109444-05:00.jpg",
+      "source": "original",
+      "mtime": "1666266687",
+      "size": "278202",
+      "md5": "80e7abb35162bd77153ad8b6aeb83685",
+      "crc32": "44698daa",
+      "sha1": "6d02ba40753c6984856187158b125e7bde7eb559",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-20T06:51:18.109444-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666266692",
+      "size": "1513",
+      "md5": "c4941816a1f2ba11d091867557b75ab7",
+      "crc32": "d457589b",
+      "sha1": "1ca01bcf7a76d31e9c62714d542d1f13ac0d3fae",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-20T06:51:18.109444-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666266694",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-20T06:51:18.109444-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-20T06:51:18.109444-05:00.jpg",
+      "mtime": "1666266749",
+      "size": "9441",
+      "md5": "c98c41f79d5fe507055f1a9d149cb9d2",
+      "crc32": "a43e10b8",
+      "sha1": "3349b48d618d79cb94ffcc8f4306b7939a1ba905"
+    },
+    {
+      "name": "destinlog-2022-10-20T18:43:08.053471-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666309394",
+      "size": "22037",
+      "md5": "ec7623d1149666aaab6bd68983d891f5",
+      "crc32": "3c24e70f",
+      "sha1": "85c725cc1236daf624169a1f68445d75617842e1",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-20T18:43:08.053471-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666309396",
+      "size": "43683",
+      "md5": "a581712c0f4c480617d3b10d6b40f431",
+      "crc32": "93a12761",
+      "sha1": "9f72de7d034fbe7e05f3d5963c040431413ccdf0",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-20T18:43:08.053471-05:00.jpg",
+      "source": "original",
+      "mtime": "1666309392",
+      "size": "269640",
+      "md5": "78776b2ebce03c93cbd2c9dc3ebca668",
+      "crc32": "28a271ed",
+      "sha1": "defdcab0c28b2b43b269769fcce46016c11a7b9d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-20T18:43:08.053471-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666309398",
+      "size": "1513",
+      "md5": "72d4e5fc49a5b098ca41753d5c691552",
+      "crc32": "54688773",
+      "sha1": "2d92eb4426e75ae462145eebc30192bf63155e11",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-20T18:43:08.053471-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666309400",
+      "size": "105",
+      "md5": "5ee25912f20006c0d8e3b6189ce31c53",
+      "crc32": "72c3fb2c",
+      "sha1": "b4c0e3868ab54e48d4afcbfa020796c9628e4974",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-20T18:43:08.053471-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-20T18:43:08.053471-05:00.jpg",
+      "mtime": "1666309452",
+      "size": "9316",
+      "md5": "d9951888e1ae6ddc85ad141792f6a5a5",
+      "crc32": "fa3b6a50",
+      "sha1": "b0b1986ea82a08e8f39186f42314a7d31c4a016c"
+    },
+    {
+<<<<<<< HEAD
       "name": "destinlog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e23ee1af014c4d4f87f8fb51f7cbe282480f2e2",
-      "mtime": "1666224594",
-      "size": "77789",
-      "md5": "fad415fa70e39aaf70c51a6f4ff629d6",
-      "crc32": "6c834164",
-      "sha1": "f93f2b7cea015efc489e93e440eff4c0b0c42853",
+      "btih": "4861770e72a53379015eebf9f406f2a618499c66",
+      "mtime": "1666309458",
+      "size": "80311",
+      "md5": "12b62ec973f1b670559fbe49d8e2d607",
+      "crc32": "1c0ba065",
+      "sha1": "c6d70955b804ace42bc7f2f4cb6380d7d591813e",
+=======
+      "name": "destinlog-2022-10-21T07:16:02.280047-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666354565",
+      "size": "24144",
+      "md5": "3d4bdf5f374bc045d0e648d33bf29e38",
+      "crc32": "40a0d0f8",
+      "sha1": "3737db406733b5df7e1c49aa5501bd7bc517eab8",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-21T07:16:02.280047-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666354567",
+      "size": "32593",
+      "md5": "627a97f86616e2b52611acd6c3868902",
+      "crc32": "394a6561",
+      "sha1": "63f314182169298e3f509a5124d28953071b8364",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-21T07:16:02.280047-05:00.jpg",
+      "source": "original",
+      "mtime": "1666354564",
+      "size": "269536",
+      "md5": "929d0fa3567d1d6ec4218efc0606b498",
+      "crc32": "0ed99923",
+      "sha1": "ca566f831a5efd24e7cd2e6cb722794803ce3734",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-21T07:16:02.280047-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666354569",
+      "size": "1513",
+      "md5": "cf023cd0d3536a6c24abfed442558dcb",
+      "crc32": "fc478684",
+      "sha1": "9820fdbc3e7868a505b44d29c63a741334f0fbca",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-21T07:16:02.280047-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666354570",
+      "size": "235077",
+      "md5": "8b112cf228609ab6930e9a5f2de73a31",
+      "crc32": "fea7cdc0",
+      "sha1": "a4f2e571be549d55562ed0b59c1654183de3d645",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-21T07:16:02.280047-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-21T07:16:02.280047-05:00.jpg",
+      "mtime": "1666354619",
+      "size": "9329",
+      "md5": "9434148bec39bf7a51ee941ce7ef7190",
+      "crc32": "ffdd45da",
+      "sha1": "4160812fd8bd08ab6e53a1fef556c8d72ce369ed"
+    },
+    {
+      "name": "destinlog-2022-10-21T18:45:10.430089-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666395914",
+      "size": "23790",
+      "md5": "1fe06361d49f930242b2b6236cfe8442",
+      "crc32": "7e8db01e",
+      "sha1": "be0bff5f5b77b9e90ec8db46e084db01a1b01ae6",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-21T18:45:10.430089-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666395916",
+      "size": "40207",
+      "md5": "f64037a472f7b5a6043047a89b56e305",
+      "crc32": "ce4b2e7f",
+      "sha1": "190f5369d969d85691a41d6fd1254e67afd18d84",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-21T18:45:10.430089-05:00.jpg",
+      "source": "original",
+      "mtime": "1666395913",
+      "size": "244900",
+      "md5": "20eaf570b87a67075f344e44810fd488",
+      "crc32": "a49f588e",
+      "sha1": "bb47d8c82db6f878304875d1c0604da1b1be35ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-21T18:45:10.430089-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666395918",
+      "size": "1513",
+      "md5": "c8420638b0657f053b4c6ddc4e4fcfbd",
+      "crc32": "0ff8de29",
+      "sha1": "c023d1eebf2f4ff9f1757975bfa5796ea96ee043",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-21T18:45:10.430089-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666395919",
+      "size": "79059",
+      "md5": "7b4a334cc29e03ed7d01d6ed1cb5bff5",
+      "crc32": "ea6991bc",
+      "sha1": "721a37e0fa5bf410ada21200eb22ad331581c712",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-21T18:45:10.430089-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-21T18:45:10.430089-05:00.jpg",
+      "mtime": "1666396441",
+      "size": "9392",
+      "md5": "9058f245087c485a55addfbd57b66389",
+      "crc32": "08c953ed",
+      "sha1": "ab1353742dc956aae5cf49ae38dc6543003d3e52"
+    },
+    {
+      "name": "destinlog-2022-10-22T06:39:49.824147-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666438794",
+      "size": "14359",
+      "md5": "6241e53b374978183f4b189dc38ffa57",
+      "crc32": "cfcc5f0b",
+      "sha1": "680b69dfa869b2dcd60bd191f01c87c07a7fa855",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T06:39:49.824147-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666438796",
+      "size": "42255",
+      "md5": "725bb8200bb9aa91bf2ab3428cf1bdea",
+      "crc32": "4316b0f9",
+      "sha1": "a928cda1a80862104737d7d342af1a7c74ceb7e5",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T06:39:49.824147-05:00.jpg",
+      "source": "original",
+      "mtime": "1666438793",
+      "size": "245886",
+      "md5": "99931764db14804c804ae4a53cf9b93a",
+      "crc32": "e7dd9d8c",
+      "sha1": "ef45ec929426b31d42ca76d371f078ed6a7c818f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-22T06:39:49.824147-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666438798",
+      "size": "1513",
+      "md5": "de925c8c3582c21c665504a84483dd7e",
+      "crc32": "50dcedfd",
+      "sha1": "0bb92b9bb8f4dd3f31a4140460688ccba2bda335",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T06:39:49.824147-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666438799",
+      "size": "105",
+      "md5": "5ee25912f20006c0d8e3b6189ce31c53",
+      "crc32": "72c3fb2c",
+      "sha1": "b4c0e3868ab54e48d4afcbfa020796c9628e4974",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T06:39:49.824147-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-22T06:39:49.824147-05:00.jpg",
+      "mtime": "1666438874",
+      "size": "9413",
+      "md5": "ca07987d9aee75b85f91eed6437b91af",
+      "crc32": "07c7d3a6",
+      "sha1": "062322ad5e0b8e57bcdb5ce316cf76be493c0098"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666482415",
+      "size": "22442",
+      "md5": "724c1438e3c3c28a836e94a4aa84d58a",
+      "crc32": "9219c329",
+      "sha1": "7389b72d735c740443540bc142e9b135df2e46f0",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666482417",
+      "size": "40632",
+      "md5": "054e2285f54f63f4dc40aec10cdb34a6",
+      "crc32": "1ab21e65",
+      "sha1": "6f6a72f86b7217a2311ec43ce3b3656009bbccd0",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.jpg",
+      "source": "original",
+      "mtime": "1666482414",
+      "size": "240780",
+      "md5": "d28316c11eff12fec45fbbb613a4ff10",
+      "crc32": "284070ce",
+      "sha1": "c43fedd2d013b7b0d6cfe926d254e46cd10045cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666482419",
+      "size": "1513",
+      "md5": "d863ea2cabb37d3688cf328ed29b8ed7",
+      "crc32": "275619bc",
+      "sha1": "0d4336b53526592aa97d7a7fc17516195de9c320",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666482420",
+      "size": "90676",
+      "md5": "8216bf25760c526cd83619bdc5a318ee",
+      "crc32": "6288109c",
+      "sha1": "954d474752388560109acc56e0db7a5b44d05de6",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-22T18:46:47.727388-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-22T18:46:47.727388-05:00.jpg",
+      "mtime": "1666482476",
+      "size": "9302",
+      "md5": "fdf0b8103c7301010f7994f6aab3c4ae",
+      "crc32": "21e0c5a0",
+      "sha1": "3e1ef5f654cddce4ba1cc225a1827e17165887b1"
+    },
+    {
+      "name": "destinlog-2022-10-23T06:59:44.984414-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666526388",
+      "size": "10584",
+      "md5": "2a7c9cb64cde80d224d1e9df8d5187aa",
+      "crc32": "0ad237e2",
+      "sha1": "fa8e048258851af55923cdfec286a7b81fc25503",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-23T06:59:44.984414-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666526390",
+      "size": "39785",
+      "md5": "cf01417eca0f516eac1911c8893092f4",
+      "crc32": "34414c51",
+      "sha1": "8e9eb236bba1f63986b8ca12a06042ab98749401",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-23T06:59:44.984414-05:00.jpg",
+      "source": "original",
+      "mtime": "1666526387",
+      "size": "244211",
+      "md5": "feb4c535c0425885f8a025762af17e77",
+      "crc32": "dc3c9bcc",
+      "sha1": "6198ac7caccdf2efa13e99b48a0dbb0a546fec68",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-23T06:59:44.984414-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666526391",
+      "size": "1512",
+      "md5": "6ba220005b316edb021327c2985fc007",
+      "crc32": "d59579dc",
+      "sha1": "d2c049f4cd18d5d250987bdcbb1ea01ad985d48c",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-23T06:59:44.984414-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666526392",
+      "size": "89261",
+      "md5": "b7333dca2a06504dc400b24ca465e4f5",
+      "crc32": "2881ec5f",
+      "sha1": "570ce127f5e074de70f1f7d665a2ec90d78c03f9",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-23T06:59:44.984414-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-23T06:59:44.984414-05:00.jpg",
+      "mtime": "1666526441",
+      "size": "9389",
+      "md5": "47d6c541b6a90f2f6ea791e494a05025",
+      "crc32": "2e4706a1",
+      "sha1": "df2e07e1b09c034c527223208ca44cdd4219dfcb"
+    },
+    {
+      "name": "destinlog-2022-10-23T18:33:08.052252-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666567993",
+      "size": "24212",
+      "md5": "9969af3471db7e8f55aebd6cf432a5f4",
+      "crc32": "66dc4a8c",
+      "sha1": "3467de08ff34cff013a08b35f84b4ba78e181d81",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-23T18:33:08.052252-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666567997",
+      "size": "36698",
+      "md5": "6b5a9dbc37439fe93419dc57fe02e2b1",
+      "crc32": "bd831289",
+      "sha1": "d32f13ecda56a88474d5ed9c46c5da9857fe3894",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-23T18:33:08.052252-05:00.jpg",
+      "source": "original",
+      "mtime": "1666567992",
+      "size": "242165",
+      "md5": "0747d17bc4ea6da5bb0881275a878861",
+      "crc32": "4dcf8b6d",
+      "sha1": "7434a0a29d8208212ed4e165b8d2fef56183291b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-23T18:33:08.052252-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666567999",
+      "size": "1512",
+      "md5": "b2ef61234fe77d1fa990db99e43f892a",
+      "crc32": "9bc5fa76",
+      "sha1": "eeb195282d894198d41d1fe3136a6af4dad518c7",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-23T18:33:08.052252-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666568001",
+      "size": "112096",
+      "md5": "8f62a8667f928f89b354c4e5e8ecc7b3",
+      "crc32": "c8f1267e",
+      "sha1": "521f4cbe34870c99f7eaff8760d6fd876856cc46",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-23T18:33:08.052252-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-23T18:33:08.052252-05:00.jpg",
+      "mtime": "1666568055",
+      "size": "9330",
+      "md5": "9b21946564d4fae05b8fb55f9f0def77",
+      "crc32": "e9231f26",
+      "sha1": "fe3508d2770ff50977a21164475310dd90a22e45"
+    },
+    {
+      "name": "destinlog-2022-10-24T06:57:41.938138-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666612669",
+      "size": "20432",
+      "md5": "d791c07fbc998e9a7ecd17870835038b",
+      "crc32": "14d43d4b",
+      "sha1": "133c7871e5f9acb2d51581aba55c0c2ca1920313",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-24T06:57:41.938138-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666612670",
+      "size": "34379",
+      "md5": "c5d3796d0fa09715aa9da7e02615317b",
+      "crc32": "1c9189ad",
+      "sha1": "91f60586c6dc2e3cb6247d65a11d61223f192095",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-24T06:57:41.938138-05:00.jpg",
+      "source": "original",
+      "mtime": "1666612667",
+      "size": "239894",
+      "md5": "1fc9e337529a58231d6aa073a04c0e70",
+      "crc32": "55fceef7",
+      "sha1": "6e0863b5ae45a7baa6755418d8241a753768d68a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-24T06:57:41.938138-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666612671",
+      "size": "1512",
+      "md5": "009911b0355de533461be34683a3fbca",
+      "crc32": "dd695dc4",
+      "sha1": "ba0e76d71e563b7bb560a85a44b0d4c3e10214f9",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-24T06:57:41.938138-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666612673",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-24T06:57:41.938138-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-24T06:57:41.938138-05:00.jpg",
+      "mtime": "1666612723",
+      "size": "9296",
+      "md5": "30d1509ba43005ee600042b78cc80a92",
+      "crc32": "e9218a00",
+      "sha1": "d5bd08445a717172d981b49ce5a5734c86af3b9c"
+    },
+    {
+      "name": "destinlog-2022_archive.torrent",
+      "source": "metadata",
+      "btih": "23532001eeac7b7a59596f4cf184ee12cc17ae3e",
+      "mtime": "1666612727",
+      "size": "89180",
+      "md5": "d36a3147831a1787cf5cfb549ca6f84c",
+      "crc32": "dcbcf2bc",
+      "sha1": "524c1ce3eb7a5c69d4c05571fa1bbb54b9d2c0ef",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Archive BitTorrent"
     },
     {
       "name": "destinlog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "182fa9db2b73a9fc28da5000f7b7cf63",
+<<<<<<< HEAD
+      "md5": "b2c4ce9097affe8736a1447507fcb1a1",
+=======
+      "md5": "de914598bb3cd9fccc2e0634bb84e231",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "summation": "md5"
     },
     {
       "name": "destinlog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666224538",
-      "size": "475136",
-      "md5": "d4a75ee11d882b9dcac52e22bbdad34e",
-      "crc32": "afe023ca",
-      "sha1": "cf8849a336ef35ce8856395834123ebf1083bee4",
+<<<<<<< HEAD
+      "mtime": "1666309403",
+      "size": "495616",
+      "md5": "5a9805b88bc40f1b2a717fcbc9fde3e3",
+      "crc32": "f5e6f815",
+      "sha1": "2de2ed90b509745fd18363eb414d55cf5edafa52",
+=======
+      "mtime": "1666612677",
+      "size": "544768",
+      "md5": "d4c94a3d8423decc4cf27ad763420e2a",
+      "crc32": "e72d62a0",
+      "sha1": "744f189f318913d7f28a0b519489e22f22edf8fd",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Metadata"
     },
     {
@@ -3774,9 +4359,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 365,
-  "item_last_updated": 1666224594,
-  "item_size": 25788927,
+<<<<<<< HEAD
+  "files_count": 377,
+  "item_last_updated": 1666309458,
+  "item_size": 26510847,
+=======
+  "files_count": 419,
+  "item_last_updated": 1666612727,
+  "item_size": 29385267,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "metadata": {
     "identifier": "destinlog-2022",
     "collection": [
@@ -3794,7 +4385,11 @@
     "addeddate": "2022-09-20 22:15:36"
   },
   "server": "ia601406.us.archive.org",
-  "uniq": 1057669938,
+<<<<<<< HEAD
+  "uniq": 323149093,
+=======
+  "uniq": 482572897,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "workable_servers": [
     "ia601406.us.archive.org",
     "ia801406.us.archive.org"

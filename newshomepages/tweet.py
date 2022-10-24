@@ -41,7 +41,7 @@ def update_list(number):
     print(f":newspaper: {len(source_list)} sources in the archive")
 
     # Accounts that have been banned
-    blacklist = ["gatewaypundit", "infowars", "enewsofnepal", "gcm_nf", "eyethunewskzn", "theleftbench", "udn", "johncombest", "nepalkhabar24"]
+    blacklist = ["gatewaypundit", "infowars", "enewsofnepal", "gcm_nf", "eyethunewskzn", "theleftbench", "udn", "johncombest", "nepalkhabar24", "cbs46"]
 
     # Add what's missing
     missing_list = list(set(source_list) - set(screenname_list) - set(blacklist))[

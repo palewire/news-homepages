@@ -1,49 +1,8 @@
 {
-  "created": 1666209748,
+  "created": 1666631956,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/24/items/espn-2022",
-  "espn-2022": [
-    {
-      "url": "https://www.espn.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_46_44.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_46_44.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.83,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.espn.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_47_56.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_47_56.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.83,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.7
-      }
-    },
-    {
-      "url": "https://www.espn.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_47_22.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_espn_com-_-2022_10_19_17_47_22.report.json",
-      "summary": {
-        "performance": 0.15,
-        "accessibility": 0.82,
-        "best-practices": 0.75,
-        "seo": 0.84,
-        "pwa": 0.7
-      }
-    }
-  ],
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -12244,31 +12203,662 @@
       "format": "JSON"
     },
     {
+      "name": "espn-2022-10-19T14:16:46.876976-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-19T14:16:46.876976-04:00.jpg",
+      "mtime": "1666211793",
+      "size": "11041",
+      "md5": "757b0613ef76020c9e039616050a82a5",
+      "crc32": "7e5b761d",
+      "sha1": "5a7dd24773c21e178ecbde261920a98893f4d78c"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666253053",
+      "size": "52172",
+      "md5": "66930337cc4cd95d4ece49a5f47a94da",
+      "crc32": "1edfd206",
+      "sha1": "252e5a0a86eecafa473bad209b40883380df3b47",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666253055",
+      "size": "133508",
+      "md5": "0a09ebc9b9dc5be4da8945ddf71bf0cd",
+      "crc32": "2e2f22d1",
+      "sha1": "183bf2449b9e86b680cb0a013bce6cb9b0886770",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.jpg",
+      "source": "original",
+      "mtime": "1666253051",
+      "size": "353640",
+      "md5": "550b5f410071507c8623f65e9e306653",
+      "crc32": "7c2a6f89",
+      "sha1": "4a7d3fd4e4a49bc72b1da06dd41c68c00c8c2525",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666253056",
+      "size": "1441",
+      "md5": "a11f8c18d45afd2cb3ee1cbedc710af4",
+      "crc32": "3e94a667",
+      "sha1": "496fb09221227dc164f613c8e7f673a4ec7184b3",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666253058",
+      "size": "64441",
+      "md5": "f926a0558ab2721701bc4f2b0f232805",
+      "crc32": "4122cb1c",
+      "sha1": "99465e9e8aee6c2906a2746d67ff0283c19389f8",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T04:04:06.335080-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-20T04:04:06.335080-04:00.jpg",
+      "mtime": "1666253145",
+      "size": "11604",
+      "md5": "20d436cf39d344c862be73a29229a1a9",
+      "crc32": "443a84cb",
+      "sha1": "0f5a72154bc73e018abf972a2c2854f9bdd33604"
+    },
+    {
+      "name": "espn-2022-10-20T14:58:13.180196-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666292302",
+      "size": "43713",
+      "md5": "5e8f8f75d6a0094ad7ca7a44985160a1",
+      "crc32": "5b685d00",
+      "sha1": "9ecb6016c11d3d76fab51ae2a85f7a36d5175c72",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T14:58:13.180196-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666292304",
+      "size": "138279",
+      "md5": "ecdf946a75afb2067f148dd883b5a0aa",
+      "crc32": "acc9bc50",
+      "sha1": "4ba4e01bccba5b1dbf0faf532478555a50cddd4b",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T14:58:13.180196-04:00.jpg",
+      "source": "original",
+      "mtime": "1666292300",
+      "size": "353770",
+      "md5": "143598dd18c8fe8b880b2bd313d911ed",
+      "crc32": "0da1805b",
+      "sha1": "0c9d0951602aec5093ed773743789fbbbfa9c917",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-20T14:58:13.180196-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666292305",
+      "size": "1441",
+      "md5": "7e78f8a7b183265fc50879c24d261222",
+      "crc32": "1c849f29",
+      "sha1": "aacc6b9c0a4563c238d9e76188d1afa8a447d865",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T14:58:13.180196-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666292307",
+      "size": "58645",
+      "md5": "e2f92718028db9a7796369129337616d",
+      "crc32": "73ec0033",
+      "sha1": "e98d5bdc1ea083037c1c846f3f1dd15654208e8a",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-20T14:58:13.180196-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-20T14:58:13.180196-04:00.jpg",
+      "mtime": "1666292414",
+      "size": "11158",
+      "md5": "d5d91d4c5aa9010b1e7b93d01a86c1f2",
+      "crc32": "73bdb826",
+      "sha1": "0049b37ae8b34740d6b90b3c6adcc12d43b12740"
+    },
+    {
+      "name": "espn-2022-10-21T02:14:04.194643-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666332855",
+      "size": "47318",
+      "md5": "5fb693ed022ccf050246982c7e25d6b2",
+      "crc32": "34c26973",
+      "sha1": "bd132defecb8a647f7da04683835f6a21470131d",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-21T02:14:04.194643-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666332857",
+      "size": "125259",
+      "md5": "862a8827e4b13eed0d077e06bbb5ef0e",
+      "crc32": "4991e680",
+      "sha1": "a4ad50c246fe79ed30b363a7365feea562cbc946",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-21T02:14:04.194643-04:00.jpg",
+      "source": "original",
+      "mtime": "1666332853",
+      "size": "342683",
+      "md5": "8e09b7a2a5ee58532426143d909d75df",
+      "crc32": "ce8ca230",
+      "sha1": "3404b00dfe5bd59ca847e33cc7717069220e06b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-21T02:14:04.194643-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666332861",
+      "size": "1441",
+      "md5": "e96bc9a16efb566bc5d375210ed48c69",
+      "crc32": "58f6ddd0",
+      "sha1": "8edb17127566e4ab4db3f553627a1be20c352250",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-21T02:14:04.194643-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666332863",
+      "size": "97",
+      "md5": "dfa8e4d2328fe9e3cbed3a1c53278aa0",
+      "crc32": "78392bbb",
+      "sha1": "c71ba78e43b8486b742e1fcf69d3d8e2cc6c73f9",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-21T02:14:04.194643-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-21T02:14:04.194643-04:00.jpg",
+      "mtime": "1666332941",
+      "size": "10946",
+      "md5": "f6f0f3b5338680fcee0a084fb58edbf5",
+      "crc32": "c0c287c8",
+      "sha1": "a93488a6ab9b3e6ecaa5961b7432940d30fe2323"
+    },
+    {
+      "name": "espn-2022-10-21T16:09:46.512043-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666382996",
+      "size": "43146",
+      "md5": "fbd27bbc9663e2e7de52e5614325ec28",
+      "crc32": "138507e5",
+      "sha1": "a71a6ab0c15e22f0b5518085e35a3e4dffa05264",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-21T16:09:46.512043-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666382998",
+      "size": "130184",
+      "md5": "131da536350ba19cf776c635939fed55",
+      "crc32": "f94e10ab",
+      "sha1": "5939f5960c911bf823a9d96df5583a4e00ab2243",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-21T16:09:46.512043-04:00.jpg",
+      "source": "original",
+      "mtime": "1666382995",
+      "size": "341170",
+      "md5": "443ac348b99b05290a53e6971b92b513",
+      "crc32": "8b5f573c",
+      "sha1": "16b811af41d526ac8902fd2304f2f9abba50ca0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-21T16:09:46.512043-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666383000",
+      "size": "1441",
+      "md5": "2df5ad1c515fd64b4afc33cbbef0a948",
+      "crc32": "f40a0f38",
+      "sha1": "76b51bca199f5c6cc600be94ef78ea84d549abdc",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-21T16:09:46.512043-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666383001",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-21T16:09:46.512043-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-21T16:09:46.512043-04:00.jpg",
+      "mtime": "1666383073",
+      "size": "11034",
+      "md5": "5f96d7adfcd128af6aad7c5c9d6f2c0d",
+      "crc32": "302b3aa6",
+      "sha1": "24a7c5b8b2eacf1f1db11cfd2a516a71f1888210"
+    },
+    {
+      "name": "espn-2022-10-22T01:53:53.543853-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666418045",
+      "size": "49690",
+      "md5": "c3eac863c6ec50fa719913d2d9891898",
+      "crc32": "83233b75",
+      "sha1": "41cbaaa82de55cfaf2bf4cc5a75a48c24fa8925f",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-22T01:53:53.543853-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666418047",
+      "size": "134823",
+      "md5": "2ff322a65ae0d6351959969f384d25a3",
+      "crc32": "d75569db",
+      "sha1": "ca54c7a76d732adb011952ad8134efd1f54e126b",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-22T01:53:53.543853-04:00.jpg",
+      "source": "original",
+      "mtime": "1666418043",
+      "size": "338405",
+      "md5": "815224a2c39e255b82a7ceef33de379c",
+      "crc32": "0c4c73aa",
+      "sha1": "04bb4aa06e0a96c0033ec3e25bc056cff3e8f0c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-22T01:53:53.543853-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666418049",
+      "size": "1441",
+      "md5": "a7f3ed56fc25b65d0268bab761c4f740",
+      "crc32": "56eca983",
+      "sha1": "9df83b774f85bde79113c233002a3c375e548b03",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-22T01:53:53.543853-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666418050",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-22T01:53:53.543853-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-22T01:53:53.543853-04:00.jpg",
+      "mtime": "1666418114",
+      "size": "11161",
+      "md5": "db2b98704b8031ec69f552d3bf5d1052",
+      "crc32": "3e9398da",
+      "sha1": "0f66a0a867285b6530610bcb63f16da72cc88cbf"
+    },
+    {
+      "name": "espn-2022-10-22T13:21:04.380791-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666459271",
+      "size": "53770",
+      "md5": "fc599c45ef1d92ef6703506b5d44dd96",
+      "crc32": "9ad1e458",
+      "sha1": "b43c0abc633118a47b2ed1040156531872c58225",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-22T13:21:04.380791-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666459273",
+      "size": "169523",
+      "md5": "cb0c0ac738b22f384da45743b83ca3d2",
+      "crc32": "53435203",
+      "sha1": "1c90e50d4986630f9171fbc06ed8d30a983a0913",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-22T13:21:04.380791-04:00.jpg",
+      "source": "original",
+      "mtime": "1666459269",
+      "size": "338117",
+      "md5": "e741f3d59e306e6c98a8d15fd6480b22",
+      "crc32": "3898591f",
+      "sha1": "c946649ded54f28643ea3a19b6fe31a2b534f700",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-22T13:21:04.380791-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666459275",
+      "size": "1441",
+      "md5": "2f0c10d8cd31bddaed03f344c527f4f4",
+      "crc32": "8e33d285",
+      "sha1": "b9e91fd861fb97a769e50173cbd9b4eba48cb99f",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-22T13:21:04.380791-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666459276",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-22T13:21:04.380791-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-22T13:21:04.380791-04:00.jpg",
+      "mtime": "1666459348",
+      "size": "10873",
+      "md5": "8f99bbae973686a2279985d0116038fb",
+      "crc32": "04b358f4",
+      "sha1": "9f0765aa5ec6bb772991dd65f81122901149314e"
+    },
+    {
+      "name": "espn-2022-10-23T02:31:41.098861-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666506708",
+      "size": "55994",
+      "md5": "e1ae57beee4c5d7f83af0c8ab28cbbcb",
+      "crc32": "e811bdca",
+      "sha1": "a1c2b407187c3a7361f07a43a7d218fe67c80307",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-23T02:31:41.098861-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666506709",
+      "size": "150672",
+      "md5": "5971d76d3a90cf2c391794cd902d425b",
+      "crc32": "9d68e367",
+      "sha1": "1cbacfb8ef0c660b1dedfc5c4b8ad2ae94b3295a",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-23T02:31:41.098861-04:00.jpg",
+      "source": "original",
+      "mtime": "1666506706",
+      "size": "372881",
+      "md5": "3b4073c88176856f8f7357e70645ba39",
+      "crc32": "73bc3192",
+      "sha1": "87aca7580ff229bc944b7a54663ec77c1418196c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-23T02:31:41.098861-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666506711",
+      "size": "1441",
+      "md5": "a5a50f99f0dce90afff8fda59b9ef165",
+      "crc32": "15580636",
+      "sha1": "5cac902eebef8c63dae94a170269f0f0ffdc2593",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-23T02:31:41.098861-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666506712",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-23T02:31:41.098861-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-23T02:31:41.098861-04:00.jpg",
+      "mtime": "1666506797",
+      "size": "11306",
+      "md5": "221ce31448d9d9c5f1e292bde77c22bd",
+      "crc32": "2ba1cdae",
+      "sha1": "e80bbb4ad05022dfa66f43a847f913689478bc04"
+    },
+    {
+      "name": "espn-2022-10-23T13:53:14.431654-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666547605",
+      "size": "49499",
+      "md5": "b7dd97b2dae0edf7fe416e952f453d92",
+      "crc32": "8762b4a5",
+      "sha1": "63294a6130a40a657c054b8dbc8d6ba0dc295827",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-23T13:53:14.431654-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666547607",
+      "size": "156121",
+      "md5": "dbd58c36d126dfa29aaa0603a53e9703",
+      "crc32": "b37f9ddb",
+      "sha1": "3f0b25ad003aa20ebd303465364c5b714150e8ce",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-23T13:53:14.431654-04:00.jpg",
+      "source": "original",
+      "mtime": "1666547603",
+      "size": "321506",
+      "md5": "8b8a141af6b3e8fd2772bcb269044dbb",
+      "crc32": "6fca4fd3",
+      "sha1": "ba8e9209dfee41eac4b6d7483af9272079e24ede",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-23T13:53:14.431654-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666547609",
+      "size": "1441",
+      "md5": "1bdf48fb2e48f767e762d8d45b30a952",
+      "crc32": "7d91048e",
+      "sha1": "2be630fb8f4ba46976f58e955fae8eb36b069423",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-23T13:53:14.431654-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666547611",
+      "size": "227",
+      "md5": "0c993219d4d2f0af23c46afe198e26f3",
+      "crc32": "71b74ad9",
+      "sha1": "d4fd36398f954b5b6949840af0111e321a295a8b",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-23T13:53:14.431654-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-23T13:53:14.431654-04:00.jpg",
+      "mtime": "1666547708",
+      "size": "10530",
+      "md5": "75331e6da91142df4dc62f43a95ef1ab",
+      "crc32": "92d8dffe",
+      "sha1": "536070ef63d67b362bb2b737990377f4189066a4"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590347",
+      "size": "57466",
+      "md5": "cd3d81cbbe2b2a0bfdc03c4ffcb236b4",
+      "crc32": "d5568f02",
+      "sha1": "aa7c714d3d18840cbf312c76352332246b3b9c6d",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590349",
+      "size": "147922",
+      "md5": "f1b7b6380c3afa163fc95a5530be10ee",
+      "crc32": "4bd2f9ba",
+      "sha1": "834bd13d917aa8fa5b61e182b8f026830e964631",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.jpg",
+      "source": "original",
+      "mtime": "1666590344",
+      "size": "350223",
+      "md5": "8171cae84dfac09fae85bf442e312431",
+      "crc32": "4b2cdae8",
+      "sha1": "988a3479caa2a02326cd7578122a21feab009881",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590350",
+      "size": "1441",
+      "md5": "2195dd7fef8cd505119ea01e0e4d13be",
+      "crc32": "5d2749fd",
+      "sha1": "e941a80152f158e18376b3beba512be3832ef357",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666590352",
+      "size": "64726",
+      "md5": "6a5a76fd145db3a08b19b7a3f7ae7c54",
+      "crc32": "a26595fe",
+      "sha1": "315b78dfde86c7e806755b08160398908d72a6b4",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T01:45:21.244836-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-24T01:45:21.244836-04:00.jpg",
+      "mtime": "1666590417",
+      "size": "11182",
+      "md5": "e5ad0360871ecfa15286feebca942302",
+      "crc32": "b99bcbd3",
+      "sha1": "9aa9129ff1f7b2b87def3c9c8cdca608df55425e"
+    },
+    {
+      "name": "espn-2022-10-24T13:16:59.965106-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666631850",
+      "size": "38903",
+      "md5": "6cc407db233a64db8a8cec6d0d1eae3d",
+      "crc32": "663e454d",
+      "sha1": "ba5ffac89ac73bdfa7388426e1ad517966f7f9ef",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T13:16:59.965106-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666631851",
+      "size": "115134",
+      "md5": "1e11d758c8164bc85de42ae88d5f1c22",
+      "crc32": "6f4f215d",
+      "sha1": "ca1dc433597254953ce89bf68dd649fb004d8ea3",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T13:16:59.965106-04:00.jpg",
+      "source": "original",
+      "mtime": "1666631847",
+      "size": "348408",
+      "md5": "f00af3921f06bb4caeba71d0985dc74f",
+      "crc32": "7191b2ff",
+      "sha1": "e5167ceacaef58fe3020fcee553f991b267f60b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-10-24T13:16:59.965106-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666631853",
+      "size": "1441",
+      "md5": "11159d97672467bf2a14cc56e35534bc",
+      "crc32": "d15efb11",
+      "sha1": "7df6eb50f22494ac74fbbc29a40ada8a8f59fb88",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T13:16:59.965106-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666631855",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-10-24T13:16:59.965106-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-24T13:16:59.965106-04:00.jpg",
+      "mtime": "1666631926",
+      "size": "11166",
+      "md5": "14aef5094c966d437c3a9b424b6a7dd6",
+      "crc32": "f060ef57",
+      "sha1": "bf76f50c2a61c2a26e633934768cb2d5b91e093e"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78c93feb644ce97e4eeb4da1de7a4c797ca7417c",
-      "mtime": "1666203758",
-      "size": "246044",
-      "md5": "23b5a48854c8e38b5cea1b1c7aa41723",
-      "crc32": "5e5170f8",
-      "sha1": "0dd86b5c89a22876b013ddd713ad8510197637e8",
+      "btih": "43a57a930486157fa6c4f2b201d1bddacfda98f9",
+      "mtime": "1666631940",
+      "size": "258700",
+      "md5": "1570f9ebfd359ccab89cff8d46a42bed",
+      "crc32": "50c05f0d",
+      "sha1": "68875f1b74a7548af108bdac666ce1407243d41c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "819a810f6f3dff3e7c5bf291f6b62908",
+      "md5": "4d151648d93b2eee1caa728a90af4164",
       "summation": "md5"
     },
     {
       "name": "espn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666203705",
-      "size": "1474560",
-      "md5": "464e6dd6b1972126ee914e377577bea4",
-      "crc32": "e4891b04",
-      "sha1": "d25d46d74c8387f47b0bfa008b6dad783ce0819e",
+      "mtime": "1666631861",
+      "size": "1548288",
+      "md5": "67c07065c60a9dfdaf32143cd8d02415",
+      "crc32": "6920c28c",
+      "sha1": "cb536b54f8a5eb46c59c7f1a8d3a85f43472137e",
       "format": "Metadata"
     },
     {
@@ -12282,9 +12872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1181,
-  "item_last_updated": 1666203758,
-  "item_size": 119511477,
+  "files_count": 1242,
+  "item_last_updated": 1666631940,
+  "item_size": 125277317,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -12301,21 +12891,10 @@
     "publicdate": "2022-07-04 20:48:15",
     "addeddate": "2022-07-04 20:48:15"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445841165,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 559203838,
+  "uniq": 428377448,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666203778,
+  "created": 1666631953,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/7/items/fremontnm-2022",
@@ -3663,31 +3663,662 @@
       "format": "JSON"
     },
     {
+      "name": "fremontnm-2022-10-19T14:18:40.234119-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-19T14:18:40.234119-04:00.jpg",
+      "mtime": "1666211934",
+      "size": "8894",
+      "md5": "61e9bd503945885557547ac75c6a7b98",
+      "crc32": "3fdb4e51",
+      "sha1": "a570760b93eaa2e946d52a13a1ab268dc1e6e33c"
+    },
+    {
+      "name": "fremontnm-2022-10-20T04:03:54.291799-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666253037",
+      "size": "20402",
+      "md5": "77b358a5c0b3498dacf55672dcbc504e",
+      "crc32": "7f5a1ce9",
+      "sha1": "c4eda4c561b9b36c7202bdbe3d8ceb77205f1e06",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-20T04:03:54.291799-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666253038",
+      "size": "16614",
+      "md5": "d1b7abd9e578189b50c34c0a8f2bf556",
+      "crc32": "f68541d5",
+      "sha1": "bfed96e64e2f0cc403ac3faa97a43c242fc6f7f6",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-20T04:03:54.291799-04:00.jpg",
+      "source": "original",
+      "mtime": "1666253035",
+      "size": "233484",
+      "md5": "39106ac08de148837e70ff6e86ad5f90",
+      "crc32": "ff51a34f",
+      "sha1": "0beaee9b4ab9233f4eea9087617dd5d11e497c55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-20T04:03:54.291799-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666253040",
+      "size": "1558",
+      "md5": "5fbbdf9d9956f60bc324c20ffebe33af",
+      "crc32": "39483abf",
+      "sha1": "310fdb5d3a6497ef2a471808ac49edb23c340770",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-20T04:03:54.291799-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666253041",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-20T04:03:54.291799-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-20T04:03:54.291799-04:00.jpg",
+      "mtime": "1666253100",
+      "size": "8842",
+      "md5": "6dc7333b442750403569326dac3781d6",
+      "crc32": "d8d8eba0",
+      "sha1": "115e64c831caccc42c05b0f0ebfdcce69ee5cda4"
+    },
+    {
+      "name": "fremontnm-2022-10-20T15:01:10.750275-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666292476",
+      "size": "18988",
+      "md5": "9c42ec8016c4aba2e3d2fbbd40d4e9db",
+      "crc32": "686f895b",
+      "sha1": "1908dfcffefceab2df4b48097461a39d7e0dd5e3",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-20T15:01:10.750275-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666292478",
+      "size": "31836",
+      "md5": "707dfeeb85d218c80b962203956b851d",
+      "crc32": "b0e902ae",
+      "sha1": "182b2ca81cbf56bcdd4a68a03184e820f32ba9e5",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-20T15:01:10.750275-04:00.jpg",
+      "source": "original",
+      "mtime": "1666292474",
+      "size": "244206",
+      "md5": "0b4c1484c6533489eb7804fa1fef3864",
+      "crc32": "2306cd71",
+      "sha1": "636f216dbbd8e6d7575e89825914b2b53fef2f77",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-20T15:01:10.750275-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666292480",
+      "size": "1558",
+      "md5": "f28235560fca645a750434affdf596c3",
+      "crc32": "5164abc7",
+      "sha1": "6738d6f6743e90a5d14e468be68f17e6b20a0556",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-20T15:01:10.750275-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666292482",
+      "size": "89614",
+      "md5": "14244a3484278f8fe176b76ad3ee39e0",
+      "crc32": "d88cd30b",
+      "sha1": "ab5934cec98ab82be53b5ada63972c6ccf274a2c",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-20T15:01:10.750275-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-20T15:01:10.750275-04:00.jpg",
+      "mtime": "1666292560",
+      "size": "8681",
+      "md5": "f2f73d25b691a3bf028e597d77e46f70",
+      "crc32": "1301ff89",
+      "sha1": "f018f7f5310503d553b69e66dfdf80ee6ae479a6"
+    },
+    {
+      "name": "fremontnm-2022-10-21T02:14:12.524782-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666332855",
+      "size": "18678",
+      "md5": "bb2a323e4d795e4a8a0d584673622c9d",
+      "crc32": "47152782",
+      "sha1": "cd9d239a693167347e8308cf202da704542c3865",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-21T02:14:12.524782-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666332857",
+      "size": "28383",
+      "md5": "72d7d358d7dd9d03c59976826406c501",
+      "crc32": "6fefa2fe",
+      "sha1": "494cd897bd75d93378434941e2bff2ffa989131e",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-21T02:14:12.524782-04:00.jpg",
+      "source": "original",
+      "mtime": "1666332853",
+      "size": "246723",
+      "md5": "18edfb6db8ff78fa8222d590ce1aeccd",
+      "crc32": "4967c68b",
+      "sha1": "0b892687a1cea6bc671c0f484e2f63cbe356c73f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-21T02:14:12.524782-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666332859",
+      "size": "1558",
+      "md5": "9af4ca3ffdcb93a6128762251987a317",
+      "crc32": "9f972c8e",
+      "sha1": "c42d864f81689653dc8ed04f6d409b177b047a11",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-21T02:14:12.524782-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666332861",
+      "size": "66145",
+      "md5": "7e14522d9e336708c111984fb0a58b0a",
+      "crc32": "8f159ec2",
+      "sha1": "f11e1fb2827dd0293ada637b8dc9c5db6bc87f24",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-21T02:14:12.524782-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-21T02:14:12.524782-04:00.jpg",
+      "mtime": "1666332920",
+      "size": "8650",
+      "md5": "d04ce9e641afb5d3f97fa21988ee43de",
+      "crc32": "60d39758",
+      "sha1": "4a526e51319f07f5b9c3a455d25ef1e227ae67e9"
+    },
+    {
+      "name": "fremontnm-2022-10-21T16:07:21.837788-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666382847",
+      "size": "20077",
+      "md5": "ea458d63e197fca852573a7062a58d65",
+      "crc32": "69918c14",
+      "sha1": "ba885b792628a89b906d8471dada8b641eea3054",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-21T16:07:21.837788-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666382848",
+      "size": "32822",
+      "md5": "37fc38dfb4cb9a2dca0d1931a86e61e4",
+      "crc32": "57cd8839",
+      "sha1": "c881551e8e4145820aaf4eaca94def386b93cb7a",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-21T16:07:21.837788-04:00.jpg",
+      "source": "original",
+      "mtime": "1666382845",
+      "size": "246944",
+      "md5": "5218d14b6008d6971d4231d1e3b06cf4",
+      "crc32": "206c9a99",
+      "sha1": "3a7f393724dca7dce6b3fa35d83376d624e6534d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-21T16:07:21.837788-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666382850",
+      "size": "1558",
+      "md5": "5e26ecf0a449598499337e085d17e940",
+      "crc32": "1e74d2fa",
+      "sha1": "a058bbccf66e7f8578865cd2e6afe51d1c55a5ac",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-21T16:07:21.837788-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666382851",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-21T16:07:21.837788-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-21T16:07:21.837788-04:00.jpg",
+      "mtime": "1666382934",
+      "size": "9176",
+      "md5": "60d7f533a9ed9f5fb739ae5699ea12c5",
+      "crc32": "7e593834",
+      "sha1": "d41834dab793cbec2a99b34c74f69728c4ad7749"
+    },
+    {
+      "name": "fremontnm-2022-10-22T01:53:59.998629-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666418045",
+      "size": "19753",
+      "md5": "a9ed0da6b0fb5f4dc7921b41f2dd490a",
+      "crc32": "ff18f24b",
+      "sha1": "7732ef67f0054ae51ee444e1c205facac08e870b",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-22T01:53:59.998629-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666418047",
+      "size": "33925",
+      "md5": "eed4c5f6dd378697f5802858558c4f05",
+      "crc32": "483ede49",
+      "sha1": "a02dfcf4d29b16c3717420fc12974ec4aadec0cc",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-22T01:53:59.998629-04:00.jpg",
+      "source": "original",
+      "mtime": "1666418044",
+      "size": "253787",
+      "md5": "7c54202e641c2a5fa339a895cc2ca1a6",
+      "crc32": "16b2d5d9",
+      "sha1": "b20c6c2215705c9bbf062923721554bb7fdaf971",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-22T01:53:59.998629-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666418048",
+      "size": "1558",
+      "md5": "a5ff036f9a36ae7bd834eda628e8195e",
+      "crc32": "5689c643",
+      "sha1": "d0849f3fbaa7bec2ed31ca03372e497dc65b4d6c",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-22T01:53:59.998629-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666418050",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-22T01:53:59.998629-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-22T01:53:59.998629-04:00.jpg",
+      "mtime": "1666418101",
+      "size": "9259",
+      "md5": "420a1aa9151563a519a4df33eb6d32c2",
+      "crc32": "87ffda06",
+      "sha1": "be3e22563e786400238a0d6ce66a5d759fec4859"
+    },
+    {
+      "name": "fremontnm-2022-10-22T13:22:56.724337-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666459381",
+      "size": "20641",
+      "md5": "79c7522325894113b418d473e6b17045",
+      "crc32": "0205b9ec",
+      "sha1": "648f044d7c593c3cacdec0c7e6a4e468ac9520d0",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-22T13:22:56.724337-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666459382",
+      "size": "32841",
+      "md5": "f37def0e3f852d1c60f95df9d8bac5cc",
+      "crc32": "fa11ecdf",
+      "sha1": "c3081d4fe9f84d438f149e295e995275e2de3c9c",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-22T13:22:56.724337-04:00.jpg",
+      "source": "original",
+      "mtime": "1666459379",
+      "size": "207000",
+      "md5": "53c1c6ca66d9f95d21a2669d3efacfbf",
+      "crc32": "dc76603f",
+      "sha1": "c3ad3513919055c03fe65fdfcc6f891343b4fea8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-22T13:22:56.724337-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666459384",
+      "size": "1558",
+      "md5": "3c3a40e0883adebdd6269eb35af72223",
+      "crc32": "1d1acc85",
+      "sha1": "bd37422cb44081221f43038845a1e85bc5f04516",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-22T13:22:56.724337-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666459385",
+      "size": "77629",
+      "md5": "78c04c23eb46c228982a6b7e4c492f40",
+      "crc32": "a2584520",
+      "sha1": "1f38041739278c8c4ad8ff851ce6aa56ff492507",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-22T13:22:56.724337-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-22T13:22:56.724337-04:00.jpg",
+      "mtime": "1666459439",
+      "size": "8754",
+      "md5": "514d01a2c021ee689a49880bc8c28662",
+      "crc32": "4ba58908",
+      "sha1": "7eeae5efeff31f5b0ae3b236c73dad2052d56a46"
+    },
+    {
+      "name": "fremontnm-2022-10-23T02:32:04.466732-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666506733",
+      "size": "19463",
+      "md5": "412bde312981affdb3936f25fadd0830",
+      "crc32": "34d09943",
+      "sha1": "305e26b3c4f2a1f0565d9e8c84bd5f7fd3ced9de",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-23T02:32:04.466732-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666506735",
+      "size": "32221",
+      "md5": "6faec368c7da2862749ac56c5f3aa8c4",
+      "crc32": "2aad6302",
+      "sha1": "7d525ac6bece9b29ae2a0e4e107ecb48061b6e0a",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-23T02:32:04.466732-04:00.jpg",
+      "source": "original",
+      "mtime": "1666506732",
+      "size": "210659",
+      "md5": "4c2177b3135931d0aa4f5fab94f40fde",
+      "crc32": "0490e40c",
+      "sha1": "5f35bae8da2e01d5647fe509fa3ac86556aec495",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-23T02:32:04.466732-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666506737",
+      "size": "1558",
+      "md5": "57f63f83f43592b50c5ad31a8b1ca7fb",
+      "crc32": "4fd8322e",
+      "sha1": "0a210062ae4e3f1a4be009aa28a6021c740c51b2",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-23T02:32:04.466732-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666506738",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-23T02:32:04.466732-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-23T02:32:04.466732-04:00.jpg",
+      "mtime": "1666506797",
+      "size": "8736",
+      "md5": "28cac7b4762ea2f989a9b34a2e64c5d1",
+      "crc32": "00e03acc",
+      "sha1": "1482880ad30795979c5888ae94ab85939878aa69"
+    },
+    {
+      "name": "fremontnm-2022-10-23T13:55:03.513782-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666547708",
+      "size": "19395",
+      "md5": "190a2e44612e19f1660f610d9240867b",
+      "crc32": "533ec05e",
+      "sha1": "83d897fe718179f718095511ca8ede993cf8cdda",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-23T13:55:03.513782-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666547710",
+      "size": "32520",
+      "md5": "d6ee01a38abc13a2b3c31575c4fd67c1",
+      "crc32": "e9248ba2",
+      "sha1": "a44dc8d92928e887cddbe7936062dd204aca1d7b",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-23T13:55:03.513782-04:00.jpg",
+      "source": "original",
+      "mtime": "1666547706",
+      "size": "254994",
+      "md5": "31f3d77fa94d7264f48e7861c822061a",
+      "crc32": "74d6283e",
+      "sha1": "fe8a34d95fdcf6467b2f517d8c610df6f3c9bfe0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-23T13:55:03.513782-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666547712",
+      "size": "1558",
+      "md5": "e846b170987ce15bf12fb81d7e732e5b",
+      "crc32": "58a7d496",
+      "sha1": "62c30587494918f9c7fa5ee83504f212d42b32d2",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-23T13:55:03.513782-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666547713",
+      "size": "72869",
+      "md5": "ced41ef2ff2387913c5c7266e9d7802b",
+      "crc32": "f7c40aae",
+      "sha1": "1eff6ba10b7d8b4e10920bdd13b091807c80c62a",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-23T13:55:03.513782-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-23T13:55:03.513782-04:00.jpg",
+      "mtime": "1666547768",
+      "size": "8961",
+      "md5": "b831cc0c12308566cf621568f9f3b05e",
+      "crc32": "b27bec89",
+      "sha1": "88f6c6ae5c35cff94e39b403faec85c7627dce96"
+    },
+    {
+      "name": "fremontnm-2022-10-24T01:47:17.338773-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666590442",
+      "size": "18690",
+      "md5": "90f27092983d78bd661f0431a7fc9c29",
+      "crc32": "8c545884",
+      "sha1": "5e0235a436725490be49342b11e212afb01b31b9",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-24T01:47:17.338773-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666590443",
+      "size": "29876",
+      "md5": "d40f95ac025ac139cb18216262e337fe",
+      "crc32": "ee734af2",
+      "sha1": "22957493d3d3f47f564c3cb2cb4c65c7c2e6ff28",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-24T01:47:17.338773-04:00.jpg",
+      "source": "original",
+      "mtime": "1666590440",
+      "size": "257310",
+      "md5": "5b6ebccfdc293b6ebace6528d4073f4b",
+      "crc32": "890b5376",
+      "sha1": "aa3bba5948a099e1746a611f3ab058d60ddd4bac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-24T01:47:17.338773-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666590445",
+      "size": "1558",
+      "md5": "1e165e69672d8f9aa9e56346d064a1be",
+      "crc32": "a4d48835",
+      "sha1": "c5e197a1fcfd833408947c63b00d5d2beecde17e",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-24T01:47:17.338773-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666590446",
+      "size": "85549",
+      "md5": "dda01aef41070b93691b76942e8d8cd4",
+      "crc32": "dbccf976",
+      "sha1": "13c99a4e5b6119e33b15a28237e2d48d1147c509",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-24T01:47:17.338773-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-24T01:47:17.338773-04:00.jpg",
+      "mtime": "1666590497",
+      "size": "8950",
+      "md5": "d2b0cbddc0b2bb42ce3365467bbed3cd",
+      "crc32": "3fa275d4",
+      "sha1": "33de78b760be800a0aa10e3a1fec666252b67b1e"
+    },
+    {
+      "name": "fremontnm-2022-10-24T13:17:53.856404-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666631880",
+      "size": "19112",
+      "md5": "253b27279f9746f7768301fa213f010a",
+      "crc32": "b62384c5",
+      "sha1": "d65aac75ee8c3aa5132ec3dc9a7e6421719b4a38",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-24T13:17:53.856404-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666631882",
+      "size": "29838",
+      "md5": "efb11132dc91223e0c1ad65435729fa3",
+      "crc32": "a64a1523",
+      "sha1": "8012e60934fe842af6e53f9f9646cb05b5778628",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-24T13:17:53.856404-04:00.jpg",
+      "source": "original",
+      "mtime": "1666631878",
+      "size": "259070",
+      "md5": "331f7990755ed5a610f0f9442dde4a52",
+      "crc32": "59c1eb6c",
+      "sha1": "9b809b46e659c72cd5c1782e2c8a066c9bb485ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-24T13:17:53.856404-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666631884",
+      "size": "1558",
+      "md5": "220e97f022cc4cb7cf102714c00297b8",
+      "crc32": "61f2df04",
+      "sha1": "fbcaa3e78568f64b618dc7ead01b07be4d989050",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-24T13:17:53.856404-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666631886",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-24T13:17:53.856404-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-24T13:17:53.856404-04:00.jpg",
+      "mtime": "1666631939",
+      "size": "9249",
+      "md5": "40cf800e14b8e9b7f94826b220b57955",
+      "crc32": "33e71710",
+      "sha1": "8af7216edeee60c621977a8a9f6401b8c99d569e"
+    },
+    {
       "name": "fremontnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "afc845d349b605962d8aa48c813e74152e864099",
-      "mtime": "1666203763",
-      "size": "76101",
-      "md5": "7e0cb6b7966c70fcab1717d353bc9e77",
-      "crc32": "fa717801",
-      "sha1": "c265ef14731a6dca8c504e0463c015d30852bdb2",
+      "btih": "3f46b734c1fb299bc71c05ecf0e4a3bf69c2df16",
+      "mtime": "1666631944",
+      "size": "88966",
+      "md5": "eda29e41f49385664e19494e613b92b2",
+      "crc32": "809377ab",
+      "sha1": "7341cc1cee1ab45d97a1ed081ae8e0124c3ca880",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fremontnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8420cd256fdc47d015563bb58ac90eaa",
+      "md5": "577e7c4d9690c0b5dfd9095dae2d7ec3",
       "summation": "md5"
     },
     {
       "name": "fremontnm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666203713",
-      "size": "471040",
-      "md5": "2e7c02e9fd8fab4d990b8655f469e0da",
-      "crc32": "9ef1f8b3",
-      "sha1": "194cea41a7f725357543f859fd10143a12533968",
+      "mtime": "1666631888",
+      "size": "544768",
+      "md5": "26a9e3860e550ce05cacfd6a2a1b639b",
+      "crc32": "2a4aa757",
+      "sha1": "06ce17f089f8ea571ecdc5e032946cc33aefb1b1",
       "format": "Metadata"
     },
     {
@@ -3701,9 +4332,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 358,
-  "item_last_updated": 1666203763,
-  "item_size": 21486243,
+  "files_count": 419,
+  "item_last_updated": 1666631944,
+  "item_size": 24989636,
   "metadata": {
     "identifier": "fremontnm-2022",
     "collection": [
@@ -3720,21 +4351,10 @@
     "publicdate": "2022-09-20 17:53:26",
     "addeddate": "2022-09-20 17:53:26"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445841327,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 402022798,
+  "uniq": 1909743770,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

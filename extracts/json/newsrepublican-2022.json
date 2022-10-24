@@ -1,5 +1,5 @@
 {
-  "created": 1666210451,
+  "created": 1666635939,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/newsrepublican-2022",
@@ -4449,31 +4449,786 @@
       "format": "JSON"
     },
     {
+      "name": "newsrepublican-2022-10-19T15:13:10.321544-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-19T15:13:10.321544-05:00.jpg",
+      "mtime": "1666214322",
+      "size": "8672",
+      "md5": "72c6c04463467e4071aafad2dd4b120b",
+      "crc32": "5d5f126f",
+      "sha1": "7327dcd833e2feebdfd61f57a1afc9606e393897"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T03:07:10.248037-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666253233",
+      "size": "22133",
+      "md5": "ce3d505d55022f7cb3441c218d00683e",
+      "crc32": "9d528efa",
+      "sha1": "3d953076d58c9e1fd5d6ad73724b779130d913ff",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T03:07:10.248037-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666253235",
+      "size": "28047",
+      "md5": "e362299a6532941dab5a377d9523e096",
+      "crc32": "620ae82a",
+      "sha1": "51fc4b48970db82321506361f6b5ec88d8f93b04",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T03:07:10.248037-05:00.jpg",
+      "source": "original",
+      "mtime": "1666253232",
+      "size": "218912",
+      "md5": "461d81d07e03572a950d056c99a887f9",
+      "crc32": "d750befe",
+      "sha1": "349f1bea268b2eecc0116049e187cbed9590665f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T03:07:10.248037-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666253237",
+      "size": "1630",
+      "md5": "1de3c215795aa259319b63ec37f8e843",
+      "crc32": "80158703",
+      "sha1": "1806e42edbe33eb4497004a4b3e6b8757e7297bc",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T03:07:10.248037-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666253238",
+      "size": "83015",
+      "md5": "7e4909baa56ce55b20088d8dbedbfbaf",
+      "crc32": "ab8343ee",
+      "sha1": "f75e94629fa7f5f4de5b87ee2d5924a192f42bed",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T03:07:10.248037-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-20T03:07:10.248037-05:00.jpg",
+      "mtime": "1666253308",
+      "size": "8670",
+      "md5": "072564cee8c329029605f582b458671e",
+      "crc32": "08e74303",
+      "sha1": "9c72465c1a30f10b4ae491e2a8c0792836c37e6c"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T14:46:43.506928-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666295221",
+      "size": "23480",
+      "md5": "db4f29fd27a08a872396e2f764430d7c",
+      "crc32": "710d2af0",
+      "sha1": "7a820be8c5880da9baf0857eb732f83b48a82bb0",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T14:46:43.506928-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666295223",
+      "size": "28566",
+      "md5": "d06846c8c2622045b5729781704f36f7",
+      "crc32": "a285fb9b",
+      "sha1": "db5d782c0d69b404faa73fd1609176da44ac9181",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T14:46:43.506928-05:00.jpg",
+      "source": "original",
+      "mtime": "1666295219",
+      "size": "246852",
+      "md5": "fb478005715e6fe3e23128503fea483f",
+      "crc32": "a8a20a74",
+      "sha1": "7edc959bdf8da59ffa59ca568bd4827858f442ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T14:46:43.506928-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666295224",
+      "size": "1630",
+      "md5": "2635fadb4e706f25b7964ce99104cebf",
+      "crc32": "bcfc843d",
+      "sha1": "d578369471792765d668aa5a5b2805e842d5c126",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T14:46:43.506928-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666295226",
+      "size": "98122",
+      "md5": "b5cf6365c0dbc8b6a544c7e699761369",
+      "crc32": "a0cfeeb1",
+      "sha1": "d057744460ec66efe6c89db7f6c1d8d4a4fdec97",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-20T14:46:43.506928-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-20T14:46:43.506928-05:00.jpg",
+      "mtime": "1666295298",
+      "size": "8873",
+      "md5": "9aefe7aaa3200624a652c4776f7e0e31",
+      "crc32": "5e930dc1",
+      "sha1": "cc412d187a85b2de9bda5edc7dee3cdccdb36019"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T02:38:41.625516-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666337925",
+      "size": "22697",
+      "md5": "7a5f4375f5ab1e1ad7377280609ef2b0",
+      "crc32": "13cba5b6",
+      "sha1": "4e73de468a39f2d872fe6f3540edb3ea1ccb3b4d",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T02:38:41.625516-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666337927",
+      "size": "29054",
+      "md5": "970002d98d63703726883719b7f57208",
+      "crc32": "777cd1b6",
+      "sha1": "b7f34a72268979f483cee0e75e7f6b95d86ac557",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T02:38:41.625516-05:00.jpg",
+      "source": "original",
+      "mtime": "1666337924",
+      "size": "235486",
+      "md5": "a36656830af99a19fb5563a4d95d3e9f",
+      "crc32": "6817fabf",
+      "sha1": "60d827d8a4b0e802b9dd2660c8a13a3f3f50f7c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T02:38:41.625516-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666337928",
+      "size": "1630",
+      "md5": "2b3f4cd0935582329ce54b1216df54c3",
+      "crc32": "b407f5f4",
+      "sha1": "31df71b45ce476288981b48916b699c909d586df",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T02:38:41.625516-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666337930",
+      "size": "111810",
+      "md5": "033bccb78750ed8c3c6f229850471cad",
+      "crc32": "4ae08151",
+      "sha1": "1707b4a03823f7b9db823da15481af27d6732d4b",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T02:38:41.625516-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-21T02:38:41.625516-05:00.jpg",
+      "mtime": "1666338045",
+      "size": "8701",
+      "md5": "76c1f084ffa33b90b01a521dd2bc70fe",
+      "crc32": "1343dfbe",
+      "sha1": "4bb1f86f9e9cb37fcf489f70a7c8d2d232c5ec57"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T11:34:33.725870-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666370077",
+      "size": "22017",
+      "md5": "1590a40d0826f42187a7c83ec7d98aca",
+      "crc32": "b2d3f1d6",
+      "sha1": "9d9c4092e7eddc88faf7c98e88b835799592e290",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T11:34:33.725870-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666370079",
+      "size": "28041",
+      "md5": "89c14c7320c9018ac51520c4ea2a8e34",
+      "crc32": "acfdb0c9",
+      "sha1": "5521330a0a16ed83a61dc12998dd9ca70c15fbc8",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T11:34:33.725870-05:00.jpg",
+      "source": "original",
+      "mtime": "1666370075",
+      "size": "230528",
+      "md5": "9263a5d682e3aa4935635d0a7a726a83",
+      "crc32": "1400d2f0",
+      "sha1": "cad3c8ec49a0aa3f7d91e022d92805c5a0996468",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T11:34:33.725870-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666370080",
+      "size": "1630",
+      "md5": "0c85bcf84fa7a5194da79f6be2065cab",
+      "crc32": "7ce5a7f1",
+      "sha1": "58f69de9ea7990a47c85edb3a049419edd013fa2",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T11:34:33.725870-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666370082",
+      "size": "82909",
+      "md5": "304aa40c9d64c012af6c0c65ff07c2b6",
+      "crc32": "16778e7d",
+      "sha1": "47f91e47a71748ee1beaadb9f7f00a501b7ef9af",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T11:34:33.725870-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-21T11:34:33.725870-05:00.jpg",
+      "mtime": "1666370143",
+      "size": "8679",
+      "md5": "517911119c7a8d317c83d8d1bc431e78",
+      "crc32": "347c170c",
+      "sha1": "a3d203028443c0de35b0417e0a6edc52e286b8ba"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T15:33:50.867668-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666384445",
+      "size": "22519",
+      "md5": "63cd282f4f1c333f0bd32f3d2880b771",
+      "crc32": "0a223e9b",
+      "sha1": "4b9f47f83bbb827c9b1cb59f8fda9d1c6d5fb902",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T15:33:50.867668-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666384447",
+      "size": "27629",
+      "md5": "014b21241e50f1c76366e86c2bb30a48",
+      "crc32": "9f728f51",
+      "sha1": "195eb1ff2e831e38a43de6be094041f59614b14e",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T15:33:50.867668-05:00.jpg",
+      "source": "original",
+      "mtime": "1666384444",
+      "size": "230590",
+      "md5": "7bd7853ba508d309c1b0322fd02bc64b",
+      "crc32": "d4942daf",
+      "sha1": "7aedf172608459a3d19d1815ce9967ecf1503f1d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T15:33:50.867668-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666384449",
+      "size": "1630",
+      "md5": "018444721e6d4b7a4068cd3ffbabe6b8",
+      "crc32": "a8ae7086",
+      "sha1": "756c4fe1945f08dcb69dc2cb36cd9b59e2162529",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T15:33:50.867668-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666384450",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-21T15:33:50.867668-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-21T15:33:50.867668-05:00.jpg",
+      "mtime": "1666384506",
+      "size": "8679",
+      "md5": "e6af0e6f6a6b0ddc258b058120d8c4a8",
+      "crc32": "4b7a55a0",
+      "sha1": "57fa411a9e3dff5a679269596b85e6eeddc5cb20"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T02:04:28.750749-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666422274",
+      "size": "21601",
+      "md5": "0777c319e902a737b46233f677cb448e",
+      "crc32": "3d890586",
+      "sha1": "1bef94ad8c2d36b250fb900eb60a873349fcec64",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T02:04:28.750749-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666422275",
+      "size": "40583",
+      "md5": "8cb44eca3de41a9589beb603e43e61d4",
+      "crc32": "5b4acab4",
+      "sha1": "9a9d116fdd27e5ce0c338497990a05c1a3cbaa21",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T02:04:28.750749-05:00.jpg",
+      "source": "original",
+      "mtime": "1666422273",
+      "size": "230611",
+      "md5": "c05568be1ec7a4e95e4996bd144276a3",
+      "crc32": "34dda186",
+      "sha1": "26f5ccfc2229dbce172d72a201156ce59b8b83a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T02:04:28.750749-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666422277",
+      "size": "1630",
+      "md5": "bf691fa5599cc3c2dabb5c3d790ef105",
+      "crc32": "d7691913",
+      "sha1": "4150f26ba4ddf0427f2185c00f475c76d9699fa7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T02:04:28.750749-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666422278",
+      "size": "92364",
+      "md5": "15818bc8b5782311f9465c73be1448e3",
+      "crc32": "7bb17e6a",
+      "sha1": "ac00a2706c58dc4d7d00420bb84f28f18825b0fc",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T02:04:28.750749-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-22T02:04:28.750749-05:00.jpg",
+      "mtime": "1666422365",
+      "size": "8676",
+      "md5": "90b9fff0d6ac345308f781805ea6cc21",
+      "crc32": "f33d4785",
+      "sha1": "6f4fa1ed8a0585516973adf882e8eaef7d7c9867"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T13:30:58.986171-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666463473",
+      "size": "23041",
+      "md5": "913781614b7e615373792833944aea48",
+      "crc32": "0a37f3d0",
+      "sha1": "c6b8ebbca0032871b1521c6d96f957611d91bfd7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T13:30:58.986171-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666463474",
+      "size": "40967",
+      "md5": "ae018e89c4f1d657f3be6fa2cf030ecc",
+      "crc32": "ef8ba900",
+      "sha1": "4cf954c34648035079aadce0133cbe741af366ac",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T13:30:58.986171-05:00.jpg",
+      "source": "original",
+      "mtime": "1666463471",
+      "size": "227899",
+      "md5": "9dbeb7295b6617e228aa87a4bfe94f99",
+      "crc32": "ed19a2e3",
+      "sha1": "76ce84cf49e447b5cf004c2dfae88964bb95d921",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T13:30:58.986171-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666463476",
+      "size": "1630",
+      "md5": "41b8b816d8eb706d3170af7ed89e0391",
+      "crc32": "0ae287ff",
+      "sha1": "040099ff1ba4a634c0ad99cd2c9a79c22794dc6a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T13:30:58.986171-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666463482",
+      "size": "92827",
+      "md5": "056bf37a3b65dc08afa2a604d9c066ae",
+      "crc32": "2b49dbf4",
+      "sha1": "530f52fdc31b38f5836295bcf4fdd934d5389e91",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-22T13:30:58.986171-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-22T13:30:58.986171-05:00.jpg",
+      "mtime": "1666463573",
+      "size": "8888",
+      "md5": "02627fa1f6f81ac5c31ee42d7a0b5b78",
+      "crc32": "a59bd2d2",
+      "sha1": "5567dfbed03e627efe6942686e2f07ce85d3e2c7"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T01:33:10.981624-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666506796",
+      "size": "21859",
+      "md5": "75d39fe863f5a5b62959a8e59b26bf88",
+      "crc32": "2cd45afd",
+      "sha1": "16f9afc9b4175caa08be8689d45cc7a55b2e63c4",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T01:33:10.981624-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666506798",
+      "size": "41609",
+      "md5": "0fd60ba95aa8c01166254ee304035dda",
+      "crc32": "ac8d8038",
+      "sha1": "7d89dc6f267ef3d5cd6be64458dc4c7988d997f7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T01:33:10.981624-05:00.jpg",
+      "source": "original",
+      "mtime": "1666506794",
+      "size": "231292",
+      "md5": "145d58eaef3fdfa1b6ecf96b8bb32729",
+      "crc32": "14e4cac2",
+      "sha1": "93ab960c66483dbc1861cab5f5ab254fc1fa0b92",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T01:33:10.981624-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666506799",
+      "size": "1630",
+      "md5": "ec2cac7be1d2cc962be31b5c13ff98c2",
+      "crc32": "6ecebd16",
+      "sha1": "1569f84c0dd9bc01932b95d3b950a4017553de76",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T01:33:10.981624-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666506801",
+      "size": "94329",
+      "md5": "7eaac37e412bb1848fc35c6eb90fe789",
+      "crc32": "0e515bac",
+      "sha1": "acf4bc753f7e741578fcad7dbb5feb5bdc5ea3f1",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T01:33:10.981624-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-23T01:33:10.981624-05:00.jpg",
+      "mtime": "1666506860",
+      "size": "8859",
+      "md5": "e07cd544af0b9340f0e624de24860c9f",
+      "crc32": "4e14ee17",
+      "sha1": "db50eea558aeed1322fe2bede6c4b7e39ecbe5fa"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T14:12:44.877112-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666552370",
+      "size": "22614",
+      "md5": "0e5b14660dec5c1e60c9c1418d5f035a",
+      "crc32": "4b60cc27",
+      "sha1": "5af0c518939dbc6e3e245648c08e8e21915515f7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T14:12:44.877112-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666552372",
+      "size": "30423",
+      "md5": "904e6b0f341f7a81538e4da320997b6e",
+      "crc32": "ca3c2dc1",
+      "sha1": "d56b5c463cb2fd9c5175a1429b9742637900b45a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T14:12:44.877112-05:00.jpg",
+      "source": "original",
+      "mtime": "1666552369",
+      "size": "231267",
+      "md5": "fcf25167638dadc4e5305da103de8e1e",
+      "crc32": "3c845295",
+      "sha1": "96cd85ef6095ad254a86deaa73abf73b359f37b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T14:12:44.877112-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666552375",
+      "size": "1630",
+      "md5": "6a72f9746f641250fdec0ab58d1ba803",
+      "crc32": "88c0f249",
+      "sha1": "8ff3f045104684a1a29af1617eec7b13e9101c37",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T14:12:44.877112-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666552377",
+      "size": "128075",
+      "md5": "971c05665dd35a9832caa58c46620db4",
+      "crc32": "6398f741",
+      "sha1": "61695d178c7711d31be97a39cc91d48e20e2b346",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-23T14:12:44.877112-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-23T14:12:44.877112-05:00.jpg",
+      "mtime": "1666552430",
+      "size": "8861",
+      "md5": "4a71e3371bcddb43986d7f8cc373aa42",
+      "crc32": "98f8cc49",
+      "sha1": "93b1d53136b62500edc05d7f85bef74b5d278556"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T01:46:53.546112-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666594020",
+      "size": "22438",
+      "md5": "5e4394ffc580554f838ee9f82fa9fc8e",
+      "crc32": "4883c4da",
+      "sha1": "0508f3cc9d5054a00b36e22482f7218593119460",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T01:46:53.546112-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666594022",
+      "size": "43945",
+      "md5": "c8fd746d937d11197ec810257dc1cab1",
+      "crc32": "67c2d60c",
+      "sha1": "642efa69c7b7d5aaf7253eea217b5441dbb13337",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T01:46:53.546112-05:00.jpg",
+      "source": "original",
+      "mtime": "1666594019",
+      "size": "225293",
+      "md5": "e1154c797e31b2e7989519c523db79c5",
+      "crc32": "4b231e01",
+      "sha1": "54acf11507fd0777f86a54980a052a0d4f4707fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T01:46:53.546112-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666594024",
+      "size": "1630",
+      "md5": "39b5c1270dc75a30ca35fd99986817d3",
+      "crc32": "8557c42d",
+      "sha1": "579c3594d44e1bd8fc523d93061e33186ea64815",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T01:46:53.546112-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666594025",
+      "size": "105296",
+      "md5": "23b4e5ec266c5eb2e60896416a6ffd26",
+      "crc32": "ef1c5e3c",
+      "sha1": "af90a697a20298fc1b774b5213694df01999993f",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T01:46:53.546112-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-24T01:46:53.546112-05:00.jpg",
+      "mtime": "1666594101",
+      "size": "8669",
+      "md5": "42417648535a5288a2f4df61afa6369b",
+      "crc32": "b9914ac8",
+      "sha1": "49111003d54070c6acaba67dad0c01f61972871e"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T10:51:35.117474-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666626699",
+      "size": "22064",
+      "md5": "ce71d17873cbd7a125d691a9ab6599b6",
+      "crc32": "bd28eb70",
+      "sha1": "d25ce79458ad82c4d906028c8f29e6183992ea3a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T10:51:35.117474-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666626700",
+      "size": "38614",
+      "md5": "0f9804d976b07a0877895d914510f58c",
+      "crc32": "171b399f",
+      "sha1": "11e2bdb74f9b2acdb0a2aff46cc7b55397ef28fc",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T10:51:35.117474-05:00.jpg",
+      "source": "original",
+      "mtime": "1666626697",
+      "size": "228501",
+      "md5": "2b2a4f44b68eade3275770b31724c35f",
+      "crc32": "b3f24980",
+      "sha1": "411ebac4203e9122c5168aa48255433dfb76a711",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T10:51:35.117474-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666626702",
+      "size": "1630",
+      "md5": "63b2d74acabb8117a471eae987626aa2",
+      "crc32": "f3490002",
+      "sha1": "98b2568c4257fdb3ee0ba7a2e1ce8b808bc8cc2e",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T10:51:35.117474-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666626704",
+      "size": "109127",
+      "md5": "10ddceb2a5621e0c704b109052145b8b",
+      "crc32": "b7cc967d",
+      "sha1": "43bfbdd4a38e9e9abedce8eff3d586dbb0cc6d78",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T10:51:35.117474-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-24T10:51:35.117474-05:00.jpg",
+      "mtime": "1666626792",
+      "size": "8884",
+      "md5": "eff1513b8e296a408cc1684d73d9d7e1",
+      "crc32": "67564235",
+      "sha1": "86f4eca80c4110b89399ab7305796c9f086f5209"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T13:23:42.677904-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666635828",
+      "size": "22720",
+      "md5": "f4156c8e8390d570784039e09c71925c",
+      "crc32": "2e3fc9ee",
+      "sha1": "30ddadeba791e63e85d0e91cc07fdf5194c95fd4",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T13:23:42.677904-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666635829",
+      "size": "39444",
+      "md5": "48ba4d9a3cf6011fba66b8a3403a6f9b",
+      "crc32": "3dc81da7",
+      "sha1": "0e1de3d8b01573c8c3930be936e5a6b030ed7277",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T13:23:42.677904-05:00.jpg",
+      "source": "original",
+      "mtime": "1666635825",
+      "size": "240878",
+      "md5": "83f80457ff937ece1e7d764207e50865",
+      "crc32": "cba50401",
+      "sha1": "96913fd6579f9422e7db13193f6547a3af5b56d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T13:23:42.677904-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666635831",
+      "size": "1630",
+      "md5": "c036183585d2651ff9e36c90c8d67243",
+      "crc32": "582788f8",
+      "sha1": "609e16c9270e69464bf69b63d17e5f3081105403",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T13:23:42.677904-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666635833",
+      "size": "86653",
+      "md5": "322af7c6b519adc2ce5d7dee10fdbcf6",
+      "crc32": "c701760a",
+      "sha1": "1d3f8449199be4f41fbf0bf9fe878e77a9358920",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-10-24T13:23:42.677904-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsrepublican-2022-10-24T13:23:42.677904-05:00.jpg",
+      "mtime": "1666635902",
+      "size": "9031",
+      "md5": "e0f7a5885adc2b84346478fcb637ba27",
+      "crc32": "4c4b470a",
+      "sha1": "e78661280608d94735d7c809f97eff26f5cdea2c"
+    },
+    {
       "name": "newsrepublican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "649c7c48a1fc88ca51059404662c121709c52083",
-      "mtime": "1666210443",
-      "size": "94557",
-      "md5": "34391b8bac04b8a56d52a335969f787c",
-      "crc32": "10d2880c",
-      "sha1": "b8a0e01e4d5d305dbf9497998f18a5246f9ee755",
+      "btih": "16da630c93c11a78493e87c877ec4de5e1703a38",
+      "mtime": "1666635912",
+      "size": "110345",
+      "md5": "2838219e2596d034c4a367787aa97228",
+      "crc32": "af9dc113",
+      "sha1": "c52f519f8ff0ee58891e17c4470a1b72a53fd637",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsrepublican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ab2cb869112e3d49a07e317d8a29bdd",
+      "md5": "6a0712546d21f273c0b8a98e0c34f722",
       "summation": "md5"
     },
     {
       "name": "newsrepublican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666210438",
-      "size": "573440",
-      "md5": "b7c8aa495d51e66dfaa814783a661a1d",
-      "crc32": "60097006",
-      "sha1": "14ca77017b68d3536c19ae41742704e7f473fad4",
+      "mtime": "1666635840",
+      "size": "663552",
+      "md5": "7615974124d0eea1495fb727e11e0590",
+      "crc32": "96eda875",
+      "sha1": "adcb9539eb4dd575e6ce492dfa98d0a271a683c4",
       "format": "Metadata"
     },
     {
@@ -4487,9 +5242,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 434,
-  "item_last_updated": 1666210443,
-  "item_size": 29671653,
+  "files_count": 507,
+  "item_last_updated": 1666635912,
+  "item_size": 34460198,
   "metadata": {
     "identifier": "newsrepublican-2022",
     "collection": [
@@ -4506,21 +5261,10 @@
     "publicdate": "2022-09-20 19:12:39",
     "addeddate": "2022-09-20 19:12:39"
   },
-  "pending_tasks": true,
   "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445913643,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 320374435,
+  "uniq": 2135375065,
   "workable_servers": [
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }

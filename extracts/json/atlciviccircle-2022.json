@@ -1,10 +1,14 @@
 {
+<<<<<<< HEAD
   "atlciviccircle-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "created": 1666203059,
+  "created": 1666329894,
+=======
+  "created": 1666626981,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/atlciviccircle-2022",
@@ -11974,31 +11978,685 @@
       "format": "JSON"
     },
     {
+      "name": "atlciviccircle-2022-10-19T12:24:12.696626-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-19T12:24:12.696626-04:00.jpg",
+      "mtime": "1666209040",
+      "size": "10133",
+      "md5": "6eafa62f3ac1a43034c93dede35ffdad",
+      "crc32": "e0fb43ae",
+      "sha1": "a485ec6aac227b6fd2722be10d8654a5814953fb"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T01:29:48.353836-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666243794",
+      "size": "14158",
+      "md5": "06386c9c8b41289e2b60857da2df167a",
+      "crc32": "e5a86a50",
+      "sha1": "f3a0e0c2c66da078f56bce173a1a187fc60add46",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T01:29:48.353836-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666243796",
+      "size": "14167",
+      "md5": "aac491d0b0b2a80750c653528528940a",
+      "crc32": "c7457eda",
+      "sha1": "b00fde14f5f61da0a8ccb44e9325bd81a44ea40e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T01:29:48.353836-04:00.jpg",
+      "source": "original",
+      "mtime": "1666243793",
+      "size": "230380",
+      "md5": "c9f30be7badaab3edf9023f7ca7ccf2b",
+      "crc32": "3ed2d198",
+      "sha1": "c819cc4cadc4fa8d9a139195a0af30267df3dc72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T01:29:48.353836-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666243797",
+      "size": "1531",
+      "md5": "2ba425b01541be1d2eb8bc0db53461e1",
+      "crc32": "6f40783f",
+      "sha1": "30700987645fea47b0c644996e4d470d4b386b9c",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T01:29:48.353836-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666243799",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T01:29:48.353836-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-20T01:29:48.353836-04:00.jpg",
+      "mtime": "1666243872",
+      "size": "10146",
+      "md5": "bee112a4af6f5604fa8c35a660d92154",
+      "crc32": "b1901424",
+      "sha1": "4506405b9fd44beb3f5149bbf8ac66685a5cb548"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T12:20:57.438810-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666282866",
+      "size": "14158",
+      "md5": "06386c9c8b41289e2b60857da2df167a",
+      "crc32": "e5a86a50",
+      "sha1": "f3a0e0c2c66da078f56bce173a1a187fc60add46",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T12:20:57.438810-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666282867",
+      "size": "14167",
+      "md5": "aac491d0b0b2a80750c653528528940a",
+      "crc32": "c7457eda",
+      "sha1": "b00fde14f5f61da0a8ccb44e9325bd81a44ea40e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T12:20:57.438810-04:00.jpg",
+      "source": "original",
+      "mtime": "1666282864",
+      "size": "230380",
+      "md5": "c9f30be7badaab3edf9023f7ca7ccf2b",
+      "crc32": "3ed2d198",
+      "sha1": "c819cc4cadc4fa8d9a139195a0af30267df3dc72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T12:20:57.438810-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666282869",
+      "size": "1530",
+      "md5": "918807d55d2ff887d030ab1b6f9dd31e",
+      "crc32": "4ef3a89c",
+      "sha1": "a25fa219dec2137c0abb5d4e26cc409ca1acd1d3",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T12:20:57.438810-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666282871",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-20T12:20:57.438810-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-20T12:20:57.438810-04:00.jpg",
+      "mtime": "1666282933",
+      "size": "10146",
+      "md5": "bee112a4af6f5604fa8c35a660d92154",
+      "crc32": "b1901424",
+      "sha1": "4506405b9fd44beb3f5149bbf8ac66685a5cb548"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T00:31:42.477212-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666326709",
+      "size": "14158",
+      "md5": "06386c9c8b41289e2b60857da2df167a",
+      "crc32": "e5a86a50",
+      "sha1": "f3a0e0c2c66da078f56bce173a1a187fc60add46",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T00:31:42.477212-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666326711",
+      "size": "14167",
+      "md5": "aac491d0b0b2a80750c653528528940a",
+      "crc32": "c7457eda",
+      "sha1": "b00fde14f5f61da0a8ccb44e9325bd81a44ea40e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T00:31:42.477212-04:00.jpg",
+      "source": "original",
+      "mtime": "1666326708",
+      "size": "230380",
+      "md5": "c9f30be7badaab3edf9023f7ca7ccf2b",
+      "crc32": "3ed2d198",
+      "sha1": "c819cc4cadc4fa8d9a139195a0af30267df3dc72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T00:31:42.477212-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666326712",
+      "size": "1530",
+      "md5": "744905b61a11dfebc7946ce56b966817",
+      "crc32": "8aba9110",
+      "sha1": "470f7e35ae14b4e39c5f95973d6ee042da308362",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T00:31:42.477212-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666326714",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T00:31:42.477212-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-21T00:31:42.477212-04:00.jpg",
+      "mtime": "1666326776",
+      "size": "10146",
+      "md5": "bee112a4af6f5604fa8c35a660d92154",
+      "crc32": "b1901424",
+      "sha1": "4506405b9fd44beb3f5149bbf8ac66685a5cb548"
+    },
+    {
+<<<<<<< HEAD
       "name": "atlciviccircle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "749138e8f934b6c80c587d4f1d3d6fae784114d4",
-      "mtime": "1666196725",
-      "size": "251110",
-      "md5": "03cf52d8ef1942d1071b877ca3d0d688",
-      "crc32": "07b905d0",
-      "sha1": "c78c7496933a030950128637055234b3fc75ad0a",
+      "btih": "d5b203096d12c15e69d2843a9ccca22fb5f69d4c",
+      "mtime": "1666326788",
+      "size": "255207",
+      "md5": "0293593be6811057e03385fcdbd75d84",
+      "crc32": "27bf9af6",
+      "sha1": "3e2667a079a6fefd5971e7adbb1e2e121ab28a75",
+=======
+      "name": "atlciviccircle-2022-10-21T12:44:56.432315-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666370700",
+      "size": "14158",
+      "md5": "06386c9c8b41289e2b60857da2df167a",
+      "crc32": "e5a86a50",
+      "sha1": "f3a0e0c2c66da078f56bce173a1a187fc60add46",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T12:44:56.432315-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666370702",
+      "size": "14167",
+      "md5": "aac491d0b0b2a80750c653528528940a",
+      "crc32": "c7457eda",
+      "sha1": "b00fde14f5f61da0a8ccb44e9325bd81a44ea40e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T12:44:56.432315-04:00.jpg",
+      "source": "original",
+      "mtime": "1666370698",
+      "size": "230380",
+      "md5": "c9f30be7badaab3edf9023f7ca7ccf2b",
+      "crc32": "3ed2d198",
+      "sha1": "c819cc4cadc4fa8d9a139195a0af30267df3dc72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T12:44:56.432315-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666370704",
+      "size": "1531",
+      "md5": "db7af755a1b8830dfa286cf7b87d56cf",
+      "crc32": "e864b28b",
+      "sha1": "0f90bd4a2de0f4068ac64dbcbc397e287a071c49",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T12:44:56.432315-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666370706",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-21T12:44:56.432315-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-21T12:44:56.432315-04:00.jpg",
+      "mtime": "1666370786",
+      "size": "10146",
+      "md5": "bee112a4af6f5604fa8c35a660d92154",
+      "crc32": "b1901424",
+      "sha1": "4506405b9fd44beb3f5149bbf8ac66685a5cb548"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T00:24:46.207530-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666412698",
+      "size": "14158",
+      "md5": "06386c9c8b41289e2b60857da2df167a",
+      "crc32": "e5a86a50",
+      "sha1": "f3a0e0c2c66da078f56bce173a1a187fc60add46",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T00:24:46.207530-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666412700",
+      "size": "14167",
+      "md5": "aac491d0b0b2a80750c653528528940a",
+      "crc32": "c7457eda",
+      "sha1": "b00fde14f5f61da0a8ccb44e9325bd81a44ea40e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T00:24:46.207530-04:00.jpg",
+      "source": "original",
+      "mtime": "1666412696",
+      "size": "230380",
+      "md5": "c9f30be7badaab3edf9023f7ca7ccf2b",
+      "crc32": "3ed2d198",
+      "sha1": "c819cc4cadc4fa8d9a139195a0af30267df3dc72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T00:24:46.207530-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666412702",
+      "size": "1531",
+      "md5": "5959cfe94d969f93d12991db4a2aaec9",
+      "crc32": "cd156bc7",
+      "sha1": "bd17222ebd582e63a2bcc38721fc8f575040a53a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T00:24:46.207530-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666412704",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T00:24:46.207530-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-22T00:24:46.207530-04:00.jpg",
+      "mtime": "1666412761",
+      "size": "10146",
+      "md5": "bee112a4af6f5604fa8c35a660d92154",
+      "crc32": "b1901424",
+      "sha1": "4506405b9fd44beb3f5149bbf8ac66685a5cb548"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T11:46:51.187868-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666453614",
+      "size": "14158",
+      "md5": "06386c9c8b41289e2b60857da2df167a",
+      "crc32": "e5a86a50",
+      "sha1": "f3a0e0c2c66da078f56bce173a1a187fc60add46",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T11:46:51.187868-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666453616",
+      "size": "14167",
+      "md5": "aac491d0b0b2a80750c653528528940a",
+      "crc32": "c7457eda",
+      "sha1": "b00fde14f5f61da0a8ccb44e9325bd81a44ea40e",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T11:46:51.187868-04:00.jpg",
+      "source": "original",
+      "mtime": "1666453613",
+      "size": "230380",
+      "md5": "c9f30be7badaab3edf9023f7ca7ccf2b",
+      "crc32": "3ed2d198",
+      "sha1": "c819cc4cadc4fa8d9a139195a0af30267df3dc72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T11:46:51.187868-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666453617",
+      "size": "1530",
+      "md5": "1155135237916d1431c342a055d76121",
+      "crc32": "72032c89",
+      "sha1": "e5d5e65d7413dadb86c8abb5ba012f2ae7798ae9",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T11:46:51.187868-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666453619",
+      "size": "255",
+      "md5": "152fc775c4f2fcb3c637d71bcad85fd8",
+      "crc32": "25b010b6",
+      "sha1": "63324bc6ab7fd436df8f21b06a51170141b29997",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-22T11:46:51.187868-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-22T11:46:51.187868-04:00.jpg",
+      "mtime": "1666453683",
+      "size": "10146",
+      "md5": "bee112a4af6f5604fa8c35a660d92154",
+      "crc32": "b1901424",
+      "sha1": "4506405b9fd44beb3f5149bbf8ac66685a5cb548"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T00:27:25.584039-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666499254",
+      "size": "14236",
+      "md5": "a59a229867ddce5bf0dce3d264cf3554",
+      "crc32": "c45b4ac0",
+      "sha1": "40f08c495181c1e9f8500c4262de5fe4eb102b22",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T00:27:25.584039-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666499256",
+      "size": "14283",
+      "md5": "38ff708cf848ef0b1d8e752d36a6de7e",
+      "crc32": "8a86fbde",
+      "sha1": "acfd2ea76abbe258eb2578ce94dbe9352f553943",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T00:27:25.584039-04:00.jpg",
+      "source": "original",
+      "mtime": "1666499252",
+      "size": "228437",
+      "md5": "37ff9e80fda22691c3852ef31251e3c0",
+      "crc32": "17746841",
+      "sha1": "437dc0ec61a6ecff9c9007e1ef48b7edc45c2af9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T00:27:25.584039-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666499258",
+      "size": "1531",
+      "md5": "f0234d0914b53e51243a9674aa69e36e",
+      "crc32": "c3f19af2",
+      "sha1": "0b601e247049603762cff1dd630edefa15973080",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T00:27:25.584039-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666499261",
+      "size": "9679",
+      "md5": "0cfb4b4d6d38ee7014ae0d1de7e3c1c4",
+      "crc32": "c1650ca4",
+      "sha1": "9fbd0880a39c6c87b974c69518f9f1ec0851f477",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T00:27:25.584039-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-23T00:27:25.584039-04:00.jpg",
+      "mtime": "1666499344",
+      "size": "10138",
+      "md5": "189880ee75b3fd839524d3e21c1fe4c3",
+      "crc32": "dae825b1",
+      "sha1": "973d3494c585f74a4a037b1ad8287860309f70b1"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T12:54:14.835427-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666544062",
+      "size": "14236",
+      "md5": "a59a229867ddce5bf0dce3d264cf3554",
+      "crc32": "c45b4ac0",
+      "sha1": "40f08c495181c1e9f8500c4262de5fe4eb102b22",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T12:54:14.835427-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666544064",
+      "size": "14283",
+      "md5": "38ff708cf848ef0b1d8e752d36a6de7e",
+      "crc32": "8a86fbde",
+      "sha1": "acfd2ea76abbe258eb2578ce94dbe9352f553943",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T12:54:14.835427-04:00.jpg",
+      "source": "original",
+      "mtime": "1666544060",
+      "size": "228437",
+      "md5": "37ff9e80fda22691c3852ef31251e3c0",
+      "crc32": "17746841",
+      "sha1": "437dc0ec61a6ecff9c9007e1ef48b7edc45c2af9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T12:54:14.835427-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666544066",
+      "size": "1530",
+      "md5": "35d82e5687a32c50d86fddaed5986ac5",
+      "crc32": "61b1c13e",
+      "sha1": "dcb9efe0e815fc5e40b70e66812a3f6c5cc45b98",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T12:54:14.835427-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666544067",
+      "size": "11950",
+      "md5": "e7ef0f15e73073ef6426435c632f75f5",
+      "crc32": "dab6f14f",
+      "sha1": "3b17ef707dc93da03986556757aad6f2167a5e75",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-23T12:54:14.835427-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-23T12:54:14.835427-04:00.jpg",
+      "mtime": "1666544241",
+      "size": "10138",
+      "md5": "189880ee75b3fd839524d3e21c1fe4c3",
+      "crc32": "dae825b1",
+      "sha1": "973d3494c585f74a4a037b1ad8287860309f70b1"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T00:30:01.504197-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666585813",
+      "size": "14236",
+      "md5": "a59a229867ddce5bf0dce3d264cf3554",
+      "crc32": "c45b4ac0",
+      "sha1": "40f08c495181c1e9f8500c4262de5fe4eb102b22",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T00:30:01.504197-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666585816",
+      "size": "14283",
+      "md5": "38ff708cf848ef0b1d8e752d36a6de7e",
+      "crc32": "8a86fbde",
+      "sha1": "acfd2ea76abbe258eb2578ce94dbe9352f553943",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T00:30:01.504197-04:00.jpg",
+      "source": "original",
+      "mtime": "1666585811",
+      "size": "228437",
+      "md5": "37ff9e80fda22691c3852ef31251e3c0",
+      "crc32": "17746841",
+      "sha1": "437dc0ec61a6ecff9c9007e1ef48b7edc45c2af9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T00:30:01.504197-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666585817",
+      "size": "1531",
+      "md5": "f2bc6fda2702acfe9162e7ff112ec692",
+      "crc32": "d5344951",
+      "sha1": "2ba6dd629faa77258a83f98e8ea17be30e2fe0cc",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T00:30:01.504197-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666585819",
+      "size": "9252",
+      "md5": "157bcb9a8e969a131049441b1e7f1330",
+      "crc32": "cadcf300",
+      "sha1": "1fd2a6d34ca029cbfdb1dc239477f6c3b069113c",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T00:30:01.504197-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-24T00:30:01.504197-04:00.jpg",
+      "mtime": "1666585876",
+      "size": "10138",
+      "md5": "189880ee75b3fd839524d3e21c1fe4c3",
+      "crc32": "dae825b1",
+      "sha1": "973d3494c585f74a4a037b1ad8287860309f70b1"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T11:54:05.919041-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666626858",
+      "size": "14236",
+      "md5": "a59a229867ddce5bf0dce3d264cf3554",
+      "crc32": "c45b4ac0",
+      "sha1": "40f08c495181c1e9f8500c4262de5fe4eb102b22",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T11:54:05.919041-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666626859",
+      "size": "14283",
+      "md5": "38ff708cf848ef0b1d8e752d36a6de7e",
+      "crc32": "8a86fbde",
+      "sha1": "acfd2ea76abbe258eb2578ce94dbe9352f553943",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T11:54:05.919041-04:00.jpg",
+      "source": "original",
+      "mtime": "1666626856",
+      "size": "228437",
+      "md5": "37ff9e80fda22691c3852ef31251e3c0",
+      "crc32": "17746841",
+      "sha1": "437dc0ec61a6ecff9c9007e1ef48b7edc45c2af9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T11:54:05.919041-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666626861",
+      "size": "1531",
+      "md5": "1d235e642b073478f3fc73ad57c975ee",
+      "crc32": "243182a3",
+      "sha1": "a9b6716f7144d21859392d242529abe9cac2f29f",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T11:54:05.919041-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666626863",
+      "size": "9677",
+      "md5": "dc221444c3fdf3e0a0eaa85a8ebb3137",
+      "crc32": "816dc259",
+      "sha1": "3b13edf4fc768f183f3d74ddb9e5cee0a087d07a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-10-24T11:54:05.919041-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-10-24T11:54:05.919041-04:00.jpg",
+      "mtime": "1666626932",
+      "size": "10138",
+      "md5": "189880ee75b3fd839524d3e21c1fe4c3",
+      "crc32": "dae825b1",
+      "sha1": "973d3494c585f74a4a037b1ad8287860309f70b1"
+    },
+    {
+      "name": "atlciviccircle-2022_archive.torrent",
+      "source": "metadata",
+      "btih": "53ea9aa58d9fff0495daf8c115fb07fef902d056",
+      "mtime": "1666626946",
+      "size": "264246",
+      "md5": "1b9129e3b0e3d273f2d7019fe072e1f2",
+      "crc32": "50bc6383",
+      "sha1": "b06a574f12ffdc297447384801dc8529f15ba5f5",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlciviccircle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c91fbfcdce4cedcc5b8ac6d9d42638f",
+<<<<<<< HEAD
+      "md5": "1509efa76293847c26e1df628b687ddf",
+=======
+      "md5": "63466308cb963c9cb4c83bbf2bb487e9",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "summation": "md5"
     },
     {
       "name": "atlciviccircle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666196675",
-      "size": "1470464",
-      "md5": "4cec253e5f2410d78452d241a3a726a6",
-      "crc32": "eec52b77",
-      "sha1": "b6509e2d43361ee5e77a2c9528e5c46a2ea8edd8",
+<<<<<<< HEAD
+      "mtime": "1666326716",
+      "size": "1490944",
+      "md5": "d178f5d25b2678f3a8ca038c0ed4c5f8",
+      "crc32": "083dd1ce",
+      "sha1": "6c9cb884943ef812e9aac35d2c7455abf5eee071",
+=======
+      "mtime": "1666626866",
+      "size": "1548288",
+      "md5": "a51296e0610c455640a117fb62d9d303",
+      "crc32": "89c59d6f",
+      "sha1": "91d2921ff41ce4d385fe11d3b4da41cca0fe7938",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Metadata"
     },
     {
@@ -12012,9 +12670,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1159,
-  "item_last_updated": 1666196725,
-  "item_size": 71347574,
+<<<<<<< HEAD
+  "files_count": 1178,
+  "item_last_updated": 1666326788,
+  "item_size": 72194034,
+=======
+  "files_count": 1220,
+  "item_last_updated": 1666626946,
+  "item_size": 74187278,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "metadata": {
     "identifier": "atlciviccircle-2022",
     "collection": [
@@ -12031,21 +12695,14 @@
     "publicdate": "2022-07-09 03:55:48",
     "addeddate": "2022-07-09 03:55:48"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445768778,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1319621380,
+  "server": "ia802500.us.archive.org",
+<<<<<<< HEAD
+  "uniq": 43946199,
+=======
+  "uniq": 1448888254,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

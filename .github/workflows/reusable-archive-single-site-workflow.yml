@@ -118,15 +118,10 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: install
-        name: Install Python dependencies
-        uses: ./.github/actions/install
-
       - id: commit
         name: Commit
         uses: ./.github/actions/commit
         with:
-          download-items-command: "--site=${{ inputs.handle }}"
-          access-key: ${{ secrets.IA_ACCESS_KEY }}
-          secret-key: ${{ secrets.IA_SECRET_KEY }}
-          collection:  ${{ secrets.IA_COLLECTION }}
+          s3-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          s3-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          s3-bucket-name: ${{ secrets.AWS_BUCKET_NAME }}

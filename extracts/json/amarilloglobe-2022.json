@@ -1,10 +1,9 @@
 {
-  "amarilloglobe-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666202940,
+<<<<<<< HEAD
+  "created": 1666326764,
+=======
+  "created": 1666626957,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/1/items/amarilloglobe-2022",
@@ -3606,31 +3605,685 @@
       "format": "JSON"
     },
     {
+      "name": "amarilloglobe-2022-10-19T11:18:56.049154-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-19T11:18:56.049154-05:00.jpg",
+      "mtime": "1666208566",
+      "size": "9675",
+      "md5": "01b16ebaa70e1527fd977eb35e98d541",
+      "crc32": "ca17e5b2",
+      "sha1": "de32bdcc30e86b9a34e9de5ac6eee500ed7e41b2"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T00:30:05.953348-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666243808",
+      "size": "25805",
+      "md5": "8f3554ef9de52f32bee0306f3d57498a",
+      "crc32": "3deebc56",
+      "sha1": "d875c4ed296c57405a9938872e78136c9b067806",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T00:30:05.953348-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666243809",
+      "size": "32019",
+      "md5": "932085ee57eaa12dd256eba229952123",
+      "crc32": "9ac11252",
+      "sha1": "47d2abff903e8ad36a60f0ba9c38e38356f12056",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T00:30:05.953348-05:00.jpg",
+      "source": "original",
+      "mtime": "1666243807",
+      "size": "279572",
+      "md5": "8e2cd996549cd5c50326b4784449fd56",
+      "crc32": "deaeccee",
+      "sha1": "ca560fc0c437bb11039790923f8e193c933d8b00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T00:30:05.953348-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666243811",
+      "size": "1477",
+      "md5": "953676430333d94d1b63f1091d88bbeb",
+      "crc32": "636b6742",
+      "sha1": "a96c200c5161ca732dc9bcad2da42a2e4a90f58d",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T00:30:05.953348-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666243812",
+      "size": "95592",
+      "md5": "ce23010501607e26c7016dcf85fe7a1c",
+      "crc32": "0d846e93",
+      "sha1": "c48f3c050dbfd0955c489b291f274f8d6d952004",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T00:30:05.953348-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-20T00:30:05.953348-05:00.jpg",
+      "mtime": "1666243916",
+      "size": "9302",
+      "md5": "303947952bc059606fa10f28503da218",
+      "crc32": "09410dbc",
+      "sha1": "27616c4ed682a2c40e239dff7b3622d32bfe7ac0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T11:18:09.572410-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666282693",
+      "size": "24345",
+      "md5": "7cc0d137b70e4f801a86febd24eb136a",
+      "crc32": "39a072ad",
+      "sha1": "37e86bab229233abd35d86e6f5b9434a86c07799",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T11:18:09.572410-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666282694",
+      "size": "34746",
+      "md5": "8e6733e5614e1f814dbacfa6ca12b846",
+      "crc32": "a1a83f14",
+      "sha1": "1c95a6a89d5034665cdb564099fcabe7a3fcf669",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T11:18:09.572410-05:00.jpg",
+      "source": "original",
+      "mtime": "1666282691",
+      "size": "248514",
+      "md5": "42670ecc0a89975cb9bde21632c7ca97",
+      "crc32": "117435d7",
+      "sha1": "313e26c35038ad48d11a34611e7d382738b9fe3a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T11:18:09.572410-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666282696",
+      "size": "1477",
+      "md5": "698ec25730f26beb95079671ff7d5f0d",
+      "crc32": "a68b0a6c",
+      "sha1": "74e415be2abc3bfa04357da1d3789fe8596d7949",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T11:18:09.572410-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666282698",
+      "size": "123819",
+      "md5": "b8fc94b2fa471f4fe588205afb0ccdde",
+      "crc32": "adc9db44",
+      "sha1": "a555dd153d2e61885becb92a927662a8bd108e32",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T11:18:09.572410-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-20T11:18:09.572410-05:00.jpg",
+      "mtime": "1666282764",
+      "size": "9296",
+      "md5": "bd5f888f954d79b3657e4d28e95b3144",
+      "crc32": "9f7478ff",
+      "sha1": "07a856c8a257b2cc3d863344f05a8fb4b886899a"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T23:31:19.531923-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666326688",
+      "size": "24365",
+      "md5": "c471eedd1d27850cfd59404cf305e32f",
+      "crc32": "f6bd35c7",
+      "sha1": "d41216901baad34765673b3eed8b35b93b1b8438",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T23:31:19.531923-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666326690",
+      "size": "33819",
+      "md5": "8114ce2d103896cd3f96db45f5d36a6f",
+      "crc32": "fdd97c67",
+      "sha1": "3ac3b7b4a6044817297c656176172d38e5c3a980",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T23:31:19.531923-05:00.jpg",
+      "source": "original",
+      "mtime": "1666326687",
+      "size": "272979",
+      "md5": "d621f2ca0e888c04c87fe0c0897bae48",
+      "crc32": "148f9747",
+      "sha1": "3dd207579e9ea114325858a6db1e345eab7a9b03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T23:31:19.531923-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666326691",
+      "size": "1477",
+      "md5": "cee1e2cb2b70e076b5e0a2a6904d794c",
+      "crc32": "e08462dd",
+      "sha1": "81296f261e9e5919ca55c43359e5265abcc17770",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T23:31:19.531923-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666326693",
+      "size": "252739",
+      "md5": "54232cb86c0300df34647b30f933fefd",
+      "crc32": "e6dd48a0",
+      "sha1": "5cfc8dd99a2c9da6713cbaa172f466fff9d1eb28",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-20T23:31:19.531923-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-20T23:31:19.531923-05:00.jpg",
+      "mtime": "1666326750",
+      "size": "9732",
+      "md5": "8ff2e9c1a41490e1a4c85b0ee5bbe1ec",
+      "crc32": "a55523f1",
+      "sha1": "ecd5fda68e9a2dc51fadeb5067e505f62fc0cdae"
+    },
+    {
+<<<<<<< HEAD
       "name": "amarilloglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "866fead421399d24607f25fa7aff5f26338d0c71",
-      "mtime": "1666196402",
-      "size": "76407",
-      "md5": "19450de83b188ec94727bef69ae93d09",
-      "crc32": "f6d34d0b",
-      "sha1": "168039511eb6e73381b4d92c1454563f98b337da",
+      "btih": "91efb6f66e7e66d224c89d6163436d3373f367d8",
+      "mtime": "1666326755",
+      "size": "80509",
+      "md5": "5901ee5e1727663013dd79822b61d6eb",
+      "crc32": "6bb4c022",
+      "sha1": "a5acf119cce7deb4a524ae35c7302d3becd3fc45",
+=======
+      "name": "amarilloglobe-2022-10-21T11:43:08.666896-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666370591",
+      "size": "24214",
+      "md5": "a3ca39b4746ebd4df3ebaf0ad3651dfa",
+      "crc32": "97081127",
+      "sha1": "157d7e7047269a2c887518bc4b428ab7394b6fd7",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T11:43:08.666896-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666370592",
+      "size": "36253",
+      "md5": "cc31928bd0803fcba4c0761b5926e871",
+      "crc32": "94d62d47",
+      "sha1": "15ba4abf98f5982b0da0a38f9e93935947201e30",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T11:43:08.666896-05:00.jpg",
+      "source": "original",
+      "mtime": "1666370589",
+      "size": "229545",
+      "md5": "7b27be383b8abe9195a24b11e5b1c411",
+      "crc32": "d43b0818",
+      "sha1": "285308bb3dfc5652f871a46c276cec080e8fd80a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T11:43:08.666896-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666370594",
+      "size": "1476",
+      "md5": "e7f372357e8ce2d77567afa2ad09a445",
+      "crc32": "0c13c323",
+      "sha1": "9d8a98cb683e212c5d1e5347b1b9c98f9b1e304c",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T11:43:08.666896-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666370595",
+      "size": "101",
+      "md5": "48e6338f74e3759a0bd2e8081c9bcc86",
+      "crc32": "3b1c8211",
+      "sha1": "838bb1c97f643eb5cd3199a2724a04f820b21a26",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T11:43:08.666896-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-21T11:43:08.666896-05:00.jpg",
+      "mtime": "1666370662",
+      "size": "9031",
+      "md5": "bff8c546884c9851d907118744b2a6b1",
+      "crc32": "13555bd8",
+      "sha1": "49a5181306795d6fbaa2ee88e5c6604bb4250964"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T23:24:44.970565-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666412691",
+      "size": "24131",
+      "md5": "9397e9ee346591682633c585d00451b3",
+      "crc32": "803bc5be",
+      "sha1": "594bafa5825076e3fcb17dad3803dc8b4e4ae196",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T23:24:44.970565-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666412694",
+      "size": "34605",
+      "md5": "3c635b697b95271e5b7c10e55bfcff88",
+      "crc32": "35b05c6a",
+      "sha1": "6dcbaa086b31516610837bb79c74ea7277f7b493",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T23:24:44.970565-05:00.jpg",
+      "source": "original",
+      "mtime": "1666412689",
+      "size": "238973",
+      "md5": "71750e6e5865f8d2497a35e873aac9c6",
+      "crc32": "e59b0be3",
+      "sha1": "8f60a5c9a514948200819bf862ba4874a7e8f9bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T23:24:44.970565-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666412695",
+      "size": "1477",
+      "md5": "ddbc0fe2e30fbf172d5e17b589e08a43",
+      "crc32": "dcf13992",
+      "sha1": "5f55b4c00c1856a4058c296e3ccb80065c1f54bc",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T23:24:44.970565-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666412697",
+      "size": "79361",
+      "md5": "29790e34418770de9c049bb4617bdca6",
+      "crc32": "60008697",
+      "sha1": "269159fab834a2f7c5057b4ad3e57a3acdd57e3f",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-21T23:24:44.970565-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-21T23:24:44.970565-05:00.jpg",
+      "mtime": "1666412749",
+      "size": "9439",
+      "md5": "9ece69a2796758c6e4b1bcddc74a329e",
+      "crc32": "5e50ced5",
+      "sha1": "29337d738dfc8fde150b4a102142088cbc2f1140"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T10:45:51.295222-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666453556",
+      "size": "24969",
+      "md5": "53b74a6dfaf9390130278bed4d7bb27e",
+      "crc32": "eb9a6f60",
+      "sha1": "b1f47453ea7931221e6b9057c81e2de03a520261",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T10:45:51.295222-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666453558",
+      "size": "33237",
+      "md5": "360d2471f6158b1a9ad01962bc21b842",
+      "crc32": "bfc026a7",
+      "sha1": "5695e289ebab9953bbea57ff89680cc1c3b7524e",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T10:45:51.295222-05:00.jpg",
+      "source": "original",
+      "mtime": "1666453555",
+      "size": "234390",
+      "md5": "77731d9377b5e1e2b497f902633e72d5",
+      "crc32": "06d5b581",
+      "sha1": "bc6e7075559a8ecb522c254fdef30ce5c24b4f97",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T10:45:51.295222-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666453559",
+      "size": "1477",
+      "md5": "fed77a53c8004f07c2d812a108b11548",
+      "crc32": "24152848",
+      "sha1": "ee1b32e3bff39173522b2fd27bdc712381255867",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T10:45:51.295222-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666453561",
+      "size": "249",
+      "md5": "512570483f39d4fabca330309cfdc850",
+      "crc32": "f15767cf",
+      "sha1": "dcda0f267249e86191d42d1189141fad019e7236",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T10:45:51.295222-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-22T10:45:51.295222-05:00.jpg",
+      "mtime": "1666453658",
+      "size": "9351",
+      "md5": "bfabba4a0266b3c1f1e280960b51b7f2",
+      "crc32": "351651a1",
+      "sha1": "ad44e2e8a6e627ffda903a70e20e4b1fbcdbe1c4"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T23:27:09.759059-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666499235",
+      "size": "25838",
+      "md5": "a1b793e0b30949f73261a6eb1ceea236",
+      "crc32": "a54f38c3",
+      "sha1": "1cfda6cade6a881b13c1edb96d5d4742992eef43",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T23:27:09.759059-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666499237",
+      "size": "49085",
+      "md5": "0adf20e7249b435ba3987445848cc2d5",
+      "crc32": "4dfeedcd",
+      "sha1": "8fb8f2dd3ed6819531f49116a7874dfa8da5d9a5",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T23:27:09.759059-05:00.jpg",
+      "source": "original",
+      "mtime": "1666499233",
+      "size": "271269",
+      "md5": "09f4fbb13dbe4767ff4d0279b3af6fe8",
+      "crc32": "74cdbefd",
+      "sha1": "e38889c0712ec74a42149446c9f5c4e4b0771eed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T23:27:09.759059-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666499238",
+      "size": "1477",
+      "md5": "2f722e00e2017c6b334fed3e2c5c6b21",
+      "crc32": "99853108",
+      "sha1": "b20099db2ae846f4ee76dc54361a092b3f6f07ba",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T23:27:09.759059-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666499240",
+      "size": "205",
+      "md5": "4da09de06ec161925a66f99cff93ca0b",
+      "crc32": "743eb0ed",
+      "sha1": "31f641df4a227827e3258f52bc8fd62379423e28",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-22T23:27:09.759059-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-22T23:27:09.759059-05:00.jpg",
+      "mtime": "1666499306",
+      "size": "9347",
+      "md5": "8691ee5c0d676fa6fee3fe75e533c4bd",
+      "crc32": "9cc23cf5",
+      "sha1": "034b67870868d61dbb353cd1c250dea82cef2ef2"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T11:53:44.504112-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666544029",
+      "size": "27633",
+      "md5": "4be45cb84019d2547a831e6090514890",
+      "crc32": "bb9ffd14",
+      "sha1": "3df088eede62b12348fc0a6157d7f1574d77d6a6",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T11:53:44.504112-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666544031",
+      "size": "39627",
+      "md5": "b95e8695ae938c11ea5e359fde33f258",
+      "crc32": "7ee671d7",
+      "sha1": "3a164cd5e728b92cd142f2bf9dffa1b1af90030b",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T11:53:44.504112-05:00.jpg",
+      "source": "original",
+      "mtime": "1666544028",
+      "size": "269853",
+      "md5": "b3593c2b6b2a6792d7821001307aa4ee",
+      "crc32": "f3c6dda6",
+      "sha1": "4225adf545165e514d7e4516976548e18ad8cd1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T11:53:44.504112-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666544032",
+      "size": "1477",
+      "md5": "15de7a5bb7fbff4719d2d4620f68fafc",
+      "crc32": "39b3ce64",
+      "sha1": "00e6230e7d31cc960cb52cf721ac3363ee3387be",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T11:53:44.504112-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666544034",
+      "size": "101",
+      "md5": "48e6338f74e3759a0bd2e8081c9bcc86",
+      "crc32": "3b1c8211",
+      "sha1": "838bb1c97f643eb5cd3199a2724a04f820b21a26",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T11:53:44.504112-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-23T11:53:44.504112-05:00.jpg",
+      "mtime": "1666544092",
+      "size": "8921",
+      "md5": "acb85301da3b84cfbc2d361e75a80132",
+      "crc32": "9da3516c",
+      "sha1": "803861c05e28acafc68f76bcf3fe3254a6311ed8"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666585777",
+      "size": "27202",
+      "md5": "3e5a416c83e8af76228f8b1564c91542",
+      "crc32": "e634e4ec",
+      "sha1": "a5abc411f258455eb5e1d51550df664c60726ad0",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666585779",
+      "size": "39406",
+      "md5": "cb61f8f11e75f54c56045a217fb5ac98",
+      "crc32": "797d7129",
+      "sha1": "0533c191067c4d43fc855d04752f523a8622fdd7",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.jpg",
+      "source": "original",
+      "mtime": "1666585776",
+      "size": "288154",
+      "md5": "7c0e837dae46920bc2716734f3dfbbcf",
+      "crc32": "1b838a02",
+      "sha1": "ef9a0d6ebdeaf40c56185dfbc566bb05bd05840d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666585781",
+      "size": "1477",
+      "md5": "bec9b534fee3545c820cc2e9c371e304",
+      "crc32": "2c9ba766",
+      "sha1": "59c19a041c0e8d13b7add1333112aa921c2ddbd0",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666585783",
+      "size": "85191",
+      "md5": "ec17dc19e8b6171753e01d08eb99bbc2",
+      "crc32": "8c58f4d2",
+      "sha1": "f5d8622439aed93f7c4c3ca1c4f8955ff1ff7adc",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-23T23:29:34.568055-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-23T23:29:34.568055-05:00.jpg",
+      "mtime": "1666585834",
+      "size": "9393",
+      "md5": "9a81b63cb935a177648d8c91be1867ee",
+      "crc32": "ffa27921",
+      "sha1": "edbe1ebaef36d190b587030b2e44c209855ecafc"
+    },
+    {
+      "name": "amarilloglobe-2022-10-24T10:54:35.737403-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666626880",
+      "size": "26236",
+      "md5": "029040a674d15247c7d4fad8186dae51",
+      "crc32": "97373abd",
+      "sha1": "2525f5e79a3ab13a788ed52fa087744a320407df",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-24T10:54:35.737403-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666626881",
+      "size": "51519",
+      "md5": "3015412b105bd799c55be25b359cdd08",
+      "crc32": "f25e6d90",
+      "sha1": "cf0359dce41b40c09ae65b6a3652accb86f7c44f",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-24T10:54:35.737403-05:00.jpg",
+      "source": "original",
+      "mtime": "1666626878",
+      "size": "231390",
+      "md5": "e66f533a8a96e31c19dfe8ca090ce8f3",
+      "crc32": "ceefd47c",
+      "sha1": "c650920daec89ecfb5ad902143748bd4cbb5ec43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-10-24T10:54:35.737403-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666626886",
+      "size": "1477",
+      "md5": "13bed254069ef957f39c71e7766e39a2",
+      "crc32": "83fac5e9",
+      "sha1": "9416656c5f4c3428a4bb05480f4b07f56675f60c",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-24T10:54:35.737403-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666626887",
+      "size": "83595",
+      "md5": "9cd3799e11fe90ffb6d0e60c7b58a57b",
+      "crc32": "0ec82b4b",
+      "sha1": "27f186104d31461dfff61461f5663103b53e0794",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-10-24T10:54:35.737403-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarilloglobe-2022-10-24T10:54:35.737403-05:00.jpg",
+      "mtime": "1666626944",
+      "size": "9352",
+      "md5": "1497f2b13bb601d5b18b4b6de2e8c4f7",
+      "crc32": "a7a67b72",
+      "sha1": "7d9370a9a88cb3f5f45d2042ba9fc52f15d63ed8"
+    },
+    {
+      "name": "amarilloglobe-2022_archive.torrent",
+      "source": "metadata",
+      "btih": "6674bb8d318a46d3293b860e87a124a54cd96f9e",
+      "mtime": "1666626949",
+      "size": "89541",
+      "md5": "22a66c6d89e77383bd67edb8de59d13e",
+      "crc32": "ada4eae9",
+      "sha1": "d287b9091af3d04bf8f437f7543d0a120b505e0e",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Archive BitTorrent"
     },
     {
       "name": "amarilloglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cba449947fdaab55749bbe88dbc36e4",
+<<<<<<< HEAD
+      "md5": "59c48cafce6098327325271141b603c7",
+=======
+      "md5": "b51e618d2ec17d9468777ffe325ca3e0",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "summation": "md5"
     },
     {
       "name": "amarilloglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666196360",
-      "size": "466944",
-      "md5": "5af11430bf50c7a5c79243dbe7f279ce",
-      "crc32": "58ec578b",
-      "sha1": "dbd853211d68dd24d8a0b81a53c764ea5fe045de",
+<<<<<<< HEAD
+      "mtime": "1666326701",
+      "size": "491520",
+      "md5": "b955930a4a0db2eec29ef260ef95cf04",
+      "crc32": "822b7f92",
+      "sha1": "01f8e232978e6f5c39171a7ac1a5e39d98318568",
+=======
+      "mtime": "1666626891",
+      "size": "540672",
+      "md5": "7a217515d31c78d937093de889e8d61f",
+      "crc32": "b6cb21a9",
+      "sha1": "6fb6d2413856179ca50a87d2b379935f8e3baf74",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Metadata"
     },
     {
@@ -3644,9 +4297,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 352,
-  "item_last_updated": 1666196402,
-  "item_size": 23813704,
+<<<<<<< HEAD
+  "files_count": 371,
+  "item_last_updated": 1666326755,
+  "item_size": 25333132,
+=======
+  "files_count": 413,
+  "item_last_updated": 1666626949,
+  "item_size": 27942820,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "metadata": {
     "identifier": "amarilloglobe-2022",
     "collection": [
@@ -3663,21 +4322,14 @@
     "publicdate": "2022-09-21 04:37:30",
     "addeddate": "2022-09-21 04:37:30"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445765526,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1313372639,
+  "server": "ia801505.us.archive.org",
+<<<<<<< HEAD
+  "uniq": 518749315,
+=======
+  "uniq": 923496721,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

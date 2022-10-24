@@ -1,10 +1,9 @@
 {
-  "capgaznews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666203328,
+<<<<<<< HEAD
+  "created": 1666326999,
+=======
+  "created": 1666627117,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/capgaznews-2022",
@@ -13934,31 +13933,685 @@
       "format": "JSON"
     },
     {
+      "name": "capgaznews-2022-10-19T12:23:39.474141-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-19T12:23:39.474141-04:00.jpg",
+      "mtime": "1666208744",
+      "size": "8410",
+      "md5": "04a65a34a3bb4c72ac0eb49b43651a20",
+      "crc32": "313a491f",
+      "sha1": "0c739b7228ebd382c25e314b14d9a27204192c0d"
+    },
+    {
+      "name": "capgaznews-2022-10-20T01:32:27.075106-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666243968",
+      "size": "32891",
+      "md5": "833591d67dc861d704f44651ab300d28",
+      "crc32": "f06f74e5",
+      "sha1": "847c37942fe6029bdd2b4ccf4ce06a623d08821a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-20T01:32:27.075106-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666243970",
+      "size": "28427",
+      "md5": "bd7ea430c0d4a3af22dd914303fc8cb7",
+      "crc32": "ffcf0f45",
+      "sha1": "229762ca41d8ae39587c79f04aa8317e2fd65785",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-20T01:32:27.075106-04:00.jpg",
+      "source": "original",
+      "mtime": "1666243967",
+      "size": "249825",
+      "md5": "b68ca216cd87adc7c4da24d27e13dd64",
+      "crc32": "83732502",
+      "sha1": "54be081cdfbb63fef25dd5b0f909555d9f23287c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-20T01:32:27.075106-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666243972",
+      "size": "1531",
+      "md5": "c37c7971ecec30303816b8fa45bc3c36",
+      "crc32": "df794828",
+      "sha1": "cfe061b7108844951d1968212d86fc748cdb8f18",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-20T01:32:27.075106-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666243974",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-20T01:32:27.075106-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-20T01:32:27.075106-04:00.jpg",
+      "mtime": "1666244105",
+      "size": "8358",
+      "md5": "62625b93ece52f1e1276ad35c8349011",
+      "crc32": "6fd84a9e",
+      "sha1": "fc222be5f8db17af0014bcdc403a80b6b6180d6f"
+    },
+    {
+      "name": "capgaznews-2022-10-20T12:21:12.857546-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666282894",
+      "size": "33511",
+      "md5": "04d055dd0ff0f49eb168fa6ed43fc578",
+      "crc32": "30da6ad1",
+      "sha1": "2c415c5e87f6d4177a89522ba6060e967d03010b",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-20T12:21:12.857546-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666282896",
+      "size": "28564",
+      "md5": "e746dadce37cf35835b138de936efaaf",
+      "crc32": "9feb2d3a",
+      "sha1": "983ca232bd7e5a55de7d3e071b21f52fabdf21e1",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-20T12:21:12.857546-04:00.jpg",
+      "source": "original",
+      "mtime": "1666282891",
+      "size": "245935",
+      "md5": "662d6e18e217d224f187cc0238c79c8e",
+      "crc32": "aab0569b",
+      "sha1": "4a18fb655dc248eaf620b169127fdeaf927d66f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-20T12:21:12.857546-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666282898",
+      "size": "1531",
+      "md5": "3c1b469e58c7341486176e2c26e2c741",
+      "crc32": "b30392bf",
+      "sha1": "e36e68fd1c3c5987367c79148c6fa788a124206e",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-20T12:21:12.857546-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666282900",
+      "size": "50305",
+      "md5": "4d62bed3f32ed0224f51402fd69856c2",
+      "crc32": "2b0686b4",
+      "sha1": "f3392108c36d9db86b297c669908f6445b6d4d94",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-20T12:21:12.857546-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-20T12:21:12.857546-04:00.jpg",
+      "mtime": "1666282978",
+      "size": "7960",
+      "md5": "6af69125d8647365f38d2c0f954cd94b",
+      "crc32": "7676a6c7",
+      "sha1": "b5b8a4781b309f78de0452716f855b429ccf482c"
+    },
+    {
+      "name": "capgaznews-2022-10-21T00:33:54.760696-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666326838",
+      "size": "33565",
+      "md5": "abf8cb511c144ef5bc9339cd40144e66",
+      "crc32": "d6554e3f",
+      "sha1": "2021aa3cf380dffd50047c3aff12889181928cb1",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-21T00:33:54.760696-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666326840",
+      "size": "28755",
+      "md5": "fcb9f9140599567b9bb4bc81ad5e71c6",
+      "crc32": "a7d49050",
+      "sha1": "4ee96b84f60ab0530a45d566fcbd942f16e750c7",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-21T00:33:54.760696-04:00.jpg",
+      "source": "original",
+      "mtime": "1666326836",
+      "size": "243342",
+      "md5": "8070b7216d2b999979fab46e5a9de672",
+      "crc32": "256874fc",
+      "sha1": "176ec97e68ce4339942a81ee157a6eea05e8b06f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-21T00:33:54.760696-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666326842",
+      "size": "1528",
+      "md5": "2787d74ccd119c17a6e7915c456baf10",
+      "crc32": "58a85d66",
+      "sha1": "6174757f61ac8bdc163b67697c29aa4d13fc9ec1",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-21T00:33:54.760696-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666326844",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-21T00:33:54.760696-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-21T00:33:54.760696-04:00.jpg",
+      "mtime": "1666326944",
+      "size": "7947",
+      "md5": "12e4d6b16a3a93a4ae4641d175d364d3",
+      "crc32": "22f6a0e3",
+      "sha1": "6f8face93d7964c3a3986fd964bebb1b94674653"
+    },
+    {
+<<<<<<< HEAD
       "name": "capgaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "058241e3de742e1d34470a18aa354f0db8189e84",
-      "mtime": "1666196721",
-      "size": "286417",
-      "md5": "3678668a2a7212f6807e70e220aab8b1",
-      "crc32": "71bf7871",
-      "sha1": "427bd2fcc64a9445c7aa40ae61c74e3a6258068d",
+      "btih": "e88268f230aaf4f229e4f06f6cc22c537f358dd4",
+      "mtime": "1666326981",
+      "size": "290436",
+      "md5": "8c68eea4d0ea3c83d9cd2b4f21ec602b",
+      "crc32": "e50cf8ac",
+      "sha1": "e8b8c9dfe2201487a818db8fb4f0263075ee0402",
+=======
+      "name": "capgaznews-2022-10-21T12:47:36.714782-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666370860",
+      "size": "33149",
+      "md5": "07f464cc4574114d9c0b623fdb91e7ec",
+      "crc32": "e1ed7997",
+      "sha1": "733addfcf45734d010411c9bdbdb0f21369bd31d",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-21T12:47:36.714782-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666370862",
+      "size": "29356",
+      "md5": "a19ecb0a7cf868fb544de34f98772dda",
+      "crc32": "6ff9ee67",
+      "sha1": "a217df7636d00e54869c0cdce0e285257a56d117",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-21T12:47:36.714782-04:00.jpg",
+      "source": "original",
+      "mtime": "1666370858",
+      "size": "242064",
+      "md5": "f4f78fc57bcd3508049b2d4aa52c133b",
+      "crc32": "2a84f107",
+      "sha1": "ae9f0e64c216c11448a0350540ce1c845c0030e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-21T12:47:36.714782-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666370864",
+      "size": "1528",
+      "md5": "100d22eb3b74ab350c1349061775b7f4",
+      "crc32": "0910a612",
+      "sha1": "d0ca26592b3f611601d9696b3f5e15488b6cbec9",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-21T12:47:36.714782-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666370866",
+      "size": "255",
+      "md5": "7d111edbd4e6be0eb4c10b15ddb14bbd",
+      "crc32": "4e91a499",
+      "sha1": "6a52d9455bc6d4f76433b1860c3ef3b2c764f877",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-21T12:47:36.714782-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-21T12:47:36.714782-04:00.jpg",
+      "mtime": "1666371389",
+      "size": "8065",
+      "md5": "d1c466e6ea0de73fd4780f13c0c2ed9a",
+      "crc32": "b1c21ef0",
+      "sha1": "df4594313a1eca742d0d86dce8ed0f0127ae7999"
+    },
+    {
+      "name": "capgaznews-2022-10-22T00:27:14.119478-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666412854",
+      "size": "33368",
+      "md5": "a0b9301129c4f4e3702a8260c140c344",
+      "crc32": "8d3fe906",
+      "sha1": "343cdb0e841e1ec554ef91ab98eef32d397749aa",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-22T00:27:14.119478-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666412856",
+      "size": "28473",
+      "md5": "6fbb9ba5f0308ea0ef8302c5f5c0f60f",
+      "crc32": "6807b49d",
+      "sha1": "6f44907a7ec0e024b6c0843480d126e2e77ed0b5",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-22T00:27:14.119478-04:00.jpg",
+      "source": "original",
+      "mtime": "1666412852",
+      "size": "262139",
+      "md5": "9917dd3ca0b6f8d92c530c08db0dd016",
+      "crc32": "aedc257e",
+      "sha1": "44ddd770d62b99ec33f1457e70204943221a8d74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-22T00:27:14.119478-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666412857",
+      "size": "1531",
+      "md5": "64bd9c80ec466aab821231fc4bef070a",
+      "crc32": "8304651f",
+      "sha1": "28d2700a948a23649e2711be41484a773c5a0692",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-22T00:27:14.119478-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666412859",
+      "size": "48167",
+      "md5": "2ee23cd0a412fe4d9ee1557cc1dab588",
+      "crc32": "ea6027f9",
+      "sha1": "d3fa9136ea6d0ef468686c00874aaf049ea753f7",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-22T00:27:14.119478-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-22T00:27:14.119478-04:00.jpg",
+      "mtime": "1666412930",
+      "size": "8566",
+      "md5": "d872518909c0154888dded398b32f33f",
+      "crc32": "cf3c44fa",
+      "sha1": "5a8c62dbc37c1697f41947c7ed136f0f6293541f"
+    },
+    {
+      "name": "capgaznews-2022-10-22T11:48:41.727212-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666453724",
+      "size": "32866",
+      "md5": "b5f013e8b46b4d9cae22bd8117c9724c",
+      "crc32": "19fc1643",
+      "sha1": "a42b63efaee15dfd6f43958a73aac63835b886f0",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-22T11:48:41.727212-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666453725",
+      "size": "28692",
+      "md5": "bc446e4bf000a3c853d281d7a88a69fc",
+      "crc32": "1176812f",
+      "sha1": "32464d9fa4a1f7e1a9ed9409c8a760a2debf45ea",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-22T11:48:41.727212-04:00.jpg",
+      "source": "original",
+      "mtime": "1666453722",
+      "size": "247066",
+      "md5": "2a39ee8154267f27be6d778fb80038c9",
+      "crc32": "3112b7e7",
+      "sha1": "dcca087676eba011647f11ddb0e80c140318f8f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-22T11:48:41.727212-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666453727",
+      "size": "1531",
+      "md5": "720460bb6e3e55b487c6b3482794b281",
+      "crc32": "89ea35ec",
+      "sha1": "6793ffde1df9f421a90d70e57dd0c5c720c25be3",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-22T11:48:41.727212-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666453728",
+      "size": "61637",
+      "md5": "80f9f218e6940898e7f9e3d4e2daa9c6",
+      "crc32": "5554bc8f",
+      "sha1": "7c5f75283522ae552b0e67a4c6d5e7495ff14c5f",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-22T11:48:41.727212-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-22T11:48:41.727212-04:00.jpg",
+      "mtime": "1666453820",
+      "size": "8429",
+      "md5": "90029c6aff7b2d5d956d89c6e1b72153",
+      "crc32": "0f10ea7e",
+      "sha1": "2d291163093814b0adb7690964fce687d6d148df"
+    },
+    {
+      "name": "capgaznews-2022-10-23T00:28:52.645951-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666499342",
+      "size": "32543",
+      "md5": "05be0f839370cd39d6e32b531e946732",
+      "crc32": "7bbad718",
+      "sha1": "0a7d39f40195b6bff5921fb99b605fa9bcb53b2f",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-23T00:28:52.645951-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666499344",
+      "size": "28678",
+      "md5": "110a39d0948966aeb1f2767ea01c4b3d",
+      "crc32": "856f63de",
+      "sha1": "a441cd6e11e5189e16988013148c1a378206f025",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-23T00:28:52.645951-04:00.jpg",
+      "source": "original",
+      "mtime": "1666499341",
+      "size": "253546",
+      "md5": "2ac508bdb72eff0c4666ab149488b8e9",
+      "crc32": "7a00c82b",
+      "sha1": "6e1378c31c369f8dae6d445e583811c3700039a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-23T00:28:52.645951-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666499346",
+      "size": "1525",
+      "md5": "61bb8074d2a97caa2848880252d4e309",
+      "crc32": "35a1addc",
+      "sha1": "f8404d825567b7157c5b5d04f56306fff07b2b0f",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-23T00:28:52.645951-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666499347",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-23T00:28:52.645951-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-23T00:28:52.645951-04:00.jpg",
+      "mtime": "1666499439",
+      "size": "8138",
+      "md5": "7ca807006de8be2bca2a2a7fd7c5f9e3",
+      "crc32": "14eea50c",
+      "sha1": "9959e8e03ce2ec1950dd835ad9974c8ced05a9b5"
+    },
+    {
+      "name": "capgaznews-2022-10-23T12:56:41.268370-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666544214",
+      "size": "33080",
+      "md5": "d3f19fca2270e034eba4eb830697bf9e",
+      "crc32": "03220174",
+      "sha1": "8b69ee013128fd7a69fdddac69eec0d0de3bc68c",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-23T12:56:41.268370-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666544216",
+      "size": "28485",
+      "md5": "c7f7fbe26fa3ded25d78988863ea35a1",
+      "crc32": "6d9958de",
+      "sha1": "5b89bbd514c55ce03fdba6796fbd8fb06c27a81b",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-23T12:56:41.268370-04:00.jpg",
+      "source": "original",
+      "mtime": "1666544212",
+      "size": "276392",
+      "md5": "61407bb7d32c139d50acacf8faa70941",
+      "crc32": "04915547",
+      "sha1": "d83c8438b84d46fd5da06947e41ec1e737652d79",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-23T12:56:41.268370-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666544217",
+      "size": "1528",
+      "md5": "e0fc2c377ec8c04b591c3c57c27b55c0",
+      "crc32": "7ab6ac3c",
+      "sha1": "5f39e877f7b2cccb4777d6665538b4c67603dcd1",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-23T12:56:41.268370-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666544219",
+      "size": "107",
+      "md5": "10244831b03e0c11696134820905f208",
+      "crc32": "3ca76dcb",
+      "sha1": "400bb2d9d7c9d189258529eae2a5d6d404abf046",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-23T12:56:41.268370-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-23T12:56:41.268370-04:00.jpg",
+      "mtime": "1666544285",
+      "size": "8558",
+      "md5": "91c6b80906760487d256175cf45a22f7",
+      "crc32": "db76a626",
+      "sha1": "9cf04628e88a73e1742d2cf50070937c6cd01e72"
+    },
+    {
+      "name": "capgaznews-2022-10-24T00:31:22.189021-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666585902",
+      "size": "33238",
+      "md5": "10f833f8904dbbf14b9c34c1b0cf8e89",
+      "crc32": "7244a0a0",
+      "sha1": "d97638591ab021b8f841f536648e8e9ec6163b8d",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T00:31:22.189021-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666585904",
+      "size": "37691",
+      "md5": "f70c1f8815b89d437dc68382e7a7f321",
+      "crc32": "2941b1f6",
+      "sha1": "6fcabab9e2beb2264fe92bee30513ba31ce5f412",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T00:31:22.189021-04:00.jpg",
+      "source": "original",
+      "mtime": "1666585900",
+      "size": "268090",
+      "md5": "64404ec50469c5595bd713ee1430ccc7",
+      "crc32": "8c1465d5",
+      "sha1": "89abc0e238bee118706fa7d55721b675b680aae2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-24T00:31:22.189021-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666585906",
+      "size": "1528",
+      "md5": "867d6bd6a021c9ccb710f231274aa63b",
+      "crc32": "a1542f49",
+      "sha1": "7dc16c85fe5a01dc5ef25cf4147f9e583e3988d2",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T00:31:22.189021-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666585908",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T00:31:22.189021-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-24T00:31:22.189021-04:00.jpg",
+      "mtime": "1666586076",
+      "size": "8512",
+      "md5": "783176f73de934ab9779b514207d7334",
+      "crc32": "0cc864af",
+      "sha1": "861308af35f05aad71df52f9941b231ad410362e"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666626948",
+      "size": "33058",
+      "md5": "5688686b9705c0e3d4a3c9be92f067e9",
+      "crc32": "1705207f",
+      "sha1": "03c8eec62494e3921e93ca199988c1ec1b7ddd4a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666626950",
+      "size": "28219",
+      "md5": "8648749d8a139a619f9d87c6d147b138",
+      "crc32": "494d00cd",
+      "sha1": "510be6b926e96303c1dbb79a692012734d512120",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.jpg",
+      "source": "original",
+      "mtime": "1666626946",
+      "size": "267551",
+      "md5": "672bbc8a98f233d937dc09530d805a23",
+      "crc32": "880b4c6d",
+      "sha1": "b3efc3027167adcaaf0002e6ba9c180d17f93e79",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666626952",
+      "size": "1531",
+      "md5": "ec424e67e41b07c61887b641577ca003",
+      "crc32": "24164a97",
+      "sha1": "65eb45e6d81b94d08a2fb8f3a00d7064e1985c33",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666626953",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-24T11:55:40.146930-04:00.jpg",
+      "mtime": "1666627043",
+      "size": "8355",
+      "md5": "1fc305882a43926e9703738d8251342e",
+      "crc32": "229e7c01",
+      "sha1": "6b319b5241fce8bde5c818672b6390fdccad8a0c"
+    },
+    {
+      "name": "capgaznews-2022_archive.torrent",
+      "source": "metadata",
+      "btih": "5b40640bd7df3e68ceab140b96d98170a7f63d02",
+      "mtime": "1666627102",
+      "size": "299319",
+      "md5": "fd51a4a372ad3dcc83ba30e001d4d618",
+      "crc32": "2e05022c",
+      "sha1": "93c860bffe48ea34057bb32bf0c755ae818a8f47",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Archive BitTorrent"
     },
     {
       "name": "capgaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f23acef9eb390e0b7b1b3f5470f4ea34",
+<<<<<<< HEAD
+      "md5": "146f0619c1446cb648f55bb6389d58df",
+=======
+      "md5": "4af6bd49875c85dc50f8c7595ffc6cf8",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "summation": "md5"
     },
     {
       "name": "capgaznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666196644",
-      "size": "1683456",
-      "md5": "e961f4dcdb2974876b84fe9a28284a26",
-      "crc32": "125a7665",
-      "sha1": "a3d4fcbc184669f369a4cbb614462d154aadb667",
+<<<<<<< HEAD
+      "mtime": "1666326848",
+      "size": "1703936",
+      "md5": "39ea67b70d0671def5bdc427dc34fab4",
+      "crc32": "74482892",
+      "sha1": "97eada94594feb11cc475897f27606351c8e5627",
+=======
+      "mtime": "1666626959",
+      "size": "1753088",
+      "md5": "c65df081f99db787d9b3e29d7985422f",
+      "crc32": "a46568b4",
+      "sha1": "d3d0fccb53dd8b4cffef0e154b8f28c23af9a2a2",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Metadata"
     },
     {
@@ -13972,9 +14625,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1346,
-  "item_last_updated": 1666196721,
-  "item_size": 94723404,
+<<<<<<< HEAD
+  "files_count": 1365,
+  "item_last_updated": 1666326981,
+  "item_size": 95760692,
+=======
+  "files_count": 1407,
+  "item_last_updated": 1666627102,
+  "item_size": 98256568,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "metadata": {
     "identifier": "capgaznews-2022",
     "collection": [
@@ -13991,21 +14650,18 @@
     "publicdate": "2022-06-24 22:54:14",
     "addeddate": "2022-06-24 22:54:14"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3445768809,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2128040926,
+<<<<<<< HEAD
+  "server": "ia801406.us.archive.org",
+  "uniq": 346872200,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
+=======
+  "server": "ia601406.us.archive.org",
+  "uniq": 357993982,
+  "workable_servers": [
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }
