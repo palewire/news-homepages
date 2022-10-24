@@ -55,7 +55,9 @@ def download_items(
 
     def _save_item(item):
         # Save it locally
-        with open(pathlib.Path(output_path) / f"{item.identifier}.json", "w") as fh:
+        output_obj = pathlib.Path(output_path)
+        output_obj.mkdir(parents=True, exist_ok=True)
+        with open(output_obj / f"{item.identifier}.json", "w") as fh:
             json.dump(item.item_metadata, fh, indent=2)
             time.sleep(0.2)
 
