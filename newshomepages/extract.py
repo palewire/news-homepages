@@ -45,7 +45,7 @@ def download_items(
     language: str = None,
     bundle: str = None,
     batch: str = None,
-    output_path=utils.EXTRACT_DIR / "json",
+    output_path = utils.EXTRACT_DIR / "json",
 ):
     """Download the full list of Internet Archive items as JSON."""
     print(f"Extracting metadata for the Internet Archive collection `{IA_COLLECTION}`")
