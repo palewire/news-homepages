@@ -1,5 +1,5 @@
 {
-  "created": 1666577985,
+  "created": 1666620636,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -14140,31 +14140,93 @@
       "sha1": "93be981f8bc23227d9e3ed18e0ac1c643e9dde56"
     },
     {
+      "name": "newyorker-2022-10-24T10:08:02.142042-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666620494",
+      "size": "45238",
+      "md5": "b56a8e817b2e230e8d6b01ed8be54624",
+      "crc32": "6bfec22d",
+      "sha1": "0307f83f75149cf4b988a5dee08303f3b63adde7",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-24T10:08:02.142042-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666620496",
+      "size": "24767",
+      "md5": "297b778f66b2fac743923c4862b3d712",
+      "crc32": "eb0870b3",
+      "sha1": "b5800b12ffa28bf52959e3deb1280d6babf21e7f",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-24T10:08:02.142042-04:00.jpg",
+      "source": "original",
+      "mtime": "1666620492",
+      "size": "245320",
+      "md5": "ab11ebc3ffaf8398b3f52cfa58f9c431",
+      "crc32": "d7c5991d",
+      "sha1": "34edcc3b67d7109a0159f7a18a0f2b88b2615eda",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-10-24T10:08:02.142042-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666620498",
+      "size": "1486",
+      "md5": "42f65b5ba5f7eb2bbef09aaf23ecd2a9",
+      "crc32": "3568849c",
+      "sha1": "3f5d650784b078c29188264f6b73aa2dd684a420",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-24T10:08:02.142042-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666620500",
+      "size": "113403",
+      "md5": "d860cf892251e75216fbe70b7fed05b4",
+      "crc32": "e71a6905",
+      "sha1": "078170e3e287ca4bd5791cd8ae68601a6c80e167",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-24T10:08:02.142042-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-10-24T10:08:02.142042-04:00.jpg",
+      "mtime": "1666620589",
+      "size": "9263",
+      "md5": "4b2aee9d22405fe215bf0f1f7e9a6b14",
+      "crc32": "f55e0710",
+      "sha1": "16961e59a871b87fe36563b6bec5ba2650168043"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "231b42ac347307bc186a8019d1bd0c7bcffb01ae",
-      "mtime": "1666577944",
-      "size": "289522",
-      "md5": "03333254827fa86ee63d05d5be1018f8",
-      "crc32": "5a502e36",
-      "sha1": "bb68d1a259531079afdddc2d506919de540fddb9",
+      "btih": "e89a0ea4123e178ad9f623c8c82463bb206a8876",
+      "mtime": "1666620609",
+      "size": "290796",
+      "md5": "846ce01096a06a6fc0bc119c5b3a730b",
+      "crc32": "87457d87",
+      "sha1": "1ef6c6e772e52090f0b6eb74c98609606bb8b6ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "007237149131e2287538bc9ebc604ab8",
+      "md5": "50e0c30e8b3e22759644f75dff544e78",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666577795",
-      "size": "1695744",
-      "md5": "4b1424e3fc8a33ef4342712fd4678d81",
-      "crc32": "aadcbe6a",
-      "sha1": "2f73735c13f8ccd813da87613dbb2eca2adcce66",
+      "mtime": "1666620504",
+      "size": "1703936",
+      "md5": "5787eb8538b5ef9258db575fe47b9f1f",
+      "crc32": "0c48e0a7",
+      "sha1": "fa626ade341fdbdd0e603a721d78733d29d189e0",
       "format": "Metadata"
     },
     {
@@ -14178,9 +14240,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1366,
-  "item_last_updated": 1666577944,
-  "item_size": 104368908,
+  "files_count": 1372,
+  "item_last_updated": 1666620609,
+  "item_size": 104817851,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -14198,7 +14260,7 @@
     "addeddate": "2022-06-24 22:58:35"
   },
   "server": "ia601503.us.archive.org",
-  "uniq": 1459509277,
+  "uniq": 1474399319,
   "workable_servers": [
     "ia601503.us.archive.org",
     "ia801503.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1666577980,
+  "created": 1666620804,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/4/items/ottumwacourier-2022",
@@ -15694,31 +15694,93 @@
       "sha1": "88edf1859b110023dbf451b90cb002739ba1000f"
     },
     {
+      "name": "ottumwacourier-2022-10-24T09:10:33.647235-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666620659",
+      "size": "51092",
+      "md5": "992d18db4bfd91ac27951197b212ef9a",
+      "crc32": "81861620",
+      "sha1": "17a74c267aa677a53fe344387f945dcfe3eab8fa",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-10-24T09:10:33.647235-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666620661",
+      "size": "75553",
+      "md5": "4fca219bce8e4e2b130eb0c9edab91b4",
+      "crc32": "29a64b5c",
+      "sha1": "26c8d6c7cbafae64b45170ec1a5c8a42d951312f",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-10-24T09:10:33.647235-05:00.jpg",
+      "source": "original",
+      "mtime": "1666620657",
+      "size": "326993",
+      "md5": "d641240b556b8ff27b55bd87cec765f8",
+      "crc32": "3366bb1a",
+      "sha1": "e802c09be3a46ecf903af15e0eeadf4c30a2cc16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottumwacourier-2022-10-24T09:10:33.647235-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666620663",
+      "size": "1531",
+      "md5": "da4affd57c3e06ecfcb67150751b5469",
+      "crc32": "1593d373",
+      "sha1": "1865928d3f3ed948ed8845c36149628c064dec57",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-10-24T09:10:33.647235-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666620665",
+      "size": "82862",
+      "md5": "6917e24b2d9c524b3817bef79a13555a",
+      "crc32": "afa18343",
+      "sha1": "d50ef70ae548a92a33a4e6b91a4ed339af9f3f11",
+      "format": "JSON"
+    },
+    {
+      "name": "ottumwacourier-2022-10-24T09:10:33.647235-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-10-24T09:10:33.647235-05:00.jpg",
+      "mtime": "1666620743",
+      "size": "9803",
+      "md5": "8b5e7bfa5548e21a244e48ca05b5c597",
+      "crc32": "bb21d932",
+      "sha1": "ec0f6a7cc548354c538d26a9997b89af02ee2753"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f52b6ff3446e73faf1c68b1dfece1758286a9d7",
-      "mtime": "1666577971",
-      "size": "328776",
-      "md5": "88a626fc8dede76448c0c582016247b3",
-      "crc32": "06a27ced",
-      "sha1": "da8dc6f1da5383b179a11d2e377925edbde1d6e2",
+      "btih": "82a52472cf2dfe922213846ca8341151d5378ddd",
+      "mtime": "1666620789",
+      "size": "330079",
+      "md5": "4ecec4cac634692ea799ec1773eab48c",
+      "crc32": "e66c015f",
+      "sha1": "b1ca6cca4ccb0db15f99b2ee077781d557bd7f19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3bbabaea5253ee29d0c850c87266c2af",
+      "md5": "fd023eb396f5a36784f6d42c60490ab0",
       "summation": "md5"
     },
     {
       "name": "ottumwacourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666577868",
-      "size": "1859584",
-      "md5": "f5e0e510fb292bf964112e708cddef9a",
-      "crc32": "15ceeebe",
-      "sha1": "0ef7bc348ef106d6ede229734cdff789760dd14b",
+      "mtime": "1666620669",
+      "size": "1867776",
+      "md5": "a02969077727f03abe92d9872099516f",
+      "crc32": "b909ccfb",
+      "sha1": "931368c61f44b94ed739422f527a3ab943b91d83",
       "format": "Metadata"
     },
     {
@@ -15732,9 +15794,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1512,
-  "item_last_updated": 1666577971,
-  "item_size": 147669937,
+  "files_count": 1518,
+  "item_last_updated": 1666620789,
+  "item_size": 148227266,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -15751,10 +15813,10 @@
     "publicdate": "2022-06-24 22:59:27",
     "addeddate": "2022-06-24 22:59:27"
   },
-  "server": "ia902509.us.archive.org",
-  "uniq": 1209574060,
+  "server": "ia802509.us.archive.org",
+  "uniq": 2064020489,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }
