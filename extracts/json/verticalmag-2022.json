@@ -1,5 +1,5 @@
 {
-  "created": 1666554576,
+  "created": 1666594002,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/verticalmag-2022",
@@ -7724,31 +7724,93 @@
       "sha1": "66f73f0f0abef29faec651080e58ce3bade8bde2"
     },
     {
+      "name": "verticalmag-2022-10-24T02:45:20.735216-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666593924",
+      "size": "32944",
+      "md5": "6085cd87b40e0ead3e3645475dbbb2cf",
+      "crc32": "87ddd1f6",
+      "sha1": "365e54a15e52f7df4dbcc9d6d22edfd6c8d8e60c",
+      "format": "JSON"
+    },
+    {
+      "name": "verticalmag-2022-10-24T02:45:20.735216-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666593925",
+      "size": "35690",
+      "md5": "5164a88fa90de42595df5b8330019b65",
+      "crc32": "3d47a219",
+      "sha1": "82b816e76746a55a317b7e832f1a688ea859e36a",
+      "format": "JSON"
+    },
+    {
+      "name": "verticalmag-2022-10-24T02:45:20.735216-04:00.jpg",
+      "source": "original",
+      "mtime": "1666593922",
+      "size": "287992",
+      "md5": "2b56c6b1ab8ad2b36728b6cef932cc58",
+      "crc32": "56b251c0",
+      "sha1": "a0cc8549d668d9cd61d97debb87252360ece3848",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verticalmag-2022-10-24T02:45:20.735216-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666593927",
+      "size": "1468",
+      "md5": "b150f25ad613beefa5f1feeb5604e529",
+      "crc32": "abbd6703",
+      "sha1": "138abe23f7a276966bc7c792bd60a4c41be2bd52",
+      "format": "JSON"
+    },
+    {
+      "name": "verticalmag-2022-10-24T02:45:20.735216-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666593929",
+      "size": "22288",
+      "md5": "c0b598b1691f21e5c2208b1389dac168",
+      "crc32": "08948cbd",
+      "sha1": "08f5f547d3687779b6a3b96c1fa84b842db7608e",
+      "format": "JSON"
+    },
+    {
+      "name": "verticalmag-2022-10-24T02:45:20.735216-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verticalmag-2022-10-24T02:45:20.735216-04:00.jpg",
+      "mtime": "1666593990",
+      "size": "9698",
+      "md5": "f6579e2ee2b6087b3e0cdd29d544a0ca",
+      "crc32": "9cd03c4d",
+      "sha1": "ad44c68a7e225db258dcd46c8da065e0c2425c4b"
+    },
+    {
       "name": "verticalmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "261b2d6fb143ef89d56b324eac736ab2d8823d72",
-      "mtime": "1666554571",
-      "size": "160554",
-      "md5": "8c10fca9d4e06d21a456a302b55e59fc",
-      "crc32": "f89ec001",
-      "sha1": "3a2b11ae4cf5cd7a909c7a1f4809c23eca42331d",
+      "btih": "212e746e04ffbdc4f9d2b7e1b637325033fdc692",
+      "mtime": "1666593997",
+      "size": "161839",
+      "md5": "3d70139e932a2e40542b38a36845fb70",
+      "crc32": "6c7b27cf",
+      "sha1": "f602c3edb7cd97e03bd7a01a4e2b5e605fbd3fe7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verticalmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44d62ec48975cc62b1a2633fc0f3d047",
+      "md5": "d6f3c8c5d716008bc54771e8ff93242a",
       "summation": "md5"
     },
     {
       "name": "verticalmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666554514",
-      "size": "970752",
-      "md5": "17f8ba00b4e51887bee2244c3737eb3a",
-      "crc32": "3e7889b7",
-      "sha1": "f3fe8afc42c516ad2546f30f8ab072618174bf9d",
+      "mtime": "1666593934",
+      "size": "974848",
+      "md5": "8d460fdc090956a0d7a59e87cd2ec735",
+      "crc32": "b341e8f5",
+      "sha1": "4879898e0c42746f32938919bf3f0b466d34bb14",
       "format": "Metadata"
     },
     {
@@ -7762,9 +7824,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 751,
-  "item_last_updated": 1666554571,
-  "item_size": 44518429,
+  "files_count": 757,
+  "item_last_updated": 1666593997,
+  "item_size": 44913890,
   "metadata": {
     "identifier": "verticalmag-2022",
     "collection": [
@@ -7781,10 +7843,10 @@
     "publicdate": "2022-08-21 03:39:38",
     "addeddate": "2022-08-21 03:39:38"
   },
-  "server": "ia601406.us.archive.org",
-  "uniq": 439921524,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1170004884,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia801406.us.archive.org",
+    "ia601406.us.archive.org"
   ]
 }
