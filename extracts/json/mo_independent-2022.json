@@ -1,5 +1,5 @@
 {
-  "created": 1666573784,
+  "created": 1666616428,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/3/items/mo_independent-2022",
@@ -12968,31 +12968,93 @@
       "sha1": "6191b1ea1d2c157208b97b80c307a033196ce371"
     },
     {
+      "name": "mo_independent-2022-10-24T07:58:38.022895-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666616332",
+      "size": "16163",
+      "md5": "3269f5dc1dbd7cfbda4f4a958ec0c2c4",
+      "crc32": "6e98a3a5",
+      "sha1": "6db1a407cfa953df97d3c99c507670769bac7bb0",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-10-24T07:58:38.022895-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666616333",
+      "size": "13610",
+      "md5": "2f7e894b9eceb68e788a2f10295509b6",
+      "crc32": "e276083d",
+      "sha1": "389b1265996c9aedc49c82dab3222127e05471b4",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-10-24T07:58:38.022895-05:00.jpg",
+      "source": "original",
+      "mtime": "1666616330",
+      "size": "343374",
+      "md5": "4fffca6dcc3428c1ff05a962b15c23f9",
+      "crc32": "835950a6",
+      "sha1": "c49900e417730ad3e0cea4b0cba0afced160b4ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mo_independent-2022-10-24T07:58:38.022895-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666616334",
+      "size": "1539",
+      "md5": "556ba5c05b6f538b375a1e8a63df4f40",
+      "crc32": "10dc8c38",
+      "sha1": "fbb5d551a6e4d179801acc8f929ec0977af6482f",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-10-24T07:58:38.022895-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666616336",
+      "size": "10445",
+      "md5": "b09e84809c6dd8f121fbe6dc781727aa",
+      "crc32": "5caeefd1",
+      "sha1": "2a850e8c2a46ec4b009d8a6195b184cb5089d7bf",
+      "format": "JSON"
+    },
+    {
+      "name": "mo_independent-2022-10-24T07:58:38.022895-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mo_independent-2022-10-24T07:58:38.022895-05:00.jpg",
+      "mtime": "1666616404",
+      "size": "10593",
+      "md5": "673bd0f0f6773deb8cac021251d46178",
+      "crc32": "f13ccc9d",
+      "sha1": "918b7155d82bc11d753637f3fb7a07201d198bee"
+    },
+    {
       "name": "mo_independent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34e20022e1e3a16aec1c82cf3ed631bf988d6428",
-      "mtime": "1666573769",
-      "size": "272167",
-      "md5": "84a83ab4e76548e7c28d0c998b7ce701",
-      "crc32": "134ac837",
-      "sha1": "19adcb989a7e2d480d3586995d4c8b02e47fd980",
+      "btih": "cb5ff2413460fa0da56d7fd73e3c86431fb589ae",
+      "mtime": "1666616417",
+      "size": "273471",
+      "md5": "9df786e2b8fbc3464d9c7020e5f52a80",
+      "crc32": "acf098c2",
+      "sha1": "762c1fbb8b7e80dcae4da963a5d33c94674dbe41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mo_independent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "63dbf87c2ab66ee243da3fc395d7c234",
+      "md5": "940421d22604aa7c47ae84d6e3a5eb62",
       "summation": "md5"
     },
     {
       "name": "mo_independent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666573668",
-      "size": "1589248",
-      "md5": "c10cd808dcceeec465c2817f1c434612",
-      "crc32": "9ee86afa",
-      "sha1": "b0a51fb11301ccf33e2ba726da10317ab4f936aa",
+      "mtime": "1666616340",
+      "size": "1597440",
+      "md5": "517732a90e9b247bedfbdf4e966a93bc",
+      "crc32": "04f565bf",
+      "sha1": "0d5458cba1d46a593d17a937f5b81b9b2cf608e1",
       "format": "Metadata"
     },
     {
@@ -13006,9 +13068,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1255,
-  "item_last_updated": 1666573769,
-  "item_size": 84307364,
+  "files_count": 1261,
+  "item_last_updated": 1666616417,
+  "item_size": 84712584,
   "metadata": {
     "identifier": "mo_independent-2022",
     "collection": [
@@ -13025,10 +13087,10 @@
     "publicdate": "2022-07-04 21:56:43",
     "addeddate": "2022-07-04 21:56:43"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 30331376,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1354537875,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

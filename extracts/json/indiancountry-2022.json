@@ -1,5 +1,5 @@
 {
-  "created": 1666573585,
+  "created": 1666616140,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/indiancountry-2022",
@@ -12558,31 +12558,93 @@
       "sha1": "fa6d187ebe7044efc2687bb7282a3d02ca9e1eb0"
     },
     {
+      "name": "indiancountry-2022-10-24T05:53:26.644470-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666616009",
+      "size": "22018",
+      "md5": "8e5c49dd4cfd296a9cde95802ba5fc26",
+      "crc32": "fe105387",
+      "sha1": "b7fbaccd8d4e7b2ae21a2dfc90040668b29945af",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-24T05:53:26.644470-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666616011",
+      "size": "17799",
+      "md5": "89bf128b4d0551c7600989f90a794745",
+      "crc32": "707105ab",
+      "sha1": "2395b08c0b89e7588d8fa7d06c7a9ca53ef9a6b8",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-24T05:53:26.644470-07:00.jpg",
+      "source": "original",
+      "mtime": "1666616008",
+      "size": "246997",
+      "md5": "bbc48a8eaa0648d3140b38bf5151f893",
+      "crc32": "c39ea64c",
+      "sha1": "ab67843e4804c9c7d4a0c9c8de3c03a1712d8266",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiancountry-2022-10-24T05:53:26.644470-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666616013",
+      "size": "1521",
+      "md5": "99814c9cef53b26cbf223746e4ed0068",
+      "crc32": "a09869eb",
+      "sha1": "7aef62a3aa3fdde8ee6ac1820435ca49d2d9efbf",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-24T05:53:26.644470-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666616014",
+      "size": "16549",
+      "md5": "5bb28cc1c4667dbec31fb37ecf76e5d8",
+      "crc32": "e8628dd1",
+      "sha1": "aea1a99acd8686a1d38e124886939c8c76f62e61",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-24T05:53:26.644470-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indiancountry-2022-10-24T05:53:26.644470-07:00.jpg",
+      "mtime": "1666616083",
+      "size": "9486",
+      "md5": "c0d20be72d984db0fdcc35390579fb8f",
+      "crc32": "c9f7828c",
+      "sha1": "345980db1d141c0722d26e5dfda7b34d46d21cd8"
+    },
+    {
       "name": "indiancountry-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10bc0cea36d244df2a0f687de70cc472da9a5c5b",
-      "mtime": "1666573570",
-      "size": "262089",
-      "md5": "198efefbcb526725f0d918c39ee8e30b",
-      "crc32": "a5c5ff23",
-      "sha1": "94bf02fc482e782f2b2f50e98d9ed9f8e86cc288",
+      "btih": "c1ef1fd60ba5c092603eb5c413402609c9c9ac3c",
+      "mtime": "1666616097",
+      "size": "263386",
+      "md5": "8e27c62191ba9024b060ad34df921ace",
+      "crc32": "c9c97aa7",
+      "sha1": "5c9d7846bf147139a042eb535eac326b5cee19c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiancountry-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f18df5721f9713bdb9ec3a21fd8d5c03",
+      "md5": "6fbd29e5823829ab89cc4a3534380003",
       "summation": "md5"
     },
     {
       "name": "indiancountry-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666573495",
-      "size": "1544192",
-      "md5": "ab92981531759482e5de8767000804cc",
-      "crc32": "28b4353a",
-      "sha1": "f3324703f41011ac8cbf70dff8450bb965456048",
+      "mtime": "1666616020",
+      "size": "1552384",
+      "md5": "a45ab924be428b93601fd65bbcfff0bd",
+      "crc32": "2fdbca0d",
+      "sha1": "17fbfd54d7e78206271da09141127767dae2f7e0",
       "format": "Metadata"
     },
     {
@@ -12596,9 +12658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1216,
-  "item_last_updated": 1666573570,
-  "item_size": 74103546,
+  "files_count": 1222,
+  "item_last_updated": 1666616097,
+  "item_size": 74427405,
   "metadata": {
     "identifier": "indiancountry-2022",
     "collection": [
@@ -12615,10 +12677,10 @@
     "publicdate": "2022-07-09 03:59:22",
     "addeddate": "2022-07-09 03:59:22"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1161109066,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1021387625,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
