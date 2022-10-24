@@ -21,15 +21,15 @@ from . import utils
     "full_page",
     is_flag=True,
     default=False,
-    help="Screenshot the whole page or just a part of it.",
+    help="Screenshot the whole page",
 )
 def cli(
     handle: str,
-    output_dir: str,
-    wait: str,
-    width: str,
-    height: str,
-    full_page: bool,
+    output_dir: str = "./",
+    wait: str = "5000",
+    width: str = "1300",
+    height: str = "1600",
+    full_page: bool = False,
 ):
     """Screenshot the provided homepage."""
     site = utils.get_site(handle)
@@ -75,7 +75,7 @@ def _screenshot(
         page.screenshot(
             quality=80,
             type="jpeg",
-            path=jpeg_file_path,
+            path=str(jpeg_file_path),
             full_page=full_page,
         )
 
