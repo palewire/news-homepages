@@ -618,10 +618,18 @@ def _load_new_page_disable_javascript(
     # If we're saving full-page content, we need to scroll to the bottom to make sure all the images get fetched.
     if full_page:
         print("scrolling to bottom")
-        scroll_height = page.evaluate("document.body.offsetHeight")
-        for i in range(0, scroll_height + 500, 500):
-            page.evaluate("scroll(0, %s)" % i)
+        scroll_height = page.evaluate("document.body.scrollHeight")
+        current_pos = 0
+        current_iter = 0
+        TOTAL_ITERS = 200
+        AMOUNT_TO_SCROLL = 200
+        while (current_pos < scroll_height) or (current_iter > TOTAL_ITERS):
+            current_pos += AMOUNT_TO_SCROLL
+            page.evaluate("scroll(0, %s)" % current_pos)
             time.sleep(1)
+            # for lazy loading sites, the scroll height will change.
+            scroll_height = page.evaluate("document.body.scrollHeight")
+            current_iter += 1
 
     # Prevent Playwright from hovering over a link and highlighting it
     print("Preventing mouse hovers")
