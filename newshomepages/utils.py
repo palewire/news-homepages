@@ -621,13 +621,12 @@ def _load_new_page_disable_javascript(
         scroll_height = page.evaluate("document.body.scrollHeight")
         current_pos = 0
         current_iter = 0
-        TOTAL_ITERS = 200
-        AMOUNT_TO_SCROLL = 200
-        while (current_pos < scroll_height) or (current_iter > TOTAL_ITERS):
-            current_pos += AMOUNT_TO_SCROLL
-            page.evaluate("scroll(0, %s)" % current_pos)
+        max_iterations = 200
+        amount_to_scroll = 200
+        while (current_pos < scroll_height) or (current_iter > max_iterations):
+            current_pos += amount_to_scroll
+            page.evaluate(f"scroll(0, {current_pos})")
             time.sleep(1)
-            # for lazy loading sites, the scroll height will change.
             scroll_height = page.evaluate("document.body.scrollHeight")
             current_iter += 1
 
