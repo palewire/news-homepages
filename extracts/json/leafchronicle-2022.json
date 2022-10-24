@@ -1,5 +1,5 @@
 {
-  "created": 1666487728,
+  "created": 1666573712,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/5/items/leafchronicle-2022",
@@ -4108,31 +4108,155 @@
       "sha1": "2c6778c9b81e4973025f311200fd3eee426e9a5c"
     },
     {
+      "name": "leafchronicle-2022-10-23T08:04:20.466680-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666530267",
+      "size": "20666",
+      "md5": "99e23c6322b0dd4dc20c04c215e1fbe0",
+      "crc32": "cf1b9194",
+      "sha1": "0f717f5249068b1a0d5314d7e357ec38a0fd7cbd",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T08:04:20.466680-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666530269",
+      "size": "35422",
+      "md5": "b9ed1473d713c1d11c6f63959f3a9e1d",
+      "crc32": "8a56825f",
+      "sha1": "17004f61a97cad61d565e0b705f9a2b389413934",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T08:04:20.466680-05:00.jpg",
+      "source": "original",
+      "mtime": "1666530266",
+      "size": "305325",
+      "md5": "103c44b075be2ca05971a388a41d8e87",
+      "crc32": "00bc027b",
+      "sha1": "a638f77f064b9ca8ec8696a40226d201802cd583",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T08:04:20.466680-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666530271",
+      "size": "1549",
+      "md5": "0cbb812da7fc4ca1d189d7007be75504",
+      "crc32": "8a0383e4",
+      "sha1": "4c7eed9558719e26e9e1dbe235d18e949068f67e",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T08:04:20.466680-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666530272",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T08:04:20.466680-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-23T08:04:20.466680-05:00.jpg",
+      "mtime": "1666530338",
+      "size": "9541",
+      "md5": "c2a3a84fbc4b7eb6000aabc6623ae43f",
+      "crc32": "f5e6fa11",
+      "sha1": "b56b19fa1c67d5e1c373b8f8a395e1aa7db492fc"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T20:07:10.904912-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666573635",
+      "size": "20842",
+      "md5": "6754b1639dc36dc3fdd1f87c03503df1",
+      "crc32": "411a83bf",
+      "sha1": "319caf8372bcc78f54fe0f3d15b02db8836b404e",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T20:07:10.904912-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666573636",
+      "size": "30338",
+      "md5": "ea9462685b82d976ea2e42d100f6157a",
+      "crc32": "109d5c48",
+      "sha1": "b09f1c2889e097ec5bb184de2ebfccd6ffa2e060",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T20:07:10.904912-05:00.jpg",
+      "source": "original",
+      "mtime": "1666573634",
+      "size": "283216",
+      "md5": "f806040830abe4c0e93213ab8a3fb9c4",
+      "crc32": "304322d5",
+      "sha1": "e9482b285e2407d92306ff762b3df727d796b77d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T20:07:10.904912-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666573638",
+      "size": "1549",
+      "md5": "f2160255702451c4ebd7c6eaaad136ec",
+      "crc32": "96bd1a6b",
+      "sha1": "dfd87775447c018e2682c023f11e079526fe1101",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T20:07:10.904912-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666573639",
+      "size": "71877",
+      "md5": "ca71702f2b3a7b8489f0fbb181a7b0d6",
+      "crc32": "73d701a3",
+      "sha1": "14bc69958bbfb8f7b28259829554b1a4dbe8676c",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-23T20:07:10.904912-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-23T20:07:10.904912-05:00.jpg",
+      "mtime": "1666573694",
+      "size": "9486",
+      "md5": "efd5b849e8ddf94f89072765cf2c08eb",
+      "crc32": "4aecf516",
+      "sha1": "da2e6535f7b71fe9f9cf753118d9dd1809df6b0c"
+    },
+    {
       "name": "leafchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91b50972ef913061ffc7a2584808cd1d211ccecb",
-      "mtime": "1666487716",
-      "size": "86932",
-      "md5": "1f2c02aea252703160cb73a28c30d25e",
-      "crc32": "5d4570eb",
-      "sha1": "e38606ec7b2fe8de66ca7a5626648ed4154146c1",
+      "btih": "c052e87d790a814439ce55e570b1d6f0b4d9cf2d",
+      "mtime": "1666573700",
+      "size": "89504",
+      "md5": "2f0c829557ee1c38332d843d0903e5b9",
+      "crc32": "bdb876ab",
+      "sha1": "42ffa2c3154a2bdca281136653f1ba0fe1c4fd47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leafchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fda294a3128c5a4ff4a10197b3a8839",
+      "md5": "24136334bcb49934696ecc9723ba4049",
       "summation": "md5"
     },
     {
       "name": "leafchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666487564",
-      "size": "524288",
-      "md5": "9f37a9b28c49e9efc421ba2b4edf766b",
-      "crc32": "bdbe5563",
-      "sha1": "57b5a84306eb0ea33558753543bd1130e6975991",
+      "mtime": "1666573645",
+      "size": "540672",
+      "md5": "2d4bc0d3821504bdaafbae4c98761585",
+      "crc32": "0323d1b7",
+      "sha1": "8ff57ed1a6f06fdc7aa47a2bb8ddc6491e60c855",
       "format": "Metadata"
     },
     {
@@ -4146,9 +4270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 401,
-  "item_last_updated": 1666487716,
-  "item_size": 26429738,
+  "files_count": 413,
+  "item_last_updated": 1666573700,
+  "item_size": 27238707,
   "metadata": {
     "identifier": "leafchronicle-2022",
     "collection": [
@@ -4165,10 +4289,10 @@
     "publicdate": "2022-09-20 22:26:33",
     "addeddate": "2022-09-20 22:26:33"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 734312006,
+  "server": "ia601505.us.archive.org",
+  "uniq": 453755211,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
