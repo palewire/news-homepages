@@ -1,5 +1,5 @@
 {
-  "created": 1666568197,
+  "created": 1666612887,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/22/items/forbes-2022",
@@ -6226,31 +6226,93 @@
       "sha1": "302ce0b7124879c0e945fbd4dacb45244aff6c67"
     },
     {
+      "name": "forbes-2022-10-24T07:59:46.859395-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666612792",
+      "size": "33528",
+      "md5": "887ef4ff2f56ccaad24bd76ea92c7b96",
+      "crc32": "200245cb",
+      "sha1": "60063217a88acde8ee95e2f7031554b785b2012d",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-24T07:59:46.859395-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666612793",
+      "size": "51308",
+      "md5": "8345834067f5f308d6e68bffcf0d53c5",
+      "crc32": "cb56705f",
+      "sha1": "218628ace3e24e19485c12e0529fbb5b65e44d86",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-24T07:59:46.859395-04:00.jpg",
+      "source": "original",
+      "mtime": "1666612790",
+      "size": "209725",
+      "md5": "3dd0f103e35243ceff5fbda4fe3f64e9",
+      "crc32": "4f5ffbbd",
+      "sha1": "ccafcfe92c3c5db2f2b43922b3ea48920880a38f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "forbes-2022-10-24T07:59:46.859395-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666612794",
+      "size": "1456",
+      "md5": "89cbb68f92d485dfdab7bd4d2e240c02",
+      "crc32": "8f71d4fe",
+      "sha1": "93dae0b21ef6303a535a1cb81c6084ac8ee155e5",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-24T07:59:46.859395-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666612796",
+      "size": "34839",
+      "md5": "20f71c2da2f22d236063873fe576ca6f",
+      "crc32": "8828959a",
+      "sha1": "be42143a8bd6d358e93649ca2714e1e07a99b4f2",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-24T07:59:46.859395-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "forbes-2022-10-24T07:59:46.859395-04:00.jpg",
+      "mtime": "1666612866",
+      "size": "8600",
+      "md5": "f01d258c2bea67879f73f36280aab318",
+      "crc32": "fd644190",
+      "sha1": "6ac923bd875bafa652362c479e4a3fbc546880db"
+    },
+    {
       "name": "forbes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d774d13d74c08b4543a6a28854158029a59f9eb",
-      "mtime": "1666568191",
-      "size": "126520",
-      "md5": "6489bf643386515b0c342e80de17b406",
-      "crc32": "c4ed24c5",
-      "sha1": "2cabf5cdefdfe31748361d84b91ecf4a812c1426",
+      "btih": "456fce9b7ff9442639bc2b9751d024b587e7f535",
+      "mtime": "1666612874",
+      "size": "127775",
+      "md5": "fa441415c0120a7e7f65331a81cfd641",
+      "crc32": "176010f7",
+      "sha1": "0db700f1e2ce431c36cfa80d6b72050b5b71c806",
       "format": "Archive BitTorrent"
     },
     {
       "name": "forbes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0492b411e9c957bacc3c324baa0bf93",
+      "md5": "a4f8b760fd05844a5cbbb22130f2b0a6",
       "summation": "md5"
     },
     {
       "name": "forbes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666568122",
-      "size": "778240",
-      "md5": "6f8d3b1d3a9d2bdbbcba6dd3cd52c22d",
-      "crc32": "cc4e7573",
-      "sha1": "1f67424d1ef70a7f100a0f073bb103870094acb0",
+      "mtime": "1666612805",
+      "size": "786432",
+      "md5": "a6ab06cb19b14925570d1bc23d15a3c6",
+      "crc32": "9d4df3ce",
+      "sha1": "c85e9e3a3821d9f5bf2aa29db453c41fcf2d02c1",
       "format": "Metadata"
     },
     {
@@ -6264,9 +6326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 606,
-  "item_last_updated": 1666568191,
-  "item_size": 34148739,
+  "files_count": 612,
+  "item_last_updated": 1666612874,
+  "item_size": 34497642,
   "metadata": {
     "identifier": "forbes-2022",
     "collection": [
@@ -6284,7 +6346,7 @@
     "addeddate": "2022-09-04 11:54:20"
   },
   "server": "ia801404.us.archive.org",
-  "uniq": 347153977,
+  "uniq": 1304950708,
   "workable_servers": [
     "ia801404.us.archive.org",
     "ia601404.us.archive.org"
