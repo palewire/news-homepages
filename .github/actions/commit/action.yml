@@ -1,18 +1,15 @@
 name: Commit
-description: Save the latest screenshots to the repository
+description: Save the latest screenshots
 
 inputs:
-  download-items-command:
-    description: The command to use when downloading items
+  s3-access-key-id:
+    description: An API key with permission to post to Amazon S3
     required: true
-  access-key:
-    description: An API key with permission to post to archive.org
+  s3-secret-access-key:
+    description: An API secret with permission to post to Amazon S3
     required: true
-  secret-key:
-    description: An API secret with permission to post to archive.org
-    required: true
-  collection:
-    description: The identifier of the target archive.org collection
+  s3-bucket-name:
+    description: The identifier of the target Amazon S3 bucket
     required: true
 
 runs:
@@ -22,67 +19,15 @@ runs:
       name: Install Python dependencies
       uses: ./.github/actions/install
 
-    - id: configure-github
-      name: Configure GitHub
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git config pull.rebase false
-      shell: bash
-
-    - id: git-pull
-      name: Git pull
-      run: git pull origin $GITHUB_REF
-      shell: bash
-
     - uses: actions/download-artifact@v3
       with:
         name: screenshots
         path: ./latest-screenshots
 
-    - uses: actions/download-artifact@v3
+    - uses: shallwefootball/s3-upload-action@master
       with:
-        name: archive
-        path: ./newshomepages/sources/latest/
-
-    - id: git-commit
-      name: Commit latest screenshots
-      run: |
-        git add ./latest-screenshots/*.jpg
-        git commit -m "Latest screenshots" --author="palewire <palewire@users.noreply.github.com>"
-        git pull origin $GITHUB_REF
-        git push
-      shell: bash
-
-    - id: git-commit-archive
-      name: Commit latest archive.org urls
-      run: |
-        git stash
-        git pull origin $GITHUB_REF
-        git stash apply
-        git add ./newshomepages/sources/latest
-        git commit -m "Latest archive.org urls" --author="palewire <palewire@users.noreply.github.com>"
-        git pull origin $GITHUB_REF
-        git push
-      shell: bash
-
-    - id: download-items
-      name: Download archive.org items
-      run: pipenv run python -m newshomepages.extract download-items ${{ inputs.download-items-command }}
-      shell: bash
-      env:
-        IA_ACCESS_KEY: ${{ inputs.access-key }}
-        IA_SECRET_KEY: ${{ inputs.secret-key }}
-        IA_COLLECTION:  ${{ inputs.collection }}
-
-    - id: git-commit-items
-      name: Commit archive.org items
-      run: |
-          git stash
-          git pull origin $GITHUB_REF
-          git stash apply
-          git add ./extracts
-          git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>"
-          git pull origin $GITHUB_REF
-          git push
-      shell: bash
+        aws_key_id: ${{ inputs.s3-access-key-id }}
+        aws_secret_access_key: ${{ inputs.s3-secret-access-key }}
+        aws_bucket: ${{ inputs.s3-bucket-name }}
+        source_dir: './latest-screenshots/'
+        destination_dir: "./latest-screenshots/"

@@ -1,0 +1,37 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# {{ language.name }}
+
+The most recent homepages from {{ site_list|length }} news sites in this language.
+
+<div class="latest-parent">
+{% for obj in site_list %}
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
+  <img src="https://palewi.re/news-homepages/latest-screenshots/{{ obj.handle|lower }}.jpg"
+     alt="{{ obj.name }}"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/{{ obj.handle.lower() }}.html">{{ obj.name }}</a></p>
+</div>
+{% endfor %}
+</div>
+
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| ISO code             | {{ language.part1 }}         |
+
+## Site directory
+
+| Site  | Latest screenshot | RSS |
+| :---- | :---------------: | :-- |
+{% for obj in site_list -%}
+|[{{ obj.name }}](https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ obj.handle.lower() }}.xml)|
+{% endfor %}

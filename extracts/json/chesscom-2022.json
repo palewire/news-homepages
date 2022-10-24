@@ -1,13 +1,9 @@
 {
-  "chesscom-2022": {
-    "url": "https://www.chess.com/news",
-    "job_id": "spn2-6db3845bdcd0c649d5212e6c8e5e94b63a4a82b9",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
-  "created": 1665681007,
+<<<<<<< HEAD
+  "created": 1666326960,
+=======
+  "created": 1666627082,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/11/items/chesscom-2022",
@@ -10350,31 +10346,1408 @@
       "sha1": "65d991ba542b10e7985099e36d8dc8a2c07858f3"
     },
     {
+      "name": "chesscom-2022-10-13T23:18:26.909197-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665728326",
+      "size": "26367",
+      "md5": "47a37313226294e4623d5ff816c2ea2f",
+      "crc32": "8c3670d5",
+      "sha1": "8f0d06dc28c2072aca1da52f538d36831fd11112",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-13T23:18:26.909197-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665728328",
+      "size": "17378",
+      "md5": "ad36986e4e41f860a83104653799f5b5",
+      "crc32": "6edc67eb",
+      "sha1": "fcde4b8e8dd89561b454311323540a6a7e040946",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-13T23:18:26.909197-07:00.jpg",
+      "source": "original",
+      "mtime": "1665728324",
+      "size": "219730",
+      "md5": "c2243f73a98876b5b9fe251b4c33ecf0",
+      "crc32": "82f91b21",
+      "sha1": "c3b3d73eee76db5f667e13faf8d80ba20f228a29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-13T23:18:26.909197-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665728330",
+      "size": "1486",
+      "md5": "f3e3fca6d08b0d04ef72769582deee02",
+      "crc32": "4dc6ee0d",
+      "sha1": "1c5594ad3a1407ea0987ca91c47bf9c6ff71b53c",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-13T23:18:26.909197-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665728332",
+      "size": "22591",
+      "md5": "90857842c044918a5d732a7e25c74a0a",
+      "crc32": "bc801e91",
+      "sha1": "e7ec18b34c2c30bc5dc85cb934017a290afe56ba",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-13T23:18:26.909197-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-13T23:18:26.909197-07:00.jpg",
+      "mtime": "1665728388",
+      "size": "9343",
+      "md5": "191f0605b591e2338b803da72f4796d7",
+      "crc32": "42a1c895",
+      "sha1": "4d831a00af1952ebb41dcd585bdafb5a67aa63e5"
+    },
+    {
+      "name": "chesscom-2022-10-14T09:39:14.463598-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665765564",
+      "size": "26270",
+      "md5": "ca864b38bd11f036d97beb78da1d77fe",
+      "crc32": "970b79d2",
+      "sha1": "1dce18bf16c1b3b22225bffe08af4eee43081a47",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-14T09:39:14.463598-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665765566",
+      "size": "17322",
+      "md5": "7c2fa64605574436b3b53ff86eb6614c",
+      "crc32": "e2a840ac",
+      "sha1": "153e09be6cd00c4aa54a25c99bc3c5a20dbddf14",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-14T09:39:14.463598-07:00.jpg",
+      "source": "original",
+      "mtime": "1665765562",
+      "size": "220730",
+      "md5": "313c753bbd9149b2dc096531766de594",
+      "crc32": "7bb48458",
+      "sha1": "72e7704130a4b0e3dadfe6e97d0404a676e27954",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-14T09:39:14.463598-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665765568",
+      "size": "1486",
+      "md5": "01baa4de7e510abf57957cc5674b9fec",
+      "crc32": "55efa59c",
+      "sha1": "1c07a862fcaab64a1f6049194939098b6bb15767",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-14T09:39:14.463598-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665765570",
+      "size": "24679",
+      "md5": "6f9baa40381f1fe118a049a3cd1a9746",
+      "crc32": "d4d83ee5",
+      "sha1": "2c3a4f7de1e9a1bb8925cbb8d768c47270d01f05",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-14T09:39:14.463598-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-14T09:39:14.463598-07:00.jpg",
+      "mtime": "1665765643",
+      "size": "9391",
+      "md5": "5c9720966eb8e4ee3fe78c942f47dbe4",
+      "crc32": "e685f434",
+      "sha1": "30b28a7f7231885b3053c080ebd8a8c3d227ce8b"
+    },
+    {
+      "name": "chesscom-2022-10-14T23:18:48.230518-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665814736",
+      "size": "26218",
+      "md5": "56a22069c5f20a90a841235c1bc2879c",
+      "crc32": "725664aa",
+      "sha1": "15235da45dc5ab169a02b6307201380b6aada3bc",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-14T23:18:48.230518-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665814738",
+      "size": "17277",
+      "md5": "0f846834eb449f7570c8e25c3b0ad9ef",
+      "crc32": "654051e2",
+      "sha1": "c196a6118493642dd4136728c5dea57ccf034638",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-14T23:18:48.230518-07:00.jpg",
+      "source": "original",
+      "mtime": "1665814734",
+      "size": "220835",
+      "md5": "91524c8befd9af5238c137ba752b8d37",
+      "crc32": "51a0cad3",
+      "sha1": "b38927a4bf3599cadddade9e8bd12de91941b564",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-14T23:18:48.230518-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665814740",
+      "size": "1486",
+      "md5": "75c47e23fafa9736abfedd8a8ac0199e",
+      "crc32": "e1fff3f6",
+      "sha1": "a11e836fa38a6d30f20c732467069a3932332707",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-14T23:18:48.230518-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665814742",
+      "size": "22381",
+      "md5": "952029dcb2b15ee14046290860fc7e0d",
+      "crc32": "f2b6654f",
+      "sha1": "d60c5cf228f34763a0a27e5fbddf25ee1c38af03",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-14T23:18:48.230518-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-14T23:18:48.230518-07:00.jpg",
+      "mtime": "1665814809",
+      "size": "9381",
+      "md5": "438ef44a33d0eaf0c9fcb4d5560e0849",
+      "crc32": "4f84a336",
+      "sha1": "7d8e4d60d4af399b82ccfd1a89c05e167b91224a"
+    },
+    {
+      "name": "chesscom-2022-10-15T09:21:34.706290-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665850901",
+      "size": "26217",
+      "md5": "560e8b3a7e6da0d513f2ef8a2e2c9ee4",
+      "crc32": "07568ea3",
+      "sha1": "8fcbf2f2eb6264dc4a807483c6197675beefb897",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-15T09:21:34.706290-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665850903",
+      "size": "17226",
+      "md5": "ab6d903855ff74b825e1df9969c3be7a",
+      "crc32": "94a75c39",
+      "sha1": "e6a1def7beedba7a7fff6f617d3ec8eb40ed1655",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-15T09:21:34.706290-07:00.jpg",
+      "source": "original",
+      "mtime": "1665850899",
+      "size": "204980",
+      "md5": "92cdcc1e17c2554f21d531a0b36e199e",
+      "crc32": "aa3afad8",
+      "sha1": "4bc74d6d8eb04a3069737c204ddeeedd93e7a009",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-15T09:21:34.706290-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665850904",
+      "size": "1484",
+      "md5": "ea2aa0858f30f1b49e656e4e88ac2458",
+      "crc32": "6343d639",
+      "sha1": "60d650e7d089a79f3987eae0f799796f72709614",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-15T09:21:34.706290-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665850906",
+      "size": "22019",
+      "md5": "842a1a83910f2d14d03b17c2a77b235c",
+      "crc32": "ea11158e",
+      "sha1": "f0aa56bd09926a9dde0ceb6c9552f9aa9f0fc8ee",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-15T09:21:34.706290-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-15T09:21:34.706290-07:00.jpg",
+      "mtime": "1665851002",
+      "size": "9220",
+      "md5": "8a1b2c73dae5a22533cce5f7348f75ef",
+      "crc32": "15cd1692",
+      "sha1": "a163e28b25b1b495ab0643ab34b6c515b72fb4cb"
+    },
+    {
+      "name": "chesscom-2022-10-15T22:14:39.586468-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665897288",
+      "size": "26221",
+      "md5": "8a4926d6e51fc9eec7f8887c4f6b7d16",
+      "crc32": "20f4457b",
+      "sha1": "7a06465f1dc0e77e080d3953154b90c6b3269053",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-15T22:14:39.586468-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665897290",
+      "size": "17226",
+      "md5": "ab6d903855ff74b825e1df9969c3be7a",
+      "crc32": "94a75c39",
+      "sha1": "e6a1def7beedba7a7fff6f617d3ec8eb40ed1655",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-15T22:14:39.586468-07:00.jpg",
+      "source": "original",
+      "mtime": "1665897286",
+      "size": "204979",
+      "md5": "30149b061e758d407a1d03548ed066b1",
+      "crc32": "1477d041",
+      "sha1": "276e1fada8a299516b1325f3e3a31e2560002865",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-15T22:14:39.586468-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665897291",
+      "size": "1485",
+      "md5": "4f9792bf30c0077d10640b35124ca509",
+      "crc32": "ce0d1145",
+      "sha1": "968dda95fc0a1ad68d21b806594179b0365a6167",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-15T22:14:39.586468-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665897293",
+      "size": "24788",
+      "md5": "e6c72609984e42555c8f00873f878e4d",
+      "crc32": "0c4de373",
+      "sha1": "a45b129c417f6f0c25be3fc41dc25a2677310399",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-15T22:14:39.586468-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-15T22:14:39.586468-07:00.jpg",
+      "mtime": "1665897353",
+      "size": "9215",
+      "md5": "7d78cfb5dcc4c2b63064e1c236e51e1b",
+      "crc32": "2bf94547",
+      "sha1": "71e7089559aabf2aa6da4015ad578325d479788e"
+    },
+    {
+      "name": "chesscom-2022-10-16T09:44:36.207392-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665938683",
+      "size": "26164",
+      "md5": "225be8e747d415132bdb64d922fdc9ae",
+      "crc32": "5a0483a2",
+      "sha1": "0895d43a3388866ad1fb34650ad83566ce8f154c",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-16T09:44:36.207392-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665938684",
+      "size": "17170",
+      "md5": "48ee880a4b1567d8b5e89b5c0afde499",
+      "crc32": "b9b17ffa",
+      "sha1": "7a049012f086a29be64ea29b7b9d7891a61aa9da",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-16T09:44:36.207392-07:00.jpg",
+      "source": "original",
+      "mtime": "1665938682",
+      "size": "210070",
+      "md5": "fb929e409f16384f3a6674478fa50420",
+      "crc32": "847f3622",
+      "sha1": "9680f4a480466c591718fe0043e48b75d827b802",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-16T09:44:36.207392-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665938686",
+      "size": "1486",
+      "md5": "569c61a1a36f6e2e5aff2e6b0b537db7",
+      "crc32": "850eab28",
+      "sha1": "8c791fcdea00e89b9d3e98afcc6821ae1fa3ef80",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-16T09:44:36.207392-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665938687",
+      "size": "19511",
+      "md5": "7b665e59d3a4d50cc5e178224d4f1040",
+      "crc32": "19e55bfa",
+      "sha1": "7a2f265f03d073c2a6f486c66f5b1a9559971b9c",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-16T09:44:36.207392-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-16T09:44:36.207392-07:00.jpg",
+      "mtime": "1665938744",
+      "size": "9464",
+      "md5": "380512ea1718a02424a31aa245d88a71",
+      "crc32": "8dc1dffa",
+      "sha1": "4e7ea1c9f33f0a729e119e3119ceb322cae69a05"
+    },
+    {
+      "name": "chesscom-2022-10-16T22:31:37.258901-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1665984705",
+      "size": "26169",
+      "md5": "6e41127d8b4de1d7a38a89f50e7e1ce1",
+      "crc32": "bba1fa15",
+      "sha1": "297a5b498a2f86abdc8e1047cd108e0c6ce8d4de",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-16T22:31:37.258901-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1665984706",
+      "size": "17170",
+      "md5": "48ee880a4b1567d8b5e89b5c0afde499",
+      "crc32": "b9b17ffa",
+      "sha1": "7a049012f086a29be64ea29b7b9d7891a61aa9da",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-16T22:31:37.258901-07:00.jpg",
+      "source": "original",
+      "mtime": "1665984703",
+      "size": "210186",
+      "md5": "c2d2f359df8729df0754b17a87317228",
+      "crc32": "01cc59e3",
+      "sha1": "44b67a3a5550bd957d4e388c7c41a9e1febf8e13",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-16T22:31:37.258901-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1665984708",
+      "size": "1485",
+      "md5": "cc93b9955a4ad73082a775afa69ca647",
+      "crc32": "1e6f2458",
+      "sha1": "bbd63a046e46733ba99a3ffe3fb7b0b75cbf8abd",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-16T22:31:37.258901-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1665984710",
+      "size": "23577",
+      "md5": "ef074b709f878c680773350a69f0a308",
+      "crc32": "c76dfb15",
+      "sha1": "97dc0a4ce37e1520451c6cc878ce562c91bc317f",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-16T22:31:37.258901-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-16T22:31:37.258901-07:00.jpg",
+      "mtime": "1665984769",
+      "size": "9466",
+      "md5": "c67bb179df59bea6480dc4d6064d1512",
+      "crc32": "fa42d225",
+      "sha1": "d4bc6b42aa732f12caa567bc2720508eb62ca2d9"
+    },
+    {
+      "name": "chesscom-2022-10-17T09:21:54.032540-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666023724",
+      "size": "26195",
+      "md5": "eea2b44f9a43851fb1a8127f92458d8e",
+      "crc32": "0125e61b",
+      "sha1": "36da807a5decf0d2271aff75a9b55cb37e1b694c",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-17T09:21:54.032540-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666023726",
+      "size": "17176",
+      "md5": "808c1003b226b9098d7644324faa1f35",
+      "crc32": "4e649357",
+      "sha1": "015cd8046787f12ed3a14c10930f66f470065265",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-17T09:21:54.032540-07:00.jpg",
+      "source": "original",
+      "mtime": "1666023722",
+      "size": "231132",
+      "md5": "d4d61a12a80f936dfc1b215af24bc2fe",
+      "crc32": "02c7b747",
+      "sha1": "9f84f1bc1bba46ce3339b7b701258e88c4a52f91",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-17T09:21:54.032540-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666023727",
+      "size": "1485",
+      "md5": "8da91de97da881b4c9c8f069aeacd824",
+      "crc32": "21e17352",
+      "sha1": "3f63805f0cbbd796b58f9e5257f8af17eb7da3c3",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-17T09:21:54.032540-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666023729",
+      "size": "23844",
+      "md5": "f2a6647478abe5fd893249cb6b727c15",
+      "crc32": "06bc5fe1",
+      "sha1": "8ddcca73ae00dc8258fd85074cb2e095d64ca04c",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-17T09:21:54.032540-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-17T09:21:54.032540-07:00.jpg",
+      "mtime": "1666023814",
+      "size": "9626",
+      "md5": "ff95bb9e4a9cb49721dc9086f63b34e8",
+      "crc32": "4c0d5009",
+      "sha1": "b57d4ca5f82dac1cd8f51e0a25f9872ffd2e5141"
+    },
+    {
+      "name": "chesscom-2022-10-17T21:40:14.859226-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666068023",
+      "size": "26197",
+      "md5": "2aea0ba4199791b10c665ca403d34416",
+      "crc32": "f5985613",
+      "sha1": "83b5952441edf5552906318183bfd540788d0e7a",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-17T21:40:14.859226-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666068025",
+      "size": "17176",
+      "md5": "808c1003b226b9098d7644324faa1f35",
+      "crc32": "4e649357",
+      "sha1": "015cd8046787f12ed3a14c10930f66f470065265",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-17T21:40:14.859226-07:00.jpg",
+      "source": "original",
+      "mtime": "1666068021",
+      "size": "231293",
+      "md5": "917f2a738178c77dfe3b4eb7bd1c3589",
+      "crc32": "b346005f",
+      "sha1": "4a3f083ad90dc134698338891f46e63ec7f067a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-17T21:40:14.859226-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666068029",
+      "size": "1484",
+      "md5": "9c0ead6316b6e9424b76a0c75c9b3240",
+      "crc32": "70d7ae53",
+      "sha1": "90a310e2cb531869642001b57a954ed9f76c7ab4",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-17T21:40:14.859226-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666068034",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-17T21:40:14.859226-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-17T21:40:14.859226-07:00.jpg",
+      "mtime": "1666068099",
+      "size": "9618",
+      "md5": "78b7057d2375781469c635f7854490ec",
+      "crc32": "a329d319",
+      "sha1": "dd97ec058fb7a45a210cab95fad7658592c8cb25"
+    },
+    {
+      "name": "chesscom-2022-10-18T09:22:34.965023-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666110190",
+      "size": "26187",
+      "md5": "eb94c81083e0d2aec2c5d2a108102cb9",
+      "crc32": "4f6fb180",
+      "sha1": "b3d95593f08cfd71d1d053cc731fc3d5027a0f15",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-18T09:22:34.965023-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666110194",
+      "size": "17141",
+      "md5": "03b55ed51264eeb3d2f40708181b03b1",
+      "crc32": "dc1c082c",
+      "sha1": "f88fb78c01ec5a14ffe1ba470ff1e74010c449ca",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-18T09:22:34.965023-07:00.jpg",
+      "source": "original",
+      "mtime": "1666110183",
+      "size": "218756",
+      "md5": "a38e3590baca6ba76f320c79f557b731",
+      "crc32": "3c80e739",
+      "sha1": "c8cedbaa1f89bf45068a0fba768887b6ba3304ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-18T09:22:34.965023-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666110196",
+      "size": "1486",
+      "md5": "1e213798b34f58cd066b41f2f6db0e07",
+      "crc32": "7d123951",
+      "sha1": "fc7613349333e5169cf9f8357346525d41c243e2",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-18T09:22:34.965023-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666110199",
+      "size": "206",
+      "md5": "d0c78c5bbf9433fa61d6b140424f6b0f",
+      "crc32": "1f9222f0",
+      "sha1": "c4b7715d305cbe7763ca731d9901ba18bea0b746",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-18T09:22:34.965023-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-18T09:22:34.965023-07:00.jpg",
+      "mtime": "1666110273",
+      "size": "9418",
+      "md5": "b7439ece75c0cb0ab6724f2ad58d6ead",
+      "crc32": "2e61ce3c",
+      "sha1": "9499dd5e76a68392fe83403374f607240b63e098"
+    },
+    {
+      "name": "chesscom-2022-10-18T21:37:06.814632-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666154234",
+      "size": "26191",
+      "md5": "3a0b3888a3e8322e56dfc25dbe4fb2a3",
+      "crc32": "e243d777",
+      "sha1": "68435f8da07892adbb83227da87238986bf7927e",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-18T21:37:06.814632-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666154236",
+      "size": "17141",
+      "md5": "03b55ed51264eeb3d2f40708181b03b1",
+      "crc32": "dc1c082c",
+      "sha1": "f88fb78c01ec5a14ffe1ba470ff1e74010c449ca",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-18T21:37:06.814632-07:00.jpg",
+      "source": "original",
+      "mtime": "1666154233",
+      "size": "218899",
+      "md5": "5693c89b2ff77b118517db60e562c31e",
+      "crc32": "06f37619",
+      "sha1": "5c82ac31ebd4f57779caa77df87ad5aa073344b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-18T21:37:06.814632-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666154238",
+      "size": "1486",
+      "md5": "0013650333378a60f80a7c641b63b9af",
+      "crc32": "81952fe4",
+      "sha1": "7ec7c5af8c5ad2a477248357fd507bef6a727463",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-18T21:37:06.814632-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666154239",
+      "size": "23509",
+      "md5": "777407b53fa2d6982e684748985ed93b",
+      "crc32": "c8bfaddb",
+      "sha1": "f86a8bf1dfb7f767eb2af9db58e659c10f5ced4d",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-18T21:37:06.814632-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-18T21:37:06.814632-07:00.jpg",
+      "mtime": "1666174163",
+      "size": "9416",
+      "md5": "66de725cf74221b94fc50d844a3095ff",
+      "crc32": "dc4ac035",
+      "sha1": "72655a785baf81aaf5792c83bf51fdc277a0050f"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666196777",
+      "size": "26156",
+      "md5": "229424b7631d35e88723e13fdaaf18e2",
+      "crc32": "d604f0d0",
+      "sha1": "2b2bdf46cd3f7543bccdc7e56d3de55b3b5ba88b",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666196779",
+      "size": "17131",
+      "md5": "634c9fae25a170609c492008eab011a9",
+      "crc32": "bf1f8d04",
+      "sha1": "0b30d91a7263879455727027e390387033b5ddf7",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.jpg",
+      "source": "original",
+      "mtime": "1666196775",
+      "size": "230666",
+      "md5": "7f56611c1b162094879ff4315108f124",
+      "crc32": "fc9fb62e",
+      "sha1": "a2e9705c7ccde17fb14e9fb0ce5028b31ed6884e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666196781",
+      "size": "1486",
+      "md5": "040321efe8b4f8f81a067ef5bc16d0ae",
+      "crc32": "37574fed",
+      "sha1": "69c1cd4805702ea37d18493fe0ef26b21c570942",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666196783",
+      "size": "12323",
+      "md5": "94e2cb5b68108a7c3ae2649e89e27e89",
+      "crc32": "3b17a2b2",
+      "sha1": "c3feec8d0197e3a1d4594187f8c48ab9f55f5679",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T09:26:08.310917-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-19T09:26:08.310917-07:00.jpg",
+      "mtime": "1666208820",
+      "size": "9546",
+      "md5": "6f48ef9154ed7f33d1460197e7b04493",
+      "crc32": "e3e74efe",
+      "sha1": "75644dbd62c5cf4bed0445fb646c5be0213f3635"
+    },
+    {
+      "name": "chesscom-2022-10-19T22:32:08.256734-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666243935",
+      "size": "26176",
+      "md5": "a785f78bb5f4e78bbd1fa22ee582673e",
+      "crc32": "1f07fcaf",
+      "sha1": "16296036eba7fd093bd49c2d45d79ebd7fd882b0",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T22:32:08.256734-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666243936",
+      "size": "17135",
+      "md5": "1f9e56aead95538e4ec9618024d243b1",
+      "crc32": "c29edb9b",
+      "sha1": "558791b051c3038b1a62ab249eed85e09e8553cc",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T22:32:08.256734-07:00.jpg",
+      "source": "original",
+      "mtime": "1666243933",
+      "size": "232120",
+      "md5": "72411349f0fe0d1d04ab86dba8d75084",
+      "crc32": "27ce7606",
+      "sha1": "24fe9fe0a6708b6925d25e50216b24a5f5e22ddb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-19T22:32:08.256734-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666243938",
+      "size": "1484",
+      "md5": "86a0e85a55885d967d67cb11f4d0caaa",
+      "crc32": "cac14170",
+      "sha1": "3f15e362c85160358f2c744d7aa10a8cfb4b0d12",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T22:32:08.256734-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666243940",
+      "size": "14608",
+      "md5": "50d5c42926f4ba314438c8d646ae3f79",
+      "crc32": "33529b0a",
+      "sha1": "d663670e5f07892dbfc987767eb872f81a77635f",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-19T22:32:08.256734-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-19T22:32:08.256734-07:00.jpg",
+      "mtime": "1666244018",
+      "size": "9652",
+      "md5": "0259fc2f9c7f530a0c98b9410ad2b0f1",
+      "crc32": "ba85d651",
+      "sha1": "83bab48911914eb43b6eebc4b5bf79848e3a4a9e"
+    },
+    {
+      "name": "chesscom-2022-10-20T09:21:30.089640-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666282902",
+      "size": "26177",
+      "md5": "410d78838f61fa178299e56858bc3b2d",
+      "crc32": "b8beb3be",
+      "sha1": "a14c4dee766c29f333e560874465dc1c68252953",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-20T09:21:30.089640-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666282904",
+      "size": "17155",
+      "md5": "43c69882238f9195a9470b6ddd486f24",
+      "crc32": "dc0c8c5d",
+      "sha1": "b952596846f5a482814784497e56865ea9d583c7",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-20T09:21:30.089640-07:00.jpg",
+      "source": "original",
+      "mtime": "1666282900",
+      "size": "220250",
+      "md5": "b30a8376311f49b9f468c789d231964e",
+      "crc32": "bccfec55",
+      "sha1": "51035c9af53ff2f82c58ea9435c26d75021eeb58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-20T09:21:30.089640-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666282906",
+      "size": "1486",
+      "md5": "3141802d95da2205fae5cbd0e4d749ed",
+      "crc32": "5344ead0",
+      "sha1": "d4bf5a3b72956f73e1d773f94252e6a07c2995f5",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-20T09:21:30.089640-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666282907",
+      "size": "18013",
+      "md5": "00bdb72019d1ab9b44a4dcf0b2923ccc",
+      "crc32": "15c65924",
+      "sha1": "92eb9f2acf131361e2e8f1a4ebe33f80ecb52fff",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-20T09:21:30.089640-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-20T09:21:30.089640-07:00.jpg",
+      "mtime": "1666282979",
+      "size": "9378",
+      "md5": "ec120b8146f9b75976a4c4a2bb562fa7",
+      "crc32": "3af13fdb",
+      "sha1": "6cce9d5192985156836d4c42871268b69f5c8a5d"
+    },
+    {
+      "name": "chesscom-2022-10-20T21:33:55.009401-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666326855",
+      "size": "26214",
+      "md5": "9abb8feff9abfef8c9d49ed89f28b9d7",
+      "crc32": "6391d1e8",
+      "sha1": "057ca7b86a91bc22c59e6388b99943560da0ff7a",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-20T21:33:55.009401-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666326857",
+      "size": "17172",
+      "md5": "ea550398915a9eee6fb27bb17eb3a98b",
+      "crc32": "d5be2c74",
+      "sha1": "5b837ab6107622bbf2cb3dca6d5aab4c2dee1d89",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-20T21:33:55.009401-07:00.jpg",
+      "source": "original",
+      "mtime": "1666326853",
+      "size": "222840",
+      "md5": "99fd02e29713e8a14f849710f6baa433",
+      "crc32": "4afc9be3",
+      "sha1": "01bf034b88260e20ef8461f934d51997ba3e21da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-20T21:33:55.009401-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666326858",
+      "size": "1486",
+      "md5": "1f8e1cfb73c7d125c62ec08b7d5ce984",
+      "crc32": "44ffc1e6",
+      "sha1": "e2125e078a503dc1ed642a72cd5e5323b2498d8c",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-20T21:33:55.009401-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666326860",
+      "size": "250",
+      "md5": "32f74fe1ddea5f35fe0282ea1451e8f0",
+      "crc32": "57f85451",
+      "sha1": "101ad49ea65ce7b9ae0e5374ba35dc7522e918ca",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-20T21:33:55.009401-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-20T21:33:55.009401-07:00.jpg",
+      "mtime": "1666326925",
+      "size": "9323",
+      "md5": "8240c4559838ce822b67bc1a5015aef2",
+      "crc32": "db06d603",
+      "sha1": "3f5f2b1d9ccaa3e5a3c5cf38e82e3e0986138433"
+    },
+    {
+<<<<<<< HEAD
       "name": "chesscom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5510b5d6acd09b449c70a4326f64f19a55ef6fc7",
-      "mtime": "1665677506",
-      "size": "210987",
-      "md5": "bb5923a127edd53987f7d82dadfb110f",
-      "crc32": "08beca24",
-      "sha1": "2e6503c0e2a101758f6b244110f535c1af7403ef",
+      "btih": "f45ebe6d01a018cb5319ee927c18b72f617ffd3a",
+      "mtime": "1666326950",
+      "size": "229846",
+      "md5": "d226eb7d222a467ae3f9e29267670e6e",
+      "crc32": "c454f6c9",
+      "sha1": "4def6c0211e3d70b57207117e95259fda0da57bc",
+=======
+      "name": "chesscom-2022-10-21T09:48:30.645268-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666370919",
+      "size": "26173",
+      "md5": "4b262a0d6a0b7f5f562751c90890e387",
+      "crc32": "6ed8af2e",
+      "sha1": "3a44740101dc9eb5dd7e25865d4815c440782949",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-21T09:48:30.645268-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666370920",
+      "size": "17143",
+      "md5": "fa3ccb64d712b1c2556b4ebb8eb078a2",
+      "crc32": "a474b21e",
+      "sha1": "14a35a16623c097d572828b9243e1e981ac53d9d",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-21T09:48:30.645268-07:00.jpg",
+      "source": "original",
+      "mtime": "1666370917",
+      "size": "220945",
+      "md5": "c323e7fade1ea269dafe6169e2fe1342",
+      "crc32": "270f84e1",
+      "sha1": "b523b27a3bc6784429fa159a77524ca82d44aee5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-21T09:48:30.645268-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666370922",
+      "size": "1486",
+      "md5": "2726e2de284bec8ba5fa253cb6de32fe",
+      "crc32": "894e96e9",
+      "sha1": "c2152ac39fe023d80730c501854168f6f30b5cb0",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-21T09:48:30.645268-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666370923",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-21T09:48:30.645268-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-21T09:48:30.645268-07:00.jpg",
+      "mtime": "1666371022",
+      "size": "9402",
+      "md5": "c2d40a2a2df043773484399df1a2f5e8",
+      "crc32": "2a20dc5b",
+      "sha1": "7b9a1362bc590fabbc122f4da1548d3f06ecee5d"
+    },
+    {
+      "name": "chesscom-2022-10-21T21:27:15.175750-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666412846",
+      "size": "26195",
+      "md5": "ba8570881f9f5bc6e93f7e0dceb0e893",
+      "crc32": "d8d135da",
+      "sha1": "7d098e1ffd540f50fbfb6743343cc42466bf21b1",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-21T21:27:15.175750-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666412848",
+      "size": "17190",
+      "md5": "14c76164a5fc70ef923a014653b5ff87",
+      "crc32": "5d710a72",
+      "sha1": "c2ce9d50b8f25a09db61f4919e20ff9d9b0e4a6f",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-21T21:27:15.175750-07:00.jpg",
+      "source": "original",
+      "mtime": "1666412844",
+      "size": "227026",
+      "md5": "38ad8c34964440b83c69d2452775ef04",
+      "crc32": "83f1c620",
+      "sha1": "c87c19cafd540244010cbe4e855a2bb6924c933d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-21T21:27:15.175750-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666412849",
+      "size": "1486",
+      "md5": "b58aea0a0f461092c340bbb69e8aad47",
+      "crc32": "de4c8254",
+      "sha1": "c0f745babf8248beabd77b33a9f89f28d501a242",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-21T21:27:15.175750-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-21T21:27:15.175750-07:00.jpg",
+      "mtime": "1666412908",
+      "size": "9435",
+      "md5": "d90ad9b9a596bb4ab7ab51219aac986b",
+      "crc32": "3a98bb51",
+      "sha1": "4322ea6ae1c5f15c9ead9f71d1a04550ca5b9b18"
+    },
+    {
+      "name": "chesscom-2022-10-22T08:48:11.338135-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666453721",
+      "size": "26150",
+      "md5": "e85af24981c3f2e1d7cf1ed67e135b15",
+      "crc32": "fc59c7f1",
+      "sha1": "a898ba9c867eb35e4362fa894115b231407c8760",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-22T08:48:11.338135-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666453722",
+      "size": "17170",
+      "md5": "4bc9adca6fb1f20726aa7b9c2d3640dc",
+      "crc32": "8f193f04",
+      "sha1": "26fcde055ad398c1bbe95dd47aee5e23a20a06a7",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-22T08:48:11.338135-07:00.jpg",
+      "source": "original",
+      "mtime": "1666453719",
+      "size": "213438",
+      "md5": "479442d0861d42d196a7e8aa4838b34b",
+      "crc32": "6d681784",
+      "sha1": "af301a48f5b7472f6245573e54f480357f7e492b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-22T08:48:11.338135-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666453724",
+      "size": "1486",
+      "md5": "466a98e9a672db1c821ee77a21fb5a9f",
+      "crc32": "3c8be757",
+      "sha1": "c5e03b6af239ab8df32a1a9ae843d32a721b5a6e",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-22T08:48:11.338135-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666453726",
+      "size": "24976",
+      "md5": "e31f3b2f6f157b6428ae433e080eb4ec",
+      "crc32": "ef17dace",
+      "sha1": "cb8b95a9cf5d2af4189c5454dfb10ac7645ab994",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-22T08:48:11.338135-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-22T08:48:11.338135-07:00.jpg",
+      "mtime": "1666453784",
+      "size": "9376",
+      "md5": "77ae8eecf5d58810f5d62891fe16209b",
+      "crc32": "be4c4c88",
+      "sha1": "3223bf2c9389a685d39bd6b8458a003be7afa6bb"
+    },
+    {
+      "name": "chesscom-2022-10-22T21:29:22.318925-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666499370",
+      "size": "26151",
+      "md5": "547956d8d9da0603aad3a7c0b8b3819c",
+      "crc32": "db26ec85",
+      "sha1": "bb49789e04e12992037ff2c4e87381e80cc72301",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-22T21:29:22.318925-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666499372",
+      "size": "17170",
+      "md5": "4bc9adca6fb1f20726aa7b9c2d3640dc",
+      "crc32": "8f193f04",
+      "sha1": "26fcde055ad398c1bbe95dd47aee5e23a20a06a7",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-22T21:29:22.318925-07:00.jpg",
+      "source": "original",
+      "mtime": "1666499368",
+      "size": "213467",
+      "md5": "bee82e963d4501c72c88de7bdbc23272",
+      "crc32": "24403a64",
+      "sha1": "fded90d8d7faef9ba852fad8f94b13791e0d88f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-22T21:29:22.318925-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666499374",
+      "size": "1485",
+      "md5": "9896708282e2f6b610797fc47ede0f45",
+      "crc32": "68e025b3",
+      "sha1": "32fb388b4b4fa187dc9cef7021e6404d3b70822c",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-22T21:29:22.318925-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666499376",
+      "size": "22180",
+      "md5": "b066d04419aeee01c3faf60a80f96569",
+      "crc32": "3d41ffea",
+      "sha1": "5f06ef663c63b996ed3020c8f689093b7af6af02",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-22T21:29:22.318925-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-22T21:29:22.318925-07:00.jpg",
+      "mtime": "1666499451",
+      "size": "9371",
+      "md5": "090311acf45dfcbb5b81ee3ecb4ccf7e",
+      "crc32": "2a727956",
+      "sha1": "25a0c7e1dd4fbad19b8bfdf6253104335d62d2d0"
+    },
+    {
+      "name": "chesscom-2022-10-23T09:57:12.281290-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666544240",
+      "size": "26141",
+      "md5": "fb5cb13151f5bb81e042937a3e0dd2bc",
+      "crc32": "a25cc8c0",
+      "sha1": "9193a43a08b0221073e40bd82da5fa3d399ed5c3",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-23T09:57:12.281290-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666544242",
+      "size": "17197",
+      "md5": "c37ccc47628eb625ea02e42aaee8b312",
+      "crc32": "c5870905",
+      "sha1": "950e914ff03567c2d4ef67f223daaca95f27f4ad",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-23T09:57:12.281290-07:00.jpg",
+      "source": "original",
+      "mtime": "1666544239",
+      "size": "232763",
+      "md5": "805b2770181dee88d8d4c4f4d643d8d8",
+      "crc32": "632af702",
+      "sha1": "0d11852bbdfd5fd34d2a6b2a14334d7f084e7302",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-23T09:57:12.281290-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666544243",
+      "size": "1481",
+      "md5": "9508d6a056ff59e6a6c10e55a5cdd126",
+      "crc32": "a80f8862",
+      "sha1": "3c9f309819452afcca40bd4e87c3d822c5c61e4f",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-23T09:57:12.281290-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666544245",
+      "size": "102",
+      "md5": "74f05659c4357cf1378545d02db7cc9e",
+      "crc32": "5f521c96",
+      "sha1": "24c93b22b0d7a3e83408ace09d401627a8337dad",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-23T09:57:12.281290-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-23T09:57:12.281290-07:00.jpg",
+      "mtime": "1666544310",
+      "size": "9609",
+      "md5": "f2f1bdada9f46624ead3c8aa3bde7840",
+      "crc32": "12102388",
+      "sha1": "5fdcf92d37d2a3acb97d96f3bd944230c2de64ee"
+    },
+    {
+      "name": "chesscom-2022-10-23T21:31:49.080101-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666585917",
+      "size": "26145",
+      "md5": "1f2091d65393f666997236387ba4f950",
+      "crc32": "fbfa5d32",
+      "sha1": "fe34037d6388d080aac8d7f9d33c16088d65f770",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-23T21:31:49.080101-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666585919",
+      "size": "17197",
+      "md5": "c37ccc47628eb625ea02e42aaee8b312",
+      "crc32": "c5870905",
+      "sha1": "950e914ff03567c2d4ef67f223daaca95f27f4ad",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-23T21:31:49.080101-07:00.jpg",
+      "source": "original",
+      "mtime": "1666585916",
+      "size": "233821",
+      "md5": "e35e7eeff4fbb210bb654e9136b217b5",
+      "crc32": "7c2e1023",
+      "sha1": "96a1a6a78a729957b6a8c136bfbf13b6ed3b1ac7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-23T21:31:49.080101-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666585921",
+      "size": "1486",
+      "md5": "bd2c1b18d033742c452a1aaa6eeed0fb",
+      "crc32": "645d519e",
+      "sha1": "14e04d9f56bc5cbbe0fa81c256c7bd7430d992c8",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-23T21:31:49.080101-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666585922",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-23T21:31:49.080101-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-23T21:31:49.080101-07:00.jpg",
+      "mtime": "1666585981",
+      "size": "9604",
+      "md5": "6ac407ad93c68f11c2ad9ce6e70c0a4a",
+      "crc32": "f4030bef",
+      "sha1": "e96ff1245065de684092f6453d8a7d15a9f0f67c"
+    },
+    {
+      "name": "chesscom-2022-10-24T08:56:11.154902-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666626983",
+      "size": "26147",
+      "md5": "16c88ec46b8d97706273c5009bccc1be",
+      "crc32": "33970def",
+      "sha1": "acfc9c0919c21116b6da43fde5989735e1347e28",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-24T08:56:11.154902-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666626984",
+      "size": "17197",
+      "md5": "c37ccc47628eb625ea02e42aaee8b312",
+      "crc32": "c5870905",
+      "sha1": "950e914ff03567c2d4ef67f223daaca95f27f4ad",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-24T08:56:11.154902-07:00.jpg",
+      "source": "original",
+      "mtime": "1666626981",
+      "size": "233937",
+      "md5": "9d9666cd9fbb3fa89bcd48c7f1bc9e79",
+      "crc32": "3da1e89e",
+      "sha1": "29f34a59feeefb8e5e2a79feacfbc0197c37f6ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-24T08:56:11.154902-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666626987",
+      "size": "1486",
+      "md5": "f0c37124e2edc7a6f6fb95f75e0130bf",
+      "crc32": "b2f233f9",
+      "sha1": "e71408906c48ddddd6f7589ac130ea22bac793f7",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-24T08:56:11.154902-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666626989",
+      "size": "11875",
+      "md5": "69c231fcd035c48ad721426be2733b7f",
+      "crc32": "87dab43e",
+      "sha1": "aec61b86f0a5fd9bc1b2a80bce42659e0519c5de",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-24T08:56:11.154902-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesscom-2022-10-24T08:56:11.154902-07:00.jpg",
+      "mtime": "1666627060",
+      "size": "9596",
+      "md5": "b12ce824e5001a20f46731656603cb2a",
+      "crc32": "3bb121f4",
+      "sha1": "129aede1415d93e6930db9eba3548ee5de9a6b0b"
+    },
+    {
+      "name": "chesscom-2022_archive.torrent",
+      "source": "metadata",
+      "btih": "6112cb7622aab9f3c8b220f8fb41ef0fcbaeaf80",
+      "mtime": "1666627071",
+      "size": "238441",
+      "md5": "f4e5f919fb9903c79814c1d8607bc1f2",
+      "crc32": "68ca2e85",
+      "sha1": "6c113e5b7b33af4e71501f35bab8191ec00c4031",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesscom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c4da123b91d37c5a392aa8188c97b5c",
+<<<<<<< HEAD
+      "md5": "c9d8d0e609c89fb72730de4b5d08a118",
+=======
+      "md5": "a3fde127c34936c736a59b5b592e7dbe",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "summation": "md5"
     },
     {
       "name": "chesscom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1665677422",
-      "size": "1269760",
-      "md5": "26099d534dd449263718c3a02126f706",
-      "crc32": "8f947122",
-      "sha1": "1d50234b9ddb9b6c5bf1fa4ca2dc7811863d3aa9",
+<<<<<<< HEAD
+      "mtime": "1666326865",
+      "size": "1380352",
+      "md5": "1f2c8b3b53db9c7340f28a273e0f1f1f",
+      "crc32": "18f54869",
+      "sha1": "f0150b5fe9c089ba16e40c0ba08821f9b0667ad3",
+=======
+      "mtime": "1666626994",
+      "size": "1437696",
+      "md5": "c36beb1ceef0cc2d06d47aa6067820cb",
+      "crc32": "bc4b55a9",
+      "sha1": "c262215f9a3d75c5e86e44ca3ba1c385d8a8ef0b",
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Metadata"
     },
     {
@@ -10388,9 +11761,15 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1003,
-  "item_last_updated": 1665677506,
-  "item_size": 53762866,
+<<<<<<< HEAD
+  "files_count": 1093,
+  "item_last_updated": 1666326950,
+  "item_size": 58257137,
+=======
+  "files_count": 1134,
+  "item_last_updated": 1666627071,
+  "item_size": 60338165,
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "metadata": {
     "identifier": "chesscom-2022",
     "collection": [
@@ -10407,10 +11786,18 @@
     "publicdate": "2022-07-20 11:23:26",
     "addeddate": "2022-07-20 11:23:26"
   },
+<<<<<<< HEAD
+  "server": "ia802507.us.archive.org",
+  "uniq": 850548214,
+  "workable_servers": [
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
+=======
   "server": "ia902507.us.archive.org",
-  "uniq": 1815389731,
+  "uniq": 1385570739,
   "workable_servers": [
     "ia902507.us.archive.org",
     "ia802507.us.archive.org"
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

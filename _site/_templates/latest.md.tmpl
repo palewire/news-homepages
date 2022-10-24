@@ -1,0 +1,19 @@
+```{include} _templates/nav.html
+```
+
+# Latest screenshots
+
+The most recent homepages captured from {{ site_list|length }} news sites.
+
+<div class="latest-parent">
+{% for obj in site_list %}
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
+  <img src="https://palewi.re/news-homepages/latest-screenshots/{{ obj.handle|lower }}.jpg"
+     alt="{{ obj.name }}"
+     loading="lazy">
+ </a>
+ <p><a href="./sites/{{ obj.handle.lower() }}.html">{{ obj.name }}</a></p>
+</div>
+{% endfor %}
+</div>

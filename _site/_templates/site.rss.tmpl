@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>{{ obj.name }}</title>
+ <description>The latest screenshots of the {{ obj.name }} homepage at {{ obj.url }}</description>
+ <link>https://homepages.news</link>
+ <lastBuildDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S %z") }}</lastBuildDate>
+ <pubDate>{{ now.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
+ {% for file in file_list %}
+ <item>
+  <title>{{ file.local_time.strftime("%-I:%M %p") }} local time on {{ file.local_time.strftime("%B %d, %Y") }}</title>
+  <link>{{ file.url }}</link>
+  <pubDate>{{ file.mtime.strftime("%a, %d %b %Y %H:%M:%S %z") }}</pubDate>
+  <enclosure url="{{ file.url }}" length="{{ file.size }}" type="image/jpeg" />
+ </item>
+ {% endfor %}
+</channel>
+</rss>

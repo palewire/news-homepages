@@ -1,0 +1,168 @@
+```{include} _templates/nav.html
+```
+
+# Accessibility ranking
+
+As part of its archiving routine, our system conducts routine accessibility audits using Google's open-source [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) tool. [Accessibility](https://web.dev/what-is-accessibility/) is a measurement of how legible and useful a page is for users, including those with disabilities like visual impairment.
+
+This page ranks the {{ site_list|length }} sites with 10 or more observations over the last seven days by median [accessibility score](https://web.dev/lighthouse-accessibility/). The value is the weighted average of a basket of metrics gathered by Lighthouse. Scores of 90 or greater are considered good. Scores of 50 to 89 are described as needing improvement. Scores below 50 are rated as poor.
+
+This past week the median across all sites was {{ median|int }}. Here's the distribution of scores.
+
+<div id="vis" style="width: 100%; height: 250px;"></div>
+  <script>
+    const spec = {
+  "config": {
+    "view": {"strokeWidth": 0},
+    "padding": {"top": 15, "bottom": 15, "left": 10, "right": 10},
+    "background": "#ffffff",
+    "title": {
+      "anchor": "start",
+      "font": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "color": "#000000",
+      "fontSize": 20,
+      "fontWeight": "bold",
+      "lineHeight": 20,
+      "subtitleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "subtitleFontSize": 14,
+      "subtitleLineHeight": 18,
+      "subtitlePadding": 5,
+      "offset": 10
+    },
+    "arc": {"fill": "#cecece"},
+    "area": {"fill": "#cecece"},
+    "line": {"stroke": "#cecece", "strokeWidth": 3},
+    "rect": {"fill": "#cecece"},
+    "bar": {"fill": "#cecece"},
+    "point": {"stroke": "#cecece"},
+    "axis": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 12,
+      "labelFontWeight": "normal",
+      "tickColor": "#727272",
+      "labelColor": "#727272"
+    },
+    "axisX": {
+      "labelAngle": 0,
+      "labelPadding": 10,
+      "labelFlush": true,
+      "tickSize": 0,
+      "domain": false
+    },
+    "axisY": {
+      "labelBaseline": "middle",
+      "labelPadding": 5,
+      "labelFlush": true,
+      "tickSize": 0,
+      "titleAlign": "left",
+      "titleAngle": 0,
+      "titleX": -45,
+      "titleY": -11,
+      "domain": false
+    },
+    "legend": {
+      "titleFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "titleFontSize": 14,
+      "titleFontWeight": "normal",
+      "symbolType": "square",
+      "labelFont": "\"Libre Franklin\",\"Helvetica\",\"Liberation Sans\",Arial,sans-serif",
+      "labelFontSize": 13
+    },
+    "range": {
+      "heatmap": [
+        "#5e5e5e",
+        "#727272",
+        "#858585",
+        "#989898",
+        "#aaaaaa",
+        "#bcbcbc",
+        "#c4c4c4",
+        "#cecece",
+        "#e0e0e0",
+        "#f0f0f0",
+        "#ffffff"
+      ],
+      "ordinal": [
+        "#5e5e5e",
+        "#727272",
+        "#858585",
+        "#989898",
+        "#aaaaaa",
+        "#bcbcbc",
+        "#c4c4c4",
+        "#cecece",
+        "#e0e0e0",
+        "#f0f0f0",
+        "#ffffff"
+      ],
+      "ramp": [
+        "#5e5e5e",
+        "#727272",
+        "#858585",
+        "#989898",
+        "#aaaaaa",
+        "#bcbcbc",
+        "#c4c4c4",
+        "#cecece",
+        "#e0e0e0",
+        "#f0f0f0",
+        "#ffffff"
+      ]
+    }
+  },
+  "data": {"name": "data-ff083e2caf4ea6428c61f01fb3b93afe"},
+  "mark": {"type": "bar", "opacity": 0.9},
+  "encoding": {
+    "x": {
+      "axis": {"format": ".0f"},
+      "bin": true,
+      "field": "index",
+      "title": "Median score",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "accessibility_decile",
+      "title": "Number of sites",
+      "type": "quantitative"
+    }
+  },
+  "title": "Lighthouse accessibility scores",
+  "width": "container",
+  "height": 250,
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.17.0.json",
+  "datasets": {
+    "data-ff083e2caf4ea6428c61f01fb3b93afe": {{ histogram_json }}
+  }
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+
+Here's a ranking of all sites from best to worst.
+
+<table class="colwidths-auto docutils align-default">
+ <thead>
+  <tr>
+    <th class="head">Rank</th>
+    <th class="head">Site</th>
+    <th class="head" style="text-align: right;">Score</th>
+  </tr>
+ </thead>
+ <tbody>
+  {% for obj in site_list %}
+  <tr>
+    <td>{{ obj.accessibility_rank }}</td>
+    <td>
+        <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
+            {{ obj.name }}
+        </a>
+    </td>
+    <td style="text-align: right; background-color: {{ obj.accessibility_color }}; color: white;">
+        {{ obj.accessibility_median }}
+    </td>
+  </tr>
+  {% endfor %}
+ </tbody>
+</table>

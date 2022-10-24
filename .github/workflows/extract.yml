@@ -49,7 +49,12 @@ jobs:
 
       - id: download-items
         name: Download items
-        run: pipenv run python -m newshomepages.extract download-items
+        run: |
+          pipenv run python -m newshomepages.extract download-items --output-path=./_dist/
+          git pull origin $GITHUB_REF
+          cp ./_dist/*.json extracts/json/
+          git add ./extracts/json
+          git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
         env:
           IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
@@ -58,15 +63,11 @@ jobs:
 
       - id: consolidate-items
         name: Consolidate items
-        run: pipenv run python -m newshomepages.extract consolidate
-        shell: bash
-
-      - id: commit
-        name: Commit
         run: |
+          pipenv run python -m newshomepages.extract consolidate
           git pull origin $GITHUB_REF
           git add ./extracts
-          git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+          git commit -m "Update consolidated extracts" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
 
   download-lighthouse:

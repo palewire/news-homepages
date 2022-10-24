@@ -1,0 +1,37 @@
+```{include} _templates/nav.html
+```
+
+# Drudge Report ranking
+
+As part of its archiving routine, our system routinely captures [The Drudge Report](https://palewi.re/docs/news-homepages/sites/drudge.html), a news aggregator focused on Beltway politics, celebrity scandal, extreme weather and other catastrophes of American life.
+
+Over the last 90 days, Drudge's homepage has featured {{ "{:,.0f}".format(total_urls) }} stories on {{ "{:,.0f}".format(total_sites) }} different sites. This page ranks domains by how often they appeared in that period. The list updates daily.
+
+<table class="colwidths-auto docutils align-default">
+ <thead>
+  <tr>
+    <th class="head">Rank</th>
+    <th class="head">Site</th>
+    <th class="head" style="text-align: right;">Stories</th>
+    <th class="head" style="text-align: right;">Percent</th>
+  </tr>
+ </thead>
+ <tbody>
+  {% for obj in site_list %}
+  <tr>
+    <td>{{ obj.rank }}</td>
+    <td>
+        <a href="https://{{ obj.domain }}/">
+            {{ obj.domain }}
+        </a>
+    </td>
+    <td style="text-align: right;">
+        {{ "{:,.0f}".format(obj.n) }}
+    </td>
+    <td style="text-align: right;">
+        {% if obj.percent < 0.1 %}<0.1%{% else %}{{ obj.percent }}%{% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+ </tbody>
+</table>

@@ -15,18 +15,132 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - id: update-docs
-      name: Update docs
-      uses: ./.github/actions/docs
+    - id: install
+      name: Install
+      uses: ./.github/actions/install
 
-    - id: update-rss
-      name: Update RSS
-      uses: ./.github/actions/rss
+    - id: latest-screenshots
+      name: Update latest screenshots
+      run: pipenv run python -m newshomepages.site latest-screenshots;
+      shell: bash
+
+<<<<<<< HEAD
+    - id: git-add-archive
+      name: Consolidate latest files
+      run: pipenv run python -m newshomepages.extract latest-files
+      shell: bash
+
+=======
+>>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+    - id: git-extract-consolidate
+      name: Consolidate latest extracts
+      run: pipenv run python -m newshomepages.extract consolidate
+      shell: bash
+
+    - id: accessibility-ranking
+      name: Update accessibility ranking
+      run: pipenv run python -m newshomepages.site accessibility-ranking;
+      shell: bash
+
+    - id: performance-ranking
+      name: Update performance ranking
+      run: pipenv run python -m newshomepages.site performance-ranking;
+      shell: bash
+
+    - id: drudge-ranking
+      name: Update Drudge ranking
+      run: pipenv run python -m newshomepages.site drudge-ranking;
+      shell: bash
+
+    - id: source-list
+      name: Update source list
+      run: pipenv run python -m newshomepages.site source-list;
+      shell: bash
+
+    - id: bundle-list
+      name: Update bundle list
+      run: pipenv run python -m newshomepages.site bundle-list;
+      shell: bash
+
+    - id: country-list
+      name: Update country list
+      run: pipenv run python -m newshomepages.site country-list;
+      shell: bash
+
+    - id: language-list
+      name: Update language list
+      run: pipenv run python -m newshomepages.site language-list;
+      shell: bash
+
+    - id: site-detail
+      name: Update site detail
+      run: pipenv run python -m newshomepages.site site-detail;
+      shell: bash
+
+    - id: site-detail-lighthouse-analysis-chart
+      name: Update site detail lighthouse analysis
+      run: pipenv run python -m newshomepages.site site-detail-lighthouse-analysis-chart;
+      shell: bash
+
+    - id: site-detail-screenshot-chart
+      name: Update site detail screenshot chart
+      run: pipenv run python -m newshomepages.site site-detail-screenshot-chart;
+      shell: bash
+
+    - id: site-detail-hyperlink-chart
+      name: Update site detail hyperlink chart
+      run: pipenv run python -m newshomepages.site site-detail-hyperlink-chart;
+      shell: bash
+
+    - id: site-detail-accessibility-chart
+      name: Update site detail accessibility chart
+      run: pipenv run python -m newshomepages.site site-detail-accessibility-chart;
+      shell: bash
+
+    - id: site-detail-lighthouse-chart
+      name: Update site detail lighthouse chart
+      run: pipenv run python -m newshomepages.site site-detail-lighthouse-chart;
+      shell: bash
+
+    - id: bundle-detail
+      name: Update bundle detail
+      run: pipenv run python -m newshomepages.site bundle-detail;
+      shell: bash
+
+    - id: country-detail
+      name: Update country detail
+      run: pipenv run python -m newshomepages.site country-detail;
+      shell: bash
+
+    - id: language-detail
+      name: Update language detail
+      run: pipenv run python -m newshomepages.site language-detail;
+      shell: bash
+
+    - id: site-rss
+      name: Update site RSS
+      run: pipenv run python -m newshomepages.rss sites
+      shell: bash
+
+    - id: site-opml
+      name: Update site OPML
+      run: pipenv run python -m newshomepages.rss opml
+      shell: bash
+
+    - id: bundle-rss
+      name: Update bundle RSS
+      run: pipenv run python -m newshomepages.rss bundles
+      shell: bash
+
+    - id: countries-rss
+      name: Update country RSS
+      run: pipenv run python -m newshomepages.rss countries
+      shell: bash
 
     - id: build-docs
       uses: ammaraskar/sphinx-action@master
       with:
-        docs-folder: "docs/"
+        docs-folder: "_site/"
 
     - id: upload-docs
       uses: shallwefootball/s3-upload-action@master
@@ -34,5 +148,5 @@ runs:
         aws_key_id: ${{ inputs.api-key }}
         aws_secret_access_key: ${{ inputs.api-secret-access-key }}
         aws_bucket: ${{ inputs.bucket }}
-        source_dir: docs/_build/html/
+        source_dir: _site/_build/html/
         destination_dir: news-homepages

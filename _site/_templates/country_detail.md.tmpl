@@ -1,0 +1,39 @@
+---
+orphan: true
+---
+
+```{include} ../_templates/nav.html
+```
+
+# {{ country.name }}
+
+The most recent homepages from {{ site_list|length }} news sites in this country.
+
+<div class="latest-parent">
+{% for obj in site_list %}
+<div class="latest-child">
+ <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
+  <img src="https://palewi.re/news-homepages/latest-screenshots/{{ obj.handle|lower }}.jpg"
+     alt="{{ obj.name }}"
+     loading="lazy">
+ </a>
+ <p><a href="../sites/{{ obj.handle.lower() }}.html">{{ obj.name }}</a></p>
+</div>
+{% endfor %}
+</div>
+
+## About this country
+
+| Attribute       | Value                                                                               |
+| :-------------  | :---------------------------------------------------------------------------------- |
+| RSS             | [🔗](https://palewi.re/docs/news-homepages/rss/countries/{{ country.alpha2|lower }}.xml)         |
+| ISO code             | {{ country.alpha2 }}         |
+| Twitter hashtag | [#{{ country.alpha2 }}](https://twitter.com/search?q=%23{{ country.alpha2 }}%20from%3A%40newshomepages)           |
+
+## Site directory
+
+| Site  | Latest screenshot | RSS |
+| :---- | :---------------: | :-- |
+{% for obj in site_list -%}
+|[{{ obj.name }}](https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ obj.handle.lower() }}.xml)|
+{% endfor %}
