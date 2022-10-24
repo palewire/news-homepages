@@ -1,5 +1,5 @@
 {
-  "created": 1666586151,
+  "created": 1666627117,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/capgaznews-2022",
@@ -14498,31 +14498,93 @@
       "sha1": "861308af35f05aad71df52f9941b231ad410362e"
     },
     {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666626948",
+      "size": "33058",
+      "md5": "5688686b9705c0e3d4a3c9be92f067e9",
+      "crc32": "1705207f",
+      "sha1": "03c8eec62494e3921e93ca199988c1ec1b7ddd4a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666626950",
+      "size": "28219",
+      "md5": "8648749d8a139a619f9d87c6d147b138",
+      "crc32": "494d00cd",
+      "sha1": "510be6b926e96303c1dbb79a692012734d512120",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.jpg",
+      "source": "original",
+      "mtime": "1666626946",
+      "size": "267551",
+      "md5": "672bbc8a98f233d937dc09530d805a23",
+      "crc32": "880b4c6d",
+      "sha1": "b3efc3027167adcaaf0002e6ba9c180d17f93e79",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666626952",
+      "size": "1531",
+      "md5": "ec424e67e41b07c61887b641577ca003",
+      "crc32": "24164a97",
+      "sha1": "65eb45e6d81b94d08a2fb8f3a00d7064e1985c33",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666626953",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-24T11:55:40.146930-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-24T11:55:40.146930-04:00.jpg",
+      "mtime": "1666627043",
+      "size": "8355",
+      "md5": "1fc305882a43926e9703738d8251342e",
+      "crc32": "229e7c01",
+      "sha1": "6b319b5241fce8bde5c818672b6390fdccad8a0c"
+    },
+    {
       "name": "capgaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a4541422390ce15849f877a7a68959d759f3323",
-      "mtime": "1666586126",
-      "size": "298062",
-      "md5": "ad3bcb0d4bc68be1d175e156ff6d75da",
-      "crc32": "7f0c43f5",
-      "sha1": "57bbbbd24bba90ec2255e7749d2748e0bb039ded",
+      "btih": "5b40640bd7df3e68ceab140b96d98170a7f63d02",
+      "mtime": "1666627102",
+      "size": "299319",
+      "md5": "fd51a4a372ad3dcc83ba30e001d4d618",
+      "crc32": "2e05022c",
+      "sha1": "93c860bffe48ea34057bb32bf0c755ae818a8f47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capgaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a06b1b5f25f211015d4f870035eaab8a",
+      "md5": "4af6bd49875c85dc50f8c7595ffc6cf8",
       "summation": "md5"
     },
     {
       "name": "capgaznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666585951",
-      "size": "1748992",
-      "md5": "649a9c278d3466978c510a48d9a48a29",
-      "crc32": "fa620f61",
-      "sha1": "abf5e12008740476b610e6617356f57ea9f54bcb",
+      "mtime": "1666626959",
+      "size": "1753088",
+      "md5": "c65df081f99db787d9b3e29d7985422f",
+      "crc32": "a46568b4",
+      "sha1": "d3d0fccb53dd8b4cffef0e154b8f28c23af9a2a2",
       "format": "Metadata"
     },
     {
@@ -14536,9 +14598,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1401,
-  "item_last_updated": 1666586126,
-  "item_size": 97912299,
+  "files_count": 1407,
+  "item_last_updated": 1666627102,
+  "item_size": 98256568,
   "metadata": {
     "identifier": "capgaznews-2022",
     "collection": [
@@ -14555,10 +14617,10 @@
     "publicdate": "2022-06-24 22:54:14",
     "addeddate": "2022-06-24 22:54:14"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1201327773,
+  "server": "ia601406.us.archive.org",
+  "uniq": 357993982,
   "workable_servers": [
-    "ia801406.us.archive.org",
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }
