@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666338204,
-=======
-  "created": 1666594216,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666687379,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/21/items/petoskeynews-2022",
@@ -3854,16 +3850,6 @@
       "sha1": "ab8f07c98f833d40e64af40a448b40fd77cf33bd"
     },
     {
-<<<<<<< HEAD
-      "name": "petoskeynews-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "9497118b0dd782f04e1602947585983d625a0332",
-      "mtime": "1666338193",
-      "size": "81245",
-      "md5": "be31d5a8f5e48f8cdbfd494cb5561d4b",
-      "crc32": "64b14c96",
-      "sha1": "3e74a81e5ba66941fc43672f60987bdaa1df9fb5",
-=======
       "name": "petoskeynews-2022-10-21T16:36:40.039509-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666384608",
@@ -4236,44 +4222,144 @@
       "sha1": "31d290ad7792cb187bb93a11b7b127ce39e48254"
     },
     {
+      "name": "petoskeynews-2022-10-24T14:25:15.428964-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666635919",
+      "size": "23348",
+      "md5": "4d4c7de4f00ffc2345581a9b895e29d7",
+      "crc32": "7ca3c52f",
+      "sha1": "bbceae045fc94d911d718e0b93f2ed8e3c533c8e",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-24T14:25:15.428964-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666635921",
+      "size": "34140",
+      "md5": "7929780ec4bc29ea882a20098858d346",
+      "crc32": "f1894c46",
+      "sha1": "c00d25781732b2b34b72a4b4d3c31ea7965aafb0",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-24T14:25:15.428964-04:00.jpg",
+      "source": "original",
+      "mtime": "1666635917",
+      "size": "287394",
+      "md5": "b8030373d70f5568868709ec6727032d",
+      "crc32": "951ce2ba",
+      "sha1": "c0e09e65359d5a2477fa95f070cb5b898b985d05",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "petoskeynews-2022-10-24T14:25:15.428964-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666635924",
+      "size": "1513",
+      "md5": "eb5d1e11a85ccb5b2a577b40f85b3b87",
+      "crc32": "5a9c118d",
+      "sha1": "7a737ab5837dd056318a9763debeecbc2f74a4d3",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-24T14:25:15.428964-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666635926",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-24T14:25:15.428964-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "petoskeynews-2022-10-24T14:25:15.428964-04:00.jpg",
+      "mtime": "1666635992",
+      "size": "9555",
+      "md5": "47f81c3dc0e58e95f958d0af483b7cc0",
+      "crc32": "f4164688",
+      "sha1": "5f96bf70669710e4fa1231bc29a4d79f4a16f7e3"
+    },
+    {
+      "name": "petoskeynews-2022-10-25T04:41:51.969624-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666687315",
+      "size": "24558",
+      "md5": "89a34a4f73c135f6d39cbf7faa531da1",
+      "crc32": "1ad365d0",
+      "sha1": "6eb2b85236ea8995967694e874f5191f506ca6ee",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-25T04:41:51.969624-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666687317",
+      "size": "40748",
+      "md5": "ee098940eeb8ca821cd12d9016ee853f",
+      "crc32": "dbc1b917",
+      "sha1": "550c761891535e946766b7aeb957c5f068873da3",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-25T04:41:51.969624-04:00.jpg",
+      "source": "original",
+      "mtime": "1666687313",
+      "size": "250071",
+      "md5": "8784609195805068f9a19ebd95477091",
+      "crc32": "45e3a042",
+      "sha1": "fa82afaf2417cb23d02547f6982f02f2738fb700",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "petoskeynews-2022-10-25T04:41:51.969624-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666687318",
+      "size": "1512",
+      "md5": "bce12edffa31fd8b017c6b793dee1434",
+      "crc32": "198f38a8",
+      "sha1": "4fb35745056e7c81470be231ae173abe479fad9f",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-25T04:41:51.969624-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666687320",
+      "size": "72033",
+      "md5": "6bd850ce9ae0d48f9ede2de52fd42fd8",
+      "crc32": "cbf0889d",
+      "sha1": "b6285cacf3600bd468017b095c8425b54074647a",
+      "format": "JSON"
+    },
+    {
       "name": "petoskeynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d48968e473122bfbb0a48bf465627b28d9ea840d",
-      "mtime": "1666594206",
-      "size": "88943",
-      "md5": "71f5a5155d196ea537515d7fe4126fb8",
-      "crc32": "23442719",
-      "sha1": "921c195c4e685c05024ded1ea455c4afda85cbe7",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "85fb2aa0ee1732172c9d7486408a0193fb58bdc0",
+      "mtime": "1666687373",
+      "size": "91295",
+      "md5": "2a73112b2d200940a288637f78b91e61",
+      "crc32": "80c18acd",
+      "sha1": "442be7e572a46c4257a6ace181233592b14c409a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "petoskeynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "5630df37c2e42fd19712b31b1210c1b3",
-=======
-      "md5": "c0e1f583fc9d465c84fcf7164fd58c69",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "d2df2a30f7ab9903ed91b6c19c60e8ff",
       "summation": "md5"
     },
     {
       "name": "petoskeynews-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666338111",
-      "size": "495616",
-      "md5": "f2f2f5830f77d31843e4a91b62a7077d",
-      "crc32": "fc05bb79",
-      "sha1": "cf7c96bac1d8de68666246f4c0e12f2ae7702f64",
-=======
-      "mtime": "1666594137",
-      "size": "536576",
-      "md5": "dc64de083411419a8ae13ef0377607c9",
-      "crc32": "24824a9b",
-      "sha1": "bda6d1a25034ae61ebf3ae992bb5e9c7f86c2d4e",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666687326",
+      "size": "557056",
+      "md5": "04448e4520127a6919d987b9891fdcaf",
+      "crc32": "b8dfa29e",
+      "sha1": "b3aa7f1450864fe0f0c5b891064952dcd6726a04",
       "format": "Metadata"
     },
     {
@@ -4287,15 +4373,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 376,
-  "item_last_updated": 1666338193,
-  "item_size": 26383304,
-=======
-  "files_count": 412,
-  "item_last_updated": 1666594206,
-  "item_size": 28561848,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 423,
+  "item_last_updated": 1666687373,
+  "item_size": 29329754,
   "metadata": {
     "identifier": "petoskeynews-2022",
     "collection": [
@@ -4312,18 +4392,21 @@
     "publicdate": "2022-09-20 19:10:30",
     "addeddate": "2022-09-20 19:10:30"
   },
-<<<<<<< HEAD
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 516422615,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451259500,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 679420075,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
-=======
-  "server": "ia801501.us.archive.org",
-  "uniq": 1377319683,
-  "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

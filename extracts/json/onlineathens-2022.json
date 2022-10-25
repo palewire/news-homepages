@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666338178,
-=======
-  "created": 1666594230,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666687237,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/onlineathens-2022",
@@ -11028,16 +11024,6 @@
       "sha1": "2271eff23be03c816db74e2da5debd27b371f08f"
     },
     {
-<<<<<<< HEAD
-      "name": "onlineathens-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "be067696bbd5d2df11300c5905f818ae2e83b4c5",
-      "mtime": "1666338166",
-      "size": "229785",
-      "md5": "3d06e16a149a869c4b0e85ddce41f87f",
-      "crc32": "a354400a",
-      "sha1": "5c28720353d4ddb95b2b81c41db50946c7e9c9f2",
-=======
       "name": "onlineathens-2022-10-21T16:38:50.776293-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666384738",
@@ -11410,44 +11396,144 @@
       "sha1": "387d64fe2d35f3a593badbe2ed3abe14db6f60c5"
     },
     {
+      "name": "onlineathens-2022-10-24T14:25:00.956185-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666635919",
+      "size": "23820",
+      "md5": "093f1ab6502de06fc20f46e07a2916db",
+      "crc32": "30ab58d5",
+      "sha1": "a2b44566cbba8544db08cc6990bf283b6f333762",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-10-24T14:25:00.956185-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666635921",
+      "size": "37158",
+      "md5": "34f7a9ad74a68e41f5662adab7d180b1",
+      "crc32": "624639e6",
+      "sha1": "20fc1673e866aab6542f76337b1368b5814e00a9",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-10-24T14:25:00.956185-04:00.jpg",
+      "source": "original",
+      "mtime": "1666635917",
+      "size": "248336",
+      "md5": "db47627ee304f58dd00e3d42225aeb36",
+      "crc32": "018dde57",
+      "sha1": "6a0d70621d4d64898dfbb754bf0f8cd55fca1177",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "onlineathens-2022-10-24T14:25:00.956185-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666635922",
+      "size": "1513",
+      "md5": "e7ec625acb263c46565b5071a97d665c",
+      "crc32": "3accc499",
+      "sha1": "f5ef2c7aca8abf8a5a9a407a5c95bac66464ed54",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-10-24T14:25:00.956185-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666635925",
+      "size": "98651",
+      "md5": "b4a0d37d2153b5b9da188f1611bcd69a",
+      "crc32": "e59bf925",
+      "sha1": "e9cf8caf2f236314dbf42bcbed5e6214d015c2a8",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-10-24T14:25:00.956185-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "onlineathens-2022-10-24T14:25:00.956185-04:00.jpg",
+      "mtime": "1666636002",
+      "size": "9465",
+      "md5": "e8492bff54804e2d4f58fec324d82ac3",
+      "crc32": "c7caa832",
+      "sha1": "d91adeeb6dea8b560419bb783f19ccae1f2b612b"
+    },
+    {
+      "name": "onlineathens-2022-10-25T04:39:15.792402-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666687180",
+      "size": "22000",
+      "md5": "631315586993f14c8bf6c43b9dd777ef",
+      "crc32": "ffa251e6",
+      "sha1": "0013c81adcbc2a059ba9676768212f25687dd856",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-10-25T04:39:15.792402-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666687181",
+      "size": "31707",
+      "md5": "189731b62009d0610651e1028265c014",
+      "crc32": "ce832955",
+      "sha1": "ac1b363d5380f741809e5f6ddff0daa4985cbf8d",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-10-25T04:39:15.792402-04:00.jpg",
+      "source": "original",
+      "mtime": "1666687178",
+      "size": "246995",
+      "md5": "7f8bc44157d62837e1e4c7cbd6a7e0fb",
+      "crc32": "e53c96d3",
+      "sha1": "18160ba87d44f03f0ed3883a414d455ac0012d81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "onlineathens-2022-10-25T04:39:15.792402-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666687182",
+      "size": "1512",
+      "md5": "d0944febd831ba129f5905359d5c3a91",
+      "crc32": "dbffaeb8",
+      "sha1": "c334bb968814d260e903420d160af0adf9ba9b12",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-10-25T04:39:15.792402-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666687184",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "onlineathens-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca567a381eeb1e081418a31e68cac4e18b4e333b",
-      "mtime": "1666594211",
-      "size": "237486",
-      "md5": "daa9a9fb3d50c3221ef2aeb425736bf1",
-      "crc32": "17015124",
-      "sha1": "d66bf8a7aaa7862f9860215dde503352e54f42ea",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "fe5235ece30c73a2614ff979d8fc51cff5579ff7",
+      "mtime": "1666687234",
+      "size": "239838",
+      "md5": "bed091328deb49bf91512107193bc5d0",
+      "crc32": "933b1b7a",
+      "sha1": "49f2a3a1cc722248c29b0fbe2949421530422ae5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "onlineathens-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "3f3936bdcbae3b5e0e5d8ac2bcd72e08",
-=======
-      "md5": "109c3d1d7edfbe0add35d8091858293d",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "e62e6a2b8f46a6cc5fa3e37b23413300",
       "summation": "md5"
     },
     {
       "name": "onlineathens-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666338087",
-      "size": "1363968",
-      "md5": "cbea7b02ecd6ed044aa7b37bd2ce2fa6",
-      "crc32": "08328fa5",
-      "sha1": "b3081a5631798a5142f65430536ac931d5c7a9cb",
-=======
-      "mtime": "1666594104",
-      "size": "1413120",
-      "md5": "0d57bd1d4b147f8b467c553e1380464f",
-      "crc32": "ec6a842e",
-      "sha1": "848077c32f0e738df5680eabd1361761b8f4ae3d",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666687188",
+      "size": "1425408",
+      "md5": "e6c16eb97c9e42853751e5cfc5fdf864",
+      "crc32": "f4fc5940",
+      "sha1": "d7d38213ab1aecfd88c626e758fa58ff0ff9ce48",
       "format": "Metadata"
     },
     {
@@ -11461,15 +11547,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1069,
-  "item_last_updated": 1666338166,
-  "item_size": 73120714,
-=======
-  "files_count": 1105,
-  "item_last_updated": 1666594211,
-  "item_size": 75476810,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1116,
+  "item_last_updated": 1666687234,
+  "item_size": 76212809,
   "metadata": {
     "identifier": "onlineathens-2022",
     "collection": [
@@ -11486,14 +11566,21 @@
     "publicdate": "2022-07-20 23:31:11",
     "addeddate": "2022-07-20 23:31:11"
   },
-  "server": "ia801405.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 898376310,
-=======
-  "uniq": 43974611,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451255016,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 27394846,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }
