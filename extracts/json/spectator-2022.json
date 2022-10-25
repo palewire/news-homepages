@@ -1,5 +1,5 @@
 {
-  "created": 1666686635,
+  "created": 1666723670,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/spectator-2022",
@@ -15001,31 +15001,145 @@
       "format": "JSON"
     },
     {
+      "name": "spectator-2022-10-25T09:29:15.461640+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectator-2022-10-25T09:29:15.461640+01:00.jpg",
+      "mtime": "1666689895",
+      "size": "9212",
+      "md5": "280252a98d3de954b312da47b935061d",
+      "crc32": "65742ab6",
+      "sha1": "c7f699a1c62e04a7e52080631bf2f03eafe6d487"
+    },
+    {
+      "name": "spectator-2022-10-25T10:25:51.179523+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666689954",
+      "size": "34277",
+      "md5": "1177392fd577d5ad03b7a9fbb2ba6ad0",
+      "crc32": "1d0e6c83",
+      "sha1": "f7dddaab45eb1b693b1affa3a966c0117b93db8d",
+      "format": "JSON"
+    },
+    {
+      "name": "spectator-2022-10-25T10:25:51.179523+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666689956",
+      "size": "52457",
+      "md5": "0b3bc9ba5f4ffd8cda2b8a1280a3f777",
+      "crc32": "a7c0f4a0",
+      "sha1": "b31f2296606ed2a23e2b21f6bab14846f23c2f29",
+      "format": "JSON"
+    },
+    {
+      "name": "spectator-2022-10-25T10:25:51.179523+01:00.jpg",
+      "source": "original",
+      "mtime": "1666689953",
+      "size": "244565",
+      "md5": "5bc7336727cb14f744bfc50da2eb5c73",
+      "crc32": "3d892a24",
+      "sha1": "9a7901b5731687c6cb33b59fe931e68b0711c176",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectator-2022-10-25T10:25:51.179523+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666689958",
+      "size": "1499",
+      "md5": "62595e11aab0e42d2c3f7d64c7f31adf",
+      "crc32": "8d8a73ff",
+      "sha1": "c6e72be703347b733394f8551a30951033c06e95",
+      "format": "JSON"
+    },
+    {
+      "name": "spectator-2022-10-25T10:25:51.179523+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectator-2022-10-25T10:25:51.179523+01:00.jpg",
+      "mtime": "1666693419",
+      "size": "9209",
+      "md5": "33fba885c9beca14d7c48300a1783cd2",
+      "crc32": "4ea2287f",
+      "sha1": "b7fbbb0b6b2f1129f9123b74611a29165cf3aebf"
+    },
+    {
+      "name": "spectator-2022-10-25T19:44:18.945517+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666723470",
+      "size": "26618",
+      "md5": "5dda00d7e283f7831ada2b659016e401",
+      "crc32": "08419faf",
+      "sha1": "79f3dd668b83b06d5e57a7cae6b3cff105e3e37e",
+      "format": "JSON"
+    },
+    {
+      "name": "spectator-2022-10-25T19:44:18.945517+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666723471",
+      "size": "51163",
+      "md5": "e388ea1c12019f13fd46e6f102741fcb",
+      "crc32": "c77461ad",
+      "sha1": "0a447a43774dbe1edb941ce576919f4e790d7f00",
+      "format": "JSON"
+    },
+    {
+      "name": "spectator-2022-10-25T19:44:18.945517+01:00.jpg",
+      "source": "original",
+      "mtime": "1666723468",
+      "size": "257120",
+      "md5": "9403faa3101260cab610b04288ee0129",
+      "crc32": "1c81e849",
+      "sha1": "46650fe5b7a381013b66859148baeb0698ffd564",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectator-2022-10-25T19:44:18.945517+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666723474",
+      "size": "1498",
+      "md5": "63c1ecf374582cc47d905d213419dcca",
+      "crc32": "cae3e387",
+      "sha1": "67e966620f04ca17d03d5fd14341bdd2751ce5ca",
+      "format": "JSON"
+    },
+    {
+      "name": "spectator-2022-10-25T19:44:18.945517+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666723476",
+      "size": "26982",
+      "md5": "e6bcbf3ecdb0f4168b8faf7f79bcd270",
+      "crc32": "fc3ed2b2",
+      "sha1": "9bfdf94cd897b2b7169bfc1f963a291d8e9a7887",
+      "format": "JSON"
+    },
+    {
       "name": "spectator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fd55a9608a8c8dad3513a135391e1a706bf0061",
-      "mtime": "1666686630",
-      "size": "307676",
-      "md5": "39e55bf4ab129a92a28a8d24525605ee",
-      "crc32": "328299b0",
-      "sha1": "6c70a78b06081ad2154f4e99cb8ea8b923c86c94",
+      "btih": "d6e517f5a8dd31490731e083b7f4452aa9f9f453",
+      "mtime": "1666723660",
+      "size": "310013",
+      "md5": "5585cafd47f488beb57ad4de12792ae6",
+      "crc32": "64525505",
+      "sha1": "2c232f6f3becedadf01b79ad101209f109bd46da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "556bfce63d6fa3c6a6ddecc82e170228",
+      "md5": "050b87a78094e995b892b2c3cf143fc5",
       "summation": "md5"
     },
     {
       "name": "spectator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666686576",
-      "size": "1855488",
-      "md5": "ce2b52e793dcab06a27264c1062266c3",
-      "crc32": "64486b72",
-      "sha1": "50373ae4b76ecd2403eceaa61406d172d91c8448",
+      "mtime": "1666723603",
+      "size": "1867776",
+      "md5": "3e153f936c55da0b111b345d8c4267fa",
+      "crc32": "7b23b559",
+      "sha1": "f6dafeecace5a8860586623b4c3840e2043f3224",
       "format": "Metadata"
     },
     {
@@ -15039,9 +15153,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1455,
-  "item_last_updated": 1666686630,
-  "item_size": 89896447,
+  "files_count": 1466,
+  "item_last_updated": 1666723660,
+  "item_size": 90625672,
   "metadata": {
     "identifier": "spectator-2022",
     "collection": [
@@ -15063,7 +15177,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451229305,
+      "task_id": 3451974324,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15071,7 +15185,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2114129351,
+  "uniq": 1189158646,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

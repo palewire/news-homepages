@@ -1,5 +1,5 @@
 {
-  "created": 1666688272,
+  "created": 1666723644,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/theledger-2022",
@@ -4323,31 +4323,93 @@
       "format": "JSON"
     },
     {
+      "name": "theledger-2022-10-25T04:32:44.826560-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theledger-2022-10-25T04:32:44.826560-04:00.jpg",
+      "mtime": "1666690216",
+      "size": "9255",
+      "md5": "44e9628bcfb48a8c2282fc4090915377",
+      "crc32": "6e34baa4",
+      "sha1": "6e4ed509244e71f92ee79eb1706a05988abb0818"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666723557",
+      "size": "20548",
+      "md5": "385afac17b8f42361b85af8055cb7814",
+      "crc32": "7ce35b54",
+      "sha1": "382e5788afaec98f70e962703b916421e90dc0f0",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666723559",
+      "size": "34103",
+      "md5": "18ba9728a9de17725432852ee499d203",
+      "crc32": "97c6b1fc",
+      "sha1": "bc77329b4d599ff554c87a2bc07e509a270bb346",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.jpg",
+      "source": "original",
+      "mtime": "1666723556",
+      "size": "264143",
+      "md5": "185d65df27b6cff9f06894737c220cd3",
+      "crc32": "20d800a3",
+      "sha1": "7c6b2f7c5ee9e4fcbd441f800872cbc4beee371c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666723561",
+      "size": "1485",
+      "md5": "e5ec29713f1eb55dc27f0ef2ddc081fb",
+      "crc32": "755e1e28",
+      "sha1": "9242864d731a845216e6461f76055d132e0e9895",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666723562",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d781269ccdbbca4f661ececc507758dda92ffb9d",
-      "mtime": "1666686816",
-      "size": "89793",
-      "md5": "929cd02fcbeb94285d5c11dcd022529d",
-      "crc32": "9f6bbd7a",
-      "sha1": "b24253af7f14f69b842f1c52259183a408bbf7dc",
+      "btih": "efe046c9193a834eb09537e98c95ffa9de650e29",
+      "mtime": "1666723639",
+      "size": "91064",
+      "md5": "86be9d179d918d72ed5b633e8160c601",
+      "crc32": "479c978c",
+      "sha1": "195c94a45442f5a1ba5bbc8c422d80ab90ab4952",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "15feda1af8bcff463bff5da04c6c1cec",
+      "md5": "0b380a6abdd5dbb52553848d03e06e9d",
       "summation": "md5"
     },
     {
       "name": "theledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666686780",
-      "size": "552960",
-      "md5": "dc953fc0ea6ea0817dab794cb8cacb9c",
-      "crc32": "d035b82e",
-      "sha1": "56d98dcca16bf1dfad5c47eb9531672029303185",
+      "mtime": "1666723601",
+      "size": "557056",
+      "md5": "f222e5a42ead2189b29889171a624cd5",
+      "crc32": "dc05c8d5",
+      "sha1": "14fe96c465035e8b8987a796ef65ca6666bca67c",
       "format": "Metadata"
     },
     {
@@ -4361,9 +4423,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 422,
-  "item_last_updated": 1666686816,
-  "item_size": 28846455,
+  "files_count": 428,
+  "item_last_updated": 1666723639,
+  "item_size": 29181558,
   "metadata": {
     "identifier": "theledger-2022",
     "collection": [
@@ -4385,7 +4447,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451238418,
+      "task_id": 3451973631,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4393,12 +4455,7 @@
       "status": "queued"
     }
   ],
-  "theledger-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1111840152,
+  "uniq": 835185304,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

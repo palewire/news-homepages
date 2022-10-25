@@ -1,5 +1,5 @@
 {
-  "created": 1666688094,
+  "created": 1666723551,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/32/items/standardex-2022",
@@ -8893,31 +8893,93 @@
       "format": "JSON"
     },
     {
+      "name": "standardex-2022-10-25T02:29:04.804472-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "standardex-2022-10-25T02:29:04.804472-06:00.jpg",
+      "mtime": "1666689628",
+      "size": "9315",
+      "md5": "fd1b1d85c836e17c4dd35bd529ec4c66",
+      "crc32": "cfcb14c4",
+      "sha1": "42d939a23395d7139e352ba3d9a49765163eb95e"
+    },
+    {
+      "name": "standardex-2022-10-25T12:43:23.545949-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666723416",
+      "size": "11600",
+      "md5": "e620baeeca796c6341a934cdcec8b205",
+      "crc32": "fac43b79",
+      "sha1": "f0ab26a09c12ab9637a87cd9f970a39102487f95",
+      "format": "JSON"
+    },
+    {
+      "name": "standardex-2022-10-25T12:43:23.545949-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666723418",
+      "size": "25969",
+      "md5": "578dcbb5c4b059c3a15ed68ee9b4e522",
+      "crc32": "7c5fea23",
+      "sha1": "cdfb242517f1a74f5158838f26dd762bf715d183",
+      "format": "JSON"
+    },
+    {
+      "name": "standardex-2022-10-25T12:43:23.545949-06:00.jpg",
+      "source": "original",
+      "mtime": "1666723414",
+      "size": "267565",
+      "md5": "0dfd997b45930f825bc01de88acc28c3",
+      "crc32": "bba73063",
+      "sha1": "42dc1159c3739d5a6a955da456bddd1179338756",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "standardex-2022-10-25T12:43:23.545949-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666723421",
+      "size": "1477",
+      "md5": "a9ba93b34b8311db25c4ec2002e4206d",
+      "crc32": "90fb1c64",
+      "sha1": "4a6fc7bae3d40017543e3b15c54d06d95cc52bba",
+      "format": "JSON"
+    },
+    {
+      "name": "standardex-2022-10-25T12:43:23.545949-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666723424",
+      "size": "20081",
+      "md5": "366b13f720835de4e3d7e3522bf1e524",
+      "crc32": "d286369b",
+      "sha1": "27f3f62e24fc01b663d4f59f630156f1c00566b3",
+      "format": "JSON"
+    },
+    {
       "name": "standardex-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1931f84b5516fdbc654134a5267d1d977029caac",
-      "mtime": "1666686606",
-      "size": "183690",
-      "md5": "38e43e5775f2b2c568e7c7a22e168e6a",
-      "crc32": "081dff66",
-      "sha1": "6b3c7a4ffd067e80de70b549b0de9a986981e7dd",
+      "btih": "666daed97f8ca14b3939ced9742654d4c7983bb6",
+      "mtime": "1666723542",
+      "size": "184949",
+      "md5": "7252c077899432062f910b5887c4daae",
+      "crc32": "684cf5e0",
+      "sha1": "53b7f1ebeafa44a0ee5b2aa9b8c894e24de58262",
       "format": "Archive BitTorrent"
     },
     {
       "name": "standardex-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be22447384b4b340b323b026e7d01058",
+      "md5": "88c04a5b22af4d50f293ee63171259e7",
       "summation": "md5"
     },
     {
       "name": "standardex-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666686565",
-      "size": "1110016",
-      "md5": "b50472deb7d1405ea4a8963403029414",
-      "crc32": "ab1c7e1b",
-      "sha1": "51e02c74c8715fe59432d8642bd7c297a71f1d57",
+      "mtime": "1666723497",
+      "size": "1122304",
+      "md5": "a2eecb92693aa73656d79f259f229a1b",
+      "crc32": "390ac854",
+      "sha1": "a7134c3f27d728dbb938a9213c579c2f69d74ce7",
       "format": "Metadata"
     },
     {
@@ -8931,9 +8993,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 864,
-  "item_last_updated": 1666686606,
-  "item_size": 48549694,
+  "files_count": 870,
+  "item_last_updated": 1666723542,
+  "item_size": 48899248,
   "metadata": {
     "identifier": "standardex-2022",
     "collection": [
@@ -8953,17 +9015,9 @@
   "pending_tasks": true,
   "server": "ia601408.us.archive.org",
   "servers_unavailable": true,
-  "standardex-2022": {
-    "url": "https://www.standard.net/",
-    "job_id": "spn2-de344fcf135800b15dc113992ea609c9a5c7f8e7",
-    "resources": [],
-    "status": "error",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed"
-  },
   "tasks": [
     {
-      "task_id": 3451228041,
+      "task_id": 3451971134,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8971,7 +9025,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 656035980,
+  "uniq": 884980881,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

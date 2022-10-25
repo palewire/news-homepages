@@ -1,5 +1,5 @@
 {
-  "created": 1666688168,
+  "created": 1666723733,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/7/items/techmeme-2022",
@@ -15811,31 +15811,93 @@
       "format": "JSON"
     },
     {
+      "name": "techmeme-2022-10-25T01:29:04.191464-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techmeme-2022-10-25T01:29:04.191464-07:00.jpg",
+      "mtime": "1666690573",
+      "size": "9401",
+      "md5": "1cfe6826f9c57aef6913073ef596bbe3",
+      "crc32": "ad757ba4",
+      "sha1": "e882f7e94d55ee0af05d0a7aff3a87435122d48f"
+    },
+    {
+      "name": "techmeme-2022-10-25T11:45:08.195159-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666723512",
+      "size": "116024",
+      "md5": "6162850a75adc6ee0a668d4a31804358",
+      "crc32": "3b92edf8",
+      "sha1": "427aa4a8ed51f43e85c5d7ca8551f525ba5e6640",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-10-25T11:45:08.195159-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666723514",
+      "size": "226604",
+      "md5": "f1086c6ab9dd983681e01f0d959e1c9a",
+      "crc32": "0ab0102a",
+      "sha1": "f2869b346f42d643d5d2ab877f92472e3bcc63ca",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-10-25T11:45:08.195159-07:00.jpg",
+      "source": "original",
+      "mtime": "1666723510",
+      "size": "500498",
+      "md5": "a24e2d8f5e4b4af8605052d9cf6f00a0",
+      "crc32": "fd0fbbc6",
+      "sha1": "76be831f229d8ab38718fef9948cf0ba99bae01d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techmeme-2022-10-25T11:45:08.195159-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666723517",
+      "size": "1477",
+      "md5": "2dce5cef09aa01ae8587accca088c0b3",
+      "crc32": "c076357e",
+      "sha1": "5a76c60883c482561a8ec79019591c12041248fe",
+      "format": "JSON"
+    },
+    {
+      "name": "techmeme-2022-10-25T11:45:08.195159-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666723519",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "techmeme-2022_archive.torrent",
       "source": "metadata",
-      "btih": "278b767882d3dc5087ad2db44fce5d5f6fdee40f",
-      "mtime": "1666686758",
-      "size": "326856",
-      "md5": "06de86ecb454cdbcbf42cd988a27ae58",
-      "crc32": "544daaa2",
-      "sha1": "242e751c3f661e060d2b7609314d3eb019a5ae06",
+      "btih": "642c9734f5774aadc2bf892116e3dea30bd77800",
+      "mtime": "1666723704",
+      "size": "328143",
+      "md5": "52fc1f034b10faa137ba99bcaca03572",
+      "crc32": "fa5073a3",
+      "sha1": "b6b68f669ed7c8935b7d0a1d917a06897f632837",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techmeme-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c059570b24dcc7338b87ea87cc970d4b",
+      "md5": "5d8997ad99cec9585f77f0b85e698cf5",
       "summation": "md5"
     },
     {
       "name": "techmeme-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666686634",
-      "size": "1884160",
-      "md5": "500b949d55f1037a73cb2b171f2c3182",
-      "crc32": "1c30892a",
-      "sha1": "0967d8d628b4ed1509acdbbe31a7b231db627be6",
+      "mtime": "1666723622",
+      "size": "1892352",
+      "md5": "b8f6d3ef44a029e646f4141a50ad988e",
+      "crc32": "877e1f4b",
+      "sha1": "ac8ec7ccf37da13724c2422e714c6072ad8a3272",
       "format": "Metadata"
     },
     {
@@ -15849,9 +15911,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1526,
-  "item_last_updated": 1666686758,
-  "item_size": 238683252,
+  "files_count": 1532,
+  "item_last_updated": 1666723704,
+  "item_size": 239546937,
   "metadata": {
     "identifier": "techmeme-2022",
     "collection": [
@@ -15873,7 +15935,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451236198,
+      "task_id": 3451976223,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15881,7 +15943,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1185264052,
+  "uniq": 211251090,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

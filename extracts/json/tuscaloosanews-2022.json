@@ -1,5 +1,5 @@
 {
-  "created": 1666686800,
+  "created": 1666723732,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/9/items/tuscaloosanews-2022",
@@ -5379,31 +5379,93 @@
       "format": "JSON"
     },
     {
+      "name": "tuscaloosanews-2022-10-25T03:32:21.588576-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-25T03:32:21.588576-05:00.jpg",
+      "mtime": "1666690616",
+      "size": "9545",
+      "md5": "68e5f8adf30c7268bdbc29b6d7543785",
+      "crc32": "a5c119ba",
+      "sha1": "463783d8557b745e43fd02d4dc5e70b1349cbcd8"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-25T13:46:28.825160-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666723595",
+      "size": "21047",
+      "md5": "a35c9f93eb7b1938d4d092f2816fd410",
+      "crc32": "9153edd9",
+      "sha1": "b7d5c81569d5dc1489609e8f2f526ba1aa980b17",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-25T13:46:28.825160-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666723597",
+      "size": "32851",
+      "md5": "769cc75b4cbff63b2b96ba8249e7871d",
+      "crc32": "40924c57",
+      "sha1": "042987276ec0f5d80f020609ee49c938a910f417",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-25T13:46:28.825160-05:00.jpg",
+      "source": "original",
+      "mtime": "1666723592",
+      "size": "269055",
+      "md5": "7b89f4f9f83a3d054882dd359db47d8d",
+      "crc32": "a7f2cb79",
+      "sha1": "96e3adaf263be754cd3b63ff28ab5e3fde8e3d0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-25T13:46:28.825160-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666723599",
+      "size": "1531",
+      "md5": "be9955a73159a64f779bc294f5c780a9",
+      "crc32": "5b97fe6c",
+      "sha1": "262eab640f816503a10b0b7a6afe626911f22b80",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-25T13:46:28.825160-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666723601",
+      "size": "211",
+      "md5": "3e24958c5fe17c0b5b7a2d6cfbf31b47",
+      "crc32": "ee674dae",
+      "sha1": "b9221687ad8097456fffe94fdde985f312c0b2d8",
+      "format": "JSON"
+    },
+    {
       "name": "tuscaloosanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f32612be93963b03eb4eeb67a573ece5e2d2adca",
-      "mtime": "1666686796",
-      "size": "113984",
-      "md5": "cbdce8790e83b067ca35b414fede95bf",
-      "crc32": "f988bf9d",
-      "sha1": "e0034a9837c235c284ba2105939cf0e52edfed9e",
+      "btih": "285bf28ada8fe0b31ab6bab16055ea70c90a40d0",
+      "mtime": "1666723727",
+      "size": "115285",
+      "md5": "f1b3cee9cb1174d28cc39335b330a925",
+      "crc32": "991954f0",
+      "sha1": "c4493f6c5d5f0ec6caaf009137767dbacc484e4a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tuscaloosanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "93536a0af75b5e2861348e45258eea6a",
+      "md5": "b67f0f666230945c4fe0ed0769c910d0",
       "summation": "md5"
     },
     {
       "name": "tuscaloosanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666686759",
-      "size": "684032",
-      "md5": "a2a7d91ea678ac62bcdf9487637cfb60",
-      "crc32": "3236087e",
-      "sha1": "6bcd6bce34be3e9d907ba0a803438f6d5362e84b",
+      "mtime": "1666723685",
+      "size": "688128",
+      "md5": "a57eb1153871b20b82fb346ff3637742",
+      "crc32": "86cf7e03",
+      "sha1": "760fc9b8dd660a808cdd8c639ad1982018174dde",
       "format": "Metadata"
     },
     {
@@ -5417,9 +5479,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 524,
-  "item_last_updated": 1666686796,
-  "item_size": 36027494,
+  "files_count": 530,
+  "item_last_updated": 1666723727,
+  "item_size": 36367131,
   "metadata": {
     "identifier": "tuscaloosanews-2022",
     "collection": [
@@ -5441,7 +5503,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451237319,
+      "task_id": 3451976028,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5449,7 +5511,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 270653200,
+  "uniq": 1024359890,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

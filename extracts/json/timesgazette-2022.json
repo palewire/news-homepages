@@ -1,5 +1,5 @@
 {
-  "created": 1666686817,
+  "created": 1666723639,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/timesgazette-2022",
@@ -4365,31 +4365,93 @@
       "format": "JSON"
     },
     {
+      "name": "timesgazette-2022-10-25T04:32:22.760245-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesgazette-2022-10-25T04:32:22.760245-04:00.jpg",
+      "mtime": "1666690047",
+      "size": "9714",
+      "md5": "755f80a2f1b14cfecc2fb65f66dfd6ab",
+      "crc32": "d2590055",
+      "sha1": "f6d7b69b29c5551f0a2d122caa98ff306927b82a"
+    },
+    {
+      "name": "timesgazette-2022-10-25T14:45:25.091424-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666723536",
+      "size": "23804",
+      "md5": "d7f7e00518b479151eb877d9a89902d2",
+      "crc32": "746585fd",
+      "sha1": "e3dce71c7b8f6eebf5c137c25efa49d52980d151",
+      "format": "JSON"
+    },
+    {
+      "name": "timesgazette-2022-10-25T14:45:25.091424-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666723538",
+      "size": "36035",
+      "md5": "58b2fdeb9578f5855b4ac1976d4f0e21",
+      "crc32": "202bef47",
+      "sha1": "bfee3c6dd2de18420e083af2ef554c97e586d5ff",
+      "format": "JSON"
+    },
+    {
+      "name": "timesgazette-2022-10-25T14:45:25.091424-04:00.jpg",
+      "source": "original",
+      "mtime": "1666723532",
+      "size": "269918",
+      "md5": "03130b681d0d99ec1bbc46fc319cd507",
+      "crc32": "af429edd",
+      "sha1": "24e13e667f5d8d4a862fb0b6b8994006d879467f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesgazette-2022-10-25T14:45:25.091424-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666723541",
+      "size": "1522",
+      "md5": "4d04631e5b31722a0afeb2f93cd9b79e",
+      "crc32": "2697681a",
+      "sha1": "36ec5dfba8af61feacd3e4b985bdc65714bcf528",
+      "format": "JSON"
+    },
+    {
+      "name": "timesgazette-2022-10-25T14:45:25.091424-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666723543",
+      "size": "255",
+      "md5": "720ca05f3bd27d6bfbed5bad0559a87a",
+      "crc32": "935c2704",
+      "sha1": "c0f63e14481d8a2c39b7db4ab05016aa8b6767a9",
+      "format": "JSON"
+    },
+    {
       "name": "timesgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f8ad9587eed88dbc69b46dc614bba2a0179cb32d",
-      "mtime": "1666686814",
-      "size": "91893",
-      "md5": "a4212283669035e688b5f8275e2c37cc",
-      "crc32": "2d718650",
-      "sha1": "25a237ad25f76d6825a43436c0edb241700b3912",
+      "btih": "4e42b60f8582472f693ef5b7fa0f508647568e8a",
+      "mtime": "1666723636",
+      "size": "93182",
+      "md5": "88805a21af64eb4980febe33843a2e8e",
+      "crc32": "2c5cfac4",
+      "sha1": "e0882766977a4c480ee7e4522181af87e97188a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a26c60ec6554b2200e211ee27f0123f",
+      "md5": "91d1858c486d9a56c8e13cd7c2f27c7d",
       "summation": "md5"
     },
     {
       "name": "timesgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666686777",
-      "size": "565248",
-      "md5": "6f995a1de26d19d1ba6068683361e695",
-      "crc32": "85935fe9",
-      "sha1": "2c3478d44912dfbceffd92381ebd98cd6e3f6d70",
+      "mtime": "1666723598",
+      "size": "569344",
+      "md5": "561e0016e45cf9f1aae7a2491b4e2ecc",
+      "crc32": "a90f8aef",
+      "sha1": "ba79ce0d5da3c26861767886834421d9bd0e90a7",
       "format": "Metadata"
     },
     {
@@ -4403,9 +4465,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 426,
-  "item_last_updated": 1666686814,
-  "item_size": 28890179,
+  "files_count": 432,
+  "item_last_updated": 1666723636,
+  "item_size": 29236812,
   "metadata": {
     "identifier": "timesgazette-2022",
     "collection": [
@@ -4427,7 +4489,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451238238,
+      "task_id": 3451973499,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4435,7 +4497,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2061063991,
+  "uniq": 1790453150,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

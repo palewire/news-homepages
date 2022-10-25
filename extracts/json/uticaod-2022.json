@@ -1,5 +1,5 @@
 {
-  "created": 1666686972,
+  "created": 1666723725,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/30/items/uticaod-2022",
@@ -4313,31 +4313,83 @@
       "format": "JSON"
     },
     {
+      "name": "uticaod-2022-10-25T04:35:14.254828-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uticaod-2022-10-25T04:35:14.254828-04:00.jpg",
+      "mtime": "1666690475",
+      "size": "9412",
+      "md5": "623b42ca3896645f5d8a05f057fc475b",
+      "crc32": "33b5b379",
+      "sha1": "d40d4a65cd53645eb47c5f87a288d7c199449930"
+    },
+    {
+      "name": "uticaod-2022-10-25T14:46:28.193875-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666723594",
+      "size": "20919",
+      "md5": "bd2325ba7463d83a4d39eb060b5412cc",
+      "crc32": "e4f20be2",
+      "sha1": "15bca07538872ea23192cbf6fbc8af3affbe717f",
+      "format": "JSON"
+    },
+    {
+      "name": "uticaod-2022-10-25T14:46:28.193875-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666723595",
+      "size": "37530",
+      "md5": "2121cf28d773419e4dc6603ed52d4d4d",
+      "crc32": "85b5d830",
+      "sha1": "d639e6b03833cf771f25ae66f1ff7ab6ed893807",
+      "format": "JSON"
+    },
+    {
+      "name": "uticaod-2022-10-25T14:46:28.193875-04:00.jpg",
+      "source": "original",
+      "mtime": "1666723592",
+      "size": "260855",
+      "md5": "691129448c3aacd87a08cef107113edf",
+      "crc32": "7c040cae",
+      "sha1": "c9e131e2a2ae41ad867d48e417f6a9d9701981f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uticaod-2022-10-25T14:46:28.193875-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666723597",
+      "size": "92491",
+      "md5": "26c743627c38bfecb7ea5b009b106e97",
+      "crc32": "b1a61a1a",
+      "sha1": "a06abf1e2ea70adab6ab435d0d9c674ad5dca01b",
+      "format": "JSON"
+    },
+    {
       "name": "uticaod-2022_archive.torrent",
       "source": "metadata",
-      "btih": "608c49900530fe5f18af1c0c2f4139347612dd77",
-      "mtime": "1666686968",
-      "size": "88680",
-      "md5": "f58080e52c1919f016f7d752915c121e",
-      "crc32": "ec84ed6c",
-      "sha1": "3276341a1d8064f095ed60027a98f4ccc42308a4",
+      "btih": "649afe3c91261f7ac5ee728d25bf68fa8776e685",
+      "mtime": "1666723721",
+      "size": "89732",
+      "md5": "02b12cd902c24a6861c2a8f9090c5e02",
+      "crc32": "f722f3da",
+      "sha1": "2a49974eaf1c9d4e7ccc4bbe077a61ae095ff26f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uticaod-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a4d5d9a90cfbae797897d4fd38ed8d2",
+      "md5": "a1c7a1237a8446cb2f9e9f0040bbce7e",
       "summation": "md5"
     },
     {
       "name": "uticaod-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666686931",
-      "size": "548864",
-      "md5": "0f1a4f65ab71d646f7aadd3af5ecaf75",
-      "crc32": "59ae2cad",
-      "sha1": "162cb0141f27f6b521cc5774bd7df6b627f6022d",
+      "mtime": "1666723682",
+      "size": "557056",
+      "md5": "a2ebe61a05946ca3905d221afaf85fcf",
+      "crc32": "9c289c62",
+      "sha1": "af1e7b692b9dd7e2b7bff6cefb4f8250a4d10c2b",
       "format": "Metadata"
     },
     {
@@ -4351,9 +4403,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 421,
-  "item_last_updated": 1666686968,
-  "item_size": 27874771,
+  "files_count": 426,
+  "item_last_updated": 1666723721,
+  "item_size": 28305222,
   "metadata": {
     "identifier": "uticaod-2022",
     "collection": [
@@ -4375,7 +4427,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451245402,
+      "task_id": 3451975808,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4383,7 +4435,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1867157290,
+  "uniq": 999962106,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]
