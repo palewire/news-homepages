@@ -1,5 +1,5 @@
 {
-  "created": 1666661753,
+  "created": 1666703518,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/8/items/khonnews-2022",
@@ -5131,31 +5131,93 @@
       "format": "JSON"
     },
     {
+      "name": "khonnews-2022-10-24T15:33:22.737128-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "khonnews-2022-10-24T15:33:22.737128-10:00.jpg",
+      "mtime": "1666669953",
+      "size": "10551",
+      "md5": "c00becfaf9ff53d06b2fbb9aa8ead39c",
+      "crc32": "27fb364a",
+      "sha1": "ea8d4cc8d18baf0ce8fef6a31ea17e5d199f2e1d"
+    },
+    {
+      "name": "khonnews-2022-10-25T03:02:27.356909-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666702961",
+      "size": "57416",
+      "md5": "8f65aeb2fdf5f5028226678c6f4b4a71",
+      "crc32": "d27a823e",
+      "sha1": "e4273a70c3fc4833521fef809b38f95aaa512c0a",
+      "format": "JSON"
+    },
+    {
+      "name": "khonnews-2022-10-25T03:02:27.356909-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666702962",
+      "size": "101426",
+      "md5": "71766a96852c172b593f2c812433d699",
+      "crc32": "010efcc3",
+      "sha1": "4463dc5d81088f2f3373a371bca769dbf6c7d3c5",
+      "format": "JSON"
+    },
+    {
+      "name": "khonnews-2022-10-25T03:02:27.356909-10:00.jpg",
+      "source": "original",
+      "mtime": "1666702959",
+      "size": "270707",
+      "md5": "7210506cddff5ede1ca317c08c491c7d",
+      "crc32": "5ae5ff4e",
+      "sha1": "d91c3449f5aefedfef2a84b268f78229d8e35d58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "khonnews-2022-10-25T03:02:27.356909-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666702964",
+      "size": "1450",
+      "md5": "54013d4d31b5bdcabb2a891349e427f0",
+      "crc32": "5cf47363",
+      "sha1": "f982579572d3d2e02494899894ec40c98f88f464",
+      "format": "JSON"
+    },
+    {
+      "name": "khonnews-2022-10-25T03:02:27.356909-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1666702965",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "khonnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "acf43be27f857114d54714d775ac5a3c237b1b7b",
-      "mtime": "1666661750",
-      "size": "106101",
-      "md5": "b97c2228a0d424458c299fae197accb4",
-      "crc32": "bab9cb72",
-      "sha1": "87963e5671ed49b613ad532b23a99f20f4709698",
+      "btih": "fbb7999275cf66b8f5bca5eed8d07218c53a901d",
+      "mtime": "1666703008",
+      "size": "107368",
+      "md5": "ef1a676ceec0415d4f46f614cf0073c0",
+      "crc32": "eec3c322",
+      "sha1": "d647f68f163d429ffc5770d9601fcedd56eeb69e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "khonnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b177f97aa7e308b38ec442e4c5bcc4f",
+      "md5": "789667d118cfd1447b4150755d9f0491",
       "summation": "md5"
     },
     {
       "name": "khonnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666661711",
-      "size": "647168",
-      "md5": "a651c722ac811e59648954c72e561f57",
-      "crc32": "4c4dddc2",
-      "sha1": "4f324ef73515d61f2ad5e59cfbe0b0a6edb45c0c",
+      "mtime": "1666702969",
+      "size": "655360",
+      "md5": "dc34a1ce86cbc4878b3340023ac8cef7",
+      "crc32": "989180f0",
+      "sha1": "9d71f85af69f2c34a127b707dd387672e634ecb4",
       "format": "Metadata"
     },
     {
@@ -5169,9 +5231,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 500,
-  "item_last_updated": 1666661750,
-  "item_size": 41798731,
+  "files_count": 506,
+  "item_last_updated": 1666703008,
+  "item_size": 42249942,
+  "khonnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "khonnews-2022",
     "collection": [
@@ -5193,7 +5260,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450445793,
+      "task_id": 3451669463,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5201,7 +5268,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 668729509,
+  "uniq": 1897458983,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666661593,
+  "created": 1666702875,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/indiatoday-2022",
@@ -11287,31 +11287,93 @@
       "format": "JSON"
     },
     {
+      "name": "indiatoday-2022-10-25T07:00:28.186616+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indiatoday-2022-10-25T07:00:28.186616+05:30.jpg",
+      "mtime": "1666670749",
+      "size": "9558",
+      "md5": "ed4fa678adba33295d1a51a845374f3d",
+      "crc32": "1ff390f6",
+      "sha1": "5f66f2fd7c07263000175162718b000fb4f352bc"
+    },
+    {
+      "name": "indiatoday-2022-10-25T18:29:59.735134+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1666702806",
+      "size": "53451",
+      "md5": "0c4c8c725169bfec7f4c0e24aabb42bd",
+      "crc32": "b68da4ab",
+      "sha1": "20b11a55e5221ce1581ad7e6d2666ac585c7441c",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-10-25T18:29:59.735134+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666702808",
+      "size": "35045",
+      "md5": "4aee50677f0552c50cd5cceb9bf6a918",
+      "crc32": "d04475a5",
+      "sha1": "80b8d143d2847ebcdf6081bc0db0c08efc6b7cf5",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-10-25T18:29:59.735134+05:30.jpg",
+      "source": "original",
+      "mtime": "1666702803",
+      "size": "226652",
+      "md5": "30055d84297a4728532069572659819e",
+      "crc32": "e1f4426e",
+      "sha1": "3b2ee9ae135be42e8de571147f3c01be5a2e594a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiatoday-2022-10-25T18:29:59.735134+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1666702810",
+      "size": "1485",
+      "md5": "a545a8f1ee9a19554dd47bdd5fe5f4a9",
+      "crc32": "bceee2e1",
+      "sha1": "6bc661edbf530c6a626d6552541e79ec35c88692",
+      "format": "JSON"
+    },
+    {
+      "name": "indiatoday-2022-10-25T18:29:59.735134+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1666702811",
+      "size": "30404",
+      "md5": "780b91457c6f27d837dcf17dba36a23d",
+      "crc32": "4bf2f1ce",
+      "sha1": "7403dc939de5b53667c8730d4bd9c61b0c4c642f",
+      "format": "JSON"
+    },
+    {
       "name": "indiatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e84ec096ff65ef045a5bcf56be467f2cac277d0",
-      "mtime": "1666661585",
-      "size": "233778",
-      "md5": "38bf738e3122ee99c6339a4c6f8fab28",
-      "crc32": "cfd42751",
-      "sha1": "d2e624e728a5ce8fb63569c975859724bc3b6c31",
+      "btih": "4a6ad119076ec4d162be31788474b87a11f301d1",
+      "mtime": "1666702865",
+      "size": "235037",
+      "md5": "5a29b7f176179340ddd95eaf0295921b",
+      "crc32": "2401149e",
+      "sha1": "a5f05165dd7cdcebffb657cb01fd080ace87bb7a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3245f24f313b31ef09e4fbc4aaccaa94",
+      "md5": "7fd51524da877d3b38952caba0f23fc8",
       "summation": "md5"
     },
     {
       "name": "indiatoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666661530",
-      "size": "1396736",
-      "md5": "1869d27289cbfb9cba0b1f953085470b",
-      "crc32": "7741059d",
-      "sha1": "2e8392b254a41c1e0b8525617f10054673507537",
+      "mtime": "1666702817",
+      "size": "1404928",
+      "md5": "cb5ee6d3c44d39fd23ef5c80b85b0342",
+      "crc32": "907d1bc8",
+      "sha1": "645b932652a1f9f8fa5b20ffe2fbae50c723ac5e",
       "format": "Metadata"
     },
     {
@@ -11325,9 +11387,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1095,
-  "item_last_updated": 1666661585,
-  "item_size": 88405613,
+  "files_count": 1101,
+  "item_last_updated": 1666702865,
+  "item_size": 88771659,
   "metadata": {
     "identifier": "indiatoday-2022",
     "collection": [
@@ -11349,7 +11411,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450440254,
+      "task_id": 3451666165,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11357,7 +11419,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 894460208,
+  "uniq": 1342494243,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
