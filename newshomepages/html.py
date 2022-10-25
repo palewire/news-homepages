@@ -9,6 +9,12 @@ from rich import print
 from . import utils
 
 
+def _read_script_from_file(filename: str):
+    """Read and execute Javascript code from a file to a `Page` object."""
+    with open(filename) as f:
+        return f.read()
+
+
 @click.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
@@ -67,12 +73,12 @@ def _save_html(
             ),
         ]
         for f in single_file_pre_load_extensions:
-            utils.read_script_from_file(f, page)
+            page.evaluate(_read_script_from_file(f))
 
         post_load_script = str(
             utils.EXTENSIONS_PATH / "singlefile" / "javascript" / "single-file.js"
         )
-        utils.read_script_from_file(post_load_script, page)
+        page.evaluate(_read_script_from_file(post_load_script))
         page_html_content = page.evaluate(
             """
                        () => singlefile.getPageData({
