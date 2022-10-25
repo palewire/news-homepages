@@ -1,12 +1,7 @@
 {
-  "created": 1666635894,
+  "created": 1666682816,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
-  "diarioonline-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/35/items/diarioonline-2022",
   "files": [
     {
@@ -14229,31 +14224,93 @@
       "sha1": "595b4ed453358dbbf6bb17d9ec8c387537f574d1"
     },
     {
+      "name": "diarioonline-2022-10-25T03:49:19.317616-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666680570",
+      "size": "43880",
+      "md5": "3aa5b406533be15e5bc7fc5082aa9d6c",
+      "crc32": "39c46581",
+      "sha1": "a627ef277f3ffd8b5845f669137a781e7fd12fbe",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-25T03:49:19.317616-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666680572",
+      "size": "50871",
+      "md5": "996645cdfaebda3d65dd26c8c5cb3bd1",
+      "crc32": "01120f21",
+      "sha1": "5b7e5a6d87202a4fdf066c24ffb7c59f27cd2107",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-25T03:49:19.317616-03:00.jpg",
+      "source": "original",
+      "mtime": "1666680568",
+      "size": "275102",
+      "md5": "b8cdce9f597a830a6d5c402e82f6d891",
+      "crc32": "61dce1f7",
+      "sha1": "a40f5953a1837b16640273da4b4a2b66d0a3430c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diarioonline-2022-10-25T03:49:19.317616-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666680573",
+      "size": "1646",
+      "md5": "fd02195e1a978ebd88f15c5ed40e64d8",
+      "crc32": "9387d674",
+      "sha1": "2a4db33c0c68c944f1b670d1ec3b24a4923c88eb",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-25T03:49:19.317616-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666680575",
+      "size": "57238",
+      "md5": "1aca127e919276989fd854b40ae0be2d",
+      "crc32": "8d349210",
+      "sha1": "05f5d52a6f4d535d612e8dbf15b43ad683081a17",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-25T03:49:19.317616-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diarioonline-2022-10-25T03:49:19.317616-03:00.jpg",
+      "mtime": "1666682342",
+      "size": "9735",
+      "md5": "8f8c75af5977c0b817c2db02a0a4fb63",
+      "crc32": "65ca554f",
+      "sha1": "deb39811a9c239ccd2a483e424b84911641907af"
+    },
+    {
       "name": "diarioonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5cdae53b63cffc78aaff718c108f4a271221b0cf",
-      "mtime": "1666631865",
-      "size": "296270",
-      "md5": "fca4e1e83a30bbb939f03b95ddac9627",
-      "crc32": "d5b7b360",
-      "sha1": "26fa92890ac60b4fbd8fb86252d4169be8e9fb9d",
+      "btih": "61f45d0193b0b44b6fdd065f8e98f3855e5c0163",
+      "mtime": "1666682453",
+      "size": "297561",
+      "md5": "1df18c8ed2e462d2685cb4b4eb16f590",
+      "crc32": "5caede9a",
+      "sha1": "faf28f2d057d72e1e3381efa7cede7e445f1d7e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diarioonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ab6b2dea70851ba69d630b0429c025a",
+      "md5": "5eb1b8ead73c61c2debc22f631f22646",
       "summation": "md5"
     },
     {
       "name": "diarioonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666631754",
-      "size": "1765376",
-      "md5": "b86cf35cec69c698bd9698d3cd8e1f02",
-      "crc32": "22ef6f0c",
-      "sha1": "3ea1eb7a9ce32420b0853a6cb6013441443ec077",
+      "mtime": "1666680595",
+      "size": "1777664",
+      "md5": "76fb3e412aa35e16e95f484d22ad251f",
+      "crc32": "043db872",
+      "sha1": "a475eeb9304850178b4046a3a4a1ff6250b62000",
       "format": "Metadata"
     },
     {
@@ -14267,9 +14324,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1380,
-  "item_last_updated": 1666631865,
-  "item_size": 89718051,
+  "files_count": 1386,
+  "item_last_updated": 1666682453,
+  "item_size": 90170102,
   "metadata": {
     "identifier": "diarioonline-2022",
     "collection": [
@@ -14287,7 +14344,7 @@
     "addeddate": "2022-08-05 03:14:28"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 923067679,
+  "uniq": 501806576,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1666632004,
+  "created": 1666686951,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -12780,31 +12780,93 @@
       "sha1": "4126801758bdd081d606b5cc101f6d32dd440a6c"
     },
     {
+      "name": "fox12oregon-2022-10-24T23:49:20.553245-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666680571",
+      "size": "36441",
+      "md5": "1862caebbe09ccee28508849d9b2cad8",
+      "crc32": "5fde1d9b",
+      "sha1": "9bc104ab5ede90571b8ccdbfb375db21d7eff8d5",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-24T23:49:20.553245-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666680573",
+      "size": "21213",
+      "md5": "5666b17b3e21214ceddd2eff18ba49c7",
+      "crc32": "64f7887d",
+      "sha1": "215cd971ee8eeb2d9c0ce43b872442daed68bac5",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-24T23:49:20.553245-07:00.jpg",
+      "source": "original",
+      "mtime": "1666680569",
+      "size": "382938",
+      "md5": "fa6f5607c833c0cf74f72292e0827166",
+      "crc32": "017c5c5b",
+      "sha1": "4afce612198eefe53a10c4e36684e412fbb62305",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-24T23:49:20.553245-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666680575",
+      "size": "1441",
+      "md5": "0a8bea70385edec9874496986a32f678",
+      "crc32": "1bb354d1",
+      "sha1": "358179c98b06f575e0822025cc31dba9e2403f0b",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-24T23:49:20.553245-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666680576",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-24T23:49:20.553245-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox12oregon-2022-10-24T23:49:20.553245-07:00.jpg",
+      "mtime": "1666682153",
+      "size": "11549",
+      "md5": "229399c67f8194a53da29e1d2d220ca0",
+      "crc32": "325e6bfc",
+      "sha1": "3d1705c2b03348b74a72b8a2a89165f5335e8941"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19a63adab1d794d87e031d0acdc7e6f6aa978427",
-      "mtime": "1666631988",
-      "size": "265557",
-      "md5": "a59a1cd7383708c08939a61a0673649c",
-      "crc32": "fd3c2478",
-      "sha1": "918281ef425de7d431b94fb24af78bd2b284219e",
+      "btih": "e12bacaa9149431b2b6554126b461b6c8a9b5405",
+      "mtime": "1666682168",
+      "size": "266841",
+      "md5": "301a4dc898d370756db363e292c036bc",
+      "crc32": "d174643f",
+      "sha1": "798a8fde3a5ca2e67f7834667fef615fc55e26c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "970bcfe968848d955e71ed959151cfec",
+      "md5": "3b700bb885eb525fc414cb9a44b1ab42",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666631878",
-      "size": "1560576",
-      "md5": "b6e4340cdd1d3b55c1a22c43e572a84f",
-      "crc32": "3ab8fd94",
-      "sha1": "8263b18ead6e2583a23b1506a7978be44613b7a2",
+      "mtime": "1666680580",
+      "size": "1572864",
+      "md5": "0830d45a4c23b1a440475d4fdaba423a",
+      "crc32": "fca49e6c",
+      "sha1": "9e7f1acc95df539f6a11d109761c443c37016798",
       "format": "Metadata"
     },
     {
@@ -12818,9 +12880,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1237,
-  "item_last_updated": 1666631988,
-  "item_size": 108152105,
+  "files_count": 1243,
+  "fox12oregon-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666682168,
+  "item_size": 108619461,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -12838,7 +12905,7 @@
     "addeddate": "2022-07-04 21:52:58"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 252206342,
+  "uniq": 1616598312,
   "workable_servers": [
     "ia801403.us.archive.org",
     "ia601403.us.archive.org"

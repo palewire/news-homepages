@@ -1,5 +1,5 @@
 {
-  "created": 1666632205,
+  "created": 1666682293,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/getfandom-2022",
@@ -11658,31 +11658,93 @@
       "sha1": "34be1db8edbe33fc76a53e0b838a8db8e2e3e601"
     },
     {
+      "name": "getfandom-2022-10-24T23:52:37.856861-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666680761",
+      "size": "15248",
+      "md5": "20a1c2dd0aa8d1030149e3e93335acc6",
+      "crc32": "1bae43ae",
+      "sha1": "ad2b6b5fa3b0b275f23a5765c5691d68bed97034",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-24T23:52:37.856861-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666680763",
+      "size": "23039",
+      "md5": "fb2c9d1f9925a66269301dc202b6a08a",
+      "crc32": "0f19eb28",
+      "sha1": "2da96aee77ebd186adce3351c3167683ba945523",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-24T23:52:37.856861-07:00.jpg",
+      "source": "original",
+      "mtime": "1666680759",
+      "size": "279108",
+      "md5": "6574b2facdcbcbd2858dc6bd8f1caf11",
+      "crc32": "f78912a1",
+      "sha1": "6d874f302b781c7777c59d41910afb82967123e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-24T23:52:37.856861-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666680764",
+      "size": "1455",
+      "md5": "51611aa5e2cd47553b3c6a17854f17a1",
+      "crc32": "893f81ce",
+      "sha1": "d6c7aa3b1d6f00027fea171984620b7ebdc11189",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-24T23:52:37.856861-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666680766",
+      "size": "43649",
+      "md5": "73e32e11eb79445fc67841a0d43af2dd",
+      "crc32": "6038114a",
+      "sha1": "e766c4f546336c143dd033d83f8c401000f3e561",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-24T23:52:37.856861-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-24T23:52:37.856861-07:00.jpg",
+      "mtime": "1666682235",
+      "size": "10751",
+      "md5": "8da46e17fc0c1b45ede658d4208f03d0",
+      "crc32": "243ef198",
+      "sha1": "7c9c80beb37f899896f8f5697999d89aa8e22e4a"
+    },
+    {
       "name": "getfandom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d74217e4c7d9c319d041c6db86025b071eb93f7",
-      "mtime": "1666632146",
-      "size": "239343",
-      "md5": "604886dec420af04999721e9867f58a3",
-      "crc32": "4ea96686",
-      "sha1": "40777ef46491023578d4e2b910715baec1ca9e4a",
+      "btih": "b261ff1e66c08d9c9561f7f330ace1217e311cf4",
+      "mtime": "1666682249",
+      "size": "240597",
+      "md5": "20ae256bccc7e0685d13c653aa0ed5bb",
+      "crc32": "57881a13",
+      "sha1": "bc4d9106444b317269db4527ae69e1f3cdea825c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "getfandom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b719b7329990a1fb3992972e4fb4a534",
+      "md5": "19904ddc137d0d02db404842564c623b",
       "summation": "md5"
     },
     {
       "name": "getfandom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666631986",
-      "size": "1429504",
-      "md5": "3076ab1b85ade50639ac23a0130e3c09",
-      "crc32": "076dd670",
-      "sha1": "5884a4ac265e9cc86090ec91d690bd6440a2db43",
+      "mtime": "1666680772",
+      "size": "1437696",
+      "md5": "b7e0e9e6a7c093036377c5a63fa644cf",
+      "crc32": "00b6fa97",
+      "sha1": "23484ea5782cf2ccaa824a33965c44d6c2f12da0",
       "format": "Metadata"
     },
     {
@@ -11696,9 +11758,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1130,
-  "item_last_updated": 1666632146,
-  "item_size": 72162452,
+  "files_count": 1136,
+  "item_last_updated": 1666682249,
+  "item_size": 72545148,
   "metadata": {
     "identifier": "getfandom-2022",
     "collection": [
@@ -11716,7 +11778,7 @@
     "addeddate": "2022-07-18 02:22:01"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 38853008,
+  "uniq": 264276298,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"
