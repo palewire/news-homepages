@@ -1,5 +1,5 @@
 {
-  "created": 1666686590,
+  "created": 1666717657,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/20/items/highcountrynews-2022",
@@ -12392,31 +12392,82 @@
       "sha1": "46c674b14bd616ff367ee907a7368eb8cebaeb51"
     },
     {
+      "name": "highcountrynews-2022-10-25T11:04:23.343826-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717478",
+      "size": "44595",
+      "md5": "eb00526ae5236aef1b2c7a35533cbba8",
+      "crc32": "2aeba1ba",
+      "sha1": "d4cc7f8db79a293e56817801b9b96cd90ab20c03",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-25T11:04:23.343826-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717480",
+      "size": "29850",
+      "md5": "63df36e6b90bde153181978a8951f5bd",
+      "crc32": "fe6b7f38",
+      "sha1": "aea91ee2d706614960b5c47b839a5f7e3b399d42",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-25T11:04:23.343826-06:00.jpg",
+      "source": "original",
+      "mtime": "1666717476",
+      "size": "327703",
+      "md5": "6f3927696507e076a16a1f5a578fd8b2",
+      "crc32": "3e47c6e1",
+      "sha1": "32f4f21e31ab00334653c05b1449aa791d462e9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "highcountrynews-2022-10-25T11:04:23.343826-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717482",
+      "size": "1432",
+      "md5": "1aba4ec5e207df6657837ed857dc0e26",
+      "crc32": "ad6ee58f",
+      "sha1": "d221be5c9ffaf74d56129960105083244ad17685",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-25T11:04:23.343826-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717484",
+      "size": "19459",
+      "md5": "c6541b99d7d3a529f20c814a0fed2e2e",
+      "crc32": "7f0d4757",
+      "sha1": "79cb48a5cff2c2da4c539f5c4951ae4d879d236e",
+      "format": "JSON"
+    },
+    {
       "name": "highcountrynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11758928d92cf93d8a18e8665257c961996fd951",
-      "mtime": "1666682516",
-      "size": "262121",
-      "md5": "459663ca82e19750e149ca5ba087bdbb",
-      "crc32": "50eaa508",
-      "sha1": "28bf3c770d2a37610f5b9b172c39ea223c8aed18",
+      "btih": "6641d59f1a7e4aa95e9f5278eaef17be9fb1ff7a",
+      "mtime": "1666717626",
+      "size": "263219",
+      "md5": "f09f95a83ed6a2053970c06e4f0cb0df",
+      "crc32": "301e048f",
+      "sha1": "2c6918472fee56457140b966118601a35f7ae0d0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "highcountrynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3915d385972f8cbb894f16a3c9d33a93",
+      "md5": "9146e96768ec776e985a58d7b21bd4fc",
       "summation": "md5"
     },
     {
       "name": "highcountrynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679786",
-      "size": "1527808",
-      "md5": "1061aff9de44804636ff8772d031ae04",
-      "crc32": "2ca1dd2b",
-      "sha1": "ba9763c4ae7b84aade0b2857e2e31280c527b420",
+      "mtime": "1666717512",
+      "size": "1531904",
+      "md5": "c18e6920e12b3806474805401a7c0b5d",
+      "crc32": "b4b5e842",
+      "sha1": "d1ca3da414a2506020b994091f9c7d5f1c5a2991",
       "format": "Metadata"
     },
     {
@@ -12430,14 +12481,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1200,
-  "highcountrynews-2022": {
-    "url": "https://www.hcn.org/",
-    "job_id": "spn2-23e48278183fb7e66faa3b9925906f974f0f07dd",
-    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
-  },
-  "item_last_updated": 1666682516,
-  "item_size": 95888904,
+  "files_count": 1205,
+  "item_last_updated": 1666717626,
+  "item_size": 96317137,
   "metadata": {
     "identifier": "highcountrynews-2022",
     "collection": [
@@ -12454,10 +12500,21 @@
     "publicdate": "2022-07-09 03:58:59",
     "addeddate": "2022-07-09 03:58:59"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 344723587,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451838258,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 346462726,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

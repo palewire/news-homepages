@@ -1,5 +1,6 @@
 {
-  "created": 1666682413,
+  "conflict": 1666718349,
+  "created": 1666717836,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/2/items/mailandguardian-2022",
@@ -7778,31 +7779,82 @@
       "sha1": "eec9a3e650e087e299d904b1ca06879213a3f898"
     },
     {
+      "name": "mailandguardian-2022-10-25T19:09:10.699026+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717756",
+      "size": "35998",
+      "md5": "6a5216d511bee80e33a7e85116694627",
+      "crc32": "6782d815",
+      "sha1": "72cc665cd370c5ed2224c0ee958a4c3613773f76",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-25T19:09:10.699026+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717760",
+      "size": "27738",
+      "md5": "a3261884048f8075d95c715f7632f226",
+      "crc32": "87454548",
+      "sha1": "bad2572627ed06a513e4b203e507bd576077ad62",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-25T19:09:10.699026+02:00.jpg",
+      "source": "original",
+      "mtime": "1666717753",
+      "size": "292531",
+      "md5": "ab3b62b28ee9ca0409585fed7164505a",
+      "crc32": "0e9150c4",
+      "sha1": "7e6d8b064e012e0f4ce43940f5c5b60c38e2bf07",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mailandguardian-2022-10-25T19:09:10.699026+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717763",
+      "size": "1405",
+      "md5": "feef5272a9ca9324eca839a340c1094c",
+      "crc32": "eeaea0fa",
+      "sha1": "aabb558b5ece5412bf96d70ef4b511dd025dea89",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-25T19:09:10.699026+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717765",
+      "size": "40338",
+      "md5": "b1526f7bb68321003bd7e341be46b2f5",
+      "crc32": "c9b5ea6f",
+      "sha1": "8a2c258544af82928c165e537879fd7909f123d3",
+      "format": "JSON"
+    },
+    {
       "name": "mailandguardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fba1493b3b2ac80c5abac9a88515f439bcd1dd20",
-      "mtime": "1666682135",
-      "size": "164633",
-      "md5": "0e8288ce4f09c2b5dee8790cdc2fb14a",
-      "crc32": "0d45273d",
-      "sha1": "2ae3593c63a66476821ae10473fb7daa526a181f",
+      "btih": "3b87b47cea54a0826ad7824d872cccc4a0b5217d",
+      "mtime": "1666717827",
+      "size": "165711",
+      "md5": "4d1473ec61d3c4eaca63e2fb069559f6",
+      "crc32": "f3a8d41a",
+      "sha1": "47e2acc11d4e758f4ae77f6afd3b0d2a31435982",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailandguardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "efbd39ac20d54b387199e13bc6a6ac32",
+      "md5": "2aabbfa3fe0a5c53ebb3ae0466aa5368",
       "summation": "md5"
     },
     {
       "name": "mailandguardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680000",
-      "size": "978944",
-      "md5": "f496d15d74d7030562b3b9372584247d",
-      "crc32": "6312915f",
-      "sha1": "198c3022a7844057393027204287505731da258e",
+      "mtime": "1666717772",
+      "size": "987136",
+      "md5": "e89f6be76cc6f9efeb18e16dc7989991",
+      "crc32": "85997426",
+      "sha1": "bb56d0c3e426427d8dd66c38c793af8a1a5cd5b4",
       "format": "Metadata"
     },
     {
@@ -7816,9 +7868,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 756,
-  "item_last_updated": 1666682135,
-  "item_size": 44274827,
+  "files_count": 761,
+  "item_last_updated": 1666717827,
+  "item_size": 44682107,
   "metadata": {
     "identifier": "mailandguardian-2022",
     "collection": [
@@ -7835,10 +7887,21 @@
     "publicdate": "2022-08-22 22:03:42",
     "addeddate": "2022-08-22 22:03:42"
   },
+  "pending_tasks": true,
   "server": "ia801407.us.archive.org",
-  "uniq": 311357708,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451841542,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 454522806,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia801407.us.archive.org"
   ]
 }

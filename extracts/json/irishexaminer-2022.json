@@ -1,5 +1,5 @@
 {
-  "created": 1666682223,
+  "created": 1666717597,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/irishexaminer-2022",
@@ -11710,31 +11710,82 @@
       "sha1": "977a83f2b120ab33b5719185e5b15cb396358af7"
     },
     {
+      "name": "irishexaminer-2022-10-25T18:05:24.325761+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717536",
+      "size": "32929",
+      "md5": "1781c48b1a1c925845f928e925c2eebb",
+      "crc32": "cccd697a",
+      "sha1": "dde330cdce999ca97a59df6a4ea979dae8c48d58",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-25T18:05:24.325761+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717538",
+      "size": "32848",
+      "md5": "fcb67f378eb1e210c4ecc95b4bda4957",
+      "crc32": "cc5d4835",
+      "sha1": "84a37895c703830a752c6caa0ad484cbc000c88e",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-25T18:05:24.325761+01:00.jpg",
+      "source": "original",
+      "mtime": "1666717534",
+      "size": "338014",
+      "md5": "d0ead17ae855e94c279734a4950ac0ff",
+      "crc32": "264a6637",
+      "sha1": "d90d309f7c75bf4bfdcf79c573d1f14dc7690db5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishexaminer-2022-10-25T18:05:24.325761+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717540",
+      "size": "1522",
+      "md5": "edebb0865a03b50af9de75a5f75f661c",
+      "crc32": "90d36ae7",
+      "sha1": "4af172ef67a5213c300ef6ac5f0356ca15ce3db3",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-10-25T18:05:24.325761+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717544",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "irishexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8b15daa3a2c4c4591433f8f5d30bc323645bcbf",
-      "mtime": "1666682195",
-      "size": "245345",
-      "md5": "bcb5cf1727fb001fd9839dc2cae0514f",
-      "crc32": "0fc75703",
-      "sha1": "e0c866c5be2e67d00931f9d530d71043924ee21a",
+      "btih": "d57fe117a8f33e90effc439920ae38b79db903e9",
+      "mtime": "1666717593",
+      "size": "246411",
+      "md5": "55c1a51fa87c54e7b63897ab4fc8ebf0",
+      "crc32": "6ea39b5d",
+      "sha1": "485474f122d55bc29c7f23c41059b1c2a5f3d68b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "daa4501ec603c85e6febed4f06d5b7b1",
+      "md5": "b7157ee5547f42563406c5c20722957d",
       "summation": "md5"
     },
     {
       "name": "irishexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679765",
-      "size": "1445888",
-      "md5": "4b62defd6d38301dfe9c230f82300ae5",
-      "crc32": "acfe72bd",
-      "sha1": "94d2794803247c9064bd5cb908c96252abbea0eb",
+      "mtime": "1666717547",
+      "size": "1458176",
+      "md5": "81e6abc7ac57771c0bff40c759b402a7",
+      "crc32": "a60598aa",
+      "sha1": "7c1ed333ecaa48b3d195a3714d75182073c320de",
       "format": "Metadata"
     },
     {
@@ -11748,9 +11799,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1135,
-  "item_last_updated": 1666682195,
-  "item_size": 81612153,
+  "files_count": 1140,
+  "item_last_updated": 1666717593,
+  "item_size": 82031022,
   "metadata": {
     "identifier": "irishexaminer-2022",
     "collection": [
@@ -11767,10 +11818,21 @@
     "publicdate": "2022-07-18 02:23:56",
     "addeddate": "2022-07-18 02:23:56"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 713041709,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451837083,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 108274394,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

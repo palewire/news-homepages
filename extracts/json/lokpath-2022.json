@@ -1,5 +1,5 @@
 {
-  "created": 1666682224,
+  "created": 1666717744,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/23/items/lokpath-2022",
@@ -11102,31 +11102,82 @@
       "sha1": "b75dd52aaf2e0e596ba2d5f2c97b97dc75771cc3"
     },
     {
+      "name": "lokpath-2022-10-25T22:52:47.981141+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666717681",
+      "size": "57102",
+      "md5": "48890aca1c754d5ad3040608808b4d2b",
+      "crc32": "49d19cce",
+      "sha1": "5131ed7726dd00a60db18d1b53f60f41dc66226c",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-25T22:52:47.981141+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717684",
+      "size": "45549",
+      "md5": "2fc3343302fc5177d86fe33ad1535986",
+      "crc32": "9927f586",
+      "sha1": "2a3a55eae32731d09e723d841ab0c4ae4a53ea4b",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-25T22:52:47.981141+05:45.jpg",
+      "source": "original",
+      "mtime": "1666717679",
+      "size": "263272",
+      "md5": "5928d5606d5bd2716f0ced3d809ed4a2",
+      "crc32": "d10847c2",
+      "sha1": "fe0447d577d8cbc97a1c6b81b9ff2cc9528c7e46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lokpath-2022-10-25T22:52:47.981141+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717687",
+      "size": "1468",
+      "md5": "12db604c350073bc7873c694ab3a26f1",
+      "crc32": "91dc3f1d",
+      "sha1": "644b5cd94582dbf164bcab4578a4b8596649f9b0",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-10-25T22:52:47.981141+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666717689",
+      "size": "20409",
+      "md5": "4591fe3d0bdb2561b4d57713ae88596c",
+      "crc32": "eccbe5a2",
+      "sha1": "7b8d436c723736021c12c3496be6dde287c76529",
+      "format": "JSON"
+    },
+    {
       "name": "lokpath-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df609101a3e8b3cc9f3387638eb901f032a4fc8d",
-      "mtime": "1666682162",
-      "size": "225853",
-      "md5": "704c4600552fc5fbafc5dfa1dfd61c89",
-      "crc32": "30a8f484",
-      "sha1": "105406368b00305724f99b87252cc517aaea0291",
+      "btih": "79c75ad7bb76049ab5bb2afd82b9777a3d654d20",
+      "mtime": "1666717739",
+      "size": "226911",
+      "md5": "248e5078292db93542f9e5c45c808725",
+      "crc32": "d2db7857",
+      "sha1": "dc5ce105dc2764402f0733350b1a58d880d208a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lokpath-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4606544590d896ba04c5bd71594e6042",
+      "md5": "a12a5dd87a3f2720f67cbfdce9f92b20",
       "summation": "md5"
     },
     {
       "name": "lokpath-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679992",
-      "size": "1368064",
-      "md5": "a807f498844d9bf29d1f05457e602a7e",
-      "crc32": "fa6927b7",
-      "sha1": "f162a528539de9665799654dc4b53da63676c155",
+      "mtime": "1666717694",
+      "size": "1372160",
+      "md5": "5f6fe18c15b7904ac491b3cbd26bf923",
+      "crc32": "4deb83d7",
+      "sha1": "36b9cbbbd32c9650ac5fee21cc464ddbde369830",
       "format": "Metadata"
     },
     {
@@ -11140,9 +11191,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1077,
-  "item_last_updated": 1666682162,
-  "item_size": 67628301,
+  "files_count": 1082,
+  "item_last_updated": 1666717739,
+  "item_size": 68021255,
   "metadata": {
     "identifier": "lokpath-2022",
     "collection": [
@@ -11159,10 +11210,21 @@
     "publicdate": "2022-07-24 20:38:13",
     "addeddate": "2022-07-24 20:38:13"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 186075445,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451839802,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 588891720,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }

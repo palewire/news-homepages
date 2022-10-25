@@ -1,5 +1,5 @@
 {
-  "created": 1666686615,
+  "created": 1666717597,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/independentmail-2022",
@@ -4356,31 +4356,82 @@
       "sha1": "943364fe856a643aab68daa71aa5579ae82a880e"
     },
     {
+      "name": "independentmail-2022-10-25T13:05:40.928775-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717546",
+      "size": "19801",
+      "md5": "397718459ba036167928daa1a8c909de",
+      "crc32": "b67ac8d3",
+      "sha1": "0d14a3f2a4f2709966a9f1334433902b9eb09b68",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-10-25T13:05:40.928775-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717547",
+      "size": "40677",
+      "md5": "432bfeb0998f54d322f15d56fc5c8369",
+      "crc32": "40f4c9d9",
+      "sha1": "d83e9ff292bd4e9f8202c9a628ad63e1925ce112",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-10-25T13:05:40.928775-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717545",
+      "size": "257863",
+      "md5": "0ed4a6d06a6f7baa02b9d805ab22cc51",
+      "crc32": "90146e8f",
+      "sha1": "6277c28d2643e8c4d2b170261e9e0cf4e047b716",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independentmail-2022-10-25T13:05:40.928775-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717549",
+      "size": "1539",
+      "md5": "afdf326088f5625bb9ce911a35bd5b8b",
+      "crc32": "0132de1a",
+      "sha1": "889537a558509d2968e506c78c410d1449744fb2",
+      "format": "JSON"
+    },
+    {
+      "name": "independentmail-2022-10-25T13:05:40.928775-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717550",
+      "size": "103448",
+      "md5": "3eac315ff4bd958ae2d2eecdc14d54fb",
+      "crc32": "483b12be",
+      "sha1": "e6c0f56c1829213b134c632551a1b5df97fb2fb7",
+      "format": "JSON"
+    },
+    {
       "name": "independentmail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1d0e36f8986c74ea792d37ef87e0f874e03e989",
-      "mtime": "1666681763",
-      "size": "93002",
-      "md5": "55927a9d9e40809ab611ed2b621721e1",
-      "crc32": "2205f0fe",
-      "sha1": "1879a6a24b0f1b46e6777d09cee75cc0ae970c8a",
+      "btih": "bc955b3feda6831d3b89329b79516b1f2ecf560b",
+      "mtime": "1666717593",
+      "size": "94101",
+      "md5": "6025e77fbeb03ed337eaadb2f104629a",
+      "crc32": "de5eb873",
+      "sha1": "ab94f4a49bf4c2221eba3b5f352d9b37f90215a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "independentmail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "41a833421ae65e6b468693a44244ed93",
+      "md5": "4bad513f322c55de2fc086ac9f6bee66",
       "summation": "md5"
     },
     {
       "name": "independentmail-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679767",
-      "size": "561152",
-      "md5": "0908bc33c36c7733c2466f3aeb7c9c9e",
-      "crc32": "65237b63",
-      "sha1": "c6c14bc38c45a7fe26ea2ccbd1b7ded8c5d3026c",
+      "mtime": "1666717555",
+      "size": "569344",
+      "md5": "48729d44a3955696dd52fe4e9115ea06",
+      "crc32": "d544e734",
+      "sha1": "021218e40dee735c661afcc376e38b6547f59e40",
       "format": "Metadata"
     },
     {
@@ -4394,14 +4445,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 425,
-  "independentmail-2022": {
-    "url": "https://www.independentmail.com/",
-    "job_id": "spn2-ea38d512c417e95d414d81b61ef8d3e4cc13fb0b",
-    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
-  },
-  "item_last_updated": 1666681763,
-  "item_size": 29090639,
+  "files_count": 430,
+  "item_last_updated": 1666717593,
+  "item_size": 29523258,
   "metadata": {
     "identifier": "independentmail-2022",
     "collection": [
@@ -4418,10 +4464,21 @@
     "publicdate": "2022-09-20 17:30:12",
     "addeddate": "2022-09-20 17:30:12"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 497739133,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451837094,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1037844901,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

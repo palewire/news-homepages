@@ -1,5 +1,5 @@
 {
-  "created": 1666682627,
+  "created": 1666717810,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/19/items/mainemonitor-2022",
@@ -7384,31 +7384,82 @@
       "sha1": "9c1120292171ef2040344b24f44e673e730535b3"
     },
     {
+      "name": "mainemonitor-2022-10-25T13:07:47.862732-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717687",
+      "size": "14806",
+      "md5": "0a5dd29b4863f24a178b03d3ab19f4a3",
+      "crc32": "c352187f",
+      "sha1": "005c762c775e4b40d1e49d8e9b100c40e2690732",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-25T13:07:47.862732-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717689",
+      "size": "13693",
+      "md5": "9566474be9b6aedd41106da881520899",
+      "crc32": "e583c924",
+      "sha1": "74c3be1e347c83f070345f3453ef7fd2276707e8",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-25T13:07:47.862732-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717685",
+      "size": "272864",
+      "md5": "b86483494e418461cd52d07735ec39d6",
+      "crc32": "1180e492",
+      "sha1": "44a2268ab06bffc03b32b879c916911683d6aa22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mainemonitor-2022-10-25T13:07:47.862732-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717692",
+      "size": "1540",
+      "md5": "47fb3c70a577756e0cede4a84a75dc2e",
+      "crc32": "b9e35c1c",
+      "sha1": "1b7c3b7e4d3265f319a40a3250fbcf22f7dd2ce6",
+      "format": "JSON"
+    },
+    {
+      "name": "mainemonitor-2022-10-25T13:07:47.862732-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717694",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "mainemonitor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "22e7b5c0b486b384a2f0fd7322db321e777e4273",
-      "mtime": "1666682530",
-      "size": "154201",
-      "md5": "32fb7075d7852bf64c2cd245ee75a996",
-      "crc32": "c6d70a1d",
-      "sha1": "e30aeab0e5f797a6e6fe7ebb3720b056ea1457d5",
+      "btih": "78b3d55842fa0d20f03c8133015ef64ca25ed206",
+      "mtime": "1666717805",
+      "size": "155282",
+      "md5": "93f57bddd9450071dcd604e8180417a4",
+      "crc32": "a3b7d1c2",
+      "sha1": "3788fdbccf74065d569c66a7f266b52fa89aa458",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mainemonitor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26c6dc427cd6411a352684b702b60df3",
+      "md5": "f84567692c062faf10bb793d9296c6a2",
       "summation": "md5"
     },
     {
       "name": "mainemonitor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680047",
-      "size": "925696",
-      "md5": "e8163a62a9a3fc22e2349517938f4297",
-      "crc32": "6120a886",
-      "sha1": "1d6cbaf023c6488915ce2b392c25ae7e6b042854",
+      "mtime": "1666717762",
+      "size": "933888",
+      "md5": "cef448565666d121dd639a2e83887ed9",
+      "crc32": "a328f585",
+      "sha1": "e3905d44375dd2f2b5a3e41104bfd458c5551cf5",
       "format": "Metadata"
     },
     {
@@ -7422,9 +7473,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 718,
-  "item_last_updated": 1666682530,
-  "item_size": 39761824,
+  "files_count": 723,
+  "item_last_updated": 1666717805,
+  "item_size": 40074202,
   "metadata": {
     "identifier": "mainemonitor-2022",
     "collection": [
@@ -7441,10 +7492,21 @@
     "publicdate": "2022-08-26 15:01:20",
     "addeddate": "2022-08-26 15:01:20"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 698220113,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451841079,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 290277895,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

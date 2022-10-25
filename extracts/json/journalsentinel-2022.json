@@ -1,5 +1,5 @@
 {
-  "created": 1666681894,
+  "created": 1666717625,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/journalsentinel-2022",
@@ -18900,31 +18900,82 @@
       "sha1": "69d15f1de614772f43b37f3af1c2c0cd430f0e35"
     },
     {
+      "name": "journalsentinel-2022-10-25T12:05:37.894398-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717549",
+      "size": "23064",
+      "md5": "41154827fa3788e9df531074674065b6",
+      "crc32": "288452d5",
+      "sha1": "7302a9bc40749bd44dfbcd9cd2c177ddf2648a5a",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-10-25T12:05:37.894398-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717550",
+      "size": "39045",
+      "md5": "2e1adfbd887fe050ae86371d2b70ef09",
+      "crc32": "72fa8f29",
+      "sha1": "4beefd8fce9a46732bdca5b09c36b6c111e99225",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-10-25T12:05:37.894398-05:00.jpg",
+      "source": "original",
+      "mtime": "1666717547",
+      "size": "269132",
+      "md5": "73764d7cb8653ff8b18b164a2f784db6",
+      "crc32": "f4356e6b",
+      "sha1": "73b8e76aa14b21ca87681283907cc45a9c0b151b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalsentinel-2022-10-25T12:05:37.894398-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717552",
+      "size": "1477",
+      "md5": "7546855ef73323ae102867edfd2a98eb",
+      "crc32": "8541af3e",
+      "sha1": "855e57d1e59a774ec0f02e1efc03b67da3c89c09",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-10-25T12:05:37.894398-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717554",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "journalsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e09dcc8dae3d8b443fda0094ea3622ff8a66c0c",
-      "mtime": "1666681829",
-      "size": "396240",
-      "md5": "f4a085559859bb8a89e6e933b90c191c",
-      "crc32": "45a04486",
-      "sha1": "45b00c77af0fdbd4439e2514b3ffbd9a95297557",
+      "btih": "3940babcce592c0f7c8b987873a97f0d6c32c26b",
+      "mtime": "1666717619",
+      "size": "397336",
+      "md5": "9ea8637d0107590e5531c1de70cd54a2",
+      "crc32": "ec5780a6",
+      "sha1": "96b8f58d8ba47a2a0cd843e8b426cd13f9152d75",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7e8b02829968d775d4d169027a132c5d",
+      "md5": "c8d6c3764820af5fe8af82d5a9dd42f9",
       "summation": "md5"
     },
     {
       "name": "journalsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679760",
-      "size": "2228224",
-      "md5": "4000ec62cfef344bf98873ecce0827e2",
-      "crc32": "f2e98dd1",
-      "sha1": "4e859dbb68a435f653419571deea948c495674cd",
+      "mtime": "1666717559",
+      "size": "2240512",
+      "md5": "719a2b74d942dc4df5d0dabecc366471",
+      "crc32": "0cbacfba",
+      "sha1": "597e51f1653a03b2fa50f43b1a1bc98050a05dd7",
       "format": "Metadata"
     },
     {
@@ -18938,9 +18989,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1819,
-  "item_last_updated": 1666681829,
-  "item_size": 141242755,
+  "files_count": 1824,
+  "item_last_updated": 1666717619,
+  "item_size": 141589059,
   "metadata": {
     "identifier": "journalsentinel-2022",
     "collection": [
@@ -18957,10 +19008,21 @@
     "publicdate": "2022-03-23 23:06:34",
     "addeddate": "2022-03-23 23:06:34"
   },
-  "server": "ia802503.us.archive.org",
-  "uniq": 1521785952,
+  "pending_tasks": true,
+  "server": "ia902503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451837586,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 147739318,
   "workable_servers": [
-    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666682436,
+  "created": 1666717723,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/larazon_es-2022",
@@ -5246,31 +5246,61 @@
       "format": "JSON"
     },
     {
+      "name": "larazon_es-2022-10-25T19:07:19.135936+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717641",
+      "size": "91166",
+      "md5": "b114622162304d112c113db19f83f595",
+      "crc32": "723e9b9d",
+      "sha1": "0bc074d8efdadd0504c21133a8026eb57dce0b43",
+      "format": "JSON"
+    },
+    {
+      "name": "larazon_es-2022-10-25T19:07:19.135936+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717643",
+      "size": "1459",
+      "md5": "7ab3037ece2007a0dfe81b9bf7414525",
+      "crc32": "6a73562b",
+      "sha1": "69d82b4ea8bc2f44befa3063c8abfb9ef6aa340d",
+      "format": "JSON"
+    },
+    {
+      "name": "larazon_es-2022-10-25T19:07:19.135936+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717645",
+      "size": "42692",
+      "md5": "79ad19042f3a65a2b227e36fa2879675",
+      "crc32": "db45b782",
+      "sha1": "559e9b136e36643d788d3b959c0e27fccb33b823",
+      "format": "JSON"
+    },
+    {
       "name": "larazon_es-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c769dbe347422a4ad2a97ad115b7a02733f9d632",
-      "mtime": "1666680079",
-      "size": "112835",
-      "md5": "ef90119934bea0a107a3abe8628dc9ed",
-      "crc32": "e50ce918",
-      "sha1": "c1eba9501bfb2ff4cda8874a4aac2a68068cd1b2",
+      "btih": "ccf0f31825831fb034969c72c61a8457a1fe029b",
+      "mtime": "1666717716",
+      "size": "113470",
+      "md5": "fd59d5e28037802d360795904ee23d2b",
+      "crc32": "eb316627",
+      "sha1": "0493f04863b2a876cf5e5bbbc57f4e8daac76c57",
       "format": "Archive BitTorrent"
     },
     {
       "name": "larazon_es-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8bd7e4fb6a8a4ccb4ac4c7be2ecb1b52",
+      "md5": "e5ec94bdb10665e47d5f45ca89e29424",
       "summation": "md5"
     },
     {
       "name": "larazon_es-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680028",
-      "size": "811008",
-      "md5": "36e4865445a9f54803c29a8a839fe5b8",
-      "crc32": "45d7fa70",
-      "sha1": "1de522bd2a5e2ed16eba26420c5e1d9e06b7d4e1",
+      "mtime": "1666717662",
+      "size": "819200",
+      "md5": "95798f981d5635f2fe36528e85f9a28a",
+      "crc32": "966cf5ab",
+      "sha1": "db87ace86c881d976e73f6f58d597efb92aa3813",
       "format": "Metadata"
     },
     {
@@ -5284,9 +5314,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 527,
-  "item_last_updated": 1666680079,
-  "item_size": 21857944,
+  "files_count": 530,
+  "item_last_updated": 1666717716,
+  "item_size": 22002088,
   "metadata": {
     "identifier": "larazon_es-2022",
     "collection": [
@@ -5303,10 +5333,21 @@
     "publicdate": "2022-07-28 18:54:08",
     "addeddate": "2022-07-28 18:54:08"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 1002361525,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451839487,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1809483871,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

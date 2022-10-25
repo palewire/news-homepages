@@ -1,5 +1,5 @@
 {
-  "created": 1666686925,
+  "created": 1666717826,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/25/items/lp_lapresse-2022",
@@ -13814,31 +13814,82 @@
       "sha1": "2273a7849dae6fce3c6157501005e68ab7846d70"
     },
     {
+      "name": "lp_lapresse-2022-10-25T13:08:28.999891-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717719",
+      "size": "89451",
+      "md5": "ccfb42c0f29ac3ca760e5cf9f9765fd0",
+      "crc32": "100a8419",
+      "sha1": "da360ec35c502fa378e5ca04e06916a666b6ad22",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-25T13:08:28.999891-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717721",
+      "size": "143043",
+      "md5": "db0a582e7da79e1a6ebedfd6dc88032a",
+      "crc32": "68aa607a",
+      "sha1": "380b8fc9ea01a2c85129f61ffb29026c60e9e71a",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-25T13:08:28.999891-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717717",
+      "size": "266679",
+      "md5": "b368449b6be5fae062dee1f0e1ee5e81",
+      "crc32": "5d68a01a",
+      "sha1": "0b7015a8e9db48f44137621c0bf576d1bad936ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lp_lapresse-2022-10-25T13:08:28.999891-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717723",
+      "size": "1468",
+      "md5": "2d5c93f980e24e1454199c3844bae409",
+      "crc32": "a121dfd0",
+      "sha1": "7c780d09dd942e302772288f31484e152fa58d7c",
+      "format": "JSON"
+    },
+    {
+      "name": "lp_lapresse-2022-10-25T13:08:28.999891-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717725",
+      "size": "69483",
+      "md5": "7d0fe3e50564f8d43022fd58371be19f",
+      "crc32": "197e6029",
+      "sha1": "0986b4a7eff5a69c7c5b8813f451f3496f94a25c",
+      "format": "JSON"
+    },
+    {
       "name": "lp_lapresse-2022_archive.torrent",
       "source": "metadata",
-      "btih": "152d228a1cda6c5a0de900bd8fe44a2d3e6beabd",
-      "mtime": "1666681985",
-      "size": "287402",
-      "md5": "2c96647677844e013a7861afeb3a9a4c",
-      "crc32": "540003c8",
-      "sha1": "9393d9aa56ffa7363c56f82eb3c0268d0ef01a02",
+      "btih": "df72931305cbd7cb396747d65191aaf8d8b83c29",
+      "mtime": "1666717820",
+      "size": "288481",
+      "md5": "b1e176215924eac4f9a11ef8c9adafff",
+      "crc32": "bc9b3b15",
+      "sha1": "a3f4534ed9398eaa462b6a8193ff03320669f0bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lp_lapresse-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7d680855ff5699079773bfad82ab24c",
+      "md5": "7e9a4f553de9a1b57c64125d9508d0e8",
       "summation": "md5"
     },
     {
       "name": "lp_lapresse-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680009",
-      "size": "1671168",
-      "md5": "e1fe110455884135d9b77b8f34a46d16",
-      "crc32": "8dff0bb8",
-      "sha1": "1b6e14cab297fec73a5eb944010f2b6671c3fde9",
+      "mtime": "1666717747",
+      "size": "1675264",
+      "md5": "2ce1304ec457988b57ec96b2b29fb5c0",
+      "crc32": "ceb001a0",
+      "sha1": "9401b10fb92da7264995ee199986bb681aeadbeb",
       "format": "Metadata"
     },
     {
@@ -13852,14 +13903,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1335,
-  "item_last_updated": 1666681985,
-  "item_size": 135688552,
-  "lp_lapresse-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 1340,
+  "item_last_updated": 1666717820,
+  "item_size": 136263851,
   "metadata": {
     "identifier": "lp_lapresse-2022",
     "collection": [
@@ -13876,10 +13922,21 @@
     "publicdate": "2022-06-30 22:35:44",
     "addeddate": "2022-06-30 22:35:44"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 747721580,
+  "pending_tasks": true,
+  "server": "ia902500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451841381,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1924591329,
   "workable_servers": [
-    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

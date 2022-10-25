@@ -1,5 +1,5 @@
 {
-  "created": 1666682435,
+  "created": 1666717689,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/28/items/kinstonfp-2022",
@@ -4334,31 +4334,82 @@
       "sha1": "396c94dc870bf088a0cddcbcbfd256826f61a421"
     },
     {
+      "name": "kinstonfp-2022-10-25T13:06:09.854270-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717619",
+      "size": "24582",
+      "md5": "3d307736f4734aebbaa0b6e9e05e7d94",
+      "crc32": "085c3090",
+      "sha1": "a809bcffc411dd425410e23eab47a9ca46a0d180",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-25T13:06:09.854270-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717622",
+      "size": "17715",
+      "md5": "8a1505e979d545bf96b68c99bfa456f2",
+      "crc32": "3bc29462",
+      "sha1": "20a8857013d82038f56087da8dfc47ea3f45f451",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-25T13:06:09.854270-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717617",
+      "size": "269011",
+      "md5": "1b74e63623907b8b0703e822478522f8",
+      "crc32": "41ca993b",
+      "sha1": "9ba733a64d5d6349a5b7605ff104960a4a914a25",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kinstonfp-2022-10-25T13:06:09.854270-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717624",
+      "size": "1468",
+      "md5": "4569061cddc31b8a4f19061a774bb1cb",
+      "crc32": "5e3dd5f1",
+      "sha1": "d81cdb358b95166209bd2b4a64dc4819a4ea0e9f",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-25T13:06:09.854270-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717626",
+      "size": "91648",
+      "md5": "ceac65690dcd32cd6fa41e27be55b8ab",
+      "crc32": "f1da7d08",
+      "sha1": "c537f5220e1de17e642d82b70cb774117f9ba3ac",
+      "format": "JSON"
+    },
+    {
       "name": "kinstonfp-2022_archive.torrent",
       "source": "metadata",
-      "btih": "69d15293ccaaee0ad6a16d03e96afb66a78114da",
-      "mtime": "1666682227",
-      "size": "90045",
-      "md5": "34632ca4d3db1d63bf5d8346c0d67f3b",
-      "crc32": "47f35a76",
-      "sha1": "d4f4edfc30a441530f9f56bc0383bca19e82dd9d",
+      "btih": "57aca78a09dae02cb73ff20af4cb9134b7b58ad2",
+      "mtime": "1666717681",
+      "size": "91113",
+      "md5": "330f77db47d615f1485bfde534d56e77",
+      "crc32": "01f15ace",
+      "sha1": "fbca3ed480b8a788ad027dcb461c0cb6b0cf069f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kinstonfp-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "087f357bc11a39d960599ebb2d05769a",
+      "md5": "1015966147d87796d78916627f15d759",
       "summation": "md5"
     },
     {
       "name": "kinstonfp-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680026",
-      "size": "552960",
-      "md5": "b365e0ae3ae649c064814f258a556636",
-      "crc32": "54c48c18",
-      "sha1": "86e07470bce677c51965fbb6a78926eb8fd4a7a6",
+      "mtime": "1666717640",
+      "size": "557056",
+      "md5": "394d5eee44b4368006d9a24f342d12c3",
+      "crc32": "56ff7dcb",
+      "sha1": "8d9f8e611354e65343fe4251500b8c210f572447",
       "format": "Metadata"
     },
     {
@@ -4372,9 +4423,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 423,
-  "item_last_updated": 1666682227,
-  "item_size": 29704610,
+  "files_count": 428,
+  "item_last_updated": 1666717681,
+  "item_size": 30114198,
   "metadata": {
     "identifier": "kinstonfp-2022",
     "collection": [
@@ -4391,10 +4442,21 @@
     "publicdate": "2022-09-20 17:33:46",
     "addeddate": "2022-09-20 17:33:46"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1705177253,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451838852,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1549333431,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

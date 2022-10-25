@@ -1,5 +1,5 @@
 {
-  "created": 1666682328,
+  "created": 1666717616,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/imagekhabar-2022",
@@ -11144,31 +11144,82 @@
       "sha1": "f09a7507eb6ccae4d7bbbbc23b30b69f5090aab1"
     },
     {
+      "name": "imagekhabar-2022-10-25T22:50:43.211504+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666717551",
+      "size": "61481",
+      "md5": "a910c3d1deb5ed0c2f45286e369dd985",
+      "crc32": "edafb6aa",
+      "sha1": "cdf9c1ea9cec4524573a14f1805691cbfd149e26",
+      "format": "JSON"
+    },
+    {
+      "name": "imagekhabar-2022-10-25T22:50:43.211504+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717553",
+      "size": "68892",
+      "md5": "a72ff380db46904ae363995d79b3befd",
+      "crc32": "33de352c",
+      "sha1": "874ad438c8378b3c6520b882c6890ce5b14c1f00",
+      "format": "JSON"
+    },
+    {
+      "name": "imagekhabar-2022-10-25T22:50:43.211504+05:45.jpg",
+      "source": "original",
+      "mtime": "1666717550",
+      "size": "267598",
+      "md5": "f2399af6f2ce199ce2d3007bad2a0e7e",
+      "crc32": "42f1635e",
+      "sha1": "917dd64b7b510f2f6fcc33055d71b7a356f8bc9b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "imagekhabar-2022-10-25T22:50:43.211504+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717554",
+      "size": "1502",
+      "md5": "b8b22f4697d65579d3133d5615149b60",
+      "crc32": "856fca48",
+      "sha1": "f555bdcb802d8e86d59072a87b19e5eb01747cfc",
+      "format": "JSON"
+    },
+    {
+      "name": "imagekhabar-2022-10-25T22:50:43.211504+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666717556",
+      "size": "18342",
+      "md5": "476725dc28371fb120f9656fc05d7743",
+      "crc32": "d3a78658",
+      "sha1": "5ed86ecbd16355b5e8f61bae7a265929d40f835c",
+      "format": "JSON"
+    },
+    {
       "name": "imagekhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d5f3c63441f37cfa350940b4c9a96c27e91e681",
-      "mtime": "1666682089",
-      "size": "231175",
-      "md5": "da473fba9cbd0aac136991d7068a7539",
-      "crc32": "d67ecd33",
-      "sha1": "3d46a8931e5ef2ed7a77b606e7e7398e3ad1315b",
+      "btih": "b150d0f36fb4ed693303d64b6f1d3a38b3de74d0",
+      "mtime": "1666717611",
+      "size": "232233",
+      "md5": "2889e209c5b358c2b1cdc2d643c3e931",
+      "crc32": "0bc72138",
+      "sha1": "1e0d8e0da41e57a2944bc8bd14ac10d79b9e35e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "imagekhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0bd690de9dcbc78151d42371b36f51f",
+      "md5": "9820b364a13ae42247f7a175a38b09ac",
       "summation": "md5"
     },
     {
       "name": "imagekhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679799",
-      "size": "1380352",
-      "md5": "a95bc57bc833d1efd154fc31035455ff",
-      "crc32": "0f6e5da6",
-      "sha1": "51cc7b51da84444c519646c281b315d43878a761",
+      "mtime": "1666717562",
+      "size": "1384448",
+      "md5": "573e035488ed9fba898f3d678aaf25b7",
+      "crc32": "5fa4f65e",
+      "sha1": "d8337f7b9fb4f90c179de360b022e3ea6fd0ed18",
       "format": "Metadata"
     },
     {
@@ -11182,9 +11233,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1081,
-  "item_last_updated": 1666682089,
-  "item_size": 70056053,
+  "files_count": 1086,
+  "item_last_updated": 1666717611,
+  "item_size": 70479022,
   "metadata": {
     "identifier": "imagekhabar-2022",
     "collection": [
@@ -11201,10 +11252,21 @@
     "publicdate": "2022-07-24 20:37:41",
     "addeddate": "2022-07-24 20:37:41"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 1122531520,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451837414,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1014148066,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }

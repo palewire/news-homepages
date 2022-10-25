@@ -1,5 +1,5 @@
 {
-  "created": 1666686638,
+  "created": 1666717646,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/31/items/inewsource-2022",
@@ -17904,31 +17904,82 @@
       "sha1": "9141e9b5e427dec0dccdfafd51a5d97f4e620fbc"
     },
     {
+      "name": "inewsource-2022-10-25T10:05:34.463563-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717555",
+      "size": "12960",
+      "md5": "92872d0d81b70fc505b938a39dc86875",
+      "crc32": "92c6c8ed",
+      "sha1": "4e25a21caef317706360f6adcf0b0658427624bf",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-10-25T10:05:34.463563-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717557",
+      "size": "16581",
+      "md5": "127281ba86a4a3490f34b35de65c0e4c",
+      "crc32": "6be13124",
+      "sha1": "c96357e819c2c89e74f0fdc1c202989c3c179e64",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-10-25T10:05:34.463563-07:00.jpg",
+      "source": "original",
+      "mtime": "1666717553",
+      "size": "282468",
+      "md5": "774d8d8eda3ee94d8f4b9b2862dc71e9",
+      "crc32": "adfe0965",
+      "sha1": "f2f1fd91186c9be073114b9c73e93620a3055d70",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "inewsource-2022-10-25T10:05:34.463563-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717559",
+      "size": "1459",
+      "md5": "f7a04adb24a6aa911d44076bb6f313aa",
+      "crc32": "31553022",
+      "sha1": "4b4a25a210d4d6420f96f09eaf3917f8edc95df4",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-10-25T10:05:34.463563-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717561",
+      "size": "13841",
+      "md5": "8482b34c76684499fd82ede13c63ad05",
+      "crc32": "e0d5c3f3",
+      "sha1": "2326b13b8ed8f9da2e8820cbf454e4b272bd1946",
+      "format": "JSON"
+    },
+    {
       "name": "inewsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "085e21ac1ee0e3446567248cf47bccb658e52bb8",
-      "mtime": "1666682101",
-      "size": "368090",
-      "md5": "98ec7047efae1b27064697405e882da0",
-      "crc32": "7b5de744",
-      "sha1": "fcde7572799b79ec8c224c8fbcfb1cbe49843d29",
+      "btih": "e8258dd4666286846713b2ade2bccdf85b3b2017",
+      "mtime": "1666717639",
+      "size": "369143",
+      "md5": "2b47fe719adc0bc00d36cdd16fd0c037",
+      "crc32": "6ef1e94f",
+      "sha1": "a9b55ea8fe0a1d6aaab91b4cd7b70ff4de052bec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "inewsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "134cb937c2989245471700e9745aaa0f",
+      "md5": "9782edcbdb84c7e719d65bbf912ef1da",
       "summation": "md5"
     },
     {
       "name": "inewsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679797",
-      "size": "2174976",
-      "md5": "fcad568d9c0c1a03a97b0eebd2a42c81",
-      "crc32": "916ea913",
-      "sha1": "3994f72b79b2928be06882a23f940be1e1f6d5ae",
+      "mtime": "1666717570",
+      "size": "2183168",
+      "md5": "12fe0fa4361b3b73186775262c4e40b2",
+      "crc32": "aafe62cb",
+      "sha1": "51e876db5914c0b08f3ca6a28d09330cdd2031dc",
       "format": "Metadata"
     },
     {
@@ -17942,14 +17993,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1732,
-  "inewsource-2022": {
-    "url": "https://inewsource.org/",
-    "job_id": "spn2-ac52da733a541c51c41fcb7056dc611f4d1bf4d3",
-    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
-  },
-  "item_last_updated": 1666682101,
-  "item_size": 105770565,
+  "files_count": 1737,
+  "item_last_updated": 1666717639,
+  "item_size": 106107119,
   "metadata": {
     "identifier": "inewsource-2022",
     "collection": [
@@ -17966,10 +18012,21 @@
     "publicdate": "2022-07-09 03:59:53",
     "addeddate": "2022-07-09 03:59:53"
   },
+  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "uniq": 291959418,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451837985,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 901073249,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia902506.us.archive.org"
   ]
 }

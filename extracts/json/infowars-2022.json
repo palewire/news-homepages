@@ -1,5 +1,5 @@
 {
-  "created": 1666686646,
+  "created": 1666717692,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/infowars-2022",
@@ -14376,31 +14376,72 @@
       "sha1": "7f4f2bf33acbcac09e4f9c445d5dbec52502a5af"
     },
     {
+      "name": "infowars-2022-10-25T12:06:01.432637-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717564",
+      "size": "13468",
+      "md5": "3a708c22ec348a0debfedcc1a36db7ee",
+      "crc32": "975e2d09",
+      "sha1": "b05c0ef2bd3770cda80efed59d892fdab1018581",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-10-25T12:06:01.432637-05:00.jpg",
+      "source": "original",
+      "mtime": "1666717563",
+      "size": "351714",
+      "md5": "d59ae161747bf0c00e682e2a3f842f0d",
+      "crc32": "b3ea7c87",
+      "sha1": "fca855f96af58c3899d10eab4170f8f9d043feae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "infowars-2022-10-25T12:06:01.432637-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717566",
+      "size": "1477",
+      "md5": "16598a4d741d947c47583aaca6828771",
+      "crc32": "863569c7",
+      "sha1": "2063eb0bee6fd13e1d4def97803e17496391664d",
+      "format": "JSON"
+    },
+    {
+      "name": "infowars-2022-10-25T12:06:01.432637-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717568",
+      "size": "20264",
+      "md5": "7c1b6b3644626eb62c64a8f3bd4c9471",
+      "crc32": "3f7d7a6f",
+      "sha1": "e366af785124514ac9f7adb60b9cde25496040f5",
+      "format": "JSON"
+    },
+    {
       "name": "infowars-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c61ba0e9302c53395c7ea1cacfb1abd400d6ebbf",
-      "mtime": "1666681986",
-      "size": "290134",
-      "md5": "72ec7c6002e2906fe373eade2cb0dadf",
-      "crc32": "c0af240c",
-      "sha1": "2ceb77dbb00297f95d49a670d1ddf051457c5547",
+      "btih": "7461495dd11b166a9e4587bdb29b93e6c05f9fd9",
+      "mtime": "1666717685",
+      "size": "290963",
+      "md5": "22f0e5c881933d6f3734afe6861680d1",
+      "crc32": "7b3b6301",
+      "sha1": "dc591ed1864a3ec5eb9a9071fc6d37515bda26ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "infowars-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56064e022b6b98fdaab694a6d7a4a0bc",
+      "md5": "1538e5af78c6b08150da004eb7951fe6",
       "summation": "md5"
     },
     {
       "name": "infowars-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679786",
-      "size": "1667072",
-      "md5": "a48e23dbd9c5b9e6c39e2b116a871730",
-      "crc32": "8626cced",
-      "sha1": "f1c3eff0c009aaa1ecacee91ee7ec239d4c81d59",
+      "mtime": "1666717623",
+      "size": "1671168",
+      "md5": "7cb33cad4b5e5f08c9ca6f53eb20dbf4",
+      "crc32": "fa12be12",
+      "sha1": "cd50c86aceedcaf5ee84182210edd31ae1598611",
       "format": "Metadata"
     },
     {
@@ -14414,14 +14455,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1383,
-  "infowars-2022": {
-    "url": "https://www.infowars.com/",
-    "job_id": "spn2-69d58ee67acbc5fad97188641710fd5c8720c451",
-    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
-  },
-  "item_last_updated": 1666681986,
-  "item_size": 99976562,
+  "files_count": 1387,
+  "item_last_updated": 1666717685,
+  "item_size": 100368410,
   "metadata": {
     "identifier": "infowars-2022",
     "collection": [
@@ -14438,10 +14474,21 @@
     "publicdate": "2022-07-17 15:03:18",
     "addeddate": "2022-07-17 15:03:18"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1095569226,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451838888,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 702730918,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

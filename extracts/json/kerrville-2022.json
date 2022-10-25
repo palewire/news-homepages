@@ -1,5 +1,5 @@
 {
-  "created": 1666682191,
+  "created": 1666717631,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/1/items/kerrville-2022",
@@ -11784,31 +11784,82 @@
       "sha1": "2e17f798e6b7f8887c02224fbe2c7ffab7b4dc33"
     },
     {
+      "name": "kerrville-2022-10-25T12:05:58.848007-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717562",
+      "size": "82692",
+      "md5": "630b2d8d39d17b00ea31fecdfbe1dde9",
+      "crc32": "ba73acb5",
+      "sha1": "b75880927fdfa6208d4fce48bc5b8f16cff8255e",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-10-25T12:05:58.848007-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717564",
+      "size": "135240",
+      "md5": "acad763546f8ccdd6f069f88cd8c4f5b",
+      "crc32": "4fb180cd",
+      "sha1": "2aeed72965e18bc36e3fbcd712df5668450273f8",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-10-25T12:05:58.848007-05:00.jpg",
+      "source": "original",
+      "mtime": "1666717560",
+      "size": "320784",
+      "md5": "b12c7ab7bc620096c330740080ab1a30",
+      "crc32": "01f86a88",
+      "sha1": "0c23e5eac4ed456d28cd5cbb3444927724f5fa36",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kerrville-2022-10-25T12:05:58.848007-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717566",
+      "size": "1459",
+      "md5": "e9cc7430ee15c7275f3d322e4e811480",
+      "crc32": "4e117197",
+      "sha1": "8643187f6acf8ea8e50f4e008d0c9bfe4ca54760",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-10-25T12:05:58.848007-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717567",
+      "size": "66578",
+      "md5": "82bf290726f9ac254c495f9a391c4b31",
+      "crc32": "f374f992",
+      "sha1": "f31f500a9da60f693eaf140a3293a416f2933fa5",
+      "format": "JSON"
+    },
+    {
       "name": "kerrville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c16a0c65e405cabadd695b3ce7153b15a84619e0",
-      "mtime": "1666681985",
-      "size": "243511",
-      "md5": "5a21d7f080e312be2da57d9e274747ea",
-      "crc32": "7f15d382",
-      "sha1": "6d848a02c90c3e1f0838181bd2c60654f5a95ee6",
+      "btih": "3616ddcca11bfe02979decd8029dcc7ff93526b5",
+      "mtime": "1666717625",
+      "size": "244580",
+      "md5": "e760029939dfc90f14a4d1b317bc8b76",
+      "crc32": "c6f5cb1b",
+      "sha1": "d7bd1c08c51ee5f918e560094bd0f8f9e6231ab3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kerrville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80d2db4448ab7453a07299d782dda37c",
+      "md5": "4b237e31dcbb61770b014ea9b05bdfdf",
       "summation": "md5"
     },
     {
       "name": "kerrville-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680006",
-      "size": "1449984",
-      "md5": "9814611985f30ee6a18582b8151de14f",
-      "crc32": "260d6cfc",
-      "sha1": "56c3ef83ec5191e854e34c6331173ec8bff2fbcf",
+      "mtime": "1666717574",
+      "size": "1458176",
+      "md5": "d124b211ea2386fb7f5be96e42004226",
+      "crc32": "527a6100",
+      "sha1": "f2c1dda772df67844b5318db81d734d968a108fc",
       "format": "Metadata"
     },
     {
@@ -11822,9 +11873,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1142,
-  "item_last_updated": 1666681985,
-  "item_size": 114929642,
+  "files_count": 1147,
+  "item_last_updated": 1666717625,
+  "item_size": 115545656,
   "metadata": {
     "identifier": "kerrville-2022",
     "collection": [
@@ -11841,10 +11892,21 @@
     "publicdate": "2022-07-18 00:04:49",
     "addeddate": "2022-07-18 00:04:49"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1199087813,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451837720,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 415436155,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

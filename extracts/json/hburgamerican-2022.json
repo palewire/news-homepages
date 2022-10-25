@@ -1,5 +1,5 @@
 {
-  "created": 1666686577,
+  "created": 1666717528,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/18/items/hburgamerican-2022",
@@ -4272,31 +4272,82 @@
       "sha1": "a4e7fb12bf412e7979a1ee59dbdd849c752faa1c"
     },
     {
+      "name": "hburgamerican-2022-10-25T12:04:30.442425-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717475",
+      "size": "21449",
+      "md5": "fbd8f2aa696124dfcd8fa9b19d31178d",
+      "crc32": "8f8692c4",
+      "sha1": "e452b7c1125fff3e4171a1a35f8bb4693034acdf",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-25T12:04:30.442425-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717477",
+      "size": "18014",
+      "md5": "d906a629b7a7edbfb065c279fae2b144",
+      "crc32": "4030351b",
+      "sha1": "7ec5135d2f7ebd62bccc805e262a1351fc896f3a",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-25T12:04:30.442425-05:00.jpg",
+      "source": "original",
+      "mtime": "1666717473",
+      "size": "251852",
+      "md5": "bc834e72de934a4fdaf572b081a68551",
+      "crc32": "b132ac4b",
+      "sha1": "bcefe2d4286c961ac634183c4edf9ef73599fdf8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hburgamerican-2022-10-25T12:04:30.442425-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717479",
+      "size": "1576",
+      "md5": "41200c313630abc3a491473cf08d391a",
+      "crc32": "18408ae9",
+      "sha1": "6511c6372307743714e87806a4279b12f40af24f",
+      "format": "JSON"
+    },
+    {
+      "name": "hburgamerican-2022-10-25T12:04:30.442425-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717480",
+      "size": "94699",
+      "md5": "72e5726bb15ef433e593dc60d39debd6",
+      "crc32": "1a8fb858",
+      "sha1": "c720b525073badcdd16e4a3042b768e1ab275ede",
+      "format": "JSON"
+    },
+    {
       "name": "hburgamerican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53673cfc123b249e5fc77b6ba16c7dddb528d734",
-      "mtime": "1666682171",
-      "size": "90449",
-      "md5": "f0944e3869bd4c7caca9fd5b083d2964",
-      "crc32": "2b9835fc",
-      "sha1": "0033d92531a60ac02b50d97910d25f174f9b1247",
+      "btih": "f9e66a1ab96f8540c950a165c690709c3dc2cebd",
+      "mtime": "1666717523",
+      "size": "91537",
+      "md5": "ada47ee833fae0046da8e9b71b5fe9e3",
+      "crc32": "ee7fd875",
+      "sha1": "778c8b3c8e64673296a527aed2feec49becff056",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hburgamerican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5305812c898f98d305320cb3c04f737b",
+      "md5": "c8cea6bdd05d1b5710e5df7a55f9d1d0",
       "summation": "md5"
     },
     {
       "name": "hburgamerican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679770",
-      "size": "548864",
-      "md5": "ecabcba7af253474e668afc031624b0a",
-      "crc32": "e0a24037",
-      "sha1": "237e28a7fdac2201ef99ec87cefa7c072050a92a",
+      "mtime": "1666717484",
+      "size": "561152",
+      "md5": "e04a74117377aedd2876b1db0e2f8989",
+      "crc32": "09d6ddb6",
+      "sha1": "6252552b73d2d7327e3d10bed86e46da42b97ee4",
       "format": "Metadata"
     },
     {
@@ -4310,14 +4361,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 417,
-  "hburgamerican-2022": {
-    "url": "https://www.hattiesburgamerican.com/",
-    "job_id": "spn2-95aead19ed6838985c3900c4fea009f19579c6d5",
-    "message": "The capture will start in ~2 minutes because our service is currently overloaded. You may close your browser window and the page will still be saved."
-  },
-  "item_last_updated": 1666682171,
-  "item_size": 28574111,
+  "files_count": 422,
+  "item_last_updated": 1666717523,
+  "item_size": 28975077,
   "metadata": {
     "identifier": "hburgamerican-2022",
     "collection": [
@@ -4334,10 +4380,21 @@
     "publicdate": "2022-09-20 17:30:05",
     "addeddate": "2022-09-20 17:30:05"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1150137917,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451835631,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 678622409,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

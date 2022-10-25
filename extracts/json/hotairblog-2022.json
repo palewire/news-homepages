@@ -1,5 +1,5 @@
 {
-  "created": 1666681905,
+  "created": 1666717568,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/hotairblog-2022",
@@ -17134,31 +17134,82 @@
       "sha1": "02a779f68598ffd09f6f48ba1662672ade1018d8"
     },
     {
+      "name": "hotairblog-2022-10-25T13:04:39.936746-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717483",
+      "size": "38383",
+      "md5": "6cffd6edb3b87e2c274395f9e2e9a0c6",
+      "crc32": "5a120efd",
+      "sha1": "f951fe40bd205b49db9db3fd39f582f4b4db04ae",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-10-25T13:04:39.936746-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717485",
+      "size": "29550",
+      "md5": "9ea60b52f822fad7af30144f177020aa",
+      "crc32": "cdbd2e3e",
+      "sha1": "f98a744cdbe9a84b029a4cc8ce6e21f04e8323d7",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-10-25T13:04:39.936746-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717481",
+      "size": "290048",
+      "md5": "0812536767b53131b1e90265d55367fb",
+      "crc32": "3accda5f",
+      "sha1": "5749d2dc86580f663fed029edfd53b43c9b4427a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hotairblog-2022-10-25T13:04:39.936746-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717487",
+      "size": "1422",
+      "md5": "b22c4ac32914c297b76e30f772a68b8e",
+      "crc32": "264491eb",
+      "sha1": "7976756a62c7f8d1dc2fea402ce52550d4f2c826",
+      "format": "JSON"
+    },
+    {
+      "name": "hotairblog-2022-10-25T13:04:39.936746-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717489",
+      "size": "51623",
+      "md5": "51bbf229e0a149cdc233cd09631f712a",
+      "crc32": "053bf6c3",
+      "sha1": "425e6cf473c0aea41a9dcae37143984c607613ee",
+      "format": "JSON"
+    },
+    {
       "name": "hotairblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9ed3f8462e3b0c6b545c617c87e76902608962e7",
-      "mtime": "1666681872",
-      "size": "352722",
-      "md5": "ff8920b5dd92728927276662a7b1ebfc",
-      "crc32": "9c46e1c5",
-      "sha1": "3313154dbcffe06d2e65dba161d1d9b5e14bedd1",
+      "btih": "923a06faa9f54d0107779a4b62f5366f9bf39e0e",
+      "mtime": "1666717559",
+      "size": "353795",
+      "md5": "0094518ccd7afb49a5cb24892143845d",
+      "crc32": "d0da6090",
+      "sha1": "4a89c559e1839bb12c7238d306cb7e8e52c8b685",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hotairblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52657d92502b63b2261fede42b3f8258",
+      "md5": "c8e590bfa16662603c80a652ee101647",
       "summation": "md5"
     },
     {
       "name": "hotairblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679761",
-      "size": "2093056",
-      "md5": "87fb0534d7765071023279d140ba3633",
-      "crc32": "1abea0bf",
-      "sha1": "9593b1587a0725b2dc13087c9e88b471cd7eff42",
+      "mtime": "1666717495",
+      "size": "2105344",
+      "md5": "fbcf44f8a23e7f67819bf6450ac94cd2",
+      "crc32": "ad9426ef",
+      "sha1": "7e687c225f099690f0017999e24edc6c0715c211",
       "format": "Metadata"
     },
     {
@@ -17172,9 +17223,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1659,
-  "item_last_updated": 1666681872,
-  "item_size": 110424152,
+  "files_count": 1664,
+  "item_last_updated": 1666717559,
+  "item_size": 110848539,
   "metadata": {
     "identifier": "hotairblog-2022",
     "collection": [
@@ -17191,10 +17242,21 @@
     "publicdate": "2022-07-17 15:03:29",
     "addeddate": "2022-07-17 15:03:29"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 814591272,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451836484,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 617611465,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }
