@@ -1,5 +1,5 @@
 {
-  "created": 1666665875,
+  "created": 1666706183,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -14253,31 +14253,93 @@
       "format": "JSON"
     },
     {
+      "name": "newyorker-2022-10-24T22:43:18.631511-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newyorker-2022-10-24T22:43:18.631511-04:00.jpg",
+      "mtime": "1666673209",
+      "size": "9290",
+      "md5": "c9eb13292e6eb4e73d65959acb9e6212",
+      "crc32": "4eafe5bb",
+      "sha1": "2199d321dcb3d46c4023e07fa4141292c04ccc15"
+    },
+    {
+      "name": "newyorker-2022-10-25T09:55:02.956997-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666706117",
+      "size": "46441",
+      "md5": "6c0ed397221c900c0ea08ef22d7cfdd1",
+      "crc32": "e237c0fa",
+      "sha1": "ab6aa5e27e446228fbd2222b86b03d0bab6e27f9",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-25T09:55:02.956997-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666706119",
+      "size": "25693",
+      "md5": "637ac1ac1913a730665952251fe6e5e1",
+      "crc32": "24b028db",
+      "sha1": "093eb51d80972e65916dc24ddb4c3e87fc5ded0e",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-25T09:55:02.956997-04:00.jpg",
+      "source": "original",
+      "mtime": "1666706115",
+      "size": "289954",
+      "md5": "f0d876f169752c8c0b71d776a7e19093",
+      "crc32": "c8a31949",
+      "sha1": "c6a47fe2c25ebb75edcacff5dd5980bb285d9c17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-10-25T09:55:02.956997-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666706120",
+      "size": "1486",
+      "md5": "20b83127079156afe55564f3a4b6b7ff",
+      "crc32": "2ab1be48",
+      "sha1": "bc9a5dd413cbda3ef2fcc95cc2de90955354d643",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-25T09:55:02.956997-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666706122",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81f20fdb52994ab3615b376686f9ea8aaf258569",
-      "mtime": "1666665869",
-      "size": "291864",
-      "md5": "39464f65d83df1e9455f0b9be98e86cd",
-      "crc32": "6538fd23",
-      "sha1": "41a3b7e8e0a47b1323aa09fbefd3450d6ffef5fb",
+      "btih": "364bce7b9ddc5cfbb09c88a279a3f02b3d0e6fdc",
+      "mtime": "1666706177",
+      "size": "293115",
+      "md5": "14583d0b79a4ef628562fb431fa0879c",
+      "crc32": "6aa93d26",
+      "sha1": "69799cf43072b3de818e213d62e8d7c9bc24e8f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d8fc44b2f702f0a7079297e41d4685d",
+      "md5": "f3c3a62f4aa06a84060fcbc33ef15578",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666665820",
-      "size": "1716224",
-      "md5": "39549e08287bc23d945721e416edee57",
-      "crc32": "1a3c75f2",
-      "sha1": "ea02e9d333646465c3e14e6ffeed13b1ce7a0126",
+      "mtime": "1666706125",
+      "size": "1720320",
+      "md5": "28a6f94b7cff7daefce0bd454b5e4415",
+      "crc32": "ec08e91f",
+      "sha1": "0cca8e638e8a9609e3ee6816fa959688027967c4",
       "format": "Metadata"
     },
     {
@@ -14291,9 +14353,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1377,
-  "item_last_updated": 1666665869,
-  "item_size": 105244231,
+  "files_count": 1383,
+  "item_last_updated": 1666706177,
+  "item_size": 105622644,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -14315,7 +14377,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450576707,
+      "task_id": 3451702015,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14323,7 +14385,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1737100715,
+  "uniq": 71011728,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

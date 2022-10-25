@@ -1,5 +1,5 @@
 {
-  "created": 1666666280,
+  "created": 1666706403,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/29/items/savannahnow-2022",
@@ -11583,31 +11583,93 @@
       "format": "JSON"
     },
     {
+      "name": "savannahnow-2022-10-24T22:50:12.098751-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "savannahnow-2022-10-24T22:50:12.098751-04:00.jpg",
+      "mtime": "1666673360",
+      "size": "9370",
+      "md5": "47d13a5c7106625e822cd818c3d7f049",
+      "crc32": "6d3bf729",
+      "sha1": "75fe002f032f099f600588159ab4001c0e645767"
+    },
+    {
+      "name": "savannahnow-2022-10-25T09:58:52.233371-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666706343",
+      "size": "22938",
+      "md5": "98f44c25557c38de55294fe35173865d",
+      "crc32": "1754bec1",
+      "sha1": "e17da26f839ec5ea49cca327c11fb06e564b0a93",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-25T09:58:52.233371-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666706344",
+      "size": "30647",
+      "md5": "512ee81f8e61d5261ccddeac5ca01a53",
+      "crc32": "ffa0d345",
+      "sha1": "a3c9f66467f1c5ec7f9aa19ba12c777d52bfcaf6",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-25T09:58:52.233371-04:00.jpg",
+      "source": "original",
+      "mtime": "1666706341",
+      "size": "248607",
+      "md5": "d03603a73c8b9efabc0fff373a4eaa42",
+      "crc32": "cd8d22a9",
+      "sha1": "03d44c4c2061532082a17a40285c91baf474f6e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "savannahnow-2022-10-25T09:58:52.233371-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666706346",
+      "size": "1504",
+      "md5": "7ac14faabf90f336a2a18868fb71f9b6",
+      "crc32": "4c0539b0",
+      "sha1": "fa947ab67703fdf3ebdc0bceba33c7cd503542cb",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-25T09:58:52.233371-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666706348",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "savannahnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dcf8cf5232886d3c6c84ac2d6dc0a8c9f22503ba",
-      "mtime": "1666666275",
-      "size": "240265",
-      "md5": "d4bd4dcabc504a368e91a72ec05a7e71",
-      "crc32": "0fa55675",
-      "sha1": "b54b8a7672a15811268bb76cb24ad1b634c5f55e",
+      "btih": "b6172bce004d942a9427a4e4f9c8d9f4cac91f29",
+      "mtime": "1666706397",
+      "size": "241528",
+      "md5": "7657405cb2e7c9a303d28fb0f73853c2",
+      "crc32": "52c797e1",
+      "sha1": "01703ce89cdb1e0597f950c68099fde1e3350c94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "savannahnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a42c92d4a71b20e92921b8b2b35cebd0",
+      "md5": "21ac2d8879ad3a588e6a6e8e89f28bdd",
       "summation": "md5"
     },
     {
       "name": "savannahnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666666230",
-      "size": "1433600",
-      "md5": "9484d4d72bb06b38ccd1bb94759a4e01",
-      "crc32": "b58dd979",
-      "sha1": "a60fc8b5564140cadd82046daac27ab5719fa7aa",
+      "mtime": "1666706352",
+      "size": "1437696",
+      "md5": "ace23c6f25b795255367a34ed8d6deef",
+      "crc32": "79653273",
+      "sha1": "f5b127d510beef485ed3d09c77cafd2c495c480f",
       "format": "Metadata"
     },
     {
@@ -11621,9 +11683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1123,
-  "item_last_updated": 1666666275,
-  "item_size": 78413902,
+  "files_count": 1129,
+  "item_last_updated": 1666706397,
+  "item_size": 78732529,
   "metadata": {
     "identifier": "savannahnow-2022",
     "collection": [
@@ -11645,7 +11707,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450589170,
+      "task_id": 3451704630,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11653,7 +11715,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1994722106,
+  "uniq": 517619499,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

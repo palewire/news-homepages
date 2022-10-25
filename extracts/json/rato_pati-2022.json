@@ -1,5 +1,5 @@
 {
-  "created": 1666666280,
+  "created": 1666706333,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/9/items/rato_pati-2022",
@@ -11207,31 +11207,93 @@
       "format": "JSON"
     },
     {
+      "name": "rato_pati-2022-10-25T08:34:23.227885+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rato_pati-2022-10-25T08:34:23.227885+05:45.jpg",
+      "mtime": "1666672825",
+      "size": "10205",
+      "md5": "80e5b842cb6165f073c2f4d09e4f385b",
+      "crc32": "8e602392",
+      "sha1": "bb68fff23a7628109b20d3c402f7d5c84b9099be"
+    },
+    {
+      "name": "rato_pati-2022-10-25T19:42:34.823655+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666706264",
+      "size": "113743",
+      "md5": "c0afe75e148d5f535b0de46c69fdafcd",
+      "crc32": "1b535b25",
+      "sha1": "81dd544959dabfb8d66e28b797b2e0232baa59be",
+      "format": "JSON"
+    },
+    {
+      "name": "rato_pati-2022-10-25T19:42:34.823655+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666706265",
+      "size": "103889",
+      "md5": "69d469959ce5b71289472f0669ca030a",
+      "crc32": "0fdefe57",
+      "sha1": "748a4cd247ddb355b2470996273a4c2f1329e78f",
+      "format": "JSON"
+    },
+    {
+      "name": "rato_pati-2022-10-25T19:42:34.823655+05:45.jpg",
+      "source": "original",
+      "mtime": "1666706262",
+      "size": "216041",
+      "md5": "7e121245f65e91dbffa2c6fa533059d9",
+      "crc32": "374d5d37",
+      "sha1": "86813f916d9008ace4aeceec3c6d2a344374bcf4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rato_pati-2022-10-25T19:42:34.823655+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666706267",
+      "size": "1441",
+      "md5": "a4c8719387658cace1fe98a2fc355e96",
+      "crc32": "ae216486",
+      "sha1": "de694a5f8bc161e514e267fa173b4c1bf11dcc1a",
+      "format": "JSON"
+    },
+    {
+      "name": "rato_pati-2022-10-25T19:42:34.823655+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666706269",
+      "size": "26522",
+      "md5": "faf6cad693250ed8651c470a0f8ae899",
+      "crc32": "c1e2ed37",
+      "sha1": "39491b0f762b07483f16c182fd815335e2a32bc4",
+      "format": "JSON"
+    },
+    {
       "name": "rato_pati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c9466641c2fa0f0e3c35e799674bcb88afafa69",
-      "mtime": "1666666270",
-      "size": "231484",
-      "md5": "0e6881dbb5950f1ab2fe56d429d280bf",
-      "crc32": "4cc878fe",
-      "sha1": "12becf895afa0f88fe30ce692ef2ec2f11d479db",
+      "btih": "cc3d5993587227731fae99b49d3c23307beb62a8",
+      "mtime": "1666706325",
+      "size": "232760",
+      "md5": "80da7f1de2cf2d1edda865d65a86a039",
+      "crc32": "4a41cc33",
+      "sha1": "50597dbd9cabd2136fc077cc495b2ff87df1547a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rato_pati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa16ba4a20f3d3a5261aa4862e9145c4",
+      "md5": "6305c208178f1e1a25a56528598f683a",
       "summation": "md5"
     },
     {
       "name": "rato_pati-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666666204",
-      "size": "1384448",
-      "md5": "b72dac84e345d3ec5cc5ecb3a7b22c2a",
-      "crc32": "367e7f9c",
-      "sha1": "93c87ac1ad01c0218cb04c25fd818281c24f1990",
+      "mtime": "1666706275",
+      "size": "1392640",
+      "md5": "0a012bb1d3b59c091a1433cf96604084",
+      "crc32": "20f38a4d",
+      "sha1": "081354f8e190d0fc0e612b6751898bb102b3e230",
       "format": "Metadata"
     },
     {
@@ -11245,9 +11307,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1087,
-  "item_last_updated": 1666666270,
-  "item_size": 92060973,
+  "files_count": 1093,
+  "item_last_updated": 1666706325,
+  "item_size": 92542282,
   "metadata": {
     "identifier": "rato_pati-2022",
     "collection": [
@@ -11269,7 +11331,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450589169,
+      "task_id": 3451703805,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11277,7 +11339,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2123938191,
+  "uniq": 1108339206,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]
