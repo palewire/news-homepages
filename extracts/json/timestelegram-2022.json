@@ -1,5 +1,5 @@
 {
-  "created": 1666670450,
+  "created": 1666709691,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/timestelegram-2022",
@@ -4273,31 +4273,93 @@
       "format": "JSON"
     },
     {
+      "name": "timestelegram-2022-10-24T23:59:47.186828-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timestelegram-2022-10-24T23:59:47.186828-04:00.jpg",
+      "mtime": "1666676447",
+      "size": "9465",
+      "md5": "de74ca4c6a014101ef7dc8386edc2ef8",
+      "crc32": "8033c5a9",
+      "sha1": "83ffc38cfead3b9b2c8aa3368b8717b2e2dbefdd"
+    },
+    {
+      "name": "timestelegram-2022-10-25T10:53:53.856553-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666709636",
+      "size": "22823",
+      "md5": "f501e2becb4b6cea0d000b6ba2217f1c",
+      "crc32": "d921c9da",
+      "sha1": "cc026b3158072b8aa31de0063b6a327f4dc3256d",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-25T10:53:53.856553-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666709638",
+      "size": "33699",
+      "md5": "29d6bdf7917b8bd2810dcbed21111314",
+      "crc32": "e17b43e8",
+      "sha1": "afaed9cac85e9735d45de8f73bb16971eaafc46f",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-25T10:53:53.856553-04:00.jpg",
+      "source": "original",
+      "mtime": "1666709635",
+      "size": "261377",
+      "md5": "411914483297643dfe42812043f9548a",
+      "crc32": "8736395a",
+      "sha1": "3e3eb95cbbad593ead808a76a867b5a207649bd8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timestelegram-2022-10-25T10:53:53.856553-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666709640",
+      "size": "1522",
+      "md5": "566468c80924346db9140b6d4d6d150b",
+      "crc32": "e4295aad",
+      "sha1": "67392dd8a122ab5cea8ab60d14d7db981702721f",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-25T10:53:53.856553-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709641",
+      "size": "210",
+      "md5": "d80192b14910bd2f1310e41386d3d016",
+      "crc32": "5b8d4533",
+      "sha1": "70a42a132977ac9b6fa9ce46bde0414c2a6c61de",
+      "format": "JSON"
+    },
+    {
       "name": "timestelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "357273f20910610d22b303e83bfa921fcdd680ac",
-      "mtime": "1666670445",
-      "size": "90389",
-      "md5": "070f3e37042dc0d6d4532b3d8c8b5818",
-      "crc32": "5896e717",
-      "sha1": "54a6f964b231e677641bd736bedc52525b62f97d",
+      "btih": "61d9b388b7090d9a7c029f8e6bd1c991203d657b",
+      "mtime": "1666709688",
+      "size": "91684",
+      "md5": "d2a6751a33c221eae2d05f944612410f",
+      "crc32": "7f07f809",
+      "sha1": "2ca168495fad4fa5ef3ae3f7b212ad353dc16084",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timestelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2979613b6c4686a52362c3e6c9655f7",
+      "md5": "cdbe25e44670e72ac09c3dfdc6899cb7",
       "summation": "md5"
     },
     {
       "name": "timestelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666670407",
-      "size": "548864",
-      "md5": "454c8a49b8ce88444b16d0aff077865a",
-      "crc32": "19ffb37e",
-      "sha1": "d02c6f28b15ae061a20a8913b9eb47ad25b5956a",
+      "mtime": "1666709648",
+      "size": "561152",
+      "md5": "5b2c94697bac9f2f0539cc553174d4b5",
+      "crc32": "ced6b0cb",
+      "sha1": "c1c4236baf167cb87df3ab2d283643affd8b9e40",
       "format": "Metadata"
     },
     {
@@ -4311,9 +4373,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 417,
-  "item_last_updated": 1666670445,
-  "item_size": 28206324,
+  "files_count": 423,
+  "item_last_updated": 1666709688,
+  "item_size": 28549003,
   "metadata": {
     "identifier": "timestelegram-2022",
     "collection": [
@@ -4335,7 +4397,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450717202,
+      "task_id": 3451740362,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4343,7 +4405,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1742516169,
+  "uniq": 1618372292,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

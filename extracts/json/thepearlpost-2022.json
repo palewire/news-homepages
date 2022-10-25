@@ -1,5 +1,5 @@
 {
-  "created": 1666673571,
+  "created": 1666709616,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/thepearlpost-2022",
@@ -6299,31 +6299,93 @@
       "format": "JSON"
     },
     {
+      "name": "thepearlpost-2022-10-24T20:56:36.613600-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thepearlpost-2022-10-24T20:56:36.613600-07:00.jpg",
+      "mtime": "1666676301",
+      "size": "10068",
+      "md5": "8fa7ac3a6ab26d1fc4c38218d5ecaed9",
+      "crc32": "1d627295",
+      "sha1": "3becf22c959144422648141d0f23e767a3d9f8f4"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666709565",
+      "size": "7320",
+      "md5": "0aa1304d6db910dfd7f5e5962f4ed423",
+      "crc32": "2faf34d9",
+      "sha1": "9f620c5945266e90ec85c162b3cce99a54ffbff8",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666709567",
+      "size": "31678",
+      "md5": "c2e3519d48a08299fa7187a337a25acd",
+      "crc32": "ea79b625",
+      "sha1": "d6fe9a8be5c9efd30a7b6402995aa53d5f46fdbf",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.jpg",
+      "source": "original",
+      "mtime": "1666709564",
+      "size": "301024",
+      "md5": "87a2b81263d04ad8658791538875ca10",
+      "crc32": "0d9a4689",
+      "sha1": "7ac87808a8b6ea006ca9b2f00382754f864e4308",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666709569",
+      "size": "1513",
+      "md5": "be5448fc42098e2dc47f3cd6dc806baa",
+      "crc32": "db0e588c",
+      "sha1": "f0227bb54f71ca9dbc4632c9398c43458315303b",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709571",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thepearlpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "416b391c10ef054fb5015393206a287f861d0aec",
-      "mtime": "1666670249",
-      "size": "131686",
-      "md5": "566d66424591b577f4b7073e404ee97f",
-      "crc32": "972dc3aa",
-      "sha1": "160721d997fde6b120a8776f211d4c5cfa47ef81",
+      "btih": "bd4a2b4f8d024e00f921a1f717584e9c033b4ee4",
+      "mtime": "1666709611",
+      "size": "132975",
+      "md5": "2918e416d90373babef35d3655501c61",
+      "crc32": "708ad413",
+      "sha1": "f2d8e6c81651fe6b8deee298999f9ec54cc61e8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thepearlpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c870acfd1ffd4c93ff8fd7ef7107ed6",
+      "md5": "94fa059c6da369e16d7857bab8b0ba43",
       "summation": "md5"
     },
     {
       "name": "thepearlpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666670211",
-      "size": "794624",
-      "md5": "c5d900ab4c5f19a03b32b196b449895a",
-      "crc32": "1af0e691",
-      "sha1": "66fd717b8c12d54daff9a2758be846123c4c26a9",
+      "mtime": "1666709574",
+      "size": "806912",
+      "md5": "0b6568f1caa6cb4c3e2ba2c33a60676f",
+      "crc32": "68d4a370",
+      "sha1": "4fdb7b09e83868ee8d86a72078a258379be53d81",
       "format": "Metadata"
     },
     {
@@ -6337,9 +6399,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 613,
-  "item_last_updated": 1666670249,
-  "item_size": 36175014,
+  "files_count": 619,
+  "item_last_updated": 1666709611,
+  "item_size": 36540396,
   "metadata": {
     "identifier": "thepearlpost-2022",
     "collection": [
@@ -6361,7 +6423,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450710256,
+      "task_id": 3451739462,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6369,15 +6431,7 @@
       "status": "queued"
     }
   ],
-  "thepearlpost-2022": {
-    "url": "https://www.thepearlpost.com/",
-    "job_id": "spn2-60a0f8a137e8814afb20090086dca02fc5b5cda0",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  },
-  "uniq": 1970384171,
+  "uniq": 1616811199,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

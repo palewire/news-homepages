@@ -1,5 +1,6 @@
 {
-  "created": 1666673173,
+  "conflict": 1666709756,
+  "created": 1666709756,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/texastribune-2022",
@@ -14487,21 +14488,32 @@
       "format": "JSON"
     },
     {
+      "name": "texastribune-2022-10-24T22:53:09.656846-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texastribune-2022-10-24T22:53:09.656846-05:00.jpg",
+      "mtime": "1666679178",
+      "size": "8644",
+      "md5": "5528b7bcd8c92700c32d2350da2fd2f5",
+      "crc32": "861b46d6",
+      "sha1": "87645e52c9c3af7ff9e23db96c894f793df3dfe8"
+    },
+    {
       "name": "texastribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "106400abe5768866bb755961dcd07dcb8be1eda0",
-      "mtime": "1666672654",
-      "size": "300669",
-      "md5": "768863643e1152b56f8644f6d5163672",
-      "crc32": "d90779b3",
-      "sha1": "7db7fd768cff444e619470322ecc5ddad1068efa",
+      "btih": "074f636917d49d8fa041f1905c1869407afaa86f",
+      "mtime": "1666679955",
+      "size": "300877",
+      "md5": "daacb7c99cac1513effec24410c95a54",
+      "crc32": "315460dd",
+      "sha1": "9b74afc465013f3cec19e69226aa35d4382206de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texastribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2378328da6527106dc57a66466ffba0",
+      "md5": "a873d20b7174bbc9fc909aa7baa33f58",
       "summation": "md5"
     },
     {
@@ -14525,9 +14537,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1400,
-  "item_last_updated": 1666672654,
-  "item_size": 99010678,
+  "files_count": 1401,
+  "item_last_updated": 1666679955,
+  "item_size": 99019530,
   "metadata": {
     "identifier": "texastribune-2022",
     "collection": [
@@ -14545,20 +14557,52 @@
     "addeddate": "2022-06-24 23:02:15"
   },
   "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
+  "server": "ia801407.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450821113,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3451737384,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3451737431,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3451737445,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3451737478,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3451737511,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1634502656,
+  "uniq": 171659610,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia801407.us.archive.org"
   ]
 }

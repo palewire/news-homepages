@@ -1,5 +1,5 @@
 {
-  "created": 1666670256,
+  "created": 1666709596,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/16/items/thecityny-2022",
@@ -15497,31 +15497,93 @@
       "format": "JSON"
     },
     {
+      "name": "thecityny-2022-10-24T23:56:24.073478-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-10-24T23:56:24.073478-04:00.jpg",
+      "mtime": "1666676222",
+      "size": "9254",
+      "md5": "fed098daedde9ef68daf3d5d8ae54826",
+      "crc32": "b395609e",
+      "sha1": "e739c87b9667facf3602038c1428b31b05f0cdaf"
+    },
+    {
+      "name": "thecityny-2022-10-25T10:51:58.018064-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666709529",
+      "size": "30552",
+      "md5": "c6b7e0b778f4e229ab752492ce0234ed",
+      "crc32": "3b89d511",
+      "sha1": "cd9d0fae73b698d5739d719861d8b50a74288afb",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-10-25T10:51:58.018064-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666709531",
+      "size": "38861",
+      "md5": "3d7023eb31399e91662bafcba7868aa7",
+      "crc32": "863583a9",
+      "sha1": "52fe289f7b0df9fa6a67b35a2abf06c4ed9af85b",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-10-25T10:51:58.018064-04:00.jpg",
+      "source": "original",
+      "mtime": "1666709527",
+      "size": "247268",
+      "md5": "12501bc1c92be0c31360e005a47059e7",
+      "crc32": "1a268c57",
+      "sha1": "3e22b661f0eed176b141833e4b0b99d4f10275e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-10-25T10:51:58.018064-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666709534",
+      "size": "1455",
+      "md5": "654872995482b05d0e27387e1fc30031",
+      "crc32": "cc65b77b",
+      "sha1": "b9bfe4ff5672ab733caeddff3faf6d729b737f69",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-10-25T10:51:58.018064-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709536",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f88c6303fb07b9b072ecc54f1f6bec01285a5e08",
-      "mtime": "1666670252",
-      "size": "316267",
-      "md5": "fa18554d92190b0700bfab871e14be40",
-      "crc32": "c0339b04",
-      "sha1": "bb6be9ea64ef0f8c3132d8bd242b10bbe0725484",
+      "btih": "02c98bb4b85839ed73bf9ac7ab1ecea20c7df8af",
+      "mtime": "1666709590",
+      "size": "317538",
+      "md5": "d6ca481b3c2404af3c962d056ce2a80c",
+      "crc32": "621c7b38",
+      "sha1": "a5a29937d0bd7cfc47ae639cd0f16d04e4a237b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a918539176ad1af752c037c6c2476933",
+      "md5": "538ce0ca1cbb3d6ad24f71f465585b25",
       "summation": "md5"
     },
     {
       "name": "thecityny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666670203",
-      "size": "1851392",
-      "md5": "09e75a49a5fa0bacddbcb910f0180b65",
-      "crc32": "7d4d9319",
-      "sha1": "fc3c4ed6c4f4a895ea7c37bbf6efa62519e727fc",
+      "mtime": "1666709540",
+      "size": "1859584",
+      "md5": "7796bed4b2043cc643b403ed1ea37087",
+      "crc32": "5f098179",
+      "sha1": "578287134e4562ce9d303aca9331210699ab747b",
       "format": "Metadata"
     },
     {
@@ -15535,9 +15597,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1496,
-  "item_last_updated": 1666670252,
-  "item_size": 95193809,
+  "files_count": 1502,
+  "item_last_updated": 1666709590,
+  "item_size": 95530864,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -15559,7 +15621,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450710303,
+      "task_id": 3451739223,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15567,7 +15629,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 632377138,
+  "uniq": 1267735040,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

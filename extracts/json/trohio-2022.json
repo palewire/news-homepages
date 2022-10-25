@@ -1,5 +1,5 @@
 {
-  "created": 1666673416,
+  "created": 1666709692,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/10/items/trohio-2022",
@@ -4261,31 +4261,93 @@
       "format": "JSON"
     },
     {
+      "name": "trohio-2022-10-24T23:59:48.816979-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "trohio-2022-10-24T23:59:48.816979-04:00.jpg",
+      "mtime": "1666676558",
+      "size": "9304",
+      "md5": "edd90b0268c8f1466378ac801adc35e3",
+      "crc32": "bd08827b",
+      "sha1": "c4d0d2502b85bb40c793108a4c603cf27e49dbf4"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666709641",
+      "size": "11124",
+      "md5": "ac1046d84282c46dec20e4bc75695f42",
+      "crc32": "7bb86e55",
+      "sha1": "e2d6e653bb98d69ede4b6f7296d9570f269a8461",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666709643",
+      "size": "34480",
+      "md5": "8aee75b43a8cffe61ce32cc286e122e0",
+      "crc32": "a74e90af",
+      "sha1": "44bbca6ee5e26e8c8f91b6e896ccd2de13b745df",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.jpg",
+      "source": "original",
+      "mtime": "1666709637",
+      "size": "323558",
+      "md5": "c40a670c707ea070b868c2f403cadcdb",
+      "crc32": "ab1dcbd9",
+      "sha1": "c537d0a4757657a25b3d5793d9e2b36aec90da48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666709645",
+      "size": "1521",
+      "md5": "ea600ef3bc1ed3f27b9368b48d30a95a",
+      "crc32": "a383f4ea",
+      "sha1": "37622e515f3981b995ef0077b2368261e2cf6149",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709647",
+      "size": "210",
+      "md5": "f83b3806924dbc9dcf797897bfb967f5",
+      "crc32": "696d8f7a",
+      "sha1": "32339f279185a06c08d8814544cce6c52248be87",
+      "format": "JSON"
+    },
+    {
       "name": "trohio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "482c228def5da2b3f229d54bd966f4deff64f729",
-      "mtime": "1666670440",
-      "size": "87251",
-      "md5": "c24c31fb6b606e5d2595e50188ce1980",
-      "crc32": "cb0fbb19",
-      "sha1": "47f7b2a70283450ed3d2d82184aaacd0e0421642",
+      "btih": "63219ef0453064b88dafc3e6f7ae23fe4f33eabe",
+      "mtime": "1666709688",
+      "size": "88504",
+      "md5": "3afb609bdcdca29589a136c2d1acb677",
+      "crc32": "78c0428f",
+      "sha1": "957de152d3c09e5f2021ea7a1e56f9dd44fd7aff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "trohio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "587c8db1f07e872c3f53a2727ef993b1",
+      "md5": "a1c3c2434620c6b6322cf81835475a1e",
       "summation": "md5"
     },
     {
       "name": "trohio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666670401",
-      "size": "544768",
-      "md5": "40148617e18ad4e8a1556590db7a85ca",
-      "crc32": "01bac2a9",
-      "sha1": "60571a86c008e3c550fe67fa79f7234f10a91eb6",
+      "mtime": "1666709650",
+      "size": "552960",
+      "md5": "a554987b429eeea3e111f9a39d5e311e",
+      "crc32": "1b3154ee",
+      "sha1": "06cc0346673ddf20189aaf4232773c0a93e7fe92",
       "format": "Metadata"
     },
     {
@@ -4299,9 +4361,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 416,
-  "item_last_updated": 1666670440,
-  "item_size": 28069806,
+  "files_count": 422,
+  "item_last_updated": 1666709688,
+  "item_size": 28459448,
   "metadata": {
     "identifier": "trohio-2022",
     "collection": [
@@ -4323,7 +4385,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450716805,
+      "task_id": 3451740372,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4331,11 +4393,7 @@
       "status": "queued"
     }
   ],
-  "trohio-2022": {
-    "url": "https://www.timesreporter.com/",
-    "job_id": "spn2-c0f2bf36ad06ad04c0c3da14f2881cb82fbd9f9f"
-  },
-  "uniq": 466044447,
+  "uniq": 336231550,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

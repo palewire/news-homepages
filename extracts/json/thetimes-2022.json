@@ -1,5 +1,5 @@
 {
-  "created": 1666670447,
+  "created": 1666709691,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/22/items/thetimes-2022",
@@ -29441,31 +29441,145 @@
       "format": "JSON"
     },
     {
+      "name": "thetimes-2022-10-25T04:57:05.551651+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetimes-2022-10-25T04:57:05.551651+01:00.jpg",
+      "mtime": "1666676510",
+      "size": "9960",
+      "md5": "56814dcbca37f1c0de3bc6f3be9a952a",
+      "crc32": "eda29a2b",
+      "sha1": "cf55821a63295e3bcfccad0401075fce418e5f5d"
+    },
+    {
+      "name": "thetimes-2022-10-25T10:25:39.105996+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666689967",
+      "size": "46412",
+      "md5": "6162899131b1524f3534a81dcd66a47f",
+      "crc32": "631e7f8e",
+      "sha1": "de03cdeb9f222999dbfa1476a42c649a9aafb3fe",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-25T10:25:39.105996+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666689968",
+      "size": "103065",
+      "md5": "1a0b2d9bcddfa4cc44138ba604840727",
+      "crc32": "b026a6c2",
+      "sha1": "eaebf1b0c37d2e467ff53f72923762dbd3e50fb8",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-25T10:25:39.105996+01:00.jpg",
+      "source": "original",
+      "mtime": "1666689964",
+      "size": "298339",
+      "md5": "1bd7a037cf4d0d1ce2445e3f163e60e9",
+      "crc32": "1dc567f4",
+      "sha1": "7d9a02337bf8c356911d29c04a8e5f5987abe4c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetimes-2022-10-25T10:25:39.105996+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666689970",
+      "size": "1495",
+      "md5": "4e4719b5f1b8b868f217ed1aae6b43f7",
+      "crc32": "07a6f102",
+      "sha1": "ed83712798fdffb6eb636b38b526818df54c7e7a",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-25T10:25:39.105996+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetimes-2022-10-25T10:25:39.105996+01:00.jpg",
+      "mtime": "1666693268",
+      "size": "9584",
+      "md5": "db32ddcc9d58b2cb69c25719ad688971",
+      "crc32": "35fef860",
+      "sha1": "d67821aac7dbae0c22d0693bc05a4f3d4b8e940e"
+    },
+    {
+      "name": "thetimes-2022-10-25T15:52:39.580214+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666709563",
+      "size": "46503",
+      "md5": "a2df3f601d617c68c686b3bba0f97e6e",
+      "crc32": "91e72bfc",
+      "sha1": "96abc51a9b4f47190789cf6121c218ac1146d12e",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-25T15:52:39.580214+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666709565",
+      "size": "108217",
+      "md5": "040e8cd39179b5c8cf460a12553f734b",
+      "crc32": "de1c2755",
+      "sha1": "124767281038be92aa5ff5612993fb45cffb41dc",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-25T15:52:39.580214+01:00.jpg",
+      "source": "original",
+      "mtime": "1666709561",
+      "size": "296886",
+      "md5": "8a02033a6425d55c3a6dabe031157799",
+      "crc32": "b2a4aa61",
+      "sha1": "91881c0b92285083441f12d279fca4c14b8632ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetimes-2022-10-25T15:52:39.580214+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666709567",
+      "size": "1495",
+      "md5": "002f9032d27588419603b9784dfe5bff",
+      "crc32": "8580874f",
+      "sha1": "6069ecfffa96a566ac22e165f307aaca153bf5b2",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimes-2022-10-25T15:52:39.580214+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709569",
+      "size": "234",
+      "md5": "f0bcb7748e0e48973780e1cf34984502",
+      "crc32": "6457a8e2",
+      "sha1": "1a29310376030a6624a9f50096e9e2fc7b0a8cef",
+      "format": "JSON"
+    },
+    {
       "name": "thetimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa25c4825c5c8459d598f3c03062c7531ce7a8fb",
-      "mtime": "1666670437",
-      "size": "600224",
-      "md5": "77135e0a33f267b09716c0fd13b5d5e6",
-      "crc32": "f1756202",
-      "sha1": "647d37813cdaeb0bed25dc7010d4ee7a4e27feb2",
+      "btih": "16c391a56e54cb189a4dc47abb47669d2c79aa33",
+      "mtime": "1666709685",
+      "size": "602530",
+      "md5": "8cd57ebf61f668fb2ea7fd8ec908b7a5",
+      "crc32": "ce0238d8",
+      "sha1": "e2085b93c209270880e1ceec2359b315ddca54cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4fdedbdd707ea03a367ffb80f0deb79",
+      "md5": "14c8a682fd7969c406d1631502828571",
       "summation": "md5"
     },
     {
       "name": "thetimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666670312",
-      "size": "3424256",
-      "md5": "ca6a160657495db7799a44640b155748",
-      "crc32": "53f46297",
-      "sha1": "be60adc24d955de866be6a954fb469b92b8422c6",
+      "mtime": "1666709577",
+      "size": "3440640",
+      "md5": "7c26d6d05e455ac7c47d2f228241bdcb",
+      "crc32": "79306f6d",
+      "sha1": "dcc13c1aa72720a59a3e8ead41f178dfcb161d68",
       "format": "Metadata"
     },
     {
@@ -29479,9 +29593,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2831,
-  "item_last_updated": 1666670437,
-  "item_size": 299453504,
+  "files_count": 2842,
+  "item_last_updated": 1666709685,
+  "item_size": 300394384,
   "metadata": {
     "identifier": "thetimes-2022",
     "collection": [
@@ -29503,7 +29617,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3450717056,
+      "task_id": 3451740378,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -29511,7 +29625,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1619833298,
+  "uniq": 1600161357,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]
