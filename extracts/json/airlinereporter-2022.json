@@ -1,5 +1,5 @@
 {
-  "created": 1666695514,
+  "created": 1666738665,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/airlinereporter-2022",
@@ -8191,31 +8191,83 @@
       "format": "JSON"
     },
     {
+      "name": "airlinereporter-2022-10-25T03:55:52.770198-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-25T03:55:52.770198-07:00.jpg",
+      "mtime": "1666697349",
+      "size": "9555",
+      "md5": "8f5648e2b64d3ae83d8ada8936752d68",
+      "crc32": "0ff2e374",
+      "sha1": "d883a0f4c1a56a938bfcaf95c318e7a5e8236375"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T15:56:32.125534-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738608",
+      "size": "36744",
+      "md5": "e08a4260f465d9917993ce1391bf9e12",
+      "crc32": "6e57dba9",
+      "sha1": "f1ab5e4967ecd9952912c0bb9139d1ccc503a54e",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T15:56:32.125534-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738609",
+      "size": "25781",
+      "md5": "e14c1f97de39815bf1a4a8b7a8305e42",
+      "crc32": "cae91c1b",
+      "sha1": "0c9a8f203872fed1b650c512e6802ca89a2f630b",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T15:56:32.125534-07:00.jpg",
+      "source": "original",
+      "mtime": "1666738606",
+      "size": "312632",
+      "md5": "0516dbddce2fa18df2376c3b6a3a2086",
+      "crc32": "e62890c2",
+      "sha1": "69ee5b9d3583c8aac9976c3886e3d494314cc8dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T15:56:32.125534-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738611",
+      "size": "17547",
+      "md5": "9d63b67af317f57cc86ea83f29f9d668",
+      "crc32": "a1c2cd9b",
+      "sha1": "6078896a0fc33643edc12017aa00205f38d87a51",
+      "format": "JSON"
+    },
+    {
       "name": "airlinereporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "461c774da4f1e28dffb766c35db3b1c49a305294",
-      "mtime": "1666695507",
-      "size": "173639",
-      "md5": "6c9957f864bb0b52f1740a359519c9c6",
-      "crc32": "24692cc4",
-      "sha1": "52ba2c7fb5254d8f1909767fbce6af5466858c0c",
+      "btih": "9ee9ce8ba5ed8292d7c0ae16d2586dc2d287b768",
+      "mtime": "1666738660",
+      "size": "174731",
+      "md5": "9878f297d16b3bfecae22df6771fa779",
+      "crc32": "9921bce9",
+      "sha1": "d703bc871ca060aca2ca929dafe472c12c0e89fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airlinereporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ee7bb5fb1319efca3c90de6a2d37b27",
+      "md5": "5949a90639b71ca783ff3baf3c561974",
       "summation": "md5"
     },
     {
       "name": "airlinereporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695463",
-      "size": "1032192",
-      "md5": "fd98541de4c5e2fa3e980a8b7eafb7e9",
-      "crc32": "1dcb98a4",
-      "sha1": "52ac76abeff0846e0753184565e6d7b67081e64e",
+      "mtime": "1666738616",
+      "size": "1036288",
+      "md5": "4744181b00dccbcdfdeba14e6b28005a",
+      "crc32": "6c6a2a70",
+      "sha1": "1096525e62fcad21508e773eb9206eaf5edd5d18",
       "format": "Metadata"
     },
     {
@@ -8229,9 +8281,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 796,
-  "item_last_updated": 1666695507,
-  "item_size": 52833006,
+  "files_count": 801,
+  "item_last_updated": 1666738660,
+  "item_size": 53240453,
   "metadata": {
     "identifier": "airlinereporter-2022",
     "collection": [
@@ -8253,7 +8305,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451503073,
+      "task_id": 3452377334,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8261,7 +8313,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 474665212,
+  "uniq": 1093990678,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

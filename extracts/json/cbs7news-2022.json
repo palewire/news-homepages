@@ -1,5 +1,5 @@
 {
-  "created": 1666695894,
+  "created": 1666739038,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/8/items/cbs7news-2022",
@@ -11959,31 +11959,93 @@
       "format": "JSON"
     },
     {
+      "name": "cbs7news-2022-10-25T06:01:50.874058-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-25T06:01:50.874058-05:00.jpg",
+      "mtime": "1666698145",
+      "size": "10899",
+      "md5": "8924d3d75ff51e2d5de9a7b6de20673e",
+      "crc32": "967c7cb4",
+      "sha1": "933fdc93baa3dd7a8dc46c591cf34a2191913e8c"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738978",
+      "size": "34908",
+      "md5": "dd2fb8b4da37c578a4c0ce5e0e5e71ea",
+      "crc32": "58391e52",
+      "sha1": "727dbcc84c3922d00f24a3b273e917cae0c94b9a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738981",
+      "size": "21463",
+      "md5": "98e846b4f8e02d68a04ab834f576f5b9",
+      "crc32": "d7bf3524",
+      "sha1": "d3242a8257cf8807cde4b1a590a61fea89c4fe33",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.jpg",
+      "source": "original",
+      "mtime": "1666738977",
+      "size": "319435",
+      "md5": "97967a28744a9592299ea9fea3e2f5aa",
+      "crc32": "9fb605f5",
+      "sha1": "39dfc66cdf29f0d7595118638fdf0aff599c290b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738982",
+      "size": "1441",
+      "md5": "3db5e17f47cc1b63b81c10d56267f796",
+      "crc32": "322071b8",
+      "sha1": "59c9a3665f87e734bcb42e01634499b8ecfa3845",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738984",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "cbs7news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b1f4b4e8ba1b7c736088baddb98b5b6a1cde9f6",
-      "mtime": "1666695888",
-      "size": "244863",
-      "md5": "60adec05b58e2a5f6d3c773686a300e2",
-      "crc32": "be2bf1de",
-      "sha1": "5cc254f466e4d764df19887dd8f8d71d01f07149",
+      "btih": "d21b6389a4d7b43ca8b80e0e7b356977440dadec",
+      "mtime": "1666739033",
+      "size": "246129",
+      "md5": "3dd2c56ad0c7776004e71c4e12c84f5b",
+      "crc32": "0c017b94",
+      "sha1": "d6af530dac8c98ebbffe3ea71bcccfe87842aedd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbs7news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04f384eb5d2a2ce5dd9118a5446c589d",
+      "md5": "662783b29f7c90942c1bfaef5a835fa4",
       "summation": "md5"
     },
     {
       "name": "cbs7news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695840",
-      "size": "1462272",
-      "md5": "ab2d919f242a639908caeb44c7ec9eaf",
-      "crc32": "1211bfe6",
-      "sha1": "dd4a6f8ef7e7c4553d8d60ec7d5b1d6225bc90be",
+      "mtime": "1666738988",
+      "size": "1474560",
+      "md5": "0ca901397d4a9c92c5bae872f7a165ca",
+      "crc32": "af05f98c",
+      "sha1": "f0e165a8f6389a6d4c7be90610f80c71d50026db",
       "format": "Metadata"
     },
     {
@@ -11997,9 +12059,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1159,
-  "item_last_updated": 1666695888,
-  "item_size": 88086185,
+  "files_count": 1165,
+  "item_last_updated": 1666739033,
+  "item_size": 88488087,
   "metadata": {
     "identifier": "cbs7news-2022",
     "collection": [
@@ -12021,7 +12083,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451519217,
+      "task_id": 3452384899,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12029,7 +12091,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 345614085,
+  "uniq": 1402084761,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666695690,
+  "created": 1666738872,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/35/items/blueridgenow-2022",
@@ -4375,31 +4375,93 @@
       "format": "JSON"
     },
     {
+      "name": "blueridgenow-2022-10-25T06:58:52.508993-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blueridgenow-2022-10-25T06:58:52.508993-04:00.jpg",
+      "mtime": "1666697487",
+      "size": "9224",
+      "md5": "33fb72b51b64f35bf0c62e499f5c5a55",
+      "crc32": "337020d4",
+      "sha1": "5e74f1039939fab989877c739dcfb783573bca85"
+    },
+    {
+      "name": "blueridgenow-2022-10-25T19:00:10.957830-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738816",
+      "size": "24146",
+      "md5": "af48b2767ca9313a187fc151e7b0d70e",
+      "crc32": "a95dda00",
+      "sha1": "ed29e40423e2cfc8d10dad3553970a585ddf9497",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-10-25T19:00:10.957830-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738818",
+      "size": "34406",
+      "md5": "94742787dc29d8c130851b94abdd23bb",
+      "crc32": "143a384c",
+      "sha1": "2ac50ee33d44c7d17fdf49a2951f14f2b7fc8112",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-10-25T19:00:10.957830-04:00.jpg",
+      "source": "original",
+      "mtime": "1666738814",
+      "size": "224923",
+      "md5": "1c8ba788028e009d4bbfda19231437b6",
+      "crc32": "a7f6ab3b",
+      "sha1": "8e2ff1610ff03ddef6fcb2b5834faef59131ebd7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blueridgenow-2022-10-25T19:00:10.957830-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738819",
+      "size": "1513",
+      "md5": "02f692b5e978a9c2ded89ff0f30df2c5",
+      "crc32": "07cf2a48",
+      "sha1": "e8d5dd64850c4a42cc13afc5c7c3c33359382e24",
+      "format": "JSON"
+    },
+    {
+      "name": "blueridgenow-2022-10-25T19:00:10.957830-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738821",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "blueridgenow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3900ea82092774894e49f805c1f064145c210411",
-      "mtime": "1666695686",
-      "size": "92139",
-      "md5": "29d43731d541305104385633a3e807ef",
-      "crc32": "c84cee55",
-      "sha1": "8eaa5da0f6d03e6a5c9ec44596c8acae196d2c78",
+      "btih": "d290b9b11cd05a981c36ed00e57d557b5a6560da",
+      "mtime": "1666738867",
+      "size": "93408",
+      "md5": "6d647e2dfc9557fdca04a3728434f921",
+      "crc32": "5bf892ce",
+      "sha1": "91d3f7bbca6649cfcf2ef654935f637b43b61584",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blueridgenow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1c62bbeaac9b6f6661ba0887e26fa1ed",
+      "md5": "3d6cf01210d27e5942fad32bee7e8272",
       "summation": "md5"
     },
     {
       "name": "blueridgenow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695648",
-      "size": "565248",
-      "md5": "439e4831e7f7f7b9441277d8f53394b9",
-      "crc32": "e9f0d1aa",
-      "sha1": "b59e20c0d173f3498d074ed59d6c8f9552d109d8",
+      "mtime": "1666738829",
+      "size": "573440",
+      "md5": "baf179459d386f23eede3c36317bcf7f",
+      "crc32": "d8bed44d",
+      "sha1": "a41c6de441478bd081b1a2508a0b6ee179c890cd",
       "format": "Metadata"
     },
     {
@@ -4413,9 +4475,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 427,
-  "item_last_updated": 1666695686,
-  "item_size": 29071362,
+  "files_count": 433,
+  "item_last_updated": 1666738867,
+  "item_size": 29375237,
   "metadata": {
     "identifier": "blueridgenow-2022",
     "collection": [
@@ -4437,7 +4499,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451509794,
+      "task_id": 3452381357,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4445,7 +4507,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 514062814,
+  "uniq": 1576696390,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]
