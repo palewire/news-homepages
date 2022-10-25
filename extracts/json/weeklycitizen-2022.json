@@ -1,5 +1,5 @@
 {
-  "created": 1666686739,
+  "created": 1666712976,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/weeklycitizen-2022",
@@ -4294,31 +4294,82 @@
       "sha1": "e9d6df18cd40fe7b3a11716016891abbb998cc6f"
     },
     {
+      "name": "weeklycitizen-2022-10-25T10:48:38.663691-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712924",
+      "size": "20070",
+      "md5": "c8d1b5c8f99389165525238405cde5e6",
+      "crc32": "6ffe0016",
+      "sha1": "876a77c6aa0662745abc821a6048fa48877d06a9",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-25T10:48:38.663691-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712926",
+      "size": "28870",
+      "md5": "324599136bc89ceea38e5013752e8d7b",
+      "crc32": "1dd0e313",
+      "sha1": "495493373afc2f658fa39186fe9f0dd671175150",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-25T10:48:38.663691-05:00.jpg",
+      "source": "original",
+      "mtime": "1666712923",
+      "size": "249215",
+      "md5": "5b98fa098d37cae77ba8657dac768bbb",
+      "crc32": "fc8be546",
+      "sha1": "0018e6bd1aa96654edbe2a924cb2fe1fc2298e88",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-25T10:48:38.663691-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712928",
+      "size": "1519",
+      "md5": "2e8b3dad3bc9d0794a3ff7e3a1353e20",
+      "crc32": "8c47631b",
+      "sha1": "fe45bd30eeaa4f387fb294b80a242320feee9c5e",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-25T10:48:38.663691-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712929",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "weeklycitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "530101d18edb9e360a8db719103ae32833b77a74",
-      "mtime": "1666681868",
-      "size": "90775",
-      "md5": "d4ad86728b675b1faa1b7ef0be76ce64",
-      "crc32": "450aa5b1",
-      "sha1": "1e6aeb8330ac9b36ec3b427d1ddcf22da124a653",
+      "btih": "c2f4513f2bf7de49d84eeed861140bbce9c75eaa",
+      "mtime": "1666712972",
+      "size": "91861",
+      "md5": "99082a8104e6a340ead26b4fcdc51a08",
+      "crc32": "f15386d0",
+      "sha1": "960d7c487791f6101dcb211437d03516cfb0d87d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weeklycitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73b1a417cf59fec17f02b242d1d9b040",
+      "md5": "7f8163ecac68548c7b2a2339bc0e26fb",
       "summation": "md5"
     },
     {
       "name": "weeklycitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679581",
-      "size": "548864",
-      "md5": "ef86468f0b35d919d4f0a0893d0f3d1b",
-      "crc32": "4c8ef09c",
-      "sha1": "6fbf602594fa163daffc2058d4ec3c5b56e37f45",
+      "mtime": "1666712933",
+      "size": "561152",
+      "md5": "af336942c0bcf7419d88d0923d390c21",
+      "crc32": "cadde6e9",
+      "sha1": "fde5cb844eb6d4bb7fdeacdb7e3e8d2941bb8ab8",
       "format": "Metadata"
     },
     {
@@ -4332,9 +4383,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 419,
-  "item_last_updated": 1666681868,
-  "item_size": 27152000,
+  "files_count": 424,
+  "item_last_updated": 1666712972,
+  "item_size": 27465250,
   "metadata": {
     "identifier": "weeklycitizen-2022",
     "collection": [
@@ -4351,18 +4402,21 @@
     "publicdate": "2022-09-21 04:40:52",
     "addeddate": "2022-09-21 04:40:52"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 730400817,
-  "weeklycitizen-2022": {
-    "url": "https://www.weeklycitizen.com/",
-    "job_id": "spn2-e2b69bac69105216f897e0047a8aeaf671ab4c47",
-    "resources": [],
-    "status": "error",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1018.",
-    "status_ext": "WorkerLostError"
-  },
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451773823,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2010513824,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

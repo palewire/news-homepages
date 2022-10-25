@@ -1,10 +1,5 @@
 {
-  "capitalandmain-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666687080,
+  "created": 1666712933,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/31/items/capitalandmain-2022",
@@ -16225,31 +16220,82 @@
       "sha1": "366bd1476c610452db61f67ad5df64c2109f2b23"
     },
     {
+      "name": "capitalandmain-2022-10-25T08:47:37.400404-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712867",
+      "size": "14071",
+      "md5": "2265e382171c0a3a49a1ffe5d392392d",
+      "crc32": "a8f31028",
+      "sha1": "7cb91623bbb8cbb5830609982206bde560b124ad",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-25T08:47:37.400404-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712869",
+      "size": "26705",
+      "md5": "f4f6904c05bae37f527d01d7f334bfd5",
+      "crc32": "f48f3424",
+      "sha1": "e5467d3c6f9ac5ad0896411f6f763e70fd73b836",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-25T08:47:37.400404-07:00.jpg",
+      "source": "original",
+      "mtime": "1666712865",
+      "size": "295185",
+      "md5": "990b4f836ba9a5e0b53f58eeb7db0373",
+      "crc32": "9cc3d3f4",
+      "sha1": "d02bff873a9b1c10f3fd2665a23e679d0420706f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitalandmain-2022-10-25T08:47:37.400404-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712870",
+      "size": "1494",
+      "md5": "3fe8d6b5899d7ceae75dcb1fd09fc947",
+      "crc32": "21ba7c5a",
+      "sha1": "edd4fe323c4311712fe4ed2e0bf664459d7b0c33",
+      "format": "JSON"
+    },
+    {
+      "name": "capitalandmain-2022-10-25T08:47:37.400404-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712872",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "capitalandmain-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9d17f7f87f84e43114496368e4cd1ac0521c61be",
-      "mtime": "1666681783",
-      "size": "340664",
-      "md5": "b6e61c192015e624feeed324f1384e85",
-      "crc32": "548729fe",
-      "sha1": "421d48cc2ec97ee2db8d518e538b3dd1453010ee",
+      "btih": "5bdf6fc516b704e09a03f3d333591ec0b25fafbe",
+      "mtime": "1666712929",
+      "size": "341735",
+      "md5": "e9b1365712e7078a3d46c3aa573f8b6f",
+      "crc32": "3d90dcfb",
+      "sha1": "aba3ba9f48579627d8a777fe508e98f678c60e77",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitalandmain-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d78c7e4a5aba7151d259a20324d3fc15",
+      "md5": "2047842a60f50e7f3b15efa769c1386e",
       "summation": "md5"
     },
     {
       "name": "capitalandmain-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679374",
-      "size": "2011136",
-      "md5": "d065e7d9b2363bc4e373529a5a52ad21",
-      "crc32": "0c7eb0e8",
-      "sha1": "de058d8031f9e2a44da236f97d5c056d206a0ede",
+      "mtime": "1666712876",
+      "size": "2015232",
+      "md5": "d5d759fcbcb419b5dd02d23874725ddb",
+      "crc32": "a35be8c2",
+      "sha1": "0c90e35d81e89974a56b5e8a3f46672129ea6039",
       "format": "Metadata"
     },
     {
@@ -16263,9 +16309,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1572,
-  "item_last_updated": 1666681783,
-  "item_size": 100134393,
+  "files_count": 1577,
+  "item_last_updated": 1666712929,
+  "item_size": 100477217,
   "metadata": {
     "identifier": "capitalandmain-2022",
     "collection": [
@@ -16282,10 +16328,21 @@
     "publicdate": "2022-07-23 18:23:54",
     "addeddate": "2022-07-23 18:23:54"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 1003414958,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451773110,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1939586402,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

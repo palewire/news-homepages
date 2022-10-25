@@ -1,5 +1,5 @@
 {
-  "created": 1666686689,
+  "created": 1666713028,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/wnyt-2022",
@@ -10300,31 +10300,82 @@
       "sha1": "f6339d442ee657f25644b3b1a0c65fd0d109bde8"
     },
     {
+      "name": "wnyt-2022-10-25T11:49:20.784200-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712968",
+      "size": "19114",
+      "md5": "8a3126b9fc418511f6b628ea7f7a2f9d",
+      "crc32": "89fe47f3",
+      "sha1": "cfef57d535845fe60044a97f8f41d3f06e0d24ce",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-10-25T11:49:20.784200-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712970",
+      "size": "27835",
+      "md5": "46da81cf1fdd6d56791eb22593cec74c",
+      "crc32": "171aa297",
+      "sha1": "6748183da5dbaff2a22a682046ba0b24b9784d23",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-10-25T11:49:20.784200-04:00.jpg",
+      "source": "original",
+      "mtime": "1666712967",
+      "size": "246569",
+      "md5": "3409a048b4bc3115a6d8fd9c15f1df0e",
+      "crc32": "e147f889",
+      "sha1": "d75343d4753af7eb30eda657f32c5ae8ab474e6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyt-2022-10-25T11:49:20.784200-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712972",
+      "size": "1405",
+      "md5": "1e0c28a9f70e243a64f2616a3b2c4d5a",
+      "crc32": "0610562c",
+      "sha1": "5de6ac04595f12b1e3c4605e1cdeff7926ceacb6",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-10-25T11:49:20.784200-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712974",
+      "size": "89669",
+      "md5": "e7f7a325e2dc06949331e309af0931ef",
+      "crc32": "db687cd6",
+      "sha1": "5881b3d4bf979b43132c8604357e068a57228dd7",
+      "format": "JSON"
+    },
+    {
       "name": "wnyt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9b65640ce332d17b789b779c334036bfef52439e",
-      "mtime": "1666682457",
-      "size": "206437",
-      "md5": "42d4ac7ff01848a83ab1b8ddec7c6cce",
-      "crc32": "1c1e417b",
-      "sha1": "2cd73b2bdf8f34e1ed93d682d50999b367b1d9ee",
+      "btih": "187b53f486a169c7f923d176d2f9a0b28510b93e",
+      "mtime": "1666713023",
+      "size": "207480",
+      "md5": "9310b24f817ab74ce8aed14db712cb2b",
+      "crc32": "c9fab3f3",
+      "sha1": "8d89c94de1d12797955c0449a489e70401d55fdb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "70ca32ea230bd60705de333d9c618248",
+      "md5": "fadf2009da0a96e4d378df206c78966a",
       "summation": "md5"
     },
     {
       "name": "wnyt-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679571",
-      "size": "1265664",
-      "md5": "4935ecc57562b93762c27c87db1ba359",
-      "crc32": "ea342219",
-      "sha1": "2f08048ee244781488b8cf72af6f144e71f8f899",
+      "mtime": "1666712979",
+      "size": "1277952",
+      "md5": "a84950cf2485f6f1ffd53a76b8e8f83b",
+      "crc32": "adf87069",
+      "sha1": "c01502497ed3bbe7ca3130bc49d1a8f34c61fb1e",
       "format": "Metadata"
     },
     {
@@ -10338,9 +10389,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1000,
-  "item_last_updated": 1666682457,
-  "item_size": 57626679,
+  "files_count": 1005,
+  "item_last_updated": 1666713023,
+  "item_size": 58024602,
   "metadata": {
     "identifier": "wnyt-2022",
     "collection": [
@@ -10357,15 +10408,21 @@
     "publicdate": "2022-08-02 02:04:24",
     "addeddate": "2022-08-02 02:04:24"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 86979834,
-  "wnyt-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451774685,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1083896835,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

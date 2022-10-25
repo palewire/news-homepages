@@ -1,5 +1,5 @@
 {
-  "created": 1666682082,
+  "created": 1666712837,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/35/items/axios-2022",
@@ -15392,31 +15392,82 @@
       "sha1": "aee6355896654ffee07352370c9b8942540ad51b"
     },
     {
+      "name": "axios-2022-10-25T11:45:54.507484-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712765",
+      "size": "24128",
+      "md5": "481d3613145602d9e193f1a34361fa6b",
+      "crc32": "b5b75e2a",
+      "sha1": "3138325719f4423a0fa7483ca28020a702f1be1a",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-10-25T11:45:54.507484-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712767",
+      "size": "14235",
+      "md5": "a39defaa0fd30a98179dc20eed86925f",
+      "crc32": "368cd165",
+      "sha1": "04e9d1b8047e70a305b8b0b67fe4bb850a67bd8d",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-10-25T11:45:54.507484-04:00.jpg",
+      "source": "original",
+      "mtime": "1666712763",
+      "size": "238618",
+      "md5": "477a202aec20566487151daae759146c",
+      "crc32": "11bd9328",
+      "sha1": "2750ca0341da10c3680f9f328dd0438d8d11b93b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "axios-2022-10-25T11:45:54.507484-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712769",
+      "size": "1450",
+      "md5": "8867d68452eb6db77cfebcf5dbc0c8f3",
+      "crc32": "7dd49dcf",
+      "sha1": "a7109b3bc3139cc28663726fad636e85da4ac8dd",
+      "format": "JSON"
+    },
+    {
+      "name": "axios-2022-10-25T11:45:54.507484-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712771",
+      "size": "20372",
+      "md5": "3e7414ad8de704f7d3f06f56ca0e9916",
+      "crc32": "e03f8ec0",
+      "sha1": "3dc1a9ab7de22b2460ed1ea5f86b4bf97d754a47",
+      "format": "JSON"
+    },
+    {
       "name": "axios-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ff8645cf849a40d91bbff61f1278f38808dd58ab",
-      "mtime": "1666681773",
-      "size": "308092",
-      "md5": "2b5277219515dc01487a5ee069f912ac",
-      "crc32": "218bcd13",
-      "sha1": "c7cf95e91f56bda09439444484af82c04408b7e3",
+      "btih": "a5857937a1e870e56816170d877c16c77b997120",
+      "mtime": "1666712829",
+      "size": "309140",
+      "md5": "5f70dd248b81b51ae6bf168a358f9e83",
+      "crc32": "744adf09",
+      "sha1": "2d7db4dac01f56e6299a7a7848988b1f1b27e5e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "axios-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f431a12c8b3293dfc58a2e0bfe201682",
+      "md5": "905e767fff5d69eba6785435f232327e",
       "summation": "md5"
     },
     {
       "name": "axios-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679385",
-      "size": "1830912",
-      "md5": "3ece073c1aebc4f3c07288f2f4c08e02",
-      "crc32": "c44d4629",
-      "sha1": "1d2f020e68f64ead78ceb25a3a71feeb1150e252",
+      "mtime": "1666712778",
+      "size": "1835008",
+      "md5": "771a6fd380058f41e6ee262ad1e27317",
+      "crc32": "54c39989",
+      "sha1": "9ba90078030f2127e8c465d02f242d5d16832bea",
       "format": "Metadata"
     },
     {
@@ -15430,9 +15481,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1486,
-  "item_last_updated": 1666681773,
-  "item_size": 92522666,
+  "files_count": 1491,
+  "item_last_updated": 1666712829,
+  "item_size": 92826613,
   "metadata": {
     "identifier": "axios-2022",
     "collection": [
@@ -15449,10 +15500,21 @@
     "publicdate": "2022-06-19 23:22:59",
     "addeddate": "2022-06-19 23:22:59"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 611894341,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451771594,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 743657208,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

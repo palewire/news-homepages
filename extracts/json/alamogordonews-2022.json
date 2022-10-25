@@ -1,10 +1,5 @@
 {
-  "alamogordonews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666686870,
+  "created": 1666712804,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/8/items/alamogordonews-2022",
@@ -4237,31 +4232,82 @@
       "sha1": "2ec2105dd12adc8a8495e6f7ecd76f58e458c176"
     },
     {
+      "name": "alamogordonews-2022-10-25T09:45:32.789145-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712741",
+      "size": "21208",
+      "md5": "cc82a9ed49046d991011213359c9a357",
+      "crc32": "957a0991",
+      "sha1": "d55d989235b465d2999499c9682674b7a6137ab2",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-10-25T09:45:32.789145-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712744",
+      "size": "31739",
+      "md5": "894bb55bdaf8037c79b665c959b939ea",
+      "crc32": "5bc9daaa",
+      "sha1": "769d89070940c973924626fd5a0eefb83cc61113",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-10-25T09:45:32.789145-06:00.jpg",
+      "source": "original",
+      "mtime": "1666712737",
+      "size": "220279",
+      "md5": "1f0239f98a5b3533c0c8375b2b24692d",
+      "crc32": "a8f9a8fa",
+      "sha1": "1a10a0b45a2ae59bc798cf163fb9ea6d912fc99f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alamogordonews-2022-10-25T09:45:32.789145-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712746",
+      "size": "1530",
+      "md5": "931c1d3cff049d6aec0ece12608ed006",
+      "crc32": "9067db64",
+      "sha1": "3f97c90bb73fd80380b0f594b2f0aad34893346d",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-10-25T09:45:32.789145-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712747",
+      "size": "256",
+      "md5": "6419d716b65b82677d144ea2e959fff0",
+      "crc32": "43bea274",
+      "sha1": "388b656a89ef3a8394c5e0c490a35e82d556a667",
+      "format": "JSON"
+    },
+    {
       "name": "alamogordonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e089a40c4ccddde95e05edea4afc685acc5dd918",
-      "mtime": "1666681470",
-      "size": "89960",
-      "md5": "3e34f716b81d60964df86d161277d154",
-      "crc32": "6036c5c0",
-      "sha1": "225ef66cde2310b81dbaa7314af0488d069fe552",
+      "btih": "d742e8e9874e13414afb8531aed02ccf53a819e5",
+      "mtime": "1666712799",
+      "size": "91031",
+      "md5": "3bd237f5bd0d57c521d66f1dd21198f2",
+      "crc32": "3683e9d4",
+      "sha1": "bae608a4c1125e46b6a9e9276cde0187fc854442",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alamogordonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc0637a1119a45e81fc6813f7e98c44d",
+      "md5": "8c5bbddd194e446406efabd2446cfe53",
       "summation": "md5"
     },
     {
       "name": "alamogordonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679172",
-      "size": "544768",
-      "md5": "7796eaec43937422459bcf298a4baba2",
-      "crc32": "fbe50d57",
-      "sha1": "52874f391dc6a642142420e96613ab02d714807a",
+      "mtime": "1666712758",
+      "size": "552960",
+      "md5": "66395b54e663ae6bda3fa01f333c5e3f",
+      "crc32": "3f00f0ee",
+      "sha1": "5a9de1f91b070c70f15e7e1174031848409c7b11",
       "format": "Metadata"
     },
     {
@@ -4275,9 +4321,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 413,
-  "item_last_updated": 1666681470,
-  "item_size": 27544676,
+  "files_count": 418,
+  "item_last_updated": 1666712799,
+  "item_size": 27828951,
   "metadata": {
     "identifier": "alamogordonews-2022",
     "collection": [
@@ -4294,10 +4340,21 @@
     "publicdate": "2022-09-21 04:37:44",
     "addeddate": "2022-09-21 04:37:44"
   },
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 925498155,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451771008,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 366924544,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia601507.us.archive.org"
   ]
 }

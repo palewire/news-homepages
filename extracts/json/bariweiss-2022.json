@@ -1,10 +1,5 @@
 {
-  "bariweiss-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666686978,
+  "created": 1666712899,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/bariweiss-2022",
@@ -17393,31 +17388,82 @@
       "sha1": "8605a2ce14d99795f4a3f91451cdaf6e55af6c28"
     },
     {
+      "name": "bariweiss-2022-10-25T08:46:05.553326-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712791",
+      "size": "14378",
+      "md5": "4a53cf8a66d2641ffec663968777e9b5",
+      "crc32": "c94570cd",
+      "sha1": "277eab281d7981da7042f37d6c6fb25981d7ab64",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-25T08:46:05.553326-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712793",
+      "size": "13462",
+      "md5": "feaf1df13e74260ebb1ffbb3724f5c56",
+      "crc32": "1a6c86d3",
+      "sha1": "d5f97beadc8608a9589e60516ae02387bbd962e9",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-25T08:46:05.553326-07:00.jpg",
+      "source": "original",
+      "mtime": "1666712789",
+      "size": "252474",
+      "md5": "15a14cbeb733d7f1ed445ca4fe6e687a",
+      "crc32": "302db4fe",
+      "sha1": "3b0ccdcca130b95896877cde1796622c9a5745c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bariweiss-2022-10-25T08:46:05.553326-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712795",
+      "size": "1503",
+      "md5": "8f70c559c07f264d71220e4164eb697b",
+      "crc32": "ef55a56d",
+      "sha1": "f23cb8fa965c41a3bbbce87253b5986be2d6c0df",
+      "format": "JSON"
+    },
+    {
+      "name": "bariweiss-2022-10-25T08:46:05.553326-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712798",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bariweiss-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3520748873454009b882f0232d99ea86dba52ab6",
-      "mtime": "1666681701",
-      "size": "355522",
-      "md5": "2a450ae3da0405444a55e67de627c7f6",
-      "crc32": "caa23e03",
-      "sha1": "fdc9207c880ea19c861a6688628aebf5db9659f5",
+      "btih": "ecad09879226c8781458a97588758bacc996a498",
+      "mtime": "1666712886",
+      "size": "356568",
+      "md5": "9248ddf97962ef990239f2a74a11250e",
+      "crc32": "9b5b8ae4",
+      "sha1": "2b52042289c15735b26fff322b3ca57a86c5334e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bariweiss-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "805e86e3c6d55f73f409ccef93b7766a",
+      "md5": "25bcefb8b30706bfcea39720334d3972",
       "summation": "md5"
     },
     {
       "name": "bariweiss-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679390",
-      "size": "2125824",
-      "md5": "33069acc47c5389ec2a09a1f17e8584a",
-      "crc32": "064c5de1",
-      "sha1": "bd3cdd9fb532f9baf7f8f1d5eb8cbfb0fc041930",
+      "mtime": "1666712811",
+      "size": "2138112",
+      "md5": "23636632cdcbb4493c55e4431938b291",
+      "crc32": "84752857",
+      "sha1": "bb728b4871bf50a510355fbc650ae530525da698",
       "format": "Metadata"
     },
     {
@@ -17431,9 +17477,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1684,
-  "item_last_updated": 1666681701,
-  "item_size": 90031443,
+  "files_count": 1689,
+  "item_last_updated": 1666712886,
+  "item_size": 90326796,
   "metadata": {
     "identifier": "bariweiss-2022",
     "collection": [
@@ -17450,10 +17496,21 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1711906401,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451772485,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 432211841,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

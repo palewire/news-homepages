@@ -1,5 +1,5 @@
 {
-  "created": 1666681785,
+  "created": 1666712791,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/4/items/arstechnica-2022",
@@ -13670,31 +13670,82 @@
       "sha1": "dea7f434c8a555140da78e883b6e39642b43624b"
     },
     {
+      "name": "arstechnica-2022-10-25T11:45:14.249630-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712718",
+      "size": "32074",
+      "md5": "f8aea73cce456c23cb2a7dcafd69f252",
+      "crc32": "455ea382",
+      "sha1": "29df4350c9dd031f114b37f79d562165e0fa27e1",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-25T11:45:14.249630-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712719",
+      "size": "35980",
+      "md5": "ccc99f2441adcd95608b970b757a277e",
+      "crc32": "485a6265",
+      "sha1": "ccbe27116c9bef6db00e11a3603f97d75ff163f6",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-25T11:45:14.249630-04:00.jpg",
+      "source": "original",
+      "mtime": "1666712716",
+      "size": "310770",
+      "md5": "c7be9cda27eb1ba4107f050b0f79c39f",
+      "crc32": "7a32fe7f",
+      "sha1": "00a3df24380564147e7689030b3bb617f6d8d6da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arstechnica-2022-10-25T11:45:14.249630-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712721",
+      "size": "1468",
+      "md5": "c920f397599efe5a374f040be17914ed",
+      "crc32": "f8fe50d7",
+      "sha1": "20711d0498a2cdf312f30dcf8e18803ce04c9b53",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-25T11:45:14.249630-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712724",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "arstechnica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed32596fc77ea546cfed85bfcb607553afc769db",
-      "mtime": "1666681567",
-      "size": "283294",
-      "md5": "4db2757d2224984d35a2d1ff3a069f9c",
-      "crc32": "b6e0e21e",
-      "sha1": "a95622b00387e9f867d31869a488397315dcb66a",
+      "btih": "d50b006e14a4d3650da1fb51b2d1422a838a8716",
+      "mtime": "1666712781",
+      "size": "284370",
+      "md5": "c59c59e750eb6fc5854259bc9eba65ed",
+      "crc32": "d8a16f75",
+      "sha1": "d5320d09bb7be72d98e54f54e8594f07c676098a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arstechnica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27ab01c4829c74a320f0df592c5b4142",
+      "md5": "5e28f26fa9288f6d325838623f82b3d9",
       "summation": "md5"
     },
     {
       "name": "arstechnica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679186",
-      "size": "1662976",
-      "md5": "ace9b167cc1cf6c130280ed27e9c9fb6",
-      "crc32": "640bee36",
-      "sha1": "9ea0813f2572914c21ee1ca15a1d68662572ef95",
+      "mtime": "1666712731",
+      "size": "1667072",
+      "md5": "6d30ce9abc82304f3ed5f16387f22c28",
+      "crc32": "9a4a1780",
+      "sha1": "8c27762c8c78658cfde3a7caf00d2a6964d9ae79",
       "format": "Metadata"
     },
     {
@@ -13708,9 +13759,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1322,
-  "item_last_updated": 1666681567,
-  "item_size": 105632376,
+  "files_count": 1327,
+  "item_last_updated": 1666712781,
+  "item_size": 106018042,
   "metadata": {
     "identifier": "arstechnica-2022",
     "collection": [
@@ -13727,10 +13778,21 @@
     "publicdate": "2022-07-04 20:17:38",
     "addeddate": "2022-07-04 20:17:38"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 2035005807,
+  "pending_tasks": true,
+  "server": "ia601507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451770806,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2089102056,
   "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

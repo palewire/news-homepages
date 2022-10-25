@@ -1,5 +1,5 @@
 {
-  "created": 1666681705,
+  "created": 1666712817,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/amarujalanews-2022",
@@ -10852,31 +10852,82 @@
       "sha1": "1c7d51970fc9d1934be78254a7f5b135cd629eee"
     },
     {
+      "name": "amarujalanews-2022-10-25T21:15:19.371797+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1666712753",
+      "size": "27043",
+      "md5": "3c88adeb133fceeca7cb56781d4905fd",
+      "crc32": "da205bac",
+      "sha1": "30992d992b09e096644b3919b53b291a811f8575",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-10-25T21:15:19.371797+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712755",
+      "size": "27164",
+      "md5": "4c526cae6d9a3f555bcd910a7c6a97bc",
+      "crc32": "b4be0897",
+      "sha1": "078ed3ddf6cf4b40775d7f6ec550c4f1c615ec53",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-10-25T21:15:19.371797+05:30.jpg",
+      "source": "original",
+      "mtime": "1666712751",
+      "size": "275972",
+      "md5": "2fefa2a06bf58586962eb4dc1349e5c8",
+      "crc32": "4312162d",
+      "sha1": "9ac43ce4d71d09202a3f7fe8407aa0410d107576",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarujalanews-2022-10-25T21:15:19.371797+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712756",
+      "size": "1483",
+      "md5": "a2588a0cfc76c0115bb6719e739ade43",
+      "crc32": "22c3038d",
+      "sha1": "1a5a838cca7546ab62999cc05b25867c4e36ff12",
+      "format": "JSON"
+    },
+    {
+      "name": "amarujalanews-2022-10-25T21:15:19.371797+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1666712758",
+      "size": "30412",
+      "md5": "cf74bfabd3b452b7f5797a0d6d823619",
+      "crc32": "3b83d10e",
+      "sha1": "d9c499747d79498a48bdc1f7f42fa3c64b62604d",
+      "format": "JSON"
+    },
+    {
       "name": "amarujalanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e723a86c71beb8cee7ce2178e189608abc6e807a",
-      "mtime": "1666681606",
-      "size": "227845",
-      "md5": "1880b603fd4965c32251cdb2aa03f986",
-      "crc32": "9d3166fb",
-      "sha1": "975d368186347be36adb7f5e4099bc8da559a679",
+      "btih": "f17033620a780ce145153ff204c20a2bb8b5a65c",
+      "mtime": "1666712813",
+      "size": "228933",
+      "md5": "a5240be590a6339dfa9c97b41a2d6680",
+      "crc32": "b0106230",
+      "sha1": "a5f4cb947243cbeec8ef2533325b17a570358879",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amarujalanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e649465a01b8e48cb7a358c5f3892620",
+      "md5": "9ff54f856888585f975d86846453e668",
       "summation": "md5"
     },
     {
       "name": "amarujalanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679208",
-      "size": "1347584",
-      "md5": "f8682ed049eeecc8e9282339ac6d0c2b",
-      "crc32": "0a88d85e",
-      "sha1": "5f32bf1b61873466c5489be11f2b432cc2ba6443",
+      "mtime": "1666712762",
+      "size": "1355776",
+      "md5": "d196180a5fbe441ac9f0b154a1a65892",
+      "crc32": "edd3f784",
+      "sha1": "837c2c8e7c41fe966fc8dddbbdc1859e6692e5f6",
       "format": "Metadata"
     },
     {
@@ -10890,9 +10941,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1053,
-  "item_last_updated": 1666681606,
-  "item_size": 82703582,
+  "files_count": 1058,
+  "item_last_updated": 1666712813,
+  "item_size": 83074936,
   "metadata": {
     "identifier": "amarujalanews-2022",
     "collection": [
@@ -10909,10 +10960,21 @@
     "publicdate": "2022-07-27 17:18:18",
     "addeddate": "2022-07-27 17:18:18"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 673069007,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451771237,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1144697628,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }

@@ -1,10 +1,5 @@
 {
-  "baynature-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666686982,
+  "created": 1666712870,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/30/items/baynature-2022",
@@ -13013,31 +13008,82 @@
       "sha1": "240b6c11a36605f530601e57042dcf385f447797"
     },
     {
+      "name": "baynature-2022-10-25T08:46:45.217757-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712809",
+      "size": "13138",
+      "md5": "e96a04f734deb355a6a62b58fe139af4",
+      "crc32": "9eabff98",
+      "sha1": "dc333d9470821ebdde7df1222dd36b56de80b2f3",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-10-25T08:46:45.217757-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712810",
+      "size": "8083",
+      "md5": "5f91e7a05685cfe44842b0649257a0ed",
+      "crc32": "116a15dc",
+      "sha1": "014fc176a446dc5a0fe14ee6b908b47b52e84386",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-10-25T08:46:45.217757-07:00.jpg",
+      "source": "original",
+      "mtime": "1666712807",
+      "size": "332325",
+      "md5": "2bb01d5cc10001bff9ff2a3c16739ff1",
+      "crc32": "4cc51906",
+      "sha1": "d3827df97bcc4ae994976902447cde9431c1a5b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baynature-2022-10-25T08:46:45.217757-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712812",
+      "size": "1441",
+      "md5": "532c63d200587eeb69773c74c5c7e40a",
+      "crc32": "9f547eb5",
+      "sha1": "f0f7faecbabf2d9beaadffe58967fb4ce91d9e41",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-10-25T08:46:45.217757-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712813",
+      "size": "14961",
+      "md5": "46dd963d78af41398379219de7dedaaa",
+      "crc32": "70eedd6d",
+      "sha1": "4c058b8dd758891c2f46ff15a9e49d2a1119a4ab",
+      "format": "JSON"
+    },
+    {
       "name": "baynature-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6351e23f0b14769b1a0780b2163d829e7e25507",
-      "mtime": "1666681610",
-      "size": "266628",
-      "md5": "062fb47a70327511108dc41ade8fa37f",
-      "crc32": "f2956de3",
-      "sha1": "5963c16d48a5e79b33c29fa2c0a2970867917c25",
+      "btih": "75596d3a950f7ca2463926134644d022b41e396e",
+      "mtime": "1666712865",
+      "size": "267695",
+      "md5": "20f6654e222653b330ce85aa83183190",
+      "crc32": "ea7a8c10",
+      "sha1": "a8ff58de7caa662f646125205d795029cea4fbc9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baynature-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc25b7337b5d110a05a8ea90f8872ff8",
+      "md5": "51fa7978752e7918b41ea0f6834e6834",
       "summation": "md5"
     },
     {
       "name": "baynature-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679374",
-      "size": "1581056",
-      "md5": "e6911cba14847c2d968eeb4a627ffa1f",
-      "crc32": "fd7de84b",
-      "sha1": "42c31671c991a5e2ff15f28de2fe4b8be678b8a8",
+      "mtime": "1666712817",
+      "size": "1589248",
+      "md5": "078d74da8b5125415fcebe71bfe1aea2",
+      "crc32": "cef0b0b9",
+      "sha1": "a690d34ed9beed6ef172b8c793b3f9857fff53c3",
       "format": "Metadata"
     },
     {
@@ -13051,9 +13097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1259,
-  "item_last_updated": 1666681610,
-  "item_size": 87753297,
+  "files_count": 1264,
+  "item_last_updated": 1666712865,
+  "item_size": 88132504,
   "metadata": {
     "identifier": "baynature-2022",
     "collection": [
@@ -13070,10 +13116,21 @@
     "publicdate": "2022-07-09 03:56:56",
     "addeddate": "2022-07-09 03:56:56"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 266530053,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451772083,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1437882456,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

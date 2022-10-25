@@ -1,5 +1,5 @@
 {
-  "created": 1666681949,
+  "created": 1666712919,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/bfp_news-2022",
@@ -4284,31 +4284,82 @@
       "sha1": "97edf21194cf4d35fafad73c15ff839df90795e2"
     },
     {
+      "name": "bfp_news-2022-10-25T11:47:17.728639-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712845",
+      "size": "20034",
+      "md5": "e67266f1ebdd2e1479c2510be19c51f2",
+      "crc32": "3c37379d",
+      "sha1": "0f8a180ba29ccfcfdd7353fb6875be000ff1aa97",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-25T11:47:17.728639-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712848",
+      "size": "32613",
+      "md5": "f8184b1f933190440bac5fec7c54bc73",
+      "crc32": "d76e60e3",
+      "sha1": "04ba287ccb3d3a363112f55516692c19286f342b",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-25T11:47:17.728639-04:00.jpg",
+      "source": "original",
+      "mtime": "1666712843",
+      "size": "228759",
+      "md5": "7c00061fbb4a227832b6819b96378fe9",
+      "crc32": "00c644a4",
+      "sha1": "19e9ae6112b792fb8b762043a4d7b1d4cafabd9a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bfp_news-2022-10-25T11:47:17.728639-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712850",
+      "size": "1576",
+      "md5": "8ba7c796c8052b074bb824252dcb6718",
+      "crc32": "d8b18ab5",
+      "sha1": "9d3f168a4c2c7b1fb3e8bd08d56d873b9a0ddbdf",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-25T11:47:17.728639-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712852",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bfp_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cc8a982a486d85b5905f02a7ad9620fdace3d5ce",
-      "mtime": "1666681881",
-      "size": "88467",
-      "md5": "55b9f28bd67a5aea61c1203f6b765882",
-      "crc32": "365ab268",
-      "sha1": "10908cd2261b23a8a90aa8e29da663660557c12d",
+      "btih": "b3fe8b26c299b14c8edade1d2c14f7b5b6350232",
+      "mtime": "1666712912",
+      "size": "89528",
+      "md5": "de41303688772cbb89a1d6998fee8ef9",
+      "crc32": "6001395d",
+      "sha1": "c6d74010efacb03dc5cdfedef360dd850303f88d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bfp_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1a06cc59a098f3be2d72ebc4d7320bbc",
+      "md5": "7868b6bc773d149a4ef6ad05c5686f95",
       "summation": "md5"
     },
     {
       "name": "bfp_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679364",
-      "size": "544768",
-      "md5": "6282e638c95026680d6f36ba85597ed7",
-      "crc32": "8de755ac",
-      "sha1": "962af8b8b9738b23d36319f2ced23bc64fc37679",
+      "mtime": "1666712868",
+      "size": "552960",
+      "md5": "a26313aaff759b539d3da3a881a74ae7",
+      "crc32": "05a935b3",
+      "sha1": "02c73329089ab39924c61baa46fc85fbc4a7c060",
       "format": "Metadata"
     },
     {
@@ -4322,9 +4373,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 418,
-  "item_last_updated": 1666681881,
-  "item_size": 27785112,
+  "files_count": 423,
+  "item_last_updated": 1666712912,
+  "item_size": 28077549,
   "metadata": {
     "identifier": "bfp_news-2022",
     "collection": [
@@ -4341,10 +4392,21 @@
     "publicdate": "2022-09-21 04:39:40",
     "addeddate": "2022-09-21 04:39:40"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 1656609515,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451772857,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 993283947,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

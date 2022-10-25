@@ -1,10 +1,5 @@
 {
-  "chesscom-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666687120,
+  "created": 1666712923,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/11/items/chesscom-2022",
@@ -11763,31 +11758,82 @@
       "sha1": "954091eac805a55663acb7e469776d040a73cbe3"
     },
     {
+      "name": "chesscom-2022-10-25T08:47:31.419709-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712858",
+      "size": "26149",
+      "md5": "fe9ac7c703fae5dafa713badc6af2226",
+      "crc32": "d4d94c38",
+      "sha1": "583273a460177607a6a0ea4f1cb0b891dc402e7a",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-25T08:47:31.419709-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712860",
+      "size": "17197",
+      "md5": "c37ccc47628eb625ea02e42aaee8b312",
+      "crc32": "c5870905",
+      "sha1": "950e914ff03567c2d4ef67f223daaca95f27f4ad",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-25T08:47:31.419709-07:00.jpg",
+      "source": "original",
+      "mtime": "1666712856",
+      "size": "233915",
+      "md5": "a7cdd9b2f3f33a272a2205f0303a3533",
+      "crc32": "ae050af0",
+      "sha1": "e6496fe397497704f8ed03fb0bb9f0ea4a1a2194",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-25T08:47:31.419709-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712862",
+      "size": "1486",
+      "md5": "4f050622405792ece8bf87b6cf1c2ce4",
+      "crc32": "abbe87fd",
+      "sha1": "f87a8efe250bd0d5f2caab3dc29a3509890606d3",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-25T08:47:31.419709-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712864",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "chesscom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32267018db8d49a3a0590773e3944d32c308f171",
-      "mtime": "1666681806",
-      "size": "239706",
-      "md5": "4d13b9e0eb5ecf0a473989ab0b8a870b",
-      "crc32": "9ad14d6b",
-      "sha1": "3bb762899dae5e9a9fad6c128d426033e5a5461b",
+      "btih": "077ef815ceeb28d96505f1937c920c301a2a0a4a",
+      "mtime": "1666712920",
+      "size": "240747",
+      "md5": "4765467e38afed8ba4528bab141ee07e",
+      "crc32": "d3992ebf",
+      "sha1": "c3de29148bb6d6a08074c5f67f73c44b65efab41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesscom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc84becb66ff3a1565c4ef0633fc1bf9",
+      "md5": "01341d40b4d36f17c4d5a7532b81733f",
       "summation": "md5"
     },
     {
       "name": "chesscom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679392",
-      "size": "1441792",
-      "md5": "6027d5e9455fe577ec6113ffd46966b6",
-      "crc32": "24b4edc6",
-      "sha1": "084b92269a020f11e2169eb9290e9a1083ebbc5e",
+      "mtime": "1666712870",
+      "size": "1449984",
+      "md5": "0e261acf74464a9cdea2175ff0c53163",
+      "crc32": "36aa7f75",
+      "sha1": "6b5a8c6331df181f2caec530b6e4d8b2b0a44b5f",
       "format": "Metadata"
     },
     {
@@ -11801,9 +11847,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1140,
-  "item_last_updated": 1666681806,
-  "item_size": 60632043,
+  "files_count": 1145,
+  "item_last_updated": 1666712920,
+  "item_size": 60920225,
   "metadata": {
     "identifier": "chesscom-2022",
     "collection": [
@@ -11820,10 +11866,21 @@
     "publicdate": "2022-07-20 11:23:26",
     "addeddate": "2022-07-20 11:23:26"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 119798017,
+  "pending_tasks": true,
+  "server": "ia902507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451772935,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 46909212,
   "workable_servers": [
-    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

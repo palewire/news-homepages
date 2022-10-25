@@ -1,10 +1,5 @@
 {
-  "abc_es-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666686807,
+  "created": 1666712791,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/abc_es-2022",
@@ -5301,31 +5296,61 @@
       "format": "JSON"
     },
     {
+      "name": "abc_es-2022-10-25T17:45:18.732249+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712730",
+      "size": "130636",
+      "md5": "7e71a0dadf60228b18268064c82bd966",
+      "crc32": "9a9db10c",
+      "sha1": "b3a8771573f8f74f28ffadb1259f46335b0b0254",
+      "format": "JSON"
+    },
+    {
+      "name": "abc_es-2022-10-25T17:45:18.732249+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712733",
+      "size": "1423",
+      "md5": "21ed6c3464ed0c86579366f4f872b7a8",
+      "crc32": "26f30e50",
+      "sha1": "d78afd4168874fba01548c5016fc94688d92490c",
+      "format": "JSON"
+    },
+    {
+      "name": "abc_es-2022-10-25T17:45:18.732249+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712735",
+      "size": "2019",
+      "md5": "0e690f5274905803276921f6d7ee2524",
+      "crc32": "963e31ff",
+      "sha1": "deba9f5ddc9caed8408e4df084a04fa3018e678c",
+      "format": "JSON"
+    },
+    {
       "name": "abc_es-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b9886f9a9ef44f844a7fa91f9e445be90ef6cf2",
-      "mtime": "1666679241",
-      "size": "112312",
-      "md5": "c2d082f0ef78eabbefe6c70dd19a3a5c",
-      "crc32": "7da230fd",
-      "sha1": "6ea682984bbc0402a9a1423daf5f76aa239f0dc2",
+      "btih": "56f311a921c3c7abbe6910c85a5c4c20f5738744",
+      "mtime": "1666712785",
+      "size": "112955",
+      "md5": "ebced4254737983482b96117927d3640",
+      "crc32": "eed52971",
+      "sha1": "1ac77a5e111d67152da3b84038f43ab618b2a07c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc_es-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "076d772925346529b7a0973838ad47e6",
+      "md5": "fd71d656e3c9cced71549bfb9595f018",
       "summation": "md5"
     },
     {
       "name": "abc_es-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679194",
-      "size": "811008",
-      "md5": "987f3ac8ba6f7840b336cf3df4f8993b",
-      "crc32": "0bbae352",
-      "sha1": "e52c8299cc8b710d69f6b3c81446554d546696db",
+      "mtime": "1666712741",
+      "size": "815104",
+      "md5": "3f510f613ee32ecd91e4c71e3491b1b4",
+      "crc32": "0b8ee6ae",
+      "sha1": "d66240a1f8d13d8e1a495ad07a12f94cdcc3ae48",
       "format": "Metadata"
     },
     {
@@ -5339,9 +5364,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 532,
-  "item_last_updated": 1666679241,
-  "item_size": 30927738,
+  "files_count": 535,
+  "item_last_updated": 1666712785,
+  "item_size": 31066555,
   "metadata": {
     "identifier": "abc_es-2022",
     "collection": [
@@ -5358,10 +5383,21 @@
     "publicdate": "2022-07-28 18:53:56",
     "addeddate": "2022-07-28 18:53:56"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 1302776392,
+  "pending_tasks": true,
+  "server": "ia601400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451770801,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1893189158,
   "workable_servers": [
-    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

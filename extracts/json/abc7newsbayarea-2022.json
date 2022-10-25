@@ -1,10 +1,5 @@
 {
-  "abc7newsbayarea-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666686797,
+  "created": 1666712800,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/0/items/abc7newsbayarea-2022",
@@ -11135,31 +11130,82 @@
       "sha1": "11a78d090e2c899c8cadc2f6f3ef490bb60d2092"
     },
     {
+      "name": "abc7newsbayarea-2022-10-25T08:45:17.093778-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712722",
+      "size": "29073",
+      "md5": "3edd9143bd4c4d7ce6cf9a680366e666",
+      "crc32": "18b0c171",
+      "sha1": "adc1be27a7e6e7556ddc26e0b5ffcb5f9b29acf1",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-10-25T08:45:17.093778-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712726",
+      "size": "28659",
+      "md5": "dd13f707ce5707fb2f4023507a318127",
+      "crc32": "f9021140",
+      "sha1": "52fa69ef025d8d1534c84c83537c29a083aa3685",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-10-25T08:45:17.093778-07:00.jpg",
+      "source": "original",
+      "mtime": "1666712718",
+      "size": "329961",
+      "md5": "6cf42e1332303c61c1bb4bf8e31bd6e0",
+      "crc32": "35702ddd",
+      "sha1": "e3bfeb57279949cf957cc63fbab6a0bd87a29124",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7newsbayarea-2022-10-25T08:45:17.093778-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712730",
+      "size": "1441",
+      "md5": "a16368f72c7ba4026a325253de2f7109",
+      "crc32": "a69a8144",
+      "sha1": "2ac8c0fc7a968a4258d2ff5fec1998cf50abcfab",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-10-25T08:45:17.093778-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712733",
+      "size": "201",
+      "md5": "c735be34116527d99155d96dd6530a9b",
+      "crc32": "a77a6dbc",
+      "sha1": "060696fc40ce116f1cb14f1adac773cbdf4a4b06",
+      "format": "JSON"
+    },
+    {
       "name": "abc7newsbayarea-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce1550fafc442bdb4d6dc96454cea9aaf6c978bb",
-      "mtime": "1666681591",
-      "size": "235886",
-      "md5": "d8baf22f38cdfd43b542072c48e70cca",
-      "crc32": "fde4b4c2",
-      "sha1": "409a5c266207ae6004d5a6199b74f0f48a117900",
+      "btih": "085589ae4181ae92c408ac8040df102284c6bf63",
+      "mtime": "1666712791",
+      "size": "236982",
+      "md5": "da5fea0dd764dcec8ad33f1544711cee",
+      "crc32": "b03514eb",
+      "sha1": "fdb44a1535db12dc4532448e77fe6952819cc3f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7newsbayarea-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aeca64aa6daadf3e71247590d9938c69",
+      "md5": "7c0382b3842453646b751665a567dfb6",
       "summation": "md5"
     },
     {
       "name": "abc7newsbayarea-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666679232",
-      "size": "1388544",
-      "md5": "6b7c4316083614c424bfdf42b0e10df2",
-      "crc32": "827afef5",
-      "sha1": "70dd9d053a3d9f4ed974a36f58897ddf4b71b5b7",
+      "mtime": "1666712738",
+      "size": "1396736",
+      "md5": "4823da3e336f7f0b05d27ab61acbc388",
+      "crc32": "6ce2f3ce",
+      "sha1": "2b455a5e1f84ea075e81754fa3821dff109e182d",
       "format": "Metadata"
     },
     {
@@ -11173,9 +11219,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1080,
-  "item_last_updated": 1666681591,
-  "item_size": 81751814,
+  "files_count": 1085,
+  "item_last_updated": 1666712791,
+  "item_size": 82150437,
   "metadata": {
     "identifier": "abc7newsbayarea-2022",
     "collection": [
@@ -11192,10 +11238,21 @@
     "publicdate": "2022-07-26 01:30:06",
     "addeddate": "2022-07-26 01:30:06"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 2098908581,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451770950,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1954408318,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }
