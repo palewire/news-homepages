@@ -1,15 +1,7 @@
 {
-  "created": 1666686657,
+  "created": 1666717902,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
-  "dailycommercial-2022": {
-    "url": "https://www.dailycommercial.com/",
-    "job_id": "spn2-5d16ebbd5629fe16637f822376e69cc91cf444e4",
-    "resources": [],
-    "status": "error",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed"
-  },
   "dir": "/2/items/dailycommercial-2022",
   "files": [
     {
@@ -4364,31 +4356,82 @@
       "sha1": "75afa1d10d3b3a013cd8d899d048a60de752f03a"
     },
     {
+      "name": "dailycommercial-2022-10-25T13:10:46.275431-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717852",
+      "size": "24071",
+      "md5": "65e3425750e07914571e9f8751f87046",
+      "crc32": "731fa21f",
+      "sha1": "8603e7cf863a8e62b6401930b62cd4d33b618226",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-25T13:10:46.275431-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717853",
+      "size": "38512",
+      "md5": "885f0dd0b80ec567af5bbbea1e2525f4",
+      "crc32": "e5c7ad52",
+      "sha1": "469af8d31055124ed9fb9f55debcd5866929b056",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-25T13:10:46.275431-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717850",
+      "size": "257250",
+      "md5": "d8f1cdc5ab5956e3eb575eab57d4fea8",
+      "crc32": "25717fc3",
+      "sha1": "885509ded0cbce03c1d9d2bba101cbfbc4dc693b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycommercial-2022-10-25T13:10:46.275431-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717855",
+      "size": "1540",
+      "md5": "87db89e162dabb84c7a245da825b018a",
+      "crc32": "55dbb518",
+      "sha1": "a2c20edba0c5920629f9cda7821686b86dde15b6",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycommercial-2022-10-25T13:10:46.275431-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717857",
+      "size": "89061",
+      "md5": "90498f02ec827c67e56eed9be8437572",
+      "crc32": "a914fa10",
+      "sha1": "1ff0474679a5f216e3cd16c62a71843e62eac5f8",
+      "format": "JSON"
+    },
+    {
       "name": "dailycommercial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89a78c556288be1422ca8777da881465a0fd5343",
-      "mtime": "1666682511",
-      "size": "93026",
-      "md5": "73f9d64c95de645e4ea92665b3c80dd9",
-      "crc32": "774e3f18",
-      "sha1": "6192fc127ffae5b66abaa8650be13e024f60f475",
+      "btih": "57f4e8501b24f8a30bb51602e9775ce3d27a6743",
+      "mtime": "1666717898",
+      "size": "94124",
+      "md5": "c17651451b63d768229c061a2c41d096",
+      "crc32": "eb2a3803",
+      "sha1": "cf1ab55b9eed19a1c1d371ad5f4ced334f4a427f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycommercial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99d3e96468308da6a0ebf9d274d87302",
+      "md5": "6aaee4e1846707b21c6a3adf50f340e4",
       "summation": "md5"
     },
     {
       "name": "dailycommercial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680362",
-      "size": "561152",
-      "md5": "aee37d562482f6a753d6f1c949e1ee7f",
-      "crc32": "64930238",
-      "sha1": "55d3bcb4f6e40311f6bd552c7be872f03a4b7353",
+      "mtime": "1666717860",
+      "size": "569344",
+      "md5": "da6f661dd33011115d32c5b9dbc77007",
+      "crc32": "24f7fd57",
+      "sha1": "a36e74fb97900530167477725166c64bef49cbd9",
       "format": "Metadata"
     },
     {
@@ -4402,9 +4445,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 425,
-  "item_last_updated": 1666682511,
-  "item_size": 29580904,
+  "files_count": 430,
+  "item_last_updated": 1666717898,
+  "item_size": 30000628,
   "metadata": {
     "identifier": "dailycommercial-2022",
     "collection": [
@@ -4421,10 +4464,21 @@
     "publicdate": "2022-09-20 17:43:34",
     "addeddate": "2022-09-20 17:43:34"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 109248129,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451842764,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 209643750,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

@@ -1,10 +1,5 @@
 {
-  "created": 1666686640,
-  "cuestion_p-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "created": 1666717916,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/31/items/cuestion_p-2022",
@@ -9715,31 +9710,82 @@
       "sha1": "95e6528078ba139086ad87125650315d86b43027"
     },
     {
+      "name": "cuestion_p-2022-10-25T12:10:50.379831-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717858",
+      "size": "24914",
+      "md5": "b19fba1e41b694577ee3a515efc29f80",
+      "crc32": "20e789e0",
+      "sha1": "0e6396b7559940050f6874969a8f40165b944922",
+      "format": "JSON"
+    },
+    {
+      "name": "cuestion_p-2022-10-25T12:10:50.379831-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717860",
+      "size": "21371",
+      "md5": "8a7da2b1ec0d79eef9fb7313a22759e8",
+      "crc32": "adab7d0b",
+      "sha1": "023cf9c6fabdda547849ab551d840c6fbea1ce00",
+      "format": "JSON"
+    },
+    {
+      "name": "cuestion_p-2022-10-25T12:10:50.379831-05:00.jpg",
+      "source": "original",
+      "mtime": "1666717855",
+      "size": "238018",
+      "md5": "8a1bd0716d1585b6a75ee3e4fd29d71f",
+      "crc32": "9ae105ec",
+      "sha1": "14918c8ae1f48d9943f5048f63a88d04caee7988",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cuestion_p-2022-10-25T12:10:50.379831-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717862",
+      "size": "1504",
+      "md5": "ca8c4fb9894eabc88983f022ef501630",
+      "crc32": "84441718",
+      "sha1": "ebe8289cc77d1078044d8ba03e41bbc218f450f3",
+      "format": "JSON"
+    },
+    {
+      "name": "cuestion_p-2022-10-25T12:10:50.379831-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717864",
+      "size": "20219",
+      "md5": "4f95a45c153122b39ca07907c559f5ba",
+      "crc32": "02004ca0",
+      "sha1": "12b0d5aa4221b922f6f6714c504784d2c1bc1fca",
+      "format": "JSON"
+    },
+    {
       "name": "cuestion_p-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb21810d2d10b1e9a4da263ce6d5e9979b186b34",
-      "mtime": "1666682177",
-      "size": "200207",
-      "md5": "72f6aead4752305ee7ec2a1e62d3cad1",
-      "crc32": "ce4cab9e",
-      "sha1": "85a5d3787d30387abc2101898fc44563a35ba12b",
+      "btih": "8a12bee011d568b6d15fd71fb74d7057e9c7a386",
+      "mtime": "1666717911",
+      "size": "201260",
+      "md5": "6a7d9f0362b1e6e72eb32ec910b8f517",
+      "crc32": "acd6bfca",
+      "sha1": "92240499cac3a0fea78f5be6dc07f5166dcc6b4f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cuestion_p-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "37e0d026f48dc12a5e02ad53d88cec51",
+      "md5": "8458a15fe1613fcfe5d850c71f32e90d",
       "summation": "md5"
     },
     {
       "name": "cuestion_p-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680398",
-      "size": "1212416",
-      "md5": "f9501adfc67893ddbe737644f9816613",
-      "crc32": "e57f5bb6",
-      "sha1": "d55fd8db6b10123b8f5378ea249272484a99e413",
+      "mtime": "1666717868",
+      "size": "1216512",
+      "md5": "a75d0388c8c5c6051275ec83377a351f",
+      "crc32": "5ca8eb77",
+      "sha1": "a3e36017379abe79e2157b9f7ded98ef5f53c634",
       "format": "Metadata"
     },
     {
@@ -9753,9 +9799,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 943,
-  "item_last_updated": 1666682177,
-  "item_size": 48583149,
+  "files_count": 948,
+  "item_last_updated": 1666717911,
+  "item_size": 48894324,
   "metadata": {
     "identifier": "cuestion_p-2022",
     "collection": [
@@ -9772,10 +9818,21 @@
     "publicdate": "2022-08-08 02:33:35",
     "addeddate": "2022-08-08 02:33:35"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1195977686,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451843039,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 620978728,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

@@ -1,15 +1,7 @@
 {
-  "created": 1666686737,
+  "created": 1666718029,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
-  "dcnepal-2022": {
-    "url": "https://www.dcnepal.com/",
-    "job_id": "spn2-5d4b4fd1c3e5686d8089a5cbe6f9367717c672e7",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
   "dir": "/2/items/dcnepal-2022",
   "files": [
     {
@@ -11296,31 +11288,82 @@
       "sha1": "bc7f5cd5022bf83fbfdad8bdc85787473730c0bc"
     },
     {
+      "name": "dcnepal-2022-10-25T22:57:34.089490+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666717964",
+      "size": "107129",
+      "md5": "0c9bb81810a6a4c5ce12a91cd38ea371",
+      "crc32": "b80f49d1",
+      "sha1": "033905e1a71f3c9882adf8027798436763f28459",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-10-25T22:57:34.089490+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717966",
+      "size": "77621",
+      "md5": "47993b96184a3b8b7146e791c0737aab",
+      "crc32": "5a97208d",
+      "sha1": "18b5b8c1173a4ad743dac6de0fe9d0d7ee6467a4",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-10-25T22:57:34.089490+05:45.jpg",
+      "source": "original",
+      "mtime": "1666717963",
+      "size": "297734",
+      "md5": "934870342aca16cec787ba14c7c3e747",
+      "crc32": "41303ada",
+      "sha1": "42c8368ed727497621218558cc78cde8a468f0c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dcnepal-2022-10-25T22:57:34.089490+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717967",
+      "size": "1468",
+      "md5": "b2a25d5a039e8f91d11b1ae61c81fbdc",
+      "crc32": "70bab310",
+      "sha1": "31259f9a737ae9ad6b6e8483287cc3f137e10547",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-10-25T22:57:34.089490+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666717969",
+      "size": "19082",
+      "md5": "94d7afa307225f85aa31bdd428795362",
+      "crc32": "f97e0507",
+      "sha1": "974114fd866f1eb5be3ad76f91efebbaa6f72ac5",
+      "format": "JSON"
+    },
+    {
       "name": "dcnepal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f99b22e04db7e8621c97c0472f1220eb957cf4e",
-      "mtime": "1666682151",
-      "size": "230700",
-      "md5": "19aa47c71dc660f1481adb988c55202a",
-      "crc32": "8e759cc7",
-      "sha1": "7821b3dbd1334cb06ce6a46e1f03be8ae085b9a8",
+      "btih": "ba1f9bbbc0e80033a02402eded339f509785c689",
+      "mtime": "1666718023",
+      "size": "231759",
+      "md5": "6e6cf4d58462bff66c088c7a2f582287",
+      "crc32": "4f61e78d",
+      "sha1": "f7d88bf5b674d1f3245547f2e731630b55fe71eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcnepal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6dde36c340e897debd16eb5dbd3b611",
+      "md5": "b83fe8d33d41dab41818caa49619cdd4",
       "summation": "md5"
     },
     {
       "name": "dcnepal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680407",
-      "size": "1388544",
-      "md5": "de39bb2f582f7ae450cd1ffbd1a4b02b",
-      "crc32": "6dd87515",
-      "sha1": "c333670ae3bfbae705438586906c663bfeedfe22",
+      "mtime": "1666717975",
+      "size": "1396736",
+      "md5": "b4fc270f9b152b4ff4eb3a61c95596dd",
+      "crc32": "5267b2b0",
+      "sha1": "78165c62350c21554dbe1a0a85ca72724778f4e4",
       "format": "Metadata"
     },
     {
@@ -11334,9 +11377,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1095,
-  "item_last_updated": 1666682151,
-  "item_size": 90496228,
+  "files_count": 1100,
+  "item_last_updated": 1666718023,
+  "item_size": 91008513,
   "metadata": {
     "identifier": "dcnepal-2022",
     "collection": [
@@ -11353,10 +11396,21 @@
     "publicdate": "2022-07-24 20:37:41",
     "addeddate": "2022-07-24 20:37:41"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1781514882,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451845231,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1769162297,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

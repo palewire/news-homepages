@@ -1,5 +1,5 @@
 {
-  "created": 1666682390,
+  "created": 1666718000,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/derspiegel-2022",
@@ -9306,31 +9306,82 @@
       "sha1": "e462bc138b29306355695745a2802eea4946909f"
     },
     {
+      "name": "derspiegel-2022-10-25T19:12:05.597920+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717939",
+      "size": "112451",
+      "md5": "6d74ad8ed3cc6e037c75df22219a7f40",
+      "crc32": "b4a538f0",
+      "sha1": "27f07e7a188347fabf34cf672d28d8b4de1c7d43",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-10-25T19:12:05.597920+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717941",
+      "size": "125463",
+      "md5": "08d32c1239a606d3470e730aea09ccb4",
+      "crc32": "970177df",
+      "sha1": "5d241c6a7b51f61d5894a582165cb66f5777ec9e",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-10-25T19:12:05.597920+02:00.jpg",
+      "source": "original",
+      "mtime": "1666717936",
+      "size": "258323",
+      "md5": "85d0d7fa6feca3fc7713868f14bbacf0",
+      "crc32": "4e3b623a",
+      "sha1": "d646648b0d9a132cdb1d572f229962a7e8a0bb86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "derspiegel-2022-10-25T19:12:05.597920+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717943",
+      "size": "1459",
+      "md5": "cc94b637cb59db14fd5122170a6b399c",
+      "crc32": "bd5cfb15",
+      "sha1": "60eb7bee8507302ba7036107993f9ada75cd9a55",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-10-25T19:12:05.597920+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717945",
+      "size": "4169",
+      "md5": "bd2b27af7d9d7a222d11aea4a720c88e",
+      "crc32": "d13ac79a",
+      "sha1": "ebac015a9ba489c535be28e4825748ecdd409ef6",
+      "format": "JSON"
+    },
+    {
       "name": "derspiegel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db5812e67d718a13bb24b894f169bf73f5b27b5c",
-      "mtime": "1666682248",
-      "size": "193671",
-      "md5": "ae651aa0e0170bc2dfaa8f78ddce06c6",
-      "crc32": "1702353c",
-      "sha1": "327a2c66ec17ff5d02ddd1d9185c7096c2f03a7b",
+      "btih": "34a93358bed80611a7a634e407e33053af04d0f3",
+      "mtime": "1666717995",
+      "size": "194745",
+      "md5": "0c370da5113545c994391db72dbf6a7b",
+      "crc32": "197702c8",
+      "sha1": "e6b2a5bc077d122de2c65d551d7b97c5a673584a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "derspiegel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5ab4a39bc5ec2ae478f81531d1d2655",
+      "md5": "80c6b6322351694dd9729709a47a851b",
       "summation": "md5"
     },
     {
       "name": "derspiegel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680600",
-      "size": "1159168",
-      "md5": "8f1883ed8cd7c35f0047d4fdf8807437",
-      "crc32": "c3522fa4",
-      "sha1": "bf2dc3ac3e4fd0f7d3486fa46e731ce95f50b10d",
+      "mtime": "1666717950",
+      "size": "1171456",
+      "md5": "693caf0701f3b3b44eb3279f0d5a2d96",
+      "crc32": "ab6ee412",
+      "sha1": "48508657b2713d8a0f1942ea6c3cefd026bcae65",
       "format": "Metadata"
     },
     {
@@ -9344,9 +9395,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 904,
-  "item_last_updated": 1666682248,
-  "item_size": 84846145,
+  "files_count": 909,
+  "item_last_updated": 1666717995,
+  "item_size": 85361372,
   "metadata": {
     "identifier": "derspiegel-2022",
     "collection": [
@@ -9363,10 +9414,21 @@
     "publicdate": "2022-08-11 03:48:33",
     "addeddate": "2022-08-11 03:48:33"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1383655983,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451844694,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 52202545,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

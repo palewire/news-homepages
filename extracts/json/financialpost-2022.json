@@ -1,5 +1,5 @@
 {
-  "created": 1666682225,
+  "created": 1666718146,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/financialpost-2022",
@@ -13876,31 +13876,82 @@
       "sha1": "f2be33f924b4f14c907f12231b55c25a3d9b9682"
     },
     {
+      "name": "financialpost-2022-10-25T13:14:30.669054-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666718073",
+      "size": "67845",
+      "md5": "25e16ef0816fbfa777968ca5e2b8d8ad",
+      "crc32": "59c61200",
+      "sha1": "17339b6eef429702a4684ab20d4200a3489c9a87",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-10-25T13:14:30.669054-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666718077",
+      "size": "47111",
+      "md5": "c38562b4df76b890e207e3cc8ca3f7eb",
+      "crc32": "eb4a142e",
+      "sha1": "cf894596205eaea81e0692b85c649c2604f6e4e7",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-10-25T13:14:30.669054-04:00.jpg",
+      "source": "original",
+      "mtime": "1666718071",
+      "size": "320923",
+      "md5": "88275e29d206c2d9b45976211e773e14",
+      "crc32": "bb074e71",
+      "sha1": "d77c9e4762dcda08eedbad45328e2c8375cd6b0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "financialpost-2022-10-25T13:14:30.669054-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666718078",
+      "size": "1476",
+      "md5": "89396950d3038fcd58193ee7c1ff249d",
+      "crc32": "a6c61c4e",
+      "sha1": "190461d8a092bf46537344b0a46c9c0349c28035",
+      "format": "JSON"
+    },
+    {
+      "name": "financialpost-2022-10-25T13:14:30.669054-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666718080",
+      "size": "489",
+      "md5": "801196729f7243f52800acdeef42ede4",
+      "crc32": "265d03c8",
+      "sha1": "013d8d6dc906f53f3cd98d249b4279aebbcd0315",
+      "format": "JSON"
+    },
+    {
       "name": "financialpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d3d379d3bd59584dbf1374af4574452495c6c90",
-      "mtime": "1666682192",
-      "size": "289958",
-      "md5": "ccc70db3033f8208aae7783eee8ebdc7",
-      "crc32": "133c6bb1",
-      "sha1": "00997ee1dc6e75ec626402e7bfa3a646c7739b59",
+      "btih": "2deb9b032301cca21eb9df4d3601822f02939f0f",
+      "mtime": "1666718140",
+      "size": "291024",
+      "md5": "b6d6d3b7152070e721b8981811d2dfee",
+      "crc32": "644ba449",
+      "sha1": "faed0e4e0859b6a86ffd8ca41cb71c0bc9d1a46e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "financialpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "417e1eebeb0069f2a0432923b3d047d7",
+      "md5": "3d3b92aefaecec9ebc306ec937cac2d5",
       "summation": "md5"
     },
     {
       "name": "financialpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680577",
-      "size": "1679360",
-      "md5": "cabd25811965faacd9dfe12993cb7949",
-      "crc32": "5d1db58d",
-      "sha1": "1d0cfffb18bed7600454021905c068914339624b",
+      "mtime": "1666718086",
+      "size": "1687552",
+      "md5": "0ce62d76cfa5a7b3a0c54c48a12636a9",
+      "crc32": "501df67b",
+      "sha1": "be3936b4ab1dfba881e4e8879453ff3e8c0f3946",
       "format": "Metadata"
     },
     {
@@ -13914,9 +13965,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1341,
-  "item_last_updated": 1666682192,
-  "item_size": 110929221,
+  "files_count": 1346,
+  "item_last_updated": 1666718140,
+  "item_size": 111376323,
   "metadata": {
     "identifier": "financialpost-2022",
     "collection": [
@@ -13933,10 +13984,21 @@
     "publicdate": "2022-06-30 22:35:47",
     "addeddate": "2022-06-30 22:35:47"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1328718705,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451847397,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 414544391,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

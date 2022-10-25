@@ -1,13 +1,8 @@
 {
-  "created": 1666686854,
+  "created": 1666718021,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/el_pais-2022",
-  "el_pais-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -10805,31 +10800,82 @@
       "sha1": "b14b972106b2ecef2bcb4f5b0d4068bae8b7dab2"
     },
     {
+      "name": "el_pais-2022-10-25T19:12:26.447265+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717956",
+      "size": "63435",
+      "md5": "1d8102eeb11a6dc8f8ea1c693271ac83",
+      "crc32": "690bf650",
+      "sha1": "256ca1acdda5e5d9f12b850e995995b3c73cf9e7",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-25T19:12:26.447265+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717957",
+      "size": "76650",
+      "md5": "359cd750efb91d0a140050a4308a393e",
+      "crc32": "22cb5cd0",
+      "sha1": "a8bdaa9118fc94652c3940a1eac3560bf4823a9b",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-25T19:12:26.447265+02:00.jpg",
+      "source": "original",
+      "mtime": "1666717953",
+      "size": "278298",
+      "md5": "2f62a445fdf77a49f7a6fd4a9fc64ff8",
+      "crc32": "33c30370",
+      "sha1": "176f02876926a437373f9dff348df6c6dbbd31c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_pais-2022-10-25T19:12:26.447265+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717959",
+      "size": "1492",
+      "md5": "cf6d87d68e86aa9e7dcc551ececc8da2",
+      "crc32": "6acd14b8",
+      "sha1": "df018151da270dd21fb2c57dc229f75b21fa81a0",
+      "format": "JSON"
+    },
+    {
+      "name": "el_pais-2022-10-25T19:12:26.447265+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717961",
+      "size": "33211",
+      "md5": "4e674e189e331b66d6b530cd55c02634",
+      "crc32": "942af740",
+      "sha1": "f5ad3010f209414326b1b79a7c2acd6f65c405e5",
+      "format": "JSON"
+    },
+    {
       "name": "el_pais-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e025d7fd6c77912accbecf18a2baec3e4ca11279",
-      "mtime": "1666682214",
-      "size": "220156",
-      "md5": "a691f2a488970decd9c531f94f791140",
-      "crc32": "a119e817",
-      "sha1": "ebc86635d374fc2603ea4f193bd75b4ffda46081",
+      "btih": "31d02d7052a8e86c77ae2e0e57d38ba7502a65c6",
+      "mtime": "1666718015",
+      "size": "221214",
+      "md5": "ff697107cdb3f1e0beba49265ab16655",
+      "crc32": "d830a7e2",
+      "sha1": "cf4e61b36253bc0424fddc72b9f7de0740537ef4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_pais-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cdfe21d0c77fd003348360f33fa4a7e5",
+      "md5": "0dcb6ea19d7a6b00d2b53ea2b629db1d",
       "summation": "md5"
     },
     {
       "name": "el_pais-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680587",
-      "size": "1335296",
-      "md5": "3fcb86fe08f62b6d342a2370bb52a5a0",
-      "crc32": "adb6f397",
-      "sha1": "4b8a08182d6457ecffa7413ffaa38b117b395113",
+      "mtime": "1666717967",
+      "size": "1343488",
+      "md5": "fc9091b541892b6661f6f78152828fcf",
+      "crc32": "07d4c336",
+      "sha1": "829d879736ec47d2b844876a3080fa932f8bf503",
       "format": "Metadata"
     },
     {
@@ -10843,9 +10889,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1048,
-  "item_last_updated": 1666682214,
-  "item_size": 77801528,
+  "files_count": 1053,
+  "item_last_updated": 1666718015,
+  "item_size": 78263864,
   "metadata": {
     "identifier": "el_pais-2022",
     "collection": [
@@ -10862,10 +10908,21 @@
     "publicdate": "2022-07-28 18:53:38",
     "addeddate": "2022-07-28 18:53:38"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 1584055613,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451845073,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1426371041,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

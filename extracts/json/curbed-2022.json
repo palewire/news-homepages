@@ -1,5 +1,5 @@
 {
-  "created": 1666682802,
+  "created": 1666717950,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/curbed-2022",
@@ -12642,31 +12642,82 @@
       "sha1": "8c8bef9ad18e735a0f347fc7e023db8c2331dc76"
     },
     {
+      "name": "curbed-2022-10-25T13:10:43.189107-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717863",
+      "size": "19910",
+      "md5": "ea5ef74c4f72085a34a72ae0e107dff9",
+      "crc32": "2af1b125",
+      "sha1": "ca44c701c685448289d7fd694b2e5c75966dea65",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-10-25T13:10:43.189107-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717865",
+      "size": "14952",
+      "md5": "6803c54c69f2f7647e4e9908452e8715",
+      "crc32": "866ff131",
+      "sha1": "fdee0d8dc397b65b9444367b612ecdcc4ad2e73f",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-10-25T13:10:43.189107-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717860",
+      "size": "215624",
+      "md5": "fdea56e706ab655770733107636b69d4",
+      "crc32": "47f3f04c",
+      "sha1": "78fbe1170c353319fc1e959a8269d54061fb4281",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "curbed-2022-10-25T13:10:43.189107-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717866",
+      "size": "1450",
+      "md5": "b4501075b0cfc33178fe306a22758a38",
+      "crc32": "a9fac37c",
+      "sha1": "6f0dad2885e75140095e48bc39dfbb8da99e4acf",
+      "format": "JSON"
+    },
+    {
+      "name": "curbed-2022-10-25T13:10:43.189107-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717868",
+      "size": "58819",
+      "md5": "9702d60f21ccec3f67ac525b96e7b856",
+      "crc32": "c07aad39",
+      "sha1": "113ae283fa0ec551a599949f6655ff02a2fcbbfd",
+      "format": "JSON"
+    },
+    {
       "name": "curbed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "61d5222714e8994eea896419ff629e73a8035ff8",
-      "mtime": "1666682729",
-      "size": "255012",
-      "md5": "ea7132d415f329ab3a6b50e761fa6fb6",
-      "crc32": "7e3b1fb9",
-      "sha1": "485d2e0779679bd8cdac36a86225de36b636f53b",
+      "btih": "9d707339660ec84ddcf59925462e1325ca6896b3",
+      "mtime": "1666717940",
+      "size": "256065",
+      "md5": "c519d62a0ba4cb235b61f8ce16542e21",
+      "crc32": "9ac4be8f",
+      "sha1": "dd408075ed3dcb869d23f1d1df582b445141a70b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "curbed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "460a47fefd13f2d69f5ad0b01585af8b",
+      "md5": "ecc4023daa582c416a0a6c308346a863",
       "summation": "md5"
     },
     {
       "name": "curbed-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680365",
-      "size": "1536000",
-      "md5": "30d76503ae6dd061987da48ce1cbfc2a",
-      "crc32": "f182fad5",
-      "sha1": "0970542fc65b95966fc17c1f95719b4569e33112",
+      "mtime": "1666717876",
+      "size": "1544192",
+      "md5": "dd1aead3685c4ea5fc6679a09cfdcbc0",
+      "crc32": "448bef7a",
+      "sha1": "720f468dee9b191b7a318f7e205be4c05d4766fe",
       "format": "Metadata"
     },
     {
@@ -12680,9 +12731,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1224,
-  "item_last_updated": 1666682729,
-  "item_size": 70503361,
+  "files_count": 1229,
+  "item_last_updated": 1666717940,
+  "item_size": 70823361,
   "metadata": {
     "identifier": "curbed-2022",
     "collection": [
@@ -12699,10 +12750,21 @@
     "publicdate": "2022-07-09 03:58:05",
     "addeddate": "2022-07-09 03:58:05"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 1854983289,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451843781,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1002801305,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

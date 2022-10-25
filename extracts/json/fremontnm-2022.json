@@ -1,5 +1,5 @@
 {
-  "created": 1666682370,
+  "created": 1666718142,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/7/items/fremontnm-2022",
@@ -4356,31 +4356,82 @@
       "sha1": "0c89db7fb4328a56ceef90a666eea06fce05fe5c"
     },
     {
+      "name": "fremontnm-2022-10-25T13:14:46.310696-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666718090",
+      "size": "18538",
+      "md5": "1cb2af9c2d6555664423d033332c910c",
+      "crc32": "ba7679e6",
+      "sha1": "06548ba275d91117f7b665ef2556f46e03f9bd4f",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-25T13:14:46.310696-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666718092",
+      "size": "32996",
+      "md5": "66e93de3e2dc517b37d18ab633536bea",
+      "crc32": "1aa64037",
+      "sha1": "2080fc1f6a4239a6d80c238d2e66ade279887292",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-25T13:14:46.310696-04:00.jpg",
+      "source": "original",
+      "mtime": "1666718089",
+      "size": "270501",
+      "md5": "b0bb4a0558c11350eaa2a11eae40e7b1",
+      "crc32": "4c9d58b1",
+      "sha1": "45827d62938f8ee701151b2d1601ce4c57bc105b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-25T13:14:46.310696-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666718094",
+      "size": "1558",
+      "md5": "cd661fff660f9b32f7befa38c13f2718",
+      "crc32": "6326ce87",
+      "sha1": "4ef17ff3a7eed4506c8282ba41f68b07252fa6f4",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-25T13:14:46.310696-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666718095",
+      "size": "214",
+      "md5": "bd493aecde76772c49bcddf02fb8082d",
+      "crc32": "1bda75bb",
+      "sha1": "c85fc6af1cb90bf28e15018b3335d9b87ab04c8b",
+      "format": "JSON"
+    },
+    {
       "name": "fremontnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83d46851482316bbda34fdd32ace987ce9c71e47",
-      "mtime": "1666682310",
-      "size": "90239",
-      "md5": "bee9547f86edece30136e33f8bd730f9",
-      "crc32": "732df8e4",
-      "sha1": "6a6cc9ea39916b16e43e7995ee975ea1f34dc5f1",
+      "btih": "ca65c5e3fec0e1af629dbbb0e622ee2328f75811",
+      "mtime": "1666718139",
+      "size": "91285",
+      "md5": "3747660c2942d72aa51fb679082b4dd0",
+      "crc32": "e4639cde",
+      "sha1": "e4a0ef19ed903883cfab340c34a57c7e61ebfb1c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fremontnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7caec0310486fda6f86a26bf0b066bf3",
+      "md5": "02b391ceaffe1e44dd155e9086d89cad",
       "summation": "md5"
     },
     {
       "name": "fremontnm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680768",
-      "size": "552960",
-      "md5": "cdbf2ef0d6c9e3bff4eefc0636eda6f4",
-      "crc32": "844baba6",
-      "sha1": "b9d946607e008c34fd7f1fd8b7fc287d8d75e229",
+      "mtime": "1666718099",
+      "size": "561152",
+      "md5": "0856b11319a99c9faeeba1f94213c896",
+      "crc32": "591fdcb2",
+      "sha1": "a14974813961534db398094718429da4b3c101c5",
       "format": "Metadata"
     },
     {
@@ -4394,9 +4445,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 425,
-  "item_last_updated": 1666682310,
-  "item_size": 25396359,
+  "files_count": 430,
+  "item_last_updated": 1666718139,
+  "item_size": 25729404,
   "metadata": {
     "identifier": "fremontnm-2022",
     "collection": [
@@ -4413,10 +4464,21 @@
     "publicdate": "2022-09-20 17:53:26",
     "addeddate": "2022-09-20 17:53:26"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 317978334,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451847355,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 316663141,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

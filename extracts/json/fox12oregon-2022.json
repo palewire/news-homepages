@@ -1,5 +1,5 @@
 {
-  "created": 1666686951,
+  "created": 1666718166,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/35/items/fox12oregon-2022",
@@ -12842,31 +12842,82 @@
       "sha1": "3d1705c2b03348b74a72b8a2a89165f5335e8941"
     },
     {
+      "name": "fox12oregon-2022-10-25T10:14:00.501982-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666718059",
+      "size": "35961",
+      "md5": "b3b9d1a845645f8b7b924cb60b3a5aca",
+      "crc32": "07aaa475",
+      "sha1": "38ffafd3d49dfdaaa4de89a85db8850d7d963d3f",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-25T10:14:00.501982-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666718061",
+      "size": "21686",
+      "md5": "1dc042e2e9f7d4e243ae709b580e8197",
+      "crc32": "155d36bf",
+      "sha1": "26f8b256db9d94763cad88c88ef1c47267dcf85b",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-25T10:14:00.501982-07:00.jpg",
+      "source": "original",
+      "mtime": "1666718052",
+      "size": "341192",
+      "md5": "d9f2b6f1df3ef1628e0d6e4bd70c008d",
+      "crc32": "5b7f316c",
+      "sha1": "997ca5841e6b21ce31c51f4353531c1b6debcbc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox12oregon-2022-10-25T10:14:00.501982-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666718064",
+      "size": "1441",
+      "md5": "9adc40ca86a32ccbdd4dc1964e987a1b",
+      "crc32": "eead0555",
+      "sha1": "78082aec460c176b8870804ae7883778083f2028",
+      "format": "JSON"
+    },
+    {
+      "name": "fox12oregon-2022-10-25T10:14:00.501982-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666718066",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "fox12oregon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e12bacaa9149431b2b6554126b461b6c8a9b5405",
-      "mtime": "1666682168",
-      "size": "266841",
-      "md5": "301a4dc898d370756db363e292c036bc",
-      "crc32": "d174643f",
-      "sha1": "798a8fde3a5ca2e67f7834667fef615fc55e26c7",
+      "btih": "306546ba20282cd0432963ad7e6ebb46573e77f3",
+      "mtime": "1666718154",
+      "size": "267917",
+      "md5": "124549593e31131270f81358aba6ae6c",
+      "crc32": "4db3ae45",
+      "sha1": "7c6c6347e0fd1f7af584f27ead534c79344510c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox12oregon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b700bb885eb525fc414cb9a44b1ab42",
+      "md5": "929e909233bf9b47b3f2b01a2e8b1309",
       "summation": "md5"
     },
     {
       "name": "fox12oregon-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680580",
-      "size": "1572864",
-      "md5": "0830d45a4c23b1a440475d4fdaba423a",
-      "crc32": "fca49e6c",
-      "sha1": "9e7f1acc95df539f6a11d109761c443c37016798",
+      "mtime": "1666718073",
+      "size": "1576960",
+      "md5": "fced0c18a251c6fe0096a123f548326d",
+      "crc32": "c5042693",
+      "sha1": "b08ed52fd174780580a44c7d48eff91750b53bc3",
       "format": "Metadata"
     },
     {
@@ -12880,14 +12931,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1243,
-  "fox12oregon-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1666682168,
-  "item_size": 108619461,
+  "files_count": 1248,
+  "item_last_updated": 1666718154,
+  "item_size": 109025115,
   "metadata": {
     "identifier": "fox12oregon-2022",
     "collection": [
@@ -12904,10 +12950,21 @@
     "publicdate": "2022-07-04 21:52:58",
     "addeddate": "2022-07-04 21:52:58"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1616598312,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451847917,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 364157766,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

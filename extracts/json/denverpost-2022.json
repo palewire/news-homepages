@@ -1,5 +1,5 @@
 {
-  "created": 1666682399,
+  "created": 1666718011,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/denverpost-2022",
@@ -8996,31 +8996,82 @@
       "sha1": "421d55fb59e6dccbc93ce8a0fa97f45bc268360c"
     },
     {
+      "name": "denverpost-2022-10-25T11:12:21.289685-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717944",
+      "size": "44583",
+      "md5": "ba382a4998b20616d598cebf2ddbb3ca",
+      "crc32": "06bae75b",
+      "sha1": "b7339d0998ad36f6b4dcb6829edd59a708fe69b2",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-25T11:12:21.289685-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717946",
+      "size": "56403",
+      "md5": "b62719e86ac73699842830dadbb043a7",
+      "crc32": "d4a4bbd1",
+      "sha1": "8f084cd5571f12dcac2dc0d33ea9b23971353f3d",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-25T11:12:21.289685-06:00.jpg",
+      "source": "original",
+      "mtime": "1666717943",
+      "size": "288061",
+      "md5": "42445f68c670b471bfb669c5c922e598",
+      "crc32": "081e70e7",
+      "sha1": "f605252686420727755474a88ff0d29b35653bdc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverpost-2022-10-25T11:12:21.289685-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717948",
+      "size": "1495",
+      "md5": "bf6706616227c83b1f25dc6bdaab372f",
+      "crc32": "f735a0cd",
+      "sha1": "352093f3c4c59508e38923f3bf41887dc04d1cc2",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-25T11:12:21.289685-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717950",
+      "size": "55347",
+      "md5": "006aa7cb88d5ea9e672a254d62a76086",
+      "crc32": "d9f732fe",
+      "sha1": "de272965dcc3b5afaadebeb4e5c099e95941bb21",
+      "format": "JSON"
+    },
+    {
       "name": "denverpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e4509d26540a9c8bdd2038509b9682c54c34da9",
-      "mtime": "1666682239",
-      "size": "186233",
-      "md5": "d5fba670f44f4889374b6a00883060bf",
-      "crc32": "adac9a9c",
-      "sha1": "67e5c1ff99281d173dce9d29878625e7498e5abc",
+      "btih": "86b8cdd5af5d51599eb851332b4fe399f3fdd9e9",
+      "mtime": "1666718006",
+      "size": "187306",
+      "md5": "1f6829c1f7a1a7929a9bbeea3ee49c5f",
+      "crc32": "48b5c740",
+      "sha1": "69cce040ed5436cd2e778cb0fac266fff5347152",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4fd94b757e60394bdf1d6739f0c6952c",
+      "md5": "8eb3f40bb9a689f2a380a560fc787782",
       "summation": "md5"
     },
     {
       "name": "denverpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680595",
-      "size": "1126400",
-      "md5": "e67eb156d2ec6d0053fef79be9bd031f",
-      "crc32": "83a763cd",
-      "sha1": "61dc0a8e13362ebe810297af2edad2d9d8d0ef4c",
+      "mtime": "1666717959",
+      "size": "1130496",
+      "md5": "7ccc3c005dd6ef5c2f6c7fc6742114cf",
+      "crc32": "0152f9a3",
+      "sha1": "9c77253ba2b16d3555102642675dcb26d7fd3e5e",
       "format": "Metadata"
     },
     {
@@ -9034,9 +9085,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 874,
-  "item_last_updated": 1666682239,
-  "item_size": 62512542,
+  "files_count": 879,
+  "item_last_updated": 1666718006,
+  "item_size": 62963600,
   "metadata": {
     "identifier": "denverpost-2022",
     "collection": [
@@ -9053,10 +9104,21 @@
     "publicdate": "2022-08-14 06:42:22",
     "addeddate": "2022-08-14 06:42:22"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 1105772018,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451844892,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1229933153,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666682570,
+  "created": 1666718052,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/23/items/doorcountyknock-2022",
@@ -12590,31 +12590,82 @@
       "sha1": "31e2642bd69d553e5c57153a41aaf054a2a57601"
     },
     {
+      "name": "doorcountyknock-2022-10-25T12:12:56.779140-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717987",
+      "size": "19201",
+      "md5": "4eca0ef8e9a1ca76a19b565d92e29401",
+      "crc32": "e3409a50",
+      "sha1": "45c56e1a9b234156f4d457da1f6e4a9c6ff1220e",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-10-25T12:12:56.779140-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717988",
+      "size": "15722",
+      "md5": "003dcb87afea10d97f384e297752ff66",
+      "crc32": "2c8b8ea8",
+      "sha1": "edf1cb2b6819c168ec3630e272291801d0688590",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-10-25T12:12:56.779140-05:00.jpg",
+      "source": "original",
+      "mtime": "1666717984",
+      "size": "175730",
+      "md5": "90957f2dc0c7023539bf46851ad23ef5",
+      "crc32": "e7d4ce52",
+      "sha1": "550685e9349777634e62b68c865a4cb8fbb9e3bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "doorcountyknock-2022-10-25T12:12:56.779140-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717990",
+      "size": "1495",
+      "md5": "fa5a2fc1cdd537e141ee73271790856a",
+      "crc32": "4e059e46",
+      "sha1": "1cb1d425bb532d7898c73214853e1f2314ce5b1d",
+      "format": "JSON"
+    },
+    {
+      "name": "doorcountyknock-2022-10-25T12:12:56.779140-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717992",
+      "size": "6676",
+      "md5": "e038d85dac27f385cfcc35c7b7a2a65f",
+      "crc32": "2e65cd6c",
+      "sha1": "0d701bc360ef8926a3bccc2b5cf877822aac1ee4",
+      "format": "JSON"
+    },
+    {
       "name": "doorcountyknock-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a9f8de25a8c36404685cdf7418e0aef337a8e75",
-      "mtime": "1666682301",
-      "size": "264406",
-      "md5": "13bff0df5dd2ae673213c3c6386efe87",
-      "crc32": "96bb98c4",
-      "sha1": "1040b7c2a6e0badfb2d91587351444a6f1e6d28f",
+      "btih": "e7c1ff2167d05461bb82bc2be1dfd775f8a6cd79",
+      "mtime": "1666718046",
+      "size": "265503",
+      "md5": "210a28e4d60f1e50bc1e4bd8eeee64d5",
+      "crc32": "d924c387",
+      "sha1": "db17fcb47416c06b6747066c8883edc454885d5d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "doorcountyknock-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47609cdd5d55109fbc35345c75aef4ae",
+      "md5": "b680005797b63b98e9fa675704b6d5d0",
       "summation": "md5"
     },
     {
       "name": "doorcountyknock-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680584",
-      "size": "1548288",
-      "md5": "244fc219d34f4e5f3f58894f7f10aa4b",
-      "crc32": "4df12921",
-      "sha1": "4c6459caaeeb6dce5e5bd77d461949ccdc5689ce",
+      "mtime": "1666717996",
+      "size": "1552384",
+      "md5": "bdf5d5843321f221bd23b2294cb2a359",
+      "crc32": "ee006a6f",
+      "sha1": "06c8bdca6280cf22ad8e43aaee9d32807ba09c98",
       "format": "Metadata"
     },
     {
@@ -12628,9 +12679,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1219,
-  "item_last_updated": 1666682301,
-  "item_size": 58396069,
+  "files_count": 1224,
+  "item_last_updated": 1666718046,
+  "item_size": 58620086,
   "metadata": {
     "identifier": "doorcountyknock-2022",
     "collection": [
@@ -12647,10 +12698,21 @@
     "publicdate": "2022-07-09 03:57:34",
     "addeddate": "2022-07-09 03:57:34"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 79764184,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451845666,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1665612747,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

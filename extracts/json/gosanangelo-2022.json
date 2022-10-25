@@ -1,5 +1,5 @@
 {
-  "created": 1666682372,
+  "created": 1666718165,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/21/items/gosanangelo-2022",
@@ -4346,31 +4346,82 @@
       "sha1": "00f3cbebaefe3c41eb85a2f00e3e8d62b6330a3f"
     },
     {
+      "name": "gosanangelo-2022-10-25T12:15:02.741725-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666718111",
+      "size": "20176",
+      "md5": "61e5a592a27e6a503528a97f7373e87a",
+      "crc32": "71cb5292",
+      "sha1": "8f74b003c77a46bc36616b9e245736964dc8998e",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-25T12:15:02.741725-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666718113",
+      "size": "33676",
+      "md5": "04480bec7763b744889e8c097de808f1",
+      "crc32": "f87d0dcf",
+      "sha1": "2fa1947bb1ac171e003e8ddb95b8c48630b334ac",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-25T12:15:02.741725-05:00.jpg",
+      "source": "original",
+      "mtime": "1666718108",
+      "size": "242780",
+      "md5": "9483808d8d74e17e09c98368ced8e1ab",
+      "crc32": "1ae99c16",
+      "sha1": "4962b882d951d5063e0eee4d000604100b9e31b6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gosanangelo-2022-10-25T12:15:02.741725-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666718115",
+      "size": "1504",
+      "md5": "7892163d18cb5a19d5a0dfb16784908c",
+      "crc32": "bd5a44d3",
+      "sha1": "a1f415bc21708d1589695e02a784dbda536c5b71",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-25T12:15:02.741725-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666718117",
+      "size": "90733",
+      "md5": "44a8ba5140657ba1d682a30eceec38f1",
+      "crc32": "6e5d7aa8",
+      "sha1": "f72971e47b3bb0052b9114b275aba854040dba39",
+      "format": "JSON"
+    },
+    {
       "name": "gosanangelo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f4bec1fc44168f27a7561cdfb55e600a2535b99",
-      "mtime": "1666682310",
-      "size": "90969",
-      "md5": "f7f125ccca28b4e28553a571ffb49d97",
-      "crc32": "10640d64",
-      "sha1": "cb6fb1888b6c54b24d7dde1606c3983090e635da",
+      "btih": "a5bdc1637622544d3db9de38f12c1b8fa0652f93",
+      "mtime": "1666718161",
+      "size": "92047",
+      "md5": "c8e441fe23ebf539505caeadc442fa5f",
+      "crc32": "a8f0e98b",
+      "sha1": "96f384626c46e6a1816a5c0ed2a658dc55a09054",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gosanangelo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cc4549d65e72adc6fae348e7f80364d",
+      "md5": "0d5a535335f388f8d254129fe17634d3",
       "summation": "md5"
     },
     {
       "name": "gosanangelo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680773",
-      "size": "552960",
-      "md5": "5422a80ffc9e40bc075c23712827269b",
-      "crc32": "a825eb49",
-      "sha1": "3e7dcd1d235f8166f495938c36e850b1c00f763a",
+      "mtime": "1666718123",
+      "size": "565248",
+      "md5": "b9bd7055998c7c4d7da8301464d0fbb3",
+      "crc32": "56a30374",
+      "sha1": "a5465ccea4b59623cd8b2ed6cff0052bebb469c9",
       "format": "Metadata"
     },
     {
@@ -4384,9 +4435,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 424,
-  "item_last_updated": 1666682310,
-  "item_size": 26767089,
+  "files_count": 429,
+  "item_last_updated": 1666718161,
+  "item_size": 27169324,
   "metadata": {
     "identifier": "gosanangelo-2022",
     "collection": [
@@ -4403,10 +4454,21 @@
     "publicdate": "2022-09-20 17:51:45",
     "addeddate": "2022-09-20 17:51:45"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 1563743830,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451847687,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1011010232,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }

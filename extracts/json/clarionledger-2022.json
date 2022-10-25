@@ -1,5 +1,5 @@
 {
-  "created": 1666682283,
+  "created": 1666717904,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/30/items/clarionledger-2022",
@@ -14562,31 +14562,82 @@
       "sha1": "ec3b2f79373700d045946ea3aeaf3948fe3d369e"
     },
     {
+      "name": "clarionledger-2022-10-25T13:10:09.729675-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717826",
+      "size": "18988",
+      "md5": "a201419aac4053b5ff19b44ca5f21846",
+      "crc32": "a992c62c",
+      "sha1": "9c6b7b6755783000c134ba6b0d68dfa6d1f51759",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-10-25T13:10:09.729675-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717828",
+      "size": "34010",
+      "md5": "58960eebcc7c1cb345349221240ad1f8",
+      "crc32": "806b30d1",
+      "sha1": "0e805850331a99cdcfd19e4f8b0cc2d05a095801",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-10-25T13:10:09.729675-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717823",
+      "size": "251351",
+      "md5": "460cb7e96892a69be568e7ae0b8c2097",
+      "crc32": "81885ff3",
+      "sha1": "e76fe83b85c4c00574029ea2be8c794ceb18bba4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "clarionledger-2022-10-25T13:10:09.729675-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717831",
+      "size": "1522",
+      "md5": "e60e8c41fa2f43b8e507fa3ca940cfd8",
+      "crc32": "f15822df",
+      "sha1": "c09e03855dcff6ea5e11cf173d579a0630e868c1",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-10-25T13:10:09.729675-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717833",
+      "size": "73415",
+      "md5": "ce5c43acce0b4f641b948f9cf0e56dc0",
+      "crc32": "f7cfade2",
+      "sha1": "c8975c09289b1ed591e7f14b4aae59ca30e66802",
+      "format": "JSON"
+    },
+    {
       "name": "clarionledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "61ea29a2d9423423e5c41b6244845d5cc1761528",
-      "mtime": "1666682096",
-      "size": "303643",
-      "md5": "a803735a8b2755f047f59762d02e5a77",
-      "crc32": "321a5fdb",
-      "sha1": "5cd726f90aaab5d0234390f4f0325168956dfcd8",
+      "btih": "20a292c1136c2e7ce4b7dcb016f2ee7a3783e126",
+      "mtime": "1666717896",
+      "size": "304731",
+      "md5": "9c7e447ab957d2262b607bd773a6562e",
+      "crc32": "7fc5ba4f",
+      "sha1": "a2f668406acc8c31cbdf1bc4829d246153886512",
       "format": "Archive BitTorrent"
     },
     {
       "name": "clarionledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8aba0c5b92afbf2ed5676960cf5d254",
+      "md5": "cf4adf08aa95799c77e5fa5f4b1ff293",
       "summation": "md5"
     },
     {
       "name": "clarionledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666680193",
-      "size": "1761280",
-      "md5": "986315175f65d77fdd7021c6ca9654e3",
-      "crc32": "9ece8aa3",
-      "sha1": "57b24867f1664c57350a146960f11c23d2e5d761",
+      "mtime": "1666717841",
+      "size": "1769472",
+      "md5": "4ea24af49fb1940d22a2f16561977bb2",
+      "crc32": "c9fd9fc1",
+      "sha1": "181f1da308f5b082c98997ae378afb481126e245",
       "format": "Metadata"
     },
     {
@@ -14600,9 +14651,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1407,
-  "item_last_updated": 1666682096,
-  "item_size": 99765723,
+  "files_count": 1412,
+  "item_last_updated": 1666717896,
+  "item_size": 100154289,
   "metadata": {
     "identifier": "clarionledger-2022",
     "collection": [
@@ -14619,10 +14670,21 @@
     "publicdate": "2022-06-24 22:53:49",
     "addeddate": "2022-06-24 22:53:49"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 735067111,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451842800,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2024349049,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }
