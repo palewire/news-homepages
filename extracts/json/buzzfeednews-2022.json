@@ -1,5 +1,5 @@
 {
-  "created": 1666652800,
+  "created": 1666695935,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/4/items/buzzfeednews-2022",
@@ -15412,31 +15412,82 @@
       "sha1": "9fd1fc329fb33de4ed400368ee27021de9f22280"
     },
     {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695734",
+      "size": "25274",
+      "md5": "1de37881085f3a50510fd7ed75f91d65",
+      "crc32": "86b31710",
+      "sha1": "c2a310bcd5d09d6f4697511bb387e6479747bfc9",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695736",
+      "size": "36515",
+      "md5": "281065ca1fec6ec55e572e4461a00a47",
+      "crc32": "5236f1dd",
+      "sha1": "9217f6da2e4b66b259b6a6e1c638243c9746f0a4",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.jpg",
+      "source": "original",
+      "mtime": "1666695732",
+      "size": "324139",
+      "md5": "f155d7e5fbaadf87d974d5250dc93a00",
+      "crc32": "c7d7a2da",
+      "sha1": "6152e2bf2df7e77691e412be8e3c5fdea4b1a39d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695739",
+      "size": "1504",
+      "md5": "f0ebf5544a0c2ebded7080d906db6015",
+      "crc32": "7a1fd264",
+      "sha1": "a33dc16ab5fd89562f12f302fc9902b7e41ef49f",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666695741",
+      "size": "108368",
+      "md5": "3bafe05ae7d24e8bd405e9cce28761ba",
+      "crc32": "9ce32413",
+      "sha1": "970e9a298ea4af334a678937503e73544cf141e5",
+      "format": "JSON"
+    },
+    {
       "name": "buzzfeednews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b1b3630bdb04398f917133973f1e49f90bae11d7",
-      "mtime": "1666652781",
-      "size": "320443",
-      "md5": "8778be0d0203ead98d32681a0fb1b056",
-      "crc32": "ccb8c742",
-      "sha1": "4d60e6a8cf6de1357235e6061df4ad41433863dd",
+      "btih": "f57572a29df714c7472e84085918d38a6f91ba2f",
+      "mtime": "1666695923",
+      "size": "321527",
+      "md5": "bf1614ae2cf9622752b59313a3df5f32",
+      "crc32": "4119159d",
+      "sha1": "52c1b2090a48fff290ac295d384679452332fedb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buzzfeednews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af124b7d183b79d6407e3a715eff8b72",
+      "md5": "c62747e192e82f08a9335f098677289a",
       "summation": "md5"
     },
     {
       "name": "buzzfeednews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652670",
-      "size": "1847296",
-      "md5": "7b21f9efafd0b22436c571f6984e6429",
-      "crc32": "67e637e4",
-      "sha1": "83c11caf1fb9b19952444244d906338cee137d35",
+      "mtime": "1666695855",
+      "size": "1859584",
+      "md5": "2d94b3ca449033430ea2f87e47263237",
+      "crc32": "2600bd18",
+      "sha1": "510725b950df793c234450aa3a0c623669db2e53",
       "format": "Metadata"
     },
     {
@@ -15450,9 +15501,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1488,
-  "item_last_updated": 1666652781,
-  "item_size": 123668194,
+  "files_count": 1493,
+  "item_last_updated": 1666695923,
+  "item_size": 124177366,
   "metadata": {
     "identifier": "buzzfeednews-2022",
     "collection": [
@@ -15469,10 +15520,21 @@
     "publicdate": "2022-06-19 23:23:22",
     "addeddate": "2022-06-19 23:23:22"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 385241429,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451520958,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 972100629,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

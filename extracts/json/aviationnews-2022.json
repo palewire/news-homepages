@@ -1,5 +1,5 @@
 {
-  "created": 1666652665,
+  "created": 1666695724,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/34/items/aviationnews-2022",
@@ -8150,31 +8150,72 @@
       "sha1": "ac2fdbe1f7ec079adde38937a1ddae7bb0f5de39"
     },
     {
+      "name": "aviationnews-2022-10-25T06:59:00.354687-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695551",
+      "size": "158055",
+      "md5": "5e1835397fdaf64f719def8f9d076c09",
+      "crc32": "ffa98b0f",
+      "sha1": "7113e3a1b495e75c086154d655f0214b54ce30ea",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-25T06:59:00.354687-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695553",
+      "size": "263030",
+      "md5": "b2b96b819dcde02c29bbbc2832028ef8",
+      "crc32": "f822fbec",
+      "sha1": "47504fe2d2eebd6fd90f648f69a27fad3aae48f2",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-25T06:59:00.354687-04:00.jpg",
+      "source": "original",
+      "mtime": "1666695549",
+      "size": "142466",
+      "md5": "3948d409558e94e1607bbc0fb8d37b2f",
+      "crc32": "33356508",
+      "sha1": "c2f40d208d6dce28fdc64ddcd3ce53f5bfd1c2e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-25T06:59:00.354687-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695555",
+      "size": "1486",
+      "md5": "53e439f9f588e3651158121455150a1c",
+      "crc32": "68261f89",
+      "sha1": "1190b0bf83385c1e1a15a224f16ef2e347092e16",
+      "format": "JSON"
+    },
+    {
       "name": "aviationnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6555f7291ccf2bc8ca677e447f7c15330b618866",
-      "mtime": "1666652637",
-      "size": "171463",
-      "md5": "ebd9adadcd9b336a980af59a126704e6",
-      "crc32": "ebd34734",
-      "sha1": "120e11e5c0615e604586c48f8bbc096e49dfe78b",
+      "btih": "6b7b676be72e8f0d37207a01996786be987f14b0",
+      "mtime": "1666695710",
+      "size": "172336",
+      "md5": "e7efdb53503b9beba7f617b8ee9ef3fc",
+      "crc32": "34fd3cdb",
+      "sha1": "9dcb1f2405c95b05ca2caf833bbeed4e8548f51a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aviationnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf349ef592eeb348270830faa362ad81",
+      "md5": "40a882de5cd689e89099ae1d6fc27e85",
       "summation": "md5"
     },
     {
       "name": "aviationnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652542",
-      "size": "1024000",
-      "md5": "c9bbfd963b4c21882c11c266cca2ba49",
-      "crc32": "64ea3392",
-      "sha1": "3c2dabb0bb14a48090b430b1e56b0ec91fcedecb",
+      "mtime": "1666695666",
+      "size": "1028096",
+      "md5": "0ea5eedb41196ea366b5e6fe78c05df2",
+      "crc32": "b71cbc66",
+      "sha1": "8b6a3aaa10ecd2c24b494848e078fe0e4ff92264",
       "format": "Metadata"
     },
     {
@@ -8188,9 +8229,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 792,
-  "item_last_updated": 1666652637,
-  "item_size": 76329278,
+  "files_count": 796,
+  "item_last_updated": 1666695710,
+  "item_size": 76899284,
   "metadata": {
     "identifier": "aviationnews-2022",
     "collection": [
@@ -8207,10 +8248,21 @@
     "publicdate": "2022-08-20 22:59:00",
     "addeddate": "2022-08-20 22:59:00"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1709485506,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451511609,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 47639161,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

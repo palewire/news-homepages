@@ -1,5 +1,5 @@
 {
-  "created": 1666652556,
+  "created": 1666695693,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/10/items/arkbusiness-2022",
@@ -5338,31 +5338,72 @@
       "sha1": "4b3d7e14154739e42244d6d1aa330717433a04a7"
     },
     {
+      "name": "arkbusiness-2022-10-25T05:59:07.955445-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695553",
+      "size": "41725",
+      "md5": "f28be013a060ce03f39064d5746a92dc",
+      "crc32": "f343a3fd",
+      "sha1": "c72f5e1a38e43c0aed2d0e8b678af012a08ef3b9",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-25T05:59:07.955445-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695555",
+      "size": "37073",
+      "md5": "c548a4f77df63d12be5c249ef42c998b",
+      "crc32": "3121a986",
+      "sha1": "a31519c2542f1b9fd01391759f8f0619a41b9a3c",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-25T05:59:07.955445-05:00.jpg",
+      "source": "original",
+      "mtime": "1666695551",
+      "size": "292837",
+      "md5": "722ad00c5cac4dd38d2a6d3fecf57ae9",
+      "crc32": "497cdf78",
+      "sha1": "9a4a0364afac60f19ea53e794947ba0bf98bbf46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-25T05:59:07.955445-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695557",
+      "size": "1549",
+      "md5": "b02c472d9f6e1ef35d65a3796e0f30e0",
+      "crc32": "6ef78a01",
+      "sha1": "73f374bcaaef945b12217002dc9a356683914c9d",
+      "format": "JSON"
+    },
+    {
       "name": "arkbusiness-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8af8eb2c9201ee90b101dc8fbaad5270bc9318b3",
-      "mtime": "1666652550",
-      "size": "111561",
-      "md5": "67a2d4da52e2b551fbc9d6502ae770d5",
-      "crc32": "dbafe6df",
-      "sha1": "80e3b5ac9719894279681fcce402d20bcb026814",
+      "btih": "23d0f40fb550b37d46d7bdb93fb6afce41a60860",
+      "mtime": "1666695691",
+      "size": "112428",
+      "md5": "1152958d0b718c53aa88f90815703d2e",
+      "crc32": "5ff35ef5",
+      "sha1": "cac3f6f5f45c1f54c44e980458535bc947950bea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkbusiness-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eecabee819a02f39eb524c9ff03711d3",
+      "md5": "7c4c09a4be5ec6053e9b41d95e4b84cb",
       "summation": "md5"
     },
     {
       "name": "arkbusiness-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652489",
-      "size": "675840",
-      "md5": "88241275541d908e0a294ca250462b66",
-      "crc32": "8c32e4fc",
-      "sha1": "ef97ca8acbc3e104ef831538f047e732dd066460",
+      "mtime": "1666695650",
+      "size": "684032",
+      "md5": "3fbdd4718a4c027508a56b3ba9e302a6",
+      "crc32": "b9e9de1f",
+      "sha1": "4f7bac902c4feb5c8bbed13e740967edab440863",
       "format": "Metadata"
     },
     {
@@ -5376,9 +5417,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 520,
-  "item_last_updated": 1666652550,
-  "item_size": 36802291,
+  "files_count": 524,
+  "item_last_updated": 1666695691,
+  "item_size": 37184534,
   "metadata": {
     "identifier": "arkbusiness-2022",
     "collection": [
@@ -5395,10 +5436,21 @@
     "publicdate": "2022-09-12 11:05:02",
     "addeddate": "2022-09-12 11:05:02"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1486677662,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451509920,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1549594334,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

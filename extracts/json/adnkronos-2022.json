@@ -1,5 +1,5 @@
 {
-  "created": 1666652364,
+  "created": 1666695613,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/adnkronos-2022",
@@ -9314,31 +9314,82 @@
       "sha1": "d58bf29e068a16ebb85adabc3d93e4f3c8bbe301"
     },
     {
+      "name": "adnkronos-2022-10-25T12:55:33.581293+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695344",
+      "size": "96431",
+      "md5": "362d570930cdac0e07d17507c9a6cc3a",
+      "crc32": "156824aa",
+      "sha1": "bc78f4f905d4cbd9c8a992c75fed84aa13ba5003",
+      "format": "JSON"
+    },
+    {
+      "name": "adnkronos-2022-10-25T12:55:33.581293+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695346",
+      "size": "104179",
+      "md5": "a98da23d1093849727ae68653a844175",
+      "crc32": "cbffe08c",
+      "sha1": "cd3effd4a991a307061e2d5031f8533f9ceb8ca2",
+      "format": "JSON"
+    },
+    {
+      "name": "adnkronos-2022-10-25T12:55:33.581293+02:00.jpg",
+      "source": "original",
+      "mtime": "1666695341",
+      "size": "172777",
+      "md5": "2a2e68d9633f5dd27ff3a7f1b4223edd",
+      "crc32": "88b2ee9c",
+      "sha1": "9afdf5f7724f334792efbfaebf784f092616a49f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "adnkronos-2022-10-25T12:55:33.581293+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695348",
+      "size": "1486",
+      "md5": "886d0f40e051e891b7ee8fe2dd44a322",
+      "crc32": "4f164d92",
+      "sha1": "4dd966a2e1fbc61c2b84d1b57b8e008d4d3e0bdc",
+      "format": "JSON"
+    },
+    {
+      "name": "adnkronos-2022-10-25T12:55:33.581293+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666695350",
+      "size": "29141",
+      "md5": "50c0107832670c15a9ece80ef214acea",
+      "crc32": "52559921",
+      "sha1": "be56ec518c6daa98580751aa2203a321b62adee9",
+      "format": "JSON"
+    },
+    {
       "name": "adnkronos-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53e8b3297d85da8e7137bce2898904f3c369d38c",
-      "mtime": "1666652355",
-      "size": "192116",
-      "md5": "780c9b3cf8af876ea5e414016e52e76f",
-      "crc32": "97e1a910",
-      "sha1": "2917296236a2a1d4e1c17c42fc2eed2894715912",
+      "btih": "b26271fabb971a66aa9c68e42b9ed86a17c5fefb",
+      "mtime": "1666695609",
+      "size": "193185",
+      "md5": "7f011c6918e838ba6e57cd3316db9bb9",
+      "crc32": "642322dc",
+      "sha1": "79d0c7641b681cc6b4c7bc65234c6069b5c29a34",
       "format": "Archive BitTorrent"
     },
     {
       "name": "adnkronos-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6656caded5082c60c217a48fae5abb1a",
+      "md5": "918cc4688ba0944e0fa65896a331394a",
       "summation": "md5"
     },
     {
       "name": "adnkronos-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652291",
-      "size": "1163264",
-      "md5": "7a0a3df0be7def6e73bda76949d30882",
-      "crc32": "c93d66e3",
-      "sha1": "54d1241cd62a8a538e20bde04696ff31a029a8d2",
+      "mtime": "1666695553",
+      "size": "1167360",
+      "md5": "030295b35964da79a120aa5bc260bbfa",
+      "crc32": "61a1cb53",
+      "sha1": "3c4606e5b2b2f19106181a6f06cb508ce6d0cc97",
       "format": "Metadata"
     },
     {
@@ -9352,9 +9403,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 905,
-  "item_last_updated": 1666652355,
-  "item_size": 62899764,
+  "files_count": 910,
+  "item_last_updated": 1666695609,
+  "item_size": 63308943,
   "metadata": {
     "identifier": "adnkronos-2022",
     "collection": [
@@ -9371,10 +9422,21 @@
     "publicdate": "2022-08-11 00:35:22",
     "addeddate": "2022-08-11 00:35:22"
   },
+  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "uniq": 1604349372,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451506414,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1478967638,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia902506.us.archive.org"
   ]
 }

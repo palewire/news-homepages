@@ -1,5 +1,5 @@
 {
-  "created": 1666652614,
+  "created": 1666695690,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/18/items/barnpat-2022",
@@ -4284,31 +4284,72 @@
       "sha1": "89c8d69c12b6a030928e984ad951608a42f1b441"
     },
     {
+      "name": "barnpat-2022-10-25T06:58:44.377461-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695531",
+      "size": "22606",
+      "md5": "20c1960906f2a3559218e1a846bfba30",
+      "crc32": "4d9e4863",
+      "sha1": "fb2e2f2a3669b04dc9bc11e7ef39e281a6060bce",
+      "format": "JSON"
+    },
+    {
+      "name": "barnpat-2022-10-25T06:58:44.377461-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695533",
+      "size": "32851",
+      "md5": "2a970a42adaa2742d27f4afea88cbd84",
+      "crc32": "85059102",
+      "sha1": "f4f4207dd181c6bc129feeee712bf20726dafd1b",
+      "format": "JSON"
+    },
+    {
+      "name": "barnpat-2022-10-25T06:58:44.377461-04:00.jpg",
+      "source": "original",
+      "mtime": "1666695529",
+      "size": "194515",
+      "md5": "5b3df4f1826fd1151ea9a6054530089f",
+      "crc32": "73d82517",
+      "sha1": "1af1e653e0f410905ada3d62fe01d347499676bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "barnpat-2022-10-25T06:58:44.377461-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695535",
+      "size": "1558",
+      "md5": "cb83d37f36d17655ebeba468ffac61cf",
+      "crc32": "da01e31b",
+      "sha1": "47deed80a53edc88233065e966fc1eaf7eb75071",
+      "format": "JSON"
+    },
+    {
       "name": "barnpat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0f94c5158503e69efedb9dc75b1d123bb22de6f",
-      "mtime": "1666652593",
-      "size": "88011",
-      "md5": "8a66fe0ae8c77b1a166ee48bedd23a32",
-      "crc32": "49a800a2",
-      "sha1": "72288786f0606a3b012a6f769e61ef82c9df61fb",
+      "btih": "3e4c57a1fc771cfe889f538af5e947ef8526e813",
+      "mtime": "1666695687",
+      "size": "88842",
+      "md5": "6fff03e73334c937f6828f0dc99381d6",
+      "crc32": "7533a84f",
+      "sha1": "9582bf43b4936d105bf711a2eb0a59be21d7d507",
       "format": "Archive BitTorrent"
     },
     {
       "name": "barnpat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5e318449d3fcd10e7656397148b2041",
+      "md5": "b9dab227a4be0e92a4f295f624b05873",
       "summation": "md5"
     },
     {
       "name": "barnpat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652522",
-      "size": "544768",
-      "md5": "36335fb57a966c2bb4ef599711290896",
-      "crc32": "b8f92c7f",
-      "sha1": "542c6c56fe1c9db99156d6e81b6a55f2d6e0fc48",
+      "mtime": "1666695647",
+      "size": "548864",
+      "md5": "7a8c75483571266b7ebb2d1fc1c0591c",
+      "crc32": "150795c6",
+      "sha1": "4d1e75d28a17a279e8aa2a3ad74ca4fddfae4198",
       "format": "Metadata"
     },
     {
@@ -4322,9 +4363,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 418,
-  "item_last_updated": 1666652593,
-  "item_size": 26470720,
+  "files_count": 422,
+  "item_last_updated": 1666695687,
+  "item_size": 26727177,
   "metadata": {
     "identifier": "barnpat-2022",
     "collection": [
@@ -4341,10 +4382,21 @@
     "publicdate": "2022-09-20 22:11:52",
     "addeddate": "2022-09-20 22:11:52"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 564196508,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451509791,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1982913994,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666652942,
+  "created": 1666696012,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/breitbartnews-2022",
@@ -25154,31 +25154,72 @@
       "sha1": "f7607679fa249f94201ac0034006ac49b07b83af"
     },
     {
+      "name": "breitbartnews-2022-10-25T07:01:26.570696-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695713",
+      "size": "59645",
+      "md5": "4d4e696c402902c32b692a8566bf41cd",
+      "crc32": "dd83ba89",
+      "sha1": "a4b288e499477e21b0931650e47c7bc5d9bd9736",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-10-25T07:01:26.570696-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695716",
+      "size": "62681",
+      "md5": "59d346254232e4427e232867c8d8067e",
+      "crc32": "05fb95bb",
+      "sha1": "09316aea6edb6df3fe1b1716c4e42b74570f1db1",
+      "format": "JSON"
+    },
+    {
+      "name": "breitbartnews-2022-10-25T07:01:26.570696-04:00.jpg",
+      "source": "original",
+      "mtime": "1666695711",
+      "size": "329163",
+      "md5": "4175929e686c59a78561412944c5069e",
+      "crc32": "256ba31c",
+      "sha1": "cd9b9c2eac7b40fee48b74c8b07ae303d18269a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "breitbartnews-2022-10-25T07:01:26.570696-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695718",
+      "size": "1486",
+      "md5": "a4a3e6fbdde1cc8952b6bf139dcb3223",
+      "crc32": "019ac6b9",
+      "sha1": "e7bb6d9317593a9e4f5e1bc91c3e85ebfffabbf0",
+      "format": "JSON"
+    },
+    {
       "name": "breitbartnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f6b54a77f6f7de7c4cf227590507eabfb22f3ed",
-      "mtime": "1666652920",
-      "size": "523808",
-      "md5": "39e692835b023c233bb1dfb8c1878a07",
-      "crc32": "9d15db4f",
-      "sha1": "45c3578f3ca0f46199c601fc87debffe7a9bc50c",
+      "btih": "3fca5a909ae2d0b5be5beb4fe4e580842cf03e12",
+      "mtime": "1666696007",
+      "size": "524683",
+      "md5": "46a58af54246c2dd502572c9758edf87",
+      "crc32": "f858acf1",
+      "sha1": "b71333f3c918554ee093ce6d1e9ac905f2ece719",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breitbartnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "251e73f5b3716227d8684f2a890b289e",
+      "md5": "eebcb93198d6b8993283de94afa4ac30",
       "summation": "md5"
     },
     {
       "name": "breitbartnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652688",
-      "size": "2990080",
-      "md5": "d5e3f7d3a2123bc4d7cf1fd237cee768",
-      "crc32": "fa3d91a7",
-      "sha1": "04314b2a57e2110d8c96d581cbe2b427fd640f99",
+      "mtime": "1666695928",
+      "size": "2994176",
+      "md5": "1c0b60ab6001dfa9492768fcef1c3c0a",
+      "crc32": "1914daa2",
+      "sha1": "dbcdbeb8bed26c3ba7c95a0c7829463a5b909fff",
       "format": "Metadata"
     },
     {
@@ -25192,9 +25233,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2423,
-  "item_last_updated": 1666652920,
-  "item_size": 209374468,
+  "files_count": 2427,
+  "item_last_updated": 1666696007,
+  "item_size": 209832414,
   "metadata": {
     "identifier": "breitbartnews-2022",
     "collection": [
@@ -25211,10 +25252,29 @@
     "publicdate": "2022-03-25 18:46:45",
     "addeddate": "2022-03-25 18:46:45"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 942216167,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451510745,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3451524453,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2135672749,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

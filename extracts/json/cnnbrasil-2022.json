@@ -1,5 +1,5 @@
 {
-  "created": 1666652790,
+  "created": 1666695890,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/24/items/cnnbrasil-2022",
@@ -14204,31 +14204,82 @@
       "sha1": "7e9a48d57c2a6e532945693cf8ba70d2a7147bef"
     },
     {
+      "name": "cnnbrasil-2022-10-25T08:02:00.635175-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695723",
+      "size": "70292",
+      "md5": "a1bb6cefdb8c990136d7f818b8cf4ffd",
+      "crc32": "69de3a38",
+      "sha1": "0824667aeab1ef75c9b49d355b0914bf390751bc",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-10-25T08:02:00.635175-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695725",
+      "size": "52061",
+      "md5": "380b95744bba9805500b1161eb7ae3ef",
+      "crc32": "8462f4cf",
+      "sha1": "db50d1f369d384cf64bc3699591a240558fe85a4",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-10-25T08:02:00.635175-03:00.jpg",
+      "source": "original",
+      "mtime": "1666695721",
+      "size": "330811",
+      "md5": "e68b44a36ecc74a120bb69b780ffe70c",
+      "crc32": "6b10d554",
+      "sha1": "6dc7ca30288b96c2ba0849af62a64cd69cf710a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnnbrasil-2022-10-25T08:02:00.635175-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695727",
+      "size": "1512",
+      "md5": "06a5b9b478de0d17080fac3cad82e0a8",
+      "crc32": "2651b1cb",
+      "sha1": "bec77a17950ec7acd91a1d137d22555bace0745a",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-10-25T08:02:00.635175-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666695729",
+      "size": "29290",
+      "md5": "38912f85357776f2dc9f35b7dffd1fa9",
+      "crc32": "3231ce63",
+      "sha1": "77afe1a6c75dbe8fb0ba5c594079a38db2540cf8",
+      "format": "JSON"
+    },
+    {
       "name": "cnnbrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c17990201b90597395998d4576f9ca15adf0a50e",
-      "mtime": "1666652779",
-      "size": "292540",
-      "md5": "caecdd2e999bf5038d879bf6057868f8",
-      "crc32": "5c1271a1",
-      "sha1": "a3c43e6f1c4cf53c6862db8dca5be3f697f1b1c0",
+      "btih": "419d88ebad37fba22c00d06b54f531821f14076b",
+      "mtime": "1666695885",
+      "size": "293608",
+      "md5": "f63e0d421128516a43f18c67ce7b59ce",
+      "crc32": "199dbf8d",
+      "sha1": "19394be3ba65a85dd080b22f7bef8d2762babab5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnnbrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e2f45b53e7934079926de582f59da8a",
+      "md5": "1e32c9f02e1a554be1f60a02994fa102",
       "summation": "md5"
     },
     {
       "name": "cnnbrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652698",
-      "size": "1757184",
-      "md5": "8b78440cad7b48d2db01c268f048aaa4",
-      "crc32": "ba82e477",
-      "sha1": "565a2497e87c70e83b5427078b5a22b694f626cf",
+      "mtime": "1666695837",
+      "size": "1765376",
+      "md5": "ad0b5362eeb1591b1ea7d69af7f89719",
+      "crc32": "8a39c4ba",
+      "sha1": "b1ff990515756aa6705e36b4d2f254a17c7f8975",
       "format": "Metadata"
     },
     {
@@ -14242,9 +14293,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1378,
-  "item_last_updated": 1666652779,
-  "item_size": 108796798,
+  "files_count": 1383,
+  "item_last_updated": 1666695885,
+  "item_size": 109290024,
   "metadata": {
     "identifier": "cnnbrasil-2022",
     "collection": [
@@ -14261,10 +14312,21 @@
     "publicdate": "2022-08-07 19:42:41",
     "addeddate": "2022-08-07 19:42:41"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 1556081749,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451519055,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1562181258,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

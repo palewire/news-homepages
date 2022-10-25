@@ -1,5 +1,5 @@
 {
-  "created": 1666653033,
+  "created": 1666695881,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/28/items/burlcotimes-2022",
@@ -4284,31 +4284,72 @@
       "sha1": "d258939a9c18a43151abdca99b4e401dc6750cb4"
     },
     {
+      "name": "burlcotimes-2022-10-25T07:01:50.037785-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695719",
+      "size": "25220",
+      "md5": "7cc4299ad5f383d025ba4cc3ab0b6eb9",
+      "crc32": "a9ca761a",
+      "sha1": "9394d60d878c0f00ec13909d115bd4a70bda2045",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-25T07:01:50.037785-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695721",
+      "size": "50028",
+      "md5": "e611c8b818254542b42a66f04d9628aa",
+      "crc32": "365ccf26",
+      "sha1": "d1eef494599d8f43089c78f7d67f04de0429abe1",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-25T07:01:50.037785-04:00.jpg",
+      "source": "original",
+      "mtime": "1666695717",
+      "size": "251856",
+      "md5": "46998f911b17c68065e812ff07949d4a",
+      "crc32": "3771f7db",
+      "sha1": "acf1ad1ccb8c0bfbc3466119cb03dcc06a681442",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "burlcotimes-2022-10-25T07:01:50.037785-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695723",
+      "size": "1594",
+      "md5": "7ab6e3fde97387e05d2d83dafd1f8dda",
+      "crc32": "12b01b6f",
+      "sha1": "465b90695c91dd523e4dbd4b138db7db19395447",
+      "format": "JSON"
+    },
+    {
       "name": "burlcotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c1f7fe4332c9cc76142e8a074ef4a20c81e68b6",
-      "mtime": "1666653020",
-      "size": "89748",
-      "md5": "4dfb944aec030ff8dead573c9d7db10e",
-      "crc32": "fe377dfa",
-      "sha1": "b801eb7147d5c148ce2eeb9da13a9232c671db01",
+      "btih": "530a1b2399c0e11acebaf343a8defa1848f60cf8",
+      "mtime": "1666695876",
+      "size": "90615",
+      "md5": "a7b81dd99e3232de60131df59ec024e1",
+      "crc32": "b1ae7603",
+      "sha1": "c6022448be0540478f7ffcc2180077d65e69976c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "burlcotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "39b325feee3dfbf192c51fb9635d863e",
+      "md5": "9312ea8d4c0a1d114d117c9339ca1827",
       "summation": "md5"
     },
     {
       "name": "burlcotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652673",
-      "size": "544768",
-      "md5": "51e7e0e8f6d67e8e945eefd175bd16db",
-      "crc32": "4947c4a4",
-      "sha1": "c83c07f27d940df8dd7a56897983a5f8d903b5c5",
+      "mtime": "1666695836",
+      "size": "548864",
+      "md5": "24f39cac05caa9812abe4395abfa7097",
+      "crc32": "7783290f",
+      "sha1": "3b02415614b723b6b20d36955c80adccd9c9c402",
       "format": "Metadata"
     },
     {
@@ -4322,9 +4363,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 418,
-  "item_last_updated": 1666653020,
-  "item_size": 28365457,
+  "files_count": 422,
+  "item_last_updated": 1666695876,
+  "item_size": 28699118,
   "metadata": {
     "identifier": "burlcotimes-2022",
     "collection": [
@@ -4341,10 +4382,21 @@
     "publicdate": "2022-09-20 22:11:31",
     "addeddate": "2022-09-20 22:11:31"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1838573510,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451518685,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1588017617,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

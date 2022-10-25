@@ -1,5 +1,5 @@
 {
-  "created": 1666652427,
+  "created": 1666695514,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/airlinereporter-2022",
@@ -8150,31 +8150,72 @@
       "sha1": "975bc822dc728f6d336c8a35e4cc857bbb9baac7"
     },
     {
+      "name": "airlinereporter-2022-10-25T03:55:52.770198-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695358",
+      "size": "36751",
+      "md5": "fa553f99e8eb0b47f0a8570fed108acf",
+      "crc32": "a0a4a5e4",
+      "sha1": "529decdea75fd3a1b6f531e0b5c10a6771cc825a",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T03:55:52.770198-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695360",
+      "size": "25781",
+      "md5": "e14c1f97de39815bf1a4a8b7a8305e42",
+      "crc32": "cae91c1b",
+      "sha1": "0c9a8f203872fed1b650c512e6802ca89a2f630b",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T03:55:52.770198-07:00.jpg",
+      "source": "original",
+      "mtime": "1666695357",
+      "size": "299519",
+      "md5": "d7552c25e58e5dc4c314cdbbfd7e17fd",
+      "crc32": "d66aa632",
+      "sha1": "6f31cb28ae2cd3f8c3caeed6fffdf99376babdbb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T03:55:52.770198-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695362",
+      "size": "1540",
+      "md5": "0e59d574c2480dee6dbdfe987e21bbf9",
+      "crc32": "ebffcb1d",
+      "sha1": "686b7e863bcfa1b6ac55888de64e7696f5a14f8f",
+      "format": "JSON"
+    },
+    {
       "name": "airlinereporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "894ab418477fc676b85537e8f56210f608ba4c2e",
-      "mtime": "1666652405",
-      "size": "172756",
-      "md5": "1deab754e94ec0c5dede589df96af377",
-      "crc32": "188edccc",
-      "sha1": "eb57f68143c81c1b91093e0833c557214e3b3aa3",
+      "btih": "461c774da4f1e28dffb766c35db3b1c49a305294",
+      "mtime": "1666695507",
+      "size": "173639",
+      "md5": "6c9957f864bb0b52f1740a359519c9c6",
+      "crc32": "24692cc4",
+      "sha1": "52ba2c7fb5254d8f1909767fbce6af5466858c0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airlinereporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8402fef6c8e7e9a500cfd593bad9fe42",
+      "md5": "3ee7bb5fb1319efca3c90de6a2d37b27",
       "summation": "md5"
     },
     {
       "name": "airlinereporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652302",
-      "size": "1028096",
-      "md5": "de84d761d4c14f67955cea4b67d7d957",
-      "crc32": "c9bc24ed",
-      "sha1": "d5272d6416e835a81fdb791d6294747bd770ee11",
+      "mtime": "1666695463",
+      "size": "1032192",
+      "md5": "fd98541de4c5e2fa3e980a8b7eafb7e9",
+      "crc32": "1dcb98a4",
+      "sha1": "52ac76abeff0846e0753184565e6d7b67081e64e",
       "format": "Metadata"
     },
     {
@@ -8188,9 +8229,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 792,
-  "item_last_updated": 1666652405,
-  "item_size": 52464436,
+  "files_count": 796,
+  "item_last_updated": 1666695507,
+  "item_size": 52833006,
   "metadata": {
     "identifier": "airlinereporter-2022",
     "collection": [
@@ -8207,10 +8248,21 @@
     "publicdate": "2022-08-20 22:59:16",
     "addeddate": "2022-08-20 22:59:16"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1050805573,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451503073,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 474665212,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

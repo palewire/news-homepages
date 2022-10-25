@@ -1,5 +1,5 @@
 {
-  "created": 1666652746,
+  "created": 1666695885,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/27/items/calmatters-2022",
@@ -11674,31 +11674,82 @@
       "sha1": "878269eaf7312dd60d1e754e41bddbcac59926f0"
     },
     {
+      "name": "calmatters-2022-10-25T04:01:32.679811-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695704",
+      "size": "54755",
+      "md5": "1a5d8cc48cd019ba436564b33d11ef2e",
+      "crc32": "0ef9e12a",
+      "sha1": "3cd5e164d459a2a5ede02e36a33dbc3e682faddb",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-10-25T04:01:32.679811-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695706",
+      "size": "72308",
+      "md5": "64415579c75da8a92d1c2c554c98e703",
+      "crc32": "d17e75a3",
+      "sha1": "a11e65af35fdfdd2c8d52cd1c308c662e6b22f3e",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-10-25T04:01:32.679811-07:00.jpg",
+      "source": "original",
+      "mtime": "1666695702",
+      "size": "253976",
+      "md5": "762d8b9af7cc07f7227adc64852835ac",
+      "crc32": "4c21c312",
+      "sha1": "1b5df9159ab47777769e7d9179d88807c62ef5dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calmatters-2022-10-25T04:01:32.679811-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695708",
+      "size": "1450",
+      "md5": "8a488b4d8e72121976df3d7593a35f66",
+      "crc32": "2c843e3c",
+      "sha1": "0a39f76a2f42f3a81e6b810ffb5356ded535f0d1",
+      "format": "JSON"
+    },
+    {
+      "name": "calmatters-2022-10-25T04:01:32.679811-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666695710",
+      "size": "22205",
+      "md5": "183cd3374990fa0fdefe0e00eef6759a",
+      "crc32": "82d7c0d7",
+      "sha1": "0f0a107c80a6f174a6290e2e006c20cd06defde2",
+      "format": "JSON"
+    },
+    {
       "name": "calmatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e311ec7f2f8a073a34ffc312e8eae1c17dec0581",
-      "mtime": "1666652739",
-      "size": "241351",
-      "md5": "0478126ebcf8916d633a51f4d9067735",
-      "crc32": "77deb728",
-      "sha1": "f6c3850e9dade2d9b1fdb6a942d6724527c04604",
+      "btih": "fcc0a3d4bde62b0817305e35a60eb2a965d41826",
+      "mtime": "1666695882",
+      "size": "242404",
+      "md5": "ec7f94696873605625df18e0f67e4614",
+      "crc32": "e8fd4cd3",
+      "sha1": "9714e1be2e249dca8bbfdbacc062e0228eff32c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calmatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2896740a39646f98d221303aa5fd39e4",
+      "md5": "61ad6332e8ead677c7e0e496a25aec98",
       "summation": "md5"
     },
     {
       "name": "calmatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666652672",
-      "size": "1441792",
-      "md5": "97a489a62213e0a71c0a3848daee7b8b",
-      "crc32": "29c48f02",
-      "sha1": "179ea74477f56ba57787aa81816fedc910c9f6d3",
+      "mtime": "1666695836",
+      "size": "1449984",
+      "md5": "2258cdf524dc901b9ddcb6f119e7f507",
+      "crc32": "dfd8177d",
+      "sha1": "926aaae60f8b99dca0f8066718c3931cecb510c6",
       "format": "Metadata"
     },
     {
@@ -11712,9 +11763,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1132,
-  "item_last_updated": 1666652739,
-  "item_size": 83713800,
+  "files_count": 1137,
+  "item_last_updated": 1666695882,
+  "item_size": 84127739,
   "metadata": {
     "identifier": "calmatters-2022",
     "collection": [
@@ -11731,10 +11782,21 @@
     "publicdate": "2022-07-21 12:54:12",
     "addeddate": "2022-07-21 12:54:12"
   },
+  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "uniq": 79941455,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451518865,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 900476054,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia902509.us.archive.org"
   ]
 }
