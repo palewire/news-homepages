@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666296873,
-=======
-  "created": 1666593993,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666686864,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/23/items/thenewmexican-2022",
@@ -17848,16 +17844,6 @@
       "sha1": "81769aa773788df26e9ca30fba1e34ad2e09bb15"
     },
     {
-<<<<<<< HEAD
-      "name": "thenewmexican-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "f51468a77d72410afe9419718b1e01acf45aa30d",
-      "mtime": "1666296865",
-      "size": "370410",
-      "md5": "157d4aa280afa19770abb7472e784eae",
-      "crc32": "4bb52672",
-      "sha1": "989a5e2fb9f4e9b635f57934fc4cfed556589d48",
-=======
       "name": "thenewmexican-2022-10-21T01:34:11.083843-06:00.accessibility.json",
       "source": "original",
       "mtime": "1666337660",
@@ -18292,44 +18278,144 @@
       "sha1": "9669338a660fef5761200c29d024e9673e5bc300"
     },
     {
+      "name": "thenewmexican-2022-10-24T12:20:46.303725-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666635676",
+      "size": "28125",
+      "md5": "d64178afa10204bfacd0d133458abcfc",
+      "crc32": "05ee35e6",
+      "sha1": "04a598e44548820345ef1de520cc0109dbc343aa",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-10-24T12:20:46.303725-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666635678",
+      "size": "47996",
+      "md5": "79c193d378f65d918dc092cedd390438",
+      "crc32": "afad6c13",
+      "sha1": "bfeb71aae1205fdcc11ee619111b3e4df14a2564",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-10-24T12:20:46.303725-06:00.jpg",
+      "source": "original",
+      "mtime": "1666635674",
+      "size": "299393",
+      "md5": "6bb147fc0b5f70998bb1cee80d7878d8",
+      "crc32": "0cdc1ff7",
+      "sha1": "2882191b5b4abe89911d171e707f4d2340334e5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenewmexican-2022-10-24T12:20:46.303725-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666635681",
+      "size": "1558",
+      "md5": "d19e08892b5ccce5ac815be09fe7e30a",
+      "crc32": "eb1d4317",
+      "sha1": "0fcfbbdbd0568c7fbfecc2730466080a5021f485",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-10-24T12:20:46.303725-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666635684",
+      "size": "214",
+      "md5": "45f39092c7ed81f7cbba3cb4f066b629",
+      "crc32": "4672287c",
+      "sha1": "8d3fce2cdd2b53c420d2ff655beeee95d2d9a195",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-10-24T12:20:46.303725-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewmexican-2022-10-24T12:20:46.303725-06:00.jpg",
+      "mtime": "1666635801",
+      "size": "8855",
+      "md5": "b820b6c5086992d2c11a6de556b01820",
+      "crc32": "723cee90",
+      "sha1": "12ea93f5c0c9e0b80a6f573e44da1d671db4a94e"
+    },
+    {
+      "name": "thenewmexican-2022-10-25T02:32:36.529380-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666686759",
+      "size": "30248",
+      "md5": "5bc8c55657835f05dd270079542b518c",
+      "crc32": "81c061d5",
+      "sha1": "46b7c05771f6dc9e587d690864da51252ce05c45",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-10-25T02:32:36.529380-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666686761",
+      "size": "51999",
+      "md5": "07d37b53bd09cde3f53ca0b370047178",
+      "crc32": "78844403",
+      "sha1": "1adaa76014a1179a6b08b30f01f5e82018325bf3",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-10-25T02:32:36.529380-06:00.jpg",
+      "source": "original",
+      "mtime": "1666686758",
+      "size": "309778",
+      "md5": "71f8de6db8c6178ad5202305d97a253e",
+      "crc32": "82045a33",
+      "sha1": "726514aa12cd01014d661dd1ad778ba7815a495e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenewmexican-2022-10-25T02:32:36.529380-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666686763",
+      "size": "1558",
+      "md5": "191fa21e46b54fd4a3e13b5fd5981a65",
+      "crc32": "06da92ce",
+      "sha1": "79a0adfba118733e4dd17247e6734e9f1a833f89",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-10-25T02:32:36.529380-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666686765",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thenewmexican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d3e47cd8354e464c6818219f913e1f774c9b143",
-      "mtime": "1666593978",
-      "size": "379445",
-      "md5": "d5bde7c126c998b02c30fdc43e186058",
-      "crc32": "b1ba6ba4",
-      "sha1": "bccc071be4bb513721455e8a7224736ffd793419",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "3708d79dc801cdc2c50b1f424bf39da582dae549",
+      "mtime": "1666686860",
+      "size": "381826",
+      "md5": "a45feb775c759086033cfe7064d68177",
+      "crc32": "e0fd0a99",
+      "sha1": "8b7c581650d20f2abe0e074f48da88980e3333f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewmexican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "89bc348fa75b1bb2e7f1c2423f56302b",
-=======
-      "md5": "74b4ca45a98f73790e5ec7f62fcf03b1",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "9a1b6c3cba85f5126264aae76f069692",
       "summation": "md5"
     },
     {
       "name": "thenewmexican-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666296776",
-      "size": "2076672",
-      "md5": "148f9b01415e11736deaadb7982107ab",
-      "crc32": "56f0bc33",
-      "sha1": "6533bed305301037b315e54c7346a2e3eae41f4d",
-=======
-      "mtime": "1666593842",
-      "size": "2129920",
-      "md5": "29362b14546f8140e6e93126f35b3d64",
-      "crc32": "c7d38483",
-      "sha1": "6d28d24892732c9fb30a2a2edd3f6e87ac0f4c6d",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666686788",
+      "size": "2146304",
+      "md5": "232e20652ab3129e8471fbcf65adc744",
+      "crc32": "d41254f2",
+      "sha1": "d121edbf4c396690f7166b4011b747a2eca2dac8",
       "format": "Metadata"
     },
     {
@@ -18343,15 +18429,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1715,
-  "item_last_updated": 1666296865,
-  "item_size": 148412255,
-=======
-  "files_count": 1757,
-  "item_last_updated": 1666593978,
-  "item_size": 151355448,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1768,
+  "item_last_updated": 1666686860,
+  "item_size": 152154139,
   "metadata": {
     "identifier": "thenewmexican-2022",
     "collection": [
@@ -18368,14 +18448,21 @@
     "publicdate": "2022-03-25 03:48:42",
     "addeddate": "2022-03-25 03:48:42"
   },
-  "server": "ia802501.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 766815928,
-=======
-  "uniq": 1190851338,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "pending_tasks": true,
+  "server": "ia902501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451240547,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2125491123,
   "workable_servers": [
-    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }
