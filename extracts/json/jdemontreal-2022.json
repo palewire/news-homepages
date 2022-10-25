@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666332267,
-=======
-  "created": 1666590123,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666685928,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/jdemontreal-2022",
@@ -13424,16 +13420,6 @@
       "sha1": "cd2f7e52acff313a85e0614769f865a14296fefd"
     },
     {
-<<<<<<< HEAD
-      "name": "jdemontreal-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "583a8f0010c9fdf21d92a9f4b09e2d8900f44b32",
-      "mtime": "1666332256",
-      "size": "277216",
-      "md5": "1883f86f5e8fdb532221f1fb996072f5",
-      "crc32": "98f7593e",
-      "sha1": "24cb1fee6a6e49cb6096be75e88144c9c9061a0d",
-=======
       "name": "jdemontreal-2022-10-21T14:29:02.437559-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666376962",
@@ -13796,44 +13782,133 @@
       "sha1": "1eeb578cb406994658c6a3cc46443bdf04df9b08"
     },
     {
+      "name": "jdemontreal-2022-10-24T13:09:40.987592-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666631387",
+      "size": "25373",
+      "md5": "5353cd044e5722ba463e75d01300e47e",
+      "crc32": "3929331f",
+      "sha1": "c27adbe0c02182ec6c40fd5367bc1a6c2615cab7",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-24T13:09:40.987592-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666631389",
+      "size": "41156",
+      "md5": "c798086ef84cc23969df1c59176a96c2",
+      "crc32": "3f80c8aa",
+      "sha1": "84e56049b394710ffac4d08213a28a33de0cfba7",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-24T13:09:40.987592-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666631390",
+      "size": "1555",
+      "md5": "874ee611cc16f6bc6daf766518bafe51",
+      "crc32": "148aa20e",
+      "sha1": "53cf7666f29293e7cc722d3bfdd7957fa299eea2",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-24T13:09:40.987592-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666631392",
+      "size": "35310",
+      "md5": "131f5250b0854a9701994685c7f79ccc",
+      "crc32": "82ab30c0",
+      "sha1": "dad659a49710f31bf67c22e0bd0b1c4bd99daf70",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-25T02:35:36.849495-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666679740",
+      "size": "26741",
+      "md5": "31f1c90c55d942ec53bd94317265be16",
+      "crc32": "8906a505",
+      "sha1": "d4b48fc038bd96da4844b7db86d2e7bdc5c6123d",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-25T02:35:36.849495-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666679741",
+      "size": "43352",
+      "md5": "ccf2a95b6251efb105a28372a708caf8",
+      "crc32": "1597a54b",
+      "sha1": "e1f104731f6bb4524865091750d5b5758e196b62",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-25T02:35:36.849495-04:00.jpg",
+      "source": "original",
+      "mtime": "1666679738",
+      "size": "233595",
+      "md5": "34e9a67d3a164dc9829f261eae961b4e",
+      "crc32": "9655dc1e",
+      "sha1": "6d2fddd9d565011c329b03e334b3281cc56a70dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jdemontreal-2022-10-25T02:35:36.849495-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666679743",
+      "size": "1556",
+      "md5": "d359a1ec51780017f66c66501263655e",
+      "crc32": "7dec49bb",
+      "sha1": "b1749851eb0c1f59b9c13504ba0bab443c40c81c",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-25T02:35:36.849495-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666679745",
+      "size": "31358",
+      "md5": "c58c3d33d235a28067cc75f092baf9a5",
+      "crc32": "322dbd7b",
+      "sha1": "d5c84be78f826543d4de332158463f0af85a26a0",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-25T02:35:36.849495-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jdemontreal-2022-10-25T02:35:36.849495-04:00.jpg",
+      "mtime": "1666682251",
+      "size": "9997",
+      "md5": "9dc913ca5fe2842bdb09b62b6aadf500",
+      "crc32": "47d35879",
+      "sha1": "4ac04e8316693aedbb77fbdaa464093bb4016c50"
+    },
+    {
       "name": "jdemontreal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "953c9ef5d26b777d2d1edc0f44f14615e5732c92",
-      "mtime": "1666590101",
-      "size": "284670",
-      "md5": "31bd93a584c45ada9bec180cc6a6b05b",
-      "crc32": "03484c7e",
-      "sha1": "01f01014ed592d5b3089608735ae7a4dc75f5030",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "fe15c8a94ec9bea6022a26b69d20fddf485f37d1",
+      "mtime": "1666682395",
+      "size": "286810",
+      "md5": "afa4547e603c63132e712adceb21ce97",
+      "crc32": "d3e5d630",
+      "sha1": "742cc50adb51e2f5371a19d876fe464700ad65fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jdemontreal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "15ebc27187bf4bc1ce4732e50076143c",
-=======
-      "md5": "59176ccba8c520dadae529a8634c2aa4",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "f357de6848b821af4097cce5d5ed0983",
       "summation": "md5"
     },
     {
       "name": "jdemontreal-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666332175",
-      "size": "1617920",
-      "md5": "f61f41363944a9e719e8c0f252330a73",
-      "crc32": "5a2be639",
-      "sha1": "ad9d481c0d30b3046ecc4ca0aaf7beab6b153560",
-=======
-      "mtime": "1666589913",
-      "size": "1667072",
-      "md5": "015feaec028ee0c997ba515c6e250509",
-      "crc32": "e9d9e647",
-      "sha1": "39e2a2b8530503ff900550b2c3c6ba8bc03bc67b",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666679775",
+      "size": "1679360",
+      "md5": "87bbbd4dc69c2a02c257a760f0cdf235",
+      "crc32": "20331463",
+      "sha1": "04870e6177a72b55854750d36a3f1d31406a236a",
       "format": "Metadata"
     },
     {
@@ -13847,15 +13922,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1297,
-  "item_last_updated": 1666332256,
-  "item_size": 85675605,
-=======
-  "files_count": 1332,
-  "item_last_updated": 1666590101,
-  "item_size": 87782600,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1342,
+  "item_last_updated": 1666682395,
+  "item_size": 88247021,
   "metadata": {
     "identifier": "jdemontreal-2022",
     "collection": [
@@ -13873,11 +13942,7 @@
     "addeddate": "2022-06-30 22:35:37"
   },
   "server": "ia801407.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 1585938229,
-=======
-  "uniq": 1655719918,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "uniq": 806826205,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"
