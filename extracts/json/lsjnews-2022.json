@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666358973,
-=======
-  "created": 1666616349,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666661807,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/lsjnews-2022",
@@ -3884,16 +3880,6 @@
       "sha1": "d883cbcee2860d2c807e3d7b266a7e68bb9ee6b1"
     },
     {
-<<<<<<< HEAD
-      "name": "lsjnews-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "31f4ccda8206965ba8785ed8f73136834bfb48ec",
-      "mtime": "1666358956",
-      "size": "79912",
-      "md5": "56e09bac6e4de57d0cb7efeaba135286",
-      "crc32": "01261eae",
-      "sha1": "31b186c10f3f3d38b0edd02d99e7f40242da7164",
-=======
       "name": "lsjnews-2022-10-21T21:11:40.467302-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666401105",
@@ -4274,36 +4260,23 @@
       "md5": "dc8c4f84e4398306b0ff816a57ee23c7",
       "crc32": "15abc7ea",
       "sha1": "8bfe6933f99cac07aecb6b2df07e58a64631b69a",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Archive BitTorrent"
     },
     {
       "name": "lsjnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "d663471752a61e10d41c1586cb514312",
-=======
       "md5": "955e9fa7ef46f94c010ad88a82e6dd02",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "summation": "md5"
     },
     {
       "name": "lsjnews-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666358891",
-      "size": "491520",
-      "md5": "ba22dca69c3be8d8d938caa3275e9f05",
-      "crc32": "031eaad8",
-      "sha1": "559b1c925c57a2e1d0572b8a352e7d7502d13db5",
-=======
       "mtime": "1666616288",
       "size": "540672",
       "md5": "e1b6f536871cf22778b2bab9016bd5fb",
       "crc32": "c7812ce4",
       "sha1": "be735961c2826ec79aae9be4708b32d6f3448e3b",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
       "format": "Metadata"
     },
     {
@@ -4317,15 +4290,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 379,
-  "item_last_updated": 1666358956,
-  "item_size": 25600207,
-=======
   "files_count": 415,
   "item_last_updated": 1666616343,
   "item_size": 27935730,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   "metadata": {
     "identifier": "lsjnews-2022",
     "collection": [
@@ -4342,18 +4309,53 @@
     "publicdate": "2022-09-20 22:27:52",
     "addeddate": "2022-09-20 22:27:52"
   },
-<<<<<<< HEAD
-  "server": "ia801505.us.archive.org",
-  "uniq": 1184368942,
-  "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
-=======
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 1612690282,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3450447695,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3450447776,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3450447867,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3450447945,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3450448030,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1531329357,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+    "ia601505.us.archive.org"
   ]
 }
