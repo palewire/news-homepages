@@ -1,5 +1,5 @@
 {
-  "created": 1666656506,
+  "created": 1666701880,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/28/items/goupstate-2022",
@@ -4356,31 +4356,93 @@
       "sha1": "73a08a42f8962f11abf91c6ebd9f0e06230b1822"
     },
     {
+      "name": "goupstate-2022-10-25T08:07:01.125303-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699628",
+      "size": "21646",
+      "md5": "dbf2eb89b1da728d80ef6165edf093ac",
+      "crc32": "8a004e8c",
+      "sha1": "1bd88ce6948ef4c66fa8806a7621496209ab0a0d",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-25T08:07:01.125303-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699629",
+      "size": "29019",
+      "md5": "14cda1324ac57ee1414baff20d421078",
+      "crc32": "7a1cf2e0",
+      "sha1": "51adbf0d1a5cd6c6d4a07620dc6928e228d843dc",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-25T08:07:01.125303-04:00.jpg",
+      "source": "original",
+      "mtime": "1666699625",
+      "size": "243023",
+      "md5": "a99468dded0b8715bc119caba3649bad",
+      "crc32": "88f44c3d",
+      "sha1": "b1f7aecfdce02aac74170263c96369a65e04d29a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "goupstate-2022-10-25T08:07:01.125303-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699631",
+      "size": "1485",
+      "md5": "507d7d9659e7cdec31783f9cec2cc7c3",
+      "crc32": "0243200d",
+      "sha1": "2de89566489ab190b7db3631a3d0b2dbb0639684",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-25T08:07:01.125303-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699633",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "goupstate-2022-10-25T08:07:01.125303-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "goupstate-2022-10-25T08:07:01.125303-04:00.jpg",
+      "mtime": "1666701770",
+      "size": "8599",
+      "md5": "6f92beee95ea0557c9bedbefbfbdd872",
+      "crc32": "a225c105",
+      "sha1": "1cc50a724e0faac185343bfa899e482378ddc10e"
+    },
+    {
       "name": "goupstate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca0199e3f80092e09327394d6af54475d1e9466a",
-      "mtime": "1666656475",
-      "size": "90355",
-      "md5": "9b3941ffe6619579c21e8a660934ae19",
-      "crc32": "82f5aa42",
-      "sha1": "27a89030576575854ce180a8b0bd560bef591960",
+      "btih": "e65c81646e2139a41d6c9a9c5fc4d6bce923660d",
+      "mtime": "1666701836",
+      "size": "91626",
+      "md5": "923e224ae75c0edbd0dce70a13070aae",
+      "crc32": "b7619d94",
+      "sha1": "25ba616aa3f3653156b80ce2b46f55ddee610697",
       "format": "Archive BitTorrent"
     },
     {
       "name": "goupstate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a803ef1814dbeb4d56803e5b8dadb8cf",
+      "md5": "a5468b0136839a1a20671e5d986f30b2",
       "summation": "md5"
     },
     {
       "name": "goupstate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666656337",
-      "size": "552960",
-      "md5": "e217c8a117ee609d6b896ca4850e08e2",
-      "crc32": "be2c6258",
-      "sha1": "7f49777e5fa13040176862ae47dda7fa760af59b",
+      "mtime": "1666699670",
+      "size": "561152",
+      "md5": "699e6b9c54cb52d89a65c10e6c5fcd50",
+      "crc32": "d67f6729",
+      "sha1": "66107d068448c218a7fb7c961292e015b2149152",
       "format": "Metadata"
     },
     {
@@ -4394,9 +4456,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 425,
-  "item_last_updated": 1666656475,
-  "item_size": 27794763,
+  "files_count": 431,
+  "item_last_updated": 1666701836,
+  "item_size": 28108200,
   "metadata": {
     "identifier": "goupstate-2022",
     "collection": [
@@ -4414,7 +4476,7 @@
     "addeddate": "2022-09-20 22:18:26"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 220593309,
+  "uniq": 758346571,
   "workable_servers": [
     "ia601505.us.archive.org",
     "ia801505.us.archive.org"

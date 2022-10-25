@@ -1,5 +1,6 @@
 {
-  "created": 1666656194,
+  "conflict": 1666702057,
+  "created": 1666702057,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/desertsunnews-2022",
@@ -4356,31 +4357,93 @@
       "sha1": "ea8a52949ed3322ff68a4425810f08e6e605b474"
     },
     {
+      "name": "desertsunnews-2022-10-25T05:02:55.290313-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699388",
+      "size": "20205",
+      "md5": "632d6e540c44c378442b8846ad4cc4ab",
+      "crc32": "6ee0629a",
+      "sha1": "40d09bc4ad76635d6385dd8afef8668072d1e050",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-25T05:02:55.290313-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699390",
+      "size": "37580",
+      "md5": "3a276eb1fae09cde6222fac9b65d4812",
+      "crc32": "261f5688",
+      "sha1": "6bb628769f3372d786cede6110b7d961d6a390c9",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-25T05:02:55.290313-07:00.jpg",
+      "source": "original",
+      "mtime": "1666699386",
+      "size": "231439",
+      "md5": "c6bd760fe35441f41ecb052d278f6405",
+      "crc32": "2b1125fd",
+      "sha1": "70fb13aafef8f55254b49a35c7c9e820ebdc022e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-25T05:02:55.290313-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699391",
+      "size": "1486",
+      "md5": "679cc97a2c9f09a42bf19a0dc608f7d2",
+      "crc32": "f43a54a2",
+      "sha1": "a2bf3d021fa939cbdab50d4845758883155cf007",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-25T05:02:55.290313-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699393",
+      "size": "109056",
+      "md5": "22233c876d69cbeba5503fde638f38c4",
+      "crc32": "ebe630a5",
+      "sha1": "686c8f372be70f701af71b41761a056a9bc36072",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-25T05:02:55.290313-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-25T05:02:55.290313-07:00.jpg",
+      "mtime": "1666701977",
+      "size": "8835",
+      "md5": "1307fcce37fec596237ebdd57ef6d4e8",
+      "crc32": "f5456d2b",
+      "sha1": "037ddc967f2a8ddf201c6a6d420fc1e38185a4cd"
+    },
+    {
       "name": "desertsunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "302e8fbcf15ca0ceada13246e7a7d68d19319375",
-      "mtime": "1666656180",
-      "size": "92103",
-      "md5": "07d8f89dd9da4b01dba807ea7b267d0a",
-      "crc32": "774e5baf",
-      "sha1": "9d01b7465e8536223701406bcdcd436f17412867",
+      "btih": "6d044d7a918f29225b5566ed9c84fa61d54d5c4e",
+      "mtime": "1666702013",
+      "size": "93401",
+      "md5": "4afe4caf88368def9873e7d3f83873b0",
+      "crc32": "ecf4213e",
+      "sha1": "7a0fb3974b53841ddd77e781c8d3680a8ad09003",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desertsunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7609c05953f5259fd70297676476945",
+      "md5": "a7571fc6cf6f43ee7e4b35c6b380b57e",
       "summation": "md5"
     },
     {
       "name": "desertsunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666656133",
-      "size": "561152",
-      "md5": "cdedf9388db45856c7fcbda5c38c5c75",
-      "crc32": "929dc195",
-      "sha1": "20a579aa35683363d0fe3a2f4b009331494024a5",
+      "mtime": "1666699449",
+      "size": "569344",
+      "md5": "e85be9ddfdb9a9933a6785543387cec9",
+      "crc32": "3cc8c29d",
+      "sha1": "7569fc51126db0a43b1e33cb06bff836713342fb",
       "format": "Metadata"
     },
     {
@@ -4394,9 +4457,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 425,
-  "item_last_updated": 1666656180,
-  "item_size": 28110177,
+  "files_count": 431,
+  "item_last_updated": 1666702013,
+  "item_size": 28528268,
   "metadata": {
     "identifier": "desertsunnews-2022",
     "collection": [
@@ -4413,10 +4476,29 @@
     "publicdate": "2022-09-20 22:16:38",
     "addeddate": "2022-09-20 22:16:38"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 957799865,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451617048,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3451656915,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1362541177,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666656071,
+  "created": 1666701513,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/20/items/corriere-2022",
@@ -9492,31 +9492,93 @@
       "sha1": "b12d0eafb3aae469af39f9a59d71cebdfa28abe5"
     },
     {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699330",
+      "size": "132314",
+      "md5": "72d77e4d15066fe42e0822bdd8b1d877",
+      "crc32": "0a18cac5",
+      "sha1": "b473856d43ea38a4b06134ba33bc1740bd650180",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699332",
+      "size": "215202",
+      "md5": "1002274a38427f6780890f2660467792",
+      "crc32": "e2ada631",
+      "sha1": "92da9e2dd5d91a8333c6f011f9dab23f49852d98",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.jpg",
+      "source": "original",
+      "mtime": "1666699327",
+      "size": "140264",
+      "md5": "dcd1be6da8eda17779bdc0249a93309a",
+      "crc32": "dfdc97b6",
+      "sha1": "ba8dfaa25cf89b185e8cc0bfa3f63ca284ac2d1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699333",
+      "size": "1468",
+      "md5": "e5279a2397ec0ed1ccf9c7a0414f6737",
+      "crc32": "6412f59d",
+      "sha1": "681d2afded826ea3a336c1b580f7b99c46487f51",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699335",
+      "size": "39347",
+      "md5": "c7260f16e6011433fb5d158a11dcf3b1",
+      "crc32": "c2d7814d",
+      "sha1": "9565d3f14426655f84631e8b9db51fa7428d3017",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "corriere-2022-10-25T14:01:55.921115+02:00.jpg",
+      "mtime": "1666701465",
+      "size": "7167",
+      "md5": "116f887e3b7e908b7324547327a026d1",
+      "crc32": "8b0e91f4",
+      "sha1": "140c6ed68290d2d6da816a472579ac2d218c0ac4"
+    },
+    {
       "name": "corriere-2022_archive.torrent",
       "source": "metadata",
-      "btih": "60564d14f5cb0855a0f0ef9fb8bba080d22f7810",
-      "mtime": "1666656030",
-      "size": "195643",
-      "md5": "fbeb3c633428aef8091f2884fe947de0",
-      "crc32": "816d73c5",
-      "sha1": "ac7362d980d5456cabbf091e159a2becc8f7631e",
+      "btih": "50acad9cab0bd799424b658e27e36725ba43bd33",
+      "mtime": "1666701497",
+      "size": "196912",
+      "md5": "78d7e21961cbea28d17087b788998bf8",
+      "crc32": "7eaa95a4",
+      "sha1": "9791d115bee91f9909c2157e098ee110153a4de2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "corriere-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19ea52f46ec04ff010a9bf83aec66539",
+      "md5": "b1c4df223196efadde37e67685bcfefd",
       "summation": "md5"
     },
     {
       "name": "corriere-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666655951",
-      "size": "1179648",
-      "md5": "0a31995ad80fde9845ac18368ee7dd96",
-      "crc32": "0d54d7d6",
-      "sha1": "129a55c707ad30530f89b599b002aa7d15c61b5c",
+      "mtime": "1666699400",
+      "size": "1187840",
+      "md5": "a9a0684744e8991c3d8498c00d36684f",
+      "crc32": "0f682f5e",
+      "sha1": "42c0e21b01785c0305c440862bbef6c375377f21",
       "format": "Metadata"
     },
     {
@@ -9530,9 +9592,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 922,
-  "item_last_updated": 1666656030,
-  "item_size": 85581376,
+  "files_count": 928,
+  "item_last_updated": 1666701497,
+  "item_size": 86126599,
   "metadata": {
     "identifier": "corriere-2022",
     "collection": [
@@ -9550,7 +9612,7 @@
     "addeddate": "2022-08-11 00:42:02"
   },
   "server": "ia802500.us.archive.org",
-  "uniq": 2146629617,
+  "uniq": 1374617894,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"
