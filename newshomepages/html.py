@@ -13,35 +13,15 @@ from . import utils
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
 @click.option("-w", "--wait", "wait", default=5000)
-@click.option("-x", "--width", "width", default=1300)
-@click.option("-y", "--height", "height", default=1600)
-@click.option(
-    "-f",
-    "--full-page",
-    "full_page",
-    is_flag=True,
-    default=False,
-    help="Lazy load all images, just to make sure they're in the final single-page html",
-)
 def cli(
     handle: str,
     output_dir: str = "./",
     wait: str = "5000",
-    width: str = "1300",
-    height: str = "1600",
-    full_page: bool = False,
 ):
     """Save HTML for the provided homepage."""
     site = utils.get_site(handle)
     output_path = Path(output_dir)
-    _save_html(
-        site,
-        output_path,
-        wait=int(wait),
-        width=int(width),
-        height=int(height),
-        full_page=bool(full_page),
-    )
+    _save_html(site, output_path, wait=int(wait))
 
 
 @retry(tries=3, delay=5, backoff=2)
@@ -49,9 +29,6 @@ def _save_html(
     site: typing.Dict,
     output_path: Path,
     wait: int = 5000,
-    width: int = 1300,
-    height: int = 1600,
-    full_page: bool = False,
 ):
     """Shoot the provided site."""
     print(f":camera: Fetching HML for {site['name']}")
@@ -60,13 +37,13 @@ def _save_html(
     output_path.mkdir(parents=True, exist_ok=True)
 
     with sync_playwright() as playwright:
-        context = utils._load_persistent_context(playwright, width, height)
+        context = utils._load_persistent_context(playwright)
         page = utils._load_new_page_disable_javascript(
             context=context,
             url=site["url"],
             wait_seconds=int((site["wait"] or wait) / 1000),
             handle=site["handle"],
-            full_page=full_page,
+            full_page=True,
         )
 
         single_file_pre_load_extensions = [
@@ -116,10 +93,10 @@ def _save_html(
         ).get("content")
 
         if page_html_content is None:
-            print("NO HTML CONTENT!")
+            raise ValueError("HTML content for page is None.")
 
-        html_file_path = str(output_path / f"{site['handle'].lower()}.html")
-        with open(html_file_path, "w") as output_file:
+        output_file_path = output_path / f"{site['handle'].lower()}.html"
+        with open(output_file_path, "w") as output_file:
             output_file.write(page_html_content)
 
         # Close it out
