@@ -1,5 +1,5 @@
 {
-  "created": 1666687397,
+  "created": 1666722336,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/platformer-2022",
@@ -11153,31 +11153,93 @@
       "format": "JSON"
     },
     {
+      "name": "platformer-2022-10-25T01:41:53.053251-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "platformer-2022-10-25T01:41:53.053251-07:00.jpg",
+      "mtime": "1666691224",
+      "size": "8986",
+      "md5": "e31646a66b7a28b4cda5a846f6926904",
+      "crc32": "eaf39852",
+      "sha1": "e1af72043046355a40589c7700a3bad5de523ed8"
+    },
+    {
+      "name": "platformer-2022-10-25T11:22:18.560507-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666722156",
+      "size": "18374",
+      "md5": "f6141667de8558af5aef301960921b23",
+      "crc32": "55193a20",
+      "sha1": "59ea58355a6a73c8ca8d272fd2e510043d29595f",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-25T11:22:18.560507-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666722161",
+      "size": "14811",
+      "md5": "45c00ac96fbc2807847237ce8daadd3b",
+      "crc32": "d66747f0",
+      "sha1": "21caf48e6ec3cda63b3755c58f6b7cc374ccd243",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-25T11:22:18.560507-07:00.jpg",
+      "source": "original",
+      "mtime": "1666722149",
+      "size": "212249",
+      "md5": "0db3002105f50af980dcc2826edbdb34",
+      "crc32": "1eb98665",
+      "sha1": "470135dc2f4ab287354e47269a92c063dfbd31a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "platformer-2022-10-25T11:22:18.560507-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666722166",
+      "size": "1495",
+      "md5": "d1cd1af177db703356854ef8d798ba4e",
+      "crc32": "fc22fe06",
+      "sha1": "a6dd8f2ad48a25aa58395d1f4a4e195fb35ca0b2",
+      "format": "JSON"
+    },
+    {
+      "name": "platformer-2022-10-25T11:22:18.560507-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666722170",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "platformer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4dbb8b6ce5d217eb1c80eb0028172769881170b9",
-      "mtime": "1666687387",
-      "size": "229282",
-      "md5": "0c6212a777dec2d8a9783541d2aaf42f",
-      "crc32": "e340d027",
-      "sha1": "86942e6e9028247970bb0b6a44ac9bc2c5542abb",
+      "btih": "32b38ff47b62e722016cfef7c5d10347c6057f32",
+      "mtime": "1666722325",
+      "size": "230559",
+      "md5": "628dfb712f7cfe359376d712e9af701f",
+      "crc32": "851982e0",
+      "sha1": "fd37a1c1246dd9f97e7e34bb02d02c805fa23998",
       "format": "Archive BitTorrent"
     },
     {
       "name": "platformer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f7fef63280b28a68ff07ad9324b75193",
+      "md5": "d32b71ce646ec57df09f5d822dc6e346",
       "summation": "md5"
     },
     {
       "name": "platformer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666687338",
-      "size": "1380352",
-      "md5": "0312965b6a492978b32bbf230639e169",
-      "crc32": "edc71539",
-      "sha1": "ec7aeb3f95695901828754606bf6538b8d1d9cf5",
+      "mtime": "1666722278",
+      "size": "1388544",
+      "md5": "823965a83dc4c83b3f2daa251d0a3c41",
+      "crc32": "6c1c7e7b",
+      "sha1": "61e57b9a6a5ef8e97d07580ce43f5a4b488db44a",
       "format": "Metadata"
     },
     {
@@ -11191,9 +11253,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1082,
-  "item_last_updated": 1666687387,
-  "item_size": 46844487,
+  "files_count": 1088,
+  "item_last_updated": 1666722325,
+  "item_size": 47110073,
   "metadata": {
     "identifier": "platformer-2022",
     "collection": [
@@ -11215,15 +11277,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451260105,
+      "task_id": 3451938492,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1493304373,
+  "uniq": 634555412,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

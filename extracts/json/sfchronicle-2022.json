@@ -1,5 +1,5 @@
 {
-  "created": 1666688395,
+  "created": 1666722423,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -19971,31 +19971,93 @@
       "format": "JSON"
     },
     {
+      "name": "sfchronicle-2022-10-25T01:45:24.692208-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-10-25T01:45:24.692208-07:00.jpg",
+      "mtime": "1666693902",
+      "size": "10025",
+      "md5": "1a2131a25a349130d0e33c7fa0773566",
+      "crc32": "d1657c86",
+      "sha1": "855e5ef921cad749623d9037f143f3b350058e80"
+    },
+    {
+      "name": "sfchronicle-2022-10-25T11:24:57.102339-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666722312",
+      "size": "91620",
+      "md5": "168544bf5c8b0de78302048fb0c314fb",
+      "crc32": "e040e225",
+      "sha1": "208dbea1bc8e066b339ee4854a2df1f8363e6cc3",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-25T11:24:57.102339-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666722315",
+      "size": "108682",
+      "md5": "4f582f105e11bce89aa7c3abe1ad20d6",
+      "crc32": "12897530",
+      "sha1": "2c84e55853daf5549da619863ad84c2b8fd86194",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-25T11:24:57.102339-07:00.jpg",
+      "source": "original",
+      "mtime": "1666722309",
+      "size": "338520",
+      "md5": "99df4c9a9950a14bb5d670d52934b8a7",
+      "crc32": "28df5bd4",
+      "sha1": "86007ae57d091d2545e7f2d785739ff5dcdd0794",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sfchronicle-2022-10-25T11:24:57.102339-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666722318",
+      "size": "1504",
+      "md5": "258c07aebaa90bab62d852fb3e1365d9",
+      "crc32": "b360b4b6",
+      "sha1": "d308186b1fcf274f260bc49598a38ab50084035b",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-25T11:24:57.102339-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666722320",
+      "size": "64240",
+      "md5": "822d12b35c3030fe264fad266509586b",
+      "crc32": "6f90c4a8",
+      "sha1": "25a01e653e17b904990123c7562fb55369fa480b",
+      "format": "JSON"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7543bd6ac3eb8f1362242189a855a09367f3b32d",
-      "mtime": "1666687637",
-      "size": "413825",
-      "md5": "e361c78373cf0e0ab0bbc358bcdda6b5",
-      "crc32": "dd15cffc",
-      "sha1": "e96bd224ad1c152a723be3187098595bd4d4f023",
+      "btih": "afba8d392b28b496364e404e2c3a9e2c04dbe227",
+      "mtime": "1666722418",
+      "size": "415112",
+      "md5": "91d1f0914ce80f7f68595d557f113735",
+      "crc32": "a8a98824",
+      "sha1": "dbbd706630b5268a8bb3f86abc8d98f6059e10bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72458adafb2b265250766d26233379c5",
+      "md5": "5b134c52b7eeffa6a719016eccce99ba",
       "summation": "md5"
     },
     {
       "name": "sfchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666687571",
-      "size": "2334720",
-      "md5": "87194cba87409ae4d8a079f1c856bffc",
-      "crc32": "b472fcc5",
-      "sha1": "ffe7219f7c21940033da91e09da73114fdb4f493",
+      "mtime": "1666722352",
+      "size": "2342912",
+      "md5": "3bc33e37914b6abfea0c4be317d9736a",
+      "crc32": "25054e9e",
+      "sha1": "a15068e8da839cfeb6c8663245bae3e0440c348b",
       "format": "Metadata"
     },
     {
@@ -20009,9 +20071,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1921,
-  "item_last_updated": 1666687637,
-  "item_size": 220094403,
+  "files_count": 1927,
+  "item_last_updated": 1666722418,
+  "item_size": 220718473,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -20031,22 +20093,17 @@
   "pending_tasks": true,
   "server": "ia902504.us.archive.org",
   "servers_unavailable": true,
-  "sfchronicle-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "tasks": [
     {
-      "task_id": 3451267317,
+      "task_id": 3451940639,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 248846665,
+  "uniq": 1488053928,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

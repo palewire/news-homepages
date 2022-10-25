@@ -1,5 +1,5 @@
 {
-  "created": 1666687616,
+  "created": 1666723144,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/reviewjournal-2022",
@@ -12897,31 +12897,93 @@
       "format": "JSON"
     },
     {
+      "name": "reviewjournal-2022-10-25T01:45:36.169891-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reviewjournal-2022-10-25T01:45:36.169891-07:00.jpg",
+      "mtime": "1666691386",
+      "size": "10087",
+      "md5": "c88e8ac04109bbd1880c798a5fa5320c",
+      "crc32": "861a3ccc",
+      "sha1": "f8638598c1005dae84550b99e8d2481e19773506"
+    },
+    {
+      "name": "reviewjournal-2022-10-25T11:23:18.672003-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666722216",
+      "size": "59832",
+      "md5": "b4c56b60545af1f32d647fdcfd3b47b6",
+      "crc32": "554635f6",
+      "sha1": "d119d8bef34f0a13ba3e0bb14eac1b1e63c56398",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-10-25T11:23:18.672003-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666722219",
+      "size": "53794",
+      "md5": "6f595a23d41a2e4a259c329a1e85b717",
+      "crc32": "caad5b76",
+      "sha1": "a4d90e2286e52a31d709b84a9d3d0ec370020d41",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-10-25T11:23:18.672003-07:00.jpg",
+      "source": "original",
+      "mtime": "1666722213",
+      "size": "301235",
+      "md5": "a23f0436a1d41b81ba131ef9eb8d702c",
+      "crc32": "74c62d57",
+      "sha1": "9c1b540bdb10ad62ef59e81830f2a9603d3b9006",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reviewjournal-2022-10-25T11:23:18.672003-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666722221",
+      "size": "1520",
+      "md5": "f1b783d13897911402cdd6b128679387",
+      "crc32": "30edcac0",
+      "sha1": "4b56bb8efad61e59eaf6a7f627ace9fd3c19ab31",
+      "format": "JSON"
+    },
+    {
+      "name": "reviewjournal-2022-10-25T11:23:18.672003-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666722224",
+      "size": "51917",
+      "md5": "359401395b3ffed04067c34581c8d127",
+      "crc32": "a54df469",
+      "sha1": "b3b44fddb1f761d0bcbfe867514bdfbcd7bb8c8d",
+      "format": "JSON"
+    },
+    {
       "name": "reviewjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c80734d0af2602c28b2307dee45dfe114bb993a4",
-      "mtime": "1666687612",
-      "size": "270039",
-      "md5": "d41a68cfa2f57f75e68455f4974fb208",
-      "crc32": "7f89c635",
-      "sha1": "b192e247bedf9961f30ed21c9b32c40e05cf2984",
+      "btih": "3cfa3e57066707ac5a4548db1ad3ebace8b2ee96",
+      "mtime": "1666722329",
+      "size": "271337",
+      "md5": "4f6a99bdbe19651cb6d2e1402da6ad67",
+      "crc32": "498f677c",
+      "sha1": "ef6b039ad0083dead025216465e001bcdbd2569f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reviewjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f85c2a875c1084d304c49944b77b9abe",
+      "md5": "938edd9245724b800352926325f84948",
       "summation": "md5"
     },
     {
       "name": "reviewjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666687564",
-      "size": "1576960",
-      "md5": "d05a6434a687b132f15258022c86e7f9",
-      "crc32": "b6b8dd29",
-      "sha1": "77521cd479ca0965e309b3c2134e26e4f98a9e6a",
+      "mtime": "1666722280",
+      "size": "1581056",
+      "md5": "1f2fb7b21cbaca54e6136093fbf25fd3",
+      "crc32": "6e66aca0",
+      "sha1": "43d0d0d2f567ae7b0ad40757145497ffe885c59f",
       "format": "Metadata"
     },
     {
@@ -12935,9 +12997,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1248,
-  "item_last_updated": 1666687612,
-  "item_size": 104851926,
+  "files_count": 1254,
+  "item_last_updated": 1666722329,
+  "item_size": 105335705,
   "metadata": {
     "identifier": "reviewjournal-2022",
     "collection": [
@@ -12959,15 +13021,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451266672,
+      "task_id": 3451938410,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1319174124,
+  "uniq": 1875767261,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

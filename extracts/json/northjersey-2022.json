@@ -1,5 +1,6 @@
 {
-  "created": 1666687170,
+  "conflict": 1666723440,
+  "created": 1666723440,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/14/items/northjersey-2022",
@@ -4345,31 +4346,93 @@
       "format": "JSON"
     },
     {
+      "name": "northjersey-2022-10-25T04:38:33.569680-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-25T04:38:33.569680-04:00.jpg",
+      "mtime": "1666690730",
+      "size": "9347",
+      "md5": "b771c73aeb5099861d0c64e7ece94583",
+      "crc32": "72776147",
+      "sha1": "53dba774a8d2c3c519431a58592b4f7e382d2496"
+    },
+    {
+      "name": "northjersey-2022-10-25T14:19:41.201326-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666722005",
+      "size": "21321",
+      "md5": "eed8d70f9a08ce930cd2f2fefb38a6f6",
+      "crc32": "ba732cec",
+      "sha1": "f11ba4b5301d03e81a0af9a9308ebd54c3bed192",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-25T14:19:41.201326-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666722016",
+      "size": "33525",
+      "md5": "390c5fd91bc9eb247ccdef597153a9ec",
+      "crc32": "1db8cea5",
+      "sha1": "a5fecc42ef144c06b9f7c5233c8273b7b3f7b0a4",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-25T14:19:41.201326-04:00.jpg",
+      "source": "original",
+      "mtime": "1666721995",
+      "size": "287551",
+      "md5": "3d93302ff81bb5435b98754587ea1ca7",
+      "crc32": "7238785f",
+      "sha1": "6c93f6c7225f9b4c6201d64369371c114803a6fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-25T14:19:41.201326-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666722025",
+      "size": "1504",
+      "md5": "643c23a3e1d26ca6ec10d132c3889b0b",
+      "crc32": "ca996c8f",
+      "sha1": "32191627048610d7b01238556f1776b3f4204c3a",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-25T14:19:41.201326-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666722034",
+      "size": "116661",
+      "md5": "e86d299620b8c42a3e011fc8f09488cb",
+      "crc32": "6c25b22f",
+      "sha1": "4c89e1c7058772ca31258a4db268d21025154924",
+      "format": "JSON"
+    },
+    {
       "name": "northjersey-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0f0d353b451c495d8eea1aa39cdda988b5208d2c",
-      "mtime": "1666687164",
-      "size": "91122",
-      "md5": "d10dc8865acc64d83cd56d7af4885951",
-      "crc32": "f8ef4c4f",
-      "sha1": "beae743ae3b909f365e422df5f24c9622e1f7e3b",
+      "btih": "04110f6200e59ec8c3f9cf0bfe400e3ad4e371bc",
+      "mtime": "1666722187",
+      "size": "92388",
+      "md5": "ee83942b2f69ac8ba27d924bf89a1084",
+      "crc32": "407695d9",
+      "sha1": "3822450dc57e31c5cc965d6329638aa941abc2b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "northjersey-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61c69917d0fc534532f66245c8362e2d",
+      "md5": "0de59392ac389555b3bcea7cbb2f3c68",
       "summation": "md5"
     },
     {
       "name": "northjersey-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666687127",
-      "size": "552960",
-      "md5": "47c7154d6f095298d69a4cf1816599c3",
-      "crc32": "dbb9edfb",
-      "sha1": "2a8bbf06dfc9915de8442954e72168d65454f5a2",
+      "mtime": "1666722141",
+      "size": "569344",
+      "md5": "e3cedb68d006fb7c63e821e3d7112efa",
+      "crc32": "e98b0dc3",
+      "sha1": "b6790a86da73dc14d4ff77924b4b7487842c53da",
       "format": "Metadata"
     },
     {
@@ -4383,9 +4446,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 424,
-  "item_last_updated": 1666687164,
-  "item_size": 29460796,
+  "files_count": 430,
+  "item_last_updated": 1666722187,
+  "item_size": 29948355,
   "metadata": {
     "identifier": "northjersey-2022",
     "collection": [
@@ -4407,15 +4470,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451253081,
+      "task_id": 3451934674,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1758930333,
+  "uniq": 612911213,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

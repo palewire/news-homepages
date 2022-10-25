@@ -1,5 +1,5 @@
 {
-  "created": 1666687755,
+  "created": 1666722515,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/southcoasttoday-2022",
@@ -4303,31 +4303,93 @@
       "format": "JSON"
     },
     {
+      "name": "southcoasttoday-2022-10-25T04:48:19.175642-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-25T04:48:19.175642-04:00.jpg",
+      "mtime": "1666691481",
+      "size": "9329",
+      "md5": "e791d2d92e58e0d54091c11e1e51d6c0",
+      "crc32": "c59edc46",
+      "sha1": "a430fbb971cb6650ea195b91b954de8f56d01302"
+    },
+    {
+      "name": "southcoasttoday-2022-10-25T14:26:15.584383-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666722378",
+      "size": "21798",
+      "md5": "8291aa60cef3a247c75ed8b70422dd9c",
+      "crc32": "5c200afb",
+      "sha1": "8e34b9d28bd54a3b57f67016f8db7d344e850e92",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-25T14:26:15.584383-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666722381",
+      "size": "33724",
+      "md5": "1b001e96ef9edaf1d9e5051cbedd8ead",
+      "crc32": "da7554b9",
+      "sha1": "04045adc2491d6320f0e83c60b00e83116d1e436",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-25T14:26:15.584383-04:00.jpg",
+      "source": "original",
+      "mtime": "1666722376",
+      "size": "265148",
+      "md5": "de9ef450d5eda5ca174ce740b49470ff",
+      "crc32": "789b49a9",
+      "sha1": "5ef448d694672b99628533bf1decec6986c27ba8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-25T14:26:15.584383-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666722384",
+      "size": "1540",
+      "md5": "c31b905852e3f049f2ea2b6e8b59bb6f",
+      "crc32": "78446cc2",
+      "sha1": "5ab3a13600031febd3d0677150ebc233c02360b0",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-25T14:26:15.584383-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666722386",
+      "size": "105073",
+      "md5": "0df1909efbf821ffa7e4b349fb545ad7",
+      "crc32": "6b671f81",
+      "sha1": "8c531a76dd056600cda09fc947356ae2efae821d",
+      "format": "JSON"
+    },
+    {
       "name": "southcoasttoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dfa0b8b263eceb1eb1f39da3a7714d6f607af1f5",
-      "mtime": "1666687752",
-      "size": "91940",
-      "md5": "cdcc44ed12bd6d5a416fe5bbbfc09437",
-      "crc32": "aed995b4",
-      "sha1": "13ecbd34486fab2e271c3ac337e87145f0edc3be",
+      "btih": "c0460baf9588972590c53310211620285e97f66f",
+      "mtime": "1666722505",
+      "size": "93250",
+      "md5": "64af638e68d20ae0f1dba6925ad76637",
+      "crc32": "71678185",
+      "sha1": "f046a30e35205b8db65c5850a6dddc7c34ef580b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southcoasttoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d66865fef9f96ff0381507a91ef63a55",
+      "md5": "f4a15b22cbf00b4411bf917062e4ed69",
       "summation": "md5"
     },
     {
       "name": "southcoasttoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666687714",
-      "size": "557056",
-      "md5": "6931213f9bca48d4474b0b5f2194bd4c",
-      "crc32": "54c587c1",
-      "sha1": "585c1981456a72e5e33d09a58ed5b61cde90d3c3",
+      "mtime": "1666722462",
+      "size": "565248",
+      "md5": "23440b06dd60bc43f13fc469a041b88a",
+      "crc32": "976b0f5e",
+      "sha1": "3628d7ef174e3230be1f7b248bad47a5d63652eb",
       "format": "Metadata"
     },
     {
@@ -4341,9 +4403,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 420,
-  "item_last_updated": 1666687752,
-  "item_size": 29142960,
+  "files_count": 426,
+  "item_last_updated": 1666722505,
+  "item_size": 29589074,
   "metadata": {
     "identifier": "southcoasttoday-2022",
     "collection": [
@@ -4365,15 +4427,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451270314,
+      "task_id": 3451943099,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 596204028,
+  "uniq": 573708811,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]
