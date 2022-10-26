@@ -1,5 +1,5 @@
 {
-  "created": 1666772678,
+  "created": 1666817652,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/12/items/shreveporttimes-2022",
@@ -4459,31 +4459,83 @@
       "format": "JSON"
     },
     {
+      "name": "shreveporttimes-2022-10-26T03:23:40.607711-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shreveporttimes-2022-10-26T03:23:40.607711-05:00.jpg",
+      "mtime": "1666773932",
+      "size": "9261",
+      "md5": "f9c40674443520a54bf2c059619e25a6",
+      "crc32": "a15f91dd",
+      "sha1": "f63937eb9d65e5942013b80e179c02cc2c2d44a7"
+    },
+    {
+      "name": "shreveporttimes-2022-10-26T15:51:42.046489-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666817508",
+      "size": "19863",
+      "md5": "60d85757e8c678a9df1db46a5c667598",
+      "crc32": "3e6d197e",
+      "sha1": "c87cc1ab876cd71e1aabdfd68cab561354d2df7a",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-26T15:51:42.046489-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666817510",
+      "size": "26366",
+      "md5": "16915869ca544d096793ae70fe03f74c",
+      "crc32": "770381d6",
+      "sha1": "f08142f5e263c88ea0cf94e966df9f15b276b92d",
+      "format": "JSON"
+    },
+    {
+      "name": "shreveporttimes-2022-10-26T15:51:42.046489-05:00.jpg",
+      "source": "original",
+      "mtime": "1666817506",
+      "size": "259634",
+      "md5": "097ede6295a697c9d458003367853282",
+      "crc32": "18af00f2",
+      "sha1": "479a20874558d7cf66e9be3a4baa435662d3fd46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shreveporttimes-2022-10-26T15:51:42.046489-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666817512",
+      "size": "100377",
+      "md5": "67f94b34a569e93af481263c8cfa76e0",
+      "crc32": "7181eac9",
+      "sha1": "773d05abc6b87820a278e8c437ca13568bff44ed",
+      "format": "JSON"
+    },
+    {
       "name": "shreveporttimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1275dde1e21ad16baac01a0945071a2b9917787",
-      "mtime": "1666772674",
-      "size": "95129",
-      "md5": "d77baaedaa9eb64feb282e22df04bdd8",
-      "crc32": "6b00eb13",
-      "sha1": "ae222fa53fbf6ec532c13520a138cba374e44013",
+      "btih": "5f96aa9cc3a448a6a1597297ba42920d7d1ca0b4",
+      "mtime": "1666817645",
+      "size": "96222",
+      "md5": "8f42301c80c166bbef4b38d4ec671f9e",
+      "crc32": "1a1b825a",
+      "sha1": "ad20c47fbe4f7cc662180464b114a985c508c811",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shreveporttimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "251377d444584f2999ec15a547fa9196",
+      "md5": "052a548f6fa410bc5c158cc1b0c368a4",
       "summation": "md5"
     },
     {
       "name": "shreveporttimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666772633",
-      "size": "573440",
-      "md5": "608e73d0c13eb07467ee34e9a0c8350f",
-      "crc32": "3a9b25e0",
-      "sha1": "332085e44a545cc83ec8acfd38441f15f220b902",
+      "mtime": "1666817598",
+      "size": "577536",
+      "md5": "d153dbbf096953838bb3aaf457ef04ae",
+      "crc32": "66bcf699",
+      "sha1": "ca3cbbcb759f6bbb0e5dbf1460270e0a82183bce",
       "format": "Metadata"
     },
     {
@@ -4497,9 +4549,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 435,
-  "item_last_updated": 1666772674,
-  "item_size": 28546078,
+  "files_count": 440,
+  "item_last_updated": 1666817645,
+  "item_size": 28966768,
   "metadata": {
     "identifier": "shreveporttimes-2022",
     "collection": [
@@ -4521,7 +4573,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452724354,
+      "task_id": 3453348136,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4529,7 +4581,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 98086606,
+  "uniq": 926944098,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

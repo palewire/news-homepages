@@ -1,5 +1,5 @@
 {
-  "created": 1666772177,
+  "created": 1666817130,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/26/items/nwademgaz-2022",
@@ -4395,31 +4395,73 @@
       "format": "JSON"
     },
     {
+      "name": "nwademgaz-2022-10-26T03:15:18.406815-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nwademgaz-2022-10-26T03:15:18.406815-05:00.jpg",
+      "mtime": "1666773616",
+      "size": "10678",
+      "md5": "dc943961c53a4eed02ee8121195ef07f",
+      "crc32": "84157df4",
+      "sha1": "96c36c84eb0b58d3fb04e7b3a6d02a4726f2c154"
+    },
+    {
+      "name": "nwademgaz-2022-10-26T15:43:28.505875-05:00.jpg",
+      "source": "original",
+      "mtime": "1666817013",
+      "size": "320564",
+      "md5": "e883264249c87c571c182ae862e006c8",
+      "crc32": "729612e8",
+      "sha1": "77f3d625295325328e344788448f2b3e35c5f19b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nwademgaz-2022-10-26T15:43:28.505875-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666817014",
+      "size": "1485",
+      "md5": "97cbf90b83bd53d229468d68ef853480",
+      "crc32": "0babee0c",
+      "sha1": "686b3dbf748d4382e5eb64264112a603cd6d0913",
+      "format": "JSON"
+    },
+    {
+      "name": "nwademgaz-2022-10-26T15:43:28.505875-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666817016",
+      "size": "39983",
+      "md5": "4ebc98778c42916de5b119e31eb1691c",
+      "crc32": "460cfcfd",
+      "sha1": "512be56cb971bf2a5e63b9f4afb5a75ed9ff9b8f",
+      "format": "JSON"
+    },
+    {
       "name": "nwademgaz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cbf25392f7c28201ac6015100f73e5526ed69f06",
-      "mtime": "1666772172",
-      "size": "91721",
-      "md5": "f743a9cf1282ac8973b544c9cdc57b3c",
-      "crc32": "6f249110",
-      "sha1": "c41a37777f614ed02f378f4dfb7641de78c14078",
+      "btih": "f7a84b246845865b8e4b54fbf32b3ca0b5ae44ec",
+      "mtime": "1666817118",
+      "size": "92568",
+      "md5": "6aebf8c3ab7a36d4c6e954e23f0ee14c",
+      "crc32": "ebcb76cb",
+      "sha1": "3d0f9a2d1067c8f8bef29a82581eb77d88d69855",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nwademgaz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd3382b3e9910eca3128b1eaa1870178",
+      "md5": "147d899e83ef2622978efe275a8904cd",
       "summation": "md5"
     },
     {
       "name": "nwademgaz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666772134",
-      "size": "585728",
-      "md5": "da5bde2b0f708f326fb61ee62059f6db",
-      "crc32": "ebb895ad",
-      "sha1": "8cdaf2cd0d772f952c2d243cc41e3021c1ed9581",
+      "mtime": "1666817075",
+      "size": "589824",
+      "md5": "b131828119f9cdd5549363ad328a4d80",
+      "crc32": "4863e176",
+      "sha1": "540357a43369f0ac391b02d16f3d3558172caf32",
       "format": "Metadata"
     },
     {
@@ -4433,9 +4475,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 431,
-  "item_last_updated": 1666772172,
-  "item_size": 27003376,
+  "files_count": 435,
+  "item_last_updated": 1666817118,
+  "item_size": 27381029,
   "metadata": {
     "identifier": "nwademgaz-2022",
     "collection": [
@@ -4457,7 +4499,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452719304,
+      "task_id": 3453332720,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4465,7 +4507,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 602763504,
+  "uniq": 1652929600,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

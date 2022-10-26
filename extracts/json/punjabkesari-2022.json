@@ -1,5 +1,5 @@
 {
-  "created": 1666772423,
+  "created": 1666817341,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/punjabkesari-2022",
@@ -10935,31 +10935,93 @@
       "format": "JSON"
     },
     {
+      "name": "punjabkesari-2022-10-26T13:49:09.730048+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "punjabkesari-2022-10-26T13:49:09.730048+05:30.jpg",
+      "mtime": "1666773925",
+      "size": "10680",
+      "md5": "5dbfb63f79b77df36bd5b2bcc0a54733",
+      "crc32": "2a8b0bd5",
+      "sha1": "0fc631e4f7ff4a2eafe56ec98f2faa9b2b15295a"
+    },
+    {
+      "name": "punjabkesari-2022-10-27T02:16:38.791262+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1666817210",
+      "size": "66808",
+      "md5": "e021208f4ccfa0dbe3935697e7fbdac4",
+      "crc32": "99255717",
+      "sha1": "64f07cf2e0b746155acd52df1037fa1aaebccf46",
+      "format": "JSON"
+    },
+    {
+      "name": "punjabkesari-2022-10-27T02:16:38.791262+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666817212",
+      "size": "136809",
+      "md5": "9a9ef0b5999866e6e97e49486661d756",
+      "crc32": "9d82d8d9",
+      "sha1": "2d7f8797fcac0b3674e24e6e2d79f6c6020a55d7",
+      "format": "JSON"
+    },
+    {
+      "name": "punjabkesari-2022-10-27T02:16:38.791262+05:30.jpg",
+      "source": "original",
+      "mtime": "1666817207",
+      "size": "331221",
+      "md5": "72f5c7d8df15f4db326e9739612c5ea0",
+      "crc32": "1f340153",
+      "sha1": "41dbbe37a4d217340603b109d1369abf834e5472",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "punjabkesari-2022-10-27T02:16:38.791262+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1666817215",
+      "size": "1485",
+      "md5": "bfa508629ba7ab6881875d4df200629d",
+      "crc32": "ed027440",
+      "sha1": "10682e9268a1d2548d8e0e00bc4d68268a8841fc",
+      "format": "JSON"
+    },
+    {
+      "name": "punjabkesari-2022-10-27T02:16:38.791262+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1666817216",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "punjabkesari-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dbdb357bdf9365d17eefeac205968cfa4b93f306",
-      "mtime": "1666772417",
-      "size": "229662",
-      "md5": "ca3eb9c8a85cfe35fa17161f8d8c044b",
-      "crc32": "734c9f17",
-      "sha1": "3118a99abe38de3e7ead4aa651623928c5d7dd56",
+      "btih": "10dc250baa7479db22e738ce99f8b9781bac97fc",
+      "mtime": "1666817335",
+      "size": "230953",
+      "md5": "51b787224992631812c41b3097a7a502",
+      "crc32": "75a07c75",
+      "sha1": "4271ca726c5b70b0454898966c79000dfa90ab41",
       "format": "Archive BitTorrent"
     },
     {
       "name": "punjabkesari-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "882e5632298741cddf51a3c2dad825f8",
+      "md5": "9e11c6a84fe9eeb168134c74af26f2a2",
       "summation": "md5"
     },
     {
       "name": "punjabkesari-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666772369",
-      "size": "1359872",
-      "md5": "91b345bb7aed52e6343defcbc2374a9a",
-      "crc32": "aa45e59b",
-      "sha1": "a0c9f62b45b5e2adf069d0ca69ecfb8098ec985f",
+      "mtime": "1666817282",
+      "size": "1363968",
+      "md5": "04901fa7814a48f3beffe62bf8434f1f",
+      "crc32": "7a791fd7",
+      "sha1": "cce469277ad79b17ed667a31687913eba6d61052",
       "format": "Metadata"
     },
     {
@@ -10973,9 +11035,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1061,
-  "item_last_updated": 1666772417,
-  "item_size": 107072753,
+  "files_count": 1067,
+  "item_last_updated": 1666817335,
+  "item_size": 107625345,
   "metadata": {
     "identifier": "punjabkesari-2022",
     "collection": [
@@ -10997,7 +11059,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452721667,
+      "task_id": 3453339078,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11005,7 +11067,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 219499950,
+  "uniq": 637796078,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
