@@ -1,5 +1,5 @@
 {
-  "created": 1666748037,
+  "created": 1666789807,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/macrumors-2022",
@@ -11291,31 +11291,93 @@
       "format": "JSON"
     },
     {
+      "name": "macrumors-2022-10-25T21:32:30.483623-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "macrumors-2022-10-25T21:32:30.483623-04:00.jpg",
+      "mtime": "1666749519",
+      "size": "9926",
+      "md5": "d7b639d80d9d57fe77c88631052fe48d",
+      "crc32": "b7988845",
+      "sha1": "90db46d5a6d6c3a67b9ee4cfca6a50549881b798"
+    },
+    {
+      "name": "macrumors-2022-10-26T09:08:16.761475-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789720",
+      "size": "153276",
+      "md5": "3b68f6ca8ff259b43f8f41b32db7bfa0",
+      "crc32": "8230495f",
+      "sha1": "4b046a546c18d8e873812bb15fbbf290292e5d1d",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-26T09:08:16.761475-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789722",
+      "size": "110775",
+      "md5": "844cee3b485bfc019458b8f3a4cb7ae4",
+      "crc32": "92708354",
+      "sha1": "772bd854d8472a5304c1e730db19f4cc93b353cb",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-26T09:08:16.761475-04:00.jpg",
+      "source": "original",
+      "mtime": "1666789718",
+      "size": "311394",
+      "md5": "2d81a94a0a4f55830628e64f1f05b1ff",
+      "crc32": "0dcd9317",
+      "sha1": "3637722ffcfd7e60357dc0017615464b936d9822",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "macrumors-2022-10-26T09:08:16.761475-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789724",
+      "size": "1486",
+      "md5": "a12dae43be5173c931f99c001e513770",
+      "crc32": "5092b941",
+      "sha1": "48b6d2cee8cfe95d7e416789e5d71d4faaf73fc3",
+      "format": "JSON"
+    },
+    {
+      "name": "macrumors-2022-10-26T09:08:16.761475-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789726",
+      "size": "232",
+      "md5": "e409dd0fb95a3195441b7a565cab8f3e",
+      "crc32": "32c59b6d",
+      "sha1": "740b0c3769bb28b1f8bfd589a1a14188d9622b62",
+      "format": "JSON"
+    },
+    {
       "name": "macrumors-2022_archive.torrent",
       "source": "metadata",
-      "btih": "074970105866a3215385141fac12915907e566f5",
-      "mtime": "1666748026",
-      "size": "234159",
-      "md5": "8b5c51f7a868991604078bf00516ec37",
-      "crc32": "4fe9fdb6",
-      "sha1": "6ff22e31ae39b29103d300bbca1ddc01df3c7c2d",
+      "btih": "529fe2eeeee5a155d4541f9633f3872f911edbb7",
+      "mtime": "1666789797",
+      "size": "235432",
+      "md5": "f412dbb7dec026fcee7f44b8fa70b312",
+      "crc32": "024d3b8e",
+      "sha1": "f54cc25fcf53f86ddb2530236f062ed7a8b34aa6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "macrumors-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1cd3326f77fc1c52d6fac9e972eadfcd",
+      "md5": "acdf6a39ee2c1ef4097a35d2a9b80f9c",
       "summation": "md5"
     },
     {
       "name": "macrumors-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666747972",
-      "size": "1392640",
-      "md5": "dda9d1e637207dfddea63da24842d521",
-      "crc32": "0c34092c",
-      "sha1": "6fb36590283d8553dd5180dba5e2bf6234d74322",
+      "mtime": "1666789738",
+      "size": "1400832",
+      "md5": "220c4638448245af4a5b24277b681547",
+      "crc32": "e7d78517",
+      "sha1": "767f537b285b4ed8d7b304cdcbbad4a58732f1ce",
       "format": "Metadata"
     },
     {
@@ -11329,9 +11391,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1095,
-  "item_last_updated": 1666748026,
-  "item_size": 120045491,
+  "files_count": 1101,
+  "item_last_updated": 1666789797,
+  "item_size": 120642045,
   "metadata": {
     "identifier": "macrumors-2022",
     "collection": [
@@ -11353,7 +11415,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452484404,
+      "task_id": 3452914564,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11361,7 +11423,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 798076675,
+  "uniq": 522117709,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

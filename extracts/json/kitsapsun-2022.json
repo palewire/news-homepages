@@ -1,5 +1,5 @@
 {
-  "created": 1666747799,
+  "created": 1666790105,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/kitsapsun-2022",
@@ -4469,31 +4469,93 @@
       "format": "JSON"
     },
     {
+      "name": "kitsapsun-2022-10-25T18:29:05.693609-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kitsapsun-2022-10-25T18:29:05.693609-07:00.jpg",
+      "mtime": "1666749239",
+      "size": "9379",
+      "md5": "2e1a5bba4e335b43d69fb72a213415c6",
+      "crc32": "be231f2f",
+      "sha1": "34c7691af7bf7e63ffc4165310a5e02148d41fef"
+    },
+    {
+      "name": "kitsapsun-2022-10-26T06:04:43.464219-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789489",
+      "size": "19768",
+      "md5": "79c31f281e98494aea5f6c3b36112d8f",
+      "crc32": "3e7947a7",
+      "sha1": "4f26a7cad1bdff0bcac1f1ec4b1c3605d9b8b835",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-26T06:04:43.464219-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789491",
+      "size": "28004",
+      "md5": "e63c814b1a91a9c235d9ed9c129cba4f",
+      "crc32": "d3074389",
+      "sha1": "2ef19522f413e3aa99dc0ca0207861497d790f81",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-26T06:04:43.464219-07:00.jpg",
+      "source": "original",
+      "mtime": "1666789488",
+      "size": "264864",
+      "md5": "ed8c7a6b7fb43b1e4995af4bd275ec34",
+      "crc32": "6fb4b718",
+      "sha1": "fe973f0ecdc7f736bcb21b91934a9ba0af609167",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kitsapsun-2022-10-26T06:04:43.464219-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789493",
+      "size": "1486",
+      "md5": "9436683cb49df6058cb237dfa085daec",
+      "crc32": "403726a5",
+      "sha1": "7b3c11b9ec62b0c469ce110433e09f92ed6f140e",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-10-26T06:04:43.464219-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789498",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "kitsapsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6832a88077e53d75575ad6083934145b2ec05fae",
-      "mtime": "1666747794",
-      "size": "92713",
-      "md5": "001605dd21dd339d85e7fef50fae6cc8",
-      "crc32": "cff56fdd",
-      "sha1": "14ed6c609fc68b404a8c3ae4fea6bed6105f5985",
+      "btih": "f46f1e67a756d4e52b954ac8509b77b96549dd34",
+      "mtime": "1666789540",
+      "size": "93984",
+      "md5": "56a0cca7f6cff1c93708c6c26b3237f8",
+      "crc32": "02915d22",
+      "sha1": "6ccde0bc42c8d69969b183022835ca5ff974e909",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kitsapsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c4cfb288574ec67b3db0e25f962fd268",
+      "md5": "f6e46c1a50a94d374b35c2bab5c84b6d",
       "summation": "md5"
     },
     {
       "name": "kitsapsun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666747756",
-      "size": "565248",
-      "md5": "d0d95cb1c88e891bdbbddd814e775dfb",
-      "crc32": "40066bfc",
-      "sha1": "23d2257ba41dbf0c3f649c9bab829b853ad98b2f",
+      "mtime": "1666789502",
+      "size": "581632",
+      "md5": "0d6b6f2644083e4b5a574abd8de1de2a",
+      "crc32": "357366de",
+      "sha1": "9c228eb4688130b64d189aff8e4030aa8602c29a",
       "format": "Metadata"
     },
     {
@@ -4507,9 +4569,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 436,
-  "item_last_updated": 1666747794,
-  "item_size": 28844795,
+  "files_count": 442,
+  "item_last_updated": 1666789540,
+  "item_size": 29186153,
+  "kitsapsun-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kitsapsun-2022",
     "collection": [
@@ -4531,7 +4598,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452481789,
+      "task_id": 3452909797,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4539,7 +4606,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1154035684,
+  "uniq": 687871999,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666747614,
+  "created": 1666789418,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/8/items/jagrannews-2022",
@@ -11245,31 +11245,93 @@
       "format": "JSON"
     },
     {
+      "name": "jagrannews-2022-10-26T06:55:48.932705+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jagrannews-2022-10-26T06:55:48.932705+05:30.jpg",
+      "mtime": "1666749260",
+      "size": "8519",
+      "md5": "62bd2d4340af15c16d39db865ce16d39",
+      "crc32": "00bb6fb4",
+      "sha1": "2d7f91cc29a4e8ad31d9e7645c1e383e80486ea1"
+    },
+    {
+      "name": "jagrannews-2022-10-26T18:32:16.700123+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1666789344",
+      "size": "148177",
+      "md5": "12ba6b48f9db0ae0310b8121cc2c95f5",
+      "crc32": "93d713cf",
+      "sha1": "fe55fdc68d159235f882e70e405b813f1e038388",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-26T18:32:16.700123+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789346",
+      "size": "132645",
+      "md5": "9273470e7229abe772b76fd96afd3283",
+      "crc32": "c22d9ef7",
+      "sha1": "9dbfeb733cfd1318d8f2c405b24211d9e3e8564d",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-26T18:32:16.700123+05:30.jpg",
+      "source": "original",
+      "mtime": "1666789342",
+      "size": "253057",
+      "md5": "7a0ff14c61b65e7245b72a136ff69ab7",
+      "crc32": "644b8c3f",
+      "sha1": "9c74308690f1d797b5408ae9a81aa8b194ede395",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jagrannews-2022-10-26T18:32:16.700123+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789348",
+      "size": "1459",
+      "md5": "160d9a8fae23777abb065a812c1fd789",
+      "crc32": "243d3e04",
+      "sha1": "0599c56567a004e667c568ab8712993945304a35",
+      "format": "JSON"
+    },
+    {
+      "name": "jagrannews-2022-10-26T18:32:16.700123+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1666789350",
+      "size": "24727",
+      "md5": "b0ff4a30d1626a19ac470d671a8ccb1a",
+      "crc32": "937c7f3e",
+      "sha1": "9e2d88994c3ae56808ebdfee86787581d3e5f65d",
+      "format": "JSON"
+    },
+    {
       "name": "jagrannews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59c0395219cfd5f33cfb5c10a54cf84423af41aa",
-      "mtime": "1666747610",
-      "size": "233920",
-      "md5": "2323e2409837653b4c0728663f06ed1e",
-      "crc32": "6ec09388",
-      "sha1": "15b764a5b0b553e4b64d7a3dbbb9a73b037e2b7b",
+      "btih": "136e1f0816225b604aa2eb7ca4f50d7751ba4c71",
+      "mtime": "1666789411",
+      "size": "235201",
+      "md5": "5f8b9521a0de6a20cbd71146d90256bc",
+      "crc32": "0ae39e74",
+      "sha1": "678aeb97cab7887659367c40546127cb4adfe709",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jagrannews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1253ceeba7cb78b281ae132e2ead2252",
+      "md5": "2eb4d4dfc6c1256ae054f9717cc1875a",
       "summation": "md5"
     },
     {
       "name": "jagrannews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666747563",
-      "size": "1392640",
-      "md5": "0c670f6964f0f7372834f024c232dced",
-      "crc32": "5e3394de",
-      "sha1": "3d72a3ac2aac755dfb8aec2fdf3bcbf0da0851f7",
+      "mtime": "1666789355",
+      "size": "1400832",
+      "md5": "add04602083b875e518de174ea19270b",
+      "crc32": "4cff52c9",
+      "sha1": "92198d3f005725938a4d5cafb81442cc6e289323",
       "format": "Metadata"
     },
     {
@@ -11283,9 +11345,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1091,
-  "item_last_updated": 1666747610,
-  "item_size": 108947640,
+  "files_count": 1097,
+  "item_last_updated": 1666789411,
+  "item_size": 109525697,
   "metadata": {
     "identifier": "jagrannews-2022",
     "collection": [
@@ -11307,7 +11369,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452479880,
+      "task_id": 3452907409,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11315,7 +11377,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1078731364,
+  "uniq": 1431351661,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]
