@@ -1,5 +1,5 @@
 {
-  "created": 1666742426,
+  "created": 1666785763,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/15/items/dallasbiznews-2022",
@@ -11881,31 +11881,93 @@
       "format": "JSON"
     },
     {
+      "name": "dallasbiznews-2022-10-25T18:59:12.245497-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasbiznews-2022-10-25T18:59:12.245497-05:00.jpg",
+      "mtime": "1666745421",
+      "size": "8454",
+      "md5": "c8cfe8e4c70886b556e608d3cf4b631f",
+      "crc32": "f25765f2",
+      "sha1": "89e46db91a2f94d4ff5d4fcb959c9a3b7a0c8a97"
+    },
+    {
+      "name": "dallasbiznews-2022-10-26T07:01:30.802688-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666785697",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-10-26T07:01:30.802688-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666785699",
+      "size": "20910",
+      "md5": "73bf25cbe57466cf197011a398b5fb75",
+      "crc32": "08f55e3e",
+      "sha1": "387357aeaa8cbf70fa07ebd41b1cb8ad9c02eecc",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-10-26T07:01:30.802688-05:00.jpg",
+      "source": "original",
+      "mtime": "1666785695",
+      "size": "236303",
+      "md5": "b0d91fd6e43d332556f90e84d4df4fa9",
+      "crc32": "5f74b102",
+      "sha1": "40f5877193dbd3a79383ddfc4f48d6df4c15cf9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasbiznews-2022-10-26T07:01:30.802688-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666785701",
+      "size": "1566",
+      "md5": "35d1f07e6ed7fbc6a1d3eb48a7d672d6",
+      "crc32": "ee2bfe8c",
+      "sha1": "bbe58d11e74c0ed50b3abc8c85f131e7a499deca",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasbiznews-2022-10-26T07:01:30.802688-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666785703",
+      "size": "4453",
+      "md5": "567e451d1c8d20025ca8e2784d3dc61d",
+      "crc32": "427030a6",
+      "sha1": "55a9f0b4abc7b451d4345af75f939f4749345cf1",
+      "format": "JSON"
+    },
+    {
       "name": "dallasbiznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4db7ae49ef8d20d2a874c7c4de4c848ad2cd67d2",
-      "mtime": "1666742419",
-      "size": "248433",
-      "md5": "dfa8c5501e2d133b5c875d300184787c",
-      "crc32": "801a4d3e",
-      "sha1": "d078127bb485c2a575235278698bd269a508750a",
+      "btih": "d5e231ab92cf19516697005543dc492bc09ae7b6",
+      "mtime": "1666785757",
+      "size": "249727",
+      "md5": "02949dcac30d954bf2b4cd7dc9b5fccc",
+      "crc32": "85e17387",
+      "sha1": "7b8c7e436a78869662f51c64c2e70b15d1f5dca7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasbiznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ef7d7b9f2601bc9c0007bc1db8f8585",
+      "md5": "18f9504db8e574fa2e25118f795ea207",
       "summation": "md5"
     },
     {
       "name": "dallasbiznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666742374",
-      "size": "1474560",
-      "md5": "595c45752ef6df8870366666c1289133",
-      "crc32": "e99a49a3",
-      "sha1": "d84e3f1fa6bd0e14ae4b66249799ea362affea59",
+      "mtime": "1666785709",
+      "size": "1482752",
+      "md5": "1d00608a7b94f972a8fdcf71e0cb0b4f",
+      "crc32": "e5488453",
+      "sha1": "f8f5443c72bc826b154b4dc6f75814e48e59b864",
       "format": "Metadata"
     },
     {
@@ -11919,9 +11981,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1152,
-  "item_last_updated": 1666742419,
-  "item_size": 82916657,
+  "files_count": 1158,
+  "item_last_updated": 1666785757,
+  "item_size": 83197969,
   "metadata": {
     "identifier": "dallasbiznews-2022",
     "collection": [
@@ -11943,7 +12005,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452427636,
+      "task_id": 3452872856,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11951,7 +12013,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1245731338,
+  "uniq": 949001155,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

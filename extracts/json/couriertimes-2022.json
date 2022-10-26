@@ -1,5 +1,5 @@
 {
-  "created": 1666742449,
+  "created": 1666785771,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/25/items/couriertimes-2022",
@@ -4469,31 +4469,93 @@
       "format": "JSON"
     },
     {
+      "name": "couriertimes-2022-10-25T19:59:46.163127-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "couriertimes-2022-10-25T19:59:46.163127-04:00.jpg",
+      "mtime": "1666745437",
+      "size": "9479",
+      "md5": "26db17be4879d5ce96b9f44399f9246f",
+      "crc32": "d4df5ef1",
+      "sha1": "c6436c74d61995d1cebc44160ba7b635f517df66"
+    },
+    {
+      "name": "couriertimes-2022-10-26T08:01:54.246655-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666785718",
+      "size": "22176",
+      "md5": "996c52d48e42d99463f07f6b764bff02",
+      "crc32": "bcb15e6b",
+      "sha1": "bfaf21e1cf36c5112584e8cfe9424d74848a425f",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-26T08:01:54.246655-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666785720",
+      "size": "44077",
+      "md5": "8ad45b8a679596af4fd436094a9c0884",
+      "crc32": "d421a19f",
+      "sha1": "71f7175644ef3bc1e2d1b7e28dd4335e5d705805",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-26T08:01:54.246655-04:00.jpg",
+      "source": "original",
+      "mtime": "1666785716",
+      "size": "253527",
+      "md5": "50369d71d3c5ec2ee5d7eed51b83e773",
+      "crc32": "467891f3",
+      "sha1": "14d52a677ecf6259824833dd9a1a60b0006d7a62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "couriertimes-2022-10-26T08:01:54.246655-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666785722",
+      "size": "1612",
+      "md5": "ecb7ea248a6ea516ac3d4d9571f2c1b4",
+      "crc32": "ab4679a7",
+      "sha1": "7233e64fa674acd87e247c160e306d2a67fa322c",
+      "format": "JSON"
+    },
+    {
+      "name": "couriertimes-2022-10-26T08:01:54.246655-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666785724",
+      "size": "220942",
+      "md5": "20e299032c9ad1a96713aea1ccea0a09",
+      "crc32": "fd65ad6c",
+      "sha1": "e502190e5e6ec042e78d298cfb52e9d7532c0758",
+      "format": "JSON"
+    },
+    {
       "name": "couriertimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51118925f4c9bf5228703504f364119df8de6691",
-      "mtime": "1666742444",
-      "size": "94062",
-      "md5": "4e85e265f212c77e3a07467c26a1f9d5",
-      "crc32": "3b6829b1",
-      "sha1": "2c7d4577727a4c1a3f69a2458fe51459abcae3d4",
+      "btih": "0eeb90ec322add9aa2a983f0b3b280d22090ce4a",
+      "mtime": "1666785768",
+      "size": "95354",
+      "md5": "7946eca87ff98a3d2325b86319d95e93",
+      "crc32": "6e9579a1",
+      "sha1": "17cb61974c230705e682f827f3ce2e869cc22360",
       "format": "Archive BitTorrent"
     },
     {
       "name": "couriertimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e6b476153ddbcf000313c042f5c3bc5b",
+      "md5": "c23a87603adb2178472fd1ff5fe4843e",
       "summation": "md5"
     },
     {
       "name": "couriertimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666742406",
-      "size": "573440",
-      "md5": "fb784c836db0bc2fb8f9556f5f4310bd",
-      "crc32": "060bc120",
-      "sha1": "d0ab205079c575c8976e8c078c3fa98b92fd5cd4",
+      "mtime": "1666785729",
+      "size": "581632",
+      "md5": "1cdece7cdf3f056c08db6b591f6a0620",
+      "crc32": "c651a79c",
+      "sha1": "3c2246d9c9510736525c0dac4a734d4be1a26050",
       "format": "Metadata"
     },
     {
@@ -4507,9 +4569,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 436,
-  "item_last_updated": 1666742444,
-  "item_size": 29790462,
+  "files_count": 442,
+  "item_last_updated": 1666785768,
+  "item_size": 30351759,
   "metadata": {
     "identifier": "couriertimes-2022",
     "collection": [
@@ -4531,7 +4593,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452428112,
+      "task_id": 3452872941,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4539,7 +4601,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1557728570,
+  "uniq": 196564254,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

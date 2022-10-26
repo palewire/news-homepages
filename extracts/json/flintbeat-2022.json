@@ -1,5 +1,5 @@
 {
-  "created": 1666742641,
+  "created": 1666785966,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/flintbeat-2022",
@@ -15557,31 +15557,93 @@
       "format": "JSON"
     },
     {
+      "name": "flintbeat-2022-10-25T19:02:43.522177-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flintbeat-2022-10-25T19:02:43.522177-05:00.jpg",
+      "mtime": "1666745660",
+      "size": "9218",
+      "md5": "f75107a780ce82e71bc52d9e4ec71d76",
+      "crc32": "5468d348",
+      "sha1": "b61d63fed2ba512b36d67a2acc1dd18fac6de9eb"
+    },
+    {
+      "name": "flintbeat-2022-10-26T07:04:31.011647-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666785878",
+      "size": "39755",
+      "md5": "f0fbcfe1ea4c13fc0fe78d943a57a82c",
+      "crc32": "966a591d",
+      "sha1": "7539f37d101cf61a1e59937db03b0e990206886a",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-10-26T07:04:31.011647-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666785881",
+      "size": "34628",
+      "md5": "b9b3cddca6aa63bfe74f592772c26e8c",
+      "crc32": "cb5ff3f2",
+      "sha1": "37aa7858a4d2a645abce0c55af7e220276832780",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-10-26T07:04:31.011647-05:00.jpg",
+      "source": "original",
+      "mtime": "1666785877",
+      "size": "257767",
+      "md5": "cacdf69bf189fb7c9655b9566549a8e5",
+      "crc32": "37a70cf3",
+      "sha1": "4c538b7ea0e5c37230634033fc83759f576f16c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flintbeat-2022-10-26T07:04:31.011647-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666785882",
+      "size": "1440",
+      "md5": "a1cbcaafd33f7aa829465700280cb8e1",
+      "crc32": "c76a4d8b",
+      "sha1": "6262de98577cb2d47f269898ac4b0b2160dcc045",
+      "format": "JSON"
+    },
+    {
+      "name": "flintbeat-2022-10-26T07:04:31.011647-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666785884",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "flintbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "804f1af23f5b994acdb97b7028181eada344c884",
-      "mtime": "1666742634",
-      "size": "317405",
-      "md5": "c0e12b3949695777450c1efd2d042e27",
-      "crc32": "98ea51a5",
-      "sha1": "1597d0ad52036f5828eab33253c6c572ae06a89f",
+      "btih": "e2f47894a191043e11bcc77b6bf2b3fb15dd7a0d",
+      "mtime": "1666785959",
+      "size": "318676",
+      "md5": "35eebd1f57c88422c76819957ec21432",
+      "crc32": "99611de1",
+      "sha1": "05f168a43807cb887e4cffa13355d2b566213778",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flintbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4a0357daf1b9446ed3dd985d69bf303",
+      "md5": "49d9f2c1ba58c02314a8b5c4cc29df64",
       "summation": "md5"
     },
     {
       "name": "flintbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666742580",
-      "size": "1859584",
-      "md5": "7bdab4e7d1db32e9d88767b86a8a44ff",
-      "crc32": "d72605a6",
-      "sha1": "150a6e31cdd31d2c53b8d8350f0b1ed0203dcffe",
+      "mtime": "1666785894",
+      "size": "1867776",
+      "md5": "b8cb52a8612e54866d026a0f0ccf1f33",
+      "crc32": "0e6116a2",
+      "sha1": "dcd909a3d32f7fa0a103a6c95d909ca944db6267",
       "format": "Metadata"
     },
     {
@@ -15595,9 +15657,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1502,
-  "item_last_updated": 1666742634,
-  "item_size": 92542884,
+  "files_count": 1508,
+  "item_last_updated": 1666785959,
+  "item_size": 92895357,
   "metadata": {
     "identifier": "flintbeat-2022",
     "collection": [
@@ -15619,7 +15681,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452431979,
+      "task_id": 3452875328,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15627,7 +15689,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 135955670,
+  "uniq": 1717168411,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]
