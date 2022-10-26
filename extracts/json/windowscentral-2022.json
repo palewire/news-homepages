@@ -1,5 +1,5 @@
 {
-  "created": 1666723738,
+  "created": 1666773179,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/20/items/windowscentral-2022",
@@ -11133,31 +11133,93 @@
       "format": "JSON"
     },
     {
+      "name": "windowscentral-2022-10-25T11:47:32.046044-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "windowscentral-2022-10-25T11:47:32.046044-07:00.jpg",
+      "mtime": "1666725042",
+      "size": "10513",
+      "md5": "c0989e3438bf82270b8a669cf31701f8",
+      "crc32": "e4072a99",
+      "sha1": "7f810540d2b6a46a221d86f337c05ef7d306fd5f"
+    },
+    {
+      "name": "windowscentral-2022-10-26T01:31:51.659672-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666773122",
+      "size": "16712",
+      "md5": "6253439ff856497d41d3a2008ba45372",
+      "crc32": "d4906965",
+      "sha1": "91e3b7850290f9ce35e82d8993cddb16e921c598",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-26T01:31:51.659672-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666773124",
+      "size": "22706",
+      "md5": "706611d09e1473077d6bd263690ea8f3",
+      "crc32": "01f92c48",
+      "sha1": "1d1311d5c01f9a388c265e8afedc6a5cf4eba6eb",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-26T01:31:51.659672-07:00.jpg",
+      "source": "original",
+      "mtime": "1666773120",
+      "size": "269988",
+      "md5": "cad6e514beb52668f4b8a8f804a6c32c",
+      "crc32": "6687fe55",
+      "sha1": "f28198e840d3345f1cb0b4205e4c1312f4bd2ece",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "windowscentral-2022-10-26T01:31:51.659672-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666773126",
+      "size": "1530",
+      "md5": "8004c6c2117cdd795a3ec202a4830b24",
+      "crc32": "85ab2d3b",
+      "sha1": "51bbe24e5554587e2dcfc0e529e40fedb199ca3a",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-26T01:31:51.659672-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666773127",
+      "size": "68415",
+      "md5": "67cc5f78238326648d6021e218137fc3",
+      "crc32": "181bd491",
+      "sha1": "f7897fd3dc454a9c90bbb4c9e976aa55619c0018",
+      "format": "JSON"
+    },
+    {
       "name": "windowscentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "acbbde5aea9fd66fb77fa8b03fd4d239500c386f",
-      "mtime": "1666723734",
-      "size": "233770",
-      "md5": "7930892f80c9c543633bd8b0e4e60350",
-      "crc32": "e1c9e0b9",
-      "sha1": "f143ef7ac5b7f98914cdd7ae373023eb5f241d58",
+      "btih": "0c7f3849bb1a587df09709b23290c2c6204fdd7c",
+      "mtime": "1666773175",
+      "size": "235054",
+      "md5": "756ad618d3f5022b71302d63273f269c",
+      "crc32": "74f5be38",
+      "sha1": "99896f01468ba7ea42dd9e85e5e6be2d7a4f45ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "windowscentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72980f8da06fc2899c218dea22810556",
+      "md5": "7234773e4b63b30c302c85c6e0bc8e8e",
       "summation": "md5"
     },
     {
       "name": "windowscentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723690",
-      "size": "1388544",
-      "md5": "5532239710e1ea836895639af09ea88f",
-      "crc32": "8b5808d3",
-      "sha1": "3200f3ef661e6f2306c2c8fadb1c1afa545a49b0",
+      "mtime": "1666773133",
+      "size": "1392640",
+      "md5": "34e341fc2683da4442852dec5c46be5b",
+      "crc32": "7722e55f",
+      "sha1": "013c0421656e7e681ab0c85883e2925297bb78c6",
       "format": "Metadata"
     },
     {
@@ -11171,9 +11233,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1080,
-  "item_last_updated": 1666723734,
-  "item_size": 61127643,
+  "files_count": 1086,
+  "item_last_updated": 1666773175,
+  "item_size": 61522887,
   "metadata": {
     "identifier": "windowscentral-2022",
     "collection": [
@@ -11195,7 +11257,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451976171,
+      "task_id": 3452729005,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11203,7 +11265,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1408181597,
+  "uniq": 1015845554,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

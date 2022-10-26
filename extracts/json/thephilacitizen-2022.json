@@ -1,5 +1,5 @@
 {
-  "created": 1666723751,
+  "created": 1666773037,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/15/items/thephilacitizen-2022",
@@ -13313,31 +13313,93 @@
       "format": "JSON"
     },
     {
+      "name": "thephilacitizen-2022-10-25T14:46:01.945691-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thephilacitizen-2022-10-25T14:46:01.945691-04:00.jpg",
+      "mtime": "1666724845",
+      "size": "10720",
+      "md5": "ecc6c0a74c0c583bf38e1bc62926e917",
+      "crc32": "0ad94298",
+      "sha1": "dddaa7261bb0bd1cdb48dcc7d93515281c07ecd6"
+    },
+    {
+      "name": "thephilacitizen-2022-10-26T04:29:20.478625-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772966",
+      "size": "14323",
+      "md5": "d3fa3c48a0a8d00d48acab05dfbc3a17",
+      "crc32": "d44d8400",
+      "sha1": "2cfb6c7bb7b1ecaefe8cc26e025a0c5eaa30153e",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-10-26T04:29:20.478625-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772968",
+      "size": "16531",
+      "md5": "afdf0c4514672a7d95f264edd001119e",
+      "crc32": "bb3b0f43",
+      "sha1": "cc95b9072cb05ab084da9dfbf82ba0de16f88091",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-10-26T04:29:20.478625-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772965",
+      "size": "271990",
+      "md5": "7c197e2217cdafcbd0625a462713c082",
+      "crc32": "13b48498",
+      "sha1": "7b0484f93d1525cd1afec2fffbe8b5c4632a3325",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thephilacitizen-2022-10-26T04:29:20.478625-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772969",
+      "size": "1567",
+      "md5": "1ae30345affc98d83fed8c77d3aa7379",
+      "crc32": "a9da2fb8",
+      "sha1": "ae0c622bc170b2b25da41d6b8127576a90e50c39",
+      "format": "JSON"
+    },
+    {
+      "name": "thephilacitizen-2022-10-26T04:29:20.478625-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772971",
+      "size": "12600",
+      "md5": "895ce150c59fc76a07b98760d07a64e6",
+      "crc32": "3b7f7e97",
+      "sha1": "04075c47b288bc08518184a4e2ca89efc5b4d725",
+      "format": "JSON"
+    },
+    {
       "name": "thephilacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dda66d3f8e1e69c77597539a472200064a1f3079",
-      "mtime": "1666723742",
-      "size": "280377",
-      "md5": "de80dbe34cfb1d8ec3100bc71e362ee6",
-      "crc32": "c5c3e017",
-      "sha1": "9f30de6631a8edac8a2b2ae979d5ba0db513883b",
+      "btih": "a7bbbb882641d73ca9774520596703043d791a70",
+      "mtime": "1666773029",
+      "size": "281687",
+      "md5": "a66cd9bd6392ad4f0d4b1ea507bd6cd0",
+      "crc32": "40dd86bb",
+      "sha1": "d1140075b274bdef6e5bb2fa41c0b191553b6e79",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thephilacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a92c2e45085f45ecfb1948bc532bb52d",
+      "md5": "9e5e561c7a103aac783af05591587d8b",
       "summation": "md5"
     },
     {
       "name": "thephilacitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723689",
-      "size": "1626112",
-      "md5": "1ce1c617156efc487502abe6e42a9b88",
-      "crc32": "1e1b0002",
-      "sha1": "d5fa1172cdd34dc19eb26b6ed8b100d2f7000670",
+      "mtime": "1666772976",
+      "size": "1634304",
+      "md5": "6ef0527dcd5d37d8fea8a92fd73d957a",
+      "crc32": "f5a25045",
+      "sha1": "9a8e6745f7c463006c756228651e1e74dbce8e77",
       "format": "Metadata"
     },
     {
@@ -13351,9 +13413,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1288,
-  "item_last_updated": 1666723742,
-  "item_size": 80421383,
+  "files_count": 1294,
+  "item_last_updated": 1666773029,
+  "item_size": 80758616,
   "metadata": {
     "identifier": "thephilacitizen-2022",
     "collection": [
@@ -13375,7 +13437,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451976470,
+      "task_id": 3452727534,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13383,7 +13445,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2115134108,
+  "uniq": 1358607337,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

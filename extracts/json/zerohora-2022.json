@@ -1,5 +1,5 @@
 {
-  "created": 1666723956,
+  "created": 1666773208,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/zerohora-2022",
@@ -14573,31 +14573,93 @@
       "format": "JSON"
     },
     {
+      "name": "zerohora-2022-10-25T15:49:28.533944-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-10-25T15:49:28.533944-03:00.jpg",
+      "mtime": "1666725880",
+      "size": "10645",
+      "md5": "666f4a38453f4b0c9e84a786060a3cf6",
+      "crc32": "adee00f0",
+      "sha1": "ed285daa6560cb938e5b5c1061c652704cf39487"
+    },
+    {
+      "name": "zerohora-2022-10-26T05:32:04.026527-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666773132",
+      "size": "37140",
+      "md5": "0abe61c84ceaec8609ec477f1c9b7b31",
+      "crc32": "e25dc153",
+      "sha1": "c131dc5e9e6247093c7dfa47f3ab587cd6fb86c4",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-26T05:32:04.026527-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666773135",
+      "size": "38549",
+      "md5": "316c2291d574397519f6d06d2f96a202",
+      "crc32": "04da3724",
+      "sha1": "e29f8b341e584b46585e2cb9c1bbc1d04805bca5",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-26T05:32:04.026527-03:00.jpg",
+      "source": "original",
+      "mtime": "1666773131",
+      "size": "307844",
+      "md5": "55ffdc195f39aefbb330c1f0c5eeec9b",
+      "crc32": "e2a71201",
+      "sha1": "45fdfc18999e9b87958f2ae5b7984a86845ac508",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-10-26T05:32:04.026527-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666773136",
+      "size": "1540",
+      "md5": "973680c5c1f4597645e3a2a4a70dd5c7",
+      "crc32": "5e57eca5",
+      "sha1": "15379de771ab7bd88c1e5cc7b61ae348333093cc",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-26T05:32:04.026527-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666773138",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "zerohora-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e295998c567c36cb03ac52b2b993daf77fc2a844",
-      "mtime": "1666723943",
-      "size": "298411",
-      "md5": "34b41d54f210a138c96b851e7719cdac",
-      "crc32": "ee13fc72",
-      "sha1": "e905a00abd11339f7275b78425fbd83cecfb90e8",
+      "btih": "82e2375d93b0e985f55a8dff3f0d48b5ead72dd5",
+      "mtime": "1666773199",
+      "size": "299677",
+      "md5": "e15c4b8f98406fbdc64903389eb105e9",
+      "crc32": "34652878",
+      "sha1": "de00f316d6eba93b6de1a064e96582f57343ef84",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohora-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c17ca2ade0c9f9c904f71a11ef74aea9",
+      "md5": "ebf6417778310b888a02cd5b0e13ca8b",
       "summation": "md5"
     },
     {
       "name": "zerohora-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723879",
-      "size": "1802240",
-      "md5": "4f03845e3cdc2d9d2bbc9fd8cfda260e",
-      "crc32": "2423a402",
-      "sha1": "b26593a16958ee6470be90bc196c47aff7b6330a",
+      "mtime": "1666773143",
+      "size": "1810432",
+      "md5": "1cb24a34253a244ffa84dd1e4a7a3ed9",
+      "crc32": "b9b6e5c6",
+      "sha1": "02a6c73eff4ee04f1a509a90546e6bb2d891c383",
       "format": "Metadata"
     },
     {
@@ -14611,9 +14673,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1414,
-  "item_last_updated": 1666723943,
-  "item_size": 100186631,
+  "files_count": 1420,
+  "item_last_updated": 1666773199,
+  "item_size": 100592009,
   "metadata": {
     "identifier": "zerohora-2022",
     "collection": [
@@ -14635,7 +14697,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451981888,
+      "task_id": 3452729382,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14643,7 +14705,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1314633448,
+  "uniq": 1923035808,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

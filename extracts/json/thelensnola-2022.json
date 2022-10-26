@@ -1,5 +1,5 @@
 {
-  "created": 1666723649,
+  "created": 1666773021,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/thelensnola-2022",
@@ -12487,31 +12487,93 @@
       "format": "JSON"
     },
     {
+      "name": "thelensnola-2022-10-25T13:45:16.101697-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelensnola-2022-10-25T13:45:16.101697-05:00.jpg",
+      "mtime": "1666724758",
+      "size": "5972",
+      "md5": "c813ebd15998791e742ebc5e6cdeffb5",
+      "crc32": "eb817ec3",
+      "sha1": "bcc1a111c32d5e57410a014438b43e2a3a5329ef"
+    },
+    {
+      "name": "thelensnola-2022-10-26T03:29:09.250711-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772958",
+      "size": "14861",
+      "md5": "6b7e41d4455aafc6381ccd602616d90b",
+      "crc32": "cfbc53e9",
+      "sha1": "c7f00d949b0ad21bf8574985a9652ae5adb6c349",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-10-26T03:29:09.250711-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772960",
+      "size": "12549",
+      "md5": "86230e23b30ed6ebb7674c6bf0624dec",
+      "crc32": "2d2d327d",
+      "sha1": "0209710cac76299e31c2b0a62a38d09fe97a4bdd",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-10-26T03:29:09.250711-05:00.jpg",
+      "source": "original",
+      "mtime": "1666772956",
+      "size": "177087",
+      "md5": "5c02791565d2476f625c8327850fdec9",
+      "crc32": "42e5c940",
+      "sha1": "ee78063dd412c57610ab29ccd2f21d5b32c046d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelensnola-2022-10-26T03:29:09.250711-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772962",
+      "size": "1464",
+      "md5": "2372d134348f91d570c4501de46b9ed8",
+      "crc32": "fbc755f3",
+      "sha1": "456f743efcf314d5e62575682418e3f2949381c8",
+      "format": "JSON"
+    },
+    {
+      "name": "thelensnola-2022-10-26T03:29:09.250711-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772963",
+      "size": "9236",
+      "md5": "d3934be4f43034d7dd3907b4d6e7618d",
+      "crc32": "e480ea8c",
+      "sha1": "ab2b3196b48193c853bcd3079139a78b6dd5f420",
+      "format": "JSON"
+    },
+    {
       "name": "thelensnola-2022_archive.torrent",
       "source": "metadata",
-      "btih": "508c62e48880f9de473c553d999a58f7fed18e98",
-      "mtime": "1666723646",
-      "size": "257671",
-      "md5": "4fcdbb1451d658d066f949b231d45dc8",
-      "crc32": "752f2c0f",
-      "sha1": "38c6d8ad25f4299780a57b45cda5aca1a64621d5",
+      "btih": "4c14670fd41baa51b22a00c0c61742b94a71e427",
+      "mtime": "1666773016",
+      "size": "258955",
+      "md5": "20cd96468f68ac62c81507ecf67aaeb0",
+      "crc32": "85ba7d05",
+      "sha1": "3dfe578886e05618ade73d2acafa291af66f572a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelensnola-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "923f44758da1f44b217f9c74bf028702",
+      "md5": "80bc3abb56c086a31cb7e78cbeb5a632",
       "summation": "md5"
     },
     {
       "name": "thelensnola-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723599",
-      "size": "1527808",
-      "md5": "16071a699e72d376a39cbc7a3a8fa809",
-      "crc32": "69f253ea",
-      "sha1": "da2d94ef080887cc7e4903492d2664d2df6cfd57",
+      "mtime": "1666772968",
+      "size": "1536000",
+      "md5": "b128cfbda3d6561f656408c062923ed6",
+      "crc32": "4b658d60",
+      "sha1": "c54798f49a84c0a61163fe7cff995a0a71e2215b",
       "format": "Metadata"
     },
     {
@@ -12525,9 +12587,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1209,
-  "item_last_updated": 1666723646,
-  "item_size": 63153658,
+  "files_count": 1215,
+  "item_last_updated": 1666773016,
+  "item_size": 63384303,
   "metadata": {
     "identifier": "thelensnola-2022",
     "collection": [
@@ -12549,7 +12611,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451973782,
+      "task_id": 3452727380,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12557,7 +12619,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1902123197,
+  "uniq": 1900225302,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

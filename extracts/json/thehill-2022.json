@@ -1,5 +1,5 @@
 {
-  "created": 1666723653,
+  "created": 1666772832,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/32/items/thehill-2022",
@@ -12863,31 +12863,93 @@
       "format": "JSON"
     },
     {
+      "name": "thehill-2022-10-25T14:44:34.609945-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-25T14:44:34.609945-04:00.jpg",
+      "mtime": "1666725039",
+      "size": "10952",
+      "md5": "2cc87f0f6d2ac3984e16f17e5cf02674",
+      "crc32": "daf5ca0b",
+      "sha1": "cc17846fdbc9bb0fdd4f189cf2a15287ecb63085"
+    },
+    {
+      "name": "thehill-2022-10-26T04:25:58.004408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772768",
+      "size": "47465",
+      "md5": "ad9bdf4fd00dbb3cffc76e0cb858f824",
+      "crc32": "5c48450f",
+      "sha1": "f9e6963ceed21bb2b6e7aa45da852f5e0348a74e",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-26T04:25:58.004408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772771",
+      "size": "69052",
+      "md5": "42914fca705f389636f0d0183a5435c8",
+      "crc32": "1a150f4d",
+      "sha1": "a8fa6e6dd1b7fffe961c5c4db7b9431142bd1025",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-26T04:25:58.004408-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772766",
+      "size": "340369",
+      "md5": "da33f47072830593c45136d9e3229b44",
+      "crc32": "2fd44f89",
+      "sha1": "904d51764b8da6fab44d36d71332939b8c5f9c6d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-10-26T04:25:58.004408-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772773",
+      "size": "1432",
+      "md5": "424995db0706e92a4ffe3c6d821ac96b",
+      "crc32": "756a881f",
+      "sha1": "af82e2e038273614d6409db57e38617f69554971",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-10-26T04:25:58.004408-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772776",
+      "size": "63481",
+      "md5": "ced8efb2fa809bccc7af5a3056120d1a",
+      "crc32": "6699707e",
+      "sha1": "66bb25f993b29a3a223bc12230f446258fe17d6b",
+      "format": "JSON"
+    },
+    {
       "name": "thehill-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d9aefe4f702df726b652dcb76926c6d5289c34bb",
-      "mtime": "1666723648",
-      "size": "262105",
-      "md5": "e9292ab02dc78c252499f0f1f3695fd5",
-      "crc32": "520d62a4",
-      "sha1": "68e46febb660785ef079362f996acaf26f4a109d",
+      "btih": "f7c7e5f1f7e27fadf8ada04a89fa8a0afe0bad4d",
+      "mtime": "1666772827",
+      "size": "263367",
+      "md5": "b37f70d2f39741982085fb3136edd882",
+      "crc32": "72d7a28f",
+      "sha1": "586ef3c96bbd1f8da39d726704ee2b5f0251cef5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehill-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f245f89b02f2edc7f620a9ff607c86bb",
+      "md5": "5e30b2d44c2cb316d528c803f73f43aa",
       "summation": "md5"
     },
     {
       "name": "thehill-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723599",
-      "size": "1560576",
-      "md5": "fd556e82d6434f3814cd26af0ceff317",
-      "crc32": "d91313f0",
-      "sha1": "4190dead7fb318fe4b5869f36274a4c927f335e1",
+      "mtime": "1666772779",
+      "size": "1568768",
+      "md5": "03b2277c15ad088412b20f9c2cc19802",
+      "crc32": "0722ccc6",
+      "sha1": "acbc38e589e9c854a84fc9ad3f63806894d0a8dd",
       "format": "Metadata"
     },
     {
@@ -12901,9 +12963,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1245,
-  "item_last_updated": 1666723648,
-  "item_size": 105489017,
+  "files_count": 1251,
+  "item_last_updated": 1666772827,
+  "item_size": 106031222,
   "metadata": {
     "identifier": "thehill-2022",
     "collection": [
@@ -12925,7 +12987,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451973876,
+      "task_id": 3452725751,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12933,7 +12995,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1177649718,
+  "uniq": 1766392757,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

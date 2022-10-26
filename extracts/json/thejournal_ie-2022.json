@@ -1,5 +1,5 @@
 {
-  "created": 1666723653,
+  "created": 1666772862,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/14/items/thejournal_ie-2022",
@@ -11747,31 +11747,93 @@
       "format": "JSON"
     },
     {
+      "name": "thejournal_ie-2022-10-25T19:44:40.276253+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejournal_ie-2022-10-25T19:44:40.276253+01:00.jpg",
+      "mtime": "1666725121",
+      "size": "9529",
+      "md5": "eea2b685fc256dc90eb1518e106d5ea8",
+      "crc32": "d9e6539e",
+      "sha1": "7461a6082062d8d4a407b3395fa60aaf44d8062c"
+    },
+    {
+      "name": "thejournal_ie-2022-10-26T09:26:27.310450+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772801",
+      "size": "63869",
+      "md5": "a858c6832e7ee3bd7d3d61b3647f5497",
+      "crc32": "2f466862",
+      "sha1": "22cd10255fe6cdbdf0f33b6386061105bda81676",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-10-26T09:26:27.310450+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772803",
+      "size": "65437",
+      "md5": "8437359b333e8202edd34dde88c26f62",
+      "crc32": "bbffc2bf",
+      "sha1": "562f714503081cedbdf8ea2a47500bfdd1aab37a",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-10-26T09:26:27.310450+01:00.jpg",
+      "source": "original",
+      "mtime": "1666772797",
+      "size": "302907",
+      "md5": "d8ac679af8c395e43536bbbca8296b9b",
+      "crc32": "8d397242",
+      "sha1": "3f1236033b89346558201a8e4e99f98cc566e8d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejournal_ie-2022-10-26T09:26:27.310450+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772806",
+      "size": "1486",
+      "md5": "d15b768362c91efdb249e2fe95221740",
+      "crc32": "8ca723f3",
+      "sha1": "0961deff7910c5452cca5900b96a74ccac344cf9",
+      "format": "JSON"
+    },
+    {
+      "name": "thejournal_ie-2022-10-26T09:26:27.310450+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772808",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thejournal_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "047d5688a1373ed25a0f26cdda0c38f726bf304f",
-      "mtime": "1666723649",
-      "size": "246430",
-      "md5": "70f28fc197e21241adec1cbc93172b32",
-      "crc32": "5a501b4f",
-      "sha1": "653e68bb7a374595e21ddb234550cc5579800213",
+      "btih": "985d930f18b9c648a035a73bf77c716389bacd26",
+      "mtime": "1666772858",
+      "size": "247725",
+      "md5": "53831db6c2216396984acffdc29db508",
+      "crc32": "b4a8e53f",
+      "sha1": "f767e693bd14cd8f5a1412bae39340fdd1ca0865",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejournal_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f08256231d37035532e2fc028cef9da",
+      "md5": "4bf889673ea85baf7c563f4ca0be88bf",
       "summation": "md5"
     },
     {
       "name": "thejournal_ie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723602",
-      "size": "1458176",
-      "md5": "8d201693d4f42aa4dd3f78b4c198ac51",
-      "crc32": "c8d30c68",
-      "sha1": "3565ade4a4cfc6ba02e5c7e7bb89efb4f3d328a6",
+      "mtime": "1666772812",
+      "size": "1466368",
+      "md5": "5aaced11644018cfaff7fd91f7dccece",
+      "crc32": "95c3bac6",
+      "sha1": "222a9f51913deddcff1a6357fd5b911dbebeead6",
       "format": "Metadata"
     },
     {
@@ -11785,9 +11847,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1139,
-  "item_last_updated": 1666723649,
-  "item_size": 92153474,
+  "files_count": 1145,
+  "item_last_updated": 1666772858,
+  "item_size": 92606391,
   "metadata": {
     "identifier": "thejournal_ie-2022",
     "collection": [
@@ -11809,7 +11871,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451973863,
+      "task_id": 3452725979,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11817,7 +11879,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1200625841,
+  "uniq": 325543164,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

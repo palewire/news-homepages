@@ -1,5 +1,5 @@
 {
-  "created": 1666723747,
+  "created": 1666773049,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/7/items/vryeweekblad-2022",
@@ -7787,31 +7787,93 @@
       "format": "JSON"
     },
     {
+      "name": "vryeweekblad-2022-10-25T20:47:15.049444+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vryeweekblad-2022-10-25T20:47:15.049444+02:00.jpg",
+      "mtime": "1666724884",
+      "size": "8174",
+      "md5": "17d64fd454c68dcf7156f7aa1f62e6a4",
+      "crc32": "5f122d7e",
+      "sha1": "736dd1608465750df446037110f78f9482c8b120"
+    },
+    {
+      "name": "vryeweekblad-2022-10-26T10:29:42.800002+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772988",
+      "size": "58984",
+      "md5": "e18c2086ebc6fc2e121da3c5761fae1d",
+      "crc32": "ac0c5eef",
+      "sha1": "3a0a61172fa21f23b945982b6540e81c3582bdd9",
+      "format": "JSON"
+    },
+    {
+      "name": "vryeweekblad-2022-10-26T10:29:42.800002+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772989",
+      "size": "38498",
+      "md5": "d00399502d1e1dc276343a4491589893",
+      "crc32": "d99a093e",
+      "sha1": "bc7d7227f6f53f291c6e3a30e7d9178d8e8e4dbe",
+      "format": "JSON"
+    },
+    {
+      "name": "vryeweekblad-2022-10-26T10:29:42.800002+02:00.jpg",
+      "source": "original",
+      "mtime": "1666772986",
+      "size": "199730",
+      "md5": "a6cb26833e7cf7f5510451522a92cb72",
+      "crc32": "5204a95e",
+      "sha1": "2c1fa418f3eb55a33b2b98aa04c867f0b45f69b4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vryeweekblad-2022-10-26T10:29:42.800002+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772991",
+      "size": "1513",
+      "md5": "ef0ce76a6ae93138184150fdd3a6afd7",
+      "crc32": "d89c4a1e",
+      "sha1": "ecb45070fb47d168b10d4edee9fd14c317483cad",
+      "format": "JSON"
+    },
+    {
+      "name": "vryeweekblad-2022-10-26T10:29:42.800002+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772992",
+      "size": "11779",
+      "md5": "268cb4669121e225280f3b37537a4dc5",
+      "crc32": "2c95651b",
+      "sha1": "980b464f17c88a748e9cce6fcdd9ae51348b22c7",
+      "format": "JSON"
+    },
+    {
       "name": "vryeweekblad-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4721c2817118784d46dd1e5758ba581e4ceafc75",
-      "mtime": "1666723741",
-      "size": "162541",
-      "md5": "a66b0c2f165f3f04c67d029f0087c5e6",
-      "crc32": "476ff9c9",
-      "sha1": "92a37ce6e0a9ae6b575d345ff38f2b4297ffc6af",
+      "btih": "bc97517b37e23ab060e404849919b2610bb1950f",
+      "mtime": "1666773043",
+      "size": "163832",
+      "md5": "750aa338f66fabb2c555fee94d9aa940",
+      "crc32": "9250bd66",
+      "sha1": "33b03125c8540cf1c02090f901df0e9f52fdbaf2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vryeweekblad-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2d4975f384ecb92c69c12d748193bd6",
+      "md5": "297738fa05312f478fa6fed824588100",
       "summation": "md5"
     },
     {
       "name": "vryeweekblad-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723695",
-      "size": "978944",
-      "md5": "8f5233183b42bfaed5b190131ac9e7a6",
-      "crc32": "5280ccb2",
-      "sha1": "d6a50216e9ba578cc8165355ce55aeb3d85050a9",
+      "mtime": "1666772998",
+      "size": "987136",
+      "md5": "9daaddabaa3bbf8881e0e9e0935124d1",
+      "crc32": "0f89f14c",
+      "sha1": "cedc66f996cd1b45e94f4b9f6ef063bf11e42792",
       "format": "Metadata"
     },
     {
@@ -7825,9 +7887,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 757,
-  "item_last_updated": 1666723741,
-  "item_size": 44143158,
+  "files_count": 763,
+  "item_last_updated": 1666773043,
+  "item_size": 44471319,
   "metadata": {
     "identifier": "vryeweekblad-2022",
     "collection": [
@@ -7849,7 +7911,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451976399,
+      "task_id": 3452727638,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7857,7 +7919,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1170927804,
+  "uniq": 1120003509,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

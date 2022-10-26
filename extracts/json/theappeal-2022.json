@@ -1,5 +1,5 @@
 {
-  "created": 1666723649,
+  "created": 1666772845,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/15/items/theappeal-2022",
@@ -11339,31 +11339,93 @@
       "format": "JSON"
     },
     {
+      "name": "theappeal-2022-10-25T14:44:17.240662-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-25T14:44:17.240662-04:00.jpg",
+      "mtime": "1666724701",
+      "size": "9654",
+      "md5": "a9f2da8dc068a0591cfac0472cd89626",
+      "crc32": "666e6b8a",
+      "sha1": "5f03d21f202e00d6396ed4c8b56d4c769c0c53f0"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772776",
+      "size": "38308",
+      "md5": "c450f4c3b224396a5d4df03cb7aee327",
+      "crc32": "9fdb9132",
+      "sha1": "64b92a89216010ee37a9b787ba020487b5861bfb",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772782",
+      "size": "42323",
+      "md5": "4ff12c90886312e025d02641bb5d77e5",
+      "crc32": "b188a131",
+      "sha1": "f58ec26c4a07a624511a0661d1849882075a31a9",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772774",
+      "size": "235446",
+      "md5": "f291eb754401d33a377bbfa9f375b00c",
+      "crc32": "54d5064c",
+      "sha1": "389c2df9790855afe6e99e9d14b5ddadf0486179",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772783",
+      "size": "1448",
+      "md5": "ad0d7cc4be0bfa3aa1e8188167b99e7a",
+      "crc32": "a11ceb47",
+      "sha1": "b0dcdb1e9d5764b68edefbc7811486f4a8800706",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772785",
+      "size": "16294",
+      "md5": "4db14625d45ccd35e05745c61898ed4b",
+      "crc32": "3f5af0e3",
+      "sha1": "fe8df9c4e8101eb7ac576c9d650e6f0434b76bcc",
+      "format": "JSON"
+    },
+    {
       "name": "theappeal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "732fbce22063e1ced6f83e1e530691d05b098840",
-      "mtime": "1666723645",
-      "size": "232728",
-      "md5": "418bfd10bfeb546853ca66420d053176",
-      "crc32": "6fa22805",
-      "sha1": "1a1cac247ff7f46e2576504304b3a797dc0e5bda",
+      "btih": "8dc4abf369dc9ca2ceaf2b98de9588751cbbb7d6",
+      "mtime": "1666772839",
+      "size": "234001",
+      "md5": "1641c251b007bc43d25d1d1c85af6aa7",
+      "crc32": "de61d167",
+      "sha1": "46f701d3ddd0aad767f592960d42209e93615946",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theappeal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a82d62073020e0b5f287bef0eeb7c3c",
+      "md5": "d3a6569c2a467104eeea74143afcb96a",
       "summation": "md5"
     },
     {
       "name": "theappeal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723598",
-      "size": "1400832",
-      "md5": "0252906b5700b55ff5303a8d498f420b",
-      "crc32": "180d9aa0",
-      "sha1": "68e02a7c3c94ce840aa81ce4c2b43a33ae80221f",
+      "mtime": "1666772793",
+      "size": "1409024",
+      "md5": "49fab83de474ad656c39e37c412e940c",
+      "crc32": "0f9f77b1",
+      "sha1": "4f5a0f965e063ee362ac93253352ec90d795bae6",
       "format": "Metadata"
     },
     {
@@ -11377,9 +11439,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1100,
-  "item_last_updated": 1666723645,
-  "item_size": 64641635,
+  "files_count": 1106,
+  "item_last_updated": 1666772839,
+  "item_size": 64994573,
   "metadata": {
     "identifier": "theappeal-2022",
     "collection": [
@@ -11401,7 +11463,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451973758,
+      "task_id": 3452725835,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11409,7 +11471,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1281584855,
+  "uniq": 1572280989,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]
