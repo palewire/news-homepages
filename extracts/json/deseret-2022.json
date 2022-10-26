@@ -1,5 +1,5 @@
 {
-  "created": 1666701820,
+  "created": 1666742628,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/27/items/deseret-2022",
@@ -9162,31 +9162,82 @@
       "sha1": "8a10df1918ab09b55b6fa21fa2bc2169f1430f55"
     },
     {
+      "name": "deseret-2022-10-25T18:02:43.876213-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742569",
+      "size": "32118",
+      "md5": "28de0dcd8d6e377a01958fe9e5f51fcd",
+      "crc32": "c78098ef",
+      "sha1": "fbd6003aa2c9010d18ce588b6345cc05f3c79670",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-25T18:02:43.876213-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742571",
+      "size": "48934",
+      "md5": "356b855953a1248b1bec8c614088aa7b",
+      "crc32": "213d019b",
+      "sha1": "23a13b163c579cab916a0e0e9c3cb307add6e838",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-25T18:02:43.876213-06:00.jpg",
+      "source": "original",
+      "mtime": "1666742568",
+      "size": "298944",
+      "md5": "e2b740de57717e64a644906a918da903",
+      "crc32": "fcf8fbfa",
+      "sha1": "2abda37a7ed22b37cf2f80a5f777354fade5e771",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deseret-2022-10-25T18:02:43.876213-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742573",
+      "size": "1468",
+      "md5": "0d3b5e8d4223054163d855404c364c89",
+      "crc32": "29ffa3cf",
+      "sha1": "136958da5789f299ace9cdeee4d920b25b2376d8",
+      "format": "JSON"
+    },
+    {
+      "name": "deseret-2022-10-25T18:02:43.876213-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742574",
+      "size": "37108",
+      "md5": "9cb3c6b2dc2533cc61da44754dc62cf7",
+      "crc32": "5adbed0c",
+      "sha1": "d4f43aee2261a980a659549824045e6829e7491c",
+      "format": "JSON"
+    },
+    {
       "name": "deseret-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f194c2f1fe80861b41c7999dc384d6fe468e6c28",
-      "mtime": "1666701750",
-      "size": "186782",
-      "md5": "75e8009b3304d0839caa4b70fd6c0aaa",
-      "crc32": "91ceaac5",
-      "sha1": "8590af3faba19b894e37ead5ddba699e65f45d4f",
+      "btih": "30eecc960f6842642f7455e54b32db21d5d0edbf",
+      "mtime": "1666742624",
+      "size": "187840",
+      "md5": "0fb4bfd578fa155106cc484eadfea93b",
+      "crc32": "12c13dc4",
+      "sha1": "4640d4a0e9272bbf9c3491cbc1191e9eed53f2aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deseret-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72f83f86281c31f212a0561fa5c390fd",
+      "md5": "551bc6abc55a60c9e79592c42a1fff4b",
       "summation": "md5"
     },
     {
       "name": "deseret-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666699492",
-      "size": "1134592",
-      "md5": "4160f259a882b2186b9eadaecfeb4407",
-      "crc32": "c43b46c4",
-      "sha1": "cddd713eb478ccb2991c74add48370bd92b2e012",
+      "mtime": "1666742580",
+      "size": "1146880",
+      "md5": "582ce604706a23d1932d4cd4bd8db401",
+      "crc32": "5ac82b77",
+      "sha1": "d1502244ec640a16b74d63fa288567fcacf8e142",
       "format": "Metadata"
     },
     {
@@ -9200,9 +9251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 890,
-  "item_last_updated": 1666701750,
-  "item_size": 58269893,
+  "files_count": 895,
+  "item_last_updated": 1666742624,
+  "item_size": 58701811,
   "metadata": {
     "identifier": "deseret-2022",
     "collection": [
@@ -9219,10 +9270,21 @@
     "publicdate": "2022-08-13 23:54:11",
     "addeddate": "2022-08-13 23:54:11"
   },
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 1028963730,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3452431780,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1890150474,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia601507.us.archive.org"
   ]
 }

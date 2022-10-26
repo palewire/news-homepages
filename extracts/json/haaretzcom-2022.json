@@ -1,5 +1,5 @@
 {
-  "created": 1666702843,
+  "created": 1666742802,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/17/items/haaretzcom-2022",
@@ -8988,31 +8988,82 @@
       "sha1": "eb12194f9939a3d18f2a29cd7129464d77becf64"
     },
     {
+      "name": "haaretzcom-2022-10-26T03:05:29.888793+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742744",
+      "size": "140689",
+      "md5": "12e5235542d6b5bd13947e1ed2a0fda0",
+      "crc32": "98ade60c",
+      "sha1": "f024e65bd231e28b81a2efbef2fb9b69c3c84d79",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-26T03:05:29.888793+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742746",
+      "size": "105662",
+      "md5": "df586cc0d5a3cfcae4fb099e2fc28fd3",
+      "crc32": "d6414d37",
+      "sha1": "f9f6f53a59365c3f3c36f4dd6efac40aa36baa99",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-26T03:05:29.888793+03:00.jpg",
+      "source": "original",
+      "mtime": "1666742742",
+      "size": "231667",
+      "md5": "f82ede44c8f6d89176af105d9c38c04c",
+      "crc32": "c20dfd89",
+      "sha1": "e88fbe742bb87028e30633c2487dfef2dd16d511",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "haaretzcom-2022-10-26T03:05:29.888793+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742747",
+      "size": "1485",
+      "md5": "e5417bdb73fe157899cb762d5b11dc27",
+      "crc32": "a805d627",
+      "sha1": "b532208bf9c2891a0874734857c641fe937900f0",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-26T03:05:29.888793+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742749",
+      "size": "112664",
+      "md5": "b005978655826c91e41e14efba243532",
+      "crc32": "24420432",
+      "sha1": "902a2d702d0deeaf5b2c0be260277f994a4d0b75",
+      "format": "JSON"
+    },
+    {
       "name": "haaretzcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c5fcd70af82c03730e82ef91d0f56e5cd2ff354",
-      "mtime": "1666701802",
-      "size": "187020",
-      "md5": "b8defa4cd8ff841bcdf63b9e3331fa5f",
-      "crc32": "e72d4505",
-      "sha1": "7f27d678a360ce83336b452cdba268b5ba69df4c",
+      "btih": "ae0564a13f44ec42887ac5d9f745f9a6ca1a599e",
+      "mtime": "1666742799",
+      "size": "188096",
+      "md5": "39ab766596c7451cd82950ddb89a73dc",
+      "crc32": "c8418a51",
+      "sha1": "2fbd1809aaa284c3606944380ea0a046b12ed4dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "haaretzcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a370cfa34fa5d088f8602f3f36fff3de",
+      "md5": "0d27383c004997a9114a36c7c6c2eaaf",
       "summation": "md5"
     },
     {
       "name": "haaretzcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666699674",
-      "size": "1122304",
-      "md5": "ac737a7769e47a0dffb104448aa5573d",
-      "crc32": "3295d3a7",
-      "sha1": "9032e4a6c4b50f821aafd0ead90ec4b8beb1b250",
+      "mtime": "1666742754",
+      "size": "1130496",
+      "md5": "c3d7e68495e01f5381d0fee6df13f819",
+      "crc32": "2224da8e",
+      "sha1": "4537934c373d6be7048e3f9040ab33e5c8089231",
       "format": "Metadata"
     },
     {
@@ -9026,13 +9077,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 873,
-  "haaretzcom-2022": {
-    "url": "https://www.haaretz.co.il/",
-    "job_id": "spn2-a453cc82b7f3c1cd7dab871fbb90f9f1ddaf6cce"
-  },
-  "item_last_updated": 1666701802,
-  "item_size": 81355090,
+  "files_count": 878,
+  "item_last_updated": 1666742799,
+  "item_size": 81956525,
   "metadata": {
     "identifier": "haaretzcom-2022",
     "collection": [
@@ -9049,10 +9096,21 @@
     "publicdate": "2022-08-13 23:57:56",
     "addeddate": "2022-08-13 23:57:56"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 1886684833,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3452434210,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 116217862,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666700082,
+  "created": 1666742442,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/15/items/cityandstateny-2022",
@@ -10443,31 +10443,93 @@
       "format": "JSON"
     },
     {
+      "name": "cityandstateny-2022-10-25T08:13:09.573275-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cityandstateny-2022-10-25T08:13:09.573275-04:00.jpg",
+      "mtime": "1666706497",
+      "size": "9595",
+      "md5": "7cf67267eaa3361110dc37f931ffe503",
+      "crc32": "60a77ae5",
+      "sha1": "baa637b4a4f666a9ff1679deda4f3d99b3b80c29"
+    },
+    {
+      "name": "cityandstateny-2022-10-25T19:59:39.059366-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742385",
+      "size": "29176",
+      "md5": "281d58617ebb2dbba701939875084036",
+      "crc32": "0387a9b5",
+      "sha1": "682a76f7053a5957029da0db83b3dcb7b1d9b67f",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-10-25T19:59:39.059366-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742388",
+      "size": "30132",
+      "md5": "f99318e97dab6220df30c7b21f673aaf",
+      "crc32": "ecd630e2",
+      "sha1": "cb047020150e81e585a3024d33cf19e82f28824f",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-10-25T19:59:39.059366-04:00.jpg",
+      "source": "original",
+      "mtime": "1666742384",
+      "size": "289163",
+      "md5": "374e50632c042a4f9ae417968de4433a",
+      "crc32": "709b68c1",
+      "sha1": "3f96d3003588ede69c5e746a082b4b26274dc42c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cityandstateny-2022-10-25T19:59:39.059366-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742389",
+      "size": "1531",
+      "md5": "d1e29fa197f177986c1a4d1aab59e5d9",
+      "crc32": "030e9468",
+      "sha1": "6ff60e8b1cdd52832997dce3ee4523b704b6fc9d",
+      "format": "JSON"
+    },
+    {
+      "name": "cityandstateny-2022-10-25T19:59:39.059366-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742391",
+      "size": "36668",
+      "md5": "c2198e10ec4cac9563624b32c935674d",
+      "crc32": "e903b18c",
+      "sha1": "bf598e8f555792c1233b00fad951541cf6eadd93",
+      "format": "JSON"
+    },
+    {
       "name": "cityandstateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3eb9abd3642f7b86cdd7fb2bb8efd3fb2241dac8",
-      "mtime": "1666700079",
-      "size": "220037",
-      "md5": "354cbbee4125eb52cafdd153ec935916",
-      "crc32": "e688141a",
-      "sha1": "cbddc298ae9ae6818665488199f08c893fd96f4f",
+      "btih": "8d9acaf30fa9d7995e772b7d548de61786d5b16a",
+      "mtime": "1666742438",
+      "size": "221340",
+      "md5": "d73aba706055f6b44f5dadf7c148f307",
+      "crc32": "3359d108",
+      "sha1": "b25663eae479e8f43bad9f47e65040d8e1624551",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cityandstateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26702176a23d0d11e86787b3719a9f45",
+      "md5": "7256203687c8f4403ed3533ecee64647",
       "summation": "md5"
     },
     {
       "name": "cityandstateny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666700032",
-      "size": "1310720",
-      "md5": "f9cc1b31e952571460bcacd89c9c5325",
-      "crc32": "6a830eb6",
-      "sha1": "0fa139cb509591d1f014c86261a52e8bd1f87fa6",
+      "mtime": "1666742394",
+      "size": "1314816",
+      "md5": "e8fe9353b748aadeccb07e80956cb062",
+      "crc32": "dd4a1e8b",
+      "sha1": "d96189982e3d741906cab5e60557bd231ce5d0b3",
       "format": "Metadata"
     },
     {
@@ -10481,9 +10543,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1014,
-  "item_last_updated": 1666700079,
-  "item_size": 69359412,
+  "files_count": 1020,
+  "item_last_updated": 1666742438,
+  "item_size": 69761076,
   "metadata": {
     "identifier": "cityandstateny-2022",
     "collection": [
@@ -10505,15 +10567,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451629606,
+      "task_id": 3452427944,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 617752736,
+  "uniq": 716940555,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

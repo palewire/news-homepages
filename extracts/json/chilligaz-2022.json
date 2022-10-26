@@ -1,5 +1,5 @@
 {
-  "created": 1666701586,
+  "created": 1666742412,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/8/items/chilligaz-2022",
@@ -4408,31 +4408,82 @@
       "sha1": "b207a5872a10254fef3537ab3f68f401cce36286"
     },
     {
+      "name": "chilligaz-2022-10-25T19:59:13.239599-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742357",
+      "size": "19569",
+      "md5": "090655bee7eaeed93168d871203fe0c6",
+      "crc32": "d2d3b66d",
+      "sha1": "dcadc2ecbddef0d4784582bc1a4db684895fa62f",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-25T19:59:13.239599-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742359",
+      "size": "38156",
+      "md5": "27e3669511e61b4040d1a45e32a00d58",
+      "crc32": "df700d48",
+      "sha1": "d13d3ad202299da5eefeb3f8627a73a9351bec0b",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-25T19:59:13.239599-04:00.jpg",
+      "source": "original",
+      "mtime": "1666742356",
+      "size": "229567",
+      "md5": "13b93af4d2bfcb6ad3ba8e4cb8044506",
+      "crc32": "ae23f017",
+      "sha1": "4fc8fb5eb12dde4e6f9e47bd1d5c96745ed93401",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-25T19:59:13.239599-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742361",
+      "size": "1567",
+      "md5": "3d874e7532d0ce39d4e9d60ca2fdb806",
+      "crc32": "24d5c887",
+      "sha1": "0afce30cf39ef6afdc6f83edc92463ddce3ca26d",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-25T19:59:13.239599-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742362",
+      "size": "77118",
+      "md5": "36a41618bbdbd069e40e43aac65f6159",
+      "crc32": "11dd3750",
+      "sha1": "6e7a2c4b0307e82a68cc860abdcd911c15796dc7",
+      "format": "JSON"
+    },
+    {
       "name": "chilligaz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aebdbf03c6464a6e294bf2ea15e1a99e1b621e18",
-      "mtime": "1666701562",
-      "size": "91532",
-      "md5": "dd544e2dfd01a9e2ed23921a4309b1d0",
-      "crc32": "89d2f8c5",
-      "sha1": "0c57fb29978da8dc645bc56906d9cc97e2a1eeab",
+      "btih": "d415414ff92f75112ee6535a125502b81182dc1c",
+      "mtime": "1666742407",
+      "size": "92600",
+      "md5": "3744e29ba6873050032129ff82fd2659",
+      "crc32": "88db6d95",
+      "sha1": "3cd466a178c7f2997eee4ce5a4e3e168dfa534cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chilligaz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61df26201d9b5b592f4e0ecbb6c81b92",
+      "md5": "9e7b86274cb013aabf419991bac67550",
       "summation": "md5"
     },
     {
       "name": "chilligaz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666699403",
-      "size": "557056",
-      "md5": "48379353456c0eaa2b6b63a4d52b63d8",
-      "crc32": "5eaaeffc",
-      "sha1": "da26d68a41809385998747ee90d82efa6e15ad1b",
+      "mtime": "1666742367",
+      "size": "565248",
+      "md5": "19c3f643b09fd5a39d91c7ba7e5da9f9",
+      "crc32": "1b02f621",
+      "sha1": "499a40d25d42cc0f33f44a0fe029423e497c3db8",
       "format": "Metadata"
     },
     {
@@ -4446,9 +4497,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 430,
-  "item_last_updated": 1666701562,
-  "item_size": 30454257,
+  "files_count": 435,
+  "item_last_updated": 1666742407,
+  "item_size": 30829494,
   "metadata": {
     "identifier": "chilligaz-2022",
     "collection": [
@@ -4465,10 +4516,21 @@
     "publicdate": "2022-09-20 22:13:45",
     "addeddate": "2022-09-20 22:13:45"
   },
+  "pending_tasks": true,
   "server": "ia601402.us.archive.org",
-  "uniq": 1608183690,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3452427314,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 778590348,
   "workable_servers": [
-    "ia601402.us.archive.org",
-    "ia801402.us.archive.org"
+    "ia601402.us.archive.org"
   ]
 }

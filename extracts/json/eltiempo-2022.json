@@ -1,13 +1,8 @@
 {
-  "created": 1666702648,
+  "created": 1666742625,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/eltiempo-2022",
-  "eltiempo-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -14521,31 +14516,82 @@
       "sha1": "4770cc31d1aad4821c1378b9289962fe78b3b7b0"
     },
     {
+      "name": "eltiempo-2022-10-25T19:02:23.728416-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742557",
+      "size": "40324",
+      "md5": "636eb724244cf621ca569ebcea75ff6b",
+      "crc32": "b40c5d75",
+      "sha1": "d2980e14f62e2a21943ac8fb3916c7b6aaff76c8",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-25T19:02:23.728416-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742559",
+      "size": "70881",
+      "md5": "665a80b208a22c67a79aba72e24d7c7d",
+      "crc32": "a0a71007",
+      "sha1": "f34b3d31689ddfeb0a857ba23c445d83f4b228ad",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-25T19:02:23.728416-05:00.jpg",
+      "source": "original",
+      "mtime": "1666742555",
+      "size": "315924",
+      "md5": "5791c0d2189670c79fdc068831bfc8ea",
+      "crc32": "ffead37c",
+      "sha1": "e475b63b6756a4310c7235c086912989d93f1b5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eltiempo-2022-10-25T19:02:23.728416-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742561",
+      "size": "1476",
+      "md5": "bd2bf583f90de74d80b41ab46ab5a7b5",
+      "crc32": "f625f2f6",
+      "sha1": "f18541d7b472f83429ea7b5d6b32e549a888b1d9",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-25T19:02:23.728416-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742563",
+      "size": "98960",
+      "md5": "9eb39c71eb0f0829e5039161fe1e3bc8",
+      "crc32": "a65067bb",
+      "sha1": "6f3687b759bd68de4565be02e043f20dde79b427",
+      "format": "JSON"
+    },
+    {
       "name": "eltiempo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "87f4779ad3c2f8cb4e5d63e073e7e614e422c790",
-      "mtime": "1666701644",
-      "size": "296676",
-      "md5": "7524e802cfaa84f0f44c30cb0a9b8d0d",
-      "crc32": "480a0bd4",
-      "sha1": "706aa00a7579247421a1a6a468cbc0a1218308a7",
+      "btih": "81669b4101bbe776d5d20758f0ee4eea54fc992a",
+      "mtime": "1666742621",
+      "size": "297739",
+      "md5": "e8239a71de4c4bab74ac305eaf388d61",
+      "crc32": "af39d971",
+      "sha1": "770759a9326dd66d5f7d690ed7b5c7d54f8fd837",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eltiempo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e22be9e9953c2d3728bfdc27b6197ef4",
+      "md5": "9ac38be04cc2736c68e3e88d5a45c0b6",
       "summation": "md5"
     },
     {
       "name": "eltiempo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666699494",
-      "size": "1736704",
-      "md5": "295e15fe7a539e79ed4770cde9fc69dd",
-      "crc32": "55bd5050",
-      "sha1": "79b145471077c6c35e6589626ba8c5b7e049dd5f",
+      "mtime": "1666742568",
+      "size": "1740800",
+      "md5": "6fa5a1477d5d61a47a4c68a2e3fba723",
+      "crc32": "36740b53",
+      "sha1": "61573b2f43932d8034bfb718bd4385b2b71e55fd",
       "format": "Metadata"
     },
     {
@@ -14559,9 +14605,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1402,
-  "item_last_updated": 1666701644,
-  "item_size": 130195774,
+  "files_count": 1407,
+  "item_last_updated": 1666742621,
+  "item_size": 130728498,
   "metadata": {
     "identifier": "eltiempo-2022",
     "collection": [
@@ -14578,10 +14624,21 @@
     "publicdate": "2022-06-24 22:54:38",
     "addeddate": "2022-06-24 22:54:38"
   },
-  "server": "ia802509.us.archive.org",
-  "uniq": 536896952,
+  "pending_tasks": true,
+  "server": "ia902509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3452431730,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 429948901,
   "workable_servers": [
-    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }
