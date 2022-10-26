@@ -1,5 +1,5 @@
 {
-  "created": 1666706340,
+  "created": 1666751726,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -30425,31 +30425,93 @@
       "format": "JSON"
     },
     {
+      "name": "pajaropolitico-2022-10-25T08:56:19.912617-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-25T08:56:19.912617-05:00.jpg",
+      "mtime": "1666708748",
+      "size": "9774",
+      "md5": "219281ae258eeaf36b7885745a7b2e46",
+      "crc32": "d3f615d2",
+      "sha1": "2ebd81d60fd7860f2efffde7cf823e1bdf684cad"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666751612",
+      "size": "22623",
+      "md5": "7bb33b52f44e7fb2a7ba7e2c4dea40d3",
+      "crc32": "951490a8",
+      "sha1": "11cfeb4b747dd30bf786509b583ea03046b654cd",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751613",
+      "size": "21241",
+      "md5": "6db3b40267dfc7ca855b52e3a24d8778",
+      "crc32": "3d6599c9",
+      "sha1": "790987f40b578a6ebb947bcf81b2622ae2541d23",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.jpg",
+      "source": "original",
+      "mtime": "1666751610",
+      "size": "251596",
+      "md5": "fa3a94b2febcbf59b045e9bffd88eaee",
+      "crc32": "9679cb76",
+      "sha1": "c49705d08fdfe54ef23c903c854f32892b4443e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751616",
+      "size": "1530",
+      "md5": "4879213f4eb9070d79b42a88c4406d0e",
+      "crc32": "7e873fc7",
+      "sha1": "0d5415a4e51ef9fae8d674993790fcb70e5c54c7",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666751619",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb15cd40aaf74566456464a0ac17268313afbde4",
-      "mtime": "1666706333",
-      "size": "631690",
-      "md5": "1f19b8caeb6ddca640a402fb6a52093f",
-      "crc32": "94f0835a",
-      "sha1": "4f4bb69fd3997ab38e28659b514235a57a317ef1",
+      "btih": "3148f1c82e763833cbbd2afe03247a594a3b9a16",
+      "mtime": "1666751720",
+      "size": "632971",
+      "md5": "19d1a8b36f79a5ce1d8cf8fcfe6746b3",
+      "crc32": "37ebc54d",
+      "sha1": "c4b53d99b5cc23839b3cd3c0330bfa339a289a20",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6d6d5ba9b158e7f90a68bae441ae016",
+      "md5": "5bd99d84964190a54324d0a487906095",
       "summation": "md5"
     },
     {
       "name": "pajaropolitico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706240",
-      "size": "3502080",
-      "md5": "02281e4c6ec1197321bfe02c2c163714",
-      "crc32": "fcc5e947",
-      "sha1": "78c31e5d79df8ef35c9403ce51ab77f5e3ea5d66",
+      "mtime": "1666751624",
+      "size": "3510272",
+      "md5": "a41cbfad40baa196045626319639dcc2",
+      "crc32": "1a8da57f",
+      "sha1": "55fb8d22d16d1fa4aec8ede3d569ddd95e557ac2",
       "format": "Metadata"
     },
     {
@@ -30463,9 +30525,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2918,
-  "item_last_updated": 1666706333,
-  "item_size": 215668118,
+  "files_count": 2924,
+  "item_last_updated": 1666751720,
+  "item_size": 215984557,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -30487,15 +30549,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451703895,
+      "task_id": 3452519190,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 2099320174,
+  "uniq": 1858902364,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
