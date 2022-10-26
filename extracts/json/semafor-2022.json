@@ -1,6 +1,5 @@
 {
-  "conflict": 1666723929,
-  "created": 1666723879,
+  "created": 1666772643,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/32/items/semafor-2022",
@@ -14353,31 +14352,82 @@
       "sha1": "437cb7ab9a3c89c5228638fc6d8e78cdd60905c1"
     },
     {
+      "name": "semafor-2022-10-26T04:22:15.368181-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772552",
+      "size": "11339",
+      "md5": "8d5e4ce953662ccb02e04263a28e4597",
+      "crc32": "2563b1ca",
+      "sha1": "6415dc8f64b601d058f604c3c99fc9901a5e1b4c",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-26T04:22:15.368181-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772554",
+      "size": "12618",
+      "md5": "f326c732beb7fe0042e804efa3173ba7",
+      "crc32": "6ff0315a",
+      "sha1": "59074adc0a5893730e4fd8ebee20a4a09c2bf2f2",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-26T04:22:15.368181-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772550",
+      "size": "404221",
+      "md5": "313b88d188742cb8a5c40dd7faa41064",
+      "crc32": "607bd783",
+      "sha1": "755b381090c626b1d192d3e0f8d984beb2220430",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "semafor-2022-10-26T04:22:15.368181-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772557",
+      "size": "1456",
+      "md5": "b3e817c6c1c28ac3e6a6a049a95cba8b",
+      "crc32": "61be2bfb",
+      "sha1": "b6eee27161e6cd6cafce1491f88a534fac19e56a",
+      "format": "JSON"
+    },
+    {
+      "name": "semafor-2022-10-26T04:22:15.368181-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772559",
+      "size": "6000",
+      "md5": "eb9f0b9942be11121d99288d5ffb438c",
+      "crc32": "66b5d788",
+      "sha1": "32755c262d24006f15615ef6cebb5c07028c5c87",
+      "format": "JSON"
+    },
+    {
       "name": "semafor-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88aa168204996e229195b057cb9429b3d9f70d76",
-      "mtime": "1666723548",
-      "size": "288140",
-      "md5": "c1c3ee842411c15a4ab9d6301bd42490",
-      "crc32": "98d1b0ae",
-      "sha1": "96613bcbe390ae2342e82caf958202729fe560e3",
+      "btih": "781a31fc8a89c4c57c2a3eb7fb30531e6e8979fa",
+      "mtime": "1666772631",
+      "size": "289197",
+      "md5": "8cadd41a928f435c389ded2dea8a2b5e",
+      "crc32": "e138645d",
+      "sha1": "dbc2ca4f3dd55cec48b6244ebc060383f532f7da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "semafor-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "64a51da06f68f518c87e84fd23218659",
+      "md5": "64fb9f088c2b815fc20ed617abfd1fc6",
       "summation": "md5"
     },
     {
       "name": "semafor-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722368",
-      "size": "1724416",
-      "md5": "779070b509e5c8022d1c766ea33e8d9d",
-      "crc32": "b5d8ec41",
-      "sha1": "6c5cb4a26a2d11540a5083e38ae119bda11380e6",
+      "mtime": "1666772566",
+      "size": "1732608",
+      "md5": "097ac3c2f292defd0148b4ddba0d2604",
+      "crc32": "7ecec2af",
+      "sha1": "cf4cc64093e469c1e8355b3a2d7b2aa1fba2ebc8",
       "format": "Metadata"
     },
     {
@@ -14391,9 +14441,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1387,
-  "item_last_updated": 1666723548,
-  "item_size": 46717090,
+  "files_count": 1392,
+  "item_last_updated": 1666772631,
+  "item_size": 47161973,
   "metadata": {
     "identifier": "semafor-2022",
     "collection": [
@@ -14411,20 +14461,20 @@
     "addeddate": "2022-06-24 23:02:08"
   },
   "pending_tasks": true,
-  "server": "ia801407.us.archive.org",
+  "server": "ia601407.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451971298,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3452723970,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 115628679,
+  "uniq": 1361874615,
   "workable_servers": [
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }

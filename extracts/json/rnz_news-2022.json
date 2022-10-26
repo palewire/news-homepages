@@ -1,5 +1,5 @@
 {
-  "created": 1666723774,
+  "created": 1666772462,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/30/items/rnz_news-2022",
@@ -10050,31 +10050,82 @@
       "sha1": "2339e649bf30be45c227779ad916383fe1c99ab6"
     },
     {
+      "name": "rnz_news-2022-10-26T21:19:51.162339+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772398",
+      "size": "25296",
+      "md5": "32d21d8e8d2c226508c99031d46ee62f",
+      "crc32": "81effaee",
+      "sha1": "9ffcd0e9a7989a370f4bee60b624f5f37e4378ff",
+      "format": "JSON"
+    },
+    {
+      "name": "rnz_news-2022-10-26T21:19:51.162339+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772400",
+      "size": "27816",
+      "md5": "4acc680497249aa6734ec2429ceca74b",
+      "crc32": "5448a2a3",
+      "sha1": "25f0ec02e25b77363df1e2c74e058e0964d268dc",
+      "format": "JSON"
+    },
+    {
+      "name": "rnz_news-2022-10-26T21:19:51.162339+13:00.jpg",
+      "source": "original",
+      "mtime": "1666772397",
+      "size": "348229",
+      "md5": "5c6c6176edb6d24f0cadc1cfe2585f98",
+      "crc32": "70d711ff",
+      "sha1": "11c0ec991b2a42efd1af5f1386b13ec8aa000f74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rnz_news-2022-10-26T21:19:51.162339+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772402",
+      "size": "1485",
+      "md5": "16ed4c6a7895dc6c2f9632bd9d756efb",
+      "crc32": "c318fda2",
+      "sha1": "87cb2b654932871c5a1c4f7f57d4b4a14da0a252",
+      "format": "JSON"
+    },
+    {
+      "name": "rnz_news-2022-10-26T21:19:51.162339+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772409",
+      "size": "5918",
+      "md5": "e1e6d3d32d392803aa36f540c40ab214",
+      "crc32": "97517cc0",
+      "sha1": "2cc09614c4f35798f9f1efd6fe4d0002827a349c",
+      "format": "JSON"
+    },
+    {
       "name": "rnz_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3fc803bbb60e3e6a6e00f533c086d25746f24022",
-      "mtime": "1666723465",
-      "size": "205814",
-      "md5": "c52f78e71b0aad1f1236e9c30728d198",
-      "crc32": "b04eb0f1",
-      "sha1": "9f3ed4a113be6eb89fbb4e6a2a65a105f65335cd",
+      "btih": "16fc9ff0a9c3db1b6af3695ccdef2d6d922b59d9",
+      "mtime": "1666772456",
+      "size": "206856",
+      "md5": "adc1bb641b058add06434402c7ea5011",
+      "crc32": "e24e48b0",
+      "sha1": "c6d48f11d30b5b5c96922eec9ca21d43d3fffc10",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rnz_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d108afd2f0fc23a5d0b58cfec81c88d5",
+      "md5": "55594d6ca2248339f065bad1755749ff",
       "summation": "md5"
     },
     {
       "name": "rnz_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722351",
-      "size": "1249280",
-      "md5": "533d4d457323cf100bf0718b9d5480bf",
-      "crc32": "f8516b1e",
-      "sha1": "5371d31454eb991b78b79bd8f257d0cae64c2486",
+      "mtime": "1666772413",
+      "size": "1257472",
+      "md5": "a6d1b5078baede7741914e933c973e7b",
+      "crc32": "279bdea4",
+      "sha1": "b23600dd50ca795f6165065e200bab09345830bd",
       "format": "Metadata"
     },
     {
@@ -10088,9 +10139,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 976,
-  "item_last_updated": 1666723465,
-  "item_size": 64693822,
+  "files_count": 981,
+  "item_last_updated": 1666772456,
+  "item_size": 65111800,
   "metadata": {
     "identifier": "rnz_news-2022",
     "collection": [
@@ -10112,15 +10163,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451969032,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3452721927,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 253253804,
+  "uniq": 504018260,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

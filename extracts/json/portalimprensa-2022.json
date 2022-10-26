@@ -1,5 +1,5 @@
 {
-  "created": 1666722263,
+  "created": 1666772404,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/2/items/portalimprensa-2022",
@@ -13935,31 +13935,93 @@
       "format": "JSON"
     },
     {
+      "name": "portalimprensa-2022-10-25T15:22:05.920360-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portalimprensa-2022-10-25T15:22:05.920360-03:00.jpg",
+      "mtime": "1666725137",
+      "size": "8786",
+      "md5": "9e6bdc354ce069b254565844ec59a411",
+      "crc32": "6cad8dc6",
+      "sha1": "407052359496acd18d0969897a42f392959a325b"
+    },
+    {
+      "name": "portalimprensa-2022-10-26T05:18:33.567178-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772323",
+      "size": "43557",
+      "md5": "c9d5c19487b149cd3907357ddd5a86d1",
+      "crc32": "d4082873",
+      "sha1": "e6d00ff98a1b37a276ef9d409caac4e347d4e84e",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-10-26T05:18:33.567178-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772325",
+      "size": "61442",
+      "md5": "42a451019693b527dfb48261fee173a2",
+      "crc32": "40449b95",
+      "sha1": "6e6ea40b335df2c187cc581d2fecd9b4b39cc776",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-10-26T05:18:33.567178-03:00.jpg",
+      "source": "original",
+      "mtime": "1666772321",
+      "size": "306186",
+      "md5": "ea1f60548dfcb424a124b098357e1bdc",
+      "crc32": "775318c4",
+      "sha1": "e080fbede0002d042a4548a01e8b6714d343f32f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portalimprensa-2022-10-26T05:18:33.567178-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772327",
+      "size": "1558",
+      "md5": "bd96e103d5267c66066b5f2fbd9ad341",
+      "crc32": "357d8c27",
+      "sha1": "396aeae79c748afcceb5925256710da783d85133",
+      "format": "JSON"
+    },
+    {
+      "name": "portalimprensa-2022-10-26T05:18:33.567178-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772328",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "portalimprensa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c249f165ea449936c01a0f55e3b09a85fa79dc4",
-      "mtime": "1666722254",
-      "size": "292890",
-      "md5": "14866d9879947bc669b636d5d578ed65",
-      "crc32": "4a2a1476",
-      "sha1": "6954584eec72817ff48f1667dc8f0f4e76668d6e",
+      "btih": "8d841ed80376aefbc02b73f4bb008c75f15c894d",
+      "mtime": "1666772391",
+      "size": "294191",
+      "md5": "62b5a7c6d0269ca374de332e72f7fd87",
+      "crc32": "3c1dbbec",
+      "sha1": "799cbe930cd762f8af0c4656b5de3670cab11232",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portalimprensa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e16326e131abd78f8159f0bc098cab2f",
+      "md5": "abdd985da4c51264b31be039e97b6917",
       "summation": "md5"
     },
     {
       "name": "portalimprensa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722199",
-      "size": "1740800",
-      "md5": "997766cd8b21e39dbeb8289b1592f41a",
-      "crc32": "d1d74d10",
-      "sha1": "76e256b04d89235ddaf57ad38c532f320f784397",
+      "mtime": "1666772338",
+      "size": "1748992",
+      "md5": "e538885f60b719b4ce07fa56fbc04305",
+      "crc32": "e982f8a7",
+      "sha1": "b688c4eb053a374a217597bb34d228188d89ea1c",
       "format": "Metadata"
     },
     {
@@ -13973,9 +14035,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1352,
-  "item_last_updated": 1666722254,
-  "item_size": 94072444,
+  "files_count": 1358,
+  "item_last_updated": 1666772391,
+  "item_size": 94503668,
   "metadata": {
     "identifier": "portalimprensa-2022",
     "collection": [
@@ -13997,15 +14059,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451936534,
+      "task_id": 3452721477,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 824372360,
+  "uniq": 866221017,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

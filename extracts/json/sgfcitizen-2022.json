@@ -1,6 +1,5 @@
 {
-  "conflict": 1666723679,
-  "created": 1666723679,
+  "created": 1666772661,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/sgfcitizen-2022",
@@ -12581,31 +12580,82 @@
       "sha1": "1680debf2e98fd198b6397f016247ba36d2708a8"
     },
     {
+      "name": "sgfcitizen-2022-10-26T03:23:04.825860-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772597",
+      "size": "33539",
+      "md5": "5c75e328a9159827ce8c568dde9932d5",
+      "crc32": "eb4581c4",
+      "sha1": "e665c20654d8bcf6b81fc1ae44859d2722385fd3",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-10-26T03:23:04.825860-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772599",
+      "size": "32814",
+      "md5": "709539315a0d74891de11412aeb77a52",
+      "crc32": "219cacdf",
+      "sha1": "5b0427571a8a87cab8fc8c0278464f746dcacf13",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-10-26T03:23:04.825860-05:00.jpg",
+      "source": "original",
+      "mtime": "1666772596",
+      "size": "279195",
+      "md5": "a0cad472cdef280298dfd0532d91f262",
+      "crc32": "03a2a7b6",
+      "sha1": "1fa281179fcafbe01abb0468528ef765d0a163a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sgfcitizen-2022-10-26T03:23:04.825860-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772601",
+      "size": "1459",
+      "md5": "55ac0ef8655c33d9453796abf3ca0fe7",
+      "crc32": "6010fe52",
+      "sha1": "6f3d208f3e9c7c0524166a6c64adddd1056e7705",
+      "format": "JSON"
+    },
+    {
+      "name": "sgfcitizen-2022-10-26T03:23:04.825860-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772603",
+      "size": "18708",
+      "md5": "49c815b5e6e21cac5b370461567171ed",
+      "crc32": "b3a17796",
+      "sha1": "c6e1b112f1f82c7d607e4bb8bddee42c7b1cd522",
+      "format": "JSON"
+    },
+    {
       "name": "sgfcitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3aacce5e404f8b4bd7f98ac78165f15762ae6060",
-      "mtime": "1666723677",
-      "size": "259196",
-      "md5": "57aa435117c437f348c327bfcd9da8cd",
-      "crc32": "ab832501",
-      "sha1": "4d06089e3082d95faf5e0c6a518f22f29bee5c1b",
+      "btih": "eb870a8ce6c5ea0d83cd2696d12bd88cf78789ca",
+      "mtime": "1666772654",
+      "size": "260249",
+      "md5": "82743cce395d210b691a533fb8a712e5",
+      "crc32": "3dc54708",
+      "sha1": "74456f5125393fc7b08405bfc10556da1078169f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sgfcitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2be1414659af7bab7f0bc9d54cfca1e2",
+      "md5": "bfc3c0651b60baa25ef1e4d926ea87f4",
       "summation": "md5"
     },
     {
       "name": "sgfcitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722465",
-      "size": "1536000",
-      "md5": "48d5354702d0fe44c4a6c681a3fd61f0",
-      "crc32": "4ea747a7",
-      "sha1": "e648b3fabcb4e28120bd2b9531daa5569f811720",
+      "mtime": "1666772608",
+      "size": "1544192",
+      "md5": "eed1c69e82e81d4d91e97350837b5ada",
+      "crc32": "fe046376",
+      "sha1": "53ee73caee6c73d9329fb564d0f7ecbd99221e36",
       "format": "Metadata"
     },
     {
@@ -12619,9 +12669,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1218,
-  "item_last_updated": 1666723677,
-  "item_size": 83641431,
+  "files_count": 1223,
+  "item_last_updated": 1666772654,
+  "item_size": 84016391,
   "metadata": {
     "identifier": "sgfcitizen-2022",
     "collection": [
@@ -12643,23 +12693,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451943358,
+      "task_id": 3452724185,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3451974626,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1189014129,
+  "uniq": 1230072229,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

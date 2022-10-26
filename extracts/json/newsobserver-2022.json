@@ -1,6 +1,5 @@
 {
-  "conflict": 1666723273,
-  "created": 1666723273,
+  "created": 1666772187,
   "d1": "ia904701.us.archive.org",
   "d2": "ia804701.us.archive.org",
   "dir": "/21/items/newsobserver-2022",
@@ -12311,31 +12310,82 @@
       "sha1": "a8b2ba4ea4d6f2e5e7ffb076a38058388dd2b1d2"
     },
     {
+      "name": "newsobserver-2022-10-26T04:15:16.682226-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772127",
+      "size": "461",
+      "md5": "6f5e5a32e6592f6ae52f63587b21f97d",
+      "crc32": "8479e115",
+      "sha1": "24b8c4f2eb492586f0a2de76856b7ad09d475601",
+      "format": "JSON"
+    },
+    {
+      "name": "newsobserver-2022-10-26T04:15:16.682226-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772130",
+      "size": "40087",
+      "md5": "e0445d8d876bcf0b8fcb301d26d81691",
+      "crc32": "5fddc990",
+      "sha1": "91fd1689d91e7da383ab638c1d5bae28c32aa64a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsobserver-2022-10-26T04:15:16.682226-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772123",
+      "size": "274151",
+      "md5": "6aac7f7cfdbddf1d118191d257a8ee84",
+      "crc32": "26f567e7",
+      "sha1": "144ff3177b74f76d9008110b249f309062e853a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsobserver-2022-10-26T04:15:16.682226-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772131",
+      "size": "1511",
+      "md5": "b71d5676890ed2025a35766605b81fe8",
+      "crc32": "cd1ed1b0",
+      "sha1": "bb4a42a251fc5b436c6ff973474be6a5850099e5",
+      "format": "JSON"
+    },
+    {
+      "name": "newsobserver-2022-10-26T04:15:16.682226-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772133",
+      "size": "77348",
+      "md5": "5ee75de5971c96a6668b5df5488959ed",
+      "crc32": "856d01c6",
+      "sha1": "86850239f7c5484e4520d32ed0c46484dba37114",
+      "format": "JSON"
+    },
+    {
       "name": "newsobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d576bff67b2a3a116b2b76393fa6b73c2fd7f615",
-      "mtime": "1666723244",
-      "size": "255478",
-      "md5": "3e1372dae5dfa6cb7e76e5bd72afa00e",
-      "crc32": "8e753333",
-      "sha1": "24fe9e499c0f82d2e2582c30495c12cf062b65fb",
+      "btih": "23d6d1b735d1d42327abcbc0542132436e78d40e",
+      "mtime": "1666772182",
+      "size": "256559",
+      "md5": "2829cce10beff1769696b4758930151e",
+      "crc32": "5460379f",
+      "sha1": "070047c7dcb0ded78cde45a443f794ea38ed56b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad4d884de604327cf073bc7b27f21c9d",
+      "md5": "8f652ca15df607a600c9d9692ed289ce",
       "summation": "md5"
     },
     {
       "name": "newsobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722138",
-      "size": "1499136",
-      "md5": "8d7e682bb1ceb3d8e32744d0a05afb29",
-      "crc32": "a847de91",
-      "sha1": "145ee7a834e15d37d82d05b59173a10487d73543",
+      "mtime": "1666772139",
+      "size": "1507328",
+      "md5": "112d89d6d63951a91fb29c0e42627ea6",
+      "crc32": "c5efc288",
+      "sha1": "32032ea99e28362d6a4e67aa118980a21e66bf8b",
       "format": "Metadata"
     },
     {
@@ -12349,9 +12399,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1191,
-  "item_last_updated": 1666723244,
-  "item_size": 83510189,
+  "files_count": 1196,
+  "item_last_updated": 1666772182,
+  "item_size": 83913020,
   "metadata": {
     "identifier": "newsobserver-2022",
     "collection": [
@@ -12373,23 +12423,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451934664,
+      "task_id": 3452719379,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3451964073,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 339948759,
+  "uniq": 1610221836,
   "workable_servers": [
     "ia904701.us.archive.org"
   ]

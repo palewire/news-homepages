@@ -1,5 +1,5 @@
 {
-  "created": 1666722423,
+  "created": 1666772639,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -20033,31 +20033,93 @@
       "format": "JSON"
     },
     {
+      "name": "sfchronicle-2022-10-25T11:24:57.102339-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-10-25T11:24:57.102339-07:00.jpg",
+      "mtime": "1666724711",
+      "size": "10178",
+      "md5": "a37b7eb2c1d5e14ae16c82e12fccd948",
+      "crc32": "28a135dc",
+      "sha1": "c39822a828d0580340685c88a52b1ec3c1b37734"
+    },
+    {
+      "name": "sfchronicle-2022-10-26T01:22:24.117722-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772557",
+      "size": "88513",
+      "md5": "02dc045173475226261e8b0f840064b2",
+      "crc32": "14509295",
+      "sha1": "2e1981be51b3ac30ff37187602cd0560acccea10",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-26T01:22:24.117722-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772559",
+      "size": "109425",
+      "md5": "ea9e7281eacf732c4bc65d1d7bf7de1c",
+      "crc32": "0428b62c",
+      "sha1": "14b7e5670892eafda877a72b81692252c6fca664",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-26T01:22:24.117722-07:00.jpg",
+      "source": "original",
+      "mtime": "1666772555",
+      "size": "344323",
+      "md5": "8d57bc77de2c0b60dd003269c53a33a7",
+      "crc32": "496bbf5a",
+      "sha1": "53f504cb516bfdf0cf7d50761c4a2ecdcd110f58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sfchronicle-2022-10-26T01:22:24.117722-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772561",
+      "size": "1504",
+      "md5": "94dbed146bbc9ed6419a4f6b681107d9",
+      "crc32": "bacfbd10",
+      "sha1": "21d0f6d3c75c965a863e7b3ec940b0c53b6222a3",
+      "format": "JSON"
+    },
+    {
+      "name": "sfchronicle-2022-10-26T01:22:24.117722-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772563",
+      "size": "55729",
+      "md5": "4a04e2ac0571add12d79680dc2c8d5bb",
+      "crc32": "f8e8fc2d",
+      "sha1": "9eb02bf781744f4a75bcc13d87cc05b15bcf6ac9",
+      "format": "JSON"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "afba8d392b28b496364e404e2c3a9e2c04dbe227",
-      "mtime": "1666722418",
-      "size": "415112",
-      "md5": "91d1f0914ce80f7f68595d557f113735",
-      "crc32": "a8a98824",
-      "sha1": "dbbd706630b5268a8bb3f86abc8d98f6059e10bd",
+      "btih": "efd8c6e47f3bd3ae9467e3db7d2c976577b9d399",
+      "mtime": "1666772634",
+      "size": "416399",
+      "md5": "43314d2b279c1b091c1e33134f7c737b",
+      "crc32": "5713ebba",
+      "sha1": "c81202e75d5b3f489cbe1deefa615092f687e720",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5b134c52b7eeffa6a719016eccce99ba",
+      "md5": "a3d1843cf1c0ff6466a01839a93c0d01",
       "summation": "md5"
     },
     {
       "name": "sfchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722352",
-      "size": "2342912",
-      "md5": "3bc33e37914b6abfea0c4be317d9736a",
-      "crc32": "25054e9e",
-      "sha1": "a15068e8da839cfeb6c8663245bae3e0440c348b",
+      "mtime": "1666772567",
+      "size": "2351104",
+      "md5": "7b39d0776d77f83493dd6496ef0aa5f7",
+      "crc32": "4e5af8fd",
+      "sha1": "869b354254fc1f429333ee877a0d220ac8d1ac56",
       "format": "Metadata"
     },
     {
@@ -20071,9 +20133,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1927,
-  "item_last_updated": 1666722418,
-  "item_size": 220718473,
+  "files_count": 1933,
+  "item_last_updated": 1666772634,
+  "item_size": 221337624,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -20095,15 +20157,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451940639,
+      "task_id": 3452723936,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1488053928,
+  "uniq": 799393485,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

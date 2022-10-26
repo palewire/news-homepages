@@ -1,5 +1,5 @@
 {
-  "created": 1666723772,
+  "created": 1666772591,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/2/items/reveal-2022",
@@ -15266,31 +15266,82 @@
       "sha1": "0f3c306b849d9b26160e0f3c2305c7817ead6ee6"
     },
     {
+      "name": "reveal-2022-10-26T01:21:52.192629-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772523",
+      "size": "15797",
+      "md5": "b7bcef91709ac87217c48ffb973aaaed",
+      "crc32": "dedd3c97",
+      "sha1": "c6c85f4e6657477ce0e20274eb626efea7f1b223",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-10-26T01:21:52.192629-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772528",
+      "size": "25209",
+      "md5": "bc252becaf48b3fd9a9bffa63acd36b2",
+      "crc32": "4102cb81",
+      "sha1": "ee20f91293d4e6c66f6823cd1c3877d3fed96fab",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-10-26T01:21:52.192629-07:00.jpg",
+      "source": "original",
+      "mtime": "1666772520",
+      "size": "263495",
+      "md5": "488332a562e7f60e30730737b04521da",
+      "crc32": "92df8e75",
+      "sha1": "f0fc9d1114a2c16f0752bab41ef18575b1a1b884",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-10-26T01:21:52.192629-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772530",
+      "size": "1458",
+      "md5": "0e96bb3be69256f4eb208868017188e9",
+      "crc32": "601c4883",
+      "sha1": "6d9cc364964de3173e8f74269575784f316a4594",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-10-26T01:21:52.192629-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772532",
+      "size": "14799",
+      "md5": "e016a70336e248852c7a7ec6c7f7b004",
+      "crc32": "d04c1110",
+      "sha1": "38187738d035fe696d5506f64645096facbaaa2e",
+      "format": "JSON"
+    },
+    {
       "name": "reveal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d5bf0cd334cbc4593c553db297e58077d9f5a19f",
-      "mtime": "1666723519",
-      "size": "307076",
-      "md5": "25272935eb74a34aaddaa0bf68eb927f",
-      "crc32": "1a559cf4",
-      "sha1": "3fb3f628eff7fdb79dcd16ea2f4612d69980fb19",
+      "btih": "067ea5ebb39a3600d0a26e104040bee7f489f12e",
+      "mtime": "1666772587",
+      "size": "308109",
+      "md5": "f8c19d39d52c3f02a4c89312a12b1262",
+      "crc32": "61d2ba61",
+      "sha1": "46f98acddd74f1df83a3119adb80aec43a47900d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reveal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "17ddf421c5477c8db79aeca89e4e3fd7",
+      "md5": "d91fabe69e1d5dc35db3b1e8effd5f2a",
       "summation": "md5"
     },
     {
       "name": "reveal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722278",
-      "size": "1818624",
-      "md5": "1327c9aed1186fd23208bf71aa30a4c6",
-      "crc32": "e4deeadc",
-      "sha1": "6fe1549fb050f204320c5707de28b56580bb7478",
+      "mtime": "1666772535",
+      "size": "1826816",
+      "md5": "865028d5baea89a5c33a0a7f2e81578d",
+      "crc32": "8f2273c3",
+      "sha1": "97d2e2e6b0d6d14762edd2bd8e21d0f5752462aa",
       "format": "Metadata"
     },
     {
@@ -15304,9 +15355,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1474,
-  "item_last_updated": 1666723519,
-  "item_size": 88575595,
+  "files_count": 1479,
+  "item_last_updated": 1666772587,
+  "item_size": 88905578,
   "metadata": {
     "identifier": "reveal-2022",
     "collection": [
@@ -15328,15 +15379,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451970418,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3452723455,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1281880217,
+  "uniq": 1480999517,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

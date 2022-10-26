@@ -1,5 +1,5 @@
 {
-  "created": 1666722541,
+  "created": 1666772647,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/sacbee_news-2022",
@@ -13163,31 +13163,93 @@
       "format": "JSON"
     },
     {
+      "name": "sacbee_news-2022-10-25T11:25:37.728288-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sacbee_news-2022-10-25T11:25:37.728288-07:00.jpg",
+      "mtime": "1666723889",
+      "size": "9826",
+      "md5": "907c03ea219a629aa7a23bc92d7b74e6",
+      "crc32": "551090b0",
+      "sha1": "de1bd7714f2bf79270f2065ef9f464785b9d378b"
+    },
+    {
+      "name": "sacbee_news-2022-10-26T01:22:52.919558-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772584",
+      "size": "454",
+      "md5": "66d64fcd943d0667605f18c75503eaed",
+      "crc32": "de88c7d6",
+      "sha1": "c781ae86b4ffc78ed09ebf9c9d9ca1988d1e1a02",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-26T01:22:52.919558-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772585",
+      "size": "43189",
+      "md5": "2fff2a9bf04b652125099e07a827a2e9",
+      "crc32": "fa4f70a1",
+      "sha1": "4948623d9497dfb04b98f2a0df9c98dcfc2c5370",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-26T01:22:52.919558-07:00.jpg",
+      "source": "original",
+      "mtime": "1666772582",
+      "size": "297537",
+      "md5": "ca305bca606e9cfba3daf9aab607ad0f",
+      "crc32": "c9d253b4",
+      "sha1": "274fe6e3738482ff4b62ecea01aca7539832d3aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sacbee_news-2022-10-26T01:22:52.919558-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772587",
+      "size": "1458",
+      "md5": "7fbb5e42622cf2e0927d4fe9be5b1e59",
+      "crc32": "6d0d4f9b",
+      "sha1": "7e45230c3b7892128989efa3a0011b0c68e3c6f4",
+      "format": "JSON"
+    },
+    {
+      "name": "sacbee_news-2022-10-26T01:22:52.919558-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772589",
+      "size": "93874",
+      "md5": "d6fb818da5a8f3d6a01d835811e34354",
+      "crc32": "d3ad6fec",
+      "sha1": "a5226ad0bfc4794d7ad8700a085474ecbc896c1f",
+      "format": "JSON"
+    },
+    {
       "name": "sacbee_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee2b79360ffa6c95ab8b198d794e25b558d21a75",
-      "mtime": "1666722521",
-      "size": "271189",
-      "md5": "9ff501fb1adb1fa8dffac77ae207d804",
-      "crc32": "8621665d",
-      "sha1": "4c15bb94e186c5f7021ac74e7a0f0b0ba0566338",
+      "btih": "9fce38636e85179d5768094d664ca916b5d6fa14",
+      "mtime": "1666772640",
+      "size": "272472",
+      "md5": "7cbe7ef5846a9539ad6e838f19916f37",
+      "crc32": "9aceef97",
+      "sha1": "b6e9b8172d3b0b65f6d435c00479a7354b2bd7de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sacbee_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a50662ea0b9c294a5e24639e783a5b8e",
+      "md5": "ee68b95dc667f78632ae7e100f1f3192",
       "summation": "md5"
     },
     {
       "name": "sacbee_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722464",
-      "size": "1589248",
-      "md5": "42e2828e38f6643be873fc7c820c6283",
-      "crc32": "8903aa28",
-      "sha1": "64b8d1749e4aed07b8a61528c8e3c4f0501c6e9b",
+      "mtime": "1666772593",
+      "size": "1597440",
+      "md5": "330667e296c7bd48b09c00a411b80e92",
+      "crc32": "2af426f8",
+      "sha1": "cb6fddd4066426e7590aef426a8dbae1743cd9a1",
       "format": "Metadata"
     },
     {
@@ -13201,9 +13263,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1272,
-  "item_last_updated": 1666722521,
-  "item_size": 87202936,
+  "files_count": 1278,
+  "item_last_updated": 1666772640,
+  "item_size": 87658749,
   "metadata": {
     "identifier": "sacbee_news-2022",
     "collection": [
@@ -13225,15 +13287,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451943829,
+      "task_id": 3452724008,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1475557762,
+  "uniq": 1982326739,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

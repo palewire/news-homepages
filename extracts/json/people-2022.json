@@ -1,5 +1,5 @@
 {
-  "created": 1666723300,
+  "created": 1666772287,
   "d1": "ia904709.us.archive.org",
   "d2": "ia804709.us.archive.org",
   "dir": "/15/items/people-2022",
@@ -12718,31 +12718,82 @@
       "sha1": "35c67de986738bf159ace25ee883f5e1c6c31a0a"
     },
     {
+      "name": "people-2022-10-26T04:16:51.978903-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772221",
+      "size": "34758",
+      "md5": "d808bdc82d5b4afd5c292429675267c7",
+      "crc32": "27ce0add",
+      "sha1": "cd552d4f106f671a13c49ba9b68a2c56534aa32d",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-10-26T04:16:51.978903-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772226",
+      "size": "58484",
+      "md5": "4c7575ff1b50acb3e0fbf7ac00820f46",
+      "crc32": "99f2fa02",
+      "sha1": "d73ce8411b4d1f807ecad8233a6a032e96d43270",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-10-26T04:16:51.978903-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772219",
+      "size": "307878",
+      "md5": "36443d9a40ad97af99c4780fb4018764",
+      "crc32": "455fc582",
+      "sha1": "ccede6ea57c5c2d01fcc8a6a3c3b54a3272c9217",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "people-2022-10-26T04:16:51.978903-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772228",
+      "size": "1420",
+      "md5": "b9c602a5697f764257ef88e3833cb64d",
+      "crc32": "1a66d23e",
+      "sha1": "e8c4f28cb1ad227f2445e5efa91804c15fa30895",
+      "format": "JSON"
+    },
+    {
+      "name": "people-2022-10-26T04:16:51.978903-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772233",
+      "size": "57639",
+      "md5": "024d64f09cd09d284a9183a14bac0636",
+      "crc32": "a459c0ce",
+      "sha1": "a2fefbfabe24658a56850fac3dad86f01cd0a945",
+      "format": "JSON"
+    },
+    {
       "name": "people-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bed13e6e45cef5bf85b6ab5a62fba2c65d8d9f0d",
-      "mtime": "1666723185",
-      "size": "257496",
-      "md5": "18dd5c5bcab65125d80a0a4b8f19fb89",
-      "crc32": "0e5180a1",
-      "sha1": "4a4253803c38d2f95e1afd8b8983ba5621944cc4",
+      "btih": "577b0d54cd6aae4b763c0e16a0e76e385982e7dd",
+      "mtime": "1666772282",
+      "size": "258549",
+      "md5": "ac5e4dec4565d76042a6ddf794f59c00",
+      "crc32": "60295bc8",
+      "sha1": "14288de6a6c89dea09a8f777a6048e4d7e4788bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "people-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9108126ce0d9061458595399c3043d3f",
+      "md5": "47b261c62e384a2baebc01e3cc7e7b55",
       "summation": "md5"
     },
     {
       "name": "people-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722193",
-      "size": "1531904",
-      "md5": "f50e0feb51b809a91da4e51a20b6ab05",
-      "crc32": "4961c00b",
-      "sha1": "da26ad2c51d9e50a0d377bf739f3dcf4087b07f8",
+      "mtime": "1666772237",
+      "size": "1540096",
+      "md5": "76fdbd2e1cec03657450403f86592aad",
+      "crc32": "ebef3db1",
+      "sha1": "5df59fe68acc5298f4fe28d6ff72d169c8c86eed",
       "format": "Metadata"
     },
     {
@@ -12756,9 +12807,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1230,
-  "item_last_updated": 1666723185,
-  "item_size": 101627179,
+  "files_count": 1235,
+  "item_last_updated": 1666772282,
+  "item_size": 102096603,
   "metadata": {
     "identifier": "people-2022",
     "collection": [
@@ -12775,10 +12826,21 @@
     "publicdate": "2022-07-04 21:50:55",
     "addeddate": "2022-07-04 21:50:55"
   },
+  "pending_tasks": true,
   "server": "ia904709.us.archive.org",
-  "uniq": 1410581817,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3452720275,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 678320343,
   "workable_servers": [
-    "ia904709.us.archive.org",
-    "ia804709.us.archive.org"
+    "ia904709.us.archive.org"
   ]
 }

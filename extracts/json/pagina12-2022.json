@@ -1,5 +1,5 @@
 {
-  "created": 1666723485,
+  "created": 1666772269,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/33/items/pagina12-2022",
@@ -9414,31 +9414,82 @@
       "sha1": "5f938d95745531ec275934fdad28c883e20286fa"
     },
     {
+      "name": "pagina12-2022-10-26T05:16:42.632710-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772209",
+      "size": "73531",
+      "md5": "742078cbc2dd15f6095f0fbe366bfbe4",
+      "crc32": "b9b52264",
+      "sha1": "f499149705233f8316acd2ac298d714918d54f6a",
+      "format": "JSON"
+    },
+    {
+      "name": "pagina12-2022-10-26T05:16:42.632710-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772211",
+      "size": "77713",
+      "md5": "4b978775a083ac34308e99b542e94f68",
+      "crc32": "93a1443a",
+      "sha1": "9b9e56cae3bd32b8b378c41c25682458f419967b",
+      "format": "JSON"
+    },
+    {
+      "name": "pagina12-2022-10-26T05:16:42.632710-03:00.jpg",
+      "source": "original",
+      "mtime": "1666772207",
+      "size": "281443",
+      "md5": "0655fab2b726c5541fa53226c7d3ab78",
+      "crc32": "d955d940",
+      "sha1": "cdc28775b3dcc0aa5ffefca0e9733038550759ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pagina12-2022-10-26T05:16:42.632710-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772212",
+      "size": "1504",
+      "md5": "0ab5f537e1f2f01ba45b89844b247fb0",
+      "crc32": "84173963",
+      "sha1": "8bb03b9aaee7ecab48cda82a3c0b46b511c01cea",
+      "format": "JSON"
+    },
+    {
+      "name": "pagina12-2022-10-26T05:16:42.632710-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772214",
+      "size": "25795",
+      "md5": "5494ff2af62d3c4e01748f2ff210add4",
+      "crc32": "704607f9",
+      "sha1": "9292993f61809e1828bc20a859732735f88020a8",
+      "format": "JSON"
+    },
+    {
       "name": "pagina12-2022_archive.torrent",
       "source": "metadata",
-      "btih": "446276d63b10c036d37ebfeef439ef0e3bb3c34d",
-      "mtime": "1666723296",
-      "size": "193240",
-      "md5": "a8dabda44e3442dc2513f3552cbeb2b5",
-      "crc32": "0cf29504",
-      "sha1": "e86a836c8ac3718f451f54aae9584bbf58ea177f",
+      "btih": "b0735287dfcd4c885c494c129c8fb36a2e2bc06d",
+      "mtime": "1666772263",
+      "size": "194303",
+      "md5": "7120d73a38c1064eca6a4350d37bb831",
+      "crc32": "26fd295b",
+      "sha1": "c2f93de15660e83b506dcefc5a5d3926a3a43910",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pagina12-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "45a6749722cc76ab9d2ba27b041364d4",
+      "md5": "25d289f55697c083aed6a16425f27878",
       "summation": "md5"
     },
     {
       "name": "pagina12-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722188",
-      "size": "1167360",
-      "md5": "38e2ed4c60d0888170e06c9b99325d5c",
-      "crc32": "62259ae1",
-      "sha1": "68543f29e8f2ac2f8900ec6f194023ee304e1776",
+      "mtime": "1666772221",
+      "size": "1175552",
+      "md5": "943d9c90092014e4fe884676ca90faf9",
+      "crc32": "c41a15f0",
+      "sha1": "c7a1e7e69999d98c6af861642991845d5f6cd100",
       "format": "Metadata"
     },
     {
@@ -9452,9 +9503,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 914,
-  "item_last_updated": 1666723296,
-  "item_size": 73587876,
+  "files_count": 919,
+  "item_last_updated": 1666772263,
+  "item_size": 74057117,
   "metadata": {
     "identifier": "pagina12-2022",
     "collection": [
@@ -9471,9 +9522,20 @@
     "publicdate": "2022-08-09 17:47:59",
     "addeddate": "2022-08-09 17:47:59"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 502318436,
+  "tasks": [
+    {
+      "task_id": 3452720139,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1775499784,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

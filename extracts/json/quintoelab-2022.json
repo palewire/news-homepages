@@ -1,6 +1,5 @@
 {
-  "conflict": 1666723767,
-  "created": 1666723767,
+  "created": 1666772472,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/29/items/quintoelab-2022",
@@ -15341,31 +15340,82 @@
       "sha1": "8c294834f1b51046faf89920e8eda5210245d5c2"
     },
     {
+      "name": "quintoelab-2022-10-26T03:19:54.979694-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772407",
+      "size": "14700",
+      "md5": "fd8e6b8173ae3734c260bcdbdfa0e595",
+      "crc32": "3c48ebec",
+      "sha1": "ba29c24e8a376b90cbca107825f2099d1e7a0aa6",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-10-26T03:19:54.979694-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772408",
+      "size": "5545",
+      "md5": "22c3bbfaf0022e8f09c6e4163a47f407",
+      "crc32": "6c4cadd0",
+      "sha1": "a4c024e48c1a64665d01375b03793414214410a3",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-10-26T03:19:54.979694-05:00.jpg",
+      "source": "original",
+      "mtime": "1666772405",
+      "size": "297756",
+      "md5": "7625a5d1a91bcb66bebea8162b1de4fc",
+      "crc32": "048fa34e",
+      "sha1": "fc6a437cd1b46457d0aa89c3a88514f8b9cb9a0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quintoelab-2022-10-26T03:19:54.979694-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772410",
+      "size": "1459",
+      "md5": "50a44735d21218a993fa2557df66844b",
+      "crc32": "0ca1ce30",
+      "sha1": "be968d094c673781fd912a594189b8bc1b739907",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-10-26T03:19:54.979694-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772412",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "quintoelab-2022_archive.torrent",
       "source": "metadata",
-      "btih": "642bad735cd899283e1b7aaf41ac2b16c2eadf0c",
-      "mtime": "1666723477",
-      "size": "314602",
-      "md5": "03601f332de6cb8ace067b8caa324ac5",
-      "crc32": "a3b20447",
-      "sha1": "97ce2dd9905a23b07978e05077529d779e13649e",
+      "btih": "90576c4a60ab6eeadbd62725e9062e18b68931d3",
+      "mtime": "1666772467",
+      "size": "315672",
+      "md5": "e51cbc2222d6fb853e72df924d82c07a",
+      "crc32": "29ea2d34",
+      "sha1": "4891330cd6b5f0f37aedebf43ef0766672fa2d71",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quintoelab-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ee55f88d33e7173c6cb75f1f6d908cc",
+      "md5": "d3d4288fef6a1ce221067e84789177a8",
       "summation": "md5"
     },
     {
       "name": "quintoelab-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722276",
-      "size": "1835008",
-      "md5": "5672d129b0359f35b915e46e1d2c2191",
-      "crc32": "8eaf6b45",
-      "sha1": "dc420be8b5c757752ef7e5fe2e891858c31d7ee5",
+      "mtime": "1666772418",
+      "size": "1843200",
+      "md5": "c1d5cdeb727429748f7a61f3dd0cf4b7",
+      "crc32": "cd93c180",
+      "sha1": "724248bd655a2c3940dd9210efdf3185042207ca",
       "format": "Metadata"
     },
     {
@@ -15379,9 +15429,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1481,
-  "item_last_updated": 1666723477,
-  "item_size": 103917318,
+  "files_count": 1486,
+  "item_last_updated": 1666772467,
+  "item_size": 104246242,
   "metadata": {
     "identifier": "quintoelab-2022",
     "collection": [
@@ -15403,15 +15453,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451969319,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3452722014,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1673764599,
+  "uniq": 1448523964,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666723681,
+  "created": 1666772677,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/9/items/setopati-2022",
@@ -11246,31 +11246,82 @@
       "sha1": "1fccdc60912859581164b41cd887d47135f08c82"
     },
     {
+      "name": "setopati-2022-10-26T14:08:05.275013+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666772595",
+      "size": "124787",
+      "md5": "fc066f87790d05dff90350caf3b63fd7",
+      "crc32": "fbc0bbba",
+      "sha1": "f58e90847c404e2f3acf627886dd86b1d6c3bc7f",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-10-26T14:08:05.275013+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772597",
+      "size": "121468",
+      "md5": "ad2d9f8ae4c5b3b0643ca65ae789f059",
+      "crc32": "b83b71cd",
+      "sha1": "08cde9b6e31b06e9f6a794361b14bbe734521de8",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-10-26T14:08:05.275013+05:45.jpg",
+      "source": "original",
+      "mtime": "1666772593",
+      "size": "260011",
+      "md5": "48191562ac1a63a065dacb74d269f838",
+      "crc32": "e18259a4",
+      "sha1": "ec236c296330502126e76d1b9c8b1d1b4999dbc6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "setopati-2022-10-26T14:08:05.275013+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772601",
+      "size": "1468",
+      "md5": "fa002a524679b5f952c7806c6ce6dd4c",
+      "crc32": "cf430c9f",
+      "sha1": "01bd58b0fe4e11af2acfa62cce12f58a92a582b4",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-10-26T14:08:05.275013+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666772602",
+      "size": "18579",
+      "md5": "c7a1d392ec8005930ddd4f4c77103257",
+      "crc32": "63ca2fa7",
+      "sha1": "1f511b50d2c079d62b707295f04520f339253578",
+      "format": "JSON"
+    },
+    {
       "name": "setopati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "27d25fa6d6b8619dedfaa71d05aa8f87a56217be",
-      "mtime": "1666723525",
-      "size": "231069",
-      "md5": "847585ecae294972f1a8ec49e7a34b0a",
-      "crc32": "eab61bd5",
-      "sha1": "51ed1a165928cd658f5269ff48dfbdcee1b01c1c",
+      "btih": "22f4843bd055ab6b49ed313cbdea2a8d1250e5cc",
+      "mtime": "1666772669",
+      "size": "232134",
+      "md5": "999cfa4f84397099c03329c0f62a0377",
+      "crc32": "6181189a",
+      "sha1": "5d3efe0dbff6b3e80fcdaede7cb98c11b91d8cf2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "setopati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b907f99bdf1cda7a5f35851070b909ec",
+      "md5": "050608441bd7374f3e95bbd86a31b57b",
       "summation": "md5"
     },
     {
       "name": "setopati-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722351",
-      "size": "1384448",
-      "md5": "62d9ccc959fa46dd063b7dd4e23e5065",
-      "crc32": "afc5bf49",
-      "sha1": "93c356e0eaae2ecf599b62e369488cfafecc2479",
+      "mtime": "1666772622",
+      "size": "1396736",
+      "md5": "9f76f7ec7d707da55b955241f3c675ef",
+      "crc32": "14d13e65",
+      "sha1": "dbb7fc8be68366bc3e14f8f428513ab0a1730790",
       "format": "Metadata"
     },
     {
@@ -11284,9 +11335,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1091,
-  "item_last_updated": 1666723525,
-  "item_size": 91234169,
+  "files_count": 1096,
+  "item_last_updated": 1666772669,
+  "item_size": 91773835,
   "metadata": {
     "identifier": "setopati-2022",
     "collection": [
@@ -11303,10 +11354,21 @@
     "publicdate": "2022-07-24 20:39:32",
     "addeddate": "2022-07-24 20:39:32"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 148241039,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3452724344,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1193570126,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }
