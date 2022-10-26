@@ -1,5 +1,5 @@
 {
-  "created": 1666702863,
+  "created": 1666747617,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/28/items/hollandsentinel-2022",
@@ -4397,31 +4397,93 @@
       "format": "JSON"
     },
     {
+      "name": "hollandsentinel-2022-10-25T09:00:00.244220-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-25T09:00:00.244220-04:00.jpg",
+      "mtime": "1666704790",
+      "size": "9124",
+      "md5": "e42ca3f491b8854579699cf6e5584537",
+      "crc32": "ea8f14e1",
+      "sha1": "384a6e97ad44886c0845503443e04a5b547fa9f5"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T21:25:56.059164-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747560",
+      "size": "24772",
+      "md5": "55ae2668b9adfc0e2512f236c7cd4322",
+      "crc32": "8ed24e3a",
+      "sha1": "64244c78a753d48b13f9f11f8040eb35757cfede",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T21:25:56.059164-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747562",
+      "size": "38444",
+      "md5": "f34a27f3d944a9e37503b0f6a6f65313",
+      "crc32": "558b39da",
+      "sha1": "fa7843778ee1b768007afd69a57ce6126871ea01",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T21:25:56.059164-04:00.jpg",
+      "source": "original",
+      "mtime": "1666747557",
+      "size": "214916",
+      "md5": "10406322dfddb96deb024dbe2d1963f2",
+      "crc32": "9a78e7b7",
+      "sha1": "f27763409ab7523347b7bb2537321cd9915a77eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T21:25:56.059164-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747566",
+      "size": "1539",
+      "md5": "6349da206969d94074b0e9f488813ece",
+      "crc32": "1b4470a1",
+      "sha1": "98339160b304bbc541ecd6c9afeb55162ae888d3",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T21:25:56.059164-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747567",
+      "size": "92187",
+      "md5": "73af38df9c6ad2a04f3d8a78219fe625",
+      "crc32": "734f3224",
+      "sha1": "ec19a1e1c2d1d69287fb8ddafe10aff12103ccb5",
+      "format": "JSON"
+    },
+    {
       "name": "hollandsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "620a4ac50e07ac177c81d0a6800415212450fb72",
-      "mtime": "1666702857",
-      "size": "93900",
-      "md5": "22fcf408528b654df67c581f69b863d9",
-      "crc32": "ad384075",
-      "sha1": "ee7dc9dc82f943b529ae561df41629f993960092",
+      "btih": "c63f23ee73a7b45df58cb15e963f6fde62ca3e0c",
+      "mtime": "1666747611",
+      "size": "95209",
+      "md5": "80ef7beb14b8232fd66ba1b65c4d771b",
+      "crc32": "5e2588e8",
+      "sha1": "7cdc5f975e382d74964caa3f888e95afa93d10f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hollandsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "65004dd3d684f50c17f4dca3d5fc801f",
+      "md5": "0504caee4db9c70a78cbf0836e0e0d40",
       "summation": "md5"
     },
     {
       "name": "hollandsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666702818",
-      "size": "565248",
-      "md5": "cb998efdc44dede1afa7e366f5a23fdc",
-      "crc32": "4b809059",
-      "sha1": "3724019780022119e7a27e99156687ae40cbf241",
+      "mtime": "1666747572",
+      "size": "573440",
+      "md5": "78e4e20292279399eb91d9163e9a43d0",
+      "crc32": "4efa4d7e",
+      "sha1": "bcdfdb69a5dcb23f3c5e9fcca61cd98ad3b333d6",
       "format": "Metadata"
     },
     {
@@ -4435,9 +4497,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 429,
-  "item_last_updated": 1666702857,
-  "item_size": 29743120,
+  "files_count": 435,
+  "item_last_updated": 1666747611,
+  "item_size": 30133603,
   "metadata": {
     "identifier": "hollandsentinel-2022",
     "collection": [
@@ -4459,7 +4521,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451665902,
+      "task_id": 3452479905,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4467,7 +4529,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 190337302,
+  "uniq": 1030137087,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
