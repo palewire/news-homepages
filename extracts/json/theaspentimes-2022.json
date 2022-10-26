@@ -1,5 +1,5 @@
 {
-  "created": 1666709571,
+  "created": 1666755948,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/theaspentimes-2022",
@@ -7809,21 +7809,32 @@
       "format": "JSON"
     },
     {
+      "name": "theaspentimes-2022-10-25T08:51:50.023893-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theaspentimes-2022-10-25T08:51:50.023893-06:00.jpg",
+      "mtime": "1666712642",
+      "size": "9488",
+      "md5": "9a84f1826e66de4d47ac019718240bff",
+      "crc32": "1a108b5b",
+      "sha1": "909b3df49a06300bbd6ce2f88ff0bc31ddc8c770"
+    },
+    {
       "name": "theaspentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d377fc432bdff57595173e46d7d3a8447c10b8d0",
-      "mtime": "1666709567",
-      "size": "163638",
-      "md5": "c5b2b4c0574ca1f983930091bb51a0a8",
-      "crc32": "697c5fdc",
-      "sha1": "40a46fdb4380efe7acf4a07e94896d205398c776",
+      "btih": "49d7bcb8d8358c7bd92c30ced14d187da39f5838",
+      "mtime": "1666712708",
+      "size": "163847",
+      "md5": "a93549cf0495e3c74cd8a76e9cf33669",
+      "crc32": "26e3dd4a",
+      "sha1": "6b63809decb668862e5ee2b8f5b8154a5c615768",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theaspentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "35bcccce8ed15b2f7fc01d15730a6fb0",
+      "md5": "5fe72232c9fcbde22b37c48499dfd935",
       "summation": "md5"
     },
     {
@@ -7847,9 +7858,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 759,
-  "item_last_updated": 1666709567,
-  "item_size": 42386436,
+  "files_count": 760,
+  "item_last_updated": 1666712708,
+  "item_size": 42396133,
   "metadata": {
     "identifier": "theaspentimes-2022",
     "collection": [
@@ -7871,15 +7882,47 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451738895,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3452558513,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3452558535,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3452558561,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3452558588,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3452558609,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1334134076,
+  "uniq": 1071051188,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
