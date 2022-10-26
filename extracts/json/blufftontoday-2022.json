@@ -1,5 +1,5 @@
 {
-  "created": 1666738840,
+  "created": 1666781738,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/29/items/blufftontoday-2022",
@@ -4439,31 +4439,93 @@
       "format": "JSON"
     },
     {
+      "name": "blufftontoday-2022-10-25T18:59:45.486141-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blufftontoday-2022-10-25T18:59:45.486141-04:00.jpg",
+      "mtime": "1666740659",
+      "size": "8940",
+      "md5": "b1e92cb81b4b02474806d148c779df73",
+      "crc32": "e87bce2c",
+      "sha1": "089e8699d1e13e68b32889afb84b635b4ff058bb"
+    },
+    {
+      "name": "blufftontoday-2022-10-26T06:54:44.164554-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781689",
+      "size": "23418",
+      "md5": "a532bb4fca1a87684399f0eb7a3e42c0",
+      "crc32": "3a355c6e",
+      "sha1": "03aa324e2cecb000ee0dc4715d0836762d1a7a11",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-10-26T06:54:44.164554-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781691",
+      "size": "32562",
+      "md5": "71e11f0a030e5006316b8fdc693b5a1f",
+      "crc32": "060f4160",
+      "sha1": "cbf41de907c0c064ac959ccd5477d7c56d7dbca4",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-10-26T06:54:44.164554-04:00.jpg",
+      "source": "original",
+      "mtime": "1666781688",
+      "size": "188445",
+      "md5": "437e07190a8490a638f0a7bc37d27ef1",
+      "crc32": "3bc42d6a",
+      "sha1": "fff8b74fc4b5b99163e557223fe60f041030119d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blufftontoday-2022-10-26T06:54:44.164554-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781692",
+      "size": "1522",
+      "md5": "3e634c0de3719f9ca428168d7a84ca8a",
+      "crc32": "ac677eb3",
+      "sha1": "8c455374aed52b8da578c2a5c0e5c2da645172bb",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-10-26T06:54:44.164554-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781694",
+      "size": "76633",
+      "md5": "8a0aea60af7c44f8a45268acefee77d2",
+      "crc32": "2e1cdd03",
+      "sha1": "4b9bc998336acf2698601ac4af243d78f4bdb3db",
+      "format": "JSON"
+    },
+    {
       "name": "blufftontoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "23c718612e7409c91757199f511a33f0bada5c55",
-      "mtime": "1666738834",
-      "size": "93750",
-      "md5": "d4deff631814458c3468fe17b5a4c139",
-      "crc32": "77cce3eb",
-      "sha1": "7eedd4ceacd2a119a76e8a5b2fb56fbec0628c8f",
+      "btih": "6c6f21585a2f61135d5ff9ebf92d3fdad27a07ec",
+      "mtime": "1666781734",
+      "size": "95047",
+      "md5": "7dd788b9121e1886eba778404f067fed",
+      "crc32": "c0af629e",
+      "sha1": "09c75895ba0d9c605e6869ff8cc10250d88225f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blufftontoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc826bbd42ccd7067342cb7b7cdb32de",
+      "md5": "0ef467389a0e05a1f524ca9b5c889dd4",
       "summation": "md5"
     },
     {
       "name": "blufftontoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666738797",
-      "size": "569344",
-      "md5": "01f75595a0aace4c2b7f7fd16a422855",
-      "crc32": "c9937e2b",
-      "sha1": "e4573753f12705db03bd833175e4436e0e866330",
+      "mtime": "1666781698",
+      "size": "577536",
+      "md5": "be28a91bd5ca79b792aacd5db45e680e",
+      "crc32": "629bfe6d",
+      "sha1": "3fe7133794bbfd05c22cf2132f23c49c9ed974a5",
       "format": "Metadata"
     },
     {
@@ -4477,9 +4539,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 433,
-  "item_last_updated": 1666738834,
-  "item_size": 27770557,
+  "files_count": 439,
+  "item_last_updated": 1666781734,
+  "item_size": 28111566,
   "metadata": {
     "identifier": "blufftontoday-2022",
     "collection": [
@@ -4501,7 +4563,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452380599,
+      "task_id": 3452826910,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4509,7 +4571,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 357217298,
+  "uniq": 1010055197,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

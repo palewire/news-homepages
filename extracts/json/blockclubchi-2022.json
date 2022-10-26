@@ -1,5 +1,5 @@
 {
-  "created": 1666738955,
+  "created": 1666781775,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/32/items/blockclubchi-2022",
@@ -21647,31 +21647,93 @@
       "format": "JSON"
     },
     {
+      "name": "blockclubchi-2022-10-25T18:00:38.069984-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blockclubchi-2022-10-25T18:00:38.069984-05:00.jpg",
+      "mtime": "1666741164",
+      "size": "10139",
+      "md5": "1e48aaf89c2e04594e1da025b0e1f8bf",
+      "crc32": "2410984f",
+      "sha1": "98337a939bd8e6e5161452f35d0c842d1bfc69bd"
+    },
+    {
+      "name": "blockclubchi-2022-10-26T05:54:36.713907-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781688",
+      "size": "22055",
+      "md5": "9a5adecb058126c3036fece0851881d2",
+      "crc32": "92062cb1",
+      "sha1": "1a60a3bee90f164cfdc09b605458a98e97040cfc",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-26T05:54:36.713907-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781690",
+      "size": "32675",
+      "md5": "d10658c51b498a11e84e90bef0117f74",
+      "crc32": "a867bcbd",
+      "sha1": "141efd82562b67edc0189967569466c6ab8025e7",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-26T05:54:36.713907-05:00.jpg",
+      "source": "original",
+      "mtime": "1666781686",
+      "size": "337299",
+      "md5": "185dd51a6515e89d65ea44896f7bc688",
+      "crc32": "0d873faf",
+      "sha1": "33422df7bedba2f6af8220be93d6b896563df7cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blockclubchi-2022-10-26T05:54:36.713907-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781691",
+      "size": "1512",
+      "md5": "01934988b321dc9c8f223be4756fe41d",
+      "crc32": "7ce002c0",
+      "sha1": "9c4d99a516486225647063e1e267b2be081ff28f",
+      "format": "JSON"
+    },
+    {
+      "name": "blockclubchi-2022-10-26T05:54:36.713907-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781693",
+      "size": "105",
+      "md5": "933be24ea6cbc5406aece5534e2f3ec7",
+      "crc32": "69daed80",
+      "sha1": "88b7a4c0ba461f54ca0ad4daeb3a5571b606831f",
+      "format": "JSON"
+    },
+    {
       "name": "blockclubchi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "432cf8fb6e4f002fe98b0ad50534357769b3c81e",
-      "mtime": "1666738941",
-      "size": "449309",
-      "md5": "d896997ff74d89a2be13b596dd437517",
-      "crc32": "5678c4c7",
-      "sha1": "8b558689b20b15a42477f8f07ca376bbe3841426",
+      "btih": "4eaddac0c530e8485484c7777cd86f6cef14d1dc",
+      "mtime": "1666781769",
+      "size": "450599",
+      "md5": "19c1dc2c4aab6063219b3c6aa65eb126",
+      "crc32": "d3b116c9",
+      "sha1": "e5e2d791709c62cabfa9866a8b8d762ec4108ea1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blockclubchi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "67b98dc6387721ffb8307c43f5924185",
+      "md5": "da0a85d30082df1f49e97b0378993011",
       "summation": "md5"
     },
     {
       "name": "blockclubchi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666738861",
-      "size": "2609152",
-      "md5": "435193b17c604811256cdb53199f5c15",
-      "crc32": "409e43e2",
-      "sha1": "5c657cc0b7cd95835b01e6e22b81209b0be00f08",
+      "mtime": "1666781701",
+      "size": "2617344",
+      "md5": "ece4dd4b75b8740eb6299aec2d7b0797",
+      "crc32": "6dc38c47",
+      "sha1": "e6e014d2d76282ba275882e02e44738a774920ef",
       "format": "Metadata"
     },
     {
@@ -21685,9 +21747,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2090,
-  "item_last_updated": 1666738941,
-  "item_size": 158492068,
+  "files_count": 2096,
+  "item_last_updated": 1666781769,
+  "item_size": 158905335,
   "metadata": {
     "identifier": "blockclubchi-2022",
     "collection": [
@@ -21709,7 +21771,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452383394,
+      "task_id": 3452827285,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -21717,7 +21779,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1554596074,
+  "uniq": 2019083378,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

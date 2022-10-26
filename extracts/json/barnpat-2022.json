@@ -1,5 +1,5 @@
 {
-  "created": 1666738825,
+  "created": 1666781732,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/18/items/barnpat-2022",
@@ -4387,31 +4387,93 @@
       "format": "JSON"
     },
     {
+      "name": "barnpat-2022-10-25T18:59:29.349906-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "barnpat-2022-10-25T18:59:29.349906-04:00.jpg",
+      "mtime": "1666743355",
+      "size": "8752",
+      "md5": "f84d69fed4f4fc86f2d3215dd4487212",
+      "crc32": "519f8496",
+      "sha1": "303abe643d46ccd9db160e3ab324cc037ecbf969"
+    },
+    {
+      "name": "barnpat-2022-10-26T06:54:33.916452-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781678",
+      "size": "22791",
+      "md5": "1aee7bb6dca32f624428560c2045f9fd",
+      "crc32": "8f210ac9",
+      "sha1": "b9c2094ecaaf0afaac2bddb59b0c9c1455b3e3b1",
+      "format": "JSON"
+    },
+    {
+      "name": "barnpat-2022-10-26T06:54:33.916452-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781680",
+      "size": "32309",
+      "md5": "058009f6fb5e5e5785b561f9b1b8e2cd",
+      "crc32": "66dd6954",
+      "sha1": "c868dc5b8dfe673c53b7fb1931a57d39f50faed2",
+      "format": "JSON"
+    },
+    {
+      "name": "barnpat-2022-10-26T06:54:33.916452-04:00.jpg",
+      "source": "original",
+      "mtime": "1666781677",
+      "size": "190737",
+      "md5": "6dc4c222fcd5a4d10a0e350a53bb8f72",
+      "crc32": "63e72b1e",
+      "sha1": "8fc5f7b7d2316b08ac8c458277f622f23f39c951",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "barnpat-2022-10-26T06:54:33.916452-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781682",
+      "size": "1558",
+      "md5": "b34e139d8544dc90808ba986a507277f",
+      "crc32": "eaaab0ce",
+      "sha1": "5052e76ac3f099de626afa2d8c83ebccfdef4103",
+      "format": "JSON"
+    },
+    {
+      "name": "barnpat-2022-10-26T06:54:33.916452-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781683",
+      "size": "77017",
+      "md5": "87d9adb0bbf8299822b0165ac7e92945",
+      "crc32": "536fdde0",
+      "sha1": "565ab089094bca11ee9e295ba4637a0f1f4916de",
+      "format": "JSON"
+    },
+    {
       "name": "barnpat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "638daa930e3e87fb8954897a71e16060345aa1b0",
-      "mtime": "1666738822",
-      "size": "90101",
-      "md5": "00a27ce94581466f13145be4bc4b3907",
-      "crc32": "b55ac147",
-      "sha1": "9b631bf2cdb7834e374d9a68ce989f7a5f5f5692",
+      "btih": "2a471e8ca698c39fdb11c9029390394c902a2d20",
+      "mtime": "1666781726",
+      "size": "91342",
+      "md5": "82fdcbca91c5816f35be95d35169ddff",
+      "crc32": "c1176f60",
+      "sha1": "b328ffc13fdd0c64cce878a028a7b7dbe4cb5fa7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "barnpat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fa81ad88e58c662756a0b7b0f3ae100",
+      "md5": "8773c7462185e83d8d6221d315b57fe0",
       "summation": "md5"
     },
     {
       "name": "barnpat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666738785",
-      "size": "557056",
-      "md5": "98ad990b9618c4d638c1967455d9d928",
-      "crc32": "cb3e6302",
-      "sha1": "f5ad4b8fc603f34955256b9cee285accad1f907b",
+      "mtime": "1666781688",
+      "size": "565248",
+      "md5": "b2b5f9d4c9c574e832b2bb6720e18895",
+      "crc32": "545d85de",
+      "sha1": "e24616df25867acd4db97083b2a302b8b7e68a40",
       "format": "Metadata"
     },
     {
@@ -4425,9 +4487,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 428,
-  "item_last_updated": 1666738822,
-  "item_size": 27009068,
+  "files_count": 434,
+  "item_last_updated": 1666781726,
+  "item_size": 27351665,
   "metadata": {
     "identifier": "barnpat-2022",
     "collection": [
@@ -4449,7 +4511,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452380164,
+      "task_id": 3452826852,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4457,7 +4519,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1636880214,
+  "uniq": 264033918,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

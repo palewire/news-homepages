@@ -1,5 +1,5 @@
 {
-  "created": 1666738900,
+  "created": 1666781774,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/baltimorebrew-2022",
@@ -12479,31 +12479,93 @@
       "format": "JSON"
     },
     {
+      "name": "baltimorebrew-2022-10-25T19:00:14.692058-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebrew-2022-10-25T19:00:14.692058-04:00.jpg",
+      "mtime": "1666740698",
+      "size": "9250",
+      "md5": "2e56eaaae82e806420ad1ccde37edc4c",
+      "crc32": "d1348ae3",
+      "sha1": "849d656f77d55441f8ceda5581aaec8abef8f3b9"
+    },
+    {
+      "name": "baltimorebrew-2022-10-26T06:54:52.760798-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781699",
+      "size": "17861",
+      "md5": "945799c21005c4d73586bb33b4cad557",
+      "crc32": "839c0022",
+      "sha1": "7208035d375e918710d84cad41f07af668cc0c1c",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-10-26T06:54:52.760798-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781701",
+      "size": "15317",
+      "md5": "63bedfe58bd8bc18c215023132266ae8",
+      "crc32": "a17d9a6e",
+      "sha1": "c1fd1ad1b53c135c44b4c695f3421f7d4fd6e339",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-10-26T06:54:52.760798-04:00.jpg",
+      "source": "original",
+      "mtime": "1666781697",
+      "size": "256756",
+      "md5": "4a6d7f127b85def6720046fdd8bee01a",
+      "crc32": "39dd7103",
+      "sha1": "7876783d0578982fc3ea2c0b3fa53abf82e78fbe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebrew-2022-10-26T06:54:52.760798-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781703",
+      "size": "1522",
+      "md5": "608c33d48dc436ba7d1169d4e1fcad38",
+      "crc32": "004ce27a",
+      "sha1": "03ca0c069e1d75308286a88106658854f93c3b72",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebrew-2022-10-26T06:54:52.760798-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781705",
+      "size": "210",
+      "md5": "3cd59b1d17a07c6d33070085271f0905",
+      "crc32": "cef531ff",
+      "sha1": "3ff7c28f0c11160fe6db0d1a9343758d621fa602",
+      "format": "JSON"
+    },
+    {
       "name": "baltimorebrew-2022_archive.torrent",
       "source": "metadata",
-      "btih": "610e73fc82eb48e412f5aee2d4c752310e1f22a1",
-      "mtime": "1666738890",
-      "size": "260335",
-      "md5": "c7f00cceb733906fe045976f660a9dff",
-      "crc32": "2548170b",
-      "sha1": "5318a76de79d1f141b0b0308e6e76c83fb4767ab",
+      "btih": "2a6b7bd87e5ca27090809fc36249b7a627a49330",
+      "mtime": "1666781766",
+      "size": "261610",
+      "md5": "38eba54f784a5ca995754e0d9428a385",
+      "crc32": "8a01cffe",
+      "sha1": "189f28803d9c3a16f351ba16263260cc759a53a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebrew-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aab5cdcc3e7dad2f69134b335d6d46fe",
+      "md5": "953980ee2a3ed1dab0910a640ae5d107",
       "summation": "md5"
     },
     {
       "name": "baltimorebrew-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666738833",
-      "size": "1540096",
-      "md5": "10aaea572ab49afd5786f217b0cdaac1",
-      "crc32": "c9a74055",
-      "sha1": "b6592582cdf18fa5336775d05836848fca692d8f",
+      "mtime": "1666781712",
+      "size": "1548288",
+      "md5": "3493323c3a02c57cc9ad3af79407fa44",
+      "crc32": "a6e5ea71",
+      "sha1": "9c4a70bd3cdd6fed06f9df404f67b280b29b2e43",
       "format": "Metadata"
     },
     {
@@ -12517,9 +12579,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1209,
-  "item_last_updated": 1666738890,
-  "item_size": 68475620,
+  "files_count": 1215,
+  "item_last_updated": 1666781766,
+  "item_size": 68786003,
   "metadata": {
     "identifier": "baltimorebrew-2022",
     "collection": [
@@ -12541,7 +12603,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452382165,
+      "task_id": 3452827268,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12549,7 +12611,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1376939182,
+  "uniq": 1616852004,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
