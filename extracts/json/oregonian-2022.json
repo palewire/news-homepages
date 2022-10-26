@@ -1,6 +1,5 @@
 {
-  "conflict": 1666752153,
-  "created": 1666752153,
+  "created": 1666796941,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/33/items/oregonian-2022",
@@ -13093,31 +13092,93 @@
       "sha1": "2ae6e987e3edbb5b2d189fc098db22be69424a79"
     },
     {
+      "name": "oregonian-2022-10-26T07:56:28.698083-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796197",
+      "size": "46883",
+      "md5": "1e2b2ed8dbd097ff7e8d07f18af9c355",
+      "crc32": "9a6e49c5",
+      "sha1": "17afbff2f23c88c6f705d92a4c1385c0e6529bf0",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-10-26T07:56:28.698083-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796200",
+      "size": "47500",
+      "md5": "08f6d96454da9c00db7c5df7ca5c6092",
+      "crc32": "4a023ac5",
+      "sha1": "324721ca9eae20bc363c1a8419da9d5a10176a77",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-10-26T07:56:28.698083-07:00.jpg",
+      "source": "original",
+      "mtime": "1666796196",
+      "size": "220710",
+      "md5": "29f8b6f7ca12968a138ec3ea993f1b3a",
+      "crc32": "a3233942",
+      "sha1": "843d976237a7fe0d179b51e235e5236aa14abf64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-10-26T07:56:28.698083-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796201",
+      "size": "1495",
+      "md5": "46488f329ff5d40c5d4a156a0b948a8a",
+      "crc32": "9f3934ca",
+      "sha1": "11c385ba4d4c9716828c7aebda5525bfcd16fc00",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-10-26T07:56:28.698083-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796203",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-10-26T07:56:28.698083-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oregonian-2022-10-26T07:56:28.698083-07:00.jpg",
+      "mtime": "1666796839",
+      "size": "7970",
+      "md5": "a1ef9e1a5b140b604caa84fe8d130a63",
+      "crc32": "ec4c6669",
+      "sha1": "82b948d57f0abf25301e475a43dbaee926aaeb91"
+    },
+    {
       "name": "oregonian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b88b6008437cd3e969bb97fe95414e81c55833c1",
-      "mtime": "1666752138",
-      "size": "268807",
-      "md5": "666ad6a9665be31a8dc9add0567f5958",
-      "crc32": "716fdcb0",
-      "sha1": "934ab2e22001ad8ab6b1e917ecda67a3210ca051",
+      "btih": "0140c53ff925ec5c80ff7b229a7f38e7165ae917",
+      "mtime": "1666796874",
+      "size": "270078",
+      "md5": "44fbc01d31ac49e54ac777145518e93d",
+      "crc32": "9a525be8",
+      "sha1": "cf2dc3f9bd7449eaf43ca14504254de664ade72d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oregonian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "91dad7b96a8e3ec2ffdfb699513711ba",
+      "md5": "fde3e0ef8f9264fdb50e27e2fb676c00",
       "summation": "md5"
     },
     {
       "name": "oregonian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666751599",
-      "size": "1589248",
-      "md5": "c2d4b24a82b73862bece06f4911002fc",
-      "crc32": "4d0079f7",
-      "sha1": "8fc3696e43f205dcf17b85f136b5c99bea35ebb4",
+      "mtime": "1666796206",
+      "size": "1597440",
+      "md5": "f39ff6883a4c1c91d1c97569ac345419",
+      "crc32": "4258197a",
+      "sha1": "b8ec8c86dde1ce8ab01f6f0082c11179bfe3f5b1",
       "format": "Metadata"
     },
     {
@@ -13131,9 +13192,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1267,
-  "item_last_updated": 1666752138,
-  "item_size": 97982909,
+  "files_count": 1273,
+  "item_last_updated": 1666796874,
+  "item_size": 98317132,
   "metadata": {
     "identifier": "oregonian-2022",
     "collection": [
@@ -13150,21 +13211,10 @@
     "publicdate": "2022-07-04 21:50:57",
     "addeddate": "2022-07-04 21:50:57"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3452523397,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1006347112,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1974308684,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

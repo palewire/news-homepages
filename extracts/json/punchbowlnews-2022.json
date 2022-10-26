@@ -1,5 +1,5 @@
 {
-  "created": 1666752181,
+  "created": 1666796395,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/25/items/punchbowlnews-2022",
@@ -13134,31 +13134,82 @@
       "sha1": "46c3d63f39117aea8958a77f31e3fc3ea675862d"
     },
     {
+      "name": "punchbowlnews-2022-10-26T10:58:24.317800-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796317",
+      "size": "15933",
+      "md5": "a84834dd4d4538247c31297985c78782",
+      "crc32": "1c3c04c2",
+      "sha1": "700a06e475d7959d1436cfc71d47a38681505f37",
+      "format": "JSON"
+    },
+    {
+      "name": "punchbowlnews-2022-10-26T10:58:24.317800-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796320",
+      "size": "5341",
+      "md5": "f4cfe20c31c09edb8b7d7fbf7b2eab4e",
+      "crc32": "74e0796b",
+      "sha1": "36d6d7ae32a1bbe3feb8eb22feca26405848d4ef",
+      "format": "JSON"
+    },
+    {
+      "name": "punchbowlnews-2022-10-26T10:58:24.317800-04:00.jpg",
+      "source": "original",
+      "mtime": "1666796316",
+      "size": "196118",
+      "md5": "4b07e39d5b01b3fdd716077cdba98028",
+      "crc32": "e918e2f4",
+      "sha1": "3f004173cec78b09d9d3ae5b41c1949abe1f5907",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "punchbowlnews-2022-10-26T10:58:24.317800-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796321",
+      "size": "1449",
+      "md5": "b446cd19f6c9444e5cea0196c43cb62f",
+      "crc32": "a5cc8cba",
+      "sha1": "4e266c039e65a83d4b41fc4321c0306c04752056",
+      "format": "JSON"
+    },
+    {
+      "name": "punchbowlnews-2022-10-26T10:58:24.317800-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796323",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "punchbowlnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db3b0c31ac3adc9e8cb934d213fc4502c0db77d2",
-      "mtime": "1666752135",
-      "size": "272592",
-      "md5": "aa5da3e1ff8eed38adcfd976b2f0e865",
-      "crc32": "adca4694",
-      "sha1": "dcb9212333aa6b29f6d889ba0cf5cef195562967",
+      "btih": "042f10cb9c759daa6a526c488b6bb71fdb1ca95c",
+      "mtime": "1666796387",
+      "size": "273677",
+      "md5": "d2a5a1d42f165fd5e4bf47b322575349",
+      "crc32": "8d2cdcf1",
+      "sha1": "e6aba3695b46b1c3116f34d5d5c6aea964a51b7e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "punchbowlnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f6477be29b0c5142e53d1478f024bdf",
+      "md5": "591bdc0fb7c0f8c164d27ea451359310",
       "summation": "md5"
     },
     {
       "name": "punchbowlnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666751825",
-      "size": "1605632",
-      "md5": "742b914773f48e0a047bae6eca38b5ac",
-      "crc32": "403ec532",
-      "sha1": "2335dbf6a03e28c54d031315a176c66e05ce5c20",
+      "mtime": "1666796333",
+      "size": "1617920",
+      "md5": "e77bd63c88a4fe1b513fb35db8410826",
+      "crc32": "d04d1206",
+      "sha1": "c5d9820fd168500950fee6ef0eac95bc8687ea43",
       "format": "Metadata"
     },
     {
@@ -13172,9 +13223,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1271,
-  "item_last_updated": 1666752135,
-  "item_size": 53665072,
+  "files_count": 1276,
+  "item_last_updated": 1666796387,
+  "item_size": 53897488,
   "metadata": {
     "identifier": "punchbowlnews-2022",
     "collection": [
@@ -13191,10 +13242,21 @@
     "publicdate": "2022-07-04 21:52:03",
     "addeddate": "2022-07-04 21:52:03"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 1363893387,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3452978077,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1937297968,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }

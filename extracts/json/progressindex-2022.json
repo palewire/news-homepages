@@ -1,5 +1,6 @@
 {
-  "created": 1666752256,
+  "conflict": 1666797465,
+  "created": 1666797465,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/22/items/progressindex-2022",
@@ -4408,31 +4409,93 @@
       "sha1": "5ed20d4532ac8947ec4bc56a491b4d9d4e0a1611"
     },
     {
+      "name": "progressindex-2022-10-26T10:57:57.099945-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796284",
+      "size": "22408",
+      "md5": "1797cd033f05519b9f0d39c8abe60fe4",
+      "crc32": "388bfffe",
+      "sha1": "059b60b61219b69ed94deeafe6ca7808a3d3cf37",
+      "format": "JSON"
+    },
+    {
+      "name": "progressindex-2022-10-26T10:57:57.099945-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796287",
+      "size": "36686",
+      "md5": "eed3dafc6877a9581a12619e664bede2",
+      "crc32": "7d02214b",
+      "sha1": "ae77f97164444159a19cba92c8949c0d9d56a65e",
+      "format": "JSON"
+    },
+    {
+      "name": "progressindex-2022-10-26T10:57:57.099945-04:00.jpg",
+      "source": "original",
+      "mtime": "1666796282",
+      "size": "251058",
+      "md5": "1aefe8d3a755c9d3cb189b29f9ff79e7",
+      "crc32": "ee89b513",
+      "sha1": "3231fc4ff3935ebc06eb4434561d02cb596e7a21",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "progressindex-2022-10-26T10:57:57.099945-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796290",
+      "size": "1531",
+      "md5": "02507398152fb5d42bf747257e1745d9",
+      "crc32": "4b80326c",
+      "sha1": "d2ab42df09e14f20d4b395805f3f29b4b6e419d4",
+      "format": "JSON"
+    },
+    {
+      "name": "progressindex-2022-10-26T10:57:57.099945-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796292",
+      "size": "113710",
+      "md5": "ff0cd239609618e3a64d3f13defc2376",
+      "crc32": "eb73e92b",
+      "sha1": "4f9962ccba968a059e94e9b115f170d4cfa91690",
+      "format": "JSON"
+    },
+    {
+      "name": "progressindex-2022-10-26T10:57:57.099945-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "progressindex-2022-10-26T10:57:57.099945-04:00.jpg",
+      "mtime": "1666797456",
+      "size": "9263",
+      "md5": "1da7700920625730a4e9a74f31bc2767",
+      "crc32": "de07f9fb",
+      "sha1": "131b9558cf58a695c4f577296bfd744408ac1264"
+    },
+    {
       "name": "progressindex-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c338cf1f83834c8e5f68540859c502cf73d78f9e",
-      "mtime": "1666752230",
-      "size": "93127",
-      "md5": "24f3a700d4032dffa9c7e78c079f8ca0",
-      "crc32": "5f7628ed",
-      "sha1": "142c78b5299119ac5854a24d25689ea0faf3bbff",
+      "btih": "0fb437e52c443dff731240559ff6f203c0ff908d",
+      "mtime": "1666797463",
+      "size": "94425",
+      "md5": "68ec319ae660489fc8b4c4d95bf7e0db",
+      "crc32": "7f7209fa",
+      "sha1": "0d36a65488c5461b6be7c07b097dfe9fd6556e4e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "progressindex-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e6f100e50e519fb4391f7c4104c197b",
+      "md5": "423bf84eaa6f34cdfaab2e6489fe823b",
       "summation": "md5"
     },
     {
       "name": "progressindex-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666751640",
-      "size": "565248",
-      "md5": "98508141a6d78553133ef07177d8e1a7",
-      "crc32": "04c6fde9",
-      "sha1": "0cc8e925c148e5ecb9d9d549fe367d1987f569bb",
+      "mtime": "1666796296",
+      "size": "573440",
+      "md5": "1fe474ed0ab5ec1f1b4adee2d2c065ef",
+      "crc32": "b3c49828",
+      "sha1": "1fd5e18d34d0335fade7fc7139b8cb991c298ac9",
       "format": "Metadata"
     },
     {
@@ -4446,9 +4509,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 430,
-  "item_last_updated": 1666752230,
-  "item_size": 28070198,
+  "files_count": 436,
+  "item_last_updated": 1666797463,
+  "item_size": 28514344,
   "metadata": {
     "identifier": "progressindex-2022",
     "collection": [
@@ -4465,10 +4528,29 @@
     "publicdate": "2022-09-21 02:22:50",
     "addeddate": "2022-09-21 02:22:50"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 2103151227,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3452977568,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3452991421,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1032008246,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }
