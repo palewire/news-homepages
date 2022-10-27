@@ -1,5 +1,5 @@
 {
-  "created": 1666798459,
+  "created": 1666842254,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/tucsonsentinel-2022",
@@ -12722,31 +12722,82 @@
       "sha1": "a294f4b27d7183ad7685ca82bb4de1e36eaceed7"
     },
     {
+      "name": "tucsonsentinel-2022-10-26T20:42:57.946949-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666842192",
+      "size": "39234",
+      "md5": "665e1aa2a03a15d40e599afadce56bb3",
+      "crc32": "d20589ac",
+      "sha1": "447b5c0511189f0f685c1107c59b2f099044ac51",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-10-26T20:42:57.946949-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666842194",
+      "size": "40915",
+      "md5": "87e2372ddbced6c4f304df7f1149f1bf",
+      "crc32": "57a751f0",
+      "sha1": "cbd0e7268a0b0c46f317a7a0ea17f4cf05dd75af",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-10-26T20:42:57.946949-07:00.jpg",
+      "source": "original",
+      "mtime": "1666842191",
+      "size": "290711",
+      "md5": "e3ee059e8a8d6bf29f5f81dc0e15496a",
+      "crc32": "50188b49",
+      "sha1": "5eaa21dc30cb0a772aafa5f786f62b489dda294f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonsentinel-2022-10-26T20:42:57.946949-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666842196",
+      "size": "1531",
+      "md5": "22c2079b1c4f1083695ebcc91d544a11",
+      "crc32": "ac3e5805",
+      "sha1": "7d09c52f520609d01701b3e8d9b9e6214883d2e2",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-10-26T20:42:57.946949-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666842198",
+      "size": "30142",
+      "md5": "bba384026d08810a8bb87c2485c861ab",
+      "crc32": "c0179043",
+      "sha1": "a89a7c22d3d333c72eb52792d9b245977c9eb5f6",
+      "format": "JSON"
+    },
+    {
       "name": "tucsonsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "96d9fea11275684db7f246d7c9d3c2f16b8903c1",
-      "mtime": "1666798168",
-      "size": "267751",
-      "md5": "df4092064cbec3a316c658dd822ec669",
-      "crc32": "139f5b62",
-      "sha1": "e0461d5e9804bd70a0c939a886ad17c3bb1d211c",
+      "btih": "c1c5d6297874893ae9e864a4b3343103a21950b9",
+      "mtime": "1666842250",
+      "size": "268824",
+      "md5": "962913bbe0e69ea49257862c150a719f",
+      "crc32": "15edf462",
+      "sha1": "fb7827b75a4a60c9c5d42f57bb3f1068f764e235",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e66aec6f57b47f56d1f2ef677a0713a",
+      "md5": "b682a2ae501e0649e670fc7874771348",
       "summation": "md5"
     },
     {
       "name": "tucsonsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666796934",
-      "size": "1564672",
-      "md5": "c770c394f130fd92be2e326603cdc327",
-      "crc32": "9ea929ad",
-      "sha1": "45f92f3a8887d100f8030509649cb8dad476c14d",
+      "mtime": "1666842203",
+      "size": "1568768",
+      "md5": "82063bc2e72cb0dbd2e14ff617c6c7fc",
+      "crc32": "e60d9d6d",
+      "sha1": "e6fe92d7e208f24cbf53ce7245c987cc28017091",
       "format": "Metadata"
     },
     {
@@ -12760,9 +12811,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1232,
-  "item_last_updated": 1666798168,
-  "item_size": 99435704,
+  "files_count": 1237,
+  "item_last_updated": 1666842250,
+  "item_size": 99843406,
   "metadata": {
     "identifier": "tucsonsentinel-2022",
     "collection": [
@@ -12779,10 +12830,21 @@
     "publicdate": "2022-07-09 04:04:28",
     "addeddate": "2022-07-09 04:04:28"
   },
+  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "uniq": 415208641,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453755206,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1257941045,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia902508.us.archive.org"
   ]
 }

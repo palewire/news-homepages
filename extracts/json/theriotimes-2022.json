@@ -1,5 +1,5 @@
 {
-  "created": 1666801939,
+  "created": 1666844987,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/24/items/theriotimes-2022",
@@ -14434,31 +14434,71 @@
       "format": "JSON"
     },
     {
+      "name": "theriotimes-2022-10-27T00:39:56.224357-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666842022",
+      "size": "63085",
+      "md5": "601f1a207ffc64f33100da12aa59bf45",
+      "crc32": "a4cfaded",
+      "sha1": "9da52f7e9ac68f92d733c10172bf81ad61aaac9d",
+      "format": "JSON"
+    },
+    {
+      "name": "theriotimes-2022-10-27T00:39:56.224357-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666842024",
+      "size": "51768",
+      "md5": "b265a88ab599b65b2d4834becb167a15",
+      "crc32": "991f2ad1",
+      "sha1": "2c055b13a06080c6a0923bd5f5f34a6901c00ab7",
+      "format": "JSON"
+    },
+    {
+      "name": "theriotimes-2022-10-27T00:39:56.224357-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666842026",
+      "size": "1531",
+      "md5": "ac33537f424d1ea3a41b60f4a2c0aeb7",
+      "crc32": "e4760bdb",
+      "sha1": "b548e2c5ab2117751b75769a431981ef123d455f",
+      "format": "JSON"
+    },
+    {
+      "name": "theriotimes-2022-10-27T00:39:56.224357-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666842027",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theriotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a452f0a2ad647e8a06c9cbb7780b97581102f20c",
-      "mtime": "1666796909",
-      "size": "298923",
-      "md5": "9e470783554002f9076309ff2b001232",
-      "crc32": "adad7a1d",
-      "sha1": "f441e7edb56fcd596816b9b34e4b1ba2212c7d9b",
+      "btih": "4cd04dd07edbbacbdebcdc57cabea5d9c5ab9dd3",
+      "mtime": "1666842081",
+      "size": "299776",
+      "md5": "084c9c2558d03426b9ba9d7f33f912a7",
+      "crc32": "a02bff6d",
+      "sha1": "7da805cf0dbdce592f8dac713b2bd7027a9871e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theriotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9109f661bdb98453ed2eee4d92179d4d",
+      "md5": "759ebf619743e4722ff4ed988964d7f3",
       "summation": "md5"
     },
     {
       "name": "theriotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666796848",
-      "size": "1789952",
-      "md5": "83db797a6426c5a22fcc0b31a6db13b7",
-      "crc32": "46561b5c",
-      "sha1": "196e145f588ef11cb319b90e9068155cd77792db",
+      "mtime": "1666842032",
+      "size": "1798144",
+      "md5": "c4325ae6f7c5810d158272ab0c5b8321",
+      "crc32": "f30b8bd0",
+      "sha1": "fbc4b4622e21cd13da5c1a374e36c519bdb492c1",
       "format": "Metadata"
     },
     {
@@ -14472,9 +14512,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1400,
-  "item_last_updated": 1666796909,
-  "item_size": 91709246,
+  "files_count": 1404,
+  "item_last_updated": 1666842081,
+  "item_size": 91834877,
   "metadata": {
     "identifier": "theriotimes-2022",
     "collection": [
@@ -14491,10 +14531,26 @@
     "publicdate": "2022-08-04 04:56:32",
     "addeddate": "2022-08-04 04:56:32"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 1739658655,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453753493,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "theriotimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 554850157,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

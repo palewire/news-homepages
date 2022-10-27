@@ -1,5 +1,5 @@
 {
-  "created": 1666797579,
+  "created": 1666844755,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/sowetanlive-2022",
@@ -7902,31 +7902,82 @@
       "sha1": "b9357ea75ece0e65d5fb323660585a39de173b00"
     },
     {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666841883",
+      "size": "28634",
+      "md5": "4d0cd448a5a160e0576206012ef24459",
+      "crc32": "68f1aa7d",
+      "sha1": "dae5f6cc5d1b760e376869a782f97d5e34d562d6",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666841885",
+      "size": "27889",
+      "md5": "01453b3be7399733d3d17c92d49e05c8",
+      "crc32": "66c9a673",
+      "sha1": "042281fc0f41ad20f62dc6cc658af4d2d3078e21",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.jpg",
+      "source": "original",
+      "mtime": "1666841881",
+      "size": "239187",
+      "md5": "219f71e9944362d627601665c197c815",
+      "crc32": "26835332",
+      "sha1": "5b7cb22c80bad3f00f9746497304e7960e0b0449",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666841887",
+      "size": "1519",
+      "md5": "bab5732fd0d35624d35b064aaedbe51a",
+      "crc32": "66c7fafd",
+      "sha1": "cce448fbec525310bb450619d9cba4e3099aa50c",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666841888",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "sowetanlive-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc974014bc7826b08aa87545f693767a68576aaa",
-      "mtime": "1666797554",
-      "size": "164092",
-      "md5": "05fad1792f45b425ec8ad529e026595d",
-      "crc32": "667695c9",
-      "sha1": "d3fd8b2d22d8af2d6f19fb587eae1a2df5e61bbe",
+      "btih": "4e1457eae84c4d55cdc18b55dc89d609c27e26a5",
+      "mtime": "1666841950",
+      "size": "165168",
+      "md5": "956067c136d4bbc1acf1e6c6161a996d",
+      "crc32": "eacec529",
+      "sha1": "416d863b4e22cf09743b3c88467fbda1e3b2a9f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sowetanlive-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b907ec1ed5c1436cfee331a8de598cf",
+      "md5": "85dd7138495f074d8f653a938623121d",
       "summation": "md5"
     },
     {
       "name": "sowetanlive-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666796548",
-      "size": "991232",
-      "md5": "ce6eef87b5375f8b0988c25f90bc1b44",
-      "crc32": "d49c83e8",
-      "sha1": "0c7c0025c716621d1e119ba0865fa8e1c8cbbc4e",
+      "mtime": "1666841905",
+      "size": "999424",
+      "md5": "48e0e8ce7ed9430dfdd09996381bb19d",
+      "crc32": "45026628",
+      "sha1": "32e9c18a5903456abcb192b9a50576cbdfcec2b7",
       "format": "Metadata"
     },
     {
@@ -7940,9 +7991,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 768,
-  "item_last_updated": 1666797554,
-  "item_size": 44024017,
+  "files_count": 773,
+  "item_last_updated": 1666841950,
+  "item_size": 44330716,
   "metadata": {
     "identifier": "sowetanlive-2022",
     "collection": [
@@ -7959,10 +8010,26 @@
     "publicdate": "2022-08-23 12:56:55",
     "addeddate": "2022-08-23 12:56:55"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1714853983,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "sowetanlive-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "tasks": [
+    {
+      "task_id": 3453752097,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 923291965,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

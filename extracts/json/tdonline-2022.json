@@ -1,5 +1,5 @@
 {
-  "created": 1666798928,
+  "created": 1666841923,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/23/items/tdonline-2022",
@@ -4480,31 +4480,82 @@
       "sha1": "b20d5fc30909e69dd1478fa0ccba52bb02abfb7a"
     },
     {
+      "name": "tdonline-2022-10-26T23:37:47.054970-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666841873",
+      "size": "20893",
+      "md5": "c9d920051a5f8bae7dd42286e968454b",
+      "crc32": "8e07c281",
+      "sha1": "d08f6679ab9fb46718b31b897dc5e90da66a893b",
+      "format": "JSON"
+    },
+    {
+      "name": "tdonline-2022-10-26T23:37:47.054970-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666841875",
+      "size": "40266",
+      "md5": "7491024fb13e38dd5c7ff6325354a41f",
+      "crc32": "a52b0b11",
+      "sha1": "b0c462bff2f59d3746a0cbf025bb157d2563d81e",
+      "format": "JSON"
+    },
+    {
+      "name": "tdonline-2022-10-26T23:37:47.054970-04:00.jpg",
+      "source": "original",
+      "mtime": "1666841871",
+      "size": "269938",
+      "md5": "855a417c3081e30d982e8fbc60f929f0",
+      "crc32": "029a61db",
+      "sha1": "8a9feb90714a93cb2a8073e23dc3c03f8d9d7cd7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tdonline-2022-10-26T23:37:47.054970-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666841877",
+      "size": "1504",
+      "md5": "e21b34da2d95021e3678dd5a00132d5b",
+      "crc32": "af1b2206",
+      "sha1": "a1077df091194da2c8afe6e62871633567daa63f",
+      "format": "JSON"
+    },
+    {
+      "name": "tdonline-2022-10-26T23:37:47.054970-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666841878",
+      "size": "80674",
+      "md5": "c327e4328037dfd61277e4ed6b56c281",
+      "crc32": "f63db7ce",
+      "sha1": "942efe434cb504c6d1a245e79147b7b7191c6559",
+      "format": "JSON"
+    },
+    {
       "name": "tdonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "41a441944801b84054cc1b4bf754c32aac402dbb",
-      "mtime": "1666798675",
-      "size": "92460",
-      "md5": "2e36208b97a8bee6f07a8f7300ccaba9",
-      "crc32": "43679877",
-      "sha1": "5e71c4d5f9a2784a0c7bd27fa7a955026d8467de",
+      "btih": "2584e1a0af7e03bed899ed4f6285f26a4aa17bf4",
+      "mtime": "1666841920",
+      "size": "93523",
+      "md5": "a318f30431d63f2ae1db822af12aed05",
+      "crc32": "22b56b86",
+      "sha1": "739b08ac0958dffcba0721f6933d61e60e7d4010",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tdonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58916204f6712f44236b3b263f98520d",
+      "md5": "ef6a75154b2793e7ae4d5d1141917685",
       "summation": "md5"
     },
     {
       "name": "tdonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666796667",
-      "size": "565248",
-      "md5": "2db387e2b5d3e0231b34d2266e5d996b",
-      "crc32": "7ef85b07",
-      "sha1": "0eb5bcbba8c9e9dbf89a9dbc3822d36a5d11e773",
+      "mtime": "1666841883",
+      "size": "573440",
+      "md5": "9701ee8ec18da6fce0f773f64c619439",
+      "crc32": "07f074b6",
+      "sha1": "a891db9fc7bba88656ba6a4b280690eedeaa7a57",
       "format": "Metadata"
     },
     {
@@ -4518,9 +4569,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 437,
-  "item_last_updated": 1666798675,
-  "item_size": 28890784,
+  "files_count": 442,
+  "item_last_updated": 1666841920,
+  "item_size": 29313314,
   "metadata": {
     "identifier": "tdonline-2022",
     "collection": [
@@ -4537,10 +4588,21 @@
     "publicdate": "2022-09-21 03:43:06",
     "addeddate": "2022-09-21 03:43:06"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1629710017,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453751723,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 103144974,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }
