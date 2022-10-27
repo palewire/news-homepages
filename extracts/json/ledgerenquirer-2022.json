@@ -1,5 +1,5 @@
 {
-  "created": 1666789590,
+  "created": 1666834292,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -11839,31 +11839,93 @@
       "format": "JSON"
     },
     {
+      "name": "ledgerenquirer-2022-10-26T09:05:01.972597-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-10-26T09:05:01.972597-04:00.jpg",
+      "mtime": "1666790786",
+      "size": "9833",
+      "md5": "23f2d55cdc6ca405ae25d9d109bb8aac",
+      "crc32": "0f025465",
+      "sha1": "b5a0aac5acd969ab2942336f55d54976ad4cb707"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-26T21:28:47.713954-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666834140",
+      "size": "463",
+      "md5": "9a31439636ef9c0134f8ee37bd51ab90",
+      "crc32": "e9ecc2fd",
+      "sha1": "22d60f7f3de70081184ac05d1ee4b03ca783b73b",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-26T21:28:47.713954-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666834142",
+      "size": "36253",
+      "md5": "fecda7838a5cafcab1671d496041a411",
+      "crc32": "543475ba",
+      "sha1": "350d53f771aa85fae8aa9f8c84bd82df29a1e219",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-26T21:28:47.713954-04:00.jpg",
+      "source": "original",
+      "mtime": "1666834130",
+      "size": "268364",
+      "md5": "de31067225016e34ca4786ad4ef37245",
+      "crc32": "3896cb96",
+      "sha1": "96f2459d9b7c88fd6951f3e039cf74b55ec173ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-26T21:28:47.713954-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666834144",
+      "size": "1540",
+      "md5": "b8d6e5cf6c0e719d1add043eedaee5fb",
+      "crc32": "eca8b953",
+      "sha1": "1b3d1464e68dac18b7cc1686ae1513fbecf3ca94",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-10-26T21:28:47.713954-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666834146",
+      "size": "52095",
+      "md5": "5f26373afcee068d984c79c711582fde",
+      "crc32": "b448b01d",
+      "sha1": "74755f772f6370fa8bd46b70aef58775109ed84e",
+      "format": "JSON"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b5be967dcb2559d08a66b476169cb5f9511443f",
-      "mtime": "1666789576",
-      "size": "248241",
-      "md5": "96454555a7f7dfaefa56f17c3faf6709",
-      "crc32": "c3e85588",
-      "sha1": "b3c9599cf7a3a379770474382cf8dceabfbc2015",
+      "btih": "9cabeab0b11581880823f0d7cb92a62028633369",
+      "mtime": "1666834285",
+      "size": "249542",
+      "md5": "6025a602014f389060a03c12dabcff9d",
+      "crc32": "ad0d1039",
+      "sha1": "2f2a9bafc6ae512dfe2eed4146da3cef97714a44",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f6746325ab1bb478a935352dd255ec3",
+      "md5": "c338e7f7a8d2fe2c1a5abf8e4777f5d9",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666789523",
-      "size": "1470464",
-      "md5": "a999c7028ce80d68488be4fda5abc51b",
-      "crc32": "82a841b7",
-      "sha1": "69b56e98df6e0925f30a900579bd4bd526a25730",
+      "mtime": "1666834237",
+      "size": "1478656",
+      "md5": "5facde8908a976352f8c903127ffc882",
+      "crc32": "629f70a7",
+      "sha1": "e7a5735c8bb31cc1f47784fe060c8a6fb5ef35dd",
       "format": "Metadata"
     },
     {
@@ -11877,9 +11939,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1148,
-  "item_last_updated": 1666789576,
-  "item_size": 70341079,
+  "files_count": 1154,
+  "item_last_updated": 1666834285,
+  "item_size": 70719120,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -11901,7 +11963,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452910655,
+      "task_id": 3453674522,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11909,7 +11971,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 203272650,
+  "uniq": 1076658887,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
