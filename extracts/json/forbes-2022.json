@@ -1,5 +1,5 @@
 {
-  "created": 1666876852,
+  "created": 1666914005,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/22/items/forbes-2022",
@@ -6649,31 +6649,93 @@
       "format": "JSON"
     },
     {
+      "name": "forbes-2022-10-27T08:16:28.030536-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "forbes-2022-10-27T08:16:28.030536-04:00.jpg",
+      "mtime": "1666889327",
+      "size": "9232",
+      "md5": "e55ed128cde5d3ee79cd34604e9f73e4",
+      "crc32": "3bf3f9ee",
+      "sha1": "b096fd28cd1d9f9f9c85f2157b7a61d5619e6050"
+    },
+    {
+      "name": "forbes-2022-10-27T19:38:39.411851-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666913927",
+      "size": "33553",
+      "md5": "104d55150fd1d1954a612ba94b8f11c5",
+      "crc32": "c2333f71",
+      "sha1": "57d97ccfb3dd8e57b702422f8ba25e59bcc177a1",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-27T19:38:39.411851-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666913929",
+      "size": "53620",
+      "md5": "65c6d170db05ed9f671aeead323a75e9",
+      "crc32": "08504113",
+      "sha1": "e7d8cea074b5d52fd69ef0b6963ab25719c6a9bc",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-27T19:38:39.411851-04:00.jpg",
+      "source": "original",
+      "mtime": "1666913924",
+      "size": "205051",
+      "md5": "89b0a4af96331c2a273205c658a9528d",
+      "crc32": "b2e6627a",
+      "sha1": "c6822b52c1e4f3a4f3b43c18b5872af06beeda37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "forbes-2022-10-27T19:38:39.411851-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666913931",
+      "size": "1458",
+      "md5": "96f83fd238f91c6d6afbf5529fede0c5",
+      "crc32": "7898475d",
+      "sha1": "f173ca345025ca288cd2cdfe8de825c75eba68e0",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-27T19:38:39.411851-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666913934",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "forbes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "23938da2b70c748557839f9390980d9c2ac7eb40",
-      "mtime": "1666873091",
-      "size": "135053",
-      "md5": "471dd8e3a79d66f98ff977d2d706d920",
-      "crc32": "d4b7d25a",
-      "sha1": "9da77a7d68073b05f90bee15f5f74d8d200ce31a",
+      "btih": "3c47ebc3f6de1241e5b8a95489dff7ac051b8d97",
+      "mtime": "1666913998",
+      "size": "136286",
+      "md5": "b5302b56e0f30a463af74c65eb62d592",
+      "crc32": "099d1585",
+      "sha1": "47948e260318845a708446643b405d6d8bc53289",
       "format": "Archive BitTorrent"
     },
     {
       "name": "forbes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a1e7072e959280d00dbc498a26c1299",
+      "md5": "48cc4d2173a8370fac3f658ac3211473",
       "summation": "md5"
     },
     {
       "name": "forbes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666873035",
-      "size": "831488",
-      "md5": "a0fb10e28abdb9bee67f8d26cbdd44e5",
-      "crc32": "6591c71d",
-      "sha1": "94c47be272859ad71e63eda463c224d5769d3478",
+      "mtime": "1666913944",
+      "size": "839680",
+      "md5": "6bc5ebb3197be25ce8836aba1e4e953e",
+      "crc32": "b85073d1",
+      "sha1": "9a463bb18c00addf429b7d55e4a64b6e6e6d09a6",
       "format": "Metadata"
     },
     {
@@ -6687,14 +6749,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 647,
-  "forbes-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1666873091,
-  "item_size": 36464053,
+  "files_count": 653,
+  "item_last_updated": 1666913998,
+  "item_size": 36776594,
   "metadata": {
     "identifier": "forbes-2022",
     "collection": [
@@ -6716,7 +6773,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454098080,
+      "task_id": 3454573361,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6724,7 +6781,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1862633789,
+  "uniq": 1687589244,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

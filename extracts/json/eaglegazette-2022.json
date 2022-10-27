@@ -1,13 +1,8 @@
 {
-  "created": 1666876557,
+  "created": 1666913987,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/20/items/eaglegazette-2022",
-  "eaglegazette-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4660,31 +4655,93 @@
       "format": "JSON"
     },
     {
+      "name": "eaglegazette-2022-10-27T08:13:13.238664-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eaglegazette-2022-10-27T08:13:13.238664-04:00.jpg",
+      "mtime": "1666889396",
+      "size": "9200",
+      "md5": "b1e8e5d1d34f7261d09cd3cf2e607f6c",
+      "crc32": "9642e6cf",
+      "sha1": "b44579ac2d17f121754e307330fcf0fb7fedc87b"
+    },
+    {
+      "name": "eaglegazette-2022-10-27T19:37:36.612506-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666913871",
+      "size": "20078",
+      "md5": "c5357e9f6e1369ea1a3309aee0f52870",
+      "crc32": "b6a4a475",
+      "sha1": "4a4d25d84e6e7ffef43483d04682308d731cbde4",
+      "format": "JSON"
+    },
+    {
+      "name": "eaglegazette-2022-10-27T19:37:36.612506-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666913873",
+      "size": "45901",
+      "md5": "054a76f157251a7199bbf369029edc42",
+      "crc32": "2b58e53c",
+      "sha1": "ea60cb999ec1171d5a67f7b0570a198f6a625e8f",
+      "format": "JSON"
+    },
+    {
+      "name": "eaglegazette-2022-10-27T19:37:36.612506-04:00.jpg",
+      "source": "original",
+      "mtime": "1666913869",
+      "size": "279541",
+      "md5": "d75959f5f1ac25859ed07f51cc98411d",
+      "crc32": "c37dd545",
+      "sha1": "40b2f040901b627170ff023e64d4b413369a7277",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eaglegazette-2022-10-27T19:37:36.612506-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666913874",
+      "size": "1594",
+      "md5": "7a804d86db592b15ed575b288b4480fc",
+      "crc32": "3fb75d0e",
+      "sha1": "f880d9fbde9be0fac59c3ddbe2e6d2c23822c6cd",
+      "format": "JSON"
+    },
+    {
+      "name": "eaglegazette-2022-10-27T19:37:36.612506-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666913876",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "eaglegazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c03b98728df0c55e32aea89bb440bc66610288c2",
-      "mtime": "1666872871",
-      "size": "97853",
-      "md5": "b999b699067e3222b7faf0036498b277",
-      "crc32": "c2dcb6da",
-      "sha1": "27e7185335e58f8cad2bbf78f60151b1fed7d071",
+      "btih": "abda6a68ed5442e5e54d2ce32a46528a3be0ac13",
+      "mtime": "1666913961",
+      "size": "99142",
+      "md5": "005038903e097ee6beadb377ef79d4f3",
+      "crc32": "1a2fbfdb",
+      "sha1": "cbb3ffcbf7336a17aba49947c0d7f4028315c093",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eaglegazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa659182c756ae24f1ee0094e9978819",
+      "md5": "15657ba620c49457d9e9aca4effeacc8",
       "summation": "md5"
     },
     {
       "name": "eaglegazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666872828",
-      "size": "593920",
-      "md5": "a690216ff6a56d238ea7e700108d5888",
-      "crc32": "fc20345a",
-      "sha1": "6477d793fea6d5a57bbf1d9a546094fd2b9d44a2",
+      "mtime": "1666913899",
+      "size": "602112",
+      "md5": "af7519d3d6ca1dc4badd26777f415cde",
+      "crc32": "ede1546f",
+      "sha1": "f7d7aeedb5ca99ac68417db56b39ec2ed6a334a2",
       "format": "Metadata"
     },
     {
@@ -4698,9 +4755,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666872871,
-  "item_size": 29912762,
+  "files_count": 460,
+  "item_last_updated": 1666913961,
+  "item_size": 30278759,
   "metadata": {
     "identifier": "eaglegazette-2022",
     "collection": [
@@ -4722,7 +4779,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454096019,
+      "task_id": 3454572962,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4730,7 +4787,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 278462517,
+  "uniq": 556354609,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

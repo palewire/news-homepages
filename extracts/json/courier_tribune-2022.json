@@ -1,13 +1,5 @@
 {
-  "courier_tribune-2022": {
-    "url": "https://www.courier-tribune.com/",
-    "job_id": "spn2-22fb5a630591a425cbd6490ddc4444a44f1ec752",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1020.",
-    "resources": []
-  },
-  "created": 1666876330,
+  "created": 1666913872,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/29/items/courier_tribune-2022",
@@ -4663,31 +4655,93 @@
       "format": "JSON"
     },
     {
+      "name": "courier_tribune-2022-10-27T08:10:29.211333-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "courier_tribune-2022-10-27T08:10:29.211333-04:00.jpg",
+      "mtime": "1666888823",
+      "size": "9196",
+      "md5": "8ef8bf27c94bf9e648b6e6dafa3fccb5",
+      "crc32": "ae730c96",
+      "sha1": "5e1e004b0117ee92b19aeac708f3cd481c231acc"
+    },
+    {
+      "name": "courier_tribune-2022-10-27T19:36:43.288947-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666913806",
+      "size": "22122",
+      "md5": "0e03fb0cbf10edc0e3567dd3ba77977b",
+      "crc32": "3b32234d",
+      "sha1": "dc87d8fb375032f44ee219ab15e1c41fc2a2818a",
+      "format": "JSON"
+    },
+    {
+      "name": "courier_tribune-2022-10-27T19:36:43.288947-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666913808",
+      "size": "47283",
+      "md5": "4638ec2e0645f2f30b4a74411356186b",
+      "crc32": "92ee633c",
+      "sha1": "f2de2d266ae5b258615d50e371f68cbbd0333942",
+      "format": "JSON"
+    },
+    {
+      "name": "courier_tribune-2022-10-27T19:36:43.288947-04:00.jpg",
+      "source": "original",
+      "mtime": "1666913804",
+      "size": "264171",
+      "md5": "795f94262f2b1f7f60edf47436a9a3fc",
+      "crc32": "0365fc16",
+      "sha1": "8be92263a73cf741297d016a0218be542738edb1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "courier_tribune-2022-10-27T19:36:43.288947-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666913810",
+      "size": "1540",
+      "md5": "1f8db2aeecd2b5131f376a22b827dd86",
+      "crc32": "415576a8",
+      "sha1": "d7b83eff97b00559ca274a61caff4303981cadaa",
+      "format": "JSON"
+    },
+    {
+      "name": "courier_tribune-2022-10-27T19:36:43.288947-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666913812",
+      "size": "94181",
+      "md5": "5048a3f23bfa41d3a1d2ec40985fba21",
+      "crc32": "8e649471",
+      "sha1": "162466b81e8f2c2c11ce58a0ad489c2a881dd7e0",
+      "format": "JSON"
+    },
+    {
       "name": "courier_tribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4135421ebd5cb84017500b08ddaaeb848c23876b",
-      "mtime": "1666872698",
-      "size": "99300",
-      "md5": "8d0a5ecf1c3f9bb2d56c074ec2e98b8d",
-      "crc32": "bd846ffd",
-      "sha1": "9a2dc4a04ab22681a07d1318c25f67086e45b154",
+      "btih": "092deaff7afb948de5eec761a69025138c609129",
+      "mtime": "1666913862",
+      "size": "100609",
+      "md5": "7f4e62d402420bd847da4af616865d86",
+      "crc32": "0716dc3d",
+      "sha1": "1f0c73529cc5af0701297a3af438d271a83c8656",
       "format": "Archive BitTorrent"
     },
     {
       "name": "courier_tribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eaaaea075a3e7691f1a7228db10cc20b",
+      "md5": "091e9267779efe57e4c306bdcb78bdbd",
       "summation": "md5"
     },
     {
       "name": "courier_tribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666872657",
-      "size": "593920",
-      "md5": "841b9af5df0602870e1cf08b68bc4b5c",
-      "crc32": "57b4bcc8",
-      "sha1": "0903ec32542f6c6dd1407155f993880f4fd2dd1a",
+      "mtime": "1666913818",
+      "size": "602112",
+      "md5": "c42ae2a3cd4c7fd341dc19d8a4240480",
+      "crc32": "5a782e2f",
+      "sha1": "6ec64d084baedff7e725984db02f3bf389f42010",
       "format": "Metadata"
     },
     {
@@ -4701,9 +4755,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666872698,
-  "item_size": 30602208,
+  "files_count": 460,
+  "item_last_updated": 1666913862,
+  "item_size": 31050202,
   "metadata": {
     "identifier": "courier_tribune-2022",
     "collection": [
@@ -4725,7 +4779,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454094167,
+      "task_id": 3454570502,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4733,7 +4787,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1756223108,
+  "uniq": 911923237,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

@@ -1,5 +1,6 @@
 {
-  "created": 1666873080,
+  "conflict": 1666914377,
+  "created": 1666914377,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/gwinnettdaily-2022",
@@ -11861,21 +11862,32 @@
       "format": "JSON"
     },
     {
+      "name": "gwinnettdaily-2022-10-27T08:16:18.171954-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gwinnettdaily-2022-10-27T08:16:18.171954-04:00.jpg",
+      "mtime": "1666889776",
+      "size": "10097",
+      "md5": "1d9515721fe52ae79f0165aec670f6dd",
+      "crc32": "2b98ea87",
+      "sha1": "615c73ffc1842eb851b0cf6590cae6f2e876eb6e"
+    },
+    {
       "name": "gwinnettdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a81141eeac2d8b1dd4ed148922c1e0002c296cc9",
-      "mtime": "1666873068",
-      "size": "250187",
-      "md5": "894e8fbd9cb4337895ad5e5943303d8a",
-      "crc32": "ac6ce782",
-      "sha1": "29c78349b02e409134bf094f532237a1c9b3f977",
+      "btih": "ee05d7ef7da3f44fdbfac25155ab8c41a8d36ef9",
+      "mtime": "1666889795",
+      "size": "250397",
+      "md5": "35f1194a81ca3bf8897905f4f1c5af02",
+      "crc32": "18765ace",
+      "sha1": "7a8598bb7ddc4110d77829c60fbbdf370dc47aab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gwinnettdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "08b4d126d71dd4e61365bcc488a08357",
+      "md5": "fe1e72c43a5eb14058409c0e06d225e0",
       "summation": "md5"
     },
     {
@@ -11899,9 +11911,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1150,
-  "item_last_updated": 1666873068,
-  "item_size": 118017586,
+  "files_count": 1151,
+  "item_last_updated": 1666889795,
+  "item_size": 118027893,
   "metadata": {
     "identifier": "gwinnettdaily-2022",
     "collection": [
@@ -11923,15 +11935,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454097954,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "task_id": 3454572879,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 303694384,
+  "uniq": 482685842,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

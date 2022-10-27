@@ -1,5 +1,5 @@
 {
-  "created": 1666872736,
+  "created": 1666913823,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/24/items/crucessunnews-2022",
@@ -19315,31 +19315,93 @@
       "format": "JSON"
     },
     {
+      "name": "crucessunnews-2022-10-27T06:10:52.849892-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crucessunnews-2022-10-27T06:10:52.849892-06:00.jpg",
+      "mtime": "1666889688",
+      "size": "8818",
+      "md5": "d8ab9c269d0ebf4e07acb90667f5b469",
+      "crc32": "369a2d74",
+      "sha1": "eda2a4693e0957befd6bbef0a5f2e1db4202b291"
+    },
+    {
+      "name": "crucessunnews-2022-10-27T17:35:27.455577-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666913740",
+      "size": "20568",
+      "md5": "a6f5cd2efa7abf15b82c4dd46841efab",
+      "crc32": "e639ec66",
+      "sha1": "a2a49176f4513c31dc4bbab1a41fd996dcff93da",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-10-27T17:35:27.455577-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666913743",
+      "size": "34634",
+      "md5": "ac6476b1e9392481f1a2e9aa152a10a0",
+      "crc32": "2881aab2",
+      "sha1": "322cf8072bda2ee3baf644667c28a47d11e6c4ec",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-10-27T17:35:27.455577-06:00.jpg",
+      "source": "original",
+      "mtime": "1666913738",
+      "size": "268150",
+      "md5": "9454c97dee006e229f02de920e19c16d",
+      "crc32": "4a37d654",
+      "sha1": "4a214ff701b36f972b028857b7dda1166ad16066",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crucessunnews-2022-10-27T17:35:27.455577-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666913745",
+      "size": "1494",
+      "md5": "5bb4ebb3b0bd0e2d31e2e8361a154edb",
+      "crc32": "4be3f976",
+      "sha1": "2c00200524a2a1151431d477f0a00a7dc91d2ce8",
+      "format": "JSON"
+    },
+    {
+      "name": "crucessunnews-2022-10-27T17:35:27.455577-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666913747",
+      "size": "96670",
+      "md5": "c57bc9666304f62749c8e3422582ddc1",
+      "crc32": "66b93cab",
+      "sha1": "c2ee6dae9e91ce57601f2015535adfcb4e0709e0",
+      "format": "JSON"
+    },
+    {
       "name": "crucessunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f3a05241a11c874db6b42854a0074a19ba9b4ac",
-      "mtime": "1666872732",
-      "size": "400723",
-      "md5": "0a2b2df7ef9b90ba4dd2b5e98f7bd59e",
-      "crc32": "a97b3a8c",
-      "sha1": "b3abc4e99dc13963cad2bba3a8793f5fdf13300e",
+      "btih": "37478ffb63fb22707de6584abb8b64a4cf6f9888",
+      "mtime": "1666913818",
+      "size": "402020",
+      "md5": "0cf2f5ab874f8b5a25106b77626ca0a6",
+      "crc32": "dc16f29b",
+      "sha1": "498b94f4454fce54526cf2bf278c3c564f2823eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crucessunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99e5bb7f45832bf559cd968951024e69",
+      "md5": "59fcadc255af5d57ffed6b02869ad381",
       "summation": "md5"
     },
     {
       "name": "crucessunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666872674",
-      "size": "2273280",
-      "md5": "20ddf50f02feb194c151fc991c761151",
-      "crc32": "eaa6c69f",
-      "sha1": "d53b6834d54066d5654991a6b904e7b9578d1237",
+      "mtime": "1666913752",
+      "size": "2281472",
+      "md5": "e3d8195dcb16e895b6b46684ceb42891",
+      "crc32": "c226bbcc",
+      "sha1": "e31d4e416a9f41fb705f449f4a9b1c4e36dd06d2",
       "format": "Metadata"
     },
     {
@@ -19353,9 +19415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1859,
-  "item_last_updated": 1666872732,
-  "item_size": 132864885,
+  "files_count": 1865,
+  "item_last_updated": 1666913818,
+  "item_size": 133304708,
   "metadata": {
     "identifier": "crucessunnews-2022",
     "collection": [
@@ -19377,7 +19439,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454094409,
+      "task_id": 3454569421,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19385,7 +19447,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 815520135,
+  "uniq": 1150813676,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]
