@@ -1,5 +1,10 @@
 {
-  "created": 1666781589,
+  "alreporter-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1666872539,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/alreporter-2022",
@@ -5545,31 +5550,155 @@
       "format": "JSON"
     },
     {
+      "name": "alreporter-2022-10-26T05:52:04.672800-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-26T05:52:04.672800-05:00.jpg",
+      "mtime": "1666782720",
+      "size": "9894",
+      "md5": "6efc0de0feaa581bef8c213f6d7f6736",
+      "crc32": "5a0437c1",
+      "sha1": "ae839fcb5c4ac9a4415edb2ce7b67ed88dcd58c0"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666824927",
+      "size": "31850",
+      "md5": "de4f9244a89769850799d02f8955ef0b",
+      "crc32": "3427396c",
+      "sha1": "aa2df12028b1808aef9372310e1813cade62a227",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666824929",
+      "size": "28392",
+      "md5": "740624bd587998c9c278ade0de750f28",
+      "crc32": "dafdbb15",
+      "sha1": "e7a1d7eabc1eb781c4792e36c2f2d42ba66a1125",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.jpg",
+      "source": "original",
+      "mtime": "1666824925",
+      "size": "282618",
+      "md5": "0159ed739f54ded8b79856451c249b4f",
+      "crc32": "ff1e20b3",
+      "sha1": "0efebe82353513236ca9bde74b8706f8cbaf2d16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666824931",
+      "size": "1495",
+      "md5": "ca52714388e7b9062c111c7856072cc1",
+      "crc32": "63165773",
+      "sha1": "8410e115c838a08df3ab84f647d71cef738ff4f9",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666824932",
+      "size": "19367",
+      "md5": "395227e2bd9321336047973a72e00f78",
+      "crc32": "a8bc1430",
+      "sha1": "d1b78d85da0b07ff3f78c76c40971c0a44e1256c",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-26T17:55:22.392135-05:00.jpg",
+      "mtime": "1666849039",
+      "size": "10458",
+      "md5": "4ed2859cc20b2000e8eb6e6231393984",
+      "crc32": "c35b0d36",
+      "sha1": "fce692c2d371275fc80258ede8854821f5eadac7"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868396",
+      "size": "31850",
+      "md5": "de4f9244a89769850799d02f8955ef0b",
+      "crc32": "3427396c",
+      "sha1": "aa2df12028b1808aef9372310e1813cade62a227",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868398",
+      "size": "28781",
+      "md5": "aee1092104679380a05f5241b3a30077",
+      "crc32": "1ea5d7f3",
+      "sha1": "a09c28ac81e396a48820d6042e00d40ade6707f3",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.jpg",
+      "source": "original",
+      "mtime": "1666868393",
+      "size": "282593",
+      "md5": "3bff589c65a99c7546c990318742302b",
+      "crc32": "0b95d460",
+      "sha1": "c92a72f34c4245e5a51da11e1a94f075e8a43562",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868400",
+      "size": "1495",
+      "md5": "eee51f0f7c93fcd84c77e100a27f8320",
+      "crc32": "cb06648e",
+      "sha1": "c5e8287b9ca8739ef1ad449476f490fc9ea6c87b",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868403",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "alreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "124111f1f59f08f8eea260c91ddd06f7e3835595",
-      "mtime": "1666781583",
-      "size": "115235",
-      "md5": "cabd92a597ab97bb700e05e4403a0c13",
-      "crc32": "960a7ce5",
-      "sha1": "7510d112cc7549220637c3916b499c711204ef17",
+      "btih": "3b34e2fb9a61d404c75af751d780bf8c41836b77",
+      "mtime": "1666868483",
+      "size": "117772",
+      "md5": "1773bb7f62afb24a2ddc0db665e08859",
+      "crc32": "74c151d0",
+      "sha1": "6c8cbee4b7d684830f31358ed7efd6b856b5aeae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f060c6361d1de6b1a63e6f79f60d9fa2",
+      "md5": "2dbbf72e828e62f83943c9dadd889c6e",
       "summation": "md5"
     },
     {
       "name": "alreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666781543",
-      "size": "700416",
-      "md5": "dc42e15f9332edb95e4fbbe27f38d9d2",
-      "crc32": "4debcb2b",
-      "sha1": "8514620b1df6c95600b57f284bc03966a06fedf7",
+      "mtime": "1666868411",
+      "size": "712704",
+      "md5": "591e538f66fe95ac00c0cdbacd8c32a0",
+      "crc32": "92a55826",
+      "sha1": "0a0a9886c2f7b421d93e44f32636068b489e8041",
       "format": "Metadata"
     },
     {
@@ -5583,9 +5712,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 540,
-  "item_last_updated": 1666781583,
-  "item_size": 34883768,
+  "files_count": 552,
+  "item_last_updated": 1666868483,
+  "item_size": 35627588,
   "metadata": {
     "identifier": "alreporter-2022",
     "collection": [
@@ -5607,7 +5736,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452825241,
+      "task_id": 3454047229,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5615,7 +5744,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 467582536,
+  "uniq": 670363754,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]
