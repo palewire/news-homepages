@@ -1,7 +1,12 @@
 {
-  "created": 1666828117,
+  "created": 1666876449,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
+  "dallasconews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/15/items/dallasconews-2022",
   "files": [
     {
@@ -5553,31 +5558,93 @@
       "format": "JSON"
     },
     {
+      "name": "dallasconews-2022-10-26T18:46:59.458786-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasconews-2022-10-26T18:46:59.458786-05:00.jpg",
+      "mtime": "1666852176",
+      "size": "8905",
+      "md5": "3babdbfb902474aa8c2b731838d69bf1",
+      "crc32": "445095b9",
+      "sha1": "6fac9a3fb1189889e276d3d5a266460f31caa9da"
+    },
+    {
+      "name": "dallasconews-2022-10-27T07:10:27.249851-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872634",
+      "size": "21514",
+      "md5": "7b3d9e7884f3eb72d2cf1dd54ea35695",
+      "crc32": "995e41e0",
+      "sha1": "07b86fcd3d14ac501237cd3d68c633caa20e7bcf",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-27T07:10:27.249851-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872636",
+      "size": "31890",
+      "md5": "417f81d6ed2e4b0da2280239b2e685d1",
+      "crc32": "19cb3391",
+      "sha1": "105464ae72291d0ea375a6173228ac68f9a9c957",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-27T07:10:27.249851-05:00.jpg",
+      "source": "original",
+      "mtime": "1666872633",
+      "size": "277738",
+      "md5": "e7178135e72e803ee49f3735a5bd4f08",
+      "crc32": "3665e0db",
+      "sha1": "4cea07bfcc4a1e7aabd49c80bd0668c924176ce6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasconews-2022-10-27T07:10:27.249851-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872638",
+      "size": "1837",
+      "md5": "cf0e903d0c386cb41ce23ea760dd50c4",
+      "crc32": "7fca547e",
+      "sha1": "59bc115b15a3fd0199acf7537535b45e2033ec9a",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-27T07:10:27.249851-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872639",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "dallasconews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "139b14b658bc5a282b3ef88195ff1cda8a1c20bf",
-      "mtime": "1666828113",
-      "size": "116494",
-      "md5": "4deb2a70f1808eafc7b9d161fe1c7e86",
-      "crc32": "0886a789",
-      "sha1": "581ae84686ab4faad3a3cdbe3d5bc1c199277bf3",
+      "btih": "d31a1fff976d7758da2d76538390098f491f2cee",
+      "mtime": "1666872682",
+      "size": "117763",
+      "md5": "f36d56595169857639b41d7d59a04ff6",
+      "crc32": "ac778c72",
+      "sha1": "e041e759070ca83dc0b63c31dad710caaf24b5e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasconews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb877ac55174cb9fb2cd4a34c8d79070",
+      "md5": "7d9738d79a4c0298b82e2fe3a9b16281",
       "summation": "md5"
     },
     {
       "name": "dallasconews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666828072",
-      "size": "704512",
-      "md5": "e5fbb9cdb6a73d99faed76a6fc179889",
-      "crc32": "944c73c8",
-      "sha1": "67be2583c824a708890420b79ded6aa94d129fa1",
+      "mtime": "1666872644",
+      "size": "712704",
+      "md5": "4d32803993967cf601608ab4c944cc48",
+      "crc32": "05f91ea9",
+      "sha1": "7b460188deda165dff5e4ba9e070d4ac65f5f968",
       "format": "Metadata"
     },
     {
@@ -5591,9 +5658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 541,
-  "item_last_updated": 1666828113,
-  "item_size": 34752108,
+  "files_count": 547,
+  "item_last_updated": 1666872682,
+  "item_size": 35103655,
   "metadata": {
     "identifier": "dallasconews-2022",
     "collection": [
@@ -5615,7 +5682,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453613763,
+      "task_id": 3454093961,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5623,7 +5690,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1555543452,
+  "uniq": 317421177,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

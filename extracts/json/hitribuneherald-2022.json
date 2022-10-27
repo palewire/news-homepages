@@ -1,5 +1,5 @@
 {
-  "created": 1666828443,
+  "created": 1666876995,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/20/items/hitribuneherald-2022",
@@ -5399,31 +5399,93 @@
       "format": "JSON"
     },
     {
+      "name": "hitribuneherald-2022-10-26T13:52:31.865133-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hitribuneherald-2022-10-26T13:52:31.865133-10:00.jpg",
+      "mtime": "1666852998",
+      "size": "9365",
+      "md5": "9731bcb2c4e361def0a01f0191eedfb0",
+      "crc32": "10304e17",
+      "sha1": "0eb6115d821022fcf14df0b9de54aea0c4318b2f"
+    },
+    {
+      "name": "hitribuneherald-2022-10-27T02:19:02.082285-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666873160",
+      "size": "24505",
+      "md5": "2fe429edd73864c66961aacb885b9ea6",
+      "crc32": "82a368c2",
+      "sha1": "30d331bcd8d8b05f6b769a01e8df705bab4936ba",
+      "format": "JSON"
+    },
+    {
+      "name": "hitribuneherald-2022-10-27T02:19:02.082285-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666873165",
+      "size": "28286",
+      "md5": "b98688bf2a4e6d51c2bcc247a7a3de4e",
+      "crc32": "ad89b3f3",
+      "sha1": "434008bc0e1534ea5d5dacfa5ea6a7dc13e54537",
+      "format": "JSON"
+    },
+    {
+      "name": "hitribuneherald-2022-10-27T02:19:02.082285-10:00.jpg",
+      "source": "original",
+      "mtime": "1666873156",
+      "size": "316906",
+      "md5": "e6327443b561601fb59249237200244c",
+      "crc32": "7ca739a1",
+      "sha1": "1077c090390a076c3c3c676df33c46019a78a0ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hitribuneherald-2022-10-27T02:19:02.082285-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666873172",
+      "size": "1585",
+      "md5": "b61ba2648ecac67aeb0e053695886fa8",
+      "crc32": "c4203c8e",
+      "sha1": "0e36ea1aa638cbca914adbf19e113a8eecabe6dd",
+      "format": "JSON"
+    },
+    {
+      "name": "hitribuneherald-2022-10-27T02:19:02.082285-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1666873178",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "hitribuneherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ed04cb976fc84fd90bbd1804ab4338b3b5ed546",
-      "mtime": "1666828440",
-      "size": "115168",
-      "md5": "9d74bd07950c236cf80121fe04350249",
-      "crc32": "9502b559",
-      "sha1": "91428f94355c99b48ff0a75cb4df37fc08629ab6",
+      "btih": "7b481faed394edca67f9c240c62c050e84a7068a",
+      "mtime": "1666873314",
+      "size": "116455",
+      "md5": "deecbca5843f102e43ca2bfa83fed2e6",
+      "crc32": "0ec66aed",
+      "sha1": "7e7632dd062991d108e52c35ad120aa180b7e132",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hitribuneherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "43de83a15e272608838d13b96269063d",
+      "md5": "41db68dc160926ee462ae02bfb413ea0",
       "summation": "md5"
     },
     {
       "name": "hitribuneherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666828395",
-      "size": "688128",
-      "md5": "88b2289b8101a5c1d8ca0d3ad000390d",
-      "crc32": "b803edc4",
-      "sha1": "b005cf64a7367cd85175609e314c4fe98a06baf6",
+      "mtime": "1666873267",
+      "size": "700416",
+      "md5": "95d446b592ffd804696eb34986ceb567",
+      "crc32": "4fb651a5",
+      "sha1": "18168fc5a5b339f0e864948cbe0a67aca6e0d307",
       "format": "Metadata"
     },
     {
@@ -5437,9 +5499,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 526,
-  "item_last_updated": 1666828440,
-  "item_size": 41076628,
+  "files_count": 532,
+  "hitribuneherald-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666873314,
+  "item_size": 41471052,
   "metadata": {
     "identifier": "hitribuneherald-2022",
     "collection": [
@@ -5461,7 +5528,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453617913,
+      "task_id": 3454099595,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5469,7 +5536,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1630464366,
+  "uniq": 1506122286,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

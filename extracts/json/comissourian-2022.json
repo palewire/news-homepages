@@ -1,5 +1,5 @@
 {
-  "created": 1666828130,
+  "created": 1666872706,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/comissourian-2022",
@@ -13199,31 +13199,93 @@
       "format": "JSON"
     },
     {
+      "name": "comissourian-2022-10-26T18:46:42.608979-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-26T18:46:42.608979-05:00.jpg",
+      "mtime": "1666852184",
+      "size": "9742",
+      "md5": "37ba300038292e7db9f87dea2a4a237a",
+      "crc32": "1bde640d",
+      "sha1": "a2d1f97c2dac6c8e89c7330b280878901c72796a"
+    },
+    {
+      "name": "comissourian-2022-10-27T07:10:20.398681-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872634",
+      "size": "31301",
+      "md5": "9f4e97ce1bece5f75ddfefa4ee2dd92f",
+      "crc32": "18e79a56",
+      "sha1": "6fe292c0314acf6b036f008f2de3f2db16ec5fa9",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-27T07:10:20.398681-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872637",
+      "size": "45992",
+      "md5": "b767ef01b39f77afc2e7f92639ab66c1",
+      "crc32": "7dea5689",
+      "sha1": "08b60c75e9643c51255de1ced92260ad449e5543",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-27T07:10:20.398681-05:00.jpg",
+      "source": "original",
+      "mtime": "1666872632",
+      "size": "344998",
+      "md5": "c8509d07990ed7963b5b4d3c7a1f4afd",
+      "crc32": "0d8040d4",
+      "sha1": "bf62ea5889859f140bef67c40b3a5f3a237c9c14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-10-27T07:10:20.398681-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872640",
+      "size": "1567",
+      "md5": "a99087b45bec5b44fb1b371e22b53f5a",
+      "crc32": "8dce8fe8",
+      "sha1": "c4b05418521e1ef6146fdbdada0800a652300819",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-10-27T07:10:20.398681-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872642",
+      "size": "52768",
+      "md5": "938320e11e0ea84172601cbe78f3db87",
+      "crc32": "854ddaba",
+      "sha1": "e5970440577c43c8217b56fd5625ee09144fdff6",
+      "format": "JSON"
+    },
+    {
       "name": "comissourian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4726c0696a6433a17fb517e3d6c90457e78a5162",
-      "mtime": "1666828125",
-      "size": "275007",
-      "md5": "fcccf60cca85d294fcc36a9d6880c0c9",
-      "crc32": "e59853e2",
-      "sha1": "7057e0ded37a116f89b78ac697284baa82428b4e",
+      "btih": "70e4cb28f713567e4e876b5ae54e539a825c2d17",
+      "mtime": "1666872698",
+      "size": "276298",
+      "md5": "3489880a5bc8504cf9608c77aa36b509",
+      "crc32": "e19d23b6",
+      "sha1": "dce22e2e92d2e9120ba05244133bb41d645ca4d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "comissourian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ea8a4f2da13a25bb4aac62dc365e7e4",
+      "md5": "3206e066031a762dbc78809e9b32ac5a",
       "summation": "md5"
     },
     {
       "name": "comissourian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666828072",
-      "size": "1605632",
-      "md5": "479a665192b0bf9f540d5984ec0a0cf6",
-      "crc32": "cf84cc1d",
-      "sha1": "e4e686c9252494915c1c4c4b7e994d6eb10c5b45",
+      "mtime": "1666872647",
+      "size": "1613824",
+      "md5": "e8570255cc4f4554283e1dca7eb24bec",
+      "crc32": "e827f8da",
+      "sha1": "c59c1d00d5d333a87bf456b046eb29e46fe21b44",
       "format": "Metadata"
     },
     {
@@ -13237,9 +13299,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1277,
-  "item_last_updated": 1666828125,
-  "item_size": 108944743,
+  "files_count": 1283,
+  "item_last_updated": 1666872698,
+  "item_size": 109440594,
   "metadata": {
     "identifier": "comissourian-2022",
     "collection": [
@@ -13261,7 +13323,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453613934,
+      "task_id": 3454094160,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13269,7 +13331,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1549032395,
+  "uniq": 118840159,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

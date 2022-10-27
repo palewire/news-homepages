@@ -1,5 +1,5 @@
 {
-  "created": 1666828456,
+  "created": 1666876876,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/foreignpolicy-2022",
@@ -15457,31 +15457,93 @@
       "format": "JSON"
     },
     {
+      "name": "foreignpolicy-2022-10-26T19:52:40.279959-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-10-26T19:52:40.279959-04:00.jpg",
+      "mtime": "1666852573",
+      "size": "10672",
+      "md5": "e0a1840a56a5b72cafa899f42cb70c37",
+      "crc32": "d05dbc23",
+      "sha1": "0f937a42a4085499dd964ea06d17a33164a76f41"
+    },
+    {
+      "name": "foreignpolicy-2022-10-27T08:16:25.625947-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872990",
+      "size": "69552",
+      "md5": "36bd4dedf8b2c923f77593c3404e1c71",
+      "crc32": "10fbfc60",
+      "sha1": "d05268f2b9dbe3ecb833769540c05ce2d4f176b2",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-10-27T08:16:25.625947-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872994",
+      "size": "50881",
+      "md5": "b75c49614b62d005316b24cf7ec33488",
+      "crc32": "314c1f08",
+      "sha1": "ba24441479df16e58e2e0e88bfe6220147bc616f",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-10-27T08:16:25.625947-04:00.jpg",
+      "source": "original",
+      "mtime": "1666872987",
+      "size": "344645",
+      "md5": "4b6810d9585585b4e8865986e1261e79",
+      "crc32": "6dfa60f1",
+      "sha1": "71ee667201481fe6b9f1aaf764edc7eb5d32ddb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-10-27T08:16:25.625947-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872998",
+      "size": "1485",
+      "md5": "e91b23291b02afbc85d723e4d0afcd4b",
+      "crc32": "ca875836",
+      "sha1": "13a70f2962b92680521816115af1a46854155da4",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-10-27T08:16:25.625947-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666873002",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "foreignpolicy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7902701a2bbe809c23415d3f0938f749d53b8b85",
-      "mtime": "1666828452",
-      "size": "323446",
-      "md5": "53ae3e92aa04d1ebb227e4b8f26dc684",
-      "crc32": "6a5130bd",
-      "sha1": "a81cc59ceb66d4fcff6521fdfd9bae7ab130ab0e",
+      "btih": "1a5ea695be6eb31f1d8e45200736ce046e906022",
+      "mtime": "1666873067",
+      "size": "324742",
+      "md5": "73626ed1463b47df819e5dfa1394b837",
+      "crc32": "7b6695c5",
+      "sha1": "ff1586a38f0e4058d374266b7801b1113ce22b63",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foreignpolicy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92e79ce9927505b8b11c104df492a202",
+      "md5": "9db85fa051092d649d249642cb794435",
       "summation": "md5"
     },
     {
       "name": "foreignpolicy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666828395",
-      "size": "1855488",
-      "md5": "fadd39ac3ec2dc6291b1fc0513cf8ab4",
-      "crc32": "d81b37e6",
-      "sha1": "afec6bbcda62a5f9fb13628744a4770dae3f5365",
+      "mtime": "1666873008",
+      "size": "1867776",
+      "md5": "85c7aa14b00092a215e2606cff6c2b90",
+      "crc32": "5cacb34b",
+      "sha1": "fee3d17764a817070c82d1f69365fedab391a31e",
       "format": "Metadata"
     },
     {
@@ -15495,9 +15557,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1492,
-  "item_last_updated": 1666828452,
-  "item_size": 142066808,
+  "files_count": 1498,
+  "foreignpolicy-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666873067,
+  "item_size": 142557829,
   "metadata": {
     "identifier": "foreignpolicy-2022",
     "collection": [
@@ -15519,7 +15586,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453618048,
+      "task_id": 3454097905,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15527,7 +15594,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 765247545,
+  "uniq": 1739930256,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

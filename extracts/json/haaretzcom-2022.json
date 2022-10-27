@@ -1,5 +1,5 @@
 {
-  "created": 1666828551,
+  "created": 1666877029,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/17/items/haaretzcom-2022",
@@ -9163,31 +9163,93 @@
       "format": "JSON"
     },
     {
+      "name": "haaretzcom-2022-10-27T02:53:16.187133+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "haaretzcom-2022-10-27T02:53:16.187133+03:00.jpg",
+      "mtime": "1666852653",
+      "size": "9721",
+      "md5": "1ea434fac036de7abbbe7a5be83440f2",
+      "crc32": "b4c1cc46",
+      "sha1": "abe001d6901e31af09203423ef733aac1a65d98d"
+    },
+    {
+      "name": "haaretzcom-2022-10-27T15:16:10.435389+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872980",
+      "size": "144288",
+      "md5": "94d731d734e85f926e4aad06c8894eff",
+      "crc32": "7eff8ee9",
+      "sha1": "00a58ed97e4a49f4f533e667f5777027092964a3",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-27T15:16:10.435389+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872982",
+      "size": "109532",
+      "md5": "02162263ca7e20c5822d4e481438854a",
+      "crc32": "a3f74e35",
+      "sha1": "e1b77973e6304799f2e4ba20406f55e1f56075b9",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-27T15:16:10.435389+03:00.jpg",
+      "source": "original",
+      "mtime": "1666872978",
+      "size": "233272",
+      "md5": "d5a6c750f5bcd7370c0fec648a1ec914",
+      "crc32": "5cb43a8f",
+      "sha1": "9495567b6ba0a83b02b7019630641298a300cb62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "haaretzcom-2022-10-27T15:16:10.435389+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872985",
+      "size": "1486",
+      "md5": "97c60a46d97e6a6e9d6653d8af3a3099",
+      "crc32": "189c44ad",
+      "sha1": "5f20634d66b53a6db7fdb7beae64a4b787ef9d23",
+      "format": "JSON"
+    },
+    {
+      "name": "haaretzcom-2022-10-27T15:16:10.435389+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872986",
+      "size": "232",
+      "md5": "519eb075bb2e0b202aad6422a61ff9df",
+      "crc32": "9f5cb43b",
+      "sha1": "ad8517132f7b9d836746a71bc222e5d3748a8ec0",
+      "format": "JSON"
+    },
+    {
       "name": "haaretzcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "872f5f0d1e69515067af289c3144fb470aa8f92d",
-      "mtime": "1666828544",
-      "size": "190655",
-      "md5": "041cab2836c16da09fdcd821ce42644d",
-      "crc32": "00fd7b9e",
-      "sha1": "dbdad8851f7e4e3e20b98428b686e19bc6869a77",
+      "btih": "97a5024d577c8c69a56657bde851a66569e26c37",
+      "mtime": "1666873063",
+      "size": "191934",
+      "md5": "7d63feb039eae7d2a105ec25e13bd975",
+      "crc32": "7e80fa91",
+      "sha1": "2e77aa35063343663e725b5ee441a63156d9cf21",
       "format": "Archive BitTorrent"
     },
     {
       "name": "haaretzcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a94981b626024862cdb92ede26939c3",
+      "md5": "5794f3603f7f0c283cb586650d92692e",
       "summation": "md5"
     },
     {
       "name": "haaretzcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666828495",
-      "size": "1142784",
-      "md5": "540727c77cb6e20dacacb466f1a789e7",
-      "crc32": "ceec4efe",
-      "sha1": "c097a4b60a20b5455e4fb1eef137e8077c4eeb12",
+      "mtime": "1666873003",
+      "size": "1150976",
+      "md5": "a86f6b0fa264fb6630f57c32f9fcc0de",
+      "crc32": "822e2d8c",
+      "sha1": "0067b7d34a3546c2314a421849b42571f7448ed0",
       "format": "Metadata"
     },
     {
@@ -9201,9 +9263,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 890,
-  "item_last_updated": 1666828544,
-  "item_size": 83013033,
+  "files_count": 896,
+  "haaretzcom-2022": {
+    "url": "https://www.haaretz.co.il/",
+    "job_id": "spn2-a453cc82b7f3c1cd7dab871fbb90f9f1ddaf6cce",
+    "message": "The same snapshot had been made 5 minutes, 27 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "item_last_updated": 1666873063,
+  "item_size": 83521035,
   "metadata": {
     "identifier": "haaretzcom-2022",
     "collection": [
@@ -9225,7 +9292,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453619084,
+      "task_id": 3454097868,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9233,7 +9300,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1194041325,
+  "uniq": 143044480,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

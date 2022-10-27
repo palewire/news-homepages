@@ -1,5 +1,5 @@
 {
-  "created": 1666828533,
+  "created": 1666876933,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/28/items/gainesvillesun-2022",
@@ -11839,31 +11839,93 @@
       "format": "JSON"
     },
     {
+      "name": "gainesvillesun-2022-10-26T19:53:46.265358-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-26T19:53:46.265358-04:00.jpg",
+      "mtime": "1666852771",
+      "size": "9299",
+      "md5": "1900241665fa28393862974c2621c469",
+      "crc32": "f101a6cd",
+      "sha1": "80bbfad63e7a923d5e412c945df4fd9cda865f6e"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872989",
+      "size": "21161",
+      "md5": "8e8a6f77bf2d8b60636de5af0c5697aa",
+      "crc32": "484c6d7a",
+      "sha1": "08ddf13f4ec31894bed7d06d885fdc3c666ef76e",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872992",
+      "size": "30599",
+      "md5": "03d74686f9959de466071eb6b9c24bcc",
+      "crc32": "fd558b15",
+      "sha1": "683a2902b35b7d3db87b077410aae9a0e8f91b22",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.jpg",
+      "source": "original",
+      "mtime": "1666872985",
+      "size": "246584",
+      "md5": "65edcffef4a1287e50eceeceef010fb3",
+      "crc32": "8e3c8272",
+      "sha1": "2f22411902e3196fe7100fbfc0825806e0d4618e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872995",
+      "size": "1504",
+      "md5": "30c4c72d6e67879fdb55acf84cb7cb78",
+      "crc32": "7cff20cd",
+      "sha1": "b3c486d812f6633188bb0ce9734107df94a56b3c",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872997",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gainesvillesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "248c0210e75c7fa7e7a6e8258afeebfbef68a2f9",
-      "mtime": "1666828528",
-      "size": "248999",
-      "md5": "5a1d287ba1f10370ef48777bc224ced6",
-      "crc32": "ce088a3d",
-      "sha1": "3664a9024ea043341859abbe1e7a1ca25798de6d",
+      "btih": "dd11835594b3b11066f67cb836de4d25c7729f18",
+      "mtime": "1666873048",
+      "size": "250280",
+      "md5": "f867e8ee6afb49883ddccec3606bbe76",
+      "crc32": "08dc6ad0",
+      "sha1": "9e8f72ff4e72b731b5d430d3d8743916cd025eb2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gainesvillesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6dd76b0e8b046391b2df055d9c5e63ec",
+      "md5": "fc91bfef2a53f3b6a5c23000b70b6341",
       "summation": "md5"
     },
     {
       "name": "gainesvillesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666828483",
-      "size": "1470464",
-      "md5": "815e219e154b4412ee35ed23cb90cf82",
-      "crc32": "0516ef8e",
-      "sha1": "645afddb75d06cbbd989e06651aa901202b13d4e",
+      "mtime": "1666873002",
+      "size": "1478656",
+      "md5": "058eb2e9bde76669ddf45b817d57a44a",
+      "crc32": "2269b547",
+      "sha1": "9bafbe2c63c336aebabaab59c1fac8d46589e286",
       "format": "Metadata"
     },
     {
@@ -11877,9 +11939,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1148,
-  "item_last_updated": 1666828528,
-  "item_size": 78385110,
+  "files_count": 1154,
+  "gainesvillesun-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666873048,
+  "item_size": 78703932,
   "metadata": {
     "identifier": "gainesvillesun-2022",
     "collection": [
@@ -11901,7 +11968,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453618887,
+      "task_id": 3454097751,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11909,7 +11976,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 42798323,
+  "uniq": 2137603714,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]
