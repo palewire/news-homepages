@@ -1,5 +1,5 @@
 {
-  "created": 1666803737,
+  "created": 1666847273,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/belt_magazine-2022",
@@ -12740,31 +12740,82 @@
       "sha1": "bf4c788ee8b6546419fc6ab6a9e4f881cb706560"
     },
     {
+      "name": "belt_magazine-2022-10-27T01:06:42.689765-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847213",
+      "size": "16878",
+      "md5": "2a73bcc53ea988c4f4486212f33ecb71",
+      "crc32": "9c935903",
+      "sha1": "8d25c3bf18a143d83411db3ce523008ce525eb68",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-10-27T01:06:42.689765-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847214",
+      "size": "17783",
+      "md5": "808a6031a0e489ecba9b5d541bcfe0c5",
+      "crc32": "8b9719e0",
+      "sha1": "fa685284a6c2910bebd42b1454c8dd03097346c6",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-10-27T01:06:42.689765-04:00.jpg",
+      "source": "original",
+      "mtime": "1666847211",
+      "size": "199077",
+      "md5": "78b2822ed55bff559428c72e8770aa63",
+      "crc32": "3b3e8c9d",
+      "sha1": "ac915b28311417896fe0a41cc369c2e60e2bc239",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "belt_magazine-2022-10-27T01:06:42.689765-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847216",
+      "size": "1432",
+      "md5": "67da3d4d6e1f95551a863ada2f9e83d8",
+      "crc32": "dde1d198",
+      "sha1": "6cfc00254bd5c0f6d3d74e1ec4f08fc76be2b477",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-10-27T01:06:42.689765-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847218",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "belt_magazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9ea8de97b8f5083dc3643d9c075d55f65220128d",
-      "mtime": "1666803708",
-      "size": "265612",
-      "md5": "9d226435ff00dfa29e233d436a38070d",
-      "crc32": "f2ea2643",
-      "sha1": "2caa1ca9873c791c64b24a85abf76c172c75d7ac",
+      "btih": "a4c32097d9d65341a31082cd11c9a2cbe645b18d",
+      "mtime": "1666847270",
+      "size": "266698",
+      "md5": "7343549fc30e08cbe705db3f2c92848c",
+      "crc32": "6c4814b1",
+      "sha1": "9261762318ff37e0e8173979b4087798440eeab4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "belt_magazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0bf20fe9f7766d3f5ea9f90f4c2b2b3d",
+      "md5": "9894c40c2f3694c1cd580e22654bbea7",
       "summation": "md5"
     },
     {
       "name": "belt_magazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666801675",
-      "size": "1568768",
-      "md5": "9012390fd04509be87bd539a54604329",
-      "crc32": "54698530",
-      "sha1": "1cc2529a77b0eaf995a26a93a419ee0470c80f03",
+      "mtime": "1666847224",
+      "size": "1572864",
+      "md5": "1c97a08e5261b629e16017b371792f8c",
+      "crc32": "aa158482",
+      "sha1": "dfb3b2c8043d19a83848a568ac3bbc9db2487209",
       "format": "Metadata"
     },
     {
@@ -12778,9 +12829,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1234,
-  "item_last_updated": 1666803708,
-  "item_size": 63665119,
+  "files_count": 1239,
+  "item_last_updated": 1666847270,
+  "item_size": 63905673,
   "metadata": {
     "identifier": "belt_magazine-2022",
     "collection": [
@@ -12797,10 +12848,21 @@
     "publicdate": "2022-07-09 03:56:11",
     "addeddate": "2022-07-09 03:56:11"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 2089980192,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453817099,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 991320874,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

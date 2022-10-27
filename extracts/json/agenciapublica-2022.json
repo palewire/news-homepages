@@ -1,5 +1,5 @@
 {
-  "created": 1666804767,
+  "created": 1666847126,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/33/items/agenciapublica-2022",
@@ -14776,31 +14776,82 @@
       "sha1": "1a2952641e6fed16ca5e3dca3b825fcc07568778"
     },
     {
+      "name": "agenciapublica-2022-10-27T02:03:49.765209-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847033",
+      "size": "19428",
+      "md5": "246094596f163e9c987ae880a4503464",
+      "crc32": "9fdda475",
+      "sha1": "174e34eaabb8748ed83c3ebf02f6a3658c91825b",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-10-27T02:03:49.765209-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847035",
+      "size": "18334",
+      "md5": "9fbcf3c5f8c8129bc957f1662d5536b0",
+      "crc32": "2ac1e6c8",
+      "sha1": "bd051a7877fa66adc9e4f0577cd0521ab349052d",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-10-27T02:03:49.765209-03:00.jpg",
+      "source": "original",
+      "mtime": "1666847031",
+      "size": "151920",
+      "md5": "208db026bbaf115b3ad724a1f639e930",
+      "crc32": "abe510db",
+      "sha1": "6807c54e41eaee6049292d4a2a41c7f77d1ba910",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciapublica-2022-10-27T02:03:49.765209-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847036",
+      "size": "1441",
+      "md5": "bf70118127967b5710d947ba5b85f212",
+      "crc32": "388c5e45",
+      "sha1": "d1bd9be604a8ac2f14c6d90e96030992807b1124",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciapublica-2022-10-27T02:03:49.765209-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847040",
+      "size": "14947",
+      "md5": "2be07334783d6f74d489a378a44fd7c6",
+      "crc32": "c65c24a2",
+      "sha1": "c3be365d5d53397f1f3b48c4a9f117eda77c7aa0",
+      "format": "JSON"
+    },
+    {
       "name": "agenciapublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "829d03195a3b341f608afd85ced208c176c42fee",
-      "mtime": "1666804520",
-      "size": "309313",
-      "md5": "10f815bcc7172d3a598516a918b08f7c",
-      "crc32": "4466de57",
-      "sha1": "278e65d08a5f2668b6fc2bf76656cb15c5f9a134",
+      "btih": "aea9599e10efbdaaec38764f5b082487f4d49bd2",
+      "mtime": "1666847118",
+      "size": "310406",
+      "md5": "52b2c15f370c7eb7cdf57e54efe84bcf",
+      "crc32": "e094df6c",
+      "sha1": "fa8ba9cd743fe72a20248549fae660e0130cf65e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciapublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7229d4ed8753d70f25e07ccf91b4613a",
+      "md5": "50cdbf508dc8bae79c0e41458cee9ff6",
       "summation": "md5"
     },
     {
       "name": "agenciapublica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666801504",
-      "size": "1839104",
-      "md5": "692feaba5a7fb05a1cab8b0028aecff6",
-      "crc32": "a47e95cc",
-      "sha1": "561369cee6c3825fbb7c4af6c85b22fa7690ae17",
+      "mtime": "1666847057",
+      "size": "1847296",
+      "md5": "207b6647037cbd873a7a44a740b29e67",
+      "crc32": "db5db7b5",
+      "sha1": "5c876fd46f4998dbdb14f78df34c226fad27c0c8",
       "format": "Metadata"
     },
     {
@@ -14814,9 +14865,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1433,
-  "item_last_updated": 1666804520,
-  "item_size": 63689411,
+  "files_count": 1438,
+  "item_last_updated": 1666847118,
+  "item_size": 63904766,
   "metadata": {
     "identifier": "agenciapublica-2022",
     "collection": [
@@ -14833,10 +14884,21 @@
     "publicdate": "2022-08-04 04:55:45",
     "addeddate": "2022-08-04 04:55:45"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1526799919,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453815142,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 378723370,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

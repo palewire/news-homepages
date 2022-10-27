@@ -1,5 +1,13 @@
 {
-  "created": 1666803624,
+  "arthasarokar-2022": {
+    "url": "https://arthasarokar.com/",
+    "job_id": "spn2-6fbfa67dd70ab252a04e124b6ba6150ee1483a0c",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "created": 1666850467,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/arthasarokar-2022",
@@ -11492,31 +11500,82 @@
       "sha1": "7ef6311c1155b0d736129b0fa3fea8a8a3e4ea17"
     },
     {
+      "name": "arthasarokar-2022-10-27T10:48:47.966398+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666847035",
+      "size": "74228",
+      "md5": "1084f905d8cc1dd013cfcc3ec6f6d73f",
+      "crc32": "c9edf0e0",
+      "sha1": "428063acac4df30fc6f4c127e4feb82c2a5be092",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-10-27T10:48:47.966398+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847037",
+      "size": "61835",
+      "md5": "dc4eb1cb113e2c19e7319cbdee502126",
+      "crc32": "e856583c",
+      "sha1": "6d58fa31eeb2dccd8ea281548755e867dfc0689f",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-10-27T10:48:47.966398+05:45.jpg",
+      "source": "original",
+      "mtime": "1666847033",
+      "size": "286629",
+      "md5": "da31a02804fb13c688d57f8ee615d13e",
+      "crc32": "43b8db58",
+      "sha1": "776c261988aee352de3ccb6ebd8383c0fe2c872f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arthasarokar-2022-10-27T10:48:47.966398+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847039",
+      "size": "1477",
+      "md5": "a1027f9a30a1348682e13d0fdd431c59",
+      "crc32": "242e0665",
+      "sha1": "41db8713981efcda6d260f5ee197709ae832fde0",
+      "format": "JSON"
+    },
+    {
+      "name": "arthasarokar-2022-10-27T10:48:47.966398+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666847041",
+      "size": "205",
+      "md5": "11d0515186ec8e64a3a4942a41e9cef1",
+      "crc32": "1304ed9d",
+      "sha1": "a78f4ff947c934b334e6382e11841cc75308f0a3",
+      "format": "JSON"
+    },
+    {
       "name": "arthasarokar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2153864c2740e8e5fb0458355ec9056af7866a9",
-      "mtime": "1666803579",
-      "size": "239760",
-      "md5": "cd06973f8d8d3a0605a755d35fbd6a60",
-      "crc32": "e3fd5faa",
-      "sha1": "6c233675df60204270afb6b1c9953d196461f5c2",
+      "btih": "6cd66a91bf9ba028fb0a2ea76a3890f03098b9ac",
+      "mtime": "1666847100",
+      "size": "240841",
+      "md5": "812868f2f0172cb2950bb0b81cf0ed67",
+      "crc32": "a949f227",
+      "sha1": "05d0bbe4c0fd3e373b4eba3f6679343cd2c6210a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arthasarokar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7745fc428189f0eaf3d0e88a5d8c5fe6",
+      "md5": "4ef0696ebb3a294394ba2036d74d58cd",
       "summation": "md5"
     },
     {
       "name": "arthasarokar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666801547",
-      "size": "1429504",
-      "md5": "e32bc6e1ead8278b4d1d29c3a4a7b472",
-      "crc32": "408d86bf",
-      "sha1": "36de3bd9bd91c0c42697de989a1d337f8a99fd2b",
+      "mtime": "1666847054",
+      "size": "1433600",
+      "md5": "94489b7f6f386ac191a5fa6278994f6c",
+      "crc32": "bfb478ae",
+      "sha1": "ff7f9a2bc5021a12a09b9cdde390ba3d4596a9eb",
       "format": "Metadata"
     },
     {
@@ -11530,9 +11589,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1115,
-  "item_last_updated": 1666803579,
-  "item_size": 81797824,
+  "files_count": 1120,
+  "item_last_updated": 1666847100,
+  "item_size": 82227375,
   "metadata": {
     "identifier": "arthasarokar-2022",
     "collection": [
@@ -11549,10 +11608,21 @@
     "publicdate": "2022-07-24 20:36:44",
     "addeddate": "2022-07-24 20:36:44"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 794479350,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453814818,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1030360652,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

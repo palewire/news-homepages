@@ -1,5 +1,5 @@
 {
-  "created": 1666804605,
+  "created": 1666847432,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/weeklycitizen-2022",
@@ -4480,31 +4480,82 @@
       "sha1": "adcdfab10fba83c6e4c6b758e71f2dc44577a302"
     },
     {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847377",
+      "size": "19792",
+      "md5": "fbc0c7218bcde60e6df572c98008964b",
+      "crc32": "52626f12",
+      "sha1": "220f8b9cfac816c4400ed25253c01a5872191827",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847379",
+      "size": "28991",
+      "md5": "bfafa4c6bd3d254e1a89a3709fef9a23",
+      "crc32": "4539b6d4",
+      "sha1": "e366274793c8d7d399037ff0fadc7936d71bf3ac",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.jpg",
+      "source": "original",
+      "mtime": "1666847375",
+      "size": "234634",
+      "md5": "4402fbb9d5d5bcd2a57975713ed57ddc",
+      "crc32": "412efa2e",
+      "sha1": "ffb4e0de1bbdd8cb9c9c854e205c4a21c4124b42",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847381",
+      "size": "1522",
+      "md5": "e92952ebe4c23b36d080eb051a1a0ab0",
+      "crc32": "db08423e",
+      "sha1": "12e00028c296a0201da8ee307b1d4b730321c68d",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847383",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "weeklycitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5131c0d2e5b6a05fa3da14817eddc9f5c29c31e6",
-      "mtime": "1666804458",
-      "size": "94642",
-      "md5": "f6755cc7c5710e9ef3bf52f41909c602",
-      "crc32": "b73569a7",
-      "sha1": "2253d797cf78ea695686ac83e3e52198fa6f3002",
+      "btih": "e3b445a8643e4496e606124cfb4afd8b077e0538",
+      "mtime": "1666847428",
+      "size": "95728",
+      "md5": "42a7f4b66a5bc28ee5761f62a3d0f6c5",
+      "crc32": "9cc8c32c",
+      "sha1": "0090c49af3cf0ffec0a457e1d7e17d2488a43d02",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weeklycitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5d5af801a52ab4d145abe547823f5ad",
+      "md5": "8170b7b4184de7e4605d3eae704a75fa",
       "summation": "md5"
     },
     {
       "name": "weeklycitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666801918",
-      "size": "573440",
-      "md5": "8e6758aca9c21b1cc83d289c58a8598c",
-      "crc32": "ad5b358d",
-      "sha1": "823c466e0f2f1157e1c44d1aefa66055e3661512",
+      "mtime": "1666847390",
+      "size": "581632",
+      "md5": "5432edd386efcbbf9fb1e05e4d2c4875",
+      "crc32": "27027d8b",
+      "sha1": "c77c14949ff1422e1f8a69d7282c4840a56126f2",
       "format": "Metadata"
     },
     {
@@ -4518,9 +4569,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 437,
-  "item_last_updated": 1666804458,
-  "item_size": 28157561,
+  "files_count": 442,
+  "item_last_updated": 1666847428,
+  "item_size": 28451980,
   "metadata": {
     "identifier": "weeklycitizen-2022",
     "collection": [
@@ -4537,10 +4588,21 @@
     "publicdate": "2022-09-21 04:40:52",
     "addeddate": "2022-09-21 04:40:52"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 1970164206,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453819096,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 610015783,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

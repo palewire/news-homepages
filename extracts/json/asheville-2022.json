@@ -1,10 +1,5 @@
 {
-  "asheville-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666808197,
+  "created": 1666847121,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/5/items/asheville-2022",
@@ -4485,31 +4480,82 @@
       "sha1": "646b0b1bb7d2150cac5f9ab149161eeb5dd77684"
     },
     {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847062",
+      "size": "21177",
+      "md5": "213951d21bea35bd076bbcd76a4bc9e4",
+      "crc32": "447236b2",
+      "sha1": "534bf2ab1e007126b7458744d24c171b863e7376",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847064",
+      "size": "27004",
+      "md5": "cab8e17938d8841204ec8ad551842d97",
+      "crc32": "b53f3f6f",
+      "sha1": "d944bfac133abd3dd24de1e084df2943eccd1284",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.jpg",
+      "source": "original",
+      "mtime": "1666847061",
+      "size": "297489",
+      "md5": "76217508cbad0f88239829af2c1de140",
+      "crc32": "5896ee17",
+      "sha1": "c036068e0b8290607f0fee8a32fe5d5f8a570340",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847065",
+      "size": "1522",
+      "md5": "80ffe52aa60f1f7364c02a291bc87158",
+      "crc32": "573163bb",
+      "sha1": "8cf7a4ee45afb02912eeb553008ca1b5616448f7",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847067",
+      "size": "80819",
+      "md5": "1023fad770e3cc3b959f549312a0549a",
+      "crc32": "2c78e034",
+      "sha1": "8c72909274a8ee42c64b977d0a101d20c5aaffd3",
+      "format": "JSON"
+    },
+    {
       "name": "asheville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81c22b8b179feaa7a95478b35e5275a844f33aa2",
-      "mtime": "1666803469",
-      "size": "92918",
-      "md5": "e3a01a9a1abf2a2f109e6ba7564b4447",
-      "crc32": "392a54a0",
-      "sha1": "ba8b6fda4ed00e5a06c88aa075bcfbcef840810c",
+      "btih": "3066397347c9ac564a657979bd6ae759de3fb168",
+      "mtime": "1666847117",
+      "size": "93986",
+      "md5": "6fbf92ec6d6c1b8b021e1b66257b02da",
+      "crc32": "5aa275c6",
+      "sha1": "78be2830c76b0836931c754e660034d16b6d1f06",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asheville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3cc142ae0719c8288263a4fcb2349b84",
+      "md5": "b552aeadbe1a6731d1a966c9f418a544",
       "summation": "md5"
     },
     {
       "name": "asheville-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666801479",
-      "size": "565248",
-      "md5": "bcc8b5dbdc98952fa6caebdf913ee8e4",
-      "crc32": "a90ecc1a",
-      "sha1": "a3b831f408e65c00cacd7abdbb0e026ffc7b2ef9",
+      "mtime": "1666847078",
+      "size": "581632",
+      "md5": "990f9c4668ad7878c64f7d977ae14eb7",
+      "crc32": "56461c2d",
+      "sha1": "31e298ee4d46ba2fc7482cc79dd086f5bdb1d195",
       "format": "Metadata"
     },
     {
@@ -4523,9 +4569,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 437,
-  "item_last_updated": 1666803469,
-  "item_size": 29275427,
+  "files_count": 442,
+  "item_last_updated": 1666847117,
+  "item_size": 29720890,
   "metadata": {
     "identifier": "asheville-2022",
     "collection": [
@@ -4542,10 +4588,21 @@
     "publicdate": "2022-09-21 04:37:26",
     "addeddate": "2022-09-21 04:37:26"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 750926891,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453815059,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1460911503,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

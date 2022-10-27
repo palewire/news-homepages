@@ -1,5 +1,5 @@
 {
-  "created": 1666807705,
+  "created": 1666847462,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/6/items/venturebeat-2022",
@@ -13824,31 +13824,82 @@
       "sha1": "915d233b68844a1c4b2ed5043b7f378be7ca0ee2"
     },
     {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847385",
+      "size": "33952",
+      "md5": "c55ce84bdb48633517450160a34daa1e",
+      "crc32": "8b373af0",
+      "sha1": "501d183d0697e8f7edf9b368e91c1b7eacb2859a",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847387",
+      "size": "44444",
+      "md5": "84ef59f35b2b7c3c5ecac6055bfef40d",
+      "crc32": "0a47e5c2",
+      "sha1": "de97700f2e8d5c2bc2eb144d5774b94fbf9a3f18",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.jpg",
+      "source": "original",
+      "mtime": "1666847384",
+      "size": "210576",
+      "md5": "e832a72c8de39285158de140eedfcf00",
+      "crc32": "0113a1a8",
+      "sha1": "02c7d573546731ace9d3dacd8ca7ef4d8adeb819",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847389",
+      "size": "1459",
+      "md5": "c6b4d7795200d76a8c3a89c2b6608779",
+      "crc32": "45f5c75e",
+      "sha1": "65de35c892e0890556337bf7f55e9807c70b16e1",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847390",
+      "size": "18622",
+      "md5": "52976cd16259488e4ee79951a1a4179f",
+      "crc32": "a06bc2eb",
+      "sha1": "7529c3fa9287c27f8174ef2344740081a72bff90",
+      "format": "JSON"
+    },
+    {
       "name": "venturebeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a428ab780a159901e17d8c67dca3f633c58fc77",
-      "mtime": "1666804916",
-      "size": "285091",
-      "md5": "059bb17d1409c27926085656082af561",
-      "crc32": "ac638a2c",
-      "sha1": "ebedc40bbd0f7983abf3c0f459f555cfa2fd691c",
+      "btih": "ebd9cca6f4f27cfeae8160c6a967256f719d6a8b",
+      "mtime": "1666847452",
+      "size": "286169",
+      "md5": "aefe11e4a17385b4a856a34054dc5abd",
+      "crc32": "61c72a4f",
+      "sha1": "dc8fd6004c326da2a7e0a833076c3a197261aea0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "venturebeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "892e8de9d8340e0dda8338164f0e3418",
+      "md5": "f388ec79eeb4c522f60d2408b2c2a8b7",
       "summation": "md5"
     },
     {
       "name": "venturebeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666801859",
-      "size": "1679360",
-      "md5": "ffa01ba725f900bc2f44acab9978856c",
-      "crc32": "66d42a5b",
-      "sha1": "7c2478543290c4b931fab51338bc506103d1b078",
+      "mtime": "1666847396",
+      "size": "1687552",
+      "md5": "df191398a630615cfc6fa2829202fdb3",
+      "crc32": "4c9f5b00",
+      "sha1": "bf301cddca3336afbcb353d49970aa83b3734bd6",
       "format": "Metadata"
     },
     {
@@ -13862,9 +13913,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1337,
-  "item_last_updated": 1666804916,
-  "item_size": 75088848,
+  "files_count": 1342,
+  "item_last_updated": 1666847452,
+  "item_size": 75407171,
   "metadata": {
     "identifier": "venturebeat-2022",
     "collection": [
@@ -13881,15 +13932,21 @@
     "publicdate": "2022-07-04 20:17:37",
     "addeddate": "2022-07-04 20:17:37"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1009515578,
-  "venturebeat-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453819441,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1102564938,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }
