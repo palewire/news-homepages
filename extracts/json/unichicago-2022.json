@@ -1,5 +1,5 @@
 {
-  "created": 1666773074,
+  "created": 1666855342,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/unichicago-2022",
@@ -15759,31 +15759,217 @@
       "format": "JSON"
     },
     {
+      "name": "unichicago-2022-10-26T03:29:41.118862-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "unichicago-2022-10-26T03:29:41.118862-05:00.jpg",
+      "mtime": "1666774579",
+      "size": "10150",
+      "md5": "6a36f1d905854683e2ef93979e0d0161",
+      "crc32": "92b9996f",
+      "sha1": "b34e74c811059b10e500b22754df2c0e6faa42bf"
+    },
+    {
+      "name": "unichicago-2022-10-26T11:20:27.123367-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666801238",
+      "size": "17011",
+      "md5": "c22a31614a262be61ff26c9f375c75d8",
+      "crc32": "e145172a",
+      "sha1": "745dbd4a81e29aae7735e94e2f345ec2ecf16fab",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-26T11:20:27.123367-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666801239",
+      "size": "25634",
+      "md5": "65cc0470d120af16e2fecb6048699355",
+      "crc32": "a4be8616",
+      "sha1": "7e491940f0ef0f42361fe9f71bfae7ff2e5bec4f",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-26T11:20:27.123367-05:00.jpg",
+      "source": "original",
+      "mtime": "1666801236",
+      "size": "236341",
+      "md5": "c1b5e038300e0b40988110135070dbc1",
+      "crc32": "811309e8",
+      "sha1": "099a597d101e1a24876367841e1bc035b7f780cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "unichicago-2022-10-26T11:20:27.123367-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666801241",
+      "size": "1647",
+      "md5": "14d56685d57479964d888ea1e7ab6fc3",
+      "crc32": "ef7818ca",
+      "sha1": "932c22c32cfb07daf115268b07927e335e375e0f",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-26T11:20:27.123367-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666801243",
+      "size": "67534",
+      "md5": "36b9aadaa84a6c94fa33ffd2d6fda9bf",
+      "crc32": "4405f440",
+      "sha1": "31f23101ef27df76cb391ceb3622a6d291b425ea",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-26T11:20:27.123367-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "unichicago-2022-10-26T11:20:27.123367-05:00.jpg",
+      "mtime": "1666803253",
+      "size": "9712",
+      "md5": "fd9af9bd82975c768e1c342fce7d54f3",
+      "crc32": "41da44c2",
+      "sha1": "526e203f7a4309e37bc394e5daa68ba715b9f9ae"
+    },
+    {
+      "name": "unichicago-2022-10-26T15:36:17.590256-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666816590",
+      "size": "17203",
+      "md5": "7637230d6f631a228bfde2fc557f8eb1",
+      "crc32": "ea54cf32",
+      "sha1": "84f6f13b549d3f59cf24b24378aff88a44e89df3",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-26T15:36:17.590256-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666816592",
+      "size": "25920",
+      "md5": "692a12d187770595c0e9037173415bad",
+      "crc32": "599640e0",
+      "sha1": "a9ebcaa0d3579ea8a010769bdb286b0e82f997ea",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-26T15:36:17.590256-05:00.jpg",
+      "source": "original",
+      "mtime": "1666816587",
+      "size": "239230",
+      "md5": "78e289afafa428773b8e3fb002dcfc64",
+      "crc32": "3fa3a4e8",
+      "sha1": "8cee7c251756478abb849990d7bb340f60a8bd30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "unichicago-2022-10-26T15:36:17.590256-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666816594",
+      "size": "1647",
+      "md5": "7913cbbae3a4ef08d7ceb72beeaa9ca9",
+      "crc32": "740ce6dc",
+      "sha1": "42d7f63684f8ac620259644af43714e29cd35c71",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-26T15:36:17.590256-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666816598",
+      "size": "69883",
+      "md5": "750bbdac92847ff7c077aef1c2852856",
+      "crc32": "c715c253",
+      "sha1": "ebe30df120c2827014ced9410cc589b9cda2efc7",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-26T15:36:17.590256-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "unichicago-2022-10-26T15:36:17.590256-05:00.jpg",
+      "mtime": "1666836183",
+      "size": "10497",
+      "md5": "67865fda8514f093fd9ae0eb70001462",
+      "crc32": "ecafca02",
+      "sha1": "26ee01de19ab1df2b301d1741f067846170fd93a"
+    },
+    {
+      "name": "unichicago-2022-10-27T02:20:40.136732-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855252",
+      "size": "18010",
+      "md5": "a2b7f68b3603e39f7002afea47a411c7",
+      "crc32": "fedee90a",
+      "sha1": "4c77470a918661f16b753701c02e547de66f70af",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-27T02:20:40.136732-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855254",
+      "size": "30579",
+      "md5": "e6e14d12ddf54e00ea4353ab07d9f4b4",
+      "crc32": "2c27ce7f",
+      "sha1": "1978ec14265a28b329bd2f16c13d4759f2a5abee",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-27T02:20:40.136732-05:00.jpg",
+      "source": "original",
+      "mtime": "1666855250",
+      "size": "229227",
+      "md5": "4882fc8c9e105efb5a64e4934586e71f",
+      "crc32": "5f64c6e5",
+      "sha1": "dcd1fd76ff9bf8f9f2d49ca44d1aeedfb7ed4a0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "unichicago-2022-10-27T02:20:40.136732-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855256",
+      "size": "1644",
+      "md5": "ea3e8696d388f6b5015303b72984a62e",
+      "crc32": "d0a7aeaf",
+      "sha1": "3cd3f27db827ad9b10278f2764d425f2e3e6429c",
+      "format": "JSON"
+    },
+    {
+      "name": "unichicago-2022-10-27T02:20:40.136732-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855258",
+      "size": "149911",
+      "md5": "0a30d2151d6d41cbc3b6449d8208dd0f",
+      "crc32": "62cb593d",
+      "sha1": "9698e15314f007bb51049b7524edab80dfdaf37f",
+      "format": "JSON"
+    },
+    {
       "name": "unichicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1ee6a847a60e525b58399cad285a57ffc706122",
-      "mtime": "1666773066",
-      "size": "324721",
-      "md5": "c7f00c6efb1dd7ab6b63b431a97a5375",
-      "crc32": "89d8cb0b",
-      "sha1": "8d4448ba5bb6c15565419718fd96bfef9449cf78",
+      "btih": "abdca969d4c88b81ab05d274fc9d6a7667de0d30",
+      "mtime": "1666855327",
+      "size": "328541",
+      "md5": "c7e1bf411a6a8fe849a84420c2c1f645",
+      "crc32": "aab92336",
+      "sha1": "0ce05f8aefab8516519804179d991251e5a4d000",
       "format": "Archive BitTorrent"
     },
     {
       "name": "unichicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4bbf3c38df8fe86be965e5f1b154cf83",
+      "md5": "230c21d0b1a1de5aad6cae02d1ba41b3",
       "summation": "md5"
     },
     {
       "name": "unichicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666773007",
-      "size": "1941504",
-      "md5": "40d5e3897a29a2c0b4a1ecf5d327a0eb",
-      "crc32": "79c2bda0",
-      "sha1": "fe4a21e58380cbcf52451e5b5b346c56eff7a24f",
+      "mtime": "1666855266",
+      "size": "1961984",
+      "md5": "e484e5ea0cd4056d6f5e9605438b4c85",
+      "crc32": "a36f42de",
+      "sha1": "f760233d695c8fbfa110562ae077321e65a9d370",
       "format": "Metadata"
     },
     {
@@ -15797,9 +15983,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1527,
-  "item_last_updated": 1666773066,
-  "item_size": 98478936,
+  "files_count": 1545,
+  "item_last_updated": 1666855327,
+  "item_size": 99665016,
   "metadata": {
     "identifier": "unichicago-2022",
     "collection": [
@@ -15821,7 +16007,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452727915,
+      "task_id": 3453904144,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15829,7 +16015,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 951046320,
+  "uniq": 2123935389,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

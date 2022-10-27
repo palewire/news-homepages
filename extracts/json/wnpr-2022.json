@@ -1,5 +1,5 @@
 {
-  "created": 1666773226,
+  "created": 1666855977,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/wnpr-2022",
@@ -5243,31 +5243,155 @@
       "format": "JSON"
     },
     {
+      "name": "wnpr-2022-10-26T04:32:49.370676-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnpr-2022-10-26T04:32:49.370676-04:00.jpg",
+      "mtime": "1666774320",
+      "size": "10870",
+      "md5": "e470a8ed67442ef209ec9ce7e3d82323",
+      "crc32": "2246c3fa",
+      "sha1": "0da7d4e7f090b984edc2d6bd9285c3996a443b8a"
+    },
+    {
+      "name": "wnpr-2022-10-26T16:40:04.185837-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666816808",
+      "size": "31570",
+      "md5": "d9d16a6e00888b7b7aac11012faada0b",
+      "crc32": "995fe4e5",
+      "sha1": "463df7818e0f6a474103bf332dd93742cc4f9c37",
+      "format": "JSON"
+    },
+    {
+      "name": "wnpr-2022-10-26T16:40:04.185837-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666816810",
+      "size": "54275",
+      "md5": "c7f73beb2afe5e54bcd1f5f88c4ca3b7",
+      "crc32": "8b28ce81",
+      "sha1": "8626f23c1f7a03f4a3151c05d4b1f6e284a22074",
+      "format": "JSON"
+    },
+    {
+      "name": "wnpr-2022-10-26T16:40:04.185837-04:00.jpg",
+      "source": "original",
+      "mtime": "1666816806",
+      "size": "281416",
+      "md5": "43390ee1eba6d594e7c02f8ef60be668",
+      "crc32": "b3da5bbc",
+      "sha1": "ee6c3bde67c242fc4ad4b33bb84313ccfe697ed9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnpr-2022-10-26T16:40:04.185837-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666816812",
+      "size": "1477",
+      "md5": "0973bbaeaaf9ad49e4659e746cad41c4",
+      "crc32": "510cf3e9",
+      "sha1": "b8f8df40c56f848441c6a737eef0f36db4a41ef1",
+      "format": "JSON"
+    },
+    {
+      "name": "wnpr-2022-10-26T16:40:04.185837-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666816814",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wnpr-2022-10-26T16:40:04.185837-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnpr-2022-10-26T16:40:04.185837-04:00.jpg",
+      "mtime": "1666835585",
+      "size": "10741",
+      "md5": "b09ebcc272a8849196da450bdc87395d",
+      "crc32": "228242f5",
+      "sha1": "fcf93f78944d5060f8adeecb36e763b96322f83b"
+    },
+    {
+      "name": "wnpr-2022-10-27T03:22:19.497479-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855349",
+      "size": "31586",
+      "md5": "5cccdac39ab9e37cd0e57f271f983a33",
+      "crc32": "fb3c65e0",
+      "sha1": "7319144f17894c87caecfd077d5bb268b7f9b2f1",
+      "format": "JSON"
+    },
+    {
+      "name": "wnpr-2022-10-27T03:22:19.497479-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855351",
+      "size": "54445",
+      "md5": "a1833ebbc5a8dc42cbf213acf9caeedf",
+      "crc32": "2f3849d4",
+      "sha1": "35e479555c36ee7f8fc3e757d0fbbad00f3dae44",
+      "format": "JSON"
+    },
+    {
+      "name": "wnpr-2022-10-27T03:22:19.497479-04:00.jpg",
+      "source": "original",
+      "mtime": "1666855344",
+      "size": "301404",
+      "md5": "c108772a77cd5c902591b97eed6381ca",
+      "crc32": "fb8ade79",
+      "sha1": "d8dac9537be4ff8f59ef6420357b777f0b0d1d18",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnpr-2022-10-27T03:22:19.497479-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855352",
+      "size": "1477",
+      "md5": "3e5b0879d48e0bb88b90878d812c6d6a",
+      "crc32": "e869fbb7",
+      "sha1": "1c286f17b483eee470b7d3aaa58d3cd9941b8aa9",
+      "format": "JSON"
+    },
+    {
+      "name": "wnpr-2022-10-27T03:22:19.497479-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855354",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "wnpr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b91a839ce65acb1dbfc82f49b2da8f0f19ab356c",
-      "mtime": "1666773222",
-      "size": "106037",
-      "md5": "91ad7eb4744852c4510d9c307f2839f3",
-      "crc32": "eca85e6a",
-      "sha1": "31835c29037c7f778051699aadd1eec1fbd36439",
+      "btih": "8eaefe760ae9d75f0f6dd4ddea323f0bbb83f538",
+      "mtime": "1666855399",
+      "size": "108521",
+      "md5": "030ad88dbadef65f4f381b4edcf880d7",
+      "crc32": "09a2928a",
+      "sha1": "0577bca459674b1d848aac5b3fbce379e1ff1a9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnpr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0a5953b5feb287afd0ff99e434ab6d3",
+      "md5": "8dabe7e9a5ebd2f713ad7694bfab2b60",
       "summation": "md5"
     },
     {
       "name": "wnpr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666773182",
-      "size": "659456",
-      "md5": "6f14474a8ae1947d15d481450929e601",
-      "crc32": "c28d3603",
-      "sha1": "5252c0dc1a57a472031d7310608a3c8d79e03e7f",
+      "mtime": "1666855357",
+      "size": "675840",
+      "md5": "73f9693da65128bc3af42ffbd0553629",
+      "crc32": "06f55577",
+      "sha1": "890032ef9014f12dd76043b277731f546eacd7c8",
       "format": "Metadata"
     },
     {
@@ -5281,9 +5405,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 511,
-  "item_last_updated": 1666773222,
-  "item_size": 34665710,
+  "files_count": 523,
+  "item_last_updated": 1666855399,
+  "item_size": 35464243,
   "metadata": {
     "identifier": "wnpr-2022",
     "collection": [
@@ -5305,7 +5429,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452729605,
+      "task_id": 3453904722,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5313,7 +5437,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 474907508,
+  "uniq": 950427232,
+  "wnpr-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666773291,
+  "created": 1666855402,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/worldnetdaily-2022",
@@ -17331,31 +17331,217 @@
       "format": "JSON"
     },
     {
+      "name": "worldnetdaily-2022-10-26T04:32:55.713410-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-10-26T04:32:55.713410-04:00.jpg",
+      "mtime": "1666774386",
+      "size": "12327",
+      "md5": "3bbc05bfad06c9a83894fe3c05a79390",
+      "crc32": "0f1b054e",
+      "sha1": "f983d696bd8bc43701ca6805cb7dd47a33e131fc"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:39:38.347909-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666816792",
+      "size": "25904",
+      "md5": "37fc4539cfd07ad6108b77c57048a542",
+      "crc32": "21669875",
+      "sha1": "e1007f4daadfba3e0d5607522c0825f5338ac439",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:39:38.347909-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666816794",
+      "size": "51856",
+      "md5": "29c1e97b22647f3c02b8b80f02af895d",
+      "crc32": "e46b7f3a",
+      "sha1": "761000f417cacabd5884f5d7b76e5c40ebd03e68",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:39:38.347909-04:00.jpg",
+      "source": "original",
+      "mtime": "1666816790",
+      "size": "324713",
+      "md5": "90c69521c10276ca9c55a874145e534c",
+      "crc32": "90602ff4",
+      "sha1": "4dcb850d5a794ec98bfbf2ee41e9da5ac487ebf8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:39:38.347909-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666816797",
+      "size": "1432",
+      "md5": "056a927a9ca9989e9ff09fcc406f6d6b",
+      "crc32": "6db89612",
+      "sha1": "be61aadf79616b43e00c104563fd93f6548fca83",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:39:38.347909-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666816800",
+      "size": "28746",
+      "md5": "16b4e1a407ca1ccd9b5246b7b2d1368a",
+      "crc32": "737cb81e",
+      "sha1": "4078dc5d38ef7ad7aa7e4512569252771bc6714d",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:39:38.347909-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-10-26T16:39:38.347909-04:00.jpg",
+      "mtime": "1666817840",
+      "size": "12294",
+      "md5": "747346728a03eba74db1655c74c8bc7d",
+      "crc32": "5c7e1080",
+      "sha1": "536d4a39d0a189d14bd0cb658336840596da2159"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:53:57.275499-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666817644",
+      "size": "24990",
+      "md5": "af12ae30831cd7e7186f81be6a8e87a3",
+      "crc32": "9b1c4777",
+      "sha1": "0d364587ef2308159ae0d391ff54569e212633d1",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:53:57.275499-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666817648",
+      "size": "47151",
+      "md5": "728c276835542d060895e38696a5c4a8",
+      "crc32": "ad12c947",
+      "sha1": "69e26ba1fae20ade99dd082a88f1996dd985040c",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:53:57.275499-04:00.jpg",
+      "source": "original",
+      "mtime": "1666817640",
+      "size": "363134",
+      "md5": "61a028f9af085001c1b0c88d40751e4d",
+      "crc32": "624c4511",
+      "sha1": "8cb0bb0d81422135400f76736fcfc08ca970feae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:53:57.275499-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666817652",
+      "size": "1431",
+      "md5": "523edbff3348f837c9b3dea4cbbfd7cd",
+      "crc32": "96d741dd",
+      "sha1": "84300f4c91f74e423080c4fbce5ea0e8155cae51",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:53:57.275499-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666817657",
+      "size": "17604",
+      "md5": "a934e9a8412b9bd37d632eabf2bd6fbd",
+      "crc32": "1a59fe3a",
+      "sha1": "5b68d5f8324a72b1e7c8c39c6a2dbf6f5d32d1a6",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-26T16:53:57.275499-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-10-26T16:53:57.275499-04:00.jpg",
+      "mtime": "1666838747",
+      "size": "12025",
+      "md5": "b7e2893bad7c9f11f9241d928f1c420f",
+      "crc32": "512ff3f3",
+      "sha1": "e7bef8372916434cef304f70aa68e7814a4b12e9"
+    },
+    {
+      "name": "worldnetdaily-2022-10-27T03:21:50.480374-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855323",
+      "size": "25107",
+      "md5": "18e561c42e462b116284cb06466f92df",
+      "crc32": "9374d936",
+      "sha1": "8d912e63d40d9bbfb6bac7d948b0fe16822cd611",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-27T03:21:50.480374-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855325",
+      "size": "50890",
+      "md5": "0552c36f830998c5b7ae05b2d53bea39",
+      "crc32": "c2e2ad42",
+      "sha1": "2a577bd657204e22f913d83387c9be5b24ddaaff",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-27T03:21:50.480374-04:00.jpg",
+      "source": "original",
+      "mtime": "1666855320",
+      "size": "345991",
+      "md5": "ce0491fec98edcd0518de3bcc00f65bd",
+      "crc32": "dae0c6b3",
+      "sha1": "006f6a0f0404a9f10ca662f12159a7f31e6de601",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-10-27T03:21:50.480374-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855327",
+      "size": "1432",
+      "md5": "bbf76069a4bb76d79eb95b26a31d1099",
+      "crc32": "50077ecc",
+      "sha1": "e23363237a8c2327d52c66ad30ac256e8782b820",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-10-27T03:21:50.480374-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855328",
+      "size": "28746",
+      "md5": "ecb2bc4e04120570fa3709ffafa94769",
+      "crc32": "60ddc04a",
+      "sha1": "9413efa07ddcefd80b594033083c16a6dc885cf1",
+      "format": "JSON"
+    },
+    {
       "name": "worldnetdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ffef5c10dd1d7ece53b726dd4ed6c1f414fe7ff9",
-      "mtime": "1666773285",
-      "size": "362732",
-      "md5": "b69c3c0e128f656d7ba43619b680a3d1",
-      "crc32": "4772a032",
-      "sha1": "3c24d2b994830342c521d1369c895d7f5bdb9c35",
+      "btih": "79c2be9708ed66112786141f5fdb3e4efc2c6584",
+      "mtime": "1666855395",
+      "size": "366626",
+      "md5": "e7ee1b8db029a7af30d4bea98ed5bcb1",
+      "crc32": "7bf2f911",
+      "sha1": "f2abd620f44094149860099377b0ad847f2847cf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "worldnetdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "715e109b2df6db5360f9a8d6a682532b",
+      "md5": "768256a73e36caf013ef86461736d82d",
       "summation": "md5"
     },
     {
       "name": "worldnetdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666773209",
-      "size": "2134016",
-      "md5": "ae9f4d0529e3777308294076ea99a1ce",
-      "crc32": "bbf291fa",
-      "sha1": "550b53d9acdc52d51cadc69ecabed5a65ac7931e",
+      "mtime": "1666855334",
+      "size": "2154496",
+      "md5": "95d85d1b75109049408d4d4b94df67ce",
+      "crc32": "b9dc9f05",
+      "sha1": "65f27ea1f8f03a60ef729c4e390cc4100dcad5bd",
       "format": "Metadata"
     },
     {
@@ -17369,9 +17555,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1678,
-  "item_last_updated": 1666773285,
-  "item_size": 130853248,
+  "files_count": 1696,
+  "item_last_updated": 1666855395,
+  "item_size": 132253395,
   "metadata": {
     "identifier": "worldnetdaily-2022",
     "collection": [
@@ -17393,7 +17579,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452730217,
+      "task_id": 3453904692,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -17401,7 +17587,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1314967558,
+  "uniq": 609376623,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]
