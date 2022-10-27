@@ -1,5 +1,5 @@
 {
-  "created": 1666785612,
+  "created": 1666828123,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/8/items/chilligaz-2022",
@@ -4521,31 +4521,93 @@
       "format": "JSON"
     },
     {
+      "name": "chilligaz-2022-10-26T07:59:14.705760-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-26T07:59:14.705760-04:00.jpg",
+      "mtime": "1666787187",
+      "size": "9121",
+      "md5": "119a91b8b99086b66ec212f6d8248ba7",
+      "crc32": "38761210",
+      "sha1": "695d6c26fe3dc7d5146cbd705982831f2e291d0a"
+    },
+    {
+      "name": "chilligaz-2022-10-26T19:46:57.860971-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828030",
+      "size": "20512",
+      "md5": "1a5f9d7eddd4074e21ac5255c86badb6",
+      "crc32": "7b038c85",
+      "sha1": "791720642143608754856f2f8fd9f2035ec2eb7a",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-26T19:46:57.860971-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828033",
+      "size": "48140",
+      "md5": "2e52183e3de68b51d289567b68c16f67",
+      "crc32": "95597051",
+      "sha1": "dfd6f8ccd567a5e00f12012825411b6d660c89c1",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-26T19:46:57.860971-04:00.jpg",
+      "source": "original",
+      "mtime": "1666828024",
+      "size": "266268",
+      "md5": "0c3668dab38f84ef891ca1927a7bf106",
+      "crc32": "f64fe5b4",
+      "sha1": "c1ffb1fc633a8ce2ba24624ab0ad93bc75b32532",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chilligaz-2022-10-26T19:46:57.860971-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828035",
+      "size": "1567",
+      "md5": "cd1620ae52cb2eef8377e1675ba5c0ef",
+      "crc32": "df7c7431",
+      "sha1": "e5436486054eab0ef4f37fd243cfaf0daf9e7c96",
+      "format": "JSON"
+    },
+    {
+      "name": "chilligaz-2022-10-26T19:46:57.860971-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828037",
+      "size": "109972",
+      "md5": "cb51ed83998e91c61b4d51dc317f67df",
+      "crc32": "0a8b4864",
+      "sha1": "00d53a882b612b09cfa7f4fe5ccfc8800dc136e9",
+      "format": "JSON"
+    },
+    {
       "name": "chilligaz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a78bf22ed6da1c64cd9f8a14ce3bd5d4b7c13a9",
-      "mtime": "1666785608",
-      "size": "93873",
-      "md5": "4e87cd0c728977e39070cb849eb61283",
-      "crc32": "679bf356",
-      "sha1": "e7db24fa89c4838777e3111f406749a2bba3aa83",
+      "btih": "f128d56ad2b29649177ba82cc81afd0b3431e3bc",
+      "mtime": "1666828116",
+      "size": "95147",
+      "md5": "6d4fce2aacae79e6f14404d464c53726",
+      "crc32": "60e8b213",
+      "sha1": "c4978405b94c6e7ff9cec21a67ae1a3aff8187fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chilligaz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0174ec273e883e98d9a34281158ccdb7",
+      "md5": "1ce4ae88f67f9906f25ea5c8819060a0",
       "summation": "md5"
     },
     {
       "name": "chilligaz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666785570",
-      "size": "573440",
-      "md5": "2cafb380c216a973e208643a8a50dbf7",
-      "crc32": "c0c851c7",
-      "sha1": "fc7bce8f38c36d095ed6345ef7f332e4cbd410db",
+      "mtime": "1666828076",
+      "size": "585728",
+      "md5": "5de994e9c065c798bce99809582b5561",
+      "crc32": "1697d32d",
+      "sha1": "22a55486932533d2890ddf68769b903d13ee1bc7",
       "format": "Metadata"
     },
     {
@@ -4559,9 +4621,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 441,
-  "item_last_updated": 1666785608,
-  "item_size": 31245866,
+  "files_count": 447,
+  "item_last_updated": 1666828116,
+  "item_size": 31715008,
   "metadata": {
     "identifier": "chilligaz-2022",
     "collection": [
@@ -4583,7 +4645,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452870002,
+      "task_id": 3453613848,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4591,7 +4653,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2055929073,
+  "uniq": 1749696788,
   "workable_servers": [
     "ia601402.us.archive.org"
   ]

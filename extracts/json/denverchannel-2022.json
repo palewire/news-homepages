@@ -1,5 +1,5 @@
 {
-  "created": 1666785779,
+  "created": 1666828137,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/denverchannel-2022",
@@ -9113,31 +9113,93 @@
       "format": "JSON"
     },
     {
+      "name": "denverchannel-2022-10-26T06:01:54.994463-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverchannel-2022-10-26T06:01:54.994463-06:00.jpg",
+      "mtime": "1666787769",
+      "size": "10922",
+      "md5": "7b575c7f2b485d41df3aba4a8a95aa71",
+      "crc32": "da141a3e",
+      "sha1": "1d4816b7c120473f290e407e142185cb3cf15141"
+    },
+    {
+      "name": "denverchannel-2022-10-26T17:47:14.325161-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828041",
+      "size": "22340",
+      "md5": "4102e5a075cacfda48d8217da4283b31",
+      "crc32": "e0c89143",
+      "sha1": "c3e7d057743380fe0fded8139b2675227b4a308f",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-10-26T17:47:14.325161-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828043",
+      "size": "59097",
+      "md5": "99c8b073c4e501a786a9f717cab7c655",
+      "crc32": "ed39a7f1",
+      "sha1": "aefe0de40683bfd449e6116f3a8daafebaa17988",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-10-26T17:47:14.325161-06:00.jpg",
+      "source": "original",
+      "mtime": "1666828039",
+      "size": "266262",
+      "md5": "733fe8f8d8492d07ea074da675e77f46",
+      "crc32": "1220dbc1",
+      "sha1": "f41a0d138e669b56c242e6a39a515c4f9a7bc97f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverchannel-2022-10-26T17:47:14.325161-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828045",
+      "size": "1468",
+      "md5": "e2097259522fd907b221f5b2094d5202",
+      "crc32": "aa5a60e0",
+      "sha1": "8bbcf53671f53296d20d6ea9fe8abd735a6c87b9",
+      "format": "JSON"
+    },
+    {
+      "name": "denverchannel-2022-10-26T17:47:14.325161-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828046",
+      "size": "257",
+      "md5": "84f6b007b3d0a391e273be20a185f969",
+      "crc32": "db65cdbf",
+      "sha1": "020896698a653e5cfe74f0c64ae09acde1a70197",
+      "format": "JSON"
+    },
+    {
       "name": "denverchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "316512d9b2e37bbc7ad9e28232a33fcb283fc31c",
-      "mtime": "1666785775",
-      "size": "191406",
-      "md5": "cd6fcb336c87c300fb05bcc37bbc5e92",
-      "crc32": "ebb36bbe",
-      "sha1": "ad900c7e0b00fc5bb8a36b4d391247754a7a3341",
+      "btih": "39cc937700153f5d7dac1655c2f7d84e1ccdb567",
+      "mtime": "1666828128",
+      "size": "192682",
+      "md5": "5faa33b3d67778396042dcf3b65db58e",
+      "crc32": "088e6fc8",
+      "sha1": "06dfa8f64b9c1890913abe31acbe1101cdbfbb50",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "077c863d5f284e3ad078127ca587e51a",
+      "md5": "a4d8a5af73ecb1addb827e68eb1d170f",
       "summation": "md5"
     },
     {
       "name": "denverchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666785731",
-      "size": "1138688",
-      "md5": "2e358802de5379a98dd4b982889a49df",
-      "crc32": "08df0f20",
-      "sha1": "c529ff0ea50d62177c3431954e82771bcf53ee89",
+      "mtime": "1666828078",
+      "size": "1146880",
+      "md5": "3d7392a68a58acfe402cd90fb448cf2d",
+      "crc32": "82ac7a74",
+      "sha1": "849cf55e27fbf3c2b3d90e5bea7be1e05317b104",
       "format": "Metadata"
     },
     {
@@ -9151,9 +9213,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 885,
-  "item_last_updated": 1666785775,
-  "item_size": 65315069,
+  "files_count": 891,
+  "item_last_updated": 1666828128,
+  "item_size": 65684883,
   "metadata": {
     "identifier": "denverchannel-2022",
     "collection": [
@@ -9175,7 +9237,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452873056,
+      "task_id": 3453614004,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9183,7 +9245,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2031954685,
+  "uniq": 535917370,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

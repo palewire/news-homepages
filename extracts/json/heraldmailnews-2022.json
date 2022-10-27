@@ -1,5 +1,5 @@
 {
-  "created": 1666786102,
+  "created": 1666828444,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/heraldmailnews-2022",
@@ -4531,31 +4531,93 @@
       "format": "JSON"
     },
     {
+      "name": "heraldmailnews-2022-10-26T08:07:12.304719-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldmailnews-2022-10-26T08:07:12.304719-04:00.jpg",
+      "mtime": "1666787649",
+      "size": "9745",
+      "md5": "40ba5f71cfa79f71dd5a51126f60628a",
+      "crc32": "cf8bfe3a",
+      "sha1": "9531aef706c0ed4d549b7572df28b53571ad1def"
+    },
+    {
+      "name": "heraldmailnews-2022-10-26T19:52:42.768840-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828372",
+      "size": "24033",
+      "md5": "caf08d7f5116b91a53f56ab871ad6655",
+      "crc32": "e8bfcc55",
+      "sha1": "f38734029824c5c658149167b16d79f737046fda",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-26T19:52:42.768840-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828374",
+      "size": "44430",
+      "md5": "66bf1710131ba3d7f7e9bc86e3c40c14",
+      "crc32": "25c8c594",
+      "sha1": "5ef912d65c2d9a39b2eeaafb9100d21345e6fbca",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-26T19:52:42.768840-04:00.jpg",
+      "source": "original",
+      "mtime": "1666828370",
+      "size": "265789",
+      "md5": "69479330be6feeab901b93798fbd1bfd",
+      "crc32": "582a0e10",
+      "sha1": "9e1c27f7125d79a10eb0b1c8e29f61319358d202",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldmailnews-2022-10-26T19:52:42.768840-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828376",
+      "size": "1540",
+      "md5": "92c097079ca17214896f373a1c3c0bbd",
+      "crc32": "a8dd6cb5",
+      "sha1": "3548371aebfaf543dc570a1bb180791bcf8eccf6",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldmailnews-2022-10-26T19:52:42.768840-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828378",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "heraldmailnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5d545617137b5ef75e685627e71bad35bb8d13b",
-      "mtime": "1666786097",
-      "size": "96301",
-      "md5": "77a7e15abead812b263ca13fef49bb11",
-      "crc32": "fedff6a8",
-      "sha1": "7a7295822bc15137fa2fb13599e91f5388ed537b",
+      "btih": "9d6e611def039fb4913c038ebbd039fa70c22408",
+      "mtime": "1666828440",
+      "size": "97602",
+      "md5": "e96a4bd1925307e9c461c10a134b9803",
+      "crc32": "a072989e",
+      "sha1": "4df2e3b7ee3c0a850d0e830ba6c94f56116aa4cc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldmailnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9bdfbbc2f25f08fa9a1762687793e52",
+      "md5": "0c417ab3ea636a0a645e7ea8cf2908af",
       "summation": "md5"
     },
     {
       "name": "heraldmailnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666786057",
-      "size": "581632",
-      "md5": "e3ff46b4344ab6653cf0a164a8673e4c",
-      "crc32": "158fce17",
-      "sha1": "73b55c339326e33c703413f2f62e965e21b7136c",
+      "mtime": "1666828395",
+      "size": "589824",
+      "md5": "b41101b34d87a2e42c0018478ca425e3",
+      "crc32": "86d88779",
+      "sha1": "6eda08b23938d7bff9229f6d5e428c3c0f53e4cb",
       "format": "Metadata"
     },
     {
@@ -4569,9 +4631,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 442,
-  "item_last_updated": 1666786097,
-  "item_size": 31479770,
+  "files_count": 448,
+  "item_last_updated": 1666828440,
+  "item_size": 31835002,
   "metadata": {
     "identifier": "heraldmailnews-2022",
     "collection": [
@@ -4593,7 +4655,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452876938,
+      "task_id": 3453617920,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4601,7 +4663,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 206342553,
+  "uniq": 1158499237,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

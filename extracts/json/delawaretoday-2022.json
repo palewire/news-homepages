@@ -1,5 +1,5 @@
 {
-  "created": 1666785750,
+  "created": 1666828256,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/21/items/delawaretoday-2022",
@@ -5265,31 +5265,93 @@
       "format": "JSON"
     },
     {
+      "name": "delawaretoday-2022-10-26T08:01:32.644118-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawaretoday-2022-10-26T08:01:32.644118-04:00.jpg",
+      "mtime": "1666787587",
+      "size": "9745",
+      "md5": "1398d415bde78c3714aa27ba3ff22584",
+      "crc32": "a12ccd22",
+      "sha1": "d03ea23d9b94930db2c5e8c9b0c78ffd597bea42"
+    },
+    {
+      "name": "delawaretoday-2022-10-26T19:48:16.932260-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828101",
+      "size": "23461",
+      "md5": "efd870301343fe645e0b98950d9623b7",
+      "crc32": "2c868ced",
+      "sha1": "66c592605e2ba812c3dfe93b30b22eb1b5d8e30d",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-26T19:48:16.932260-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828105",
+      "size": "24932",
+      "md5": "97854ff05bd1fd361a7b3af22f3ba8d4",
+      "crc32": "b591c9ee",
+      "sha1": "e68fd0bbefb024bf94f96cc1b04cdc7d3a960bab",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-26T19:48:16.932260-04:00.jpg",
+      "source": "original",
+      "mtime": "1666828099",
+      "size": "231091",
+      "md5": "9d79675fb8aeb8af96cb9bf5a0f30714",
+      "crc32": "afbd770a",
+      "sha1": "210b3710514b7da0fa98e4a254f6838eb474424e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawaretoday-2022-10-26T19:48:16.932260-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828108",
+      "size": "1486",
+      "md5": "d04123e7e503b7c1437ad5be2ea22efd",
+      "crc32": "ac73713f",
+      "sha1": "9120f7a61bd813b29a1f2bec15ca26ad85f1e246",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-26T19:48:16.932260-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828110",
+      "size": "12714",
+      "md5": "cea49033a21838eab698b9ce05ab513e",
+      "crc32": "24cb7bb7",
+      "sha1": "6aaa9c79bc273aae17ecaab1a3d9e1ffa87cf8cd",
+      "format": "JSON"
+    },
+    {
       "name": "delawaretoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78bbc7fadfb7332591cd30138009738fae02179a",
-      "mtime": "1666785745",
-      "size": "110892",
-      "md5": "9ec34a12120d5dbc5242ed2ddac0755d",
-      "crc32": "5010af44",
-      "sha1": "a6e5697903da67f293631d10f82ec2a5165257b4",
+      "btih": "7797a9aed12e0b33e3d9a2b846117d7c0db4d398",
+      "mtime": "1666828243",
+      "size": "112169",
+      "md5": "da879a5c4fbac8a33a55db7625ab7f09",
+      "crc32": "28c7ebdd",
+      "sha1": "6b5dc6ba109c65a451c50c52110d7d4121030ba2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawaretoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8550b7c29e607c71c1bcb0dd941adb74",
+      "md5": "c197805d31b05884745fd084d6bb3c05",
       "summation": "md5"
     },
     {
       "name": "delawaretoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666785706",
-      "size": "671744",
-      "md5": "903c715ec7e0cb49d8ea13e25cb91880",
-      "crc32": "1521ac52",
-      "sha1": "3f8842860bd6de5a8bae56e32b1ce890706b77b1",
+      "mtime": "1666828203",
+      "size": "675840",
+      "md5": "6882c2e8af0441ca9b0cc510043af616",
+      "crc32": "730df8aa",
+      "sha1": "9930d3e108ff94f4fec38901b8d160d8b7c31015",
       "format": "Metadata"
     },
     {
@@ -5303,9 +5365,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 513,
-  "item_last_updated": 1666785745,
-  "item_size": 29028170,
+  "files_count": 519,
+  "item_last_updated": 1666828243,
+  "item_size": 29336972,
   "metadata": {
     "identifier": "delawaretoday-2022",
     "collection": [
@@ -5327,7 +5389,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452872681,
+      "task_id": 3453615466,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5335,7 +5397,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 161270373,
+  "uniq": 705720267,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666785775,
+  "created": 1666828128,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/26/items/decisiondeskhq-2022",
@@ -13329,31 +13329,82 @@
       "format": "JSON"
     },
     {
+      "name": "decisiondeskhq-2022-10-26T08:01:33.664524-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "decisiondeskhq-2022-10-26T08:01:33.664524-04:00.jpg",
+      "mtime": "1666787640",
+      "size": "8642",
+      "md5": "c13a52c4d803ada623a494d9d055059d",
+      "crc32": "e1b6ee50",
+      "sha1": "5402bee22ed8fd2ec21a0595308e364f0a1a4087"
+    },
+    {
+      "name": "decisiondeskhq-2022-10-26T19:47:02.172870-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828034",
+      "size": "51134",
+      "md5": "8ed48e69a27f68eb5197612d1146bebf",
+      "crc32": "1512a757",
+      "sha1": "155d16a3ae44a3ebac0094cb871bce6b3f394f0c",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-10-26T19:47:02.172870-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828036",
+      "size": "9729",
+      "md5": "1062b6426171993eee4906c7202e3bff",
+      "crc32": "f548e8ee",
+      "sha1": "6fb84653d853a16acf4cad3a50168545520f8539",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-10-26T19:47:02.172870-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828038",
+      "size": "1485",
+      "md5": "c34b2d8e01d421c16a40f1b10f09099a",
+      "crc32": "903ee5d1",
+      "sha1": "398ca7ebd2c9b9948683cba642a328b84cea842b",
+      "format": "JSON"
+    },
+    {
+      "name": "decisiondeskhq-2022-10-26T19:47:02.172870-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828041",
+      "size": "28492",
+      "md5": "0dc0769aaee4a0750ef2519b081d4f3b",
+      "crc32": "7bb502dd",
+      "sha1": "a6fbee463b8f2f18339ba44893bd8c62bc5e374f",
+      "format": "JSON"
+    },
+    {
       "name": "decisiondeskhq-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6250bcdcddb556bc3a9161da2c825bbd2f9c13e5",
-      "mtime": "1666785770",
-      "size": "279199",
-      "md5": "811ae06996768abd7c45facb8bf02086",
-      "crc32": "fe3a7add",
-      "sha1": "a9d0551b6109ef546cf11910ae1774c89f12301f",
+      "btih": "f018b747af0e801f82a78369aa9a1804efe84a74",
+      "mtime": "1666828123",
+      "size": "280275",
+      "md5": "49c63d6706f42df495bb5e2f3690aff5",
+      "crc32": "d16e794b",
+      "sha1": "3f6b216ea7468fd83c82cc79eff19c24ab2464e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "decisiondeskhq-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ce6adbe0a83bacefb7dc64efd138510",
+      "md5": "fc9cf28e0bd39d4c2bc12b6a770abe9d",
       "summation": "md5"
     },
     {
       "name": "decisiondeskhq-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666785721",
-      "size": "1634304",
-      "md5": "732c4d1dd5f6869bae5ae65343cc44fa",
-      "crc32": "fa173d08",
-      "sha1": "43e77c5479ce724bb05b6bdc2201f62cbdf285b8",
+      "mtime": "1666828072",
+      "size": "1638400",
+      "md5": "0d201928b0c0205c1a2ad1dcdebd6aa8",
+      "crc32": "60ef2a16",
+      "sha1": "b7a270e7234250e5d17473c1dba722d00cf63e07",
       "format": "Metadata"
     },
     {
@@ -13367,9 +13418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1290,
-  "item_last_updated": 1666785770,
-  "item_size": 81740899,
+  "files_count": 1295,
+  "item_last_updated": 1666828123,
+  "item_size": 81845553,
   "metadata": {
     "identifier": "decisiondeskhq-2022",
     "collection": [
@@ -13391,7 +13442,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452872997,
+      "task_id": 3453613905,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13399,7 +13450,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1350278442,
+  "uniq": 65329223,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

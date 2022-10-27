@@ -1,5 +1,5 @@
 {
-  "created": 1666785675,
+  "created": 1666828181,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/0/items/coindesk-2022",
@@ -11505,31 +11505,93 @@
       "format": "JSON"
     },
     {
+      "name": "coindesk-2022-10-26T07:59:33.317535-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coindesk-2022-10-26T07:59:33.317535-04:00.jpg",
+      "mtime": "1666787241",
+      "size": "9316",
+      "md5": "15827c68676e964008f889f901411220",
+      "crc32": "129ccbf2",
+      "sha1": "ddbf668ce02e44158959102dc30be401faee6df6"
+    },
+    {
+      "name": "coindesk-2022-10-26T19:47:47.404549-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828077",
+      "size": "76188",
+      "md5": "c00955e8dd190fbd8ad920d09570d096",
+      "crc32": "6c313bbb",
+      "sha1": "3403edd6ae692173071dfc64645d5931ec911d46",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-10-26T19:47:47.404549-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828078",
+      "size": "72918",
+      "md5": "842007dabed9084998b62e6dabdf0b2f",
+      "crc32": "13bd23fb",
+      "sha1": "247f02a93b9da1591ba7bc72050a02a57cc538ec",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-10-26T19:47:47.404549-04:00.jpg",
+      "source": "original",
+      "mtime": "1666828075",
+      "size": "313925",
+      "md5": "a660e0c24ef6d641e5f4426ee5dd7c2f",
+      "crc32": "062b8f6c",
+      "sha1": "dd01e6760e01c3d057c1c3888078ca70f8287f9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coindesk-2022-10-26T19:47:47.404549-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828080",
+      "size": "1468",
+      "md5": "42264568bc811bc849900c8b59727a4b",
+      "crc32": "619420ef",
+      "sha1": "27696bd2854803ba1163c9a5c6aa5a7aeeb92eec",
+      "format": "JSON"
+    },
+    {
+      "name": "coindesk-2022-10-26T19:47:47.404549-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828082",
+      "size": "78885",
+      "md5": "3ed263c9d22321b00e267ffa909a11c3",
+      "crc32": "1078275c",
+      "sha1": "1574495f46fbc0fbaaed31d3df681f5175799e92",
+      "format": "JSON"
+    },
+    {
       "name": "coindesk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de28910e6a10559ec2fd7b70a06ac53d53cd0e79",
-      "mtime": "1666785661",
-      "size": "236342",
-      "md5": "65d4aac2a1d3064930d634ef7c1368fa",
-      "crc32": "28c0bd8a",
-      "sha1": "7fef2826815ac1f7df48b6c56d077ef189689a09",
+      "btih": "432257a8bc6a3c9d6288afcf87f53d4460ff2874",
+      "mtime": "1666828165",
+      "size": "237609",
+      "md5": "c88c6de76bfad651ec2f467b00107ddc",
+      "crc32": "03e92ebb",
+      "sha1": "c298f522603dbc988e09afc589f3659132683232",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coindesk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f703659ddbc77ccb89d2544b5687295",
+      "md5": "1b46f3b98225783334b47829d2e993a8",
       "summation": "md5"
     },
     {
       "name": "coindesk-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666785594",
-      "size": "1421312",
-      "md5": "916330f99f395399b3eeb82d2ff73ccd",
-      "crc32": "583e216d",
-      "sha1": "8abf67438857804c9412513553bd1f014971b8c1",
+      "mtime": "1666828117",
+      "size": "1425408",
+      "md5": "057fadef17b8c0f309dd5cd4da3d74f4",
+      "crc32": "ab6367f6",
+      "sha1": "6bfa04026a25c3ef14fa29e1d775c67462c04ec7",
       "format": "Metadata"
     },
     {
@@ -11543,9 +11605,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1116,
-  "item_last_updated": 1666785661,
-  "item_size": 100928921,
+  "files_count": 1122,
+  "item_last_updated": 1666828165,
+  "item_size": 101486984,
   "metadata": {
     "identifier": "coindesk-2022",
     "collection": [
@@ -11567,7 +11629,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452871153,
+      "task_id": 3453614491,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11575,7 +11637,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2129999484,
+  "uniq": 2023562307,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

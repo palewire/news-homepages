@@ -1,5 +1,5 @@
 {
-  "created": 1666785773,
+  "created": 1666828133,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/0/items/cookpolitical-2022",
@@ -13319,31 +13319,93 @@
       "format": "JSON"
     },
     {
+      "name": "cookpolitical-2022-10-26T08:01:41.572613-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-26T08:01:41.572613-04:00.jpg",
+      "mtime": "1666787268",
+      "size": "10457",
+      "md5": "12e13d190b977c046d3d45d969be3bc2",
+      "crc32": "c534c6a9",
+      "sha1": "70392abc3cf6261605ea3d7972aa2739ab63b679"
+    },
+    {
+      "name": "cookpolitical-2022-10-26T19:47:20.583079-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828049",
+      "size": "12013",
+      "md5": "ec97bfb9cc57deac0c3187d7584ea69f",
+      "crc32": "9a8cb41e",
+      "sha1": "9ee394684a2ad0cb85e38055f41e94acd14f749e",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-26T19:47:20.583079-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828051",
+      "size": "9326",
+      "md5": "05c01253853dbfb74eadaeaeb9cf6938",
+      "crc32": "aff046ef",
+      "sha1": "cd80c20b10fc8e668acbce0b99840d80d7d48cbc",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-26T19:47:20.583079-04:00.jpg",
+      "source": "original",
+      "mtime": "1666828047",
+      "size": "238206",
+      "md5": "c72499b6b019d2692719bc992e5c1f5d",
+      "crc32": "b7c409ae",
+      "sha1": "a7ad7aa8fbb915114adce778c332c47d0fd0237b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cookpolitical-2022-10-26T19:47:20.583079-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828052",
+      "size": "1513",
+      "md5": "e1db45e7c1fe4bbc1246847be085e61f",
+      "crc32": "98532704",
+      "sha1": "208af30e47605ded6886a1b3581b41de95302b2c",
+      "format": "JSON"
+    },
+    {
+      "name": "cookpolitical-2022-10-26T19:47:20.583079-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828054",
+      "size": "398",
+      "md5": "5dba6d14fbcb8e6d74aec08c72414214",
+      "crc32": "0c864205",
+      "sha1": "5b10b4f1d777e2bd75dce0aec6e5eb92d6928d41",
+      "format": "JSON"
+    },
+    {
       "name": "cookpolitical-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f5b7095fa1282093e9589c4a8666599a76b66f1",
-      "mtime": "1666785768",
-      "size": "277397",
-      "md5": "ff593b3d3ab1ecb9328b87add961ad2d",
-      "crc32": "c418237c",
-      "sha1": "119367bb798c2a07432c28e1c1f0227993b91958",
+      "btih": "a6f90cc51bbaf140bd6f4239a54ecaa435ad7ac3",
+      "mtime": "1666828129",
+      "size": "278672",
+      "md5": "6d52433804185a8f62bbddb9555d1440",
+      "crc32": "512a5e13",
+      "sha1": "be007a2373d00fb22f1c511d8148977220668081",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cookpolitical-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "05d52de51a27fc1ad07848708dc7b4ac",
+      "md5": "e6df3333f0010fa4b67053d7f3c6e620",
       "summation": "md5"
     },
     {
       "name": "cookpolitical-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666785720",
-      "size": "1630208",
-      "md5": "5aa02b928433bca338b5d0a951182e1b",
-      "crc32": "27e10dd1",
-      "sha1": "9c0ac1318083e5c204790638143b158c22793b41",
+      "mtime": "1666828079",
+      "size": "1638400",
+      "md5": "63605a8f59b54f2bf773bc1bbf9cbd4f",
+      "crc32": "71b17165",
+      "sha1": "98d497101bd51d93ddd04b3365b0e76ffd1d46cc",
       "format": "Metadata"
     },
     {
@@ -13357,9 +13419,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1289,
-  "item_last_updated": 1666785768,
-  "item_size": 73226282,
+  "files_count": 1295,
+  "item_last_updated": 1666828129,
+  "item_size": 73507662,
   "metadata": {
     "identifier": "cookpolitical-2022",
     "collection": [
@@ -13381,7 +13443,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452872967,
+      "task_id": 3453613966,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13389,7 +13451,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 455506519,
+  "uniq": 2131844841,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666785943,
+  "created": 1666828340,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/expressnews-2022",
@@ -13205,31 +13205,83 @@
       "format": "JSON"
     },
     {
+      "name": "expressnews-2022-10-26T07:04:25.829302-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "expressnews-2022-10-26T07:04:25.829302-05:00.jpg",
+      "mtime": "1666787465",
+      "size": "10288",
+      "md5": "a36b9d27bf072408466515b14bea1bf2",
+      "crc32": "4377c6cd",
+      "sha1": "ef63e43bf87a04a9f9778d20361dc1bdf9ad07c9"
+    },
+    {
+      "name": "expressnews-2022-10-26T18:49:47.538667-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828198",
+      "size": "69209",
+      "md5": "193735c5469277db284edd88673833ff",
+      "crc32": "0cb28758",
+      "sha1": "131069dc6b53e47e85e35c6d5e67fcfb9b85481a",
+      "format": "JSON"
+    },
+    {
+      "name": "expressnews-2022-10-26T18:49:47.538667-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828201",
+      "size": "68689",
+      "md5": "4b0d29284ebb437ffe5a15d419c3275a",
+      "crc32": "ac47b3ba",
+      "sha1": "05be687977b3435519b09d37037150aa3e4fafab",
+      "format": "JSON"
+    },
+    {
+      "name": "expressnews-2022-10-26T18:49:47.538667-05:00.jpg",
+      "source": "original",
+      "mtime": "1666828196",
+      "size": "322649",
+      "md5": "51f553df1329779636ba8465e9cefea8",
+      "crc32": "eccbc693",
+      "sha1": "d3be40fd48fae126c8b55faea70b01cfab2ba26c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "expressnews-2022-10-26T18:49:47.538667-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828205",
+      "size": "1501",
+      "md5": "5b6260b8998bbae95fe482dad1854014",
+      "crc32": "abe0a0a5",
+      "sha1": "233e289ffa511e67b0348ec74e7c57671463d8e5",
+      "format": "JSON"
+    },
+    {
       "name": "expressnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d1567967f07d6fc8fa274e80cf65a96f99b5eae",
-      "mtime": "1666785936",
-      "size": "274514",
-      "md5": "fb5e66a584206330cca39dd2775c0e30",
-      "crc32": "b36aed2e",
-      "sha1": "f036339f3bdfb325ed9cc7b09e9b5c6f6f3273fe",
+      "btih": "ae2ecafdd00e6ac8f5ad1f9bd2706a33d6ad38a2",
+      "mtime": "1666828336",
+      "size": "275589",
+      "md5": "6b61ed083acd7970ae21c73a894d3f9b",
+      "crc32": "5741a3e6",
+      "sha1": "d67ef52b2f76622b311e413a454f0ed47005f74f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "expressnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa09e1b9b3e60ef818e1cd50a2eeb099",
+      "md5": "b2843bb1414eeb85e0b44cd78e944812",
       "summation": "md5"
     },
     {
       "name": "expressnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666785888",
-      "size": "1609728",
-      "md5": "faf4b40a79a6b38a9500eb13b83f1ed4",
-      "crc32": "5007a410",
-      "sha1": "8397a3f969d17152dcffc9cef195312d7c3d4070",
+      "mtime": "1666828281",
+      "size": "1617920",
+      "md5": "88f44ef0cd7a303a6840e587b08e01a8",
+      "crc32": "862014f3",
+      "sha1": "18d42c2a96b9a6854a14b26c0248bc7505e0b991",
       "format": "Metadata"
     },
     {
@@ -13243,9 +13295,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1278,
-  "item_last_updated": 1666785936,
-  "item_size": 117640387,
+  "files_count": 1283,
+  "item_last_updated": 1666828336,
+  "item_size": 118121990,
   "metadata": {
     "identifier": "expressnews-2022",
     "collection": [
@@ -13267,7 +13319,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452875035,
+      "task_id": 3453616542,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13275,7 +13327,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 879760836,
+  "uniq": 147427571,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

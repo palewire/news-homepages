@@ -1,5 +1,5 @@
 {
-  "created": 1666785775,
+  "created": 1666828324,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/desertsunnews-2022",
@@ -4531,31 +4531,93 @@
       "format": "JSON"
     },
     {
+      "name": "desertsunnews-2022-10-26T05:01:34.269498-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-26T05:01:34.269498-07:00.jpg",
+      "mtime": "1666787561",
+      "size": "9412",
+      "md5": "982b39acb279d95ab27cda2b5addd9d8",
+      "crc32": "49492a8f",
+      "sha1": "15529c8ba16931143d6e8b99df94b86c20cdfc07"
+    },
+    {
+      "name": "desertsunnews-2022-10-26T16:50:06.337384-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828210",
+      "size": "19999",
+      "md5": "c33195bf0607c2ab5c5052bb2ef3228c",
+      "crc32": "f09a37a7",
+      "sha1": "d90f695103bf5cc54d95a062408b14af5c47b94c",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-26T16:50:06.337384-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828212",
+      "size": "37658",
+      "md5": "24dafce60e0d7c0d5740ce2947111cdd",
+      "crc32": "8c11a849",
+      "sha1": "c992a5392f4d7b4be991609d6b047d9c50155b66",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-26T16:50:06.337384-07:00.jpg",
+      "source": "original",
+      "mtime": "1666828208",
+      "size": "239067",
+      "md5": "b67f3838902957d43c53ab0c956f4be9",
+      "crc32": "383a6c68",
+      "sha1": "83c0b52a0401e202c3e91d7c9c9cc2e68e24d003",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desertsunnews-2022-10-26T16:50:06.337384-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828214",
+      "size": "1486",
+      "md5": "26c30ab2a8c709c60587080e03d6fe60",
+      "crc32": "a4173700",
+      "sha1": "6d3398d6d0a7d0a3a5647be7097f5b52db31a515",
+      "format": "JSON"
+    },
+    {
+      "name": "desertsunnews-2022-10-26T16:50:06.337384-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828216",
+      "size": "109543",
+      "md5": "dbd1b5e20b490c42bdf3259d4642bb76",
+      "crc32": "571f3d82",
+      "sha1": "733dc774d3f4858fa2cecd25b1dc9deac7eba530",
+      "format": "JSON"
+    },
+    {
       "name": "desertsunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7c545081a5eb9de0f7d4f95a92669a613f5a949",
-      "mtime": "1666785769",
-      "size": "95765",
-      "md5": "70c1b85f7f1b364c326765f7f02a395f",
-      "crc32": "d3cc2dec",
-      "sha1": "a54b08acaec1409f8965ef5a02f8bed00d633ec6",
+      "btih": "24493b9dff32b1215993f768ee52a2b9dfe061a0",
+      "mtime": "1666828321",
+      "size": "97063",
+      "md5": "bacb4eeef68eca98a6c774110b49f386",
+      "crc32": "d3a54849",
+      "sha1": "179a09eb57dcc51e25cedd01143a5d1dd02c74a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desertsunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bae5703ec5b572f38e4148e32631a561",
+      "md5": "c30c9c6e4ec9d5bd73a1e21bedf7da30",
       "summation": "md5"
     },
     {
       "name": "desertsunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666785729",
-      "size": "581632",
-      "md5": "7de34d7bc09b43ba0b069fc33458d55d",
-      "crc32": "899a93bd",
-      "sha1": "9c23dda2d7f054e9c36c7715d89026f2dabd56b2",
+      "mtime": "1666828282",
+      "size": "589824",
+      "md5": "bca3d6f69eaf38b7b11874ef99aa586c",
+      "crc32": "edd491b7",
+      "sha1": "cb4dc97e52d7eb5d84233f348ca4c39df658b978",
       "format": "Metadata"
     },
     {
@@ -4569,9 +4631,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 442,
-  "item_last_updated": 1666785769,
-  "item_size": 29255408,
+  "files_count": 448,
+  "item_last_updated": 1666828321,
+  "item_size": 29682063,
   "metadata": {
     "identifier": "desertsunnews-2022",
     "collection": [
@@ -4593,7 +4655,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452873004,
+      "task_id": 3453616352,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4601,7 +4663,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1355331779,
+  "uniq": 151563140,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
