@@ -1,5 +1,5 @@
 {
-  "created": 1666817413,
+  "created": 1666855522,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/21/items/petoskeynews-2022",
@@ -4521,31 +4521,93 @@
       "format": "JSON"
     },
     {
+      "name": "petoskeynews-2022-10-26T16:47:14.457271-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "petoskeynews-2022-10-26T16:47:14.457271-04:00.jpg",
+      "mtime": "1666836674",
+      "size": "9634",
+      "md5": "c9e0da48b8f68bdc08321616cbed3102",
+      "crc32": "5c75f0c5",
+      "sha1": "c85bf3e3b24a03074a243d79a7ba80193ecb4aeb"
+    },
+    {
+      "name": "petoskeynews-2022-10-27T03:24:09.469936-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855453",
+      "size": "25433",
+      "md5": "ee5aaa6d06d810a8d43a85fa4b7e1f5f",
+      "crc32": "4ebb93c6",
+      "sha1": "16587be6bf0c52179367722581c4864a7f51ffe5",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-27T03:24:09.469936-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855455",
+      "size": "45738",
+      "md5": "cdefe9ad223057d3ca536d40b80b64a3",
+      "crc32": "23985e16",
+      "sha1": "f51d146cb8994856d3ca00c19ea8a8a23309dd90",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-27T03:24:09.469936-04:00.jpg",
+      "source": "original",
+      "mtime": "1666855451",
+      "size": "243971",
+      "md5": "e4eed57c370a76f4abcc526c2d7b00a6",
+      "crc32": "032bca38",
+      "sha1": "50e0824d89310a824bd99c9599a676f523ae6035",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "petoskeynews-2022-10-27T03:24:09.469936-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855457",
+      "size": "1513",
+      "md5": "0c6cc940d74daedc1f5f3e06ef20fa29",
+      "crc32": "e6a94132",
+      "sha1": "cbb986d21571a05dd425bc873a15273ae8f9958e",
+      "format": "JSON"
+    },
+    {
+      "name": "petoskeynews-2022-10-27T03:24:09.469936-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855458",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "petoskeynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f283197dc6befd3927dd37f69c1bea1f0752d68",
-      "mtime": "1666817410",
-      "size": "95166",
-      "md5": "55cca92bf9116774893ba79718554b1b",
-      "crc32": "9990bfdd",
-      "sha1": "cfe115258b9fb38585be647e2cd3319f34e40783",
+      "btih": "d090341fa779319e0e4556db62f86bfbe402dfa5",
+      "mtime": "1666855509",
+      "size": "96435",
+      "md5": "42a42593e3ad856769d7cbc9e1ced2f4",
+      "crc32": "61e43048",
+      "sha1": "cf8fd4580c6f2f66cec01b357247c7988276c606",
       "format": "Archive BitTorrent"
     },
     {
       "name": "petoskeynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8eb2287d16b3dcf6d37a1d584c4cdc4a",
+      "md5": "5c55414004a0610db7a84a0444e74ad9",
       "summation": "md5"
     },
     {
       "name": "petoskeynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666817368",
-      "size": "581632",
-      "md5": "7d5379c580bc6ce94271fea51adc0a6e",
-      "crc32": "a29d39f2",
-      "sha1": "525b06b62b766af404ebb1e42cb398a222130d7f",
+      "mtime": "1666855467",
+      "size": "585728",
+      "md5": "d7329e36e7e4cfe63902465297d39de1",
+      "crc32": "7a867b5f",
+      "sha1": "8dee9c3242733cabfadad3e8fd354c04dc6fcf06",
       "format": "Metadata"
     },
     {
@@ -4559,9 +4621,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 441,
-  "item_last_updated": 1666817410,
-  "item_size": 30517870,
+  "files_count": 447,
+  "item_last_updated": 1666855509,
+  "item_size": 30849726,
   "metadata": {
     "identifier": "petoskeynews-2022",
     "collection": [
@@ -4583,7 +4645,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453341090,
+      "task_id": 3453905834,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4591,7 +4653,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1912763283,
+  "uniq": 1558202899,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666817642,
+  "created": 1666855748,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/11/items/romenewstribune-2022",
@@ -11727,31 +11727,93 @@
       "format": "JSON"
     },
     {
+      "name": "romenewstribune-2022-10-26T16:50:29.481116-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "romenewstribune-2022-10-26T16:50:29.481116-04:00.jpg",
+      "mtime": "1666838123",
+      "size": "9691",
+      "md5": "754f8501240c8cd4a81fdaabd3c94ee5",
+      "crc32": "94aa46cf",
+      "sha1": "126e0a5b25c23782dd3fd18c36f8e9e09e98ce28"
+    },
+    {
+      "name": "romenewstribune-2022-10-27T03:26:22.934880-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855587",
+      "size": "38469",
+      "md5": "abe79ca6d8faec3f5348b98b7d263cfd",
+      "crc32": "090c736f",
+      "sha1": "31e86de93900bac2457902819d8f8de02ebb6c31",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-10-27T03:26:22.934880-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855590",
+      "size": "51242",
+      "md5": "f6241469c52a016e188cafecaac4c891",
+      "crc32": "cc9e2cf9",
+      "sha1": "412b68bf162ce3df4ddd1c3740066f8023b76f16",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-10-27T03:26:22.934880-04:00.jpg",
+      "source": "original",
+      "mtime": "1666855585",
+      "size": "330356",
+      "md5": "61799bf7c25a8b628c5c2397bcb728d7",
+      "crc32": "4f3d383f",
+      "sha1": "08cb9b02973983fbcff66f44f0bfad6b767dd789",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "romenewstribune-2022-10-27T03:26:22.934880-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855592",
+      "size": "1630",
+      "md5": "d1ce797595d447dc9a6d10ab63af45d7",
+      "crc32": "d7eee296",
+      "sha1": "a389da600fd15f268704a6cedd6a7cc958efbcbd",
+      "format": "JSON"
+    },
+    {
+      "name": "romenewstribune-2022-10-27T03:26:22.934880-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855595",
+      "size": "48510",
+      "md5": "94ca57ecfcd47fce70ed20da5bcb4aa3",
+      "crc32": "24e59b8e",
+      "sha1": "9657dd13dfb290e8af012b457315e600b74c1737",
+      "format": "JSON"
+    },
+    {
       "name": "romenewstribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e11c2abd1cd57515f5fb762cbcb26a2973aceea7",
-      "mtime": "1666817636",
-      "size": "248307",
-      "md5": "0ad8af002117e51ec23f9751f91572db",
-      "crc32": "8eabb9ae",
-      "sha1": "982ef3099201351a554ae5375983d2fa9a23af9a",
+      "btih": "dd697bc2a91bec0050ece06402bf743db47aa755",
+      "mtime": "1666855703",
+      "size": "249596",
+      "md5": "21667b3e306bfd50182396526c8f5ec6",
+      "crc32": "623844c2",
+      "sha1": "e4873d7ddcf138ce2d55e08a42bd1283489ee2cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "romenewstribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c40ef95dbd9ea2ee2f9e5a4600f4c924",
+      "md5": "10b93349e92227533aa96be8a3ea13d5",
       "summation": "md5"
     },
     {
       "name": "romenewstribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666817583",
-      "size": "1458176",
-      "md5": "78b7fb6ffb2f46a57a7df4ee38ac7b2d",
-      "crc32": "4fac6f48",
-      "sha1": "f755dea3bdf3e49ac1ac6a8883f390e001b0946d",
+      "mtime": "1666855636",
+      "size": "1462272",
+      "md5": "bd201fecb5c910689467cac315baf9f0",
+      "crc32": "8ed0d03f",
+      "sha1": "366d33627d959763c1a57683e451ed6ce6da229a",
       "format": "Metadata"
     },
     {
@@ -11765,9 +11827,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1137,
-  "item_last_updated": 1666817636,
-  "item_size": 92010939,
+  "files_count": 1143,
+  "item_last_updated": 1666855703,
+  "item_size": 92496222,
   "metadata": {
     "identifier": "romenewstribune-2022",
     "collection": [
@@ -11789,7 +11851,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453347878,
+      "task_id": 3453908675,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11797,7 +11859,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1033541919,
+  "uniq": 2084427571,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

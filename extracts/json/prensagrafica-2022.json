@@ -1,5 +1,5 @@
 {
-  "created": 1666817335,
+  "created": 1666855648,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/25/items/prensagrafica-2022",
@@ -14257,31 +14257,83 @@
       "format": "JSON"
     },
     {
+      "name": "prensagrafica-2022-10-26T14:46:43.509594-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prensagrafica-2022-10-26T14:46:43.509594-06:00.jpg",
+      "mtime": "1666835966",
+      "size": "11775",
+      "md5": "fe2ac316d7dacb25f6b40d3f5f030910",
+      "crc32": "e89a391d",
+      "sha1": "d188ebf3a48ce7f92694be849c513d4ccc45116e"
+    },
+    {
+      "name": "prensagrafica-2022-10-27T01:25:53.302263-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855564",
+      "size": "65797",
+      "md5": "33d689efdb7019bb2f7a351e89167c35",
+      "crc32": "73638c75",
+      "sha1": "80db8e793d54ba547ebadff99c256d7616de82cd",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-10-27T01:25:53.302263-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855565",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-10-27T01:25:53.302263-06:00.jpg",
+      "source": "original",
+      "mtime": "1666855562",
+      "size": "328233",
+      "md5": "0353a2a9eba7dd6cb9316b3afd4f617f",
+      "crc32": "6d37a3ba",
+      "sha1": "d2e883c74fa1345aee8d7b17d72c146176bcc4df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prensagrafica-2022-10-27T01:25:53.302263-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855568",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "prensagrafica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3d19c397648fc22b88c49568a8cab10474179c0",
-      "mtime": "1666817330",
-      "size": "298406",
-      "md5": "85d507797444d524e5bfefe6e30743fb",
-      "crc32": "6ac23296",
-      "sha1": "75c27dccc7607f20e531bac5ff0ca96dcb6adfee",
+      "btih": "77972e9034753a1fb22ca6ed84519643f1380ed1",
+      "mtime": "1666855627",
+      "size": "299483",
+      "md5": "03e97ce224f841689e3e8aa085692284",
+      "crc32": "74f4fd4b",
+      "sha1": "d2370bb990fbf270a79dd2f578da49eef7196b94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prensagrafica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc3e7d702e105146bb1b44e76304611e",
+      "md5": "b2976a961a70ecbe917ed8d2648fc9af",
       "summation": "md5"
     },
     {
       "name": "prensagrafica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666817272",
-      "size": "1720320",
-      "md5": "f2a4898d72bdc85f6262844443ceb14b",
-      "crc32": "a4adaaac",
-      "sha1": "8a65bcf4685d9fe8eb386bb194f23dec01d51819",
+      "mtime": "1666855576",
+      "size": "1724416",
+      "md5": "cda8989bee8ddd38bad9735b761b934f",
+      "crc32": "432c87e2",
+      "sha1": "2ecdaacb558dee9c8a6dcc5d553bd609348fa697",
       "format": "Metadata"
     },
     {
@@ -14295,9 +14347,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1377,
-  "item_last_updated": 1666817330,
-  "item_size": 127538941,
+  "files_count": 1382,
+  "item_last_updated": 1666855627,
+  "item_size": 127950123,
   "metadata": {
     "identifier": "prensagrafica-2022",
     "collection": [
@@ -14319,7 +14371,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453338892,
+      "task_id": 3453907072,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14327,7 +14379,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 173359356,
+  "uniq": 1047064994,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666817232,
+  "created": 1666855411,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/14/items/nextcityorg-2022",
@@ -12913,31 +12913,83 @@
       "format": "JSON"
     },
     {
+      "name": "nextcityorg-2022-10-26T16:43:36.474797-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nextcityorg-2022-10-26T16:43:36.474797-04:00.jpg",
+      "mtime": "1666835918",
+      "size": "11059",
+      "md5": "56fff76b9b7b8455c31d29338f5a86c8",
+      "crc32": "2046a17e",
+      "sha1": "2a61a35770a4c7a91e09ace141eb7c4020e8e66c"
+    },
+    {
+      "name": "nextcityorg-2022-10-27T03:22:20.339516-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855344",
+      "size": "17190",
+      "md5": "18bd7946b2c1973721c0c07de0dd05b3",
+      "crc32": "d2084901",
+      "sha1": "e3f75a6c7189f063ebaa217eee314e8e3c494536",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-10-27T03:22:20.339516-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855349",
+      "size": "18435",
+      "md5": "325682d58ba4dd3a6297ddae7ae061f1",
+      "crc32": "88754c83",
+      "sha1": "3ceda67a75a7d00df1e25b8ab15cfe23ac8960e1",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-10-27T03:22:20.339516-04:00.jpg",
+      "source": "original",
+      "mtime": "1666855342",
+      "size": "339184",
+      "md5": "87bb9d31ca595d6da9770d61fb495a13",
+      "crc32": "028103a0",
+      "sha1": "f7dd26e2ce2db86c0c973250eff3adbf957f7679",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nextcityorg-2022-10-27T03:22:20.339516-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855351",
+      "size": "1441",
+      "md5": "aa090cc89a99a13335597e2b4966a0a7",
+      "crc32": "7056c5f1",
+      "sha1": "bd479b0cbf380a092be2d51a62d583d49b235bff",
+      "format": "JSON"
+    },
+    {
       "name": "nextcityorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e0c9aaba0323086b394df81caa71a555dc2830e6",
-      "mtime": "1666817227",
-      "size": "267815",
-      "md5": "a31f5c79977b370bfc9207f211d30755",
-      "crc32": "4b4b6e3b",
-      "sha1": "8b921d8624942b94173857daab5b4a12aa43296f",
+      "btih": "73a792582f4f5ee8b164b0e79ca0290191af86d6",
+      "mtime": "1666855405",
+      "size": "268870",
+      "md5": "056b78744e65470c98830e571c454ec6",
+      "crc32": "400621fc",
+      "sha1": "c9dad02e1d88a351e449fb33de71767880aebbf3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nextcityorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "45c702e1d9f974506fce9181f56182f7",
+      "md5": "0704a3ea6ab177edc19f04c3a13fffe2",
       "summation": "md5"
     },
     {
       "name": "nextcityorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666817176",
-      "size": "1581056",
-      "md5": "fc3acb39d5f13f3f343e8a3ead61605f",
-      "crc32": "b92a2e0f",
-      "sha1": "cc4147b3f415b4f88dcd72a5974f734d40f21d16",
+      "mtime": "1666855355",
+      "size": "1585152",
+      "md5": "7a99e82042efbe6601a77b987e344859",
+      "crc32": "dd4f63dd",
+      "sha1": "2d1e4cdc4ff55727b93cdc3799f3b091f66da6f3",
       "format": "Metadata"
     },
     {
@@ -12951,9 +13003,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1250,
-  "item_last_updated": 1666817227,
-  "item_size": 94683372,
+  "files_count": 1255,
+  "item_last_updated": 1666855405,
+  "item_size": 95075832,
   "metadata": {
     "identifier": "nextcityorg-2022",
     "collection": [
@@ -12975,7 +13027,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453335792,
+      "task_id": 3453904787,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12983,7 +13035,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2135636385,
+  "uniq": 813814549,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

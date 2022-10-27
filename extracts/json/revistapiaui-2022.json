@@ -1,5 +1,5 @@
 {
-  "created": 1666817432,
+  "created": 1666855662,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/34/items/revistapiaui-2022",
@@ -14205,31 +14205,93 @@
       "format": "JSON"
     },
     {
+      "name": "revistapiaui-2022-10-26T17:46:57.913733-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-10-26T17:46:57.913733-03:00.jpg",
+      "mtime": "1666837524",
+      "size": "8789",
+      "md5": "58b7c23011da6c6f6138a2a1a8bbef66",
+      "crc32": "fb401e5a",
+      "sha1": "ec1abcb102a5a919e149506fb95da68b919c1b35"
+    },
+    {
+      "name": "revistapiaui-2022-10-27T04:26:09.603671-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855578",
+      "size": "21318",
+      "md5": "d3eca4be18da33490e8868a3e70b022b",
+      "crc32": "61e4f38f",
+      "sha1": "5620b8c88aeedb9d3834a3b0ece35a031733a38e",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-10-27T04:26:09.603671-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855580",
+      "size": "30522",
+      "md5": "d27a5157ace498e09cc26a6cbe4a1410",
+      "crc32": "6694cacb",
+      "sha1": "bf2562bd7adde02efc8e71ce8ddae5c8826a6f45",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-10-27T04:26:09.603671-03:00.jpg",
+      "source": "original",
+      "mtime": "1666855576",
+      "size": "249583",
+      "md5": "118efe76da9c7af70d392449b6199c3c",
+      "crc32": "3afec0a3",
+      "sha1": "3eff4d9cd3ad54257220bfaca0a38e0a2f7b7b58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-10-27T04:26:09.603671-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855582",
+      "size": "1531",
+      "md5": "4fe9050f805de779a6d15a054ae05e42",
+      "crc32": "f1d6e8f1",
+      "sha1": "a4a1edb1063d16f2b455018135ca1582dac45add",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-10-27T04:26:09.603671-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855583",
+      "size": "36851",
+      "md5": "16ce93db16f04a740a580821a3ca031c",
+      "crc32": "44850eff",
+      "sha1": "f6212add156e26aa4cca27be8845e1e75986d076",
+      "format": "JSON"
+    },
+    {
       "name": "revistapiaui-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a61947581f75f13fd8a05e170232867bc9dec846",
-      "mtime": "1666817426",
-      "size": "295246",
-      "md5": "0f53513dd7247a2d6dc96fa0c63fc167",
-      "crc32": "b31f4a05",
-      "sha1": "a340b429fe153f88141a7f33b88570948d68198a",
+      "btih": "eef1cdac4b58dfb7a85eb13aeed14d6cae7e0c0a",
+      "mtime": "1666855651",
+      "size": "296517",
+      "md5": "2e62be94c132eda08b7eb3fdca0cbfb3",
+      "crc32": "86e8ee7c",
+      "sha1": "6ebd8f2b0adda800e7afd4e53cdf2b5d65707f7f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistapiaui-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "593bb8f5870f43deef3f592a6d002f37",
+      "md5": "390814c652a576f99651ed5b2f5a9c6c",
       "summation": "md5"
     },
     {
       "name": "revistapiaui-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666817370",
-      "size": "1765376",
-      "md5": "370c648b34405f523ce822cc8678d21f",
-      "crc32": "270a07a4",
-      "sha1": "bf38ae0f39559a4ab091ac7d10486a730e4a8cfe",
+      "mtime": "1666855598",
+      "size": "1769472",
+      "md5": "e849dba152c63ae53be30e9b24c64fdd",
+      "crc32": "086ce2c0",
+      "sha1": "82bb7ca253201636c680855d9161a1e4d945041f",
       "format": "Metadata"
     },
     {
@@ -14243,9 +14305,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1378,
-  "item_last_updated": 1666817426,
-  "item_size": 75962288,
+  "files_count": 1384,
+  "item_last_updated": 1666855651,
+  "item_size": 76316249,
   "metadata": {
     "identifier": "revistapiaui-2022",
     "collection": [
@@ -14267,7 +14329,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453341652,
+      "task_id": 3453907224,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14275,7 +14337,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1292579605,
+  "uniq": 199419061,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

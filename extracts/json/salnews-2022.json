@@ -1,5 +1,5 @@
 {
-  "created": 1666817648,
+  "created": 1666855667,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/31/items/salnews-2022",
@@ -4511,31 +4511,93 @@
       "format": "JSON"
     },
     {
+      "name": "salnews-2022-10-26T13:51:24.959695-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-26T13:51:24.959695-07:00.jpg",
+      "mtime": "1666837761",
+      "size": "8803",
+      "md5": "8e5862f8b7b66ea4b11ba5c46aaee1c7",
+      "crc32": "2ccf6fdd",
+      "sha1": "7422cfde6da76751cc357b1721c818ea72fe79f5"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855612",
+      "size": "21111",
+      "md5": "839c95ab015b05c9abff9e58dd2e806f",
+      "crc32": "6fa44344",
+      "sha1": "41add7b71c44bf0ab4a5a32938cd0ecb70126ab9",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855615",
+      "size": "31205",
+      "md5": "37af102002f07235bca1a597e76f5819",
+      "crc32": "040c399a",
+      "sha1": "244016312e3b219641e74ef4188c567aa963d7ac",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.jpg",
+      "source": "original",
+      "mtime": "1666855610",
+      "size": "209619",
+      "md5": "6932c2e8beba156481aa976bd064f379",
+      "crc32": "3344b2bc",
+      "sha1": "f9bbb6fbec0a40c6af7a247e5bcfb8e2370d9bc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855617",
+      "size": "1531",
+      "md5": "8c4eed318dfed09ca763ba1fd4f991f6",
+      "crc32": "1f1a554a",
+      "sha1": "91574f2d1eb922f4674fc0783b80bcc96d035841",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855618",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "salnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9add029ca0beaf2fc323b6452ba18c60af1b40eb",
-      "mtime": "1666817641",
-      "size": "92559",
-      "md5": "59e95fe7e7f385e96ff92bf3974f52ab",
-      "crc32": "e2b0b149",
-      "sha1": "1302614a28cd255a1d0f5cc59c0a2df4ff02cf87",
+      "btih": "bb0afcffcce0845f8c3d5a2bab5bee74d2a39985",
+      "mtime": "1666855661",
+      "size": "93798",
+      "md5": "5fe9f946dde61b4d854b18ade3248218",
+      "crc32": "0a6eb6fa",
+      "sha1": "492a306f6ef7f5c6367f0e61c17fffef06a56e39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3d7be87f399434e481e17a425d217ead",
+      "md5": "04bbf1581981f141afb0733520882455",
       "summation": "md5"
     },
     {
       "name": "salnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666817592",
-      "size": "569344",
-      "md5": "e0901f5b21772632d61286b67b22c41a",
-      "crc32": "3b767acb",
-      "sha1": "cff077045fb055f5eed7deee06e27c7f2580e693",
+      "mtime": "1666855623",
+      "size": "577536",
+      "md5": "e3f82580333e7fff7d1544041080a4cc",
+      "crc32": "93c6d243",
+      "sha1": "46cbea69b15713ae4c512927b6fa34e35d962573",
       "format": "Metadata"
     },
     {
@@ -4549,9 +4611,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 440,
-  "item_last_updated": 1666817641,
-  "item_size": 27384509,
+  "files_count": 446,
+  "item_last_updated": 1666855661,
+  "item_size": 27666411,
   "metadata": {
     "identifier": "salnews-2022",
     "collection": [
@@ -4573,7 +4635,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453348052,
+      "task_id": 3453907267,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4581,7 +4643,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 845167873,
+  "uniq": 493654753,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
