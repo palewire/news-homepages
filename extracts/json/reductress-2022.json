@@ -1,6 +1,5 @@
 {
-  "conflict": 1666797331,
-  "created": 1666797331,
+  "created": 1666838028,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/34/items/reductress-2022",
@@ -8987,31 +8986,61 @@
       "sha1": "3ca5119a7a333b14e5ad71595b6da4bf5a180104"
     },
     {
+      "name": "reductress-2022-10-26T22:32:31.650091-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837963",
+      "size": "19401",
+      "md5": "3febdb97b2394f096a01f7ae4a712abd",
+      "crc32": "ed9abcdd",
+      "sha1": "a0f6cc673675fd804e758c49d0dccc906a2aa213",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-26T22:32:31.650091-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837965",
+      "size": "1459",
+      "md5": "560ded07356da220bed03523b0d8926e",
+      "crc32": "d74c428c",
+      "sha1": "6df8fccbcbaf563744caea52717d880fc8d807cc",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-26T22:32:31.650091-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837967",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "reductress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b34d0f63cfde5cc3285844889e0f68e46f3fef04",
-      "mtime": "1666797329",
-      "size": "185982",
-      "md5": "c6ce287d513baff226d9d0c97b118642",
-      "crc32": "9126ddc9",
-      "sha1": "fc436e2d456d8627f1f656d56c77ac9898a102f2",
+      "btih": "b085348b6202c6441711fdf75df7ed9fb494b9db",
+      "mtime": "1666838021",
+      "size": "186615",
+      "md5": "db9282785ea8a6172c038cf17a8d1ac1",
+      "crc32": "a865ec24",
+      "sha1": "df6128e6fa2ad9d40676e7b4e10406465f3debc5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reductress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "122afbc0d09552158296f85093347ca5",
+      "md5": "1e7e06f352bcfb74cc567ea5b384dd4b",
       "summation": "md5"
     },
     {
       "name": "reductress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666796311",
-      "size": "1122304",
-      "md5": "2f696e639784f721e1f5cd44c0fb2185",
-      "crc32": "4d7f1320",
-      "sha1": "25c4e1cbfd2b6ef499022b578affc85be4d5c396",
+      "mtime": "1666837974",
+      "size": "1126400",
+      "md5": "35d67315956cfda33845432016be3dd0",
+      "crc32": "7f0fe6fb",
+      "sha1": "8e1e36393a439d5f2b551f767b89c12be09a36b7",
       "format": "Metadata"
     },
     {
@@ -9025,9 +9054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 873,
-  "item_last_updated": 1666797329,
-  "item_size": 58460920,
+  "files_count": 876,
+  "item_last_updated": 1666838021,
+  "item_size": 58486711,
   "metadata": {
     "identifier": "reductress-2022",
     "collection": [
@@ -9049,23 +9078,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3452977756,
+      "task_id": 3453712506,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3452990260,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 122142549,
+  "uniq": 49773117,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

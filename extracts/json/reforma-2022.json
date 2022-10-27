@@ -1,5 +1,5 @@
 {
-  "created": 1666797410,
+  "created": 1666838012,
   "d1": "ia904706.us.archive.org",
   "d2": "ia804706.us.archive.org",
   "dir": "/11/items/reforma-2022",
@@ -8904,31 +8904,82 @@
       "sha1": "34c9a34cf1c5b9c4e2d6886a75b8b47c147347c5"
     },
     {
+      "name": "reforma-2022-10-26T21:32:18.258039-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666837954",
+      "size": "1028",
+      "md5": "ba97e91a3b4a8255bfcff20eb08fa447",
+      "crc32": "fc84e706",
+      "sha1": "53f6dd335a41bd8d27da395e8d3c1700140c700f",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-10-26T21:32:18.258039-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837956",
+      "size": "34274",
+      "md5": "261c3e44d3fff4a4bf1fd52d5b60c449",
+      "crc32": "6e85dd08",
+      "sha1": "6c6005008392501ce8f8d5cdf68fb875930a2f90",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-10-26T21:32:18.258039-05:00.jpg",
+      "source": "original",
+      "mtime": "1666837948",
+      "size": "268676",
+      "md5": "f6c6a8e0a9b89ee822862ad66c71db5d",
+      "crc32": "c5b9a17e",
+      "sha1": "5b751b32630c9025903d975e963c18dadcb96865",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reforma-2022-10-26T21:32:18.258039-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837958",
+      "size": "1441",
+      "md5": "19e85b05c0b0acfa60cbb8b28ab117d1",
+      "crc32": "d0951ab4",
+      "sha1": "af07087f1d2668d4da5cad028dd1dbbbb59c3d6e",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-10-26T21:32:18.258039-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837959",
+      "size": "100",
+      "md5": "f263d74a2cd4585ec83e7b8e3d050af4",
+      "crc32": "468eae90",
+      "sha1": "c838f84c3c043ed16a6394a707c5dc17599a1002",
+      "format": "JSON"
+    },
+    {
       "name": "reforma-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3c24bb37f2a6e02b85b64ea92de77c2c09adc0c6",
-      "mtime": "1666797286",
-      "size": "181364",
-      "md5": "7f4bfda49c0b95cdecfce479962c48c4",
-      "crc32": "92b787d6",
-      "sha1": "206c8a9c4bf2d185a8303a5c80f5d8fec5553637",
+      "btih": "edd1f1563b60a591336c7da53766f87797d53e71",
+      "mtime": "1666838009",
+      "size": "182419",
+      "md5": "311ff5e586df5e19539c4b5e84ca7943",
+      "crc32": "d24a1bbb",
+      "sha1": "a830d3106a36b94fab65220b2fe76f8735993c43",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reforma-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "902ab2468aa90370826b13d4a4d3b63f",
+      "md5": "9a880a4eca1720405bcd56a1a7c8f32e",
       "summation": "md5"
     },
     {
       "name": "reforma-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666796382",
-      "size": "1105920",
-      "md5": "c424f430ca3975218f0d2e4bd8ba84d5",
-      "crc32": "b90718ce",
-      "sha1": "a68faeadc205e773fa4640db564ffb1729abc714",
+      "mtime": "1666837968",
+      "size": "1114112",
+      "md5": "40c46229a0d7cdd93c852731fa84d47f",
+      "crc32": "cbdbe55d",
+      "sha1": "426d86c3bc653c4c85d088da9c68ff555e74df9d",
       "format": "Metadata"
     },
     {
@@ -8942,9 +8993,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 865,
-  "item_last_updated": 1666797286,
-  "item_size": 52880293,
+  "files_count": 870,
+  "item_last_updated": 1666838009,
+  "item_size": 53195059,
   "metadata": {
     "identifier": "reforma-2022",
     "collection": [
@@ -8961,10 +9012,21 @@
     "publicdate": "2022-08-16 17:11:28",
     "addeddate": "2022-08-16 17:11:28"
   },
+  "pending_tasks": true,
   "server": "ia904706.us.archive.org",
-  "uniq": 1440034703,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453712286,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 776116229,
   "workable_servers": [
-    "ia904706.us.archive.org",
-    "ia804706.us.archive.org"
+    "ia904706.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666796695,
+  "created": 1666838882,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/23/items/newsgorkhapatra-2022",
@@ -10712,31 +10712,82 @@
       "sha1": "53af2d963a2f3f5edc9ffc48af10285f95c5426b"
     },
     {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666837552",
+      "size": "88538",
+      "md5": "6781f96c0a0a9711053754d91afa3334",
+      "crc32": "19743b0d",
+      "sha1": "fa0e3aecf2d90ec94ff48fba9cce6f37050275fe",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837553",
+      "size": "68462",
+      "md5": "37743e8ec88ee21340ec621f7062c758",
+      "crc32": "50b260d5",
+      "sha1": "8ed016c8c7705288bb456819a31a06759a563f20",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.jpg",
+      "source": "original",
+      "mtime": "1666837550",
+      "size": "252910",
+      "md5": "9ccf7501f5f4fc9435de2c4cd6105663",
+      "crc32": "1c35ae77",
+      "sha1": "a04adff7bd4b32d920c98e241f8c435993990b65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837555",
+      "size": "1521",
+      "md5": "3fa60b13f77d67c19d5beaeb1f70d34d",
+      "crc32": "7329a4d0",
+      "sha1": "6148b1767ec777259a10c5cc191ceba927ea5e70",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666837558",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "newsgorkhapatra-2022_archive.torrent",
       "source": "metadata",
-      "btih": "25898f8e13b47f9f121b1e3c37c402e071bf2e98",
-      "mtime": "1666796681",
-      "size": "227151",
-      "md5": "e5de573ee1acb8e39bd2cbaace4f242c",
-      "crc32": "58b2bd1a",
-      "sha1": "ea3bebdfa8563f63833e7807b7128e37f804ef15",
+      "btih": "3bb8870739f330aff46bd4cfcda15970dca853b1",
+      "mtime": "1666837610",
+      "size": "228247",
+      "md5": "da520d0e6f11cd71958feae47c263f08",
+      "crc32": "b5224475",
+      "sha1": "13935a3f59557c629818ad621448fc85bc67c987",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsgorkhapatra-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0513461b65ce63ccd3de7bac41a7ee15",
+      "md5": "a5c3c39b12da077ca9ae95114c62f123",
       "summation": "md5"
     },
     {
       "name": "newsgorkhapatra-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666796072",
-      "size": "1343488",
-      "md5": "2cbfa5b916f5d2dcf22e47f877d4b7ee",
-      "crc32": "d69ac4e2",
-      "sha1": "b692f8b4e82827148f013fbe83c80e3f3ef83d9c",
+      "mtime": "1666837565",
+      "size": "1351680",
+      "md5": "d57425fd8d43f5d6c8380344f1038a9f",
+      "crc32": "0fb3d43c",
+      "sha1": "9ab060d4e529ca7594c7a92050be448dd32fd7ca",
       "format": "Metadata"
     },
     {
@@ -10750,9 +10801,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1040,
-  "item_last_updated": 1666796681,
-  "item_size": 79711177,
+  "files_count": 1045,
+  "item_last_updated": 1666837610,
+  "item_size": 80132098,
   "metadata": {
     "identifier": "newsgorkhapatra-2022",
     "collection": [
@@ -10769,10 +10820,26 @@
     "publicdate": "2022-07-24 20:39:26",
     "addeddate": "2022-07-24 20:39:26"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 396459914,
+  "newsgorkhapatra-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453707620,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 592888792,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

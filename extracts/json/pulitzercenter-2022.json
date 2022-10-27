@@ -1,5 +1,5 @@
 {
-  "created": 1666797201,
+  "created": 1666839007,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -12766,31 +12766,82 @@
       "sha1": "ee49482e4dbe77347120e9602fa4d8dadc88367a"
     },
     {
+      "name": "pulitzercenter-2022-10-26T22:28:55.389513-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666837762",
+      "size": "7937",
+      "md5": "182384d49802537f237260e4241b257d",
+      "crc32": "767b68ec",
+      "sha1": "7571a336d7d915825cdd97bc6d619df7ca7aad91",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-10-26T22:28:55.389513-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837767",
+      "size": "15781",
+      "md5": "f38af49efac0f254d38ae204b84d470d",
+      "crc32": "b000c552",
+      "sha1": "1f45e7c0868f7ad2b67d32ed1643b867f03733bc",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-10-26T22:28:55.389513-04:00.jpg",
+      "source": "original",
+      "mtime": "1666837759",
+      "size": "236758",
+      "md5": "d0951f79680aeceee7bfde9f2578b0c4",
+      "crc32": "2b9b2587",
+      "sha1": "9f078b1eeb547529d99860a6f731456b99673fdf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-10-26T22:28:55.389513-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837769",
+      "size": "1494",
+      "md5": "4fec184a7d667f0e835d7d376aa54304",
+      "crc32": "7f7b0554",
+      "sha1": "237fbd07fdd4ae1727db094fe1790ecfbe516eaa",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-10-26T22:28:55.389513-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837773",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "318dd7edbab790fb2ccb7b899bb8b813cc1e841e",
-      "mtime": "1666797178",
-      "size": "266653",
-      "md5": "2c11e2943c041b4ad6cffce84b2ad2b2",
-      "crc32": "7d1bb753",
-      "sha1": "0861ba360f90ab08561acbfc5467cace469fb29b",
+      "btih": "20ef0b571a67e7d3aa87db6eea1e42d5f42d7b54",
+      "mtime": "1666837849",
+      "size": "267743",
+      "md5": "fb3f956f3538a427b9fba38e5f05f78f",
+      "crc32": "2d3a9866",
+      "sha1": "95fa158d7187aa8242707c91782effea4eb73ebd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61680e3609cefdbc5cfcb2edc01f9be4",
+      "md5": "6df0458dee11eddd73eee8d759cbbf06",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666796384",
-      "size": "1564672",
-      "md5": "fe1c8fe1239da694d90a26856d424e20",
-      "crc32": "ac48ff70",
-      "sha1": "669595582710e005caa73d41820ccc4a4a494805",
+      "mtime": "1666837795",
+      "size": "1572864",
+      "md5": "a5cc64ddce4572b9b3af7ad274f3aaa2",
+      "crc32": "af741fb8",
+      "sha1": "c26dbe8f1c8dd40b256411e019603e6a1b361080",
       "format": "Metadata"
     },
     {
@@ -12804,9 +12855,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1236,
-  "item_last_updated": 1666797178,
-  "item_size": 57226954,
+  "files_count": 1241,
+  "item_last_updated": 1666837849,
+  "item_size": 57498408,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -12823,10 +12874,26 @@
     "publicdate": "2022-07-09 04:01:52",
     "addeddate": "2022-07-09 04:01:52"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 598214287,
+  "pending_tasks": true,
+  "pulitzercenter-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3453710340,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1990493407,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }
