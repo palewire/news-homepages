@@ -1,5 +1,5 @@
 {
-  "created": 1666842113,
+  "created": 1666883548,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/9/items/thebabylonbee-2022",
@@ -9295,31 +9295,83 @@
       "format": "JSON"
     },
     {
+      "name": "thebabylonbee-2022-10-26T23:40:25.961573-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-10-26T23:40:25.961573-04:00.jpg",
+      "mtime": "1666866541",
+      "size": "10155",
+      "md5": "d3766cff6d91b4a1983253cac0d8439e",
+      "crc32": "36b2f2ed",
+      "sha1": "b350db675b8eb9d4c8a79ba2bbb54ff26c3db413"
+    },
+    {
+      "name": "thebabylonbee-2022-10-27T11:11:01.886506-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883473",
+      "size": "25964",
+      "md5": "6ffdcd645af79c429e2bb574fcd03f7a",
+      "crc32": "d5308593",
+      "sha1": "7bcc147e6dc8b96b76d4ab66cb23890fe7b8dd7d",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-27T11:11:01.886506-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883476",
+      "size": "23299",
+      "md5": "424c5b4cd1a7ab50115264977528d666",
+      "crc32": "85852ea8",
+      "sha1": "7d1602e1aacdc1614b90c7f2523bc9084453b36d",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-27T11:11:01.886506-04:00.jpg",
+      "source": "original",
+      "mtime": "1666883471",
+      "size": "367200",
+      "md5": "3462df3c483768563e144bd6d6e372c9",
+      "crc32": "1598088f",
+      "sha1": "ce55c362543d97b3fb48f0267eb4bdc60e9f75b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-10-27T11:11:01.886506-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883479",
+      "size": "1459",
+      "md5": "02e9967c31f74729ebf0e5b6e30871f2",
+      "crc32": "8d394bf9",
+      "sha1": "6bfd609eba075ee48a101f08d38a10d2be32d967",
+      "format": "JSON"
+    },
+    {
       "name": "thebabylonbee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d57d4ff7e98aff786c4fd388509181e422228738",
-      "mtime": "1666842108",
-      "size": "194313",
-      "md5": "220d34f574d703d2c7a500da1b35c42a",
-      "crc32": "242c6dbf",
-      "sha1": "eb806b6bea64948954320e9f7b795eb6d72e1a83",
+      "btih": "41b3e1406250211ec9b5a0b789d9f994a7fa98e3",
+      "mtime": "1666883540",
+      "size": "195398",
+      "md5": "435efd6f78dfd50bcecee061a63d52b0",
+      "crc32": "a4fab572",
+      "sha1": "a65b016bce3acd5288bfbfd0f77e978bcdf9be5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebabylonbee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1eb7614ebb3161c210108643a71dbd31",
+      "md5": "584a20d207d625ba4319b1094026c49a",
       "summation": "md5"
     },
     {
       "name": "thebabylonbee-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666842060",
-      "size": "1138688",
-      "md5": "69d5e2e85a8710c2743e43c72ea06129",
-      "crc32": "b1e42201",
-      "sha1": "ad807928e98d454ea490bd813a3197127e7c57ea",
+      "mtime": "1666883488",
+      "size": "1142784",
+      "md5": "9b403becf827c9508ecd4a570381cbba",
+      "crc32": "31fb1f81",
+      "sha1": "3f2a91afc8d37e3bff2707cc2a6ea25620988fbf",
       "format": "Metadata"
     },
     {
@@ -9333,9 +9385,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 900,
-  "item_last_updated": 1666842108,
-  "item_size": 69496769,
+  "files_count": 905,
+  "item_last_updated": 1666883540,
+  "item_size": 69930027,
   "metadata": {
     "identifier": "thebabylonbee-2022",
     "collection": [
@@ -9357,7 +9409,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453753775,
+      "task_id": 3454197222,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9365,7 +9417,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 871557218,
+  "uniq": 1468070752,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

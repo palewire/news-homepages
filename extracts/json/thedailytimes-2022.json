@@ -1,5 +1,5 @@
 {
-  "created": 1666844894,
+  "created": 1666883564,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/thedailytimes-2022",
@@ -4531,31 +4531,93 @@
       "format": "JSON"
     },
     {
+      "name": "thedailytimes-2022-10-26T21:40:07.984426-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailytimes-2022-10-26T21:40:07.984426-06:00.jpg",
+      "mtime": "1666866728",
+      "size": "9438",
+      "md5": "a1ea39a163681eeaf01ba91ade6c2fff",
+      "crc32": "a62a4111",
+      "sha1": "216af4db84783eaf41155fe9c913cc6ce1b32bc6"
+    },
+    {
+      "name": "thedailytimes-2022-10-27T09:11:28.993386-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883495",
+      "size": "21908",
+      "md5": "4ef8447dbdbec4d1ecd668df641b5120",
+      "crc32": "e76b7845",
+      "sha1": "db35df0c421b35d89d089b6418ff531c6b54a7e2",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-27T09:11:28.993386-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883497",
+      "size": "39560",
+      "md5": "6bc36f182c3fca25880fe2e7f427e59e",
+      "crc32": "3e5816f4",
+      "sha1": "ea72316df094dcdda2bc7b48e8af080ecdfce5f4",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-27T09:11:28.993386-06:00.jpg",
+      "source": "original",
+      "mtime": "1666883493",
+      "size": "276577",
+      "md5": "8866bd2748f9d6a9c099b77baa99e73c",
+      "crc32": "b605587c",
+      "sha1": "aa113892bd27b97c15b9c30dc3c78aa415c7d3ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailytimes-2022-10-27T09:11:28.993386-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883501",
+      "size": "1503",
+      "md5": "816ab5eaf3fad45b1694aa2ed2db1aee",
+      "crc32": "68893e6a",
+      "sha1": "12f99460002f39e90f3ca96fa40159c5429e077e",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailytimes-2022-10-27T09:11:28.993386-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883503",
+      "size": "88461",
+      "md5": "abdaf69a304759f094975a0459213076",
+      "crc32": "8ad6fdeb",
+      "sha1": "c2c4ffbfa4fcaf62cc3d3709d745cf3637f00ba7",
+      "format": "JSON"
+    },
+    {
       "name": "thedailytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4c5899048eebf378dd5227b3225072e520f3eca",
-      "mtime": "1666842069",
-      "size": "95728",
-      "md5": "6bde616a204d9a6fb7c834ae4a6345a5",
-      "crc32": "a9ed441e",
-      "sha1": "a3257b377f6186693229996aaf7beae1d7f683c2",
+      "btih": "db7f9450ab8212bad1564eb59d333dfe1b7d7339",
+      "mtime": "1666883550",
+      "size": "97025",
+      "md5": "f4c9ea8a401e5ff500df92344548440c",
+      "crc32": "bdbf57e9",
+      "sha1": "29d1ec03805a0c3f750213f65b7b4d25bc519861",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fda270140ac0d823f0a79af08bd311ad",
+      "md5": "13d578966a1f83e676ddc4493922be36",
       "summation": "md5"
     },
     {
       "name": "thedailytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666842031",
-      "size": "581632",
-      "md5": "ddb4a3efbd724868e16775cf0d34563f",
-      "crc32": "047909e7",
-      "sha1": "449f145de9e558ae0bc2acf401746bfcd4d0f1a0",
+      "mtime": "1666883511",
+      "size": "589824",
+      "md5": "11d10dcb2ceb406488c49a317be2c031",
+      "crc32": "aac91286",
+      "sha1": "3e4a88cdccf8ea583f9b2b832db7deb6af313b03",
       "format": "Metadata"
     },
     {
@@ -4569,9 +4631,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 442,
-  "item_last_updated": 1666842069,
-  "item_size": 28631851,
+  "files_count": 448,
+  "item_last_updated": 1666883550,
+  "item_size": 29078787,
   "metadata": {
     "identifier": "thedailytimes-2022",
     "collection": [
@@ -4593,7 +4655,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453753350,
+      "task_id": 3454197380,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4601,12 +4663,7 @@
       "status": "queued"
     }
   ],
-  "thedailytimes-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1700658048,
+  "uniq": 1614884609,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

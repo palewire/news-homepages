@@ -1,5 +1,5 @@
 {
-  "created": 1666841875,
+  "created": 1666886821,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/30/items/tcpalm-2022",
@@ -4499,31 +4499,93 @@
       "format": "JSON"
     },
     {
+      "name": "tcpalm-2022-10-26T23:36:55.936706-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tcpalm-2022-10-26T23:36:55.936706-04:00.jpg",
+      "mtime": "1666866289",
+      "size": "9451",
+      "md5": "f3777f321538bb5010f77c7f9af3ea24",
+      "crc32": "0568b263",
+      "sha1": "f355b25adddc3f5247ae735204d48c6f957c70e8"
+    },
+    {
+      "name": "tcpalm-2022-10-27T11:07:28.332402-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883255",
+      "size": "23661",
+      "md5": "98a5f722bd7d5692519e32278d13e102",
+      "crc32": "3d9722b6",
+      "sha1": "b1f8621226d70cf5d2902bbbf9507310fd1b64a5",
+      "format": "JSON"
+    },
+    {
+      "name": "tcpalm-2022-10-27T11:07:28.332402-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883257",
+      "size": "51951",
+      "md5": "5b764087919de1f9d2cff84a63a22fcf",
+      "crc32": "66cd1009",
+      "sha1": "80cdb53925292e46705e036c535e122802cce41d",
+      "format": "JSON"
+    },
+    {
+      "name": "tcpalm-2022-10-27T11:07:28.332402-04:00.jpg",
+      "source": "original",
+      "mtime": "1666883253",
+      "size": "246597",
+      "md5": "639f5bcbe5ee49cb8f9e182446c48ed9",
+      "crc32": "6214ea28",
+      "sha1": "7d713a2b297c1f989c07f8375be837edbbe92406",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tcpalm-2022-10-27T11:07:28.332402-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883259",
+      "size": "1459",
+      "md5": "02b1f577f8557fc10b4b885694014707",
+      "crc32": "46092ebc",
+      "sha1": "2d0c419188131aaaf7c1bfc4ec422aa538286cf5",
+      "format": "JSON"
+    },
+    {
+      "name": "tcpalm-2022-10-27T11:07:28.332402-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883261",
+      "size": "203",
+      "md5": "fd17d460737506b3f675c274c470701f",
+      "crc32": "1cb878f5",
+      "sha1": "169e40862839219d56a05da08565d13344c8e317",
+      "format": "JSON"
+    },
+    {
       "name": "tcpalm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cefb4b903f2420d32f416eedf876d0d1d0c26918",
-      "mtime": "1666841871",
-      "size": "92004",
-      "md5": "9fba047c62e03a4bd52d2255efcdcf3b",
-      "crc32": "07177a3d",
-      "sha1": "c36633e78f4cc8f506ed537642fd8b78b2e6e20a",
+      "btih": "8147b4cd3d39fb4bdbd8ae959c95aeeeea8e1639",
+      "mtime": "1666883306",
+      "size": "93257",
+      "md5": "1f976e34320646b578e5379bc86a4219",
+      "crc32": "ccc5ba37",
+      "sha1": "9a93a806432c883ee45b6f4219334406d2c2bb8a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tcpalm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3dae2e46737917ee42dd59ab1b26385e",
+      "md5": "d1b82b2e5eeca5bb0cc2469bc9f77cbe",
       "summation": "md5"
     },
     {
       "name": "tcpalm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666841833",
-      "size": "569344",
-      "md5": "f6bc0cd1098a4476890545d344b0b70a",
-      "crc32": "16cb3b42",
-      "sha1": "a2afbc28a6942d382620774c409ab1fe9443d646",
+      "mtime": "1666883267",
+      "size": "577536",
+      "md5": "3dff7e0a0b1333b4968b75f942c71fd8",
+      "crc32": "1c6cdd4c",
+      "sha1": "4db994d0e859705985f789e4aaadb9e061bd6616",
       "format": "Metadata"
     },
     {
@@ -4537,9 +4599,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 439,
-  "item_last_updated": 1666841871,
-  "item_size": 29333067,
+  "files_count": 445,
+  "item_last_updated": 1666883306,
+  "item_size": 29675834,
   "metadata": {
     "identifier": "tcpalm-2022",
     "collection": [
@@ -4561,7 +4623,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453751150,
+      "task_id": 3454194473,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4569,7 +4631,15 @@
       "status": "queued"
     }
   ],
-  "uniq": 173660788,
+  "tcpalm-2022": {
+    "url": "https://www.tcpalm.com/",
+    "job_id": "spn2-d73ec69ea40f181148095ea764a815d570d415a2",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
+  "uniq": 440379175,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

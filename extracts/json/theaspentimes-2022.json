@@ -1,5 +1,5 @@
 {
-  "created": 1666842401,
+  "created": 1666883508,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/theaspentimes-2022",
@@ -7995,31 +7995,83 @@
       "format": "JSON"
     },
     {
+      "name": "theaspentimes-2022-10-26T21:40:15.527738-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theaspentimes-2022-10-26T21:40:15.527738-06:00.jpg",
+      "mtime": "1666866741",
+      "size": "9633",
+      "md5": "2504f3cdd0ca3efcf5526444bea5acf1",
+      "crc32": "40fbd55a",
+      "sha1": "2954e8c1f5e851f209bfc1ffd60f4b7169542e46"
+    },
+    {
+      "name": "theaspentimes-2022-10-27T09:10:38.273002-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883446",
+      "size": "17958",
+      "md5": "2fd6277f6babf8f1f4578266572c9d81",
+      "crc32": "a500a7e4",
+      "sha1": "54ac82c4c4453c5f6d752613872e4bf99149a80c",
+      "format": "JSON"
+    },
+    {
+      "name": "theaspentimes-2022-10-27T09:10:38.273002-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883449",
+      "size": "26653",
+      "md5": "30bffe782f91574632b9faa421bfc26b",
+      "crc32": "e6fac0cd",
+      "sha1": "874cde19a787c7ee34142fb032eeeb66f0cd40d4",
+      "format": "JSON"
+    },
+    {
+      "name": "theaspentimes-2022-10-27T09:10:38.273002-06:00.jpg",
+      "source": "original",
+      "mtime": "1666883443",
+      "size": "252124",
+      "md5": "e040d94c70fe7ee64e01c50eb8aaa785",
+      "crc32": "7d9ae455",
+      "sha1": "4ff08bd6723b54d2598cddfbf3f1f0e8bf32b758",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theaspentimes-2022-10-27T09:10:38.273002-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883458",
+      "size": "1494",
+      "md5": "9015c32ca133b712369fa713721271aa",
+      "crc32": "3a405533",
+      "sha1": "12cf21fdb281a9c5f5c10d7bba86e581a52a4ac2",
+      "format": "JSON"
+    },
+    {
       "name": "theaspentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "24945eb3109cfe1fda87e910706a140f13ebe225",
-      "mtime": "1666842391",
-      "size": "167506",
-      "md5": "04e73f46b94d0a02184282fd73b87ae0",
-      "crc32": "110f069a",
-      "sha1": "aeb6ed374c822858cc713516cb8561b6b7d02c60",
+      "btih": "94931097b378e2b7f4d51924f8783a223ea0591a",
+      "mtime": "1666883504",
+      "size": "168570",
+      "md5": "6407b7796d24931bc5060ee5f5616feb",
+      "crc32": "3f49fcb6",
+      "sha1": "42f35d6c26afe80ce9d317c68889e1d11d1bfe48",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theaspentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8268f1f65f1157a63cfc7640daddcfb9",
+      "md5": "043bb2f7c497b33bcb21b878cd000edc",
       "summation": "md5"
     },
     {
       "name": "theaspentimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666842383",
-      "size": "1007616",
-      "md5": "82924dd0f9e220b45850235376304270",
-      "crc32": "51ae4d4d",
-      "sha1": "a9622070c45e7a4ae4b541341d0b04736157e12e",
+      "mtime": "1666883462",
+      "size": "1011712",
+      "md5": "5cd1ad0bcb0f302dc7d1be3bd3d61525",
+      "crc32": "b42f92a2",
+      "sha1": "22a3c0d4f35f450fd6da6cd42b27bdca09aee369",
       "format": "Metadata"
     },
     {
@@ -8033,9 +8085,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 777,
-  "item_last_updated": 1666842391,
-  "item_size": 43332481,
+  "files_count": 782,
+  "item_last_updated": 1666883504,
+  "item_size": 43645503,
   "metadata": {
     "identifier": "theaspentimes-2022",
     "collection": [
@@ -8057,7 +8109,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453756485,
+      "task_id": 3454196689,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8065,7 +8117,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 169488426,
+  "uniq": 820730753,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

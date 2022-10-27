@@ -1,5 +1,5 @@
 {
-  "created": 1666842231,
+  "created": 1666887338,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/8/items/times_mail-2022",
@@ -4509,31 +4509,93 @@
       "format": "JSON"
     },
     {
+      "name": "times_mail-2022-10-26T23:42:52.388435-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "times_mail-2022-10-26T23:42:52.388435-04:00.jpg",
+      "mtime": "1666866752",
+      "size": "9441",
+      "md5": "f5af3f2fca1b90c7cf874eb09dc19651",
+      "crc32": "f68a1201",
+      "sha1": "c8b13e7b58d4a6c15fe7e5c1a3041fc6f972d959"
+    },
+    {
+      "name": "times_mail-2022-10-27T11:13:46.508340-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883634",
+      "size": "23852",
+      "md5": "37702fd0af9bf8f6ffe6f747e727d46e",
+      "crc32": "c1b7705e",
+      "sha1": "5becf74e2f8b74e2cdf96f1059e6c72129826033",
+      "format": "JSON"
+    },
+    {
+      "name": "times_mail-2022-10-27T11:13:46.508340-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883636",
+      "size": "35951",
+      "md5": "d2311c69e2a14f76fdc25e79e9999728",
+      "crc32": "c914e292",
+      "sha1": "529b35f46f40a33291291598d417e4290bd93ad2",
+      "format": "JSON"
+    },
+    {
+      "name": "times_mail-2022-10-27T11:13:46.508340-04:00.jpg",
+      "source": "original",
+      "mtime": "1666883632",
+      "size": "338185",
+      "md5": "7777c18c1b8166ebe4e99ee2249643ff",
+      "crc32": "e5de263a",
+      "sha1": "900fd405b9be064837c183a3dc48e91d7fe4a89b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "times_mail-2022-10-27T11:13:46.508340-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883638",
+      "size": "1531",
+      "md5": "1cb9ab34c485c088a2820ead0ead170a",
+      "crc32": "1f88317c",
+      "sha1": "21137625ae53945d85464c38aa5babb9febda27d",
+      "format": "JSON"
+    },
+    {
+      "name": "times_mail-2022-10-27T11:13:46.508340-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883641",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "times_mail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b8306d07dd33f0d741a7981717136246642715a",
-      "mtime": "1666842228",
-      "size": "94033",
-      "md5": "eaa8f3f503acb6ad340365f867fa4f13",
-      "crc32": "efaa1659",
-      "sha1": "8db8e146a7488011bfddbbcb185c04424474bf29",
+      "btih": "2622da92b0d078c0970be10ec2fd98169fe6173f",
+      "mtime": "1666883688",
+      "size": "95310",
+      "md5": "cccc6f2ac10ad8bd78e3a5163816374b",
+      "crc32": "55825128",
+      "sha1": "c917a83bba27041c88cf113560e5a90c36c620a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "times_mail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec4790d47fe7c47bc44fbbf12738135a",
+      "md5": "bae67c121049a865da70163ebc6c86d6",
       "summation": "md5"
     },
     {
       "name": "times_mail-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666842192",
-      "size": "581632",
-      "md5": "33d4488bc23fad0b3df6f925d903cb13",
-      "crc32": "25bc1c7d",
-      "sha1": "c9a37fc9ac8a64d8a5c647bdd95a9a34a612278e",
+      "mtime": "1666883648",
+      "size": "585728",
+      "md5": "eedd6bb4bc359e41a597cc7e87446ee4",
+      "crc32": "92f7eec0",
+      "sha1": "53f320b6484254152a9a54bae3db52f12d858171",
       "format": "Metadata"
     },
     {
@@ -4547,9 +4609,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 440,
-  "item_last_updated": 1666842228,
-  "item_size": 29766320,
+  "files_count": 446,
+  "item_last_updated": 1666883688,
+  "item_size": 30180855,
   "metadata": {
     "identifier": "times_mail-2022",
     "collection": [
@@ -4571,7 +4633,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453754977,
+      "task_id": 3454198695,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4579,7 +4641,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 384204471,
+  "times_mail-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 689154773,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

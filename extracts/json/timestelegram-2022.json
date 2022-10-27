@@ -1,5 +1,5 @@
 {
-  "created": 1666842260,
+  "created": 1666883693,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/timestelegram-2022",
@@ -4521,31 +4521,82 @@
       "format": "JSON"
     },
     {
+      "name": "timestelegram-2022-10-26T23:43:24.090643-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timestelegram-2022-10-26T23:43:24.090643-04:00.jpg",
+      "mtime": "1666866783",
+      "size": "9583",
+      "md5": "5d632766e729d102b540021aefea89bc",
+      "crc32": "f4277c3e",
+      "sha1": "5ada4f6269161b69f9453d533a80e31c87998282"
+    },
+    {
+      "name": "timestelegram-2022-10-27T11:13:54.182704-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883636",
+      "size": "23838",
+      "md5": "036501cede9eb189de9192e06f295cd6",
+      "crc32": "d4d96645",
+      "sha1": "bb31d77dea66010b9be564a3c3eab8bc1957f451",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-27T11:13:54.182704-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883640",
+      "size": "34249",
+      "md5": "2455d71f1a4cf462912e3bdac0707986",
+      "crc32": "7fd44dd0",
+      "sha1": "8284efb5cd5e7ec9c6c1cc3a2fefe27884dfb77c",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-27T11:13:54.182704-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883643",
+      "size": "1522",
+      "md5": "1721a978e6bfadb4020c87b6af090d77",
+      "crc32": "8ebca8a7",
+      "sha1": "798fb34312cac7bcdab8672546de7da23a3a3438",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-27T11:13:54.182704-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883645",
+      "size": "96025",
+      "md5": "cfcaafb50b46cd3386e1fe64c52a973f",
+      "crc32": "879026bb",
+      "sha1": "08e554a0141dc21067b54693dcb0218deb5b08a8",
+      "format": "JSON"
+    },
+    {
       "name": "timestelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4dd93544c44e8d1c368848b9cdb051bc59998403",
-      "mtime": "1666842257",
-      "size": "95553",
-      "md5": "84bc19e828fca6c5a38d29af3a910e33",
-      "crc32": "7dfe9c2b",
-      "sha1": "ea8fe36152878e68255c679bdadf63ef95aa1b9f",
+      "btih": "ae5169de98738112eef2e16078e79b1eb813217c",
+      "mtime": "1666883688",
+      "size": "96625",
+      "md5": "9f94b8029ed4f84a8bc05c7bb3c86774",
+      "crc32": "22c20498",
+      "sha1": "ae25db5d4f60ce6c3c435abd0667d45fde004d11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timestelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "07d33ca99ae2653264645dbbab726082",
+      "md5": "ca1120520db7c32575af53b279a95780",
       "summation": "md5"
     },
     {
       "name": "timestelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666842219",
-      "size": "581632",
-      "md5": "71bf6dcd6b053926c3716650af6a0eae",
-      "crc32": "d93e6ffa",
-      "sha1": "21f3d987302e3ebf88bb855e8133b45e49679fc0",
+      "mtime": "1666883650",
+      "size": "585728",
+      "md5": "a73adaf564496ff1eac33102f6aa63ed",
+      "crc32": "8c297fc0",
+      "sha1": "094caf4cea827a4acd78a40e754630a915cb68da",
       "format": "Metadata"
     },
     {
@@ -4559,9 +4610,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 441,
-  "item_last_updated": 1666842257,
-  "item_size": 29772406,
+  "files_count": 446,
+  "item_last_updated": 1666883688,
+  "item_size": 29942791,
   "metadata": {
     "identifier": "timestelegram-2022",
     "collection": [
@@ -4583,7 +4634,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453755270,
+      "task_id": 3454198707,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4591,7 +4642,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1716022546,
+  "uniq": 240662272,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

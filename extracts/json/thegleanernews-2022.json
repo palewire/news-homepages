@@ -1,5 +1,5 @@
 {
-  "created": 1666842095,
+  "created": 1666883497,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/thegleanernews-2022",
@@ -4531,31 +4531,93 @@
       "format": "JSON"
     },
     {
+      "name": "thegleanernews-2022-10-26T22:40:33.751630-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-26T22:40:33.751630-05:00.jpg",
+      "mtime": "1666866512",
+      "size": "9355",
+      "md5": "589e85b51e41af7b490329e1d6538de8",
+      "crc32": "d9cecac1",
+      "sha1": "8151be166a7a6a03068331fdc917c81c1264250e"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883439",
+      "size": "20747",
+      "md5": "5986b4b445155024376b2ebeafd736c2",
+      "crc32": "e0c2e31f",
+      "sha1": "29fcb55b19cb273ead4a9960893173a851df45bf",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883441",
+      "size": "32189",
+      "md5": "4521fc4d90d86c7c0128075e21ca7d60",
+      "crc32": "aada55c9",
+      "sha1": "65a0d652f98bc77337bbeebed850883ce0fbe47f",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.jpg",
+      "source": "original",
+      "mtime": "1666883437",
+      "size": "233921",
+      "md5": "35ec891e2fe034b990092bae59b6000b",
+      "crc32": "0848de3d",
+      "sha1": "3171e72e118ee661642af3519f2e913de97ffbb5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883444",
+      "size": "1495",
+      "md5": "430a325def1ff48d4928de78a924b361",
+      "crc32": "205c4cab",
+      "sha1": "cc6f00c073eba3de0a712040b5500cfd05d50a71",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883446",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thegleanernews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37d0c9d9c98680bd90d94c58918977461b1dd635",
-      "mtime": "1666842089",
-      "size": "96091",
-      "md5": "782e75d010d4fdbd033f2ee71616e2af",
-      "crc32": "140063ca",
-      "sha1": "07faf6e2ef6ab3388fbf5a03d340a11734036faa",
+      "btih": "b8fc8f45c614a47200dbb90520714f42ed8ead30",
+      "mtime": "1666883491",
+      "size": "97392",
+      "md5": "746de6a3ae4d17b9a1f239c9bbcbcc88",
+      "crc32": "24837cfb",
+      "sha1": "80ff1167cd8a97d1270ddd1ad6900d021e936804",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegleanernews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3de6169cc1cd2dcfe4282e1b0a0ffda2",
+      "md5": "1753d89ab136d761dd4be46a420c80b3",
       "summation": "md5"
     },
     {
       "name": "thegleanernews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666842051",
-      "size": "581632",
-      "md5": "235bfa3d39c751548902b8c49cbaf74a",
-      "crc32": "b0b50856",
-      "sha1": "634bb7f0492bd9a541c7eb6787ca693db251937e",
+      "mtime": "1666883451",
+      "size": "589824",
+      "md5": "2fcc0edf662ef3e34071c9edbcb53f05",
+      "crc32": "c1764c30",
+      "sha1": "c89788450b452ff664f158f793446838535b5de5",
       "format": "Metadata"
     },
     {
@@ -4569,9 +4631,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 442,
-  "item_last_updated": 1666842089,
-  "item_size": 27154684,
+  "files_count": 448,
+  "item_last_updated": 1666883491,
+  "item_size": 27462086,
   "metadata": {
     "identifier": "thegleanernews-2022",
     "collection": [
@@ -4593,7 +4655,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453753569,
+      "task_id": 3454196489,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4601,7 +4663,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 229248392,
+  "uniq": 999275582,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

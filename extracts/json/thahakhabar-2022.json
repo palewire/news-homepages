@@ -1,5 +1,5 @@
 {
-  "created": 1666841913,
+  "created": 1666886984,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/12/items/thahakhabar-2022",
@@ -10733,31 +10733,93 @@
       "format": "JSON"
     },
     {
+      "name": "thahakhabar-2022-10-27T09:22:10.833727+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thahakhabar-2022-10-27T09:22:10.833727+05:45.jpg",
+      "mtime": "1666866448",
+      "size": "9629",
+      "md5": "5aeddff2575e16674006930a68ffa502",
+      "crc32": "faded6d6",
+      "sha1": "e1abf6ea08cc11b960f775b2403b312c616d64dc"
+    },
+    {
+      "name": "thahakhabar-2022-10-27T20:52:33.577813+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666883277",
+      "size": "80191",
+      "md5": "2034fd04d03abf84241668764354306f",
+      "crc32": "a1a6a0a7",
+      "sha1": "eb223c9d0555d6010be0ea9d5c6dd66f2d698cac",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-27T20:52:33.577813+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883279",
+      "size": "52479",
+      "md5": "28c956a3836decc80dd5d74b28f2297a",
+      "crc32": "d42bd4a2",
+      "sha1": "f947c93504804b52f78c814e94b615f67fa94bc4",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-27T20:52:33.577813+05:45.jpg",
+      "source": "original",
+      "mtime": "1666883274",
+      "size": "252811",
+      "md5": "cbb2433271573af0170b69a28a173c85",
+      "crc32": "e9fd6ad5",
+      "sha1": "ba5a4400b2ba71d81f97adcb7b6c2331efbd1245",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thahakhabar-2022-10-27T20:52:33.577813+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883281",
+      "size": "1504",
+      "md5": "593b35bdcac9b02ec44f73860c3f4f10",
+      "crc32": "eddd3549",
+      "sha1": "49bb553475540ec8261760ea996e6447a0bf55ba",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-27T20:52:33.577813+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666883283",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thahakhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fdc17feb08b0ee28e383a49e3813c19834c1b4a2",
-      "mtime": "1666841904",
-      "size": "222260",
-      "md5": "5c5aa1e4e67d89f4cd6dc19ea92ea52f",
-      "crc32": "d00e84f6",
-      "sha1": "6a2257d719ef51ac506f64a291244faa75f066e1",
+      "btih": "4f8c5b826321f6d864a38126830d4cf90c17f29c",
+      "mtime": "1666883343",
+      "size": "223543",
+      "md5": "e3dd46bd90ff3bd873023bc27ce625d8",
+      "crc32": "3ac5e4c5",
+      "sha1": "d099ad1e4d4cea6748a0d5748388ed0767e697d3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thahakhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d94cc4b748bba3e57697d111446af779",
+      "md5": "2ee6b8ce9233e56272902a5d7a501ac5",
       "summation": "md5"
     },
     {
       "name": "thahakhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666841856",
-      "size": "1306624",
-      "md5": "1d64b1fccfb796e54fcdda040fc0f2c4",
-      "crc32": "d6e15949",
-      "sha1": "17ca87edd28bc86c9ae856b2b4f469b69a523e98",
+      "mtime": "1666883294",
+      "size": "1314816",
+      "md5": "c66a53d30760f8592d6450c662deefba",
+      "crc32": "c528ebaf",
+      "sha1": "c5afe3f7ee990e95a7d9f90807599781165dc9e4",
       "format": "Metadata"
     },
     {
@@ -10771,9 +10833,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1039,
-  "item_last_updated": 1666841904,
-  "item_size": 72204841,
+  "files_count": 1045,
+  "item_last_updated": 1666883343,
+  "item_size": 72611132,
   "metadata": {
     "identifier": "thahakhabar-2022",
     "collection": [
@@ -10795,7 +10857,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453751617,
+      "task_id": 3454194924,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10803,7 +10865,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 737311574,
+  "thahakhabar-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1666066210,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
