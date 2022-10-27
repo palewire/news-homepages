@@ -1,5 +1,5 @@
 {
-  "created": 1666718165,
+  "created": 1666850560,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/21/items/gosanangelo-2022",
@@ -4397,31 +4397,217 @@
       "format": "JSON"
     },
     {
+      "name": "gosanangelo-2022-10-25T12:15:02.741725-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gosanangelo-2022-10-25T12:15:02.741725-05:00.jpg",
+      "mtime": "1666718788",
+      "size": "9289",
+      "md5": "918b7098603ffaa68bc22ac6295e0dbe",
+      "crc32": "6bf30dc0",
+      "sha1": "8766aa0183c2344cf199adf343af08ac50d6fd07"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T01:50:10.368231-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666767015",
+      "size": "19572",
+      "md5": "1a6316882b95b4adb5b2af5555fad8bc",
+      "crc32": "55a94d25",
+      "sha1": "88c5bd43fd5e88da689a32cb96bb154da0793ce2",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T01:50:10.368231-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666767018",
+      "size": "28507",
+      "md5": "04bc30cb0233f58811bc27454a207712",
+      "crc32": "1cc91b27",
+      "sha1": "e6fe365c7e29f7cd47ac3e82be5fd74d6295a019",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T01:50:10.368231-05:00.jpg",
+      "source": "original",
+      "mtime": "1666767013",
+      "size": "203777",
+      "md5": "c4685cf82314347d316e364459d99508",
+      "crc32": "b2ae5e74",
+      "sha1": "85116bcc20faea09aa3791cea6691dc742ec8c11",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T01:50:10.368231-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666767019",
+      "size": "1502",
+      "md5": "d9f68054575f5e80fbed8da894a0e13f",
+      "crc32": "14ec892f",
+      "sha1": "cb0d8309de3cfcf5db25169aa60356d2dfeb7c0b",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T01:50:10.368231-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666767021",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T01:50:10.368231-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gosanangelo-2022-10-26T01:50:10.368231-05:00.jpg",
+      "mtime": "1666767917",
+      "size": "8756",
+      "md5": "794e277331971794ec244bcdec3513ba",
+      "crc32": "385ff761",
+      "sha1": "c83954d71a59b8093295ba0e98fe1a0a54fc0ba4"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T14:19:48.701819-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666812005",
+      "size": "19052",
+      "md5": "75a6efc6dec34cdb385637ea2f13de62",
+      "crc32": "1b1050a2",
+      "sha1": "457241578e4b3865fbe0bdefa7372d6ca4b6da66",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T14:19:48.701819-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666812008",
+      "size": "29879",
+      "md5": "f9476dde1260748a1a546a2ab642df48",
+      "crc32": "4b17365d",
+      "sha1": "3b11a668a4ca93b46f03ec2e761c27734a0958f4",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T14:19:48.701819-05:00.jpg",
+      "source": "original",
+      "mtime": "1666812001",
+      "size": "269493",
+      "md5": "cd9ae6351fbf0189f649576eed8387a8",
+      "crc32": "c7e3801e",
+      "sha1": "6c6aa4a7a409c67b2b6f52afe6cd03cb366e46fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T14:19:48.701819-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666812012",
+      "size": "1504",
+      "md5": "488c71d20f67503a3f2ee9b4139cf6a5",
+      "crc32": "b26cdd94",
+      "sha1": "8beb0d552d8fd6602f615f998ddc190cb9a36d29",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T14:19:48.701819-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666812020",
+      "size": "80252",
+      "md5": "c3d4813757e47c77b991554b2fbaaf31",
+      "crc32": "36fe870e",
+      "sha1": "88e4fe7e7d04b2496f2a0b1ad27ac09ef00354b2",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-26T14:19:48.701819-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gosanangelo-2022-10-26T14:19:48.701819-05:00.jpg",
+      "mtime": "1666821336",
+      "size": "9248",
+      "md5": "e4ccd8563925da8e8b4a1b98f5601adf",
+      "crc32": "c2216539",
+      "sha1": "eb37c9887d2e0d3eb127c49c3fa7ed891eae0282"
+    },
+    {
+      "name": "gosanangelo-2022-10-27T01:01:22.134376-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666850490",
+      "size": "19708",
+      "md5": "4910e402054f87d5003c066f2bc47a02",
+      "crc32": "89c6cf51",
+      "sha1": "1bbff401654bceb1ab6e6af37402a802b85ec5f9",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-27T01:01:22.134376-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666850492",
+      "size": "27850",
+      "md5": "13f44ecdb887a94381cc45a72c6cd803",
+      "crc32": "8ee37cb4",
+      "sha1": "c183621c2446ba3fc4045934482f46d0d64694df",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-27T01:01:22.134376-05:00.jpg",
+      "source": "original",
+      "mtime": "1666850488",
+      "size": "242023",
+      "md5": "138211a1602ff5ed66aa744955a50ca0",
+      "crc32": "58f2c891",
+      "sha1": "4b18cc27e4a73564e9831a578ffa405aa4e49927",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gosanangelo-2022-10-27T01:01:22.134376-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666850494",
+      "size": "1504",
+      "md5": "5937bac541ff16d4b534b25756aefe95",
+      "crc32": "ef079c3b",
+      "sha1": "898684831005402e47c1618007d93004678edada",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-10-27T01:01:22.134376-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666850496",
+      "size": "74843",
+      "md5": "bd0cb744bbdc088346534f57df0c4b64",
+      "crc32": "7cc380ec",
+      "sha1": "5271b49254251048684f579a9c708d1ecb6f5a02",
+      "format": "JSON"
+    },
+    {
       "name": "gosanangelo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5bdc1637622544d3db9de38f12c1b8fa0652f93",
-      "mtime": "1666718161",
-      "size": "92047",
-      "md5": "c8e441fe23ebf539505caeadc442fa5f",
-      "crc32": "a8f0e98b",
-      "sha1": "96f384626c46e6a1816a5c0ed2a658dc55a09054",
+      "btih": "bea9e3a312401d1a17d33f68af23d7f00399f1a7",
+      "mtime": "1666850555",
+      "size": "95880",
+      "md5": "bb337e2e8c749bf8132433ad567048a7",
+      "crc32": "0fd3d31f",
+      "sha1": "2b0c96017cbd99b3939a40e14b8559057bc2684f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gosanangelo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0d5a535335f388f8d254129fe17634d3",
+      "md5": "461da343a5968b1f0e0d46beef307cef",
       "summation": "md5"
     },
     {
       "name": "gosanangelo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666718123",
-      "size": "565248",
-      "md5": "b9bd7055998c7c4d7da8301464d0fbb3",
-      "crc32": "56a30374",
-      "sha1": "a5465ccea4b59623cd8b2ed6cff0052bebb469c9",
+      "mtime": "1666850507",
+      "size": "585728",
+      "md5": "04b5339d4282463c95157ee364daed60",
+      "crc32": "731f616d",
+      "sha1": "fb1a74a2c8bcc3e894617039f366f0f084959467",
       "format": "Metadata"
     },
     {
@@ -4435,9 +4621,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 429,
-  "item_last_updated": 1666718161,
-  "item_size": 27169324,
+  "files_count": 447,
+  "item_last_updated": 1666850555,
+  "item_size": 28240598,
   "metadata": {
     "identifier": "gosanangelo-2022",
     "collection": [
@@ -4459,7 +4645,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451847687,
+      "task_id": 3453853362,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4467,7 +4653,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1011010232,
+  "uniq": 284562756,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

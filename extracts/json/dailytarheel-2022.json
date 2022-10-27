@@ -1,7 +1,12 @@
 {
-  "created": 1666717977,
+  "created": 1666855135,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
+  "dailytarheel-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/19/items/dailytarheel-2022",
   "files": [
     {
@@ -12757,31 +12762,217 @@
       "format": "JSON"
     },
     {
+      "name": "dailytarheel-2022-10-25T13:11:46.408396-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailytarheel-2022-10-25T13:11:46.408396-04:00.jpg",
+      "mtime": "1666718728",
+      "size": "9516",
+      "md5": "649dcabc46e6670a5711db63d2ae7730",
+      "crc32": "2a7b3578",
+      "sha1": "1982adb7d6146906fc8b77f414b8c2677d2e4ddb"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T02:44:44.292284-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666766693",
+      "size": "30761",
+      "md5": "5e46bb34e8051fb9e259992cf48a5d06",
+      "crc32": "b84888fd",
+      "sha1": "9d6310929c24a3c65df752a779a1e18f771ce8b3",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T02:44:44.292284-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666766695",
+      "size": "28764",
+      "md5": "bb1d12426f1616a621baf3db5045bedb",
+      "crc32": "ac583791",
+      "sha1": "e1c5c5d01afe442556916880da9ea94d8e9d82b3",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T02:44:44.292284-04:00.jpg",
+      "source": "original",
+      "mtime": "1666766691",
+      "size": "355765",
+      "md5": "507ecee7c030fe821398d31bfe1121b8",
+      "crc32": "9de5ffe5",
+      "sha1": "ed18f0a734b42554142b29a79406bfff2817ef48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T02:44:44.292284-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666766697",
+      "size": "1511",
+      "md5": "7bb53e0dbff784d853868798b9222ac8",
+      "crc32": "22d92e05",
+      "sha1": "831bf50ee04ad6109d698e8db5308dc3ccc7bf18",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T02:44:44.292284-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666766698",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T02:44:44.292284-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailytarheel-2022-10-26T02:44:44.292284-04:00.jpg",
+      "mtime": "1666768872",
+      "size": "9414",
+      "md5": "95cd3bd5b96c5846cdfb70770da09cc9",
+      "crc32": "d51fa7e7",
+      "sha1": "7da003a4091a8eda9ed23b4e1a147bb3257b1d25"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T15:12:14.621135-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666811548",
+      "size": "30841",
+      "md5": "6b595c04af9033d7f61ccb6e029f523b",
+      "crc32": "6a70a4f3",
+      "sha1": "eb47bbbaadf550ca0ffb2a8daa6088c91acee5de",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T15:12:14.621135-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666811552",
+      "size": "28888",
+      "md5": "b909e5fd5cb48ab0249d3f7e46ba41aa",
+      "crc32": "094eb802",
+      "sha1": "8967ba9a25c22eadba0e8211311a1e4593c13eaa",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T15:12:14.621135-04:00.jpg",
+      "source": "original",
+      "mtime": "1666811545",
+      "size": "350044",
+      "md5": "8e4991cff028b4fd4f2e1597d83c9f50",
+      "crc32": "d23e62fe",
+      "sha1": "389673912368361fdd9870d06373a8ebf1ce51ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T15:12:14.621135-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666811556",
+      "size": "1512",
+      "md5": "dee51d18b6105ac2558daed0883eb864",
+      "crc32": "25303546",
+      "sha1": "97cb8441c9eb03773e623b80f18df2eec40e828a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T15:12:14.621135-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666811559",
+      "size": "395",
+      "md5": "f64c514c3182282900d50ea14234cab9",
+      "crc32": "d37d935d",
+      "sha1": "e58bfe16e37480f8227467383071f91a63166bb0",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-26T15:12:14.621135-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailytarheel-2022-10-26T15:12:14.621135-04:00.jpg",
+      "mtime": "1666819964",
+      "size": "9582",
+      "md5": "633e299e4c690af753316c24f579746a",
+      "crc32": "c597f506",
+      "sha1": "a7057a574ee85f2833f4f578517ea30dc1493baf"
+    },
+    {
+      "name": "dailytarheel-2022-10-27T01:57:03.606922-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666850228",
+      "size": "30925",
+      "md5": "54bc834bc3cfcbaebc29ac93f7aa9385",
+      "crc32": "0352a5ec",
+      "sha1": "9486fa48ce1face927fb7d7594ee274e99acbfff",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-27T01:57:03.606922-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666850230",
+      "size": "29189",
+      "md5": "2b858acc1cb9c7de9f41971ef66f7447",
+      "crc32": "93e158ee",
+      "sha1": "1b559a5d3d5504f30463f5ad2396ec65adfae01e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-27T01:57:03.606922-04:00.jpg",
+      "source": "original",
+      "mtime": "1666850226",
+      "size": "318467",
+      "md5": "fe87157637a0ac54c161f8f42c650854",
+      "crc32": "9bf03308",
+      "sha1": "158e6f578d5658dc754ce754f30fdfcbc47c22a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailytarheel-2022-10-27T01:57:03.606922-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666850232",
+      "size": "1511",
+      "md5": "df758c643fcc2a1e8b2de08b61b6842f",
+      "crc32": "66b31d04",
+      "sha1": "2ce723009c7e67d093d6345c3a757cce0dbf1f87",
+      "format": "JSON"
+    },
+    {
+      "name": "dailytarheel-2022-10-27T01:57:03.606922-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666850235",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "dailytarheel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c8381e2bff2264b40d4d64ba39070c905eb0b9a",
-      "mtime": "1666717971",
-      "size": "265742",
-      "md5": "225d54abb51c1dea2ed02a3f2430b89a",
-      "crc32": "7647c93c",
-      "sha1": "89bef319b1e7e8d9c8005598cf08a587e409e59c",
+      "btih": "78981c9bdd7888db0a63e9ebce0204f3184e69cc",
+      "mtime": "1666850286",
+      "size": "269589",
+      "md5": "74a89c1c9ae72fe5044a5ea9a638d2e0",
+      "crc32": "16cb5eb3",
+      "sha1": "42802718de1a6fea4c880b8e76489a87e2bf47a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailytarheel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0202f92eb8aa770158864fd7b99cee4",
+      "md5": "ed6cd2bc368b831d5dbbf2175a7f7805",
       "summation": "md5"
     },
     {
       "name": "dailytarheel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666717925",
-      "size": "1564672",
-      "md5": "9067dc83e1b6e49f2a14957e3a6429e7",
-      "crc32": "ce588326",
-      "sha1": "0a4dd2c6bb11ed86b81fe066d76fc44183555b62",
+      "mtime": "1666850238",
+      "size": "1585152",
+      "md5": "9d1cd32c6a5dcf9c93751abf602fe33d",
+      "crc32": "0e7f5642",
+      "sha1": "472ec84bd46643f65fa55ca95c49d663f83f7c94",
       "format": "Metadata"
     },
     {
@@ -12795,9 +12986,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1235,
-  "item_last_updated": 1666717971,
-  "item_size": 97262953,
+  "files_count": 1253,
+  "item_last_updated": 1666850286,
+  "item_size": 98524769,
   "metadata": {
     "identifier": "dailytarheel-2022",
     "collection": [
@@ -12819,7 +13010,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451844262,
+      "task_id": 3453849122,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12827,7 +13018,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 598500268,
+  "uniq": 1167235352,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

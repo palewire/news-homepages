@@ -1,8 +1,13 @@
 {
-  "created": 1666718119,
+  "created": 1666855264,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/3/items/enca-2022",
+  "enca-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -7869,31 +7874,217 @@
       "format": "JSON"
     },
     {
+      "name": "enca-2022-10-25T19:14:03.676322+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enca-2022-10-25T19:14:03.676322+02:00.jpg",
+      "mtime": "1666718793",
+      "size": "9613",
+      "md5": "5e0ac544787d068e38ffd62bd2e4d6c6",
+      "crc32": "97813b95",
+      "sha1": "eb38a1fbfa83125cdb6e730d3a331175f59b126a"
+    },
+    {
+      "name": "enca-2022-10-26T08:47:44.129255+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666766869",
+      "size": "18939",
+      "md5": "4f477bc424f642f610784b079eecf2cf",
+      "crc32": "bb077857",
+      "sha1": "0d8c30b495f494b7dba53b97032b8b31fa482c04",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-26T08:47:44.129255+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666766871",
+      "size": "40165",
+      "md5": "0d6bcda2ce44f0c769aa843a1a91c2d2",
+      "crc32": "0b103d23",
+      "sha1": "26eea55155f8eb7b44eb601cb62f1954369e35a4",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-26T08:47:44.129255+02:00.jpg",
+      "source": "original",
+      "mtime": "1666766868",
+      "size": "264604",
+      "md5": "9af5a591a1dc580e944efb9318218f1c",
+      "crc32": "4a556103",
+      "sha1": "89f03cba7e5f801951d107e84e1a3f63d26c316a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enca-2022-10-26T08:47:44.129255+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666766873",
+      "size": "1440",
+      "md5": "a75cc71cc0fe4736d0f18e78c11fc7ae",
+      "crc32": "a78c9863",
+      "sha1": "631e9a89da30a9b718bb2f453277a65f077d562d",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-26T08:47:44.129255+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666766875",
+      "size": "14884",
+      "md5": "d7f76bb927434c0e2da4cf8216ad0dee",
+      "crc32": "c18d9caa",
+      "sha1": "7e8c89414665b07ae4a944f55838b29cfeffadd7",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-26T08:47:44.129255+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enca-2022-10-26T08:47:44.129255+02:00.jpg",
+      "mtime": "1666767724",
+      "size": "9762",
+      "md5": "8fec8bdbceafaaff231b93b36660adcc",
+      "crc32": "bf8b1728",
+      "sha1": "75aa1dcc6583f72a52331d46f22a586b882e22cd"
+    },
+    {
+      "name": "enca-2022-10-26T21:15:24.311393+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666811732",
+      "size": "19750",
+      "md5": "8099e2a3077696d78de269aab6fa2daf",
+      "crc32": "d9a03c20",
+      "sha1": "6a5841f87042b24a24f0313d95166daeb713f495",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-26T21:15:24.311393+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666811737",
+      "size": "41464",
+      "md5": "e577169c17055df49e71f63804e0070b",
+      "crc32": "d61e53e2",
+      "sha1": "5d9f78acc056d1a7eae74f2cc3d9f1db27665fa7",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-26T21:15:24.311393+02:00.jpg",
+      "source": "original",
+      "mtime": "1666811730",
+      "size": "270219",
+      "md5": "ceddb902134e81cf7474e0e57be2520c",
+      "crc32": "d0b80450",
+      "sha1": "b4e975c074586a58ecd5a7fbd3ffb7ccf0686946",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enca-2022-10-26T21:15:24.311393+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666811740",
+      "size": "1440",
+      "md5": "31d7ce0f42300534797e9e90c96216c7",
+      "crc32": "ed1ec274",
+      "sha1": "89410bc4264f684db2facf818dcae3793ee18ff8",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-26T21:15:24.311393+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666811743",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-26T21:15:24.311393+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enca-2022-10-26T21:15:24.311393+02:00.jpg",
+      "mtime": "1666820950",
+      "size": "9869",
+      "md5": "3582ff06c3425a7085f8f91f11d52de6",
+      "crc32": "78cc3d25",
+      "sha1": "e4ccf70b150eadc8984e304832099da7d49b4435"
+    },
+    {
+      "name": "enca-2022-10-27T07:59:28.206615+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666850375",
+      "size": "19342",
+      "md5": "98fc3192c86182b192f11009300883b7",
+      "crc32": "970226ea",
+      "sha1": "7334804b8c20a9ce444199aceb661db57d231321",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-27T07:59:28.206615+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666850376",
+      "size": "41214",
+      "md5": "3d3f9540a0b60742e68652670dea1a1d",
+      "crc32": "50ed5983",
+      "sha1": "a20c0ac5ce816114af41ecf3f8657c6f2252e9b7",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-27T07:59:28.206615+02:00.jpg",
+      "source": "original",
+      "mtime": "1666850373",
+      "size": "270763",
+      "md5": "8e44c5c93c2bd1b7fd27e4701f16e3fd",
+      "crc32": "6d61d943",
+      "sha1": "b8c6673ea2d1567da1e9980273b59a2e0f3f137b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enca-2022-10-27T07:59:28.206615+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666850378",
+      "size": "1441",
+      "md5": "db3b84a1bbc0575d84d8063d0cd0740f",
+      "crc32": "eacefe41",
+      "sha1": "98b4b0b4a6081a9536cb11001c46c1e59fe1ad45",
+      "format": "JSON"
+    },
+    {
+      "name": "enca-2022-10-27T07:59:28.206615+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666850380",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "enca-2022_archive.torrent",
       "source": "metadata",
-      "btih": "574f659ad2796fec456fb2165038e7635275185c",
-      "mtime": "1666718112",
-      "size": "158179",
-      "md5": "551f6428a65d017b766908a39d2eeffd",
-      "crc32": "822d428c",
-      "sha1": "2d60ba312149a9a2f5c3e3ce12ca71a23c758ec0",
+      "btih": "61aab7427ed8aff0ad11ac86edbba75889c8ec1b",
+      "mtime": "1666850426",
+      "size": "161885",
+      "md5": "f65a2d9722b77a737a564daced2a6526",
+      "crc32": "30b7497f",
+      "sha1": "5608c8de794ca3e6d22812b7b53b5f3dc4b1eb1e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enca-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "99890eb46b7edc3528534b70c68e04d4",
+      "md5": "3956f3866ae1886edd168a3111c600aa",
       "summation": "md5"
     },
     {
       "name": "enca-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666718067",
-      "size": "978944",
-      "md5": "9cd7ba049d56911614bc5f268cca0d8f",
-      "crc32": "6c2ee9fe",
-      "sha1": "2185ccd202a19aa8c916ccaac64891c98d4f09af",
+      "mtime": "1666850385",
+      "size": "1003520",
+      "md5": "bd93a6b4867875dd00f1fd0198c06d13",
+      "crc32": "8dd6f8ba",
+      "sha1": "b9bb7b7058b53de5f68f0669140a58975c81a070",
       "format": "Metadata"
     },
     {
@@ -7907,9 +8098,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 765,
-  "item_last_updated": 1666718112,
-  "item_size": 47138642,
+  "files_count": 783,
+  "item_last_updated": 1666850426,
+  "item_size": 48202237,
   "metadata": {
     "identifier": "enca-2022",
     "collection": [
@@ -7931,7 +8122,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451846989,
+      "task_id": 3453850587,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7939,7 +8130,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1163503913,
+  "uniq": 493763221,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]
