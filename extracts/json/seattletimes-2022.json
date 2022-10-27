@@ -1,5 +1,5 @@
 {
-  "created": 1666855729,
+  "created": 1666898989,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/2/items/seattletimes-2022",
@@ -13101,31 +13101,93 @@
       "format": "JSON"
     },
     {
+      "name": "seattletimes-2022-10-27T00:27:43.944669-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seattletimes-2022-10-27T00:27:43.944669-07:00.jpg",
+      "mtime": "1666878251",
+      "size": "9033",
+      "md5": "773e68802cc661f82774fcfa5c5e0155",
+      "crc32": "5ac3e0da",
+      "sha1": "ea7cdf000ebd1d40a12d18b78f051b798b4f2c38"
+    },
+    {
+      "name": "seattletimes-2022-10-27T12:28:22.354423-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898925",
+      "size": "461",
+      "md5": "ca57780a0329138ce8fdda2c74ea4884",
+      "crc32": "4cd99f24",
+      "sha1": "17b3479386d7201735e46b37dbeeff04cce4f5f4",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-27T12:28:22.354423-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898928",
+      "size": "49153",
+      "md5": "ba41eaa3c5dbfd2440687f980528b5ab",
+      "crc32": "d6ca1d77",
+      "sha1": "9fd4472c88a50f6352d0d954a4259d039498f823",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-27T12:28:22.354423-07:00.jpg",
+      "source": "original",
+      "mtime": "1666898922",
+      "size": "303945",
+      "md5": "bf912975e2a251527f519768cc6f1040",
+      "crc32": "d533995f",
+      "sha1": "c6c82ed4f696bb921b6331d6e4f9f598f0c257c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seattletimes-2022-10-27T12:28:22.354423-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898929",
+      "size": "1513",
+      "md5": "eeb658192e976ecba1c1e857a192213a",
+      "crc32": "c09224f0",
+      "sha1": "f751fb14534dadd779a85d63fa75c3a4b3b72545",
+      "format": "JSON"
+    },
+    {
+      "name": "seattletimes-2022-10-27T12:28:22.354423-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898931",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "seattletimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98c6c5cf6ba6340c844c5085a9a19c260e88e5fe",
-      "mtime": "1666855725",
-      "size": "271760",
-      "md5": "14c75fb901be7e8c6d58b27df4f05aa9",
-      "crc32": "81021aa8",
-      "sha1": "e7c911eaea2ea40b369fa96b7a8d4a60b3b5d4b9",
+      "btih": "6ae7baf8a4410b1412f0cbb59b949197dbe1277f",
+      "mtime": "1666898983",
+      "size": "273047",
+      "md5": "1585483d88610dcc1193e16a38c0d95f",
+      "crc32": "9293e07d",
+      "sha1": "93a453e7f254a643eb239474251687e9a62fd618",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seattletimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3d8eb64749ad5382bd64942d1064829",
+      "md5": "e744bb817ac2feca777b88c1134ad85a",
       "summation": "md5"
     },
     {
       "name": "seattletimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855676",
-      "size": "1601536",
-      "md5": "f17fe72b053049d91af8f2ebcc6d114e",
-      "crc32": "0dee4d6d",
-      "sha1": "99dae61df2f3c3f27397b4fe73af6cfb95a6917b",
+      "mtime": "1666898934",
+      "size": "1605632",
+      "md5": "54fcb6513a23a47010c09ab126ec05d9",
+      "crc32": "18646ca3",
+      "sha1": "b9f7b6d794b925a4798b47f949a6e16c6cd3472f",
       "format": "Metadata"
     },
     {
@@ -13139,9 +13201,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1268,
-  "item_last_updated": 1666855725,
-  "item_size": 86235533,
+  "files_count": 1274,
+  "item_last_updated": 1666898983,
+  "item_size": 86605223,
   "metadata": {
     "identifier": "seattletimes-2022",
     "collection": [
@@ -13163,7 +13225,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453907803,
+      "task_id": 3454358403,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13171,7 +13233,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 118126631,
+  "uniq": 1594897918,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

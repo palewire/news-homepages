@@ -1,5 +1,5 @@
 {
-  "created": 1666855585,
+  "created": 1666898744,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/prisonjourn-2022",
@@ -7591,31 +7591,93 @@
       "format": "JSON"
     },
     {
+      "name": "prisonjourn-2022-10-27T02:25:09.782835-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-27T02:25:09.782835-05:00.jpg",
+      "mtime": "1666878252",
+      "size": "9554",
+      "md5": "73aa826953ff23e1c2bf1d8f234b9873",
+      "crc32": "0b56d965",
+      "sha1": "149f3ecd35714d004e631d086fcf8be8f07aaec0"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898669",
+      "size": "17576",
+      "md5": "8e4e8e2bc57abbe2cc110e487c65d688",
+      "crc32": "3ffd90bb",
+      "sha1": "1a0fb9367d289a1b3c818dcec9da583e8b116e58",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898671",
+      "size": "27796",
+      "md5": "ca6560eab1fcf209b789f09c335c4bf4",
+      "crc32": "7d4e37fb",
+      "sha1": "0fccd046dfe04248c07100edac45e47fe10fb074",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.jpg",
+      "source": "original",
+      "mtime": "1666898667",
+      "size": "230173",
+      "md5": "f9f154e31f94615468e9fb270bf5a226",
+      "crc32": "bfed7d38",
+      "sha1": "0a5369c061f295d38c4d2b84de07eff61105813c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898676",
+      "size": "1567",
+      "md5": "a84a17ee5002339e342de196d9910312",
+      "crc32": "3c5e56f4",
+      "sha1": "6ef0e4ffdc6cd9334bd61f32c9893197064f07a1",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898677",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "prisonjourn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "464f602a23aa8530b66528588057b21be84f883c",
-      "mtime": "1666855577",
-      "size": "157575",
-      "md5": "a3dd97b327124f08dd4365a04c1f548e",
-      "crc32": "69a3db3a",
-      "sha1": "27cb0197b0a501c8fc5a9cb4835d8b0911d7009f",
+      "btih": "16dc0e46bb6bd27bf46efcf36190328d1a3d0633",
+      "mtime": "1666898739",
+      "size": "158838",
+      "md5": "8fb8cbd1319bbe4ab689fd146fbc597d",
+      "crc32": "4a253c3e",
+      "sha1": "9da5fd68a15f84c7a40a60c9ca3a54055057377d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prisonjourn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9d27b24e916ad46fef954eb58be5381",
+      "md5": "c90812e420c5bcee3fcc0da792cb76de",
       "summation": "md5"
     },
     {
       "name": "prisonjourn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855532",
-      "size": "954368",
-      "md5": "5ccd0a7c41d74b050f3ea9f3f265c794",
-      "crc32": "bf533f5f",
-      "sha1": "a4173434e92bfa643201ca9f9442c2f051887124",
+      "mtime": "1666898692",
+      "size": "962560",
+      "md5": "635b2cac2eb3de4e463b1f3babe70bbf",
+      "crc32": "9cd44bce",
+      "sha1": "8b151966a797260be34585ab12efe57e4a2e2fda",
       "format": "Metadata"
     },
     {
@@ -7629,9 +7691,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 738,
-  "item_last_updated": 1666855577,
-  "item_size": 38032744,
+  "files_count": 744,
+  "item_last_updated": 1666898739,
+  "item_size": 38329067,
   "metadata": {
     "identifier": "prisonjourn-2022",
     "collection": [
@@ -7653,7 +7715,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453906408,
+      "task_id": 3454356265,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7661,7 +7723,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1781403301,
+  "uniq": 1488307344,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

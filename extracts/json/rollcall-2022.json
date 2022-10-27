@@ -1,5 +1,5 @@
 {
-  "created": 1666855746,
+  "created": 1666901193,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -12789,31 +12789,93 @@
       "format": "JSON"
     },
     {
+      "name": "rollcall-2022-10-27T03:27:15.408495-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollcall-2022-10-27T03:27:15.408495-04:00.jpg",
+      "mtime": "1666878246",
+      "size": "10960",
+      "md5": "07bb07a04fa61c76c8bb54398855ca27",
+      "crc32": "d09ddb81",
+      "sha1": "91435098bfc61d7959eb78e2700d6fa0d6e86c14"
+    },
+    {
+      "name": "rollcall-2022-10-27T15:25:49.360920-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898759",
+      "size": "37484",
+      "md5": "eb6008e063f6f6d55fe15e111f1c38ad",
+      "crc32": "b9b1373e",
+      "sha1": "5c2f5fe297fadea620dc51b041ac0e8697d749ae",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-10-27T15:25:49.360920-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898762",
+      "size": "27095",
+      "md5": "b69937189d988612ecfa461c0188275a",
+      "crc32": "cd46a498",
+      "sha1": "c7ad3fbff0e754d98c54d5ec83105227a123256e",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-10-27T15:25:49.360920-04:00.jpg",
+      "source": "original",
+      "mtime": "1666898757",
+      "size": "266678",
+      "md5": "1440259c5c4648b44456df8c3bf46cc6",
+      "crc32": "edc19785",
+      "sha1": "6bb193a5170c82b32b33f5de84ae0e3c4325fd95",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollcall-2022-10-27T15:25:49.360920-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898764",
+      "size": "1441",
+      "md5": "7dbda4c0a188fa56354e58d678679ba2",
+      "crc32": "d67dd2e0",
+      "sha1": "6428855cdcf9bb4c138c3eaa912f14326cc520e6",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-10-27T15:25:49.360920-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898766",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8953a6e09c0d9f42e620bf0a864304428396e14d",
-      "mtime": "1666855733",
-      "size": "260686",
-      "md5": "f4de041cc66be7a7b81751c054b7c5e2",
-      "crc32": "d2ddbd24",
-      "sha1": "e73bd147216b9d19cd716088b914e25e705c354d",
+      "btih": "4a1e39b12341f9c9d0ac5775ade6c7dd4fa12e58",
+      "mtime": "1666898858",
+      "size": "261952",
+      "md5": "749c5d59490f110df0200c43d9fc19f0",
+      "crc32": "c09af77b",
+      "sha1": "ea4f6bd2ec5a2f324274850c7047231c2a0e8be1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "585e754c75c9c2ec44582a32b24feeba",
+      "md5": "472cb74d8ed5131c0833d58a5bab9ad6",
       "summation": "md5"
     },
     {
       "name": "rollcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855671",
-      "size": "1544192",
-      "md5": "42c8b63a4511f79ef4906cf505958ee9",
-      "crc32": "4f5ca91a",
-      "sha1": "989566cdfa9d936a2a2e483661d473ecaaf6ea9f",
+      "mtime": "1666898787",
+      "size": "1552384",
+      "md5": "43b3f47dba64b3d5930c8135f68de8bd",
+      "crc32": "397d16ef",
+      "sha1": "d8581f40efe327c99fb5acbef0d3d3f5f5f8f12e",
       "format": "Metadata"
     },
     {
@@ -12827,9 +12889,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1237,
-  "item_last_updated": 1666855733,
-  "item_size": 81329814,
+  "files_count": 1243,
+  "item_last_updated": 1666898858,
+  "item_size": 81683132,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -12847,11 +12909,16 @@
     "addeddate": "2022-07-04 21:52:31"
   },
   "pending_tasks": true,
+  "rollcall-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601407.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453907967,
+      "task_id": 3454357492,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12859,7 +12926,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 25711094,
+  "uniq": 2135756634,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

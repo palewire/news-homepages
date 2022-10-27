@@ -1,5 +1,5 @@
 {
-  "created": 1666855718,
+  "created": 1666901214,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/11/items/rtenews-2022",
@@ -11957,31 +11957,93 @@
       "format": "JSON"
     },
     {
+      "name": "rtenews-2022-10-27T08:27:23.051564+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtenews-2022-10-27T08:27:23.051564+01:00.jpg",
+      "mtime": "1666878220",
+      "size": "9979",
+      "md5": "9f9569bdb6f7305e822975bd7aee4a5f",
+      "crc32": "baa482cc",
+      "sha1": "81353a0ebec3bb7a5ee46f2105867cd33156444f"
+    },
+    {
+      "name": "rtenews-2022-10-27T20:25:28.547247+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898732",
+      "size": "34039",
+      "md5": "12dd7404c6aabb3c21e11ded0ae37389",
+      "crc32": "528166e6",
+      "sha1": "8c0fb08791c1ae84c20b3cc144f7b8f22171fab5",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-27T20:25:28.547247+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898734",
+      "size": "44738",
+      "md5": "974cc428a9647877253e1c43221d32e9",
+      "crc32": "b2499b9e",
+      "sha1": "7b3114d3d5d3ba28ec732b378dd2931624525a35",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-27T20:25:28.547247+01:00.jpg",
+      "source": "original",
+      "mtime": "1666898730",
+      "size": "279128",
+      "md5": "019577f8cdb01965e25830d2e120d17a",
+      "crc32": "da2bbbdf",
+      "sha1": "1fa458da0162f2576c63b8d351d30376f9615deb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtenews-2022-10-27T20:25:28.547247+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898737",
+      "size": "1423",
+      "md5": "481eea11e4381b943cdea9db31f55290",
+      "crc32": "ad0b74c3",
+      "sha1": "b6dbc27a518f9b917a9dfa95e3a4cddc0fd889f9",
+      "format": "JSON"
+    },
+    {
+      "name": "rtenews-2022-10-27T20:25:28.547247+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898739",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "rtenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cbe3ee8a32341cd6c0f6ab656a890d6a4623a3ab",
-      "mtime": "1666855712",
-      "size": "243370",
-      "md5": "957290d23727449bd5386994e13bd0a8",
-      "crc32": "6581641c",
-      "sha1": "f5286050bd51cc5ef5f5af604ecbed2b5d767a65",
+      "btih": "fed526b24a1e33281327176f31ed3321f1666959",
+      "mtime": "1666898794",
+      "size": "244629",
+      "md5": "23a36ada1311b91958e08ca0ecebd596",
+      "crc32": "c13ca25b",
+      "sha1": "b3b3d1557da5966b53e26c4f5d71b225f2097e27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rtenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb53f242af8204b86c910a35e9f62f3b",
+      "md5": "a1d8b93446105c419c1029cabae2a18e",
       "summation": "md5"
     },
     {
       "name": "rtenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855665",
-      "size": "1462272",
-      "md5": "aaadc1f2aeb6af69ef1245060cae9226",
-      "crc32": "ae2af2e1",
-      "sha1": "ea53fb61ca60c93befd1fa9cbb175e7802525930",
+      "mtime": "1666898747",
+      "size": "1474560",
+      "md5": "f8c736cec854ec5f17e9abebb2e82310",
+      "crc32": "6b3e4f54",
+      "sha1": "b69773133269ec7594f661d5fc111551a9df5ef8",
       "format": "Metadata"
     },
     {
@@ -11995,9 +12057,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1159,
-  "item_last_updated": 1666855712,
-  "item_size": 79657625,
+  "files_count": 1165,
+  "item_last_updated": 1666898794,
+  "item_size": 80040681,
   "metadata": {
     "identifier": "rtenews-2022",
     "collection": [
@@ -12015,11 +12077,16 @@
     "addeddate": "2022-07-18 03:33:26"
   },
   "pending_tasks": true,
+  "rtenews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601506.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453907719,
+      "task_id": 3454356898,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12027,7 +12094,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 469793094,
+  "uniq": 1101445843,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666855612,
+  "created": 1666898700,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/powerlineus-2022",
@@ -17362,31 +17362,71 @@
       "format": "JSON"
     },
     {
+      "name": "powerlineus-2022-10-27T15:23:19.859216-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898603",
+      "size": "104841",
+      "md5": "f5a2b1f2d3a221b846ff5a18aedbf19f",
+      "crc32": "2406acaa",
+      "sha1": "84daa981a385ea742208a3ed33d161d2a05176f1",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-27T15:23:19.859216-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898606",
+      "size": "20763",
+      "md5": "e7eb8d3f46ffeb09325b80b95b60a12e",
+      "crc32": "a7e8cfd0",
+      "sha1": "71157fa45c74c0bd17d0e0d2075fd6320ab32999",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-27T15:23:19.859216-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898609",
+      "size": "1516",
+      "md5": "c0281c5fdaadd4c8fdcd931cd133bbe2",
+      "crc32": "b60c4a38",
+      "sha1": "28f3aea7a1b9925e6a5a9216f96420cef5e21c2c",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-27T15:23:19.859216-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898612",
+      "size": "67606",
+      "md5": "6ed292b9cd5d2a3e5ecaa40134c7c2a1",
+      "crc32": "b9210082",
+      "sha1": "95caa5f14f9a1d9da2a18be391bc27434f835677",
+      "format": "JSON"
+    },
+    {
       "name": "powerlineus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "44766a9386f6b2ee58aae3650a0832909cf247cb",
-      "mtime": "1666855602",
-      "size": "360150",
-      "md5": "033dba94ae1839bec27785b79d4d784b",
-      "crc32": "ff93c8fc",
-      "sha1": "b23c14f399edeb3e258a0af01a97326973e28ad6",
+      "btih": "06a9e95f8d3ef3b4b2d04942119a0f2ae41a6595",
+      "mtime": "1666898689",
+      "size": "361026",
+      "md5": "db4c158c21f5eb12b8ba8bc2323840a1",
+      "crc32": "08645d14",
+      "sha1": "2800d38f30939bd8bd8c4852a4cac23ff1d2b711",
       "format": "Archive BitTorrent"
     },
     {
       "name": "powerlineus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "96592994272cd59b0bd13a63038190b3",
+      "md5": "aecac9883e1e9be6f8d0e8f74834b3c8",
       "summation": "md5"
     },
     {
       "name": "powerlineus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855541",
-      "size": "2134016",
-      "md5": "caf7d3c0f8c8c5d6cb633d02508c106d",
-      "crc32": "7942f424",
-      "sha1": "c3b97c200ea496fcf9064f84e800e5ead3e33807",
+      "mtime": "1666898621",
+      "size": "2142208",
+      "md5": "53bdf3e576b098d660eae12acf9d11b5",
+      "crc32": "9b6398af",
+      "sha1": "79a1a2ec4c09907dbd350f89b6703f3aa52bc9b9",
       "format": "Metadata"
     },
     {
@@ -17400,9 +17440,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1682,
-  "item_last_updated": 1666855602,
-  "item_size": 126650399,
+  "files_count": 1686,
+  "item_last_updated": 1666898689,
+  "item_size": 126854193,
   "metadata": {
     "identifier": "powerlineus-2022",
     "collection": [
@@ -17424,7 +17464,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453906706,
+      "task_id": 3454355782,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -17432,7 +17472,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 661716107,
+  "uniq": 2021247089,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666855499,
+  "created": 1666898520,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/7/items/nysfocus-2022",
@@ -12871,31 +12871,93 @@
       "format": "JSON"
     },
     {
+      "name": "nysfocus-2022-10-27T03:23:48.229452-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nysfocus-2022-10-27T03:23:48.229452-04:00.jpg",
+      "mtime": "1666877993",
+      "size": "9222",
+      "md5": "8116f577f8f5d4e421bd91a83dd895be",
+      "crc32": "19808771",
+      "sha1": "95f952c3649d8c047ab45e5b89acb0f39e0c6e9e"
+    },
+    {
+      "name": "nysfocus-2022-10-27T15:20:47.294235-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898456",
+      "size": "55788",
+      "md5": "f1f4f87f35170ed7d3d72751a3ca17cc",
+      "crc32": "3763b72f",
+      "sha1": "06622f5efa30c141841dc1fce82415f28c4fd3d1",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-10-27T15:20:47.294235-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898458",
+      "size": "47745",
+      "md5": "e3e4733818281170c3ef51f573baf0f1",
+      "crc32": "19eed77e",
+      "sha1": "960861f1b3c73d7ba146045cf319b8e6232cc67a",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-10-27T15:20:47.294235-04:00.jpg",
+      "source": "original",
+      "mtime": "1666898454",
+      "size": "234774",
+      "md5": "e386365dd94a233d2405113e87ccdafa",
+      "crc32": "50fcae51",
+      "sha1": "fa9f59384d13c093e75dcd1b450d1c45361137c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nysfocus-2022-10-27T15:20:47.294235-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898460",
+      "size": "1477",
+      "md5": "0ae4c0688d4c35c20fd950b0ad1e1c14",
+      "crc32": "9f4389c5",
+      "sha1": "496de994214ee6b44ce910c0af2d50ecf9a0801d",
+      "format": "JSON"
+    },
+    {
+      "name": "nysfocus-2022-10-27T15:20:47.294235-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898463",
+      "size": "13270",
+      "md5": "78fa0ccaf51024ab20b82063f9f05608",
+      "crc32": "2bfc4e04",
+      "sha1": "398c7d314c83907176750c1bd816ed04452f50b4",
+      "format": "JSON"
+    },
+    {
       "name": "nysfocus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db6a7a9397d65af8017b9d9d3c920a886b2a99bf",
-      "mtime": "1666855495",
-      "size": "262575",
-      "md5": "19e676964307ebe9e96b491377ee7037",
-      "crc32": "3ac8f402",
-      "sha1": "aaa272d4895ece15fb0d5e1026ff9ed92b4e1b15",
+      "btih": "02c0ba05802459d5d0229b9f689bc5ebc4e97ad3",
+      "mtime": "1666898514",
+      "size": "263822",
+      "md5": "7642a79abdae75416b781a805cf240b9",
+      "crc32": "fb227fe7",
+      "sha1": "ff31aac9d5d6107afdef3e6d9618ab24bb43e977",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nysfocus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23dc717c7dd64e748684944d68f9e97b",
+      "md5": "080505ae43558170410b566a637e2398",
       "summation": "md5"
     },
     {
       "name": "nysfocus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855447",
-      "size": "1564672",
-      "md5": "6d6bb05ed09dfffb0c0e7fad109d8c68",
-      "crc32": "21f819ec",
-      "sha1": "c4cff189c63237e4546547ea620664074fc8068c",
+      "mtime": "1666898468",
+      "size": "1576960",
+      "md5": "4b1a3a8dc5a51435b9890629d2643f27",
+      "crc32": "608b30ac",
+      "sha1": "986eec6efe112e8ac1ec6c50820989efe066df17",
       "format": "Metadata"
     },
     {
@@ -12909,9 +12971,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1246,
-  "item_last_updated": 1666855495,
-  "item_size": 84221408,
+  "files_count": 1252,
+  "item_last_updated": 1666898514,
+  "item_size": 84597219,
   "metadata": {
     "identifier": "nysfocus-2022",
     "collection": [
@@ -12933,7 +12995,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453905620,
+      "task_id": 3454354044,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12941,7 +13003,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1175402051,
+  "uniq": 1859519159,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

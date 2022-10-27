@@ -1,5 +1,5 @@
 {
-  "created": 1666855709,
+  "created": 1666898983,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/segodnya_online-2022",
@@ -12121,31 +12121,93 @@
       "format": "JSON"
     },
     {
+      "name": "segodnya_online-2022-10-27T10:27:21.115300+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "segodnya_online-2022-10-27T10:27:21.115300+03:00.jpg",
+      "mtime": "1666878185",
+      "size": "10160",
+      "md5": "fdecfa5cc21ffc089843220e1ccb6434",
+      "crc32": "b76524e3",
+      "sha1": "4d9341dfe0486f795aa679500cb8c9833795ea3b"
+    },
+    {
+      "name": "segodnya_online-2022-10-27T22:28:24.611709+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898909",
+      "size": "113474",
+      "md5": "8117e35dbf8c7aab900e4b84436647a3",
+      "crc32": "76c2f459",
+      "sha1": "78fa50bbc7707cc0a5d6d86f0bed7aab05cd0bd1",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-10-27T22:28:24.611709+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898911",
+      "size": "63182",
+      "md5": "fd3105213c274d9b53a350bfdf47cc0d",
+      "crc32": "223e18d3",
+      "sha1": "b91922e2f74e5d30f10cf6e210c4a86a0baeddb1",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-10-27T22:28:24.611709+03:00.jpg",
+      "source": "original",
+      "mtime": "1666898906",
+      "size": "335446",
+      "md5": "01d5c395304a0c140322fce93029c7da",
+      "crc32": "f0e4ac13",
+      "sha1": "1e94354f41fb8fcbb0e8d3a997e9eb88cddaaae2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "segodnya_online-2022-10-27T22:28:24.611709+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898912",
+      "size": "1594",
+      "md5": "6850838f2bc0b89c586d098fb4505f81",
+      "crc32": "62e0d981",
+      "sha1": "237a4c094f749c3cb9997750d3e5d69c77e62ac4",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-10-27T22:28:24.611709+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898915",
+      "size": "17785",
+      "md5": "b92e60458f405ce5703b388e1bd59a8b",
+      "crc32": "44e5b77d",
+      "sha1": "a4f3b22f3d0d96ecb0ab8a32081ff7281e5d3de2",
+      "format": "JSON"
+    },
+    {
       "name": "segodnya_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7463486ca2f474cd152e803e29880e1da4cfc5b7",
-      "mtime": "1666855706",
-      "size": "257198",
-      "md5": "783657f53c2100929e83efa3dd255391",
-      "crc32": "16de7d8e",
-      "sha1": "6d8600fbfd4a1b735b3d5148f89da2be5846b8e4",
+      "btih": "25d3acf9064eb9e8360a5324963ed8f2c52396b1",
+      "mtime": "1666898978",
+      "size": "258509",
+      "md5": "1b5a397b3213635cccacdf9e8afd4f54",
+      "crc32": "1a6c74b4",
+      "sha1": "7084decfe01c9336d6cf7d038cb3579ac929057f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "segodnya_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56b204316d66fdc49bf874132198f378",
+      "md5": "74fc6ece7b5e80e3b2541d4526bf30ff",
       "summation": "md5"
     },
     {
       "name": "segodnya_online-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855660",
-      "size": "1490944",
-      "md5": "04164be3d8ba628218e1384c21f090ab",
-      "crc32": "f72fa6cb",
-      "sha1": "f120a9158b929413ef87d013ec4d4a9c96dccbe4",
+      "mtime": "1666898926",
+      "size": "1507328",
+      "md5": "40036624a70151a4b53b9633e944a175",
+      "crc32": "1c23e3e4",
+      "sha1": "a498af851aae625dc7045eab4ad89b198c5edd48",
       "format": "Metadata"
     },
     {
@@ -12159,9 +12221,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1174,
-  "item_last_updated": 1666855706,
-  "item_size": 109960483,
+  "files_count": 1180,
+  "item_last_updated": 1666898978,
+  "item_size": 110519819,
   "metadata": {
     "identifier": "segodnya_online-2022",
     "collection": [
@@ -12183,7 +12245,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453907650,
+      "task_id": 3454358359,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12191,7 +12253,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1616444017,
+  "uniq": 288894840,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

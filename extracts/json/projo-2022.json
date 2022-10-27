@@ -1,5 +1,5 @@
 {
-  "created": 1666855575,
+  "created": 1666901028,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/18/items/projo-2022",
@@ -4573,31 +4573,93 @@
       "format": "JSON"
     },
     {
+      "name": "projo-2022-10-27T03:25:17.511410-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "projo-2022-10-27T03:25:17.511410-04:00.jpg",
+      "mtime": "1666878166",
+      "size": "9408",
+      "md5": "e2a16f8dd74a7c4a13df4b630937d860",
+      "crc32": "4ee2d5ca",
+      "sha1": "a64658a11f658084a52d6ec4dd34910c77b3e1c9"
+    },
+    {
+      "name": "projo-2022-10-27T15:24:48.358357-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898694",
+      "size": "21385",
+      "md5": "612712914f0bc8a971a89adde8f28408",
+      "crc32": "25f51ce1",
+      "sha1": "e60d35a9d4404f17062591ccc8f2a23a828e7b4c",
+      "format": "JSON"
+    },
+    {
+      "name": "projo-2022-10-27T15:24:48.358357-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898696",
+      "size": "13776",
+      "md5": "c28929c67e0cc525039e3accd7b19f22",
+      "crc32": "5387b33a",
+      "sha1": "81bd51b6496208e2d995e5697b47c990ff3f4591",
+      "format": "JSON"
+    },
+    {
+      "name": "projo-2022-10-27T15:24:48.358357-04:00.jpg",
+      "source": "original",
+      "mtime": "1666898692",
+      "size": "286589",
+      "md5": "bc68caf3c098e64c1aebb0221a31ee77",
+      "crc32": "5c1553ec",
+      "sha1": "c95c2f625bd2deeaf068c0eecdcb958debf678ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "projo-2022-10-27T15:24:48.358357-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898699",
+      "size": "1557",
+      "md5": "a25d7db510d9d9ff5587bf92be19bacf",
+      "crc32": "1469764e",
+      "sha1": "5afb0cd92fba5db2cb9e85dca3dc2676d9098ff9",
+      "format": "JSON"
+    },
+    {
+      "name": "projo-2022-10-27T15:24:48.358357-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898701",
+      "size": "110",
+      "md5": "a67866c20dff847e2c56d9b9c460d2f4",
+      "crc32": "25497208",
+      "sha1": "cb377a761507e27ab04c95d65b68a33f01206986",
+      "format": "JSON"
+    },
+    {
       "name": "projo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ab8577647faaa75eda8f0817703ad9bf663de2b9",
-      "mtime": "1666855572",
-      "size": "92995",
-      "md5": "08eff33818cf6e90cd2ff67f63899cb9",
-      "crc32": "d789898e",
-      "sha1": "aca40baa754a19ebed1b55551d0b04ed47aa9ac5",
+      "btih": "0f78b6f3140ca0a3aa7f5d4aaaa739fcd8c0f78e",
+      "mtime": "1666898752",
+      "size": "94242",
+      "md5": "0562211f29c5c8b2d571e35f9241a51f",
+      "crc32": "ae7dea47",
+      "sha1": "3e9b40498fa2c9650029b4e1ddad66fea2842153",
       "format": "Archive BitTorrent"
     },
     {
       "name": "projo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3849db38d250ff99f0f6141d61dd845",
+      "md5": "5eb3f31390d34590d1ecb8b4ccb431ef",
       "summation": "md5"
     },
     {
       "name": "projo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855534",
-      "size": "577536",
-      "md5": "336fede07d4ce52b4f1c3899748f3a3a",
-      "crc32": "ddf2d39e",
-      "sha1": "cd85a7ef9efeda62889cc7603888d73c9f113719",
+      "mtime": "1666898706",
+      "size": "585728",
+      "md5": "94d14b5cfc3c5c1d438f4dade037fb38",
+      "crc32": "112e32e9",
+      "sha1": "920c339eab267c593fc9be0100b6c5229548e0c0",
       "format": "Metadata"
     },
     {
@@ -4611,9 +4673,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1666855572,
-  "item_size": 29378625,
+  "files_count": 452,
+  "item_last_updated": 1666898752,
+  "item_size": 29720889,
   "metadata": {
     "identifier": "projo-2022",
     "collection": [
@@ -4631,11 +4693,15 @@
     "addeddate": "2022-09-20 19:23:48"
   },
   "pending_tasks": true,
+  "projo-2022": {
+    "url": "https://www.providencejournal.com/",
+    "job_id": "spn2-ac89ca9fab555cbcc46ffefebe8c9bedba54191d"
+  },
   "server": "ia601504.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453906322,
+      "task_id": 3454356403,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4643,7 +4709,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 888570946,
+  "uniq": 1103294255,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

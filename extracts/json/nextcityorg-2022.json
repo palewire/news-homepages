@@ -1,5 +1,5 @@
 {
-  "created": 1666855411,
+  "created": 1666898427,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/14/items/nextcityorg-2022",
@@ -12965,31 +12965,93 @@
       "format": "JSON"
     },
     {
+      "name": "nextcityorg-2022-10-27T03:22:20.339516-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nextcityorg-2022-10-27T03:22:20.339516-04:00.jpg",
+      "mtime": "1666877805",
+      "size": "11059",
+      "md5": "4807a8f6168b10881a07bd90ccf32ff2",
+      "crc32": "e3a89740",
+      "sha1": "c642ee9e0ac83bc3884fa5ea80173d08f090c633"
+    },
+    {
+      "name": "nextcityorg-2022-10-27T15:18:59.713576-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898348",
+      "size": "17471",
+      "md5": "5fc4e04a257b41fd77ae80455e49c1c7",
+      "crc32": "2521229b",
+      "sha1": "81c97ceb42716fa51361f32b64cb13a3ae53b6c2",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-10-27T15:18:59.713576-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898350",
+      "size": "18484",
+      "md5": "03c61a7c4e9ee09473fc110ebe321a9e",
+      "crc32": "c1ff5b6a",
+      "sha1": "9a360908f5f7d291ad3c875b8074145d05e06fde",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-10-27T15:18:59.713576-04:00.jpg",
+      "source": "original",
+      "mtime": "1666898346",
+      "size": "389393",
+      "md5": "9b28b132099ea97a9b6dca9d5a6f7dee",
+      "crc32": "901c2337",
+      "sha1": "4e0048f8c41473445fcf67a1873bd137255db6c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nextcityorg-2022-10-27T15:18:59.713576-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898352",
+      "size": "1439",
+      "md5": "8d158fa3492f1eca80dddad11925081c",
+      "crc32": "e1fce904",
+      "sha1": "acfea7390d6ce3d17799586ce9212fff3840e03f",
+      "format": "JSON"
+    },
+    {
+      "name": "nextcityorg-2022-10-27T15:18:59.713576-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898353",
+      "size": "17825",
+      "md5": "278f5b72c9970108ef7d5d5c304c6033",
+      "crc32": "1fc7c6f4",
+      "sha1": "8c5927f7fc5bebbeb6858cfa6a5090af163cbce8",
+      "format": "JSON"
+    },
+    {
       "name": "nextcityorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73a792582f4f5ee8b164b0e79ca0290191af86d6",
-      "mtime": "1666855405",
-      "size": "268870",
-      "md5": "056b78744e65470c98830e571c454ec6",
-      "crc32": "400621fc",
-      "sha1": "c9dad02e1d88a351e449fb33de71767880aebbf3",
+      "btih": "ac872256988cfaa1efa678f9b6560877551368f3",
+      "mtime": "1666898417",
+      "size": "270156",
+      "md5": "2b63930065189cb3e4901b7c59c6870e",
+      "crc32": "a5053ab7",
+      "sha1": "f601cc171c135a27aebd4eb90cb70d78863a6990",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nextcityorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0704a3ea6ab177edc19f04c3a13fffe2",
+      "md5": "cdaf2bb3453be6eb7918749ac6cd2ad9",
       "summation": "md5"
     },
     {
       "name": "nextcityorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855355",
-      "size": "1585152",
-      "md5": "7a99e82042efbe6601a77b987e344859",
-      "crc32": "dd4f63dd",
-      "sha1": "2d1e4cdc4ff55727b93cdc3799f3b091f66da6f3",
+      "mtime": "1666898361",
+      "size": "1593344",
+      "md5": "922db98da356a469bcc0d762497518da",
+      "crc32": "c7c36853",
+      "sha1": "6724884811384fe188cbb31b393f5a9cabe346e1",
       "format": "Metadata"
     },
     {
@@ -13003,9 +13065,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1255,
-  "item_last_updated": 1666855405,
-  "item_size": 95075832,
+  "files_count": 1261,
+  "item_last_updated": 1666898417,
+  "item_size": 95540981,
   "metadata": {
     "identifier": "nextcityorg-2022",
     "collection": [
@@ -13027,7 +13089,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453904787,
+      "task_id": 3454353056,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13035,7 +13097,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 813814549,
+  "uniq": 717824823,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

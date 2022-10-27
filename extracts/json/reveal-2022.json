@@ -1,5 +1,5 @@
 {
-  "created": 1666855651,
+  "created": 1666901142,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/2/items/reveal-2022",
@@ -15441,31 +15441,93 @@
       "format": "JSON"
     },
     {
+      "name": "reveal-2022-10-27T00:26:18.182280-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-10-27T00:26:18.182280-07:00.jpg",
+      "mtime": "1666878273",
+      "size": "9798",
+      "md5": "e66133b33085422812bb147e54d8213c",
+      "crc32": "06231d33",
+      "sha1": "0f3c306b849d9b26160e0f3c2305c7817ead6ee6"
+    },
+    {
+      "name": "reveal-2022-10-27T12:26:37.839307-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898805",
+      "size": "16609",
+      "md5": "a9d68261259eed3210c572ea304c95fa",
+      "crc32": "cb06f0ca",
+      "sha1": "8a348c93ea2bf5520b294246400ff123742add2a",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-10-27T12:26:37.839307-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898807",
+      "size": "26013",
+      "md5": "1a0611247c283da65a6a826fc0ba79a4",
+      "crc32": "2b787aff",
+      "sha1": "9765061522211dd0565a39e736c485b241f339a3",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-10-27T12:26:37.839307-07:00.jpg",
+      "source": "original",
+      "mtime": "1666898803",
+      "size": "240362",
+      "md5": "efae90635c46f4d975fcfec942155745",
+      "crc32": "c5163c16",
+      "sha1": "1da7492504e2f011d249b523a7c1ace167274d1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-10-27T12:26:37.839307-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898809",
+      "size": "1459",
+      "md5": "f241f43dfe32363697d655de82378a26",
+      "crc32": "f740c57d",
+      "sha1": "a044a133395fdee4236c0fde3d7a2fc7d84280c3",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-10-27T12:26:37.839307-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898811",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "reveal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91cead4b1e7813f2c8ed189056df750cf04d9e90",
-      "mtime": "1666855645",
-      "size": "310617",
-      "md5": "93d1fdf97b3e8cf0ed360b944c759ad2",
-      "crc32": "4994ca78",
-      "sha1": "409155a75c258f28d15687b18fa6a56bcdf96de5",
+      "btih": "b4b8670f71821d56b09fa721e3bf839bfe117c87",
+      "mtime": "1666898872",
+      "size": "311850",
+      "md5": "a8e25c0f67857a225313ad16ce0e90e1",
+      "crc32": "85818a35",
+      "sha1": "296f3a60f42995b4f1778f7aa83694535d67a0e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reveal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ba672876189d584e517042125a87867",
+      "md5": "cc58c08d586f672bd416b38c08b46402",
       "summation": "md5"
     },
     {
       "name": "reveal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855593",
-      "size": "1843200",
-      "md5": "30b44a57d8a76ae2713f8c616a856745",
-      "crc32": "1489e378",
-      "sha1": "4efffe281740ea005dfbd82fe5e1ef87fabc328c",
+      "mtime": "1666898816",
+      "size": "1847296",
+      "md5": "d1984b1bf925f2f880766783e729f660",
+      "crc32": "fde0d3fb",
+      "sha1": "e9039f29f5abe6fa5cadb3af11d14514ee5a8780",
       "format": "Metadata"
     },
     {
@@ -15479,9 +15541,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1491,
-  "item_last_updated": 1666855645,
-  "item_size": 89571289,
+  "files_count": 1497,
+  "item_last_updated": 1666898872,
+  "item_size": 89871061,
   "metadata": {
     "identifier": "reveal-2022",
     "collection": [
@@ -15499,11 +15561,16 @@
     "addeddate": "2022-06-19 23:28:01"
   },
   "pending_tasks": true,
+  "reveal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia902509.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453907112,
+      "task_id": 3454357483,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15511,7 +15578,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2068440927,
+  "uniq": 1938093279,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]
