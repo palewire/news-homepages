@@ -1,5 +1,5 @@
 {
-  "created": 1666855367,
+  "created": 1666901222,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -20439,31 +20439,155 @@
       "format": "JSON"
     },
     {
+      "name": "voxdotcom-2022-10-27T03:21:01.874715-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voxdotcom-2022-10-27T03:21:01.874715-04:00.jpg",
+      "mtime": "1666877752",
+      "size": "8488",
+      "md5": "a4a5e72954d1ef63ebeafb18342d12d1",
+      "crc32": "0e107add",
+      "sha1": "c7cbf0cc683d281383610d486efa753cf1d1dca6"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T15:57:41.025816-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666900690",
+      "size": "43382",
+      "md5": "65dc55223566411cc31226d9506c828f",
+      "crc32": "74243f76",
+      "sha1": "4fb41d2388f6f5fe91bf67d89580045c70f574df",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T15:57:41.025816-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666900691",
+      "size": "58349",
+      "md5": "261bf1497e2b8ebac20b3096c44ce68b",
+      "crc32": "6750ee1b",
+      "sha1": "b7b5cec1d194bcfead5331426793c4175ed1abca",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T15:57:41.025816-04:00.jpg",
+      "source": "original",
+      "mtime": "1666900687",
+      "size": "250833",
+      "md5": "74512c87dd2408d4bc54b7b2965db71c",
+      "crc32": "22702415",
+      "sha1": "e5ae25bae8ba9e1b1f1769b438ded08febe3b922",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T15:57:41.025816-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666900694",
+      "size": "1432",
+      "md5": "d7d983fb6ec97173fd661d2c2132a48c",
+      "crc32": "1c26fa2b",
+      "sha1": "40fe95fcc6b453732b31741b9016388f56244187",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T15:57:41.025816-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666900696",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T15:57:41.025816-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voxdotcom-2022-10-27T15:57:41.025816-04:00.jpg",
+      "mtime": "1666901136",
+      "size": "8623",
+      "md5": "ba0a5c69d83527464baaf6501c71bf9d",
+      "crc32": "3b98b2d3",
+      "sha1": "0bb3af428d0dc0d4e0400788df99fee313e938a0"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T16:00:26.613640-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666900831",
+      "size": "43382",
+      "md5": "65dc55223566411cc31226d9506c828f",
+      "crc32": "74243f76",
+      "sha1": "4fb41d2388f6f5fe91bf67d89580045c70f574df",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T16:00:26.613640-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666900834",
+      "size": "53670",
+      "md5": "a5897dbb9057b0314a124941fd9ba06b",
+      "crc32": "61edf6d3",
+      "sha1": "07d80584e12afface0c25ed5b1ebe591a35331e5",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T16:00:26.613640-04:00.jpg",
+      "source": "original",
+      "mtime": "1666900829",
+      "size": "250927",
+      "md5": "beca263fc3e4f3f08af1bab3601bf9e6",
+      "crc32": "79dd8917",
+      "sha1": "9c41e49d6268a640dd94762b0a263121003b04ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T16:00:26.613640-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666900836",
+      "size": "1432",
+      "md5": "38cfb19ff936d5e6bff6d75bf7232818",
+      "crc32": "02e5dc87",
+      "sha1": "edf7d659ae51b66b7b2362c00476db347c0e88b7",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-10-27T16:00:26.613640-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666900839",
+      "size": "145528",
+      "md5": "35be85f2c88b632185f4ec8b91be8069",
+      "crc32": "6293d2fc",
+      "sha1": "bdc0529594be8ac274fd694620c18c5d3ae0c960",
+      "format": "JSON"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac8bb02381d4a651fa04257d4ebd526d61882fc9",
-      "mtime": "1666855345",
-      "size": "418352",
-      "md5": "3079b5676d84aab6ae71bd42a6c4179d",
-      "crc32": "78d7473c",
-      "sha1": "4245d2ee5af6cc04d124b98aeb328db9527240e0",
+      "btih": "149a2454e1ca1d3c4e57451a424cb09d7d3a8834",
+      "mtime": "1666901206",
+      "size": "420877",
+      "md5": "e082bacfc51eaf833dd4ec52ff8ced27",
+      "crc32": "5d1052bb",
+      "sha1": "4eee21ad487a6f75b9202cd4f6ca9d4f201ef210",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "84cc401385d5825c8f31c913f3b44b26",
+      "md5": "ecb66a29e72bf7c84c775d4650ecfbf0",
       "summation": "md5"
     },
     {
       "name": "voxdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855279",
-      "size": "2469888",
-      "md5": "72493a7366b245590924f772889af668",
-      "crc32": "5ee9af22",
-      "sha1": "d21a93850dc94faa58bc938c17a3ecf39dce8b68",
+      "mtime": "1666901175",
+      "size": "2486272",
+      "md5": "397f8dab4bd862717f9731a8779fb05a",
+      "crc32": "655c4e54",
+      "sha1": "15daa7aa3a73db263e07599de2063444d93b60bf",
       "format": "Metadata"
     },
     {
@@ -20477,9 +20601,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1975,
-  "item_last_updated": 1666855345,
-  "item_size": 146219640,
+  "files_count": 1987,
+  "item_last_updated": 1666901206,
+  "item_size": 147104797,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -20501,7 +20625,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453904370,
+      "task_id": 3454380617,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -20509,7 +20633,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 101887608,
+  "uniq": 1446958148,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666855296,
+  "created": 1666901362,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/30/items/uticaod-2022",
@@ -4529,31 +4529,93 @@
       "format": "JSON"
     },
     {
+      "name": "uticaod-2022-10-27T03:20:27.779924-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uticaod-2022-10-27T03:20:27.779924-04:00.jpg",
+      "mtime": "1666877937",
+      "size": "9585",
+      "md5": "6b24ce0b712e1f4fdd9bfbe7b6226506",
+      "crc32": "7cfdccd6",
+      "sha1": "832e66fc1587aebee16e03a18a547fb191910c72"
+    },
+    {
+      "name": "uticaod-2022-10-27T15:54:49.338224-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666900496",
+      "size": "21782",
+      "md5": "1cc799013b742992356d02257d105da9",
+      "crc32": "0196b1aa",
+      "sha1": "a8937bc15df11fce88f93b14749583f7aefac211",
+      "format": "JSON"
+    },
+    {
+      "name": "uticaod-2022-10-27T15:54:49.338224-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666900500",
+      "size": "36669",
+      "md5": "81edd53aa6318062c5dc5ce67bb1da24",
+      "crc32": "f0fcfdf8",
+      "sha1": "04b037cd64a603de83887845319edf0283f1ed2f",
+      "format": "JSON"
+    },
+    {
+      "name": "uticaod-2022-10-27T15:54:49.338224-04:00.jpg",
+      "source": "original",
+      "mtime": "1666900495",
+      "size": "233055",
+      "md5": "f871bb0ea227b763f8cace4d55c16963",
+      "crc32": "3a9bbbea",
+      "sha1": "0e6f3012ae63b9ef08c18c1af309c59e13bcf92d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uticaod-2022-10-27T15:54:49.338224-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666900502",
+      "size": "1468",
+      "md5": "f187b6da5ce3d9766890af6b5bc4264a",
+      "crc32": "98128eeb",
+      "sha1": "2cb6c4713b6827d7b299cfb347e138851dad7e10",
+      "format": "JSON"
+    },
+    {
+      "name": "uticaod-2022-10-27T15:54:49.338224-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666900504",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "uticaod-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8de97a751a7721b7a9953c09989c451f6728a6f",
-      "mtime": "1666855292",
-      "size": "93092",
-      "md5": "7898f9b4fe9365cbc476ca2b849600c6",
-      "crc32": "322da7d9",
-      "sha1": "b649a136d3044984dbb904f464b7b8296a313492",
+      "btih": "fdd7b93ec3309c8dbf9a361c6e13af12bc985719",
+      "mtime": "1666900551",
+      "size": "94351",
+      "md5": "3826f534efbe1524ea68dede63fa0350",
+      "crc32": "dc8f7dc3",
+      "sha1": "188fa90feb90c9d72cb88e076369f4372bc74d4a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uticaod-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d360974a6c9557fd6d179f11d892775b",
+      "md5": "2e0519b7e81b10d92af92d7e12bb743f",
       "summation": "md5"
     },
     {
       "name": "uticaod-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855250",
-      "size": "573440",
-      "md5": "2f54f817ea17357f23fff12ed55e694d",
-      "crc32": "77b480d2",
-      "sha1": "3b38402eefa87f2d6ffe7ced36ef84a6317e83be",
+      "mtime": "1666900507",
+      "size": "581632",
+      "md5": "4e1b877c1bcd3f1e8d6bec55ab263cda",
+      "crc32": "21be61f1",
+      "sha1": "55a1f03ee420447bd3910b5741e5648e35d80a32",
       "format": "Metadata"
     },
     {
@@ -4567,9 +4629,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 442,
-  "item_last_updated": 1666855292,
-  "item_size": 29334353,
+  "files_count": 448,
+  "item_last_updated": 1666900551,
+  "item_size": 29646565,
   "metadata": {
     "identifier": "uticaod-2022",
     "collection": [
@@ -4591,7 +4653,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453903629,
+      "task_id": 3454372444,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4599,7 +4661,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 1453274858,
+  "uniq": 1316396752,
+  "uticaod-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

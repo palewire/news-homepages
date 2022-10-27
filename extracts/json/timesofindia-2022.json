@@ -1,5 +1,5 @@
 {
-  "created": 1666855347,
+  "created": 1666900637,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/35/items/timesofindia-2022",
@@ -11355,31 +11355,93 @@
       "format": "JSON"
     },
     {
+      "name": "timesofindia-2022-10-27T12:50:43.347045+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesofindia-2022-10-27T12:50:43.347045+05:30.jpg",
+      "mtime": "1666877642",
+      "size": "9193",
+      "md5": "22b0e3f9ee57ea76f53dc3209f2398e1",
+      "crc32": "2fe242e6",
+      "sha1": "fd276c4bc5233f000ce4d55fb8e9d88694b2df59"
+    },
+    {
+      "name": "timesofindia-2022-10-28T01:25:43.113055+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1666900558",
+      "size": "98416",
+      "md5": "9459d9384458aeec171c822777f6deb2",
+      "crc32": "082db240",
+      "sha1": "a1949050b4c42dde522e6c637e36c50ce06e67f7",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-10-28T01:25:43.113055+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666900564",
+      "size": "143028",
+      "md5": "b9ba94fdb3c5169811aefc7723b2617b",
+      "crc32": "9f9203ff",
+      "sha1": "e5e2a5953200c4cff34e8ca466d4880a377d79bc",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-10-28T01:25:43.113055+05:30.jpg",
+      "source": "original",
+      "mtime": "1666900551",
+      "size": "303782",
+      "md5": "c9e77fa42c64807b28251e87ec47b76b",
+      "crc32": "3d59358d",
+      "sha1": "48701f071ec232cda52431f71e9aa700f351c111",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesofindia-2022-10-28T01:25:43.113055+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1666900570",
+      "size": "1515",
+      "md5": "019b819e8e56af1f3342d4e15823ed31",
+      "crc32": "6c7add1e",
+      "sha1": "8a32e592f2668297cad2b5624344edc73c8823c7",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-10-28T01:25:43.113055+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1666900571",
+      "size": "115281",
+      "md5": "92809338c73a437766a28183bacdd2e9",
+      "crc32": "3141afba",
+      "sha1": "19fe94ce466d441b58386a8019a761451dbecf9e",
+      "format": "JSON"
+    },
+    {
       "name": "timesofindia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11e7d15190f9977a9e1e1f8115c4256afbed8593",
-      "mtime": "1666855330",
-      "size": "238168",
-      "md5": "7ce6b24c6ecda209f5e106e12f5c8c1a",
-      "crc32": "0855f07d",
-      "sha1": "6ce69a7ace8cc865951dfb73b64fdb83f900f482",
+      "btih": "1409665b72449cb067136f7bb88c05ca548cc7eb",
+      "mtime": "1666900627",
+      "size": "239481",
+      "md5": "b6b3c843521b99820f4a6489c31ccaf7",
+      "crc32": "2a4f1cbf",
+      "sha1": "2c42707094571cebd2cc76f21faf430e198268d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesofindia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6635bde5033a781d14cfe7e07edd487",
+      "md5": "ba7fc45571a36b8070e93854acaac169",
       "summation": "md5"
     },
     {
       "name": "timesofindia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855271",
-      "size": "1409024",
-      "md5": "e5f7ec37822e5b24aee9b3bbbbaa403b",
-      "crc32": "dcd6296b",
-      "sha1": "1338526eb1798fae0e96cc7d5730d7984df22308",
+      "mtime": "1666900576",
+      "size": "1413120",
+      "md5": "3a095a7a94d8d1b71130f5284c99c39b",
+      "crc32": "14ad247f",
+      "sha1": "5752204efcaace73b6e56a037acbab7de12cd9b4",
       "format": "Metadata"
     },
     {
@@ -11393,9 +11455,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1101,
-  "item_last_updated": 1666855330,
-  "item_size": 113341976,
+  "files_count": 1107,
+  "item_last_updated": 1666900627,
+  "item_size": 114018600,
   "metadata": {
     "identifier": "timesofindia-2022",
     "collection": [
@@ -11417,7 +11479,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453904182,
+      "task_id": 3454373149,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11425,7 +11487,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1771416548,
+  "uniq": 356356731,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

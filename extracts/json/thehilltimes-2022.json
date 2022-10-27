@@ -1,5 +1,5 @@
 {
-  "created": 1666855206,
+  "created": 1666900407,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/5/items/thehilltimes-2022",
@@ -13998,31 +13998,71 @@
       "format": "JSON"
     },
     {
+      "name": "thehilltimes-2022-10-27T15:51:59.610587-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666900327",
+      "size": "77934",
+      "md5": "f38c39def5bc6c6f2ea688a873ecd060",
+      "crc32": "989d9e9b",
+      "sha1": "cd7bc0e9be288c1d784850d73f14b2d74407f651",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-10-27T15:51:59.610587-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666900330",
+      "size": "61110",
+      "md5": "135bf90b3367035c21961e745ab28936",
+      "crc32": "5c05ce40",
+      "sha1": "82c89c03e4d6c4c54f6cb7eb19eaf4590d015616",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-10-27T15:51:59.610587-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666900332",
+      "size": "1483",
+      "md5": "c777c43fdbcba25a539e21bd51af9d16",
+      "crc32": "89b7b70f",
+      "sha1": "6a21bea000e8e14e4381cfa21d36974b62478e49",
+      "format": "JSON"
+    },
+    {
+      "name": "thehilltimes-2022-10-27T15:51:59.610587-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666900336",
+      "size": "49217",
+      "md5": "4fb646a1614edbd394eb020a1c063287",
+      "crc32": "f9cb1283",
+      "sha1": "5d0e60e65269fb4f5a068bb09cff0522cf2de9d1",
+      "format": "JSON"
+    },
+    {
       "name": "thehilltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "958c7e4bad4777eba39abdf6136b55c81dc2d867",
-      "mtime": "1666855184",
-      "size": "293006",
-      "md5": "6cd9fe630191bb0e65b252e44ccc8af2",
-      "crc32": "fc2913e0",
-      "sha1": "9b3944e8d2faec12f2a77934080495787c43de0a",
+      "btih": "adcbef7571eebdfa1777df0f55f038d18aa4e8c8",
+      "mtime": "1666900398",
+      "size": "293865",
+      "md5": "86848d553498d0ec169fc024db38151f",
+      "crc32": "1db11de6",
+      "sha1": "bb96b214fbe6591092a29ae3e564e96ef54bd93e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehilltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "429a3c559f79923d6d7984609176c652",
+      "md5": "2fb6f7043779f99462ed97d3e1f0d760",
       "summation": "md5"
     },
     {
       "name": "thehilltimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855107",
-      "size": "1703936",
-      "md5": "984a06ffdb1b1e77fb0789004f60dcac",
-      "crc32": "eb073620",
-      "sha1": "a18ff49cdf1d7713870997c9dea089a0f51c48e5",
+      "mtime": "1666900341",
+      "size": "1708032",
+      "md5": "dba90357fbdec39882ae91995e60e6eb",
+      "crc32": "083ce349",
+      "sha1": "927f90d3a5892786e91de4606b7358a0683b5781",
       "format": "Metadata"
     },
     {
@@ -14036,9 +14076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1354,
-  "item_last_updated": 1666855184,
-  "item_size": 146360059,
+  "files_count": 1358,
+  "item_last_updated": 1666900398,
+  "item_size": 146554758,
   "metadata": {
     "identifier": "thehilltimes-2022",
     "collection": [
@@ -14060,7 +14100,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453902819,
+      "task_id": 3454370989,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14068,7 +14108,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2105448857,
+  "uniq": 152195975,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]
