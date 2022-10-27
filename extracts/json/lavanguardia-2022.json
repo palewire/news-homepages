@@ -1,5 +1,5 @@
 {
-  "created": 1666834096,
+  "created": 1666876704,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/lavanguardia-2022",
@@ -11087,31 +11087,93 @@
       "format": "JSON"
     },
     {
+      "name": "lavanguardia-2022-10-27T03:25:59.394946+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavanguardia-2022-10-27T03:25:59.394946+02:00.jpg",
+      "mtime": "1666858329",
+      "size": "9528",
+      "md5": "ed031b438728935d687d6ad2a1099988",
+      "crc32": "9ca4d855",
+      "sha1": "24deedb396c4d307e0f0b099a0806e9476c8cc25"
+    },
+    {
+      "name": "lavanguardia-2022-10-27T15:17:01.624309+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876631",
+      "size": "63966",
+      "md5": "c013c1edde1427d3cdd931a87670216c",
+      "crc32": "120d35e2",
+      "sha1": "f9ee0ef4a7afa649425970bb3c17f0e00a28a5f7",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-27T15:17:01.624309+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876633",
+      "size": "37276",
+      "md5": "077ce71aefb99e93ce212e3d49433b64",
+      "crc32": "b15f2359",
+      "sha1": "862d100f9e15fcc90b86d08e75e4912314754383",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-27T15:17:01.624309+02:00.jpg",
+      "source": "original",
+      "mtime": "1666876630",
+      "size": "277028",
+      "md5": "1601256722db366ca38494421502ff3c",
+      "crc32": "9ef3f44a",
+      "sha1": "0b1e71869b7c9bfc75a535a1ef84c39bd63b4588",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavanguardia-2022-10-27T15:17:01.624309+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876635",
+      "size": "1513",
+      "md5": "36aa2c24d25b9fd7d74850c7036ee660",
+      "crc32": "03f15daa",
+      "sha1": "a30290f2b5129e4a706f5114a5a84c9499f3a0bd",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-10-27T15:17:01.624309+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876637",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lavanguardia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "28beb97d68505a8237e3d52de242e93794c0b99d",
-      "mtime": "1666834089",
-      "size": "231126",
-      "md5": "4766d00950a7e249b43c83039fe55d3f",
-      "crc32": "0d955b71",
-      "sha1": "2355198c56c50f8460470ec6c2752b424c8d72b7",
+      "btih": "aaea1fe962e863bc7f825bb557b8a99db8796454",
+      "mtime": "1666876699",
+      "size": "232415",
+      "md5": "987edc64b1fc08720dab2df1f10b8fa7",
+      "crc32": "4b7f32ca",
+      "sha1": "4acdb4fcad10a4caa2175b0077c85993c4ba17fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavanguardia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a084d0878ea88b90bc2591dd7c22f789",
+      "md5": "75a319c3122e68c6641947f1f65d6a7f",
       "summation": "md5"
     },
     {
       "name": "lavanguardia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666834038",
-      "size": "1380352",
-      "md5": "31a1e6d16aa7191db7fc1733d8207828",
-      "crc32": "aeb2e122",
-      "sha1": "d80b9d08e66f30918c71ff4d3511bb6dd93df178",
+      "mtime": "1666876650",
+      "size": "1388544",
+      "md5": "3f460880509c2f99a99706527f380ff3",
+      "crc32": "78cb4db0",
+      "sha1": "99896a3ddb243f7c7baadf5d97cbd254c645ac75",
       "format": "Metadata"
     },
     {
@@ -11125,9 +11187,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1076,
-  "item_last_updated": 1666834089,
-  "item_size": 71278409,
+  "files_count": 1082,
+  "item_last_updated": 1666876699,
+  "item_size": 71677403,
   "metadata": {
     "identifier": "lavanguardia-2022",
     "collection": [
@@ -11149,7 +11211,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453672822,
+      "task_id": 3454136268,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11157,7 +11219,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 974795154,
+  "uniq": 978347250,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
