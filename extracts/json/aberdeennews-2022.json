@@ -1,5 +1,5 @@
 {
-  "created": 1666868474,
+  "created": 1666910833,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/aberdeennews-2022",
@@ -4583,31 +4583,93 @@
       "format": "JSON"
     },
     {
+      "name": "aberdeennews-2022-10-27T06:00:11.933880-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-27T06:00:11.933880-05:00.jpg",
+      "mtime": "1666886944",
+      "size": "9439",
+      "md5": "8371f41b8097b3ba0a594347c698c301",
+      "crc32": "3c9eef79",
+      "sha1": "47e16bf47099a4f09cffc625ff6ccabe4898d2d4"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910735",
+      "size": "22963",
+      "md5": "b014e87e7a7d022aead4cb85a955dda8",
+      "crc32": "b7fdbfde",
+      "sha1": "e3d9431039afdce66a7eba696265f23bff5a8940",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910737",
+      "size": "41320",
+      "md5": "df32631eae6c30b38c5e2aacd45410b3",
+      "crc32": "4aa406fc",
+      "sha1": "2e388a77b4d33a3bf4c7577a97bed0bc2c85e790",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.jpg",
+      "source": "original",
+      "mtime": "1666910732",
+      "size": "258439",
+      "md5": "f5b85987565dcce6549f7035f60787b7",
+      "crc32": "7bf05189",
+      "sha1": "e591cf895ab0dfaf5758f37d1122962f8b45d90e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910739",
+      "size": "1513",
+      "md5": "d3652bb97213deba476eb34406422b48",
+      "crc32": "97fdb72c",
+      "sha1": "c2217d63ec5952f215687dd9d5cc257460e771c3",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910741",
+      "size": "83551",
+      "md5": "9fe1eb3b1b5f52e74c7dd0fee0a05cd1",
+      "crc32": "e387993e",
+      "sha1": "8467953420b7f2bbaff146bc408b7a4ddaeda02e",
+      "format": "JSON"
+    },
+    {
       "name": "aberdeennews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9c2ae5f7e8b63effb4182c479b06767c22343c6",
-      "mtime": "1666868465",
-      "size": "96432",
-      "md5": "4a237c527ef872f7a4b2b75e798fab73",
-      "crc32": "073b7c5f",
-      "sha1": "0ae75fb571316078e176b5938ff1ba0cf87dadc8",
+      "btih": "0b7f67e894e1c0934b6d77f4bc4787a969b8c1af",
+      "mtime": "1666910822",
+      "size": "97723",
+      "md5": "45db3834b79e731363368c1382cdacc8",
+      "crc32": "f4f8d88b",
+      "sha1": "91ba286ee18ebcd67ead802533620dc5f39c0694",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aberdeennews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9866747efda950f6316acbd5fd911061",
+      "md5": "7e0789225e66da61b0d42ec40cae9ace",
       "summation": "md5"
     },
     {
       "name": "aberdeennews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666868427",
-      "size": "585728",
-      "md5": "fb9ec2134923b6d9763508987412b42c",
-      "crc32": "c1682669",
-      "sha1": "1066f27d587e8954fba5e947512e8cfbafc1ff6d",
+      "mtime": "1666910781",
+      "size": "593920",
+      "md5": "2052a9dfacbe47dafa697349c04196cd",
+      "crc32": "d132f8bf",
+      "sha1": "3d00c357ec94807cf6cd0e9862af16fa99e73034",
       "format": "Metadata"
     },
     {
@@ -4621,9 +4683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1666868465,
-  "item_size": 30775815,
+  "files_count": 453,
+  "item_last_updated": 1666910822,
+  "item_size": 31202523,
   "metadata": {
     "identifier": "aberdeennews-2022",
     "collection": [
@@ -4645,7 +4707,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454046969,
+      "task_id": 3454507081,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4653,7 +4715,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 709440209,
+  "uniq": 915464192,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

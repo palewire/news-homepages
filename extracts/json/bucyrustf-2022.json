@@ -1,10 +1,5 @@
 {
-  "bucyrustf-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666872962,
+  "created": 1666911049,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/4/items/bucyrustf-2022",
@@ -4610,31 +4605,93 @@
       "format": "JSON"
     },
     {
+      "name": "bucyrustf-2022-10-27T07:05:48.173963-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bucyrustf-2022-10-27T07:05:48.173963-04:00.jpg",
+      "mtime": "1666888579",
+      "size": "8792",
+      "md5": "c6ee63527f29adb19be627b68d6c955e",
+      "crc32": "232b238a",
+      "sha1": "b03e7d53bca1cb5dac5cccfa7133ca31f0a7576d"
+    },
+    {
+      "name": "bucyrustf-2022-10-27T18:49:40.021919-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910988",
+      "size": "19143",
+      "md5": "205b165b869806f259f76f15a1eda519",
+      "crc32": "c7316fa1",
+      "sha1": "88d011c3bfe60c28d0d85c198be701b0b116172d",
+      "format": "JSON"
+    },
+    {
+      "name": "bucyrustf-2022-10-27T18:49:40.021919-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910989",
+      "size": "32047",
+      "md5": "9aed30ad65d47481bb8b3e676a3bfed5",
+      "crc32": "03274202",
+      "sha1": "531b5cf302d19bea7dd2d96a685d4c68a9a7d413",
+      "format": "JSON"
+    },
+    {
+      "name": "bucyrustf-2022-10-27T18:49:40.021919-04:00.jpg",
+      "source": "original",
+      "mtime": "1666910986",
+      "size": "285546",
+      "md5": "d8cceb510692a91fe9ace0a7a6d66bb6",
+      "crc32": "fd34e4e2",
+      "sha1": "fdd5d8b3861f81a3daf192ce23e5318d9567dcd1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bucyrustf-2022-10-27T18:49:40.021919-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910994",
+      "size": "1594",
+      "md5": "e09fd6574039791623eebc5644a6a75a",
+      "crc32": "ebad0a3c",
+      "sha1": "00ecadcaa0220d770933d3767d03b2cf39f9f460",
+      "format": "JSON"
+    },
+    {
+      "name": "bucyrustf-2022-10-27T18:49:40.021919-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910996",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bucyrustf-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8bb7ff06f1469e8280199f34b9d4a41fd3752319",
-      "mtime": "1666868806",
-      "size": "95437",
-      "md5": "1b159af4a3d3e11f286fe2af2ec9df27",
-      "crc32": "372a5f7d",
-      "sha1": "6a59167c50b1050d54fee0ea4a8b0233a2322b96",
+      "btih": "00f2e36747227092226735ea06035cafa2b81e65",
+      "mtime": "1666911042",
+      "size": "96688",
+      "md5": "c2f44cf1830dfc6123bd16a27fa25730",
+      "crc32": "206a9fb8",
+      "sha1": "0bb6fe734a3c1848b4f61bee2788eae13eb85baf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bucyrustf-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "561475df214135570d3664040a6715c6",
+      "md5": "928d7da0cd22286dacc7174a927dd409",
       "summation": "md5"
     },
     {
       "name": "bucyrustf-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666868768",
-      "size": "589824",
-      "md5": "19f127e33748ac505500223b24bc2f37",
-      "crc32": "b21703f4",
-      "sha1": "6f4c7e2c7128cd9ff45c309aecd49bde49fffb02",
+      "mtime": "1666911003",
+      "size": "593920",
+      "md5": "301bfb3dd0cd7dce02553269fc4b814c",
+      "crc32": "78aa7be3",
+      "sha1": "ed62e0be7cfaa46a3f5e64fcf075730184846a2d",
       "format": "Metadata"
     },
     {
@@ -4648,9 +4705,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 449,
-  "item_last_updated": 1666868806,
-  "item_size": 29572317,
+  "files_count": 455,
+  "item_last_updated": 1666911042,
+  "item_size": 29924988,
   "metadata": {
     "identifier": "bucyrustf-2022",
     "collection": [
@@ -4672,7 +4729,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454051812,
+      "task_id": 3454511918,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4680,7 +4737,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1219869676,
+  "uniq": 307053263,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

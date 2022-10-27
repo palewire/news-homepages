@@ -1,5 +1,5 @@
 {
-  "created": 1666868698,
+  "created": 1666910964,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/34/items/aviationnews-2022",
@@ -8439,31 +8439,83 @@
       "format": "JSON"
     },
     {
+      "name": "aviationnews-2022-10-27T07:03:16.590421-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-10-27T07:03:16.590421-04:00.jpg",
+      "mtime": "1666887044",
+      "size": "7125",
+      "md5": "89cb500677acfc260ce219bae90debc7",
+      "crc32": "7103b984",
+      "sha1": "a45d571768f665321af4c0ca6827ed65a4a8067e"
+    },
+    {
+      "name": "aviationnews-2022-10-27T18:47:16.008426-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910848",
+      "size": "158064",
+      "md5": "ccc2e64cf6901a6a3939e1b1169e5484",
+      "crc32": "2b1cff87",
+      "sha1": "c73cec9f6cb2607acf52632b81804ad051c70bd0",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-27T18:47:16.008426-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910849",
+      "size": "263981",
+      "md5": "4aa63a14f2691f9b52a66adda6ba5ebb",
+      "crc32": "0f7078a8",
+      "sha1": "acbec0a853de107e816533c7b3ca04443c945545",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-27T18:47:16.008426-04:00.jpg",
+      "source": "original",
+      "mtime": "1666910844",
+      "size": "128618",
+      "md5": "7c4c1daee7aae0d90ae584f2e30e580b",
+      "crc32": "6f9348b9",
+      "sha1": "4fd46b241587028d76fa114ffc7a624e8443d71d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-27T18:47:16.008426-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910851",
+      "size": "37195",
+      "md5": "fdc0934889171a05a2eb8cfe516154bb",
+      "crc32": "9e4d5b40",
+      "sha1": "bbc373d0e82081d0f9951a6d0dfd98cd3a2f281e",
+      "format": "JSON"
+    },
+    {
       "name": "aviationnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "26997216f0de7f42c0036fac08fed892af2273c7",
-      "mtime": "1666868689",
-      "size": "177504",
-      "md5": "782b00e03b70bc27a83bf2375545d9c1",
-      "crc32": "c3162fba",
-      "sha1": "37fa49a451774d53396d3de8154cdfc1e2dcd896",
+      "btih": "1b338f103332d2a3120dd695eaa079aa85315e57",
+      "mtime": "1666910944",
+      "size": "178583",
+      "md5": "1f667592e645d07220106ed9e708f00f",
+      "crc32": "051c1e17",
+      "sha1": "3757bcf9ddd65e7adff90f2a3c9ab672b536f460",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aviationnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c690fed784c719709fc35d61a2ef6dc6",
+      "md5": "d9402eb439940f0299dd2aefa61867a4",
       "summation": "md5"
     },
     {
       "name": "aviationnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666868625",
-      "size": "1060864",
-      "md5": "b933aec7d9999d01d5dcef822295e150",
-      "crc32": "9e0f3760",
-      "sha1": "f26d8946bdbad37e8f7f227bed563228dc08fe48",
+      "mtime": "1666910872",
+      "size": "1064960",
+      "md5": "30dbdfc7e3715f29bf3d910f9d25ff0c",
+      "crc32": "e1386892",
+      "sha1": "a34e5cbef940b73c363a3417e047d9f01768b7e5",
       "format": "Metadata"
     },
     {
@@ -8477,9 +8529,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 820,
-  "item_last_updated": 1666868689,
-  "item_size": 79227750,
+  "files_count": 825,
+  "item_last_updated": 1666910944,
+  "item_size": 79827908,
   "metadata": {
     "identifier": "aviationnews-2022",
     "collection": [
@@ -8501,7 +8553,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454050489,
+      "task_id": 3454510127,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8509,7 +8561,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 162910375,
+  "uniq": 258055396,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

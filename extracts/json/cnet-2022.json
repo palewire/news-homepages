@@ -1,5 +1,5 @@
 {
-  "created": 1666868820,
+  "created": 1666911050,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/33/items/cnet-2022",
@@ -13993,31 +13993,93 @@
       "format": "JSON"
     },
     {
+      "name": "cnet-2022-10-27T04:05:44.542094-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnet-2022-10-27T04:05:44.542094-07:00.jpg",
+      "mtime": "1666887122",
+      "size": "8784",
+      "md5": "d9d6b940d53e3dbc4d03b56abca6be7e",
+      "crc32": "7eaa4e65",
+      "sha1": "6f3044fc19f66f8b6a7a66ea2d2233ba193f45be"
+    },
+    {
+      "name": "cnet-2022-10-27T15:49:20.066302-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910970",
+      "size": "25002",
+      "md5": "7bcf496bcd61c4dbc8f0b5d907375c64",
+      "crc32": "b30bc86d",
+      "sha1": "da0e3660d9e003be7916b68f0b9d385121512c22",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-10-27T15:49:20.066302-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910971",
+      "size": "25162",
+      "md5": "d05ef327af5f16c6e6149a5b9d158349",
+      "crc32": "c88871bb",
+      "sha1": "90a4daf3a92ff3744b83957898bdfb2a401ad650",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-10-27T15:49:20.066302-07:00.jpg",
+      "source": "original",
+      "mtime": "1666910967",
+      "size": "226087",
+      "md5": "a91f5a82a7c840729dd29063aafbdcda",
+      "crc32": "011fc032",
+      "sha1": "066c5aa722889845f29b3d4cdb2df21af0418e23",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnet-2022-10-27T15:49:20.066302-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910973",
+      "size": "1438",
+      "md5": "965ca145c908633ae4aa7246f3bf915d",
+      "crc32": "1463c86c",
+      "sha1": "1e68e388f36f8875690af832616953eb7e57e118",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-10-27T15:49:20.066302-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910977",
+      "size": "209785",
+      "md5": "3e18d09ad46f5b95c1a84954bb4b1277",
+      "crc32": "52ec4f51",
+      "sha1": "3acc1adeb0f295ec4fbaa51c754c738d9eb90743",
+      "format": "JSON"
+    },
+    {
       "name": "cnet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5eaece957c4bef1ebbd331ea2e2f064f1f8ba365",
-      "mtime": "1666868814",
-      "size": "279015",
-      "md5": "70e607d0d0da2071d874443297ef9365",
-      "crc32": "dc243c30",
-      "sha1": "918f4ac068706a8d0ea6b426013c8b1deff436b1",
+      "btih": "8a3f02be4321e92a8e6eea88ce10a31a2ba4a3ee",
+      "mtime": "1666911040",
+      "size": "280259",
+      "md5": "5624522cb35d78e3005f3fec75d9d9a3",
+      "crc32": "c290a009",
+      "sha1": "248c98bde0c4169308dd3826a692d28a8ee3418a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47441374641d3609f726032e7bc87880",
+      "md5": "906b2cbea2245724dcb41d0ca1d951fc",
       "summation": "md5"
     },
     {
       "name": "cnet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666868761",
-      "size": "1679360",
-      "md5": "166ac57292daa142ab9b42d17229ac0c",
-      "crc32": "2770dc1f",
-      "sha1": "fa0ebf80d9bdf27a598781bb41ed93e141501c5f",
+      "mtime": "1666910984",
+      "size": "1687552",
+      "md5": "ad9df6e7c9c4642d012881f7f0fc279f",
+      "crc32": "5c3fa85d",
+      "sha1": "a3f35e8dad87c6192231d8a59a6ec11c97f2ca80",
       "format": "Metadata"
     },
     {
@@ -14031,9 +14093,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1353,
-  "item_last_updated": 1666868814,
-  "item_size": 76380264,
+  "files_count": 1359,
+  "item_last_updated": 1666911040,
+  "item_size": 76885958,
   "metadata": {
     "identifier": "cnet-2022",
     "collection": [
@@ -14055,7 +14117,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454051918,
+      "task_id": 3454511944,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14063,7 +14125,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1298453618,
+  "uniq": 1229456761,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

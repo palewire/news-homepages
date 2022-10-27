@@ -1,10 +1,5 @@
 {
-  "aviationweek-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666872726,
+  "created": 1666910932,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/3/items/aviationweek-2022",
@@ -8474,31 +8469,93 @@
       "format": "JSON"
     },
     {
+      "name": "aviationweek-2022-10-27T07:02:43.599471-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationweek-2022-10-27T07:02:43.599471-04:00.jpg",
+      "mtime": "1666886909",
+      "size": "9161",
+      "md5": "6906207c2bdd8d76061a547ce46258ba",
+      "crc32": "14d0cb8b",
+      "sha1": "e87b11828d707bd6d215d1a61b4907764e63cc1e"
+    },
+    {
+      "name": "aviationweek-2022-10-27T18:47:22.658242-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910853",
+      "size": "24867",
+      "md5": "65679e54aee84d9992242ded17f2c781",
+      "crc32": "100551eb",
+      "sha1": "33e893486e192625efab9140bcea5deee86badfc",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-27T18:47:22.658242-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910855",
+      "size": "36245",
+      "md5": "df2672b420828cc52c2640eeb68d02d4",
+      "crc32": "00f9c271",
+      "sha1": "2ca17b9deab271f767675b425d2b99e32ede082b",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-27T18:47:22.658242-04:00.jpg",
+      "source": "original",
+      "mtime": "1666910851",
+      "size": "191498",
+      "md5": "4025c23075b78f4c5c322510a6c8f372",
+      "crc32": "1679afca",
+      "sha1": "480c9f2fda975c89bfe8fa5827b11c1e54438da6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationweek-2022-10-27T18:47:22.658242-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910862",
+      "size": "1477",
+      "md5": "9b80b98d180ce64f2e3682da33f4284e",
+      "crc32": "02e3be79",
+      "sha1": "06088544856953c1337d6f4b347517b1062eeb8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationweek-2022-10-27T18:47:22.658242-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910864",
+      "size": "103036",
+      "md5": "7b08351c0bf7ac3060d0ce4c820cdd24",
+      "crc32": "c7ce9be2",
+      "sha1": "37579adc2186d6a6f5765f13119aebe66126e0d1",
+      "format": "JSON"
+    },
+    {
       "name": "aviationweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e1fcf6ccd5d88939a60f51395e78dfe202338a9",
-      "mtime": "1666868629",
-      "size": "176707",
-      "md5": "413696eae35ad8e53f6992786c609d40",
-      "crc32": "94efabaa",
-      "sha1": "0ccfef1ae947723ae869dbf81bfd114fc3385462",
+      "btih": "9edaf65dd2de178fb4fa649b5d3e14176c5cf204",
+      "mtime": "1666910923",
+      "size": "177999",
+      "md5": "1783a3796e8f40a76a68ed4ca35c4518",
+      "crc32": "044ff27d",
+      "sha1": "6e94534839a111a42cf744c431e29a5e39601dbf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aviationweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "723756848d2e26da03ddd571fd858d51",
+      "md5": "31e253d5eef77f799ec7e0e5be04737e",
       "summation": "md5"
     },
     {
       "name": "aviationweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666868583",
-      "size": "1064960",
-      "md5": "82514a44aa731a43d6b5f879d7cd11f8",
-      "crc32": "af64ad81",
-      "sha1": "c8d0ebe313dc718246b18ed57d96a841a0dda25c",
+      "mtime": "1666910869",
+      "size": "1069056",
+      "md5": "65ccbd638b3856793f329d6dff87ebcf",
+      "crc32": "e549c404",
+      "sha1": "55a05a07cf123db797fe9a2cb75274cb504c3ac6",
       "format": "Metadata"
     },
     {
@@ -8512,9 +8569,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 823,
-  "item_last_updated": 1666868629,
-  "item_size": 47658958,
+  "files_count": 829,
+  "item_last_updated": 1666910923,
+  "item_size": 48030630,
   "metadata": {
     "identifier": "aviationweek-2022",
     "collection": [
@@ -8536,7 +8593,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454049635,
+      "task_id": 3454509384,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8544,7 +8601,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 187987096,
+  "uniq": 1871116003,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]
