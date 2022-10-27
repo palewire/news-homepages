@@ -1,8 +1,13 @@
 {
-  "created": 1666850530,
+  "created": 1666899262,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/fastcompany-2022",
+  "fastcompany-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -12573,31 +12578,83 @@
       "format": "JSON"
     },
     {
+      "name": "fastcompany-2022-10-27T02:00:37.229817-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fastcompany-2022-10-27T02:00:37.229817-04:00.jpg",
+      "mtime": "1666874243",
+      "size": "11014",
+      "md5": "7c032faf2b71f571e37e4a9128ce54a4",
+      "crc32": "5dd6369f",
+      "sha1": "127d39b685f79c6730b64d2334a1c42b47f1445e"
+    },
+    {
+      "name": "fastcompany-2022-10-27T13:54:54.300769-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893322",
+      "size": "155",
+      "md5": "0bf4849fe37e6ec481392dcfd8ae77e6",
+      "crc32": "264021d0",
+      "sha1": "8f6066dd00f85cbfd7a154164c35e6c1fb9e632d",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-10-27T13:54:54.300769-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893324",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "fastcompany-2022-10-27T13:54:54.300769-04:00.jpg",
+      "source": "original",
+      "mtime": "1666893314",
+      "size": "441331",
+      "md5": "e2cb46293b39f08f1420dd2fbe09b2a5",
+      "crc32": "ca13575f",
+      "sha1": "47c5186aaacb2cce3c966ddfe69212d65094c974",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fastcompany-2022-10-27T13:54:54.300769-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893327",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "fastcompany-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d5dd90d6d75a75cce5b6da619003d898fc148ea1",
-      "mtime": "1666850515",
-      "size": "260336",
-      "md5": "056d82537c973db5a2ae243df2b10cd8",
-      "crc32": "01aca6f5",
-      "sha1": "e4f797b76a9364fb53b4ed666f4e809e5b78e542",
+      "btih": "679b06fad9cd05d6ad44d543b89d17ceae63fa71",
+      "mtime": "1666893401",
+      "size": "261401",
+      "md5": "0fe439986ef037d361fe32202fc4dbfc",
+      "crc32": "b3e160c6",
+      "sha1": "34d248815345ced00f3d5ccaf5a92b4ea4ce23c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fastcompany-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "350824f8454a6dc2ae177ba7dc69ddff",
+      "md5": "bb0f7e8e99e2acc860088834a0169d2e",
       "summation": "md5"
     },
     {
       "name": "fastcompany-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850457",
-      "size": "1519616",
-      "md5": "680ca7f749f6b9dae709bde297c3cd92",
-      "crc32": "7a3c41f4",
-      "sha1": "c3d8f8be6b027e640706d7626dab557e83ce09b8",
+      "mtime": "1666893336",
+      "size": "1523712",
+      "md5": "53e0d8c2185bc5a4f41aa65ad55ffee7",
+      "crc32": "c1ac3391",
+      "sha1": "9e91dfaa72bb68f35de220dbc34defdf5e5a8f5c",
       "format": "Metadata"
     },
     {
@@ -12611,9 +12668,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1215,
-  "item_last_updated": 1666850515,
-  "item_size": 105613967,
+  "files_count": 1220,
+  "item_last_updated": 1666893401,
+  "item_size": 106071832,
   "metadata": {
     "identifier": "fastcompany-2022",
     "collection": [
@@ -12635,7 +12692,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453852763,
+      "task_id": 3454300962,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12643,7 +12700,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 10512291,
+  "uniq": 80157912,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

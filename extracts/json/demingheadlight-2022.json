@@ -1,5 +1,5 @@
 {
-  "created": 1666850435,
+  "created": 1666893300,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/demingheadlight-2022",
@@ -4583,31 +4583,93 @@
       "format": "JSON"
     },
     {
+      "name": "demingheadlight-2022-10-26T23:59:28.732065-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "demingheadlight-2022-10-26T23:59:28.732065-06:00.jpg",
+      "mtime": "1666874135",
+      "size": "9339",
+      "md5": "e1eb23af13a659037e3537168886809f",
+      "crc32": "f491c359",
+      "sha1": "211ba8a919efd066b515b5d119796c057a978597"
+    },
+    {
+      "name": "demingheadlight-2022-10-27T11:53:45.796726-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893240",
+      "size": "20949",
+      "md5": "bb04438d061d2125d547eb5f9230a427",
+      "crc32": "28132d78",
+      "sha1": "0c211eb3af7d396da63f9b3852957073a9b5b3de",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-27T11:53:45.796726-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893241",
+      "size": "32870",
+      "md5": "ce7a4c3dfc0be15720cda79750272c2e",
+      "crc32": "257b9ede",
+      "sha1": "deb8a0d470b33e2902d8d61b49003d449e6457a6",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-27T11:53:45.796726-06:00.jpg",
+      "source": "original",
+      "mtime": "1666893239",
+      "size": "247745",
+      "md5": "e8cd56acfa5e23174192e88c20eb3462",
+      "crc32": "475a4cd2",
+      "sha1": "40ded473549f29bb78d791ee260a71d8029a85b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "demingheadlight-2022-10-27T11:53:45.796726-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893243",
+      "size": "1540",
+      "md5": "4afb6e27c8a7e2589584109e20527c5c",
+      "crc32": "64f9151c",
+      "sha1": "e97ba80d98904029a522f6e6332f950e74325c02",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-27T11:53:45.796726-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893245",
+      "size": "104507",
+      "md5": "318c3e9bbe29001fa01f2c72aa0bf253",
+      "crc32": "3710e949",
+      "sha1": "e8bd405b1861c4f79f0f8867b8f5bab1063affd1",
+      "format": "JSON"
+    },
+    {
       "name": "demingheadlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c81690c820433e9f63ec0d4b173b47da5291f28e",
-      "mtime": "1666850431",
-      "size": "97657",
-      "md5": "93fb3ecd2e05f55134376df3103ac874",
-      "crc32": "c5a51d7b",
-      "sha1": "52ada14e128d58029c8ca7e8b59609afd7827ff8",
+      "btih": "acd1abfa992c31ad51fac154e837131c6d2c4b48",
+      "mtime": "1666893296",
+      "size": "98967",
+      "md5": "efad4ed6cdbed3abe60c31e3baa2d7c5",
+      "crc32": "5d7b38bd",
+      "sha1": "6fb61c4f71b2d9d7c50de1fbb6cf6821c25e42c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "demingheadlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b278f5ce24e5f55cd8f335c457e8fe5b",
+      "md5": "cd52909f2a1a5983def950a6ad8ecda1",
       "summation": "md5"
     },
     {
       "name": "demingheadlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850388",
-      "size": "585728",
-      "md5": "4e9ed1e979ecc2cc770b63badb061862",
-      "crc32": "6aa0a81c",
-      "sha1": "96f503fcd5bfa5d4d3998c4054ad3fdb5e0e0fd9",
+      "mtime": "1666893252",
+      "size": "593920",
+      "md5": "a7b90b3d8b37cb2370848a1ed49e10e5",
+      "crc32": "4b53ca92",
+      "sha1": "76e609a53b27faf1a2e1013584236100a8fecc97",
       "format": "Metadata"
     },
     {
@@ -4621,9 +4683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1666850431,
-  "item_size": 28107567,
+  "files_count": 453,
+  "item_last_updated": 1666893296,
+  "item_size": 28534019,
   "metadata": {
     "identifier": "demingheadlight-2022",
     "collection": [
@@ -4645,7 +4707,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453850644,
+      "task_id": 3454299773,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4653,7 +4715,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 71349074,
+  "uniq": 1537244806,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

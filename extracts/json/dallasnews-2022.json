@@ -1,5 +1,5 @@
 {
-  "created": 1666854771,
+  "created": 1666893322,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/dallasnews-2022",
@@ -14507,31 +14507,93 @@
       "format": "JSON"
     },
     {
+      "name": "dallasnews-2022-10-27T00:58:27.655561-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasnews-2022-10-27T00:58:27.655561-05:00.jpg",
+      "mtime": "1666874107",
+      "size": "6889",
+      "md5": "6355e54c88ea61cabe15855f3bce6511",
+      "crc32": "c725fe50",
+      "sha1": "c5adf6133f64865efabfa176e766afc1335a9ff8"
+    },
+    {
+      "name": "dallasnews-2022-10-27T12:53:37.725165-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893232",
+      "size": "27316",
+      "md5": "5915946ec527b5e122bbd64f4060f989",
+      "crc32": "79309daf",
+      "sha1": "46d5affc349c89a690dc81bbd7ff4ba2427e63bc",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-27T12:53:37.725165-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893233",
+      "size": "39217",
+      "md5": "0f955dc736b3ef0d1c2f6e272468d4fb",
+      "crc32": "c7d211b7",
+      "sha1": "1f8ecc85bcaa4d4e103c8716238ca31cd45fbf18",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-27T12:53:37.725165-05:00.jpg",
+      "source": "original",
+      "mtime": "1666893229",
+      "size": "127687",
+      "md5": "ef661fa3cb3a1ed1482efb357cac5e86",
+      "crc32": "e485efdf",
+      "sha1": "4ba2ee7c3e57bcee6e2c24692acaa4e34fb798aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasnews-2022-10-27T12:53:37.725165-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893235",
+      "size": "1486",
+      "md5": "731f6c7fefb70494c67429c0b3976b7d",
+      "crc32": "397e2dfb",
+      "sha1": "1093b914f90e5888f3181a67dcdf8ffd30aad749",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasnews-2022-10-27T12:53:37.725165-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893237",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "dallasnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2691d8de2476b164ef017b02a62c770dd21af0db",
-      "mtime": "1666850407",
-      "size": "298339",
-      "md5": "23b974ceef97f90b2e5148ac3b675b9a",
-      "crc32": "dda29a0b",
-      "sha1": "a9916dacf5fe0b5312056acd77a0453ecb47594d",
+      "btih": "c2e9949427db860be5d530fa7e6ef9fd51355f69",
+      "mtime": "1666893301",
+      "size": "299596",
+      "md5": "9dfcd8553fbda4f48a659f2c801cb0f4",
+      "crc32": "31160438",
+      "sha1": "e1c549ee9ed363749f92c83fa8b6a999948043e5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40c4279fe32deeff0b5a775a7fa6b662",
+      "md5": "ee3d9ef8b953b810c5c833091c985653",
       "summation": "md5"
     },
     {
       "name": "dallasnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850343",
-      "size": "1748992",
-      "md5": "5c6b867a1696e2e6f6c01b6c5cba97ab",
-      "crc32": "9999da07",
-      "sha1": "56e932735fae383500596ec9ad57ba2fccbffffd",
+      "mtime": "1666893242",
+      "size": "1757184",
+      "md5": "6d29698e9a309a50a021bf420adcade3",
+      "crc32": "06bb8b47",
+      "sha1": "e98138dbfca45d6ff1178c4cac002aaa38d4c119",
       "format": "Metadata"
     },
     {
@@ -14545,9 +14607,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1402,
-  "item_last_updated": 1666850407,
-  "item_size": 100517119,
+  "files_count": 1408,
+  "item_last_updated": 1666893301,
+  "item_size": 100729365,
   "metadata": {
     "identifier": "dallasnews-2022",
     "collection": [
@@ -14569,7 +14631,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453850499,
+      "task_id": 3454300119,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14577,7 +14639,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 100578682,
+  "uniq": 1740709917,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

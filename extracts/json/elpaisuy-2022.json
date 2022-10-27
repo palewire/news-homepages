@@ -1,5 +1,5 @@
 {
-  "created": 1666850431,
+  "created": 1666893391,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/elpaisuy-2022",
@@ -12745,31 +12745,93 @@
       "format": "JSON"
     },
     {
+      "name": "elpaisuy-2022-10-27T02:59:00.689790-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-27T02:59:00.689790-03:00.jpg",
+      "mtime": "1666874126",
+      "size": "10962",
+      "md5": "e513a596c6fbfe582eda3fd7da53fbbb",
+      "crc32": "e8236179",
+      "sha1": "5ad450d2c5a435b70e3e4f06e968e773e87d6161"
+    },
+    {
+      "name": "elpaisuy-2022-10-27T14:55:12.079893-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893320",
+      "size": "50065",
+      "md5": "5e0dda7c912bb37068c0757f1763e968",
+      "crc32": "9992d635",
+      "sha1": "69fc92c29e513f1cef381c1a20795dedd54ed6c7",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-27T14:55:12.079893-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893322",
+      "size": "93606",
+      "md5": "b17795c76cc3222af4c5fa5aa862d909",
+      "crc32": "c7afffbd",
+      "sha1": "7a057530323ff1ab72dec1878983e7253e5b7724",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-27T14:55:12.079893-03:00.jpg",
+      "source": "original",
+      "mtime": "1666893318",
+      "size": "262402",
+      "md5": "f913ec75ffdef00c6772300a9e495fc0",
+      "crc32": "cc245795",
+      "sha1": "228f2777e98e6222ebfa252b528ca111ef8fd5f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-27T14:55:12.079893-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893325",
+      "size": "1483",
+      "md5": "bf956b6b1bf8fec18ff7c9005cddeefb",
+      "crc32": "680c929a",
+      "sha1": "4cc074a9a809404f84bc2421b8191fa5d6d9780d",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-27T14:55:12.079893-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893327",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "elpaisuy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f77aa0f6babe2d59450dd1a6c5fe3583ba101a68",
-      "mtime": "1666850423",
-      "size": "260837",
-      "md5": "9ae5fe5e7e60efc1989d0408f21062f2",
-      "crc32": "8a465d89",
-      "sha1": "eb78d23b8337db600623cc54744cb969e56bafdf",
+      "btih": "9ffb9cf8e2c899e53ad019c692d546cd9a4546e8",
+      "mtime": "1666893384",
+      "size": "262103",
+      "md5": "b9729abb2cbbf29ecd5a7f35af80da9b",
+      "crc32": "f9a0e1ff",
+      "sha1": "4e87bdd03e071915f033d89f02a0b0dda6782abe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpaisuy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e35593bc474266ed1a95e04b000029d",
+      "md5": "bdd918b87e6f5fdc4b365484dc827bad",
       "summation": "md5"
     },
     {
       "name": "elpaisuy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850372",
-      "size": "1552384",
-      "md5": "3db6c71f3b8576a85e6e5139198aaeb7",
-      "crc32": "bc14d51a",
-      "sha1": "f6d6467465d2abc5accd4c7e74caa66a83c3b2df",
+      "mtime": "1666893333",
+      "size": "1560576",
+      "md5": "710b9225028240609f8eb1c795f4df30",
+      "crc32": "80f2c4ea",
+      "sha1": "91cda13b7da7157bb4f4c27e2292f8126fc63b3a",
       "format": "Metadata"
     },
     {
@@ -12783,9 +12845,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1234,
-  "item_last_updated": 1666850423,
-  "item_size": 100860196,
+  "files_count": 1240,
+  "item_last_updated": 1666893384,
+  "item_size": 101288374,
   "metadata": {
     "identifier": "elpaisuy-2022",
     "collection": [
@@ -12807,7 +12869,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453850584,
+      "task_id": 3454300771,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12815,7 +12877,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 61030036,
+  "uniq": 1005127295,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

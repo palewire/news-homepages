@@ -1,5 +1,5 @@
 {
-  "created": 1666850146,
+  "created": 1666893133,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/crikey_news-2022",
@@ -8159,31 +8159,93 @@
       "format": "JSON"
     },
     {
+      "name": "crikey_news-2022-10-27T16:54:35.768064+11:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crikey_news-2022-10-27T16:54:35.768064+11:00.jpg",
+      "mtime": "1666873980",
+      "size": "11483",
+      "md5": "28835028c56f15f9dea9166b25febd9b",
+      "crc32": "f48007e4",
+      "sha1": "6122bc99f4bccaa5d15b6eb3720899d92a53b74e"
+    },
+    {
+      "name": "crikey_news-2022-10-28T04:50:51.323161+11:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893059",
+      "size": "56907",
+      "md5": "8f613e58c87d0ddfb06e43e254558cd3",
+      "crc32": "e1f6dc8f",
+      "sha1": "9623e8108fe051246059e9d748bfe578d144263a",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-10-28T04:50:51.323161+11:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893062",
+      "size": "51675",
+      "md5": "b84f76a1604dd17225976cf6a6cec9ee",
+      "crc32": "99046f6d",
+      "sha1": "86142f272bdc0488f3dcda07de6bd07abfbe7a09",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-10-28T04:50:51.323161+11:00.jpg",
+      "source": "original",
+      "mtime": "1666893057",
+      "size": "396565",
+      "md5": "92b54ba4de269b84c67bc125a5b27461",
+      "crc32": "bde15f65",
+      "sha1": "4679782168fcd82ba545ce40bd86b966a82bc54e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "crikey_news-2022-10-28T04:50:51.323161+11:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893064",
+      "size": "1483",
+      "md5": "772dab8dac2dcebf21582e4929f4c310",
+      "crc32": "e26ed5a8",
+      "sha1": "fa4ad38899aba78a5f0aed97b7d30be55f39ac79",
+      "format": "JSON"
+    },
+    {
+      "name": "crikey_news-2022-10-28T04:50:51.323161+11:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893066",
+      "size": "18795",
+      "md5": "128fc4cf601bb9909f5353da83a19534",
+      "crc32": "649b0bb0",
+      "sha1": "f9b94443ae7ec044c028e4a2167ad1e36c658d58",
+      "format": "JSON"
+    },
+    {
       "name": "crikey_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bd23fcf79c89db33923076a91ae53802f7681123",
-      "mtime": "1666850138",
-      "size": "170277",
-      "md5": "b9cfd03920227c9bb45aa172478b5c70",
-      "crc32": "5ceb9941",
-      "sha1": "018e9b8090155a5a04e9b3dd0e16a2ba790639d1",
+      "btih": "fa7a08405b1c8e3224867e4bc5e9d847be8f15d5",
+      "mtime": "1666893121",
+      "size": "171563",
+      "md5": "7d5537a3311eba930f9d178131836eaa",
+      "crc32": "c4ce4f4a",
+      "sha1": "3f8d9bd813f1ea0cad027905a1bf0fbe69f0f2a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crikey_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49b17e21abf3390ff861edbbd8df8f71",
+      "md5": "843c465cc9df83574c075fe219ac22ba",
       "summation": "md5"
     },
     {
       "name": "crikey_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850096",
-      "size": "1024000",
-      "md5": "42cbe924e21d14332a2db4c718a299ad",
-      "crc32": "072234d6",
-      "sha1": "5ba8d0c3d729f7fb4376c7eaa10c4df717509598",
+      "mtime": "1666893075",
+      "size": "1032192",
+      "md5": "422ba8e0d3a008f0dcd008326a09cdaf",
+      "crc32": "58d677f0",
+      "sha1": "bc60612c2ad3dc42e66fba624dc8a379496a0854",
       "format": "Metadata"
     },
     {
@@ -8197,9 +8259,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 793,
-  "item_last_updated": 1666850138,
-  "item_size": 64610565,
+  "files_count": 799,
+  "item_last_updated": 1666893121,
+  "item_size": 65156951,
   "metadata": {
     "identifier": "crikey_news-2022",
     "collection": [
@@ -8221,7 +8283,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453847614,
+      "task_id": 3454298034,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8229,7 +8291,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1111587330,
+  "uniq": 525855797,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

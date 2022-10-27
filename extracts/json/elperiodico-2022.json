@@ -1,5 +1,5 @@
 {
-  "created": 1666850387,
+  "created": 1666899109,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/elperiodico-2022",
@@ -11319,31 +11319,93 @@
       "format": "JSON"
     },
     {
+      "name": "elperiodico-2022-10-27T07:58:14.672093+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elperiodico-2022-10-27T07:58:14.672093+02:00.jpg",
+      "mtime": "1666874170",
+      "size": "8847",
+      "md5": "05fb6d2bccb24de0045d73c60e9a7878",
+      "crc32": "c6f77f66",
+      "sha1": "f0811b39e0cdb9b4eb25b9a8eb65a898fbb108e5"
+    },
+    {
+      "name": "elperiodico-2022-10-27T19:55:03.618806+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893308",
+      "size": "111984",
+      "md5": "a640edc48f4ac6703ee9991421c318ac",
+      "crc32": "57360ad9",
+      "sha1": "a72976a747e7e284b1f8f4cee9f25d7762eb0877",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-10-27T19:55:03.618806+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893310",
+      "size": "166686",
+      "md5": "5275d4a0ecb88766a424eeb9c001c308",
+      "crc32": "f989cb60",
+      "sha1": "e3be00ef6e5a162aab3347822bcc90b0a1d4e754",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-10-27T19:55:03.618806+02:00.jpg",
+      "source": "original",
+      "mtime": "1666893305",
+      "size": "232540",
+      "md5": "c425027b01f05eaf39240e01c265f1b3",
+      "crc32": "5cdd9809",
+      "sha1": "868aff1f490c331f621c323cf028c9292dbef9ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elperiodico-2022-10-27T19:55:03.618806+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893312",
+      "size": "1528",
+      "md5": "d68b3eba84416d54f2fd8a10e95a14c3",
+      "crc32": "e62693dd",
+      "sha1": "cd9a6b8d0bcc93a03ccf8210dda20dcee611478f",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-10-27T19:55:03.618806+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893314",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "elperiodico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb55350fe7e5da3acec36b3ad4fb2926a181da06",
-      "mtime": "1666850374",
-      "size": "236466",
-      "md5": "1d1f3d45dfe7264a3ff033701dee1694",
-      "crc32": "2987f6a8",
-      "sha1": "19a9211e94dc46cbc104d788c2bf046cf83ed22c",
+      "btih": "1a9abd43623d71a9963f14bcf172bbb0d5735746",
+      "mtime": "1666893386",
+      "size": "237751",
+      "md5": "355eb1a8ddadbd70f5294361ffdaca1d",
+      "crc32": "5b5fe34e",
+      "sha1": "4caf9c1992b8dee3056e5419b829a14201d328f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elperiodico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a977bf6e288303b5a91ecee3a414c1b1",
+      "md5": "2b2939dc20513d59692377576524c06c",
       "summation": "md5"
     },
     {
       "name": "elperiodico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850319",
-      "size": "1409024",
-      "md5": "eba295f3e0ecee0f46d1b628b990c9f7",
-      "crc32": "12451b3d",
-      "sha1": "633c8c49447999edbdfa673cd45a2555b33ca73b",
+      "mtime": "1666893329",
+      "size": "1413120",
+      "md5": "b071758b15cf9a0241a8a7a0ea7b3f16",
+      "crc32": "21356a12",
+      "sha1": "a84aa12c1eca8db3f8ab7622947fcf83c58ecf58",
       "format": "Metadata"
     },
     {
@@ -11357,9 +11419,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1098,
-  "item_last_updated": 1666850374,
-  "item_size": 109132830,
+  "files_count": 1104,
+  "item_last_updated": 1666893386,
+  "item_size": 109659998,
   "metadata": {
     "identifier": "elperiodico-2022",
     "collection": [
@@ -11381,7 +11443,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453850125,
+      "task_id": 3454300873,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11389,7 +11451,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1396521768,
+  "uniq": 1247922811,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666850436,
+  "created": 1666893399,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/engadget-2022",
@@ -13795,31 +13795,93 @@
       "format": "JSON"
     },
     {
+      "name": "engadget-2022-10-26T22:59:11.190453-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "engadget-2022-10-26T22:59:11.190453-07:00.jpg",
+      "mtime": "1666874157",
+      "size": "9274",
+      "md5": "9c4ead2bd2febfd0141f90110b8659e2",
+      "crc32": "b0778e55",
+      "sha1": "c426f15a06a608f1a2626f65ad11f359ddd9d930"
+    },
+    {
+      "name": "engadget-2022-10-27T10:55:08.049976-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893311",
+      "size": "26628",
+      "md5": "fa5e7d844941bead4fe8766aa6aac458",
+      "crc32": "b8afaf35",
+      "sha1": "06ef1cca2d379ae044c88b80315cd0b942415df7",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-10-27T10:55:08.049976-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893313",
+      "size": "35820",
+      "md5": "03e9468d5900b07a46cbdf83717b736a",
+      "crc32": "5e2ff3d6",
+      "sha1": "90f6b03ce8a7a1c2b7dddf774eb7ddc09b0d9f6d",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-10-27T10:55:08.049976-07:00.jpg",
+      "source": "original",
+      "mtime": "1666893310",
+      "size": "225313",
+      "md5": "47d3b517a97addd8e031c66af9a0aad3",
+      "crc32": "10e6606d",
+      "sha1": "6228e511dd44620712d2df7c31fa56b6bc5b02f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "engadget-2022-10-27T10:55:08.049976-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893315",
+      "size": "1476",
+      "md5": "bd0b8b31210145e6675b37286b90e028",
+      "crc32": "b0077f9d",
+      "sha1": "ff31c8985807450d15a19fed9c98eb295eb469c7",
+      "format": "JSON"
+    },
+    {
+      "name": "engadget-2022-10-27T10:55:08.049976-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893318",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "engadget-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2318c3f330784e32de6cd78094d5b479d947cb7f",
-      "mtime": "1666850429",
-      "size": "280613",
-      "md5": "7adecf6b16f0f111cccc65efa81ecd2f",
-      "crc32": "20115d4b",
-      "sha1": "e2088d955d2c4d6db41bc0cf88f9a5ffff7e8424",
+      "btih": "986d5c6573de28f0d517a69326f53a30f60a835c",
+      "mtime": "1666893388",
+      "size": "281878",
+      "md5": "9ea539b933e15e45bf460ad798cbe712",
+      "crc32": "5a747daa",
+      "sha1": "0403d2aefd5f2040a72fd79da117a9ce4ba06175",
       "format": "Archive BitTorrent"
     },
     {
       "name": "engadget-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a121007652c83f4223752c40743bcb0",
+      "md5": "bd4751483d685cbfacea0dc377437930",
       "summation": "md5"
     },
     {
       "name": "engadget-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850377",
-      "size": "1667072",
-      "md5": "468beace97cd77e3c669807af6b72207",
-      "crc32": "a733217e",
-      "sha1": "60b0a53bbf9e276eb1fd3454a4743ae3c4494c60",
+      "mtime": "1666893328",
+      "size": "1675264",
+      "md5": "1e79e05fb3c97cf58cca46fb9ebfeb93",
+      "crc32": "9cf31766",
+      "sha1": "10ac29c55440cb673de1e434d421a627a15e4a26",
       "format": "Metadata"
     },
     {
@@ -13833,9 +13895,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1334,
-  "item_last_updated": 1666850429,
-  "item_size": 78709149,
+  "files_count": 1340,
+  "item_last_updated": 1666893388,
+  "item_size": 79017319,
   "metadata": {
     "identifier": "engadget-2022",
     "collection": [
@@ -13857,7 +13919,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453850652,
+      "task_id": 3454300848,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13865,7 +13927,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 659654663,
+  "uniq": 2026643440,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

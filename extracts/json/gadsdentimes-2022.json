@@ -1,5 +1,5 @@
 {
-  "created": 1666850541,
+  "created": 1666893570,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/17/items/gadsdentimes-2022",
@@ -4593,31 +4593,93 @@
       "format": "JSON"
     },
     {
+      "name": "gadsdentimes-2022-10-27T01:01:03.643539-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-27T01:01:03.643539-05:00.jpg",
+      "mtime": "1666874219",
+      "size": "9416",
+      "md5": "672831b28cd7dc551ee76d0b79630f9d",
+      "crc32": "4b618835",
+      "sha1": "3c6ccfe836f279f2facde0efa6b528e7c801f044"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893510",
+      "size": "25759",
+      "md5": "cf0c5bbb8e2e932573dcd6386e15d9a2",
+      "crc32": "4d696516",
+      "sha1": "b6132ebd492cd94ea50c3f53de973305f6f223d7",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893511",
+      "size": "51085",
+      "md5": "6e49b1d810c07045e8bad401d586fa2e",
+      "crc32": "b4351d66",
+      "sha1": "70952291cb879aa4d7afcc34f29fe9ff049b019b",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.jpg",
+      "source": "original",
+      "mtime": "1666893507",
+      "size": "313006",
+      "md5": "7c35c309ac17318b949495392f2554d0",
+      "crc32": "dfda5b58",
+      "sha1": "3f08987628d42a2cf098e9e04285da9a1b29547e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893513",
+      "size": "1511",
+      "md5": "fe8e6f6aa5969683ab749057c404bf27",
+      "crc32": "cb345841",
+      "sha1": "a71cae8bf00773cceb3cd3ac2ea4b8288dcf934e",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893515",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gadsdentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "505c340b0c1db068d90c0f6aec2cb395e595dfe5",
-      "mtime": "1666850534",
-      "size": "96619",
-      "md5": "56c6173f5c855a206a298d8bc7c28ad6",
-      "crc32": "2eb89ecb",
-      "sha1": "3f277fb64880d52806988fd4a37dbb106e3ff9e2",
+      "btih": "6e7964f3cdde6f7bab1861c07e6c591834f8ed03",
+      "mtime": "1666893563",
+      "size": "97908",
+      "md5": "d7a255f2f2719423b35852626facb6c3",
+      "crc32": "a0cd67d4",
+      "sha1": "c4b19c38b2f2aac98a77c229e14a80cc270e087a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gadsdentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "97df06bd89def88e6721737bdf16907c",
+      "md5": "2da5af055e16928c2c34e761b22b9838",
       "summation": "md5"
     },
     {
       "name": "gadsdentimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850491",
-      "size": "589824",
-      "md5": "c642b43ac2464ab04204e2d13dd45af0",
-      "crc32": "8b21c023",
-      "sha1": "257097103fdbbe5c77be4dfb68a9379863bd6d5a",
+      "mtime": "1666893523",
+      "size": "593920",
+      "md5": "0c83e413d90ade5310e8235627faafb4",
+      "crc32": "c1e50331",
+      "sha1": "43af9d82a0e441cdd3ec8a1d7593f53d8a62e149",
       "format": "Metadata"
     },
     {
@@ -4631,9 +4693,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666850534,
-  "item_size": 30354642,
+  "files_count": 454,
+  "item_last_updated": 1666893563,
+  "item_size": 30761006,
   "metadata": {
     "identifier": "gadsdentimes-2022",
     "collection": [
@@ -4655,7 +4717,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453852951,
+      "task_id": 3454302478,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4663,7 +4725,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 254749367,
+  "uniq": 828265097,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

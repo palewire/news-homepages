@@ -1,5 +1,5 @@
 {
-  "created": 1666855322,
+  "created": 1666893742,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/15/items/gazetaru-2022",
@@ -18115,31 +18115,93 @@
       "format": "JSON"
     },
     {
+      "name": "gazetaru-2022-10-27T10:15:18.660361+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetaru-2022-10-27T10:15:18.660361+03:00.jpg",
+      "mtime": "1666877644",
+      "size": "8741",
+      "md5": "39711b8b7f65862a2f2e11935b3a9015",
+      "crc32": "054150c1",
+      "sha1": "1b922d929470fbded0cd42e974e0769b503fb9c6"
+    },
+    {
+      "name": "gazetaru-2022-10-27T20:58:07.692362+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893529",
+      "size": "50364",
+      "md5": "381d04346768f65e88a4a5962fd200f4",
+      "crc32": "c5ca707e",
+      "sha1": "734dd13f3062dfbe3e99fe99e63106dee9cb0250",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-10-27T20:58:07.692362+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893532",
+      "size": "58968",
+      "md5": "e753f8fe9fca796c57002d6bab1343a4",
+      "crc32": "7e9c6d68",
+      "sha1": "22d78564dec0db21ea9cf0187f7a1ac9a3be7955",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-10-27T20:58:07.692362+03:00.jpg",
+      "source": "original",
+      "mtime": "1666893527",
+      "size": "238725",
+      "md5": "31bce3e965ccd750017de96639dd03dc",
+      "crc32": "328971c7",
+      "sha1": "ba2d7691c7f16df47850a82d3eee2e2eccf6f4c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetaru-2022-10-27T20:58:07.692362+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893534",
+      "size": "1423",
+      "md5": "a0519b98d8c64bb2db6829cec86c8c50",
+      "crc32": "e8d752ac",
+      "sha1": "9b1f38c4b9b0da29fd5d890ecde60a9bf09be8d0",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-10-27T20:58:07.692362+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893536",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gazetaru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f65747e4cbee9a3458daff1c594eb60b53df2583",
-      "mtime": "1666855294",
-      "size": "369929",
-      "md5": "33e77e028ed23ae201a98944cb9a2361",
-      "crc32": "ab0c8575",
-      "sha1": "cde6cd61c6c3abfe766e3b91d64156e368f817d2",
+      "btih": "1be535ebbfe7aa387e3c9bbf6be45975fd1736f2",
+      "mtime": "1666893699",
+      "size": "371194",
+      "md5": "965219b40c1230c9ae601f27fb819f18",
+      "crc32": "eb3d029d",
+      "sha1": "29a1bb409d815220767a95834680a674b3877248",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetaru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "619461de733a645e7e954f977284a323",
+      "md5": "6be224c2e32ea85a033b8cb0790ded16",
       "summation": "md5"
     },
     {
       "name": "gazetaru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666855256",
-      "size": "2211840",
-      "md5": "47d9eb988a1a1f589730b581efdc6f1e",
-      "crc32": "3c432bfc",
-      "sha1": "70d212c44359be8cfb9ea4432db8ebfe4516cc73",
+      "mtime": "1666893606",
+      "size": "2220032",
+      "md5": "8f1e8e5f39debf9b5cacdd936d681b3d",
+      "crc32": "307594ef",
+      "sha1": "5b8f3aa24bf284203ebd2803a16c4fe482c70368",
       "format": "Metadata"
     },
     {
@@ -18153,9 +18215,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1754,
-  "item_last_updated": 1666855294,
-  "item_size": 132961028,
+  "files_count": 1760,
+  "item_last_updated": 1666893699,
+  "item_size": 133328908,
   "metadata": {
     "identifier": "gazetaru-2022",
     "collection": [
@@ -18177,7 +18239,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453903757,
+      "task_id": 3454305006,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -18185,7 +18247,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1529629295,
+  "uniq": 1705639383,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

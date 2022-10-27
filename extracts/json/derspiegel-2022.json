@@ -1,7 +1,12 @@
 {
-  "created": 1666850371,
+  "created": 1666898830,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
+  "derspiegel-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/13/items/derspiegel-2022",
   "files": [
     {
@@ -9543,31 +9548,93 @@
       "format": "JSON"
     },
     {
+      "name": "derspiegel-2022-10-27T07:58:15.095982+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "derspiegel-2022-10-27T07:58:15.095982+02:00.jpg",
+      "mtime": "1666874076",
+      "size": "9424",
+      "md5": "65185724fb7377d3f67c270acaa70e10",
+      "crc32": "89362cec",
+      "sha1": "112006f49d66a81bc4b0035100f459458f67df4b"
+    },
+    {
+      "name": "derspiegel-2022-10-27T19:53:39.751924+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893222",
+      "size": "110721",
+      "md5": "d3b24e013767410a142668ce2fe8c255",
+      "crc32": "5dd8ce6c",
+      "sha1": "2c69201d93b9fa7a5f218ef558b54a2912229b2c",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-10-27T19:53:39.751924+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893224",
+      "size": "120225",
+      "md5": "d1ddbdff1fe54ede757c6fcefa644574",
+      "crc32": "42611b39",
+      "sha1": "1064d6b63d722afc6a895d2c97a15af817fc59e9",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-10-27T19:53:39.751924+02:00.jpg",
+      "source": "original",
+      "mtime": "1666893221",
+      "size": "314376",
+      "md5": "e5ae008e025ee4151d78f9116dfe3cc6",
+      "crc32": "8bbf05d2",
+      "sha1": "46bda26841c2bd661d9a785fe57abe6624e84efd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "derspiegel-2022-10-27T19:53:39.751924+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893227",
+      "size": "1459",
+      "md5": "7c08d923ac4ebefdf874959084699267",
+      "crc32": "378addbc",
+      "sha1": "39d3c42004815457938236f4c86665bca4355aba",
+      "format": "JSON"
+    },
+    {
+      "name": "derspiegel-2022-10-27T19:53:39.751924+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893229",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "derspiegel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f5880e6fbdf91b56e203b2b7d6c4235affeae07",
-      "mtime": "1666850364",
-      "size": "198586",
-      "md5": "f170484c03d3054979fad2eb6ef2edd4",
-      "crc32": "3d8b2ed1",
-      "sha1": "8e28b4f04db7b100ef3bf4595f75c8e643ba73a4",
+      "btih": "80a8fb751a062f1be4ae6e449fc53534c839de56",
+      "mtime": "1666893284",
+      "size": "199865",
+      "md5": "4fdcc24aa9294d5462afeeadb6cb9db4",
+      "crc32": "4dd5c559",
+      "sha1": "a9b56ce04e4d9921c9da6f161b15799b9d02f914",
       "format": "Archive BitTorrent"
     },
     {
       "name": "derspiegel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4bf11ebb92c47168d403ac228f4accdb",
+      "md5": "bd027d146a6d21db471a6e2dd124d8d3",
       "summation": "md5"
     },
     {
       "name": "derspiegel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850318",
-      "size": "1196032",
-      "md5": "9a248596b6608668f1e071a28c865ce1",
-      "crc32": "ea2478ff",
-      "sha1": "ebbe499fff77714b118f37121a358afc213a85cb",
+      "mtime": "1666893234",
+      "size": "1200128",
+      "md5": "24c96f0867750c90b8d1268efe24dc4a",
+      "crc32": "e85e7840",
+      "sha1": "86bd1e9372a236fba2069c59957db16d7fe2eb56",
       "format": "Metadata"
     },
     {
@@ -9581,9 +9648,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 927,
-  "item_last_updated": 1666850364,
-  "item_size": 87058282,
+  "files_count": 933,
+  "item_last_updated": 1666893284,
+  "item_size": 87620064,
   "metadata": {
     "identifier": "derspiegel-2022",
     "collection": [
@@ -9605,7 +9672,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453849901,
+      "task_id": 3454299713,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9613,7 +9680,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1277154577,
+  "uniq": 948046541,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

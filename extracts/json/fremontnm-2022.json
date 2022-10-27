@@ -1,5 +1,5 @@
 {
-  "created": 1666850529,
+  "created": 1666893585,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/7/items/fremontnm-2022",
@@ -4593,31 +4593,93 @@
       "format": "JSON"
     },
     {
+      "name": "fremontnm-2022-10-27T02:01:00.981162-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-27T02:01:00.981162-04:00.jpg",
+      "mtime": "1666874209",
+      "size": "9220",
+      "md5": "73b7475182c6a8558461ca6671ac7ed7",
+      "crc32": "9bfb2e17",
+      "sha1": "a1248c6059e91d38a0ba910ca1fc70bf8ba78f7e"
+    },
+    {
+      "name": "fremontnm-2022-10-27T13:57:59.535348-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893486",
+      "size": "18769",
+      "md5": "ebfcc3898711f0f5d2026f7275000d64",
+      "crc32": "eb41da00",
+      "sha1": "610c87637e15ff9013cca3238146ca0bae5a539c",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-27T13:57:59.535348-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893488",
+      "size": "32080",
+      "md5": "5d08ff6369e14bc0c314aca2b56dc1be",
+      "crc32": "edf8938b",
+      "sha1": "408511f7b3ff914f5c3dfb6f61d2a0e82e680033",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-27T13:57:59.535348-04:00.jpg",
+      "source": "original",
+      "mtime": "1666893484",
+      "size": "265073",
+      "md5": "3d62f59f88e447743b65725def9aad3a",
+      "crc32": "eaac01c7",
+      "sha1": "8a80d4f9ac8ab26cd4049eb95f15e43047c9d1f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fremontnm-2022-10-27T13:57:59.535348-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893490",
+      "size": "1558",
+      "md5": "693e057d232da2a2b979dc98e4dbc5b7",
+      "crc32": "10883a2e",
+      "sha1": "33444158bbd3a062bc5d22df2f93f92078c3e291",
+      "format": "JSON"
+    },
+    {
+      "name": "fremontnm-2022-10-27T13:57:59.535348-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893492",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "fremontnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7143a89331690f788a5614b1a4bb444366a0fde",
-      "mtime": "1666850524",
-      "size": "95107",
-      "md5": "204fa18e89f5a52e97575e8fd8d8480c",
-      "crc32": "92726d9b",
-      "sha1": "56792a4a9187ce190a4650870820e19322435f89",
+      "btih": "624b91b36b4015022985f9204354e63b24318558",
+      "mtime": "1666893555",
+      "size": "96378",
+      "md5": "82888d01208ae3e96f7d401b3275b2fc",
+      "crc32": "87212ddd",
+      "sha1": "7afa89aa43ec7859d487ef7938d3deef9eb80ba1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fremontnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2f90df4a5ef2d5b658b71652bf98991",
+      "md5": "9ae75805ec8cb5fa33d7c9a357fa37c2",
       "summation": "md5"
     },
     {
       "name": "fremontnm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666850483",
-      "size": "589824",
-      "md5": "ce406be8144741335940bae61bb73906",
-      "crc32": "e61acc3b",
-      "sha1": "7e36d22f29c0f94d4e75f4a5cf15da86aff88a7f",
+      "mtime": "1666893505",
+      "size": "593920",
+      "md5": "4e4238e2e526d6cd94ef46cc4e13e17a",
+      "crc32": "34056364",
+      "sha1": "60d4fdfc4d9eddc056d4200437da7812c422332d",
       "format": "Metadata"
     },
     {
@@ -4631,9 +4693,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666850524,
-  "item_size": 27063749,
+  "files_count": 454,
+  "item_last_updated": 1666893555,
+  "item_size": 27396018,
   "metadata": {
     "identifier": "fremontnm-2022",
     "collection": [
@@ -4655,7 +4717,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453852728,
+      "task_id": 3454302611,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4663,7 +4725,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 853024459,
+  "uniq": 666552309,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]
