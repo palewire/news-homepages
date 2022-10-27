@@ -1,5 +1,5 @@
 {
-  "created": 1666847289,
+  "created": 1666887292,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/30/items/chicagotribune-2022",
@@ -20891,31 +20891,155 @@
       "format": "JSON"
     },
     {
+      "name": "chicagotribune-2022-10-27T00:06:45.851172-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicagotribune-2022-10-27T00:06:45.851172-05:00.jpg",
+      "mtime": "1666871696",
+      "size": "8663",
+      "md5": "a90a5aeb3dd050373256f61964994691",
+      "crc32": "a322e9d7",
+      "sha1": "adc3b909968e65bde71ee616d50f5b9434ac6c4d"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:03:36.538694-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666886621",
+      "size": "31072",
+      "md5": "1036633092293edd010ba17fd3419dba",
+      "crc32": "603b1fdf",
+      "sha1": "2ead6831e275a105ab167f282658d05d403ac401",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:03:36.538694-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666886623",
+      "size": "34844",
+      "md5": "34844dfb7f70521e3bab34b3080d236b",
+      "crc32": "06c66c9e",
+      "sha1": "17dc262e3c4ebe386e9b2e8045de48261e8a13c6",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:03:36.538694-05:00.jpg",
+      "source": "original",
+      "mtime": "1666886618",
+      "size": "264070",
+      "md5": "f51d50392f0a139f2a0b38a13e480029",
+      "crc32": "d727ae30",
+      "sha1": "77bb83367e119d9b91696512d3a32ed01360c94b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:03:36.538694-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666886625",
+      "size": "1522",
+      "md5": "bb900c9c7cdccdd878609256685d0129",
+      "crc32": "eaa6c03f",
+      "sha1": "3fe9be89a3728171f9828829b0fb3ae07fdf7b47",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:03:36.538694-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666886627",
+      "size": "56379",
+      "md5": "4060eb4bf1c4cd0d34e7b4b4b2f6ba8a",
+      "crc32": "be2383ff",
+      "sha1": "f41bf6b109d822c89b4af881842d976a2a722962",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:03:36.538694-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicagotribune-2022-10-27T11:03:36.538694-05:00.jpg",
+      "mtime": "1666887099",
+      "size": "8783",
+      "md5": "1b127a7079d60635420ec8c216b5ad57",
+      "crc32": "c83a3646",
+      "sha1": "720bc391a40111f1608b682db3caa0a793b77551"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:10:06.492353-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666887013",
+      "size": "31715",
+      "md5": "3b0f625eb6142346e58051014eb86eff",
+      "crc32": "3545a199",
+      "sha1": "ec4f42b84adb3580bdfbfd6b9d132ae22968637d",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:10:06.492353-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666887015",
+      "size": "34418",
+      "md5": "247a260fd40396fbad0604e40c369f5d",
+      "crc32": "c51c3d6d",
+      "sha1": "88802f3a97baf4c9a558fbce7fae20292eae8f4a",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:10:06.492353-05:00.jpg",
+      "source": "original",
+      "mtime": "1666887010",
+      "size": "254352",
+      "md5": "f5409ae041d5b1f92cc9039d7d6471d4",
+      "crc32": "c495ad9a",
+      "sha1": "c51ee11ce43b9e0b1eb5ccfc1d8d7df083a858c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:10:06.492353-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666887018",
+      "size": "1519",
+      "md5": "f8434b956d3f3237be5a3d5b7a8a4027",
+      "crc32": "0890abdf",
+      "sha1": "cc5dc1faf8e38d6d8f6cddb3542984901e39fa20",
+      "format": "JSON"
+    },
+    {
+      "name": "chicagotribune-2022-10-27T11:10:06.492353-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666887019",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "chicagotribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e215eeffc792bbbe955f19f2a5f70359981a9e63",
-      "mtime": "1666847285",
-      "size": "437438",
-      "md5": "e6e2c0160fe6418ef2bac3976a79ff4c",
-      "crc32": "740a8fe8",
-      "sha1": "f63292b6ca7f37c3c44c508ceeab60609dc7b3cd",
+      "btih": "31cd0fcf807238c5f1cf80fbc90f4b06363ca60d",
+      "mtime": "1666887282",
+      "size": "440022",
+      "md5": "4783fcc4ca5f78062c762862dbf557d1",
+      "crc32": "c3c73005",
+      "sha1": "7bc81b7d48f585b79838f019604a849def0c4b07",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicagotribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b22c2e32e58669a75be40186e867f1a",
+      "md5": "6bb221daae874a3bade5da3529a5220b",
       "summation": "md5"
     },
     {
       "name": "chicagotribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666847220",
-      "size": "2535424",
-      "md5": "9710d88b401e82b81d339ab1442a3f76",
-      "crc32": "0b065380",
-      "sha1": "b54317df35f56abc2a8bfe5ee7cc9ecfe46c4751",
+      "mtime": "1666887239",
+      "size": "2551808",
+      "md5": "6a0703f2621fc906b64dded6c8afc60b",
+      "crc32": "a71842d0",
+      "sha1": "c09ccd7018bc75545fdf000bf86ead11b662bf96",
       "format": "Metadata"
     },
     {
@@ -20929,9 +21053,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2018,
-  "item_last_updated": 1666847285,
-  "item_size": 152492398,
+  "files_count": 2030,
+  "item_last_updated": 1666887282,
+  "item_size": 153238905,
   "metadata": {
     "identifier": "chicagotribune-2022",
     "collection": [
@@ -20953,7 +21077,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453817294,
+      "task_id": 3454240359,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -20961,7 +21085,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1070117311,
+  "uniq": 1597912625,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

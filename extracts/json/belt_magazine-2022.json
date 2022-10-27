@@ -1,5 +1,5 @@
 {
-  "created": 1666847273,
+  "created": 1666886941,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/belt_magazine-2022",
@@ -12791,31 +12791,93 @@
       "format": "JSON"
     },
     {
+      "name": "belt_magazine-2022-10-27T01:06:42.689765-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "belt_magazine-2022-10-27T01:06:42.689765-04:00.jpg",
+      "mtime": "1666871657",
+      "size": "9965",
+      "md5": "70bef6f6e42064b53144e49b9f54aa84",
+      "crc32": "778d41db",
+      "sha1": "bf4c788ee8b6546419fc6ab6a9e4f881cb706560"
+    },
+    {
+      "name": "belt_magazine-2022-10-27T12:07:46.154653-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666886876",
+      "size": "16878",
+      "md5": "2a73bcc53ea988c4f4486212f33ecb71",
+      "crc32": "9c935903",
+      "sha1": "8d25c3bf18a143d83411db3ce523008ce525eb68",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-10-27T12:07:46.154653-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666886878",
+      "size": "17783",
+      "md5": "808a6031a0e489ecba9b5d541bcfe0c5",
+      "crc32": "8b9719e0",
+      "sha1": "fa685284a6c2910bebd42b1454c8dd03097346c6",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-10-27T12:07:46.154653-04:00.jpg",
+      "source": "original",
+      "mtime": "1666886874",
+      "size": "199077",
+      "md5": "78b2822ed55bff559428c72e8770aa63",
+      "crc32": "3b3e8c9d",
+      "sha1": "ac915b28311417896fe0a41cc369c2e60e2bc239",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "belt_magazine-2022-10-27T12:07:46.154653-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666886880",
+      "size": "1432",
+      "md5": "ca603fc21e610dd25f6674571507d81d",
+      "crc32": "f457543a",
+      "sha1": "4fe060fb42e81563300c6b859d74b26d5d41298a",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-10-27T12:07:46.154653-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666886882",
+      "size": "18404",
+      "md5": "27a348e119241f3dfd8d70268aa34cf8",
+      "crc32": "4bcf188c",
+      "sha1": "738b1b77b91f5dbf2fb5d69046ff443663d61e02",
+      "format": "JSON"
+    },
+    {
       "name": "belt_magazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a4c32097d9d65341a31082cd11c9a2cbe645b18d",
-      "mtime": "1666847270",
-      "size": "266698",
-      "md5": "7343549fc30e08cbe705db3f2c92848c",
-      "crc32": "6c4814b1",
-      "sha1": "9261762318ff37e0e8173979b4087798440eeab4",
+      "btih": "9e45e547809e8abcfa8dc685c9edd07a4243261e",
+      "mtime": "1666886937",
+      "size": "267975",
+      "md5": "52d932861df1366c544434243545bce7",
+      "crc32": "a435a571",
+      "sha1": "eeef8265a81304ce3c403714ae474f4fb7e024fc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "belt_magazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9894c40c2f3694c1cd580e22654bbea7",
+      "md5": "48e7c15b106cafd2bcd32cab86b91670",
       "summation": "md5"
     },
     {
       "name": "belt_magazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666847224",
-      "size": "1572864",
-      "md5": "1c97a08e5261b629e16017b371792f8c",
-      "crc32": "aa158482",
-      "sha1": "dfb3b2c8043d19a83848a568ac3bbc9db2487209",
+      "mtime": "1666886889",
+      "size": "1581056",
+      "md5": "4e0f869e84ceae3a0d5dddf39f8f0d37",
+      "crc32": "87f75f5e",
+      "sha1": "8b8fd542683766c7d70a8d5f5ed0ccf12d6b2d98",
       "format": "Metadata"
     },
     {
@@ -12829,9 +12891,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1239,
-  "item_last_updated": 1666847270,
-  "item_size": 63905673,
+  "files_count": 1245,
+  "item_last_updated": 1666886937,
+  "item_size": 64178681,
   "metadata": {
     "identifier": "belt_magazine-2022",
     "collection": [
@@ -12853,7 +12915,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453817099,
+      "task_id": 3454235697,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12861,7 +12923,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 991320874,
+  "uniq": 1514213627,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

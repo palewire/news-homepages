@@ -1,5 +1,5 @@
 {
-  "created": 1666847464,
+  "created": 1666887323,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/ycitynewsonline-2022",
@@ -11359,31 +11359,93 @@
       "format": "JSON"
     },
     {
+      "name": "ycitynewsonline-2022-10-27T01:09:20.747528-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ycitynewsonline-2022-10-27T01:09:20.747528-04:00.jpg",
+      "mtime": "1666872362",
+      "size": "8424",
+      "md5": "f7d76c05fe0acbb8bd280bd443ebbf24",
+      "crc32": "546b2b42",
+      "sha1": "e1d6b177bb8f257c9198cf8b09453beadd1db43e"
+    },
+    {
+      "name": "ycitynewsonline-2022-10-27T12:13:40.412690-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666887226",
+      "size": "9006",
+      "md5": "37cb087f452cd11bd069cdc18a2ae31b",
+      "crc32": "48cef158",
+      "sha1": "01ea40082b135455eac87d10d6754a9f349b0db1",
+      "format": "JSON"
+    },
+    {
+      "name": "ycitynewsonline-2022-10-27T12:13:40.412690-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666887228",
+      "size": "9642",
+      "md5": "2464477ac3d55f503b061ef432cbc688",
+      "crc32": "93ba3455",
+      "sha1": "5e21981d70f6f3de6368896150a96515f9e87239",
+      "format": "JSON"
+    },
+    {
+      "name": "ycitynewsonline-2022-10-27T12:13:40.412690-04:00.jpg",
+      "source": "original",
+      "mtime": "1666887225",
+      "size": "210550",
+      "md5": "a9ff9868d72a729e2c7defd82849e72f",
+      "crc32": "283f968e",
+      "sha1": "a38aa3cd5517a5058077082e48c693661045b8c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ycitynewsonline-2022-10-27T12:13:40.412690-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666887230",
+      "size": "1450",
+      "md5": "9fb9775b824cca770ac478e629f33db9",
+      "crc32": "dcf34e91",
+      "sha1": "6f23838fd1b8dc1de293ac13303b8a85ace5f4b8",
+      "format": "JSON"
+    },
+    {
+      "name": "ycitynewsonline-2022-10-27T12:13:40.412690-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666887232",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ycitynewsonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c36838b66814de4dddd20e56f320048c6c2ca94",
-      "mtime": "1666847455",
-      "size": "239032",
-      "md5": "69df1622ea28c5e95bbfd21f83c4ef41",
-      "crc32": "8dc2a945",
-      "sha1": "c49be7b236eff3e6b3aa6f5236a219efce355581",
+      "btih": "f168a9b044cc97f94ff4322f02063069ecfb6a5d",
+      "mtime": "1666887319",
+      "size": "240317",
+      "md5": "fe5d29f51e4ae3b92463f628013dba48",
+      "crc32": "7bb691dc",
+      "sha1": "88082ea47eee728531675080e8d9321cf8e1d54c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ycitynewsonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ae27a613c0fc16efa745fe2da2149ab",
+      "md5": "72dbdbfce97e305c2d48539adcd61197",
       "summation": "md5"
     },
     {
       "name": "ycitynewsonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666847402",
-      "size": "1417216",
-      "md5": "d2e63ce61691f7bf4afbab7c61146a60",
-      "crc32": "f6442f06",
-      "sha1": "a7210c0c0ee3e97eff1f26b994ffb59f3c36fbe8",
+      "mtime": "1666887240",
+      "size": "1429504",
+      "md5": "159ad15f4d0fb24f78e5658fd3fcbce2",
+      "crc32": "c6e6f574",
+      "sha1": "16b5162915812a88addb99fba0444fc9276d3900",
       "format": "Metadata"
     },
     {
@@ -11397,9 +11459,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1102,
-  "item_last_updated": 1666847455,
-  "item_size": 51105147,
+  "files_count": 1108,
+  "item_last_updated": 1666887319,
+  "item_size": 51357994,
   "metadata": {
     "identifier": "ycitynewsonline-2022",
     "collection": [
@@ -11421,7 +11483,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453819449,
+      "task_id": 3454240740,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11429,7 +11491,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 275564699,
+  "uniq": 1074085460,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

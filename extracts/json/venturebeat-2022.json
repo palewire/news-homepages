@@ -1,5 +1,5 @@
 {
-  "created": 1666847462,
+  "created": 1666887158,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/6/items/venturebeat-2022",
@@ -13875,31 +13875,83 @@
       "format": "JSON"
     },
     {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-26T22:09:36.435382-07:00.jpg",
+      "mtime": "1666871974",
+      "size": "9413",
+      "md5": "f0bbdb09298dee1e06b23875421fd4e3",
+      "crc32": "3095a8ea",
+      "sha1": "281aa74f5841ac6df992a101a06f90262a034ff3"
+    },
+    {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666887084",
+      "size": "34036",
+      "md5": "7d38b7414fa04cb782315093a60c0496",
+      "crc32": "2dc5f151",
+      "sha1": "d63ba607fdaa038245f5ce93ee1b2a617f6375fa",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666887087",
+      "size": "44588",
+      "md5": "ce1347c671518d33e22e95d73156d3ab",
+      "crc32": "f1917e80",
+      "sha1": "bd46705bcae182ef4926353fd13a3efe9f84b276",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00.jpg",
+      "source": "original",
+      "mtime": "1666887081",
+      "size": "216167",
+      "md5": "69a030458e635df7357b152571d144fd",
+      "crc32": "5212c540",
+      "sha1": "66476059a36d354481067df9d373b48c223a2995",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666887089",
+      "size": "1459",
+      "md5": "9bb1a97f381e70f4dc451e7ada179a90",
+      "crc32": "3e29bc79",
+      "sha1": "192436bdbcd8469dce9a45430eea57b1c0008f7b",
+      "format": "JSON"
+    },
+    {
       "name": "venturebeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ebd9cca6f4f27cfeae8160c6a967256f719d6a8b",
-      "mtime": "1666847452",
-      "size": "286169",
-      "md5": "aefe11e4a17385b4a856a34054dc5abd",
-      "crc32": "61c72a4f",
-      "sha1": "dc8fd6004c326da2a7e0a833076c3a197261aea0",
+      "btih": "09c6c8f01068a31c17b9a019e1794f505c944a12",
+      "mtime": "1666887149",
+      "size": "287223",
+      "md5": "63e9c5ce9681a90561d31a29abd58252",
+      "crc32": "550c8003",
+      "sha1": "5e66339dcf4e145d8c9068314c436c75b824a6bf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "venturebeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f388ec79eeb4c522f60d2408b2c2a8b7",
+      "md5": "6ca3d2194203dadef534f0da01df01a9",
       "summation": "md5"
     },
     {
       "name": "venturebeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666847396",
-      "size": "1687552",
-      "md5": "df191398a630615cfc6fa2829202fdb3",
-      "crc32": "4c9f5b00",
-      "sha1": "bf301cddca3336afbcb353d49970aa83b3734bd6",
+      "mtime": "1666887098",
+      "size": "1691648",
+      "md5": "c38665214e907a259b550ccab9a80232",
+      "crc32": "7183bb70",
+      "sha1": "6e895a1951e9fd468325db1d22111ee6b02eaf3d",
       "format": "Metadata"
     },
     {
@@ -13913,9 +13965,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1342,
-  "item_last_updated": 1666847452,
-  "item_size": 75407171,
+  "files_count": 1347,
+  "item_last_updated": 1666887149,
+  "item_size": 75717984,
   "metadata": {
     "identifier": "venturebeat-2022",
     "collection": [
@@ -13937,7 +13989,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453819441,
+      "task_id": 3454238846,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13945,7 +13997,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1102564938,
+  "uniq": 2122597871,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

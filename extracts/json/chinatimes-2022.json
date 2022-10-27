@@ -1,5 +1,5 @@
 {
-  "created": 1666847268,
+  "created": 1666887084,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/8/items/chinatimes-2022",
@@ -10547,31 +10547,93 @@
       "format": "JSON"
     },
     {
+      "name": "chinatimes-2022-10-27T13:06:26.305935+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chinatimes-2022-10-27T13:06:26.305935+08:00.jpg",
+      "mtime": "1666871665",
+      "size": "9517",
+      "md5": "038f95316ffc3c9058f8e9225cf104f9",
+      "crc32": "ec99044b",
+      "sha1": "7af85a01db6bf703d3b56d1ad0636a54fa49e201"
+    },
+    {
+      "name": "chinatimes-2022-10-28T00:10:11.396222+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666887016",
+      "size": "42428",
+      "md5": "3f12ea0cd9ac31f3b00b74c1bc8191d4",
+      "crc32": "f2ace874",
+      "sha1": "eb7f5dd53faf00399ea638075ea368d15ebb650b",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-10-28T00:10:11.396222+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666887018",
+      "size": "81478",
+      "md5": "2618c4cc8c74fbb85c725ff0d1167564",
+      "crc32": "0a71ddde",
+      "sha1": "bc0c1d969365dc17951498fb7e0c05034b19782b",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-10-28T00:10:11.396222+08:00.jpg",
+      "source": "original",
+      "mtime": "1666887014",
+      "size": "281900",
+      "md5": "3a1c3cf452184d367622e3fb43292fe1",
+      "crc32": "77999263",
+      "sha1": "0df0e3ec4c6fec06b085d6aef657f28dc9f39731",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chinatimes-2022-10-28T00:10:11.396222+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666887020",
+      "size": "1494",
+      "md5": "ee86bfd3e23453d75170bcfda8f79475",
+      "crc32": "0a80b4a7",
+      "sha1": "a4c85ef6e42f0268b069f85a8b00858945c05210",
+      "format": "JSON"
+    },
+    {
+      "name": "chinatimes-2022-10-28T00:10:11.396222+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666887023",
+      "size": "56966",
+      "md5": "a1d8d37f222a11fe8cf75086631851e3",
+      "crc32": "3a63e13f",
+      "sha1": "968c451473063a7b5220cb472d50aa77a1da20ca",
+      "format": "JSON"
+    },
+    {
       "name": "chinatimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd3f191c3650b187f3e67ef2401344e4d1b81690",
-      "mtime": "1666847262",
-      "size": "218105",
-      "md5": "544ae341e5c7989aaa44701f0855a575",
-      "crc32": "2f1ec38f",
-      "sha1": "43f0e12dd60f66bbc1cb095ab942e6736e172d7e",
+      "btih": "d5d206a1f58aee8b10d9a05a695b0e1bb8663551",
+      "mtime": "1666887078",
+      "size": "219384",
+      "md5": "1666de09b61bf6c50c5769144575dcb9",
+      "crc32": "d6381d78",
+      "sha1": "1ca5b3cb8db405ceaa60026aa413a0ab599bc405",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chinatimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4e85f39d43f3ea6cfad990df973d26b",
+      "md5": "b7d265d7c08841355a8e2046a99f7894",
       "summation": "md5"
     },
     {
       "name": "chinatimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666847209",
-      "size": "1310720",
-      "md5": "e312a6fd50530928c5e0b3fd3fcd9782",
-      "crc32": "adf71f1d",
-      "sha1": "4b522851c6e8a4a96e75884b4cc0f01c74a5e9a8",
+      "mtime": "1666887030",
+      "size": "1318912",
+      "md5": "bd758c7476fbf053dd3e5878502ce2df",
+      "crc32": "c6839a74",
+      "sha1": "3006c02968013eeb0e978e5fbd4403be172d7cd2",
       "format": "Metadata"
     },
     {
@@ -10585,9 +10647,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1024,
-  "item_last_updated": 1666847262,
-  "item_size": 73262939,
+  "files_count": 1030,
+  "item_last_updated": 1666887078,
+  "item_size": 73746193,
   "metadata": {
     "identifier": "chinatimes-2022",
     "collection": [
@@ -10609,7 +10671,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453817033,
+      "task_id": 3454237928,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10617,7 +10679,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 155866254,
+  "uniq": 509094775,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

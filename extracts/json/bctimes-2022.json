@@ -1,5 +1,10 @@
 {
-  "created": 1666847283,
+  "bctimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1666890892,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/bctimes-2022",
@@ -4521,31 +4526,93 @@
       "format": "JSON"
     },
     {
+      "name": "bctimes-2022-10-27T01:07:01.508682-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bctimes-2022-10-27T01:07:01.508682-04:00.jpg",
+      "mtime": "1666871870",
+      "size": "9557",
+      "md5": "bfebde8f8304c0bef7e5be595d6bfa3d",
+      "crc32": "ab35a21e",
+      "sha1": "996ccd7c913ac6c509eeaa569c7cd52299dfeb01"
+    },
+    {
+      "name": "bctimes-2022-10-27T12:07:30.691026-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666886853",
+      "size": "22537",
+      "md5": "f95e69a07ac899823ceff0fd21d6db6d",
+      "crc32": "87244897",
+      "sha1": "1cc2a12ca2a322407ef95a5c277ff77fbfea69a4",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-27T12:07:30.691026-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666886855",
+      "size": "33931",
+      "md5": "167da1966eb9c7e40d4c42a2c03a4d0f",
+      "crc32": "19dfcf98",
+      "sha1": "8b9ffe74fffa42d552e89d4f7473f2677d967866",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-27T12:07:30.691026-04:00.jpg",
+      "source": "original",
+      "mtime": "1666886851",
+      "size": "278780",
+      "md5": "779fa3475f9750ee552df829195c562f",
+      "crc32": "089ba0ee",
+      "sha1": "c7ec30ec7136b12d32d9a07b584cc317d5af90cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bctimes-2022-10-27T12:07:30.691026-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666886857",
+      "size": "1504",
+      "md5": "9e29da936cf9bf9b512d1e079d8e0b11",
+      "crc32": "27d54412",
+      "sha1": "933978ac3405686c007f193f824ac3a91abe5004",
+      "format": "JSON"
+    },
+    {
+      "name": "bctimes-2022-10-27T12:07:30.691026-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666886858",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d8bd2270c72b79d660ea695e1cf71af093ab85d6",
-      "mtime": "1666847277",
-      "size": "92858",
-      "md5": "8b87d7975a675978cc7e60af90f6699a",
-      "crc32": "e64cd48c",
-      "sha1": "5d60490da18315b6438428ee3cd41b57ac4f9dac",
+      "btih": "ae6c8c1a824cdb1b9d957523f71f7602b4e0633a",
+      "mtime": "1666886906",
+      "size": "94117",
+      "md5": "778cf46209ec2a019394badf6816517e",
+      "crc32": "fb1a1afc",
+      "sha1": "19f95ae1722ea6baa0a226a0b698d7d1bcc0e75a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c9de2398dd37aef4983e75396b8fb81",
+      "md5": "3d7046eecda207887f9c8cfb0ca9eb08",
       "summation": "md5"
     },
     {
       "name": "bctimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666847238",
-      "size": "573440",
-      "md5": "37dfb3f076b9d7a2d524289fd3258d1b",
-      "crc32": "359fb438",
-      "sha1": "666910e45062517b1f055d67426139d306b6f9f9",
+      "mtime": "1666886865",
+      "size": "577536",
+      "md5": "d784fd0e1551c3f326819406fc8b1374",
+      "crc32": "f4a8ab0e",
+      "sha1": "11ab10666203bfee264626f81b217b78b879d1f1",
       "format": "Metadata"
     },
     {
@@ -4559,9 +4626,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 441,
-  "item_last_updated": 1666847277,
-  "item_size": 29285562,
+  "files_count": 447,
+  "item_last_updated": 1666886906,
+  "item_size": 29637428,
   "metadata": {
     "identifier": "bctimes-2022",
     "collection": [
@@ -4583,7 +4650,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453817216,
+      "task_id": 3454235233,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4591,7 +4658,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 549609420,
+  "uniq": 1499041121,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

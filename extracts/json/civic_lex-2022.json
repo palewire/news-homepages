@@ -1,5 +1,5 @@
 {
-  "created": 1666847288,
+  "created": 1666887092,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/civic_lex-2022",
@@ -12919,31 +12919,93 @@
       "format": "JSON"
     },
     {
+      "name": "civic_lex-2022-10-27T01:06:56.507890-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civic_lex-2022-10-27T01:06:56.507890-04:00.jpg",
+      "mtime": "1666871867",
+      "size": "8586",
+      "md5": "3e8b8052aacbee482ed0ca5da36d665a",
+      "crc32": "926055f0",
+      "sha1": "e7dec5627fa488b3eb528fc0a1e7db0f216213ad"
+    },
+    {
+      "name": "civic_lex-2022-10-27T12:10:08.937859-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666887020",
+      "size": "19203",
+      "md5": "840798f58b69d82fe00d359ecb9e559b",
+      "crc32": "c75d33d8",
+      "sha1": "6f09fd9af5163cd0df4a07e80e040af9720b2fa9",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-10-27T12:10:08.937859-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666887023",
+      "size": "12984",
+      "md5": "a5c4cac739d602d737db371a7229d92b",
+      "crc32": "400bec1c",
+      "sha1": "121db912d7e24f3aafe2eace1869d8871b1b1731",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-10-27T12:10:08.937859-04:00.jpg",
+      "source": "original",
+      "mtime": "1666887018",
+      "size": "161849",
+      "md5": "1884d5f66949e5b1e4dd5c03be0a3db2",
+      "crc32": "32ce2560",
+      "sha1": "e835224e3159c7032ab4713e7a7420612d8956d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civic_lex-2022-10-27T12:10:08.937859-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666887026",
+      "size": "1477",
+      "md5": "26091eff63c45a49521fc3a254b69e92",
+      "crc32": "be2b5513",
+      "sha1": "1f54d98caadf41afd2dd6d5985e9bb79f7e2a77b",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-10-27T12:10:08.937859-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666887028",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "civic_lex-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35d21e2ccb8520bb61863710c6dda53c438a3b3c",
-      "mtime": "1666847284",
-      "size": "263265",
-      "md5": "cb05faac42a18c2b761ee7dac7c3b3cc",
-      "crc32": "8a04fad5",
-      "sha1": "13b52c83c952952a28f8519432b938b46fb5c657",
+      "btih": "ecb14e054f57f923c47714a2345490857d9fb69f",
+      "mtime": "1666887083",
+      "size": "264516",
+      "md5": "bbcf6b0f83ebe8783f190e9cbb3c52ce",
+      "crc32": "ba2db703",
+      "sha1": "bc8741e14d9700267fcd7e4bc8a9e355e08354ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civic_lex-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b2413ad82db1a7472ac67d25de221b1",
+      "md5": "2c106954ab737d47a627d04ba91854fc",
       "summation": "md5"
     },
     {
       "name": "civic_lex-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666847236",
-      "size": "1576960",
-      "md5": "b7e2f7893d08ca2672befcbd63f0844b",
-      "crc32": "22c7202d",
-      "sha1": "b5f3fc60a3474c423617004639148c6b6aaca45e",
+      "mtime": "1666887034",
+      "size": "1585152",
+      "md5": "7079427639d84c689ea07e5f5ab98b78",
+      "crc32": "6f31a4c2",
+      "sha1": "7b07a798ba52af116ca431a81692780908703959",
       "format": "Metadata"
     },
     {
@@ -12957,9 +13019,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1251,
-  "item_last_updated": 1666847284,
-  "item_size": 47217143,
+  "files_count": 1257,
+  "item_last_updated": 1666887083,
+  "item_size": 47430887,
   "metadata": {
     "identifier": "civic_lex-2022",
     "collection": [
@@ -12981,7 +13043,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453817281,
+      "task_id": 3454238021,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12989,7 +13051,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 287046916,
+  "uniq": 1806502548,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]
