@@ -1,5 +1,5 @@
 {
-  "created": 1666838025,
+  "created": 1666883750,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/reporte_indigo-2022",
@@ -8935,31 +8935,93 @@
       "format": "JSON"
     },
     {
+      "name": "reporte_indigo-2022-10-26T21:32:35.528861-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reporte_indigo-2022-10-26T21:32:35.528861-05:00.jpg",
+      "mtime": "1666862709",
+      "size": "10769",
+      "md5": "5216690b95eb6d6324cb67106daf3484",
+      "crc32": "59148d77",
+      "sha1": "208eeaca76cb525920afcc64a5efb9ea7ef1b1b2"
+    },
+    {
+      "name": "reporte_indigo-2022-10-27T09:18:26.014120-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880319",
+      "size": "88152",
+      "md5": "b8c1f75b3c730a03972cb8175dac0d18",
+      "crc32": "ffb45002",
+      "sha1": "089281344c1400dc17a6e5b59fd04ac0ab9cf99e",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-10-27T09:18:26.014120-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880321",
+      "size": "45097",
+      "md5": "5d011a1c234e79a920e8694fc67a92aa",
+      "crc32": "ed53499a",
+      "sha1": "541dd712d203d2a2884d0eed1c75da3038bb9e08",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-10-27T09:18:26.014120-05:00.jpg",
+      "source": "original",
+      "mtime": "1666880316",
+      "size": "330374",
+      "md5": "5016842b579dc810b646ccd0c3103be8",
+      "crc32": "18e13e63",
+      "sha1": "aed1cb88fc66bb768de1b634eee1f431fe1e0467",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reporte_indigo-2022-10-27T09:18:26.014120-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880323",
+      "size": "1513",
+      "md5": "815b134a7c426716c36c655f7268059d",
+      "crc32": "bd545282",
+      "sha1": "e8cb99defa20c91c123b8a4d6298126bea674f5a",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-10-27T09:18:26.014120-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880325",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "reporte_indigo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6bf5f201594c4c79b0554b18fd83172c251da1d",
-      "mtime": "1666838019",
-      "size": "188705",
-      "md5": "c34a61c379e10d68a8291260859345eb",
-      "crc32": "395fb330",
-      "sha1": "30b9eb455ebcb23a42ad64a6bcd311c2dbc3bc1d",
+      "btih": "8fa82ac3173c0fba08026e420410fc99e552c452",
+      "mtime": "1666880384",
+      "size": "190007",
+      "md5": "2b4d6984191bf898d9ddc2b6d2527109",
+      "crc32": "b458d799",
+      "sha1": "7987679d13807518e0a161bbf44540e6ebf87e64",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reporte_indigo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da0a4ccfa9a3073cd261a81a3dd703c4",
+      "md5": "04bc6379caf82105f67b5e4321d89bfd",
       "summation": "md5"
     },
     {
       "name": "reporte_indigo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666837975",
-      "size": "1122304",
-      "md5": "2d89b7ab7891af1b22a91a9518413e60",
-      "crc32": "dd3d0795",
-      "sha1": "e37518632da907577ccad6fff047df7ecb2be8fd",
+      "mtime": "1666880332",
+      "size": "1130496",
+      "md5": "dafcf97bf0b1d079f1e034d8bcd8b223",
+      "crc32": "085882f0",
+      "sha1": "e4f4795c4709f91cdaba9e60f5e71f1e1725c40e",
       "format": "Metadata"
     },
     {
@@ -8973,9 +9035,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 868,
-  "item_last_updated": 1666838019,
-  "item_size": 65142235,
+  "files_count": 874,
+  "item_last_updated": 1666880384,
+  "item_size": 65627836,
   "metadata": {
     "identifier": "reporte_indigo-2022",
     "collection": [
@@ -8993,11 +9055,16 @@
     "addeddate": "2022-08-16 17:12:15"
   },
   "pending_tasks": true,
+  "reporte_indigo-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601409.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453712472,
+      "task_id": 3454169293,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9005,7 +9072,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 71825475,
+  "uniq": 1208965113,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

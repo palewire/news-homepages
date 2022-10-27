@@ -1,5 +1,5 @@
 {
-  "created": 1666838073,
+  "created": 1666883871,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/33/items/sltimes-2022",
@@ -18197,31 +18197,93 @@
       "format": "JSON"
     },
     {
+      "name": "sltimes-2022-10-26T21:32:45.067433-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-10-26T21:32:45.067433-05:00.jpg",
+      "mtime": "1666862853",
+      "size": "10573",
+      "md5": "e19ddfc35ab9abccd57d3f862dff14d2",
+      "crc32": "9c5e91d1",
+      "sha1": "a31df648acb87fd241606325ee03f183cc95db86"
+    },
+    {
+      "name": "sltimes-2022-10-27T09:19:07.651440-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880350",
+      "size": "24983",
+      "md5": "28216d196b2e19fb805154335e02da67",
+      "crc32": "f8713365",
+      "sha1": "56246a61b84aa46f066dcdf72e124637171b3778",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-10-27T09:19:07.651440-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880352",
+      "size": "19393",
+      "md5": "8fe2597e03956b28b3061e0e89d88210",
+      "crc32": "aef498d9",
+      "sha1": "137fe6040d4da51dd327bc2af25f8ce674903213",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-10-27T09:19:07.651440-05:00.jpg",
+      "source": "original",
+      "mtime": "1666880348",
+      "size": "348943",
+      "md5": "914f8baf15b2dc68a6e9bebd812637a0",
+      "crc32": "55bfa7d9",
+      "sha1": "5ca6b7f24a8842abfa3b4761f03d6a10b1b94e52",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sltimes-2022-10-27T09:19:07.651440-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880354",
+      "size": "1486",
+      "md5": "98540618b3c42287cb757c72e4d58137",
+      "crc32": "04391873",
+      "sha1": "e14577b55192ef774c43605c33b2b8dd729df87f",
+      "format": "JSON"
+    },
+    {
+      "name": "sltimes-2022-10-27T09:19:07.651440-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880356",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "sltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed4b46e63d49c8bb0f13125edcaf97c1a8b34c3b",
-      "mtime": "1666838065",
-      "size": "369534",
-      "md5": "346c16a6bac6f87c171bef275972a613",
-      "crc32": "b1b0d800",
-      "sha1": "fdcd92963805c9f297b7b91e1234519b6461e652",
+      "btih": "1e8850328f255b75f06a142ec264ba9c7e3082c8",
+      "mtime": "1666880424",
+      "size": "370794",
+      "md5": "d342b39695d350b41b3aa0c34806ce04",
+      "crc32": "6bdf6fc0",
+      "sha1": "535831fe0cf85747c7ac156c51cd08230568f417",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f3c7ba9f245f782e7e57594cd4d88b91",
+      "md5": "29add5c0e40894e92cf3bb058be01e09",
       "summation": "md5"
     },
     {
       "name": "sltimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666837999",
-      "size": "2170880",
-      "md5": "8b64da400a8d7d1c24d145d007a31ee1",
-      "crc32": "d9eae974",
-      "sha1": "14258b7db9edd66b82d08dd8dadd49eff6e9efb6",
+      "mtime": "1666880362",
+      "size": "2179072",
+      "md5": "bd091959de5191fb97963dcb2937cba8",
+      "crc32": "bb842259",
+      "sha1": "fadcb1deb8acd65135b1e0a53a978de68070d79f",
       "format": "Metadata"
     },
     {
@@ -18235,9 +18297,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1757,
-  "item_last_updated": 1666838065,
-  "item_size": 147329208,
+  "files_count": 1763,
+  "item_last_updated": 1666880424,
+  "item_size": 147744240,
   "metadata": {
     "identifier": "sltimes-2022",
     "collection": [
@@ -18257,9 +18319,14 @@
   "pending_tasks": true,
   "server": "ia601502.us.archive.org",
   "servers_unavailable": true,
+  "sltimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "tasks": [
     {
-      "task_id": 3453712961,
+      "task_id": 3454169634,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -18267,7 +18334,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 669392007,
+  "uniq": 2088876540,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

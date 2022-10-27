@@ -1,5 +1,5 @@
 {
-  "created": 1666838017,
+  "created": 1666883768,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/ruidosonews-2022",
@@ -4521,31 +4521,93 @@
       "format": "JSON"
     },
     {
+      "name": "ruidosonews-2022-10-26T20:32:30.582018-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ruidosonews-2022-10-26T20:32:30.582018-06:00.jpg",
+      "mtime": "1666862789",
+      "size": "9421",
+      "md5": "47483b40345380aa411499f74f1f7272",
+      "crc32": "d3e056bd",
+      "sha1": "6685343974c8a69c0765761d1bcc207efb09cbeb"
+    },
+    {
+      "name": "ruidosonews-2022-10-27T08:18:23.603286-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880309",
+      "size": "11173",
+      "md5": "28648cb41297bea20736ef3af0eef6d9",
+      "crc32": "406abef4",
+      "sha1": "4e18c511150db358a1afd51cbebf433619ab5e4f",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-27T08:18:23.603286-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880311",
+      "size": "28994",
+      "md5": "b44dc31553b280cd6e08e0dfd469a97a",
+      "crc32": "9606238c",
+      "sha1": "701e8534abe91dc21957f2bef0cefd1a753773f9",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-27T08:18:23.603286-06:00.jpg",
+      "source": "original",
+      "mtime": "1666880306",
+      "size": "244111",
+      "md5": "e577167e870805c9830c1baa93f560df",
+      "crc32": "c33a7749",
+      "sha1": "6f29712576c6016be6ea36737da5e40977f519fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ruidosonews-2022-10-27T08:18:23.603286-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880313",
+      "size": "1504",
+      "md5": "4bdad60f2433569a370952e30e11512f",
+      "crc32": "93e93fe8",
+      "sha1": "5140aba0e91bb8d2941d5354116fc757f38c0bf8",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-27T08:18:23.603286-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880314",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ruidosonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f7a51a90fd66609216b45d4a6a804a5605be600",
-      "mtime": "1666838007",
-      "size": "94521",
-      "md5": "e888c4202c2a21e296d0f56a565671ad",
-      "crc32": "759b50c6",
-      "sha1": "10b5bed8ea94c42da0dad8ee0caa9e5fce114177",
+      "btih": "03f75ffeca66a4f9fa11a6ab5587993a6fe12869",
+      "mtime": "1666880384",
+      "size": "95804",
+      "md5": "107f87362c30a22e25a77dc9f2dff6ef",
+      "crc32": "6481c82a",
+      "sha1": "484b199522676162a98cc7248f52462ade20aed3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ruidosonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0bfaa650ea2465ccf85d5408d042872",
+      "md5": "a65448ecd087fbd36b97bf16e1f4613f",
       "summation": "md5"
     },
     {
       "name": "ruidosonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666837966",
-      "size": "581632",
-      "md5": "1a99147e5dbf3ca13d16c72baad478d0",
-      "crc32": "538e4dbe",
-      "sha1": "02889f42c5541865f22d038d3ca979437d14ae10",
+      "mtime": "1666880338",
+      "size": "585728",
+      "md5": "6e294014c270405edf9747e15a3b576f",
+      "crc32": "fd3617bc",
+      "sha1": "264d5308f53ccf111cb4dfa89ce20b1938dc0f4b",
       "format": "Metadata"
     },
     {
@@ -4559,9 +4621,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 441,
-  "item_last_updated": 1666838007,
-  "item_size": 26665910,
+  "files_count": 447,
+  "item_last_updated": 1666880384,
+  "item_size": 26966694,
   "metadata": {
     "identifier": "ruidosonews-2022",
     "collection": [
@@ -4579,11 +4641,16 @@
     "addeddate": "2022-09-21 02:24:31"
   },
   "pending_tasks": true,
+  "ruidosonews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601402.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453712354,
+      "task_id": 3454169381,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4591,7 +4658,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1222493388,
+  "uniq": 249171496,
   "workable_servers": [
     "ia601402.us.archive.org"
   ]

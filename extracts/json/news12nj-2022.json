@@ -1,5 +1,5 @@
 {
-  "created": 1666837648,
+  "created": 1666883259,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/news12nj-2022",
@@ -11305,31 +11305,93 @@
       "format": "JSON"
     },
     {
+      "name": "news12nj-2022-10-26T22:26:22.490811-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "news12nj-2022-10-26T22:26:22.490811-04:00.jpg",
+      "mtime": "1666862185",
+      "size": "8294",
+      "md5": "dabc42f6dc94d1f8733015da3cf2cce3",
+      "crc32": "7c4863b5",
+      "sha1": "b88326d9e53789b6d5784556a2cd1292fdab5730"
+    },
+    {
+      "name": "news12nj-2022-10-27T10:12:23.574705-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666879951",
+      "size": "18706",
+      "md5": "8ab4a461e6dd7115d1c9a84aea0af89f",
+      "crc32": "8b5ebee8",
+      "sha1": "40b36316ec1563c181bb72a871f7d127a6c6e947",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-27T10:12:23.574705-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666879953",
+      "size": "16836",
+      "md5": "1392216f28238f906b05cffec0c1d7fd",
+      "crc32": "b391ae6d",
+      "sha1": "4e1b670d553238b5a09fa7193cf05c7062c32b57",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-27T10:12:23.574705-04:00.jpg",
+      "source": "original",
+      "mtime": "1666879949",
+      "size": "271759",
+      "md5": "f2752c73da38bbc10b545c7b0dd2972b",
+      "crc32": "6a97c2e0",
+      "sha1": "b131d0b8d93d599f1837b5932a40f0ac94251961",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "news12nj-2022-10-27T10:12:23.574705-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666879955",
+      "size": "1510",
+      "md5": "178dc75b11328179e10d60d35d4ff29e",
+      "crc32": "122eadb7",
+      "sha1": "c78921a4df74247e3e08aa89f065454e402cb6dc",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-27T10:12:23.574705-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666879957",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "news12nj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f6a32f12115e8b32e2e38291f998d3c4c7c7bf9d",
-      "mtime": "1666837645",
-      "size": "230711",
-      "md5": "e255710dc47f3d4eb6e96668cf887639",
-      "crc32": "dca6a247",
-      "sha1": "51046592d9b8cf5058138b234dc3e17b1d537ab4",
+      "btih": "d2ef38f56eae70a0811d0c0f42f4ec47e1a073bf",
+      "mtime": "1666880006",
+      "size": "231976",
+      "md5": "208494489fdadf03a1ed1b1abc7c2975",
+      "crc32": "8443ce48",
+      "sha1": "54694b4c0d66b5861a27a5b6462cd18d70ca3c02",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news12nj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f686e2d529a3f3e63eaaccf1e202db62",
+      "md5": "fb6ebe0eaadb37601ed83949f3e9e809",
       "summation": "md5"
     },
     {
       "name": "news12nj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666837601",
-      "size": "1400832",
-      "md5": "b4040188ae235aeba7f45c39a61b43e6",
-      "crc32": "b068b927",
-      "sha1": "b60647c88f420a49c37653ce1044198d0d6e40f9",
+      "mtime": "1666879962",
+      "size": "1409024",
+      "md5": "6c431194d69c7ea505cc2af2e8994460",
+      "crc32": "9d887268",
+      "sha1": "8b445d3ad739054e12223c6fe2d936b4a00b24da",
       "format": "Metadata"
     },
     {
@@ -11343,9 +11405,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1097,
-  "item_last_updated": 1666837645,
-  "item_size": 58935165,
+  "files_count": 1103,
+  "item_last_updated": 1666880006,
+  "item_size": 59261929,
   "metadata": {
     "identifier": "news12nj-2022",
     "collection": [
@@ -11362,12 +11424,17 @@
     "publicdate": "2022-07-26 00:20:38",
     "addeddate": "2022-07-26 00:20:38"
   },
+  "news12nj-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "pending_tasks": true,
   "server": "ia902508.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453707970,
+      "task_id": 3454165700,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11375,7 +11442,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 813075222,
+  "uniq": 1598583242,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

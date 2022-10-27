@@ -1,5 +1,5 @@
 {
-  "created": 1666838096,
+  "created": 1666883831,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/sinow-2022",
@@ -13235,31 +13235,93 @@
       "format": "JSON"
     },
     {
+      "name": "sinow-2022-10-26T22:33:34.382444-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sinow-2022-10-26T22:33:34.382444-04:00.jpg",
+      "mtime": "1666862939",
+      "size": "10639",
+      "md5": "cbdf1bc9a1489a8fc0b4a05a65904eba",
+      "crc32": "78bb487b",
+      "sha1": "9b4c7527a482a32ce77a15a2774e41d13e2e2913"
+    },
+    {
+      "name": "sinow-2022-10-27T10:18:16.407514-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880310",
+      "size": "28798",
+      "md5": "208f94035b6caa7a9c68b2d59862a557",
+      "crc32": "af414a82",
+      "sha1": "6ead8251bbb87e16616cadf9010cbf737308925b",
+      "format": "JSON"
+    },
+    {
+      "name": "sinow-2022-10-27T10:18:16.407514-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880312",
+      "size": "30997",
+      "md5": "31887d7d54725dd13e7f7da033e24c77",
+      "crc32": "3a24c532",
+      "sha1": "af644a8970991d22330364df44310c62b8f879bf",
+      "format": "JSON"
+    },
+    {
+      "name": "sinow-2022-10-27T10:18:16.407514-04:00.jpg",
+      "source": "original",
+      "mtime": "1666880308",
+      "size": "364586",
+      "md5": "b68ee3b880f9ae9d2fe31af0dc20bd44",
+      "crc32": "833067cf",
+      "sha1": "16c8a9880cf97961c2777264266d75f7458b9299",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sinow-2022-10-27T10:18:16.407514-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880314",
+      "size": "1423",
+      "md5": "336adc2fb699dbc8f7406a2f079da4d7",
+      "crc32": "8bdbc1bc",
+      "sha1": "a3662408596fafb603a5521eb8ac297721125124",
+      "format": "JSON"
+    },
+    {
+      "name": "sinow-2022-10-27T10:18:16.407514-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880317",
+      "size": "199",
+      "md5": "0e7cdc804a2370103f8dde747a52f2af",
+      "crc32": "742bf524",
+      "sha1": "f1cd9634ad93e4e87fe6516c43fdb27302b94b7e",
+      "format": "JSON"
+    },
+    {
       "name": "sinow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13baf6a7ea925f4d319baf7d328639ae1dc75b69",
-      "mtime": "1666838087",
-      "size": "266763",
-      "md5": "c4f4a689bc584bdc105ad5cabcedd395",
-      "crc32": "ed78e40e",
-      "sha1": "67686d29ae4bb69ad6500f005cc629521b0c9927",
+      "btih": "3edfc37b0bb0f6a2f588f53ab858743b40175e39",
+      "mtime": "1666880379",
+      "size": "268011",
+      "md5": "515f91f9874693d691af8cd91c535a00",
+      "crc32": "b2036872",
+      "sha1": "f0a323eb7c324a54d5fc9e960cef84d0afcd2199",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef2eb88e56bcc830fea392432ed13699",
+      "md5": "1aa185ad6ac9d7a0c5f5b613508f8561",
       "summation": "md5"
     },
     {
       "name": "sinow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666838035",
-      "size": "1597440",
-      "md5": "d7a74283a95291b61724a0881c3fbfd6",
-      "crc32": "2d80804b",
-      "sha1": "185b2469fcc70060e136e3fdead3a3b1b6f90ec5",
+      "mtime": "1666880322",
+      "size": "1609728",
+      "md5": "efe05e095f78a9e1f2f8218f8f21014a",
+      "crc32": "d0bb6255",
+      "sha1": "6cacd793cb3f11f8fec53974a3959473995bf455",
       "format": "Metadata"
     },
     {
@@ -13273,9 +13335,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1281,
-  "item_last_updated": 1666838087,
-  "item_size": 99106829,
+  "files_count": 1287,
+  "item_last_updated": 1666880379,
+  "item_size": 99557007,
   "metadata": {
     "identifier": "sinow-2022",
     "collection": [
@@ -13295,9 +13357,17 @@
   "pending_tasks": true,
   "server": "ia601501.us.archive.org",
   "servers_unavailable": true,
+  "sinow-2022": {
+    "url": "https://www.si.com/",
+    "job_id": "spn2-0f4b1f1e3838faa3bbe1f9b98a71c49d9fdf7df7",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
   "tasks": [
     {
-      "task_id": 3453713214,
+      "task_id": 3454169241,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13305,7 +13375,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1655796932,
+  "uniq": 1672836514,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

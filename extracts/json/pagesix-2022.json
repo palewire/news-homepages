@@ -1,5 +1,5 @@
 {
-  "created": 1666838954,
+  "created": 1666880189,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/8/items/pagesix-2022",
@@ -6763,31 +6763,93 @@
       "format": "JSON"
     },
     {
+      "name": "pagesix-2022-10-26T22:29:50.364896-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pagesix-2022-10-26T22:29:50.364896-04:00.jpg",
+      "mtime": "1666862629",
+      "size": "11099",
+      "md5": "37a519321dd6a1dab3da3828eb2b85df",
+      "crc32": "bb3e47ef",
+      "sha1": "c3179d57193922f78a0ad8b2c0c7744d80c8f3b5"
+    },
+    {
+      "name": "pagesix-2022-10-27T10:15:30.263428-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880136",
+      "size": "19357",
+      "md5": "c99290c336fe745f511787c72f4bf9f4",
+      "crc32": "4f64121e",
+      "sha1": "56db9454cef17746c5b64e83bb15697b3eddd828",
+      "format": "JSON"
+    },
+    {
+      "name": "pagesix-2022-10-27T10:15:30.263428-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880138",
+      "size": "24301",
+      "md5": "ff5379efe6345aacd2ddbf32ee06e3a9",
+      "crc32": "b32f0163",
+      "sha1": "939caaa46df27da838a40088d5e4e1a13abb8514",
+      "format": "JSON"
+    },
+    {
+      "name": "pagesix-2022-10-27T10:15:30.263428-04:00.jpg",
+      "source": "original",
+      "mtime": "1666880134",
+      "size": "329070",
+      "md5": "6f90d14f23869935537e54f65efaa3e0",
+      "crc32": "2bb76cfb",
+      "sha1": "565655559a62995e44ed86e470a4fdbfff8f3ecc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pagesix-2022-10-27T10:15:30.263428-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880139",
+      "size": "1429",
+      "md5": "fd3703038f7f8c7253f3c321ec886845",
+      "crc32": "9e7675fe",
+      "sha1": "94b0b8113e762ddc6089bd5493d44b75ac5fabb6",
+      "format": "JSON"
+    },
+    {
+      "name": "pagesix-2022-10-27T10:15:30.263428-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880142",
+      "size": "227",
+      "md5": "3fd8575d32d2d40313d4c6a6b3f3b9bf",
+      "crc32": "ab468ee4",
+      "sha1": "1ea44d6f7f6b3e0cce8bec6a91b18603a3f11dc3",
+      "format": "JSON"
+    },
+    {
       "name": "pagesix-2022_archive.torrent",
       "source": "metadata",
-      "btih": "726474427042f35088ede1138cb1dc1c648603bb",
-      "mtime": "1666837847",
-      "size": "138380",
-      "md5": "4c4caa9984b92ed961e0c04ceeab3b07",
-      "crc32": "c9a24885",
-      "sha1": "d24d9457d5d3b33aaa734890b3371b7371cec13a",
+      "btih": "8d8ad0792e2612f3abf6bf023ac1417d895a1b72",
+      "mtime": "1666880187",
+      "size": "139640",
+      "md5": "d98f9398d42a5e0e45fa1155bfb49463",
+      "crc32": "085a84ad",
+      "sha1": "6609501e76b27ad5dc7bfab596c24fdd65081c3e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pagesix-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "232a3212c12ac7872ed132137a280173",
+      "md5": "4730124a7ea382e17223dc5766bbee25",
       "summation": "md5"
     },
     {
       "name": "pagesix-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666837807",
-      "size": "847872",
-      "md5": "3632b53719b77198a3de7f9e2a77e5eb",
-      "crc32": "d623b49f",
-      "sha1": "27091ef95123967083697bcb92a5f69095406672",
+      "mtime": "1666880146",
+      "size": "856064",
+      "md5": "50002396d98d50abc74d152169466f2e",
+      "crc32": "eb9a6286",
+      "sha1": "63c56dac233b495531b8b37902d82e615430dd0d",
       "format": "Metadata"
     },
     {
@@ -6801,9 +6863,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 658,
-  "item_last_updated": 1666837847,
-  "item_size": 44402413,
+  "files_count": 664,
+  "item_last_updated": 1666880187,
+  "item_size": 44797348,
   "metadata": {
     "identifier": "pagesix-2022",
     "collection": [
@@ -6820,17 +6882,12 @@
     "publicdate": "2022-09-03 00:04:04",
     "addeddate": "2022-09-03 00:04:04"
   },
-  "pagesix-2022": {
-    "url": "https://pagesix.com/",
-    "job_id": "spn2-b627b08f01fc8628c299367924dddddb7891b42b",
-    "message": "The capture will start in ~1 minute because our service is currently overloaded. You may close your browser window and the page will still be saved."
-  },
   "pending_tasks": true,
   "server": "ia601504.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453710306,
+      "task_id": 3454167341,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6838,7 +6895,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1373045113,
+  "uniq": 1159184353,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

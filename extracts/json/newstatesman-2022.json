@@ -1,5 +1,5 @@
 {
-  "created": 1666837653,
+  "created": 1666880140,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/0/items/newstatesman-2022",
@@ -12933,31 +12933,155 @@
       "format": "JSON"
     },
     {
+      "name": "newstatesman-2022-10-27T03:25:48.407975+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstatesman-2022-10-27T03:25:48.407975+01:00.jpg",
+      "mtime": "1666862330",
+      "size": "10379",
+      "md5": "5c8945989cb546b103c46637ba0f65e9",
+      "crc32": "31a30393",
+      "sha1": "4d2c7e996d7cca6637cbbf42d253b742a76e26ca"
+    },
+    {
+      "name": "newstatesman-2022-10-27T10:22:52.462338+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666862576",
+      "size": "29353",
+      "md5": "b6174130d3004a2598c9385a35cb8247",
+      "crc32": "86eb8c3a",
+      "sha1": "583080dfce1205b6caa0cf8c1b7328f3142b2011",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-10-27T10:22:52.462338+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666862578",
+      "size": "45409",
+      "md5": "7c7e82200f74b1f57bcd55b8fba387b3",
+      "crc32": "f0ee5ca4",
+      "sha1": "f69c73d1214bc3f6d33dafb4dc268c81c2e0aef9",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-10-27T10:22:52.462338+01:00.jpg",
+      "source": "original",
+      "mtime": "1666862574",
+      "size": "275422",
+      "md5": "734284b2c98914d9cdb77b18a9cef051",
+      "crc32": "0761bed9",
+      "sha1": "30757b4e0756ecc4167b19c4c66778f54d9ee67e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstatesman-2022-10-27T10:22:52.462338+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666862580",
+      "size": "1531",
+      "md5": "2a337026992284bd2f6999fd117423bd",
+      "crc32": "77335613",
+      "sha1": "2bd8e6281a73a3b2b8a7327a3d6241034217ec56",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-10-27T10:22:52.462338+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666862582",
+      "size": "21501",
+      "md5": "cc05141f670e5f4aefaea29d832a7e6a",
+      "crc32": "7f8605d1",
+      "sha1": "9b819eb027212265ee25599a7660cac1f5a59de3",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-10-27T10:22:52.462338+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstatesman-2022-10-27T10:22:52.462338+01:00.jpg",
+      "mtime": "1666879991",
+      "size": "9716",
+      "md5": "8854551195e1c921536eae511f58e32a",
+      "crc32": "8ff5163e",
+      "sha1": "15bfa57351b97ee5c62e5ad6c26758b4d486ac17"
+    },
+    {
+      "name": "newstatesman-2022-10-27T15:12:04.137638+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666879949",
+      "size": "29300",
+      "md5": "45cff70f7c3858470803c82e7fb4b679",
+      "crc32": "74bf9fb0",
+      "sha1": "75e2b99dc3e1697a1f110dff4173fc2de791e8b3",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-10-27T15:12:04.137638+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666879951",
+      "size": "37420",
+      "md5": "63f3ba493eabb7356a8da1f94f11745c",
+      "crc32": "704f85f0",
+      "sha1": "50bfd9b3b75da8ed647acbdb2be09e58d0555c92",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-10-27T15:12:04.137638+01:00.jpg",
+      "source": "original",
+      "mtime": "1666879947",
+      "size": "287505",
+      "md5": "0f8ab5e167e19ef7ea5985cb5f59a521",
+      "crc32": "c986a0b9",
+      "sha1": "15066848b25ca5cbbd87fddef22f33cad3fdfb49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newstatesman-2022-10-27T15:12:04.137638+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666879957",
+      "size": "1629",
+      "md5": "f9d3b0dc66609a40cf18b2bb0737ef18",
+      "crc32": "5bd3f188",
+      "sha1": "fb25392c899508d6e57fa3f2085d053f530b5edf",
+      "format": "JSON"
+    },
+    {
+      "name": "newstatesman-2022-10-27T15:12:04.137638+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666879959",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "newstatesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c9d2c8e919dd2f1482b4a0748d0ae20cfbddc52",
-      "mtime": "1666837647",
-      "size": "269473",
-      "md5": "8a4183fa84b63e8e9b7485ee54818b0a",
-      "crc32": "2b696db8",
-      "sha1": "7c0ce6feb3188d1582974fad562c0aca440e9d2e",
+      "btih": "921b9eb8246474dc9457781de92d2fec9842bb4f",
+      "mtime": "1666880125",
+      "size": "272034",
+      "md5": "bfbe63a0161a95805c733f56bc5983b4",
+      "crc32": "8694c28f",
+      "sha1": "4b0c6953a59b064d725e4bfd8ce8975e8e4c6ede",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newstatesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e9a31b5346b0d5eae275ddf7d7543d4",
+      "md5": "375afe977465ccd7457a55d82a3731ab",
       "summation": "md5"
     },
     {
       "name": "newstatesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666837594",
-      "size": "1609728",
-      "md5": "89e3d06d1407479575875560c47ff3ad",
-      "crc32": "e0ba01ca",
-      "sha1": "d63f005ee739ae6ebbebe0b2f5a750f96636a416",
+      "mtime": "1666880097",
+      "size": "1630208",
+      "md5": "8e6517ac23fce5257f8bf69b87d968bb",
+      "crc32": "a83eb65f",
+      "sha1": "a26385ed3f5b70d0f1ec72a1368180445973ede8",
       "format": "Metadata"
     },
     {
@@ -12971,9 +13095,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1255,
-  "item_last_updated": 1666837647,
-  "item_size": 80737348,
+  "files_count": 1267,
+  "item_last_updated": 1666880125,
+  "item_size": 81509756,
   "metadata": {
     "identifier": "newstatesman-2022",
     "collection": [
@@ -12995,7 +13119,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453708032,
+      "task_id": 3454166791,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13003,7 +13127,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 564419132,
+  "uniq": 1867529377,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

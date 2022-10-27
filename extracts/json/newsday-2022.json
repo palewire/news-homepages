@@ -1,5 +1,5 @@
 {
-  "created": 1666837633,
+  "created": 1666883334,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/33/items/newsday-2022",
@@ -11369,31 +11369,93 @@
       "format": "JSON"
     },
     {
+      "name": "newsday-2022-10-26T22:26:07.597632-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsday-2022-10-26T22:26:07.597632-04:00.jpg",
+      "mtime": "1666862174",
+      "size": "9516",
+      "md5": "f04819b1ce5c16807de4a3d14a7f2791",
+      "crc32": "665782ef",
+      "sha1": "4622a2b5486efd8a4d514080c7b015f9c415f6dd"
+    },
+    {
+      "name": "newsday-2022-10-27T10:12:04.717771-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666879936",
+      "size": "20055",
+      "md5": "7ea8f3d5724434e74039949e579e79de",
+      "crc32": "fefb3ca1",
+      "sha1": "38bf7af3459d33cddd4d70cf43c5137361a858f6",
+      "format": "JSON"
+    },
+    {
+      "name": "newsday-2022-10-27T10:12:04.717771-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666879939",
+      "size": "23756",
+      "md5": "8e4be8d787731fe7483ff01be42993f6",
+      "crc32": "99618476",
+      "sha1": "5570961fa34538b4cc49b653556d552cb682af74",
+      "format": "JSON"
+    },
+    {
+      "name": "newsday-2022-10-27T10:12:04.717771-04:00.jpg",
+      "source": "original",
+      "mtime": "1666879931",
+      "size": "336900",
+      "md5": "adc57c9aa092f842ad0ace414de76555",
+      "crc32": "c40e8e52",
+      "sha1": "6279d0b4b2652101f4df242ef9b95ffc1aa8db5e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsday-2022-10-27T10:12:04.717771-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666879943",
+      "size": "1468",
+      "md5": "91a9d46f3e9ab1eb4e80f4cb137a56e2",
+      "crc32": "3de7b827",
+      "sha1": "9664da5e9771b64414950d89b8328831115acf51",
+      "format": "JSON"
+    },
+    {
+      "name": "newsday-2022-10-27T10:12:04.717771-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666879946",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "newsday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "40e0c75d48c9b9773e870c0c347d9dc8002207b8",
-      "mtime": "1666837629",
-      "size": "231461",
-      "md5": "52973947141cd43dab0a66b2bc6fe974",
-      "crc32": "28027bb4",
-      "sha1": "66f4d08956f614397c678265ae2c295eb1cd3599",
+      "btih": "8b43befdcd69c4bbcebb79eaaf5d6090fc3407fc",
+      "mtime": "1666879998",
+      "size": "232720",
+      "md5": "730ac716d5f3c60c1f8abb784916ebe8",
+      "crc32": "4df3e34e",
+      "sha1": "ca42ee836a2a2e0582fa51467bccc337472e8ec2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eea6153ce1a6fa055a1d8e1d092df76d",
+      "md5": "67036fc921cf8a598bae7ed0e108b7e9",
       "summation": "md5"
     },
     {
       "name": "newsday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666837584",
-      "size": "1400832",
-      "md5": "8d567c47f7bd203af7143279ff1057ec",
-      "crc32": "46b72c65",
-      "sha1": "6435dc8af31fe365888a9f06c7b10e6051d474fd",
+      "mtime": "1666879951",
+      "size": "1409024",
+      "md5": "d5ab1b8925af64a9815311b5cd384286",
+      "crc32": "3497b1fc",
+      "sha1": "012e390d232a7fea14f6608c138074b0894a4aff",
       "format": "Metadata"
     },
     {
@@ -11407,9 +11469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1103,
-  "item_last_updated": 1666837629,
-  "item_size": 75512915,
+  "files_count": 1109,
+  "item_last_updated": 1666879998,
+  "item_size": 75914263,
   "metadata": {
     "identifier": "newsday-2022",
     "collection": [
@@ -11426,12 +11488,17 @@
     "publicdate": "2022-07-26 00:21:25",
     "addeddate": "2022-07-26 00:21:25"
   },
+  "newsday-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "pending_tasks": true,
   "server": "ia902504.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3453707792,
+      "task_id": 3454165617,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11439,7 +11506,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1406004611,
+  "uniq": 2105245282,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]
