@@ -1,5 +1,5 @@
 {
-  "created": 1666900700,
+  "created": 1666913438,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/20/items/windowscentral-2022",
@@ -11381,21 +11381,32 @@
       "format": "JSON"
     },
     {
+      "name": "windowscentral-2022-10-27T12:57:12.187677-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "windowscentral-2022-10-27T12:57:12.187677-07:00.jpg",
+      "mtime": "1666907798",
+      "size": "10456",
+      "md5": "83c2d846339ecfd05e0e1d757205c9f6",
+      "crc32": "2215544f",
+      "sha1": "ad5d90b6558a320cbbcc3f8e1149dddb9aaca04e"
+    },
+    {
       "name": "windowscentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92382894da980095b641275a80577b193870ea61",
-      "mtime": "1666900696",
-      "size": "238966",
-      "md5": "d062e9c0857b6289c7efc85871956564",
-      "crc32": "19321896",
-      "sha1": "bea1e8750fee40a22857adbfca27175453a14e51",
+      "btih": "3d81e2d793ce8980e111c38961d2aeed830bc426",
+      "mtime": "1666907835",
+      "size": "239177",
+      "md5": "036677f6a7bc989575813754220d914c",
+      "crc32": "50e3c27d",
+      "sha1": "b526c47a97681f6d2d1ca1cff1d87ab99f3fd870",
       "format": "Archive BitTorrent"
     },
     {
       "name": "windowscentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc6a2622a35e8a41cdbd1308558af06a",
+      "md5": "6fbbf2a965c019290f77e9350f836d48",
       "summation": "md5"
     },
     {
@@ -11419,9 +11430,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1104,
-  "item_last_updated": 1666900696,
-  "item_size": 62665512,
+  "files_count": 1105,
+  "item_last_updated": 1666907835,
+  "item_size": 62676179,
   "metadata": {
     "identifier": "windowscentral-2022",
     "collection": [
@@ -11438,21 +11449,10 @@
     "publicdate": "2022-07-25 06:48:02",
     "addeddate": "2022-07-25 06:48:02"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454373894,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1078812423,
+  "server": "ia801406.us.archive.org",
+  "uniq": 805649906,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

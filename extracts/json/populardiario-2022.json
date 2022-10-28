@@ -1,5 +1,5 @@
 {
-  "created": 1666898633,
+  "created": 1666906673,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/28/items/populardiario-2022",
@@ -9719,21 +9719,32 @@
       "format": "JSON"
     },
     {
+      "name": "populardiario-2022-10-27T16:22:05.006680-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-27T16:22:05.006680-03:00.jpg",
+      "mtime": "1666906596",
+      "size": "11118",
+      "md5": "691dcab1fa214d0b0eb85291774029e0",
+      "crc32": "84493fe1",
+      "sha1": "0adcc186211c23e3e682d7692c5e895257021767"
+    },
+    {
       "name": "populardiario-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4066c422ce8952876cc2a3bb6edf63db958787a9",
-      "mtime": "1666898621",
-      "size": "204777",
-      "md5": "251d1345fc0383f36112017fe6d76676",
-      "crc32": "fee74011",
-      "sha1": "ffda3d121b8b41e401f306e5db579c641803586c",
+      "btih": "9978d7ad49d54b06eee6c00232b694028596fdd4",
+      "mtime": "1666906612",
+      "size": "204987",
+      "md5": "413dad549d0d59ef1a44945478ecdbdd",
+      "crc32": "2d93c959",
+      "sha1": "d3e9771cd71609ddf972bfd8ed5ee7f28026ae85",
       "format": "Archive BitTorrent"
     },
     {
       "name": "populardiario-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "598bc37936b558fe880653e21b90cc9d",
+      "md5": "3e49dae117dcaba6b97222540df5553b",
       "summation": "md5"
     },
     {
@@ -9757,9 +9768,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 944,
-  "item_last_updated": 1666898621,
-  "item_size": 83937293,
+  "files_count": 945,
+  "item_last_updated": 1666906612,
+  "item_size": 83948621,
   "metadata": {
     "identifier": "populardiario-2022",
     "collection": [
@@ -9776,21 +9787,10 @@
     "publicdate": "2022-08-09 17:48:48",
     "addeddate": "2022-08-09 17:48:48"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355160,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1146467474,
+  "uniq": 1600397305,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

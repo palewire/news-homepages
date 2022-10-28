@@ -1,5 +1,5 @@
 {
-  "created": 1666887158,
+  "created": 1666919952,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/6/items/venturebeat-2022",
@@ -13927,21 +13927,32 @@
       "format": "JSON"
     },
     {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-27T09:11:12.095158-07:00.jpg",
+      "mtime": "1666897630",
+      "size": "9405",
+      "md5": "6a63dfbbe29a97a3e732a557a0d1013d",
+      "crc32": "29c1b7b2",
+      "sha1": "634d81034fe8ec2d568bc01cebd1205d4f184d96"
+    },
+    {
       "name": "venturebeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09c6c8f01068a31c17b9a019e1794f505c944a12",
-      "mtime": "1666887149",
-      "size": "287223",
-      "md5": "63e9c5ce9681a90561d31a29abd58252",
-      "crc32": "550c8003",
-      "sha1": "5e66339dcf4e145d8c9068314c436c75b824a6bf",
+      "btih": "0bd25e0631117a29280c715b62c449b5e7402332",
+      "mtime": "1666897649",
+      "size": "287430",
+      "md5": "0c0c33969854e4812e90d467ee190b98",
+      "crc32": "7bd5acd6",
+      "sha1": "503d0d2ee35e0ce10dd4f6497cead3343f05e971",
       "format": "Archive BitTorrent"
     },
     {
       "name": "venturebeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ca3d2194203dadef534f0da01df01a9",
+      "md5": "716a91278ed977e98a63f23dce3054ee",
       "summation": "md5"
     },
     {
@@ -13965,9 +13976,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1347,
-  "item_last_updated": 1666887149,
-  "item_size": 75717984,
+  "files_count": 1348,
+  "item_last_updated": 1666897649,
+  "item_size": 75727596,
   "metadata": {
     "identifier": "venturebeat-2022",
     "collection": [
@@ -13984,21 +13995,51 @@
     "publicdate": "2022-07-04 20:17:37",
     "addeddate": "2022-07-04 20:17:37"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "server": "ia801405.us.archive.org",
+  "uniq": 2127887164,
+  "venturebeat-2022": [
     {
-      "task_id": 3454238846,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://venturebeat.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/venturebeat_com-_-2022_10_27_15_52_57.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/venturebeat_com-_-2022_10_27_15_52_57.report.json",
+      "summary": {
+        "performance": 0.26,
+        "accessibility": 1,
+        "best-practices": 0.83,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://venturebeat.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/venturebeat_com-_-2022_10_27_15_53_18.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/venturebeat_com-_-2022_10_27_15_53_18.report.json",
+      "summary": {
+        "performance": 0.45,
+        "accessibility": 1,
+        "best-practices": 0.83,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
+    },
+    {
+      "url": "https://venturebeat.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/venturebeat_com-_-2022_10_27_15_53_31.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/venturebeat_com-_-2022_10_27_15_53_31.report.json",
+      "summary": {
+        "performance": 0.47,
+        "accessibility": 1,
+        "best-practices": 0.83,
+        "seo": 0.86,
+        "pwa": 0.3
+      }
     }
   ],
-  "uniq": 2122597871,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

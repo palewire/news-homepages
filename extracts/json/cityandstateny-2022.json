@@ -1,5 +1,5 @@
 {
-  "created": 1666913860,
+  "created": 1666915307,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/15/items/cityandstateny-2022",
@@ -10753,21 +10753,32 @@
       "format": "JSON"
     },
     {
+      "name": "cityandstateny-2022-10-27T19:36:15.329452-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cityandstateny-2022-10-27T19:36:15.329452-04:00.jpg",
+      "mtime": "1666915043",
+      "size": "9426",
+      "md5": "cf6e4c34455a860c58616fa2e5d6373d",
+      "crc32": "7476a746",
+      "sha1": "9f21decf366933e61b74deb0c9aa70855fe7fabd"
+    },
+    {
       "name": "cityandstateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "479491ea3553f4c79d365b29024b5425d2a16d7e",
-      "mtime": "1666913857",
-      "size": "226532",
-      "md5": "b0d4b33fd45061e1a419ff65c9ce2b38",
-      "crc32": "b6e7499f",
-      "sha1": "749f61cc80f631db5e9dfc0e4e71161d1de31b30",
+      "btih": "24cd73e75934f5e097e920d9e43e513c64f4e88c",
+      "mtime": "1666915267",
+      "size": "226742",
+      "md5": "a679611623339decfa0a09b7c67873df",
+      "crc32": "5a1430d1",
+      "sha1": "44c7ef780a9432134c0b74e80aaf944e59b13047",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cityandstateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0e564fb447398ecf5833d4dce221082",
+      "md5": "0044a77d78a197d6eb94291cd22803bc",
       "summation": "md5"
     },
     {
@@ -10791,9 +10802,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1044,
-  "item_last_updated": 1666913857,
-  "item_size": 71395680,
+  "files_count": 1045,
+  "item_last_updated": 1666915267,
+  "item_size": 71405316,
   "metadata": {
     "identifier": "cityandstateny-2022",
     "collection": [
@@ -10810,21 +10821,10 @@
     "publicdate": "2022-08-02 23:21:27",
     "addeddate": "2022-08-02 23:21:27"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454570238,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 640072339,
+  "uniq": 2109272183,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

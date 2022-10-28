@@ -1,5 +1,5 @@
 {
-  "created": 1666901385,
+  "created": 1666919043,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/4/items/shelbystar-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "shelbystar-2022-10-27T15:28:15.149011-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shelbystar-2022-10-27T15:28:15.149011-04:00.jpg",
+      "mtime": "1666906861",
+      "size": "9167",
+      "md5": "f2bcf2f67ad05801b9651957bf97f523",
+      "crc32": "471116bb",
+      "sha1": "e9f6be6912281a16e5ffedb11dda7f6ea766f02c"
+    },
+    {
       "name": "shelbystar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b0a12c8e10574cd2027e3a9afd1db370f5d2763",
-      "mtime": "1666898947",
-      "size": "97041",
-      "md5": "74d56c02428a478ec3c6176606f413f0",
-      "crc32": "2e59fac8",
-      "sha1": "d8a3d53f8658cb06b5013d1e327eac5207c49a45",
+      "btih": "f1727dbfd30333121739084b908f1ce4993985ca",
+      "mtime": "1666906866",
+      "size": "97247",
+      "md5": "2c51215ffa075e3a31bcbb2923ce3f99",
+      "crc32": "022318dd",
+      "sha1": "2330a097bc79e11c4797a5c1775186fb94b10ad3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shelbystar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b44243cb9401a945a8b908d9edf47a51",
+      "md5": "cc5dc2a7400eae5c439f070e312c9e32",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666898947,
-  "item_size": 31789183,
+  "files_count": 455,
+  "item_last_updated": 1666906866,
+  "item_size": 31798556,
   "metadata": {
     "identifier": "shelbystar-2022",
     "collection": [
@@ -4712,9 +4723,7 @@
     "publicdate": "2022-09-20 19:23:48",
     "addeddate": "2022-09-20 19:23:48"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
+  "server": "ia801502.us.archive.org",
   "shelbystar-2022": {
     "url": "https://www.shelbystar.com/",
     "job_id": "spn2-9f00adfd5fcd38f024e843029b407aeb47c4f9f9",
@@ -5057,18 +5066,9 @@
       "https://redirector.gvt1.com/videoplayback/id/7e5e5ec0612916f9/itag/18/source/dclk_video_ads/requiressl/yes/acao/yes/mime/video/mp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1666917557/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/465B63BAE427FAC3BC336018AD4F6A1813307E1F.B9B45A86508E68E6A4CD4314BC1E4797C3196BB3/key/ck2/file/file.mp4"
     ]
   },
-  "tasks": [
-    {
-      "task_id": 3454358112,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1276681891,
+  "uniq": 1175041286,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

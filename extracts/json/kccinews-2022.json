@@ -1,5 +1,5 @@
 {
-  "created": 1666876734,
+  "created": 1666916966,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/kccinews-2022",
@@ -21727,21 +21727,32 @@
       "format": "JSON"
     },
     {
+      "name": "kccinews-2022-10-27T08:16:59.967674-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kccinews-2022-10-27T08:16:59.967674-05:00.jpg",
+      "mtime": "1666891540",
+      "size": "10405",
+      "md5": "f0fe2e27d673d613fe856c4dccb6d0e5",
+      "crc32": "04ffaca0",
+      "sha1": "bb8cdb13b2e01b4298f860206ab4cebd348a3e8f"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d05b62ee58a5b581672216c6fe04314c7ed3f463",
-      "mtime": "1666876719",
-      "size": "441440",
-      "md5": "7bdd12c0ebf6ec57321b0cb6cc540f2f",
-      "crc32": "28b9170f",
-      "sha1": "9cddcb976c876b3f09f0f570a1572b101711bb51",
+      "btih": "78cbc5f6a6cf4880fc4d3f99a061ced739f6d59a",
+      "mtime": "1666891588",
+      "size": "441645",
+      "md5": "2192d8f34fdbcef9367cd2202b9df593",
+      "crc32": "68aa4fb3",
+      "sha1": "1ccc4999ccab0f548a63f914f96ec093a6a886c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a581fdf79224f23e358d9d03d63e12e4",
+      "md5": "99bf1789e954629eefe7f53f3908bd8e",
       "summation": "md5"
     },
     {
@@ -21765,9 +21776,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2093,
-  "item_last_updated": 1666876719,
-  "item_size": 159125499,
+  "files_count": 2094,
+  "item_last_updated": 1666891588,
+  "item_size": 159136109,
+  "kccinews-2022": {
+    "url": "https://www.kcci.com/",
+    "job_id": "spn2-6d59e574a57ea4961cc5d461f683ab087d3e0fa0",
+    "message": "The same snapshot had been made 25 minutes, 34 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "metadata": {
     "identifier": "kccinews-2022",
     "collection": [
@@ -21784,21 +21800,10 @@
     "publicdate": "2022-03-25 03:36:10",
     "addeddate": "2022-03-25 03:36:10"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454136599,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1166789537,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1303438811,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

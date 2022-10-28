@@ -1,5 +1,5 @@
 {
-  "created": 1666900590,
+  "created": 1666907885,
   "d1": "ia902501.us.archive.org",
   "d2": "ia802501.us.archive.org",
   "dir": "/23/items/thenewmexican-2022",
@@ -18701,21 +18701,32 @@
       "format": "JSON"
     },
     {
+      "name": "thenewmexican-2022-10-27T13:55:02.039310-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewmexican-2022-10-27T13:55:02.039310-06:00.jpg",
+      "mtime": "1666907773",
+      "size": "9342",
+      "md5": "f8cc9d773dea33c06f14f09a6b0e4303",
+      "crc32": "357378e2",
+      "sha1": "e0e5dd7e68e8ebb7d04671cf4151e749db923955"
+    },
+    {
       "name": "thenewmexican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "57b5d78b38967e72758f486a8ab2104fd04aecfa",
-      "mtime": "1666900584",
-      "size": "388283",
-      "md5": "354e466f26621014846f4a284506d9b2",
-      "crc32": "2bc3f7da",
-      "sha1": "133cf3e64a43ae943cd18a79d2b44e1048d15d5b",
+      "btih": "b340d330d3fcb88b4a9002d39986db54c24aff33",
+      "mtime": "1666907863",
+      "size": "388492",
+      "md5": "70ab9a85a8dbc1608ae657ffbb27c2cf",
+      "crc32": "e3379833",
+      "sha1": "3a790f15102aac6ce2b269cedeafc82115833207",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewmexican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a691e1835a4d408688a7fc0877b848c6",
+      "md5": "661c82271c5bc68e38636280f286a320",
       "summation": "md5"
     },
     {
@@ -18739,9 +18750,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1798,
-  "item_last_updated": 1666900584,
-  "item_size": 154171153,
+  "files_count": 1799,
+  "item_last_updated": 1666907863,
+  "item_size": 154180704,
   "metadata": {
     "identifier": "thenewmexican-2022",
     "collection": [
@@ -18758,21 +18769,10 @@
     "publicdate": "2022-03-25 03:48:42",
     "addeddate": "2022-03-25 03:48:42"
   },
-  "pending_tasks": true,
-  "server": "ia902501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372772,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 540205456,
+  "server": "ia802501.us.archive.org",
+  "uniq": 668195079,
   "workable_servers": [
+    "ia802501.us.archive.org",
     "ia902501.us.archive.org"
   ]
 }

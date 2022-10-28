@@ -1,5 +1,5 @@
 {
-  "created": 1666900748,
+  "created": 1666908060,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/voiceofsandiego-2022",
@@ -27467,21 +27467,32 @@
       "format": "JSON"
     },
     {
+      "name": "voiceofsandiego-2022-10-27T12:57:23.522294-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voiceofsandiego-2022-10-27T12:57:23.522294-07:00.jpg",
+      "mtime": "1666907922",
+      "size": "10710",
+      "md5": "629d9a37cc2e8ba7de3a28bf9cb7fbd3",
+      "crc32": "4ecc036e",
+      "sha1": "f88709723918d09edff4d919b3257bf584540e79"
+    },
+    {
       "name": "voiceofsandiego-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b3b7ea4034614d65e55aa698b93042775e5a26a7",
-      "mtime": "1666900742",
-      "size": "575507",
-      "md5": "1b507d9030101fb0d8cb7f4cbb2522e6",
-      "crc32": "3f42a121",
-      "sha1": "a9d7e4621eae38aebf34d1a83b22c7a9728c3bd1",
+      "btih": "70ac975fa0b55dd2e96ecdebe015b98134262d33",
+      "mtime": "1666908027",
+      "size": "575719",
+      "md5": "587416b0c73c326a196eef4fdc2a0516",
+      "crc32": "6a230679",
+      "sha1": "09db92bff6a70a2b7e3f973cbb1b3105139ed0a8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofsandiego-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e119defccdf06938ce98a2ea2f2dc1bf",
+      "md5": "a1f917abd9b2ec85d639955143cc2bf2",
       "summation": "md5"
     },
     {
@@ -27505,9 +27516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2643,
-  "item_last_updated": 1666900742,
-  "item_size": 194130342,
+  "files_count": 2644,
+  "item_last_updated": 1666908027,
+  "item_size": 194141264,
   "metadata": {
     "identifier": "voiceofsandiego-2022",
     "collection": [
@@ -27524,21 +27535,10 @@
     "publicdate": "2022-03-26 02:09:17",
     "addeddate": "2022-03-26 02:09:17"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454374445,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2131195981,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1392132510,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

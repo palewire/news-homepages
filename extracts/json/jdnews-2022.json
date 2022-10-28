@@ -1,5 +1,5 @@
 {
-  "created": 1666877145,
+  "created": 1666916836,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/22/items/jdnews-2022",
@@ -4645,21 +4645,32 @@
       "format": "JSON"
     },
     {
+      "name": "jdnews-2022-10-27T09:14:06.148397-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jdnews-2022-10-27T09:14:06.148397-04:00.jpg",
+      "mtime": "1666891260",
+      "size": "8723",
+      "md5": "1a3cb82b2f2b7701f2775106f23b9721",
+      "crc32": "205d9a7d",
+      "sha1": "e7e98bda30aded52b3c3ad721f4b3691e1d39a07"
+    },
+    {
       "name": "jdnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c24f1ae102c975b3e53ec781727edc11631effa1",
-      "mtime": "1666876522",
-      "size": "94986",
-      "md5": "cea644f0334c21b449159e99dea0d420",
-      "crc32": "60947983",
-      "sha1": "861eefd3de5bd0c22d8b3a7ac52fe9f07dbf6410",
+      "btih": "90b6299203daa18b4e5900fad262845b2b72e245",
+      "mtime": "1666891266",
+      "size": "95188",
+      "md5": "36941043cc4499a621bf7ef76d148faa",
+      "crc32": "2d5e894e",
+      "sha1": "3112eda56cd8b78d166c851a6da932ed577972dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jdnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06778e5c1361652cc07cc48cbf4a6a54",
+      "md5": "2fb63c1d201cec01012162b5fc8568ed",
       "summation": "md5"
     },
     {
@@ -4683,9 +4694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666876522,
-  "item_size": 31516795,
+  "files_count": 454,
+  "item_last_updated": 1666891266,
+  "item_size": 31525720,
   "jdnews-2022": {
     "url": "https://www.jdnews.com/",
     "job_id": "spn2-2d502224f3ca1e3f9564f53898b6c4f146958d71",
@@ -5023,21 +5034,10 @@
     "publicdate": "2022-09-20 22:24:57",
     "addeddate": "2022-09-20 22:24:57"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454134242,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2022877429,
+  "uniq": 515631551,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

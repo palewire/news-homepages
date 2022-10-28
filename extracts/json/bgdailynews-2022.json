@@ -435,7 +435,7 @@
     "duration_sec": 28.004,
     "screenshot": "http://web.archive.org/screenshot/https://www.bgdailynews.com/"
   },
-  "created": 1666890925,
+  "created": 1666915721,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/3/items/bgdailynews-2022",
@@ -11273,21 +11273,32 @@
       "format": "JSON"
     },
     {
+      "name": "bgdailynews-2022-10-27T11:06:46.284713-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bgdailynews-2022-10-27T11:06:46.284713-05:00.jpg",
+      "mtime": "1666897521",
+      "size": "8882",
+      "md5": "a85a464853a4f0d47377d4300bf2f1aa",
+      "crc32": "fe403504",
+      "sha1": "fe6d4ec458983eed7c887393c9a3d8562871565e"
+    },
+    {
       "name": "bgdailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d49321d11e5bbdfcb7e46ae25a40562be867304",
-      "mtime": "1666886888",
-      "size": "226049",
-      "md5": "39ccfb8b71bb1f5ed76932130ddc949d",
-      "crc32": "2b70d118",
-      "sha1": "8409f1a03f41141436a6938435fd8c38260c30d7",
+      "btih": "9a6750d3d35ecc22b102393be832db04bcef42a6",
+      "mtime": "1666897542",
+      "size": "226256",
+      "md5": "a7c894df3fee87fce30e4e855eb5aeb2",
+      "crc32": "550930ee",
+      "sha1": "bdb4f3216a01ccd5d10fe35d8eb7b62ab2b2f7bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bgdailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "63ef2129ab597c1dae02e2bde0e8cbc7",
+      "md5": "62055579201a1f2d2f5b00dbd81d7837",
       "summation": "md5"
     },
     {
@@ -11311,9 +11322,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1052,
-  "item_last_updated": 1666886888,
-  "item_size": 94467801,
+  "files_count": 1053,
+  "item_last_updated": 1666897542,
+  "item_size": 94476890,
   "metadata": {
     "identifier": "bgdailynews-2022",
     "collection": [
@@ -11330,21 +11341,10 @@
     "publicdate": "2022-08-01 06:42:02",
     "addeddate": "2022-08-01 06:42:02"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454235056,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1435606018,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1870046860,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

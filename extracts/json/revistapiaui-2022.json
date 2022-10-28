@@ -1,5 +1,5 @@
 {
-  "created": 1666898840,
+  "created": 1666918831,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/34/items/revistapiaui-2022",
@@ -14391,21 +14391,32 @@
       "format": "JSON"
     },
     {
+      "name": "revistapiaui-2022-10-27T16:26:01.760529-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "revistapiaui-2022-10-27T16:26:01.760529-03:00.jpg",
+      "mtime": "1666907410",
+      "size": "9763",
+      "md5": "8c306cc67b2c443997fbcef8df36c629",
+      "crc32": "ad7dbf9e",
+      "sha1": "aa58280cbea9fe29b3992dbf846af84bc61b7d5e"
+    },
+    {
       "name": "revistapiaui-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a0000b74338acd5bb2bf7af10bca2c831c1ae62c",
-      "mtime": "1666898832",
-      "size": "299076",
-      "md5": "a36969c3fd3d803f655696bc84354c51",
-      "crc32": "8659a3ad",
-      "sha1": "1ff228e246e8f4137daaa04f6dab9262dbb3cd87",
+      "btih": "b52a2b48b8221def873ddc59e3e87ab0f35a2d6f",
+      "mtime": "1666907432",
+      "size": "299284",
+      "md5": "1ab03394d9e49a9e58f07faff0035c37",
+      "crc32": "3e4e8b14",
+      "sha1": "fc9ab87804d4f2afee6975daddd6945899186268",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistapiaui-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4eb5ee25a8f209e6dae7750ae5231d3a",
+      "md5": "a0f259337fce619c05716ddb4911d6b9",
       "summation": "md5"
     },
     {
@@ -14429,9 +14440,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1396,
-  "item_last_updated": 1666898832,
-  "item_size": 76821351,
+  "files_count": 1397,
+  "item_last_updated": 1666907432,
+  "item_size": 76831322,
   "metadata": {
     "identifier": "revistapiaui-2022",
     "collection": [
@@ -14448,21 +14459,15 @@
     "publicdate": "2022-08-07 19:43:52",
     "addeddate": "2022-08-07 19:43:52"
   },
-  "pending_tasks": true,
+  "revistapiaui-2022": {
+    "url": "https://piaui.folha.uol.com.br/",
+    "job_id": "spn2-f56e516b90f9cc6c0b14003143e0f0a74aa3017c",
+    "message": "The same snapshot had been made 27 minutes, 38 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454357200,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1145878060,
+  "uniq": 1457275616,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

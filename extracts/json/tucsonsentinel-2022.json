@@ -1,5 +1,5 @@
 {
-  "created": 1666887351,
+  "created": 1666919799,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/tucsonsentinel-2022",
@@ -12835,21 +12835,32 @@
       "format": "JSON"
     },
     {
+      "name": "tucsonsentinel-2022-10-27T08:13:55.066998-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonsentinel-2022-10-27T08:13:55.066998-07:00.jpg",
+      "mtime": "1666895531",
+      "size": "9656",
+      "md5": "0a2125cac8101627d8e50ec523336068",
+      "crc32": "c9f3f99f",
+      "sha1": "5c1bce214343aedc07bcd4501357d72b3665a026"
+    },
+    {
       "name": "tucsonsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78662390d4043523f4e8affa422e3d332dac9524",
-      "mtime": "1666883709",
-      "size": "270125",
-      "md5": "a95e474f232440c8d307d5a3e59d0cb5",
-      "crc32": "7ba36899",
-      "sha1": "f5fd9ca57b57012486c4eb03c580af485dbfeaf7",
+      "btih": "d79462d6ca292ca9dad53c6a6e44165e4a9602d6",
+      "mtime": "1666895761",
+      "size": "270335",
+      "md5": "d333c46e2d87a62135afa991108be743",
+      "crc32": "9fa350ba",
+      "sha1": "0c47ceed9a7a5ec561e8ebd2c2526f97d1250d1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca8d511674c0719e58921f3a59e42bad",
+      "md5": "6e1a469bbe184fa6ebe958dd11426e0f",
       "summation": "md5"
     },
     {
@@ -12873,9 +12884,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1243,
-  "item_last_updated": 1666883709,
-  "item_size": 100235590,
+  "files_count": 1244,
+  "item_last_updated": 1666895761,
+  "item_size": 100245456,
   "metadata": {
     "identifier": "tucsonsentinel-2022",
     "collection": [
@@ -12892,26 +12903,15 @@
     "publicdate": "2022-07-09 04:04:28",
     "addeddate": "2022-07-09 04:04:28"
   },
-  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454198890,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
   "tucsonsentinel-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 2048627005,
+  "uniq": 1849975535,
   "workable_servers": [
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

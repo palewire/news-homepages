@@ -1,5 +1,5 @@
 {
-  "created": 1666876486,
+  "created": 1666891171,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/28/items/hollandsentinel-2022",
@@ -4645,21 +4645,32 @@
       "format": "JSON"
     },
     {
+      "name": "hollandsentinel-2022-10-27T09:13:43.848719-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-27T09:13:43.848719-04:00.jpg",
+      "mtime": "1666891146",
+      "size": "9667",
+      "md5": "dfc468794ca90d20c248f04019c34d8c",
+      "crc32": "37d9b2c1",
+      "sha1": "fc4c8695e4264a3f6a9fe97bf93cca257ae69f37"
+    },
+    {
       "name": "hollandsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7a612cf78f703f053ddf50865ba4bbf979d22cf6",
-      "mtime": "1666876482",
-      "size": "99117",
-      "md5": "7d2e5d3df034534ffa3b7f7720f3971d",
-      "crc32": "a17e26ca",
-      "sha1": "9247cdf40ad4b831de695155cbf7dc26415762db",
+      "btih": "03babd674d6b1cbf9c831ff26a964b50e5081c4c",
+      "mtime": "1666891157",
+      "size": "99328",
+      "md5": "a40869c18948760cb1edfe836c3f77a4",
+      "crc32": "d0398f06",
+      "sha1": "5d1a3691a0c001e444c7cef4cf97980113ec93f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hollandsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a13c4909453a101a49efb6ca75a385fb",
+      "md5": "66dff8fa04cf9a21ab0f5d8667057a7b",
       "summation": "md5"
     },
     {
@@ -4683,9 +4694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666876482,
-  "item_size": 31385754,
+  "files_count": 454,
+  "item_last_updated": 1666891157,
+  "item_size": 31395632,
   "metadata": {
     "identifier": "hollandsentinel-2022",
     "collection": [
@@ -4702,21 +4713,10 @@
     "publicdate": "2022-09-20 22:19:45",
     "addeddate": "2022-09-20 22:19:45"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454133759,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 351648460,
+  "uniq": 1163820231,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

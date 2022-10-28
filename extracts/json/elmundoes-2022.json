@@ -1,8 +1,13 @@
 {
-  "created": 1666893384,
+  "created": 1666916350,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/4/items/elmundoes-2022",
+  "elmundoes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -10951,21 +10956,32 @@
       "format": "JSON"
     },
     {
+      "name": "elmundoes-2022-10-27T19:55:07.105984+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elmundoes-2022-10-27T19:55:07.105984+02:00.jpg",
+      "mtime": "1666902966",
+      "size": "9218",
+      "md5": "d0352ecaa096f18bcc188282ba2dbfa0",
+      "crc32": "9ccdcc67",
+      "sha1": "9e8d51d4d425575cd6d7f3f0fb535f7a4e5f61d4"
+    },
+    {
       "name": "elmundoes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0746896291b50f9349cb6d9a3a411538b6834e4",
-      "mtime": "1666893378",
-      "size": "225271",
-      "md5": "c712a4932a11d26afe176052ded6d2ea",
-      "crc32": "0e7f64f0",
-      "sha1": "54be513f1c1211f25f894f68dff17ad7d12033dc",
+      "btih": "0389b259d92be73b50bba65db02be12a98f6b47f",
+      "mtime": "1666903010",
+      "size": "225476",
+      "md5": "9c0aafb1138bed89294fa74364b7fb72",
+      "crc32": "dea08563",
+      "sha1": "c9681338d17ede1a4957641c919bb8b5ea80edc7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elmundoes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "573a55dc6cdd76b063ae8c816444905d",
+      "md5": "1330caa83a1925c6d8c10ff091de9956",
       "summation": "md5"
     },
     {
@@ -10989,9 +11005,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1063,
-  "item_last_updated": 1666893378,
-  "item_size": 74570995,
+  "files_count": 1064,
+  "item_last_updated": 1666903010,
+  "item_size": 74580418,
   "metadata": {
     "identifier": "elmundoes-2022",
     "collection": [
@@ -11008,21 +11024,10 @@
     "publicdate": "2022-07-28 18:53:52",
     "addeddate": "2022-07-28 18:53:52"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300713,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1618446663,
+  "uniq": 1697268065,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

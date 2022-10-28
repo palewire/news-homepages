@@ -1,5 +1,5 @@
 {
-  "created": 1666899758,
+  "created": 1666916582,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/21/items/gosanangelo-2022",
@@ -4645,21 +4645,32 @@
       "format": "JSON"
     },
     {
+      "name": "gosanangelo-2022-10-27T12:58:00.410117-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gosanangelo-2022-10-27T12:58:00.410117-05:00.jpg",
+      "mtime": "1666902746",
+      "size": "8990",
+      "md5": "0755a61e7b8ec11104009fef5edaf119",
+      "crc32": "1d667759",
+      "sha1": "ba238886afca2dde51ce6d1053d2a603e504a564"
+    },
+    {
       "name": "gosanangelo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d7a77022be043796f9aca38d0540aa03675d95a",
-      "mtime": "1666893549",
-      "size": "97166",
-      "md5": "6f3a99a551388758eb1d97e32af26dec",
-      "crc32": "6248c6ba",
-      "sha1": "93205fd802471cb8850077fecb17959a4cf4591e",
+      "btih": "4bd1b45061c0a68358f10f23a870fdd8b5a01d5a",
+      "mtime": "1666902783",
+      "size": "97373",
+      "md5": "440d93a8f2f3fc9bbb1797e75006d3f2",
+      "crc32": "83074213",
+      "sha1": "96d1e8c1a5becb89b67b789a9fa269299861e5f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gosanangelo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "804dfb4fe6636b556bd2f1856db26b51",
+      "md5": "e6b59c1ba57b4a62a31c60de5d1aab48",
       "summation": "md5"
     },
     {
@@ -4683,7 +4694,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
+  "files_count": 454,
   "gosanangelo-2022": {
     "url": "https://www.gosanangelo.com/",
     "job_id": "spn2-e44e49101df396dd7392de42c2fc47af10862ade",
@@ -5103,8 +5114,8 @@
     "duration_sec": 13.525,
     "screenshot": "http://web.archive.org/screenshot/https://www.gosanangelo.com/"
   },
-  "item_last_updated": 1666893549,
-  "item_size": 28660511,
+  "item_last_updated": 1666902783,
+  "item_size": 28669708,
   "metadata": {
     "identifier": "gosanangelo-2022",
     "collection": [
@@ -5121,21 +5132,10 @@
     "publicdate": "2022-09-20 17:51:45",
     "addeddate": "2022-09-20 17:51:45"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302333,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1702920531,
+  "uniq": 1711284454,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

@@ -1,5 +1,10 @@
 {
-  "created": 1666886905,
+  "beaconjournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1666915663,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/beaconjournal-2022",
@@ -9203,21 +9208,32 @@
       "format": "JSON"
     },
     {
+      "name": "beaconjournal-2022-10-27T12:06:54.231661-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "beaconjournal-2022-10-27T12:06:54.231661-04:00.jpg",
+      "mtime": "1666897433",
+      "size": "9251",
+      "md5": "2c40460b03f9dff4bc15859d9a13db3d",
+      "crc32": "b9fdc750",
+      "sha1": "4f611730a6ead0649f976ea68685e09d797aef19"
+    },
+    {
       "name": "beaconjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4e6153e57c4ad40012927cafd3460e18062462ed",
-      "mtime": "1666886891",
-      "size": "193033",
-      "md5": "ec5428870cca890c59b6b94e6464a6e6",
-      "crc32": "e738f056",
-      "sha1": "438ba4518ed32d64181cfff1988f744b7270440a",
+      "btih": "b3a264dc3619d450bf8a0e22b3f4cf78712140ce",
+      "mtime": "1666897443",
+      "size": "193242",
+      "md5": "3bf74b4d6c45cfb608b2a6e699d59f8e",
+      "crc32": "ecfaf12b",
+      "sha1": "c18229c223118e71e1a74eb8e11b25adaea36092",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beaconjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4225181a5c1b10d841a7bf5b175b10e",
+      "md5": "976824904e2c4494532176708f66cd4b",
       "summation": "md5"
     },
     {
@@ -9241,9 +9257,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 894,
-  "item_last_updated": 1666886891,
-  "item_size": 58857929,
+  "files_count": 895,
+  "item_last_updated": 1666897443,
+  "item_size": 58867389,
   "metadata": {
     "identifier": "beaconjournal-2022",
     "collection": [
@@ -9260,21 +9276,10 @@
     "publicdate": "2022-08-14 05:00:38",
     "addeddate": "2022-08-14 05:00:38"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454235151,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1639127195,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1845298608,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

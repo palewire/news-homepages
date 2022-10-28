@@ -1,5 +1,5 @@
 {
-  "created": 1666883671,
+  "created": 1666919514,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/3/items/theinterceptbr-2022",
@@ -15177,21 +15177,32 @@
       "format": "JSON"
     },
     {
+      "name": "theinterceptbr-2022-10-27T12:11:06.914797-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinterceptbr-2022-10-27T12:11:06.914797-03:00.jpg",
+      "mtime": "1666895661",
+      "size": "9389",
+      "md5": "c4b61501670c7ad8c21b2d41639eb7c0",
+      "crc32": "aa5752a2",
+      "sha1": "6f9855e00c0304cda5186dc532b62dc3fbd3b832"
+    },
+    {
       "name": "theinterceptbr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd0d6c19586a05737caf5c77b652dbd53b351196",
-      "mtime": "1666883650",
-      "size": "316973",
-      "md5": "5737c7f5e62b390cbf93cc97f0cf441e",
-      "crc32": "d870c5d4",
-      "sha1": "14b54905605c72cb860c9679530ec921a66aba04",
+      "btih": "6b4457ab8cb27c23ac3f41a982c9e5974dc5484c",
+      "mtime": "1666895685",
+      "size": "317183",
+      "md5": "5384e901e2f1163dd8fc9fe6a24bca6f",
+      "crc32": "d6d6eff3",
+      "sha1": "e0e64efde261e66f897a9ed0a0717880763e6485",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinterceptbr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1a248412d94e77e637e64dc5c7278b9",
+      "md5": "8c10dadaabb35df7f81f3b3d2296b2d0",
       "summation": "md5"
     },
     {
@@ -15215,9 +15226,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1472,
-  "item_last_updated": 1666883650,
-  "item_size": 60070568,
+  "files_count": 1473,
+  "item_last_updated": 1666895685,
+  "item_size": 60080167,
   "metadata": {
     "identifier": "theinterceptbr-2022",
     "collection": [
@@ -15234,21 +15245,15 @@
     "publicdate": "2022-08-03 01:57:11",
     "addeddate": "2022-08-03 01:57:11"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454198393,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 716049556,
+  "theinterceptbr-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1816913084,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

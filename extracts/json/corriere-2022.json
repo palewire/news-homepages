@@ -1,5 +1,5 @@
 {
-  "created": 1666913829,
+  "created": 1666915082,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/20/items/corriere-2022",
@@ -9853,21 +9853,32 @@
       "format": "JSON"
     },
     {
+      "name": "corriere-2022-10-28T01:35:59.906072+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "corriere-2022-10-28T01:35:59.906072+02:00.jpg",
+      "mtime": "1666915000",
+      "size": "7096",
+      "md5": "b42b3b4ae59b1d02871cd5f607762e4f",
+      "crc32": "35c63e90",
+      "sha1": "98449eb01adfcb0da62d166e51e899cd4496abc7"
+    },
+    {
       "name": "corriere-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f03512f5b0220131f593d9c31ea2db49ca7234c",
-      "mtime": "1666913823",
-      "size": "203051",
-      "md5": "e188b5a9e52a0bf94238faf842315314",
-      "crc32": "eac64992",
-      "sha1": "b9ef2d3bf8a51fb842d39cfcd3e4b4070d397496",
+      "btih": "4b2d986d03f7b76a11c1969b0e337672fe910df6",
+      "mtime": "1666915011",
+      "size": "203255",
+      "md5": "306a71ce2293edaeecd758fb12127ef3",
+      "crc32": "ee6967bb",
+      "sha1": "92c4edbbdf4eebfbf4f23e4e75e48ab1b0933b6e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "corriere-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b87e5f8ca0cf1e30a5644277c41f2a7",
+      "md5": "8014a4feb2144b069c019887e314690f",
       "summation": "md5"
     },
     {
@@ -9891,9 +9902,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 957,
-  "item_last_updated": 1666913823,
-  "item_size": 88751273,
+  "files_count": 958,
+  "item_last_updated": 1666915011,
+  "item_size": 88758573,
   "metadata": {
     "identifier": "corriere-2022",
     "collection": [
@@ -9910,21 +9921,10 @@
     "publicdate": "2022-08-11 00:42:02",
     "addeddate": "2022-08-11 00:42:02"
   },
-  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454569565,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 699910115,
+  "uniq": 490093369,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

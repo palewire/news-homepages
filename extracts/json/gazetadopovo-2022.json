@@ -1,5 +1,5 @@
 {
-  "created": 1666893568,
+  "created": 1666903430,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/gazetadopovo-2022",
@@ -14889,21 +14889,32 @@
       "format": "JSON"
     },
     {
+      "name": "gazetadopovo-2022-10-27T14:57:51.976077-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetadopovo-2022-10-27T14:57:51.976077-03:00.jpg",
+      "mtime": "1666903345",
+      "size": "10184",
+      "md5": "e58ccb895f62b6ff1b997ffee5e274a3",
+      "crc32": "4bd9044d",
+      "sha1": "f12286e27629129f0ad913e7ff8bf94cde64820e"
+    },
+    {
       "name": "gazetadopovo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbbca8b78a1aa6f4f2ddaae35616258316bd4b4b",
-      "mtime": "1666893557",
-      "size": "311186",
-      "md5": "849dfa58fa4a18186e10be0f4e922588",
-      "crc32": "9d55d090",
-      "sha1": "4c05ae70053a003d7b0ac5c1cb8f263e6c6d0218",
+      "btih": "06948d8a665714ffab4de686bc6535c704af9d57",
+      "mtime": "1666903365",
+      "size": "311395",
+      "md5": "d6685438efb8763b0fda335bbf2a5591",
+      "crc32": "a3d30000",
+      "sha1": "fda13f7eb5ce50e9d8c1fee5d02e5db300ac3d50",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetadopovo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6bc8b128900aa06d6721503d1aad1a35",
+      "md5": "309d2c6c8c1b0c64a022e90e581992ff",
       "summation": "md5"
     },
     {
@@ -14927,9 +14938,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1444,
-  "item_last_updated": 1666893557,
-  "item_size": 123454966,
+  "files_count": 1445,
+  "item_last_updated": 1666903365,
+  "item_size": 123465359,
   "metadata": {
     "identifier": "gazetadopovo-2022",
     "collection": [
@@ -14946,21 +14957,10 @@
     "publicdate": "2022-08-04 04:55:45",
     "addeddate": "2022-08-04 04:55:45"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302467,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 462869924,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1556244288,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

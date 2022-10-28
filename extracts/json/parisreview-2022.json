@@ -1,5 +1,5 @@
 {
-  "created": 1666898710,
+  "created": 1666908145,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/15/items/parisreview-2022",
@@ -17501,21 +17501,32 @@
       "format": "JSON"
     },
     {
+      "name": "parisreview-2022-10-27T21:23:01.969806+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "parisreview-2022-10-27T21:23:01.969806+02:00.jpg",
+      "mtime": "1666907285",
+      "size": "10350",
+      "md5": "c4552be1c018b31f31f6287e542efbdf",
+      "crc32": "035495fb",
+      "sha1": "db995ccf49acd744f75eb7746eec3f9689ac7eed"
+    },
+    {
       "name": "parisreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b9010389c6c49707e014050493092730e35ebcd",
-      "mtime": "1666898705",
-      "size": "360924",
-      "md5": "98a28e833ea805a8ec4394101b618d99",
-      "crc32": "3ae81721",
-      "sha1": "9553e36fd2f7352696ed9e66297c46f9ed777bf3",
+      "btih": "6f649ab1f3e5b6bf112d132f6d066a0f07344ab9",
+      "mtime": "1666907321",
+      "size": "361132",
+      "md5": "7cd2e0a58e5e2a6288693fd0d2966c05",
+      "crc32": "9d97c742",
+      "sha1": "b9484440c0ee741abc9d7fa64a9828210db59ac7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "parisreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2d215ffeef63da22f3a2b9605cb28f6",
+      "md5": "a2e2af59b642277510cdfe54f5d080c1",
       "summation": "md5"
     },
     {
@@ -17539,9 +17550,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1694,
-  "item_last_updated": 1666898705,
-  "item_size": 94590141,
+  "files_count": 1695,
+  "item_last_updated": 1666907321,
+  "item_size": 94600699,
   "metadata": {
     "identifier": "parisreview-2022",
     "collection": [
@@ -17558,21 +17569,10 @@
     "publicdate": "2022-07-04 21:51:06",
     "addeddate": "2022-07-04 21:51:06"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355882,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1238646029,
+  "server": "ia801403.us.archive.org",
+  "uniq": 2011031546,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666914099,
+  "created": 1666915391,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/foxsports-2022",
@@ -13349,21 +13349,32 @@
       "format": "JSON"
     },
     {
+      "name": "foxsports-2022-10-27T19:40:05.660509-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxsports-2022-10-27T19:40:05.660509-04:00.jpg",
+      "mtime": "1666915339",
+      "size": "10218",
+      "md5": "2d452b645f2a368e3f8bc34d53dff810",
+      "crc32": "56edfd60",
+      "sha1": "ea44055adde6f82b22eab640eeb89ec403952f84"
+    },
+    {
       "name": "foxsports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8336f6d8f44ca0de79c2e51e206801fbadfee96",
-      "mtime": "1666914092",
-      "size": "273764",
-      "md5": "c5dda2fe15c753e8eaf96089f5fbdc93",
-      "crc32": "0c3c11c9",
-      "sha1": "b772305b9cd3bc253b135ab73c79ba68866355e4",
+      "btih": "3886d6cde7679e87ffdaa26b3646913b7d80231f",
+      "mtime": "1666915354",
+      "size": "273970",
+      "md5": "d9ec0287c02721d6da47dbe10f59b3f1",
+      "crc32": "8aeeaf64",
+      "sha1": "ccfe18e5f51e3ebeb1b2ffad3f9aae9b12a71e43",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxsports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "51a05797bb6532329afa6e293d44f9a5",
+      "md5": "10eaa6156aa2b1ab65be9a694c9e0e06",
       "summation": "md5"
     },
     {
@@ -13387,9 +13398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1292,
-  "item_last_updated": 1666914092,
-  "item_size": 89645406,
+  "files_count": 1293,
+  "item_last_updated": 1666915354,
+  "item_size": 89655830,
   "metadata": {
     "identifier": "foxsports-2022",
     "collection": [
@@ -13406,21 +13417,10 @@
     "publicdate": "2022-07-04 21:53:09",
     "addeddate": "2022-07-04 21:53:09"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454575453,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 753334068,
+  "server": "ia801509.us.archive.org",
+  "uniq": 541982774,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

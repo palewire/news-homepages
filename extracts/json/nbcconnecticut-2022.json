@@ -1,5 +1,5 @@
 {
-  "created": 1666880246,
+  "created": 1666915297,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/nbcconnecticut-2022",
@@ -5461,21 +5461,32 @@
       "format": "JSON"
     },
     {
+      "name": "nbcconnecticut-2022-10-27T10:12:03.791765-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-27T10:12:03.791765-04:00.jpg",
+      "mtime": "1666893535",
+      "size": "9887",
+      "md5": "f9f91e047a2bb26f952f32b0fdc1d079",
+      "crc32": "be8c82b7",
+      "sha1": "8a50a73c751ac9c4791d0e44b5820f1d5c0372bc"
+    },
+    {
       "name": "nbcconnecticut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f1706338cf0c31827db2c87d5edc8ce734d6d3f",
-      "mtime": "1666880225",
-      "size": "116144",
-      "md5": "8db871fa221ad8f6fe36dffa2e579505",
-      "crc32": "e7f47868",
-      "sha1": "9b31369ee2feb22e17c3d539f9e14d10930a30ae",
+      "btih": "4185fd94351c9c003ff1851ce5f09eb959c7ac43",
+      "mtime": "1666893574",
+      "size": "116354",
+      "md5": "ee498aa80e052cfb5ec105864d64572c",
+      "crc32": "b4d9edd5",
+      "sha1": "09da92d170f2b313ceb537f6747bdf4f7b5db023",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcconnecticut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f1004e1ad0d388cc5bd8325e76ba687",
+      "md5": "9a49be8e3f80c9fc0f1f8e46ccf3c1d4",
       "summation": "md5"
     },
     {
@@ -5499,9 +5510,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 532,
-  "item_last_updated": 1666880225,
-  "item_size": 44975237,
+  "files_count": 533,
+  "item_last_updated": 1666893574,
+  "item_size": 44985334,
   "metadata": {
     "identifier": "nbcconnecticut-2022",
     "collection": [
@@ -5518,21 +5529,10 @@
     "publicdate": "2022-09-14 01:20:27",
     "addeddate": "2022-09-14 01:20:27"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167862,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1114772996,
+  "server": "ia801403.us.archive.org",
+  "uniq": 45382143,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

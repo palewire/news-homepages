@@ -1,5 +1,5 @@
 {
-  "created": 1666876535,
+  "created": 1666916646,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/34/items/houstonchron-2022",
@@ -13171,21 +13171,32 @@
       "format": "JSON"
     },
     {
+      "name": "houstonchron-2022-10-27T08:13:47.763563-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houstonchron-2022-10-27T08:13:47.763563-05:00.jpg",
+      "mtime": "1666891506",
+      "size": "10664",
+      "md5": "14c92c0aa1c6acb87975cbd493f2a19a",
+      "crc32": "a4dd5b16",
+      "sha1": "bf2d6e53dc3b02e6c0c294a6a5a0cc64fe30c531"
+    },
+    {
       "name": "houstonchron-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ec5c16ef87f7c4a8cd14bcfc8654b01c4a6effc",
-      "mtime": "1666876525",
-      "size": "275347",
-      "md5": "5b4528518e1ac38b7277920261a7ef57",
-      "crc32": "c5b6ec04",
-      "sha1": "62e0fcd5ee6750f4df3ea6a1c8e8ad0b24446fe3",
+      "btih": "e51bc78037cafdac57a1c17d30ed6ff7a6e726fa",
+      "mtime": "1666891545",
+      "size": "275556",
+      "md5": "6c4b6881db23aef6ae8112e064e26fc4",
+      "crc32": "0afc2845",
+      "sha1": "b1214bc17ff2ac4770e099314d665dc421665f17",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houstonchron-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d5e3868317fe5351e6841129cd8755e1",
+      "md5": "ef81b38c9493690cc2c7eedde00c669d",
       "summation": "md5"
     },
     {
@@ -13209,9 +13220,25 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1275,
-  "item_last_updated": 1666876525,
-  "item_size": 120309318,
+  "files_count": 1276,
+  "houstonchron-2022": {
+    "url": "https://www.houstonchronicle.com/",
+    "job_id": "spn2-0cadd0071d518c2acb1143a473d62c9b8943742c",
+    "http_status": 500,
+    "counters": {
+      "outlinks": 0,
+      "embeds": 1
+    },
+    "original_url": "https://www.houstonchronicle.com/favicon.ico",
+    "timestamp": "20221027130211",
+    "duration_sec": 4.95,
+    "status": "success",
+    "resources": [
+      "https://www.houstonchronicle.com/favicon.ico"
+    ]
+  },
+  "item_last_updated": 1666891545,
+  "item_size": 120320191,
   "metadata": {
     "identifier": "houstonchron-2022",
     "collection": [
@@ -13228,21 +13255,10 @@
     "publicdate": "2022-07-04 21:54:16",
     "addeddate": "2022-07-04 21:54:16"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454134347,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2142783383,
+  "server": "ia801405.us.archive.org",
+  "uniq": 679637420,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

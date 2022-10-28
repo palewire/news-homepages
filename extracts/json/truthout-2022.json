@@ -1,5 +1,5 @@
 {
-  "created": 1666900939,
+  "created": 1666919793,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/truthout-2022",
@@ -17721,21 +17721,32 @@
       "format": "JSON"
     },
     {
+      "name": "truthout-2022-10-27T13:00:22.464460-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "truthout-2022-10-27T13:00:22.464460-07:00.jpg",
+      "mtime": "1666908172",
+      "size": "10342",
+      "md5": "90f4117e48f402e7460603bceb7f5e28",
+      "crc32": "5f132f62",
+      "sha1": "d70cbde58f550d17d84413d6fc359f5d52d352b1"
+    },
+    {
       "name": "truthout-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f56807e922be1dc930a76a00ae5b59f5c539f9a",
-      "mtime": "1666900929",
-      "size": "360945",
-      "md5": "6023f20fd6d6be61c3a502d3b79deef8",
-      "crc32": "270653b8",
-      "sha1": "98975fadf80e488808fe1359309d46cb320b6de5",
+      "btih": "dd2f3bbae1e2f5d3c31914b106de3a857936d5c3",
+      "mtime": "1666908199",
+      "size": "361150",
+      "md5": "be9c776174580259da14bc69e92df2cc",
+      "crc32": "4d02d072",
+      "sha1": "e3d5f7c37ba09c545929f2c69ff3a236bb682fbe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "truthout-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29f641e051d719d662c354fc6b307771",
+      "md5": "0d1c4c93576a70caba82f8b1bbfa93aa",
       "summation": "md5"
     },
     {
@@ -17759,9 +17770,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1716,
-  "item_last_updated": 1666900929,
-  "item_size": 101284302,
+  "files_count": 1717,
+  "item_last_updated": 1666908199,
+  "item_size": 101294849,
   "metadata": {
     "identifier": "truthout-2022",
     "collection": [
@@ -17778,21 +17789,15 @@
     "publicdate": "2022-07-17 15:59:53",
     "addeddate": "2022-07-17 15:59:53"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454377250,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1372908160,
+  "truthout-2022": {
+    "url": "https://truthout.org/",
+    "job_id": "spn2-acc425a4f40505f655ad2d3c0df16189158025de",
+    "message": "The same snapshot had been made 32 minutes, 2 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "uniq": 1255559477,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

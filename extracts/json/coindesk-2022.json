@@ -1,5 +1,6 @@
 {
-  "created": 1666913824,
+  "conflict": 1666915833,
+  "created": 1666915833,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/0/items/coindesk-2022",
@@ -11691,21 +11692,32 @@
       "format": "JSON"
     },
     {
+      "name": "coindesk-2022-10-27T19:35:29.565433-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coindesk-2022-10-27T19:35:29.565433-04:00.jpg",
+      "mtime": "1666915809",
+      "size": "9718",
+      "md5": "8c13b497be08fcb11167fe8cb4a15668",
+      "crc32": "b1574cbe",
+      "sha1": "d7d63dcd9105465143db5d0d017af5d486ae79c3"
+    },
+    {
       "name": "coindesk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81504cffdb622b1cc9f6479443264f3e451204a9",
-      "mtime": "1666913813",
-      "size": "240142",
-      "md5": "29f63ebaf69ab22504d94516f69d2aea",
-      "crc32": "bcf2713b",
-      "sha1": "56478502a54c682bef66b69609a98190c3a20f93",
+      "btih": "3b457356ca4c091d3ac2715af4581f2b0d8fdc69",
+      "mtime": "1666915830",
+      "size": "240346",
+      "md5": "b4557647e1856bd724e2ae34158d5885",
+      "crc32": "0f76e377",
+      "sha1": "0ce0596cc7b257139afc3abf5c6b4c8a11a7d495",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coindesk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cea4781a274cfc12f34e84fdec284809",
+      "md5": "db26a42a1985ed9c6d8b8d65a12a71a3",
       "summation": "md5"
     },
     {
@@ -11729,9 +11741,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1134,
-  "item_last_updated": 1666913813,
-  "item_size": 102723789,
+  "files_count": 1135,
+  "item_last_updated": 1666915830,
+  "item_size": 102733711,
   "metadata": {
     "identifier": "coindesk-2022",
     "collection": [
@@ -11756,12 +11768,20 @@
       "task_id": 3454569460,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3454614624,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 266898271,
+  "uniq": 1303739408,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

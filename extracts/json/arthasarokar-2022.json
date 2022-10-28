@@ -1,5 +1,9 @@
 {
-  "created": 1666886910,
+  "arthasarokar-2022": {
+    "url": "https://arthasarokar.com/",
+    "job_id": "spn2-6fbfa67dd70ab252a04e124b6ba6150ee1483a0c"
+  },
+  "created": 1666915508,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/arthasarokar-2022",
@@ -11605,21 +11609,32 @@
       "format": "JSON"
     },
     {
+      "name": "arthasarokar-2022-10-27T21:52:05.799610+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arthasarokar-2022-10-27T21:52:05.799610+05:45.jpg",
+      "mtime": "1666897438",
+      "size": "10914",
+      "md5": "73bfeb198e8b9262f03545a67e583725",
+      "crc32": "18bc493e",
+      "sha1": "afb1042525580ca57e06c54808088688810d585b"
+    },
+    {
       "name": "arthasarokar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37342646300b6c2b6fac8cf012c45d328a250d6c",
-      "mtime": "1666886900",
-      "size": "242131",
-      "md5": "b1a65981c9e36295371bebe76a5f7248",
-      "crc32": "f963db91",
-      "sha1": "10a381a86dbbd1606781d30fa533b5acbe6ef25c",
+      "btih": "81cb03f63bccc1a673d784e46f9b8783a4e6175c",
+      "mtime": "1666897453",
+      "size": "242340",
+      "md5": "3c4bf21b7c9e1c72198c50ffb4984be4",
+      "crc32": "211905b6",
+      "sha1": "e7068b1cd2e30d8bc6f267ed82d09a7738874129",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arthasarokar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "16abd17c1a9ea932d105acf1de098135",
+      "md5": "899f5e94b40bc3ea4c60879b3e138062",
       "summation": "md5"
     },
     {
@@ -11643,9 +11658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1126,
-  "item_last_updated": 1666886900,
-  "item_size": 82668027,
+  "files_count": 1127,
+  "item_last_updated": 1666897453,
+  "item_size": 82679150,
   "metadata": {
     "identifier": "arthasarokar-2022",
     "collection": [
@@ -11662,21 +11677,10 @@
     "publicdate": "2022-07-24 20:36:44",
     "addeddate": "2022-07-24 20:36:44"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454235189,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1647730831,
+  "uniq": 1399177037,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

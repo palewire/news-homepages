@@ -1,5 +1,5 @@
 {
-  "created": 1666880179,
+  "created": 1666918480,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/poconorecord-2022",
@@ -4593,21 +4593,32 @@
       "format": "JSON"
     },
     {
+      "name": "poconorecord-2022-10-27T10:15:16.398056-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "poconorecord-2022-10-27T10:15:16.398056-04:00.jpg",
+      "mtime": "1666893595",
+      "size": "9147",
+      "md5": "0e50d7645c180484b5a5222165983662",
+      "crc32": "8e6732a1",
+      "sha1": "a1e56e0acc195a91440239aabfabb0991294a2cc"
+    },
+    {
       "name": "poconorecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a935e69d0e92d73b1a2cea7e20c843bb92a05161",
-      "mtime": "1666880173",
-      "size": "96578",
-      "md5": "2aedcc1dfc37910fade826dca41f3d53",
-      "crc32": "5e8445aa",
-      "sha1": "ef302b59a2f10c2154a4387f726c04450844cdb6",
+      "btih": "86f34052bc958aa0b8fa7a9b3671c6392e6c236a",
+      "mtime": "1666893618",
+      "size": "96786",
+      "md5": "113647de0fdefda001d72c0050a2ee23",
+      "crc32": "6da7a5b2",
+      "sha1": "1d4c705471a2182e7ace3856f19567000f426d3c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poconorecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d195df30a079f604e3ddbc2e63bfff9d",
+      "md5": "d6f11a10378ef633f45ebce527793435",
       "summation": "md5"
     },
     {
@@ -4631,9 +4642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666880173,
-  "item_size": 29507535,
+  "files_count": 449,
+  "item_last_updated": 1666893618,
+  "item_size": 29516890,
   "metadata": {
     "identifier": "poconorecord-2022",
     "collection": [
@@ -4650,21 +4661,15 @@
     "publicdate": "2022-09-21 02:22:52",
     "addeddate": "2022-09-21 02:22:52"
   },
-  "pending_tasks": true,
+  "poconorecord-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167249,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 98741560,
+  "uniq": 2129132240,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666887121,
+  "created": 1666919531,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/themarionstar-2022",
@@ -4593,21 +4593,32 @@
       "format": "JSON"
     },
     {
+      "name": "themarionstar-2022-10-27T11:11:22.354806-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarionstar-2022-10-27T11:11:22.354806-04:00.jpg",
+      "mtime": "1666895809",
+      "size": "8860",
+      "md5": "8ba0fb0a2199edf33738acc0efbf9ec6",
+      "crc32": "8040ce85",
+      "sha1": "2867776241b326718af33f63a77906604e736c96"
+    },
+    {
       "name": "themarionstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ad0ceea8d576960ce87aae400f9fc4b0dd10963",
-      "mtime": "1666883554",
-      "size": "96993",
-      "md5": "6d022ef1371c61b708c2d4adfeab5829",
-      "crc32": "aac6a565",
-      "sha1": "e44376660de2fbd46addff5dd03b0dca46665be0",
+      "btih": "b4f3055d0f4fb2c8f823f39c65edb3db42e5ea3b",
+      "mtime": "1666895814",
+      "size": "97202",
+      "md5": "ef41bc4145670d65c5a31994070e4845",
+      "crc32": "1a336669",
+      "sha1": "91637a88b2862259eb81569008b725a5bfbc7ddf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "themarionstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "02123eae8644bd0b660b0f355c891990",
+      "md5": "52c45ab8941c3a40676c9acfc6a0dd87",
       "summation": "md5"
     },
     {
@@ -4631,9 +4642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666883554,
-  "item_size": 28773213,
+  "files_count": 449,
+  "item_last_updated": 1666895814,
+  "item_size": 28782282,
   "metadata": {
     "identifier": "themarionstar-2022",
     "collection": [
@@ -4650,26 +4661,15 @@
     "publicdate": "2022-09-21 03:44:48",
     "addeddate": "2022-09-21 03:44:48"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454197309,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
   "themarionstar-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 1294948192,
+  "uniq": 965447000,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

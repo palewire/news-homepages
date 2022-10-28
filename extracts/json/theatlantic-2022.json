@@ -1,5 +1,5 @@
 {
-  "created": 1666883577,
+  "created": 1666919418,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/17/items/theatlantic-2022",
@@ -14661,21 +14661,32 @@
       "format": "JSON"
     },
     {
+      "name": "theatlantic-2022-10-27T11:10:35.861459-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theatlantic-2022-10-27T11:10:35.861459-04:00.jpg",
+      "mtime": "1666895631",
+      "size": "10061",
+      "md5": "f990f6a99838f1ccf841aca7d77c5036",
+      "crc32": "6a21bfbe",
+      "sha1": "1bf20262abdb96a23b36c23385f8a542e54a1a84"
+    },
+    {
       "name": "theatlantic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "55fd1f23fa42f6c22b8111c14eaf122ccbd9d3ec",
-      "mtime": "1666883563",
-      "size": "303038",
-      "md5": "b06b0cde79efff2b4d71ede6ad1aa70f",
-      "crc32": "a6bbf6c1",
-      "sha1": "02f0f2099e1dde4caafa1be224a0074ae939c2eb",
+      "btih": "6b1062a72102b9ec5c9bc6ee1eee8261860d6221",
+      "mtime": "1666895760",
+      "size": "303246",
+      "md5": "ecf87e3fb4396057899bacf7864b51e6",
+      "crc32": "150f2c4c",
+      "sha1": "4fb0fdfa1879067563bbbdab67e71cde29b0e3be",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theatlantic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7a8a9d9a03710dfedd9491508ebff049",
+      "md5": "81c9a56b805d2ee491988f9af9615c50",
       "summation": "md5"
     },
     {
@@ -14699,9 +14710,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1417,
-  "item_last_updated": 1666883563,
-  "item_size": 100987566,
+  "files_count": 1418,
+  "item_last_updated": 1666895760,
+  "item_size": 100997835,
   "metadata": {
     "identifier": "theatlantic-2022",
     "collection": [
@@ -14718,21 +14729,15 @@
     "publicdate": "2022-06-24 23:01:58",
     "addeddate": "2022-06-24 23:01:58"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454197546,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 376160976,
+  "server": "ia801407.us.archive.org",
+  "theatlantic-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1367870731,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

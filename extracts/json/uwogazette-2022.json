@@ -1,5 +1,5 @@
 {
-  "created": 1666900547,
+  "created": 1666919917,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/uwogazette-2022",
@@ -10941,21 +10941,32 @@
       "format": "JSON"
     },
     {
+      "name": "uwogazette-2022-10-27T15:54:10.424835-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uwogazette-2022-10-27T15:54:10.424835-04:00.jpg",
+      "mtime": "1666907785",
+      "size": "9989",
+      "md5": "aabc7ab68fa7200f407d6f8d97da037e",
+      "crc32": "f2961a8a",
+      "sha1": "5d4d399c462997ad5ef5a0ce4203c0e4abff8bb6"
+    },
+    {
       "name": "uwogazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5435289ef635acbf8ca9c3b54e3351e0b310d54",
-      "mtime": "1666900538",
-      "size": "225437",
-      "md5": "7d17efa8268536c8f85ea7fb5bb40980",
-      "crc32": "3267ee09",
-      "sha1": "98ea6a8f83819f4f64a8c1ae83ec4326b0ea2a65",
+      "btih": "ed1ff5de66376c414f13bc20c81c07c79dd476bd",
+      "mtime": "1666907801",
+      "size": "225643",
+      "md5": "5015ae11c006708492eb658ee446f1bb",
+      "crc32": "120645eb",
+      "sha1": "fdaea01d0a56302d7b505722a630483b85d64a08",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uwogazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da695d30d5ed18115cf82a96475349c8",
+      "md5": "1c57c51981fe57383bb6b9051cabb54e",
       "summation": "md5"
     },
     {
@@ -10979,9 +10990,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1060,
-  "item_last_updated": 1666900538,
-  "item_size": 71753140,
+  "files_count": 1061,
+  "item_last_updated": 1666907801,
+  "item_size": 71763335,
   "metadata": {
     "identifier": "uwogazette-2022",
     "collection": [
@@ -10998,21 +11009,15 @@
     "publicdate": "2022-07-24 03:45:41",
     "addeddate": "2022-07-24 03:45:41"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372373,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 957238133,
+  "uniq": 281721495,
+  "uwogazette-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

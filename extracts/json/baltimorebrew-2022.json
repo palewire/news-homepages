@@ -1,5 +1,5 @@
 {
-  "created": 1666910989,
+  "created": 1666913843,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/baltimorebrew-2022",
@@ -12717,21 +12717,32 @@
       "format": "JSON"
     },
     {
+      "name": "baltimorebrew-2022-10-27T18:47:29.325966-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebrew-2022-10-27T18:47:29.325966-04:00.jpg",
+      "mtime": "1666913418",
+      "size": "9580",
+      "md5": "fb21631d9974042a94d17cfd575834c9",
+      "crc32": "e76f5a32",
+      "sha1": "3ea21fc58c23c64fb2e701a810abdc0fbfdcbd30"
+    },
+    {
       "name": "baltimorebrew-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49ceebf10324c9443f80793de1150165293c98b2",
-      "mtime": "1666910976",
-      "size": "265264",
-      "md5": "2e4bd6e0be0901cdc6cdec45fde04782",
-      "crc32": "0410f58a",
-      "sha1": "33e0a8cf99f014c50343c233272e100055c13d30",
+      "btih": "a360940fa5a99ae5769a7f23f68620825da6daab",
+      "mtime": "1666913434",
+      "size": "265473",
+      "md5": "4e8cf43c8bb4df6bfaf0cfbb7015451f",
+      "crc32": "23b08ff7",
+      "sha1": "9d0fad3beb9635a208ef8b796460bba504e7daeb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebrew-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "39bda3f2d2e89b029f5c4262c36dcd11",
+      "md5": "c4a0bc1e4c660eaa03b5b963b625be27",
       "summation": "md5"
     },
     {
@@ -12755,9 +12766,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1232,
-  "item_last_updated": 1666910976,
-  "item_size": 69803729,
+  "files_count": 1233,
+  "item_last_updated": 1666913434,
+  "item_size": 69813518,
   "metadata": {
     "identifier": "baltimorebrew-2022",
     "collection": [
@@ -12774,21 +12785,10 @@
     "publicdate": "2022-07-13 02:24:41",
     "addeddate": "2022-07-13 02:24:41"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454510581,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 161960337,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1283682439,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666886657,
+  "created": 1666918986,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/19/items/searchlightnm-2022",
@@ -15547,21 +15547,32 @@
       "format": "JSON"
     },
     {
+      "name": "searchlightnm-2022-10-27T09:07:57.751773-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "searchlightnm-2022-10-27T09:07:57.751773-06:00.jpg",
+      "mtime": "1666895475",
+      "size": "9736",
+      "md5": "1bf7c52569967f0dce3852ec92a024ea",
+      "crc32": "05523c73",
+      "sha1": "e49a7c549a7bd70cd353ecbfb7bbc15474c4027b"
+    },
+    {
       "name": "searchlightnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a4b42f13145e0e1b3ed45a7ce11126677b3ae66b",
-      "mtime": "1666883394",
-      "size": "324021",
-      "md5": "098ff16bbaaca02ca937df438492905b",
-      "crc32": "2dd141ed",
-      "sha1": "55d4ebb7b42a7a45c701fee2d19be6a87a621cd1",
+      "btih": "972ab13286a8e51fbe4d5ddad9c0902da3d2d65c",
+      "mtime": "1666895535",
+      "size": "324230",
+      "md5": "f74ac0b43334f13ffa2b7664b6f12b7a",
+      "crc32": "988f59df",
+      "sha1": "e89b2aac983b14c93e241073273d40616a45a5f4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "searchlightnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5950f43854603401152885430de425cc",
+      "md5": "440b2c57ba0db6a2a55daed348fb76bf",
       "summation": "md5"
     },
     {
@@ -15585,9 +15596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1501,
-  "item_last_updated": 1666883394,
-  "item_size": 107004345,
+  "files_count": 1502,
+  "item_last_updated": 1666895535,
+  "item_size": 107014290,
   "metadata": {
     "identifier": "searchlightnm-2022",
     "collection": [
@@ -15604,7 +15615,6 @@
     "publicdate": "2022-06-19 23:28:31",
     "addeddate": "2022-06-19 23:28:31"
   },
-  "pending_tasks": true,
   "searchlightnm-2022": {
     "url": "https://searchlightnm.org/",
     "job_id": "spn2-8f1b2c56b6a38910ad38f4e8388d911e19b8b903",
@@ -15756,20 +15766,10 @@
       "https://i0.wp.com/searchlightnm.org/wp-content/uploads/2022/08/GoldKingMine-B_W-3_original.jpg?resize=1200,900&ssl=1"
     ]
   },
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454195447,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 55572550,
+  "server": "ia801403.us.archive.org",
+  "uniq": 505071757,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

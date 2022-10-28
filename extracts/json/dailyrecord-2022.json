@@ -1,7 +1,12 @@
 {
-  "created": 1666893263,
+  "created": 1666916200,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
+  "dailyrecord-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/35/items/dailyrecord-2022",
   "files": [
     {
@@ -4655,21 +4660,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailyrecord-2022-10-27T13:53:05.726061-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyrecord-2022-10-27T13:53:05.726061-04:00.jpg",
+      "mtime": "1666902424",
+      "size": "9111",
+      "md5": "b1958d48f2495bd26505664ee20a4822",
+      "crc32": "0d9b6ea9",
+      "sha1": "b70beb42f17ad781573558f1ff41d301f882da8d"
+    },
+    {
       "name": "dailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94915f81e365b0d51013adcd1f47519d0a067d11",
-      "mtime": "1666893252",
-      "size": "97464",
-      "md5": "b32fb28af67dfc295d7b8b2ecda5d0e3",
-      "crc32": "6cd0cb08",
-      "sha1": "f9d45a604fe8795a3cd8b0f70d2d8e3c2391355a",
+      "btih": "52eab050ec68635b922deeac7b2ee6c8093cc60b",
+      "mtime": "1666902429",
+      "size": "97671",
+      "md5": "60df1a5b52541a73269cacc85a9acf77",
+      "crc32": "70fe421c",
+      "sha1": "1f09ed68bb3d2ff4f66d8388db0bc62f5faac27e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b7fc41c8ecf6408be838fd3f9349212",
+      "md5": "0af4e9264d2e5a2bc7e1788eda43325b",
       "summation": "md5"
     },
     {
@@ -4693,9 +4709,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666893252,
-  "item_size": 30748976,
+  "files_count": 455,
+  "item_last_updated": 1666902429,
+  "item_size": 30758294,
   "metadata": {
     "identifier": "dailyrecord-2022",
     "collection": [
@@ -4712,21 +4728,10 @@
     "publicdate": "2022-09-20 17:43:37",
     "addeddate": "2022-09-20 17:43:37"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454299438,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1847879942,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1043455918,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

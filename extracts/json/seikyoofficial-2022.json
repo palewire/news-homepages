@@ -1,5 +1,5 @@
 {
-  "created": 1666901339,
+  "created": 1666919013,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/9/items/seikyoofficial-2022",
@@ -19009,21 +19009,32 @@
       "format": "JSON"
     },
     {
+      "name": "seikyoofficial-2022-10-28T04:28:10.480962+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seikyoofficial-2022-10-28T04:28:10.480962+09:00.jpg",
+      "mtime": "1666907252",
+      "size": "9395",
+      "md5": "276cf9af36174144df554b9a6a697576",
+      "crc32": "bc43df25",
+      "sha1": "375f9fa819fa56564346f04ee9eec8d4240dd177"
+    },
+    {
       "name": "seikyoofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c728d87f471acba49f887110d430d1c8208696ca",
-      "mtime": "1666899020",
-      "size": "398296",
-      "md5": "551b224cd0fbbcf511a7948399377dc8",
-      "crc32": "af930ce9",
-      "sha1": "c908aad0dda1e809816e72968d791cdccb72b07d",
+      "btih": "d80818f290af404b144cd929594b8bdc0eb052bc",
+      "mtime": "1666907282",
+      "size": "398506",
+      "md5": "66c520b9f41ed86b944ee1bfdcd4aa3e",
+      "crc32": "34fef76c",
+      "sha1": "ca5d17ece37e8e8795b4dc0e0ea69287273f43a1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seikyoofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "738ec5880afc540771089a75abc57264",
+      "md5": "72a33b5a20ba840bb2222bf2aa2d880c",
       "summation": "md5"
     },
     {
@@ -19047,9 +19058,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1839,
-  "item_last_updated": 1666899020,
-  "item_size": 122729509,
+  "files_count": 1840,
+  "item_last_updated": 1666907282,
+  "item_size": 122739114,
   "metadata": {
     "identifier": "seikyoofficial-2022",
     "collection": [
@@ -19066,26 +19077,10 @@
     "publicdate": "2022-07-09 02:39:13",
     "addeddate": "2022-07-09 02:39:13"
   },
-  "pending_tasks": true,
-  "seikyoofficial-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454358706,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1279137996,
+  "server": "ia802502.us.archive.org",
+  "uniq": 725486884,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883206,
+  "created": 1666914077,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/nzstuff-2022",
@@ -10319,21 +10319,32 @@
       "format": "JSON"
     },
     {
+      "name": "nzstuff-2022-10-28T03:15:35.236298+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzstuff-2022-10-28T03:15:35.236298+13:00.jpg",
+      "mtime": "1666894129",
+      "size": "8858",
+      "md5": "41b08d1a5f7fcab632d0bd143f2cceb5",
+      "crc32": "47fa0166",
+      "sha1": "777bd9bb5497937b9220ec30667e2f88c4cf2fb1"
+    },
+    {
       "name": "nzstuff-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8bb8055c99c83be91ab2efecc01b0bd404230bca",
-      "mtime": "1666880200",
-      "size": "210118",
-      "md5": "63ed6bd6c9722798e3888d6cef0126e2",
-      "crc32": "9ff8e352",
-      "sha1": "93919bf1308754784a305ece7e4e3c3ba6d256ce",
+      "btih": "ef7c7db8cc42b9d826bf141ef1b1e28319588ad5",
+      "mtime": "1666894173",
+      "size": "210321",
+      "md5": "a9fe31a190e5627eed46631fed0fbafa",
+      "crc32": "a8f721d9",
+      "sha1": "484bb38713c6fedcd6a686d1193c2208d218dccf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nzstuff-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61979280e1b5efa2030a6889ffeba349",
+      "md5": "cb56225ef8bef50ab72228a48fb2c95c",
       "summation": "md5"
     },
     {
@@ -10357,9 +10368,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1002,
-  "item_last_updated": 1666880200,
-  "item_size": 72783828,
+  "files_count": 1003,
+  "item_last_updated": 1666894173,
+  "item_size": 72792889,
   "metadata": {
     "identifier": "nzstuff-2022",
     "collection": [
@@ -10376,29 +10387,10 @@
     "publicdate": "2022-08-05 12:42:19",
     "addeddate": "2022-08-05 12:42:19"
   },
-  "nzstuff-2022": {
-    "url": "https://www.stuff.co.nz/",
-    "job_id": "spn2-9d9fcbbdb75cd9a542fa0191d49c5512c24e4f72",
-    "resources": [],
-    "status": "error",
-    "message": "Worker exited prematurely: exitcode 15 Job: 1102.",
-    "status_ext": "WorkerLostError"
-  },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167470,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1609616880,
+  "uniq": 310637633,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

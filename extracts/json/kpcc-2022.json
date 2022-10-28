@@ -1,5 +1,5 @@
 {
-  "created": 1666767912,
+  "created": 1666917086,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/kpcc-2022",
@@ -27534,31 +27534,217 @@
       "sha1": "6113f4eba0b3076cd536e9ee5a0984ad2f210f2e"
     },
     {
+      "name": "kpcc-2022-10-26T11:12:06.738699-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666807944",
+      "size": "21274",
+      "md5": "9aee714696937a3276e68fc79972bb4d",
+      "crc32": "e3381cdd",
+      "sha1": "df9022f0205679f7af870a9843361a8e3121b698",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-26T11:12:06.738699-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666807950",
+      "size": "30863",
+      "md5": "b98a7f64d82fdb5bfd52bb8a847fef0a",
+      "crc32": "c66b2f8a",
+      "sha1": "c2a9211037d2c47a78e29609698ee4f9658ad85c",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-26T11:12:06.738699-07:00.jpg",
+      "source": "original",
+      "mtime": "1666807939",
+      "size": "247891",
+      "md5": "d36ced44150308f61a5e61c82d8dbe6b",
+      "crc32": "cc1d6c05",
+      "sha1": "451bd678efbf991e80b4abb9fbf78e3109903209",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-10-26T11:12:06.738699-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666807956",
+      "size": "1423",
+      "md5": "a83d5fa20fe490b84b1b62d1edb6e4e3",
+      "crc32": "6cdd52b1",
+      "sha1": "7de22e824090edee4bdbc1370799fa9bb6f59dc9",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-26T11:12:06.738699-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666807961",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-26T11:12:06.738699-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-10-26T11:12:06.738699-07:00.jpg",
+      "mtime": "1666819086",
+      "size": "9353",
+      "md5": "1732cc5b3c0ba96ee2bf0a605e3a92f3",
+      "crc32": "23c8d829",
+      "sha1": "d1f0540b615eb58cec896c607d49e7dbf25aa0bb"
+    },
+    {
+      "name": "kpcc-2022-10-26T22:49:36.097150-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666849817",
+      "size": "21256",
+      "md5": "c05a0c594cac27771d74562df801cc2b",
+      "crc32": "4ba2296e",
+      "sha1": "72a82f180004263ace8f466731001aa2148cdfc0",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-26T22:49:36.097150-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666849819",
+      "size": "30569",
+      "md5": "c9644a2143105619fcb164e36e6fc3ad",
+      "crc32": "cefd6d96",
+      "sha1": "18b204cb8fc97576668c1c3cddd594b3333db8de",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-26T22:49:36.097150-07:00.jpg",
+      "source": "original",
+      "mtime": "1666849814",
+      "size": "245736",
+      "md5": "4d58fbe3bd05b4360fadee81610883f5",
+      "crc32": "e7d07b64",
+      "sha1": "17c4da9241c2957b390572ccea85bade55f5b049",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-10-26T22:49:36.097150-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666849821",
+      "size": "1422",
+      "md5": "933eb2800f61c7cb29974ed5ff78d538",
+      "crc32": "b0770062",
+      "sha1": "7ac33abc49ba8a768bbd6fa1d219c84a3df38eba",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-26T22:49:36.097150-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666849823",
+      "size": "24641",
+      "md5": "4c95fe71f659026e8dedbb9a820e725c",
+      "crc32": "8c61a30f",
+      "sha1": "babf1216fbf716148b02496dd16070c3069335f8",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-26T22:49:36.097150-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-10-26T22:49:36.097150-07:00.jpg",
+      "mtime": "1666873999",
+      "size": "9201",
+      "md5": "7186f3106f3e190d7c40fa50e2e01736",
+      "crc32": "d02f5c85",
+      "sha1": "46497ec80fe6b3547222e1f546864d58dbac670f"
+    },
+    {
+      "name": "kpcc-2022-10-27T10:44:48.758454-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666892694",
+      "size": "21040",
+      "md5": "0773895199f5824880325e64398b5953",
+      "crc32": "4915671f",
+      "sha1": "ce337e831b85aea2876b55ffb603fae88e4bae1b",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-27T10:44:48.758454-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666892697",
+      "size": "31030",
+      "md5": "cae552b5f1f79e4ec34f3091be7b4672",
+      "crc32": "7fad193e",
+      "sha1": "4861907f16d79deae07ce946f5c0bef7f595156e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-27T10:44:48.758454-07:00.jpg",
+      "source": "original",
+      "mtime": "1666892691",
+      "size": "246458",
+      "md5": "58e330f0c2a7901bbe148ab06066168f",
+      "crc32": "526f76f5",
+      "sha1": "914a62cfa25bc56b885dbf4013eec8f7613e2609",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcc-2022-10-27T10:44:48.758454-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666892699",
+      "size": "1423",
+      "md5": "7888d74e4c0db438dc548a309548f824",
+      "crc32": "76f0f978",
+      "sha1": "f7aae9aa999acb5679a2f5569f7bcebbd60e8d75",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-27T10:44:48.758454-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666892705",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcc-2022-10-27T10:44:48.758454-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcc-2022-10-27T10:44:48.758454-07:00.jpg",
+      "mtime": "1666902826",
+      "size": "9216",
+      "md5": "075189109d1c7e051828977e26fee15c",
+      "crc32": "bb5e8a43",
+      "sha1": "1f3894eb86b495738f2d8f20ed7f44df4e94e95e"
+    },
+    {
       "name": "kpcc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d9b0866e8158d510167bf32ece039f9c5bd26f2",
-      "mtime": "1666767698",
-      "size": "546075",
-      "md5": "a9033c1c3e74d5c03d692d964550a428",
-      "crc32": "6b62a732",
-      "sha1": "a4f529360d8d016f5f30f1c5e8fb187030b7bbbc",
+      "btih": "99e988eaa5551da5c03b141ab355b242740103f6",
+      "mtime": "1666904544",
+      "size": "549780",
+      "md5": "839cfc0344f9df87eef66e3c194961df",
+      "crc32": "709b1e88",
+      "sha1": "2f9d85cbb9ee0205fce5f3b0db5ac1b4bd0f927f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0be88abbf452967f6b21b1ca509e81b2",
+      "md5": "61b80dd6165d176b08a2456893b04aca",
       "summation": "md5"
     },
     {
       "name": "kpcc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666766333",
-      "size": "3190784",
-      "md5": "78981da984ae80b9186ee3df01da662c",
-      "crc32": "a8382be3",
-      "sha1": "7cca056afe77f319809688d487e300fdc9d99030",
+      "mtime": "1666892711",
+      "size": "3211264",
+      "md5": "4ca6c2aa3f87472444f2287ab690535f",
+      "crc32": "8b3b684c",
+      "sha1": "beee42aea944a7f811748695ada7d939c3100694",
       "format": "Metadata"
     },
     {
@@ -27572,9 +27758,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2648,
-  "item_last_updated": 1666767698,
-  "item_size": 175420446,
+  "files_count": 2666,
+  "item_last_updated": 1666904544,
+  "item_size": 176397831,
+  "kpcc-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kpcc-2022",
     "collection": [
@@ -27592,7 +27783,7 @@
     "addeddate": "2022-03-23 02:08:21"
   },
   "server": "ia902503.us.archive.org",
-  "uniq": 451197354,
+  "uniq": 498382385,
   "workable_servers": [
     "ia902503.us.archive.org",
     "ia802503.us.archive.org"

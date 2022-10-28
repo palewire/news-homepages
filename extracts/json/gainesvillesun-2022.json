@@ -1,5 +1,5 @@
 {
-  "created": 1666914047,
+  "created": 1666915377,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/28/items/gainesvillesun-2022",
@@ -11963,21 +11963,32 @@
       "format": "JSON"
     },
     {
+      "name": "gainesvillesun-2022-10-27T19:39:28.700110-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-27T19:39:28.700110-04:00.jpg",
+      "mtime": "1666915187",
+      "size": "9186",
+      "md5": "d5d3b95dd85e52f364e17ebdd86ada5b",
+      "crc32": "ab861675",
+      "sha1": "dce2af9fbc585062df17cf6d43f12300c0ceb2f7"
+    },
+    {
       "name": "gainesvillesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdddb8447b25db71110a89f1e2c25e2db67b761e",
-      "mtime": "1666914041",
-      "size": "251581",
-      "md5": "d3b8bf85d414030bead933980de62c12",
-      "crc32": "e43c333b",
-      "sha1": "5bf8287905b9239f21fb62ae320fe07000301bed",
+      "btih": "e6f7db2965ed07b8c0f40bd35c9628178881371c",
+      "mtime": "1666915223",
+      "size": "251791",
+      "md5": "aa7e0328a2f61fe76fe0b70642ef5dec",
+      "crc32": "a9983fd1",
+      "sha1": "bc5d7e4d3d5b4208bc76055720f1b452046e3090",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gainesvillesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed888628bfbfa5a708a4b74571a7f7b9",
+      "md5": "df9e277ef2fc9ba8e14cb7344e0711f3",
       "summation": "md5"
     },
     {
@@ -12001,9 +12012,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1160,
-  "item_last_updated": 1666914041,
-  "item_size": 79006583,
+  "files_count": 1161,
+  "item_last_updated": 1666915223,
+  "item_size": 79015979,
   "metadata": {
     "identifier": "gainesvillesun-2022",
     "collection": [
@@ -12020,21 +12031,10 @@
     "publicdate": "2022-07-21 02:23:50",
     "addeddate": "2022-07-21 02:23:50"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454574189,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 282756894,
+  "server": "ia801509.us.archive.org",
+  "uniq": 837693451,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

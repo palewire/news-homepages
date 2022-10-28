@@ -1,5 +1,5 @@
 {
-  "created": 1666898976,
+  "created": 1666918403,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/12/items/shreveporttimes-2022",
@@ -4635,21 +4635,32 @@
       "format": "JSON"
     },
     {
+      "name": "shreveporttimes-2022-10-27T14:28:18.458841-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shreveporttimes-2022-10-27T14:28:18.458841-05:00.jpg",
+      "mtime": "1666906752",
+      "size": "9237",
+      "md5": "1712df9f8d2c2c16bc125389da90c56c",
+      "crc32": "61f4367b",
+      "sha1": "13c3e44498a461d5d4dbce5e3790fc7bc7b84e76"
+    },
+    {
       "name": "shreveporttimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa70a569afd3f86d628d0682a2fe3f52771487d9",
-      "mtime": "1666898970",
-      "size": "98818",
-      "md5": "ed78ee3b27484382b81e396acecb0880",
-      "crc32": "7e00ffbb",
-      "sha1": "818f5d8e70c7f09cb5e24c9d9e22db9622e493d1",
+      "btih": "ea59e86dc0ae3faa28f3d64ae627ab880d4947bf",
+      "mtime": "1666906762",
+      "size": "99029",
+      "md5": "7c757a09222370563a6437d91950817b",
+      "crc32": "3157ddfe",
+      "sha1": "06944c4c878755e8c83d06cf0d494239b1e3a137",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shreveporttimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "141dfaacbc5e7e3e5d73d0fed20b94aa",
+      "md5": "dd2925154400f0c681e769d7023db4e5",
       "summation": "md5"
     },
     {
@@ -4673,9 +4684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1666898970,
-  "item_size": 29748501,
+  "files_count": 453,
+  "item_last_updated": 1666906762,
+  "item_size": 29757949,
   "metadata": {
     "identifier": "shreveporttimes-2022",
     "collection": [
@@ -4692,21 +4703,10 @@
     "publicdate": "2022-09-20 19:23:49",
     "addeddate": "2022-09-20 19:23:49"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454358303,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 131230628,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1280159079,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666772462,
+  "created": 1666917492,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/lesoir-2022",
@@ -11068,31 +11068,217 @@
       "sha1": "ddb407058986ab135cf863b6e6abbb9f319d3eaf"
     },
     {
+      "name": "lesoir-2022-10-26T20:14:22.832380+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666808075",
+      "size": "74795",
+      "md5": "ed23403fe62d4d8beae4dff03ebdce51",
+      "crc32": "0d552066",
+      "sha1": "309cadefb7630c7e6e904a9305e6cee19fb33ded",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-26T20:14:22.832380+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666808083",
+      "size": "74006",
+      "md5": "7a80c9f82391d14562a8d2b4b8f74fdc",
+      "crc32": "239eb16a",
+      "sha1": "dd7257d72eb0acc447d98338353a556f25e5014e",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-26T20:14:22.832380+02:00.jpg",
+      "source": "original",
+      "mtime": "1666808070",
+      "size": "271041",
+      "md5": "b7570d809c48b039c532a8c32ec3fc7d",
+      "crc32": "0b4e39e7",
+      "sha1": "09aedb673a8f773e99624e98188e943916b684ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lesoir-2022-10-26T20:14:22.832380+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666808089",
+      "size": "1441",
+      "md5": "738717e54a36f5885b991f5a1ab491e7",
+      "crc32": "cac6b59b",
+      "sha1": "1867ea4ed9bfc066211bdd50a8d5d804925b3ea4",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-26T20:14:22.832380+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666808095",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-26T20:14:22.832380+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lesoir-2022-10-26T20:14:22.832380+02:00.jpg",
+      "mtime": "1666821566",
+      "size": "9222",
+      "md5": "d8a2ee284a61b63b5d22a5fbc5a3b4c7",
+      "crc32": "3254d957",
+      "sha1": "c2235cd0d9c6fb2b1d6f869eb1cac1d25710621a"
+    },
+    {
+      "name": "lesoir-2022-10-27T07:49:28.187294+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666849778",
+      "size": "74061",
+      "md5": "06c33a6f2b8b0a233bef7df9b6e967b1",
+      "crc32": "c64c8a26",
+      "sha1": "bb035e5ae2b1c9f9cc2212cb7fd23392bb0b2a68",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-27T07:49:28.187294+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666849780",
+      "size": "74002",
+      "md5": "38880a7f2c011ab976a98e3a2a62350b",
+      "crc32": "dc9721fd",
+      "sha1": "1ac73cc4d54a980a8e9c6b6259df45b901996a52",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-27T07:49:28.187294+02:00.jpg",
+      "source": "original",
+      "mtime": "1666849776",
+      "size": "221606",
+      "md5": "a611ed428f46496ab189bd9be6b3ffbb",
+      "crc32": "122f7e4e",
+      "sha1": "c081714d6e68ab1a6d269b09c449fe11a2bcc354",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lesoir-2022-10-27T07:49:28.187294+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666849783",
+      "size": "1444",
+      "md5": "096b40d446b781c7104d27276d5cab60",
+      "crc32": "9659cef0",
+      "sha1": "b037209e9e2875f274dd3c9bd95177abc10cd30a",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-27T07:49:28.187294+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666849785",
+      "size": "202",
+      "md5": "643fa64efb8d46a64b84e7c163e3a9e7",
+      "crc32": "6b89aa6e",
+      "sha1": "aa94fda60230f7bb936bcf484cfdf30711920438",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-27T07:49:28.187294+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lesoir-2022-10-27T07:49:28.187294+02:00.jpg",
+      "mtime": "1666873690",
+      "size": "8629",
+      "md5": "a87991cbff409a5bdf0a134fbc24acaa",
+      "crc32": "fb76ca85",
+      "sha1": "2abdd71386e7441da3c03d4cf54ae3aa23b1fcce"
+    },
+    {
+      "name": "lesoir-2022-10-27T19:44:43.775297+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666892693",
+      "size": "71391",
+      "md5": "121d3f67698da382b24b83ff065f7316",
+      "crc32": "3dd36299",
+      "sha1": "e8282e16cb67670ed69a554ceb165395f2c8960e",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-27T19:44:43.775297+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666892695",
+      "size": "72487",
+      "md5": "e90ed61694ef32e91b51aec6a9bee141",
+      "crc32": "5abc073d",
+      "sha1": "c62962ca4bda5654cce03f0aff2d6f8cee76bacc",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-27T19:44:43.775297+02:00.jpg",
+      "source": "original",
+      "mtime": "1666892690",
+      "size": "235366",
+      "md5": "325692ca0ccf92e7d23c78b39031b586",
+      "crc32": "7b4d0f64",
+      "sha1": "dc77601df890c17770b8a8a62b14c40eb5f408ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lesoir-2022-10-27T19:44:43.775297+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666892697",
+      "size": "1450",
+      "md5": "66a1f4d97557145cdd523a85b171483e",
+      "crc32": "0d626e15",
+      "sha1": "37a33d7378baac61db2394812bc6e9681afd3560",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-27T19:44:43.775297+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666892699",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-10-27T19:44:43.775297+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lesoir-2022-10-27T19:44:43.775297+02:00.jpg",
+      "mtime": "1666901810",
+      "size": "8962",
+      "md5": "e4da31a7da0843615cfdecf29c869b31",
+      "crc32": "1f04e0c2",
+      "sha1": "c875c5dedc33a487efc0c7ffc3162164cc39fd8f"
+    },
+    {
       "name": "lesoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2fa9ef8f0a7343fef02ba94b8c27892f0fa6742d",
-      "mtime": "1666766977",
-      "size": "224467",
-      "md5": "6359e627cde0931c60c118da02ba771e",
-      "crc32": "12d178d0",
-      "sha1": "ba4fdbc0e3ccfa29f66e36cee13ae835c195e083",
+      "btih": "c02d03680b0ec307ffe40652ea523f9319ce6844",
+      "mtime": "1666901846",
+      "size": "228206",
+      "md5": "970d7ebd6ca0dc617ba0456a82a2ba5c",
+      "crc32": "41828409",
+      "sha1": "77ae9401f7d11375a200628b4da1b9754f77229d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lesoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11b599b9f79ee6c81a0d5e6891bb35bf",
+      "md5": "abd9a77bb34bfaba0eef4427c4ed7383",
       "summation": "md5"
     },
     {
       "name": "lesoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666766272",
-      "size": "1363968",
-      "md5": "ffcf745854d060d1740d47a0f51a8099",
-      "crc32": "c4940773",
-      "sha1": "ae9e3aaa92fc37730e21ebdbeefe571b2ff0a376",
+      "mtime": "1666892703",
+      "size": "1384448",
+      "md5": "8711e1bf9a071f9587b480f8c7c3ce8c",
+      "crc32": "2716b3d8",
+      "sha1": "69e98cce0cdd3d561726fefbdecb9c874d06543d",
       "format": "Metadata"
     },
     {
@@ -11106,16 +11292,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1074,
-  "item_last_updated": 1666766977,
-  "item_size": 76982367,
+  "files_count": 1092,
+  "item_last_updated": 1666901846,
+  "item_size": 78207095,
   "lesoir-2022": {
-    "url": "https://www.lesoir.be/",
-    "job_id": "spn2-c4fb719f015e8a88252f2aef74d8994d5aebe695",
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
+    "status_ext": "error:user-session-limit"
   },
   "metadata": {
     "identifier": "lesoir-2022",
@@ -11134,7 +11317,7 @@
     "addeddate": "2022-07-26 02:47:01"
   },
   "server": "ia902505.us.archive.org",
-  "uniq": 1964633243,
+  "uniq": 465387899,
   "workable_servers": [
     "ia902505.us.archive.org",
     "ia802505.us.archive.org"

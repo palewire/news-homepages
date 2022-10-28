@@ -1,5 +1,5 @@
 {
-  "created": 1666886888,
+  "created": 1666897405,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/14/items/argusleader-2022",
@@ -5585,21 +5585,32 @@
       "format": "JSON"
     },
     {
+      "name": "argusleader-2022-10-27T11:06:57.772050-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "argusleader-2022-10-27T11:06:57.772050-05:00.jpg",
+      "mtime": "1666897360",
+      "size": "9215",
+      "md5": "10157c45112000b485ba043ff088ae6f",
+      "crc32": "8fe77ee8",
+      "sha1": "d3609538ad8ddc0f1e065f82e6d92c13a13a03e3"
+    },
+    {
       "name": "argusleader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07a34227851581cae69b1394cf488c70a1165a1b",
-      "mtime": "1666886882",
-      "size": "116562",
-      "md5": "19a13ef9334a80b8511a02830989724c",
-      "crc32": "5a9bf453",
-      "sha1": "92b8d867d7892a91d64c3ef5484bf962ec615f3e",
+      "btih": "7989e9f7e00c447969d6bc8aaa067d46a1b5b773",
+      "mtime": "1666897385",
+      "size": "116769",
+      "md5": "3b8a94170522ddd9f4649a1237e675cf",
+      "crc32": "953d19d6",
+      "sha1": "8b599bf95955a2e6a34bfb722fd52ea720ca2602",
       "format": "Archive BitTorrent"
     },
     {
       "name": "argusleader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "527d50e0110e21e299b4e7d0ba36415b",
+      "md5": "114cfd739de3974aeaaf0056e2879f8d",
       "summation": "md5"
     },
     {
@@ -5623,9 +5634,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 544,
-  "item_last_updated": 1666886882,
-  "item_size": 35177168,
+  "files_count": 545,
+  "item_last_updated": 1666897385,
+  "item_size": 35186590,
   "metadata": {
     "identifier": "argusleader-2022",
     "collection": [
@@ -5642,21 +5653,10 @@
     "publicdate": "2022-09-21 04:37:37",
     "addeddate": "2022-09-21 04:37:37"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454234791,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 67292668,
+  "uniq": 1195585821,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

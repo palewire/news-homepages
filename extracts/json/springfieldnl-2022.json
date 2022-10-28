@@ -1,5 +1,5 @@
 {
-  "created": 1666900405,
+  "created": 1666917780,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/23/items/springfieldnl-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "springfieldnl-2022-10-27T14:52:05.212581-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "springfieldnl-2022-10-27T14:52:05.212581-05:00.jpg",
+      "mtime": "1666907903",
+      "size": "9289",
+      "md5": "48a328d8f5098308df591c1590945bde",
+      "crc32": "6485cf28",
+      "sha1": "83844112a128af85f39ae794e5f18aaf47679927"
+    },
+    {
       "name": "springfieldnl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d1dc980b17e8b143202bf2d7e0dff9fa4030b2b",
-      "mtime": "1666900399",
-      "size": "98375",
-      "md5": "43b2702df9bb45b63910145756e48d85",
-      "crc32": "92beba8b",
-      "sha1": "58af511d5a2715e9ee07e5d9f08c990d6c8c74a3",
+      "btih": "39d110893b1c9280fb7ed96568389c89482744b5",
+      "mtime": "1666907908",
+      "size": "98584",
+      "md5": "9a619fe908520221e61bd229d68932ed",
+      "crc32": "1def5c0c",
+      "sha1": "7507bcb110c04227018718b288228eac47ed9ac2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "springfieldnl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d2407aed099ab2c53f9d6a566987ec0",
+      "md5": "149ea82f6401dd9ed81ebe34fa3159ab",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666900399,
-  "item_size": 30336677,
+  "files_count": 455,
+  "item_last_updated": 1666907908,
+  "item_size": 30346175,
   "metadata": {
     "identifier": "springfieldnl-2022",
     "collection": [
@@ -4712,21 +4723,10 @@
     "publicdate": "2022-09-20 19:30:04",
     "addeddate": "2022-09-20 19:30:04"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454370970,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1119116960,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1948209572,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

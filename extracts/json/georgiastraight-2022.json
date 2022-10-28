@@ -1,5 +1,5 @@
 {
-  "created": 1666899641,
+  "created": 1666903065,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/14/items/georgiastraight-2022",
@@ -14185,21 +14185,32 @@
       "format": "JSON"
     },
     {
+      "name": "georgiastraight-2022-10-27T10:58:04.754504-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "georgiastraight-2022-10-27T10:58:04.754504-07:00.jpg",
+      "mtime": "1666902988",
+      "size": "9966",
+      "md5": "3be397e1d98200e2fe8372675a360cf4",
+      "crc32": "b9cfe229",
+      "sha1": "31b25f8d262a11c38633ef79992a112cb281c080"
+    },
+    {
       "name": "georgiastraight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2bbe200169d56e846a8113ab252254c11018d904",
-      "mtime": "1666893654",
-      "size": "298890",
-      "md5": "525fb05bd3a7d13d9de779db9b893310",
-      "crc32": "641e5190",
-      "sha1": "cc28f35c0ebe230000ea73d1b49366008bed4f95",
+      "btih": "2d7a33903c6c9c291286d678d6636b5f339e8197",
+      "mtime": "1666903025",
+      "size": "299101",
+      "md5": "4e1a8ebaec43c130b2271e8f24993f26",
+      "crc32": "910f059c",
+      "sha1": "bd6559472843acdfba0c22f04230eac90d325767",
       "format": "Archive BitTorrent"
     },
     {
       "name": "georgiastraight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "907182dab89d89d789a3dc3e144bb010",
+      "md5": "8b44150581f7094990c0da445180dd56",
       "summation": "md5"
     },
     {
@@ -14223,9 +14234,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1371,
-  "item_last_updated": 1666893654,
-  "item_size": 104866394,
+  "files_count": 1372,
+  "item_last_updated": 1666903025,
+  "item_size": 104876571,
   "metadata": {
     "identifier": "georgiastraight-2022",
     "collection": [
@@ -14242,21 +14253,10 @@
     "publicdate": "2022-06-30 22:35:36",
     "addeddate": "2022-06-30 22:35:36"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454303599,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 495013971,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1266823378,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

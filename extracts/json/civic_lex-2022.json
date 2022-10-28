@@ -1,5 +1,5 @@
 {
-  "created": 1666887092,
+  "created": 1666897738,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/civic_lex-2022",
@@ -12981,21 +12981,32 @@
       "format": "JSON"
     },
     {
+      "name": "civic_lex-2022-10-27T12:10:08.937859-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civic_lex-2022-10-27T12:10:08.937859-04:00.jpg",
+      "mtime": "1666897649",
+      "size": "8586",
+      "md5": "3e8b8052aacbee482ed0ca5da36d665a",
+      "crc32": "926055f0",
+      "sha1": "e7dec5627fa488b3eb528fc0a1e7db0f216213ad"
+    },
+    {
       "name": "civic_lex-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ecb14e054f57f923c47714a2345490857d9fb69f",
-      "mtime": "1666887083",
-      "size": "264516",
-      "md5": "bbcf6b0f83ebe8783f190e9cbb3c52ce",
-      "crc32": "ba2db703",
-      "sha1": "bc8741e14d9700267fcd7e4bc8a9e355e08354ee",
+      "btih": "0bf3d33d2cc18dee60e67e8fa15db19580546bd6",
+      "mtime": "1666897665",
+      "size": "264721",
+      "md5": "1c36c9daa57a6d51bb7041a18a397b1e",
+      "crc32": "2fa77039",
+      "sha1": "1f9aca1a9c21952e4fa084f082b0142058fc13c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civic_lex-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c106954ab737d47a627d04ba91854fc",
+      "md5": "6535dcebc0f29ca66c324dabb726e70a",
       "summation": "md5"
     },
     {
@@ -13019,9 +13030,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1257,
-  "item_last_updated": 1666887083,
-  "item_size": 47430887,
+  "files_count": 1258,
+  "item_last_updated": 1666897665,
+  "item_size": 47439678,
   "metadata": {
     "identifier": "civic_lex-2022",
     "collection": [
@@ -13038,21 +13049,10 @@
     "publicdate": "2022-07-09 03:57:14",
     "addeddate": "2022-07-09 03:57:14"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238021,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1806502548,
+  "uniq": 614776937,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

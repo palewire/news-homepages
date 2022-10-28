@@ -1,5 +1,5 @@
 {
-  "created": 1666893585,
+  "created": 1666903101,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/7/items/fremontnm-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "fremontnm-2022-10-27T13:57:59.535348-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fremontnm-2022-10-27T13:57:59.535348-04:00.jpg",
+      "mtime": "1666902808",
+      "size": "9536",
+      "md5": "ffb5dc7b3ee4f2d9d6d870ccb4105f03",
+      "crc32": "a683ac93",
+      "sha1": "23d7ecb62f619757ed438c100ac1a3d65cb9e28b"
+    },
+    {
       "name": "fremontnm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "624b91b36b4015022985f9204354e63b24318558",
-      "mtime": "1666893555",
-      "size": "96378",
-      "md5": "82888d01208ae3e96f7d401b3275b2fc",
-      "crc32": "87212ddd",
-      "sha1": "7afa89aa43ec7859d487ef7938d3deef9eb80ba1",
+      "btih": "4c06519a5d25fa5e13a63b584a87ac844e953781",
+      "mtime": "1666902822",
+      "size": "96583",
+      "md5": "881b4df21b31ce324b7d9fbbcd333a0f",
+      "crc32": "cd67b5f6",
+      "sha1": "22c5adaa2c725488b06d4a8eb563c44a4bc4e669",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fremontnm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9ae75805ec8cb5fa33d7c9a357fa37c2",
+      "md5": "97c467c2ebc4554e3109ab5bda5e2f0a",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666893555,
-  "item_size": 27396018,
+  "files_count": 455,
+  "item_last_updated": 1666902822,
+  "item_size": 27405759,
   "metadata": {
     "identifier": "fremontnm-2022",
     "collection": [
@@ -4712,21 +4723,10 @@
     "publicdate": "2022-09-20 17:53:26",
     "addeddate": "2022-09-20 17:53:26"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302611,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 666552309,
+  "uniq": 1487595934,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

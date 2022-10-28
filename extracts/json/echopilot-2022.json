@@ -1,13 +1,8 @@
 {
-  "created": 1666899008,
+  "created": 1666902671,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/30/items/echopilot-2022",
-  "echopilot-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4640,21 +4635,32 @@
       "format": "JSON"
     },
     {
+      "name": "echopilot-2022-10-27T13:55:22.049035-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "echopilot-2022-10-27T13:55:22.049035-04:00.jpg",
+      "mtime": "1666902658",
+      "size": "9343",
+      "md5": "93eee9f3b7df7661ee859ccb1963af6f",
+      "crc32": "86aaf0aa",
+      "sha1": "3e282ce1945086cb979a0604e75f7de299aeb7d8"
+    },
+    {
       "name": "echopilot-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6cf40d6185bf2174f70ffdb88b51c7200b437b04",
-      "mtime": "1666893419",
-      "size": "96127",
-      "md5": "e4130dd9133d50870ec7a4cbe7704324",
-      "crc32": "5bb59a5f",
-      "sha1": "49e774459d9a417a3eef9234e75693e7276b0c4c",
+      "btih": "702fd49d28f1c3ab100e72b6faf19635e8f66e9e",
+      "mtime": "1666902663",
+      "size": "96332",
+      "md5": "4c8a9bf1f9204241239ce9e7ae48d2e5",
+      "crc32": "692b27ed",
+      "sha1": "3bdafd3504a795e6efd71589814b4ce90b955363",
       "format": "Archive BitTorrent"
     },
     {
       "name": "echopilot-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73e194c66ad00ad6ec838ac1cb87360e",
+      "md5": "e41ef0ce05ad0e316da4f061b01f15e2",
       "summation": "md5"
     },
     {
@@ -4678,9 +4684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1666893419,
-  "item_size": 31236147,
+  "files_count": 453,
+  "item_last_updated": 1666902663,
+  "item_size": 31245695,
   "metadata": {
     "identifier": "echopilot-2022",
     "collection": [
@@ -4697,21 +4703,10 @@
     "publicdate": "2022-09-20 17:50:41",
     "addeddate": "2022-09-20 17:50:41"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454301415,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1441304358,
+  "uniq": 211288313,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

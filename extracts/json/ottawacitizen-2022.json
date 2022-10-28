@@ -1,5 +1,5 @@
 {
-  "created": 1666898663,
+  "created": 1666907043,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/ottawacitizen-2022",
@@ -14267,21 +14267,32 @@
       "format": "JSON"
     },
     {
+      "name": "ottawacitizen-2022-10-27T15:22:42.157930-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottawacitizen-2022-10-27T15:22:42.157930-04:00.jpg",
+      "mtime": "1666906951",
+      "size": "10310",
+      "md5": "c09ae4708dba1509596581c16d77e0b3",
+      "crc32": "52d3e986",
+      "sha1": "223165aaca283f1a4e850b4862499efac15b1cfd"
+    },
+    {
       "name": "ottawacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de4cb12ba03aa2ef569738cf0ef66bf0f18ef3bb",
-      "mtime": "1666898647",
-      "size": "298111",
-      "md5": "073c3b102cb8751f9dfbd73bb8a0d34a",
-      "crc32": "55f3484c",
-      "sha1": "8b57b533d856f903484159a0050761eb2dc56a9a",
+      "btih": "9b23c6af994d4c4685fff99db284586cbd051182",
+      "mtime": "1666906969",
+      "size": "298321",
+      "md5": "1693604ee7a08d48861342eb4e623e31",
+      "crc32": "5cbeaacb",
+      "sha1": "1df822e4e41312fca1bc17d75a81c6721017ed96",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottawacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c026ab52817dd870e95d988f94bb17e",
+      "md5": "2dc2e3ec98a0f2de350d96d275902c83",
       "summation": "md5"
     },
     {
@@ -14305,9 +14316,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1379,
-  "item_last_updated": 1666898647,
-  "item_size": 113696596,
+  "files_count": 1380,
+  "item_last_updated": 1666906969,
+  "item_size": 113707116,
   "metadata": {
     "identifier": "ottawacitizen-2022",
     "collection": [
@@ -14324,21 +14335,10 @@
     "publicdate": "2022-06-30 22:35:58",
     "addeddate": "2022-06-30 22:35:58"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355428,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 107030282,
+  "server": "ia801508.us.archive.org",
+  "uniq": 736627123,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

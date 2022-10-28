@@ -546,7 +546,7 @@
     "duration_sec": 26.746,
     "screenshot": "http://web.archive.org/screenshot/https://www.the-review.com/"
   },
-  "created": 1666890560,
+  "created": 1666915445,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/20/items/alliancereview-2022",
@@ -5140,21 +5140,32 @@
       "format": "JSON"
     },
     {
+      "name": "alliancereview-2022-10-27T12:07:04.205157-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alliancereview-2022-10-27T12:07:04.205157-04:00.jpg",
+      "mtime": "1666898396",
+      "size": "9371",
+      "md5": "068d9315936275c6be3288f5e7fb2627",
+      "crc32": "6d419401",
+      "sha1": "d2078926b63285c8f02952b2b562b800c73807ef"
+    },
+    {
       "name": "alliancereview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "580c436da7ffdc74443a72176f89aff3fe9128ee",
-      "mtime": "1666886881",
-      "size": "97617",
-      "md5": "c149466982122abfaf07ba8ff78380a3",
-      "crc32": "5ce520e9",
-      "sha1": "8ecbe7ed75a202b1082c820936143caec0e82031",
+      "btih": "eb0bb40743e3589075fbd189f819e267ddc9e8c7",
+      "mtime": "1666898408",
+      "size": "97827",
+      "md5": "271edef2c4cff625445a3dffc55954a9",
+      "crc32": "bea0ee85",
+      "sha1": "e79206a3b6cdf483d8f34c8bee66f0015642460a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alliancereview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "742745175038e95cc596242df04176cf",
+      "md5": "597ed7db5b296b8dc941dc7c53fee9d7",
       "summation": "md5"
     },
     {
@@ -5178,9 +5189,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666886881,
-  "item_size": 31678433,
+  "files_count": 449,
+  "item_last_updated": 1666898408,
+  "item_size": 31688014,
   "metadata": {
     "identifier": "alliancereview-2022",
     "collection": [
@@ -5197,21 +5208,10 @@
     "publicdate": "2022-09-21 04:37:23",
     "addeddate": "2022-09-21 04:37:23"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454234729,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1788886615,
+  "uniq": 1417964467,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

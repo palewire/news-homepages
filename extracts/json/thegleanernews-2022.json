@@ -1,5 +1,5 @@
 {
-  "created": 1666883497,
+  "created": 1666895726,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/thegleanernews-2022",
@@ -4593,21 +4593,32 @@
       "format": "JSON"
     },
     {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-27T10:10:35.743124-05:00.jpg",
+      "mtime": "1666895666",
+      "size": "9041",
+      "md5": "4fa22188067233f40879bf3aa01a932a",
+      "crc32": "4874e509",
+      "sha1": "d044209a0ae65041573283361d581e23929ce9d5"
+    },
+    {
       "name": "thegleanernews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8fc8f45c614a47200dbb90520714f42ed8ead30",
-      "mtime": "1666883491",
-      "size": "97392",
-      "md5": "746de6a3ae4d17b9a1f239c9bbcbcc88",
-      "crc32": "24837cfb",
-      "sha1": "80ff1167cd8a97d1270ddd1ad6900d021e936804",
+      "btih": "dd399fd3a598c0a8b94bbc4e2cdb672fb980d1d5",
+      "mtime": "1666895677",
+      "size": "97602",
+      "md5": "14232804f7edda5621f112b6a5571d62",
+      "crc32": "9b5f54a9",
+      "sha1": "d579a5d97817126d912d854932a6b0c74b72b75d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegleanernews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1753d89ab136d761dd4be46a420c80b3",
+      "md5": "9a016e5bcc5b5ebd4e580de518a98c9f",
       "summation": "md5"
     },
     {
@@ -4631,9 +4642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666883491,
-  "item_size": 27462086,
+  "files_count": 449,
+  "item_last_updated": 1666895677,
+  "item_size": 27471337,
   "metadata": {
     "identifier": "thegleanernews-2022",
     "collection": [
@@ -4650,21 +4661,10 @@
     "publicdate": "2022-09-21 03:44:35",
     "addeddate": "2022-09-21 03:44:35"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454196489,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 999275582,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1288042176,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

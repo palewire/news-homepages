@@ -1,5 +1,5 @@
 {
-  "created": 1666893300,
+  "created": 1666902576,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/demingheadlight-2022",
@@ -4645,21 +4645,32 @@
       "format": "JSON"
     },
     {
+      "name": "demingheadlight-2022-10-27T11:53:45.796726-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "demingheadlight-2022-10-27T11:53:45.796726-06:00.jpg",
+      "mtime": "1666902532",
+      "size": "8727",
+      "md5": "41e9f083958bc6142e4a5a94f178da09",
+      "crc32": "47d18365",
+      "sha1": "237bfcec01f2f7b974ad50cf094c7116c3c5c516"
+    },
+    {
       "name": "demingheadlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "acd1abfa992c31ad51fac154e837131c6d2c4b48",
-      "mtime": "1666893296",
-      "size": "98967",
-      "md5": "efad4ed6cdbed3abe60c31e3baa2d7c5",
-      "crc32": "5d7b38bd",
-      "sha1": "6fb61c4f71b2d9d7c50de1fbb6cf6821c25e42c4",
+      "btih": "752e91033748b75634dff69d85d2cdd498d9b696",
+      "mtime": "1666902541",
+      "size": "99178",
+      "md5": "aa03f20bf1c3390fbde6320f6ef70672",
+      "crc32": "49067ae7",
+      "sha1": "e15fd7d5b253816f29287f4cf8ee73e9d7f15879",
       "format": "Archive BitTorrent"
     },
     {
       "name": "demingheadlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd52909f2a1a5983def950a6ad8ecda1",
+      "md5": "f9d7dbede204f92f0908888d1850d04c",
       "summation": "md5"
     },
     {
@@ -4683,9 +4694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666893296,
-  "item_size": 28534019,
+  "files_count": 454,
+  "item_last_updated": 1666902541,
+  "item_size": 28542957,
   "metadata": {
     "identifier": "demingheadlight-2022",
     "collection": [
@@ -4702,21 +4713,10 @@
     "publicdate": "2022-09-20 17:45:10",
     "addeddate": "2022-09-20 17:45:10"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454299773,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1537244806,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1850139546,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

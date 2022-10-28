@@ -1,5 +1,5 @@
 {
-  "created": 1666876640,
+  "created": 1666916906,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/jornaldobrasil-2022",
@@ -15219,21 +15219,32 @@
       "format": "JSON"
     },
     {
+      "name": "jornaldobrasil-2022-10-27T10:13:49.087018-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaldobrasil-2022-10-27T10:13:49.087018-03:00.jpg",
+      "mtime": "1666891318",
+      "size": "10547",
+      "md5": "3ead23854b4648164436b94de2c78351",
+      "crc32": "d36682ea",
+      "sha1": "d485112b0c4f15bd6a0963dd6acb591b3eaca7dc"
+    },
+    {
       "name": "jornaldobrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a00ef96ecb7c630a441ed4e89490a261d7f79ba1",
-      "mtime": "1666876625",
-      "size": "320039",
-      "md5": "d9dafa67b8a567fccd5b9b5fef703ed6",
-      "crc32": "9514a42c",
-      "sha1": "a1114f09cd6e5de3cd744dc5be8b9f5144ce214a",
+      "btih": "d1c490080ffa2b8fa67030db19e4ac7215201a78",
+      "mtime": "1666891359",
+      "size": "320250",
+      "md5": "218203b7be81d491dcf68a3386817d80",
+      "crc32": "18b2af6f",
+      "sha1": "cb177ae4baa9c7302f375efdfdf67f536034e674",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaldobrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3de8a417e544148ef5ecbc7a3ecf2ca1",
+      "md5": "5b7df604066fb00653ea5c8cdfb87c94",
       "summation": "md5"
     },
     {
@@ -15257,9 +15268,25 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1476,
-  "item_last_updated": 1666876625,
-  "item_size": 101661428,
+  "files_count": 1477,
+  "item_last_updated": 1666891359,
+  "item_size": 101672186,
+  "jornaldobrasil-2022": {
+    "url": "https://www.jb.com.br/",
+    "job_id": "spn2-b1c39c2dd19433aa84c00974e5a8c182b0e88693",
+    "outlinks": [],
+    "screenshot": "http://web.archive.org/screenshot/https://www.jb.com.br/",
+    "original_url": "https://www.jb.com.br/",
+    "http_status": 200,
+    "status": "success",
+    "counters": {
+      "embeds": 99,
+      "outlinks": 152
+    },
+    "resources": [],
+    "duration_sec": 20.317,
+    "timestamp": "20221027112317"
+  },
   "metadata": {
     "identifier": "jornaldobrasil-2022",
     "collection": [
@@ -15276,21 +15303,10 @@
     "publicdate": "2022-08-04 04:55:22",
     "addeddate": "2022-08-04 04:55:22"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454135476,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 394664392,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1819056290,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

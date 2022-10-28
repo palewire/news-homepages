@@ -1,5 +1,5 @@
 {
-  "created": 1666910878,
+  "created": 1666913314,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/adnkronos-2022",
@@ -9675,21 +9675,32 @@
       "format": "JSON"
     },
     {
+      "name": "adnkronos-2022-10-28T00:46:37.353298+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "adnkronos-2022-10-28T00:46:37.353298+02:00.jpg",
+      "mtime": "1666913267",
+      "size": "7603",
+      "md5": "057c4afd8cedadaf6203f0650e7b70bb",
+      "crc32": "28867681",
+      "sha1": "ce2d9786e73df10231f41c45df677035c9dbd375"
+    },
+    {
       "name": "adnkronos-2022_archive.torrent",
       "source": "metadata",
-      "btih": "240408b8f75eaa5d92eb34f9470c168e5621c030",
-      "mtime": "1666910872",
-      "size": "199535",
-      "md5": "4d60b49c2bfd078f4fbaa5af5254e81d",
-      "crc32": "72c933f2",
-      "sha1": "fc57a6365ca4c72a52af4364089a6fd1203d444e",
+      "btih": "ce5b00ee9bf4f974f4f1c66a761921293cdfc0a0",
+      "mtime": "1666913290",
+      "size": "199740",
+      "md5": "eb69ba10e17a988e0b15139734230135",
+      "crc32": "865ac4b0",
+      "sha1": "d3ffe482e01c40dae54270d4fc8307f9a090fbb7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "adnkronos-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94b94d0184f1af55b5555d2a5061d348",
+      "md5": "628f4a4fc7167554705ed46a65e0c7f9",
       "summation": "md5"
     },
     {
@@ -9713,9 +9724,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 940,
-  "item_last_updated": 1666910872,
-  "item_size": 65485588,
+  "files_count": 941,
+  "item_last_updated": 1666913290,
+  "item_size": 65493396,
   "metadata": {
     "identifier": "adnkronos-2022",
     "collection": [
@@ -9732,21 +9743,10 @@
     "publicdate": "2022-08-11 00:35:22",
     "addeddate": "2022-08-11 00:35:22"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454508134,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1820101758,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1672463796,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

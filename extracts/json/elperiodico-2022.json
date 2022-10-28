@@ -1,5 +1,5 @@
 {
-  "created": 1666899109,
+  "created": 1666902795,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/elperiodico-2022",
@@ -11381,21 +11381,32 @@
       "format": "JSON"
     },
     {
+      "name": "elperiodico-2022-10-27T19:55:03.618806+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elperiodico-2022-10-27T19:55:03.618806+02:00.jpg",
+      "mtime": "1666902673",
+      "size": "8982",
+      "md5": "8266c5087a373b742a5c8eb45982cd60",
+      "crc32": "c433e494",
+      "sha1": "93cc133c749c8e236365a4785c15b56ff47a9544"
+    },
+    {
       "name": "elperiodico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a9abd43623d71a9963f14bcf172bbb0d5735746",
-      "mtime": "1666893386",
-      "size": "237751",
-      "md5": "355eb1a8ddadbd70f5294361ffdaca1d",
-      "crc32": "5b5fe34e",
-      "sha1": "4caf9c1992b8dee3056e5419b829a14201d328f0",
+      "btih": "741a9fdaba215350c970c9b2e3155b801032a93f",
+      "mtime": "1666902689",
+      "size": "237958",
+      "md5": "c91522631c5579282ed724a942f4db4a",
+      "crc32": "851140e2",
+      "sha1": "64d3659a1960c613fe13dff5b58f76ec42be92e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elperiodico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b2939dc20513d59692377576524c06c",
+      "md5": "9685918d66eac06f5140fc3f1d422016",
       "summation": "md5"
     },
     {
@@ -11419,9 +11430,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1104,
-  "item_last_updated": 1666893386,
-  "item_size": 109659998,
+  "files_count": 1105,
+  "item_last_updated": 1666902689,
+  "item_size": 109669187,
   "metadata": {
     "identifier": "elperiodico-2022",
     "collection": [
@@ -11438,21 +11449,10 @@
     "publicdate": "2022-07-26 02:42:00",
     "addeddate": "2022-07-26 02:42:00"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300873,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1247922811,
+  "server": "ia801502.us.archive.org",
+  "uniq": 929356247,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

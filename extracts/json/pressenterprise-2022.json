@@ -1,5 +1,5 @@
 {
-  "created": 1666901006,
+  "created": 1666918547,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/25/items/pressenterprise-2022",
@@ -27539,21 +27539,32 @@
       "format": "JSON"
     },
     {
+      "name": "pressenterprise-2022-10-27T12:23:15.289137-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressenterprise-2022-10-27T12:23:15.289137-07:00.jpg",
+      "mtime": "1666906588",
+      "size": "9312",
+      "md5": "c6702c7c375ebcb2a55ec3a09cfae3bf",
+      "crc32": "8892f636",
+      "sha1": "d151149c8bd90a8c7d8bf28fe51eb815f8260950"
+    },
+    {
       "name": "pressenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81173ffb69d42a1fefc8f591ede7a348d1924921",
-      "mtime": "1666898720",
-      "size": "577459",
-      "md5": "9a43e165fb9fcf2e76e4f3f6e507bd51",
-      "crc32": "6e03feb4",
-      "sha1": "f850e9ddd5cbc3d7faafe9715a938b351e81a7cb",
+      "btih": "048b02d8db8b44c5e391e9aee7b79bd2f5422efe",
+      "mtime": "1666906774",
+      "size": "577670",
+      "md5": "e2386fd146cb8e46c72fd6f84634fd0e",
+      "crc32": "5812e56e",
+      "sha1": "e1f2320285f39256304c0ead6bb55d2ccdf665a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pressenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8986e3c39bdd7c61e44938cb7c82eb44",
+      "md5": "bd0eaec9a73b9bece081efdcdcb0ed60",
       "summation": "md5"
     },
     {
@@ -27577,9 +27588,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2649,
-  "item_last_updated": 1666898720,
-  "item_size": 227329312,
+  "files_count": 2650,
+  "item_last_updated": 1666906774,
+  "item_size": 227338835,
   "metadata": {
     "identifier": "pressenterprise-2022",
     "collection": [
@@ -27596,7 +27607,6 @@
     "publicdate": "2022-03-23 02:09:29",
     "addeddate": "2022-03-23 02:09:29"
   },
-  "pending_tasks": true,
   "pressenterprise-2022": {
     "url": "https://www.pe.com/",
     "job_id": "spn2-0e1104def739b55f56fd1fb90688617a08ac193f",
@@ -27868,19 +27878,9 @@
     ]
   },
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454356077,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1987166722,
+  "uniq": 1829783857,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

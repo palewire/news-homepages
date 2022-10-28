@@ -1,5 +1,5 @@
 {
-  "created": 1666911036,
+  "created": 1666913891,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/capitolnewsil-2022",
@@ -12993,21 +12993,32 @@
       "format": "JSON"
     },
     {
+      "name": "capitolnewsil-2022-10-27T17:49:11.922430-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-10-27T17:49:11.922430-05:00.jpg",
+      "mtime": "1666913829",
+      "size": "10094",
+      "md5": "77ae39095cc993d014f213bb632aac0d",
+      "crc32": "a3e074c7",
+      "sha1": "1f1f2aca293e3c0ffc7f68c3db4b7d2d329c37ba"
+    },
+    {
       "name": "capitolnewsil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7da57c33e808777b4a602da7f001d5b1c024d892",
-      "mtime": "1666911028",
-      "size": "271108",
-      "md5": "8f00a31d10df4e86754ab148ca6ad90c",
-      "crc32": "fdd5224d",
-      "sha1": "ee5484b83a1f084945084b59072e587a488912d6",
+      "btih": "8e5df5e04897603496cfb4c8be61a2b6a880ae5e",
+      "mtime": "1666913850",
+      "size": "271318",
+      "md5": "dede5cbea39ed7137b45dcea91247992",
+      "crc32": "652459cf",
+      "sha1": "d8a5f103b216ca6ad787af4f2a694f8a453744de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitolnewsil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed1465a2591605c33bdaa735c5fa3ef8",
+      "md5": "9bb166693abc4c11bf307eb8bc74fe61",
       "summation": "md5"
     },
     {
@@ -13031,9 +13042,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1258,
-  "item_last_updated": 1666911028,
-  "item_size": 80814707,
+  "files_count": 1259,
+  "item_last_updated": 1666913850,
+  "item_size": 80825011,
   "metadata": {
     "identifier": "capitolnewsil-2022",
     "collection": [
@@ -13050,21 +13061,10 @@
     "publicdate": "2022-07-09 03:56:30",
     "addeddate": "2022-07-09 03:56:30"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454511628,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 775846455,
+  "uniq": 1944362309,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

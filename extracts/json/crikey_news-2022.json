@@ -1,5 +1,5 @@
 {
-  "created": 1666893133,
+  "created": 1666915920,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/crikey_news-2022",
@@ -8221,21 +8221,32 @@
       "format": "JSON"
     },
     {
+      "name": "crikey_news-2022-10-28T04:50:51.323161+11:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crikey_news-2022-10-28T04:50:51.323161+11:00.jpg",
+      "mtime": "1666902840",
+      "size": "11493",
+      "md5": "cf66e00cd375dc5f7a804a16935a92ea",
+      "crc32": "bd07e1f2",
+      "sha1": "a87244a4e6abc7a182f084145dc067f1f25f6002"
+    },
+    {
       "name": "crikey_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa7a08405b1c8e3224867e4bc5e9d847be8f15d5",
-      "mtime": "1666893121",
-      "size": "171563",
-      "md5": "7d5537a3311eba930f9d178131836eaa",
-      "crc32": "c4ce4f4a",
-      "sha1": "3f8d9bd813f1ea0cad027905a1bf0fbe69f0f2a9",
+      "btih": "64b0c0434ddc0d422c277533076c1fccfaeba6ae",
+      "mtime": "1666902847",
+      "size": "171771",
+      "md5": "46ec17c18734518feaa2dd355f61c778",
+      "crc32": "0953ece1",
+      "sha1": "394df901f3aea6b037b61385e274f8308769a644",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crikey_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "843c465cc9df83574c075fe219ac22ba",
+      "md5": "b1d42493ac11fbdf8cfed8405bc0c02d",
       "summation": "md5"
     },
     {
@@ -8259,9 +8270,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 799,
-  "item_last_updated": 1666893121,
-  "item_size": 65156951,
+  "files_count": 800,
+  "item_last_updated": 1666902847,
+  "item_size": 65168652,
   "metadata": {
     "identifier": "crikey_news-2022",
     "collection": [
@@ -8278,21 +8289,10 @@
     "publicdate": "2022-08-22 21:50:34",
     "addeddate": "2022-08-22 21:50:34"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454298034,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 525855797,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1427987558,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666900371,
+  "created": 1666907749,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/15/items/sturgisnewsroom-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "sturgisnewsroom-2022-10-27T15:51:51.508516-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sturgisnewsroom-2022-10-27T15:51:51.508516-04:00.jpg",
+      "mtime": "1666907619",
+      "size": "9989",
+      "md5": "136aea422dad36b0d0ce0b6167ad9a7d",
+      "crc32": "e3f8279a",
+      "sha1": "2092b3fd3ebf6a5352a06e12ccec1b146d10cd01"
+    },
+    {
       "name": "sturgisnewsroom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f22194f272228683a85cbf5771c3051ae6955ed",
-      "mtime": "1666900368",
-      "size": "99391",
-      "md5": "1b5e32421cb4a6dbf21a1474e5f653f2",
-      "crc32": "c67013bd",
-      "sha1": "52706b6b696f01fbceb951318a810141aff2d6c9",
+      "btih": "195f215d0c4c1e2abeaaee94dfb4e606fe251e86",
+      "mtime": "1666907654",
+      "size": "99602",
+      "md5": "dce9cde169a173a5f4d8b2dbf7f1042b",
+      "crc32": "964eea8f",
+      "sha1": "de7d8d33bb135151bf251abc00962369af282497",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sturgisnewsroom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1259c899996476f3f99d0ad826caa9f",
+      "md5": "b09b917140af16d24165fc2e1237cbb6",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666900368,
-  "item_size": 32433706,
+  "files_count": 455,
+  "item_last_updated": 1666907654,
+  "item_size": 32443906,
   "metadata": {
     "identifier": "sturgisnewsroom-2022",
     "collection": [
@@ -4712,21 +4723,10 @@
     "publicdate": "2022-09-20 19:31:47",
     "addeddate": "2022-09-20 19:31:47"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454370665,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 412495823,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1810351189,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

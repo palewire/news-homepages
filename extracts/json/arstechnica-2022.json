@@ -1,5 +1,5 @@
 {
-  "created": 1666886887,
+  "created": 1666899413,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/4/items/arstechnica-2022",
@@ -13969,21 +13969,32 @@
       "format": "JSON"
     },
     {
+      "name": "arstechnica-2022-10-27T12:06:54.456265-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arstechnica-2022-10-27T12:06:54.456265-04:00.jpg",
+      "mtime": "1666897666",
+      "size": "11763",
+      "md5": "332e1ecd3b7035a055be2091323b30ff",
+      "crc32": "bcbf5587",
+      "sha1": "3f36402aa20ab2d46cf276f121e56b3f96f97f0a"
+    },
+    {
       "name": "arstechnica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "911efa00150860ff6ead0060440ce5108b8b2d7c",
-      "mtime": "1666886881",
-      "size": "289511",
-      "md5": "5324dc64bbc5300456202f06481f744f",
-      "crc32": "c2af59f6",
-      "sha1": "7fff37447c832b79ba1a1fa45d915013bd8b862e",
+      "btih": "cff1bf355eefb47f16f2cf998be917207af885bf",
+      "mtime": "1666897695",
+      "size": "289719",
+      "md5": "9d33c96126ff476b946c937da709ad40",
+      "crc32": "5b0fa5e6",
+      "sha1": "a8865355f9c40829f180abefc64f127dcbb5aaa2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arstechnica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76efe4b6e33e1708045187158e47d429",
+      "md5": "f6778f200fff6d633bcf5ad2577c9e34",
       "summation": "md5"
     },
     {
@@ -14007,9 +14018,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1351,
-  "item_last_updated": 1666886881,
-  "item_size": 107777567,
+  "files_count": 1352,
+  "item_last_updated": 1666897695,
+  "item_size": 107789538,
   "metadata": {
     "identifier": "arstechnica-2022",
     "collection": [
@@ -14026,21 +14037,10 @@
     "publicdate": "2022-07-04 20:17:38",
     "addeddate": "2022-07-04 20:17:38"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454234770,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1381062372,
+  "server": "ia801507.us.archive.org",
+  "uniq": 30112384,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

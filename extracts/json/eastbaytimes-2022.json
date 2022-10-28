@@ -1,5 +1,5 @@
 {
-  "created": 1666913957,
+  "created": 1666915822,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
@@ -20689,21 +20689,32 @@
       "format": "JSON"
     },
     {
+      "name": "eastbaytimes-2022-10-27T16:37:21.820513-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-10-27T16:37:21.820513-07:00.jpg",
+      "mtime": "1666915327",
+      "size": "9693",
+      "md5": "152d47addfe41a73898e32c37d1a5933",
+      "crc32": "ca7bce9a",
+      "sha1": "5c3884719bf049f9110a6641ca8e568ddaa32e71"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49a95620a2099a0b227a26d2e15eb8d6347e1b69",
-      "mtime": "1666913949",
-      "size": "427913",
-      "md5": "a68d2dcd4940c967e82c349481fe3f86",
-      "crc32": "37591d34",
-      "sha1": "b366bb866fdbd2887ff27a1483f0bf0d7d99e682",
+      "btih": "6c3729a165c51588be19d15a2b9ed73716a6494c",
+      "mtime": "1666915383",
+      "size": "428121",
+      "md5": "f5e8e9bbc451b8553bd8ed193219187b",
+      "crc32": "fd77b2de",
+      "sha1": "9109da9d5596a11e8af5efd88b9c368013f4a2ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb99f015213b50bead2a7942349981a2",
+      "md5": "f949975d88ca5961d495b18cf2296027",
       "summation": "md5"
     },
     {
@@ -20727,9 +20738,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1990,
-  "item_last_updated": 1666913949,
-  "item_size": 169030641,
+  "files_count": 1991,
+  "item_last_updated": 1666915383,
+  "item_size": 169040542,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -20746,21 +20757,10 @@
     "publicdate": "2022-03-23 02:08:59",
     "addeddate": "2022-03-23 02:08:59"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454572308,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1406027767,
+  "uniq": 219882241,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

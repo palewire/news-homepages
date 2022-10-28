@@ -1,5 +1,5 @@
 {
-  "created": 1666887250,
+  "created": 1666916190,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/22/items/thetimes-2022",
@@ -29927,21 +29927,32 @@
       "format": "JSON"
     },
     {
+      "name": "thetimes-2022-10-27T16:13:47.293008+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetimes-2022-10-27T16:13:47.293008+01:00.jpg",
+      "mtime": "1666895946",
+      "size": "9897",
+      "md5": "79b476588e1fd5c00692f778722a61e8",
+      "crc32": "cb929f12",
+      "sha1": "9bd36995987fe4e128ef5c2f3b14257a44a055e7"
+    },
+    {
       "name": "thetimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2a395c29656d68883d44a591dd0f62072bbe8c22",
-      "mtime": "1666883810",
-      "size": "610160",
-      "md5": "583ad059d3fcaf73084ac7a8b514b46a",
-      "crc32": "82e79de3",
-      "sha1": "b1d22f405f7ffa990c0dcbae39c61d2d487c88f6",
+      "btih": "6ce0456f2330a493f178eeff581db9fadc631758",
+      "mtime": "1666896015",
+      "size": "610364",
+      "md5": "e7aa19d1b57050b7ef3d90da3638a9c3",
+      "crc32": "9c952a14",
+      "sha1": "d45d833afb8a24cc81c6731410c44e01709d69ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c30fed76ea8cff2e427fcf0994904e4",
+      "md5": "5a3cf0c19df1a4966ece6383b4dc64d5",
       "summation": "md5"
     },
     {
@@ -29965,9 +29976,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2878,
-  "item_last_updated": 1666883810,
-  "item_size": 303823755,
+  "files_count": 2879,
+  "item_last_updated": 1666896015,
+  "item_size": 303833856,
   "metadata": {
     "identifier": "thetimes-2022",
     "collection": [
@@ -29984,21 +29995,10 @@
     "publicdate": "2022-03-23 08:04:21",
     "addeddate": "2022-03-23 08:04:21"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454199816,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 266623556,
+  "server": "ia802508.us.archive.org",
+  "uniq": 156474455,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

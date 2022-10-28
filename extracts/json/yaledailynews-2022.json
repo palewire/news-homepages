@@ -1,5 +1,5 @@
 {
-  "created": 1666900724,
+  "created": 1666920249,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/33/items/yaledailynews-2022",
@@ -5441,21 +5441,32 @@
       "format": "JSON"
     },
     {
+      "name": "yaledailynews-2022-10-27T15:57:10.300897-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yaledailynews-2022-10-27T15:57:10.300897-04:00.jpg",
+      "mtime": "1666907986",
+      "size": "9285",
+      "md5": "983f11a521546d686a1398ec1cf67bc3",
+      "crc32": "a6708f6e",
+      "sha1": "003bd1731164cf97f6b26b6e55756cd2fff663ca"
+    },
+    {
       "name": "yaledailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "65906f122b98fe48422e05c611872b8f4f17732f",
-      "mtime": "1666900700",
-      "size": "114508",
-      "md5": "8693eabcd6f925684dec1a825062c379",
-      "crc32": "27e8e61d",
-      "sha1": "641def6ff415f11216773197f4ae2f8e343ab3b3",
+      "btih": "b5433e95fbff4ce171c95a4af9a45ec71395902d",
+      "mtime": "1666907992",
+      "size": "114717",
+      "md5": "c88c457f31874a02ff0e4ad832c66965",
+      "crc32": "7d5d386c",
+      "sha1": "7c8e8a922d80dcda2b10e690ee59cb85995fd5a8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yaledailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e3639d9570692e3c7f18f5661f263a2",
+      "md5": "46f08ddbcb6b26260223c37205aace33",
       "summation": "md5"
     },
     {
@@ -5479,9 +5490,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 530,
-  "item_last_updated": 1666900700,
-  "item_size": 30834678,
+  "files_count": 531,
+  "item_last_updated": 1666907992,
+  "item_size": 30844172,
   "metadata": {
     "identifier": "yaledailynews-2022",
     "collection": [
@@ -5498,21 +5509,15 @@
     "publicdate": "2022-09-14 05:42:09",
     "addeddate": "2022-09-14 05:42:09"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454374209,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 579263297,
+  "uniq": 746413841,
   "workable_servers": [
-    "ia601404.us.archive.org"
-  ]
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
+  ],
+  "yaledailynews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }

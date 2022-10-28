@@ -1,5 +1,5 @@
 {
-  "created": 1666899592,
+  "created": 1666916572,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/gbpressgazette-2022",
@@ -19279,21 +19279,32 @@
       "format": "JSON"
     },
     {
+      "name": "gbpressgazette-2022-10-27T12:58:51.434179-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gbpressgazette-2022-10-27T12:58:51.434179-05:00.jpg",
+      "mtime": "1666902839",
+      "size": "8689",
+      "md5": "62e4dd42dd17fe9f84ba338adbf4ee6b",
+      "crc32": "c79e01d1",
+      "sha1": "729501eb5ba13c16c03eebdc6650bc75afc67f5f"
+    },
+    {
       "name": "gbpressgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e85241d5bc567d064b7b01fb1cc2851e1a526934",
-      "mtime": "1666893608",
-      "size": "402359",
-      "md5": "2f08ae76750126f1b3e2874acbc1e1ba",
-      "crc32": "7ebefead",
-      "sha1": "6356c9c4090aed2740949b1ab214c07130c0a8da",
+      "btih": "bfb1a6edc9c3bfc08b89cc32a89c0cfe1b667e65",
+      "mtime": "1666903155",
+      "size": "402569",
+      "md5": "1bc9e9df331d1dbaddb760a4868db174",
+      "crc32": "89ab9ce6",
+      "sha1": "f853b72cd48c915347e53d4d942a09eeb97f4687",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gbpressgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58bd7b06974f2a19aeeb5c12afd1a299",
+      "md5": "7af59f915cffffa1624a2ac56c347055",
       "summation": "md5"
     },
     {
@@ -19317,7 +19328,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1856,
+  "files_count": 1857,
   "gbpressgazette-2022": {
     "url": "https://www.greenbaypressgazette.com/",
     "job_id": "spn2-811fa352a4ae8122d8f62973319a98c160662386",
@@ -19680,8 +19691,8 @@
     "duration_sec": 28.714,
     "screenshot": "http://web.archive.org/screenshot/https://www.greenbaypressgazette.com/"
   },
-  "item_last_updated": 1666893608,
-  "item_size": 141096352,
+  "item_last_updated": 1666903155,
+  "item_size": 141105251,
   "metadata": {
     "identifier": "gbpressgazette-2022",
     "collection": [
@@ -19698,21 +19709,10 @@
     "publicdate": "2022-03-23 23:06:20",
     "addeddate": "2022-03-23 23:06:20"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302872,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1232543464,
+  "server": "ia802508.us.archive.org",
+  "uniq": 1441806983,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666900827,
+  "created": 1666918334,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/onlineathens-2022",
@@ -11819,21 +11819,32 @@
       "format": "JSON"
     },
     {
+      "name": "onlineathens-2022-10-27T15:23:02.101234-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "onlineathens-2022-10-27T15:23:02.101234-04:00.jpg",
+      "mtime": "1666906517",
+      "size": "9375",
+      "md5": "5a618bdb087ef024dc2943126a26fdc7",
+      "crc32": "2162ed77",
+      "sha1": "ae1c53d1a47f874da9fee3a431a33cb006cb9785"
+    },
+    {
       "name": "onlineathens-2022_archive.torrent",
       "source": "metadata",
-      "btih": "431a33377c3cb4d44e46c6ccfab8f09c11b16457",
-      "mtime": "1666898652",
-      "size": "246269",
-      "md5": "cb9a7380f95b529f098acfc1f36e8345",
-      "crc32": "10ea17ea",
-      "sha1": "1b0c9075021c7d161cfc7f56aeabd02bd13893dc",
+      "btih": "d37c3a2bb974eb0a9173ce52e5bab935ce462fe3",
+      "mtime": "1666906559",
+      "size": "246477",
+      "md5": "751883c1e328143e87b87b744eed6de2",
+      "crc32": "6203a7f5",
+      "sha1": "6b39d52055bd809b43e63ea57513ee982d7b1b6a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "onlineathens-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "773e6dacb38bdbfd796492af25cf8d1a",
+      "md5": "210784003e52ec0b7c0d53dfa1699a95",
       "summation": "md5"
     },
     {
@@ -11857,9 +11868,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1146,
-  "item_last_updated": 1666898652,
-  "item_size": 78165296,
+  "files_count": 1147,
+  "item_last_updated": 1666906559,
+  "item_size": 78174879,
   "metadata": {
     "identifier": "onlineathens-2022",
     "collection": [
@@ -12261,21 +12272,10 @@
     "duration_sec": 22.33,
     "timestamp": "20221027183436"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355401,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 544419559,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1601964693,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

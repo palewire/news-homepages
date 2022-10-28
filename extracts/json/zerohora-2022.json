@@ -1,5 +1,5 @@
 {
-  "created": 1666900779,
+  "created": 1666920282,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/zerohora-2022",
@@ -14945,21 +14945,32 @@
       "format": "JSON"
     },
     {
+      "name": "zerohora-2022-10-27T16:57:47.546151-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-10-27T16:57:47.546151-03:00.jpg",
+      "mtime": "1666907913",
+      "size": "10755",
+      "md5": "5d3a4d35bf33f2d42e9677372442b35d",
+      "crc32": "9506a6c2",
+      "sha1": "bf16bf872b8ad0700c6be7a0d1c72252e2c5bd00"
+    },
+    {
       "name": "zerohora-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ee67ffd0da396992ed2e9a3a4579fad7d3aa462",
-      "mtime": "1666900760",
-      "size": "305993",
-      "md5": "acd423b0c8b71528f51af10cb63c9f89",
-      "crc32": "404fabaf",
-      "sha1": "c92f6ff274853e11a636549003ea96373c8e32b0",
+      "btih": "7000058b7e92f5bd5605cc732d322b6e90d8eec6",
+      "mtime": "1666907938",
+      "size": "306198",
+      "md5": "c26c43435d16ccb8b02f69334ea8665d",
+      "crc32": "7f0452c8",
+      "sha1": "8a08dad31d5a7d408ed33464cf527b8438089171",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohora-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "81b83687d6f92beb54cd69aee9a706a7",
+      "md5": "e405cad4e702ff35e7a9e7ba7101834c",
       "summation": "md5"
     },
     {
@@ -14983,9 +14994,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1450,
-  "item_last_updated": 1666900760,
-  "item_size": 102636510,
+  "files_count": 1451,
+  "item_last_updated": 1666907938,
+  "item_size": 102647470,
   "metadata": {
     "identifier": "zerohora-2022",
     "collection": [
@@ -15002,21 +15013,15 @@
     "publicdate": "2022-08-04 04:56:36",
     "addeddate": "2022-08-04 04:56:36"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454374763,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 771560702,
+  "uniq": 1154012173,
   "workable_servers": [
-    "ia601400.us.archive.org"
-  ]
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
+  ],
+  "zerohora-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }

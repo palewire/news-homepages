@@ -1,5 +1,5 @@
 {
-  "created": 1666900601,
+  "created": 1666908016,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/14/items/thejournal_ie-2022",
@@ -11995,21 +11995,32 @@
       "format": "JSON"
     },
     {
+      "name": "thejournal_ie-2022-10-27T20:55:00.438142+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejournal_ie-2022-10-27T20:55:00.438142+01:00.jpg",
+      "mtime": "1666907965",
+      "size": "9794",
+      "md5": "7a1cbd94a957d1683eb28568aaa1ac46",
+      "crc32": "7eb6ce71",
+      "sha1": "af8d27f6773c6027e90d26b42cd3f695815f2481"
+    },
+    {
       "name": "thejournal_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72ecf688e0c9eb491f259652b550985b0f72053f",
-      "mtime": "1666900597",
-      "size": "251616",
-      "md5": "e901076e4022d568e834dec59a026d7e",
-      "crc32": "3e913eff",
-      "sha1": "f28a813dcd10ed8c1dbf0c98ba3c6151dd5f5e09",
+      "btih": "567e536b6233b41465d330400a3a53e147f0fb53",
+      "mtime": "1666907980",
+      "size": "251825",
+      "md5": "526f62f90715a40d226869399c752a7f",
+      "crc32": "60615837",
+      "sha1": "c47d6e06b013a664e8d566086267bd04915008f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejournal_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d6aedbbf00dda07a0c851f3a641ea57",
+      "md5": "33fcc63575dfba2a4008100448164e03",
       "summation": "md5"
     },
     {
@@ -12033,9 +12044,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1163,
-  "item_last_updated": 1666900597,
-  "item_size": 94122683,
+  "files_count": 1164,
+  "item_last_updated": 1666907980,
+  "item_size": 94132686,
   "metadata": {
     "identifier": "thejournal_ie-2022",
     "collection": [
@@ -12052,21 +12063,10 @@
     "publicdate": "2022-07-18 04:17:36",
     "addeddate": "2022-07-18 04:17:36"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372858,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 508995576,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1388333963,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

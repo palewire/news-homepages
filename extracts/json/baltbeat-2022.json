@@ -1,5 +1,5 @@
 {
-  "created": 1666886933,
+  "created": 1666897480,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/30/items/baltbeat-2022",
@@ -12625,21 +12625,32 @@
       "format": "JSON"
     },
     {
+      "name": "baltbeat-2022-10-27T12:07:39.959954-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbeat-2022-10-27T12:07:39.959954-04:00.jpg",
+      "mtime": "1666897441",
+      "size": "10576",
+      "md5": "8374b7cbac7054cd8334053aa6c60fa5",
+      "crc32": "10f92a8a",
+      "sha1": "09099b4d889d76cff68d5c2b7fdfc8a2b2414273"
+    },
+    {
       "name": "baltbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08d93c121138912f962697bfd727487ec5e5aa87",
-      "mtime": "1666886928",
-      "size": "257080",
-      "md5": "869a36ba37db93c346dc461a06887e8a",
-      "crc32": "8c4077e5",
-      "sha1": "662e08b3b15d236f9282244d795d8372416761ae",
+      "btih": "32e2025a62f236b49b2f5be5ff437c206c3c81f7",
+      "mtime": "1666897457",
+      "size": "257285",
+      "md5": "2bb6e18be6b380dd5f383e5a476cbbac",
+      "crc32": "2d8e4802",
+      "sha1": "82bcf0e3ce55e330dbf2ef90dabb7c28d529e419",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2939b13282446d795678011401b8fa5",
+      "md5": "6bf642171aeef7483662b4d861bddde5",
       "summation": "md5"
     },
     {
@@ -12663,9 +12674,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1223,
-  "item_last_updated": 1666886928,
-  "item_size": 69490767,
+  "files_count": 1224,
+  "item_last_updated": 1666897457,
+  "item_size": 69501548,
   "metadata": {
     "identifier": "baltbeat-2022",
     "collection": [
@@ -12682,21 +12693,10 @@
     "publicdate": "2022-07-13 02:24:28",
     "addeddate": "2022-07-13 02:24:28"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454235577,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1888713365,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1074841890,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883716,
+  "created": 1666918727,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/25/items/recordpub-2022",
@@ -4553,21 +4553,32 @@
       "format": "JSON"
     },
     {
+      "name": "recordpub-2022-10-27T10:18:31.842799-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "recordpub-2022-10-27T10:18:31.842799-04:00.jpg",
+      "mtime": "1666893672",
+      "size": "9710",
+      "md5": "4be9e47363d5167b056e4b9f975a774d",
+      "crc32": "25f8ad00",
+      "sha1": "453858a8ae0c46eb78260e1ec8be1a31bca11bf4"
+    },
+    {
       "name": "recordpub-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f37d143b2934aa71439e36269eeaa96ee91c6ac1",
-      "mtime": "1666880378",
-      "size": "94331",
-      "md5": "8c9c7d3700dbe9dd9baa64626f589421",
-      "crc32": "9dc96268",
-      "sha1": "6e15835491f8072630477db868ddc7a2475eb0a5",
+      "btih": "92d64b2c5da0b9c6d80bc1d059fe08713ec76b94",
+      "mtime": "1666893685",
+      "size": "94536",
+      "md5": "8ad78097b83c6c712bb635cdfa4f4950",
+      "crc32": "da81d18b",
+      "sha1": "0cbdaf2a01888078ce80834222e61476e35ddd5f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "recordpub-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "051c649ce6fcc2a21cea09ba8609bfd5",
+      "md5": "1a9408a92e806a25ff542df2deb06423",
       "summation": "md5"
     },
     {
@@ -4591,9 +4602,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 444,
-  "item_last_updated": 1666880378,
-  "item_size": 28848128,
+  "files_count": 445,
+  "item_last_updated": 1666893685,
+  "item_size": 28858043,
   "metadata": {
     "identifier": "recordpub-2022",
     "collection": [
@@ -4610,26 +4621,15 @@
     "publicdate": "2022-09-21 02:24:22",
     "addeddate": "2022-09-21 02:24:22"
   },
-  "pending_tasks": true,
   "recordpub-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169194,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 732315804,
+  "uniq": 1581330529,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

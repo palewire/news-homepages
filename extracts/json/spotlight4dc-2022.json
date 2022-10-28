@@ -1,5 +1,5 @@
 {
-  "created": 1666886744,
+  "created": 1666919211,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/spotlight4dc-2022",
@@ -7633,21 +7633,32 @@
       "format": "JSON"
     },
     {
+      "name": "spotlight4dc-2022-10-27T11:08:13.505632-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spotlight4dc-2022-10-27T11:08:13.505632-04:00.jpg",
+      "mtime": "1666895263",
+      "size": "8411",
+      "md5": "4b8dd6c5b322d4a3752463368a8f1c2f",
+      "crc32": "7b935bc3",
+      "sha1": "5143a571a121374eab4befc0ca437b4ab18a3af9"
+    },
+    {
       "name": "spotlight4dc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e57c8afe627329f52f73aae40fd025b4c8445fd",
-      "mtime": "1666883358",
-      "size": "158825",
-      "md5": "0d8a765305d4d26761f3d0938a2de47e",
-      "crc32": "616c1c67",
-      "sha1": "48c1275656473bc2263a57ef67d38890560bacb6",
+      "btih": "7623e557f7ba877f5386f3b2958538e7127d2fa6",
+      "mtime": "1666895271",
+      "size": "159033",
+      "md5": "49f47683878f93f2fe57afe35c249ddf",
+      "crc32": "8e82e464",
+      "sha1": "9bc339df37a83270be85c648638e9743d09978c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spotlight4dc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8da2fe3b1181d6e52c97b8201bf9a3c0",
+      "md5": "a883a41c5a7e4d24e533f44802711b80",
       "summation": "md5"
     },
     {
@@ -7671,9 +7682,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 742,
-  "item_last_updated": 1666883358,
-  "item_size": 33064641,
+  "files_count": 743,
+  "item_last_updated": 1666895271,
+  "item_size": 33073260,
   "metadata": {
     "identifier": "spotlight4dc-2022",
     "collection": [
@@ -7690,9 +7701,7 @@
     "publicdate": "2022-08-26 13:01:20",
     "addeddate": "2022-08-26 13:01:20"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
+  "server": "ia801409.us.archive.org",
   "spotlight4dc-2022": {
     "url": "https://spotlightdc.org/",
     "job_id": "spn2-f0acbf716901995226d5468266df086f34086012",
@@ -7856,18 +7865,9 @@
     "duration_sec": 8.829,
     "screenshot": "http://web.archive.org/screenshot/https://spotlightdc.org/"
   },
-  "tasks": [
-    {
-      "task_id": 3454195056,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 183342422,
+  "uniq": 1093196463,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

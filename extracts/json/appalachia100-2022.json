@@ -1,5 +1,5 @@
 {
-  "created": 1666910857,
+  "created": 1666913461,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/appalachia100-2022",
@@ -13035,21 +13035,32 @@
       "format": "JSON"
     },
     {
+      "name": "appalachia100-2022-10-27T18:46:22.615290-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-10-27T18:46:22.615290-04:00.jpg",
+      "mtime": "1666913338",
+      "size": "9455",
+      "md5": "259baf89b5671e581d241dcbf2ececc5",
+      "crc32": "7bcae425",
+      "sha1": "8d7923b44a0a7a2fd5bb569598c1b783df89e63b"
+    },
+    {
       "name": "appalachia100-2022_archive.torrent",
       "source": "metadata",
-      "btih": "baf56c2af44157bd7b8b0328a32346eb66df3c97",
-      "mtime": "1666910850",
-      "size": "271774",
-      "md5": "f9af471c71a6c89505275bf2c6563be9",
-      "crc32": "397ab64b",
-      "sha1": "33dcf74eeb915c2f96526aff2ea29995dbfd7d87",
+      "btih": "f9f4fdf5a3eb8d1bbc9f0dfd93eb41b85ed2963d",
+      "mtime": "1666913361",
+      "size": "271983",
+      "md5": "15fcb5ad1b14b552036ead75e1218c62",
+      "crc32": "68056a4a",
+      "sha1": "d9357844c79e20701392094877e04671d5af652d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "appalachia100-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f63411905dd4c8caa267169ed327e47e",
+      "md5": "ce937ab28a5ad2530ad611ea2fa48976",
       "summation": "md5"
     },
     {
@@ -13073,9 +13084,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1262,
-  "item_last_updated": 1666910850,
-  "item_size": 79221047,
+  "files_count": 1263,
+  "item_last_updated": 1666913361,
+  "item_size": 79230711,
   "metadata": {
     "identifier": "appalachia100-2022",
     "collection": [
@@ -13092,21 +13103,10 @@
     "publicdate": "2022-07-09 03:55:39",
     "addeddate": "2022-07-09 03:55:39"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454507589,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1354834224,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1182079375,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666898660,
+  "created": 1666906763,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -12091,21 +12091,32 @@
       "format": "JSON"
     },
     {
+      "name": "portlandmercury-2022-10-27T12:22:49.219309-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portlandmercury-2022-10-27T12:22:49.219309-07:00.jpg",
+      "mtime": "1666906526",
+      "size": "11051",
+      "md5": "67d921630fceb86777dafe0418f7b2f0",
+      "crc32": "d9934e4e",
+      "sha1": "030b4211b948d53265626334f7792b8eed7e68f2"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bacf8abecf8d8da5c136a507146b36b16b6680e1",
-      "mtime": "1666898653",
-      "size": "256075",
-      "md5": "e5453d0275bc8e993b3166aa60b64923",
-      "crc32": "20c7cd51",
-      "sha1": "b88be95034540de747c3ec01d13f193c7f684c18",
+      "btih": "8462fb8e8016809cf64a22d7a8b9eaffadfd5e33",
+      "mtime": "1666906550",
+      "size": "256287",
+      "md5": "be34c47e5d2601683a25865385a4dfcd",
+      "crc32": "3ff17996",
+      "sha1": "4008ba97f4a9358c1ea364becf1f9dd60878a8d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c49455e24eca3c6f8d2abde15d579f1e",
+      "md5": "d7e8ecf79df10e6030e006002ae129be",
       "summation": "md5"
     },
     {
@@ -12129,9 +12140,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1174,
-  "item_last_updated": 1666898653,
-  "item_size": 77859011,
+  "files_count": 1175,
+  "item_last_updated": 1666906550,
+  "item_size": 77870274,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -12148,21 +12159,10 @@
     "publicdate": "2022-07-04 21:51:34",
     "addeddate": "2022-07-04 21:51:34"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355403,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 927160038,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1083450648,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

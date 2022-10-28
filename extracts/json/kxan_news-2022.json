@@ -1,5 +1,5 @@
 {
-  "created": 1666876721,
+  "created": 1666917229,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/26/items/kxan_news-2022",
@@ -12123,21 +12123,32 @@
       "format": "JSON"
     },
     {
+      "name": "kxan_news-2022-10-27T08:17:32.987767-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kxan_news-2022-10-27T08:17:32.987767-05:00.jpg",
+      "mtime": "1666891402",
+      "size": "10958",
+      "md5": "ece57f8836640b3370a273d09b519692",
+      "crc32": "a81ced65",
+      "sha1": "5a0acaa7d7811fde70ee5512b78f7f09d0eb2b54"
+    },
+    {
       "name": "kxan_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "237ac110cf93f7d9a2e28d2ef06cb95e64002192",
-      "mtime": "1666876717",
-      "size": "250377",
-      "md5": "62df19e26b2da87f5817f4d584bdcd72",
-      "crc32": "b8999d16",
-      "sha1": "088f859d2680a51a4c5373ae9eda30e9511f078e",
+      "btih": "c501df37243b9662be79f2fd1d39e4b236ad859e",
+      "mtime": "1666891452",
+      "size": "250583",
+      "md5": "96d753fd1477f094e2753312c6558d52",
+      "crc32": "499d985a",
+      "sha1": "685983784c52053c3cf16188902257c58f257a28",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kxan_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "43b068eb133482fb746a7b455780f97f",
+      "md5": "76fe54a44b49c59998f77058024be036",
       "summation": "md5"
     },
     {
@@ -12161,9 +12172,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1175,
-  "item_last_updated": 1666876717,
-  "item_size": 110485357,
+  "files_count": 1176,
+  "item_last_updated": 1666891452,
+  "item_size": 110496521,
+  "kxan_news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kxan_news-2022",
     "collection": [
@@ -12180,21 +12196,10 @@
     "publicdate": "2022-07-18 00:05:12",
     "addeddate": "2022-07-18 00:05:12"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454136465,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2090528577,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1648346185,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

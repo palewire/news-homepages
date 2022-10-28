@@ -1,5 +1,5 @@
 {
-  "created": 1666891225,
+  "created": 1666915938,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/chunichi_denhen-2022",
@@ -19107,21 +19107,32 @@
       "format": "JSON"
     },
     {
+      "name": "chunichi_denhen-2022-10-28T01:10:15.082157+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chunichi_denhen-2022-10-28T01:10:15.082157+09:00.jpg",
+      "mtime": "1666897575",
+      "size": "10117",
+      "md5": "c007a4ff0839e296f88fdc8502a8d3e2",
+      "crc32": "373a405a",
+      "sha1": "60abb5d4218e4bde85a8f77d2c44060973ccd127"
+    },
+    {
       "name": "chunichi_denhen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "916b8579dfaddfc0936c0d7facb6b2c0aa9a2933",
-      "mtime": "1666887120",
-      "size": "403744",
-      "md5": "25e1558f8ca270a55999e251a6b71f2e",
-      "crc32": "c5402f1a",
-      "sha1": "b7cd03d3e3b408f6d614b75863ead472ea0f99cc",
+      "btih": "610da256e9ac6beb8e8ff1e27887536d7e40b93e",
+      "mtime": "1666897625",
+      "size": "403976",
+      "md5": "2a2f33983072804ab4ad0e405c2f1820",
+      "crc32": "7ea2f7e2",
+      "sha1": "696390325541aa1d3d37cebe113c8b09a161f4a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chunichi_denhen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "33f17705f9c04a21a69c4794c110690b",
+      "md5": "5950a1838cfc6c0eee0b68c35762a41b",
       "summation": "md5"
     },
     {
@@ -19145,9 +19156,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1848,
-  "item_last_updated": 1666887120,
-  "item_size": 162926882,
+  "files_count": 1849,
+  "item_last_updated": 1666897625,
+  "item_size": 162937231,
   "metadata": {
     "identifier": "chunichi_denhen-2022",
     "collection": [
@@ -19164,21 +19175,10 @@
     "publicdate": "2022-07-09 02:39:14",
     "addeddate": "2022-07-09 02:39:14"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238518,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1700304595,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1497998637,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

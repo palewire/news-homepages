@@ -1,5 +1,5 @@
 {
-  "created": 1666886704,
+  "created": 1666919166,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/sowetanlive-2022",
@@ -8015,21 +8015,32 @@
       "format": "JSON"
     },
     {
+      "name": "sowetanlive-2022-10-27T17:07:46.462035+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-27T17:07:46.462035+02:00.jpg",
+      "mtime": "1666895338",
+      "size": "9619",
+      "md5": "a63454ed7fee809c89d68fe88e94152b",
+      "crc32": "f2f1ac94",
+      "sha1": "f5c59bfb9b1fd8dad029aae7038cdb90276088db"
+    },
+    {
       "name": "sowetanlive-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6448f86612ee009a62575810a14ce8ab678580aa",
-      "mtime": "1666883342",
-      "size": "166434",
-      "md5": "8096bcc5f4d6999c9bf4e436d54e7127",
-      "crc32": "9d960352",
-      "sha1": "fcaa923852c4d092e46caaba738b60077c8cc99c",
+      "btih": "d8104f5dc5522c1e5d605d5c36a22e9a7d7b7a8c",
+      "mtime": "1666895347",
+      "size": "166641",
+      "md5": "bde2ca94cff37bf9e6cf1a59b1ef8207",
+      "crc32": "66d8a0dc",
+      "sha1": "79a5e5d52536db52a31b27afc68e1a26ef3e9dee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sowetanlive-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87d303119415b81aa9bb409c595ea2e3",
+      "md5": "bdc51c3e1538ef50f837e545ff4c783d",
       "summation": "md5"
     },
     {
@@ -8053,9 +8064,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 779,
-  "item_last_updated": 1666883342,
-  "item_size": 44688080,
+  "files_count": 780,
+  "item_last_updated": 1666895347,
+  "item_size": 44697906,
   "metadata": {
     "identifier": "sowetanlive-2022",
     "collection": [
@@ -8072,9 +8083,7 @@
     "publicdate": "2022-08-23 12:56:55",
     "addeddate": "2022-08-23 12:56:55"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
+  "server": "ia801508.us.archive.org",
   "sowetanlive-2022": {
     "url": "https://www.sowetanlive.co.za/",
     "job_id": "spn2-e5362e988ea44171a2bff5c9bc778f9211f2a84c",
@@ -8365,18 +8374,9 @@
     "duration_sec": 39.073,
     "screenshot": "http://web.archive.org/screenshot/https://www.sowetanlive.co.za/"
   },
-  "tasks": [
-    {
-      "task_id": 3454194874,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1189578335,
+  "uniq": 1680910547,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

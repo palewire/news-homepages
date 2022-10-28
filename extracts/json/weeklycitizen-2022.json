@@ -1,5 +1,5 @@
 {
-  "created": 1666887089,
+  "created": 1666920050,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/weeklycitizen-2022",
@@ -4593,21 +4593,32 @@
       "format": "JSON"
     },
     {
+      "name": "weeklycitizen-2022-10-27T11:10:27.423159-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-27T11:10:27.423159-05:00.jpg",
+      "mtime": "1666897530",
+      "size": "8912",
+      "md5": "c29e14842b9f54a5b4055b9a908310dc",
+      "crc32": "391e5295",
+      "sha1": "9b622a98fea5f8a7c23d08d9e033177a3829787a"
+    },
+    {
       "name": "weeklycitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce5298355aa40211ed322308941c138337320f51",
-      "mtime": "1666887086",
-      "size": "97003",
-      "md5": "af6db87050a0b5d1adde8a66b37c6b76",
-      "crc32": "71b9c54e",
-      "sha1": "00d213bd9beb7dd60191f5825b286682ae50b4e5",
+      "btih": "430cdb06d393aab0eee2b42e2a1cf308f457da47",
+      "mtime": "1666897536",
+      "size": "97212",
+      "md5": "aa5fc6d5d9128ee7a6bc995e35ccb93b",
+      "crc32": "6a652e83",
+      "sha1": "116bd4b12443f63cf6e8136f8c79d7dfad58a2c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weeklycitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4fdbfc2a714189afc21560bfa8ecb6e6",
+      "md5": "e6f2c536095ceb84953c91114ac674e6",
       "summation": "md5"
     },
     {
@@ -4631,9 +4642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666887086,
-  "item_size": 28760643,
+  "files_count": 449,
+  "item_last_updated": 1666897536,
+  "item_size": 28769764,
   "metadata": {
     "identifier": "weeklycitizen-2022",
     "collection": [
@@ -4650,21 +4661,15 @@
     "publicdate": "2022-09-21 04:40:52",
     "addeddate": "2022-09-21 04:40:52"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454237984,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 83079152,
+  "uniq": 1772876733,
+  "weeklycitizen-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

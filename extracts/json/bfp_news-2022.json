@@ -348,8 +348,7 @@
     "duration_sec": 9.912,
     "timestamp": "20221027155810"
   },
-  "conflict": 1666890911,
-  "created": 1666890911,
+  "created": 1666915713,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/bfp_news-2022",
@@ -4923,21 +4922,32 @@
       "format": "JSON"
     },
     {
+      "name": "bfp_news-2022-10-27T12:07:48.653485-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bfp_news-2022-10-27T12:07:48.653485-04:00.jpg",
+      "mtime": "1666897514",
+      "size": "9269",
+      "md5": "7e7229e6db9740adeef03ebfdeba7a05",
+      "crc32": "14dd1b09",
+      "sha1": "df6e8327cf63e0eacc6e54c272c9767e3db4fc9b"
+    },
+    {
       "name": "bfp_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4e4e0d11e21d2076d928ab6b25e15eb30fe1d4fa",
-      "mtime": "1666886949",
-      "size": "94367",
-      "md5": "d58db8c20669d7f084fdcfc2ed5222e7",
-      "crc32": "94cc7521",
-      "sha1": "b0c9c1b8d8a9a339001b653b43aa51ef53980d54",
+      "btih": "cd9db832b424eb744f129e1d3762752098f87be5",
+      "mtime": "1666897547",
+      "size": "94571",
+      "md5": "f763223cb02cebe499cf9f54f76c34bd",
+      "crc32": "b86ce3ed",
+      "sha1": "3a11bb35887ea17e89a40b0d174151d3846bca1b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bfp_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f39e58c2231b97d5d939f2aa6a17b7c",
+      "md5": "b9a585d30b09249f700a8a758b2a3f1d",
       "summation": "md5"
     },
     {
@@ -4961,9 +4971,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1666886949,
-  "item_size": 29562361,
+  "files_count": 447,
+  "item_last_updated": 1666897547,
+  "item_size": 29571834,
   "metadata": {
     "identifier": "bfp_news-2022",
     "collection": [
@@ -4980,21 +4990,10 @@
     "publicdate": "2022-09-21 04:39:40",
     "addeddate": "2022-09-21 04:39:40"
   },
-  "pending_tasks": true,
   "server": "ia801403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454236001,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 161516490,
+  "uniq": 178418977,
   "workable_servers": [
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }

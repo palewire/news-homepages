@@ -1,5 +1,5 @@
 {
-  "created": 1666883513,
+  "created": 1666919449,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/8/items/thecut-2022",
@@ -9017,21 +9017,32 @@
       "format": "JSON"
     },
     {
+      "name": "thecut-2022-10-27T11:10:32.843494-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecut-2022-10-27T11:10:32.843494-04:00.jpg",
+      "mtime": "1666895490",
+      "size": "7992",
+      "md5": "5be29d21261a7060ee8f581bf0af3f3a",
+      "crc32": "5640b272",
+      "sha1": "7d718e73c8584f1283d7bfe2cb3f71b89873d5a8"
+    },
+    {
       "name": "thecut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9873a07dfbc401fb24cbe05a464640a8663b0a45",
-      "mtime": "1666883505",
-      "size": "182754",
-      "md5": "603674adad792f41fa6689838919aa65",
-      "crc32": "b794ff05",
-      "sha1": "e0734b00e367ac2b6b138768c6f4ec2c562b0d21",
+      "btih": "59bb20e47c0c5e3cf9f66e93352fbdcb63dc6549",
+      "mtime": "1666895522",
+      "size": "182956",
+      "md5": "b14264ea0b7516ab2a3ebd17e60f24ab",
+      "crc32": "790ce504",
+      "sha1": "38884bcb8208259f2fa37daae353139b3b26188e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bbd28c4a3c15fac818d2864263c925a4",
+      "md5": "5891c272df9c500229444e534ba0907c",
       "summation": "md5"
     },
     {
@@ -9055,9 +9066,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 876,
-  "item_last_updated": 1666883505,
-  "item_size": 51949718,
+  "files_count": 877,
+  "item_last_updated": 1666895522,
+  "item_size": 51957912,
   "metadata": {
     "identifier": "thecut-2022",
     "collection": [
@@ -9074,21 +9085,15 @@
     "publicdate": "2022-08-14 20:19:12",
     "addeddate": "2022-08-14 20:19:12"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454196798,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2064005676,
+  "server": "ia801407.us.archive.org",
+  "thecut-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 549464392,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

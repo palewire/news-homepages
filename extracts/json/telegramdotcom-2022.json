@@ -1,5 +1,5 @@
 {
-  "created": 1666900372,
+  "created": 1666917872,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/telegramdotcom-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "telegramdotcom-2022-10-27T15:51:45.683272-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegramdotcom-2022-10-27T15:51:45.683272-04:00.jpg",
+      "mtime": "1666907619",
+      "size": "9224",
+      "md5": "87d13e6e007a4aee3b071b59db0e1b71",
+      "crc32": "fdcf5ab5",
+      "sha1": "12dff8f25296ca8d07b74aba866a6b08f10f09f8"
+    },
+    {
       "name": "telegramdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1001a878373c0665f08f8de3715230c629e09f40",
-      "mtime": "1666900367",
-      "size": "98908",
-      "md5": "26f1d8cf711b137ca6847b65ca29ba7a",
-      "crc32": "148dafa3",
-      "sha1": "9906e294ff426237cbeb3f53c93589ce38d30719",
+      "btih": "4bcef54a1115d55f7815a9bb7ccbae2b5120fdc0",
+      "mtime": "1666907650",
+      "size": "99118",
+      "md5": "8243e9f3e5459da04d615f5208913ff2",
+      "crc32": "4534783b",
+      "sha1": "cdf78616152d2860aca8e00459ed11f153608859",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegramdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "805ec1ee60269498412f98332f24e012",
+      "md5": "bf0426fb63974bfb2de0081572017c4a",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666900367,
-  "item_size": 32453057,
+  "files_count": 455,
+  "item_last_updated": 1666907650,
+  "item_size": 32462491,
   "metadata": {
     "identifier": "telegramdotcom-2022",
     "collection": [
@@ -4712,21 +4723,10 @@
     "publicdate": "2022-09-20 19:29:58",
     "addeddate": "2022-09-20 19:29:58"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454370675,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 242973535,
+  "server": "ia801501.us.archive.org",
+  "uniq": 154583403,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

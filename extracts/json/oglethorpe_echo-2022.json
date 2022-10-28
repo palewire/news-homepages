@@ -1,5 +1,5 @@
 {
-  "created": 1666898506,
+  "created": 1666918301,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/1/items/oglethorpe_echo-2022",
@@ -7611,21 +7611,32 @@
       "format": "JSON"
     },
     {
+      "name": "oglethorpe_echo-2022-10-27T15:20:36.938263-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oglethorpe_echo-2022-10-27T15:20:36.938263-04:00.jpg",
+      "mtime": "1666907305",
+      "size": "9357",
+      "md5": "166c91287070a7c9e52c42366648e1d1",
+      "crc32": "432ecbfb",
+      "sha1": "b5f1d05ee10c34545e392faa1e8b08cc3bd17203"
+    },
+    {
       "name": "oglethorpe_echo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "955460025cd4ab9b802944486e25129cb9c3aa5b",
-      "mtime": "1666898498",
-      "size": "161165",
-      "md5": "8517839b99afcf64a774edc9a5dc0613",
-      "crc32": "0531cf9d",
-      "sha1": "89d0d8821593e539b66787e9aef4d8bf0b95b104",
+      "btih": "51c9242deed4475f3558c5383ac77ae7819b183c",
+      "mtime": "1666907314",
+      "size": "161376",
+      "md5": "56a416a578e228b6248f0411d0d1eafc",
+      "crc32": "f110833d",
+      "sha1": "32324e3a00facaa110dd52b8512d20ea0fcec929",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oglethorpe_echo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4781b0472ccb9e7c0c9e0389e6aed10d",
+      "md5": "7f9476cbf6bfb58606bf7f3db73076e5",
       "summation": "md5"
     },
     {
@@ -7649,9 +7660,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 740,
-  "item_last_updated": 1666898498,
-  "item_size": 45360928,
+  "files_count": 741,
+  "item_last_updated": 1666907314,
+  "item_size": 45370496,
   "metadata": {
     "identifier": "oglethorpe_echo-2022",
     "collection": [
@@ -7668,21 +7679,15 @@
     "publicdate": "2022-08-26 15:03:05",
     "addeddate": "2022-08-26 15:03:05"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454353909,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 285267460,
+  "oglethorpe_echo-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801409.us.archive.org",
+  "uniq": 195787381,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883815,
+  "created": 1666918953,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/scsunnews-2022",
@@ -4573,21 +4573,32 @@
       "format": "JSON"
     },
     {
+      "name": "scsunnews-2022-10-27T08:18:38.001016-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scsunnews-2022-10-27T08:18:38.001016-06:00.jpg",
+      "mtime": "1666893686",
+      "size": "8540",
+      "md5": "a8adbc970ae8fe72f076171f4cb822eb",
+      "crc32": "d396126b",
+      "sha1": "325b5f92f682a1ab8c7cf4a67fddb6bff2e53ff7"
+    },
+    {
       "name": "scsunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9614ff36cb739f0b7746d899829fe2200cc36dad",
-      "mtime": "1666880378",
-      "size": "94751",
-      "md5": "06ac03ce495992fb8eb0bd4020a8df23",
-      "crc32": "ac135e88",
-      "sha1": "1363b534a3d2894b6abe4ef791ea5d638301edb0",
+      "btih": "6be19e028e8dc2ee70a9541878c907594a680aba",
+      "mtime": "1666893731",
+      "size": "94956",
+      "md5": "5c2407ce028699dbacb4dbc5c33aabde",
+      "crc32": "9af07aa3",
+      "sha1": "390f9c2c238951febc0690d6dda8dac7918809f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scsunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "48af4500fc3b74f7e22a3f15ef8f6b3a",
+      "md5": "e791e7c45dac2837439cf734c672328d",
       "summation": "md5"
     },
     {
@@ -4611,9 +4622,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1666880378,
-  "item_size": 28220055,
+  "files_count": 447,
+  "item_last_updated": 1666893731,
+  "item_size": 28228800,
   "metadata": {
     "identifier": "scsunnews-2022",
     "collection": [
@@ -4630,7 +4641,6 @@
     "publicdate": "2022-09-21 02:24:53",
     "addeddate": "2022-09-21 02:24:53"
   },
-  "pending_tasks": true,
   "scsunnews-2022": {
     "url": "https://www.scsun-news.com/",
     "job_id": "spn2-1bd7e633901f98b68fffdcf63b9404b5869c1934",
@@ -5110,20 +5120,10 @@
     "duration_sec": 16.677,
     "screenshot": "http://web.archive.org/screenshot/https://www.scsun-news.com/"
   },
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169217,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 299716967,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1713332425,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

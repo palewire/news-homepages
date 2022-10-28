@@ -1,5 +1,5 @@
 {
-  "created": 1666899497,
+  "created": 1666916519,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/14/items/gardner_news-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "gardner_news-2022-10-27T13:58:53.626577-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gardner_news-2022-10-27T13:58:53.626577-04:00.jpg",
+      "mtime": "1666902863",
+      "size": "9291",
+      "md5": "1384f20d765a41765075b0f257fa6950",
+      "crc32": "69876f1b",
+      "sha1": "365cf7a48702d2d4afb66925e0351c1a3cd5e5dd"
+    },
+    {
       "name": "gardner_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ee9a56a526d2fd300b5d0e35e876f04465e7fe6",
-      "mtime": "1666893590",
-      "size": "97838",
-      "md5": "fab985589d4dc18459c3391c43136a92",
-      "crc32": "64990e9e",
-      "sha1": "726ef742e1642ee7d542e6c1bd222e78162d3968",
+      "btih": "a46f092670f99b16f348fd862ac4777a55ae1833",
+      "mtime": "1666902923",
+      "size": "98046",
+      "md5": "09d7121a61350d335964b8939a67f491",
+      "crc32": "dd4fca4f",
+      "sha1": "c49045ffcb5fd8ae7cf91b416098777c5f32e13e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gardner_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "593242cb72bd0d3128b9108c8dde501f",
+      "md5": "bebc81d7062a840115c6f629bdfcf1b5",
       "summation": "md5"
     },
     {
@@ -4693,14 +4704,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
+  "files_count": 455,
   "gardner_news-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "item_last_updated": 1666893590,
-  "item_size": 29443928,
+  "item_last_updated": 1666902923,
+  "item_size": 29453427,
   "metadata": {
     "identifier": "gardner_news-2022",
     "collection": [
@@ -4717,21 +4728,10 @@
     "publicdate": "2022-09-20 17:51:52",
     "addeddate": "2022-09-20 17:51:52"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302679,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1128340208,
+  "uniq": 1449219103,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

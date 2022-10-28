@@ -1,5 +1,5 @@
 {
-  "created": 1666900600,
+  "created": 1666907810,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/theledger-2022",
@@ -4633,21 +4633,32 @@
       "format": "JSON"
     },
     {
+      "name": "theledger-2022-10-27T15:55:43.383969-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theledger-2022-10-27T15:55:43.383969-04:00.jpg",
+      "mtime": "1666907785",
+      "size": "9277",
+      "md5": "fe90a5aec262f43772950c04aef19db4",
+      "crc32": "456318ce",
+      "sha1": "ff13d040fc0b4cb49160d9606ca7e880a73e96b3"
+    },
+    {
       "name": "theledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f6f307dfef6f6b4707171924c192c726daf2e40a",
-      "mtime": "1666900595",
-      "size": "96133",
-      "md5": "be4d48edd31716b8c300339c5948da07",
-      "crc32": "595b03f6",
-      "sha1": "7b9fcc3697cbbf48af1c6377d9970eb68b6272ed",
+      "btih": "1d48f7f2a407ffcfe6de8eda2127293da5f3f763",
+      "mtime": "1666907794",
+      "size": "96338",
+      "md5": "80ba9b0945d6ab290f45964db14ec2c5",
+      "crc32": "629b48b2",
+      "sha1": "6044ecb363bcd8753f27a676a59a5049375025a1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "54b1b874648b48e5b73c9d22e7ab5ee8",
+      "md5": "cb60879cfe80c87c225457e3db462c6d",
       "summation": "md5"
     },
     {
@@ -4671,9 +4682,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1666900595,
-  "item_size": 30771716,
+  "files_count": 453,
+  "item_last_updated": 1666907794,
+  "item_size": 30781198,
   "metadata": {
     "identifier": "theledger-2022",
     "collection": [
@@ -4690,21 +4701,10 @@
     "publicdate": "2022-09-20 19:30:14",
     "addeddate": "2022-09-20 19:30:14"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372845,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1788253475,
+  "server": "ia801408.us.archive.org",
+  "uniq": 198700283,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

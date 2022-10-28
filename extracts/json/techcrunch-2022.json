@@ -1,5 +1,5 @@
 {
-  "created": 1666900643,
+  "created": 1666908132,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/techcrunch-2022",
@@ -15997,21 +15997,32 @@
       "format": "JSON"
     },
     {
+      "name": "techcrunch-2022-10-27T12:54:57.604419-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-10-27T12:54:57.604419-07:00.jpg",
+      "mtime": "1666907828",
+      "size": "8707",
+      "md5": "36ea61587d232736f7039cfd305d2a83",
+      "crc32": "c263cd66",
+      "sha1": "0c985b990121cc5951b397d3fd570abcb0511b10"
+    },
+    {
       "name": "techcrunch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae1f61d7a75bd3be8f994f1f487157edd46b1d33",
-      "mtime": "1666900626",
-      "size": "327701",
-      "md5": "d5902d5ce7d78b12327afee6ba98ba50",
-      "crc32": "273205f0",
-      "sha1": "e42163f2d86b15b4a584e493083238393fd3af0c",
+      "btih": "de8ec62c2e1f6a355e75024eff67e07f4650b4af",
+      "mtime": "1666907980",
+      "size": "327907",
+      "md5": "f8d4e3795dcce99bedff06aee4396b1f",
+      "crc32": "3f62c0d8",
+      "sha1": "81659f302f79574ee7149e86161b865600c5dfc6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techcrunch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3eb4cc8a9b4f25d560f1edaaf0e0fa3",
+      "md5": "8e3d4402dab918a310bfdf127a6dc298",
       "summation": "md5"
     },
     {
@@ -16035,9 +16046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1544,
-  "item_last_updated": 1666900626,
-  "item_size": 91539108,
+  "files_count": 1545,
+  "item_last_updated": 1666907980,
+  "item_size": 91548021,
   "metadata": {
     "identifier": "techcrunch-2022",
     "collection": [
@@ -16054,21 +16065,10 @@
     "publicdate": "2022-06-24 23:01:49",
     "addeddate": "2022-06-24 23:01:49"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454373208,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1649811445,
+  "server": "ia801505.us.archive.org",
+  "uniq": 58516376,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

@@ -1,8 +1,13 @@
 {
-  "created": 1666893378,
+  "created": 1666916296,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/5/items/dnj_com-2022",
+  "dnj_com-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4655,21 +4660,32 @@
       "format": "JSON"
     },
     {
+      "name": "dnj_com-2022-10-27T12:55:10.021330-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dnj_com-2022-10-27T12:55:10.021330-05:00.jpg",
+      "mtime": "1666902605",
+      "size": "9789",
+      "md5": "2406518d2dcc3728bbc526c705944b20",
+      "crc32": "11623bef",
+      "sha1": "c709fb8b4d0630ef1c86d11a3a4522e6f7ac1bde"
+    },
+    {
       "name": "dnj_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "446e48fa368c75367cf52544719f599805854c8c",
-      "mtime": "1666893371",
-      "size": "95551",
-      "md5": "9e982243b56ad4d0aac1f584a863e9bd",
-      "crc32": "c88033ae",
-      "sha1": "6df06d018171286b98c3e697be014574bd588977",
+      "btih": "b4c3015aa54770aac49ba6bbf2fbf5151bd4423a",
+      "mtime": "1666902682",
+      "size": "95754",
+      "md5": "5bab6c874a060970c7bb0de37e04e956",
+      "crc32": "1f08d2ba",
+      "sha1": "625991084cd9eb1dd0fc7d183af887a360dccd1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dnj_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c52e523c09ca5611e9dea00ac8f9f602",
+      "md5": "78bce2f78e52dd915a972961a6a66789",
       "summation": "md5"
     },
     {
@@ -4693,9 +4709,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666893371,
-  "item_size": 29618668,
+  "files_count": 455,
+  "item_last_updated": 1666902682,
+  "item_size": 29628660,
   "metadata": {
     "identifier": "dnj_com-2022",
     "collection": [
@@ -4712,21 +4728,10 @@
     "publicdate": "2022-09-20 17:49:24",
     "addeddate": "2022-09-20 17:49:24"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300650,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1333085992,
+  "server": "ia801502.us.archive.org",
+  "uniq": 370412545,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

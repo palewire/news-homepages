@@ -1,5 +1,5 @@
 {
-  "created": 1666890015,
+  "created": 1666920041,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/13/items/wdrbnews-2022",
@@ -10701,21 +10701,32 @@
       "format": "JSON"
     },
     {
+      "name": "wdrbnews-2022-10-27T12:10:53.668945-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wdrbnews-2022-10-27T12:10:53.668945-04:00.jpg",
+      "mtime": "1666898152",
+      "size": "11458",
+      "md5": "49c3b9d21cf1076f7ce2ca6e940cd96e",
+      "crc32": "122de065",
+      "sha1": "0ce2b302456a19358b8d40b05875d9af0e9c681d"
+    },
+    {
       "name": "wdrbnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04ad98b2555de70871bee4cb5f2c387dcedc5e0d",
-      "mtime": "1666887131",
-      "size": "219802",
-      "md5": "72914ae3b338dcc71cfac0263dd0dd13",
-      "crc32": "bd4322dd",
-      "sha1": "053002f5d705fc11f042ee80247d0e6ff8b9da3b",
+      "btih": "ca423cf20527960c6cf3bdf3e98ee0637222fea5",
+      "mtime": "1666898163",
+      "size": "220007",
+      "md5": "3cf8662c76b0564b9dfc1c373915a3d3",
+      "crc32": "baf51ea5",
+      "sha1": "2dcd13b7b66534f7f885a75456b9e203bccc9ca7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wdrbnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "54a5a48835df8c4c6c39f68939b7a2e1",
+      "md5": "82434caab9e2c825047fcfada2749035",
       "summation": "md5"
     },
     {
@@ -10739,9 +10750,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1039,
-  "item_last_updated": 1666887131,
-  "item_size": 84761756,
+  "files_count": 1040,
+  "item_last_updated": 1666898163,
+  "item_size": 84773419,
   "metadata": {
     "identifier": "wdrbnews-2022",
     "collection": [
@@ -10758,20 +10769,8 @@
     "publicdate": "2022-08-01 06:42:05",
     "addeddate": "2022-08-01 06:42:05"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238670,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1564504689,
+  "uniq": 574949691,
   "wdrbnews-2022": {
     "url": "https://www.wdrb.com/",
     "job_id": "spn2-19fb7024086d98781565b8eeebb562e7d8bd6932",
@@ -11066,6 +11065,7 @@
     "timestamp": "20221027160122"
   },
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

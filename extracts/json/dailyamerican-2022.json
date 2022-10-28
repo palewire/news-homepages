@@ -1,5 +1,5 @@
 {
-  "created": 1666893174,
+  "created": 1666902452,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/dailyamerican-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailyamerican-2022-10-27T13:51:26.718428-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyamerican-2022-10-27T13:51:26.718428-04:00.jpg",
+      "mtime": "1666902408",
+      "size": "9341",
+      "md5": "4894a85af009aaf30fdebef38627b725",
+      "crc32": "07e03a63",
+      "sha1": "76484c1b33e67adb681ddb679d27c8f67ba532a9"
+    },
+    {
       "name": "dailyamerican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4e6e2a9028b24999f54881f254cdcabcdcef3776",
-      "mtime": "1666893165",
-      "size": "98483",
-      "md5": "7a7c5c21e07b85fca5a2563c1cef1366",
-      "crc32": "93c2db07",
-      "sha1": "af68383e178841458c4c673cd01386bb144daefe",
+      "btih": "e273718a717a73d3069f4b5188e933b6261b4be2",
+      "mtime": "1666902434",
+      "size": "98692",
+      "md5": "b019233df001fe0be2eaf4cdfe2f98f4",
+      "crc32": "c238f583",
+      "sha1": "ffc15a93ae12ec9b95774625f7cc9f0e349f61b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyamerican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d966ccfd3a547a0c1e484c597cb6c03e",
+      "md5": "a00a265f1d8e3d00fcd89fc5d0945407",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666893165,
-  "item_size": 32647142,
+  "files_count": 455,
+  "item_last_updated": 1666902434,
+  "item_size": 32656692,
   "metadata": {
     "identifier": "dailyamerican-2022",
     "collection": [
@@ -4712,21 +4723,10 @@
     "publicdate": "2022-09-20 17:43:40",
     "addeddate": "2022-09-20 17:43:40"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454298465,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1299945507,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1042951977,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

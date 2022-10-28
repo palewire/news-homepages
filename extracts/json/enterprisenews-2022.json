@@ -1,5 +1,5 @@
 {
-  "created": 1666893360,
+  "created": 1666902647,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/enterprisenews-2022",
@@ -4645,21 +4645,32 @@
       "format": "JSON"
     },
     {
+      "name": "enterprisenews-2022-10-27T13:55:01.703323-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-27T13:55:01.703323-04:00.jpg",
+      "mtime": "1666902599",
+      "size": "9340",
+      "md5": "ef51c59e52c6bc3d94cebc27c4045c48",
+      "crc32": "7ed6e9ed",
+      "sha1": "5301960f64fdba11e79b15659f63e12cbb1dffec"
+    },
+    {
       "name": "enterprisenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aef1508bab67a985b83602be044accac5636ae86",
-      "mtime": "1666893356",
-      "size": "98630",
-      "md5": "d1e0337676b1253d51b09878c0fcd8bd",
-      "crc32": "961e9436",
-      "sha1": "128f1b05683dcbc64dae676cbfdf0d9ffc5f2655",
+      "btih": "7d2e518cba967f212cf537e5260151afd3c8e7f4",
+      "mtime": "1666902614",
+      "size": "98840",
+      "md5": "a15ea15b84c094c7dc34fb266d41bc65",
+      "crc32": "57893d90",
+      "sha1": "88f31e487ceedbaef17230246f6ea12921051055",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enterprisenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d09f89c7198e7193351ebfa0d0938c0f",
+      "md5": "d48c7afdaf017334aef55a031c43ece8",
       "summation": "md5"
     },
     {
@@ -4683,9 +4694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666893356,
-  "item_size": 30700094,
+  "files_count": 454,
+  "item_last_updated": 1666902614,
+  "item_size": 30709644,
   "metadata": {
     "identifier": "enterprisenews-2022",
     "collection": [
@@ -4702,21 +4713,10 @@
     "publicdate": "2022-09-20 17:50:30",
     "addeddate": "2022-09-20 17:50:30"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300449,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1596109584,
+  "server": "ia801402.us.archive.org",
+  "uniq": 1240491205,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

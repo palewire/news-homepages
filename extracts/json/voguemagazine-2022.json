@@ -1,5 +1,5 @@
 {
-  "created": 1666900615,
+  "created": 1666908187,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/voguemagazine-2022",
@@ -12041,21 +12041,32 @@
       "format": "JSON"
     },
     {
+      "name": "voguemagazine-2022-10-27T15:54:42.455977-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voguemagazine-2022-10-27T15:54:42.455977-04:00.jpg",
+      "mtime": "1666908035",
+      "size": "9360",
+      "md5": "af839935c9e97d7f4529976526f4e410",
+      "crc32": "9a7100f8",
+      "sha1": "2332acb3c83ed4c3bd6a1b9a16b9144ef466ffb9"
+    },
+    {
       "name": "voguemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f56eb78a87824c45edde5c08cedf3a7c5817877",
-      "mtime": "1666900609",
-      "size": "252046",
-      "md5": "0ef0be2ce6025825e9ff9d023b342fea",
-      "crc32": "5d866256",
-      "sha1": "90d30caa04d4405ad1ad44a51263178bbde4f77d",
+      "btih": "5d4af137801c38e91b1efff898e351298e28320f",
+      "mtime": "1666908048",
+      "size": "252255",
+      "md5": "93e0b5ae331c96dedc7ee45e679a1c96",
+      "crc32": "9b3d94e2",
+      "sha1": "488e8ed7c716bdd82e15a7d2c9a94b26c13c19df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voguemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06b0a65e1234e2e0a00c327f79d71240",
+      "md5": "761e91ede9ba8a9a9b3f6add67457b5b",
       "summation": "md5"
     },
     {
@@ -12079,9 +12090,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1167,
-  "item_last_updated": 1666900609,
-  "item_size": 82954992,
+  "files_count": 1168,
+  "item_last_updated": 1666908048,
+  "item_size": 82964561,
   "metadata": {
     "identifier": "voguemagazine-2022",
     "collection": [
@@ -12098,21 +12109,10 @@
     "publicdate": "2022-07-18 04:20:39",
     "addeddate": "2022-07-18 04:20:39"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372959,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1089464439,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1565136762,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

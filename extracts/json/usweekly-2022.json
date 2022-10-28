@@ -1,5 +1,5 @@
 {
-  "created": 1666900545,
+  "created": 1666907923,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/usweekly-2022",
@@ -11939,21 +11939,32 @@
       "format": "JSON"
     },
     {
+      "name": "usweekly-2022-10-27T15:54:24.551885-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usweekly-2022-10-27T15:54:24.551885-04:00.jpg",
+      "mtime": "1666907740",
+      "size": "9448",
+      "md5": "80168a76bd1e297df92e3bdae8b0e441",
+      "crc32": "102dbf3f",
+      "sha1": "32ee7cb8146ea379196620cb45a355abee9cf61d"
+    },
+    {
       "name": "usweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e4adbc851e1c8c06491a2b15431f1b1a02d389b",
-      "mtime": "1666900534",
-      "size": "243561",
-      "md5": "51238a27a587d10ac600cbff84645769",
-      "crc32": "c19fea93",
-      "sha1": "a7730dc6ab7915cb08d3af51031e079f90a3f642",
+      "btih": "c2d985474866322c931a14d8d3d2acf7529c151d",
+      "mtime": "1666907754",
+      "size": "243765",
+      "md5": "10e711c00f73a1855da0309a1904ac28",
+      "crc32": "828984ff",
+      "sha1": "e5c28c730842acf9c5b3bc4892698812b7e54414",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72efcbf53457b2fa9570b681b6aa79c1",
+      "md5": "de1e16ec7cce5b9c9fcd80294942b694",
       "summation": "md5"
     },
     {
@@ -11977,9 +11988,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1157,
-  "item_last_updated": 1666900534,
-  "item_size": 71362576,
+  "files_count": 1158,
+  "item_last_updated": 1666907754,
+  "item_size": 71372228,
   "metadata": {
     "identifier": "usweekly-2022",
     "collection": [
@@ -11996,21 +12007,10 @@
     "publicdate": "2022-07-18 04:19:34",
     "addeddate": "2022-07-18 04:19:34"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372367,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1672091205,
+  "server": "ia801506.us.archive.org",
+  "uniq": 40719715,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

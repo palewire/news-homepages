@@ -1,5 +1,5 @@
 {
-  "created": 1666880360,
+  "created": 1666918742,
   "d1": "ia904706.us.archive.org",
   "d2": "ia804706.us.archive.org",
   "dir": "/11/items/reforma-2022",
@@ -9017,21 +9017,32 @@
       "format": "JSON"
     },
     {
+      "name": "reforma-2022-10-27T09:18:18.004400-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reforma-2022-10-27T09:18:18.004400-05:00.jpg",
+      "mtime": "1666894109",
+      "size": "10546",
+      "md5": "5ba3bca519c3e59edc38f3649e2a9426",
+      "crc32": "635c30de",
+      "sha1": "0f34c71a7188b18c846d19b5986db5016a7dc8ea"
+    },
+    {
       "name": "reforma-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d0c78e6541bb7f59c95789ee0669d56da8d49a80",
-      "mtime": "1666880354",
-      "size": "183658",
-      "md5": "99cba1dd07b166c5d92dcb573dd1131e",
-      "crc32": "8928889c",
-      "sha1": "08f19f30faeba23421028070e025e7430c7faf72",
+      "btih": "732d80413d43779bc4d4581871e817265bef2962",
+      "mtime": "1666894118",
+      "size": "183862",
+      "md5": "ba7c6cb56ce3839d694bbdaa4c66beee",
+      "crc32": "af69eb64",
+      "sha1": "a5cfb057736c29eea3878f168233d5dbed67d6bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reforma-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eb44e277d0d945eb4e27ac0349554c6a",
+      "md5": "f96ed0bccb4c2de872877b464e2a3d4a",
       "summation": "md5"
     },
     {
@@ -9055,9 +9066,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 876,
-  "item_last_updated": 1666880354,
-  "item_size": 53527245,
+  "files_count": 877,
+  "item_last_updated": 1666894118,
+  "item_size": 53537995,
   "metadata": {
     "identifier": "reforma-2022",
     "collection": [
@@ -9074,21 +9085,15 @@
     "publicdate": "2022-08-16 17:11:28",
     "addeddate": "2022-08-16 17:11:28"
   },
-  "pending_tasks": true,
-  "server": "ia904706.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454168967,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 345044446,
+  "reforma-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia804706.us.archive.org",
+  "uniq": 1494633489,
   "workable_servers": [
+    "ia804706.us.archive.org",
     "ia904706.us.archive.org"
   ]
 }

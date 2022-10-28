@@ -1,5 +1,5 @@
 {
-  "created": 1666883520,
+  "created": 1666918421,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/peninsupress-2022",
@@ -14399,21 +14399,32 @@
       "format": "JSON"
     },
     {
+      "name": "peninsupress-2022-10-27T07:15:55.803723-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "peninsupress-2022-10-27T07:15:55.803723-07:00.jpg",
+      "mtime": "1666893531",
+      "size": "8885",
+      "md5": "6a67d04f2fbc525c3121c6fd3a08bae3",
+      "crc32": "039ba1c3",
+      "sha1": "2f8ab38052e1bf4a1e51797b407eb5b99d84a2f8"
+    },
+    {
       "name": "peninsupress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7879ce120d1663f3124bf4dd78597938e80b72f5",
-      "mtime": "1666880253",
-      "size": "297144",
-      "md5": "beba6c419daa3af601bb9bd8aa661d35",
-      "crc32": "d0de842b",
-      "sha1": "27c4315646ea8083658b30957de4a48de360a56e",
+      "btih": "e149f296de1a3a988482e7c7528b22295b072592",
+      "mtime": "1666893600",
+      "size": "297352",
+      "md5": "abda1ecf09a18e6b6d850af872a63e63",
+      "crc32": "a7b52695",
+      "sha1": "1014a08c064f1013ee235f628e43a695a00e2df5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "peninsupress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "78c412fdf1297bf90142dcf71d73f489",
+      "md5": "af589523f25f2ab37054bc161687997d",
       "summation": "md5"
     },
     {
@@ -14437,9 +14448,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1392,
-  "item_last_updated": 1666880253,
-  "item_size": 56033151,
+  "files_count": 1393,
+  "item_last_updated": 1666893600,
+  "item_size": 56042244,
   "metadata": {
     "identifier": "peninsupress-2022",
     "collection": [
@@ -14456,7 +14467,6 @@
     "publicdate": "2022-06-30 20:48:32",
     "addeddate": "2022-06-30 20:48:32"
   },
-  "pending_tasks": true,
   "peninsupress-2022": {
     "url": "https://peninsulapress.com/",
     "job_id": "spn2-102f8ee1cae36c92cba0be6165c6acd20d4504a2",
@@ -14590,20 +14600,10 @@
       "https://peninsulapress.com/favicon.ico"
     ]
   },
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454168073,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 233748969,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1321229458,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

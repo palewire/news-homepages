@@ -1,5 +1,5 @@
 {
-  "created": 1666883434,
+  "created": 1666917379,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/sputnikint-2022",
@@ -18189,21 +18189,32 @@
       "format": "JSON"
     },
     {
+      "name": "sputnikint-2022-10-27T18:08:48.480189+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sputnikint-2022-10-27T18:08:48.480189+03:00.jpg",
+      "mtime": "1666895543",
+      "size": "11913",
+      "md5": "310eadb114215e527e2b890ba461c0a2",
+      "crc32": "732e24f2",
+      "sha1": "36d759b67f99308aa75c8ff3e4cd8c724b6debdb"
+    },
+    {
       "name": "sputnikint-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b032258edcca2e201002827a2bce3fe683bbdb49",
-      "mtime": "1666883420",
-      "size": "375866",
-      "md5": "c4d8d8816baf0adfc7948fa7d601faed",
-      "crc32": "28ee2877",
-      "sha1": "57a51d359a355334e15196a02a591b983645515c",
+      "btih": "297ac1eaee59b48a41f0076f7750d1acd799d63f",
+      "mtime": "1666895572",
+      "size": "376073",
+      "md5": "ce1c06a167d1fb04ea230c5d041660db",
+      "crc32": "1b697df2",
+      "sha1": "1b81d5e051466d153ea945882d8372b75bb928d3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sputnikint-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98fd49540721d527b2c7b084c68d61a2",
+      "md5": "0a8e5b39067b8e3a160c5f786a64e739",
       "summation": "md5"
     },
     {
@@ -18227,9 +18238,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1761,
-  "item_last_updated": 1666883420,
-  "item_size": 147704081,
+  "files_count": 1762,
+  "item_last_updated": 1666895572,
+  "item_size": 147716201,
   "metadata": {
     "identifier": "sputnikint-2022",
     "collection": [
@@ -18246,21 +18257,10 @@
     "publicdate": "2022-07-16 20:31:44",
     "addeddate": "2022-07-16 20:31:44"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454195740,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2062616326,
+  "server": "ia801502.us.archive.org",
+  "uniq": 151359643,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

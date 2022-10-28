@@ -1,5 +1,5 @@
 {
-  "created": 1666893152,
+  "created": 1666902594,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/coshtribune-2022",
@@ -4677,21 +4677,32 @@
       "format": "JSON"
     },
     {
+      "name": "coshtribune-2022-10-27T13:51:15.657553-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coshtribune-2022-10-27T13:51:15.657553-04:00.jpg",
+      "mtime": "1666902446",
+      "size": "9348",
+      "md5": "fcdf17d29c7d9b55f0e0a4e474834903",
+      "crc32": "db79904c",
+      "sha1": "aec48eede0a46393f9a0ee69812023a9b4d480d1"
+    },
+    {
       "name": "coshtribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "062be5ee5e969ffca26b9a96f1dc97d18d0a45ab",
-      "mtime": "1666893143",
-      "size": "97875",
-      "md5": "3e4f1ce3affdc13341b0cb4a47937d6d",
-      "crc32": "25eb5fc3",
-      "sha1": "4500340e599e9e688a3fdbb41227131f4e2cbfed",
+      "btih": "84083a4564a0e00053d3a8c6a311da1b7679f7c2",
+      "mtime": "1666902460",
+      "size": "98082",
+      "md5": "fe1f6ffd04e81d9f6de05abb575d64b4",
+      "crc32": "d2c4eb8e",
+      "sha1": "b31d67cbba5618b0596d67861cea6b55d7495876",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coshtribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ede6126d06b7f24a994929fc008cc05",
+      "md5": "388c978bfc68c7d76935e436e6317873",
       "summation": "md5"
     },
     {
@@ -4715,9 +4726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 456,
-  "item_last_updated": 1666893143,
-  "item_size": 30802455,
+  "files_count": 457,
+  "item_last_updated": 1666902460,
+  "item_size": 30812010,
   "metadata": {
     "identifier": "coshtribune-2022",
     "collection": [
@@ -4734,21 +4745,10 @@
     "publicdate": "2022-09-20 17:43:35",
     "addeddate": "2022-09-20 17:43:35"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454298206,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2073486838,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1775783565,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

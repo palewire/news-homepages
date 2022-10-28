@@ -1,5 +1,5 @@
 {
-  "created": 1666883568,
+  "created": 1666919569,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/theonion-2022",
@@ -16495,21 +16495,32 @@
       "format": "JSON"
     },
     {
+      "name": "theonion-2022-10-27T10:11:04.844360-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theonion-2022-10-27T10:11:04.844360-05:00.jpg",
+      "mtime": "1666895588",
+      "size": "10641",
+      "md5": "62d952a05a23e16d86955ea5a860f1d2",
+      "crc32": "f9bcb289",
+      "sha1": "ca54d15737f9fe702fd591b8a349817382d920ba"
+    },
+    {
       "name": "theonion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae7fb9b0c172eb7277829c7507365906a3aee43b",
-      "mtime": "1666883557",
-      "size": "334574",
-      "md5": "1b93d512f0cca76671edf205d4da181a",
-      "crc32": "45018e7b",
-      "sha1": "a5af66a62c321591e24b92e217608c88df2d043f",
+      "btih": "6e8ed5a814ec99c76f9869e0338d1ef28b564b7a",
+      "mtime": "1666895611",
+      "size": "334779",
+      "md5": "fabf51a741c14ae7d90b8bee79fcd9d9",
+      "crc32": "395411d9",
+      "sha1": "64fe8cc9932249bd0865bb9e7ce7e7e4e8614f19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theonion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "846369f1e1fe76d43b61cef711e010bd",
+      "md5": "d1c1eb5d924a4f14ff1849ef5f01ae3a",
       "summation": "md5"
     },
     {
@@ -16533,9 +16544,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1588,
-  "item_last_updated": 1666883557,
-  "item_size": 117914038,
+  "files_count": 1589,
+  "item_last_updated": 1666895611,
+  "item_size": 117924884,
   "metadata": {
     "identifier": "theonion-2022",
     "collection": [
@@ -16552,21 +16563,15 @@
     "publicdate": "2022-05-25 16:00:43",
     "addeddate": "2022-05-25 16:00:43"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454197424,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 689558523,
+  "theonion-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1348252160,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

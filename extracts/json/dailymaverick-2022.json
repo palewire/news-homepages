@@ -1,7 +1,12 @@
 {
-  "created": 1666893134,
+  "created": 1666916159,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
+  "dailymaverick-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/23/items/dailymaverick-2022",
   "files": [
     {
@@ -8251,21 +8256,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailymaverick-2022-10-27T19:50:49.419182+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailymaverick-2022-10-27T19:50:49.419182+02:00.jpg",
+      "mtime": "1666902368",
+      "size": "9671",
+      "md5": "5c1cc624f5b25b85ec6f2368fd8c88e8",
+      "crc32": "85fc40a1",
+      "sha1": "72403cbfefb3e52ea3ed26312476166942165631"
+    },
+    {
       "name": "dailymaverick-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9ab211c5dca1ab10486c531632d0ee2d74324d6c",
-      "mtime": "1666893127",
-      "size": "173631",
-      "md5": "8381be119306022cd541d3286c290dd9",
-      "crc32": "cecad8ce",
-      "sha1": "0f2201afc516c9cb9f1fa46ea963576744ad3066",
+      "btih": "c25165c5562bde14726b450a8213f60a073bf535",
+      "mtime": "1666902401",
+      "size": "173840",
+      "md5": "cd2dd8f69b989a7cda61cb9a1818e9c2",
+      "crc32": "2ace6d72",
+      "sha1": "4334c2856f3c13b41b348fe240b332203a3188d0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailymaverick-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1cc3ea06098d37d7d37db73bb2431a00",
+      "md5": "be120368dbb536864ea6a4fc7d719daa",
       "summation": "md5"
     },
     {
@@ -8289,9 +8305,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 802,
-  "item_last_updated": 1666893127,
-  "item_size": 64456069,
+  "files_count": 803,
+  "item_last_updated": 1666902401,
+  "item_size": 64465949,
   "metadata": {
     "identifier": "dailymaverick-2022",
     "collection": [
@@ -8308,21 +8324,10 @@
     "publicdate": "2022-08-22 22:03:33",
     "addeddate": "2022-08-22 22:03:33"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454298039,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1044562144,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1243956960,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

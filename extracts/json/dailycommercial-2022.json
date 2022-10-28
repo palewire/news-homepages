@@ -1,5 +1,5 @@
 {
-  "created": 1666893088,
+  "created": 1666912991,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/2/items/dailycommercial-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailycommercial-2022-10-27T13:50:19.843340-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycommercial-2022-10-27T13:50:19.843340-04:00.jpg",
+      "mtime": "1666903448",
+      "size": "8865",
+      "md5": "e8f44d97ddca1bb48d968e42fce5f387",
+      "crc32": "36c4c67e",
+      "sha1": "91680c0b077603fa8bfabc2365971564246337ef"
+    },
+    {
       "name": "dailycommercial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fcc926c0e56f652109e574f10b5c588f204fe1bf",
-      "mtime": "1666893081",
-      "size": "99341",
-      "md5": "dca1dc9b3d1025c0c858309334324c08",
-      "crc32": "3ada6acd",
-      "sha1": "24dcc0896161ccb71845aa0dfd9f78e325e22c08",
+      "btih": "480c16ea763adbee91072ca7f71e56ef44f8510b",
+      "mtime": "1666903479",
+      "size": "99552",
+      "md5": "f2669c2d609ea7f97ce398bb502e9333",
+      "crc32": "07fedd98",
+      "sha1": "91fbdc263a1af4a6f8d534c86c5a5040039ed0ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycommercial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0e3175e7a0a3e251618f3ef456f8a45",
+      "md5": "294b2268bc286286941d7e1dd3e475d0",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666893081,
-  "item_size": 31791177,
+  "files_count": 455,
+  "item_last_updated": 1666903479,
+  "item_size": 31800253,
   "metadata": {
     "identifier": "dailycommercial-2022",
     "collection": [
@@ -4712,21 +4723,10 @@
     "publicdate": "2022-09-20 17:43:34",
     "addeddate": "2022-09-20 17:43:34"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454297530,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 972218301,
+  "uniq": 414472515,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

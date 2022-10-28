@@ -1,5 +1,5 @@
 {
-  "created": 1666883926,
+  "created": 1666905641,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/26/items/sankei_news-2022",
@@ -18223,21 +18223,32 @@
       "format": "JSON"
     },
     {
+      "name": "sankei_news-2022-10-27T23:18:29.768209+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sankei_news-2022-10-27T23:18:29.768209+09:00.jpg",
+      "mtime": "1666893607",
+      "size": "11150",
+      "md5": "410cb190be3011419fac232ce60f2e9f",
+      "crc32": "fb2d3cbe",
+      "sha1": "57bf0fc7df9235ac62d51313740170c6763b5e47"
+    },
+    {
       "name": "sankei_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "269de717648f59e5a1d82e07f0844a86139f753b",
-      "mtime": "1666880415",
-      "size": "378203",
-      "md5": "26b9473bdf3e70e2289265e16e299edf",
-      "crc32": "f8d20f41",
-      "sha1": "546a52e824b4c036d9011beb0c13b9bc7efd40cd",
+      "btih": "b7a6a0982047736ef39943af4e606bae0c4d6ae2",
+      "mtime": "1666893708",
+      "size": "378411",
+      "md5": "37136e4a4df21dbc74876e6f0fb771e7",
+      "crc32": "e1e74494",
+      "sha1": "7f4f06aa3e93bb6b17c4c098ce6c212c473b94cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sankei_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "64357f074c8b81b9f0ccf886d51126e8",
+      "md5": "5f0a8ea77734033f945705eb17d92191",
       "summation": "md5"
     },
     {
@@ -18261,9 +18272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1760,
-  "item_last_updated": 1666880415,
-  "item_size": 182398314,
+  "files_count": 1761,
+  "item_last_updated": 1666893708,
+  "item_size": 182409672,
   "metadata": {
     "identifier": "sankei_news-2022",
     "collection": [
@@ -18280,26 +18291,10 @@
     "publicdate": "2022-07-09 02:39:00",
     "addeddate": "2022-07-09 02:39:00"
   },
-  "pending_tasks": true,
-  "sankei_news-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169516,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1101656441,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1356394408,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

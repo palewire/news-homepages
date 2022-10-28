@@ -1,5 +1,5 @@
 {
-  "created": 1666898362,
+  "created": 1666906739,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/nhregister-2022",
@@ -5451,21 +5451,32 @@
       "format": "JSON"
     },
     {
+      "name": "nhregister-2022-10-27T15:18:20.918906-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhregister-2022-10-27T15:18:20.918906-04:00.jpg",
+      "mtime": "1666906540",
+      "size": "9313",
+      "md5": "3c52c0a30a8baadf32b0c103c588a183",
+      "crc32": "f33ef989",
+      "sha1": "75d448b74c6f4081baca382665cb817c3ea79bda"
+    },
+    {
       "name": "nhregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5807643ceaf2ee5e20efd623a64a03c5fc89e8a1",
-      "mtime": "1666898357",
-      "size": "113891",
-      "md5": "4826f43b36de77199103af9f92ce0d07",
-      "crc32": "55c38546",
-      "sha1": "d937dba90e4feac62fcb109806fe33ee2912dc3d",
+      "btih": "5911282018e3a5b133bcd48a1303e88c054766dc",
+      "mtime": "1666906555",
+      "size": "114097",
+      "md5": "d5a15fa4ca32ddc7a6f2b98866d9b288",
+      "crc32": "516fc5c4",
+      "sha1": "fe0034631acb7caa5a63257e26e95997d14196e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "089907f9b0c130d2f70f2d1d61f3e11e",
+      "md5": "1ee93eca714fdfce1765a0acf1e04ccb",
       "summation": "md5"
     },
     {
@@ -5489,9 +5500,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 531,
-  "item_last_updated": 1666898357,
-  "item_size": 49736586,
+  "files_count": 532,
+  "item_last_updated": 1666906555,
+  "item_size": 49746105,
   "metadata": {
     "identifier": "nhregister-2022",
     "collection": [
@@ -5508,21 +5519,10 @@
     "publicdate": "2022-09-14 04:48:42",
     "addeddate": "2022-09-14 04:48:42"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454352477,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 145681299,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1514500537,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

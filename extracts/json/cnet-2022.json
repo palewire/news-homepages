@@ -1,5 +1,5 @@
 {
-  "created": 1666911050,
+  "created": 1666913662,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/33/items/cnet-2022",
@@ -14055,21 +14055,32 @@
       "format": "JSON"
     },
     {
+      "name": "cnet-2022-10-27T15:49:20.066302-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnet-2022-10-27T15:49:20.066302-07:00.jpg",
+      "mtime": "1666913480",
+      "size": "9114",
+      "md5": "06d20eb264b70b74be885e8f17ecac45",
+      "crc32": "9921efff",
+      "sha1": "d76ebf87b7b774050e80bd8267a75422b9084137"
+    },
+    {
       "name": "cnet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a3f02be4321e92a8e6eea88ce10a31a2ba4a3ee",
-      "mtime": "1666911040",
-      "size": "280259",
-      "md5": "5624522cb35d78e3005f3fec75d9d9a3",
-      "crc32": "c290a009",
-      "sha1": "248c98bde0c4169308dd3826a692d28a8ee3418a",
+      "btih": "189a078cce17b825af851177443c02f707ac4b94",
+      "mtime": "1666913529",
+      "size": "280459",
+      "md5": "a5b7197abcaaaec56ac6725681c3b364",
+      "crc32": "abc94a6c",
+      "sha1": "2129c5c500cd99b0cfc38fffb523cb4c269ee5cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "906b2cbea2245724dcb41d0ca1d951fc",
+      "md5": "ff4b74c80c75d0e32ee4dd495fbdba70",
       "summation": "md5"
     },
     {
@@ -14093,9 +14104,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1359,
-  "item_last_updated": 1666911040,
-  "item_size": 76885958,
+  "files_count": 1360,
+  "item_last_updated": 1666913529,
+  "item_size": 76895272,
   "metadata": {
     "identifier": "cnet-2022",
     "collection": [
@@ -14112,21 +14123,10 @@
     "publicdate": "2022-07-04 20:17:32",
     "addeddate": "2022-07-04 20:17:32"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454511944,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1229456761,
+  "uniq": 50215433,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

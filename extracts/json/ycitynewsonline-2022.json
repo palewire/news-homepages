@@ -1,5 +1,5 @@
 {
-  "created": 1666887323,
+  "created": 1666920252,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/ycitynewsonline-2022",
@@ -11421,21 +11421,32 @@
       "format": "JSON"
     },
     {
+      "name": "ycitynewsonline-2022-10-27T12:13:40.412690-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ycitynewsonline-2022-10-27T12:13:40.412690-04:00.jpg",
+      "mtime": "1666897668",
+      "size": "8410",
+      "md5": "738f68927558e0ed6d9df13bf66bb178",
+      "crc32": "d2426eb0",
+      "sha1": "5cd473bff86e6d720791a23ab42a9cd2152a6495"
+    },
+    {
       "name": "ycitynewsonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f168a9b044cc97f94ff4322f02063069ecfb6a5d",
-      "mtime": "1666887319",
-      "size": "240317",
-      "md5": "fe5d29f51e4ae3b92463f628013dba48",
-      "crc32": "7bb691dc",
-      "sha1": "88082ea47eee728531675080e8d9321cf8e1d54c",
+      "btih": "a3e5e7edcdc17e6bcfa6e9ea9b82858da269a36a",
+      "mtime": "1666897681",
+      "size": "240528",
+      "md5": "b831a6c4bd8b65fadbded60d566f5ec2",
+      "crc32": "fb1562a9",
+      "sha1": "26d3923e018f8c29246ba2034629e139a51ff914",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ycitynewsonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72dbdbfce97e305c2d48539adcd61197",
+      "md5": "8c279d0b8b3d5cbe44b01b5277c5fcbf",
       "summation": "md5"
     },
     {
@@ -11459,9 +11470,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1108,
-  "item_last_updated": 1666887319,
-  "item_size": 51357994,
+  "files_count": 1109,
+  "item_last_updated": 1666897681,
+  "item_size": 51366615,
   "metadata": {
     "identifier": "ycitynewsonline-2022",
     "collection": [
@@ -11478,21 +11489,15 @@
     "publicdate": "2022-07-26 01:40:32",
     "addeddate": "2022-07-26 01:40:32"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454240740,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1074085460,
+  "server": "ia801403.us.archive.org",
+  "uniq": 290712803,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
-  ]
+  ],
+  "ycitynewsonline-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666893496,
+  "created": 1666902915,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/12/items/folha-2022",
@@ -14983,21 +14983,32 @@
       "format": "JSON"
     },
     {
+      "name": "folha-2022-10-27T14:56:52.620308-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "folha-2022-10-27T14:56:52.620308-03:00.jpg",
+      "mtime": "1666902819",
+      "size": "10264",
+      "md5": "57f9a1549545cf2f4f81260930da4669",
+      "crc32": "1d8475f9",
+      "sha1": "8acd2d7a27c8ae4d79c81af2bca8466cd88e9057"
+    },
+    {
       "name": "folha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d41264068a0245388d29316909d385cb9c4f5ff",
-      "mtime": "1666893487",
-      "size": "303490",
-      "md5": "59ab12cef63626f782b3d98150e056dc",
-      "crc32": "a9327fea",
-      "sha1": "d1706a9b18748a83dc5a3075728fde4a585ac0ea",
+      "btih": "2d3712d9f1a4419c00857e95664637f18fb43a0f",
+      "mtime": "1666902848",
+      "size": "303692",
+      "md5": "acfeed8efca08cf9b3d43f26a71d41b8",
+      "crc32": "e01beadb",
+      "sha1": "bfb0a2f65dd8485095b4993e31d1964aeb5f21b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "folha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5064fa268d4c7c90421262de70cc3d2",
+      "md5": "863f966288da6f06e4836d693fc3ff61",
       "summation": "md5"
     },
     {
@@ -15021,9 +15032,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1453,
-  "item_last_updated": 1666893487,
-  "item_size": 131827164,
+  "files_count": 1454,
+  "item_last_updated": 1666902848,
+  "item_size": 131837630,
   "metadata": {
     "identifier": "folha-2022",
     "collection": [
@@ -15040,21 +15051,10 @@
     "publicdate": "2022-08-02 14:53:33",
     "addeddate": "2022-08-02 14:53:33"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454301775,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1622153690,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1013500006,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

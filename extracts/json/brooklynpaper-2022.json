@@ -4,7 +4,7 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "created": 1666890978,
+  "created": 1666915783,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/5/items/brooklynpaper-2022",
@@ -10614,21 +10614,32 @@
       "format": "JSON"
     },
     {
+      "name": "brooklynpaper-2022-10-27T12:10:13.666869-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brooklynpaper-2022-10-27T12:10:13.666869-04:00.jpg",
+      "mtime": "1666897521",
+      "size": "10259",
+      "md5": "d78cbed0a357d8c1b74d631ebe71bbb4",
+      "crc32": "0dae385f",
+      "sha1": "7c7b0b7f58c75c7f664d802bf7d994106512c261"
+    },
+    {
       "name": "brooklynpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c7e3be1325e342d0e1fa08dda1d2bcb1c6a73ee3",
-      "mtime": "1666887075",
-      "size": "222245",
-      "md5": "63c63b6578496dc96ea259f83aa4f4b0",
-      "crc32": "1278c8c6",
-      "sha1": "87b737247981afa3925f8c0cd98fb39f7f2662cf",
+      "btih": "c04b1384639693c64f78501978c4d8cab8da142b",
+      "mtime": "1666897533",
+      "size": "222455",
+      "md5": "38dcedf7d5e7be4b2ccf4dfcfe2e6505",
+      "crc32": "c29595b1",
+      "sha1": "cf2604b6cac827d34c5f2f7f6355323922f6e2bf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brooklynpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76214b125632121146e5acd16150a5e9",
+      "md5": "583384e86638f0d0323049ba65a61e24",
       "summation": "md5"
     },
     {
@@ -10652,9 +10663,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1030,
-  "item_last_updated": 1666887075,
-  "item_size": 62169868,
+  "files_count": 1031,
+  "item_last_updated": 1666897533,
+  "item_size": 62180337,
   "metadata": {
     "identifier": "brooklynpaper-2022",
     "collection": [
@@ -10671,21 +10682,10 @@
     "publicdate": "2022-08-03 01:54:23",
     "addeddate": "2022-08-03 01:54:23"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454237902,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1412695499,
+  "uniq": 188428311,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

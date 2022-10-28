@@ -1,5 +1,5 @@
 {
-  "created": 1666880140,
+  "created": 1666918092,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/0/items/newstatesman-2022",
@@ -13057,21 +13057,32 @@
       "format": "JSON"
     },
     {
+      "name": "newstatesman-2022-10-27T15:12:04.137638+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newstatesman-2022-10-27T15:12:04.137638+01:00.jpg",
+      "mtime": "1666893537",
+      "size": "10434",
+      "md5": "6b02ac8b7dfa3478e3c5e4a2d3c4e93c",
+      "crc32": "be700606",
+      "sha1": "2466e2c31da78d4953eb2e7622980f274ac26dd4"
+    },
+    {
       "name": "newstatesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "921b9eb8246474dc9457781de92d2fec9842bb4f",
-      "mtime": "1666880125",
-      "size": "272034",
-      "md5": "bfbe63a0161a95805c733f56bc5983b4",
-      "crc32": "8694c28f",
-      "sha1": "4b0c6953a59b064d725e4bfd8ce8975e8e4c6ede",
+      "btih": "c24fed7af028cc45ce5b48cd1d7b3e71d35baf28",
+      "mtime": "1666893556",
+      "size": "272243",
+      "md5": "882069ec9d598c48b427a62db57d9070",
+      "crc32": "c8ad0e8f",
+      "sha1": "524f83b7921f95d318e64487edbe63a8ec282245",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newstatesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "375afe977465ccd7457a55d82a3731ab",
+      "md5": "d3f731dee1fc7be9a0b4b30bbabe0d8c",
       "summation": "md5"
     },
     {
@@ -13095,9 +13106,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1267,
-  "item_last_updated": 1666880125,
-  "item_size": 81509756,
+  "files_count": 1268,
+  "item_last_updated": 1666893556,
+  "item_size": 81520399,
   "metadata": {
     "identifier": "newstatesman-2022",
     "collection": [
@@ -13114,21 +13125,15 @@
     "publicdate": "2022-08-18 23:57:19",
     "addeddate": "2022-08-18 23:57:19"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454166791,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1867529377,
+  "newstatesman-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801505.us.archive.org",
+  "uniq": 887397578,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

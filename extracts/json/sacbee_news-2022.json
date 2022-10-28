@@ -1,5 +1,5 @@
 {
-  "created": 1666901226,
+  "created": 1666918920,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/sacbee_news-2022",
@@ -13411,21 +13411,32 @@
       "format": "JSON"
     },
     {
+      "name": "sacbee_news-2022-10-27T12:25:09.076150-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sacbee_news-2022-10-27T12:25:09.076150-07:00.jpg",
+      "mtime": "1666906628",
+      "size": "9766",
+      "md5": "488e7b1de4a2e563cdaed3729aaa7e81",
+      "crc32": "3ad93d9f",
+      "sha1": "070e6e8d9caafca3996c6ab7f4603da3ae7e7b0e"
+    },
+    {
       "name": "sacbee_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "263578320d57f14ac3548b1354a71ce0aef04433",
-      "mtime": "1666898786",
-      "size": "276320",
-      "md5": "32a02e1a06e1b565ddb3c0fead81b4b4",
-      "crc32": "7db67e87",
-      "sha1": "c4a60d80b5c78fc30fa7419ecc4195db3fe3aabe",
+      "btih": "e330118c7aee29de9d85cd30ed9e3e23ed58eddb",
+      "mtime": "1666906663",
+      "size": "276527",
+      "md5": "7bee58ea25020255904d4d1f62b36c49",
+      "crc32": "d953d050",
+      "sha1": "e1465e2942f13b2b29e9e7539bf8a97ee46c2972",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sacbee_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "258d3d7a78054a8184783a5ac86485a3",
+      "md5": "b2e184694e2e8675b99ba56a24c0d69e",
       "summation": "md5"
     },
     {
@@ -13449,9 +13460,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1296,
-  "item_last_updated": 1666898786,
-  "item_size": 88890937,
+  "files_count": 1297,
+  "item_last_updated": 1666906663,
+  "item_size": 88900910,
   "metadata": {
     "identifier": "sacbee_news-2022",
     "collection": [
@@ -13468,26 +13479,15 @@
     "publicdate": "2022-06-24 23:00:30",
     "addeddate": "2022-06-24 23:00:30"
   },
-  "pending_tasks": true,
   "sacbee_news-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454356836,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1029404679,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1584579620,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

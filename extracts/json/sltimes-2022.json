@@ -1,5 +1,5 @@
 {
-  "created": 1666883871,
+  "created": 1666919114,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/33/items/sltimes-2022",
@@ -18259,21 +18259,32 @@
       "format": "JSON"
     },
     {
+      "name": "sltimes-2022-10-27T09:19:07.651440-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sltimes-2022-10-27T09:19:07.651440-05:00.jpg",
+      "mtime": "1666893758",
+      "size": "10595",
+      "md5": "7250d3c15fbfd50c45eb4fbf86d149dd",
+      "crc32": "03173764",
+      "sha1": "1a945eff5f42eeae37435fba1dccaec2fb5967a7"
+    },
+    {
       "name": "sltimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e8850328f255b75f06a142ec264ba9c7e3082c8",
-      "mtime": "1666880424",
-      "size": "370794",
-      "md5": "d342b39695d350b41b3aa0c34806ce04",
-      "crc32": "6bdf6fc0",
-      "sha1": "535831fe0cf85747c7ac156c51cd08230568f417",
+      "btih": "ef916e550c9e5097a53bbff5b55adad9ff5efc55",
+      "mtime": "1666893806",
+      "size": "370998",
+      "md5": "1858016ce688be5eeb80f3f2609cb951",
+      "crc32": "72b8b4fe",
+      "sha1": "b931d8af391cad20b0a05541ca3138d340160dcf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sltimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29add5c0e40894e92cf3bb058be01e09",
+      "md5": "b8a7494370bb0c156ef49df077ca934d",
       "summation": "md5"
     },
     {
@@ -18297,9 +18308,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1763,
-  "item_last_updated": 1666880424,
-  "item_size": 147744240,
+  "files_count": 1764,
+  "item_last_updated": 1666893806,
+  "item_size": 147755039,
   "metadata": {
     "identifier": "sltimes-2022",
     "collection": [
@@ -18316,26 +18327,15 @@
     "publicdate": "2022-06-19 23:28:16",
     "addeddate": "2022-06-19 23:28:16"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
+  "server": "ia801502.us.archive.org",
   "sltimes-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "tasks": [
-    {
-      "task_id": 3454169634,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2088876540,
+  "uniq": 732062368,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

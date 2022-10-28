@@ -1,5 +1,5 @@
 {
-  "created": 1666910949,
+  "created": 1666913549,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/22/items/bakersfieldcali-2022",
@@ -12775,21 +12775,32 @@
       "format": "JSON"
     },
     {
+      "name": "bakersfieldcali-2022-10-27T15:47:58.189428-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bakersfieldcali-2022-10-27T15:47:58.189428-07:00.jpg",
+      "mtime": "1666913459",
+      "size": "9372",
+      "md5": "67023e41743d82404146a68f5a6cd66b",
+      "crc32": "c432568c",
+      "sha1": "52b0738c97f8a32ffc07e00067bbefb355350200"
+    },
+    {
       "name": "bakersfieldcali-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fade1afb068db35e585528eade1b6604d6093eda",
-      "mtime": "1666910943",
-      "size": "269439",
-      "md5": "ce3c56ea8dd5fdc94473170aa13794e3",
-      "crc32": "46560966",
-      "sha1": "90c1e32dcd9e61bec73cbda4ebd0790e64ea40ac",
+      "btih": "9d5f367914d322a9c9ea5f2fbfc25cb1e386161e",
+      "mtime": "1666913493",
+      "size": "269650",
+      "md5": "bd7904316627661148f57f87aba022f4",
+      "crc32": "895d3b0c",
+      "sha1": "e7e02b0d3654910ad118dba6a16b6d6d3be711de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bakersfieldcali-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0fe127d8ba17ce4b749c9c5f41a43cf",
+      "md5": "a50bd42a9d1494927b9938b057c310dc",
       "summation": "md5"
     },
     {
@@ -12813,9 +12824,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1236,
-  "item_last_updated": 1666910943,
-  "item_size": 95146879,
+  "files_count": 1237,
+  "item_last_updated": 1666913493,
+  "item_size": 95156462,
   "metadata": {
     "identifier": "bakersfieldcali-2022",
     "collection": [
@@ -12832,21 +12843,10 @@
     "publicdate": "2022-07-09 03:55:56",
     "addeddate": "2022-07-09 03:55:56"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454509753,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 657625760,
+  "server": "ia802506.us.archive.org",
+  "uniq": 434499583,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

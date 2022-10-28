@@ -1,5 +1,6 @@
 {
-  "created": 1666913848,
+  "conflict": 1666915861,
+  "created": 1666915861,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/chicago_reader-2022",
@@ -21227,21 +21228,32 @@
       "format": "JSON"
     },
     {
+      "name": "chicago_reader-2022-10-27T18:35:51.443321-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chicago_reader-2022-10-27T18:35:51.443321-05:00.jpg",
+      "mtime": "1666915125",
+      "size": "9372",
+      "md5": "9bd8cceb210ee00528623a7aa1d452e0",
+      "crc32": "60bc3c4b",
+      "sha1": "0f0213f4e442adfdcbf688c666ead3a7e7ee237d"
+    },
+    {
       "name": "chicago_reader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "202a5f873e932a43a0586f39d2a385e281df5f92",
-      "mtime": "1666913839",
-      "size": "443098",
-      "md5": "cf69528e6780eb23ceefccc77844dc2a",
-      "crc32": "0e1a9552",
-      "sha1": "74c534353477d5267073be31c836884023b3093c",
+      "btih": "a82f1c22c2ad36be2c6198a92dcd2ce07b46dd68",
+      "mtime": "1666915705",
+      "size": "443308",
+      "md5": "6bbb6e005901952fe82cbbef83f23936",
+      "crc32": "1122c131",
+      "sha1": "06d2a3d3ede4783021194efc57b621f678ba7219",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicago_reader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83963acbb6ec6c7a832c9f2184d660a9",
+      "md5": "9648733d2eb908b9ea5b4a7ca525114d",
       "summation": "md5"
     },
     {
@@ -21265,9 +21277,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2050,
-  "item_last_updated": 1666913839,
-  "item_size": 118890395,
+  "files_count": 2051,
+  "item_last_updated": 1666915705,
+  "item_size": 118899977,
   "metadata": {
     "identifier": "chicago_reader-2022",
     "collection": [
@@ -21292,12 +21304,20 @@
       "task_id": 3454569945,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3454615180,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 727748605,
+  "uniq": 29098032,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

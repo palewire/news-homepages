@@ -1,5 +1,5 @@
 {
-  "created": 1666886895,
+  "created": 1666915607,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/baltfishbowl-2022",
@@ -12645,21 +12645,32 @@
       "format": "JSON"
     },
     {
+      "name": "baltfishbowl-2022-10-27T12:07:06.724113-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltfishbowl-2022-10-27T12:07:06.724113-04:00.jpg",
+      "mtime": "1666897905",
+      "size": "10066",
+      "md5": "8bfd5d6ba6bc15e5fb8e34d60f03c7ca",
+      "crc32": "9c856490",
+      "sha1": "99e6dfb240a4772d1cdaf79d6edd6fdf6fcbc096"
+    },
+    {
       "name": "baltfishbowl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cd9ec042f4e69f28ce31105220d2440641c38640",
-      "mtime": "1666886890",
-      "size": "262941",
-      "md5": "8aa5111d8ec33cbfbd95e28d5874fad7",
-      "crc32": "b7c7d24c",
-      "sha1": "b27b264e8561c89ad93710c7f77f9942b4be5d6f",
+      "btih": "3d8ff72920627c0a49a0f28fa3c2a5dcb04b8a50",
+      "mtime": "1666897990",
+      "size": "263150",
+      "md5": "cf484d9292b15327788b38ab60576281",
+      "crc32": "5529d607",
+      "sha1": "2d01f0d331002850b89935a43c3378da83c3b0c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltfishbowl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e5a0abd765a9480af340927d2b30b7f",
+      "md5": "f255893ef1201a0f3ab7a81e93beee60",
       "summation": "md5"
     },
     {
@@ -12683,9 +12694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1225,
-  "item_last_updated": 1666886890,
-  "item_size": 78735034,
+  "files_count": 1226,
+  "item_last_updated": 1666897990,
+  "item_size": 78745309,
   "metadata": {
     "identifier": "baltfishbowl-2022",
     "collection": [
@@ -12702,21 +12713,10 @@
     "publicdate": "2022-07-13 02:24:39",
     "addeddate": "2022-07-13 02:24:39"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454234940,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1122898194,
+  "server": "ia802502.us.archive.org",
+  "uniq": 92629538,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

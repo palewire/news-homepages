@@ -1,5 +1,5 @@
 {
-  "created": 1666772314,
+  "created": 1666903733,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/35/items/jornaloglobo-2022",
@@ -14808,31 +14808,341 @@
       "sha1": "23c84628b06c78187f91a517ce26cad455a79f69"
     },
     {
+      "name": "jornaloglobo-2022-10-26T09:09:01.337874-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666786164",
+      "size": "39197",
+      "md5": "323f4f17e6b7bebefa093ca3da889ca4",
+      "crc32": "c4bc3d12",
+      "sha1": "27fe30b5c7729a8a991a1ba9a7295c902cf9f3d0",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T09:09:01.337874-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666786166",
+      "size": "45161",
+      "md5": "15df5ac5199e2577237e177d7388d462",
+      "crc32": "60c37926",
+      "sha1": "104a999a54e138d25b8fe3e16755fb3767bc8917",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T09:09:01.337874-03:00.jpg",
+      "source": "original",
+      "mtime": "1666786162",
+      "size": "285880",
+      "md5": "5d4bd8daef6da5a28b3e97f08e39f3ac",
+      "crc32": "5748e523",
+      "sha1": "996f8b04c0a83d1f9db7df7adbf0b0e980f93cf3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T09:09:01.337874-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666786168",
+      "size": "1474",
+      "md5": "e612d20258409958b9aa8417186210d1",
+      "crc32": "63e090c4",
+      "sha1": "fdba8dd5ca21d02d829b46dc3ae39e56439331ea",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T09:09:01.337874-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666786170",
+      "size": "27585",
+      "md5": "58a385d2cf8bf64b7e5099e93831d2da",
+      "crc32": "80cb00fc",
+      "sha1": "3b810b2829587ec8b328101fbc508055d397c86c",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T09:09:01.337874-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaloglobo-2022-10-26T09:09:01.337874-03:00.jpg",
+      "mtime": "1666787700",
+      "size": "10071",
+      "md5": "a0589d98d9085415c05958231b49cc57",
+      "crc32": "aad53e2a",
+      "sha1": "61cbe45b030479cf4d08074889ee9c857cb9aee3"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T15:11:02.902884-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666807876",
+      "size": "38616",
+      "md5": "df313c51c78e0126aa1f2212c10bf509",
+      "crc32": "d79edae2",
+      "sha1": "cd8820b34d3a430bfdaa1f2e9fd87ad6e98fe6cf",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T15:11:02.902884-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666807880",
+      "size": "46464",
+      "md5": "059a5e033ffb7cb3a0022a6f69fa7879",
+      "crc32": "7fb5e01c",
+      "sha1": "237dbfe13293021c1ebf56f837499b135bbd2f6c",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T15:11:02.902884-03:00.jpg",
+      "source": "original",
+      "mtime": "1666807873",
+      "size": "291399",
+      "md5": "7db023dfeddc88ec6102c91b83fb622f",
+      "crc32": "cbc12b95",
+      "sha1": "1d11d3bd4b046f03314510e4fc3df76584bd10ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T15:11:02.902884-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666807886",
+      "size": "1474",
+      "md5": "4b20dfd8bb5af9b86aea69d1d0a6ed02",
+      "crc32": "e46bf4b2",
+      "sha1": "0f459b7f524cdadf2d907fa074d8ce2a5904a2af",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T15:11:02.902884-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666807893",
+      "size": "101",
+      "md5": "ae72660ce92e51eed8a4ab6d3e25ee91",
+      "crc32": "7d3bbc5a",
+      "sha1": "cb4a512c60d4ceaca4189fefc7c305c7935adcbc",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-26T15:11:02.902884-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaloglobo-2022-10-26T15:11:02.902884-03:00.jpg",
+      "mtime": "1666816855",
+      "size": "10166",
+      "md5": "be0c2e35663ccb37d0f96e1ee66d0908",
+      "crc32": "ddf1bf4b",
+      "sha1": "2f6a3c3a6e6ddbcbcbcd9fc02b377425e5e68570"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T02:49:42.498413-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666849806",
+      "size": "38316",
+      "md5": "b321dc479ec2366111388c377fb4a4a9",
+      "crc32": "6a352e0e",
+      "sha1": "58a76c11c505e4b170b69bbabac233b5f65fe5ea",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T02:49:42.498413-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666849810",
+      "size": "44444",
+      "md5": "2484ef8255cb60cd5a981e2e06ad642a",
+      "crc32": "60daef8e",
+      "sha1": "d05325da6b71630bad20c3c5da1a3e864455087c",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T02:49:42.498413-03:00.jpg",
+      "source": "original",
+      "mtime": "1666849804",
+      "size": "289475",
+      "md5": "dad8c8cfaa6ce3673789f7e90c7fc11a",
+      "crc32": "c7366b1c",
+      "sha1": "52d2465191e992682c3e68ac671694e1a18926e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T02:49:42.498413-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666849812",
+      "size": "1474",
+      "md5": "80a3eb33ac2e0450632222b5d2b4d688",
+      "crc32": "9adfecac",
+      "sha1": "fd90177f36413988e4ecd292940d24ad6b3e7e60",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T02:49:42.498413-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666849814",
+      "size": "232",
+      "md5": "37881c06164044b154a6bcc84b0a4cf5",
+      "crc32": "1e73fa9c",
+      "sha1": "0472738080864bc94f8e42a6d0fe48663c3e0d23",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T02:49:42.498413-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaloglobo-2022-10-27T02:49:42.498413-03:00.jpg",
+      "mtime": "1666872464",
+      "size": "10225",
+      "md5": "ad9e0fc1f2980beb7f9aadc0e249186b",
+      "crc32": "7c760a04",
+      "sha1": "645be5766dff5b5ea2e8757f771b4c604e58f220"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T09:06:34.050299-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872420",
+      "size": "38734",
+      "md5": "e218e7dbbedc2e8e779a4db83dab735f",
+      "crc32": "18a1b0dc",
+      "sha1": "c0d06083d4b10240e141d2d8808f9d3455e10f40",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T09:06:34.050299-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872422",
+      "size": "44563",
+      "md5": "e8eab971f64432e6efd51f50d261928a",
+      "crc32": "d07f8e38",
+      "sha1": "e302ad095672891bbd73a1e2fcf5edafc52c7074",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T09:06:34.050299-03:00.jpg",
+      "source": "original",
+      "mtime": "1666872418",
+      "size": "309762",
+      "md5": "af40f1b97dfea947ad1cd0df74def622",
+      "crc32": "c4e3249f",
+      "sha1": "6b861ba370d44c777624d6b02341ea71acd132fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T09:06:34.050299-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872426",
+      "size": "1474",
+      "md5": "af2225950194d05052a6b5005057fe38",
+      "crc32": "80fdbf8a",
+      "sha1": "deecda0dc5b330cab236450c6bb8d15283c99fbc",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T09:06:34.050299-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872429",
+      "size": "72072",
+      "md5": "861a973d0aa24d9f680fa45e7c1057fa",
+      "crc32": "8902589a",
+      "sha1": "76a3df22e8bdf864c4d0a989f2933cfc861cc812",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T09:06:34.050299-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaloglobo-2022-10-27T09:06:34.050299-03:00.jpg",
+      "mtime": "1666888942",
+      "size": "10414",
+      "md5": "ae89e61b968e5e4aff31f5555240e560",
+      "crc32": "08128235",
+      "sha1": "deef81caf553fb725e4d3e886dd389a4b5f02cec"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T14:42:25.614204-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666892569",
+      "size": "38803",
+      "md5": "b4c039428114673ba30fe211c17c4960",
+      "crc32": "ccf97ea7",
+      "sha1": "325c57a90fdbe41b9d25e354d1af7a8dba7c3d31",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T14:42:25.614204-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666892573",
+      "size": "44675",
+      "md5": "84976e017c22922ce45b43b44a63f37c",
+      "crc32": "8160bf40",
+      "sha1": "a0ac87d3cd38b531fcff907662fe11b825ec5a90",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T14:42:25.614204-03:00.jpg",
+      "source": "original",
+      "mtime": "1666892562",
+      "size": "276952",
+      "md5": "bb873178087cbcecce8ddae7f30c8098",
+      "crc32": "3e262194",
+      "sha1": "bf640e7f505fd3037b8f0db13e591cb67f085383",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T14:42:25.614204-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666892575",
+      "size": "1474",
+      "md5": "f6d6a0c10b335ca19a6c3feed8a5a7df",
+      "crc32": "1b195f42",
+      "sha1": "0bd012f8db133faaf31fa647afefff33a0cc9a26",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T14:42:25.614204-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666892577",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-10-27T14:42:25.614204-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaloglobo-2022-10-27T14:42:25.614204-03:00.jpg",
+      "mtime": "1666902963",
+      "size": "10245",
+      "md5": "025ef2cd37d6c9407c9c2da16e862aa5",
+      "crc32": "6d117aa2",
+      "sha1": "9f13a6493d41fb7166782a1b39923dcae93eea4b"
+    },
+    {
       "name": "jornaloglobo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51c69fa538a697721983ce996c8471997692ddbe",
-      "mtime": "1666766641",
-      "size": "309176",
-      "md5": "9619f8e14122578d46404acb63892c10",
-      "crc32": "56e01852",
-      "sha1": "101bf3961368d5e4dc2220975bc9a649a7904449",
+      "btih": "6268438c69e8b0ce1ee6b1bb45ad525e394ca383",
+      "mtime": "1666903027",
+      "size": "315610",
+      "md5": "cee89ef06aa212b59974632288eb3af9",
+      "crc32": "5c1aab30",
+      "sha1": "ed13a01bde45d020f22283799039e958c7065d18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaloglobo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c68d678f544143aa859e653d27105c59",
+      "md5": "bf0fb8b62ad10a031477e43c4fb4590e",
       "summation": "md5"
     },
     {
       "name": "jornaloglobo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666766168",
-      "size": "1835008",
-      "md5": "7d6645ff01f055b9a76f8a3d74181824",
-      "crc32": "ab3befe2",
-      "sha1": "7bd461a9b234d88dda8abfd978d15c021bca2a56",
+      "mtime": "1666892591",
+      "size": "1875968",
+      "md5": "f42eb772e24331bbde1eb56ea3e3ad92",
+      "crc32": "344b0006",
+      "sha1": "947ba81fe96a0cd47b75ae49868da7521cac38df",
       "format": "Metadata"
     },
     {
@@ -14846,17 +15156,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1436,
-  "item_last_updated": 1666766641,
-  "item_size": 113927533,
-  "jornaloglobo-2022": {
-    "url": "https://oglobo.globo.com/",
-    "job_id": "spn2-211dc93a81047f1f1ca6856d5e2a0f5e0ea3144e",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "resources": [],
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 904."
-  },
+  "files_count": 1466,
+  "item_last_updated": 1666903027,
+  "item_size": 116006051,
   "metadata": {
     "identifier": "jornaloglobo-2022",
     "collection": [
@@ -14873,10 +15175,10 @@
     "publicdate": "2022-08-02 14:55:56",
     "addeddate": "2022-08-02 14:55:56"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 583598454,
+  "server": "ia801400.us.archive.org",
+  "uniq": 909903260,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

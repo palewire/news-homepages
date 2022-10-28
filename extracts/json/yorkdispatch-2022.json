@@ -1,5 +1,5 @@
 {
-  "created": 1666900742,
+  "created": 1666907923,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/yorkdispatch-2022",
@@ -11557,21 +11557,32 @@
       "format": "JSON"
     },
     {
+      "name": "yorkdispatch-2022-10-27T15:57:38.718211-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yorkdispatch-2022-10-27T15:57:38.718211-04:00.jpg",
+      "mtime": "1666907870",
+      "size": "9252",
+      "md5": "630d17db39d3a95515d8ed8c7eba896e",
+      "crc32": "b7a91324",
+      "sha1": "bd0e27d2dadf7aa14ecc147ddf0b91d208e6c641"
+    },
+    {
       "name": "yorkdispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59a8e26515476eecf62e44a6e10eecb6c426fd85",
-      "mtime": "1666900733",
-      "size": "240908",
-      "md5": "2f06d8184b933e31548e19b3e81db60c",
-      "crc32": "53431e45",
-      "sha1": "f15dba0183bd6449462b0f5ae67d10b737655256",
+      "btih": "4af6a0050fc16bcd561d5c6b1bc66f0b74c05201",
+      "mtime": "1666907891",
+      "size": "241116",
+      "md5": "2de57f3364eb89c8eaad5f3c86e7949d",
+      "crc32": "dfad4f58",
+      "sha1": "cc80f7b0fd56cd2d5668392eb4ace8b627ecd43e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yorkdispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a682bf268ca0246256fcd3a1209f56f5",
+      "md5": "3518cc4cd8932153f39c04a894be2c9f",
       "summation": "md5"
     },
     {
@@ -11595,9 +11606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1121,
-  "item_last_updated": 1666900733,
-  "item_size": 76170438,
+  "files_count": 1122,
+  "item_last_updated": 1666907891,
+  "item_size": 76179898,
   "metadata": {
     "identifier": "yorkdispatch-2022",
     "collection": [
@@ -11614,21 +11625,10 @@
     "publicdate": "2022-07-23 16:10:31",
     "addeddate": "2022-07-23 16:10:31"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454374403,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 879690206,
+  "uniq": 118482298,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

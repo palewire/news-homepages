@@ -1,5 +1,5 @@
 {
-  "created": 1666913896,
+  "created": 1666915007,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/destinlog-2022",
@@ -4717,21 +4717,32 @@
       "format": "JSON"
     },
     {
+      "name": "destinlog-2022-10-27T18:37:16.945994-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-27T18:37:16.945994-05:00.jpg",
+      "mtime": "1666914996",
+      "size": "9374",
+      "md5": "59c4fdbe3b055d2f4c57c5c43bf7c7ad",
+      "crc32": "4e247e15",
+      "sha1": "3f6355f0c899091d7228cba97ddb1c2993776e9e"
+    },
+    {
       "name": "destinlog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91c979aa0c7d8d1aecb425c4c813f0b4e63be15d",
-      "mtime": "1666913893",
-      "size": "97856",
-      "md5": "40aef376032d592553e40cac25591934",
-      "crc32": "849670d9",
-      "sha1": "501ecaf0d0ae7229a0256daf9edf225ff0c0fdad",
+      "btih": "83d556872dc94dddf93133c2c485c04e91fed0f6",
+      "mtime": "1666915000",
+      "size": "98061",
+      "md5": "e3e25a93e798c1a7b181df8a470f7a87",
+      "crc32": "9444a538",
+      "sha1": "5312cc34731faf6c7e91e3ab748766fc59cd861a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "destinlog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f608bb387509800b052ca940ef9f975",
+      "md5": "7d3585163af1c1063a509e3c14d38d04",
       "summation": "md5"
     },
     {
@@ -4755,9 +4766,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 460,
-  "item_last_updated": 1666913893,
-  "item_size": 32107596,
+  "files_count": 461,
+  "item_last_updated": 1666915000,
+  "item_size": 32117175,
   "metadata": {
     "identifier": "destinlog-2022",
     "collection": [
@@ -4774,21 +4785,10 @@
     "publicdate": "2022-09-20 22:15:36",
     "addeddate": "2022-09-20 22:15:36"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454571073,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 209329101,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1616158587,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

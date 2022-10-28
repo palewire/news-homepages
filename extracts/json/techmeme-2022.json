@@ -1,5 +1,5 @@
 {
-  "created": 1666900538,
+  "created": 1666907982,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/7/items/techmeme-2022",
@@ -16059,21 +16059,32 @@
       "format": "JSON"
     },
     {
+      "name": "techmeme-2022-10-27T12:52:05.166766-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techmeme-2022-10-27T12:52:05.166766-07:00.jpg",
+      "mtime": "1666907755",
+      "size": "9465",
+      "md5": "2cc989ea0dd8d520bc539f653030936b",
+      "crc32": "62bf6d29",
+      "sha1": "996679a05f66987da67b01762964add14d6ca86d"
+    },
+    {
       "name": "techmeme-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee721982fcec82344402bf168f1972855acdec69",
-      "mtime": "1666900522",
-      "size": "331986",
-      "md5": "18e31b7deae4162662815d81c7b891cc",
-      "crc32": "f1dc3d9e",
-      "sha1": "ef99d23ebd72ee75c386e04ec8cd938586e46e90",
+      "btih": "bb0b5cd9a48ccbfc50b00de9151a3d90f7aab2bd",
+      "mtime": "1666907832",
+      "size": "332190",
+      "md5": "9d2d19fd4433cbca758d9db641fe79bf",
+      "crc32": "c2ec207b",
+      "sha1": "331dd2e04eb6f7715815ad9ffc300ee41295f248",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techmeme-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "274b5946ea8bf6d6ec2f0d62889e3be0",
+      "md5": "17ee8a50c6c38910afc91b6e69d35466",
       "summation": "md5"
     },
     {
@@ -16097,9 +16108,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1550,
-  "item_last_updated": 1666900522,
-  "item_size": 242130390,
+  "files_count": 1551,
+  "item_last_updated": 1666907832,
+  "item_size": 242140059,
   "metadata": {
     "identifier": "techmeme-2022",
     "collection": [
@@ -16116,21 +16127,10 @@
     "publicdate": "2022-06-17 17:26:33",
     "addeddate": "2022-06-17 17:26:33"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372328,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 460376466,
+  "server": "ia801407.us.archive.org",
+  "uniq": 2092186069,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

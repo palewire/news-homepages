@@ -1,5 +1,5 @@
 {
-  "created": 1666887518,
+  "created": 1666915480,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/amazoniaagencia-2022",
@@ -14451,21 +14451,32 @@
       "format": "JSON"
     },
     {
+      "name": "amazoniaagencia-2022-10-27T13:07:19.017679-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-27T13:07:19.017679-03:00.jpg",
+      "mtime": "1666897714",
+      "size": "10715",
+      "md5": "f1bdb8167c0ca267f44d37aace368d31",
+      "crc32": "5047731d",
+      "sha1": "2da805e04f09e06325fa487323146c86e8fffea1"
+    },
+    {
       "name": "amazoniaagencia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "954990f221514877b18d6320a8af0aa540994fbc",
-      "mtime": "1666887416",
-      "size": "305833",
-      "md5": "535d6c991f448f944a55d5fec67b984b",
-      "crc32": "74dac4ae",
-      "sha1": "8cec5b50d9414cf57d2f1654868d265835d28446",
+      "btih": "f22dfaccf82daa2c2dbe6ef6771a18298688d4c3",
+      "mtime": "1666897800",
+      "size": "306045",
+      "md5": "09e1d005c2ee4571c2226b8e1a1af182",
+      "crc32": "f7223bdc",
+      "sha1": "4dd475434dc8979b74ff1818e7cf19300a95c494",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amazoniaagencia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a223b79b3d7fdb6e0f57cd8cdde1498",
+      "md5": "49f7f5dfcc771ddac64d14ce534d74b9",
       "summation": "md5"
     },
     {
@@ -14489,9 +14500,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1402,
-  "item_last_updated": 1666887416,
-  "item_size": 102960861,
+  "files_count": 1403,
+  "item_last_updated": 1666897800,
+  "item_size": 102971788,
   "metadata": {
     "identifier": "amazoniaagencia-2022",
     "collection": [
@@ -14508,21 +14519,10 @@
     "publicdate": "2022-08-07 19:42:20",
     "addeddate": "2022-08-07 19:42:20"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454242295,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1426453786,
+  "server": "ia801400.us.archive.org",
+  "uniq": 545727281,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

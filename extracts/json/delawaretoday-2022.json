@@ -1,5 +1,5 @@
 {
-  "created": 1666913787,
+  "created": 1666915294,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/21/items/delawaretoday-2022",
@@ -5451,21 +5451,32 @@
       "format": "JSON"
     },
     {
+      "name": "delawaretoday-2022-10-27T19:35:27.208605-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawaretoday-2022-10-27T19:35:27.208605-04:00.jpg",
+      "mtime": "1666915072",
+      "size": "10224",
+      "md5": "fc363653eb7c4ac06e1675f278546313",
+      "crc32": "526dbfc1",
+      "sha1": "0e8c4e142a5b2f0b494aed9ffb624fae40829b63"
+    },
+    {
       "name": "delawaretoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "233c233c3af32eec9459a6d554ddc17fa7ffe538",
-      "mtime": "1666913782",
-      "size": "114741",
-      "md5": "096f55fdaa2430a09cdc771793678b3a",
-      "crc32": "53d68f4e",
-      "sha1": "54f2099ed5e223902104d1f5ec2edf1382953370",
+      "btih": "be42882ff706371d4aa409aec792026f7c248fe8",
+      "mtime": "1666915142",
+      "size": "114951",
+      "md5": "77c8e5ece95005f86dc855f8ddfebc4e",
+      "crc32": "d48d20a1",
+      "sha1": "64820ef12e423de4d95f98bc26cef10427116a1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawaretoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18bedfca5674305b99280ae68a689494",
+      "md5": "93654a93e0819e8f39aa55adf7a6924a",
       "summation": "md5"
     },
     {
@@ -5489,9 +5500,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 531,
-  "item_last_updated": 1666913782,
-  "item_size": 29981781,
+  "files_count": 532,
+  "item_last_updated": 1666915142,
+  "item_size": 29992215,
   "metadata": {
     "identifier": "delawaretoday-2022",
     "collection": [
@@ -5508,21 +5519,10 @@
     "publicdate": "2022-09-14 10:58:21",
     "addeddate": "2022-09-14 10:58:21"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454568632,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1106199186,
+  "server": "ia801405.us.archive.org",
+  "uniq": 921284005,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

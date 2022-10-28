@@ -1,5 +1,5 @@
 {
-  "created": 1666898522,
+  "created": 1666906605,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/14/items/northjersey-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "northjersey-2022-10-27T15:20:41.478477-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-27T15:20:41.478477-04:00.jpg",
+      "mtime": "1666906523",
+      "size": "9075",
+      "md5": "6c05001c44a250ab0da639c9df9f4c17",
+      "crc32": "5c9c8b59",
+      "sha1": "20c8378517c6bf8088d960a8709f455722dd6e51"
+    },
+    {
       "name": "northjersey-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0d1766f8892712704f097c34ca9112ffdf5217c6",
-      "mtime": "1666898511",
-      "size": "97529",
-      "md5": "5f8fab0e0c2563245c91146a620e9199",
-      "crc32": "80050f30",
-      "sha1": "3377786c6a5a0924009306079902274012081644",
+      "btih": "90323a0fe71678ff6b69f8bb943f794fbeebe7da",
+      "mtime": "1666906528",
+      "size": "97736",
+      "md5": "f007744dafe093d3c9bddcbe0190e66c",
+      "crc32": "bed9c98c",
+      "sha1": "b469a0174270c0c89f80dc2b6d213aeb9f7d1ded",
       "format": "Archive BitTorrent"
     },
     {
       "name": "northjersey-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4098dca1e8674a7d56a4125578628a3f",
+      "md5": "12527cc084a3acb2c03fe3d85ff3c98e",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666898511,
-  "item_size": 31624655,
+  "files_count": 455,
+  "item_last_updated": 1666906528,
+  "item_size": 31633937,
   "metadata": {
     "identifier": "northjersey-2022",
     "collection": [
@@ -4712,21 +4723,10 @@
     "publicdate": "2022-09-20 19:06:17",
     "addeddate": "2022-09-20 19:06:17"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454354066,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1701436833,
+  "uniq": 2062568794,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

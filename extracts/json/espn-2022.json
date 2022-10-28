@@ -1,13 +1,8 @@
 {
-  "created": 1666899232,
+  "created": 1666902797,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/24/items/espn-2022",
-  "espn-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -13200,21 +13195,32 @@
       "format": "JSON"
     },
     {
+      "name": "espn-2022-10-27T13:55:07.950842-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "espn-2022-10-27T13:55:07.950842-04:00.jpg",
+      "mtime": "1666902705",
+      "size": "11455",
+      "md5": "d677c3d021dcd61c363fe7505faec5e2",
+      "crc32": "694c4b40",
+      "sha1": "60520b908b4be996200b9d57bd974d52df93ba4f"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cfe74595aae757030f933d21534b5cb5aa1cf883",
-      "mtime": "1666893408",
-      "size": "265961",
-      "md5": "ae87769a67264d2b105e70eb49be570f",
-      "crc32": "0680fc21",
-      "sha1": "69630a41ef2e76b4c8483164d2adc312b5fade9b",
+      "btih": "4921e400881e8684cc9bc27b0ba27988c43f473e",
+      "mtime": "1666902731",
+      "size": "266162",
+      "md5": "8cedf44c75cddc4d2bee477dd97e57e9",
+      "crc32": "9c97c621",
+      "sha1": "12082ad656940c28f0fe5a5c5dc54be0a722ad35",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a2d4b29deeb6e34403c4a3f00d50a0d",
+      "md5": "01ae531ad6d5606bbf104c8e374ba121",
       "summation": "md5"
     },
     {
@@ -13238,9 +13244,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1277,
-  "item_last_updated": 1666893408,
-  "item_size": 128680727,
+  "files_count": 1278,
+  "item_last_updated": 1666902731,
+  "item_size": 128692383,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -13257,21 +13263,10 @@
     "publicdate": "2022-07-04 20:48:15",
     "addeddate": "2022-07-04 20:48:15"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454301009,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 466604223,
+  "uniq": 1933710650,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

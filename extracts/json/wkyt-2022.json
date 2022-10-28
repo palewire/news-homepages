@@ -1,5 +1,5 @@
 {
-  "created": 1666887325,
+  "created": 1666920144,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/6/items/wkyt-2022",
@@ -10765,21 +10765,32 @@
       "format": "JSON"
     },
     {
+      "name": "wkyt-2022-10-27T12:13:35.544511-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wkyt-2022-10-27T12:13:35.544511-04:00.jpg",
+      "mtime": "1666897711",
+      "size": "10754",
+      "md5": "284506eb7b1e3a8c798f3f2da75d0176",
+      "crc32": "700f6df8",
+      "sha1": "7b8fb60c119404c132516af9274d399f567e97ef"
+    },
+    {
       "name": "wkyt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "339c2ddbb9eeb6f1e70f0dfbd7df97aada3cf3e2",
-      "mtime": "1666887314",
-      "size": "216852",
-      "md5": "8871358a330f6896f29ca961dd563c95",
-      "crc32": "83625ba9",
-      "sha1": "b7d4cac67c8c74dcbdc006583b73ae1170536cec",
+      "btih": "f496e8b429d563c6c3e3fb6094e698e95ef28ad3",
+      "mtime": "1666897723",
+      "size": "217053",
+      "md5": "75c8f2d61434b0fdca6fd7e471ceecf3",
+      "crc32": "ca310927",
+      "sha1": "9791222097bf48368d5720bf344cb848a3d10ba4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wkyt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6248bcd0f6b42623749407a57e9c5dc9",
+      "md5": "f4a768ab9bac0002f7c8de432a438c76",
       "summation": "md5"
     },
     {
@@ -10803,9 +10814,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1045,
-  "item_last_updated": 1666887314,
-  "item_size": 85927772,
+  "files_count": 1046,
+  "item_last_updated": 1666897723,
+  "item_size": 85938727,
   "metadata": {
     "identifier": "wkyt-2022",
     "collection": [
@@ -10822,21 +10833,15 @@
     "publicdate": "2022-08-01 06:42:22",
     "addeddate": "2022-08-01 06:42:22"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
+  "server": "ia801504.us.archive.org",
   "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454240766,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 307321964,
+  "uniq": 1297811252,
+  "wkyt-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601504.us.archive.org"
+    "ia801504.us.archive.org"
   ]
 }

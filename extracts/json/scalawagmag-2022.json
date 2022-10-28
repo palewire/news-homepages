@@ -1,5 +1,5 @@
 {
-  "created": 1666898947,
+  "created": 1666906826,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/0/items/scalawagmag-2022",
@@ -11557,21 +11557,32 @@
       "format": "JSON"
     },
     {
+      "name": "scalawagmag-2022-10-27T15:28:00.785633-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scalawagmag-2022-10-27T15:28:00.785633-04:00.jpg",
+      "mtime": "1666906773",
+      "size": "8222",
+      "md5": "ae24fb6d968adfdcfafab6c6bd4cd59c",
+      "crc32": "1bc297b7",
+      "sha1": "445de5507c07318ec73849be2a05d24aa8657fcf"
+    },
+    {
       "name": "scalawagmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f9797a1ac4513c00de613e19fb4ca1c929e3416f",
-      "mtime": "1666898942",
-      "size": "239492",
-      "md5": "3c320006584fc7220e143fa8c14b350d",
-      "crc32": "d96beda2",
-      "sha1": "a57534ce4faa27abf12e8622e62f25dbde92c61f",
+      "btih": "013388b8e1a059e9da69183287eadd31e6cc68c0",
+      "mtime": "1666906792",
+      "size": "239699",
+      "md5": "7957f54f260730237e1369a0a49b4b36",
+      "crc32": "de4b6b94",
+      "sha1": "3722dd7171be01cead5cb20853d805a829ea086d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scalawagmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf12bd8d8097b1e6f5fb5593a5529950",
+      "md5": "5a2a86ca30a005050478840a4d9eb82a",
       "summation": "md5"
     },
     {
@@ -11595,9 +11606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1121,
-  "item_last_updated": 1666898942,
-  "item_size": 67078029,
+  "files_count": 1122,
+  "item_last_updated": 1666906792,
+  "item_size": 67086458,
   "metadata": {
     "identifier": "scalawagmag-2022",
     "collection": [
@@ -11614,21 +11625,10 @@
     "publicdate": "2022-07-24 06:22:54",
     "addeddate": "2022-07-24 06:22:54"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454358080,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1531811255,
+  "uniq": 1450955051,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

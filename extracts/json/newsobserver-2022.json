@@ -1,5 +1,5 @@
 {
-  "created": 1666898461,
+  "created": 1666906471,
   "d1": "ia904701.us.archive.org",
   "d2": "ia804701.us.archive.org",
   "dir": "/21/items/newsobserver-2022",
@@ -12547,21 +12547,32 @@
       "format": "JSON"
     },
     {
+      "name": "newsobserver-2022-10-27T15:19:39.413449-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsobserver-2022-10-27T15:19:39.413449-04:00.jpg",
+      "mtime": "1666906356",
+      "size": "9686",
+      "md5": "054e5642666028a7a3cb3de03f9c84c1",
+      "crc32": "c5bb9866",
+      "sha1": "9c3b3c9237e6fe78b59d33785c4afa8511c9393f"
+    },
+    {
       "name": "newsobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f9df6f6901536b5f8acfc2f0e59643e5bf9ac648",
-      "mtime": "1666898451",
-      "size": "260406",
-      "md5": "162bf4d53345c20ca4c9e98590676cb4",
-      "crc32": "68593559",
-      "sha1": "a82fb26a4015691e603574c2644c4b16d55b5424",
+      "btih": "ca37e0d4571965437b7ccad4ae09a06644d75f89",
+      "mtime": "1666906425",
+      "size": "260614",
+      "md5": "95fcbad398626455f067cd8737831280",
+      "crc32": "c323b90c",
+      "sha1": "350028aa5c7a76b32002b6ccc7bebdc3d942d464",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2cbfc7839443f654e0b7f954f6e3ad5",
+      "md5": "f9d2f617d7188e327058b5a7f927c6d5",
       "summation": "md5"
     },
     {
@@ -12585,9 +12596,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1214,
-  "item_last_updated": 1666898451,
-  "item_size": 85104316,
+  "files_count": 1215,
+  "item_last_updated": 1666906425,
+  "item_size": 85114210,
   "metadata": {
     "identifier": "newsobserver-2022",
     "collection": [
@@ -12604,21 +12615,10 @@
     "publicdate": "2022-03-26 14:57:36",
     "addeddate": "2022-03-26 14:57:36"
   },
-  "pending_tasks": true,
-  "server": "ia904701.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454353509,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1767474852,
+  "server": "ia804701.us.archive.org",
+  "uniq": 1280597514,
   "workable_servers": [
+    "ia804701.us.archive.org",
     "ia904701.us.archive.org"
   ]
 }

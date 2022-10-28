@@ -1,5 +1,5 @@
 {
-  "created": 1666914031,
+  "created": 1666915425,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/flightglobal-2022",
@@ -12871,21 +12871,32 @@
       "format": "JSON"
     },
     {
+      "name": "flightglobal-2022-10-28T00:38:53.632099+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flightglobal-2022-10-28T00:38:53.632099+01:00.jpg",
+      "mtime": "1666915332",
+      "size": "9637",
+      "md5": "b466d37e0dc90ca36ad55da660a513e4",
+      "crc32": "2baf1748",
+      "sha1": "247c51d5e53754e7fb3c1490e7617a35ee03ce06"
+    },
+    {
       "name": "flightglobal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b76eca8aa7f9904eaf0c7b5db496efdac8eaf6a1",
-      "mtime": "1666914022",
-      "size": "268115",
-      "md5": "440b704e987fe08bc60a8aaaa3462b16",
-      "crc32": "898adbd8",
-      "sha1": "b192fc1aa89d20e6e2e4045ba0fc75930e31b089",
+      "btih": "349256d90d017d729f5c365de26f607f09521c07",
+      "mtime": "1666915369",
+      "size": "268323",
+      "md5": "6c39763170c18a7c1bb04114cf3ba0ee",
+      "crc32": "918a38b2",
+      "sha1": "78072b2a5e1854e90bb8774f9cbbeba91c4763e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flightglobal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "24c4e9f45f408edd64049d1af702e4e0",
+      "md5": "5f1554b147d385665be130dd390e8791",
       "summation": "md5"
     },
     {
@@ -12909,9 +12920,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1249,
-  "item_last_updated": 1666914022,
-  "item_size": 80550768,
+  "files_count": 1250,
+  "item_last_updated": 1666915369,
+  "item_size": 80560613,
   "metadata": {
     "identifier": "flightglobal-2022",
     "collection": [
@@ -12928,21 +12939,10 @@
     "publicdate": "2022-08-20 23:04:25",
     "addeddate": "2022-08-20 23:04:25"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454573887,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1464520521,
+  "server": "ia801401.us.archive.org",
+  "uniq": 618981141,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666900442,
+  "created": 1666907688,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/15/items/theappeal-2022",
@@ -11577,21 +11577,32 @@
       "format": "JSON"
     },
     {
+      "name": "theappeal-2022-10-27T15:51:57.376411-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-27T15:51:57.376411-04:00.jpg",
+      "mtime": "1666907647",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
       "name": "theappeal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "581920a76474aab9048fd91dc8d447975e67f189",
-      "mtime": "1666900415",
-      "size": "237591",
-      "md5": "48209ba62994601ac2e771003e972e50",
-      "crc32": "9876cfbd",
-      "sha1": "7eaa06d335af7ec70f5da82c8d3b0cc0748f365b",
+      "btih": "c108e1d918ffb9ac49f35de1b10de838885ca582",
+      "mtime": "1666907673",
+      "size": "237796",
+      "md5": "6f86932517a2357e8cc924958cf4e6e9",
+      "crc32": "fcfa8b91",
+      "sha1": "89975b15dd1858f7a9148270543f0614e62077b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theappeal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7b7a7223cb31acf9139fed088a964c0",
+      "md5": "fd906175547256745344fe2a6607b7f1",
       "summation": "md5"
     },
     {
@@ -11615,9 +11626,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1123,
-  "item_last_updated": 1666900415,
-  "item_size": 66025152,
+  "files_count": 1124,
+  "item_last_updated": 1666907673,
+  "item_size": 66034967,
   "metadata": {
     "identifier": "theappeal-2022",
     "collection": [
@@ -11634,21 +11645,10 @@
     "publicdate": "2022-07-24 03:40:26",
     "addeddate": "2022-07-24 03:40:26"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454371291,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1432133863,
+  "server": "ia801404.us.archive.org",
+  "uniq": 2043015383,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666876909,
+  "created": 1666917810,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/midnight_sun_ak-2022",
@@ -5647,21 +5647,32 @@
       "format": "JSON"
     },
     {
+      "name": "midnight_sun_ak-2022-10-27T05:20:07.607996-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "midnight_sun_ak-2022-10-27T05:20:07.607996-08:00.jpg",
+      "mtime": "1666891517",
+      "size": "11146",
+      "md5": "1d5c40ad99f987660140707dd4bfd004",
+      "crc32": "f2b14d14",
+      "sha1": "841024506841f51e33c9b67e92d82765bc9408c6"
+    },
+    {
       "name": "midnight_sun_ak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c508fb2e6cd8d4bee7772d8b2a1fa737197e5b1",
-      "mtime": "1666876899",
-      "size": "119931",
-      "md5": "541cd0dc0b2e042510c822fe2af5589e",
-      "crc32": "f91ae8c2",
-      "sha1": "24e8b3650e1217e08e482063cd63c03d77f6d389",
+      "btih": "dceed642c9353f7c9eeb60e7d9573bb9f1f0dce9",
+      "mtime": "1666891537",
+      "size": "120143",
+      "md5": "dfc4f27153167d9447f8c09d0ff5c0a8",
+      "crc32": "59d30633",
+      "sha1": "95894dab0adb4488bb2a8a631d71a2b22cfdc8b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "midnight_sun_ak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe7ea8d83369ec69277a4393272c9574",
+      "md5": "c2d33cd2f1d8b84a304c513c683bdca8",
       "summation": "md5"
     },
     {
@@ -5685,9 +5696,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1666876899,
-  "item_size": 31354836,
+  "files_count": 551,
+  "item_last_updated": 1666891537,
+  "item_size": 31366194,
   "metadata": {
     "identifier": "midnight_sun_ak-2022",
     "collection": [
@@ -5704,21 +5715,18 @@
     "publicdate": "2022-09-13 01:14:49",
     "addeddate": "2022-09-13 01:14:49"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454138547,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 245322745,
+  "midnight_sun_ak-2022": {
+    "url": "https://midnightsunak.com/",
+    "job_id": "spn2-a3094f1d2ad05f9bd1142748fa0309a53185d967",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "resources": [],
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 928."
+  },
+  "server": "ia801400.us.archive.org",
+  "uniq": 2105831598,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

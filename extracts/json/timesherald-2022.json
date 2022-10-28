@@ -1,5 +1,5 @@
 {
-  "created": 1666883732,
+  "created": 1666919713,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/1/items/timesherald-2022",
@@ -11663,21 +11663,32 @@
       "format": "JSON"
     },
     {
+      "name": "timesherald-2022-10-27T11:14:04.139624-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesherald-2022-10-27T11:14:04.139624-04:00.jpg",
+      "mtime": "1666895566",
+      "size": "9065",
+      "md5": "9b2b63bec3c6b0014b6afff575ec4ca1",
+      "crc32": "5dac2bdf",
+      "sha1": "af4b50e73ff799837904d359846318ccce48938a"
+    },
+    {
       "name": "timesherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f9bf4f58e9c7ef13e556ef303b4bbfff1280f0b",
-      "mtime": "1666883724",
-      "size": "241500",
-      "md5": "6f1b22eb9c4176719642bc75cfbc5c39",
-      "crc32": "a487164a",
-      "sha1": "bc83ea4b8829db2401410b78cd31dfc687bc352f",
+      "btih": "8072c491763d093993f1cbcf8ac8b8672c789d9b",
+      "mtime": "1666895626",
+      "size": "241707",
+      "md5": "acb717339f8c4d4b5e9fa22a9a63131e",
+      "crc32": "5bd46e95",
+      "sha1": "79a4f89b3bf5ffd8a8319639315162628ebc9acc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "07e2ddf49b189bd68ff34afbdb5835bc",
+      "md5": "dc3f3c2f6cc93bcd3ec1a5793c0351eb",
       "summation": "md5"
     },
     {
@@ -11701,9 +11712,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1131,
-  "item_last_updated": 1666883724,
-  "item_size": 69713917,
+  "files_count": 1132,
+  "item_last_updated": 1666895626,
+  "item_size": 69723189,
   "metadata": {
     "identifier": "timesherald-2022",
     "collection": [
@@ -11720,21 +11731,15 @@
     "publicdate": "2022-07-20 23:31:58",
     "addeddate": "2022-07-20 23:31:58"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454199053,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1400244556,
+  "server": "ia801407.us.archive.org",
+  "timesherald-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 183598114,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

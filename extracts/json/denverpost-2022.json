@@ -1,7 +1,12 @@
 {
-  "created": 1666893284,
+  "created": 1666916262,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
+  "denverpost-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/6/items/denverpost-2022",
   "files": [
     {
@@ -9295,21 +9300,32 @@
       "format": "JSON"
     },
     {
+      "name": "denverpost-2022-10-27T11:53:02.758578-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverpost-2022-10-27T11:53:02.758578-06:00.jpg",
+      "mtime": "1666902757",
+      "size": "9267",
+      "md5": "866ceb39e49d25d6c7b8dc46cd6b6b17",
+      "crc32": "0ef76a16",
+      "sha1": "f4ae187877e6d08a3a6ba61f3baef6dd20eafe9c"
+    },
+    {
       "name": "denverpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac944a8e3c44bde46725688aa795ae95a225b8a7",
-      "mtime": "1666893265",
-      "size": "192418",
-      "md5": "c133e27d9ef8dc6b228f8c784b0f0a2d",
-      "crc32": "6d245c37",
-      "sha1": "7cf937cac40878a10570573b2f4848bc56127a39",
+      "btih": "23c30ebdc4b053e4b725057d90d23302e7d8b589",
+      "mtime": "1666902806",
+      "size": "192624",
+      "md5": "a12aec1a1b1121fbed9f79509c6260a8",
+      "crc32": "19022e7c",
+      "sha1": "40b4f27dce3dd84d658c90a765ccee2f38b4ecda",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4426fcaf6eecf8e6bd25b43d34d7301",
+      "md5": "f97d757febe0383af26c5e6bb95b4e5a",
       "summation": "md5"
     },
     {
@@ -9333,9 +9349,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 903,
-  "item_last_updated": 1666893265,
-  "item_size": 64697385,
+  "files_count": 904,
+  "item_last_updated": 1666902806,
+  "item_size": 64706858,
   "metadata": {
     "identifier": "denverpost-2022",
     "collection": [
@@ -9352,21 +9368,10 @@
     "publicdate": "2022-08-14 06:42:22",
     "addeddate": "2022-08-14 06:42:22"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454299616,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 233032868,
+  "uniq": 1543251226,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

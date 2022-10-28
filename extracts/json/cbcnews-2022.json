@@ -1,5 +1,10 @@
 {
-  "created": 1666887112,
+  "cbcnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1666915845,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/8/items/cbcnews-2022",
@@ -14115,21 +14120,32 @@
       "format": "JSON"
     },
     {
+      "name": "cbcnews-2022-10-27T12:10:02.421893-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbcnews-2022-10-27T12:10:02.421893-04:00.jpg",
+      "mtime": "1666897587",
+      "size": "10099",
+      "md5": "03bc61b15028d2a6d107daa383c6c995",
+      "crc32": "cb1ec5d9",
+      "sha1": "12d86a0b8cbb3a862a81e9469ed335172bb23111"
+    },
+    {
       "name": "cbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dddeb6480d3421db538610a855665d2764a240c6",
-      "mtime": "1666887096",
-      "size": "285725",
-      "md5": "ff0ed68c0f48a149aa0d14fb8f3ee4c2",
-      "crc32": "e5580208",
-      "sha1": "18f6087e46f700900ce4650ec992b665627f2019",
+      "btih": "98f597aff95f5506bfa36d12a9e933957099ba27",
+      "mtime": "1666897876",
+      "size": "285929",
+      "md5": "3e887f8639d765e4ee1b602b135f9466",
+      "crc32": "f579fc61",
+      "sha1": "c33b487b58c20c20e103448386c246fa64342c55",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3cca88ff2841614fffbb020b96c10da",
+      "md5": "a36418495dc4b9aa9e1e8ab21dd68e36",
       "summation": "md5"
     },
     {
@@ -14153,9 +14169,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1365,
-  "item_last_updated": 1666887096,
-  "item_size": 91753116,
+  "files_count": 1366,
+  "item_last_updated": 1666897876,
+  "item_size": 91763419,
   "metadata": {
     "identifier": "cbcnews-2022",
     "collection": [
@@ -14172,21 +14188,10 @@
     "publicdate": "2022-06-30 22:35:35",
     "addeddate": "2022-06-30 22:35:35"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238226,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 525164011,
+  "server": "ia801508.us.archive.org",
+  "uniq": 188397212,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

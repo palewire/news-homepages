@@ -1,5 +1,5 @@
 {
-  "created": 1666876704,
+  "created": 1666917405,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/lavanguardia-2022",
@@ -11149,21 +11149,32 @@
       "format": "JSON"
     },
     {
+      "name": "lavanguardia-2022-10-27T15:17:01.624309+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavanguardia-2022-10-27T15:17:01.624309+02:00.jpg",
+      "mtime": "1666891711",
+      "size": "9838",
+      "md5": "71d72fba3743ff452a61b9078b17c57a",
+      "crc32": "9ca21c22",
+      "sha1": "b467b0cdd34f573c185c88cac1b09c6b46167711"
+    },
+    {
       "name": "lavanguardia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aaea1fe962e863bc7f825bb557b8a99db8796454",
-      "mtime": "1666876699",
-      "size": "232415",
-      "md5": "987edc64b1fc08720dab2df1f10b8fa7",
-      "crc32": "4b7f32ca",
-      "sha1": "4acdb4fcad10a4caa2175b0077c85993c4ba17fb",
+      "btih": "13fa81e4867647bc35ac4f9e1eaa6954f60d29ef",
+      "mtime": "1666891724",
+      "size": "232623",
+      "md5": "a5135e1fb24be1823b70c7c5ef24b40c",
+      "crc32": "2ea7bd29",
+      "sha1": "a0429cea244797affedd52bf3b6b846a8a17ec54",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavanguardia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75a319c3122e68c6641947f1f65d6a7f",
+      "md5": "77339c0fe7521a4483f5fe5f665e240b",
       "summation": "md5"
     },
     {
@@ -11187,9 +11198,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1082,
-  "item_last_updated": 1666876699,
-  "item_size": 71677403,
+  "files_count": 1083,
+  "item_last_updated": 1666891724,
+  "item_size": 71687449,
+  "lavanguardia-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lavanguardia-2022",
     "collection": [
@@ -11206,21 +11222,10 @@
     "publicdate": "2022-07-28 18:53:54",
     "addeddate": "2022-07-28 18:53:54"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454136268,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 978347250,
+  "server": "ia801503.us.archive.org",
+  "uniq": 1239822995,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

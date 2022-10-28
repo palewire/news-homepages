@@ -1,5 +1,5 @@
 {
-  "created": 1666883536,
+  "created": 1666919494,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/6/items/theintellnews-2022",
@@ -4571,21 +4571,32 @@
       "format": "JSON"
     },
     {
+      "name": "theintellnews-2022-10-27T11:10:54.634324-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-27T11:10:54.634324-04:00.jpg",
+      "mtime": "1666895589",
+      "size": "9137",
+      "md5": "bd2fb455db98d5fd4cf8ea35465121ed",
+      "crc32": "c223376d",
+      "sha1": "d920c418e654530d7a4993ddb0b5520f981f959b"
+    },
+    {
       "name": "theintellnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a3d845fa212b313b49407c043dcedcc8c6dc106d",
-      "mtime": "1666883531",
-      "size": "96617",
-      "md5": "b85696c945dda95d819ebfe4f2a19ce0",
-      "crc32": "15440f9b",
-      "sha1": "2e80229fd1da1692cb7f31d6179cd1a14cd6276c",
+      "btih": "221a2bfdd78a98a68be357b9c76930d4865458c4",
+      "mtime": "1666895594",
+      "size": "96826",
+      "md5": "0d836b2b958c3fdcb7667aca69e89ad7",
+      "crc32": "a0ef84b3",
+      "sha1": "81feaae0821b899d25705efd1da5c66247997a5b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintellnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8260e2af082c090fa2706f9fe9d5ee27",
+      "md5": "1e6bfcca012506f4abca10d5403afcdf",
       "summation": "md5"
     },
     {
@@ -4609,9 +4620,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1666883531,
-  "item_size": 29594470,
+  "files_count": 447,
+  "item_last_updated": 1666895594,
+  "item_size": 29603816,
   "metadata": {
     "identifier": "theintellnews-2022",
     "collection": [
@@ -4628,21 +4639,15 @@
     "publicdate": "2022-09-21 03:45:20",
     "addeddate": "2022-09-21 03:45:20"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454197046,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1594140269,
+  "theintellnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 90898603,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

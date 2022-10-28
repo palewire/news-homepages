@@ -1,5 +1,5 @@
 {
-  "created": 1666900423,
+  "created": 1666919250,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/statesman-2022",
@@ -12073,21 +12073,32 @@
       "format": "JSON"
     },
     {
+      "name": "statesman-2022-10-27T14:51:58.505125-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statesman-2022-10-27T14:51:58.505125-05:00.jpg",
+      "mtime": "1666907722",
+      "size": "9152",
+      "md5": "bb7c896f3b5b30927c029f3d42297e83",
+      "crc32": "6c9e6111",
+      "sha1": "9d60cd8cf4c89e580fa2122f51a538a4b7a6cb7a"
+    },
+    {
       "name": "statesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "309743ac37e29e1ac5398ac01cd1304718e6a13b",
-      "mtime": "1666900416",
-      "size": "247950",
-      "md5": "c6e06792af4bd5aaa6185791e966f323",
-      "crc32": "f4ba0ae4",
-      "sha1": "321b07f18e056e39fca269fe04c81965e00b84ec",
+      "btih": "fc2bc9e4767fa2b568c30ec1f6846dad8a354ce9",
+      "mtime": "1666907737",
+      "size": "248155",
+      "md5": "51c9fd123d1da7ce71f6456e976025d6",
+      "crc32": "aa10c4a6",
+      "sha1": "9888a77cbd5195e1dc53e9d86004aa348ca0b18a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "24cbf9773f2c1e9d6e163cf45838ccde",
+      "md5": "0cce7bcdbe205bb53c397046848a070f",
       "summation": "md5"
     },
     {
@@ -12111,9 +12122,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1170,
-  "item_last_updated": 1666900416,
-  "item_size": 80529425,
+  "files_count": 1171,
+  "item_last_updated": 1666907737,
+  "item_size": 80538782,
   "metadata": {
     "identifier": "statesman-2022",
     "collection": [
@@ -12130,21 +12141,10 @@
     "publicdate": "2022-07-18 00:05:33",
     "addeddate": "2022-07-18 00:05:33"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454371112,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 745993259,
+  "server": "ia802502.us.archive.org",
+  "uniq": 733574860,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

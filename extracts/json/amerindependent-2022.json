@@ -1,5 +1,5 @@
 {
-  "created": 1666910866,
+  "created": 1666913508,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/amerindependent-2022",
@@ -11289,21 +11289,32 @@
       "format": "JSON"
     },
     {
+      "name": "amerindependent-2022-10-27T18:46:27.877850-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amerindependent-2022-10-27T18:46:27.877850-04:00.jpg",
+      "mtime": "1666913405",
+      "size": "10034",
+      "md5": "457a6996950f4a17a00eac8fd846bc50",
+      "crc32": "bc6ee9f7",
+      "sha1": "4d22132e0ec83f04ad68c71f4462537e3158007b"
+    },
+    {
       "name": "amerindependent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8c369b35c68b0ac62be1db6bd291a1a3aa94352f",
-      "mtime": "1666910859",
-      "size": "237939",
-      "md5": "4fd5e7e041a8086daa485abd7f333d1b",
-      "crc32": "9a0afac7",
-      "sha1": "e2936150e4bc2841a9b91ac5a10629aa200bce14",
+      "btih": "5ae8b531ca07d4d6796e617a731dca9f2d28c818",
+      "mtime": "1666913417",
+      "size": "238151",
+      "md5": "cf67295292f920ab7156eb22b41891df",
+      "crc32": "5e103876",
+      "sha1": "2678be78f08b97610a2ec086dcdf8fd6f3dd1c5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amerindependent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c6fa9adb365784560916a4319be89f5c",
+      "md5": "c8b373cd08b0d6d8153a311e935b2746",
       "summation": "md5"
     },
     {
@@ -11327,9 +11338,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1096,
-  "item_last_updated": 1666910859,
-  "item_size": 51478512,
+  "files_count": 1097,
+  "item_last_updated": 1666913417,
+  "item_size": 51488758,
   "metadata": {
     "identifier": "amerindependent-2022",
     "collection": [
@@ -11346,21 +11357,10 @@
     "publicdate": "2022-08-27 10:46:34",
     "addeddate": "2022-08-27 10:46:34"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454507811,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 65655518,
+  "uniq": 1390929297,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

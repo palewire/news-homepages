@@ -1,5 +1,5 @@
 {
-  "created": 1666886871,
+  "created": 1666919772,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/16/items/tprnews-2022",
@@ -13349,21 +13349,32 @@
       "format": "JSON"
     },
     {
+      "name": "tprnews-2022-10-27T10:13:59.116175-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tprnews-2022-10-27T10:13:59.116175-05:00.jpg",
+      "mtime": "1666896225",
+      "size": "10822",
+      "md5": "4dffafc8672828756f05fcbf03ed5948",
+      "crc32": "423a1996",
+      "sha1": "28e5e3332314db2b1da1695741c83e5847444aa6"
+    },
+    {
       "name": "tprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f9f08c57b060d811c78362efd2bbfc44da208c3",
-      "mtime": "1666883749",
-      "size": "270953",
-      "md5": "35c3a871fab9c7f88a508697c186c762",
-      "crc32": "e4c650a1",
-      "sha1": "9ec02ddae373078e17ab2eb02f36140f616e7f34",
+      "btih": "0c7294ca529c45867f15974fdf2abf03294d42d7",
+      "mtime": "1666896251",
+      "size": "271157",
+      "md5": "dfa8298c342bfef8d86fc14eb4035172",
+      "crc32": "08a77953",
+      "sha1": "4da8126060262310034cdc400c18819af124e4c9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0b08507d49c82bce284208245407a05",
+      "md5": "9d59d72da1fd813cf41b6c145a5c3c2b",
       "summation": "md5"
     },
     {
@@ -13387,9 +13398,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1292,
-  "item_last_updated": 1666883749,
-  "item_size": 85533285,
+  "files_count": 1293,
+  "item_last_updated": 1666896251,
+  "item_size": 85544311,
   "metadata": {
     "identifier": "tprnews-2022",
     "collection": [
@@ -13406,19 +13417,7 @@
     "publicdate": "2022-07-04 21:47:12",
     "addeddate": "2022-07-04 21:47:12"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454199225,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
   "tprnews-2022": {
     "url": "https://www.tpr.org/",
     "job_id": "spn2-9995de407b51edeb27bcec920490b070e6836e2f",
@@ -13584,8 +13583,9 @@
     "duration_sec": 9.431,
     "screenshot": "http://web.archive.org/screenshot/https://www.tpr.org/"
   },
-  "uniq": 2088084821,
+  "uniq": 1234163121,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

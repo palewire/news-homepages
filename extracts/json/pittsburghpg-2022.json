@@ -1,5 +1,5 @@
 {
-  "created": 1666898644,
+  "created": 1666906566,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/24/items/pittsburghpg-2022",
@@ -11307,21 +11307,32 @@
       "format": "JSON"
     },
     {
+      "name": "pittsburghpg-2022-10-27T15:22:44.538874-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-27T15:22:44.538874-04:00.jpg",
+      "mtime": "1666906502",
+      "size": "9996",
+      "md5": "053142bb463cd9df37947c436352b350",
+      "crc32": "9fa1dffb",
+      "sha1": "71fb2e68a7c1cb269db42fe1c0fd16805bb4c382"
+    },
+    {
       "name": "pittsburghpg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b77cc0032e0fc5254d8916072afcf2e415fbc09b",
-      "mtime": "1666898633",
-      "size": "236634",
-      "md5": "7fa43c4c1accfa84cc3e25869d6921e0",
-      "crc32": "00c028bb",
-      "sha1": "939d14ae97ccd564686ae0527fb9e081ecdc20bc",
+      "btih": "2aaa229b813e3230995a0b485986b3999c0a7ebe",
+      "mtime": "1666906535",
+      "size": "236842",
+      "md5": "1919626bf75114a837e0fed1b1bd62b7",
+      "crc32": "167b38f9",
+      "sha1": "13a15a4ca2a77b770a58caf746a04a022928c478",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pittsburghpg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "97375248eb111915e15567988ef2c506",
+      "md5": "d77a23c4070656fe80469000e69e607b",
       "summation": "md5"
     },
     {
@@ -11345,9 +11356,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1097,
-  "item_last_updated": 1666898633,
-  "item_size": 98243539,
+  "files_count": 1098,
+  "item_last_updated": 1666906535,
+  "item_size": 98253743,
   "metadata": {
     "identifier": "pittsburghpg-2022",
     "collection": [
@@ -11364,21 +11375,10 @@
     "publicdate": "2022-07-26 03:54:28",
     "addeddate": "2022-07-26 03:54:28"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355277,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1712313591,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1773344947,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

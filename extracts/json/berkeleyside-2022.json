@@ -1,5 +1,5 @@
 {
-  "created": 1666911221,
+  "created": 1666913961,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/berkeleyside-2022",
@@ -20803,21 +20803,32 @@
       "format": "JSON"
     },
     {
+      "name": "berkeleyside-2022-10-27T15:48:20.750553-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-10-27T15:48:20.750553-07:00.jpg",
+      "mtime": "1666913850",
+      "size": "9908",
+      "md5": "661a75df7d5a214091df89a9b17943c4",
+      "crc32": "880f0318",
+      "sha1": "dcff1d28dce128f1b54a6d288aa5e087b69c1dcf"
+    },
+    {
       "name": "berkeleyside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea6b330900528742dcaffea36567b8118bae1e60",
-      "mtime": "1666911214",
-      "size": "430797",
-      "md5": "0cbd61a4bcc5a4edef6b13eaaad3f128",
-      "crc32": "491d8c9f",
-      "sha1": "09c730073ba60026d149dbbef96b554e53752b7d",
+      "btih": "2eba0cb524316d3869949f3c122af0ee2a647cbd",
+      "mtime": "1666913883",
+      "size": "431005",
+      "md5": "6d40c899c62b84bc8b29521b6e029c8c",
+      "crc32": "96351e3b",
+      "sha1": "2f67eb47e9eeacf0a8c105683b8893df637c4a47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkeleyside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c7e2a25381c964c74b68163765effd2c",
+      "md5": "7a9dd8e762193eb739d1a208afe98b87",
       "summation": "md5"
     },
     {
@@ -20841,9 +20852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2001,
-  "item_last_updated": 1666911214,
-  "item_size": 178456141,
+  "files_count": 2002,
+  "item_last_updated": 1666913883,
+  "item_size": 178466257,
   "metadata": {
     "identifier": "berkeleyside-2022",
     "collection": [
@@ -20861,21 +20872,10 @@
     "addeddate": "2022-03-23 02:08:42",
     "year": "2022"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454515593,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 9028537,
+  "uniq": 186434042,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

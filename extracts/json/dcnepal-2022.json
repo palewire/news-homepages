@@ -1,5 +1,5 @@
 {
-  "created": 1666893279,
+  "created": 1666902582,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/dcnepal-2022",
@@ -11587,21 +11587,32 @@
       "format": "JSON"
     },
     {
+      "name": "dcnepal-2022-10-27T23:38:09.043381+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dcnepal-2022-10-27T23:38:09.043381+05:45.jpg",
+      "mtime": "1666902479",
+      "size": "9692",
+      "md5": "f0a9ab42aeae4f3a875533c735d4f6d7",
+      "crc32": "d5691b91",
+      "sha1": "db9cd4e7fc0e09cd26052adb9527f1dde70fa03e"
+    },
+    {
       "name": "dcnepal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3562ba9de53860c3ce85d71f1a3c19614ec3d667",
-      "mtime": "1666893269",
-      "size": "236781",
-      "md5": "c7c69ad7bde7157eeaff73947cb2a90e",
-      "crc32": "69584117",
-      "sha1": "73d27a9a98afc1f72c9b4d9de391b373ddc5f6e4",
+      "btih": "be020796e2e5ef2695336a06e8ae92d5282d2969",
+      "mtime": "1666902524",
+      "size": "236984",
+      "md5": "b14526c0d53a42baf7813e3eb4bdc30a",
+      "crc32": "107c7518",
+      "sha1": "7778b71b851c7d94ba3fcd058042c574b7b04edf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcnepal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "12c388ea1bfadb6af3a423f7ec5e677f",
+      "md5": "84a279cc04242940816ee1564f9c640a",
       "summation": "md5"
     },
     {
@@ -11625,9 +11636,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1124,
-  "item_last_updated": 1666893269,
-  "item_size": 92827538,
+  "files_count": 1125,
+  "item_last_updated": 1666902524,
+  "item_size": 92837433,
   "metadata": {
     "identifier": "dcnepal-2022",
     "collection": [
@@ -11644,21 +11655,10 @@
     "publicdate": "2022-07-24 20:37:41",
     "addeddate": "2022-07-24 20:37:41"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454299572,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 817793713,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1443343264,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

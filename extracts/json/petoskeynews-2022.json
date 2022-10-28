@@ -1,5 +1,5 @@
 {
-  "created": 1666900914,
+  "created": 1666906598,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/21/items/petoskeynews-2022",
@@ -4645,21 +4645,32 @@
       "format": "JSON"
     },
     {
+      "name": "petoskeynews-2022-10-27T15:22:56.742373-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "petoskeynews-2022-10-27T15:22:56.742373-04:00.jpg",
+      "mtime": "1666906528",
+      "size": "9398",
+      "md5": "f88352565b550f7efdb081bd5a43108f",
+      "crc32": "313a5254",
+      "sha1": "762401536fb19e1d32b4ee03a2783e4f774d6cef"
+    },
+    {
       "name": "petoskeynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84b8b2c56cffa908844b382fed21ad4c73696f30",
-      "mtime": "1666898633",
-      "size": "97724",
-      "md5": "97636426eb4014a0a5430618ef4ef722",
-      "crc32": "f429a586",
-      "sha1": "39a689e48248b3884d54a79ac2eb4e186768f660",
+      "btih": "ee9425e2d795dabe75cc0f622e4f88a014b28c47",
+      "mtime": "1666906534",
+      "size": "97932",
+      "md5": "8e53360a221124ee7495ab12c166ea70",
+      "crc32": "1fbb812d",
+      "sha1": "3f20ae5f4a6a501b5c8ac3935e5d8c2bda1998e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "petoskeynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2cb86acaae6efe3511affa64b0fad9f",
+      "md5": "f0620bcceb7320aa38fe0298f514b310",
       "summation": "md5"
     },
     {
@@ -4683,9 +4694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666898633,
-  "item_size": 31155152,
+  "files_count": 454,
+  "item_last_updated": 1666906534,
+  "item_size": 31164758,
   "metadata": {
     "identifier": "petoskeynews-2022",
     "collection": [
@@ -4702,26 +4713,10 @@
     "publicdate": "2022-09-20 19:10:30",
     "addeddate": "2022-09-20 19:10:30"
   },
-  "pending_tasks": true,
-  "petoskeynews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355178,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1264584363,
+  "uniq": 695483775,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

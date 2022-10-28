@@ -1,5 +1,5 @@
 {
-  "created": 1666880379,
+  "created": 1666918908,
   "d1": "ia904709.us.archive.org",
   "d2": "ia804709.us.archive.org",
   "dir": "/7/items/rtdnews-2022",
@@ -11339,21 +11339,32 @@
       "format": "JSON"
     },
     {
+      "name": "rtdnews-2022-10-27T10:18:30.017343-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rtdnews-2022-10-27T10:18:30.017343-04:00.jpg",
+      "mtime": "1666893570",
+      "size": "11792",
+      "md5": "80a37d5a7abea473a47509a3c1a96845",
+      "crc32": "8f9a4b4e",
+      "sha1": "5a0537c3fbf668b47b959775171990730310cb6a"
+    },
+    {
       "name": "rtdnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b874c8177f82cd500391b5b56191ca094f82f1e5",
-      "mtime": "1666880375",
-      "size": "231470",
-      "md5": "c006d5e4b82d603e67fac90f868373d6",
-      "crc32": "c9d1fa41",
-      "sha1": "ddc0796d034f7b47c3cdcea4ebed91ec6c16e7ef",
+      "btih": "4c5ed324759aa59112c055d3f81879d1c64c589f",
+      "mtime": "1666893589",
+      "size": "231674",
+      "md5": "2ffc564b5520a43245bd686a036940de",
+      "crc32": "d7c7faa7",
+      "sha1": "ba51c50185baf15a332d011445e4bf9f7f003906",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rtdnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7642253094e183ae02dcf0c16b421e6e",
+      "md5": "50127b3d96c4b1587ba0133fd71aaf05",
       "summation": "md5"
     },
     {
@@ -11377,9 +11388,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1100,
-  "item_last_updated": 1666880375,
-  "item_size": 86967363,
+  "files_count": 1101,
+  "item_last_updated": 1666893589,
+  "item_size": 86979359,
   "metadata": {
     "identifier": "rtdnews-2022",
     "collection": [
@@ -11396,21 +11407,15 @@
     "publicdate": "2022-07-26 00:24:52",
     "addeddate": "2022-07-26 00:24:52"
   },
-  "pending_tasks": true,
+  "rtdnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia904709.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169149,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1564749031,
+  "uniq": 728156204,
   "workable_servers": [
-    "ia904709.us.archive.org"
+    "ia904709.us.archive.org",
+    "ia804709.us.archive.org"
   ]
 }

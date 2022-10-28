@@ -1,5 +1,5 @@
 {
-  "created": 1666898744,
+  "created": 1666906674,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/prisonjourn-2022",
@@ -7653,21 +7653,32 @@
       "format": "JSON"
     },
     {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-27T14:24:19.804549-05:00.jpg",
+      "mtime": "1666906565",
+      "size": "9144",
+      "md5": "10a3e38bf4e608af598d6db003767ce1",
+      "crc32": "fa60325f",
+      "sha1": "73535e5cc5cae7b4b845943424a9c2399b26865c"
+    },
+    {
       "name": "prisonjourn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "16dc0e46bb6bd27bf46efcf36190328d1a3d0633",
-      "mtime": "1666898739",
-      "size": "158838",
-      "md5": "8fb8cbd1319bbe4ab689fd146fbc597d",
-      "crc32": "4a253c3e",
-      "sha1": "9da5fd68a15f84c7a40a60c9ca3a54055057377d",
+      "btih": "fb4775e771d5b45f24bd797be6056f0d857171cb",
+      "mtime": "1666906632",
+      "size": "159045",
+      "md5": "fb7f486ac391ca4ff6fc779d07b1816b",
+      "crc32": "76214518",
+      "sha1": "151dc39ff5d37187c6920476cb9acee54df9e43a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prisonjourn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c90812e420c5bcee3fcc0da792cb76de",
+      "md5": "211b358af3d376225704341cdd1c6ea9",
       "summation": "md5"
     },
     {
@@ -7691,9 +7702,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 744,
-  "item_last_updated": 1666898739,
-  "item_size": 38329067,
+  "files_count": 745,
+  "item_last_updated": 1666906632,
+  "item_size": 38338418,
   "metadata": {
     "identifier": "prisonjourn-2022",
     "collection": [
@@ -7710,21 +7721,10 @@
     "publicdate": "2022-08-26 16:04:20",
     "addeddate": "2022-08-26 16:04:20"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454356265,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1488307344,
+  "server": "ia801505.us.archive.org",
+  "uniq": 268401231,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

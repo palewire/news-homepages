@@ -1,13 +1,5 @@
 {
-  "atarde-2022": {
-    "url": "https://atarde.com.br/",
-    "job_id": "spn2-7009b53c63358c4e41505cc559d29f1b6737278d",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
-  "created": 1666890692,
+  "created": 1666915539,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/27/items/atarde-2022",
@@ -15037,21 +15029,32 @@
       "format": "JSON"
     },
     {
+      "name": "atarde-2022-10-27T13:07:27.001407-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atarde-2022-10-27T13:07:27.001407-03:00.jpg",
+      "mtime": "1666897548",
+      "size": "10721",
+      "md5": "79ef5953bd8e35d7e99f716719e7fd18",
+      "crc32": "ca68c5a0",
+      "sha1": "83edbc12dc155bdee542395ebf36cd7f3aff2820"
+    },
+    {
       "name": "atarde-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5b743f5e929e7504d3da493ed30047e782f12e8",
-      "mtime": "1666886997",
-      "size": "304795",
-      "md5": "22d3803ecee29e0ab63c44736c25bb90",
-      "crc32": "5035cd24",
-      "sha1": "f084c758846d9d3ee62dd5c690f2688735bc5e8b",
+      "btih": "2b8f1e3fe4fc0ce944a897fcb07273bcc58f850e",
+      "mtime": "1666897731",
+      "size": "304998",
+      "md5": "832f5d91ede4b7218714862d1bba1630",
+      "crc32": "0b7525a1",
+      "sha1": "e31509b43efcf6e55b6dacc24eefc95b733d9b04",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atarde-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "17a588f5a4291ffb69a26e349d788899",
+      "md5": "12e06660fafd154c16708c4619fc174f",
       "summation": "md5"
     },
     {
@@ -15075,9 +15078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1458,
-  "item_last_updated": 1666886997,
-  "item_size": 106949474,
+  "files_count": 1459,
+  "item_last_updated": 1666897731,
+  "item_size": 106960398,
   "metadata": {
     "identifier": "atarde-2022",
     "collection": [
@@ -15094,21 +15097,10 @@
     "publicdate": "2022-08-04 04:55:22",
     "addeddate": "2022-08-04 04:55:22"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454236905,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 606907858,
+  "server": "ia801405.us.archive.org",
+  "uniq": 768604523,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

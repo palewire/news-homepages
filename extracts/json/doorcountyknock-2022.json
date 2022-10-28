@@ -1,5 +1,5 @@
 {
-  "created": 1666898961,
+  "created": 1666916317,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/23/items/doorcountyknock-2022",
@@ -12894,21 +12894,32 @@
       "format": "JSON"
     },
     {
+      "name": "doorcountyknock-2022-10-27T12:55:25.314988-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "doorcountyknock-2022-10-27T12:55:25.314988-05:00.jpg",
+      "mtime": "1666903103",
+      "size": "9167",
+      "md5": "abb6f5bf152f458eb31e23aac4c16b93",
+      "crc32": "46a80157",
+      "sha1": "31e2642bd69d553e5c57153a41aaf054a2a57601"
+    },
+    {
       "name": "doorcountyknock-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad801a5bc77031d62f2c34b0127b43b43d0aebd8",
-      "mtime": "1666893416",
-      "size": "270694",
-      "md5": "48f220fbe5d03948f15301ddfeff137a",
-      "crc32": "98cbe3d8",
-      "sha1": "eb9620ade85507a8d15897179ffdc8f18ab00468",
+      "btih": "bd149dc2bfcce0db35c3f5a0bb03bd3514d0b97c",
+      "mtime": "1666903160",
+      "size": "270905",
+      "md5": "e11c34f2dae665f7a83b8c55760887b9",
+      "crc32": "a6f1676a",
+      "sha1": "becb23e8b8c3b50ca8594f1ebe8f565af4d9eb45",
       "format": "Archive BitTorrent"
     },
     {
       "name": "doorcountyknock-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c126fd5ef9f4251c86611a5df701c2a",
+      "md5": "327f6a2086c8bf6b5d179e204fc2dde4",
       "summation": "md5"
     },
     {
@@ -12932,9 +12943,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1248,
-  "item_last_updated": 1666893416,
-  "item_size": 59567816,
+  "files_count": 1249,
+  "item_last_updated": 1666903160,
+  "item_size": 59577194,
   "metadata": {
     "identifier": "doorcountyknock-2022",
     "collection": [
@@ -12951,21 +12962,10 @@
     "publicdate": "2022-07-09 03:57:34",
     "addeddate": "2022-07-09 03:57:34"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454301084,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1626460044,
+  "server": "ia801403.us.archive.org",
+  "uniq": 429126470,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

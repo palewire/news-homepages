@@ -1,5 +1,5 @@
 {
-  "created": 1666898831,
+  "created": 1666918379,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/salinajournal-2022",
@@ -4625,21 +4625,32 @@
       "format": "JSON"
     },
     {
+      "name": "salinajournal-2022-10-27T14:25:54.400522-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salinajournal-2022-10-27T14:25:54.400522-05:00.jpg",
+      "mtime": "1666906646",
+      "size": "9113",
+      "md5": "073fc4d7163f7ba0a470a61ccbb43caf",
+      "crc32": "ffb592f5",
+      "sha1": "ce0fe95e59f3adb2e7d4dc1e50d983e9b155bf85"
+    },
+    {
       "name": "salinajournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5222d86afe413778cffda9d1d27a1f32931ba75d",
-      "mtime": "1666898821",
-      "size": "97695",
-      "md5": "02dc664340c289d187db35aa097da13f",
-      "crc32": "5cf149a6",
-      "sha1": "3b5ea46cb6913ff305664b7e96dbe9f08b162f2e",
+      "btih": "c55017c6a55fe8607e53425ada2bb517b44fdb2a",
+      "mtime": "1666906659",
+      "size": "97904",
+      "md5": "e65df0019166aadfb51279f80f523b93",
+      "crc32": "e4d44118",
+      "sha1": "e2c94ce6a2739b099ca4dbe7e1c99b8297c9dc1d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salinajournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "15e22e56f85d6fa5344f5d182fbe6931",
+      "md5": "709c955f087801af1b5d2236898eadd4",
       "summation": "md5"
     },
     {
@@ -4663,9 +4674,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 451,
-  "item_last_updated": 1666898821,
-  "item_size": 30131902,
+  "files_count": 452,
+  "item_last_updated": 1666906659,
+  "item_size": 30141224,
   "metadata": {
     "identifier": "salinajournal-2022",
     "collection": [
@@ -4682,21 +4693,10 @@
     "publicdate": "2022-09-20 19:23:54",
     "addeddate": "2022-09-20 19:23:54"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454357129,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 958108579,
+  "server": "ia801508.us.archive.org",
+  "uniq": 2106652914,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

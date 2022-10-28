@@ -1,5 +1,5 @@
 {
-  "created": 1666887091,
+  "created": 1666919476,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/thehawkeye-2022",
@@ -5575,21 +5575,32 @@
       "format": "JSON"
     },
     {
+      "name": "thehawkeye-2022-10-27T10:10:53.628082-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehawkeye-2022-10-27T10:10:53.628082-05:00.jpg",
+      "mtime": "1666895436",
+      "size": "9457",
+      "md5": "2b4cf6b2ac3c3513fcebff620d1456f5",
+      "crc32": "5afad8d0",
+      "sha1": "b61376293615a73a823bdfb805bd4de5e7cbc43a"
+    },
+    {
       "name": "thehawkeye-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f63d76094da25a5433e9779bde1d1bcbd6591e8e",
-      "mtime": "1666883525",
-      "size": "115831",
-      "md5": "dc43805a490188900697b2f2fcc070a3",
-      "crc32": "7296ce2e",
-      "sha1": "fcef19a4cf83a0fc612946688c546c2aa73515fd",
+      "btih": "3fbdcb8c96b8cfafcd957560e6758c9c92d2dae2",
+      "mtime": "1666895449",
+      "size": "116037",
+      "md5": "3874b461adad20546da6104a9eb79726",
+      "crc32": "3457cde1",
+      "sha1": "379abdf9847bce61d5970a58901522e12271fda8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehawkeye-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "549d563e3ee760e9bf60b2344e08658b",
+      "md5": "34d85269c93c1181266f6d02dd681725",
       "summation": "md5"
     },
     {
@@ -5613,9 +5624,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 543,
-  "item_last_updated": 1666883525,
-  "item_size": 35594090,
+  "files_count": 544,
+  "item_last_updated": 1666895449,
+  "item_size": 35603753,
   "metadata": {
     "identifier": "thehawkeye-2022",
     "collection": [
@@ -5632,19 +5643,7 @@
     "publicdate": "2022-09-21 03:44:47",
     "addeddate": "2022-09-21 03:44:47"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454196983,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
+  "server": "ia801505.us.archive.org",
   "thehawkeye-2022": {
     "url": "https://www.thehawkeye.com/",
     "job_id": "spn2-d960eed561243b8243d11a441a7534837cee23f5",
@@ -6052,8 +6051,9 @@
       "https://cdn.taboola.com/libtrc/static/video/t_PERFORMANCE_VIDEO_DEFAULT/v1616923202/loghcibpvlbfn566a4bo.mp4"
     ]
   },
-  "uniq": 70825651,
+  "uniq": 1757966023,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666887040,
+  "created": 1666898468,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/thetriibe-2022",
@@ -21903,21 +21903,32 @@
       "format": "JSON"
     },
     {
+      "name": "thetriibe-2022-10-27T11:03:46.703400-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetriibe-2022-10-27T11:03:46.703400-05:00.jpg",
+      "mtime": "1666897662",
+      "size": "10943",
+      "md5": "cdbb7887400dd5224439831faa5d2982",
+      "crc32": "30b75217",
+      "sha1": "8727dba6cb439a3339eebb41a731f6060612adb5"
+    },
+    {
       "name": "thetriibe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "251c86a961a96d76a2d198ee655ddae36e1ed305",
-      "mtime": "1666887019",
-      "size": "446967",
-      "md5": "65adc5f36e03545c2227c8b1f520cf47",
-      "crc32": "45540179",
-      "sha1": "81340601494c524ed4769a7cb88d4f6a09df0829",
+      "btih": "55042fad408c89e69a330080464412534047f3bd",
+      "mtime": "1666898115",
+      "size": "447173",
+      "md5": "789459d44558aa23eab3238fc4662128",
+      "crc32": "221da154",
+      "sha1": "505106625a8d894d1765d78656081d783e0adfc5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetriibe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec0014dfbd8ad6d5f59f5cc28f393f5a",
+      "md5": "7287fbe255d9be5887e9744209bc8fda",
       "summation": "md5"
     },
     {
@@ -21941,9 +21952,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2115,
-  "item_last_updated": 1666887019,
-  "item_size": 148606277,
+  "files_count": 2116,
+  "item_last_updated": 1666898115,
+  "item_size": 148617426,
   "metadata": {
     "identifier": "thetriibe-2022",
     "collection": [
@@ -21960,21 +21971,10 @@
     "publicdate": "2022-06-19 23:29:01",
     "addeddate": "2022-06-19 23:29:01"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454237272,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1671443744,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1904370749,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

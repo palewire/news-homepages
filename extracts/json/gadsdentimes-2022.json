@@ -1,5 +1,5 @@
 {
-  "created": 1666893570,
+  "created": 1666912135,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/17/items/gadsdentimes-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.jpg",
+      "mtime": "1666902835",
+      "size": "9405",
+      "md5": "893e4cec9bb99371ce8e6be7c246cb61",
+      "crc32": "e1c4bed2",
+      "sha1": "7c2aab86ace4fecc57c565a36c5307d6e8cbebf4"
+    },
+    {
       "name": "gadsdentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e7964f3cdde6f7bab1861c07e6c591834f8ed03",
-      "mtime": "1666893563",
-      "size": "97908",
-      "md5": "d7a255f2f2719423b35852626facb6c3",
-      "crc32": "a0cd67d4",
-      "sha1": "c4b19c38b2f2aac98a77c229e14a80cc270e087a",
+      "btih": "81a313e10796a9c68a1cd49a374f63b785af80e9",
+      "mtime": "1666902840",
+      "size": "98116",
+      "md5": "4744c55743e974658fc4106732c6ce6d",
+      "crc32": "0bab16de",
+      "sha1": "8e1548eb107bf1d46d985747a4920947bc65737b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gadsdentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2da5af055e16928c2c34e761b22b9838",
+      "md5": "3d001895608d47cee8b5df57dceaf747",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666893563,
-  "item_size": 30761006,
+  "files_count": 455,
+  "item_last_updated": 1666902840,
+  "item_size": 30770619,
   "metadata": {
     "identifier": "gadsdentimes-2022",
     "collection": [
@@ -4712,21 +4723,10 @@
     "publicdate": "2022-09-20 17:53:32",
     "addeddate": "2022-09-20 17:53:32"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302478,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 828265097,
+  "server": "ia801505.us.archive.org",
+  "uniq": 215640444,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

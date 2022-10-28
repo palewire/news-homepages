@@ -1,5 +1,5 @@
 {
-  "created": 1666911072,
+  "created": 1666913693,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/breitbartnews-2022",
@@ -25691,21 +25691,32 @@
       "format": "JSON"
     },
     {
+      "name": "breitbartnews-2022-10-27T18:49:23.868683-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "breitbartnews-2022-10-27T18:49:23.868683-04:00.jpg",
+      "mtime": "1666913613",
+      "size": "10237",
+      "md5": "1301a0935eed8ebe70dfd381192be8d2",
+      "crc32": "5036b214",
+      "sha1": "458a5951c4e7092ab3e55e82425d1e3af8795949"
+    },
+    {
       "name": "breitbartnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b776d3c5f0c1afc50a27375cc2d5e3757f26e822",
-      "mtime": "1666911065",
-      "size": "535038",
-      "md5": "25e224c997cc7554ccf3370b4e728cd6",
-      "crc32": "4d742d47",
-      "sha1": "743cc05edc258d31dbd137bd20638decff13bf8d",
+      "btih": "ff41af7692729fc800ed37970eedf9f8a9148160",
+      "mtime": "1666913671",
+      "size": "535248",
+      "md5": "2a161f5a303570da6c7f961ab925d7bb",
+      "crc32": "3a7b7d4e",
+      "sha1": "f9228c8b3722606e9a8613e875a7acc841cc9cd8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breitbartnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc2fc69850e18e1fa487ed88ebe96bb0",
+      "md5": "b6b2fc7f13159143a40ac60abd3d28a1",
       "summation": "md5"
     },
     {
@@ -25729,9 +25740,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2475,
-  "item_last_updated": 1666911065,
-  "item_size": 213866799,
+  "files_count": 2476,
+  "item_last_updated": 1666913671,
+  "item_size": 213877246,
   "metadata": {
     "identifier": "breitbartnews-2022",
     "collection": [
@@ -25748,21 +25759,10 @@
     "publicdate": "2022-03-25 18:46:45",
     "addeddate": "2022-03-25 18:46:45"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454512386,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1511971497,
+  "uniq": 1540123024,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

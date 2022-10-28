@@ -1,5 +1,5 @@
 {
-  "created": 1666886733,
+  "created": 1666919198,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/spectrumnews-2022",
@@ -14623,21 +14623,32 @@
       "format": "JSON"
     },
     {
+      "name": "spectrumnews-2022-10-27T09:07:42.215249-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-10-27T09:07:42.215249-06:00.jpg",
+      "mtime": "1666895419",
+      "size": "8887",
+      "md5": "1aa6cd68b7c6d5c91b51da3791b10022",
+      "crc32": "81dcbfe9",
+      "sha1": "06a4a4b694799b21ac83b5644bf42f9537c8ee57"
+    },
+    {
       "name": "spectrumnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09fa235b6f6f70c90b20ff1f07386fc039a66023",
-      "mtime": "1666883337",
-      "size": "303292",
-      "md5": "cc09cec27e26665832c6b84f6cd9d14d",
-      "crc32": "07babfa9",
-      "sha1": "1e6534ef9a17b7caa8501d1a0609d351b7e46f4b",
+      "btih": "1f0af50d35c6d74f27edb88cf9b9c2d71d34e304",
+      "mtime": "1666895449",
+      "size": "303500",
+      "md5": "69d9357bbc58b09eb390b8464c857c4e",
+      "crc32": "6b83c791",
+      "sha1": "6c5b30492d6582a2f5acfd2caf0dcf1d50e69024",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectrumnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ca891261a692705c38e700be78c3fbd",
+      "md5": "ce5e4a7e4c04478fd0385f0dcd7c9302",
       "summation": "md5"
     },
     {
@@ -14661,9 +14672,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1413,
-  "item_last_updated": 1666883337,
-  "item_size": 95549758,
+  "files_count": 1414,
+  "item_last_updated": 1666895449,
+  "item_size": 95558853,
   "metadata": {
     "identifier": "spectrumnews-2022",
     "collection": [
@@ -14680,25 +14691,14 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
   "spectrumnews-2022": {
     "url": "https://www.thespectrum.com/",
     "job_id": "spn2-7862712e63b689c763f0c1e8420af4f338fb70e3"
   },
-  "tasks": [
-    {
-      "task_id": 3454194825,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 296474812,
+  "uniq": 1546301913,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

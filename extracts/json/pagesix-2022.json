@@ -1,5 +1,5 @@
 {
-  "created": 1666880189,
+  "created": 1666918395,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/8/items/pagesix-2022",
@@ -6825,21 +6825,32 @@
       "format": "JSON"
     },
     {
+      "name": "pagesix-2022-10-27T10:15:30.263428-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pagesix-2022-10-27T10:15:30.263428-04:00.jpg",
+      "mtime": "1666893905",
+      "size": "11216",
+      "md5": "82ceee9ad5308682787cc6d3f7ae0eb4",
+      "crc32": "042a7e55",
+      "sha1": "23d408538572e988df6391c5f7ab73b6303a0e50"
+    },
+    {
       "name": "pagesix-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d8ad0792e2612f3abf6bf023ac1417d895a1b72",
-      "mtime": "1666880187",
-      "size": "139640",
-      "md5": "d98f9398d42a5e0e45fa1155bfb49463",
-      "crc32": "085a84ad",
-      "sha1": "6609501e76b27ad5dc7bfab596c24fdd65081c3e",
+      "btih": "4a4b87591165602bb9c90f45918d13b49addd5dd",
+      "mtime": "1666893915",
+      "size": "139844",
+      "md5": "df41aa9ab60bf1f057af078a9eef48ef",
+      "crc32": "7187947c",
+      "sha1": "ff165789bc89f68bb8f82bed5860c3d8e79b5a81",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pagesix-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4730124a7ea382e17223dc5766bbee25",
+      "md5": "467038c67fa4ab61425ce2f6bb732a39",
       "summation": "md5"
     },
     {
@@ -6863,9 +6874,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 664,
-  "item_last_updated": 1666880187,
-  "item_size": 44797348,
+  "files_count": 665,
+  "item_last_updated": 1666893915,
+  "item_size": 44808768,
   "metadata": {
     "identifier": "pagesix-2022",
     "collection": [
@@ -6882,21 +6893,15 @@
     "publicdate": "2022-09-03 00:04:04",
     "addeddate": "2022-09-03 00:04:04"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167341,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1159184353,
+  "pagesix-2022": {
+    "url": "https://pagesix.com/",
+    "job_id": "spn2-b627b08f01fc8628c299367924dddddb7891b42b",
+    "message": "The same snapshot had been made 31 minutes, 28 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "server": "ia801504.us.archive.org",
+  "uniq": 1607790983,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

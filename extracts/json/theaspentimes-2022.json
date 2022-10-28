@@ -1,5 +1,5 @@
 {
-  "created": 1666883508,
+  "created": 1666919413,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/theaspentimes-2022",
@@ -8047,21 +8047,32 @@
       "format": "JSON"
     },
     {
+      "name": "theaspentimes-2022-10-27T09:10:38.273002-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theaspentimes-2022-10-27T09:10:38.273002-06:00.jpg",
+      "mtime": "1666895388",
+      "size": "9518",
+      "md5": "fbef721e0851f0a3ef4a43a562d637e5",
+      "crc32": "8d0765a1",
+      "sha1": "9f477eca712bf5d160ab06a1662f3adf5ca941f0"
+    },
+    {
       "name": "theaspentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "94931097b378e2b7f4d51924f8783a223ea0591a",
-      "mtime": "1666883504",
-      "size": "168570",
-      "md5": "6407b7796d24931bc5060ee5f5616feb",
-      "crc32": "3f49fcb6",
-      "sha1": "42f35d6c26afe80ce9d317c68889e1d11d1bfe48",
+      "btih": "a0ed51a596e72fba8c9803747e1041e4fcb83c93",
+      "mtime": "1666895407",
+      "size": "168779",
+      "md5": "393a15c64fdfdb13a33a7fdc1ee81a55",
+      "crc32": "a673b2bb",
+      "sha1": "46b44e26d53cc6173f7efdfac7dd30cbef91021c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theaspentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "043bb2f7c497b33bcb21b878cd000edc",
+      "md5": "4ee35fe2f1f274e9e0b82580aaa5db84",
       "summation": "md5"
     },
     {
@@ -8085,9 +8096,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 782,
-  "item_last_updated": 1666883504,
-  "item_size": 43645503,
+  "files_count": 783,
+  "item_last_updated": 1666895407,
+  "item_size": 43655230,
   "metadata": {
     "identifier": "theaspentimes-2022",
     "collection": [
@@ -8104,21 +8115,51 @@
     "publicdate": "2022-08-22 13:05:38",
     "addeddate": "2022-08-22 13:05:38"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "theaspentimes-2022": [
     {
-      "task_id": 3454196689,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.aspentimes.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aspentimes_com-_-2022_10_27_14_51_12.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aspentimes_com-_-2022_10_27_14_51_12.report.json",
+      "summary": {
+        "performance": 0.18,
+        "accessibility": 0.88,
+        "best-practices": 0.67,
+        "seo": 0.83,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.aspentimes.com/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aspentimes_com-_-2022_10_27_14_51_34.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aspentimes_com-_-2022_10_27_14_51_34.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.88,
+        "best-practices": 0.67,
+        "seo": 0.83,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.aspentimes.com/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aspentimes_com-_-2022_10_27_14_51_56.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_aspentimes_com-_-2022_10_27_14_51_56.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.88,
+        "best-practices": 0.67,
+        "seo": 0.83,
+        "pwa": 0.7
+      }
     }
   ],
-  "uniq": 820730753,
+  "uniq": 723373938,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

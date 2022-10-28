@@ -1,5 +1,5 @@
 {
-  "created": 1666900426,
+  "created": 1666908008,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -14135,21 +14135,32 @@
       "format": "JSON"
     },
     {
+      "name": "stltoday-2022-10-27T14:52:00.792461-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-27T14:52:00.792461-05:00.jpg",
+      "mtime": "1666907815",
+      "size": "12325",
+      "md5": "0dd6718a8c31ba732c994592248474a5",
+      "crc32": "2175151d",
+      "sha1": "38dfc46976f6843018516ef9157d6f3ecd95d2fa"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0eb9dc42d107325d619167f2cab5ed6b34a25f60",
-      "mtime": "1666900421",
-      "size": "288933",
-      "md5": "2e9aa9f9280a5bbe06bfd425f6a36e5d",
-      "crc32": "dcb4a623",
-      "sha1": "7765ca27a43ccbbd17be183b41fa60894a7136f8",
+      "btih": "95afc358895b01d5365ca2ca59ef0bd1ab81c742",
+      "mtime": "1666907834",
+      "size": "289138",
+      "md5": "8f08c20fba4c3bfc775f12f9ec803b56",
+      "crc32": "d407bff5",
+      "sha1": "5c673e895ed2c56c11f15a5940d9c25892bf05cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d48885bd5b375660579d62a64776b40d",
+      "md5": "26529e4613d904fd330199eb74517ae5",
       "summation": "md5"
     },
     {
@@ -14173,9 +14184,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1365,
-  "item_last_updated": 1666900421,
-  "item_size": 126092993,
+  "files_count": 1366,
+  "item_last_updated": 1666907834,
+  "item_size": 126105523,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -14192,21 +14203,10 @@
     "publicdate": "2022-06-24 23:01:32",
     "addeddate": "2022-06-24 23:01:32"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454371137,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1369478879,
+  "uniq": 743133100,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

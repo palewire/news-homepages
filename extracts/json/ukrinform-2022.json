@@ -1,5 +1,5 @@
 {
-  "created": 1666900618,
+  "created": 1666908012,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/29/items/ukrinform-2022",
@@ -21737,21 +21737,32 @@
       "format": "JSON"
     },
     {
+      "name": "ukrinform-2022-10-27T22:54:59.467699+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-10-27T22:54:59.467699+03:00.jpg",
+      "mtime": "1666907845",
+      "size": "9802",
+      "md5": "9e492007f5ddd4e90a003700f3637f3d",
+      "crc32": "92918a61",
+      "sha1": "37e8a289d2a374ed96149fcd95761c5f38063250"
+    },
+    {
       "name": "ukrinform-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe369f46847b4e55de46100ddd56eaa0ff2d965e",
-      "mtime": "1666900611",
-      "size": "443944",
-      "md5": "9f7ebaa51c8a693c8e4827436a71f3b4",
-      "crc32": "a36e573b",
-      "sha1": "8a078bd6e45283f62950f7c86cd36f651b780e67",
+      "btih": "a5a5cc4f4f1843eb132e007efcbc8bbe5c07e03f",
+      "mtime": "1666907946",
+      "size": "444149",
+      "md5": "23805887ee3ac26bea78782a499c080f",
+      "crc32": "48d44a33",
+      "sha1": "98ad9ea3c1699f9ac26da6fe26432bd44c7baefa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ukrinform-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b3147fee0e891534dbaa1b6a89fcbc6",
+      "md5": "317fdc50a75e28ca2250defa8029aaf0",
       "summation": "md5"
     },
     {
@@ -21775,9 +21786,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2090,
-  "item_last_updated": 1666900611,
-  "item_size": 201234453,
+  "files_count": 2091,
+  "item_last_updated": 1666907946,
+  "item_size": 201244460,
   "metadata": {
     "identifier": "ukrinform-2022",
     "collection": [
@@ -21794,21 +21805,10 @@
     "publicdate": "2022-03-23 17:48:55",
     "addeddate": "2022-03-23 17:48:55"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372994,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 362004935,
+  "uniq": 698347270,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666910964,
+  "created": 1666913448,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/14/items/aspendailynews-2022",
@@ -8357,21 +8357,32 @@
       "format": "JSON"
     },
     {
+      "name": "aspendailynews-2022-10-27T16:47:55.691170-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-27T16:47:55.691170-06:00.jpg",
+      "mtime": "1666913379",
+      "size": "8212",
+      "md5": "ab2e454fa63dc012a1e7e0fe4844de73",
+      "crc32": "4b33ccbc",
+      "sha1": "c494eb199e2a48b4b8521775f0fba7d60f0f90c3"
+    },
+    {
       "name": "aspendailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6139adf9e97b2990c6aba4dd619e62e0154afe60",
-      "mtime": "1666910949",
-      "size": "176212",
-      "md5": "f7578371f233932fbf28634a7b585cd6",
-      "crc32": "1a3a657d",
-      "sha1": "904d56b36ce82afee6176221fc2d0fcd823cc79c",
+      "btih": "6743e30ab7ad6c2be16a12487e0c6a7ddee13e4f",
+      "mtime": "1666913390",
+      "size": "176422",
+      "md5": "1ed6a84d9973a2b543a73d3929968aa8",
+      "crc32": "b9b3d476",
+      "sha1": "1d8e539cd5b6ae83450285abba60743e946d6eec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspendailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2209e062872abd379c8b3da4b61fce9e",
+      "md5": "62fe5d6e60f0ec20971ffe50fe1a55e5",
       "summation": "md5"
     },
     {
@@ -8395,9 +8406,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 812,
-  "item_last_updated": 1666910949,
-  "item_size": 54628736,
+  "files_count": 813,
+  "item_last_updated": 1666913390,
+  "item_size": 54637158,
   "metadata": {
     "identifier": "aspendailynews-2022",
     "collection": [
@@ -8414,21 +8425,10 @@
     "publicdate": "2022-08-22 10:53:39",
     "addeddate": "2022-08-22 10:53:39"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454510065,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1927790697,
+  "server": "ia801500.us.archive.org",
+  "uniq": 224318109,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

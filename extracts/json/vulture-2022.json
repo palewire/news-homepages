@@ -1,5 +1,5 @@
 {
-  "created": 1666900726,
+  "created": 1666919987,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/vulture-2022",
@@ -10515,21 +10515,32 @@
       "format": "JSON"
     },
     {
+      "name": "vulture-2022-10-27T15:57:25.165220-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vulture-2022-10-27T15:57:25.165220-04:00.jpg",
+      "mtime": "1666907927",
+      "size": "9159",
+      "md5": "94a69e1a7f8e3a04afffcdf47b4da61d",
+      "crc32": "f2a813d4",
+      "sha1": "79c0fe6e17915b63378654c7418f4a876879e507"
+    },
+    {
       "name": "vulture-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8e75ed8e9795ec62a4282427cb53130dc4410000",
-      "mtime": "1666900716",
-      "size": "214311",
-      "md5": "14cc2fc53b22dca730f09f7afdf8af25",
-      "crc32": "816843ae",
-      "sha1": "2fc72568a8c457a155f84f294a01444771a1ea70",
+      "btih": "4a265e7ebb746a37f6aeabbbf60c43a3857b7064",
+      "mtime": "1666907955",
+      "size": "214514",
+      "md5": "974ee6b1251890fb5a2f4aa117299264",
+      "crc32": "2845c79a",
+      "sha1": "21c632ce1d1aa699da2cadfc872d9f9c719eead3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vulture-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "43d997bcdcddb74c9cf139e520d92072",
+      "md5": "55fda7495bbb2acb991dfb5531bd8b20",
       "summation": "md5"
     },
     {
@@ -10553,9 +10564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1021,
-  "item_last_updated": 1666900716,
-  "item_size": 69180371,
+  "files_count": 1022,
+  "item_last_updated": 1666907955,
+  "item_size": 69189733,
   "metadata": {
     "identifier": "vulture-2022",
     "collection": [
@@ -10572,21 +10583,15 @@
     "publicdate": "2022-08-02 16:24:28",
     "addeddate": "2022-08-02 16:24:28"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454374232,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1146538962,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1218797906,
+  "vulture-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

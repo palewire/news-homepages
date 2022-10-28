@@ -1,5 +1,5 @@
 {
-  "created": 1666893570,
+  "created": 1666915788,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/gizmodo-2022",
@@ -13061,21 +13061,32 @@
       "format": "JSON"
     },
     {
+      "name": "gizmodo-2022-10-27T10:58:09.818687-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gizmodo-2022-10-27T10:58:09.818687-07:00.jpg",
+      "mtime": "1666902863",
+      "size": "11247",
+      "md5": "93bddb6ec58c51b58df69eab7379bbf4",
+      "crc32": "4996e9a4",
+      "sha1": "7b309ba74eda3c53c770e71a4449af14e2772c2c"
+    },
+    {
       "name": "gizmodo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a11d5c428a0da0e5aa428b1365d191dfe5e19e90",
-      "mtime": "1666893560",
-      "size": "265109",
-      "md5": "4bd3d1acdf5240903715180cc26d0079",
-      "crc32": "f5ae8abe",
-      "sha1": "3d1b33ee40224b44f2a6daac86274726f7cd9792",
+      "btih": "98d657cc0676e53b587fe2386b9492ff4cf4e7af",
+      "mtime": "1666902903",
+      "size": "265313",
+      "md5": "01e525adc6d99b5d793e8b5f09f1d728",
+      "crc32": "b57a8643",
+      "sha1": "232dcd14dca242e427680fc6ea8f4b4c50eaa259",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gizmodo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9872de7f5a9d8485eb2056532018f3b",
+      "md5": "aed5f46e1f64fcce6978041dee115aaf",
       "summation": "md5"
     },
     {
@@ -13099,9 +13110,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1261,
-  "item_last_updated": 1666893560,
-  "item_size": 104133305,
+  "files_count": 1262,
+  "item_last_updated": 1666902903,
+  "item_size": 104144756,
   "metadata": {
     "identifier": "gizmodo-2022",
     "collection": [
@@ -13118,21 +13129,10 @@
     "publicdate": "2022-07-04 20:17:36",
     "addeddate": "2022-07-04 20:17:36"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302479,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 212350038,
+  "server": "ia801501.us.archive.org",
+  "uniq": 380851154,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

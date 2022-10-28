@@ -1,5 +1,5 @@
 {
-  "created": 1666910833,
+  "created": 1666913382,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/aberdeennews-2022",
@@ -4645,21 +4645,32 @@
       "format": "JSON"
     },
     {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-27T17:45:30.687571-05:00.jpg",
+      "mtime": "1666913290",
+      "size": "9134",
+      "md5": "fd8eff2878e6b62c82861fdb0e05a899",
+      "crc32": "2b4e7e4f",
+      "sha1": "ba27af04812b870f7c5fa43842e263808f1f08d3"
+    },
+    {
       "name": "aberdeennews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b7f67e894e1c0934b6d77f4bc4787a969b8c1af",
-      "mtime": "1666910822",
-      "size": "97723",
-      "md5": "45db3834b79e731363368c1382cdacc8",
-      "crc32": "f4f8d88b",
-      "sha1": "91ba286ee18ebcd67ead802533620dc5f39c0694",
+      "btih": "393beba35ebdf62b775cba552bbbfc46bce47ab3",
+      "mtime": "1666913296",
+      "size": "97931",
+      "md5": "43055adfc85c8a850d6a7f1a070528ab",
+      "crc32": "187f16a3",
+      "sha1": "9b5ad99af3a9c3955ba735de04260a3c623a4759",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aberdeennews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7e0789225e66da61b0d42ec40cae9ace",
+      "md5": "c58c7c68be66cbd3d2f392e80c4680ba",
       "summation": "md5"
     },
     {
@@ -4683,9 +4694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666910822,
-  "item_size": 31202523,
+  "files_count": 454,
+  "item_last_updated": 1666913296,
+  "item_size": 31211865,
   "metadata": {
     "identifier": "aberdeennews-2022",
     "collection": [
@@ -4702,21 +4713,10 @@
     "publicdate": "2022-09-20 22:07:51",
     "addeddate": "2022-09-20 22:07:51"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454507081,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 915464192,
+  "uniq": 555185694,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666876718,
+  "created": 1666917135,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/kqed-2022",
@@ -14653,21 +14653,32 @@
       "format": "JSON"
     },
     {
+      "name": "kqed-2022-10-27T06:17:04.327935-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-10-27T06:17:04.327935-07:00.jpg",
+      "mtime": "1666891512",
+      "size": "9144",
+      "md5": "e9c926ad8f0e4de9606bfd550c50b5d1",
+      "crc32": "ee8190b4",
+      "sha1": "41165c7731e435d9d38bf3a2c561811d6926d40f"
+    },
+    {
       "name": "kqed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e9561210e2318deef83b7f51d9ca37a9151dad0",
-      "mtime": "1666876705",
-      "size": "291509",
-      "md5": "403807e544365f578a717e2f5e205177",
-      "crc32": "818bc5d3",
-      "sha1": "041d59171d9dc3bbf2cc6375bd89f976bf24a001",
+      "btih": "97101ac14c10c3445ad6eda541b055956124eba9",
+      "mtime": "1666891599",
+      "size": "291709",
+      "md5": "49beb47a217801a12463ff54fa83293d",
+      "crc32": "de6a0957",
+      "sha1": "0f3b0ccf56e7d54343f9c40b304e4f56a671d684",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kqed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0eca9016ed7436713ff32181f693a4a1",
+      "md5": "97d1310aba330d67a6aa9711087a0330",
       "summation": "md5"
     },
     {
@@ -14691,9 +14702,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1416,
-  "item_last_updated": 1666876705,
-  "item_size": 76625594,
+  "files_count": 1417,
+  "item_last_updated": 1666891599,
+  "item_size": 76634938,
+  "kqed-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kqed-2022",
     "collection": [
@@ -14710,21 +14726,10 @@
     "publicdate": "2022-06-24 22:56:44",
     "addeddate": "2022-06-24 22:56:44"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454136426,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 72979986,
+  "server": "ia801505.us.archive.org",
+  "uniq": 59800102,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

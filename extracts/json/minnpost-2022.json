@@ -1,5 +1,5 @@
 {
-  "created": 1666880014,
+  "created": 1666917834,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/minnpost-2022",
@@ -19379,21 +19379,32 @@
       "format": "JSON"
     },
     {
+      "name": "minnpost-2022-10-27T09:11:57.850331-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-27T09:11:57.850331-05:00.jpg",
+      "mtime": "1666893481",
+      "size": "10552",
+      "md5": "e98c5db286552c339685068e93f343cf",
+      "crc32": "97b8a8cd",
+      "sha1": "09b244006354ac0ce82aee7ad9aedac05dfcc5d1"
+    },
+    {
       "name": "minnpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "13c47d1bdf769323aed531d37eb4d9e040caae90",
-      "mtime": "1666880008",
-      "size": "393822",
-      "md5": "9017fc071a3f685e7151a107213f8585",
-      "crc32": "c9cb792b",
-      "sha1": "03064028227e824ea9a37c09cc91754726167542",
+      "btih": "686bc5ca8094b749f48a8a7a3c62ada26b6ad27c",
+      "mtime": "1666893515",
+      "size": "394027",
+      "md5": "3d0bcf46ad8e45b7c2c4c65ae42028bf",
+      "crc32": "6fcf64c2",
+      "sha1": "4d0e76ca41238f618fc39fc15c33f2b353d82943",
       "format": "Archive BitTorrent"
     },
     {
       "name": "minnpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3845895394fa95e4a28c193f7ba911e2",
+      "md5": "0577d59b05f83df52e51c687e912627a",
       "summation": "md5"
     },
     {
@@ -19417,9 +19428,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1866,
-  "item_last_updated": 1666880008,
-  "item_size": 150906273,
+  "files_count": 1867,
+  "item_last_updated": 1666893515,
+  "item_size": 150917030,
   "metadata": {
     "identifier": "minnpost-2022",
     "collection": [
@@ -19436,21 +19447,18 @@
     "publicdate": "2022-04-01 22:43:20",
     "addeddate": "2022-04-01 22:43:20"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454165711,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 659832017,
+  "minnpost-2022": {
+    "url": "https://www.minnpost.com/",
+    "job_id": "spn2-57e2fce18b554834d6597dda60edefddb6d12b2e",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "server": "ia802502.us.archive.org",
+  "uniq": 1084832027,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

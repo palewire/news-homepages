@@ -1,5 +1,5 @@
 {
-  "created": 1666876781,
+  "created": 1666917224,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/15/items/kvue-2022",
@@ -12187,21 +12187,32 @@
       "format": "JSON"
     },
     {
+      "name": "kvue-2022-10-27T08:17:49.174642-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvue-2022-10-27T08:17:49.174642-05:00.jpg",
+      "mtime": "1666891500",
+      "size": "8995",
+      "md5": "e2e7d81a7c1f60409c45f172bc0aa5fd",
+      "crc32": "7fa2d669",
+      "sha1": "464204235a9848e8b58103f4c9e61d62b45ea855"
+    },
+    {
       "name": "kvue-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b091caccb52dee601bb34fffff13e2f64de1092f",
-      "mtime": "1666876767",
-      "size": "243609",
-      "md5": "4c2d19d6611537eb0c6cc5384ffd9067",
-      "crc32": "fafb2f66",
-      "sha1": "c3c504ec08cf7f87a283e7ddbf99ddc74fcdfe48",
+      "btih": "28e4931454e016171f1f064984e577b38c8d9f88",
+      "mtime": "1666891527",
+      "size": "243809",
+      "md5": "e74f063625a20ff885ba516dad5acad8",
+      "crc32": "63d439dc",
+      "sha1": "55bc0be753ed4b9cf992d49b23e9d4a44eed1a82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvue-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "22229814940641ace65a71dbaa3b302e",
+      "md5": "d68cd7b4c7dfce2a420211fe3f1cd41e",
       "summation": "md5"
     },
     {
@@ -12225,9 +12236,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1181,
-  "item_last_updated": 1666876767,
-  "item_size": 70723929,
+  "files_count": 1182,
+  "item_last_updated": 1666891527,
+  "item_size": 70733124,
+  "kvue-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kvue-2022",
     "collection": [
@@ -12244,21 +12260,10 @@
     "publicdate": "2022-07-18 00:04:44",
     "addeddate": "2022-07-18 00:04:44"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454137178,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2110205672,
+  "uniq": 995974436,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

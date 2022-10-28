@@ -1,5 +1,5 @@
 {
-  "created": 1666900537,
+  "created": 1666907794,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/32/items/thehill-2022",
@@ -13111,21 +13111,32 @@
       "format": "JSON"
     },
     {
+      "name": "thehill-2022-10-27T15:54:15.900526-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-10-27T15:54:15.900526-04:00.jpg",
+      "mtime": "1666907749",
+      "size": "10983",
+      "md5": "763eff87b4ce887900ed95ea4a6ddfd9",
+      "crc32": "2e05793d",
+      "sha1": "3995f852bebca4ae89f44599c8d3debe09b343fb"
+    },
+    {
       "name": "thehill-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67a15e40a7a446b221ef78910c5ec6fbbd4dc4f6",
-      "mtime": "1666900532",
-      "size": "267151",
-      "md5": "b75abe2f26d0115aa5bc5a03c8886f13",
-      "crc32": "02818266",
-      "sha1": "1885a7155e109e8cf432ccf0a2aa50b6b729f118",
+      "btih": "06a9eb0ad9288e07ed87adeecb28b38b5f13e73e",
+      "mtime": "1666907766",
+      "size": "267355",
+      "md5": "8ee9b6b118c4429d5a819564374ed1ab",
+      "crc32": "64d1c628",
+      "sha1": "1c01098dbb08a3de0b9fdf07f65f6c5807b7664f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehill-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a51196f617ec2ec6e12c8fdd71dcf701",
+      "md5": "3bcfc683955e3bd5efc880284442761f",
       "summation": "md5"
     },
     {
@@ -13149,9 +13160,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1269,
-  "item_last_updated": 1666900532,
-  "item_size": 107489903,
+  "files_count": 1270,
+  "item_last_updated": 1666907766,
+  "item_size": 107501090,
   "metadata": {
     "identifier": "thehill-2022",
     "collection": [
@@ -13168,21 +13179,10 @@
     "publicdate": "2022-07-04 21:46:22",
     "addeddate": "2022-07-04 21:46:22"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372295,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1847744995,
+  "uniq": 2086237032,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

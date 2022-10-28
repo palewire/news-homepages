@@ -1,5 +1,5 @@
 {
-  "created": 1666899008,
+  "created": 1666906842,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/34/items/simple_flying-2022",
@@ -12473,21 +12473,32 @@
       "format": "JSON"
     },
     {
+      "name": "simple_flying-2022-10-27T20:28:52.308164+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "simple_flying-2022-10-27T20:28:52.308164+01:00.jpg",
+      "mtime": "1666906792",
+      "size": "9470",
+      "md5": "550368041137aae13748f18943143ef1",
+      "crc32": "81f9a57f",
+      "sha1": "ee700feb7adbc099058aa196f2eaf32ac63f49f6"
+    },
+    {
       "name": "simple_flying-2022_archive.torrent",
       "source": "metadata",
-      "btih": "211c73b4d4305c6704ea6c87d35f0fcc7037d971",
-      "mtime": "1666899003",
-      "size": "260888",
-      "md5": "bf8ef0a6015606d17156db647214a670",
-      "crc32": "e11365fe",
-      "sha1": "228f4b7cc72c1bbccd31bb61c2cb27b431b6b332",
+      "btih": "40513469c9b2c0b52bf70611ae17c684ca15e2c2",
+      "mtime": "1666906816",
+      "size": "261097",
+      "md5": "f7ef64df59649494e4ac33321964a945",
+      "crc32": "3ee2bf9d",
+      "sha1": "ae70dc95bb3f83472b1907c3f99476692a42c06e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "simple_flying-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a63bbdd0831400333ea6ae044230d8eb",
+      "md5": "b8f5b5651aafcc6be34c4a6b1f58fe60",
       "summation": "md5"
     },
     {
@@ -12511,9 +12522,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1211,
-  "item_last_updated": 1666899003,
-  "item_size": 69371931,
+  "files_count": 1212,
+  "item_last_updated": 1666906816,
+  "item_size": 69381610,
   "metadata": {
     "identifier": "simple_flying-2022",
     "collection": [
@@ -12530,21 +12541,10 @@
     "publicdate": "2022-08-21 03:36:53",
     "addeddate": "2022-08-21 03:36:53"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454358556,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 113812357,
+  "uniq": 1390607150,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

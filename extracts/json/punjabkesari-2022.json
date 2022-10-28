@@ -1,5 +1,5 @@
 {
-  "created": 1666898861,
+  "created": 1666906948,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/punjabkesari-2022",
@@ -11121,21 +11121,32 @@
       "format": "JSON"
     },
     {
+      "name": "punjabkesari-2022-10-28T00:56:27.372750+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "punjabkesari-2022-10-28T00:56:27.372750+05:30.jpg",
+      "mtime": "1666906781",
+      "size": "10604",
+      "md5": "ad8b79fcb66212de22a68ea1fdd7806a",
+      "crc32": "adab891b",
+      "sha1": "71fdd601da61c46c7f2dd82ed4829d803c629ffe"
+    },
+    {
       "name": "punjabkesari-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c72cadb27337f1841176ec249a1169a489885d99",
-      "mtime": "1666898852",
-      "size": "233560",
-      "md5": "c02f83d9a3314461d0a93b841a1e2fd2",
-      "crc32": "25a4e8a1",
-      "sha1": "05d0b2672d819beaa119f6694d7f8df23d8cb855",
+      "btih": "c5398f821349a6234acc76262852c726c088fef8",
+      "mtime": "1666906798",
+      "size": "233769",
+      "md5": "02f84eb5a1bc729d0391e0e788862368",
+      "crc32": "135f6172",
+      "sha1": "4cad67749bc8ed9a44027d255d00a48cda7da051",
       "format": "Archive BitTorrent"
     },
     {
       "name": "punjabkesari-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "577276728dbd3b3598285293208f523c",
+      "md5": "08276d2114419330b7fd5ed54e91c5a2",
       "summation": "md5"
     },
     {
@@ -11159,9 +11170,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1079,
-  "item_last_updated": 1666898852,
-  "item_size": 108922911,
+  "files_count": 1080,
+  "item_last_updated": 1666906798,
+  "item_size": 108933724,
   "metadata": {
     "identifier": "punjabkesari-2022",
     "collection": [
@@ -11178,21 +11189,10 @@
     "publicdate": "2022-07-27 17:18:15",
     "addeddate": "2022-07-27 17:18:15"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454357370,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1027411808,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1284136772,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

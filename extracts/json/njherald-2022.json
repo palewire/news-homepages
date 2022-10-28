@@ -1,5 +1,5 @@
 {
-  "created": 1666879995,
+  "created": 1666918163,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/njherald-2022",
@@ -4593,21 +4593,32 @@
       "format": "JSON"
     },
     {
+      "name": "njherald-2022-10-27T10:12:17.325588-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "njherald-2022-10-27T10:12:17.325588-04:00.jpg",
+      "mtime": "1666893398",
+      "size": "9384",
+      "md5": "166008e25d236b5ff57647c859020818",
+      "crc32": "5ba2c8b8",
+      "sha1": "e1281a1aee3c20472e6333b623b51bf977635746"
+    },
+    {
       "name": "njherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a36a253bda68c939c140d175005a20ef0ca219af",
-      "mtime": "1666879990",
-      "size": "94786",
-      "md5": "d95f76cd93ae92d9344c826f8a6b02e7",
-      "crc32": "128f87d7",
-      "sha1": "e5256f197468d39211b5c4a82b7bff65a8f31abe",
+      "btih": "55ef791d1d6bb9c9795f3127f1191f9989518cdd",
+      "mtime": "1666893403",
+      "size": "94990",
+      "md5": "78bd20f49414c6e30759832d9292b0fa",
+      "crc32": "e5d159b5",
+      "sha1": "9eb48fcb890196d6e30454eed7109d81a736106f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "njherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "da73c92375622eb838d903bd7e42ad05",
+      "md5": "2a89ad71f57b1bd4ac621054ae792962",
       "summation": "md5"
     },
     {
@@ -4631,9 +4642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666879990,
-  "item_size": 29903648,
+  "files_count": 449,
+  "item_last_updated": 1666893403,
+  "item_size": 29913236,
   "metadata": {
     "identifier": "njherald-2022",
     "collection": [
@@ -4650,21 +4661,15 @@
     "publicdate": "2022-09-21 02:21:06",
     "addeddate": "2022-09-21 02:21:06"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454165547,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1207865266,
+  "njherald-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801501.us.archive.org",
+  "uniq": 862255283,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

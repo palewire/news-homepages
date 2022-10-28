@@ -1,5 +1,5 @@
 {
-  "created": 1666876564,
+  "created": 1666916839,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/9/items/jerusalem_post-2022",
@@ -9335,21 +9335,32 @@
       "format": "JSON"
     },
     {
+      "name": "jerusalem_post-2022-10-27T16:13:57.636280+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-27T16:13:57.636280+03:00.jpg",
+      "mtime": "1666891290",
+      "size": "9750",
+      "md5": "c4f75aa65b5a71e8987ae89f5a4e74d5",
+      "crc32": "2672a03c",
+      "sha1": "b2abd4f3a2eb6e3fbb18c8720bb63c24d3aa33eb"
+    },
+    {
       "name": "jerusalem_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb47c2d6a49d3ee446f281e68951883b95c1efd6",
-      "mtime": "1666876548",
-      "size": "197131",
-      "md5": "42972399e081ab4b56dbef6fbf5fcf35",
-      "crc32": "9b479b67",
-      "sha1": "98553b2dfda94c185f090d102e6107b262e9745a",
+      "btih": "33cd479bbff13af959c760e0edf07b373d7678bc",
+      "mtime": "1666891307",
+      "size": "197341",
+      "md5": "fd30af0c786aa04bb467cdcc27896aa2",
+      "crc32": "ebf9da1d",
+      "sha1": "1cfbffd850d5aa4ddc6e769842d1b9f0ff225883",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jerusalem_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "083184c94f45034965c28909f5a549c5",
+      "md5": "133e701468e2e642d49699ae4c7c739f",
       "summation": "md5"
     },
     {
@@ -9373,9 +9384,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 907,
-  "item_last_updated": 1666876548,
-  "item_size": 72200367,
+  "files_count": 908,
+  "item_last_updated": 1666891307,
+  "item_size": 72210327,
+  "jerusalem_post-2022": {
+    "url": "https://www.jpost.com/",
+    "job_id": "spn2-d8e143aad09f8662888b54fe773ba723ed5006e5",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
   "metadata": {
     "identifier": "jerusalem_post-2022",
     "collection": [
@@ -9392,21 +9411,10 @@
     "publicdate": "2022-08-14 03:09:31",
     "addeddate": "2022-08-14 03:09:31"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454134761,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2031708993,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1446115458,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

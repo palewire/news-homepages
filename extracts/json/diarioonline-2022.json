@@ -1,5 +1,5 @@
 {
-  "created": 1666893442,
+  "created": 1666902836,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/diarioonline-2022",
@@ -14771,21 +14771,32 @@
       "format": "JSON"
     },
     {
+      "name": "diarioonline-2022-10-27T14:55:12.364891-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diarioonline-2022-10-27T14:55:12.364891-03:00.jpg",
+      "mtime": "1666902668",
+      "size": "9537",
+      "md5": "089f60cc74597c16c4cb21a60edda51c",
+      "crc32": "07505bef",
+      "sha1": "cee39345ff8a0cf4aa34ebbe9c97c29d26f22f88"
+    },
+    {
       "name": "diarioonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33044b853460ad381a0eb39ef9f40c6c94ad7b9a",
-      "mtime": "1666893429",
-      "size": "307638",
-      "md5": "8fdb266d772479908c862ab48b11830d",
-      "crc32": "8a600a67",
-      "sha1": "12c5cd67eb94f76bc24f0874f1446265f12113b7",
+      "btih": "1bf531be4b0b7c8e0275edd47e716ff08d039d6e",
+      "mtime": "1666902725",
+      "size": "307846",
+      "md5": "78dea6a93eec22101756a7f958a6bcc7",
+      "crc32": "c377c5fa",
+      "sha1": "c5bf75dba777e9dde10582fa99a64b93deec668a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diarioonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cb66acd5e7f10c9b48acbe67b097039",
+      "md5": "e198e4bfdb47565fe61c4611ae8d1791",
       "summation": "md5"
     },
     {
@@ -14809,9 +14820,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1433,
-  "item_last_updated": 1666893429,
-  "item_size": 93410235,
+  "files_count": 1434,
+  "item_last_updated": 1666902725,
+  "item_size": 93419980,
   "metadata": {
     "identifier": "diarioonline-2022",
     "collection": [
@@ -14828,21 +14839,10 @@
     "publicdate": "2022-08-05 03:14:28",
     "addeddate": "2022-08-05 03:14:28"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454301228,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 249617741,
+  "server": "ia801407.us.archive.org",
+  "uniq": 2109585483,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

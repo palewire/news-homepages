@@ -1,5 +1,5 @@
 {
-  "created": 1666883899,
+  "created": 1666918925,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/6/items/sahanjournal-2022",
@@ -19379,21 +19379,32 @@
       "format": "JSON"
     },
     {
+      "name": "sahanjournal-2022-10-27T09:18:30.690001-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sahanjournal-2022-10-27T09:18:30.690001-05:00.jpg",
+      "mtime": "1666894149",
+      "size": "10413",
+      "md5": "80d52df89931cb2ec7923208d834691b",
+      "crc32": "cae041a1",
+      "sha1": "5ce7f4def3c3b8506b129e0cd43cea814a938e57"
+    },
+    {
       "name": "sahanjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51b4f9dd1557583323ec25ae20c69d92cc73b4cd",
-      "mtime": "1666880406",
-      "size": "400949",
-      "md5": "91f64f0eeef1de2ee70f83c09ce8f4ba",
-      "crc32": "a056e7d8",
-      "sha1": "008a76c0e1bd6243942c7fe63563fe986d4dc73f",
+      "btih": "d28ea2e236b28480d1ee34b9dbea4cf1f44143c9",
+      "mtime": "1666894183",
+      "size": "401158",
+      "md5": "ef75277a6377d3ff106f49477dfa9ce8",
+      "crc32": "7fde6388",
+      "sha1": "d0aaa628871865df3cf76373c29b9c76f01a3740",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sahanjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f96e9a4406b75910e876e2d5a17666f1",
+      "md5": "d090342c6ce5c5b60ec152e09ea3f237",
       "summation": "md5"
     },
     {
@@ -19417,9 +19428,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1866,
-  "item_last_updated": 1666880406,
-  "item_size": 138635137,
+  "files_count": 1867,
+  "item_last_updated": 1666894183,
+  "item_size": 138645759,
   "metadata": {
     "identifier": "sahanjournal-2022",
     "collection": [
@@ -19436,26 +19447,15 @@
     "publicdate": "2022-04-01 22:42:14",
     "addeddate": "2022-04-01 22:42:14"
   },
-  "pending_tasks": true,
   "sahanjournal-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169466,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 120681847,
+  "server": "ia801508.us.archive.org",
+  "uniq": 823286747,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

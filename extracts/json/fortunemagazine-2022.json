@@ -1,5 +1,5 @@
 {
-  "created": 1666914144,
+  "created": 1666915670,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/21/items/fortunemagazine-2022",
@@ -15509,21 +15509,32 @@
       "format": "JSON"
     },
     {
+      "name": "fortunemagazine-2022-10-27T19:40:52.689354-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-27T19:40:52.689354-04:00.jpg",
+      "mtime": "1666915508",
+      "size": "9549",
+      "md5": "1ed18df957328c5b1a6e08dedfa50c25",
+      "crc32": "bab37038",
+      "sha1": "7844234b99ff8cceb61ac32980ca3b976a3a2260"
+    },
+    {
       "name": "fortunemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08b84e707e221613299a5079c88f453017a4a1ab",
-      "mtime": "1666914137",
-      "size": "326966",
-      "md5": "16995d7dcf2c3cb6988ef74064701acc",
-      "crc32": "971f6b3f",
-      "sha1": "f299b6fb556813d91b714755ab8ab2ac7305e756",
+      "btih": "2b98e549f7cc5baf4a05d565fdb3e0034a9188cf",
+      "mtime": "1666915549",
+      "size": "327177",
+      "md5": "ac9af7df9d919bf44fd2b3e4b9197f93",
+      "crc32": "5b3c29d1",
+      "sha1": "f3221522f97bf85a586a816e12e72e9a353ddb46",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortunemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80907d2ccfeb4540a542c92c6c3a6d8c",
+      "md5": "312254f60ba0c3c8b838a8cb73b8ce8a",
       "summation": "md5"
     },
     {
@@ -15547,9 +15558,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1498,
-  "item_last_updated": 1666914137,
-  "item_size": 126758419,
+  "files_count": 1499,
+  "item_last_updated": 1666915549,
+  "item_size": 126768179,
   "metadata": {
     "identifier": "fortunemagazine-2022",
     "collection": [
@@ -15566,21 +15577,10 @@
     "publicdate": "2022-06-19 23:24:03",
     "addeddate": "2022-06-19 23:24:03"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454576299,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 353153853,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1730855047,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666772618,
+  "created": 1666902599,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/nationaljournal-2022",
@@ -12968,31 +12968,155 @@
       "sha1": "44769ac3d328e7112d516655ae6817b8c33e954f"
     },
     {
+      "name": "nationaljournal-2022-10-27T01:52:20.381685-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666849959",
+      "size": "8693",
+      "md5": "cf4cdda77d1a67f7b8c5ec53939a4bf4",
+      "crc32": "2cf185da",
+      "sha1": "68860103ff88c95b69a52eec94f6d9d09eaa7991",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T01:52:20.381685-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666849960",
+      "size": "6223",
+      "md5": "a86fc79cf7a3f2bf3e0f74f87c0f5754",
+      "crc32": "d87ee6ed",
+      "sha1": "1aab17193c7f5881456dd27b9d0209b65ad0e18f",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T01:52:20.381685-04:00.jpg",
+      "source": "original",
+      "mtime": "1666849957",
+      "size": "209707",
+      "md5": "04703545ba1e47ab28c7594d563b60d5",
+      "crc32": "bdefa134",
+      "sha1": "dd8efe8d87ca139e5b27a19f3a2e9c7e67b45724",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T01:52:20.381685-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666849962",
+      "size": "1528",
+      "md5": "cfc7b13e5a483704bc20f905198118b2",
+      "crc32": "cd7b5342",
+      "sha1": "cb6f5e338f39158f84e2cb5cebfd5ca7446ded9c",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T01:52:20.381685-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666849964",
+      "size": "6627",
+      "md5": "052dd8c226421d76f41b24794f8562b4",
+      "crc32": "7064daec",
+      "sha1": "1b5a911f385967fa13d605d7c66e594dfc930c3f",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T01:52:20.381685-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationaljournal-2022-10-27T01:52:20.381685-04:00.jpg",
+      "mtime": "1666873985",
+      "size": "9357",
+      "md5": "b235c245e279aff9040f20336a78ffdb",
+      "crc32": "0cae7c9b",
+      "sha1": "a59f8ebb3745aa4fb731053560a859cbded63c37"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T13:48:52.140878-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666892951",
+      "size": "8693",
+      "md5": "cf4cdda77d1a67f7b8c5ec53939a4bf4",
+      "crc32": "2cf185da",
+      "sha1": "68860103ff88c95b69a52eec94f6d9d09eaa7991",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T13:48:52.140878-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666892953",
+      "size": "6223",
+      "md5": "a86fc79cf7a3f2bf3e0f74f87c0f5754",
+      "crc32": "d87ee6ed",
+      "sha1": "1aab17193c7f5881456dd27b9d0209b65ad0e18f",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T13:48:52.140878-04:00.jpg",
+      "source": "original",
+      "mtime": "1666892949",
+      "size": "209161",
+      "md5": "35b9566d6d4c2f35b895605be985ab73",
+      "crc32": "086c28c2",
+      "sha1": "4649a1edb3b8dbfac2fd70f3f673f476febf2290",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T13:48:52.140878-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666892955",
+      "size": "1531",
+      "md5": "3d7a6566a841692660eafe7faf0f0f58",
+      "crc32": "f8bcfd7b",
+      "sha1": "e2968d605d8afdf9d07f7a6b0b4f91fb07d80746",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T13:48:52.140878-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666892956",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-10-27T13:48:52.140878-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nationaljournal-2022-10-27T13:48:52.140878-04:00.jpg",
+      "mtime": "1666902315",
+      "size": "9356",
+      "md5": "8758a55490c5822de2f427cf82107209",
+      "crc32": "60b0e2a6",
+      "sha1": "441e24b26c624ef14f85fa66fbcd9744f88fe67e"
+    },
+    {
       "name": "nationaljournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b4100d8d9dcd6674d817d545d3399668c2209da0",
-      "mtime": "1666768515",
-      "size": "271577",
-      "md5": "555ae6cfaa940b895a55b9d95a26d2e3",
-      "crc32": "83741c0a",
-      "sha1": "9947169b697ca03ec04f62566647f50846148105",
+      "btih": "2a1ac055c1ca9dcbe8102bb7677c11303c363038",
+      "mtime": "1666902329",
+      "size": "274168",
+      "md5": "cf03c5af3feed44f7357c97edf04eb4d",
+      "crc32": "7ab17a38",
+      "sha1": "c0be616267776b4d49c4da0d0f1a3c58e9a6412e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nationaljournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b0486eb25e211451f05be605d105e65",
+      "md5": "f553efca624e569442ecdb33746826ca",
       "summation": "md5"
     },
     {
       "name": "nationaljournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666766531",
-      "size": "1593344",
-      "md5": "99d15c68e05f5124a41d9228fd6ec233",
-      "crc32": "da226760",
-      "sha1": "a2e834504455c46896c27bfe31de139418ba715e",
+      "mtime": "1666892962",
+      "size": "1605632",
+      "md5": "34a13638ea3be7435fa10dfbb3d4d571",
+      "crc32": "be085239",
+      "sha1": "13f952150d016278506273621cb7bdb9ce67f42b",
       "format": "Metadata"
     },
     {
@@ -13006,9 +13130,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1255,
-  "item_last_updated": 1666768515,
-  "item_size": 55407867,
+  "files_count": 1267,
+  "item_last_updated": 1666902329,
+  "item_size": 55900047,
   "metadata": {
     "identifier": "nationaljournal-2022",
     "collection": [
@@ -13025,13 +13149,8 @@
     "publicdate": "2022-07-04 21:49:06",
     "addeddate": "2022-07-04 21:49:06"
   },
-  "nationaljournal-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia601406.us.archive.org",
-  "uniq": 815984406,
+  "uniq": 1255963463,
   "workable_servers": [
     "ia601406.us.archive.org",
     "ia801406.us.archive.org"

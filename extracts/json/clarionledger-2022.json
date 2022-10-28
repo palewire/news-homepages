@@ -1,5 +1,5 @@
 {
-  "created": 1666893154,
+  "created": 1666902505,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/30/items/clarionledger-2022",
@@ -14861,21 +14861,32 @@
       "format": "JSON"
     },
     {
+      "name": "clarionledger-2022-10-27T13:50:39.185052-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "clarionledger-2022-10-27T13:50:39.185052-04:00.jpg",
+      "mtime": "1666902403",
+      "size": "9290",
+      "md5": "3b7ef110f1111cdfc5d897201ac15ca0",
+      "crc32": "dcabc242",
+      "sha1": "7900c6973667ec26e871fddc87fbebc711540d1e"
+    },
+    {
       "name": "clarionledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2aa58305d715b8a33f1a36129ac3fede0497603a",
-      "mtime": "1666893143",
-      "size": "309896",
-      "md5": "0b41fe448191431e6f7fee127ed1e489",
-      "crc32": "9df0db70",
-      "sha1": "0e28820e212863d86726054e1e9531eb70a09f32",
+      "btih": "d4a9208248002587f30072a72bd9e7dff11f8c80",
+      "mtime": "1666902456",
+      "size": "310105",
+      "md5": "0173b55ae33fb080b5b56aa17e394d24",
+      "crc32": "f87fdf3e",
+      "sha1": "818eac63bc6a17c6e68e0689e93ddfbdf0e4f044",
       "format": "Archive BitTorrent"
     },
     {
       "name": "clarionledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "faba1df801855b15e0fc967edfae4fc4",
+      "md5": "88674b832152e5a48441295c5f46aba2",
       "summation": "md5"
     },
     {
@@ -14899,9 +14910,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1436,
-  "item_last_updated": 1666893143,
-  "item_size": 101742545,
+  "files_count": 1437,
+  "item_last_updated": 1666902456,
+  "item_size": 101752044,
   "metadata": {
     "identifier": "clarionledger-2022",
     "collection": [
@@ -14918,21 +14929,10 @@
     "publicdate": "2022-06-24 22:53:49",
     "addeddate": "2022-06-24 22:53:49"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454298240,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1859912522,
+  "uniq": 2035912795,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666876933,
+  "created": 1666917862,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/19/items/msfreepress-2022",
@@ -7557,21 +7557,32 @@
       "format": "JSON"
     },
     {
+      "name": "msfreepress-2022-10-27T08:20:40.096320-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msfreepress-2022-10-27T08:20:40.096320-05:00.jpg",
+      "mtime": "1666891529",
+      "size": "9817",
+      "md5": "e049f4cd98b081ed4bbbe8398ef49c64",
+      "crc32": "4779be03",
+      "sha1": "51338807ed6cbf2be27366237357f957ac5bfc2b"
+    },
+    {
       "name": "msfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b10fdb38ef7850d3e825d8b721e1043480891a5",
-      "mtime": "1666876914",
-      "size": "157338",
-      "md5": "77c9c86709c81968724156e9b8a1f5c2",
-      "crc32": "6eca72ce",
-      "sha1": "308f08f558738874046425f71a2f155b820b1d12",
+      "btih": "cd5d702daebe05cd6541950983bb68e4d68081f9",
+      "mtime": "1666891549",
+      "size": "157545",
+      "md5": "fd15ca986b34310c9537bf23030aa85d",
+      "crc32": "07bfb4c1",
+      "sha1": "df34386494301207845121c3455d2cc45242bcaa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "53673414a26397dcf6dd8471d8c2183e",
+      "md5": "2b77dff27c9a40dbbcf1aa0b920813b4",
       "summation": "md5"
     },
     {
@@ -7595,9 +7606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 735,
-  "item_last_updated": 1666876914,
-  "item_size": 47407539,
+  "files_count": 736,
+  "item_last_updated": 1666891549,
+  "item_size": 47417563,
   "metadata": {
     "identifier": "msfreepress-2022",
     "collection": [
@@ -7614,21 +7625,18 @@
     "publicdate": "2022-08-26 23:47:17",
     "addeddate": "2022-08-26 23:47:17"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454138827,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 641645808,
+  "msfreepress-2022": {
+    "url": "https://www.mississippifreepress.org/",
+    "job_id": "spn2-0a2c9c82cbbb7168fb999ca570572fa3e85ae19a",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "resources": [],
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 964."
+  },
+  "server": "ia801405.us.archive.org",
+  "uniq": 1856103143,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

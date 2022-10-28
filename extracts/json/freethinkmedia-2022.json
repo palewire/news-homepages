@@ -1,5 +1,5 @@
 {
-  "created": 1666893549,
+  "created": 1666916497,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/freethinkmedia-2022",
@@ -11787,21 +11787,32 @@
       "format": "JSON"
     },
     {
+      "name": "freethinkmedia-2022-10-27T10:57:59.105374-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freethinkmedia-2022-10-27T10:57:59.105374-07:00.jpg",
+      "mtime": "1666902738",
+      "size": "9436",
+      "md5": "65afafee566e6808e37d0dadb5ee870d",
+      "crc32": "b8e7d72a",
+      "sha1": "03044b203eb181068c3146db310a9d96c4817510"
+    },
+    {
       "name": "freethinkmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "009721ac33101f40b93cad9b7357895ea7f2d339",
-      "mtime": "1666893543",
-      "size": "247174",
-      "md5": "92d142219fa8fadfae6853467cb41479",
-      "crc32": "8c77624c",
-      "sha1": "eeded3df16472853756745a24ece2ac9887c84b0",
+      "btih": "3ee9125c03e3bc216a1218e2c20fb341bbf42a37",
+      "mtime": "1666902775",
+      "size": "247384",
+      "md5": "811637df97de8ccee3f1b8e6a26735dd",
+      "crc32": "261dbe6d",
+      "sha1": "c90a3b72f17b4554a50889ff5df6753d826ec08c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freethinkmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c3393cf77f4e06ef63cc16fb1f921689",
+      "md5": "6b3c0159ab5bba052771f0db6962ce60",
       "summation": "md5"
     },
     {
@@ -11825,9 +11836,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1143,
-  "item_last_updated": 1666893543,
-  "item_size": 59370970,
+  "files_count": 1144,
+  "freethinkmedia-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666902775,
+  "item_size": 59380616,
   "metadata": {
     "identifier": "freethinkmedia-2022",
     "collection": [
@@ -11844,21 +11860,10 @@
     "publicdate": "2022-07-21 02:24:31",
     "addeddate": "2022-07-21 02:24:31"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302262,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1464982180,
+  "uniq": 685827544,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

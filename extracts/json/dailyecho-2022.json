@@ -1,7 +1,12 @@
 {
-  "created": 1666893091,
+  "created": 1666916152,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
+  "dailyecho-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/23/items/dailyecho-2022",
   "files": [
     {
@@ -17053,21 +17058,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailyecho-2022-10-27T18:50:01.232723+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyecho-2022-10-27T18:50:01.232723+01:00.jpg",
+      "mtime": "1666902316",
+      "size": "9269",
+      "md5": "99b0d081e88467c188b11471c9b89ea1",
+      "crc32": "96dab954",
+      "sha1": "ea0367805d2ca3dac8635e07f8d2f27bb0ab9be8"
+    },
+    {
       "name": "dailyecho-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac25b7c8e97fc1396fd86573b78a52a12ba86a6b",
-      "mtime": "1666893085",
-      "size": "349484",
-      "md5": "f670d04d43767ff11e3745b5f1bb74d1",
-      "crc32": "2c285e51",
-      "sha1": "5edb6351f812f04ad0f55e0d7528427345e4cd82",
+      "btih": "5e627c70e7578ae216df5d5986cad2fd4b43f2b6",
+      "mtime": "1666902386",
+      "size": "349689",
+      "md5": "25c5a959fb98092c02475074f3fdf47a",
+      "crc32": "411fbbc9",
+      "sha1": "ee353726bc3c58edd02d021779ed555d20942b61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyecho-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f092ca52b69f8c3c8403f87a79d17e60",
+      "md5": "b41592cdbfac850a1a03974e8e71e9d6",
       "summation": "md5"
     },
     {
@@ -17091,9 +17107,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1651,
-  "item_last_updated": 1666893085,
-  "item_size": 114211541,
+  "files_count": 1652,
+  "item_last_updated": 1666902386,
+  "item_size": 114221015,
   "metadata": {
     "identifier": "dailyecho-2022",
     "collection": [
@@ -17110,21 +17126,10 @@
     "publicdate": "2022-07-10 15:41:04",
     "addeddate": "2022-07-10 15:41:04"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454297562,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2138825149,
+  "uniq": 932339537,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

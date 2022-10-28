@@ -1,5 +1,5 @@
 {
-  "created": 1666900728,
+  "created": 1666908067,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/30/items/wrtribune-2022",
@@ -4615,21 +4615,32 @@
       "format": "JSON"
     },
     {
+      "name": "wrtribune-2022-10-27T14:57:39.825443-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrtribune-2022-10-27T14:57:39.825443-05:00.jpg",
+      "mtime": "1666907997",
+      "size": "9006",
+      "md5": "63db037f807fb080d3111229dfb42890",
+      "crc32": "b8567f66",
+      "sha1": "9366da9c8e2ddb2d47fc71c575178ad906df135e"
+    },
+    {
       "name": "wrtribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f7a4502b8a39e129a7604b29c546022c9cc7ad4",
-      "mtime": "1666900722",
-      "size": "95692",
-      "md5": "748ce51fac48aec7f4d2db570c2ac298",
-      "crc32": "5f0ea0a7",
-      "sha1": "e4547ff55c92023b772ff9d12ce78f114dc5a30a",
+      "btih": "b53b9ec9ab705c62c8629e3e03c69a0c1056fde2",
+      "mtime": "1666908001",
+      "size": "95897",
+      "md5": "47118c74149a6d3699ccf97bb36f5fdb",
+      "crc32": "cbfeae12",
+      "sha1": "ee5b37f907a71171598f1b4a82bfccd54859f787",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wrtribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "340030916e543c8d27f1486ec1606971",
+      "md5": "752d7de2908af333ea5d3e2644300546",
       "summation": "md5"
     },
     {
@@ -4653,9 +4664,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 450,
-  "item_last_updated": 1666900722,
-  "item_size": 30827445,
+  "files_count": 451,
+  "item_last_updated": 1666908001,
+  "item_size": 30836656,
   "metadata": {
     "identifier": "wrtribune-2022",
     "collection": [
@@ -4672,21 +4683,10 @@
     "publicdate": "2022-09-20 19:31:40",
     "addeddate": "2022-09-20 19:31:40"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454374256,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1310434351,
+  "server": "ia801409.us.archive.org",
+  "uniq": 957963731,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

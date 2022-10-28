@@ -1,5 +1,5 @@
 {
-  "created": 1666898620,
+  "created": 1666910054,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/2/items/portalimprensa-2022",
@@ -14307,21 +14307,32 @@
       "format": "JSON"
     },
     {
+      "name": "portalimprensa-2022-10-27T16:22:11.082164-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portalimprensa-2022-10-27T16:22:11.082164-03:00.jpg",
+      "mtime": "1666906484",
+      "size": "9227",
+      "md5": "31a5aa82bda7d18a5e5c8889f059ff43",
+      "crc32": "4d984319",
+      "sha1": "049c366eae93803ebde4fbe61f034a74b35e21fe"
+    },
+    {
       "name": "portalimprensa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b29f894fefd3b9271a411c764afe2dc72c6ab364",
-      "mtime": "1666898611",
-      "size": "300678",
-      "md5": "2eaf795aa8fdb888e2b7e4336f8f169d",
-      "crc32": "62800bdb",
-      "sha1": "f73f1eecb008d8f746a52047a551663fe9a3e980",
+      "btih": "f731f258b3332000105f3f6d92b6aa02b6cec078",
+      "mtime": "1666906508",
+      "size": "300888",
+      "md5": "2c30e123ebd41295ff25831ce440d757",
+      "crc32": "7f6fe9be",
+      "sha1": "eeb0de859f23a15c42ba5f86176a2b260a944856",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portalimprensa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d677bc7f8fc7aeac0b632f52ba6252e8",
+      "md5": "78b4a6d14761acb753dac0ce1e9db134",
       "summation": "md5"
     },
     {
@@ -14345,9 +14356,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1388,
-  "item_last_updated": 1666898611,
-  "item_size": 96743173,
+  "files_count": 1389,
+  "item_last_updated": 1666906508,
+  "item_size": 96752610,
   "metadata": {
     "identifier": "portalimprensa-2022",
     "collection": [
@@ -14364,21 +14375,10 @@
     "publicdate": "2022-08-07 19:44:00",
     "addeddate": "2022-08-07 19:44:00"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355054,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 245358300,
+  "uniq": 113941232,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

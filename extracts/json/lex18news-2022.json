@@ -1,5 +1,5 @@
 {
-  "created": 1666876912,
+  "created": 1666917520,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/34/items/lex18news-2022",
@@ -10597,21 +10597,32 @@
       "format": "JSON"
     },
     {
+      "name": "lex18news-2022-10-27T09:20:46.420798-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lex18news-2022-10-27T09:20:46.420798-04:00.jpg",
+      "mtime": "1666891587",
+      "size": "10974",
+      "md5": "87bf20cd83e9ca6038f4c51fddce0f47",
+      "crc32": "ea2017af",
+      "sha1": "a15e52724f5c794ec64e8819d774f4f94f7f3989"
+    },
+    {
       "name": "lex18news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a4bc42fa758fc9e8185348b9f057157157d558bf",
-      "mtime": "1666876908",
-      "size": "218065",
-      "md5": "755271d9a92ce128c596855a415c837f",
-      "crc32": "3ccd81a9",
-      "sha1": "8a3b52a5b9a712400cbbb85cdc4fe381892dea05",
+      "btih": "6d7e89db887788374557a0a17ae44f47493f0752",
+      "mtime": "1666891630",
+      "size": "218271",
+      "md5": "95c59d7b658853be187164320a7967fb",
+      "crc32": "06486a6f",
+      "sha1": "797098b364d107aadd27a0ebda5e266301ddf0f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lex18news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6881e33d0bf5f90138b093f4bfd221b3",
+      "md5": "ac8e2a490a0d79c1331660a4844d2fcb",
       "summation": "md5"
     },
     {
@@ -10635,9 +10646,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1028,
-  "item_last_updated": 1666876908,
-  "item_size": 75360582,
+  "files_count": 1029,
+  "item_last_updated": 1666891630,
+  "item_size": 75371762,
+  "lex18news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lex18news-2022",
     "collection": [
@@ -10654,21 +10670,10 @@
     "publicdate": "2022-08-01 06:42:16",
     "addeddate": "2022-08-01 06:42:16"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454138585,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 401596231,
+  "server": "ia802509.us.archive.org",
+  "uniq": 193397480,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

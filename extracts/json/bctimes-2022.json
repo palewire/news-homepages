@@ -1,10 +1,5 @@
 {
-  "bctimes-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666890892,
+  "created": 1666898607,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/bctimes-2022",
@@ -4588,21 +4583,32 @@
       "format": "JSON"
     },
     {
+      "name": "bctimes-2022-10-27T12:07:30.691026-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bctimes-2022-10-27T12:07:30.691026-04:00.jpg",
+      "mtime": "1666898454",
+      "size": "9168",
+      "md5": "80d51eb6aaa6231a5f6417ce88f493e6",
+      "crc32": "59f550fd",
+      "sha1": "e304d9b0a4b15502c1ad54f1c928fd0fd9e87f33"
+    },
+    {
       "name": "bctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae6c8c1a824cdb1b9d957523f71f7602b4e0633a",
-      "mtime": "1666886906",
-      "size": "94117",
-      "md5": "778cf46209ec2a019394badf6816517e",
-      "crc32": "fb1a1afc",
-      "sha1": "19f95ae1722ea6baa0a226a0b698d7d1bcc0e75a",
+      "btih": "9dc72fc00f60c05ee6a3ebd72fb00410858d98d2",
+      "mtime": "1666898460",
+      "size": "94320",
+      "md5": "d49b15b2a2f929fd0f847f94e35db16c",
+      "crc32": "c50af9da",
+      "sha1": "e1d4280a2340baf42f91b64975bb5814cc2c72bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3d7046eecda207887f9c8cfb0ca9eb08",
+      "md5": "b980c23615de3f50414b8b9331ec4689",
       "summation": "md5"
     },
     {
@@ -4626,9 +4632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1666886906,
-  "item_size": 29637428,
+  "files_count": 448,
+  "item_last_updated": 1666898460,
+  "item_size": 29646799,
   "metadata": {
     "identifier": "bctimes-2022",
     "collection": [
@@ -4645,21 +4651,10 @@
     "publicdate": "2022-09-21 04:39:06",
     "addeddate": "2022-09-21 04:39:06"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454235233,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1499041121,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1102189592,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

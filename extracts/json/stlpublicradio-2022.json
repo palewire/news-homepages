@@ -1,5 +1,5 @@
 {
-  "created": 1666900372,
+  "created": 1666907748,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/7/items/stlpublicradio-2022",
@@ -12795,21 +12795,32 @@
       "format": "JSON"
     },
     {
+      "name": "stlpublicradio-2022-10-27T14:51:39.602255-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stlpublicradio-2022-10-27T14:51:39.602255-05:00.jpg",
+      "mtime": "1666907619",
+      "size": "10340",
+      "md5": "07f645dbcdac4b2a36fbe51829efa54e",
+      "crc32": "d057c967",
+      "sha1": "db92f86766655b8347020cfd0a6a88afd8222306"
+    },
+    {
       "name": "stlpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "742e6a4415e76336cc040d3e33f8184853a8d331",
-      "mtime": "1666900367",
-      "size": "268899",
-      "md5": "bc09b48550aa04e770fd4a32f8b2db4c",
-      "crc32": "d9786e75",
-      "sha1": "438b7425a172c2e2fc979a88049abe829d082027",
+      "btih": "5486e30bf74244f50569535fbc94f7937178925f",
+      "mtime": "1666907684",
+      "size": "269110",
+      "md5": "d915fa41ae0e282c5ef94f5593c9c1bd",
+      "crc32": "6fb53ebe",
+      "sha1": "55f44ccbfa01e65a620e7a15ddd4b890b19b9d1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stlpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5145cd032d33a5cf54af43368c85129b",
+      "md5": "4bb9e4824267712ac2d10ea906a0d21a",
       "summation": "md5"
     },
     {
@@ -12833,9 +12844,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1239,
-  "item_last_updated": 1666900367,
-  "item_size": 86745080,
+  "files_count": 1240,
+  "item_last_updated": 1666907684,
+  "item_size": 86755631,
   "metadata": {
     "identifier": "stlpublicradio-2022",
     "collection": [
@@ -12852,21 +12863,10 @@
     "publicdate": "2022-07-09 04:04:48",
     "addeddate": "2022-07-09 04:04:48"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454370668,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1668558054,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1554274882,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

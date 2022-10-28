@@ -1,5 +1,5 @@
 {
-  "created": 1666883724,
+  "created": 1666895538,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/towntalkdotcom-2022",
@@ -4593,21 +4593,32 @@
       "format": "JSON"
     },
     {
+      "name": "towntalkdotcom-2022-10-27T10:14:22.885512-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-27T10:14:22.885512-05:00.jpg",
+      "mtime": "1666895513",
+      "size": "9267",
+      "md5": "cc7fe9565e833900057e0e7c7a18104e",
+      "crc32": "a8b2c4d1",
+      "sha1": "65b806f7e45b752a7438e640ebd92c0388e0c2cd"
+    },
+    {
       "name": "towntalkdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0258fb93e072282ebb2aeca057042eda60c18cea",
-      "mtime": "1666883719",
-      "size": "97421",
-      "md5": "fe8c9116c97b0e894645f6a4f49ab027",
-      "crc32": "be47d73e",
-      "sha1": "c68fc641c9e899b4f59676d5144253137e4d0ad1",
+      "btih": "9a051435bc4bb7b86ffa87fb36ca78f941d52720",
+      "mtime": "1666895523",
+      "size": "97631",
+      "md5": "d8da429456772facfeded87705c20a42",
+      "crc32": "c0f8f782",
+      "sha1": "c84330176a1cb08c3a66595b2627f221373d89ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "towntalkdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c846beb4d9db340a438fd0c8003becb",
+      "md5": "cf21f6ec718a38bdebdb705eb71591fe",
       "summation": "md5"
     },
     {
@@ -4631,9 +4642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666883719,
-  "item_size": 28185638,
+  "files_count": 449,
+  "item_last_updated": 1666895523,
+  "item_size": 28195115,
   "metadata": {
     "identifier": "towntalkdotcom-2022",
     "collection": [
@@ -4650,21 +4661,10 @@
     "publicdate": "2022-09-21 03:46:13",
     "addeddate": "2022-09-21 03:46:13"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454198961,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 41459369,
+  "server": "ia801408.us.archive.org",
+  "uniq": 851031531,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

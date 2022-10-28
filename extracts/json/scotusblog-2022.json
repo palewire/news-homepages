@@ -1,5 +1,5 @@
 {
-  "created": 1666883800,
+  "created": 1666913817,
   "d1": "ia904705.us.archive.org",
   "d2": "ia804705.us.archive.org",
   "dir": "/26/items/scotusblog-2022",
@@ -14611,21 +14611,32 @@
       "format": "JSON"
     },
     {
+      "name": "scotusblog-2022-10-27T10:18:52.235799-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotusblog-2022-10-27T10:18:52.235799-04:00.jpg",
+      "mtime": "1666893626",
+      "size": "10011",
+      "md5": "b84ed00e8ce90b86ca7f67c8ed8ae01c",
+      "crc32": "d8d43b21",
+      "sha1": "991a9cf8aa0650b0281c1babe681aa9792418c97"
+    },
+    {
       "name": "scotusblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9521d1ebcf70a4e63938b1bccd9c8a07d08003e8",
-      "mtime": "1666880401",
-      "size": "300765",
-      "md5": "056447e3a978a2f22b73f4e91a0696f5",
-      "crc32": "34232465",
-      "sha1": "6659452938c80dae1ba98330bf7ed2d1d273d04c",
+      "btih": "aa66cbc1c468df39e7f0447587ee9894fccc9a90",
+      "mtime": "1666893715",
+      "size": "300972",
+      "md5": "4710a39c7f049ac0f55a67999609e882",
+      "crc32": "b8bbbbd5",
+      "sha1": "02690ab4bb842eb7440a4fceb12144375273b01d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotusblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "712171d605a5d7b0f97e3fc26e99165a",
+      "md5": "f2382ecfc29c3eabab210ff6bf9ea8d7",
       "summation": "md5"
     },
     {
@@ -14649,9 +14660,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1412,
-  "item_last_updated": 1666880401,
-  "item_size": 107237869,
+  "files_count": 1413,
+  "item_last_updated": 1666893715,
+  "item_size": 107248087,
   "metadata": {
     "identifier": "scotusblog-2022",
     "collection": [
@@ -14668,26 +14679,10 @@
     "publicdate": "2022-06-24 23:01:00",
     "addeddate": "2022-06-24 23:01:00"
   },
-  "pending_tasks": true,
-  "scotusblog-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia904705.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169392,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1284278593,
+  "server": "ia804705.us.archive.org",
+  "uniq": 1936076393,
   "workable_servers": [
+    "ia804705.us.archive.org",
     "ia904705.us.archive.org"
   ]
 }

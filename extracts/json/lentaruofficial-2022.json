@@ -1,5 +1,5 @@
 {
-  "created": 1666767153,
+  "created": 1666917487,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/lentaruofficial-2022",
@@ -17784,31 +17784,341 @@
       "sha1": "06ec3e75c9b30651a22545e925ddba573c3fb249"
     },
     {
+      "name": "lentaruofficial-2022-10-26T11:22:06.085583+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772530",
+      "size": "80054",
+      "md5": "9dca702a09c16252050ae700f2bcff40",
+      "crc32": "b2bf791d",
+      "sha1": "4136593d1fe513fa1fb9a52d7670caf034d8111f",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T11:22:06.085583+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772532",
+      "size": "75054",
+      "md5": "39e888ba7401c7234c185564e4383345",
+      "crc32": "7ca4a722",
+      "sha1": "7e80c3c85a661cd06c58f3337c85f52cf0aa1bdf",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T11:22:06.085583+03:00.jpg",
+      "source": "original",
+      "mtime": "1666772528",
+      "size": "274456",
+      "md5": "66e97658127a900cec44b59eddfa2152",
+      "crc32": "354321ba",
+      "sha1": "18da630fe356265e17aa707f5c3797f3767d6fee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T11:22:06.085583+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772534",
+      "size": "1407",
+      "md5": "e1f396327de3c7fa8d343d7c827fedef",
+      "crc32": "7af441a7",
+      "sha1": "2dbfb34f88d586a289322b955677dc2d58947d89",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T11:22:06.085583+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772536",
+      "size": "90113",
+      "md5": "9e24f5227c7407d451d67bd3e30b71dc",
+      "crc32": "b9c33674",
+      "sha1": "ec6baee4db6534762b4ff919cf8173f88b7f16f4",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T11:22:06.085583+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lentaruofficial-2022-10-26T11:22:06.085583+03:00.jpg",
+      "mtime": "1666774032",
+      "size": "8795",
+      "md5": "b19e63a0954b0afa016c3027e42884a9",
+      "crc32": "e3f8e451",
+      "sha1": "b59a4298fd5dad931eb5beb858d02e82cbb39aac"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T21:11:11.306671+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666807908",
+      "size": "79276",
+      "md5": "06dafedc4986222b80cf01d0b7f2e42e",
+      "crc32": "7b572e5a",
+      "sha1": "7193ada421a19594b3d27cdf0950c930c7e32f51",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T21:11:11.306671+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666807914",
+      "size": "73994",
+      "md5": "a36d90fa9bfc01c42f801f77d0e32644",
+      "crc32": "62c22437",
+      "sha1": "c984cb0a984ac624a0c2f36544b6e3006bfb419d",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T21:11:11.306671+03:00.jpg",
+      "source": "original",
+      "mtime": "1666807901",
+      "size": "278566",
+      "md5": "357acbd92ab154abfbd295c67b13356b",
+      "crc32": "12d86c84",
+      "sha1": "acbbe5312226bfa681d29333f649c66906c7ff0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T21:11:11.306671+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666807919",
+      "size": "1408",
+      "md5": "f7f1ac292f504c1509e2c44cc6faa170",
+      "crc32": "72041202",
+      "sha1": "5e3530d58cd7a9ed94d0d23d56a5981ba33ccea1",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T21:11:11.306671+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666807926",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-26T21:11:11.306671+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lentaruofficial-2022-10-26T21:11:11.306671+03:00.jpg",
+      "mtime": "1666819211",
+      "size": "9008",
+      "md5": "365ff53c52affab9da82ee1a12d4d541",
+      "crc32": "0a4fd25e",
+      "sha1": "21aac3855268391f21c75982943eb69f1d3e1056"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T08:49:27.507975+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666849797",
+      "size": "82893",
+      "md5": "eb0f8f11a21de0774d27a88d317da88f",
+      "crc32": "c33869cf",
+      "sha1": "6a4e5b8356f42d463fb45307b09b067c8555a66d",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T08:49:27.507975+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666849800",
+      "size": "77619",
+      "md5": "de7eb1480da075a65e0f1878e9621665",
+      "crc32": "211161fe",
+      "sha1": "31156e3096e7e11fcf13e7149d99c41bcde95b94",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T08:49:27.507975+03:00.jpg",
+      "source": "original",
+      "mtime": "1666849796",
+      "size": "270744",
+      "md5": "750e09dd09b5708e3da1c9746a7e148c",
+      "crc32": "cfd5fd4f",
+      "sha1": "8d38c19cb360d10beadf6fedd40d6f84a74023e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T08:49:27.507975+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666849802",
+      "size": "1407",
+      "md5": "29a7e285e69f2ca6e0420206baff94b8",
+      "crc32": "dd767b85",
+      "sha1": "4fb59e66b0900582131ff827d5e3193f72320407",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T08:49:27.507975+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666849804",
+      "size": "197",
+      "md5": "b9e6dbf9e054f21288ab8997765282d1",
+      "crc32": "2b3712cb",
+      "sha1": "6425efbf13f15d0bbaaaaff57c9310baddf91f91",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T08:49:27.507975+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lentaruofficial-2022-10-27T08:49:27.507975+03:00.jpg",
+      "mtime": "1666854994",
+      "size": "8897",
+      "md5": "f4163f00031287cfa55fff3f1bb97f31",
+      "crc32": "9328dd5f",
+      "sha1": "876dba6483e33fc5ebb42f0075a3380d98087cf2"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T10:15:19.521436+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666854924",
+      "size": "82169",
+      "md5": "2a78dfba0f7a3102e5e6c0263a7aa1e3",
+      "crc32": "c485ca0c",
+      "sha1": "3d17f42517daaa35177692c74b0fe84bf818cb50",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T10:15:19.521436+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666854926",
+      "size": "77323",
+      "md5": "9354b6433d1bfee2592a454a9f9a7ca7",
+      "crc32": "bd10e445",
+      "sha1": "b445ca1e202ebd537ce5a44a5a7bd409e6967903",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T10:15:19.521436+03:00.jpg",
+      "source": "original",
+      "mtime": "1666854921",
+      "size": "267336",
+      "md5": "e281c34d04157aecbfb77cdcff3aad98",
+      "crc32": "3df897b0",
+      "sha1": "2b162a2f82ee7f66533f0df2be7bcbf40b41c9db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T10:15:19.521436+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666854930",
+      "size": "1408",
+      "md5": "4caa6a77df3ad7697035c350c4b772ad",
+      "crc32": "eed40f5c",
+      "sha1": "4592e4b4b198cda0f5f16387d736a8c305bb3fc0",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T10:15:19.521436+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666854932",
+      "size": "197",
+      "md5": "b9e6dbf9e054f21288ab8997765282d1",
+      "crc32": "2b3712cb",
+      "sha1": "6425efbf13f15d0bbaaaaff57c9310baddf91f91",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T10:15:19.521436+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lentaruofficial-2022-10-27T10:15:19.521436+03:00.jpg",
+      "mtime": "1666877374",
+      "size": "8824",
+      "md5": "6a77bbfbadb56a976c564d9383aed3ae",
+      "crc32": "d1c49e4a",
+      "sha1": "576b52f9635e4386ec630add38a23b0931256ed7"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T20:45:37.531900+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666892748",
+      "size": "79243",
+      "md5": "8698f76815a950f56738b28091166fad",
+      "crc32": "7280c897",
+      "sha1": "de5a2b18979e9e54b3799bb9b830d80a990c7b01",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T20:45:37.531900+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666892751",
+      "size": "74148",
+      "md5": "cd20526bf37a47491f1c16840a7fa29a",
+      "crc32": "e8c6b396",
+      "sha1": "748305a66439b66d18eeef2e22895e8811805293",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T20:45:37.531900+03:00.jpg",
+      "source": "original",
+      "mtime": "1666892746",
+      "size": "225561",
+      "md5": "29ad2cd4ebb1f50d8b8ed5b5c317c7f0",
+      "crc32": "7e726cc2",
+      "sha1": "3238e7640f3b3b64106e70721842fb3c3c9c75c4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T20:45:37.531900+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666892753",
+      "size": "1408",
+      "md5": "c1501bf74c52815b4df477b8a657fc7a",
+      "crc32": "d873aefe",
+      "sha1": "35e693070560729631d833e6b8ec9993959f5567",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T20:45:37.531900+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666892755",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-10-27T20:45:37.531900+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lentaruofficial-2022-10-27T20:45:37.531900+03:00.jpg",
+      "mtime": "1666902045",
+      "size": "8545",
+      "md5": "2503a8f9871c43b33630cc374793914d",
+      "crc32": "cb16a158",
+      "sha1": "79bcf3a637ce0fdacfe77d681434b7ca85f7be02"
+    },
+    {
       "name": "lentaruofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98ce65871b042094460b4a8e9853ef143110750f",
-      "mtime": "1666767104",
-      "size": "375352",
-      "md5": "a3b817c3785ccff680825b87bb6420e0",
-      "crc32": "1f006618",
-      "sha1": "883e46985752cb7483a11a3a16eaaed2abbf3b88",
+      "btih": "b31649f713db398b46e08422173e2fcdb4f961c9",
+      "mtime": "1666902070",
+      "size": "381889",
+      "md5": "898d2073a15e5c181a1672f606659eba",
+      "crc32": "9748916b",
+      "sha1": "272ff71a5bc16309a54409c460c7e3434873b654",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lentaruofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "20949bf9741249d2131d96ff268347c0",
+      "md5": "e71a0e376915811e8171c8ac7a72ebeb",
       "summation": "md5"
     },
     {
       "name": "lentaruofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666766277",
-      "size": "2191360",
-      "md5": "af6e2d4914aa05bf0d1c3005aa31401e",
-      "crc32": "a6ea572d",
-      "sha1": "da7868531de37ea84d5db679c91e4feb2d1466ac",
+      "mtime": "1666892785",
+      "size": "2232320",
+      "md5": "1af1df0809ff252137bec55312d79718",
+      "crc32": "9f426682",
+      "sha1": "229c74a155452c356635a59e277dac57ccba9074",
       "format": "Metadata"
     },
     {
@@ -17822,9 +18132,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1722,
-  "item_last_updated": 1666767104,
-  "item_size": 134518856,
+  "files_count": 1752,
+  "item_last_updated": 1666902070,
+  "item_size": 136806807,
+  "lentaruofficial-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lentaruofficial-2022",
     "collection": [
@@ -17841,10 +18156,10 @@
     "publicdate": "2022-07-16 20:49:02",
     "addeddate": "2022-07-16 20:49:02"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 1088401603,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1704119308,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

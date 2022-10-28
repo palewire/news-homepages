@@ -1,5 +1,5 @@
 {
-  "created": 1666883697,
+  "created": 1666919864,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/uninoticias-2022",
@@ -11269,21 +11269,32 @@
       "format": "JSON"
     },
     {
+      "name": "uninoticias-2022-10-27T11:13:47.330978-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uninoticias-2022-10-27T11:13:47.330978-04:00.jpg",
+      "mtime": "1666895517",
+      "size": "8909",
+      "md5": "556ef1a47a7918e93a097818731514e3",
+      "crc32": "e246001c",
+      "sha1": "f72cf06dc85a61059e8b106a6843c4fe28185013"
+    },
+    {
       "name": "uninoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "502d5e6eb1f8dece740155f6b1da3917d8ad17a9",
-      "mtime": "1666883693",
-      "size": "233559",
-      "md5": "e14b81c4fa529a1084e96c90da522f6f",
-      "crc32": "ea1a6db7",
-      "sha1": "357ade8e55787a0a90279144b7557a3cc695cc70",
+      "btih": "c28e9b8644fee1f9310299f997835e2a22891515",
+      "mtime": "1666895556",
+      "size": "233766",
+      "md5": "e1d95a74c3a1eeeaac12f33bbec66cc2",
+      "crc32": "941c35db",
+      "sha1": "64e1c48008dcfd9d02f5882821b35ca65dea3aa5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uninoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e4853eddce976f5a3a2ce0597b32bc6",
+      "md5": "4a4c6e3a842614d01a73dd8558e053b4",
       "summation": "md5"
     },
     {
@@ -11307,9 +11318,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1093,
-  "item_last_updated": 1666883693,
-  "item_size": 65883593,
+  "files_count": 1094,
+  "item_last_updated": 1666895556,
+  "item_size": 65892709,
   "metadata": {
     "identifier": "uninoticias-2022",
     "collection": [
@@ -11326,21 +11337,15 @@
     "publicdate": "2022-07-26 01:37:59",
     "addeddate": "2022-07-26 01:37:59"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454198749,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1094400495,
+  "server": "ia802509.us.archive.org",
+  "uninoticias-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 545670205,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

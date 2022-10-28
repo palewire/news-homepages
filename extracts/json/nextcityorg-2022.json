@@ -1,5 +1,5 @@
 {
-  "created": 1666898427,
+  "created": 1666918139,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/14/items/nextcityorg-2022",
@@ -13027,21 +13027,32 @@
       "format": "JSON"
     },
     {
+      "name": "nextcityorg-2022-10-27T15:18:59.713576-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nextcityorg-2022-10-27T15:18:59.713576-04:00.jpg",
+      "mtime": "1666906407",
+      "size": "10995",
+      "md5": "289a4d8601921b389cb06fc7397ef4ab",
+      "crc32": "7744d203",
+      "sha1": "3087cd14a1040ce97d7c07e3c083f29be6d634b5"
+    },
+    {
       "name": "nextcityorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac872256988cfaa1efa678f9b6560877551368f3",
-      "mtime": "1666898417",
-      "size": "270156",
-      "md5": "2b63930065189cb3e4901b7c59c6870e",
-      "crc32": "a5053ab7",
-      "sha1": "f601cc171c135a27aebd4eb90cb70d78863a6990",
+      "btih": "a1c347515a908b54027536f0a7808494ac607396",
+      "mtime": "1666906435",
+      "size": "270364",
+      "md5": "b544b9a90b6926b34f880b8d9b39c287",
+      "crc32": "ca0fc282",
+      "sha1": "1e000fb67618479b45e622f8766943f16a777a51",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nextcityorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cdaf2bb3453be6eb7918749ac6cd2ad9",
+      "md5": "37534400045945533da163bfd4a9b56d",
       "summation": "md5"
     },
     {
@@ -13065,9 +13076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1261,
-  "item_last_updated": 1666898417,
-  "item_size": 95540981,
+  "files_count": 1262,
+  "item_last_updated": 1666906435,
+  "item_size": 95552184,
   "metadata": {
     "identifier": "nextcityorg-2022",
     "collection": [
@@ -13084,21 +13095,10 @@
     "publicdate": "2022-07-09 04:01:27",
     "addeddate": "2022-07-09 04:01:27"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454353056,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 717824823,
+  "server": "ia801504.us.archive.org",
+  "uniq": 2070442260,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

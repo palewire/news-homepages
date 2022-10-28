@@ -1,5 +1,5 @@
 {
-  "created": 1666900741,
+  "created": 1666920204,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/20/items/wplglocal10-2022",
@@ -11153,21 +11153,32 @@
       "format": "JSON"
     },
     {
+      "name": "wplglocal10-2022-10-27T15:57:39.128009-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wplglocal10-2022-10-27T15:57:39.128009-04:00.jpg",
+      "mtime": "1666907869",
+      "size": "10911",
+      "md5": "c386ea1de283a8556266711d6984d593",
+      "crc32": "2e929f5b",
+      "sha1": "af21c2170fbaea719d9bdcb45a89c99d269428e0"
+    },
+    {
       "name": "wplglocal10-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34a421d67d6b296340133bd42fb493c4c4fc42ed",
-      "mtime": "1666900733",
-      "size": "231763",
-      "md5": "8d740ab182163c307f6acd6759465647",
-      "crc32": "d5f8be20",
-      "sha1": "23ec9b297cf45c86400b582b5afd06c918084398",
+      "btih": "4acf56db5f7f800ee8c0d3012145c4b0910d1f46",
+      "mtime": "1666907888",
+      "size": "231971",
+      "md5": "a162e3d7578131c80137068a665e6ef1",
+      "crc32": "b5090577",
+      "sha1": "eb00c31545a07f4fdae595a001e7334c23687878",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wplglocal10-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61b76168d1d530b8b9ead68c3758ead7",
+      "md5": "3717705eb4ede01b581370179d22f8d3",
       "summation": "md5"
     },
     {
@@ -11191,9 +11202,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1082,
-  "item_last_updated": 1666900733,
-  "item_size": 79321052,
+  "files_count": 1083,
+  "item_last_updated": 1666907888,
+  "item_size": 79332171,
   "metadata": {
     "identifier": "wplglocal10-2022",
     "collection": [
@@ -11210,21 +11221,18 @@
     "publicdate": "2022-07-27 15:52:31",
     "addeddate": "2022-07-27 15:52:31"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454374398,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1150630871,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1165228626,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
-  ]
+  ],
+  "wplglocal10-2022": {
+    "url": "https://www.local10.com/",
+    "job_id": "spn2-13c90fc1ed27cfb781f74de271d357037bf2fc82",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  }
 }

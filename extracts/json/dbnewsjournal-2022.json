@@ -1,12 +1,7 @@
 {
-  "created": 1666898749,
+  "created": 1666902842,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
-  "dbnewsjournal-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/35/items/dbnewsjournal-2022",
   "files": [
     {
@@ -4650,21 +4645,32 @@
       "format": "JSON"
     },
     {
+      "name": "dbnewsjournal-2022-10-27T13:54:51.084176-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dbnewsjournal-2022-10-27T13:54:51.084176-04:00.jpg",
+      "mtime": "1666902602",
+      "size": "9379",
+      "md5": "b8fdd0311d3ea669d55b610d68931ad1",
+      "crc32": "71c20dc4",
+      "sha1": "53a43d06b3638fac8c089ca09674f2b1bed00abf"
+    },
+    {
       "name": "dbnewsjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75591f707ddb9876076d9f0917fdc7aeae628c23",
-      "mtime": "1666893352",
-      "size": "98123",
-      "md5": "d1549d3c142ad9cf8e6a70004f269e35",
-      "crc32": "090b243d",
-      "sha1": "8bc0957c38c93c0a8e31ea98f7289bb1510d00f8",
+      "btih": "3de98e7133bd640035102d1850e4ae6efc49f58a",
+      "mtime": "1666902657",
+      "size": "98332",
+      "md5": "fbda887d808ae1d1fefc8d75e38703ff",
+      "crc32": "4cfbeb99",
+      "sha1": "0280652e3071c682342145caaa01c39a99a2fe27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dbnewsjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe37ed35ddc135781f4954ee5e7303b4",
+      "md5": "43b3f78ceaabd298d6567337b21eb6ed",
       "summation": "md5"
     },
     {
@@ -4688,9 +4694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666893352,
-  "item_size": 30300436,
+  "files_count": 454,
+  "item_last_updated": 1666902657,
+  "item_size": 30310024,
   "metadata": {
     "identifier": "dbnewsjournal-2022",
     "collection": [
@@ -4707,21 +4713,10 @@
     "publicdate": "2022-09-20 17:43:42",
     "addeddate": "2022-09-20 17:43:42"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300417,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1223892591,
+  "uniq": 837063321,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

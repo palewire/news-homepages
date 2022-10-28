@@ -1,5 +1,5 @@
 {
-  "created": 1666898989,
+  "created": 1666906920,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/2/items/seattletimes-2022",
@@ -13163,21 +13163,32 @@
       "format": "JSON"
     },
     {
+      "name": "seattletimes-2022-10-27T12:28:22.354423-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seattletimes-2022-10-27T12:28:22.354423-07:00.jpg",
+      "mtime": "1666906794",
+      "size": "9122",
+      "md5": "f86a7e029ec745f41a2e621a6dd5445a",
+      "crc32": "d4c69a29",
+      "sha1": "4549de5de560d29bec62ec659a91076f2c4d0c76"
+    },
+    {
       "name": "seattletimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ae7baf8a4410b1412f0cbb59b949197dbe1277f",
-      "mtime": "1666898983",
-      "size": "273047",
-      "md5": "1585483d88610dcc1193e16a38c0d95f",
-      "crc32": "9293e07d",
-      "sha1": "93a453e7f254a643eb239474251687e9a62fd618",
+      "btih": "4dade2c4daf3e0cf2c92cc7ef4fe44a42cd9c9fe",
+      "mtime": "1666906863",
+      "size": "273255",
+      "md5": "a73c78e3b75c13bee18153f0b630624d",
+      "crc32": "a5bdcb1a",
+      "sha1": "08fc16fd08fe9a1666bae533994585569bcad45b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seattletimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e744bb817ac2feca777b88c1134ad85a",
+      "md5": "6dc3e094e31d65dee0e6f31abafc645e",
       "summation": "md5"
     },
     {
@@ -13201,9 +13212,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1274,
-  "item_last_updated": 1666898983,
-  "item_size": 86605223,
+  "files_count": 1275,
+  "item_last_updated": 1666906863,
+  "item_size": 86614553,
   "metadata": {
     "identifier": "seattletimes-2022",
     "collection": [
@@ -13220,21 +13231,10 @@
     "publicdate": "2022-07-04 21:53:09",
     "addeddate": "2022-07-04 21:53:09"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454358403,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1594897918,
+  "server": "ia802500.us.archive.org",
+  "uniq": 739585526,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883847,
+  "created": 1666895136,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/sjvwater-2022",
@@ -7673,21 +7673,32 @@
       "format": "JSON"
     },
     {
+      "name": "sjvwater-2022-10-27T07:18:47.833575-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sjvwater-2022-10-27T07:18:47.833575-07:00.jpg",
+      "mtime": "1666894795",
+      "size": "8489",
+      "md5": "f552dde91231dce59a6676bd993760ac",
+      "crc32": "cb44059f",
+      "sha1": "d125ca176e0f185a0338c8622d98165e5d75a3f0"
+    },
+    {
       "name": "sjvwater-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eff79cbab2f189b94ef625d7e17c3b61e3e22126",
-      "mtime": "1666880403",
-      "size": "156862",
-      "md5": "cbfe79524c71f2fc42c2179da6e0d7c0",
-      "crc32": "1bd22900",
-      "sha1": "fccf493eb78d921fb172f033b591b1e3007795ad",
+      "btih": "440594721ed1c672e4f0c238817b6fe77bb869b8",
+      "mtime": "1666894829",
+      "size": "157066",
+      "md5": "3d45940d671baacdf7c49b83ab64f723",
+      "crc32": "9ff90a85",
+      "sha1": "0ff924d1a5eb0ccc64328f190f7ba08491160eaf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sjvwater-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "67b4111b8d8fb1aa26e741b11246a892",
+      "md5": "262a4ce82bbad5b33378687180fc3624",
       "summation": "md5"
     },
     {
@@ -7711,9 +7722,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 746,
-  "item_last_updated": 1666880403,
-  "item_size": 36959155,
+  "files_count": 747,
+  "item_last_updated": 1666894829,
+  "item_size": 36967848,
   "metadata": {
     "identifier": "sjvwater-2022",
     "collection": [
@@ -7730,26 +7741,10 @@
     "publicdate": "2022-08-26 13:01:22",
     "addeddate": "2022-08-26 13:01:22"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "sjvwater-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "tasks": [
-    {
-      "task_id": 3454169458,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 198345718,
+  "uniq": 715390595,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

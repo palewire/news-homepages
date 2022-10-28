@@ -1,5 +1,5 @@
 {
-  "created": 1666877009,
+  "created": 1666917786,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/32/items/metropoles-2022",
@@ -14515,21 +14515,32 @@
       "format": "JSON"
     },
     {
+      "name": "metropoles-2022-10-27T10:20:18.512958-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metropoles-2022-10-27T10:20:18.512958-03:00.jpg",
+      "mtime": "1666891709",
+      "size": "9442",
+      "md5": "cd3076763c7276a544544019caead68c",
+      "crc32": "f570a650",
+      "sha1": "d141aff10229a29cf82b8c64705a3a5eadcf3b21"
+    },
+    {
       "name": "metropoles-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a162df868bbcb3611c6897593a70ac608d92d642",
-      "mtime": "1666876996",
-      "size": "300180",
-      "md5": "0f42f210c5ba26b21a13fde38a33b5bc",
-      "crc32": "cdb93d59",
-      "sha1": "719070e1d8316ce4ebc90c6621e5e3fa862f3f2a",
+      "btih": "7dfab7d8e39213d65da0d683f188c7527e90968d",
+      "mtime": "1666891859",
+      "size": "300386",
+      "md5": "66cf99bc72ff89288620a17875ba5653",
+      "crc32": "7017de4b",
+      "sha1": "cf771c32f360819bafe6a9b72c3100272dcbd5a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "metropoles-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c882b6946e34a1f79630e53c333abdbb",
+      "md5": "dca6729a6070d0fc988d93cf92a054a6",
       "summation": "md5"
     },
     {
@@ -14553,9 +14564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1408,
-  "item_last_updated": 1666876996,
-  "item_size": 115028094,
+  "files_count": 1409,
+  "item_last_updated": 1666891859,
+  "item_size": 115037742,
   "metadata": {
     "identifier": "metropoles-2022",
     "collection": [
@@ -14572,21 +14583,26 @@
     "publicdate": "2022-08-07 19:43:57",
     "addeddate": "2022-08-07 19:43:57"
   },
-  "pending_tasks": true,
+  "metropoles-2022": {
+    "url": "https://www.metropoles.com/",
+    "job_id": "spn2-ce06769e5e3172078a5e7b121eb755fc46d61a85",
+    "resources": [],
+    "timestamp": "20221027112423",
+    "http_status": 200,
+    "outlinks": [],
+    "status": "success",
+    "counters": {
+      "outlinks": 203,
+      "embeds": 92
+    },
+    "original_url": "https://www.metropoles.com/",
+    "duration_sec": 11.968,
+    "screenshot": "http://web.archive.org/screenshot/https://www.metropoles.com/"
+  },
   "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454139396,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1685908423,
+  "uniq": 992966647,
   "workable_servers": [
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

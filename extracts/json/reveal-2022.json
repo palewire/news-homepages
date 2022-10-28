@@ -1,5 +1,5 @@
 {
-  "created": 1666901142,
+  "created": 1666918804,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/2/items/reveal-2022",
@@ -15503,21 +15503,32 @@
       "format": "JSON"
     },
     {
+      "name": "reveal-2022-10-27T12:26:37.839307-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reveal-2022-10-27T12:26:37.839307-07:00.jpg",
+      "mtime": "1666906860",
+      "size": "9662",
+      "md5": "e16afd04f99508dfcf8fb0607d9890c7",
+      "crc32": "2af086c4",
+      "sha1": "a9057669907b6252c5cee80c4a7ca9941d7f78fe"
+    },
+    {
       "name": "reveal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b4b8670f71821d56b09fa721e3bf839bfe117c87",
-      "mtime": "1666898872",
-      "size": "311850",
-      "md5": "a8e25c0f67857a225313ad16ce0e90e1",
-      "crc32": "85818a35",
-      "sha1": "296f3a60f42995b4f1778f7aa83694535d67a0e0",
+      "btih": "a1e26b8f747471a206e09aa5f339b46810148852",
+      "mtime": "1666906912",
+      "size": "312052",
+      "md5": "80e8d5a2c045c24ff5eb86fc7de144ce",
+      "crc32": "ee2c87c2",
+      "sha1": "fd6e5fef45656879d0527e857d499fa30699fc4e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reveal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc58c08d586f672bd416b38c08b46402",
+      "md5": "d522beb562bb30bea372077e3610c319",
       "summation": "md5"
     },
     {
@@ -15541,9 +15552,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1497,
-  "item_last_updated": 1666898872,
-  "item_size": 89871061,
+  "files_count": 1498,
+  "item_last_updated": 1666906912,
+  "item_size": 89880925,
   "metadata": {
     "identifier": "reveal-2022",
     "collection": [
@@ -15560,26 +15571,15 @@
     "publicdate": "2022-06-19 23:28:01",
     "addeddate": "2022-06-19 23:28:01"
   },
-  "pending_tasks": true,
   "reveal-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454357483,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1938093279,
+  "server": "ia802509.us.archive.org",
+  "uniq": 1352289287,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

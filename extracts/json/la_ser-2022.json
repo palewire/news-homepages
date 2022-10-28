@@ -1,5 +1,5 @@
 {
-  "created": 1666876846,
+  "created": 1666917267,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/30/items/la_ser-2022",
@@ -11523,21 +11523,32 @@
       "format": "JSON"
     },
     {
+      "name": "la_ser-2022-10-27T15:17:40.872472+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "la_ser-2022-10-27T15:17:40.872472+02:00.jpg",
+      "mtime": "1666891624",
+      "size": "9494",
+      "md5": "ca36b0721a6cb02830b817206dd99260",
+      "crc32": "178bfe55",
+      "sha1": "6334c74cfe79666ea2c82a3dc9f6b520d270880b"
+    },
+    {
       "name": "la_ser-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eddb3ef60e95295780732d16e8d4221bacac6f8a",
-      "mtime": "1666876827",
-      "size": "233422",
-      "md5": "bdc6400ddc0de83acbbfa83b72c3c396",
-      "crc32": "3e4ae4db",
-      "sha1": "25c08a9e600793c2ca3004768f5320462e5d811d",
+      "btih": "d41ec8240b684faf9817e6d6933a4bee20c62d8a",
+      "mtime": "1666891871",
+      "size": "233624",
+      "md5": "1db2dc43ea993d54a7757151254797a5",
+      "crc32": "952e96b4",
+      "sha1": "7c55cb1d874798cefc1cd6d958a15a7445120803",
       "format": "Archive BitTorrent"
     },
     {
       "name": "la_ser-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "355b572ac5976e69d5a364896553e0c1",
+      "md5": "de40e74f1e3ed778075c8e3cadf41793",
       "summation": "md5"
     },
     {
@@ -11561,9 +11572,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1118,
-  "item_last_updated": 1666876827,
-  "item_size": 74879377,
+  "files_count": 1119,
+  "item_last_updated": 1666891871,
+  "item_size": 74889073,
+  "la_ser-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "la_ser-2022",
     "collection": [
@@ -11580,21 +11596,10 @@
     "publicdate": "2022-07-26 00:17:38",
     "addeddate": "2022-07-26 00:17:38"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454137965,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2062643510,
+  "server": "ia801400.us.archive.org",
+  "uniq": 565385614,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

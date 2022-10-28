@@ -1,5 +1,5 @@
 {
-  "created": 1666900637,
+  "created": 1666908093,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/35/items/timesofindia-2022",
@@ -11417,21 +11417,32 @@
       "format": "JSON"
     },
     {
+      "name": "timesofindia-2022-10-28T01:25:43.113055+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesofindia-2022-10-28T01:25:43.113055+05:30.jpg",
+      "mtime": "1666907828",
+      "size": "9180",
+      "md5": "3696ed31daa390d14b905acb2031500a",
+      "crc32": "23414ef7",
+      "sha1": "c8464656926c8c190f86c4c3dd872824889feb91"
+    },
+    {
       "name": "timesofindia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1409665b72449cb067136f7bb88c05ca548cc7eb",
-      "mtime": "1666900627",
-      "size": "239481",
-      "md5": "b6b3c843521b99820f4a6489c31ccaf7",
-      "crc32": "2a4f1cbf",
-      "sha1": "2c42707094571cebd2cc76f21faf430e198268d9",
+      "btih": "7d6a4ce5e23fbf3c35511f1c508a3cdb0dbc9f9f",
+      "mtime": "1666907916",
+      "size": "239689",
+      "md5": "cb8708e5d115ee40659e372d265ee2af",
+      "crc32": "16c3bd76",
+      "sha1": "c8ca9a3d83847e20fd3fe778638c1720ae98e53e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesofindia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ba7fc45571a36b8070e93854acaac169",
+      "md5": "0501bbdcdd956b02ee117e559bd5b574",
       "summation": "md5"
     },
     {
@@ -11455,9 +11466,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1107,
-  "item_last_updated": 1666900627,
-  "item_size": 114018600,
+  "files_count": 1108,
+  "item_last_updated": 1666907916,
+  "item_size": 114027988,
   "metadata": {
     "identifier": "timesofindia-2022",
     "collection": [
@@ -11474,21 +11485,10 @@
     "publicdate": "2022-07-24 03:43:40",
     "addeddate": "2022-07-24 03:43:40"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454373149,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 356356731,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1047507998,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

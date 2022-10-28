@@ -1,5 +1,5 @@
 {
-  "created": 1666880198,
+  "created": 1666918599,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/pucknews-2022",
@@ -15945,21 +15945,32 @@
       "format": "JSON"
     },
     {
+      "name": "pucknews-2022-10-27T10:15:15.903299-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pucknews-2022-10-27T10:15:15.903299-04:00.jpg",
+      "mtime": "1666893589",
+      "size": "7583",
+      "md5": "da83552c4acd68a4ddcf608a343f9180",
+      "crc32": "98e69e71",
+      "sha1": "8132657588c6cdc3b8671031e52100bbbd188c85"
+    },
+    {
       "name": "pucknews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b49ae5ad755d682015231b03768c32953af30ec",
-      "mtime": "1666880194",
-      "size": "322511",
-      "md5": "3e03bf3c9bfb802485df30729bf7cf7f",
-      "crc32": "2c4bd727",
-      "sha1": "01c918215cb0ab4b1a5eb455b337205b0dbf8ac8",
+      "btih": "ffed1ecbad25390049f1831eeaa49fdd811dbaf0",
+      "mtime": "1666893612",
+      "size": "322715",
+      "md5": "0240c52cf9b31e698b0a58c4d3d54dff",
+      "crc32": "24f1483a",
+      "sha1": "0ae3621d6f036526f0795e570c4e779adbcdf0b5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pucknews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3952725af16460048080318de6874d9",
+      "md5": "f13ab69ee103ee474be3d78b1be112a2",
       "summation": "md5"
     },
     {
@@ -15983,9 +15994,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1539,
-  "item_last_updated": 1666880194,
-  "item_size": 64364972,
+  "files_count": 1540,
+  "item_last_updated": 1666893612,
+  "item_size": 64372759,
   "metadata": {
     "identifier": "pucknews-2022",
     "collection": [
@@ -16002,21 +16013,10 @@
     "publicdate": "2022-06-18 17:10:26",
     "addeddate": "2022-06-18 17:10:26"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167399,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1332292737,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1049029380,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

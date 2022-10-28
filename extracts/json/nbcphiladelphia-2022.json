@@ -1,5 +1,5 @@
 {
-  "created": 1666879987,
+  "created": 1666914888,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/20/items/nbcphiladelphia-2022",
@@ -13665,21 +13665,32 @@
       "format": "JSON"
     },
     {
+      "name": "nbcphiladelphia-2022-10-27T10:12:00.220768-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcphiladelphia-2022-10-27T10:12:00.220768-04:00.jpg",
+      "mtime": "1666893275",
+      "size": "9854",
+      "md5": "06eec6f40bdbb555d51b5c7d4f9fe6ac",
+      "crc32": "0d382f50",
+      "sha1": "7d1a57298dcd96eaa4c79ced060041cbfe5a1715"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aaf9db07088c5ace25f37fdf2e9ebf0810c701a2",
-      "mtime": "1666879982",
-      "size": "288666",
-      "md5": "7e1ee040523455dabcae9a35230fdce0",
-      "crc32": "1dc78f9d",
-      "sha1": "c470fb0de1a6b291aa456c73a1428f515151cbd2",
+      "btih": "6baa20889e29b212da65f56c5778a7c7531e6dca",
+      "mtime": "1666893326",
+      "size": "288877",
+      "md5": "f71cc618d5b3a4c6208b7290a0f91b7f",
+      "crc32": "f722f483",
+      "sha1": "2a5141f23d356be1dfd1d8b7022b2b99f7e76830",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "37a8f090d7225fc2808feda5d2c089a0",
+      "md5": "9387bfb708616c51f2bbd873f9c10a0b",
       "summation": "md5"
     },
     {
@@ -13703,9 +13714,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1322,
-  "item_last_updated": 1666879982,
-  "item_size": 109762352,
+  "files_count": 1323,
+  "item_last_updated": 1666893326,
+  "item_size": 109772417,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -13722,21 +13733,10 @@
     "publicdate": "2022-07-03 15:52:43",
     "addeddate": "2022-07-03 15:52:43"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454165493,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 764180689,
+  "uniq": 1584079311,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666880386,
+  "created": 1666918739,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/34/items/reductress-2022",
@@ -9067,21 +9067,32 @@
       "format": "JSON"
     },
     {
+      "name": "reductress-2022-10-27T10:18:37.044348-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-27T10:18:37.044348-04:00.jpg",
+      "mtime": "1666893853",
+      "size": "10712",
+      "md5": "f91c6ffeefd75f849af91a9b6fe8a10e",
+      "crc32": "fe8de071",
+      "sha1": "e827a2aebde7f5ca36bc27af2e638b245889b0dc"
+    },
+    {
       "name": "reductress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d853fcdaf0e401efa4d026ad030536108f4742d5",
-      "mtime": "1666880379",
-      "size": "187666",
-      "md5": "42790cda62bf14e628be0d3f1e5c983b",
-      "crc32": "16ebf8d4",
-      "sha1": "139978da582482470f4474273ba170f3f9dc1446",
+      "btih": "926d0475f5ee059182efc60d64c72981cab8e687",
+      "mtime": "1666893865",
+      "size": "187873",
+      "md5": "a899933ff9b4b71586f11dbca149c373",
+      "crc32": "8a5105fe",
+      "sha1": "21eb4c9823fa694006f4555a2170262e670fec65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reductress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "683e58b191af78073a75a05bc4ac7434",
+      "md5": "80f6b75d1c8fc9f70837257f08612295",
       "summation": "md5"
     },
     {
@@ -9105,9 +9116,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 881,
-  "item_last_updated": 1666880379,
-  "item_size": 58846235,
+  "files_count": 882,
+  "item_last_updated": 1666893865,
+  "item_size": 58857154,
   "metadata": {
     "identifier": "reductress-2022",
     "collection": [
@@ -9124,21 +9135,15 @@
     "publicdate": "2022-08-15 01:29:39",
     "addeddate": "2022-08-15 01:29:39"
   },
-  "pending_tasks": true,
+  "reductress-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169225,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2102523268,
+  "uniq": 1916149555,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666885331,
+  "created": 1666897788,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/texastribune-2022",
@@ -14673,21 +14673,32 @@
       "format": "JSON"
     },
     {
+      "name": "texastribune-2022-10-27T10:07:38.672009-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texastribune-2022-10-27T10:07:38.672009-05:00.jpg",
+      "mtime": "1666896766",
+      "size": "8663",
+      "md5": "b004a93d5916340be6cacf3517926f38",
+      "crc32": "b07ef882",
+      "sha1": "6a6afb5312e0a2a492f3e475f12b3676f95dc620"
+    },
+    {
       "name": "texastribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c71c0a53a6fe26618aeaff21bac3bd43677acda0",
-      "mtime": "1666884979",
-      "size": "304520",
-      "md5": "66e2ad8c32570f0fc14f6b5938fa5efe",
-      "crc32": "2f230dcc",
-      "sha1": "3a27fe668413995615bdf2c7f891966910ff9f2c",
+      "btih": "47fb7c7d6b3f8158510842ed0586a614f9b5f3f3",
+      "mtime": "1666896875",
+      "size": "304728",
+      "md5": "74636eac8e84065d296bd342f493952b",
+      "crc32": "ec943c29",
+      "sha1": "e53a1637a10fb7361787a0f9f216301f73b58bb9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texastribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "665fa223c8bc537d32f2e8101a23ecb4",
+      "md5": "d9554c0b19843b27ca9fdb1684cdb279",
       "summation": "md5"
     },
     {
@@ -14711,9 +14722,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1418,
-  "item_last_updated": 1666884979,
-  "item_size": 100020352,
+  "files_count": 1419,
+  "item_last_updated": 1666896875,
+  "item_size": 100029223,
   "metadata": {
     "identifier": "texastribune-2022",
     "collection": [
@@ -14730,21 +14741,10 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454214241,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 151189920,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1651823647,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

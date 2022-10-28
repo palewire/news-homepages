@@ -1,5 +1,5 @@
 {
-  "created": 1666900554,
+  "created": 1666907931,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/35/items/theobserver-2022",
@@ -12381,21 +12381,32 @@
       "format": "JSON"
     },
     {
+      "name": "theobserver-2022-10-27T15:54:33.073012-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theobserver-2022-10-27T15:54:33.073012-04:00.jpg",
+      "mtime": "1666907785",
+      "size": "9350",
+      "md5": "38c7cd79b8c6bbf17332a64d3550afcc",
+      "crc32": "605f490a",
+      "sha1": "7139734ae19c2b5c85c39f8f06cc5a0c04d0b50f"
+    },
+    {
       "name": "theobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0db6f2e0453d1c57d5dd7b01844994c4cbef13d3",
-      "mtime": "1666900547",
-      "size": "255677",
-      "md5": "5ae0297c2434170380ea041989020fe7",
-      "crc32": "32903001",
-      "sha1": "0ea433a5af29e33a030ffb526eb3b6b27f436116",
+      "btih": "b635d35dc2b0dcceb8122a3984b2375a8cb8a4d2",
+      "mtime": "1666907804",
+      "size": "255884",
+      "md5": "360c09958d4fb6721570fe9ab5a091b1",
+      "crc32": "cb53abb6",
+      "sha1": "78dd1545aa56eae32f46a6f48e6fe00fd98e54e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a32cfb6811358390dbb143eaee51945",
+      "md5": "1d63e6cf9ff036806ff0b35db4231062",
       "summation": "md5"
     },
     {
@@ -12419,9 +12430,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1198,
-  "item_last_updated": 1666900547,
-  "item_size": 83297905,
+  "files_count": 1199,
+  "item_last_updated": 1666907804,
+  "item_size": 83307462,
   "metadata": {
     "identifier": "theobserver-2022",
     "collection": [
@@ -12438,21 +12449,10 @@
     "publicdate": "2022-07-10 14:53:55",
     "addeddate": "2022-07-10 14:53:55"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372426,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1158618308,
+  "uniq": 70792511,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

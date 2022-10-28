@@ -1,5 +1,5 @@
 {
-  "created": 1666913829,
+  "created": 1666915278,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/20/items/ciceronoticias-2022",
@@ -18631,21 +18631,32 @@
       "format": "JSON"
     },
     {
+      "name": "ciceronoticias-2022-10-27T18:35:29.600352-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ciceronoticias-2022-10-27T18:35:29.600352-05:00.jpg",
+      "mtime": "1666915087",
+      "size": "7437",
+      "md5": "340a224dde2d7c3f9002ea1dd2eaadad",
+      "crc32": "63868a33",
+      "sha1": "66280fcb2927c624944774e9a9cc7d9ce1ffb96e"
+    },
+    {
       "name": "ciceronoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f5f8aac8e8d8b238cea4a09e80d8cd132a8635a",
-      "mtime": "1666913826",
-      "size": "390083",
-      "md5": "da4149db674fa48f87352a0303d1e804",
-      "crc32": "fccec1e4",
-      "sha1": "6245bfb4c26ff29fdc130d7e7b3c34f5060b2819",
+      "btih": "db7a684246aef3fd35cd54b1cb7a93378c0e7693",
+      "mtime": "1666915114",
+      "size": "390293",
+      "md5": "c85306ec0321971abe66cb6ec2ea7148",
+      "crc32": "1bda2bac",
+      "sha1": "7f256b9b36adf75a530ff99def1e06fcedcd5ecb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ciceronoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc70fb10b66a8b6f5ded0721ec72f7f7",
+      "md5": "770ef1d31219b8458ca832b8cf8c49c6",
       "summation": "md5"
     },
     {
@@ -18669,9 +18680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1803,
-  "item_last_updated": 1666913826,
-  "item_size": 108640201,
+  "files_count": 1804,
+  "item_last_updated": 1666915114,
+  "item_size": 108647848,
   "metadata": {
     "identifier": "ciceronoticias-2022",
     "collection": [
@@ -18688,21 +18699,10 @@
     "publicdate": "2022-07-09 03:57:19",
     "addeddate": "2022-07-09 03:57:19"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454569563,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1139695199,
+  "uniq": 1312760314,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

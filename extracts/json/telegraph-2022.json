@@ -1,5 +1,5 @@
 {
-  "created": 1666883639,
+  "created": 1666919328,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/4/items/telegraph-2022",
@@ -29865,21 +29865,32 @@
       "format": "JSON"
     },
     {
+      "name": "telegraph-2022-10-27T16:08:23.075837+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-10-27T16:08:23.075837+01:00.jpg",
+      "mtime": "1666895739",
+      "size": "9251",
+      "md5": "6170b90a287bbfa1be4bd5372f8c4509",
+      "crc32": "5af81898",
+      "sha1": "3c04453d5b11d0083d13f427fbc4249b77214cf8"
+    },
+    {
       "name": "telegraph-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51b814a7fc1e2378e5cb2fbca10505a17d6b896a",
-      "mtime": "1666883612",
-      "size": "608542",
-      "md5": "355bf8c55c3859b5f255de6af7738fbe",
-      "crc32": "3ee447dd",
-      "sha1": "77c3164bbce9f4f965f24865f38b809ce6b82ac3",
+      "btih": "cc02e522dc0fe48f734741f32e8c73f80100d0f5",
+      "mtime": "1666895851",
+      "size": "608747",
+      "md5": "7007a2bc6adba13d8fbc651f99abe6b0",
+      "crc32": "0b9c618f",
+      "sha1": "22c67cd1a3d2fa44d6abba5a8ec39a55cccec773",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraph-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "883cb9b4533f165d3e28954a56f46e4f",
+      "md5": "b8fff863279947389958ea553b63ac0e",
       "summation": "md5"
     },
     {
@@ -29903,9 +29914,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2872,
-  "item_last_updated": 1666883612,
-  "item_size": 243111491,
+  "files_count": 2873,
+  "item_last_updated": 1666895851,
+  "item_size": 243120947,
   "metadata": {
     "identifier": "telegraph-2022",
     "collection": [
@@ -29922,21 +29933,26 @@
     "publicdate": "2022-03-23 08:03:49",
     "addeddate": "2022-03-23 08:03:49"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454197988,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 139213199,
+  "server": "ia801504.us.archive.org",
+  "telegraph-2022": {
+    "url": "https://www.telegraph.co.uk/",
+    "job_id": "spn2-a17aa1aabb5b574b66704e186c5511cbd2274952",
+    "resources": [],
+    "timestamp": "20221027132801",
+    "http_status": 200,
+    "outlinks": [],
+    "status": "success",
+    "counters": {
+      "outlinks": 160,
+      "embeds": 210
+    },
+    "original_url": "https://www.telegraph.co.uk/",
+    "duration_sec": 16.658,
+    "screenshot": "http://web.archive.org/screenshot/https://www.telegraph.co.uk/"
+  },
+  "uniq": 1432818380,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883259,
+  "created": 1666918006,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/news12nj-2022",
@@ -11367,21 +11367,32 @@
       "format": "JSON"
     },
     {
+      "name": "news12nj-2022-10-27T10:12:23.574705-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "news12nj-2022-10-27T10:12:23.574705-04:00.jpg",
+      "mtime": "1666893278",
+      "size": "9378",
+      "md5": "c7911c2264609eea9edab33621af2d44",
+      "crc32": "a9db2557",
+      "sha1": "967448d3b44214bfdc08e9391f06e1e472f69f54"
+    },
+    {
       "name": "news12nj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2ef38f56eae70a0811d0c0f42f4ec47e1a073bf",
-      "mtime": "1666880006",
-      "size": "231976",
-      "md5": "208494489fdadf03a1ed1b1abc7c2975",
-      "crc32": "8443ce48",
-      "sha1": "54694b4c0d66b5861a27a5b6462cd18d70ca3c02",
+      "btih": "63a917c9d3fde62fe526903107566ba477a2a8c4",
+      "mtime": "1666893347",
+      "size": "232180",
+      "md5": "b4de240f0d186f314f1da37d5c40ee22",
+      "crc32": "b744ca8a",
+      "sha1": "2243cca9f5a045fca4ca5047580a40897e71e870",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news12nj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb6ebe0eaadb37601ed83949f3e9e809",
+      "md5": "9420b965dea86d4f0c0978202c92d91f",
       "summation": "md5"
     },
     {
@@ -11405,9 +11416,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1103,
-  "item_last_updated": 1666880006,
-  "item_size": 59261929,
+  "files_count": 1104,
+  "item_last_updated": 1666893347,
+  "item_size": 59271511,
   "metadata": {
     "identifier": "news12nj-2022",
     "collection": [
@@ -11429,21 +11440,10 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454165700,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1598583242,
+  "server": "ia802508.us.archive.org",
+  "uniq": 1820310796,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

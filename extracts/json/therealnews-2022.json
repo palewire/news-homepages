@@ -1,5 +1,5 @@
 {
-  "created": 1666883532,
+  "created": 1666919587,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/therealnews-2022",
@@ -12677,21 +12677,32 @@
       "format": "JSON"
     },
     {
+      "name": "therealnews-2022-10-27T11:10:47.081231-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-27T11:10:47.081231-04:00.jpg",
+      "mtime": "1666896417",
+      "size": "11178",
+      "md5": "d210fb4b996b13bbff1e7e6d2f0ade42",
+      "crc32": "da0ae1e8",
+      "sha1": "77a64c082b422f53d1fcfe893eb708aa5082c585"
+    },
+    {
       "name": "therealnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d8c5d2a30ca07286bacfcdad742016fa84cfaae0",
-      "mtime": "1666883526",
-      "size": "263112",
-      "md5": "e5fd12480b79a9ddbe9b7a0c3b48abac",
-      "crc32": "de98e9c7",
-      "sha1": "ed2a7c595c1fb50106aa8f23e2de8478079f7759",
+      "btih": "769a2803458d70a8d9b2a1f09fdb62fda22f59f0",
+      "mtime": "1666896589",
+      "size": "263320",
+      "md5": "47cff5cb54dc558e27fb4f6914396bab",
+      "crc32": "a8eac3b0",
+      "sha1": "01c72645191cd5d8eee413ec26378bc81868f664",
       "format": "Archive BitTorrent"
     },
     {
       "name": "therealnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc2d9302448e1089517fed7912b491a0",
+      "md5": "d2bbf4f18e14a6f94e2b79a3c05642bd",
       "summation": "md5"
     },
     {
@@ -12715,9 +12726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1228,
-  "item_last_updated": 1666883526,
-  "item_size": 94282992,
+  "files_count": 1229,
+  "item_last_updated": 1666896589,
+  "item_size": 94294378,
   "metadata": {
     "identifier": "therealnews-2022",
     "collection": [
@@ -12734,21 +12745,15 @@
     "publicdate": "2022-07-13 02:25:04",
     "addeddate": "2022-07-13 02:25:04"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454197004,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 439603391,
+  "therealnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 567860708,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

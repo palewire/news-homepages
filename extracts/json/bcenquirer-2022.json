@@ -407,7 +407,7 @@
     "duration_sec": 13.0,
     "timestamp": "20221027155922"
   },
-  "created": 1666890859,
+  "created": 1666915648,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/bcenquirer-2022",
@@ -5001,21 +5001,32 @@
       "format": "JSON"
     },
     {
+      "name": "bcenquirer-2022-10-27T12:07:25.516911-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcenquirer-2022-10-27T12:07:25.516911-04:00.jpg",
+      "mtime": "1666898455",
+      "size": "9643",
+      "md5": "d1e069ae74284bb0525a42203d7f0ff4",
+      "crc32": "a76fe4d5",
+      "sha1": "5faa6cfb77af5d231fcb0956cec7512df85078d7"
+    },
+    {
       "name": "bcenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2c72023b09d1f8d272a759fabe0d970173a5c9b",
-      "mtime": "1666886903",
-      "size": "95626",
-      "md5": "3e7c03e32e9e98e36d09d0cc36893d3a",
-      "crc32": "b0a96a63",
-      "sha1": "681747438dc443128fafa74e8957bcd6109973da",
+      "btih": "0365d0fe1f2787f941a7493e241e5ef55b7032e9",
+      "mtime": "1666898460",
+      "size": "95832",
+      "md5": "230dca32b0dcee1a7c39acb04d4e1f87",
+      "crc32": "1d0be940",
+      "sha1": "c18cd662c8525c2110253d9990e8178f4a91c371",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bcenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "805b37f5db5fb030844044c4e06bb586",
+      "md5": "eb1c14a397cc2140baf17f8c7a45a1f1",
       "summation": "md5"
     },
     {
@@ -5039,9 +5050,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666886903,
-  "item_size": 28245500,
+  "files_count": 449,
+  "item_last_updated": 1666898460,
+  "item_size": 28255349,
   "metadata": {
     "identifier": "bcenquirer-2022",
     "collection": [
@@ -5058,21 +5069,10 @@
     "publicdate": "2022-09-21 04:39:08",
     "addeddate": "2022-09-21 04:39:08"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454235146,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2130517868,
+  "server": "ia801501.us.archive.org",
+  "uniq": 802008933,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

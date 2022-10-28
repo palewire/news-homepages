@@ -1,5 +1,5 @@
 {
-  "created": 1666900634,
+  "created": 1666908191,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/thetorontosun-2022",
@@ -14223,21 +14223,32 @@
       "format": "JSON"
     },
     {
+      "name": "thetorontosun-2022-10-27T15:54:55.102545-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetorontosun-2022-10-27T15:54:55.102545-04:00.jpg",
+      "mtime": "1666908033",
+      "size": "11573",
+      "md5": "7de19e8678b1067edc9e4d330203c857",
+      "crc32": "8c2c2e25",
+      "sha1": "501cdab7a3968897a54ecae1818431b3de75c6fb"
+    },
+    {
       "name": "thetorontosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21ca563adaa44f1f2d8d1217a7ebfaf7dbc94ae8",
-      "mtime": "1666900615",
-      "size": "298018",
-      "md5": "e25a280f0a668128380cf3ee20e05234",
-      "crc32": "33ae1647",
-      "sha1": "01e0140d2f5042054b7a9fcc92fe2d82641ef037",
+      "btih": "447cf66eda885bcca06b969d3fdef18ff3c8b07b",
+      "mtime": "1666908051",
+      "size": "298228",
+      "md5": "0f98a3f50d9d137f200884814f199785",
+      "crc32": "d6a411e3",
+      "sha1": "254a3cfdef50bbe90afceb130171eb4db8fd129c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetorontosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "015e9a0feabb1e3641422b24696f2132",
+      "md5": "a7568bf2e5416edcfd17e99400f03942",
       "summation": "md5"
     },
     {
@@ -14261,9 +14272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1375,
-  "item_last_updated": 1666900615,
-  "item_size": 131230894,
+  "files_count": 1376,
+  "item_last_updated": 1666908051,
+  "item_size": 131242677,
   "metadata": {
     "identifier": "thetorontosun-2022",
     "collection": [
@@ -14280,21 +14291,10 @@
     "publicdate": "2022-06-30 22:37:08",
     "addeddate": "2022-06-30 22:37:08"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454373133,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 641349526,
+  "server": "ia801400.us.archive.org",
+  "uniq": 2000247448,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666910858,
+  "created": 1666913359,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/arkansasonline-2022",
@@ -5677,21 +5677,32 @@
       "format": "JSON"
     },
     {
+      "name": "arkansasonline-2022-10-27T17:46:04.316980-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkansasonline-2022-10-27T17:46:04.316980-05:00.jpg",
+      "mtime": "1666913280",
+      "size": "9547",
+      "md5": "a3ebd75d06ba0c22189ce4d653c8f1c0",
+      "crc32": "7aebf1fd",
+      "sha1": "3070ab20967bc16d233a2292c16f947fb4ef6819"
+    },
+    {
       "name": "arkansasonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32ce5e1494d7342439736deaba1c30a20d72bcfc",
-      "mtime": "1666910848",
-      "size": "120332",
-      "md5": "729ddc3b77589bcbb329cbf9e122e0c9",
-      "crc32": "cf94caee",
-      "sha1": "33d9e0432831dcc79777fd0690a8d0a6d9e7f894",
+      "btih": "f750067d612137343770611ea3a0dd583ae2dc4a",
+      "mtime": "1666913303",
+      "size": "120542",
+      "md5": "80ba0d8bca90c5bd5e0097a12438b5ec",
+      "crc32": "ec76a85f",
+      "sha1": "722868179c86c54d050d894ed391647009029327",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkansasonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1cd7b00c6efa3461dc53915e58f54098",
+      "md5": "19fb5118c1694ef342ea7333b298d79c",
       "summation": "md5"
     },
     {
@@ -5715,9 +5726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 553,
-  "item_last_updated": 1666910848,
-  "item_size": 40292995,
+  "files_count": 554,
+  "item_last_updated": 1666913303,
+  "item_size": 40302752,
   "metadata": {
     "identifier": "arkansasonline-2022",
     "collection": [
@@ -5734,21 +5745,10 @@
     "publicdate": "2022-09-12 11:03:11",
     "addeddate": "2022-09-12 11:03:11"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454507613,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1747410879,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1429644302,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666880232,
+  "created": 1666912852,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/21/items/ocalastarbanner-2022",
@@ -4583,21 +4583,32 @@
       "format": "JSON"
     },
     {
+      "name": "ocalastarbanner-2022-10-27T10:16:00.496507-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-27T10:16:00.496507-04:00.jpg",
+      "mtime": "1666893536",
+      "size": "9307",
+      "md5": "c8f78d8c0ce20e11b18dc0fb2ffff5a4",
+      "crc32": "0c543d3e",
+      "sha1": "c264858e7984f4f7f14ce066bd34b3c7496fe308"
+    },
+    {
       "name": "ocalastarbanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb5d21ec7136a9e7af356af385fe9ac471f1097c",
-      "mtime": "1666880228",
-      "size": "97649",
-      "md5": "545885bfbd1a09db0e13eeff63d06405",
-      "crc32": "c4dab9e6",
-      "sha1": "e9b59439604f7da2865119efac5eb6c1342048ec",
+      "btih": "5a75dd8f3450796c46e4d4ac5c61613a8ce76d6f",
+      "mtime": "1666893542",
+      "size": "97860",
+      "md5": "93acb42c886ed4a1029f19f5d262ce5e",
+      "crc32": "7788f338",
+      "sha1": "1cdf91907828ea10cbba8e3fe1cb3d047898ca18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocalastarbanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e4aa39627486189ce5837f9cce316924",
+      "md5": "988c6b478fd361cc568025e5bc0eb864",
       "summation": "md5"
     },
     {
@@ -4621,9 +4632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1666880228,
-  "item_size": 28783100,
+  "files_count": 448,
+  "item_last_updated": 1666893542,
+  "item_size": 28792618,
   "metadata": {
     "identifier": "ocalastarbanner-2022",
     "collection": [
@@ -4640,21 +4651,10 @@
     "publicdate": "2022-09-21 02:22:57",
     "addeddate": "2022-09-21 02:22:57"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167694,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 914161313,
+  "server": "ia801505.us.archive.org",
+  "uniq": 2103030602,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

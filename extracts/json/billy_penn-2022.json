@@ -1,5 +1,5 @@
 {
-  "created": 1666886910,
+  "created": 1666897584,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/30/items/billy_penn-2022",
@@ -13821,21 +13821,32 @@
       "format": "JSON"
     },
     {
+      "name": "billy_penn-2022-10-27T12:07:10.427839-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "billy_penn-2022-10-27T12:07:10.427839-04:00.jpg",
+      "mtime": "1666897493",
+      "size": "10026",
+      "md5": "1cb8dd819ad9edf5ac4986d35cc33682",
+      "crc32": "2bc55ad9",
+      "sha1": "70d2d5eb6fc0ec4c71c950c8ac2985620b176e7f"
+    },
+    {
       "name": "billy_penn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8314feb23f72e7c47926040a117ea0e60131f547",
-      "mtime": "1666886904",
-      "size": "284803",
-      "md5": "4e192b0214e9fabe4336b68dbc2ebe89",
-      "crc32": "15ff6b88",
-      "sha1": "39a62f2d3ee52d20214270edb6e74730f1d35bd9",
+      "btih": "585a8104a5e72555524967d0c0268164c9e20e18",
+      "mtime": "1666897510",
+      "size": "285010",
+      "md5": "1cf8f392754c63491a218a4512a94ec7",
+      "crc32": "0ec3ffa0",
+      "sha1": "9ec071afdcddbff50bce8b5acfe171081eb7f77c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "billy_penn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af66f3c37c77df6264536f1c5724c892",
+      "md5": "42ecff2bafbc5ebf9fb1db593220a8f8",
       "summation": "md5"
     },
     {
@@ -13859,9 +13870,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1337,
-  "item_last_updated": 1666886904,
-  "item_size": 99517021,
+  "files_count": 1338,
+  "item_last_updated": 1666897510,
+  "item_size": 99527254,
   "metadata": {
     "identifier": "billy_penn-2022",
     "collection": [
@@ -13878,21 +13889,10 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454235190,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1731905563,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1551901450,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

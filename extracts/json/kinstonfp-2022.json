@@ -1,5 +1,5 @@
 {
-  "created": 1666768477,
+  "created": 1666901685,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/28/items/kinstonfp-2022",
@@ -4458,31 +4458,217 @@
       "sha1": "b1c264dcb56d9fc6be5cda3b441fdc9bd0863db4"
     },
     {
+      "name": "kinstonfp-2022-10-26T14:11:11.313969-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666807877",
+      "size": "23874",
+      "md5": "96f2c10fba8c7c3d97440ef8e372e78a",
+      "crc32": "6ad80d32",
+      "sha1": "94db5bea4ed6f03acce64a95f441637bff380434",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-26T14:11:11.313969-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666807880",
+      "size": "32542",
+      "md5": "c3c761a10858709d9c41da6a7ceb2ad7",
+      "crc32": "c4e0c990",
+      "sha1": "72d78ec1c73c16be00a24240b2281f35ce316f6c",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-26T14:11:11.313969-04:00.jpg",
+      "source": "original",
+      "mtime": "1666807873",
+      "size": "261209",
+      "md5": "ffe8af699dc8f33722ad8d3d223e988e",
+      "crc32": "fb3162f5",
+      "sha1": "cdea09e71f34f43264601dff13a26f8a44464bab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kinstonfp-2022-10-26T14:11:11.313969-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666807886",
+      "size": "1467",
+      "md5": "86fec819e2f2e6254eca4849b9cdc855",
+      "crc32": "9a081daa",
+      "sha1": "4c3349f4f1e27e0f8d3d89daf13bf313752b2d02",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-26T14:11:11.313969-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666807892",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-26T14:11:11.313969-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kinstonfp-2022-10-26T14:11:11.313969-04:00.jpg",
+      "mtime": "1666822457",
+      "size": "9578",
+      "md5": "5e8388d3119f532aadafce035d54bfa8",
+      "crc32": "b0fe98f3",
+      "sha1": "d7aaf482d252d338454ab6c8884159af6ad868b8"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T01:49:26.981554-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666849770",
+      "size": "23119",
+      "md5": "62194ab56b186a870a3834da28545856",
+      "crc32": "104ad63d",
+      "sha1": "c55f7a0e906baaaa4467eb86e50d433211aab07c",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T01:49:26.981554-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666849771",
+      "size": "36365",
+      "md5": "7d4e36b7cb7c631a11c938095c289b21",
+      "crc32": "f84acf52",
+      "sha1": "864b35df16565e58696676eccb9a812c46a593d8",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T01:49:26.981554-04:00.jpg",
+      "source": "original",
+      "mtime": "1666849768",
+      "size": "233424",
+      "md5": "d1f6028b83b9a2cb412f9d856864f63b",
+      "crc32": "1bada8c6",
+      "sha1": "43f68499fbd08682cbf5fc8bf8dcdbb7420fc4dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T01:49:26.981554-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666849773",
+      "size": "1468",
+      "md5": "aca82d22a4442a0a8bbe31cf1c7d6c61",
+      "crc32": "b3c41b54",
+      "sha1": "d037fbf2315ccb4a7d011dd704cd28a55958c34b",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T01:49:26.981554-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666849781",
+      "size": "108156",
+      "md5": "f71a7cc7e1417695b7f054e09f3a3cc4",
+      "crc32": "42898014",
+      "sha1": "2cb730c9b1fd95d2cc1eb720e1ddbcfce0354de5",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T01:49:26.981554-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kinstonfp-2022-10-27T01:49:26.981554-04:00.jpg",
+      "mtime": "1666873941",
+      "size": "9290",
+      "md5": "3cbb360ea4bc325e2de3d64e0cdfa37c",
+      "crc32": "39130b47",
+      "sha1": "ebff707b7a5cd25fcef3e68a205d3fdbe1fb251b"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T13:43:24.541768-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666892612",
+      "size": "14625",
+      "md5": "1aded7ae98730f2a259be211000c536d",
+      "crc32": "5fffdf84",
+      "sha1": "3c7eeca4ba32183b79682ee859ba4f3591a11679",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T13:43:24.541768-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666892614",
+      "size": "32607",
+      "md5": "b8e6a7f88e9f750160519a770c514b71",
+      "crc32": "e599c326",
+      "sha1": "0f8e9a856dd17897127f6ab5b352b191e5e54918",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T13:43:24.541768-04:00.jpg",
+      "source": "original",
+      "mtime": "1666892609",
+      "size": "234506",
+      "md5": "d14b864e952e94c860735036b4c87202",
+      "crc32": "d9fcde50",
+      "sha1": "edb14e09f3cd6a3b2bd86b7f33661f01bcd85357",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T13:43:24.541768-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666892617",
+      "size": "1468",
+      "md5": "bc28f1784214daf5d1b803c04a0b1b91",
+      "crc32": "4db9ec70",
+      "sha1": "1bde0a8286d3907e90078568af01bb7a5f35f961",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T13:43:24.541768-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666892621",
+      "size": "66681",
+      "md5": "ee7eec5ec0ad5784b1a21dbb733e86a5",
+      "crc32": "9b523449",
+      "sha1": "74bc105e815a33bc13a8ff31d7afa5c4ac41776c",
+      "format": "JSON"
+    },
+    {
+      "name": "kinstonfp-2022-10-27T13:43:24.541768-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kinstonfp-2022-10-27T13:43:24.541768-04:00.jpg",
+      "mtime": "1666901660",
+      "size": "8942",
+      "md5": "d0fc121724a59be047094bf982d7c242",
+      "crc32": "9ed363be",
+      "sha1": "a83dbc4a92fc8108c3133a47bc82b9aadd3d8f54"
+    },
+    {
       "name": "kinstonfp-2022_archive.torrent",
       "source": "metadata",
-      "btih": "50bed9d01250e468b51a07188196333b70052dc3",
-      "mtime": "1666767725",
-      "size": "92569",
-      "md5": "56f75248c0916743b79e26ac7d4172d9",
-      "crc32": "5e7b8e96",
-      "sha1": "e7c4eb8467a2d1f71dd041a17d09e3ac50ea2fc2",
+      "btih": "16b2cd9a2492f1bba02572bb18686d3448c8a2e9",
+      "mtime": "1666901671",
+      "size": "96387",
+      "md5": "89605a89d7faf9970cf92b5a52dcd0f2",
+      "crc32": "7ba3d17d",
+      "sha1": "5c73c7c0edee4398ff557413dd12283d06fbb1b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kinstonfp-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4cde58d7558d80db804bce5d196d6d95",
+      "md5": "17d601f409268636ec59f510fc0e7162",
       "summation": "md5"
     },
     {
       "name": "kinstonfp-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666766335",
-      "size": "565248",
-      "md5": "d380030761376bc0b4982f9ef7bd766b",
-      "crc32": "ec3bf331",
-      "sha1": "47ad932e89e1d32d4f02c9f2bec12d3472af8dad",
+      "mtime": "1666892629",
+      "size": "593920",
+      "md5": "3d42a24730acee2d2e176b710d7ae076",
+      "crc32": "43208970",
+      "sha1": "a40f1b4001a8e48567a5966bddcac810c4237798",
       "format": "Metadata"
     },
     {
@@ -4496,9 +4682,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 435,
-  "item_last_updated": 1666767725,
-  "item_size": 30450221,
+  "files_count": 453,
+  "item_last_updated": 1666901671,
+  "item_size": 31582234,
   "metadata": {
     "identifier": "kinstonfp-2022",
     "collection": [
@@ -4516,7 +4702,7 @@
     "addeddate": "2022-09-20 17:33:46"
   },
   "server": "ia801407.us.archive.org",
-  "uniq": 1850355111,
+  "uniq": 145961879,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"

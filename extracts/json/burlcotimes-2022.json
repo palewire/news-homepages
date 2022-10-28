@@ -1,5 +1,5 @@
 {
-  "created": 1666911186,
+  "created": 1666913877,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/28/items/burlcotimes-2022",
@@ -4635,21 +4635,32 @@
       "format": "JSON"
     },
     {
+      "name": "burlcotimes-2022-10-27T18:49:21.232428-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "burlcotimes-2022-10-27T18:49:21.232428-04:00.jpg",
+      "mtime": "1666913838",
+      "size": "9305",
+      "md5": "d815248416b818718f82f769dd65061e",
+      "crc32": "bbad8496",
+      "sha1": "eff1e6e4d148611c1d404b92075eb43ac3d6da10"
+    },
+    {
       "name": "burlcotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5be8533ba425f5ca2e9fd6fb6ae35bc72667344",
-      "mtime": "1666911134",
-      "size": "97018",
-      "md5": "391ff68b1709f914d30a7c274472cd73",
-      "crc32": "9a453337",
-      "sha1": "2098869ce89dd61fdf9f95bcaf54b22b9d80e257",
+      "btih": "0fa1d210d8959c92746a021958bca1da2f9c6484",
+      "mtime": "1666913843",
+      "size": "97225",
+      "md5": "4589c8e4d936a2507511d1c75c64f902",
+      "crc32": "2184cccd",
+      "sha1": "3bd3a237d4ff12c695605a005337a5ffdb972a6a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "burlcotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2ed7b3e4fcc40be19c99161c6175165",
+      "md5": "67a920d49b53f0bf786abb3de446bbc2",
       "summation": "md5"
     },
     {
@@ -4673,9 +4684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1666911134,
-  "item_size": 30729170,
+  "files_count": 453,
+  "item_last_updated": 1666913843,
+  "item_size": 30738682,
   "metadata": {
     "identifier": "burlcotimes-2022",
     "collection": [
@@ -4692,21 +4703,10 @@
     "publicdate": "2022-09-20 22:11:31",
     "addeddate": "2022-09-20 22:11:31"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454515584,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 982985688,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1852170187,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

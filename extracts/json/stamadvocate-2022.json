@@ -1,5 +1,5 @@
 {
-  "created": 1666886770,
+  "created": 1666919218,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/27/items/stamadvocate-2022",
@@ -5431,21 +5431,32 @@
       "format": "JSON"
     },
     {
+      "name": "stamadvocate-2022-10-27T11:07:22.946292-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stamadvocate-2022-10-27T11:07:22.946292-04:00.jpg",
+      "mtime": "1666895515",
+      "size": "9388",
+      "md5": "b27f841facb1edfdc1805ddc7d7931de",
+      "crc32": "f190f4f7",
+      "sha1": "fcede324665a4eeb32ca372c1e35539d6782997f"
+    },
+    {
       "name": "stamadvocate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e97d9eedeadd4ca77357a12e47d0f45c3dbd12fd",
-      "mtime": "1666883307",
-      "size": "114549",
-      "md5": "02272f981fa50f816d347d92865bc7a8",
-      "crc32": "7d3f4273",
-      "sha1": "49b10cc3acd05562ea82c6442a9dc66467a5970a",
+      "btih": "8d94e4622a4daf3feaaea63e11291bc4c43cbea0",
+      "mtime": "1666895522",
+      "size": "114757",
+      "md5": "fda89f00238ddbe3cdd1aa2d230f4da7",
+      "crc32": "1418d687",
+      "sha1": "d01396fcd7385f2cdd8b695f2e8bc127302e094e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stamadvocate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4e34a198a0120a358853d89970ce5d7",
+      "md5": "87f931d04e7dcfba3327b781a384c671",
       "summation": "md5"
     },
     {
@@ -5469,9 +5480,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 529,
-  "item_last_updated": 1666883307,
-  "item_size": 49964898,
+  "files_count": 530,
+  "item_last_updated": 1666895522,
+  "item_size": 49974494,
   "metadata": {
     "identifier": "stamadvocate-2022",
     "collection": [
@@ -5488,9 +5499,7 @@
     "publicdate": "2022-09-14 01:26:51",
     "addeddate": "2022-09-14 01:26:51"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
   "stamadvocate-2022": {
     "url": "https://www.stamfordadvocate.com/",
     "job_id": "spn2-d4945058305d00de97613cb590c93e6b3680d97e",
@@ -6052,18 +6061,9 @@
     "duration_sec": 31.562,
     "screenshot": "http://web.archive.org/screenshot/https://www.stamfordadvocate.com/"
   },
-  "tasks": [
-    {
-      "task_id": 3454194507,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1969266714,
+  "uniq": 929431616,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

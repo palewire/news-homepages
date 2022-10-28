@@ -1,5 +1,5 @@
 {
-  "created": 1666900451,
+  "created": 1666907860,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/tass_agency-2022",
@@ -17341,21 +17341,32 @@
       "format": "JSON"
     },
     {
+      "name": "tass_agency-2022-10-27T22:52:00.308393+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tass_agency-2022-10-27T22:52:00.308393+03:00.jpg",
+      "mtime": "1666907719",
+      "size": "8881",
+      "md5": "25443581f7e39f5bf3a1f67dc70c3f95",
+      "crc32": "ff9522cc",
+      "sha1": "2850c145e43e9810545c3be6a2ed4778baa12c64"
+    },
+    {
       "name": "tass_agency-2022_archive.torrent",
       "source": "metadata",
-      "btih": "285c74bc3ef877e7e1964bcd28290ad141385dca",
-      "mtime": "1666900442",
-      "size": "353616",
-      "md5": "313f6ac54c0b0073f098d19e049d0f45",
-      "crc32": "3ee20366",
-      "sha1": "be69b9e675fa992aa205587ecf7d05e750df13cf",
+      "btih": "096660e4f15e69bf8d69604c0a8ed00c9e8fb53b",
+      "mtime": "1666907789",
+      "size": "353823",
+      "md5": "95967bdab29009bea771a15d238ff54b",
+      "crc32": "360625c0",
+      "sha1": "f626d421e1c5d214e1b76d931f5ec34c8730ba86",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tass_agency-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c468ba59175e7980ad5ba345fac10e5f",
+      "md5": "675f5863eff8f308e31085f2ff500e7e",
       "summation": "md5"
     },
     {
@@ -17379,9 +17390,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1676,
-  "item_last_updated": 1666900442,
-  "item_size": 55094957,
+  "files_count": 1677,
+  "item_last_updated": 1666907789,
+  "item_size": 55104045,
   "metadata": {
     "identifier": "tass_agency-2022",
     "collection": [
@@ -17398,21 +17409,10 @@
     "publicdate": "2022-07-16 20:29:00",
     "addeddate": "2022-07-16 20:29:00"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454371375,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1871588305,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1245637046,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666887084,
+  "created": 1666897728,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/8/items/chinatimes-2022",
@@ -10609,21 +10609,32 @@
       "format": "JSON"
     },
     {
+      "name": "chinatimes-2022-10-28T00:10:11.396222+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chinatimes-2022-10-28T00:10:11.396222+08:00.jpg",
+      "mtime": "1666897599",
+      "size": "9596",
+      "md5": "880e7764d25c8b381089307c1cc3923b",
+      "crc32": "e4f9a173",
+      "sha1": "b47d66e663095014f0d2f529661311fb1ee0639e"
+    },
+    {
       "name": "chinatimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d5d206a1f58aee8b10d9a05a695b0e1bb8663551",
-      "mtime": "1666887078",
-      "size": "219384",
-      "md5": "1666de09b61bf6c50c5769144575dcb9",
-      "crc32": "d6381d78",
-      "sha1": "1ca5b3cb8db405ceaa60026aa413a0ab599bc405",
+      "btih": "dce63eb00ea436f303aeb3a5fccf2c337d6758c3",
+      "mtime": "1666897618",
+      "size": "219590",
+      "md5": "5a22bbd45047ebf9272d114d88042a7a",
+      "crc32": "a9becd47",
+      "sha1": "034d47df1a63c6946f502ea5a0ca105078a27ea5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chinatimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7d265d7c08841355a8e2046a99f7894",
+      "md5": "0a4915f7f0cb461af46c4f2c8efe0e52",
       "summation": "md5"
     },
     {
@@ -10647,9 +10658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1030,
-  "item_last_updated": 1666887078,
-  "item_size": 73746193,
+  "files_count": 1031,
+  "item_last_updated": 1666897618,
+  "item_size": 73755995,
   "metadata": {
     "identifier": "chinatimes-2022",
     "collection": [
@@ -10666,21 +10677,10 @@
     "publicdate": "2022-08-03 01:54:37",
     "addeddate": "2022-08-03 01:54:37"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454237928,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 509094775,
+  "uniq": 860560705,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

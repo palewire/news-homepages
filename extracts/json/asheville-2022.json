@@ -1,5 +1,5 @@
 {
-  "created": 1666886883,
+  "created": 1666897421,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/5/items/asheville-2022",
@@ -4593,21 +4593,32 @@
       "format": "JSON"
     },
     {
+      "name": "asheville-2022-10-27T12:06:51.089376-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-27T12:06:51.089376-04:00.jpg",
+      "mtime": "1666897388",
+      "size": "9397",
+      "md5": "bc22a666e83c6a430c3d8c19093c7610",
+      "crc32": "f911f7b8",
+      "sha1": "6c1b43fd86d65fbb364c70406fe13240d6912a74"
+    },
+    {
       "name": "asheville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c8e0f64a5ff1179ad0b74b1c1c5eee6d611d084",
-      "mtime": "1666886880",
-      "size": "95259",
-      "md5": "bd076d51e6f400d10ef339be017d3b4c",
-      "crc32": "ca56659e",
-      "sha1": "b447d663f14e4eb549147e957390243b9f185404",
+      "btih": "7fbd2bf0c2c7355c3b3b5d6191a85af72e87f0c6",
+      "mtime": "1666897393",
+      "size": "95464",
+      "md5": "db87968b23a68705e7eeca77449326b6",
+      "crc32": "b151dce5",
+      "sha1": "036b3ab3dc361a7223be6d7e89446f631bfe44eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asheville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3efb9318b466e0c959dc5c098bb5d371",
+      "md5": "36e2916dff0379453d215dc0fe05cb8b",
       "summation": "md5"
     },
     {
@@ -4631,9 +4642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666886880,
-  "item_size": 30185338,
+  "files_count": 449,
+  "item_last_updated": 1666897393,
+  "item_size": 30194940,
   "metadata": {
     "identifier": "asheville-2022",
     "collection": [
@@ -4650,21 +4661,10 @@
     "publicdate": "2022-09-21 04:37:26",
     "addeddate": "2022-09-21 04:37:26"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454234689,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 630076206,
+  "uniq": 279064698,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

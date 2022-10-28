@@ -1,5 +1,5 @@
 {
-  "created": 1666910833,
+  "created": 1666913280,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/alpublicradio-2022",
@@ -5719,21 +5719,32 @@
       "format": "JSON"
     },
     {
+      "name": "alpublicradio-2022-10-27T17:45:51.418683-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-27T17:45:51.418683-05:00.jpg",
+      "mtime": "1666913248",
+      "size": "10042",
+      "md5": "d9a8f2bb74585e8e9012eddd02569c1d",
+      "crc32": "3c4a08f3",
+      "sha1": "1df2be286e6dad8bd7fa594691fb22e18ae1938e"
+    },
+    {
       "name": "alpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81d13e9dfcc07a9d2f38fe45d91159ccbafcc3f8",
-      "mtime": "1666910824",
-      "size": "120468",
-      "md5": "92b2515dd938c741ba3177738cbef258",
-      "crc32": "51248a0c",
-      "sha1": "fca5cd891a8d9abc7bfad875f213dbeee2e08791",
+      "btih": "559f7d99cbb798f6656d51191d75ed44d8812778",
+      "mtime": "1666913258",
+      "size": "120678",
+      "md5": "b3a0673c363587ce235302e5524deb16",
+      "crc32": "ee160278",
+      "sha1": "2b11700dc2dd5acc8e71e2ad074c4f6c7c6c5179",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f37fd5c2eeeaecca2d834179ae6fdde8",
+      "md5": "beba5faf0bd19b5722dc7f1383945c8a",
       "summation": "md5"
     },
     {
@@ -5757,9 +5768,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 557,
-  "item_last_updated": 1666910824,
-  "item_size": 34267821,
+  "files_count": 558,
+  "item_last_updated": 1666913258,
+  "item_size": 34278073,
   "metadata": {
     "identifier": "alpublicradio-2022",
     "collection": [
@@ -5776,21 +5787,10 @@
     "publicdate": "2022-09-12 11:03:14",
     "addeddate": "2022-09-12 11:03:14"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454507078,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 357776497,
+  "uniq": 718721524,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

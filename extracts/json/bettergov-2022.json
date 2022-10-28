@@ -1,5 +1,5 @@
 {
-  "created": 1666911019,
+  "created": 1666913527,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/bettergov-2022",
@@ -19047,21 +19047,32 @@
       "format": "JSON"
     },
     {
+      "name": "bettergov-2022-10-27T17:47:23.530008-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bettergov-2022-10-27T17:47:23.530008-05:00.jpg",
+      "mtime": "1666913397",
+      "size": "10113",
+      "md5": "e4b2405e637ba46b9b8a17151b62da57",
+      "crc32": "be03603c",
+      "sha1": "47897a58f1e2d8d65079ca9c6c9fafdc0e462c54"
+    },
+    {
       "name": "bettergov-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f6321f6c4771c0763208f08b274b88a3cc6f146",
-      "mtime": "1666911006",
-      "size": "390051",
-      "md5": "4246dfcea216a6af34736ae6eda20993",
-      "crc32": "98acbe7f",
-      "sha1": "dcab6c72b3324b42e4a6c5da7576b9f2fa2e6128",
+      "btih": "cdd88640828f5b1d888569ab796a0e7bcce13ec1",
+      "mtime": "1666913438",
+      "size": "390257",
+      "md5": "1c389ff9c20bdf16dbf8e5f93c35bc91",
+      "crc32": "2cb11ae6",
+      "sha1": "c13613027a594cce97ff6bc8d49825c091044e0e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bettergov-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0fec9b40837e42c713c06a96688b6e18",
+      "md5": "06d55f0b7b2a1b1a56a44db70d5c2919",
       "summation": "md5"
     },
     {
@@ -19085,9 +19096,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1843,
-  "item_last_updated": 1666911006,
-  "item_size": 118340971,
+  "files_count": 1844,
+  "item_last_updated": 1666913438,
+  "item_size": 118351290,
   "metadata": {
     "identifier": "bettergov-2022",
     "collection": [
@@ -19104,21 +19115,10 @@
     "publicdate": "2022-07-09 03:56:41",
     "addeddate": "2022-07-09 03:56:41"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454511226,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1187880523,
+  "server": "ia801406.us.archive.org",
+  "uniq": 267229318,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

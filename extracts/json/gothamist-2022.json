@@ -1,5 +1,5 @@
 {
-  "created": 1666914064,
+  "created": 1666915278,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/20/items/gothamist-2022",
@@ -13567,21 +13567,32 @@
       "format": "JSON"
     },
     {
+      "name": "gothamist-2022-10-27T19:39:55.769976-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamist-2022-10-27T19:39:55.769976-04:00.jpg",
+      "mtime": "1666915221",
+      "size": "10183",
+      "md5": "f4231f0183689c5826dcdc7c87be3374",
+      "crc32": "9dfd0098",
+      "sha1": "c246f6304570eafe0aa4ad521325e362e92cbca5"
+    },
+    {
       "name": "gothamist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5906a527637fc5f0d6c033c616d453525908aa1",
-      "mtime": "1666914060",
-      "size": "277353",
-      "md5": "b70924c1f37c7566f5b20e9b6f2c1743",
-      "crc32": "a46ca398",
-      "sha1": "5d055b1195bc0f971a3ef693479432d62e483e74",
+      "btih": "646b4e45e74f57ff97ba1bb6e687922417c2dce5",
+      "mtime": "1666915246",
+      "size": "277559",
+      "md5": "730c9f399b5bfe5489eb3d3e084a30e4",
+      "crc32": "2c923b47",
+      "sha1": "7b3e32077d4235c6125a0bf42c0c5a86d11c0897",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "145324c5a59fbb7eca90b965d3e75060",
+      "md5": "329f7ac9fd927d677502479980d332ee",
       "summation": "md5"
     },
     {
@@ -13605,9 +13616,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1313,
-  "item_last_updated": 1666914060,
-  "item_size": 71889843,
+  "files_count": 1314,
+  "item_last_updated": 1666915246,
+  "item_size": 71900232,
   "metadata": {
     "identifier": "gothamist-2022",
     "collection": [
@@ -13624,21 +13635,10 @@
     "publicdate": "2022-07-04 21:54:16",
     "addeddate": "2022-07-04 21:54:16"
   },
-  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454574616,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1218220726,
+  "uniq": 1963462366,
   "workable_servers": [
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

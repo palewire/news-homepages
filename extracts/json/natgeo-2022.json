@@ -1,5 +1,5 @@
 {
-  "created": 1666879989,
+  "created": 1666917909,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -13237,21 +13237,32 @@
       "format": "JSON"
     },
     {
+      "name": "natgeo-2022-10-27T10:11:50.267195-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-10-27T10:11:50.267195-04:00.jpg",
+      "mtime": "1666893352",
+      "size": "10000",
+      "md5": "4ac175cd344440acc066e3f5ebd82214",
+      "crc32": "8675b10a",
+      "sha1": "f7a0119281513773a09c5a17cb3be294e8150bfe"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "25dc5368be59ebf0aee1357949adb1c92e795c49",
-      "mtime": "1666879980",
-      "size": "266971",
-      "md5": "3a457b7bdf54e49e40581b73e60780a6",
-      "crc32": "ee02ced1",
-      "sha1": "d8cf91fd54f01a81c681c3e8f634a17b85a14675",
+      "btih": "807741d011c7a91fc223ec5287e28da998b48564",
+      "mtime": "1666893503",
+      "size": "267174",
+      "md5": "8b1c8fdac1fe8047d5770e4aa136d85b",
+      "crc32": "e4636985",
+      "sha1": "960643db4f3c6ee3a59b6ebd158b278e5efd1239",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "79917cf01fa9de7279c77e01270e969c",
+      "md5": "12ef6246b9d1233007f47f834baab073",
       "summation": "md5"
     },
     {
@@ -13275,9 +13286,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1281,
-  "item_last_updated": 1666879980,
-  "item_size": 75285902,
+  "files_count": 1282,
+  "item_last_updated": 1666893503,
+  "item_size": 75296105,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -13294,21 +13305,15 @@
     "publicdate": "2022-07-04 21:49:06",
     "addeddate": "2022-07-04 21:49:06"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454165509,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2128683659,
+  "natgeo-2022": {
+    "url": "https://www.nationalgeographic.com/",
+    "job_id": "spn2-7e5a447a2fd61394fe3756c5c6620ebab1b20fea",
+    "message": "The same snapshot had been made 1 minute, 23 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "server": "ia801405.us.archive.org",
+  "uniq": 2005004548,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666910863,
+  "created": 1666913485,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/7/items/9news-2022",
@@ -9368,21 +9368,32 @@
       "format": "JSON"
     },
     {
+      "name": "9news-2022-10-27T16:46:24.124289-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "9news-2022-10-27T16:46:24.124289-06:00.jpg",
+      "mtime": "1666913401",
+      "size": "9253",
+      "md5": "3483234947419655c49bddb25e304666",
+      "crc32": "5b69cce4",
+      "sha1": "162b0af9f46ea0d077d178cbed5484635a4eb393"
+    },
+    {
       "name": "9news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "577ab48a79d333c62cf4669868bfbeeda8fc0a82",
-      "mtime": "1666910856",
-      "size": "189308",
-      "md5": "73f3652be056e36931039e2030abd8e2",
-      "crc32": "3e6a9fe6",
-      "sha1": "e5ba1cddec4816bc6624b8e0c18d2d7800314cef",
+      "btih": "d977dbeffbf7d60bbe02e6e779773c46eb61eaf3",
+      "mtime": "1666913415",
+      "size": "189509",
+      "md5": "46267e34e0644d40f4b87815605db959",
+      "crc32": "8a3dabb1",
+      "sha1": "06ca494db1218ab2db607b3832c876b1ff69fc42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "9news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9df91b3971d5eec7d6fc30ef74f8783e",
+      "md5": "9279fdf3667660695b3e3bc8637db49c",
       "summation": "md5"
     },
     {
@@ -9417,9 +9428,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 911,
-  "item_last_updated": 1666910856,
-  "item_size": 59407991,
+  "files_count": 912,
+  "item_last_updated": 1666913415,
+  "item_size": 59417445,
   "metadata": {
     "identifier": "9news-2022",
     "collection": [
@@ -9436,21 +9447,10 @@
     "publicdate": "2022-08-13 23:42:36",
     "addeddate": "2022-08-13 23:42:36"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454507730,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1117286979,
+  "uniq": 1590973036,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

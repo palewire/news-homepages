@@ -1,5 +1,5 @@
 {
-  "created": 1666876907,
+  "created": 1666917675,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/5/items/mansfieldnj-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "mansfieldnj-2022-10-27T09:20:02.676142-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mansfieldnj-2022-10-27T09:20:02.676142-04:00.jpg",
+      "mtime": "1666891512",
+      "size": "9137",
+      "md5": "4e731b6b1758577c4aac381836a97b45",
+      "crc32": "a7ec016b",
+      "sha1": "707dbc14a0be7e14988ba648122a5f3f255099d9"
+    },
+    {
       "name": "mansfieldnj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "29d16b05b17ae57d638d6338a4cc7c30a90808e3",
-      "mtime": "1666876897",
-      "size": "97422",
-      "md5": "4cb415759698e69043585808a06688a1",
-      "crc32": "685c0ac4",
-      "sha1": "705ebe0e94512a05bc0e220d19706b2b5f1d3f7d",
+      "btih": "2f9c2f4e68c0e2a0abb5047f151a36e81cabb672",
+      "mtime": "1666891523",
+      "size": "97629",
+      "md5": "e17acfdf2e401d1ad8a6add17819c9be",
+      "crc32": "b9372e57",
+      "sha1": "5440e1d368370cf70b67a60548d2aa7ca15612d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mansfieldnj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ea2cafbdb34cacc29b2204df3c59ed9a",
+      "md5": "fe3b824f15c4235ea2b24e21562ce4fc",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666876897,
-  "item_size": 29679447,
+  "files_count": 455,
+  "item_last_updated": 1666891523,
+  "item_size": 29688791,
+  "mansfieldnj-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "mansfieldnj-2022",
     "collection": [
@@ -4712,21 +4728,10 @@
     "publicdate": "2022-09-20 22:28:08",
     "addeddate": "2022-09-20 22:28:08"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454138537,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1508025009,
+  "server": "ia801407.us.archive.org",
+  "uniq": 91770306,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

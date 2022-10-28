@@ -1,5 +1,5 @@
 {
-  "created": 1666913843,
+  "created": 1666915019,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/dagsavisen-2022",
@@ -12141,21 +12141,32 @@
       "format": "JSON"
     },
     {
+      "name": "dagsavisen-2022-10-28T01:35:57.145167+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dagsavisen-2022-10-28T01:35:57.145167+02:00.jpg",
+      "mtime": "1666914972",
+      "size": "9405",
+      "md5": "f16a04834db35e3fb7f5f7f814464cc2",
+      "crc32": "8467bfb2",
+      "sha1": "4babb18fa0deab3c1225665c28c39806ed343c80"
+    },
+    {
       "name": "dagsavisen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bda60bf5f6aaeff90d9f92a4d59f4ea7f16a449e",
-      "mtime": "1666913839",
-      "size": "250088",
-      "md5": "1de060424df955a92978f0cec8de1059",
-      "crc32": "4a13dc9b",
-      "sha1": "073ed58ee77ff6437cb695a9a5bbdf33138656ba",
+      "btih": "3839b5649054d115c632c350e72e1b91a9e7e3a4",
+      "mtime": "1666915009",
+      "size": "250294",
+      "md5": "102a83931b38d0123f8ea226cf38ed7a",
+      "crc32": "1fa40014",
+      "sha1": "cf323e8f4a3006830e9216af49b00bfcd027e5e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dagsavisen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "343bde748e92992fe9b3de31759ebbde",
+      "md5": "b89011c8a6e6e6ae2c3df65943584d67",
       "summation": "md5"
     },
     {
@@ -12179,9 +12190,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1177,
-  "item_last_updated": 1666913839,
-  "item_size": 66712038,
+  "files_count": 1178,
+  "item_last_updated": 1666915009,
+  "item_size": 66721649,
   "metadata": {
     "identifier": "dagsavisen-2022",
     "collection": [
@@ -12198,21 +12209,10 @@
     "publicdate": "2022-07-20 11:37:20",
     "addeddate": "2022-07-20 11:37:20"
   },
-  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454569856,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1779347451,
+  "uniq": 1616787741,
   "workable_servers": [
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

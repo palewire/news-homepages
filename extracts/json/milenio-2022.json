@@ -1,5 +1,5 @@
 {
-  "created": 1666876884,
+  "created": 1666917814,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/19/items/milenio-2022",
@@ -9121,21 +9121,32 @@
       "format": "JSON"
     },
     {
+      "name": "milenio-2022-10-27T08:20:07.796721-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "milenio-2022-10-27T08:20:07.796721-05:00.jpg",
+      "mtime": "1666891586",
+      "size": "10545",
+      "md5": "bd567be06f21a93880488b053b0b2ffb",
+      "crc32": "dd5ad845",
+      "sha1": "9c1fa988c37f669daeb31c83db3f17f71de28d6d"
+    },
+    {
       "name": "milenio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bfeb09c6ec0e0f46157876de5b1ebd79dbc55fc0",
-      "mtime": "1666876878",
-      "size": "186615",
-      "md5": "5b5cf581b9bd088b61671d395d564cbe",
-      "crc32": "8e132bcb",
-      "sha1": "65517ff9735404a480fc025f6103e5a1a2a9b090",
+      "btih": "981c82fad42334eaf1fa771fc0d3579f68e09003",
+      "mtime": "1666891598",
+      "size": "186819",
+      "md5": "24607af9ccec56adefad5fe733ebf840",
+      "crc32": "bd73d0b5",
+      "sha1": "b8f1a7a51eb59461d690e8f18dcb05967724d5d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "milenio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0dcb03f4c573ae0d7c063ecb33fe9a77",
+      "md5": "85a09507ef30dbeb1cb942e0113e54db",
       "summation": "md5"
     },
     {
@@ -9159,9 +9170,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 886,
-  "item_last_updated": 1666876878,
-  "item_size": 73330714,
+  "files_count": 887,
+  "item_last_updated": 1666891598,
+  "item_size": 73341463,
   "metadata": {
     "identifier": "milenio-2022",
     "collection": [
@@ -9178,21 +9189,18 @@
     "publicdate": "2022-08-16 17:11:32",
     "addeddate": "2022-08-16 17:11:32"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454138292,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1682488816,
+  "milenio-2022": {
+    "url": "https://www.milenio.com/",
+    "job_id": "spn2-c901c48c71b6028815dfe40ffadfa4c8e2af3349",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1135.",
+    "resources": []
+  },
+  "server": "ia801401.us.archive.org",
+  "uniq": 196448546,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

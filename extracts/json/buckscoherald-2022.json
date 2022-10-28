@@ -1,5 +1,5 @@
 {
-  "created": 1666911083,
+  "created": 1666913686,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/12/items/buckscoherald-2022",
@@ -12957,21 +12957,32 @@
       "format": "JSON"
     },
     {
+      "name": "buckscoherald-2022-10-27T18:50:02.425791-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buckscoherald-2022-10-27T18:50:02.425791-04:00.jpg",
+      "mtime": "1666913483",
+      "size": "10068",
+      "md5": "9d5fe88f0d518325fe963fa1bff366eb",
+      "crc32": "f97a4b64",
+      "sha1": "daab9172e93d2a70b8a919044a77041968d4a811"
+    },
+    {
       "name": "buckscoherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "61ea26de7fcf86869f930badede36529afa33bf1",
-      "mtime": "1666911077",
-      "size": "270995",
-      "md5": "09583f5d6f6deab9461818fc97148f47",
-      "crc32": "7f84916c",
-      "sha1": "0b8987a5f709666118977a413bd86ca615774a0f",
+      "btih": "d71108ae071e028073998490fe980cb7f78769e2",
+      "mtime": "1666913641",
+      "size": "271205",
+      "md5": "5890050ad349b9d9424f40065fed177d",
+      "crc32": "dacb7b03",
+      "sha1": "32e8db5ae1caa556f5fe1a01049a8aa23752ced2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buckscoherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61335bf7ac9067788d892d04eda70d35",
+      "md5": "112d20c40a987d304218159d5d99f45e",
       "summation": "md5"
     },
     {
@@ -12995,9 +13006,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1255,
-  "item_last_updated": 1666911077,
-  "item_size": 89630911,
+  "files_count": 1256,
+  "item_last_updated": 1666913641,
+  "item_size": 89641189,
   "metadata": {
     "identifier": "buckscoherald-2022",
     "collection": [
@@ -13014,21 +13025,10 @@
     "publicdate": "2022-07-09 03:57:03",
     "addeddate": "2022-07-09 03:57:03"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454512605,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 812606070,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1813405872,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

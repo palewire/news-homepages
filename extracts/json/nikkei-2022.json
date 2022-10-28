@@ -1,5 +1,5 @@
 {
-  "created": 1666898541,
+  "created": 1666907480,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/23/items/nikkei-2022",
@@ -18939,21 +18939,32 @@
       "format": "JSON"
     },
     {
+      "name": "nikkei-2022-10-28T04:20:35.185389+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nikkei-2022-10-28T04:20:35.185389+09:00.jpg",
+      "mtime": "1666907333",
+      "size": "10832",
+      "md5": "fa49ea9ce96289a01a607f8938faef2d",
+      "crc32": "922f7582",
+      "sha1": "09f46bd65ad7b6f8ee8cf9e63a69f09a36b20fc3"
+    },
+    {
       "name": "nikkei-2022_archive.torrent",
       "source": "metadata",
-      "btih": "01e368bf5ec8a04bfe5c49a4654813e5feac2c2a",
-      "mtime": "1666898534",
-      "size": "385857",
-      "md5": "1e780ae775d54582ba5457b7c2526292",
-      "crc32": "69bc80e4",
-      "sha1": "e16a646ba63c82cff3e71f34db8d3ba70c305ece",
+      "btih": "ec95c9c323df023795a6de5c42de67c16a860517",
+      "mtime": "1666907374",
+      "size": "386060",
+      "md5": "4e23113b6bfa3e8c079fb38b9496fbe7",
+      "crc32": "51360e0a",
+      "sha1": "020557988679d1bb4d50ae7a5226301403fecb2f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nikkei-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c60af3ef7818c4dc3513cc6ec6c785b3",
+      "md5": "f8046c16a13a6e8e67fb265d148be1a1",
       "summation": "md5"
     },
     {
@@ -18977,9 +18988,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1832,
-  "item_last_updated": 1666898534,
-  "item_size": 200102428,
+  "files_count": 1833,
+  "item_last_updated": 1666907374,
+  "item_size": 200113463,
   "metadata": {
     "identifier": "nikkei-2022",
     "collection": [
@@ -18996,21 +19007,10 @@
     "publicdate": "2022-07-09 02:39:07",
     "addeddate": "2022-07-09 02:39:07"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454354267,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1041588657,
+  "server": "ia801406.us.archive.org",
+  "uniq": 454157482,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

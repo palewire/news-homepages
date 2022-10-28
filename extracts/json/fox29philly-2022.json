@@ -1,5 +1,5 @@
 {
-  "created": 1666914048,
+  "created": 1666915406,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/31/items/fox29philly-2022",
@@ -13809,21 +13809,32 @@
       "format": "JSON"
     },
     {
+      "name": "fox29philly-2022-10-27T19:39:18.358435-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox29philly-2022-10-27T19:39:18.358435-04:00.jpg",
+      "mtime": "1666915332",
+      "size": "10403",
+      "md5": "84a8202048ef2b25c4e4fc8bd241cf77",
+      "crc32": "8e9b88b4",
+      "sha1": "13ea94c756e1f918f17ab4ce4fa6c9f6df188d77"
+    },
+    {
       "name": "fox29philly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83afd6b03876b8c9ac6fec4a27a4fe1a71b8f42b",
-      "mtime": "1666914040",
-      "size": "286479",
-      "md5": "7feb7a2bd3ad8fe8291564d04d8d813e",
-      "crc32": "583601fa",
-      "sha1": "1364dac43406bc84e3a78048be5cace5783c322b",
+      "btih": "8e6196b1b6595f55dba0995d2705eb477d7a40f8",
+      "mtime": "1666915347",
+      "size": "286687",
+      "md5": "6c451fd182e6d483cdd38c89b89512d6",
+      "crc32": "e4f95482",
+      "sha1": "0f8ff425437b4cdf203c80682a77cf931008330a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox29philly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e4f4f3c0354425b8ff227c49ea62ff2",
+      "md5": "4c71d7108bed2ace68e22c817f2559a3",
       "summation": "md5"
     },
     {
@@ -13847,9 +13858,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1336,
-  "item_last_updated": 1666914040,
-  "item_size": 110757688,
+  "files_count": 1337,
+  "item_last_updated": 1666915347,
+  "item_size": 110768299,
   "metadata": {
     "identifier": "fox29philly-2022",
     "collection": [
@@ -13866,21 +13877,10 @@
     "publicdate": "2022-07-03 15:52:47",
     "addeddate": "2022-07-03 15:52:47"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454574216,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1963209907,
+  "uniq": 1790490750,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

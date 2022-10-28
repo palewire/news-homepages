@@ -1,5 +1,5 @@
 {
-  "created": 1666876730,
+  "created": 1666917154,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/0/items/ktla-2022",
@@ -26899,21 +26899,32 @@
       "format": "JSON"
     },
     {
+      "name": "ktla-2022-10-27T06:16:57.868634-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ktla-2022-10-27T06:16:57.868634-07:00.jpg",
+      "mtime": "1666891415",
+      "size": "10505",
+      "md5": "3fd1f9678a74174b126372938dd0161d",
+      "crc32": "2e854bf7",
+      "sha1": "e3e28ef3cd606f9d371ac98b6f59e3927c109c58"
+    },
+    {
       "name": "ktla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e7051379f5116431810e2d017715ee8536b5465",
-      "mtime": "1666876723",
-      "size": "537687",
-      "md5": "c1341b53d1698df90d7f77275804e9b8",
-      "crc32": "17bd978c",
-      "sha1": "782718f7c4d6e06e7670d3d8033b18934a66dea5",
+      "btih": "7c8b3cc439af9c9beb46dac4598154f376240cb5",
+      "mtime": "1666891531",
+      "size": "537888",
+      "md5": "d347d533ce3ef4ab612f317ef0712348",
+      "crc32": "b240e39d",
+      "sha1": "affb8f44646a6653cc6cd8e88f720f1e7edf62f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ktla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f72ad8757fcf0ccc4acb45d666565f70",
+      "md5": "d96017ffbbd9d392d84eff2a52acb1bf",
       "summation": "md5"
     },
     {
@@ -26937,9 +26948,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2589,
-  "item_last_updated": 1666876723,
-  "item_size": 254376446,
+  "files_count": 2590,
+  "item_last_updated": 1666891531,
+  "item_size": 254387152,
+  "ktla-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "ktla-2022",
     "collection": [
@@ -26956,21 +26972,10 @@
     "publicdate": "2022-03-23 02:07:50",
     "addeddate": "2022-03-23 02:07:50"
   },
-  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454136553,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 767316334,
+  "uniq": 51186060,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

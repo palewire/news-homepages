@@ -1,5 +1,5 @@
 {
-  "created": 1666887155,
+  "created": 1666915838,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/31/items/capitalandmain-2022",
@@ -16519,21 +16519,32 @@
       "format": "JSON"
     },
     {
+      "name": "capitalandmain-2022-10-27T09:10:46.571299-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitalandmain-2022-10-27T09:10:46.571299-07:00.jpg",
+      "mtime": "1666898211",
+      "size": "10364",
+      "md5": "dc4be99e5e494b6d453695d97ce4f063",
+      "crc32": "89bbfb4c",
+      "sha1": "dd5cb8f38141d58f1dcc1a819a5e6d8475196028"
+    },
+    {
       "name": "capitalandmain-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a60e81e92a5c58ed959d6f0de32950c275ad77fa",
-      "mtime": "1666887151",
-      "size": "346931",
-      "md5": "35030d5da5a6a55feaea6deca57ab181",
-      "crc32": "81f55a2a",
-      "sha1": "84b78a12569284a99c6c6c082e69500801de418e",
+      "btih": "a56c0377c8bd83e6c04ab277b0808bc961565043",
+      "mtime": "1666898232",
+      "size": "347142",
+      "md5": "efcf3c04c88115aedcca8f29fddea4aa",
+      "crc32": "073a7096",
+      "sha1": "b88626d65ffca75ed6d312490b56a861411c4103",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitalandmain-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2b0da9c9809d039e6003540b34795a2",
+      "md5": "d5c76ca6fc92992b669c57116f96ac8f",
       "summation": "md5"
     },
     {
@@ -16557,9 +16568,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1601,
-  "item_last_updated": 1666887151,
-  "item_size": 101906036,
+  "files_count": 1602,
+  "item_last_updated": 1666898232,
+  "item_size": 101916611,
   "metadata": {
     "identifier": "capitalandmain-2022",
     "collection": [
@@ -16576,21 +16587,10 @@
     "publicdate": "2022-07-23 18:23:54",
     "addeddate": "2022-07-23 18:23:54"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238811,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1811201018,
+  "server": "ia802502.us.archive.org",
+  "uniq": 114712306,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

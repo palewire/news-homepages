@@ -1,5 +1,5 @@
 {
-  "created": 1666886941,
+  "created": 1666897735,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/belt_magazine-2022",
@@ -12853,21 +12853,32 @@
       "format": "JSON"
     },
     {
+      "name": "belt_magazine-2022-10-27T12:07:46.154653-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "belt_magazine-2022-10-27T12:07:46.154653-04:00.jpg",
+      "mtime": "1666897579",
+      "size": "9965",
+      "md5": "70bef6f6e42064b53144e49b9f54aa84",
+      "crc32": "778d41db",
+      "sha1": "bf4c788ee8b6546419fc6ab6a9e4f881cb706560"
+    },
+    {
       "name": "belt_magazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e45e547809e8abcfa8dc685c9edd07a4243261e",
-      "mtime": "1666886937",
-      "size": "267975",
-      "md5": "52d932861df1366c544434243545bce7",
-      "crc32": "a435a571",
-      "sha1": "eeef8265a81304ce3c403714ae474f4fb7e024fc",
+      "btih": "188d1ca2212c83cb8f88dcbbdefba6cdda2fa518",
+      "mtime": "1666897598",
+      "size": "268184",
+      "md5": "ec4bc400a43011149d35bb66a612b407",
+      "crc32": "970b262e",
+      "sha1": "927d2995a3620c99222ffc9827200f5eaf56c34a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "belt_magazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "48e7c15b106cafd2bcd32cab86b91670",
+      "md5": "2cb1eb36fec87fa1abecbc7cb890773c",
       "summation": "md5"
     },
     {
@@ -12891,9 +12902,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1245,
-  "item_last_updated": 1666886937,
-  "item_size": 64178681,
+  "files_count": 1246,
+  "item_last_updated": 1666897598,
+  "item_size": 64188855,
   "metadata": {
     "identifier": "belt_magazine-2022",
     "collection": [
@@ -12910,21 +12921,10 @@
     "publicdate": "2022-07-09 03:56:11",
     "addeddate": "2022-07-09 03:56:11"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454235697,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1514213627,
+  "server": "ia802502.us.archive.org",
+  "uniq": 175500862,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

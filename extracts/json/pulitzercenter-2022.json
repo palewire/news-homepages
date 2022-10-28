@@ -1,5 +1,5 @@
 {
-  "created": 1666880221,
+  "created": 1666918612,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -12879,21 +12879,32 @@
       "format": "JSON"
     },
     {
+      "name": "pulitzercenter-2022-10-27T10:15:45.564588-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-10-27T10:15:45.564588-04:00.jpg",
+      "mtime": "1666893512",
+      "size": "8506",
+      "md5": "4eb3dbe2e050dee21a51f60013d2f6fc",
+      "crc32": "73bef21d",
+      "sha1": "af747f2ae888d4b9e4e79ea317269dc047ed0174"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb68cab3230ed3110e00ed41e63fef0d2c7c5430",
-      "mtime": "1666880214",
-      "size": "269023",
-      "md5": "536b5ed0381789ae1795d0fbd6a4b747",
-      "crc32": "65fd31ae",
-      "sha1": "b07adce13690bb3ea8b9bb8f34eb1253205c7771",
+      "btih": "705e48561b30afe23da3b38b272cdfd859727ca5",
+      "mtime": "1666893556",
+      "size": "269233",
+      "md5": "29e9ef134b360b88ee9a6f6dc69f8310",
+      "crc32": "3fe74d86",
+      "sha1": "6e1b9bd3bd182979f05dda0779c8e1a9fae0e686",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e6754a975fdd69be65375cb89d5fad21",
+      "md5": "2a5649c1ae6f8e393feb50876a1d5e87",
       "summation": "md5"
     },
     {
@@ -12917,9 +12928,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1247,
-  "item_last_updated": 1666880214,
-  "item_size": 57778559,
+  "files_count": 1248,
+  "item_last_updated": 1666893556,
+  "item_size": 57787275,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -12936,21 +12947,15 @@
     "publicdate": "2022-07-09 04:01:52",
     "addeddate": "2022-07-09 04:01:52"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167597,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 816146283,
+  "pulitzercenter-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801408.us.archive.org",
+  "uniq": 1695717537,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

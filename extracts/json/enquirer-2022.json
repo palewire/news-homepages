@@ -1,5 +1,5 @@
 {
-  "created": 1666913932,
+  "created": 1666915128,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/enquirer-2022",
@@ -9223,21 +9223,32 @@
       "format": "JSON"
     },
     {
+      "name": "enquirer-2022-10-27T19:37:19.601937-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enquirer-2022-10-27T19:37:19.601937-04:00.jpg",
+      "mtime": "1666915060",
+      "size": "9578",
+      "md5": "c2eebf47e5ed2bd517e46db75b26d569",
+      "crc32": "a9b7f37c",
+      "sha1": "62815378ad4fe9c46cd754e4bd9efce0f94b62bf"
+    },
+    {
       "name": "enquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7496f16191fb5189abf9a3e701038ab3bb655727",
-      "mtime": "1666913919",
-      "size": "189094",
-      "md5": "7bf26246bd82d253edff033fc8a3a894",
-      "crc32": "c764101e",
-      "sha1": "fb16c8aba9eae704f536eb1c49452fcabd89b018",
+      "btih": "0ecbdb221a527418741065cee04ace4419fc7ce9",
+      "mtime": "1666915095",
+      "size": "189298",
+      "md5": "3aa1403b94f290cbf6ec79885cf744db",
+      "crc32": "adc0632b",
+      "sha1": "f6fff32b742b73fb008a44bc49a75d87132dbbbb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "257d397303ec1c7d029e10354a1dc0a2",
+      "md5": "ee9b5753b9bbb2a48c0d37dff5eba02c",
       "summation": "md5"
     },
     {
@@ -9261,9 +9272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 896,
-  "item_last_updated": 1666913919,
-  "item_size": 61347533,
+  "files_count": 897,
+  "item_last_updated": 1666915095,
+  "item_size": 61357315,
   "metadata": {
     "identifier": "enquirer-2022",
     "collection": [
@@ -9280,21 +9291,10 @@
     "publicdate": "2022-08-14 06:45:31",
     "addeddate": "2022-08-14 06:45:31"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454571825,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1559764377,
+  "server": "ia801502.us.archive.org",
+  "uniq": 268540646,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

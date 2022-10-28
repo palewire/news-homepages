@@ -1,5 +1,5 @@
 {
-  "created": 1666910944,
+  "created": 1666913365,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/11/items/bartlesvilleee-2022",
@@ -4591,21 +4591,32 @@
       "format": "JSON"
     },
     {
+      "name": "bartlesvilleee-2022-10-27T17:47:58.833001-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bartlesvilleee-2022-10-27T17:47:58.833001-05:00.jpg",
+      "mtime": "1666913299",
+      "size": "9383",
+      "md5": "b6b458a104f4cd6f191353e743170e65",
+      "crc32": "9f67fda5",
+      "sha1": "b84823acc58599c1d57475f0d828aeabdf938c8f"
+    },
+    {
       "name": "bartlesvilleee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59ac45693dba04be351846ed5372b68e2a408e41",
-      "mtime": "1666910938",
-      "size": "97514",
-      "md5": "88d8984c46b75bbdd1905cadcce0fbd6",
-      "crc32": "dba07fab",
-      "sha1": "be7fa49cd9ecb37abbecb9b53c9c837e6f79f135",
+      "btih": "15084cd48420ca5698f5b0314862d1dc2264681f",
+      "mtime": "1666913330",
+      "size": "97724",
+      "md5": "aa8842ce10d7cb13200c1240339e6166",
+      "crc32": "f31d7106",
+      "sha1": "518be9d9134dc352c950f81468dc549b9a84110d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bartlesvilleee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a840aa6dfb6d431969e915e50119bfa5",
+      "md5": "88f2c318decc76d4340cbafe380d1b2d",
       "summation": "md5"
     },
     {
@@ -4629,9 +4640,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666910938,
-  "item_size": 29011067,
+  "files_count": 449,
+  "item_last_updated": 1666913330,
+  "item_size": 29020660,
   "metadata": {
     "identifier": "bartlesvilleee-2022",
     "collection": [
@@ -4648,21 +4659,10 @@
     "publicdate": "2022-09-20 22:10:16",
     "addeddate": "2022-09-20 22:10:16"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454509626,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1127622175,
+  "uniq": 595044540,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

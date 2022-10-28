@@ -1,5 +1,5 @@
 {
-  "created": 1666898983,
+  "created": 1666911275,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/segodnya_online-2022",
@@ -12183,21 +12183,32 @@
       "format": "JSON"
     },
     {
+      "name": "segodnya_online-2022-10-27T22:28:24.611709+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "segodnya_online-2022-10-27T22:28:24.611709+03:00.jpg",
+      "mtime": "1666906770",
+      "size": "10162",
+      "md5": "3c703aaceaca17203fafafe7a2a0ff75",
+      "crc32": "c90a3323",
+      "sha1": "617fb0f1845d3c29c415696c802aef4bef5037ff"
+    },
+    {
       "name": "segodnya_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "25d3acf9064eb9e8360a5324963ed8f2c52396b1",
-      "mtime": "1666898978",
-      "size": "258509",
-      "md5": "1b5a397b3213635cccacdf9e8afd4f54",
-      "crc32": "1a6c74b4",
-      "sha1": "7084decfe01c9336d6cf7d038cb3579ac929057f",
+      "btih": "1bb44f98591d280224feae2cc6305ca0a66e4069",
+      "mtime": "1666906782",
+      "size": "258721",
+      "md5": "0bdc220fb89bb9d3fff6f87bbc212074",
+      "crc32": "eccd4d4d",
+      "sha1": "b07ba43477e4d446c1dd75cdbbcb08c4b45c7a9c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "segodnya_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "74fc6ece7b5e80e3b2541d4526bf30ff",
+      "md5": "d4aa3ab8b99d61a5d17d609b2cc7fbb8",
       "summation": "md5"
     },
     {
@@ -12221,9 +12232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1180,
-  "item_last_updated": 1666898978,
-  "item_size": 110519819,
+  "files_count": 1181,
+  "item_last_updated": 1666906782,
+  "item_size": 110530193,
   "metadata": {
     "identifier": "segodnya_online-2022",
     "collection": [
@@ -12240,21 +12251,10 @@
     "publicdate": "2022-03-23 17:49:36",
     "addeddate": "2022-03-23 17:49:36"
   },
-  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454358359,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 288894840,
+  "uniq": 456239222,
   "workable_servers": [
-    "ia902509.us.archive.org"
+    "ia902509.us.archive.org",
+    "ia802509.us.archive.org"
   ]
 }

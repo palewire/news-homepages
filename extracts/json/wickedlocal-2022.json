@@ -1,5 +1,5 @@
 {
-  "created": 1666890226,
+  "created": 1666920133,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/3/items/wickedlocal-2022",
@@ -4573,21 +4573,32 @@
       "format": "JSON"
     },
     {
+      "name": "wickedlocal-2022-10-27T12:13:11.377103-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wickedlocal-2022-10-27T12:13:11.377103-04:00.jpg",
+      "mtime": "1666898536",
+      "size": "9430",
+      "md5": "4e69c2acd182a609651e433e9d9188c0",
+      "crc32": "c9a48381",
+      "sha1": "ccff686616362463af673bae638d9ffc6504cf65"
+    },
+    {
       "name": "wickedlocal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e233703dff6f66f609ce0788330b444d131135ba",
-      "mtime": "1666887254",
-      "size": "95714",
-      "md5": "59ab52cc1ef8cb10a324e877be24346e",
-      "crc32": "779321d5",
-      "sha1": "f0c675279e6d060dc0f36e48130a5a5809a23ac7",
+      "btih": "fdc25860397a36bd3d5d0846bb2e5174a978f94a",
+      "mtime": "1666898544",
+      "size": "95921",
+      "md5": "e51f5357f18988209c1558b519f3493e",
+      "crc32": "3b19ecfe",
+      "sha1": "49115b1312f932047526b779a24b50d798fc1f00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wickedlocal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d29f5702c0b83e0636c07faa59d3c706",
+      "md5": "f33b8e8f345c7fb50c05d1f10d15c3af",
       "summation": "md5"
     },
     {
@@ -4611,9 +4622,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1666887254,
-  "item_size": 30205828,
+  "files_count": 447,
+  "item_last_updated": 1666898544,
+  "item_size": 30215465,
   "metadata": {
     "identifier": "wickedlocal-2022",
     "collection": [
@@ -4630,20 +4641,9 @@
     "publicdate": "2022-09-21 04:40:34",
     "addeddate": "2022-09-21 04:40:34"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
+  "server": "ia801504.us.archive.org",
   "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454240071,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 398175893,
+  "uniq": 871656472,
   "wickedlocal-2022": {
     "url": "https://www.wickedlocal.com/",
     "job_id": "spn2-176be1c5bc210ee2b09784d8970ad5c5971aeda5",
@@ -4999,6 +4999,6 @@
     ]
   },
   "workable_servers": [
-    "ia601504.us.archive.org"
+    "ia801504.us.archive.org"
   ]
 }

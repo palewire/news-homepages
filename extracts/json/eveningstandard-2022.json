@@ -1,5 +1,5 @@
 {
-  "created": 1666913998,
+  "created": 1666915789,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/24/items/eveningstandard-2022",
@@ -19843,21 +19843,32 @@
       "format": "JSON"
     },
     {
+      "name": "eveningstandard-2022-10-28T00:38:31.262032+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eveningstandard-2022-10-28T00:38:31.262032+01:00.jpg",
+      "mtime": "1666915606",
+      "size": "8884",
+      "md5": "b050e483f10e0eba595bb14fd65dba77",
+      "crc32": "1d9afc52",
+      "sha1": "e9f98bf42700ffd20cf9643cf47e14b6edeed559"
+    },
+    {
       "name": "eveningstandard-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2244daa41c5d1cb261eeb6c2d84c7e73fae65ed0",
-      "mtime": "1666913992",
-      "size": "417953",
-      "md5": "cd1f0e43563feac2d4a9343d3fc15308",
-      "crc32": "f2b36213",
-      "sha1": "84083bbf090217cf1e20e0ae05663dc8783b96bb",
+      "btih": "3219c6d2273289126e08f0e00e902887f3f34647",
+      "mtime": "1666915662",
+      "size": "418164",
+      "md5": "e99dad4d1d8825a5dd42f081fd98b92f",
+      "crc32": "8f64d93a",
+      "sha1": "95bf7ea672d1ce68e75f4ed22cad6bd7b421239e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eveningstandard-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ab9a3519d89504801b44dfd9862b36f1",
+      "md5": "7ec163bbb21c30e58ea89d3955c4f31a",
       "summation": "md5"
     },
     {
@@ -19881,9 +19892,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1919,
-  "item_last_updated": 1666913992,
-  "item_size": 140949232,
+  "files_count": 1920,
+  "item_last_updated": 1666915662,
+  "item_size": 140958327,
   "metadata": {
     "identifier": "eveningstandard-2022",
     "collection": [
@@ -19900,21 +19911,10 @@
     "publicdate": "2022-07-07 03:59:30",
     "addeddate": "2022-07-07 03:59:30"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454573180,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1070315326,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1168580679,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

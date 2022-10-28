@@ -1,5 +1,5 @@
 {
-  "created": 1666900451,
+  "created": 1666907741,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/sternde-2022",
@@ -11329,21 +11329,32 @@
       "format": "JSON"
     },
     {
+      "name": "sternde-2022-10-27T21:52:44.838001+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sternde-2022-10-27T21:52:44.838001+02:00.jpg",
+      "mtime": "1666907667",
+      "size": "9607",
+      "md5": "60a3bf5fb52e2409c14a142dd65a2686",
+      "crc32": "8436017a",
+      "sha1": "6436f654bfc8e710d3adbbd958d63c9770a4d2a5"
+    },
+    {
       "name": "sternde-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4bfc6847e0d6e8f4e8128008a457af03544f9eeb",
-      "mtime": "1666900446",
-      "size": "231066",
-      "md5": "2a1b59b51c7cbf407defb673281d19fb",
-      "crc32": "8ffe84e0",
-      "sha1": "034ed7efd36a2f8791af5db01235dceb7848413b",
+      "btih": "27992b1c9322642aabcf57dead338eccd7b6c3d2",
+      "mtime": "1666907714",
+      "size": "231269",
+      "md5": "a10b32a6a779d1c57ed3882966dbc7e2",
+      "crc32": "624b552c",
+      "sha1": "be12a73d4c8eb1f1813135f1685a9415eb4be398",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sternde-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5bf789b167deb5963372507b79772aa2",
+      "md5": "57341a07fcbd5fd0a6559b606c177a28",
       "summation": "md5"
     },
     {
@@ -11367,9 +11378,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1099,
-  "item_last_updated": 1666900446,
-  "item_size": 82522676,
+  "files_count": 1100,
+  "item_last_updated": 1666907714,
+  "item_size": 82532486,
   "metadata": {
     "identifier": "sternde-2022",
     "collection": [
@@ -11386,21 +11397,10 @@
     "publicdate": "2022-07-26 03:57:37",
     "addeddate": "2022-07-26 03:57:37"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454371371,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 939055244,
+  "uniq": 1789572013,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

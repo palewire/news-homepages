@@ -1,5 +1,5 @@
 {
-  "created": 1666883723,
+  "created": 1666919894,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/3/items/usnews-2022",
@@ -11669,21 +11669,32 @@
       "format": "JSON"
     },
     {
+      "name": "usnews-2022-10-27T11:14:08.843987-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "usnews-2022-10-27T11:14:08.843987-04:00.jpg",
+      "mtime": "1666895781",
+      "size": "9428",
+      "md5": "5d86b3f8765d432b596f49d2a7110ec5",
+      "crc32": "3cd1754e",
+      "sha1": "6056ad61384c554846c4cd0a0d9c874188b9a754"
+    },
+    {
       "name": "usnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa3b98857b1bb1ed21b3a693b8d66fbbd0a6eb37",
-      "mtime": "1666883717",
-      "size": "236229",
-      "md5": "065297b267074afbcc3c5772296630f6",
-      "crc32": "b874ef74",
-      "sha1": "afb756167d94bf1bf4a7e5b631ea45943d945b2d",
+      "btih": "7c431d753bf1a302ae8c919d68ebf2ca4a299daf",
+      "mtime": "1666895796",
+      "size": "236431",
+      "md5": "ed6b7b1c949bea91ba2ec35bc6467219",
+      "crc32": "a760a596",
+      "sha1": "8f82f007fcad02e3dbdadfc6724d32ba7c7c00f4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "059a602c2a6f2a622a4a0f77c348d03c",
+      "md5": "ef7671106a5ddc415055507b5e296a9f",
       "summation": "md5"
     },
     {
@@ -11707,9 +11718,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1132,
-  "item_last_updated": 1666883717,
-  "item_size": 82032496,
+  "files_count": 1133,
+  "item_last_updated": 1666895796,
+  "item_size": 82042126,
   "metadata": {
     "identifier": "usnews-2022",
     "collection": [
@@ -11726,21 +11737,15 @@
     "publicdate": "2022-07-24 03:44:34",
     "addeddate": "2022-07-24 03:44:34"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454198962,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 752771264,
+  "server": "ia801507.us.archive.org",
+  "uniq": 808341122,
+  "usnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

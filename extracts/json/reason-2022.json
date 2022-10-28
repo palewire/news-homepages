@@ -1,5 +1,5 @@
 {
-  "created": 1666901090,
+  "created": 1666918704,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/reason-2022",
@@ -17743,21 +17743,32 @@
       "format": "JSON"
     },
     {
+      "name": "reason-2022-10-27T16:02:51.132803-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reason-2022-10-27T16:02:51.132803-04:00.jpg",
+      "mtime": "1666908166",
+      "size": "10112",
+      "md5": "cc6d02b7febde94a482134c7bd4ab318",
+      "crc32": "58407b90",
+      "sha1": "d87807f84b6039220c47312935e4ee0709accd1b"
+    },
+    {
       "name": "reason-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a83dccc48e96ded5ebd5feff2e290ae6a42f1205",
-      "mtime": "1666901077",
-      "size": "359481",
-      "md5": "2f8e4f0307f20b1b3a693769135ea36a",
-      "crc32": "331df068",
-      "sha1": "b6060eb496d650d117785d51115c7ce414e52d59",
+      "btih": "7995b066421e31e986d99255c1fd6076ce017f35",
+      "mtime": "1666908192",
+      "size": "359684",
+      "md5": "b28f87ae5dda9c6a0f022019ff0fefec",
+      "crc32": "a03de057",
+      "sha1": "62a1c75c5900f447438610d13e494837cbe98e58",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reason-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50a329565ec9c37418d3de031d878775",
+      "md5": "5e09c65c38277cf16c3b38485e168abe",
       "summation": "md5"
     },
     {
@@ -17781,9 +17792,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1718,
-  "item_last_updated": 1666901077,
-  "item_size": 137862496,
+  "files_count": 1719,
+  "item_last_updated": 1666908192,
+  "item_size": 137872811,
   "metadata": {
     "identifier": "reason-2022",
     "collection": [
@@ -17800,21 +17811,87 @@
     "publicdate": "2022-07-17 15:03:52",
     "addeddate": "2022-07-17 15:03:52"
   },
-  "pending_tasks": true,
+  "reason-2022": {
+    "url": "https://reason.com/",
+    "job_id": "spn2-29110075a04d04274e6337e6868ae31f17e8e0d8",
+    "outlinks": [],
+    "screenshot": "http://web.archive.org/screenshot/https://reason.com/",
+    "original_url": "https://reason.com/",
+    "http_status": 200,
+    "status": "success",
+    "counters": {
+      "embeds": 99,
+      "outlinks": 154
+    },
+    "resources": [
+      "https://reason.com/",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/cache/min/1/wp-content/plugins/reason-forms/dist/assets/css/main_f0297153.css?ver=1666753491",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/css/dist/block-library/style.min.css",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/dist/vendor/wp-polyfill.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/dist/i18n.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/dist/hooks.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/mediaelement/wp-mediaelement.min.css",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/cache/min/1/kdp6eed.css?ver=1666753492",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/cache/min/1/wp-content/themes/reason-dot-com-theme/dist/styles/main_3c8bbba1.css?ver=1666753491",
+      "https://p.typekit.net/p.css?s=1&k=kdp6eed&ht=tk&f=12784.12785.12786.12093.12094.12095.12096.12097.12098.39391.39392.39393.39394&a=8312177&app=typekit&e=css",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/jquery/jquery.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/jquery/jquery-migrate.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/plugins/gravityforms/js/jquery.json.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/plugins/gravityforms/js/gravityforms.min.js",
+      "https://kit.fontawesome.com/fb11e7c284.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/plugins/reason-parsely/public/js/reason-parsely-public.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/plugins/reason-postup/js/puprf-main.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/plugins/reason-forms/dist/assets/js/main_f0297153.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/mediaelement/mediaelement-and-player.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/mediaelement/mediaelement-migrate.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/mediaelement/wp-mediaelement.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/scripts/main_19939909.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/dist/dom-ready.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-includes/js/dist/a11y.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/plugins/akismet/_inc/akismet-frontend.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/images/media-play-video_ea8e7362.svg",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/images/media-play-podcast_ac4a1841.svg",
+      "https://use.typekit.net/af/9cb78a/0000000000000000000118ad/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+      "https://www.youtube.com/embed/X4kpznYFfJw?enablejsapi=1",
+      "https://www.youtube.com/embed/q0HRS_IzTmU?enablejsapi=1",
+      "https://use.typekit.net/af/ce6b1d/0000000000000000000118ba/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3",
+      "https://use.typekit.net/af/a2031c/0000000000000000000118b9/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+      "https://use.typekit.net/af/b825af/0000000000000000000118b1/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+      "https://use.typekit.net/af/a30f3c/00000000000000003b9b2245/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3",
+      "https://use.typekit.net/af/bb00d4/00000000000000003b9b2244/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+      "https://use.typekit.net/af/f7c92b/00000000000000003b9b22f3/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+      "https://use.typekit.net/af/2e6f07/000000000000000000011ce6/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3",
+      "https://trends.revcontent.com/serve.js.php?w=105467&t=rc_328&c=1666900175671&width=1100&referer=https://reason.com/",
+      "https://use.typekit.net/af/d4ccc3/00000000000000003b9b22ff/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+      "https://www.youtube.com/iframe_api",
+      "https://ka-p.fontawesome.com/releases/v5.15.4/css/pro.min.css?token=fb11e7c284",
+      "https://ka-p.fontawesome.com/releases/v5.15.4/css/pro-v4-shims.min.css?token=fb11e7c284",
+      "https://ka-p.fontawesome.com/releases/v5.15.4/css/pro-v4-font-face.min.css?token=fb11e7c284",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/images/logo_2ea65906.svg",
+      "https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/images/r-in-g1-01_36e38c66.svg",
+      "https://d2eehagpk5cl65.cloudfront.net/img/c800x450-w800-q60/uploads/2022/10/graph-800x450.jpg.webp",
+      "https://d2eehagpk5cl65.cloudfront.net/img/c331x186-w331-q60/uploads/2022/10/kmele2-331x186.jpg.webp",
+      "https://d2eehagpk5cl65.cloudfront.net/img/c331x186-w331-q60/uploads/2022/10/joe-biden_2-331x186.jpg.webp",
+      "https://d2eehagpk5cl65.cloudfront.net/img/c331x186-w331-q60/uploads/2022/10/zumaamericasthirtyfive638971-331x186.jpg.webp",
+      "https://d2eehagpk5cl65.cloudfront.net/img/c331x186-w331-q60/uploads/2022/10/toilet-331x186.jpg.webp",
+      "https://www.youtube.com/s/player/64588dad/www-widgetapi.vflset/www-widgetapi.js",
+      "https://d2eehagpk5cl65.cloudfront.net/img/c331x186-w331-q60/uploads/2022/07/student-loans-331x186.jpg.webp",
+      "https://d2eehagpk5cl65.cloudfront.net/img/c331x186-w331-q60/uploads/2022/10/sipaphotostwelve339809-331x186.jpg.webp",
+      "https://trends.revcontent.com/serve.js.php?w=105467&t=rc_328&c=1666900175671&width=1100&site_url=https://reason.com/&referer=&skip_iab=true",
+      "https://images.revcontent.com/revcontent/image/fetch/f_auto,h_315,w_420,c_fill,g_face/pg_1/https://revcontent-p0.s3.amazonaws.com/content/images/6263f688ce0724-00348633.jpeg",
+      "https://ka-p.fontawesome.com/releases/v5.15.4/webfonts/pro-fa-regular-400-5.0.11.woff2"
+    ],
+    "duration_sec": 9.597,
+    "timestamp": "20221027183716"
+  },
   "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454379284,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1444752610,
+  "uniq": 977059590,
   "workable_servers": [
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

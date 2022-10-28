@@ -1,5 +1,5 @@
 {
-  "created": 1666887073,
+  "created": 1666897652,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/2/items/calgaryherald-2022",
@@ -14473,21 +14473,32 @@
       "format": "JSON"
     },
     {
+      "name": "calgaryherald-2022-10-27T10:09:53.363119-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calgaryherald-2022-10-27T10:09:53.363119-06:00.jpg",
+      "mtime": "1666897578",
+      "size": "10280",
+      "md5": "35083720fa9348783460a48048146596",
+      "crc32": "b84dae95",
+      "sha1": "73cdb424667b39f759a8e1d08a1c588aa06a3c87"
+    },
+    {
       "name": "calgaryherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32c5f8a8d808cc432caf1362422ca51c877b171a",
-      "mtime": "1666887067",
-      "size": "302415",
-      "md5": "7d03836b3f54080456a2b0c2964bdedd",
-      "crc32": "34c2d98b",
-      "sha1": "a1b33ef41272c98e56402b77d5ce9c2ab30dfb0d",
+      "btih": "e0f7c0a0867670725694d41853c00df0aa17b76a",
+      "mtime": "1666897596",
+      "size": "302625",
+      "md5": "216aa4941ed564eed6cd2cde9449afb1",
+      "crc32": "71697448",
+      "sha1": "8b054cd4d6c03b94ea12d493c8bf8a7bc0288c5f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calgaryherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6050b80e92242cdeb542db1825d4882a",
+      "md5": "a7e6debd125cbb7b785bbee05aa0c3a8",
       "summation": "md5"
     },
     {
@@ -14511,9 +14522,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1399,
-  "item_last_updated": 1666887067,
-  "item_size": 114796615,
+  "files_count": 1400,
+  "item_last_updated": 1666897596,
+  "item_size": 114807105,
   "metadata": {
     "identifier": "calgaryherald-2022",
     "collection": [
@@ -14530,21 +14541,10 @@
     "publicdate": "2022-06-30 22:35:41",
     "addeddate": "2022-06-30 22:35:41"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454237764,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 548736426,
+  "server": "ia801405.us.archive.org",
+  "uniq": 2043861814,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883665,
+  "created": 1666918837,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/10/items/rfi-2022",
@@ -20371,21 +20371,32 @@
       "format": "JSON"
     },
     {
+      "name": "rfi-2022-10-27T16:18:17.182188+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rfi-2022-10-27T16:18:17.182188+02:00.jpg",
+      "mtime": "1666894497",
+      "size": "9610",
+      "md5": "2702f7e1e6ef15f2a7c81996c71be546",
+      "crc32": "ac6607d4",
+      "sha1": "aa23b43de76742118cc22d379aee13b8ab3af339"
+    },
+    {
       "name": "rfi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07a3221d27ae1df916838c89d421830731bb4bd3",
-      "mtime": "1666880590",
-      "size": "404453",
-      "md5": "e22eb2050547497f93205beb5e203114",
-      "crc32": "8dacd351",
-      "sha1": "e26b9663d9dda401c131ba17bc308e5f8bd86578",
+      "btih": "c181a34e17ad83e72f0970e8ca3c79c31ef3e91c",
+      "mtime": "1666894535",
+      "size": "404652",
+      "md5": "f3753c7c63d8f1d747cc5e2e7f38cc92",
+      "crc32": "d5b6182f",
+      "sha1": "8798f2ae8950e9daaf7d664a21412f5c9e8e5405",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rfi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "59a4ab4ff37d0157ec99cb6837994ad1",
+      "md5": "242ee552eb451172592f07cea7e3292e",
       "summation": "md5"
     },
     {
@@ -20409,9 +20420,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1969,
-  "item_last_updated": 1666880590,
-  "item_size": 129301980,
+  "files_count": 1970,
+  "item_last_updated": 1666894535,
+  "item_size": 129311789,
   "metadata": {
     "identifier": "rfi-2022",
     "collection": [
@@ -20428,7 +20439,6 @@
     "publicdate": "2022-06-30 22:26:42",
     "addeddate": "2022-06-30 22:26:42"
   },
-  "pending_tasks": true,
   "rfi-2022": {
     "url": "https://www.rfi.fr/fr/",
     "job_id": "spn2-38ebd03f4e180e3c66ab93af8502b49a39a018cc",
@@ -20607,20 +20617,10 @@
       "https://sdk.privacy-center.org/ui-gdpr-fr.b99c89c11b825a8e71615b7927b9c7d0d6fac3d6.js"
     ]
   },
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454171146,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 161829254,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1075793018,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

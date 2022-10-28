@@ -1,5 +1,5 @@
 {
-  "created": 1666876544,
+  "created": 1666916713,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/indiancountry-2022",
@@ -12981,21 +12981,32 @@
       "format": "JSON"
     },
     {
+      "name": "indiancountry-2022-10-27T06:13:36.893787-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indiancountry-2022-10-27T06:13:36.893787-07:00.jpg",
+      "mtime": "1666891259",
+      "size": "9503",
+      "md5": "46fa22cc649fcde4b5023cf841c36e87",
+      "crc32": "4c4e45bb",
+      "sha1": "193b2e9a4fd20d9a85fcfdad23b7d27a9d27d534"
+    },
+    {
       "name": "indiancountry-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b67a7f628464de6ba8b839db4f7690170ea6fe1",
-      "mtime": "1666876533",
-      "size": "270913",
-      "md5": "b5d07575493d484d168c57f3defb09b8",
-      "crc32": "468f1726",
-      "sha1": "9f47d78f1d7bc63c21aa6fbb6978ca7b8ca0c19a",
+      "btih": "aa42dcd516d3786023afa643436be5d808a95219",
+      "mtime": "1666891304",
+      "size": "271122",
+      "md5": "f8f1175325607de8fe9624f2afa30d41",
+      "crc32": "6e66656b",
+      "sha1": "cc40965376857ef3bb68410fcfb9286f7bd1ea55",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiancountry-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "778c956ff527106bfb2abaeb9878f0a3",
+      "md5": "85716a91ce5a2be6aaf48ed912b825ce",
       "summation": "md5"
     },
     {
@@ -13019,9 +13030,25 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1257,
-  "item_last_updated": 1666876533,
-  "item_size": 76495026,
+  "files_count": 1258,
+  "indiancountry-2022": {
+    "url": "https://indiancountrytoday.com/",
+    "job_id": "spn2-1d2dccde2d708ab7f498a39b52533bf94d81c3c7",
+    "original_url": "https://indiancountrytoday.com/.image/MTkwNTY3Mjc0MjU4NjM3OTQ5/android-chrome-512x512.png",
+    "http_status": 500,
+    "status": "success",
+    "counters": {
+      "embeds": 1,
+      "outlinks": 0
+    },
+    "resources": [
+      "https://indiancountrytoday.com/.image/MTkwNTY3Mjc0MjU4NjM3OTQ5/android-chrome-512x512.png"
+    ],
+    "duration_sec": 4.656,
+    "timestamp": "20221027130220"
+  },
+  "item_last_updated": 1666891304,
+  "item_size": 76504738,
   "metadata": {
     "identifier": "indiancountry-2022",
     "collection": [
@@ -13038,21 +13065,10 @@
     "publicdate": "2022-07-09 03:59:22",
     "addeddate": "2022-07-09 03:59:22"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454134467,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1942777321,
+  "uniq": 961863510,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

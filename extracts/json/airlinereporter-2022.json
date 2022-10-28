@@ -1,5 +1,5 @@
 {
-  "created": 1666910800,
+  "created": 1666913234,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/airlinereporter-2022",
@@ -8491,21 +8491,32 @@
       "format": "JSON"
     },
     {
+      "name": "airlinereporter-2022-10-27T15:45:29.924404-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-27T15:45:29.924404-07:00.jpg",
+      "mtime": "1666913158",
+      "size": "9475",
+      "md5": "f705c015a0c09a5ba16e98b08cd1e274",
+      "crc32": "9abe0d4c",
+      "sha1": "99c90147d3d0098b9b36ac4e44cd0768b8559b52"
+    },
+    {
       "name": "airlinereporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c8bd751d533856b379ef337d60a181433a9e7e9",
-      "mtime": "1666910793",
-      "size": "179947",
-      "md5": "ce213206951c5de3f7839caaaf030fed",
-      "crc32": "af4f367a",
-      "sha1": "f8e6f5cd2bae333a903d08ee918ca308a986a14d",
+      "btih": "98bbf9c7d4e45c88696e0ae88bc7eb46eb323644",
+      "mtime": "1666913183",
+      "size": "180158",
+      "md5": "2d82f3d873a2ed8b3ff9bf0303089068",
+      "crc32": "eeb03ebd",
+      "sha1": "46be47bc0507784d72c66d076e6c0f0ad462b2fc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airlinereporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c9cc1e3ede2fe4ed1749a23a32291c9",
+      "md5": "81d818c7da60c0fd85dc90c964054009",
       "summation": "md5"
     },
     {
@@ -8529,9 +8540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 825,
-  "item_last_updated": 1666910793,
-  "item_size": 54869894,
+  "files_count": 826,
+  "item_last_updated": 1666913183,
+  "item_size": 54879580,
   "metadata": {
     "identifier": "airlinereporter-2022",
     "collection": [
@@ -8548,21 +8559,10 @@
     "publicdate": "2022-08-20 22:59:16",
     "addeddate": "2022-08-20 22:59:16"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454506361,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 356746558,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1245000957,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

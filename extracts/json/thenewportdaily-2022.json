@@ -1,5 +1,5 @@
 {
-  "created": 1666883569,
+  "created": 1666895813,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/thenewportdaily-2022",
@@ -4583,21 +4583,32 @@
       "format": "JSON"
     },
     {
+      "name": "thenewportdaily-2022-10-27T11:11:35.874572-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewportdaily-2022-10-27T11:11:35.874572-04:00.jpg",
+      "mtime": "1666895574",
+      "size": "9392",
+      "md5": "45a580e902e62fc4a34e519b4b0cba62",
+      "crc32": "d73bfe77",
+      "sha1": "3b9b0126119ee8f05cef05d40d5cc8366547232f"
+    },
+    {
       "name": "thenewportdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cfcd914daf4f14ac5b4d3028ae0db3f9cba4fbc9",
-      "mtime": "1666883565",
-      "size": "97731",
-      "md5": "c866a76abd58a07604349cecc13cbf51",
-      "crc32": "b83694f0",
-      "sha1": "c6c3741a8db6644badd137a2af6f54d3eef1c171",
+      "btih": "18b8d851bc1cf901d9e42390feb6274347996253",
+      "mtime": "1666895578",
+      "size": "97962",
+      "md5": "40d6a397a473f72fd57ce47314d817b0",
+      "crc32": "a070e408",
+      "sha1": "7a9b1190bf2afd686cb40096ee59ba25f9af1990",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewportdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6752201348fbb67a6c151fad859a670",
+      "md5": "2b426e731fd29ec938e95043231866a3",
       "summation": "md5"
     },
     {
@@ -4621,9 +4632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1666883565,
-  "item_size": 29977404,
+  "files_count": 448,
+  "item_last_updated": 1666895578,
+  "item_size": 29987027,
   "metadata": {
     "identifier": "thenewportdaily-2022",
     "collection": [
@@ -4640,21 +4651,10 @@
     "publicdate": "2022-09-21 03:45:16",
     "addeddate": "2022-09-21 03:45:16"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454197441,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1198975518,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1450847637,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

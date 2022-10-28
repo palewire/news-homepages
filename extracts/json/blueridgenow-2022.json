@@ -1,5 +1,5 @@
 {
-  "created": 1666910954,
+  "created": 1666913397,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/35/items/blueridgenow-2022",
@@ -4685,21 +4685,32 @@
       "format": "JSON"
     },
     {
+      "name": "blueridgenow-2022-10-27T18:47:57.591056-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blueridgenow-2022-10-27T18:47:57.591056-04:00.jpg",
+      "mtime": "1666913364",
+      "size": "9211",
+      "md5": "80523b6be2ede40c909b83b5e6c29380",
+      "crc32": "e8e42410",
+      "sha1": "57f8014d0d57a4d2247d63ceb07231402d5a3faf"
+    },
+    {
       "name": "blueridgenow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5983829bfdd3cf8fa275f401cbdd09fcd914276f",
-      "mtime": "1666910945",
-      "size": "98570",
-      "md5": "323eaac8c2a630fd7d18b390a38bb6fb",
-      "crc32": "cd04dfc2",
-      "sha1": "f24e1d5cd8006dec292b3fa1321b66b7f06aecd4",
+      "btih": "0485727e0df6c1ce4540a59937924a0be4fa0c92",
+      "mtime": "1666913370",
+      "size": "98778",
+      "md5": "06c3e5c74b32bd4099059a3ce0e1f8a5",
+      "crc32": "88a4c1e1",
+      "sha1": "9efae80da274386193423a0b2c8a6d6c1f34217d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blueridgenow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ed3fc4dc65bb0920eee59a574ceceba",
+      "md5": "9890099ef2ad88dfc625c8dd24b0e2dd",
       "summation": "md5"
     },
     {
@@ -4723,9 +4734,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 457,
-  "item_last_updated": 1666910945,
-  "item_size": 31044797,
+  "files_count": 458,
+  "item_last_updated": 1666913370,
+  "item_size": 31054216,
   "metadata": {
     "identifier": "blueridgenow-2022",
     "collection": [
@@ -4742,21 +4753,10 @@
     "publicdate": "2022-09-20 22:12:10",
     "addeddate": "2022-09-20 22:12:10"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454509851,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1335670371,
+  "uniq": 694461672,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

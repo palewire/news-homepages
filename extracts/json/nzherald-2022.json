@@ -1,5 +1,5 @@
 {
-  "created": 1666898519,
+  "created": 1666906441,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/20/items/nzherald-2022",
@@ -10307,21 +10307,32 @@
       "format": "JSON"
     },
     {
+      "name": "nzherald-2022-10-28T08:20:48.415577+13:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nzherald-2022-10-28T08:20:48.415577+13:00.jpg",
+      "mtime": "1666906392",
+      "size": "8657",
+      "md5": "16f48432dd188d26f5e71dbf8b4ac667",
+      "crc32": "96b4fb59",
+      "sha1": "417561c09c3244fe921907f17d1d6d509ef8751b"
+    },
+    {
       "name": "nzherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2b597fe892c2a4dba51b463da851349710aeb07f",
-      "mtime": "1666898515",
-      "size": "212833",
-      "md5": "c8fa36defa2d6b74885660cad1d26220",
-      "crc32": "f3b84fe0",
-      "sha1": "8a1d7f0c639c7b42dcd49bc4018181ed7f8fc370",
+      "btih": "a61b4ea080b227815ab989883cac614777c66dd5",
+      "mtime": "1666906425",
+      "size": "213037",
+      "md5": "5f1abad95f83a1ea2ed5a53d8b225326",
+      "crc32": "91aa44e2",
+      "sha1": "f3bcc1887646517166319ccf38ec874c2eb15f67",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nzherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4e6fd00299a17b4d62c3ee78c3c21ab",
+      "md5": "881995e685d6577aa81980beea5fa73e",
       "summation": "md5"
     },
     {
@@ -10345,9 +10356,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1001,
-  "item_last_updated": 1666898515,
-  "item_size": 105380654,
+  "files_count": 1002,
+  "item_last_updated": 1666906425,
+  "item_size": 105389515,
   "metadata": {
     "identifier": "nzherald-2022",
     "collection": [
@@ -10364,21 +10375,10 @@
     "publicdate": "2022-08-05 04:36:58",
     "addeddate": "2022-08-05 04:36:58"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454354038,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 182749947,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1365437279,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

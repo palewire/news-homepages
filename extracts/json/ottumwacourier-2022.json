@@ -1,5 +1,5 @@
 {
-  "created": 1666880191,
+  "created": 1666918368,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/4/items/ottumwacourier-2022",
@@ -16241,21 +16241,32 @@
       "format": "JSON"
     },
     {
+      "name": "ottumwacourier-2022-10-27T09:15:16.250932-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ottumwacourier-2022-10-27T09:15:16.250932-05:00.jpg",
+      "mtime": "1666893782",
+      "size": "10001",
+      "md5": "1a8b6874301d2f4c58cccba23d565d3c",
+      "crc32": "7e58c53b",
+      "sha1": "6ccfcb2ba8ed684db400d15c8a0e7691e2f9829f"
+    },
+    {
       "name": "ottumwacourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe9423fdefd580b002f6af951c82ba2aa83bfdee",
-      "mtime": "1666880188",
-      "size": "340264",
-      "md5": "04d5944d4cdc76ca37c923b762abd964",
-      "crc32": "133d96c1",
-      "sha1": "0b0e31f7f22c2cccf81fe6cdecaa983b3d144a10",
+      "btih": "38869d9b677bba878b1aed9e875e1f49c0075499",
+      "mtime": "1666893809",
+      "size": "340475",
+      "md5": "c7ecbe78d4853cf6058e59841cc25fb8",
+      "crc32": "5606860c",
+      "sha1": "6ac4621019b5458282654accc93bb2dff488c8c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottumwacourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b7d9938d9d1d19c1441693878b1b95a",
+      "md5": "563ce6391548959a0082ef0154e8b068",
       "summation": "md5"
     },
     {
@@ -16279,9 +16290,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1565,
-  "item_last_updated": 1666880188,
-  "item_size": 152237558,
+  "files_count": 1566,
+  "item_last_updated": 1666893809,
+  "item_size": 152247770,
   "metadata": {
     "identifier": "ottumwacourier-2022",
     "collection": [
@@ -16298,21 +16309,15 @@
     "publicdate": "2022-06-24 22:59:27",
     "addeddate": "2022-06-24 22:59:27"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167358,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1605909738,
+  "ottumwacourier-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia802509.us.archive.org",
+  "uniq": 386763924,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

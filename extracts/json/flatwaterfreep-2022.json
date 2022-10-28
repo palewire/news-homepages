@@ -1,5 +1,5 @@
 {
-  "created": 1666899331,
+  "created": 1666916460,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/8/items/flatwaterfreep-2022",
@@ -12879,21 +12879,32 @@
       "format": "JSON"
     },
     {
+      "name": "flatwaterfreep-2022-10-27T12:55:11.325216-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flatwaterfreep-2022-10-27T12:55:11.325216-05:00.jpg",
+      "mtime": "1666902648",
+      "size": "8696",
+      "md5": "a0715d2a3d241b7bf79226a3186c39ba",
+      "crc32": "0ca58be5",
+      "sha1": "1024b3d36e06a8dddaac64aa7e01144b5f4ed900"
+    },
+    {
       "name": "flatwaterfreep-2022_archive.torrent",
       "source": "metadata",
-      "btih": "220b2759fa7230461f1f438d652ba6f0c240556e",
-      "mtime": "1666893405",
-      "size": "269418",
-      "md5": "9aa67d784924ec6bfe45791bdbf2c7a3",
-      "crc32": "db84a952",
-      "sha1": "61b4e5f508c0a858d69d0c0d221a581e6bd04a12",
+      "btih": "3f5b22a45e8770115c8b7d67bde6dd97cc36432f",
+      "mtime": "1666902720",
+      "size": "269628",
+      "md5": "96dd1e7e096cf2b48a06fbac5093956b",
+      "crc32": "8d8698e7",
+      "sha1": "a1d959597b6d327340dcfad677415bd83e3128f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flatwaterfreep-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd3101f6aa2504aebd5a31f49f9b0c15",
+      "md5": "d3cf7a3bcbf979b5dd33e23fdab99bfd",
       "summation": "md5"
     },
     {
@@ -12917,7 +12928,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1247,
+  "files_count": 1248,
   "flatwaterfreep-2022": {
     "url": "https://www.flatwaterfreepress.org/",
     "job_id": "spn2-48c2ead30cc568fa3f73c169344ecfde93539c3b",
@@ -13011,8 +13022,8 @@
     "duration_sec": 10.436,
     "screenshot": "http://web.archive.org/screenshot/https://www.flatwaterfreepress.org/"
   },
-  "item_last_updated": 1666893405,
-  "item_size": 64318379,
+  "item_last_updated": 1666902720,
+  "item_size": 64327285,
   "metadata": {
     "identifier": "flatwaterfreep-2022",
     "collection": [
@@ -13029,21 +13040,10 @@
     "publicdate": "2022-07-09 03:58:17",
     "addeddate": "2022-07-09 03:58:17"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300955,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1884363400,
+  "uniq": 2108645542,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666910814,
+  "created": 1666913463,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/18/items/100reporters-2022",
@@ -12940,21 +12940,32 @@
       "format": "JSON"
     },
     {
+      "name": "100reporters-2022-10-27T18:45:42.945255-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "100reporters-2022-10-27T18:45:42.945255-04:00.jpg",
+      "mtime": "1666913373",
+      "size": "9469",
+      "md5": "795b8bb0a3c5c13ef58dcce5b2c4d65e",
+      "crc32": "a780aa1f",
+      "sha1": "78c5a4575840d40d70f48dc0d6802dc22f5e881d"
+    },
+    {
       "name": "100reporters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99e76d7eb9fc5533cc19d8bd54b146e6bc5395f9",
-      "mtime": "1666910809",
-      "size": "269140",
-      "md5": "da5fa19fbea1dfbe74e8978318cebd29",
-      "crc32": "d06adf1a",
-      "sha1": "0660917e175582fd921fcae82cac6f62fa4493a9",
+      "btih": "12a7a6e198169e2029c2fa449ab16a32d61970c0",
+      "mtime": "1666913394",
+      "size": "269348",
+      "md5": "ec9c7b4a9ec4d1254ec7cdba437b2f21",
+      "crc32": "5b73fef8",
+      "sha1": "f9174944ae4a681223a548e813a9f8e0235783d0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "100reporters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0af31b497b4db1905fdca140b60482f",
+      "md5": "3a96005a8a8d72c1483ac37b8208f0c9",
       "summation": "md5"
     },
     {
@@ -12989,9 +13000,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1254,
-  "item_last_updated": 1666910809,
-  "item_size": 76896210,
+  "files_count": 1255,
+  "item_last_updated": 1666913394,
+  "item_size": 76905887,
   "metadata": {
     "identifier": "100reporters-2022",
     "collection": [
@@ -13008,21 +13019,10 @@
     "publicdate": "2022-07-09 03:55:34",
     "addeddate": "2022-07-09 03:55:34"
   },
-  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454506678,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1486943793,
+  "uniq": 1710359687,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

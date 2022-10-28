@@ -1,5 +1,5 @@
 {
-  "created": 1666883768,
+  "created": 1666918916,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/ruidosonews-2022",
@@ -4583,21 +4583,32 @@
       "format": "JSON"
     },
     {
+      "name": "ruidosonews-2022-10-27T08:18:23.603286-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ruidosonews-2022-10-27T08:18:23.603286-06:00.jpg",
+      "mtime": "1666893586",
+      "size": "8867",
+      "md5": "7d5d7c912e87d76271835a620c5973cd",
+      "crc32": "0669876e",
+      "sha1": "7c842ac095e1430cb9df95d679c0de9c3e95158b"
+    },
+    {
       "name": "ruidosonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "03f75ffeca66a4f9fa11a6ab5587993a6fe12869",
-      "mtime": "1666880384",
-      "size": "95804",
-      "md5": "107f87362c30a22e25a77dc9f2dff6ef",
-      "crc32": "6481c82a",
-      "sha1": "484b199522676162a98cc7248f52462ade20aed3",
+      "btih": "e738a722271954466678af7556afbc8e922bd745",
+      "mtime": "1666893596",
+      "size": "96011",
+      "md5": "451eef3b2f7b5999ac74f4c2196d16ea",
+      "crc32": "ba251759",
+      "sha1": "9ed0ba7ab5a12d3776ebbce770e6f90b66dd9097",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ruidosonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a65448ecd087fbd36b97bf16e1f4613f",
+      "md5": "da8a8d73f85abd0b20017fd6cc214cf2",
       "summation": "md5"
     },
     {
@@ -4621,9 +4632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1666880384,
-  "item_size": 26966694,
+  "files_count": 448,
+  "item_last_updated": 1666893596,
+  "item_size": 26975768,
   "metadata": {
     "identifier": "ruidosonews-2022",
     "collection": [
@@ -4640,26 +4651,15 @@
     "publicdate": "2022-09-21 02:24:31",
     "addeddate": "2022-09-21 02:24:31"
   },
-  "pending_tasks": true,
   "ruidosonews-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169381,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 249171496,
+  "server": "ia801402.us.archive.org",
+  "uniq": 1533658738,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

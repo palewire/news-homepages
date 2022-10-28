@@ -1,5 +1,5 @@
 {
-  "created": 1666893322,
+  "created": 1666902606,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/dallasnews-2022",
@@ -14569,21 +14569,32 @@
       "format": "JSON"
     },
     {
+      "name": "dallasnews-2022-10-27T12:53:37.725165-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasnews-2022-10-27T12:53:37.725165-05:00.jpg",
+      "mtime": "1666902546",
+      "size": "6907",
+      "md5": "c9790f9e3163f97750e91bef0ec0471c",
+      "crc32": "5c524b4b",
+      "sha1": "c2b0be2778f2797a69ee5bf7534f1b5e05da586b"
+    },
+    {
       "name": "dallasnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c2e9949427db860be5d530fa7e6ef9fd51355f69",
-      "mtime": "1666893301",
-      "size": "299596",
-      "md5": "9dfcd8553fbda4f48a659f2c801cb0f4",
-      "crc32": "31160438",
-      "sha1": "e1c549ee9ed363749f92c83fa8b6a999948043e5",
+      "btih": "2217b6a21b39a08d10b3df941aa0e513870fe300",
+      "mtime": "1666902584",
+      "size": "299802",
+      "md5": "2fb2c789aa4430625d19240382d1049a",
+      "crc32": "23ba5b21",
+      "sha1": "f1e3d47854661eea4d69a0364514f7b9141e67f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ee3d9ef8b953b810c5c833091c985653",
+      "md5": "ecb5be779bbab124be95e3f47df52dd4",
       "summation": "md5"
     },
     {
@@ -14607,9 +14618,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1408,
-  "item_last_updated": 1666893301,
-  "item_size": 100729365,
+  "files_count": 1409,
+  "item_last_updated": 1666902584,
+  "item_size": 100736478,
   "metadata": {
     "identifier": "dallasnews-2022",
     "collection": [
@@ -14626,21 +14637,10 @@
     "publicdate": "2022-06-24 22:54:46",
     "addeddate": "2022-06-24 22:54:46"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300119,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1740709917,
+  "server": "ia801502.us.archive.org",
+  "uniq": 788627345,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

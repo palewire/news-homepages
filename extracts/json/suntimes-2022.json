@@ -1,5 +1,5 @@
 {
-  "created": 1666886788,
+  "created": 1666919276,
   "d1": "ia904706.us.archive.org",
   "d2": "ia804706.us.archive.org",
   "dir": "/33/items/suntimes-2022",
@@ -20971,21 +20971,32 @@
       "format": "JSON"
     },
     {
+      "name": "suntimes-2022-10-27T11:03:59.173769-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "suntimes-2022-10-27T11:03:59.173769-05:00.jpg",
+      "mtime": "1666897372",
+      "size": "9662",
+      "md5": "b9cf686d641a8ad470aff94a61f08d0c",
+      "crc32": "153a95eb",
+      "sha1": "6ac1430d316cba3b1ee36ef1ca822ed28bd57e36"
+    },
+    {
       "name": "suntimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "427ea5ae0a360f1af6cceb6e86d0d7d67cb8340d",
-      "mtime": "1666886778",
-      "size": "426735",
-      "md5": "af7b311f558751ab73f05aea16cdf417",
-      "crc32": "6b0efea6",
-      "sha1": "a67c87cd10b8f999485067e51b282e84a138db2f",
+      "btih": "869131eba45a0f10df66d746843871cdc935782e",
+      "mtime": "1666897426",
+      "size": "426939",
+      "md5": "a2168ffb7eb3a5e95edfce1de9a30092",
+      "crc32": "472805b2",
+      "sha1": "8e6c8f92eb47c4b14b0741cf678e07978784a096",
       "format": "Archive BitTorrent"
     },
     {
       "name": "suntimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19d819e1e1aafa557b889e7b477ad7c1",
+      "md5": "4f772cd6439dc5a5b261476440c85b75",
       "summation": "md5"
     },
     {
@@ -21009,9 +21020,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2026,
-  "item_last_updated": 1666886778,
-  "item_size": 142199754,
+  "files_count": 2027,
+  "item_last_updated": 1666897426,
+  "item_size": 142209620,
   "metadata": {
     "identifier": "suntimes-2022",
     "collection": [
@@ -21028,21 +21039,15 @@
     "publicdate": "2022-06-24 23:02:19",
     "addeddate": "2022-06-24 23:02:19"
   },
-  "pending_tasks": true,
-  "server": "ia904706.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454232703,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1683208411,
+  "server": "ia804706.us.archive.org",
+  "suntimes-2022": {
+    "url": "https://chicago.suntimes.com/",
+    "job_id": "spn2-e47350cbd559d97c0e1d2ceba8a9b8d3cec23870",
+    "message": "The same snapshot had been made 24 minutes, 7 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "uniq": 1814631135,
   "workable_servers": [
+    "ia804706.us.archive.org",
     "ia904706.us.archive.org"
   ]
 }

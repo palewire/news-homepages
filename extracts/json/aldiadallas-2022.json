@@ -1,5 +1,5 @@
 {
-  "created": 1666910837,
+  "created": 1666913414,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/28/items/aldiadallas-2022",
@@ -11537,21 +11537,32 @@
       "format": "JSON"
     },
     {
+      "name": "aldiadallas-2022-10-27T17:46:07.233180-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aldiadallas-2022-10-27T17:46:07.233180-05:00.jpg",
+      "mtime": "1666913253",
+      "size": "8528",
+      "md5": "12631646b175abfd2d28551d35f34f80",
+      "crc32": "52fb912c",
+      "sha1": "280675256ce18e5016025a296ea1f6f610f0eab6"
+    },
+    {
       "name": "aldiadallas-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1eab49deb767019b2c2b377490dae04674c932bb",
-      "mtime": "1666910831",
-      "size": "239089",
-      "md5": "4b353b65b77e889134ea0670bd0ca911",
-      "crc32": "6f01230e",
-      "sha1": "33f254a1eced72ebb6418d7ed91c399b10532374",
+      "btih": "017eba5186690937353bc38e8fec6df549d92c9d",
+      "mtime": "1666913368",
+      "size": "239296",
+      "md5": "f2066aca1f5c77cfa9b94d789c8ee774",
+      "crc32": "805884a8",
+      "sha1": "04760a06028c2eff74003a868756fd06c3d802e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aldiadallas-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "201930a1ca2b7f4219892b4f8c54800c",
+      "md5": "2c51d49571d18d95247b79388cde6a1a",
       "summation": "md5"
     },
     {
@@ -11575,9 +11586,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1119,
-  "item_last_updated": 1666910831,
-  "item_size": 70353913,
+  "files_count": 1120,
+  "item_last_updated": 1666913368,
+  "item_size": 70362648,
   "metadata": {
     "identifier": "aldiadallas-2022",
     "collection": [
@@ -11594,21 +11605,10 @@
     "publicdate": "2022-07-25 23:06:21",
     "addeddate": "2022-07-25 23:06:21"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454507170,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1924619180,
+  "uniq": 981389707,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

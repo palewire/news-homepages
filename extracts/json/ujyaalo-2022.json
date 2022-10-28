@@ -1,5 +1,5 @@
 {
-  "created": 1666887388,
+  "created": 1666919853,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/19/items/ujyaalo-2022",
@@ -11491,21 +11491,32 @@
       "format": "JSON"
     },
     {
+      "name": "ujyaalo-2022-10-27T20:58:50.376914+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ujyaalo-2022-10-27T20:58:50.376914+05:45.jpg",
+      "mtime": "1666895495",
+      "size": "10059",
+      "md5": "35b4e49545b82cd8df376aa527c5b8ff",
+      "crc32": "ad1f0e3a",
+      "sha1": "0f79928d004fbdc8d747b6910df2e69874f9b2a1"
+    },
+    {
       "name": "ujyaalo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32288c0931b056554a7bc11e7c98ba4bd2f45f02",
-      "mtime": "1666883711",
-      "size": "234317",
-      "md5": "8f489b4e8c31d7728c074a0e0cc404b1",
-      "crc32": "14b4129e",
-      "sha1": "5aff3991e7fc51d1396d7073716e09701c1eeb8b",
+      "btih": "43861f584bdd3b2b9e079aeac272e274085f4207",
+      "mtime": "1666895508",
+      "size": "234521",
+      "md5": "b67df60d22ed92434781c779e895542e",
+      "crc32": "50d3676c",
+      "sha1": "bee6aeacb963afb6c2097c28c9dc8f29d656559a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ujyaalo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db09b60e2f2656d0f37987c5e62a9248",
+      "md5": "0547659d375c777549258c6559311a29",
       "summation": "md5"
     },
     {
@@ -11529,9 +11540,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1115,
-  "item_last_updated": 1666883711,
-  "item_size": 83606273,
+  "files_count": 1116,
+  "item_last_updated": 1666895508,
+  "item_size": 83616536,
   "metadata": {
     "identifier": "ujyaalo-2022",
     "collection": [
@@ -11548,26 +11559,15 @@
     "publicdate": "2022-07-24 20:39:52",
     "addeddate": "2022-07-24 20:39:52"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454198933,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
   "ujyaalo-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 974072311,
+  "uniq": 849749172,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

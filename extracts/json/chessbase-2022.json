@@ -1,5 +1,5 @@
 {
-  "created": 1666913832,
+  "created": 1666915099,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/chessbase-2022",
@@ -12141,21 +12141,32 @@
       "format": "JSON"
     },
     {
+      "name": "chessbase-2022-10-28T01:35:53.080990+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chessbase-2022-10-28T01:35:53.080990+02:00.jpg",
+      "mtime": "1666915040",
+      "size": "10852",
+      "md5": "f04c170e27a241d8f3bb18b5a84b260d",
+      "crc32": "127a5039",
+      "sha1": "a111fed867494352395a31e75222362880d8fd89"
+    },
+    {
       "name": "chessbase-2022_archive.torrent",
       "source": "metadata",
-      "btih": "799c12bb7091103823bc55631b407332fb1bdff4",
-      "mtime": "1666913818",
-      "size": "250117",
-      "md5": "3ab642f99a0eb2889ae7c12d419a6b1a",
-      "crc32": "c9f0cbc6",
-      "sha1": "5198b26acda218627835ba9836c3e2233eed1b94",
+      "btih": "8fc3b541b0f1c77ceb380b6b2b118c5410aea5b3",
+      "mtime": "1666915056",
+      "size": "250323",
+      "md5": "c48ac898df21e15b80c9a8531c2fbfae",
+      "crc32": "a572c0dc",
+      "sha1": "e23472de23e36cd142968f311c83af616ab91f20",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chessbase-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fdbc1898493ba401ecf8f779887cb685",
+      "md5": "8be972a4f186e6ade6082b6f54d2ae7f",
       "summation": "md5"
     },
     {
@@ -12179,9 +12190,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1177,
-  "item_last_updated": 1666913818,
-  "item_size": 95552559,
+  "files_count": 1178,
+  "item_last_updated": 1666915056,
+  "item_size": 95563617,
   "metadata": {
     "identifier": "chessbase-2022",
     "collection": [
@@ -12198,21 +12209,10 @@
     "publicdate": "2022-07-20 11:23:28",
     "addeddate": "2022-07-20 11:23:28"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454569632,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1388558691,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1336179321,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

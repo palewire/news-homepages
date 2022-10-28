@@ -1,5 +1,5 @@
 {
-  "created": 1666889999,
+  "created": 1666920013,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/29/items/wbrcnews-2022",
@@ -5709,21 +5709,32 @@
       "format": "JSON"
     },
     {
+      "name": "wbrcnews-2022-10-27T11:09:59.074058-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbrcnews-2022-10-27T11:09:59.074058-05:00.jpg",
+      "mtime": "1666897899",
+      "size": "10904",
+      "md5": "04d615cefe00c95234b265582f0d6f20",
+      "crc32": "f696afa7",
+      "sha1": "c213d460583c9cf54b59c6f058b0f3c0ce4958f1"
+    },
+    {
       "name": "wbrcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00566dfa209a85d222ab5d9609f4fa8f08dfedf6",
-      "mtime": "1666887060",
-      "size": "117853",
-      "md5": "2ca33e80fc49b5a2c75501f3a23c5aa7",
-      "crc32": "d02cb4a7",
-      "sha1": "a9759cdb870e6ed7be802640b4232124ed92a21e",
+      "btih": "08e152f8f4c8109f35f9bda1f84bdc02661ee4ff",
+      "mtime": "1666897908",
+      "size": "118058",
+      "md5": "916d558283270aeb97cb141a73f5b228",
+      "crc32": "f235c2b7",
+      "sha1": "34d56a91bbed51f8dbc0df39929a57d221d3c4e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbrcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8fc0f2585878caa0a8767960d4371fdb",
+      "md5": "a60f6bed082bdaf4855c69391778fa68",
       "summation": "md5"
     },
     {
@@ -5747,9 +5758,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 556,
-  "item_last_updated": 1666887060,
-  "item_size": 44759128,
+  "files_count": 557,
+  "item_last_updated": 1666897908,
+  "item_size": 44770237,
   "metadata": {
     "identifier": "wbrcnews-2022",
     "collection": [
@@ -5766,20 +5777,8 @@
     "publicdate": "2022-09-12 02:46:04",
     "addeddate": "2022-09-12 02:46:04"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454237675,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1306580419,
+  "uniq": 204286808,
   "wbrcnews-2022": {
     "url": "https://www.wbrc.com/",
     "job_id": "spn2-90b681a804dc5fc2f347a75c93c71177db57ef12",
@@ -6129,6 +6128,7 @@
     "screenshot": "http://web.archive.org/screenshot/https://www.wbrc.com/"
   },
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666899078,
+  "created": 1666919037,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -20281,21 +20281,32 @@
       "format": "JSON"
     },
     {
+      "name": "sfchronicle-2022-10-27T12:29:20.090560-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-10-27T12:29:20.090560-07:00.jpg",
+      "mtime": "1666907139",
+      "size": "10135",
+      "md5": "b04f4e1cd132941bebe795f477f3e646",
+      "crc32": "00d510fe",
+      "sha1": "f7d24c11d2b4cff1cfff144f06c15778c5d96db4"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3629db2c3c06c712bcc44ffe86debfe1aa5bcf61",
-      "mtime": "1666899073",
-      "size": "420254",
-      "md5": "b1f18ecd3c8cb872f65affd7dfd76a3c",
-      "crc32": "3e2931f8",
-      "sha1": "2dab307fa24912c1f223442385a5e1b44289b521",
+      "btih": "28cce9d260108659ef471a02de3d8e070c700ed6",
+      "mtime": "1666907173",
+      "size": "420462",
+      "md5": "f4a85f0293a26b638b738c90a93adda0",
+      "crc32": "fc53780d",
+      "sha1": "9dfe321da4d04503d2260091e6a0cffcc4996f52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "643ba0a0237c1076979abfd683a5cbdb",
+      "md5": "de0ef24f4e2da274772df24dfef2fea1",
       "summation": "md5"
     },
     {
@@ -20319,9 +20330,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1951,
-  "item_last_updated": 1666899073,
-  "item_size": 223091710,
+  "files_count": 1952,
+  "item_last_updated": 1666907173,
+  "item_size": 223102053,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -20338,21 +20349,15 @@
     "publicdate": "2022-03-23 02:09:45",
     "addeddate": "2022-03-23 02:09:45"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454359199,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1902151378,
+  "sfchronicle-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1583620902,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666899262,
+  "created": 1666916400,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/fastcompany-2022",
@@ -12630,21 +12630,32 @@
       "format": "JSON"
     },
     {
+      "name": "fastcompany-2022-10-27T13:54:54.300769-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fastcompany-2022-10-27T13:54:54.300769-04:00.jpg",
+      "mtime": "1666902883",
+      "size": "10941",
+      "md5": "e3de8af3b5f305e3f34644da9e95ca81",
+      "crc32": "ad585ab0",
+      "sha1": "1bd66c05ef64bba6c91ef154eb5eae20a45f613f"
+    },
+    {
       "name": "fastcompany-2022_archive.torrent",
       "source": "metadata",
-      "btih": "679b06fad9cd05d6ad44d543b89d17ceae63fa71",
-      "mtime": "1666893401",
-      "size": "261401",
-      "md5": "0fe439986ef037d361fe32202fc4dbfc",
-      "crc32": "b3e160c6",
-      "sha1": "34d248815345ced00f3d5ccaf5a92b4ea4ce23c5",
+      "btih": "34a22f6361203c6d0231d97e55fc5fa5de845b6c",
+      "mtime": "1666902907",
+      "size": "261609",
+      "md5": "aa4f5911783ced3e5021aefe77f41653",
+      "crc32": "1e95447f",
+      "sha1": "71fcbdc4d0733e9867c7b7da7a65100f4b35ac37",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fastcompany-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb0f7e8e99e2acc860088834a0169d2e",
+      "md5": "d7493866b2035eb6bebffa0cddabf1ee",
       "summation": "md5"
     },
     {
@@ -12668,9 +12679,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1220,
-  "item_last_updated": 1666893401,
-  "item_size": 106071832,
+  "files_count": 1221,
+  "item_last_updated": 1666902907,
+  "item_size": 106082981,
   "metadata": {
     "identifier": "fastcompany-2022",
     "collection": [
@@ -12687,21 +12698,10 @@
     "publicdate": "2022-07-04 20:48:13",
     "addeddate": "2022-07-04 20:48:13"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300962,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 80157912,
+  "server": "ia801505.us.archive.org",
+  "uniq": 369866062,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

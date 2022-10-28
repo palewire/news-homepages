@@ -1,5 +1,5 @@
 {
-  "created": 1666883512,
+  "created": 1666919460,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/18/items/thedailyrecord-2022",
@@ -4561,21 +4561,32 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyrecord-2022-10-27T11:10:44.031579-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyrecord-2022-10-27T11:10:44.031579-04:00.jpg",
+      "mtime": "1666895488",
+      "size": "9392",
+      "md5": "a2d29bc816344f9a2e308b96c74d599e",
+      "crc32": "74dd11e7",
+      "sha1": "3727be54cbddfee096327b2660c6a9816773e772"
+    },
+    {
       "name": "thedailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7c4db77b86c666c1dae40759df466e467b7708f6",
-      "mtime": "1666883508",
-      "size": "96868",
-      "md5": "4cad032d78574cf8eb8a143f5358d4a4",
-      "crc32": "7d41f7e1",
-      "sha1": "8666f035ed919eb6e7f55c645b0b91cf0b89f78e",
+      "btih": "2465972f7d2ba8c0750016fa7794527edba49bb1",
+      "mtime": "1666895499",
+      "size": "97078",
+      "md5": "eb2608e506321e6d742b8997c58a5834",
+      "crc32": "7661ede6",
+      "sha1": "7d514998bfca364ca16c4bd1cf9b7812bf3ce0ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b52cbce9f4bdd23db3e2e3ba0b76811a",
+      "md5": "ed36b718f289a69c4d809e8013d46396",
       "summation": "md5"
     },
     {
@@ -4599,9 +4610,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 445,
-  "item_last_updated": 1666883508,
-  "item_size": 29783267,
+  "files_count": 446,
+  "item_last_updated": 1666895499,
+  "item_size": 29792869,
   "metadata": {
     "identifier": "thedailyrecord-2022",
     "collection": [
@@ -4618,21 +4629,15 @@
     "publicdate": "2022-09-21 03:45:15",
     "addeddate": "2022-09-21 03:45:15"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454196753,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1404932533,
+  "thedailyrecord-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1610693810,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

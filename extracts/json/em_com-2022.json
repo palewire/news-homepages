@@ -1,5 +1,5 @@
 {
-  "created": 1666899146,
+  "created": 1666916371,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/11/items/em_com-2022",
@@ -14968,21 +14968,32 @@
       "format": "JSON"
     },
     {
+      "name": "em_com-2022-10-27T14:55:01.884527-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "em_com-2022-10-27T14:55:01.884527-03:00.jpg",
+      "mtime": "1666902617",
+      "size": "9633",
+      "md5": "92c009f880e2bfcbfbd8a6577391891f",
+      "crc32": "094c7d60",
+      "sha1": "4ffdcf8b5d7449f14b4871d027558bb468e0edac"
+    },
+    {
       "name": "em_com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9490fb05880a69ca937817c0bd76a06cf5af25cf",
-      "mtime": "1666893395",
-      "size": "305566",
-      "md5": "cf2532796035a7ad5793f68b5b41d9a4",
-      "crc32": "27b9bcf7",
-      "sha1": "733626e741dc08931fb7764f294b1c81231cf850",
+      "btih": "82f62ee9a7d83a24a226023c501e24a46d1250f3",
+      "mtime": "1666902658",
+      "size": "305768",
+      "md5": "dac28075ff8c3cfaab9a1f30427f73c2",
+      "crc32": "cb6ea7a5",
+      "sha1": "9f08f6e3049572f22309540c34512c4e9574c268",
       "format": "Archive BitTorrent"
     },
     {
       "name": "em_com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8eb70ff1b42347ecc1fbd87dddcc9a89",
+      "md5": "feb71630feb6c10b611ba9ab7061b6b2",
       "summation": "md5"
     },
     {
@@ -15006,9 +15017,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1451,
-  "item_last_updated": 1666893395,
-  "item_size": 162165186,
+  "files_count": 1452,
+  "item_last_updated": 1666902658,
+  "item_size": 162175021,
   "metadata": {
     "identifier": "em_com-2022",
     "collection": [
@@ -15025,21 +15036,10 @@
     "publicdate": "2022-08-04 04:55:27",
     "addeddate": "2022-08-04 04:55:27"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300874,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 33916743,
+  "server": "ia801401.us.archive.org",
+  "uniq": 581839422,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

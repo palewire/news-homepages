@@ -1,5 +1,10 @@
 {
-  "created": 1666898591,
+  "created": 1666916103,
+  "ctmirror-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/3/items/ctmirror-2022",
@@ -13063,21 +13068,32 @@
       "format": "JSON"
     },
     {
+      "name": "ctmirror-2022-10-27T13:49:55.086485-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctmirror-2022-10-27T13:49:55.086485-04:00.jpg",
+      "mtime": "1666902461",
+      "size": "10898",
+      "md5": "f882993c6e56bb6e8592527f34930207",
+      "crc32": "93d7cea0",
+      "sha1": "e063fa4e9f8228acb165bb17f81f63c9873640bb"
+    },
+    {
       "name": "ctmirror-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6522f7cd0c2c72b83abaaf0d89cc1ada839781c",
-      "mtime": "1666893099",
-      "size": "266821",
-      "md5": "fc666cff48be16a8201ca13e7b2a4638",
-      "crc32": "f2318521",
-      "sha1": "436dd34386e0a0aae3e4eb42d6cca8cfa90bf1b0",
+      "btih": "02abf28c2ef5630ec7aa2a9bab154cc67a286720",
+      "mtime": "1666902486",
+      "size": "267026",
+      "md5": "19567444066c90bea211664ffe0a7a31",
+      "crc32": "3f1e6b8b",
+      "sha1": "0b5d24d64d033b3cd594d1b14915087c6702d914",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmirror-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "939c7033c5df6b4d80ac6f1fda2ec06b",
+      "md5": "6a25ec368aa5370ce5c7bac37f13360b",
       "summation": "md5"
     },
     {
@@ -13101,9 +13117,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1265,
-  "item_last_updated": 1666893099,
-  "item_size": 86506596,
+  "files_count": 1266,
+  "item_last_updated": 1666902486,
+  "item_size": 86517699,
   "metadata": {
     "identifier": "ctmirror-2022",
     "collection": [
@@ -13120,21 +13136,10 @@
     "publicdate": "2022-07-09 03:58:07",
     "addeddate": "2022-07-09 03:58:07"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454297738,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1735430091,
+  "uniq": 826527927,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

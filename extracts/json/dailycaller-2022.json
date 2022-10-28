@@ -1,5 +1,5 @@
 {
-  "created": 1666913925,
+  "created": 1666915566,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/dailycaller-2022",
@@ -25559,21 +25559,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailycaller-2022-10-27T19:36:26.722688-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycaller-2022-10-27T19:36:26.722688-04:00.jpg",
+      "mtime": "1666915435",
+      "size": "11464",
+      "md5": "e870fa4085a0b56a5e9e69d4dc7a9527",
+      "crc32": "3d44a89f",
+      "sha1": "3679cd7c6aae34058c6cb39b677ae972cf43dadf"
+    },
+    {
       "name": "dailycaller-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c6dfec8fa80ee1d3c852d4cc9b3a6d7676db1bd",
-      "mtime": "1666913918",
-      "size": "526989",
-      "md5": "c7ab0a283b338d8a78898d6c2232c624",
-      "crc32": "132e94f7",
-      "sha1": "10aef60cfd048f29771cb4c1b3df18185ff91e7d",
+      "btih": "b8e399b09ee976b0e428bee2913150fbf33ff574",
+      "mtime": "1666915503",
+      "size": "527197",
+      "md5": "86530df7b4c6229a73e9b6ab20b59fed",
+      "crc32": "1062c1db",
+      "sha1": "ee82d89640eb34bfb01dee4887bb9fdba735e93a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycaller-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2363f17fd1ad2e711353ac3b1e83895d",
+      "md5": "2ea9fcdc586b5271f81e3645c6cae549",
       "summation": "md5"
     },
     {
@@ -25597,9 +25608,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2462,
-  "item_last_updated": 1666913918,
-  "item_size": 195965025,
+  "files_count": 2463,
+  "item_last_updated": 1666915503,
+  "item_size": 195976697,
   "metadata": {
     "identifier": "dailycaller-2022",
     "collection": [
@@ -25616,21 +25627,10 @@
     "publicdate": "2022-03-25 18:46:08",
     "addeddate": "2022-03-25 18:46:08"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454571699,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1864293257,
+  "server": "ia801401.us.archive.org",
+  "uniq": 570432909,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

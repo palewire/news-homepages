@@ -1,5 +1,5 @@
 {
-  "created": 1666887283,
+  "created": 1666919398,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/2/items/the_news_herald-2022",
@@ -4593,21 +4593,32 @@
       "format": "JSON"
     },
     {
+      "name": "the_news_herald-2022-10-27T10:07:42.137706-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_news_herald-2022-10-27T10:07:42.137706-05:00.jpg",
+      "mtime": "1666895227",
+      "size": "9355",
+      "md5": "577082b9f7a7df375b9f50096a121cce",
+      "crc32": "a97fd777",
+      "sha1": "8459e0ac738d2be3efa3e652e5e48e6eeb81962b"
+    },
+    {
       "name": "the_news_herald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ddfebf8ecfa98877c79b34aaa75212740516f53d",
-      "mtime": "1666883320",
-      "size": "97940",
-      "md5": "4a7fd118b7007df76c2847bce6a72630",
-      "crc32": "418cc949",
-      "sha1": "47c88da837d6c7192822e7ea4d204b56340116d1",
+      "btih": "2ea2ba3d2d061e810a9bccde0ee4ab6dd2759192",
+      "mtime": "1666895332",
+      "size": "98151",
+      "md5": "28f5fd8dc73c08bcfa1fbed2a8ed5b47",
+      "crc32": "45ba81eb",
+      "sha1": "71dbb525d6d3e0a12641e259187076193c8f8803",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_news_herald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "161df87c4cc6dcf470a35d0d65e466aa",
+      "md5": "5c13e29672e6bd8e1156378510ab0c91",
       "summation": "md5"
     },
     {
@@ -4631,9 +4642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666883320,
-  "item_size": 29650636,
+  "files_count": 449,
+  "item_last_updated": 1666895332,
+  "item_size": 29660202,
   "metadata": {
     "identifier": "the_news_herald-2022",
     "collection": [
@@ -4650,26 +4661,15 @@
     "publicdate": "2022-09-21 03:43:13",
     "addeddate": "2022-09-21 03:43:13"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454194609,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
+  "server": "ia801506.us.archive.org",
   "the_news_herald-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 943877637,
+  "uniq": 150169181,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

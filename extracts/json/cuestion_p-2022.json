@@ -1,5 +1,5 @@
 {
-  "created": 1666898618,
+  "created": 1666916120,
   "cuestion_p-2022": {
     "url": "https://cuestionpublica.com/",
     "job_id": "spn2-e19c0ae951b23d494f978ac117450e7569335d73",
@@ -10237,21 +10237,32 @@
       "format": "JSON"
     },
     {
+      "name": "cuestion_p-2022-10-27T12:50:47.291520-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cuestion_p-2022-10-27T12:50:47.291520-05:00.jpg",
+      "mtime": "1666902825",
+      "size": "9313",
+      "md5": "f39e43ef98d6ced03de3978efd17c3f2",
+      "crc32": "79f00173",
+      "sha1": "5d9e19357f625daed0ea5795ea9875eec2e89125"
+    },
+    {
       "name": "cuestion_p-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0aeca585671d7b1cd55030395ad7e92d0c9c3e10",
-      "mtime": "1666893112",
-      "size": "206354",
-      "md5": "4026c5127a3ad45722651103b7455b07",
-      "crc32": "746e5fa3",
-      "sha1": "763b397d76c91833ee4f8d65f0b594a3cd3b8e86",
+      "btih": "1b16694962f11ea24c7dda285ef0964e4f66ced3",
+      "mtime": "1666902838",
+      "size": "206560",
+      "md5": "e92020be5ba5e2570817d345f8e741db",
+      "crc32": "6faca4a3",
+      "sha1": "1198d34906a878adfe8f4e3f3435eef5d12d7c76",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cuestion_p-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "066b6d8f79ca3c080f7264c52a6a3930",
+      "md5": "fb66ee6705314fdf33cb2e049b91fe91",
       "summation": "md5"
     },
     {
@@ -10275,9 +10286,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 972,
-  "item_last_updated": 1666893112,
-  "item_size": 50168161,
+  "files_count": 973,
+  "item_last_updated": 1666902838,
+  "item_size": 50177680,
   "metadata": {
     "identifier": "cuestion_p-2022",
     "collection": [
@@ -10294,21 +10305,10 @@
     "publicdate": "2022-08-08 02:33:35",
     "addeddate": "2022-08-08 02:33:35"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454297879,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 584716569,
+  "server": "ia801408.us.archive.org",
+  "uniq": 69730737,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

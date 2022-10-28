@@ -1,5 +1,5 @@
 {
-  "created": 1666893391,
+  "created": 1666903013,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/elpaisuy-2022",
@@ -12807,21 +12807,32 @@
       "format": "JSON"
     },
     {
+      "name": "elpaisuy-2022-10-27T14:55:12.079893-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpaisuy-2022-10-27T14:55:12.079893-03:00.jpg",
+      "mtime": "1666902881",
+      "size": "10426",
+      "md5": "73a64df297132ce91b132c8d65de40ed",
+      "crc32": "a999e3f9",
+      "sha1": "6eaf018665b4971ea32636fbb015d640a85f577e"
+    },
+    {
       "name": "elpaisuy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9ffb9cf8e2c899e53ad019c692d546cd9a4546e8",
-      "mtime": "1666893384",
-      "size": "262103",
-      "md5": "b9729abb2cbbf29ecd5a7f35af80da9b",
-      "crc32": "f9a0e1ff",
-      "sha1": "4e87bdd03e071915f033d89f02a0b0dda6782abe",
+      "btih": "d99e8651b286bb152856e68abacbbf19e4506b8c",
+      "mtime": "1666902902",
+      "size": "262308",
+      "md5": "037b546a7bdb40e097ba0ab0819dfe6e",
+      "crc32": "c62607f8",
+      "sha1": "6ac891e4caef3ffb6add1cfebdf2177bfa21897a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpaisuy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bdd918b87e6f5fdc4b365484dc827bad",
+      "md5": "851b48a767a209b547ef481784e77dd4",
       "summation": "md5"
     },
     {
@@ -12845,9 +12856,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1240,
-  "item_last_updated": 1666893384,
-  "item_size": 101288374,
+  "files_count": 1241,
+  "item_last_updated": 1666902902,
+  "item_size": 101299005,
   "metadata": {
     "identifier": "elpaisuy-2022",
     "collection": [
@@ -12864,21 +12875,10 @@
     "publicdate": "2022-07-09 03:58:10",
     "addeddate": "2022-07-09 03:58:10"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300771,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1005127295,
+  "uniq": 1116249719,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

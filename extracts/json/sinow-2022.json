@@ -1,5 +1,5 @@
 {
-  "created": 1666883831,
+  "created": 1666915190,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/sinow-2022",
@@ -13297,21 +13297,32 @@
       "format": "JSON"
     },
     {
+      "name": "sinow-2022-10-27T10:18:16.407514-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sinow-2022-10-27T10:18:16.407514-04:00.jpg",
+      "mtime": "1666893863",
+      "size": "10851",
+      "md5": "22028523c7530112619a551fb1008563",
+      "crc32": "24766fee",
+      "sha1": "0590d81a02bed761f41dce71d95e105b4482379c"
+    },
+    {
       "name": "sinow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3edfc37b0bb0f6a2f588f53ab858743b40175e39",
-      "mtime": "1666880379",
-      "size": "268011",
-      "md5": "515f91f9874693d691af8cd91c535a00",
-      "crc32": "b2036872",
-      "sha1": "f0a323eb7c324a54d5fc9e960cef84d0afcd2199",
+      "btih": "8c866c4c864a2ddc1e699f135e7da7ee0aaf1788",
+      "mtime": "1666893885",
+      "size": "268213",
+      "md5": "f7b7d369c53f48b10d52ad4328628d72",
+      "crc32": "ceabf3f0",
+      "sha1": "9ab13d0676c637134c574526fb6f9e003f6ce6ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1aa185ad6ac9d7a0c5f5b613508f8561",
+      "md5": "291ec229216a8d8b75cefd7f576668d1",
       "summation": "md5"
     },
     {
@@ -13335,9 +13346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1287,
-  "item_last_updated": 1666880379,
-  "item_size": 99557007,
+  "files_count": 1288,
+  "item_last_updated": 1666893885,
+  "item_size": 99568060,
   "metadata": {
     "identifier": "sinow-2022",
     "collection": [
@@ -13354,29 +13365,10 @@
     "publicdate": "2022-07-04 21:45:32",
     "addeddate": "2022-07-04 21:45:32"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "sinow-2022": {
-    "url": "https://www.si.com/",
-    "job_id": "spn2-0f4b1f1e3838faa3bbe1f9b98a71c49d9fdf7df7",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
-  "tasks": [
-    {
-      "task_id": 3454169241,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1672836514,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1710469801,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

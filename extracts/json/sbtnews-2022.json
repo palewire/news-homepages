@@ -1,5 +1,5 @@
 {
-  "created": 1666898833,
+  "created": 1666918944,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/23/items/sbtnews-2022",
@@ -14441,21 +14441,32 @@
       "format": "JSON"
     },
     {
+      "name": "sbtnews-2022-10-27T16:25:48.166603-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sbtnews-2022-10-27T16:25:48.166603-03:00.jpg",
+      "mtime": "1666907085",
+      "size": "9655",
+      "md5": "bdaa13a3c39116bb33216e9958225fb2",
+      "crc32": "f4e22a50",
+      "sha1": "11c3e87e492cf922d6ccdf821a7286223d55de5b"
+    },
+    {
       "name": "sbtnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aeff6f6cee5fca09f88d7203f6f888f6d0a185c5",
-      "mtime": "1666898827",
-      "size": "292832",
-      "md5": "bbae73a254b4198a51b09b31ac3f1f65",
-      "crc32": "9fff0d16",
-      "sha1": "02563e43d2818d27bfefd94eeacb1b65e6ed78de",
+      "btih": "8f264e2c4f7adfd6f076267e922c9a63552d39d4",
+      "mtime": "1666907102",
+      "size": "293035",
+      "md5": "ff399734148dedd97b6768dfe70a8c72",
+      "crc32": "a9348323",
+      "sha1": "4154e2409659baa597a94f531a9b780844bcf1f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sbtnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13e5499db4e761f1c42c3ae2c8677881",
+      "md5": "4dc1f4ffdde7453ed1765fce921303ec",
       "summation": "md5"
     },
     {
@@ -14479,9 +14490,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1401,
-  "item_last_updated": 1666898827,
-  "item_size": 73472375,
+  "files_count": 1402,
+  "item_last_updated": 1666907102,
+  "item_size": 73482233,
   "metadata": {
     "identifier": "sbtnews-2022",
     "collection": [
@@ -14498,21 +14509,15 @@
     "publicdate": "2022-08-07 19:44:01",
     "addeddate": "2022-08-07 19:44:01"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454357146,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 749255888,
+  "sbtnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801401.us.archive.org",
+  "uniq": 352825960,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883369,
+  "created": 1666911447,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/26/items/spotlightpa-2022",
@@ -12881,21 +12881,32 @@
       "format": "JSON"
     },
     {
+      "name": "spotlightpa-2022-10-27T11:07:46.277679-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spotlightpa-2022-10-27T11:07:46.277679-04:00.jpg",
+      "mtime": "1666895356",
+      "size": "11108",
+      "md5": "b721a635db166c549a0d2a2af234ffe5",
+      "crc32": "b4fcc29c",
+      "sha1": "597b1b460b8553e2e7c86b11597a5ba7e6ec4589"
+    },
+    {
       "name": "spotlightpa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "232db8e6ffb31758ec85d3fa579ca09b4b44c5de",
-      "mtime": "1666883361",
-      "size": "266453",
-      "md5": "8516c936012ce12a6598806ce3454c5d",
-      "crc32": "d20267ea",
-      "sha1": "8fcf5a71d236c69bd4777af87037d7d20cc853bf",
+      "btih": "3eed80c5ea2b9dd4228b1723eeb91abc3150937c",
+      "mtime": "1666895399",
+      "size": "266661",
+      "md5": "dbd732e87c929f2f8b3174ec1d5b30e8",
+      "crc32": "6634ca72",
+      "sha1": "3c834ecafc0f1167158954be171b0484699bf48b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spotlightpa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57fcb0670e704bd6dba50a2a683b1346",
+      "md5": "9f844957284a7cbb72ed9a22a116ae39",
       "summation": "md5"
     },
     {
@@ -12919,9 +12930,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1247,
-  "item_last_updated": 1666883361,
-  "item_size": 80882351,
+  "files_count": 1248,
+  "item_last_updated": 1666895399,
+  "item_size": 80893667,
   "metadata": {
     "identifier": "spotlightpa-2022",
     "collection": [
@@ -12938,21 +12949,10 @@
     "publicdate": "2022-07-09 04:04:28",
     "addeddate": "2022-07-09 04:04:28"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454195116,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2020534387,
+  "server": "ia801503.us.archive.org",
+  "uniq": 347047182,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

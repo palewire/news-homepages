@@ -1,5 +1,5 @@
 {
-  "created": 1666886721,
+  "created": 1666903794,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/abc7breaking-2022",
@@ -12185,21 +12185,32 @@
       "format": "JSON"
     },
     {
+      "name": "abc7breaking-2022-10-27T10:04:04.465214-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7breaking-2022-10-27T10:04:04.465214-06:00.jpg",
+      "mtime": "1666897218",
+      "size": "10059",
+      "md5": "cc696b7dacc23edf0567b5e498221a5f",
+      "crc32": "d27ab7db",
+      "sha1": "1cacbbb24e4a7b9c50637fec1d8464346340956c"
+    },
+    {
       "name": "abc7breaking-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fbca8b03eece1a739e9c7c97e74d506f826a91a7",
-      "mtime": "1666886714",
-      "size": "253147",
-      "md5": "ed277ae89025f6b74b54592dd713e2bc",
-      "crc32": "74fc6fd5",
-      "sha1": "58806798f6564503ce9b937d44af49ceb3b93820",
+      "btih": "0062b3993dbdb051fa863b4c1d1989fa0037871e",
+      "mtime": "1666897278",
+      "size": "253356",
+      "md5": "8066bfea3b8b5ad0aedf1618c5ddf1a4",
+      "crc32": "bbf375bc",
+      "sha1": "dd54e51ce68c6050ab56abd3b408735c63511e4f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7breaking-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a587fb417f568de526327fd35d7639d2",
+      "md5": "e4ced696f2ee0d06a5c4fafeec577e8a",
       "summation": "md5"
     },
     {
@@ -12223,9 +12234,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1181,
-  "item_last_updated": 1666886714,
-  "item_size": 63702992,
+  "files_count": 1182,
+  "item_last_updated": 1666897278,
+  "item_size": 63713260,
   "metadata": {
     "identifier": "abc7breaking-2022",
     "collection": [
@@ -12242,21 +12253,10 @@
     "publicdate": "2022-07-18 00:04:35",
     "addeddate": "2022-07-18 00:04:35"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454231692,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 813860069,
+  "uniq": 448472727,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666891128,
+  "created": 1666915423,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/capgaznews-2022",
@@ -14921,21 +14921,32 @@
       "format": "JSON"
     },
     {
+      "name": "capgaznews-2022-10-27T12:10:06.053289-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-27T12:10:06.053289-04:00.jpg",
+      "mtime": "1666897568",
+      "size": "8013",
+      "md5": "7448ab912b1653bbe88f0ec67277e303",
+      "crc32": "9009c10e",
+      "sha1": "2c3fc7216d3ef0b72b1299ee7bf4adc16468f9a1"
+    },
+    {
       "name": "capgaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c52e6f69711ca3788e5b02def1aaaf3f0278e01b",
-      "mtime": "1666887102",
-      "size": "306741",
-      "md5": "01b85afc94087e861ff52b2a765546e0",
-      "crc32": "4366eb73",
-      "sha1": "586ef513cf1524b48917872e4ec1118d779c67b0",
+      "btih": "84fb382688f8f11f47e3d0b73a2e3cdf74cd114f",
+      "mtime": "1666897593",
+      "size": "306947",
+      "md5": "bd7fb601a40858afa25fdf2b71d77215",
+      "crc32": "1a67cfdb",
+      "sha1": "439bd6d501bc260b2def3882f9ce718043ecb3f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capgaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92a47adc5bafe517617f7431a0ecf7e5",
+      "md5": "48ea52eab53c36d56d81d61ae6f49136",
       "summation": "md5"
     },
     {
@@ -14959,9 +14970,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1442,
-  "item_last_updated": 1666887102,
-  "item_size": 100404036,
+  "files_count": 1443,
+  "item_last_updated": 1666897593,
+  "item_size": 100412255,
   "metadata": {
     "identifier": "capgaznews-2022",
     "collection": [
@@ -14978,21 +14989,10 @@
     "publicdate": "2022-06-24 22:54:14",
     "addeddate": "2022-06-24 22:54:14"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238214,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 448947723,
+  "uniq": 863301026,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

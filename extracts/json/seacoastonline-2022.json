@@ -1,5 +1,5 @@
 {
-  "created": 1666898993,
+  "created": 1666906921,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/10/items/seacoastonline-2022",
@@ -4613,21 +4613,32 @@
       "format": "JSON"
     },
     {
+      "name": "seacoastonline-2022-10-27T15:28:58.729238-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seacoastonline-2022-10-27T15:28:58.729238-04:00.jpg",
+      "mtime": "1666906882",
+      "size": "9359",
+      "md5": "be4c7784c6cd7546b07c535013bf5efa",
+      "crc32": "486f445f",
+      "sha1": "926979d7c668780faf0155f7fee940f802a0ccc9"
+    },
+    {
       "name": "seacoastonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "679a0606680e558dc85d3fb39f9a0d8a2fe34792",
-      "mtime": "1666898990",
-      "size": "98007",
-      "md5": "b257a4340e7034fe4e87ee6c367bcf88",
-      "crc32": "eb86d4aa",
-      "sha1": "c48286c2745827fb2f6e4e3a333ea1698275ddef",
+      "btih": "3c9afc22d46f06d35428ac4fab5ab445963b38af",
+      "mtime": "1666906887",
+      "size": "98217",
+      "md5": "b4e94f92668070410f8f9019cbb2f3aa",
+      "crc32": "3f0e428e",
+      "sha1": "a4edc275d7763770319936d4ae06796e1a00cdd3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seacoastonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "892f8b959f3f1ab0560bbc8cf0c595b7",
+      "md5": "40cec5f93f9175d1ade717f5f2cc6077",
       "summation": "md5"
     },
     {
@@ -4651,9 +4662,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 450,
-  "item_last_updated": 1666898990,
-  "item_size": 31130534,
+  "files_count": 451,
+  "item_last_updated": 1666906887,
+  "item_size": 31140103,
   "metadata": {
     "identifier": "seacoastonline-2022",
     "collection": [
@@ -4670,21 +4681,10 @@
     "publicdate": "2022-09-20 19:24:59",
     "addeddate": "2022-09-20 19:24:59"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454358429,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1953819071,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1824959227,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

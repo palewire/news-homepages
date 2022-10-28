@@ -1,5 +1,5 @@
 {
-  "created": 1666876505,
+  "created": 1666916043,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/31/items/iowapublicradio-2022",
@@ -21845,21 +21845,32 @@
       "format": "JSON"
     },
     {
+      "name": "iowapublicradio-2022-10-27T08:13:31.326630-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "iowapublicradio-2022-10-27T08:13:31.326630-05:00.jpg",
+      "mtime": "1666891519",
+      "size": "10132",
+      "md5": "dba913c717339ca4fc6b365f37fe83cd",
+      "crc32": "a5c8099b",
+      "sha1": "f2d81dd7479dd6063b52fc84d5088bdaa8c9a1b2"
+    },
+    {
       "name": "iowapublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d11b992ca1546fbbb9bae4d086b3f82e3c9f696",
-      "mtime": "1666876500",
-      "size": "458402",
-      "md5": "94347d70d84dc2d2d9c504cc696c0830",
-      "crc32": "d3d87db5",
-      "sha1": "c87393e4f2f8c8fb544f23b7dd4875f58f77cec2",
+      "btih": "6f71c19743be7051a87825ec90f96ca213b7e955",
+      "mtime": "1666891868",
+      "size": "458614",
+      "md5": "5626a0dda66a705878242313d438dc4c",
+      "crc32": "d4df8d70",
+      "sha1": "6286aadf7d089bc2811c73985e6c50bcbbf38dfe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "iowapublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46efaa28d941689510cbf2a2f597d49b",
+      "md5": "fa597ac135435cac1526a734b7d1f34c",
       "summation": "md5"
     },
     {
@@ -21883,9 +21894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2104,
-  "item_last_updated": 1666876500,
-  "item_size": 160460800,
+  "files_count": 2105,
+  "item_last_updated": 1666891868,
+  "item_size": 160471144,
   "metadata": {
     "identifier": "iowapublicradio-2022",
     "collection": [
@@ -21902,21 +21913,10 @@
     "publicdate": "2022-03-25 03:35:10",
     "addeddate": "2022-03-25 03:35:10"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454133969,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1485439736,
+  "uniq": 1764354523,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

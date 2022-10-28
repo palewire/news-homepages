@@ -1,5 +1,5 @@
 {
-  "created": 1666893421,
+  "created": 1666903141,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/el_pais-2022",
@@ -11099,21 +11099,32 @@
       "format": "JSON"
     },
     {
+      "name": "el_pais-2022-10-27T19:55:12.468142+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_pais-2022-10-27T19:55:12.468142+02:00.jpg",
+      "mtime": "1666903084",
+      "size": "9548",
+      "md5": "80c795a7c83a6ea64898cbee809810a2",
+      "crc32": "dc234059",
+      "sha1": "e844ee0b9dc095b7f3aee8fd52633e0cf81a5a65"
+    },
+    {
       "name": "el_pais-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1323fe7273c607c5b678ba8bdaa208f6c02077d3",
-      "mtime": "1666893413",
-      "size": "226258",
-      "md5": "8d5016e9f6beb621ee6f1a086566c3d4",
-      "crc32": "c530c43f",
-      "sha1": "72d3eed794f741711e51ee6f4200f3a15ba12a20",
+      "btih": "b49e4de6fd28fbd4781131aa176027a49b3c11d7",
+      "mtime": "1666903097",
+      "size": "226461",
+      "md5": "d773a8eddad006eb9770101f39b780bf",
+      "crc32": "7cb4946d",
+      "sha1": "e419784572083366b8afa3504c695633380c3a27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_pais-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68aaf1363fa0603947bfad72fd77f187",
+      "md5": "6bb5f8772684bf6672d2390e144c299e",
       "summation": "md5"
     },
     {
@@ -11137,9 +11148,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1077,
-  "item_last_updated": 1666893413,
-  "item_size": 80046247,
+  "files_count": 1078,
+  "item_last_updated": 1666903097,
+  "item_size": 80055998,
   "metadata": {
     "identifier": "el_pais-2022",
     "collection": [
@@ -11156,21 +11167,10 @@
     "publicdate": "2022-07-28 18:53:38",
     "addeddate": "2022-07-28 18:53:38"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454301061,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 975397382,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1097824469,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

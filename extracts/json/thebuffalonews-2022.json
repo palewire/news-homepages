@@ -1,5 +1,5 @@
 {
-  "created": 1666887030,
+  "created": 1666919445,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/11/items/thebuffalonews-2022",
@@ -11167,21 +11167,32 @@
       "format": "JSON"
     },
     {
+      "name": "thebuffalonews-2022-10-27T11:10:50.346434-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebuffalonews-2022-10-27T11:10:50.346434-04:00.jpg",
+      "mtime": "1666895890",
+      "size": "11936",
+      "md5": "53c918c6ab8530f84efeefd647b45706",
+      "crc32": "a541797c",
+      "sha1": "fc7d84ee96be6ea031b9d5f60c279c5742cbba63"
+    },
+    {
       "name": "thebuffalonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2cd74bbc5edb9072f5f548cfee6526b65296b2b6",
-      "mtime": "1666883524",
-      "size": "235800",
-      "md5": "c0f042134aa0216419b49efe0addb425",
-      "crc32": "5e6f76e4",
-      "sha1": "d426dcebdff369178b6db4cc494c01a2683881d5",
+      "btih": "b8d2eddee67547ad6c679b028daec1999b4042b7",
+      "mtime": "1666895925",
+      "size": "236011",
+      "md5": "7c7bd972f356c6d7d4b3bc031c9bd7df",
+      "crc32": "c6373202",
+      "sha1": "740378bacd5346a72e56a6da921bdd35baf7091d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebuffalonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "45b45729b04c87f6a59bb744b3202bcf",
+      "md5": "778cda8804971d0d79d63a49952233ea",
       "summation": "md5"
     },
     {
@@ -11205,9 +11216,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1084,
-  "item_last_updated": 1666883524,
-  "item_size": 87080032,
+  "files_count": 1085,
+  "item_last_updated": 1666895925,
+  "item_size": 87092179,
   "metadata": {
     "identifier": "thebuffalonews-2022",
     "collection": [
@@ -11224,19 +11235,7 @@
     "publicdate": "2022-07-26 16:39:33",
     "addeddate": "2022-07-26 16:39:33"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454196979,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
   "thebuffalonews-2022": {
     "url": "https://buffalonews.com/",
     "job_id": "spn2-f6c600174312b41ece4e1b7a00a75a93f1564074",
@@ -11538,8 +11537,9 @@
       "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/5/fd/5fdf9da2-3676-11eb-a543-677e48458b88/5fcaaa9cc9f69.preview.png?crop=600,338,0,0&resize=400,225&order=crop,resize"
     ]
   },
-  "uniq": 209532455,
+  "uniq": 1993050580,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

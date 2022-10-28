@@ -1,5 +1,5 @@
 {
-  "created": 1666883325,
+  "created": 1666919295,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/tauntontogo-2022",
@@ -4551,21 +4551,32 @@
       "format": "JSON"
     },
     {
+      "name": "tauntontogo-2022-10-27T11:07:36.144526-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tauntontogo-2022-10-27T11:07:36.144526-04:00.jpg",
+      "mtime": "1666895325",
+      "size": "9191",
+      "md5": "a35e888e4fa8493c00f064f97455e952",
+      "crc32": "df2b8a2c",
+      "sha1": "23522e6aba7c9e43cd5f78a22157102deb9f991c"
+    },
+    {
       "name": "tauntontogo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "601e5651691c1907eaedf256a9e1c24c381b8607",
-      "mtime": "1666883319",
-      "size": "95306",
-      "md5": "9ae4764b2892ae7998e32fcd6cd92300",
-      "crc32": "dd81110e",
-      "sha1": "f8171d26953dfea20dbf125a552f6f61b7908d12",
+      "btih": "bee0e550eb51ab5cf3df4b72ee38d79be6bef5af",
+      "mtime": "1666895332",
+      "size": "95513",
+      "md5": "d32b4204e043781a47e2c5400e80d0f4",
+      "crc32": "5b130e60",
+      "sha1": "52bdf80e3e26fd18bc78137aa8c1a03c21c306e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tauntontogo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "104cd40bc1d466e54d104815beb9271c",
+      "md5": "07b2e281e2d4253139a821808c173000",
       "summation": "md5"
     },
     {
@@ -4589,9 +4600,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 444,
-  "item_last_updated": 1666883319,
-  "item_size": 29863105,
+  "files_count": 445,
+  "item_last_updated": 1666895332,
+  "item_size": 29872503,
   "metadata": {
     "identifier": "tauntontogo-2022",
     "collection": [
@@ -4608,21 +4619,15 @@
     "publicdate": "2022-09-21 03:43:10",
     "addeddate": "2022-09-21 03:43:10"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454194600,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1805223480,
+  "tauntontogo-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1197366119,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883341,
+  "created": 1666895422,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/30/items/the_daily_world-2022",
@@ -4583,21 +4583,32 @@
       "format": "JSON"
     },
     {
+      "name": "the_daily_world-2022-10-27T10:07:51.417217-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-27T10:07:51.417217-05:00.jpg",
+      "mtime": "1666895344",
+      "size": "9420",
+      "md5": "e05dd728884a0b8f2d6a1ad3be0c4aac",
+      "crc32": "0e1b6e87",
+      "sha1": "1788ab87b22c5e7ee61129b29a82961343dd8f8a"
+    },
+    {
       "name": "the_daily_world-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ab90e1a43cb19e04025ee082d8f9a727e66c25a",
-      "mtime": "1666883335",
-      "size": "97662",
-      "md5": "ee8984b8497e0f2e842d774a65f4a109",
-      "crc32": "65f31589",
-      "sha1": "9d8e32b79cd02afce0a2e82e846ef242fd5cdd6e",
+      "btih": "fcb85764c568af27f1914be4060a66001c130586",
+      "mtime": "1666895377",
+      "size": "97873",
+      "md5": "5caa8cfe17ba87aba70437ed565fc928",
+      "crc32": "ec781dc7",
+      "sha1": "684b17ec19dbf2beee97b8e4469e701d01956ea7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_daily_world-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "936d6c76611a7300821e46b8638f4ef0",
+      "md5": "3a34ead5c8a29ffa5c45b08c9174b68c",
       "summation": "md5"
     },
     {
@@ -4621,9 +4632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1666883335,
-  "item_size": 28091951,
+  "files_count": 448,
+  "item_last_updated": 1666895377,
+  "item_size": 28101582,
   "metadata": {
     "identifier": "the_daily_world-2022",
     "collection": [
@@ -4640,21 +4651,10 @@
     "publicdate": "2022-09-21 03:43:02",
     "addeddate": "2022-09-21 03:43:02"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454194793,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2141632768,
+  "server": "ia801504.us.archive.org",
+  "uniq": 862774046,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

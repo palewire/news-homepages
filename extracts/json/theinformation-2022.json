@@ -1,5 +1,5 @@
 {
-  "created": 1666900403,
+  "created": 1666908538,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/theinformation-2022",
@@ -13795,21 +13795,32 @@
       "format": "JSON"
     },
     {
+      "name": "theinformation-2022-10-27T12:51:42.412984-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinformation-2022-10-27T12:51:42.412984-07:00.jpg",
+      "mtime": "1666908414",
+      "size": "8974",
+      "md5": "777c5c9e1d4a91bcbf83639933937ed2",
+      "crc32": "75e84e7c",
+      "sha1": "7e7b6a2f08f4620a2a219f1beb04b88fd5e63972"
+    },
+    {
       "name": "theinformation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e671044e5099965b57959b83d539cd6e8e60c5c",
-      "mtime": "1666900393",
-      "size": "287358",
-      "md5": "7c74bd0a41aa0321bca3787b6567aa85",
-      "crc32": "210ced91",
-      "sha1": "3f25190161c733f2427a931196c8a83ccde44fc2",
+      "btih": "2c6ed417f77ffa82b5e0cd9517c6f242cfb8adb0",
+      "mtime": "1666908431",
+      "size": "287568",
+      "md5": "b11582ce6030c148f6f71b4973ca97a5",
+      "crc32": "287ca7ee",
+      "sha1": "6fbe52e06985e9c8da73dd7178748d9aaef933a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinformation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d883db626767ede16587b9221ebb0176",
+      "md5": "2f0795740ec8fd22d7422a4815004bb4",
       "summation": "md5"
     },
     {
@@ -13833,9 +13844,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1334,
-  "item_last_updated": 1666900393,
-  "item_size": 52319446,
+  "files_count": 1335,
+  "item_last_updated": 1666908431,
+  "item_size": 52328630,
   "metadata": {
     "identifier": "theinformation-2022",
     "collection": [
@@ -13852,21 +13863,10 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454370952,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 221693135,
+  "uniq": 381293999,
   "workable_servers": [
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

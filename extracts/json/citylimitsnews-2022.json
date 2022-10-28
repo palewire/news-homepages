@@ -4,7 +4,7 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "created": 1666891241,
+  "created": 1666915956,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/citylimitsnews-2022",
@@ -13038,21 +13038,32 @@
       "format": "JSON"
     },
     {
+      "name": "citylimitsnews-2022-10-27T12:09:58.193947-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "citylimitsnews-2022-10-27T12:09:58.193947-04:00.jpg",
+      "mtime": "1666897669",
+      "size": "9942",
+      "md5": "e7e00461398c70150bae5648fe3ac04e",
+      "crc32": "f4582445",
+      "sha1": "94b41d2a613113632fbb24d89dad2e58d1dbbfb8"
+    },
+    {
       "name": "citylimitsnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f8bb44fdcc831d6ecf7411fbc90477803dde3a79",
-      "mtime": "1666887088",
-      "size": "273239",
-      "md5": "85588d6ed37ec97be74bf5d083ee2cb0",
-      "crc32": "0df470f7",
-      "sha1": "c2816850f882b36c6025aef5c583f34967525326",
+      "btih": "4ad1ab4c415c60866a7e5533b9b4af9b0e3883a3",
+      "mtime": "1666897693",
+      "size": "273449",
+      "md5": "ce617a143286e3b6c60f7b9a9309240e",
+      "crc32": "ce0652e5",
+      "sha1": "657a6dbf8dbe377c42abf23c84257f9818a2c0d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "citylimitsnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a04b7aa396853a0ffddafbf6994d816",
+      "md5": "6eedfb1a25812afdd941489e8329fd0e",
       "summation": "md5"
     },
     {
@@ -13076,9 +13087,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1262,
-  "item_last_updated": 1666887088,
-  "item_size": 76240671,
+  "files_count": 1263,
+  "item_last_updated": 1666897693,
+  "item_size": 76250823,
   "metadata": {
     "identifier": "citylimitsnews-2022",
     "collection": [
@@ -13095,21 +13106,10 @@
     "publicdate": "2022-07-09 03:57:03",
     "addeddate": "2022-07-09 03:57:03"
   },
-  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238042,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1493645007,
+  "uniq": 2080315191,
   "workable_servers": [
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

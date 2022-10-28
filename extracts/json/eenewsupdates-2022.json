@@ -1,5 +1,5 @@
 {
-  "created": 1666914010,
+  "created": 1666915310,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/eenewsupdates-2022",
@@ -13495,21 +13495,32 @@
       "format": "JSON"
     },
     {
+      "name": "eenewsupdates-2022-10-27T19:38:20.992661-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eenewsupdates-2022-10-27T19:38:20.992661-04:00.jpg",
+      "mtime": "1666915130",
+      "size": "9653",
+      "md5": "25491dd4d387abaf48639ccfa4ad2deb",
+      "crc32": "2de845cc",
+      "sha1": "25f651be03aa8a37224a2119d722ebdba64438f6"
+    },
+    {
       "name": "eenewsupdates-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a50b96c61c2dc383079479d447655b7b7f86f7f",
-      "mtime": "1666913993",
-      "size": "281428",
-      "md5": "cc894f6a7cf60a4eba7e31e8494a7ef4",
-      "crc32": "9a906bf6",
-      "sha1": "82b1f06476121b51f9bbb7a1f258a03d714f4aa1",
+      "btih": "868cf64fdf1fdac7cd4524f9bf434c7384e2f82b",
+      "mtime": "1666915146",
+      "size": "281637",
+      "md5": "f94552fb7a4182c4ebf41ff96ae9c658",
+      "crc32": "581a1368",
+      "sha1": "c8c4678540d279a975fb93d7daddb0f51df3565b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eenewsupdates-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd37f518b1b3156e8c56a45da53bd240",
+      "md5": "dbea6dc837a79fb1578f0c9b0c1046c7",
       "summation": "md5"
     },
     {
@@ -13533,9 +13544,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1306,
-  "item_last_updated": 1666913993,
-  "item_size": 77603060,
+  "files_count": 1307,
+  "item_last_updated": 1666915146,
+  "item_size": 77612922,
   "metadata": {
     "identifier": "eenewsupdates-2022",
     "collection": [
@@ -13552,21 +13563,10 @@
     "publicdate": "2022-07-04 20:47:56",
     "addeddate": "2022-07-04 20:47:56"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454573452,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1653283566,
+  "server": "ia801404.us.archive.org",
+  "uniq": 2032235746,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

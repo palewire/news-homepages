@@ -1,5 +1,5 @@
 {
-  "created": 1666914170,
+  "created": 1666916238,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/foreignpolicy-2022",
@@ -15581,21 +15581,32 @@
       "format": "JSON"
     },
     {
+      "name": "foreignpolicy-2022-10-27T19:40:30.140551-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-10-27T19:40:30.140551-04:00.jpg",
+      "mtime": "1666916027",
+      "size": "10718",
+      "md5": "365b23f04b465716253e92338afbcc43",
+      "crc32": "b62fb45c",
+      "sha1": "ac4e5ff85080d06d08489d3ecbcc17f5824b8bd5"
+    },
+    {
       "name": "foreignpolicy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba2a655d005e6e9bf6b8c961565cdccd5fbdebdf",
-      "mtime": "1666914144",
-      "size": "326038",
-      "md5": "207ec153d189f6c3facdf78b84d3e57c",
-      "crc32": "dc9c80f7",
-      "sha1": "ab0cc37f2aaf217b281bb7f4c31ad86e4f1804a1",
+      "btih": "f14127975b0fc17ac6b4d6ec26542305d7c90c6a",
+      "mtime": "1666916051",
+      "size": "326248",
+      "md5": "a2a385da29323597c9ef1aeee05f0ada",
+      "crc32": "f564edbb",
+      "sha1": "2d093813043172f3fddf82101c1065ee5f5f667a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foreignpolicy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1957091f85eb913cb94b6b1ccb3ae5a9",
+      "md5": "89c289d9fe491f4df68ef0bfcaa8e277",
       "summation": "md5"
     },
     {
@@ -15619,9 +15630,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1504,
-  "item_last_updated": 1666914144,
-  "item_size": 143043571,
+  "files_count": 1505,
+  "item_last_updated": 1666916051,
+  "item_size": 143054499,
   "metadata": {
     "identifier": "foreignpolicy-2022",
     "collection": [
@@ -15638,21 +15649,10 @@
     "publicdate": "2022-06-19 23:24:15",
     "addeddate": "2022-06-19 23:24:15"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454576847,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1185144046,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1135369794,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

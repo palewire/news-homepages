@@ -1,5 +1,5 @@
 {
-  "created": 1666886806,
+  "created": 1666911273,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/21/items/stevenspointjrl-2022",
@@ -19083,21 +19083,32 @@
       "format": "JSON"
     },
     {
+      "name": "stevenspointjrl-2022-10-27T10:07:39.517214-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stevenspointjrl-2022-10-27T10:07:39.517214-05:00.jpg",
+      "mtime": "1666895724",
+      "size": "8885",
+      "md5": "5cd59048714c22013eb6c51ce2a19dcf",
+      "crc32": "3c6af7f6",
+      "sha1": "60d24de0687e5f757f2e2803ebc97d49bc08bedb"
+    },
+    {
       "name": "stevenspointjrl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d1d19974c1620e7fec3c4b7a4278de014a385ce",
-      "mtime": "1666883347",
-      "size": "400094",
-      "md5": "56b970eb543e8f926995f97d08c1fd59",
-      "crc32": "c00d7cd3",
-      "sha1": "e4b272029c74633a3b17cbdc708e419d1d5854df",
+      "btih": "7ca16ccfd5d1a759e6ac03eafe5be5e9f448f09d",
+      "mtime": "1666895753",
+      "size": "400305",
+      "md5": "d210fc10e2850531bc513380565d6156",
+      "crc32": "0b3b3c14",
+      "sha1": "1c5b85ed3ae59faa33b256f9a6291bcea72cd6ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stevenspointjrl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed8adf1ed21dd8e15c9d4759afc95a45",
+      "md5": "f27c9dcc9b2787300e0cb35fdec577d7",
       "summation": "md5"
     },
     {
@@ -19121,9 +19132,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1837,
-  "item_last_updated": 1666883347,
-  "item_size": 141075711,
+  "files_count": 1838,
+  "item_last_updated": 1666895753,
+  "item_size": 141084807,
   "metadata": {
     "identifier": "stevenspointjrl-2022",
     "collection": [
@@ -19140,26 +19151,10 @@
     "publicdate": "2022-03-23 23:07:34",
     "addeddate": "2022-03-23 23:07:34"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "stevenspointjrl-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "tasks": [
-    {
-      "task_id": 3454194947,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1220253370,
+  "server": "ia802505.us.archive.org",
+  "uniq": 355181485,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

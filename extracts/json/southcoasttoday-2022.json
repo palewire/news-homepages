@@ -1,5 +1,5 @@
 {
-  "created": 1666898968,
+  "created": 1666907143,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/southcoasttoday-2022",
@@ -4613,21 +4613,32 @@
       "format": "JSON"
     },
     {
+      "name": "southcoasttoday-2022-10-27T15:28:20.391838-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-27T15:28:20.391838-04:00.jpg",
+      "mtime": "1666907067",
+      "size": "9558",
+      "md5": "94c3766cd81b5ac95bc43b9bbe7aecbb",
+      "crc32": "e9ec63a1",
+      "sha1": "732d3510345c3a5c51f5cb67b1492f16e4504ae5"
+    },
+    {
       "name": "southcoasttoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bcc572385307e27df622825b3225d5a2733483d1",
-      "mtime": "1666898961",
-      "size": "98466",
-      "md5": "f089b4981e16a3c5c9e6dfb4fac3478b",
-      "crc32": "e53353a2",
-      "sha1": "02ce06091a8307af02b96e2f178977b678b30e90",
+      "btih": "5761fe66f13b5f5e59efa7b6d968ccabf2a23156",
+      "mtime": "1666907073",
+      "size": "98677",
+      "md5": "36d689b2fcbaba0c484c36b0b2b79d23",
+      "crc32": "d194c42e",
+      "sha1": "6684661b6990ba4e92f05cc1303b691a5e4f0a4e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southcoasttoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "703c134b64cba30cbde2b8c7668eefb8",
+      "md5": "9fa69fec000da138edf4da185f8c7693",
       "summation": "md5"
     },
     {
@@ -4651,9 +4662,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 450,
-  "item_last_updated": 1666898961,
-  "item_size": 31307356,
+  "files_count": 451,
+  "item_last_updated": 1666907073,
+  "item_size": 31317125,
   "metadata": {
     "identifier": "southcoasttoday-2022",
     "collection": [
@@ -4670,21 +4681,10 @@
     "publicdate": "2022-09-20 19:25:17",
     "addeddate": "2022-09-20 19:25:17"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454358239,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1350529657,
+  "uniq": 1512932360,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666900613,
+  "created": 1666908017,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/vancouversun-2022",
@@ -14223,21 +14223,32 @@
       "format": "JSON"
     },
     {
+      "name": "vancouversun-2022-10-27T12:54:59.155411-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-10-27T12:54:59.155411-07:00.jpg",
+      "mtime": "1666907817",
+      "size": "10239",
+      "md5": "2c36f7809c3a5dab872efb2911c088de",
+      "crc32": "847e73b2",
+      "sha1": "d186e2f8a67f6cac0c7f05d1827ac8e31ba1dd59"
+    },
+    {
       "name": "vancouversun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0feb99fca0058e475176e43b5090d3026bda314a",
-      "mtime": "1666900585",
-      "size": "296051",
-      "md5": "834f8e4021555c87fa92a6e024d007da",
-      "crc32": "f55f3b7c",
-      "sha1": "a9e785fb57357ba5a8036088ba1ddd1a026d7608",
+      "btih": "4c4cd61e35e83a0ec84006c346d412ccd4a64048",
+      "mtime": "1666907960",
+      "size": "296260",
+      "md5": "16cc48c1214d922a6b2f5a3e8d8616c9",
+      "crc32": "8a325f9a",
+      "sha1": "36ea3dbf4684f00335ce60415ac762820a058932",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vancouversun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d884f59b0409bda13045b67b505c5ca0",
+      "md5": "06744c8a07f2850b85267a9bd22bd963",
       "summation": "md5"
     },
     {
@@ -14261,9 +14272,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1375,
-  "item_last_updated": 1666900585,
-  "item_size": 118168411,
+  "files_count": 1376,
+  "item_last_updated": 1666907960,
+  "item_size": 118178859,
   "metadata": {
     "identifier": "vancouversun-2022",
     "collection": [
@@ -14280,21 +14291,10 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372988,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1399516548,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1782555426,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666914062,
+  "created": 1666915468,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/hellgateny-2022",
@@ -13561,21 +13561,32 @@
       "format": "JSON"
     },
     {
+      "name": "hellgateny-2022-10-27T19:39:37.238412-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-27T19:39:37.238412-04:00.jpg",
+      "mtime": "1666915264",
+      "size": "8528",
+      "md5": "cec9548781c478caa84c8d4057782135",
+      "crc32": "eb0c7ad5",
+      "sha1": "374cbce33c9b73f7455fcf8a4b3d9cb820f5fb55"
+    },
+    {
       "name": "hellgateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "22592b932af88f9bbffd2c3f445b88a7a49906d6",
-      "mtime": "1666914059",
-      "size": "278206",
-      "md5": "8406e5ff8f5eea4fcf5b4aa0460ccac2",
-      "crc32": "b0795129",
-      "sha1": "3a6eb7a287f9ab4166f68827be42a93ea947ac57",
+      "btih": "7ad56a908a9527724d0d10b96335fa669736c744",
+      "mtime": "1666915379",
+      "size": "278412",
+      "md5": "4239724ab878c669592f077d1dd08aa0",
+      "crc32": "9692bbeb",
+      "sha1": "3f10d8884bcfa662ccad87e3834c8d93c3cdde23",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hellgateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "290e557ec3a7320076c17053c19f4e86",
+      "md5": "d36ee04bbb31ab68d569873008d39ff5",
       "summation": "md5"
     },
     {
@@ -13599,9 +13610,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1312,
-  "item_last_updated": 1666914059,
-  "item_size": 68437355,
+  "files_count": 1313,
+  "item_last_updated": 1666915379,
+  "item_size": 68446089,
   "metadata": {
     "identifier": "hellgateny-2022",
     "collection": [
@@ -13618,21 +13629,10 @@
     "publicdate": "2022-07-04 21:54:35",
     "addeddate": "2022-07-04 21:54:35"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454574586,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1354790065,
+  "uniq": 383452368,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666901193,
+  "created": 1666918890,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -12851,21 +12851,32 @@
       "format": "JSON"
     },
     {
+      "name": "rollcall-2022-10-27T15:25:49.360920-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollcall-2022-10-27T15:25:49.360920-04:00.jpg",
+      "mtime": "1666906768",
+      "size": "11148",
+      "md5": "7477973794166d4393b6c4678a7b1174",
+      "crc32": "3ec25d67",
+      "sha1": "00dacfb1a8bd8241a32e57dc0dbd37e1500dce03"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a1e39b12341f9c9d0ac5775ade6c7dd4fa12e58",
-      "mtime": "1666898858",
-      "size": "261952",
-      "md5": "749c5d59490f110df0200c43d9fc19f0",
-      "crc32": "c09af77b",
-      "sha1": "ea4f6bd2ec5a2f324274850c7047231c2a0e8be1",
+      "btih": "968b10ad236fe274eba768669c2af3a5e07af35a",
+      "mtime": "1666906808",
+      "size": "262157",
+      "md5": "cafba3426a6314531e6e81c49102fbec",
+      "crc32": "53df3b89",
+      "sha1": "933d405291918e7e70520fca4209b7608d105e0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "472cb74d8ed5131c0833d58a5bab9ad6",
+      "md5": "dac6ef9d089042fd2648310ef2d3aa7d",
       "summation": "md5"
     },
     {
@@ -12889,9 +12900,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1243,
-  "item_last_updated": 1666898858,
-  "item_size": 81683132,
+  "files_count": 1244,
+  "item_last_updated": 1666906808,
+  "item_size": 81694485,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -12908,26 +12919,10 @@
     "publicdate": "2022-07-04 21:52:31",
     "addeddate": "2022-07-04 21:52:31"
   },
-  "pending_tasks": true,
-  "rollcall-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454357492,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2135756634,
+  "uniq": 391055974,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

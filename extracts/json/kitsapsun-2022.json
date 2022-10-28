@@ -1,5 +1,5 @@
 {
-  "created": 1666876685,
+  "created": 1666891404,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/kitsapsun-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "kitsapsun-2022-10-27T06:17:10.352694-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kitsapsun-2022-10-27T06:17:10.352694-07:00.jpg",
+      "mtime": "1666891357",
+      "size": "8914",
+      "md5": "be23cea579f218d2f87a066a01610364",
+      "crc32": "16cc4c71",
+      "sha1": "8d6abefb75aad510ce44986588a0418cfa443236"
+    },
+    {
       "name": "kitsapsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2fe2ad63b76a410ec1e726dcdb132d7d061152ef",
-      "mtime": "1666876682",
-      "size": "96509",
-      "md5": "643c7aef6f3df7aaa29c77b3a1f710a6",
-      "crc32": "5547139c",
-      "sha1": "d7499666eed160f74b1429750226da28ddc082d1",
+      "btih": "83f03abb7a69d748caa0660bdb58bdb62a541a61",
+      "mtime": "1666891363",
+      "size": "96714",
+      "md5": "65da9399576639bbd05d5d42b71333b9",
+      "crc32": "45e05bab",
+      "sha1": "db2911a48a4a2ac376b4a69809612bcf5524ed96",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kitsapsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4c92f2d2d1c2d44953b69e5bda305a1",
+      "md5": "a3f600428fbc0287233dec884449e52d",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666876682,
-  "item_size": 29960626,
+  "files_count": 455,
+  "item_last_updated": 1666891363,
+  "item_size": 29969745,
   "metadata": {
     "identifier": "kitsapsun-2022",
     "collection": [
@@ -4712,21 +4723,10 @@
     "publicdate": "2022-09-20 22:26:18",
     "addeddate": "2022-09-20 22:26:18"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454136058,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1540909506,
+  "server": "ia801401.us.archive.org",
+  "uniq": 19233280,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

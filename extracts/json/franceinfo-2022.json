@@ -1,5 +1,5 @@
 {
-  "created": 1666893599,
+  "created": 1666903062,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/10/items/franceinfo-2022",
@@ -25607,21 +25607,32 @@
       "format": "JSON"
     },
     {
+      "name": "franceinfo-2022-10-27T19:58:01.200619+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "franceinfo-2022-10-27T19:58:01.200619+02:00.jpg",
+      "mtime": "1666902876",
+      "size": "10749",
+      "md5": "393c1f970458abf5bd121bbcbf4a24ca",
+      "crc32": "e6a28ec6",
+      "sha1": "37cbc3c28bbb2164173d6575d769bb876046dd21"
+    },
+    {
       "name": "franceinfo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a4e4a5ffd618fa099280f576fd8de24c97d60f64",
-      "mtime": "1666893590",
-      "size": "529231",
-      "md5": "9a78d14828f21ebb24367e7fee38d630",
-      "crc32": "2ef04811",
-      "sha1": "755d0a717cd2d6cb6359785f268d24b3e8e68b89",
+      "btih": "e82990c9a1ef5c453e4cfdfb51e160b58096b08f",
+      "mtime": "1666902997",
+      "size": "529438",
+      "md5": "75ba637f5b4e05406d7a0c459fd86fbb",
+      "crc32": "bcbdcb6a",
+      "sha1": "e4e0e47c63f4d0f3244bba8f08b224c326098baa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "franceinfo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ac4ca861eea64a24ee26e42ce44ecd3",
+      "md5": "041c985d35ee5d8724284373fc11f445",
       "summation": "md5"
     },
     {
@@ -25645,9 +25656,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2467,
-  "item_last_updated": 1666893590,
-  "item_size": 279381681,
+  "files_count": 2468,
+  "item_last_updated": 1666902997,
+  "item_size": 279392637,
   "metadata": {
     "identifier": "franceinfo-2022",
     "collection": [
@@ -25664,21 +25675,10 @@
     "publicdate": "2022-04-09 13:42:09",
     "addeddate": "2022-04-09 13:42:09"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302741,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1528328364,
+  "uniq": 337267134,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

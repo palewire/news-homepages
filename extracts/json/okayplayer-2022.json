@@ -1,5 +1,5 @@
 {
-  "created": 1666898564,
+  "created": 1666911572,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/okayplayer-2022",
@@ -15469,21 +15469,32 @@
       "format": "JSON"
     },
     {
+      "name": "okayplayer-2022-10-27T15:20:51.585836-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "okayplayer-2022-10-27T15:20:51.585836-04:00.jpg",
+      "mtime": "1666906543",
+      "size": "10632",
+      "md5": "a33a432bc1a73bc86fe8e9fd3f720c3d",
+      "crc32": "03ae692b",
+      "sha1": "9a730b857b34ac17aa5304cfaab818c1d2a69819"
+    },
+    {
       "name": "okayplayer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "adf63b6a3e766638e51b66d9072182eb1da01591",
-      "mtime": "1666898544",
-      "size": "317702",
-      "md5": "4720c3f8db336037751d079f55e0e16b",
-      "crc32": "23ad650b",
-      "sha1": "a64bdcd3944afd34ae03f1523676881123d6e3eb",
+      "btih": "90b3affbfe9db793f3afc830e0bd2c5145928ac4",
+      "mtime": "1666906564",
+      "size": "317909",
+      "md5": "2d961a689d5b4df510749bb8baeb1923",
+      "crc32": "d74ff1de",
+      "sha1": "af757b993113c3b26f2abd993267115ac69afa74",
       "format": "Archive BitTorrent"
     },
     {
       "name": "okayplayer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4acf0d4cf340b4c08242d92d778f78ff",
+      "md5": "e030d2ecfb41be1b2198d3967023b96b",
       "summation": "md5"
     },
     {
@@ -15507,9 +15518,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1494,
-  "item_last_updated": 1666898544,
-  "item_size": 95504425,
+  "files_count": 1495,
+  "item_last_updated": 1666906564,
+  "item_size": 95515264,
   "metadata": {
     "identifier": "okayplayer-2022",
     "collection": [
@@ -15526,21 +15537,10 @@
     "publicdate": "2022-06-19 23:27:12",
     "addeddate": "2022-06-19 23:27:12"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454354549,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2009229128,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1637775074,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

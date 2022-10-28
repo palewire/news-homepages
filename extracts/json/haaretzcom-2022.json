@@ -1,5 +1,5 @@
 {
-  "created": 1666914034,
+  "created": 1666915555,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/17/items/haaretzcom-2022",
@@ -9287,21 +9287,32 @@
       "format": "JSON"
     },
     {
+      "name": "haaretzcom-2022-10-28T02:39:22.467088+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "haaretzcom-2022-10-28T02:39:22.467088+03:00.jpg",
+      "mtime": "1666915437",
+      "size": "9845",
+      "md5": "332702ba3ae0174c06c22251a321247e",
+      "crc32": "c19dc8c4",
+      "sha1": "336d189df1b3b539c919c682ab27f6f2d7c0ffaf"
+    },
+    {
       "name": "haaretzcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8a62ef5eab5000833fdcd273a15b7971f257256",
-      "mtime": "1666914031",
-      "size": "193236",
-      "md5": "1ba74700f39c4addcc85084cc6085b9b",
-      "crc32": "565f9c33",
-      "sha1": "b85c849c67a3609413a7fbbda20fb86e830d652e",
+      "btih": "397a2c619645dba1834e5a9f50ec1594774fa038",
+      "mtime": "1666915477",
+      "size": "193442",
+      "md5": "18245f51ba6728892fa9578bcdea449a",
+      "crc32": "b5acf78e",
+      "sha1": "418d5cd1b69b26786892b2f6f4d619be59da8473",
       "format": "Archive BitTorrent"
     },
     {
       "name": "haaretzcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c94337f4ef20e2c27fbf057a15bb188",
+      "md5": "73dd603b630f241da136ace396d5a9be",
       "summation": "md5"
     },
     {
@@ -9325,9 +9336,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 902,
-  "item_last_updated": 1666914031,
-  "item_size": 84124724,
+  "files_count": 903,
+  "item_last_updated": 1666915477,
+  "item_size": 84134775,
   "metadata": {
     "identifier": "haaretzcom-2022",
     "collection": [
@@ -9344,21 +9355,10 @@
     "publicdate": "2022-08-13 23:57:56",
     "addeddate": "2022-08-13 23:57:56"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454573956,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 644046056,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1125174632,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

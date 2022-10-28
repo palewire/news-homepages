@@ -1,5 +1,5 @@
 {
-  "created": 1666899520,
+  "created": 1666916528,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/15/items/gawker-2022",
@@ -13093,21 +13093,32 @@
       "format": "JSON"
     },
     {
+      "name": "gawker-2022-10-27T13:58:23.695586-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gawker-2022-10-27T13:58:23.695586-04:00.jpg",
+      "mtime": "1666902796",
+      "size": "10734",
+      "md5": "50e21a3ee359daa398bb2b7b1dc912cc",
+      "crc32": "c905fcdc",
+      "sha1": "9cddfa935b0aba00be17d59e576765a35ea763e4"
+    },
+    {
       "name": "gawker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "96f06846a1aa4cb0d12f9f43281083ec9ab211ce",
-      "mtime": "1666893571",
-      "size": "264156",
-      "md5": "6cf2cd1a3ddf1489e37fa2ca49d32df8",
-      "crc32": "43e78616",
-      "sha1": "75a06b39b682f79237077f162008449c14df1f11",
+      "btih": "7e9bee4faae528e7362adac69305bae5ae69b6ac",
+      "mtime": "1666902844",
+      "size": "264359",
+      "md5": "71b799ff6750948cfdac258e5b78148c",
+      "crc32": "2b48e61d",
+      "sha1": "136c96850595437de2646a425be07db1b046b7a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gawker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d0dcc15114190d528b8c6d37c060742",
+      "md5": "f82e0c8c7a6972750cb9528fd3190f9d",
       "summation": "md5"
     },
     {
@@ -13131,7 +13142,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1267,
+  "files_count": 1268,
   "gawker-2022": {
     "url": "https://www.gawker.com/",
     "job_id": "spn2-adc457c15cf34f2a08e079050f773696cf0850cc",
@@ -13309,8 +13320,8 @@
     "duration_sec": 12.005,
     "timestamp": "20221027173114"
   },
-  "item_last_updated": 1666893571,
-  "item_size": 79193144,
+  "item_last_updated": 1666902844,
+  "item_size": 79204081,
   "metadata": {
     "identifier": "gawker-2022",
     "collection": [
@@ -13327,21 +13338,10 @@
     "publicdate": "2022-07-04 21:53:36",
     "addeddate": "2022-07-04 21:53:36"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302531,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 11610755,
+  "server": "ia802508.us.archive.org",
+  "uniq": 1113864371,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

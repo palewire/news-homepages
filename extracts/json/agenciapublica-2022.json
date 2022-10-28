@@ -1,5 +1,5 @@
 {
-  "created": 1666890492,
+  "created": 1666897439,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/33/items/agenciapublica-2022",
@@ -14951,21 +14951,32 @@
       "format": "JSON"
     },
     {
+      "name": "agenciapublica-2022-10-27T13:04:34.145605-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "agenciapublica-2022-10-27T13:04:34.145605-03:00.jpg",
+      "mtime": "1666897361",
+      "size": "8899",
+      "md5": "56949d5fadbab32bffc69b18b41b7eba",
+      "crc32": "09582496",
+      "sha1": "d23329e585fc3fa0fd6b5da8c16a1486cdbf12ff"
+    },
+    {
       "name": "agenciapublica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1bdbfc37b40386e5e96e4380e910dfc8f65323f",
-      "mtime": "1666886871",
-      "size": "312992",
-      "md5": "024dcfac94db686b5bcc30b4f8f8ea08",
-      "crc32": "499f3073",
-      "sha1": "83a36b0e55e47a2f066d9ac29ace23dfd2f89071",
+      "btih": "3c835ed46c74dcdd992d860a65be453d829deaa3",
+      "mtime": "1666897408",
+      "size": "313202",
+      "md5": "7c0c726dc7e7c0b82fd62381f182c908",
+      "crc32": "faf019be",
+      "sha1": "0478630ea06d07b5b67b95b1cb2ba3effae92843",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciapublica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d35432d91c9457c5657a9345e0abb64",
+      "md5": "697e51ecf7e2ddf389185d45032b3391",
       "summation": "md5"
     },
     {
@@ -14989,9 +15000,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1450,
-  "item_last_updated": 1666886871,
-  "item_size": 64354528,
+  "files_count": 1451,
+  "item_last_updated": 1666897408,
+  "item_size": 64363637,
   "metadata": {
     "identifier": "agenciapublica-2022",
     "collection": [
@@ -15008,21 +15019,10 @@
     "publicdate": "2022-08-04 04:55:45",
     "addeddate": "2022-08-04 04:55:45"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454234705,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 316538060,
+  "server": "ia801508.us.archive.org",
+  "uniq": 908523188,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

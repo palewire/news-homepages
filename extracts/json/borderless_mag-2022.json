@@ -1,5 +1,5 @@
 {
-  "created": 1666911010,
+  "created": 1666913611,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/2/items/borderless_mag-2022",
@@ -11549,21 +11549,32 @@
       "format": "JSON"
     },
     {
+      "name": "borderless_mag-2022-10-27T17:48:28.378318-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "borderless_mag-2022-10-27T17:48:28.378318-05:00.jpg",
+      "mtime": "1666913415",
+      "size": "9213",
+      "md5": "5a4656299d8bacbc4f2cdda61c6cdce8",
+      "crc32": "a7734073",
+      "sha1": "1a4349570ebd4b559f7805c3071e4bfba2d22a07"
+    },
+    {
       "name": "borderless_mag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8e4611f39d1e32f1c6e998262f25c283c322f6c",
-      "mtime": "1666911002",
-      "size": "242268",
-      "md5": "e46fcbe47fac890e67fd042ad48a0ca6",
-      "crc32": "d23de8c7",
-      "sha1": "a5063bf85d02c65769b7a296de0d24b39877b285",
+      "btih": "3be1338c7a010ddcc0b68b79a323d9bf1d69c64f",
+      "mtime": "1666913429",
+      "size": "242478",
+      "md5": "a3721b6f37de65aef511b4f25193cc58",
+      "crc32": "fcf20e86",
+      "sha1": "42317658e625479dde1da9ba50140d5279957ee6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "borderless_mag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "057954ddbb0919e6b7f7c7ceb877f92e",
+      "md5": "4e759d47bd82a5dcf32d81be83fb319f",
       "summation": "md5"
     },
     {
@@ -11587,9 +11598,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1121,
-  "item_last_updated": 1666911002,
-  "item_size": 56714491,
+  "files_count": 1122,
+  "item_last_updated": 1666913429,
+  "item_size": 56723914,
   "metadata": {
     "identifier": "borderless_mag-2022",
     "collection": [
@@ -11606,21 +11617,10 @@
     "publicdate": "2022-08-26 16:01:47",
     "addeddate": "2022-08-26 16:01:47"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454511040,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 811844812,
+  "server": "ia801509.us.archive.org",
+  "uniq": 891405399,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

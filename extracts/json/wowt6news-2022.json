@@ -1,5 +1,5 @@
 {
-  "created": 1666890183,
+  "created": 1666920188,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/wowt6news-2022",
@@ -10983,21 +10983,32 @@
       "format": "JSON"
     },
     {
+      "name": "wowt6news-2022-10-27T11:13:17.684749-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wowt6news-2022-10-27T11:13:17.684749-05:00.jpg",
+      "mtime": "1666898182",
+      "size": "10366",
+      "md5": "fdde81db0fb21aa2adc4e148b7129938",
+      "crc32": "5b560c45",
+      "sha1": "d1231a5b3b37be35c59a52735e059dfcc5a39adb"
+    },
+    {
       "name": "wowt6news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2cd6f018a6dab413c34c9a8a30dc0f962eb6bd48",
-      "mtime": "1666887264",
-      "size": "226383",
-      "md5": "701c39bf4fab5a86593e52ddc9325e21",
-      "crc32": "dccaa5b5",
-      "sha1": "215f9e969712bb31e8879fe27ef409723724f86c",
+      "btih": "a4f837203890f5b6c84b3274106e1ff8a9020ebc",
+      "mtime": "1666898197",
+      "size": "226589",
+      "md5": "a5df8ec54b5228af86053182423d93db",
+      "crc32": "918550b0",
+      "sha1": "68c6e9ef362b35b360a75f5ea4e5e770b2949359",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wowt6news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ce70d0d41d7a8a246c3f9d78132de17f",
+      "md5": "4618170fdb244b95de2ad5bb2f202c73",
       "summation": "md5"
     },
     {
@@ -11021,9 +11032,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1066,
-  "item_last_updated": 1666887264,
-  "item_size": 82924005,
+  "files_count": 1067,
+  "item_last_updated": 1666898197,
+  "item_size": 82934577,
   "metadata": {
     "identifier": "wowt6news-2022",
     "collection": [
@@ -11040,22 +11051,11 @@
     "publicdate": "2022-07-30 16:33:51",
     "addeddate": "2022-07-30 16:33:51"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454240204,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 971122904,
+  "uniq": 1743405961,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ],
   "wowt6news-2022": {
     "url": "https://www.wowt.com/",

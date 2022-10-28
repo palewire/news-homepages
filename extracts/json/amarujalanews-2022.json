@@ -1,5 +1,5 @@
 {
-  "created": 1666886915,
+  "created": 1666898606,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/amarujalanews-2022",
@@ -11151,21 +11151,32 @@
       "format": "JSON"
     },
     {
+      "name": "amarujalanews-2022-10-27T21:37:22.621545+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amarujalanews-2022-10-27T21:37:22.621545+05:30.jpg",
+      "mtime": "1666898461",
+      "size": "9477",
+      "md5": "d95829fdad365e788f8726b04a348b72",
+      "crc32": "43714d4d",
+      "sha1": "a4f4fd11c8003e6fdbb508a3b1b19fa1a3ce80d8"
+    },
+    {
       "name": "amarujalanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9cafbfa35b4057692b37d9ebf0c995c309f3c692",
-      "mtime": "1666886909",
-      "size": "234099",
-      "md5": "c5cf64c7ccb62281425e64c43de68e1d",
-      "crc32": "c18d1cf7",
-      "sha1": "1377e96b9c12ca8ab96e547dea8db780cd5fb6ca",
+      "btih": "13291e5953560d903340cc97903d21a034548440",
+      "mtime": "1666898475",
+      "size": "234308",
+      "md5": "e43d7a658243e4ef95a1120e8c579454",
+      "crc32": "e41fdee7",
+      "sha1": "3832641d2334c54ec40a6dc5fba56780d1b8d0b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amarujalanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9c209ac9c54501884174f4f4c073af3",
+      "md5": "c68cb0bca810e34ebb30b7133b51e378",
       "summation": "md5"
     },
     {
@@ -11189,9 +11200,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1082,
-  "item_last_updated": 1666886909,
-  "item_size": 84731582,
+  "files_count": 1083,
+  "item_last_updated": 1666898475,
+  "item_size": 84741268,
   "metadata": {
     "identifier": "amarujalanews-2022",
     "collection": [
@@ -11208,21 +11219,10 @@
     "publicdate": "2022-07-27 17:18:18",
     "addeddate": "2022-07-27 17:18:18"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454235276,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1338905424,
+  "server": "ia802500.us.archive.org",
+  "uniq": 35143690,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666898653,
+  "created": 1666906615,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/platformer-2022",
@@ -11463,21 +11463,32 @@
       "format": "JSON"
     },
     {
+      "name": "platformer-2022-10-27T12:22:28.430774-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "platformer-2022-10-27T12:22:28.430774-07:00.jpg",
+      "mtime": "1666906546",
+      "size": "8623",
+      "md5": "c2a9fa27a92e8fb48e791dcca2f01dc4",
+      "crc32": "66b87ee4",
+      "sha1": "ff5f76f4ec1cf47a45518ce77c960da4df736eb2"
+    },
+    {
       "name": "platformer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce66bef273bb234a5c2eaca16d3e54a809879123",
-      "mtime": "1666898642",
-      "size": "235633",
-      "md5": "4ede2a2cf48568cf0cabead8d4b1f26b",
-      "crc32": "8d8ac497",
-      "sha1": "6f874ac77deca91343f34524f379c2609a45ba33",
+      "btih": "5b08364c847c9dd4553c5a0727e554f609fa178b",
+      "mtime": "1666906579",
+      "size": "235839",
+      "md5": "31f50d70d4dc3d83fbe24d81c0e1bd6b",
+      "crc32": "5bc85d69",
+      "sha1": "c276a1c1c026a3f1797cfdc01debdcc8bd9c7943",
       "format": "Archive BitTorrent"
     },
     {
       "name": "platformer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1bcb24ddbf75d90c7c6e2e81b26fdec2",
+      "md5": "16ce69be8a60489505abd4c75ff919f2",
       "summation": "md5"
     },
     {
@@ -11501,9 +11512,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1112,
-  "item_last_updated": 1666898642,
-  "item_size": 48202203,
+  "files_count": 1113,
+  "item_last_updated": 1666906579,
+  "item_size": 48211032,
   "metadata": {
     "identifier": "platformer-2022",
     "collection": [
@@ -11520,21 +11531,10 @@
     "publicdate": "2022-07-25 06:47:18",
     "addeddate": "2022-07-25 06:47:18"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355350,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1975583554,
+  "uniq": 2041527564,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

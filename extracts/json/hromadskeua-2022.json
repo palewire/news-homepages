@@ -1,5 +1,5 @@
 {
-  "created": 1666876523,
+  "created": 1666909222,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/17/items/hromadskeua-2022",
@@ -22319,21 +22319,32 @@
       "format": "JSON"
     },
     {
+      "name": "hromadskeua-2022-10-27T16:13:42.891763+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hromadskeua-2022-10-27T16:13:42.891763+03:00.jpg",
+      "mtime": "1666891200",
+      "size": "9203",
+      "md5": "443e59d5daacb7fe368a807617f48a43",
+      "crc32": "b77a3b97",
+      "sha1": "6c6d723bdf1e4c36fb8fb02105affac781d3dc80"
+    },
+    {
       "name": "hromadskeua-2022_archive.torrent",
       "source": "metadata",
-      "btih": "caac442b538dd1369f62c29a2543f8b62738d941",
-      "mtime": "1666876516",
-      "size": "458567",
-      "md5": "de6a8c9f0d2b7ca104db325e1c7846b7",
-      "crc32": "a3c80693",
-      "sha1": "bd63ff8b5ef8b2a8da86ba0621ff769718c0743c",
+      "btih": "28be71b35e641f053453cfd7e810e35f8540bef3",
+      "mtime": "1666891276",
+      "size": "458774",
+      "md5": "8051fb2ab47148c004106df950c45dfe",
+      "crc32": "70494cdc",
+      "sha1": "608705539b841a149f97c559c8bc978181f40241",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hromadskeua-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7554d3f765e2de398d9001fe84116458",
+      "md5": "82eba25056ef35943cd07b96699bcbcc",
       "summation": "md5"
     },
     {
@@ -22357,9 +22368,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2145,
-  "item_last_updated": 1666876516,
-  "item_size": 171491879,
+  "files_count": 2146,
+  "item_last_updated": 1666891276,
+  "item_size": 171501289,
   "metadata": {
     "identifier": "hromadskeua-2022",
     "collection": [
@@ -22376,21 +22387,10 @@
     "publicdate": "2022-03-23 17:49:24",
     "addeddate": "2022-03-23 17:49:24"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454134175,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1971557190,
+  "uniq": 330152445,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

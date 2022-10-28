@@ -1,5 +1,5 @@
 {
-  "created": 1666876908,
+  "created": 1666917410,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/24/items/ldnews-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "ldnews-2022-10-27T09:20:16.680658-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ldnews-2022-10-27T09:20:16.680658-04:00.jpg",
+      "mtime": "1666891510",
+      "size": "9108",
+      "md5": "86f71917d72a80f4052092e0918a3c8d",
+      "crc32": "a8f471ca",
+      "sha1": "767eb18e5c385a3896ae63874af4afe345e97471"
+    },
+    {
       "name": "ldnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "caef25ed5a961bf6a9aa67f080b126b93ca89a05",
-      "mtime": "1666876897",
-      "size": "95059",
-      "md5": "ad3330582151315081b45284dc9ae368",
-      "crc32": "6e029a3f",
-      "sha1": "233c988a4aaf858b4bd1232ab88c226429a813cd",
+      "btih": "504b0cf9a66c3c459f4713045b5a4ee733eda435",
+      "mtime": "1666891518",
+      "size": "95261",
+      "md5": "5032c29d583d51c9a811be8902ebd0e3",
+      "crc32": "02ec71da",
+      "sha1": "22578c0dfb4cabbfdd2d79b4b982d4e17d8ab072",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ldnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b42a0b1f449f74e8939ae2dc4296717",
+      "md5": "d8df5d646a1cd8522895ef485184c5ad",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666876897,
-  "item_size": 28871521,
+  "files_count": 455,
+  "item_last_updated": 1666891518,
+  "item_size": 28880831,
+  "ldnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "ldnews-2022",
     "collection": [
@@ -4712,21 +4728,10 @@
     "publicdate": "2022-09-20 22:26:33",
     "addeddate": "2022-09-20 22:26:33"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454138543,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1874828513,
+  "uniq": 1559385297,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

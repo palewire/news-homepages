@@ -1,5 +1,5 @@
 {
-  "created": 1666914081,
+  "created": 1666915435,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -15739,21 +15739,32 @@
       "format": "JSON"
     },
     {
+      "name": "fivethirtyeight-2022-10-27T19:39:44.546156-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-10-27T19:39:44.546156-04:00.jpg",
+      "mtime": "1666915377",
+      "size": "9227",
+      "md5": "cd3d1416bd73a62ce3254968e8f918e4",
+      "crc32": "67d14f89",
+      "sha1": "460d9f1361f6295e82bb2de0213644941ef10a98"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "579c34fb532b13a6cee26c2a519dbbeff81fd911",
-      "mtime": "1666914067",
-      "size": "330567",
-      "md5": "510b1597d8acc1f1cee4f84c74993815",
-      "crc32": "f98039a0",
-      "sha1": "2152c9aadaf5b1a745ce93f453de96675657e43f",
+      "btih": "1956d09444539cb72ba2bdbb7ad9b912625b93da",
+      "mtime": "1666915399",
+      "size": "330778",
+      "md5": "40ad52b327a8640f450658ca39ec62be",
+      "crc32": "7ea7329c",
+      "sha1": "6020b02f06f2c0fc793d0771c1263168e9f488d6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "afedb2dfe6c5c5a44bc1f07d9c021ecb",
+      "md5": "46f253e325dddf12c64de155ee27e5ca",
       "summation": "md5"
     },
     {
@@ -15777,9 +15788,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1520,
-  "item_last_updated": 1666914067,
-  "item_size": 97932020,
+  "files_count": 1521,
+  "item_last_updated": 1666915399,
+  "item_size": 97941458,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -15796,21 +15807,10 @@
     "publicdate": "2022-06-19 23:24:21",
     "addeddate": "2022-06-19 23:24:21"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454575046,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 765649334,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1745530239,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

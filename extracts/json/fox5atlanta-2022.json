@@ -1,5 +1,5 @@
 {
-  "created": 1666914092,
+  "created": 1666915437,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/fox5atlanta-2022",
@@ -12025,21 +12025,32 @@
       "format": "JSON"
     },
     {
+      "name": "fox5atlanta-2022-10-27T19:39:58.383843-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5atlanta-2022-10-27T19:39:58.383843-04:00.jpg",
+      "mtime": "1666915344",
+      "size": "10656",
+      "md5": "8e7f0a8cd24360686a3ec66c2705e205",
+      "crc32": "547b82d3",
+      "sha1": "39efc417ce0490eee930f9aab865ad99c04ad30f"
+    },
+    {
       "name": "fox5atlanta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fea0c0196779481692ea067166d19adeebc3a544",
-      "mtime": "1666914087",
-      "size": "250180",
-      "md5": "db3da51e88118692d77d26c42938f4e9",
-      "crc32": "f67560bb",
-      "sha1": "e2f08fa90b767125e06826513f6669c64bfa1e87",
+      "btih": "c482efcc6f017524efa005b3bf9f12c938f567ef",
+      "mtime": "1666915359",
+      "size": "250388",
+      "md5": "4ded0c944c0b19f211c4eeba90399812",
+      "crc32": "76a58356",
+      "sha1": "804c3911fb0ebb0edfb0af2218c918c6edaf9ba9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5atlanta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "147ef121d002762beee0346ac3620e57",
+      "md5": "5ea65573776ba954afbe15bda279c7d7",
       "summation": "md5"
     },
     {
@@ -12063,9 +12074,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1166,
-  "item_last_updated": 1666914087,
-  "item_size": 96786753,
+  "files_count": 1167,
+  "item_last_updated": 1666915359,
+  "item_size": 96797617,
   "metadata": {
     "identifier": "fox5atlanta-2022",
     "collection": [
@@ -12082,21 +12093,10 @@
     "publicdate": "2022-07-20 23:30:58",
     "addeddate": "2022-07-20 23:30:58"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454575307,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 690722296,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1242288737,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

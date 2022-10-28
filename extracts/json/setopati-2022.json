@@ -1,5 +1,5 @@
 {
-  "created": 1666901373,
+  "created": 1666906802,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/9/items/setopati-2022",
@@ -11483,21 +11483,32 @@
       "format": "JSON"
     },
     {
+      "name": "setopati-2022-10-28T01:13:38.281786+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "setopati-2022-10-28T01:13:38.281786+05:45.jpg",
+      "mtime": "1666906778",
+      "size": "9027",
+      "md5": "79d274db32afa847373352920a3fd4b6",
+      "crc32": "70470416",
+      "sha1": "397b2567dc917568df21e2633a867c88d59da334"
+    },
+    {
       "name": "setopati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "42215e5923beb966483372e6c4d56aa21abc85f5",
-      "mtime": "1666899010",
-      "size": "235939",
-      "md5": "440727d0e02f423f84c99ffa0d78ad94",
-      "crc32": "3f10bc1e",
-      "sha1": "996af843ad8e82489d94d444180371e507baab21",
+      "btih": "7b8d3503d8b578f5b5d75315b1a122057aad6913",
+      "mtime": "1666906790",
+      "size": "236143",
+      "md5": "70784aef3e00dde2221d033eb6b16d2c",
+      "crc32": "c5c60381",
+      "sha1": "eb0af5030387f880229c58c8b0282e501bdb70a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "setopati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af54b795a1f565d8489f2e1b0e60a218",
+      "md5": "19a1e37ac68c93cf135108a5619c6734",
       "summation": "md5"
     },
     {
@@ -11521,9 +11532,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1114,
-  "item_last_updated": 1666899010,
-  "item_size": 93253813,
+  "files_count": 1115,
+  "item_last_updated": 1666906790,
+  "item_size": 93263044,
   "metadata": {
     "identifier": "setopati-2022",
     "collection": [
@@ -11540,21 +11551,10 @@
     "publicdate": "2022-07-24 20:39:32",
     "addeddate": "2022-07-24 20:39:32"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454358652,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 638687020,
+  "server": "ia801505.us.archive.org",
+  "uniq": 388960477,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

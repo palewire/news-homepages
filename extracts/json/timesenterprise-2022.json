@@ -1,5 +1,5 @@
 {
-  "created": 1666900552,
+  "created": 1666919708,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/30/items/timesenterprise-2022",
@@ -11193,21 +11193,32 @@
       "format": "JSON"
     },
     {
+      "name": "timesenterprise-2022-10-27T15:54:30.748609-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesenterprise-2022-10-27T15:54:30.748609-04:00.jpg",
+      "mtime": "1666907718",
+      "size": "9412",
+      "md5": "56c2bacb79ae8b2ad61f3adc74a2f501",
+      "crc32": "e78bfc4b",
+      "sha1": "3f8b35d60efee6769bef7103b79b9c8ddd18b73a"
+    },
+    {
       "name": "timesenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cac8470c7e3441b010db9da3d2521685137f6f0c",
-      "mtime": "1666900543",
-      "size": "236786",
-      "md5": "d28eb1c840947b1952dc0a49f1cf3828",
-      "crc32": "267adee8",
-      "sha1": "28a905a710d04de22ed488d2c08cc55b74dfd905",
+      "btih": "c1140cf82f0c6a86b8946e6a8b39fcc5b45782d1",
+      "mtime": "1666907730",
+      "size": "236997",
+      "md5": "83093be853cedec0517f77b35e1405fc",
+      "crc32": "ea9112e3",
+      "sha1": "9d9be71421e2bcd1634aae31f00fbf8a4094fad4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11ee40ecebf92b1d3c6cce46f7f67a60",
+      "md5": "883dda0d5872ad6a8477ea8b3e25a1bb",
       "summation": "md5"
     },
     {
@@ -11231,9 +11242,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1084,
-  "item_last_updated": 1666900543,
-  "item_size": 95395585,
+  "files_count": 1085,
+  "item_last_updated": 1666907730,
+  "item_size": 95405208,
   "metadata": {
     "identifier": "timesenterprise-2022",
     "collection": [
@@ -11250,21 +11261,15 @@
     "publicdate": "2022-07-20 23:31:34",
     "addeddate": "2022-07-20 23:31:34"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372413,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 572081711,
+  "timesenterprise-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 573157598,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

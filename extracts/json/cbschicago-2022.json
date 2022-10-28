@@ -1,5 +1,10 @@
 {
-  "created": 1666887321,
+  "cbschicago-2022": {
+    "url": "https://www.cbsnews.com/chicago/",
+    "job_id": "spn2-be0f12150322c2a5a4a88af7ca7a4855bc80d28e",
+    "message": "The same snapshot had been made 35 minutes, 50 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "created": 1666915865,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/cbschicago-2022",
@@ -16433,21 +16438,32 @@
       "format": "JSON"
     },
     {
+      "name": "cbschicago-2022-10-27T11:10:04.995170-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbschicago-2022-10-27T11:10:04.995170-05:00.jpg",
+      "mtime": "1666897675",
+      "size": "9047",
+      "md5": "843b8f9567e6518ebe0fe3789a4b342e",
+      "crc32": "913028e5",
+      "sha1": "aad87dbeb81212356a24d94d69ab5cc898a2b917"
+    },
+    {
       "name": "cbschicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1141ff9b474a31b28035dfa86cea63adfd4f9d6",
-      "mtime": "1666887304",
-      "size": "338084",
-      "md5": "c74ce67a35c7c6adbe12848a6d494e20",
-      "crc32": "1790d2a2",
-      "sha1": "fdb1b0eaaf8795b4adb914ddaf70a2edddd58a5b",
+      "btih": "0de4dbdb27e877346fa13f430ce4c24324b8124f",
+      "mtime": "1666897750",
+      "size": "338290",
+      "md5": "4b32ecd4e07374fbc52d1d8095a027ad",
+      "crc32": "d7f15d61",
+      "sha1": "1cf2d9ebc261135bc27c870f3e5e81ac22d88480",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbschicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7a05f8973ebb38d199c3d190eb8b0a41",
+      "md5": "ab1f8d89a3ad58af4ded466fb6fdd56b",
       "summation": "md5"
     },
     {
@@ -16471,9 +16487,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1593,
-  "item_last_updated": 1666887304,
-  "item_size": 90324046,
+  "files_count": 1594,
+  "item_last_updated": 1666897750,
+  "item_size": 90333299,
   "metadata": {
     "identifier": "cbschicago-2022",
     "collection": [
@@ -16490,21 +16506,10 @@
     "publicdate": "2022-07-28 20:04:20",
     "addeddate": "2022-07-28 20:04:20"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454240660,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1242319155,
+  "server": "ia801406.us.archive.org",
+  "uniq": 16693365,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

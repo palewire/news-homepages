@@ -1,5 +1,5 @@
 {
-  "created": 1666883730,
+  "created": 1666919723,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/26/items/timesrecorder-2022",
@@ -4573,21 +4573,32 @@
       "format": "JSON"
     },
     {
+      "name": "timesrecorder-2022-10-27T11:14:07.464599-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesrecorder-2022-10-27T11:14:07.464599-04:00.jpg",
+      "mtime": "1666896598",
+      "size": "9171",
+      "md5": "1ce6ca6a790a7d9d2a857de3b9bb7da8",
+      "crc32": "89aea0c2",
+      "sha1": "7ac86fae2cd60d62e5370e0c639a064c32a6c653"
+    },
+    {
       "name": "timesrecorder-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4c3ae6b56cb51dd0a7ec8a2482b888ec770357d2",
-      "mtime": "1666883724",
-      "size": "96619",
-      "md5": "9b363fb625e219bb8c59d8b7c0b1607c",
-      "crc32": "ca827978",
-      "sha1": "571d7aba68cf0eacdb8aca88f199d8ace3064980",
+      "btih": "59bfb1ce75ba7f05a7fdbb976d72f66d98d2e2e3",
+      "mtime": "1666896680",
+      "size": "96828",
+      "md5": "7178e120bbf17e2f0b778c894503f5c8",
+      "crc32": "3cc4dcaa",
+      "sha1": "8bd1c20e6373d26ff73c971046f0f9948a0374f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesrecorder-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "97f00a0e954ae5a54dce1a7478cbb9dd",
+      "md5": "5ca2eb5c34f6f68fa6f1c80f256da067",
       "summation": "md5"
     },
     {
@@ -4611,9 +4622,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1666883724,
-  "item_size": 29822628,
+  "files_count": 447,
+  "item_last_updated": 1666896680,
+  "item_size": 29832008,
   "metadata": {
     "identifier": "timesrecorder-2022",
     "collection": [
@@ -4630,21 +4641,15 @@
     "publicdate": "2022-09-21 03:47:00",
     "addeddate": "2022-09-21 03:47:00"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454199019,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1636543415,
+  "server": "ia801404.us.archive.org",
+  "timesrecorder-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 559301771,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

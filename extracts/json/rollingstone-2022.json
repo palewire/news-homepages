@@ -1,5 +1,5 @@
 {
-  "created": 1666880396,
+  "created": 1666918898,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/32/items/rollingstone-2022",
@@ -14457,21 +14457,32 @@
       "format": "JSON"
     },
     {
+      "name": "rollingstone-2022-10-27T10:18:28.108460-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-10-27T10:18:28.108460-04:00.jpg",
+      "mtime": "1666893763",
+      "size": "11006",
+      "md5": "80005d3fe08bf088818f0699baed5a58",
+      "crc32": "59cbc43f",
+      "sha1": "d99851be2de9876fe81addb80951e0131c54ab00"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46bd83d224b68b7179626577701525a6a2fdb518",
-      "mtime": "1666880391",
-      "size": "301013",
-      "md5": "b41cd7ae2d8327b13cb5e6363c756f8e",
-      "crc32": "7210001a",
-      "sha1": "144ba5ff23aebc43c9b54f7647cd2c9ff7ffd8b4",
+      "btih": "43a672d8df62efa751069ddae6d7aa50034a2021",
+      "mtime": "1666893786",
+      "size": "301222",
+      "md5": "a053b8c66a102c691b9fcb0f69feab68",
+      "crc32": "371c93e0",
+      "sha1": "719221ce608c2d6cc6e588ae0a1134ad09c29b19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c60c77d687cd2cd18f5431b5283525a",
+      "md5": "bfc8d9cd6a4846c7670c16c84e1580bf",
       "summation": "md5"
     },
     {
@@ -14495,9 +14506,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1396,
-  "item_last_updated": 1666880391,
-  "item_size": 126196240,
+  "files_count": 1397,
+  "item_last_updated": 1666893786,
+  "item_size": 126207455,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -14514,21 +14525,15 @@
     "publicdate": "2022-06-24 23:00:28",
     "addeddate": "2022-06-24 23:00:28"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169319,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 407002577,
+  "rollingstone-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801408.us.archive.org",
+  "uniq": 583406881,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

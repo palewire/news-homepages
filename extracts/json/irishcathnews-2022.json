@@ -1,5 +1,5 @@
 {
-  "created": 1666876497,
+  "created": 1666916794,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -12203,21 +12203,32 @@
       "format": "JSON"
     },
     {
+      "name": "irishcathnews-2022-10-27T14:13:36.199936+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-27T14:13:36.199936+01:00.jpg",
+      "mtime": "1666891185",
+      "size": "9191",
+      "md5": "bd938511e9c47ed0f7e11c095267c2ce",
+      "crc32": "9ef22fe4",
+      "sha1": "450c297eed806f619ac3f8accb01292d324d4699"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2bb8e083cff33bebe35e3bb6dd505557b193211d",
-      "mtime": "1666876488",
-      "size": "254955",
-      "md5": "0ba872a99b1a3aa21aa7e8aa6bd09370",
-      "crc32": "fa742791",
-      "sha1": "b7b48f24a065411e1009fc1972b0bab263a2fdd0",
+      "btih": "6f76e29db582fc72ebc5a7a097d520ab0e755d94",
+      "mtime": "1666891240",
+      "size": "255164",
+      "md5": "8be17565e808cc0d84b32776b22b161c",
+      "crc32": "17cc60cd",
+      "sha1": "efd6320cb23cb47ec267ef83aa0a6620ee18aed9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d8eb6ba67e3f5c89dc1f25939feb85bf",
+      "md5": "4b843aaf85f3959a46b435a55ebbaf5f",
       "summation": "md5"
     },
     {
@@ -12241,9 +12252,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1183,
-  "item_last_updated": 1666876488,
-  "item_size": 70217546,
+  "files_count": 1184,
+  "irishcathnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666891240,
+  "item_size": 70226946,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -12260,21 +12276,10 @@
     "publicdate": "2022-07-18 02:23:48",
     "addeddate": "2022-07-18 02:23:48"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454133875,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 635239593,
+  "server": "ia801409.us.archive.org",
+  "uniq": 902051497,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

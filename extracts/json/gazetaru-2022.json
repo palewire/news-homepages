@@ -1,5 +1,5 @@
 {
-  "created": 1666893742,
+  "created": 1666916556,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/15/items/gazetaru-2022",
@@ -18177,21 +18177,32 @@
       "format": "JSON"
     },
     {
+      "name": "gazetaru-2022-10-27T20:58:07.692362+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetaru-2022-10-27T20:58:07.692362+03:00.jpg",
+      "mtime": "1666903170",
+      "size": "9117",
+      "md5": "997ef89dc27de6d4f99d08a301df9234",
+      "crc32": "45edf76a",
+      "sha1": "4eb0d1d913718c08c7962f95255fca67de9c6050"
+    },
+    {
       "name": "gazetaru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1be535ebbfe7aa387e3c9bbf6be45975fd1736f2",
-      "mtime": "1666893699",
-      "size": "371194",
-      "md5": "965219b40c1230c9ae601f27fb819f18",
-      "crc32": "eb3d029d",
-      "sha1": "29a1bb409d815220767a95834680a674b3877248",
+      "btih": "68b760c6d784c9830b977267fca6830bf580865e",
+      "mtime": "1666903200",
+      "size": "371398",
+      "md5": "4d2b626d164d712fc18c25ad538507ea",
+      "crc32": "198e8f94",
+      "sha1": "a44528b3934339deb371fac8114d5c5b8969cc7f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetaru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6be224c2e32ea85a033b8cb0790ded16",
+      "md5": "be8df8f0873f49709705c9cf329c8f1b",
       "summation": "md5"
     },
     {
@@ -18215,9 +18226,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1760,
-  "item_last_updated": 1666893699,
-  "item_size": 133328908,
+  "files_count": 1761,
+  "item_last_updated": 1666903200,
+  "item_size": 133338229,
   "metadata": {
     "identifier": "gazetaru-2022",
     "collection": [
@@ -18234,21 +18245,10 @@
     "publicdate": "2022-07-16 20:49:01",
     "addeddate": "2022-07-16 20:49:01"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454305006,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1705639383,
+  "uniq": 1874004929,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666889891,
+  "created": 1666919968,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/16/items/vicenews-2022",
@@ -15627,21 +15627,32 @@
       "format": "JSON"
     },
     {
+      "name": "vicenews-2022-10-27T12:09:50.980404-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-10-27T12:09:50.980404-04:00.jpg",
+      "mtime": "1666897558",
+      "size": "8964",
+      "md5": "32bfbb4ea770efbdc529f8aa2ac153ab",
+      "crc32": "eaa905f3",
+      "sha1": "b378d7213715fd2d389e7bff18b0f86ee62367c8"
+    },
+    {
       "name": "vicenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "303a81dec35a52e736fb1a02b205409d32deb93c",
-      "mtime": "1666887080",
-      "size": "316498",
-      "md5": "eb5dcf938ae7d3ab1d49e065b2a24780",
-      "crc32": "4a4ea7c9",
-      "sha1": "b9ae7d84320da76302dad5707736e981eb3da41e",
+      "btih": "28b14c7667635e87a84ae39fbd2bb9d5adb8562d",
+      "mtime": "1666897610",
+      "size": "316702",
+      "md5": "e7b2f5e08120facddb013fb941102f33",
+      "crc32": "9e47b414",
+      "sha1": "53be61c6437bd8ebb0f74949faf206a6a89dcbd0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vicenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d47315e7e0dcade1c5a9f8d49d9785e6",
+      "md5": "8451a0b770af55e6519aedee31730d3c",
       "summation": "md5"
     },
     {
@@ -15665,9 +15676,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1509,
-  "item_last_updated": 1666887080,
-  "item_size": 76047866,
+  "files_count": 1510,
+  "item_last_updated": 1666897610,
+  "item_size": 76057034,
   "metadata": {
     "identifier": "vicenews-2022",
     "collection": [
@@ -15684,26 +15695,15 @@
     "publicdate": "2022-06-19 23:29:15",
     "addeddate": "2022-06-19 23:29:15"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238000,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2054595032,
+  "server": "ia801501.us.archive.org",
+  "uniq": 865427698,
   "vicenews-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883552,
+  "created": 1666918484,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/28/items/poder360-2022",
@@ -14535,21 +14535,32 @@
       "format": "JSON"
     },
     {
+      "name": "poder360-2022-10-27T11:15:38.702266-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "poder360-2022-10-27T11:15:38.702266-03:00.jpg",
+      "mtime": "1666893687",
+      "size": "10040",
+      "md5": "b462620bceb98a964d458a003b614bec",
+      "crc32": "4ffa744f",
+      "sha1": "6a2ee7e6a2487881490d046ce87d887fb9e3e556"
+    },
+    {
       "name": "poder360-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce1e1bb9d87bc34c47db2bcb05ec9bf604f0b461",
-      "mtime": "1666880337",
-      "size": "297164",
-      "md5": "fe1355724b5e861d873821f7b099ac12",
-      "crc32": "37fa0d6b",
-      "sha1": "93b341c7546585e74cc804a7f8e4f66b43b9eb84",
+      "btih": "04a4909d8bf478572f7a78e275401be5cad41b42",
+      "mtime": "1666893708",
+      "size": "297369",
+      "md5": "3e66e0720793b7d9a0fdbb6bbf721360",
+      "crc32": "9db455fa",
+      "sha1": "09f2638cd5f05297f356e480f4fc515512eb22f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poder360-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c306929a63215df1643c8dfda067091d",
+      "md5": "62e928c6d9cfdc668e51fab4523262cf",
       "summation": "md5"
     },
     {
@@ -14573,9 +14584,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1410,
-  "item_last_updated": 1666880337,
-  "item_size": 94572695,
+  "files_count": 1411,
+  "item_last_updated": 1666893708,
+  "item_size": 94582940,
   "metadata": {
     "identifier": "poder360-2022",
     "collection": [
@@ -14592,7 +14603,6 @@
     "publicdate": "2022-08-07 19:43:59",
     "addeddate": "2022-08-07 19:43:59"
   },
-  "pending_tasks": true,
   "poder360-2022": {
     "url": "https://www.poder360.com.br/",
     "job_id": "spn2-bb10252d49b6ad735fc68c3a4aa90e8f20428e35",
@@ -14841,20 +14851,10 @@
     "duration_sec": 16.349,
     "screenshot": "http://web.archive.org/screenshot/https://www.poder360.com.br/"
   },
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454168778,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1326692720,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1805247465,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

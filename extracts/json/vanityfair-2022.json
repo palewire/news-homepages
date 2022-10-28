@@ -1,5 +1,5 @@
 {
-  "created": 1666889924,
+  "created": 1666919939,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/vanityfair-2022",
@@ -13275,21 +13275,32 @@
       "format": "JSON"
     },
     {
+      "name": "vanityfair-2022-10-27T12:10:07.998566-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vanityfair-2022-10-27T12:10:07.998566-04:00.jpg",
+      "mtime": "1666898342",
+      "size": "8829",
+      "md5": "f4e183268de710789782333baca947f9",
+      "crc32": "687445bd",
+      "sha1": "4e3dce2dab7bc7f505667ca78e6a4c5cde03358a"
+    },
+    {
       "name": "vanityfair-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3c6e24db970bda40262e5ce0b85319c2159f8727",
-      "mtime": "1666887080",
-      "size": "273431",
-      "md5": "e849582a9c49354725993c81d2b31a87",
-      "crc32": "2f1c40ae",
-      "sha1": "589c8e64cbbf970edd1a953af46f180adf092997",
+      "btih": "a3a99969e1886440ca74e450c95abcc687735898",
+      "mtime": "1666898460",
+      "size": "273637",
+      "md5": "c903db76a54ce4c635100c77763c85c9",
+      "crc32": "ebf43c22",
+      "sha1": "1fc478d34decfecd54027d904b33629e8eab9433",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vanityfair-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88d92263fa7e86074323a229d2c37447",
+      "md5": "9beac9f89035dc7f6ec8e0003a9e27f1",
       "summation": "md5"
     },
     {
@@ -13313,9 +13324,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1285,
-  "item_last_updated": 1666887080,
-  "item_size": 88466765,
+  "files_count": 1286,
+  "item_last_updated": 1666898460,
+  "item_size": 88475800,
   "metadata": {
     "identifier": "vanityfair-2022",
     "collection": [
@@ -13332,20 +13343,8 @@
     "publicdate": "2022-07-04 21:47:44",
     "addeddate": "2022-07-04 21:47:44"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454237945,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 866256094,
+  "uniq": 1237685315,
   "vanityfair-2022": {
     "url": "https://www.vanityfair.com/",
     "job_id": "spn2-b2bca771edcdb1afe02c3a3b579fc81058affafe",
@@ -13685,6 +13684,7 @@
     "timestamp": "20221027160102"
   },
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

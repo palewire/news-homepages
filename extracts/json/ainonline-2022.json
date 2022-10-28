@@ -1,5 +1,5 @@
 {
-  "created": 1666910886,
+  "created": 1666913344,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/5/items/ainonline-2022",
@@ -8521,21 +8521,32 @@
       "format": "JSON"
     },
     {
+      "name": "ainonline-2022-10-27T18:46:48.134345-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ainonline-2022-10-27T18:46:48.134345-04:00.jpg",
+      "mtime": "1666913295",
+      "size": "9146",
+      "md5": "8ea30a9ea7f27fcddc258efcd287f95b",
+      "crc32": "3b0e89c0",
+      "sha1": "9be78ce8f54e7c9de3cb605bd90a3e16cdcd147c"
+    },
+    {
       "name": "ainonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd9fdc958d64bfe67a1a98be37fe9e0aea0dfdae",
-      "mtime": "1666910875",
-      "size": "175288",
-      "md5": "b058332a15f797caccfe54626cbe66be",
-      "crc32": "4a1069a7",
-      "sha1": "efebca4a1794123cf29044ae7a496734af2436c7",
+      "btih": "1e477b894d66ecca293b63a3f1deba1648af069f",
+      "mtime": "1666913308",
+      "size": "175493",
+      "md5": "4c729b82e06901e20668f1f26b51b551",
+      "crc32": "9fef2bb0",
+      "sha1": "f6eb64d82ccea7a61241319325749799bdfb54df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ainonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ae7ee0928c354f3e2f1d8511e4608f62",
+      "md5": "200a064b7343ee45bc82f37da11d2997",
       "summation": "md5"
     },
     {
@@ -8559,9 +8570,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 828,
-  "item_last_updated": 1666910875,
-  "item_size": 48587751,
+  "files_count": 829,
+  "item_last_updated": 1666913308,
+  "item_size": 48597102,
   "metadata": {
     "identifier": "ainonline-2022",
     "collection": [
@@ -8578,21 +8589,10 @@
     "publicdate": "2022-08-20 22:58:54",
     "addeddate": "2022-08-20 22:58:54"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454508301,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 136500541,
+  "uniq": 1927469200,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

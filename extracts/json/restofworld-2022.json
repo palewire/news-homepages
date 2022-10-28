@@ -1,5 +1,5 @@
 {
-  "created": 1666898921,
+  "created": 1666906893,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/17/items/restofworld-2022",
@@ -11369,21 +11369,32 @@
       "format": "JSON"
     },
     {
+      "name": "restofworld-2022-10-27T15:26:28.151135-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "restofworld-2022-10-27T15:26:28.151135-04:00.jpg",
+      "mtime": "1666906745",
+      "size": "10282",
+      "md5": "a53d2fa7f9b6e134d6c4ec1b42db00d0",
+      "crc32": "9e9f9bd3",
+      "sha1": "d0940d0d19ccc046e07a219432d92be6e90739f1"
+    },
+    {
       "name": "restofworld-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d1cdddcc76432a4449f98ee6d23ad7326a57b35",
-      "mtime": "1666898907",
-      "size": "236173",
-      "md5": "87f2f4c370216ab937bba16553a79a09",
-      "crc32": "0b6181bf",
-      "sha1": "e723c6d3ce0e681de9f55e1bbf3fd75e60f5291d",
+      "btih": "e18a2a3cc37db7a3138adf8cf09db095c388f756",
+      "mtime": "1666906820",
+      "size": "236381",
+      "md5": "75ca7ce7f54c038c15e67bc1a672b13d",
+      "crc32": "95503a8b",
+      "sha1": "99785388a626147b23a7a5342609d62a7af2c407",
       "format": "Archive BitTorrent"
     },
     {
       "name": "restofworld-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34402a9bb9ddbf0a34fe57f517f029b1",
+      "md5": "a88695b6263d5d4fbd8b71f648464a8f",
       "summation": "md5"
     },
     {
@@ -11407,9 +11418,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1103,
-  "item_last_updated": 1666898907,
-  "item_size": 78569708,
+  "files_count": 1104,
+  "item_last_updated": 1666906820,
+  "item_size": 78580198,
   "metadata": {
     "identifier": "restofworld-2022",
     "collection": [
@@ -11426,21 +11437,10 @@
     "publicdate": "2022-07-25 15:39:47",
     "addeddate": "2022-07-25 15:39:47"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454357864,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1191294586,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1118924414,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

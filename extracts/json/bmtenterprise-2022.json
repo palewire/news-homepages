@@ -1,5 +1,5 @@
 {
-  "created": 1666911050,
+  "created": 1666914190,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/bmtenterprise-2022",
@@ -11809,21 +11809,32 @@
       "format": "JSON"
     },
     {
+      "name": "bmtenterprise-2022-10-27T17:48:03.747748-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bmtenterprise-2022-10-27T17:48:03.747748-05:00.jpg",
+      "mtime": "1666914073",
+      "size": "10738",
+      "md5": "436cb08deafc3634a5011546296cf152",
+      "crc32": "4282115d",
+      "sha1": "31f27d49d4f8ac225d5a864acfcac7334f25d876"
+    },
+    {
       "name": "bmtenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e2fee94fadb669a24b33c0ff15567127b74807c4",
-      "mtime": "1666911014",
-      "size": "247605",
-      "md5": "ae136443d871d2931c16a1a94611151e",
-      "crc32": "fddf4242",
-      "sha1": "f1934e3c7e6ad0e55a69b1fa7de3c0d0bb52d907",
+      "btih": "b27bd9824382bd3a667b3452da075b6e1429b9a3",
+      "mtime": "1666914117",
+      "size": "247815",
+      "md5": "6b60ce5105fa49387203e931d5a5ebf2",
+      "crc32": "ac735bca",
+      "sha1": "208648fd2a5bcc89bf90b4280f3f5be5021030f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bmtenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4333a19349e6f317544999fd46d69a74",
+      "md5": "2ceb563d59e7179ebf127408fb9987d0",
       "summation": "md5"
     },
     {
@@ -11847,9 +11858,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1143,
-  "item_last_updated": 1666911014,
-  "item_size": 102219327,
+  "files_count": 1144,
+  "item_last_updated": 1666914117,
+  "item_size": 102230275,
   "metadata": {
     "identifier": "bmtenterprise-2022",
     "collection": [
@@ -11866,21 +11877,10 @@
     "publicdate": "2022-07-18 00:04:22",
     "addeddate": "2022-07-18 00:04:22"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454512112,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 494130001,
+  "server": "ia801404.us.archive.org",
+  "uniq": 361429759,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

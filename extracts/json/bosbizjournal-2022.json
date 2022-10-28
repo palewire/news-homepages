@@ -64,7 +64,7 @@
       "https://www.google.com/recaptcha/api2/bframe?hl=en&v=NJPGLzpIZgjszqyOymHUP0XR&k=6Ld38BkUAAAAAPATwit3FXvga1PI6iVTb6zgXw62"
     ]
   },
-  "created": 1666890954,
+  "created": 1666915772,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/34/items/bosbizjournal-2022",
@@ -9258,21 +9258,32 @@
       "format": "JSON"
     },
     {
+      "name": "bosbizjournal-2022-10-27T12:10:34.520490-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bosbizjournal-2022-10-27T12:10:34.520490-04:00.jpg",
+      "mtime": "1666897892",
+      "size": "8846",
+      "md5": "1c1bcff3d08d299cfdcec1d6470692ce",
+      "crc32": "7bdd0d25",
+      "sha1": "e3a81da06e9273754645880da8f80a08de54ab30"
+    },
+    {
       "name": "bosbizjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b82f8fdec9edfca65851788a6e0014eca639f124",
-      "mtime": "1666887111",
-      "size": "192617",
-      "md5": "1fd7647cec1e012af7e5547330fa9fff",
-      "crc32": "69c74517",
-      "sha1": "8e0c48da311a1cd67efda737548860aa821a92c8",
+      "btih": "7c8f35c70c4ba1a7b4f754a2f121563b71de788c",
+      "mtime": "1666897903",
+      "size": "192826",
+      "md5": "5bd2cf411e5609a90efca16c77cedff4",
+      "crc32": "d180d1cd",
+      "sha1": "6a65338199c162e73bad124ee7660c8bd9a15738",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bosbizjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "215f8097abec08d702f3b77c4cdfa8b6",
+      "md5": "6b3cb2f87619ced664f3bbf97df571eb",
       "summation": "md5"
     },
     {
@@ -9296,9 +9307,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 893,
-  "item_last_updated": 1666887111,
-  "item_size": 62547551,
+  "files_count": 894,
+  "item_last_updated": 1666897903,
+  "item_size": 62556606,
   "metadata": {
     "identifier": "bosbizjournal-2022",
     "collection": [
@@ -9315,21 +9326,10 @@
     "publicdate": "2022-08-14 05:02:07",
     "addeddate": "2022-08-14 05:02:07"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238390,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 503481304,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1310106258,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

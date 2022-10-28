@@ -1,5 +1,5 @@
 {
-  "created": 1666900573,
+  "created": 1666908176,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/voiceofoc-2022",
@@ -18141,21 +18141,32 @@
       "format": "JSON"
     },
     {
+      "name": "voiceofoc-2022-10-27T12:54:36.331634-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voiceofoc-2022-10-27T12:54:36.331634-07:00.jpg",
+      "mtime": "1666907801",
+      "size": "9989",
+      "md5": "b0de74ef654ea9839b65914641d17ac3",
+      "crc32": "9acaa0ab",
+      "sha1": "69b3fc3bd7f7ea75e0974263ef5792fde0202d27"
+    },
+    {
       "name": "voiceofoc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "145d1533df33095fe70f612a07613572bf06587c",
-      "mtime": "1666900564",
-      "size": "371658",
-      "md5": "6a2b8c774f7a725268c98a942492d4d6",
-      "crc32": "383a292d",
-      "sha1": "86789b6a0781fe2aa26f1e1be3ad7439ccd3660b",
+      "btih": "9cfed70aece777ab43e897e95a4a150f61a829f2",
+      "mtime": "1666908119",
+      "size": "371863",
+      "md5": "b876d3e898f7d253221bdbcb8e6e628c",
+      "crc32": "09dff4e6",
+      "sha1": "46ddd1105f59696b1a742018f03bc60ca6c17232",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofoc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3809cf5886285b59c40f853880c4ce9e",
+      "md5": "d8c581430a05cfccd1c740a2ea4ca5a7",
       "summation": "md5"
     },
     {
@@ -18179,9 +18190,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1755,
-  "item_last_updated": 1666900564,
-  "item_size": 120865343,
+  "files_count": 1756,
+  "item_last_updated": 1666908119,
+  "item_size": 120875537,
   "metadata": {
     "identifier": "voiceofoc-2022",
     "collection": [
@@ -18198,21 +18209,10 @@
     "publicdate": "2022-07-09 04:04:32",
     "addeddate": "2022-07-09 04:04:32"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372636,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2134566612,
+  "server": "ia801408.us.archive.org",
+  "uniq": 308935486,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

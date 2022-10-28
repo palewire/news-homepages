@@ -1,5 +1,5 @@
 {
-  "created": 1666898628,
+  "created": 1666918272,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/observatorio-2022",
@@ -14995,21 +14995,18 @@
     "publicdate": "2022-08-04 04:55:35",
     "addeddate": "2022-08-04 04:55:35"
   },
-  "pending_tasks": true,
+  "observatorio-2022": {
+    "url": "https://www.observatoriodaimprensa.com.br/",
+    "job_id": "spn2-51f5e65ad2d1444693cc615f55119d8cb1b63d52",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355121,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 229048324,
+  "uniq": 1069027355,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666883554,
+  "created": 1666909745,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/16/items/thecityny-2022",
@@ -15797,21 +15797,32 @@
       "format": "JSON"
     },
     {
+      "name": "thecityny-2022-10-27T11:11:20.296205-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-10-27T11:11:20.296205-04:00.jpg",
+      "mtime": "1666895655",
+      "size": "9185",
+      "md5": "fbca157a0347bd9f121ec08d8a24e2a2",
+      "crc32": "1801ea14",
+      "sha1": "4499e24b6381e254de864b12b63d462ca49db9ca"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "656797b98f640948f3cccfb5f49e3a1d0803a11c",
-      "mtime": "1666883548",
-      "size": "322399",
-      "md5": "c88b6bd33f607ff22ec9ace2b62f70ed",
-      "crc32": "eb4529b3",
-      "sha1": "e8f89945c1f455a2043ace31be3cea084283bcae",
+      "btih": "8c72b4f40f3cf541741dc5eb73dae4be257f25a7",
+      "mtime": "1666895680",
+      "size": "322604",
+      "md5": "ea66a1820b9e5eda4af802b6b1718619",
+      "crc32": "7d8e9318",
+      "sha1": "86d969bcf4677b64f3498ed825fbba109608ea5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f57d90e35956f84c95803813ba3f208",
+      "md5": "88fdd646633a51f2db03533e640ebdb0",
       "summation": "md5"
     },
     {
@@ -15835,9 +15846,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1525,
-  "item_last_updated": 1666883548,
-  "item_size": 96843520,
+  "files_count": 1526,
+  "item_last_updated": 1666895680,
+  "item_size": 96852910,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -15854,21 +15865,10 @@
     "publicdate": "2022-06-19 23:28:39",
     "addeddate": "2022-06-19 23:28:39"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454197271,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 639798321,
+  "uniq": 111199362,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

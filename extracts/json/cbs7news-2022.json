@@ -1,5 +1,5 @@
 {
-  "created": 1666911080,
+  "created": 1666914000,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/8/items/cbs7news-2022",
@@ -12269,21 +12269,32 @@
       "format": "JSON"
     },
     {
+      "name": "cbs7news-2022-10-27T17:49:41.901271-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-27T17:49:41.901271-05:00.jpg",
+      "mtime": "1666913835",
+      "size": "10881",
+      "md5": "0033baf591b2e82af550bc10b58beaa1",
+      "crc32": "dcd87bd7",
+      "sha1": "84bc3971d60d4c29f346eb92a220450e5cb6691c"
+    },
+    {
       "name": "cbs7news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1d8a509fcf0a1571f733b7bcdb5a56f04321743c",
-      "mtime": "1666911073",
-      "size": "251179",
-      "md5": "e2a41943062d1eedd391749217bb1344",
-      "crc32": "392c9ff8",
-      "sha1": "4089d2788f7023699cb8ebe69d64e46c0f1e9be8",
+      "btih": "11bbeae8d540d432c12a256b894e0d1283df7ba8",
+      "mtime": "1666913870",
+      "size": "251384",
+      "md5": "842580d66d4d01a42f5f87c0cf9160eb",
+      "crc32": "37c152a7",
+      "sha1": "2d75f942ece1072f997b23b278fcef65796d6f6a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbs7news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9c5ba2406316880329824cad79a57981",
+      "md5": "25cfe2cfdc8188c9913cee550165a3db",
       "summation": "md5"
     },
     {
@@ -12307,9 +12318,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1189,
-  "item_last_updated": 1666911073,
-  "item_size": 90342783,
+  "files_count": 1190,
+  "item_last_updated": 1666913870,
+  "item_size": 90353869,
   "metadata": {
     "identifier": "cbs7news-2022",
     "collection": [
@@ -12326,21 +12337,10 @@
     "publicdate": "2022-07-18 00:04:04",
     "addeddate": "2022-07-18 00:04:04"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454512560,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 175104349,
+  "server": "ia801403.us.archive.org",
+  "uniq": 387919611,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

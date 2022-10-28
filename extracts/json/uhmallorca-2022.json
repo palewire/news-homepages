@@ -1,5 +1,5 @@
 {
-  "created": 1666883762,
+  "created": 1666919842,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/7/items/uhmallorca-2022",
@@ -11087,21 +11087,32 @@
       "format": "JSON"
     },
     {
+      "name": "uhmallorca-2022-10-27T17:14:23.561735+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uhmallorca-2022-10-27T17:14:23.561735+02:00.jpg",
+      "mtime": "1666895783",
+      "size": "9528",
+      "md5": "d0dfb99311eb4048e10161902fa2a982",
+      "crc32": "9193f34a",
+      "sha1": "cd367123d4aef6b9ea9bb3990bbebd1f6d85f964"
+    },
+    {
       "name": "uhmallorca-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b4d1c88f09a93a30dc483ba3255d7bb9d6bd03cb",
-      "mtime": "1666883753",
-      "size": "229794",
-      "md5": "58d2fb0d5a1f911556e30019cfd0b2d0",
-      "crc32": "0d5ef683",
-      "sha1": "cc8f8c906139aaa6dcd82363e46e6bcfb2aa6944",
+      "btih": "9aaa4d9a89db08f218a2726d6629bf9a53986253",
+      "mtime": "1666895814",
+      "size": "230000",
+      "md5": "995dc6de18933a09efc41330a345b322",
+      "crc32": "6aa8e2bb",
+      "sha1": "602f92ee26e6209468f924d3f9f7bbd825d61e7b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uhmallorca-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80df05c5e1a543658eb691bbd2597f7d",
+      "md5": "96151762e42481e6d15d05d90a20d022",
       "summation": "md5"
     },
     {
@@ -11125,9 +11136,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1076,
-  "item_last_updated": 1666883753,
-  "item_size": 87867578,
+  "files_count": 1077,
+  "item_last_updated": 1666895814,
+  "item_size": 87877312,
   "metadata": {
     "identifier": "uhmallorca-2022",
     "collection": [
@@ -11144,21 +11155,15 @@
     "publicdate": "2022-07-28 18:53:58",
     "addeddate": "2022-07-28 18:53:58"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454199295,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1211634109,
+  "uhmallorca-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 463408514,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

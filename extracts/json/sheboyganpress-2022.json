@@ -1,5 +1,5 @@
 {
-  "created": 1666886666,
+  "created": 1666919041,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/sheboyganpress-2022",
@@ -4571,21 +4571,32 @@
       "format": "JSON"
     },
     {
+      "name": "sheboyganpress-2022-10-27T10:07:28.637734-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sheboyganpress-2022-10-27T10:07:28.637734-05:00.jpg",
+      "mtime": "1666895546",
+      "size": "9077",
+      "md5": "12000a442ddd3f60fe2a33bb1342573a",
+      "crc32": "b7f7025f",
+      "sha1": "d856f81b3f8c36bb8e9ac0060b4105c3f9716204"
+    },
+    {
       "name": "sheboyganpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bac913bcb7ebeeafe171efacc4523d3e47eb1b94",
-      "mtime": "1666883309",
-      "size": "97196",
-      "md5": "defc7e4c9879cd33c562cadda120d008",
-      "crc32": "6c3237c0",
-      "sha1": "70d5453413568da1959ce4ba1e00b145386dd8e3",
+      "btih": "699d08285a4a0fc94607492cb7a3188aca54c0d6",
+      "mtime": "1666895554",
+      "size": "97406",
+      "md5": "9028b4de796c6c3f82f7705cd5a14d2a",
+      "crc32": "f6db9747",
+      "sha1": "e6b6eff4e42473c8c0cda6cc3fe5335bd90cfe9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sheboyganpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "07b46f324b6817a1462ede8b5c449fd4",
+      "md5": "5e9e93b9d07684bbc8d7db4757beeede",
       "summation": "md5"
     },
     {
@@ -4609,9 +4620,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 446,
-  "item_last_updated": 1666883309,
-  "item_size": 31887386,
+  "files_count": 447,
+  "item_last_updated": 1666895554,
+  "item_size": 31896673,
   "metadata": {
     "identifier": "sheboyganpress-2022",
     "collection": [
@@ -4628,25 +4639,14 @@
     "publicdate": "2022-09-21 03:42:57",
     "addeddate": "2022-09-21 03:42:57"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
   "sheboyganpress-2022": {
     "url": "https://www.sheboyganpress.com/",
     "job_id": "spn2-e5c7ac6918d8d9a199a662e66fe26b714188d6df"
   },
-  "tasks": [
-    {
-      "task_id": 3454194488,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1100646552,
+  "uniq": 1905944837,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

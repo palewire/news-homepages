@@ -1,5 +1,5 @@
 {
-  "created": 1666900548,
+  "created": 1666907850,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/verticalmag-2022",
@@ -8209,21 +8209,32 @@
       "format": "JSON"
     },
     {
+      "name": "verticalmag-2022-10-27T15:54:36.924684-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verticalmag-2022-10-27T15:54:36.924684-04:00.jpg",
+      "mtime": "1666907740",
+      "size": "9373",
+      "md5": "f624a2955f4794ff7ba69bcf51f781dd",
+      "crc32": "cb4eae5e",
+      "sha1": "1ea2489c6fc0a1f7818eeeffb880b2b2c5523a72"
+    },
+    {
       "name": "verticalmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2bb8964b0da92da43c1261c99a0cea2cef7350ba",
-      "mtime": "1666900543",
-      "size": "170562",
-      "md5": "81b82fec70d596a5a01402967850d711",
-      "crc32": "d7800531",
-      "sha1": "c555339bec28fb605376a9f9ee3378b82111acf1",
+      "btih": "ce805ddf64ec6f97e9f212229d42d3a54f7c7bdb",
+      "mtime": "1666907814",
+      "size": "170789",
+      "md5": "da1ab56e871a31d8bb61ea438120f2e9",
+      "crc32": "75db98a6",
+      "sha1": "60352d697eab4cfd71e8cc9f84e8e243b1b47013",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verticalmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb21dee7aebbe4a5385ffbbeed0fdbe3",
+      "md5": "9b347ef1d1e53d3f748cc11b23cb7622",
       "summation": "md5"
     },
     {
@@ -8247,9 +8258,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 798,
-  "item_last_updated": 1666900543,
-  "item_size": 47354232,
+  "files_count": 799,
+  "item_last_updated": 1666907814,
+  "item_size": 47363832,
   "metadata": {
     "identifier": "verticalmag-2022",
     "collection": [
@@ -8266,21 +8277,10 @@
     "publicdate": "2022-08-21 03:39:38",
     "addeddate": "2022-08-21 03:39:38"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372382,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1912951524,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1319010937,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

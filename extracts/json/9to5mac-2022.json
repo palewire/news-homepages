@@ -1,5 +1,5 @@
 {
-  "created": 1666910802,
+  "created": 1666913301,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/9to5mac-2022",
@@ -11660,21 +11660,32 @@
       "format": "JSON"
     },
     {
+      "name": "9to5mac-2022-10-27T15:45:33.717623-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "9to5mac-2022-10-27T15:45:33.717623-07:00.jpg",
+      "mtime": "1666913170",
+      "size": "9784",
+      "md5": "ebf216fee6504b411df08bcc5930902a",
+      "crc32": "4fe6eb12",
+      "sha1": "5e764af46cffd5c53a2b00576ef900a1166e143e"
+    },
+    {
       "name": "9to5mac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0f8605eca2b851126b795c44558bb2ee7277f645",
-      "mtime": "1666910798",
-      "size": "237616",
-      "md5": "8fd1842b5d5c72101bf51cac1435cb09",
-      "crc32": "bdf83271",
-      "sha1": "16ccd2bc1632a6055014f4e856217bf339f0fc2a",
+      "btih": "497da1a3feaf85a82aad1246bfc332fb3e99c7f0",
+      "mtime": "1666913234",
+      "size": "237819",
+      "md5": "b557b4e0f1cab27fccd231b4ae491e07",
+      "crc32": "6287afe2",
+      "sha1": "2ebfa2e755a13ebcb9279673c523c2705ac91a65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "9to5mac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de4ff13a794866a0e961f65cb27c805b",
+      "md5": "f3a808c7a56abf8aa569bc7ca1688feb",
       "summation": "md5"
     },
     {
@@ -11709,9 +11720,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1132,
-  "item_last_updated": 1666910798,
-  "item_size": 78117816,
+  "files_count": 1133,
+  "item_last_updated": 1666913234,
+  "item_size": 78127803,
   "metadata": {
     "identifier": "9to5mac-2022",
     "collection": [
@@ -11728,21 +11739,10 @@
     "publicdate": "2022-07-25 06:47:05",
     "addeddate": "2022-07-25 06:47:05"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454506412,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1391276343,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1347255969,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

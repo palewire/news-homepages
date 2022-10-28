@@ -1,5 +1,5 @@
 {
-  "created": 1666893394,
+  "created": 1666902652,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/13/items/el_timpano-2022",
@@ -13205,21 +13205,32 @@
       "format": "JSON"
     },
     {
+      "name": "el_timpano-2022-10-27T10:55:16.321440-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_timpano-2022-10-27T10:55:16.321440-07:00.jpg",
+      "mtime": "1666902590",
+      "size": "8435",
+      "md5": "4bc4a1643ca2c66a1990846446190b57",
+      "crc32": "e6f792ef",
+      "sha1": "9b81488c5d60a19a0fdc032480a1333f7915af94"
+    },
+    {
       "name": "el_timpano-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd5f37442de057a8c4b4a00b604a9bcb7376f52c",
-      "mtime": "1666893387",
-      "size": "270506",
-      "md5": "4bc1aaebcd2bf8283e8178e010c4a0a7",
-      "crc32": "6f8ee2a7",
-      "sha1": "aab75409f9c363f9f3e4dad132a442f65293a6b3",
+      "btih": "7c03a408e7ffa675a96b3bc907a23283313e8212",
+      "mtime": "1666902636",
+      "size": "270712",
+      "md5": "2158173c5498602037bb5f095c7df4e6",
+      "crc32": "4f06b522",
+      "sha1": "ff96349edd3b2f313ae14d0b7f24bd15e63f1693",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_timpano-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32bd1495a4bfab86af2f475122877fe7",
+      "md5": "91396aae4c352062335e9cbc3f0775c7",
       "summation": "md5"
     },
     {
@@ -13243,9 +13254,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1278,
-  "item_last_updated": 1666893387,
-  "item_size": 60753686,
+  "files_count": 1279,
+  "item_last_updated": 1666902636,
+  "item_size": 60762327,
   "metadata": {
     "identifier": "el_timpano-2022",
     "collection": [
@@ -13262,21 +13273,10 @@
     "publicdate": "2022-07-09 03:58:15",
     "addeddate": "2022-07-09 03:58:15"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300803,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2071136778,
+  "server": "ia801402.us.archive.org",
+  "uniq": 830754346,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

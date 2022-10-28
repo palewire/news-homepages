@@ -1,5 +1,5 @@
 {
-  "created": 1666877058,
+  "created": 1666917757,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/33/items/mediapart-2022",
@@ -17109,21 +17109,32 @@
       "format": "JSON"
     },
     {
+      "name": "mediapart-2022-10-27T15:20:45.527618+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mediapart-2022-10-27T15:20:45.527618+02:00.jpg",
+      "mtime": "1666891582",
+      "size": "9866",
+      "md5": "e7420aeeb80a03d43636163cbc967017",
+      "crc32": "d16a1f3e",
+      "sha1": "d9208806edca896ddc569b5ae9a3687179c64685"
+    },
+    {
       "name": "mediapart-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6170c3af763176a4dc2f7d1b9c4c70394f006650",
-      "mtime": "1666877046",
-      "size": "351960",
-      "md5": "2fb84fe6e2f1ac51c53866928ba234af",
-      "crc32": "182b9dd6",
-      "sha1": "6bf8cc6fa32ae982f9d260608994663b22476737",
+      "btih": "9ebffbcfd64f87287889101383f948f551aecea9",
+      "mtime": "1666891696",
+      "size": "352185",
+      "md5": "3168a57767841e860600bd22caf9090e",
+      "crc32": "d6f6a98f",
+      "sha1": "b6decf18715b357fd1fb2775f9af33724939cd84",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mediapart-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a79644f39e82a13b844ebe363fef343",
+      "md5": "8c74824ae5084f355092d2448cccb4ac",
       "summation": "md5"
     },
     {
@@ -17147,9 +17158,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1658,
-  "item_last_updated": 1666877046,
-  "item_size": 138233129,
+  "files_count": 1659,
+  "item_last_updated": 1666891696,
+  "item_size": 138243220,
+  "mediapart-2022": {
+    "url": "https://www.mediapart.fr/",
+    "job_id": "spn2-c35441e0e879bd7f2a33a06b92415d0d7c6ae794",
+    "message": "The same snapshot had been made 18 minutes, 43 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "metadata": {
     "identifier": "mediapart-2022",
     "collection": [
@@ -17166,21 +17182,10 @@
     "publicdate": "2022-07-26 00:19:46",
     "addeddate": "2022-07-26 00:19:46"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454139807,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 731534034,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1453529535,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

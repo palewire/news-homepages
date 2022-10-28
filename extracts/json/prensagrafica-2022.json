@@ -1,5 +1,5 @@
 {
-  "created": 1666898635,
+  "created": 1666906542,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/25/items/prensagrafica-2022",
@@ -14371,21 +14371,32 @@
       "format": "JSON"
     },
     {
+      "name": "prensagrafica-2022-10-27T13:22:35.968505-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prensagrafica-2022-10-27T13:22:35.968505-06:00.jpg",
+      "mtime": "1666906490",
+      "size": "12088",
+      "md5": "5bfd6fb09cd1db32b048777717dbe938",
+      "crc32": "0dd157c7",
+      "sha1": "82343e35e361cbf5eed375d6f50a16c3d8eea809"
+    },
+    {
       "name": "prensagrafica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53ee5b529217c8ab45bfa3788dd6fdb844029fec",
-      "mtime": "1666898628",
-      "size": "300781",
-      "md5": "d996e61f8a5872e5a55e3b613b01a8f3",
-      "crc32": "6ff20e18",
-      "sha1": "71fe6983b4247e4ad334b0c86aa5e771f9285851",
+      "btih": "e1fbd061a663679c7dfa70880e73920c1ed01327",
+      "mtime": "1666906522",
+      "size": "300991",
+      "md5": "37b5a85fed0031835f181ad457a9198d",
+      "crc32": "93286f8c",
+      "sha1": "6e50450e699370362df9cba33ccb96a8461452fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prensagrafica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac3c9b1ba56a0121a903256933f32101",
+      "md5": "78a977938dc216fd93d94dc76e6006c5",
       "summation": "md5"
     },
     {
@@ -14409,9 +14420,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1388,
-  "item_last_updated": 1666898628,
-  "item_size": 128476840,
+  "files_count": 1389,
+  "item_last_updated": 1666906522,
+  "item_size": 128489138,
   "metadata": {
     "identifier": "prensagrafica-2022",
     "collection": [
@@ -14428,21 +14439,10 @@
     "publicdate": "2022-06-24 22:59:26",
     "addeddate": "2022-06-24 22:59:26"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355168,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 272426764,
+  "uniq": 973294561,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

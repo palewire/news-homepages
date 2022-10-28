@@ -1,5 +1,5 @@
 {
-  "created": 1666883413,
+  "created": 1666918249,
   "d1": "ia904705.us.archive.org",
   "d2": "ia804705.us.archive.org",
   "dir": "/8/items/oaklandside-2022",
@@ -20543,21 +20543,32 @@
       "format": "JSON"
     },
     {
+      "name": "oaklandside-2022-10-27T07:15:26.363828-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-10-27T07:15:26.363828-07:00.jpg",
+      "mtime": "1666894094",
+      "size": "10992",
+      "md5": "2c15470953e6ba24210a3e1efaba23a9",
+      "crc32": "01cc1268",
+      "sha1": "6175833fda81a21b34b22cd18b56a520c6b275f6"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7a96742bd71fda1d6cdbcef56eacf3876de96683",
-      "mtime": "1666880208",
-      "size": "423298",
-      "md5": "fa8756b3f4f485a037461eb0583510b3",
-      "crc32": "45cd3772",
-      "sha1": "eaca38f5a11a172595aa6787f19afb5f9ebeae5c",
+      "btih": "c3d02ba8e703f9a62e80055282758bcf5c35cf5a",
+      "mtime": "1666894141",
+      "size": "423506",
+      "md5": "90fd3c7572edcd7afd7f81a23a248a1b",
+      "crc32": "3d70d94f",
+      "sha1": "b5f6c3536d3384c42f8ca22ee42d9d0105caeb5e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7e2a9001ec6ba75a83811ee52ff24dbf",
+      "md5": "2a81c68cf9a55727b324ec5e71332ed5",
       "summation": "md5"
     },
     {
@@ -20581,9 +20592,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1976,
-  "item_last_updated": 1666880208,
-  "item_size": 171205563,
+  "files_count": 1977,
+  "item_last_updated": 1666894141,
+  "item_size": 171216763,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -20884,21 +20895,10 @@
       "https://pagead2.googlesyndication.com/pcs/activeview?xai=AKAOjsspGVGWodHRZMrHSfvqTYcfu6fl003JKR69nr191vvSmz4ya2jHRY6MdOlG_dB4udk3fBIjFHLi1M85ZxJPpJN36qPHcniUTKZX2YD5TrqtF6u7iex3&sig=Cg0ArKJSzMlCXqSgeISOEAE&id=lidar2&mcvt=1005&p=5993,709,6243,1009&mtos=1005,1005,1005,1005,1005&tos=1005,0,0,0,0&v=20221026&bin=7&avms=nio&bs=1055,10071&mc=1&vu=1&app=0&itpl=3&adk=4170394474&rs=4&la=0&cr=0&vs=4&r=v&rst=1666879568755&rpt=208&isd=0&lsd=0&met=mue&wmsd=0"
     ]
   },
-  "pending_tasks": true,
-  "server": "ia904705.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167515,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1688947890,
+  "server": "ia804705.us.archive.org",
+  "uniq": 1099904852,
   "workable_servers": [
+    "ia804705.us.archive.org",
     "ia904705.us.archive.org"
   ]
 }

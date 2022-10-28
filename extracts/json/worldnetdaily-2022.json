@@ -1,5 +1,5 @@
 {
-  "created": 1666901377,
+  "created": 1666920012,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/worldnetdaily-2022",
@@ -17641,21 +17641,32 @@
       "format": "JSON"
     },
     {
+      "name": "worldnetdaily-2022-10-27T16:03:11.036340-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-10-27T16:03:11.036340-04:00.jpg",
+      "mtime": "1666908615",
+      "size": "12249",
+      "md5": "3a784e281fb797c3d0c8661f7e9bef2f",
+      "crc32": "c67c8ba6",
+      "sha1": "e7e944e27f15c893b0fe04716a8dba1e8046960e"
+    },
+    {
       "name": "worldnetdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db430c21eb9e9172cfaf04c01369035cccd43bcf",
-      "mtime": "1666901361",
-      "size": "369220",
-      "md5": "88317c08d30d7b9f9cb7be1519d39f13",
-      "crc32": "b21fe8a4",
-      "sha1": "69233e0bf3d2f0c3245bc70c44d997bdcbef7caa",
+      "btih": "cd66f67649e8e182874a53c00293fd6a647e205f",
+      "mtime": "1666908639",
+      "size": "369430",
+      "md5": "209ddada8d35440b980e46aec6615fd4",
+      "crc32": "f53cf018",
+      "sha1": "032eb56ba22cbc818c47a330cacbe268e6d0390e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "worldnetdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "735d31a72262afe9975c184b1d502f37",
+      "md5": "fe133a8c183b982dc33337bb19214dbf",
       "summation": "md5"
     },
     {
@@ -17679,9 +17690,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1708,
-  "item_last_updated": 1666901361,
-  "item_size": 133150299,
+  "files_count": 1709,
+  "item_last_updated": 1666908639,
+  "item_size": 133162758,
   "metadata": {
     "identifier": "worldnetdaily-2022",
     "collection": [
@@ -17698,21 +17709,10 @@
     "publicdate": "2022-07-17 15:04:09",
     "addeddate": "2022-07-17 15:04:09"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454382222,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1513758604,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1024795184,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

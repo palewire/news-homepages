@@ -1,5 +1,5 @@
 {
-  "created": 1666880038,
+  "created": 1666913638,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/9/items/niemanlab-2022",
@@ -12079,21 +12079,32 @@
       "format": "JSON"
     },
     {
+      "name": "niemanlab-2022-10-27T10:12:34.209251-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "niemanlab-2022-10-27T10:12:34.209251-04:00.jpg",
+      "mtime": "1666893344",
+      "size": "8992",
+      "md5": "0d60b866b121669319ae084dac07695b",
+      "crc32": "004711e0",
+      "sha1": "035577392074e3c6ec0977bc9d0a692503046613"
+    },
+    {
       "name": "niemanlab-2022_archive.torrent",
       "source": "metadata",
-      "btih": "25cdaf7daa688a6136a8d43e62e705f01add8dc1",
-      "mtime": "1666880034",
-      "size": "247647",
-      "md5": "9ae23dbf3ec915cc4636bb0aea2c710f",
-      "crc32": "1cd2487e",
-      "sha1": "988c051de531f0bf8d26560a3a8ce336fa4df1c4",
+      "btih": "b5e2595eb4d3fea088587c2234e090656e566e58",
+      "mtime": "1666893379",
+      "size": "247852",
+      "md5": "c893e31142ec27381c3edd3fbebd416a",
+      "crc32": "9dfe9b0c",
+      "sha1": "ebb327daac6b13d6a93aa0ca4c8021f11eb06652",
       "format": "Archive BitTorrent"
     },
     {
       "name": "niemanlab-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad070bdc695bf4dcffe8ffe56b51a627",
+      "md5": "376804ec9c728b571e42a9677e1c2afb",
       "summation": "md5"
     },
     {
@@ -12117,9 +12128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1171,
-  "item_last_updated": 1666880034,
-  "item_size": 68193478,
+  "files_count": 1172,
+  "item_last_updated": 1666893379,
+  "item_size": 68202675,
   "metadata": {
     "identifier": "niemanlab-2022",
     "collection": [
@@ -12136,21 +12147,10 @@
     "publicdate": "2022-07-18 17:57:47",
     "addeddate": "2022-07-18 17:57:47"
   },
-  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454165909,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 399344962,
+  "uniq": 1944839158,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

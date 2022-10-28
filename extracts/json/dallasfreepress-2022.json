@@ -1,5 +1,5 @@
 {
-  "created": 1666893291,
+  "created": 1666902585,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/dallasfreepress-2022",
@@ -12877,21 +12877,32 @@
       "format": "JSON"
     },
     {
+      "name": "dallasfreepress-2022-10-27T12:53:22.274018-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasfreepress-2022-10-27T12:53:22.274018-05:00.jpg",
+      "mtime": "1666902478",
+      "size": "9285",
+      "md5": "1901a508e06b324274b1ce70f87ad774",
+      "crc32": "cb625c1e",
+      "sha1": "cb84ab6f696f3c8ae0f66278927a3225a7381365"
+    },
+    {
       "name": "dallasfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6db299633ea0159c272914aeec738ccf6c621a6",
-      "mtime": "1666893275",
-      "size": "270544",
-      "md5": "0780e46b5d27993e5dc68f8e2a62c832",
-      "crc32": "e4e02f0c",
-      "sha1": "8cfb61ab0fb84df49f48b0d7062670f79297df7c",
+      "btih": "bec68da1b2f04f793ea93217097b1c5f4f5c96bc",
+      "mtime": "1666902518",
+      "size": "270755",
+      "md5": "bacee262ba622ededcf809412491c80b",
+      "crc32": "b980215c",
+      "sha1": "df3f43e7fd99cd425256e22dd18ad557777f901f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f08c621d3d5dec4dd361d8e28855f5b2",
+      "md5": "43fa27c3ded3263bd184e4abd58dc7a2",
       "summation": "md5"
     },
     {
@@ -12915,9 +12926,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1247,
-  "item_last_updated": 1666893275,
-  "item_size": 66949613,
+  "files_count": 1248,
+  "item_last_updated": 1666902518,
+  "item_size": 66959109,
   "metadata": {
     "identifier": "dallasfreepress-2022",
     "collection": [
@@ -12934,21 +12945,10 @@
     "publicdate": "2022-07-09 03:57:39",
     "addeddate": "2022-07-09 03:57:39"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454299673,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 327154577,
+  "uniq": 748493312,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

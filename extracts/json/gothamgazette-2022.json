@@ -1,5 +1,5 @@
 {
-  "created": 1666914083,
+  "created": 1666915391,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/16/items/gothamgazette-2022",
@@ -10627,21 +10627,32 @@
       "format": "JSON"
     },
     {
+      "name": "gothamgazette-2022-10-27T19:40:01.714615-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamgazette-2022-10-27T19:40:01.714615-04:00.jpg",
+      "mtime": "1666915316",
+      "size": "10040",
+      "md5": "5db6728c9a6ecef5527e43fe6882888e",
+      "crc32": "808a3882",
+      "sha1": "13ef3d5df6a6522cf13866ac2dfb182f171cd92c"
+    },
+    {
       "name": "gothamgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c614d9f761778a35a9969b4380ce4ede1d2e77e8",
-      "mtime": "1666914073",
-      "size": "222754",
-      "md5": "1ca91c97df7dc769d2e4a96d3552eb49",
-      "crc32": "52ea298d",
-      "sha1": "2322c0646a0112e42cbe9476a90f42767243d795",
+      "btih": "c138b78149f76dd72f9d5650cc67498e59131411",
+      "mtime": "1666915328",
+      "size": "222964",
+      "md5": "a064bbb38a306caa0665bb876c1ca0ab",
+      "crc32": "c0e08b83",
+      "sha1": "ba07ee6274fe0f82b2fdc8feadb86acebd193c0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "473e56e1ee5485159ba219eac6f8b76c",
+      "md5": "5910dfdde26651b2b94f7a764d1d11c0",
       "summation": "md5"
     },
     {
@@ -10665,9 +10676,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1032,
-  "item_last_updated": 1666914073,
-  "item_size": 65483190,
+  "files_count": 1033,
+  "item_last_updated": 1666915328,
+  "item_size": 65493440,
   "metadata": {
     "identifier": "gothamgazette-2022",
     "collection": [
@@ -10684,21 +10695,10 @@
     "publicdate": "2022-08-02 23:26:38",
     "addeddate": "2022-08-02 23:26:38"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454575098,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 572647975,
+  "server": "ia801503.us.archive.org",
+  "uniq": 410152333,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

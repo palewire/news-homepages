@@ -1,5 +1,5 @@
 {
-  "created": 1666910937,
+  "created": 1666913726,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/9/items/avlwatchdog-2022",
@@ -13087,21 +13087,32 @@
       "format": "JSON"
     },
     {
+      "name": "avlwatchdog-2022-10-27T18:47:50.619406-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "avlwatchdog-2022-10-27T18:47:50.619406-04:00.jpg",
+      "mtime": "1666913367",
+      "size": "9678",
+      "md5": "573ccf4422fd64a04069e9644f57a685",
+      "crc32": "83753d43",
+      "sha1": "3ea773cee0372cc1163cbb2d9e10eff70c9d84df"
+    },
+    {
       "name": "avlwatchdog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81a8c154aa4363129856b0d59e7273cecaae32bb",
-      "mtime": "1666910932",
-      "size": "271526",
-      "md5": "9f55f41e27a0198c3bb94977e88ecf99",
-      "crc32": "045b2e82",
-      "sha1": "de596a6373c5b678da77485110453cf2eddbe224",
+      "btih": "909901ed09a1ba04a9bab88f275b7f63037a67e1",
+      "mtime": "1666913447",
+      "size": "271733",
+      "md5": "1d1d778884657ca9f40d29ef6d4a435b",
+      "crc32": "416e9593",
+      "sha1": "de5167d70fcefa842baac24bd3f244f645be899e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "avlwatchdog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18f32920e45cb95435c712074ffc4e40",
+      "md5": "7bd1ef86445af97b1f57edd4bda81a0f",
       "summation": "md5"
     },
     {
@@ -13125,9 +13136,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1267,
-  "item_last_updated": 1666910932,
-  "item_size": 99487854,
+  "files_count": 1268,
+  "item_last_updated": 1666913447,
+  "item_size": 99497739,
   "metadata": {
     "identifier": "avlwatchdog-2022",
     "collection": [
@@ -13144,21 +13155,10 @@
     "publicdate": "2022-07-09 03:55:46",
     "addeddate": "2022-07-09 03:55:46"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454509492,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 568032457,
+  "server": "ia802508.us.archive.org",
+  "uniq": 237758244,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

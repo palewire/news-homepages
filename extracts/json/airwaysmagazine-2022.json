@@ -1,5 +1,5 @@
 {
-  "created": 1666886787,
+  "created": 1666898896,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/3/items/airwaysmagazine-2022",
@@ -8293,21 +8293,32 @@
       "format": "JSON"
     },
     {
+      "name": "airwaysmagazine-2022-10-27T12:04:44.770231-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-27T12:04:44.770231-04:00.jpg",
+      "mtime": "1666898694",
+      "size": "10348",
+      "md5": "1397b0d67f27e13f26ee6bf88e4cfbe7",
+      "crc32": "09f134bd",
+      "sha1": "665204219ece7db636a26425b5f359a2713d10be"
+    },
+    {
       "name": "airwaysmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4390f3aedd2f87a8fb3094768ed8083efd56a9c8",
-      "mtime": "1666886776",
-      "size": "174867",
-      "md5": "6d88ea903a62fe2e3cc9316d0ad48822",
-      "crc32": "60f4bcf0",
-      "sha1": "6ae659c63265205c66c588dddd0995a16af0528f",
+      "btih": "bc748a9a4ddb9285859e5201036ecc55a1720779",
+      "mtime": "1666898705",
+      "size": "175079",
+      "md5": "ccd8ffa386400eadecd1b3b1b23f7344",
+      "crc32": "14b11962",
+      "sha1": "0610917fff50bf7f83d5c58c2626139594f3e54d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airwaysmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50308a1aa61e5dd8c4a9127421eca41f",
+      "md5": "8801e95e84a6eea4fd56704596f3f54e",
       "summation": "md5"
     },
     {
@@ -8331,9 +8342,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 806,
-  "item_last_updated": 1666886776,
-  "item_size": 32494205,
+  "files_count": 807,
+  "item_last_updated": 1666898705,
+  "item_size": 32504765,
   "metadata": {
     "identifier": "airwaysmagazine-2022",
     "collection": [
@@ -8350,21 +8361,10 @@
     "publicdate": "2022-08-21 01:13:36",
     "addeddate": "2022-08-21 01:13:36"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454232792,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 346741851,
+  "uniq": 1590536714,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

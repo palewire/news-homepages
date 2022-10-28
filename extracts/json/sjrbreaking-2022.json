@@ -1,5 +1,5 @@
 {
-  "created": 1666880441,
+  "created": 1666919077,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/9/items/sjrbreaking-2022",
@@ -4593,21 +4593,32 @@
       "format": "JSON"
     },
     {
+      "name": "sjrbreaking-2022-10-27T09:18:49.875075-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sjrbreaking-2022-10-27T09:18:49.875075-05:00.jpg",
+      "mtime": "1666893878",
+      "size": "9267",
+      "md5": "17bf92571db3bf3d98e6122f4c08f98c",
+      "crc32": "e36725f6",
+      "sha1": "311e654aa98a3a21ba51031a09d5b4fb4608a9bf"
+    },
+    {
       "name": "sjrbreaking-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b6457babc962ebb397cc6f064ae5ae12a4f5fb3",
-      "mtime": "1666880400",
-      "size": "96056",
-      "md5": "7e79e4cf29e0a1ec06b8b11c9bf90894",
-      "crc32": "ec22491d",
-      "sha1": "61d7615ae256d711bf9cb057339628c2bfe33dee",
+      "btih": "046e4fd1be818c5bdfb020e41e969d21f1818ff6",
+      "mtime": "1666893898",
+      "size": "96263",
+      "md5": "26daf2daf110313586d76f2c01cf725d",
+      "crc32": "e988f4ab",
+      "sha1": "5020edca1b9334ed98de1c2cf5e0c654be1416da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sjrbreaking-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4145701b250c2ab3ba35e6f2a59d84e9",
+      "md5": "421a2c6c96e974e2646e532295372880",
       "summation": "md5"
     },
     {
@@ -4631,9 +4642,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 448,
-  "item_last_updated": 1666880400,
-  "item_size": 28197304,
+  "files_count": 449,
+  "item_last_updated": 1666893898,
+  "item_size": 28206778,
   "metadata": {
     "identifier": "sjrbreaking-2022",
     "collection": [
@@ -4650,21 +4661,15 @@
     "publicdate": "2022-09-21 02:25:06",
     "addeddate": "2022-09-21 02:25:06"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169928,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 470238844,
+  "server": "ia801402.us.archive.org",
+  "sjrbreaking-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1331766498,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666910885,
+  "created": 1666913724,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/26/items/amestribnews-2022",
@@ -18311,21 +18311,32 @@
       "format": "JSON"
     },
     {
+      "name": "amestribnews-2022-10-27T17:45:52.780240-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amestribnews-2022-10-27T17:45:52.780240-05:00.jpg",
+      "mtime": "1666913602",
+      "size": "9476",
+      "md5": "f0c612c28243982c041798368472481a",
+      "crc32": "14dbb70d",
+      "sha1": "5a043a8cf38b0b98aec6dfa24098bd49330d577e"
+    },
+    {
       "name": "amestribnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e0cdb02778ef8e5f14d0813177f753d61629eed5",
-      "mtime": "1666910869",
-      "size": "379768",
-      "md5": "48d135e7b51feeedc165359101565d0c",
-      "crc32": "a60ea889",
-      "sha1": "e888b88fb5de5b49904846ac9ddc89b242ffef5b",
+      "btih": "524add760c64fb871e68d31e5ccbd18450b31965",
+      "mtime": "1666913653",
+      "size": "379976",
+      "md5": "d7fda13ee7fc522a6642b6885ab117f5",
+      "crc32": "a1b858fb",
+      "sha1": "d98ed93c3f102aa12ae0b090af4b8c3b0ef883dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amestribnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d081506154cb006b26f37276a7de3aeb",
+      "md5": "b0562f15a02506f8442b86d78c549346",
       "summation": "md5"
     },
     {
@@ -18349,9 +18360,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1768,
-  "item_last_updated": 1666910869,
-  "item_size": 128389702,
+  "files_count": 1769,
+  "item_last_updated": 1666913653,
+  "item_size": 128399386,
   "metadata": {
     "identifier": "amestribnews-2022",
     "collection": [
@@ -18368,21 +18379,10 @@
     "publicdate": "2022-06-19 23:23:24",
     "addeddate": "2022-06-19 23:23:24"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454508315,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 252634444,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1560695368,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666900445,
+  "created": 1666907740,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/6/items/thedailyjournal-2022",
@@ -4623,21 +4623,32 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyjournal-2022-10-27T15:53:02.231092-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyjournal-2022-10-27T15:53:02.231092-04:00.jpg",
+      "mtime": "1666907682",
+      "size": "8867",
+      "md5": "d3b3ed3d4caf0e8507e43a6f61eadb76",
+      "crc32": "0f69ed9a",
+      "sha1": "70d8e842e7631d89eca19cb405b0a070f3fcc0a3"
+    },
+    {
       "name": "thedailyjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e7125df594b81d1093a09d74fe8147e715f2e48d",
-      "mtime": "1666900441",
-      "size": "98610",
-      "md5": "5442e2f5a055a57cb45e23ed83721a1a",
-      "crc32": "c34c52b9",
-      "sha1": "d861babe01b9188983b4187e978542f87ee70274",
+      "btih": "d9c39ce3cafb455459809eac93c52c5b32b0c0aa",
+      "mtime": "1666907689",
+      "size": "98821",
+      "md5": "52b9e8c8b9e5fad7636fcb4004a5b184",
+      "crc32": "de7c8a5a",
+      "sha1": "5001547d7d60fdbad9e620e2995133c20eb036ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c67dac615519076fe13ff9d91d0ae0a",
+      "md5": "8a4cfa7b0a951c546a877307cca7a7b8",
       "summation": "md5"
     },
     {
@@ -4661,9 +4672,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 451,
-  "item_last_updated": 1666900441,
-  "item_size": 29945032,
+  "files_count": 452,
+  "item_last_updated": 1666907689,
+  "item_size": 29954110,
   "metadata": {
     "identifier": "thedailyjournal-2022",
     "collection": [
@@ -4680,21 +4691,10 @@
     "publicdate": "2022-09-20 19:28:47",
     "addeddate": "2022-09-20 19:28:47"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454371314,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1814501331,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1181127955,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

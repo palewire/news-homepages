@@ -1,5 +1,5 @@
 {
-  "created": 1666886890,
+  "created": 1666912141,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/30/items/baynature-2022",
@@ -13297,21 +13297,32 @@
       "format": "JSON"
     },
     {
+      "name": "baynature-2022-10-27T09:06:56.672284-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baynature-2022-10-27T09:06:56.672284-07:00.jpg",
+      "mtime": "1666897365",
+      "size": "9910",
+      "md5": "7d0060f6d8785bfc26b3796beb914cc3",
+      "crc32": "1f7fbddc",
+      "sha1": "8ed264d718929ee2ca6106c0a4abfe4cc3c257b8"
+    },
+    {
       "name": "baynature-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95024a574b31bc2c9f01bba09816b2bcc2ded7bb",
-      "mtime": "1666886886",
-      "size": "272550",
-      "md5": "61d3518cb1336f80d4727bed38a1264b",
-      "crc32": "919f82a3",
-      "sha1": "856d2df33946e91bf0f0a9bd445d89375f33a272",
+      "btih": "3b41315e4c996c109fdd26ca4b7750d673747647",
+      "mtime": "1666897408",
+      "size": "272755",
+      "md5": "21c1f42162d48666dd025fbafd1b21cb",
+      "crc32": "7a2c38f1",
+      "sha1": "4b324492deedd1f9c8c6a244ed53770dce0c09e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baynature-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "71db38a4305a29cd7de3106b03395984",
+      "md5": "7d4557aa90f7c2dc9cb2bb50caa79efc",
       "summation": "md5"
     },
     {
@@ -13335,9 +13346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1287,
-  "item_last_updated": 1666886886,
-  "item_size": 89644186,
+  "files_count": 1288,
+  "item_last_updated": 1666897408,
+  "item_size": 89654301,
   "metadata": {
     "identifier": "baynature-2022",
     "collection": [
@@ -13354,21 +13365,10 @@
     "publicdate": "2022-07-09 03:56:56",
     "addeddate": "2022-07-09 03:56:56"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454234828,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1305136407,
+  "uniq": 1423812822,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666913975,
+  "created": 1666915200,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/flphoenixnews-2022",
@@ -15751,21 +15751,32 @@
       "format": "JSON"
     },
     {
+      "name": "flphoenixnews-2022-10-27T19:37:50.289325-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flphoenixnews-2022-10-27T19:37:50.289325-04:00.jpg",
+      "mtime": "1666915089",
+      "size": "10085",
+      "md5": "6c62f0741bcbd6fa63364da957c8a27d",
+      "crc32": "e8a23dc5",
+      "sha1": "8a0718eca3dcaa1882558b5590c0f3bdad258f17"
+    },
+    {
       "name": "flphoenixnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "32597be98380f90f7b86880b1d00eabc806872f7",
-      "mtime": "1666913962",
-      "size": "328334",
-      "md5": "e5ea0bb5aa188515c058081344ea27f3",
-      "crc32": "939a43f6",
-      "sha1": "886b11183e7394532cfdaffe5739a469568e3042",
+      "btih": "743b2473770e38309b1d1ab4b9639d6c3fa60714",
+      "mtime": "1666915110",
+      "size": "328544",
+      "md5": "123a047353e0226131af13c44a2f6115",
+      "crc32": "31dfe4ee",
+      "sha1": "1f169a7413b90765b84d9d4fa386bafb64a7e066",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flphoenixnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69c22ebc0c05251fc8b3fd1d9ff2cd20",
+      "md5": "2e56542577c270bf705fd07b76553b27",
       "summation": "md5"
     },
     {
@@ -15789,9 +15800,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1521,
-  "item_last_updated": 1666913962,
-  "item_size": 108252903,
+  "files_count": 1522,
+  "item_last_updated": 1666915110,
+  "item_size": 108263198,
   "metadata": {
     "identifier": "flphoenixnews-2022",
     "collection": [
@@ -15808,21 +15819,10 @@
     "publicdate": "2022-06-19 23:24:00",
     "addeddate": "2022-06-19 23:24:00"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454572708,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 559567351,
+  "uniq": 48328399,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

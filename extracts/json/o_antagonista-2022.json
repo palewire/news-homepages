@@ -1,5 +1,5 @@
 {
-  "created": 1666898611,
+  "created": 1666906537,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/o_antagonista-2022",
@@ -13139,21 +13139,32 @@
       "format": "JSON"
     },
     {
+      "name": "o_antagonista-2022-10-27T16:21:45.341925-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "o_antagonista-2022-10-27T16:21:45.341925-03:00.jpg",
+      "mtime": "1666906481",
+      "size": "5522",
+      "md5": "0c1a8fd9636062af1b95aa6d063e450f",
+      "crc32": "75c50b7f",
+      "sha1": "2c9bf2a8d2e17a2f113c0c4b79a18aa2f9deaf72"
+    },
+    {
       "name": "o_antagonista-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a0fa642accc8031bf82e0c1707733f68327afab",
-      "mtime": "1666898602",
-      "size": "270968",
-      "md5": "dfa03f34af080762d420c0cfb23de5b8",
-      "crc32": "d3b2b319",
-      "sha1": "78efe1f98cbb3507011a8be713249fbb566d52e4",
+      "btih": "b8a53577317e770577cbb7289c5586357244f127",
+      "mtime": "1666906507",
+      "size": "271177",
+      "md5": "aa3c7a50f0f6a8d131eb1bef08a6547e",
+      "crc32": "07e56716",
+      "sha1": "f56745e1015a16cac7262b5c1b8d96f2cabb2726",
       "format": "Archive BitTorrent"
     },
     {
       "name": "o_antagonista-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b7d0bb303f7ba858300985dc127de83",
+      "md5": "8f1a2875c011d627abf9a24c1782d374",
       "summation": "md5"
     },
     {
@@ -13177,9 +13188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1269,
-  "item_last_updated": 1666898602,
-  "item_size": 39659683,
+  "files_count": 1270,
+  "item_last_updated": 1666906507,
+  "item_size": 39665414,
   "metadata": {
     "identifier": "o_antagonista-2022",
     "collection": [
@@ -13196,21 +13207,10 @@
     "publicdate": "2022-08-04 04:55:26",
     "addeddate": "2022-08-04 04:55:26"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454354969,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1463021660,
+  "uniq": 1585789551,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

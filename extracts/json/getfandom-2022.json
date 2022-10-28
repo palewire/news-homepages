@@ -1,5 +1,5 @@
 {
-  "created": 1666893621,
+  "created": 1666903040,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/getfandom-2022",
@@ -12019,21 +12019,32 @@
       "format": "JSON"
     },
     {
+      "name": "getfandom-2022-10-27T10:58:50.381130-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-27T10:58:50.381130-07:00.jpg",
+      "mtime": "1666902980",
+      "size": "10761",
+      "md5": "3bf7594f2a6e41a541f07720ab6efd9b",
+      "crc32": "fa3c00ba",
+      "sha1": "e7cf1275b6d5dd44789b410efbf484b64787c993"
+    },
+    {
       "name": "getfandom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "613b9a09ac97c43b33b66f0e5ea503cc3bfa9533",
-      "mtime": "1666893606",
-      "size": "246737",
-      "md5": "a4fc38ecb46a711fe3b43a3c531750d6",
-      "crc32": "c3a73628",
-      "sha1": "36371b55be255ad7b4608adc7d1e178148a154c7",
+      "btih": "0d5f20c42adad82ae063f320933592cc2233b143",
+      "mtime": "1666902994",
+      "size": "246943",
+      "md5": "4e3566aadc4c4343416d4e14962fc3fd",
+      "crc32": "8ead32f7",
+      "sha1": "362d09ed71fc747effc066e6e9e31da39c8279b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "getfandom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "324608e00f983de054afd878e08bdec1",
+      "md5": "e89d0c698d766644168a7991e1b83e21",
       "summation": "md5"
     },
     {
@@ -12057,9 +12068,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1165,
-  "item_last_updated": 1666893606,
-  "item_size": 74370577,
+  "files_count": 1166,
+  "item_last_updated": 1666902994,
+  "item_size": 74381544,
   "metadata": {
     "identifier": "getfandom-2022",
     "collection": [
@@ -12076,21 +12087,10 @@
     "publicdate": "2022-07-18 02:22:01",
     "addeddate": "2022-07-18 02:22:01"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454302948,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 261461253,
+  "uniq": 534554372,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

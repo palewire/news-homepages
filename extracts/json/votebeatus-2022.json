@@ -1,5 +1,5 @@
 {
-  "created": 1666889967,
+  "created": 1666919982,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/5/items/votebeatus-2022",
@@ -15963,21 +15963,32 @@
       "format": "JSON"
     },
     {
+      "name": "votebeatus-2022-10-27T12:10:08.753976-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "votebeatus-2022-10-27T12:10:08.753976-04:00.jpg",
+      "mtime": "1666897778",
+      "size": "9822",
+      "md5": "131b9a1dd8be80942663001ab937903d",
+      "crc32": "1c85a8b0",
+      "sha1": "3f0cd8133cde1a0343293f5afec93fd7d4f004ed"
+    },
+    {
       "name": "votebeatus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9900bbab8778e088ca4e936733ecb418a8b2225d",
-      "mtime": "1666887100",
-      "size": "327827",
-      "md5": "9141dc73b7cf1539ab51a1f0526ea5eb",
-      "crc32": "1e150811",
-      "sha1": "8736d62c5ab866e5e0d3bc7c4659690407ccfc3c",
+      "btih": "fc32a727996200f9dd11882ce66bedc06a774711",
+      "mtime": "1666897798",
+      "size": "328033",
+      "md5": "a3d1a83951c733695c48fbebda11fc23",
+      "crc32": "9c7cf365",
+      "sha1": "59541a0d82751c246269097fe2191428330f80ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "votebeatus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a624bf4839b2e9bfbea2502d576eb7c",
+      "md5": "ed743c0d87885e40230c77aa9d1e4246",
       "summation": "md5"
     },
     {
@@ -16001,9 +16012,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1541,
-  "item_last_updated": 1666887100,
-  "item_size": 110734042,
+  "files_count": 1542,
+  "item_last_updated": 1666897798,
+  "item_size": 110744070,
   "metadata": {
     "identifier": "votebeatus-2022",
     "collection": [
@@ -16020,20 +16031,8 @@
     "publicdate": "2022-06-18 17:11:22",
     "addeddate": "2022-06-18 17:11:22"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454238164,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 66449012,
+  "server": "ia802509.us.archive.org",
+  "uniq": 400565276,
   "votebeatus-2022": {
     "url": "https://www.votebeat.org/",
     "job_id": "spn2-d69dd53b53d9792a512865ce691a2519fdf2524b",
@@ -16240,6 +16239,7 @@
     "screenshot": "http://web.archive.org/screenshot/https://www.votebeat.org/"
   },
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

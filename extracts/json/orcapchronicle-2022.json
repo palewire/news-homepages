@@ -1,5 +1,5 @@
 {
-  "created": 1666883365,
+  "created": 1666918358,
   "d1": "ia904701.us.archive.org",
   "d2": "ia804701.us.archive.org",
   "dir": "/32/items/orcapchronicle-2022",
@@ -13267,21 +13267,32 @@
       "format": "JSON"
     },
     {
+      "name": "orcapchronicle-2022-10-27T07:15:09.013547-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "orcapchronicle-2022-10-27T07:15:09.013547-07:00.jpg",
+      "mtime": "1666893605",
+      "size": "10196",
+      "md5": "d71314254b358db4b12b0f2421d804e4",
+      "crc32": "fb2c26d6",
+      "sha1": "c07b23706bf14b4ce0aa2e911a49dac142fed51f"
+    },
+    {
       "name": "orcapchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a35c40522c1914c37fb82b35512c156ba3ffbc11",
-      "mtime": "1666880175",
-      "size": "278310",
-      "md5": "c18b334843c58a233e4cc3074044edfd",
-      "crc32": "c0bf27f0",
-      "sha1": "334fe5aa34879010347714f8133dd46b169ecd2d",
+      "btih": "4c4f4d607a3dd645471c3a7fcd146df3c3cd6623",
+      "mtime": "1666893630",
+      "size": "278521",
+      "md5": "e06fa3b62611e6d7eabe964ac246bd6e",
+      "crc32": "7f8e86f2",
+      "sha1": "45d69ff22291a011e6358a83a2917b0c66679470",
       "format": "Archive BitTorrent"
     },
     {
       "name": "orcapchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9660fb6c55d5a2a22f515eaf86d145b7",
+      "md5": "b4460ddf3bdfed316af2d5a164433224",
       "summation": "md5"
     },
     {
@@ -13305,9 +13316,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1284,
-  "item_last_updated": 1666880175,
-  "item_size": 83411365,
+  "files_count": 1285,
+  "item_last_updated": 1666893630,
+  "item_size": 83421772,
   "metadata": {
     "identifier": "orcapchronicle-2022",
     "collection": [
@@ -13446,21 +13457,10 @@
     "duration_sec": 7.309,
     "screenshot": "http://web.archive.org/screenshot/https://oregoncapitalchronicle.com/"
   },
-  "pending_tasks": true,
-  "server": "ia904701.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454167239,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 963579405,
+  "server": "ia804701.us.archive.org",
+  "uniq": 1853309660,
   "workable_servers": [
+    "ia804701.us.archive.org",
     "ia904701.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666876529,
+  "created": 1666916690,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/ilanganewspaper-2022",
@@ -8291,21 +8291,32 @@
       "format": "JSON"
     },
     {
+      "name": "ilanganewspaper-2022-10-27T15:14:09.061256+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-27T15:14:09.061256+02:00.jpg",
+      "mtime": "1666891212",
+      "size": "11335",
+      "md5": "8e662e90c72b839d162f9b3c8fa652b0",
+      "crc32": "9d9dd2fa",
+      "sha1": "a8f59ceb116c050a39f7effd4b3ad4d22138e76e"
+    },
+    {
       "name": "ilanganewspaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fba525d3d219f856ce615c892fadfd728be3c8f5",
-      "mtime": "1666876523",
-      "size": "175511",
-      "md5": "b31f29d281b28b4db23b2709c4fc8027",
-      "crc32": "4635a624",
-      "sha1": "b77867ed2c8777d489d72adcae48430954eba30a",
+      "btih": "f4f41f96bd2d7cc428a5cbb671dddf973cbbebe0",
+      "mtime": "1666891323",
+      "size": "175723",
+      "md5": "73a15f0b29e6f98368f1566e98748c5d",
+      "crc32": "4bf7df09",
+      "sha1": "ce759807e37454cd310018280e55881a5f88ea2c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ilanganewspaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb5c63e7a3c4d95c5c0182f4e059d563",
+      "md5": "1a83c8f374e1085ed2b7cffb5ee4be2a",
       "summation": "md5"
     },
     {
@@ -8329,9 +8340,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 806,
-  "item_last_updated": 1666876523,
-  "item_size": 46529885,
+  "files_count": 807,
+  "ilanganewspaper-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1666891323,
+  "item_size": 46541432,
   "metadata": {
     "identifier": "ilanganewspaper-2022",
     "collection": [
@@ -8348,21 +8364,10 @@
     "publicdate": "2022-08-22 22:03:17",
     "addeddate": "2022-08-22 22:03:17"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454134264,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 603114160,
+  "server": "ia801505.us.archive.org",
+  "uniq": 117299233,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

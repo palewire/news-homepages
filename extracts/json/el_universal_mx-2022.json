@@ -1,5 +1,5 @@
 {
-  "created": 1666914080,
+  "created": 1666915439,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/el_universal_mx-2022",
@@ -30901,21 +30901,32 @@
       "format": "JSON"
     },
     {
+      "name": "el_universal_mx-2022-10-27T18:38:38.734640-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_universal_mx-2022-10-27T18:38:38.734640-05:00.jpg",
+      "mtime": "1666915319",
+      "size": "10388",
+      "md5": "acbc71defa3cf3d4300183d9d6984922",
+      "crc32": "792eff54",
+      "sha1": "48a71ac30b9dd690434d7d1a1fb04866429b743f"
+    },
+    {
       "name": "el_universal_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "674c0df33befe434c3caf29dffc2214cd9e2a872",
-      "mtime": "1666914073",
-      "size": "647845",
-      "md5": "95d0791b65b06e671b59a4eef124b66d",
-      "crc32": "61261592",
-      "sha1": "e25191013530db882d219520f7b37aa455a7d5e2",
+      "btih": "560338ab5b64a26970537f88a95a71ae29c0e385",
+      "mtime": "1666915401",
+      "size": "648057",
+      "md5": "ebc0b89215edf21aec32a9ce253466b6",
+      "crc32": "87697f10",
+      "sha1": "21769fea8530849e44a9699fde8cbe52dc88ff94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_universal_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "888147bd40aee1ba1141375d973024fe",
+      "md5": "ac1c3c34f61e7d4416495bcabbe7c1f7",
       "summation": "md5"
     },
     {
@@ -30939,9 +30950,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2964,
-  "item_last_updated": 1666914073,
-  "item_size": 291486071,
+  "files_count": 2965,
+  "item_last_updated": 1666915401,
+  "item_size": 291496671,
   "metadata": {
     "identifier": "el_universal_mx-2022",
     "collection": [
@@ -30958,21 +30969,10 @@
     "publicdate": "2022-04-15 20:40:16",
     "addeddate": "2022-04-15 20:40:16"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454575034,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 24009624,
+  "server": "ia802507.us.archive.org",
+  "uniq": 183294091,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666887422,
+  "created": 1666919911,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/5/items/uvaldenews-2022",
@@ -12111,21 +12111,32 @@
       "format": "JSON"
     },
     {
+      "name": "uvaldenews-2022-10-27T10:13:59.561537-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uvaldenews-2022-10-27T10:13:59.561537-05:00.jpg",
+      "mtime": "1666895660",
+      "size": "10539",
+      "md5": "cf1b937750afa3d762dc1140fac9ffc5",
+      "crc32": "655e06ea",
+      "sha1": "21c29a6b00f9c028c9a4c15cf9b7c046b3ff079f"
+    },
+    {
       "name": "uvaldenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "06cc8bc81693945c448a20c17c8b37d806d95432",
-      "mtime": "1666883742",
-      "size": "249781",
-      "md5": "d7df7d9b44673f0c9a8cee45bd103b5a",
-      "crc32": "454fec6d",
-      "sha1": "4ff8a3c45bd514df2f2d5039bcde47bbdd9f2fb5",
+      "btih": "e0af0725f3b67db98942406cd1bdaf09c193e7de",
+      "mtime": "1666895674",
+      "size": "249988",
+      "md5": "0a980c645df5b99d48ce27c0bed7aceb",
+      "crc32": "bc6d810b",
+      "sha1": "e0c3f3c5a12ba9dc3def3a1e2adcb3985fcb0fde",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uvaldenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "086e1012e90ca5d0e70e9032b25d4c4a",
+      "md5": "5080d80829feb300e98ab4d2166aae5a",
       "summation": "md5"
     },
     {
@@ -12149,9 +12160,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1174,
-  "item_last_updated": 1666883742,
-  "item_size": 71719933,
+  "files_count": 1175,
+  "item_last_updated": 1666895674,
+  "item_size": 71730679,
   "metadata": {
     "identifier": "uvaldenews-2022",
     "collection": [
@@ -12168,20 +12179,8 @@
     "publicdate": "2022-07-18 00:05:55",
     "addeddate": "2022-07-18 00:05:55"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454199188,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1709081725,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1742467413,
   "uvaldenews-2022": {
     "url": "https://www.uvaldeleadernews.com/",
     "job_id": "spn2-b8ee3374895e532a42b46254aeecd71697d566a4",
@@ -12508,6 +12507,7 @@
     "screenshot": "http://web.archive.org/screenshot/https://www.uvaldeleadernews.com/"
   },
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

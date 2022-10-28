@@ -1,5 +1,5 @@
 {
-  "created": 1666899021,
+  "created": 1666916339,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/ek_business-2022",
@@ -11528,21 +11528,32 @@
       "format": "JSON"
     },
     {
+      "name": "ek_business-2022-10-27T23:40:41.679793+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ek_business-2022-10-27T23:40:41.679793+05:45.jpg",
+      "mtime": "1666902628",
+      "size": "10050",
+      "md5": "ac50d078259b328efb52c0871b8d3951",
+      "crc32": "61185105",
+      "sha1": "484e639f5c219217aa5207fc511aeac6591eefe5"
+    },
+    {
       "name": "ek_business-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1825b45ae7335fcdad00a78a84d838cd20478257",
-      "mtime": "1666893410",
-      "size": "240335",
-      "md5": "b98a4e0c3d86e9a118a12641ef6060fd",
-      "crc32": "3940bbb6",
-      "sha1": "bacac668bcaac6a69b38058656a88a6d6d289d1c",
+      "btih": "e4b9bd58d1131029b10a047f0ba0a9b2d27cbd91",
+      "mtime": "1666902656",
+      "size": "240543",
+      "md5": "6cf8c018ab6655702786fc3176032e29",
+      "crc32": "a71da74c",
+      "sha1": "07f79e73a5d2505ab304cd481e89e87da2a32887",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ek_business-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bbd4f5bc427e2015286a960ad41c560a",
+      "md5": "c00e37fff0491c55526a61e74348e37c",
       "summation": "md5"
     },
     {
@@ -11566,9 +11577,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1118,
-  "item_last_updated": 1666893410,
-  "item_size": 102707288,
+  "files_count": 1119,
+  "item_last_updated": 1666902656,
+  "item_size": 102717546,
   "metadata": {
     "identifier": "ek_business-2022",
     "collection": [
@@ -11585,21 +11596,10 @@
     "publicdate": "2022-07-24 20:37:50",
     "addeddate": "2022-07-24 20:37:50"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454301006,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1481615996,
+  "server": "ia801508.us.archive.org",
+  "uniq": 219759845,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

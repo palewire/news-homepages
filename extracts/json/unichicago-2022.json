@@ -1,5 +1,5 @@
 {
-  "created": 1666900573,
+  "created": 1666908000,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/unichicago-2022",
@@ -16069,21 +16069,32 @@
       "format": "JSON"
     },
     {
+      "name": "unichicago-2022-10-27T14:54:40.898012-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "unichicago-2022-10-27T14:54:40.898012-05:00.jpg",
+      "mtime": "1666907912",
+      "size": "10184",
+      "md5": "07f85a817f341e0bc91fe8d2a85c9fb3",
+      "crc32": "9551bfce",
+      "sha1": "3b82c29a9aa03e7bf496566972971c7cd6420f90"
+    },
+    {
       "name": "unichicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "700e7897a54515ae7683ff642c3700d1535182b3",
-      "mtime": "1666900564",
-      "size": "331077",
-      "md5": "e13a3c369bb3e40eb5b44654e87bec25",
-      "crc32": "19648fb6",
-      "sha1": "ff0958eb5bd44279e61e2133c86eb41575c5f74b",
+      "btih": "49a3a283d4113e804e542c9e23f9042bab8a82fe",
+      "mtime": "1666907935",
+      "size": "331284",
+      "md5": "0a54efebfea48d1338a9132dc9e0661b",
+      "crc32": "bb99bf93",
+      "sha1": "fbb4b0a74c0410fb3904e339c7c1a941b5d6231c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "unichicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f17c9e55ea689954ed41726f77c730e3",
+      "md5": "f602bafdfc7bb6ebb2d028b8b891aa47",
       "summation": "md5"
     },
     {
@@ -16107,9 +16118,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1557,
-  "item_last_updated": 1666900564,
-  "item_size": 100332084,
+  "files_count": 1558,
+  "item_last_updated": 1666907935,
+  "item_size": 100342475,
   "metadata": {
     "identifier": "unichicago-2022",
     "collection": [
@@ -16126,21 +16137,10 @@
     "publicdate": "2022-07-28 20:05:24",
     "addeddate": "2022-07-28 20:05:24"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372639,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1316974878,
+  "server": "ia801504.us.archive.org",
+  "uniq": 832144344,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

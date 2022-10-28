@@ -1,5 +1,5 @@
 {
-  "created": 1666898606,
+  "created": 1666906508,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/15/items/pcnewsherald-2022",
@@ -4583,21 +4583,32 @@
       "format": "JSON"
     },
     {
+      "name": "pcnewsherald-2022-10-27T15:22:18.352065-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pcnewsherald-2022-10-27T15:22:18.352065-04:00.jpg",
+      "mtime": "1666906474",
+      "size": "9206",
+      "md5": "a9e8d125e7433c220503b4100d252516",
+      "crc32": "1dfdb769",
+      "sha1": "cf07aef7a90d4ff6a5ea5e877e4f1e013640d40a"
+    },
+    {
       "name": "pcnewsherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9eec8b0a308e9f1cbbd436f22cc7b8a8d55402c",
-      "mtime": "1666898601",
-      "size": "96355",
-      "md5": "3e9bbf0a0eaec3882f991376c7757ca2",
-      "crc32": "2dcd10ae",
-      "sha1": "14c39fdf6a85bc8d6027fa5506dc5bbb7b3dd0e4",
+      "btih": "087b2ff5b3644be274619f70dffb0d5b16af5982",
+      "mtime": "1666906484",
+      "size": "96563",
+      "md5": "45873f0391f37cab96a3c7657492442c",
+      "crc32": "fa647895",
+      "sha1": "118fe70171ac564ddd1532602f7951ab07301adf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pcnewsherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f5d388f1ab72b193a3667f83786b954f",
+      "md5": "4d14b30facb61474d3bcbc78f1d86ae1",
       "summation": "md5"
     },
     {
@@ -4621,9 +4632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1666898601,
-  "item_size": 28971994,
+  "files_count": 448,
+  "item_last_updated": 1666906484,
+  "item_size": 28981408,
   "metadata": {
     "identifier": "pcnewsherald-2022",
     "collection": [
@@ -4640,21 +4651,10 @@
     "publicdate": "2022-09-20 19:10:36",
     "addeddate": "2022-09-20 19:10:36"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454354910,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1448678731,
+  "uniq": 401774694,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

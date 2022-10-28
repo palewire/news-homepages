@@ -1,5 +1,5 @@
 {
-  "created": 1666886916,
+  "created": 1666919336,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/telegraphherald-2022",
@@ -21115,21 +21115,32 @@
       "format": "JSON"
     },
     {
+      "name": "telegraphherald-2022-10-27T10:07:50.006092-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-27T10:07:50.006092-05:00.jpg",
+      "mtime": "1666895860",
+      "size": "9519",
+      "md5": "38690f2639d6a19ba7a1e706409bde00",
+      "crc32": "e44c6ca2",
+      "sha1": "f1bae3b759d61f326649bac542fbcbf9fc02cdd5"
+    },
+    {
       "name": "telegraphherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae1a6fc6c6576b366462fdb7689091f3b97747ab",
-      "mtime": "1666883393",
-      "size": "442816",
-      "md5": "95172d0dacdb06c7db546407f175a55e",
-      "crc32": "7532c698",
-      "sha1": "5183e1322d1cc1ef26f9c02b37ec950ece01d6b2",
+      "btih": "578395776d8a72e2fc69f9f4a17627f51a1251f2",
+      "mtime": "1666895900",
+      "size": "443027",
+      "md5": "bac7b1bcae2080f2de74645b9cec5d23",
+      "crc32": "9605b611",
+      "sha1": "779b8932a6e605f5ceb4b0574b8c1b22dd7d9e04",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraphherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b5b11c9ba4c87ec64db99eb51b15cb3",
+      "md5": "e47ea44441679988a92624b76a0cbc62",
       "summation": "md5"
     },
     {
@@ -21153,9 +21164,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2032,
-  "item_last_updated": 1666883393,
-  "item_size": 169339468,
+  "files_count": 2033,
+  "item_last_updated": 1666895900,
+  "item_size": 169349198,
   "metadata": {
     "identifier": "telegraphherald-2022",
     "collection": [
@@ -21172,26 +21183,15 @@
     "publicdate": "2022-03-25 14:09:23",
     "addeddate": "2022-03-25 14:09:23"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454195451,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
+  "server": "ia801502.us.archive.org",
   "telegraphherald-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 1893008992,
+  "uniq": 357105630,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

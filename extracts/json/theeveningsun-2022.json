@@ -1,5 +1,5 @@
 {
-  "created": 1666900374,
+  "created": 1666918134,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/9/items/theeveningsun-2022",
@@ -4635,21 +4635,32 @@
       "format": "JSON"
     },
     {
+      "name": "theeveningsun-2022-10-27T15:51:49.965947-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeveningsun-2022-10-27T15:51:49.965947-04:00.jpg",
+      "mtime": "1666907619",
+      "size": "8829",
+      "md5": "a437fe320b1bde30ceb5a9dc62e7924c",
+      "crc32": "4a58135a",
+      "sha1": "2ddbb1484e79b47121f3ad2c711fb6f5c89c5ec0"
+    },
+    {
       "name": "theeveningsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "369a8b60ffef113fe5d9d3403d753e227cd24a6a",
-      "mtime": "1666900370",
-      "size": "97862",
-      "md5": "1b3487e153f5d365fe01b9493d1a62e7",
-      "crc32": "9f87221a",
-      "sha1": "e935de60c0a379bd95cad3154c8200cf78a53e61",
+      "btih": "5019866d34e3b3a4abbc25fd8b39934f9980fef2",
+      "mtime": "1666907651",
+      "size": "98071",
+      "md5": "2ef91332eb8681502f4f37b699a28a0f",
+      "crc32": "27d2cb2c",
+      "sha1": "81c3e4e81b001b6d2b0d1847a9d2b42184de4515",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theeveningsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "27fe6bccef3f4827bd1deedb053f117b",
+      "md5": "fbb0c6fe97cdce9b49ba5db85db1e781",
       "summation": "md5"
     },
     {
@@ -4673,9 +4684,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1666900370,
-  "item_size": 29205730,
+  "files_count": 453,
+  "item_last_updated": 1666907651,
+  "item_size": 29214768,
   "metadata": {
     "identifier": "theeveningsun-2022",
     "collection": [
@@ -4692,21 +4703,10 @@
     "publicdate": "2022-09-20 19:28:42",
     "addeddate": "2022-09-20 19:28:42"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454370687,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1455306708,
+  "uniq": 1896463119,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

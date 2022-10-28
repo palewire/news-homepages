@@ -1,5 +1,5 @@
 {
-  "created": 1666887080,
+  "created": 1666897660,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/bloombergjapan-2022",
@@ -16907,21 +16907,32 @@
       "format": "JSON"
     },
     {
+      "name": "bloombergjapan-2022-10-28T01:09:50.477684+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bloombergjapan-2022-10-28T01:09:50.477684+09:00.jpg",
+      "mtime": "1666897607",
+      "size": "9934",
+      "md5": "24dc3fb766eb8f868afc31c7078669f1",
+      "crc32": "73cbf128",
+      "sha1": "5bb4e21e561f77b58035f0f043bbc1f889f84a20"
+    },
+    {
       "name": "bloombergjapan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46662351edc815596d7ba7a972985016196f3244",
-      "mtime": "1666887077",
-      "size": "354717",
-      "md5": "b1dcaeccfe897b1c122684021f70831c",
-      "crc32": "0c9935a7",
-      "sha1": "cc014777fe012a0b6de99d5f5241a702b0222fb9",
+      "btih": "2e201e55c03e8ccf08681cbfbadfb47bdc9904ab",
+      "mtime": "1666897633",
+      "size": "354927",
+      "md5": "ff2df9cba6480dfe87bcecc4cab4f19f",
+      "crc32": "167b105a",
+      "sha1": "c7efafa9c27af3158ee6da7876125a1941f34fe1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bloombergjapan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77bab84225616bbb1a12cabbbd46d12c",
+      "md5": "85c5f3388e1a6f0752aa4bb8dcb59b89",
       "summation": "md5"
     },
     {
@@ -16945,9 +16956,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1639,
-  "item_last_updated": 1666887077,
-  "item_size": 101621324,
+  "files_count": 1640,
+  "item_last_updated": 1666897633,
+  "item_size": 101631468,
   "metadata": {
     "identifier": "bloombergjapan-2022",
     "collection": [
@@ -16964,21 +16975,10 @@
     "publicdate": "2022-07-26 01:31:25",
     "addeddate": "2022-07-26 01:31:25"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454237865,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2019125634,
+  "uniq": 1931935405,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666898633,
+  "created": 1666914078,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/14/items/politico-2022",
@@ -13995,21 +13995,32 @@
       "format": "JSON"
     },
     {
+      "name": "politico-2022-10-27T15:22:05.139736-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politico-2022-10-27T15:22:05.139736-04:00.jpg",
+      "mtime": "1666906587",
+      "size": "9587",
+      "md5": "32528dd95d47e8dc26faff80d2d149ca",
+      "crc32": "356baeb3",
+      "sha1": "90303a7dd222a903df549219dbe18184135fe460"
+    },
+    {
       "name": "politico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc4d0b3f0515782991ab4204f4d3653b9b733833",
-      "mtime": "1666898623",
-      "size": "285492",
-      "md5": "41ca6f3c6647349d9fd473fc23b1b22f",
-      "crc32": "dfa08c2c",
-      "sha1": "ef64b41f5e7a0e11508b08b3353b53608ba3ade9",
+      "btih": "61b4d71182e834c6c03f0d40c467e11fac9b4bf0",
+      "mtime": "1666906616",
+      "size": "285696",
+      "md5": "989cb0cac51ed856ab164e86f3ca6fdc",
+      "crc32": "44636273",
+      "sha1": "f979d426c0414e94e6a34ebb322bc5ce7b0568a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ca8a7ba850944a440b2e3983d31313d",
+      "md5": "fde0ae27aeeeddb69accde0f0ec7e64c",
       "summation": "md5"
     },
     {
@@ -14033,9 +14044,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1353,
-  "item_last_updated": 1666898623,
-  "item_size": 104806826,
+  "files_count": 1354,
+  "item_last_updated": 1666906616,
+  "item_size": 104816617,
   "metadata": {
     "identifier": "politico-2022",
     "collection": [
@@ -14052,21 +14063,10 @@
     "publicdate": "2022-06-27 18:09:13",
     "addeddate": "2022-06-27 18:09:13"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454355154,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1573973324,
+  "server": "ia802500.us.archive.org",
+  "uniq": 938690613,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

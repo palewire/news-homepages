@@ -1,5 +1,5 @@
 {
-  "created": 1666910862,
+  "created": 1666913716,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/aftenposten-2022",
@@ -12029,21 +12029,32 @@
       "format": "JSON"
     },
     {
+      "name": "aftenposten-2022-10-28T00:46:18.029692+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aftenposten-2022-10-28T00:46:18.029692+02:00.jpg",
+      "mtime": "1666913544",
+      "size": "9148",
+      "md5": "42c3e815cda2279caa4822acdd1ea6ae",
+      "crc32": "64be85b2",
+      "sha1": "b593ce92fa7eadd0811e0e40fab7b3571ea6e0e3"
+    },
+    {
       "name": "aftenposten-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d064b43eabc313b8c374275ec918dcdccffaf2e7",
-      "mtime": "1666910850",
-      "size": "249143",
-      "md5": "d2206e58a6556c264bef82a694b4263f",
-      "crc32": "cebf3377",
-      "sha1": "58de63a48aa46727f1773c2961b43e28c118dfe8",
+      "btih": "bbb474dbd71ff3a7aba8e8bc128720f91bcca585",
+      "mtime": "1666913559",
+      "size": "249350",
+      "md5": "ef68903c57abbbac016da58d08fbdac5",
+      "crc32": "9d8ced6c",
+      "sha1": "068c5a0467c033cba66f1dfc999f434f7ad7650a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aftenposten-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b9945ee1bed91071fc1752574f7dcb85",
+      "md5": "694f0223372b001fd34cd81e80ba5edf",
       "summation": "md5"
     },
     {
@@ -12067,9 +12078,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1166,
-  "item_last_updated": 1666910850,
-  "item_size": 73780377,
+  "files_count": 1167,
+  "item_last_updated": 1666913559,
+  "item_size": 73789732,
   "metadata": {
     "identifier": "aftenposten-2022",
     "collection": [
@@ -12086,21 +12097,10 @@
     "publicdate": "2022-07-20 11:37:13",
     "addeddate": "2022-07-20 11:37:13"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454507700,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 850398226,
+  "uniq": 179381973,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

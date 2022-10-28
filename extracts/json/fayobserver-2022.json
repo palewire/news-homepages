@@ -1,5 +1,5 @@
 {
-  "created": 1666899275,
+  "created": 1666916406,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/4/items/fayobserver-2022",
@@ -4650,21 +4650,32 @@
       "format": "JSON"
     },
     {
+      "name": "fayobserver-2022-10-27T13:55:15.526038-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fayobserver-2022-10-27T13:55:15.526038-04:00.jpg",
+      "mtime": "1666902592",
+      "size": "8843",
+      "md5": "3bdd6d22acebae19cf12c0a82ce3c2e8",
+      "crc32": "785f1d0e",
+      "sha1": "a1beee1d5ab9a9dee59fa21a8a9bf6c61f297707"
+    },
+    {
       "name": "fayobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e21db2310e1881f20c23c4147dc9464c6c058eee",
-      "mtime": "1666893369",
-      "size": "97157",
-      "md5": "2730059f9483ec54b5e074c2f4d3dbce",
-      "crc32": "32c2b931",
-      "sha1": "64f0395857e4cb27e66798bd7492ab7b3d154807",
+      "btih": "cd15375a540cca751c06dcd6754061991ed59d47",
+      "mtime": "1666902604",
+      "size": "97364",
+      "md5": "83c6545827bfeb50b3ba9569a42f2b12",
+      "crc32": "59d07bf0",
+      "sha1": "7e649e54ca645ca98a93d617b8d95d9fc73a8762",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fayobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2251bdb889f1d55e43d02a0e3a51a4f3",
+      "md5": "f0c9b1e8011c528d333e3137177fcc72",
       "summation": "md5"
     },
     {
@@ -4688,9 +4699,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666893369,
-  "item_size": 29030994,
+  "files_count": 454,
+  "item_last_updated": 1666902604,
+  "item_size": 29040044,
   "metadata": {
     "identifier": "fayobserver-2022",
     "collection": [
@@ -4707,21 +4718,10 @@
     "publicdate": "2022-09-20 17:50:17",
     "addeddate": "2022-09-20 17:50:17"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454300636,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 6008237,
+  "server": "ia801402.us.archive.org",
+  "uniq": 1205940963,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

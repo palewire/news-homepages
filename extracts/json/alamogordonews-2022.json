@@ -1,5 +1,5 @@
 {
-  "created": 1666886894,
+  "created": 1666897579,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/8/items/alamogordonews-2022",
@@ -4531,21 +4531,32 @@
       "format": "JSON"
     },
     {
+      "name": "alamogordonews-2022-10-27T10:07:12.853525-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alamogordonews-2022-10-27T10:07:12.853525-06:00.jpg",
+      "mtime": "1666897487",
+      "size": "9162",
+      "md5": "1d9083a563fd0451d27feefeb8ac40ca",
+      "crc32": "f245624e",
+      "sha1": "0e4c5865bc6e02ed30a1aa8c0e0dbe58ee67b20f"
+    },
+    {
       "name": "alamogordonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "622bc7698f8c5ab1b9f7484e7a81cbf512328f4d",
-      "mtime": "1666886889",
-      "size": "96221",
-      "md5": "69b5837e4af491b6629ae24304531630",
-      "crc32": "e9d0f328",
-      "sha1": "6f8cc12189a5997946d8304989e48b6f3529993b",
+      "btih": "5a39628cc44a3dbf11866fdf6ba126ce9558ba78",
+      "mtime": "1666897492",
+      "size": "96431",
+      "md5": "1842596150ed2eff1960276337816f92",
+      "crc32": "0d517dcf",
+      "sha1": "afbea2c89849ab9635be0b46657a5010fe642c08",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alamogordonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5eceb51c6862d1b137c21f6c947bba6",
+      "md5": "61369639e654c14ec27f698c2122ef5a",
       "summation": "md5"
     },
     {
@@ -4569,9 +4580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 442,
-  "item_last_updated": 1666886889,
-  "item_size": 29336242,
+  "files_count": 443,
+  "item_last_updated": 1666897492,
+  "item_size": 29345614,
   "metadata": {
     "identifier": "alamogordonews-2022",
     "collection": [
@@ -4588,21 +4599,10 @@
     "publicdate": "2022-09-21 04:37:44",
     "addeddate": "2022-09-21 04:37:44"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454234915,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 269730634,
+  "server": "ia801507.us.archive.org",
+  "uniq": 54475668,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

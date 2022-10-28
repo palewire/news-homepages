@@ -1,5 +1,5 @@
 {
-  "created": 1666887305,
+  "created": 1666899995,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/2/items/wistatejournal-2022",
@@ -18687,21 +18687,32 @@
       "format": "JSON"
     },
     {
+      "name": "wistatejournal-2022-10-27T11:13:25.258775-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-27T11:13:25.258775-05:00.jpg",
+      "mtime": "1666899621",
+      "size": "12663",
+      "md5": "ef82ab4484b2a0967ac9bb2b98749c77",
+      "crc32": "70e1f905",
+      "sha1": "305e0b62f858004211a3115339607169ce31dba7"
+    },
+    {
       "name": "wistatejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7843e7a9b44c784ce32dd7ce343db8be4663f981",
-      "mtime": "1666887295",
-      "size": "391225",
-      "md5": "a2c7317d389bf7e63111699e9f175a6f",
-      "crc32": "cb4177ad",
-      "sha1": "22c8f2677a85c4540f2ba51992c67e1b30b58050",
+      "btih": "d0ca5f32fa67dd35c3d87867e9b8992354b99456",
+      "mtime": "1666899710",
+      "size": "391436",
+      "md5": "a270671b16cf0520a486d0a38356103c",
+      "crc32": "b937d02c",
+      "sha1": "ee0aea0516ac34d3f55c5fa8a4083cbbf3c021fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wistatejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c45c04f4274793c9280414eb240b314c",
+      "md5": "8aefaf1ab85488c61a807d72766784ea",
       "summation": "md5"
     },
     {
@@ -18725,9 +18736,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1799,
-  "item_last_updated": 1666887295,
-  "item_size": 164808698,
+  "files_count": 1800,
+  "item_last_updated": 1666899710,
+  "item_size": 164821572,
   "metadata": {
     "identifier": "wistatejournal-2022",
     "collection": [
@@ -18744,21 +18755,10 @@
     "publicdate": "2022-03-23 23:08:08",
     "addeddate": "2022-03-23 23:08:08"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454240547,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1846646005,
+  "server": "ia801404.us.archive.org",
+  "uniq": 366616725,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

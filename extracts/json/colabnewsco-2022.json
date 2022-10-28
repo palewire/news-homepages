@@ -119,7 +119,7 @@
     "duration_sec": 10.583,
     "screenshot": "http://web.archive.org/screenshot/https://colabnews.co/"
   },
-  "created": 1666898394,
+  "created": 1666915983,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/23/items/colabnewsco-2022",
@@ -13163,21 +13163,32 @@
       "format": "JSON"
     },
     {
+      "name": "colabnewsco-2022-10-27T11:49:05.556850-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "colabnewsco-2022-10-27T11:49:05.556850-06:00.jpg",
+      "mtime": "1666902227",
+      "size": "8152",
+      "md5": "272d11ba877fcf51ae22943a5f2ab10d",
+      "crc32": "a70e3e22",
+      "sha1": "c0c90b09489661890c30f23484cc8ce86b9eaef3"
+    },
+    {
       "name": "colabnewsco-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc2f941fb46c7f4b204375a962382f7ad1efa07c",
-      "mtime": "1666893017",
-      "size": "268804",
-      "md5": "97aa822add4ca979ba113dca47572bef",
-      "crc32": "6e7c94e2",
-      "sha1": "d86fc538584988285952a2f8601209a8c719d466",
+      "btih": "899ee17bc4831bf6b58ed2e05a7cf8a105aa9490",
+      "mtime": "1666902242",
+      "size": "269011",
+      "md5": "1830d4d8f71a3dfd573cecbd4ac5a967",
+      "crc32": "516d729f",
+      "sha1": "05311b31ea5d540db25596892e53912be600aa4c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "colabnewsco-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e2e0951edc2a8cd7eb4d8dfda41cc10",
+      "md5": "f879fda4e32f1ccf8ecb930582585409",
       "summation": "md5"
     },
     {
@@ -13201,9 +13212,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1263,
-  "item_last_updated": 1666893017,
-  "item_size": 60578981,
+  "files_count": 1264,
+  "item_last_updated": 1666902242,
+  "item_size": 60587340,
   "metadata": {
     "identifier": "colabnewsco-2022",
     "collection": [
@@ -13220,21 +13231,10 @@
     "publicdate": "2022-07-09 03:57:02",
     "addeddate": "2022-07-09 03:57:02"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454296916,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 521318715,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1114926442,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

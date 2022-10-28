@@ -1,5 +1,5 @@
 {
-  "created": 1666898522,
+  "created": 1666907255,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/14/items/novayagazeta_eu-2022",
@@ -18087,21 +18087,32 @@
       "format": "JSON"
     },
     {
+      "name": "novayagazeta_eu-2022-10-27T22:19:56.875831+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "novayagazeta_eu-2022-10-27T22:19:56.875831+03:00.jpg",
+      "mtime": "1666907191",
+      "size": "10260",
+      "md5": "760c448b6e746fcbd68d02d84798b652",
+      "crc32": "13806a58",
+      "sha1": "7203140347280694bf3e57655af288db4da693f3"
+    },
+    {
       "name": "novayagazeta_eu-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53f0ab1c61ccb448eede4a42cdd909e29de7e67f",
-      "mtime": "1666898498",
-      "size": "380190",
-      "md5": "b2c844d813dce65970cf34539f0fdf75",
-      "crc32": "d696d91a",
-      "sha1": "f6f44e4eaec83c609e422fa711972c5eed728c1d",
+      "btih": "3704be1085c98ed8743e94cfd6f15bceeb9e3954",
+      "mtime": "1666907229",
+      "size": "380402",
+      "md5": "dba69f81c5efd7268eb06d1e5ffbefb6",
+      "crc32": "8d811fc2",
+      "sha1": "83f832ea67ad4537ecec3a7625673ffe3aa68e06",
       "format": "Archive BitTorrent"
     },
     {
       "name": "novayagazeta_eu-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1a902c42125e8622a705c474fd7a2ad",
+      "md5": "16b6b8d6e65d8a57cfd5f1923d7497a9",
       "summation": "md5"
     },
     {
@@ -18125,9 +18136,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1751,
-  "item_last_updated": 1666898498,
-  "item_size": 117119265,
+  "files_count": 1752,
+  "item_last_updated": 1666907229,
+  "item_size": 117129737,
   "metadata": {
     "identifier": "novayagazeta_eu-2022",
     "collection": [
@@ -18144,21 +18155,10 @@
     "publicdate": "2022-07-16 20:48:55",
     "addeddate": "2022-07-16 20:48:55"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454354069,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 621389851,
+  "server": "ia801404.us.archive.org",
+  "uniq": 12139893,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

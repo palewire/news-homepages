@@ -1,5 +1,5 @@
 {
-  "created": 1666900584,
+  "created": 1666908275,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/15/items/thephilacitizen-2022",
@@ -13561,21 +13561,32 @@
       "format": "JSON"
     },
     {
+      "name": "thephilacitizen-2022-10-27T15:55:01.299485-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thephilacitizen-2022-10-27T15:55:01.299485-04:00.jpg",
+      "mtime": "1666908189",
+      "size": "9693",
+      "md5": "1ca307bd85df392ed633bbc1030b3119",
+      "crc32": "81054905",
+      "sha1": "a0c13aee75776293258026adb2bea015bc978bda"
+    },
+    {
       "name": "thephilacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3648d7f9d2b386cfd68465107f891c12a35ae6c6",
-      "mtime": "1666900577",
-      "size": "285593",
-      "md5": "9ba089d0c7229081cf0cc31ad82b0835",
-      "crc32": "5a4daf90",
-      "sha1": "94145daba9870cf663a2bb5ea5da29e5bc2af657",
+      "btih": "a7b75a7653d423b9977467055e2190f8477593f7",
+      "mtime": "1666908208",
+      "size": "285804",
+      "md5": "094b82a5025d721b5efeb516b18a204a",
+      "crc32": "5f186df1",
+      "sha1": "76f6253f0baab4f734457de6afb40f165d476270",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thephilacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56d1e68566a68f85e01e6128542fa16b",
+      "md5": "8223daec82ec2c1169826a5a5f54cbc4",
       "summation": "md5"
     },
     {
@@ -13599,9 +13610,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1312,
-  "item_last_updated": 1666900577,
-  "item_size": 81720394,
+  "files_count": 1313,
+  "item_last_updated": 1666908208,
+  "item_size": 81730298,
   "metadata": {
     "identifier": "thephilacitizen-2022",
     "collection": [
@@ -13618,21 +13629,10 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372721,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1725955689,
+  "server": "ia801504.us.archive.org",
+  "uniq": 1602884311,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666887276,
+  "created": 1666920129,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/24/items/whyynews-2022",
@@ -13707,21 +13707,32 @@
       "format": "JSON"
     },
     {
+      "name": "whyynews-2022-10-27T12:13:11.230849-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-10-27T12:13:11.230849-04:00.jpg",
+      "mtime": "1666898835",
+      "size": "9209",
+      "md5": "238ec1d7a02c63e1bd8c692f21b85f3d",
+      "crc32": "c18c2565",
+      "sha1": "620db2f419f19bfbae2ab4929e9be5ab375c603d"
+    },
+    {
       "name": "whyynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db2444581910a700872e0fd394f712a947513029",
-      "mtime": "1666887269",
-      "size": "278385",
-      "md5": "6827fe45e3ed58390d2b6f84194a4c3c",
-      "crc32": "5b3823bf",
-      "sha1": "241619bad5b68ff863bae732dbe5352ba2c36062",
+      "btih": "f87aee84397dcde3262a708b8e465e3a49e6a118",
+      "mtime": "1666898858",
+      "size": "278589",
+      "md5": "9ce43c61c02383e98d377acc9573c71e",
+      "crc32": "f5efc648",
+      "sha1": "e6816fcb404349fb82916d4abd4456b818d4b11e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "whyynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "24aad84ea7fb60014f403ce391778147",
+      "md5": "6b95dde77bee2ae9a4bdc05376096b68",
       "summation": "md5"
     },
     {
@@ -13745,9 +13756,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1326,
-  "item_last_updated": 1666887269,
-  "item_size": 72146404,
+  "files_count": 1327,
+  "item_last_updated": 1666898858,
+  "item_size": 72155817,
   "metadata": {
     "identifier": "whyynews-2022",
     "collection": [
@@ -13764,21 +13775,14 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454240247,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1629569798,
+  "uniq": 204324392,
+  "whyynews-2022": {
+    "url": "https://whyy.org/news",
+    "job_id": "spn2-bcdfbbdda4dfb842d29856c53d465583537ae1e5"
+  },
   "workable_servers": [
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

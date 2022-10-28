@@ -1,5 +1,5 @@
 {
-  "created": 1666914077,
+  "created": 1666915378,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/21/items/greenvillenews-2022",
@@ -4707,21 +4707,32 @@
       "format": "JSON"
     },
     {
+      "name": "greenvillenews-2022-10-27T19:40:14.266454-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "greenvillenews-2022-10-27T19:40:14.266454-04:00.jpg",
+      "mtime": "1666915195",
+      "size": "9476",
+      "md5": "6f028fad81b8a448d41c73cda30888f9",
+      "crc32": "97ba3cf7",
+      "sha1": "43db00921c58ad982a039a8d054134a66ea0b0e9"
+    },
+    {
       "name": "greenvillenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5d49cbd394afd7857205f2cff28a0be737eda82",
-      "mtime": "1666914069",
-      "size": "99919",
-      "md5": "de2710758e9bc3907e8e17c072d0dad9",
-      "crc32": "e3c9a032",
-      "sha1": "934b28af1363c2807f0f0b66fef3b8e6717c1f2b",
+      "btih": "e6b4186da4c22c52f536443c07166895cf5ebfb9",
+      "mtime": "1666915228",
+      "size": "100129",
+      "md5": "0fab0d8bd3a4969559299e0264bf47da",
+      "crc32": "84911ddd",
+      "sha1": "c77738ff343024ec13d0da46befbf75ff7d38124",
       "format": "Archive BitTorrent"
     },
     {
       "name": "greenvillenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42bc6dce87168145f408b0446f82e8ac",
+      "md5": "f06cae24aa45fc5c333725590731744a",
       "summation": "md5"
     },
     {
@@ -4745,9 +4756,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 459,
-  "item_last_updated": 1666914069,
-  "item_size": 31053896,
+  "files_count": 460,
+  "item_last_updated": 1666915228,
+  "item_size": 31063582,
   "metadata": {
     "identifier": "greenvillenews-2022",
     "collection": [
@@ -4764,21 +4775,10 @@
     "publicdate": "2022-09-20 22:18:26",
     "addeddate": "2022-09-20 22:18:26"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454574962,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1145440281,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1135983346,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

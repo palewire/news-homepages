@@ -1,5 +1,5 @@
 {
-  "created": 1666883750,
+  "created": 1666918752,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/reporte_indigo-2022",
@@ -8997,21 +8997,32 @@
       "format": "JSON"
     },
     {
+      "name": "reporte_indigo-2022-10-27T09:18:26.014120-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reporte_indigo-2022-10-27T09:18:26.014120-05:00.jpg",
+      "mtime": "1666893587",
+      "size": "10937",
+      "md5": "e59455dd3a001681a09207bf350c2f4d",
+      "crc32": "655bde64",
+      "sha1": "4473d5ac0217b507fa75e08ab6cee1963c8b027d"
+    },
+    {
       "name": "reporte_indigo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8fa82ac3173c0fba08026e420410fc99e552c452",
-      "mtime": "1666880384",
-      "size": "190007",
-      "md5": "2b4d6984191bf898d9ddc2b6d2527109",
-      "crc32": "b458d799",
-      "sha1": "7987679d13807518e0a161bbf44540e6ebf87e64",
+      "btih": "71da56117339a07d1905fb86d8602b38a1904b55",
+      "mtime": "1666893613",
+      "size": "190218",
+      "md5": "4c2b5c1e71bdc10b59e9d69170fe276a",
+      "crc32": "e3fab1de",
+      "sha1": "e63eca867a073b211f9b2a5d25debe9bd31952c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reporte_indigo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04bc6379caf82105f67b5e4321d89bfd",
+      "md5": "eb9aeb8c11cc2ae031f19916195d51aa",
       "summation": "md5"
     },
     {
@@ -9035,9 +9046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 874,
-  "item_last_updated": 1666880384,
-  "item_size": 65627836,
+  "files_count": 875,
+  "item_last_updated": 1666893613,
+  "item_size": 65638984,
   "metadata": {
     "identifier": "reporte_indigo-2022",
     "collection": [
@@ -9054,26 +9065,15 @@
     "publicdate": "2022-08-16 17:12:15",
     "addeddate": "2022-08-16 17:12:15"
   },
-  "pending_tasks": true,
   "reporte_indigo-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454169293,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1208965113,
+  "server": "ia801409.us.archive.org",
+  "uniq": 497652357,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

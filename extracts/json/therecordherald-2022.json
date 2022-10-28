@@ -1,5 +1,5 @@
 {
-  "created": 1666900569,
+  "created": 1666907788,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/therecordherald-2022",
@@ -4583,21 +4583,32 @@
       "format": "JSON"
     },
     {
+      "name": "therecordherald-2022-10-27T15:55:02.671340-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therecordherald-2022-10-27T15:55:02.671340-04:00.jpg",
+      "mtime": "1666907765",
+      "size": "9129",
+      "md5": "1c38a32c64b277e9257a16a4ab59f064",
+      "crc32": "a31409dc",
+      "sha1": "ed65b22d4f594c517ddd48c351844a454463fec5"
+    },
+    {
       "name": "therecordherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0115a672038905db55466f42f1081556ee7c4573",
-      "mtime": "1666900561",
-      "size": "97685",
-      "md5": "3a464497d2788a30f4917a02f3649b39",
-      "crc32": "c7b64b2f",
-      "sha1": "004a302df850a5b0bfd8d68bbc198f6b8111fcaf",
+      "btih": "b7ad3dd1027220a406461a7413a613e8c6ab3803",
+      "mtime": "1666907770",
+      "size": "97896",
+      "md5": "e4d42240525c482b620803a9119453a0",
+      "crc32": "25fdab12",
+      "sha1": "3b2cd7cbdc215b23495ea1159bc3cc0033458924",
       "format": "Archive BitTorrent"
     },
     {
       "name": "therecordherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f55382d1a6806a2c5ebc632f0caffdcb",
+      "md5": "f62b96cc9685ac87b36c4f26c5509399",
       "summation": "md5"
     },
     {
@@ -4621,9 +4632,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 447,
-  "item_last_updated": 1666900561,
-  "item_size": 29222595,
+  "files_count": 448,
+  "item_last_updated": 1666907770,
+  "item_size": 29231935,
   "metadata": {
     "identifier": "therecordherald-2022",
     "collection": [
@@ -4640,21 +4651,10 @@
     "publicdate": "2022-09-20 19:30:21",
     "addeddate": "2022-09-20 19:30:21"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454372602,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1835876931,
+  "uniq": 194545700,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

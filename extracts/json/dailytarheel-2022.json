@@ -1,5 +1,5 @@
 {
-  "created": 1666893271,
+  "created": 1666902632,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/dailytarheel-2022",
@@ -13005,21 +13005,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailytarheel-2022-10-27T13:53:15.596940-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailytarheel-2022-10-27T13:53:15.596940-04:00.jpg",
+      "mtime": "1666902535",
+      "size": "9281",
+      "md5": "2b88fa8b5b14de9b2130185e99cf6506",
+      "crc32": "64d1b2bd",
+      "sha1": "2f8d3cca91b0fc23c2d9588eac8ce02cfc9b29ae"
+    },
+    {
       "name": "dailytarheel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdba1c6251b19a6c5a071404d25d107be1fa9b12",
-      "mtime": "1666893265",
-      "size": "270880",
-      "md5": "04ef0866efd1177a209e7c7ec73838c6",
-      "crc32": "be0bcc14",
-      "sha1": "72e7d4bc79c23e8aa83262c733c44dd73622380e",
+      "btih": "140f990149bfa9839f980b2f4901fc0b9b1d05ca",
+      "mtime": "1666902572",
+      "size": "271088",
+      "md5": "45da065f11697c28addeb3767ece917f",
+      "crc32": "1374d02d",
+      "sha1": "ef13e339728ba0bc7ceb0368a03811f6e2a3f028",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailytarheel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4b25d8627e9d6c379b0c4a57796fc79",
+      "md5": "50f0ca7a2b3ee2de67d4c6dfff59d719",
       "summation": "md5"
     },
     {
@@ -13043,9 +13054,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1259,
-  "item_last_updated": 1666893265,
-  "item_size": 98954326,
+  "files_count": 1260,
+  "item_last_updated": 1666902572,
+  "item_size": 98963815,
   "metadata": {
     "identifier": "dailytarheel-2022",
     "collection": [
@@ -13062,21 +13073,10 @@
     "publicdate": "2022-07-09 03:57:38",
     "addeddate": "2022-07-09 03:57:38"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454299499,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1339599319,
+  "server": "ia801408.us.archive.org",
+  "uniq": 205883999,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

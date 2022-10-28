@@ -1,5 +1,5 @@
 {
-  "created": 1666900823,
+  "created": 1666919964,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/4/items/vgnett-2022",
@@ -11841,21 +11841,32 @@
       "format": "JSON"
     },
     {
+      "name": "vgnett-2022-10-27T21:57:30.395581+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vgnett-2022-10-27T21:57:30.395581+02:00.jpg",
+      "mtime": "1666907984",
+      "size": "11004",
+      "md5": "88e68bf72f33d078fdc7aff877cdf832",
+      "crc32": "6e36520d",
+      "sha1": "4c05c46c94ac64e58d3cb2ce5a0cb02744dcd4be"
+    },
+    {
       "name": "vgnett-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89eb05086cb178432152c5fef7e41c92559a9ddb",
-      "mtime": "1666900797",
-      "size": "240825",
-      "md5": "3885ac2326708f16a9d787a0749ec064",
-      "crc32": "63bfe019",
-      "sha1": "2048fc31f228b5a9f911b3cc6c1397ede951eaad",
+      "btih": "0a0157161aac1b25604fd9c767d868622623211d",
+      "mtime": "1666908006",
+      "size": "241028",
+      "md5": "d3222a0fdbb7d18f6cd2863cdff2bc98",
+      "crc32": "cad328fa",
+      "sha1": "f0bb5bd0c1f4e043efce3d80766b1202aebfd1c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vgnett-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4820d4a1a19a2d221957f293396a05de",
+      "md5": "90af4e3fd66bd21c442e3c1cff3962a2",
       "summation": "md5"
     },
     {
@@ -11879,9 +11890,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1148,
-  "item_last_updated": 1666900797,
-  "item_size": 99740105,
+  "files_count": 1149,
+  "item_last_updated": 1666908006,
+  "item_size": 99751312,
   "metadata": {
     "identifier": "vgnett-2022",
     "collection": [
@@ -11898,21 +11909,25 @@
     "publicdate": "2022-07-20 11:37:24",
     "addeddate": "2022-07-20 11:37:24"
   },
-  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454375535,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1463716840,
+  "uniq": 1421524671,
+  "vgnett-2022": {
+    "url": "https://www.vg.no/",
+    "job_id": "spn2-93ef98d91caac665cfcdac591df7757120f5782f",
+    "http_status": 200,
+    "counters": {
+      "outlinks": 307,
+      "embeds": 99
+    },
+    "original_url": "https://www.vg.no/",
+    "timestamp": "20221027172659",
+    "duration_sec": 9.772,
+    "status": "success",
+    "outlinks": [],
+    "resources": []
+  },
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

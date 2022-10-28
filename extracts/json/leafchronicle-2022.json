@@ -1,5 +1,5 @@
 {
-  "created": 1666876868,
+  "created": 1666917443,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/5/items/leafchronicle-2022",
@@ -4655,21 +4655,32 @@
       "format": "JSON"
     },
     {
+      "name": "leafchronicle-2022-10-27T08:20:07.046848-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-27T08:20:07.046848-05:00.jpg",
+      "mtime": "1666891619",
+      "size": "9111",
+      "md5": "e616343fca228ac6e0dec448daacf11e",
+      "crc32": "4c77799c",
+      "sha1": "2ecb4c57de217e622403726f08e8d77f9a2b162f"
+    },
+    {
       "name": "leafchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d4b40af9ecf3c50197836e42c27c3c41fc3f636",
-      "mtime": "1666876864",
-      "size": "98330",
-      "md5": "88604ddd790652691519a463d70fe94e",
-      "crc32": "4b7cd770",
-      "sha1": "c1a2a973d4169f51553baafed74ad8d6f3d8e540",
+      "btih": "e2b148cce911900e9f7598a7b83a9d7d9169cc90",
+      "mtime": "1666891798",
+      "size": "98539",
+      "md5": "91bfbec7aa0e34d186338c392a840244",
+      "crc32": "6569b5fa",
+      "sha1": "f4facab2d4818efcaa9dc313dfa9ba9093d664d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leafchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "59b08efc686fde5602e1104240f3ef9e",
+      "md5": "f5bda170dc7dcf64b2e8673c2921ecf6",
       "summation": "md5"
     },
     {
@@ -4693,9 +4704,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666876864,
-  "item_size": 29917049,
+  "files_count": 455,
+  "item_last_updated": 1666891798,
+  "item_size": 29926369,
+  "leafchronicle-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "leafchronicle-2022",
     "collection": [
@@ -4712,21 +4728,10 @@
     "publicdate": "2022-09-20 22:26:33",
     "addeddate": "2022-09-20 22:26:33"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454138146,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2131677657,
+  "uniq": 1710708549,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

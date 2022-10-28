@@ -1,5 +1,5 @@
 {
-  "created": 1666883740,
+  "created": 1666919756,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/29/items/toacornnews-2022",
@@ -21383,21 +21383,32 @@
       "format": "JSON"
     },
     {
+      "name": "toacornnews-2022-10-27T08:13:44.839585-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "toacornnews-2022-10-27T08:13:44.839585-07:00.jpg",
+      "mtime": "1666896288",
+      "size": "11212",
+      "md5": "ef90832296d050c52f96e2e123503f4f",
+      "crc32": "cc1eb2b7",
+      "sha1": "000214125787b05cdf58c3ceab9e84c174499caa"
+    },
+    {
       "name": "toacornnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b3061ade6212e48cdefee57047081c4f237da3b",
-      "mtime": "1666883729",
-      "size": "442323",
-      "md5": "c29c7bc75403e2ea0830a7630b3568e3",
-      "crc32": "88f1f35b",
-      "sha1": "1e884f383fa17e908b562c5f8919f5dd1a53ef5a",
+      "btih": "6ec66bfe62e620396abc52d64009365352667fed",
+      "mtime": "1666896550",
+      "size": "442531",
+      "md5": "0120be7d30f2a08404e08d9bdcf643c8",
+      "crc32": "18b15404",
+      "sha1": "58f0eea76c36c52329398a7390880b2f385dff06",
       "format": "Archive BitTorrent"
     },
     {
       "name": "toacornnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e38ea5fc338941d7b1c62c8553471f18",
+      "md5": "c809ab302d6fd7603179a55097a0b3da",
       "summation": "md5"
     },
     {
@@ -21421,9 +21432,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2064,
-  "item_last_updated": 1666883729,
-  "item_size": 174043536,
+  "files_count": 2065,
+  "item_last_updated": 1666896550,
+  "item_size": 174054956,
   "metadata": {
     "identifier": "toacornnews-2022",
     "collection": [
@@ -21440,21 +21451,10 @@
     "publicdate": "2022-06-19 23:29:35",
     "addeddate": "2022-06-19 23:29:35"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454199101,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 749511795,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1511752335,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

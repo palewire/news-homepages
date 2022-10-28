@@ -1,5 +1,5 @@
 {
-  "created": 1666913823,
+  "created": 1666915556,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/24/items/crucessunnews-2022",
@@ -19377,21 +19377,32 @@
       "format": "JSON"
     },
     {
+      "name": "crucessunnews-2022-10-27T17:35:27.455577-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "crucessunnews-2022-10-27T17:35:27.455577-06:00.jpg",
+      "mtime": "1666914968",
+      "size": "9244",
+      "md5": "9d1c5d45f8612ce77452808c62e569cd",
+      "crc32": "6df11843",
+      "sha1": "dcdc6dd0de3f64a24273ae3d8ad8485cb0e6ac5c"
+    },
+    {
       "name": "crucessunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37478ffb63fb22707de6584abb8b64a4cf6f9888",
-      "mtime": "1666913818",
-      "size": "402020",
-      "md5": "0cf2f5ab874f8b5a25106b77626ca0a6",
-      "crc32": "dc16f29b",
-      "sha1": "498b94f4454fce54526cf2bf278c3c564f2823eb",
+      "btih": "0c0ab3741f41350f3b10d4cf1482d56e70668ff2",
+      "mtime": "1666915453",
+      "size": "402229",
+      "md5": "99c9e9567b38e30de2d103abf3bf91a2",
+      "crc32": "11d03807",
+      "sha1": "9d28210ea84d624e06e3e4a0c929beb87e27c4f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "crucessunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "59fcadc255af5d57ffed6b02869ad381",
+      "md5": "9589d4504f72db2204e4a6941f89f47e",
       "summation": "md5"
     },
     {
@@ -19415,9 +19426,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1865,
-  "item_last_updated": 1666913818,
-  "item_size": 133304708,
+  "files_count": 1866,
+  "item_last_updated": 1666915453,
+  "item_size": 133314161,
   "metadata": {
     "identifier": "crucessunnews-2022",
     "collection": [
@@ -19434,21 +19445,10 @@
     "publicdate": "2022-03-25 03:47:56",
     "addeddate": "2022-03-25 03:47:56"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454569421,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1150813676,
+  "server": "ia802509.us.archive.org",
+  "uniq": 1589398423,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }
