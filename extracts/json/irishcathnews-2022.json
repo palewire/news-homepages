@@ -1,5 +1,5 @@
 {
-  "created": 1666916794,
+  "created": 1666920054,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -12214,31 +12214,82 @@
       "sha1": "450c297eed806f619ac3f8accb01292d324d4699"
     },
     {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666919985",
+      "size": "28578",
+      "md5": "9fc6f68e865ac1806dae658da33b200f",
+      "crc32": "61971b09",
+      "sha1": "55ebda0ef03e6ee03453d1639ac21d0bbbced7a2",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666919987",
+      "size": "28081",
+      "md5": "ae9a0c350e694907cfc7d29b4b5f4db4",
+      "crc32": "05361e90",
+      "sha1": "8a7c8776f4cb89aa7effd605e7e131804d721c34",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.jpg",
+      "source": "original",
+      "mtime": "1666919984",
+      "size": "243252",
+      "md5": "9cdb32d0fbe24f72d342f829353b9d68",
+      "crc32": "5f6170fc",
+      "sha1": "b4a9ae3420433a9c07371d900c15f7c362294af2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666919989",
+      "size": "1522",
+      "md5": "510f81e1a01df53d06fffc908eb9d250",
+      "crc32": "629d66ff",
+      "sha1": "69d1cc512275c9e051de264aaf1ca3276e218710",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666919991",
+      "size": "255",
+      "md5": "380d37bea888df183925a28dd4c8337f",
+      "crc32": "412e15a4",
+      "sha1": "7aac3247f78dfcef3eb204328a3f3800af3826f3",
+      "format": "JSON"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f76e29db582fc72ebc5a7a097d520ab0e755d94",
-      "mtime": "1666891240",
-      "size": "255164",
-      "md5": "8be17565e808cc0d84b32776b22b161c",
-      "crc32": "17cc60cd",
-      "sha1": "efd6320cb23cb47ec267ef83aa0a6620ee18aed9",
+      "btih": "c7481bc9c3efef563d1f7192311f1c9ca1963293",
+      "mtime": "1666920048",
+      "size": "256250",
+      "md5": "8828a3948b4a901f77aeb54069e6bab0",
+      "crc32": "89f93d01",
+      "sha1": "5263e982ff59f222a3d3e79c9513bccd778827ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b843aaf85f3959a46b435a55ebbaf5f",
+      "md5": "33ae9f41e9669d99741ae4bbcfca80fc",
       "summation": "md5"
     },
     {
       "name": "irishcathnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666876434",
-      "size": "1507328",
-      "md5": "c4a0e9a9b630275029fec43688544c36",
-      "crc32": "78f7b9e2",
-      "sha1": "39db71688cf3d1b4c2323c81743546f5a07657e2",
+      "mtime": "1666919999",
+      "size": "1515520",
+      "md5": "fa234b588d18dfe1f8208be5ef9e1246",
+      "crc32": "b1bd2f09",
+      "sha1": "87de6eddbdcda8ce83a93afebb9f1b134691f324",
       "format": "Metadata"
     },
     {
@@ -12252,14 +12303,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1184,
-  "irishcathnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1666891240,
-  "item_size": 70226946,
+  "files_count": 1189,
+  "item_last_updated": 1666920048,
+  "item_size": 70537912,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -12276,10 +12322,21 @@
     "publicdate": "2022-07-18 02:23:48",
     "addeddate": "2022-07-18 02:23:48"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 902051497,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454667574,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1141729310,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

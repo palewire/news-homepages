@@ -1,5 +1,5 @@
 {
-  "created": 1666917810,
+  "created": 1666920362,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/midnight_sun_ak-2022",
@@ -5658,31 +5658,82 @@
       "sha1": "841024506841f51e33c9b67e92d82765bc9408c6"
     },
     {
+      "name": "midnight_sun_ak-2022-10-27T17:24:56.407350-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666920300",
+      "size": "15977",
+      "md5": "b7925123e48963949f2e45736682c3f0",
+      "crc32": "82ecac17",
+      "sha1": "8b03d5a1f47db2cc6fbf9c690b272e73410b27da",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-27T17:24:56.407350-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666920301",
+      "size": "11527",
+      "md5": "41cdcc4ee3039b7f7de4912c98b049e5",
+      "crc32": "4192d30a",
+      "sha1": "a111021f86b9889620d7d3852cba0b546479c16a",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-27T17:24:56.407350-08:00.jpg",
+      "source": "original",
+      "mtime": "1666920298",
+      "size": "289875",
+      "md5": "4b5fa67ba2bb5200656e9165f046860c",
+      "crc32": "18dc16cc",
+      "sha1": "11b40e6f3e72ff48389ea43fd14d5263dadce463",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-27T17:24:56.407350-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666920303",
+      "size": "1486",
+      "md5": "090423804b9d43b8138e69a09b0dd46c",
+      "crc32": "31d4233d",
+      "sha1": "f0eacc309dccabad14801db250664f4a32595cf2",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-10-27T17:24:56.407350-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666920305",
+      "size": "6468",
+      "md5": "d17dbfe0cdadac5cc41b7f1b473411b4",
+      "crc32": "d209af61",
+      "sha1": "b63ed3fc27094c9cb1a68d57fa4de405586b36ce",
+      "format": "JSON"
+    },
+    {
       "name": "midnight_sun_ak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dceed642c9353f7c9eeb60e7d9573bb9f1f0dce9",
-      "mtime": "1666891537",
-      "size": "120143",
-      "md5": "dfc4f27153167d9447f8c09d0ff5c0a8",
-      "crc32": "59d30633",
-      "sha1": "95894dab0adb4488bb2a8a631d71a2b22cfdc8b6",
+      "btih": "da414a75342ef2c012ccd46210324959e587c90c",
+      "mtime": "1666920356",
+      "size": "121240",
+      "md5": "f0f3ecdb4b59c2df09f4b43ac0ac2f47",
+      "crc32": "afab06c7",
+      "sha1": "f3b72cb809e43c0cb5921f32e3efc7caf6e16d69",
       "format": "Archive BitTorrent"
     },
     {
       "name": "midnight_sun_ak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c2d33cd2f1d8b84a304c513c683bdca8",
+      "md5": "b846567ee51bb5720b8cd458a7f4546f",
       "summation": "md5"
     },
     {
       "name": "midnight_sun_ak-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666876850",
-      "size": "720896",
-      "md5": "e4b88e50a863bd585527739016374a61",
-      "crc32": "2818ddd5",
-      "sha1": "00208a5a945f3a5944c2f5504c1527511b1bd5cc",
+      "mtime": "1666920315",
+      "size": "729088",
+      "md5": "992307d174e6c4e71c733644f6c526da",
+      "crc32": "d00c597b",
+      "sha1": "44d5eb90e8be5a763ca20dbd0397bfd625073b4c",
       "format": "Metadata"
     },
     {
@@ -5696,9 +5747,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 551,
-  "item_last_updated": 1666891537,
-  "item_size": 31366194,
+  "files_count": 556,
+  "item_last_updated": 1666920356,
+  "item_size": 31700816,
   "metadata": {
     "identifier": "midnight_sun_ak-2022",
     "collection": [
@@ -5715,18 +5766,21 @@
     "publicdate": "2022-09-13 01:14:49",
     "addeddate": "2022-09-13 01:14:49"
   },
-  "midnight_sun_ak-2022": {
-    "url": "https://midnightsunak.com/",
-    "job_id": "spn2-a3094f1d2ad05f9bd1142748fa0309a53185d967",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "resources": [],
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 928."
-  },
-  "server": "ia801400.us.archive.org",
-  "uniq": 2105831598,
+  "pending_tasks": true,
+  "server": "ia601400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454670973,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1881378669,
   "workable_servers": [
-    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }
