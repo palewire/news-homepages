@@ -1,5 +1,5 @@
 {
-  "created": 1666947111,
+  "created": 1666981956,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/9/items/setopati-2022",
@@ -11545,31 +11545,93 @@
       "format": "JSON"
     },
     {
+      "name": "setopati-2022-10-28T14:35:45.601188+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "setopati-2022-10-28T14:35:45.601188+05:45.jpg",
+      "mtime": "1666951501",
+      "size": "8952",
+      "md5": "a6d97c1d37eca5f9659549ef4a25283c",
+      "crc32": "b11d64d6",
+      "sha1": "ef17439f20839e30f7820896a883dfdfa3bdde49"
+    },
+    {
+      "name": "setopati-2022-10-29T00:16:18.486835+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666981889",
+      "size": "126674",
+      "md5": "0c86eb6adb57dcf987e1ffb409538624",
+      "crc32": "b5862f77",
+      "sha1": "508ab3498b8073631d62fc9fd59a08c908a4038b",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-10-29T00:16:18.486835+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981891",
+      "size": "123163",
+      "md5": "9d1b573d84fde5a60c6fae33073b7cde",
+      "crc32": "332480c3",
+      "sha1": "281bfbe0cba08292762d86f0ce33f00dfdd2b4e1",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-10-29T00:16:18.486835+05:45.jpg",
+      "source": "original",
+      "mtime": "1666981887",
+      "size": "184942",
+      "md5": "d713436b6e50f74edbd460a5d68635e9",
+      "crc32": "7916ce4d",
+      "sha1": "0112b27ca2bc55ac32e9706f61403a0dc59e48c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "setopati-2022-10-29T00:16:18.486835+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981895",
+      "size": "1467",
+      "md5": "30968bc381428d13ae0e0dbde31e962c",
+      "crc32": "c3f7a2cb",
+      "sha1": "3fc6bd8d7a1e903f140551b38fc38485c02c62b5",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-10-29T00:16:18.486835+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666981897",
+      "size": "18749",
+      "md5": "25497ee915b8817cd9ecf7c676d77bc0",
+      "crc32": "4a46710b",
+      "sha1": "e6ca11c0dcca12199ecc5fee958ded945facb6a7",
+      "format": "JSON"
+    },
+    {
       "name": "setopati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "84454fedb787d7a68d5d38156aba1d0e078cb969",
-      "mtime": "1666947107",
-      "size": "237208",
-      "md5": "a1092b8f9882454022ea0a72278ccc91",
-      "crc32": "aa28f5cc",
-      "sha1": "f035e2edd1b185abe212d4cab7e89f97926f1adc",
+      "btih": "1ac5a58cd1e05094072f368ea9b2cb7d9fe83fe2",
+      "mtime": "1666981948",
+      "size": "238477",
+      "md5": "424817a99ff7abfd346d30e2634f4b77",
+      "crc32": "7224c663",
+      "sha1": "0b16575052c36611bab11725c0a442f1cdf4e708",
       "format": "Archive BitTorrent"
     },
     {
       "name": "setopati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c634feaefee14ba53263e3eac5257e5c",
+      "md5": "c37f9b5d511e9306aebe500abcd6bda4",
       "summation": "md5"
     },
     {
       "name": "setopati-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666947061",
-      "size": "1425408",
-      "md5": "1cb94c60268b3a3d38b63dda993bdc9c",
-      "crc32": "5bd83d81",
-      "sha1": "272c5ddbb43cdecb8295b2f4e7300b2142a0b13c",
+      "mtime": "1666981900",
+      "size": "1433600",
+      "md5": "640035e51bec52d806c51c85c9f35c28",
+      "crc32": "1ef3f25d",
+      "sha1": "901feb696aeb9594738902b96afe85751cc14472",
       "format": "Metadata"
     },
     {
@@ -11583,9 +11645,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1120,
-  "item_last_updated": 1666947107,
-  "item_size": 93727410,
+  "files_count": 1126,
+  "item_last_updated": 1666981948,
+  "item_size": 94200818,
   "metadata": {
     "identifier": "setopati-2022",
     "collection": [
@@ -11607,7 +11669,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454975957,
+      "task_id": 3455369080,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11615,7 +11677,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1004824427,
+  "uniq": 1796466824,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

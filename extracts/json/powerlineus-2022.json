@@ -1,5 +1,5 @@
 {
-  "created": 1666946966,
+  "created": 1666983530,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/powerlineus-2022",
@@ -17482,31 +17482,71 @@
       "format": "JSON"
     },
     {
+      "name": "powerlineus-2022-10-28T14:29:20.110126-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981789",
+      "size": "105027",
+      "md5": "1dd9c03e49285a5d6817cdc6ed31c882",
+      "crc32": "7fbfcb0a",
+      "sha1": "1f8c91c4443f769367a0a8353abc0d0d7fd4a1a9",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-28T14:29:20.110126-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981791",
+      "size": "20658",
+      "md5": "442bd9b1c952c34859153e3b0cf95e83",
+      "crc32": "c6d5bdb7",
+      "sha1": "c0f1c212775ce0d4b37b288474ee1a14be7e8a19",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-28T14:29:20.110126-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981794",
+      "size": "1516",
+      "md5": "8283ee24bc031d31905606a65bc93fe6",
+      "crc32": "fe262e00",
+      "sha1": "780ed41456ac59514eca46665e80f212d9bf9245",
+      "format": "JSON"
+    },
+    {
+      "name": "powerlineus-2022-10-28T14:29:20.110126-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981796",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "powerlineus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c59a72409eacec4f41e8124bcd0d2a26d69923a7",
-      "mtime": "1666946929",
-      "size": "362736",
-      "md5": "cde7be20edafe8e17b38c4f0563d4344",
-      "crc32": "0484f73c",
-      "sha1": "037636aecacc8723b8a1f942276d6ff3a20bc0a8",
+      "btih": "a17b7507efe227687fdec7b1344b0845c36b4ba3",
+      "mtime": "1666981887",
+      "size": "363610",
+      "md5": "0389b57a82d663a84c5040b02cfa960b",
+      "crc32": "897e9924",
+      "sha1": "94f2a47ff1ae60f61d6b20a442f454380de58490",
       "format": "Archive BitTorrent"
     },
     {
       "name": "powerlineus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e020ed303db9f0bc7667abcc223e7d9b",
+      "md5": "0c71cc627b49a3eb6afda62a31acb6b9",
       "summation": "md5"
     },
     {
       "name": "powerlineus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946832",
-      "size": "2154496",
-      "md5": "0af1fb0ada7d64776a96081026c2eec6",
-      "crc32": "78389b98",
-      "sha1": "8e2454ba375448da9218ed62f1df36d2c7466f1f",
+      "mtime": "1666981811",
+      "size": "2166784",
+      "md5": "408712b6c439d7448cb9d5603cf63bb6",
+      "crc32": "bae6c27c",
+      "sha1": "1a0378cd92d797ef07793b93b5d579149e87954c",
       "format": "Metadata"
     },
     {
@@ -17520,9 +17560,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1694,
-  "item_last_updated": 1666946929,
-  "item_size": 127142735,
+  "files_count": 1698,
+  "item_last_updated": 1666981887,
+  "item_size": 127283300,
   "metadata": {
     "identifier": "powerlineus-2022",
     "collection": [
@@ -17544,15 +17584,47 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454974386,
+      "task_id": 3455368445,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3455383841,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3455383886,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3455383910,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3455383938,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 269886153,
+  "uniq": 1447237972,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

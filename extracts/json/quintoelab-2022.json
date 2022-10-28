@@ -1,5 +1,5 @@
 {
-  "created": 1666946879,
+  "created": 1666981829,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/29/items/quintoelab-2022",
@@ -15639,31 +15639,93 @@
       "format": "JSON"
     },
     {
+      "name": "quintoelab-2022-10-28T03:46:54.170116-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quintoelab-2022-10-28T03:46:54.170116-05:00.jpg",
+      "mtime": "1666951275",
+      "size": "8765",
+      "md5": "a23c8f1deb82de0b1e62bcdff1c788d8",
+      "crc32": "8a615b22",
+      "sha1": "8c294834f1b51046faf89920e8eda5210245d5c2"
+    },
+    {
+      "name": "quintoelab-2022-10-28T13:29:21.742683-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981765",
+      "size": "14802",
+      "md5": "3df10351e7ef44ea4a8a10930523052d",
+      "crc32": "cb21ed5d",
+      "sha1": "c6ebdc23aa354fd3da0fd9c0a19781d7c6e6f394",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-10-28T13:29:21.742683-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981767",
+      "size": "5545",
+      "md5": "22c3bbfaf0022e8f09c6e4163a47f407",
+      "crc32": "6c4cadd0",
+      "sha1": "a4c024e48c1a64665d01375b03793414214410a3",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-10-28T13:29:21.742683-05:00.jpg",
+      "source": "original",
+      "mtime": "1666981763",
+      "size": "297756",
+      "md5": "7625a5d1a91bcb66bebea8162b1de4fc",
+      "crc32": "048fa34e",
+      "sha1": "fc6a437cd1b46457d0aa89c3a88514f8b9cb9a0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quintoelab-2022-10-28T13:29:21.742683-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981769",
+      "size": "1459",
+      "md5": "dbcda3d470c40120348f841156b6e169",
+      "crc32": "296e0397",
+      "sha1": "c8b49b8086fa04d56183caf7706addae094a4c10",
+      "format": "JSON"
+    },
+    {
+      "name": "quintoelab-2022-10-28T13:29:21.742683-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981771",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "quintoelab-2022_archive.torrent",
       "source": "metadata",
-      "btih": "428f87bb6b05a3da37baf09515f9808a1ffd5f46",
-      "mtime": "1666946876",
-      "size": "320739",
-      "md5": "59b905d129917a18804de69ba8bc2939",
-      "crc32": "8ce0a1aa",
-      "sha1": "1458c3ad8f33b0d6f61101b2121e8230309bc660",
+      "btih": "7074ecee5802da1a20283b9ea518fcb705bd2f30",
+      "mtime": "1666981824",
+      "size": "322015",
+      "md5": "30c0140f67327a1b40397ce4087be2d2",
+      "crc32": "8a59bbed",
+      "sha1": "8c0c921ca3e986a0627cdedf862b5aa1ff30031e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quintoelab-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "506fa0f5fba02f8c45cca82da6fd8e1c",
+      "md5": "e027b7183cd9009860300704bb9bcf03",
       "summation": "md5"
     },
     {
       "name": "quintoelab-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946827",
-      "size": "1875968",
-      "md5": "3d45d1016c0e6efc86c5f4866319a119",
-      "crc32": "a0ca4ce7",
-      "sha1": "971876ede30eda001f0347b86337bdfe950e5db9",
+      "mtime": "1666981774",
+      "size": "1880064",
+      "md5": "90ecb5f4ae61941d33beee06798a84ab",
+      "crc32": "342653d5",
+      "sha1": "c9b3cf8f6a6cad988b91b83b72678275ddab7907",
       "format": "Metadata"
     },
     {
@@ -15677,9 +15739,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1510,
-  "item_last_updated": 1666946876,
-  "item_size": 105624392,
+  "files_count": 1516,
+  "item_last_updated": 1666981824,
+  "item_size": 105958293,
   "metadata": {
     "identifier": "quintoelab-2022",
     "collection": [
@@ -15701,7 +15763,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454973388,
+      "task_id": 3455367531,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15709,7 +15771,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1921970935,
+  "uniq": 1013921838,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666946906,
+  "created": 1666981846,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -12153,31 +12153,93 @@
       "format": "JSON"
     },
     {
+      "name": "portlandmercury-2022-10-28T01:46:48.060205-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portlandmercury-2022-10-28T01:46:48.060205-07:00.jpg",
+      "mtime": "1666951806",
+      "size": "11172",
+      "md5": "1b65f5ecf62bd2803d7a113e170ccb29",
+      "crc32": "ce456d68",
+      "sha1": "ed89e307bed35793bfcfd54517fe3a1ea8b7d8cb"
+    },
+    {
+      "name": "portlandmercury-2022-10-28T11:29:24.851837-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981771",
+      "size": "23005",
+      "md5": "8ed45728c4da4fa53a8f6601f1fa7d45",
+      "crc32": "7c7cae09",
+      "sha1": "d4422a9df67f93b973dc04e9d0870dabe75b97e8",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-28T11:29:24.851837-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981773",
+      "size": "23238",
+      "md5": "78ec91b4cc1ac93529f1f1666be6ada7",
+      "crc32": "d60f284b",
+      "sha1": "31125fbbc58b914176315e8fbfc846550cbce349",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-28T11:29:24.851837-07:00.jpg",
+      "source": "original",
+      "mtime": "1666981769",
+      "size": "334886",
+      "md5": "d7d28da3dd23c8ed3d0d532ed698525a",
+      "crc32": "0cffb985",
+      "sha1": "9ce8f06729959ba7eb996904c3f53fe75964a852",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portlandmercury-2022-10-28T11:29:24.851837-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981775",
+      "size": "1540",
+      "md5": "cc3d9998def40e0a6feb39db8ff9d1c1",
+      "crc32": "ac2813d9",
+      "sha1": "e8b15a33b265b96d9370dd9826dff808ddb74ee2",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-28T11:29:24.851837-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981777",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "beefe97d57054ce3149ca764d2ed3d480bc2f6c3",
-      "mtime": "1666946889",
-      "size": "257365",
-      "md5": "837fd52a2d2df5ee03bbca7e7addd416",
-      "crc32": "5e69a839",
-      "sha1": "73dd1c81c903587b418c81e2f65b1a4c003843e5",
+      "btih": "0b1143ea2d673ef68db8c990235293ae14dfbe3b",
+      "mtime": "1666981837",
+      "size": "258673",
+      "md5": "97f9e5e14a6a30610ad033a10bf608bf",
+      "crc32": "83dcdc23",
+      "sha1": "4ea8b5c3f42b695c2291ecb204e12fdc4c796707",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7ea7db04bd863e005ffaf9d2a087d537",
+      "md5": "0110782501fb7550927d5d558d5c1f31",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946826",
-      "size": "1527808",
-      "md5": "88705933a78536d609f77c810e0c025a",
-      "crc32": "12c2a45d",
-      "sha1": "5d0dff9f36d7039f5afece76a84a81a3fc008388",
+      "mtime": "1666981784",
+      "size": "1531904",
+      "md5": "855ab9a956c988bd3a3b500f709682e0",
+      "crc32": "b61d7412",
+      "sha1": "66055cce725831b1eb09dd53b2ec30674626cc90",
       "format": "Metadata"
     },
     {
@@ -12191,9 +12253,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1180,
-  "item_last_updated": 1666946889,
-  "item_size": 78287151,
+  "files_count": 1186,
+  "item_last_updated": 1666981837,
+  "item_size": 78686598,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -12215,7 +12277,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454973693,
+      "task_id": 3455367769,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12223,7 +12285,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 666743991,
+  "uniq": 791593683,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

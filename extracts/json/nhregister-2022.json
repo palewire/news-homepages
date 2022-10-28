@@ -1,5 +1,5 @@
 {
-  "created": 1666946693,
+  "created": 1666983504,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/nhregister-2022",
@@ -5513,31 +5513,93 @@
       "format": "JSON"
     },
     {
+      "name": "nhregister-2022-10-28T04:43:53.206537-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhregister-2022-10-28T04:43:53.206537-04:00.jpg",
+      "mtime": "1666951005",
+      "size": "9230",
+      "md5": "269d177eeae1ded55491c29fcfed91e4",
+      "crc32": "d592706d",
+      "sha1": "4804b16e368c97e936f6703d7beb9c02a0211ca1"
+    },
+    {
+      "name": "nhregister-2022-10-28T14:27:29.179244-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981657",
+      "size": "78011",
+      "md5": "1cd0efdfe3ce971fda43e3a6e7be939d",
+      "crc32": "6fed862f",
+      "sha1": "f3e5924f2677c39b1d8891187690bedbaab38e02",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-28T14:27:29.179244-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981662",
+      "size": "79353",
+      "md5": "76dfc0a36437612470af5d820ea079a2",
+      "crc32": "3ccc8a82",
+      "sha1": "f656501892ed26abaaef746b066ba5bdf637c7b9",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-28T14:27:29.179244-04:00.jpg",
+      "source": "original",
+      "mtime": "1666981655",
+      "size": "300231",
+      "md5": "b8da93a8529318c349e384c72093a3df",
+      "crc32": "8ff6466c",
+      "sha1": "2b4106efab15a4a565148d13099efb745d2ac54a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhregister-2022-10-28T14:27:29.179244-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981664",
+      "size": "1495",
+      "md5": "925b0d263203c8482dc0f0586e24ea52",
+      "crc32": "ea30cff4",
+      "sha1": "a9c3188d0debe3356b76369f6e9fed1c2cf2963d",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-10-28T14:27:29.179244-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981667",
+      "size": "251",
+      "md5": "f5f3e4b54f1caf17ee2c81f06b5a974f",
+      "crc32": "3087c293",
+      "sha1": "ab1fb6cfc2ac97d0f0a7df6902add002b52aebbd",
+      "format": "JSON"
+    },
+    {
       "name": "nhregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f5ce07e40fa8345ab91035ca0dbd4ce85e3f6e5",
-      "mtime": "1666946689",
-      "size": "115168",
-      "md5": "37e73f1039a6171db8e01fa1023045fb",
-      "crc32": "a6914954",
-      "sha1": "176e67254c7c992f02aca8651bd0f2233f8ee73d",
+      "btih": "30b13f58a031b3d8b7c5f62709137aed68e0ec5e",
+      "mtime": "1666981711",
+      "size": "116445",
+      "md5": "fbbff50229c0361e69937a209e473491",
+      "crc32": "fd097dd5",
+      "sha1": "8273986bfbf795e140a72ddb32f9a0b4e8534469",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7229e46346b62bfd4afd283e9c191695",
+      "md5": "e4ee8a77e1ade47431ba1c41b3f37b5d",
       "summation": "md5"
     },
     {
       "name": "nhregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946648",
-      "size": "696320",
-      "md5": "0803494fe3008a85422ce07133939dbc",
-      "crc32": "5870c546",
-      "sha1": "50e8078d65cfb8a918a5c05e202612808077e459",
+      "mtime": "1666981671",
+      "size": "704512",
+      "md5": "373a684ee72c7477536baefaa52faa35",
+      "crc32": "9b69de4b",
+      "sha1": "ce6290c73a4ab4efa4edc7231e36b6cece8b69ad",
       "format": "Metadata"
     },
     {
@@ -5551,9 +5613,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 537,
-  "item_last_updated": 1666946689,
-  "item_size": 50202086,
+  "files_count": 543,
+  "item_last_updated": 1666981711,
+  "item_size": 50680126,
   "metadata": {
     "identifier": "nhregister-2022",
     "collection": [
@@ -5570,12 +5632,20 @@
     "publicdate": "2022-09-14 04:48:42",
     "addeddate": "2022-09-14 04:48:42"
   },
+  "nhregister-2022": {
+    "url": "https://www.nhregister.com/",
+    "job_id": "spn2-bf7afb16d2be20c3a2b8f673f9d5977509d23854",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "resources": [],
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 858."
+  },
   "pending_tasks": true,
   "server": "ia601501.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454970926,
+      "task_id": 3455366135,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5583,7 +5653,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1064134938,
+  "uniq": 1476204586,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
