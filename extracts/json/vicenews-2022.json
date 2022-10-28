@@ -1,5 +1,5 @@
 {
-  "created": 1666919968,
+  "created": 1666934215,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/16/items/vicenews-2022",
@@ -15638,31 +15638,93 @@
       "sha1": "b378d7213715fd2d389e7bff18b0f86ee62367c8"
     },
     {
+      "name": "vicenews-2022-10-28T00:50:55.564376-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666932658",
+      "size": "12497",
+      "md5": "96e8c1c5122a105131669ea53fdc6bf2",
+      "crc32": "e4ab5a15",
+      "sha1": "dd17769881bd65ef679e9b313ebe8a39c1813442",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-10-28T00:50:55.564376-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666932660",
+      "size": "10623",
+      "md5": "3ad1fd985e9370d9b4d7323e535390dd",
+      "crc32": "cdff992b",
+      "sha1": "9f6e1a6ca33fdc96306f44a031c86cfe37f1643f",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-10-28T00:50:55.564376-04:00.jpg",
+      "source": "original",
+      "mtime": "1666932656",
+      "size": "183595",
+      "md5": "0430a69a0c5491233a7d262a8aa08bcf",
+      "crc32": "f6389455",
+      "sha1": "8d9de3f83fa417d34d7cacce2378aca1351e5158",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-10-28T00:50:55.564376-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666932661",
+      "size": "1576",
+      "md5": "34bb87d273e05d43cf6778196065051b",
+      "crc32": "1a258274",
+      "sha1": "2153dbcf4a3e2fe6afa48e0b33c9b1eabcbbaa5a",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-10-28T00:50:55.564376-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666932663",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-10-28T00:50:55.564376-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vicenews-2022-10-28T00:50:55.564376-04:00.jpg",
+      "mtime": "1666934140",
+      "size": "9158",
+      "md5": "6dd0a33f606815043a2cbd134d443269",
+      "crc32": "194d60f6",
+      "sha1": "a89f0c4e721d1638cfd6aeea8ce2c7eb15c28f7e"
+    },
+    {
       "name": "vicenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "28b14c7667635e87a84ae39fbd2bb9d5adb8562d",
-      "mtime": "1666897610",
-      "size": "316702",
-      "md5": "e7b2f5e08120facddb013fb941102f33",
-      "crc32": "9e47b414",
-      "sha1": "53be61c6437bd8ebb0f74949faf206a6a89dcbd0",
+      "btih": "74ab7df91b44fd78c8ecf0427e45bede72aea35b",
+      "mtime": "1666934158",
+      "size": "317947",
+      "md5": "94d5a0bd7f7dded2fde68f63fa09f5d3",
+      "crc32": "ac02993e",
+      "sha1": "8179571a5e8898512475057eff0bef6aee27269a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vicenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8451a0b770af55e6519aedee31730d3c",
+      "md5": "5e02ed5c1661a357259e7b86f4e4d86a",
       "summation": "md5"
     },
     {
       "name": "vicenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666887018",
-      "size": "1867776",
-      "md5": "607dce86c2842f0c60f8e6b8f282f517",
-      "crc32": "232974e4",
-      "sha1": "67c1ab12c08977fc0ca299371e237cfd8c9dc6cf",
+      "mtime": "1666932669",
+      "size": "1875968",
+      "md5": "ad632b51a8342867d374d87557bf68e6",
+      "crc32": "53d90e94",
+      "sha1": "3ace6c5aed79e29f3898cf23b8957b910101ca16",
       "format": "Metadata"
     },
     {
@@ -15676,9 +15738,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1510,
-  "item_last_updated": 1666897610,
-  "item_size": 76057034,
+  "files_count": 1516,
+  "item_last_updated": 1666934158,
+  "item_size": 76284122,
   "metadata": {
     "identifier": "vicenews-2022",
     "collection": [
@@ -15696,12 +15758,7 @@
     "addeddate": "2022-06-19 23:29:15"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 865427698,
-  "vicenews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "uniq": 2006239674,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"
