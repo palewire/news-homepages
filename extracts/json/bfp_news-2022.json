@@ -1,13 +1,5 @@
 {
-  "bfp_news-2022": {
-    "url": "https://www.burlingtonfreepress.com/",
-    "job_id": "spn2-17aaee3ddd891c06692530f565a81543110bf911",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 933.",
-    "resources": []
-  },
-  "created": 1666938867,
+  "created": 1666972546,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/bfp_news-2022",
@@ -4654,31 +4646,82 @@
       "sha1": "161e4fa04e036e5746cc01286c43e9d626247fba"
     },
     {
+      "name": "bfp_news-2022-10-28T11:54:33.328076-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972487",
+      "size": "19447",
+      "md5": "6ad6d8960d849dc46eb13a93a6abe9a5",
+      "crc32": "5340fc8b",
+      "sha1": "f67e37292d741294ffa83d1e61bad8803930c53b",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-28T11:54:33.328076-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972490",
+      "size": "34681",
+      "md5": "07b11221dbb5ac94f6e21be5855e486e",
+      "crc32": "2484dc6d",
+      "sha1": "203d06aa6daaf97fa6107ab9d7bf2869aafe1f53",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-28T11:54:33.328076-04:00.jpg",
+      "source": "original",
+      "mtime": "1666972485",
+      "size": "230671",
+      "md5": "785df9a2e5b3b9651c41bbf1c1004eb6",
+      "crc32": "ad5e50fc",
+      "sha1": "2d6b85dacd6220a36c89462a49346030bad26544",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bfp_news-2022-10-28T11:54:33.328076-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972492",
+      "size": "1576",
+      "md5": "387757e079e3a57a48495ea3ff889f05",
+      "crc32": "5d56d606",
+      "sha1": "a87dcc4dfc8ab3cbbdff6a20e1c186cbce08d78b",
+      "format": "JSON"
+    },
+    {
+      "name": "bfp_news-2022-10-28T11:54:33.328076-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972493",
+      "size": "90958",
+      "md5": "45c6cd3ecf33a7d4ca7e4747bc366f67",
+      "crc32": "b273158b",
+      "sha1": "4b1b6cb8615160950771f355f1b1ac9b1d93e5a2",
+      "format": "JSON"
+    },
+    {
       "name": "bfp_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "caba2724179235018654b00f31614e5d36d29f5e",
-      "mtime": "1666934129",
-      "size": "95816",
-      "md5": "fd58b35bfbb6454bf8a67e6d96b28e7c",
-      "crc32": "497caeb5",
-      "sha1": "f0afb597a437f85e4a5a5eb5b35636d51ac29d0a",
+      "btih": "41b265604f391de62d4ce274bdd17c470f392d2b",
+      "mtime": "1666972542",
+      "size": "96879",
+      "md5": "815bf4639447784e1a5636e29db499b2",
+      "crc32": "31313b08",
+      "sha1": "102cc27a9aeb64877fbc054a0cbfa780115604ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bfp_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3d2bde42df4a022d8812c4ca0f86515a",
+      "md5": "c3c6fa5c38fc52099a9e9a159f01efa9",
       "summation": "md5"
     },
     {
       "name": "bfp_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932642",
-      "size": "589824",
-      "md5": "30b947e141e66bc434fc2b9c40d88808",
-      "crc32": "7b9df137",
-      "sha1": "efe24407698eaa64e5853f5d9f4770dcc24df371",
+      "mtime": "1666972497",
+      "size": "598016",
+      "md5": "f41bad21a5f116e32a7546a6a407ccdc",
+      "crc32": "8f3972a2",
+      "sha1": "3f906b0ab364021e42c5823d45a44c163f1184e9",
       "format": "Metadata"
     },
     {
@@ -4692,9 +4735,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666934129,
-  "item_size": 29913794,
+  "files_count": 458,
+  "item_last_updated": 1666972542,
+  "item_size": 30300382,
   "metadata": {
     "identifier": "bfp_news-2022",
     "collection": [
@@ -4711,10 +4754,21 @@
     "publicdate": "2022-09-21 04:39:40",
     "addeddate": "2022-09-21 04:39:40"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 1691631884,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455264761,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1457515665,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

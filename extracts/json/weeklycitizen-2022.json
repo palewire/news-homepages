@@ -1,5 +1,5 @@
 {
-  "created": 1666938654,
+  "created": 1666972672,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/weeklycitizen-2022",
@@ -4666,31 +4666,82 @@
       "sha1": "ddfe2b9482d5fb6df87de37a879b620ff8d72267"
     },
     {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972610",
+      "size": "19285",
+      "md5": "9654817d791ba2454a03d8ed983245f1",
+      "crc32": "100d9c3d",
+      "sha1": "de4b03fb30f91e918554d8bf5891ec81dbb38735",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972612",
+      "size": "27847",
+      "md5": "e04c68d8bf05579b5d68fc224c58a58f",
+      "crc32": "112125dc",
+      "sha1": "f70059b6ad0067b4523cebef8f1496614baf997a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.jpg",
+      "source": "original",
+      "mtime": "1666972608",
+      "size": "239773",
+      "md5": "eca7fd1a71e1f71d6b8bd415e7fe42e2",
+      "crc32": "53bbb890",
+      "sha1": "d02db3cab20fc27280e85efa19322af3814752cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972614",
+      "size": "1522",
+      "md5": "899f9937461a4601267ac9ddab33686b",
+      "crc32": "94ec2657",
+      "sha1": "053b3a9927cd8ce3b0cd85eece937bea01605caa",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972615",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "weeklycitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09eb12a5d129830d0ebd5df796297bec5c3c8834",
-      "mtime": "1666934204",
-      "size": "98507",
-      "md5": "d5493a3f3cf3c08102085a2e3907397c",
-      "crc32": "3ab5da2d",
-      "sha1": "f8b24bb4b3392b12c6585de05dcb06ef4d0fb819",
+      "btih": "5fc51ce1ecaad9b4a3f0a622290a1b4c0cf60201",
+      "mtime": "1666972662",
+      "size": "99573",
+      "md5": "c5d00332836e7b9e5c5f20aeaa4e3c63",
+      "crc32": "5f2d76bd",
+      "sha1": "dc872c774992e97b84864610847ea886d211c86f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weeklycitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9a45fb63faed3b6b5d350e5bd833af5",
+      "md5": "0452fc89c1a9a1a4712b91ad8587c8c0",
       "summation": "md5"
     },
     {
       "name": "weeklycitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932810",
-      "size": "593920",
-      "md5": "87802fa8083e8ea3476d9bd8d0fcde7c",
-      "crc32": "4c561c11",
-      "sha1": "f84e2a5c6e08587c60898169f079a56977f309bc",
+      "mtime": "1666972623",
+      "size": "602112",
+      "md5": "d9d342d029ef62d82cea21912df272a8",
+      "crc32": "8d5af07e",
+      "sha1": "52d4136281686f48b5f6620a33fd4aac04dc1b2a",
       "format": "Metadata"
     },
     {
@@ -4704,9 +4755,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 455,
-  "item_last_updated": 1666934204,
-  "item_size": 29052638,
+  "files_count": 460,
+  "item_last_updated": 1666972662,
+  "item_size": 29350525,
   "metadata": {
     "identifier": "weeklycitizen-2022",
     "collection": [
@@ -4723,15 +4774,21 @@
     "publicdate": "2022-09-21 04:40:52",
     "addeddate": "2022-09-21 04:40:52"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 1682203451,
-  "weeklycitizen-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455266068,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 461894876,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

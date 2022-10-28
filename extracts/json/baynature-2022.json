@@ -1,5 +1,5 @@
 {
-  "created": 1666934006,
+  "created": 1666972612,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/30/items/baynature-2022",
@@ -13370,31 +13370,82 @@
       "sha1": "110808d6b505563362ffed84759c882e02cff412"
     },
     {
+      "name": "baynature-2022-10-28T08:55:40.347918-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972543",
+      "size": "13223",
+      "md5": "24e5735d2154480804c1e663040bcb60",
+      "crc32": "1496f04c",
+      "sha1": "d9a0926be1b364bd690f9c4be3c5aad4c113eebe",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-10-28T08:55:40.347918-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972545",
+      "size": "8123",
+      "md5": "920988118e705ad035b683e12cbce260",
+      "crc32": "4772201b",
+      "sha1": "96b50fccb7fca1553c08a23dd8db5a362ad95df3",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-10-28T08:55:40.347918-07:00.jpg",
+      "source": "original",
+      "mtime": "1666972541",
+      "size": "333889",
+      "md5": "729560ce2289dcd8dbcce9a099a6a310",
+      "crc32": "dc407484",
+      "sha1": "2935d78fb2d7b86ffaea973bd75cb0da269eab40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baynature-2022-10-28T08:55:40.347918-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972546",
+      "size": "1441",
+      "md5": "de4f1c65fb8336d7122242bf36479231",
+      "crc32": "ecf44581",
+      "sha1": "87105c10a5ace318cb8902f679284785936a1e95",
+      "format": "JSON"
+    },
+    {
+      "name": "baynature-2022-10-28T08:55:40.347918-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972549",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "baynature-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b9e7c2ed4325f67912d8cc512cc5e98454358cd3",
-      "mtime": "1666933991",
-      "size": "274027",
-      "md5": "e55b7aba5670bad59ede6299d52b897e",
-      "crc32": "04bcfe8e",
-      "sha1": "38985dd1cbf86b17d82b758d3ccc2974d0002741",
+      "btih": "c124b5e8da127e1500e0ddab48e426cb64251e2a",
+      "mtime": "1666972605",
+      "size": "275072",
+      "md5": "14017547887d5dbbd06b4549de0adce5",
+      "crc32": "e439fe3e",
+      "sha1": "86656297804ddcbcee5711cbd75fff51592edc3b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baynature-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b33d794769505b6e0390f248be053e5",
+      "md5": "802bd54209fe8b57e92275c94096d6f2",
       "summation": "md5"
     },
     {
       "name": "baynature-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932477",
-      "size": "1630208",
-      "md5": "c018f8f441e2730ad51a9c20ecd96989",
-      "crc32": "1c2cbf7c",
-      "sha1": "10f3ff75791fb9609362c851d69b14ebaa801905",
+      "mtime": "1666972558",
+      "size": "1634304",
+      "md5": "b7eeeb7b1cfb8140ff6810a1d6201dce",
+      "crc32": "3c6c2b00",
+      "sha1": "d623ad671233e1e7d3033909954242cb873b7a9d",
       "format": "Metadata"
     },
     {
@@ -13408,9 +13459,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1294,
-  "item_last_updated": 1666933991,
-  "item_size": 90046128,
+  "files_count": 1299,
+  "item_last_updated": 1666972605,
+  "item_size": 90408147,
   "metadata": {
     "identifier": "baynature-2022",
     "collection": [
@@ -13427,10 +13478,21 @@
     "publicdate": "2022-07-09 03:56:56",
     "addeddate": "2022-07-09 03:56:56"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1113828141,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455265466,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1106761201,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

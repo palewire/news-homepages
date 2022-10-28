@@ -1,5 +1,5 @@
 {
-  "created": 1666934438,
+  "created": 1666972760,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/wnyc-2022",
@@ -14576,31 +14576,82 @@
       "sha1": "ea295f97657f89c18c716fbdad3b83cfef80a062"
     },
     {
+      "name": "wnyc-2022-10-28T11:57:53.356016-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972684",
+      "size": "29670",
+      "md5": "c6e86373fa5dd9fde698a11199846923",
+      "crc32": "b5e6e3de",
+      "sha1": "e65b09798c17a57706852b28e61ccc0922a5e6b7",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-10-28T11:57:53.356016-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972686",
+      "size": "25363",
+      "md5": "8cba2a5a83889120628016f3ded2b40f",
+      "crc32": "b7dc2d47",
+      "sha1": "f534111cc11adc0e7704bb1bc77895b860a840c7",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-10-28T11:57:53.356016-04:00.jpg",
+      "source": "original",
+      "mtime": "1666972681",
+      "size": "191410",
+      "md5": "9f375df7ce7f166dc88a7b32d347243b",
+      "crc32": "462553e5",
+      "sha1": "639c779bd73d5f00982bedec939f9aafc5e11a9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyc-2022-10-28T11:57:53.356016-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972687",
+      "size": "1441",
+      "md5": "6adaab23798301f6f1fd26b643a2f930",
+      "crc32": "e37dab5e",
+      "sha1": "e2b4430a02e1e4af895de94d78b5335b24da2baf",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyc-2022-10-28T11:57:53.356016-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972689",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "wnyc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1ffe0be88000f1e6744e41ef9cef4baea52fa47f",
-      "mtime": "1666934389",
-      "size": "290109",
-      "md5": "dcb3eb50c46f142b1ebee7a12d4ecf2f",
-      "crc32": "74c4ca3b",
-      "sha1": "148016d81b010ae425b794d57c737247f4d9d87a",
+      "btih": "668a012b6d900d39add2f7e4a636471bf58a7194",
+      "mtime": "1666972753",
+      "size": "291150",
+      "md5": "9248ac0b81c860ae7c5e14698e93047c",
+      "crc32": "fe78382c",
+      "sha1": "67e852ff17baf3ad0a31276cbd6b101fda98cfdc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "707eafd58378eea8fd17f9935c888be0",
+      "md5": "d8f881c9adb4e0b319d1fa5d68ad9c9f",
       "summation": "md5"
     },
     {
       "name": "wnyc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932813",
-      "size": "1744896",
-      "md5": "9fcbdf2c40ee16bbb42fe514002a9535",
-      "crc32": "1e97e353",
-      "sha1": "09d710da9e3fe7a3a28fc8d0d47d045b89f585b9",
+      "mtime": "1666972696",
+      "size": "1753088",
+      "md5": "3381391ebffe61fe31cdd34e801dd285",
+      "crc32": "085791bc",
+      "sha1": "34eb69d0a7d43ad99dbc33cea733dd4bf4d8b373",
       "format": "Metadata"
     },
     {
@@ -14614,9 +14665,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1409,
-  "item_last_updated": 1666934389,
-  "item_size": 70394727,
+  "files_count": 1414,
+  "item_last_updated": 1666972753,
+  "item_size": 70652046,
   "metadata": {
     "identifier": "wnyc-2022",
     "collection": [
@@ -14633,10 +14684,21 @@
     "publicdate": "2022-06-27 18:14:25",
     "addeddate": "2022-06-27 18:14:25"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1134231164,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455267162,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 831797951,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

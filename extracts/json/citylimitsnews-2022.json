@@ -1,5 +1,5 @@
 {
-  "created": 1666934325,
+  "created": 1666972680,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/citylimitsnews-2022",
@@ -13106,31 +13106,82 @@
       "sha1": "4de7ee9d838207b7dd09e39f729d9cca085b4b88"
     },
     {
+      "name": "citylimitsnews-2022-10-28T11:56:38.398630-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972608",
+      "size": "22612",
+      "md5": "e29299894ea111fc18931d63324e74fd",
+      "crc32": "50129826",
+      "sha1": "c721bb5f5803fa5dee404e6ead65b5481f3d811d",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-28T11:56:38.398630-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972610",
+      "size": "34548",
+      "md5": "799640402138b55de94590d82e1383a1",
+      "crc32": "a8823aef",
+      "sha1": "e1cdf303c0f3eb0695b164bfe8b49e15e1ba0cf6",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-28T11:56:38.398630-04:00.jpg",
+      "source": "original",
+      "mtime": "1666972607",
+      "size": "270863",
+      "md5": "ba96e0d9fcfcc0a48066b9992d5d5f4e",
+      "crc32": "aed22744",
+      "sha1": "7d21a12f83cb81d93a0cb9b443cd5628cb38e6ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "citylimitsnews-2022-10-28T11:56:38.398630-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972612",
+      "size": "1456",
+      "md5": "aee0ef7ecc90b3e5bd12ce396a81be16",
+      "crc32": "87e9ca7a",
+      "sha1": "310e0d75a69358e007638c7d2a4c3ab37dbc1277",
+      "format": "JSON"
+    },
+    {
+      "name": "citylimitsnews-2022-10-28T11:56:38.398630-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972613",
+      "size": "20934",
+      "md5": "41f6113d61eb17df1e6124937db7be88",
+      "crc32": "f725d174",
+      "sha1": "9b0758c7c44d985d67b3b332bd734f2e00a361b2",
+      "format": "JSON"
+    },
+    {
       "name": "citylimitsnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a36d2a6318af7fc4210c0b44f7d7c304ea781916",
-      "mtime": "1666934294",
-      "size": "274752",
-      "md5": "ef54175c1e3d71573963c05e5452b999",
-      "crc32": "fb92d83d",
-      "sha1": "85b19349aac9091a6c9bada8291b46af19eb83ce",
+      "btih": "d89c45f78237ea2e3105e1f1ce35e5821fd8c00d",
+      "mtime": "1666972669",
+      "size": "275845",
+      "md5": "3945026f88cc42012efeb2de8876d12b",
+      "crc32": "953410fb",
+      "sha1": "6c4aeb61b8595668559bcddd39286a5792af7d0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "citylimitsnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ebf47ddd4572598348299233fa1d738",
+      "md5": "3d5b8f51544e80825acc8493b6e088a4",
       "summation": "md5"
     },
     {
       "name": "citylimitsnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932646",
-      "size": "1613824",
-      "md5": "d940801c70d323f89ae57cf687e943cd",
-      "crc32": "d6439f1a",
-      "sha1": "bbb48aad2c27e05007d2f4c539eb154e23c94da9",
+      "mtime": "1666972620",
+      "size": "1617920",
+      "md5": "4a331464019136ff7fc51d7670b2439c",
+      "crc32": "ae8bd9fe",
+      "sha1": "d86a76d497e6b5728421ed702fbd73105d783589",
       "format": "Metadata"
     },
     {
@@ -13144,9 +13195,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1269,
-  "item_last_updated": 1666934294,
-  "item_size": 76621501,
+  "files_count": 1274,
+  "item_last_updated": 1666972669,
+  "item_size": 76977103,
   "metadata": {
     "identifier": "citylimitsnews-2022",
     "collection": [
@@ -13163,10 +13214,21 @@
     "publicdate": "2022-07-09 03:57:03",
     "addeddate": "2022-07-09 03:57:03"
   },
+  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "uniq": 1743508760,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455266148,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1285924505,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia902506.us.archive.org"
   ]
 }

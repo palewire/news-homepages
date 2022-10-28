@@ -1,5 +1,5 @@
 {
-  "created": 1666934180,
+  "created": 1666972593,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/2/items/azcentral-2022",
@@ -13508,31 +13508,82 @@
       "sha1": "e2e3ce7d4e406aaa1a57e71653116a0d88e69bf8"
     },
     {
+      "name": "azcentral-2022-10-28T08:54:35.211050-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972510",
+      "size": "23072",
+      "md5": "384c25ed9b797d540f9c86c3e9282543",
+      "crc32": "0944fd34",
+      "sha1": "10ec598ec164ecb07a9c252c5bae8087b9c6ee83",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-10-28T08:54:35.211050-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972512",
+      "size": "35521",
+      "md5": "26941db51c17f88b75707cc66cee0f4d",
+      "crc32": "c417c2fb",
+      "sha1": "39b3f1e3c7b929b579de64f98886b6a5f329b0c8",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-10-28T08:54:35.211050-07:00.jpg",
+      "source": "original",
+      "mtime": "1666972508",
+      "size": "256277",
+      "md5": "6a8a94d23a04b23af0c115b7c1339da2",
+      "crc32": "73f08653",
+      "sha1": "161516d00217feca758cbe7a98b1fef6e1d2a5e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "azcentral-2022-10-28T08:54:35.211050-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972514",
+      "size": "1486",
+      "md5": "ccf4e748dddbb1a87c0d9e37ba8525f2",
+      "crc32": "912be2dc",
+      "sha1": "d0bbb5fd3457add2b284af6c805bff485479bf57",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-10-28T08:54:35.211050-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972516",
+      "size": "93046",
+      "md5": "465aea576ec4ba19b0186ab653030989",
+      "crc32": "ac6266d9",
+      "sha1": "54ac7ab87171365f30211b930a3c88c32e8c8092",
+      "format": "JSON"
+    },
+    {
       "name": "azcentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e3a9e9036fa46177a9081c687bd17760526762a",
-      "mtime": "1666934109",
-      "size": "276839",
-      "md5": "7ddfb10ed2fc405bce6e8ce11f33aa88",
-      "crc32": "691662fc",
-      "sha1": "97835e7599d994a767a346c7b26eb928910d8f81",
+      "btih": "fcbbc3050d7bdc5378d5354bb45381798fa42466",
+      "mtime": "1666972585",
+      "size": "277907",
+      "md5": "19ac1225130d45a220dffea1eed776e9",
+      "crc32": "447de8f9",
+      "sha1": "e51c8ac1989f0a61d96d6103fb43abc7bc8939aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "azcentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1b0f9de7aa76868ffa3d4e7dafd4678",
+      "md5": "a88691ca91caf7a049445c5a871db368",
       "summation": "md5"
     },
     {
       "name": "azcentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932428",
-      "size": "1642496",
-      "md5": "f6cf4fe875aa92b039ffd0498116c23b",
-      "crc32": "b5901670",
-      "sha1": "3cd9458b7913b1dadacac20b65f389f185bdba07",
+      "mtime": "1666972525",
+      "size": "1646592",
+      "md5": "6a57833d5a66422c7c77d4a234ce45d7",
+      "crc32": "5a961fc7",
+      "sha1": "2c49e9042bb071d246a87190b431665dae5584f8",
       "format": "Metadata"
     },
     {
@@ -13546,9 +13597,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1307,
-  "item_last_updated": 1666934109,
-  "item_size": 91344691,
+  "files_count": 1312,
+  "item_last_updated": 1666972585,
+  "item_size": 91759257,
   "metadata": {
     "identifier": "azcentral-2022",
     "collection": [
@@ -13565,10 +13616,21 @@
     "publicdate": "2022-07-04 20:45:20",
     "addeddate": "2022-07-04 20:45:20"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 76056048,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455265264,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 132357318,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }

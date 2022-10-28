@@ -1,13 +1,5 @@
 {
-  "capecodtimes-2022": {
-    "url": "https://www.capecodtimes.com/",
-    "job_id": "spn2-8c059ceb976d2d9887e02ed41b8ada402c584d50",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "resources": [],
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 847."
-  },
-  "created": 1666938902,
+  "created": 1666972553,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/capecodtimes-2022",
@@ -4674,31 +4666,82 @@
       "sha1": "91f4af91e13a0fcfaf3a24d7dae510c029cbe406"
     },
     {
+      "name": "capecodtimes-2022-10-28T11:54:52.828156-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972500",
+      "size": "22076",
+      "md5": "489dfd8eb4ae924cec50f800b20a37ca",
+      "crc32": "f69988ab",
+      "sha1": "0d7b8b1586b07c233543ee7d2789d6d959c3fe98",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-28T11:54:52.828156-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972502",
+      "size": "30042",
+      "md5": "64019792b28657daf27ab34443aa6f87",
+      "crc32": "a6e9a09b",
+      "sha1": "972899b9de7fd09479fa4f433c12f023894f28e8",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-28T11:54:52.828156-04:00.jpg",
+      "source": "original",
+      "mtime": "1666972498",
+      "size": "244887",
+      "md5": "538975291a6cb1e62b4456b9a8b00cc8",
+      "crc32": "ff7f7954",
+      "sha1": "0e5e46b4be25e8ceea075c4d6adaf935f0b0136b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capecodtimes-2022-10-28T11:54:52.828156-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972504",
+      "size": "1513",
+      "md5": "59ccb04528a0433b6cdd0fc10d5a9fd0",
+      "crc32": "502b1da9",
+      "sha1": "59ec7b3338a7eeb8c11ffd0ee05fb9cee82adbd8",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-28T11:54:52.828156-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972506",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "capecodtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "350912c41540ff7adfddbd4ca0af7a67ab9f2664",
-      "mtime": "1666934146",
-      "size": "98084",
-      "md5": "d239495de973d84dffcd27ecbe1b1853",
-      "crc32": "18e40d1a",
-      "sha1": "3b69ace76dda5e5dd8174cc1c601736e79be2bd7",
+      "btih": "2685bfd4227fd89162ae62fb4d1feb0c7b070b98",
+      "mtime": "1666972549",
+      "size": "99165",
+      "md5": "4d90aaa656f140834c888adbf3bf5d30",
+      "crc32": "7b4547bd",
+      "sha1": "5bed4b85d1066d03e20dfded6daf85138393f96d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capecodtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77782cb8b404ef59290cf432b5b31966",
+      "md5": "945c48aa0c927cb588c609b5c04d51cc",
       "summation": "md5"
     },
     {
       "name": "capecodtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932636",
-      "size": "593920",
-      "md5": "39aaa0f57fa53901d7819b0966de4f85",
-      "crc32": "c517020d",
-      "sha1": "79faacdbe435e253229cc8c6b531ad7048ace999",
+      "mtime": "1666972512",
+      "size": "602112",
+      "md5": "ae25d585df01166570af2729bf1c9f44",
+      "crc32": "b40f7c16",
+      "sha1": "b00de025429853daed787f383fbb43f68899af40",
       "format": "Metadata"
     },
     {
@@ -4712,9 +4755,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 455,
-  "item_last_updated": 1666934146,
-  "item_size": 30374073,
+  "files_count": 460,
+  "item_last_updated": 1666972549,
+  "item_size": 30682066,
   "metadata": {
     "identifier": "capecodtimes-2022",
     "collection": [
@@ -4731,10 +4774,21 @@
     "publicdate": "2022-09-21 04:39:34",
     "addeddate": "2022-09-21 04:39:34"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 263682526,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455264853,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1365837300,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

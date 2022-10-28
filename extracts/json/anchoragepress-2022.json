@@ -1,10 +1,5 @@
 {
-  "anchoragepress-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1666938758,
+  "created": 1666972482,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/anchoragepress-2022",
@@ -5653,31 +5648,82 @@
       "sha1": "38abf26d6b2193ff49744760c7321db64166e3f0"
     },
     {
+      "name": "anchoragepress-2022-10-28T07:53:33.522660-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972423",
+      "size": "37218",
+      "md5": "36d537326914fb7879567e0931441647",
+      "crc32": "dc46c7ba",
+      "sha1": "fbe8ae77db86766c1e72f1f00afa9a8d36e4b896",
+      "format": "JSON"
+    },
+    {
+      "name": "anchoragepress-2022-10-28T07:53:33.522660-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972425",
+      "size": "53839",
+      "md5": "86f3d640ff8645a8283e1465d3cbd957",
+      "crc32": "c8be1e25",
+      "sha1": "ad0300503088e3f89c300c3a551a416bca3691a7",
+      "format": "JSON"
+    },
+    {
+      "name": "anchoragepress-2022-10-28T07:53:33.522660-08:00.jpg",
+      "source": "original",
+      "mtime": "1666972421",
+      "size": "247345",
+      "md5": "4223bbdb408aabbbbb60578251f24d63",
+      "crc32": "86b1bfcd",
+      "sha1": "cbbd277f4b9143ffb7c1ae42811b341fd89fa26f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "anchoragepress-2022-10-28T07:53:33.522660-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972426",
+      "size": "1531",
+      "md5": "dbc3f39ef0de5945a30407d72ebfd6eb",
+      "crc32": "c43d5572",
+      "sha1": "7ccfd3867d0f5c367d44df14b2b29e439fdc45be",
+      "format": "JSON"
+    },
+    {
+      "name": "anchoragepress-2022-10-28T07:53:33.522660-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972428",
+      "size": "51669",
+      "md5": "62d83abd17a2b940bcbc4680bc416d96",
+      "crc32": "210fa0a5",
+      "sha1": "14d380e43c9c37107b8aabdf91dcf946f137d0c4",
+      "format": "JSON"
+    },
+    {
       "name": "anchoragepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19a8abe7b393bee6d3b60460ac2e4010e3e2ca1f",
-      "mtime": "1666933960",
-      "size": "119704",
-      "md5": "0aeddbfc67e60a9726e33d7a32d8d9ad",
-      "crc32": "9bbad569",
-      "sha1": "c70c0b4c1bf055e10aa8bdf9273f36498d316ace",
+      "btih": "a23fa49e7a6c85ef67a359f04022e6b79dabdd26",
+      "mtime": "1666972476",
+      "size": "120797",
+      "md5": "79ec79346f41365a297464f40f7333d4",
+      "crc32": "55fc30f7",
+      "sha1": "c7687df457c37e3329f635111042f46ca887ba55",
       "format": "Archive BitTorrent"
     },
     {
       "name": "anchoragepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8690e0bae35d77ea70cec60aa2d68384",
+      "md5": "87d082118bb51ed9d0e04b58173e5234",
       "summation": "md5"
     },
     {
       "name": "anchoragepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932444",
-      "size": "720896",
-      "md5": "3dc8cdea9ecf392c898e071dc16bb352",
-      "crc32": "be00ccec",
-      "sha1": "e9eadc5a8aca9a77ed07ac2c80986e422cb78032",
+      "mtime": "1666972434",
+      "size": "724992",
+      "md5": "ec6c176914c3d2bcdc5b7143239d10e6",
+      "crc32": "24b76e06",
+      "sha1": "60466496d43b644960f15ea336b16908aeb67dde",
       "format": "Metadata"
     },
     {
@@ -5691,9 +5737,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1666933960,
-  "item_size": 40483400,
+  "files_count": 555,
+  "item_last_updated": 1666972476,
+  "item_size": 40880191,
   "metadata": {
     "identifier": "anchoragepress-2022",
     "collection": [
@@ -5710,10 +5756,21 @@
     "publicdate": "2022-09-13 02:23:47",
     "addeddate": "2022-09-13 02:23:47"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 676861482,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455263936,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1838893290,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }
