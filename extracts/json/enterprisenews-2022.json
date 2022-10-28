@@ -1,5 +1,5 @@
 {
-  "created": 1666902647,
+  "created": 1666945900,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/enterprisenews-2022",
@@ -4656,31 +4656,82 @@
       "sha1": "5301960f64fdba11e79b15659f63e12cbb1dffec"
     },
     {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945803",
+      "size": "21886",
+      "md5": "24b47b39503694ab7ca877bfec509ef0",
+      "crc32": "2a82a044",
+      "sha1": "e69a3b42089489150547c76dffb4b42f8c251452",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945804",
+      "size": "37579",
+      "md5": "4b62306d32453eb089c5bb436cb5598c",
+      "crc32": "6cdb11e8",
+      "sha1": "5027e06189b13b2c1930f50cebe1bc40ac0bdc84",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945801",
+      "size": "237528",
+      "md5": "81d2515b6df231ac901e90a5a5584521",
+      "crc32": "e95b486c",
+      "sha1": "57df1b7cc678161cde6c08707594b04377f8deaa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945807",
+      "size": "1531",
+      "md5": "c9516b7030d111946513ff062ab77ac9",
+      "crc32": "a1faa83b",
+      "sha1": "88882ba0dcd078019a5f335192862cdafb7162fc",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945808",
+      "size": "130277",
+      "md5": "0fd1e405eb1e646f591169f3412b7c5a",
+      "crc32": "69a3a11e",
+      "sha1": "56f3fe9fc8c1f725dc6577acb0903212c39d2abc",
+      "format": "JSON"
+    },
+    {
       "name": "enterprisenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d2e518cba967f212cf537e5260151afd3c8e7f4",
-      "mtime": "1666902614",
-      "size": "98840",
-      "md5": "a15ea15b84c094c7dc34fb266d41bc65",
-      "crc32": "57893d90",
-      "sha1": "88f31e487ceedbaef17230246f6ea12921051055",
+      "btih": "765de19f8f733847221dbb564097de3b8cab7140",
+      "mtime": "1666945877",
+      "size": "99934",
+      "md5": "3f67ee25bdca4d7957358d181fc864d3",
+      "crc32": "82bdb156",
+      "sha1": "ab494591522f51b56b3835a7fb15be4ace29cf2b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enterprisenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d48c7afdaf017334aef55a031c43ece8",
+      "md5": "a0e967160a228f2c91fe5ee8f20a810b",
       "summation": "md5"
     },
     {
       "name": "enterprisenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893317",
-      "size": "593920",
-      "md5": "ff3f7b616f29fe8fe65f141f1cfa9e0a",
-      "crc32": "f031ef57",
-      "sha1": "cf4dc7293f65d8faf42692b85232b293073f1915",
+      "mtime": "1666945827",
+      "size": "602112",
+      "md5": "dde9f407a53828f2f9e9cef59f378b5c",
+      "crc32": "dffddddb",
+      "sha1": "df0faec7a722219d0dd11006ab19ca295104f759",
       "format": "Metadata"
     },
     {
@@ -4694,9 +4745,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666902614,
-  "item_size": 30709644,
+  "files_count": 459,
+  "item_last_updated": 1666945877,
+  "item_size": 31147731,
   "metadata": {
     "identifier": "enterprisenews-2022",
     "collection": [
@@ -4713,10 +4764,21 @@
     "publicdate": "2022-09-20 17:50:30",
     "addeddate": "2022-09-20 17:50:30"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 1240491205,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454961327,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 441752267,
   "workable_servers": [
-    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

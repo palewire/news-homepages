@@ -1,5 +1,5 @@
 {
-  "created": 1666902682,
+  "created": 1666945656,
   "d1": "ia904707.us.archive.org",
   "d2": "ia804707.us.archive.org",
   "dir": "/4/items/documentedny-2022",
@@ -12954,31 +12954,82 @@
       "sha1": "fd0211b3b787429293b66688c1a140155f98b985"
     },
     {
+      "name": "documentedny-2022-10-28T04:26:25.358258-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945592",
+      "size": "16447",
+      "md5": "a7177fd2fa04ee0fa7f4d0796c325b7b",
+      "crc32": "79f83b6b",
+      "sha1": "7fcaf72355e8d5ce8d8b227e792f8f8a6f27866e",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-10-28T04:26:25.358258-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945593",
+      "size": "19575",
+      "md5": "4565e76c7943bc702ca368c09dcd991d",
+      "crc32": "c2afaf7a",
+      "sha1": "d548bcf467f3e3569695f892cbf0f8dc6ad73298",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-10-28T04:26:25.358258-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945590",
+      "size": "302372",
+      "md5": "39246b7c59b0d8a8abdbfa58b588e472",
+      "crc32": "d356e436",
+      "sha1": "b1fa4a3fbdb4de365bed6808beda0bda48a068c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "documentedny-2022-10-28T04:26:25.358258-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945595",
+      "size": "1474",
+      "md5": "b5687358ab19dde53561cd316b65ee49",
+      "crc32": "50219310",
+      "sha1": "38bc9c13238e0f86e10fb19677d27f4516b45ffa",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-10-28T04:26:25.358258-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945596",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "documentedny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1c22989ed15662e4019200b39f05aebbf7071fc0",
-      "mtime": "1666902671",
-      "size": "269476",
-      "md5": "7c405d8bf99fee05a97d2405458433c6",
-      "crc32": "8656521e",
-      "sha1": "91c54862e2f6e409250a74a63cf2d6b511f9ea28",
+      "btih": "6479bb9346fc2684004261461685475ad6106b70",
+      "mtime": "1666945652",
+      "size": "270557",
+      "md5": "aa7849d505098d88957181a11b8bc711",
+      "crc32": "4621596f",
+      "sha1": "a59eecb3a94bcadd85e7e22d27c80501bfc62db0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "documentedny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "189e30ae5b2d493b7414523dbc07df14",
+      "md5": "7eecc732bd6809b5a4b2d80783985424",
       "summation": "md5"
     },
     {
       "name": "documentedny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893379",
-      "size": "1585152",
-      "md5": "cbcccb1519eb9a6f7e01c2b460cef678",
-      "crc32": "76a50157",
-      "sha1": "300e38f5a5d83f373e28ce489ce5b7e6bed112b1",
+      "mtime": "1666945603",
+      "size": "1593344",
+      "md5": "906abf7a07b90ef9b4ed977531efaf9d",
+      "crc32": "6ce15370",
+      "sha1": "e35350edac87323804c19455ef7cbd6bce2c9755",
       "format": "Metadata"
     },
     {
@@ -12992,9 +13043,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1254,
-  "item_last_updated": 1666902671,
-  "item_size": 85180470,
+  "files_count": 1259,
+  "item_last_updated": 1666945652,
+  "item_size": 85529813,
   "metadata": {
     "identifier": "documentedny-2022",
     "collection": [
@@ -13011,10 +13062,21 @@
     "publicdate": "2022-07-09 03:58:14",
     "addeddate": "2022-07-09 03:58:14"
   },
+  "pending_tasks": true,
   "server": "ia904707.us.archive.org",
-  "uniq": 1442041165,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454958928,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1766394002,
   "workable_servers": [
-    "ia904707.us.archive.org",
-    "ia804707.us.archive.org"
+    "ia904707.us.archive.org"
   ]
 }

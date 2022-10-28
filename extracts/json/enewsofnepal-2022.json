@@ -1,5 +1,5 @@
 {
-  "created": 1666902709,
+  "created": 1666945892,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/24/items/enewsofnepal-2022",
@@ -11454,31 +11454,82 @@
       "sha1": "217016730fb8e2c3b55fb362d152d81ab42cd160"
     },
     {
+      "name": "enewsofnepal-2022-10-28T14:14:34.191202+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666945777",
+      "size": "60769",
+      "md5": "3f1a3d1ddd520937539d3b95e3ff4b65",
+      "crc32": "67fa947d",
+      "sha1": "8f7259f8107110578b817c0948a3efc02abe1692",
+      "format": "JSON"
+    },
+    {
+      "name": "enewsofnepal-2022-10-28T14:14:34.191202+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945779",
+      "size": "51516",
+      "md5": "d6bc660480d1dda615c23a4bcff58cf9",
+      "crc32": "b8711bf9",
+      "sha1": "d588ec6335c2e426c68f4aa1129a963b33ebfe0b",
+      "format": "JSON"
+    },
+    {
+      "name": "enewsofnepal-2022-10-28T14:14:34.191202+05:45.jpg",
+      "source": "original",
+      "mtime": "1666945775",
+      "size": "225160",
+      "md5": "68de57a0d8746ce20cc3c4fac9f2bc90",
+      "crc32": "8e6c78e2",
+      "sha1": "2ff355f3029c0bf86deee506b374ecc3423e6c8c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enewsofnepal-2022-10-28T14:14:34.191202+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945781",
+      "size": "1504",
+      "md5": "9a58369e330442398fd4977a8fe5a158",
+      "crc32": "32f513ae",
+      "sha1": "6418f0e6b62eb7add287e803cb9f3578f272f69c",
+      "format": "JSON"
+    },
+    {
+      "name": "enewsofnepal-2022-10-28T14:14:34.191202+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666945783",
+      "size": "18280",
+      "md5": "7616237dbcc71f0462ec47f729e5d055",
+      "crc32": "739c5da4",
+      "sha1": "d2e1fb93abd238fdb103460f1e0bcd7071a110c7",
+      "format": "JSON"
+    },
+    {
       "name": "enewsofnepal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2397066568db8f60d94084344807f5615d21a3b3",
-      "mtime": "1666902670",
-      "size": "238639",
-      "md5": "946c705894cc658f5326a19dd2ced763",
-      "crc32": "4117ed57",
-      "sha1": "7335cf74b3b09ca768ca0dc2034e37497f28ac4c",
+      "btih": "de5cb24c7e92cddf44fbc055bd9d5a011729e659",
+      "mtime": "1666945875",
+      "size": "239722",
+      "md5": "7937da17e6d3bbf3967d7e11f7260131",
+      "crc32": "9bdbf5e5",
+      "sha1": "0ab9641c46090e66d1345136d7323066112c8c1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enewsofnepal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4aeb1399c9a9797566f6bd1ceb2f4199",
+      "md5": "328c826dc34259cab746aeb85ae5a83d",
       "summation": "md5"
     },
     {
       "name": "enewsofnepal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893325",
-      "size": "1421312",
-      "md5": "df4f17a8a22f44b95133c949c2dbc248",
-      "crc32": "336a228a",
-      "sha1": "d92fbe1b259fe2df6bb3bf65a43c0eacf621b615",
+      "mtime": "1666945817",
+      "size": "1429504",
+      "md5": "4d67d03028722e093b1ee8ac6bd96483",
+      "crc32": "42d9b083",
+      "sha1": "ede16002e38af04e6061e089134a192453cf7d79",
       "format": "Metadata"
     },
     {
@@ -11492,9 +11543,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1111,
-  "item_last_updated": 1666902670,
-  "item_size": 71305814,
+  "files_count": 1116,
+  "item_last_updated": 1666945875,
+  "item_size": 71672318,
   "metadata": {
     "identifier": "enewsofnepal-2022",
     "collection": [
@@ -11511,10 +11562,21 @@
     "publicdate": "2022-07-24 20:37:25",
     "addeddate": "2022-07-24 20:37:25"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 834721215,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454961392,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 526419423,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

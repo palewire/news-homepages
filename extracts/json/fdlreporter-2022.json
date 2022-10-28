@@ -1,5 +1,5 @@
 {
-  "created": 1666903137,
+  "created": 1666945851,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/fdlreporter-2022",
@@ -4636,31 +4636,82 @@
       "sha1": "cdc7bc90a8dfa6ec596755da130f5b8e5827e527"
     },
     {
+      "name": "fdlreporter-2022-10-28T03:29:51.282379-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945796",
+      "size": "23123",
+      "md5": "96be244529a1750fc3d4b50e09203dc5",
+      "crc32": "c927c909",
+      "sha1": "4e3915d35ee5ca81d04fc67ebbb4edffeee84268",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-28T03:29:51.282379-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945797",
+      "size": "40320",
+      "md5": "788a0a653d5b028ac6c92bc2089f455a",
+      "crc32": "668c6e73",
+      "sha1": "00eabbaab749cd31e98c4948bac03cab6772fcb3",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-28T03:29:51.282379-05:00.jpg",
+      "source": "original",
+      "mtime": "1666945794",
+      "size": "272735",
+      "md5": "c1d42175863524258e4a5dd87cdb4f5c",
+      "crc32": "de6abed6",
+      "sha1": "5757a7fd82dfec2d0562fce7912dca059b091172",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fdlreporter-2022-10-28T03:29:51.282379-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945799",
+      "size": "1504",
+      "md5": "6b2e507e919d764b970a975287152b50",
+      "crc32": "c8c2a55a",
+      "sha1": "d08ecaf2bd2fa22b30bc54a484b98be58a6fa235",
+      "format": "JSON"
+    },
+    {
+      "name": "fdlreporter-2022-10-28T03:29:51.282379-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945800",
+      "size": "119329",
+      "md5": "35d382b781cf87d1feb0d63d6a130e37",
+      "crc32": "114969c9",
+      "sha1": "7464a47df80b00b94bcfcc0f0df904f23f42dd4f",
+      "format": "JSON"
+    },
+    {
       "name": "fdlreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7bc8f2dabb18177f6f035ff1e1834c25ce245f8c",
-      "mtime": "1666903054",
-      "size": "97015",
-      "md5": "500482ee5a4e78ac02c8746228cfc73e",
-      "crc32": "3ec54bfa",
-      "sha1": "8a0c762d4d5ea6399ea722ab6b026b60b96cde4c",
+      "btih": "2c5d6e8921cff525309ad5e6372e9220d2a34bcf",
+      "mtime": "1666945845",
+      "size": "98094",
+      "md5": "bb5d5120219a4890671e48d10e9f61a3",
+      "crc32": "c1172934",
+      "sha1": "9fde02f3b6be246e4ed6a009ede1f03b92b33fe0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fdlreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6edb01c552277a0242d75bed9f958358",
+      "md5": "b82262d49c7215e105f902cd120cae2f",
       "summation": "md5"
     },
     {
       "name": "fdlreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893348",
-      "size": "589824",
-      "md5": "76e1d0975bd85aa9dbda2f5ea9d1852f",
-      "crc32": "0a98da81",
-      "sha1": "b2a3fd6c45a20390e38b766874af754b23f627dd",
+      "mtime": "1666945806",
+      "size": "598016",
+      "md5": "791f44fdbdedb2af94ccf1275a131afd",
+      "crc32": "a8b1642e",
+      "sha1": "1078b47dbae30ccb39f8dfdd80a20b6983f54de5",
       "format": "Metadata"
     },
     {
@@ -4674,9 +4725,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1666903054,
-  "item_size": 30584696,
+  "files_count": 457,
+  "item_last_updated": 1666945845,
+  "item_size": 31050978,
   "metadata": {
     "identifier": "fdlreporter-2022",
     "collection": [
@@ -4693,10 +4744,21 @@
     "publicdate": "2022-09-20 17:49:26",
     "addeddate": "2022-09-20 17:49:26"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1486929602,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454960894,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 270884486,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

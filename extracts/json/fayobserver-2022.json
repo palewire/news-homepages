@@ -1,13 +1,8 @@
 {
-  "created": 1666916406,
+  "created": 1666945878,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/4/items/fayobserver-2022",
-  "fayobserver-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4661,31 +4656,82 @@
       "sha1": "a1beee1d5ab9a9dee59fa21a8a9bf6c61f297707"
     },
     {
+      "name": "fayobserver-2022-10-28T04:29:44.573801-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945792",
+      "size": "21191",
+      "md5": "5a14afe5951b75ea0182c9f469ffb1ac",
+      "crc32": "a0f4002d",
+      "sha1": "99cf269cd7f3baf0a09f70de28562e396697a96d",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-28T04:29:44.573801-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945794",
+      "size": "46139",
+      "md5": "647628146865ea33c94c3e0234f7119e",
+      "crc32": "f797c4ab",
+      "sha1": "eb1d867cd3f29f309385a5db67f87c08960432e5",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-28T04:29:44.573801-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945791",
+      "size": "238512",
+      "md5": "f8194fd621808260f741c0569213039f",
+      "crc32": "5af1667a",
+      "sha1": "b68c34eb791b0b48e7adaf42fdbde9a3d4e8aad6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fayobserver-2022-10-28T04:29:44.573801-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945796",
+      "size": "1504",
+      "md5": "f84db18d2a9b40636f1e651dc08fa994",
+      "crc32": "8f51b8a1",
+      "sha1": "2df21849184b29c15cb96dca59e0f8f438bd050a",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-10-28T04:29:44.573801-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945797",
+      "size": "123259",
+      "md5": "07ff4d380e639d0a30aa4035b076082e",
+      "crc32": "4284dfd1",
+      "sha1": "26b3f0a5e09acd688064319c281ceed45b62cfba",
+      "format": "JSON"
+    },
+    {
       "name": "fayobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cd15375a540cca751c06dcd6754061991ed59d47",
-      "mtime": "1666902604",
-      "size": "97364",
-      "md5": "83c6545827bfeb50b3ba9569a42f2b12",
-      "crc32": "59d07bf0",
-      "sha1": "7e649e54ca645ca98a93d617b8d95d9fc73a8762",
+      "btih": "408d20c1b8fdca412485104ce1561a6cc4e60fe6",
+      "mtime": "1666945854",
+      "size": "98443",
+      "md5": "992cba70b67ef47b689dea15671d3f4b",
+      "crc32": "8f0ffb52",
+      "sha1": "03ed1b40ce4eb9122c17f893a2d311d203b48c43",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fayobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0c9b1e8011c528d333e3137177fcc72",
+      "md5": "3a7176ef0722960a6f833495eba715f6",
       "summation": "md5"
     },
     {
       "name": "fayobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893333",
-      "size": "593920",
-      "md5": "6e63707a972cb0da2602325e2221f1d7",
-      "crc32": "cf0dcfb3",
-      "sha1": "77b2760e7515630c7ee1916f3f42a57c57d1ec1a",
+      "mtime": "1666945809",
+      "size": "602112",
+      "md5": "086b0e41a064b5f333648408822d882b",
+      "crc32": "de301b3d",
+      "sha1": "e4a12494af309cb6afc46c62a8b719c109604b4c",
       "format": "Metadata"
     },
     {
@@ -4699,9 +4745,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666902604,
-  "item_size": 29040044,
+  "files_count": 459,
+  "item_last_updated": 1666945854,
+  "item_size": 29479920,
   "metadata": {
     "identifier": "fayobserver-2022",
     "collection": [
@@ -4718,10 +4764,21 @@
     "publicdate": "2022-09-20 17:50:17",
     "addeddate": "2022-09-20 17:50:17"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 1205940963,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454961150,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 568502299,
   "workable_servers": [
-    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

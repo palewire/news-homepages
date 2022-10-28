@@ -1,5 +1,5 @@
 {
-  "created": 1666903430,
+  "created": 1666946089,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/gazetadopovo-2022",
@@ -14900,31 +14900,82 @@
       "sha1": "f12286e27629129f0ad913e7ff8bf94cde64820e"
     },
     {
+      "name": "gazetadopovo-2022-10-28T05:32:47.956949-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945981",
+      "size": "69659",
+      "md5": "ae9d9e3cc92266b623243d559b1e6ecc",
+      "crc32": "d0e2aaf8",
+      "sha1": "372e3a5708a9e45a71eff6c1f899ef69a7dabde0",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-10-28T05:32:47.956949-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945983",
+      "size": "97689",
+      "md5": "b1ef5a6eaae983a8e9239ba91fbe9f64",
+      "crc32": "b2699294",
+      "sha1": "de7616a21419fd85d66f32bfd316ea51d8e9a2fc",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-10-28T05:32:47.956949-03:00.jpg",
+      "source": "original",
+      "mtime": "1666945979",
+      "size": "286492",
+      "md5": "4b946b6fc7656c92d716849dfe3a34a0",
+      "crc32": "5233fb0b",
+      "sha1": "2d7da66b392d2100c41a16b4a0a330abec4a15aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetadopovo-2022-10-28T05:32:47.956949-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945984",
+      "size": "1540",
+      "md5": "c87fd79936369f01ac377db7f55dedff",
+      "crc32": "2a4a7d30",
+      "sha1": "a70a755e48d8d63140cb31557323f68ff636137d",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetadopovo-2022-10-28T05:32:47.956949-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945986",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gazetadopovo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "06948d8a665714ffab4de686bc6535c704af9d57",
-      "mtime": "1666903365",
-      "size": "311395",
-      "md5": "d6685438efb8763b0fda335bbf2a5591",
-      "crc32": "a3d30000",
-      "sha1": "fda13f7eb5ce50e9d8c1fee5d02e5db300ac3d50",
+      "btih": "8a67f4b6aa870c14e47aaf9f913a04be0a359344",
+      "mtime": "1666946063",
+      "size": "312476",
+      "md5": "3cba37b190ed0a5f647716444a8aade4",
+      "crc32": "892e34e5",
+      "sha1": "4c3af3aed0c8d38e627b6b175c0929b5e702f358",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetadopovo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "309d2c6c8c1b0c64a022e90e581992ff",
+      "md5": "aa0a037673a1ff73c80fcb8538232bfe",
       "summation": "md5"
     },
     {
       "name": "gazetadopovo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893490",
-      "size": "1847296",
-      "md5": "7d239849a424f479fb06972e91572d2b",
-      "crc32": "ec6dd272",
-      "sha1": "c05491eafc3801950f30724815a5989f940eb94d",
+      "mtime": "1666945995",
+      "size": "1855488",
+      "md5": "53c96bc0695828270ecaea5f04e7269a",
+      "crc32": "a9f8e0b3",
+      "sha1": "9bd03ccee83daa700e1e86b55635a6473543406b",
       "format": "Metadata"
     },
     {
@@ -14938,9 +14989,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1445,
-  "item_last_updated": 1666903365,
-  "item_size": 123465359,
+  "files_count": 1450,
+  "item_last_updated": 1666946063,
+  "item_size": 123930214,
   "metadata": {
     "identifier": "gazetadopovo-2022",
     "collection": [
@@ -14957,10 +15008,21 @@
     "publicdate": "2022-08-04 04:55:45",
     "addeddate": "2022-08-04 04:55:45"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1556244288,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454963683,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1806628489,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

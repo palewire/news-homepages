@@ -1,12 +1,7 @@
 {
-  "created": 1666916206,
+  "created": 1666945704,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
-  "dailyyonder-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/9/items/dailyyonder-2022",
   "files": [
     {
@@ -12851,31 +12846,82 @@
       "sha1": "94221746b847290c5f535cd963f42fa80423f609"
     },
     {
+      "name": "dailyyonder-2022-10-28T04:27:10.832761-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945639",
+      "size": "28659",
+      "md5": "c9779d0871471957b81e51e7d80f72d3",
+      "crc32": "14a1143b",
+      "sha1": "1e5f08f41bca2f52a7086db07808fcce83505db0",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyyonder-2022-10-28T04:27:10.832761-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945641",
+      "size": "32530",
+      "md5": "dd2ee7e43d3d3fb5e96309a2160b3ac4",
+      "crc32": "57c31287",
+      "sha1": "9d5db11837ef0c88dcfdbf51e2966678f0efbf1d",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyyonder-2022-10-28T04:27:10.832761-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945637",
+      "size": "323690",
+      "md5": "4e3231af3102feb7a3329e05b0472334",
+      "crc32": "69355c14",
+      "sha1": "2a59c7738c594f5cec89e76c8cec6d5d5439b23c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyyonder-2022-10-28T04:27:10.832761-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945643",
+      "size": "1459",
+      "md5": "4428f5efbbeaaeeb0fb37bb9a9cd8d82",
+      "crc32": "e4abf1b5",
+      "sha1": "dc2933566c03c8580faac554e0753d2791c77bc7",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyyonder-2022-10-28T04:27:10.832761-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945645",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "dailyyonder-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f1fc771a686c3158e5d1e75ac9fc3bfcbccd49c",
-      "mtime": "1666902553",
-      "size": "266368",
-      "md5": "1621cb7ab3449665b5c81e685850eb83",
-      "crc32": "3daee93d",
-      "sha1": "54147a83bd26dc79f3166031b4c2f34a6ce65e66",
+      "btih": "eb0f3e524eff051b5b16e6c25156dfd9571da848",
+      "mtime": "1666945699",
+      "size": "267444",
+      "md5": "8a03ad0c15eaad7d7f542dfd6430b6e9",
+      "crc32": "6de5a5cb",
+      "sha1": "8672a5ecebc1bc14e6d4538477ba1723eca4015d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyyonder-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2a5df95dd1dc06ee265b4e8e4779684",
+      "md5": "6d4a26cb321be795f23c231a2cbaa0b8",
       "summation": "md5"
     },
     {
       "name": "dailyyonder-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893229",
-      "size": "1576960",
-      "md5": "2a9e21cd7ae737756edf7525f1284911",
-      "crc32": "7826f16a",
-      "sha1": "43df193a53eb3c3cc1a90d921b38e197ad368cce",
+      "mtime": "1666945651",
+      "size": "1585152",
+      "md5": "1ec4c967eed62960c3284853ed7704e3",
+      "crc32": "68265dcd",
+      "sha1": "62d46c67474d6bce0edcdd8b2f4ad210472fff9d",
       "format": "Metadata"
     },
     {
@@ -12889,9 +12935,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1244,
-  "item_last_updated": 1666902553,
-  "item_size": 90897967,
+  "files_count": 1249,
+  "item_last_updated": 1666945699,
+  "item_size": 91293775,
   "metadata": {
     "identifier": "dailyyonder-2022",
     "collection": [
@@ -12908,10 +12954,21 @@
     "publicdate": "2022-07-09 03:57:34",
     "addeddate": "2022-07-09 03:57:34"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 945792716,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454959457,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1752471215,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

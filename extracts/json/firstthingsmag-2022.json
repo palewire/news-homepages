@@ -1,5 +1,5 @@
 {
-  "created": 1666908700,
+  "created": 1666945857,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/firstthingsmag-2022",
@@ -17752,31 +17752,82 @@
       "sha1": "6be4be6f57ad4e749d6d2701b9576451904eb7af"
     },
     {
+      "name": "firstthingsmag-2022-10-28T04:29:39.949444-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945783",
+      "size": "34006",
+      "md5": "8363fd235c3ca694f99cca2ff14e910b",
+      "crc32": "9ceb41f9",
+      "sha1": "5f8fc48126d9aef42cf2aabbdece0e06f9338184",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-10-28T04:29:39.949444-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945785",
+      "size": "19684",
+      "md5": "ef0aa928cf228555ac18d4862a36d3b2",
+      "crc32": "8910fcf1",
+      "sha1": "46ba8258a5f3689d0aabda61f69a57c487f7ff7e",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-10-28T04:29:39.949444-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945781",
+      "size": "199211",
+      "md5": "ef73d235f5a63972d2d130cd2a3b6e23",
+      "crc32": "70e31d87",
+      "sha1": "93585ff0ba04df81e900e522824c989f9fecbf0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "firstthingsmag-2022-10-28T04:29:39.949444-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945788",
+      "size": "1501",
+      "md5": "ac42b922de1d8f0d275f8ca041709e8d",
+      "crc32": "1a571e8a",
+      "sha1": "fa1e0343c8d6e46c99e2a8c4d43433a9a1c89d32",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-10-28T04:29:39.949444-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945790",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "firstthingsmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0f5a2147e15746f6c93d2c3f631038ee36c6a387",
-      "mtime": "1666908642",
-      "size": "371658",
-      "md5": "fe85880b723585eb47f41be888178853",
-      "crc32": "346dfad7",
-      "sha1": "f9725a21a53123332ca98df211d26c9e7b381ea7",
+      "btih": "5527f2338fc91c79dde91c594d0f7dc6c75a746b",
+      "mtime": "1666945850",
+      "size": "372749",
+      "md5": "88cfc92b81bd202ed254302ecd8f7187",
+      "crc32": "92b6f63e",
+      "sha1": "b7431dfbaf47c3bea24ab3c6aa980deb92e2b8b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "firstthingsmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6d869f060312184fc82b530ea6fba49",
+      "md5": "f44502b94106ba7724c8dc23c4744fc2",
       "summation": "md5"
     },
     {
       "name": "firstthingsmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666901350",
-      "size": "2187264",
-      "md5": "729ca74a9b9dc1da67ecf16274443386",
-      "crc32": "3f924879",
-      "sha1": "47ed1423a5c25feaaead6688958deebaecf4874d",
+      "mtime": "1666945794",
+      "size": "2195456",
+      "md5": "f601c3dc46dce3a9a11011b54e5728d0",
+      "crc32": "01ce5e94",
+      "sha1": "8fb5254cb28900153d998c2b1420fc7659bc139b",
       "format": "Metadata"
     },
     {
@@ -17790,9 +17841,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1719,
-  "item_last_updated": 1666908642,
-  "item_size": 96778398,
+  "files_count": 1724,
+  "item_last_updated": 1666945850,
+  "item_size": 97042285,
   "metadata": {
     "identifier": "firstthingsmag-2022",
     "collection": [
@@ -17809,10 +17860,21 @@
     "publicdate": "2022-07-17 15:03:04",
     "addeddate": "2022-07-17 15:03:04"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 826539820,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454960945,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1117811948,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666903013,
+  "created": 1666945864,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/29/items/elpaisuy-2022",
@@ -12818,31 +12818,82 @@
       "sha1": "6eaf018665b4971ea32636fbb015d640a85f577e"
     },
     {
+      "name": "elpaisuy-2022-10-28T05:29:51.932401-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945795",
+      "size": "50469",
+      "md5": "852bef8963592f4ec144d7e122e7932d",
+      "crc32": "68c80bec",
+      "sha1": "8e341a211deae07ef9851e9799240ec729a40e0b",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-28T05:29:51.932401-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945797",
+      "size": "94524",
+      "md5": "cc4ae2b53fa140e819dd9609182b6d42",
+      "crc32": "b24358b0",
+      "sha1": "73b5e272a7617e2dbacf2c74bd146be7c699bc79",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-28T05:29:51.932401-03:00.jpg",
+      "source": "original",
+      "mtime": "1666945793",
+      "size": "281579",
+      "md5": "7a6f8002edc02403b914cd2aaba0e1ef",
+      "crc32": "487c1b99",
+      "sha1": "96755e5707a243d595dc3d9541441f80275e7a89",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpaisuy-2022-10-28T05:29:51.932401-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945800",
+      "size": "1483",
+      "md5": "4a9e2d48f9f2e4c8a0205f5ba630cbf1",
+      "crc32": "baf924b1",
+      "sha1": "e73e040624c9f0fbaa423349e5bd1c5de2036cb8",
+      "format": "JSON"
+    },
+    {
+      "name": "elpaisuy-2022-10-28T05:29:51.932401-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945801",
+      "size": "1256",
+      "md5": "92a7f85642ad552ccf7ff587e4b3de2d",
+      "crc32": "a286543b",
+      "sha1": "56ec682c5424bf85f5806d7f1bff3be58418c66d",
+      "format": "JSON"
+    },
+    {
       "name": "elpaisuy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d99e8651b286bb152856e68abacbbf19e4506b8c",
-      "mtime": "1666902902",
-      "size": "262308",
-      "md5": "037b546a7bdb40e097ba0ab0819dfe6e",
-      "crc32": "c62607f8",
-      "sha1": "6ac891e4caef3ffb6add1cfebdf2177bfa21897a",
+      "btih": "aed6931b1e7f4aa2452b780e4000e1d6b82cfae6",
+      "mtime": "1666945860",
+      "size": "263370",
+      "md5": "e2ad5e6ff0a55904b152543a1e1391d6",
+      "crc32": "5095ce80",
+      "sha1": "a8be7f54246b49e38a5c6cf5f541e3866cf26a0e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpaisuy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "851b48a767a209b547ef481784e77dd4",
+      "md5": "0f5f951770d2e279058be88eda6389ff",
       "summation": "md5"
     },
     {
       "name": "elpaisuy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893333",
-      "size": "1560576",
-      "md5": "710b9225028240609f8eb1c795f4df30",
-      "crc32": "80f2c4ea",
-      "sha1": "91cda13b7da7157bb4f4c27e2292f8126fc63b3a",
+      "mtime": "1666945809",
+      "size": "1564672",
+      "md5": "ce69e76e7cacc9a1b518bb4b687cab4f",
+      "crc32": "0ddf0836",
+      "sha1": "d397558a5676c3cec9696069b2cf294f488c4d47",
       "format": "Metadata"
     },
     {
@@ -12856,9 +12907,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1241,
-  "item_last_updated": 1666902902,
-  "item_size": 101299005,
+  "files_count": 1246,
+  "item_last_updated": 1666945860,
+  "item_size": 101733474,
   "metadata": {
     "identifier": "elpaisuy-2022",
     "collection": [
@@ -12875,10 +12926,21 @@
     "publicdate": "2022-07-09 03:58:10",
     "addeddate": "2022-07-09 03:58:10"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1116249719,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454961016,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1758836218,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

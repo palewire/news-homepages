@@ -1,5 +1,5 @@
 {
-  "created": 1666913623,
+  "created": 1666946033,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/26/items/gigharbornow-2022",
@@ -12714,31 +12714,82 @@
       "sha1": "ad71df31f4e499e51cfc8684586f770cf00591e7"
     },
     {
+      "name": "gigharbornow-2022-10-28T01:32:47.637651-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945971",
+      "size": "26271",
+      "md5": "016f4fc3ef310d22828255d75c2de20c",
+      "crc32": "db5633d6",
+      "sha1": "5e9f60d66627bae07d9bf5547a6561f5a6389f3a",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-10-28T01:32:47.637651-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945973",
+      "size": "29315",
+      "md5": "e2f0ae855e429488eedb774fe44ea5e8",
+      "crc32": "4d4310a0",
+      "sha1": "d2f15c1dea2d78e14180af2e59f47e8aea5dc9f0",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-10-28T01:32:47.637651-07:00.jpg",
+      "source": "original",
+      "mtime": "1666945969",
+      "size": "128362",
+      "md5": "ef920898d5333c76a0c54f9477486d6c",
+      "crc32": "aa383917",
+      "sha1": "5aaf7461c2ee767705ff6e02e46953b4c26108d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gigharbornow-2022-10-28T01:32:47.637651-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945974",
+      "size": "1506",
+      "md5": "fb0ad575d61d9ad6cd8516bf602e9b1b",
+      "crc32": "fbb210d1",
+      "sha1": "838b88277998979c34f45c9af5fcd88c8d2b24ca",
+      "format": "JSON"
+    },
+    {
+      "name": "gigharbornow-2022-10-28T01:32:47.637651-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945976",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gigharbornow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fccf33871828a8c3cd580150e2d3dd8266234295",
-      "mtime": "1666902892",
-      "size": "263347",
-      "md5": "c9dea9d68acfbe763a83edf69229ac03",
-      "crc32": "1877b828",
-      "sha1": "0a77bcfe05a77fdeadc58a59c75fc11610b1fc3c",
+      "btih": "ea66d48e53b63490308d1f51304996f3aa235b7f",
+      "mtime": "1666946030",
+      "size": "264408",
+      "md5": "f4d9915fc137ecb94928b377e0a6b06b",
+      "crc32": "24f49f68",
+      "sha1": "e3e57614bad9a20e231d29c3cd73c5fd7aa2a9b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gigharbornow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc9eb5a3329f2b3550d443ca5244a25f",
+      "md5": "56e874fcaf2d9650b6b19397556efb9d",
       "summation": "md5"
     },
     {
       "name": "gigharbornow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893561",
-      "size": "1560576",
-      "md5": "5473551a4802a477c2cb14d451b26587",
-      "crc32": "27b49c26",
-      "sha1": "6064782c8c123ce180f2e9c42649ad911857c76d",
+      "mtime": "1666945982",
+      "size": "1568768",
+      "md5": "c2078e96fbc1873985309ce8d986be9d",
+      "crc32": "5d5f39ce",
+      "sha1": "66f1d471d3a9ce197265f60319a498597b0103e2",
       "format": "Metadata"
     },
     {
@@ -12752,9 +12803,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1231,
-  "item_last_updated": 1666902892,
-  "item_size": 57165807,
+  "files_count": 1236,
+  "item_last_updated": 1666946030,
+  "item_size": 57360716,
   "metadata": {
     "identifier": "gigharbornow-2022",
     "collection": [
@@ -12771,10 +12822,21 @@
     "publicdate": "2022-07-09 03:58:50",
     "addeddate": "2022-07-09 03:58:50"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 604832635,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454963104,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2107130260,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

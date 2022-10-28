@@ -1,5 +1,5 @@
 {
-  "created": 1666902576,
+  "created": 1666945632,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/demingheadlight-2022",
@@ -4656,31 +4656,82 @@
       "sha1": "237bfcec01f2f7b974ad50cf094c7116c3c5c516"
     },
     {
+      "name": "demingheadlight-2022-10-28T02:26:00.921548-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945567",
+      "size": "21374",
+      "md5": "3bc2bdbd8c077cc5fe6d873886d47bfd",
+      "crc32": "4173bc48",
+      "sha1": "d95e4a466796e6e12ebb995a112e57bcd7426e3a",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-28T02:26:00.921548-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945568",
+      "size": "32121",
+      "md5": "7ffc53d930617d5b66235bf1eae2782d",
+      "crc32": "05471350",
+      "sha1": "d6b301a544958c1733f4ef0f9bcc47abe8d38785",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-28T02:26:00.921548-06:00.jpg",
+      "source": "original",
+      "mtime": "1666945565",
+      "size": "228200",
+      "md5": "628abca041c392de7b65d30cbfbd0577",
+      "crc32": "28058e2e",
+      "sha1": "dbed31b7bfea7ed696cf741bae5300019d89f690",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "demingheadlight-2022-10-28T02:26:00.921548-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945570",
+      "size": "1539",
+      "md5": "d9411a46e5466a657f49b88f77996fdf",
+      "crc32": "c52eb75f",
+      "sha1": "292f3b2b19d5d80030e46cb2cbab5b445a516622",
+      "format": "JSON"
+    },
+    {
+      "name": "demingheadlight-2022-10-28T02:26:00.921548-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945571",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "demingheadlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "752e91033748b75634dff69d85d2cdd498d9b696",
-      "mtime": "1666902541",
-      "size": "99178",
-      "md5": "aa03f20bf1c3390fbde6320f6ef70672",
-      "crc32": "49067ae7",
-      "sha1": "e15fd7d5b253816f29287f4cf8ee73e9d7f15879",
+      "btih": "23e9fc77183704931db25429a038ec3edddeeb35",
+      "mtime": "1666945617",
+      "size": "100254",
+      "md5": "d19a9694b5c3b0690bb94361a02c3947",
+      "crc32": "b53ed7f4",
+      "sha1": "16c44c5eb703d9ce07d5df54ce8ee963c6dc1585",
       "format": "Archive BitTorrent"
     },
     {
       "name": "demingheadlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9d7dbede204f92f0908888d1850d04c",
+      "md5": "d550e7a9e7998670c35f4965acd0f624",
       "summation": "md5"
     },
     {
       "name": "demingheadlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893252",
-      "size": "593920",
-      "md5": "a7b90b3d8b37cb2370848a1ed49e10e5",
-      "crc32": "4b53ca92",
-      "sha1": "76e609a53b27faf1a2e1013584236100a8fecc97",
+      "mtime": "1666945576",
+      "size": "602112",
+      "md5": "9aab59781ba718586328843f79e4b030",
+      "crc32": "b9c62b23",
+      "sha1": "d4d0e0b0881e540578cd4d5fc7c2bb74f676136b",
       "format": "Metadata"
     },
     {
@@ -4694,9 +4745,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666902541,
-  "item_size": 28542957,
+  "files_count": 459,
+  "item_last_updated": 1666945617,
+  "item_size": 28835661,
   "metadata": {
     "identifier": "demingheadlight-2022",
     "collection": [
@@ -4713,10 +4764,21 @@
     "publicdate": "2022-09-20 17:45:10",
     "addeddate": "2022-09-20 17:45:10"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1850139546,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454958652,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1268490246,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

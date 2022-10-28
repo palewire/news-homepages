@@ -1,5 +1,5 @@
 {
-  "created": 1666902779,
+  "created": 1666945838,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/19/items/fox5ny-2022",
@@ -7984,31 +7984,82 @@
       "sha1": "5a86f68113887b757dbc2198c357de029d752601"
     },
     {
+      "name": "fox5ny-2022-10-28T04:29:26.078723-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945773",
+      "size": "43929",
+      "md5": "ee2e252301591eac930cd25bb584b26b",
+      "crc32": "162219ba",
+      "sha1": "586fc10f0156bfef278f03297b45d2a44e1c396e",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-28T04:29:26.078723-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945775",
+      "size": "33836",
+      "md5": "3d6b4f9be250d182d52bfba96ff25e12",
+      "crc32": "d0ed52c5",
+      "sha1": "051eba70e4f5093a899d949524fa15a64276bd32",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-28T04:29:26.078723-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945771",
+      "size": "337666",
+      "md5": "0e50f9c3595899fee649f922af98e3fb",
+      "crc32": "255eb153",
+      "sha1": "6683df02f5015b57f5f0a315ec151bb82fe1cf98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5ny-2022-10-28T04:29:26.078723-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945777",
+      "size": "1459",
+      "md5": "152a0fb9759f0e51cd7d256e69499f9b",
+      "crc32": "4e57333a",
+      "sha1": "fbade47a1222d9ff3ec2f961ac691e115b02f7e2",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5ny-2022-10-28T04:29:26.078723-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945778",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "fox5ny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d4214e8023ba91a323c08188c6303f659c4ef56",
-      "mtime": "1666902701",
-      "size": "162613",
-      "md5": "5dc35cf0c0108d098416d00a2125e5d7",
-      "crc32": "6a0027c9",
-      "sha1": "56f67012da9639e0197dff97f194527e90301914",
+      "btih": "bbea591ab9c4fb009bc4fb91253925635a65b3ff",
+      "mtime": "1666945831",
+      "size": "163664",
+      "md5": "74f186947eda9cff15a713bea30afedf",
+      "crc32": "44f92d90",
+      "sha1": "881929a4b8f1be6b6dbc83d9cd927c583fe4d1ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5ny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e1292d6b72756884821e4dc476a7f8d",
+      "md5": "dde67644994b44d1186389830b235786",
       "summation": "md5"
     },
     {
       "name": "fox5ny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893309",
-      "size": "991232",
-      "md5": "0ed9cbc7a06ccfcf7cc7ebac12bd3a0a",
-      "crc32": "9d8893ed",
-      "sha1": "90f7db5cf4d2ae07b77e306698d1abd28f158211",
+      "mtime": "1666945782",
+      "size": "999424",
+      "md5": "10b68deef59e105d21bb743b4fa6ec4d",
+      "crc32": "3d3ba086",
+      "sha1": "d659a9e25e374c8e0d9352ed9330c8efb8b7e7ae",
       "format": "Metadata"
     },
     {
@@ -8022,9 +8073,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 776,
-  "item_last_updated": 1666902701,
-  "item_size": 60402558,
+  "files_count": 781,
+  "item_last_updated": 1666945831,
+  "item_size": 60828893,
   "metadata": {
     "identifier": "fox5ny-2022",
     "collection": [
@@ -8041,10 +8092,21 @@
     "publicdate": "2022-08-23 14:52:06",
     "addeddate": "2022-08-23 14:52:06"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 2032949024,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454960794,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 101517293,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

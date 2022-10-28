@@ -1,5 +1,5 @@
 {
-  "created": 1666904231,
+  "created": 1666945416,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/cronica-2022",
@@ -9870,31 +9870,82 @@
       "sha1": "6005b59487d8ae5a3b006d62feff00016091a835"
     },
     {
+      "name": "cronica-2022-10-28T05:22:27.398314-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945355",
+      "size": "81243",
+      "md5": "a3db13c8dadee5941972ac5b4cc02f1a",
+      "crc32": "861532eb",
+      "sha1": "110b50c27f28ea541431b190227ccf8fb0b2091a",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-10-28T05:22:27.398314-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945357",
+      "size": "32226",
+      "md5": "7156003636f25eac3c7432a137c3cdae",
+      "crc32": "e20565b4",
+      "sha1": "74e479659b0f684a5e82f723297bb1e334d8486d",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-10-28T05:22:27.398314-03:00.jpg",
+      "source": "original",
+      "mtime": "1666945353",
+      "size": "14925",
+      "md5": "2835710d6430bcbd4fd9d5901cc9b43c",
+      "crc32": "9f05c77e",
+      "sha1": "09675d5cdc9dfc990ae67400fe8ba40218791d93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cronica-2022-10-28T05:22:27.398314-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945359",
+      "size": "1486",
+      "md5": "c8ed57477fe5ccd4dfa4e047fbc2d8b1",
+      "crc32": "92d4c21d",
+      "sha1": "7a15f5cd7c211900935d9a014dd5ddabfb21f4b0",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-10-28T05:22:27.398314-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945360",
+      "size": "226967",
+      "md5": "0a30dcf959cf7f545d18d32954aa1bdb",
+      "crc32": "1c7aa5d8",
+      "sha1": "c14758bbd87b8f0db2e94ca8bd6df772359c1e51",
+      "format": "JSON"
+    },
+    {
       "name": "cronica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49bcf61c375a280b2f46034e4ee5b349ce3bf522",
-      "mtime": "1666904042",
-      "size": "200769",
-      "md5": "2dec3406aea2108aedd1c73158215eb9",
-      "crc32": "1d3cb82c",
-      "sha1": "32f57bed6b45cf34fb977b79dfc2deead1bf7d1b",
+      "btih": "3b596c50efd64b0b018ad04d154bc6749c1e8627",
+      "mtime": "1666945412",
+      "size": "201827",
+      "md5": "b7febba200a4b1260a1d8ec5a9b81129",
+      "crc32": "3b4ca470",
+      "sha1": "3b3547122edb9f447b57ab2ac369714a43ae378e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cronica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18c7d8c0e39edb9fbe22965c9a7d4f49",
+      "md5": "25531cc58a3e5b819c04ddc524a2304d",
       "summation": "md5"
     },
     {
       "name": "cronica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893021",
-      "size": "1224704",
-      "md5": "4c5047693188ab3d3597429a8e79eb08",
-      "crc32": "2a2e3aac",
-      "sha1": "950ad1cf21a15d6f9000705fa80163e00091a5af",
+      "mtime": "1666945367",
+      "size": "1241088",
+      "md5": "5f3f135075f5f53f2d665b4429c7159c",
+      "crc32": "eab25799",
+      "sha1": "b5351947216d03c9b3241689cb7f8c381cdf89c4",
       "format": "Metadata"
     },
     {
@@ -9908,9 +9959,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 959,
-  "item_last_updated": 1666904042,
-  "item_size": 52992041,
+  "files_count": 964,
+  "item_last_updated": 1666945412,
+  "item_size": 53366330,
   "metadata": {
     "identifier": "cronica-2022",
     "collection": [
@@ -9927,10 +9978,21 @@
     "publicdate": "2022-08-09 14:37:36",
     "addeddate": "2022-08-09 14:37:36"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1819201915,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454956505,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1428487330,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }
