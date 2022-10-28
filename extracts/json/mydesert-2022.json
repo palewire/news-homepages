@@ -1,5 +1,5 @@
 {
-  "created": 1666917606,
+  "created": 1666924140,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/8/items/mydesert-2022",
@@ -27546,31 +27546,82 @@
       "sha1": "32e89b86076da003aa0c67c2139dac5017a53dca"
     },
     {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924031",
+      "size": "22686",
+      "md5": "7ecd38410fa664a1b33f5b777033d255",
+      "crc32": "0bb647e2",
+      "sha1": "5b4b99af1f7d91e7a6e4560967f5ced2d9fe6f96",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924032",
+      "size": "29701",
+      "md5": "6c13b271976cc9d235edb6ad8cd29d68",
+      "crc32": "43a480e7",
+      "sha1": "3c81cd015bbdb0c9995e97ecff385e4e2d62b531",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.jpg",
+      "source": "original",
+      "mtime": "1666924029",
+      "size": "277569",
+      "md5": "93c8182246552d060df31d039fff6092",
+      "crc32": "c00bcb70",
+      "sha1": "9c6076ea3e611ebb0951cc4233f9c68004a58f09",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924034",
+      "size": "1486",
+      "md5": "81eedc6519208f8bad40cba4939e875a",
+      "crc32": "908a4453",
+      "sha1": "ee420120779b1854d767abc56cf890a72fca4236",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924036",
+      "size": "102",
+      "md5": "68a977f3ddebb2549918a507a77cbc8b",
+      "crc32": "7f102d3e",
+      "sha1": "a6f1b51eef01a4a75c7423ce79a4ec0f0784e9e6",
+      "format": "JSON"
+    },
+    {
       "name": "mydesert-2022_archive.torrent",
       "source": "metadata",
-      "btih": "168561d724d9420030b62236c7d9b62857d64d46",
-      "mtime": "1666893601",
-      "size": "558447",
-      "md5": "01f73f6b3b028a50404959238318f586",
-      "crc32": "cae44707",
-      "sha1": "e8b0e0903efb26cb2e446bd7e368f1673c45476d",
+      "btih": "aca8dfc9917e836b5f93c51f11e7c9d4e4ba979f",
+      "mtime": "1666924134",
+      "size": "559508",
+      "md5": "f79424c30f09385ffd908466c2ef7edb",
+      "crc32": "1232c66c",
+      "sha1": "31385250d94a8c8543caa3b4937529bc137d9e02",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mydesert-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bdab2a1dc0e7976b82f13b29b6366c98",
+      "md5": "736355c1526c029e485a4aefd5cf49d0",
       "summation": "md5"
     },
     {
       "name": "mydesert-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666879965",
-      "size": "3215360",
-      "md5": "1e8d31faee30bc7d59c7c8a3c08c2634",
-      "crc32": "b56de3a7",
-      "sha1": "d0170b50652980dc8ad34b9d229cae7121055b93",
+      "mtime": "1666924043",
+      "size": "3223552",
+      "md5": "c799e8de96ac737557be64ee4c51393d",
+      "crc32": "363a7def",
+      "sha1": "576ee22bf765f37518b3f5dc8098d6c04b086796",
       "format": "Metadata"
     },
     {
@@ -27584,9 +27635,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2650,
-  "item_last_updated": 1666893601,
-  "item_size": 205507585,
+  "files_count": 2655,
+  "item_last_updated": 1666924134,
+  "item_size": 205848382,
   "metadata": {
     "identifier": "mydesert-2022",
     "collection": [
@@ -27603,10 +27654,21 @@
     "publicdate": "2022-03-23 02:08:56",
     "addeddate": "2022-03-23 02:08:56"
   },
+  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "uniq": 1805768630,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454711131,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 190209188,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia902508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666918006,
+  "created": 1666924084,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/news12nj-2022",
@@ -11378,31 +11378,82 @@
       "sha1": "967448d3b44214bfdc08e9391f06e1e472f69f54"
     },
     {
+      "name": "news12nj-2022-10-27T22:26:56.762031-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924022",
+      "size": "18537",
+      "md5": "1d1af908443ed15bc3fe163834b02d53",
+      "crc32": "6fe890d8",
+      "sha1": "d52149bb78e45ead563f07baeddb53cb38443b48",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-27T22:26:56.762031-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924024",
+      "size": "22790",
+      "md5": "3f419b27352aa2340ac76500d290efc3",
+      "crc32": "e4c5de6e",
+      "sha1": "d2482972b46c9ba8563fc35abf4160de154213d1",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-27T22:26:56.762031-04:00.jpg",
+      "source": "original",
+      "mtime": "1666924018",
+      "size": "208627",
+      "md5": "6cf561a7b1ec6ac9f47621f37b782698",
+      "crc32": "e4910421",
+      "sha1": "81ebeb3f7ab5d7cf9a5c9a92183f92459ff15ac6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "news12nj-2022-10-27T22:26:56.762031-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924025",
+      "size": "1513",
+      "md5": "91124c33435ea655e5e979adfc9d9d91",
+      "crc32": "3c3d48bd",
+      "sha1": "96c96318d1342c2dc9314032e793c5ab8ee4edc4",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-10-27T22:26:56.762031-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924027",
+      "size": "27167",
+      "md5": "a3187534aeab321a522d7b0ab35de527",
+      "crc32": "cc298839",
+      "sha1": "b87bcb5515d9137f0be76dc66f87e31bdfbbdac5",
+      "format": "JSON"
+    },
+    {
       "name": "news12nj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "63a917c9d3fde62fe526903107566ba477a2a8c4",
-      "mtime": "1666893347",
-      "size": "232180",
-      "md5": "b4de240f0d186f314f1da37d5c40ee22",
-      "crc32": "b744ca8a",
-      "sha1": "2243cca9f5a045fca4ca5047580a40897e71e870",
+      "btih": "c4414499dbcc003a8428b9d558cceef8aa2792a5",
+      "mtime": "1666924079",
+      "size": "233243",
+      "md5": "9728b3194070d908748afb3e2c12903c",
+      "crc32": "e54ced37",
+      "sha1": "81e1656f98cee1789134a25e8441eb4adadcd91c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news12nj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9420b965dea86d4f0c0978202c92d91f",
+      "md5": "363ae7d1a6eb9442eed1b80733841bc1",
       "summation": "md5"
     },
     {
       "name": "news12nj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666879962",
-      "size": "1409024",
-      "md5": "6c431194d69c7ea505cc2af2e8994460",
-      "crc32": "9d887268",
-      "sha1": "8b445d3ad739054e12223c6fe2d936b4a00b24da",
+      "mtime": "1666924032",
+      "size": "1413120",
+      "md5": "f994b2eace2d6790f38cbc2f4f7f670d",
+      "crc32": "12766581",
+      "sha1": "9b108c22b62122c40c3f64d004d4c397aeb7a92b",
       "format": "Metadata"
     },
     {
@@ -11416,9 +11467,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1104,
-  "item_last_updated": 1666893347,
-  "item_size": 59271511,
+  "files_count": 1109,
+  "item_last_updated": 1666924079,
+  "item_size": 59555304,
   "metadata": {
     "identifier": "news12nj-2022",
     "collection": [
@@ -11435,15 +11486,21 @@
     "publicdate": "2022-07-26 00:20:38",
     "addeddate": "2022-07-26 00:20:38"
   },
-  "news12nj-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1820310796,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454710615,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1726116461,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }
