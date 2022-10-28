@@ -1,5 +1,5 @@
 {
-  "created": 1666915319,
+  "created": 1666957880,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/22/items/forbes-2022",
@@ -6722,31 +6722,82 @@
       "sha1": "236c17395f2761a677752c3dbc3f64c8e8ee44f1"
     },
     {
+      "name": "forbes-2022-10-28T07:49:46.559832-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957794",
+      "size": "33181",
+      "md5": "000d62e3bef663c03653f251b1112217",
+      "crc32": "4433e025",
+      "sha1": "4d311577537bc7aa8b9cbf3224a09028627c8c1e",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-28T07:49:46.559832-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957796",
+      "size": "51954",
+      "md5": "f2d4ae4c6f261af99b96236afae45d13",
+      "crc32": "992eeb5d",
+      "sha1": "3488d778c0a3fd19d70d38dd060b442d9e0075dd",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-28T07:49:46.559832-04:00.jpg",
+      "source": "original",
+      "mtime": "1666957792",
+      "size": "191213",
+      "md5": "ce7fa9b2e8ca14999ca4b6caaa66b81e",
+      "crc32": "b4c754fc",
+      "sha1": "3aba6b5c966f3a284ac8090b017a2fb2d7da346e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "forbes-2022-10-28T07:49:46.559832-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957798",
+      "size": "1457",
+      "md5": "8a538559d8efbec8224839805190750d",
+      "crc32": "19d70b8d",
+      "sha1": "c60a330f85d5aefb1574965eabe69a421eebea6c",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-28T07:49:46.559832-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957800",
+      "size": "42450",
+      "md5": "76baa267585826885b12587e760fcf94",
+      "crc32": "b6999770",
+      "sha1": "ecb0bfbf47d9c43f4ecd0492c534f3c729276a4d",
+      "format": "JSON"
+    },
+    {
       "name": "forbes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac5b2d504c9c2922a48ef151fef9667e8d473f74",
-      "mtime": "1666915231",
-      "size": "136488",
-      "md5": "36f9014b1c15cecd35abd15d7526c618",
-      "crc32": "c2b471eb",
-      "sha1": "4b4f7ee496708d1e94912afe10c7aff4963ade01",
+      "btih": "44ba6e4cf178ffb9b630a6ea4ab22bf88b1c6186",
+      "mtime": "1666957861",
+      "size": "137541",
+      "md5": "4d14a954528122414760fe7f94f8f9e3",
+      "crc32": "18d7c784",
+      "sha1": "332d0255a0aafdf4c9afd17cb8352f69cdfe03af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "forbes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c409f6fda6520da32cfda3aa18a7e953",
+      "md5": "082808052a8bd1e295f5eb1dfc79d6ff",
       "summation": "md5"
     },
     {
       "name": "forbes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666913944",
-      "size": "839680",
-      "md5": "6bc5ebb3197be25ce8836aba1e4e953e",
-      "crc32": "b85073d1",
-      "sha1": "9a463bb18c00addf429b7d55e4a64b6e6e6d09a6",
+      "mtime": "1666957810",
+      "size": "847872",
+      "md5": "00871ac76c33c922c1e893cf0ffc3f60",
+      "crc32": "e9605e0f",
+      "sha1": "475ef95a23cb63cd8f964b1f4adaaf30f0a986bc",
       "format": "Metadata"
     },
     {
@@ -6760,9 +6811,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 654,
-  "item_last_updated": 1666915231,
-  "item_size": 36785295,
+  "files_count": 659,
+  "item_last_updated": 1666957861,
+  "item_size": 37114795,
   "metadata": {
     "identifier": "forbes-2022",
     "collection": [
@@ -6779,10 +6830,21 @@
     "publicdate": "2022-09-04 11:54:20",
     "addeddate": "2022-09-04 11:54:20"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 1742799047,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455115511,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 258207762,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

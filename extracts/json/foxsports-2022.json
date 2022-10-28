@@ -1,5 +1,5 @@
 {
-  "created": 1666915391,
+  "created": 1666957878,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/foxsports-2022",
@@ -13360,31 +13360,82 @@
       "sha1": "ea44055adde6f82b22eab640eeb89ec403952f84"
     },
     {
+      "name": "foxsports-2022-10-28T07:49:37.626977-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957800",
+      "size": "31980",
+      "md5": "a99e1715e26ca1ccb35cfbfbb046ea02",
+      "crc32": "9e5ea65f",
+      "sha1": "c73be0a1649baad36970fadd46a3367a3e9833bc",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-10-28T07:49:37.626977-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957803",
+      "size": "74516",
+      "md5": "cf9e59c28540d04bdd82c68fa80ca5c5",
+      "crc32": "22153aee",
+      "sha1": "cdd1fcf65a484e644cdfe645faa64a4b5a8750d1",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-10-28T07:49:37.626977-04:00.jpg",
+      "source": "original",
+      "mtime": "1666957798",
+      "size": "282056",
+      "md5": "a0b54064a075e3be4eee75df3bea7d7d",
+      "crc32": "0a40e40e",
+      "sha1": "6ad978fa93defd00e4e99b746dc2c4fa420dd228",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxsports-2022-10-28T07:49:37.626977-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957805",
+      "size": "1486",
+      "md5": "4a431c754db89962aff0c0e3ffca41ec",
+      "crc32": "76120f4b",
+      "sha1": "c732911f8a52198ec1059d413e55baba544c6f41",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-10-28T07:49:37.626977-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957807",
+      "size": "55966",
+      "md5": "107ca3611087aa391656df361443fa68",
+      "crc32": "efadc2d1",
+      "sha1": "a92129be646f985d1e2b5ff23dc7874131b75f1d",
+      "format": "JSON"
+    },
+    {
       "name": "foxsports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3886d6cde7679e87ffdaa26b3646913b7d80231f",
-      "mtime": "1666915354",
-      "size": "273970",
-      "md5": "d9ec0287c02721d6da47dbe10f59b3f1",
-      "crc32": "8aeeaf64",
-      "sha1": "ccfe18e5f51e3ebeb1b2ffad3f9aae9b12a71e43",
+      "btih": "95e850fd56c6d4de9ce4412a174db90479d49f25",
+      "mtime": "1666957867",
+      "size": "275038",
+      "md5": "3125a2d5e5617a1b8872a4f0acbbf3ed",
+      "crc32": "f44daa2c",
+      "sha1": "705742778813ec817a4baaf787138d8436dff7e8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxsports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "10eaa6156aa2b1ab65be9a694c9e0e06",
+      "md5": "bd99e9bc46a3a212bf82b817b2c27994",
       "summation": "md5"
     },
     {
       "name": "foxsports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666914042",
-      "size": "1626112",
-      "md5": "727f48d6e04c8341fe57b8fce1a3a7ee",
-      "crc32": "2307dfb8",
-      "sha1": "a972f1af1e32e3a701d3e40c78442f97457e9364",
+      "mtime": "1666957813",
+      "size": "1634304",
+      "md5": "af10cffbed1a3da40ea8b5da60e1ea16",
+      "crc32": "6629fd43",
+      "sha1": "d88da41f95a6ab874f7f42532e6409626fc91c98",
       "format": "Metadata"
     },
     {
@@ -13398,9 +13449,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1293,
-  "item_last_updated": 1666915354,
-  "item_size": 89655830,
+  "files_count": 1298,
+  "item_last_updated": 1666957867,
+  "item_size": 90111094,
   "metadata": {
     "identifier": "foxsports-2022",
     "collection": [
@@ -13417,10 +13468,21 @@
     "publicdate": "2022-07-04 21:53:09",
     "addeddate": "2022-07-04 21:53:09"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 541982774,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455115466,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 429779248,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }
