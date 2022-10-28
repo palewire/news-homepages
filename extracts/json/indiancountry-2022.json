@@ -1,5 +1,5 @@
 {
-  "created": 1666920056,
+  "created": 1666962081,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/indiancountry-2022",
@@ -13043,31 +13043,93 @@
       "format": "JSON"
     },
     {
+      "name": "indiancountry-2022-10-27T18:19:35.216105-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indiancountry-2022-10-27T18:19:35.216105-07:00.jpg",
+      "mtime": "1666921653",
+      "size": "9432",
+      "md5": "e55ff451cca2310f9aa4521cdec8793b",
+      "crc32": "f5514173",
+      "sha1": "65c8c1fe0d2a40548f7811f92c70895e31a1dc04"
+    },
+    {
+      "name": "indiancountry-2022-10-28T06:00:06.274550-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666962010",
+      "size": "22370",
+      "md5": "6abb663c9c26129e0fee4969684f7e28",
+      "crc32": "3873b139",
+      "sha1": "4945228100b09d7695e26aabaacc42763131de57",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-28T06:00:06.274550-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666962012",
+      "size": "16957",
+      "md5": "7397f97aa3dd4efcf92542d7598f65bf",
+      "crc32": "35e6909d",
+      "sha1": "2d028e0d58a8f077311f4e702da6558049405e1a",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-28T06:00:06.274550-07:00.jpg",
+      "source": "original",
+      "mtime": "1666962008",
+      "size": "293641",
+      "md5": "02682a0ae8fb865d9108aa69e92b31fc",
+      "crc32": "908fbbc3",
+      "sha1": "2ace5afb08be33c4b0f3a76339d31ba995122edd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indiancountry-2022-10-28T06:00:06.274550-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962014",
+      "size": "1524",
+      "md5": "7717667fb329cb78c88f382d0d02769a",
+      "crc32": "16abe8f0",
+      "sha1": "0a90af1c64ce61f8f163c2d93fa754b14f0e4620",
+      "format": "JSON"
+    },
+    {
+      "name": "indiancountry-2022-10-28T06:00:06.274550-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962016",
+      "size": "16223",
+      "md5": "67a7993980a1b87f44648967405815eb",
+      "crc32": "43f0193c",
+      "sha1": "728225515c818e7c3a1fa530e15fb18551ec20a8",
+      "format": "JSON"
+    },
+    {
       "name": "indiancountry-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6422ec646cf0e8ad6bb44b3f59c305191b3150d",
-      "mtime": "1666920041",
-      "size": "272210",
-      "md5": "2df01fb659a29789c5bf0f0b1176dbe5",
-      "crc32": "62a75c83",
-      "sha1": "c7981316a4ec0132909e70c4e696570d2e2ed365",
+      "btih": "a5572ff77f7b27b500334c878e4a6c0fc21bbd7d",
+      "mtime": "1666962074",
+      "size": "273487",
+      "md5": "7cf4f8a6318e04ca6b1a71e0f7b6894f",
+      "crc32": "49241e9c",
+      "sha1": "17849eb0549a7d9d31c2e614df0bb0757109aba7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiancountry-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0bb2798e5a4e9d2d059b691c45ab869",
+      "md5": "9135f635ad421b1a61c10964d1ee3bef",
       "summation": "md5"
     },
     {
       "name": "indiancountry-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666919990",
-      "size": "1601536",
-      "md5": "90fac3f657ed85f37b508f4a68492197",
-      "crc32": "a3324d26",
-      "sha1": "796d5a01045fed501c25df567b8df1184551785f",
+      "mtime": "1666962025",
+      "size": "1613824",
+      "md5": "5f078126028da6053a631efac61b3bed",
+      "crc32": "14968061",
+      "sha1": "045d6b53a6e87ccb9dc66bbe9541c77c77a2444b",
       "format": "Metadata"
     },
     {
@@ -13081,9 +13143,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1263,
-  "item_last_updated": 1666920041,
-  "item_size": 76828778,
+  "files_count": 1269,
+  "item_last_updated": 1666962074,
+  "item_size": 77202490,
   "metadata": {
     "identifier": "indiancountry-2022",
     "collection": [
@@ -13105,7 +13167,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454667602,
+      "task_id": 3455154923,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13113,7 +13175,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 688621075,
+  "uniq": 656656683,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

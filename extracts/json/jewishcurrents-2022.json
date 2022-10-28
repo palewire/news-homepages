@@ -1,5 +1,5 @@
 {
-  "created": 1666920086,
+  "created": 1666962069,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/jewishcurrents-2022",
@@ -13023,31 +13023,93 @@
       "format": "JSON"
     },
     {
+      "name": "jewishcurrents-2022-10-27T21:20:09.535873-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-27T21:20:09.535873-04:00.jpg",
+      "mtime": "1666921739",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666961997",
+      "size": "14139",
+      "md5": "528e7f7e2598439313dd8ddd9c0ee75b",
+      "crc32": "3ed1870a",
+      "sha1": "695f2014e8e5a4ca96cf9b7e2fc017b9dc81a71d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666961999",
+      "size": "31877",
+      "md5": "20f23b39b4e3ef1a0389d9eb1573c2e6",
+      "crc32": "857fce54",
+      "sha1": "42a1fff2c4d58897d213ffb6619de66e9025de91",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.jpg",
+      "source": "original",
+      "mtime": "1666961996",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962000",
+      "size": "1495",
+      "md5": "91b90da93b7968c0745d03de050b64d7",
+      "crc32": "96b37fa4",
+      "sha1": "9b7b97e298b1a430650d2dee86d99294e50fbdec",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962004",
+      "size": "7886",
+      "md5": "0a1fc21790f7b9d5d0c80f73160aadaa",
+      "crc32": "786f4fcd",
+      "sha1": "8b2cb1a1331c77501098e4d9d849a03ce7e0d07d",
+      "format": "JSON"
+    },
+    {
       "name": "jewishcurrents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e193e29c4681159061b81a6c08d4dad09515682",
-      "mtime": "1666920079",
-      "size": "272475",
-      "md5": "84d19c7573d6ceab21179aecf5ead7e6",
-      "crc32": "a218e701",
-      "sha1": "71481d42811d18ce902c01c1d0d5e615637bc213",
+      "btih": "1780414d944dd7d7cbd63ab7d3bec46721d2bbce",
+      "mtime": "1666962063",
+      "size": "273777",
+      "md5": "ff9bc05b3549b2c08f7b84b3d4be1282",
+      "crc32": "24aad288",
+      "sha1": "c0daa7725778cb03a9f13211e27c5ed09ed23db6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jewishcurrents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3bb7e671c77d6cd610111171aad6ff3",
+      "md5": "7f7054f0965969ade36c96b5dcc2bb77",
       "summation": "md5"
     },
     {
       "name": "jewishcurrents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666920027",
-      "size": "1605632",
-      "md5": "3fd4037aef5f1f72537669ebfe59d8a1",
-      "crc32": "e20dcb95",
-      "sha1": "8954f201a9fccc07e6f93f4ad5e493249185917d",
+      "mtime": "1666962012",
+      "size": "1609728",
+      "md5": "030835f718d8a871320b04bc897e0760",
+      "crc32": "46aaaf83",
+      "sha1": "1a3ad576fefaf212705cac3ec39148b3ad6648a8",
       "format": "Metadata"
     },
     {
@@ -13061,9 +13123,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1261,
-  "item_last_updated": 1666920079,
-  "item_size": 66226689,
+  "files_count": 1267,
+  "item_last_updated": 1666962063,
+  "item_size": 66517575,
   "metadata": {
     "identifier": "jewishcurrents-2022",
     "collection": [
@@ -13085,7 +13147,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454667930,
+      "task_id": 3455154680,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13093,7 +13155,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1802202837,
+  "uniq": 1745280193,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666920095,
+  "created": 1666962079,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/joplinglobe-2022",
@@ -12349,31 +12349,83 @@
       "format": "JSON"
     },
     {
+      "name": "joplinglobe-2022-10-27T20:19:49.402097-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "joplinglobe-2022-10-27T20:19:49.402097-05:00.jpg",
+      "mtime": "1666923741",
+      "size": "8976",
+      "md5": "379a0350c5976674fa3a50f6c0d26bee",
+      "crc32": "4c71533c",
+      "sha1": "8c699bd317c542436d11c8973512816890644b4d"
+    },
+    {
+      "name": "joplinglobe-2022-10-28T08:00:05.136462-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666962015",
+      "size": "63530",
+      "md5": "0399d8144ced6aa8ba8ea06097e24a9d",
+      "crc32": "a52f46bc",
+      "sha1": "74582921ce03c114a7dac5f7f6fa4689c3896cd4",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-10-28T08:00:05.136462-05:00.jpg",
+      "source": "original",
+      "mtime": "1666962013",
+      "size": "312809",
+      "md5": "66ff5c7b281c12c90254db304439e48e",
+      "crc32": "97250c8c",
+      "sha1": "c7058a607dc24d6fd48de569b0f4bb278b43a0ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "joplinglobe-2022-10-28T08:00:05.136462-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962018",
+      "size": "1501",
+      "md5": "0df05bcdda273df049427238dbc66ebc",
+      "crc32": "74e198a6",
+      "sha1": "6c1a37e301386359e0a319ad7849166733e8c099",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-10-28T08:00:05.136462-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962019",
+      "size": "79163",
+      "md5": "ea1d4a97e012eb54e8d6a3007f871f38",
+      "crc32": "1a752397",
+      "sha1": "3ef5af96600cbb7828df8daf22e1e3b36fff88fb",
+      "format": "JSON"
+    },
+    {
       "name": "joplinglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f66149c05a52ac2ba1a4ee8cf120895dfa33bda",
-      "mtime": "1666920087",
-      "size": "255752",
-      "md5": "36db86ab4666bf29663f95af9b37478a",
-      "crc32": "296e1cf1",
-      "sha1": "b6403edc7d438e4767e86b02ddd392c8556dfe6a",
+      "btih": "1cfcdcf6068da20ad0e6fb945a2181e725cd7dbd",
+      "mtime": "1666962074",
+      "size": "256823",
+      "md5": "83c2c945d3b9b05541fc184f77bbdda0",
+      "crc32": "ae6f4dbf",
+      "sha1": "63f2ba0eb356b6a608b2b8b66b81998d89dd7e12",
       "format": "Archive BitTorrent"
     },
     {
       "name": "joplinglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c5e115e79caa3ddfeadd3c41b84378d",
+      "md5": "63bf7957b0060803a87b71595d79ad13",
       "summation": "md5"
     },
     {
       "name": "joplinglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666920019",
-      "size": "1486848",
-      "md5": "ad82db20570f2162c0f1058e2d117856",
-      "crc32": "cf2bf613",
-      "sha1": "4d569c913664359cf0c7be1a198e4b16d91ae46b",
+      "mtime": "1666962025",
+      "size": "1490944",
+      "md5": "acb5a873640d6ec2dee8a27b61af46c2",
+      "crc32": "dcae2e3d",
+      "sha1": "a5ba3b8c349d676fb3e12c762ddd554346508cc0",
       "format": "Metadata"
     },
     {
@@ -12387,9 +12439,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1193,
-  "item_last_updated": 1666920087,
-  "item_size": 110320763,
+  "files_count": 1198,
+  "item_last_updated": 1666962074,
+  "item_size": 110791909,
   "metadata": {
     "identifier": "joplinglobe-2022",
     "collection": [
@@ -12411,7 +12463,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454668047,
+      "task_id": 3455154874,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12419,7 +12471,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2123037192,
+  "uniq": 157456955,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

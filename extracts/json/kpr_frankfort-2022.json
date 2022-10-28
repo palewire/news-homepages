@@ -1,5 +1,5 @@
 {
-  "created": 1666920223,
+  "created": 1666962208,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/kpr_frankfort-2022",
@@ -10973,31 +10973,82 @@
       "format": "JSON"
     },
     {
+      "name": "kpr_frankfort-2022-10-27T21:22:24.779754-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpr_frankfort-2022-10-27T21:22:24.779754-04:00.jpg",
+      "mtime": "1666921908",
+      "size": "10590",
+      "md5": "76b62cb0c9e625126ee311ee089367af",
+      "crc32": "600d006b",
+      "sha1": "43727cbcae3848ca98adefce0e2a58f9a04f9bef"
+    },
+    {
+      "name": "kpr_frankfort-2022-10-28T09:01:38.438972-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666962109",
+      "size": "12315",
+      "md5": "4df5ed4d56a4e6033de1c88a23ae5bdd",
+      "crc32": "8e0e81ff",
+      "sha1": "ea2dece67d64b107c5a945b67753edddb07c5aea",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-10-28T09:01:38.438972-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666962111",
+      "size": "20947",
+      "md5": "a484a3811a7efe5bc89e02e5777a0489",
+      "crc32": "f243b9e4",
+      "sha1": "62e8527d6f807ba27ff1f9f829db32f3d180d457",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-10-28T09:01:38.438972-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962115",
+      "size": "1405",
+      "md5": "477f955ab686d0f5c72dd0e61aaa4864",
+      "crc32": "d56fb852",
+      "sha1": "014872a423c627d29a64b0b7d56d7526358bc643",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-10-28T09:01:38.438972-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962118",
+      "size": "21935",
+      "md5": "5d9f1224127a2a76e3380ee6138262ca",
+      "crc32": "7634ca79",
+      "sha1": "aec0653e69d1461ba3702070564269f871ea2ef5",
+      "format": "JSON"
+    },
+    {
       "name": "kpr_frankfort-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3510a19f269a89d563f121a2e29ab895e44724d2",
-      "mtime": "1666920213",
-      "size": "229962",
-      "md5": "5466e8215034cc3f72ff7247437ce238",
-      "crc32": "289665cb",
-      "sha1": "1d180ad80cbe43b9b4485af6eda4d95c14d7e73d",
+      "btih": "4b1a25aad9b4f7cbb3d0bfff5725022788e196b0",
+      "mtime": "1666962192",
+      "size": "231035",
+      "md5": "6d5ce6f69196e76d8eeb80710d50f727",
+      "crc32": "c6b9289e",
+      "sha1": "86962c29fabe334f2a62dabca37381365f7d63be",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpr_frankfort-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "708c44f1a6e4d3e051b4c03f819c266e",
+      "md5": "5fa7d2731d48d8179acf5c6c649e40b3",
       "summation": "md5"
     },
     {
       "name": "kpr_frankfort-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666920163",
-      "size": "1368064",
-      "md5": "3e24bb48c5f8c8cefdafbb8dcddf25b7",
-      "crc32": "13aa9588",
-      "sha1": "924d84fdfb7feb93230f4c0e1a4c43c4b74a7391",
+      "mtime": "1666962137",
+      "size": "1380352",
+      "md5": "dd36dd692ba411840045783ec1325e77",
+      "crc32": "c1a121b6",
+      "sha1": "3556a3a9545636f36b2e7f8ea9f5fac6665742ff",
       "format": "Metadata"
     },
     {
@@ -11011,9 +11062,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1065,
-  "item_last_updated": 1666920213,
-  "item_size": 69611474,
+  "files_count": 1070,
+  "item_last_updated": 1666962192,
+  "item_size": 69692027,
   "metadata": {
     "identifier": "kpr_frankfort-2022",
     "collection": [
@@ -11035,7 +11086,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454669434,
+      "task_id": 3455157657,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11043,7 +11094,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 624198145,
+  "uniq": 585706121,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]
