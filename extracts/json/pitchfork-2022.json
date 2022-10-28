@@ -1,5 +1,5 @@
 {
-  "created": 1666907444,
+  "created": 1666946924,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/33/items/pitchfork-2022",
@@ -20844,31 +20844,82 @@
       "sha1": "9bb40d91a6d0f893cf67a0cd5b40efed28e19959"
     },
     {
+      "name": "pitchfork-2022-10-28T03:47:08.454944-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946844",
+      "size": "25133",
+      "md5": "cc09da310b15f79ce5cb270773a2c1ea",
+      "crc32": "029b2c25",
+      "sha1": "0430be0bada7751fac04e7f1159c126d8ce566bd",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-10-28T03:47:08.454944-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946846",
+      "size": "14395",
+      "md5": "c242a4bcd360b62b9e15aef84c624c19",
+      "crc32": "22758841",
+      "sha1": "fbde5d4e19e5ebcd1bf052e16812bda6ee91e89f",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-10-28T03:47:08.454944-05:00.jpg",
+      "source": "original",
+      "mtime": "1666946837",
+      "size": "215535",
+      "md5": "b2941e01578be464926c557b7ed95e90",
+      "crc32": "3505d610",
+      "sha1": "d546c525c0d92e5aca4eabda2bc96e3b2cccb9aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pitchfork-2022-10-28T03:47:08.454944-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946847",
+      "size": "1450",
+      "md5": "3d791c2a507f3f7758680193de901713",
+      "crc32": "2b63b866",
+      "sha1": "6199dbdac1c25d597104a21a08a82d188145ee8c",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-10-28T03:47:08.454944-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946849",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "pitchfork-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1c7a0738c1bcdaf38e4f4273b550b1c851503917",
-      "mtime": "1666907384",
-      "size": "425263",
-      "md5": "edd692688acf0e46ce5ead21a7351e1e",
-      "crc32": "3d086ee9",
-      "sha1": "f33a602d5d739f9e09b3cc6541d76bb12e01c5fc",
+      "btih": "36c00775cdaa87df30d1b61b6216ffe84b96841a",
+      "mtime": "1666946919",
+      "size": "426309",
+      "md5": "45192158905c15d55e9e3220be314ee5",
+      "crc32": "55c64d65",
+      "sha1": "c2126faf94b06c643ba25d75ece57a038696c101",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pitchfork-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77e7ff2950fd113b8377a79352fb42cb",
+      "md5": "da30008a9174f6fee210d332751103f3",
       "summation": "md5"
     },
     {
       "name": "pitchfork-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666899432",
-      "size": "2510848",
-      "md5": "d84e7992a3ac1dcbc6114c84e910da51",
-      "crc32": "c1104635",
-      "sha1": "0d90495483341c5cdcafe31e1739f68c9e344ef4",
+      "mtime": "1666946854",
+      "size": "2519040",
+      "md5": "a8e7d0087b6a0b7f673144cb76902c26",
+      "crc32": "0fe3f8dc",
+      "sha1": "04700ae6350669436d2b0373b9f52ee772c914e5",
       "format": "Metadata"
     },
     {
@@ -20882,9 +20933,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2013,
-  "item_last_updated": 1666907384,
-  "item_size": 123190528,
+  "files_count": 2018,
+  "item_last_updated": 1666946919,
+  "item_size": 123456481,
   "metadata": {
     "identifier": "pitchfork-2022",
     "collection": [
@@ -20901,10 +20952,21 @@
     "publicdate": "2022-06-24 22:59:44",
     "addeddate": "2022-06-24 22:59:44"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1113278356,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454973819,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1397672753,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

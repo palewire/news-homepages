@@ -1,5 +1,5 @@
 {
-  "created": 1666911275,
+  "created": 1666947093,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/16/items/segodnya_online-2022",
@@ -12194,31 +12194,82 @@
       "sha1": "617fb0f1845d3c29c415696c802aef4bef5037ff"
     },
     {
+      "name": "segodnya_online-2022-10-28T11:50:08.105320+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666947017",
+      "size": "113612",
+      "md5": "29fc5008818dd9e39fb4e0681438e19b",
+      "crc32": "b413a2bd",
+      "sha1": "66acbd81142fc2dea8c23d901fb51fdc2dc90057",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-10-28T11:50:08.105320+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666947018",
+      "size": "63184",
+      "md5": "c5d5f9f3d18d465748a23a3c88035bc3",
+      "crc32": "1b0933d7",
+      "sha1": "d79893fb467ff1771f7252ab32a6beb8d432ea4d",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-10-28T11:50:08.105320+03:00.jpg",
+      "source": "original",
+      "mtime": "1666947015",
+      "size": "335446",
+      "md5": "01d5c395304a0c140322fce93029c7da",
+      "crc32": "f0e4ac13",
+      "sha1": "1e94354f41fb8fcbb0e8d3a997e9eb88cddaaae2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "segodnya_online-2022-10-28T11:50:08.105320+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666947020",
+      "size": "1594",
+      "md5": "dc9158c738ec037ef0c1e37fd2783f8a",
+      "crc32": "0085cdf6",
+      "sha1": "31c6032a326408e045ed52fc3dafb2f005553c61",
+      "format": "JSON"
+    },
+    {
+      "name": "segodnya_online-2022-10-28T11:50:08.105320+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666947022",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "segodnya_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1bb44f98591d280224feae2cc6305ca0a66e4069",
-      "mtime": "1666906782",
-      "size": "258721",
-      "md5": "0bdc220fb89bb9d3fff6f87bbc212074",
-      "crc32": "eccd4d4d",
-      "sha1": "b07ba43477e4d446c1dd75cdbbcb08c4b45c7a9c",
+      "btih": "b5091b154327d61cf5e13b917e13aedf49f71d58",
+      "mtime": "1666947089",
+      "size": "259818",
+      "md5": "dfdb2a445eea265cd96326244b20cdb3",
+      "crc32": "f27e9b96",
+      "sha1": "5ddc4261630c7acc3a3f35ac68e45a6c2feb751d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "segodnya_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4aa3ab8b99d61a5d17d609b2cc7fbb8",
+      "md5": "7525a3da2586eb451054d7abf4b5e9a8",
       "summation": "md5"
     },
     {
       "name": "segodnya_online-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666898926",
-      "size": "1507328",
-      "md5": "40036624a70151a4b53b9633e944a175",
-      "crc32": "1c23e3e4",
-      "sha1": "a498af851aae625dc7045eab4ad89b198c5edd48",
+      "mtime": "1666947037",
+      "size": "1511424",
+      "md5": "810f2b1ffca4ec10f9d4bfc4705bbf88",
+      "crc32": "d1987bb4",
+      "sha1": "9be2a54b8595959d1a91194a46ef232a9f4f92f2",
       "format": "Metadata"
     },
     {
@@ -12232,9 +12283,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1181,
-  "item_last_updated": 1666906782,
-  "item_size": 110530193,
+  "files_count": 1186,
+  "item_last_updated": 1666947089,
+  "item_size": 111049424,
   "metadata": {
     "identifier": "segodnya_online-2022",
     "collection": [
@@ -12251,10 +12302,21 @@
     "publicdate": "2022-03-23 17:49:36",
     "addeddate": "2022-03-23 17:49:36"
   },
+  "pending_tasks": true,
   "server": "ia902509.us.archive.org",
-  "uniq": 456239222,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454975774,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 331191234,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia902509.us.archive.org"
   ]
 }

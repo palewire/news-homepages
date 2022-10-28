@@ -1,5 +1,5 @@
 {
-  "created": 1666918716,
+  "created": 1666946937,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/27/items/reckonnews-2022",
@@ -5648,31 +5648,82 @@
       "sha1": "d4efb3dfd8d8a34dc43735e273cfe9bed3789d9c"
     },
     {
+      "name": "reckonnews-2022-10-28T03:47:07.198751-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946831",
+      "size": "17105",
+      "md5": "f7ff76ac9dd1738e2ea21a7dba18434d",
+      "crc32": "09d35a6b",
+      "sha1": "72d4fa1546d14402d8f8b2fd5848d89918531ab6",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-28T03:47:07.198751-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946832",
+      "size": "9801",
+      "md5": "f4f37a04935a32918ec6390b289afd75",
+      "crc32": "e9c36460",
+      "sha1": "8073874a0df5fa6cca5d856adf9acfa1fb6f6270",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-28T03:47:07.198751-05:00.jpg",
+      "source": "original",
+      "mtime": "1666946830",
+      "size": "218103",
+      "md5": "85e69f785483747775899f9a4fd1aab9",
+      "crc32": "4e69df30",
+      "sha1": "22ce0d2c9f3c0c4ad03ac6f56142b47574271439",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reckonnews-2022-10-28T03:47:07.198751-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946834",
+      "size": "1468",
+      "md5": "808cdf0508a68e963383be31c158bcea",
+      "crc32": "b78569af",
+      "sha1": "c8b14cf4130cd11994169cc6fa06773560950409",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-28T03:47:07.198751-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946836",
+      "size": "9155",
+      "md5": "376af5b12e222041807ff4adc4d0ae41",
+      "crc32": "fd226e9b",
+      "sha1": "472ac217b7c7c998ef2e5bd3ea01bafa2accbe67",
+      "format": "JSON"
+    },
+    {
       "name": "reckonnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d48aac48b8cd416b4092d945bfc4aa0c097e892e",
-      "mtime": "1666906711",
-      "size": "116833",
-      "md5": "e13141a16a0a65664f7b85f4fa16f040",
-      "crc32": "5113255d",
-      "sha1": "4354a315685a33a01ba57b0b9d48f341055851a3",
+      "btih": "eb8f8a288d753583503c9987a081ea8f15fb8f15",
+      "mtime": "1666946925",
+      "size": "117884",
+      "md5": "f6500c5a7935e286e5eebf5c7ad446a5",
+      "crc32": "800624f5",
+      "sha1": "7eff80a16dc4395c3dea1b704e6942cd848bb3ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reckonnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b563c1e9cfc8480d8ad24b671f6ae4b",
+      "md5": "24e8541193851de66b3b4326c2cde8ee",
       "summation": "md5"
     },
     {
       "name": "reckonnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666898736",
-      "size": "712704",
-      "md5": "d5563df029b6ddf90a3f30858c55f52f",
-      "crc32": "17efdd7d",
-      "sha1": "11c59aa9c3701992a8b2685b8e208b97ca0e9fd4",
+      "mtime": "1666946880",
+      "size": "716800",
+      "md5": "e758047ec7b4068439c03a92b91f2d08",
+      "crc32": "70722c35",
+      "sha1": "249def30a715f8e6cbf0129dbc647430117f0dbb",
       "format": "Metadata"
     },
     {
@@ -5686,9 +5737,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1666906711,
-  "item_size": 25945995,
+  "files_count": 555,
+  "item_last_updated": 1666946925,
+  "item_size": 26206774,
   "metadata": {
     "identifier": "reckonnews-2022",
     "collection": [
@@ -5705,15 +5756,21 @@
     "publicdate": "2022-09-12 05:05:56",
     "addeddate": "2022-09-12 05:05:56"
   },
-  "reckonnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 1600912873,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454973929,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 960317993,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }

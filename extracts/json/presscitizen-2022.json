@@ -1,5 +1,5 @@
 {
-  "created": 1666918523,
+  "created": 1666946896,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/presscitizen-2022",
@@ -21522,31 +21522,72 @@
       "sha1": "7d36953b9dbf4b156feb429eb736c236730d254e"
     },
     {
+      "name": "presscitizen-2022-10-28T03:46:40.156059-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946810",
+      "size": "17876",
+      "md5": "8dcfe47992a66f1e630cf3b82573aaf7",
+      "crc32": "5ffe1296",
+      "sha1": "788a44faa272c3465b30430f5db3b32fea2c69b1",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-10-28T03:46:40.156059-05:00.jpg",
+      "source": "original",
+      "mtime": "1666946808",
+      "size": "259478",
+      "md5": "07add049beee2ecc05c0e8f3aef9b6a3",
+      "crc32": "34ce24f5",
+      "sha1": "bb29d2606a529dc1f1533b4f43e58840efd3275b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "presscitizen-2022-10-28T03:46:40.156059-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946813",
+      "size": "1522",
+      "md5": "83cb116e55e275178b26da650020f562",
+      "crc32": "041c5ea7",
+      "sha1": "627417ef1d0233e0ddadfa91a3c6c00dda3b7bb2",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-10-28T03:46:40.156059-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946814",
+      "size": "116558",
+      "md5": "5a75eee721d57891bedf043b646b24c0",
+      "crc32": "9adf1e56",
+      "sha1": "87c85a241aed54c95115c113003869cdbcf40382",
+      "format": "JSON"
+    },
+    {
       "name": "presscitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c75d3e1d9d76c912a3b5fcc74b49365f9c57378",
-      "mtime": "1666907061",
-      "size": "444978",
-      "md5": "bdfeda577ab62493c75266893585ce34",
-      "crc32": "402d56b5",
-      "sha1": "54796b86caedd6d505bc0c027d7a1f0bb6c94cff",
+      "btih": "8ee1b50b2a406803822e66af67a141b5740a45a3",
+      "mtime": "1666946890",
+      "size": "445847",
+      "md5": "d25daa0b6056b0ce98a1433f4967ef6a",
+      "crc32": "4e209b5c",
+      "sha1": "e07a0963fcdfb365998b8704ebade8831f98672b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "presscitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd9e6a2a6146f41f66dea9745d7a9b99",
+      "md5": "c27d02e312cb866dc56a0cbb0fe803fd",
       "summation": "md5"
     },
     {
       "name": "presscitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666898601",
-      "size": "2551808",
-      "md5": "89486feb656d04e131ab04e181a08868",
-      "crc32": "e50e973c",
-      "sha1": "2e81e16a73460cfd5374eec54d027839318ca64f",
+      "mtime": "1666946821",
+      "size": "2560000",
+      "md5": "c4dd39f1505fe4e11776fd3304838d36",
+      "crc32": "3a9ce296",
+      "sha1": "dab421896f0058f9f67dc2c92f49550929ebfe7c",
       "format": "Metadata"
     },
     {
@@ -21560,9 +21601,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2073,
-  "item_last_updated": 1666907061,
-  "item_size": 151892515,
+  "files_count": 2077,
+  "item_last_updated": 1666946890,
+  "item_size": 152297010,
   "metadata": {
     "identifier": "presscitizen-2022",
     "collection": [
@@ -21579,15 +21620,21 @@
     "publicdate": "2022-03-25 03:35:38",
     "addeddate": "2022-03-25 03:35:38"
   },
-  "presscitizen-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1223215863,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454973541,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1240551698,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

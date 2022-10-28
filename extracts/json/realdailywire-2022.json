@@ -1,5 +1,5 @@
 {
-  "created": 1666908518,
+  "created": 1666946902,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/realdailywire-2022",
@@ -24748,31 +24748,82 @@
       "sha1": "eedbb30139fc1d70c247adef47a3e1ad1e334445"
     },
     {
+      "name": "realdailywire-2022-10-28T04:46:30.231740-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946794",
+      "size": "17370",
+      "md5": "458e95baa1c24d5562d6791fabf6c80a",
+      "crc32": "5faad6ae",
+      "sha1": "9be15f3a053fbc7608951fe0454aea37eb088820",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-10-28T04:46:30.231740-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946796",
+      "size": "11391",
+      "md5": "b05b19dc2fe6af03f28e3797658a9a27",
+      "crc32": "bce40761",
+      "sha1": "a2b127b626d4e3f608f8454747338743a7b6ee2f",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-10-28T04:46:30.231740-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946792",
+      "size": "339141",
+      "md5": "3e0eb858e2b0e55f548cbd5715f6dd92",
+      "crc32": "c6c412f0",
+      "sha1": "1b8396f6590a0017bdc849ac31825f1a31921921",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realdailywire-2022-10-28T04:46:30.231740-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946798",
+      "size": "1486",
+      "md5": "e0e1b612d8713bcb66ab685d32dbd471",
+      "crc32": "fcfdd233",
+      "sha1": "461da839fe1ad205a151146cc4d9aa2d2bbb6650",
+      "format": "JSON"
+    },
+    {
+      "name": "realdailywire-2022-10-28T04:46:30.231740-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946799",
+      "size": "34667",
+      "md5": "87a0fb51a7857750ed8e88b92c51399a",
+      "crc32": "0bb40ba0",
+      "sha1": "b526120f5324ca48959a5f753998286726e23ba1",
+      "format": "JSON"
+    },
+    {
       "name": "realdailywire-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99eb8fa32bf696eb22bc3fe522669c13e7fc821b",
-      "mtime": "1666908458",
-      "size": "513183",
-      "md5": "472ffabfe301591981431518e640784c",
-      "crc32": "60cae0e1",
-      "sha1": "21b499e0a8e88fc46369a0b817bb72e6d436178b",
+      "btih": "7d2e04d0b47db9f34ddfd84766bf9b1596a99ce8",
+      "mtime": "1666946892",
+      "size": "514251",
+      "md5": "d4f777e32beb1145f9a99f0a4ef47aa7",
+      "crc32": "27d89cbd",
+      "sha1": "218d7d0cc00e85ae45c7c1148c38c5f37aa3ea1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realdailywire-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4bb967a9bc682091f78f298c528c1534",
+      "md5": "3615c2fb28d07c2889f542b3f48b45cb",
       "summation": "md5"
     },
     {
       "name": "realdailywire-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666901423",
-      "size": "2920448",
-      "md5": "dae3f1616104ba686b3d46474d110c22",
-      "crc32": "50eaf236",
-      "sha1": "54319639a45bb5397b86da8b57d899deafbb7261",
+      "mtime": "1666946806",
+      "size": "2928640",
+      "md5": "2b303f2af70233ca39113eb920dc08ab",
+      "crc32": "5e09d516",
+      "sha1": "c8996baf9399b9e37dcac06c6fcf6744616d3001",
       "format": "Metadata"
     },
     {
@@ -24786,9 +24837,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2382,
-  "item_last_updated": 1666908458,
-  "item_size": 160434205,
+  "files_count": 2387,
+  "item_last_updated": 1666946892,
+  "item_size": 160847520,
   "metadata": {
     "identifier": "realdailywire-2022",
     "collection": [
@@ -24805,10 +24856,21 @@
     "publicdate": "2022-03-25 18:45:55",
     "addeddate": "2022-03-25 18:45:55"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1145380490,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454973634,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 631714251,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666918272,
+  "created": 1666946748,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/observatorio-2022",
@@ -14938,31 +14938,82 @@
       "format": "JSON"
     },
     {
+      "name": "observatorio-2022-10-28T05:44:11.092989-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946676",
+      "size": "30939",
+      "md5": "786a3743dc7948523367f5b37fa5f006",
+      "crc32": "2c615e22",
+      "sha1": "3e83a864ca08e8b8fc64076d77ad166a24e62814",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-28T05:44:11.092989-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946679",
+      "size": "39592",
+      "md5": "ce3ac5560ff9566f7aea61f830473815",
+      "crc32": "05db3196",
+      "sha1": "13b5f4be3ff7b1bfce32b4279cd030db7cd17f91",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-28T05:44:11.092989-03:00.jpg",
+      "source": "original",
+      "mtime": "1666946675",
+      "size": "244933",
+      "md5": "51cebc1c49a964a8db276f5ef2581870",
+      "crc32": "4c12f60a",
+      "sha1": "4f715c735194801a5e49a7d6bea5f811f5b66668",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "observatorio-2022-10-28T05:44:11.092989-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946681",
+      "size": "1625",
+      "md5": "037450b3828c50ad1456ff85576a57be",
+      "crc32": "9186ee37",
+      "sha1": "727a8b739868017b0814b59cfd831d0dbccee4e6",
+      "format": "JSON"
+    },
+    {
+      "name": "observatorio-2022-10-28T05:44:11.092989-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946682",
+      "size": "13879",
+      "md5": "0c05397a3f9dad5f1791b261667c37d0",
+      "crc32": "311913d0",
+      "sha1": "f9253bd1f2d4113aa028290b67366764a5be37c5",
+      "format": "JSON"
+    },
+    {
       "name": "observatorio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9ca9004b9920a8b919cefe2973f53eb206c638eb",
-      "mtime": "1666898624",
-      "size": "310607",
-      "md5": "db129799f7d90e296510f435e073d2a1",
-      "crc32": "d29616ec",
-      "sha1": "4297c155fc0b675828897ca0727ccd00ec4d6225",
+      "btih": "4d5b722275ecdceb2cf4b0f499b70ad251c85eca",
+      "mtime": "1666946744",
+      "size": "311670",
+      "md5": "6230729e5bd9b1e82dc43d4303251978",
+      "crc32": "655f36ef",
+      "sha1": "ce43f5f6bf0464d55edd43cafecaa8a0bae6d672",
       "format": "Archive BitTorrent"
     },
     {
       "name": "observatorio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e7c23defde5b59cf306e8eef5334a5a9",
+      "md5": "f3592396ae4ec0a01adbdd0d13f9a66d",
       "summation": "md5"
     },
     {
       "name": "observatorio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666898567",
-      "size": "1855488",
-      "md5": "d224daa765ef27f8f00ef1f80e0a24ca",
-      "crc32": "29ab4a67",
-      "sha1": "44ac62d72b4b45803afd47769d6014dea5884849",
+      "mtime": "1666946689",
+      "size": "1863680",
+      "md5": "493ab34ff8c7b00eb4a3f3d7c9e30371",
+      "crc32": "d2c98e30",
+      "sha1": "cb9fb4a495580da29e48ab4430a8d619b0b365eb",
       "format": "Metadata"
     },
     {
@@ -14976,9 +15027,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1449,
-  "item_last_updated": 1666898624,
-  "item_size": 83845919,
+  "files_count": 1454,
+  "item_last_updated": 1666946744,
+  "item_size": 84186142,
   "metadata": {
     "identifier": "observatorio-2022",
     "collection": [
@@ -14995,18 +15046,21 @@
     "publicdate": "2022-08-04 04:55:35",
     "addeddate": "2022-08-04 04:55:35"
   },
-  "observatorio-2022": {
-    "url": "https://www.observatoriodaimprensa.com.br/",
-    "job_id": "spn2-51f5e65ad2d1444693cc615f55119d8cb1b63d52",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 1069027355,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454971718,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1225610347,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }

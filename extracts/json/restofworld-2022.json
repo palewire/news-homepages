@@ -1,5 +1,5 @@
 {
-  "created": 1666906893,
+  "created": 1666947090,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/17/items/restofworld-2022",
@@ -11380,31 +11380,82 @@
       "sha1": "d0940d0d19ccc046e07a219432d92be6e90739f1"
     },
     {
+      "name": "restofworld-2022-10-28T04:49:54.500405-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666947011",
+      "size": "36107",
+      "md5": "f0aba7f43df199f6360fc6147abdfc44",
+      "crc32": "86b7ea0a",
+      "sha1": "8a107b3c50f1e8752cb7f47e4be872b419771856",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-10-28T04:49:54.500405-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666947012",
+      "size": "32621",
+      "md5": "8a11168338cbfb040d17c10ae9b7c477",
+      "crc32": "6e5c4069",
+      "sha1": "d3fa43616171f9a14d96cd437ccecf0089eff81d",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-10-28T04:49:54.500405-04:00.jpg",
+      "source": "original",
+      "mtime": "1666947008",
+      "size": "362339",
+      "md5": "94d7fca3806ac906874430dd653ac5f1",
+      "crc32": "7d53e937",
+      "sha1": "2ea38e59c8c77e6061a224093ef5e1f8e8a1f957",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "restofworld-2022-10-28T04:49:54.500405-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666947014",
+      "size": "1459",
+      "md5": "a23348cd11421a966f768dca46fdec6e",
+      "crc32": "a06649de",
+      "sha1": "bbad8c722178334c481ee32cc8ea5f3e9e78226e",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-10-28T04:49:54.500405-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666947016",
+      "size": "12966",
+      "md5": "7601922c4d054356a720e07f5b24cf51",
+      "crc32": "44d52ce5",
+      "sha1": "48920362d6b0e5d175f70daac4aeca25a93eebb4",
+      "format": "JSON"
+    },
+    {
       "name": "restofworld-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e18a2a3cc37db7a3138adf8cf09db095c388f756",
-      "mtime": "1666906820",
-      "size": "236381",
-      "md5": "75ca7ce7f54c038c15e67bc1a672b13d",
-      "crc32": "95503a8b",
-      "sha1": "99785388a626147b23a7a5342609d62a7af2c407",
+      "btih": "f6ed12ce3bf3a69760af035eb3e6afcaf768de1c",
+      "mtime": "1666947081",
+      "size": "237459",
+      "md5": "a6adb2af94963495229bb632dc446a85",
+      "crc32": "432edabf",
+      "sha1": "d5539f604788da0a526dcacb2f96c2b78715877f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "restofworld-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a88695b6263d5d4fbd8b71f648464a8f",
+      "md5": "203b7dd0280fe298bcad3dab49c3ca7a",
       "summation": "md5"
     },
     {
       "name": "restofworld-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666898842",
-      "size": "1413120",
-      "md5": "1102789ce2cffa44d86e54e9349b43da",
-      "crc32": "d6f065a7",
-      "sha1": "4e600009a2967271d7af728d16ea6c6f261df3f7",
+      "mtime": "1666947027",
+      "size": "1421312",
+      "md5": "9dd2560a86ac5f1e79cb602ff77c1a93",
+      "crc32": "16ded5f3",
+      "sha1": "f5c80187c48c61843293562dc49a2ca2ae531e99",
       "format": "Metadata"
     },
     {
@@ -11418,9 +11469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1104,
-  "item_last_updated": 1666906820,
-  "item_size": 78580198,
+  "files_count": 1109,
+  "item_last_updated": 1666947081,
+  "item_size": 79034960,
   "metadata": {
     "identifier": "restofworld-2022",
     "collection": [
@@ -11437,10 +11488,21 @@
     "publicdate": "2022-07-25 15:39:47",
     "addeddate": "2022-07-25 15:39:47"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 1118924414,
+  "pending_tasks": true,
+  "server": "ia601400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454975748,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1353228837,
   "workable_servers": [
-    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

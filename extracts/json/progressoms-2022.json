@@ -1,5 +1,5 @@
 {
-  "created": 1666918568,
+  "created": 1666946896,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/progressoms-2022",
@@ -14990,31 +14990,82 @@
       "sha1": "9db09b8cf2cae14138e3424704b111f6173efcad"
     },
     {
+      "name": "progressoms-2022-10-28T05:46:55.418965-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946827",
+      "size": "1047",
+      "md5": "69045534b87aac9403325815ce9f129e",
+      "crc32": "3e00e3e2",
+      "sha1": "2cac6351ca424a877f37b5ff90adc291014c1f49",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-28T05:46:55.418965-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946828",
+      "size": "33170",
+      "md5": "f37d17ccf094bdb2f89eba235ad2457e",
+      "crc32": "279a5fab",
+      "sha1": "6af579f92e3bda8895e72240f9b96e5974a9aa91",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-28T05:46:55.418965-03:00.jpg",
+      "source": "original",
+      "mtime": "1666946825",
+      "size": "267336",
+      "md5": "28e695ab04457d6ea0103a80512e58c6",
+      "crc32": "14bc0a7b",
+      "sha1": "c0a5486b2c5699ae73a52efadff5dac01e2ef36f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "progressoms-2022-10-28T05:46:55.418965-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946830",
+      "size": "1513",
+      "md5": "a4196dfa7f895a604a91a9ba5f9f593b",
+      "crc32": "8f6d64ba",
+      "sha1": "a5a80ee870d738a83de0131f55b56433fbee15f8",
+      "format": "JSON"
+    },
+    {
+      "name": "progressoms-2022-10-28T05:46:55.418965-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946832",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "progressoms-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5409c67b4890bca9b082b20087aa390cfff7c04c",
-      "mtime": "1666907431",
-      "size": "310153",
-      "md5": "757d2e5bcd9fa718e0d78aab5a4c9ccf",
-      "crc32": "9014a5b3",
-      "sha1": "030439480d92f7cfb76cd4793d2341d2f7993af6",
+      "btih": "2fbca864c64f691bb6786a7ba270336ceb4374a3",
+      "mtime": "1666946889",
+      "size": "311208",
+      "md5": "dbebf86844a8034df7672cc983b654cc",
+      "crc32": "c6d14012",
+      "sha1": "7df28145163eba81605045d527b8d54ef3986e35",
       "format": "Archive BitTorrent"
     },
     {
       "name": "progressoms-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5f750c58eb0c693eee359ae5204bcc0e",
+      "md5": "df464d48a536168cb1b1594a8d8ea8c1",
       "summation": "md5"
     },
     {
       "name": "progressoms-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666898692",
-      "size": "1863680",
-      "md5": "32768101f0d1d0f97df1a24348af7973",
-      "crc32": "3130fee0",
-      "sha1": "b638ab34ab435b34decdf5a51335248f62ae0be7",
+      "mtime": "1666946838",
+      "size": "1867776",
+      "md5": "adc8bfe774fa3fa61d55e3be33c346a9",
+      "crc32": "015e1560",
+      "sha1": "b31c716509bcffb55b4dd464698ffbbcd5d6f485",
       "format": "Metadata"
     },
     {
@@ -15028,9 +15079,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1454,
-  "item_last_updated": 1666907431,
-  "item_size": 82720506,
+  "files_count": 1459,
+  "item_last_updated": 1666946889,
+  "item_size": 83028925,
   "metadata": {
     "identifier": "progressoms-2022",
     "collection": [
@@ -15047,15 +15098,21 @@
     "publicdate": "2022-08-04 04:56:28",
     "addeddate": "2022-08-04 04:56:28"
   },
-  "progressoms-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1672641942,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454973540,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 898470046,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666918804,
+  "created": 1666947109,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/2/items/reveal-2022",
@@ -15514,31 +15514,82 @@
       "sha1": "a9057669907b6252c5cee80c4a7ca9941d7f78fe"
     },
     {
+      "name": "reveal-2022-10-28T01:50:30.414151-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666947037",
+      "size": "16609",
+      "md5": "a9d68261259eed3210c572ea304c95fa",
+      "crc32": "cb06f0ca",
+      "sha1": "8a348c93ea2bf5520b294246400ff123742add2a",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-10-28T01:50:30.414151-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666947038",
+      "size": "25367",
+      "md5": "76bf7094c8afd8dc5bc953d8bc963bd7",
+      "crc32": "98a0b472",
+      "sha1": "6b61689a9d64371bff5d752ecb9f902563fb698b",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-10-28T01:50:30.414151-07:00.jpg",
+      "source": "original",
+      "mtime": "1666947035",
+      "size": "240362",
+      "md5": "efae90635c46f4d975fcfec942155745",
+      "crc32": "c5163c16",
+      "sha1": "1da7492504e2f011d249b523a7c1ace167274d1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reveal-2022-10-28T01:50:30.414151-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666947041",
+      "size": "1459",
+      "md5": "587f23df3aae59f32b5d999c2c6a829d",
+      "crc32": "99297e1a",
+      "sha1": "21f3e7cb84d005ed3bedc2c3ad69e172c69349b5",
+      "format": "JSON"
+    },
+    {
+      "name": "reveal-2022-10-28T01:50:30.414151-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666947042",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "reveal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1e26b8f747471a206e09aa5f339b46810148852",
-      "mtime": "1666906912",
-      "size": "312052",
-      "md5": "80e8d5a2c045c24ff5eb86fc7de144ce",
-      "crc32": "ee2c87c2",
-      "sha1": "fd6e5fef45656879d0527e857d499fa30699fc4e",
+      "btih": "b8b97d86007671fcfc49cc42f9d3b207eb4c04cc",
+      "mtime": "1666947104",
+      "size": "313103",
+      "md5": "b043181e1aad6feedfaa554486bb7425",
+      "crc32": "8203ba93",
+      "sha1": "44e0d2ba200d9de2b64c83dfeb5f3eb92ae242a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reveal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d522beb562bb30bea372077e3610c319",
+      "md5": "212ad89d2668ed8399ab8478610a5f07",
       "summation": "md5"
     },
     {
       "name": "reveal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666898816",
-      "size": "1847296",
-      "md5": "d1984b1bf925f2f880766783e729f660",
-      "crc32": "fde0d3fb",
-      "sha1": "e9039f29f5abe6fa5cadb3af11d14514ee5a8780",
+      "mtime": "1666947048",
+      "size": "1855488",
+      "md5": "982814bead8239ceb1e4dee3e3a576cc",
+      "crc32": "3b594b1b",
+      "sha1": "cb50ffc392eb82253eabb7832c7c28a5c19492db",
       "format": "Metadata"
     },
     {
@@ -15552,9 +15603,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1498,
-  "item_last_updated": 1666906912,
-  "item_size": 89880925,
+  "files_count": 1503,
+  "item_last_updated": 1666947104,
+  "item_size": 90174167,
   "metadata": {
     "identifier": "reveal-2022",
     "collection": [
@@ -15571,15 +15622,21 @@
     "publicdate": "2022-06-19 23:28:01",
     "addeddate": "2022-06-19 23:28:01"
   },
-  "reveal-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia802509.us.archive.org",
-  "uniq": 1352289287,
+  "pending_tasks": true,
+  "server": "ia902509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454975931,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 373782099,
   "workable_servers": [
-    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

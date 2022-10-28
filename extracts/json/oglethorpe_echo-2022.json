@@ -1,5 +1,5 @@
 {
-  "created": 1666918301,
+  "created": 1666946694,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/1/items/oglethorpe_echo-2022",
@@ -7622,31 +7622,82 @@
       "sha1": "b5f1d05ee10c34545e392faa1e8b08cc3bd17203"
     },
     {
+      "name": "oglethorpe_echo-2022-10-28T04:43:09.333153-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946599",
+      "size": "14332",
+      "md5": "007e7adda50a30d232c4b38ebad8900a",
+      "crc32": "c2ac2863",
+      "sha1": "aac17f8ee832c0c6908f19a661e9758f21a56e6c",
+      "format": "JSON"
+    },
+    {
+      "name": "oglethorpe_echo-2022-10-28T04:43:09.333153-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946601",
+      "size": "7226",
+      "md5": "2a7357e216ad0e08ce2cfb655f29f20f",
+      "crc32": "9aedba94",
+      "sha1": "33aa7b0ec3e893ccc24cfd47cba2e36f5c817f80",
+      "format": "JSON"
+    },
+    {
+      "name": "oglethorpe_echo-2022-10-28T04:43:09.333153-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946597",
+      "size": "291465",
+      "md5": "ca81452fe47eebeb6305fc0adb8db619",
+      "crc32": "6355da4d",
+      "sha1": "257776bc7095272757691f7d286800fcfb5ffcbd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oglethorpe_echo-2022-10-28T04:43:09.333153-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946602",
+      "size": "1558",
+      "md5": "9337d08304236d43629ed0327c345654",
+      "crc32": "8c162c68",
+      "sha1": "634281e1256381516f8b73c9c1d2796376bfb9cf",
+      "format": "JSON"
+    },
+    {
+      "name": "oglethorpe_echo-2022-10-28T04:43:09.333153-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946604",
+      "size": "17345",
+      "md5": "b5d038b452f44cb7a69833beb3e328ed",
+      "crc32": "cee5e7d8",
+      "sha1": "a6cd26ea24b4de166e2382919ab69dd15a72c79d",
+      "format": "JSON"
+    },
+    {
       "name": "oglethorpe_echo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51c9242deed4475f3558c5383ac77ae7819b183c",
-      "mtime": "1666907314",
-      "size": "161376",
-      "md5": "56a416a578e228b6248f0411d0d1eafc",
-      "crc32": "f110833d",
-      "sha1": "32324e3a00facaa110dd52b8512d20ea0fcec929",
+      "btih": "386c23145293a20a1df03e55ac881feec175e609",
+      "mtime": "1666946685",
+      "size": "162453",
+      "md5": "bc5cfbcb6882de74f49e046d873d47aa",
+      "crc32": "6524045a",
+      "sha1": "b1854e78f654b6ee1ea27d999f020c2da921113f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oglethorpe_echo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7f9476cbf6bfb58606bf7f3db73076e5",
+      "md5": "f6efc97746b8ea0583688dd75275f901",
       "summation": "md5"
     },
     {
       "name": "oglethorpe_echo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666898455",
-      "size": "962560",
-      "md5": "0f94f5d2dcf2cf63068ea767fbc5ffed",
-      "crc32": "365861dd",
-      "sha1": "e61b7958b8afb713536dae8f3e945c3965363cb9",
+      "mtime": "1666946637",
+      "size": "966656",
+      "md5": "bab214ed089f57c7911b450d5c7111bc",
+      "crc32": "43240361",
+      "sha1": "336ffa89b2501d956045af331596a2753818eec6",
       "format": "Metadata"
     },
     {
@@ -7660,9 +7711,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 741,
-  "item_last_updated": 1666907314,
-  "item_size": 45370496,
+  "files_count": 746,
+  "item_last_updated": 1666946685,
+  "item_size": 45707595,
   "metadata": {
     "identifier": "oglethorpe_echo-2022",
     "collection": [
@@ -7679,15 +7730,21 @@
     "publicdate": "2022-08-26 15:03:05",
     "addeddate": "2022-08-26 15:03:05"
   },
-  "oglethorpe_echo-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801409.us.archive.org",
-  "uniq": 195787381,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454970938,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 835631440,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }
