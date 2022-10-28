@@ -1,5 +1,5 @@
 {
-  "created": 1666933628,
+  "created": 1666968386,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/31/items/thedepaulia-2022",
@@ -16870,31 +16870,82 @@
       "sha1": "c81eee0cf447938d111aefb2cc2478c02e98a623"
     },
     {
+      "name": "thedepaulia-2022-10-28T09:45:14.762737-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968318",
+      "size": "27389",
+      "md5": "32247d45148faf07e106347801441258",
+      "crc32": "97a7f95b",
+      "sha1": "48e7db1f7bba7bd6a604cab5df16fb727af31577",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-10-28T09:45:14.762737-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968320",
+      "size": "92399",
+      "md5": "931d0a7c9b0c7d30ae3c9206292a5f39",
+      "crc32": "892a7510",
+      "sha1": "b71777b02376f31d4bb9fac6a14d72d6e73f74fe",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-10-28T09:45:14.762737-05:00.jpg",
+      "source": "original",
+      "mtime": "1666968316",
+      "size": "321691",
+      "md5": "5fac38e49bac26f78bc54be7f382ef0f",
+      "crc32": "466c9683",
+      "sha1": "4e6a8f36dfddc4d0215246c014414b1e08cf0b15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedepaulia-2022-10-28T09:45:14.762737-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968321",
+      "size": "1486",
+      "md5": "9dcd5489cbb3d43b54d1119e86101d85",
+      "crc32": "7712956d",
+      "sha1": "808bfd9cdf8c3f7f86af527fefed4940cf8e17d6",
+      "format": "JSON"
+    },
+    {
+      "name": "thedepaulia-2022-10-28T09:45:14.762737-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968323",
+      "size": "38987",
+      "md5": "074c6f8d75dab26b3050ab55f757e62c",
+      "crc32": "dde86de6",
+      "sha1": "1ea9fb913e1d6267b497cae0f3f3d16803101489",
+      "format": "JSON"
+    },
+    {
       "name": "thedepaulia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51e05f383b27ddb9c000bba000b93eb6edf9ab81",
-      "mtime": "1666933552",
-      "size": "350269",
-      "md5": "fc77e5c65e94d4a2f230d9ea4746d040",
-      "crc32": "901d2d8d",
-      "sha1": "34d4f43f6f84f98990096ab78cc9d17683a37f25",
+      "btih": "5f63e62e47a518f75e8b15d844d7db220b774226",
+      "mtime": "1666968382",
+      "size": "351327",
+      "md5": "e0a205c2507681e1067d824e4635397d",
+      "crc32": "56fbd3e4",
+      "sha1": "03f352c9f63caf0d45d5a09c9494d94ed1ca26b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedepaulia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0e7aaab2d936ba9c52e9ca00286a491",
+      "md5": "a4a23bc4319764319e86958115fcb2b3",
       "summation": "md5"
     },
     {
       "name": "thedepaulia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666931965",
-      "size": "2080768",
-      "md5": "3974d7823fd3c7f538966f8057b14932",
-      "crc32": "7f4329e1",
-      "sha1": "99475efbf987ca1c23e811559ad0b2bc41d59cc8",
+      "mtime": "1666968328",
+      "size": "2093056",
+      "md5": "b38126aeaf4e09f7de5739bfb83e9897",
+      "crc32": "e446fdda",
+      "sha1": "409d5f4d2de184a096165c0f345f543c603c5b1f",
       "format": "Metadata"
     },
     {
@@ -16908,9 +16959,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1635,
-  "item_last_updated": 1666933552,
-  "item_size": 129868021,
+  "files_count": 1640,
+  "item_last_updated": 1666968382,
+  "item_size": 130363319,
   "metadata": {
     "identifier": "thedepaulia-2022",
     "collection": [
@@ -16927,10 +16978,21 @@
     "publicdate": "2022-07-26 01:35:26",
     "addeddate": "2022-07-26 01:35:26"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 743555131,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455222128,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 705928835,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666934806,
+  "created": 1666968379,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/theonion-2022",
@@ -16568,31 +16568,82 @@
       "sha1": "168fb5f25c1b36d3e3d9779c90dee2c2f63731e1"
     },
     {
+      "name": "theonion-2022-10-28T09:44:51.907559-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968297",
+      "size": "28869",
+      "md5": "7095f20e71aa5964e2758919eb3b4586",
+      "crc32": "5b610076",
+      "sha1": "133a87ab2951cbca36da87fa7ab779dc221ed7d9",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-10-28T09:44:51.907559-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968299",
+      "size": "18154",
+      "md5": "4d08e4d26bf3b660633b6ab3b59321c4",
+      "crc32": "7cb54c3b",
+      "sha1": "d74b9ca99109ed7c8e65119dc353774b41934ec2",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-10-28T09:44:51.907559-05:00.jpg",
+      "source": "original",
+      "mtime": "1666968294",
+      "size": "291319",
+      "md5": "aeb3249c793a985e36037af5cfadbf44",
+      "crc32": "9b58aa0d",
+      "sha1": "cb1f906f455f2c9353da8dcbe2d49a28dde3891e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-10-28T09:44:51.907559-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968301",
+      "size": "1474",
+      "md5": "b5f55d1288f42963d7bea6bb545d551d",
+      "crc32": "42416f8f",
+      "sha1": "163722533940a1fbd21fb8cdab7415e8c500dfb3",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-10-28T09:44:51.907559-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968306",
+      "size": "72942",
+      "md5": "53123ac00109d853a462fbbab4c6321c",
+      "crc32": "bcdb438f",
+      "sha1": "a96b1b07684e8d9695089390b62c468861b81235",
+      "format": "JSON"
+    },
+    {
       "name": "theonion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "55e72b9bfcb9efc6aa1f081697f301faf7a75ff7",
-      "mtime": "1666933807",
-      "size": "336025",
-      "md5": "09ee385e5d695f92cb71cfc6c35f1f61",
-      "crc32": "c5714e4c",
-      "sha1": "b798f1e812371f4b2ff1abff00d35386f84977ea",
+      "btih": "81824588a53049b589733bf7c9c6df311313ed7d",
+      "mtime": "1666968371",
+      "size": "337088",
+      "md5": "2cbafe948ebcb2fd907c8f96dbb6bffc",
+      "crc32": "644d3905",
+      "sha1": "f8b33ffa58deee4d1906df0605c61382690fad3d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theonion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5f4acc5e81b402f3d9ca51cd43d70200",
+      "md5": "070bc4c40715b52292496d80e504f3b9",
       "summation": "md5"
     },
     {
       "name": "theonion-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666931978",
-      "size": "1937408",
-      "md5": "8df227e36cfd4f279074ff0f07b8f146",
-      "crc32": "959591a1",
-      "sha1": "2d00ce27fb8b8461c3a231be8a80647e2bb48265",
+      "mtime": "1666968312",
+      "size": "1941504",
+      "md5": "132a87680522105faa34405336e06e88",
+      "crc32": "49708487",
+      "sha1": "918a8303fbf7a1bfc9ef73e1ac0b9157ea14fcef",
       "format": "Metadata"
     },
     {
@@ -16606,9 +16657,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1595,
-  "item_last_updated": 1666933807,
-  "item_size": 118286477,
+  "files_count": 1600,
+  "item_last_updated": 1666968371,
+  "item_size": 118704394,
   "metadata": {
     "identifier": "theonion-2022",
     "collection": [
@@ -16625,10 +16676,21 @@
     "publicdate": "2022-05-25 16:00:43",
     "addeddate": "2022-05-25 16:00:43"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 671650918,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455222078,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 986338363,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666936194,
+  "created": 1666968420,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/9/items/thebabylonbee-2022",
@@ -9420,31 +9420,82 @@
       "sha1": "7654374f5b84967313b4e32c741d20990778f7b9"
     },
     {
+      "name": "thebabylonbee-2022-10-28T10:44:38.104075-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968281",
+      "size": "26149",
+      "md5": "91cd47c0cffbdafb72494fa0f80f4a40",
+      "crc32": "42a1c75e",
+      "sha1": "8829d32565eea68f666bc3a392f3634d12647c23",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-28T10:44:38.104075-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968283",
+      "size": "23251",
+      "md5": "7b20a67836cf3a449b838da41ad55198",
+      "crc32": "5b7a6f00",
+      "sha1": "8f99ea1b5b61a1811f06a1db6efaff55304a0d71",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-28T10:44:38.104075-04:00.jpg",
+      "source": "original",
+      "mtime": "1666968280",
+      "size": "344508",
+      "md5": "aa1fc3407f3a05e5ec6bef3f70c8005e",
+      "crc32": "54aabf0e",
+      "sha1": "691174bfda7a1766f4402446ca53eacd585c6187",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-10-28T10:44:38.104075-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968286",
+      "size": "1459",
+      "md5": "8a68459a462e6ef6007d8e5a4b029c64",
+      "crc32": "aacfee15",
+      "sha1": "4665efefa57d3aed6d57cc6de7a9ce95ebc0bac5",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-28T10:44:38.104075-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968289",
+      "size": "44229",
+      "md5": "3282b93fb018f69c3f54b3ca210a9c60",
+      "crc32": "52d3ee6b",
+      "sha1": "8e5d29ccda5a503d6e97846982bd3834bef6f046",
+      "format": "JSON"
+    },
+    {
       "name": "thebabylonbee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "22461fa0c967d444a5af2e0a3da36edfde9b1aee",
-      "mtime": "1666934102",
-      "size": "196885",
-      "md5": "c2457178002fd5862062cce7949482ff",
-      "crc32": "89fc72e8",
-      "sha1": "766093945a44851384a9c91f577de91f00c91bf9",
+      "btih": "33b1717e5801da2f78359845e68f938d22243037",
+      "mtime": "1666968401",
+      "size": "197973",
+      "md5": "9540811c5eae0207229a11a0e5a7a90b",
+      "crc32": "cc7a1703",
+      "sha1": "d7267708741dffda96c9e4d1136ec0a5ad437653",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebabylonbee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "405aa39bf4f32727d588f256f2ac8c71",
+      "md5": "43b2ae6efcf8a9ed814cd29cc8898087",
       "summation": "md5"
     },
     {
       "name": "thebabylonbee-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932096",
-      "size": "1150976",
-      "md5": "7d3c9bb23e000f8353ca2a1df71be473",
-      "crc32": "e715af97",
-      "sha1": "f83275b9b075d083d97c0eeb88ef18b824724746",
+      "mtime": "1666968332",
+      "size": "1163264",
+      "md5": "e003e9ff08ae4d392997cfe96b6312d3",
+      "crc32": "1ac01337",
+      "sha1": "f4b5f737648c5b27c8871cc493ca7cea7f7ead28",
       "format": "Metadata"
     },
     {
@@ -9458,9 +9509,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 912,
-  "item_last_updated": 1666934102,
-  "item_size": 70398571,
+  "files_count": 917,
+  "item_last_updated": 1666968401,
+  "item_size": 70851543,
   "metadata": {
     "identifier": "thebabylonbee-2022",
     "collection": [
@@ -9477,10 +9528,21 @@
     "publicdate": "2022-08-05 14:11:17",
     "addeddate": "2022-08-05 14:11:17"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1388814237,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455222497,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1030177652,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

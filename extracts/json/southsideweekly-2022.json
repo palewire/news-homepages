@@ -1,5 +1,5 @@
 {
-  "created": 1666938628,
+  "created": 1666968314,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/18/items/southsideweekly-2022",
@@ -21938,31 +21938,82 @@
       "sha1": "e849ebb33041cf4606df00c11252b4d93f8657b2"
     },
     {
+      "name": "southsideweekly-2022-10-28T09:43:11.966001-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968222",
+      "size": "15601",
+      "md5": "1d6aef4f52759d3da6a83717d73f81fb",
+      "crc32": "fcf758da",
+      "sha1": "8427ad2066fb0390fe401fcbd6fee3348b1fb9b7",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-28T09:43:11.966001-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968223",
+      "size": "29673",
+      "md5": "d8f1ce1bc9f4e2df45f4c87491542dab",
+      "crc32": "7a24c039",
+      "sha1": "55d3b03694fb2c8356aea1939e2fa544e50597d1",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-28T09:43:11.966001-05:00.jpg",
+      "source": "original",
+      "mtime": "1666968220",
+      "size": "351551",
+      "md5": "1f8f4e63e35c45d21990c5600b579603",
+      "crc32": "ad8561a5",
+      "sha1": "6b212a90cb0fdfc2f4bb1d5a68b284265a1e6b66",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-10-28T09:43:11.966001-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968226",
+      "size": "1503",
+      "md5": "8f65e248b4eebae7ea2e6d645a01a7b9",
+      "crc32": "3940debb",
+      "sha1": "9bc4c631a89ad29bc27daff5a4a5b83e7783fd40",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-10-28T09:43:11.966001-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968227",
+      "size": "23360",
+      "md5": "cd26f1e936f5e1ac6427304b1295f833",
+      "crc32": "b8029de6",
+      "sha1": "f679ae0e308567b231c1bebfa961c0108eab6f4b",
+      "format": "JSON"
+    },
+    {
       "name": "southsideweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "56a140dc2c309dd3b5ecb1d45ce10baceafff686",
-      "mtime": "1666933138",
-      "size": "460953",
-      "md5": "0479f2c668a84f19ac1af7d04f09e958",
-      "crc32": "9c73d1ef",
-      "sha1": "59323314de27cb40390b05740cfab66a3700c697",
+      "btih": "89b53309261a469e512c3123d6a20c3943029443",
+      "mtime": "1666968307",
+      "size": "462031",
+      "md5": "b8798465e2cd9be30dc5e9bf6f067b58",
+      "crc32": "5027276c",
+      "sha1": "6f2c61965cf125fd5c22665a2de41017870bd7cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southsideweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19fc19e8308ad23ae64964d88830dc54",
+      "md5": "034b1dd2e6dc3dcc33ef7243dd5ba334",
       "summation": "md5"
     },
     {
       "name": "southsideweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666931816",
-      "size": "2658304",
-      "md5": "65e6c670c633c42af55a300a3d369f5f",
-      "crc32": "4ed93b5c",
-      "sha1": "aa3de07f6a4de8aa3dd7fdd90413d8c543afba50",
+      "mtime": "1666968231",
+      "size": "2662400",
+      "md5": "17898f85a2ef020bdc8e812226b9769f",
+      "crc32": "30abb3c1",
+      "sha1": "cdd05fda327a2fb29d1fa73825a0b77360c0e89c",
       "format": "Metadata"
     },
     {
@@ -21976,9 +22027,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2118,
-  "item_last_updated": 1666933138,
-  "item_size": 144129155,
+  "files_count": 2123,
+  "item_last_updated": 1666968307,
+  "item_size": 144556017,
   "metadata": {
     "identifier": "southsideweekly-2022",
     "collection": [
@@ -21995,15 +22046,21 @@
     "publicdate": "2022-06-19 23:28:17",
     "addeddate": "2022-06-19 23:28:17"
   },
-  "server": "ia802502.us.archive.org",
-  "southsideweekly-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 2117602888,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455221494,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 262854696,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

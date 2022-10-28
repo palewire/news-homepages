@@ -1,5 +1,5 @@
 {
-  "created": 1666938947,
+  "created": 1666968489,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/11/items/thestarpress-2022",
@@ -4666,31 +4666,82 @@
       "sha1": "d18e612b0c9ff1bc01d133c15c0f7c1df3cd7a56"
     },
     {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968432",
+      "size": "18545",
+      "md5": "c11a5ef8ff3e1885b268acb3715006f1",
+      "crc32": "ffb0c86b",
+      "sha1": "ac0ede9de0d90462e60c535ea5384430192bc556",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968434",
+      "size": "41512",
+      "md5": "c197fadb0f314c77a468cf5082457082",
+      "crc32": "beefeed0",
+      "sha1": "690a4e0f11122400e9d5a521a96fad444f8c8f5d",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.jpg",
+      "source": "original",
+      "mtime": "1666968431",
+      "size": "271466",
+      "md5": "8ee2b8ce0844362def56e5c2eb7b4196",
+      "crc32": "4abdda29",
+      "sha1": "6af475c93126d91ef67c8654cd0379bdbeb06ff1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968436",
+      "size": "1512",
+      "md5": "87959b8efd0e21ee5b61963ea49c46bf",
+      "crc32": "3dbd2c94",
+      "sha1": "b630eba4a751de090c84026c8f1973709cfbc5da",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968438",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thestarpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b19603d03c6d7f8d2ae4569d6cfd0f592ad06da",
-      "mtime": "1666933394",
-      "size": "98060",
-      "md5": "242723c605e0517940ae75128baf8b25",
-      "crc32": "dcca0401",
-      "sha1": "403e1cf3b37fe0e84d79efd14007c7555143d7fb",
+      "btih": "b83b359fa81809a5d42404a421f77dcb1293a1bc",
+      "mtime": "1666968481",
+      "size": "99141",
+      "md5": "0c903f3693b4ef8bc1d2912ae60c656f",
+      "crc32": "fd962555",
+      "sha1": "8087527e09b3fd8bed62ee2a6943392331817f61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thestarpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "43b2b18f25c04db311200a9386369dd3",
+      "md5": "b93adeb4eadac41fa9b78c983f0a2363",
       "summation": "md5"
     },
     {
       "name": "thestarpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932002",
-      "size": "593920",
-      "md5": "255a2d821eb779ed57c490b300f14d5f",
-      "crc32": "78ffdf23",
-      "sha1": "e528e836d712ccd45b07983f89459e0f997dfa1d",
+      "mtime": "1666968443",
+      "size": "602112",
+      "md5": "b7d16f1d5610b080e2ede5ffb543acc2",
+      "crc32": "5544f122",
+      "sha1": "a8c6651a0a5251b92c5159613393c0c3914b285f",
       "format": "Metadata"
     },
     {
@@ -4704,9 +4755,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 455,
-  "item_last_updated": 1666933394,
-  "item_size": 29422467,
+  "files_count": 460,
+  "item_last_updated": 1666968481,
+  "item_size": 29764977,
   "metadata": {
     "identifier": "thestarpress-2022",
     "collection": [
@@ -4723,15 +4774,21 @@
     "publicdate": "2022-09-21 03:45:24",
     "addeddate": "2022-09-21 03:45:24"
   },
-  "server": "ia801405.us.archive.org",
-  "thestarpress-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 743794477,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455223176,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1915615069,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

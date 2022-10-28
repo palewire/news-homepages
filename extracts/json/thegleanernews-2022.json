@@ -1,5 +1,5 @@
 {
-  "created": 1666938823,
+  "created": 1666968345,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/thegleanernews-2022",
@@ -4666,31 +4666,82 @@
       "sha1": "e68a53e7912f0ab044bf518f3a046d51b199391a"
     },
     {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968290",
+      "size": "20399",
+      "md5": "580ea74bba13c95c6f7405581a79a7bd",
+      "crc32": "69721792",
+      "sha1": "a2b71ae03a3e0c8cd06ab519efcf8d48a1fcec74",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968292",
+      "size": "30857",
+      "md5": "e53ed134cac6ce88f2e9df850de45151",
+      "crc32": "e0be148f",
+      "sha1": "99dca746e69dafb94634f8566f63fd438500bdd9",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.jpg",
+      "source": "original",
+      "mtime": "1666968288",
+      "size": "258438",
+      "md5": "6730846d6c64c7589daabe1107ecad53",
+      "crc32": "b130b8f6",
+      "sha1": "4f65495addfdd10092ed40d8a5736a8a50c835c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968294",
+      "size": "1495",
+      "md5": "7d83887f6dd2ffbb1e4376c22e939dcb",
+      "crc32": "e5be726a",
+      "sha1": "c28d213f4530f7fe38f70d4fa5f8b49ef2f29fa0",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968295",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thegleanernews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "722a545d7333be33079c086ad8c7fc1607a47008",
-      "mtime": "1666933638",
-      "size": "98883",
-      "md5": "56c7681c0a023783e9a0287c4da47dad",
-      "crc32": "72f0da13",
-      "sha1": "48cbacb7d532726660a18cf17ed1422bc26cee88",
+      "btih": "de9193a43fc8dd443fcf52c087338d09c4f9f691",
+      "mtime": "1666968340",
+      "size": "99974",
+      "md5": "efe8dcbd1382ec2513ba15f252acf6d6",
+      "crc32": "ae764ffd",
+      "sha1": "8f7900f4e27653e6662d1fc82fb287dd20a51c50",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegleanernews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a7c06e9d5e21f3b5ac5f0fdf5a385b1a",
+      "md5": "2794c39b70ba6702092c06b0654978ae",
       "summation": "md5"
     },
     {
       "name": "thegleanernews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666931973",
-      "size": "593920",
-      "md5": "9d64e8bea0d1a9685313f45f8794c8dd",
-      "crc32": "154d232d",
-      "sha1": "0de0dd1ebc86b6d6b04b55f7a484668fa796f65f",
+      "mtime": "1666968300",
+      "size": "602112",
+      "md5": "a0d52422f8619c98cf48561c25a05ff5",
+      "crc32": "e3c1a72d",
+      "sha1": "ebfb4655560f19e8117305e62282612d9181644e",
       "format": "Metadata"
     },
     {
@@ -4704,9 +4755,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 455,
-  "item_last_updated": 1666933638,
-  "item_size": 27789121,
+  "files_count": 460,
+  "item_last_updated": 1666968340,
+  "item_size": 28109795,
   "metadata": {
     "identifier": "thegleanernews-2022",
     "collection": [
@@ -4723,15 +4774,21 @@
     "publicdate": "2022-09-21 03:44:35",
     "addeddate": "2022-09-21 03:44:35"
   },
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "thegleanernews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1835557389,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455221823,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1194377854,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia601507.us.archive.org"
   ]
 }

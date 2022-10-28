@@ -1,5 +1,5 @@
 {
-  "created": 1666939016,
+  "created": 1666968463,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/timestelegram-2022",
@@ -4634,31 +4634,82 @@
       "sha1": "42f286a9b29e02e8ced4648d3a62061ce551c159"
     },
     {
+      "name": "timestelegram-2022-10-28T10:46:36.945464-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968406",
+      "size": "25234",
+      "md5": "2312d7528a63422fe648fb22afdbe058",
+      "crc32": "c2957b95",
+      "sha1": "43c2234161b2bd2da1c8cb5083817e0815c51730",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-28T10:46:36.945464-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968409",
+      "size": "42333",
+      "md5": "974e0e8909271d3a800bdbc8e62be30c",
+      "crc32": "1f21949c",
+      "sha1": "d2714bda6b5d3f5d9bf654f0961a0c478a9ba7c3",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-28T10:46:36.945464-04:00.jpg",
+      "source": "original",
+      "mtime": "1666968404",
+      "size": "273613",
+      "md5": "3acd36d90864a1bb59323e20722110dd",
+      "crc32": "25f558ec",
+      "sha1": "20f7337745dc82f45ebd581009f601b9f87a94d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timestelegram-2022-10-28T10:46:36.945464-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968411",
+      "size": "1522",
+      "md5": "d5a3f650836c6405e5fd5c7c35b1630b",
+      "crc32": "8402e202",
+      "sha1": "2e320acbe31616aad64a96c8ba1ae19ed2eaafb2",
+      "format": "JSON"
+    },
+    {
+      "name": "timestelegram-2022-10-28T10:46:36.945464-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968413",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "timestelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8fbfa9ea20c90387ac54b47318ee9e29d74f516b",
-      "mtime": "1666933903",
-      "size": "97920",
-      "md5": "b1435054185400ef12e85d0439562dd5",
-      "crc32": "ccba907a",
-      "sha1": "e9505a93605c46072948a22168d57434ac0dccfc",
+      "btih": "9299a6566e022070d5d710270f49b0dd1765bcba",
+      "mtime": "1666968457",
+      "size": "99006",
+      "md5": "c45041050fdfe2953c896ac5a7e6c0d2",
+      "crc32": "855c8fce",
+      "sha1": "72d12d643038e15114d38fc7d3d701bcdfb8ba22",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timestelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a1cc75a2bfdab3df68110eca85b846a",
+      "md5": "0909e5a6c44f89f2f8b626825b5c906e",
       "summation": "md5"
     },
     {
       "name": "timestelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932193",
-      "size": "593920",
-      "md5": "113abc09d5c495f7294254df6c7b24e8",
-      "crc32": "880fbdae",
-      "sha1": "a78db392ff9d95627e69b92916d7598f5e0e1072",
+      "mtime": "1666968416",
+      "size": "598016",
+      "md5": "36fe7183c80f4b821c9cc66d524ea7d8",
+      "crc32": "3564733d",
+      "sha1": "20f088f3a2c5ac8808b0d7da2301df66a81bd4c5",
       "format": "Metadata"
     },
     {
@@ -4672,9 +4723,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 452,
-  "item_last_updated": 1666933903,
-  "item_size": 30263155,
+  "files_count": 457,
+  "item_last_updated": 1666968457,
+  "item_size": 30611241,
   "metadata": {
     "identifier": "timestelegram-2022",
     "collection": [
@@ -4691,15 +4742,21 @@
     "publicdate": "2022-09-21 03:46:50",
     "addeddate": "2022-09-21 03:46:50"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "timestelegram-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1992402025,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455222921,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 573284867,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

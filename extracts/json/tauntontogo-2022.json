@@ -1,5 +1,5 @@
 {
-  "created": 1666934648,
+  "created": 1666968251,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/tauntontogo-2022",
@@ -4624,31 +4624,82 @@
       "sha1": "00a46a7f9943751798d6b8601205d29037feac9a"
     },
     {
+      "name": "tauntontogo-2022-10-28T10:43:10.997595-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968196",
+      "size": "21850",
+      "md5": "492b7ce6e04aff7615fa8aca572317c6",
+      "crc32": "fdcd7d6d",
+      "sha1": "549743c8fb060304fe08a2ef8f54c44278daa96d",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-28T10:43:10.997595-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968200",
+      "size": "39190",
+      "md5": "90d710781b5155aef29cdce26e89c66d",
+      "crc32": "0b1e1b36",
+      "sha1": "00014a329a3766cf93bd70381f595b5d83b37590",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-28T10:43:10.997595-04:00.jpg",
+      "source": "original",
+      "mtime": "1666968194",
+      "size": "237392",
+      "md5": "73d508bbd6898f99dafe9e449e8138ec",
+      "crc32": "300d93e2",
+      "sha1": "4ab0578b5244f7e302643a426a192a0e740a81fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tauntontogo-2022-10-28T10:43:10.997595-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968202",
+      "size": "1531",
+      "md5": "b4c98fa709148f4c43cd903331513206",
+      "crc32": "6a1a6fa0",
+      "sha1": "d9bc78833c04d041b67fbdf2a0d450db14b86936",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-28T10:43:10.997595-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968203",
+      "size": "71808",
+      "md5": "2e36b907f97b97b0fee8ae09c1944052",
+      "crc32": "80ad6c3e",
+      "sha1": "03abfbb19d2c64f8b2a6e5acaa9d44540e91bea9",
+      "format": "JSON"
+    },
+    {
       "name": "tauntontogo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49e230710d9557324fa8e562ef8a5c525658b49b",
-      "mtime": "1666934534",
-      "size": "96798",
-      "md5": "3aa196ef5c0f755997608b1ff3c049bf",
-      "crc32": "c6a8cb1c",
-      "sha1": "42da5488e8e357507c690130581c7f8d0fe2ee7f",
+      "btih": "8966e92b4c3887d955cd5450fbf579789528c501",
+      "mtime": "1666968247",
+      "size": "97876",
+      "md5": "4204e4f2f5bde2accd1f6cd6fd0467fa",
+      "crc32": "9b4c2231",
+      "sha1": "e930078950a7fa6843c075ed3417d63b9b6f0cfc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tauntontogo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ab12ace1d14f91cf9be9fc484d6434c",
+      "md5": "7a017718201c2780a45b54ab1d39c1fb",
       "summation": "md5"
     },
     {
       "name": "tauntontogo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666931783",
-      "size": "589824",
-      "md5": "af6ed742dde92368c358b00aad05e374",
-      "crc32": "b3759ab1",
-      "sha1": "c8a1a3cb600cd69d6193f174e4047af62108c1b9",
+      "mtime": "1666968208",
+      "size": "598016",
+      "md5": "0c0cb890acd7de773b16d96ab5b2e13a",
+      "crc32": "8f8a34ae",
+      "sha1": "fc790ba8166c3e9700ae624df0a44e4d9b1241ce",
       "format": "Metadata"
     },
     {
@@ -4662,9 +4713,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 451,
-  "item_last_updated": 1666934534,
-  "item_size": 30282814,
+  "files_count": 456,
+  "item_last_updated": 1666968247,
+  "item_size": 30663855,
   "metadata": {
     "identifier": "tauntontogo-2022",
     "collection": [
@@ -4681,10 +4732,21 @@
     "publicdate": "2022-09-21 03:43:10",
     "addeddate": "2022-09-21 03:43:10"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 2039960044,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455220679,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 968373594,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

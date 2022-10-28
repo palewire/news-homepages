@@ -1,5 +1,5 @@
 {
-  "created": 1666938813,
+  "created": 1666968390,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/28/items/thedailyclimate-2022",
@@ -11806,31 +11806,82 @@
       "sha1": "afcd9d8121545a57b91b5a29eec9ed405e50a831"
     },
     {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968331",
+      "size": "27917",
+      "md5": "d47060e94dbc5e753294f28272de21d8",
+      "crc32": "714c4dc5",
+      "sha1": "d666c2d699284bf0528994903453b108ca213a54",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968332",
+      "size": "49461",
+      "md5": "8d122f0d6b00a412897f0cfabbc59231",
+      "crc32": "eec2eaa9",
+      "sha1": "f2de693951435b673b7b3cae0ad672366aa74267",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.jpg",
+      "source": "original",
+      "mtime": "1666968329",
+      "size": "282566",
+      "md5": "58bb6d8a93a7938a280bedd7c05fd061",
+      "crc32": "0d84f7c8",
+      "sha1": "c30f69970a273724bcd428b6e0bb4380c29ca1f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968334",
+      "size": "1513",
+      "md5": "c336377b503045c60dde06cb765db289",
+      "crc32": "2f67deed",
+      "sha1": "f9daa849f63a8ae07bc5f9443f8e514160617fa4",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968336",
+      "size": "18420",
+      "md5": "073295dd74d64b0ca2a685f95a2f3d09",
+      "crc32": "f943b222",
+      "sha1": "ca1ef890b2dc38848abeeea91a562aeb4db8a4fa",
+      "format": "JSON"
+    },
+    {
       "name": "thedailyclimate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6bfb390138eb2b514c06b185aba4eba088876537",
-      "mtime": "1666933397",
-      "size": "249520",
-      "md5": "ab5a3f9afacb91054dcae14594f09861",
-      "crc32": "5e8f4aa5",
-      "sha1": "5874d6a831b0ff9fad54563548b311116f1d5736",
+      "btih": "15b2f0d05c277f304e41ba7e30fec2376b9f0f58",
+      "mtime": "1666968387",
+      "size": "250618",
+      "md5": "19743102b79da148de03bf059f109a40",
+      "crc32": "b0dbfd25",
+      "sha1": "a378665f646acb300edd371437a4f38f97b771bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyclimate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47418aaadc46d2ea74808c2c58049a2f",
+      "md5": "72da3cb090d51fb61fde0f5fb9679f89",
       "summation": "md5"
     },
     {
       "name": "thedailyclimate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666931977",
-      "size": "1466368",
-      "md5": "625674fd1926c2d64fb83bf40557d2f4",
-      "crc32": "3e2ab3a4",
-      "sha1": "560e936ab603ca1221be87fd5c1804d0f93e5400",
+      "mtime": "1666968343",
+      "size": "1474560",
+      "md5": "932b884f4eec97189868fc12cc691381",
+      "crc32": "39963a44",
+      "sha1": "7216251dfeb84647493848ee087ff644dab3ac0a",
       "format": "Metadata"
     },
     {
@@ -11844,9 +11895,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1145,
-  "item_last_updated": 1666933397,
-  "item_size": 75412219,
+  "files_count": 1150,
+  "item_last_updated": 1666968387,
+  "item_size": 75801386,
   "metadata": {
     "identifier": "thedailyclimate-2022",
     "collection": [
@@ -11863,15 +11914,21 @@
     "publicdate": "2022-07-23 04:24:54",
     "addeddate": "2022-07-23 04:24:54"
   },
-  "server": "ia802508.us.archive.org",
-  "thedailyclimate-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1971732226,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455222156,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1991688597,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

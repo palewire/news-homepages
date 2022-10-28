@@ -1,5 +1,5 @@
 {
-  "created": 1666934681,
+  "created": 1666968435,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/29/items/theweek-2022",
@@ -8594,31 +8594,82 @@
       "sha1": "429b87bc0ac24ea7b8481b10f271082d1d1fc3d9"
     },
     {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968365",
+      "size": "30701",
+      "md5": "cef4f22e967c25888d263d90d826a1be",
+      "crc32": "715b5e05",
+      "sha1": "411c99b91898888752001b5562acde8f7381d708",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968366",
+      "size": "15329",
+      "md5": "6fd99217500774be3e4e4839c3db608e",
+      "crc32": "3513e261",
+      "sha1": "b5a5d7e576d360b6927d3bf4762047ae04db3468",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.jpg",
+      "source": "original",
+      "mtime": "1666968363",
+      "size": "267513",
+      "md5": "2448ea00372e401b0bc945c2002c8e17",
+      "crc32": "077f3353",
+      "sha1": "5aeed7d1d4feb19b598997d22f916cd60d0ed7b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968368",
+      "size": "1432",
+      "md5": "e5842b6e197f76e71adaa903f81f3d97",
+      "crc32": "55baf616",
+      "sha1": "22d42f4b84a353784986b68cbf5a7ef86f33cd68",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968370",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "878b70abdc9740072da619841a278e0d2c7417c5",
-      "mtime": "1666934092",
-      "size": "175218",
-      "md5": "17770893eeea53ef3b7659721565fc28",
-      "crc32": "f133b284",
-      "sha1": "d6bb30e5c9fdb25cd30f69e6a76a58322c14d051",
+      "btih": "59fc581da29c9081bc0420f5f8bff27894a9bacc",
+      "mtime": "1666968425",
+      "size": "176274",
+      "md5": "f65f93135e0a2ab6c6862b59cbad27f9",
+      "crc32": "8abde39e",
+      "sha1": "9a0527ca6944b5fcbd1d82addcd08899ee2171e3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "350b55cace1988f25bdf5f4c3eb9acf0",
+      "md5": "e068dc7a576fbdb0ce6c211312b035ef",
       "summation": "md5"
     },
     {
       "name": "theweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666932176",
-      "size": "1069056",
-      "md5": "310031a0e67fe40e6e69e1bc94f35c5a",
-      "crc32": "8137950c",
-      "sha1": "3b19c7cd5eeb285f41cc29296fa5e61528080236",
+      "mtime": "1666968377",
+      "size": "1077248",
+      "md5": "a8c8af9e73385185fdc532f8d04c5d01",
+      "crc32": "973094bc",
+      "sha1": "7b3c1122dcbc722f6908b234dbe5a9e02ac283ca",
       "format": "Metadata"
     },
     {
@@ -8632,9 +8683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 835,
-  "item_last_updated": 1666934092,
-  "item_size": 50867826,
+  "files_count": 840,
+  "item_last_updated": 1666968425,
+  "item_size": 51192251,
   "metadata": {
     "identifier": "theweek-2022",
     "collection": [
@@ -8651,10 +8702,21 @@
     "publicdate": "2022-08-19 01:22:20",
     "addeddate": "2022-08-19 01:22:20"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 710164341,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455222614,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1197062834,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

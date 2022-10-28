@@ -1,5 +1,5 @@
 {
-  "created": 1666933323,
+  "created": 1666968320,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/20/items/telemundochi-2022",
@@ -16338,31 +16338,82 @@
       "sha1": "b6b9464a34b921e0a1f1961f1c7c55d686f6ea4d"
     },
     {
+      "name": "telemundochi-2022-10-28T09:43:25.419860-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968236",
+      "size": "48198",
+      "md5": "3819ed423ecd72863bdbe3f2dfbe4bf9",
+      "crc32": "903fe916",
+      "sha1": "a0fc28213fd38eab014efde3ca8618b1d2c3ca0f",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-28T09:43:25.419860-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968237",
+      "size": "54546",
+      "md5": "e75f44c9ab2ca3f803152498b3881ba9",
+      "crc32": "a0fc6f72",
+      "sha1": "214a146ca583c14f6bf4bf0281a5ed1d48fbeadc",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-28T09:43:25.419860-05:00.jpg",
+      "source": "original",
+      "mtime": "1666968233",
+      "size": "307943",
+      "md5": "a219f5b3cf087963b17ec1bed73bc70b",
+      "crc32": "aabbec6f",
+      "sha1": "ff5a7d1beefa9cbf0f46499666f6ff4adba80825",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telemundochi-2022-10-28T09:43:25.419860-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968239",
+      "size": "1540",
+      "md5": "10d859d76f06e773d264530bb2afc160",
+      "crc32": "da7c16ce",
+      "sha1": "1623352ff33a28f40b82237006c17fa9b2454593",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-10-28T09:43:25.419860-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968241",
+      "size": "49312",
+      "md5": "d2284acb5837142dbebeef999a39d959",
+      "crc32": "7ce2424e",
+      "sha1": "f3596c78e2468d67b82464a4407da24207f94fb7",
+      "format": "JSON"
+    },
+    {
       "name": "telemundochi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "face6039b3052c370ba840f39aa755ecd9f98873",
-      "mtime": "1666933261",
-      "size": "340953",
-      "md5": "4aa37db53481b832865e861c690af065",
-      "crc32": "221a0bff",
-      "sha1": "81c5eca52f8c9aa024b6c579df395052d49e3b1d",
+      "btih": "1daa93b6e65a49bc2055b4d146a6e3ef212679eb",
+      "mtime": "1666968314",
+      "size": "342036",
+      "md5": "6e22e76d69f6dd3bb3ccca7491fbc97d",
+      "crc32": "7a1e5657",
+      "sha1": "67f07561e59d6205ebbf62bab28b79f2b6184ef1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telemundochi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8e214823e625af7c984059f1a258840",
+      "md5": "8b39b23fc60a715592cbe576fc41c8a7",
       "summation": "md5"
     },
     {
       "name": "telemundochi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666931806",
-      "size": "2023424",
-      "md5": "f5b14846e22da102ba0c4847ef35c7ee",
-      "crc32": "1071fed7",
-      "sha1": "e59a1f89fa494b0db3dec7c4f36ab1e0a1920277",
+      "mtime": "1666968252",
+      "size": "2031616",
+      "md5": "510bcaedeaca244f1a74c5977b8fe5e2",
+      "crc32": "7746b59b",
+      "sha1": "2f421ece7b28d018ee1e7bd5004f017c9ad8e67e",
       "format": "Metadata"
     },
     {
@@ -16376,9 +16427,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1584,
-  "item_last_updated": 1666933261,
-  "item_size": 128072163,
+  "files_count": 1589,
+  "item_last_updated": 1666968314,
+  "item_size": 128542977,
   "metadata": {
     "identifier": "telemundochi-2022",
     "collection": [
@@ -16395,10 +16446,21 @@
     "publicdate": "2022-07-28 20:04:16",
     "addeddate": "2022-07-28 20:04:16"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1744809440,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455221582,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1601182575,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666933285,
+  "created": 1666968278,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/12/items/thahakhabar-2022",
@@ -10868,31 +10868,82 @@
       "sha1": "0f20a317ccdf4d7a30d5f01f6035000e53e90f0a"
     },
     {
+      "name": "thahakhabar-2022-10-28T20:28:12.124139+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666968213",
+      "size": "79552",
+      "md5": "0932b017bcf870a1151620126135f5c7",
+      "crc32": "b2e40afa",
+      "sha1": "8b9933df72f63f938ae8419f78a0d609a066c121",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-28T20:28:12.124139+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968215",
+      "size": "51905",
+      "md5": "a6672600df0b1c68751a61d80bcb7d2d",
+      "crc32": "eab9b8be",
+      "sha1": "95a0e1a9567edf8fcc5c884d490918e0b2cdd013",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-28T20:28:12.124139+05:45.jpg",
+      "source": "original",
+      "mtime": "1666968211",
+      "size": "235901",
+      "md5": "6ccf192f6ce1af6fab4d4ad255573e0f",
+      "crc32": "16567a29",
+      "sha1": "d423ea472d8d4e0cb459b29efec5180a2caa5cfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thahakhabar-2022-10-28T20:28:12.124139+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968217",
+      "size": "1503",
+      "md5": "881e265b9800916e58bb75599a1b7a1b",
+      "crc32": "c5fbc6b8",
+      "sha1": "1b29ea2334c6385b84559a9315d9a08382b93522",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-28T20:28:12.124139+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666968219",
+      "size": "20217",
+      "md5": "57804cfa3d7a7cb0546abf93099f72f5",
+      "crc32": "631e9cb9",
+      "sha1": "d83ca4020bf1f7d8e44d0a31dbd70429e9d49c26",
+      "format": "JSON"
+    },
+    {
       "name": "thahakhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a2e8be900498410ea2d2e5b8136f0aed47344d06",
-      "mtime": "1666933243",
-      "size": "225015",
-      "md5": "64e00a2b40200ddd05dc0e04d0ddf99e",
-      "crc32": "93868bc5",
-      "sha1": "56013d156d58ea3ff83d23711598cfc474f949e7",
+      "btih": "6b501e82e5fb38352f5dd585edffb3c88f361843",
+      "mtime": "1666968271",
+      "size": "226093",
+      "md5": "cfbc17370bf4e2a7705bf9cb4f79dd77",
+      "crc32": "26517351",
+      "sha1": "5ab5c9983ccb2d77b831932b86efc086cd7fd8a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thahakhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4dbb35c88edbd98eb7293016847cb5a8",
+      "md5": "adb3088d9e855c83a0c8b0954d265225",
       "summation": "md5"
     },
     {
       "name": "thahakhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666931926",
-      "size": "1323008",
-      "md5": "e36b9c4bd6139f812231a138b2318731",
-      "crc32": "ff81cc97",
-      "sha1": "c32bd162b96e2a44b57bcac9122263da401e8539",
+      "mtime": "1666968224",
+      "size": "1331200",
+      "md5": "16aa5e986979e18977b1c5de902a4943",
+      "crc32": "dba93429",
+      "sha1": "ed61bc67063033c07927eb6a8c283d5c600fdceb",
       "format": "Metadata"
     },
     {
@@ -10906,9 +10957,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1052,
-  "item_last_updated": 1666933243,
-  "item_size": 73077704,
+  "files_count": 1057,
+  "item_last_updated": 1666968271,
+  "item_size": 73476052,
   "metadata": {
     "identifier": "thahakhabar-2022",
     "collection": [
@@ -10925,10 +10976,21 @@
     "publicdate": "2022-07-24 20:39:40",
     "addeddate": "2022-07-24 20:39:40"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1945666385,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455221070,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1996425378,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }
