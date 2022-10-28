@@ -1,5 +1,5 @@
 {
-  "created": 1666946147,
+  "created": 1666975163,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/jdemontreal-2022",
@@ -14194,31 +14194,82 @@
       "sha1": "58d18eee151c2f24ca44e46774fce46d9b5e5cf6"
     },
     {
+      "name": "jdemontreal-2022-10-28T12:37:42.724809-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975073",
+      "size": "27008",
+      "md5": "47a06fdb47147fdd2a44d01224005244",
+      "crc32": "bec60760",
+      "sha1": "36cd7f4a945716f293890ee4631c4ee69299f78b",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-28T12:37:42.724809-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975074",
+      "size": "42593",
+      "md5": "96b634902e0bf1db5d3491f31525577a",
+      "crc32": "10e555f5",
+      "sha1": "172b5cb4705b125f4ff21e83b5aee29f6485685e",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-28T12:37:42.724809-04:00.jpg",
+      "source": "original",
+      "mtime": "1666975071",
+      "size": "291095",
+      "md5": "aba8129519504f09e9c3819af9f87d42",
+      "crc32": "1f5c736c",
+      "sha1": "7ee19d14bcb79e2236b302c9348e743aa1783dad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jdemontreal-2022-10-28T12:37:42.724809-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975076",
+      "size": "1558",
+      "md5": "ae10161cf9ae777df8a82f7869c7d4a2",
+      "crc32": "00419f67",
+      "sha1": "8ba5f8ec192969d105fdde345a328bb104666837",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-10-28T12:37:42.724809-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975078",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "jdemontreal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "61ce9c5ba182e730e60b51e34aa8fbd2a46ed2f7",
-      "mtime": "1666939713",
-      "size": "293216",
-      "md5": "4ea1e7eadc4c765e34ed3e0cd4647fc8",
-      "crc32": "7f6f1a81",
-      "sha1": "5f3e2ceb75e04af64e421484f037efaa9dfd1e24",
+      "btih": "85642638194a6e8ab4ce3d0e208b3dedc0dac126",
+      "mtime": "1666975154",
+      "size": "294292",
+      "md5": "30cb3d0e5abca04116113fb616d5f2de",
+      "crc32": "0e6258c7",
+      "sha1": "899c72e354fd17ba72097920d9ddd6d355d6f0b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jdemontreal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6bf6cbf02e0b9ce675f64a52e495a3e3",
+      "md5": "fb83c550c01b6254c4b1492c755dfb72",
       "summation": "md5"
     },
     {
       "name": "jdemontreal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666938836",
-      "size": "1716224",
-      "md5": "de50c042c7680af4f9a640c25ce94419",
-      "crc32": "26f031fb",
-      "sha1": "67d50ece6d00b65e2f49052b25b99c482a2bd807",
+      "mtime": "1666975090",
+      "size": "1724416",
+      "md5": "eac459db1300cbdf865e7866a79b9449",
+      "crc32": "d76afcfb",
+      "sha1": "c4d18036e6f0b7aa81d9eeeed82deb5dc1c718a9",
       "format": "Metadata"
     },
     {
@@ -14232,14 +14283,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1372,
-  "item_last_updated": 1666939713,
-  "item_size": 90192040,
-  "jdemontreal-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 1377,
+  "item_last_updated": 1666975154,
+  "item_size": 90563764,
   "metadata": {
     "identifier": "jdemontreal-2022",
     "collection": [
@@ -14256,10 +14302,21 @@
     "publicdate": "2022-06-30 22:35:37",
     "addeddate": "2022-06-30 22:35:37"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 852208744,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455296354,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1750148524,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

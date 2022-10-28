@@ -1,5 +1,5 @@
 {
-  "created": 1666940055,
+  "created": 1666975223,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/kuarpublicradio-2022",
@@ -5814,31 +5814,82 @@
       "sha1": "352dc951fa6c006d20851d193cc977d8a7e3aeb4"
     },
     {
+      "name": "kuarpublicradio-2022-10-28T11:39:20.244209-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975164",
+      "size": "13858",
+      "md5": "7f92d7aa93575ccb810e001d0191261f",
+      "crc32": "657315c2",
+      "sha1": "90269dbc061c5746affa04d6402dbd530c92e450",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-28T11:39:20.244209-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975166",
+      "size": "30975",
+      "md5": "b51590c94594d3b03eb814ac8338dc32",
+      "crc32": "c3671282",
+      "sha1": "e73eaf58993f13fb0921bed1d21c9d5a68d1510a",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-28T11:39:20.244209-05:00.jpg",
+      "source": "original",
+      "mtime": "1666975162",
+      "size": "263755",
+      "md5": "7328ecc39de47f94aaffa7d7e59da95e",
+      "crc32": "dd16cdfe",
+      "sha1": "584d8f52616cbc10971ff933e23324f12548544a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-28T11:39:20.244209-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975168",
+      "size": "1522",
+      "md5": "1de3a6c59d19b28111d2c630fb6fd76f",
+      "crc32": "2d847664",
+      "sha1": "25fa2f8679e9c4c0d0b641c9b7178900ecee03f9",
+      "format": "JSON"
+    },
+    {
+      "name": "kuarpublicradio-2022-10-28T11:39:20.244209-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975170",
+      "size": "12870",
+      "md5": "63c01d2de266e85c9f23bc22328cb683",
+      "crc32": "a95b0e65",
+      "sha1": "fc667fa7133b0a5622d0f0d4f1bf6339e900a093",
+      "format": "JSON"
+    },
+    {
       "name": "kuarpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1f384f79d09900f5b665d4e19fd8db5bb088461",
-      "mtime": "1666939978",
-      "size": "123425",
-      "md5": "29c308e188627f2f39a7bb6a549551ff",
-      "crc32": "ef0ebe48",
-      "sha1": "0d1da99cf16ed47c545253556efed96d5e8fd260",
+      "btih": "0d0c4ceddd83816220fe8c0ede18ddad230d8da8",
+      "mtime": "1666975217",
+      "size": "124503",
+      "md5": "b4c83ccbb32eeff29b2587beab49dc7a",
+      "crc32": "9515a557",
+      "sha1": "37b15be6660f134de51907fc99c4781e4f581e3c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kuarpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13aaf23fe2c8d16f130920c7858862fb",
+      "md5": "7b190b90bfab8e6d7cf28bcfa96f2bbd",
       "summation": "md5"
     },
     {
       "name": "kuarpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666938993",
-      "size": "737280",
-      "md5": "021c1cc01509285e4888c36c8fb645d7",
-      "crc32": "484fb66a",
-      "sha1": "d83d9c8a2b4f594649b2ba8c3faf3ece0efd49bd",
+      "mtime": "1666975176",
+      "size": "745472",
+      "md5": "62060b13f43dd3f47285f816b5b8d1a8",
+      "crc32": "d5416bf5",
+      "sha1": "c1cdc3d81b5f3714ee2e2d90a9378c44688f9192",
       "format": "Metadata"
     },
     {
@@ -5852,9 +5903,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 566,
-  "item_last_updated": 1666939978,
-  "item_size": 32758427,
+  "files_count": 571,
+  "item_last_updated": 1666975217,
+  "item_size": 33090677,
   "metadata": {
     "identifier": "kuarpublicradio-2022",
     "collection": [
@@ -5871,10 +5922,21 @@
     "publicdate": "2022-09-12 04:03:39",
     "addeddate": "2022-09-12 04:03:39"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 511599920,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455297121,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1465417736,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

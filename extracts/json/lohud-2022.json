@@ -1,5 +1,5 @@
 {
-  "created": 1666939612,
+  "created": 1666975280,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/13/items/lohud-2022",
@@ -4718,31 +4718,82 @@
       "sha1": "950ce2a0a7f71e5c7319fa6409fd20d50e2d64f5"
     },
     {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975195",
+      "size": "20778",
+      "md5": "7dc18dc4f5cf3041053e00ac081e2f50",
+      "crc32": "1c8c8be1",
+      "sha1": "207260d056966d1d6281619b2d19e2d774154e24",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975197",
+      "size": "33845",
+      "md5": "28812a903fdb6a3db47c0907d7f5aab2",
+      "crc32": "fbb2f009",
+      "sha1": "735983121e66a3a61cd3eace7ba3d59ee6b168e4",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.jpg",
+      "source": "original",
+      "mtime": "1666975193",
+      "size": "307303",
+      "md5": "9867c44ae5590289893632a6069f4130",
+      "crc32": "b8aa3e0c",
+      "sha1": "0591132892b563358370f1114f6875e9a4b9c972",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975202",
+      "size": "1450",
+      "md5": "2cb427b47020b8a0ba0b69a6f47153d9",
+      "crc32": "8e474fa9",
+      "sha1": "b23efc85c644b1192ee607ccb3f1796183e53c40",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975208",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lohud-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee8a477d6a78a52bfe71fe22dbccfa11795ea102",
-      "mtime": "1666939588",
-      "size": "95957",
-      "md5": "772d5a2db710c697b78cd804908f3059",
-      "crc32": "77f9a17a",
-      "sha1": "9c0066d3a066e1d452a73480b67e36227ff046c6",
+      "btih": "d780bf0d3f9b2aa3fc3b187034f89570fbb61b7b",
+      "mtime": "1666975255",
+      "size": "97003",
+      "md5": "78b12d4eec0ea942eb5e984d7b11471d",
+      "crc32": "53c1ff93",
+      "sha1": "008954346da38f6921e0e0e8c7e260dc1623941b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lohud-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82d348a758c3e92992b72de731e82e30",
+      "md5": "68b05e723a74cde2d7870bbf419949c1",
       "summation": "md5"
     },
     {
       "name": "lohud-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666939013",
-      "size": "593920",
-      "md5": "41a00f15c103140f3cf25577c516ce3e",
-      "crc32": "c3217143",
-      "sha1": "e4f1c14d3983d9bd9794b8ea72f62cedec2aec1d",
+      "mtime": "1666975211",
+      "size": "598016",
+      "md5": "09de22ae4656196d3cb0ac13c1fae62d",
+      "crc32": "c281cbaf",
+      "sha1": "05df5b65065adbb447af0d289d968169367ee277",
       "format": "Metadata"
     },
     {
@@ -4756,9 +4807,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 460,
-  "item_last_updated": 1666939588,
-  "item_size": 31279611,
+  "files_count": 465,
+  "item_last_updated": 1666975255,
+  "item_size": 31648331,
   "metadata": {
     "identifier": "lohud-2022",
     "collection": [
@@ -4775,10 +4826,21 @@
     "publicdate": "2022-09-20 17:34:21",
     "addeddate": "2022-09-20 17:34:21"
   },
+  "pending_tasks": true,
   "server": "ia601402.us.archive.org",
-  "uniq": 516131666,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455297568,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1172937828,
   "workable_servers": [
-    "ia601402.us.archive.org",
-    "ia801402.us.archive.org"
+    "ia601402.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666946493,
+  "created": 1666975370,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/29/items/mtshastanews-2022",
@@ -4646,31 +4646,82 @@
       "sha1": "9a6a5bf6ac1791481bf82b3d79fb3bf88418734d"
     },
     {
+      "name": "mtshastanews-2022-10-28T09:41:49.185757-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975315",
+      "size": "24812",
+      "md5": "a564338b99818e3ce2b55055605b74b6",
+      "crc32": "883613b9",
+      "sha1": "895169bd5e2cf4f489251d3f5cd7dc49ed36433b",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-28T09:41:49.185757-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975316",
+      "size": "17041",
+      "md5": "ad79a17cfa8f9e7b32f9f9a9226ca864",
+      "crc32": "3243c509",
+      "sha1": "dbdb77a97ee9e28af29b51609140e6fdd66de7fa",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-28T09:41:49.185757-07:00.jpg",
+      "source": "original",
+      "mtime": "1666975313",
+      "size": "220975",
+      "md5": "2fbd31f3796786076f14e8d97363e7ce",
+      "crc32": "e437e5b4",
+      "sha1": "d6410b3ac07b2b2fbe27baed0798337008b33bd2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-10-28T09:41:49.185757-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975318",
+      "size": "1513",
+      "md5": "8eac364ce5ca655dd38c79dbc01d7551",
+      "crc32": "afde7823",
+      "sha1": "0c01639cfb87479eef71347e59be4dc9ae4089c7",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-10-28T09:41:49.185757-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975320",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "mtshastanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7eb6fab844dc08885fd53458fa0c40099f4f3542",
-      "mtime": "1666940090",
-      "size": "97638",
-      "md5": "b047ae2ea13b29cd5d8217e4d94b3882",
-      "crc32": "5a150322",
-      "sha1": "7b76302493c70250d8c00abf54eb787839b6047a",
+      "btih": "1d6ebec1b7d6f87584a348ae294bbaa91a3f7c4c",
+      "mtime": "1666975366",
+      "size": "98699",
+      "md5": "575a2a809aa16346c757f1f6bc4ba632",
+      "crc32": "37132161",
+      "sha1": "2ebd00ce7d9322e45d46ea67e5fb832ed8ab7d65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtshastanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "511c7ccb18cb2eca50e227c03d632b1e",
+      "md5": "72775af919ad8a7d085301b82a315595",
       "summation": "md5"
     },
     {
       "name": "mtshastanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666939225",
-      "size": "593920",
-      "md5": "ef0bc4854575b8701efde9d71d9b91b5",
-      "crc32": "ae704496",
-      "sha1": "3afc046318ece7398a1c0432bb5ef65d2b6698fe",
+      "mtime": "1666975328",
+      "size": "598016",
+      "md5": "c303d00bc6747c2cc721b4875c2042f7",
+      "crc32": "01536d6c",
+      "sha1": "626bcc9bd1ef9d265d57e19b39f52c32b884be26",
       "format": "Metadata"
     },
     {
@@ -4684,9 +4735,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 453,
-  "item_last_updated": 1666940090,
-  "item_size": 28938958,
+  "files_count": 458,
+  "item_last_updated": 1666975366,
+  "item_size": 29208658,
   "metadata": {
     "identifier": "mtshastanews-2022",
     "collection": [
@@ -4703,15 +4754,21 @@
     "publicdate": "2022-09-20 17:35:39",
     "addeddate": "2022-09-20 17:35:39"
   },
-  "mtshastanews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1000615063,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455298682,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1993999697,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

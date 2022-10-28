@@ -1,5 +1,5 @@
 {
-  "created": 1666939750,
+  "created": 1666975288,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/20/items/highcountrynews-2022",
@@ -12764,31 +12764,82 @@
       "sha1": "5e5bdc47761289f39daa68df4592277a2a38ea46"
     },
     {
+      "name": "highcountrynews-2022-10-28T10:38:25.635917-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975114",
+      "size": "44647",
+      "md5": "ca33119e4a67585d46bfe639ea3dac42",
+      "crc32": "ee1fe18e",
+      "sha1": "174f8df847fb12a605f31ded4322dadf67fb31e5",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-28T10:38:25.635917-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975116",
+      "size": "29886",
+      "md5": "bc3c70e791035cec1a981d08745a28ce",
+      "crc32": "ed46ca13",
+      "sha1": "35831c3f96f94bd29552ec12203cfa37034afe9a",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-28T10:38:25.635917-06:00.jpg",
+      "source": "original",
+      "mtime": "1666975112",
+      "size": "323381",
+      "md5": "3a5f62e5a01946c06d6d3e82fa492113",
+      "crc32": "b37cc4aa",
+      "sha1": "d636f0e2e321a48b2eecb687e745d981fd3ed165",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "highcountrynews-2022-10-28T10:38:25.635917-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975118",
+      "size": "1432",
+      "md5": "8c49dbc293ee6e5f5c3d73f1ba0a360f",
+      "crc32": "19bc4978",
+      "sha1": "967ee635410e2fee933e4de4b1cbe139eb73d40d",
+      "format": "JSON"
+    },
+    {
+      "name": "highcountrynews-2022-10-28T10:38:25.635917-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975120",
+      "size": "19550",
+      "md5": "1e1e2b644c225183c8de42e7dc311b85",
+      "crc32": "049746f3",
+      "sha1": "99956a095fa3dfaa2040bb1784299f5e37873ae5",
+      "format": "JSON"
+    },
+    {
       "name": "highcountrynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39f3fcbec89fe6a24709fb241eb0f18fd73c470b",
-      "mtime": "1666939673",
-      "size": "269955",
-      "md5": "e0464e7e0123fa1485e58304c186abde",
-      "crc32": "8a98f9ba",
-      "sha1": "7288918b4d9fdbeec7de8992b5b212fa944fc811",
+      "btih": "387d5969531a7ee97686c6dfe2e65b822229002b",
+      "mtime": "1666975255",
+      "size": "271053",
+      "md5": "47c9514f81f8a4390963e14e22921919",
+      "crc32": "eb90973d",
+      "sha1": "6ebaf71bb536ea6a621b6f76c40913a40b82d6ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "highcountrynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "899ee55f40530f71309654ce12fedce7",
+      "md5": "2c99defd66dab4eb4ee3804cac0f759d",
       "summation": "md5"
     },
     {
       "name": "highcountrynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666938841",
-      "size": "1572864",
-      "md5": "7c1c0b6329bf0d61faf76f2d540088a4",
-      "crc32": "cbd340a4",
-      "sha1": "49f28d53a5389277b719275b449c350f82484f73",
+      "mtime": "1666975155",
+      "size": "1581056",
+      "md5": "2de93e67400136d36694c588b1d90f30",
+      "crc32": "ac2b1585",
+      "sha1": "21db04f4c1de9c9d830d62736949a1e4c7419a21",
       "format": "Metadata"
     },
     {
@@ -12802,9 +12853,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1236,
-  "item_last_updated": 1666939673,
-  "item_size": 98454183,
+  "files_count": 1241,
+  "item_last_updated": 1666975255,
+  "item_size": 98882369,
   "metadata": {
     "identifier": "highcountrynews-2022",
     "collection": [
@@ -12821,10 +12872,21 @@
     "publicdate": "2022-07-09 03:58:59",
     "addeddate": "2022-07-09 03:58:59"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 243366346,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455297750,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 720490507,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

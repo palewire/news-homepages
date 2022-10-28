@@ -1,5 +1,5 @@
 {
-  "created": 1666946254,
+  "created": 1666975299,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/lanuevaespana-2022",
@@ -11142,31 +11142,82 @@
       "sha1": "e061bc63e3399ca78ffb2cc711e4ce7f14728012"
     },
     {
+      "name": "lanuevaespana-2022-10-28T18:39:56.464568+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975209",
+      "size": "136250",
+      "md5": "1387c6771ebe8bde1fe094fedd14c3cd",
+      "crc32": "9a0b7496",
+      "sha1": "51a63029ffe2cdbcb31896e58ba491840b210ccd",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-10-28T18:39:56.464568+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975211",
+      "size": "202441",
+      "md5": "d0db40d5876508bb73d92d8565423003",
+      "crc32": "2c942c78",
+      "sha1": "1d27238eb64f19fca23eb2e14f4324653c6429e1",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-10-28T18:39:56.464568+02:00.jpg",
+      "source": "original",
+      "mtime": "1666975208",
+      "size": "330210",
+      "md5": "09e18688e99d5b2995a8ff7c80373349",
+      "crc32": "b2ac2141",
+      "sha1": "5a2f4d20628eaef14776e1072dafc75b84526b85",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanuevaespana-2022-10-28T18:39:56.464568+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975213",
+      "size": "1422",
+      "md5": "8e23dc7a5c819bde74d31e2b3fa31620",
+      "crc32": "85ef38a6",
+      "sha1": "01040cc948d732a081853334d7d39ee3a858884c",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-10-28T18:39:56.464568+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975214",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lanuevaespana-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fc780eaad0b8335ec00a88072984e0a246e28caa",
-      "mtime": "1666939657",
-      "size": "235321",
-      "md5": "f88165fa8fc06edc5460467a73784495",
-      "crc32": "4941ce2b",
-      "sha1": "f85d30a70ef5649ca354d5ef4b3c2cd5834f5e42",
+      "btih": "2e3d421fd2b064475cb4a3c153faebe85ddcdb89",
+      "mtime": "1666975291",
+      "size": "236409",
+      "md5": "cd48831f626f8ec338d2c6704d833837",
+      "crc32": "0baa31a0",
+      "sha1": "310f7d9f29520ad6ab3c676b6128702b08cc8f17",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanuevaespana-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f18330b35af51bfc1663465f81cc222f",
+      "md5": "0eebed6aec056b32bd549adfe7316902",
       "summation": "md5"
     },
     {
       "name": "lanuevaespana-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666938992",
-      "size": "1388544",
-      "md5": "2472b7bb888204d69871ec66fd905ee0",
-      "crc32": "8de26112",
-      "sha1": "23e3207d347e0ce5e147f0562b784117886dea5f",
+      "mtime": "1666975223",
+      "size": "1396736",
+      "md5": "47f1809c268b122a7035596dfc3f89fe",
+      "crc32": "c60322b7",
+      "sha1": "167da475ae12f829ea60a25d4a57d69dcf2f69d3",
       "format": "Metadata"
     },
     {
@@ -11180,14 +11231,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1081,
-  "item_last_updated": 1666939657,
-  "item_size": 115121465,
-  "lanuevaespana-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 1086,
+  "item_last_updated": 1666975291,
+  "item_size": 115801270,
   "metadata": {
     "identifier": "lanuevaespana-2022",
     "collection": [
@@ -11204,10 +11250,21 @@
     "publicdate": "2022-07-28 18:53:55",
     "addeddate": "2022-07-28 18:53:55"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1410182372,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455297762,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1154859610,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

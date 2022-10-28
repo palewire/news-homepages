@@ -1,5 +1,5 @@
 {
-  "created": 1666946036,
+  "created": 1666975148,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/1/items/humansofny-2022",
@@ -11882,31 +11882,82 @@
       "sha1": "b85726d3930963afa9f69604621f918e45d23549"
     },
     {
+      "name": "humansofny-2022-10-28T12:37:52.447737-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975079",
+      "size": "2190",
+      "md5": "b7a06cba358058809e25269f89a3a0f4",
+      "crc32": "e44e264a",
+      "sha1": "5ac2d42dc30bcf3597b6c6081b5379a1a193406c",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-28T12:37:52.447737-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975082",
+      "size": "1366",
+      "md5": "bb681b85453068c6eea27cd4abc506ee",
+      "crc32": "fd3b4771",
+      "sha1": "dc8c692057797512255650d3221752b27a4b883e",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-28T12:37:52.447737-04:00.jpg",
+      "source": "original",
+      "mtime": "1666975077",
+      "size": "120972",
+      "md5": "55bc91f672d93b6266c4eaf33c0d3b2c",
+      "crc32": "9f947dac",
+      "sha1": "795fc54a2db468f04fbfea8741ffa4a57885382b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "humansofny-2022-10-28T12:37:52.447737-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975083",
+      "size": "1539",
+      "md5": "2652ceddf639418171299882efb41080",
+      "crc32": "ae6a1eda",
+      "sha1": "4e10b9cbdec818a4a6237db40b8dd1913246de40",
+      "format": "JSON"
+    },
+    {
+      "name": "humansofny-2022-10-28T12:37:52.447737-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975085",
+      "size": "6459",
+      "md5": "4d0b4c3ff7f55d915de4803879f655ba",
+      "crc32": "1f36701a",
+      "sha1": "cbc1c848be1fce877a59a54c6822ac88e98f76f7",
+      "format": "JSON"
+    },
+    {
       "name": "humansofny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bafda41dbda0d488b7dad63b2aeadaee7626a73d",
-      "mtime": "1666939452",
-      "size": "243063",
-      "md5": "f6f440b94224ef4fbce9421d443c3764",
-      "crc32": "62cd4718",
-      "sha1": "ccbea53ba56441f2c8e94070d1929cd69a63ce69",
+      "btih": "836ecc6462f51d883cbc9fc1ac1cef5a3d446d05",
+      "mtime": "1666975142",
+      "size": "244113",
+      "md5": "e56db0ce4bc4e3e132495efe88b09549",
+      "crc32": "8fed9413",
+      "sha1": "14020508043c723033b9c87c1fbae3c81ecdb8cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "humansofny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "245c18ce489c9d97a5596fd4d3fd360a",
+      "md5": "249cb5b6ccd7151c402c5ef1fed17685",
       "summation": "md5"
     },
     {
       "name": "humansofny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666938792",
-      "size": "1466368",
-      "md5": "6d5ed7aff5c93ac6023543fe1549ce31",
-      "crc32": "26117f93",
-      "sha1": "4725ea704994b14ef59dd97d1af822764e59a6f2",
+      "mtime": "1666975091",
+      "size": "1470464",
+      "md5": "e7d605ebda8bb8de4c0deabee5f8de40",
+      "crc32": "01a9f0aa",
+      "sha1": "d378ed4dcbca80ae69ecac812713769fa65d2956",
       "format": "Metadata"
     },
     {
@@ -11920,14 +11971,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1152,
-  "humansofny-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1666939452,
-  "item_size": 32776053,
+  "files_count": 1157,
+  "item_last_updated": 1666975142,
+  "item_size": 32913725,
   "metadata": {
     "identifier": "humansofny-2022",
     "collection": [
@@ -11944,10 +11990,21 @@
     "publicdate": "2022-07-21 02:25:52",
     "addeddate": "2022-07-21 02:25:52"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1220421872,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455296138,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 188128549,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666940080,
+  "created": 1666975391,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/35/items/mongabay-2022",
@@ -12756,31 +12756,82 @@
       "sha1": "18d0f7adce789aee9b6d0ef6b8ae1af00038f72f"
     },
     {
+      "name": "mongabay-2022-10-28T09:41:40.874085-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975309",
+      "size": "33373",
+      "md5": "3154001ea93b21eda47c8896ab0fc6a9",
+      "crc32": "458d41e3",
+      "sha1": "ed209fb8d70a6d597f4dad2e4197283f8dacd5a6",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-10-28T09:41:40.874085-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975311",
+      "size": "21097",
+      "md5": "ef1b9884b6ae12b1e15b2e6ec7ad1a36",
+      "crc32": "5178a8d4",
+      "sha1": "ee0b82de1caef818914170e420cf188940ce25b6",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-10-28T09:41:40.874085-07:00.jpg",
+      "source": "original",
+      "mtime": "1666975307",
+      "size": "368231",
+      "md5": "cad3a892eee10399d97725881b3bc425",
+      "crc32": "60fb2e5e",
+      "sha1": "8c9f86964e168261f37899289556fbbcd0d7ae8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mongabay-2022-10-28T09:41:40.874085-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975313",
+      "size": "1477",
+      "md5": "0af6de285c11771553eeaa45c283a44a",
+      "crc32": "0446204e",
+      "sha1": "895c78d714c8e0a8927f53d3695d6b24b3ecfe74",
+      "format": "JSON"
+    },
+    {
+      "name": "mongabay-2022-10-28T09:41:40.874085-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975315",
+      "size": "18787",
+      "md5": "32632050c850608c4609696156bf0685",
+      "crc32": "7932075a",
+      "sha1": "52a255c11a4b74d2170212e314b7ba51000ce563",
+      "format": "JSON"
+    },
+    {
       "name": "mongabay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67e2206909ceab6f3268bf2e4f362889b506783c",
-      "mtime": "1666940040",
-      "size": "260974",
-      "md5": "71029e79f6e22bebe7a8837f254d3557",
-      "crc32": "4853e6d6",
-      "sha1": "f2aa241cfcab2c3a74d22d84d7eb0c6c73c16e80",
+      "btih": "63ee47110711345c2ccfbc60e6c60667ac44b5f4",
+      "mtime": "1666975370",
+      "size": "262037",
+      "md5": "bd3cd4d1716c5a7f89027b3423087a12",
+      "crc32": "4af7903c",
+      "sha1": "0dd0f97672f25d4e548ec6ac4ffb202826751386",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mongabay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "300e2e3e38d9b7337f8b6963660f5216",
+      "md5": "c01590559628b0d97dae86ae2a97eb02",
       "summation": "md5"
     },
     {
       "name": "mongabay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666939224",
-      "size": "1552384",
-      "md5": "74afd68f652fda3931dce400f33154ac",
-      "crc32": "cb9b259f",
-      "sha1": "063d0feb239c5b940dd8cb1de8da2e748d619420",
+      "mtime": "1666975322",
+      "size": "1560576",
+      "md5": "eace3e0303440e87cf43468d5351dbc1",
+      "crc32": "ad3708e3",
+      "sha1": "474c69104935f5ded50692c0fbf9891daaff4b03",
       "format": "Metadata"
     },
     {
@@ -12794,9 +12845,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1235,
-  "item_last_updated": 1666940040,
-  "item_size": 98490067,
+  "files_count": 1240,
+  "item_last_updated": 1666975370,
+  "item_size": 98942287,
   "metadata": {
     "identifier": "mongabay-2022",
     "collection": [
@@ -12813,10 +12864,21 @@
     "publicdate": "2022-07-09 04:01:07",
     "addeddate": "2022-07-09 04:01:07"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1785834390,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455298995,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 624309932,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

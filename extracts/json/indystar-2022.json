@@ -1,5 +1,5 @@
 {
-  "created": 1666946061,
+  "created": 1666975125,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/28/items/indystar-2022",
@@ -4706,31 +4706,82 @@
       "sha1": "7e86df1901a9c9050c77bd314ad808ffb53ac849"
     },
     {
+      "name": "indystar-2022-10-28T12:37:46.791350-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975073",
+      "size": "22257",
+      "md5": "fcee568257f3b0e13dd57c4932d1cdbd",
+      "crc32": "ea04adf7",
+      "sha1": "7c98d005d5489bd617ea137d075b5cea26482138",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-28T12:37:46.791350-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975075",
+      "size": "37199",
+      "md5": "35d0bf6ae1a680f91edab1f7856dce71",
+      "crc32": "105417de",
+      "sha1": "dc93fc1b81e89dfd18d9242a01f198775f1a1941",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-28T12:37:46.791350-04:00.jpg",
+      "source": "original",
+      "mtime": "1666975071",
+      "size": "251584",
+      "md5": "1e88b213e18dce5a02d1ceb3f9f864cd",
+      "crc32": "7bc9f5d6",
+      "sha1": "4ac30bbeb0505ae08825d4d4d1931714e89e9176",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indystar-2022-10-28T12:37:46.791350-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975076",
+      "size": "1477",
+      "md5": "f09a930052c1d5ffe4d934ab1a84860c",
+      "crc32": "52d92bd4",
+      "sha1": "18c0ee2a55244d663a6aacb4a5b4f8a77d3f13f2",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-10-28T12:37:46.791350-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975078",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "indystar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "326ff4056edfbb7d5f6c49ebf61780b7b44dcb72",
-      "mtime": "1666939864",
-      "size": "97187",
-      "md5": "c2b1a7bb34151733079d1c13149251f7",
-      "crc32": "7afde5ce",
-      "sha1": "1f06c06cdd3d7da48b43c55b6d4c3a39e95a691f",
+      "btih": "c99e30526af8526090c9a447cf94ebd7369ddc98",
+      "mtime": "1666975122",
+      "size": "98248",
+      "md5": "cb4356c077ba9ff21513b001a253f1a4",
+      "crc32": "953e0c1c",
+      "sha1": "00b1f62f47ebc3c50c337609da28f99b055a29fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indystar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db04d0c9b1e9323cc9edabd4bc20d9e0",
+      "md5": "58e47278391e668190fa02085ad1c313",
       "summation": "md5"
     },
     {
       "name": "indystar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666938834",
-      "size": "602112",
-      "md5": "51663941cb9c2ede0c518599fc5d5136",
-      "crc32": "71c1d788",
-      "sha1": "c33f523dfbba35823934f24b8b238f44ad34b0cc",
+      "mtime": "1666975082",
+      "size": "606208",
+      "md5": "8f6d4c43fab498cfe146743f7bf43c0d",
+      "crc32": "9a4ff1a2",
+      "sha1": "6ff28cb7f92544a1f50c957e61ffa9cd8a6c7d3d",
       "format": "Metadata"
     },
     {
@@ -4744,14 +4795,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 459,
-  "indystar-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1666939864,
-  "item_size": 31989916,
+  "files_count": 464,
+  "item_last_updated": 1666975122,
+  "item_size": 32307792,
   "metadata": {
     "identifier": "indystar-2022",
     "collection": [
@@ -4768,10 +4814,21 @@
     "publicdate": "2022-09-20 17:30:24",
     "addeddate": "2022-09-20 17:30:24"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1877026905,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455295884,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 633813063,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

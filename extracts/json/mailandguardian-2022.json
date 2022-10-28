@@ -1,5 +1,5 @@
 {
-  "created": 1666940132,
+  "created": 1666977476,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/2/items/mailandguardian-2022",
@@ -8110,31 +8110,82 @@
       "sha1": "3b0d895c0c346d95bb8df898416c94da3663cd58"
     },
     {
+      "name": "mailandguardian-2022-10-28T18:41:24.874882+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975294",
+      "size": "36206",
+      "md5": "2038a8ab2902ad526ffeea42040c37f3",
+      "crc32": "4c597d5a",
+      "sha1": "42779f63f37dc01eb40a6543099fe32a1dc7d47b",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-28T18:41:24.874882+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975296",
+      "size": "27544",
+      "md5": "4bd0b72c8550cb68b1bd9e8773554e84",
+      "crc32": "b796a746",
+      "sha1": "093a1089a03a747e4c063172b17c42fb3580f25c",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-28T18:41:24.874882+02:00.jpg",
+      "source": "original",
+      "mtime": "1666975293",
+      "size": "283887",
+      "md5": "d03941e3bc200b65c3dff0b391fafe50",
+      "crc32": "4d338802",
+      "sha1": "1d48b58bfb782e85749accc3003990915c8a3ba1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mailandguardian-2022-10-28T18:41:24.874882+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975298",
+      "size": "1405",
+      "md5": "167ca7266d41f1813516a350c59e0add",
+      "crc32": "fb3712fc",
+      "sha1": "3c00c5ad504dedcb738f8b0bd8c98a74b8049110",
+      "format": "JSON"
+    },
+    {
+      "name": "mailandguardian-2022-10-28T18:41:24.874882+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975299",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "mailandguardian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ed3bbdc5288a65d9156ea164fe926a85a445bfe",
-      "mtime": "1666940096",
-      "size": "171577",
-      "md5": "fe9d1aae6bce6ca89a56fb55ba314931",
-      "crc32": "56a74884",
-      "sha1": "697656c6fb131fe28bcd73b5933fff78b03286c7",
+      "btih": "8e8985143325335dc5a36a2a1a5448d9c10f1041",
+      "mtime": "1666975352",
+      "size": "172673",
+      "md5": "63cc45d1614461a21f9fede97b069246",
+      "crc32": "de7e1cc2",
+      "sha1": "52ab7cdcc64a5306f291eff8f07147138939549a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailandguardian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9fa8d439c159f3aa3a5576661d4329cd",
+      "md5": "22f04c01f2d530b5a1b44924470257cf",
       "summation": "md5"
     },
     {
       "name": "mailandguardian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666939011",
-      "size": "1019904",
-      "md5": "0030ce6cd3d7bd7eb45b2c31df4396eb",
-      "crc32": "6442d97f",
-      "sha1": "85876c53ec4f980e82ce3d660834fc1156b44cbe",
+      "mtime": "1666975304",
+      "size": "1028096",
+      "md5": "52615d5baf5d00a3f2f2cfe70f54387d",
+      "crc32": "580e8120",
+      "sha1": "f73bafe9c61cfed17a1f3c524b8c21d982d6e886",
       "format": "Metadata"
     },
     {
@@ -8148,9 +8199,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 788,
-  "item_last_updated": 1666940096,
-  "item_size": 46594037,
+  "files_count": 793,
+  "item_last_updated": 1666975352,
+  "item_size": 46952569,
+  "mailandguardian-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "mailandguardian-2022",
     "collection": [
@@ -8167,10 +8223,21 @@
     "publicdate": "2022-08-22 22:03:42",
     "addeddate": "2022-08-22 22:03:42"
   },
+  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "uniq": 225822272,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455298518,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 98054823,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }
