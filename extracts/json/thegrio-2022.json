@@ -1,5 +1,5 @@
 {
-  "created": 1666946283,
+  "created": 1666982247,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/7/items/thegrio-2022",
@@ -10547,31 +10547,93 @@
       "format": "JSON"
     },
     {
+      "name": "thegrio-2022-10-28T04:36:48.715067-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegrio-2022-10-28T04:36:48.715067-04:00.jpg",
+      "mtime": "1666950488",
+      "size": "10496",
+      "md5": "3ac7a11cdae4734240e86353e4add0dd",
+      "crc32": "f731dedb",
+      "sha1": "1e227152243ea5c602c58e95e2cbd4a92c83a799"
+    },
+    {
+      "name": "thegrio-2022-10-28T14:36:14.716510-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982186",
+      "size": "22652",
+      "md5": "96b045807aa6cfbb526a71811a5d5e68",
+      "crc32": "ec1d0491",
+      "sha1": "3e7390fde54e7109b9930cf860b5cfa95f13d287",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-10-28T14:36:14.716510-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982188",
+      "size": "27354",
+      "md5": "f495c3b7404ec7c0c32777683378e074",
+      "crc32": "6ec563cb",
+      "sha1": "437b1ce8f5ff1b45ab21c6c714ae5e51041f4aaf",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-10-28T14:36:14.716510-04:00.jpg",
+      "source": "original",
+      "mtime": "1666982181",
+      "size": "249690",
+      "md5": "06a0ed8e451b0e0557ad35e2e7cd15d4",
+      "crc32": "52d8ee63",
+      "sha1": "5bceaef62f5257a11c0cbcd44e33133ef497ebb3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegrio-2022-10-28T14:36:14.716510-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982191",
+      "size": "1432",
+      "md5": "b3381db0afcbf1c2cdd6197cca9c2a64",
+      "crc32": "1c5d4383",
+      "sha1": "b6c5b02c778781d5581636d59fa6be2e1fd7ab5a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-10-28T14:36:14.716510-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982195",
+      "size": "69452",
+      "md5": "f750912956414a0fac9a5a03ff3c9a2d",
+      "crc32": "e3395d89",
+      "sha1": "268fd13e77f8e283e280d565b35a9a664e014ec9",
+      "format": "JSON"
+    },
+    {
       "name": "thegrio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb8a6ed5654f4e226244a771262617dda61b45fa",
-      "mtime": "1666946279",
-      "size": "214817",
-      "md5": "192d3f14a394680d873a900c0df92b2f",
-      "crc32": "6dd2b9cd",
-      "sha1": "50867b7809fe67ccf932b118b13d85b903cf18c1",
+      "btih": "3b60b2b41227d77a2a83b83d38b04803915746b7",
+      "mtime": "1666982241",
+      "size": "216079",
+      "md5": "d1eb1f0dc91de54b7e1c557b2dd38adc",
+      "crc32": "ebb5d6f8",
+      "sha1": "a47693269a8b170b06c690628508dccbbfa361ca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegrio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "598467461e5aaa975e8272e6c37b6ed8",
+      "md5": "454c916ad1f6906ddf1fc2b79259985e",
       "summation": "md5"
     },
     {
       "name": "thegrio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946235",
-      "size": "1302528",
-      "md5": "33972e83c2424db356ba6ee8ad24a77c",
-      "crc32": "3ebd47de",
-      "sha1": "30d64f5a595497379246e960121b6ae32e2eb52c",
+      "mtime": "1666982198",
+      "size": "1310720",
+      "md5": "f8f49b82e7214fcfc08d8cf69a51faf4",
+      "crc32": "1f4feba1",
+      "sha1": "c41512b1a873dd03440148a781177c171f2874f5",
       "format": "Metadata"
     },
     {
@@ -10585,9 +10647,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1024,
-  "item_last_updated": 1666946279,
-  "item_size": 63535643,
+  "files_count": 1030,
+  "item_last_updated": 1666982241,
+  "item_size": 63926173,
   "metadata": {
     "identifier": "thegrio-2022",
     "collection": [
@@ -10609,7 +10671,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454965750,
+      "task_id": 3455372112,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10617,7 +10679,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 445637225,
+  "uniq": 1627081229,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

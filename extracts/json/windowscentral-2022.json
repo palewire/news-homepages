@@ -1,5 +1,5 @@
 {
-  "created": 1666946444,
+  "created": 1666983887,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/20/items/windowscentral-2022",
@@ -11443,31 +11443,93 @@
       "format": "JSON"
     },
     {
+      "name": "windowscentral-2022-10-28T01:39:43.014982-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "windowscentral-2022-10-28T01:39:43.014982-07:00.jpg",
+      "mtime": "1666950678",
+      "size": "10432",
+      "md5": "1cd763f9fa075ecad93a328c3bfde6cb",
+      "crc32": "f7e9b8c9",
+      "sha1": "365ad8729da6ab72a7add32c10dfeb4810054fef"
+    },
+    {
+      "name": "windowscentral-2022-10-28T11:37:37.947905-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982261",
+      "size": "14655",
+      "md5": "c0f5ee72a53e3ba3bb46a0f856000cf8",
+      "crc32": "0e8f520b",
+      "sha1": "36f501505c9fbd462ef40fa37ea82fd1481aad4e",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-28T11:37:37.947905-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982263",
+      "size": "21019",
+      "md5": "045f8d71665befdb71c523a4f84257d3",
+      "crc32": "43543d0b",
+      "sha1": "181271636671cd38454991d3eeec01d29a2e8764",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-28T11:37:37.947905-07:00.jpg",
+      "source": "original",
+      "mtime": "1666982260",
+      "size": "262707",
+      "md5": "3533155aab69256fb06ab1dfe5d91955",
+      "crc32": "453b042e",
+      "sha1": "080ec9b71fb8506bcb59d6f3d933f2e2822b033e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "windowscentral-2022-10-28T11:37:37.947905-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982265",
+      "size": "1531",
+      "md5": "a876dbcfe0a30658a9cd034f53c9eb94",
+      "crc32": "9579797f",
+      "sha1": "cd86cdc8fd2b217da42bc0f6f3a3edda72a423ca",
+      "format": "JSON"
+    },
+    {
+      "name": "windowscentral-2022-10-28T11:37:37.947905-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982266",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "windowscentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "64b5ef513346ae312fd0cc2cc6fdba4c76973685",
-      "mtime": "1666946439",
-      "size": "240250",
-      "md5": "6f020f8c9eb82a398d9e667eeb6fc21f",
-      "crc32": "f39e618a",
-      "sha1": "2bfc8276dfeb8c006683e7b85ce627810b07d95d",
+      "btih": "7b0b4556a6a992f125142091658a4aa600069980",
+      "mtime": "1666982313",
+      "size": "241552",
+      "md5": "54a0c3e399af0322f2486f8f03595de1",
+      "crc32": "c5c41810",
+      "sha1": "f09d5b9dc051b13e53c61733b624bbca8ec615e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "windowscentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26e78cbca5b74c9a15309f7d5c218632",
+      "md5": "b46e3b7404c9e9ed29f0d78d577fb85a",
       "summation": "md5"
     },
     {
       "name": "windowscentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946396",
-      "size": "1425408",
-      "md5": "a0147436ca367a649495c8620c98d0b5",
-      "crc32": "37b9728d",
-      "sha1": "9affd2416ef09a8b25be238378e3293e557088a8",
+      "mtime": "1666982270",
+      "size": "1433600",
+      "md5": "c34e7b6b0340e4a1e8d019e244e10a1b",
+      "crc32": "31523cc0",
+      "sha1": "c14be57ef99128881cc14ac370704b960c9fd234",
       "format": "Metadata"
     },
     {
@@ -11481,9 +11543,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1110,
-  "item_last_updated": 1666946439,
-  "item_size": 63074366,
+  "files_count": 1116,
+  "item_last_updated": 1666982313,
+  "item_size": 63394406,
   "metadata": {
     "identifier": "windowscentral-2022",
     "collection": [
@@ -11505,7 +11567,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454967525,
+      "task_id": 3455372863,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11513,7 +11575,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 1973785149,
+  "uniq": 626486652,
+  "windowscentral-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

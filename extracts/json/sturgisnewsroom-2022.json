@@ -1,5 +1,5 @@
 {
-  "created": 1666946026,
+  "created": 1666982054,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/15/items/sturgisnewsroom-2022",
@@ -4717,31 +4717,93 @@
       "format": "JSON"
     },
     {
+      "name": "sturgisnewsroom-2022-10-28T04:32:54.623829-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sturgisnewsroom-2022-10-28T04:32:54.623829-04:00.jpg",
+      "mtime": "1666950734",
+      "size": "9553",
+      "md5": "492c42745fbbdb1fa559a7399005706b",
+      "crc32": "8bb382e4",
+      "sha1": "adcbe4fdcd5c5693c9e8a37000d49e6ee5b81bd1"
+    },
+    {
+      "name": "sturgisnewsroom-2022-10-28T14:33:09.677802-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981997",
+      "size": "23601",
+      "md5": "b104015a1671490752afda77307c57de",
+      "crc32": "b09c3fc6",
+      "sha1": "4673204aa92fc820c0f34023da9877b02b2c5979",
+      "format": "JSON"
+    },
+    {
+      "name": "sturgisnewsroom-2022-10-28T14:33:09.677802-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982000",
+      "size": "43699",
+      "md5": "acfac6f300b000aeba63a614aac2ec3a",
+      "crc32": "e8ed0770",
+      "sha1": "8be2209f236cf571f52e92afd61c00e01ae935b3",
+      "format": "JSON"
+    },
+    {
+      "name": "sturgisnewsroom-2022-10-28T14:33:09.677802-04:00.jpg",
+      "source": "original",
+      "mtime": "1666981994",
+      "size": "276204",
+      "md5": "2ec5c6950f5fae2342001eb442813ff8",
+      "crc32": "e6df5215",
+      "sha1": "ce238a30e6f0c62a61203d83715f2ea0cae087e6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sturgisnewsroom-2022-10-28T14:33:09.677802-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982001",
+      "size": "1531",
+      "md5": "e166d21eb525c2cc32a0aa7a8bdf7683",
+      "crc32": "bbecdcc9",
+      "sha1": "51a2c483d0576edee20bbb52fbc0c92bb7425834",
+      "format": "JSON"
+    },
+    {
+      "name": "sturgisnewsroom-2022-10-28T14:33:09.677802-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982003",
+      "size": "106240",
+      "md5": "ae90a738d1d5ac818c267febb096b887",
+      "crc32": "3b6d1c10",
+      "sha1": "7e7db7a68f22ff3b40c7136c6bda034b22d314c9",
+      "format": "JSON"
+    },
+    {
       "name": "sturgisnewsroom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b232cce45adead68e8a5cd086ab6ea97bf0e4cf9",
-      "mtime": "1666946023",
-      "size": "100700",
-      "md5": "5b144245745ad52d24f60bb1ce6b1df4",
-      "crc32": "bb61a043",
-      "sha1": "9505cb5bcdf246fcdc6f8f407d2d017299c18361",
+      "btih": "c8e4eea19555d8d3ea8ab9ad7a25e95c1c0ee19b",
+      "mtime": "1666982049",
+      "size": "102010",
+      "md5": "05ee60387c37511b9fd05b4597aa67b6",
+      "crc32": "19a41c23",
+      "sha1": "d92dd049ad83f300e8ee9f817ce7f72875da2bae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sturgisnewsroom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e2f55f723456f1f2a57a8fcdc57ed8c",
+      "md5": "6644f085e6e173581f0362ebd11d2a65",
       "summation": "md5"
     },
     {
       "name": "sturgisnewsroom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666945986",
-      "size": "602112",
-      "md5": "9f36ad81dd4fdb4d104b31d8357307de",
-      "crc32": "5b9b1ab0",
-      "sha1": "2524af9e38ea67b49eeb598ba601a5d383d1f715",
+      "mtime": "1666982008",
+      "size": "610304",
+      "md5": "6efaf06fbcf4075fe5f88fb1811e4e7f",
+      "crc32": "15846e00",
+      "sha1": "6e012d114afb77546fb58797646cdf0c75ee3a18",
       "format": "Metadata"
     },
     {
@@ -4755,9 +4817,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 460,
-  "item_last_updated": 1666946023,
-  "item_size": 32871796,
+  "files_count": 466,
+  "item_last_updated": 1666982049,
+  "item_size": 33342126,
   "metadata": {
     "identifier": "sturgisnewsroom-2022",
     "collection": [
@@ -4779,7 +4841,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454963027,
+      "task_id": 3455370290,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4787,7 +4849,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 446794008,
+  "uniq": 909480309,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666946313,
+  "created": 1666983751,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/35/items/timesofindia-2022",
@@ -11479,31 +11479,93 @@
       "format": "JSON"
     },
     {
+      "name": "timesofindia-2022-10-28T14:06:57.413285+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesofindia-2022-10-28T14:06:57.413285+05:30.jpg",
+      "mtime": "1666950520",
+      "size": "9215",
+      "md5": "a4c0abb29c440483defda8075bb41651",
+      "crc32": "65270206",
+      "sha1": "e3b8e62d0e763152dde5f55d6c9c5405635ea634"
+    },
+    {
+      "name": "timesofindia-2022-10-29T00:06:54.702511+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1666982225",
+      "size": "82091",
+      "md5": "3a4f24527d5db5f2cb3e587950041476",
+      "crc32": "bab39961",
+      "sha1": "411287ed74fb458a7b1dccb59837b396ea382d1b",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-10-29T00:06:54.702511+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982226",
+      "size": "854",
+      "md5": "98ca2a944e24ed79e642b8b89120a176",
+      "crc32": "e784e222",
+      "sha1": "8840f25f99cb4886645c23fcdfdf46aac2424560",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-10-29T00:06:54.702511+05:30.jpg",
+      "source": "original",
+      "mtime": "1666982223",
+      "size": "300409",
+      "md5": "f718475a3c6a1ec263c2a10fcd76ba30",
+      "crc32": "ba962a41",
+      "sha1": "9d0bde206a4f101842331674c6249a9b64f15597",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesofindia-2022-10-29T00:06:54.702511+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982228",
+      "size": "1516",
+      "md5": "7fafc7f984028f9dda6c662614e249bc",
+      "crc32": "24043f74",
+      "sha1": "e9a3b9b1643f0bdb2abf64bd569a1fea41ae548c",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-10-29T00:06:54.702511+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1666982230",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "timesofindia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd120b91c165aafc073a5698ab84611051bafe5e",
-      "mtime": "1666946305",
-      "size": "240771",
-      "md5": "6b7feeae54e79e459000397dfc3e82e7",
-      "crc32": "8e514a88",
-      "sha1": "942e1fde65debf1033a743f26b27398977eef7f8",
+      "btih": "1fed3ac5c745ff6761c03158f5a5281973a7ed64",
+      "mtime": "1666982295",
+      "size": "242038",
+      "md5": "4df3420abd728ccf33a749a1aa2729e6",
+      "crc32": "88525277",
+      "sha1": "855b86d9006efc08285568e5524e840a01b5e69a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesofindia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6e0ed74bfae0e2a002e0e79c2f82e3b3",
+      "md5": "b0706024c6bac489e5520fa2d1b32258",
       "summation": "md5"
     },
     {
       "name": "timesofindia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946250",
-      "size": "1421312",
-      "md5": "1b35e29909174762554d2ffb3bdcfb67",
-      "crc32": "fedeca44",
-      "sha1": "1c92efaf210234ea95848bc75c32ddf62e41c2fc",
+      "mtime": "1666982237",
+      "size": "1429504",
+      "md5": "99ae066df5401fb487f7efccb0e3d146",
+      "crc32": "7f403ca9",
+      "sha1": "e1a8738a57d53b01f703c7cecd5cd18df6ebfb37",
       "format": "Metadata"
     },
     {
@@ -11517,9 +11579,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1113,
-  "item_last_updated": 1666946305,
-  "item_size": 114552907,
+  "files_count": 1119,
+  "item_last_updated": 1666982295,
+  "item_size": 114956653,
   "metadata": {
     "identifier": "timesofindia-2022",
     "collection": [
@@ -11541,7 +11603,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454966115,
+      "task_id": 3455372763,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11549,7 +11611,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 1869542323,
+  "timesofindia-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2025467172,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

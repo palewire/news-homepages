@@ -1,5 +1,5 @@
 {
-  "created": 1666946038,
+  "created": 1666982078,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/startelegram-2022",
@@ -11925,31 +11925,83 @@
       "format": "JSON"
     },
     {
+      "name": "startelegram-2022-10-28T03:32:46.826213-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startelegram-2022-10-28T03:32:46.826213-05:00.jpg",
+      "mtime": "1666950742",
+      "size": "9539",
+      "md5": "d58072c75d9babee9ca3a38a659aed9a",
+      "crc32": "f4cfcb54",
+      "sha1": "0d949a75f16cfdd71172a7c8360fca5d08f710c7"
+    },
+    {
+      "name": "startelegram-2022-10-28T13:33:17.876582-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982001",
+      "size": "461",
+      "md5": "42d7a35a1055413dd342da9f5b1660f3",
+      "crc32": "056b1ae5",
+      "sha1": "731e33c9c6dd2397fb5b9d346474a59f71467dd9",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-10-28T13:33:17.876582-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982003",
+      "size": "39674",
+      "md5": "25362068745d0628b6a1dd05528c190b",
+      "crc32": "a335f3ec",
+      "sha1": "81bddf5c72ba74fe6ef77dab0b364a3bbc1a2509",
+      "format": "JSON"
+    },
+    {
+      "name": "startelegram-2022-10-28T13:33:17.876582-05:00.jpg",
+      "source": "original",
+      "mtime": "1666981999",
+      "size": "279678",
+      "md5": "a750cbb601fa052251c60424d0fb7858",
+      "crc32": "bf9f3c34",
+      "sha1": "2a5d6889a7e53e8a0bb35a86091ea8bb60168cc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "startelegram-2022-10-28T13:33:17.876582-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982007",
+      "size": "1519",
+      "md5": "d3d5e78e7547be73d7db45201f37e09c",
+      "crc32": "2b0a59ec",
+      "sha1": "f5f62124e825ff71c2afdd7127f60a2486d7cec2",
+      "format": "JSON"
+    },
+    {
       "name": "startelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e98ce5f479c6127f0274bc6a93edfdaca8d7b19f",
-      "mtime": "1666946033",
-      "size": "247582",
-      "md5": "051f7154a01cac1e1069352f8b5858bc",
-      "crc32": "a8e1ccf5",
-      "sha1": "177fa4e1420f94e89cd24af2a9d17788f3a7d257",
+      "btih": "0675b62f32b922f5641246ea9cc2221cdeb8fbde",
+      "mtime": "1666982068",
+      "size": "248659",
+      "md5": "19e6bf2b5861089f2277283932abbf19",
+      "crc32": "c75ec94b",
+      "sha1": "31a7d36f319cbcd217b0203b61da9dc1063ada89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "startelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88f9623ac623154a3d8d5eb7f2d4b989",
+      "md5": "88ec28776bdf8798c710f58efb0f63eb",
       "summation": "md5"
     },
     {
       "name": "startelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666945986",
-      "size": "1462272",
-      "md5": "88466aa3c78c8afaa0aae89b92162e1e",
-      "crc32": "1080877b",
-      "sha1": "97b851909b3eb167b26fad0e94c42f863cbb8eb5",
+      "mtime": "1666982015",
+      "size": "1470464",
+      "md5": "d5275882033a9c25903e42586ad88e8c",
+      "crc32": "437bac3f",
+      "sha1": "0a92373aab5a15a996494cda00ccd34f2c108820",
       "format": "Metadata"
     },
     {
@@ -11963,9 +12015,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1155,
-  "item_last_updated": 1666946033,
-  "item_size": 76067034,
+  "files_count": 1160,
+  "item_last_updated": 1666982068,
+  "item_size": 76407174,
   "metadata": {
     "identifier": "startelegram-2022",
     "collection": [
@@ -11987,7 +12039,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454963157,
+      "task_id": 3455370510,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11995,7 +12047,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 410419831,
+  "uniq": 756262471,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

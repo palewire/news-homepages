@@ -1,5 +1,5 @@
 {
-  "created": 1666946077,
+  "created": 1666982143,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/techcrunch-2022",
@@ -16059,31 +16059,93 @@
       "format": "JSON"
     },
     {
+      "name": "techcrunch-2022-10-28T01:32:53.690874-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techcrunch-2022-10-28T01:32:53.690874-07:00.jpg",
+      "mtime": "1666950356",
+      "size": "8325",
+      "md5": "3b878d67aa78e1503cca3d95d201e490",
+      "crc32": "23940fef",
+      "sha1": "d10e5786456b9ab6626e986c3bf61fc91b6a59d2"
+    },
+    {
+      "name": "techcrunch-2022-10-28T11:34:00.189921-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982048",
+      "size": "33173",
+      "md5": "6cdc65815830e4c77c166a0318c7fc20",
+      "crc32": "c5f9c820",
+      "sha1": "2ba848f63d39697cb397de4dd700680a942a9efb",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-28T11:34:00.189921-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982051",
+      "size": "14001",
+      "md5": "e9b0631b6e4fadfc998068b7a29df3fc",
+      "crc32": "e4b84629",
+      "sha1": "356f9fd8921ea0dbfebf7cd66eaa83d9cddf67c3",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-28T11:34:00.189921-07:00.jpg",
+      "source": "original",
+      "mtime": "1666982046",
+      "size": "218493",
+      "md5": "8f5e26173e22dc5cb1f79d14ac455849",
+      "crc32": "80e995b7",
+      "sha1": "af2cc1f7182cf27f8d044af5c0a75203bc8f806d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-10-28T11:34:00.189921-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982054",
+      "size": "1456",
+      "md5": "fe3aa68db757a949db58e70e6e300bad",
+      "crc32": "833ef26b",
+      "sha1": "ffd8b9c85c861f783cdade8037c7e1ed80aeaa1f",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-28T11:34:00.189921-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982058",
+      "size": "31841",
+      "md5": "8c44966ed76ebddacf4c3537ee9d0b81",
+      "crc32": "811ec1b3",
+      "sha1": "4acbec705c1d67c904c73c994ad80a6a97b573ec",
+      "format": "JSON"
+    },
+    {
       "name": "techcrunch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "71a449d20387cd55ecc2c5e5da76efbbc25c9803",
-      "mtime": "1666946064",
-      "size": "328980",
-      "md5": "17ecf8c7c4c634350c42c49c6bb84a4e",
-      "crc32": "4520187b",
-      "sha1": "e088faef016d11bcb33b92bada642de9e19ae6a4",
+      "btih": "579921f9e23336787ad27862ec29a28a2e07b7ce",
+      "mtime": "1666982134",
+      "size": "330259",
+      "md5": "6285fc592705472a3388b876a0f23827",
+      "crc32": "a0f753c3",
+      "sha1": "3065d58e3d9a382611a8196e0dc3974b68e7798c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techcrunch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7ff723e00aea6f55aa745a863f57d9cd",
+      "md5": "67195f56411a44ec6c54911d9df13b65",
       "summation": "md5"
     },
     {
       "name": "techcrunch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666945997",
-      "size": "1921024",
-      "md5": "1928362555dff9b51fb76d553a8df07b",
-      "crc32": "7c5c9ea6",
-      "sha1": "2693ff12b8017a5c1d7926a879dcf27fcb341610",
+      "mtime": "1666982063",
+      "size": "1925120",
+      "md5": "e0f112c05f840080cefd0faceadfd37a",
+      "crc32": "df306090",
+      "sha1": "79fba551dea213cc5e136708feb136f730408fa8",
       "format": "Metadata"
     },
     {
@@ -16097,9 +16159,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1550,
-  "item_last_updated": 1666946064,
-  "item_size": 91874914,
+  "files_count": 1556,
+  "item_last_updated": 1666982134,
+  "item_size": 92187578,
   "metadata": {
     "identifier": "techcrunch-2022",
     "collection": [
@@ -16121,7 +16183,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454963544,
+      "task_id": 3455371119,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -16129,7 +16191,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2054001345,
+  "uniq": 1705523322,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

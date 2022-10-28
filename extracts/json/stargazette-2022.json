@@ -1,5 +1,5 @@
 {
-  "created": 1666946040,
+  "created": 1666982065,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/stargazette-2022",
@@ -4687,31 +4687,93 @@
       "format": "JSON"
     },
     {
+      "name": "stargazette-2022-10-28T04:33:03.286116-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stargazette-2022-10-28T04:33:03.286116-04:00.jpg",
+      "mtime": "1666950331",
+      "size": "8824",
+      "md5": "8388bde743281091a9bef12c7674c196",
+      "crc32": "d38b5765",
+      "sha1": "cdb64cfe2ddcd36d92685b58212da392335d9c3b"
+    },
+    {
+      "name": "stargazette-2022-10-28T14:33:24.787381-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982009",
+      "size": "23169",
+      "md5": "7f8f1b0ed0c1260225068ae704253b7e",
+      "crc32": "d05eb92f",
+      "sha1": "61d7285ac1660a359bf0c01d0cc02b49e14c18e5",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-28T14:33:24.787381-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982010",
+      "size": "43770",
+      "md5": "211e6f00e0d5738acadc1888fbf03a1b",
+      "crc32": "4d749843",
+      "sha1": "3b4634f82e6f8e068ac0c3a2cad8fffd39fc3724",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-28T14:33:24.787381-04:00.jpg",
+      "source": "original",
+      "mtime": "1666982007",
+      "size": "281387",
+      "md5": "b7a0cb8ece1d5763a4d6c923555f2f8a",
+      "crc32": "56ae0119",
+      "sha1": "a0626b3aeac52ad41f6dd37a714db8641064128a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stargazette-2022-10-28T14:33:24.787381-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982012",
+      "size": "1504",
+      "md5": "2dcd9d3aee132b680f39f8697d509427",
+      "crc32": "dd58ff82",
+      "sha1": "a37284568560477f81f5aab64e0728aec18af9f3",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-10-28T14:33:24.787381-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982014",
+      "size": "81679",
+      "md5": "38cd0e7c6f200c5b90a55bb43136171f",
+      "crc32": "8b3d807f",
+      "sha1": "89befd9bdc17cf2398701e17e9fa18bd88e48115",
+      "format": "JSON"
+    },
+    {
       "name": "stargazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "45025c3dc09b00405e66a65cfda3c3cfb2e2db08",
-      "mtime": "1666946037",
-      "size": "98173",
-      "md5": "f94c0c7df901adaf4e7d4513a5314f89",
-      "crc32": "21320cdd",
-      "sha1": "db7e85a6ae62fc785b5d9b71007cbf74efbac3f0",
+      "btih": "03f63dd0f35f2d597528a4ff57c8f010def719ef",
+      "mtime": "1666982061",
+      "size": "99458",
+      "md5": "2e2ba9b09958250007d0d8f9c24bcc7d",
+      "crc32": "f3281fc3",
+      "sha1": "8a454a3e5301ed30a33a9dd4527752c34f8be2a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stargazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a535f5b6fa7b0bff54e2f44271d1bb7",
+      "md5": "e403f232960ab2908214cf56486859ec",
       "summation": "md5"
     },
     {
       "name": "stargazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666945995",
-      "size": "598016",
-      "md5": "3a59529aaf356458533286afff6083e6",
-      "crc32": "a39c092d",
-      "sha1": "4fe09248dfa8b8c8eb28b51d0ec54607c6807c61",
+      "mtime": "1666982020",
+      "size": "606208",
+      "md5": "233f8e22a295d49e94f7e93ba194132c",
+      "crc32": "9959aaa9",
+      "sha1": "70356020cd5be817d28e909c3e77e35ddeef51ae",
       "format": "Metadata"
     },
     {
@@ -4725,9 +4787,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 457,
-  "item_last_updated": 1666946037,
-  "item_size": 32327769,
+  "files_count": 463,
+  "item_last_updated": 1666982061,
+  "item_size": 32777579,
   "metadata": {
     "identifier": "stargazette-2022",
     "collection": [
@@ -4749,7 +4811,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454963173,
+      "task_id": 3455370399,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4757,7 +4819,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1316800902,
+  "uniq": 1187067129,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

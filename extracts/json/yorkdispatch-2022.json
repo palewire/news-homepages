@@ -1,5 +1,5 @@
 {
-  "created": 1666946677,
+  "created": 1666982493,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/yorkdispatch-2022",
@@ -11619,31 +11619,93 @@
       "format": "JSON"
     },
     {
+      "name": "yorkdispatch-2022-10-28T04:43:13.237922-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yorkdispatch-2022-10-28T04:43:13.237922-04:00.jpg",
+      "mtime": "1666951012",
+      "size": "9126",
+      "md5": "2255add2a76c8d86223543332bb641fe",
+      "crc32": "f9b5cf58",
+      "sha1": "5b36634fb67cd892f08220517f4d734eaeba4341"
+    },
+    {
+      "name": "yorkdispatch-2022-10-28T14:39:54.837399-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982405",
+      "size": "19988",
+      "md5": "9517ece6ad5700632996d086c6d16e3d",
+      "crc32": "a819ac94",
+      "sha1": "1d20fe93e995491a37b706a6a5c1c5ad0c7502ba",
+      "format": "JSON"
+    },
+    {
+      "name": "yorkdispatch-2022-10-28T14:39:54.837399-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982407",
+      "size": "26549",
+      "md5": "b74a01d455eb78e7d1517728d77cc8eb",
+      "crc32": "b56ab0b6",
+      "sha1": "2504500d34c8619eb520f37345d7d116c29ee772",
+      "format": "JSON"
+    },
+    {
+      "name": "yorkdispatch-2022-10-28T14:39:54.837399-04:00.jpg",
+      "source": "original",
+      "mtime": "1666982401",
+      "size": "257044",
+      "md5": "dcb8d15b1e45e396d2d2937b74afeba6",
+      "crc32": "cf060d82",
+      "sha1": "094b38bcef78dbb73bf70c0e243f9a2eeb22fe88",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yorkdispatch-2022-10-28T14:39:54.837399-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982409",
+      "size": "1512",
+      "md5": "23392c7e31274d954d0f166b4b2a5155",
+      "crc32": "f2e5bf7f",
+      "sha1": "06824557518c79ecfdc8d177778fff183c18c337",
+      "format": "JSON"
+    },
+    {
+      "name": "yorkdispatch-2022-10-28T14:39:54.837399-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982413",
+      "size": "79375",
+      "md5": "9769b548c0c4c1abb80b6a957fa708c8",
+      "crc32": "6bcb594e",
+      "sha1": "c2ef2100dec1db797649266e8a238677702e4e07",
+      "format": "JSON"
+    },
+    {
       "name": "yorkdispatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "be5760d2e7fee2aaf7b93532f5b8b15359c517a1",
-      "mtime": "1666946669",
-      "size": "242197",
-      "md5": "17baa724d1c39406f4d809d47c07e4a9",
-      "crc32": "d0d2dd0d",
-      "sha1": "aada7d470b3439014c2e30dfc589adca482d541d",
+      "btih": "6a10f6659369162bfb543eb20c882db69b8a75b1",
+      "mtime": "1666982485",
+      "size": "243488",
+      "md5": "817f99e621d48c2f705af981aaec6667",
+      "crc32": "eab7b9ce",
+      "sha1": "329cb87ab5dffc23ad1534539084657725ac30c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yorkdispatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e91acf437d3e3ff076aaa776b5864cd4",
+      "md5": "034dd5336bb4a0082fa780469cff4860",
       "summation": "md5"
     },
     {
       "name": "yorkdispatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946619",
-      "size": "1441792",
-      "md5": "0f14dd790915243915be0e76da147aab",
-      "crc32": "4eb13ac4",
-      "sha1": "5c49326f705334c0dbb552068b47f43491683768",
+      "mtime": "1666982424",
+      "size": "1445888",
+      "md5": "8e8c049317d1f76cf220738206e8379a",
+      "crc32": "16d07f80",
+      "sha1": "4ebc8123a924ac2d7b1aaf5740d6d35a1b639bed",
       "format": "Metadata"
     },
     {
@@ -11657,9 +11719,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1127,
-  "item_last_updated": 1666946669,
-  "item_size": 76472607,
+  "files_count": 1133,
+  "item_last_updated": 1666982485,
+  "item_size": 76871588,
   "metadata": {
     "identifier": "yorkdispatch-2022",
     "collection": [
@@ -11681,7 +11743,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454970667,
+      "task_id": 3455374504,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11689,7 +11751,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 617661334,
+  "uniq": 1054393567,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

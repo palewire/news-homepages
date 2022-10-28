@@ -1,5 +1,5 @@
 {
-  "created": 1666946196,
+  "created": 1666982241,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/17/items/the_ccij-2022",
@@ -7715,31 +7715,93 @@
       "format": "JSON"
     },
     {
+      "name": "the_ccij-2022-10-28T03:33:31.857914-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_ccij-2022-10-28T03:33:31.857914-05:00.jpg",
+      "mtime": "1666950443",
+      "size": "9442",
+      "md5": "dcb97141748fcc475e44126a5bd735e7",
+      "crc32": "6e6b57ed",
+      "sha1": "142aca78f59fe0f636a3f8ba0acff381018182bd"
+    },
+    {
+      "name": "the_ccij-2022-10-28T13:35:39.161134-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982153",
+      "size": "38969",
+      "md5": "6aee6d96783055102cc7265eb5744b91",
+      "crc32": "7ba8c1dc",
+      "sha1": "099a38e3fd0a939c97bb6890f2f1c0d7434aab61",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-28T13:35:39.161134-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982155",
+      "size": "15470",
+      "md5": "9c2f79c8e1d210927a0e81f7f5a8f3d6",
+      "crc32": "0e9343a8",
+      "sha1": "36a09a826cbc350e888b5ebd69daac6e4d03a476",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-28T13:35:39.161134-05:00.jpg",
+      "source": "original",
+      "mtime": "1666982151",
+      "size": "353390",
+      "md5": "7ad8e9f91447e54933f35ae3d17e3eeb",
+      "crc32": "382b2f1c",
+      "sha1": "2ae31e36953d1209928c72a2fc08fc344b82a6d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "the_ccij-2022-10-28T13:35:39.161134-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982157",
+      "size": "1531",
+      "md5": "93e92ecd529df4c967dbe2c375475b79",
+      "crc32": "5dcca917",
+      "sha1": "a4ddae9459a120cd69fbb1c50742a1f3a36fb0d9",
+      "format": "JSON"
+    },
+    {
+      "name": "the_ccij-2022-10-28T13:35:39.161134-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982158",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "the_ccij-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f8e3ee129977629c113ec993633753ae60c74b9",
-      "mtime": "1666946149",
-      "size": "158404",
-      "md5": "32ab71e7bffd539995536d6913db96e0",
-      "crc32": "93cefb76",
-      "sha1": "c6e397f958c684831b645b724a858f6602ee11ee",
+      "btih": "04fc884e720e84e98ae1a67e50a7c20311399644",
+      "mtime": "1666982231",
+      "size": "159669",
+      "md5": "74ec0f9410d12861b0084e4d6e75104c",
+      "crc32": "e88d4456",
+      "sha1": "ef81d8b1ebaf66024492dc27cef791cfae4d8c73",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_ccij-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aa3a66c10ca3385f64a9b002313f6c2d",
+      "md5": "41f586c31338e1ca38b9d58661c2ad14",
       "summation": "md5"
     },
     {
       "name": "the_ccij-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946085",
-      "size": "962560",
-      "md5": "41de0e76cc3f5ca1f99ee3b96f1a9c16",
-      "crc32": "09654f38",
-      "sha1": "487c7b7a30347db1d5830e108cb9bd1987a07cf5",
+      "mtime": "1666982182",
+      "size": "970752",
+      "md5": "a90e96c89baf3047441de61f496fdfa8",
+      "crc32": "8caad6bc",
+      "sha1": "4839ddfb742345deb88e197b4fe573c09bb433a7",
       "format": "Metadata"
     },
     {
@@ -7753,9 +7815,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 750,
-  "item_last_updated": 1666946149,
-  "item_size": 53461711,
+  "files_count": 756,
+  "item_last_updated": 1666982231,
+  "item_size": 53890172,
   "metadata": {
     "identifier": "the_ccij-2022",
     "collection": [
@@ -7777,7 +7839,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454964960,
+      "task_id": 3455372033,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7785,7 +7847,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 723850365,
+  "uniq": 1662325156,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

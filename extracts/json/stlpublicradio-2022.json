@@ -1,5 +1,5 @@
 {
-  "created": 1666946070,
+  "created": 1666982043,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/7/items/stlpublicradio-2022",
@@ -12857,31 +12857,93 @@
       "format": "JSON"
     },
     {
+      "name": "stlpublicradio-2022-10-28T03:33:19.519368-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stlpublicradio-2022-10-28T03:33:19.519368-05:00.jpg",
+      "mtime": "1666950186",
+      "size": "10964",
+      "md5": "12ba56aaa2d20b96d947594feb430e50",
+      "crc32": "40855b22",
+      "sha1": "1780395f4b73c4caee69f379a4904ef761748ac9"
+    },
+    {
+      "name": "stlpublicradio-2022-10-28T13:32:52.393326-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981982",
+      "size": "20933",
+      "md5": "cf465f912942b9b2ee8b2c6d0167af60",
+      "crc32": "1a0629a5",
+      "sha1": "659c8d7367d7fbf18ed57acea74135eee1e3b619",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-10-28T13:32:52.393326-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981983",
+      "size": "45759",
+      "md5": "0bf2809727179e877de6db33b6b42d7d",
+      "crc32": "1fd240cc",
+      "sha1": "61734734d929a3ccf3c0506ea9d79e18d46c0293",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-10-28T13:32:52.393326-05:00.jpg",
+      "source": "original",
+      "mtime": "1666981980",
+      "size": "254358",
+      "md5": "d425c17825a21352903dce614c91fbb4",
+      "crc32": "7aedab02",
+      "sha1": "780b30e3951dd787d278eb420c53380dfc3f1fdb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stlpublicradio-2022-10-28T13:32:52.393326-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981985",
+      "size": "1540",
+      "md5": "fec8cdb26e26e9852e35695cd1d0a55d",
+      "crc32": "a53f72c9",
+      "sha1": "9d85190eda901718af048ea0dd35484b8a58b223",
+      "format": "JSON"
+    },
+    {
+      "name": "stlpublicradio-2022-10-28T13:32:52.393326-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981987",
+      "size": "28568",
+      "md5": "8dd6e17029ae795e955623e265516235",
+      "crc32": "1ffeb67c",
+      "sha1": "68c3b3df036778a0ab8ec820c6c761b68a324573",
+      "format": "JSON"
+    },
+    {
       "name": "stlpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "138ef46696523da9e02bf7fdbe7f7333431107d3",
-      "mtime": "1666946067",
-      "size": "270201",
-      "md5": "44322399179628324a475a90bfa4cc92",
-      "crc32": "517d0686",
-      "sha1": "72f62d8f78058007cf2e3ac8643d450350e49c0c",
+      "btih": "808f6b154bac86301692d7f6e5487538cdad88a3",
+      "mtime": "1666982038",
+      "size": "271505",
+      "md5": "5d403010219bfe504028950e3fe70b8e",
+      "crc32": "029168d9",
+      "sha1": "23b00b7857d9f8c5d7adae0220a61f13409cf114",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stlpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc81452e7656eefceece9e40e52e8d6c",
+      "md5": "6d0e1929ab3336418d1c631f7268e59c",
       "summation": "md5"
     },
     {
       "name": "stlpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946019",
-      "size": "1576960",
-      "md5": "aac63bb42ca37626528d8cdcb0147ae7",
-      "crc32": "3fee0897",
-      "sha1": "b413e7a37f19c156702b5f1afeb54ea21964dbb1",
+      "mtime": "1666981992",
+      "size": "1593344",
+      "md5": "1c83cb7fea26b1e749748ff626f693b5",
+      "crc32": "b8206f78",
+      "sha1": "24d63a68dcc1ba079053beb93c477524bd7a14c2",
       "format": "Metadata"
     },
     {
@@ -12895,9 +12957,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1245,
-  "item_last_updated": 1666946067,
-  "item_size": 87126815,
+  "files_count": 1251,
+  "item_last_updated": 1666982038,
+  "item_size": 87506625,
   "metadata": {
     "identifier": "stlpublicradio-2022",
     "collection": [
@@ -12919,7 +12981,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454963474,
+      "task_id": 3455370153,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12927,7 +12989,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 619237180,
+  "uniq": 1317520813,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

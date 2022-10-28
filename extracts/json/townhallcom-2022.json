@@ -1,5 +1,5 @@
 {
-  "created": 1666946260,
+  "created": 1666982232,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/31/items/townhallcom-2022",
@@ -17743,31 +17743,93 @@
       "format": "JSON"
     },
     {
+      "name": "townhallcom-2022-10-28T04:36:21.207184-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "townhallcom-2022-10-28T04:36:21.207184-04:00.jpg",
+      "mtime": "1666950436",
+      "size": "10579",
+      "md5": "6061be392ac898b7381e6de37e987f01",
+      "crc32": "474abea1",
+      "sha1": "8120b712e0c0d99236094a35aa7a261bd1c7ab4d"
+    },
+    {
+      "name": "townhallcom-2022-10-28T14:35:50.447921-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982154",
+      "size": "43547",
+      "md5": "eda406e4c1f929d80db9049b786b2bb9",
+      "crc32": "1a02b30c",
+      "sha1": "6f7bee5bb54e3140642b232f842a59ff60be0590",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-28T14:35:50.447921-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982156",
+      "size": "40140",
+      "md5": "7f0fd90549dbc9b550022168f7c27ee3",
+      "crc32": "726f5dae",
+      "sha1": "12ea336b113c8cf0b1fe0a25aaccf4ac8e598c0a",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-28T14:35:50.447921-04:00.jpg",
+      "source": "original",
+      "mtime": "1666982152",
+      "size": "305595",
+      "md5": "bddb2a9884030154bf12a02d5f72e6e1",
+      "crc32": "3a4185bf",
+      "sha1": "5f8e1fc4e218364d28ca68bb15597f78717c4ee0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "townhallcom-2022-10-28T14:35:50.447921-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982158",
+      "size": "1441",
+      "md5": "4a618d98af4b79e455b4c940d667f30d",
+      "crc32": "e8d0ffb0",
+      "sha1": "80883f875a3ecab1de802828683b035da502436c",
+      "format": "JSON"
+    },
+    {
+      "name": "townhallcom-2022-10-28T14:35:50.447921-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982160",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "townhallcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a3fe13f86531d154818a7b5de466e53e3c085ac",
-      "mtime": "1666946253",
-      "size": "366824",
-      "md5": "a3b12a2128bd4c6b2a57309827e2810a",
-      "crc32": "6c37a323",
-      "sha1": "d9bb635daac4a076a775dd22561b1500270a9d93",
+      "btih": "f4518d8e99512c5214698ee85f0b89cafa5adb03",
+      "mtime": "1666982224",
+      "size": "368088",
+      "md5": "4265ab08ae7737ec6f9f1d1bf31621d1",
+      "crc32": "503a0adb",
+      "sha1": "1550f7c1d78a86bf715837aa4cb82c2c0fc8cee0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "townhallcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b5b29576f2504874efee41eb8b44b57f",
+      "md5": "1f03e8119fbb96d69451a4761fb9ef92",
       "summation": "md5"
     },
     {
       "name": "townhallcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946195",
-      "size": "2179072",
-      "md5": "07c9b94c256479a9350eb29a07941e54",
-      "crc32": "ad40db1a",
-      "sha1": "90d869029f68be0d6980d9dba8907f0a52cc68f3",
+      "mtime": "1666982165",
+      "size": "2187264",
+      "md5": "7df24634ac1a39c2e09ab561debd3f34",
+      "crc32": "9a9372cc",
+      "sha1": "aee2457cffa6e557743dda3ccaafb9d6973e08df",
       "format": "Metadata"
     },
     {
@@ -17781,9 +17843,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1718,
-  "item_last_updated": 1666946253,
-  "item_size": 111097986,
+  "files_count": 1724,
+  "item_last_updated": 1666982224,
+  "item_size": 111508946,
   "metadata": {
     "identifier": "townhallcom-2022",
     "collection": [
@@ -17805,15 +17867,55 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454965517,
+      "task_id": 3455371956,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3455383444,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3455383482,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3455383514,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3455383540,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3455383576,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1516965729,
+  "uniq": 293057362,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

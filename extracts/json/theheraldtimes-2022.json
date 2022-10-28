@@ -1,5 +1,5 @@
 {
-  "created": 1666946236,
+  "created": 1666982193,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/13/items/theheraldtimes-2022",
@@ -4695,31 +4695,83 @@
       "format": "JSON"
     },
     {
+      "name": "theheraldtimes-2022-10-28T04:36:13.762948-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theheraldtimes-2022-10-28T04:36:13.762948-04:00.jpg",
+      "mtime": "1666950598",
+      "size": "9216",
+      "md5": "6db1834afc0b3b41bf333a3dc0214571",
+      "crc32": "bffdaaf3",
+      "sha1": "7feb74f48e4ad7e07bc574c9cea46cde5aec3229"
+    },
+    {
+      "name": "theheraldtimes-2022-10-28T14:35:26.787064-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982134",
+      "size": "26612",
+      "md5": "622d34a5a7249cfbca23f585f7b77a60",
+      "crc32": "f17c545c",
+      "sha1": "46395dac440474f4fa16e85be53c74390a42ae7b",
+      "format": "JSON"
+    },
+    {
+      "name": "theheraldtimes-2022-10-28T14:35:26.787064-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982136",
+      "size": "48641",
+      "md5": "f8be429cfd2e45c769873e00f9c0e3f9",
+      "crc32": "9389f13c",
+      "sha1": "521d23034bd19fb8afe6ce421246a20b926ef03b",
+      "format": "JSON"
+    },
+    {
+      "name": "theheraldtimes-2022-10-28T14:35:26.787064-04:00.jpg",
+      "source": "original",
+      "mtime": "1666982132",
+      "size": "277327",
+      "md5": "3eaeb5bca8bf2d83e24695a9f2016fca",
+      "crc32": "42586726",
+      "sha1": "8ea64f44477927e64bf30e0580199065eac023db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theheraldtimes-2022-10-28T14:35:26.787064-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982138",
+      "size": "1557",
+      "md5": "b4ff056dfa737af4dddc5a8f3b53cc23",
+      "crc32": "c24154a5",
+      "sha1": "094c8b16128852b0987d1809f69fd9c98342713f",
+      "format": "JSON"
+    },
+    {
       "name": "theheraldtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a3fd42b1f03724bc082abf20c1361b46257ecee",
-      "mtime": "1666946229",
-      "size": "99720",
-      "md5": "e593419ba7215b974d7e0b98f6d69c31",
-      "crc32": "fa3547b8",
-      "sha1": "d39c04c0e0cfa8ab476944e0e04af84cbfa341de",
+      "btih": "a87fb00d7b7d4cfc1129053e38d9485caa8b5940",
+      "mtime": "1666982184",
+      "size": "100809",
+      "md5": "cd5730448510a6a54185252f32b70459",
+      "crc32": "14fd4209",
+      "sha1": "2632601e84c4c28813d73fd6e264e0acbc3f5337",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theheraldtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d1176a998bbea64e272cd103c8af5bbc",
+      "md5": "328547b9711f0d544c1f8f91f83b6c5c",
       "summation": "md5"
     },
     {
       "name": "theheraldtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946187",
-      "size": "602112",
-      "md5": "0c71eae9fd9423045a016b075b8e3bdc",
-      "crc32": "2ca24397",
-      "sha1": "2e0e7333216c24a6857fcbd5b9433eb89ba86286",
+      "mtime": "1666982143",
+      "size": "606208",
+      "md5": "83b1eafaac8ff4a2b5b541b0fb3e3c8b",
+      "crc32": "ee61ddf2",
+      "sha1": "bf387e006bf14f258592ddc8f3baca560295f191",
       "format": "Metadata"
     },
     {
@@ -4733,9 +4785,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 458,
-  "item_last_updated": 1666946229,
-  "item_size": 31479956,
+  "files_count": 463,
+  "item_last_updated": 1666982184,
+  "item_size": 31848494,
   "metadata": {
     "identifier": "theheraldtimes-2022",
     "collection": [
@@ -4757,7 +4809,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454965282,
+      "task_id": 3455371567,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4765,7 +4817,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1834096171,
+  "uniq": 2074285952,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

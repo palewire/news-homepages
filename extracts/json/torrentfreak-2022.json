@@ -1,5 +1,5 @@
 {
-  "created": 1666946364,
+  "created": 1666982319,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/24/items/torrentfreak-2022",
@@ -11513,31 +11513,93 @@
       "format": "JSON"
     },
     {
+      "name": "torrentfreak-2022-10-28T01:36:19.349626-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torrentfreak-2022-10-28T01:36:19.349626-07:00.jpg",
+      "mtime": "1666951109",
+      "size": "9775",
+      "md5": "3e10fda7756063b018ea59bfd4a5f642",
+      "crc32": "529626f8",
+      "sha1": "a2abc0a54798ad2254ee3422854febc2dfcf37f2"
+    },
+    {
+      "name": "torrentfreak-2022-10-28T11:37:08.896978-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982248",
+      "size": "6924",
+      "md5": "14546218c21fd336ba73c896973285c5",
+      "crc32": "b7b7bc7a",
+      "sha1": "a034f5b1cce104adc779d680c42ea4d2600c4628",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-10-28T11:37:08.896978-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982250",
+      "size": "8498",
+      "md5": "c4d270b6905f9c891f380e02b0357d5b",
+      "crc32": "a2b83e66",
+      "sha1": "581c9086ac9202af9ff163d5ac8d09fb0dbed91e",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-10-28T11:37:08.896978-07:00.jpg",
+      "source": "original",
+      "mtime": "1666982246",
+      "size": "258707",
+      "md5": "e697adcc20bced02ab8505eafed57cbb",
+      "crc32": "b2653495",
+      "sha1": "45b118bc7363754903a0403d28b5fbeb5f2309cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torrentfreak-2022-10-28T11:37:08.896978-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982252",
+      "size": "1468",
+      "md5": "f125f88200ea58384daacbe24028a881",
+      "crc32": "7166b066",
+      "sha1": "c1f81d902f5ea1eb670d49bfbf398be5729bc111",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-10-28T11:37:08.896978-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982254",
+      "size": "6229",
+      "md5": "734755fb5e2631e98ed23de277cea8af",
+      "crc32": "a62bd550",
+      "sha1": "770608d6fe0c95afa6adb4d4d8fbaf6e09b67a0a",
+      "format": "JSON"
+    },
+    {
       "name": "torrentfreak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "935471e2a01189ba83491e1090481cd012e4a6a0",
-      "mtime": "1666946337",
-      "size": "238818",
-      "md5": "a7e3f557b3d4288c98b62e986cb5b52c",
-      "crc32": "439e4a07",
-      "sha1": "c0f68611d45ff0355aa2d442fdcf07371fe68739",
+      "btih": "7336628c70cc19c53ec3dc2cefd19bd04388c72d",
+      "mtime": "1666982312",
+      "size": "240106",
+      "md5": "df47ee87bf7ea5c3413ba1cbde1a8669",
+      "crc32": "080b97c0",
+      "sha1": "c0cacc1d12e79c342239720fed14f8c1cb01a1f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torrentfreak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "963e96f2a17ea43158f0f8f608d0e086",
+      "md5": "1efbb5fdbc1bc5f43b683f7ca1afbd5a",
       "summation": "md5"
     },
     {
       "name": "torrentfreak-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666946283",
-      "size": "1429504",
-      "md5": "c22850b3a565625a4eec7396b442298d",
-      "crc32": "df80d4f3",
-      "sha1": "2a20adf0b9419612e3b182e2c5e94968cf233013",
+      "mtime": "1666982260",
+      "size": "1437696",
+      "md5": "685d4e7a098464201d164a1c76938de3",
+      "crc32": "cbeb3ce2",
+      "sha1": "f289070b14a9db5fd836475b6689c25478692001",
       "format": "Metadata"
     },
     {
@@ -11551,9 +11613,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1117,
-  "item_last_updated": 1666946337,
-  "item_size": 57904310,
+  "files_count": 1123,
+  "item_last_updated": 1666982312,
+  "item_size": 58205391,
   "metadata": {
     "identifier": "torrentfreak-2022",
     "collection": [
@@ -11575,7 +11637,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454966763,
+      "task_id": 3455372879,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11583,7 +11645,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 145116826,
+  "uniq": 1163700412,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]
