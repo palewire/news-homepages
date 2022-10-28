@@ -1,5 +1,5 @@
 {
-  "created": 1666913277,
+  "created": 1666954368,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/34/items/3newsnowomaha-2022",
@@ -10719,31 +10719,82 @@
       "sha1": "0cab7b64d37db8fa1e6be73b6242081c3cca2256"
     },
     {
+      "name": "3newsnowomaha-2022-10-28T05:51:34.330593-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954303",
+      "size": "20236",
+      "md5": "15aefa27f72f98a7b75d2c38314e4300",
+      "crc32": "32e66574",
+      "sha1": "7faa8754e2bc21819d7579542e2e717c829bb214",
+      "format": "JSON"
+    },
+    {
+      "name": "3newsnowomaha-2022-10-28T05:51:34.330593-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954305",
+      "size": "61453",
+      "md5": "146d7aa41becd6f04392ac3581b5fdf0",
+      "crc32": "5ed805fb",
+      "sha1": "f3b84c804c9abe6bca9dac65ad28b2f2a2d1ca62",
+      "format": "JSON"
+    },
+    {
+      "name": "3newsnowomaha-2022-10-28T05:51:34.330593-05:00.jpg",
+      "source": "original",
+      "mtime": "1666954300",
+      "size": "323186",
+      "md5": "ded41a3ccf748dc387b76a47920f8241",
+      "crc32": "d0216e60",
+      "sha1": "c23132470df405f3b1a9470f5d0c7a975a15bfac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "3newsnowomaha-2022-10-28T05:51:34.330593-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954306",
+      "size": "1477",
+      "md5": "b7a7232a7891e06694a5d4650c86f51f",
+      "crc32": "fbfbbdff",
+      "sha1": "a80178561d03c03cfd69ee2f894d766cee64667f",
+      "format": "JSON"
+    },
+    {
+      "name": "3newsnowomaha-2022-10-28T05:51:34.330593-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954308",
+      "size": "51817",
+      "md5": "34ef88d99f4c8884a84702dda582ba81",
+      "crc32": "81b9b01f",
+      "sha1": "f3b76d10dac65bec1159f99d6ef06e5cde97ffe2",
+      "format": "JSON"
+    },
+    {
       "name": "3newsnowomaha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6aca2b3099373f0d276b1d8bba1a55f9fedb771",
-      "mtime": "1666913239",
-      "size": "225153",
-      "md5": "d66e053dc37c81d8b680de37005e9ac3",
-      "crc32": "200de6c5",
-      "sha1": "4811879489a70120779db8782252d929ccb196a8",
+      "btih": "8624f5dae73bb7659509fee30d6585f849474ab9",
+      "mtime": "1666954361",
+      "size": "226241",
+      "md5": "5cfba8aabd693128b201145ad9e36c05",
+      "crc32": "006eb46f",
+      "sha1": "04cbc9a22b30b3449cdfd6cc39ccf4f0368b903a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "3newsnowomaha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23f6f67331316da3309b7c891182b0bf",
+      "md5": "7682642d76e8c0decbc22852ecd550d5",
       "summation": "md5"
     },
     {
       "name": "3newsnowomaha-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666910758",
-      "size": "1327104",
-      "md5": "1ef1d42e7d43e40b2238fbd51f739829",
-      "crc32": "8abbf1f7",
-      "sha1": "8d7d39929233acd6d02275a97b38f60c2cd323ba",
+      "mtime": "1666954314",
+      "size": "1331200",
+      "md5": "23609adcb2a5bb59f9348b8e15dfd999",
+      "crc32": "921989b6",
+      "sha1": "a28af0aec684221925ed2fe6d20b017998c93ab0",
       "format": "Metadata"
     },
     {
@@ -10768,9 +10819,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1040,
-  "item_last_updated": 1666913239,
-  "item_size": 85360974,
+  "files_count": 1045,
+  "item_last_updated": 1666954361,
+  "item_size": 85824327,
   "metadata": {
     "identifier": "3newsnowomaha-2022",
     "collection": [
@@ -10787,10 +10838,21 @@
     "publicdate": "2022-07-30 16:34:05",
     "addeddate": "2022-07-30 16:34:05"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1895759083,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455074006,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1319893032,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

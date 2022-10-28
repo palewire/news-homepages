@@ -1,5 +1,5 @@
 {
-  "created": 1666915170,
+  "created": 1666954686,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/24/items/cnnbrasil-2022",
@@ -14762,31 +14762,82 @@
       "sha1": "05c191df81618b4f0e47d60f9a3ffee249696a91"
     },
     {
+      "name": "cnnbrasil-2022-10-28T07:56:54.364519-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954617",
+      "size": "70292",
+      "md5": "71326b9dfb318175d850ff7fedde123b",
+      "crc32": "6e929621",
+      "sha1": "5662a1602e9fac2b68312e66d58656dd346a9b58",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-10-28T07:56:54.364519-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954619",
+      "size": "52107",
+      "md5": "d94e5fb3a9671d0a3069c7ab4f4ae476",
+      "crc32": "c23154ec",
+      "sha1": "1848e5004021765488a573c2b915f03c42005baf",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-10-28T07:56:54.364519-03:00.jpg",
+      "source": "original",
+      "mtime": "1666954616",
+      "size": "340815",
+      "md5": "b28e957ffd84ece55b336f3951eab9c8",
+      "crc32": "d61d648b",
+      "sha1": "c6a046e969b50b19f4b1b261a406883209c2d442",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnnbrasil-2022-10-28T07:56:54.364519-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954620",
+      "size": "1513",
+      "md5": "3aa086bbf48a21813f72b03b6cb383e1",
+      "crc32": "6db66452",
+      "sha1": "abdecd4636bc2ba5f0b3158bfb2ce8f14ec07a67",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-10-28T07:56:54.364519-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954622",
+      "size": "29005",
+      "md5": "3865a34e765175c818dc8da017175690",
+      "crc32": "f8e4a0d3",
+      "sha1": "6af78fe244b4ef7372a243f94c29ad9f2b4e1166",
+      "format": "JSON"
+    },
+    {
       "name": "cnnbrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db1ad6a17cfda8286124ff809e54693850ab7296",
-      "mtime": "1666914959",
-      "size": "304001",
-      "md5": "4ab77e3e98b5387d22b874cd337424d4",
-      "crc32": "63016c77",
-      "sha1": "327a6d23f394a5160fd56733efa937e2207e909d",
+      "btih": "1434ef03bbbf883c6ee518b7e401c02b91fa5a03",
+      "mtime": "1666954682",
+      "size": "305069",
+      "md5": "97c34df6b5eeba4b36f68388e9bbde8e",
+      "crc32": "6f665090",
+      "sha1": "982b7f38c659231fccb80d52764bc12484531cec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnnbrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d7b3b0169e7ff38a23bc8b1c6933a1a8",
+      "md5": "a5beda0d2be03d90b7e1a4686ba9a4d8",
       "summation": "md5"
     },
     {
       "name": "cnnbrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666913302",
-      "size": "1826816",
-      "md5": "bcb4cb5024c99868cfd722fc93c3cf15",
-      "crc32": "cd58d078",
-      "sha1": "f52a871e828e6acdf99110dfe1469ccfe659453e",
+      "mtime": "1666954627",
+      "size": "1830912",
+      "md5": "4b22b2078882615172462778b4ae7992",
+      "crc32": "649873c0",
+      "sha1": "11f923d463459c2f89fdc72b02cad9e2bc18988a",
       "format": "Metadata"
     },
     {
@@ -14800,9 +14851,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1432,
-  "item_last_updated": 1666914959,
-  "item_size": 113338430,
+  "files_count": 1437,
+  "item_last_updated": 1666954682,
+  "item_size": 113837326,
   "metadata": {
     "identifier": "cnnbrasil-2022",
     "collection": [
@@ -14819,10 +14870,21 @@
     "publicdate": "2022-08-07 19:42:41",
     "addeddate": "2022-08-07 19:42:41"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1866929862,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3455077956,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 466959195,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }
