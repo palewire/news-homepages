@@ -1,5 +1,5 @@
 {
-  "created": 1666902805,
+  "created": 1666940039,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/24/items/nbcchicago-2022",
@@ -19444,31 +19444,93 @@
       "sha1": "1a447873cca048a4f15f2f5d6502376f068bb393"
     },
     {
+      "name": "nbcchicago-2022-10-28T01:39:45.110958-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666939199",
+      "size": "51081",
+      "md5": "7a658670912f204d05c8f27f7067f19c",
+      "crc32": "12d7ec48",
+      "sha1": "1d957b0e9b4d65172e648379978b3bd088cb8d5f",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-10-28T01:39:45.110958-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666939202",
+      "size": "58140",
+      "md5": "60c1fe55ff52f1d45c3df8ab98b56cf2",
+      "crc32": "e25702c9",
+      "sha1": "568f54bbd50524703e08f7a793a0f6517abf40ba",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-10-28T01:39:45.110958-05:00.jpg",
+      "source": "original",
+      "mtime": "1666939197",
+      "size": "285928",
+      "md5": "cf4bde057ce539417d6f4eb18ff53b79",
+      "crc32": "160696ac",
+      "sha1": "c823e89d1ce5524c35dc1aaf24c14b0de89be577",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcchicago-2022-10-28T01:39:45.110958-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666939204",
+      "size": "1495",
+      "md5": "6ac28578f00e26e3433ec238a14f7b51",
+      "crc32": "d9e471e3",
+      "sha1": "4ef757b89ae6c3ab8f76e026a8bc77f7f0f4de76",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-10-28T01:39:45.110958-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666939206",
+      "size": "251",
+      "md5": "28651012f65094d5346730ae62d6bbf9",
+      "crc32": "8d77bedc",
+      "sha1": "4b6a2e5e6b19a7927b329eb1881f713e8682466f",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcchicago-2022-10-28T01:39:45.110958-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcchicago-2022-10-28T01:39:45.110958-05:00.jpg",
+      "mtime": "1666939849",
+      "size": "10199",
+      "md5": "5d9c15ec8d10d40b08b780ae407138c1",
+      "crc32": "c2f03800",
+      "sha1": "032e0284d3ff40f51e5be517f62401d83d1fb28e"
+    },
+    {
       "name": "nbcchicago-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c709e17df5128a53c9dfce6f35e269d76453e7a5",
-      "mtime": "1666902642",
-      "size": "401048",
-      "md5": "247d9d5ec88a4be32bfd06e0a8302ca9",
-      "crc32": "f04ef4fa",
-      "sha1": "459b2d0d7fb89c23c449fe171f15289ad6929516",
+      "btih": "7948d7301a4658c54002668c40e1c3563e19370c",
+      "mtime": "1666939985",
+      "size": "402326",
+      "md5": "af97f4c73fd44ef61345980df4dd0f10",
+      "crc32": "25c6a59e",
+      "sha1": "9409bfea21e38b8903e058b88f4c3867a37fe19b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcchicago-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a7a0e15a36f8fb33f4acb9623c179d8",
+      "md5": "3d62fef588b95651e2e2a90f0c48dae6",
       "summation": "md5"
     },
     {
       "name": "nbcchicago-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666893003",
-      "size": "2355200",
-      "md5": "a37b2bdf52c338eeb0466ffc27b551aa",
-      "crc32": "4e4800c9",
-      "sha1": "ab5ad9eb8a8ed72451936d43c04569b47441add7",
+      "mtime": "1666939241",
+      "size": "2367488",
+      "md5": "70e8c4a5ee5f25821baad6a10a83f436",
+      "crc32": "26d2c43e",
+      "sha1": "f9ff686ad5e0633059555369153192a591e7be36",
       "format": "Metadata"
     },
     {
@@ -19482,9 +19544,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1880,
-  "item_last_updated": 1666902642,
-  "item_size": 157682609,
+  "files_count": 1886,
+  "item_last_updated": 1666939985,
+  "item_size": 158103269,
   "metadata": {
     "identifier": "nbcchicago-2022",
     "collection": [
@@ -19502,7 +19564,7 @@
     "addeddate": "2022-07-03 15:31:29"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 369564687,
+  "uniq": 1020313838,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

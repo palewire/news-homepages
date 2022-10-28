@@ -1,5 +1,5 @@
 {
-  "created": 1666902024,
+  "created": 1666940062,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/33/items/marylandmatters-2022",
@@ -19506,31 +19506,93 @@
       "sha1": "a8a0dba1169a5cd46af7fdc3aa27e8f36077f03e"
     },
     {
+      "name": "marylandmatters-2022-10-28T02:39:50.039719-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666939201",
+      "size": "16078",
+      "md5": "ed2a02cf8f3b1e53b0745230f3c33186",
+      "crc32": "71d562e0",
+      "sha1": "d5879078f015136fc2ccfd347fb6871e7dec246e",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-28T02:39:50.039719-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666939204",
+      "size": "18175",
+      "md5": "f817094b62c11e4ab3cf019f7274b4f2",
+      "crc32": "9fe8c09d",
+      "sha1": "c09e32c627d4dfe22cd92c9b5a73ec6604f9985d",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-28T02:39:50.039719-04:00.jpg",
+      "source": "original",
+      "mtime": "1666939199",
+      "size": "360452",
+      "md5": "eaf7b8df738c79315ebb46efe3dce502",
+      "crc32": "62959122",
+      "sha1": "654357db91e70cf6fa07bcaed1918bd46ec80094",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marylandmatters-2022-10-28T02:39:50.039719-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666939205",
+      "size": "1537",
+      "md5": "a21b006b37c64f26d7d4b0b3cab589ba",
+      "crc32": "fe8ea084",
+      "sha1": "550d1ad3ee6d67dfa7618b48a6c6cbf997a1c99e",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-28T02:39:50.039719-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666939207",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-10-28T02:39:50.039719-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marylandmatters-2022-10-28T02:39:50.039719-04:00.jpg",
+      "mtime": "1666939956",
+      "size": "10066",
+      "md5": "864d21829b38683d0083c3ef667e1799",
+      "crc32": "54d9af77",
+      "sha1": "092d499173d116616d0c4c29572754acb5ef8196"
+    },
+    {
       "name": "marylandmatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "467a7019acc6aa4434ec6e522758cc56c97b513c",
-      "mtime": "1666901996",
-      "size": "409816",
-      "md5": "fcd8790de0bb861c47974f22a36c7a62",
-      "crc32": "eb6020e5",
-      "sha1": "0c9ae2a99cb8c16733167d504bbe081c707e604e",
+      "btih": "ef6f0730d10b22e61cec917237f557271a584fe8",
+      "mtime": "1666939987",
+      "size": "411124",
+      "md5": "f9537311293d63abd2ee99fcd02a9871",
+      "crc32": "29074495",
+      "sha1": "912166dc1dea21b8ec8a9e4342937f1fe679f272",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marylandmatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0cbde91c4cd0f2407a09745dc1ea823",
+      "md5": "70ddde2dba6299dd59a0b6b3bbe1e203",
       "summation": "md5"
     },
     {
       "name": "marylandmatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666892762",
-      "size": "2310144",
-      "md5": "57928a0a335cd7e049d5f05afbc1b909",
-      "crc32": "924c1776",
-      "sha1": "88d2248cc27c0da4a3b97276d793617d65bde903",
+      "mtime": "1666939210",
+      "size": "2318336",
+      "md5": "ef02315b0f42d780fa36636fef45eb18",
+      "crc32": "e0f86c58",
+      "sha1": "cc959ef35e94140adcc702b1fc4f66f9fede3abc",
       "format": "Metadata"
     },
     {
@@ -19544,9 +19606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1878,
-  "item_last_updated": 1666901996,
-  "item_size": 158475183,
+  "files_count": 1884,
+  "item_last_updated": 1666939987,
+  "item_size": 158891193,
   "metadata": {
     "identifier": "marylandmatters-2022",
     "collection": [
@@ -19563,10 +19625,10 @@
     "publicdate": "2022-03-31 13:13:28",
     "addeddate": "2022-03-31 13:13:28"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 1475721802,
+  "server": "ia902505.us.archive.org",
+  "uniq": 1402513961,
   "workable_servers": [
-    "ia802505.us.archive.org",
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

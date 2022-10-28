@@ -1,5 +1,5 @@
 {
-  "created": 1666902001,
+  "created": 1666939612,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/13/items/lohud-2022",
@@ -4656,31 +4656,93 @@
       "sha1": "c58268a31c527fb4d204903acf03fd3b20082fd5"
     },
     {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666939001",
+      "size": "21619",
+      "md5": "4d70333dccfb0adaaf72ecec9cf702a5",
+      "crc32": "2afdd6a6",
+      "sha1": "51f964f5d1f3c287bcb5c42f1da2cf4adba6fde2",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666939003",
+      "size": "29454",
+      "md5": "ad4b45a0af16b4bb8ac0b84b4a5b2154",
+      "crc32": "0ead047f",
+      "sha1": "eea14010ac6032ea644f7671b582ed1496098d43",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.jpg",
+      "source": "original",
+      "mtime": "1666938999",
+      "size": "250257",
+      "md5": "ff13e0f52689770edf8f9064e60a6f8a",
+      "crc32": "978117e2",
+      "sha1": "f11f31f522ec6b2f28ea6e6129dff299492e408e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666939005",
+      "size": "1450",
+      "md5": "68ff1da605090e82b40459b3caa351ff",
+      "crc32": "387a99f9",
+      "sha1": "1107d0ae5caed03e41e277fc2500e3f525b2f301",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666939007",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-28T02:36:30.313708-04:00.jpg",
+      "mtime": "1666939583",
+      "size": "9202",
+      "md5": "193dc4f58338ca54ed45a462a1cbadc3",
+      "crc32": "2b820c74",
+      "sha1": "950ce2a0a7f71e5c7319fa6409fd20d50e2d64f5"
+    },
+    {
       "name": "lohud-2022_archive.torrent",
       "source": "metadata",
-      "btih": "50e48ce0d178b4afc44036676a240c71078ecaeb",
-      "mtime": "1666901970",
-      "size": "94710",
-      "md5": "02999d2097a4b2b2326a4a59eaafbdcc",
-      "crc32": "563bdd45",
-      "sha1": "9776c3843641583f53c073cb546998b099f9152e",
+      "btih": "ee8a477d6a78a52bfe71fe22dbccfa11795ea102",
+      "mtime": "1666939588",
+      "size": "95957",
+      "md5": "772d5a2db710c697b78cd804908f3059",
+      "crc32": "77f9a17a",
+      "sha1": "9c0066d3a066e1d452a73480b67e36227ff046c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lohud-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28c1fdd017d9144152e36c2dc0d003c9",
+      "md5": "82d348a758c3e92992b72de731e82e30",
       "summation": "md5"
     },
     {
       "name": "lohud-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666892725",
-      "size": "585728",
-      "md5": "0e79cd019d6057b45c6e95bc0a8d419a",
-      "crc32": "fbfaadb0",
-      "sha1": "6e0bf58614322936bc9262c4e92cd2094b229fbb",
+      "mtime": "1666939013",
+      "size": "593920",
+      "md5": "41a00f15c103140f3cf25577c516ce3e",
+      "crc32": "c3217143",
+      "sha1": "e4f1c14d3983d9bd9794b8ea72f62cedec2aec1d",
       "format": "Metadata"
     },
     {
@@ -4694,9 +4756,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666901970,
-  "item_size": 30957988,
+  "files_count": 460,
+  "item_last_updated": 1666939588,
+  "item_size": 31279611,
   "metadata": {
     "identifier": "lohud-2022",
     "collection": [
@@ -4714,7 +4776,7 @@
     "addeddate": "2022-09-20 17:34:21"
   },
   "server": "ia601402.us.archive.org",
-  "uniq": 420385238,
+  "uniq": 516131666,
   "workable_servers": [
     "ia601402.us.archive.org",
     "ia801402.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1666917760,
+  "created": 1666940237,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/22/items/memphisnews-2022",
@@ -4656,31 +4656,93 @@
       "sha1": "0845c9b338f67bc3073afbe0c87dc28ca5df21b8"
     },
     {
+      "name": "memphisnews-2022-10-28T01:40:20.352223-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666939227",
+      "size": "21155",
+      "md5": "2d696f4a69a757a1826b81679a670c93",
+      "crc32": "d388496b",
+      "sha1": "4ec592a92ed0155a1a9ea3b0f0ef02afa5a3063f",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-28T01:40:20.352223-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666939228",
+      "size": "29540",
+      "md5": "b498492ab1ad7170010b26d940d54319",
+      "crc32": "c3c0d48f",
+      "sha1": "8ba7f17aa94a63fac291a802aee1dda43b555321",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-28T01:40:20.352223-05:00.jpg",
+      "source": "original",
+      "mtime": "1666939225",
+      "size": "264208",
+      "md5": "fa4331b9b20b36f0b044b65b93536dad",
+      "crc32": "a65c2f79",
+      "sha1": "6bcebf3c9c774b5693b0bd2a7b85ffddff79b289",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "memphisnews-2022-10-28T01:40:20.352223-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666939229",
+      "size": "1549",
+      "md5": "a773dbdefed41b238c1afb69d39d039e",
+      "crc32": "a857d33c",
+      "sha1": "879f0b7b521403fa8be7e2fd6d26cf183ef12986",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-28T01:40:20.352223-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666939232",
+      "size": "258",
+      "md5": "b3aa5381a03e5e58d0923792c7896f17",
+      "crc32": "80deada5",
+      "sha1": "059306e3d015ea51aa79635ba71d8e4a201bb753",
+      "format": "JSON"
+    },
+    {
+      "name": "memphisnews-2022-10-28T01:40:20.352223-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "memphisnews-2022-10-28T01:40:20.352223-05:00.jpg",
+      "mtime": "1666940078",
+      "size": "9440",
+      "md5": "df787486c4d83f7e169d4de08f2a1560",
+      "crc32": "9de27fed",
+      "sha1": "851cbc6ecc7535cb1abf7946757e4e9b2f69917d"
+    },
+    {
       "name": "memphisnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5312ed866864b10c196644df0f31c6489d7a4c57",
-      "mtime": "1666902131",
-      "size": "97444",
-      "md5": "51d45c4374dc213438230641be9262de",
-      "crc32": "0e72f16b",
-      "sha1": "15c62e06186a5f9af61585bc93a986e4558fa1cd",
+      "btih": "409a584c5f9bf4121293dac4855702597c5c4309",
+      "mtime": "1666940082",
+      "size": "98707",
+      "md5": "d4a3327758c87eeab90f9e7406ec76c5",
+      "crc32": "3d1f925b",
+      "sha1": "951bcd829ce02effcb9162295b2285f9ecdad4dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "memphisnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c180796be8717d1d21d4b77bec66012",
+      "md5": "3332132911c43ffac36ccd3f6fe04936",
       "summation": "md5"
     },
     {
       "name": "memphisnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666892830",
-      "size": "593920",
-      "md5": "ca15f8ce3a6c74a59af64fcca6d084e1",
-      "crc32": "7571f7b2",
-      "sha1": "731adf8a23702447fb9bef43bb5e5efd41985457",
+      "mtime": "1666939239",
+      "size": "602112",
+      "md5": "979ecbe7918c5fb3222e311bb5866ca3",
+      "crc32": "8eb7cc2f",
+      "sha1": "eca537e7358adce362fee2c7ef0a2ddb69384ee1",
       "format": "Metadata"
     },
     {
@@ -4694,14 +4756,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 454,
-  "item_last_updated": 1666902131,
-  "item_size": 30511927,
-  "memphisnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 460,
+  "item_last_updated": 1666940082,
+  "item_size": 30847532,
   "metadata": {
     "identifier": "memphisnews-2022",
     "collection": [
@@ -4719,7 +4776,7 @@
     "addeddate": "2022-09-20 17:35:56"
   },
   "server": "ia801406.us.archive.org",
-  "uniq": 1775410954,
+  "uniq": 554443983,
   "workable_servers": [
     "ia801406.us.archive.org",
     "ia601406.us.archive.org"
