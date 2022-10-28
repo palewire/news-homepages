@@ -1,12 +1,7 @@
 {
-  "created": 1666947404,
+  "created": 1666980925,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
-  "dailyrecord-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/35/items/dailyrecord-2022",
   "files": [
     {
@@ -4722,31 +4717,104 @@
       "format": "JSON"
     },
     {
+      "name": "dailyrecord-2022-10-28T04:26:35.010270-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyrecord-2022-10-28T04:26:35.010270-04:00.jpg",
+      "mtime": "1666949733",
+      "size": "9026",
+      "md5": "c143a78fcc211a26e196dd6cb161ea14",
+      "crc32": "b5ea8b86",
+      "sha1": "7b9946861717dcab7087577a682112cbb1024af2"
+    },
+    {
+      "name": "dailyrecord-2022-10-28T13:15:26.544299-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666977332",
+      "size": "22623",
+      "md5": "b7bbca9f3827fd46a4d4da8b34324096",
+      "crc32": "8b5617c0",
+      "sha1": "5536afeed265f1f7d0ace5f404fa4216ed12376e",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyrecord-2022-10-28T13:15:26.544299-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666977333",
+      "size": "38758",
+      "md5": "184ba0f45efe62ae93bfa73e82e83973",
+      "crc32": "06a3b7e3",
+      "sha1": "fdc76a173ea9bf168143472f91b2783567ac208f",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyrecord-2022-10-28T13:15:26.544299-04:00.jpg",
+      "source": "original",
+      "mtime": "1666977330",
+      "size": "266576",
+      "md5": "3c6727e6b331ef756db5f166796c81cd",
+      "crc32": "06bb9083",
+      "sha1": "d6fe0329dab499a8694f524f30e036a415bee57c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyrecord-2022-10-28T13:15:26.544299-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666977335",
+      "size": "1504",
+      "md5": "ba47075d59a136c16692d65e835b0fd1",
+      "crc32": "1b63e623",
+      "sha1": "171cf1504d3c8e9535697d535b7eb0408b2515aa",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyrecord-2022-10-28T13:15:26.544299-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666977336",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyrecord-2022-10-28T13:15:26.544299-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyrecord-2022-10-28T13:15:26.544299-04:00.jpg",
+      "mtime": "1666980819",
+      "size": "8975",
+      "md5": "31802e35eda0647221dc1970bb6c460f",
+      "crc32": "f42b7865",
+      "sha1": "04d055296fe5dd918a3841b65e8e311e8f77a019"
+    },
+    {
       "name": "dailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e5a609631acfbe0164a6785976cba18c8c9bcb20",
-      "mtime": "1666945653",
-      "size": "98747",
-      "md5": "bcb035355953e875d9733ef4d334373e",
-      "crc32": "d6446950",
-      "sha1": "1987d1e583b513871b91214e67b3c1035e0754d8",
+      "btih": "918339d46281496cab308fa5a4930025c65e2b66",
+      "mtime": "1666980825",
+      "size": "100217",
+      "md5": "f96eed25c03299cecd4562191a851b75",
+      "crc32": "511c3cbf",
+      "sha1": "9cc9e1f347d88314530be34cd398b7421ce2b5ab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8c29f0c5bfc4426272ea0f3baa776673",
+      "md5": "19520edc0581a0637c83108432022370",
       "summation": "md5"
     },
     {
       "name": "dailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666945613",
-      "size": "602112",
-      "md5": "fc6c7b71b1a159fc107f5dc5c1bdbbf4",
-      "crc32": "e4432def",
-      "sha1": "0e11f0e6a90102b290a052f30a0b5e4677bb406a",
+      "mtime": "1666977342",
+      "size": "610304",
+      "md5": "d9dadbea3cd6ed566c1598a8009979f2",
+      "crc32": "cd595869",
+      "sha1": "4c33bd2c1e3329699993e40ad3a77bfa12f2065e",
       "format": "Metadata"
     },
     {
@@ -4760,9 +4828,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 460,
-  "item_last_updated": 1666945653,
-  "item_size": 31098649,
+  "files_count": 467,
+  "item_last_updated": 1666980825,
+  "item_size": 31455975,
   "metadata": {
     "identifier": "dailyrecord-2022",
     "collection": [
@@ -4779,21 +4847,10 @@
     "publicdate": "2022-09-20 17:43:37",
     "addeddate": "2022-09-20 17:43:37"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454958996,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1396357483,
+  "uniq": 19629071,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

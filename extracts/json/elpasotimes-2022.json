@@ -1,8 +1,13 @@
 {
-  "created": 1666945853,
+  "created": 1666981952,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/elpasotimes-2022",
+  "elpasotimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -11369,21 +11374,32 @@
       "format": "JSON"
     },
     {
+      "name": "elpasotimes-2022-10-28T02:29:45.072730-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpasotimes-2022-10-28T02:29:45.072730-06:00.jpg",
+      "mtime": "1666949922",
+      "size": "9222",
+      "md5": "5bcc3f663e0375abed8c1b5859c18e18",
+      "crc32": "44177791",
+      "sha1": "9e2e5ac4358555ce5e55e629759a3f66401c9d83"
+    },
+    {
       "name": "elpasotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e85c77785e3e68e01594deb11137f2c16c1975fb",
-      "mtime": "1666945848",
-      "size": "235780",
-      "md5": "cb7684842c3958f211bec178fb4252bf",
-      "crc32": "0dcfcec1",
-      "sha1": "4b5051c050888aa95c5d4e41d590c1d12941bfff",
+      "btih": "c6e0dc38c2c22151d434fc9dc6398a62a5da2f19",
+      "mtime": "1666949961",
+      "size": "235987",
+      "md5": "5e53ff35694aa0a4dbaab0bbde87bc56",
+      "crc32": "140605aa",
+      "sha1": "4773d2ea702c351f9eff8f07ae670057d083e48c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpasotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9781050dc8a4ff5531ce727b6cdaf4b",
+      "md5": "a0fbf42dc90f925e9cef19f6655312ce",
       "summation": "md5"
     },
     {
@@ -11407,9 +11423,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1103,
-  "item_last_updated": 1666945848,
-  "item_size": 71147181,
+  "files_count": 1104,
+  "item_last_updated": 1666949961,
+  "item_size": 71156610,
   "metadata": {
     "identifier": "elpasotimes-2022",
     "collection": [
@@ -11426,21 +11442,10 @@
     "publicdate": "2022-07-26 14:34:01",
     "addeddate": "2022-07-26 14:34:01"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454960912,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 332806348,
+  "uniq": 1964353426,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

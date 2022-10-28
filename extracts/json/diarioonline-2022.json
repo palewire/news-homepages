@@ -1,5 +1,5 @@
 {
-  "created": 1666945717,
+  "created": 1666981624,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/35/items/diarioonline-2022",
@@ -14833,31 +14833,166 @@
       "format": "JSON"
     },
     {
+      "name": "diarioonline-2022-10-28T05:26:12.139082-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diarioonline-2022-10-28T05:26:12.139082-03:00.jpg",
+      "mtime": "1666949818",
+      "size": "10344",
+      "md5": "153f1ef12613c09bfe7888f3cfa77fda",
+      "crc32": "a1cc518d",
+      "sha1": "0b24ec430166815dca9f4d82cfc034e2a87b0775"
+    },
+    {
+      "name": "diarioonline-2022-10-28T08:52:23.388479-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957948",
+      "size": "44973",
+      "md5": "ff4cfcafcde020cb2f19a8d121cc1c0c",
+      "crc32": "1fd7efde",
+      "sha1": "c7a91f5bb2cced9782501b5961b53ff438d5ad8e",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-28T08:52:23.388479-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957950",
+      "size": "53604",
+      "md5": "9a39d8d3483701d4528e5a2844fc2b79",
+      "crc32": "e7eb78a9",
+      "sha1": "16eccc699b6d9c83664cb5927d1c08b8bb4795de",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-28T08:52:23.388479-03:00.jpg",
+      "source": "original",
+      "mtime": "1666957945",
+      "size": "242300",
+      "md5": "aa6b2f35261563c5bc29ca3d67445a3b",
+      "crc32": "26fb1753",
+      "sha1": "d50457493951218ba7bcda33fcf31c75ede27ebd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diarioonline-2022-10-28T08:52:23.388479-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957951",
+      "size": "1648",
+      "md5": "3dd12e68ace2507e94547e8cc66c3e89",
+      "crc32": "802c9d8b",
+      "sha1": "2266840cb119f24d78a42639ef964366c9973ee1",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-28T08:52:23.388479-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957953",
+      "size": "60764",
+      "md5": "57160dbc6b351141a4123c8d16a65bc5",
+      "crc32": "c0ab764b",
+      "sha1": "3b2d095ef89f3cf9c6e69f1908e4b82d0695a720",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-28T08:52:23.388479-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diarioonline-2022-10-28T08:52:23.388479-03:00.jpg",
+      "mtime": "1666965026",
+      "size": "9328",
+      "md5": "e4f3f7ba488b512b5767b8c0a446d552",
+      "crc32": "c9297976",
+      "sha1": "3644d9fa19de14cd0e9b528a00e294779f58ffcb"
+    },
+    {
+      "name": "diarioonline-2022-10-28T14:17:49.973389-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666977483",
+      "size": "46706",
+      "md5": "2123cfdd88694261f578983ab3d840da",
+      "crc32": "a20488c7",
+      "sha1": "f19f2c140c93f6d4609959a565ba2671faeeebd2",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-28T14:17:49.973389-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666977485",
+      "size": "57368",
+      "md5": "34847b1647859e4c3b5b12c177458589",
+      "crc32": "e63ffdf2",
+      "sha1": "6a48ccd616eb7e5dd1561574cb07252fed85d82a",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-28T14:17:49.973389-03:00.jpg",
+      "source": "original",
+      "mtime": "1666977478",
+      "size": "322592",
+      "md5": "77e6fdb42a0181962a264dbc85b89318",
+      "crc32": "079999b9",
+      "sha1": "669539fae0a646fa5a3e3b4c3f377137e02b2188",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diarioonline-2022-10-28T14:17:49.973389-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666977487",
+      "size": "1648",
+      "md5": "17c2b0ed5d2542630f78b1e988427438",
+      "crc32": "37c0ea32",
+      "sha1": "7fac1275cd5a835e27264d2efd1a7bb3a4f63de6",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-28T14:17:49.973389-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666977489",
+      "size": "58527",
+      "md5": "04d1b39a3f5cc8ddec861cc85de01181",
+      "crc32": "c412be5d",
+      "sha1": "23756045f917fe0ac237e38800f3ee890011ca93",
+      "format": "JSON"
+    },
+    {
+      "name": "diarioonline-2022-10-28T14:17:49.973389-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diarioonline-2022-10-28T14:17:49.973389-03:00.jpg",
+      "mtime": "1666981254",
+      "size": "10912",
+      "md5": "8c1c0ee25e30efa18470afcf02181933",
+      "crc32": "5a466cc4",
+      "sha1": "c013d1594c1d6c7efd69bd7b4016eaed9d426d62"
+    },
+    {
       "name": "diarioonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9a816affc06a4d1820c0acdfa06c7367b5562b41",
-      "mtime": "1666945674",
-      "size": "308929",
-      "md5": "d52d9edb882a96a5a96ef11bcafc46a4",
-      "crc32": "0a5bb8ce",
-      "sha1": "08ad956f8a7f7deff7e54972a3111517f54215b4",
+      "btih": "1a9c9360b2e6dfb50838b5edfaf69b1f6614f23c",
+      "mtime": "1666981300",
+      "size": "311721",
+      "md5": "e4e5ef454526d19662db71d884da5838",
+      "crc32": "09b1df23",
+      "sha1": "c19afff10dc3867ed8953ebb18753c604724d0ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diarioonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a8fa7815587f2ee8ac6ab9ed03722295",
+      "md5": "07fa28fe77caee096c56090025b4fe50",
       "summation": "md5"
     },
     {
       "name": "diarioonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666945604",
-      "size": "1843200",
-      "md5": "fcaddf239865f3ac8406d149e1f8701b",
-      "crc32": "b6f2e119",
-      "sha1": "982518836f751a7435df65abcfacaea65d973814",
+      "mtime": "1666977522",
+      "size": "1859584",
+      "md5": "c73d7dd9e8383d495909d6ef2f8b7769",
+      "crc32": "21cbe5b7",
+      "sha1": "76bcc7d5caeeb25410124bbd3bade9820c522ccd",
       "format": "Metadata"
     },
     {
@@ -14871,9 +15006,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1439,
-  "item_last_updated": 1666945674,
-  "item_size": 93864557,
+  "files_count": 1452,
+  "item_last_updated": 1666981300,
+  "item_size": 94804447,
   "metadata": {
     "identifier": "diarioonline-2022",
     "collection": [
@@ -14890,21 +15025,10 @@
     "publicdate": "2022-08-05 03:14:28",
     "addeddate": "2022-08-05 03:14:28"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3454959635,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 225990587,
+  "server": "ia801407.us.archive.org",
+  "uniq": 139663091,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }
