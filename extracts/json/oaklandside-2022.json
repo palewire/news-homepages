@@ -1,5 +1,5 @@
 {
-  "created": 1666924761,
+  "created": 1666965970,
   "d1": "ia904705.us.archive.org",
   "d2": "ia804705.us.archive.org",
   "dir": "/8/items/oaklandside-2022",
@@ -20605,31 +20605,93 @@
       "format": "JSON"
     },
     {
+      "name": "oaklandside-2022-10-27T19:30:15.384286-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-10-27T19:30:15.384286-07:00.jpg",
+      "mtime": "1666926187",
+      "size": "10851",
+      "md5": "7a0aa8a7b03f3cbb36274a4397faa5ed",
+      "crc32": "80714f48",
+      "sha1": "d90fea45bf847dd052023b2a451acc50db9944bd"
+    },
+    {
+      "name": "oaklandside-2022-10-28T07:04:39.143029-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666965891",
+      "size": "35868",
+      "md5": "ba4ddb65368aa8b8e092dd453046f80e",
+      "crc32": "e18c4ef6",
+      "sha1": "5da8a71677cba56db568b17a95b8c2ad218b3dda",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-10-28T07:04:39.143029-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965894",
+      "size": "32404",
+      "md5": "bb51edbd51f39e187c4de23bf80c8ff3",
+      "crc32": "b9a63eab",
+      "sha1": "2d4ed728da66aab2d8923297f68ab78062573abe",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-10-28T07:04:39.143029-07:00.jpg",
+      "source": "original",
+      "mtime": "1666965889",
+      "size": "325678",
+      "md5": "6d3fcd9e95fee605e204339d35e9005f",
+      "crc32": "04d76636",
+      "sha1": "112ad7ed78d86bd017ca527995cce5b280e36f4e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-10-28T07:04:39.143029-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965895",
+      "size": "1463",
+      "md5": "a13959b7645513e51fc0ea807b52c688",
+      "crc32": "cff07f85",
+      "sha1": "bc43efd64a0e6528a0ddc071c7518076b4194273",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-10-28T07:04:39.143029-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666965897",
+      "size": "48482",
+      "md5": "7ff57d5047ec563929b91cdbb4ef9f6f",
+      "crc32": "85b5ba9a",
+      "sha1": "9c39a905ea9284b19e5a8728bea6075f7cf0270e",
+      "format": "JSON"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc7cc412735cf3403e1581566c1a69d32c13a15f",
-      "mtime": "1666924755",
-      "size": "424584",
-      "md5": "203a32fcc6adfcca97bcffa3e021d110",
-      "crc32": "7bdf2179",
-      "sha1": "e6ca908253ac6ad4aa618934f103c0cb305d7cba",
+      "btih": "e1e52e1e996f3bed3a32dca3f37d8d851acf6b63",
+      "mtime": "1666965963",
+      "size": "425870",
+      "md5": "2109e0e228768cab90d64a93fd75f2bc",
+      "crc32": "70f3917a",
+      "sha1": "e91f460c8c85858b1cb3a4899ae50265e9fbe970",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f32af69d46ae95f34fbb227afe8535dd",
+      "md5": "e06a79277bbe2a481be22e071569ef85",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666924694",
-      "size": "2416640",
-      "md5": "8113ede1308b8fc67d7763c9a32cc3ec",
-      "crc32": "6a4cc7a4",
-      "sha1": "d0f3a48601f6aae02451bf3b1d49ebaed2f390b0",
+      "mtime": "1666965901",
+      "size": "2424832",
+      "md5": "e07520cd5719feff2179d91d3ffa487a",
+      "crc32": "9c4b4bcf",
+      "sha1": "0fb09ad8eb57bbf01e42fecdc0d1f1898253d48e",
       "format": "Metadata"
     },
     {
@@ -20643,9 +20705,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1982,
-  "item_last_updated": 1666924755,
-  "item_size": 171670099,
+  "files_count": 1988,
+  "item_last_updated": 1666965963,
+  "item_size": 172134323,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -20667,7 +20729,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454717810,
+      "task_id": 3455197875,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -20675,7 +20737,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1265593336,
+  "uniq": 615699846,
   "workable_servers": [
     "ia904705.us.archive.org"
   ]

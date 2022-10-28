@@ -1,5 +1,5 @@
 {
-  "created": 1666924313,
+  "created": 1666965980,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/peninsupress-2022",
@@ -14461,31 +14461,83 @@
       "format": "JSON"
     },
     {
+      "name": "peninsupress-2022-10-27T19:30:26.352438-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "peninsupress-2022-10-27T19:30:26.352438-07:00.jpg",
+      "mtime": "1666925569",
+      "size": "8860",
+      "md5": "1cda5fc5dfb55201847f7c8e10c008fb",
+      "crc32": "29657fcb",
+      "sha1": "732aea925780d9902f3841f0e14d46ec3a246fe7"
+    },
+    {
+      "name": "peninsupress-2022-10-28T07:04:37.703662-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965889",
+      "size": "17614",
+      "md5": "088400ec1adf185a053b81afd4a62fa2",
+      "crc32": "8d2acd5e",
+      "sha1": "b1666375d663fd46f42d32647a24ebb8553d1d5a",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-10-28T07:04:37.703662-07:00.jpg",
+      "source": "original",
+      "mtime": "1666965887",
+      "size": "153688",
+      "md5": "d7e175f0b66a765bec63b4b97396a721",
+      "crc32": "dabd06d8",
+      "sha1": "84b40ea3d71b1a1e683870956e92efdd42a8b944",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "peninsupress-2022-10-28T07:04:37.703662-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965891",
+      "size": "1495",
+      "md5": "13d1ad65bd4c6faef9d60375f9c327ff",
+      "crc32": "464ecdb0",
+      "sha1": "475646871fb188f2918fd9d5a25932cd19824da7",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-10-28T07:04:37.703662-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666965894",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "peninsupress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7b6bcfb4686eeeae4fb401aa5094775de7363b7",
-      "mtime": "1666924307",
-      "size": "298413",
-      "md5": "6e21e1f8f6d8635ee9a8435538dae8d7",
-      "crc32": "9bbf918a",
-      "sha1": "5e08e609e870bcef8fdbac0c7bb9eba1c463080c",
+      "btih": "e2fc01eb255c06f74b8cbcece9e4ba34a798d47f",
+      "mtime": "1666965967",
+      "size": "299484",
+      "md5": "1995dadf55b60f02df92456230e71c65",
+      "crc32": "700f9b23",
+      "sha1": "39be13cb8d9d474b07d518f47192be9f91cc1c53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "peninsupress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a24d9d58b87923a0e8e96a59029dac4",
+      "md5": "1966da28b940313b7b7fa18849d0d9e0",
       "summation": "md5"
     },
     {
       "name": "peninsupress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666924247",
-      "size": "1753088",
-      "md5": "cafe5c6d036bf11dde1b1da8df46bbe5",
-      "crc32": "d90e255d",
-      "sha1": "447818670a34a849aea133e6aa37092b80a78bda",
+      "mtime": "1666965905",
+      "size": "1757184",
+      "md5": "bcef29f46ae2f2687fb00bf6031d71c0",
+      "crc32": "4281386d",
+      "sha1": "42b8dc67aabb5f46d3bd499f0b628717da5f0ff0",
       "format": "Metadata"
     },
     {
@@ -14499,9 +14551,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1398,
-  "item_last_updated": 1666924307,
-  "item_size": 56243622,
+  "files_count": 1403,
+  "item_last_updated": 1666965967,
+  "item_size": 56430648,
   "metadata": {
     "identifier": "peninsupress-2022",
     "collection": [
@@ -14523,7 +14575,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3454713099,
+      "task_id": 3455198003,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14531,7 +14583,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1893490204,
+  "uniq": 1947824786,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]
