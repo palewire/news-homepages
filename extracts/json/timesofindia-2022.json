@@ -1,5 +1,5 @@
 {
-  "created": 1666908093,
+  "created": 1666946313,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/35/items/timesofindia-2022",
@@ -11428,31 +11428,82 @@
       "sha1": "c8464656926c8c190f86c4c3dd872824889feb91"
     },
     {
+      "name": "timesofindia-2022-10-28T14:06:57.413285+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1666946228",
+      "size": "98496",
+      "md5": "f8abd6c14c5faa3804f089d386b45d3a",
+      "crc32": "a0eaf5a3",
+      "sha1": "5bc3bf3266f687b90f7de3ab05403ef7d2cb33ce",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-10-28T14:06:57.413285+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946229",
+      "size": "120839",
+      "md5": "1665d96c9d55ea1d4b520c0183d0950e",
+      "crc32": "9aa12c4b",
+      "sha1": "d1736c08f7ad70b27bfe308dbb2aeed281733f81",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-10-28T14:06:57.413285+05:30.jpg",
+      "source": "original",
+      "mtime": "1666946226",
+      "size": "294593",
+      "md5": "ae6650a2b660f31f318d1433e7a5aed4",
+      "crc32": "56e222ea",
+      "sha1": "098311ed1ff80e7310694890831853aa744ee55b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesofindia-2022-10-28T14:06:57.413285+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946231",
+      "size": "1515",
+      "md5": "9dbe6cd4b024fc86f026d9ec9fc94ed6",
+      "crc32": "e7dd329d",
+      "sha1": "36529bc069e558c2e3fd6dcf4cc94bd2bb9a2b23",
+      "format": "JSON"
+    },
+    {
+      "name": "timesofindia-2022-10-28T14:06:57.413285+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1666946233",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "timesofindia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7d6a4ce5e23fbf3c35511f1c508a3cdb0dbc9f9f",
-      "mtime": "1666907916",
-      "size": "239689",
-      "md5": "cb8708e5d115ee40659e372d265ee2af",
-      "crc32": "16c3bd76",
-      "sha1": "c8ca9a3d83847e20fd3fe778638c1720ae98e53e",
+      "btih": "fd120b91c165aafc073a5698ab84611051bafe5e",
+      "mtime": "1666946305",
+      "size": "240771",
+      "md5": "6b7feeae54e79e459000397dfc3e82e7",
+      "crc32": "8e514a88",
+      "sha1": "942e1fde65debf1033a743f26b27398977eef7f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesofindia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0501bbdcdd956b02ee117e559bd5b574",
+      "md5": "6e0ed74bfae0e2a002e0e79c2f82e3b3",
       "summation": "md5"
     },
     {
       "name": "timesofindia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900576",
-      "size": "1413120",
-      "md5": "3a095a7a94d8d1b71130f5284c99c39b",
-      "crc32": "14ad247f",
-      "sha1": "5752204efcaace73b6e56a037acbab7de12cd9b4",
+      "mtime": "1666946250",
+      "size": "1421312",
+      "md5": "1b35e29909174762554d2ffb3bdcfb67",
+      "crc32": "fedeca44",
+      "sha1": "1c92efaf210234ea95848bc75c32ddf62e41c2fc",
       "format": "Metadata"
     },
     {
@@ -11466,9 +11517,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1108,
-  "item_last_updated": 1666907916,
-  "item_size": 114027988,
+  "files_count": 1113,
+  "item_last_updated": 1666946305,
+  "item_size": 114552907,
   "metadata": {
     "identifier": "timesofindia-2022",
     "collection": [
@@ -11485,10 +11536,21 @@
     "publicdate": "2022-07-24 03:43:40",
     "addeddate": "2022-07-24 03:43:40"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1047507998,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454966115,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1869542323,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

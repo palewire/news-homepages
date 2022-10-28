@@ -1,5 +1,5 @@
 {
-  "created": 1666908008,
+  "created": 1666946109,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -14146,31 +14146,82 @@
       "sha1": "38dfc46976f6843018516ef9157d6f3ecd95d2fa"
     },
     {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946037",
+      "size": "33450",
+      "md5": "59a3804faaf387b84f1bb60245b5ffee",
+      "crc32": "e01f8959",
+      "sha1": "c72506f0beec32f6c0870ddfbf3b2cf85ca522bb",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946039",
+      "size": "79690",
+      "md5": "95ea8dc3846e7b0793d1d9267949dcbe",
+      "crc32": "e9aaf43c",
+      "sha1": "9e91f7db3bfee1495059a92b2c0f15703d33f0ec",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.jpg",
+      "source": "original",
+      "mtime": "1666946036",
+      "size": "333968",
+      "md5": "161748a07166759919a41b787528bc67",
+      "crc32": "c3af35a1",
+      "sha1": "bc27bca3657faa87275b4799ad67b60b703848e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946041",
+      "size": "1477",
+      "md5": "ab83bd16c0422cd156a2743e2895a3a1",
+      "crc32": "627f2c64",
+      "sha1": "4480a75b3f0ba0a6e49e2a46d48c314c315f1acb",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946042",
+      "size": "44976",
+      "md5": "14b9ffb0641e013f1d2abcc3f040ef2d",
+      "crc32": "83190dd6",
+      "sha1": "849e25f157dc619ada6e81a43cd7f4e08f28ee78",
+      "format": "JSON"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95afc358895b01d5365ca2ca59ef0bd1ab81c742",
-      "mtime": "1666907834",
-      "size": "289138",
-      "md5": "8f08c20fba4c3bfc775f12f9ec803b56",
-      "crc32": "d407bff5",
-      "sha1": "5c673e895ed2c56c11f15a5940d9c25892bf05cd",
+      "btih": "6d507f63862587dd241ad74cc1ca60f652cd2a0f",
+      "mtime": "1666946105",
+      "size": "290201",
+      "md5": "25b4ea734049daae6260578c1c698335",
+      "crc32": "8ab011fe",
+      "sha1": "d9255203faeee5215600774c0b63b0324e61ce44",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26529e4613d904fd330199eb74517ae5",
+      "md5": "565e86f83714caecca67273b6557bca9",
       "summation": "md5"
     },
     {
       "name": "stltoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900353",
-      "size": "1687552",
-      "md5": "85ce2331511a64815184bce7e9393ff3",
-      "crc32": "21a3d5a5",
-      "sha1": "df05b4cb588122f70644c718e964d5b65ede2e87",
+      "mtime": "1666946048",
+      "size": "1695744",
+      "md5": "c589270b58c40c875b2f6d3da7c13b88",
+      "crc32": "33891d48",
+      "sha1": "c4c7b2cd027e4f3803b2eb815ae5ac3c5c33bc64",
       "format": "Metadata"
     },
     {
@@ -14184,9 +14235,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1366,
-  "item_last_updated": 1666907834,
-  "item_size": 126105523,
+  "files_count": 1371,
+  "item_last_updated": 1666946105,
+  "item_size": 126608339,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -14203,10 +14254,21 @@
     "publicdate": "2022-06-24 23:01:32",
     "addeddate": "2022-06-24 23:01:32"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 743133100,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454963942,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 415516378,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }

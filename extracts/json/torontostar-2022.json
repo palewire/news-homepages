@@ -1,5 +1,5 @@
 {
-  "created": 1666909541,
+  "created": 1666946453,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/torontostar-2022",
@@ -14256,31 +14256,82 @@
       "sha1": "213a54e700df7dd27f0791f91c5c55989d962c7d"
     },
     {
+      "name": "torontostar-2022-10-28T04:36:28.145886-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946195",
+      "size": "60556",
+      "md5": "e0cc27d9dd53a43e6aef302209ba7172",
+      "crc32": "5af1f02e",
+      "sha1": "56ceeb943ecd4d647f6eeb964e33d21374d03098",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-10-28T04:36:28.145886-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946197",
+      "size": "37057",
+      "md5": "06850c4b45501a60ca40affa36a51c68",
+      "crc32": "2063cbf6",
+      "sha1": "af8d98c1797813d9e202397e2e30b5ed6b71162c",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-10-28T04:36:28.145886-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946194",
+      "size": "279783",
+      "md5": "90e099213cc299ccf8afdc81f9d8b35d",
+      "crc32": "0a2fda2b",
+      "sha1": "c7d3c273e821bf0fe8ef2a91988e060fda9ece7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torontostar-2022-10-28T04:36:28.145886-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946200",
+      "size": "1510",
+      "md5": "5f54d10d1a6d855d82c4a976f630ae2b",
+      "crc32": "31a20a64",
+      "sha1": "4fcf129b8fe0ad4640e48ecf6b6bd41ed5312010",
+      "format": "JSON"
+    },
+    {
+      "name": "torontostar-2022-10-28T04:36:28.145886-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946201",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "torontostar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa55a9fe746f6ad0cc84d989a7cec065e3b97a88",
-      "mtime": "1666907990",
-      "size": "294870",
-      "md5": "f6daff0981bfccd33c4b76f5e03aa9cf",
-      "crc32": "69affbc4",
-      "sha1": "2ccd4c4a9f96f6cbac1bf3839e0dbb319551fc35",
+      "btih": "04f476dc870992c64e2476578adab3d315c79d59",
+      "mtime": "1666946434",
+      "size": "295946",
+      "md5": "485896b1cbd06ffd8bb8310812907fb8",
+      "crc32": "c955c5a3",
+      "sha1": "02f5ce79310bb0b5cfc6053f2aeb2a55537407c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torontostar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55f1bde7902318f5117f558d19fc1e1a",
+      "md5": "92f4f9384a9e0cf926fe14f8daed06b7",
       "summation": "md5"
     },
     {
       "name": "torontostar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900479",
-      "size": "1724416",
-      "md5": "40c73483a32c834a2d09cfff0ee5d48a",
-      "crc32": "444f3839",
-      "sha1": "5aa680e01250d1275c04f2781c7fdc28ecc7792a",
+      "mtime": "1666946373",
+      "size": "1732608",
+      "md5": "fcfb5cd3578d8969e383599ec0c1ee0a",
+      "crc32": "7792ab0f",
+      "sha1": "58674c3444c57accd73b1da7303ac3322423169a",
       "format": "Metadata"
     },
     {
@@ -14294,9 +14345,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1378,
-  "item_last_updated": 1666907990,
-  "item_size": 104251949,
+  "files_count": 1383,
+  "item_last_updated": 1666946434,
+  "item_size": 104640325,
   "metadata": {
     "identifier": "torontostar-2022",
     "collection": [
@@ -14313,10 +14364,21 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1069998642,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454967635,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 187780636,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

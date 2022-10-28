@@ -1,5 +1,5 @@
 {
-  "created": 1666908459,
+  "created": 1666946283,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/7/items/thegrio-2022",
@@ -10496,31 +10496,82 @@
       "sha1": "69b51925e21e801dd2797712137b7cc71c043d57"
     },
     {
+      "name": "thegrio-2022-10-28T04:36:48.715067-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946227",
+      "size": "22628",
+      "md5": "66545b6077fce18697727b0a6f3b67eb",
+      "crc32": "89a2d258",
+      "sha1": "c864ae9f22ae5bdebfbb52130ceec6a0cb028453",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-10-28T04:36:48.715067-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946229",
+      "size": "27280",
+      "md5": "52cad0f520ae2d7d949f5901894f8f4c",
+      "crc32": "6e0e7482",
+      "sha1": "f174194dababe918778a9fc60c681e36d991bf7a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-10-28T04:36:48.715067-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946225",
+      "size": "287887",
+      "md5": "aedaaf19df4edfb98ced7fd1cdb490ed",
+      "crc32": "00f559ec",
+      "sha1": "4547b4ed6ef1e78509a7bfdeeb466420480d1740",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegrio-2022-10-28T04:36:48.715067-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946230",
+      "size": "1432",
+      "md5": "500744744ecf59eda54c560284347cca",
+      "crc32": "942e6d3b",
+      "sha1": "5705be32f05d46ee8905e2c841c2e78e78cff244",
+      "format": "JSON"
+    },
+    {
+      "name": "thegrio-2022-10-28T04:36:48.715067-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946232",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thegrio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ef862954efc4779cfa35714c97219dfdbfa31e9d",
-      "mtime": "1666908395",
-      "size": "213781",
-      "md5": "ac358cc4ff01c61139af728fd2333496",
-      "crc32": "0efd078c",
-      "sha1": "701218a030b982bf2b91051b66943bc315f64826",
+      "btih": "bb8a6ed5654f4e226244a771262617dda61b45fa",
+      "mtime": "1666946279",
+      "size": "214817",
+      "md5": "192d3f14a394680d873a900c0df92b2f",
+      "crc32": "6dd2b9cd",
+      "sha1": "50867b7809fe67ccf932b118b13d85b903cf18c1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegrio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "17297031f7c403459cebf24f38fa99fe",
+      "md5": "598467461e5aaa975e8272e6c37b6ed8",
       "summation": "md5"
     },
     {
       "name": "thegrio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900394",
-      "size": "1298432",
-      "md5": "cd8f79f7d102b6907edc93680274d0dd",
-      "crc32": "150458a2",
-      "sha1": "0cb90d30134fb233eebf70518653377d3f0d9b92",
+      "mtime": "1666946235",
+      "size": "1302528",
+      "md5": "33972e83c2424db356ba6ee8ad24a77c",
+      "crc32": "3ebd47de",
+      "sha1": "30d64f5a595497379246e960121b6ae32e2eb52c",
       "format": "Metadata"
     },
     {
@@ -10534,9 +10585,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1019,
-  "item_last_updated": 1666908395,
-  "item_size": 63191082,
+  "files_count": 1024,
+  "item_last_updated": 1666946279,
+  "item_size": 63535643,
   "metadata": {
     "identifier": "thegrio-2022",
     "collection": [
@@ -10553,10 +10604,21 @@
     "publicdate": "2022-08-03 04:46:19",
     "addeddate": "2022-08-03 04:46:19"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 1968358409,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454965750,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 445637225,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

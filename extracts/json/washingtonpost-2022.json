@@ -1,5 +1,5 @@
 {
-  "created": 1666910712,
+  "created": 1666946502,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/25/items/washingtonpost-2022",
@@ -25332,31 +25332,82 @@
       "sha1": "e155762785565aafd56482dc03426f29424ea045"
     },
     {
+      "name": "washingtonpost-2022-10-28T04:39:41.465751-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946404",
+      "size": "69362",
+      "md5": "f21a9be17064ec7a07aa22068100e16e",
+      "crc32": "6b87b856",
+      "sha1": "9b2df9e299aa56c9485cc3d3d517974cd73547be",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-10-28T04:39:41.465751-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946406",
+      "size": "69285",
+      "md5": "0cb6a9ec73c900caf065403b8f07d83b",
+      "crc32": "19ec4ff5",
+      "sha1": "c68321efc24b56dd1f46d6b04f1abc628f585514",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-10-28T04:39:41.465751-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946400",
+      "size": "244262",
+      "md5": "fa7c973817770b8397c949d84a86e03d",
+      "crc32": "1147ebe7",
+      "sha1": "488dd88d3e75d009b1599db95fe2a48bf429fba6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washingtonpost-2022-10-28T04:39:41.465751-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946407",
+      "size": "1528",
+      "md5": "9444b5af4f3ff57507556e8e10e48c7c",
+      "crc32": "f6c5d09c",
+      "sha1": "72e82acbe6f0ba0f7405c7803ada6e74e011b3dc",
+      "format": "JSON"
+    },
+    {
+      "name": "washingtonpost-2022-10-28T04:39:41.465751-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946409",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "washingtonpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b01ef4351b25c8ca126b02e716ec6ad3ec38fcb4",
-      "mtime": "1666910625",
-      "size": "530366",
-      "md5": "a30df7cc07aa26b92877e6dd94075c33",
-      "crc32": "e53816cc",
-      "sha1": "3a105f633e5ecadec9470a9c07a065d7e59575b3",
+      "btih": "2616e337689064219ae090ac1dfcf005c2ad8879",
+      "mtime": "1666946496",
+      "size": "531457",
+      "md5": "fc87f84242f485c3e1e3ef557e2cccc5",
+      "crc32": "0eb3e7f3",
+      "sha1": "17a96de99d20040ff6d248531dfb18d0f27584b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washingtonpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b8719b627b26be40a31e83603b8b2b0",
+      "md5": "0509188997ce8be25fcfc6c10192aafa",
       "summation": "md5"
     },
     {
       "name": "washingtonpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666905987",
-      "size": "3096576",
-      "md5": "e139cfe2d953603d1c87d211bf6f721f",
-      "crc32": "f5a88022",
-      "sha1": "5ca0c6e9b09349335fbcf72ec1efc1ce6c25c0c0",
+      "mtime": "1666946415",
+      "size": "3104768",
+      "md5": "d2efea7a142a528eb2143b2aa2c4abd2",
+      "crc32": "7f18dda4",
+      "sha1": "81d122c654960888d57420530e59c0486207fad1",
       "format": "Metadata"
     },
     {
@@ -25370,9 +25421,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2449,
-  "item_last_updated": 1666910625,
-  "item_size": 177482751,
+  "files_count": 2454,
+  "item_last_updated": 1666946496,
+  "item_size": 177876673,
   "metadata": {
     "identifier": "washingtonpost-2022",
     "collection": [
@@ -25389,10 +25440,21 @@
     "publicdate": "2022-07-08 16:39:01",
     "addeddate": "2022-07-08 16:39:01"
   },
-  "server": "ia802505.us.archive.org",
-  "uniq": 652209928,
+  "pending_tasks": true,
+  "server": "ia902505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454968234,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1089546934,
   "workable_servers": [
-    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

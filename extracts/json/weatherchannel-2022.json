@@ -1,5 +1,5 @@
 {
-  "created": 1666907991,
+  "created": 1666946480,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/weatherchannel-2022",
@@ -11234,31 +11234,82 @@
       "sha1": "212170b4cd13372d4a3abf7a358e0e5ea82fa102"
     },
     {
+      "name": "weatherchannel-2022-10-28T04:39:59.141131-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946412",
+      "size": "9854",
+      "md5": "af2389e9c49ea35e15e366cbdb7647ee",
+      "crc32": "7865ea06",
+      "sha1": "56b919ea820075788cf37da14543f7fab4a15a4d",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-10-28T04:39:59.141131-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946414",
+      "size": "20772",
+      "md5": "f8a66e7c02adf416477dfc76bbefefb7",
+      "crc32": "f9bf3dd3",
+      "sha1": "9779e6c8810a75a18384b5fc7f17f7d45a2cff55",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-10-28T04:39:59.141131-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946411",
+      "size": "303871",
+      "md5": "70c4b317209a902b78357676d6da34e0",
+      "crc32": "573f9482",
+      "sha1": "12fcb5748eec8021dbc3193c7e7ae5a95b59367d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weatherchannel-2022-10-28T04:39:59.141131-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946416",
+      "size": "1431",
+      "md5": "697e0c42f0ea05618fdf4cffd2cd2f71",
+      "crc32": "078ce20b",
+      "sha1": "d422f4c228f0bce30f8e79f57193e51113d2ae2c",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-10-28T04:39:59.141131-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946417",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "weatherchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "255c0fba38c89eba5253a8b28fa0161182ab3aa5",
-      "mtime": "1666907956",
-      "size": "236001",
-      "md5": "d6d0ff3c392185c635bc09d8bb04c175",
-      "crc32": "599935ba",
-      "sha1": "1a861cc93de58c4b97a7f24356a7b82b7b95f6fb",
+      "btih": "9b958beba0e216777e53fb88b779df9f0bab1896",
+      "mtime": "1666946472",
+      "size": "237071",
+      "md5": "16b71dbffdd00e0f9979c2f1871afce2",
+      "crc32": "b306624c",
+      "sha1": "af72fe1cd653f5689cc3fb13b7e60c50bae67de6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weatherchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d97e6822e8bdb6fd026426917942d90d",
+      "md5": "92ca7dcac66583d83a2f20d32ec56656",
       "summation": "md5"
     },
     {
       "name": "weatherchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900676",
-      "size": "1400832",
-      "md5": "44f8be777057ec39ba43974a95e15705",
-      "crc32": "990609d0",
-      "sha1": "7780c4026e480d4a2ac9c0c6e8f3aaa46e1adad6",
+      "mtime": "1666946424",
+      "size": "1404928",
+      "md5": "7d9593937149d9b78f75035c65e2c425",
+      "crc32": "35b2ba2c",
+      "sha1": "da02a71ba437fc635b74221e4079a5c73b03f1a4",
       "format": "Metadata"
     },
     {
@@ -11272,9 +11323,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1090,
-  "item_last_updated": 1666907956,
-  "item_size": 65320214,
+  "files_count": 1095,
+  "item_last_updated": 1666946472,
+  "item_size": 65661510,
   "metadata": {
     "identifier": "weatherchannel-2022",
     "collection": [
@@ -11291,10 +11342,21 @@
     "publicdate": "2022-07-26 15:49:58",
     "addeddate": "2022-07-26 15:49:58"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 173665313,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454967959,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 174955653,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

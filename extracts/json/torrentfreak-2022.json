@@ -1,5 +1,5 @@
 {
-  "created": 1666907854,
+  "created": 1666946364,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/24/items/torrentfreak-2022",
@@ -11462,31 +11462,82 @@
       "sha1": "46843d2d6169712a214b188621f1a1e83567b19f"
     },
     {
+      "name": "torrentfreak-2022-10-28T01:36:19.349626-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946210",
+      "size": "6918",
+      "md5": "f1572a73be289a26149f36952705ed2c",
+      "crc32": "3dd5b633",
+      "sha1": "9a2367e1bf2fe66e388591e3ffa0d5d92cf895a6",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-10-28T01:36:19.349626-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946211",
+      "size": "8457",
+      "md5": "298fc87361c8b7bea04fb24ca35fd2de",
+      "crc32": "12a02d88",
+      "sha1": "2aa1fa28a75b0466c81aba0fb51ce9540558b18c",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-10-28T01:36:19.349626-07:00.jpg",
+      "source": "original",
+      "mtime": "1666946208",
+      "size": "267849",
+      "md5": "aa74e71cea2b411d46fd67fd1aaee4cc",
+      "crc32": "f811626c",
+      "sha1": "11194c2a3413b7eb557eeab503575fd0e70f347e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "torrentfreak-2022-10-28T01:36:19.349626-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946213",
+      "size": "1467",
+      "md5": "8d80058b2506f3e1220bf0a02170cea9",
+      "crc32": "766aba99",
+      "sha1": "59781c63da52469b5d9cc68c2af1a2326a81328e",
+      "format": "JSON"
+    },
+    {
+      "name": "torrentfreak-2022-10-28T01:36:19.349626-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946215",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "torrentfreak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a33eb586c941b0ffa2c2403f0b58199f9141820",
-      "mtime": "1666907830",
-      "size": "237759",
-      "md5": "b3f06c02da980fdb3d308f50bcd45941",
-      "crc32": "89015520",
-      "sha1": "0c974445cc8029d95761b22f4b0e43c2df6d221f",
+      "btih": "935471e2a01189ba83491e1090481cd012e4a6a0",
+      "mtime": "1666946337",
+      "size": "238818",
+      "md5": "a7e3f557b3d4288c98b62e986cb5b52c",
+      "crc32": "439e4a07",
+      "sha1": "c0f68611d45ff0355aa2d442fdcf07371fe68739",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torrentfreak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e68006e0659a8eefa16990190459e07",
+      "md5": "963e96f2a17ea43158f0f8f608d0e086",
       "summation": "md5"
     },
     {
       "name": "torrentfreak-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900533",
-      "size": "1425408",
-      "md5": "570999dda2060082eea1b3b55f7cd269",
-      "crc32": "2032f559",
-      "sha1": "9fd470111549d442a50c08c6cf38eb080f803f15",
+      "mtime": "1666946283",
+      "size": "1429504",
+      "md5": "c22850b3a565625a4eec7396b442298d",
+      "crc32": "df80d4f3",
+      "sha1": "2a20adf0b9419612e3b182e2c5e94968cf233013",
       "format": "Metadata"
     },
     {
@@ -11500,9 +11551,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1112,
-  "item_last_updated": 1666907830,
-  "item_size": 57614262,
+  "files_count": 1117,
+  "item_last_updated": 1666946337,
+  "item_size": 57904310,
   "metadata": {
     "identifier": "torrentfreak-2022",
     "collection": [
@@ -11519,10 +11570,21 @@
     "publicdate": "2022-07-25 06:46:58",
     "addeddate": "2022-07-25 06:46:58"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1509440859,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454966763,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 145116826,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

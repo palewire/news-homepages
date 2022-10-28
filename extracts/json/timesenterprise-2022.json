@@ -1,5 +1,5 @@
 {
-  "created": 1666919708,
+  "created": 1666946456,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/30/items/timesenterprise-2022",
@@ -11204,31 +11204,82 @@
       "sha1": "3f8b35d60efee6769bef7103b79b9c8ddd18b73a"
     },
     {
+      "name": "timesenterprise-2022-10-28T04:36:49.758275-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946217",
+      "size": "58084",
+      "md5": "92ec1f4eac390a3ee65c009a91ba4360",
+      "crc32": "d9caf9b7",
+      "sha1": "c9108a2a4e3d7ad8e87502f8c8d1aa1dded31cdb",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-10-28T04:36:49.758275-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946219",
+      "size": "79884",
+      "md5": "eb210b4c127d5ca4929f10dc2f1865ce",
+      "crc32": "8b765694",
+      "sha1": "55762ff334639aa53d8bf2216003888e79bc47f7",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-10-28T04:36:49.758275-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946216",
+      "size": "323019",
+      "md5": "f1235011b48c9aa191ac6f7c438cf013",
+      "crc32": "1923a226",
+      "sha1": "13b7a8c9fb27b92fbb7fc4f6b8225a480ebb9260",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesenterprise-2022-10-28T04:36:49.758275-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946220",
+      "size": "1539",
+      "md5": "1122cc2afc755274380868df6d576fd2",
+      "crc32": "2f72077e",
+      "sha1": "73ddf2b37d6c2ab02a6e0bc044bfd0cd0949257e",
+      "format": "JSON"
+    },
+    {
+      "name": "timesenterprise-2022-10-28T04:36:49.758275-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946222",
+      "size": "85123",
+      "md5": "d62b03de20f725f5628e68a68282148b",
+      "crc32": "36ffb918",
+      "sha1": "6f99046290704cf3ff9f0aebcdeb7ff5944c7047",
+      "format": "JSON"
+    },
+    {
       "name": "timesenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1140cf82f0c6a86b8946e6a8b39fcc5b45782d1",
-      "mtime": "1666907730",
-      "size": "236997",
-      "md5": "83093be853cedec0517f77b35e1405fc",
-      "crc32": "ea9112e3",
-      "sha1": "9d9be71421e2bcd1634aae31f00fbf8a4094fad4",
+      "btih": "d7757d9e2da640d76d9b7e3ebc1f842a91460153",
+      "mtime": "1666946432",
+      "size": "238095",
+      "md5": "eb129bce5fb8a7d8629949301471862c",
+      "crc32": "6b0dc840",
+      "sha1": "3650b68d0d01ce3bf92ab1e4769f28a4cac23aa4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "883dda0d5872ad6a8477ea8b3e25a1bb",
+      "md5": "e12f760c1afd5edda1a947a7e6c23505",
       "summation": "md5"
     },
     {
       "name": "timesenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900494",
-      "size": "1380352",
-      "md5": "54eae43e7b0ad25165bcbd51c91f8861",
-      "crc32": "900b86f0",
-      "sha1": "461caaa508c0a3ba3ba54b7925a8dc4524e4c620",
+      "mtime": "1666946375",
+      "size": "1384448",
+      "md5": "c46dbb2baf39f08a3286c6e3d06119d6",
+      "crc32": "87f48dfe",
+      "sha1": "c95247bcaadd5e614b39af198786bcdc4984e1d6",
       "format": "Metadata"
     },
     {
@@ -11242,9 +11293,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1085,
-  "item_last_updated": 1666907730,
-  "item_size": 95405208,
+  "files_count": 1090,
+  "item_last_updated": 1666946432,
+  "item_size": 95958051,
   "metadata": {
     "identifier": "timesenterprise-2022",
     "collection": [
@@ -11261,15 +11312,21 @@
     "publicdate": "2022-07-20 23:31:34",
     "addeddate": "2022-07-20 23:31:34"
   },
+  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "timesenterprise-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 573157598,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454967696,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 173685616,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }

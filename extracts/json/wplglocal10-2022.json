@@ -1,5 +1,5 @@
 {
-  "created": 1666920204,
+  "created": 1666946493,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/20/items/wplglocal10-2022",
@@ -11164,31 +11164,82 @@
       "sha1": "af21c2170fbaea719d9bdcb45a89c99d269428e0"
     },
     {
+      "name": "wplglocal10-2022-10-28T04:39:54.526983-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946408",
+      "size": "65537",
+      "md5": "65b6c9aed8e5ab414cabdfed23461e60",
+      "crc32": "756b5ce8",
+      "sha1": "bb52b2424509ce8c8d09a53938a83a4ae6b3dbf5",
+      "format": "JSON"
+    },
+    {
+      "name": "wplglocal10-2022-10-28T04:39:54.526983-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946412",
+      "size": "49881",
+      "md5": "31c107ccbd5bbc2f3e8a53320ab11817",
+      "crc32": "11b1529c",
+      "sha1": "aebcc867b12b59ecba6c976b25a0893d6976e5da",
+      "format": "JSON"
+    },
+    {
+      "name": "wplglocal10-2022-10-28T04:39:54.526983-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946404",
+      "size": "251762",
+      "md5": "5c3367c4701d483c05cb69e2327759cf",
+      "crc32": "a5ce8b29",
+      "sha1": "18e81e790e24de05d44f3d976eb8aaf18ec548dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wplglocal10-2022-10-28T04:39:54.526983-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946416",
+      "size": "1459",
+      "md5": "6aad99357a28cf8093123ce1098ed019",
+      "crc32": "58a8a3f3",
+      "sha1": "0b7a72f432477c4c114879f496bdebb067d913e8",
+      "format": "JSON"
+    },
+    {
+      "name": "wplglocal10-2022-10-28T04:39:54.526983-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946417",
+      "size": "37148",
+      "md5": "ef431817452e4df737e46131f9016896",
+      "crc32": "38a332e3",
+      "sha1": "74d0f5d037b3307b3fb3ceac82cdf814ba5d0384",
+      "format": "JSON"
+    },
+    {
       "name": "wplglocal10-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4acf56db5f7f800ee8c0d3012145c4b0910d1f46",
-      "mtime": "1666907888",
-      "size": "231971",
-      "md5": "a162e3d7578131c80137068a665e6ef1",
-      "crc32": "b5090577",
-      "sha1": "eb00c31545a07f4fdae595a001e7334c23687878",
+      "btih": "f46a9077bd1e8d2bad86faf0f589486c3788cd3f",
+      "mtime": "1666946486",
+      "size": "233049",
+      "md5": "c73bf06b18030ff08c58cced04dbcbc4",
+      "crc32": "5a9d2671",
+      "sha1": "b28c3685df824de007acbee82ce7de296442c0ae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wplglocal10-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3717705eb4ede01b581370179d22f8d3",
+      "md5": "7104ca37dce0c71a0e7aba8021996697",
       "summation": "md5"
     },
     {
       "name": "wplglocal10-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900683",
-      "size": "1380352",
-      "md5": "1975c34b910687a85e585af104a2f680",
-      "crc32": "7d6d59fb",
-      "sha1": "a3032c900d11bd26c67a9c316af55cf66983c8f3",
+      "mtime": "1666946427",
+      "size": "1388544",
+      "md5": "9eb5d7940a886c6a8a9cee6440f1915b",
+      "crc32": "13ac881c",
+      "sha1": "de3cc7fca18f8b8b15c7643b11164c95a2c34aaf",
       "format": "Metadata"
     },
     {
@@ -11202,9 +11253,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1083,
-  "item_last_updated": 1666907888,
-  "item_size": 79332171,
+  "files_count": 1088,
+  "item_last_updated": 1666946486,
+  "item_size": 79747228,
   "metadata": {
     "identifier": "wplglocal10-2022",
     "collection": [
@@ -11221,18 +11272,21 @@
     "publicdate": "2022-07-27 15:52:31",
     "addeddate": "2022-07-27 15:52:31"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 1165228626,
-  "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454968112,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
   ],
-  "wplglocal10-2022": {
-    "url": "https://www.local10.com/",
-    "job_id": "spn2-13c90fc1ed27cfb781f74de271d357037bf2fc82",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  }
+  "uniq": 998383750,
+  "workable_servers": [
+    "ia601502.us.archive.org"
+  ]
 }

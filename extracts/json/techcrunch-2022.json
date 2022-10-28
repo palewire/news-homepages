@@ -1,5 +1,5 @@
 {
-  "created": 1666908132,
+  "created": 1666946077,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/techcrunch-2022",
@@ -16008,31 +16008,82 @@
       "sha1": "0c985b990121cc5951b397d3fd570abcb0511b10"
     },
     {
+      "name": "techcrunch-2022-10-28T01:32:53.690874-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945983",
+      "size": "32145",
+      "md5": "7826cd28bca32c893534336dadf7c583",
+      "crc32": "807b993d",
+      "sha1": "e3709b55112d76bdb7bd1500bb08dc356eca5af6",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-28T01:32:53.690874-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945985",
+      "size": "13709",
+      "md5": "ea09f2a11fadef2229d3c3d6781eaec9",
+      "crc32": "62ea08b8",
+      "sha1": "a875597e1c8838c475724a3173f38a28bdefb782",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-28T01:32:53.690874-07:00.jpg",
+      "source": "original",
+      "mtime": "1666945981",
+      "size": "228309",
+      "md5": "4d163c093f5fabab1640525578d47f9a",
+      "crc32": "029cd4e1",
+      "sha1": "d4ec6d8fdf83d4c16fcef69f99c35a9e635d9f78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techcrunch-2022-10-28T01:32:53.690874-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945987",
+      "size": "1459",
+      "md5": "921ca336f36257bac176e1574b4e2bf9",
+      "crc32": "f444e23e",
+      "sha1": "0d31673790b8f7ea885abca85476e0b4595f1343",
+      "format": "JSON"
+    },
+    {
+      "name": "techcrunch-2022-10-28T01:32:53.690874-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945988",
+      "size": "42006",
+      "md5": "6e922a7bc6e7b7b611ba3ab3929c4820",
+      "crc32": "505c8398",
+      "sha1": "037205d948dd79a2931de3beed3ec9c57e71a56d",
+      "format": "JSON"
+    },
+    {
       "name": "techcrunch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de8ec62c2e1f6a355e75024eff67e07f4650b4af",
-      "mtime": "1666907980",
-      "size": "327907",
-      "md5": "f8d4e3795dcce99bedff06aee4396b1f",
-      "crc32": "3f62c0d8",
-      "sha1": "81659f302f79574ee7149e86161b865600c5dfc6",
+      "btih": "71a449d20387cd55ecc2c5e5da76efbbc25c9803",
+      "mtime": "1666946064",
+      "size": "328980",
+      "md5": "17ecf8c7c4c634350c42c49c6bb84a4e",
+      "crc32": "4520187b",
+      "sha1": "e088faef016d11bcb33b92bada642de9e19ae6a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techcrunch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e3d4402dab918a310bfdf127a6dc298",
+      "md5": "7ff723e00aea6f55aa745a863f57d9cd",
       "summation": "md5"
     },
     {
       "name": "techcrunch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900546",
-      "size": "1912832",
-      "md5": "7cd256db0c2d7ecb5af5de089b656347",
-      "crc32": "48173dd2",
-      "sha1": "b9ec8586ce8257993a2a42c138ed2290434865a6",
+      "mtime": "1666945997",
+      "size": "1921024",
+      "md5": "1928362555dff9b51fb76d553a8df07b",
+      "crc32": "7c5c9ea6",
+      "sha1": "2693ff12b8017a5c1d7926a879dcf27fcb341610",
       "format": "Metadata"
     },
     {
@@ -16046,9 +16097,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1545,
-  "item_last_updated": 1666907980,
-  "item_size": 91548021,
+  "files_count": 1550,
+  "item_last_updated": 1666946064,
+  "item_size": 91874914,
   "metadata": {
     "identifier": "techcrunch-2022",
     "collection": [
@@ -16065,10 +16116,21 @@
     "publicdate": "2022-06-24 23:01:49",
     "addeddate": "2022-06-24 23:01:49"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 58516376,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454963544,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2054001345,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

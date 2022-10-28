@@ -1,5 +1,5 @@
 {
-  "created": 1666907788,
+  "created": 1666946061,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/27/items/telegraphga-2022",
@@ -11722,31 +11722,82 @@
       "sha1": "8769865e5c8acddc89ede7547b4575ec404e43b3"
     },
     {
+      "name": "telegraphga-2022-10-28T04:32:59.790219-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945999",
+      "size": "454",
+      "md5": "56e0fc794b5873604c66af447fdb4a01",
+      "crc32": "92f54bd0",
+      "sha1": "ec4525f9f119aae608b7d7e8a6c2ed5eea60ec60",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-10-28T04:32:59.790219-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946001",
+      "size": "34224",
+      "md5": "8e07ddbd1bcca4814d812c9572699f8f",
+      "crc32": "df91dfef",
+      "sha1": "d141b1f4c9226773094ebf25b97ea5f551ec4fa6",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-10-28T04:32:59.790219-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945997",
+      "size": "277246",
+      "md5": "90e18b567da03eb55b4fb1c19ad24bce",
+      "crc32": "d4d52811",
+      "sha1": "49b19677d255ffd8d4fb486dd740009238e4dc5c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphga-2022-10-28T04:32:59.790219-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946002",
+      "size": "1449",
+      "md5": "efbe8a5fdce7ea87b193c1e3f15bf544",
+      "crc32": "d693c643",
+      "sha1": "6f0abc240c5a29f6102ba0d8e817b21e5f77d40d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphga-2022-10-28T04:32:59.790219-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946004",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "telegraphga-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a891f3cd2b52a1615aa82e1aa370abcbc5585f4",
-      "mtime": "1666907737",
-      "size": "242329",
-      "md5": "82f7c41677b030fa9563d020aea06008",
-      "crc32": "2c80ba5d",
-      "sha1": "8f7fec5308850fc300a4227c66772d6369027bae",
+      "btih": "fa422d2bf7ef956e37808375cb040bd6c0d3f66a",
+      "mtime": "1666946058",
+      "size": "243383",
+      "md5": "fba05b2e04540df5b12fbb15b848fe06",
+      "crc32": "3f2746fe",
+      "sha1": "be12f6135deeb37cd11126f0508342cefdf0d093",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraphga-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5120e6a1a12d7aa79ccecd4a8da85d65",
+      "md5": "8f85db138870c0f63792ad297ec829f1",
       "summation": "md5"
     },
     {
       "name": "telegraphga-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900367",
-      "size": "1441792",
-      "md5": "387cd3b3a3262a26679c2ce1f0c5f956",
-      "crc32": "0aad0df7",
-      "sha1": "85851c023604ef8ac61a8e90145c4455ffd0c633",
+      "mtime": "1666946008",
+      "size": "1449984",
+      "md5": "c2c9659b6e4d6666bfa3f54e560c05a7",
+      "crc32": "7ca28ed0",
+      "sha1": "b6af2179e763b7a9b4879bbbe0ddfb784ec0354b",
       "format": "Metadata"
     },
     {
@@ -11760,9 +11811,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1136,
-  "item_last_updated": 1666907737,
-  "item_size": 73319914,
+  "files_count": 1141,
+  "item_last_updated": 1666946058,
+  "item_size": 73642735,
   "metadata": {
     "identifier": "telegraphga-2022",
     "collection": [
@@ -11779,10 +11830,21 @@
     "publicdate": "2022-07-20 23:31:10",
     "addeddate": "2022-07-20 23:31:10"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 808194849,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454963394,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1853021354,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666917780,
+  "created": 1666946108,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/23/items/springfieldnl-2022",
@@ -4666,31 +4666,82 @@
       "sha1": "83844112a128af85f39ae794e5f18aaf47679927"
     },
     {
+      "name": "springfieldnl-2022-10-28T03:33:24.457238-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946007",
+      "size": "18686",
+      "md5": "486330e20ad0e7de957085d6926ee052",
+      "crc32": "7deed022",
+      "sha1": "0de411e94f6e9a0410512489e9866b9794cfb6b3",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-28T03:33:24.457238-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946008",
+      "size": "38889",
+      "md5": "3b6e3cddf529f0b16771e75fb6b8dcfe",
+      "crc32": "e33f038a",
+      "sha1": "960dfa7b6d01ecf4bf7c9229b2208ee5e49f403c",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-28T03:33:24.457238-05:00.jpg",
+      "source": "original",
+      "mtime": "1666946005",
+      "size": "308357",
+      "md5": "7b44f0230bbc252da7d1e6e3828040f2",
+      "crc32": "7debd520",
+      "sha1": "55a5e23b8beefe1b22e98482041390ad61b021ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "springfieldnl-2022-10-28T03:33:24.457238-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946010",
+      "size": "1504",
+      "md5": "9245648122bd1f9e5313181ec4866554",
+      "crc32": "71f4c5ce",
+      "sha1": "931854d8b6d6a51054f860b7b77af870385e2ab3",
+      "format": "JSON"
+    },
+    {
+      "name": "springfieldnl-2022-10-28T03:33:24.457238-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946011",
+      "size": "208",
+      "md5": "8141d102c184cc9b84877c6f946633e9",
+      "crc32": "be26fb86",
+      "sha1": "a4a601483f4d3233910f33ca85908c5be9f8f1d6",
+      "format": "JSON"
+    },
+    {
       "name": "springfieldnl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39d110893b1c9280fb7ed96568389c89482744b5",
-      "mtime": "1666907908",
-      "size": "98584",
-      "md5": "9a619fe908520221e61bd229d68932ed",
-      "crc32": "1def5c0c",
-      "sha1": "7507bcb110c04227018718b288228eac47ed9ac2",
+      "btih": "bff9ce54b63b9be70d5890e3f2d0c6fc84eef081",
+      "mtime": "1666946097",
+      "size": "99670",
+      "md5": "089ddc5bf50fef25b173f0f7d3f85b58",
+      "crc32": "b1e5a0b8",
+      "sha1": "30b7a8c356e412704215d5a98046b788ed792899",
       "format": "Archive BitTorrent"
     },
     {
       "name": "springfieldnl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "149ea82f6401dd9ed81ebe34fa3159ab",
+      "md5": "be324d1b216dcbc6e24a89a389f18165",
       "summation": "md5"
     },
     {
       "name": "springfieldnl-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900355",
-      "size": "593920",
-      "md5": "afe962b82e49905d728c9a35e9be6191",
-      "crc32": "2a3cd6e1",
-      "sha1": "fae01a0d12b6d29668895174c379e73ecb07e98f",
+      "mtime": "1666946051",
+      "size": "602112",
+      "md5": "921fa56ce8c9002b303109a36df15fb3",
+      "crc32": "90db7bd8",
+      "sha1": "d81ee635fb9fc7a7d68b6b1cba27c00b5ed3ef7c",
       "format": "Metadata"
     },
     {
@@ -4704,9 +4755,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 455,
-  "item_last_updated": 1666907908,
-  "item_size": 30346175,
+  "files_count": 460,
+  "item_last_updated": 1666946097,
+  "item_size": 30723097,
   "metadata": {
     "identifier": "springfieldnl-2022",
     "collection": [
@@ -4723,10 +4774,21 @@
     "publicdate": "2022-09-20 19:30:04",
     "addeddate": "2022-09-20 19:30:04"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1948209572,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454964157,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1266162337,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

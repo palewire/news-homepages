@@ -1,5 +1,5 @@
 {
-  "created": 1666907751,
+  "created": 1666946240,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/timesgazette-2022",
@@ -4686,31 +4686,82 @@
       "sha1": "fe4fe180f03d18ef304dbdfd8e8c880279376850"
     },
     {
+      "name": "timesgazette-2022-10-28T04:36:26.819535-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946192",
+      "size": "24785",
+      "md5": "55a88cfcd02fda1d9e381df457352a50",
+      "crc32": "f3853f69",
+      "sha1": "6efe11b373e733a247fa2187fd7f7703e8636ce7",
+      "format": "JSON"
+    },
+    {
+      "name": "timesgazette-2022-10-28T04:36:26.819535-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946194",
+      "size": "37107",
+      "md5": "1fd0a9495e125d0b423f7c3f09bbe0d5",
+      "crc32": "c2a055c8",
+      "sha1": "0a13ef3eca69ec2fb099ee2ceec068efb8d23320",
+      "format": "JSON"
+    },
+    {
+      "name": "timesgazette-2022-10-28T04:36:26.819535-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946190",
+      "size": "295645",
+      "md5": "91b955cea4cc753b6c86087b86c8c7e8",
+      "crc32": "ec4321e3",
+      "sha1": "bdf2b4598166925b82f6a6324839355c6325869e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesgazette-2022-10-28T04:36:26.819535-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946195",
+      "size": "1521",
+      "md5": "b8979064b882f19a41e070bc3a257f7a",
+      "crc32": "0ae07a21",
+      "sha1": "0b86001efa863dcee13b62c35453c12df10712e5",
+      "format": "JSON"
+    },
+    {
+      "name": "timesgazette-2022-10-28T04:36:26.819535-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946197",
+      "size": "93883",
+      "md5": "f906e913cf7ca1057c9de8edd77abcff",
+      "crc32": "333ef981",
+      "sha1": "c5c85af0f938796c9e14aba22753183af1927c4f",
+      "format": "JSON"
+    },
+    {
       "name": "timesgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "546871c4e067e9a39f96f98bfd173fa55bfd7d1f",
-      "mtime": "1666907735",
-      "size": "98530",
-      "md5": "7e026ab170590d53fa31ffe5a56f85b4",
-      "crc32": "4160318d",
-      "sha1": "d5bde811f92a3580af16463251bf9ebc0156e7c6",
+      "btih": "affe6bc4885c307b37867933dccf83c519d2cd49",
+      "mtime": "1666946237",
+      "size": "99613",
+      "md5": "52351a01534e7b42d068f279c149ebb4",
+      "crc32": "2f22d62a",
+      "sha1": "accae3f487eab8c9e523f605ee8abf51b8e00a97",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62f7c87cdc93199b3a66c326761a461b",
+      "md5": "0c86f52a240bdbb39524c1f7749b6edf",
       "summation": "md5"
     },
     {
       "name": "timesgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900501",
-      "size": "598016",
-      "md5": "98f40d03d2e2fabd11d219dfb2120345",
-      "crc32": "3be62ea2",
-      "sha1": "59201fc86e18d4151c63f919abe097dba7348b39",
+      "mtime": "1666946201",
+      "size": "606208",
+      "md5": "e1b732c834e2bbe1c78f3b30c14d02fe",
+      "crc32": "1dceb932",
+      "sha1": "2147990950bf6c6881cfc6f83564120aef26bcfb",
       "format": "Metadata"
     },
     {
@@ -4724,9 +4775,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 457,
-  "item_last_updated": 1666907735,
-  "item_size": 30900385,
+  "files_count": 462,
+  "item_last_updated": 1666946237,
+  "item_size": 31362601,
   "metadata": {
     "identifier": "timesgazette-2022",
     "collection": [
@@ -4743,10 +4794,21 @@
     "publicdate": "2022-09-20 19:30:16",
     "addeddate": "2022-09-20 19:30:16"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 19208398,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454965308,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 379513425,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

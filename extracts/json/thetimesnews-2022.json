@@ -1,5 +1,5 @@
 {
-  "created": 1666907924,
+  "created": 1666946249,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/9/items/thetimesnews-2022",
@@ -4708,31 +4708,82 @@
       "sha1": "8b9095dc0ede16c8d9b35947ccffd6e55d629b1f"
     },
     {
+      "name": "thetimesnews-2022-10-28T04:36:24.258907-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946189",
+      "size": "22750",
+      "md5": "f01e250bec2d71edfa15fb9e56925ac8",
+      "crc32": "d77fbfc5",
+      "sha1": "6e8105226f75e02d2ce8e2743befe35488a4d217",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimesnews-2022-10-28T04:36:24.258907-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946191",
+      "size": "43837",
+      "md5": "b9a7482c4ec25ec8aacf2c3a9c4b6b68",
+      "crc32": "bede75b3",
+      "sha1": "c6e1d3338a3b70abe0a3c3966dd841dd9d9eb459",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimesnews-2022-10-28T04:36:24.258907-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946187",
+      "size": "255483",
+      "md5": "e95332b19bab16dea752cb3a23e70101",
+      "crc32": "097648f3",
+      "sha1": "71f69080ab255fff08d7a7e54e03cadb654799ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetimesnews-2022-10-28T04:36:24.258907-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946193",
+      "size": "1513",
+      "md5": "b940f5cfd6f61a93970577192c600698",
+      "crc32": "f7cacaf3",
+      "sha1": "fbd35cbd8f5e5f0e7de3c001f8f66f87b4bfe993",
+      "format": "JSON"
+    },
+    {
+      "name": "thetimesnews-2022-10-28T04:36:24.258907-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946194",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thetimesnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "97825790143ee59944866bd6e10a81669950d574",
-      "mtime": "1666907866",
-      "size": "98961",
-      "md5": "1412dc23bbcabfe5b5e728c282cbe6f6",
-      "crc32": "b7b4165f",
-      "sha1": "753155f347c4e09f5b6d860ed606a8ba26533c5a",
+      "btih": "269c8f3bb69c53c22cf01343d719970418a6f5b2",
+      "mtime": "1666946241",
+      "size": "100042",
+      "md5": "3e01993a169639a1416639d8bffd2f64",
+      "crc32": "1923fcf8",
+      "sha1": "187afcb0892793019be9c287ba78c6c66ac400d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetimesnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f69e17b4c3b77b65106179bdb5cbf23f",
+      "md5": "f270c1f0b1392b838f9624433a70a30c",
       "summation": "md5"
     },
     {
       "name": "thetimesnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900557",
-      "size": "598016",
-      "md5": "0926c44cac46cb0ef0ec0111a494ab1c",
-      "crc32": "d421aa2a",
-      "sha1": "5f0e7c769047409d0c3635bacd60a6f5caf71668",
+      "mtime": "1666946202",
+      "size": "606208",
+      "md5": "c4f1375e417399d27d4e81dc6dfdfcf2",
+      "crc32": "f81bfb8c",
+      "sha1": "0245a3ebb325cd247025ad9a5022dd0b8461317d",
       "format": "Metadata"
     },
     {
@@ -4746,9 +4797,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 459,
-  "item_last_updated": 1666907866,
-  "item_size": 30774132,
+  "files_count": 464,
+  "item_last_updated": 1666946241,
+  "item_size": 31107190,
   "metadata": {
     "identifier": "thetimesnews-2022",
     "collection": [
@@ -4765,10 +4816,21 @@
     "publicdate": "2022-09-20 19:29:16",
     "addeddate": "2022-09-20 19:29:16"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 624058949,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454965390,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 380635779,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666920249,
+  "created": 1666946672,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/33/items/yaledailynews-2022",
@@ -5452,31 +5452,82 @@
       "sha1": "003bd1731164cf97f6b26b6e55756cd2fff663ca"
     },
     {
+      "name": "yaledailynews-2022-10-28T04:43:11.070840-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946600",
+      "size": "13550",
+      "md5": "63eb753381e50a1c26447c981a5eabdd",
+      "crc32": "1d5ae9bf",
+      "sha1": "bd64953d81907cb0e87d5a95565dde4d324fc65a",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-28T04:43:11.070840-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946602",
+      "size": "38163",
+      "md5": "e5b84c3d34f2dbda9850df9a20b41c7e",
+      "crc32": "1769004a",
+      "sha1": "9223f6dd7e577a286095f166ac282203639b84ba",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-28T04:43:11.070840-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946599",
+      "size": "245856",
+      "md5": "c5dcc152c56d0083be45e14bcd436e80",
+      "crc32": "f24d33de",
+      "sha1": "702d8188d588168711e21d1403456c9b2ae07cdd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yaledailynews-2022-10-28T04:43:11.070840-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946604",
+      "size": "1486",
+      "md5": "8ee160a18a081d8d478aded7302f8e7e",
+      "crc32": "6dc1e118",
+      "sha1": "a07bb2a4e0745899af37c36542b1002aeeb3b9c5",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-28T04:43:11.070840-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946605",
+      "size": "24381",
+      "md5": "09c537baee8aad38bd7671932aec023a",
+      "crc32": "78511a6f",
+      "sha1": "452acc7fe00abbb13849edb606f569e4ebf8f8a2",
+      "format": "JSON"
+    },
+    {
       "name": "yaledailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5433e95fbff4ce171c95a4af9a45ec71395902d",
-      "mtime": "1666907992",
-      "size": "114717",
-      "md5": "c88c457f31874a02ff0e4ad832c66965",
-      "crc32": "7d5d386c",
-      "sha1": "7c8e8a922d80dcda2b10e690ee59cb85995fd5a8",
+      "btih": "890eb5d60128246c0beae39a594c57c64b84f58a",
+      "mtime": "1666946657",
+      "size": "115805",
+      "md5": "b69f9cf78a03776da0357900510500fc",
+      "crc32": "50b3747b",
+      "sha1": "bd30207e965bc80638eab19098355e0f8a1d9354",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yaledailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46f08ddbcb6b26260223c37205aace33",
+      "md5": "64b9fe77915662e2303c3b1a68a0cd9a",
       "summation": "md5"
     },
     {
       "name": "yaledailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900656",
-      "size": "688128",
-      "md5": "d698c7e753c087288e7f24c929ec88fe",
-      "crc32": "a3ffd749",
-      "sha1": "dca9752cf1a15494412b0f153811103a27c951bf",
+      "mtime": "1666946616",
+      "size": "696320",
+      "md5": "009e6d196b9c30cc15550770bcb3fa4b",
+      "crc32": "c26e940a",
+      "sha1": "8fb9b3f180658dd88483efd0ab1facc508bedcbc",
       "format": "Metadata"
     },
     {
@@ -5490,9 +5541,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 531,
-  "item_last_updated": 1666907992,
-  "item_size": 30844172,
+  "files_count": 536,
+  "item_last_updated": 1666946657,
+  "item_size": 31176888,
   "metadata": {
     "identifier": "yaledailynews-2022",
     "collection": [
@@ -5509,15 +5560,21 @@
     "publicdate": "2022-09-14 05:42:09",
     "addeddate": "2022-09-14 05:42:09"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 746413841,
-  "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454970599,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
   ],
-  "yaledailynews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  }
+  "uniq": 651387911,
+  "workable_servers": [
+    "ia601404.us.archive.org"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666908012,
+  "created": 1666946282,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/29/items/ukrinform-2022",
@@ -21748,31 +21748,82 @@
       "sha1": "37e8a289d2a374ed96149fcd95761c5f38063250"
     },
     {
+      "name": "ukrinform-2022-10-28T11:36:18.172972+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946182",
+      "size": "60980",
+      "md5": "777f793b665ab11bcf3c083e51e5069c",
+      "crc32": "efbcce9d",
+      "sha1": "e81e5329a2d19723453220587ae42f3b4af62fa3",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-10-28T11:36:18.172972+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946184",
+      "size": "56258",
+      "md5": "fe91acdcf62369d2023177ea4588f22b",
+      "crc32": "63733887",
+      "sha1": "1668d88290e2680b4365491ab04f04ecda309808",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-10-28T11:36:18.172972+03:00.jpg",
+      "source": "original",
+      "mtime": "1666946180",
+      "size": "292158",
+      "md5": "f8976c67a7d8ceb59682d594194fc30f",
+      "crc32": "20e27391",
+      "sha1": "1f4ad8901faee23d9a2ef7c97d62ef2b4f5adf52",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-10-28T11:36:18.172972+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946185",
+      "size": "1476",
+      "md5": "7f9b5514129f8bbb4ea5515e478a44b2",
+      "crc32": "97728bc4",
+      "sha1": "00deb270740a4d6a680488556c531630461ec0ca",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-10-28T11:36:18.172972+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946188",
+      "size": "37385",
+      "md5": "5188a9fd9b54fd668d33f059f8965d86",
+      "crc32": "55256418",
+      "sha1": "de91a1b49f8135a23e37acba7d8c7a88ad5a95d4",
+      "format": "JSON"
+    },
+    {
       "name": "ukrinform-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5a5cc4f4f1843eb132e007efcbc8bbe5c07e03f",
-      "mtime": "1666907946",
-      "size": "444149",
-      "md5": "23805887ee3ac26bea78782a499c080f",
-      "crc32": "48d44a33",
-      "sha1": "98ad9ea3c1699f9ac26da6fe26432bd44c7baefa",
+      "btih": "bc1ef5b3a019a8df20ea9a9e59b0ce3b00b17578",
+      "mtime": "1666946271",
+      "size": "445217",
+      "md5": "7e1025c1baa23d7bdb30c1ea3ce5273d",
+      "crc32": "c33424db",
+      "sha1": "49559fa00fa3c8f1eb8c26b2eaaa99c57f27a331",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ukrinform-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "317fdc50a75e28ca2250defa8029aaf0",
+      "md5": "9df2acf77e8da6c095219ae04634df6d",
       "summation": "md5"
     },
     {
       "name": "ukrinform-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900541",
-      "size": "2531328",
-      "md5": "267e9a20427161461caa7af8056c5891",
-      "crc32": "41d31390",
-      "sha1": "10413350c93a5380a90b4833930608beea9ecc46",
+      "mtime": "1666946199",
+      "size": "2539520",
+      "md5": "a21e42d965341f6fceba4f737f51540e",
+      "crc32": "1e045093",
+      "sha1": "217ebb9fd95b189a77677e6865695d5bd38c72c1",
       "format": "Metadata"
     },
     {
@@ -21786,9 +21837,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2091,
-  "item_last_updated": 1666907946,
-  "item_size": 201244460,
+  "files_count": 2096,
+  "item_last_updated": 1666946271,
+  "item_size": 201701977,
   "metadata": {
     "identifier": "ukrinform-2022",
     "collection": [
@@ -21805,10 +21856,21 @@
     "publicdate": "2022-03-23 17:48:55",
     "addeddate": "2022-03-23 17:48:55"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 698347270,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454965742,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1694580401,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666919987,
+  "created": 1666946473,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/vulture-2022",
@@ -10526,31 +10526,82 @@
       "sha1": "79c0fe6e17915b63378654c7418f4a876879e507"
     },
     {
+      "name": "vulture-2022-10-28T04:40:01.309784-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946408",
+      "size": "31452",
+      "md5": "0879a00507b3c51453838ed9389d462a",
+      "crc32": "34d587a1",
+      "sha1": "ef8cca24c7ab80b97b84fb64dbb421b44440b726",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-10-28T04:40:01.309784-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946409",
+      "size": "31266",
+      "md5": "dc973a9cc438572333d3104d12586db5",
+      "crc32": "8fc75e8e",
+      "sha1": "1ee70c13580e0686c2be966762fa474f3824e0e3",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-10-28T04:40:01.309784-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946406",
+      "size": "279873",
+      "md5": "11e3e168e1beb9a87424bdcf0bcb7b1d",
+      "crc32": "bfef0b66",
+      "sha1": "eb963ea2fc00fde83e0e516d994f926333d6aba2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vulture-2022-10-28T04:40:01.309784-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946411",
+      "size": "1468",
+      "md5": "7136c7692a77852d39e2851457a0bf20",
+      "crc32": "17b7f1cf",
+      "sha1": "befd564374cd36f710a49e32377647f4019072ab",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-10-28T04:40:01.309784-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946413",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "vulture-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a265e7ebb746a37f6aeabbbf60c43a3857b7064",
-      "mtime": "1666907955",
-      "size": "214514",
-      "md5": "974ee6b1251890fb5a2f4aa117299264",
-      "crc32": "2845c79a",
-      "sha1": "21c632ce1d1aa699da2cadfc872d9f9c719eead3",
+      "btih": "767c5c0708b8ed12c7f44c760801796777ac0abc",
+      "mtime": "1666946465",
+      "size": "215570",
+      "md5": "17ff0b5e31ddabc5ece92c2fc383fb7a",
+      "crc32": "6d1d4fb4",
+      "sha1": "522f701c8d4548a17a874bcc4b004ece1a33a8fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vulture-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55fda7495bbb2acb991dfb5531bd8b20",
+      "md5": "5e6ce53c855cdc8dece7665c119207d2",
       "summation": "md5"
     },
     {
       "name": "vulture-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900667",
-      "size": "1302528",
-      "md5": "9f3cb182bd8322905b54e7ff5701922f",
-      "crc32": "1774a0e8",
-      "sha1": "205a75fcd47dc4ccf18abe899492a4d9cfb9f2db",
+      "mtime": "1666946419",
+      "size": "1306624",
+      "md5": "2bc88794f67d454f8552d1b1679d576a",
+      "crc32": "f019619b",
+      "sha1": "e2f518bc8f13c68990503a0aa6d2fa807967d389",
       "format": "Metadata"
     },
     {
@@ -10564,9 +10615,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1022,
-  "item_last_updated": 1666907955,
-  "item_size": 69189733,
+  "files_count": 1027,
+  "item_last_updated": 1666946465,
+  "item_size": 69539146,
   "metadata": {
     "identifier": "vulture-2022",
     "collection": [
@@ -10583,15 +10634,21 @@
     "publicdate": "2022-08-02 16:24:28",
     "addeddate": "2022-08-02 16:24:28"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1218797906,
-  "vulture-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454967884,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2106043996,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

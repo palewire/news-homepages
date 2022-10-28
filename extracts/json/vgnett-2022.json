@@ -1,5 +1,5 @@
 {
-  "created": 1666919964,
+  "created": 1666946580,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/4/items/vgnett-2022",
@@ -11852,31 +11852,82 @@
       "sha1": "4c05c46c94ac64e58d3cb2ce5a0cb02744dcd4be"
     },
     {
+      "name": "vgnett-2022-10-28T10:39:39.095528+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946409",
+      "size": "134494",
+      "md5": "8698deef7146f8695c68561875495e25",
+      "crc32": "9fbf3a42",
+      "sha1": "20d6d05e19e0dd408c796ae45d013575b1a6571a",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-10-28T10:39:39.095528+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946411",
+      "size": "65782",
+      "md5": "27c78284ab16df8b96b7a822e1d254d3",
+      "crc32": "161e5b5b",
+      "sha1": "2820f1b9ebf38b95062d7bdedace47a715c6bd1a",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-10-28T10:39:39.095528+02:00.jpg",
+      "source": "original",
+      "mtime": "1666946408",
+      "size": "279943",
+      "md5": "2ed1ffd7c9c9efb68ecc041f01e417cf",
+      "crc32": "29d0eef5",
+      "sha1": "19f9dc63f54c42e6757980f0790b84f8dddfc9fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vgnett-2022-10-28T10:39:39.095528+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946413",
+      "size": "1405",
+      "md5": "2ad3496d54b6dc8fdea9addfaab1e462",
+      "crc32": "696ca4bd",
+      "sha1": "e0ada48a47565d54af7fc7a019a06bd2a43005c9",
+      "format": "JSON"
+    },
+    {
+      "name": "vgnett-2022-10-28T10:39:39.095528+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946415",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "vgnett-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a0157161aac1b25604fd9c767d868622623211d",
-      "mtime": "1666908006",
-      "size": "241028",
-      "md5": "d3222a0fdbb7d18f6cd2863cdff2bc98",
-      "crc32": "cad328fa",
-      "sha1": "f0bb5bd0c1f4e043efce3d80766b1202aebfd1c6",
+      "btih": "3cd7b24f075403c359d056f9826b7cbaec5edbf3",
+      "mtime": "1666946512",
+      "size": "242080",
+      "md5": "ed5ee42d94ab6f0b7f3d7e1ec5272af4",
+      "crc32": "ace0a9f9",
+      "sha1": "c1eec5665d2bb766b87e0dbfd327710aab915e23",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vgnett-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90af4e3fd66bd21c442e3c1cff3962a2",
+      "md5": "1ba242aa1205f17369d77d8d3c3c7470",
       "summation": "md5"
     },
     {
       "name": "vgnett-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900707",
-      "size": "1454080",
-      "md5": "8042578b337521bcfd8a29e6a67adcd8",
-      "crc32": "7a7a8054",
-      "sha1": "7a3c2b03d61fb4891ec7bb028db8d1b6b06a70bd",
+      "mtime": "1666946437",
+      "size": "1458176",
+      "md5": "dfc7b720dda41dea32afdff19f7087d0",
+      "crc32": "5ebfe80a",
+      "sha1": "48e361e0fa7ee9c3ddcdaaf6b212b0a25aa70f54",
       "format": "Metadata"
     },
     {
@@ -11890,9 +11941,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1149,
-  "item_last_updated": 1666908006,
-  "item_size": 99751312,
+  "files_count": 1154,
+  "item_last_updated": 1666946512,
+  "item_size": 100238286,
   "metadata": {
     "identifier": "vgnett-2022",
     "collection": [
@@ -11909,25 +11960,21 @@
     "publicdate": "2022-07-20 11:37:24",
     "addeddate": "2022-07-20 11:37:24"
   },
+  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "uniq": 1421524671,
-  "vgnett-2022": {
-    "url": "https://www.vg.no/",
-    "job_id": "spn2-93ef98d91caac665cfcdac591df7757120f5782f",
-    "http_status": 200,
-    "counters": {
-      "outlinks": 307,
-      "embeds": 99
-    },
-    "original_url": "https://www.vg.no/",
-    "timestamp": "20221027172659",
-    "duration_sec": 9.772,
-    "status": "success",
-    "outlinks": [],
-    "resources": []
-  },
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454969480,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1897791486,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia601400.us.archive.org"
   ]
 }

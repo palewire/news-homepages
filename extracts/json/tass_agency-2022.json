@@ -1,5 +1,6 @@
 {
-  "created": 1666907860,
+  "conflict": 1666947583,
+  "created": 1666947583,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/tass_agency-2022",
@@ -17352,31 +17353,93 @@
       "sha1": "2850c145e43e9810545c3be6a2ed4778baa12c64"
     },
     {
+      "name": "tass_agency-2022-10-28T11:33:44.008442+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946032",
+      "size": "40988",
+      "md5": "49eb51a9fdd6205a84072e0d66c7eb14",
+      "crc32": "badd57e0",
+      "sha1": "8b0fcfde3c51f4ce7058bbbeab740f0e62ba1ceb",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-10-28T11:33:44.008442+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946034",
+      "size": "30555",
+      "md5": "a110a254a62b0d8ae4521f6c8ea58ae8",
+      "crc32": "0454a878",
+      "sha1": "ea235ddee7aa18406dd621df85004fced8677a75",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-10-28T11:33:44.008442+03:00.jpg",
+      "source": "original",
+      "mtime": "1666946031",
+      "size": "217518",
+      "md5": "87fba6d303a97f2b07826bcd7a6fb066",
+      "crc32": "b2cdf402",
+      "sha1": "bd70530a7b69a3c6260719635c7d1132fd073a90",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tass_agency-2022-10-28T11:33:44.008442+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946036",
+      "size": "1396",
+      "md5": "0be0e1c8b047a294a181b850ab8c86f3",
+      "crc32": "72c132a7",
+      "sha1": "6c3608e874f828ac5d78e64181044409f9784be5",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-10-28T11:33:44.008442+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946037",
+      "size": "23545",
+      "md5": "2d65c6a06291581c2fb4ed4beaad4e2f",
+      "crc32": "48fede4b",
+      "sha1": "ef2dbe2e4df72a8cd27ef7bca56fa3689c91be2a",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-10-28T11:33:44.008442+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tass_agency-2022-10-28T11:33:44.008442+03:00.jpg",
+      "mtime": "1666947266",
+      "size": "8712",
+      "md5": "9b50d7b5bcd943220afd10d42019a012",
+      "crc32": "50f0d32c",
+      "sha1": "21efb6287a156b3cae43084390f9bbfe9bb1b156"
+    },
+    {
       "name": "tass_agency-2022_archive.torrent",
       "source": "metadata",
-      "btih": "096660e4f15e69bf8d69604c0a8ed00c9e8fb53b",
-      "mtime": "1666907789",
-      "size": "353823",
-      "md5": "95967bdab29009bea771a15d238ff54b",
-      "crc32": "360625c0",
-      "sha1": "f626d421e1c5d214e1b76d931f5ec34c8730ba86",
+      "btih": "b92a7b3eab54134fce7a784e2b9e5ee8010483bc",
+      "mtime": "1666946153",
+      "size": "354901",
+      "md5": "bd4b78e49e038220a00342518bb31a3b",
+      "crc32": "5d7e4526",
+      "sha1": "93071e3ba00528d8179230e246acf5dba53eba0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tass_agency-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "675f5863eff8f308e31085f2ff500e7e",
+      "md5": "8aec898917720711af79c23a818ad169",
       "summation": "md5"
     },
     {
       "name": "tass_agency-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900375",
-      "size": "2097152",
-      "md5": "eb62571b861e94ac51ff21d3f0c51953",
-      "crc32": "f419c8d2",
-      "sha1": "5c9c93aa777b45aa92bf06dd5e2f9d5bd2c90673",
+      "mtime": "1666946081",
+      "size": "2105344",
+      "md5": "0df31319c326386861a5d2a1da3cdf6d",
+      "crc32": "d4e13167",
+      "sha1": "99d6b29190144fd2f239e134bfeb4f74c4fa9997",
       "format": "Metadata"
     },
     {
@@ -17390,9 +17453,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1677,
-  "item_last_updated": 1666907789,
-  "item_size": 55104045,
+  "files_count": 1683,
+  "item_last_updated": 1666947266,
+  "item_size": 55436029,
   "metadata": {
     "identifier": "tass_agency-2022",
     "collection": [
@@ -17409,10 +17472,29 @@
     "publicdate": "2022-07-16 20:29:00",
     "addeddate": "2022-07-16 20:29:00"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1245637046,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454977029,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3454978740,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1059752411,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666907997,
+  "created": 1666946452,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/7/items/vryeweekblad-2022",
@@ -8046,31 +8046,82 @@
       "sha1": "728a292604437878724f135cf58f9ba6d106549d"
     },
     {
+      "name": "vryeweekblad-2022-10-28T10:39:39.262638+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946387",
+      "size": "61399",
+      "md5": "d01cd20c4f5b54b1d46e173d60edaca0",
+      "crc32": "c0ac6aac",
+      "sha1": "cd71ce545681a87e2d0f9d91ef8f8158490d16f7",
+      "format": "JSON"
+    },
+    {
+      "name": "vryeweekblad-2022-10-28T10:39:39.262638+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946388",
+      "size": "38973",
+      "md5": "e0cbb178a97c6fe5afb61e2a90e470bb",
+      "crc32": "1ad6fdfc",
+      "sha1": "edca609e818f65004bfa582557c56155adfa2bb7",
+      "format": "JSON"
+    },
+    {
+      "name": "vryeweekblad-2022-10-28T10:39:39.262638+02:00.jpg",
+      "source": "original",
+      "mtime": "1666946385",
+      "size": "228763",
+      "md5": "99054f99cb269f80e0e9cd30e4ecce68",
+      "crc32": "1a3dee05",
+      "sha1": "5ee36e6d9d5e20dca19abf4130f3a781d02a9343",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vryeweekblad-2022-10-28T10:39:39.262638+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946390",
+      "size": "1513",
+      "md5": "dca55d6105f0f749aaf9a83e18659da0",
+      "crc32": "d263dafb",
+      "sha1": "4bf48dd361b309403e906406c41a95b7cd03a848",
+      "format": "JSON"
+    },
+    {
+      "name": "vryeweekblad-2022-10-28T10:39:39.262638+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946392",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "vryeweekblad-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de73a5baff8614bd8647137f3c657646028d5d6f",
-      "mtime": "1666907858",
-      "size": "167890",
-      "md5": "8f48658a0b024c401d571f1c3c9b07df",
-      "crc32": "78d0359a",
-      "sha1": "f28dbef73610afc8c28792e8d465c72fb7682f74",
+      "btih": "f9f142388464441422cfe59885ab96a578cc71f6",
+      "mtime": "1666946442",
+      "size": "168971",
+      "md5": "5f30aa36b75c2ce89748830e29625e6f",
+      "crc32": "6df7fea2",
+      "sha1": "1201aaaeab79e2976fa78576b498dfa79ea35f51",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vryeweekblad-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "605dd40fc48b7e83c68b14b56371c4dc",
+      "md5": "c20c2483ca3b0d8a46f8d5faf07be579",
       "summation": "md5"
     },
     {
       "name": "vryeweekblad-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900669",
-      "size": "1007616",
-      "md5": "4f8c892021a02c159ebd864f372024e5",
-      "crc32": "b15e7b8a",
-      "sha1": "6085b55978c5ee58cc3391bdc4d99576c633e60a",
+      "mtime": "1666946398",
+      "size": "1019904",
+      "md5": "08b54b0a02eeca6b43791126d626f998",
+      "crc32": "cbc6e710",
+      "sha1": "f48c8aea9ddcfe61a5b8d31369257b4ee70af9ac",
       "format": "Metadata"
     },
     {
@@ -8084,9 +8135,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 782,
-  "item_last_updated": 1666907858,
-  "item_size": 45447954,
+  "files_count": 787,
+  "item_last_updated": 1666946442,
+  "item_size": 45792173,
   "metadata": {
     "identifier": "vryeweekblad-2022",
     "collection": [
@@ -8103,10 +8154,21 @@
     "publicdate": "2022-08-22 22:03:31",
     "addeddate": "2022-08-22 22:03:31"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 164626797,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454967619,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 54244046,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

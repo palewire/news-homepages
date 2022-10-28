@@ -1,5 +1,5 @@
 {
-  "created": 1666920282,
+  "created": 1666946751,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/zerohora-2022",
@@ -14956,31 +14956,82 @@
       "sha1": "bf16bf872b8ad0700c6be7a0d1c72252e2c5bd00"
     },
     {
+      "name": "zerohora-2022-10-28T05:43:09.396751-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946609",
+      "size": "38991",
+      "md5": "af745c7fd4b0cc106c88aa25c6fd32f9",
+      "crc32": "e874c3be",
+      "sha1": "7c05643ced06d8f31783def65570a1d8a3b95aa9",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-28T05:43:09.396751-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946611",
+      "size": "39310",
+      "md5": "3dbb626626a61bbf9c3a06982d91224e",
+      "crc32": "b79c9217",
+      "sha1": "ddc630cb87582d2ebdae40579fe71ef6131d82c9",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-28T05:43:09.396751-03:00.jpg",
+      "source": "original",
+      "mtime": "1666946607",
+      "size": "277905",
+      "md5": "a1dcea35951d0dd9c327d815c5764993",
+      "crc32": "7979b839",
+      "sha1": "f4e4d4a2f20b485929d1e649a289a13d2d86415b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-10-28T05:43:09.396751-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946612",
+      "size": "1540",
+      "md5": "511b13adb29c1fda08db479e5c1fcb78",
+      "crc32": "777f5f76",
+      "sha1": "d87178c6626ad1a6113781cf2bfbad774a3e39c5",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-28T05:43:09.396751-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946620",
+      "size": "29588",
+      "md5": "747eb4f1cd78fcda520b171651859c20",
+      "crc32": "33cb5910",
+      "sha1": "93ce68b002b03c637f31a64ae796b5a15da485d6",
+      "format": "JSON"
+    },
+    {
       "name": "zerohora-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7000058b7e92f5bd5605cc732d322b6e90d8eec6",
-      "mtime": "1666907938",
-      "size": "306198",
-      "md5": "c26c43435d16ccb8b02f69334ea8665d",
-      "crc32": "7f0452c8",
-      "sha1": "8a08dad31d5a7d408ed33464cf527b8438089171",
+      "btih": "e0b5b940b50789116a6adf65a9d864b098d82dcc",
+      "mtime": "1666946727",
+      "size": "307241",
+      "md5": "71ffa6b5c425c5eb6eaa539383ca2769",
+      "crc32": "bc99ca07",
+      "sha1": "9655ee05ce2cd9a6a94e6b6bc7bf6e1259124ed3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohora-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e405cad4e702ff35e7a9e7ba7101834c",
+      "md5": "fb4fe4399535a7ae09a171b1a84cc9ac",
       "summation": "md5"
     },
     {
       "name": "zerohora-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666900696",
-      "size": "1847296",
-      "md5": "4e7dc7a32ae8fdcef40200decb01b499",
-      "crc32": "46febf5e",
-      "sha1": "7f1bc3f7642d0171f083e3bd57ce50b6bfda527b",
+      "mtime": "1666946653",
+      "size": "1855488",
+      "md5": "cd04ae2dc3a9214fcb3d2123319db16f",
+      "crc32": "4fd6062b",
+      "sha1": "7d1b97dbabc84aa4e5efad1cf5839c6095b3d13a",
       "format": "Metadata"
     },
     {
@@ -14994,9 +15045,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1451,
-  "item_last_updated": 1666907938,
-  "item_size": 102647470,
+  "files_count": 1456,
+  "item_last_updated": 1666946727,
+  "item_size": 103044039,
   "metadata": {
     "identifier": "zerohora-2022",
     "collection": [
@@ -15013,15 +15064,21 @@
     "publicdate": "2022-08-04 04:56:36",
     "addeddate": "2022-08-04 04:56:36"
   },
+  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "uniq": 1154012173,
-  "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3454971825,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
   ],
-  "zerohora-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  }
+  "uniq": 1555650184,
+  "workable_servers": [
+    "ia601400.us.archive.org"
+  ]
 }
