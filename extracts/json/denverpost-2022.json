@@ -1,5 +1,5 @@
 {
-  "created": 1667024042,
+  "created": 1667066463,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/denverpost-2022",
@@ -9492,31 +9492,93 @@
       "sha1": "549cce04459f311a9e3fa9f1aa2475645fe4df46"
     },
     {
+      "name": "denverpost-2022-10-29T11:53:26.278419-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667066013",
+      "size": "44040",
+      "md5": "1fe80a83dbfaa3d0998d45942da3ca0c",
+      "crc32": "c95257da",
+      "sha1": "78647ce8478807f72642e692f6de4b2b29acada8",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-29T11:53:26.278419-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667066015",
+      "size": "56651",
+      "md5": "9e53d5e244cf15c7d812b14035d8132b",
+      "crc32": "d854d415",
+      "sha1": "1e7f63cc800b70be69579296eb77f8f9082dc6e0",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-29T11:53:26.278419-06:00.jpg",
+      "source": "original",
+      "mtime": "1667066010",
+      "size": "299572",
+      "md5": "afe7d7be51b751f18ee835ec5b9b107b",
+      "crc32": "223e3ed6",
+      "sha1": "ae9e018e61019f9213cceecdd4c23fdc40704ba3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverpost-2022-10-29T11:53:26.278419-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667066016",
+      "size": "1495",
+      "md5": "320f9772453047b17649a2dc9e263443",
+      "crc32": "409439d2",
+      "sha1": "3d0c48078eb0daae2a4359b8b1039b34c7375124",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-29T11:53:26.278419-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667066018",
+      "size": "103",
+      "md5": "11fc513f4825ff88b01aa46fff3b1121",
+      "crc32": "914b3b7e",
+      "sha1": "5d6aa3cfbd3f9298113b841674583f11f08b9232",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-10-29T11:53:26.278419-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverpost-2022-10-29T11:53:26.278419-06:00.jpg",
+      "mtime": "1667066367",
+      "size": "9352",
+      "md5": "c0b5d213016768230d8663d075ce4ab8",
+      "crc32": "f5438437",
+      "sha1": "cac5e2e7b223eb9b850d11482be511c143165361"
+    },
+    {
       "name": "denverpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8356d1a604defc6bfc1a660879c31c67a0cc2118",
-      "mtime": "1667023953",
-      "size": "196435",
-      "md5": "8a9734c0bc338a2b7a3b517f1386aac2",
-      "crc32": "fd09bea8",
-      "sha1": "49322978af06c58b776f3f2b204d3a97131e0b82",
+      "btih": "4d1330cb7d6c4b6034791cb269663ea10df2322f",
+      "mtime": "1667066415",
+      "size": "197712",
+      "md5": "96544ebaf7dd2b4843f5e1276768cf3b",
+      "crc32": "6e7b7aaf",
+      "sha1": "2df33efc74777f03dd563dc4503c666634994d35",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c689fc81ff6575a92f487c27dee53930",
+      "md5": "819728184349dddf4661c7d5457e38a6",
       "summation": "md5"
     },
     {
       "name": "denverpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667021450",
-      "size": "1183744",
-      "md5": "63587c3cdcc1f92f6111f83dafb32b7b",
-      "crc32": "9ea7e50c",
-      "sha1": "c68369b7420fbf6a1d989204964b99d419b06303",
+      "mtime": "1667066045",
+      "size": "1196032",
+      "md5": "d507640793c4f87a9516418d7a8b3fb6",
+      "crc32": "7eda49f8",
+      "sha1": "d30fdb9a6cfec1c487692e2b5ffbfc63c8536263",
       "format": "Metadata"
     },
     {
@@ -9530,9 +9592,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 922,
-  "item_last_updated": 1667023953,
-  "item_size": 65915662,
+  "files_count": 928,
+  "item_last_updated": 1667066415,
+  "item_size": 66340440,
   "metadata": {
     "identifier": "denverpost-2022",
     "collection": [
@@ -9550,7 +9612,7 @@
     "addeddate": "2022-08-14 06:42:22"
   },
   "server": "ia601505.us.archive.org",
-  "uniq": 186148864,
+  "uniq": 100455542,
   "workable_servers": [
     "ia601505.us.archive.org",
     "ia801505.us.archive.org"

@@ -1,5 +1,10 @@
 {
-  "created": 1667023878,
+  "conversationus-2022": {
+    "url": "https://theconversation.com/us",
+    "job_id": "spn2-3b61fe808600c97694a496c7eb79eee59ae6568e",
+    "message": "The same snapshot had been made 10 minutes, 15 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "created": 1667071983,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/23/items/conversationus-2022",
@@ -13280,31 +13285,93 @@
       "sha1": "6efc1288a543620b2201f806601c8f7480d7191f"
     },
     {
+      "name": "conversationus-2022-10-29T13:50:10.160351-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667065813",
+      "size": "43294",
+      "md5": "961299e7c61d801d08e4c47966681c32",
+      "crc32": "27f923da",
+      "sha1": "ade05fa4a2ea25577dfb203b0518f6557ebdfc02",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-10-29T13:50:10.160351-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667065815",
+      "size": "37007",
+      "md5": "5fc39e0594221dd42646baaa649014c2",
+      "crc32": "2e5bf530",
+      "sha1": "866f57b540611a62f6f626739481798a7861ed55",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-10-29T13:50:10.160351-04:00.jpg",
+      "source": "original",
+      "mtime": "1667065811",
+      "size": "282384",
+      "md5": "11c67e3397efb55bbe14ebee11d7dc0b",
+      "crc32": "c1994c8c",
+      "sha1": "1859d16ff4a276953253e738c76bd67795e4fb7a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-10-29T13:50:10.160351-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667065817",
+      "size": "1504",
+      "md5": "8581630687b83d259f02e553ddb3d0e5",
+      "crc32": "2b74fbc0",
+      "sha1": "a57ace1c9396fe7d9fdcd04a6cdae8acbd04bfe3",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-10-29T13:50:10.160351-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667065819",
+      "size": "237",
+      "md5": "84f67e14cb394f41f4ae3f18ed4d25b3",
+      "crc32": "26e41875",
+      "sha1": "8a647b87e07c1fda67cfc493725d851883ffab02",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-10-29T13:50:10.160351-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "conversationus-2022-10-29T13:50:10.160351-04:00.jpg",
+      "mtime": "1667066495",
+      "size": "9932",
+      "md5": "e5c79ff89b3a35b0a60cfedd9f15da64",
+      "crc32": "d8a9ab32",
+      "sha1": "6efc1288a543620b2201f806601c8f7480d7191f"
+    },
+    {
       "name": "conversationus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d608b46bfb3afb34dd57c189444ef9dee57565ba",
-      "mtime": "1667023753",
-      "size": "279175",
-      "md5": "a77a4ca92e9258bf135430ab339fbd06",
-      "crc32": "3347a84c",
-      "sha1": "9e62d64e372f40ac5eaeea3141a8c4079b73ee1b",
+      "btih": "6fe9f75edd72d03753c7e215dc8d4ee9e67a5d68",
+      "mtime": "1667066510",
+      "size": "280476",
+      "md5": "462840c484fa9be8c02d94b7ef3f16b9",
+      "crc32": "37195387",
+      "sha1": "f0931ed24159bbaf7a0856202d59a4df7832a34a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "conversationus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2dba9fedf5258d545369da6880873c13",
+      "md5": "5e796e0fefd14b2e6a85366d0679ec65",
       "summation": "md5"
     },
     {
       "name": "conversationus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667021193",
-      "size": "1634304",
-      "md5": "1e8c34f9d74ff46c42485ff20fc52fc5",
-      "crc32": "2960d673",
-      "sha1": "008322488830be7446a70097042325e88a5c8091",
+      "mtime": "1667065825",
+      "size": "1638400",
+      "md5": "a5d65c714dc4eab37e9540132383fd96",
+      "crc32": "da601fe2",
+      "sha1": "74e8c84f696ec04117594363a0d07b30e15d239c",
       "format": "Metadata"
     },
     {
@@ -13318,9 +13385,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1286,
-  "item_last_updated": 1667023753,
-  "item_size": 93828755,
+  "files_count": 1292,
+  "item_last_updated": 1667066510,
+  "item_size": 94208510,
   "metadata": {
     "identifier": "conversationus-2022",
     "collection": [
@@ -13338,7 +13405,7 @@
     "addeddate": "2022-07-09 03:57:31"
   },
   "server": "ia801504.us.archive.org",
-  "uniq": 1412047939,
+  "uniq": 1988034917,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"

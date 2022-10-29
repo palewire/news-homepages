@@ -1,5 +1,5 @@
 {
-  "created": 1667024011,
+  "created": 1667066603,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/19/items/devilslakenews-2022",
@@ -4842,31 +4842,93 @@
       "sha1": "2b16ea8729c3006dca2a844cd6cba547cdc6e3d8"
     },
     {
+      "name": "devilslakenews-2022-10-29T12:54:38.760929-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667066082",
+      "size": "20790",
+      "md5": "b6c12625fc2c15ddd029582446e16bb3",
+      "crc32": "c611fbad",
+      "sha1": "d2c10d6d056dca1276b2f4c515fddc3383078478",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-10-29T12:54:38.760929-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667066084",
+      "size": "32266",
+      "md5": "b7c798c6ea887b2da750312e147c05a4",
+      "crc32": "06416c43",
+      "sha1": "a77e541d76fe6ee479f960e175b7028627ef73a8",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-10-29T12:54:38.760929-05:00.jpg",
+      "source": "original",
+      "mtime": "1667066079",
+      "size": "240301",
+      "md5": "f5aee7e99e3625b7773b503043777114",
+      "crc32": "d3ed9a91",
+      "sha1": "2e659008bad1146e0a001f25747148237e602660",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "devilslakenews-2022-10-29T12:54:38.760929-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667066085",
+      "size": "1556",
+      "md5": "a3b8f8bec7c2e300783b9b98389e3345",
+      "crc32": "378a41f1",
+      "sha1": "513481aa4a8ec2043980683428ae3226a646711f",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-10-29T12:54:38.760929-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667066086",
+      "size": "110",
+      "md5": "e6a0b96255b52dd4196937c517ec406b",
+      "crc32": "68a015e4",
+      "sha1": "7bcdff19b258bb1aa9081cffb367cd24ce093517",
+      "format": "JSON"
+    },
+    {
+      "name": "devilslakenews-2022-10-29T12:54:38.760929-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "devilslakenews-2022-10-29T12:54:38.760929-05:00.jpg",
+      "mtime": "1667066516",
+      "size": "8915",
+      "md5": "f03b6c80a9ff0dc37e3a977de318eb75",
+      "crc32": "686612a4",
+      "sha1": "c8c742ce9ccffbb8590812d733c28b5e59965762"
+    },
+    {
       "name": "devilslakenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38695e8a319cf0380363efba7594140737f38e88",
-      "mtime": "1667023952",
-      "size": "102657",
-      "md5": "de1f53757bf218a7ea8905571265b39a",
-      "crc32": "be13daaa",
-      "sha1": "2e15245aaecea50aacf9a7cd364319e6b181eb1b",
+      "btih": "8989286e13ef71168454f5a54d31eb8325549492",
+      "mtime": "1667066521",
+      "size": "103938",
+      "md5": "23418124a2652bf5379d6ecdbc560040",
+      "crc32": "6e8c78d2",
+      "sha1": "f2a81930b802f6a6c9434d07ec435b020f24d7f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "devilslakenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "538352e46196014093d31bc0a3121177",
+      "md5": "c831e06ae8ce677fb73477859445b619",
       "summation": "md5"
     },
     {
       "name": "devilslakenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667021430",
-      "size": "618496",
-      "md5": "9baa7582dca79af3373928f3172e2fcf",
-      "crc32": "f8b6981f",
-      "sha1": "bfb3aef058e7a6e8e762bc4a4bd4de3ecd3385cc",
+      "mtime": "1667066093",
+      "size": "630784",
+      "md5": "a1019852c18e0f24c27ada16fb559ae7",
+      "crc32": "97596b3a",
+      "sha1": "32bc37d2626f9d3c18d1a042adbde5e2eab4d5d6",
       "format": "Metadata"
     },
     {
@@ -4880,9 +4942,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 472,
-  "item_last_updated": 1667023952,
-  "item_size": 30689112,
+  "files_count": 478,
+  "item_last_updated": 1667066521,
+  "item_size": 31006619,
   "metadata": {
     "identifier": "devilslakenews-2022",
     "collection": [
@@ -4899,10 +4961,10 @@
     "publicdate": "2022-09-20 17:43:32",
     "addeddate": "2022-09-20 17:43:32"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 1200024186,
+  "server": "ia801501.us.archive.org",
+  "uniq": 757648936,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

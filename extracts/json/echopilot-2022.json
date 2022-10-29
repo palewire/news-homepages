@@ -1,8 +1,12 @@
 {
-  "created": 1667024005,
+  "created": 1667072374,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/30/items/echopilot-2022",
+  "echopilot-2022": {
+    "url": "https://www.echo-pilot.com/",
+    "job_id": "spn2-293a06a995c45d3f9b739cc6977542a3a70e299a"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4832,31 +4836,93 @@
       "sha1": "5cd0c8d72c9e477ab7edc47b032a4a33d4c62af6"
     },
     {
+      "name": "echopilot-2022-10-29T13:54:44.851555-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667066093",
+      "size": "23407",
+      "md5": "f5af96794252dc6806929ce1f89ec113",
+      "crc32": "400e59c3",
+      "sha1": "51b944772f1d25f2876b7aa403bd643be4c5b6d6",
+      "format": "JSON"
+    },
+    {
+      "name": "echopilot-2022-10-29T13:54:44.851555-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667066095",
+      "size": "37432",
+      "md5": "61a475a2ca1bcfe3c6cde85969c5c85f",
+      "crc32": "3d7aaa72",
+      "sha1": "d8ce4f4cfc7d8d51786a98392138bc214f2c442d",
+      "format": "JSON"
+    },
+    {
+      "name": "echopilot-2022-10-29T13:54:44.851555-04:00.jpg",
+      "source": "original",
+      "mtime": "1667066092",
+      "size": "283006",
+      "md5": "ba59b0339103c5c26336a162b40514a8",
+      "crc32": "720cd4f7",
+      "sha1": "33f4407e347dc4a0643ef450bde5b7ce2b79e3e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "echopilot-2022-10-29T13:54:44.851555-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667066097",
+      "size": "1495",
+      "md5": "75bc7d6097349808ff30ca0a4c6442e6",
+      "crc32": "08773aa5",
+      "sha1": "4da2acd9eb3f441fd5a799871999da8259915be5",
+      "format": "JSON"
+    },
+    {
+      "name": "echopilot-2022-10-29T13:54:44.851555-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667066099",
+      "size": "103",
+      "md5": "97d44661b9dd9878adca40e624b46e6c",
+      "crc32": "35e7448a",
+      "sha1": "6fb01c42e05b2dc215c8733b390a7c501b3de171",
+      "format": "JSON"
+    },
+    {
+      "name": "echopilot-2022-10-29T13:54:44.851555-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "echopilot-2022-10-29T13:54:44.851555-04:00.jpg",
+      "mtime": "1667066380",
+      "size": "9503",
+      "md5": "6310110a6d6a2d67d10e20b730b96a85",
+      "crc32": "113b1060",
+      "sha1": "9ee9c966243debda827c672107423a7729fe33cd"
+    },
+    {
       "name": "echopilot-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73601c9d465f1b7d8f65bef963886b1478276808",
-      "mtime": "1667023930",
-      "size": "100128",
-      "md5": "6cc621adea01b233d6a8abc584e2df1b",
-      "crc32": "a4f4b120",
-      "sha1": "0f4529ba70b4903dbfe4a96657dfb2d386eaa6af",
+      "btih": "25c262203f63ce854dfbfe0f57bc1b345d3d7591",
+      "mtime": "1667066416",
+      "size": "101399",
+      "md5": "8d2b8a0494ceec234cac437b6f7a724b",
+      "crc32": "9ae88847",
+      "sha1": "9b4020a8855a2bd1876ac6ceac474e6d143f9a6f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "echopilot-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c86799a7b0f38e46bd8185f0c7f89379",
+      "md5": "fb21861ed480146b7acf49ceb0669ce9",
       "summation": "md5"
     },
     {
       "name": "echopilot-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667021408",
-      "size": "614400",
-      "md5": "06e4ec12153c125195dbd34dd4c27bbd",
-      "crc32": "a8acbaf5",
-      "sha1": "71d3c894875ddba60f975206835c0c3901bf93a1",
+      "mtime": "1667066103",
+      "size": "618496",
+      "md5": "32f0ee0de8f00da7c6167057d7e5b577",
+      "crc32": "13eddb17",
+      "sha1": "c485fed8625df3ea603b67cf320024878ed330cc",
       "format": "Metadata"
     },
     {
@@ -4870,9 +4936,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 471,
-  "item_last_updated": 1667023930,
-  "item_size": 32595781,
+  "files_count": 477,
+  "item_last_updated": 1667066416,
+  "item_size": 32956094,
   "metadata": {
     "identifier": "echopilot-2022",
     "collection": [
@@ -4890,7 +4956,7 @@
     "addeddate": "2022-09-20 17:50:41"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 1784905419,
+  "uniq": 563256953,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"
