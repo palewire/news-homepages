@@ -1,5 +1,5 @@
 {
-  "created": 1666957900,
+  "created": 1667002350,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/foreignpolicy-2022",
@@ -15643,31 +15643,93 @@
       "format": "JSON"
     },
     {
+      "name": "foreignpolicy-2022-10-28T07:50:00.843444-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-10-28T07:50:00.843444-04:00.jpg",
+      "mtime": "1666964729",
+      "size": "10573",
+      "md5": "d6158d0ff82bcde3569f334ad119fec2",
+      "crc32": "dbd4c3f5",
+      "sha1": "5a33222effbac81fbeffaa7844c86de6fb0bdabc"
+    },
+    {
+      "name": "foreignpolicy-2022-10-28T20:10:34.961360-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667002256",
+      "size": "63178",
+      "md5": "f079cbcc6a944a442f8a9a91d9a086d5",
+      "crc32": "9014824e",
+      "sha1": "485d4ef2afd6b9465a1e4add65e919021709f05e",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-10-28T20:10:34.961360-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667002257",
+      "size": "45398",
+      "md5": "235a60fa2576df688bb154ba627b14ff",
+      "crc32": "ecb9b94b",
+      "sha1": "0fe904683af8349cc7bafcac9b2c24fab3635d54",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-10-28T20:10:34.961360-04:00.jpg",
+      "source": "original",
+      "mtime": "1667002254",
+      "size": "343148",
+      "md5": "55570a8a16b47df46e3da9ec13ad437a",
+      "crc32": "1ea31cf3",
+      "sha1": "cf41548fec29df293244d37e9d1ab9e66fa5da15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foreignpolicy-2022-10-28T20:10:34.961360-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667002259",
+      "size": "1485",
+      "md5": "4e9e2ccc6e80972089c4801b81fb551c",
+      "crc32": "6d8ba445",
+      "sha1": "7efdf1621070ec90744f551ed9bd34d6e62231f5",
+      "format": "JSON"
+    },
+    {
+      "name": "foreignpolicy-2022-10-28T20:10:34.961360-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667002261",
+      "size": "206",
+      "md5": "10bd0f7bfc03b666127d4f33df49dc40",
+      "crc32": "b99d1a51",
+      "sha1": "b458beffc4574234d7bbe7163b68c28a54b985c5",
+      "format": "JSON"
+    },
+    {
       "name": "foreignpolicy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "650a063e8cc846c74b3ddf7e6b28b173347a5929",
-      "mtime": "1666957894",
-      "size": "327334",
-      "md5": "30d95f26eaa0f0fb2245b550dcf47799",
-      "crc32": "940a69f6",
-      "sha1": "e9196471d9e814af0f97ddbdef1e8d78bdb1ad95",
+      "btih": "a44e9c4749bd3b92f7bb0c230d8ff912ea7edf89",
+      "mtime": "1667002343",
+      "size": "328630",
+      "md5": "84c3ac8a13155cd1db4391e831ae5c35",
+      "crc32": "7626548b",
+      "sha1": "ff2d78b2f7338e00940e0ab49b14f7555dec9897",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foreignpolicy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eb8c88b5c4e6d660d7e44e5ecd4ded80",
+      "md5": "4d89d3538bda839eb66f72f3277daeed",
       "summation": "md5"
     },
     {
       "name": "foreignpolicy-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666957836",
-      "size": "1880064",
-      "md5": "b5e410f0b960f9bc07aa8661908edd6d",
-      "crc32": "963d7cff",
-      "sha1": "2dae563cd9e85ef8409a4c7bc2121f84023e1952",
+      "mtime": "1667002276",
+      "size": "1888256",
+      "md5": "92f73a4c2e048a442acbd591f2f989ed",
+      "crc32": "c78507c1",
+      "sha1": "410b21a10ca8c2f153250f66208a490ea919a48c",
       "format": "Metadata"
     },
     {
@@ -15681,9 +15743,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1510,
-  "item_last_updated": 1666957894,
-  "item_size": 143512410,
+  "files_count": 1516,
+  "item_last_updated": 1667002343,
+  "item_size": 143985886,
   "metadata": {
     "identifier": "foreignpolicy-2022",
     "collection": [
@@ -15705,7 +15767,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455115933,
+      "task_id": 3455595208,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15713,7 +15775,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 201764488,
+  "uniq": 371553619,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
