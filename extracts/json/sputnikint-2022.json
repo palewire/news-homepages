@@ -1,5 +1,5 @@
 {
-  "created": 1667014200,
+  "created": 1667056561,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/sputnikint-2022",
@@ -18437,31 +18437,166 @@
       "format": "JSON"
     },
     {
+      "name": "sputnikint-2022-10-29T06:28:24.983762+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sputnikint-2022-10-29T06:28:24.983762+03:00.jpg",
+      "mtime": "1667015336",
+      "size": "12401",
+      "md5": "6483b0b0fe634fe1cc52ab13849fcbf8",
+      "crc32": "aa38ec71",
+      "sha1": "982bb76bd9597ee19fbd3eafff9afda625dd3306"
+    },
+    {
+      "name": "sputnikint-2022-10-29T09:37:16.539299+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025440",
+      "size": "35953",
+      "md5": "d520760f722b41977dbfa8a008f8ea1b",
+      "crc32": "c59ad16a",
+      "sha1": "5b29fd0477b998d35711a1d3aefe43c16299cc43",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-10-29T09:37:16.539299+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025441",
+      "size": "31542",
+      "md5": "ae723194bb85357a90d7358c4956902e",
+      "crc32": "3c93bb1d",
+      "sha1": "8e7f8b7395dc2a48998c199e9a16f95ef6751b33",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-10-29T09:37:16.539299+03:00.jpg",
+      "source": "original",
+      "mtime": "1667025438",
+      "size": "368013",
+      "md5": "f446264c07c0f7d1fac6a99d11a9888d",
+      "crc32": "bb048f4d",
+      "sha1": "f4d603450ea308786282992c1ec97e607e3c2025",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sputnikint-2022-10-29T09:37:16.539299+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025443",
+      "size": "1468",
+      "md5": "f327abe9fb7132e5a5085610d07fb16d",
+      "crc32": "fcbb0c91",
+      "sha1": "9110e923d4797d4649bbf6dfb4f87f8af08880ff",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-10-29T09:37:16.539299+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025445",
+      "size": "204",
+      "md5": "1e9e3feb458a0326ddaa739f10d49951",
+      "crc32": "a32318ff",
+      "sha1": "50fa3cf3badf1669be5af002e00613ac24b4371f",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-10-29T09:37:16.539299+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sputnikint-2022-10-29T09:37:16.539299+03:00.jpg",
+      "mtime": "1667027270",
+      "size": "12242",
+      "md5": "cea8945da9ebd28df57c09f5fc7b0fbb",
+      "crc32": "a8ca9e32",
+      "sha1": "ea3110b7489826cc0a1b83d4f58b5f1c6960db0f"
+    },
+    {
+      "name": "sputnikint-2022-10-29T18:03:52.256229+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667055846",
+      "size": "35829",
+      "md5": "3b8cfc71eaa08a900f84d0fa60dd8e8f",
+      "crc32": "9df685f6",
+      "sha1": "60eb01aa28992aad231c3b73f5e4ea757453d6c5",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-10-29T18:03:52.256229+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667055848",
+      "size": "31480",
+      "md5": "97d65504b1e31558eb7fcdfd7a09cb79",
+      "crc32": "f5d93030",
+      "sha1": "8c30e4b57e747e2ee30ec88ab9b17504e79561d2",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-10-29T18:03:52.256229+03:00.jpg",
+      "source": "original",
+      "mtime": "1667055843",
+      "size": "392200",
+      "md5": "657b331f09b018e9994ee8a00458d3ee",
+      "crc32": "c9595d93",
+      "sha1": "aa157c6b268860950d0dc88f7aa80ef6bcfa4992",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sputnikint-2022-10-29T18:03:52.256229+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667055850",
+      "size": "1468",
+      "md5": "b93817ed6cf3527f112d26f542326520",
+      "crc32": "80ddc093",
+      "sha1": "4fe2061c56246a7bede8c3722f04db3dbebebb8b",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-10-29T18:03:52.256229+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667055852",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sputnikint-2022-10-29T18:03:52.256229+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sputnikint-2022-10-29T18:03:52.256229+03:00.jpg",
+      "mtime": "1667056442",
+      "size": "12065",
+      "md5": "c5de80b1b71a6dbbafd7f61a868066aa",
+      "crc32": "6512c082",
+      "sha1": "c808ee1d6a839b1bd8409aad3b61bcffef1c0de1"
+    },
+    {
       "name": "sputnikint-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7af016626f0594c88b1be249772b66c229633044",
-      "mtime": "1667014190",
-      "size": "380961",
-      "md5": "05eaed02dba4d2dbcec0b4cf7cc89b26",
-      "crc32": "2c585fbd",
-      "sha1": "62e6b9068f2e5076887b5bdedd9dea483929f72a",
+      "btih": "97d94abd6f23bfbf5abe1060ff23856f3e3654ee",
+      "mtime": "1667056470",
+      "size": "383724",
+      "md5": "f3f0c0c028ba3149c71c7fcbc1b951e8",
+      "crc32": "9176cedc",
+      "sha1": "a57cca48d02a9de7e1f27a186a8d9819cf41a030",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sputnikint-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb008ead407ae3d1b22738bd42905ecb",
+      "md5": "451cc1d90d2cc4b3fefb8855b8fe2c32",
       "summation": "md5"
     },
     {
       "name": "sputnikint-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667014121",
-      "size": "2252800",
-      "md5": "baa3e7c448569fb0ecdd40efa42922ed",
-      "crc32": "f1e5c1ee",
-      "sha1": "a26250373ddda70ed4f454de764803225d5c542a",
+      "mtime": "1667055856",
+      "size": "2273280",
+      "md5": "fbcb23ce12ec97208ff81757171da665",
+      "crc32": "b656b9f7",
+      "sha1": "9c88c5dd30cb2c3156c80a594fb68ac47a65a606",
       "format": "Metadata"
     },
     {
@@ -18475,9 +18610,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1785,
-  "item_last_updated": 1667014190,
-  "item_size": 149691152,
+  "files_count": 1798,
+  "item_last_updated": 1667056470,
+  "item_size": 150649462,
   "metadata": {
     "identifier": "sputnikint-2022",
     "collection": [
@@ -18494,21 +18629,10 @@
     "publicdate": "2022-07-16 20:31:44",
     "addeddate": "2022-07-16 20:31:44"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3455723349,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 668571333,
+  "uniq": 634576960,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }
