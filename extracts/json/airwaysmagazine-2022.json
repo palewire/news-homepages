@@ -1,5 +1,10 @@
 {
-  "created": 1667020121,
+  "airwaysmagazine-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667065685,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/3/items/airwaysmagazine-2022",
@@ -8490,31 +8495,93 @@
       "sha1": "62e49c0b3274206f0ac0eed4205391331eb71752"
     },
     {
+      "name": "airwaysmagazine-2022-10-29T12:04:52.477428-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667059502",
+      "size": "40299",
+      "md5": "a16adca71c2dc61e4882cacfee5d3ceb",
+      "crc32": "320087ad",
+      "sha1": "a1bd10bce7cb9dda5480dc0ea510c592faf17cff",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-29T12:04:52.477428-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667059503",
+      "size": "31940",
+      "md5": "7d503c15f92bf25564278ff4c0eee94e",
+      "crc32": "126c2800",
+      "sha1": "bd2a2f427191f063e33650b83af5fb75258f7c79",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-29T12:04:52.477428-04:00.jpg",
+      "source": "original",
+      "mtime": "1667059500",
+      "size": "268495",
+      "md5": "5b9ed2a76f503df544c72274e6f9eb3c",
+      "crc32": "a8d9b935",
+      "sha1": "9b5a98445a15022e959718ca6350617053686a2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-29T12:04:52.477428-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667059505",
+      "size": "1459",
+      "md5": "01635d8719624ae248624152d50d32fb",
+      "crc32": "5ee985cc",
+      "sha1": "481bbdd1eb9aa87dacb5855e7f1d83f5d4b74bd7",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-29T12:04:52.477428-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667059510",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-29T12:04:52.477428-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airwaysmagazine-2022-10-29T12:04:52.477428-04:00.jpg",
+      "mtime": "1667061195",
+      "size": "10679",
+      "md5": "bce6d8ce209f8323503ce585af8aad3e",
+      "crc32": "d2ff5e4d",
+      "sha1": "ae416305735a53acb06da83dc8610f06713ffbd3"
+    },
+    {
       "name": "airwaysmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cfa362d8ad131fa60fc292471489e713f126c135",
-      "mtime": "1667020010",
-      "size": "178986",
-      "md5": "1abb9ea2a7dda14bf7edcbfd7ea966f7",
-      "crc32": "af24a953",
-      "sha1": "3fea11b4ab29d8ce0060c9df5fb32630d7d067fc",
+      "btih": "88f353fd084765bad15b773910ec047feb89fd08",
+      "mtime": "1667061210",
+      "size": "180294",
+      "md5": "39fa05010fa510d79020cd2d56955982",
+      "crc32": "86812bac",
+      "sha1": "3f74d852e863732416b9188530744e58477415ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airwaysmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d967838ae6efbabe7b6675d98c60224",
+      "md5": "0b8dd56366fef766ac677e2d02885fdb",
       "summation": "md5"
     },
     {
       "name": "airwaysmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667016847",
-      "size": "1069056",
-      "md5": "30c22065223c611711cb3949c0c81e94",
-      "crc32": "e919940c",
-      "sha1": "3aa4e3cf82e7d582f345008699c610ffce8f6e2f",
+      "mtime": "1667059517",
+      "size": "1077248",
+      "md5": "21864a4398d4b0db73a366e773540820",
+      "crc32": "a6ff2340",
+      "sha1": "e42f326c93688a851e8a700ef17e0eb98439bcfb",
       "format": "Metadata"
     },
     {
@@ -8528,9 +8595,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 825,
-  "item_last_updated": 1667020010,
-  "item_size": 33549646,
+  "files_count": 831,
+  "item_last_updated": 1667061210,
+  "item_size": 33912220,
   "metadata": {
     "identifier": "airwaysmagazine-2022",
     "collection": [
@@ -8547,10 +8614,10 @@
     "publicdate": "2022-08-21 01:13:36",
     "addeddate": "2022-08-21 01:13:36"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 736184445,
+  "server": "ia801403.us.archive.org",
+  "uniq": 23259259,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia801403.us.archive.org",
+    "ia601403.us.archive.org"
   ]
 }
