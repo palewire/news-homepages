@@ -1,5 +1,5 @@
 {
-  "created": 1667045263,
+  "created": 1667087472,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/21/items/fortunemagazine-2022",
@@ -15695,31 +15695,93 @@
       "format": "JSON"
     },
     {
+      "name": "fortunemagazine-2022-10-29T08:05:46.333307-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortunemagazine-2022-10-29T08:05:46.333307-04:00.jpg",
+      "mtime": "1667049220",
+      "size": "9782",
+      "md5": "5122413aa2220861b6e5bce778077e0a",
+      "crc32": "98d7a4ca",
+      "sha1": "896588b7c45f1ce30f1243bcc92bed6c58458a0b"
+    },
+    {
+      "name": "fortunemagazine-2022-10-29T19:48:53.074132-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667087340",
+      "size": "76309",
+      "md5": "818b8f3eb66d0480fb101bb212d072aa",
+      "crc32": "d66ff9c2",
+      "sha1": "79b7b4aeb11ce5b90d06b0d7f69b5df16e77b23c",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-29T19:48:53.074132-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667087342",
+      "size": "57802",
+      "md5": "0832e3593e720ebb3bb7dff21e43b287",
+      "crc32": "5b16af97",
+      "sha1": "665f22a35c3e14a7769d776a77b4a90ecbb4aa2b",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-29T19:48:53.074132-04:00.jpg",
+      "source": "original",
+      "mtime": "1667087339",
+      "size": "308267",
+      "md5": "47b77291c86ba5dec3f41890df93c077",
+      "crc32": "87ee78c6",
+      "sha1": "dd73aeb6717e88f499c5abb6d9e4bb361d918378",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-29T19:48:53.074132-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667087343",
+      "size": "1423",
+      "md5": "dbabd17d2bf7dd4974fe9e7a42f07604",
+      "crc32": "2d2c8b83",
+      "sha1": "0b35aa274a6b1bb83fe6969700496e97c6b77205",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-29T19:48:53.074132-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667087344",
+      "size": "12158",
+      "md5": "a84e2d49e9ac1ac33c31a791d7f65c63",
+      "crc32": "beefa36d",
+      "sha1": "802f19c029bb405fbbb1f9232e65d70c50efa043",
+      "format": "JSON"
+    },
+    {
       "name": "fortunemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d9ba92c21f38c608f8decdc5feec7e822e4a44aa",
-      "mtime": "1667045252",
-      "size": "330869",
-      "md5": "d9dcf99afa5521f9157f7175399fabd7",
-      "crc32": "701bfd92",
-      "sha1": "5ba4a8f24cbe1834daba8585a328c2d2c0787f33",
+      "btih": "51e1b21e24bcb0d2ca0d2e318193a1cc8874a804",
+      "mtime": "1667087459",
+      "size": "332178",
+      "md5": "909696a1b3543bdc4945fe2ebf9cdc14",
+      "crc32": "68483205",
+      "sha1": "0ffd64336ad18170a37742e5172bda7af6f6dfaa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortunemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "00372be4e429244bbb840ca6ac395fb3",
+      "md5": "90b8aa2cc3d864b5f80c00e210d0f246",
       "summation": "md5"
     },
     {
       "name": "fortunemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667045182",
-      "size": "1900544",
-      "md5": "4e28dd73a0ecd57b7d00f553fc307d8b",
-      "crc32": "6764435c",
-      "sha1": "a30dd45b7094d3f47a3d5d00189bbf132582ca07",
+      "mtime": "1667087373",
+      "size": "1908736",
+      "md5": "c0df478fd967f1ccbdfca141000d0756",
+      "crc32": "bd721567",
+      "sha1": "0a3bf0f68e95745bdc15d7ae5b611a1006c3955f",
       "format": "Metadata"
     },
     {
@@ -15733,9 +15795,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1516,
-  "item_last_updated": 1667045252,
-  "item_size": 128079384,
+  "files_count": 1522,
+  "item_last_updated": 1667087459,
+  "item_size": 128554626,
   "metadata": {
     "identifier": "fortunemagazine-2022",
     "collection": [
@@ -15757,7 +15819,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456069784,
+      "task_id": 3456521709,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15765,7 +15827,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1398619856,
+  "uniq": 728408753,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

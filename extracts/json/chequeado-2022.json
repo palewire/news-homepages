@@ -1,5 +1,5 @@
 {
-  "created": 1667044889,
+  "created": 1667087089,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/chequeado-2022",
@@ -15801,31 +15801,93 @@
       "format": "JSON"
     },
     {
+      "name": "chequeado-2022-10-29T09:00:11.786014-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chequeado-2022-10-29T09:00:11.786014-03:00.jpg",
+      "mtime": "1667048045",
+      "size": "11135",
+      "md5": "4c788521e5c4b3a6d8bac27e5d1e8b5a",
+      "crc32": "32876e3c",
+      "sha1": "865bd397f993fcb70098fb227b65cc2dcb0ff2aa"
+    },
+    {
+      "name": "chequeado-2022-10-29T20:43:15.892404-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667087017",
+      "size": "18277",
+      "md5": "02b54a89ac4d8f0a7df0a46aa0d745fb",
+      "crc32": "95a5aee3",
+      "sha1": "91a3456c9679abab9c8e226346d6bfb337fbd9b3",
+      "format": "JSON"
+    },
+    {
+      "name": "chequeado-2022-10-29T20:43:15.892404-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667087019",
+      "size": "19927",
+      "md5": "7859d9add31fb182baca246040a63e5f",
+      "crc32": "06e9cbbc",
+      "sha1": "ccae9b298ef54b0d6459d625ff7f4b1145c8130d",
+      "format": "JSON"
+    },
+    {
+      "name": "chequeado-2022-10-29T20:43:15.892404-03:00.jpg",
+      "source": "original",
+      "mtime": "1667087016",
+      "size": "269003",
+      "md5": "b57a02591a9c89018db95cfe0325efb4",
+      "crc32": "a74fd989",
+      "sha1": "3b92e215b9b50104ea3f50b1677ee4dbfe28c737",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chequeado-2022-10-29T20:43:15.892404-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667087021",
+      "size": "1443",
+      "md5": "c68eb6f07b71441227758a3ad4fd90ae",
+      "crc32": "cbc65184",
+      "sha1": "dd4393afa8dd64e381063e996c29bc3dc13a3e45",
+      "format": "JSON"
+    },
+    {
+      "name": "chequeado-2022-10-29T20:43:15.892404-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667087023",
+      "size": "13129",
+      "md5": "0891c1493bb0b3a773a4216aa5dc3b4a",
+      "crc32": "e835fbb8",
+      "sha1": "fb8326f4c1acb9b07370b324b7bcd6cdfdf26ba2",
+      "format": "JSON"
+    },
+    {
       "name": "chequeado-2022_archive.torrent",
       "source": "metadata",
-      "btih": "082ff51a94c58373760b36485982cc9c1d444e0f",
-      "mtime": "1667044884",
-      "size": "322500",
-      "md5": "b61ea2733d9ca0e4cedb050beb088f0f",
-      "crc32": "9c4e7233",
-      "sha1": "da0f1e8f77154b8d16ff222ecc186edcfcdcf28c",
+      "btih": "b7007899a3a6ce3ed9a9915131807cf4cb21ed61",
+      "mtime": "1667087084",
+      "size": "323774",
+      "md5": "b77bfbefd28ff6c7ea8265026ea6893b",
+      "crc32": "febaf952",
+      "sha1": "f02ef3343f6552696a8953bcf5ea991b931f4663",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chequeado-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "376c18e4179207fba14974f83eeff7fe",
+      "md5": "5805e166e674cd7a5c6589e0e7e2a30c",
       "summation": "md5"
     },
     {
       "name": "chequeado-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667044832",
-      "size": "1888256",
-      "md5": "6398046abc0f087e5034232f22b3bdd6",
-      "crc32": "2d62f230",
-      "sha1": "1993ac394291d224db6facca219553903889a970",
+      "mtime": "1667087029",
+      "size": "1892352",
+      "md5": "7dd425a9f40ff2e07ca00f701312da69",
+      "crc32": "a8ac338d",
+      "sha1": "dbd080bc3ee000695332267f3496f1e4d54cf997",
       "format": "Metadata"
     },
     {
@@ -15839,9 +15901,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1525,
-  "item_last_updated": 1667044884,
-  "item_size": 97164323,
+  "files_count": 1531,
+  "item_last_updated": 1667087084,
+  "item_size": 97502607,
   "metadata": {
     "identifier": "chequeado-2022",
     "collection": [
@@ -15863,15 +15925,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456063372,
+      "task_id": 3456518177,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 532152665,
+  "uniq": 265061959,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]
