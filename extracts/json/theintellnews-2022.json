@@ -1,5 +1,5 @@
 {
-  "created": 1666968378,
+  "created": 1667014369,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/6/items/theintellnews-2022",
@@ -4695,31 +4695,93 @@
       "format": "JSON"
     },
     {
+      "name": "theintellnews-2022-10-28T10:45:12.537313-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-28T10:45:12.537313-04:00.jpg",
+      "mtime": "1666973310",
+      "size": "9243",
+      "md5": "554f62c78692d1892cb2c8faf315e8a7",
+      "crc32": "23d8a90c",
+      "sha1": "10fd0847d59bc9bee60a502025e48b540e42603e"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014302",
+      "size": "24584",
+      "md5": "be100d55e051d9bd79b2692ddb141ce5",
+      "crc32": "2fbd8f82",
+      "sha1": "338fb579ef2d3abb5e9b2b821a120a3eefbf7b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014304",
+      "size": "32297",
+      "md5": "0e9c7e7e6d65d6d985785e5267d122e5",
+      "crc32": "563b27e4",
+      "sha1": "cf549f229706d9e86cffdb49c8030a41df02db39",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.jpg",
+      "source": "original",
+      "mtime": "1667014300",
+      "size": "299098",
+      "md5": "77541acb424baf5e0a6edcbf9dd5f6d1",
+      "crc32": "4c339660",
+      "sha1": "b4159558e4637d5aec06771943372e8a43d1e293",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014307",
+      "size": "1486",
+      "md5": "1506620fff8f1c3bb7d8f4a19a7a445e",
+      "crc32": "f4a83722",
+      "sha1": "a83aea1d3bea8d6cf2cb0f9d8f29c89cd4ba7d71",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014308",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theintellnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e51624801123b8adc05bb1eda5a867a8db4073c",
-      "mtime": "1666968374",
-      "size": "99187",
-      "md5": "98d3bd24b94dffe7a6a5d4674791783c",
-      "crc32": "cde5c098",
-      "sha1": "cf76dd2fdba648a858425092494ba466d36dcdf0",
+      "btih": "19c2dffe02202a35749f795166b23063b9e29e96",
+      "mtime": "1667014351",
+      "size": "100482",
+      "md5": "6e49b6188c9daf4f14c5478b927314d5",
+      "crc32": "c0659061",
+      "sha1": "62f1cd1d4f7132c45bd30dc356c06bc0ce76ba1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintellnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9dfeb489ad2add2b5776e6b33f986d6",
+      "md5": "c0efee698aa91937d58caf6142250442",
       "summation": "md5"
     },
     {
       "name": "theintellnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666968329",
-      "size": "602112",
-      "md5": "6c85c5fa8375223e389bacb193c65713",
-      "crc32": "a271d2ec",
-      "sha1": "a0f70341e3a36585e452afb4c2f1f41163b9ca3a",
+      "mtime": "1667014313",
+      "size": "606208",
+      "md5": "ab293e2c0916a70985716c1ef0de0286",
+      "crc32": "9acef647",
+      "sha1": "7ee8cf7a9d08a396606e2076032db3977bae630c",
       "format": "Metadata"
     },
     {
@@ -4733,9 +4795,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 458,
-  "item_last_updated": 1666968374,
-  "item_size": 30332998,
+  "files_count": 464,
+  "item_last_updated": 1667014351,
+  "item_size": 30705299,
   "metadata": {
     "identifier": "theintellnews-2022",
     "collection": [
@@ -4757,7 +4819,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455222062,
+      "task_id": 3455725546,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4765,7 +4827,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 214745632,
+  "uniq": 2123948745,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

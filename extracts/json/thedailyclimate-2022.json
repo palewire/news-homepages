@@ -1,5 +1,5 @@
 {
-  "created": 1666968390,
+  "created": 1667014346,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/28/items/thedailyclimate-2022",
@@ -11857,31 +11857,93 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.jpg",
+      "mtime": "1666973364",
+      "size": "10841",
+      "md5": "559ef4550f95030bca172ef3ba80d06f",
+      "crc32": "6fe64d91",
+      "sha1": "6c23b9910d2fd0ed71355fd61a75c178a97a3760"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014286",
+      "size": "27816",
+      "md5": "ff19119cd81e6f6c9b9d32e7de2c7b14",
+      "crc32": "3e248cee",
+      "sha1": "fcb2d8e2fcc05f043cfb78f192fabe291fa4d4c5",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014288",
+      "size": "49597",
+      "md5": "c7b495493f8eb7d413f43003198f8a20",
+      "crc32": "ff32309a",
+      "sha1": "643cbc1019210086fdc205f037240eee8e881e8c",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.jpg",
+      "source": "original",
+      "mtime": "1667014285",
+      "size": "278780",
+      "md5": "0c37f5eed8eeaedce483caf14e8730cf",
+      "crc32": "55ca66d3",
+      "sha1": "7797976c9be9984c5dc189d37b63d560bbe8e55c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014289",
+      "size": "1503",
+      "md5": "ebc19f6cfc67b52012d4ef43a21b5130",
+      "crc32": "6ff12780",
+      "sha1": "7b29607fba3476d84f2b5348aa6f971fde18f930",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014291",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thedailyclimate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "15b2f0d05c277f304e41ba7e30fec2376b9f0f58",
-      "mtime": "1666968387",
-      "size": "250618",
-      "md5": "19743102b79da148de03bf059f109a40",
-      "crc32": "b0dbfd25",
-      "sha1": "a378665f646acb300edd371437a4f38f97b771bc",
+      "btih": "8b7dfd339dcda278c147b5058dfbba3c54428df1",
+      "mtime": "1667014342",
+      "size": "251906",
+      "md5": "566152aaf95b40aac66b02be928b6f94",
+      "crc32": "21ca29b6",
+      "sha1": "49f667a0ec1686bff4d66369860e3a4212ac2a76",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyclimate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "72da3cb090d51fb61fde0f5fb9679f89",
+      "md5": "ac3486d72afd1d996e8caa8d799178a1",
       "summation": "md5"
     },
     {
       "name": "thedailyclimate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666968343",
-      "size": "1474560",
-      "md5": "932b884f4eec97189868fc12cc691381",
-      "crc32": "39963a44",
-      "sha1": "7216251dfeb84647493848ee087ff644dab3ac0a",
+      "mtime": "1667014296",
+      "size": "1482752",
+      "md5": "dc63149bf4efe8e7cf000fb2fc0eb9f5",
+      "crc32": "b6947381",
+      "sha1": "a826c7affbaeb816c9e6a73cb3a9b73c1f9f9c8e",
       "format": "Metadata"
     },
     {
@@ -11895,9 +11957,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1150,
-  "item_last_updated": 1666968387,
-  "item_size": 75801386,
+  "files_count": 1156,
+  "item_last_updated": 1667014342,
+  "item_size": 76179605,
   "metadata": {
     "identifier": "thedailyclimate-2022",
     "collection": [
@@ -11919,7 +11981,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455222156,
+      "task_id": 3455725228,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11927,7 +11989,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1991688597,
+  "uniq": 2138719315,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

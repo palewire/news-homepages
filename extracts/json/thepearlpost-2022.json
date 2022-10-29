@@ -1,5 +1,5 @@
 {
-  "created": 1666968372,
+  "created": 1667014326,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/thepearlpost-2022",
@@ -6733,31 +6733,93 @@
       "format": "JSON"
     },
     {
+      "name": "thepearlpost-2022-10-28T07:45:04.340253-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thepearlpost-2022-10-28T07:45:04.340253-07:00.jpg",
+      "mtime": "1666973305",
+      "size": "9921",
+      "md5": "b2f62ec09cfba309eeb9d715202f0a87",
+      "crc32": "02830d45",
+      "sha1": "d51b259c742a4c6601d23e06ef49c8b12959abba"
+    },
+    {
+      "name": "thepearlpost-2022-10-28T20:31:05.964378-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014269",
+      "size": "7200",
+      "md5": "c2200282e55994269bc340aad1123793",
+      "crc32": "ace2b482",
+      "sha1": "25cb6b6cb72ef90977347bff558fb608f3be5b90",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-28T20:31:05.964378-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014271",
+      "size": "31668",
+      "md5": "ab67c13afb815bdbb23e07ab207b81c7",
+      "crc32": "92073c86",
+      "sha1": "cbf5261564533709d57cf297975f8e26393fcb13",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-28T20:31:05.964378-07:00.jpg",
+      "source": "original",
+      "mtime": "1667014267",
+      "size": "272833",
+      "md5": "ae1838989a1be822f9f6f1bbdf449880",
+      "crc32": "4572b172",
+      "sha1": "e057988b83542d07bab4e74ae27566da5d9fb3d6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thepearlpost-2022-10-28T20:31:05.964378-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014272",
+      "size": "1511",
+      "md5": "50174343686ca0bb8fd3061006e19491",
+      "crc32": "2458a57d",
+      "sha1": "c02e3caa940b3041cd26f57d99af756cb2ffd565",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-28T20:31:05.964378-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014277",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thepearlpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6251b3d6d56784ae3f6c0d4daa0f93149e212b32",
-      "mtime": "1666968360",
-      "size": "140671",
-      "md5": "f70eb041d6ea36ad6c07056659fe5f31",
-      "crc32": "2d8b1c0a",
-      "sha1": "630137bd7327613112ee96a589b15722347f39a4",
+      "btih": "80ac25f69bf568e0da9eb1321cfb386d14346831",
+      "mtime": "1667014320",
+      "size": "141959",
+      "md5": "6cc17b7ca784a0646de117e898804ddc",
+      "crc32": "7545e9c4",
+      "sha1": "8b257da709e626c16710d2edd282d23d37f8fc4f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thepearlpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "693c00cbd4db30e243c23389197b6694",
+      "md5": "b8886281203f9dd571ae16223c2d3356",
       "summation": "md5"
     },
     {
       "name": "thepearlpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666968318",
-      "size": "847872",
-      "md5": "758aa0c37215f028df52d0e877534c89",
-      "crc32": "a1df078c",
-      "sha1": "ba2bf8d148a32ff2cef3de401a368a926a6c345f",
+      "mtime": "1667014281",
+      "size": "856064",
+      "md5": "b68b3b0639afb9db9ce6f7c1b6da7497",
+      "crc32": "64992103",
+      "sha1": "f77bd1736b5297265afae86e42f0c33e31f93226",
       "format": "Metadata"
     },
     {
@@ -6771,9 +6833,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 655,
-  "item_last_updated": 1666968360,
-  "item_size": 38652970,
+  "files_count": 661,
+  "item_last_updated": 1667014320,
+  "item_size": 38985785,
   "metadata": {
     "identifier": "thepearlpost-2022",
     "collection": [
@@ -6795,7 +6857,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455222025,
+      "task_id": 3455724987,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6803,7 +6865,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1368275311,
+  "uniq": 1368867826,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]
