@@ -1,5 +1,10 @@
 {
-  "created": 1666954691,
+  "created": 1667002001,
+  "ctmagazine-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/ctmagazine-2022",
@@ -8159,31 +8164,104 @@
       "format": "JSON"
     },
     {
+      "name": "ctmagazine-2022-10-28T05:57:00.031757-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctmagazine-2022-10-28T05:57:00.031757-05:00.jpg",
+      "mtime": "1666960476",
+      "size": "8635",
+      "md5": "4590168803f8f53d408db77af1441a67",
+      "crc32": "16dd4bb6",
+      "sha1": "e089b671535e8e1b327a04e1bd4f317b8cb4c449"
+    },
+    {
+      "name": "ctmagazine-2022-10-28T18:10:23.867392-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998631",
+      "size": "26406",
+      "md5": "d587640338bc431cf5043c6505152b46",
+      "crc32": "86d91805",
+      "sha1": "44550f579f8e2542f81d46df7d70e1f89d8ef2ce",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-28T18:10:23.867392-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998632",
+      "size": "26674",
+      "md5": "c4c8c199578145884c70694997e6a4e8",
+      "crc32": "b879be17",
+      "sha1": "70a232cad31f1db6fc1d7ec0d6ebfd016ba8025e",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-28T18:10:23.867392-05:00.jpg",
+      "source": "original",
+      "mtime": "1666998629",
+      "size": "304582",
+      "md5": "90affddcf40071f6b378cdd6f915808e",
+      "crc32": "350048f3",
+      "sha1": "b742b62cfae78e2c3132e0256833194b072099ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctmagazine-2022-10-28T18:10:23.867392-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998634",
+      "size": "1554",
+      "md5": "9bfa58c4e7693146c7718b29b9060b7f",
+      "crc32": "d9b619ee",
+      "sha1": "bba678d764169e48a089322d53d7996555fb59f1",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-28T18:10:23.867392-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998636",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-28T18:10:23.867392-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctmagazine-2022-10-28T18:10:23.867392-05:00.jpg",
+      "mtime": "1667000173",
+      "size": "8868",
+      "md5": "00537cd59aab8fe17554f5450f2a8635",
+      "crc32": "ffbbcfa1",
+      "sha1": "1a9e79435d9e9d84ec7ed87c8deacd636feb0613"
+    },
+    {
       "name": "ctmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4a0a6fb5ef7eca90367060bd350c8fcfecfbc47",
-      "mtime": "1666954685",
-      "size": "168701",
-      "md5": "01af6bfe1b44684349bd35a8c064c0fd",
-      "crc32": "0453322f",
-      "sha1": "7741f36e01d8c3c717f46f7610a0d061022e2ae9",
+      "btih": "aec33ce9d5b41374664d55b7814fdb66c3379560",
+      "mtime": "1667000227",
+      "size": "170164",
+      "md5": "0e43e4dd45a98a5c455afe86feb37563",
+      "crc32": "85e5561b",
+      "sha1": "adbde4306f98d9a31aca6cad0d9d5ca034238c51",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b517b578c65632652e2a985f5f47080b",
+      "md5": "01561ed49af8da8e0432819eef0d9f4a",
       "summation": "md5"
     },
     {
       "name": "ctmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666954640",
-      "size": "1019904",
-      "md5": "e6b7b7bf6c6db309fd16e5a35163b0ca",
-      "crc32": "3be95727",
-      "sha1": "c0ce65263c442d907b3a5bb076f0f7e7716596da",
+      "mtime": "1666998640",
+      "size": "1028096",
+      "md5": "bdffa058405ed61b8f1126afe90c856b",
+      "crc32": "a1931a42",
+      "sha1": "f56f9e1c739a7450eeb61d5d0a243f579183365a",
       "format": "Metadata"
     },
     {
@@ -8197,9 +8275,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 793,
-  "item_last_updated": 1666954685,
-  "item_size": 46897265,
+  "files_count": 800,
+  "item_last_updated": 1667000227,
+  "item_size": 47283841,
   "metadata": {
     "identifier": "ctmagazine-2022",
     "collection": [
@@ -8216,21 +8294,10 @@
     "publicdate": "2022-08-23 23:00:18",
     "addeddate": "2022-08-23 23:00:18"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3455078012,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 131274888,
+  "uniq": 1347923933,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }
