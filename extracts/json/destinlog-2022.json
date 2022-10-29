@@ -1,5 +1,5 @@
 {
-  "created": 1667002042,
+  "created": 1667045001,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/destinlog-2022",
@@ -4841,31 +4841,93 @@
       "format": "JSON"
     },
     {
+      "name": "destinlog-2022-10-28T19:06:29.465562-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "destinlog-2022-10-28T19:06:29.465562-05:00.jpg",
+      "mtime": "1667003630",
+      "size": "9401",
+      "md5": "c9aaa029d42cbf630ddf8215edbbef2e",
+      "crc32": "facb40a7",
+      "sha1": "5b526cf18d4ff28143fad7ad2cf37176c80c813f"
+    },
+    {
+      "name": "destinlog-2022-10-29T07:02:19.722676-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667044945",
+      "size": "24539",
+      "md5": "02a9791f92cffa4f322cd3141f26edbd",
+      "crc32": "3a5f61ac",
+      "sha1": "151e1ed4f39e0b6a56694bed95bf6b61af7fdcb1",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-29T07:02:19.722676-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667044947",
+      "size": "38136",
+      "md5": "a53be9d5e766b82b2fda84e1ea005230",
+      "crc32": "03afd91b",
+      "sha1": "527aebf9ecd3df944135ceb0ce8e5d64ab017741",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-29T07:02:19.722676-05:00.jpg",
+      "source": "original",
+      "mtime": "1667044944",
+      "size": "256116",
+      "md5": "296f2a10a2f81b1fd4f14937689965bb",
+      "crc32": "359915d9",
+      "sha1": "9888202cba1cd673bd4359daed7bd1d2e202a160",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-29T07:02:19.722676-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667044949",
+      "size": "1513",
+      "md5": "b72bf8e5aab61eb322a408684beee6a2",
+      "crc32": "69cb8d68",
+      "sha1": "04fd184e2dbcda4738d3cd93b4ac6553a93d4e41",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-29T07:02:19.722676-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667044956",
+      "size": "89715",
+      "md5": "42bbe758387ea7072ae520ea324aa768",
+      "crc32": "23e92480",
+      "sha1": "e0ed40b5150e7f2d6b23d90db17d9104263fe979",
+      "format": "JSON"
+    },
+    {
       "name": "destinlog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8571551927f7c1cf160151f475edeeda7ff7bf8e",
-      "mtime": "1667002040",
-      "size": "100380",
-      "md5": "9bdd43fe7925eaf3bb025298e081e4a8",
-      "crc32": "c623be58",
-      "sha1": "6c554fcb0d6ecb6c95b9f8cfae393c2ef4791fbb",
+      "btih": "8e172af46e2a8aca3e3153b2f1128af87f592590",
+      "mtime": "1667044998",
+      "size": "101653",
+      "md5": "897854b94d5bd46c95af830df7cc8a54",
+      "crc32": "66ccff91",
+      "sha1": "3daac4eaf883d35fd88e56bba62cfaf50b96c15f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "destinlog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "971160aa418a8a37a97ad7b997a21ca4",
+      "md5": "65bc677ae0cb07176d0df81d75e67059",
       "summation": "md5"
     },
     {
       "name": "destinlog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667002002",
-      "size": "614400",
-      "md5": "798d51579c8c70434ac31a7734ce9ded",
-      "crc32": "e4aec3dc",
-      "sha1": "699388f4b42a4317a2161f7c9b7791cd6b85e94d",
+      "mtime": "1667044959",
+      "size": "622592",
+      "md5": "e3e03c34106bcae6517f216fb66ec60a",
+      "crc32": "6210faa5",
+      "sha1": "9329f6d9d25633a462d7aeeb8a4f775036607603",
       "format": "Metadata"
     },
     {
@@ -4879,9 +4941,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 472,
-  "item_last_updated": 1667002040,
-  "item_size": 32870246,
+  "files_count": 478,
+  "item_last_updated": 1667044998,
+  "item_size": 33299131,
   "metadata": {
     "identifier": "destinlog-2022",
     "collection": [
@@ -4903,7 +4965,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455592111,
+      "task_id": 3456066163,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4911,7 +4973,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 912133135,
+  "uniq": 1275228002,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

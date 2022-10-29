@@ -1,5 +1,5 @@
 {
-  "created": 1667001917,
+  "created": 1667044983,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/25/items/coloradosun-2022",
@@ -9573,31 +9573,93 @@
       "format": "JSON"
     },
     {
+      "name": "coloradosun-2022-10-28T18:04:01.686357-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradosun-2022-10-28T18:04:01.686357-06:00.jpg",
+      "mtime": "1667003518",
+      "size": "10686",
+      "md5": "77041074e2c8a1f057542e5e79753c51",
+      "crc32": "b7ef47ee",
+      "sha1": "c3a6423ddad5d3e880675dcd048c90172646751a"
+    },
+    {
+      "name": "coloradosun-2022-10-29T05:59:36.476398-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667044795",
+      "size": "29253",
+      "md5": "b9ccd8cbac59042f6883f12031731ec7",
+      "crc32": "06705eff",
+      "sha1": "cf8825d4b8ef06ff2b06999f0adf0fc56bb4f19c",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-29T05:59:36.476398-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667044798",
+      "size": "44994",
+      "md5": "1bc5badca7d7b07be54e3d9224647edd",
+      "crc32": "c1267618",
+      "sha1": "a9b8e073691d3aa83a72e1c6e9057d52d92f2148",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-29T05:59:36.476398-06:00.jpg",
+      "source": "original",
+      "mtime": "1667044793",
+      "size": "280291",
+      "md5": "a05cb7534b6018060d499c3d2ca80d17",
+      "crc32": "bc88ae16",
+      "sha1": "0efaa260e646629c4f49c61e91a2a3dbd0b77c0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradosun-2022-10-29T05:59:36.476398-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667044799",
+      "size": "1467",
+      "md5": "c57d2af67a8a538d1da5875bffdb58a1",
+      "crc32": "6a93f37e",
+      "sha1": "dc1d58b9c8ec404b0829cc423f25d9c4edbff978",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradosun-2022-10-29T05:59:36.476398-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667044801",
+      "size": "40871",
+      "md5": "ab965a833287727f58741facb2901fd4",
+      "crc32": "c2735f5e",
+      "sha1": "0d802b7e7a2f58e4205b47f445211f06a007c9d1",
+      "format": "JSON"
+    },
+    {
       "name": "coloradosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b13ef0fe545ea9f2e10d8a4096a69b1de7cf00d0",
-      "mtime": "1667001911",
-      "size": "198934",
-      "md5": "76ddee133a8937bbf7d40a6eaadc4fe2",
-      "crc32": "c40be33a",
-      "sha1": "744eb4eeb19721c9b6821425e91af4a4d064ed71",
+      "btih": "eab19a54b1d814f73b0e8caafdd96e0b4c19b8f6",
+      "mtime": "1667044971",
+      "size": "200220",
+      "md5": "3e607357673a5de22d74909bfddfe55e",
+      "crc32": "3a17389e",
+      "sha1": "d2dfa9fb3bf0b48e09b122634988e445c6bda3f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coloradosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0c007b39116d4f94c5134cda0144a90c",
+      "md5": "62faebfb55a45b16eee89dd335bbb9a5",
       "summation": "md5"
     },
     {
       "name": "coloradosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667001867",
-      "size": "1200128",
-      "md5": "7822a29fc73b1c86d6ec2ef52eba3004",
-      "crc32": "80ec29ba",
-      "sha1": "994371ef8612f4938cdc642f6391053294437bf6",
+      "mtime": "1667044882",
+      "size": "1204224",
+      "md5": "a6b96a5d5b5e9d894a6a3ce6d1b46013",
+      "crc32": "6aa25ece",
+      "sha1": "ef868b03ef9e5087fbc08dd9095739d0647745a7",
       "format": "Metadata"
     },
     {
@@ -9611,9 +9673,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 930,
-  "item_last_updated": 1667001911,
-  "item_size": 59857880,
+  "files_count": 936,
+  "item_last_updated": 1667044971,
+  "item_size": 60270824,
   "metadata": {
     "identifier": "coloradosun-2022",
     "collection": [
@@ -9635,7 +9697,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455590626,
+      "task_id": 3456065716,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9643,7 +9705,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1342797564,
+  "uniq": 2118849977,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

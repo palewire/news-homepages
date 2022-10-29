@@ -1,5 +1,5 @@
 {
-  "created": 1667002791,
+  "created": 1667045039,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/fla_pol-2022",
@@ -10143,31 +10143,93 @@
       "format": "JSON"
     },
     {
+      "name": "fla_pol-2022-10-28T20:07:59.276484-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-28T20:07:59.276484-04:00.jpg",
+      "mtime": "1667003784",
+      "size": "9878",
+      "md5": "ccf6d74b57e5c38cdd54938ea6443ebf",
+      "crc32": "f02337c3",
+      "sha1": "dd0983c925b4c59b1913517cf464640835f5e9e1"
+    },
+    {
+      "name": "fla_pol-2022-10-29T08:02:39.293146-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667044968",
+      "size": "88680",
+      "md5": "2b783a96f5b80804c2624a7f77c8bb98",
+      "crc32": "0c3743de",
+      "sha1": "bf737f8bb2eb61b968d5c8cb9b5e82dd83cba3e4",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-29T08:02:39.293146-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667044969",
+      "size": "89876",
+      "md5": "cca89db49b7926ffc44d930a38a71b73",
+      "crc32": "a989b257",
+      "sha1": "e79b0039cf602c932f239b7df6c199cbec5aa843",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-29T08:02:39.293146-04:00.jpg",
+      "source": "original",
+      "mtime": "1667044966",
+      "size": "221668",
+      "md5": "1be2bcc896b401dc69d11478b5346f5f",
+      "crc32": "31b9cde1",
+      "sha1": "2bc9840c71cb4d6ed82d2594e3780924354a222f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-29T08:02:39.293146-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667044971",
+      "size": "1503",
+      "md5": "3ff1573b9e3f5eafb936cfabbd5c6360",
+      "crc32": "6b7562a6",
+      "sha1": "7f4099edae1acce3114271bd1c09706cac57c642",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-29T08:02:39.293146-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667044972",
+      "size": "24974",
+      "md5": "80c631232308ec54cef67ab9fd0bfc0b",
+      "crc32": "ac34ffc5",
+      "sha1": "a01659b3bf13f990418b0a26a8fc772df2fcfd62",
+      "format": "JSON"
+    },
+    {
       "name": "fla_pol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bf2a08530819356ecec5bbffb52623a3c3c2a0a4",
-      "mtime": "1667002155",
-      "size": "207248",
-      "md5": "78f5df9786862fdfc48cf175ec719693",
-      "crc32": "75466359",
-      "sha1": "c67934437039e9bbbe6a91007d4b0fb7181d8bd5",
+      "btih": "921ce43c45cc525b4c3b2165cadbd6d92a5a711c",
+      "mtime": "1667045025",
+      "size": "208509",
+      "md5": "c4b169f9c4a9497677d8c13f9fd5414a",
+      "crc32": "b9897930",
+      "sha1": "f44f6ce784563d711309397b558a558a9f98f569",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fla_pol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "913462fec73655ba1916f2eacf50ae5b",
+      "md5": "96740e129791b7a8e75a4da9cf1ec576",
       "summation": "md5"
     },
     {
       "name": "fla_pol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667002110",
-      "size": "1261568",
-      "md5": "9a544a2f06f56575b1633021a1f98e49",
-      "crc32": "e3bc38f9",
-      "sha1": "6a10d209001f5e2ff8d09d021f42c08772f3d321",
+      "mtime": "1667044977",
+      "size": "1265664",
+      "md5": "aad2f916c05258d908d75d90c2c57cb3",
+      "crc32": "817424cf",
+      "sha1": "1e58c46ac9129be1fff2740fac036ef9520bfdcb",
       "format": "Metadata"
     },
     {
@@ -10181,17 +10243,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 985,
-  "fla_pol-2022": {
-    "url": "https://floridapolitics.com/",
-    "job_id": "spn2-d5746eadbe98189428d8cc1cb786e5e3c743a6eb",
-    "resources": [],
-    "status": "error",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed"
-  },
-  "item_last_updated": 1667002155,
-  "item_size": 76955284,
+  "files_count": 991,
+  "item_last_updated": 1667045025,
+  "item_size": 77397220,
   "metadata": {
     "identifier": "fla_pol-2022",
     "collection": [
@@ -10213,7 +10267,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455593332,
+      "task_id": 3456066864,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10221,7 +10275,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 628104556,
+  "uniq": 628894069,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667002276,
+  "created": 1667045218,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/22/items/forbes-2022",
@@ -6835,31 +6835,93 @@
       "format": "JSON"
     },
     {
+      "name": "forbes-2022-10-28T20:10:05.754528-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "forbes-2022-10-28T20:10:05.754528-04:00.jpg",
+      "mtime": "1667004416",
+      "size": "8711",
+      "md5": "6b1c31754281152d0dd7f7a20e41a764",
+      "crc32": "f6de0218",
+      "sha1": "009bbad92f0d4cad7fb93c53139eb7d141ada7ba"
+    },
+    {
+      "name": "forbes-2022-10-29T08:05:20.022154-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667045128",
+      "size": "33771",
+      "md5": "e331535dea1bc96b70a6f8e90afa1e5a",
+      "crc32": "b8bd91db",
+      "sha1": "5656d548186cc6d7e411525b5a6e054be7063749",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-29T08:05:20.022154-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667045130",
+      "size": "53176",
+      "md5": "3392a2218226ea7a0c0d0a6be2c5e68a",
+      "crc32": "ce9afdbb",
+      "sha1": "282e9198407e33dd45410380014999b2336e82b9",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-29T08:05:20.022154-04:00.jpg",
+      "source": "original",
+      "mtime": "1667045127",
+      "size": "235612",
+      "md5": "fdd373c51244ce6410621115f71e6cdb",
+      "crc32": "1a34c797",
+      "sha1": "a723b63c1c2fa34b187af7efeac1f7688a39ec1c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "forbes-2022-10-29T08:05:20.022154-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667045132",
+      "size": "1458",
+      "md5": "3963bf157166e84fe604b5cec1e51e13",
+      "crc32": "07f84ebb",
+      "sha1": "8574a4836e540d9d5c60c4da8a440194acafc10d",
+      "format": "JSON"
+    },
+    {
+      "name": "forbes-2022-10-29T08:05:20.022154-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667045134",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "forbes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b83dbd52abb0c63e4313c46102524407612238ca",
-      "mtime": "1667002269",
-      "size": "138794",
-      "md5": "31f5044da6a5ca7dd61d9b8c8228ee1a",
-      "crc32": "62d8c818",
-      "sha1": "174b4ee122b7ed7b0122c8c43f2766ac70b26e39",
+      "btih": "ba46776fa1c98a2df80ef5faabdf65b00d780d35",
+      "mtime": "1667045200",
+      "size": "140027",
+      "md5": "ad65f458a7847c69be2099bcb2aa47d7",
+      "crc32": "36578ac3",
+      "sha1": "b5bc5bc78fa7da1d96cf6a4667e893c630efac0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "forbes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad54793549cc808bae71d352bbc258a2",
+      "md5": "30806b4a389e8589e9c9dae7a7c2ff19",
       "summation": "md5"
     },
     {
       "name": "forbes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667002228",
-      "size": "856064",
-      "md5": "b3872638f40f56689fab015240f365da",
-      "crc32": "624bed09",
-      "sha1": "862303884214eac90452715974a689d2a1ee3260",
+      "mtime": "1667045150",
+      "size": "864256",
+      "md5": "177408d9876a6c5f07d4a889ffc30bcd",
+      "crc32": "a77b6a9f",
+      "sha1": "fcd5dd50be7c7bac486cb6769c71471d93f55002",
       "format": "Metadata"
     },
     {
@@ -6873,9 +6935,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 665,
-  "item_last_updated": 1667002269,
-  "item_size": 37449430,
+  "files_count": 671,
+  "item_last_updated": 1667045200,
+  "item_size": 37791785,
   "metadata": {
     "identifier": "forbes-2022",
     "collection": [
@@ -6897,7 +6959,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455594494,
+      "task_id": 3456069284,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6905,7 +6967,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1536786856,
+  "uniq": 649921536,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

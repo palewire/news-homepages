@@ -1,5 +1,5 @@
 {
-  "created": 1667002331,
+  "created": 1667045226,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/foxsports-2022",
@@ -13473,31 +13473,93 @@
       "format": "JSON"
     },
     {
+      "name": "foxsports-2022-10-28T20:10:37.255076-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxsports-2022-10-28T20:10:37.255076-04:00.jpg",
+      "mtime": "1667003958",
+      "size": "10170",
+      "md5": "8257d940c89528cf0c74dcb3ecd99c0f",
+      "crc32": "74150793",
+      "sha1": "8175e5a919d7fff2f5376cc472ad1553404af686"
+    },
+    {
+      "name": "foxsports-2022-10-29T08:05:11.575391-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667045119",
+      "size": "45938",
+      "md5": "602ab1fb844b8cbc2f7bcc2bede1ff97",
+      "crc32": "7e825f7c",
+      "sha1": "c3e8f89781e05e79959454d1bc56d1a498307ec0",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-10-29T08:05:11.575391-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667045121",
+      "size": "74256",
+      "md5": "d83d6146499f58272634bd694bc65496",
+      "crc32": "172736f0",
+      "sha1": "2a2b528da0939179e2eabfdf0e6be5a94138f126",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-10-29T08:05:11.575391-04:00.jpg",
+      "source": "original",
+      "mtime": "1667045117",
+      "size": "260116",
+      "md5": "9d8815d27bf36bfe0494703bfca67c02",
+      "crc32": "90171081",
+      "sha1": "f13077191e23912edc5272726ece47a8021aa9a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxsports-2022-10-29T08:05:11.575391-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667045122",
+      "size": "1486",
+      "md5": "fe37c364ff12f0194fd6b27692686958",
+      "crc32": "f906020d",
+      "sha1": "f03faa6eadfd7bd9239f9a4dd62e6d728fb30cbc",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-10-29T08:05:11.575391-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667045124",
+      "size": "50160",
+      "md5": "390596973ccd9d1fd28712c8b08c6834",
+      "crc32": "dcec9504",
+      "sha1": "7ab1efad3575cf3d1c263c8fdc0aa1c3719d4fd5",
+      "format": "JSON"
+    },
+    {
       "name": "foxsports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cedc4157aeaec93f825c874dd7d7ca706a769976",
-      "mtime": "1667002324",
-      "size": "276310",
-      "md5": "e2abda6602220f66471f012b98925d7a",
-      "crc32": "bb3e902d",
-      "sha1": "8ab418691f63e3ce5626b9dd56f05201ab3d9697",
+      "btih": "e7762be276d6235189afa7953c786949fbe29192",
+      "mtime": "1667045217",
+      "size": "277584",
+      "md5": "3e1c07adb24fffc43bf7b5e5033994cb",
+      "crc32": "ea198cbe",
+      "sha1": "6b02391541a9d198fa3215c6a56ad2ef1b4730bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxsports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f4db0023123ab645cbb54769d4f5211",
+      "md5": "0b1a74fc0d38132d0a02fe5d6f7862b5",
       "summation": "md5"
     },
     {
       "name": "foxsports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667002263",
-      "size": "1642496",
-      "md5": "232e45c54127dad91905c418b8071e2f",
-      "crc32": "28d368ac",
-      "sha1": "595513b09861a1ab5ab548a64b7e04c9c195dd89",
+      "mtime": "1667045143",
+      "size": "1646592",
+      "md5": "8d8a5d67768563329bf0eb490c325f6a",
+      "crc32": "7f815ac5",
+      "sha1": "02207a2a24b995b7d98737b2d81e7ddeecbb2b10",
       "format": "Metadata"
     },
     {
@@ -13511,9 +13573,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1304,
-  "item_last_updated": 1667002324,
-  "item_size": 90540984,
+  "files_count": 1310,
+  "item_last_updated": 1667045217,
+  "item_size": 90988480,
   "metadata": {
     "identifier": "foxsports-2022",
     "collection": [
@@ -13535,7 +13597,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455594975,
+      "task_id": 3456069345,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13543,7 +13605,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 4256129,
+  "uniq": 791874795,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]
