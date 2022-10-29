@@ -1,5 +1,13 @@
 {
-  "created": 1666981140,
+  "created": 1667025476,
+  "cuestion_p-2022": {
+    "url": "https://cuestionpublica.com/",
+    "job_id": "spn2-e19c0ae951b23d494f978ac117450e7569335d73",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/31/items/cuestion_p-2022",
@@ -10144,31 +10152,93 @@
       "sha1": "2c561a408568b8d863c8689d95947258694a133e"
     },
     {
+      "name": "cuestion_p-2022-10-29T00:27:16.063039-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021257",
+      "size": "27290",
+      "md5": "65e55efe49e08a570e9eafbfa195652c",
+      "crc32": "f2067a28",
+      "sha1": "8c6762e357719803c62c56c5d9ca2610458e332d",
+      "format": "JSON"
+    },
+    {
+      "name": "cuestion_p-2022-10-29T00:27:16.063039-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021262",
+      "size": "21277",
+      "md5": "b947279ec066f31b7116efe5831dd977",
+      "crc32": "7828b544",
+      "sha1": "fbc05b9dc15cdd161208ec15f1e81d2da674d8e7",
+      "format": "JSON"
+    },
+    {
+      "name": "cuestion_p-2022-10-29T00:27:16.063039-05:00.jpg",
+      "source": "original",
+      "mtime": "1667021255",
+      "size": "244850",
+      "md5": "dab376965bcbcdc45b56eb54bc230425",
+      "crc32": "aeaa4a33",
+      "sha1": "f63d606c3c783a8d7fe1a1c353a4d07011392229",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cuestion_p-2022-10-29T00:27:16.063039-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021263",
+      "size": "1503",
+      "md5": "91e25efc28a81ce156de19590e72b9ff",
+      "crc32": "48b80718",
+      "sha1": "ed9e53ac967072fd4009ce27847e4e9cf5a38269",
+      "format": "JSON"
+    },
+    {
+      "name": "cuestion_p-2022-10-29T00:27:16.063039-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021264",
+      "size": "208",
+      "md5": "8239ca7ca675340b7c10b50549e34da5",
+      "crc32": "632edf71",
+      "sha1": "ef401fe086df3027f632231fd3fcad9c15419a42",
+      "format": "JSON"
+    },
+    {
+      "name": "cuestion_p-2022-10-29T00:27:16.063039-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cuestion_p-2022-10-29T00:27:16.063039-05:00.jpg",
+      "mtime": "1667023754",
+      "size": "9408",
+      "md5": "044543aabfa9f82d2ce640747d8271d2",
+      "crc32": "deb95b2f",
+      "sha1": "099812125d701ff9f9477459644d6ca06a15df1b"
+    },
+    {
       "name": "cuestion_p-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7bb3b652eaf7b4170e9bbf318538daa7c18cf513",
-      "mtime": "1666981088",
-      "size": "209098",
-      "md5": "33b080b773315dde5850444c3f4212f9",
-      "crc32": "b0e4bed9",
-      "sha1": "5d1c56906b90d631e0e200e24767418417fe9226",
+      "btih": "9f1201c6ff12e7df727ebfd9ad551971f77d6b42",
+      "mtime": "1667023783",
+      "size": "210375",
+      "md5": "758eb36284c58025ad3b12e40f34fa8d",
+      "crc32": "7471e397",
+      "sha1": "ddc9b7e6c849891abec1ae65b51bb41bde37bf0c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cuestion_p-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b6551363ecf361a5d6a5af27ea3dbdb",
+      "md5": "e739b6507a1568b282d1adc3d10b758e",
       "summation": "md5"
     },
     {
       "name": "cuestion_p-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666977364",
-      "size": "1261568",
-      "md5": "930f7482e0c88ae42064dc202a600819",
-      "crc32": "aeac0d90",
-      "sha1": "0dd7c807f0342d17e9d93a5d4ae07a08bb5f2fd1",
+      "mtime": "1667021270",
+      "size": "1273856",
+      "md5": "307751b4d7926a67c8464182b5a82dc0",
+      "crc32": "e0cdceb9",
+      "sha1": "8e305c582fad83b62fca743b7549024766ac3f81",
       "format": "Metadata"
     },
     {
@@ -10182,9 +10252,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 985,
-  "item_last_updated": 1666981088,
-  "item_size": 50819698,
+  "files_count": 991,
+  "item_last_updated": 1667023783,
+  "item_size": 51137799,
   "metadata": {
     "identifier": "cuestion_p-2022",
     "collection": [
@@ -10202,7 +10272,7 @@
     "addeddate": "2022-08-08 02:33:35"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 2146790307,
+  "uniq": 1734849773,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1666981147,
+  "created": 1667025661,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/5/items/g1-2022",
@@ -15242,31 +15242,93 @@
       "sha1": "2ca1aaa4c694bd0b2b92c1053a8690e72cac5a6f"
     },
     {
+      "name": "g1-2022-10-29T02:31:53.899898-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021527",
+      "size": "98588",
+      "md5": "77b06ebbc0c4290bfcb398e23cc7032a",
+      "crc32": "1dacbe24",
+      "sha1": "1a3bb46247cb5efbeed08257efd56917a9223d53",
+      "format": "JSON"
+    },
+    {
+      "name": "g1-2022-10-29T02:31:53.899898-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021529",
+      "size": "93528",
+      "md5": "36b7dba8e39075eaf98f5df81eb1e750",
+      "crc32": "d0fb850e",
+      "sha1": "0a06bcddeedb040987661ccf5f11ecf835c2cb87",
+      "format": "JSON"
+    },
+    {
+      "name": "g1-2022-10-29T02:31:53.899898-03:00.jpg",
+      "source": "original",
+      "mtime": "1667021525",
+      "size": "225725",
+      "md5": "126c917383f3930c4bcd4469977ba58d",
+      "crc32": "d9e326f4",
+      "sha1": "70eb8a98f24b865e2da2f59b0894349e3029c058",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "g1-2022-10-29T02:31:53.899898-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021530",
+      "size": "1441",
+      "md5": "08d121d38c5fe38c62faa5b8d332a98c",
+      "crc32": "b51f90dd",
+      "sha1": "03602a8525e5836b13c3f1151bf45a0bcc309481",
+      "format": "JSON"
+    },
+    {
+      "name": "g1-2022-10-29T02:31:53.899898-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021531",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "g1-2022-10-29T02:31:53.899898-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "g1-2022-10-29T02:31:53.899898-03:00.jpg",
+      "mtime": "1667024168",
+      "size": "9861",
+      "md5": "083fe375f25652ee1ed4d17d78a2ef59",
+      "crc32": "376ee6fd",
+      "sha1": "492c1a3d51536816e501f51168104dc3c6eb22ea"
+    },
+    {
       "name": "g1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ae21f98567376e768069d57410ad857a87947ab",
-      "mtime": "1666981074",
-      "size": "304163",
-      "md5": "41f9e45f42c4a739e8615692ed8e76d0",
-      "crc32": "e97ff8bc",
-      "sha1": "68bf8a64b1628aa48ddae3f91ab14002381399c6",
+      "btih": "a0595f40808c5d06f4cd38f3a976c96a1f7e3e2c",
+      "mtime": "1667024189",
+      "size": "305392",
+      "md5": "e043399442838b7869a586b537947076",
+      "crc32": "120e6c5e",
+      "sha1": "40588135a896d03875b955907f37091f8250a216",
       "format": "Archive BitTorrent"
     },
     {
       "name": "g1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5da4ab517319dc0fe363330de15a13d4",
+      "md5": "c52f67976c37f599566716a5d665b0c3",
       "summation": "md5"
     },
     {
       "name": "g1-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666977646",
-      "size": "1863680",
-      "md5": "f11d2460877ea6153b3fcbaabe8270e2",
-      "crc32": "b27bd909",
-      "sha1": "f3f65841be7a1784cdd240998588cbfb4fc101c3",
+      "mtime": "1667021537",
+      "size": "1867776",
+      "md5": "4c849f049fc7692bda1cdbdb8c11a7ec",
+      "crc32": "1069350b",
+      "sha1": "bf36e8dea78c8ce35192e1de61d2ba75d00cac83",
       "format": "Metadata"
     },
     {
@@ -15280,9 +15342,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1478,
-  "item_last_updated": 1666981074,
-  "item_size": 131514070,
+  "files_count": 1484,
+  "g1-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667024189,
+  "item_size": 131948740,
   "metadata": {
     "identifier": "g1-2022",
     "collection": [
@@ -15300,7 +15367,7 @@
     "addeddate": "2022-08-02 14:53:17"
   },
   "server": "ia802504.us.archive.org",
-  "uniq": 1875358023,
+  "uniq": 441588619,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"

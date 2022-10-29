@@ -1,8 +1,12 @@
 {
-  "created": 1666981032,
+  "created": 1667025596,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/13/items/elpasomatters-2022",
+  "elpasomatters-2022": {
+    "url": "https://elpasomatters.org/",
+    "job_id": "spn2-a6ed8d42db39288bf985c9482816f6af1af3dfab"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -7840,31 +7844,93 @@
       "sha1": "d16da639af08f3bf7ef5e04475d17e0261061164"
     },
     {
+      "name": "elpasomatters-2022-10-28T23:30:04.112041-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021421",
+      "size": "22899",
+      "md5": "34e3f1dffed396f826511f5deafd9dd9",
+      "crc32": "913308da",
+      "sha1": "3de0f10d03e55890d500981c8bef6304d30df998",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-28T23:30:04.112041-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021423",
+      "size": "27878",
+      "md5": "c637b16b62bb673cd76611a40fcf52a2",
+      "crc32": "4f9e698c",
+      "sha1": "5941ede2036777e1aaed514e1a1bf00c9aecbdc7",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-28T23:30:04.112041-06:00.jpg",
+      "source": "original",
+      "mtime": "1667021420",
+      "size": "299313",
+      "md5": "0934b23ea54218ef156e503f5e280d85",
+      "crc32": "a0982c74",
+      "sha1": "37e1a8c84fb1c338329a3f5218fb5d2dc222b085",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasomatters-2022-10-28T23:30:04.112041-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021424",
+      "size": "1474",
+      "md5": "4d056354d2498440353837feed16bcc9",
+      "crc32": "ffc3c475",
+      "sha1": "5e4725c3777808754c5fabb0bc82ef27ef023270",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-28T23:30:04.112041-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021426",
+      "size": "102",
+      "md5": "4124e935b47deabe6af46254c6a2b91a",
+      "crc32": "9f710eeb",
+      "sha1": "959dc7f63c31d077e2fce0eadcd4b39e972d7449",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasomatters-2022-10-28T23:30:04.112041-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elpasomatters-2022-10-28T23:30:04.112041-06:00.jpg",
+      "mtime": "1667024109",
+      "size": "10098",
+      "md5": "5362f8d7342c9b707a07ae3b6e291303",
+      "crc32": "b2a9de05",
+      "sha1": "6851118db78a161233cce887fbd9c6dfaadb3330"
+    },
+    {
       "name": "elpasomatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da7b5e397b72217b86c5e9d290ae86e392926ff1",
-      "mtime": "1666980965",
-      "size": "164576",
-      "md5": "df9ce7cdecec4b205de78a371c46659d",
-      "crc32": "7c65f860",
-      "sha1": "c2a9ed7a9cf37e5d543159cb44959d4c3c4829b6",
+      "btih": "2ae134fb30caac9577ed040d7783e9a1950d2704",
+      "mtime": "1667024118",
+      "size": "165872",
+      "md5": "35e3e26d382fb085537295d37262289a",
+      "crc32": "a518a76e",
+      "sha1": "f36c31ab9d6994efdd2010b68f1a4a56609f8a5a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpasomatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "736b52c574573abfd1b8c8e7d4166b03",
+      "md5": "0c4e53840fe86a2d01dc1e60566e4afd",
       "summation": "md5"
     },
     {
       "name": "elpasomatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666977489",
-      "size": "983040",
-      "md5": "e779e97a6ab420edafb9710910f01237",
-      "crc32": "ad0f9dcf",
-      "sha1": "69246b920b535a4fa9ad7da5bd604a8c40cd624e",
+      "mtime": "1667021457",
+      "size": "991232",
+      "md5": "61a7fb5b7a6bd02c4d56c55247e0cb65",
+      "crc32": "1d767b34",
+      "sha1": "c0b523244ec3e9ad7135e241f3fb077fa0761314",
       "format": "Metadata"
     },
     {
@@ -7878,9 +7944,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 762,
-  "item_last_updated": 1666980965,
-  "item_size": 48392643,
+  "files_count": 768,
+  "item_last_updated": 1667024118,
+  "item_size": 48763895,
   "metadata": {
     "identifier": "elpasomatters-2022",
     "collection": [
@@ -7898,7 +7964,7 @@
     "addeddate": "2022-08-26 14:07:01"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1412183600,
+  "uniq": 98490072,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"
