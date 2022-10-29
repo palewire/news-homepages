@@ -1,5 +1,5 @@
 {
-  "created": 1666983741,
+  "created": 1667025619,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/timesgazette-2022",
@@ -4799,31 +4799,93 @@
       "format": "JSON"
     },
     {
+      "name": "timesgazette-2022-10-28T14:36:12.759757-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesgazette-2022-10-28T14:36:12.759757-04:00.jpg",
+      "mtime": "1666984691",
+      "size": "8949",
+      "md5": "c1de9209d148686a3aeadd61c50207bb",
+      "crc32": "891c7339",
+      "sha1": "d1602f2b9957aea5760f107975d4862a2b2af103"
+    },
+    {
+      "name": "timesgazette-2022-10-29T02:39:20.463411-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025569",
+      "size": "23353",
+      "md5": "30e64484d00718878fc74051ee61b4be",
+      "crc32": "e6fbc85b",
+      "sha1": "c3d8b248c1533d4cf444df80fa577fbc33329149",
+      "format": "JSON"
+    },
+    {
+      "name": "timesgazette-2022-10-29T02:39:20.463411-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025571",
+      "size": "37491",
+      "md5": "83e8bbdd5126e699dd3a3d2212f9b887",
+      "crc32": "ec94697d",
+      "sha1": "66c58c5d07fbd7257e825e149c18c05fb7599000",
+      "format": "JSON"
+    },
+    {
+      "name": "timesgazette-2022-10-29T02:39:20.463411-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025568",
+      "size": "229197",
+      "md5": "ad3ce1c8e95d77968b7aae329177b322",
+      "crc32": "920f4c66",
+      "sha1": "4bbc404e2b762bc8b83720ed4eb1024aeee7dfed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesgazette-2022-10-29T02:39:20.463411-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025572",
+      "size": "1522",
+      "md5": "9d27a2257289cefdbd50dbb833005837",
+      "crc32": "ce986f48",
+      "sha1": "c37886caac07c64301f49cd5e81e52b5e8c96048",
+      "format": "JSON"
+    },
+    {
+      "name": "timesgazette-2022-10-29T02:39:20.463411-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025574",
+      "size": "210",
+      "md5": "3cafa9b05a2b4f1f155129518e453415",
+      "crc32": "c4780f23",
+      "sha1": "e90f3c82fcb7afb740081dd6fd40b8d7d36c7e55",
+      "format": "JSON"
+    },
+    {
       "name": "timesgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2cd250b17f4ecdff68f94e103e5316bc16811bbc",
-      "mtime": "1666982231",
-      "size": "100902",
-      "md5": "fc84697ac823f1928a13eae0f6da36fb",
-      "crc32": "7efe3d5c",
-      "sha1": "34ff3d8ae7e3e310be86358b7c6594ff5bb96c5e",
+      "btih": "b8089c71f202b2a6d4762644ecde8848c8bcfc32",
+      "mtime": "1667025616",
+      "size": "102171",
+      "md5": "cffaef03888a51a98494ef242fb9aa25",
+      "crc32": "6a746be6",
+      "sha1": "0d59a16e658b04693332c4bd18370b6f8bd571cd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d67e14895df8aa113777992441b22d7e",
+      "md5": "36381b4f481dd3dc27cd12c9cc1bd872",
       "summation": "md5"
     },
     {
       "name": "timesgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666982191",
-      "size": "610304",
-      "md5": "03559701d73880625957fd626a134aff",
-      "crc32": "98709b9f",
-      "sha1": "494e0c70e0a8f0317e16c8f1897f152c4131ce3a",
+      "mtime": "1667025579",
+      "size": "618496",
+      "md5": "bdda318569c1a2ac98488189bd85df3c",
+      "crc32": "0c64527c",
+      "sha1": "1bbabb7812d5959d72c0bb8634f1052436b7fbb7",
       "format": "Metadata"
     },
     {
@@ -4837,9 +4899,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 468,
-  "item_last_updated": 1666982231,
-  "item_size": 31668448,
+  "files_count": 474,
+  "item_last_updated": 1667025616,
+  "item_size": 31978631,
   "metadata": {
     "identifier": "timesgazette-2022",
     "collection": [
@@ -4861,7 +4923,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455371969,
+      "task_id": 3455851616,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4869,12 +4931,7 @@
       "status": "queued"
     }
   ],
-  "timesgazette-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 752755297,
+  "uniq": 558582677,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

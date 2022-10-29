@@ -1,5 +1,5 @@
 {
-  "created": 1666982534,
+  "created": 1667025876,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/zeitonline-2022",
@@ -11439,31 +11439,93 @@
       "format": "JSON"
     },
     {
+      "name": "zeitonline-2022-10-28T20:41:04.948141+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zeitonline-2022-10-28T20:41:04.948141+02:00.jpg",
+      "mtime": "1666985222",
+      "size": "7299",
+      "md5": "351b7d500e186fa09ec883fa4fc53847",
+      "crc32": "84dc35e0",
+      "sha1": "61da5495e86c40a2a724659968397c6e643e971b"
+    },
+    {
+      "name": "zeitonline-2022-10-29T08:43:31.263899+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025814",
+      "size": "3963",
+      "md5": "c1317fbbdfa9839aba4b1d8ce0b9fec9",
+      "crc32": "e4bf5e33",
+      "sha1": "f6a2a4f207dc4626f4add01bb9398516a993f808",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-10-29T08:43:31.263899+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025815",
+      "size": "1374",
+      "md5": "aff8ff9299df9917a208506e685d8df0",
+      "crc32": "2c897965",
+      "sha1": "e7c3d8b03d1834a65fa2f745c81397730ea500bf",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-10-29T08:43:31.263899+02:00.jpg",
+      "source": "original",
+      "mtime": "1667025812",
+      "size": "117323",
+      "md5": "9e107f62acb1027fe0a29386d41040fb",
+      "crc32": "067c3baa",
+      "sha1": "5fc48d1e954cc818bd0896044c977895242c8739",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zeitonline-2022-10-29T08:43:31.263899+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025817",
+      "size": "1477",
+      "md5": "4af800325a129ee412fb6486499a4075",
+      "crc32": "26074636",
+      "sha1": "30ac7544694bb41a636c4a367f110c7583c12861",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-10-29T08:43:31.263899+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025819",
+      "size": "96",
+      "md5": "4c4aa97a757a7c132d23563e9a8716aa",
+      "crc32": "bbb24849",
+      "sha1": "1530267a0213323b5759f541f863a6e54e3bf2ab",
+      "format": "JSON"
+    },
+    {
       "name": "zeitonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae0243aaecfc06bf185d36fd3786318dc80a4ca2",
-      "mtime": "1666982531",
-      "size": "233949",
-      "md5": "49c0137c854f2f9b25b7641272525ff7",
-      "crc32": "57be3298",
-      "sha1": "ca3710b2076675f2038583ee03b9456fb21209de",
+      "btih": "1f80d4855fa500166960f9d677e86de3a63d3a76",
+      "mtime": "1667025870",
+      "size": "235203",
+      "md5": "6e58159b7a89cd8d1f0cffb46d35e7e2",
+      "crc32": "0f89b583",
+      "sha1": "913d479f1d7f0e708da74eee0fe49a5f86638f53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zeitonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4296cc31845632e5749f747e51ac2834",
+      "md5": "ea2ced65cf565f33fc0b8d025ddc14d1",
       "summation": "md5"
     },
     {
       "name": "zeitonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666982487",
-      "size": "1421312",
-      "md5": "1218024eafa9750a2033165b65707ec8",
-      "crc32": "77ec6b25",
-      "sha1": "cd71690d1dc49fb63890974c09b4b47743fe0e37",
+      "mtime": "1667025824",
+      "size": "1429504",
+      "md5": "be8dbd1a1ad350e663bc1cc03fd9a32f",
+      "crc32": "aea06a13",
+      "sha1": "5c6070114001394fac082fb6c86f0f65ed5a8495",
       "format": "Metadata"
     },
     {
@@ -11477,9 +11539,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1110,
-  "item_last_updated": 1666982531,
-  "item_size": 26654743,
+  "files_count": 1116,
+  "item_last_updated": 1667025870,
+  "item_size": 26795721,
   "metadata": {
     "identifier": "zeitonline-2022",
     "collection": [
@@ -11501,7 +11563,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455374924,
+      "task_id": 3455854613,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11509,7 +11571,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 194529263,
+  "uniq": 1387216625,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666982241,
+  "created": 1667025649,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/35/items/theobserver-2022",
@@ -12505,31 +12505,93 @@
       "format": "JSON"
     },
     {
+      "name": "theobserver-2022-10-28T14:35:53.936016-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theobserver-2022-10-28T14:35:53.936016-04:00.jpg",
+      "mtime": "1666984825",
+      "size": "9471",
+      "md5": "18b5e8969d63a4ac0907216b23a3d3c5",
+      "crc32": "e03b90f8",
+      "sha1": "eda46fdecb9d23ce236e09edc4b7dd5a6ab0dfd9"
+    },
+    {
+      "name": "theobserver-2022-10-29T02:39:37.099324-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025579",
+      "size": "466",
+      "md5": "3ff8aa9a63a8b43f009289b01c83dc1b",
+      "crc32": "28e7916b",
+      "sha1": "ae63ef924a08401d137c28394d15e99de01c493c",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-10-29T02:39:37.099324-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025581",
+      "size": "42149",
+      "md5": "2e32a045a22750e1a4aa32e1cc11c528",
+      "crc32": "8644c7d3",
+      "sha1": "e75028896e8ed415155ef57aad3dc27ed2f32295",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-10-29T02:39:37.099324-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025578",
+      "size": "291182",
+      "md5": "8813979b945c503b99c30255f5011ed3",
+      "crc32": "47b2fd92",
+      "sha1": "f2d4d8fd3865c15b7c9aae216792d39550eb7b4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theobserver-2022-10-29T02:39:37.099324-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025583",
+      "size": "1556",
+      "md5": "06b59975b2a2c70a9c0b668aabe13887",
+      "crc32": "436be800",
+      "sha1": "7dc14c4f88686f8e4af2d215653a072c02e46b01",
+      "format": "JSON"
+    },
+    {
+      "name": "theobserver-2022-10-29T02:39:37.099324-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025585",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "06016251ee42f77b91b05423e4339e59456d99d9",
-      "mtime": "1666982228",
-      "size": "258245",
-      "md5": "4fa200c433d46c09cdf8cfc13af802c6",
-      "crc32": "857fe8a5",
-      "sha1": "472dd6f4e29f4f26712c0b477776b8e372b217db",
+      "btih": "8d21aff26d8a49283c5b0994a0b0664508e3de87",
+      "mtime": "1667025642",
+      "size": "259506",
+      "md5": "ae219b23678389f8a7680931d9411c15",
+      "crc32": "2a09db6c",
+      "sha1": "6f255ec5f5e71c75bb5396944fb667d030f0b8aa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40432102ccf0e99c051caea1c721963e",
+      "md5": "96856717e8295864597b02ed6d420048",
       "summation": "md5"
     },
     {
       "name": "theobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666982170",
-      "size": "1523712",
-      "md5": "6f0c33227355bee0e1c9576fa10e6b02",
-      "crc32": "c39b0d75",
-      "sha1": "413d8630a2578cc1b0a24d10a473faf2805ea587",
+      "mtime": "1667025593",
+      "size": "1531904",
+      "md5": "07fd1b833972f7aa69659fcf270c68f3",
+      "crc32": "98afab8a",
+      "sha1": "3af81a14aac4e3cf7812b51b27c104db7df03017",
       "format": "Metadata"
     },
     {
@@ -12543,9 +12605,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1210,
-  "item_last_updated": 1666982228,
-  "item_size": 84190059,
+  "files_count": 1216,
+  "item_last_updated": 1667025642,
+  "item_size": 84544538,
   "metadata": {
     "identifier": "theobserver-2022",
     "collection": [
@@ -12567,7 +12629,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455372037,
+      "task_id": 3455851915,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12575,7 +12637,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1304595106,
+  "uniq": 1097804591,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

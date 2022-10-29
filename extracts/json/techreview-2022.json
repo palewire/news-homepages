@@ -1,5 +1,5 @@
 {
-  "created": 1666982130,
+  "created": 1667025546,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/16/items/techreview-2022",
@@ -11535,31 +11535,93 @@
       "format": "JSON"
     },
     {
+      "name": "techreview-2022-10-28T14:34:19.783825-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techreview-2022-10-28T14:34:19.783825-04:00.jpg",
+      "mtime": "1666984749",
+      "size": "9772",
+      "md5": "b89f4efc21c7f335fa4dff786a326e99",
+      "crc32": "9c5a3098",
+      "sha1": "b2430d2cf06e8b655c8b781c6d9a3ca4ecb88d98"
+    },
+    {
+      "name": "techreview-2022-10-29T02:37:39.532995-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025477",
+      "size": "24883",
+      "md5": "76a8badad1bb8197ac0f1b88ffa6e385",
+      "crc32": "33e3c8c1",
+      "sha1": "2a1a2f61fd8521d92a765731deb42f09febee906",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-29T02:37:39.532995-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025479",
+      "size": "13433",
+      "md5": "d6a797763e6e26e1f97ea8fe3b541841",
+      "crc32": "004cbcf1",
+      "sha1": "c35560b4f7ab6270a0f7903c6ad29024ffbc5092",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-29T02:37:39.532995-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025475",
+      "size": "278746",
+      "md5": "7cc9d6500cabe851871cbd56f1e4148c",
+      "crc32": "73cef3ac",
+      "sha1": "69b630107c60dc4bcd88c63a52e1963575c6d570",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "techreview-2022-10-29T02:37:39.532995-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025481",
+      "size": "1547",
+      "md5": "8f0e0e0bfab9d5a61e66500ad705868a",
+      "crc32": "5cb0cc94",
+      "sha1": "3944e1909a8751e3c6b6459f4ce4a6bec3473fa5",
+      "format": "JSON"
+    },
+    {
+      "name": "techreview-2022-10-29T02:37:39.532995-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025483",
+      "size": "213",
+      "md5": "d10174dbdd0bfdfee1665c82f560dda9",
+      "crc32": "14d86024",
+      "sha1": "9b353eee3ebdf40e9c9b28bb15c994f3f2bdd125",
+      "format": "JSON"
+    },
+    {
       "name": "techreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99d95e548fcf69db21e1af878115034552c7e708",
-      "mtime": "1666982125",
-      "size": "238053",
-      "md5": "a8e3a67b22a55df7ee521630aaead9f4",
-      "crc32": "c167263d",
-      "sha1": "f90c6518b666f12403b37d3b62155ad942ccd23e",
+      "btih": "c9f2411dabe3f2f1567eeb1823c0e1ab3a23dab3",
+      "mtime": "1667025541",
+      "size": "239330",
+      "md5": "47445d74716a0ba5321f6f6947b25c76",
+      "crc32": "4f76d748",
+      "sha1": "17aecee373c2b8b6912bb9af5a7b82b3b76a432c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "95499a3204cf08cd8e56fbd9d17d01f5",
+      "md5": "a7ac038fecff86d03a6c2e13d3646b6d",
       "summation": "md5"
     },
     {
       "name": "techreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666982080",
-      "size": "1433600",
-      "md5": "ba471957dba40e5b6c4027eb591f392e",
-      "crc32": "1ba41748",
-      "sha1": "75167b17151973809656de06135e03f085bbab30",
+      "mtime": "1667025492",
+      "size": "1437696",
+      "md5": "b79b1c9445336f9c4c646af7b8393f63",
+      "crc32": "7dc46a4f",
+      "sha1": "f54ca21ed16d583da3798031b543f4b0576d9fbb",
       "format": "Metadata"
     },
     {
@@ -11573,9 +11635,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1119,
-  "item_last_updated": 1666982125,
-  "item_size": 69876909,
+  "files_count": 1125,
+  "item_last_updated": 1667025541,
+  "item_size": 70210876,
   "metadata": {
     "identifier": "techreview-2022",
     "collection": [
@@ -11597,7 +11659,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455371032,
+      "task_id": 3455850846,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11605,7 +11667,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 645342408,
+  "uniq": 944144387,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

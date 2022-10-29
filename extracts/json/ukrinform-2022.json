@@ -1,5 +1,5 @@
 {
-  "created": 1666982370,
+  "created": 1667025767,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/29/items/ukrinform-2022",
@@ -21861,31 +21861,93 @@
       "format": "JSON"
     },
     {
+      "name": "ukrinform-2022-10-28T21:37:09.984806+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ukrinform-2022-10-28T21:37:09.984806+03:00.jpg",
+      "mtime": "1666985680",
+      "size": "9697",
+      "md5": "d45c3cfb6ce5da85ffa169efd9876cd9",
+      "crc32": "d4f24cc4",
+      "sha1": "0c116366000af1f09e2ab30265f6ac60db71dbcd"
+    },
+    {
+      "name": "ukrinform-2022-10-29T09:41:03.799781+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025667",
+      "size": "63036",
+      "md5": "6cacbf87e8f79a2022cebca30b44232d",
+      "crc32": "d16768a8",
+      "sha1": "702d6dd6b61775bd20c1795dc44fdc0ba80f07d3",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-10-29T09:41:03.799781+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025668",
+      "size": "56908",
+      "md5": "e5dbc522d212c4f4e64588c8c1c027e9",
+      "crc32": "34bb2804",
+      "sha1": "54cdd0d274e389ddd57563a6cc8fdd7c336540ea",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-10-29T09:41:03.799781+03:00.jpg",
+      "source": "original",
+      "mtime": "1667025665",
+      "size": "312786",
+      "md5": "9bee1dbf3be825cb6572552c77f1767f",
+      "crc32": "d8e04aa0",
+      "sha1": "fd74900f4b59fc007f5032c4867db62432b010d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ukrinform-2022-10-29T09:41:03.799781+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025670",
+      "size": "1476",
+      "md5": "79da910c65b695e4b56d442a252c71bb",
+      "crc32": "f46ef4a3",
+      "sha1": "d12c4f8416da1a2a61d1db8da87cf3e63a07051d",
+      "format": "JSON"
+    },
+    {
+      "name": "ukrinform-2022-10-29T09:41:03.799781+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025671",
+      "size": "205",
+      "md5": "af16a07fd77e16a6313e63040929e0a8",
+      "crc32": "25e1d0a4",
+      "sha1": "6750dc8cfc25398b3527a9e663098a16bc237bbd",
+      "format": "JSON"
+    },
+    {
       "name": "ukrinform-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1ce7a6e68fa508a54f928292abbfd7b081e334bb",
-      "mtime": "1666982338",
-      "size": "446488",
-      "md5": "26f0790f9e348050cfea9c6df8accd7f",
-      "crc32": "c13bf05b",
-      "sha1": "77e76259b11512b5f4bdd54bf2afdd6010d6d313",
+      "btih": "1baea97b24290ca98e3a5929de59a8250371cd06",
+      "mtime": "1667025759",
+      "size": "447759",
+      "md5": "357ac977e6b462aaeccdb55379f5548f",
+      "crc32": "f30ffb3b",
+      "sha1": "76b799b377ddb40e8183744091c05d287f7a8b7e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ukrinform-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b6d935c8ee121a2b8c37cb7a032392d1",
+      "md5": "350fcfe60f3b9bdbb60bea9f0c67a767",
       "summation": "md5"
     },
     {
       "name": "ukrinform-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666982250",
-      "size": "2547712",
-      "md5": "99c8e1831751a685350bc82fc57b91db",
-      "crc32": "79a10617",
-      "sha1": "0294ae03abec507deeb7f0b8e204651bee37b391",
+      "mtime": "1667025682",
+      "size": "2551808",
+      "md5": "d323391b3b50c66279ee39ea5654e69a",
+      "crc32": "73e75f06",
+      "sha1": "bc7f6f2c664a89d88526652765f48ee974efaf49",
       "format": "Metadata"
     },
     {
@@ -21899,9 +21961,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2102,
-  "item_last_updated": 1666982338,
-  "item_size": 202135398,
+  "files_count": 2108,
+  "item_last_updated": 1667025759,
+  "item_size": 202584873,
   "metadata": {
     "identifier": "ukrinform-2022",
     "collection": [
@@ -21923,7 +21985,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455373558,
+      "task_id": 3455853334,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -21931,7 +21993,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 376591132,
+  "uniq": 418629051,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

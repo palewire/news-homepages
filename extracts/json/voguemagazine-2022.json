@@ -1,5 +1,5 @@
 {
-  "created": 1666982307,
+  "created": 1667025724,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/voguemagazine-2022",
@@ -12165,31 +12165,93 @@
       "format": "JSON"
     },
     {
+      "name": "voguemagazine-2022-10-28T14:37:17.624256-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voguemagazine-2022-10-28T14:37:17.624256-04:00.jpg",
+      "mtime": "1666985464",
+      "size": "9350",
+      "md5": "aefe9a128a7c2cd62bd992c80b47b652",
+      "crc32": "e15811a8",
+      "sha1": "bde708887b90f397d528785d8b1074250c9aaa47"
+    },
+    {
+      "name": "voguemagazine-2022-10-29T02:40:57.851191-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025661",
+      "size": "53683",
+      "md5": "777260ffdcc054c4b573553646c2803f",
+      "crc32": "1953c69a",
+      "sha1": "85189f3daf3113ccaba83c2462ef21d368078a89",
+      "format": "JSON"
+    },
+    {
+      "name": "voguemagazine-2022-10-29T02:40:57.851191-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025663",
+      "size": "29717",
+      "md5": "86b8f86115f2e5ebe2e33200e7234c54",
+      "crc32": "155a50fb",
+      "sha1": "7ab6188bb7ef1ada4da18e53ba8b4c5dfaa85083",
+      "format": "JSON"
+    },
+    {
+      "name": "voguemagazine-2022-10-29T02:40:57.851191-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025659",
+      "size": "231824",
+      "md5": "5fed84f5e7651337bb128990f3003013",
+      "crc32": "ee4c2dca",
+      "sha1": "65cf7b0fa151683e961606029b565710a728d884",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voguemagazine-2022-10-29T02:40:57.851191-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025665",
+      "size": "1441",
+      "md5": "7528617777129a62492b4170d3548b1b",
+      "crc32": "98474e7c",
+      "sha1": "e4e70b182f76e9a3d734686bd71ded6f9dc3590d",
+      "format": "JSON"
+    },
+    {
+      "name": "voguemagazine-2022-10-29T02:40:57.851191-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025667",
+      "size": "202",
+      "md5": "a300819c3482b7801c47ded622d7556e",
+      "crc32": "2a77e57d",
+      "sha1": "3184e072a7bea7fbddd3a407ee3012beba344595",
+      "format": "JSON"
+    },
+    {
       "name": "voguemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eea2dc8c4fdb4605a71903bb13282c3e7949683e",
-      "mtime": "1666982304",
-      "size": "254639",
-      "md5": "7ebae2bbae31cdabe3fe913e0c17e7e4",
-      "crc32": "71d4d9b9",
-      "sha1": "7c98165697d1ad6f01f408bafdabdadbe14b3d6a",
+      "btih": "5f09fef02b2ee6ca2bede75462fff1e1dfa98030",
+      "mtime": "1667025719",
+      "size": "255914",
+      "md5": "3406690b2e17c378c43c55caae515e53",
+      "crc32": "0a688007",
+      "sha1": "9268b6de4e088166d014e9626ed12ed2cbe45725",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voguemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52c619befcdb107923b68c5a8c9908c9",
+      "md5": "45783df06fe564b687829803543642bd",
       "summation": "md5"
     },
     {
       "name": "voguemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666982257",
-      "size": "1503232",
-      "md5": "7a6e5b2cfd2485ce816e7a6ac2cd3263",
-      "crc32": "de6ca283",
-      "sha1": "20ab5c23cd15f93d0e260d13ec79b72263fbbbe3",
+      "mtime": "1667025671",
+      "size": "1507328",
+      "md5": "a6317dec4f991abd50c4a220f9ec8ae1",
+      "crc32": "cc07ec4f",
+      "sha1": "67b0ad1ca872b8ef5f3c9dbbb4fdfd1dc09b61b7",
       "format": "Metadata"
     },
     {
@@ -12203,9 +12265,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1179,
-  "item_last_updated": 1666982304,
-  "item_size": 83802544,
+  "files_count": 1185,
+  "item_last_updated": 1667025719,
+  "item_size": 84134132,
   "metadata": {
     "identifier": "voguemagazine-2022",
     "collection": [
@@ -12227,7 +12289,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455372765,
+      "task_id": 3455852831,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12235,7 +12297,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 123204083,
+  "uniq": 993268365,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

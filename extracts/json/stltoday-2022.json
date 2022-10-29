@@ -1,5 +1,5 @@
 {
-  "created": 1666982109,
+  "created": 1667025535,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -14259,31 +14259,93 @@
       "format": "JSON"
     },
     {
+      "name": "stltoday-2022-10-28T13:33:23.778928-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-28T13:33:23.778928-05:00.jpg",
+      "mtime": "1666984777",
+      "size": "12325",
+      "md5": "08c275c47f16d13bf0c0ca4d5f08d926",
+      "crc32": "3e8f1a06",
+      "sha1": "c48629ee7e6cafb637122a090ba460e2b020bf6b"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025470",
+      "size": "34313",
+      "md5": "c0850744b446e6c5523bb3e43dfcab0a",
+      "crc32": "1dad8710",
+      "sha1": "c8f6dac59891aa2cb42636ca6c725b838571d1b6",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025471",
+      "size": "79065",
+      "md5": "98aba12c4bb2bad64b0676b5b163dedb",
+      "crc32": "67b7f506",
+      "sha1": "c6e8ec6b6984d01e99445683fcc25859d2ceccdc",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.jpg",
+      "source": "original",
+      "mtime": "1667025468",
+      "size": "342537",
+      "md5": "6f1af1d8076f6b985a8177f8fa92c1f4",
+      "crc32": "127f0ead",
+      "sha1": "fd445b260c9e936e10b32302d9f751497b0f7ba9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025474",
+      "size": "1477",
+      "md5": "ae8413c2b0ea03ac038f5d8ba703512c",
+      "crc32": "edc7380e",
+      "sha1": "41f5e8501e9f94428ef6a8bc06dd961b5be377b2",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025476",
+      "size": "205",
+      "md5": "3353486527f163c2a10b2896ee9cba30",
+      "crc32": "4910c136",
+      "sha1": "5acb0083426695ee1832fd8caa6ad21b83f20c2b",
+      "format": "JSON"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8e23b53d032ea2d43b2af54ebeff23febab1712f",
-      "mtime": "1666982104",
-      "size": "291469",
-      "md5": "705785c58fdeb26e01ce741cef0a35a4",
-      "crc32": "df8c682c",
-      "sha1": "fcc5b8cbb88a2a8e9f1445c0de90547a4bfb16d3",
+      "btih": "5857158adb52986b929fefcd6a8ce5d2b0c5c9b6",
+      "mtime": "1667025530",
+      "size": "292735",
+      "md5": "dcf5cc0db81ef83a91828be56a2d8672",
+      "crc32": "44ff2367",
+      "sha1": "d4acef280d4cccbd25111f386df73b19ff1fb324",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "609eab092a35dc55dc785db63b60b15e",
+      "md5": "283912b18a9775a45205b721d0ec09fe",
       "summation": "md5"
     },
     {
       "name": "stltoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666982047",
-      "size": "1703936",
-      "md5": "5db5bc1ff4e3ac334bf6a33ad7a38289",
-      "crc32": "1e49d3c4",
-      "sha1": "e572e05af675ee7296d9ad368e61479c326c0c45",
+      "mtime": "1667025480",
+      "size": "1708032",
+      "md5": "99c13152f6488745196dc818edf00bba",
+      "crc32": "2f9c93fe",
+      "sha1": "885033d91cd53df87187c18f235aa4c0440829f6",
       "format": "Metadata"
     },
     {
@@ -14297,9 +14359,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1377,
-  "item_last_updated": 1666982104,
-  "item_size": 127108677,
+  "files_count": 1383,
+  "item_last_updated": 1667025530,
+  "item_size": 127583961,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -14321,7 +14383,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455370828,
+      "task_id": 3455850763,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14329,7 +14391,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2146168985,
+  "uniq": 362581186,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

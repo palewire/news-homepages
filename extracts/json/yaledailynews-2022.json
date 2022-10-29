@@ -1,5 +1,5 @@
 {
-  "created": 1666982429,
+  "created": 1667026352,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/33/items/yaledailynews-2022",
@@ -5565,31 +5565,93 @@
       "format": "JSON"
     },
     {
+      "name": "yaledailynews-2022-10-28T14:39:23.549401-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yaledailynews-2022-10-28T14:39:23.549401-04:00.jpg",
+      "mtime": "1666984849",
+      "size": "9054",
+      "md5": "c698835e167903397b0acf6fd0042d39",
+      "crc32": "db0b6880",
+      "sha1": "14013bceaa2f80f2d7646dff248a4e9ae6fb4fa0"
+    },
+    {
+      "name": "yaledailynews-2022-10-29T02:42:53.329408-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025776",
+      "size": "13639",
+      "md5": "35969e4a92becd4b106109fe09a51c4c",
+      "crc32": "d7133063",
+      "sha1": "ce1a00f41bf30cf9edaad47f389b2fa967037669",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-29T02:42:53.329408-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025778",
+      "size": "36415",
+      "md5": "7c9f4657aaed1de66607e67b0d299462",
+      "crc32": "f6a417e2",
+      "sha1": "690746700072e9db9cc4e38dbf82ff16231001c8",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-29T02:42:53.329408-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025774",
+      "size": "235478",
+      "md5": "0c4b20475103745a884fe0a3fa70132a",
+      "crc32": "2e9d8438",
+      "sha1": "fce9670d316f2772d8e749f8bafddda8aea48725",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yaledailynews-2022-10-29T02:42:53.329408-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025780",
+      "size": "1485",
+      "md5": "c5f136ecd84f982c9e50ba3c8dc43472",
+      "crc32": "48845e62",
+      "sha1": "2aee0074c3e1bceee7fc272c6482eadf995aa7f0",
+      "format": "JSON"
+    },
+    {
+      "name": "yaledailynews-2022-10-29T02:42:53.329408-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025781",
+      "size": "102",
+      "md5": "7a66238d2c842cdd6bb08565c1abfacb",
+      "crc32": "ae525e46",
+      "sha1": "6e3becf928ab9e1641b7f00fab984b6fe44ab86c",
+      "format": "JSON"
+    },
+    {
       "name": "yaledailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75594297d3732c4778d6de411d389fd32a7cbc12",
-      "mtime": "1666982422",
-      "size": "117082",
-      "md5": "e8194b65c2ace6723391262acfd9ee2c",
-      "crc32": "95cbc10f",
-      "sha1": "304d062d539c4a268247a1346c542929fff512ca",
+      "btih": "c1ecc6c48d8fdbbd07ae9c558606357c1ebbfa4b",
+      "mtime": "1667025831",
+      "size": "118377",
+      "md5": "01567b7c1e0d828eee6027bd1d1b0846",
+      "crc32": "0162c4ae",
+      "sha1": "dc5d9bf7677365062a6753a89e1622a42ed13dc2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yaledailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a6793ebee6e841c74c7dc4903868fde",
+      "md5": "60f07ccc75339f0147864546c82c7bae",
       "summation": "md5"
     },
     {
       "name": "yaledailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666982380",
-      "size": "708608",
-      "md5": "9f8d9d2fc5f0aa246dda618a2e30be87",
-      "crc32": "8974f283",
-      "sha1": "8e8f1b7f3941e5eff5a0c922361c1bf8d91586e1",
+      "mtime": "1667025788",
+      "size": "716800",
+      "md5": "160ef4bfa31185b338d1f8f38e89bf13",
+      "crc32": "bb768b42",
+      "sha1": "dba20ef8873dd5342451d70d83ef2c6158d51216",
       "format": "Metadata"
     },
     {
@@ -5603,9 +5665,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 542,
-  "item_last_updated": 1666982422,
-  "item_size": 31521764,
+  "files_count": 548,
+  "item_last_updated": 1667025831,
+  "item_size": 31827424,
   "metadata": {
     "identifier": "yaledailynews-2022",
     "collection": [
@@ -5627,7 +5689,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455373945,
+      "task_id": 3455854110,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5635,8 +5697,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 45867963,
+  "uniq": 780148718,
   "workable_servers": [
     "ia601404.us.archive.org"
-  ]
+  ],
+  "yaledailynews-2022": {
+    "url": "https://yaledailynews.com/",
+    "job_id": "spn2-68f45cf6d7f1330c9a93b650eb554a2c5aa0e7a4"
+  }
 }

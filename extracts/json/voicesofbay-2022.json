@@ -1,5 +1,5 @@
 {
-  "created": 1666982359,
+  "created": 1667025755,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/9/items/voicesofbay-2022",
@@ -13213,31 +13213,93 @@
       "format": "JSON"
     },
     {
+      "name": "voicesofbay-2022-10-28T11:37:38.469889-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voicesofbay-2022-10-28T11:37:38.469889-07:00.jpg",
+      "mtime": "1666987789",
+      "size": "7562",
+      "md5": "894d3996a2bd1c789a4c6f2af9d8a605",
+      "crc32": "6ea91d4b",
+      "sha1": "33e03b82d7dbc0c23915248c7f8c9af4539fd4cd"
+    },
+    {
+      "name": "voicesofbay-2022-10-28T23:41:22.222168-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025686",
+      "size": "31773",
+      "md5": "473bf173c9c61b12de16419267bb7eb6",
+      "crc32": "84a52dbf",
+      "sha1": "2a5eaf8d7fb40d0baca83fb5bf34cf51fc6fc857",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-10-28T23:41:22.222168-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025688",
+      "size": "15377",
+      "md5": "e6a56e39b2faeffb4d682dc12e6c81db",
+      "crc32": "b5f5286e",
+      "sha1": "18e6e507bc00b45bc7167621b6c5211ae9ac450c",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-10-28T23:41:22.222168-07:00.jpg",
+      "source": "original",
+      "mtime": "1667025684",
+      "size": "226430",
+      "md5": "d1c230b2fe5f88099c1e20c93129ee90",
+      "crc32": "d49a1b8e",
+      "sha1": "8d391010219f8f2defd226440f0efed77b5c7169",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voicesofbay-2022-10-28T23:41:22.222168-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025689",
+      "size": "1540",
+      "md5": "1941cf6ec1214d0accc826d057330ef4",
+      "crc32": "bf42e30c",
+      "sha1": "fb366ad5a9057b9e7e45943bae2c66dced1e2bee",
+      "format": "JSON"
+    },
+    {
+      "name": "voicesofbay-2022-10-28T23:41:22.222168-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025691",
+      "size": "265",
+      "md5": "e262bc0ebb4cb9227fb7ef63b2f1bae2",
+      "crc32": "62a3b2c7",
+      "sha1": "09da095f45f40a7584cb78c173ff04f6b20c161d",
+      "format": "JSON"
+    },
+    {
       "name": "voicesofbay-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa6efd74ddf6c30eda2128ab6b2ea660f2dbb3dc",
-      "mtime": "1666982347",
-      "size": "272287",
-      "md5": "e84cc265017e207858c417ae81ff02f5",
-      "crc32": "dd0e0d67",
-      "sha1": "b0141d94f9e2ecc7b0a73639a0b3dd1b83cf8f82",
+      "btih": "70bbf78b407c6844a3ae2e3eac4ea2d02c14b440",
+      "mtime": "1667025751",
+      "size": "273570",
+      "md5": "1141f109aa7f3cf7b26e39351c4c2024",
+      "crc32": "18f60c8f",
+      "sha1": "091407b07da85c2e3b1487b6d598b70b708f8257",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voicesofbay-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8217aad3854a3f412b977b60d7836136",
+      "md5": "cdccf214e1f0c28d8850ee9c1d8cbc4f",
       "summation": "md5"
     },
     {
       "name": "voicesofbay-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666982292",
-      "size": "1613824",
-      "md5": "21807a1a6ef13aff5e0f6c175c7e46bd",
-      "crc32": "e67f9571",
-      "sha1": "c6d57c2b73b5e9f83c2c0e36918947788512a194",
+      "mtime": "1667025702",
+      "size": "1622016",
+      "md5": "5542e0916562446b33056a02f9941a12",
+      "crc32": "c07a3981",
+      "sha1": "224483ac858f6cbfbd7b77d20dcc1bb75df799f6",
       "format": "Metadata"
     },
     {
@@ -13251,9 +13313,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1279,
-  "item_last_updated": 1666982347,
-  "item_size": 58948918,
+  "files_count": 1285,
+  "item_last_updated": 1667025751,
+  "item_size": 59241340,
   "metadata": {
     "identifier": "voicesofbay-2022",
     "collection": [
@@ -13275,7 +13337,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455373265,
+      "task_id": 3455853200,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13283,7 +13345,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 897945366,
+  "uniq": 226375594,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

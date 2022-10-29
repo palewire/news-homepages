@@ -1,5 +1,5 @@
 {
-  "created": 1666983895,
+  "created": 1667025878,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/zerohedge-2022",
@@ -17839,31 +17839,93 @@
       "format": "JSON"
     },
     {
+      "name": "zerohedge-2022-10-28T14:58:12.668365-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-10-28T14:58:12.668365-04:00.jpg",
+      "mtime": "1666987432",
+      "size": "9460",
+      "md5": "0e4334c625a1d2207ecc4a8a12fda164",
+      "crc32": "4d186ae2",
+      "sha1": "558d6ce45571dc47d615a5c5203e85320cc07fd5"
+    },
+    {
+      "name": "zerohedge-2022-10-29T02:42:53.380362-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025797",
+      "size": "33184",
+      "md5": "87d0bdb188f51618e8c4b3df0059d01b",
+      "crc32": "8eb7a20d",
+      "sha1": "e26802beb5459d380bb6a09f53d7b5e0cfdbfdbe",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-29T02:42:53.380362-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025799",
+      "size": "21958",
+      "md5": "ffe9ea26b5dd5ec075fb350b464fceac",
+      "crc32": "8377f739",
+      "sha1": "db97d90a3e6a961ea1e2e9bac74df38f8f7fcb93",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-29T02:42:53.380362-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025795",
+      "size": "269021",
+      "md5": "1ba60e179a2159cc5c0b1ac3c659e7ef",
+      "crc32": "0d3135d9",
+      "sha1": "f2c217fa0564be570e204642132545a0fc232888",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohedge-2022-10-29T02:42:53.380362-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025801",
+      "size": "1486",
+      "md5": "7fa785ad885fb1fb5c4e68cc6b93f4ad",
+      "crc32": "0c78216f",
+      "sha1": "629d5de22ae162d03b4b32f8ba9672cde46b66ef",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohedge-2022-10-29T02:42:53.380362-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025803",
+      "size": "206",
+      "md5": "e1876886ff95ec38034b63cefcca89fe",
+      "crc32": "488e7aeb",
+      "sha1": "059947e9a0d8ed9ee34bdefc6af10c7a2d1a469c",
+      "format": "JSON"
+    },
+    {
       "name": "zerohedge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdee6ecb1735a5ac521aaad1a231efb4deb85308",
-      "mtime": "1666983858",
-      "size": "365150",
-      "md5": "b0b960d2cf06b51002fe7780bc401c52",
-      "crc32": "86d0d940",
-      "sha1": "408b466c006c2e670acdbffcbfa99947800b8ede",
+      "btih": "781846c55108116aaf0e8e4b40fb8e703577f21f",
+      "mtime": "1667025872",
+      "size": "366421",
+      "md5": "046b4d85be0843560f8579406ddd9d05",
+      "crc32": "f3e968ec",
+      "sha1": "b6268d3f6b228fd2a188d1f6f232ba17ff28fa8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohedge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a958e6216e54199b1f23c7ffc50b1449",
+      "md5": "4219206c782c532c07f9fc10dda413da",
       "summation": "md5"
     },
     {
       "name": "zerohedge-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666983826",
-      "size": "2187264",
-      "md5": "c2cd261513c7537537ea4a9a0976d0cd",
-      "crc32": "15a39b3d",
-      "sha1": "5577c56888e353027b09549c9e6def96d81c0738",
+      "mtime": "1667025812",
+      "size": "2195456",
+      "md5": "24d30ff21d474a9423daa308970f473b",
+      "crc32": "c8be717d",
+      "sha1": "ea2c18865a775298eced974b72517b4b390a82d8",
       "format": "Metadata"
     },
     {
@@ -17877,9 +17939,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1728,
-  "item_last_updated": 1666983858,
-  "item_size": 103521609,
+  "files_count": 1734,
+  "item_last_updated": 1667025872,
+  "item_size": 103866387,
   "metadata": {
     "identifier": "zerohedge-2022",
     "collection": [
@@ -17901,7 +17963,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455390359,
+      "task_id": 3455854641,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -17909,7 +17971,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 76420092,
+  "uniq": 579023002,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

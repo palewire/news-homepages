@@ -1,5 +1,5 @@
 {
-  "created": 1666982051,
+  "created": 1667025503,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/0/items/sternde-2022",
@@ -11453,31 +11453,93 @@
       "format": "JSON"
     },
     {
+      "name": "sternde-2022-10-28T20:32:46.416616+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sternde-2022-10-28T20:32:46.416616+02:00.jpg",
+      "mtime": "1666984517",
+      "size": "9424",
+      "md5": "1cf3861c0c5f0363073acfba00741dd4",
+      "crc32": "a337871c",
+      "sha1": "da40212efaf99b01afdff4f001f72eee605a0851"
+    },
+    {
+      "name": "sternde-2022-10-29T08:37:16.708389+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025439",
+      "size": "104353",
+      "md5": "017864ef440dc848a22a4c5ea0fe3dea",
+      "crc32": "3c6f91c7",
+      "sha1": "6021e4ba95d7551c3a3769a3197501588591379c",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-10-29T08:37:16.708389+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025441",
+      "size": "90227",
+      "md5": "ae7fb70a8bbe660bff81c42e84a59912",
+      "crc32": "186e1690",
+      "sha1": "82eedbd69cae9a303d9e3ddd33f7d0ee484e5ba8",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-10-29T08:37:16.708389+02:00.jpg",
+      "source": "original",
+      "mtime": "1667025438",
+      "size": "211125",
+      "md5": "67955884712f0ed8ae910af23cd1ecea",
+      "crc32": "8a8f565f",
+      "sha1": "49266faec89d2bccdb2caaca7db9b0bd9bf809e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sternde-2022-10-29T08:37:16.708389+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025443",
+      "size": "1432",
+      "md5": "4c360f186acf77a12690cb04687faacb",
+      "crc32": "fe86c7bd",
+      "sha1": "d7248cdd89d0bb640617844276bc2c0ddae685f6",
+      "format": "JSON"
+    },
+    {
+      "name": "sternde-2022-10-29T08:37:16.708389+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025445",
+      "size": "201",
+      "md5": "5fbb339bf342fbf8d735cf3fee3f662b",
+      "crc32": "d00fa32e",
+      "sha1": "bb87712faebd11bccbf40d8ead953b01a39ed8f3",
+      "format": "JSON"
+    },
+    {
       "name": "sternde-2022_archive.torrent",
       "source": "metadata",
-      "btih": "321ba17478c36c13aca48559bf7524d71889ccbd",
-      "mtime": "1666982046",
-      "size": "233590",
-      "md5": "bf116627d62f4887af792d95234b2f70",
-      "crc32": "23f5b9ab",
-      "sha1": "930c8f858e77313138e713f56f013c196fa2b9fd",
+      "btih": "71bf6d1708d650bd98865e11a99f9e5cc0ee94f1",
+      "mtime": "1667025499",
+      "size": "234850",
+      "md5": "ae413420f1d0d11901b5201bb138b9fd",
+      "crc32": "bd95f174",
+      "sha1": "8006e130b02664e5b3e6ff8633cc5d2ed62e9842",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sternde-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f501842c06d335b5dd87672e247b747a",
+      "md5": "a7f07560193199b9e97ed9c39b1b48fc",
       "summation": "md5"
     },
     {
       "name": "sternde-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666981999",
-      "size": "1409024",
-      "md5": "8c64d8bea349f50a7bafe9e5fe38677e",
-      "crc32": "a129db21",
-      "sha1": "4db76dee618b5b63fc79f2396790ab0ed65f4a22",
+      "mtime": "1667025451",
+      "size": "1421312",
+      "md5": "adb7eb41034231e676779ba6119d5151",
+      "crc32": "f21fe3da",
+      "sha1": "0f610ad02d6e0489fde8997378ce129095b0fdf2",
       "format": "Metadata"
     },
     {
@@ -11491,9 +11553,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1111,
-  "item_last_updated": 1666982046,
-  "item_size": 83389078,
+  "files_count": 1117,
+  "item_last_updated": 1667025499,
+  "item_size": 83819388,
   "metadata": {
     "identifier": "sternde-2022",
     "collection": [
@@ -11515,7 +11577,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455370256,
+      "task_id": 3455850436,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11523,7 +11585,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1432270138,
+  "uniq": 959281099,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]
