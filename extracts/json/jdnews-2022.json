@@ -1,5 +1,5 @@
 {
-  "created": 1666962035,
+  "created": 1667006400,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/22/items/jdnews-2022",
@@ -4769,31 +4769,93 @@
       "format": "JSON"
     },
     {
+      "name": "jdnews-2022-10-28T08:59:22.407464-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jdnews-2022-10-28T08:59:22.407464-04:00.jpg",
+      "mtime": "1666968015",
+      "size": "8796",
+      "md5": "c372a3ace407b182d0e7b0e63992985d",
+      "crc32": "394c4050",
+      "sha1": "f0958bf77edb97c05bbcff8b13b71a86c5b30e70"
+    },
+    {
+      "name": "jdnews-2022-10-28T21:19:02.692886-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006345",
+      "size": "22834",
+      "md5": "22de234efc911d20bd50e3f0a92ae52a",
+      "crc32": "5f5717d4",
+      "sha1": "eb0cfb59de942a75989b8eba0de5ff9f42de617a",
+      "format": "JSON"
+    },
+    {
+      "name": "jdnews-2022-10-28T21:19:02.692886-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006346",
+      "size": "34838",
+      "md5": "46d2b4b470819cbb6c6886923a76b40a",
+      "crc32": "372392ad",
+      "sha1": "416849475b7a73f878f3a8a892f737af060d780b",
+      "format": "JSON"
+    },
+    {
+      "name": "jdnews-2022-10-28T21:19:02.692886-04:00.jpg",
+      "source": "original",
+      "mtime": "1667006343",
+      "size": "216326",
+      "md5": "4b27917738b92db45af10c5da769f610",
+      "crc32": "7d1fb038",
+      "sha1": "d7210616c199a9d90af202df394472bcb2bfe9cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jdnews-2022-10-28T21:19:02.692886-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006348",
+      "size": "1459",
+      "md5": "7ea6e946a058f3ce88ab74afc6fb95f3",
+      "crc32": "6efbfcf3",
+      "sha1": "071628628966a49428c1ff4791d6d2bddffb4a54",
+      "format": "JSON"
+    },
+    {
+      "name": "jdnews-2022-10-28T21:19:02.692886-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006349",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "jdnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "094b6a40a619fb114d97ccbbf90b451f1290602e",
-      "mtime": "1666962025",
-      "size": "97495",
-      "md5": "11cd8da09adb66dc14aeb8a96be27aab",
-      "crc32": "54011763",
-      "sha1": "5abe67cdb516899ea45ea67baad0b59bc4bdf182",
+      "btih": "7c5f3bbf415b6177e180546fc92899ffee3000db",
+      "mtime": "1667006396",
+      "size": "98728",
+      "md5": "adf877a6360c214a411569b68abffa43",
+      "crc32": "bea936b0",
+      "sha1": "f3522e0d6cb04ac6789ac2db6d247ddab0b3f4c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jdnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92ff9c3d252244621b63900919d3939a",
+      "md5": "b9c52ffb12f24a31ee7f718daf6e9fb7",
       "summation": "md5"
     },
     {
       "name": "jdnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666961983",
-      "size": "602112",
-      "md5": "73dfbb44a5de466bcd4196027747acbe",
-      "crc32": "e7ffb5f0",
-      "sha1": "aac4bbde7a33a2de3c33d4c701c3a8b2b9688e78",
+      "mtime": "1667006355",
+      "size": "614400",
+      "md5": "d904a203d290278a55f29538c6beaf65",
+      "crc32": "d639204c",
+      "sha1": "2e79055b61497fe5a98cfafb10a8878374144621",
       "format": "Metadata"
     },
     {
@@ -4807,9 +4869,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 465,
-  "item_last_updated": 1666962025,
-  "item_size": 32233470,
+  "files_count": 471,
+  "item_last_updated": 1667006396,
+  "item_size": 32531446,
   "metadata": {
     "identifier": "jdnews-2022",
     "collection": [
@@ -4831,7 +4893,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455154089,
+      "task_id": 3455638174,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4839,7 +4901,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 931648799,
+  "uniq": 454699574,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

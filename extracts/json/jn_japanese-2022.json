@@ -1,5 +1,5 @@
 {
-  "created": 1666962175,
+  "created": 1667006415,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/jn_japanese-2022",
@@ -19385,31 +19385,93 @@
       "format": "JSON"
     },
     {
+      "name": "jn_japanese-2022-10-28T22:00:12.887781+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jn_japanese-2022-10-28T22:00:12.887781+09:00.jpg",
+      "mtime": "1666968635",
+      "size": "10548",
+      "md5": "321f23b05a9e790236b176e3b85578cc",
+      "crc32": "d0a25ef3",
+      "sha1": "7f054c757e18fc7caa58771561399bcef24b32d6"
+    },
+    {
+      "name": "jn_japanese-2022-10-29T10:18:21.339427+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006328",
+      "size": "40055",
+      "md5": "a0fcb9a9066d0ab8ee9a58db26ac5283",
+      "crc32": "52c06acd",
+      "sha1": "81b5c49e3d9e45c6456fc1cfe2b5f57d28d78e14",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-10-29T10:18:21.339427+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006329",
+      "size": "79258",
+      "md5": "b9a8d21260f3ca4624a3aaada6b15a0a",
+      "crc32": "40fe60ca",
+      "sha1": "d55b2465f5a13e1c40a4aec57f19cbce943aa54f",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-10-29T10:18:21.339427+09:00.jpg",
+      "source": "original",
+      "mtime": "1667006325",
+      "size": "328516",
+      "md5": "023ddc4c7fea33800e9a980836a6e042",
+      "crc32": "faec76b0",
+      "sha1": "f616173ba7dc5b9c4ca6c7bd8dca1291ce2fc151",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jn_japanese-2022-10-29T10:18:21.339427+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006331",
+      "size": "1483",
+      "md5": "bac85345001a65e814fd879af6f3c030",
+      "crc32": "86bab5dc",
+      "sha1": "d19e723e71d780abf9e048d4221bfafe29254404",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-10-29T10:18:21.339427+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006333",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "jn_japanese-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b74caa25110b3c161eb804b890f1b836ba4849e",
-      "mtime": "1666962148",
-      "size": "401731",
-      "md5": "7bdaab9ff3bbeb42b1686b26925de02d",
-      "crc32": "8cbf4fc4",
-      "sha1": "68709e17bad1b75e268c5eed9bbe882c85131f17",
+      "btih": "87644fcf8dd6bf6bd2fa9c922f14fa85a598414c",
+      "mtime": "1667006406",
+      "size": "403015",
+      "md5": "40abd4a483809c56d4fc7d3b7586d003",
+      "crc32": "091441cd",
+      "sha1": "1da8f3506160736ec2c6c55630dd73ebc09c5cb3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jn_japanese-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01b18b8a09ad6d2d7cd36209f04a1eed",
+      "md5": "b4f6b108c6022ee5ff676278b8742576",
       "summation": "md5"
     },
     {
       "name": "jn_japanese-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666962042",
-      "size": "2359296",
-      "md5": "f1f61e128d2761472e65515d8f687994",
-      "crc32": "13d4dbae",
-      "sha1": "322a08afb5b90bba554011f474563cb6934b2fa5",
+      "mtime": "1667006342",
+      "size": "2367488",
+      "md5": "91147067ed6d459f91977473b2f4ab4a",
+      "crc32": "330e2dd3",
+      "sha1": "b4d125952c1fb0604a57895bca9659e6d8a6dc3e",
       "format": "Metadata"
     },
     {
@@ -19423,9 +19485,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1875,
-  "item_last_updated": 1666962148,
-  "item_size": 158062340,
+  "files_count": 1881,
+  "item_last_updated": 1667006406,
+  "item_size": 158531878,
   "metadata": {
     "identifier": "jn_japanese-2022",
     "collection": [
@@ -19447,7 +19509,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455157284,
+      "task_id": 3455638331,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19455,7 +19517,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1034281972,
+  "uniq": 1200117078,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]
