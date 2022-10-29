@@ -1,5 +1,5 @@
 {
-  "created": 1667041099,
+  "created": 1667083974,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/32/items/arizcir-2022",
@@ -15950,31 +15950,82 @@
       "sha1": "9042d703bcd408618b5422881f308daf66012c51"
     },
     {
+      "name": "arizcir-2022-10-29T15:51:34.665723-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083906",
+      "size": "22667",
+      "md5": "1ccbac4a27c2541c0d1fddfa14e44511",
+      "crc32": "7bb7e630",
+      "sha1": "c3a4bfeedecc2ade2d9a14283762691f5bca5207",
+      "format": "JSON"
+    },
+    {
+      "name": "arizcir-2022-10-29T15:51:34.665723-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083908",
+      "size": "21639",
+      "md5": "0bd175d34145f38214d5e90b3d5e274f",
+      "crc32": "6bf748a8",
+      "sha1": "9ea32a20b56a6b256ecc24962f4503f43ca71980",
+      "format": "JSON"
+    },
+    {
+      "name": "arizcir-2022-10-29T15:51:34.665723-07:00.jpg",
+      "source": "original",
+      "mtime": "1667083903",
+      "size": "277383",
+      "md5": "9f15e9eadb1e14e4c64e69994637b6e6",
+      "crc32": "acfd4def",
+      "sha1": "d0bc5e4007f4d6b029a616fa54eef2ad77133e8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arizcir-2022-10-29T15:51:34.665723-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083910",
+      "size": "1404",
+      "md5": "d98f528f5ab5c85b19de96ed8188eee6",
+      "crc32": "bd52022a",
+      "sha1": "08690e103d53e7ca61814346109e07f16fba89b9",
+      "format": "JSON"
+    },
+    {
+      "name": "arizcir-2022-10-29T15:51:34.665723-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083911",
+      "size": "14940",
+      "md5": "395805c3ecf715014a84879ec98c568f",
+      "crc32": "86a28a4b",
+      "sha1": "357ce861c90ea9b9ca7d80a4c2b8294a458d81f2",
+      "format": "JSON"
+    },
+    {
       "name": "arizcir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f63a57a60e49608371e4b915a4d0094c94d205c0",
-      "mtime": "1667041091",
-      "size": "322121",
-      "md5": "458a3718fb8898d09d4c69ab8b2f961d",
-      "crc32": "1790dd3a",
-      "sha1": "45608ad134a121047f22b024323ed2f11a1c0793",
+      "btih": "1480f6154f43718043a43b1dd9ea7f5b9c4f7fe5",
+      "mtime": "1667083968",
+      "size": "323159",
+      "md5": "f8d6303badda892db25b7ac6e38b42d8",
+      "crc32": "38f83702",
+      "sha1": "dde6246693be51259c4efede1ec25d2d8e280a06",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arizcir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9ddfbb8c92496f85d4fd5150413fceba",
+      "md5": "ef5623d81af528477f6ecfde63e372fd",
       "summation": "md5"
     },
     {
       "name": "arizcir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667040565",
-      "size": "1904640",
-      "md5": "10e681beb950ef28bc1940d5401bfa3c",
-      "crc32": "f1db46d5",
-      "sha1": "3e604ca54efd3d506611c566f8f52d1574700a1f",
+      "mtime": "1667083916",
+      "size": "1908736",
+      "md5": "0a85392c84afc113b8fbe50a53e22dcd",
+      "crc32": "ad52c510",
+      "sha1": "7e8d629186f1712f78075d04feb577151082c4e4",
       "format": "Metadata"
     },
     {
@@ -15988,9 +16039,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1540,
-  "item_last_updated": 1667041091,
-  "item_size": 86472334,
+  "files_count": 1545,
+  "item_last_updated": 1667083968,
+  "item_size": 86815501,
   "metadata": {
     "identifier": "arizcir-2022",
     "collection": [
@@ -16007,10 +16058,21 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1848713773,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456488211,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1816920633,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

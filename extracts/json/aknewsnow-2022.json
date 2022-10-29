@@ -1,5 +1,5 @@
 {
-  "created": 1667040644,
+  "created": 1667083870,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/aknewsnow-2022",
@@ -5781,31 +5781,93 @@
       "format": "JSON"
     },
     {
+      "name": "aknewsnow-2022-10-29T02:49:49.292763-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aknewsnow-2022-10-29T02:49:49.292763-08:00.jpg",
+      "mtime": "1667041924",
+      "size": "10722",
+      "md5": "ec995f99b929b6df8fb42ede43cf1a96",
+      "crc32": "cbcdabc7",
+      "sha1": "16202e4bbb1419cfc75dba7940afa53473b4efba"
+    },
+    {
+      "name": "aknewsnow-2022-10-29T14:50:05.698421-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083813",
+      "size": "35593",
+      "md5": "369f4b05f697e90098e7b9df6335ea61",
+      "crc32": "82b017e0",
+      "sha1": "9c0dc71dfb771a1974bb950fa1adc17eed8e51e0",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-29T14:50:05.698421-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083814",
+      "size": "24534",
+      "md5": "aca99a73adc6c29914f54f975ac28bfa",
+      "crc32": "ca1b432a",
+      "sha1": "5f0ac5a33ca42de94ca3a1c2bf6798f1dd6267ac",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-29T14:50:05.698421-08:00.jpg",
+      "source": "original",
+      "mtime": "1667083811",
+      "size": "379345",
+      "md5": "cce7fc3fc011a6d85b6f98e548a42348",
+      "crc32": "32025c9e",
+      "sha1": "e5d85fa34b3c222cd4561d563fe14e2f17869903",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aknewsnow-2022-10-29T14:50:05.698421-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083816",
+      "size": "1558",
+      "md5": "f0e71b1eb53d4d8e23879675d9a7b49c",
+      "crc32": "8a298e69",
+      "sha1": "8b25202648b4b2ff6b3a81e8620712b659635b91",
+      "format": "JSON"
+    },
+    {
+      "name": "aknewsnow-2022-10-29T14:50:05.698421-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083818",
+      "size": "66120",
+      "md5": "737e4aea6f5ab578080aa569ef3908a4",
+      "crc32": "3793d2bf",
+      "sha1": "ffe9274e4be1cdd97dd4685d658cd9295ea098d6",
+      "format": "JSON"
+    },
+    {
       "name": "aknewsnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "49ae0cd5275730c17f1ad06e1c67e8788ad2f066",
-      "mtime": "1667040642",
-      "size": "119963",
-      "md5": "bd14ac26ed66896a3ac5919f7addb704",
-      "crc32": "31c9dc47",
-      "sha1": "b44948031c2fb8d19a76198a0f28b444cd52900c",
+      "btih": "8ba9989e97064c893a4af3d420ccb4b6635db2e0",
+      "mtime": "1667083864",
+      "size": "121237",
+      "md5": "9afe705a20e2b5e5f1eea1c8865b8d1e",
+      "crc32": "1499f13a",
+      "sha1": "3f6be77fea0415f01d4729fa54cc69393a64af16",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aknewsnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77a3b837c7fdb5c4bd29596e02885247",
+      "md5": "c754386ebce74f121d5803f591af16d3",
       "summation": "md5"
     },
     {
       "name": "aknewsnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667040602",
-      "size": "729088",
-      "md5": "55134b7097a327dfb8696b2ec86f4d83",
-      "crc32": "dcdddd61",
-      "sha1": "ee8c2b09b4d0334d1cf9e817047569e7739d356c",
+      "mtime": "1667083822",
+      "size": "737280",
+      "md5": "8192e2915c0260c7ea8adb09ad4b1963",
+      "crc32": "4c1c109a",
+      "sha1": "8f95634bc81bf7e31831d24f5adedc2b90178108",
       "format": "Metadata"
     },
     {
@@ -5819,9 +5881,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 563,
-  "item_last_updated": 1667040642,
-  "item_size": 46651499,
+  "files_count": 569,
+  "item_last_updated": 1667083864,
+  "item_size": 47178837,
   "metadata": {
     "identifier": "aknewsnow-2022",
     "collection": [
@@ -5843,7 +5905,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456018965,
+      "task_id": 3456487174,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5851,7 +5913,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 128249119,
+  "uniq": 463079205,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

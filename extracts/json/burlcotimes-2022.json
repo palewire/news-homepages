@@ -1,5 +1,5 @@
 {
-  "created": 1667040910,
+  "created": 1667084162,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/28/items/burlcotimes-2022",
@@ -4821,31 +4821,93 @@
       "format": "JSON"
     },
     {
+      "name": "burlcotimes-2022-10-29T06:54:15.450988-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "burlcotimes-2022-10-29T06:54:15.450988-04:00.jpg",
+      "mtime": "1667041627",
+      "size": "9213",
+      "md5": "01fa9fabf250d597c51167a4fc8728e7",
+      "crc32": "f2a1d7dc",
+      "sha1": "46cb159f806203b78874de336cb2e6813ccb8e0b"
+    },
+    {
+      "name": "burlcotimes-2022-10-29T18:55:06.657065-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667084112",
+      "size": "23343",
+      "md5": "c16c7f46c346d59cd84d37aa4d56c704",
+      "crc32": "a3c00d4f",
+      "sha1": "4d17299fd0ae47840eb857e54447819543a50b8b",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-29T18:55:06.657065-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667084113",
+      "size": "36919",
+      "md5": "5caf2064a13e218dc27ac2933e9c5337",
+      "crc32": "3ba4d803",
+      "sha1": "174a6063d57b293a302e45e91a19bd58dd26a5e8",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-29T18:55:06.657065-04:00.jpg",
+      "source": "original",
+      "mtime": "1667084110",
+      "size": "274215",
+      "md5": "f75cb9abe507dc7bced508a5dc310f8c",
+      "crc32": "63fe862f",
+      "sha1": "afbce2b7506b035e638e1ab3aca00abae8a2c477",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "burlcotimes-2022-10-29T18:55:06.657065-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667084115",
+      "size": "1594",
+      "md5": "5f6a4872c8ab2d14453c233fa16bc486",
+      "crc32": "b48add8c",
+      "sha1": "3c74d661f029c574857b76473360e0b05d756f4c",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-10-29T18:55:06.657065-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667084116",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "burlcotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e15b328ee9dfd198b8e39363fec20389754ad3ba",
-      "mtime": "1667040906",
-      "size": "100852",
-      "md5": "d24d1831c67fcf64f58257c2cdf05967",
-      "crc32": "f975107e",
-      "sha1": "1b03757aaa0ea9a0c3f50a0a4005c7ec79bec75e",
+      "btih": "a734140de784fdd59fa463291475542760e0279d",
+      "mtime": "1667084157",
+      "size": "102135",
+      "md5": "6a94b4f193c86c2dfdac71fe4a2c6cb6",
+      "crc32": "72318464",
+      "sha1": "bfb02dff8fb10e2a7b54fd9069f5d1e56bef985d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "burlcotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "063e9251e60ddf169313d6f4e9367db6",
+      "md5": "a4d9fdba24109e57f9522c65e59b399a",
       "summation": "md5"
     },
     {
       "name": "burlcotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667040869",
-      "size": "614400",
-      "md5": "2ee23af93e68f2b5876c83fd5ce4b12d",
-      "crc32": "c19d8520",
-      "sha1": "f2c483f15220d8c7e098c71545f0e70c5a3d17b7",
+      "mtime": "1667084120",
+      "size": "618496",
+      "md5": "50464558b99a84b70ceb7c83e13dc5be",
+      "crc32": "9de8ffc4",
+      "sha1": "71429abf281eecd17f2022d3160e8cbcd2a30841",
       "format": "Metadata"
     },
     {
@@ -4859,9 +4921,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 470,
-  "item_last_updated": 1667040906,
-  "item_size": 32024331,
+  "files_count": 476,
+  "item_last_updated": 1667084157,
+  "item_size": 32375196,
   "metadata": {
     "identifier": "burlcotimes-2022",
     "collection": [
@@ -4883,7 +4945,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456021572,
+      "task_id": 3456489974,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4891,7 +4953,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1759008866,
+  "uniq": 1329346393,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

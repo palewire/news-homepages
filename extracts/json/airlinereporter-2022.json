@@ -1,5 +1,5 @@
 {
-  "created": 1667040657,
+  "created": 1667083904,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/airlinereporter-2022",
@@ -8677,31 +8677,93 @@
       "format": "JSON"
     },
     {
+      "name": "airlinereporter-2022-10-29T03:49:50.471978-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-29T03:49:50.471978-07:00.jpg",
+      "mtime": "1667041228",
+      "size": "9524",
+      "md5": "e14a4151ab2c85ae359fb78dbfb133ac",
+      "crc32": "39ebcc54",
+      "sha1": "098e71f7cbf5c12b2a4c2b22751c5d689c5a8bae"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083848",
+      "size": "36664",
+      "md5": "2954ec593f317e1a0e7f223787eca98e",
+      "crc32": "65753607",
+      "sha1": "78982ab953c9c75fc8dc3c30ad586a4c79a39234",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083849",
+      "size": "25672",
+      "md5": "7c0449a2c3282283b61b0ff7e2aa96a0",
+      "crc32": "1f234b67",
+      "sha1": "439663186c0fb3ff9ab06d946803c444d2f906f4",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.jpg",
+      "source": "original",
+      "mtime": "1667083847",
+      "size": "304135",
+      "md5": "46c50783b846808ffccf3d9c5b5e6ae6",
+      "crc32": "b4e8fe36",
+      "sha1": "4f58026606878a3b9c13b698d5e3e8c3a063f5f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083851",
+      "size": "1539",
+      "md5": "d6f9ae9bc8beb5b9255cc6f081b889ce",
+      "crc32": "1658eefe",
+      "sha1": "921cbea6e3540be576e892af6a53a5619c77480d",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083852",
+      "size": "18854",
+      "md5": "793080e4a6b06136a8977f88641ad0a3",
+      "crc32": "63d6a905",
+      "sha1": "e042642312efd977fa4e8f1defa239c769251b67",
+      "format": "JSON"
+    },
+    {
       "name": "airlinereporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c92ce8c0e2b3af2ef6ff1ff7f5e977b8de2ed464",
-      "mtime": "1667040652",
-      "size": "183850",
-      "md5": "b71e040208c6af58873661c35a5c484a",
-      "crc32": "65e6922e",
-      "sha1": "578b2f09e8c7e18b008689f7224425754b68e576",
+      "btih": "8e9cb14a5101a92ffed7b30a29eae75ad09fc9a4",
+      "mtime": "1667083901",
+      "size": "185159",
+      "md5": "5cc768776e7aa3f09d1722e7dd8c99d3",
+      "crc32": "ec389821",
+      "sha1": "0cec0169a39ab8bcdb8e7e2e140a9cd98965c387",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airlinereporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "554da8aeb619b85ba7f765e1178759f5",
+      "md5": "5a9be667a4e76de202d30fb04bebce89",
       "summation": "md5"
     },
     {
       "name": "airlinereporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667040608",
-      "size": "1089536",
-      "md5": "9d3347aaa136309bb6b662d94094812b",
-      "crc32": "00744be8",
-      "sha1": "0a5782b8d06966f70bed5be73482be95be2c508c",
+      "mtime": "1667083857",
+      "size": "1101824",
+      "md5": "654837e08050dc5044759bee51fec361",
+      "crc32": "2f25bb6c",
+      "sha1": "338ec75d9f7b83d427fb6fe9d54a6ac5646c18aa",
       "format": "Metadata"
     },
     {
@@ -8715,9 +8777,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 843,
-  "item_last_updated": 1667040652,
-  "item_size": 56041650,
+  "files_count": 849,
+  "item_last_updated": 1667083901,
+  "item_size": 56451635,
   "metadata": {
     "identifier": "airlinereporter-2022",
     "collection": [
@@ -8739,7 +8801,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456019089,
+      "task_id": 3456487562,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8747,7 +8809,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1041747615,
+  "uniq": 230053950,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

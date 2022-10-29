@@ -1,10 +1,5 @@
 {
-  "chalkbeat-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667041185,
+  "created": 1667084183,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/13/items/chalkbeat-2022",
@@ -11643,31 +11638,144 @@
       "sha1": "e498d1ead6652493ec87292de494033dfe787892"
     },
     {
+      "name": "chalkbeat-2022-10-29T06:54:14.826592-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040858",
+      "size": "51019",
+      "md5": "981ae59047824dc26617509f5ad448ac",
+      "crc32": "6bfe7eba",
+      "sha1": "60681d039ec19c9a6569245ccf6d727778df59e3",
+      "format": "JSON"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T06:54:14.826592-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040860",
+      "size": "61575",
+      "md5": "778e44b0e7983339577fb7017b867295",
+      "crc32": "2776e348",
+      "sha1": "f4342a84ee7786fa16ce5361d4aa7726435de3e3",
+      "format": "JSON"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T06:54:14.826592-04:00.jpg",
+      "source": "original",
+      "mtime": "1667040857",
+      "size": "258138",
+      "md5": "fad4c12b31b657c4dc82a121ade78996",
+      "crc32": "a112fc97",
+      "sha1": "33d364f24219ca2cac1164f8329c1312bdfa028f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T06:54:14.826592-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040862",
+      "size": "1473",
+      "md5": "1e3b09eb2794dbffc2ebcea1007505aa",
+      "crc32": "956937d1",
+      "sha1": "8c22faf1ce975a2c4c86f51219d74555cc9a7608",
+      "format": "JSON"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T06:54:14.826592-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040864",
+      "size": "45269",
+      "md5": "6e18b225844693b4e575a7fb06fc8694",
+      "crc32": "ac03650e",
+      "sha1": "97471cfd57ec6176c71cccc08101a074bad6afb3",
+      "format": "JSON"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T06:54:14.826592-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chalkbeat-2022-10-29T06:54:14.826592-04:00.jpg",
+      "mtime": "1667050772",
+      "size": "9626",
+      "md5": "f4a62f78d2d81cc2fe697edae9a1c13d",
+      "crc32": "65711cd2",
+      "sha1": "5c7d9b448b8103299961b50a9f9051655a3a51b7"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T18:55:07.112589-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667084121",
+      "size": "51006",
+      "md5": "4e5d69eced8570656301d1089b1d83f6",
+      "crc32": "190cb62c",
+      "sha1": "cb95d9fa61d0c01a436f69e73917b3f23cd8dcf2",
+      "format": "JSON"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T18:55:07.112589-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667084122",
+      "size": "61603",
+      "md5": "44b78d12de00ce0ef6193a9b058d1987",
+      "crc32": "ac1b8310",
+      "sha1": "52d54f0ce1f97271f4421daa774d450a76548e67",
+      "format": "JSON"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T18:55:07.112589-04:00.jpg",
+      "source": "original",
+      "mtime": "1667084119",
+      "size": "258737",
+      "md5": "42b8829240a52131db6eaae82be84940",
+      "crc32": "6907dcb9",
+      "sha1": "86237445fb5050930d84373874d1b0a766a5c8d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T18:55:07.112589-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667084124",
+      "size": "1473",
+      "md5": "5e7b8db7227859e1477a060903e77ee9",
+      "crc32": "1280003f",
+      "sha1": "91094d5915627c33e63d86447fc80bdf11048738",
+      "format": "JSON"
+    },
+    {
+      "name": "chalkbeat-2022-10-29T18:55:07.112589-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667084125",
+      "size": "45502",
+      "md5": "bb46d85941c53a013912ea37ced25835",
+      "crc32": "fb8191fe",
+      "sha1": "1272d4756605e4478c7c2d596782834fe51394b2",
+      "format": "JSON"
+    },
+    {
       "name": "chalkbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4017ec98e97a05a9808a8962166945bb9e1dc8d5",
-      "mtime": "1667000271",
-      "size": "239103",
-      "md5": "cd08574401b4f82c6a8fc849fd526844",
-      "crc32": "e2f8601f",
-      "sha1": "b541b9e97818a098378e7d2ccfe94df8fbbfdfee",
+      "btih": "cfa9bf6dab7f99f86bd4a18f4b01a1f9a16d6a58",
+      "mtime": "1667084177",
+      "size": "241444",
+      "md5": "bb4470ac6b5e883a035fe28486433561",
+      "crc32": "fdf3335f",
+      "sha1": "1d5a36fe94645254acfbaa65b5c9f5a80c95bd7c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chalkbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7fdac177d75f492deb058810ca8a55c6",
+      "md5": "058dc3303c7ea9784579d8aec0b64801",
       "summation": "md5"
     },
     {
       "name": "chalkbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666998565",
-      "size": "1433600",
-      "md5": "aab8c8c562ab9a443911f909471f0370",
-      "crc32": "b1c8b176",
-      "sha1": "80feea90f075d21522be98ac731bd7f5b53fcea9",
+      "mtime": "1667084131",
+      "size": "1458176",
+      "md5": "ba05952ed4fa0ab0816bf6947ac2b3ab",
+      "crc32": "e8b84076",
+      "sha1": "cacf91439d072b198db0c173d33d2fecf61adb23",
       "format": "Metadata"
     },
     {
@@ -11681,9 +11789,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1129,
-  "item_last_updated": 1667000271,
-  "item_size": 75683818,
+  "files_count": 1140,
+  "item_last_updated": 1667084177,
+  "item_size": 76556156,
   "metadata": {
     "identifier": "chalkbeat-2022",
     "collection": [
@@ -11705,47 +11813,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456020943,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3456020968,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3456020994,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3456021022,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3456021045,
-      "cmd": "archive.php",
-      "priority": -5,
+      "task_id": 3456490145,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 85931612,
+  "uniq": 657588824,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]
