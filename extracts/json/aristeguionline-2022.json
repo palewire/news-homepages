@@ -1,5 +1,5 @@
 {
-  "created": 1666999482,
+  "created": 1667040697,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/19/items/aristeguionline-2022",
@@ -9336,31 +9336,82 @@
       "sha1": "bd0e65ca1a061df8425fa611b3610eff485d0437"
     },
     {
+      "name": "aristeguionline-2022-10-29T05:49:47.373916-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040595",
+      "size": "67754",
+      "md5": "0545ba1e5a69fe3eed4be85f66e52dd4",
+      "crc32": "df66c16f",
+      "sha1": "f0d512b09dab89c207f81f412645d5a290166b24",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-10-29T05:49:47.373916-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040597",
+      "size": "52499",
+      "md5": "4361ca64609695b761d2c3fc4250b29d",
+      "crc32": "f86eb97f",
+      "sha1": "4354b42476278636786641da6ba9f22c508ad290",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-10-29T05:49:47.373916-05:00.jpg",
+      "source": "original",
+      "mtime": "1667040593",
+      "size": "250216",
+      "md5": "82cc608505026a65485d877cf8e4f0d9",
+      "crc32": "aff8e150",
+      "sha1": "de442ba481e5585097de6f61f391b00d466fb2ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aristeguionline-2022-10-29T05:49:47.373916-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040600",
+      "size": "1522",
+      "md5": "68e6556bf3f07d0fb669427d5654228f",
+      "crc32": "ab524aa4",
+      "sha1": "fad821fc65c9be35141be1982d0f25d0fabc3461",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-10-29T05:49:47.373916-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040603",
+      "size": "31184",
+      "md5": "5bfffd05bfd466d1e6a5a50594a68e97",
+      "crc32": "b736b269",
+      "sha1": "fe20babbebe5547a1e870affaf0f2db8563352ef",
+      "format": "JSON"
+    },
+    {
       "name": "aristeguionline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08cf3ff084879d07899b78cef76df54bce7cdff0",
-      "mtime": "1666999451",
-      "size": "197992",
-      "md5": "5c6f8adb7fdda573a3f3432414b4f7f7",
-      "crc32": "8171ae9b",
-      "sha1": "22162514e14b38d1ef86c724a7e6afba94add9ec",
+      "btih": "e7ca3119a6ea2f11999cd515e63588b7e64b64bf",
+      "mtime": "1667040686",
+      "size": "199070",
+      "md5": "16c1ab4856eb5f3c497f71071653de16",
+      "crc32": "6bd3db58",
+      "sha1": "9b011d373b234c6859a71875af881fe959fe12b7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aristeguionline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe7f4f8703e49907552888abe8799a6c",
+      "md5": "da5d36826fab083fcf89759f04af7080",
       "summation": "md5"
     },
     {
       "name": "aristeguionline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666998299",
-      "size": "1175552",
-      "md5": "669df09f5a4aef5b038eb9b65938892b",
-      "crc32": "21dadd71",
-      "sha1": "19e09da50cacd683e327a0c1088b8cf41caa8b0c",
+      "mtime": "1667040616",
+      "size": "1183744",
+      "md5": "f09aa3ceb0b6aa947fef0c9b6095315e",
+      "crc32": "fe4b91f4",
+      "sha1": "3c8fcbebf313024024c7b9e4bda899e08bfa2b0d",
       "format": "Metadata"
     },
     {
@@ -9374,9 +9425,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 907,
-  "item_last_updated": 1666999451,
-  "item_size": 67371403,
+  "files_count": 912,
+  "item_last_updated": 1667040686,
+  "item_size": 67783848,
   "metadata": {
     "identifier": "aristeguionline-2022",
     "collection": [
@@ -9393,10 +9444,21 @@
     "publicdate": "2022-08-16 17:11:11",
     "addeddate": "2022-08-16 17:11:11"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 2054546446,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456019428,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 947140930,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

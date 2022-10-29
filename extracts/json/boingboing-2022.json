@@ -1,10 +1,5 @@
 {
-  "boingboing-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667001909,
+  "created": 1667040900,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/25/items/boingboing-2022",
@@ -14565,31 +14560,82 @@
       "sha1": "661ce3c46cdeadab28263ff6e92231673825dab4"
     },
     {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040822",
+      "size": "16974",
+      "md5": "d35477a6a890714c46736540acb27535",
+      "crc32": "d78c8aa6",
+      "sha1": "816c940633f47d0ed4fe1264f7581ece7ec83602",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040824",
+      "size": "24015",
+      "md5": "0f4f896b9e3c76fe0c5c75facbf00ec8",
+      "crc32": "9011c433",
+      "sha1": "fab8ff82fac8f64859c04ca11186975c833cf97f",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.jpg",
+      "source": "original",
+      "mtime": "1667040820",
+      "size": "189317",
+      "md5": "3ca192ca4b34bab1beb66fa806c58f12",
+      "crc32": "61fccc39",
+      "sha1": "f3fdacae60db01c2cece82c20b296e6ca7b17d8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040830",
+      "size": "1459",
+      "md5": "27f5f95ee41b9d4a2cf2b492b40a1f9f",
+      "crc32": "f8fda8fd",
+      "sha1": "4692485392af0238429af8b823ef309deb7d94c4",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040832",
+      "size": "83504",
+      "md5": "a93ae396339bd196271ce398ecf6253c",
+      "crc32": "6e4c7020",
+      "sha1": "6ffa161f3ec92e0b04993b14c3d2f54bb2f793c2",
+      "format": "JSON"
+    },
+    {
       "name": "boingboing-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21805e02fb15124a0722bf7d38270fab3f5745df",
-      "mtime": "1666999539",
-      "size": "297632",
-      "md5": "25f2813ecf82e142c52eb7804a4d22d8",
-      "crc32": "55e0d1a5",
-      "sha1": "b60dfaaabcf8aaa45a76f8399e813945745d0b5e",
+      "btih": "e7932092e761a610b8de29729d63465b41a2d0a8",
+      "mtime": "1667040890",
+      "size": "298685",
+      "md5": "f50919b535255a421d844d7cc7acc8fd",
+      "crc32": "3e74b211",
+      "sha1": "6df0579ba8899c7d805be498b9d7505f8b6bef05",
       "format": "Archive BitTorrent"
     },
     {
       "name": "boingboing-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c73b588108b889bc821fe7d94f901d5",
+      "md5": "7277dd863fe2c14f4842493d9be9ea5e",
       "summation": "md5"
     },
     {
       "name": "boingboing-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666998387",
-      "size": "1732608",
-      "md5": "4866d1bdab06c41db7cd29dbd49a5e34",
-      "crc32": "96835521",
-      "sha1": "8da501ee276120f58dc850d8ef79fd154c616340",
+      "mtime": "1667040837",
+      "size": "1744896",
+      "md5": "338bf88af209f7fd00b9580404fcccbe",
+      "crc32": "52267fc9",
+      "sha1": "58fb54b99d32ceb4de90b86ba0113ad864dd5cf9",
       "format": "Metadata"
     },
     {
@@ -14603,9 +14649,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1405,
-  "item_last_updated": 1666999539,
-  "item_size": 73311528,
+  "files_count": 1410,
+  "item_last_updated": 1667040890,
+  "item_size": 73640138,
   "metadata": {
     "identifier": "boingboing-2022",
     "collection": [
@@ -14622,10 +14668,21 @@
     "publicdate": "2022-06-24 22:53:11",
     "addeddate": "2022-06-24 22:53:11"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1088645917,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456021464,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 639437826,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

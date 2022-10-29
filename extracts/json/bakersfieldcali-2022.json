@@ -1,13 +1,5 @@
 {
-  "bakersfieldcali-2022": {
-    "url": "https://www.bakersfield.com/",
-    "job_id": "spn2-1cf3f949e87993ce91dea8aeb6a266798c853256",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
-  },
-  "created": 1667001830,
+  "created": 1667040825,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/22/items/bakersfieldcali-2022",
@@ -12918,31 +12910,82 @@
       "sha1": "90290964b6c287bcac77fbe8430e4788646f8f16"
     },
     {
+      "name": "bakersfieldcali-2022-10-29T03:52:34.088305-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040761",
+      "size": "36547",
+      "md5": "db46dd18ac9df18f5a4e4872d6e74887",
+      "crc32": "734e33b0",
+      "sha1": "5e3308f6a624fb5d1d99d1142c8fa8407494829a",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-10-29T03:52:34.088305-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040764",
+      "size": "67845",
+      "md5": "afb3ead4df823ef3569f52338567d748",
+      "crc32": "76a9580a",
+      "sha1": "bc60220d36776c0c27d5a081aaa342849f495edf",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-10-29T03:52:34.088305-07:00.jpg",
+      "source": "original",
+      "mtime": "1667040760",
+      "size": "262546",
+      "md5": "80b0e9b5c48176228e1b0e95587e454c",
+      "crc32": "59820043",
+      "sha1": "a89269b4714aa30045c1bfbe9e95398191ff0c40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bakersfieldcali-2022-10-29T03:52:34.088305-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040766",
+      "size": "1504",
+      "md5": "3ed2867f254e91d26ec085554781f6d2",
+      "crc32": "099de3f0",
+      "sha1": "ae99f97f3f54b793dd5e4467db9a96ad0c784933",
+      "format": "JSON"
+    },
+    {
+      "name": "bakersfieldcali-2022-10-29T03:52:34.088305-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040767",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bakersfieldcali-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72e9fbf2d9a7ad3e0f7d15d3e9ffce4bbdf08437",
-      "mtime": "1667000385",
-      "size": "272264",
-      "md5": "f7b86d27b216a8549c0f1570370ac200",
-      "crc32": "21a98c57",
-      "sha1": "56896bd4e1ca09fbed993f0c3645603fb592522c",
+      "btih": "facc0e1f109adaa17afbdac3e3016674a47d24d5",
+      "mtime": "1667040821",
+      "size": "273360",
+      "md5": "69375618d350ab2c7cef1d1c4970da8e",
+      "crc32": "6a55a412",
+      "sha1": "a85422d5f86f0326c85783278697298943111455",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bakersfieldcali-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4076e2b24cbf9ed2ba0dee52319ca3f3",
+      "md5": "98130c3701c95e77892edd004039ada6",
       "summation": "md5"
     },
     {
       "name": "bakersfieldcali-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666998364",
-      "size": "1581056",
-      "md5": "fe02979985c6d034eaa626ba50604fbb",
-      "crc32": "c9838f32",
-      "sha1": "c717e0f84df47fa169497fa8d791af114c270ad1",
+      "mtime": "1667040772",
+      "size": "1589248",
+      "md5": "b65b12e45fbdd8abed354b04984e9e4e",
+      "crc32": "570f281f",
+      "sha1": "d5c41b373842ba000e91c9e6088c158a47d9bac6",
       "format": "Metadata"
     },
     {
@@ -12956,9 +12999,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1249,
-  "item_last_updated": 1667000385,
-  "item_size": 95966218,
+  "files_count": 1254,
+  "item_last_updated": 1667040821,
+  "item_size": 96344150,
   "metadata": {
     "identifier": "bakersfieldcali-2022",
     "collection": [
@@ -12980,23 +13023,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455555286,
+      "task_id": 3456020638,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3455572634,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1608578499,
+  "uniq": 2105033663,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

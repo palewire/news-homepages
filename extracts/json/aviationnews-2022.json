@@ -1,13 +1,5 @@
 {
-  "aviationnews-2022": {
-    "url": "https://www.aerotime.aero/",
-    "job_id": "spn2-2ec9252dc2281d8d49f0d28accf27c735f178317",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
-  "created": 1667001815,
+  "created": 1667040785,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/34/items/aviationnews-2022",
@@ -8634,31 +8626,82 @@
       "sha1": "866b45d863a28fd19d1bafa117a66a46d995f183"
     },
     {
+      "name": "aviationnews-2022-10-29T06:51:34.751572-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040707",
+      "size": "158723",
+      "md5": "50791a93e4cde8f0e6f024d96956ee26",
+      "crc32": "81b600c5",
+      "sha1": "5b4e466bb044265853c82393f619bfb91abe4bf4",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-29T06:51:34.751572-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040708",
+      "size": "263138",
+      "md5": "1ea320fab699dc7ac26d4fbd7ba4fa34",
+      "crc32": "ffe395cc",
+      "sha1": "4f4242941bd5ece565bb8180d1a16f3d7ebc4606",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-29T06:51:34.751572-04:00.jpg",
+      "source": "original",
+      "mtime": "1667040705",
+      "size": "141764",
+      "md5": "ae3551d45affc21f035b866dca2d5605",
+      "crc32": "f32b2192",
+      "sha1": "b08065d985af27864221231ff066bc558dce83d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aviationnews-2022-10-29T06:51:34.751572-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040710",
+      "size": "1486",
+      "md5": "d6ca41075e3b0278b3836b7f760e77b6",
+      "crc32": "0639f20e",
+      "sha1": "d2c256df0ce761932b0c2025f738eb494d8dc20d",
+      "format": "JSON"
+    },
+    {
+      "name": "aviationnews-2022-10-29T06:51:34.751572-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040712",
+      "size": "37193",
+      "md5": "fb0ee1186d1facb2188debebc66c0c70",
+      "crc32": "966595da",
+      "sha1": "276ce2576843ab4519b8c4b8269954a390bb26cc",
+      "format": "JSON"
+    },
+    {
       "name": "aviationnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e81b4ca52329550a78fc6405d7dcf9be58b218c",
-      "mtime": "1666999518",
-      "size": "181393",
-      "md5": "4bb3fca18a7791ffe66433cf5d718790",
-      "crc32": "59bb8699",
-      "sha1": "1c2b9c8e2c34f761245477203e1f3ecd51f99398",
+      "btih": "d420ee8a928aa46747a397421ab8f328d1a3ad86",
+      "mtime": "1667040775",
+      "size": "182478",
+      "md5": "63663a47acfcbcc08293a6d7a2133713",
+      "crc32": "ec86ebb7",
+      "sha1": "7ecca3cd47222b2d23e68dcbdeae881c334779df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aviationnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3d2c85352e500144ca1d4497cb1386a6",
+      "md5": "20e67ff0a45c7c363ac659cded43de02",
       "summation": "md5"
     },
     {
       "name": "aviationnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666998249",
-      "size": "1077248",
-      "md5": "c1ff261d4a2d607898ef81134eb2abb9",
-      "crc32": "76ec96cd",
-      "sha1": "3234932dd9d90d9e9c3ff7449034e55dc7d61d78",
+      "mtime": "1667040719",
+      "size": "1085440",
+      "md5": "36861cca9e2254081d997b6344509258",
+      "crc32": "36757dcd",
+      "sha1": "587b61fd9d1d330804ba513a37f90940227c4ba8",
       "format": "Metadata"
     },
     {
@@ -8672,9 +8715,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 838,
-  "item_last_updated": 1666999518,
-  "item_size": 80971939,
+  "files_count": 843,
+  "item_last_updated": 1667040775,
+  "item_size": 81583520,
   "metadata": {
     "identifier": "aviationnews-2022",
     "collection": [
@@ -8691,10 +8734,21 @@
     "publicdate": "2022-08-20 22:59:00",
     "addeddate": "2022-08-20 22:59:00"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 2045992722,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456020243,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1663369419,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }
