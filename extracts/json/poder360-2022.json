@@ -1,5 +1,5 @@
 {
-  "created": 1666965971,
+  "created": 1667009913,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/28/items/poder360-2022",
@@ -14721,31 +14721,93 @@
       "format": "JSON"
     },
     {
+      "name": "poder360-2022-10-28T11:04:50.935641-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "poder360-2022-10-28T11:04:50.935641-03:00.jpg",
+      "mtime": "1666970918",
+      "size": "10382",
+      "md5": "a414eb41003625edcbd8190a27a29232",
+      "crc32": "615cbfe6",
+      "sha1": "4b998cf4c4daeed80248d362f745b5c6e58ff64a"
+    },
+    {
+      "name": "poder360-2022-10-28T23:16:49.531132-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667009812",
+      "size": "43742",
+      "md5": "15fb55c6c442c6af78b32170a1eda2be",
+      "crc32": "b4c04efa",
+      "sha1": "d5ff42d3880659bd29462cad1f2790845f9f6623",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-10-28T23:16:49.531132-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009814",
+      "size": "41984",
+      "md5": "e008b8c25c4a38cebdfa47b756ece602",
+      "crc32": "e1885902",
+      "sha1": "d9270f971588d68dc06b5055568cf282276f125f",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-10-28T23:16:49.531132-03:00.jpg",
+      "source": "original",
+      "mtime": "1667009810",
+      "size": "273961",
+      "md5": "6eae3f0cb9779bc0e5ab7d4cef76eba0",
+      "crc32": "0d9fe255",
+      "sha1": "2580a77600a2127ce9f4410a74904cdbf53674da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "poder360-2022-10-28T23:16:49.531132-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009815",
+      "size": "1503",
+      "md5": "2d140b3ca981891474793d13a512fd97",
+      "crc32": "a9841f35",
+      "sha1": "4a2d0a7c7b2428194128d7942dcf38e44dc7d181",
+      "format": "JSON"
+    },
+    {
+      "name": "poder360-2022-10-28T23:16:49.531132-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667009817",
+      "size": "208",
+      "md5": "4303b16370a404773e423e2d62ad5a9f",
+      "crc32": "b514f8e5",
+      "sha1": "f97bc8e40e7555f4840fa234264faa4d85d64d2f",
+      "format": "JSON"
+    },
+    {
       "name": "poder360-2022_archive.torrent",
       "source": "metadata",
-      "btih": "939d4b02acbc875dc4154e8d2597b6e997ac5dae",
-      "mtime": "1666965962",
-      "size": "300964",
-      "md5": "b1712f539c384b57d3204a1dec47192e",
-      "crc32": "2062fc69",
-      "sha1": "b8648d786f44fa3de0f1ba3091d53b02e0da6153",
+      "btih": "e8a9662bdec2e9411d8cb4e58fe6f3f9dd99e7cb",
+      "mtime": "1667009903",
+      "size": "302210",
+      "md5": "66a1c35619cad38f07dfdf2ea41bfde9",
+      "crc32": "24b75576",
+      "sha1": "2f13277be889327df2a1e3a97acbeb3a273997fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poder360-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a9def3e5d7ecc1702c46bb2e29430395",
+      "md5": "fcea26fa87d6899dc98745370dc6edbb",
       "summation": "md5"
     },
     {
       "name": "poder360-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666965906",
-      "size": "1818624",
-      "md5": "539207f8c75eb0a7ee5671df71d07f74",
-      "crc32": "1b7e566a",
-      "sha1": "82ad552769bb16584a570b8bc9efab3ce202577b",
+      "mtime": "1667009839",
+      "size": "1822720",
+      "md5": "1e183fe360e069bd121ba5d5b08388c7",
+      "crc32": "ad2fd934",
+      "sha1": "97a49e6471a25deddf4543c3fa59ae95217b5c8b",
       "format": "Metadata"
     },
     {
@@ -14759,9 +14821,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1428,
-  "item_last_updated": 1666965962,
-  "item_size": 95770107,
+  "files_count": 1434,
+  "item_last_updated": 1667009903,
+  "item_size": 96147229,
   "metadata": {
     "identifier": "poder360-2022",
     "collection": [
@@ -14783,7 +14845,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3455197873,
+      "task_id": 3455675244,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14791,7 +14853,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 583032364,
+  "uniq": 1199702268,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]
