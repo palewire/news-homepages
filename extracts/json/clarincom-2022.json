@@ -1,10 +1,5 @@
 {
-  "clarincom-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667066298,
+  "created": 1667105017,
   "d1": "ia904708.us.archive.org",
   "d2": "ia804708.us.archive.org",
   "dir": "/16/items/clarincom-2022",
@@ -10035,31 +10030,93 @@
       "sha1": "05397a8596f1eb37fa1995bdeb47ce685e048183"
     },
     {
+      "name": "clarincom-2022-10-30T01:20:01.841564-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667103605",
+      "size": "87110",
+      "md5": "34f6544a86be29c6f588cb12f3e0c360",
+      "crc32": "4937925a",
+      "sha1": "e83da59d26ca64f27abbb38fb3d3f7230ab458c8",
+      "format": "JSON"
+    },
+    {
+      "name": "clarincom-2022-10-30T01:20:01.841564-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667103606",
+      "size": "32014",
+      "md5": "574699b3a0623f4f641b25aa91ceb190",
+      "crc32": "809809ab",
+      "sha1": "1290e69a897ed5db7675a327a9d4be1fa4336fb7",
+      "format": "JSON"
+    },
+    {
+      "name": "clarincom-2022-10-30T01:20:01.841564-03:00.jpg",
+      "source": "original",
+      "mtime": "1667103603",
+      "size": "318937",
+      "md5": "3b330afccadd0d2103f984fceba3a310",
+      "crc32": "97caa741",
+      "sha1": "3f5cd5fc724df7fc31414daeae9a1c3d0560f01b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "clarincom-2022-10-30T01:20:01.841564-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667103608",
+      "size": "1456",
+      "md5": "f45ce516e0f66aa527e808518f6ccda3",
+      "crc32": "bfbd0e51",
+      "sha1": "0a55fc6074e58d4a5bbc002b880d1c6c0a41f281",
+      "format": "JSON"
+    },
+    {
+      "name": "clarincom-2022-10-30T01:20:01.841564-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667103610",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "clarincom-2022-10-30T01:20:01.841564-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "clarincom-2022-10-30T01:20:01.841564-03:00.jpg",
+      "mtime": "1667104908",
+      "size": "10138",
+      "md5": "467b4a9d788cab71b798c76ec13b06b1",
+      "crc32": "ca8876d0",
+      "sha1": "269b755da52878e71f733805be0340df508d4bba"
+    },
+    {
       "name": "clarincom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1236b7b33e6c831ab76bc4663a7034dea52d4d6c",
-      "mtime": "1667062160",
-      "size": "206990",
-      "md5": "5b7d5594190f63c00654fb35f9a63efa",
-      "crc32": "bbb5446d",
-      "sha1": "32b5e229d5268bcff33fef733818737c97e7e802",
+      "btih": "8e4307f7efcf9698d54a073fddb5baffee597969",
+      "mtime": "1667104941",
+      "size": "208262",
+      "md5": "35ecff4f7b5aca36dfaecb29b276d31e",
+      "crc32": "9b24261e",
+      "sha1": "d433bff3a32d6bfbd11765a67c434535d4e8a58c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "clarincom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eb2324e1900e176594f6ff9540268e52",
+      "md5": "7231af733073b0b74f9bcad002993c93",
       "summation": "md5"
     },
     {
       "name": "clarincom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667059879",
-      "size": "1245184",
-      "md5": "a6f18f0b856cf19eb8d2883970685c92",
-      "crc32": "e2c07fc5",
-      "sha1": "94c6c46c157e8c729106c1852ab39203252f8d61",
+      "mtime": "1667103616",
+      "size": "1253376",
+      "md5": "2e853f33e489458177c33e9dac5a41d9",
+      "crc32": "94c39221",
+      "sha1": "7564546f4ec9f5f9cde1d048f00a1b7eb1f8f8fb",
       "format": "Metadata"
     },
     {
@@ -10073,9 +10130,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 974,
-  "item_last_updated": 1667062160,
-  "item_size": 79272591,
+  "files_count": 980,
+  "item_last_updated": 1667104941,
+  "item_size": 79731912,
   "metadata": {
     "identifier": "clarincom-2022",
     "collection": [
@@ -10092,10 +10149,10 @@
     "publicdate": "2022-08-09 14:36:12",
     "addeddate": "2022-08-09 14:36:12"
   },
-  "server": "ia904708.us.archive.org",
-  "uniq": 473544714,
+  "server": "ia804708.us.archive.org",
+  "uniq": 1094721110,
   "workable_servers": [
-    "ia904708.us.archive.org",
-    "ia804708.us.archive.org"
+    "ia804708.us.archive.org",
+    "ia904708.us.archive.org"
   ]
 }
