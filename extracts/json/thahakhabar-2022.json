@@ -1,5 +1,5 @@
 {
-  "created": 1667059751,
+  "created": 1667100538,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/12/items/thahakhabar-2022",
@@ -11054,31 +11054,82 @@
       "sha1": "5aad3231a192fbf0117233af6679d6ac3d6f5aed"
     },
     {
+      "name": "thahakhabar-2022-10-30T09:12:26.841951+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667100468",
+      "size": "80057",
+      "md5": "53262a44ac2262e59b6fd5c4779079d2",
+      "crc32": "88840d51",
+      "sha1": "edae474235e98add379e5aa394711210f9dad9ba",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-30T09:12:26.841951+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100470",
+      "size": "51408",
+      "md5": "aac0930928caa8b13184d7bf7fbb3068",
+      "crc32": "844ff77a",
+      "sha1": "ef89f765ffcc0edd0c58ea047b84519c5e04d6ce",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-30T09:12:26.841951+05:45.jpg",
+      "source": "original",
+      "mtime": "1667100467",
+      "size": "194765",
+      "md5": "7d24ae9b4984e1b766f8e6390a67fb05",
+      "crc32": "8df74bfe",
+      "sha1": "a059c048fdf2f3fac1ec7649a9c1480375f80d29",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thahakhabar-2022-10-30T09:12:26.841951+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100472",
+      "size": "1504",
+      "md5": "4e9c7b474c98a4f14e960dd50b4792dd",
+      "crc32": "af820c05",
+      "sha1": "d9840b0659040a1a0e33c1dfda3f49ce3ed08b81",
+      "format": "JSON"
+    },
+    {
+      "name": "thahakhabar-2022-10-30T09:12:26.841951+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667100473",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thahakhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2e793bdcfd35f0b1c02915ebae7cc2000b29349",
-      "mtime": "1667056392",
-      "size": "228869",
-      "md5": "ce24f53c09650091a435118882d34a4e",
-      "crc32": "fcf16f7e",
-      "sha1": "9694b42837a9a311c6958e90d630321c63639826",
+      "btih": "ab76ef1685fb51967b557d2a3c9e562aaecd0583",
+      "mtime": "1667100532",
+      "size": "229925",
+      "md5": "58226a35bba46e5fff504d075a7cef35",
+      "crc32": "7d502469",
+      "sha1": "a72473406fe7321208b5fec023ad9b01ec9c7815",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thahakhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eb5588f03f9c4632a2c72176fcd050fe",
+      "md5": "b67f7bb6391be481ff8d11ef22a5fbe1",
       "summation": "md5"
     },
     {
       "name": "thahakhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667055908",
-      "size": "1351680",
-      "md5": "c9906d855d74e408bbae765114d2a0f9",
-      "crc32": "886733e1",
-      "sha1": "a6793abf3a92761db21d073659d41f6cac7a2c0d",
+      "mtime": "1667100480",
+      "size": "1355776",
+      "md5": "d4a6447bea262d6e4a9273b9526d0676",
+      "crc32": "4cb11d04",
+      "sha1": "b807a843bf34547c53feabda6a57a69b6fd1a63a",
       "format": "Metadata"
     },
     {
@@ -11092,9 +11143,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1070,
-  "item_last_updated": 1667056392,
-  "item_size": 74309212,
+  "files_count": 1075,
+  "item_last_updated": 1667100532,
+  "item_size": 74642300,
   "metadata": {
     "identifier": "thahakhabar-2022",
     "collection": [
@@ -11111,15 +11162,21 @@
     "publicdate": "2022-07-24 20:39:40",
     "addeddate": "2022-07-24 20:39:40"
   },
-  "server": "ia801503.us.archive.org",
-  "thahakhabar-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1319023785,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456651722,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1163476331,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

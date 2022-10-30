@@ -1,5 +1,5 @@
 {
-  "created": 1667059621,
+  "created": 1667100518,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/studyfindsorg-2022",
@@ -8180,31 +8180,82 @@
       "sha1": "a0442efb736e1345f80173a1319e882ae43f12f4"
     },
     {
+      "name": "studyfindsorg-2022-10-29T23:27:37.740790-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100464",
+      "size": "29964",
+      "md5": "837ce4b2c9284f7a3094030002f89b65",
+      "crc32": "4e34e11f",
+      "sha1": "26aa97a350531e7709a6d4628b30f63cc4d5cbc4",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-29T23:27:37.740790-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100466",
+      "size": "34039",
+      "md5": "46e5fb648acd1d16941d4a8954c59b2b",
+      "crc32": "5e92b997",
+      "sha1": "3254b05c7efe01627a7f8e7a81350fcf5d4abd45",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-29T23:27:37.740790-04:00.jpg",
+      "source": "original",
+      "mtime": "1667100463",
+      "size": "302954",
+      "md5": "f10a9b83a1c0ef4d0a06caf121bdb51e",
+      "crc32": "fa83600f",
+      "sha1": "cc2d34dc6247aba197bd72135d15604333f08e2e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-10-29T23:27:37.740790-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100467",
+      "size": "1459",
+      "md5": "d82033bbe0899d57a6ed57119c54ab99",
+      "crc32": "ca1f64cb",
+      "sha1": "0088fe25f61761d88dc2b5334e64d74339007586",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-10-29T23:27:37.740790-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100469",
+      "size": "32700",
+      "md5": "e9f4a992a42b93a9d2f12bf9749c5bc6",
+      "crc32": "6d58ff7b",
+      "sha1": "9be7ccd68ecdda46920bbb45b48ebf52109772ac",
+      "format": "JSON"
+    },
+    {
       "name": "studyfindsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d465808114fec1e219e918240cb0906b6bd42782",
-      "mtime": "1667056294",
-      "size": "171728",
-      "md5": "025e1b6cceb0d271652200cb13ced7f8",
-      "crc32": "ad16cc20",
-      "sha1": "2b8c1ab7fdd44aaac8a2f6a6a8d964eafabf49c9",
+      "btih": "ba63f9b6b8c78a49ddce0514d29864bf7c837b85",
+      "mtime": "1667100515",
+      "size": "172816",
+      "md5": "298c5b485f43b61427aa5329d705fc6e",
+      "crc32": "ee6d89fb",
+      "sha1": "2508e913c40bd2d109b611e109e81124988eac66",
       "format": "Archive BitTorrent"
     },
     {
       "name": "studyfindsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb96f454ff2460f8a091c95da4488747",
+      "md5": "9559468bebfcf6b0b84c045518ab0328",
       "summation": "md5"
     },
     {
       "name": "studyfindsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667055848",
-      "size": "1028096",
-      "md5": "a77b9e9ebf734ffcd6cea093db8f99b0",
-      "crc32": "5f956820",
-      "sha1": "01e179e18b5ba75e32ef42e2d4adb546582a75cc",
+      "mtime": "1667100474",
+      "size": "1032192",
+      "md5": "49afe40cc7e567dc92941743b0a03eb9",
+      "crc32": "ae39866a",
+      "sha1": "5e8c3fbeaeb14c96278ea9e432435a318e7078de",
       "format": "Metadata"
     },
     {
@@ -8218,9 +8269,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 795,
-  "item_last_updated": 1667056294,
-  "item_size": 51788343,
+  "files_count": 800,
+  "item_last_updated": 1667100515,
+  "item_size": 52194643,
   "metadata": {
     "identifier": "studyfindsorg-2022",
     "collection": [
@@ -8237,15 +8288,21 @@
     "publicdate": "2022-08-23 12:58:38",
     "addeddate": "2022-08-23 12:58:38"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "studyfindsorg-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1409674692,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456651543,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1215043545,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

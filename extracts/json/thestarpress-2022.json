@@ -1,5 +1,5 @@
 {
-  "created": 1667056815,
+  "created": 1667100665,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/11/items/thestarpress-2022",
@@ -4852,31 +4852,82 @@
       "sha1": "4e3940803813d52b42ff681501c8e5e27ecbeb70"
     },
     {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100608",
+      "size": "19113",
+      "md5": "062d02f9b820161b5cb1087d2f7d1999",
+      "crc32": "095349f4",
+      "sha1": "31257be3458a3c2e45f55a1a708cab890353ce13",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100610",
+      "size": "30924",
+      "md5": "35965573f6dd74b067bb47bcf74606b5",
+      "crc32": "2d651b07",
+      "sha1": "4cf414a6b45100edb7fefa05cdc512f7cf7581ea",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.jpg",
+      "source": "original",
+      "mtime": "1667100607",
+      "size": "241898",
+      "md5": "4f5d37831feb89bbdbbc12363739103f",
+      "crc32": "d8090ca0",
+      "sha1": "a4e6798bb50bda6e6d6c00eef6ab2c4fc9a3e74c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100611",
+      "size": "1513",
+      "md5": "5ee533f17c7e67c596360c37d0b3f4d9",
+      "crc32": "a6689757",
+      "sha1": "7bf6fece3b125dba0938dc76ea3ef3ba74eaadd7",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100612",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thestarpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ee25ca1aa121ffb822748959c01cb643b7267ab",
-      "mtime": "1667056785",
-      "size": "101907",
-      "md5": "084aa9031e0debcf5d8fb9d47f4a789b",
-      "crc32": "79ada0e2",
-      "sha1": "484f93dd7f2255cdf3d589a49fea4479a8835711",
+      "btih": "d3a34b5249821aa127cadc6e75f3991cc686bd1d",
+      "mtime": "1667100661",
+      "size": "102988",
+      "md5": "7847c36a407afa8a0796a62edc21d262",
+      "crc32": "bdd00f50",
+      "sha1": "f36a9beb1af6c3565eb13695f3c52c92075a9fbe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thestarpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e8d07cdc2c8830903634a8f5617910af",
+      "md5": "79918f187e1649cdecd0b406a5973b6e",
       "summation": "md5"
     },
     {
       "name": "thestarpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667056047",
-      "size": "614400",
-      "md5": "746deef4ff6b60537a4993887629e2fc",
-      "crc32": "a05b9dfe",
-      "sha1": "b62cfca00ce80308c88f2b51f788dfd2401331e0",
+      "mtime": "1667100620",
+      "size": "622592",
+      "md5": "6d363c2c7fd2a724861406395b1587a5",
+      "crc32": "30ded993",
+      "sha1": "28dd982df9b60e621a024996240de9b2930e84ed",
       "format": "Metadata"
     },
     {
@@ -4890,9 +4941,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 473,
-  "item_last_updated": 1667056785,
-  "item_size": 30404810,
+  "files_count": 478,
+  "item_last_updated": 1667100661,
+  "item_size": 30707733,
   "metadata": {
     "identifier": "thestarpress-2022",
     "collection": [
@@ -4909,10 +4960,21 @@
     "publicdate": "2022-09-21 03:45:24",
     "addeddate": "2022-09-21 03:45:24"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 636408895,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456652877,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1257912932,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }

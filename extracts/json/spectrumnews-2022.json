@@ -1,5 +1,5 @@
 {
-  "created": 1667056709,
+  "created": 1667100564,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/spectrumnews-2022",
@@ -14882,31 +14882,82 @@
       "sha1": "5d566f73e1165752a5fb80e2891d1e34db11e23e"
     },
     {
+      "name": "spectrumnews-2022-10-29T21:28:08.869705-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100496",
+      "size": "21006",
+      "md5": "6d3ba7bede16e1f13af9e0ce594b39b1",
+      "crc32": "630179af",
+      "sha1": "8330f2ce99cfdc81962a5dd68bf1df41c59bedc2",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-10-29T21:28:08.869705-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100497",
+      "size": "30112",
+      "md5": "403fac51ccb2e512e7503db1a5e6f2d1",
+      "crc32": "147fdf7b",
+      "sha1": "aac02d3b0e5694bf3524fd9463eacce9f4f15279",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-10-29T21:28:08.869705-06:00.jpg",
+      "source": "original",
+      "mtime": "1667100494",
+      "size": "235781",
+      "md5": "4552dba694fa82b69a80211eea2a41bd",
+      "crc32": "c69d559c",
+      "sha1": "3e65516b6a55effb1ed82b5efe74e5c5432110c9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-10-29T21:28:08.869705-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100499",
+      "size": "1504",
+      "md5": "e191b0c8e609e58922d972a1168ff5ff",
+      "crc32": "ec98b3e9",
+      "sha1": "c98281e59bed34772fd04ebc8d48bff02733571c",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-10-29T21:28:08.869705-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100500",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "spectrumnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "726cc4b461000ef635c92752ebead5af894c5eb4",
-      "mtime": "1667056543",
-      "size": "308638",
-      "md5": "d92ce3473c332d314d31a6f82591e589",
-      "crc32": "a5309100",
-      "sha1": "e34f0eb63d16497a24812718f76e9063563e8f0d",
+      "btih": "a44d2cecff0c2eb8ddcd934d8b344a4dec4ef044",
+      "mtime": "1667100561",
+      "size": "309719",
+      "md5": "4ac845a41a47bff66f142a8b5fb0ff1b",
+      "crc32": "6f0cf873",
+      "sha1": "e92819458262f83788f998a26254e6cf0a1f8dc9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectrumnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca20eab62135e0bd600c611cbc8e8603",
+      "md5": "7f1c57d665f6d4bd78a8d765824bf12e",
       "summation": "md5"
     },
     {
       "name": "spectrumnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667055887",
-      "size": "1802240",
-      "md5": "ce0c8c26ee05dc7cebffaa1aa68a115c",
-      "crc32": "3c354dc2",
-      "sha1": "fb96a30781d9c4e4f7f876e7dcf48cdf7dc60be1",
+      "mtime": "1667100506",
+      "size": "1806336",
+      "md5": "4fe73175c9bb968594b24b0f596532c7",
+      "crc32": "cb113b25",
+      "sha1": "e01f2d73d43d4836bc4129ae4ea8f02c059efeda",
       "format": "Metadata"
     },
     {
@@ -14920,9 +14971,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1438,
-  "item_last_updated": 1667056543,
-  "item_size": 97052411,
+  "files_count": 1443,
+  "item_last_updated": 1667100561,
+  "item_size": 97346193,
   "metadata": {
     "identifier": "spectrumnews-2022",
     "collection": [
@@ -14939,10 +14990,21 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 284540327,
+  "pending_tasks": true,
+  "server": "ia902507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456651981,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 842272952,
   "workable_servers": [
-    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

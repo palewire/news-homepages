@@ -1,5 +1,5 @@
 {
-  "created": 1667057647,
+  "created": 1667100637,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/thegleanernews-2022",
@@ -4852,31 +4852,82 @@
       "sha1": "c8e1c9a3a3a107863fee899572c2ed5bc11e8f45"
     },
     {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100562",
+      "size": "21185",
+      "md5": "4c22ed64da8065b2c845b32f09fe45b4",
+      "crc32": "45a4213b",
+      "sha1": "afc4a95b691dae61b54fb94583bc997f7c88ffde",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100563",
+      "size": "34644",
+      "md5": "6cfb8f74f27331bcd91aa8a3fd320d54",
+      "crc32": "283daeec",
+      "sha1": "4088540a218359e9fefe3b6d1ecd50f84f9cc323",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.jpg",
+      "source": "original",
+      "mtime": "1667100560",
+      "size": "257517",
+      "md5": "f3a6fc4edabf238c3714d4092592bfb8",
+      "crc32": "57afc209",
+      "sha1": "3bf8f4c36046899d04cf6ca45255d8be95a6a222",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100565",
+      "size": "1495",
+      "md5": "4f3e5f8ecacd28611967c0081ca47605",
+      "crc32": "33a590dd",
+      "sha1": "81d9aef7d59e7f426e21de12d6757053d54e08f1",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100567",
+      "size": "84923",
+      "md5": "b161042868795f77ede58e0c18916b00",
+      "crc32": "5a26562e",
+      "sha1": "130c31785d036969991d3b06c30f28efd259d307",
+      "format": "JSON"
+    },
+    {
       "name": "thegleanernews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f99579c38f715028b806515b77d23a0e4576fd28",
-      "mtime": "1667057479",
-      "size": "102768",
-      "md5": "9d7367f754a02d86637fd29a92f369e0",
-      "crc32": "41ca1ced",
-      "sha1": "9575b38d5e9ec3fd3f887b82b4ec22355099de63",
+      "btih": "1532b7a5b0b055ec831f0aa03689bd65be35d8ad",
+      "mtime": "1667100626",
+      "size": "103861",
+      "md5": "3f9f945e9ec8865d3c420b8835477753",
+      "crc32": "87bc6a9f",
+      "sha1": "2c9156b57763ae6a1d7ff09b16773f1081f40c97",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegleanernews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0cf04255422b8e92c15bf86c329d470a",
+      "md5": "4225adbd88ab657375c196d9250199cb",
       "summation": "md5"
     },
     {
       "name": "thegleanernews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667056048",
-      "size": "618496",
-      "md5": "e99a0b48d1e24599c9dbf695e8893a60",
-      "crc32": "affae4b4",
-      "sha1": "0d73984bf6a4ae18050a01595c71a27778314221",
+      "mtime": "1667100572",
+      "size": "630784",
+      "md5": "16b67ecf155f3d93c05ca437d94a5474",
+      "crc32": "ba1006c2",
+      "sha1": "ade06a0e3f3095bf7489e351b596cf8ad0967137",
       "format": "Metadata"
     },
     {
@@ -4890,9 +4941,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 473,
-  "item_last_updated": 1667057479,
-  "item_size": 28870243,
+  "files_count": 478,
+  "item_last_updated": 1667100626,
+  "item_size": 29283388,
   "metadata": {
     "identifier": "thegleanernews-2022",
     "collection": [
@@ -4909,10 +4960,21 @@
     "publicdate": "2022-09-21 03:44:35",
     "addeddate": "2022-09-21 03:44:35"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 577552212,
+  "pending_tasks": true,
+  "server": "ia601507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456652607,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 597843679,
   "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

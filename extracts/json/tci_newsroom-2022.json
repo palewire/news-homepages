@@ -1,5 +1,5 @@
 {
-  "created": 1667059637,
+  "created": 1667100540,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/12/items/tci_newsroom-2022",
@@ -4842,31 +4842,82 @@
       "sha1": "6914df5424f4d92caeb132f278f3d1b6322cd448"
     },
     {
+      "name": "tci_newsroom-2022-10-29T23:28:04.721196-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100490",
+      "size": "22051",
+      "md5": "40424d63790e4e0fa18fd2af6064b4f7",
+      "crc32": "5b8c4f5b",
+      "sha1": "8351c93ce6f141a9d8083ba7ef9d20f0f8660e92",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-29T23:28:04.721196-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100491",
+      "size": "36541",
+      "md5": "e3b668b439f81bd888b30fdf4b9bf153",
+      "crc32": "1993ca99",
+      "sha1": "bf9bfcb4efb1c8cd98a739b3ce319fbc2ea86a84",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-29T23:28:04.721196-04:00.jpg",
+      "source": "original",
+      "mtime": "1667100488",
+      "size": "280107",
+      "md5": "8592c0608d98befd7b341eca6b03a1c5",
+      "crc32": "0984a1c9",
+      "sha1": "7c580943b705b4edee493d23be985d9e8a48c8d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tci_newsroom-2022-10-29T23:28:04.721196-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100492",
+      "size": "1585",
+      "md5": "b590f4773184873eff75494512aa7756",
+      "crc32": "40f21659",
+      "sha1": "68175f039027297c934d09e4c2b52b87ac29af4a",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-10-29T23:28:04.721196-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100494",
+      "size": "86248",
+      "md5": "a08d1d1f22987209295f25604bc28cb6",
+      "crc32": "667d3661",
+      "sha1": "9e57d98cbdb844719e2c51397d6d394f34c3985b",
+      "format": "JSON"
+    },
+    {
       "name": "tci_newsroom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "588c7b97fc6007d7eef25e6f4c2f913a81645578",
-      "mtime": "1667056440",
-      "size": "101807",
-      "md5": "990a52322e734e7ba09e7c147f137d21",
-      "crc32": "09d48b12",
-      "sha1": "2a4a36bac11ea1cfbecb11cae7b4a509728c0d35",
+      "btih": "600d86e6c13aca0773e4d1048fe0f941afe01703",
+      "mtime": "1667100537",
+      "size": "102870",
+      "md5": "4b26344ad4ebb249dbd171fcbea2307b",
+      "crc32": "56cdd4f7",
+      "sha1": "1b0a2c55dd97a5360a28ddc9d15fd4539acb3962",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tci_newsroom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "239e05cf498c0c61f90ceedd8223934b",
+      "md5": "f9796522482aa2b6123d67fbda8544e0",
       "summation": "md5"
     },
     {
       "name": "tci_newsroom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667055864",
-      "size": "614400",
-      "md5": "601b29010b8af1f2e142d46f86e5ad15",
-      "crc32": "e7579888",
-      "sha1": "ac12cc5ab207113bdf3db5331d77959ab56c3bec",
+      "mtime": "1667100499",
+      "size": "622592",
+      "md5": "a9ec135cb307c57c90081d49b024176c",
+      "crc32": "a31851d1",
+      "sha1": "a9136294fd9549786a6e2a8bdbc18fe905f3c063",
       "format": "Metadata"
     },
     {
@@ -4880,9 +4931,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 472,
-  "item_last_updated": 1667056440,
-  "item_size": 32622160,
+  "files_count": 477,
+  "item_last_updated": 1667100537,
+  "item_size": 33057947,
   "metadata": {
     "identifier": "tci_newsroom-2022",
     "collection": [
@@ -4899,15 +4950,21 @@
     "publicdate": "2022-09-21 03:42:55",
     "addeddate": "2022-09-21 03:42:55"
   },
-  "server": "ia801403.us.archive.org",
-  "tci_newsroom-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1618441775,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456651741,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1198204810,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667058279,
+  "created": 1667100704,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/1/items/timesherald-2022",
@@ -11922,31 +11922,82 @@
       "sha1": "1a81b0b74b212eac8ae723e9a8ab938582113498"
     },
     {
+      "name": "timesherald-2022-10-29T23:30:26.694054-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100636",
+      "size": "35199",
+      "md5": "110445377bed327cd4b55cf7ded1b8a4",
+      "crc32": "e32488b0",
+      "sha1": "120b08205bfbc11ded97af8e44c449d5c9f3f34d",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-10-29T23:30:26.694054-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100637",
+      "size": "25525",
+      "md5": "0fe18b8d4a6db7f54c30dbcdb25098f4",
+      "crc32": "8b28e512",
+      "sha1": "8e70af7e820b751f8f4cd07efdafd48a571ba24d",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-10-29T23:30:26.694054-04:00.jpg",
+      "source": "original",
+      "mtime": "1667100634",
+      "size": "283549",
+      "md5": "dee89fedc265f378d23e5842abb9f9b2",
+      "crc32": "87f640a5",
+      "sha1": "d18d647e2b1406efd89bc9a06df1e0717b871a63",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "timesherald-2022-10-29T23:30:26.694054-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100639",
+      "size": "1477",
+      "md5": "832d68f30cf257421db3cce7e46eead2",
+      "crc32": "9778d9f4",
+      "sha1": "a7509722e798c33c0b8fcbff595e1e32f74b2b27",
+      "format": "JSON"
+    },
+    {
+      "name": "timesherald-2022-10-29T23:30:26.694054-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100640",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "timesherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da615b591a4d0d2540a24df4e04cab52aa374d28",
-      "mtime": "1667057889",
-      "size": "246819",
-      "md5": "a13084877a71798771f33027d3919635",
-      "crc32": "f0be758b",
-      "sha1": "f3c0910e81a558b8140dff42577553a0f65bb2bb",
+      "btih": "177d8768ad6ed5fd271994408884733f12c759e7",
+      "mtime": "1667100698",
+      "size": "247875",
+      "md5": "ff80bdd621a09d3ed51955aaac744c76",
+      "crc32": "02b69daa",
+      "sha1": "930b6950b49e7455b6630e8918c98ee1449d9d3e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8d829a586fc2ffbdffd33c5d61741119",
+      "md5": "aca1d80fb59825a3323d7db6bd34210a",
       "summation": "md5"
     },
     {
       "name": "timesherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667056248",
-      "size": "1470464",
-      "md5": "33fdb607adbca08be04b1cbdc7603ae0",
-      "crc32": "d9500fcf",
-      "sha1": "b0ce0985a047306c9343286f2755489baa62bf2b",
+      "mtime": "1667100647",
+      "size": "1482752",
+      "md5": "9ff644d3d42a2a6942f13421f092396b",
+      "crc32": "252b4e87",
+      "sha1": "2a9bb15cd80e97f54167f51f4ee7142b9aa16bf5",
       "format": "Metadata"
     },
     {
@@ -11960,9 +12011,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1156,
-  "item_last_updated": 1667057889,
-  "item_size": 71164668,
+  "files_count": 1161,
+  "item_last_updated": 1667100698,
+  "item_size": 71523964,
   "metadata": {
     "identifier": "timesherald-2022",
     "collection": [
@@ -11979,10 +12030,21 @@
     "publicdate": "2022-07-20 23:31:58",
     "addeddate": "2022-07-20 23:31:58"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1628362269,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456653463,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 104432077,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

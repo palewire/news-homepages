@@ -1,5 +1,5 @@
 {
-  "created": 1667059589,
+  "created": 1667100533,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/17/items/spokesmanreview-2022",
@@ -13442,31 +13442,82 @@
       "sha1": "06faa779c6b7e0dc6a002c5267d7d02bd9bfbb97"
     },
     {
+      "name": "spokesmanreview-2022-10-29T20:27:26.897471-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100455",
+      "size": "1028",
+      "md5": "b302ed60f57dece12d9809eb6e600a63",
+      "crc32": "413a7b82",
+      "sha1": "fe19681a9090b3025a78c19f5473ad1fd82009fc",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-10-29T20:27:26.897471-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100457",
+      "size": "48733",
+      "md5": "4a97279fc6714638e4ab02b58088a6b3",
+      "crc32": "544f3fb0",
+      "sha1": "74ed6d6071ca9bf22f77f9665dab817b008b9eb4",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-10-29T20:27:26.897471-07:00.jpg",
+      "source": "original",
+      "mtime": "1667100452",
+      "size": "334387",
+      "md5": "b1d767266d91c192a3aa9509ec07c1a2",
+      "crc32": "90039712",
+      "sha1": "09b6b12866d0edc7dab297ebdcda607ac2f1ef93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spokesmanreview-2022-10-29T20:27:26.897471-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100458",
+      "size": "1480",
+      "md5": "7eaa5e36e2d643c69237ced4d88d8951",
+      "crc32": "34d7bf0c",
+      "sha1": "11aaaf784249e20e86852c3abc63938bb8747921",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-10-29T20:27:26.897471-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100460",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "spokesmanreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3251d486786f80f0d977591371baaf74cf0c15f8",
-      "mtime": "1667056853",
-      "size": "283384",
-      "md5": "c2d18c8309cc764395742cab03e5abdd",
-      "crc32": "32ddc605",
-      "sha1": "f361cbeb16bb55c70b708c7f94a82f10488172b6",
+      "btih": "63a81155beaba82f6ca291e9cf84335fbe2f748d",
+      "mtime": "1667100528",
+      "size": "284479",
+      "md5": "35ad5946a278a3e3f10b4d897e0a2041",
+      "crc32": "8785552d",
+      "sha1": "75e75df9b75596623a22246aa73474cfd79e1f98",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spokesmanreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "655e28ad037af6392d68ee4e9a52f716",
+      "md5": "565ef6a3dbcfd47b4a61d35366c70fb4",
       "summation": "md5"
     },
     {
       "name": "spokesmanreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667055871",
-      "size": "1650688",
-      "md5": "e2b8961d56ca68a44e3c355e9409a772",
-      "crc32": "07edbcdb",
-      "sha1": "31d1715b6aec338447f9af33a27efab57d5a3470",
+      "mtime": "1667100469",
+      "size": "1658880",
+      "md5": "a59253f7cf3a66ea81b09c2af5fb73a9",
+      "crc32": "2d5dd6f0",
+      "sha1": "029cf5a393b747cc2b1f2f384bece168b883a553",
       "format": "Metadata"
     },
     {
@@ -13480,9 +13531,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1301,
-  "item_last_updated": 1667056853,
-  "item_size": 94452477,
+  "files_count": 1306,
+  "item_last_updated": 1667100528,
+  "item_size": 94847594,
   "metadata": {
     "identifier": "spokesmanreview-2022",
     "collection": [
@@ -13499,15 +13550,21 @@
     "publicdate": "2022-07-04 21:45:27",
     "addeddate": "2022-07-04 21:45:27"
   },
-  "server": "ia801503.us.archive.org",
-  "spokesmanreview-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 842231713,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456651680,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 667786699,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }
