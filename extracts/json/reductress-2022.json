@@ -1,5 +1,5 @@
 {
-  "created": 1667053869,
+  "created": 1667095889,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/34/items/reductress-2022",
@@ -9326,31 +9326,82 @@
       "sha1": "9e9da70b73c9ab46dc9c913244e4880a6f6476a8"
     },
     {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095825",
+      "size": "19592",
+      "md5": "69fd49a236f766424a10847a12d8e62a",
+      "crc32": "c14a3285",
+      "sha1": "2199b1ef76017a9a3e40fd95e4017d0edcb0f7f9",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095826",
+      "size": "19968",
+      "md5": "a21d076636a37e79272b24c190d6fe4a",
+      "crc32": "e18657fc",
+      "sha1": "f35cb1d80c53e6b715d489c7f48d59600b0808a0",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.jpg",
+      "source": "original",
+      "mtime": "1667095823",
+      "size": "295924",
+      "md5": "5cd9ad781d62a1fb1e96cd7e5797c543",
+      "crc32": "efd82bb7",
+      "sha1": "512578e4cc4494f8656f5f3b8742b3071ead63d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095828",
+      "size": "1458",
+      "md5": "2ce1cb7912fa87eae4cefdc32935ef92",
+      "crc32": "90f9ed76",
+      "sha1": "809f7cfd0560beb1cf540dbf1b127c84a9171b58",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095829",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "reductress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4723c377a99e40986eff037c3d2538bf0ad6fb0",
-      "mtime": "1667053852",
-      "size": "192967",
-      "md5": "25ff26d68c0f73f36555ab9cc3443543",
-      "crc32": "3bb07413",
-      "sha1": "b9949b9c78b472ab161ab770146b0ec244228d53",
+      "btih": "d05bc4f0db5783c4d356ce5c15b27e96272256dc",
+      "mtime": "1667095885",
+      "size": "194038",
+      "md5": "ed9515d63c622d934fce2f05fb5c7167",
+      "crc32": "009bf50a",
+      "sha1": "d6ebbfdb5f1fd1af4dc257fe1a670a229b645594",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reductress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52fc99a86ec49010f182cfa897492910",
+      "md5": "5833edb12604c6aa822341a293cb7f51",
       "summation": "md5"
     },
     {
       "name": "reductress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667052572",
-      "size": "1167360",
-      "md5": "90d64c87e17347bfe8da22370665f431",
-      "crc32": "2825b631",
-      "sha1": "2de185c719c8e387749edcfc7f408cafa4b45877",
+      "mtime": "1667095836",
+      "size": "1171456",
+      "md5": "d95f9c561306f5f86cb9fa3c60804967",
+      "crc32": "57da07ea",
+      "sha1": "9cc94744c6cf1d561aa734d99f598f10b438d8b9",
       "format": "Metadata"
     },
     {
@@ -9364,9 +9415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 906,
-  "item_last_updated": 1667053852,
-  "item_size": 60347687,
+  "files_count": 911,
+  "item_last_updated": 1667095885,
+  "item_size": 60689998,
   "metadata": {
     "identifier": "reductress-2022",
     "collection": [
@@ -9383,10 +9434,21 @@
     "publicdate": "2022-08-15 01:29:39",
     "addeddate": "2022-08-15 01:29:39"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 43852069,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456608723,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1858935574,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667053938,
+  "created": 1667095922,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/6/items/sahanjournal-2022",
@@ -19638,31 +19638,82 @@
       "sha1": "1e8b19df3bb314adbf3c8eef095d3277aa08cfca"
     },
     {
+      "name": "sahanjournal-2022-10-29T21:10:34.619588-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095845",
+      "size": "31034",
+      "md5": "face1f5b841b987fe75e90a733777c6c",
+      "crc32": "a5fa77bd",
+      "sha1": "6e1794e411bf38b98e0d2445d158d282b4c98741",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-10-29T21:10:34.619588-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095847",
+      "size": "34479",
+      "md5": "70f75b88c575b62f22547b6582f060c3",
+      "crc32": "202e56ba",
+      "sha1": "e848b1dd6d37736aff1f4135e0a0bc3feaa15f00",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-10-29T21:10:34.619588-05:00.jpg",
+      "source": "original",
+      "mtime": "1667095843",
+      "size": "258529",
+      "md5": "fd9faecedc3aeae26ba099c78d79e193",
+      "crc32": "fe8a1f68",
+      "sha1": "b8a46e7f5b68be9393533cdd883cd8674499353c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sahanjournal-2022-10-29T21:10:34.619588-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095848",
+      "size": "1476",
+      "md5": "6af9751454bd02318c430f1649c686c5",
+      "crc32": "fb05a304",
+      "sha1": "a3ceeb142751075f86f4b42106781135dfecca6e",
+      "format": "JSON"
+    },
+    {
+      "name": "sahanjournal-2022-10-29T21:10:34.619588-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095849",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "sahanjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "526e9fb978426f724d20ad8ce9161a0cae831687",
-      "mtime": "1667053922",
-      "size": "406300",
-      "md5": "e58e157cc70216414314aff4ed84d329",
-      "crc32": "1b633975",
-      "sha1": "ac88dc3a39c24ec7c41759d8c825e7ec1f156d1c",
+      "btih": "bc40b2599e1260edd99a30d5c2378d01d653eca3",
+      "mtime": "1667095914",
+      "size": "407381",
+      "md5": "d4eabcff19964a54f84d22cdaa7a9be4",
+      "crc32": "047607a6",
+      "sha1": "41fb79ddefd7fd6f75ebb12646cf1417d0b6302a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sahanjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "55e8d4e5ccd8bd5f5d36a0f97d18ee85",
+      "md5": "8a451f2c716214290badd83c5d591461",
       "summation": "md5"
     },
     {
       "name": "sahanjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667052624",
-      "size": "2318336",
-      "md5": "0ceabcd17c3f11123cf6901b8ce497bc",
-      "crc32": "331ccf78",
-      "sha1": "da7deac7951ec525eb353256e194b3a30a493434",
+      "mtime": "1667095856",
+      "size": "2326528",
+      "md5": "d5b1f4db87adf61ff9bdf3795228c73d",
+      "crc32": "4df7c008",
+      "sha1": "554abf953e2c8c5a51044c9371a0c1aca1c0dbb5",
       "format": "Metadata"
     },
     {
@@ -19676,9 +19727,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1891,
-  "item_last_updated": 1667053922,
-  "item_size": 140074401,
+  "files_count": 1896,
+  "item_last_updated": 1667095914,
+  "item_size": 140409394,
   "metadata": {
     "identifier": "sahanjournal-2022",
     "collection": [
@@ -19695,10 +19746,21 @@
     "publicdate": "2022-04-01 22:42:14",
     "addeddate": "2022-04-01 22:42:14"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 4252472,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456609049,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2066900682,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

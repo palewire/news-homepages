@@ -1,5 +1,5 @@
 {
-  "created": 1667054006,
+  "created": 1667095852,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/9/items/rato_pati-2022",
@@ -11776,31 +11776,82 @@
       "sha1": "2536c2fc96259b44c4348ad012d05cb9d3b97141"
     },
     {
+      "name": "rato_pati-2022-10-30T07:54:35.681841+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667095789",
+      "size": "113502",
+      "md5": "5872be1833b7bd89785a164a68bd26dd",
+      "crc32": "14cb93ef",
+      "sha1": "ff4aa40c4701679017ca60ee12495f113e7294a1",
+      "format": "JSON"
+    },
+    {
+      "name": "rato_pati-2022-10-30T07:54:35.681841+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095791",
+      "size": "105279",
+      "md5": "247d3022721a8d6dc3f21221133eaacc",
+      "crc32": "65543577",
+      "sha1": "959fc770eb84917e874874788cd2c8cc31eff731",
+      "format": "JSON"
+    },
+    {
+      "name": "rato_pati-2022-10-30T07:54:35.681841+05:45.jpg",
+      "source": "original",
+      "mtime": "1667095788",
+      "size": "223420",
+      "md5": "30da7562388268fdd314410a4d9c3781",
+      "crc32": "09a52625",
+      "sha1": "b1641536e9fb43fd7dc5454672f8af9fd2330a0c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rato_pati-2022-10-30T07:54:35.681841+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095793",
+      "size": "1440",
+      "md5": "d79002ef5dbe947486620525662a6bd5",
+      "crc32": "a99f728c",
+      "sha1": "9d2614d3e9724baad809b5affe56c0ac7c3f7498",
+      "format": "JSON"
+    },
+    {
+      "name": "rato_pati-2022-10-30T07:54:35.681841+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667095794",
+      "size": "31934",
+      "md5": "2f08d557af3c5d6196e82e61dfaed5af",
+      "crc32": "14383da6",
+      "sha1": "0dbac9f9aabf7ac4afa02bbc350c6c16cbd8fb2a",
+      "format": "JSON"
+    },
+    {
       "name": "rato_pati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e5b4c122f0af49a5421306910ab5799e50f0924",
-      "mtime": "1667053957",
-      "size": "243143",
-      "md5": "f0f9363c65ec79d054840a27125b14e4",
-      "crc32": "3d9108ad",
-      "sha1": "32f31ab0ca05479679c05164d24346058c328bb6",
+      "btih": "573fa82d003740d4bb3e87d3eb5646f7f0114ae7",
+      "mtime": "1667095846",
+      "size": "244213",
+      "md5": "8d46af718fce52bf2fcab267ab38f1d5",
+      "crc32": "2a99cbf0",
+      "sha1": "bb0c159fab39844265ededed7d0fa95018863910",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rato_pati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61caf4223495eccc8f66d0c241e7e885",
+      "md5": "68e7be8307ee1ac0eeb623efe2516079",
       "summation": "md5"
     },
     {
       "name": "rato_pati-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667052604",
-      "size": "1454080",
-      "md5": "b8235f06ce24ff7af7d0364bd947495f",
-      "crc32": "ef7c4431",
-      "sha1": "3c44644e53e4228ab59738cf4a5fbab0ba7ad1ee",
+      "mtime": "1667095801",
+      "size": "1462272",
+      "md5": "aca944e06468a30448543c6d88d0daeb",
+      "crc32": "01609dd1",
+      "sha1": "c83ff8a7c57ee0e687cbc8afd9e2a9097aafb4aa",
       "format": "Metadata"
     },
     {
@@ -11814,9 +11865,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1142,
-  "item_last_updated": 1667053957,
-  "item_size": 96608125,
+  "files_count": 1147,
+  "item_last_updated": 1667095846,
+  "item_size": 97092962,
   "metadata": {
     "identifier": "rato_pati-2022",
     "collection": [
@@ -11833,10 +11884,21 @@
     "publicdate": "2022-07-24 20:38:50",
     "addeddate": "2022-07-24 20:38:50"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 1764378770,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456608359,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 336389606,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }

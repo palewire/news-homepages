@@ -1,5 +1,5 @@
 {
-  "created": 1667053678,
+  "created": 1667095744,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/18/items/newyorker-2022",
@@ -14822,31 +14822,82 @@
       "sha1": "2dca7478669bd0c788f1f7d4ffa715701a3cb74d"
     },
     {
+      "name": "newyorker-2022-10-29T22:07:01.175139-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095624",
+      "size": "48059",
+      "md5": "8f07ef7557add750dcfc8974c1008d0d",
+      "crc32": "4ba238f3",
+      "sha1": "9ba3d602ff417284dea09ec7e01649944b60d4c1",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-29T22:07:01.175139-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095626",
+      "size": "26600",
+      "md5": "6e4a29e812fb6887bf8045bf2d8379c9",
+      "crc32": "a08fbebe",
+      "sha1": "09851e066bfa2b59cf4f3535713fcba758086fc3",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-29T22:07:01.175139-04:00.jpg",
+      "source": "original",
+      "mtime": "1667095623",
+      "size": "273141",
+      "md5": "0d9e0aed966c2f484034af793a0b45f4",
+      "crc32": "c0c944e5",
+      "sha1": "3e1c8b9c06a61e8d22683cd3983e1a8c6422030b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newyorker-2022-10-29T22:07:01.175139-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095628",
+      "size": "1477",
+      "md5": "d7a00e4ab41eb72313ba9587ecd7a8ac",
+      "crc32": "b3ee1d3d",
+      "sha1": "cac175f51ee034e591eef4b064cc0aa296352ef9",
+      "format": "JSON"
+    },
+    {
+      "name": "newyorker-2022-10-29T22:07:01.175139-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095629",
+      "size": "132536",
+      "md5": "2feaaad695b01fe47656b6cc8dae3d4f",
+      "crc32": "4bdb98df",
+      "sha1": "4efcef5497e40ff081f19c4683f6105f265a077d",
+      "format": "JSON"
+    },
+    {
       "name": "newyorker-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e92cb8e9556011b7abb64797c6e42923c7ce5faa",
-      "mtime": "1667053605",
-      "size": "303477",
-      "md5": "480dd5e9c68117c8634cea0b5d673713",
-      "crc32": "01ca65e5",
-      "sha1": "922695e6841414cca019d3c05f0e40b917afb8e1",
+      "btih": "ae93e95a89aa8205ec07525b048e361f8ec51d11",
+      "mtime": "1667095726",
+      "size": "304546",
+      "md5": "ba53023191aba652c3a18526e0206fb2",
+      "crc32": "5ccf17c1",
+      "sha1": "b0d2056967d6ee501ccc652577cbda0677fc905e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newyorker-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad546b9a93ac69890a97e76daec5383a",
+      "md5": "e6da5907c7ba0718bcef39cbde0729fe",
       "summation": "md5"
     },
     {
       "name": "newyorker-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667052209",
-      "size": "1781760",
-      "md5": "cc83c5377b92684c6a276e8880de254c",
-      "crc32": "95363704",
-      "sha1": "9f52a22bd111b02274da2c82bd85509f9f6a9223",
+      "mtime": "1667095647",
+      "size": "1785856",
+      "md5": "f0bb97ce0a2534f9db65412f70c82259",
+      "crc32": "79a67cbc",
+      "sha1": "04c7ec4849af93370f9441957ef649c1f6a431df",
       "format": "Metadata"
     },
     {
@@ -14860,9 +14911,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1432,
-  "item_last_updated": 1667053605,
-  "item_size": 108914680,
+  "files_count": 1437,
+  "item_last_updated": 1667095726,
+  "item_size": 109401658,
   "metadata": {
     "identifier": "newyorker-2022",
     "collection": [
@@ -14879,10 +14930,21 @@
     "publicdate": "2022-06-24 22:58:35",
     "addeddate": "2022-06-24 22:58:35"
   },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 1761605120,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456607206,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 421030967,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }

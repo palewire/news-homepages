@@ -1,5 +1,6 @@
 {
-  "created": 1667055483,
+  "conflict": 1667096080,
+  "created": 1667096080,
   "d1": "ia904705.us.archive.org",
   "d2": "ia804705.us.archive.org",
   "dir": "/8/items/oaklandside-2022",
@@ -20859,10 +20860,21 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "server": "ia804705.us.archive.org",
-  "uniq": 341672275,
+  "pending_tasks": true,
+  "server": "ia904705.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456607060,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 185586371,
   "workable_servers": [
-    "ia804705.us.archive.org",
     "ia904705.us.archive.org"
   ]
 }

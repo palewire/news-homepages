@@ -1,5 +1,5 @@
 {
-  "created": 1667054173,
+  "created": 1667095929,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/29/items/savannahnow-2022",
@@ -12152,31 +12152,82 @@
       "sha1": "f9edb873d8719bb53f9fbfa093d4dadedf3baa31"
     },
     {
+      "name": "savannahnow-2022-10-29T22:10:49.353046-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095855",
+      "size": "22912",
+      "md5": "61942594bd1ecdeb49ad1c074418669f",
+      "crc32": "5e264a55",
+      "sha1": "fe3eeedb8e277bf1b4bac63df10a32ca9c128c1f",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-29T22:10:49.353046-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095857",
+      "size": "31598",
+      "md5": "db7e0561fd2f2ae7da4f0c8f11fd5df6",
+      "crc32": "7464e54d",
+      "sha1": "b859b431b9c2c4cb6692e471dc72809711004b45",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-29T22:10:49.353046-04:00.jpg",
+      "source": "original",
+      "mtime": "1667095854",
+      "size": "244771",
+      "md5": "7ad153d1a181e2957041a4e103fcbf61",
+      "crc32": "7fafa695",
+      "sha1": "b45f2ecda6f3513fbb29e6ee3b94228ee8aa0532",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "savannahnow-2022-10-29T22:10:49.353046-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095859",
+      "size": "1504",
+      "md5": "e41b563d34fd80908d0d82c7bb858a97",
+      "crc32": "e2ed9475",
+      "sha1": "f54c4b5d0b6f1dbd6bd87fa345f24358feaf73b5",
+      "format": "JSON"
+    },
+    {
+      "name": "savannahnow-2022-10-29T22:10:49.353046-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095860",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "savannahnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "44f616268e1fd88d5158e67464b52f2887da2d16",
-      "mtime": "1667053907",
-      "size": "251969",
-      "md5": "95942f9b6a4cd395003c51361709750d",
-      "crc32": "7cb26ecc",
-      "sha1": "faae5a287310368413d71304f8e7baa44eeb4b42",
+      "btih": "32af7e1e572ea290d50ddcb01fe788a860eaaeae",
+      "mtime": "1667095924",
+      "size": "253045",
+      "md5": "ab90bfea7be8d54bf00cc674e3ab740f",
+      "crc32": "6cdcd495",
+      "sha1": "d86e85a458a864b82cbd522bc38b6e2244f329c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "savannahnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "80de9a563bc8dc30b1b5def5b2b09913",
+      "md5": "8764c947b63b7d10e2db0193766930be",
       "summation": "md5"
     },
     {
       "name": "savannahnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667052572",
-      "size": "1503232",
-      "md5": "7ce5190ac1b32206540e4f8a353865f8",
-      "crc32": "effccd20",
-      "sha1": "e998aa42b4c0225a526aef7f43ab5ecb681fd623",
+      "mtime": "1667095868",
+      "size": "1507328",
+      "md5": "8cb49d39fb9a3c192f7c00ef564f0afd",
+      "crc32": "0ce72e0b",
+      "sha1": "70b808b89e67e2c9d5c6c542c88dd987486fc48d",
       "format": "Metadata"
     },
     {
@@ -12190,9 +12241,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1178,
-  "item_last_updated": 1667053907,
-  "item_size": 81822632,
+  "files_count": 1183,
+  "item_last_updated": 1667095924,
+  "item_size": 82128791,
   "metadata": {
     "identifier": "savannahnow-2022",
     "collection": [
@@ -12209,10 +12260,21 @@
     "publicdate": "2022-07-20 23:31:15",
     "addeddate": "2022-07-20 23:31:15"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 347910404,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456609119,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 117355902,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }
