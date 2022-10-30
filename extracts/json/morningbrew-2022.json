@@ -1,5 +1,6 @@
 {
-  "created": 1667066252,
+  "conflict": 1667108670,
+  "created": 1667108670,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/4/items/morningbrew-2022",
@@ -10704,31 +10705,88 @@
       "sha1": "07d1425972a55d2cbab5ca5f6926b5354b0f9875"
     },
     {
+      "name": "morningbrew-2022-10-30T01:33:16.975771-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667108001",
+      "size": "10593",
+      "md5": "aca6d012be3e58acd29607c99416da00",
+      "crc32": "e2ef15ed",
+      "sha1": "ecca995fe9d804b2c3cb0df26d50f65578c49687",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-10-30T01:33:16.975771-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667108003",
+      "size": "9316",
+      "md5": "ad0a0c0aa4ec2abe82dacc81af383b65",
+      "crc32": "03d73bfd",
+      "sha1": "5070b51e0697d8f2cb56961d94a54369c3d67a6e",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-10-30T01:33:16.975771-04:00.jpg",
+      "source": "original",
+      "mtime": "1667108000",
+      "size": "273081",
+      "md5": "b1d777daba572cadba2a01bf8a46e7c0",
+      "crc32": "541f39f0",
+      "sha1": "e9a663ca8e567665d9cf32e0519c7cadcaddd65d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "morningbrew-2022-10-30T01:33:16.975771-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667108004",
+      "size": "1549",
+      "md5": "3167177176e62df70241f2a03a3ec349",
+      "crc32": "b68455d1",
+      "sha1": "326768c6643a19b7253227ba64026e01918cfe96",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-10-30T01:33:16.975771-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667108006",
+      "size": "17545",
+      "md5": "c05af42a1040bc2813324416c23d93e7",
+      "crc32": "dad0e57e",
+      "sha1": "b41f77eee4ce2ae575ace7e37072febbd179d2b5",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-10-30T01:33:16.975771-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "morningbrew-2022-10-30T01:33:16.975771-04:00.jpg"
+    },
+    {
       "name": "morningbrew-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c44e30a3a41a05247af5433ada51dd06c0b2f6f8",
-      "mtime": "1667066186",
-      "size": "221632",
-      "md5": "b837d2239041a9f5445755d2179f5585",
-      "crc32": "f6371341",
-      "sha1": "4fb4f0f9db52955d3d233c342796b0880a059ee1",
+      "btih": "ee57effeb792c1de67e15d971e65b5ad205116ca",
+      "mtime": "1667108061",
+      "size": "222709",
+      "md5": "fbc13eae78e5da065423cec9e70e91d9",
+      "crc32": "5f67abf3",
+      "sha1": "a8ebc5a0b1a9e77e0e15e5b38d02c659c0aa2c93",
       "format": "Archive BitTorrent"
     },
     {
       "name": "morningbrew-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd19364595360ddc4efb0e72b69568e3",
+      "md5": "889e45ae721aea97307a89ec681ce825",
       "summation": "md5"
     },
     {
       "name": "morningbrew-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667065721",
-      "size": "1335296",
-      "md5": "60b0d62f80ad824d400522472011a045",
-      "crc32": "657aad96",
-      "sha1": "a8121d38f7e0a29fb6371ad3d7ef059a5e603476",
+      "mtime": "1667108013",
+      "size": "1343488",
+      "md5": "a91e705ca4def8ea782cb1721a96b689",
+      "crc32": "7dd2c595",
+      "sha1": "ed4bcf05b59f593bc04fc2d288bc2f3bcba27073",
       "format": "Metadata"
     },
     {
@@ -10742,9 +10800,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1039,
-  "item_last_updated": 1667066186,
-  "item_size": 56187282,
+  "files_count": 1045,
+  "item_last_updated": 1667108061,
+  "item_size": 56508635,
   "metadata": {
     "identifier": "morningbrew-2022",
     "collection": [
@@ -10761,10 +10819,21 @@
     "publicdate": "2022-08-02 14:59:20",
     "addeddate": "2022-08-02 14:59:20"
   },
+  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "uniq": 1686206592,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456732048,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1100983218,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }

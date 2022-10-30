@@ -1,5 +1,6 @@
 {
-  "created": 1667066181,
+  "conflict": 1667108371,
+  "created": 1667108371,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/1/items/injusticewatch-2022",
@@ -19144,31 +19145,88 @@
       "sha1": "4f30eb4c010b313030538e388d934598f477eb21"
     },
     {
+      "name": "injusticewatch-2022-10-30T00:29:36.917184-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107801",
+      "size": "12099",
+      "md5": "0f3237f44c23152cccc7dc4440b39819",
+      "crc32": "95bc86dd",
+      "sha1": "65c0cb0dc47a69be617543c2a5f09f5a3b58174c",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-10-30T00:29:36.917184-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107803",
+      "size": "11868",
+      "md5": "857f69a591df6b1d8820a38f371f66c4",
+      "crc32": "14052c5d",
+      "sha1": "cbd46e2455627cf27f2f82ec119f434a4cef0b00",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-10-30T00:29:36.917184-05:00.jpg",
+      "source": "original",
+      "mtime": "1667107799",
+      "size": "284754",
+      "md5": "a1b74650de14f358a0dc4f3c7c3c5c5c",
+      "crc32": "674a4062",
+      "sha1": "b3ff3eae71abe871545caa120f79e0d2d6f32162",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "injusticewatch-2022-10-30T00:29:36.917184-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107804",
+      "size": "1519",
+      "md5": "177051f0cafc9670c88cb7c09e33a11d",
+      "crc32": "04fa370a",
+      "sha1": "eb7fde47164150bde229d887724e8817cfe05bf6",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-10-30T00:29:36.917184-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107806",
+      "size": "11495",
+      "md5": "0fb720a33a0bf8f9a7738f3c37ac374b",
+      "crc32": "68011154",
+      "sha1": "23386974d87a1fc004718a1acea36c2b12db07c7",
+      "format": "JSON"
+    },
+    {
+      "name": "injusticewatch-2022-10-30T00:29:36.917184-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "injusticewatch-2022-10-30T00:29:36.917184-05:00.jpg"
+    },
+    {
       "name": "injusticewatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da89d1b155bc0ef5c4016c662ac562e95922c66e",
-      "mtime": "1667066127",
-      "size": "400885",
-      "md5": "f60c9d3b823c37d93c95e44aaecf380c",
-      "crc32": "9bac4a71",
-      "sha1": "3e5374e9ab719c210f6858bf42381a80fc6219b8",
+      "btih": "bea8ed93ee38a172bb22b31cda564f91e2f8da22",
+      "mtime": "1667107874",
+      "size": "401958",
+      "md5": "86f97e8b059b898f8a06120a5e0acdb9",
+      "crc32": "1dac81fa",
+      "sha1": "93bcf1603105b8ed19127b224749e20ee7b6da0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "injusticewatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc15e360c2ce6e6918e461b1aa529b16",
+      "md5": "a1fdd6c5703d6ac25015f61f70fc86d0",
       "summation": "md5"
     },
     {
       "name": "injusticewatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667065487",
-      "size": "2342912",
-      "md5": "84f78caa61d5bda89d533802824c2c9f",
-      "crc32": "b2cb304c",
-      "sha1": "e950a6cbe5531e3fe9c2f950fe97c423591dcb29",
+      "mtime": "1667107810",
+      "size": "2351104",
+      "md5": "70589a77f346aeaa659187e11784ad0e",
+      "crc32": "01958469",
+      "sha1": "dd49c5204b5be007f27a4affb4702ed1c1e82eda",
       "format": "Metadata"
     },
     {
@@ -19182,9 +19240,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1852,
-  "item_last_updated": 1667066127,
-  "item_size": 119554969,
+  "files_count": 1858,
+  "item_last_updated": 1667107874,
+  "item_size": 119885969,
   "metadata": {
     "identifier": "injusticewatch-2022",
     "collection": [
@@ -19201,10 +19259,21 @@
     "publicdate": "2022-07-09 03:59:21",
     "addeddate": "2022-07-09 03:59:21"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 808775789,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456729778,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 357977460,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

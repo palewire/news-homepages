@@ -1,5 +1,6 @@
 {
-  "created": 1667066230,
+  "conflict": 1667108436,
+  "created": 1667108436,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/7/items/izvestia_ru-2022",
@@ -18070,31 +18071,88 @@
       "sha1": "ec939b8eb1b0854e5a73779651048a686f4047b4"
     },
     {
+      "name": "izvestia_ru-2022-10-30T08:29:51.419273+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107795",
+      "size": "134430",
+      "md5": "62d4062adb9f4bbee7ee98c4fa984e13",
+      "crc32": "0fc3f1e5",
+      "sha1": "6ab9f4d273fdf0a6c2c3552edd0485ba9adb8b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-10-30T08:29:51.419273+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107796",
+      "size": "186691",
+      "md5": "257345cb5b0e7b1ff20655d39a1c8146",
+      "crc32": "2ee4fb1c",
+      "sha1": "df5b7af80337a3dcf3f10d16e98af3c858aeae42",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-10-30T08:29:51.419273+03:00.jpg",
+      "source": "original",
+      "mtime": "1667107793",
+      "size": "318358",
+      "md5": "b665bedf54c724a191e830c8c633612c",
+      "crc32": "dc0f041e",
+      "sha1": "45d25f63eda2ee89e8e7128357eb008f0400f4d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "izvestia_ru-2022-10-30T08:29:51.419273+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107798",
+      "size": "1372",
+      "md5": "362899498514b422b04e64eeca20b5f2",
+      "crc32": "5ded8bfc",
+      "sha1": "7393f28f6d63122450b479b3b6be63cafc54df5a",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-10-30T08:29:51.419273+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107800",
+      "size": "34548",
+      "md5": "4ea1b2bc4b25b8b79d539ae266e538f5",
+      "crc32": "c1ada411",
+      "sha1": "092bf1b79b695548afd61d130191b3ce30957e50",
+      "format": "JSON"
+    },
+    {
+      "name": "izvestia_ru-2022-10-30T08:29:51.419273+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "izvestia_ru-2022-10-30T08:29:51.419273+03:00.jpg"
+    },
+    {
       "name": "izvestia_ru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3bda8cfae2174aee8972fc71540338177868c218",
-      "mtime": "1667066145",
-      "size": "376676",
-      "md5": "9a2a2656c112e6990ec85ceafa3fd39d",
-      "crc32": "54d72e9c",
-      "sha1": "4806f5a1c19e6628ebb3720581b19c9106c2c1a2",
+      "btih": "d9c46fea76e4311b1b0ae534abadf0dd5b1c2a55",
+      "mtime": "1667107878",
+      "size": "377776",
+      "md5": "e6d035a6f30e355d161f9f2eedafd82a",
+      "crc32": "1fcf8ffa",
+      "sha1": "41df1cc1a711a734348d6d98cd2d25d1915f4367",
       "format": "Archive BitTorrent"
     },
     {
       "name": "izvestia_ru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2916b8e58a25b0cfa31fea3572cfea6",
+      "md5": "d01fded63d83126e86f4589cbd9ca892",
       "summation": "md5"
     },
     {
       "name": "izvestia_ru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667065485",
-      "size": "2199552",
-      "md5": "e135bbbe67fbd6cecb62e6f2b33f6d9d",
-      "crc32": "c3e8f8a9",
-      "sha1": "687c42814292e3cd9a8f5063ed8e254972458179",
+      "mtime": "1667107809",
+      "size": "2207744",
+      "md5": "bba987e4f8dc9280f1b16e254693243f",
+      "crc32": "3e305928",
+      "sha1": "d2e36e6f81a25fe13721f0cc72722aa7f07ad5f4",
       "format": "Metadata"
     },
     {
@@ -18108,9 +18166,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1748,
-  "item_last_updated": 1667066145,
-  "item_size": 189039043,
+  "files_count": 1754,
+  "item_last_updated": 1667107878,
+  "item_size": 189723734,
   "metadata": {
     "identifier": "izvestia_ru-2022",
     "collection": [
@@ -18127,10 +18185,21 @@
     "publicdate": "2022-07-16 20:48:55",
     "addeddate": "2022-07-16 20:48:55"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 83248861,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456729916,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 869838488,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

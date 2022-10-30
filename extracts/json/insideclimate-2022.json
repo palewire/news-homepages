@@ -1,5 +1,5 @@
 {
-  "created": 1667066199,
+  "created": 1667107821,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/6/items/insideclimate-2022",
@@ -12982,31 +12982,82 @@
       "sha1": "a41fa2724fbff95461a09e354e92521a752ef476"
     },
     {
+      "name": "insideclimate-2022-10-30T01:29:05.309943-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107749",
+      "size": "24017",
+      "md5": "2c21a9e5ff21dcf1ee5e22617f602e21",
+      "crc32": "09582076",
+      "sha1": "703c484b126b00c8bbf93a574cae6a11d5ee906a",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-10-30T01:29:05.309943-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107750",
+      "size": "26034",
+      "md5": "cb1a0eaabf6c61e023122ee0f5112220",
+      "crc32": "b7e23b05",
+      "sha1": "88a0352db3660ec6cabbc40ccd63f9453493d5fe",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-10-30T01:29:05.309943-04:00.jpg",
+      "source": "original",
+      "mtime": "1667107747",
+      "size": "297232",
+      "md5": "d75d18aa487468bd658ccbebc751cac7",
+      "crc32": "bb26e90a",
+      "sha1": "6c232b24b7676d71fbe74a0c9a6ca7b61410eafa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "insideclimate-2022-10-30T01:29:05.309943-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107752",
+      "size": "1522",
+      "md5": "2a321980a07c7dd0ee10e3e07e7b4644",
+      "crc32": "ad7d9747",
+      "sha1": "55be951cd7a2308188979c16df9452cb31a81991",
+      "format": "JSON"
+    },
+    {
+      "name": "insideclimate-2022-10-30T01:29:05.309943-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107754",
+      "size": "10379",
+      "md5": "530916401fc1bc39e4269a34d5a6e27c",
+      "crc32": "03d81a6f",
+      "sha1": "9985725a60af17bea15bbde5da0d5e3e0d627c0b",
+      "format": "JSON"
+    },
+    {
       "name": "insideclimate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed80040ae7c4b361e95f14cb94a76d1a94709cfe",
-      "mtime": "1667066115",
-      "size": "271302",
-      "md5": "1e0139e2ec1209581958e862d087fece",
-      "crc32": "13689955",
-      "sha1": "87366be3f75c576b3b0de93beb02550e6a826fdf",
+      "btih": "b0d2b5c95a945d285a063fe58b360d018f1e7c8c",
+      "mtime": "1667107813",
+      "size": "272390",
+      "md5": "e0fe93556c93dbf346fda6f6dd1c9f6a",
+      "crc32": "93d7e581",
+      "sha1": "f8364427596233b2ee4cd534ae4ec46b8e262cc6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "insideclimate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c484917e602d6acf74ec988d3ab95719",
+      "md5": "64a45eead6862718f2a72012537ba6ca",
       "summation": "md5"
     },
     {
       "name": "insideclimate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667065499",
-      "size": "1589248",
-      "md5": "ebb4bb226c758a02646d87bb5eb8e355",
-      "crc32": "b5d5b69b",
-      "sha1": "6ae961b4bff4ea0bd18947efcd4960fe0ed498bc",
+      "mtime": "1667107760",
+      "size": "1601536",
+      "md5": "b286c2a659b88c3940a1140ec91e5013",
+      "crc32": "1dd48833",
+      "sha1": "f9c9c471b0746dda803669ee1c3f889086363c60",
       "format": "Metadata"
     },
     {
@@ -13020,9 +13071,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1257,
-  "item_last_updated": 1667066115,
-  "item_size": 88021533,
+  "files_count": 1262,
+  "item_last_updated": 1667107813,
+  "item_size": 88394093,
   "metadata": {
     "identifier": "insideclimate-2022",
     "collection": [
@@ -13039,10 +13090,21 @@
     "publicdate": "2022-07-09 03:59:45",
     "addeddate": "2022-07-09 03:59:45"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1291854180,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456729182,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 154735835,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

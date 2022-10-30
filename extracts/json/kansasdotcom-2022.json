@@ -1,5 +1,5 @@
 {
-  "created": 1667066204,
+  "created": 1667107851,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/12/items/kansasdotcom-2022",
@@ -10490,31 +10490,82 @@
       "sha1": "5e4cc058e76e84995be24843a6bc8041b6cb5081"
     },
     {
+      "name": "kansasdotcom-2022-10-30T00:29:35.634476-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107783",
+      "size": "455",
+      "md5": "9a254b225a68f58bc70e87c51a26fdf9",
+      "crc32": "4445c488",
+      "sha1": "0c009db2e78ff926c92ab250846949611e7bd4fc",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-30T00:29:35.634476-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107785",
+      "size": "37559",
+      "md5": "e7b5d298e6e60beda286ca630bce4c62",
+      "crc32": "7d42ee0c",
+      "sha1": "77815cde8b56973d3f2a2a64226e5cbd8bb29796",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-30T00:29:35.634476-05:00.jpg",
+      "source": "original",
+      "mtime": "1667107781",
+      "size": "291269",
+      "md5": "6ca69e571c86da67b8c636a86fda2611",
+      "crc32": "36005a54",
+      "sha1": "6daac919b9811dcd1ed1f41c7bf56f0bd74a7bd0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kansasdotcom-2022-10-30T00:29:35.634476-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107786",
+      "size": "1459",
+      "md5": "a4ffa752f5873899c7876813bf0cb03a",
+      "crc32": "d424b4a7",
+      "sha1": "ab1e7295c663107a70e84b1f0b39a2d18fcc6f3c",
+      "format": "JSON"
+    },
+    {
+      "name": "kansasdotcom-2022-10-30T00:29:35.634476-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107789",
+      "size": "42018",
+      "md5": "15e38ca15575c079e6a88320f5617b66",
+      "crc32": "b6754554",
+      "sha1": "5f60c679ad43a1e2b85c89971b613f9ddcbca34d",
+      "format": "JSON"
+    },
+    {
       "name": "kansasdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "114947de5ac6f489fa26997b7617fba82a831cb8",
-      "mtime": "1667066160",
-      "size": "218191",
-      "md5": "e137f32940dbb4be0bc73a31168ed5c0",
-      "crc32": "f73d6e3b",
-      "sha1": "734cb5e8b613bb30071c4455eeea99540b65cca2",
+      "btih": "db65bbccb6823834ce598dd41793a80b5d306001",
+      "mtime": "1667107845",
+      "size": "219272",
+      "md5": "86d950a492b6ef58db8c116afb41a5d9",
+      "crc32": "364826e0",
+      "sha1": "0366a10e54b474403f43a887729dcf7faf33a05e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kansasdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b89c0a45a7e074361c88acfbbd6920cc",
+      "md5": "ad38e6508e77cbce29806ca5e0781b51",
       "summation": "md5"
     },
     {
       "name": "kansasdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667065477",
-      "size": "1306624",
-      "md5": "2dc965252ad186a6e8d35caff271ebb4",
-      "crc32": "9814c7de",
-      "sha1": "785d0aa1efdbcda36934e6e58165f640745e20fe",
+      "mtime": "1667107794",
+      "size": "1310720",
+      "md5": "45d1590edfcfa065887cdd981de0729f",
+      "crc32": "d798e07e",
+      "sha1": "a36160396216ef0a228eb5de47bb6e9758ee66d4",
       "format": "Metadata"
     },
     {
@@ -10528,9 +10579,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1018,
-  "item_last_updated": 1667066160,
-  "item_size": 63928662,
+  "files_count": 1023,
+  "item_last_updated": 1667107845,
+  "item_size": 64306599,
   "metadata": {
     "identifier": "kansasdotcom-2022",
     "collection": [
@@ -10547,10 +10598,21 @@
     "publicdate": "2022-08-03 18:53:47",
     "addeddate": "2022-08-03 18:53:47"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 563905578,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456729548,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 703496115,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

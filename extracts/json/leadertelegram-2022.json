@@ -1,5 +1,5 @@
 {
-  "created": 1667066450,
+  "created": 1667107995,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/27/items/leadertelegram-2022",
@@ -19172,31 +19172,82 @@
       "sha1": "7533dbadaf08da13b4644af168e550be5275681f"
     },
     {
+      "name": "leadertelegram-2022-10-30T00:31:29.996352-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107892",
+      "size": "43945",
+      "md5": "43cf21b7adcdcb9e9cb6a7c2fbed5d94",
+      "crc32": "e4595648",
+      "sha1": "e9e2875854055cbc8b1502b137a5911b4fe5a0ef",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-30T00:31:29.996352-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107894",
+      "size": "70247",
+      "md5": "47ab42f84938ede915e9654b23b446b4",
+      "crc32": "1920d315",
+      "sha1": "73bb5131cbc5c23d9ce04a24fa17befd546b1689",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-30T00:31:29.996352-05:00.jpg",
+      "source": "original",
+      "mtime": "1667107891",
+      "size": "230393",
+      "md5": "f21534fa00e1239a6ef404ef3af694e9",
+      "crc32": "b9c177e3",
+      "sha1": "4cc373072721e25de1170f4a51e3f6148fee7608",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leadertelegram-2022-10-30T00:31:29.996352-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107896",
+      "size": "1531",
+      "md5": "e578547063482d92ddb4eae27ce9456a",
+      "crc32": "ee0c3cb1",
+      "sha1": "f410f5585d8720bcc8643f3268a78befc9b820ff",
+      "format": "JSON"
+    },
+    {
+      "name": "leadertelegram-2022-10-30T00:31:29.996352-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107897",
+      "size": "57934",
+      "md5": "aa91a5022f7de27471b391e01915b802",
+      "crc32": "e059cafe",
+      "sha1": "e4931d8009af0c071c7dcf595fa7cd7052bd5e76",
+      "format": "JSON"
+    },
+    {
       "name": "leadertelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dfecfa8da238f58440577d41fba4ce05da06a938",
-      "mtime": "1667066371",
-      "size": "400834",
-      "md5": "a275a016882561527d1ee8f3a2806e68",
-      "crc32": "f3d75f3d",
-      "sha1": "3ee54a68957ead1b7efd13cf0d5c548ffa544ceb",
+      "btih": "bf6b62674fe3856f243fb5ac77a14137f003c6ca",
+      "mtime": "1667107983",
+      "size": "401927",
+      "md5": "79554309023f4731ecac1ea201ed7fb1",
+      "crc32": "a4d787a1",
+      "sha1": "39f40b0566da68c4840aa41c48dd759d79ce95e1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leadertelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "05eeb88779400a19b53062203b766fc6",
+      "md5": "f6d309a5fb64d48eaca014143b7c522a",
       "summation": "md5"
     },
     {
       "name": "leadertelegram-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667065649",
-      "size": "2269184",
-      "md5": "535912aab956fbb364bbaa8322b8153f",
-      "crc32": "37cf0a5e",
-      "sha1": "b1027335da1cedea97e4e9fdbf6e0a4f6f1dc962",
+      "mtime": "1667107906",
+      "size": "2273280",
+      "md5": "f5ee2689e107af29cd474962a67e3485",
+      "crc32": "70697624",
+      "sha1": "106c1530a7b66725e4c7bae2258d812e15196b59",
       "format": "Metadata"
     },
     {
@@ -19210,9 +19261,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1846,
-  "item_last_updated": 1667066371,
-  "item_size": 158164271,
+  "files_count": 1851,
+  "item_last_updated": 1667107983,
+  "item_size": 158573510,
   "metadata": {
     "identifier": "leadertelegram-2022",
     "collection": [
@@ -19229,10 +19280,21 @@
     "publicdate": "2022-03-23 23:07:05",
     "addeddate": "2022-03-23 23:07:05"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1238496742,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456731175,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 826140158,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

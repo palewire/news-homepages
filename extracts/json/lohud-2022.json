@@ -1,5 +1,5 @@
 {
-  "created": 1667072448,
+  "created": 1667107999,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/13/items/lohud-2022",
@@ -4904,31 +4904,82 @@
       "sha1": "f3cc427709e93cb81ce02e42f83a8a3a59b02af7"
     },
     {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107943",
+      "size": "20941",
+      "md5": "3c5eabb60f6007a4665de26eda92a9f9",
+      "crc32": "0381acd5",
+      "sha1": "a7ef556a8419c1d190b475d4e3aac572368124fa",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107945",
+      "size": "29689",
+      "md5": "3185973becb54ea1cfbc9ddb3ab87995",
+      "crc32": "247cb790",
+      "sha1": "d5bfa4429faa75edf81afecd975a3f4bcc893764",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.jpg",
+      "source": "original",
+      "mtime": "1667107942",
+      "size": "290906",
+      "md5": "b4cdbdc5f94ad909ac3989689a9b2015",
+      "crc32": "b9fb197b",
+      "sha1": "50a9f9d88616b7492370848b7f949e8e08650020",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107947",
+      "size": "1450",
+      "md5": "445b53caa8c526c29b1d170f35a17d94",
+      "crc32": "e40503f6",
+      "sha1": "46635874c293f41a905de625c16fed162d355c07",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107948",
+      "size": "96915",
+      "md5": "ec764ef1adee064faa23740b059d18bd",
+      "crc32": "9f03419b",
+      "sha1": "126ef51fe8e19943eeef5f7d8a9585f6c0b7f473",
+      "format": "JSON"
+    },
+    {
       "name": "lohud-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e7701e7478035958344df9225357fdd9531033f",
-      "mtime": "1667066884",
-      "size": "99678",
-      "md5": "27e0503805d09a22083e63d7142a536a",
-      "crc32": "05be37ca",
-      "sha1": "4182fa1f96252363c1e91347ffd8187aba5a9370",
+      "btih": "557f9cfad5622dc3ae656fdec596dc3e8eccf566",
+      "mtime": "1667107991",
+      "size": "100726",
+      "md5": "b76154d6ff3fcbd436bf99d658db1472",
+      "crc32": "ec11f3b3",
+      "sha1": "8b603213fee6b29c0b13d8241d02ba2a5122e44d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lohud-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c9d01b6adf3b4e41895c4054875bbfd6",
+      "md5": "e9d74a3f006e5c3a83a54ce460930ac3",
       "summation": "md5"
     },
     {
       "name": "lohud-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667065662",
-      "size": "622592",
-      "md5": "19e437b591a09be3d1f576690605caad",
-      "crc32": "3614fb5f",
-      "sha1": "11032da1eadb25392f494c7ef98ba8560ca0dcda",
+      "mtime": "1667107953",
+      "size": "626688",
+      "md5": "2a3d26780c1b4308379f43515bf7bea3",
+      "crc32": "220e7847",
+      "sha1": "e39d07fab9d1ed3d14356515c511718c03668cba",
       "format": "Metadata"
     },
     {
@@ -4942,14 +4993,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 478,
-  "item_last_updated": 1667066884,
-  "item_size": 32346774,
-  "lohud-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 483,
+  "item_last_updated": 1667107991,
+  "item_size": 32791819,
   "metadata": {
     "identifier": "lohud-2022",
     "collection": [
@@ -4966,10 +5012,21 @@
     "publicdate": "2022-09-20 17:34:21",
     "addeddate": "2022-09-20 17:34:21"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 1488069267,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456731220,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 345845895,
   "workable_servers": [
-    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

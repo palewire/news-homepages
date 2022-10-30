@@ -1,5 +1,6 @@
 {
-  "created": 1667067727,
+  "conflict": 1667108621,
+  "created": 1667108621,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/13/items/lavozdegalicia-2022",
@@ -11214,31 +11215,82 @@
       "sha1": "d19a7548674ade6dd5dd82e02200ef207953c3ed"
     },
     {
+      "name": "lavozdegalicia-2022-10-30T06:31:50.181190+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107925",
+      "size": "72441",
+      "md5": "912bf56fe8d7008508544b7495102a38",
+      "crc32": "f48a9ecb",
+      "sha1": "c3af3b4e01137d9df5f0e9f87e8bb780ff791f18",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-10-30T06:31:50.181190+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107927",
+      "size": "77962",
+      "md5": "ca38f67d898e8fa36807ff26c9186f58",
+      "crc32": "d8a6f5ae",
+      "sha1": "188b1e95cb90b1a570ac140d2a1c1cb6d955ae51",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-10-30T06:31:50.181190+01:00.jpg",
+      "source": "original",
+      "mtime": "1667107924",
+      "size": "255889",
+      "md5": "ba5f3997da8c298b2dd88c9853b6d209",
+      "crc32": "ba072216",
+      "sha1": "c58f81c8aa985254351e91517c1644830ca6d270",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavozdegalicia-2022-10-30T06:31:50.181190+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107929",
+      "size": "1522",
+      "md5": "a06d8e9d93ffabce10e4e118a1676f7e",
+      "crc32": "bb16a11f",
+      "sha1": "5e1d20d6635e4acfb965dadbe0a4ae90380b9d27",
+      "format": "JSON"
+    },
+    {
+      "name": "lavozdegalicia-2022-10-30T06:31:50.181190+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107930",
+      "size": "18257",
+      "md5": "4e858b81b10bda6387fbb58c6e392784",
+      "crc32": "7d43073d",
+      "sha1": "7a3e3b5b5583eb8f2450caee23a1ae8d273fe7e7",
+      "format": "JSON"
+    },
+    {
       "name": "lavozdegalicia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d1aed39471edccb07ba1a5dac03f3a61b897362",
-      "mtime": "1667067623",
-      "size": "236143",
-      "md5": "6ca254c1b174ef62507273187530d6f9",
-      "crc32": "ceadec36",
-      "sha1": "83d13aaf844d8b8ae73cef89fffc8dc4b9365bb0",
+      "btih": "16e5cb9db2179831af3bd217302a08a4de668fea",
+      "mtime": "1667107982",
+      "size": "237236",
+      "md5": "12f133716f7ab7a1664c903115f4fcca",
+      "crc32": "818b4ac9",
+      "sha1": "e4f9df5e8a91935d670c30c130cddd3d92bc8fdc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavozdegalicia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "33c7bf9ca427475d054712bc65fedd1f",
+      "md5": "5e6a8c00a0e98ee1a28c15e5d87af275",
       "summation": "md5"
     },
     {
       "name": "lavozdegalicia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667065608",
-      "size": "1396736",
-      "md5": "cb542af55bedebbf62f5227ac9a8cdfd",
-      "crc32": "364fb15e",
-      "sha1": "60c07a724628b8787219cb5c2c51267218ef74cd",
+      "mtime": "1667107937",
+      "size": "1404928",
+      "md5": "762eeff2eb6d0a3bb074e07149f3d60e",
+      "crc32": "14da568d",
+      "sha1": "532d5b1d4da5334d46b41d4e523a768334f21f5c",
       "format": "Metadata"
     },
     {
@@ -11252,9 +11304,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1088,
-  "item_last_updated": 1667067623,
-  "item_size": 79892851,
+  "files_count": 1093,
+  "item_last_updated": 1667107982,
+  "item_size": 80328207,
   "metadata": {
     "identifier": "lavozdegalicia-2022",
     "collection": [
@@ -11271,10 +11323,21 @@
     "publicdate": "2022-07-28 18:53:53",
     "addeddate": "2022-07-28 18:53:53"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1688847778,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456731070,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1268226823,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

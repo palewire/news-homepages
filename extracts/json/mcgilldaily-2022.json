@@ -1,5 +1,5 @@
 {
-  "created": 1667066151,
+  "created": 1667107979,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/mcgilldaily-2022",
@@ -11536,31 +11536,82 @@
       "sha1": "4f2caf1294c4f663a9d51f845496fcd418487389"
     },
     {
+      "name": "mcgilldaily-2022-10-30T01:31:50.637563-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107918",
+      "size": "14351",
+      "md5": "32d03ad9e095ba52d889466494c2cd4b",
+      "crc32": "23432ce0",
+      "sha1": "b77becd7a0e35e4bf5fe589966cb60dc6821b033",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-10-30T01:31:50.637563-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107920",
+      "size": "13117",
+      "md5": "d0a3a4989cf37624d73c4db67799ff33",
+      "crc32": "140bd33c",
+      "sha1": "dc54482bc35c9edfa496a0be0ca761cf967355d1",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-10-30T01:31:50.637563-04:00.jpg",
+      "source": "original",
+      "mtime": "1667107916",
+      "size": "258374",
+      "md5": "0c40b579136551bab7f92695925989d4",
+      "crc32": "5203f2ea",
+      "sha1": "ce74c24e01a6ea0f7d6e6a460d5bae232d6458ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcgilldaily-2022-10-30T01:31:50.637563-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107922",
+      "size": "1495",
+      "md5": "44992d887a4f24a3f1c94da45248fc84",
+      "crc32": "68c0c895",
+      "sha1": "f1ef77c305e322df79e0b2d8dcfa588dc8ed3cb4",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-10-30T01:31:50.637563-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107923",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "mcgilldaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad3a58ef7c2f5358dcbde27ab2cc327829318a2f",
-      "mtime": "1667066138",
-      "size": "238628",
-      "md5": "03c9a3ac9ae76a349b5872ebf3fbc6d3",
-      "crc32": "2868957a",
-      "sha1": "b1ae33476f7cc477a7d17b651c8d57c35e9335b2",
+      "btih": "6e71ce856eb3c08202eb16d4f60f506db3d293d8",
+      "mtime": "1667107973",
+      "size": "239684",
+      "md5": "2878ae3eb269a2aaeccdff289ddced3a",
+      "crc32": "5e57ba31",
+      "sha1": "26b812df5e4b1ea4aba9f68030ef47d051f1a389",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mcgilldaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2d2ac1af1f92e0d5845eb0cf92a01b56",
+      "md5": "128aa03e323aff05a418195e674238b9",
       "summation": "md5"
     },
     {
       "name": "mcgilldaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667065670",
-      "size": "1429504",
-      "md5": "aa50e285c3b00f848afaeeb08115bcd9",
-      "crc32": "1a8b1c78",
-      "sha1": "843a1c293eff4d82566565a33efd3ed7f96e5cb5",
+      "mtime": "1667107928",
+      "size": "1437696",
+      "md5": "865cbffa0746618574c77a97d5e51785",
+      "crc32": "885cf2a6",
+      "sha1": "1709b2819e1b9611d1eb07e146eca484b994e602",
       "format": "Metadata"
     },
     {
@@ -11574,9 +11625,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1119,
-  "item_last_updated": 1667066138,
-  "item_size": 58518649,
+  "files_count": 1124,
+  "item_last_updated": 1667107973,
+  "item_size": 58815436,
   "metadata": {
     "identifier": "mcgilldaily-2022",
     "collection": [
@@ -11593,10 +11644,21 @@
     "publicdate": "2022-07-25 21:24:37",
     "addeddate": "2022-07-25 21:24:37"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1439913324,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3456730970,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 996387682,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }
