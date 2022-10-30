@@ -202,6 +202,7 @@ jobs:
       - id: git-commit-items
         name: Commit archive.org items
         run: |
+          echo $GITHUB_REF
           git pull origin $GITHUB_REF
           cp ./_dist/*.json extracts/json/
           git add ./extracts/json
