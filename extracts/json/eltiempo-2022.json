@@ -1,6 +1,5 @@
 {
-  "conflict": 1667087625,
-  "created": 1667087625,
+  "created": 1667130365,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/eltiempo-2022",
@@ -15067,34 +15066,90 @@
       "name": "eltiempo-2022-10-29T18:45:51.384014-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "eltiempo-2022-10-29T18:45:51.384014-05:00.jpg"
+      "original": "eltiempo-2022-10-29T18:45:51.384014-05:00.jpg",
+      "mtime": "1667087582",
+      "size": "10094",
+      "md5": "ec5a85a79180103feedb20743ac3a2ac",
+      "crc32": "ed63f36d",
+      "sha1": "7016d7c1834d26f25f0b21b7a51e04c4b05a10f1"
+    },
+    {
+      "name": "eltiempo-2022-10-30T06:44:56.123825-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130300",
+      "size": "51810",
+      "md5": "82756144311bd550636096ba0bded24d",
+      "crc32": "ecee5063",
+      "sha1": "b212e3237bcb0adccc0079a070479e27b5a13e93",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-30T06:44:56.123825-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130303",
+      "size": "74467",
+      "md5": "90bf450fbbd8cdc21a088e0ebcd666c3",
+      "crc32": "71f2a9a4",
+      "sha1": "8e0a8724d91b4ca5f2039e950d9c2be808d76da9",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-30T06:44:56.123825-05:00.jpg",
+      "source": "original",
+      "mtime": "1667130298",
+      "size": "345059",
+      "md5": "246740f3ee2b3469406c54c05c4ff689",
+      "crc32": "f6f2757c",
+      "sha1": "ba54f917e2c994ced9491230b95a4fdf0696e858",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eltiempo-2022-10-30T06:44:56.123825-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130304",
+      "size": "1475",
+      "md5": "7cb5562f9ab8d9f7af47f84e4a90ed61",
+      "crc32": "96b41c2d",
+      "sha1": "52bd2bddc38ebc059a13652fd27ce27e9c9e0c99",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-30T06:44:56.123825-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130306",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
     },
     {
       "name": "eltiempo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75ae46a7fb55e6eceb81de8d810e8421a7964686",
-      "mtime": "1667087244",
-      "size": "307870",
-      "md5": "f2232f778c60dbc431c4352ef081c399",
-      "crc32": "6396173f",
-      "sha1": "607fe9ae37effe3be429e9ee4e15d509f0cc685e",
+      "btih": "5e46231a95b137eede69a41beb1e1d4cf6e6e8b9",
+      "mtime": "1667130360",
+      "size": "309136",
+      "md5": "a0da3218056620f4a6f790417d01d023",
+      "crc32": "34f3843a",
+      "sha1": "d79c3466b2d6e0824c17f8f8fc2a9aac6ce2ef9b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eltiempo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f82614b921f53ec4449cda2bc63fb2f2",
+      "md5": "f99ce7c1613e8b839bd1cd844f9464d2",
       "summation": "md5"
     },
     {
       "name": "eltiempo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667087194",
-      "size": "1806336",
-      "md5": "a104b9c33445107b077c3d90ab7e74e5",
-      "crc32": "61681e94",
-      "sha1": "af3743cfdcc7c2b9c4632daa757a5ea87614b841",
+      "mtime": "1667130310",
+      "size": "1810432",
+      "md5": "412513664a7107f7183559a2a107185b",
+      "crc32": "2d9d033d",
+      "sha1": "4f76d28bc8a2fd6e0ee0832e8443a1c82e048e97",
       "format": "Metadata"
     },
     {
@@ -15108,9 +15163,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1456,
-  "item_last_updated": 1667087244,
-  "item_size": 134705970,
+  "files_count": 1461,
+  "item_last_updated": 1667130360,
+  "item_size": 135194439,
   "metadata": {
     "identifier": "eltiempo-2022",
     "collection": [
@@ -15132,7 +15187,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456519662,
+      "task_id": 3456929571,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -15140,7 +15195,7 @@
       "status": "running"
     }
   ],
-  "uniq": 722621940,
+  "uniq": 1662331774,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

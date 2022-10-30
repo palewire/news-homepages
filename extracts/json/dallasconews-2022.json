@@ -1,6 +1,5 @@
 {
-  "conflict": 1667087618,
-  "created": 1667087618,
+  "created": 1667130301,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/dallasconews-2022",
@@ -5999,31 +5998,82 @@
       "sha1": "7a6e6ebf3aeea2ffbe760709b91942fd9ac40f01"
     },
     {
+      "name": "dallasconews-2022-10-30T06:43:38.039505-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130241",
+      "size": "21203",
+      "md5": "8dc9e98d0769dd6c56431f277a51cc91",
+      "crc32": "cba48842",
+      "sha1": "a9a23371dc6fae125cd31437dd73861db60a3833",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-30T06:43:38.039505-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130242",
+      "size": "33778",
+      "md5": "31382e21d80d881c36c77516d429daf4",
+      "crc32": "a48eb9ee",
+      "sha1": "fc90c7b8ffdde921e5c90bffada98bf51d18a0ce",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-30T06:43:38.039505-05:00.jpg",
+      "source": "original",
+      "mtime": "1667130239",
+      "size": "242627",
+      "md5": "2bb2d9ded2c982cffb931813e20a046b",
+      "crc32": "00b225e9",
+      "sha1": "15c732f9e7d88b3c5f4282286c9d38d4fc8cad01",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasconews-2022-10-30T06:43:38.039505-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130243",
+      "size": "1837",
+      "md5": "991f454cd57fe38152e9f9d550912ef3",
+      "crc32": "19b96248",
+      "sha1": "33db572b95dbf2f0f32e8f720eb7a54f5195b9eb",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasconews-2022-10-30T06:43:38.039505-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130245",
+      "size": "69504",
+      "md5": "88219d55421b4cf9515e42df0a2de76c",
+      "crc32": "17ca40d1",
+      "sha1": "7b3c5354e43a62795a68f38daccbe1c84da796fc",
+      "format": "JSON"
+    },
+    {
       "name": "dallasconews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6235a04977f0bc6227ac310d3bf55165acea25c0",
-      "mtime": "1667087506",
-      "size": "125669",
-      "md5": "9f2644d2e1dead6fd6e3b45d8e6c17ee",
-      "crc32": "ae59beb7",
-      "sha1": "c66976897e4a393b9c4173475be0b515573d79eb",
+      "btih": "6347eaaaa6c49eb9172a12ac0124be574f43fa05",
+      "mtime": "1667130294",
+      "size": "126752",
+      "md5": "3a0fb9d85668a59e2912df258ea8e148",
+      "crc32": "7992f2d1",
+      "sha1": "72943980f82320d4be4b037c19f73a055ed2e4ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasconews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b4c127c43f54129e38b7514bc5ce0a7",
+      "md5": "e7b94a7b3e9b5b93f46c3cde4e3e1e47",
       "summation": "md5"
     },
     {
       "name": "dallasconews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667087035",
-      "size": "757760",
-      "md5": "437003a54343804be0852eca6db2785d",
-      "crc32": "9eac46d9",
-      "sha1": "5faf64a203675d379d18fa49605fc17a92a3d1cc",
+      "mtime": "1667130250",
+      "size": "765952",
+      "md5": "d2a4ca150d5c93f537e653106db76a61",
+      "crc32": "4f3c37e0",
+      "sha1": "5061c77d2534594e82972ddf122160a5ab0c249b",
       "format": "Metadata"
     },
     {
@@ -6037,9 +6087,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 584,
-  "item_last_updated": 1667087506,
-  "item_size": 37301255,
+  "files_count": 589,
+  "item_last_updated": 1667130294,
+  "item_size": 37679479,
   "metadata": {
     "identifier": "dallasconews-2022",
     "collection": [
@@ -6061,15 +6111,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456521941,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3456929129,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 129893488,
+  "uniq": 1568646267,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

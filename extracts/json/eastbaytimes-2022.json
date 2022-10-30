@@ -1,5 +1,5 @@
 {
-  "created": 1667087241,
+  "created": 1667130369,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
@@ -20937,31 +20937,93 @@
       "format": "JSON"
     },
     {
+      "name": "eastbaytimes-2022-10-29T16:45:52.378738-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-10-29T16:45:52.378738-07:00.jpg",
+      "mtime": "1667089825",
+      "size": "9958",
+      "md5": "f3bc5998faaba998a25930ab243c4bfa",
+      "crc32": "34fbf260",
+      "sha1": "bea1f52d51432dff09f09c25aeea2c0595fcb54d"
+    },
+    {
+      "name": "eastbaytimes-2022-10-30T04:44:38.956372-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130292",
+      "size": "40294",
+      "md5": "f6bcee7a164390cea109b61ca2885b8d",
+      "crc32": "51091f7a",
+      "sha1": "9da3e9a581eaa11b560c8732cd890490db489df1",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-10-30T04:44:38.956372-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130294",
+      "size": "53713",
+      "md5": "17f3dc4c395ade6c829e28f2a7cd53d1",
+      "crc32": "17b921ac",
+      "sha1": "3b3ea3e4fe752152384768a4baceef8e3c164ee3",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-10-30T04:44:38.956372-07:00.jpg",
+      "source": "original",
+      "mtime": "1667130290",
+      "size": "294200",
+      "md5": "fb2c1f706f02bef89cce470c74ec2c64",
+      "crc32": "ea0c781b",
+      "sha1": "a8afcc39cf604b8cdd02b0b903a1e36a5fca4813",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eastbaytimes-2022-10-30T04:44:38.956372-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130295",
+      "size": "1513",
+      "md5": "981880bca68122cce4abecfb27e11015",
+      "crc32": "cc726356",
+      "sha1": "1c104a4f3eda4726f9a9268521931e5055db0c7f",
+      "format": "JSON"
+    },
+    {
+      "name": "eastbaytimes-2022-10-30T04:44:38.956372-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130297",
+      "size": "46350",
+      "md5": "1352e117a92110a0c0e040ea8a600e99",
+      "crc32": "a5cf0d6e",
+      "sha1": "9c68b7b208549d300e56f80524d29988c67be63f",
+      "format": "JSON"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92a1fc0fb111095b159b73464b1a33df004e1a45",
-      "mtime": "1667087236",
-      "size": "433051",
-      "md5": "742e0b583c6ebb307241dbbb564a5d69",
-      "crc32": "e330451e",
-      "sha1": "d1706a1f274565c1b320bf145d9abc0503115fe5",
+      "btih": "c34411591e55dd4123779ee6cb5ee3b9912093ae",
+      "mtime": "1667130364",
+      "size": "434342",
+      "md5": "60295547fed128911dbeff38cce44151",
+      "crc32": "6370112d",
+      "sha1": "7a47c50afb2da9c5ff2ab7bdaba03f97e209b7d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "265f5772c49323ce0d6dbcd2b23786e2",
+      "md5": "5bd89dd65f329cf91b18a62a2fe92d45",
       "summation": "md5"
     },
     {
       "name": "eastbaytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667087172",
-      "size": "2457600",
-      "md5": "58f6f7112cc13babeee469bc96a1d1f3",
-      "crc32": "a6d9e5df",
-      "sha1": "a590c6d153325fdb8a21a4a9acbd310e19994d8a",
+      "mtime": "1667130300",
+      "size": "2461696",
+      "md5": "9fc764a655b83269030185efcebf5e16",
+      "crc32": "aa8515a6",
+      "sha1": "19cd896ee30598cde2e8f34be961628a2f353096",
       "format": "Metadata"
     },
     {
@@ -20975,9 +21037,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2014,
-  "item_last_updated": 1667087236,
-  "item_size": 170750650,
+  "files_count": 2020,
+  "item_last_updated": 1667130364,
+  "item_size": 171202065,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -20999,7 +21061,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456519614,
+      "task_id": 3456929592,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -21007,7 +21069,7 @@
       "status": "running"
     }
   ],
-  "uniq": 2123073664,
+  "uniq": 288056987,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

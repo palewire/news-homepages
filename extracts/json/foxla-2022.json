@@ -1,5 +1,6 @@
 {
-  "created": 1667087418,
+  "conflict": 1667131271,
+  "created": 1667131271,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/2/items/foxla-2022",
@@ -28239,31 +28240,99 @@
       "format": "JSON"
     },
     {
+      "name": "foxla-2022-10-29T16:48:20.770082-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-10-29T16:48:20.770082-07:00.jpg",
+      "mtime": "1667088062",
+      "size": "11220",
+      "md5": "9bcdee0be41d2f0522de5776cc9227e5",
+      "crc32": "f3c3ba43",
+      "sha1": "0f78503d85f5b8dc6becced358bde55aa18e8ab7"
+    },
+    {
+      "name": "foxla-2022-10-30T04:45:42.689329-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130373",
+      "size": "44708",
+      "md5": "d0d9faf97dc384a1c195271cbdd5d30c",
+      "crc32": "2f06e794",
+      "sha1": "65e69c9b2b05ac6e6eb8c97a5258e1bf6ef35250",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-10-30T04:45:42.689329-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130375",
+      "size": "41304",
+      "md5": "b7ca0356783944b3dd94eeca2b84396a",
+      "crc32": "324063a0",
+      "sha1": "94f24897a5f07f391858e9e81030d03f0476fd85",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-10-30T04:45:42.689329-07:00.jpg",
+      "source": "original",
+      "mtime": "1667130371",
+      "size": "361083",
+      "md5": "c815ae7af3d6d89df7de941027fe306f",
+      "crc32": "7a6a9086",
+      "sha1": "d1fd7aee450892e5bd29d2de0f059903d48047fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxla-2022-10-30T04:45:42.689329-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130377",
+      "size": "1446",
+      "md5": "729c52b96527bfc224b88a056e343bc7",
+      "crc32": "82d5e625",
+      "sha1": "80b80f90af8f7bf65cbef1bb087298a7d2bee260",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-10-30T04:45:42.689329-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130378",
+      "size": "66923",
+      "md5": "ed317befa4880056ce40fde44d690872",
+      "crc32": "c440ec55",
+      "sha1": "6da30f1f0304c42953f993a8f8f6200b5682aa57",
+      "format": "JSON"
+    },
+    {
+      "name": "foxla-2022-10-30T04:45:42.689329-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxla-2022-10-30T04:45:42.689329-07:00.jpg"
+    },
+    {
       "name": "foxla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "551487ee2ef36a06a39b814729d9b40e4dad5120",
-      "mtime": "1667087410",
-      "size": "565710",
-      "md5": "7bbe6ece175b2eba5ce05c5ea5137527",
-      "crc32": "25a44e80",
-      "sha1": "e4a3df5801260134dda27c902ec2222b4f325b3e",
+      "btih": "9f47b1a779545ca480038bb3ea93096670d73efa",
+      "mtime": "1667130481",
+      "size": "566960",
+      "md5": "0290185438ba751b48a460bbfcdbc4e8",
+      "crc32": "6ac5752d",
+      "sha1": "c57cd83b89dee8aa5ec370cde8b9b16149945e34",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5a271a958e1b1c3e88ed0235b88cb17",
+      "md5": "2658c157160ad00a68ba1e29135da57a",
       "summation": "md5"
     },
     {
       "name": "foxla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667087317",
-      "size": "3276800",
-      "md5": "8269297016e11aa207468ea15a0becd8",
-      "crc32": "e2844232",
-      "sha1": "aebfe75e3820a255538da41dbf3971bfd6352f4a",
+      "mtime": "1667130384",
+      "size": "3284992",
+      "md5": "43903c9e85bdbb7cff2dc9132fc35a25",
+      "crc32": "4b9a001f",
+      "sha1": "5c6c5c99759a4934a29ff400659361bc44dd49d7",
       "format": "Metadata"
     },
     {
@@ -28277,9 +28346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2716,
-  "item_last_updated": 1667087410,
-  "item_size": 242011130,
+  "files_count": 2723,
+  "item_last_updated": 1667130481,
+  "item_size": 242547256,
   "metadata": {
     "identifier": "foxla-2022",
     "collection": [
@@ -28301,15 +28370,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456521275,
+      "task_id": 3456930574,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 2024400875,
+  "uniq": 396226875,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

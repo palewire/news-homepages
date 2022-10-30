@@ -1,8 +1,13 @@
 {
-  "created": 1667087212,
+  "created": 1667131326,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/ecledger-2022",
+  "ecledger-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4965,31 +4970,93 @@
       "format": "JSON"
     },
     {
+      "name": "ecledger-2022-10-29T19:45:53.620021-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ecledger-2022-10-29T19:45:53.620021-04:00.jpg",
+      "mtime": "1667088254",
+      "size": "9305",
+      "md5": "ceac10f3aa1b48ced54aa5062d026f2f",
+      "crc32": "1c93fc32",
+      "sha1": "586c6beb29e1a30f509b375226fcb0b0e5c3579b"
+    },
+    {
+      "name": "ecledger-2022-10-30T07:44:51.682906-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130297",
+      "size": "22866",
+      "md5": "609d4f5a20b859d09efea45262bea7c1",
+      "crc32": "dad9931e",
+      "sha1": "834d311a9ffde2fade4749fcdc700aa2590f4c0c",
+      "format": "JSON"
+    },
+    {
+      "name": "ecledger-2022-10-30T07:44:51.682906-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130298",
+      "size": "46246",
+      "md5": "6bb52ade6d491add0a5e50686971693d",
+      "crc32": "5ad52e2a",
+      "sha1": "373c1805ea517914335a914fb72c66897ee3238a",
+      "format": "JSON"
+    },
+    {
+      "name": "ecledger-2022-10-30T07:44:51.682906-04:00.jpg",
+      "source": "original",
+      "mtime": "1667130295",
+      "size": "296219",
+      "md5": "5a6a4de330b52a40285f7e22ec986b6c",
+      "crc32": "9f1037c1",
+      "sha1": "8f0e554aa2b8ef48d05197dc6380f36c74b86be4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ecledger-2022-10-30T07:44:51.682906-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130300",
+      "size": "1558",
+      "md5": "59f6379f960c119f40c138bf33e56ddf",
+      "crc32": "98d3987a",
+      "sha1": "54caf0805413a558cf36997f50792237fe18b03e",
+      "format": "JSON"
+    },
+    {
+      "name": "ecledger-2022-10-30T07:44:51.682906-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130302",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ecledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bac6d25f817c5be19d2f4ccb1f26a0a335759ae1",
-      "mtime": "1667087208",
-      "size": "102365",
-      "md5": "3f893c0f6c3d8ab2878b21220b5278ac",
-      "crc32": "4f6f4b7a",
-      "sha1": "f9dbc58e1d3f81d00359d5f61731011e6e067753",
+      "btih": "25b8fcf76a80726fc984f5f3c25002405803b92c",
+      "mtime": "1667130344",
+      "size": "103630",
+      "md5": "c9b232beb9a0abc7572aa6f45a1fa9eb",
+      "crc32": "d68000b6",
+      "sha1": "e888c85f8e53fedd189ef729146e0f4991d4e633",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ecledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a328b0787da4f8af39f885b74105c995",
+      "md5": "b5a9e4180b98983dd7af8730482e219e",
       "summation": "md5"
     },
     {
       "name": "ecledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667087171",
-      "size": "630784",
-      "md5": "3eccef2bba0a9ef53f3a7de36a2c050a",
-      "crc32": "b91746b3",
-      "sha1": "fe3d44c9d73dba80c4b05033b74ba5fd96ae96a3",
+      "mtime": "1667130307",
+      "size": "634880",
+      "md5": "4cadd9f7c32c016d64ace523b09e636f",
+      "crc32": "0167ee40",
+      "sha1": "6d44b8260da0b6806f4b57f9c828b4b7b8937562",
       "format": "Metadata"
     },
     {
@@ -5003,9 +5070,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 484,
-  "item_last_updated": 1667087208,
-  "item_size": 32363947,
+  "files_count": 490,
+  "item_last_updated": 1667130344,
+  "item_size": 32745704,
   "metadata": {
     "identifier": "ecledger-2022",
     "collection": [
@@ -5027,7 +5094,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456519407,
+      "task_id": 3456929446,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -5035,7 +5102,7 @@
       "status": "running"
     }
   ],
-  "uniq": 135028037,
+  "uniq": 1788893718,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

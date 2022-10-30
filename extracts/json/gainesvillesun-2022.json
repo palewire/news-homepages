@@ -1,5 +1,5 @@
 {
-  "created": 1667087407,
+  "created": 1667130509,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/28/items/gainesvillesun-2022",
@@ -12211,31 +12211,93 @@
       "format": "JSON"
     },
     {
+      "name": "gainesvillesun-2022-10-29T19:48:52.609188-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-29T19:48:52.609188-04:00.jpg",
+      "mtime": "1667088553",
+      "size": "9645",
+      "md5": "6e07d4d56de222672b73f501f2a6c608",
+      "crc32": "4d2e4d0f",
+      "sha1": "3b54f94616d8307547662d4f8a69bf6f3aaabc46"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130442",
+      "size": "23303",
+      "md5": "b5956f4bbe6727d3e53c7470d496bf57",
+      "crc32": "30d105cc",
+      "sha1": "bf8d8056c98d7ed07841e765e3564cdaafd58f8b",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130443",
+      "size": "29058",
+      "md5": "e5362a19380cc68c5118ba1b215991fc",
+      "crc32": "49ed6e3a",
+      "sha1": "b9100d379526d691edec3ddd840ea8ea67e6f6ca",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.jpg",
+      "source": "original",
+      "mtime": "1667130440",
+      "size": "263675",
+      "md5": "63dd5adb18ffc74144ae4984da604803",
+      "crc32": "f8f573e3",
+      "sha1": "6eb27236fdd200e2756e7b4192cec0bf263679a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130445",
+      "size": "1504",
+      "md5": "f881f9d31880bf4da5ec6d89454ef91a",
+      "crc32": "890bd745",
+      "sha1": "88ac6e809d8ad215bcf5d132898544aaa4a21ef0",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130447",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gainesvillesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb3466608b1257c74f9761bf56edee0f177584c2",
-      "mtime": "1667087403",
-      "size": "256772",
-      "md5": "5948abd3e83787048cf5d012b908d340",
-      "crc32": "ffce1ddb",
-      "sha1": "db93213b2ed6f97142f383ab922882168b4eba1e",
+      "btih": "5ecaaa466d941a245064b10d3178f567ac27804b",
+      "mtime": "1667130504",
+      "size": "258053",
+      "md5": "47cd222b826605b4d114f968cce46063",
+      "crc32": "f3711cd4",
+      "sha1": "8568223851099dbdd6b7fdfe0f928a814fb11844",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gainesvillesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8306a31deac1a0e10686eee878254681",
+      "md5": "e7ad17b2b455fe45933283cd3ccf5260",
       "summation": "md5"
     },
     {
       "name": "gainesvillesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667087356",
-      "size": "1519616",
-      "md5": "91e66d40d6aa295f87077eaed2457995",
-      "crc32": "e44ca84b",
-      "sha1": "626795ee3028c3ebfd7df74e827360b8aeac07e3",
+      "mtime": "1667130453",
+      "size": "1527808",
+      "md5": "432ccdc1f2d4436348cd6a9d5e42a1be",
+      "crc32": "64f5bac9",
+      "sha1": "041ce6c8ca02a661c997ee636eae24e5356fd230",
       "format": "Metadata"
     },
     {
@@ -12249,9 +12311,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1184,
-  "item_last_updated": 1667087403,
-  "item_size": 80645419,
+  "files_count": 1190,
+  "item_last_updated": 1667130504,
+  "item_size": 80982279,
   "metadata": {
     "identifier": "gainesvillesun-2022",
     "collection": [
@@ -12273,15 +12335,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456521169,
+      "task_id": 3456930691,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1336136536,
+  "uniq": 92686660,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

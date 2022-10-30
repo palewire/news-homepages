@@ -1,6 +1,5 @@
 {
-  "conflict": 1667087626,
-  "created": 1667087626,
+  "created": 1667130308,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/delawarepublic-2022",
@@ -13303,31 +13302,82 @@
       "sha1": "6f924aff941fb41bdd503b7c4bec0ba7066b255d"
     },
     {
+      "name": "delawarepublic-2022-10-30T07:43:57.967779-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130246",
+      "size": "19160",
+      "md5": "df5198cb0283dd9340204a2f467fbb0a",
+      "crc32": "6bf38c0b",
+      "sha1": "bf330abcb396442b017b3f8e44c49ed5d7547bc7",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-30T07:43:57.967779-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130248",
+      "size": "30751",
+      "md5": "0a5ded6acb5fff4bad8dcf2349c0b556",
+      "crc32": "0b970e77",
+      "sha1": "6b9d0995e104c1679c44f6d558c25ad8f99497dd",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-30T07:43:57.967779-04:00.jpg",
+      "source": "original",
+      "mtime": "1667130245",
+      "size": "207927",
+      "md5": "386c69b66fbbeeed41cccb87d1398891",
+      "crc32": "d15fa832",
+      "sha1": "7a88005e36c49608f6e0c48d912d9a7e4139b5c5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawarepublic-2022-10-30T07:43:57.967779-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130250",
+      "size": "1513",
+      "md5": "3d052fbe4ebc3e2487491c33704513a6",
+      "crc32": "6ccbb5e4",
+      "sha1": "b554e8ce26d3946e301432a773d301a2f3254456",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-30T07:43:57.967779-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130251",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "delawarepublic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "325ac8f73b969221a6b9884225d5b451469a275d",
-      "mtime": "1667087623",
-      "size": "278918",
-      "md5": "439349426fdd56fdb72777b8142d1bf5",
-      "crc32": "71c6d793",
-      "sha1": "f25f1e908424834cc6381c63ab607221b40b207e",
+      "btih": "d9a55c3a7f6c56a5411fb117fcee60f773aa7577",
+      "mtime": "1667130301",
+      "size": "280009",
+      "md5": "ce7cb7b15c90cafe09bd440c3464fe25",
+      "crc32": "2687f255",
+      "sha1": "53ede92352beea6ba9b40958e624f9cda9c844b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawarepublic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ff4ee97f8e299d7a4de96c737fff852a",
+      "md5": "56848f05ba6569ac0b5973abbdb0e43a",
       "summation": "md5"
     },
     {
       "name": "delawarepublic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667087016",
-      "size": "1634304",
-      "md5": "7f447dd5d645f28a8925f3d3635baeb6",
-      "crc32": "9887a22c",
-      "sha1": "aea63c866e0d66675c133ee7ef79ac8efdee292d",
+      "mtime": "1667130254",
+      "size": "1642496",
+      "md5": "fe7a018bada5ced067591254ae103c1e",
+      "crc32": "05255928",
+      "sha1": "8b33b428bc7d45f3807c4bf67af78f74aae6a7eb",
       "format": "Metadata"
     },
     {
@@ -13341,9 +13391,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1288,
-  "item_last_updated": 1667087623,
-  "item_size": 77098809,
+  "files_count": 1293,
+  "item_last_updated": 1667130301,
+  "item_size": 77367645,
   "metadata": {
     "identifier": "delawarepublic-2022",
     "collection": [
@@ -13365,23 +13415,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456518059,
+      "task_id": 3456929185,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3456522814,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 293741033,
+  "uniq": 2066596645,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]
