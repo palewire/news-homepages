@@ -1,5 +1,5 @@
 {
-  "created": 1667095682,
+  "created": 1667137762,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/13/items/newsweek-2022",
@@ -13555,31 +13555,93 @@
       "format": "JSON"
     },
     {
+      "name": "newsweek-2022-10-29T22:06:43.189579-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsweek-2022-10-29T22:06:43.189579-04:00.jpg",
+      "mtime": "1667104099",
+      "size": "11287",
+      "md5": "c17c2ad7b1dd94054b00af796b5e1d81",
+      "crc32": "11a41916",
+      "sha1": "d5347d1bb4e349049a950a59f7e578f7645efe11"
+    },
+    {
+      "name": "newsweek-2022-10-30T09:47:43.923935-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137674",
+      "size": "55365",
+      "md5": "b824f90e703b72e773bbd66fdf4ea1c8",
+      "crc32": "e3aa46f2",
+      "sha1": "ff7487d725523634aaae4d2043d5c16d3dbfb242",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-10-30T09:47:43.923935-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137680",
+      "size": "46716",
+      "md5": "78a19777ad955686cb27959018a79301",
+      "crc32": "19f6d6a5",
+      "sha1": "a48977b4feb325b289d85b9d962f56cc8f472e3c",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-10-30T09:47:43.923935-04:00.jpg",
+      "source": "original",
+      "mtime": "1667137672",
+      "size": "376011",
+      "md5": "546fb60e5fcf5ec80be704297d275bc2",
+      "crc32": "c152fd95",
+      "sha1": "990c481d0b2152a8e900a9622c4c1faf043d0c7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsweek-2022-10-30T09:47:43.923935-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137682",
+      "size": "1471",
+      "md5": "1a9978521b4983321f4fb4f54b22a629",
+      "crc32": "1e571e9e",
+      "sha1": "1a13adf9c87754e371bb4d61d56d89e28d836812",
+      "format": "JSON"
+    },
+    {
+      "name": "newsweek-2022-10-30T09:47:43.923935-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137683",
+      "size": "23976",
+      "md5": "19c1f9b017d29f5e5366905f209db2f5",
+      "crc32": "dc388347",
+      "sha1": "6eac47275ac1e9c1520724dac26e6cda2ce830ef",
+      "format": "JSON"
+    },
+    {
       "name": "newsweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "31dbce4cc08545c0016cd138e5d5a3695da607cd",
-      "mtime": "1667095675",
-      "size": "277846",
-      "md5": "1aaa99e4af6b34c28dacb0f689efffab",
-      "crc32": "2e2da356",
-      "sha1": "109842b6288aa5ab1b0f6056d2641dbe39f2fd8b",
+      "btih": "57eea2792907173b724514405720bf3da2acaf95",
+      "mtime": "1667137742",
+      "size": "279114",
+      "md5": "df72e73f91a1974a1badbba6c1e20cf9",
+      "crc32": "bdb5721c",
+      "sha1": "b231019ea1725c1afb243eda766d1abeca7af12a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e2accb59028b59b52f41b4a26ccc3928",
+      "md5": "f0e189d90c20006ce0939b6a83e0d3e5",
       "summation": "md5"
     },
     {
       "name": "newsweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667095624",
-      "size": "1646592",
-      "md5": "559a6c4022ad4232191e14fc652a8f39",
-      "crc32": "f2ec9846",
-      "sha1": "8d7ea9701e91fde311a05a93206a711f2666f956",
+      "mtime": "1667137687",
+      "size": "1658880",
+      "md5": "b1f102e2fb4bd478819bd33e8609a435",
+      "crc32": "0baa5063",
+      "sha1": "3acec263875a31675a57e58060304f40bf6bb7ed",
       "format": "Metadata"
     },
     {
@@ -13593,9 +13655,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1312,
-  "item_last_updated": 1667095675,
-  "item_size": 119689387,
+  "files_count": 1318,
+  "item_last_updated": 1667137742,
+  "item_size": 120217769,
   "metadata": {
     "identifier": "newsweek-2022",
     "collection": [
@@ -13617,15 +13679,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456606565,
+      "task_id": 3456993285,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 457319523,
+  "uniq": 71343419,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

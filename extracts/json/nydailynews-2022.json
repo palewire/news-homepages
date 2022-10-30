@@ -1,5 +1,5 @@
 {
-  "created": 1667095748,
+  "created": 1667130653,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nydailynews-2022",
@@ -13561,21 +13561,32 @@
       "format": "JSON"
     },
     {
+      "name": "nydailynews-2022-10-29T22:06:34.984170-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nydailynews-2022-10-29T22:06:34.984170-04:00.jpg",
+      "mtime": "1667097307",
+      "size": "9244",
+      "md5": "79798763fd4da5ff6b78e1fecf829009",
+      "crc32": "13428ca4",
+      "sha1": "81e895a6d225db078e2f850900ecc137ff6dc7f7"
+    },
+    {
       "name": "nydailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f3d59b88f598524dfac71188d0d3ad63465ea9b",
-      "mtime": "1667095727",
-      "size": "281152",
-      "md5": "bf75d04702823c213b0513cad41c4ba1",
-      "crc32": "82e0ab05",
-      "sha1": "8f2f9aa3f64f1ad4b2163a31f40cf11f900938ff",
+      "btih": "5c3a79a49ff0e32ba46942051c3c39bfc75182a0",
+      "mtime": "1667097324",
+      "size": "281359",
+      "md5": "77d6cdcdfbd763810c60d67ff9e4b4a0",
+      "crc32": "8a0d19fd",
+      "sha1": "ec7f28afcc0aa9cf4601c0ac920cd256f6cc1977",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nydailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30e7a436639a71d5d25e6e03e5f401ae",
+      "md5": "3aa9c9cdb343d03bbf3c67a793468428",
       "summation": "md5"
     },
     {
@@ -13599,9 +13610,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1312,
-  "item_last_updated": 1667095727,
-  "item_size": 106571892,
+  "files_count": 1313,
+  "item_last_updated": 1667097324,
+  "item_size": 106581343,
   "metadata": {
     "identifier": "nydailynews-2022",
     "collection": [
@@ -13623,15 +13634,47 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456607355,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3456992999,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3456993011,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3456993020,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3456993032,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3456993042,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1867939769,
+  "uniq": 105151207,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

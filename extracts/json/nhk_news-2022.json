@@ -1,5 +1,6 @@
 {
-  "created": 1667095874,
+  "conflict": 1667138152,
+  "created": 1667138152,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/2/items/nhk_news-2022",
@@ -16759,31 +16760,83 @@
       "format": "JSON"
     },
     {
+      "name": "nhk_news-2022-10-30T11:06:34.565835+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nhk_news-2022-10-30T11:06:34.565835+09:00.jpg",
+      "mtime": "1667097237",
+      "size": "9385",
+      "md5": "d83e5a0c513247268f3e69239a826393",
+      "crc32": "572d3c3d",
+      "sha1": "7f622ef9f832d7400c678212359b0271b023dd6e"
+    },
+    {
+      "name": "nhk_news-2022-10-30T22:47:19.561163+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137648",
+      "size": "16426",
+      "md5": "eb9fbbea7b50cea7abbfa3dbf4f8ba11",
+      "crc32": "817867c5",
+      "sha1": "7f5b14b887795af70efbdd828b5151319e9c107d",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-30T22:47:19.561163+09:00.jpg",
+      "source": "original",
+      "mtime": "1667137646",
+      "size": "274930",
+      "md5": "0897eece7ed84708000e76b50ccb935a",
+      "crc32": "41fe9168",
+      "sha1": "d92116e9c6d91f4415e1324f080173d9757fa181",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhk_news-2022-10-30T22:47:19.561163+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137649",
+      "size": "1504",
+      "md5": "17f25fa04fe974ff95d0b8de680773e7",
+      "crc32": "fc8d2101",
+      "sha1": "0351ccf8e589c2797ac59cf32c945a6191192d56",
+      "format": "JSON"
+    },
+    {
+      "name": "nhk_news-2022-10-30T22:47:19.561163+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137651",
+      "size": "15278",
+      "md5": "d15e46f8e45b74e0ecd2c1c4a6318ec0",
+      "crc32": "401c84de",
+      "sha1": "7a9c1cb3606e4a65f976274d70545fb1f1cf97e9",
+      "format": "JSON"
+    },
+    {
       "name": "nhk_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fca2bf6fbbe461cfd9f975c58d7bd28038eecab4",
-      "mtime": "1667095865",
-      "size": "337664",
-      "md5": "7bb54f66f7ec54ea09a71efa4f776cf2",
-      "crc32": "0e134f0b",
-      "sha1": "40fd030b059f4fa4c9a98ce258e46895e7f45ff1",
+      "btih": "c3376141784c2fc5e3e642d53b9440cda9985840",
+      "mtime": "1667137713",
+      "size": "338717",
+      "md5": "cd85818ff82e83fbb9bdc8e2e5baae8a",
+      "crc32": "add002d5",
+      "sha1": "4f8bd2ad10fc61cb7d5c4e31e2aab7938af619d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhk_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e495dbce23f1dfe2d47b82b676c02d1d",
+      "md5": "21b307b87e8c29dfb0e3f397948849c2",
       "summation": "md5"
     },
     {
       "name": "nhk_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667095843",
-      "size": "1941504",
-      "md5": "5f15f9b4e12f4b75fedd1d11cf75efc7",
-      "crc32": "c8988097",
-      "sha1": "974a64ead60f13871599e3b0bec18f058f3cedd3",
+      "mtime": "1667137656",
+      "size": "1945600",
+      "md5": "fa2f4b301ec1bd9880ab98b091e95f42",
+      "crc32": "bfbcba5b",
+      "sha1": "497099789ff673edf45423e09f2f76de89352bdd",
       "format": "Metadata"
     },
     {
@@ -16797,9 +16850,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1612,
-  "item_last_updated": 1667095865,
-  "item_size": 109130452,
+  "files_count": 1617,
+  "item_last_updated": 1667137713,
+  "item_size": 109453124,
   "metadata": {
     "identifier": "nhk_news-2022",
     "collection": [
@@ -16821,15 +16874,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456608571,
+      "task_id": 3456992863,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1272579076,
+  "uniq": 1650089064,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

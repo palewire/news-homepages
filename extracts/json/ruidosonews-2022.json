@@ -1,5 +1,5 @@
 {
-  "created": 1667095885,
+  "created": 1667137939,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/ruidosonews-2022",
@@ -4893,31 +4893,93 @@
       "format": "JSON"
     },
     {
+      "name": "ruidosonews-2022-10-29T20:10:22.210914-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ruidosonews-2022-10-29T20:10:22.210914-06:00.jpg",
+      "mtime": "1667097379",
+      "size": "8709",
+      "md5": "054e9507e0cbca56db8f9efe031ae069",
+      "crc32": "e9a10eae",
+      "sha1": "36848729fd94ccafe1fbafaead3583bbed3f3bef"
+    },
+    {
+      "name": "ruidosonews-2022-10-30T07:51:15.466705-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137881",
+      "size": "19906",
+      "md5": "81178d847babe8202677677e89d2185c",
+      "crc32": "0cac459f",
+      "sha1": "b87642807674fb3ff96a44df8c94b26c6080f682",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-30T07:51:15.466705-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137882",
+      "size": "39354",
+      "md5": "aea35f13f903d4c43c3aa42e5f1e6439",
+      "crc32": "dec31513",
+      "sha1": "1c90cc129deacf016c81abda2ca1f1cfa6dccd00",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-30T07:51:15.466705-06:00.jpg",
+      "source": "original",
+      "mtime": "1667137879",
+      "size": "235573",
+      "md5": "5b726d084380c4ec7bd29ef7cb4c0ee6",
+      "crc32": "289109b2",
+      "sha1": "17bc200aa26e9f27ed70b462454db04a251d019e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ruidosonews-2022-10-30T07:51:15.466705-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137884",
+      "size": "1504",
+      "md5": "e471beae6296e8101b78b662dd18332d",
+      "crc32": "2d78c122",
+      "sha1": "7d033e9abde851d2eb9fcbb978a192097b7a8906",
+      "format": "JSON"
+    },
+    {
+      "name": "ruidosonews-2022-10-30T07:51:15.466705-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137886",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ruidosonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d38e75d0e98b2ff4c55fe988f618b5272512b14",
-      "mtime": "1667095878",
-      "size": "102183",
-      "md5": "eb3eba3b3e556ed6c8417176755f0727",
-      "crc32": "7adb0ae3",
-      "sha1": "a11cf8968576590ac35f9d3f447afd6af2b6bbb3",
+      "btih": "402fd7434609b3151acf5a62efc0dde8995e946c",
+      "mtime": "1667137934",
+      "size": "103466",
+      "md5": "08e036fff49a402ad63b183ab9e826c5",
+      "crc32": "b316cd93",
+      "sha1": "bc91bf77979cfd5ec8e99971bd139674c509b27d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ruidosonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94d667aaa3ace025dba311af6252eb49",
+      "md5": "c3bc5d3738d3d8b770804e98bdd12263",
       "summation": "md5"
     },
     {
       "name": "ruidosonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667095838",
-      "size": "622592",
-      "md5": "51a7f8c3732d1377c84f6456fe7a40cc",
-      "crc32": "d086991b",
-      "sha1": "e96512277b1016195261e8d11aa2fded73b129f0",
+      "mtime": "1667137894",
+      "size": "626688",
+      "md5": "764d49284bdf7a7f693dd3886a196476",
+      "crc32": "aa8c80f7",
+      "sha1": "58e4b3cb430060468b2e6836d57cf55e1e122505",
       "format": "Metadata"
     },
     {
@@ -4931,9 +4993,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 477,
-  "item_last_updated": 1667095878,
-  "item_size": 28661270,
+  "files_count": 483,
+  "item_last_updated": 1667137934,
+  "item_size": 28971897,
   "metadata": {
     "identifier": "ruidosonews-2022",
     "collection": [
@@ -4955,15 +5017,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456608674,
+      "task_id": 3456994964,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 646732514,
+  "uniq": 843689317,
   "workable_servers": [
     "ia601402.us.archive.org"
   ]
