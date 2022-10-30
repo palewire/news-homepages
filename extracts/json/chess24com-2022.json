@@ -1,5 +1,5 @@
 {
-  "created": 1667104685,
+  "created": 1667144951,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/chess24com-2022",
@@ -12318,31 +12318,82 @@
       "sha1": "d4f7ef5d016f58107d75118652d20fe36062ff74"
     },
     {
+      "name": "chess24com-2022-10-30T16:47:56.647280+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144885",
+      "size": "1029",
+      "md5": "476407008240b76526a87c5152103438",
+      "crc32": "1c9a5460",
+      "sha1": "3272e9f057441b4e28a37e4a1d550188b81222f3",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-10-30T16:47:56.647280+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144887",
+      "size": "32442",
+      "md5": "09f6a8687c12e5470cc99465127dffa4",
+      "crc32": "5d3c87e3",
+      "sha1": "dc5c227e73f2fe1e92d094daad00bb9ec6a8f59a",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-10-30T16:47:56.647280+01:00.jpg",
+      "source": "original",
+      "mtime": "1667144884",
+      "size": "360206",
+      "md5": "49fd6ffd1bcf3ce7dfcc692f0ac9f61c",
+      "crc32": "39e21702",
+      "sha1": "4cfd1be43a130b4fc2280760722e8fff98ade4ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chess24com-2022-10-30T16:47:56.647280+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144889",
+      "size": "1540",
+      "md5": "4f692e6ea8699ea70668d2d563576c46",
+      "crc32": "9356f423",
+      "sha1": "c2926b0fc2e5baac3845fc7984b8b7990b9d62ca",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-10-30T16:47:56.647280+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144890",
+      "size": "25311",
+      "md5": "4deaa2e05f02c462870bbf6384f3e4a3",
+      "crc32": "93020d3c",
+      "sha1": "a32818120ed86b31220444f1d6fdd8eb9937f510",
+      "format": "JSON"
+    },
+    {
       "name": "chess24com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbde98aad6dd93def94f46d5d4d5dcc2f47ff5bd",
-      "mtime": "1667104623",
-      "size": "254264",
-      "md5": "c28e5aa2acfc2d90b21654c44ae33ced",
-      "crc32": "3f50dd46",
-      "sha1": "ff8d37ae851942ed78bd4e6b40c63137c22ff1f8",
+      "btih": "f1d0d435f47164107208f9b04517f25d3d18e330",
+      "mtime": "1667144945",
+      "size": "255336",
+      "md5": "e17bb293ab505c97ab6f6c983f8a8501",
+      "crc32": "818bee54",
+      "sha1": "36ac0d955e2a8600276f53ad2720c8d382118983",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chess24com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb619402eb3f5a141f40dcdc75f2f86a",
+      "md5": "7c5a42a77ec43115a493c1ea4a47fdcc",
       "summation": "md5"
     },
     {
       "name": "chess24com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103627",
-      "size": "1519616",
-      "md5": "7ec65786f40a2991e0e54faf95ce8787",
-      "crc32": "8b54d12c",
-      "sha1": "08430971b05955c997b2f89359139a285e13674e",
+      "mtime": "1667144895",
+      "size": "1527808",
+      "md5": "7dfde3d4636a245da3ffb0b967df5455",
+      "crc32": "ba9d4cef",
+      "sha1": "c0b8558e85ae12364807d5380acaa5fa7590b6da",
       "format": "Metadata"
     },
     {
@@ -12356,9 +12407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1194,
-  "item_last_updated": 1667104623,
-  "item_size": 87212836,
+  "files_count": 1199,
+  "item_last_updated": 1667144945,
+  "item_size": 87642628,
   "metadata": {
     "identifier": "chess24com-2022",
     "collection": [
@@ -12375,10 +12426,21 @@
     "publicdate": "2022-07-20 11:23:28",
     "addeddate": "2022-07-20 11:23:28"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1441173771,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457068136,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 418583885,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

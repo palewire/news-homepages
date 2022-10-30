@@ -1,5 +1,5 @@
 {
-  "created": 1667104573,
+  "created": 1667144844,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/8/items/alamogordonews-2022",
@@ -4852,31 +4852,82 @@
       "sha1": "787f2f2b44bd0c601107de887bfaeb17af77f244"
     },
     {
+      "name": "alamogordonews-2022-10-30T09:46:10.997366-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144778",
+      "size": "20321",
+      "md5": "f55612bdd1b92800e82bc1276976cd42",
+      "crc32": "bc0431ed",
+      "sha1": "6dba1254aa3afcf90012628a5168127085e1088f",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-10-30T09:46:10.997366-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144779",
+      "size": "34285",
+      "md5": "7169b4cd0ba299576866aa1993638deb",
+      "crc32": "b9ecba8b",
+      "sha1": "71231f5128854fb0e85cd2588f0e0c67cda36177",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-10-30T09:46:10.997366-06:00.jpg",
+      "source": "original",
+      "mtime": "1667144776",
+      "size": "227097",
+      "md5": "771bf889100af8cf0586146a6ee9c079",
+      "crc32": "e848c559",
+      "sha1": "10be42f64f7cbdc9492a59a8297f5df500b25b55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alamogordonews-2022-10-30T09:46:10.997366-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144783",
+      "size": "1531",
+      "md5": "b122708003f180148948ef8889240c58",
+      "crc32": "18a36b23",
+      "sha1": "5dcae93612b6456e363f8c55ef4792b6bf3c281d",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-10-30T09:46:10.997366-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144785",
+      "size": "96931",
+      "md5": "d32e4c26783e4d732032cca4883fa2d7",
+      "crc32": "bb070c86",
+      "sha1": "7657f0af2aba173e578111763cb059abb435c55e",
+      "format": "JSON"
+    },
+    {
       "name": "alamogordonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20d526d3058ce4571e550ab428decec76341c7f1",
-      "mtime": "1667104480",
-      "size": "102902",
-      "md5": "e3047b434e0f0d7bf0368aa89e3a03c3",
-      "crc32": "dd8cca4c",
-      "sha1": "27081dd11c3f6cbe203d45ab0c238c9277ccf3be",
+      "btih": "90ade713510e4f073fb0c759a50b7f9cabdee35e",
+      "mtime": "1667144838",
+      "size": "103995",
+      "md5": "89ab4fd3b35903f74e62caf933705017",
+      "crc32": "1f862945",
+      "sha1": "dc6851d651ca26e38bd814e75478a4426382cac5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alamogordonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5fb7fefec050a23ebe57e95a4a6ff1a6",
+      "md5": "bd36708fa7c3cb00c37590ae4c5257aa",
       "summation": "md5"
     },
     {
       "name": "alamogordonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103489",
-      "size": "618496",
-      "md5": "7f23a2b8daa607b0310d352e489008a5",
-      "crc32": "68cfdcc9",
-      "sha1": "62b8103b4a67afb3fa9458e4e62f691a7201f9b7",
+      "mtime": "1667144798",
+      "size": "630784",
+      "md5": "7ddcabb6d4ff814bf5fd5d596fc7010b",
+      "crc32": "96402727",
+      "sha1": "accedd27584604f88d45ebbd9e448ba778b1acef",
       "format": "Metadata"
     },
     {
@@ -4890,9 +4941,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 473,
-  "item_last_updated": 1667104480,
-  "item_size": 31035551,
+  "files_count": 478,
+  "item_last_updated": 1667144838,
+  "item_size": 31429097,
   "metadata": {
     "identifier": "alamogordonews-2022",
     "collection": [
@@ -4909,10 +4960,21 @@
     "publicdate": "2022-09-21 04:37:44",
     "addeddate": "2022-09-21 04:37:44"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 823102334,
+  "pending_tasks": true,
+  "server": "ia601507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457067066,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1716524958,
   "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667104804,
+  "created": 1667145097,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/civic_lex-2022",
@@ -13302,31 +13302,82 @@
       "sha1": "e7dec5627fa488b3eb528fc0a1e7db0f216213ad"
     },
     {
+      "name": "civic_lex-2022-10-30T11:50:02.376307-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667145010",
+      "size": "19256",
+      "md5": "bae5215724ad0ce77ac633bf99c59241",
+      "crc32": "65a586dc",
+      "sha1": "ee70e1fbf6cd9539c1adeccd7df2039bb0a2dfe9",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-10-30T11:50:02.376307-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667145012",
+      "size": "13325",
+      "md5": "40bbf8d4386c15b01b52ceb6b3c9552c",
+      "crc32": "5165d265",
+      "sha1": "fe3d103d888b03806149ca697f27ca359a5c8fb2",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-10-30T11:50:02.376307-04:00.jpg",
+      "source": "original",
+      "mtime": "1667145008",
+      "size": "161849",
+      "md5": "1884d5f66949e5b1e4dd5c03be0a3db2",
+      "crc32": "32ce2560",
+      "sha1": "e835224e3159c7032ab4713e7a7420612d8956d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civic_lex-2022-10-30T11:50:02.376307-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667145013",
+      "size": "1477",
+      "md5": "3a37af99d52a6bf07e5c57fcf871ae7f",
+      "crc32": "fcd5b3fb",
+      "sha1": "a97850f442679ed8d144a52ef19e26e90b15a901",
+      "format": "JSON"
+    },
+    {
+      "name": "civic_lex-2022-10-30T11:50:02.376307-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667145015",
+      "size": "11147",
+      "md5": "1dee786debc9bd8ef577d3449b89aaa4",
+      "crc32": "087780a4",
+      "sha1": "8c0a728e54d7794f2002b55caa2ba988eab13e90",
+      "format": "JSON"
+    },
+    {
       "name": "civic_lex-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d59daa57e5b864a24887db61ebb9b5f1ff4949c",
-      "mtime": "1667104735",
-      "size": "271042",
-      "md5": "737686991d2b1286353a07af3a558749",
-      "crc32": "22c5ee8a",
-      "sha1": "50bb325c08563a8870f3f19ac069c4a124f21364",
+      "btih": "4080695d2cfb1986ec1872f16eb6f6a1fc13230c",
+      "mtime": "1667145086",
+      "size": "272090",
+      "md5": "8bd9afff3f1c472b3d8360427cc283c8",
+      "crc32": "396017c1",
+      "sha1": "5cc11dc01a68e4a30dd5520cbf7b5a805b593bd6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civic_lex-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bfe3d54846919c24655c2218a000bb89",
+      "md5": "3d4e46196a7fa0488103caaf44c912e5",
       "summation": "md5"
     },
     {
       "name": "civic_lex-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103651",
-      "size": "1626112",
-      "md5": "b6c4cd266adc98538eb821e249f9190b",
-      "crc32": "7f513989",
-      "sha1": "9916ff2675480ccb67adc3a38f3f1b90f8a763f2",
+      "mtime": "1667145029",
+      "size": "1634304",
+      "md5": "d60db84afa7c6cfb1e69c701e79ed992",
+      "crc32": "2d8e3eb3",
+      "sha1": "aa5a05aade1322415f1a83c8b4d6c1de06f54958",
       "format": "Metadata"
     },
     {
@@ -13340,9 +13391,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1288,
-  "item_last_updated": 1667104735,
-  "item_size": 48541942,
+  "files_count": 1293,
+  "item_last_updated": 1667145086,
+  "item_size": 48758236,
   "metadata": {
     "identifier": "civic_lex-2022",
     "collection": [
@@ -13359,10 +13410,21 @@
     "publicdate": "2022-07-09 03:57:14",
     "addeddate": "2022-07-09 03:57:14"
   },
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 1860313527,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457069721,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1043937182,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia601507.us.archive.org"
   ]
 }

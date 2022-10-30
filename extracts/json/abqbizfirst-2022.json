@@ -1,13 +1,5 @@
 {
-  "abqbizfirst-2022": {
-    "url": "https://www.bizjournals.com/albuquerque/",
-    "job_id": "spn2-71e607830da862c3c235775211f257e72018d52b",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "resources": [],
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1204."
-  },
-  "created": 1667105865,
+  "created": 1667144842,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/8/items/abqbizfirst-2022",
@@ -12354,31 +12346,82 @@
       "sha1": "e4b40fe259ae16b532e4817a6046ac0bec4e5d8a"
     },
     {
+      "name": "abqbizfirst-2022-10-30T09:46:14.848784-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144778",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-10-30T09:46:14.848784-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144780",
+      "size": "20300",
+      "md5": "dea5bee7a91106bb92ff5fcd8e818def",
+      "crc32": "c7c03468",
+      "sha1": "95d93569cc37d038c7e8488067c3c9e773d052b1",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-10-30T09:46:14.848784-06:00.jpg",
+      "source": "original",
+      "mtime": "1667144776",
+      "size": "231685",
+      "md5": "8fc39a6b744aca73fc7b8671ce2a262b",
+      "crc32": "28610b82",
+      "sha1": "81f44595af43736343d29993a7c319b3c9436991",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abqbizfirst-2022-10-30T09:46:14.848784-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144781",
+      "size": "1612",
+      "md5": "b45b30cd6aec9bc045a7421c35ad0a1a",
+      "crc32": "1ea8e166",
+      "sha1": "cdb2d753bc5293fa490d300915496abe7d562353",
+      "format": "JSON"
+    },
+    {
+      "name": "abqbizfirst-2022-10-30T09:46:14.848784-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144783",
+      "size": "2843",
+      "md5": "9ba5bd697b8567a37b938c38b9ab18c9",
+      "crc32": "e342930e",
+      "sha1": "4ef136e9db156fd2d0f22c9e740c6e84820a2b7f",
+      "format": "JSON"
+    },
+    {
       "name": "abqbizfirst-2022_archive.torrent",
       "source": "metadata",
-      "btih": "05aeb135f9e8dd0fc93087b8a3ea13ec7c87a0db",
-      "mtime": "1667104445",
-      "size": "255474",
-      "md5": "396aeef04c6192e8e7938f5cc6a4cb54",
-      "crc32": "c673053c",
-      "sha1": "56defe2ab2c47ec6183546fb9140b2826f7e0bc0",
+      "btih": "7ce2e9301139a77754e099b31e51dc8decc67c16",
+      "mtime": "1667144839",
+      "size": "256529",
+      "md5": "59e3ba6b17da750bcf2af2141f0f566f",
+      "crc32": "ecef3585",
+      "sha1": "7bfc4a5e918971bda2ff244fa5b2f0aa7e9bcd4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abqbizfirst-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d1ff7e7d6f3a0b8000f6a16cdc3f9393",
+      "md5": "646dafa5d98cc448aa08bb09aeb0fdde",
       "summation": "md5"
     },
     {
       "name": "abqbizfirst-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103523",
-      "size": "1523712",
-      "md5": "2f55642ee47bb68fd66eaeb88daa0fb6",
-      "crc32": "6e3b3c9f",
-      "sha1": "77ec16bd6ee721d3ce3d9adc84b04f8560f6b178",
+      "mtime": "1667144788",
+      "size": "1531904",
+      "md5": "cd182f5306996722b3ceeacc716277c2",
+      "crc32": "42dcd059",
+      "sha1": "9c738961fb90c23707eebad5a80f676aee5946e3",
       "format": "Metadata"
     },
     {
@@ -12392,9 +12435,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1197,
-  "item_last_updated": 1667104445,
-  "item_size": 79473653,
+  "files_count": 1202,
+  "item_last_updated": 1667144839,
+  "item_size": 79739480,
   "metadata": {
     "identifier": "abqbizfirst-2022",
     "collection": [
@@ -12411,10 +12454,21 @@
     "publicdate": "2022-07-19 01:13:43",
     "addeddate": "2022-07-19 01:13:43"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1982139989,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457067055,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 50531602,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,10 +1,5 @@
 {
-  "badger_project_-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667105939,
+  "created": 1667145505,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/9/items/badger_project_-2022",
@@ -13255,31 +13250,93 @@
       "sha1": "33daf8964657758128dcd8d20ad83d5d0a861f3f"
     },
     {
+      "name": "badger_project_-2022-10-30T10:47:39.644470-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144863",
+      "size": "103",
+      "md5": "b4f3f851079d78e56bd25a069e93be0d",
+      "crc32": "0294a5d1",
+      "sha1": "1260950839b50d7166ce550a94de08942d1e6402",
+      "format": "JSON"
+    },
+    {
+      "name": "badger_project_-2022-10-30T10:47:39.644470-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144865",
+      "size": "25599",
+      "md5": "4e1ea09e73bcfdbf6d06ca5431132cf5",
+      "crc32": "b18f2ea2",
+      "sha1": "c2c388fd2bbe733d3370718d6cfbf9346a5ede36",
+      "format": "JSON"
+    },
+    {
+      "name": "badger_project_-2022-10-30T10:47:39.644470-05:00.jpg",
+      "source": "original",
+      "mtime": "1667144861",
+      "size": "343197",
+      "md5": "25dfba8d3c5230efb089097d45038f93",
+      "crc32": "e797a391",
+      "sha1": "138affa4216753de5018dcd310c2ca8beb67fd59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "badger_project_-2022-10-30T10:47:39.644470-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144867",
+      "size": "1513",
+      "md5": "18c510709c3af76a420225944e1be438",
+      "crc32": "b29afc40",
+      "sha1": "3ad6096610df5d7305c812b59cf816531f9ed58e",
+      "format": "JSON"
+    },
+    {
+      "name": "badger_project_-2022-10-30T10:47:39.644470-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144869",
+      "size": "14140",
+      "md5": "8c5a09e5ade1e6c08b66cb500ae30da3",
+      "crc32": "8db2b0e9",
+      "sha1": "541a57c1c3ec8a53122b250bd1ca338d76e924f0",
+      "format": "JSON"
+    },
+    {
+      "name": "badger_project_-2022-10-30T10:47:39.644470-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "badger_project_-2022-10-30T10:47:39.644470-05:00.jpg",
+      "mtime": "1667145435",
+      "size": "9731",
+      "md5": "cf179694adf9b32759c3fceae4ec97a1",
+      "crc32": "d81cf0e6",
+      "sha1": "df1a932294a372cf092a16e3a88d734db9972d45"
+    },
+    {
       "name": "badger_project_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2601a2c630620fc9e984df6540ac5cb36a7addbd",
-      "mtime": "1667104508",
-      "size": "278964",
-      "md5": "ccf1ebcea78122640ef51034cb69e9f9",
-      "crc32": "f3c4ce2e",
-      "sha1": "89749a5a2e8f8469d8278d68426ca7ec3b0ce563",
+      "btih": "5e42d9044b3e81ec1db6767e026f9743f0faa068",
+      "mtime": "1667145486",
+      "size": "280271",
+      "md5": "df7c9521e44a34cf14f8eca088d24dae",
+      "crc32": "c8fa70d3",
+      "sha1": "29677c5f69dbf35be25fbf423b51205934ada8c1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "badger_project_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f3685b4b2f6b48570c60d162c152d141",
+      "md5": "06e2cee7ba54a150c4f5f6d499702fe5",
       "summation": "md5"
     },
     {
       "name": "badger_project_-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103521",
-      "size": "1630208",
-      "md5": "7a393a23c57c46f4e24871b71d281b06",
-      "crc32": "70549eca",
-      "sha1": "c251fd4206be0bfa45889dad7b7225d85f0eac8f",
+      "mtime": "1667144878",
+      "size": "1634304",
+      "md5": "3b7a8b80c2c305ed77ca44024328c0a4",
+      "crc32": "1b703164",
+      "sha1": "8ca5008f9e5bb2bae7f123e916e716a0344f6a57",
       "format": "Metadata"
     },
     {
@@ -13293,9 +13350,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1283,
-  "item_last_updated": 1667104508,
-  "item_size": 85458417,
+  "files_count": 1289,
+  "item_last_updated": 1667145486,
+  "item_size": 85858103,
   "metadata": {
     "identifier": "badger_project_-2022",
     "collection": [
@@ -13313,7 +13370,7 @@
     "addeddate": "2022-07-09 03:56:20"
   },
   "server": "ia801503.us.archive.org",
-  "uniq": 357185765,
+  "uniq": 1233527435,
   "workable_servers": [
     "ia801503.us.archive.org",
     "ia601503.us.archive.org"

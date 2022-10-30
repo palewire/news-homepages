@@ -1,5 +1,5 @@
 {
-  "created": 1667104559,
+  "created": 1667145094,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/11/items/chesscom-2022",
@@ -12368,31 +12368,82 @@
       "sha1": "89c8c67053869f0a68123aec7ccdaa9add48097d"
     },
     {
+      "name": "chesscom-2022-10-30T08:50:22.074724-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667145033",
+      "size": "26477",
+      "md5": "6fb262e1ed948b94a5f91199ca8ae86b",
+      "crc32": "1cf94a68",
+      "sha1": "c2b60b44337fa2967596879a8ee2ba01a1d2a9bf",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-30T08:50:22.074724-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667145034",
+      "size": "17612",
+      "md5": "5376ab3b805214bccab049e55410072c",
+      "crc32": "b0e251fa",
+      "sha1": "991ba9ca62d5aa1ce63022c0bd12172ec853dee1",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-30T08:50:22.074724-07:00.jpg",
+      "source": "original",
+      "mtime": "1667145031",
+      "size": "229391",
+      "md5": "10e98e67e3bebb2f66691fe75ade88f5",
+      "crc32": "cc82689e",
+      "sha1": "8f53ea305f3e78c02f40a571e6587719b0eb25d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesscom-2022-10-30T08:50:22.074724-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667145035",
+      "size": "1486",
+      "md5": "984bb6744c33026f9059b4ab7fd1a21e",
+      "crc32": "eb5b3625",
+      "sha1": "924b418890238070b6584da5c07299355c7c7405",
+      "format": "JSON"
+    },
+    {
+      "name": "chesscom-2022-10-30T08:50:22.074724-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667145037",
+      "size": "18594",
+      "md5": "7957f97efc1fcada7790d475e7a4fe0d",
+      "crc32": "3ea7cc53",
+      "sha1": "fb157f5d84b6ac3c417c0b54d063418525ca1db0",
+      "format": "JSON"
+    },
+    {
       "name": "chesscom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b0d00ec08c38ee9c9a8aeaa2cc49c2ea3a2e646",
-      "mtime": "1667104542",
-      "size": "252078",
-      "md5": "1987a1c6a89a63ff2b46ae9a74409ff0",
-      "crc32": "2bc4b6e4",
-      "sha1": "badc34fa2c90524196bcce4ff7dbffd26ed17b71",
+      "btih": "f7507bfba3b231c7c37a2e65ea661aedb7e571d3",
+      "mtime": "1667145089",
+      "size": "253121",
+      "md5": "de360fe73e58921e2959657954daad56",
+      "crc32": "e6582233",
+      "sha1": "153fdde07514794c227ce4af83252c2feca1ff74",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesscom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fbcb46bfda6f79432decd787ac84054",
+      "md5": "ef43c437e761c7af5bfc99b9ebfe646e",
       "summation": "md5"
     },
     {
       "name": "chesscom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103630",
-      "size": "1519616",
-      "md5": "9a9e545075f2aa09ec695eaac1f583e0",
-      "crc32": "76e5d704",
-      "sha1": "ef440e30fdecebcafb00d9b518934b57362cf212",
+      "mtime": "1667145041",
+      "size": "1523712",
+      "md5": "759c3a39e13598a251a6b7f0fa13ca54",
+      "crc32": "299a8b80",
+      "sha1": "4c6aba58cc1e4198b6fbd7a93b254570eb4e6a0a",
       "format": "Metadata"
     },
     {
@@ -12406,9 +12457,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1199,
-  "item_last_updated": 1667104542,
-  "item_size": 63726815,
+  "files_count": 1204,
+  "item_last_updated": 1667145089,
+  "item_size": 64025514,
   "metadata": {
     "identifier": "chesscom-2022",
     "collection": [
@@ -12425,10 +12476,21 @@
     "publicdate": "2022-07-20 11:23:26",
     "addeddate": "2022-07-20 11:23:26"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 1634857543,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457069694,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 575850754,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }

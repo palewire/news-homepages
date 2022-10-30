@@ -1,5 +1,5 @@
 {
-  "created": 1667104668,
+  "created": 1667144956,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/bloombergjapan-2022",
@@ -17414,31 +17414,82 @@
       "sha1": "ad47371fa039ce3cbf665f7d7c5f32e8547618b2"
     },
     {
+      "name": "bloombergjapan-2022-10-31T00:47:57.416171+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144880",
+      "size": "10415",
+      "md5": "73543e6737cefb9f32753b168fe1de66",
+      "crc32": "31d3532f",
+      "sha1": "4581dec4840e6f9c476ec586fd6600771df32c0e",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-31T00:47:57.416171+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144882",
+      "size": "9584",
+      "md5": "6c601e4836ea2b00daeaa5e8826f6cf6",
+      "crc32": "3fde0178",
+      "sha1": "33433afb82629fdf238fea706ee8274998f93fa6",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-31T00:47:57.416171+09:00.jpg",
+      "source": "original",
+      "mtime": "1667144879",
+      "size": "278369",
+      "md5": "64e66398286a6e752758218ae06059ef",
+      "crc32": "55b6ba01",
+      "sha1": "e8eb2575556840d4cc9cc9b67d1970b158be70ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bloombergjapan-2022-10-31T00:47:57.416171+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144884",
+      "size": "1504",
+      "md5": "634f61ab9704936773b3337ed115e12d",
+      "crc32": "12ba2894",
+      "sha1": "067e7277a48c149ec2ae5817f86f8fffa5117264",
+      "format": "JSON"
+    },
+    {
+      "name": "bloombergjapan-2022-10-31T00:47:57.416171+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144886",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bloombergjapan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b58bc1fb906500b83578e4a7a758b3cb0beb7805",
-      "mtime": "1667104639",
-      "size": "365280",
-      "md5": "6b6d93af5b0df817df62d2157efefa73",
-      "crc32": "fd469b5b",
-      "sha1": "7795158513e1a8ce6169f470e9434d080eb7cd49",
+      "btih": "bda247f4d41fe4e650461bea6b2061f26972ff93",
+      "mtime": "1667144950",
+      "size": "366350",
+      "md5": "c560d838d826130a187b95331b95ebb9",
+      "crc32": "0a7c5957",
+      "sha1": "b416545712f552fb6b073821ea3d7d93e2f2975b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bloombergjapan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2013e169bd0ec2a89a996218454897b6",
+      "md5": "8964bd7a2c0b50129547070cd100ae42",
       "summation": "md5"
     },
     {
       "name": "bloombergjapan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103629",
-      "size": "2162688",
-      "md5": "0d4d95fa05efeb55ef2b61a3f7cf047f",
-      "crc32": "de7862b4",
-      "sha1": "f05b04770369cb100c57c2735b0f25e899093781",
+      "mtime": "1667144892",
+      "size": "2166784",
+      "md5": "eb7fbfa4ed181d1864e7e0e6085203ce",
+      "crc32": "bb5c8e5b",
+      "sha1": "6ca97cdb5813e6d222f86aa7d3f631e5455be68f",
       "format": "Metadata"
     },
     {
@@ -17452,9 +17503,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1688,
-  "item_last_updated": 1667104639,
-  "item_size": 104328127,
+  "files_count": 1693,
+  "item_last_updated": 1667144950,
+  "item_size": 104633367,
   "metadata": {
     "identifier": "bloombergjapan-2022",
     "collection": [
@@ -17471,10 +17522,21 @@
     "publicdate": "2022-07-26 01:31:25",
     "addeddate": "2022-07-26 01:31:25"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 468532253,
+  "pending_tasks": true,
+  "server": "ia902507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457068170,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1207739242,
   "workable_servers": [
-    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

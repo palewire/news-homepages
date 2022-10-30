@@ -1,5 +1,5 @@
 {
-  "created": 1667104938,
+  "created": 1667144959,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/bcn_foundation-2022",
@@ -13640,31 +13640,82 @@
       "sha1": "588306e74696e0f506c46a5b050ef0fe3644758a"
     },
     {
+      "name": "bcn_foundation-2022-10-30T08:47:47.195037-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144880",
+      "size": "68237",
+      "md5": "9d4579ec8cedb5c5cad1a0f28c8115c5",
+      "crc32": "36011f60",
+      "sha1": "b9da7258d4a1d0782914ece9ae14edecce370250",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-30T08:47:47.195037-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144883",
+      "size": "74387",
+      "md5": "07e7a3409fad44883c116d2260683f98",
+      "crc32": "b233416e",
+      "sha1": "24e38de8f071ad33b60f15db14b8c2087c15f36a",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-30T08:47:47.195037-07:00.jpg",
+      "source": "original",
+      "mtime": "1667144879",
+      "size": "203638",
+      "md5": "1ded5b70dd7abf790a160e71d7c53565",
+      "crc32": "4e3eee0e",
+      "sha1": "56d3542e9cdaf0ad5456b83df97373f2b76192c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcn_foundation-2022-10-30T08:47:47.195037-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144884",
+      "size": "1510",
+      "md5": "7437c5fb19f98ddba795f2fb07d83155",
+      "crc32": "63900cb0",
+      "sha1": "b1cc3e0b3e1f3940c560e94d163294fcd642aa5e",
+      "format": "JSON"
+    },
+    {
+      "name": "bcn_foundation-2022-10-30T08:47:47.195037-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144886",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bcn_foundation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80812cf1256db99f8455d6d57bb4855bbc6005e5",
-      "mtime": "1667104684",
-      "size": "286056",
-      "md5": "98e62907aa285dcbc3c4c754fad93b13",
-      "crc32": "f40b95f2",
-      "sha1": "df533fbf64e1ed5fb8f4ad267b584ca744e4f2e5",
+      "btih": "1f8b0be56eeba69a2fe7276e40add86165976544",
+      "mtime": "1667144950",
+      "size": "287127",
+      "md5": "9aa59dd50bc68e9255c699e17d078a05",
+      "crc32": "6af80f4c",
+      "sha1": "04c8fc9b7d193ca9f15368e39548db0b88393359",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bcn_foundation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6d278cbb04bf1bfeeba28076a5056c34",
+      "md5": "4865d1a846a567a75d44cd84d84c210a",
       "summation": "md5"
     },
     {
       "name": "bcn_foundation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103672",
-      "size": "1675264",
-      "md5": "9beaa740ee3c4f3238ffdccc456a1551",
-      "crc32": "b95deb04",
-      "sha1": "7ace862738087134b230a696611995414ec7fef6",
+      "mtime": "1667144890",
+      "size": "1679360",
+      "md5": "c76c2a16b9baed6da9881bbbe3502cd6",
+      "crc32": "bb5851f5",
+      "sha1": "6956ca5d328e6b226a7c0fe7cb0af0b41de5a6d8",
       "format": "Metadata"
     },
     {
@@ -13678,9 +13729,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1320,
-  "item_last_updated": 1667104684,
-  "item_size": 90624128,
+  "files_count": 1325,
+  "item_last_updated": 1667144950,
+  "item_size": 90977269,
   "metadata": {
     "identifier": "bcn_foundation-2022",
     "collection": [
@@ -13697,10 +13748,21 @@
     "publicdate": "2022-07-09 03:56:17",
     "addeddate": "2022-07-09 03:56:17"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 257503067,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457068194,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1653654787,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

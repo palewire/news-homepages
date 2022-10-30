@@ -1,5 +1,5 @@
 {
-  "created": 1667104658,
+  "created": 1667144989,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/capgaznews-2022",
@@ -15242,31 +15242,82 @@
       "sha1": "a849f13142f1ac7aa21b94ab695ed606feedee0e"
     },
     {
+      "name": "capgaznews-2022-10-30T11:48:29.825105-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144912",
+      "size": "33151",
+      "md5": "c6af1a6be84b44f77ecda16f4c09a473",
+      "crc32": "af57cf2e",
+      "sha1": "28078ecc6d615707aed7ceff438278070f6e2cde",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-30T11:48:29.825105-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144914",
+      "size": "29067",
+      "md5": "32e5680927b929893e10d1a5b1d9958d",
+      "crc32": "d4d283df",
+      "sha1": "0f0ac2db5a0e857f3fb71c665e369903c421092e",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-30T11:48:29.825105-04:00.jpg",
+      "source": "original",
+      "mtime": "1667144911",
+      "size": "251609",
+      "md5": "2c673606b7ed6d9e31bb16ca5023b881",
+      "crc32": "f953b772",
+      "sha1": "860579d8881521ee1da9b1da36a387e39d69d293",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-10-30T11:48:29.825105-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144916",
+      "size": "1531",
+      "md5": "8f489c76957431f61dc08aa0a54a6b84",
+      "crc32": "865366c4",
+      "sha1": "ea9a3ff32c709d7a2ff41f66b6aa8757b4ec100a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-10-30T11:48:29.825105-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144917",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "capgaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d180671a845ff51780c2dc3ebc2552d745dce2e8",
-      "mtime": "1667104603",
-      "size": "313314",
-      "md5": "db0f59eb43f6dc5e85ed262b84b957a9",
-      "crc32": "2adaaf5a",
-      "sha1": "7a04061e63c776d724b7ee4ae84d37e6d4ccad08",
+      "btih": "2750ff9581f59f2df4dcb5cc4121a36bf21f672c",
+      "mtime": "1667144980",
+      "size": "314365",
+      "md5": "5c2411a2d0b146972695a7b598427026",
+      "crc32": "26a07a5b",
+      "sha1": "d97d2c4f4d502446f81e6dc83fc357163c224f48",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capgaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fef829f062bc6dbf714a122e9bd6ffba",
+      "md5": "e9f719da115408d2c2ecc8550c139f33",
       "summation": "md5"
     },
     {
       "name": "capgaznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103632",
-      "size": "1839104",
-      "md5": "25e8138b472a27914fbbec38650298f8",
-      "crc32": "153ba551",
-      "sha1": "8381ebbeb9eed13eec082f862fe7d3083ca95268",
+      "mtime": "1667144923",
+      "size": "1843200",
+      "md5": "ab80d1f4ac8f2d17db5032b6b334a33d",
+      "crc32": "44c9424c",
+      "sha1": "63a30f4a424cba91154fd2d3204929a436602434",
       "format": "Metadata"
     },
     {
@@ -15280,9 +15331,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1473,
-  "item_last_updated": 1667104603,
-  "item_size": 102170097,
+  "files_count": 1478,
+  "item_last_updated": 1667144980,
+  "item_size": 102490804,
   "metadata": {
     "identifier": "capgaznews-2022",
     "collection": [
@@ -15299,10 +15350,21 @@
     "publicdate": "2022-06-24 22:54:14",
     "addeddate": "2022-06-24 22:54:14"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 1234162345,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457068441,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1461550885,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

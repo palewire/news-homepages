@@ -1,5 +1,5 @@
 {
-  "created": 1667105599,
+  "created": 1667144823,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/3/items/airwaysmagazine-2022",
@@ -8614,31 +8614,82 @@
       "sha1": "a85cb00921379c1a9cfa943451dbe21155ecc6ed"
     },
     {
+      "name": "airwaysmagazine-2022-10-30T11:45:58.880508-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144769",
+      "size": "40216",
+      "md5": "a2cb53b3512c07d31de1508532b11359",
+      "crc32": "6bf870b1",
+      "sha1": "1558bac5c6f7dd684e7281baf842feedc05ec46f",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-30T11:45:58.880508-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144770",
+      "size": "32061",
+      "md5": "ee1ed872203b9a1026c957d3eb3cc61f",
+      "crc32": "455d6119",
+      "sha1": "2d077a44a41a40b85d760cf868d1e4196191dcbd",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-30T11:45:58.880508-04:00.jpg",
+      "source": "original",
+      "mtime": "1667144767",
+      "size": "254443",
+      "md5": "8cd3ee8f2beb46461213b6ae88358547",
+      "crc32": "533f9a83",
+      "sha1": "4a4ef61de07b32810638a48475ce3d14e3098994",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-30T11:45:58.880508-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144772",
+      "size": "1458",
+      "md5": "d4ea1b038ebf16045f923e7aef00e00f",
+      "crc32": "3d117715",
+      "sha1": "d022302a475353197e2b5fadb11f38d2422d92f4",
+      "format": "JSON"
+    },
+    {
+      "name": "airwaysmagazine-2022-10-30T11:45:58.880508-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144774",
+      "size": "248",
+      "md5": "6898272255e85f21ef6dfed69088fbb5",
+      "crc32": "0b0eb321",
+      "sha1": "a858535e82076c9ee0860c9ada6b254c3852f40a",
+      "format": "JSON"
+    },
+    {
       "name": "airwaysmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "12e0a1e4bc98da2b50bd68f40f00292808301f95",
-      "mtime": "1667105256",
-      "size": "181604",
-      "md5": "209f1e308e6435a6b82ff53634102c19",
-      "crc32": "ac05dbdc",
-      "sha1": "77007aae52169c04f51770b035e7bcd2dfa3c2d8",
+      "btih": "6ca3150f1d590f9de88027385ee806150400b89f",
+      "mtime": "1667144819",
+      "size": "182680",
+      "md5": "20a03363d1d3fcb372562fa18bd8ac1c",
+      "crc32": "9804f354",
+      "sha1": "6a5f44aae06249f5fbdf5838fc2932d5b93c1962",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airwaysmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "20a9dee293b09e57116a55d8f517caed",
+      "md5": "11a2c3aa1d2ccfbd69c017843beed9c6",
       "summation": "md5"
     },
     {
       "name": "airwaysmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103500",
-      "size": "1081344",
-      "md5": "70565dd0af558d8043ac634801e3e5a4",
-      "crc32": "34af7ecd",
-      "sha1": "a67b07e35944aeffa8c837888ea2667ba5c30cf8",
+      "mtime": "1667144778",
+      "size": "1089536",
+      "md5": "b806264b1aee70815e893ae66c667050",
+      "crc32": "e7d40374",
+      "sha1": "3253ad10865cedab0a1d0f89f56b0ed4823fdecb",
       "format": "Metadata"
     },
     {
@@ -8652,9 +8703,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 837,
-  "item_last_updated": 1667105256,
-  "item_size": 34319801,
+  "files_count": 842,
+  "item_last_updated": 1667144819,
+  "item_size": 34657495,
   "metadata": {
     "identifier": "airwaysmagazine-2022",
     "collection": [
@@ -8671,10 +8722,21 @@
     "publicdate": "2022-08-21 01:13:36",
     "addeddate": "2022-08-21 01:13:36"
   },
-  "server": "ia801403.us.archive.org",
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 1559602398,
+  "tasks": [
+    {
+      "task_id": 3457066902,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1956805690,
   "workable_servers": [
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

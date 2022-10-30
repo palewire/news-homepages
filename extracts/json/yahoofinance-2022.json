@@ -1,5 +1,5 @@
 {
-  "created": 1667105173,
+  "created": 1667145186,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/14/items/yahoofinance-2022",
@@ -8304,31 +8304,82 @@
       "sha1": "69963de43bcc03b0e084609946b76382112e472f"
     },
     {
+      "name": "yahoofinance-2022-10-30T11:51:56.365319-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667145126",
+      "size": "41479",
+      "md5": "441b5f1bb576597e08f33fe968ce168c",
+      "crc32": "9251c627",
+      "sha1": "3c72c85f841e008dff88e1016b4a6443a08391c7",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-30T11:51:56.365319-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667145128",
+      "size": "24052",
+      "md5": "d5dbb7af50f4acda88f6170d1442b85b",
+      "crc32": "6e407a59",
+      "sha1": "ab25a97af34563115e1f757c4d70490b1caa12aa",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-30T11:51:56.365319-04:00.jpg",
+      "source": "original",
+      "mtime": "1667145125",
+      "size": "262598",
+      "md5": "08c5b6a6b466c8f705fc150ad155a8e2",
+      "crc32": "031242aa",
+      "sha1": "d298f37dd91da8b24a625f067210284cbedf5882",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yahoofinance-2022-10-30T11:51:56.365319-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667145130",
+      "size": "1486",
+      "md5": "1a425f70bb038738f283b21afc9e9c55",
+      "crc32": "2e4b7070",
+      "sha1": "7ad557d84968b774374d27b71f7d480f662bdeba",
+      "format": "JSON"
+    },
+    {
+      "name": "yahoofinance-2022-10-30T11:51:56.365319-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667145131",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "yahoofinance-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa7a347a1051fe48c07779d3aa43d19d3c86cd3c",
-      "mtime": "1667104971",
-      "size": "173626",
-      "md5": "9683f93e44e7ea321903d9f0c9e5f634",
-      "crc32": "56dfff21",
-      "sha1": "105dc3e99dc54cee5f595758e1441f3d448ba556",
+      "btih": "adb29cdc355e3052b38a79faf5f92466ff481073",
+      "mtime": "1667145181",
+      "size": "174687",
+      "md5": "9ee2d88e38f5aacf7223dfaa9c952144",
+      "crc32": "3ebfff29",
+      "sha1": "f058fbd6b23756ae8839bf2d5e4c94a356391f38",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoofinance-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7ac449ae3a909bddc8581283173cda44",
+      "md5": "ac1bab82267659b810d466e31c03394f",
       "summation": "md5"
     },
     {
       "name": "yahoofinance-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667103756",
-      "size": "1040384",
-      "md5": "a3f4993f533c403cda866965a0953569",
-      "crc32": "8cb968a1",
-      "sha1": "04123a69430cddbb6614d78b5fbbc993af265ef2",
+      "mtime": "1667145136",
+      "size": "1048576",
+      "md5": "120e8548e4441ad623330d0bcbfb6677",
+      "crc32": "f2caf98c",
+      "sha1": "5d3af169865b6b5e7f7983bc0d276451d8aa8c87",
       "format": "Metadata"
     },
     {
@@ -8342,9 +8393,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 807,
-  "item_last_updated": 1667104971,
-  "item_size": 56830601,
+  "files_count": 812,
+  "item_last_updated": 1667145181,
+  "item_size": 57169671,
   "metadata": {
     "identifier": "yahoofinance-2022",
     "collection": [
@@ -8361,10 +8412,21 @@
     "publicdate": "2022-08-23 14:05:03",
     "addeddate": "2022-08-23 14:05:03"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1559649690,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457070582,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1088525967,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }
