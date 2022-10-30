@@ -1,6 +1,5 @@
 {
-  "conflict": 1667108586,
-  "created": 1667108586,
+  "created": 1667154587,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/0/items/laist-2022",
@@ -20767,31 +20766,61 @@
       "format": "JSON"
     },
     {
+      "name": "laist-2022-10-30T10:13:46.375133-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667150037",
+      "size": "35206",
+      "md5": "498e6c89542be205b611d7154b8c403d",
+      "crc32": "9e59fefc",
+      "sha1": "04fa54e8eb670380cee74fc6f7d847f9cb65ad31",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-10-30T10:13:46.375133-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667150038",
+      "size": "1405",
+      "md5": "f40657013e4cd7a1e8b69f54a028d0d6",
+      "crc32": "c84053c0",
+      "sha1": "65a54223bdf201dc3513788c1a944b5e03955694",
+      "format": "JSON"
+    },
+    {
+      "name": "laist-2022-10-30T10:13:46.375133-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667150041",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "laist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6a87bc4757db28b517b11497153ffa6008b3cacb",
-      "mtime": "1667107952",
-      "size": "418997",
-      "md5": "bac558fdd44fb6c2b0fad906e812c508",
-      "crc32": "b3b075a3",
-      "sha1": "24744e0d71ef3572d0c6ce15d2f2c8df95875f8b",
+      "btih": "2f9074e5be125a58bcd2e3851e38290200a64c06",
+      "mtime": "1667150116",
+      "size": "419615",
+      "md5": "b0b306f04611adf545ba4fa41ec5f204",
+      "crc32": "3ab7d9ff",
+      "sha1": "d85105fa2aa475057e6ff70fc6abd2b0f427f596",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de83c4eb28b76c41d7f3ebd9b186b1db",
+      "md5": "441a8fe089ead3101f72588e120672f5",
       "summation": "md5"
     },
     {
       "name": "laist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667107890",
-      "size": "2568192",
-      "md5": "297bbd7415abffafc3c0de0271a96a45",
-      "crc32": "b296ca7c",
-      "sha1": "e93ef8dad0882b0444cfeac14d092cf538422c98",
+      "mtime": "1667150046",
+      "size": "2576384",
+      "md5": "5b0213c82fd805701fadae8982c5c781",
+      "crc32": "1494a8fc",
+      "sha1": "ec1c965b94ab027b0f3f5160a0247cade6c2688b",
       "format": "Metadata"
     },
     {
@@ -20805,9 +20834,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2015,
-  "item_last_updated": 1667107952,
-  "item_size": 133286839,
+  "files_count": 2018,
+  "item_last_updated": 1667150116,
+  "item_size": 133332462,
+  "laist-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "laist-2022",
     "collection": [
@@ -20824,29 +20858,10 @@
     "publicdate": "2022-03-23 02:08:36",
     "addeddate": "2022-03-23 02:08:36"
   },
-  "pending_tasks": true,
-  "server": "ia902503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3456730675,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3456737806,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 67573162,
+  "server": "ia802503.us.archive.org",
+  "uniq": 273844208,
   "workable_servers": [
+    "ia802503.us.archive.org",
     "ia902503.us.archive.org"
   ]
 }

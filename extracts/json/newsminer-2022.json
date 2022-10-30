@@ -1,6 +1,5 @@
 {
-  "conflict": 1667108679,
-  "created": 1667108679,
+  "created": 1667152298,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/13/items/newsminer-2022",
@@ -5887,31 +5886,93 @@
       "sha1": "65fa360f17f9c2ddc15b35180a75a47495b4df5f"
     },
     {
+      "name": "newsminer-2022-10-30T09:17:01.114947-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667150224",
+      "size": "32245",
+      "md5": "9aebbb4cc24359b21b4b13935c3fb90b",
+      "crc32": "9b9cebdb",
+      "sha1": "a217b1270eb4419b2f4b912abf625967179f6b59",
+      "format": "JSON"
+    },
+    {
+      "name": "newsminer-2022-10-30T09:17:01.114947-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667150226",
+      "size": "56364",
+      "md5": "fbadd322e3ede1ff5d8996095e9a213c",
+      "crc32": "711db26c",
+      "sha1": "43e3c9e50ddd702b7ed5551d6461397b7f427033",
+      "format": "JSON"
+    },
+    {
+      "name": "newsminer-2022-10-30T09:17:01.114947-08:00.jpg",
+      "source": "original",
+      "mtime": "1667150223",
+      "size": "287046",
+      "md5": "170beb5e34fb96265600601abd18151b",
+      "crc32": "7f7e0954",
+      "sha1": "21bec5a5081177f5aa161233ea0bfbadd9fe5b4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsminer-2022-10-30T09:17:01.114947-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667150228",
+      "size": "1486",
+      "md5": "e258a4dab24804436e3789fe38575312",
+      "crc32": "a81f2fb3",
+      "sha1": "a0d1c05920dc3b47ddb778e4853a8acfc605301a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsminer-2022-10-30T09:17:01.114947-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667150230",
+      "size": "206",
+      "md5": "78afb6b85a1a888a3f36c0700305c91b",
+      "crc32": "b9a10355",
+      "sha1": "d802a1b0fd56a251cc8153e8139172cec1d01ecb",
+      "format": "JSON"
+    },
+    {
+      "name": "newsminer-2022-10-30T09:17:01.114947-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsminer-2022-10-30T09:17:01.114947-08:00.jpg",
+      "mtime": "1667152132",
+      "size": "9412",
+      "md5": "c15f6d3b970677d5fac9d4efa2d00be6",
+      "crc32": "1d041dc4",
+      "sha1": "4e7a8458a0ddbd9c51042152c04b00f3ad78fed0"
+    },
+    {
       "name": "newsminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fee5d32d912fff1c6ff4731ce1ebc884de8487df",
-      "mtime": "1667108669",
-      "size": "121766",
-      "md5": "e90dc3c7e9ac9e89401a1427e626d3b3",
-      "crc32": "7f71e060",
-      "sha1": "66e1d675cec007653da0c7beb1c7dc66967651c7",
+      "btih": "43cb12e37d159c3ee774762a88d6e2977371cf38",
+      "mtime": "1667152138",
+      "size": "123037",
+      "md5": "4202daeeb1c3ed82ed7edf3678b3b3c2",
+      "crc32": "d5e3adb0",
+      "sha1": "d05829a0de73bd40b052343c9e00b2a129dbfee0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b9ff1f8caa1454b651c60c7a684d7a3",
+      "md5": "822040ccdf10ea832b4203248ca4e928",
       "summation": "md5"
     },
     {
       "name": "newsminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667108063",
-      "size": "741376",
-      "md5": "ee37d5b783e4508cc803f728534618ac",
-      "crc32": "a8c67b33",
-      "sha1": "e622b7ff46fdaaf2b348b92ab4d54ebea21dc8c3",
+      "mtime": "1667150234",
+      "size": "749568",
+      "md5": "a32003977b95c39ca3287efa2c5190fb",
+      "crc32": "26760950",
+      "sha1": "4cd5b90e83c2989c6e878665870f8fe73e50fa88",
       "format": "Metadata"
     },
     {
@@ -5925,9 +5986,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 573,
-  "item_last_updated": 1667108669,
-  "item_size": 41476064,
+  "files_count": 579,
+  "item_last_updated": 1667152138,
+  "item_size": 41872286,
   "metadata": {
     "identifier": "newsminer-2022",
     "collection": [
@@ -5944,21 +6005,10 @@
     "publicdate": "2022-09-12 16:52:52",
     "addeddate": "2022-09-12 16:52:52"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3456738721,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1283494465,
+  "server": "ia801506.us.archive.org",
+  "uniq": 916929642,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }
