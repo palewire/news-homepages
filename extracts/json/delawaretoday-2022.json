@@ -1,5 +1,5 @@
 {
-  "created": 1667130796,
+  "created": 1667173067,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/21/items/delawaretoday-2022",
@@ -5772,31 +5772,93 @@
       "sha1": "7afb66feee6066e2e1f51246ab5d7b61d348c2c5"
     },
     {
+      "name": "delawaretoday-2022-10-30T19:35:11.253979-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667172914",
+      "size": "23504",
+      "md5": "17c6c01efe397ac2bc3b6754e579ccb0",
+      "crc32": "98ec8746",
+      "sha1": "b95e2da62569ead1878a7d50c053348286b9c127",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-30T19:35:11.253979-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667172916",
+      "size": "25036",
+      "md5": "3387898241b7941a35bf0bc9b831f30e",
+      "crc32": "370291de",
+      "sha1": "0d3ec783bfa5f8b5bdac25f2788646799c293865",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-30T19:35:11.253979-04:00.jpg",
+      "source": "original",
+      "mtime": "1667172913",
+      "size": "246377",
+      "md5": "3e768cfce40cb11d65944552694b474e",
+      "crc32": "c28f6f54",
+      "sha1": "e6d6807cea5ecbd54eb2ff20fe9d478a7f0294b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawaretoday-2022-10-30T19:35:11.253979-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667172919",
+      "size": "1485",
+      "md5": "a0c9e7cdc7041bc6fa3894028bd0033d",
+      "crc32": "b473fb88",
+      "sha1": "672b7b849828b8b11fa37f1b17219c90fbb6d8e0",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-30T19:35:11.253979-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667172921",
+      "size": "12494",
+      "md5": "c456a698568ef092dee1fad101cb770c",
+      "crc32": "2ed3847a",
+      "sha1": "3202ff5ecb33d27c1c81953aa7b276567ad015d0",
+      "format": "JSON"
+    },
+    {
+      "name": "delawaretoday-2022-10-30T19:35:11.253979-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawaretoday-2022-10-30T19:35:11.253979-04:00.jpg",
+      "mtime": "1667173053",
+      "size": "10239",
+      "md5": "22467507b7d57bbb30eb652e21b1a22f",
+      "crc32": "49fe663f",
+      "sha1": "93c5945d940264f5ca2e1e55a209aa8a37930ef2"
+    },
+    {
       "name": "delawaretoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "55ab8547c68de0015a3df0f49cd9db590d2faaf8",
-      "mtime": "1667130768",
-      "size": "121415",
-      "md5": "a7348fb720b081929e8acbc6c1cff5c9",
-      "crc32": "368d7896",
-      "sha1": "26a46689bbaaae04ce211a3d3ee78274232455e7",
+      "btih": "6edaa8c4c1e7bf054e0578254a26be4a10705e35",
+      "mtime": "1667173059",
+      "size": "122693",
+      "md5": "b2296a6fc4cf056d5f80879dc1b474dc",
+      "crc32": "495782cf",
+      "sha1": "a239b57744bdbac93e8c7ef5549b635d420556b5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawaretoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34ae5a6c8b51f412a517ca86fa02e597",
+      "md5": "0b922295f3fc7ffd0ebd62599fcdd0fb",
       "summation": "md5"
     },
     {
       "name": "delawaretoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667130205",
-      "size": "733184",
-      "md5": "fbfe7859d4afd1b95a1af12b408be465",
-      "crc32": "3f1efd1c",
-      "sha1": "ab2e75f84e4d6877a8515b4042132b321ab5004b",
+      "mtime": "1667172923",
+      "size": "741376",
+      "md5": "3c3023b4afa0e007793b541315a3042c",
+      "crc32": "5443c03e",
+      "sha1": "5c564e2160cd4cb95bc0c0a87225d9c190861204",
       "format": "Metadata"
     },
     {
@@ -5810,9 +5872,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 562,
-  "item_last_updated": 1667130768,
-  "item_size": 31614971,
+  "files_count": 568,
+  "item_last_updated": 1667173059,
+  "item_size": 31943576,
   "metadata": {
     "identifier": "delawaretoday-2022",
     "collection": [
@@ -5829,10 +5891,10 @@
     "publicdate": "2022-09-14 10:58:21",
     "addeddate": "2022-09-14 10:58:21"
   },
-  "server": "ia601405.us.archive.org",
-  "uniq": 33961408,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1626999692,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia801405.us.archive.org",
+    "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1667130352,
+  "conflict": 1667173557,
+  "created": 1667173557,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/20/items/dronedj-2022",
@@ -8873,31 +8874,99 @@
       "format": "JSON"
     },
     {
+      "name": "dronedj-2022-10-30T07:44:47.747266-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dronedj-2022-10-30T07:44:47.747266-04:00.jpg",
+      "mtime": "1667132183",
+      "size": "9370",
+      "md5": "3486b772d3c79e031a6b40cb2e053be3",
+      "crc32": "7f2d3281",
+      "sha1": "b5bec122723de0045a172ae8ee51dbfa52aad336"
+    },
+    {
+      "name": "dronedj-2022-10-30T19:37:08.510444-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667173037",
+      "size": "15657",
+      "md5": "fd089ded2829aae54408af7a55d7c924",
+      "crc32": "efeb79c0",
+      "sha1": "c643c1cba779c33b448e5c8502614ce1f910233a",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-10-30T19:37:08.510444-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667173042",
+      "size": "17103",
+      "md5": "22d6a8964ab38eec5223ea380ffe8d3a",
+      "crc32": "f680cb8a",
+      "sha1": "eca47a32a8e19f2571f0a5f2ce22bc102b495d3b",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-10-30T19:37:08.510444-04:00.jpg",
+      "source": "original",
+      "mtime": "1667173035",
+      "size": "207191",
+      "md5": "0fda6c146defc2c573135f4f9c4db895",
+      "crc32": "fac22569",
+      "sha1": "8a85119f9e4a5596b2fc3f835945ab4b17787af6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dronedj-2022-10-30T19:37:08.510444-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667173044",
+      "size": "1432",
+      "md5": "c9f2d424de512269b42837beeeb3a2d8",
+      "crc32": "219961fa",
+      "sha1": "2d65b5c9b3c56c6b8e61075ac3bfe76f13988964",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-10-30T19:37:08.510444-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667173046",
+      "size": "16921",
+      "md5": "fe22c3504c017a70bb1bff12b3587e5e",
+      "crc32": "a4f36932",
+      "sha1": "6ad3d5430fbdfe6fbae3a1de6d4fc1618ad2fd43",
+      "format": "JSON"
+    },
+    {
+      "name": "dronedj-2022-10-30T19:37:08.510444-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dronedj-2022-10-30T19:37:08.510444-04:00.jpg"
+    },
+    {
       "name": "dronedj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0d0a751e3a12cfadd1198fbfb2683c53d413b092",
-      "mtime": "1667130347",
-      "size": "180372",
-      "md5": "b449bc1b126f2ace02590828ef21adac",
-      "crc32": "4d82c81c",
-      "sha1": "dc5813d07b5d65ff63bdf7e4930d4c35f5a226d7",
+      "btih": "937ddf9d81b7360f5ff6372817a237006063ea6d",
+      "mtime": "1667173094",
+      "size": "181613",
+      "md5": "607a47d891ec2d62c77e24cd2f0e276d",
+      "crc32": "4f3c4487",
+      "sha1": "4ce5b875f08e466a3790275eae5051b7c0064011",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dronedj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "152abd5ddfbf33ad40c11edd52561068",
+      "md5": "040376e797696b687414ed840afcf248",
       "summation": "md5"
     },
     {
       "name": "dronedj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667130305",
-      "size": "1101824",
-      "md5": "e2e5af383f5d19a9be1a103b212aff6e",
-      "crc32": "6021b0b3",
-      "sha1": "2c014e25dff574cae6992dfe17dec0a66eb5443d",
+      "mtime": "1667173050",
+      "size": "1110016",
+      "md5": "cff3300033d7c9fca0577e34ac9eafbc",
+      "crc32": "7880e1a7",
+      "sha1": "49680884a19ed89cac871af83456efcca9b5f978",
       "format": "Metadata"
     },
     {
@@ -8911,9 +8980,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 862,
-  "item_last_updated": 1667130347,
-  "item_size": 41736015,
+  "files_count": 869,
+  "item_last_updated": 1667173094,
+  "item_size": 42013122,
   "metadata": {
     "identifier": "dronedj-2022",
     "collection": [
@@ -8935,7 +9004,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456929473,
+      "task_id": 3457341229,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -8943,7 +9012,7 @@
       "status": "running"
     }
   ],
-  "uniq": 609739661,
+  "uniq": 1926357895,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

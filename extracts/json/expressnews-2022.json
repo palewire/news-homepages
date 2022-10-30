@@ -1,6 +1,5 @@
 {
-  "conflict": 1667131274,
-  "created": 1667131274,
+  "created": 1667173161,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/expressnews-2022",
@@ -13703,31 +13702,82 @@
       "sha1": "de043cd73071178dfad666ce670977c132d9e99d"
     },
     {
+      "name": "expressnews-2022-10-30T18:37:52.821154-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667173081",
+      "size": "69485",
+      "md5": "be70fc7aae0675a13d39bd13a65889fd",
+      "crc32": "ff533389",
+      "sha1": "09f6807466a79906b91169cd25b4c4793e0adae9",
+      "format": "JSON"
+    },
+    {
+      "name": "expressnews-2022-10-30T18:37:52.821154-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667173083",
+      "size": "69806",
+      "md5": "9c5dc644e6d12ea667af0e941b3c4054",
+      "crc32": "5b2cc044",
+      "sha1": "1693347e232a8e6125f6065dacef9de7ede02435",
+      "format": "JSON"
+    },
+    {
+      "name": "expressnews-2022-10-30T18:37:52.821154-05:00.jpg",
+      "source": "original",
+      "mtime": "1667173080",
+      "size": "331579",
+      "md5": "ec66bee60d9df471165b3937b18507d3",
+      "crc32": "16522213",
+      "sha1": "78b99eb6aa77a757d40e6173e76dffb9ee1ab5b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "expressnews-2022-10-30T18:37:52.821154-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667173084",
+      "size": "1501",
+      "md5": "5bc3ff2fe5de2d4943cbcc3668ce31c9",
+      "crc32": "32debbec",
+      "sha1": "a0e7086458df32ac648036815e6c28ebf823e7d7",
+      "format": "JSON"
+    },
+    {
+      "name": "expressnews-2022-10-30T18:37:52.821154-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667173086",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "expressnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e6668fd83e301ae048878597e7e1ec8c0897373",
-      "mtime": "1667131269",
-      "size": "284787",
-      "md5": "44cb48e14101e03ea43aba0196e01c0c",
-      "crc32": "9f079ece",
-      "sha1": "f6d6a870bc498fb7a57bb01e8a8dab94361629e3",
+      "btih": "0a0fa8245fe1a49bf0246e6bb531874383785b92",
+      "mtime": "1667173153",
+      "size": "285863",
+      "md5": "14f920647e3ef95a3a401396c37cde66",
+      "crc32": "4470b91c",
+      "sha1": "b7519a6f4f951453394e1bdbfc1682b01e65bd90",
       "format": "Archive BitTorrent"
     },
     {
       "name": "expressnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0bfc08bdf084ea3eef34c4cb78e144f",
+      "md5": "cd8fc91e8c08b8143fdccbadc8bb503a",
       "summation": "md5"
     },
     {
       "name": "expressnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667130376",
-      "size": "1671168",
-      "md5": "6d440c7f8722f2bf0a296e1b5c1e315c",
-      "crc32": "ebbdc611",
-      "sha1": "6e899af4651474584e47a02ebf6741875d779995",
+      "mtime": "1667173097",
+      "size": "1679360",
+      "md5": "43bae10b4e130c8fade88c7787aca8b3",
+      "crc32": "87d28356",
+      "sha1": "7f81879566aa9bdf40d77a6cd12315398da2dfb2",
       "format": "Metadata"
     },
     {
@@ -13741,9 +13791,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1326,
-  "item_last_updated": 1667131269,
-  "item_size": 121638400,
+  "files_count": 1331,
+  "item_last_updated": 1667173153,
+  "item_size": 122120241,
   "metadata": {
     "identifier": "expressnews-2022",
     "collection": [
@@ -13765,15 +13815,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456936705,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3457341744,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1513764749,
+  "uniq": 494057769,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

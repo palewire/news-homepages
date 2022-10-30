@@ -1,5 +1,5 @@
 {
-  "created": 1667130971,
+  "created": 1667173112,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/23/items/desert_oracle-2022",
@@ -13722,31 +13722,82 @@
       "sha1": "79d42ee7fe2486130130d9452100f5a2b3c0a871"
     },
     {
+      "name": "desert_oracle-2022-10-30T16:37:02.890155-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667173044",
+      "size": "7538",
+      "md5": "563026bb2a32ac4c62e3504948c47427",
+      "crc32": "8949c836",
+      "sha1": "6f27c9e6bb4224c8e8b5092773f245a1b1105ad3",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-10-30T16:37:02.890155-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667173046",
+      "size": "3019",
+      "md5": "3969912749396f34f92cb88f43cfd6a1",
+      "crc32": "d4987bf6",
+      "sha1": "9c3d841f5547649b6f4b6736bccdbf98fb1426b7",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-10-30T16:37:02.890155-07:00.jpg",
+      "source": "original",
+      "mtime": "1667173042",
+      "size": "130236",
+      "md5": "2b85cf43525ce572f0a7c6bb7cd78265",
+      "crc32": "16c11630",
+      "sha1": "d9698410a43104e3553c96ce4227bbc31879701c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "desert_oracle-2022-10-30T16:37:02.890155-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667173048",
+      "size": "1510",
+      "md5": "af4b9aefada84258cade96c697eec838",
+      "crc32": "1d682ae4",
+      "sha1": "6580915da135520aada728d12687b8a45be1aef4",
+      "format": "JSON"
+    },
+    {
+      "name": "desert_oracle-2022-10-30T16:37:02.890155-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667173049",
+      "size": "18172",
+      "md5": "ba09739a8a2ae85cd850582784743b88",
+      "crc32": "4a12114e",
+      "sha1": "d027d2881d212ca075d8181040244296b0d5fb6e",
+      "format": "JSON"
+    },
+    {
       "name": "desert_oracle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ad278fcdb380087176f0e50fd1947ed541bd3e4",
-      "mtime": "1667130885",
-      "size": "284022",
-      "md5": "2ec40633ec1f6585cd241cf7ba1e5bc9",
-      "crc32": "519abdfc",
-      "sha1": "7a14abbacc7719bd8278c8e0c113f9aecea90ffa",
+      "btih": "7879243d8d826968d4438d1cc8eaa7de3182b7f5",
+      "mtime": "1667173107",
+      "size": "285108",
+      "md5": "71ee48c7886432be9ec53a070cbacf15",
+      "crc32": "783f624c",
+      "sha1": "70d58844d291c4cac28dedd0a5dc39641576b0d7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desert_oracle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5adb76f1c6965da8ffbf5c98331f439f",
+      "md5": "607c2ed5964eace998b9662d785d27e7",
       "summation": "md5"
     },
     {
       "name": "desert_oracle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667130215",
-      "size": "1679360",
-      "md5": "14e8b851d9fcaac27a9bd59cddda8002",
-      "crc32": "ac4306bd",
-      "sha1": "227f8629e5c27a4b6ce9eda83c1b5523aa8494c5",
+      "mtime": "1667173055",
+      "size": "1687552",
+      "md5": "f3d74b0b083b92b825c1213c40ad51b6",
+      "crc32": "04aa2a3f",
+      "sha1": "70a08c1666f482e85ba44b4020614f702f243c32",
       "format": "Metadata"
     },
     {
@@ -13760,9 +13811,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1328,
-  "item_last_updated": 1667130885,
-  "item_size": 39067404,
+  "files_count": 1333,
+  "item_last_updated": 1667173107,
+  "item_size": 39237157,
   "metadata": {
     "identifier": "desert_oracle-2022",
     "collection": [
@@ -13779,10 +13830,21 @@
     "publicdate": "2022-07-04 22:30:03",
     "addeddate": "2022-07-04 22:30:03"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 178481018,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457341315,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1228155234,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

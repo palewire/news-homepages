@@ -1,6 +1,5 @@
 {
-  "conflict": 1667131107,
-  "created": 1667131107,
+  "created": 1667173022,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/3/items/dainikbhaskar-2022",
@@ -11723,31 +11722,82 @@
       "sha1": "4e3e786aec9cf44fcbdb4a64bd44136ca0e79437"
     },
     {
+      "name": "dainikbhaskar-2022-10-31T05:05:12.419595+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1667172920",
+      "size": "53865",
+      "md5": "d4390c3c04b958f1f3dceb1c40c5ca3d",
+      "crc32": "373545b9",
+      "sha1": "dccc7a1a3057177e5426d60bb869b966181c2328",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-10-31T05:05:12.419595+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667172921",
+      "size": "35947",
+      "md5": "1926c0a059220467d6d02eccdde26292",
+      "crc32": "b2ff4b25",
+      "sha1": "0a1febcf6258d62c42c836b945d065ea23ccbca5",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-10-31T05:05:12.419595+05:30.jpg",
+      "source": "original",
+      "mtime": "1667172918",
+      "size": "217810",
+      "md5": "5ecadecbde021de0106875c0ee792c1d",
+      "crc32": "723dc29f",
+      "sha1": "3ad56edbda24eb25d9ce6aed384efdc4ef0aff71",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dainikbhaskar-2022-10-31T05:05:12.419595+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1667172923",
+      "size": "1459",
+      "md5": "4ab6587acddf417e133f585a525a89ca",
+      "crc32": "1891a8c9",
+      "sha1": "bb36e1cd5f83c01c79c87d25466c5e24c56652d2",
+      "format": "JSON"
+    },
+    {
+      "name": "dainikbhaskar-2022-10-31T05:05:12.419595+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1667172925",
+      "size": "25407",
+      "md5": "7fbd829aeea7599032b8e3e99e1762a8",
+      "crc32": "2f8d2191",
+      "sha1": "bdbc8fdc286c43078ea9a17b50635c12b5175db7",
+      "format": "JSON"
+    },
+    {
       "name": "dainikbhaskar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d14499e6fca9383a4a83b2fd196c4ed3f272bc0a",
-      "mtime": "1667131103",
-      "size": "245101",
-      "md5": "5830e64df3c6df7a09caa569a8ec5646",
-      "crc32": "3fd568c2",
-      "sha1": "566a1e102127a10e0183698c6eb1d8e500e8122b",
+      "btih": "b07b17ecc218362a1ddeb796d9c5c49489dbf402",
+      "mtime": "1667173011",
+      "size": "246189",
+      "md5": "e489351b1dff4b15414f2ab9e0a56186",
+      "crc32": "4f2ebf3d",
+      "sha1": "549d6c19a7ec0c82ccdd9895b8d7d25238916202",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainikbhaskar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68bcc3dfab53f0a8473c0b151c5c7a3d",
+      "md5": "766f2f1899d6c3cbcc873f22f655b10d",
       "summation": "md5"
     },
     {
       "name": "dainikbhaskar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667130244",
-      "size": "1458176",
-      "md5": "91f8569f29a6fc85963407a82f58a9d3",
-      "crc32": "920418e4",
-      "sha1": "488764caf9aae4a369b1f45b372f5bd3c903c774",
+      "mtime": "1667172952",
+      "size": "1466368",
+      "md5": "b36b61eeb30ccfd76a835a7ca18979ec",
+      "crc32": "cc5eac14",
+      "sha1": "447b03433dd3d7cc7400c67ce247443dc6924e86",
       "format": "Metadata"
     },
     {
@@ -11761,9 +11811,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1137,
-  "item_last_updated": 1667131103,
-  "item_size": 69127177,
+  "files_count": 1142,
+  "item_last_updated": 1667173011,
+  "item_size": 69470945,
   "metadata": {
     "identifier": "dainikbhaskar-2022",
     "collection": [
@@ -11785,15 +11835,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456934852,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3457340379,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 98942922,
+  "uniq": 548283827,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

@@ -1,6 +1,5 @@
 {
-  "conflict": 1667131252,
-  "created": 1667131252,
+  "created": 1667173096,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/destinlog-2022",
@@ -5039,31 +5038,82 @@
       "sha1": "33b8623164820cef36ef14f50a66a37dec16c235"
     },
     {
+      "name": "destinlog-2022-10-30T18:37:20.211803-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667173046",
+      "size": "23195",
+      "md5": "1ed024fc21f5b28388c91577e807e3be",
+      "crc32": "7e5eb5ad",
+      "sha1": "55f083ccffe1da286eb8dbdbbf7f897d65e472eb",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-30T18:37:20.211803-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667173047",
+      "size": "13467",
+      "md5": "c63dc40de320fa5887466b6456687544",
+      "crc32": "2dd0018e",
+      "sha1": "19203816911e3824c7bd196ba90da9de6af49030",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-30T18:37:20.211803-05:00.jpg",
+      "source": "original",
+      "mtime": "1667173044",
+      "size": "298395",
+      "md5": "8b1654f65049633f186f17a246b18a93",
+      "crc32": "5fff2361",
+      "sha1": "cd077d995b6d672c00831959ac45b3c6dd7523ae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "destinlog-2022-10-30T18:37:20.211803-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667173049",
+      "size": "1513",
+      "md5": "23709346f9f48bde2b12c152b2d6c23a",
+      "crc32": "2ee579b0",
+      "sha1": "60d0418d1e95290bb0e49f1eb25f9a111489d41c",
+      "format": "JSON"
+    },
+    {
+      "name": "destinlog-2022-10-30T18:37:20.211803-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667173051",
+      "size": "91719",
+      "md5": "68d54a850710efbf7403b2b51d4e9452",
+      "crc32": "9a522d0b",
+      "sha1": "db380033a490bf1ef9c6a422c57fa663a75127a8",
+      "format": "JSON"
+    },
+    {
       "name": "destinlog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b5fcaae2114aa9b4b44013a300319bd2f534f53",
-      "mtime": "1667131250",
-      "size": "104404",
-      "md5": "5ba7aaad96df342885b78e803b30d39f",
-      "crc32": "0019945f",
-      "sha1": "68b58aff16fdd22be38054a6912bd122b2bb7b46",
+      "btih": "0f4c2d9f43c3146df4695d29766094608f81665b",
+      "mtime": "1667173093",
+      "size": "105452",
+      "md5": "ba1a0acb6398822668e6a361ce06d698",
+      "crc32": "88adbd7f",
+      "sha1": "102c29870f2319c1b53b1ab3c0b192e023561d2a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "destinlog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "afad097e63535474d0bd112e14f2b853",
+      "md5": "e595797a2471623932dd6f9b5010cfc9",
       "summation": "md5"
     },
     {
       "name": "destinlog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667130238",
-      "size": "634880",
-      "md5": "f543c5a743a2d1705886eede4b3bc555",
-      "crc32": "a8553888",
-      "sha1": "c0f1276d3f0e1cb07048db06a04d99e49a0594aa",
+      "mtime": "1667173055",
+      "size": "643072",
+      "md5": "030accda37394a3c017412556b9516be",
+      "crc32": "c34cdbb2",
+      "sha1": "2acd9bb14fb2ee8e6c9011116769e12c4df70684",
       "format": "Metadata"
     },
     {
@@ -5077,9 +5127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 491,
-  "item_last_updated": 1667131250,
-  "item_size": 34208513,
+  "files_count": 496,
+  "item_last_updated": 1667173093,
+  "item_size": 34646042,
   "metadata": {
     "identifier": "destinlog-2022",
     "collection": [
@@ -5101,23 +5151,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456928960,
+      "task_id": 3457341178,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3456936361,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 1521142068,
+  "uniq": 2133607310,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]
