@@ -1,5 +1,6 @@
 {
-  "created": 1667084046,
+  "conflict": 1667127081,
+  "created": 1667127081,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/20minutes-2022",
@@ -26306,31 +26307,155 @@
       "format": "JSON"
     },
     {
+      "name": "20minutes-2022-10-30T00:51:08.693877+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "20minutes-2022-10-30T00:51:08.693877+02:00.jpg",
+      "mtime": "1667085924",
+      "size": "9683",
+      "md5": "b315853497bb71fe62157c3dadc6a07b",
+      "crc32": "747b7439",
+      "sha1": "542369592d8ee337d06525f7076ea66700f6ec48"
+    },
+    {
+      "name": "20minutes-2022-10-30T09:25:08.039374+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667118364",
+      "size": "58001",
+      "md5": "050ab8a4787768fa2e3aeb7f4b4d59f1",
+      "crc32": "36971be3",
+      "sha1": "7c4c511e3c24bd427f8e2e37675b7ad15881d259",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-30T09:25:08.039374+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667118366",
+      "size": "88500",
+      "md5": "58d87e87c40e282d2d1f059b772c20d2",
+      "crc32": "6025d3c9",
+      "sha1": "0ab3ec5fc11c971796cddad9d0ca27834ec25500",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-30T09:25:08.039374+01:00.jpg",
+      "source": "original",
+      "mtime": "1667118362",
+      "size": "284407",
+      "md5": "d8bd3ec5da89d39d9477924b108a7499",
+      "crc32": "7e30b74e",
+      "sha1": "6575b0ff9596fc9ba0699aa7b4528ee02f069463",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "20minutes-2022-10-30T09:25:08.039374+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667118368",
+      "size": "1470",
+      "md5": "93b86601dc176692a10e75c7398907c0",
+      "crc32": "3d541884",
+      "sha1": "a5e20b44a95619433ce00ce3bd35339eed72ae03",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-30T09:25:08.039374+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667118369",
+      "size": "65525",
+      "md5": "a83e3a9ce45a6647f2696a0279d6ad2d",
+      "crc32": "d45f5a3d",
+      "sha1": "4a3a5e55aab5e2a8cfb1c480b87bcf7f85524668",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-30T09:25:08.039374+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "20minutes-2022-10-30T09:25:08.039374+01:00.jpg",
+      "mtime": "1667119434",
+      "size": "9448",
+      "md5": "f5776adddc6a0b72a06be82b67a60cbe",
+      "crc32": "5cdc4b4e",
+      "sha1": "8b67b3eee30be30825ee02a62595db205f6f1314"
+    },
+    {
+      "name": "20minutes-2022-10-30T11:44:44.379979+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126688",
+      "size": "57744",
+      "md5": "449715c35141e68b3ae0f9c48223e294",
+      "crc32": "db4e13b8",
+      "sha1": "485c34f6720d9f6c9fb0195588a63faf135f1efe",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-30T11:44:44.379979+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126690",
+      "size": "88604",
+      "md5": "70970b3ef0533ba42bd8ce3eb8998fde",
+      "crc32": "adb58cad",
+      "sha1": "e089c75a054c2195e9fbc4d211dfd731ec100fbf",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-30T11:44:44.379979+01:00.jpg",
+      "source": "original",
+      "mtime": "1667126686",
+      "size": "263166",
+      "md5": "3afa01a653d7b50872e85833acbe8337",
+      "crc32": "4015f430",
+      "sha1": "037a37bd00f712b50219b75f45d3ae3914256ebe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "20minutes-2022-10-30T11:44:44.379979+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126692",
+      "size": "1471",
+      "md5": "c1a09b6722788983e99583b36215f287",
+      "crc32": "a4149d79",
+      "sha1": "155a13fa751e2035bba346e918c5a3ab5e6ebec2",
+      "format": "JSON"
+    },
+    {
+      "name": "20minutes-2022-10-30T11:44:44.379979+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126693",
+      "size": "7455",
+      "md5": "ab234adc27b7ef369257d60725721123",
+      "crc32": "10adc7a1",
+      "sha1": "f227d661f48123cbeca2f38b67a532779cc1daac",
+      "format": "JSON"
+    },
+    {
       "name": "20minutes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce46ccce1b4017f8ecd74d3ada85f525b892d84c",
-      "mtime": "1667084035",
-      "size": "538135",
-      "md5": "04564fe0b20c4bd3bc404f0396c4db4a",
-      "crc32": "d7da3f3b",
-      "sha1": "6fa00b72cf4d3afa044f7b68e09369d1b4e1a17d",
+      "btih": "423ae1df0f3496ab54eaa349b5a878a74caef254",
+      "mtime": "1667126833",
+      "size": "540680",
+      "md5": "bd703572c791916a627c1168154f20ba",
+      "crc32": "f8bcb460",
+      "sha1": "ecc661ad0f58e94cc639bac228a5464f15c9f41e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "20minutes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "14042161d0187b62856d7c7f7dadae32",
+      "md5": "722c2f3a4f40544ce398fa91c3fa39a3",
       "summation": "md5"
     },
     {
       "name": "20minutes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667083885",
-      "size": "3121152",
-      "md5": "7a8c2996b7af7a2e993e6e29a3a979f8",
-      "crc32": "1206ab01",
-      "sha1": "295ad66cc1527b2179eb1a08454be0827988237f",
+      "mtime": "1667126725",
+      "size": "3133440",
+      "md5": "e07c2f979cd9fd69d96eb38220ad6cd4",
+      "crc32": "9f59d375",
+      "sha1": "ffce00dc990e19af1a5ad03d4b81ac487e0f3af9",
       "format": "Metadata"
     },
     {
@@ -26355,9 +26480,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 2536,
-  "item_last_updated": 1667084035,
-  "item_size": 223061434,
+  "files_count": 2548,
+  "item_last_updated": 1667126833,
+  "item_size": 224011741,
   "metadata": {
     "identifier": "20minutes-2022",
     "collection": [
@@ -26379,15 +26504,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456488894,
+      "task_id": 3456898465,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 957794244,
+  "uniq": 2018416585,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

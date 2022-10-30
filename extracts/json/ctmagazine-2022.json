@@ -1,5 +1,5 @@
 {
-  "created": 1667084192,
+  "created": 1667127018,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/ctmagazine-2022",
@@ -8345,31 +8345,93 @@
       "format": "JSON"
     },
     {
+      "name": "ctmagazine-2022-10-29T17:55:21.396333-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctmagazine-2022-10-29T17:55:21.396333-05:00.jpg",
+      "mtime": "1667085063",
+      "size": "9009",
+      "md5": "b456d220cc126af28b44bf0f085fa497",
+      "crc32": "06a103e7",
+      "sha1": "e442ea1ae3f6d82d11980549276b6c04cf3a0b48"
+    },
+    {
+      "name": "ctmagazine-2022-10-30T05:49:14.278225-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126960",
+      "size": "26033",
+      "md5": "2a0939134123373c1d4f8e3108400f80",
+      "crc32": "b330aa8f",
+      "sha1": "187697f54c4d7fbdb11da99558f8f57d0954cbbb",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-30T05:49:14.278225-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126962",
+      "size": "26094",
+      "md5": "a72f9c7b6cc9a5066a509eaa42e33a31",
+      "crc32": "629d2863",
+      "sha1": "8c97ebd884f40bebc2ed77ce4a60339ddc5b015a",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-30T05:49:14.278225-05:00.jpg",
+      "source": "original",
+      "mtime": "1667126959",
+      "size": "322717",
+      "md5": "014787b87a69ee10918e5fa149450610",
+      "crc32": "e8d6b969",
+      "sha1": "caaa2de0cbe6993a861bbe20f71eab642c6c16e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctmagazine-2022-10-30T05:49:14.278225-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126964",
+      "size": "1554",
+      "md5": "67618ef5b4fec1a964db637bac6d687d",
+      "crc32": "2706b173",
+      "sha1": "23a6f2f3d6bc00c58802ab4abf1afc036171f1a5",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-10-30T05:49:14.278225-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126966",
+      "size": "24868",
+      "md5": "76272dcb0dba1d57c5fb1346d1b4a690",
+      "crc32": "e446648e",
+      "sha1": "7f803e33c3601014da7b1bdf7995b25733805ea9",
+      "format": "JSON"
+    },
+    {
       "name": "ctmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f41c657c67fcdac56e9c8da5f416793b1e5b69be",
-      "mtime": "1667084185",
-      "size": "172514",
-      "md5": "60c309e8c082bb3f05311fb4475589eb",
-      "crc32": "f035d7ca",
-      "sha1": "271284af0c78bdc4729e0ac1073ac38369f64647",
+      "btih": "f3da0ab195f48d90038591dd946842e8c21650e6",
+      "mtime": "1667127013",
+      "size": "173793",
+      "md5": "259982b6066bf0a1f65acc83f4595853",
+      "crc32": "23001453",
+      "sha1": "428aa18b1a2bb6a0d17a0f193c3664e784d8fbc1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "22b157c18dfc6b6b13490dc1a3979da0",
+      "md5": "156fb10c6c56d4e04f446576ef861192",
       "summation": "md5"
     },
     {
       "name": "ctmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667084139",
-      "size": "1044480",
-      "md5": "dc7fa0d3aac379354d461185d0c2a2f7",
-      "crc32": "6dbdd5d1",
-      "sha1": "0346a4cb58e619fa2ba6fbda0bd8843a151cb7b5",
+      "mtime": "1667126970",
+      "size": "1052672",
+      "md5": "40849786e7d548dae338a3db974cffb2",
+      "crc32": "c5830c43",
+      "sha1": "d8e8f1e21c53c76e828e782269d8961c15ef800b",
       "format": "Metadata"
     },
     {
@@ -8383,9 +8445,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 811,
-  "item_last_updated": 1667084185,
-  "item_size": 48085606,
+  "files_count": 817,
+  "item_last_updated": 1667127013,
+  "item_size": 48505352,
   "metadata": {
     "identifier": "ctmagazine-2022",
     "collection": [
@@ -8407,15 +8469,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456490206,
+      "task_id": 3456900401,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 920038521,
+  "uniq": 2052086506,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

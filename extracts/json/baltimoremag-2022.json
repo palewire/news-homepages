@@ -1,5 +1,5 @@
 {
-  "created": 1667084057,
+  "created": 1667126981,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/32/items/baltimoremag-2022",
@@ -12756,31 +12756,71 @@
       "format": "JSON"
     },
     {
+      "name": "baltimoremag-2022-10-30T06:46:50.919293-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126823",
+      "size": "47146",
+      "md5": "2d753d0b7cd4beaa36de9f1bab37a9fb",
+      "crc32": "8e549e58",
+      "sha1": "f02ebfa10ffd8b3a5d3fe9e9e4cad52781d05295",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-10-30T06:46:50.919293-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126824",
+      "size": "82867",
+      "md5": "27359e1a953a2d0e77bde1feaff4a01e",
+      "crc32": "6512ddae",
+      "sha1": "b1e3916583d9b87fcba28ad061adfdf7aa1eb471",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-10-30T06:46:50.919293-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126826",
+      "size": "1556",
+      "md5": "cd28968dafdb600f6c996aae1c821272",
+      "crc32": "6066864f",
+      "sha1": "1189406625f8072da21b1924f5e6e7bf85bce22b",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimoremag-2022-10-30T06:46:50.919293-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126828",
+      "size": "214",
+      "md5": "ecf964e4da38032be27492504f31760e",
+      "crc32": "dce4d658",
+      "sha1": "cdfcaf3315dc6f6b10143316642938e96dfaa719",
+      "format": "JSON"
+    },
+    {
       "name": "baltimoremag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d1845a9e4f7aa40e51cccd3696abd0cb5a2a494",
-      "mtime": "1667084047",
-      "size": "266054",
-      "md5": "0fff4e76add036231243a9ec63e5104d",
-      "crc32": "505753f8",
-      "sha1": "006bfff629c404661dce3389e8eea2b5527a2d4a",
+      "btih": "34c24a7e4b967a2b3000e2a6d29d5fc458359159",
+      "mtime": "1667126889",
+      "size": "266931",
+      "md5": "e6196ea520ca712ced17c5d282fa8ffa",
+      "crc32": "47eb8f15",
+      "sha1": "f0737c5b53a3eaaadfd117df70bc48be09b8ac20",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimoremag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "deaae967f6e45afd714bf875ad750bdf",
+      "md5": "cef155ee273b50f86c2d37fe9be47466",
       "summation": "md5"
     },
     {
       "name": "baltimoremag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667083998",
-      "size": "1581056",
-      "md5": "c57e4a438b18fd324c7a14412e374a84",
-      "crc32": "2afd5174",
-      "sha1": "0ca9a750b260cf0a7c378ca4b867e4c55fd3dea7",
+      "mtime": "1667126833",
+      "size": "1585152",
+      "md5": "57c809e1cd349682ac755506eea30426",
+      "crc32": "bba07563",
+      "sha1": "25761817d9dc07ec1268d67eacf088f86fe85917",
       "format": "Metadata"
     },
     {
@@ -12794,9 +12834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1237,
-  "item_last_updated": 1667084047,
-  "item_size": 90860863,
+  "files_count": 1241,
+  "item_last_updated": 1667126889,
+  "item_size": 90997619,
   "metadata": {
     "identifier": "baltimoremag-2022",
     "collection": [
@@ -12813,21 +12853,10 @@
     "publicdate": "2022-07-13 02:24:46",
     "addeddate": "2022-07-13 02:24:46"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3456488984,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1740155228,
+  "uniq": 1763243583,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }
