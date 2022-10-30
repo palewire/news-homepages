@@ -1,5 +1,5 @@
 {
-  "created": 1667072969,
+  "created": 1667155549,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/14/items/novayagazeta_eu-2022",
@@ -18470,31 +18470,217 @@
       "sha1": "b37870966c3ea2968363f79c02589da8c1b666de"
     },
     {
+      "name": "novayagazeta_eu-2022-10-30T09:58:29.951734+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667113140",
+      "size": "83779",
+      "md5": "d1c8419c9f112f283241411846800c22",
+      "crc32": "349838f0",
+      "sha1": "b678c702aad34c192814976488f808ad9a0c860f",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T09:58:29.951734+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667113144",
+      "size": "52385",
+      "md5": "07060e282ffcf4652c4b1a2404a4db02",
+      "crc32": "ea5c90a8",
+      "sha1": "23321787dfd3939f4785c2fa1296dfdbf53b01ae",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T09:58:29.951734+03:00.jpg",
+      "source": "original",
+      "mtime": "1667113138",
+      "size": "290116",
+      "md5": "afca789f0a151f0d69747bb518bf8035",
+      "crc32": "d954be93",
+      "sha1": "321312261324b0a955b4ff6af392752e4ef7b8d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T09:58:29.951734+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667113146",
+      "size": "1450",
+      "md5": "6ddd6c82df3a3a1d35317268aad31047",
+      "crc32": "a7df259b",
+      "sha1": "77c71827a73bee6b0eab100f9f5d28c9ad4cbf34",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T09:58:29.951734+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667113148",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T09:58:29.951734+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "novayagazeta_eu-2022-10-30T09:58:29.951734+03:00.jpg",
+      "mtime": "1667113609",
+      "size": "10005",
+      "md5": "dec3325920a631fd15b81ff7ef9cfb14",
+      "crc32": "53df5459",
+      "sha1": "305dbafda858c042cb583cc453fe3d6ccd75023f"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T10:03:11.175081+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667113394",
+      "size": "83773",
+      "md5": "e10052bcbff889bd237d048dc5222417",
+      "crc32": "a0723930",
+      "sha1": "2ea7376350c74237ddcdb351d627e7c126fd9028",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T10:03:11.175081+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667113396",
+      "size": "52385",
+      "md5": "7e598406b4b46bf63513658d9e461a7f",
+      "crc32": "65073da6",
+      "sha1": "70d88f6217d6825c5489083ac55f1b8856805aaf",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T10:03:11.175081+03:00.jpg",
+      "source": "original",
+      "mtime": "1667113392",
+      "size": "290234",
+      "md5": "c46f71cdc36fab734247eb599a8efbaa",
+      "crc32": "9c5faaec",
+      "sha1": "6893197b85b6b1f8f72c8985530d18fca3d2246d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T10:03:11.175081+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667113397",
+      "size": "1450",
+      "md5": "d20c5f67c596d4d1618449e417f4725b",
+      "crc32": "6e309b47",
+      "sha1": "0128abd9ec523aab0043d86215b5eaf1bc7d68de",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T10:03:11.175081+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667113399",
+      "size": "11764",
+      "md5": "06b25f9a3064229e1cbcb1e10112b175",
+      "crc32": "d782922d",
+      "sha1": "bca1250f95c3f8d06efe26994f8f8df3ebf5a7da",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T10:03:11.175081+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "novayagazeta_eu-2022-10-30T10:03:11.175081+03:00.jpg",
+      "mtime": "1667114794",
+      "size": "10013",
+      "md5": "b760274ef34435691e57c03cf3094988",
+      "crc32": "6260c1e1",
+      "sha1": "ffa6191097d92cdbfc14d4d4914028bfa8e470e7"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T21:25:39.304692+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154352",
+      "size": "73723",
+      "md5": "ccf5a52ba1d963493c8a99e44e940e1e",
+      "crc32": "88788a8d",
+      "sha1": "b54d073c9e755ae57b2bc5daed8e23228e964b7c",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T21:25:39.304692+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154354",
+      "size": "47158",
+      "md5": "17c0fb29370162411f3666b4c4d461aa",
+      "crc32": "b47ab592",
+      "sha1": "d139c336b84f65320aec7a0c0f460a95e31e4bf9",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T21:25:39.304692+03:00.jpg",
+      "source": "original",
+      "mtime": "1667154350",
+      "size": "316738",
+      "md5": "3290a372cbaa91c7a14bfdc673ca6ad0",
+      "crc32": "3f69e4a7",
+      "sha1": "4b2cfa39f981af9cf328b52db3f0d32e029e2524",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T21:25:39.304692+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154356",
+      "size": "1450",
+      "md5": "ad68b42146b728b6601c9d907adc7946",
+      "crc32": "cc9648aa",
+      "sha1": "14baedc0edb8ed9daee65baa5ba8693bc7c3f926",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T21:25:39.304692+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154357",
+      "size": "11258",
+      "md5": "368108c5998d315c9dc9fc2a362d4c70",
+      "crc32": "c0f3c831",
+      "sha1": "a436d4543caf702a08b5deea513fb4e466650e16",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-30T21:25:39.304692+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "novayagazeta_eu-2022-10-30T21:25:39.304692+03:00.jpg",
+      "mtime": "1667154564",
+      "size": "10138",
+      "md5": "cfaf1c143a36764325fe5b40902488f5",
+      "crc32": "37aea91e",
+      "sha1": "8f366319365aef01b5cdb57564cba23709e48b56"
+    },
+    {
       "name": "novayagazeta_eu-2022_archive.torrent",
       "source": "metadata",
-      "btih": "42922e20c1cfae7cc13f97c0597c65650ac545e0",
-      "mtime": "1667072946",
-      "size": "388252",
-      "md5": "40733f98ae67b083d136ff36b1682de0",
-      "crc32": "f719dad5",
-      "sha1": "c79a586f1c4f99cb50d4b9afb7a97e27cd03c410",
+      "btih": "f014c12ba517fde7678ecc88ba56fda711d4930a",
+      "mtime": "1667154823",
+      "size": "392160",
+      "md5": "7cd6a250e2e36f8c20939c5f80541e36",
+      "crc32": "8c5b6646",
+      "sha1": "97b29dea77ea3a06204ff8e2b1e8cdc82e7049ae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "novayagazeta_eu-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77781b1944b3bc830ad991966217e092",
+      "md5": "2a1a75e1ef0809457dfaa5cc5e5a4911",
       "summation": "md5"
     },
     {
       "name": "novayagazeta_eu-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667071903",
-      "size": "2273280",
-      "md5": "f62304236d4980ac7ddc7e1735b5aad6",
-      "crc32": "2319a1a2",
-      "sha1": "7f1de12addfcb27d614e21f5039f56ede83ae4a6",
+      "mtime": "1667154369",
+      "size": "2293760",
+      "md5": "9d8f7c23db27448587c016bf3f6bd3e9",
+      "crc32": "74502290",
+      "sha1": "fe6ef49c2a64abd4a3dde5bb3a6e4518334a65e7",
       "format": "Metadata"
     },
     {
@@ -18508,9 +18694,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1788,
-  "item_last_updated": 1667072946,
-  "item_size": 120028172,
+  "files_count": 1806,
+  "item_last_updated": 1667154823,
+  "item_size": 121400581,
   "metadata": {
     "identifier": "novayagazeta_eu-2022",
     "collection": [
@@ -18528,7 +18714,7 @@
     "addeddate": "2022-07-16 20:48:55"
   },
   "server": "ia601404.us.archive.org",
-  "uniq": 687931313,
+  "uniq": 1702090845,
   "workable_servers": [
     "ia601404.us.archive.org",
     "ia801404.us.archive.org"
