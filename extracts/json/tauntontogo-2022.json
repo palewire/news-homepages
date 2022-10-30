@@ -1,5 +1,5 @@
 {
-  "created": 1667100542,
+  "created": 1667140781,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/tauntontogo-2022",
@@ -4861,31 +4861,93 @@
       "format": "JSON"
     },
     {
+      "name": "tauntontogo-2022-10-29T23:28:07.881867-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tauntontogo-2022-10-29T23:28:07.881867-04:00.jpg",
+      "mtime": "1667101779",
+      "size": "9262",
+      "md5": "aeb2a9931194277a18aed9690ffbc678",
+      "crc32": "829140e4",
+      "sha1": "a824c9eec0f8f3cce1a18695acf0d6c1b32e6bdf"
+    },
+    {
+      "name": "tauntontogo-2022-10-30T10:38:44.384006-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140727",
+      "size": "21664",
+      "md5": "e266643bad7446d7d462261c2511b429",
+      "crc32": "b340077b",
+      "sha1": "2f67ea3bd16450160d3fda3011094032003ac054",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-30T10:38:44.384006-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140729",
+      "size": "36448",
+      "md5": "d5ef4761cc19f9cf70244e0d657fa9a7",
+      "crc32": "4d57eb20",
+      "sha1": "be2cb3db42568c630658bd0f33dadc6718640173",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-30T10:38:44.384006-04:00.jpg",
+      "source": "original",
+      "mtime": "1667140726",
+      "size": "240312",
+      "md5": "8d330768e938bb62064d331e9782651f",
+      "crc32": "b546ec62",
+      "sha1": "27debc375a5f8eec393b347b16b678218677507d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tauntontogo-2022-10-30T10:38:44.384006-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140731",
+      "size": "1531",
+      "md5": "f1f0db4c5bbd219f8287b1eaa8b5b1b4",
+      "crc32": "b9ce0dc8",
+      "sha1": "352465fdea9e59dd1ad34a2f420e1e39880bb64c",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-10-30T10:38:44.384006-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140732",
+      "size": "82755",
+      "md5": "1150e62a4069d510837bd72236412e40",
+      "crc32": "6df2d1e6",
+      "sha1": "381e9340f0eb3458c5da32f1eef019c3885fab00",
+      "format": "JSON"
+    },
+    {
       "name": "tauntontogo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "54f647c360b2e9600fe6db0683ee958faed49dac",
-      "mtime": "1667100537",
-      "size": "101707",
-      "md5": "6bbfea7ca7ed3fc45bdfa526e0318f0a",
-      "crc32": "2e9b32b4",
-      "sha1": "b0cae3788617029e8c86220abacf533d9093330f",
+      "btih": "9f3571326784ae5f2807aaea240e82a91bc270b2",
+      "mtime": "1667140773",
+      "size": "102992",
+      "md5": "a4e20abd7dd806b39be335c4ce9a2dda",
+      "crc32": "9c2bd7aa",
+      "sha1": "8518e4220538f1ffc722ec429f4996be74b92df3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tauntontogo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e74998a9949b7b1c100f0f5ca74a492",
+      "md5": "43ee4c89e2a50eefa6bf441b76ed4792",
       "summation": "md5"
     },
     {
       "name": "tauntontogo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667100500",
-      "size": "618496",
-      "md5": "75fb6636a44385a52db47e762311991d",
-      "crc32": "652fbca4",
-      "sha1": "0e1b4c9a1c4a4b13d4d30af125c8265e3c4cbf2d",
+      "mtime": "1667140736",
+      "size": "626688",
+      "md5": "7617cc83395f7f7f5c34bef140205e72",
+      "crc32": "ac0e921a",
+      "sha1": "a63b93a93023602189e8584dc4b2e2ae704aa578",
       "format": "Metadata"
     },
     {
@@ -4899,9 +4961,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 474,
-  "item_last_updated": 1667100537,
-  "item_size": 31731130,
+  "files_count": 480,
+  "item_last_updated": 1667140773,
+  "item_size": 32132579,
   "metadata": {
     "identifier": "tauntontogo-2022",
     "collection": [
@@ -4923,15 +4985,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456651747,
+      "task_id": 3457022335,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1302835817,
+  "uniq": 1613137446,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

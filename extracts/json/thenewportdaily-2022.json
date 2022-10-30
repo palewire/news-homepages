@@ -1,5 +1,5 @@
 {
-  "created": 1667100613,
+  "created": 1667140919,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/thenewportdaily-2022",
@@ -4893,31 +4893,93 @@
       "format": "JSON"
     },
     {
+      "name": "thenewportdaily-2022-10-29T23:29:04.868154-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewportdaily-2022-10-29T23:29:04.868154-04:00.jpg",
+      "mtime": "1667101343",
+      "size": "9078",
+      "md5": "50acd2b00ffdabc627dd860e29a92567",
+      "crc32": "31427a1a",
+      "sha1": "3df657cfb82ffac2a153844ab040bc564185cb48"
+    },
+    {
+      "name": "thenewportdaily-2022-10-30T10:40:59.908762-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140867",
+      "size": "19423",
+      "md5": "d00e1eb0f60aaaa601582100ac2f955d",
+      "crc32": "50dd6eef",
+      "sha1": "5d46e65d8d8167ecf84710afe3fe873ad39ff6fe",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewportdaily-2022-10-30T10:40:59.908762-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140868",
+      "size": "30915",
+      "md5": "e48c3703a6dcf5567bbec3339f345718",
+      "crc32": "8bc8e995",
+      "sha1": "2cd83eee4c67b37f6bc30d2c085df84c4a7eb243",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewportdaily-2022-10-30T10:40:59.908762-04:00.jpg",
+      "source": "original",
+      "mtime": "1667140865",
+      "size": "257553",
+      "md5": "ac2e3201a6f3409dca3e3a1bdcbd48fa",
+      "crc32": "27fccd74",
+      "sha1": "cb87ebb1b96a6316c641b09fe2037f81752c1479",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenewportdaily-2022-10-30T10:40:59.908762-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140870",
+      "size": "1485",
+      "md5": "f8bd87b68572c87d2cdf33c01a47a7a4",
+      "crc32": "f57e5d3c",
+      "sha1": "41d069f61c40e16e0084604651489e6072bd7ceb",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewportdaily-2022-10-30T10:40:59.908762-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140871",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thenewportdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "28654703bd7d47ca227b72b2fc84dd8d4f5ac09e",
-      "mtime": "1667100608",
-      "size": "104249",
-      "md5": "f4a5ae0bb0f032a9582a83ccc3aead5e",
-      "crc32": "82243b09",
-      "sha1": "6d3c6a47f8ebfc8533e0ab71300deced6b7d9b44",
+      "btih": "6a26105db2849fc68b6b49385543d5cd3779239c",
+      "mtime": "1667140916",
+      "size": "105536",
+      "md5": "e739f739d78d54e91a51ea419786780f",
+      "crc32": "5bcfe961",
+      "sha1": "81b866072010942eaba596cd3cbe77185a37b661",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewportdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f1fc2f05d42b85a29c1939b84bf7d72",
+      "md5": "57cd444238deab0b09bdce4752151309",
       "summation": "md5"
     },
     {
       "name": "thenewportdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667100565",
-      "size": "630784",
-      "md5": "248b22cc9e788f8d5db4bc2892d75c51",
-      "crc32": "7193bb95",
-      "sha1": "eb9f47b1de813358db280937c64ba247f8b9eb20",
+      "mtime": "1667140876",
+      "size": "634880",
+      "md5": "f5436884ba11452375fcd4bea8da9326",
+      "crc32": "29f31371",
+      "sha1": "031a9e7f156ed491bdaa165c1b2eb650647388df",
       "format": "Metadata"
     },
     {
@@ -4931,9 +4993,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 477,
-  "item_last_updated": 1667100608,
-  "item_size": 31681927,
+  "files_count": 483,
+  "item_last_updated": 1667140916,
+  "item_size": 32005966,
   "metadata": {
     "identifier": "thenewportdaily-2022",
     "collection": [
@@ -4955,15 +5017,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456652390,
+      "task_id": 3457023772,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 925055525,
+  "uniq": 790926565,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

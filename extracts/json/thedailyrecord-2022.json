@@ -1,5 +1,6 @@
 {
-  "created": 1667100586,
+  "conflict": 1667141260,
+  "created": 1667141260,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/18/items/thedailyrecord-2022",
@@ -4871,31 +4872,99 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyrecord-2022-10-29T23:28:51.107858-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyrecord-2022-10-29T23:28:51.107858-04:00.jpg",
+      "mtime": "1667101775",
+      "size": "9451",
+      "md5": "2fbaf66afbee061cb97869e9446cf745",
+      "crc32": "00ac8f44",
+      "sha1": "4bda191495b944d40e6f88ac11d53f0a01f8787a"
+    },
+    {
+      "name": "thedailyrecord-2022-10-30T10:40:50.281154-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140857",
+      "size": "21136",
+      "md5": "216380baa95ccd64b421ae419d817488",
+      "crc32": "c7a3a630",
+      "sha1": "52da77757350604a3d18dbfda5ededab342056c3",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-10-30T10:40:50.281154-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140860",
+      "size": "29658",
+      "md5": "570adaa16b4526bb339961235599cedc",
+      "crc32": "325029c5",
+      "sha1": "2f90e9cd182ba414d7c67a6a46d7dfa65141007a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-10-30T10:40:50.281154-04:00.jpg",
+      "source": "original",
+      "mtime": "1667140855",
+      "size": "278884",
+      "md5": "cf256b92e41e2d6314873b8aa571b9b5",
+      "crc32": "9e6f30ee",
+      "sha1": "871b40e1dcc896f58f63365e51a9fd777e2f0d3a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyrecord-2022-10-30T10:40:50.281154-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140861",
+      "size": "1549",
+      "md5": "64e586b1cfb74826a4435b46e0bfb5ca",
+      "crc32": "bbe709b9",
+      "sha1": "3ea5433e4f92e6383c9147410385a3e017808045",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-10-30T10:40:50.281154-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140863",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-10-30T10:40:50.281154-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyrecord-2022-10-30T10:40:50.281154-04:00.jpg"
+    },
+    {
       "name": "thedailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9615c46248c5e35a32ccf05d07b956ece6f8e94b",
-      "mtime": "1667100583",
-      "size": "103357",
-      "md5": "5b464119fa7728ca387befa8f4d2a61f",
-      "crc32": "e9caf35a",
-      "sha1": "640c09603575501346a8056370807a7fee1e89cb",
+      "btih": "210cc8080717a31cab6d5aabbd334d68a7cbb180",
+      "mtime": "1667140905",
+      "size": "104658",
+      "md5": "66000854658243e7ed9bc2b54de53268",
+      "crc32": "f136b90c",
+      "sha1": "cd663bcc6d71bf726493fe994e5481da1f6fbc7d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "16682bc6e988d670ee38764632181366",
+      "md5": "dfca8dcafdee201210bfae7b5dbc0926",
       "summation": "md5"
     },
     {
       "name": "thedailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667100544",
-      "size": "626688",
-      "md5": "9fe8546741c9895c999720983f195de8",
-      "crc32": "c03a2946",
-      "sha1": "f84b0816e95da7e9de8de78a1d1221891cd0abc5",
+      "mtime": "1667140867",
+      "size": "634880",
+      "md5": "d885591d7392595b22547db91d05fed6",
+      "crc32": "3c338b9b",
+      "sha1": "99c17783300319e381242ea4352401e216650b63",
       "format": "Metadata"
     },
     {
@@ -4909,9 +4978,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 475,
-  "item_last_updated": 1667100583,
-  "item_size": 31765714,
+  "files_count": 482,
+  "item_last_updated": 1667140905,
+  "item_size": 32116087,
   "metadata": {
     "identifier": "thedailyrecord-2022",
     "collection": [
@@ -4933,15 +5002,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456652164,
+      "task_id": 3457023701,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 144921466,
+  "uniq": 841531681,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
