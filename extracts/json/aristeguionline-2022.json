@@ -1,6 +1,5 @@
 {
-  "conflict": 1667127168,
-  "created": 1667127168,
+  "created": 1667169632,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/19/items/aristeguionline-2022",
@@ -9523,31 +9522,93 @@
       "sha1": "3843174bf13adbfeaebca755e26df93d34889e3f"
     },
     {
+      "name": "aristeguionline-2022-10-30T16:38:53.623168-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169545",
+      "size": "65609",
+      "md5": "55e3b3b5cd852e55f5d64f05a79475f7",
+      "crc32": "2e22317f",
+      "sha1": "0fbcd958d98da8ebe2897feb4af1d62d7aa41fc8",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-10-30T16:38:53.623168-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169547",
+      "size": "47276",
+      "md5": "99e59549afaef5f5a01c30af59da78cb",
+      "crc32": "f2c2399d",
+      "sha1": "dc7fcdadf6f1b8e9d6af887f6b46f7498089224d",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-10-30T16:38:53.623168-06:00.jpg",
+      "source": "original",
+      "mtime": "1667169542",
+      "size": "257009",
+      "md5": "3a3a0c176e589a4ab168414b4cb7af8e",
+      "crc32": "c648c2ed",
+      "sha1": "b50d0750cd194194446d80d00508026e4cbf5429",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aristeguionline-2022-10-30T16:38:53.623168-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169548",
+      "size": "1522",
+      "md5": "f89b7fbb0fba3d38346a2f3e28a1612f",
+      "crc32": "781d85f6",
+      "sha1": "0025712e27488ac79b12e0bb04876a740d1dea5d",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-10-30T16:38:53.623168-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169550",
+      "size": "43544",
+      "md5": "bc6e08f13bd16eec549e4b23c3c559e4",
+      "crc32": "6aad798f",
+      "sha1": "8d1dbb3b7d6a75f94c2e50c03df9dd10bfd591ef",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-10-30T16:38:53.623168-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aristeguionline-2022-10-30T16:38:53.623168-06:00.jpg",
+      "mtime": "1667169611",
+      "size": "10345",
+      "md5": "faecb11d81774008a181123ec207c7d2",
+      "crc32": "62358e47",
+      "sha1": "b9dd5f0b6781fa4983e8a102f88a4db7370823e2"
+    },
+    {
       "name": "aristeguionline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88b7aa673421d849a279bb34cc800db10df7b8c5",
-      "mtime": "1667127164",
-      "size": "201900",
-      "md5": "321b29376c385048d47457a69475b869",
-      "crc32": "01fa0347",
-      "sha1": "37b220a2f9b5f92fdea21053af2f1047091c77c9",
+      "btih": "0efacd9a47b151b768ae76fd63809fcafabb86fe",
+      "mtime": "1667169621",
+      "size": "203210",
+      "md5": "978cacce0d84325e0ddbeedd3d046710",
+      "crc32": "8adef274",
+      "sha1": "e9ede01888c0d9772e245ab16407aa4440ab34c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aristeguionline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d677c4382039413e7149b0c016ba522c",
+      "md5": "b0e9c3b86f199bb8e62c5779cb292204",
       "summation": "md5"
     },
     {
       "name": "aristeguionline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667126779",
-      "size": "1196032",
-      "md5": "85d38773a6fad8fcf459dfbbb7f33097",
-      "crc32": "bf24f287",
-      "sha1": "57f9c443bf79df1a64c5d70ba226097469f462cc",
+      "mtime": "1667169553",
+      "size": "1208320",
+      "md5": "d34b2d7e8021d459bb522e9e9f6875fd",
+      "crc32": "e4741134",
+      "sha1": "aaf5243a0f06f93cbdae6e74c9ad41bd5670af57",
       "format": "Metadata"
     },
     {
@@ -9561,9 +9622,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 925,
-  "item_last_updated": 1667127164,
-  "item_size": 68630324,
+  "files_count": 931,
+  "item_last_updated": 1667169621,
+  "item_size": 69069227,
   "metadata": {
     "identifier": "aristeguionline-2022",
     "collection": [
@@ -9580,21 +9641,10 @@
     "publicdate": "2022-08-16 17:11:11",
     "addeddate": "2022-08-16 17:11:11"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3456901809,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1455887,
+  "uniq": 122204437,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

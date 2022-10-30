@@ -1,5 +1,6 @@
 {
-  "created": 1667126731,
+  "conflict": 1667170026,
+  "created": 1667170026,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/alpublicradio-2022",
@@ -6040,31 +6041,93 @@
       "sha1": "089b6c273b472cdf710113a7681fa99562e76990"
     },
     {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169576",
+      "size": "26029",
+      "md5": "a8731ef7b8828a79666263bcd93b6de9",
+      "crc32": "0c0a7864",
+      "sha1": "78854fb3a8417a0518ccfe0f640a78484b1cab07",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169577",
+      "size": "40872",
+      "md5": "89d8dc15caaec45083840c95fa9d8927",
+      "crc32": "dd9a64fe",
+      "sha1": "97f3e6ce9ba086f87bba2a05bd26dedcde809414",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.jpg",
+      "source": "original",
+      "mtime": "1667169574",
+      "size": "271114",
+      "md5": "be7a6084da246f4d8a5b9b878ec9c239",
+      "crc32": "a7b90731",
+      "sha1": "940893a0294f0674c6f65925d68a5c682eb2ea02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169579",
+      "size": "1423",
+      "md5": "4cb492e4eeb07d225f5c633b8bcfb54f",
+      "crc32": "629d993a",
+      "sha1": "c561a8a83428013a5be524b543c1b1b73cba3534",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169581",
+      "size": "15451",
+      "md5": "3c78ef14efb220949343980baeef07ee",
+      "crc32": "a12e14a5",
+      "sha1": "ea0cbec34c00f4c5487447039349423e85c87cac",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-30T17:39:21.283618-05:00.jpg",
+      "mtime": "1667170017",
+      "size": "10050",
+      "md5": "2dfaec6108da9787f3c60908471ba512",
+      "crc32": "8e31082d",
+      "sha1": "548c0b3ecc99955456d246c22c8550a25f41e9d1"
+    },
+    {
       "name": "alpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2bb4386c9d87cc7c4f03dd604b2900a791889d17",
-      "mtime": "1667126719",
-      "size": "127119",
-      "md5": "65e9ead6b4c5b406ad784f15fbcbf000",
-      "crc32": "051abc82",
-      "sha1": "fe4f241cb128e0c53ade20ac3c729554b9c43879",
+      "btih": "09eacd68ad6e87ed0636510c4313767b59c99c05",
+      "mtime": "1667170025",
+      "size": "128417",
+      "md5": "4937bde5c001b2406a94deb15bf169e8",
+      "crc32": "36aec08e",
+      "sha1": "a7f9db309eb95f87888e9e67cd9d3b5fe6892ef1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9195ea106389f0114cd7e1f9cdd8b122",
+      "md5": "ccaf2a30a6e10ad63d8cde94cd11248f",
       "summation": "md5"
     },
     {
       "name": "alpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667126657",
-      "size": "761856",
-      "md5": "5666e81fdf71cf66d1e8d005f9c72029",
-      "crc32": "ca36be87",
-      "sha1": "f189fe7b6a7631513e74f39c9e9883a5befe607e",
+      "mtime": "1667169590",
+      "size": "770048",
+      "md5": "436e49d1db516e972c072d467c352787",
+      "crc32": "f8ffd3a9",
+      "sha1": "4949e3f6a2bb4ab6d59be2200cd14809fbb0d78e",
       "format": "Metadata"
     },
     {
@@ -6078,9 +6141,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 588,
-  "item_last_updated": 1667126719,
-  "item_size": 35975405,
+  "files_count": 594,
+  "item_last_updated": 1667170025,
+  "item_size": 36349834,
   "metadata": {
     "identifier": "alpublicradio-2022",
     "collection": [
@@ -6097,10 +6160,29 @@
     "publicdate": "2022-09-12 11:03:14",
     "addeddate": "2022-09-12 11:03:14"
   },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 1549422285,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457307230,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3457311131,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 662256036,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }
