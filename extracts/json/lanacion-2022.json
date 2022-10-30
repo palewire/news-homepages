@@ -1,5 +1,5 @@
 {
-  "created": 1667048100,
+  "created": 1667092058,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/lanacion-2022",
@@ -10081,31 +10081,93 @@
       "format": "JSON"
     },
     {
+      "name": "lanacion-2022-10-29T09:53:52.082566-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanacion-2022-10-29T09:53:52.082566-03:00.jpg",
+      "mtime": "1667050832",
+      "size": "8784",
+      "md5": "08247df2404d4d037315cf7975729ca7",
+      "crc32": "2dd4df5c",
+      "sha1": "f2e0b5b2e14079b1ef9dd59ac8f48af20b3c8d4e"
+    },
+    {
+      "name": "lanacion-2022-10-29T22:06:13.782225-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091984",
+      "size": "133780",
+      "md5": "69f27202af40f39f0088f7c77477c690",
+      "crc32": "e8d762e8",
+      "sha1": "41078c132efe3d9d727d630a7e160ac69dd4ee1b",
+      "format": "JSON"
+    },
+    {
+      "name": "lanacion-2022-10-29T22:06:13.782225-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091986",
+      "size": "67273",
+      "md5": "fdfffab64a9362e18513ae35837823ef",
+      "crc32": "d087423e",
+      "sha1": "2243f7483d69e5e67a7b075cc2cf17b750896a15",
+      "format": "JSON"
+    },
+    {
+      "name": "lanacion-2022-10-29T22:06:13.782225-03:00.jpg",
+      "source": "original",
+      "mtime": "1667091982",
+      "size": "390085",
+      "md5": "eb5eeb4a6971e562adb7ea660036a1da",
+      "crc32": "792f5df5",
+      "sha1": "0700f76b27afb6474bd4d075f61bf2e61e3b8b1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanacion-2022-10-29T22:06:13.782225-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091988",
+      "size": "1504",
+      "md5": "20071053c9f5027ea37c4adedbc34955",
+      "crc32": "3d7e9f84",
+      "sha1": "7a75622426d7b8300bce02c6507126907c3f2d8c",
+      "format": "JSON"
+    },
+    {
+      "name": "lanacion-2022-10-29T22:06:13.782225-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091990",
+      "size": "117592",
+      "md5": "ae27af221feee54f81e06c83b5bd4e61",
+      "crc32": "bd441150",
+      "sha1": "a24d03723fb764b2d6efa20927239e4926ff5f7c",
+      "format": "JSON"
+    },
+    {
       "name": "lanacion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e7b49702cc9d6a33d962583df37ab012bcad322",
-      "mtime": "1667048093",
-      "size": "207334",
-      "md5": "7cec00cc3ad270c2110e72137f8dc865",
-      "crc32": "72546096",
-      "sha1": "e57e52b1ad40c6431c281e95f841288c83ea9598",
+      "btih": "abba06cc4662d7cd57f22d8c706b7a06069fca21",
+      "mtime": "1667092047",
+      "size": "208603",
+      "md5": "5f71b1e7656e8e33d76e6913764b8d2e",
+      "crc32": "58185df1",
+      "sha1": "f44e644667cabf45770b87d3fad2289451cc94c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanacion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ddd0469cbd3868692bb49f27c8a50723",
+      "md5": "3c393d3a39670df879b04e8d7bedd397",
       "summation": "md5"
     },
     {
       "name": "lanacion-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667048047",
-      "size": "1253376",
-      "md5": "9e1d4cff22de43c29de1d5f69ea901e7",
-      "crc32": "c49b4baa",
-      "sha1": "c84be534d2ae6bc14660136aedcde1dcdd1ed40c",
+      "mtime": "1667091996",
+      "size": "1261568",
+      "md5": "38bc4e63e77a03bb293cbbaa76383686",
+      "crc32": "11cd71c6",
+      "sha1": "40deac157ff9a6382a591f27eff39ebddc428d2c",
       "format": "Metadata"
     },
     {
@@ -10119,9 +10181,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 979,
-  "item_last_updated": 1667048093,
-  "item_size": 86821920,
+  "files_count": 985,
+  "item_last_updated": 1667092047,
+  "item_size": 87550399,
   "metadata": {
     "identifier": "lanacion-2022",
     "collection": [
@@ -10143,7 +10205,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456098241,
+      "task_id": 3456569984,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10151,7 +10213,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 369548095,
+  "uniq": 866742710,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

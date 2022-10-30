@@ -1,5 +1,5 @@
 {
-  "created": 1667048155,
+  "created": 1667092242,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/kccinews-2022",
@@ -22027,31 +22027,93 @@
       "format": "JSON"
     },
     {
+      "name": "kccinews-2022-10-29T07:53:11.276619-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kccinews-2022-10-29T07:53:11.276619-05:00.jpg",
+      "mtime": "1667050747",
+      "size": "10367",
+      "md5": "d10f4797a45884f85f44fa71029d5c7a",
+      "crc32": "a60589aa",
+      "sha1": "4622fccc889092b621013307bb87e3edbf72da3c"
+    },
+    {
+      "name": "kccinews-2022-10-29T20:07:02.127572-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667092031",
+      "size": "26193",
+      "md5": "c8ad997a6a53d072376e29a083d92655",
+      "crc32": "f3f869af",
+      "sha1": "eab2ccdeb48b8b950a727ecfae42079f4928eef5",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-10-29T20:07:02.127572-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667092033",
+      "size": "23443",
+      "md5": "98334bdc8ced5b552313a3631e565a0c",
+      "crc32": "edbf0cbd",
+      "sha1": "d145f64814301e475600b6d0c329be477220340e",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-10-29T20:07:02.127572-05:00.jpg",
+      "source": "original",
+      "mtime": "1667092029",
+      "size": "314793",
+      "md5": "5d204ec90fc18eb790ca9b95cf482969",
+      "crc32": "12eae6a6",
+      "sha1": "8bf5a947d8132d0deb96f7fc9598ee4d26e63f57",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kccinews-2022-10-29T20:07:02.127572-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667092034",
+      "size": "1440",
+      "md5": "1206c51a71ef79ba5850e19efa3f2fb6",
+      "crc32": "58b3eb82",
+      "sha1": "2134ebcf62d83ac50c825b9fd06b5d3bdf82e284",
+      "format": "JSON"
+    },
+    {
+      "name": "kccinews-2022-10-29T20:07:02.127572-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667092036",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "kccinews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c9d67c15fa15e29043c9b1840975aaa3a7b3cc1a",
-      "mtime": "1667048148",
-      "size": "447542",
-      "md5": "5e92f48745714aeb56801a63b41127bf",
-      "crc32": "72b2312f",
-      "sha1": "d99873bb85df511244e0a8d7d32a4cacbe8cc37f",
+      "btih": "5a40cb0a440a3572ddbc9cb7f78875c4534aa33c",
+      "mtime": "1667092235",
+      "size": "448788",
+      "md5": "243b7a82bf78518871c34af7e5f34803",
+      "crc32": "1d5c86ea",
+      "sha1": "a0721f393e8e75cef0d0749bfd8c16b624b8bad2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kccinews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3930c08a5d70070b9637309fd7cfb0b0",
+      "md5": "8b5afc4b5542a8d7fa898760a93dff68",
       "summation": "md5"
     },
     {
       "name": "kccinews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667048071",
-      "size": "2596864",
-      "md5": "a19ab308af271351deb92264a3ae4529",
-      "crc32": "d9f11922",
-      "sha1": "105ed24e3d2c618ee49cffad1c537371f6ac8be8",
+      "mtime": "1667092164",
+      "size": "2609152",
+      "md5": "09589683c1c05e9816998fc54e8afb03",
+      "crc32": "8ffe7345",
+      "sha1": "21764cb3d2925d7d8db0559e28a98cd8e5e3078e",
       "format": "Metadata"
     },
     {
@@ -22065,9 +22127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2122,
-  "item_last_updated": 1667048148,
-  "item_size": 160943550,
+  "files_count": 2128,
+  "item_last_updated": 1667092235,
+  "item_size": 161333522,
   "metadata": {
     "identifier": "kccinews-2022",
     "collection": [
@@ -22089,7 +22151,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456098912,
+      "task_id": 3456572530,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -22097,7 +22159,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1500521554,
+  "uniq": 736735533,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

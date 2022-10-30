@@ -1,5 +1,5 @@
 {
-  "created": 1667047992,
+  "created": 1667091969,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/8/items/huffpostcanada-2022",
@@ -12013,31 +12013,93 @@
       "format": "JSON"
     },
     {
+      "name": "huffpostcanada-2022-10-29T08:52:02.556107-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpostcanada-2022-10-29T08:52:02.556107-04:00.jpg",
+      "mtime": "1667050694",
+      "size": "10714",
+      "md5": "c4f7a6f7af852a1d8ac14303aaae084d",
+      "crc32": "09531731",
+      "sha1": "de79c1012ecd16c681c9146002cc70087c0d8b9d"
+    },
+    {
+      "name": "huffpostcanada-2022-10-29T21:05:09.086649-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091911",
+      "size": "35669",
+      "md5": "fa83a2ac62aad42e822ca5422a3831e6",
+      "crc32": "03011cb7",
+      "sha1": "fe4a7810d4d5845d4288e90b4822a2ced4e895ee",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-10-29T21:05:09.086649-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091913",
+      "size": "66643",
+      "md5": "179997570e932b9b5cdf18bc02d5a735",
+      "crc32": "b0102a7f",
+      "sha1": "972582a7b35c9bfaf061b0bfe7109b42c8ffe563",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-10-29T21:05:09.086649-04:00.jpg",
+      "source": "original",
+      "mtime": "1667091910",
+      "size": "225164",
+      "md5": "aab7614768baca983314bd32b33a04e4",
+      "crc32": "bb391e5f",
+      "sha1": "9b3ac75d117da4a720a66738b139f2bac80f2628",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "huffpostcanada-2022-10-29T21:05:09.086649-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091914",
+      "size": "1477",
+      "md5": "501de6bd45436294026d279ce0195a32",
+      "crc32": "684775db",
+      "sha1": "84fc40780dd4f72d1cc0d5d475c9aba20ff5f6bd",
+      "format": "JSON"
+    },
+    {
+      "name": "huffpostcanada-2022-10-29T21:05:09.086649-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091916",
+      "size": "220",
+      "md5": "aa1244a76972f58654144542e032e5bb",
+      "crc32": "c3f1ec66",
+      "sha1": "bf5f17a8dc25335b4f43cae301163caf2bd18eab",
+      "format": "JSON"
+    },
+    {
       "name": "huffpostcanada-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b4db9605fdca4db7ca576fe955b9aef96e3c643d",
-      "mtime": "1667047988",
-      "size": "252937",
-      "md5": "b5439edfc264142c59fb1bfb7350bef7",
-      "crc32": "e803bee2",
-      "sha1": "c616254796374d9f113c3bcfa9a70983d0ae4056",
+      "btih": "ca6f1ff4af26bf11eeb0f9df3b41dce77d450798",
+      "mtime": "1667091966",
+      "size": "254239",
+      "md5": "60305ac941d9ea9cf7692520350a1400",
+      "crc32": "9d5411ce",
+      "sha1": "c5d29c0b1b0da88bcfc592bfa547e430fafc82a1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpostcanada-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "736c5dfc1f311742dbcea06b9a48fe24",
+      "md5": "83e0d65be556e650e77e9d3d29270de0",
       "summation": "md5"
     },
     {
       "name": "huffpostcanada-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667047942",
-      "size": "1490944",
-      "md5": "1f43cda73586bdf28d952f916e92dbe9",
-      "crc32": "026218d9",
-      "sha1": "671762eac4dad89139d38cb93efac023e94789ec",
+      "mtime": "1667091920",
+      "size": "1499136",
+      "md5": "767a5878cae1f19afc57a0895888cb82",
+      "crc32": "6dee43b7",
+      "sha1": "11a3768112a5795f9bdcaa4d4ad2a8053c2fc89a",
       "format": "Metadata"
     },
     {
@@ -12051,9 +12113,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1165,
-  "item_last_updated": 1667047988,
-  "item_size": 82457972,
+  "files_count": 1171,
+  "item_last_updated": 1667091966,
+  "item_size": 82807353,
   "metadata": {
     "identifier": "huffpostcanada-2022",
     "collection": [
@@ -12075,7 +12137,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456097010,
+      "task_id": 3456568101,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12083,7 +12145,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2145932628,
+  "uniq": 299219587,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

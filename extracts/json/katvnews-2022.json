@@ -1,5 +1,5 @@
 {
-  "created": 1667048104,
+  "created": 1667092044,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/20/items/katvnews-2022",
@@ -5905,31 +5905,93 @@
       "format": "JSON"
     },
     {
+      "name": "katvnews-2022-10-29T07:53:20.912544-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-29T07:53:20.912544-05:00.jpg",
+      "mtime": "1667050887",
+      "size": "10438",
+      "md5": "f288f536cc3721c56e29ab7885116e53",
+      "crc32": "3cfeb3ee",
+      "sha1": "38c59cea26b183b9b4b909bcebb3c60744f33e04"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091983",
+      "size": "73542",
+      "md5": "558e69419e5404ee35680c3f2f33bcba",
+      "crc32": "7ee8a2ca",
+      "sha1": "ab56e0ce6e2af975b3d12dbb07c5a67bbc0ee37f",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091985",
+      "size": "63210",
+      "md5": "20032ce8560585dce5b54d7ab2eb95a2",
+      "crc32": "fb7d8df0",
+      "sha1": "2dc0ce9b85d31e49ce3ffb7ecd350332b2b59736",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.jpg",
+      "source": "original",
+      "mtime": "1667091982",
+      "size": "325568",
+      "md5": "2f87ddfa373f692d8695e591958f2d17",
+      "crc32": "f457e666",
+      "sha1": "fb75084aeecde64bdf183f658a0d55ab28da6927",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091988",
+      "size": "1404",
+      "md5": "e23e61bb297d190400dfdb8141be8d2f",
+      "crc32": "8d550222",
+      "sha1": "d6d4d5daa46b8e2a283c23251613e1cad2f53a8c",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091990",
+      "size": "86998",
+      "md5": "b5c232272d6facdc992537892d75cd8d",
+      "crc32": "049767ee",
+      "sha1": "19966f7ba5fb0fa97eee8f8140ea8087eb0120c9",
+      "format": "JSON"
+    },
+    {
       "name": "katvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f3ead875263d987dca07720422f1ca64b52ba41",
-      "mtime": "1667048096",
-      "size": "121864",
-      "md5": "31b37cc88a14a4d435a8870f02e258d5",
-      "crc32": "a8296374",
-      "sha1": "6dca85c9bed60d12ba574ab1f5fe664086817133",
+      "btih": "91f89faa14f61c9cf769d03e9301fa8fea13af14",
+      "mtime": "1667092037",
+      "size": "123132",
+      "md5": "f7656fbc82828763f83d5b0ba84e2aef",
+      "crc32": "4c12b7fb",
+      "sha1": "d16141b2c308e5202f71ad3c0dd260e237e3b37b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "katvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "899306bd6446a7cd1164f374cd26e65e",
+      "md5": "02a19d945116bd652c6921bc5a33a803",
       "summation": "md5"
     },
     {
       "name": "katvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667048023",
-      "size": "741376",
-      "md5": "9a5844d71da122e19111d7210c306951",
-      "crc32": "416b9373",
-      "sha1": "7ed8503db586a8ce2fa615067c2abafce82d7299",
+      "mtime": "1667091995",
+      "size": "753664",
+      "md5": "b88cf7ce1d6967a673634f858fd8f0f6",
+      "crc32": "4783f4a5",
+      "sha1": "62d6259ecad754c7a359717a66473a28beec335a",
       "format": "Metadata"
     },
     {
@@ -5943,9 +6005,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 575,
-  "item_last_updated": 1667048096,
-  "item_size": 47167960,
+  "files_count": 581,
+  "item_last_updated": 1667092037,
+  "item_size": 47742676,
   "metadata": {
     "identifier": "katvnews-2022",
     "collection": [
@@ -5967,7 +6029,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456098278,
+      "task_id": 3456569752,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5975,7 +6037,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1161233891,
+  "uniq": 288649443,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

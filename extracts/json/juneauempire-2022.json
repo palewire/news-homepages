@@ -1,5 +1,5 @@
 {
-  "created": 1667048069,
+  "created": 1667091937,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/25/items/juneauempire-2022",
@@ -5875,31 +5875,93 @@
       "format": "JSON"
     },
     {
+      "name": "juneauempire-2022-10-29T04:53:19.713478-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "juneauempire-2022-10-29T04:53:19.713478-08:00.jpg",
+      "mtime": "1667050624",
+      "size": "9085",
+      "md5": "da61ed3f5b95f387505ccdc3df7a5b0f",
+      "crc32": "25244491",
+      "sha1": "3a16dc9620eada1614806a6fa507a079dd71e713"
+    },
+    {
+      "name": "juneauempire-2022-10-29T17:04:37.930747-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091881",
+      "size": "34861",
+      "md5": "befdbaf77e95139f3fd3938db6a1597c",
+      "crc32": "d3ec9203",
+      "sha1": "06ba0e8a31862fdc8e99dd416acc446095f91c71",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-29T17:04:37.930747-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091884",
+      "size": "38604",
+      "md5": "514b65d7187fa531ccb278469375df25",
+      "crc32": "b684da66",
+      "sha1": "fe0a25d3852f5eabe2e0003a607ee5fad3b1c361",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-29T17:04:37.930747-08:00.jpg",
+      "source": "original",
+      "mtime": "1667091879",
+      "size": "257471",
+      "md5": "6e24a622ee001c7ed4bfda015f2c0265",
+      "crc32": "0eb3ff2c",
+      "sha1": "59deb2b05b7b24f55f1f5926cbc7d47985faddc9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "juneauempire-2022-10-29T17:04:37.930747-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091886",
+      "size": "1512",
+      "md5": "c657cfe362098817d9a95f0e1f4ab704",
+      "crc32": "5e62bbf4",
+      "sha1": "7e9624aac25f410aa46343c917303bfa7e9d429b",
+      "format": "JSON"
+    },
+    {
+      "name": "juneauempire-2022-10-29T17:04:37.930747-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091887",
+      "size": "30873",
+      "md5": "84bfd3f9c34ba9095275efb48e5164cd",
+      "crc32": "90c94458",
+      "sha1": "3483c29b1f7c81bba08c5f18f422c0e55cdb42d7",
+      "format": "JSON"
+    },
+    {
       "name": "juneauempire-2022_archive.torrent",
       "source": "metadata",
-      "btih": "14039b8319d3f56adfa04afdc6c48046c4a6ac73",
-      "mtime": "1667048065",
-      "size": "123061",
-      "md5": "1258e85dd22d9451ef3454e91ba0a53b",
-      "crc32": "d66fac90",
-      "sha1": "dae7db7e7f7f3a78d8e9a7c38d0923d473719c41",
+      "btih": "c5ae9df864af031d14f0acb86acd22ccaf4bf254",
+      "mtime": "1667091934",
+      "size": "124352",
+      "md5": "593eb047dc9e72f70ca75af450426aeb",
+      "crc32": "e335bb8e",
+      "sha1": "f6e3037f3797d664792eccfc9dd831fb5c0de53e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "juneauempire-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b4d73bbe63535485f41254da85e449f6",
+      "md5": "88e1b41e3c922ffb9e052a105cc1aafd",
       "summation": "md5"
     },
     {
       "name": "juneauempire-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667048024",
-      "size": "745472",
-      "md5": "5b4cf24f1b3a4ab9e2e7f21aa786eb39",
-      "crc32": "4b293789",
-      "sha1": "5f31d2b349a5fb86ff180b73fc678cecd883e315",
+      "mtime": "1667091891",
+      "size": "753664",
+      "md5": "66dd622bd47da03f3ab9aa56eaceb0ea",
+      "crc32": "6391c675",
+      "sha1": "7682b86d4bf4512e976d85ae9aac1726f5766bef",
       "format": "Metadata"
     },
     {
@@ -5913,9 +5975,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 572,
-  "item_last_updated": 1667048065,
-  "item_size": 36450781,
+  "files_count": 578,
+  "item_last_updated": 1667091934,
+  "item_size": 36832670,
   "metadata": {
     "identifier": "juneauempire-2022",
     "collection": [
@@ -5937,15 +5999,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456097844,
+      "task_id": 3456567393,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 186418927,
+  "uniq": 476486921,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

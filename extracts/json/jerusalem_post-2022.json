@@ -1,5 +1,5 @@
 {
-  "created": 1667047986,
+  "created": 1667091942,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/9/items/jerusalem_post-2022",
@@ -9583,31 +9583,93 @@
       "format": "JSON"
     },
     {
+      "name": "jerusalem_post-2022-10-29T15:51:50.985002+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-29T15:51:50.985002+03:00.jpg",
+      "mtime": "1667050730",
+      "size": "9614",
+      "md5": "99d867dbad0c9a74b1b96750f46af141",
+      "crc32": "fbf95794",
+      "sha1": "01aa08346d596fb557b65357cdae237e3f613cf5"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091877",
+      "size": "1895",
+      "md5": "654c00b874289d59bed471a02e0bf181",
+      "crc32": "18973502",
+      "sha1": "3914bc10f0375109031dec6a313d9f6ef3891e9f",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091879",
+      "size": "64714",
+      "md5": "8a6b1729a0acb20c86371647271544a8",
+      "crc32": "1d6d77c0",
+      "sha1": "5298c367b6364fd29229192c53db0c72a550ecdf",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.jpg",
+      "source": "original",
+      "mtime": "1667091875",
+      "size": "312285",
+      "md5": "0cbe5110470ba3a7a3686aa370f1f508",
+      "crc32": "3f2960eb",
+      "sha1": "e8cfd593883a8a924b3f4e1ac370049836f91654",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091881",
+      "size": "1432",
+      "md5": "3ff2f6884a102a718108b4a489db73f4",
+      "crc32": "bc2b4d33",
+      "sha1": "6b34f520c6ebeb314965fa974c49289a481d9fbb",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091882",
+      "size": "54395",
+      "md5": "07de8805e9a537429bf6adcff6a7b032",
+      "crc32": "8c7068c4",
+      "sha1": "c67cd6ea3f92e87e0e8a1b49d204e2d09f407c15",
+      "format": "JSON"
+    },
+    {
       "name": "jerusalem_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91a3401c66949960a048a5e2be98031f010ecb35",
-      "mtime": "1667047979",
-      "size": "202317",
-      "md5": "2719be0696de50bd27b8089d95d7280f",
-      "crc32": "f96735e9",
-      "sha1": "a8be95403ff5a4033c55f0c3708b4a3c6a9071a3",
+      "btih": "3efcf70e35c3e6a8203e84f169e5c3ede34b9543",
+      "mtime": "1667091936",
+      "size": "203619",
+      "md5": "da3a4b2ea8ffe24f07d645ea65b6db91",
+      "crc32": "04c947d1",
+      "sha1": "c0c0315b54831a49e34ba679336c713dbd4f78a1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jerusalem_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f2a317f36dc3d0618519c0ee08b2a9b",
+      "md5": "67b969b44a5d202f5c115a216134bfc0",
       "summation": "md5"
     },
     {
       "name": "jerusalem_post-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667047930",
-      "size": "1204224",
-      "md5": "9aa37a746a94481568cf67df7af0496a",
-      "crc32": "af12bf07",
-      "sha1": "6fceb453a2136dfa214dad7c56110d96997e4e62",
+      "mtime": "1667091889",
+      "size": "1212416",
+      "md5": "db7cabd3b8c108eacb8c5ddf9b9fcdae",
+      "crc32": "b098fa8c",
+      "sha1": "f57cf85d644320e120ba094bbe3d87c609fd5f05",
       "format": "Metadata"
     },
     {
@@ -9621,9 +9683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 931,
-  "item_last_updated": 1667047979,
-  "item_size": 74024700,
+  "files_count": 937,
+  "item_last_updated": 1667091936,
+  "item_size": 74478529,
   "metadata": {
     "identifier": "jerusalem_post-2022",
     "collection": [
@@ -9645,15 +9707,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456096950,
+      "task_id": 3456567499,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 449274603,
+  "uniq": 1530014413,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
