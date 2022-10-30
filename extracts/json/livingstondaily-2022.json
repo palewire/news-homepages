@@ -1,5 +1,5 @@
 {
-  "created": 1667092171,
+  "created": 1667134347,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/livingstondaily-2022",
@@ -4965,31 +4965,93 @@
       "format": "JSON"
     },
     {
+      "name": "livingstondaily-2022-10-29T21:08:25.325314-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "livingstondaily-2022-10-29T21:08:25.325314-04:00.jpg",
+      "mtime": "1667092936",
+      "size": "9269",
+      "md5": "dac24b3ccf1810e218739a861b3c2d5c",
+      "crc32": "4a736e7d",
+      "sha1": "245757a95671e3889e504ee41e66e45b79e9efa2"
+    },
+    {
+      "name": "livingstondaily-2022-10-30T08:51:28.190616-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134294",
+      "size": "20841",
+      "md5": "949cbb543ba197c210ff42830dce8275",
+      "crc32": "6b1f6dcb",
+      "sha1": "d901f06e14bfceea25928c0a95faffdd38664eb9",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-30T08:51:28.190616-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134295",
+      "size": "36229",
+      "md5": "0be1fe5f2e2a04f41bc228f0a3eb13fb",
+      "crc32": "108a7321",
+      "sha1": "f08efc6ef56e1266042303f0a8398a1cda5cb426",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-30T08:51:28.190616-04:00.jpg",
+      "source": "original",
+      "mtime": "1667134292",
+      "size": "289543",
+      "md5": "313b859174e83bf35d74b96cf102ae88",
+      "crc32": "99b16f20",
+      "sha1": "28f13f4b2914b78bcd38b57333370d62101d5903",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "livingstondaily-2022-10-30T08:51:28.190616-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134297",
+      "size": "1540",
+      "md5": "7c42932f600987621c2296099e7632b5",
+      "crc32": "ab6deeb5",
+      "sha1": "6ae9de041de65a26cb21a2f84174800080475204",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-30T08:51:28.190616-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134299",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "livingstondaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf05e75869a6338fae9e2d8d2192f2f02fa35c12",
-      "mtime": "1667092166",
-      "size": "105688",
-      "md5": "db65c84130c067b1fcc87d2096a6e3db",
-      "crc32": "1d166e6c",
-      "sha1": "f0679f4bd525292dff720859c2ca6ce7fd4707ac",
+      "btih": "5c901d8947c7727dbb967127ad70ff9c6c934718",
+      "mtime": "1667134342",
+      "size": "106995",
+      "md5": "757dc2ddeaad161042a3986a74691c34",
+      "crc32": "2ea29d0e",
+      "sha1": "acc8dde05fd63588d6652ffcdda2daed1733ceec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "livingstondaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0fa5dbabe138dcfceb67e3fe2a08d716",
+      "md5": "531755e1e3d04efabb47ee6d899fa689",
       "summation": "md5"
     },
     {
       "name": "livingstondaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667092127",
-      "size": "638976",
-      "md5": "5565ba85e1e2aaf3e87fd1c8b421306e",
-      "crc32": "ab20cde1",
-      "sha1": "91dce8101c2527309d73fecf8ef11546d64e8c76",
+      "mtime": "1667134303",
+      "size": "643072",
+      "md5": "16b5ed72d5073436f760b1b573aaabb5",
+      "crc32": "e8022459",
+      "sha1": "fe4e1526f2543eb9955ce53111806b4a55e4261e",
       "format": "Metadata"
     },
     {
@@ -5003,9 +5065,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 484,
-  "item_last_updated": 1667092166,
-  "item_size": 30325568,
+  "files_count": 490,
+  "item_last_updated": 1667134342,
+  "item_size": 30688595,
   "metadata": {
     "identifier": "livingstondaily-2022",
     "collection": [
@@ -5027,7 +5089,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456571663,
+      "task_id": 3456962721,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5035,7 +5097,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1185517926,
+  "uniq": 1965178796,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

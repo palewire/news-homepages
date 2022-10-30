@@ -1,5 +1,5 @@
 {
-  "created": 1667091931,
+  "created": 1667134184,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/hornelltribune-2022",
@@ -4965,31 +4965,93 @@
       "format": "JSON"
     },
     {
+      "name": "hornelltribune-2022-10-29T21:04:35.656375-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-29T21:04:35.656375-04:00.jpg",
+      "mtime": "1667093457",
+      "size": "9217",
+      "md5": "43e396e5da4d245f994258589220052d",
+      "crc32": "7de776e3",
+      "sha1": "775f75e56cc09062c6cfe6b04e4878e359533552"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134134",
+      "size": "24050",
+      "md5": "2d25f96dd297dfe9cfc497184db2d6be",
+      "crc32": "a3db68fc",
+      "sha1": "5ab5affa38e0ac04a1ca6241428c6ce3224d454c",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134135",
+      "size": "38254",
+      "md5": "9aadb4fdaaf850518d4c70338caee90b",
+      "crc32": "a441b339",
+      "sha1": "75d36a9395f361c0d168e34ade3132bbc3c03a85",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.jpg",
+      "source": "original",
+      "mtime": "1667134132",
+      "size": "272128",
+      "md5": "7d159e03cdac956a76e5e12633f5dcd3",
+      "crc32": "a934949c",
+      "sha1": "86733cfc78f1daa7df735dda84f4e7107e7626b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134137",
+      "size": "1531",
+      "md5": "774908d88e95483fee00d55017a3335a",
+      "crc32": "a0f06e92",
+      "sha1": "301a6d10f5f2cb0f7ea98bd739f2ad2b2fab6643",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134138",
+      "size": "99391",
+      "md5": "88af13fb462cbe6646f7f07d8cff6c22",
+      "crc32": "289eea35",
+      "sha1": "9e186ce48917a1fc087ed357d35490e12a2b9061",
+      "format": "JSON"
+    },
+    {
       "name": "hornelltribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "097eee97d2df4be616bfbeacfed66ff235ed7d84",
-      "mtime": "1667091927",
-      "size": "105445",
-      "md5": "0f8caf81c3f78212bb11e1f889d55612",
-      "crc32": "6c13291a",
-      "sha1": "ef360689c6302a27aee2e4078821ee723d3556fa",
+      "btih": "7b449946dfa005dbf466b1d3bdc101b6c3991132",
+      "mtime": "1667134180",
+      "size": "106748",
+      "md5": "00982d72f502c526a7ded7da9a9d16d1",
+      "crc32": "f3368c1e",
+      "sha1": "8215fa6c2beb7f16f81036d07d2221f7379498ce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hornelltribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bd57fc2fa27750af873efc6f1bd308dc",
+      "md5": "62327c73285a54cc0c87e1f6b41e6105",
       "summation": "md5"
     },
     {
       "name": "hornelltribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667091891",
-      "size": "638976",
-      "md5": "dd472e5e70eda6e72531ca762e5865eb",
-      "crc32": "6e7829c8",
-      "sha1": "40a7d03cdf08b191c66570ef4cb40ed304a73fcf",
+      "mtime": "1667134142",
+      "size": "643072",
+      "md5": "56091957c5b47e32b95fdb082ca00b64",
+      "crc32": "ec921562",
+      "sha1": "112b70d530a8b9ba9bbf6ee90ae91fcc808aa257",
       "format": "Metadata"
     },
     {
@@ -5003,9 +5065,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 484,
-  "item_last_updated": 1667091927,
-  "item_size": 35070132,
+  "files_count": 490,
+  "item_last_updated": 1667134180,
+  "item_size": 35520102,
   "metadata": {
     "identifier": "hornelltribune-2022",
     "collection": [
@@ -5027,7 +5089,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456567249,
+      "task_id": 3456961095,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -5035,7 +5097,7 @@
       "status": "running"
     }
   ],
-  "uniq": 105772693,
+  "uniq": 1990964038,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
