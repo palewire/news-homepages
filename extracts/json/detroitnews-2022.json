@@ -1,5 +1,5 @@
 {
-  "created": 1667217817,
+  "created": 1667260025,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/9/items/detroitnews-2022",
@@ -11980,31 +11980,82 @@
       "sha1": "b32897b440b637e9e486fefd7b67153784d01621"
     },
     {
+      "name": "detroitnews-2022-10-31T19:45:44.706821-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667259956",
+      "size": "24690",
+      "md5": "46d317e811c970b6f497a083a7bd4691",
+      "crc32": "6ac0b435",
+      "sha1": "e04117b7a4683e9ea97673fc93a074d6104e7e38",
+      "format": "JSON"
+    },
+    {
+      "name": "detroitnews-2022-10-31T19:45:44.706821-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667259957",
+      "size": "31558",
+      "md5": "cdfb624cba005af40cb7796e3b8aa33e",
+      "crc32": "9edb5436",
+      "sha1": "5b9844538892bde8d3ad04b7e9573f6fc94ffc98",
+      "format": "JSON"
+    },
+    {
+      "name": "detroitnews-2022-10-31T19:45:44.706821-04:00.jpg",
+      "source": "original",
+      "mtime": "1667259952",
+      "size": "255582",
+      "md5": "0ab3447481bf248db6c82521b3c4ac3c",
+      "crc32": "179ed02d",
+      "sha1": "2a7126e46781e06146992bb02d6b176e0ac59c8d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "detroitnews-2022-10-31T19:45:44.706821-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667259959",
+      "size": "1504",
+      "md5": "987e4b44b4446e47ec29c65dec02ad04",
+      "crc32": "0aacb0a1",
+      "sha1": "39c791b0c6ad86f9e9e589aa87c5732d00d7794c",
+      "format": "JSON"
+    },
+    {
+      "name": "detroitnews-2022-10-31T19:45:44.706821-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667259961",
+      "size": "84507",
+      "md5": "639be696d081de224802055366c42568",
+      "crc32": "b29e02d4",
+      "sha1": "ad54e1340325b7c03d6ade3317b9cf08af3c58db",
+      "format": "JSON"
+    },
+    {
       "name": "detroitnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "daacf42c883fbf137db2489779eeffda50f02d0f",
-      "mtime": "1667217706",
-      "size": "248441",
-      "md5": "7c580a5239262e0bb694605d671c1d30",
-      "crc32": "954e66b5",
-      "sha1": "37f171d425baa177ad8acd0fe13596ce104bc689",
+      "btih": "a4bd2760b230828372f431caf8bc6d7181ca63ae",
+      "mtime": "1667260014",
+      "size": "249519",
+      "md5": "a39dbba672eb62d2ee7baad9e43fc077",
+      "crc32": "1182eef8",
+      "sha1": "c57c79b9af01bc5e3223d7ba0c88c85e2864f1b7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "detroitnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1fd408ac98543a5f54127637920269ab",
+      "md5": "30d733c98a038a192b7e76dc6209def4",
       "summation": "md5"
     },
     {
       "name": "detroitnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667217206",
-      "size": "1486848",
-      "md5": "75c2dba8fc3917b16dcb934aecad27bd",
-      "crc32": "d02a8d82",
-      "sha1": "3abe28f5e4fe660290b723f1c51b91393e3d9403",
+      "mtime": "1667259965",
+      "size": "1495040",
+      "md5": "f44e6c13af2ed6fbaa1a185440fc851f",
+      "crc32": "6a194538",
+      "sha1": "f869bedf9ae3438bccb26d630d594330a9356f50",
       "format": "Metadata"
     },
     {
@@ -12018,9 +12069,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1162,
-  "item_last_updated": 1667217706,
-  "item_size": 78074506,
+  "files_count": 1167,
+  "item_last_updated": 1667260014,
+  "item_size": 78481617,
   "metadata": {
     "identifier": "detroitnews-2022",
     "collection": [
@@ -12037,9 +12088,20 @@
     "publicdate": "2022-07-25 23:13:05",
     "addeddate": "2022-07-25 23:13:05"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 987564720,
+  "tasks": [
+    {
+      "task_id": 3458248992,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 388504109,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

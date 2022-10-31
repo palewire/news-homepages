@@ -1,5 +1,5 @@
 {
-  "created": 1667217950,
+  "created": 1667260105,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/fla_pol-2022",
@@ -10464,31 +10464,82 @@
       "sha1": "0071556667e322c6bab0295136a835b232e5fcae"
     },
     {
+      "name": "fla_pol-2022-10-31T19:46:38.397131-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667260011",
+      "size": "88511",
+      "md5": "b7344b6619ba86b1950480049f74c555",
+      "crc32": "0234588e",
+      "sha1": "3419711857df37a1a01f4ffc1b2ff168eba31c18",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-31T19:46:38.397131-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667260013",
+      "size": "87024",
+      "md5": "6aafd0e61bb1e2fd782aa1b5e15945c8",
+      "crc32": "3f5c0296",
+      "sha1": "12be6c432736d1197866f5d671813717c06f4642",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-31T19:46:38.397131-04:00.jpg",
+      "source": "original",
+      "mtime": "1667260009",
+      "size": "293172",
+      "md5": "cc2661f35ea0152f2a2b4661f46f7411",
+      "crc32": "cc2ca624",
+      "sha1": "6861fb5d5f8557052c8983790d3570687bea6370",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-10-31T19:46:38.397131-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667260015",
+      "size": "1504",
+      "md5": "bd96679e0ef95285a60a0764e1bce9b9",
+      "crc32": "9bd75a52",
+      "sha1": "79719ce154286bf4f5a14b633d329c5bc2742203",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-10-31T19:46:38.397131-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667260017",
+      "size": "24681",
+      "md5": "b5782b16dee4940fcecc437abc0a1ad2",
+      "crc32": "30c7f054",
+      "sha1": "7cf8e0744edfb29ba2a057f221a35612e5357145",
+      "format": "JSON"
+    },
+    {
       "name": "fla_pol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f48e5269f04500ec0759389fbc7183aa631558c",
-      "mtime": "1667217929",
-      "size": "213740",
-      "md5": "42e332ddf1cf82ed82d780186a0ece3f",
-      "crc32": "693d0c15",
-      "sha1": "a6d0673cc5ce66a29689cfb1d0ce4c8d2211ee73",
+      "btih": "34fb083cbbd0d66d47562f35e80a4f7001fd973b",
+      "mtime": "1667260099",
+      "size": "214798",
+      "md5": "cb33cd790312ba792f95663bbcb453bb",
+      "crc32": "1d406a1b",
+      "sha1": "e16857f2fbeb8dc5978cbdc28d2e4a47625f9186",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fla_pol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf3e689fc3df11cc63b987d7ba9f8f65",
+      "md5": "fad728b3627d383ea4eff0a644f3e8bc",
       "summation": "md5"
     },
     {
       "name": "fla_pol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667217332",
-      "size": "1294336",
-      "md5": "38776f4c01e40b5c296e5c2344dc8c67",
-      "crc32": "a31b8af7",
-      "sha1": "6eaa1fed520124d2893ae867a271cd9ff4a350bc",
+      "mtime": "1667260047",
+      "size": "1302528",
+      "md5": "07fbe8df14e071c76b56dd9945e44a4a",
+      "crc32": "03e3d697",
+      "sha1": "1859e48d8489dfe96c0e8159fb36d56d052f95eb",
       "format": "Metadata"
     },
     {
@@ -10502,9 +10553,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1016,
-  "item_last_updated": 1667217929,
-  "item_size": 79376478,
+  "files_count": 1021,
+  "item_last_updated": 1667260099,
+  "item_size": 79880620,
   "metadata": {
     "identifier": "fla_pol-2022",
     "collection": [
@@ -10521,9 +10572,20 @@
     "publicdate": "2022-08-09 03:37:17",
     "addeddate": "2022-08-09 03:37:17"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 1440137969,
+  "tasks": [
+    {
+      "task_id": 3458249977,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 516680408,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

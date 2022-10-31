@@ -1,6 +1,5 @@
 {
-  "conflict": 1667217754,
-  "created": 1667217754,
+  "created": 1667260109,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/el_universal_mx-2022",
@@ -31336,31 +31335,93 @@
       "format": "JSON"
     },
     {
+      "name": "el_universal_mx-2022-10-31T05:54:43.488813-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "el_universal_mx-2022-10-31T05:54:43.488813-06:00.jpg",
+      "mtime": "1667217791",
+      "size": "10010",
+      "md5": "40a8c856f594b509db788c686d16d9e9",
+      "crc32": "26191e53",
+      "sha1": "7c00b3dd2a049da86bb135dc59de5a2e479354a5"
+    },
+    {
+      "name": "el_universal_mx-2022-10-31T17:46:06.714126-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667259997",
+      "size": "64474",
+      "md5": "c8a6c734ae4babb2f72173ced8f64fb0",
+      "crc32": "b29c3ac4",
+      "sha1": "b3e9fd40f61f599fb97addcd9e436d5e08f1c15b",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-10-31T17:46:06.714126-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667259999",
+      "size": "73759",
+      "md5": "3e74ceebc169f3f34d6aa10f271efb00",
+      "crc32": "7191e856",
+      "sha1": "f032674b3f6d9648b12f00596e3c0df0ef0cad05",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-10-31T17:46:06.714126-06:00.jpg",
+      "source": "original",
+      "mtime": "1667259995",
+      "size": "351832",
+      "md5": "13724dec59adb801d83896f68294c198",
+      "crc32": "38737968",
+      "sha1": "f4caa3cb7e487e44a3a1e758b9540dd2151da4d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "el_universal_mx-2022-10-31T17:46:06.714126-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667260001",
+      "size": "1585",
+      "md5": "26bfdc1bf155aee40337dbf0cf007711",
+      "crc32": "306e4d1b",
+      "sha1": "516e47170aff45528c72c370350139ea80eded57",
+      "format": "JSON"
+    },
+    {
+      "name": "el_universal_mx-2022-10-31T17:46:06.714126-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667260003",
+      "size": "107",
+      "md5": "99112ced8237527b3e5a8edf0c90a7ab",
+      "crc32": "58f33750",
+      "sha1": "214fd22492570ec139f842e4dd0f9e42190be413",
+      "format": "JSON"
+    },
+    {
       "name": "el_universal_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf64ff19d0773e9acafd936e686d5bd9f12f7c1a",
-      "mtime": "1667217423",
-      "size": "657007",
-      "md5": "4b32ccb3ce73024330f45c8442f2eee5",
-      "crc32": "5a435b0a",
-      "sha1": "8bc3e7b2ccf86c2cf5c6a9f90ce01bde1b986e22",
+      "btih": "4d6309ac77eaf732bacc38ff520583680e700460",
+      "mtime": "1667260103",
+      "size": "658315",
+      "md5": "4353d42c6d58c818d964064b5728baa2",
+      "crc32": "a5bffc86",
+      "sha1": "c42de4b5a6987b5572544fc0dd4ad25f7e42bc3b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "el_universal_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dcf9fc9b32c0356f1ab5984da307ebcf",
+      "md5": "f394f53f8d4040b29bb757cca69332eb",
       "summation": "md5"
     },
     {
       "name": "el_universal_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667217322",
-      "size": "3620864",
-      "md5": "79061fdbd78441afaabb2f399b47bb9d",
-      "crc32": "a580278f",
-      "sha1": "81d91297c8ccf854087f8bdad432f71545d89659",
+      "mtime": "1667260006",
+      "size": "3624960",
+      "md5": "385a3d635516c2e57b11a88ce3d94a1a",
+      "crc32": "185ff3e0",
+      "sha1": "86f5173e25217a7e730811c7b2c32d7eb03f8153",
       "format": "Metadata"
     },
     {
@@ -31374,9 +31435,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3006,
-  "item_last_updated": 1667217423,
-  "item_size": 295069053,
+  "files_count": 3012,
+  "item_last_updated": 1667260103,
+  "item_size": 295576224,
   "metadata": {
     "identifier": "el_universal_mx-2022",
     "collection": [
@@ -31398,15 +31459,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457751194,
+      "task_id": 3458250017,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1079937262,
+  "uniq": 726413366,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

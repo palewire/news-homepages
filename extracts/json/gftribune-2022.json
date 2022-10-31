@@ -1,5 +1,5 @@
 {
-  "created": 1667217850,
+  "created": 1667260159,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/gftribune-2022",
@@ -5162,31 +5162,82 @@
       "sha1": "f572c8b8e08ac52446adc1e15fa348d0c9670e16"
     },
     {
+      "name": "gftribune-2022-10-31T17:48:13.321587-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667260099",
+      "size": "22001",
+      "md5": "7cf02f89f6fa85a772bee353580b4b73",
+      "crc32": "09eed45c",
+      "sha1": "a9337bc3cf4c9cfb6cc2e412340ea42082a37ac0",
+      "format": "JSON"
+    },
+    {
+      "name": "gftribune-2022-10-31T17:48:13.321587-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667260101",
+      "size": "35196",
+      "md5": "e22e7c4b8716d49fd7e25ab29fc5f42f",
+      "crc32": "be07e230",
+      "sha1": "78fe76edeed76714c25e9cb9fbdd9f65446678a4",
+      "format": "JSON"
+    },
+    {
+      "name": "gftribune-2022-10-31T17:48:13.321587-06:00.jpg",
+      "source": "original",
+      "mtime": "1667260098",
+      "size": "293309",
+      "md5": "99f820fd34c6f34cafb69a850bf47451",
+      "crc32": "aaa7fde3",
+      "sha1": "5e0d3b7aa7bd8db329cbaefd9e93743d710ee858",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gftribune-2022-10-31T17:48:13.321587-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667260102",
+      "size": "1557",
+      "md5": "a8624465be6a3d741225856bb2ad4b7c",
+      "crc32": "21bc2943",
+      "sha1": "dd0f6285010e2f58beeeff19f44821c0e3ba82e5",
+      "format": "JSON"
+    },
+    {
+      "name": "gftribune-2022-10-31T17:48:13.321587-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667260104",
+      "size": "86675",
+      "md5": "683d51b61ed397afdd48b3f874a9e9b2",
+      "crc32": "f797ab47",
+      "sha1": "02b861c78d6534d2e5cc1d407c8b33db8562eb38",
+      "format": "JSON"
+    },
+    {
       "name": "gftribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f920ae21a740bd01194bed45ed3d5e1dad509eee",
-      "mtime": "1667217817",
-      "size": "106821",
-      "md5": "563bcd1ec83af181dbb798e53cbd43b5",
-      "crc32": "f81d6003",
-      "sha1": "4edaf5ad3f6bb1106e9fa7378cc537f41818a60d",
+      "btih": "bce743959a55fb22949791f45401d5d6191a4993",
+      "mtime": "1667260153",
+      "size": "107889",
+      "md5": "8ff50275a56dae95a8fa5c043fd658a3",
+      "crc32": "7d845943",
+      "sha1": "8abd345415d20d228aabb5f01ed638b46f0f9b01",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gftribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c9fc0475c239fe0cd973ecef668631c8",
+      "md5": "2c8b2ff33d0fcb952055bdeab799a9f7",
       "summation": "md5"
     },
     {
       "name": "gftribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667217426",
-      "size": "651264",
-      "md5": "c99a3c32f41eb14930102085f57c6b6b",
-      "crc32": "763d8e07",
-      "sha1": "50e93b8c2db730ce274c4c4d156a2c615ce1806e",
+      "mtime": "1667260108",
+      "size": "659456",
+      "md5": "cf42ad7d46ef645aeddf779b3b0cccf6",
+      "crc32": "02aa0977",
+      "sha1": "b78a88f8283a56b22c5cb1591f23d8d1815545de",
       "format": "Metadata"
     },
     {
@@ -5200,9 +5251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 503,
-  "item_last_updated": 1667217817,
-  "item_size": 33091194,
+  "files_count": 508,
+  "item_last_updated": 1667260153,
+  "item_size": 33539192,
   "metadata": {
     "identifier": "gftribune-2022",
     "collection": [
@@ -5219,10 +5270,21 @@
     "publicdate": "2022-09-20 22:17:20",
     "addeddate": "2022-09-20 22:17:20"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1883172074,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458250621,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1998252731,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

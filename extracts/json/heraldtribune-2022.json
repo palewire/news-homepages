@@ -1,5 +1,5 @@
 {
-  "created": 1667218019,
+  "created": 1667260209,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/1/items/heraldtribune-2022",
@@ -5162,31 +5162,82 @@
       "sha1": "1ef1919ea183e0b542dba2f0e4c95609db1b6fb0"
     },
     {
+      "name": "heraldtribune-2022-10-31T19:49:03.100713-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667260148",
+      "size": "23335",
+      "md5": "800f48d7ec37a210a7ba8392ec601d06",
+      "crc32": "91b797f5",
+      "sha1": "9f3d2641cb0f06d1ac8ef91b68c572df813d9ed7",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldtribune-2022-10-31T19:49:03.100713-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667260149",
+      "size": "41873",
+      "md5": "990dc8a2ccfefb992f3e8e72b5dd736a",
+      "crc32": "87565fb8",
+      "sha1": "e2707104a29d6de228196d23c11287bc51bee3b7",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldtribune-2022-10-31T19:49:03.100713-04:00.jpg",
+      "source": "original",
+      "mtime": "1667260146",
+      "size": "232703",
+      "md5": "1d841a5d4ef241e5a84277243b2dda89",
+      "crc32": "d4488869",
+      "sha1": "6a1f588593042f812c83f7a4433fdcc5dc034ce8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldtribune-2022-10-31T19:49:03.100713-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667260151",
+      "size": "1522",
+      "md5": "eabb5f433f635ae4a17ef4d34def83c5",
+      "crc32": "bc38e731",
+      "sha1": "cdbb0796d341dfe4812fc5128709f494ab277655",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldtribune-2022-10-31T19:49:03.100713-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667260153",
+      "size": "254",
+      "md5": "0d2b5997ef27b9d88c02200092c6cebb",
+      "crc32": "d9f4f9b0",
+      "sha1": "8bd0a65764ac6da174c9e8a6e72d0bca3f37de0e",
+      "format": "JSON"
+    },
+    {
       "name": "heraldtribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80add49c5027f7cdd0830a792247ea9c3a2768e2",
-      "mtime": "1667217943",
-      "size": "108947",
-      "md5": "406673452742a1cb5835af9cd3c56f98",
-      "crc32": "50753611",
-      "sha1": "bd9fb925bb4928c12753d44cfb0dccc9cb1d130d",
+      "btih": "cbeb12d10bf4306c0b3a6552ef442fad281fc7df",
+      "mtime": "1667260200",
+      "size": "110033",
+      "md5": "2aa6f960e9b13f6dc7ce34397f4df236",
+      "crc32": "589211a6",
+      "sha1": "9ebf73e1c9e618558a3207490034e74248751ed6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldtribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a4ccfba49eeb859c25689b97e09e812",
+      "md5": "e00c6eae700a499fd29521484656a942",
       "summation": "md5"
     },
     {
       "name": "heraldtribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667217459",
-      "size": "659456",
-      "md5": "329c27b90a4b0f85942a5ee84faecc40",
-      "crc32": "9316f43d",
-      "sha1": "33a451307721a31c58bc8a3b06dba938e4eb74cc",
+      "mtime": "1667260157",
+      "size": "663552",
+      "md5": "5892a93d4cf881a8dae44272511522fb",
+      "crc32": "e8ca346b",
+      "sha1": "b3affb5c6ee955c9da1ff120f4eab33668f2aadd",
       "format": "Metadata"
     },
     {
@@ -5200,9 +5251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 503,
-  "item_last_updated": 1667217943,
-  "item_size": 35144103,
+  "files_count": 508,
+  "item_last_updated": 1667260200,
+  "item_size": 35448972,
   "metadata": {
     "identifier": "heraldtribune-2022",
     "collection": [
@@ -5219,10 +5270,21 @@
     "publicdate": "2022-09-20 22:19:12",
     "addeddate": "2022-09-20 22:19:12"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 282731539,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458251018,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 63357225,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

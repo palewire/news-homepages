@@ -1,5 +1,5 @@
 {
-  "created": 1667217481,
+  "created": 1667259887,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/chieftainnews-2022",
@@ -5142,31 +5142,82 @@
       "sha1": "890f2f27d66d68887a876fa11267e58020349620"
     },
     {
+      "name": "chieftainnews-2022-10-31T17:43:49.009788-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667259834",
+      "size": "24900",
+      "md5": "4e3e0e91b995152a21c1c40f93047f73",
+      "crc32": "c2b3017f",
+      "sha1": "94f3bf69d77eefc5359add82d54305ceaab8d08e",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-31T17:43:49.009788-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667259836",
+      "size": "53584",
+      "md5": "60407f18e2d27a5c7b3b6741e2634519",
+      "crc32": "a1db87aa",
+      "sha1": "446386680b0df578f375ed61787caeab1e6cc391",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-31T17:43:49.009788-06:00.jpg",
+      "source": "original",
+      "mtime": "1667259832",
+      "size": "227093",
+      "md5": "6f26ffd30f63608c12ef0ccc48cf6752",
+      "crc32": "83672a3a",
+      "sha1": "50b4a4cc89d38404db34712807fe016e5481a645",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chieftainnews-2022-10-31T17:43:49.009788-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667259838",
+      "size": "1486",
+      "md5": "3e3d9116ccf3c5b47de8dbebabb2455a",
+      "crc32": "62291a53",
+      "sha1": "298130d1c029e6bc24c3f28c35d2f28c29fb26aa",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-10-31T17:43:49.009788-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667259839",
+      "size": "76406",
+      "md5": "218508d443b2cdf3f0d754e4ad895575",
+      "crc32": "04e57d68",
+      "sha1": "0a2720dd298a5d1b1524c49e8c6082d001e70daa",
+      "format": "JSON"
+    },
+    {
       "name": "chieftainnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b5289ef6661970715bca0a1dbbacbbe67440875",
-      "mtime": "1667217457",
-      "size": "108574",
-      "md5": "3927b23684f73f4599f2293e161326d7",
-      "crc32": "3f7adfea",
-      "sha1": "8d4df4e7fada7b30fa4999ac5ec6585cb3b0b1ed",
+      "btih": "cae8cb5ef0deb931946470d6b3771ae3b1901c7a",
+      "mtime": "1667259884",
+      "size": "109662",
+      "md5": "ed0e8eaa74e6bc480e4c8f61f275410e",
+      "crc32": "f93836c8",
+      "sha1": "a74d629cbbe06e3a608a96c2659dd7d27d3482d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chieftainnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47479e9c017ae9b63dc38a051e60cad5",
+      "md5": "fa79b3015070703026ecfdd0edfab34c",
       "summation": "md5"
     },
     {
       "name": "chieftainnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667217069",
-      "size": "655360",
-      "md5": "007dad1dbcf510defec6cf714a91d157",
-      "crc32": "08a94b88",
-      "sha1": "2bc2e735c6e5877ecc1809b12efa9735d012ff90",
+      "mtime": "1667259845",
+      "size": "663552",
+      "md5": "fe73be0d58a0a2167de210d88df67183",
+      "crc32": "184f756e",
+      "sha1": "2de039e18a3f1bd1c71bbac8d5296d55b745ca24",
       "format": "Metadata"
     },
     {
@@ -5180,9 +5231,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 501,
-  "item_last_updated": 1667217457,
-  "item_size": 35707207,
+  "files_count": 506,
+  "item_last_updated": 1667259884,
+  "item_size": 36099956,
   "metadata": {
     "identifier": "chieftainnews-2022",
     "collection": [
@@ -5199,10 +5250,21 @@
     "publicdate": "2022-09-20 22:13:16",
     "addeddate": "2022-09-20 22:13:16"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 757934442,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458247627,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 891887192,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

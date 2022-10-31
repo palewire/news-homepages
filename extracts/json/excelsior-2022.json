@@ -1,6 +1,5 @@
 {
-  "conflict": 1667217892,
-  "created": 1667217892,
+  "created": 1667260016,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/22/items/excelsior-2022",
@@ -9661,34 +9660,90 @@
       "name": "excelsior-2022-10-31T05:55:38.196828-06:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "excelsior-2022-10-31T05:55:38.196828-06:00.jpg"
+      "original": "excelsior-2022-10-31T05:55:38.196828-06:00.jpg",
+      "mtime": "1667217869",
+      "size": "9961",
+      "md5": "d5dc63441b851541f676fa8f0c5a25d5",
+      "crc32": "0aa71ab9",
+      "sha1": "36aba3d23739410a37a75e69918b22c951bfce67"
+    },
+    {
+      "name": "excelsior-2022-10-31T17:45:37.628928-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667259951",
+      "size": "21018",
+      "md5": "00f3f240b3afccec6ada7e457615ae54",
+      "crc32": "ac78190a",
+      "sha1": "2b63968ed06a86ff8255e26d45934ed44499ee09",
+      "format": "JSON"
+    },
+    {
+      "name": "excelsior-2022-10-31T17:45:37.628928-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667259954",
+      "size": "21395",
+      "md5": "f3e0ecac88128e629cc77334b1fb7d32",
+      "crc32": "90cfa49b",
+      "sha1": "e360a415546c01a68652d19bf982602a84f107a0",
+      "format": "JSON"
+    },
+    {
+      "name": "excelsior-2022-10-31T17:45:37.628928-06:00.jpg",
+      "source": "original",
+      "mtime": "1667259949",
+      "size": "277506",
+      "md5": "07f325ee3e2acc7b0e6424fce00c106c",
+      "crc32": "1c1b5818",
+      "sha1": "8acb28f30914647bbe8f703d9b1e6e42dec7d431",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "excelsior-2022-10-31T17:45:37.628928-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667259956",
+      "size": "1512",
+      "md5": "47b1fd0246d4f64c99d78eac54a6682c",
+      "crc32": "e42c629c",
+      "sha1": "2c95ea0550895296d298972a40b4b285db854977",
+      "format": "JSON"
+    },
+    {
+      "name": "excelsior-2022-10-31T17:45:37.628928-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667259957",
+      "size": "87692",
+      "md5": "25aaca7be2403bbb8cbc6be4e481317f",
+      "crc32": "bb1d2790",
+      "sha1": "7f749fb98a6b28e5b4a8878f2438c94ea09f2f00",
+      "format": "JSON"
     },
     {
       "name": "excelsior-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6a8929c9503272be83a3e235f42157b39ba8198e",
-      "mtime": "1667217401",
-      "size": "198808",
-      "md5": "ee21d3ab1449bae65a54572fb502b957",
-      "crc32": "7f292939",
-      "sha1": "b93f2a35f83b019378de814bf72829131fbf37ee",
+      "btih": "7f52be251f498feb5b7c335ca1edffb3206c7e2c",
+      "mtime": "1667260011",
+      "size": "200081",
+      "md5": "49d50e8b436612ece90bf863f2a86219",
+      "crc32": "b0525fb4",
+      "sha1": "a1ea3de9135ff9c8de545b06673c8a6fd2f673f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "excelsior-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e2c645b3f67f517b1a65200cf0ffa9f3",
+      "md5": "1ee55a9a864634665e604ea8958d0e5e",
       "summation": "md5"
     },
     {
       "name": "excelsior-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667217356",
-      "size": "1204224",
-      "md5": "4a6186138d3b6eed12505fe1acbbf5b2",
-      "crc32": "bde437e0",
-      "sha1": "8cc9c7f430ba5c6c9c71ad1bd9feb7607c783e9a",
+      "mtime": "1667259964",
+      "size": "1212416",
+      "md5": "743d8c2c109cfdd229391c7d9d4b96bd",
+      "crc32": "1e4c0fcb",
+      "sha1": "ed45554ee22797b716e856faa62724b02e4b59d7",
       "format": "Metadata"
     },
     {
@@ -9702,9 +9757,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 939,
-  "item_last_updated": 1667217401,
-  "item_size": 61389753,
+  "files_count": 944,
+  "item_last_updated": 1667260011,
+  "item_size": 61818302,
   "metadata": {
     "identifier": "excelsior-2022",
     "collection": [
@@ -9726,15 +9781,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457750961,
+      "task_id": 3458248915,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1793407012,
+  "uniq": 705881094,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
