@@ -592,6 +592,7 @@ def _load_new_page_disable_javascript(
     """Load the page with javascript blocking."""
     # Create an empty tab
     page = context.new_page()
+
     # Open the page
     print(f"Opening {url}")
     page.goto(url, timeout=60000)
