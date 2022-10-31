@@ -1,5 +1,5 @@
 {
-  "created": 1667134380,
+  "created": 1667178773,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/27/items/lastampa-2022",
@@ -10143,31 +10143,93 @@
       "format": "JSON"
     },
     {
+      "name": "lastampa-2022-10-30T13:51:50.239097+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lastampa-2022-10-30T13:51:50.239097+01:00.jpg",
+      "mtime": "1667136211",
+      "size": "7604",
+      "md5": "eaab67bdbca6c8084d13da751212680b",
+      "crc32": "9ab93bef",
+      "sha1": "8494e1f273fb57b7e00269fca5a25b4c98b995d6"
+    },
+    {
+      "name": "lastampa-2022-10-31T02:11:18.272118+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178705",
+      "size": "76169",
+      "md5": "71aa8401d1efe6c6e2422a64da298dcb",
+      "crc32": "bf8baea5",
+      "sha1": "86e5b7842d2bdc7854ff9a50d88b7d33ababf87b",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-10-31T02:11:18.272118+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178706",
+      "size": "136283",
+      "md5": "fec2dcb2cc31ab67b8e2e91c9299662e",
+      "crc32": "867a8c5e",
+      "sha1": "b6ba09c69e16229a222a13892e0d2be6c02e9cd5",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-10-31T02:11:18.272118+01:00.jpg",
+      "source": "original",
+      "mtime": "1667178703",
+      "size": "178199",
+      "md5": "33e63f23078160152cb6bfa998434b8f",
+      "crc32": "9429ceee",
+      "sha1": "2c57e55a76d19f0e643ced86d259df4a89ab7018",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lastampa-2022-10-31T02:11:18.272118+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178710",
+      "size": "1468",
+      "md5": "b52fc3e1207d3967a331e22583e5c641",
+      "crc32": "500a394e",
+      "sha1": "d397852226ad2bd1185ce4f872e4aca3e27c4aba",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-10-31T02:11:18.272118+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178712",
+      "size": "30908",
+      "md5": "1a8e1efa16fae42391359782b3a32641",
+      "crc32": "2cab6282",
+      "sha1": "dd6b5d6562c70d9538144842659cb792276c85df",
+      "format": "JSON"
+    },
+    {
       "name": "lastampa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b504c77e79c6842fe9b120dab270e722d2c596f0",
-      "mtime": "1667134373",
-      "size": "208462",
-      "md5": "314845514aa076efa4c7c4cf4c987ed3",
-      "crc32": "ebd4e0f9",
-      "sha1": "62b018cb20e8dc5d09a67d2801f48419d71c7d68",
+      "btih": "5da30c7054edffcd4e21b0c0b7235fc2d278a097",
+      "mtime": "1667178767",
+      "size": "209710",
+      "md5": "30a5cc8625e30908f2f2da046c8cd692",
+      "crc32": "307d1f0f",
+      "sha1": "15fb8b53ec73c7f93e68a5a04471fea8549ad863",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lastampa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be2b8128739b703fa478d2da43551051",
+      "md5": "6f5a902e824a7378d7107b8eb2e22a23",
       "summation": "md5"
     },
     {
       "name": "lastampa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667134328",
-      "size": "1261568",
-      "md5": "8c6f7d78f85e8085094d292270967356",
-      "crc32": "6dba67af",
-      "sha1": "20eefdaaa21522a37f0261a8267d226aac392c57",
+      "mtime": "1667178715",
+      "size": "1265664",
+      "md5": "97efe241edc0b5e9ab6a40b461345c9c",
+      "crc32": "fc4aeb83",
+      "sha1": "86950b8f019b755a0a2ebf7c793c34a6d705c75f",
       "format": "Metadata"
     },
     {
@@ -10181,9 +10243,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 985,
-  "item_last_updated": 1667134373,
-  "item_size": 82029618,
+  "files_count": 991,
+  "item_last_updated": 1667178767,
+  "item_size": 82465593,
   "metadata": {
     "identifier": "lastampa-2022",
     "collection": [
@@ -10205,7 +10267,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456962994,
+      "task_id": 3457392912,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10213,7 +10275,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1733446811,
+  "uniq": 1290536592,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

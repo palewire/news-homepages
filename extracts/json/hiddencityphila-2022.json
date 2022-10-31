@@ -1,5 +1,5 @@
 {
-  "created": 1667134164,
+  "created": 1667178610,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/hiddencityphila-2022",
@@ -13511,31 +13511,93 @@
       "format": "JSON"
     },
     {
+      "name": "hiddencityphila-2022-10-30T08:48:10.867795-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hiddencityphila-2022-10-30T08:48:10.867795-04:00.jpg",
+      "mtime": "1667135315",
+      "size": "9631",
+      "md5": "c6420d80cc546f86335d377529aa644d",
+      "crc32": "32b62254",
+      "sha1": "46c8c9282beb861509b7609b22816b150b3df56d"
+    },
+    {
+      "name": "hiddencityphila-2022-10-30T21:08:56.049516-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178540",
+      "size": "9123",
+      "md5": "6c90372082f16fd5316d9b7b21a39cae",
+      "crc32": "82b64aa6",
+      "sha1": "562ea1bf47af510ddf4c5dca502827a3b206d489",
+      "format": "JSON"
+    },
+    {
+      "name": "hiddencityphila-2022-10-30T21:08:56.049516-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178542",
+      "size": "12087",
+      "md5": "9df4e25dcffb3a1c3e829af273ac5c91",
+      "crc32": "2ec8f995",
+      "sha1": "cdd43ffecf0299c3f71239ce4d44af86d6e6b731",
+      "format": "JSON"
+    },
+    {
+      "name": "hiddencityphila-2022-10-30T21:08:56.049516-04:00.jpg",
+      "source": "original",
+      "mtime": "1667178538",
+      "size": "307236",
+      "md5": "33031d74dbf3691f9aa995ccf0acc399",
+      "crc32": "561fb3f1",
+      "sha1": "e06e64ad31188108a5538d5c146cc197d552679d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hiddencityphila-2022-10-30T21:08:56.049516-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178543",
+      "size": "1503",
+      "md5": "c3056a22325744477b86d14bfd1a9d27",
+      "crc32": "cb7a37ea",
+      "sha1": "bc39f5103f2c27fd5a853a251fdef4857c744d5d",
+      "format": "JSON"
+    },
+    {
+      "name": "hiddencityphila-2022-10-30T21:08:56.049516-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178545",
+      "size": "9005",
+      "md5": "2d71d2ce72e0a35b5137efcd8b7328ce",
+      "crc32": "1bfa09a5",
+      "sha1": "f8f947bd629f6cb89ea0d13fbb9b51de40a8f0be",
+      "format": "JSON"
+    },
+    {
       "name": "hiddencityphila-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0402dd70d92338b4e9e8680b96a3f51b1d3095aa",
-      "mtime": "1667134157",
-      "size": "284059",
-      "md5": "b35e21caeedd9e9648282cbf7dc30e4f",
-      "crc32": "1f6b0bae",
-      "sha1": "bcc593b17323d35b632201ecd78f1e2e615cde49",
+      "btih": "2eb7dfb22c9e5430ae12241344677823adacc540",
+      "mtime": "1667178601",
+      "size": "285346",
+      "md5": "1cb2b3293f431cbd02347fc88c902607",
+      "crc32": "1089b5d3",
+      "sha1": "c96c13b208846c6ce205754aeaafdbd83d5d6d61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hiddencityphila-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "95adb2351d9cbc160a889993e35590ef",
+      "md5": "51ddfa3f89aa354798a444542ea1bf6a",
       "summation": "md5"
     },
     {
       "name": "hiddencityphila-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667134106",
-      "size": "1662976",
-      "md5": "b13fd92aef8d52d6d7651ca5926af3ec",
-      "crc32": "2c9b6a7f",
-      "sha1": "6653569c8d0ba41bf67fce2ed02859bea8f3fb07",
+      "mtime": "1667178550",
+      "size": "1671168",
+      "md5": "1f075e519a706ec4ebf727c7084c0108",
+      "crc32": "02f8d862",
+      "sha1": "826c4610d9fc743977cdc46c40fcdc250d50519e",
       "format": "Metadata"
     },
     {
@@ -13549,9 +13611,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1308,
-  "item_last_updated": 1667134157,
-  "item_size": 77394011,
+  "files_count": 1314,
+  "item_last_updated": 1667178601,
+  "item_size": 77752075,
   "metadata": {
     "identifier": "hiddencityphila-2022",
     "collection": [
@@ -13573,15 +13635,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456960922,
+      "task_id": 3457391355,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 910838629,
+  "uniq": 267023510,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

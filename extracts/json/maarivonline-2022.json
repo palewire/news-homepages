@@ -1,5 +1,5 @@
 {
-  "created": 1667134388,
+  "created": 1667178925,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/8/items/maarivonline-2022",
@@ -9559,31 +9559,93 @@
       "format": "JSON"
     },
     {
+      "name": "maarivonline-2022-10-30T14:51:46.757666+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maarivonline-2022-10-30T14:51:46.757666+02:00.jpg",
+      "mtime": "1667135256",
+      "size": "8973",
+      "md5": "d0ad27ad15983da6b48996f02fc9d6ad",
+      "crc32": "985376fc",
+      "sha1": "e2f3b0478d17332dfa561350395557025d0c28be"
+    },
+    {
+      "name": "maarivonline-2022-10-31T03:14:09.480009+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178861",
+      "size": "96362",
+      "md5": "f73b7ae57cddb8d335e3d0aa57737ee2",
+      "crc32": "4375a3d4",
+      "sha1": "a0a13cfc14636de1cdc4986e2128cf33f6518a0c",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-31T03:14:09.480009+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178863",
+      "size": "155786",
+      "md5": "5a9b7b127283d1ee8bf7468f3a6c6809",
+      "crc32": "e07cdffd",
+      "sha1": "05dee153f3cd799b0bb93368e31b4192abcf1f9c",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-31T03:14:09.480009+02:00.jpg",
+      "source": "original",
+      "mtime": "1667178860",
+      "size": "213577",
+      "md5": "c613cab9200cf9380dd2979abe6cee59",
+      "crc32": "91e45ee2",
+      "sha1": "eac4b41bc0b6a45c382e7c0313c62bbc19ee339c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "maarivonline-2022-10-31T03:14:09.480009+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178865",
+      "size": "1459",
+      "md5": "94381bcdaa959cd7ab19bc702ff58cd7",
+      "crc32": "e117ad74",
+      "sha1": "414a90bf311b100c192d61179bf3b4314fcea59a",
+      "format": "JSON"
+    },
+    {
+      "name": "maarivonline-2022-10-31T03:14:09.480009+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178866",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "maarivonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4e744d52c6d6735666627826ecfa03aab86a8b9b",
-      "mtime": "1667134383",
-      "size": "200603",
-      "md5": "26fbab375e6f647756dcb5e020ca53f5",
-      "crc32": "7cbe31d0",
-      "sha1": "36c8662c1b410e01feb738271eadb9f9e397f97c",
+      "btih": "77bc6b08bf22dd36ff2a21f2b5b8a4819724f8bd",
+      "mtime": "1667178918",
+      "size": "201893",
+      "md5": "29eeab2c259750e9cc119232ba551040",
+      "crc32": "e616a496",
+      "sha1": "dc7b83fe1658746920528b2e421c1a430734def1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "maarivonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d14a124d8f583b3e37d768d37113ff6",
+      "md5": "bc75857b42d55eddae143d95e84ac643",
       "summation": "md5"
     },
     {
       "name": "maarivonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667134333",
-      "size": "1191936",
-      "md5": "617347eade616b2720519b2eae016e63",
-      "crc32": "d43592db",
-      "sha1": "27bce93f6539950ae48fc1de48243a2c4d03bffa",
+      "mtime": "1667178870",
+      "size": "1200128",
+      "md5": "396d581f8e0a68c84eadda61f4e30c39",
+      "crc32": "bc8b83f4",
+      "sha1": "f47f3eb01eb553f55c7db8db056c694f3399088f",
       "format": "Metadata"
     },
     {
@@ -9597,9 +9659,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 928,
-  "item_last_updated": 1667134383,
-  "item_size": 86294182,
+  "files_count": 934,
+  "item_last_updated": 1667178918,
+  "item_size": 86780023,
   "metadata": {
     "identifier": "maarivonline-2022",
     "collection": [
@@ -9621,7 +9683,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456963063,
+      "task_id": 3457394652,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9629,7 +9691,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 638780361,
+  "uniq": 1589758826,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]
