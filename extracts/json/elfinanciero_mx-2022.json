@@ -1,6 +1,5 @@
 {
-  "conflict": 1667173479,
-  "created": 1667173479,
+  "created": 1667217377,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/19/items/elfinanciero_mx-2022",
@@ -9577,31 +9576,82 @@
       "sha1": "e10b660d9de87b16a48f0a6a84dc5769f0baa24c"
     },
     {
+      "name": "elfinanciero_mx-2022-10-31T05:55:09.799799-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217316",
+      "size": "35573",
+      "md5": "5a6534b49b3f47ac7d4688b69213ac1e",
+      "crc32": "02a232c0",
+      "sha1": "09a0ef7aff4af8450eea6d52bbdd9ef88c962c5d",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-10-31T05:55:09.799799-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217317",
+      "size": "41833",
+      "md5": "768f0e7fd77cc6290ae2800eb380023b",
+      "crc32": "c0fcad7c",
+      "sha1": "1339b51183bc1380baf8417c80d548debc8d83ef",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-10-31T05:55:09.799799-06:00.jpg",
+      "source": "original",
+      "mtime": "1667217314",
+      "size": "298529",
+      "md5": "a58d8e987eac357ab38cac02d87c256d",
+      "crc32": "1134ac3c",
+      "sha1": "564bc2e9c11dcae04b5d5e11abcb725518bd4efd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elfinanciero_mx-2022-10-31T05:55:09.799799-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217319",
+      "size": "1538",
+      "md5": "b771e15a672cc4d7482be5e664012fe3",
+      "crc32": "fac6804f",
+      "sha1": "aa8eb73b8d27682c9ac6b7da3080398a6791c702",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-10-31T05:55:09.799799-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217321",
+      "size": "82461",
+      "md5": "c6a3775b7c143228fc40da6bd1258ef2",
+      "crc32": "ec6dae8a",
+      "sha1": "36ae5599b4d5ae3c7134cd2faafa2c0d4059304e",
+      "format": "JSON"
+    },
+    {
       "name": "elfinanciero_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "976c04beaf142fcc50864dff01d9d395636c4e6f",
-      "mtime": "1667173477",
-      "size": "202998",
-      "md5": "d336d9e0c0b7773d5ba82aa83e6195d9",
-      "crc32": "83bb9433",
-      "sha1": "fde77f28ac08ae3409a230503d568b02df172ffd",
+      "btih": "aebc3e68b0a15abf4808b72b71f68717f892fae1",
+      "mtime": "1667217373",
+      "size": "204096",
+      "md5": "363e5991ea4340b0f7cb9f91cef88951",
+      "crc32": "2a3af2e6",
+      "sha1": "fe9ec2c99d27a486abe30f0af9d010a070bf28d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elfinanciero_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01c41bc5aa79dd45d1790781a716d648",
+      "md5": "cc1fbb4d32a16a070116c01faa8f95d5",
       "summation": "md5"
     },
     {
       "name": "elfinanciero_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667173107",
-      "size": "1200128",
-      "md5": "1d2f94c9a61ed4e56882a8f0d44317e7",
-      "crc32": "406ff35c",
-      "sha1": "3d0c8989f08760e93b24b2b46d4745cbda3092f2",
+      "mtime": "1667217328",
+      "size": "1212416",
+      "md5": "4f0ca1da5e90f529192195ded169e48f",
+      "crc32": "a3f50fa8",
+      "sha1": "9d2cdd1fc4b3014b3c53e55a851bfbb7031a1af3",
       "format": "Metadata"
     },
     {
@@ -9615,9 +9665,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 930,
-  "item_last_updated": 1667173477,
-  "item_size": 68227979,
+  "files_count": 935,
+  "item_last_updated": 1667217373,
+  "item_size": 68701299,
   "metadata": {
     "identifier": "elfinanciero_mx-2022",
     "collection": [
@@ -9639,23 +9689,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457341793,
+      "task_id": 3457750707,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3457344375,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 1558085461,
+  "uniq": 195441758,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

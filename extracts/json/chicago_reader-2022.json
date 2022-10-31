@@ -1,6 +1,5 @@
 {
-  "conflict": 1667173261,
-  "created": 1667173261,
+  "created": 1667217154,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/chicago_reader-2022",
@@ -21789,34 +21788,90 @@
       "name": "chicago_reader-2022-10-30T18:35:47.756378-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "chicago_reader-2022-10-30T18:35:47.756378-05:00.jpg"
+      "original": "chicago_reader-2022-10-30T18:35:47.756378-05:00.jpg",
+      "mtime": "1667173253",
+      "size": "9723",
+      "md5": "aca8de9d532a86c815b9528c6bc6db48",
+      "crc32": "1b504f0c",
+      "sha1": "4262ea6acaac5b16b393a1587028378a90a22bea"
+    },
+    {
+      "name": "chicago_reader-2022-10-31T06:50:54.772121-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217065",
+      "size": "28834",
+      "md5": "d74246dddb33c1578ba9c48a30fcb594",
+      "crc32": "2ce6ef67",
+      "sha1": "c9fb6069eb77dcde1e59fb45bca5721bf9ec79c2",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-31T06:50:54.772121-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217067",
+      "size": "43306",
+      "md5": "8adb01ba34a5aa203ba8a3e7b86501ae",
+      "crc32": "b2ac345c",
+      "sha1": "feb5f18e141484e5ecff002951765cd90df9c041",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-31T06:50:54.772121-05:00.jpg",
+      "source": "original",
+      "mtime": "1667217062",
+      "size": "224297",
+      "md5": "30cd8a135cc2e499f7179186151e64e5",
+      "crc32": "a87e25ca",
+      "sha1": "5845243c497048fcd07016cf72f3a7f0e83bd5f6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chicago_reader-2022-10-31T06:50:54.772121-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217069",
+      "size": "1485",
+      "md5": "6cadeb68921293c0fdabe92cf73cea37",
+      "crc32": "dc3c6fa3",
+      "sha1": "952ee478333cb93c64a8c685f063cfe98f182668",
+      "format": "JSON"
+    },
+    {
+      "name": "chicago_reader-2022-10-31T06:50:54.772121-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217071",
+      "size": "29822",
+      "md5": "de0c0fe0f84ba99714abe96c70a1087f",
+      "crc32": "beaa3d04",
+      "sha1": "efa830f8cdc7e760a83b1c502b17c3075f1c3fcb",
+      "format": "JSON"
     },
     {
       "name": "chicago_reader-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af0e7fa9ef763a3b089583c9c00245bf904ecca6",
-      "mtime": "1667173045",
-      "size": "454761",
-      "md5": "0e1e398b22cf9768f0e8ebcc4b602963",
-      "crc32": "71b678ee",
-      "sha1": "f9f18442cd23e12a8af415e588d330f72a53a023",
+      "btih": "69aeab5be8461a63d675b03cc8dc8c28f232e4f7",
+      "mtime": "1667217147",
+      "size": "456064",
+      "md5": "edf277727d98dd15e685f2f2916ea7b7",
+      "crc32": "461e277e",
+      "sha1": "77bab8d1f0464ac2d81420e219adb42da36b5314",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chicago_reader-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86ff92c70680df7336fe3dc78a856a0d",
+      "md5": "4d38fc91554db63baaeb02190fbda0a0",
       "summation": "md5"
     },
     {
       "name": "chicago_reader-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667172978",
-      "size": "2641920",
-      "md5": "86c6721336653491ffaf35d422dc0c21",
-      "crc32": "b8d32af6",
-      "sha1": "9d188447b1331313a50509237c99906a457c5f99",
+      "mtime": "1667217077",
+      "size": "2654208",
+      "md5": "0c0a353c91fa603871799079feb2e3b4",
+      "crc32": "7e6878db",
+      "sha1": "4d789284e884c09ecdffee2b51dbf7f9e7c74707",
       "format": "Metadata"
     },
     {
@@ -21830,9 +21885,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2105,
-  "item_last_updated": 1667173045,
-  "item_size": 121990330,
+  "files_count": 2110,
+  "item_last_updated": 1667217147,
+  "item_size": 122341388,
   "metadata": {
     "identifier": "chicago_reader-2022",
     "collection": [
@@ -21854,7 +21909,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457340748,
+      "task_id": 3457748775,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -21862,7 +21917,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1229046616,
+  "uniq": 1010270511,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

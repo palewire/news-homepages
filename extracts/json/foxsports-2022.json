@@ -1,6 +1,5 @@
 {
-  "conflict": 1667173620,
-  "created": 1667173620,
+  "created": 1667217448,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/foxsports-2022",
@@ -13733,31 +13732,82 @@
       "sha1": "2604bc01cb4369b17c05c84416fa131e99d1ea00"
     },
     {
+      "name": "foxsports-2022-10-31T07:56:02.828881-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217374",
+      "size": "48636",
+      "md5": "8960f0c8675a4e936f340f5ea42ada89",
+      "crc32": "d89204be",
+      "sha1": "63350a57cd88ced4514bcbff689ccc7ebfcf559f",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-10-31T07:56:02.828881-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217376",
+      "size": "55282",
+      "md5": "dc044005c33dcda18c66dfcbecc2d33d",
+      "crc32": "16e6f7d5",
+      "sha1": "7576b41756793e707dadc668abb9adc862101ec8",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-10-31T07:56:02.828881-04:00.jpg",
+      "source": "original",
+      "mtime": "1667217372",
+      "size": "288749",
+      "md5": "da1f07980586a468f9204da9f02ea36e",
+      "crc32": "41569741",
+      "sha1": "abe434bf5fcd0faf550fba044b1f03b35a509ce1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxsports-2022-10-31T07:56:02.828881-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217377",
+      "size": "1486",
+      "md5": "c724ba6cbb08660a4331a0169eb05875",
+      "crc32": "68524513",
+      "sha1": "0999fae5121221466f92c0127c62f77bb341a99f",
+      "format": "JSON"
+    },
+    {
+      "name": "foxsports-2022-10-31T07:56:02.828881-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217379",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "foxsports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f15a16d3df8b6a8d8615ccb8a680114073e4de92",
-      "mtime": "1667173515",
-      "size": "281589",
-      "md5": "27adcc8945e319606b46bc63b46b178a",
-      "crc32": "1059bf98",
-      "sha1": "207de5801399934bdaacbce12cb2c3aa8b7c8174",
+      "btih": "f1dfb4b517e9588d1ce5efbe2c1dfef8ce5c52ea",
+      "mtime": "1667217440",
+      "size": "282655",
+      "md5": "ec0dee072c080210bc5c111d722128df",
+      "crc32": "d2b193b9",
+      "sha1": "7e0c738d07139075fd3a2a8975c9aeb1f5dbeaa5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxsports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cb25fc877727b7295acef415eb9cc61",
+      "md5": "096c7e7076028f8b68254459ba4386bf",
       "summation": "md5"
     },
     {
       "name": "foxsports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667173195",
-      "size": "1667072",
-      "md5": "f663714d33d5e529953452a5110f2223",
-      "crc32": "e3a06d47",
-      "sha1": "4a27c848cab182523c22b84a0ca873485725a95f",
+      "mtime": "1667217383",
+      "size": "1675264",
+      "md5": "2eff23acb467df0eb639ae4ffeb4f9eb",
+      "crc32": "a2aadf62",
+      "sha1": "63961e7ea859ad2318593f1255800f6e88a3d979",
       "format": "Metadata"
     },
     {
@@ -13771,9 +13821,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1329,
-  "item_last_updated": 1667173515,
-  "item_size": 92354921,
+  "files_count": 1334,
+  "item_last_updated": 1667217440,
+  "item_size": 92758534,
   "metadata": {
     "identifier": "foxsports-2022",
     "collection": [
@@ -13795,15 +13845,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457344692,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3457751326,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 745687350,
+  "uniq": 1810959599,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

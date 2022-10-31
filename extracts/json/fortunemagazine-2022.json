@@ -1,5 +1,5 @@
 {
-  "created": 1667173572,
+  "created": 1667217430,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/21/items/fortunemagazine-2022",
@@ -15892,31 +15892,82 @@
       "sha1": "6b97a146a6be500e1ef4a714114d0826c957a7a3"
     },
     {
+      "name": "fortunemagazine-2022-10-31T07:55:48.840016-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217361",
+      "size": "78722",
+      "md5": "a5d3304c2beb1427d6bc38b2e26e2ca6",
+      "crc32": "d4c1e0a2",
+      "sha1": "b55e749f18fbe989ad27f602228c066babce4910",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-31T07:55:48.840016-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217363",
+      "size": "57470",
+      "md5": "888f23d91e3a2a80347bcb33247d3a2f",
+      "crc32": "4b6e76ba",
+      "sha1": "65c317d7fbb9e9f0cbc71a6a456da2d8db575772",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-31T07:55:48.840016-04:00.jpg",
+      "source": "original",
+      "mtime": "1667217360",
+      "size": "299207",
+      "md5": "6ea4001f0a0b5f9aedfc20355d54f811",
+      "crc32": "ccc7551d",
+      "sha1": "b02b6ace817f702be30a948717582c07c5dafae8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortunemagazine-2022-10-31T07:55:48.840016-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217364",
+      "size": "1414",
+      "md5": "3ce9ad75286b30ba009ccb74a6e107ee",
+      "crc32": "d1708e5f",
+      "sha1": "69b1e345ecd769b2f1f8403538453d69dfbedd6d",
+      "format": "JSON"
+    },
+    {
+      "name": "fortunemagazine-2022-10-31T07:55:48.840016-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217366",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "fortunemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5fdd473e537dedb9071fba64bbad4ee68d1be183",
-      "mtime": "1667173495",
-      "size": "335003",
-      "md5": "dbf867dae4b4cae5b083847a600686fa",
-      "crc32": "3b0ce6ff",
-      "sha1": "5d504a92523fbdacc52bfc89b4104a23f4fceaf3",
+      "btih": "41b6c94449d3235f3962244e0088bae4bca9d90f",
+      "mtime": "1667217423",
+      "size": "336099",
+      "md5": "4b9cc927ddd4f1c87bda762af4a4628f",
+      "crc32": "caf537cb",
+      "sha1": "97476435bae2606e6f81fc4dad90c8d3498d1dc1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortunemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3f615723def9e2a19b7c9094ac33f329",
+      "md5": "46a28053535c328fc43129c3cc2f71fc",
       "summation": "md5"
     },
     {
       "name": "fortunemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667173173",
-      "size": "1921024",
-      "md5": "38cb2a4bd65db64ee6c19684d72bf415",
-      "crc32": "8d14a29e",
-      "sha1": "accd4fcb9c055b1171722a9b57f349b26860630b",
+      "mtime": "1667217370",
+      "size": "1929216",
+      "md5": "27fc415396b58eaeaed9448a16024f2b",
+      "crc32": "e514dece",
+      "sha1": "38776628f1272b182a0b034a8768c1d7c09e9e14",
       "format": "Metadata"
     },
     {
@@ -15930,9 +15981,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1535,
-  "item_last_updated": 1667173495,
-  "item_size": 129489148,
+  "files_count": 1540,
+  "item_last_updated": 1667217423,
+  "item_size": 129935451,
   "metadata": {
     "identifier": "fortunemagazine-2022",
     "collection": [
@@ -15949,10 +16000,21 @@
     "publicdate": "2022-06-19 23:24:03",
     "addeddate": "2022-06-19 23:24:03"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1122523654,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457751157,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 794276969,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }
