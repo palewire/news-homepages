@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666350671,
-=======
-  "created": 1666609523,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666695935,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/4/items/buzzfeednews-2022",
@@ -14982,16 +14978,6 @@
       "sha1": "4683aee85fd41d967b4ef7957b692608ba0eab9f"
     },
     {
-<<<<<<< HEAD
-      "name": "buzzfeednews-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "d96f709c088a2b6fa5ede8d41f3e903cd060cd58",
-      "mtime": "1666350646",
-      "size": "311433",
-      "md5": "2e3eefa7367184078b6c7134c83058a3",
-      "crc32": "434fe8be",
-      "sha1": "b3bf248d19b781c544df85841f119fec41851fa2",
-=======
       "name": "buzzfeednews-2022-10-21T18:49:01.774037-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666392552",
@@ -15364,44 +15350,144 @@
       "sha1": "9836936a7fb5476e5e108de49e6e2ed135d51388"
     },
     {
+      "name": "buzzfeednews-2022-10-24T19:04:11.537758-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666652655",
+      "size": "25438",
+      "md5": "7b5e827fe99863965fd293c5d6afe979",
+      "crc32": "eb232006",
+      "sha1": "e42c02e46a913a6bd1fa9169152553cb8277df9e",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-24T19:04:11.537758-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666652657",
+      "size": "37937",
+      "md5": "5a6e511d095dbb034202019f7425d6ec",
+      "crc32": "911dbe1e",
+      "sha1": "43b684c17149e5893a3f1e2de8a47869653d4533",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-24T19:04:11.537758-04:00.jpg",
+      "source": "original",
+      "mtime": "1666652653",
+      "size": "339002",
+      "md5": "4af919bc763a3a15d77bd888c5ed1c27",
+      "crc32": "b87c79cd",
+      "sha1": "7b1c89545f213ce6227cc6e458805df96e1c8a2c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buzzfeednews-2022-10-24T19:04:11.537758-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666652659",
+      "size": "1504",
+      "md5": "5d3c05efa6efa8691820111462e2b987",
+      "crc32": "1dc8f198",
+      "sha1": "397822c823b4af16272d2742a3bb823f6a814ab6",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-24T19:04:11.537758-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666652660",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-24T19:04:11.537758-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buzzfeednews-2022-10-24T19:04:11.537758-04:00.jpg",
+      "mtime": "1666652748",
+      "size": "9982",
+      "md5": "ada73ebf793bea7f720e3090b3f9b7d1",
+      "crc32": "779c8db1",
+      "sha1": "9fd1fc329fb33de4ed400368ee27021de9f22280"
+    },
+    {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695734",
+      "size": "25274",
+      "md5": "1de37881085f3a50510fd7ed75f91d65",
+      "crc32": "86b31710",
+      "sha1": "c2a310bcd5d09d6f4697511bb387e6479747bfc9",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695736",
+      "size": "36515",
+      "md5": "281065ca1fec6ec55e572e4461a00a47",
+      "crc32": "5236f1dd",
+      "sha1": "9217f6da2e4b66b259b6a6e1c638243c9746f0a4",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.jpg",
+      "source": "original",
+      "mtime": "1666695732",
+      "size": "324139",
+      "md5": "f155d7e5fbaadf87d974d5250dc93a00",
+      "crc32": "c7d7a2da",
+      "sha1": "6152e2bf2df7e77691e412be8e3c5fdea4b1a39d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695739",
+      "size": "1504",
+      "md5": "f0ebf5544a0c2ebded7080d906db6015",
+      "crc32": "7a1fd264",
+      "sha1": "a33dc16ab5fd89562f12f302fc9902b7e41ef49f",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-10-25T07:01:43.586246-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666695741",
+      "size": "108368",
+      "md5": "3bafe05ae7d24e8bd405e9cce28761ba",
+      "crc32": "9ce32413",
+      "sha1": "970e9a298ea4af334a678937503e73544cf141e5",
+      "format": "JSON"
+    },
+    {
       "name": "buzzfeednews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5df650b37e36e8894e260cbc9a7af149087e5198",
-      "mtime": "1666609496",
-      "size": "319154",
-      "md5": "f3ff027e17eb9df4ed3d8db8a506e9d2",
-      "crc32": "1069f149",
-      "sha1": "e7cdcf36814b55fd61d248de6882d6b1852a072a",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "f57572a29df714c7472e84085918d38a6f91ba2f",
+      "mtime": "1666695923",
+      "size": "321527",
+      "md5": "bf1614ae2cf9622752b59313a3df5f32",
+      "crc32": "4119159d",
+      "sha1": "52c1b2090a48fff290ac295d384679452332fedb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buzzfeednews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "a450b2cc79d3b738a241c4c42d78fee2",
-=======
-      "md5": "3b8c5c358d468d2f5d3078c2c5f4b7e1",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "c62747e192e82f08a9335f098677289a",
       "summation": "md5"
     },
     {
       "name": "buzzfeednews-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666350542",
-      "size": "1802240",
-      "md5": "ddcbbccec255b7537fda247105ef7a11",
-      "crc32": "5b0c8daf",
-      "sha1": "1f8c4268105712dc2ae58505668b92536458c1ff",
-=======
-      "mtime": "1666609386",
-      "size": "1843200",
-      "md5": "8f3b9bce8ccc904d13c67e6c9fd7fa4e",
-      "crc32": "203bd203",
-      "sha1": "4303cfd9384a97af493a7d4471435fc1607d3d78",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666695855",
+      "size": "1859584",
+      "md5": "2d94b3ca449033430ea2f87e47263237",
+      "crc32": "2600bd18",
+      "sha1": "510725b950df793c234450aa3a0c623669db2e53",
       "format": "Metadata"
     },
     {
@@ -15415,15 +15501,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1446,
-  "item_last_updated": 1666350646,
-  "item_size": 120689356,
-=======
-  "files_count": 1482,
-  "item_last_updated": 1666609496,
-  "item_size": 123248744,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1493,
+  "item_last_updated": 1666695923,
+  "item_size": 124177366,
   "metadata": {
     "identifier": "buzzfeednews-2022",
     "collection": [
@@ -15440,14 +15520,21 @@
     "publicdate": "2022-06-19 23:23:22",
     "addeddate": "2022-06-19 23:23:22"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 76081243,
-=======
-  "uniq": 2038632773,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451520958,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 972100629,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

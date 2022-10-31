@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666358669,
-=======
-  "created": 1666616261,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666703038,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/14/items/kcdefender-2022",
@@ -12274,16 +12270,6 @@
       "sha1": "33994cefc5681d259e16396b34bfc0fd0a959e43"
     },
     {
-<<<<<<< HEAD
-      "name": "kcdefender-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "9f8e07bd70ee4d6dfd790ca58f3dcdd598a7f08c",
-      "mtime": "1666358660",
-      "size": "252476",
-      "md5": "c7466e66c8aaa1109fb5e050eea0407c",
-      "crc32": "a75e5761",
-      "sha1": "38f24bc4e713c70ade11ba8ea4253fe614a011db",
-=======
       "name": "kcdefender-2022-10-21T20:09:43.270706-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666400990",
@@ -12656,44 +12642,144 @@
       "sha1": "36e8e12d7dd0f87e3553900ab3f392bcf08eb0ed"
     },
     {
+      "name": "kcdefender-2022-10-24T20:33:37.884183-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666661626",
+      "size": "17237",
+      "md5": "f61d0de9d94c45f2cf0a4aad5f38e00e",
+      "crc32": "11214449",
+      "sha1": "b5cb16cc79f7a4e812f45134a5fdac8dacd9fa0e",
+      "format": "JSON"
+    },
+    {
+      "name": "kcdefender-2022-10-24T20:33:37.884183-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666661628",
+      "size": "12053",
+      "md5": "3115a8b981960061f174ca224e819515",
+      "crc32": "7d257aff",
+      "sha1": "a92cb4d5a16602e021ba46d3313f44cd2c49faa3",
+      "format": "JSON"
+    },
+    {
+      "name": "kcdefender-2022-10-24T20:33:37.884183-05:00.jpg",
+      "source": "original",
+      "mtime": "1666661624",
+      "size": "259411",
+      "md5": "f939ce60720f7bdc3f36bceda26b27f0",
+      "crc32": "5af82160",
+      "sha1": "f8607817b506ce6af129a7d4adf7cb9d692cc0fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcdefender-2022-10-24T20:33:37.884183-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666661630",
+      "size": "1521",
+      "md5": "232dac87aa0b9b511f8159d47556e7ff",
+      "crc32": "3b91738d",
+      "sha1": "5ca288a75b60265bd1e8edb3b84ae06fd7954374",
+      "format": "JSON"
+    },
+    {
+      "name": "kcdefender-2022-10-24T20:33:37.884183-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666661633",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcdefender-2022-10-24T20:33:37.884183-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcdefender-2022-10-24T20:33:37.884183-05:00.jpg",
+      "mtime": "1666670039",
+      "size": "10132",
+      "md5": "b7a9c65b4e184146cd691707171e13aa",
+      "crc32": "98c2e517",
+      "sha1": "04704043fbe19b5da571e3ce4e7c13c9415fa7c7"
+    },
+    {
+      "name": "kcdefender-2022-10-25T08:02:33.801821-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666702962",
+      "size": "17237",
+      "md5": "f61d0de9d94c45f2cf0a4aad5f38e00e",
+      "crc32": "11214449",
+      "sha1": "b5cb16cc79f7a4e812f45134a5fdac8dacd9fa0e",
+      "format": "JSON"
+    },
+    {
+      "name": "kcdefender-2022-10-25T08:02:33.801821-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666702964",
+      "size": "12053",
+      "md5": "3115a8b981960061f174ca224e819515",
+      "crc32": "7d257aff",
+      "sha1": "a92cb4d5a16602e021ba46d3313f44cd2c49faa3",
+      "format": "JSON"
+    },
+    {
+      "name": "kcdefender-2022-10-25T08:02:33.801821-05:00.jpg",
+      "source": "original",
+      "mtime": "1666702960",
+      "size": "259395",
+      "md5": "7c6dea4c66f16b178f74e516365d25c3",
+      "crc32": "f3445c45",
+      "sha1": "b253bb31d240cf6d449ede5c2b038b065daf2ee5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcdefender-2022-10-25T08:02:33.801821-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666702966",
+      "size": "1522",
+      "md5": "0125f8ee3be0c8fbce35b111be67d448",
+      "crc32": "fc4bb95a",
+      "sha1": "c481e432135a68c07a446e2133056b1136fd50e8",
+      "format": "JSON"
+    },
+    {
+      "name": "kcdefender-2022-10-25T08:02:33.801821-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666702968",
+      "size": "10358",
+      "md5": "4167f419bd8975ee84512b39a1d75668",
+      "crc32": "533f8be5",
+      "sha1": "4aaa0f38cf2aab5b4f8526e63d73fc04fa009443",
+      "format": "JSON"
+    },
+    {
       "name": "kcdefender-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73a493174d6a18fe5d63e66a7e105f9492e0ba62",
-      "mtime": "1666616254",
-      "size": "260110",
-      "md5": "bc4a05d90135a57b7b07a019b9012d4f",
-      "crc32": "210da790",
-      "sha1": "88342c6915ea84c8ea88c0bb7fc375233295ce35",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "09429ff5758cbd513eaf9e76589e7cb016e806e4",
+      "mtime": "1666703027",
+      "size": "262441",
+      "md5": "a34907de6b1f61c29a60ed884c3a6cd9",
+      "crc32": "45462489",
+      "sha1": "e2209c2eb6e19c68c4bb89642fdcf20d2898097c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcdefender-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "40aa70451cd8d1c7ecfa9891f5f9d349",
-=======
-      "md5": "1738c0f40680804b5b4bac2597511a22",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "dbb637ae1c22efaa1013e39573d04c40",
       "summation": "md5"
     },
     {
       "name": "kcdefender-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666358589",
-      "size": "1495040",
-      "md5": "026de8d58f863ab1c4eec668dbd7e441",
-      "crc32": "81976eed",
-      "sha1": "e3b290e0a58385e19e8777afc96d8c701d881157",
-=======
-      "mtime": "1666616165",
-      "size": "1544192",
-      "md5": "149e2b6fd7ed3131589431fcb7da9d13",
-      "crc32": "5fd9cee1",
-      "sha1": "9e911f2559ce2a6b4fc44c628461f506f0ed6a4a",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666702974",
+      "size": "1556480",
+      "md5": "8e9c74249f1aeed4113dfcd261435a7e",
+      "crc32": "eedfab3a",
+      "sha1": "ed3eefd0645ab64cfc83dc45239e7b5fbfaed8e4",
       "format": "Metadata"
     },
     {
@@ -12707,15 +12793,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1188,
-  "item_last_updated": 1666358660,
-  "item_size": 70463108,
-=======
-  "files_count": 1224,
-  "item_last_updated": 1666616254,
-  "item_size": 72353378,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1235,
+  "item_last_updated": 1666703027,
+  "item_size": 72969118,
   "metadata": {
     "identifier": "kcdefender-2022",
     "collection": [
@@ -12732,18 +12812,21 @@
     "publicdate": "2022-07-09 03:59:20",
     "addeddate": "2022-07-09 03:59:20"
   },
-<<<<<<< HEAD
-  "server": "ia802507.us.archive.org",
-  "uniq": 434477519,
-  "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
-=======
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 1657814004,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451670118,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 525424691,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+    "ia902507.us.archive.org"
   ]
 }

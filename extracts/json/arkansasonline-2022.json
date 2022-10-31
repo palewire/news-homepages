@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666350491,
-=======
-  "created": 1666609138,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666695497,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/arkansasonline-2022",
@@ -4896,16 +4892,6 @@
       "sha1": "b0ddd5413e4d4c2e443ddad1c6dc780afc2a57cd"
     },
     {
-<<<<<<< HEAD
-      "name": "arkansasonline-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "8e5c2474bbefe2eab095e4ddb9e57b4b10dad576",
-      "mtime": "1666350473",
-      "size": "103871",
-      "md5": "c24465864757f0b2cb05b6eac088f0ed",
-      "crc32": "b71ce461",
-      "sha1": "3d2850e7bdaabed6bf3a8cf55994bbde7c640fd5",
-=======
       "name": "arkansasonline-2022-10-21T17:44:13.661792-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666392258",
@@ -5278,44 +5264,134 @@
       "sha1": "023cbb215b4c8d763f2dbf3760e9227405f330f2"
     },
     {
+      "name": "arkansasonline-2022-10-24T18:01:04.058550-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666652467",
+      "size": "48425",
+      "md5": "2afece563138baf5a275da635bff4c8c",
+      "crc32": "0bdd153b",
+      "sha1": "ce32a2ade701415dfb515c3ec5fe77faf02a3ca8",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-24T18:01:04.058550-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666652469",
+      "size": "33530",
+      "md5": "1f4c109f4ba49510de2b026b649089e6",
+      "crc32": "f5ae7866",
+      "sha1": "fad5427737a3e9d5c7a86a1bc795adb9b8b42474",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-24T18:01:04.058550-05:00.jpg",
+      "source": "original",
+      "mtime": "1666652465",
+      "size": "318634",
+      "md5": "e2a50139898ce0317a579707ed365e09",
+      "crc32": "9dfb33e5",
+      "sha1": "994591a23e49c07d6b3f255df3aa3205701370df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkansasonline-2022-10-24T18:01:04.058550-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666652471",
+      "size": "1522",
+      "md5": "cc53d8631ba8acff44ac3efa0392d6e8",
+      "crc32": "27c996c5",
+      "sha1": "2ece87e2d3f9e3fe6b5691feb71609c816e310b0",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-24T18:01:04.058550-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666652473",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-24T18:01:04.058550-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkansasonline-2022-10-24T18:01:04.058550-05:00.jpg",
+      "mtime": "1666652537",
+      "size": "9762",
+      "md5": "40e91c3f614441ca71efee140fece1e4",
+      "crc32": "8e004061",
+      "sha1": "9d80f9ba36e1034cc8bebdccc24e2790512632ff"
+    },
+    {
+      "name": "arkansasonline-2022-10-25T05:55:49.583159-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695356",
+      "size": "48729",
+      "md5": "fc2d22373972a514ca8d40f3462e5f3e",
+      "crc32": "29047cfe",
+      "sha1": "92f2a69f0a874ea34578bc10e026946b7dd3c1d3",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-25T05:55:49.583159-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695358",
+      "size": "33924",
+      "md5": "32441edf8fb6402aa8d20f56f1ab54ee",
+      "crc32": "8bb5232b",
+      "sha1": "74427e5130fd6860b452b8b7e1556dc1f479b4e8",
+      "format": "JSON"
+    },
+    {
+      "name": "arkansasonline-2022-10-25T05:55:49.583159-05:00.jpg",
+      "source": "original",
+      "mtime": "1666695355",
+      "size": "314574",
+      "md5": "6a3ceb7b302f05b6a16cad953e01007a",
+      "crc32": "d75595e8",
+      "sha1": "a3877d2c05466c7ee25b19f27d19453e759c3eac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkansasonline-2022-10-25T05:55:49.583159-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695360",
+      "size": "1522",
+      "md5": "2d40b6860713b81c4c994513a5b75f64",
+      "crc32": "9d1b7751",
+      "sha1": "d42a275efe721768d0220c38a10472fa6378cbfb",
+      "format": "JSON"
+    },
+    {
       "name": "arkansasonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7097a753147248db181f28baf1acddb367a9fb4",
-      "mtime": "1666609128",
-      "size": "111661",
-      "md5": "e542681fc1af7ecbbda7c0e98959832e",
-      "crc32": "05bdae34",
-      "sha1": "40c071b601d9989b30d38bba35556898bca5c9b0",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "2a1f14e4d1f515a87cb1236fa65cb875876887f7",
+      "mtime": "1666695494",
+      "size": "113841",
+      "md5": "cc8c28aba54813997bd1d136679f1653",
+      "crc32": "b8bc122d",
+      "sha1": "ec887f929fb3d68047db77bf479c37979f0e6168",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkansasonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "a34a6005e2164fecb23561685f9d762b",
-=======
-      "md5": "eed6cb7afe43153d7680bad087b88233",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "a545b9325e09f895a1099c5acdea9111",
       "summation": "md5"
     },
     {
       "name": "arkansasonline-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666350363",
-      "size": "630784",
-      "md5": "83200e9cdcd199cdd12686de160864b1",
-      "crc32": "23e03103",
-      "sha1": "690b25251d6192ae2cd52c1d00872cd3b5789715",
-=======
-      "mtime": "1666609075",
-      "size": "671744",
-      "md5": "75fb38a05c190f5136321676e8a45b42",
-      "crc32": "677220c6",
-      "sha1": "aa8661b2e893bf37fda231a6bd2ac5a9d461751e",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666695455",
+      "size": "684032",
+      "md5": "2d5d7eb7225aa82f87c4969902fcac5b",
+      "crc32": "899f6696",
+      "sha1": "b73abe33941f172fb9b1ee5a3cc3542cbb6425da",
       "format": "Metadata"
     },
     {
@@ -5329,15 +5405,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 477,
-  "item_last_updated": 1666350473,
-  "item_size": 34551688,
-=======
-  "files_count": 513,
-  "item_last_updated": 1666609128,
-  "item_size": 37178453,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 523,
+  "item_last_updated": 1666695494,
+  "item_size": 38003745,
   "metadata": {
     "identifier": "arkansasonline-2022",
     "collection": [
@@ -5354,14 +5424,21 @@
     "publicdate": "2022-09-12 11:03:11",
     "addeddate": "2022-09-12 11:03:11"
   },
-  "server": "ia801500.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 1558271767,
-=======
-  "uniq": 42507846,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451502591,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 832632969,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

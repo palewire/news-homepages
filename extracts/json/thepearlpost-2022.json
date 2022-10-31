@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666366141,
-=======
-  "created": 1666624289,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666709616,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/thepearlpost-2022",
@@ -5880,16 +5876,6 @@
       "sha1": "23c09a043c1813e9521a5a59c723907fc04cb0e5"
     },
     {
-<<<<<<< HEAD
-      "name": "thepearlpost-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "99379fb79b05228cff93e8249b0e1aabae9fef3c",
-      "mtime": "1666366134",
-      "size": "122909",
-      "md5": "4f83fd32af835ddadcb58a9e41eba2ce",
-      "crc32": "3d847fef",
-      "sha1": "720519144f83deded505ebb87ee36670318bcd23",
-=======
       "name": "thepearlpost-2022-10-21T20:28:58.873229-07:00.accessibility.json",
       "source": "original",
       "mtime": "1666409343",
@@ -6262,44 +6248,144 @@
       "sha1": "8a22f1ed0d582054277ef4d0de18535ca76f93f3"
     },
     {
+      "name": "thepearlpost-2022-10-24T20:56:36.613600-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666670200",
+      "size": "11255",
+      "md5": "f6bfca9ea185dc1f7a4bc72d361b84b5",
+      "crc32": "32e91112",
+      "sha1": "77755b4d21bf7def55e9b97e7681e7fe6ae3e7f7",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-24T20:56:36.613600-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666670201",
+      "size": "31678",
+      "md5": "f0fd03967d36bbad4e00dca23f7e8d79",
+      "crc32": "d5053159",
+      "sha1": "c28393bf30c3baa3eb9da4ee9d9bd5d614e084c1",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-24T20:56:36.613600-07:00.jpg",
+      "source": "original",
+      "mtime": "1666670198",
+      "size": "300578",
+      "md5": "dae35d173138cca85a4e4590dd65ea19",
+      "crc32": "fa13c928",
+      "sha1": "a820302f70eb6bcae05f62291818ef2fa9a7ea78",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thepearlpost-2022-10-24T20:56:36.613600-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666670203",
+      "size": "1513",
+      "md5": "4ca45674e1d5e586994a3998908fef99",
+      "crc32": "09c9610a",
+      "sha1": "25ab11c1eccb23ca031db54fc05b4ef689c45ba2",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-24T20:56:36.613600-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666670204",
+      "size": "209",
+      "md5": "eb744432b5db3b8423f0090da3f0d3f0",
+      "crc32": "3d535051",
+      "sha1": "17624ccf725e4d38e17baf46f4f42f0c83966907",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-24T20:56:36.613600-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thepearlpost-2022-10-24T20:56:36.613600-07:00.jpg",
+      "mtime": "1666676301",
+      "size": "10068",
+      "md5": "8fa7ac3a6ab26d1fc4c38218d5ecaed9",
+      "crc32": "1d627295",
+      "sha1": "3becf22c959144422648141d0f23e767a3d9f8f4"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666709565",
+      "size": "7320",
+      "md5": "0aa1304d6db910dfd7f5e5962f4ed423",
+      "crc32": "2faf34d9",
+      "sha1": "9f620c5945266e90ec85c162b3cce99a54ffbff8",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666709567",
+      "size": "31678",
+      "md5": "c2e3519d48a08299fa7187a337a25acd",
+      "crc32": "ea79b625",
+      "sha1": "d6fe9a8be5c9efd30a7b6402995aa53d5f46fdbf",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.jpg",
+      "source": "original",
+      "mtime": "1666709564",
+      "size": "301024",
+      "md5": "87a2b81263d04ad8658791538875ca10",
+      "crc32": "0d9a4689",
+      "sha1": "7ac87808a8b6ea006ca9b2f00382754f864e4308",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666709569",
+      "size": "1513",
+      "md5": "be5448fc42098e2dc47f3cd6dc806baa",
+      "crc32": "db0e588c",
+      "sha1": "f0227bb54f71ca9dbc4632c9398c43458315303b",
+      "format": "JSON"
+    },
+    {
+      "name": "thepearlpost-2022-10-25T07:52:39.630516-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709571",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thepearlpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec2bffd1820e36e7ab89b7781bb180520b74d908",
-      "mtime": "1666624276",
-      "size": "130625",
-      "md5": "1e6a877ca304a3c67fc474a5a133d673",
-      "crc32": "5c4b3161",
-      "sha1": "00208a427d036f32752adf7ec87a14bd3301f249",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "bd4a2b4f8d024e00f921a1f717584e9c033b4ee4",
+      "mtime": "1666709611",
+      "size": "132975",
+      "md5": "2918e416d90373babef35d3655501c61",
+      "crc32": "708ad413",
+      "sha1": "f2d8e6c81651fe6b8deee298999f9ec54cc61e8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thepearlpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "3189a894f5a5dfba3534d021837769b5",
-=======
-      "md5": "c32585e7c56ef7de42ac0d10ffbb4b04",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "94fa059c6da369e16d7857bab8b0ba43",
       "summation": "md5"
     },
     {
       "name": "thepearlpost-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666366077",
-      "size": "745472",
-      "md5": "85a11624276fc4e429a6e8b7a85333be",
-      "crc32": "d9011968",
-      "sha1": "66620525fb8db348cb81e61d11421b197a2c623f",
-=======
-      "mtime": "1666624125",
-      "size": "790528",
-      "md5": "752c97961dcd7a6479a770619f4a3466",
-      "crc32": "bebd01ca",
-      "sha1": "d8ae31368bd7e2b281439828a2d41bca3b71c3fc",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666709574",
+      "size": "806912",
+      "md5": "0b6568f1caa6cb4c3e2ba2c33a60676f",
+      "crc32": "68d4a370",
+      "sha1": "4fdb7b09e83868ee8d86a72078a258379be53d81",
       "format": "Metadata"
     },
     {
@@ -6313,15 +6399,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 572,
-  "item_last_updated": 1666366134,
-  "item_size": 33651362,
-=======
-  "files_count": 608,
-  "item_last_updated": 1666624276,
-  "item_size": 35824624,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 619,
+  "item_last_updated": 1666709611,
+  "item_size": 36540396,
   "metadata": {
     "identifier": "thepearlpost-2022",
     "collection": [
@@ -6338,14 +6418,21 @@
     "publicdate": "2022-09-04 03:47:40",
     "addeddate": "2022-09-04 03:47:40"
   },
+  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 1115958867,
-=======
-  "uniq": 1580379173,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451739462,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1616811199,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia601400.us.archive.org"
   ]
 }

@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666350557,
-=======
-  "created": 1666609298,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666695693,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/11/items/bartlesvilleee-2022",
@@ -3800,16 +3796,6 @@
       "sha1": "307a8a1970a92761f8e4d437064e360e5adee989"
     },
     {
-<<<<<<< HEAD
-      "name": "bartlesvilleee-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "f6dde91d80bfe833cd9ba8761b17ac8a9c8b2b6d",
-      "mtime": "1666350542",
-      "size": "80847",
-      "md5": "0750825d5af186ec6fb48cd95acf91b0",
-      "crc32": "e4c0205e",
-      "sha1": "d135d215a7899ead79aac75a4e3eafeb82cfc548",
-=======
       "name": "bartlesvilleee-2022-10-21T17:46:00.495435-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666392368",
@@ -4182,44 +4168,144 @@
       "sha1": "de61725b3eb6d3953a2bbb3e7550f09cd88bf00c"
     },
     {
+      "name": "bartlesvilleee-2022-10-24T18:01:02.334614-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666652466",
+      "size": "21616",
+      "md5": "110177544c64aa86f8b923d58829dace",
+      "crc32": "170b5c0b",
+      "sha1": "e07f8acec9daff2361201b74b07498689f4050f8",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-24T18:01:02.334614-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666652468",
+      "size": "32683",
+      "md5": "233179e80459dc9444aec88a91d3856f",
+      "crc32": "4cdd3597",
+      "sha1": "b0fde03dd93c14e89c425ebd38eaf939464768b2",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-24T18:01:02.334614-05:00.jpg",
+      "source": "original",
+      "mtime": "1666652464",
+      "size": "241352",
+      "md5": "c6d081e76c44b51127cddb2bb2ae4759",
+      "crc32": "c2a0affb",
+      "sha1": "876765235c357144cbdfc769b1c4caadaaad8692",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-24T18:01:02.334614-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666652470",
+      "size": "1575",
+      "md5": "dd0deabda9cd5b30064050ead657fe6b",
+      "crc32": "17d94f89",
+      "sha1": "308e411ba3ad3f9c8ba154f0c8fff2d6342d4a18",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-24T18:01:02.334614-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666652472",
+      "size": "102637",
+      "md5": "d5e53ba762c883959febb8dce89fa5d2",
+      "crc32": "0660586a",
+      "sha1": "9a8a268bcb59a975bbcd81f9f9cb2b14d901241b",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-24T18:01:02.334614-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bartlesvilleee-2022-10-24T18:01:02.334614-05:00.jpg",
+      "mtime": "1666652532",
+      "size": "9313",
+      "md5": "105782777172eb4a0e90bc01d937f54d",
+      "crc32": "41f5cc08",
+      "sha1": "4ab419d5912a6ab22a19262924d1b2aef908d8ab"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-25T05:58:49.685080-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695536",
+      "size": "21744",
+      "md5": "213c50c0af60852f6a04778a31ff2048",
+      "crc32": "5b451357",
+      "sha1": "75d5ed9caeb21b47811182e1380f527436031be4",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-25T05:58:49.685080-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695538",
+      "size": "31809",
+      "md5": "e0e2e44f05c3846383fa4e859583e71b",
+      "crc32": "879468b8",
+      "sha1": "d9972a2488fd4c78090772bcc6f80939353079a6",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-25T05:58:49.685080-05:00.jpg",
+      "source": "original",
+      "mtime": "1666695534",
+      "size": "223290",
+      "md5": "cac6362205056f75062a1bb8c84527b4",
+      "crc32": "3756a371",
+      "sha1": "896801374c29b6f548c0938118a883cd273da45d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-25T05:58:49.685080-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695543",
+      "size": "1576",
+      "md5": "e6a5b6afc481620d06ec3e87f652aa60",
+      "crc32": "378c7c4c",
+      "sha1": "c98a9976cdd38cd8098b7a5db3b73136d6ec02ff",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-10-25T05:58:49.685080-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666695545",
+      "size": "77513",
+      "md5": "7664aebb60122f8f9e3a46f4758c6580",
+      "crc32": "a4c943b7",
+      "sha1": "5bf4078782c5e293e9f28df366335426fa89fdd0",
+      "format": "JSON"
+    },
+    {
       "name": "bartlesvilleee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd0320e684042fb653867be4b5a2436320ed969f",
-      "mtime": "1666609289",
-      "size": "88645",
-      "md5": "8e014282164a6eb3e48ae2c6975c6a2c",
-      "crc32": "4ec9cf12",
-      "sha1": "424e50f2ac3d25e39184dbe95e3163981e13c994",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "52d2dd2ad805b14ceab47455e87d292ff6e7ef28",
+      "mtime": "1666695688",
+      "size": "91022",
+      "md5": "09a9a94dbd94111ce593a1e153c9f250",
+      "crc32": "d3d0a5bf",
+      "sha1": "1b453c5fd1c9f23f8d52e35ab2f3ed3e22e45adb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bartlesvilleee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "03f6971fd420a23694f36b1619b3e41f",
-=======
-      "md5": "0818897dc744e9889ba659682dd62be5",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "c5e9dcf756dc08bb02af70ffd749346d",
       "summation": "md5"
     },
     {
       "name": "bartlesvilleee-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666350472",
-      "size": "491520",
-      "md5": "1332d6233123328037a47f038ca7434a",
-      "crc32": "b9e7a706",
-      "sha1": "5cd877d0a7186568d95fd6175d0e8d1f5cd1a5ee",
-=======
-      "mtime": "1666609233",
-      "size": "532480",
-      "md5": "89a66023b46e18e3d9f51c73b0c30886",
-      "crc32": "40f4b9f8",
-      "sha1": "aef292d1c3b36734dd7c2f57805e7e48b1c18a4c",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666695650",
+      "size": "557056",
+      "md5": "ddc5b5f5c9398f96cb8199581b0c9def",
+      "crc32": "2eabb50d",
+      "sha1": "678cde5db1d0b3e872518b002e0181f8bf9be56d",
       "format": "Metadata"
     },
     {
@@ -4233,15 +4319,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 371,
-  "item_last_updated": 1666350542,
-  "item_size": 23884656,
-=======
-  "files_count": 407,
-  "item_last_updated": 1666609289,
-  "item_size": 26317243,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 418,
+  "item_last_updated": 1666695688,
+  "item_size": 27109304,
   "metadata": {
     "identifier": "bartlesvilleee-2022",
     "collection": [
@@ -4258,14 +4338,21 @@
     "publicdate": "2022-09-20 22:10:16",
     "addeddate": "2022-09-20 22:10:16"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 397419726,
-=======
-  "uniq": 1107199055,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451509951,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1377530167,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

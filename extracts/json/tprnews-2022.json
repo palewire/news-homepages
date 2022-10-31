@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666370308,
-=======
-  "created": 1666624381,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666709743,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/16/items/tprnews-2022",
@@ -12620,16 +12616,6 @@
       "sha1": "d5f7920a4d4a1519dd251cdd5bdaaf18f6f7fd48"
     },
     {
-<<<<<<< HEAD
-      "name": "tprnews-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "d3c089212f430d35a45ac4143049218a43c2cc25",
-      "mtime": "1666366386",
-      "size": "256101",
-      "md5": "92928220ff1832aebfe79c6fce7a8c29",
-      "crc32": "7dafd878",
-      "sha1": "8d7b87236c4ab71c3ae3cd42adeaad0c21ec2399",
-=======
       "name": "tprnews-2022-10-21T22:30:56.633516-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666409470",
@@ -13002,44 +12988,144 @@
       "sha1": "705b5632e00f2f26c9451df494cb39d6a3393b8b"
     },
     {
+      "name": "tprnews-2022-10-24T22:59:48.686088-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666670398",
+      "size": "21920",
+      "md5": "38c2b1f5356f4b88d36e55144142e593",
+      "crc32": "0aa10b52",
+      "sha1": "6795255ccec148ee2e1759c451483b1ca3f1f004",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-10-24T22:59:48.686088-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666670399",
+      "size": "57884",
+      "md5": "4f42812821176f30c4a6c99203e586a6",
+      "crc32": "2006cca4",
+      "sha1": "b0e7a7a4961feeb4655cc4a3736889923f4218ef",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-10-24T22:59:48.686088-05:00.jpg",
+      "source": "original",
+      "mtime": "1666670396",
+      "size": "234722",
+      "md5": "2bfc946e7d5064ba5ac7a237081e93c0",
+      "crc32": "7740e303",
+      "sha1": "2e9a93b4794d5fd8d60f0a82890596fcd4e0c8e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tprnews-2022-10-24T22:59:48.686088-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666670402",
+      "size": "1423",
+      "md5": "6be6fbda71610071c9e525fd1b4df417",
+      "crc32": "c3c72b8f",
+      "sha1": "3e34d7e67ad4198c9520e6a620b59d1f8fce518c",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-10-24T22:59:48.686088-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666670406",
+      "size": "22761",
+      "md5": "814777ddae3e2345619a93a2dde48164",
+      "crc32": "e013e38d",
+      "sha1": "cffbd256849289a4b2ebd325eb23239a4607c8e3",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-10-24T22:59:48.686088-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tprnews-2022-10-24T22:59:48.686088-05:00.jpg",
+      "mtime": "1666676461",
+      "size": "10803",
+      "md5": "feffc42e732ceda4ec5893061ee9b4d3",
+      "crc32": "ac1b71ca",
+      "sha1": "2c3bd196d89b1af36969b594b106a1104ca479a3"
+    },
+    {
+      "name": "tprnews-2022-10-25T09:54:10.651149-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666709660",
+      "size": "21756",
+      "md5": "3479a7a42d7ec74fd9a6eff69de26671",
+      "crc32": "f693038a",
+      "sha1": "8aca64bd3234d6139675160f43b7c9449f9f791f",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-10-25T09:54:10.651149-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666709664",
+      "size": "57350",
+      "md5": "4d43e0e2fb6b40891528fd35e40eefe0",
+      "crc32": "4f64062b",
+      "sha1": "11847135feba7d8bc8627196675b42cc194f1b05",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-10-25T09:54:10.651149-05:00.jpg",
+      "source": "original",
+      "mtime": "1666709659",
+      "size": "239756",
+      "md5": "41cda812ddaafed574a192924738db3f",
+      "crc32": "e88b1f23",
+      "sha1": "f6e03984ec6b534aba252d5b1cc0db6a55472672",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tprnews-2022-10-25T09:54:10.651149-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666709667",
+      "size": "1423",
+      "md5": "f22654d8541cf1a6bf2f244c3e601a8b",
+      "crc32": "9f4e9f9f",
+      "sha1": "822889c970b3d9b6940852acd3a1d1064343915b",
+      "format": "JSON"
+    },
+    {
+      "name": "tprnews-2022-10-25T09:54:10.651149-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709669",
+      "size": "20745",
+      "md5": "a8f621697660737b5dadea32c9becf17",
+      "crc32": "1eb10cc6",
+      "sha1": "cdd516474c6b25658a9a7f4352bf78281b2eb5e3",
+      "format": "JSON"
+    },
+    {
       "name": "tprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b725dbf894d35c5a54c50667d66fa7bde3b18c0b",
-      "mtime": "1666624355",
-      "size": "263627",
-      "md5": "753a9d3b7c92ca740f5bb3e3cc80f502",
-      "crc32": "500edb6e",
-      "sha1": "4e9442ef9484327be31dac87fedae49dfde2df81",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "b8e73942b719cc455711964b6f87a0871665e144",
+      "mtime": "1666709728",
+      "size": "265927",
+      "md5": "f806dbe86fa6b339b800df6f4c4718b9",
+      "crc32": "030cf4fe",
+      "sha1": "67b8089cfbe5df967e456b6cc023d5ca483f3237",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "d7aa3cbf53ba522e5ab680b95a820662",
-=======
-      "md5": "e7b51bc3a8d1902db3861ea07e513e30",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "34f34cf7a1e7d11ea88b0278b7a0001e",
       "summation": "md5"
     },
     {
       "name": "tprnews-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666366270",
-      "size": "1527808",
-      "md5": "2be0daa4a148152497c04912315e96a4",
-      "crc32": "2846a2ec",
-      "sha1": "089764318a6f7dcab08de0f242c1e517ad16ede1",
-=======
-      "mtime": "1666624246",
-      "size": "1572864",
-      "md5": "9bc26c08b75917890d3165414d39bd10",
-      "crc32": "7e109dcb",
-      "sha1": "09e6a3275da2272d3fe4b6668ba9e6dc742ea3e2",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666709671",
+      "size": "1589248",
+      "md5": "ba50b80d2e5bdeff5cecc5bef2ec2496",
+      "crc32": "cadcfbe7",
+      "sha1": "b5fc4761992493f8f16b4095f906d3223b14e8d4",
       "format": "Metadata"
     },
     {
@@ -13053,15 +13139,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1221,
-  "item_last_updated": 1666366386,
-  "item_size": 81127142,
-=======
-  "files_count": 1257,
-  "item_last_updated": 1666624355,
-  "item_size": 83335359,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1268,
+  "item_last_updated": 1666709728,
+  "item_size": 84044586,
   "metadata": {
     "identifier": "tprnews-2022",
     "collection": [
@@ -13078,18 +13158,21 @@
     "publicdate": "2022-07-04 21:47:12",
     "addeddate": "2022-07-04 21:47:12"
   },
-<<<<<<< HEAD
-  "server": "ia801503.us.archive.org",
-  "uniq": 8987357,
-  "workable_servers": [
-    "ia801503.us.archive.org",
-    "ia601503.us.archive.org"
-=======
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 716552051,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451740914,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 348679785,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+    "ia601503.us.archive.org"
   ]
 }

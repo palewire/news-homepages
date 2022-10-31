@@ -1,12 +1,13 @@
 {
-<<<<<<< HEAD
-  "created": 1666309532,
-=======
-  "created": 1666612904,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666702648,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/eltiempo-2022",
+  "eltiempo-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -13962,16 +13963,6 @@
       "sha1": "ed7d0092ebc3bf482e083b84ac359b331c4d6a1d"
     },
     {
-<<<<<<< HEAD
-      "name": "eltiempo-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "f4f6ce92d27811a7151f3def8fa9b6b55cd59b79",
-      "mtime": "1666309517",
-      "size": "285301",
-      "md5": "133fee497ce80069048ec9e4d2cb7c37",
-      "crc32": "1a9c3eed",
-      "sha1": "f8ffd0f2b0fd2d96c32b3bb3c96db22568b4d728",
-=======
       "name": "eltiempo-2022-10-21T07:20:32.901303-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666354859",
@@ -14406,44 +14397,155 @@
       "sha1": "36a915c56d0cec624f929e54478f282a37617a25"
     },
     {
+      "name": "eltiempo-2022-10-24T19:01:56.848826-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666656121",
+      "size": "41490",
+      "md5": "02066da54a14108aa79910d2efb88293",
+      "crc32": "8665b16d",
+      "sha1": "9417aa96644dde338fbeb28dda2a247b2afa1db1",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-24T19:01:56.848826-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666656123",
+      "size": "71671",
+      "md5": "c464a9380bdaa9ff5f6405fb42ef26fa",
+      "crc32": "a6d2bd53",
+      "sha1": "22bc13b1a9e66fafb292c7d711ffdddf4c19849b",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-24T19:01:56.848826-05:00.jpg",
+      "source": "original",
+      "mtime": "1666656119",
+      "size": "304185",
+      "md5": "cc9590f970a9821d2fa8f0b5958ccf79",
+      "crc32": "fd98a0c3",
+      "sha1": "769caf3e98f8e25e07eb4d6600934babd7b18bc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eltiempo-2022-10-24T19:01:56.848826-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666656125",
+      "size": "1476",
+      "md5": "d2a869eac7548808d0d0a68836205b14",
+      "crc32": "6cb40617",
+      "sha1": "afd795f8fe673ba11c159f1ce9b0d8d486d832bf",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-24T19:01:56.848826-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666656127",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-24T19:01:56.848826-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eltiempo-2022-10-24T19:01:56.848826-05:00.jpg",
+      "mtime": "1666658370",
+      "size": "9578",
+      "md5": "ae07ca6c99b0236e4c4ded2479edcb37",
+      "crc32": "f9d35f6c",
+      "sha1": "b6bccd3b079159f0d15b178d7f5ef594efa93e34"
+    },
+    {
+      "name": "eltiempo-2022-10-25T07:04:17.877395-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699468",
+      "size": "44297",
+      "md5": "dbe7bbe489b6454a87195c42c640c3f8",
+      "crc32": "942e4546",
+      "sha1": "7caa350c14581b479e8b8386360ec285a768baef",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-25T07:04:17.877395-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699470",
+      "size": "71411",
+      "md5": "0cd34b7628bf3916be5dbb37494cbe53",
+      "crc32": "ed630255",
+      "sha1": "8715931dc5460597c60f811ddb911d9f2d4fb16e",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-25T07:04:17.877395-05:00.jpg",
+      "source": "original",
+      "mtime": "1666699466",
+      "size": "306458",
+      "md5": "72b6073f75e66f0a87e1daec3282add5",
+      "crc32": "2623d210",
+      "sha1": "2defc160ededfad32fc79a03653db3571dbabea8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eltiempo-2022-10-25T07:04:17.877395-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699471",
+      "size": "1476",
+      "md5": "bf5258f5aacd9f1f399a476ad81a94d9",
+      "crc32": "606164b7",
+      "sha1": "096112035ea70a167b8043e8c55f93b21b7f6d77",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-25T07:04:17.877395-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699474",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-10-25T07:04:17.877395-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eltiempo-2022-10-25T07:04:17.877395-05:00.jpg",
+      "mtime": "1666701593",
+      "size": "9384",
+      "md5": "6dfb9f14502b0187c77d65a209348cb6",
+      "crc32": "48196756",
+      "sha1": "4770cc31d1aad4821c1378b9289962fe78b3b7b0"
+    },
+    {
       "name": "eltiempo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "792911b8e89ef7bb64cb9b6498f89fb737bb6958",
-      "mtime": "1666612894",
-      "size": "294166",
-      "md5": "1edfc92b16a9bfcda74795d143c822a3",
-      "crc32": "fe59ad08",
-      "sha1": "d25329a665ddacdd9135a9c07b61c6cce59d7027",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "87f4779ad3c2f8cb4e5d63e073e7e614e422c790",
+      "mtime": "1666701644",
+      "size": "296676",
+      "md5": "7524e802cfaa84f0f44c30cb0a9b8d0d",
+      "crc32": "480a0bd4",
+      "sha1": "706aa00a7579247421a1a6a468cbc0a1218308a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eltiempo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "4b0f5b55cf836d5a3e0d8934a49c8716",
-=======
-      "md5": "83585734fe620e0453da850fcdf46720",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "e22be9e9953c2d3728bfdc27b6197ef4",
       "summation": "md5"
     },
     {
       "name": "eltiempo-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666309417",
-      "size": "1671168",
-      "md5": "9949fb2faafad2a17fa623d83c75b152",
-      "crc32": "8ad4bcc5",
-      "sha1": "379a10af50e619f19cb9da77e3947df605fdae31",
-=======
-      "mtime": "1666612807",
-      "size": "1720320",
-      "md5": "aca34c9ede169bc0f2b21f2a1a0f822b",
-      "crc32": "2e291299",
-      "sha1": "0b79f4c66c38719b3d373cfe185529449b510d53",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666699494",
+      "size": "1736704",
+      "md5": "295e15fe7a539e79ed4770cde9fc69dd",
+      "crc32": "55bd5050",
+      "sha1": "79b145471077c6c35e6589626ba8c5b7e049dd5f",
       "format": "Metadata"
     },
     {
@@ -14457,15 +14559,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1348,
-  "item_last_updated": 1666309517,
-  "item_size": 125870604,
-=======
-  "files_count": 1390,
-  "item_last_updated": 1666612894,
-  "item_size": 129315050,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1402,
+  "item_last_updated": 1666701644,
+  "item_size": 130195774,
   "metadata": {
     "identifier": "eltiempo-2022",
     "collection": [
@@ -14482,14 +14578,10 @@
     "publicdate": "2022-06-24 22:54:38",
     "addeddate": "2022-06-24 22:54:38"
   },
-  "server": "ia902509.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 825084659,
-=======
-  "uniq": 285529021,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "server": "ia802509.us.archive.org",
+  "uniq": 536896952,
   "workable_servers": [
-    "ia902509.us.archive.org",
-    "ia802509.us.archive.org"
+    "ia802509.us.archive.org",
+    "ia902509.us.archive.org"
   ]
 }

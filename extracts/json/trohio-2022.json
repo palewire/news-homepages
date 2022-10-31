@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666366291,
-=======
-  "created": 1666624307,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666709692,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/10/items/trohio-2022",
@@ -3842,16 +3838,6 @@
       "sha1": "1f4c6559ffedc5ac7d3240a3922c874aec4e54b1"
     },
     {
-<<<<<<< HEAD
-      "name": "trohio-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "c916245812ff39193d284e344a3ea4b3bcf206f6",
-      "mtime": "1666366282",
-      "size": "78714",
-      "md5": "ddfd451a274ecd91ef3ace2ccbd475aa",
-      "crc32": "eda9c8bb",
-      "sha1": "130e4313e6e687d93993c808dd54ce6bfed9bab0",
-=======
       "name": "trohio-2022-10-21T23:31:19.965772-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666409485",
@@ -4224,44 +4210,144 @@
       "sha1": "c3c0cab1afa71f5a3d651131c0d6a3f2553d2174"
     },
     {
+      "name": "trohio-2022-10-24T23:59:48.816979-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666670392",
+      "size": "24429",
+      "md5": "cd5547eed6743fc37bbdd87206392e54",
+      "crc32": "e707b745",
+      "sha1": "204e6c8b2c7e4e94973aa6b094555aa62a63f85d",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-24T23:59:48.816979-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666670394",
+      "size": "35632",
+      "md5": "8a11145aad22eb1badb62c3c37e12d1f",
+      "crc32": "3386b46b",
+      "sha1": "9cfa95517513dad4f39a0b13b4cbeeb921e92f67",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-24T23:59:48.816979-04:00.jpg",
+      "source": "original",
+      "mtime": "1666670390",
+      "size": "251721",
+      "md5": "a472adc1acdd075481c90212cdb0622c",
+      "crc32": "a90454e2",
+      "sha1": "7036e039d7b584f4b2b20a415890e01c1199a1ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "trohio-2022-10-24T23:59:48.816979-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666670395",
+      "size": "1522",
+      "md5": "574c54403b33175c52dd10776ca0dcbc",
+      "crc32": "b287ee33",
+      "sha1": "232d0a3edfc1d92cedb1749ac54469417a38b660",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-24T23:59:48.816979-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666670397",
+      "size": "106",
+      "md5": "8698a000c6c8451d955f3acdef72a6ea",
+      "crc32": "8a426a45",
+      "sha1": "9d7de2e8403739c2df56d2a6836607fd7f709fa8",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-24T23:59:48.816979-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "trohio-2022-10-24T23:59:48.816979-04:00.jpg",
+      "mtime": "1666676558",
+      "size": "9304",
+      "md5": "edd90b0268c8f1466378ac801adc35e3",
+      "crc32": "bd08827b",
+      "sha1": "c4d0d2502b85bb40c793108a4c603cf27e49dbf4"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666709641",
+      "size": "11124",
+      "md5": "ac1046d84282c46dec20e4bc75695f42",
+      "crc32": "7bb86e55",
+      "sha1": "e2d6e653bb98d69ede4b6f7296d9570f269a8461",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666709643",
+      "size": "34480",
+      "md5": "8aee75b43a8cffe61ce32cc286e122e0",
+      "crc32": "a74e90af",
+      "sha1": "44bbca6ee5e26e8c8f91b6e896ccd2de13b745df",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.jpg",
+      "source": "original",
+      "mtime": "1666709637",
+      "size": "323558",
+      "md5": "c40a670c707ea070b868c2f403cadcdb",
+      "crc32": "ab1dcbd9",
+      "sha1": "c537d0a4757657a25b3d5793d9e2b36aec90da48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666709645",
+      "size": "1521",
+      "md5": "ea600ef3bc1ed3f27b9368b48d30a95a",
+      "crc32": "a383f4ea",
+      "sha1": "37622e515f3981b995ef0077b2368261e2cf6149",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-10-25T10:53:51.420455-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709647",
+      "size": "210",
+      "md5": "f83b3806924dbc9dcf797897bfb967f5",
+      "crc32": "696d8f7a",
+      "sha1": "32339f279185a06c08d8814544cce6c52248be87",
+      "format": "JSON"
+    },
+    {
       "name": "trohio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b922858def532346baebd8c0deefedded824f9e",
-      "mtime": "1666624298",
-      "size": "86200",
-      "md5": "fb1a336a74ff14b7efb527b5bd2496ac",
-      "crc32": "cc13ac9e",
-      "sha1": "d736d66925b0f0dff641188f9d2755b03893b611",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "63219ef0453064b88dafc3e6f7ae23fe4f33eabe",
+      "mtime": "1666709688",
+      "size": "88504",
+      "md5": "3afb609bdcdca29589a136c2d1acb677",
+      "crc32": "78c0428f",
+      "sha1": "957de152d3c09e5f2021ea7a1e56f9dd44fd7aff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "trohio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "bf31a000e1877b44d54d77645863decb",
-=======
-      "md5": "2944ec8f2b5d3a4b4e6363d7ffc5310d",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "a1c3c2434620c6b6322cf81835475a1e",
       "summation": "md5"
     },
     {
       "name": "trohio-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666366230",
-      "size": "487424",
-      "md5": "2bc95f6bf037fdb06520f82b02d4d737",
-      "crc32": "bfe5a803",
-      "sha1": "b2bb8d1721eb619d85504927a00b6acd1b61015d",
-=======
-      "mtime": "1666624242",
-      "size": "536576",
-      "md5": "06dd911615f05ec55ced47d932c4f1b2",
-      "crc32": "9ba063d3",
-      "sha1": "73b0572d80273c953287864cb8b0c7d52d49ec3d",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666709650",
+      "size": "552960",
+      "md5": "a554987b429eeea3e111f9a39d5e311e",
+      "crc32": "1b3154ee",
+      "sha1": "06cc0346673ddf20189aaf4232773c0a93e7fe92",
       "format": "Metadata"
     },
     {
@@ -4275,15 +4361,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 375,
-  "item_last_updated": 1666366282,
-  "item_size": 25277433,
-=======
-  "files_count": 411,
-  "item_last_updated": 1666624298,
-  "item_size": 27747153,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 422,
+  "item_last_updated": 1666709688,
+  "item_size": 28459448,
   "metadata": {
     "identifier": "trohio-2022",
     "collection": [
@@ -4300,18 +4380,21 @@
     "publicdate": "2022-09-21 03:46:26",
     "addeddate": "2022-09-21 03:46:26"
   },
-<<<<<<< HEAD
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 1905290546,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451740372,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 336231550,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
-=======
-  "server": "ia801502.us.archive.org",
-  "uniq": 895296868,
-  "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

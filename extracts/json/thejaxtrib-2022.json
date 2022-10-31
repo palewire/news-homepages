@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666370523,
-=======
-  "created": 1666624249,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666709572,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/20/items/thejaxtrib-2022",
@@ -6924,16 +6920,6 @@
       "sha1": "91f6e63b4bdb1b413923269e37c2d1aae9522679"
     },
     {
-<<<<<<< HEAD
-      "name": "thejaxtrib-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "ed42bf6c3e43f213fd3abbc4bc29bbcbbece3097",
-      "mtime": "1666366191",
-      "size": "143019",
-      "md5": "a26c55ac7d4ebd8e29200ec383aa3e5d",
-      "crc32": "2a9cfbd8",
-      "sha1": "6d22e3221decb868fe6e3e98b6f9bb55b67cf32d",
-=======
       "name": "thejaxtrib-2022-10-21T23:29:27.222271-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666409374",
@@ -7306,44 +7292,144 @@
       "sha1": "95aeace61578f458837f84655f0035297d21243b"
     },
     {
+      "name": "thejaxtrib-2022-10-24T23:56:39.751108-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666670203",
+      "size": "22389",
+      "md5": "e66f37035a2cf632d23274793716130d",
+      "crc32": "07e6860b",
+      "sha1": "5c3bf6cda6f8c1b13fc02a0f22bb1e21f1a6af43",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-24T23:56:39.751108-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666670205",
+      "size": "22209",
+      "md5": "8e595a2ec0b0eed3c8f68bc96cdecac4",
+      "crc32": "eb2cf964",
+      "sha1": "9577b608d1895b244d954e84dc8ff29b07b1f964",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-24T23:56:39.751108-04:00.jpg",
+      "source": "original",
+      "mtime": "1666670201",
+      "size": "202858",
+      "md5": "483a3372bbb16fd8c75e2e028ecf69de",
+      "crc32": "6bc6d294",
+      "sha1": "5fa4a50fcb78c373637bc07eb82dc076cdca357a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejaxtrib-2022-10-24T23:56:39.751108-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666670206",
+      "size": "1431",
+      "md5": "ea782cae272c0a585594305986e14eab",
+      "crc32": "e79a0a3e",
+      "sha1": "6bf2e5c2deba2bb6b9be1810a744be5cef935c2a",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-24T23:56:39.751108-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666670208",
+      "size": "13350",
+      "md5": "de542ff630214a7e10c06aabf3afbf19",
+      "crc32": "5332c39f",
+      "sha1": "e290899ebe0c5e926b6b672cfd445d04d1f33376",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-24T23:56:39.751108-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejaxtrib-2022-10-24T23:56:39.751108-04:00.jpg",
+      "mtime": "1666676438",
+      "size": "10451",
+      "md5": "a45ed795802db598136ede8a6af405c7",
+      "crc32": "f10fd8f5",
+      "sha1": "fcff071fee41a34f5153007bbdf0e8712ad761b6"
+    },
+    {
+      "name": "thejaxtrib-2022-10-25T10:51:50.405176-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666709518",
+      "size": "22390",
+      "md5": "201e44a32f52f549c1d33323cfddff14",
+      "crc32": "8f760ac1",
+      "sha1": "afc7bf67210470085b129f7c65f23101030e6d5f",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-25T10:51:50.405176-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666709520",
+      "size": "22209",
+      "md5": "8e595a2ec0b0eed3c8f68bc96cdecac4",
+      "crc32": "eb2cf964",
+      "sha1": "9577b608d1895b244d954e84dc8ff29b07b1f964",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-25T10:51:50.405176-04:00.jpg",
+      "source": "original",
+      "mtime": "1666709515",
+      "size": "202941",
+      "md5": "6b48c00ff39cf61b64b19dc389b9d09b",
+      "crc32": "b3a32b17",
+      "sha1": "dcbfb6826511a4298215311aacb9d22131990741",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thejaxtrib-2022-10-25T10:51:50.405176-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666709521",
+      "size": "1431",
+      "md5": "9ecb7addd8fff3983e96bdfe0ed743bc",
+      "crc32": "ba967b89",
+      "sha1": "78c3f7637c8f5e022a1025cde1ce5eae0b9ebb15",
+      "format": "JSON"
+    },
+    {
+      "name": "thejaxtrib-2022-10-25T10:51:50.405176-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709523",
+      "size": "200",
+      "md5": "5aa9f56d3fcc2ad04d60b0cc89415e19",
+      "crc32": "090406b6",
+      "sha1": "c0a3cee80f5d58f6ff372214e48ef25863fb0cd0",
+      "format": "JSON"
+    },
+    {
       "name": "thejaxtrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f0713ff3d243db8b4bd23baced40f51665ef90d7",
-      "mtime": "1666624233",
-      "size": "150627",
-      "md5": "0f4689ca4581588ff2f05100e49a14ba",
-      "crc32": "ed376135",
-      "sha1": "2423fbdc860b23dfbca55d8346144e110de5875c",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "d052f3627d8d7211b0d15ed1d3cb7fac845aff64",
+      "mtime": "1666709569",
+      "size": "152958",
+      "md5": "16140c15b264f3240fe787c2cf40f34e",
+      "crc32": "b54d1243",
+      "sha1": "6f30abc2ad18a13699aed2f6666809c302fbe8de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejaxtrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "07de4cd05eefe8c481676205f0d3e297",
-=======
-      "md5": "884dfe8e142fb8620f45973bd1ce9b9e",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "1b6840a68967ef663bde2e44946a8588",
       "summation": "md5"
     },
     {
       "name": "thejaxtrib-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666366100",
-      "size": "868352",
-      "md5": "e8a60b5783a85a9f67bc60ff019a6334",
-      "crc32": "343beff6",
-      "sha1": "b2796555bbd1ccdc0177e240e838218d1a33f297",
-=======
-      "mtime": "1666624158",
-      "size": "917504",
-      "md5": "7e5193755d8b383194fac5b83d377914",
-      "crc32": "4b6bdbcf",
-      "sha1": "ff3549df72f73c281736dec692b571bb2253d162",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666709528",
+      "size": "929792",
+      "md5": "859ad81133b6f0b91d7d2d72c8694215",
+      "crc32": "88f71da2",
+      "sha1": "bb20e459ffbf83466b38e89fd4e1329aead91ee0",
       "format": "Metadata"
     },
     {
@@ -7357,15 +7443,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 673,
-  "item_last_updated": 1666366191,
-  "item_size": 31312059,
-=======
-  "files_count": 709,
-  "item_last_updated": 1666624233,
-  "item_size": 32897816,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 720,
+  "item_last_updated": 1666709569,
+  "item_size": 33434294,
   "metadata": {
     "identifier": "thejaxtrib-2022",
     "collection": [
@@ -7382,155 +7462,21 @@
     "publicdate": "2022-08-26 13:03:02",
     "addeddate": "2022-08-26 13:03:02"
   },
-<<<<<<< HEAD
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "thejaxtrib-2022": {
-    "url": "https://jaxtrib.org/",
-    "job_id": "spn2-85a85a30ae5279709ee47e2de0a1123e75de9ce0",
-    "resources": [
-      "https://jaxtrib.org/",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2021/09/TRB_TributaryLogo_White.png?resize=1200,420&ssl=1",
-      "https://cdn.ampproject.org/v0.mjs",
-      "https://cdn.ampproject.org/v0/amp-access-0.1.mjs",
-      "https://cdn.ampproject.org/v0/amp-analytics-0.1.mjs",
-      "https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.mjs",
-      "https://cdn.ampproject.org/v0/amp-bind-0.1.mjs",
-      "https://cdn.ampproject.org/v0/amp-form-0.1.mjs",
-      "https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,700;1,400;1,700&display=swap",
-      "https://cdn.ampproject.org/v0/amp-mustache-0.2.mjs",
-      "https://jaxtrib.org/wp-content/plugins/jetpack/_inc/social-logos/social-logos.eot?5d3b4da4f6c2460dd842dbf9e0992ea6",
-      "https://cdn.ampproject.org/v0/amp-sidebar-0.1.mjs",
-      "https://jaxtrib.org/wp-content/uploads/2022/01/dividing-jax.png",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/09/pexels-photo-619424-1.jpeg?resize=1200,900&ssl=1",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/03/jaxtrib20220217_0002-scaled.jpg?resize=1200,900&ssl=1",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/10/IMG_5907-scaled.jpg?resize=1200,900&ssl=1",
-      "https://jaxtrib.org/wp-content/uploads/2022/04/image.png",
-      "https://fonts.gstatic.com/s/archivo/v18/k3kBo8UDI-1M0wlSfdzyIEkpwTM29hr-8mTYCxCmuA.woff2",
-      "https://fonts.gstatic.com/s/archivo/v18/k3kPo8UDI-1M0wlSV9XAw6lQkqWY8Q82sLydOxI.woff2",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2021/11/screenshot-1.png?w=778&ssl=1",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/01/dividing-jax.png?w=239&ssl=1",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/02/communities.png?w=245&ssl=1",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/04/image.png?w=799&ssl=1",
-      "https://cdn.ampproject.org/rtv/012210010655000/ww.mjs",
-      "https://pixel.wp.com/g.gif?v=ext&blog=194482419&post=20&tz=-4&srv=jaxtrib.org&hp=atomic&ac=6&amp=1&host=jaxtrib.org&rand=0.20779780413265492&ref=",
-      "https://cdn.ampproject.org/rtv/012210010655000/v0/amp-loader-0.1.mjs",
-      "https://jaxtrib.org/wp-content/plugins/newspack-popups/api/campaigns/index.php?cid=amp-wzcRTuHFbO254Vr41YRXHw&ref=&popups=[{\"id\":\"id_1978\",\"f\":\"once\",\"fm\":0,\"fs\":0,\"fb\":0,\"ft\":\"month\",\"utm\":null,\"s\":\"\",\"t\":\"i\"}]&settings={\"active\":null,\"newspack_popups_donor_landing_page\":\"\",\"newspack_popups_mc_donor_merge_field\":\"DONAT\",\"newspack_popups_non_interative_mode\":false,\"all_segments\":{\"6115509b7d4ef\":{\"min_posts\":\"1\",\"max_posts\":\"3\",\"min_session_posts\":0,\"max_session_posts\":0,\"is_subscribed\":false,\"is_donor\":false,\"is_not_subscribed\":true,\"is_not_donor\":true,\"favorite_categories\":[],\"referrers\":\"\",\"referrers_not\":\"mailchimp.com,mailchi.mp\",\"priority\":0}},\"newspack_popups_active_campaign_group\":false}&visit={\"post_type\":\"page\",\"post_id\":20}&__amp_source_origin=https://jaxtrib.org",
-      "https://cdn.ampproject.org/rtv/012210010655000/v0/analytics-vendors/googleanalytics.json",
-      "https://cdn.ampproject.org/rtv/012210010655000/v0/analytics-vendors/facebookpixel.json",
-      "https://cdn.ampproject.org/rtv/012210010655000/v0/analytics-vendors/parsely.json",
-      "https://cdn.ampproject.org/rtv/012210010655000/v0/analytics-vendors/gtag.json",
-      "https://cdn.ampproject.org/rtv/012210010655000/v0/analytics-vendors/fbpixel2.json",
-      "https://cdn.ampproject.org/rtv/012210010655000/v0/analytics-vendors/gtag.json",
-      "https://jaxtrib.org/wp-content/plugins/newspack-plugin/includes/raw_assets/ga4.json?__amp_source_origin=https://jaxtrib.org",
-      "https://cdn.ampproject.org/rtv/012210010655000/v0/analytics-vendors/gtag.json",
-      "https://jaxtrib.org/wp-content/plugins/newspack-popups/api/segmentation/index.php?client_id=amp-wzcRTuHFbO254Vr41YRXHw&post_id=20&custom_dimensions={\"6\":{\"role\":\"newspack_popups_cd_is_donor\",\"option\":{\"value\":\"newspack_popups_cd_is_donor\",\"label\":\"Is a donor\"},\"gaID\":\"ga:dimension2\"}}&custom_dimensions_existing_values=[]&__amp_source_origin=https://jaxtrib.org",
-      "https://www.google-analytics.com/g/collect?v=2&tid=G-D8Y7D6LYBF&ds=AMP&_p=4873&cid=amp-2ZvH_BojV5lpdT37-cA5Xg&ul=en-us&sr=1600x1000&_s=1&dl=https://jaxtrib.org/&dr=&dt=The Tributary - Jacksonville's Local News \u2022 The Tributary&__nfv=1&__nss=1&en=page_view&sid=1666364709&sct=1&seg=0&_et=1000&gcs=",
-      "https://www.facebook.com/tr?noscript=1&ev=PageView&id=649774082714434",
-      "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-D8Y7D6LYBF&cid=amp-2ZvH_BojV5lpdT37-cA5Xg&aip=1&sid=1666364709&sct=1&seg=0&_et=1000&gcs=",
-      "https://srv.pixel.parsely.com/plogger/?rand=1666364709409&idsite=jaxtrib.org&url=https://jaxtrib.org/&urlref=&screen=1600x1000|1600x1000|24&title=The Tributary - Jacksonville's Local News \u2022 The Tributary&date=1666364709411&ampid=amp-r0_gI8QQJukmWWK2MPkGeg&action=pageview&metadata={\"canonical_url\":\"https://jaxtrib.org/\"}",
-      "https://srv.pixel.parsely.com/plogger/?rand=1666364709430&idsite=jaxtrib.org&url=https://jaxtrib.org/&urlref=&screen=1600x1000|1600x1000|24&title=The Tributary - Jacksonville's Local News \u2022 The Tributary&date=1666364709434&ampid=amp-r0_gI8QQJukmWWK2MPkGeg&action=heartbeat&tt=1&inc=1",
-      "https://jaxtrib.org/wp-content/uploads/2021/11/screenshot-1.png",
-      "https://jaxtrib.org/wp-content/uploads/2022/02/communities.png",
-      "https://jaxtrib.org/wp-content/uploads/2021/06/cropped-favicon-32x32.png",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2021/06/inn-logo-2.png?resize=300,74&ssl=1",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/08/pexels-photo-923681.jpeg?resize=1200,900&ssl=1",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/05/redistricting.png?resize=800,600&ssl=1",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/06/fb_IMG_3520-scaled.jpg?resize=1200,900&ssl=1",
-      "https://i0.wp.com/jaxtrib.org/wp-content/uploads/2022/08/17815047986_a32f088e05_o-scaled.jpg?resize=1200,900&ssl=1"
-    ],
-    "timestamp": "20221021150507",
-    "http_status": 200,
-    "outlinks": [
-      "https://jaxtrib.org/category/news/changing-florida/",
-      "https://jaxtrib.org/2022/10/20/jacksonville-hires-redistricting-expert-to-draw-new-maps-after-racial-gerrymandering-ruling/",
-      "https://jaxtrib.org/2022/05/16/florida-judge-orders-officials-to-use-new-congressional-redistricting-map-florida-redistricting-lawsuit/",
-      "https://jaxtrib.org/category/news/",
-      "https://jaxtrib.org/2022/04/27/voting-rights-groups-ask-court-to-block-northeast-florida-congressional-districts/",
-      "https://jaxtrib.org/2022/09/16/federal-court-hears-arguments-in-jacksonville-racial-gerrymandering-case-redistricting-florida/",
-      "https://jaxtrib.org/about/contact/",
-      "https://jaxtrib.org/2022/06/06/desantis-picks-undersheriff-to-replace-jacksonville-sheriff-mike-williams/",
-      "https://jaxtrib.org/2022/08/19/jacksonville-state-attorney-says-t-k-waters-and-wife-who-works-for-state-attorney-didnt-violate-voter-registration-law/",
-      "https://jaxtrib.org/2022/08/19/reggie-gaffney-jr-registered-to-vote-at-his-dads-nonprofit-he-didnt-live-there/",
-      "https://jaxtrib.org/my-account/",
-      "https://jaxtrib.org/2022/05/18/florida-redistricting-lawsuit-state-preparing-for-both-court-ordered-and-desantis-signed-maps/",
-      "https://jaxtrib.org/about/tax-documents/",
-      "https://jaxtrib.org/2021/12/07/republican-nick-howland-and-democrat-tracye-polson-advance-to-jacksonville-city-council-runoff/",
-      "https://jaxtrib.org/about/editorial-independence/",
-      "https://jaxtrib.org/about/corrections/",
-      "https://jaxtrib.org/2022/09/15/jacksonville-city-councils-racial-gerrymandering-case-goes-to-court-friday/",
-      "https://jaxtrib.org/about/jobs/",
-      "https://jaxtrib.org/2021/12/08/eight-charts-and-maps-of-last-nights-jacksonville-city-council-election/",
-      "https://jaxtrib.org/2022/02/22/republican-nick-howland-beats-democrat-tracye-polson-for-jacksonville-city-council-seat/",
-      "https://jaxtrib.org/2022/09/22/jacksonville-agrees-to-stop-requiring-sex-offenders-to-post-no-candy-signs-at-halloweeen/",
-      "https://jaxtrib.org/2022/05/23/florida-redistricting-lawsuit-voting-rights-groups-ask-florida-supreme-court-to-intervene/",
-      "https://jaxtrib.org/subscribe/",
-      "https://jaxtrib.org/2022/10/19/desantis-redistricting-lawyer-hired-to-fight-jacksonville-city-councils-racial-gerrymandering-ruling/",
-      "https://jaxtrib.org/2022/04/08/judge-recommends-former-public-defender-matt-shirk-face-one-year-suspension-a-decade-after-his-scandals/",
-      "https://jaxtrib.org/2022/05/20/florida-redistricting-lawsuit-appeals-court-reinstates-desantis-map-staying-court-ordered-map/",
-      "https://jaxtrib.org/2022/08/18/jacksonville-sheriffs-candidate-t-k-waters-registered-to-vote-in-nocatee-but-he-doesnt-live-there/",
-      "https://jaxtrib.org/2022/04/10/bill-sheppard-civil-rights-attorney-who-transformed-jacksonville-and-florida-dies/",
-      "https://jaxtrib.org/2022/10/14/jacksonville-city-council-appeals-racial-gerrymandering-ruling-in-redistricting-case/",
-      "https://jaxtrib.org/about/",
-      "https://jaxtrib.org/about/employee-integrity/",
-      "https://jaxtrib.org/about/privacy-policy/",
-      "https://jaxtrib.org/about/fact-checking/",
-      "https://jaxtrib.org/author/apantazi/",
-      "https://jaxtrib.org/author/joshua-kaplan-propublica/",
-      "https://jaxtrib.org/2022/10/20/jacksonville-says-theres-not-enough-time-to-draw-council-districts-after-racial-gerrymandering-order/",
-      "https://jaxtrib.org/2022/05/10/workers-at-2-jacksonville-starbucks-coffee-shops-vote-to-unionize/",
-      "https://jaxtrib.org/about/collaborate-with-us/",
-      "https://jaxtrib.org/2022/07/11/jacksonville-redistricting-lawsuit-city-council-duval-county-school-board-racial-gerrymandering-florida-voting-rights-groups-will-ask-judge-to-toss-city-council-districts-before-2023-elections-in-jack/",
-      "https://jaxtrib.org/2022/08/08/jacksonville-sheriffs-office-arrest-slowdown-continues-for-a-second-day/",
-      "https://jaxtrib.org/2022/04/22/florida-redistricting-lawsuit-map-sued-for-reducing-black-voting-power-and-alleged-gop-bias/",
-      "https://jaxtrib.org/2021/11/08/today-is-jacksonvilles-deadline-to-register-to-vote-in-special-city-council-election/",
-      "https://jaxtrib.org/2022/08/07/jacksonville-sheriffs-office-systems-down-limiting-officers-ability-to-arrest/",
-      "https://jaxtrib.org/2022/08/23/jacksonville-sheriff-election-republican-t-k-waters-and-democrat-lakesha-burton-head-to-november-runoff/",
-      "https://jaxtrib.org/2022/05/11/judge-strikes-down-part-of-florida-congressional-redistricting-map/",
-      "https://jaxtrib.org/2022/07/23/jacksonville-redistricting-activists-ask-judge-to-toss-jacksonville-city-council-districts-before-2023-election/",
-      "https://jaxtrib.org/archive/",
-      "https://jaxtrib.org/2022/06/07/jacksonville-mayoral-campaign-finance-records-thanks-to-lax-florida-campaign-finance-laws-contributions-expenses-donna-deegan-daniel-davis-leanna-cumber-al-ferraro-tk-waters-lakesha-burton/",
-      "https://jaxtrib.org/2022/05/03/jacksonville-redistricting-sued-for-city-councils-alleged-racially-gerrymandered-redistricting-map-districts-florida-black-voters/",
-      "https://jaxtrib.org/2022/10/11/how-ron-desantis-blew-up-black-held-congressional-districts-and-may-have-broken-florida-law/",
-      "https://jaxtrib.org/2022/05/27/florida-redistricting-lawsuit-appeals-court-rejects-court-ordered-maps/",
-      "https://jaxtrib.org/2022/10/12/federal-judge-strikes-down-jacksonville-city-council-districts-as-racial-gerrymanders/",
-      "https://jaxtrib.org/2022/06/02/florida-supreme-court-declines-to-hear-congressional-redistricting-lawsuit-ensuring-2022-will-follow-desantis-map/",
-      "https://jaxtrib.org/2022/08/26/florida-supreme-court-suspends-former-public-defender-matt-shirks-license-one-year/",
-      "https://jaxtrib.org/2022/05/27/jacksonville-sheriff-mike-williams-doesnt-live-in-duval-and-might-need-to-leave-office/",
-      "https://jaxtrib.org/2022/08/24/five-takeaways-from-tuesdays-elections-in-jacksonville/",
-      "https://jaxtrib.org/about/code-of-ethics/",
-      "https://jaxtrib.org/2022/06/02/jacksonville-sheriff-mike-williams-to-resign-after-the-tributary-revealed-he-moved-to-nassau-county/",
-      "https://jaxtrib.org/about/republish-our-stories/",
-      "https://jaxtrib.org/about/our-funders/",
-      "https://jaxtrib.org/changing-florida/",
-      "https://jaxtrib.org/2022/07/21/for-decades-jacksonville-city-council-redistricting-based-off-misinformation-federal-lawsuit-racial-gerrymander/",
-      "https://jaxtrib.org/about/who-we-are/",
-      "https://www.instagram.com/thejaxtrib/",
-      "https://data.jaxtrib.org/",
-      "https://twitter.com/TheJaxTrib",
-      "https://jaxtrib.app.neoncrm.com/forms/4",
-      "https://inn.org/",
-      "https://www.linkedin.com/company/the-tributary-a-northeast-florida-journalism-collective/",
-      "https://data.jaxtrib.org/jacksonville_redistricting"
-    ],
-    "status": "success",
-    "counters": {
-      "outlinks": 83,
-      "embeds": 49
-    },
-    "original_url": "https://jaxtrib.org/",
-    "duration_sec": 10.435,
-    "screenshot": "http://web.archive.org/screenshot/https://jaxtrib.org/"
-  },
-  "uniq": 1463849903,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451738920,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 964198377,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
-=======
-  "server": "ia801403.us.archive.org",
-  "uniq": 1320366549,
-  "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

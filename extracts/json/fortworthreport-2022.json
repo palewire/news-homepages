@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666309742,
-=======
-  "created": 1666612944,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666702056,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/fortworthreport-2022",
@@ -12212,16 +12208,6 @@
       "sha1": "df3ec513348410c3a71d167b4640319fd4a5248a"
     },
     {
-<<<<<<< HEAD
-      "name": "fortworthreport-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "9d1ea2c0203b527d1c41b28ceb358bd2c6fe475b",
-      "mtime": "1666309707",
-      "size": "257050",
-      "md5": "12dd18750e17baf3f42d476ecf7c274a",
-      "crc32": "0ed70ccd",
-      "sha1": "bc2467ac75b478a4815742e2ede8e3c27cbd322a",
-=======
       "name": "fortworthreport-2022-10-21T07:18:37.871620-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666354722",
@@ -12656,44 +12642,155 @@
       "sha1": "81e8b7c98e7bc869f5239db76da32b36bb9de3f6"
     },
     {
+      "name": "fortworthreport-2022-10-24T19:05:02.303449-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666656307",
+      "size": "43469",
+      "md5": "5d018ec3af32e2bb74f2fc3b2024e629",
+      "crc32": "190481b6",
+      "sha1": "f8cecab8c05be03bcecd7200d9cdd447d0dda245",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-24T19:05:02.303449-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666656308",
+      "size": "40779",
+      "md5": "6221ce6c874da59938535dc02c5616ac",
+      "crc32": "a494b1a1",
+      "sha1": "84bb07a1bbae2c353b6c3e634beac500b2ace06c",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-24T19:05:02.303449-05:00.jpg",
+      "source": "original",
+      "mtime": "1666656304",
+      "size": "178468",
+      "md5": "2dabe675ff4c9c0a563e6abe86482edb",
+      "crc32": "84fb4914",
+      "sha1": "d1bad21917bceb782c9fb9f2c613068f8153b50c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortworthreport-2022-10-24T19:05:02.303449-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666656310",
+      "size": "1494",
+      "md5": "55bd54047502b54acf042f8fa7200a6e",
+      "crc32": "22a105b2",
+      "sha1": "ac65aa8d8bea82e0aac745b8e57e3297850ca439",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-24T19:05:02.303449-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666656312",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-24T19:05:02.303449-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortworthreport-2022-10-24T19:05:02.303449-05:00.jpg",
+      "mtime": "1666660087",
+      "size": "8704",
+      "md5": "d73ce58c2437ae2f4fde912e29924520",
+      "crc32": "251e1934",
+      "sha1": "02e417bec5c6b329ac3c81ed99871a3a70594ea4"
+    },
+    {
+      "name": "fortworthreport-2022-10-25T07:07:06.290772-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699634",
+      "size": "43285",
+      "md5": "c598c64771a87d1161e208ef2d4f5245",
+      "crc32": "f5d74404",
+      "sha1": "d2cae18ab041b26c0c5bb3c69a7f49009b20c46f",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-25T07:07:06.290772-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699636",
+      "size": "40794",
+      "md5": "afa853d00b920882eaa950e38f35a6c1",
+      "crc32": "86cc1656",
+      "sha1": "683b9bbd54c2877fd8a4792a905f5a21beb9fe8c",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-25T07:07:06.290772-05:00.jpg",
+      "source": "original",
+      "mtime": "1666699632",
+      "size": "199396",
+      "md5": "3e35b53079d8e05818db561c7a0664bc",
+      "crc32": "c6ff6385",
+      "sha1": "ac8390120dee63469efa68aa529a3ea6b5eba17f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fortworthreport-2022-10-25T07:07:06.290772-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699638",
+      "size": "1494",
+      "md5": "c1a010fadae6b8a5657e6b57361bc74f",
+      "crc32": "656bfd39",
+      "sha1": "c9de21553068145140131a630e4f0fda29071837",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-25T07:07:06.290772-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699640",
+      "size": "35730",
+      "md5": "7153ee993e8d1c0af3c58c306d90046f",
+      "crc32": "3885a273",
+      "sha1": "0c93bae1cf2337d5d11069eab09d37a0167d0dab",
+      "format": "JSON"
+    },
+    {
+      "name": "fortworthreport-2022-10-25T07:07:06.290772-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortworthreport-2022-10-25T07:07:06.290772-05:00.jpg",
+      "mtime": "1666701952",
+      "size": "9165",
+      "md5": "10e1e839233f6469385305be25ee89b3",
+      "crc32": "3366f1d5",
+      "sha1": "0ba8912452d1e255981beecb6894f99577d9901d"
+    },
+    {
       "name": "fortworthreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdd47b7ec720faa2b7df14cb0dae6677574da6d0",
-      "mtime": "1666612918",
-      "size": "266169",
-      "md5": "2c8f7a3f1c091165bb4161f38608bf90",
-      "crc32": "5037eb44",
-      "sha1": "0abee4ce718402b98dc296c95801ba718af6032a",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "91500310d6748d9cbcd062076412a7a16654bbc0",
+      "mtime": "1666701973",
+      "size": "268765",
+      "md5": "77c9a1f62e6fffab16dbe95ac249b1c9",
+      "crc32": "cc8ae827",
+      "sha1": "58d65b9625f0f0ea9f1ba24cc62e1c217182904e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortworthreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "adee427e12d165b4bcd85fa38da2390f",
-=======
-      "md5": "ef34a377fa5485a4cdd44688a52a32c9",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "79e7911e66e8f16b2500b42c5a9733bf",
       "summation": "md5"
     },
     {
       "name": "fortworthreport-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666309555",
-      "size": "1503232",
-      "md5": "d8bb094978bfe5d895de2747f2716e0e",
-      "crc32": "1f8fb086",
-      "sha1": "b8a7b2c9e4ad4d7837507ed6858306c147d787ec",
-=======
-      "mtime": "1666612809",
-      "size": "1552384",
-      "md5": "be32c6382f941c2df89eeb76008ee939",
-      "crc32": "dda86914",
-      "sha1": "086edfbf817ca5bcdd96f78ef2ce33594f1a9e52",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666699676",
+      "size": "1568768",
+      "md5": "7ad173881fd383aa28caafd3e20adfc1",
+      "crc32": "4ececc18",
+      "sha1": "18db573d644d07a0ca88e3e339c98d4715be7a11",
       "format": "Metadata"
     },
     {
@@ -12707,15 +12804,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1182,
-  "item_last_updated": 1666309707,
-  "item_size": 69603307,
-=======
-  "files_count": 1224,
-  "item_last_updated": 1666612918,
-  "item_size": 72106354,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1236,
+  "item_last_updated": 1666701973,
+  "item_size": 72728314,
   "metadata": {
     "identifier": "fortworthreport-2022",
     "collection": [
@@ -12732,18 +12823,10 @@
     "publicdate": "2022-07-09 03:59:06",
     "addeddate": "2022-07-09 03:59:06"
   },
-<<<<<<< HEAD
   "server": "ia601403.us.archive.org",
-  "uniq": 700065462,
+  "uniq": 2040211108,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"
-=======
-  "server": "ia801403.us.archive.org",
-  "uniq": 1986672260,
-  "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
-  "created": 1666337934,
-=======
-  "created": 1666590246,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "conflict": 1666718400,
+  "created": 1666718400,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/24/items/mtnstspotlight-2022",
@@ -14892,16 +14889,6 @@
       "sha1": "1f80af00fce69e91094d2c715b5b5a857fac061c"
     },
     {
-<<<<<<< HEAD
-      "name": "mtnstspotlight-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "a45957e4c56cde73286cc247cff5ed8396818ba0",
-      "mtime": "1666332395",
-      "size": "310408",
-      "md5": "243b069c411ba3049e8fd44fa38a6fe3",
-      "crc32": "a5c46f40",
-      "sha1": "3f38f9378b5df28a079b1d245e2242f33d11845d",
-=======
       "name": "mtnstspotlight-2022-10-21T14:32:14.784284-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666377143",
@@ -15274,44 +15261,212 @@
       "sha1": "3910d79a61f7110bb62b72c35abead4810fdab65"
     },
     {
+      "name": "mtnstspotlight-2022-10-24T13:13:57.711266-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666631646",
+      "size": "9924",
+      "md5": "8b81be7078bb49b6c4d6fda002f4daa1",
+      "crc32": "b7d1c578",
+      "sha1": "165546e111bb4a9a8c2f025adcad70056ed75fb5",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-24T13:13:57.711266-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666631648",
+      "size": "11006",
+      "md5": "3a0fd6863d786610f35e552e49ea93f8",
+      "crc32": "b138075d",
+      "sha1": "597f056e8b67ab8ed623381c7f5d01692350552c",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-24T13:13:57.711266-04:00.jpg",
+      "source": "original",
+      "mtime": "1666631644",
+      "size": "274124",
+      "md5": "8b199c54ae6943203e7493e08e9af399",
+      "crc32": "0ddee513",
+      "sha1": "838c62856210b838b331ca30aa9a3dc1763cd8c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-24T13:13:57.711266-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666631650",
+      "size": "1558",
+      "md5": "3394780fe58e2b52b16a60f96ce31a5e",
+      "crc32": "10f8eac0",
+      "sha1": "4212befb9785057e6f6f9c52e1f19b42d28e2e0e",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-24T13:13:57.711266-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666631651",
+      "size": "12872",
+      "md5": "6c9e589b74fb4664789b2d979d8b65cd",
+      "crc32": "564548a6",
+      "sha1": "b668a69159fb82d1d553f9870c05c102716494f6",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-24T13:13:57.711266-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtnstspotlight-2022-10-24T13:13:57.711266-04:00.jpg",
+      "mtime": "1666631727",
+      "size": "9556",
+      "md5": "11691d7356204e8f9927bd5be5678c9b",
+      "crc32": "42907586",
+      "sha1": "1229e90c69e0889ed50d709067d941e424a5b01b"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T02:42:55.206112-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666680183",
+      "size": "9924",
+      "md5": "8b81be7078bb49b6c4d6fda002f4daa1",
+      "crc32": "b7d1c578",
+      "sha1": "165546e111bb4a9a8c2f025adcad70056ed75fb5",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T02:42:55.206112-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666680185",
+      "size": "11006",
+      "md5": "3a0fd6863d786610f35e552e49ea93f8",
+      "crc32": "b138075d",
+      "sha1": "597f056e8b67ab8ed623381c7f5d01692350552c",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T02:42:55.206112-04:00.jpg",
+      "source": "original",
+      "mtime": "1666680181",
+      "size": "274124",
+      "md5": "8b199c54ae6943203e7493e08e9af399",
+      "crc32": "0ddee513",
+      "sha1": "838c62856210b838b331ca30aa9a3dc1763cd8c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T02:42:55.206112-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666680186",
+      "size": "1557",
+      "md5": "b8f30934b9241254c857a88deb97a3f0",
+      "crc32": "e0cf39d9",
+      "sha1": "534ca1f7e5dd3fc04bd685ca7fe27137db2f1e02",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T02:42:55.206112-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666680188",
+      "size": "13203",
+      "md5": "fe9f01e364bf059591badc767323f01a",
+      "crc32": "824fbfd9",
+      "sha1": "4b051acc2a769e3df1c6043e488b17b79d8222c4",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T02:42:55.206112-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtnstspotlight-2022-10-25T02:42:55.206112-04:00.jpg",
+      "mtime": "1666682140",
+      "size": "9556",
+      "md5": "11691d7356204e8f9927bd5be5678c9b",
+      "crc32": "42907586",
+      "sha1": "1229e90c69e0889ed50d709067d941e424a5b01b"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T13:08:57.413490-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717745",
+      "size": "9924",
+      "md5": "8b81be7078bb49b6c4d6fda002f4daa1",
+      "crc32": "b7d1c578",
+      "sha1": "165546e111bb4a9a8c2f025adcad70056ed75fb5",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T13:08:57.413490-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717748",
+      "size": "11006",
+      "md5": "3a0fd6863d786610f35e552e49ea93f8",
+      "crc32": "b138075d",
+      "sha1": "597f056e8b67ab8ed623381c7f5d01692350552c",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T13:08:57.413490-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717744",
+      "size": "274124",
+      "md5": "8b199c54ae6943203e7493e08e9af399",
+      "crc32": "0ddee513",
+      "sha1": "838c62856210b838b331ca30aa9a3dc1763cd8c7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T13:08:57.413490-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717750",
+      "size": "1558",
+      "md5": "8264ef10ac10acdcfe35cb0ebbdd317c",
+      "crc32": "4a64b4db",
+      "sha1": "3bca1a20b5577f9a2fd1aa9e434d4ca560b220b9",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T13:08:57.413490-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717754",
+      "size": "12860",
+      "md5": "505ce95b561bf9b9ab02cd67c2c5dc08",
+      "crc32": "f401db99",
+      "sha1": "3466bcad2edd4c83a31ef351f5f5e3a045af2736",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-10-25T13:08:57.413490-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtnstspotlight-2022-10-25T13:08:57.413490-04:00.jpg"
+    },
+    {
       "name": "mtnstspotlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "feafe2d93b5849b1d8e42f47dc2d5a3ddaa4908c",
-      "mtime": "1666590219",
-      "size": "318156",
-      "md5": "488d8d74a793d236a8976173c2aa3a2f",
-      "crc32": "12eba419",
-      "sha1": "86f9b640733b39e6f7b19f4de4538520c1d41740",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "7d40e84abe6d485bab115e0c23637bf8307a4e08",
+      "mtime": "1666717811",
+      "size": "321832",
+      "md5": "a4e88d2db59d89e45e8733a168e91456",
+      "crc32": "4f6b7709",
+      "sha1": "793b6b310a3eca203abcd81c6d65e3d1af024e0b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtnstspotlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "04ef117fb31738f50a5029a32f9c1557",
-=======
-      "md5": "faeb9354dd2bc8e386445b0e64d16e8e",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "18856fb5a226189cfd1256672d358ae9",
       "summation": "md5"
     },
     {
       "name": "mtnstspotlight-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666332292",
-      "size": "1789952",
-      "md5": "9af2a2b52660437be94c80fafdf2d5af",
-      "crc32": "84f3ef32",
-      "sha1": "304ba674d61c6ba883def8a0e686783576cb4e28",
-=======
-      "mtime": "1666590110",
-      "size": "1839104",
-      "md5": "98413981991d70c0e5832abba36faa24",
-      "crc32": "713f8269",
-      "sha1": "465558439cdb2da3a86da1427dfbf2465e87f6b3",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666717759",
+      "size": "1859584",
+      "md5": "5a61c829be41466da651e660f99243b3",
+      "crc32": "71ea0ce8",
+      "sha1": "71dbcee1433d2f706bac34a268c8dd5e5c461005",
       "format": "Metadata"
     },
     {
@@ -15325,15 +15480,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1437,
-  "item_last_updated": 1666332395,
-  "item_size": 79578538,
-=======
-  "files_count": 1473,
-  "item_last_updated": 1666590219,
-  "item_size": 81443376,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1491,
+  "item_last_updated": 1666717811,
+  "item_size": 82415414,
   "metadata": {
     "identifier": "mtnstspotlight-2022",
     "collection": [
@@ -15350,20 +15499,21 @@
     "publicdate": "2022-06-18 21:04:13",
     "addeddate": "2022-06-18 21:04:13"
   },
-<<<<<<< HEAD
-  "mtnstspotlight-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 792506115,
-=======
-  "server": "ia601408.us.archive.org",
-  "uniq": 1270840856,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451841234,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1296709087,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

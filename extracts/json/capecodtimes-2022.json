@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666326935,
-=======
-  "created": 1666627041,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666712954,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/16/items/capecodtimes-2022",
@@ -3802,16 +3798,6 @@
       "sha1": "5cd67ab6606792a2d7dfe10264c2eeb3486614dd"
     },
     {
-<<<<<<< HEAD
-      "name": "capecodtimes-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "f65af26fe9e1f39463f537b9dd5fc55368bd6e06",
-      "mtime": "1666326923",
-      "size": "80078",
-      "md5": "169e02f36fea0b8e57882e23d335ff6e",
-      "crc32": "78e34d31",
-      "sha1": "066c140fbad48fa9bbc382fb1bb92ef25565ba24",
-=======
       "name": "capecodtimes-2022-10-21T12:47:54.763826-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666370879",
@@ -4246,44 +4232,144 @@
       "sha1": "0c9107f00a27383d5bf87d8d4ac9bf4a37abd2e1"
     },
     {
+      "name": "capecodtimes-2022-10-25T02:29:15.354194-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666679360",
+      "size": "22469",
+      "md5": "e207e2e751ac3765d11cc5ad0ffd090b",
+      "crc32": "def592f9",
+      "sha1": "2379352bb416db341cd8d17f112064f9e2e943b2",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T02:29:15.354194-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666679362",
+      "size": "39429",
+      "md5": "fb0b50d180113a1990a14427b11a3eb9",
+      "crc32": "5312f37b",
+      "sha1": "745bc2f3f2f76ed5c1e47e46cdcc860085ef0317",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T02:29:15.354194-04:00.jpg",
+      "source": "original",
+      "mtime": "1666679358",
+      "size": "232928",
+      "md5": "62c9c5481ff88a894be83960762f7bd4",
+      "crc32": "c427e323",
+      "sha1": "f50f35cb8d89308f296684f95061f36438f9cc14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T02:29:15.354194-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666679363",
+      "size": "1513",
+      "md5": "ea1bd6b7baf329fcad1d8dbced943bbf",
+      "crc32": "5ec01514",
+      "sha1": "779af7ea538ac20e9cecb57831f9082e5270ce8c",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T02:29:15.354194-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666679365",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T02:29:15.354194-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capecodtimes-2022-10-25T02:29:15.354194-04:00.jpg",
+      "mtime": "1666681598",
+      "size": "8726",
+      "md5": "78f716bbed83098fc7e94dd16a7ce3ff",
+      "crc32": "d41905ae",
+      "sha1": "10d42733c0878f0ad9299d5d5df657f587265330"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T11:48:18.563909-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712901",
+      "size": "21648",
+      "md5": "8ecfe96117a8901683b7620e2fe37c46",
+      "crc32": "fa8113cd",
+      "sha1": "ca2a14a2073e0dd7e1f0b8a824e01492594d8234",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T11:48:18.563909-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712902",
+      "size": "29207",
+      "md5": "6f20b4f3d0654ba188dda747146e0c9e",
+      "crc32": "2ee4a4ae",
+      "sha1": "63940e95379bb18518e59815138c8256e2e0e842",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T11:48:18.563909-04:00.jpg",
+      "source": "original",
+      "mtime": "1666712899",
+      "size": "253102",
+      "md5": "81d3c85609721dac9a0e33d9fe823fc4",
+      "crc32": "a52fa866",
+      "sha1": "55a090fb4091001adf3b8c0f7699dbd220848b40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T11:48:18.563909-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712904",
+      "size": "1513",
+      "md5": "ab67aacea52c2a01151ab4d3f69e57d6",
+      "crc32": "3e27337b",
+      "sha1": "827158258e04c9c0368b9115258ed2c4951dc782",
+      "format": "JSON"
+    },
+    {
+      "name": "capecodtimes-2022-10-25T11:48:18.563909-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712905",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "capecodtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "14b0ccf79bd2e964399e6dbfe7012528d6cd089e",
-      "mtime": "1666627034",
-      "size": "89095",
-      "md5": "4a68651fa1a23a35ea234a9d6bee97b1",
-      "crc32": "aa999c90",
-      "sha1": "76ec4dc71b31264cf6e5c439426cdfab1990e443",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "dab147483da337dd592be7aab551b77fa8c5ac2f",
+      "mtime": "1666712950",
+      "size": "91465",
+      "md5": "11e926981c8349e754ad01781ac5f3a8",
+      "crc32": "59486311",
+      "sha1": "0c2f92d65d9d744d1dbe0891bcd8b0bb625cfb29",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capecodtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "86c425e90962273f7af2d33e458aaaf5",
-=======
-      "md5": "4e0d1f7106db886ee3d9030f140e0b33",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "367065727cf3e10d7cd109e132ad7d14",
       "summation": "md5"
     },
     {
       "name": "capecodtimes-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666326859",
-      "size": "491520",
-      "md5": "d2af3cf0bc5aed85ccd2da08f3e10139",
-      "crc32": "8a6c88ff",
-      "sha1": "e34304ab29b79e56e93334b307a61be28584bd7e",
-=======
-      "mtime": "1666626976",
-      "size": "540672",
-      "md5": "dcfdec10a3ec033ac86da3f89c4a4bc6",
-      "crc32": "284c8e32",
-      "sha1": "25d649f0b5efcbb9154e7e634ee0b3430bd77d60",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666712910",
+      "size": "557056",
+      "md5": "d963e6c2498ee9e93c65cf62e5b7c115",
+      "crc32": "5db58b51",
+      "sha1": "a210421e7f9f29c37a10a669f5e32c9e36d0e79a",
       "format": "Metadata"
     },
     {
@@ -4297,15 +4383,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 371,
-  "item_last_updated": 1666326923,
-  "item_size": 24681702,
-=======
-  "files_count": 413,
-  "item_last_updated": 1666627034,
-  "item_size": 27823294,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 424,
+  "item_last_updated": 1666712950,
+  "item_size": 28452987,
   "metadata": {
     "identifier": "capecodtimes-2022",
     "collection": [
@@ -4322,18 +4402,21 @@
     "publicdate": "2022-09-21 04:39:34",
     "addeddate": "2022-09-21 04:39:34"
   },
-<<<<<<< HEAD
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 1283937208,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451773421,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 512651964,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
-=======
-  "server": "ia801506.us.archive.org",
-  "uniq": 30685517,
-  "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

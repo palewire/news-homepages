@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
-  "created": 1666332422,
-=======
-  "created": 1666590149,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "conflict": 1666718437,
+  "created": 1666717843,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/10/items/milforddaily-2022",
@@ -3864,16 +3861,6 @@
       "sha1": "630c5eab16458999f92491a8034494c373fdd6db"
     },
     {
-<<<<<<< HEAD
-      "name": "milforddaily-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "3045e9c13b45d7db9cd4e88a0f35b6c8c4828e4f",
-      "mtime": "1666332403",
-      "size": "81475",
-      "md5": "bf93bcab832dec3454224863d9836aaf",
-      "crc32": "2ff7d2b0",
-      "sha1": "e0a6879579d601c9d87bab5180deb3b0d9a2de94",
-=======
       "name": "milforddaily-2022-10-21T14:32:36.709995-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666377161",
@@ -4246,44 +4233,206 @@
       "sha1": "535012b5f702da8bafc4be18f5acb09c66e56937"
     },
     {
+      "name": "milforddaily-2022-10-24T13:13:39.708809-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666631624",
+      "size": "26302",
+      "md5": "f3f15197ca8ae170296962fd98e5105e",
+      "crc32": "15628ba6",
+      "sha1": "6b448cc047e5c20c71edc1715169e8bf9d3f2aea",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-24T13:13:39.708809-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666631626",
+      "size": "48601",
+      "md5": "626909994f2a859f7c92c7c1a5fb7c00",
+      "crc32": "3c527926",
+      "sha1": "887d0192695289b5b8e87f1247369d0da50605a5",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-24T13:13:39.708809-04:00.jpg",
+      "source": "original",
+      "mtime": "1666631623",
+      "size": "251444",
+      "md5": "60d49dd9b7d14917ba578df597f34c37",
+      "crc32": "6be8194d",
+      "sha1": "0e5e68cf43f8d7270cafebd1428bf6e1cdce87b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "milforddaily-2022-10-24T13:13:39.708809-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666631627",
+      "size": "1549",
+      "md5": "313e9d2cf58f461788cdf792fb5583fb",
+      "crc32": "7d1c80b3",
+      "sha1": "814daf15aea26f3a8c78d74a4a4c60b09a4ab089",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-24T13:13:39.708809-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666631634",
+      "size": "83034",
+      "md5": "f7980b3025d3a563a832347e73b3a004",
+      "crc32": "3a3b73b5",
+      "sha1": "13ff71c45a9b750cef72f8550263dbd48ee341df",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-24T13:13:39.708809-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "milforddaily-2022-10-24T13:13:39.708809-04:00.jpg",
+      "mtime": "1666631698",
+      "size": "9195",
+      "md5": "6835cdd843324c3e7253b7ef7711d659",
+      "crc32": "bff00a66",
+      "sha1": "3cbe1ada44c050415e81034df9f991805d4879ad"
+    },
+    {
+      "name": "milforddaily-2022-10-25T02:42:25.987856-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666680169",
+      "size": "27553",
+      "md5": "d410819aaeb0c101f0f4990613e53434",
+      "crc32": "a05b5609",
+      "sha1": "7c73e1920585c869061478bb5d66478a21089da1",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-25T02:42:25.987856-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666680171",
+      "size": "53877",
+      "md5": "8362294c8ab4f6e56a1ae2dee8555fb4",
+      "crc32": "8fd06392",
+      "sha1": "e44ec5cbf87e21aa0b4093bc3e93e9fb5c7f8e21",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-25T02:42:25.987856-04:00.jpg",
+      "source": "original",
+      "mtime": "1666680167",
+      "size": "258509",
+      "md5": "c5a286ed7671a1decaac57500edc46da",
+      "crc32": "7d56822f",
+      "sha1": "06a999a8e8252dbcdad3fce4880fe6f55bb4db25",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "milforddaily-2022-10-25T02:42:25.987856-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666680172",
+      "size": "1549",
+      "md5": "637a752e3a9aaf13bbebf16f7e24979b",
+      "crc32": "aced2068",
+      "sha1": "0872f2126577e0159d9ebbe103be111ee2e411cf",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-25T02:42:25.987856-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666680174",
+      "size": "326703",
+      "md5": "26af2228802b05fff8f774ca364d3a21",
+      "crc32": "13212c2c",
+      "sha1": "77d2220cafdbd317268fa56733789b3d8534c2ac",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-25T02:42:25.987856-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "milforddaily-2022-10-25T02:42:25.987856-04:00.jpg",
+      "mtime": "1666682113",
+      "size": "9082",
+      "md5": "b5e1a3570e15e79fe9ac0a3cb8995be1",
+      "crc32": "fa218313",
+      "sha1": "acea2ebddc811251baa1c7383bf6955e56cefb0f"
+    },
+    {
+      "name": "milforddaily-2022-10-25T13:08:41.014571-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666717770",
+      "size": "27259",
+      "md5": "8348f29c6ed2583ee97e10cd232513eb",
+      "crc32": "650fcb66",
+      "sha1": "cb16aa726d14082d482c944ceb3b7972f5653d6b",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-25T13:08:41.014571-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666717772",
+      "size": "53679",
+      "md5": "b41eaca9724ee89db1fb1f0088a38faf",
+      "crc32": "31f6eb76",
+      "sha1": "d2921bad1e4c3e958145e6cfdbff95773f397c1c",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-25T13:08:41.014571-04:00.jpg",
+      "source": "original",
+      "mtime": "1666717732",
+      "size": "248622",
+      "md5": "f2274e3d352eb97d52a1b73524c64b42",
+      "crc32": "7c034665",
+      "sha1": "992939e8365178bc4ce8bc2d102798633260965c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "milforddaily-2022-10-25T13:08:41.014571-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666717775",
+      "size": "1549",
+      "md5": "0674642b04108590cf5d89ab359102fb",
+      "crc32": "cd5e4bd7",
+      "sha1": "4c904be6f3f464e412ca8068ffbb32b0a5ff60e1",
+      "format": "JSON"
+    },
+    {
+      "name": "milforddaily-2022-10-25T13:08:41.014571-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666717777",
+      "size": "74973",
+      "md5": "e351fd0f27b8ebd14c57eac99af2384d",
+      "crc32": "fd9fa550",
+      "sha1": "00cbc83ce5a82fa03a398f5bb4e27d3ed6dadf32",
+      "format": "JSON"
+    },
+    {
       "name": "milforddaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92a87a27b8a832f65cde7d5c7cd5484853e8aa19",
-      "mtime": "1666590134",
-      "size": "89198",
-      "md5": "9dd181708713616614d86467669d8497",
-      "crc32": "ab700fc5",
-      "sha1": "9fbff71f7794b7c2a22492751e364c61519d826b",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "ee66dfc76eefb80aa3e6d4241f2c35c3563d711e",
+      "mtime": "1666717834",
+      "size": "92864",
+      "md5": "6bc7a50708cad4cd7af0a7afaf71118c",
+      "crc32": "48f0570f",
+      "sha1": "f4f9d492bd22d1d3427214ff0632363a91cfa5b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "milforddaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "b7e8f384ffed0d00e683f00d233b9665",
-=======
-      "md5": "f674d1ad4901986226454d6b0ebcdefa",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "f934aaf5731353eccf2c87b9eb21e7d2",
       "summation": "md5"
     },
     {
       "name": "milforddaily-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666332334",
-      "size": "499712",
-      "md5": "9ce6926a630716b19422144a15e587b8",
-      "crc32": "c9a61586",
-      "sha1": "24e8f1c44a87ae02a23a6c12c9afb511d00d6ce4",
-=======
-      "mtime": "1666590072",
-      "size": "540672",
-      "md5": "bd71ba3f2073eb80f4d63bb81347fe05",
-      "crc32": "0241556b",
-      "sha1": "a3359a7d96c63a51e85d1159e1184402d68e40bd",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666717787",
+      "size": "569344",
+      "md5": "4bb45fc0bf71602ee9a8a5ed3f1b0261",
+      "crc32": "c396ffcc",
+      "sha1": "e44a63f3e8ec23a5296c1024f87d8fde7e73c91e",
       "format": "Metadata"
     },
     {
@@ -4297,15 +4446,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 377,
-  "item_last_updated": 1666332403,
-  "item_size": 27336247,
-=======
-  "files_count": 413,
-  "item_last_updated": 1666590134,
-  "item_size": 29869616,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 430,
+  "item_last_updated": 1666717834,
+  "item_size": 31405434,
   "metadata": {
     "identifier": "milforddaily-2022",
     "collection": [
@@ -4322,14 +4465,21 @@
     "publicdate": "2022-09-20 17:36:01",
     "addeddate": "2022-09-20 17:36:01"
   },
+  "pending_tasks": true,
   "server": "ia801407.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 259538855,
-=======
-  "uniq": 16688705,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451841661,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1176001649,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia801407.us.archive.org"
   ]
 }

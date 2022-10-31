@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666309575,
-=======
-  "created": 1666612948,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666702015,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/31/items/fox29philly-2022",
@@ -12956,16 +12952,6 @@
       "sha1": "acd3c16598f5eaccf13829658bb1966c0b5f921c"
     },
     {
-<<<<<<< HEAD
-      "name": "fox29philly-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "a00534bbb3d20413b0134f9d9c6b3fcb788d01f7",
-      "mtime": "1666309565",
-      "size": "268741",
-      "md5": "57481610ac1af81635bab9e77247d3d0",
-      "crc32": "9ce267d1",
-      "sha1": "39e6ba916368621356ad94c1c526ee466353a6d8",
-=======
       "name": "fox29philly-2022-10-21T08:18:43.896148-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666354733",
@@ -13400,44 +13386,155 @@
       "sha1": "f439811873f540136e42b4ecdbf147243aeaa3b9"
     },
     {
+      "name": "fox29philly-2022-10-24T20:05:23.200004-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666656327",
+      "size": "38517",
+      "md5": "e56a77da7b24193ea1813003db133a4f",
+      "crc32": "507d73b8",
+      "sha1": "538d33733a9617cdbae55f34d261b5d196b26e96",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-10-24T20:05:23.200004-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666656328",
+      "size": "37128",
+      "md5": "e93c5b5be8ec6a56ece50fc21a6da5c0",
+      "crc32": "a0bd7923",
+      "sha1": "9ec3d90344c753c58ef6d547e4209b20619de9f9",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-10-24T20:05:23.200004-04:00.jpg",
+      "source": "original",
+      "mtime": "1666656324",
+      "size": "346163",
+      "md5": "b6eca4d87fbc24c9a92d6b8dedbbafd1",
+      "crc32": "90935f25",
+      "sha1": "b04d23e9d4f413506668cddcfca3b7b3585ee1c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox29philly-2022-10-24T20:05:23.200004-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666656330",
+      "size": "1450",
+      "md5": "e760c04c1c24bf4198d9e7d8b1f795e4",
+      "crc32": "4923c616",
+      "sha1": "28f791e4607b0ef276498d9c28aa9304d5301f28",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-10-24T20:05:23.200004-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666656332",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-10-24T20:05:23.200004-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox29philly-2022-10-24T20:05:23.200004-04:00.jpg",
+      "mtime": "1666656780",
+      "size": "10737",
+      "md5": "336c0d93992727d1191033e10cdeda5a",
+      "crc32": "609e0457",
+      "sha1": "fc49d06d8e2b7e140fee446150d05638645931b6"
+    },
+    {
+      "name": "fox29philly-2022-10-25T08:06:47.576892-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699622",
+      "size": "38417",
+      "md5": "b891a15f7367a4d06c45acb91485a137",
+      "crc32": "2238c104",
+      "sha1": "32033c07ef6f5e75108475a8a3d15e86fe9ebff7",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-10-25T08:06:47.576892-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699624",
+      "size": "37397",
+      "md5": "6aa545e19f664458bbc3c1491cb79905",
+      "crc32": "a8d41cad",
+      "sha1": "bb3c579df921aaf90d81f4ea7bb6055bb9bd2f53",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-10-25T08:06:47.576892-04:00.jpg",
+      "source": "original",
+      "mtime": "1666699620",
+      "size": "377923",
+      "md5": "5fc07c47be0391d0c0b468fec3308907",
+      "crc32": "2b8ac0d6",
+      "sha1": "e9b76c95c16b6f1f28906a7885c281af55af7d41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox29philly-2022-10-25T08:06:47.576892-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699625",
+      "size": "1450",
+      "md5": "779868d985560d778f0093322183b2aa",
+      "crc32": "53e2859d",
+      "sha1": "6623864280010c985ce843677798618e630f037e",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-10-25T08:06:47.576892-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699627",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "fox29philly-2022-10-25T08:06:47.576892-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox29philly-2022-10-25T08:06:47.576892-04:00.jpg",
+      "mtime": "1666701907",
+      "size": "10933",
+      "md5": "af44408da71b4cc6f70cf24bcc7fc821",
+      "crc32": "fb3c3cc2",
+      "sha1": "551e7664ec11563b02c95ae7a7f86cb1000beee7"
+    },
+    {
       "name": "fox29philly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "984fc19452a3caaff879634666753e7850c76e9c",
-      "mtime": "1666612933",
-      "size": "277715",
-      "md5": "23e39f5617bf9ce3e487409764498cc0",
-      "crc32": "26257634",
-      "sha1": "0d57e6b1e210a96432cf42e6516b094246aae99e",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "eab082aaf54f488b4b83ad67de8ab22ee64922dd",
+      "mtime": "1666701939",
+      "size": "280283",
+      "md5": "63abf0566bd8e7e914da033c68e2c950",
+      "crc32": "9bdebd7e",
+      "sha1": "d6ca8d314a024f67c8a367a66d7df421bf17295a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox29philly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "a43bf9aec882e52a09a68eaaad7c2dbc",
-=======
-      "md5": "9045cff662ff86d93a00b325789b5a52",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "c2ec187e18913b36e85d8d1780b78209",
       "summation": "md5"
     },
     {
       "name": "fox29philly-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666309488",
-      "size": "1576960",
-      "md5": "94419579044e581b24e50de723b7fad1",
-      "crc32": "b818bdd7",
-      "sha1": "3cef097f26e3c6831da2f9acf5d9d0044c2bd7ea",
-=======
-      "mtime": "1666612840",
-      "size": "1630208",
-      "md5": "bfd6d4166c26578258f0fd4b32485376",
-      "crc32": "6a00a4dd",
-      "sha1": "d7a701abd6ca7c914a43f0060a8ed4877b1306a5",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666699642",
+      "size": "1642496",
+      "md5": "6b1277786fa5b6a482cd804382043a39",
+      "crc32": "9cd96591",
+      "sha1": "c10d92f6135d0d7d64503ecf3c956cc8e19e724c",
       "format": "Metadata"
     },
     {
@@ -13451,15 +13548,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1253,
-  "item_last_updated": 1666309565,
-  "item_size": 104174616,
-=======
-  "files_count": 1295,
-  "item_last_updated": 1666612933,
-  "item_size": 107584918,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1307,
+  "item_last_updated": 1666701939,
+  "item_size": 108500293,
   "metadata": {
     "identifier": "fox29philly-2022",
     "collection": [
@@ -13477,11 +13568,7 @@
     "addeddate": "2022-07-03 15:52:47"
   },
   "server": "ia801501.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 1533777638,
-=======
-  "uniq": 1235727311,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "uniq": 255322504,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

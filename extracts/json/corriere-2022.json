@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666309366,
-=======
-  "created": 1666612660,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666701513,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/20/items/corriere-2022",
@@ -9000,16 +8996,6 @@
       "sha1": "f7e32f7cbf36c1abbcf594ed6440945770de4425"
     },
     {
-<<<<<<< HEAD
-      "name": "corriere-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "653d7122f66c33788182f06265a88d153546f540",
-      "mtime": "1666309357",
-      "size": "185493",
-      "md5": "c3c2facc7cef28fcf6da0fbfc01b6ae1",
-      "crc32": "9cbcce43",
-      "sha1": "287ba11834ec1d6bc8043969583b0f95b7c54509",
-=======
       "name": "corriere-2022-10-21T14:13:40.556514+02:00.accessibility.json",
       "source": "original",
       "mtime": "1666354440",
@@ -9444,44 +9430,155 @@
       "sha1": "00ee2418adbbdac21d9566a94cd338fbb1f18e24"
     },
     {
+      "name": "corriere-2022-10-25T01:58:56.510267+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666655940",
+      "size": "125695",
+      "md5": "af87ecaf8eb21679fcff36c554668c9d",
+      "crc32": "937ffab8",
+      "sha1": "bfb60a6d8e1e22a6f05bc7d938dcb43bc104992d",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T01:58:56.510267+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666655944",
+      "size": "208097",
+      "md5": "c1767d82f90c3a7ae48888104545e269",
+      "crc32": "a0143c23",
+      "sha1": "8ce559b9f9c88a4621a615d3a3314377f35be27b",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T01:58:56.510267+02:00.jpg",
+      "source": "original",
+      "mtime": "1666655938",
+      "size": "139103",
+      "md5": "ae28940238fb990ab9845b3c171fd1a6",
+      "crc32": "ed5c8a3b",
+      "sha1": "a1e2c768c31dfdee2d3fbd7cb9e73f0e2efc8e59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "corriere-2022-10-25T01:58:56.510267+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666655946",
+      "size": "1468",
+      "md5": "141ce41ba899417064d7c04a7b447653",
+      "crc32": "e0e8da80",
+      "sha1": "2c841087c90feb4a52b142ea549add043a6aebab",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T01:58:56.510267+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666655948",
+      "size": "29921",
+      "md5": "5820d4c51c103851623622e8350c5642",
+      "crc32": "46960b0b",
+      "sha1": "6cac46ff348da72765809be12e6ad0db86240638",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T01:58:56.510267+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "corriere-2022-10-25T01:58:56.510267+02:00.jpg",
+      "mtime": "1666656020",
+      "size": "7080",
+      "md5": "cbd9c420a63d28814340324f467bae36",
+      "crc32": "4b71c618",
+      "sha1": "b12d0eafb3aae469af39f9a59d71cebdfa28abe5"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699330",
+      "size": "132314",
+      "md5": "72d77e4d15066fe42e0822bdd8b1d877",
+      "crc32": "0a18cac5",
+      "sha1": "b473856d43ea38a4b06134ba33bc1740bd650180",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699332",
+      "size": "215202",
+      "md5": "1002274a38427f6780890f2660467792",
+      "crc32": "e2ada631",
+      "sha1": "92da9e2dd5d91a8333c6f011f9dab23f49852d98",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.jpg",
+      "source": "original",
+      "mtime": "1666699327",
+      "size": "140264",
+      "md5": "dcd1be6da8eda17779bdc0249a93309a",
+      "crc32": "dfdc97b6",
+      "sha1": "ba8dfaa25cf89b185e8cc0bfa3f63ca284ac2d1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699333",
+      "size": "1468",
+      "md5": "e5279a2397ec0ed1ccf9c7a0414f6737",
+      "crc32": "6412f59d",
+      "sha1": "681d2afded826ea3a336c1b580f7b99c46487f51",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699335",
+      "size": "39347",
+      "md5": "c7260f16e6011433fb5d158a11dcf3b1",
+      "crc32": "c2d7814d",
+      "sha1": "9565d3f14426655f84631e8b9db51fa7428d3017",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-10-25T14:01:55.921115+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "corriere-2022-10-25T14:01:55.921115+02:00.jpg",
+      "mtime": "1666701465",
+      "size": "7167",
+      "md5": "116f887e3b7e908b7324547327a026d1",
+      "crc32": "8b0e91f4",
+      "sha1": "140c6ed68290d2d6da816a472579ac2d218c0ac4"
+    },
+    {
       "name": "corriere-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8e13573313e895d517f45c2280a2061ad248c6a2",
-      "mtime": "1666612651",
-      "size": "194374",
-      "md5": "0f7508ef1fa9835e49e6591a97247ba3",
-      "crc32": "01ed1988",
-      "sha1": "c290b3e4424255f81bd0a114ba4049aba10fbb34",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "50acad9cab0bd799424b658e27e36725ba43bd33",
+      "mtime": "1666701497",
+      "size": "196912",
+      "md5": "78d7e21961cbea28d17087b788998bf8",
+      "crc32": "7eaa95a4",
+      "sha1": "9791d115bee91f9909c2157e098ee110153a4de2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "corriere-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "db5279ba793715fa2f9704a8361c8ec6",
-=======
-      "md5": "db9146cec1fdcb592f0940360b81bc4d",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "b1c4df223196efadde37e67685bcfefd",
       "summation": "md5"
     },
     {
       "name": "corriere-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666309296",
-      "size": "1118208",
-      "md5": "5a6cb5914f13424d0bcbbb39a69ccc72",
-      "crc32": "31666374",
-      "sha1": "2761d31d2b7381a12963355f8a13504daf4f38c3",
-=======
-      "mtime": "1666612588",
-      "size": "1171456",
-      "md5": "2dac6574978ae53c412d93fd017961c9",
-      "crc32": "e01570e1",
-      "sha1": "199ca17b4b44aa94b019c3c2c9b789dfba9a0aa9",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666699400",
+      "size": "1187840",
+      "md5": "a9a0684744e8991c3d8498c00d36684f",
+      "crc32": "0f682f5e",
+      "sha1": "42c0e21b01785c0305c440862bbef6c375377f21",
       "format": "Metadata"
     },
     {
@@ -9495,15 +9592,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 874,
-  "item_last_updated": 1666309357,
-  "item_size": 81404694,
-=======
-  "files_count": 916,
-  "item_last_updated": 1666612651,
-  "item_size": 85060551,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 928,
+  "item_last_updated": 1666701497,
+  "item_size": 86126599,
   "metadata": {
     "identifier": "corriere-2022",
     "collection": [
@@ -9521,11 +9612,7 @@
     "addeddate": "2022-08-11 00:42:02"
   },
   "server": "ia802500.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 2012274315,
-=======
-  "uniq": 81023692,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "uniq": 1374617894,
   "workable_servers": [
     "ia802500.us.archive.org",
     "ia902500.us.archive.org"

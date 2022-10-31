@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666296939,
-=======
-  "created": 1666593916,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666723644,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/theledger-2022",
@@ -3780,16 +3776,6 @@
       "sha1": "e1abd6bba41d5b2b066fb68259e16775016f7ae9"
     },
     {
-<<<<<<< HEAD
-      "name": "theledger-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "68c625100d9c2c287bab39696b5468dbf870df4b",
-      "mtime": "1666296923",
-      "size": "78603",
-      "md5": "2696fe09a2a902e021ce2e0e219633a6",
-      "crc32": "a1a740b0",
-      "sha1": "fc21e73a384a776ea96fc27feb24626661ff40ec",
-=======
       "name": "theledger-2022-10-21T03:34:32.162786-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666337677",
@@ -4224,44 +4210,206 @@
       "sha1": "ae0ebab3156e12761f87dd19def7d3c621eac651"
     },
     {
+      "name": "theledger-2022-10-24T14:20:50.786321-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666635658",
+      "size": "22482",
+      "md5": "c67d4e673c5e493b3a9feb7b281bf696",
+      "crc32": "7eff4364",
+      "sha1": "a8eea0e8bac8be8334926faae6d77c195db89480",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-24T14:20:50.786321-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666635660",
+      "size": "32493",
+      "md5": "0645b0c848fff8f99b22acc12ef2a630",
+      "crc32": "6d19d13c",
+      "sha1": "4c9fa307e51604fe396a76edc193d5c5ba32a5db",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-24T14:20:50.786321-04:00.jpg",
+      "source": "original",
+      "mtime": "1666635656",
+      "size": "245388",
+      "md5": "e3fa35e83c56b9ca1406ce621a6b5f78",
+      "crc32": "3d6d386b",
+      "sha1": "cb30aadd75e5a8b262b85e425d739bcd8c7affe1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theledger-2022-10-24T14:20:50.786321-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666635662",
+      "size": "1485",
+      "md5": "1fc975a6135efd4f0e10c08b1ef6d55b",
+      "crc32": "57baf365",
+      "sha1": "f1917c243995943673d1e6074d4f6679fa9d4465",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-24T14:20:50.786321-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666635664",
+      "size": "206",
+      "md5": "b18c28efc3be5a12eea6412fbc0cd012",
+      "crc32": "bbe4cc71",
+      "sha1": "8da3b3e5ee59e025afd92e9e3a6f97b774e12e41",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-24T14:20:50.786321-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theledger-2022-10-24T14:20:50.786321-04:00.jpg",
+      "mtime": "1666635851",
+      "size": "9053",
+      "md5": "d6e17901a6d039f8e8d6ba90f47d8bf4",
+      "crc32": "160266f0",
+      "sha1": "25413ae7cb9dd13ca841a6b3d1d01cff11bf9783"
+    },
+    {
+      "name": "theledger-2022-10-25T04:32:44.826560-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666686769",
+      "size": "22154",
+      "md5": "f75511e5107380beaf843410fad64580",
+      "crc32": "2a0fc6cc",
+      "sha1": "d3e3ea352937cde3771568bcf7f687a3756851ef",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T04:32:44.826560-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666686771",
+      "size": "29000",
+      "md5": "b9e91bee8140517eb1f7a0e63126923e",
+      "crc32": "52b450ed",
+      "sha1": "65c2f8c85864e5d8edb2743cb472efae4d0df318",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T04:32:44.826560-04:00.jpg",
+      "source": "original",
+      "mtime": "1666686768",
+      "size": "232138",
+      "md5": "3aeaf13a5a569426fd2156a881279b8b",
+      "crc32": "e1d63fe7",
+      "sha1": "aeb66fb4ad1a4d6b1a88491d8ebf1acc55a7e964",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theledger-2022-10-25T04:32:44.826560-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666686772",
+      "size": "1484",
+      "md5": "f167f3632a91a6a4afa51bc279fd7636",
+      "crc32": "855ffbd4",
+      "sha1": "dc5ecfee0caaaa582cda9100445c56610daa7654",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T04:32:44.826560-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666686773",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T04:32:44.826560-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theledger-2022-10-25T04:32:44.826560-04:00.jpg",
+      "mtime": "1666690216",
+      "size": "9255",
+      "md5": "44e9628bcfb48a8c2282fc4090915377",
+      "crc32": "6e34baa4",
+      "sha1": "6e4ed509244e71f92ee79eb1706a05988abb0818"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666723557",
+      "size": "20548",
+      "md5": "385afac17b8f42361b85af8055cb7814",
+      "crc32": "7ce35b54",
+      "sha1": "382e5788afaec98f70e962703b916421e90dc0f0",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666723559",
+      "size": "34103",
+      "md5": "18ba9728a9de17725432852ee499d203",
+      "crc32": "97c6b1fc",
+      "sha1": "bc77329b4d599ff554c87a2bc07e509a270bb346",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.jpg",
+      "source": "original",
+      "mtime": "1666723556",
+      "size": "264143",
+      "md5": "185d65df27b6cff9f06894737c220cd3",
+      "crc32": "20d800a3",
+      "sha1": "7c6b2f7c5ee9e4fcbd441f800872cbc4beee371c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666723561",
+      "size": "1485",
+      "md5": "e5ec29713f1eb55dc27f0ef2ddc081fb",
+      "crc32": "755e1e28",
+      "sha1": "9242864d731a845216e6461f76055d132e0e9895",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-10-25T14:45:51.704285-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666723562",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d36c17135954cccc07178634b5dd0f1b9508928",
-      "mtime": "1666593904",
-      "size": "87476",
-      "md5": "1f6017411d7a94463149b323f11c1297",
-      "crc32": "16f9bbbb",
-      "sha1": "56cc3a34d26de67fd530f0a7da7146eb5d52352c",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "efe046c9193a834eb09537e98c95ffa9de650e29",
+      "mtime": "1666723639",
+      "size": "91064",
+      "md5": "86be9d179d918d72ed5b633e8160c601",
+      "crc32": "479c978c",
+      "sha1": "195c94a45442f5a1ba5bbc8c422d80ab90ab4952",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "fd1725efcb1bd0410a567cad2839b65b",
-=======
-      "md5": "250344e26519ee93e3cc2d00bd4b0861",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "0b380a6abdd5dbb52553848d03e06e9d",
       "summation": "md5"
     },
     {
       "name": "theledger-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666296776",
-      "size": "483328",
-      "md5": "10bcc16b245dcdf961654b265a546d64",
-      "crc32": "80a0d88c",
-      "sha1": "b9f18dc766991f0a10e962399863957ddd13da08",
-=======
-      "mtime": "1666593844",
-      "size": "536576",
-      "md5": "5ddb9d2016f51a2973ccd7f053c72bc0",
-      "crc32": "ea1efb31",
-      "sha1": "443f57baf16110f2d282273a874b345c8a5bbc7e",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666723601",
+      "size": "557056",
+      "md5": "f222e5a42ead2189b29889171a624cd5",
+      "crc32": "dc05c8d5",
+      "sha1": "14fe96c465035e8b8987a796ef65ca6666bca67c",
       "format": "Metadata"
     },
     {
@@ -4275,15 +4423,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 369,
-  "item_last_updated": 1666296923,
-  "item_size": 25359464,
-=======
-  "files_count": 411,
-  "item_last_updated": 1666593904,
-  "item_size": 28231669,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 428,
+  "item_last_updated": 1666723639,
+  "item_size": 29181558,
   "metadata": {
     "identifier": "theledger-2022",
     "collection": [
@@ -4300,18 +4442,21 @@
     "publicdate": "2022-09-20 19:30:14",
     "addeddate": "2022-09-20 19:30:14"
   },
-<<<<<<< HEAD
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1620359634,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451973631,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 835185304,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
-=======
-  "server": "ia801408.us.archive.org",
-  "uniq": 1603091204,
-  "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

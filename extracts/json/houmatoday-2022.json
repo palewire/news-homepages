@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666358468,
-=======
-  "created": 1666616125,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666702881,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/15/items/houmatoday-2022",
@@ -3916,16 +3912,6 @@
       "sha1": "e8fe8e6c363d9e5d89e1e9ed4d729165db1dd94b"
     },
     {
-<<<<<<< HEAD
-      "name": "houmatoday-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "3b0af43f82b124330c94e54cd65e79c7aef11fca",
-      "mtime": "1666358450",
-      "size": "81774",
-      "md5": "17312ba8a43be43d5d6efcac244bc6be",
-      "crc32": "e8aca64d",
-      "sha1": "f36743468b707b49260239b7308e6744bc18724d",
-=======
       "name": "houmatoday-2022-10-21T20:07:49.533150-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666400874",
@@ -4298,44 +4284,144 @@
       "sha1": "3c749fa6f6b589ee3e4c609491234fe08e66e71f"
     },
     {
+      "name": "houmatoday-2022-10-24T20:30:11.916750-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666661416",
+      "size": "23245",
+      "md5": "c407e106a7a6a6771b6981eef8bc66a2",
+      "crc32": "85d83ed9",
+      "sha1": "107b304ff6eaa6ad5e038e7f34593d8dd33d8423",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-24T20:30:11.916750-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666661417",
+      "size": "38507",
+      "md5": "898d25eefb2386f6064c9c84debe58f8",
+      "crc32": "fbdb0f41",
+      "sha1": "8babd5ab941b6f83071d8e9ddf0699865c65e0b9",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-24T20:30:11.916750-05:00.jpg",
+      "source": "original",
+      "mtime": "1666661414",
+      "size": "251276",
+      "md5": "8a0bd99761d2afe855b0542c647c6af6",
+      "crc32": "0acf0cff",
+      "sha1": "0015acdaea4ca41d5b52d6299a3cd98a7cd6b72c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houmatoday-2022-10-24T20:30:11.916750-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666661419",
+      "size": "1494",
+      "md5": "44c0d6115e741f5e7e75fa5738041e4f",
+      "crc32": "e9371f82",
+      "sha1": "1a67bc803a02df581ff1f49a19368bc5df0d5f9c",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-24T20:30:11.916750-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666661421",
+      "size": "207",
+      "md5": "8ee027eebf591b67e0603a73d2514fdc",
+      "crc32": "b2bd11bf",
+      "sha1": "de6bfbc85ae2dd2d2c19541e611f49d4f3a3d2ee",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-24T20:30:11.916750-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houmatoday-2022-10-24T20:30:11.916750-05:00.jpg",
+      "mtime": "1666669886",
+      "size": "9317",
+      "md5": "92a67c84ec7340e96183f405857306c4",
+      "crc32": "a8acca70",
+      "sha1": "1f43bc94d7ae4135c8e80599002f07285ae174c9"
+    },
+    {
+      "name": "houmatoday-2022-10-25T08:00:24.977440-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666702831",
+      "size": "23125",
+      "md5": "7bd1964b51e74f7587a209d85da5a0e4",
+      "crc32": "47d29e8a",
+      "sha1": "be2f0e3df808b5679da0289ae70209cb55cc22f8",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-25T08:00:24.977440-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666702832",
+      "size": "29902",
+      "md5": "cd167317326441d7dc357128bfef2047",
+      "crc32": "c0a48238",
+      "sha1": "23006d7eaf621d6f97572dc82038dc007a012661",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-25T08:00:24.977440-05:00.jpg",
+      "source": "original",
+      "mtime": "1666702829",
+      "size": "241122",
+      "md5": "a43d7c7725387ac9014d99e5b03a6b66",
+      "crc32": "1aa08075",
+      "sha1": "0988668c035bdbdcc3be82f94036409b09379df3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "houmatoday-2022-10-25T08:00:24.977440-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666702834",
+      "size": "1495",
+      "md5": "4f5a5ad9ea27558d7926cabca3ae04e2",
+      "crc32": "1c3b5b19",
+      "sha1": "cd61b4921c62cb76818bfff7927975a13a35aa0b",
+      "format": "JSON"
+    },
+    {
+      "name": "houmatoday-2022-10-25T08:00:24.977440-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666702835",
+      "size": "207",
+      "md5": "855b7129ae784216c2640e52a8f898c3",
+      "crc32": "cda2e182",
+      "sha1": "5d19e16531c372cec5a102b2eee22f86b0c9f828",
+      "format": "JSON"
+    },
+    {
       "name": "houmatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b508dd8b2e65a560480cb543eac0396b73fc00e",
-      "mtime": "1666616116",
-      "size": "89428",
-      "md5": "c8e84039ff6c4673275634d2f78e000c",
-      "crc32": "b0e8758f",
-      "sha1": "22bb36047798647a9fe7eab4dfec1887c3d96db7",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "474fafd7b6acca8429d548072ae922bf1b819c03",
+      "mtime": "1666702877",
+      "size": "91756",
+      "md5": "7bcb2b4d85f98a94bd02d5f450f55361",
+      "crc32": "07f2d651",
+      "sha1": "146c14cd4d145b5cf1657b030fdd8511c3c424d6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houmatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "0efdb34f5b9c00d925a55a0eaed17a2c",
-=======
-      "md5": "98087c82df42081887c9ea1ccb5f0419",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "7ba10eae5001751de8d61cef1e41d27d",
       "summation": "md5"
     },
     {
       "name": "houmatoday-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666358378",
-      "size": "503808",
-      "md5": "0210ecb22908bc50ccb6c564be018fb1",
-      "crc32": "37a8a00f",
-      "sha1": "63d8326cc0ce2694b33b1deca5f64b16f70a1b15",
-=======
-      "mtime": "1666616055",
-      "size": "544768",
-      "md5": "3c5c6f3f9ac680575c0ce9c83aa30fb0",
-      "crc32": "ea8b9386",
-      "sha1": "449ec1d7ea9cbdc9ca85d652430da86c44749847",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666702840",
+      "size": "557056",
+      "md5": "786c69308e5e9e594c7ef6c5f5e0ef4f",
+      "crc32": "1153cba7",
+      "sha1": "f5a7f4ad5b64dca54c3692622ddad6927e53096e",
       "format": "Metadata"
     },
     {
@@ -4349,15 +4435,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 382,
-  "item_last_updated": 1666358450,
-  "item_size": 26874984,
-=======
-  "files_count": 418,
-  "item_last_updated": 1666616116,
-  "item_size": 29554288,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 429,
+  "item_last_updated": 1666702877,
+  "item_size": 30188801,
   "metadata": {
     "identifier": "houmatoday-2022",
     "collection": [
@@ -4374,14 +4454,21 @@
     "publicdate": "2022-09-20 22:19:46",
     "addeddate": "2022-09-20 22:19:46"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 510126628,
-=======
-  "uniq": 1881923541,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451666298,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2027473971,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

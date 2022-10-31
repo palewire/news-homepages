@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666366130,
-=======
-  "created": 1666624162,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666709571,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/26/items/theleftbench-2022",
@@ -3336,16 +3332,6 @@
       "format": "JSON"
     },
     {
-<<<<<<< HEAD
-      "name": "theleftbench-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "f6ae29221c7f59b370f94a2b29e3e76984d9210e",
-      "mtime": "1666366115",
-      "size": "70658",
-      "md5": "fe1e482065ebe73035d5e4ddad3e1c1e",
-      "crc32": "f6fd7fdb",
-      "sha1": "9392eafd95884ec1ef91dabb46ed45235f13a3ca",
-=======
       "name": "theleftbench-2022-10-21T23:28:55.978765-04:00.wayback.json",
       "source": "original",
       "mtime": "1666409337",
@@ -3406,44 +3392,51 @@
       "format": "JSON"
     },
     {
+      "name": "theleftbench-2022-10-24T23:56:26.064152-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666670187",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theleftbench-2022-10-25T10:52:08.200863-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666709529",
+      "size": "205",
+      "md5": "8bca03d8029b42c99db82a66b36a60b0",
+      "crc32": "bb2e1733",
+      "sha1": "6fdce2492310dc07659e39c2f35d37f311e685da",
+      "format": "JSON"
+    },
+    {
       "name": "theleftbench-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0111508410bc8ff2bce29bfa905728341ecbfb68",
-      "mtime": "1666624152",
-      "size": "71918",
-      "md5": "76ba21f6674754dff3428a05899f8d33",
-      "crc32": "17150a62",
-      "sha1": "b26777062f637f47cdad958842bfe5c688f58eb2",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "138f8b17ea722841cd1bcdc5953e8eb2d6408b6b",
+      "mtime": "1666709568",
+      "size": "72338",
+      "md5": "563eea82a07003e6f6bfd6277f011270",
+      "crc32": "d6b6aad8",
+      "sha1": "5bdc2b263b8d6c21c5cc159b731f7af190fb8072",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theleftbench-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "c67000caf3cd32c55ce8125067378d4c",
-=======
-      "md5": "4c5702174b575b3ec15ff2b90700acfe",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "3715007ca5681b5431e13a93402401d7",
       "summation": "md5"
     },
     {
       "name": "theleftbench-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666366081",
-      "size": "458752",
-      "md5": "d9b4eecbda72731b3953f7a8ab3d0a0a",
-      "crc32": "c612d1fe",
-      "sha1": "e8118f7088fa7d1416a80d6cae83e0b8134493ea",
-=======
-      "mtime": "1666624117",
+      "mtime": "1666709535",
       "size": "466944",
-      "md5": "dd1d68c40587fcc0092c04dce0d382f7",
-      "crc32": "8c5c9020",
-      "sha1": "03cfd65f966c86b97ec71b441da87c30b844709c",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "1c1b30d387db4ed32a1133157f47db38",
+      "crc32": "539867d1",
+      "sha1": "cb0d80ceb1b53860b884a22d6fdc783d365b2ed7",
       "format": "Metadata"
     },
     {
@@ -3457,15 +3450,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 329,
-  "item_last_updated": 1666366115,
-  "item_size": 17048310,
-=======
-  "files_count": 335,
-  "item_last_updated": 1666624152,
-  "item_size": 17059175,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 337,
+  "item_last_updated": 1666709568,
+  "item_size": 17060002,
   "metadata": {
     "identifier": "theleftbench-2022",
     "collection": [
@@ -3482,14 +3469,21 @@
     "publicdate": "2022-07-12 20:46:28",
     "addeddate": "2022-07-12 20:46:28"
   },
-  "server": "ia801401.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 1110030085,
-=======
-  "uniq": 1439731704,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451738892,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1729339757,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

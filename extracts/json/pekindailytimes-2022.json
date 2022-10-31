@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666365480,
-=======
-  "created": 1666620770,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666706297,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/18/items/pekindailytimes-2022",
@@ -3864,16 +3860,6 @@
       "sha1": "d1d7e80f1612024ce2d480e49f974197045df10b"
     },
     {
-<<<<<<< HEAD
-      "name": "pekindailytimes-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "e5a73c3a587047aa941a611c64fdcb679e945fc9",
-      "mtime": "1666365463",
-      "size": "82516",
-      "md5": "a5c33d40af49292af46592ca61c75095",
-      "crc32": "0904f5dd",
-      "sha1": "38a34f32c252931598c3cb316ef6dd71f01bab76",
-=======
       "name": "pekindailytimes-2022-10-21T21:11:41.966345-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666404706",
@@ -4246,44 +4232,144 @@
       "sha1": "38d6c4f393b6e33f2283fc6ad31ab04879eba222"
     },
     {
+      "name": "pekindailytimes-2022-10-24T21:46:55.915622-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666666021",
+      "size": "23254",
+      "md5": "a88c1725bcf22dabc218e5a8259ff61f",
+      "crc32": "4ee8cc08",
+      "sha1": "ad1420517aa382b54fb70593ac01815c56b1a972",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-24T21:46:55.915622-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666666023",
+      "size": "34787",
+      "md5": "6889250df7f9d317cf8f48e36646c804",
+      "crc32": "3efd4872",
+      "sha1": "5c492ec5964b7f5f08c2dec017006478a162183a",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-24T21:46:55.915622-05:00.jpg",
+      "source": "original",
+      "mtime": "1666666020",
+      "size": "285080",
+      "md5": "9607b7f39afb229deb2e0c696b65dfda",
+      "crc32": "e6f9db92",
+      "sha1": "0cb2907b2d6ce95bb3c7a914a0b7b36d0b3ca27c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pekindailytimes-2022-10-24T21:46:55.915622-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666666024",
+      "size": "1494",
+      "md5": "2008d07098d115cc898da73ae8842de8",
+      "crc32": "97d28b19",
+      "sha1": "7912a304e14b693a6f8bdb87a975789ea64ba84a",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-24T21:46:55.915622-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666666026",
+      "size": "103",
+      "md5": "a1a8f168e413a169332b90e1659d779c",
+      "crc32": "f6656fe4",
+      "sha1": "28216051ebb6eb17a8fbeaa477c83b10e70016c1",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-24T21:46:55.915622-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pekindailytimes-2022-10-24T21:46:55.915622-05:00.jpg",
+      "mtime": "1666672750",
+      "size": "9386",
+      "md5": "ed7c59622d54e91c950c4de7a5a49613",
+      "crc32": "49f5ef61",
+      "sha1": "493b5ff73e18c420ee24342c4285337dfbd24f9b"
+    },
+    {
+      "name": "pekindailytimes-2022-10-25T08:57:13.292490-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666706236",
+      "size": "22959",
+      "md5": "5a7fae5df190898e6109d842bd381785",
+      "crc32": "e8901ea5",
+      "sha1": "ad664dbfcbb04bd8b2335f57f8b543efb47957f0",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-25T08:57:13.292490-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666706237",
+      "size": "31939",
+      "md5": "a128bb2eb3c4dfaf4787a22a2ca245f1",
+      "crc32": "472bf8e3",
+      "sha1": "35e45df13a936efeead6bfaa3a36853acbbfe8c8",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-25T08:57:13.292490-05:00.jpg",
+      "source": "original",
+      "mtime": "1666706234",
+      "size": "219188",
+      "md5": "503688eb694a2a31d5b372bada664f9e",
+      "crc32": "038574bf",
+      "sha1": "6025de4bc628ba2db9df729d279d47a2ef17e6a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pekindailytimes-2022-10-25T08:57:13.292490-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666706239",
+      "size": "1495",
+      "md5": "b8200611a187154d353872804804c2c6",
+      "crc32": "846cc421",
+      "sha1": "592f865d95e4a18e5e3be8cd41c875f0420e7d42",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-10-25T08:57:13.292490-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666706241",
+      "size": "112709",
+      "md5": "eebcf421fe595f04b8c8ec62971b4543",
+      "crc32": "13e464f4",
+      "sha1": "1a09d86f8ed2873531cd8ea85db9f3098ab5558c",
+      "format": "JSON"
+    },
+    {
       "name": "pekindailytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee66fe4adfa2f775cbb552a41703da5472e02d1d",
-      "mtime": "1666620708",
-      "size": "90345",
-      "md5": "cdd09aafaaed8ff49cbcb044bc1fe24d",
-      "crc32": "cd3ba90a",
-      "sha1": "995692bf8943720549a373eabbafa464ab61b3d5",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "e079c122014104a963941ade47fe11c9b94529bd",
+      "mtime": "1666706290",
+      "size": "92751",
+      "md5": "d23911d7b71f73a4dde4a613675c7fea",
+      "crc32": "3076eebc",
+      "sha1": "65249b2f09b16e3d56c68b87de1d3168f8d59458",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pekindailytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "2208241db2a2e60b9ed6abdd57fcc2c7",
-=======
-      "md5": "d0e8939139e9c8afb163ce9600da8625",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "8945541bc88e666e2c8ba45762cb9ad7",
       "summation": "md5"
     },
     {
       "name": "pekindailytimes-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666365367",
-      "size": "499712",
-      "md5": "a4b63b6be5e8140e5690ce32e87cf582",
-      "crc32": "0bfae730",
-      "sha1": "733d2915115c2c6fa8bb0e6998955501ebefae38",
-=======
-      "mtime": "1666620652",
-      "size": "548864",
-      "md5": "ac29c627225b8a39ae361725583d4317",
-      "crc32": "5142b391",
-      "sha1": "49152d238a3cd7829ac5f65d18f28fee59529a8a",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666706249",
+      "size": "561152",
+      "md5": "42859ba5a8dc428b686edc9607f5ae8e",
+      "crc32": "18667b16",
+      "sha1": "0f59b4f02fb6e9fe59f849eda33989d24c24f3c9",
       "format": "Metadata"
     },
     {
@@ -4297,15 +4383,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 377,
-  "item_last_updated": 1666365463,
-  "item_size": 25247336,
-=======
-  "files_count": 413,
-  "item_last_updated": 1666620708,
-  "item_size": 27696278,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 424,
+  "item_last_updated": 1666706290,
+  "item_size": 28453366,
   "metadata": {
     "identifier": "pekindailytimes-2022",
     "collection": [
@@ -4322,14 +4402,21 @@
     "publicdate": "2022-09-21 02:22:42",
     "addeddate": "2022-09-21 02:22:42"
   },
-  "server": "ia801502.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 381515998,
-=======
-  "uniq": 1858903381,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451703433,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 755020583,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666309459,
-=======
-  "created": 1666612790,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666701824,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/delawarepublic-2022",
@@ -12190,16 +12186,6 @@
       "sha1": "32957f05c3fd8b993c621cb8d051f2397a09298d"
     },
     {
-<<<<<<< HEAD
-      "name": "delawarepublic-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "aebccaf0291a6a22af70830e1a20decaecf22995",
-      "mtime": "1666309446",
-      "size": "255611",
-      "md5": "27e38b0f92cb73757745b244e657df1b",
-      "crc32": "3bb052aa",
-      "sha1": "586a7a8f1594d42f68c33528389fad230d3023c1",
-=======
       "name": "delawarepublic-2022-10-21T08:16:32.614338-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666354595",
@@ -12634,44 +12620,155 @@
       "sha1": "5acd21a98183f2e26ab3c072db9bf865b4ee6783"
     },
     {
+      "name": "delawarepublic-2022-10-24T19:58:47.514808-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666655931",
+      "size": "18323",
+      "md5": "5e19812aac3952944a26f027f16bad5e",
+      "crc32": "13f34c4b",
+      "sha1": "840178e3eca057d638af697f6d3833186c04c2ca",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-24T19:58:47.514808-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666655933",
+      "size": "28881",
+      "md5": "31163112dd66d74cacfe7940087f6982",
+      "crc32": "89aa2630",
+      "sha1": "09b6ecaa7aaa708a3c5548892ed051b30c3c1ba8",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-24T19:58:47.514808-04:00.jpg",
+      "source": "original",
+      "mtime": "1666655929",
+      "size": "243008",
+      "md5": "85759e137621062b872aef7fdb89bd50",
+      "crc32": "ce3460c4",
+      "sha1": "bcab393c21549029838d2ebda0e6a4e1e6cbb20e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawarepublic-2022-10-24T19:58:47.514808-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666655934",
+      "size": "1512",
+      "md5": "599226f93aa7f9e104702970939033e1",
+      "crc32": "08e387b2",
+      "sha1": "bd71e24bbec7212988195e288feb6fbd327a6e1a",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-24T19:58:47.514808-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666655936",
+      "size": "22083",
+      "md5": "a827670859a9ea8966c69ee377f1472c",
+      "crc32": "1326803d",
+      "sha1": "ff78b0888a62925c54db8d417c05e61b5221bdab",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-24T19:58:47.514808-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawarepublic-2022-10-24T19:58:47.514808-04:00.jpg",
+      "mtime": "1666656057",
+      "size": "10479",
+      "md5": "edc3f8ba6f4d02e27bbacd286821a3db",
+      "crc32": "62b481e2",
+      "sha1": "c9d56f19f3f61a48fa8e0b4e76512a5f49e55558"
+    },
+    {
+      "name": "delawarepublic-2022-10-25T08:04:00.759436-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699444",
+      "size": "16833",
+      "md5": "bf45aba08bad4f9c70a9cb6f06183c52",
+      "crc32": "793c32d7",
+      "sha1": "59f7fadd3b918eba1d7155d377b02d8846ac84cb",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-25T08:04:00.759436-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699446",
+      "size": "29026",
+      "md5": "d2616931e80cfe2e975246a6764c76cd",
+      "crc32": "f5795bd6",
+      "sha1": "ff6e66de8f8ebe98ad6f8238c58a1ce821f40942",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-25T08:04:00.759436-04:00.jpg",
+      "source": "original",
+      "mtime": "1666699442",
+      "size": "292309",
+      "md5": "386c84470be61a29d04ea44c8627cf9b",
+      "crc32": "37f58fb4",
+      "sha1": "e841ff8876c6c6518cc34c016b76e8ad598b91d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawarepublic-2022-10-25T08:04:00.759436-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699448",
+      "size": "1513",
+      "md5": "86b4ef52a34e5d77cf2efd10862769dd",
+      "crc32": "59d12e57",
+      "sha1": "2153dc575870201ae7dd6b7c446979fa4b029d94",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-25T08:04:00.759436-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699451",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-10-25T08:04:00.759436-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawarepublic-2022-10-25T08:04:00.759436-04:00.jpg",
+      "mtime": "1666701743",
+      "size": "10147",
+      "md5": "0f024f924df91fcc48cb958c12655d87",
+      "crc32": "e1a9c927",
+      "sha1": "8e8ca943ae91856e4e5084f8d7818f9cba1ca891"
+    },
+    {
       "name": "delawarepublic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8765e4365f1760cfb42fa9743dbb880ec56381f2",
-      "mtime": "1666612782",
-      "size": "264675",
-      "md5": "e489d05a4f6abe092c4e89f598076ca8",
-      "crc32": "169d3dfb",
-      "sha1": "8bd1f23b758f3cc1278f97feb963b7d3ffa86365",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "b001d5737737c563997483ae32285c6eed87fb13",
+      "mtime": "1666701768",
+      "size": "267281",
+      "md5": "b0a17a16ece7aa923d4fad547be6bd7c",
+      "crc32": "b12171e0",
+      "sha1": "b88582dc0acbc046cb7a47f3a7ac5e4ba709550a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawarepublic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "b16320280755b8a20ceeb64f5ec71a4f",
-=======
-      "md5": "1e7a06cf54f2852633d27f76b9c974b1",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "c1d171799a047ff31f2db118422e1c5e",
       "summation": "md5"
     },
     {
       "name": "delawarepublic-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666309363",
-      "size": "1495040",
-      "md5": "0cea996b30c4ded881fee31a5b7a66a0",
-      "crc32": "a1a9673a",
-      "sha1": "24380ac10d7c51aac998de80dfcd9b13795079b4",
-=======
-      "mtime": "1666612713",
-      "size": "1552384",
-      "md5": "973f6b86acc93b7c2d26a4a7917d5dfc",
-      "crc32": "3b26285b",
-      "sha1": "6c9f64770fbbad2caf4ff3e9fde3ca669102e6f6",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666699495",
+      "size": "1564672",
+      "md5": "94ff8a49348e9b0508cdffd57ec2849a",
+      "crc32": "60eb5f3a",
+      "sha1": "fc3b9136afef6b3b1ce51c7396ed9d72d9cbf8f0",
       "format": "Metadata"
     },
     {
@@ -12685,15 +12782,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1180,
-  "item_last_updated": 1666309446,
-  "item_size": 71416330,
-=======
-  "files_count": 1222,
-  "item_last_updated": 1666612782,
-  "item_size": 73636297,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1234,
+  "item_last_updated": 1666701768,
+  "item_size": 74325507,
   "metadata": {
     "identifier": "delawarepublic-2022",
     "collection": [
@@ -12710,18 +12801,10 @@
     "publicdate": "2022-07-09 03:58:05",
     "addeddate": "2022-07-09 03:58:05"
   },
-<<<<<<< HEAD
-  "server": "ia801500.us.archive.org",
-  "uniq": 918653648,
-  "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
-=======
   "server": "ia601500.us.archive.org",
-  "uniq": 412030363,
+  "uniq": 1076793712,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666326913,
-=======
-  "created": 1666627090,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666712967,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/callerdotcom-2022",
@@ -3802,16 +3798,6 @@
       "sha1": "690ebf0f72f5d73a30a3e7f811c024111c6a3ecf"
     },
     {
-<<<<<<< HEAD
-      "name": "callerdotcom-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "b15d1dd5062c1e257020f75c8dea563a874a20ad",
-      "mtime": "1666326906",
-      "size": "80008",
-      "md5": "aff28f2d7549565f6e5c09faaa84d095",
-      "crc32": "f6110a97",
-      "sha1": "0888431244475f771af5432404c9262531586aeb",
-=======
       "name": "callerdotcom-2022-10-21T11:47:10.908359-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666370833",
@@ -4246,44 +4232,144 @@
       "sha1": "18431e1e752e84e60bc1dddd22bd74aeee887028"
     },
     {
+      "name": "callerdotcom-2022-10-25T01:29:27.015301-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666679375",
+      "size": "10021",
+      "md5": "73a6190869b5f7621ce31c20aba38c0e",
+      "crc32": "a2192211",
+      "sha1": "7a69f54c999effee8c7d69e96ba2d6bc6b129e1d",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T01:29:27.015301-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666679376",
+      "size": "12632",
+      "md5": "45011870efaffc6ca46cbd6d874a3fd1",
+      "crc32": "6c4b21cb",
+      "sha1": "dd849bf16d4492b606eb4d0002116c85717b5d1d",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T01:29:27.015301-05:00.jpg",
+      "source": "original",
+      "mtime": "1666679373",
+      "size": "255537",
+      "md5": "7b6b365652dbac70602af155d389fc44",
+      "crc32": "da1c0f22",
+      "sha1": "3725f1578b23aff9ba9f543435bbbd570fcc4df6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T01:29:27.015301-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666679378",
+      "size": "1459",
+      "md5": "ad06b8874c0e37a4f73814061eaf72f6",
+      "crc32": "18a09b6c",
+      "sha1": "6a112a41002297c7d31f81165578f5b1a203612e",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T01:29:27.015301-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666679379",
+      "size": "95652",
+      "md5": "b9f84432073276f67b0bf15dbb5dfbf5",
+      "crc32": "8e174086",
+      "sha1": "1584d070b3c000163c3b6b61056368835e48c1eb",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T01:29:27.015301-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "callerdotcom-2022-10-25T01:29:27.015301-05:00.jpg",
+      "mtime": "1666682101",
+      "size": "9343",
+      "md5": "45e72b700f9e8a8e6ae80696b75e5ef0",
+      "crc32": "bc4fee51",
+      "sha1": "63c7d35308f16a77018e9ffa98eefb4aa2845124"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T10:48:19.221376-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712906",
+      "size": "10243",
+      "md5": "f0d97b2207a055b48f00471ed7b37957",
+      "crc32": "9a651d2c",
+      "sha1": "073b9cc17b763236601737ba860648a7e5464a29",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T10:48:19.221376-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712907",
+      "size": "12673",
+      "md5": "990bcb65b87037f6c00f24b6e2b0be9b",
+      "crc32": "3d31c92e",
+      "sha1": "82ce86ab93bc85037a81ed13a3ee4f2e55ac0ad6",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T10:48:19.221376-05:00.jpg",
+      "source": "original",
+      "mtime": "1666712905",
+      "size": "250491",
+      "md5": "372ec1d1d6f84bc90692a3eb90c19b80",
+      "crc32": "59f1f28e",
+      "sha1": "14988fa374fe03785900136ae27c8e81f1fbc95b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T10:48:19.221376-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712908",
+      "size": "1458",
+      "md5": "f434aa1d4ceb63f089a3c193c0c26799",
+      "crc32": "9e486c09",
+      "sha1": "982a5291bbbb2bdfaa851061c910270e6b04c79a",
+      "format": "JSON"
+    },
+    {
+      "name": "callerdotcom-2022-10-25T10:48:19.221376-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712910",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "callerdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "426fe506ae0e644aea919426a50516415e205090",
-      "mtime": "1666627079",
-      "size": "88977",
-      "md5": "985f1bd82c05839fb2a204964d7b5441",
-      "crc32": "f9c94c62",
-      "sha1": "46a50128962473678ce279b176a1973664da7c1e",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "46633e8a4c1deb9e4f3e6b004c941221a5402d53",
+      "mtime": "1666712957",
+      "size": "91350",
+      "md5": "256893f36885fe1446faa43a578e49b2",
+      "crc32": "cc3180ff",
+      "sha1": "c7cb12a7fd2eb8ddbfe0a353b42b2f5ba20b1dad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "callerdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "fff39374dfb9094d5febddbe1972e288",
-=======
-      "md5": "5c8603833074d919fb7ca4853fb8fba3",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "a5da083a8627b4ac43db36c1a5e8c2a2",
       "summation": "md5"
     },
     {
       "name": "callerdotcom-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666326849",
-      "size": "491520",
-      "md5": "4d5d42eb50887cee8d0f0416673678ce",
-      "crc32": "2c0eca5e",
-      "sha1": "429d6e3f4d713e51afa0b76fc7ef303ccbcb2e0a",
-=======
-      "mtime": "1666627027",
-      "size": "540672",
-      "md5": "448b8ff2737e4ff72e586e3cc43d86be",
-      "crc32": "f5e043d6",
-      "sha1": "fd383221f0e832c348cd5003cb9aafb801742db8",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666712916",
+      "size": "557056",
+      "md5": "46e4b9242ba7cb9249ff1ae792845cb0",
+      "crc32": "fd22db9a",
+      "sha1": "d8dc5ca6432c13c14a2f8438b7c68125c4b4acff",
       "format": "Metadata"
     },
     {
@@ -4297,15 +4383,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 371,
-  "item_last_updated": 1666326906,
-  "item_size": 22768360,
-=======
-  "files_count": 413,
-  "item_last_updated": 1666627079,
-  "item_size": 25133617,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 424,
+  "item_last_updated": 1666712957,
+  "item_size": 25812085,
   "metadata": {
     "identifier": "callerdotcom-2022",
     "collection": [
@@ -4322,14 +4402,21 @@
     "publicdate": "2022-09-21 04:39:27",
     "addeddate": "2022-09-21 04:39:27"
   },
-  "server": "ia801409.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 345322122,
-=======
-  "uniq": 814280096,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451773663,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1332435901,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

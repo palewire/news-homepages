@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666358506,
-=======
-  "created": 1666616121,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666702863,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/28/items/hollandsentinel-2022",
@@ -3916,16 +3912,6 @@
       "sha1": "d7604a8a24e40b65871059699ec2c9b77a6a44f9"
     },
     {
-<<<<<<< HEAD
-      "name": "hollandsentinel-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "a436208e500194a914ff6cb11384251b5fd28222",
-      "mtime": "1666358489",
-      "size": "83682",
-      "md5": "a734c2559c1b0adbdfb99d1f20302318",
-      "crc32": "ed2af5b0",
-      "sha1": "1459cd761374c7c399e1b660199c9e6faafec690",
-=======
       "name": "hollandsentinel-2022-10-21T21:07:24.214309-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666400853",
@@ -4298,44 +4284,144 @@
       "sha1": "54570d413b1600329681dbd0a53d6875b78aa70e"
     },
     {
+      "name": "hollandsentinel-2022-10-24T21:29:58.443344-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666661409",
+      "size": "25629",
+      "md5": "e8e99bab70a2f333012e24dd3195e61d",
+      "crc32": "00010365",
+      "sha1": "f4048f7161678d3d19abe4ae629b3450e6c1013d",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-24T21:29:58.443344-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666661413",
+      "size": "39282",
+      "md5": "18069f732b5f56526e878c92eef5f373",
+      "crc32": "c13845da",
+      "sha1": "b297f65a4c7b45f0baf412defebc08f9e686cf3b",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-24T21:29:58.443344-04:00.jpg",
+      "source": "original",
+      "mtime": "1666661404",
+      "size": "256944",
+      "md5": "06be8a42ff0fef69fee001e07b1b8a6c",
+      "crc32": "406d98af",
+      "sha1": "6bcd3f514fb2b078b2294e4571c3af47f30d2890",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-24T21:29:58.443344-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666661415",
+      "size": "1540",
+      "md5": "50acc341be9118cd168423f3d34941be",
+      "crc32": "37b0611a",
+      "sha1": "0f95c20fe7913aa28ad76570754b7b47197ba256",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-24T21:29:58.443344-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666661417",
+      "size": "103576",
+      "md5": "1c66242f89cae9c0399a262d93a9365c",
+      "crc32": "343fa25f",
+      "sha1": "70d2cc8ea0d44ef5c06e5e64fd6f9281c9c7ca01",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-24T21:29:58.443344-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hollandsentinel-2022-10-24T21:29:58.443344-04:00.jpg",
+      "mtime": "1666670190",
+      "size": "9175",
+      "md5": "ff88577d4adf85179c0013bcc17f3002",
+      "crc32": "85352303",
+      "sha1": "cae05d1eb85e1dc8430c0c15bf9039d38a0db62a"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T09:00:00.244220-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666702806",
+      "size": "25667",
+      "md5": "e3b1ba237d9bacf4a2e2c6314e5b9b7c",
+      "crc32": "247962ea",
+      "sha1": "4b49976c07f3e1db24fbd2e37129e8b6d6953dbd",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T09:00:00.244220-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666702808",
+      "size": "34597",
+      "md5": "82e36c5b4a528229fe952fdf2674d6a5",
+      "crc32": "db31546d",
+      "sha1": "ce498a6133312ce62dc6bf89f00f261539335928",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T09:00:00.244220-04:00.jpg",
+      "source": "original",
+      "mtime": "1666702804",
+      "size": "252495",
+      "md5": "c9ecddd97f33c0708708c54d81e80f83",
+      "crc32": "d825cf1a",
+      "sha1": "3c389204de543d41ead3249e28bd289f9171408d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T09:00:00.244220-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666702810",
+      "size": "1540",
+      "md5": "206e19c82fb3b766d4eead322c963914",
+      "crc32": "ac1db0b5",
+      "sha1": "7b20c398a080213fbae134d558dd7471884e4724",
+      "format": "JSON"
+    },
+    {
+      "name": "hollandsentinel-2022-10-25T09:00:00.244220-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666702812",
+      "size": "257",
+      "md5": "f7b3b16062ef308fcb1381ac2a9e9b1b",
+      "crc32": "fde97198",
+      "sha1": "ce99ffe608d63e8a214fe019f8ef92f91db51143",
+      "format": "JSON"
+    },
+    {
       "name": "hollandsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9a2815451e031c593dd3982bfbd84efc597f2727",
-      "mtime": "1666616114",
-      "size": "91514",
-      "md5": "2d5d34748d533a33706533c91260d595",
-      "crc32": "c5c19eff",
-      "sha1": "458eeaa91e0eaf8d4b063bcc8e077648633c57e9",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "620a4ac50e07ac177c81d0a6800415212450fb72",
+      "mtime": "1666702857",
+      "size": "93900",
+      "md5": "22fcf408528b654df67c581f69b863d9",
+      "crc32": "ad384075",
+      "sha1": "ee7dc9dc82f943b529ae561df41629f993960092",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hollandsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "f79fe8e71723d03d7ee571ef278e842d",
-=======
-      "md5": "7ef033309b45a788bc3a29700596bfb5",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "65004dd3d684f50c17f4dca3d5fc801f",
       "summation": "md5"
     },
     {
       "name": "hollandsentinel-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666358412",
-      "size": "503808",
-      "md5": "58acb16b0ceeed28a0ea833525565171",
-      "crc32": "66b94015",
-      "sha1": "155cb8146414bf498d2bf6f219a55a0561fd31b7",
-=======
-      "mtime": "1666616051",
-      "size": "552960",
-      "md5": "30e80d099314c0e541f8c97f06846d38",
-      "crc32": "313c227f",
-      "sha1": "cf997c72327afe6c0fb65a7880686ebbdad488c4",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666702818",
+      "size": "565248",
+      "md5": "cb998efdc44dede1afa7e366f5a23fdc",
+      "crc32": "4b809059",
+      "sha1": "3724019780022119e7a27e99156687ae40cbf241",
       "format": "Metadata"
     },
     {
@@ -4349,15 +4435,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 382,
-  "item_last_updated": 1666358489,
-  "item_size": 26470852,
-=======
-  "files_count": 418,
-  "item_last_updated": 1666616114,
-  "item_size": 28977744,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 429,
+  "item_last_updated": 1666702857,
+  "item_size": 29743120,
   "metadata": {
     "identifier": "hollandsentinel-2022",
     "collection": [
@@ -4374,18 +4454,21 @@
     "publicdate": "2022-09-20 22:19:45",
     "addeddate": "2022-09-20 22:19:45"
   },
-<<<<<<< HEAD
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1529660582,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451665902,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 190337302,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
-=======
-  "server": "ia801501.us.archive.org",
-  "uniq": 1127434615,
-  "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

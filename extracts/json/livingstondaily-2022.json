@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666358811,
-=======
-  "created": 1666616442,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666703186,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/livingstondaily-2022",
@@ -3926,16 +3922,6 @@
       "sha1": "3343b2767deab4c9da26b6545f5ff3f12ac93541"
     },
     {
-<<<<<<< HEAD
-      "name": "livingstondaily-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "f276e769edfab55738c283ce43f5c0876050a147",
-      "mtime": "1666358804",
-      "size": "83733",
-      "md5": "7514a84e8fff413ca31161f2fc1c06b4",
-      "crc32": "ce2f769d",
-      "sha1": "c79445c6993d0a00d50ea3b7736b4554a23df732",
-=======
       "name": "livingstondaily-2022-10-21T21:11:24.609767-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666401093",
@@ -4308,44 +4294,144 @@
       "sha1": "334786ee2a308a5b18b5ecc7ec6bf3b074ee3bf5"
     },
     {
+      "name": "livingstondaily-2022-10-24T21:36:53.225804-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666661818",
+      "size": "21581",
+      "md5": "f0553a7c59588384744a4c53c3ab4f08",
+      "crc32": "433b1013",
+      "sha1": "8a57f7d027396a49fa36f971d2e646ba83fcd4ef",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-24T21:36:53.225804-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666661821",
+      "size": "34502",
+      "md5": "ca64f7932f284283651b991be9f96680",
+      "crc32": "87080b08",
+      "sha1": "ff451599c1b0ca0a95e168a5f039b756cf1ded51",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-24T21:36:53.225804-04:00.jpg",
+      "source": "original",
+      "mtime": "1666661817",
+      "size": "250946",
+      "md5": "cb412fdee0b1385abca5e0f511df72c2",
+      "crc32": "b6e36671",
+      "sha1": "1a90562ce2ab82fa5f321cccd4f618df68787b6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "livingstondaily-2022-10-24T21:36:53.225804-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666661824",
+      "size": "1540",
+      "md5": "15a7d52e9dadc6d382a58f73937e558c",
+      "crc32": "6b7103ef",
+      "sha1": "03384cec4dee629c3449410ef17f8a344aa29194",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-24T21:36:53.225804-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666661826",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-24T21:36:53.225804-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "livingstondaily-2022-10-24T21:36:53.225804-04:00.jpg",
+      "mtime": "1666670228",
+      "size": "8988",
+      "md5": "058406a17ef0b9090cf7503ce0c1312e",
+      "crc32": "4a2a9fc9",
+      "sha1": "e1d1d62ccd0b76de1d4d2a093aed4b2cffa91716"
+    },
+    {
+      "name": "livingstondaily-2022-10-25T09:05:25.325239-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666703129",
+      "size": "21458",
+      "md5": "dd74643e2b11cd8ff51a0c8d5e112d65",
+      "crc32": "051079a2",
+      "sha1": "ad79079251d2a4237ec9f85c8f83bfbe7130026d",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-25T09:05:25.325239-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666703131",
+      "size": "32269",
+      "md5": "cfc90bc1826baa1b911a0b1d19cb42de",
+      "crc32": "4209699b",
+      "sha1": "d222deb6ae2461a9e83436f7f7f1277c1f2563b0",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-25T09:05:25.325239-04:00.jpg",
+      "source": "original",
+      "mtime": "1666703126",
+      "size": "227128",
+      "md5": "18256d4217ac7661b6e2494f7c3520a5",
+      "crc32": "fa7105d2",
+      "sha1": "2a29cc1e89f4ffe846fff4262960526a96c41f51",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "livingstondaily-2022-10-25T09:05:25.325239-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666703132",
+      "size": "1540",
+      "md5": "3f6aa6fc740fe5bb51789b30a4858a13",
+      "crc32": "7dbf9ba6",
+      "sha1": "bed5024bb554d4079c192b3cb2e0bb75817859d8",
+      "format": "JSON"
+    },
+    {
+      "name": "livingstondaily-2022-10-25T09:05:25.325239-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666703134",
+      "size": "132724",
+      "md5": "ce845c921ae300a7bcebf1a3e6f39418",
+      "crc32": "45a9d029",
+      "sha1": "4c506934fe3f246a51ba92c224beb5cfaf73a9f6",
+      "format": "JSON"
+    },
+    {
       "name": "livingstondaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec55f10dcb9e6c79c48bc01a538886da82453ce2",
-      "mtime": "1666616426",
-      "size": "91569",
-      "md5": "a766fb8207426ed4235278ee06a4e860",
-      "crc32": "eef95b3d",
-      "sha1": "163d8fada391abadb6717b302964205216426d6d",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "90a1b1d69a9f48dd69c9301bbf4920c4de0df457",
+      "mtime": "1666703182",
+      "size": "93975",
+      "md5": "648cf85531437bc7d23b79ef9995def9",
+      "crc32": "82adeb8c",
+      "sha1": "e3f93926d1fa4c73dc34b658bfff967201d423a5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "livingstondaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "e4e195943089c9d49ad58fb35b2c8196",
-=======
-      "md5": "86df7d4c1313b5fc39fe2923b7c1e55e",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "595a99ba5cff9a3ce30edf38e21de7a1",
       "summation": "md5"
     },
     {
       "name": "livingstondaily-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666358752",
-      "size": "503808",
-      "md5": "b6c7c81cb9783bdc0272aaace74e3fe8",
-      "crc32": "64929f73",
-      "sha1": "b06567f726b571382447d62b062c0dcf91b9555c",
-=======
-      "mtime": "1666616324",
-      "size": "552960",
-      "md5": "24e789eda32b40fe06dfa94e8febd1a0",
-      "crc32": "b636585c",
-      "sha1": "6fbcfd85e4076eddc3bc416ccce1ee1f6423f381",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666703142",
+      "size": "569344",
+      "md5": "0a41aa3fd213b775e8956d1ba792a77b",
+      "crc32": "5da99b63",
+      "sha1": "08612cfdb4b78c5eaaf09e124575df2418d89f42",
       "format": "Metadata"
     },
     {
@@ -4359,15 +4445,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 383,
-  "item_last_updated": 1666358804,
-  "item_size": 23544011,
-=======
-  "files_count": 419,
-  "item_last_updated": 1666616426,
-  "item_size": 26132667,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 430,
+  "item_last_updated": 1666703182,
+  "item_size": 26884335,
   "metadata": {
     "identifier": "livingstondaily-2022",
     "collection": [
@@ -4384,18 +4464,21 @@
     "publicdate": "2022-09-20 22:27:01",
     "addeddate": "2022-09-20 22:27:01"
   },
-<<<<<<< HEAD
-  "server": "ia801507.us.archive.org",
-  "uniq": 49033406,
-  "workable_servers": [
-    "ia801507.us.archive.org",
-    "ia601507.us.archive.org"
-=======
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 1495970764,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451673513,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 156084551,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+    "ia601507.us.archive.org"
   ]
 }

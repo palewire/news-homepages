@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
-  "created": 1666326947,
-=======
-  "created": 1666627236,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "conflict": 1666713458,
+  "created": 1666712964,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/34/items/bosbizjournal-2022",
@@ -8422,16 +8419,6 @@
       "sha1": "844d8ce171737a6ea353f5026b64439e1bbaa038"
     },
     {
-<<<<<<< HEAD
-      "name": "bosbizjournal-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "49f2058539c0fd5fac766eb096c38594307a1802",
-      "mtime": "1666326923",
-      "size": "176463",
-      "md5": "a966697ec0dc4b972a4b2c2c78d14dc1",
-      "crc32": "4a40081c",
-      "sha1": "426a93a95235d9a2c7cb551232721f53ab4484fe",
-=======
       "name": "bosbizjournal-2022-10-21T12:44:45.803371-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666370695",
@@ -8856,44 +8843,144 @@
       "sha1": "3a6cccedaebaf4844e48ef07c87b2e06a8917bc7"
     },
     {
+      "name": "bosbizjournal-2022-10-25T02:29:34.887000-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666679403",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T02:29:34.887000-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666679405",
+      "size": "20396",
+      "md5": "11b25033efd67fa598194e8ea9ce5131",
+      "crc32": "3337ca85",
+      "sha1": "b921670cd32fd3f1399b7aea701847d2f4b867a8",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T02:29:34.887000-04:00.jpg",
+      "source": "original",
+      "mtime": "1666679402",
+      "size": "250039",
+      "md5": "c032b21797f45c81a0f7a0f7702ec46e",
+      "crc32": "fe5048a7",
+      "sha1": "6c0d5797c53bc82b78b90bde57a4914972dd787e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T02:29:34.887000-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666679407",
+      "size": "1564",
+      "md5": "620e08727e092a504202db67e0ac9249",
+      "crc32": "38d448f2",
+      "sha1": "82e2eff3c5cc822dd6290f56b57241ea666b4404",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T02:29:34.887000-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666679408",
+      "size": "656951",
+      "md5": "20c2fb54468616c556a183a1b62c3d21",
+      "crc32": "b3a0d4c7",
+      "sha1": "3724e7f2dea15262614e4498fb8d2180182866ca",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T02:29:34.887000-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bosbizjournal-2022-10-25T02:29:34.887000-04:00.jpg",
+      "mtime": "1666681907",
+      "size": "8658",
+      "md5": "147dbdcdaaf1dc79b567c4fcab9adc17",
+      "crc32": "b1e5f071",
+      "sha1": "065e5c802092063e33a528bd28982f9827d3f699"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T11:46:52.354357-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666712825",
+      "size": "140",
+      "md5": "14d6ed8d5ed6841100299ceb9433eee9",
+      "crc32": "0dbd1cc3",
+      "sha1": "656b9d0f8e05eacc0db627269756747e0631aa5d",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T11:46:52.354357-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666712829",
+      "size": "27444",
+      "md5": "8cbb58edbf08145d003bb3abc0379e9d",
+      "crc32": "255d84d4",
+      "sha1": "b4966cc337d837b6f92b05235ae0407bf044fc66",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T11:46:52.354357-04:00.jpg",
+      "source": "original",
+      "mtime": "1666712822",
+      "size": "255183",
+      "md5": "d78bc02e9e716c7925203c1f7f26ef7d",
+      "crc32": "6cb4744a",
+      "sha1": "68a5f187fd5b5cae3b3895017016539d76348fa3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T11:46:52.354357-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666712831",
+      "size": "1567",
+      "md5": "4d3f83cc0005e652fe1ea43aecc6ba3e",
+      "crc32": "02214b14",
+      "sha1": "1c86b7c8008d88bd3d7b06511faac6d40ea7dd24",
+      "format": "JSON"
+    },
+    {
+      "name": "bosbizjournal-2022-10-25T11:46:52.354357-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666712834",
+      "size": "165889",
+      "md5": "ed172a8a9ac9540788bc8ed134920ce4",
+      "crc32": "835bcde4",
+      "sha1": "f039e7d78614e7522214f269cae13997a518f5c3",
+      "format": "JSON"
+    },
+    {
       "name": "bosbizjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4dea0ca6f09764aedb90c8a32c9116986c2f4b82",
-      "mtime": "1666627089",
-      "size": "185289",
-      "md5": "c34bd61300ab61154fd8e48ddc215488",
-      "crc32": "a51a3a67",
-      "sha1": "6e103f082fb929312dd4c33988a70f64f9a23fa2",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "768b851a146dde7b51e99f69b9045d57588d0443",
+      "mtime": "1666712935",
+      "size": "187692",
+      "md5": "aabf3e324f518184ccf2dc0d5f2c9f4a",
+      "crc32": "59d2a8bd",
+      "sha1": "0a0f8acbff54af9efe58ae319328223de2db35bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bosbizjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "24a8530d56ef4747246143854c2d6cb0",
-=======
-      "md5": "5aa541497f86a4f892d8c84f28eeaff7",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "6d264f68e07cc713bb71b18cbd5bac78",
       "summation": "md5"
     },
     {
       "name": "bosbizjournal-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666326855",
-      "size": "1056768",
-      "md5": "a9c631ee1f667159e0d44c8889de9304",
-      "crc32": "3751b62d",
-      "sha1": "1d8fed54750e0f2c520616daeaa7f59e7aab585b",
-=======
-      "mtime": "1666626973",
-      "size": "1105920",
-      "md5": "fc4eec3980bd7102f86e982a4af71dad",
-      "crc32": "97bb89e8",
-      "sha1": "72caa31001ec5064cd4b60d83f0dc7dec7f76cb8",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666712876",
+      "size": "1126400",
+      "md5": "12e964dddd0dbf9818c9e90dc60ad0cc",
+      "crc32": "2985f006",
+      "sha1": "9ac5298dd74e9cc1a045ce3bc2639520c1cf3fa5",
       "format": "Metadata"
     },
     {
@@ -8907,15 +8994,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 818,
-  "item_last_updated": 1666326923,
-  "item_size": 56787732,
-=======
-  "files_count": 859,
-  "item_last_updated": 1666627089,
-  "item_size": 59678821,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 870,
+  "item_last_updated": 1666712935,
+  "item_size": 61089675,
   "metadata": {
     "identifier": "bosbizjournal-2022",
     "collection": [
@@ -8932,18 +9013,21 @@
     "publicdate": "2022-08-14 05:02:07",
     "addeddate": "2022-08-14 05:02:07"
   },
-<<<<<<< HEAD
-  "server": "ia601407.us.archive.org",
-  "uniq": 1916056659,
-  "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
-=======
+  "pending_tasks": true,
   "server": "ia801407.us.archive.org",
-  "uniq": 1114134362,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451773652,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1635048175,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+    "ia801407.us.archive.org"
   ]
 }

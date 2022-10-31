@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666350480,
-=======
-  "created": 1666609349,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666695635,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/baltimorebanner-2022",
@@ -15486,16 +15482,6 @@
       "sha1": "dba0b7b2c35a04cb4f488ad2925ff9118059df49"
     },
     {
-<<<<<<< HEAD
-      "name": "baltimorebanner-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "8f248ba68aa0f662f2b2e9349398e37931639116",
-      "mtime": "1666350468",
-      "size": "325101",
-      "md5": "1a81307b8732fdc42010dadf3082dc81",
-      "crc32": "f3e91477",
-      "sha1": "77844521e6637b30cf37c83ae3ce602603032e21",
-=======
       "name": "baltimorebanner-2022-10-21T18:45:57.704872-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666392362",
@@ -15868,44 +15854,134 @@
       "sha1": "6ea55148ae276b8f0117a7a8d12d0cfa7976c29f"
     },
     {
+      "name": "baltimorebanner-2022-10-24T19:01:15.624977-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666652479",
+      "size": "42219",
+      "md5": "ead8be852a9481832a7e3fec36fb0141",
+      "crc32": "aef92137",
+      "sha1": "e17fb6372c25f5e8d61f11458121517f8b18a42b",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-24T19:01:15.624977-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666652481",
+      "size": "35752",
+      "md5": "09872b91e0a5824b255153b6117d32fb",
+      "crc32": "020f37d1",
+      "sha1": "299d8113e86ebb2b1b9301e97fbbd2e624acdc6a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-24T19:01:15.624977-04:00.jpg",
+      "source": "original",
+      "mtime": "1666652477",
+      "size": "261607",
+      "md5": "170e1457b1fa5088a7b29179f8c5997b",
+      "crc32": "84e6b410",
+      "sha1": "d635ab3c4f56c3b0bca3d180868b7fa339c4ab5c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebanner-2022-10-24T19:01:15.624977-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666652483",
+      "size": "1567",
+      "md5": "72cf3f2b22873a490d21d501d4da42fa",
+      "crc32": "f1658997",
+      "sha1": "e5a8115321b1cb5a610ce2f33abd854588776bce",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-24T19:01:15.624977-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666652484",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-24T19:01:15.624977-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebanner-2022-10-24T19:01:15.624977-04:00.jpg",
+      "mtime": "1666652587",
+      "size": "9880",
+      "md5": "141c2f841858e72336f3782f307f0efa",
+      "crc32": "d062d2cf",
+      "sha1": "070309d7abbd65cd936faeb49079739fb74af4fa"
+    },
+    {
+      "name": "baltimorebanner-2022-10-25T06:58:33.271743-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666695517",
+      "size": "42170",
+      "md5": "28b817eb8a3e832ef590c2ad7cf67cb5",
+      "crc32": "f0cdd1c0",
+      "sha1": "a74c335e0564f2900a883db848f77e4fca2acef1",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-25T06:58:33.271743-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666695519",
+      "size": "35530",
+      "md5": "5cf12366f4fc6c70f7975b053b5b088f",
+      "crc32": "3faffbe0",
+      "sha1": "a78f4ea6e5279f16a410f15a8d956614c272491c",
+      "format": "JSON"
+    },
+    {
+      "name": "baltimorebanner-2022-10-25T06:58:33.271743-04:00.jpg",
+      "source": "original",
+      "mtime": "1666695515",
+      "size": "276722",
+      "md5": "ebab538f758e753a1d84d98ce0f84cee",
+      "crc32": "9307c55f",
+      "sha1": "dc7b8575c0ab8614ca4903c1e53e172264a3e240",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltimorebanner-2022-10-25T06:58:33.271743-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666695521",
+      "size": "1566",
+      "md5": "ee948fd8b5c522c1d7135312798ac56f",
+      "crc32": "0854f354",
+      "sha1": "9fb425404a2d2088dc00174330271cf61d2f0628",
+      "format": "JSON"
+    },
+    {
       "name": "baltimorebanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8291bcf90de2f2a2b3e21da69ecdebb3485a73bd",
-      "mtime": "1666609341",
-      "size": "332907",
-      "md5": "716f08433176eb33785ca7571d85fef0",
-      "crc32": "623f0e87",
-      "sha1": "b71ecc80e2231004e9033c780affd0ad062aaa44",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "183c8c3eaef9a362fec813ba3e4210c12bafc92b",
+      "mtime": "1666695629",
+      "size": "335077",
+      "md5": "9817a1878e5bb0f01d213ceac9f9fdd9",
+      "crc32": "a563ed7e",
+      "sha1": "480522cd22ce4ea96a94d715b94ce69eb149bdcb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "6d14b6ac988ecee6bdb1fa5e69c7630e",
-=======
-      "md5": "c26a075d28cac8ce04eb7e7b3c611149",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "146a698ab631fb13216a604e7edb0bbf",
       "summation": "md5"
     },
     {
       "name": "baltimorebanner-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666350358",
-      "size": "1859584",
-      "md5": "05c18645ec43f2e43696aaa7bc06ca4e",
-      "crc32": "6bc73af2",
-      "sha1": "f54048d36ef3b6aeb8c9956901c4280cbbc94093",
-=======
-      "mtime": "1666609242",
-      "size": "1908736",
-      "md5": "45496511db5ce8f0f9a55ff522c7cb55",
-      "crc32": "d27ddcfc",
-      "sha1": "972dd126e7167cbd9ff86630cecf31213adc1b22",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666695565",
+      "size": "1921024",
+      "md5": "9564c5479b949aeea72a680c9f8c68a2",
+      "crc32": "d09f36f2",
+      "sha1": "eb957fe8eb7ee1a6054783c566b1f17ef6cbb393",
       "format": "Metadata"
     },
     {
@@ -15919,15 +15995,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1494,
-  "item_last_updated": 1666350468,
-  "item_size": 101539185,
-=======
-  "files_count": 1530,
-  "item_last_updated": 1666609341,
-  "item_size": 103836614,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1540,
+  "item_last_updated": 1666695629,
+  "item_size": 104558287,
   "metadata": {
     "identifier": "baltimorebanner-2022",
     "collection": [
@@ -15944,14 +16014,21 @@
     "publicdate": "2022-06-18 17:07:17",
     "addeddate": "2022-06-18 17:07:17"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 1559181529,
-=======
-  "uniq": 907980530,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451507427,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1507557224,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

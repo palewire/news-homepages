@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
-  "created": 1666358994,
-=======
-  "created": 1666616546,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "conflict": 1666703680,
+  "created": 1666703187,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/20/items/mstodaynews-2022",
@@ -11150,16 +11147,6 @@
       "sha1": "08a771692c7263d911d0efa21ffeaf7fb2816893"
     },
     {
-<<<<<<< HEAD
-      "name": "mstodaynews-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "8c6c4621dcb521b619bdeaead335e419a74a7e00",
-      "mtime": "1666358978",
-      "size": "230987",
-      "md5": "6be2565917c98d043b1034e0cf78c0a5",
-      "crc32": "a1b6991b",
-      "sha1": "bb287c708e9897d6cd63e7ac71d81a08f1e5d5ef",
-=======
       "name": "mstodaynews-2022-10-21T21:11:43.778838-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666401107",
@@ -11532,44 +11519,144 @@
       "sha1": "117c083c913be06ece8980ec691a1fa6199009e7"
     },
     {
+      "name": "mstodaynews-2022-10-24T21:36:35.302625-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666661804",
+      "size": "38629",
+      "md5": "8370ab3137e0415cdc150a2819abb5ee",
+      "crc32": "4004357b",
+      "sha1": "102bcd814bac4f6f66d1f819df95b3c6beca9628",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-10-24T21:36:35.302625-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666661806",
+      "size": "42234",
+      "md5": "5e199232a1808f57391710f0aee3f78e",
+      "crc32": "abd868fb",
+      "sha1": "95a581bd923a7ae178b55d1b1d998f6747581191",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-10-24T21:36:35.302625-04:00.jpg",
+      "source": "original",
+      "mtime": "1666661802",
+      "size": "214384",
+      "md5": "c66dd6538ac848e83eea992ff8c6139d",
+      "crc32": "e34642c1",
+      "sha1": "e764a1f683304fd93cd97f92780209f958169dfc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mstodaynews-2022-10-24T21:36:35.302625-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666661809",
+      "size": "1513",
+      "md5": "9299dffd90b2dd84373e99f69fa24fd9",
+      "crc32": "875f1a23",
+      "sha1": "431b6ae55f09dd916fb3897ed0a4ce1bb4a8646c",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-10-24T21:36:35.302625-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666661811",
+      "size": "28911",
+      "md5": "a7c88066ad51dc98e834d2e1a213da0c",
+      "crc32": "4cf5a4a7",
+      "sha1": "571ce4fb397ae27f12a8370b7bb34973fe17abfd",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-10-24T21:36:35.302625-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mstodaynews-2022-10-24T21:36:35.302625-04:00.jpg",
+      "mtime": "1666670322",
+      "size": "8981",
+      "md5": "0640d1f21e1b7db1ba83094a50a727f3",
+      "crc32": "7a2ab71f",
+      "sha1": "07dc9b9c833b5d36627f7f7cbb31a0d3bc30521c"
+    },
+    {
+      "name": "mstodaynews-2022-10-25T09:04:53.047236-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666703097",
+      "size": "38629",
+      "md5": "8370ab3137e0415cdc150a2819abb5ee",
+      "crc32": "4004357b",
+      "sha1": "102bcd814bac4f6f66d1f819df95b3c6beca9628",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-10-25T09:04:53.047236-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666703099",
+      "size": "42234",
+      "md5": "5e199232a1808f57391710f0aee3f78e",
+      "crc32": "abd868fb",
+      "sha1": "95a581bd923a7ae178b55d1b1d998f6747581191",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-10-25T09:04:53.047236-04:00.jpg",
+      "source": "original",
+      "mtime": "1666703095",
+      "size": "214384",
+      "md5": "c66dd6538ac848e83eea992ff8c6139d",
+      "crc32": "e34642c1",
+      "sha1": "e764a1f683304fd93cd97f92780209f958169dfc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mstodaynews-2022-10-25T09:04:53.047236-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666703101",
+      "size": "1513",
+      "md5": "e493c3935909d4af29d4cd70b67423f1",
+      "crc32": "449857ba",
+      "sha1": "51667e42e1f2701d2fec6156446bda3b6593013d",
+      "format": "JSON"
+    },
+    {
+      "name": "mstodaynews-2022-10-25T09:04:53.047236-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666703104",
+      "size": "29179",
+      "md5": "93055508b3b7553a3f31f3381c32609a",
+      "crc32": "0ebb286b",
+      "sha1": "bb2826241b57a70af2d313c1ce679983a1fe9e8a",
+      "format": "JSON"
+    },
+    {
       "name": "mstodaynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4161dc6b7b892d05376ce4f3594fbbb9c4cfd372",
-      "mtime": "1666616534",
-      "size": "238673",
-      "md5": "5c08ac2ad62ee9c109acae591e79119f",
-      "crc32": "3710a9cf",
-      "sha1": "8965985fedb313b8bf18ab7bbbb7550e13300968",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "99853a862f2cb46d97d3743ac0e4352a7b717c4b",
+      "mtime": "1666703176",
+      "size": "241016",
+      "md5": "0e059f3e44a2238a39c0ba8969868950",
+      "crc32": "344e0b57",
+      "sha1": "7a68c482d032b6a4cbb46d9b55896da385f89b95",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mstodaynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "51498d783f7fffee244d6a3cbdfc5d84",
-=======
-      "md5": "e6da3fe3e498f124fa95c819704de3a7",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "0a8bdb453a98f9720e57ac7fea6e4aae",
       "summation": "md5"
     },
     {
       "name": "mstodaynews-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666358901",
-      "size": "1376256",
-      "md5": "3574b92aed0ce17782a74a050faab5fd",
-      "crc32": "c89ad20e",
-      "sha1": "76545991586423bd489912adc19bc8628d6250de",
-=======
-      "mtime": "1666616447",
-      "size": "1425408",
-      "md5": "df2cd5df65845e06b15915ecca2e64c6",
-      "crc32": "84d6ec31",
-      "sha1": "f78b8d39ac9c1d8712450ddd4a2cc2de14c1c447",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666703117",
+      "size": "1441792",
+      "md5": "6e2d96a51e08d39e830ce284d95c1f63",
+      "crc32": "e488449c",
+      "sha1": "f592db2afbd645296d0d64ed84a73ae039d1c186",
       "format": "Metadata"
     },
     {
@@ -11583,15 +11670,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1081,
-  "item_last_updated": 1666358978,
-  "item_size": 68278367,
-=======
-  "files_count": 1117,
-  "item_last_updated": 1666616534,
-  "item_size": 70521790,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1128,
+  "item_last_updated": 1666703176,
+  "item_size": 71201108,
   "metadata": {
     "identifier": "mstodaynews-2022",
     "collection": [
@@ -11608,14 +11689,21 @@
     "publicdate": "2022-07-22 03:36:08",
     "addeddate": "2022-07-22 03:36:08"
   },
+  "pending_tasks": true,
   "server": "ia801407.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 957415581,
-=======
-  "uniq": 1107987928,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451673539,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1964977,
   "workable_servers": [
-    "ia801407.us.archive.org",
-    "ia601407.us.archive.org"
+    "ia801407.us.archive.org"
   ]
 }

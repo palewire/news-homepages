@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666358722,
-=======
-  "created": 1666616228,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666703020,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/1/items/kark4news-2022",
@@ -4970,16 +4966,6 @@
       "sha1": "2630aa2dd47e8dc8793ddf5db7fdd61d8687a977"
     },
     {
-<<<<<<< HEAD
-      "name": "kark4news-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "dbafaf233ff15165f4a9958cca022e29088a2cc7",
-      "mtime": "1666358702",
-      "size": "103151",
-      "md5": "3c0397ca75a5c24492b98170db62650f",
-      "crc32": "7f05709c",
-      "sha1": "bddd6c0af8f0500e633ea3aacc221941c4bbe309",
-=======
       "name": "kark4news-2022-10-21T20:07:49.179667-05:00.accessibility.json",
       "source": "original",
       "mtime": "1666400875",
@@ -5352,44 +5338,144 @@
       "sha1": "87053f17eeb57d68b3994e66c48e5d0be41ee73c"
     },
     {
+      "name": "kark4news-2022-10-24T20:30:22.801958-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666661429",
+      "size": "51306",
+      "md5": "7f805a3d6870a4bdefba3e1ed33b1d36",
+      "crc32": "e71a3386",
+      "sha1": "0e822f5018795416f92a7cf2cc13d0814158993e",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-10-24T20:30:22.801958-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666661431",
+      "size": "96750",
+      "md5": "7ba3d052d209027b3fa94d44aed8bf48",
+      "crc32": "43c182f4",
+      "sha1": "c8a20d12e402714e197b9dc16144ebf8f339f4dd",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-10-24T20:30:22.801958-05:00.jpg",
+      "source": "original",
+      "mtime": "1666661427",
+      "size": "286847",
+      "md5": "c986d69dd00a71f49af59e49392d140c",
+      "crc32": "573c290b",
+      "sha1": "8dea8d38e8f53510d9e74de8e9442ddeb90f2410",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kark4news-2022-10-24T20:30:22.801958-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666661433",
+      "size": "1437",
+      "md5": "9b78f3e77ae6850ce2e6a77f9896b49a",
+      "crc32": "626db539",
+      "sha1": "d47f69fde8ee350b50318d9f151926f7a6411db0",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-10-24T20:30:22.801958-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666661434",
+      "size": "77912",
+      "md5": "413ba80d41011b5f31d09dc51607db68",
+      "crc32": "2c337c1c",
+      "sha1": "ed66ce42b8e5e9ceb4e7477031eb7c945172e621",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-10-24T20:30:22.801958-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kark4news-2022-10-24T20:30:22.801958-05:00.jpg",
+      "mtime": "1666669910",
+      "size": "10513",
+      "md5": "28a11f145d03bac839bc68025ea887de",
+      "crc32": "4c6841d0",
+      "sha1": "60bbcb5338c2a12a145fc2a53deb9efe8597b926"
+    },
+    {
+      "name": "kark4news-2022-10-25T08:02:32.088097-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666702960",
+      "size": "52258",
+      "md5": "69d051931ab98ddce7fda4b46d8329f6",
+      "crc32": "61f84de7",
+      "sha1": "2d92e0006359ddb802ced28326c76b80cd8d2ff3",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-10-25T08:02:32.088097-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666702962",
+      "size": "96916",
+      "md5": "ac68955e8e33bf15f571d2c791b9853a",
+      "crc32": "3c15f7ac",
+      "sha1": "3590a284b2090e0182f8d7cf00ac1df746777319",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-10-25T08:02:32.088097-05:00.jpg",
+      "source": "original",
+      "mtime": "1666702958",
+      "size": "308635",
+      "md5": "1cde68eefcec5378cb91dd3c863ca2fb",
+      "crc32": "604f3965",
+      "sha1": "0403fa7a4c247094d03f60f4953874f3a41ac6bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kark4news-2022-10-25T08:02:32.088097-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666702964",
+      "size": "1439",
+      "md5": "d149608d4aae50b9247be612ee29042b",
+      "crc32": "ba788e6b",
+      "sha1": "c39355a7af1e41df832a37aeb0131ea1b6d40d60",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-10-25T08:02:32.088097-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666702965",
+      "size": "80089",
+      "md5": "58689bfcc98837a7205c965fde3e9a68",
+      "crc32": "b17d2eb5",
+      "sha1": "5796853997c8c4398d9caaac94006cc002c37c7f",
+      "format": "JSON"
+    },
+    {
       "name": "kark4news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "136aea6292564a6ad1fed639943a1cae498df0bf",
-      "mtime": "1666616215",
-      "size": "110785",
-      "md5": "3d65a6274e27bee4fb1457a619c73c2b",
-      "crc32": "42aa6d91",
-      "sha1": "e3a016c7779380f453c3b9d617066c21decfbbce",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "6a842f163787b618ee1c68f75c7675ba7a5a67ca",
+      "mtime": "1666703014",
+      "size": "113127",
+      "md5": "4b33f9c6fba2ad4da621e7b581482924",
+      "crc32": "128dd907",
+      "sha1": "cb64b6e9ffa5ab5ce5bc99c195fba8d27c3f9785",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kark4news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "7e09596cdff808201f25c05852bf3cb0",
-=======
-      "md5": "909a37b67638a6889467d74690a33996",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "ebd25908ff098746830802db7d34ede9",
       "summation": "md5"
     },
     {
       "name": "kark4news-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666358620",
-      "size": "626688",
-      "md5": "6f3080bf121c384d389e49936577c561",
-      "crc32": "bb996382",
-      "sha1": "86f55608226f9d82c337999b236857dd97963520",
-=======
-      "mtime": "1666616157",
-      "size": "675840",
-      "md5": "eb28851c0af63f1874013938d442be82",
-      "crc32": "757cb2d1",
-      "sha1": "5dc4d600a852a87e03ac56c95a4eb79c289e6c8f",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666702971",
+      "size": "692224",
+      "md5": "e278d2a658f7b4df943abf949134749f",
+      "crc32": "fd5f5c38",
+      "sha1": "429806b48d61a7f59ad0380cb6f4adffc5357df4",
       "format": "Metadata"
     },
     {
@@ -5403,15 +5489,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 484,
-  "item_last_updated": 1666358702,
-  "item_size": 39247758,
-=======
-  "files_count": 520,
-  "item_last_updated": 1666616215,
-  "item_size": 42071603,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 531,
+  "item_last_updated": 1666703014,
+  "item_size": 43154431,
   "metadata": {
     "identifier": "kark4news-2022",
     "collection": [
@@ -5428,18 +5508,21 @@
     "publicdate": "2022-09-12 12:31:14",
     "addeddate": "2022-09-12 12:31:14"
   },
-<<<<<<< HEAD
-  "server": "ia801400.us.archive.org",
-  "uniq": 1625250004,
-  "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
-=======
+  "pending_tasks": true,
   "server": "ia601400.us.archive.org",
-  "uniq": 284775149,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451669681,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 128229017,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+    "ia601400.us.archive.org"
   ]
 }

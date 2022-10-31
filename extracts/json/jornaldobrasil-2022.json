@@ -1,9 +1,6 @@
 {
-<<<<<<< HEAD
-  "created": 1666358669,
-=======
-  "created": 1666616344,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "conflict": 1666703429,
+  "created": 1666703429,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/jornaldobrasil-2022",
@@ -14118,16 +14115,6 @@
       "sha1": "838b47f636985c7b59b6187e8476332065e0b673"
     },
     {
-<<<<<<< HEAD
-      "name": "jornaldobrasil-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "b0c8e1bd9603036a188e2be743f3f8d6af9cf751",
-      "mtime": "1666358654",
-      "size": "296883",
-      "md5": "2878883a14778ae47cb2aba3f508798b",
-      "crc32": "76af2725",
-      "sha1": "89e1382875da2fd5b60a9bf4431c3d3b0dcaf7dc",
-=======
       "name": "jornaldobrasil-2022-10-21T22:07:46.368583-03:00.accessibility.json",
       "source": "original",
       "mtime": "1666400879",
@@ -14686,44 +14673,155 @@
       "sha1": "4926f1111ba6ee88d61ea1b915a62330c21de001"
     },
     {
+      "name": "jornaldobrasil-2022-10-24T22:30:01.595120-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666661409",
+      "size": "28820",
+      "md5": "3cae5cec34a5d29469e7646a2f962e4b",
+      "crc32": "e09866bb",
+      "sha1": "82f34728581506459a0465480d324ebe0152feb1",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-24T22:30:01.595120-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666661413",
+      "size": "31685",
+      "md5": "538b520a81803daccbd847b55701cb95",
+      "crc32": "1651522d",
+      "sha1": "47f7ecfd324e01df9e4d94c1dfd62b81c50c4b7a",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-24T22:30:01.595120-03:00.jpg",
+      "source": "original",
+      "mtime": "1666661405",
+      "size": "298690",
+      "md5": "d3775dbf5a8500e5c2a997e24efde226",
+      "crc32": "3fd69455",
+      "sha1": "f977f463ee77ff4427ae7694fd7e5c330dc55004",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-24T22:30:01.595120-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666661420",
+      "size": "1425",
+      "md5": "9d81cc1985e8437a514c2533db31983b",
+      "crc32": "3c1cd7d2",
+      "sha1": "b79a606e91666d9c4729c65ca13cc319c910eef5",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-24T22:30:01.595120-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666661422",
+      "size": "26971",
+      "md5": "41001e6c9bddf1ebfc56759358547adc",
+      "crc32": "e214a36b",
+      "sha1": "5df9b0dcafadbc66f56fdc92881469212b94f862",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-24T22:30:01.595120-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaldobrasil-2022-10-24T22:30:01.595120-03:00.jpg",
+      "mtime": "1666669977",
+      "size": "9871",
+      "md5": "d0e2eae769c1f35a1144c93277b93388",
+      "crc32": "c04d7564",
+      "sha1": "2a4b8487ba595e201357c00b8803621422fc81e5"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-25T09:10:01.241247-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699809",
+      "size": "27589",
+      "md5": "01a5bd290e326bd13988957e1c670359",
+      "crc32": "1f9db75f",
+      "sha1": "57e1cbf05babbf367b0cea6939d95479f7f815c1",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-25T09:10:01.241247-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699811",
+      "size": "31539",
+      "md5": "a9e866daf04ab50c9c5aa9a4a4038b7a",
+      "crc32": "0d90e032",
+      "sha1": "53efe09fe46a42852727511cb08f2a5f7bd8f5b1",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-25T09:10:01.241247-03:00.jpg",
+      "source": "original",
+      "mtime": "1666699807",
+      "size": "319454",
+      "md5": "1016ee004ed3cb95f126a8f8963fb728",
+      "crc32": "47eb2ada",
+      "sha1": "ab3895675949ad0402a14015d2d703c686d08068",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-25T09:10:01.241247-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699813",
+      "size": "1417",
+      "md5": "2c611dcd9a2bb4b251c455925c1cef13",
+      "crc32": "b11023c8",
+      "sha1": "2c222720b8adefed22bbe9ff53f29bd251e4555e",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-25T09:10:01.241247-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699814",
+      "size": "45042",
+      "md5": "349e96cb70890d1d5625ba16c8854e3a",
+      "crc32": "fe64c811",
+      "sha1": "70e0bec427dd5d29dde4ac95e0d4628b54791119",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-10-25T09:10:01.241247-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaldobrasil-2022-10-25T09:10:01.241247-03:00.jpg",
+      "mtime": "1666703421",
+      "size": "10940",
+      "md5": "35e45f4dc958e6c8b0f332f53b727460",
+      "crc32": "46faded0",
+      "sha1": "4e38ce245fa77ee231fa60b99a84939db3416f01"
+    },
+    {
       "name": "jornaldobrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b676224ef1c9c6a3d9e1f704c85822306cc9881",
-      "mtime": "1666616326",
-      "size": "308565",
-      "md5": "5ddf30d6796f03aba2becf158934c2f2",
-      "crc32": "732202db",
-      "sha1": "95e49bab1ae5d683dbd1e332bedb327ee64e8697",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "a4a8b7b9b05c0ba23e4e326b5c54224f1541f1dc",
+      "mtime": "1666699916",
+      "size": "310941",
+      "md5": "4adc3786ad3112c5a3b9a36e11d3a74a",
+      "crc32": "b6297aae",
+      "sha1": "9bc4a82e8a76082779a32cc144cd3efbc53da7b3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaldobrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "bf170e31934b55c0045738eeab347fda",
-=======
-      "md5": "01d65e0d4baaeee094d12e041cde87fb",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "2c394c7606540340f0c2511c64afde47",
       "summation": "md5"
     },
     {
       "name": "jornaldobrasil-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666358571",
-      "size": "1761280",
-      "md5": "353ba3fac5c8d94e35ee8331a28b3db2",
-      "crc32": "f9eabdb2",
-      "sha1": "61d9b295fc1638d8c25dbaf3eb07079ab072f9ee",
-=======
-      "mtime": "1666616173",
-      "size": "1830912",
-      "md5": "52d6cdfa9ed225d4d44f018bccf83135",
-      "crc32": "d2e60219",
-      "sha1": "6c74ac097d76264a53f29b1615d390d1778f7268",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666699851",
+      "size": "1843200",
+      "md5": "4c39985ba2b3ce5da2b92eaf52ebfd35",
+      "crc32": "ee6fe8c8",
+      "sha1": "dde9fef6b5ce36eb1d9a555e105334536afe3997",
       "format": "Metadata"
     },
     {
@@ -14737,15 +14835,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1369,
-  "item_last_updated": 1666358654,
-  "item_size": 94240397,
-=======
-  "files_count": 1423,
-  "item_last_updated": 1666616326,
-  "item_size": 97992049,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1435,
+  "item_last_updated": 1666703421,
+  "item_size": 98840156,
   "metadata": {
     "identifier": "jornaldobrasil-2022",
     "collection": [
@@ -14762,18 +14854,69 @@
     "publicdate": "2022-08-04 04:55:22",
     "addeddate": "2022-08-04 04:55:22"
   },
-<<<<<<< HEAD
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 2139815726,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3451626388,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3451664861,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3451664888,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3451664921,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3451664946,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3451664993,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3451676412,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1430579394,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
-=======
-  "server": "ia801507.us.archive.org",
-  "uniq": 530110070,
-  "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
   ]
 }

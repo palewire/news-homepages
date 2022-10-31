@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "created": 1666309772,
-=======
-  "created": 1666613252,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "created": 1666702109,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/gwinnettdaily-2022",
@@ -11132,16 +11128,6 @@
       "sha1": "684da07f234017410c76f00d4e0b0f1ff7e403ef"
     },
     {
-<<<<<<< HEAD
-      "name": "gwinnettdaily-2022_archive.torrent",
-      "source": "metadata",
-      "btih": "568d3a3906e66bb384bfecbbba72050c43ec0081",
-      "mtime": "1666309729",
-      "size": "234761",
-      "md5": "4f2b8977551cf2cfed2236fda5d3583b",
-      "crc32": "df0396ae",
-      "sha1": "063478a24b4bf3ecba3942b6d95f8df8e668a22a",
-=======
       "name": "gwinnettdaily-2022-10-21T08:22:14.499549-04:00.accessibility.json",
       "source": "original",
       "mtime": "1666354958",
@@ -11576,44 +11562,155 @@
       "sha1": "ef169e9e5d5e54c931cb7c91d7ba35793fc39654"
     },
     {
+      "name": "gwinnettdaily-2022-10-24T20:05:09.048642-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666656315",
+      "size": "83858",
+      "md5": "f63e244ad29f9f4df94cb3fefe8cd09e",
+      "crc32": "ca64c7bf",
+      "sha1": "cc484cd7c69c1eeab37f00503ba50f163adaf8f3",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-24T20:05:09.048642-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666656317",
+      "size": "151141",
+      "md5": "b883b10aef0ec7288bce24ed95fb6649",
+      "crc32": "ae56003d",
+      "sha1": "64d8c2cb408ead1236ad98821d88ea37347bd3cb",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-24T20:05:09.048642-04:00.jpg",
+      "source": "original",
+      "mtime": "1666656311",
+      "size": "223534",
+      "md5": "31e1ff97efa404f200760aa847e16035",
+      "crc32": "cadedfb8",
+      "sha1": "b6b2458b70c15c8d6176fd015f9d312cb41a3101",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-24T20:05:09.048642-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666656319",
+      "size": "1554",
+      "md5": "38df5def160d72c3ed249c4bbc69177d",
+      "crc32": "92dd5de8",
+      "sha1": "d54b878901e0351038a7446765e67b8ef388e521",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-24T20:05:09.048642-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666656320",
+      "size": "100623",
+      "md5": "75d39b2a2402662a37bde8a1d0e09673",
+      "crc32": "d32a4e48",
+      "sha1": "23cd7a5a694dc8f2eb54c3c1153bc5a11a00d7ce",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-24T20:05:09.048642-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gwinnettdaily-2022-10-24T20:05:09.048642-04:00.jpg",
+      "mtime": "1666656631",
+      "size": "10315",
+      "md5": "05600ef21c9af0f24495705bcf317059",
+      "crc32": "a6ced734",
+      "sha1": "3152653d1ff128d933e9f491e7c208d9f2538b75"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-25T08:07:01.570635-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666699644",
+      "size": "83026",
+      "md5": "04443cd5f5d20d4dd3e99390992fb6b9",
+      "crc32": "fd52b1fd",
+      "sha1": "6af8714bdc17a2f13697e317985d09b6001a0819",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-25T08:07:01.570635-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666699647",
+      "size": "143997",
+      "md5": "b16bb25ca76a04b01f7301c4d436e78e",
+      "crc32": "53161117",
+      "sha1": "960b7f29fa7eefe915761c27b2fdaf76ae09b84c",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-25T08:07:01.570635-04:00.jpg",
+      "source": "original",
+      "mtime": "1666699641",
+      "size": "252044",
+      "md5": "dccf56ad10166d55a0f291538e511a5b",
+      "crc32": "a303b2b2",
+      "sha1": "90de4318d240e814a4612ae03c79596e6d2f2afd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-25T08:07:01.570635-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666699651",
+      "size": "1555",
+      "md5": "1fd1e5440dc764eaa5e9a07a74770dbd",
+      "crc32": "085ba8e4",
+      "sha1": "16ce6523018e9a0f080c5d54b150898e9a922631",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-25T08:07:01.570635-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666699654",
+      "size": "119040",
+      "md5": "891739f98db9c8ef1410377b42ff0fe0",
+      "crc32": "734b51f8",
+      "sha1": "63ce3420b02a35d6a68b0ee031a9ff179baa99f7",
+      "format": "JSON"
+    },
+    {
+      "name": "gwinnettdaily-2022-10-25T08:07:01.570635-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gwinnettdaily-2022-10-25T08:07:01.570635-04:00.jpg",
+      "mtime": "1666702026",
+      "size": "10239",
+      "md5": "78151b3d8c32714c02736aa1643ead55",
+      "crc32": "58b779bb",
+      "sha1": "35e8802a3ac2c67d93b54a1f1f797f997ef1e894"
+    },
+    {
       "name": "gwinnettdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "18655fe39d0ace4a4cc5523cebdb3c0b708ab024",
-      "mtime": "1666613184",
-      "size": "243877",
-      "md5": "e31739ac9a7b608001b232c111af7306",
-      "crc32": "9a4c92e0",
-      "sha1": "3568d08ccdb0d9b420f6704c8b23f8b0aca4f448",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "btih": "43afa82847d4034a8fe5a59c15715eae967dd204",
+      "mtime": "1666702072",
+      "size": "246497",
+      "md5": "72a3220ec7f241aa81ae618c6e84f20c",
+      "crc32": "bda70f5f",
+      "sha1": "c5fb3ae705c02872eff622411cad00e6f86188f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gwinnettdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-<<<<<<< HEAD
-      "md5": "ac3f2a6fddbdd9a7734862d05c3e3185",
-=======
-      "md5": "ba9388022f1f289a04ec77559dc52e08",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "md5": "c5fc28e638a1a4f624160a2daacbb431",
       "summation": "md5"
     },
     {
       "name": "gwinnettdaily-2022_meta.sqlite",
       "source": "original",
-<<<<<<< HEAD
-      "mtime": "1666309588",
-      "size": "1380352",
-      "md5": "8e5e33edee9e00ecf187d91b848e5a2c",
-      "crc32": "4b763d1e",
-      "sha1": "d601fee292d0eb7867d094de7c00d6c58b1bc918",
-=======
-      "mtime": "1666612959",
-      "size": "1429504",
-      "md5": "3ea79ffc9b88f37c60d3cc38c033ca61",
-      "crc32": "57f3a3ae",
-      "sha1": "f4a7716085427f6b94d498246abb01e17c9be725",
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+      "mtime": "1666699691",
+      "size": "1445888",
+      "md5": "bc23fddaa1fc0885d399142bd2ed6bbf",
+      "crc32": "0e6c252b",
+      "sha1": "5bd81580cadf7c02e0dd47a8114c0286fc5969be",
       "format": "Metadata"
     },
     {
@@ -11627,15 +11724,9 @@
       "format": "Metadata"
     }
   ],
-<<<<<<< HEAD
-  "files_count": 1079,
-  "item_last_updated": 1666309729,
-  "item_size": 110731278,
-=======
-  "files_count": 1121,
-  "item_last_updated": 1666613184,
-  "item_size": 114936762,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "files_count": 1133,
+  "item_last_updated": 1666702072,
+  "item_size": 116136692,
   "metadata": {
     "identifier": "gwinnettdaily-2022",
     "collection": [
@@ -11653,11 +11744,7 @@
     "addeddate": "2022-07-20 23:31:08"
   },
   "server": "ia801407.us.archive.org",
-<<<<<<< HEAD
-  "uniq": 1630882142,
-=======
-  "uniq": 541409608,
->>>>>>> ec5eb50cb3dec392dd2a0832987d836d03192100
+  "uniq": 2033778848,
   "workable_servers": [
     "ia801407.us.archive.org",
     "ia601407.us.archive.org"
