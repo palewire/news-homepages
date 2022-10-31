@@ -1,5 +1,5 @@
 {
-  "created": 1667186899,
+  "created": 1667228505,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/9/items/thebabylonbee-2022",
@@ -9781,31 +9781,93 @@
       "format": "JSON"
     },
     {
+      "name": "thebabylonbee-2022-10-30T23:27:09.463741-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-10-30T23:27:09.463741-04:00.jpg",
+      "mtime": "1667187493",
+      "size": "10033",
+      "md5": "8b788612ca919a862572dc401b029c84",
+      "crc32": "854c41b1",
+      "sha1": "d0f3d6ab4401a9da2f54394333d771df7491ed8c"
+    },
+    {
+      "name": "thebabylonbee-2022-10-31T10:59:56.143766-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228417",
+      "size": "26400",
+      "md5": "8621fbfaee884cba62aa715e2624d921",
+      "crc32": "8bbde9e4",
+      "sha1": "c803fda36aff645074fcb8bb3beed2d3b3ccdee8",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-31T10:59:56.143766-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228419",
+      "size": "23189",
+      "md5": "9481feb708c3ae4651d6e61509d0e4e8",
+      "crc32": "c5a12c4c",
+      "sha1": "73b64d92b577dd17ee74b421baf39033e4ffb5c1",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-31T10:59:56.143766-04:00.jpg",
+      "source": "original",
+      "mtime": "1667228415",
+      "size": "374267",
+      "md5": "0573aceeaf9d2c7be81435d7030ac1bc",
+      "crc32": "c856e435",
+      "sha1": "b0dbe8d74e690b9d12d2fd02f1f7563eb72dffc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebabylonbee-2022-10-31T10:59:56.143766-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228420",
+      "size": "1459",
+      "md5": "823586ae89141effda8852145c9e5a4d",
+      "crc32": "abee43a4",
+      "sha1": "74a76fd3aaef7acb13591f39d450234a1fd8269c",
+      "format": "JSON"
+    },
+    {
+      "name": "thebabylonbee-2022-10-31T10:59:56.143766-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228422",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thebabylonbee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f674075d55a90119cc4321c07642910c4ce56add",
-      "mtime": "1667186893",
-      "size": "204433",
-      "md5": "2fcaa3e36ef2b8c8fd119beca08bd939",
-      "crc32": "0fe3e60c",
-      "sha1": "de97cbd4c6ee8f90ed8429d6aa70813120710371",
+      "btih": "7f2e7e63b25a65ab5c27141166bdf8de1d6407cb",
+      "mtime": "1667228497",
+      "size": "205729",
+      "md5": "452754092d7851bbf8be6a2c51b624e8",
+      "crc32": "4dd8ed8e",
+      "sha1": "0b603be0df5b5539df6fd04e2cc7a27be98a5620",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebabylonbee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "48e7bd26c8d3298af33de7ea3586b04d",
+      "md5": "67d695619dc6ad39e07e7ca174c518dc",
       "summation": "md5"
     },
     {
       "name": "thebabylonbee-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667186849",
-      "size": "1196032",
-      "md5": "ce21f90e369042263c022aed6b8ddbaa",
-      "crc32": "b97ea979",
-      "sha1": "3b9bfca73c503567dfa6ee776ee62c33bd4e0f3c",
+      "mtime": "1667228435",
+      "size": "1204224",
+      "md5": "611255767a16262578538f5c7f236d5e",
+      "crc32": "bdd8b7a7",
+      "sha1": "172c164d45dc632074c78bd63c1f79f6ea4a0304",
       "format": "Metadata"
     },
     {
@@ -9819,9 +9881,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 947,
-  "item_last_updated": 1667186893,
-  "item_size": 73034544,
+  "files_count": 953,
+  "item_last_updated": 1667228497,
+  "item_size": 73479582,
   "metadata": {
     "identifier": "thebabylonbee-2022",
     "collection": [
@@ -9843,7 +9905,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457461399,
+      "task_id": 3457850752,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9851,7 +9913,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 671975052,
+  "uniq": 116830068,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667187183,
+  "created": 1667228460,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/25/items/theperrychief-2022",
@@ -6081,31 +6081,93 @@
       "format": "JSON"
     },
     {
+      "name": "theperrychief-2022-10-30T22:27:21.051833-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-30T22:27:21.051833-05:00.jpg",
+      "mtime": "1667188348",
+      "size": "8714",
+      "md5": "1a37311e28d2f9a376d2fea8f448f025",
+      "crc32": "4b14bdbc",
+      "sha1": "dafa0d4a2c075892a1fbd7b8d35698fa528a716f"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228401",
+      "size": "11197",
+      "md5": "4dcb140b98077ff2b272544b47122d33",
+      "crc32": "8c04768d",
+      "sha1": "afff89c327c30b6962360b7ec96a95bbbb17221a",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228404",
+      "size": "29544",
+      "md5": "b14b53851bed3ee80888bc46d13edd09",
+      "crc32": "845471a3",
+      "sha1": "9a4228e63767850cb0b8ebe936643e1d1e59a759",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.jpg",
+      "source": "original",
+      "mtime": "1667228399",
+      "size": "227393",
+      "md5": "df1d9230d989d9d31a6f55df9ecbb9c1",
+      "crc32": "d85e14a4",
+      "sha1": "e8087916c3200a7a3a2798860fd9d587b92f0d8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228407",
+      "size": "1836",
+      "md5": "88f49915f9d6fff2b83942ae04ee5275",
+      "crc32": "3f34eb4d",
+      "sha1": "cff3163faa803e9327bc955723eb85216b8eab0b",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228409",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theperrychief-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a522ef4de2a215711c5fb13d83ebb73846fc3bb",
-      "mtime": "1667187177",
-      "size": "128004",
-      "md5": "4c3da3572ae454f1dff3ab677f7ca553",
-      "crc32": "7d14f4ba",
-      "sha1": "3c96eb830b213e3609ea35cd318cdb5e3dcbf70c",
+      "btih": "dbc4539227fdd35e804a00d28988fe94c598f0cd",
+      "mtime": "1667228454",
+      "size": "129299",
+      "md5": "5d1b6fdc8f24eb3055f098e15bd096d7",
+      "crc32": "44be9ea0",
+      "sha1": "ddd787622b50dd72ddb0765b09e23d740bcdd12c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theperrychief-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92f377a44885a3d5545f85051b8c0e66",
+      "md5": "65f0356c614f1fb9d42e15f7f7954827",
       "summation": "md5"
     },
     {
       "name": "theperrychief-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667187138",
-      "size": "770048",
-      "md5": "62f40848ccd8c77df721a35af0d65295",
-      "crc32": "d8ce8480",
-      "sha1": "31925807445ab01a679c9477d7a8484f45e38faf",
+      "mtime": "1667228413",
+      "size": "778240",
+      "md5": "d4fca4ac010e519ce3e96664b805e547",
+      "crc32": "e13dfc24",
+      "sha1": "fc93e6dd884b7a45f68ca4a0f26532bc77bbe831",
       "format": "Metadata"
     },
     {
@@ -6119,9 +6181,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 592,
-  "item_last_updated": 1667187177,
-  "item_size": 38116316,
+  "files_count": 598,
+  "item_last_updated": 1667228454,
+  "item_size": 38404689,
   "metadata": {
     "identifier": "theperrychief-2022",
     "collection": [
@@ -6143,7 +6205,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457464035,
+      "task_id": 3457850017,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6151,7 +6213,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1451816370,
+  "uniq": 1460712111,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
