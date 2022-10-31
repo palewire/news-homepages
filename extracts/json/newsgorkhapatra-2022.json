@@ -1,5 +1,5 @@
 {
-  "created": 1667182500,
+  "created": 1667227878,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/23/items/newsgorkhapatra-2022",
@@ -11259,31 +11259,93 @@
       "format": "JSON"
     },
     {
+      "name": "newsgorkhapatra-2022-10-31T07:57:49.853542+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-31T07:57:49.853542+05:45.jpg",
+      "mtime": "1667183935",
+      "size": "9176",
+      "md5": "4ba5117b61bebc7bb77c6bef5ed15072",
+      "crc32": "c15c907d",
+      "sha1": "d4d20693c7171a19a3eff41ffdc50cab61adfda6"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667225561",
+      "size": "101206",
+      "md5": "881a659c9bf6198a80d5c924aa19a788",
+      "crc32": "4a4b9c4a",
+      "sha1": "eb8dacfd2f519f11a85ae478088e20918ebf6bf7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225567",
+      "size": "69174",
+      "md5": "b11bd11ee4917f9144e14bc072b16292",
+      "crc32": "fc9ba0de",
+      "sha1": "9f40a02930f5392c8c87c63bb65acd828aa41512",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.jpg",
+      "source": "original",
+      "mtime": "1667225559",
+      "size": "297876",
+      "md5": "32e7aae67699e37d942023087f224b93",
+      "crc32": "b65c8077",
+      "sha1": "ccab608363274f293a5a42672b233ac720f1a301",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225568",
+      "size": "1519",
+      "md5": "98c2e0caec9140c15a75a200e8c71c66",
+      "crc32": "fa7b68d4",
+      "sha1": "95972addac6f73afd8dc0dbe9b065d033bd65fe0",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667225569",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "newsgorkhapatra-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d18b6a5315316afd039ae71f95fc78c14060b36",
-      "mtime": "1667182466",
-      "size": "238698",
-      "md5": "b1e5cbb7357513881b37edd184624c27",
-      "crc32": "bb5a4afb",
-      "sha1": "a903783f0ee8349e3692105a5847a8097d92a825",
+      "btih": "548c6e39931399ec6513290f10d9bb1d7c2ad681",
+      "mtime": "1667227868",
+      "size": "240006",
+      "md5": "1ccce9e7038db0803a8438784ac50ec1",
+      "crc32": "7c0f8557",
+      "sha1": "fac785bd7a3d71d92f401ba22cf5ae01e7814fdc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsgorkhapatra-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "afd3c515ebc50d346d899eab894f81a0",
+      "md5": "a0106ab46fe1d89b580df2bf9f151afb",
       "summation": "md5"
     },
     {
       "name": "newsgorkhapatra-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667182405",
-      "size": "1409024",
-      "md5": "9fa18b4ba40f16df7d31c40caa151c9d",
-      "crc32": "471c6ef5",
-      "sha1": "5e39cefe95a0b2cb4e2deffde32b6cf73d5f2b5a",
+      "mtime": "1667227842",
+      "size": "1417216",
+      "md5": "7d42c08d91fd4f03771abf5a095944b1",
+      "crc32": "7368b99f",
+      "sha1": "1cbe52da93e8638a490b9744c337c94c71f256d3",
       "format": "Metadata"
     },
     {
@@ -11297,9 +11359,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1093,
-  "item_last_updated": 1667182466,
-  "item_size": 83835530,
+  "files_count": 1099,
+  "item_last_updated": 1667227868,
+  "item_size": 84324183,
   "metadata": {
     "identifier": "newsgorkhapatra-2022",
     "collection": [
@@ -11321,15 +11383,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457426727,
+      "task_id": 3457844676,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 718168562,
+  "uniq": 363863461,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]
