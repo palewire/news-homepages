@@ -1,5 +1,5 @@
 {
-  "created": 1667178764,
+  "created": 1667220811,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/19/items/kitv4-2022",
@@ -5865,31 +5865,83 @@
       "format": "JSON"
     },
     {
+      "name": "kitv4-2022-10-30T15:11:42.854523-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kitv4-2022-10-30T15:11:42.854523-10:00.jpg",
+      "mtime": "1667179369",
+      "size": "9828",
+      "md5": "da0ad62fa4dc7a10a30a7ead08c6b7c4",
+      "crc32": "f2b8652c",
+      "sha1": "2d4655902229e92693bfa28c4971cf444a8f02c3"
+    },
+    {
+      "name": "kitv4-2022-10-31T02:52:32.537203-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220761",
+      "size": "40049",
+      "md5": "c84ef6378c8535ee14142c880de7829c",
+      "crc32": "6ec4f84a",
+      "sha1": "8ef46206f21d34ff24cca7aade3ba6ef695d4baf",
+      "format": "JSON"
+    },
+    {
+      "name": "kitv4-2022-10-31T02:52:32.537203-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220762",
+      "size": "67570",
+      "md5": "bb942703fdf295c6427dbd1edd8711ab",
+      "crc32": "b8b9df49",
+      "sha1": "b3ac47aaf2d1d028ea8a5ccfbf4b4d5461535cd3",
+      "format": "JSON"
+    },
+    {
+      "name": "kitv4-2022-10-31T02:52:32.537203-10:00.jpg",
+      "source": "original",
+      "mtime": "1667220758",
+      "size": "260690",
+      "md5": "8a7e6c3109b1b0978c5d176b61904808",
+      "crc32": "03cd55f2",
+      "sha1": "a55110f616cf7bf77314e0e2ed57db27a3f771c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kitv4-2022-10-31T02:52:32.537203-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220764",
+      "size": "216357",
+      "md5": "21b5cbc040f86262c7c4fb27d20aefd3",
+      "crc32": "15ddace2",
+      "sha1": "f4540b15c9d8ea1ab41d151f591803d8673c7155",
+      "format": "JSON"
+    },
+    {
       "name": "kitv4-2022_archive.torrent",
       "source": "metadata",
-      "btih": "77ef1df781143a7600277c4c5ef0f221aa9a531f",
-      "mtime": "1667178758",
-      "size": "119237",
-      "md5": "4cfa01500c8e943cd67dce06f8031eca",
-      "crc32": "41bc382e",
-      "sha1": "d3ac2b35c1ecb73cc2ad86a00152dd73c48a5e3f",
+      "btih": "97324f25a855bbae1dd3495ebbd77a0519370bec",
+      "mtime": "1667220807",
+      "size": "120280",
+      "md5": "f3300fd8a119657d1c8621c4ab73841d",
+      "crc32": "75f224cf",
+      "sha1": "0af6a4c792ff5fd30a9afc1f3a2ac2bfe6d74264",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kitv4-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4e2c1a1b12f15f082a57fe6f4d05a01",
+      "md5": "ce729c22f0be56329c055deda4bf0305",
       "summation": "md5"
     },
     {
       "name": "kitv4-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667178719",
-      "size": "737280",
-      "md5": "ee5bf95652772f7ad175be6021458fa6",
-      "crc32": "4cbfdf31",
-      "sha1": "4d4b18acc03058776a8aa6ee424bd6910fe2e4ee",
+      "mtime": "1667220769",
+      "size": "741376",
+      "md5": "557060d42d4e52932c57726bbaf5f1af",
+      "crc32": "5786b80b",
+      "sha1": "34901ed3db414623228427ff676058ce7679a904",
       "format": "Metadata"
     },
     {
@@ -5903,9 +5955,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 571,
-  "item_last_updated": 1667178758,
-  "item_size": 46079326,
+  "files_count": 576,
+  "item_last_updated": 1667220807,
+  "item_size": 46678959,
   "metadata": {
     "identifier": "kitv4-2022",
     "collection": [
@@ -5927,15 +5979,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457392813,
+      "task_id": 3457781910,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 753447749,
+  "uniq": 1760270894,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667178653,
+  "created": 1667220779,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/jessicavalenti-2022",
@@ -9625,31 +9625,93 @@
       "format": "JSON"
     },
     {
+      "name": "jessicavalenti-2022-10-30T21:09:50.819757-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jessicavalenti-2022-10-30T21:09:50.819757-04:00.jpg",
+      "mtime": "1667179388",
+      "size": "8282",
+      "md5": "818feb55293c571b6a76956888e0d032",
+      "crc32": "a6378265",
+      "sha1": "dab0d1b64e3443026d6fc8e9101d3eafa3927894"
+    },
+    {
+      "name": "jessicavalenti-2022-10-31T08:51:24.423698-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220694",
+      "size": "14318",
+      "md5": "3df4ba2244d36ab57b2646c242ab046e",
+      "crc32": "338784d8",
+      "sha1": "333ea7b3c5e6c59a1d6bac02485c3f25229cfc3a",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-10-31T08:51:24.423698-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220696",
+      "size": "11303",
+      "md5": "99c9d141f41d1d61e9aa73fa5344ce6a",
+      "crc32": "f8f1ba65",
+      "sha1": "e4498d6d7fb6e900c3389447a891af08b69b3fbf",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-10-31T08:51:24.423698-04:00.jpg",
+      "source": "original",
+      "mtime": "1667220692",
+      "size": "221736",
+      "md5": "b89d0b79416df1d06704e3ad329d3764",
+      "crc32": "2acb2465",
+      "sha1": "b1b595eae66a47ca596511010e3ff79540feb717",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jessicavalenti-2022-10-31T08:51:24.423698-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667220698",
+      "size": "1504",
+      "md5": "ecd7d48c9b972fa8d127946961990d2a",
+      "crc32": "a9c74484",
+      "sha1": "00d15cc0b4971397b677ce0cb9fbf7623ea8ece6",
+      "format": "JSON"
+    },
+    {
+      "name": "jessicavalenti-2022-10-31T08:51:24.423698-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220699",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "jessicavalenti-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db7c6771fd5cc77fbc415c86a0256298664b9e94",
-      "mtime": "1667178649",
-      "size": "201926",
-      "md5": "1d99e6fbe3d293a77076e2eb8640da78",
-      "crc32": "aad64b68",
-      "sha1": "1ba8f74bd74c40c6b1c5da1f46c12f10f5745163",
+      "btih": "61f689e49877d0edb6f569d890fa4824f035a0a8",
+      "mtime": "1667220763",
+      "size": "203207",
+      "md5": "d5ed52694e6f434bd741f5532768b4f7",
+      "crc32": "370f6706",
+      "sha1": "aa9eb2cd0ab292fefe971f3730d2d8824e7b2cc4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jessicavalenti-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb099bb15f86019f5984f9a32529609b",
+      "md5": "a74d581ef1570d6917c66b28f380b514",
       "summation": "md5"
     },
     {
       "name": "jessicavalenti-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667178603",
-      "size": "1208320",
-      "md5": "565a5f8cf459c45cef1821d56caee1fb",
-      "crc32": "b4677c45",
-      "sha1": "c59d65a08ba533dc2276ce661e53232b828bd29a",
+      "mtime": "1667220706",
+      "size": "1216512",
+      "md5": "d573eef1f86465803da5c9207d4b71ab",
+      "crc32": "91ff2efa",
+      "sha1": "05791db6d80ad86dd0fa4f35fee17bba666aa7c9",
       "format": "Metadata"
     },
     {
@@ -9663,9 +9725,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 935,
-  "item_last_updated": 1667178649,
-  "item_size": 41103937,
+  "files_count": 941,
+  "item_last_updated": 1667220763,
+  "item_size": 41370755,
   "metadata": {
     "identifier": "jessicavalenti-2022",
     "collection": [
@@ -9687,15 +9749,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457391773,
+      "task_id": 3457781499,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1354575197,
+  "uniq": 1194637845,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]
