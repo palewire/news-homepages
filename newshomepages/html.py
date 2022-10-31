@@ -9,8 +9,8 @@ from rich import print
 from . import utils
 
 
-def _read_script_from_file(filename: str):
-    """Read and execute Javascript code from a file to a `Page` object."""
+def _read_script_from_file(filename: str) -> str:
+    """Read and return Javascript code from a file. Convenience function."""
     with open(filename) as f:
         return f.read()
 
@@ -51,51 +51,35 @@ def _save_html(
             handle=site["handle"],
             full_page=True,
         )
+        SINGLE_FILE_PATH = utils.EXTENSIONS_PATH / "singlefile" / "javascript"
 
         single_file_pre_load_extensions = [
-            str(
-                utils.EXTENSIONS_PATH
-                / "singlefile"
-                / "javascript"
-                / "single-file-bootstrap.js"
-            ),
-            str(
-                utils.EXTENSIONS_PATH
-                / "singlefile"
-                / "javascript"
-                / "single-file-hooks-frames.js"
-            ),
-            str(
-                utils.EXTENSIONS_PATH
-                / "singlefile"
-                / "javascript"
-                / "single-file-frames.js"
-            ),
+            str(SINGLE_FILE_PATH / "single-file-bootstrap.js"),
+            str(SINGLE_FILE_PATH / "single-file-hooks-frames.js"),
+            str(SINGLE_FILE_PATH / "single-file-frames.js"),
         ]
         for f in single_file_pre_load_extensions:
             page.evaluate(_read_script_from_file(f))
 
-        post_load_script = str(
-            utils.EXTENSIONS_PATH / "singlefile" / "javascript" / "single-file.js"
-        )
+        post_load_script = str(SINGLE_FILE_PATH / "single-file.js")
         page.evaluate(_read_script_from_file(post_load_script))
         page_html_content = page.evaluate(
             """
-                       () => singlefile.getPageData({
-                         removeHiddenElements: true,
-                         removeUnusedStyles: true,
-                         removeUnusedFonts: true,
-                         removeImports: true,
-                         blockScripts: true,
-                         blockAudios: true,
-                         blockVideos: true,
-                         compressHTML: true,
-                         removeAlternativeFonts: true,
-                         removeAlternativeMedias: true,
-                         removeAlternativeImages: true,
-                         groupDuplicateImages: true
-                       });
-                   """
+                () => singlefile.getPageData({
+                        removeHiddenElements: true,
+                        removeUnusedStyles: true,
+                        removeUnusedFonts: true,
+                        removeImports: true,
+                        blockScripts: true,
+                        blockAudios: true,
+                        blockVideos: true,
+                        compressHTML: true,
+                        removeAlternativeFonts: true,
+                        removeAlternativeMedias: true,
+                        removeAlternativeImages: true,
+                        groupDuplicateImages: true
+                });
+            """
         ).get("content")
 
         if page_html_content is None:
