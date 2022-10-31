@@ -1,5 +1,6 @@
 {
-  "created": 1667193300,
+  "conflict": 1667233075,
+  "created": 1667233075,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/atlblog-2022",
@@ -18326,31 +18327,93 @@
       "sha1": "c3f68d37887937c5e7de9ca114bdef6f1215ad18"
     },
     {
+      "name": "atlblog-2022-10-31T12:01:47.160205-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232129",
+      "size": "27145",
+      "md5": "be21050b2740f9234f7e7ce873c60833",
+      "crc32": "3f9fce3f",
+      "sha1": "bcadedbe9958bcf97ca3e2aab5ab0848e995b279",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-31T12:01:47.160205-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232131",
+      "size": "45218",
+      "md5": "d63c717dc482dff659d4c8b3015e7f91",
+      "crc32": "9d1c0999",
+      "sha1": "11a1610f70f8d1b64d9cddcade9228901dd57d6a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-31T12:01:47.160205-04:00.jpg",
+      "source": "original",
+      "mtime": "1667232127",
+      "size": "289933",
+      "md5": "28cd49e09b3a0b0aa2299af96f9be3b6",
+      "crc32": "91202c91",
+      "sha1": "4382677ccf9da0c4e3a277ad51e174e5415b854b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlblog-2022-10-31T12:01:47.160205-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232136",
+      "size": "1465",
+      "md5": "ae9b423aa9e2e1887c6efa3dd7a8c958",
+      "crc32": "be60016c",
+      "sha1": "3ba226f32d01a5bd1e567bf12de021afa4e93ae5",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-31T12:01:47.160205-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232138",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlblog-2022-10-31T12:01:47.160205-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlblog-2022-10-31T12:01:47.160205-04:00.jpg",
+      "mtime": "1667233019",
+      "size": "9503",
+      "md5": "673b7be7cb9357f8aeb96b8e6ccbaffd",
+      "crc32": "9c8e5bc6",
+      "sha1": "7aae99515bd9acbadb278493be06c55993d5ac82"
+    },
+    {
       "name": "atlblog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "225816635abf9ee2a9a1540624579f0298c3eec4",
-      "mtime": "1667192565",
-      "size": "372166",
-      "md5": "bbf2e36c684410bd7172ff8f408168bf",
-      "crc32": "691c7f2b",
-      "sha1": "666a610f1a7c186aa116a40a1332f0cfb530646d",
+      "btih": "ceeeeab88831914399b86cd0756e336ccef9de0f",
+      "mtime": "1667233047",
+      "size": "373425",
+      "md5": "177e1ce9a2ef980c3bbb11999b6f4d54",
+      "crc32": "982a4fc7",
+      "sha1": "5fd6e4ecac9d5592237dc418a797f209daf81e37",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlblog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b460b7145afc74455ae25b6c209ea4fa",
+      "md5": "ff8a7e4b66d89b75d2b08292f4ef6e18",
       "summation": "md5"
     },
     {
       "name": "atlblog-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667191915",
-      "size": "2240512",
-      "md5": "3d4169cf7c6008ea2f99ac9b0735f4af",
-      "crc32": "88aaa61b",
-      "sha1": "e332aa6b3dd4f04a979bad3d040dd6113b341dff",
+      "mtime": "1667232144",
+      "size": "2244608",
+      "md5": "02070217015b883c3d6b5b439c3f9b1f",
+      "crc32": "98f29b17",
+      "sha1": "950f8a9668a765d7c39090ed8868305005cfde93",
       "format": "Metadata"
     },
     {
@@ -18364,9 +18427,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1775,
-  "item_last_updated": 1667192565,
-  "item_size": 121898167,
+  "files_count": 1781,
+  "item_last_updated": 1667233047,
+  "item_size": 122276988,
   "metadata": {
     "identifier": "atlblog-2022",
     "collection": [
@@ -18383,10 +18446,21 @@
     "publicdate": "2022-07-19 01:14:59",
     "addeddate": "2022-07-19 01:14:59"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 764720215,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457899424,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1778612439,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

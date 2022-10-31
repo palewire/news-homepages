@@ -1,5 +1,5 @@
 {
-  "created": 1667192467,
+  "created": 1667232432,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/wnyt-2022",
@@ -11034,31 +11034,82 @@
       "sha1": "ed812a0751673edd876e5fb91a0ed86785ad321f"
     },
     {
+      "name": "wnyt-2022-10-31T12:05:50.537577-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232365",
+      "size": "17052",
+      "md5": "838e6f55d22cb732472a61d8ff73e202",
+      "crc32": "7139d274",
+      "sha1": "a864c41a057739cae8e501afee9b0c605ec7e92d",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-10-31T12:05:50.537577-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232367",
+      "size": "27434",
+      "md5": "a76ee961dcf401d3de9e0f887e20f6e0",
+      "crc32": "b4a98c91",
+      "sha1": "634e7ddfa24f479dd3d4001cfc3ae55a173a1fd8",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-10-31T12:05:50.537577-04:00.jpg",
+      "source": "original",
+      "mtime": "1667232363",
+      "size": "225558",
+      "md5": "7eaeef75ea71a786d28022b182439f8d",
+      "crc32": "0cf86783",
+      "sha1": "0f99ac8a42755b2be5cc9fc10311af6a9d104978",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyt-2022-10-31T12:05:50.537577-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232370",
+      "size": "1404",
+      "md5": "0a58e63aa38ec1c20581452cd12b16c7",
+      "crc32": "0d1706e0",
+      "sha1": "9557bcb3654975b910b230fb369f06fdec65bb9a",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-10-31T12:05:50.537577-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232374",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "wnyt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9013fa68950cf8d28a8da595d816e4e9ba69f2db",
-      "mtime": "1667192343",
-      "size": "221053",
-      "md5": "cd9dc61eee83d78c2b0b6afac76414eb",
-      "crc32": "6c908e53",
-      "sha1": "4dd66f461f47377ea48fb70b1242a5022ab9a258",
+      "btih": "ccbccde06d7a1531e124d72d22e3e88a01b38b41",
+      "mtime": "1667232426",
+      "size": "222094",
+      "md5": "7f3ce2ec4ca5e700a4b1582f7bb03a1e",
+      "crc32": "09c07a47",
+      "sha1": "c6cf4097c0f36dde6bd52f652ad82d8a63d912b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb152f40aeb057067e746b0b5a275f4b",
+      "md5": "aaee80ed18bbe85d97081bdc1bc0d4a2",
       "summation": "md5"
     },
     {
       "name": "wnyt-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667192150",
-      "size": "1355776",
-      "md5": "c691dbf3fc6e0df33a447b7e4a15875b",
-      "crc32": "8d2a7372",
-      "sha1": "eff3230527cf476edc618014e7c769f2605476c4",
+      "mtime": "1667232378",
+      "size": "1363968",
+      "md5": "33105140cdd06d29134016a9251bacb1",
+      "crc32": "5d023551",
+      "sha1": "e9491e5ec406f5c64ccfab684763ccf7ec266102",
       "format": "Metadata"
     },
     {
@@ -11072,9 +11123,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1071,
-  "item_last_updated": 1667192343,
-  "item_size": 61948179,
+  "files_count": 1076,
+  "item_last_updated": 1667232426,
+  "item_size": 62229062,
   "metadata": {
     "identifier": "wnyt-2022",
     "collection": [
@@ -11091,10 +11142,21 @@
     "publicdate": "2022-08-02 02:04:24",
     "addeddate": "2022-08-02 02:04:24"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1096862446,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457892553,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1453341723,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

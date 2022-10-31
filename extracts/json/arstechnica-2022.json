@@ -1,10 +1,5 @@
 {
-  "arstechnica-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667194427,
+  "created": 1667232149,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/4/items/arstechnica-2022",
@@ -14419,31 +14414,82 @@
       "sha1": "af011f13a18f2615d91ce8428e043caab6ff2b26"
     },
     {
+      "name": "arstechnica-2022-10-31T12:01:06.054152-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232075",
+      "size": "32463",
+      "md5": "0d2e02eb912afdacea361b3b9d7b5d00",
+      "crc32": "7592256b",
+      "sha1": "07a04d9edfdbe2b34e464bcb6307a3f88e34e312",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-31T12:01:06.054152-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232077",
+      "size": "35945",
+      "md5": "852b61895f4e84f924b08146eb80865b",
+      "crc32": "7d2671c5",
+      "sha1": "bd41abb2181c8f5415dc42dd218301ceab444543",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-31T12:01:06.054152-04:00.jpg",
+      "source": "original",
+      "mtime": "1667232073",
+      "size": "352952",
+      "md5": "4b0a8bf3d8c356a3d314c61b24506fcd",
+      "crc32": "f717b9e9",
+      "sha1": "d9e25ac4e87b4dcfeff87aa1f91218c8bb365365",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arstechnica-2022-10-31T12:01:06.054152-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232079",
+      "size": "1468",
+      "md5": "9f68d7d8c1e80aecd82ed965f78d84a7",
+      "crc32": "0311b31d",
+      "sha1": "85e8864716df33d58a62d4853e0373d28ca40c11",
+      "format": "JSON"
+    },
+    {
+      "name": "arstechnica-2022-10-31T12:01:06.054152-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232081",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "arstechnica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b87ca9dd1893ec90a951c7c4dd134ddb97c3c417",
-      "mtime": "1667192281",
-      "size": "298673",
-      "md5": "ca97153da1ab9c5ec4b053b322924401",
-      "crc32": "911306a6",
-      "sha1": "72d14d0c9c4b9cbda2c4e8ee5161654f14e1aacf",
+      "btih": "793f9474ae6ba590bf17d70b36f47edcd8f56309",
+      "mtime": "1667232144",
+      "size": "299749",
+      "md5": "919ff29cc33e44eae890ad49c85b65f9",
+      "crc32": "99dc98ff",
+      "sha1": "b84779351af5df48f3e8ea5a37e41a6cc1ee1b18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arstechnica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "abf5a482550e9f8bd6c157880b943d72",
+      "md5": "68a6c3ff85c4dc8c0c381a778f41c37d",
       "summation": "md5"
     },
     {
       "name": "arstechnica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667191956",
-      "size": "1753088",
-      "md5": "95c326ba808e96b0a1d962c392ab0334",
-      "crc32": "8e5d75a7",
-      "sha1": "6e96fecf1c5759861ba4bba03ba00f2b45c2e7ca",
+      "mtime": "1667232088",
+      "size": "1757184",
+      "md5": "b1dc10f916ce73cdcc340e8268277fa5",
+      "crc32": "dd399fec",
+      "sha1": "4c0e9723c02518577cf21f0573748fbba47be36a",
       "format": "Metadata"
     },
     {
@@ -14457,9 +14503,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1394,
-  "item_last_updated": 1667192281,
-  "item_size": 110793525,
+  "files_count": 1399,
+  "item_last_updated": 1667232144,
+  "item_size": 111221727,
   "metadata": {
     "identifier": "arstechnica-2022",
     "collection": [
@@ -14476,10 +14522,21 @@
     "publicdate": "2022-07-04 20:17:38",
     "addeddate": "2022-07-04 20:17:38"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 1448393147,
+  "pending_tasks": true,
+  "server": "ia601507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457887618,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1507524514,
   "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

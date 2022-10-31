@@ -1,5 +1,5 @@
 {
-  "created": 1667192445,
+  "created": 1667232548,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/ycitynewsonline-2022",
@@ -11866,31 +11866,82 @@
       "sha1": "01bdf4f433a20f73f5071c53cd970a1f8d6cb62f"
     },
     {
+      "name": "ycitynewsonline-2022-10-31T12:07:52.923075-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232479",
+      "size": "8899",
+      "md5": "6e9dd048ee98df8801ee057341d237fa",
+      "crc32": "ee31ca55",
+      "sha1": "c784f74d47508a270379b796f5ce240aba45caf9",
+      "format": "JSON"
+    },
+    {
+      "name": "ycitynewsonline-2022-10-31T12:07:52.923075-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232481",
+      "size": "9754",
+      "md5": "2c1af281a386088890042b1a2dc56f22",
+      "crc32": "6b677850",
+      "sha1": "be75eae051417ba1575abddeb0da8cb4e0d6cb9a",
+      "format": "JSON"
+    },
+    {
+      "name": "ycitynewsonline-2022-10-31T12:07:52.923075-04:00.jpg",
+      "source": "original",
+      "mtime": "1667232477",
+      "size": "205275",
+      "md5": "64996e751f4c120a35f74cd0a44faf2a",
+      "crc32": "527a1810",
+      "sha1": "9d8cfabfc6625bb2a98b7faf649784d87473e101",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ycitynewsonline-2022-10-31T12:07:52.923075-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232483",
+      "size": "1449",
+      "md5": "ee2a55adef7d60e452f1fe4427275055",
+      "crc32": "7d1e6781",
+      "sha1": "248ea3cd4327fea5f2ba1b690978055e831d2d53",
+      "format": "JSON"
+    },
+    {
+      "name": "ycitynewsonline-2022-10-31T12:07:52.923075-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232485",
+      "size": "10365",
+      "md5": "d913c3ba6a0fed367a8899176c16dbc0",
+      "crc32": "20f1e12d",
+      "sha1": "081b0dd03650f019413f0efbb8b9f5897be54351",
+      "format": "JSON"
+    },
+    {
       "name": "ycitynewsonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c68313374c2b774ca0b570205b1ad5e838617f7d",
-      "mtime": "1667192389",
-      "size": "249587",
-      "md5": "823690d162241110e400fe55ed11ba61",
-      "crc32": "a918eb9e",
-      "sha1": "ada23eb42dd12a2a4e55e681ce89d7feebe7f199",
+      "btih": "29a8b3e03689fc3f50c0a5069a6ddaa19d054c96",
+      "mtime": "1667232543",
+      "size": "250683",
+      "md5": "5f5387043bf93090db299a2153a697ea",
+      "crc32": "f28121ca",
+      "sha1": "2eec7a8fa0b3b159a21669014388380f5602076b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ycitynewsonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a2ce1a751e3a5bf511d0e97cff11902",
+      "md5": "8f63224b6840ea8ec406258a494b8920",
       "summation": "md5"
     },
     {
       "name": "ycitynewsonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667192174",
-      "size": "1474560",
-      "md5": "590c130ab242c861129801549712442d",
-      "crc32": "1707382a",
-      "sha1": "21e62ff23cab44ee0ccfbc64dab35da8e856bf4f",
+      "mtime": "1667232492",
+      "size": "1482752",
+      "md5": "21f669f4c6b9b428939fc4761650eca7",
+      "crc32": "55521546",
+      "sha1": "c8a8075e9c45e79df64d3115b64cc0648eb2c295",
       "format": "Metadata"
     },
     {
@@ -11904,9 +11955,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1151,
-  "item_last_updated": 1667192389,
-  "item_size": 53105683,
+  "files_count": 1156,
+  "item_last_updated": 1667232543,
+  "item_size": 53350713,
   "metadata": {
     "identifier": "ycitynewsonline-2022",
     "collection": [
@@ -11923,10 +11974,21 @@
     "publicdate": "2022-07-26 01:40:32",
     "addeddate": "2022-07-26 01:40:32"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1291202583,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457893827,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1392523964,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

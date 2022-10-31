@@ -1,5 +1,5 @@
 {
-  "created": 1667192713,
+  "created": 1667232854,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/bcenquirer-2022",
@@ -5038,31 +5038,93 @@
       "sha1": "47ee24c1c9dd6ea785bb4f06e7e363dbdc20a842"
     },
     {
+      "name": "bcenquirer-2022-10-31T12:03:03.556117-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232192",
+      "size": "20552",
+      "md5": "68e1bbe7563cc87600fd28380276cfe5",
+      "crc32": "2f97b1b3",
+      "sha1": "b4e6d6dba222e9715612909f2205de44f2fca202",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T12:03:03.556117-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232194",
+      "size": "35606",
+      "md5": "d265d807ae2171f9a56ec6390741d2c0",
+      "crc32": "b235e9d9",
+      "sha1": "5b68268bcf3e5a4f402e30b407496d2dcd3a32f4",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T12:03:03.556117-04:00.jpg",
+      "source": "original",
+      "mtime": "1667232191",
+      "size": "274116",
+      "md5": "1beabf8b268945bf11eed2c3b5819979",
+      "crc32": "69e00841",
+      "sha1": "e7608b24759f6987c1a9815260c3666569fa41d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T12:03:03.556117-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232197",
+      "size": "1576",
+      "md5": "2f3cd9639017e167824cbb49785b2f7a",
+      "crc32": "fe8d2f3d",
+      "sha1": "1fda64cbc6b5cd59a76832e77b00e87e8f39339b",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T12:03:03.556117-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232202",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T12:03:03.556117-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcenquirer-2022-10-31T12:03:03.556117-04:00.jpg",
+      "mtime": "1667232841",
+      "size": "9076",
+      "md5": "8cedb933105f349679276f6e951e516b",
+      "crc32": "f54268bd",
+      "sha1": "03a73e9c084ed60c8811cb34056842e244d77162"
+    },
+    {
       "name": "bcenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dae62bf55bfb6448c0662cf734d7b5c8f6304887",
-      "mtime": "1667192624",
-      "size": "104733",
-      "md5": "e80821549ffcd5b98f6f5ac69954e8aa",
-      "crc32": "3edebff8",
-      "sha1": "35ba2dc00b4906a6ce1665f35bfff2a3187cf4ee",
+      "btih": "f2551052216fd965d8cf52398dcfd03e1abbc923",
+      "mtime": "1667232846",
+      "size": "105990",
+      "md5": "353ff5e10db6b715012ff220c109d28d",
+      "crc32": "3b566903",
+      "sha1": "8f3989126051fe1760be06cb11df5e06989ed389",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bcenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a68cdda47d34d84833d272884f7a33d9",
+      "md5": "0956e337e02a90f6683f51acd4d4e165",
       "summation": "md5"
     },
     {
       "name": "bcenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667191970",
-      "size": "634880",
-      "md5": "7deb8de066414f609e764fc4bc7fe37e",
-      "crc32": "c79e05bd",
-      "sha1": "4bd7613e243e6f7b89a60afe392d9f088c350a44",
+      "mtime": "1667232206",
+      "size": "643072",
+      "md5": "3942d87d0f654582b4da754ba3906070",
+      "crc32": "a77a2ba6",
+      "sha1": "67b2d3bb86f1881d241b007eb332e88e8698f714",
       "format": "Metadata"
     },
     {
@@ -5076,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 491,
-  "item_last_updated": 1667192624,
-  "item_size": 30649083,
+  "files_count": 497,
+  "item_last_updated": 1667232846,
+  "item_size": 30999660,
   "metadata": {
     "identifier": "bcenquirer-2022",
     "collection": [
@@ -5095,10 +5157,10 @@
     "publicdate": "2022-09-21 04:39:08",
     "addeddate": "2022-09-21 04:39:08"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1132003112,
+  "server": "ia601501.us.archive.org",
+  "uniq": 740627944,
   "workable_servers": [
-    "ia801501.us.archive.org",
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

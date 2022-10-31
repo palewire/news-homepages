@@ -1,5 +1,5 @@
 {
-  "created": 1667192319,
+  "created": 1667232462,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/23/items/washtimes-2022",
@@ -26052,31 +26052,82 @@
       "sha1": "9cb9b3832b8150e0e0f4adda6b43c0b3b8718b17"
     },
     {
+      "name": "washtimes-2022-10-31T12:05:57.101173-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232362",
+      "size": "98248",
+      "md5": "865381cc7e6246992a8e422c45b3ce05",
+      "crc32": "c0646964",
+      "sha1": "5d2910a3b590c6c3a634ad0ac9d9f364565a21ee",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-31T12:05:57.101173-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232364",
+      "size": "61888",
+      "md5": "952c3376e0aab1ea960fe4cd28738e2d",
+      "crc32": "9f14c1d1",
+      "sha1": "b4a3c6b812b91729176198fbb6c786c1db77d014",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-31T12:05:57.101173-04:00.jpg",
+      "source": "original",
+      "mtime": "1667232359",
+      "size": "358859",
+      "md5": "8444dd89ee7cc13ecaf3ecb0987be4a7",
+      "crc32": "3c55ea6c",
+      "sha1": "3f1f7bf45cd273b757982093b8fb488d36d8a11d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "washtimes-2022-10-31T12:05:57.101173-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232366",
+      "size": "1522",
+      "md5": "b33443dfb5cd804402ce1b1284323c9e",
+      "crc32": "9245b414",
+      "sha1": "8f701f33fac076d444d95a663226c8dca72a99f3",
+      "format": "JSON"
+    },
+    {
+      "name": "washtimes-2022-10-31T12:05:57.101173-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232368",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "washtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb4dd7ee3b0ee5feb001d564806fb5e84920d85d",
-      "mtime": "1667192308",
-      "size": "535146",
-      "md5": "52d371d6e1b1e5c4d329dadf95d3c1d7",
-      "crc32": "e4da3317",
-      "sha1": "aa61b51d5cbfbc8c3252400052130ff6bf1238cf",
+      "btih": "915c8d3ef5158fefb6fb9ae60a9d143f9c3724ba",
+      "mtime": "1667232455",
+      "size": "536212",
+      "md5": "bab07a798b1064131cefad68795ba5a6",
+      "crc32": "544f3fb1",
+      "sha1": "681dbb4da88ed27e855634bec8ef304189c425af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "washtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "85fb17ce70a438140844cdfedbe019bf",
+      "md5": "e0500fb91a055b153fd8b0ccc018d970",
       "summation": "md5"
     },
     {
       "name": "washtimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667192127",
-      "size": "3080192",
-      "md5": "78efd2ea2c484ba9cd9f517dca3910e4",
-      "crc32": "eb2b4d8a",
-      "sha1": "93a69de7a412c5e28f56289b94c2040ae79edc8f",
+      "mtime": "1667232377",
+      "size": "3088384",
+      "md5": "74b6e934571caa0a39f2072e3370f2a4",
+      "crc32": "096dd895",
+      "sha1": "f4a6c9e0cd82f18ad25cc33d72432578848e21f4",
       "format": "Metadata"
     },
     {
@@ -26090,10 +26141,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2510,
-  "has_redrow": true,
-  "item_last_updated": 1667192308,
-  "item_size": 274559938,
+  "files_count": 2515,
+  "item_last_updated": 1667232455,
+  "item_size": 275089915,
   "metadata": {
     "identifier": "washtimes-2022",
     "collection": [
@@ -26115,15 +26165,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457174357,
+      "task_id": 3457892888,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 2,
-      "color": "red",
-      "status": "error"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1720104587,
+  "uniq": 971723705,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
