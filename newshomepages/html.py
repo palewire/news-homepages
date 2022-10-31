@@ -37,7 +37,7 @@ def _save_html(
     wait: int = 5000,
 ):
     """Shoot the provided site."""
-    print(f":camera: Fetching HML for {site['name']}")
+    print(f":camera: Fetching HTML for {site['name']}")
 
     # Set the output path
     output_path.mkdir(parents=True, exist_ok=True)
