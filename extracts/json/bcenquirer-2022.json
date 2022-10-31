@@ -1,6 +1,5 @@
 {
-  "conflict": 1667145514,
-  "created": 1667145514,
+  "created": 1667192713,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/bcenquirer-2022",
@@ -4977,31 +4976,93 @@
       "sha1": "4596d926ed46398688416186b2e6243d56f81b6b"
     },
     {
+      "name": "bcenquirer-2022-10-31T00:52:09.898942-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667191959",
+      "size": "20418",
+      "md5": "1c7b9015cdf8373b698506176fb5110b",
+      "crc32": "a568e40c",
+      "sha1": "5395db9a076c8727eef7db76d7668cc0e44edd33",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T00:52:09.898942-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667191960",
+      "size": "38359",
+      "md5": "6aaab1bb4f0a68f335a823f2a9df804e",
+      "crc32": "95ead05f",
+      "sha1": "b82025dd8570db774f04e9dc34f6671eee9eae7c",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T00:52:09.898942-04:00.jpg",
+      "source": "original",
+      "mtime": "1667191957",
+      "size": "240438",
+      "md5": "0c0b928dd1f4b2f73d5ba554bf9ec5d7",
+      "crc32": "4241810d",
+      "sha1": "0c610f9ad2f71a7401e3693598d6f0f7e8977f6b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T00:52:09.898942-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667191962",
+      "size": "1576",
+      "md5": "da3db0bb08c1fde0c00274dd8ca9d5e0",
+      "crc32": "ffda366b",
+      "sha1": "3257833582aa7a2775c5f66913e477c85d55787b",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T00:52:09.898942-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667191964",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bcenquirer-2022-10-31T00:52:09.898942-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bcenquirer-2022-10-31T00:52:09.898942-04:00.jpg",
+      "mtime": "1667192576",
+      "size": "9428",
+      "md5": "4b5c25e72a8b8e6dee03f4406fa31e7e",
+      "crc32": "4cc71acc",
+      "sha1": "47ee24c1c9dd6ea785bb4f06e7e363dbdc20a842"
+    },
+    {
       "name": "bcenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "335020acb121444926d3ecc18a45f0b6ec96b367",
-      "mtime": "1667145504",
-      "size": "103456",
-      "md5": "bfa807d29d4f2979cf66b5730f5ff56f",
-      "crc32": "e5a05c5f",
-      "sha1": "e91cb94f4638650fb25b3faf5e3a9e72d463e382",
+      "btih": "dae62bf55bfb6448c0662cf734d7b5c8f6304887",
+      "mtime": "1667192624",
+      "size": "104733",
+      "md5": "e80821549ffcd5b98f6f5ac69954e8aa",
+      "crc32": "3edebff8",
+      "sha1": "35ba2dc00b4906a6ce1665f35bfff2a3187cf4ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bcenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1a5594df5c9904a89b6f42c5f2c3bd54",
+      "md5": "a68cdda47d34d84833d272884f7a33d9",
       "summation": "md5"
     },
     {
       "name": "bcenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667144914",
-      "size": "630784",
-      "md5": "c93eb829bbeb6bc855484f304c7c0c3a",
-      "crc32": "2d355308",
-      "sha1": "e5eafdee9062b167b5dae8d5be0ca777162167e9",
+      "mtime": "1667191970",
+      "size": "634880",
+      "md5": "7deb8de066414f609e764fc4bc7fe37e",
+      "crc32": "c79e05bd",
+      "sha1": "4bd7613e243e6f7b89a60afe392d9f088c350a44",
       "format": "Metadata"
     },
     {
@@ -5015,9 +5076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 485,
-  "item_last_updated": 1667145504,
-  "item_size": 30333289,
+  "files_count": 491,
+  "item_last_updated": 1667192624,
+  "item_size": 30649083,
   "metadata": {
     "identifier": "bcenquirer-2022",
     "collection": [
@@ -5034,29 +5095,10 @@
     "publicdate": "2022-09-21 04:39:08",
     "addeddate": "2022-09-21 04:39:08"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457068253,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3457073461,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 732764669,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1132003112,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

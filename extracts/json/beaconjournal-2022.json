@@ -1,6 +1,5 @@
 {
-  "conflict": 1667145549,
-  "created": 1667145549,
+  "created": 1667192277,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/beaconjournal-2022",
@@ -9587,31 +9586,93 @@
       "sha1": "d508e1f0c73a886c557a4d0a949fe7fb75d21e0d"
     },
     {
+      "name": "beaconjournal-2022-10-31T00:52:50.248235-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667191985",
+      "size": "21720",
+      "md5": "63907c13139deed6fdd2302154f909c0",
+      "crc32": "f2be1704",
+      "sha1": "ba5be63e3833c9e0b2264daed93a6ed7c1788fa2",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-31T00:52:50.248235-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667191987",
+      "size": "48188",
+      "md5": "4677295237d775df8095c1a52fe770da",
+      "crc32": "f4e170e8",
+      "sha1": "a39b5be4d6340e5bc9d64769297d5cd799b152f3",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-31T00:52:50.248235-04:00.jpg",
+      "source": "original",
+      "mtime": "1667191983",
+      "size": "228399",
+      "md5": "84e6f276338007ecbcf3dd6551570923",
+      "crc32": "6cf3542a",
+      "sha1": "3c8ff67048b1cae10681d615e3c4ad41485a8f43",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "beaconjournal-2022-10-31T00:52:50.248235-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667191989",
+      "size": "1522",
+      "md5": "d396875789f4db2ceb9e4c6cc4620eea",
+      "crc32": "d837598e",
+      "sha1": "468f0675c1cd90903d540e0d47c462423282fd96",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-31T00:52:50.248235-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667191990",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "beaconjournal-2022-10-31T00:52:50.248235-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "beaconjournal-2022-10-31T00:52:50.248235-04:00.jpg",
+      "mtime": "1667192222",
+      "size": "9159",
+      "md5": "438223f8483a5d8f9ba06e2f6121a269",
+      "crc32": "66250c20",
+      "sha1": "ed488166a052aa0e8dfcc9005b94684b7b94f589"
+    },
+    {
       "name": "beaconjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d8404f481156b598cda2a4f4ff264e1799265b1",
-      "mtime": "1667145546",
-      "size": "201001",
-      "md5": "07820a0526651ea89057cca23bac7f0f",
-      "crc32": "056d96f1",
-      "sha1": "414d16021fb3d369a0163042d64cd38ef2080889",
+      "btih": "9c630ad41131eff8c51ceee3dcbbd75efed6e1b0",
+      "mtime": "1667192240",
+      "size": "202296",
+      "md5": "566cf9a7208bf62f0eef8e9a721c6fb7",
+      "crc32": "1f9f3f57",
+      "sha1": "2225ef482da9c20757db66c6e85d0d6dde1a5cb1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "beaconjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "672e95de000162d302b9912e2423d4c1",
+      "md5": "4c6d0e6b2d1609982b6b58d18db639ef",
       "summation": "md5"
     },
     {
       "name": "beaconjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667144911",
-      "size": "1200128",
-      "md5": "84525f02ff4f8af9356a6bc4a59d1fb2",
-      "crc32": "f410e794",
-      "sha1": "c398355cfbda2676c1f844b80f59ed0f19e2325b",
+      "mtime": "1667191999",
+      "size": "1208320",
+      "md5": "f7ac7ad08b0a085e6dc93ad976d3bcdc",
+      "crc32": "42817ab5",
+      "sha1": "842c30ea51f0620372acb29020d0be4370eb00dd",
       "format": "Metadata"
     },
     {
@@ -9625,9 +9686,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 931,
-  "item_last_updated": 1667145546,
-  "item_size": 61244097,
+  "files_count": 937,
+  "item_last_updated": 1667192240,
+  "item_size": 61562774,
   "metadata": {
     "identifier": "beaconjournal-2022",
     "collection": [
@@ -9644,29 +9705,10 @@
     "publicdate": "2022-08-14 05:00:38",
     "addeddate": "2022-08-14 05:00:38"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457068290,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3457073747,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 838625673,
+  "uniq": 1336136101,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }
