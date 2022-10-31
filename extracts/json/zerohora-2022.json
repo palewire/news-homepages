@@ -1,5 +1,5 @@
 {
-  "created": 1667155899,
+  "created": 1667247175,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/zerohora-2022",
@@ -15514,31 +15514,341 @@
       "sha1": "44f4d48ec1ccd74251312cdd91dd00e540739056"
     },
     {
+      "name": "zerohora-2022-10-30T18:33:43.172812-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667165643",
+      "size": "39220",
+      "md5": "3e7c10787badb0a455a946733c3c700c",
+      "crc32": "7c846317",
+      "sha1": "73d6dbd3dd576711dc3538dd948412c0de796315",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-30T18:33:43.172812-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667165644",
+      "size": "40265",
+      "md5": "66b7d9c66554a5f1a8130c47332352c4",
+      "crc32": "f26fe7f7",
+      "sha1": "036b3e81492c93ab2b2c7ed30b7c05b95e84cf0c",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-30T18:33:43.172812-03:00.jpg",
+      "source": "original",
+      "mtime": "1667165641",
+      "size": "316639",
+      "md5": "c8286c33d203bc5d3e24bbbfa091c1ca",
+      "crc32": "9b0a42c1",
+      "sha1": "3cb9772f238336c297622879cbe3ac5ed84c5b80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-10-30T18:33:43.172812-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667165646",
+      "size": "1531",
+      "md5": "3c6d5025ebe30d04c8fc4ab32e1d022f",
+      "crc32": "bd3346d9",
+      "sha1": "1f788e3520ed0b6bbe1555060f740799966c2457",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-30T18:33:43.172812-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667165649",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-30T18:33:43.172812-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-10-30T18:33:43.172812-03:00.jpg",
+      "mtime": "1667166208",
+      "size": "11175",
+      "md5": "b8048b85f21025f56d63793003e429f9",
+      "crc32": "e9e22528",
+      "sha1": "10b86a53a21d36a4739bdb22f4d68c924a9a6195"
+    },
+    {
+      "name": "zerohora-2022-10-30T21:10:12.524713-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667175023",
+      "size": "34084",
+      "md5": "ca23d84d89730dcb5cd7a0677364b841",
+      "crc32": "90a295d1",
+      "sha1": "7358559d64dd5a4784e5d721bb3743e8ecf9a053",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-30T21:10:12.524713-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667175025",
+      "size": "37483",
+      "md5": "546ef077ff448f5c843a7e0165c83ac1",
+      "crc32": "8c4f26da",
+      "sha1": "c491d408eb75eded2e2a111a2094d59c3412106e",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-30T21:10:12.524713-03:00.jpg",
+      "source": "original",
+      "mtime": "1667175021",
+      "size": "271636",
+      "md5": "9a9d56a8adcafe6b9e04db7eb6c9c1e0",
+      "crc32": "c1a892b9",
+      "sha1": "43596275f68e6f77f2a363453945ae88b6e3b185",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-10-30T21:10:12.524713-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667175027",
+      "size": "1531",
+      "md5": "ee509fcb4de7eec03c77166911a9505b",
+      "crc32": "175424bb",
+      "sha1": "daac477027045720362d9d473f9407348cc532cf",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-30T21:10:12.524713-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667175029",
+      "size": "30505",
+      "md5": "dc56c98f0680f5f92d366242bde2ae58",
+      "crc32": "3735d86f",
+      "sha1": "0091a6a603348a63566955805cb539c573764a09",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-30T21:10:12.524713-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-10-30T21:10:12.524713-03:00.jpg",
+      "mtime": "1667175827",
+      "size": "11247",
+      "md5": "fec1ccaa50cbc5b9286f18fcf4f7eb3e",
+      "crc32": "3514475f",
+      "sha1": "e357624ff7326649ac646117f6fb5eab0a1441e6"
+    },
+    {
+      "name": "zerohora-2022-10-31T03:50:44.675763-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667199055",
+      "size": "39482",
+      "md5": "d8d80ce1208b4728f12206a5adfa7714",
+      "crc32": "5517ad05",
+      "sha1": "d14d3bcd84dc1f9e18dc6480fe8af47b85becea6",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T03:50:44.675763-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667199057",
+      "size": "40043",
+      "md5": "24207b73613c00b389d3cc83749b56fc",
+      "crc32": "affc4b5b",
+      "sha1": "29d204fdd1b85b08b20f90a09f7ddfaeb9a65d48",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T03:50:44.675763-03:00.jpg",
+      "source": "original",
+      "mtime": "1667199053",
+      "size": "317061",
+      "md5": "bfd9e28c92504c4326eb8e97dab5f80f",
+      "crc32": "f5ec30f9",
+      "sha1": "c6649141dbd4dbbcd0856459a51a2fc0b08310aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-10-31T03:50:44.675763-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667199059",
+      "size": "1537",
+      "md5": "676872cc69187a318a5df67c79784535",
+      "crc32": "60c7ce69",
+      "sha1": "908157edc07b2cf458cc01446df7a9007388d26a",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T03:50:44.675763-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667199061",
+      "size": "22041",
+      "md5": "c0ce3920d585b413a953848d783184d4",
+      "crc32": "90f3bc5f",
+      "sha1": "fd6377bf516d3e7a5c1e8c8b3f7a90880f445170",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T03:50:44.675763-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-10-31T03:50:44.675763-03:00.jpg",
+      "mtime": "1667201074",
+      "size": "11327",
+      "md5": "3be9e6c48445672ca4863db9ea1d9642",
+      "crc32": "2f2032e9",
+      "sha1": "c8f1e2deb7b94e6eb1f2e21d65232358c3ad8c30"
+    },
+    {
+      "name": "zerohora-2022-10-31T09:00:16.934326-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217624",
+      "size": "37124",
+      "md5": "6b7760448aa73c9dd8435488745848a1",
+      "crc32": "764cd2c4",
+      "sha1": "4d6434eae2af7c9dc588150b46287233f01ab2bc",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T09:00:16.934326-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217626",
+      "size": "40341",
+      "md5": "07e095834f403effed959bdb24d343e3",
+      "crc32": "1cccac8b",
+      "sha1": "b102793e584ed1d38c296fcf9d48982f57b45636",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T09:00:16.934326-03:00.jpg",
+      "source": "original",
+      "mtime": "1667217622",
+      "size": "331658",
+      "md5": "327b0828dbac8b16d27dc4056d7ba53d",
+      "crc32": "b266a645",
+      "sha1": "046f6ab3510643a166e49f11334deea546ea4807",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-10-31T09:00:16.934326-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217627",
+      "size": "1531",
+      "md5": "f8ca27406a1b3057af894aa3a12eb91a",
+      "crc32": "d3790e96",
+      "sha1": "da7d387fdb9802ef507b9b5aa817918aa404a4f7",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T09:00:16.934326-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217629",
+      "size": "33466",
+      "md5": "ecf5328eb14ca699b45485f5b3e2f595",
+      "crc32": "1c3672c0",
+      "sha1": "12810381ddb159c8c18bf789983790389e94aa39",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T09:00:16.934326-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-10-31T09:00:16.934326-03:00.jpg",
+      "mtime": "1667219320",
+      "size": "11315",
+      "md5": "1761c4be502e631f4960a54e07da0692",
+      "crc32": "71987742",
+      "sha1": "a57ef308a98cc175ffd34ea91fa145f9245e0223"
+    },
+    {
+      "name": "zerohora-2022-10-31T16:57:58.429215-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667246281",
+      "size": "41501",
+      "md5": "d6077015ebe691aed1568c332fb6ea9d",
+      "crc32": "22798435",
+      "sha1": "400d9bd31d7e22e81bc3177cd854e27e606b0891",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T16:57:58.429215-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667246283",
+      "size": "43386",
+      "md5": "ce3a4820078756b88da690e5e003a79f",
+      "crc32": "47e4ae87",
+      "sha1": "e7ba5cc8accfff2ba77069d8dd2104d8094b14d1",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T16:57:58.429215-03:00.jpg",
+      "source": "original",
+      "mtime": "1667246279",
+      "size": "305375",
+      "md5": "d8533a1f6b24266f5a384134375f69e7",
+      "crc32": "4be1dd29",
+      "sha1": "663b554be73a5cfbfcc1ab70f117fde955d4ead5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zerohora-2022-10-31T16:57:58.429215-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667246284",
+      "size": "1531",
+      "md5": "4c552a507eb7e5f1109637669817ebfe",
+      "crc32": "e0fa4884",
+      "sha1": "c697aa4f57be95c62e975dcbd5bb111e19054ae6",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T16:57:58.429215-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667246286",
+      "size": "30002",
+      "md5": "b212547d08507937233834f48b2e4ac6",
+      "crc32": "62c32f86",
+      "sha1": "49e6ccf853652032689011ce95ec265aa05f874b",
+      "format": "JSON"
+    },
+    {
+      "name": "zerohora-2022-10-31T16:57:58.429215-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohora-2022-10-31T16:57:58.429215-03:00.jpg",
+      "mtime": "1667247076",
+      "size": "10736",
+      "md5": "2fd462200b5c109eee01a7f844fa34a7",
+      "crc32": "6e8069d7",
+      "sha1": "53646ac9f8c870aa4d920430458a3898c7c0c474"
+    },
+    {
       "name": "zerohora-2022_archive.torrent",
       "source": "metadata",
-      "btih": "05e4dbb629a1fcf7ae42b0755221f73c00492afa",
-      "mtime": "1667155557",
-      "size": "317542",
-      "md5": "c3afedb2929647c234b2b99d7df0d288",
-      "crc32": "cbf5cfd5",
-      "sha1": "28729dd76440d670421a59cd136b957a74c3f2a7",
+      "btih": "2dc05d3d7f0bd8a7207d768bf9306c57bf1ec456",
+      "mtime": "1667247095",
+      "size": "323880",
+      "md5": "cb31b0994839f962ec9f5fcf79aac138",
+      "crc32": "0b2a6eb8",
+      "sha1": "48dea0dde65185461b762873c0d639d04f4f06a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohora-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a1dc75606a34238d8111f30cde04acca",
+      "md5": "7d579b55a87b1b1f5e0aeca025999986",
       "summation": "md5"
     },
     {
       "name": "zerohora-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667155004",
-      "size": "1916928",
-      "md5": "c218c09c3fbf29ef981e2879a2c088bd",
-      "crc32": "be4c005d",
-      "sha1": "4674ee5e8472832eae5be0605bc3b790c20a7524",
+      "mtime": "1667246295",
+      "size": "1957888",
+      "md5": "293f73faa49e80d30cb8486e0bd22d52",
+      "crc32": "0d3c8c5b",
+      "sha1": "777ca5166e534364ad35ed747d374bbfd3ca1168",
       "format": "Metadata"
     },
     {
@@ -15552,9 +15862,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1505,
-  "item_last_updated": 1667155557,
-  "item_size": 106221374,
+  "files_count": 1535,
+  "item_last_updated": 1667247095,
+  "item_size": 108383647,
   "metadata": {
     "identifier": "zerohora-2022",
     "collection": [
@@ -15571,10 +15881,10 @@
     "publicdate": "2022-08-04 04:56:36",
     "addeddate": "2022-08-04 04:56:36"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 382878068,
+  "server": "ia601400.us.archive.org",
+  "uniq": 216671972,
   "workable_servers": [
-    "ia801400.us.archive.org",
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }
