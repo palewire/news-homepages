@@ -1,5 +1,5 @@
 {
-  "created": 1667169883,
+  "created": 1667213535,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/brecktexan-2022",
@@ -13361,31 +13361,93 @@
       "format": "JSON"
     },
     {
+      "name": "brecktexan-2022-10-30T17:43:16.712410-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-30T17:43:16.712410-05:00.jpg",
+      "mtime": "1667170373",
+      "size": "10454",
+      "md5": "eb4fd960d34123fa2b43aed06607770a",
+      "crc32": "96d11958",
+      "sha1": "f62241cac95b00a139f769fa71cd2dd88e18bc09"
+    },
+    {
+      "name": "brecktexan-2022-10-31T05:50:46.214773-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213459",
+      "size": "45995",
+      "md5": "7e65d1f9f2b4d82b6e2ee7ef3158de5f",
+      "crc32": "6ceb4172",
+      "sha1": "fd59bd9925e0070d6718caed8ac1217a3048cd44",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-31T05:50:46.214773-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213461",
+      "size": "39394",
+      "md5": "7597fb77381571fb53622ad7f159ce22",
+      "crc32": "87a11ccd",
+      "sha1": "43dac1f96d5ca4b3f24fd1bb52224510d2457bab",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-31T05:50:46.214773-05:00.jpg",
+      "source": "original",
+      "mtime": "1667213457",
+      "size": "448411",
+      "md5": "5d3c55ddc0a3fdacb3ea3326ca143d90",
+      "crc32": "79dc584a",
+      "sha1": "e5f9b78ef07256ebe23a1a789907cb9f7ae45baa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brecktexan-2022-10-31T05:50:46.214773-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213462",
+      "size": "1522",
+      "md5": "1e524838c89f23a083fa0cf43a92a988",
+      "crc32": "5c168b06",
+      "sha1": "db87d6a5453baabfd7d0b94c05fc3013586495a8",
+      "format": "JSON"
+    },
+    {
+      "name": "brecktexan-2022-10-31T05:50:46.214773-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213465",
+      "size": "24393",
+      "md5": "18700509ec8eb6ade7a3dd327d10d324",
+      "crc32": "4a4ce2fe",
+      "sha1": "b632195583558b322922073bdabfd62025dace13",
+      "format": "JSON"
+    },
+    {
       "name": "brecktexan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ddb0f52cc4277412b4ca495d841c7a5c9541dbe5",
-      "mtime": "1667169874",
-      "size": "277137",
-      "md5": "590777cf21a6eae389282779a841e34e",
-      "crc32": "d00db230",
-      "sha1": "898f4f3437a319b7e36d130b469df599a06331f4",
+      "btih": "3fc3495a890c058e5c5b85104193a2871a821112",
+      "mtime": "1667213529",
+      "size": "278417",
+      "md5": "3a7a8a2c46aaabb7ac738d25185b3a80",
+      "crc32": "892e8dd2",
+      "sha1": "7531fd90ac8456efa65cf9477f32a2fc0885b667",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brecktexan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0d3e3f383079c1bbe01cb5721e650b9",
+      "md5": "330d4aad42076e201d64f55b2fb9f88e",
       "summation": "md5"
     },
     {
       "name": "brecktexan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667169820",
-      "size": "1634304",
-      "md5": "22d0a6d261a1ac6d6e9365384cfe1dd4",
-      "crc32": "64663e53",
-      "sha1": "5e13742b8170c583a09a2297ac85ea6013033445",
+      "mtime": "1667213470",
+      "size": "1642496",
+      "md5": "eca2edbf2626b2a1e25ab5af8e646a8d",
+      "crc32": "3d4e3ec8",
+      "sha1": "6fcc5eb513de3fb934fcaa7f8f8d0ab13b8499e5",
       "format": "Metadata"
     },
     {
@@ -13399,9 +13461,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1294,
-  "item_last_updated": 1667169874,
-  "item_size": 130468187,
+  "files_count": 1300,
+  "item_last_updated": 1667213529,
+  "item_size": 131047828,
   "metadata": {
     "identifier": "brecktexan-2022",
     "collection": [
@@ -13423,7 +13485,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457309871,
+      "task_id": 3457716253,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13431,7 +13493,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2063507665,
+  "uniq": 1660586390,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
