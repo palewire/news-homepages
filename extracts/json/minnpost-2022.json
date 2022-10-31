@@ -1,6 +1,5 @@
 {
-  "conflict": 1667138090,
-  "created": 1667138090,
+  "created": 1667182459,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/minnpost-2022",
@@ -19752,31 +19751,93 @@
       "format": "JSON"
     },
     {
+      "name": "minnpost-2022-10-30T08:47:43.771318-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-30T08:47:43.771318-05:00.jpg",
+      "mtime": "1667138118",
+      "size": "9837",
+      "md5": "d31a3bb004fbf9c53c10e2868699d4c8",
+      "crc32": "bf769413",
+      "sha1": "108d1d135be61699b6cf05a8a56d9f65899ec1cd"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182382",
+      "size": "35569",
+      "md5": "55e9dac1f42dffbc2391270417383ce3",
+      "crc32": "9b1513e6",
+      "sha1": "062cd4a3b570fc2c3b838473238404925f1cecff",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182383",
+      "size": "26667",
+      "md5": "10f454c8c42a97a8d7c7ecdf8df730e3",
+      "crc32": "bad0f8f8",
+      "sha1": "b988cbef705d85d004e69e4f996760100577142c",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.jpg",
+      "source": "original",
+      "mtime": "1667182380",
+      "size": "288969",
+      "md5": "b84b6eee48ec31afc0479de945abaf37",
+      "crc32": "90c95612",
+      "sha1": "beaed038f70f3c0f903a62c81e26bdd24d175cac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182386",
+      "size": "1468",
+      "md5": "6d82a8c67b9a30826d5cda093d2cd48f",
+      "crc32": "2804538c",
+      "sha1": "9247700cbbca5c7edca6bbc820450214a3ea618e",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182390",
+      "size": "30459",
+      "md5": "270cbc768e93a180ec39d55adef577b2",
+      "crc32": "0cc7b35d",
+      "sha1": "27c3eeed9a9784beeacb277fa8f87659c6cae7de",
+      "format": "JSON"
+    },
+    {
       "name": "minnpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4485623676d126f91702ced902449b321900205",
-      "mtime": "1667137743",
-      "size": "401379",
-      "md5": "7ccab49913903a33a987504bdd92ba0f",
-      "crc32": "21016b51",
-      "sha1": "e1ae036a7cda914054422251390083d0826be19b",
+      "btih": "1ad56a06faf9482cf123f999063699b1bcc6d989",
+      "mtime": "1667182455",
+      "size": "402646",
+      "md5": "2d1103c76c2864101f6d0d35cd562210",
+      "crc32": "37d4e2b2",
+      "sha1": "aba5c8ccbb73c9f8c449397befa117865245d17c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "minnpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc94a678358032a6b14715ceaee9efb4",
+      "md5": "989ec404d178fae7db2295b20e6160f3",
       "summation": "md5"
     },
     {
       "name": "minnpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667137682",
-      "size": "2314240",
-      "md5": "27ccf57adb51867eca461f41eb28d7a0",
-      "crc32": "a27b6558",
-      "sha1": "c60b60117bd3c384826fd0a2c57bb5945682d32c",
+      "mtime": "1667182393",
+      "size": "2322432",
+      "md5": "7bf09a692fe7c874544a0b975b052fab",
+      "crc32": "b3762468",
+      "sha1": "5f32ab2758d91d210be87697da788c621b7fd2a2",
       "format": "Metadata"
     },
     {
@@ -19790,9 +19851,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1902,
-  "item_last_updated": 1667137743,
-  "item_size": 153296912,
+  "files_count": 1908,
+  "item_last_updated": 1667182455,
+  "item_size": 153699340,
   "metadata": {
     "identifier": "minnpost-2022",
     "collection": [
@@ -19814,7 +19875,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3456993112,
+      "task_id": 3457426280,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -19822,7 +19883,7 @@
       "status": "running"
     }
   ],
-  "uniq": 2008014676,
+  "uniq": 620324683,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

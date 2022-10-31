@@ -1,5 +1,5 @@
 {
-  "created": 1667138377,
+  "created": 1667182700,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/31/items/quillette-2022",
@@ -17218,31 +17218,82 @@
       "sha1": "b54a652481bb1e797c074554349f6c5b484361e2"
     },
     {
+      "name": "quillette-2022-10-31T02:16:45.415710+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182618",
+      "size": "17661",
+      "md5": "e32eef262719af642d0026f0512f9501",
+      "crc32": "40ce5683",
+      "sha1": "1e19a6f2a3ebefda8277fcd0101028b1df6b84f1",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-10-31T02:16:45.415710+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182620",
+      "size": "13336",
+      "md5": "b890fb342c1a061e40f594eaaf81d05c",
+      "crc32": "f2ca373f",
+      "sha1": "c607fbb36047b1989a1082fb58b22ae6cfd07f2b",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-10-31T02:16:45.415710+00:00.jpg",
+      "source": "original",
+      "mtime": "1667182616",
+      "size": "222739",
+      "md5": "749790f987a780dcbe8d5e0a7de58dc2",
+      "crc32": "58c5c6e7",
+      "sha1": "7a84a0ed30dfdbba1b1eb5b44e73e6cc3396f3ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-10-31T02:16:45.415710+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182622",
+      "size": "1449",
+      "md5": "b4f9d2e49b7706239c58aa77c7640bdf",
+      "crc32": "92d9e6f1",
+      "sha1": "cbf31ee9accb98247c0d74ad84fb313bf167b010",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-10-31T02:16:45.415710+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182624",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "quillette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1a709cf4e979073d4a22711f4c05799a85b34e99",
-      "mtime": "1667138343",
-      "size": "351016",
-      "md5": "c13a8c266ddc347c17e625556407d26f",
-      "crc32": "b9c4bfca",
-      "sha1": "186d72138e045fa12588d6e3ca88c0e6ea97f449",
+      "btih": "e6b1d64ea8723244a07c531c82dbe0d2c19aff92",
+      "mtime": "1667182690",
+      "size": "352062",
+      "md5": "d5895273811523f8766b678185884c31",
+      "crc32": "8bcee926",
+      "sha1": "5bb38c5833d102e15b7fbbd6b49f95db6fdcd8e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quillette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58bfd7ba9f35caba584da3e20eb66d62",
+      "md5": "0839d718059e6d56d3a38a11a67e933b",
       "summation": "md5"
     },
     {
       "name": "quillette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667137782",
-      "size": "2109440",
-      "md5": "25565b5af3a6d4dfe90141766dd94f90",
-      "crc32": "25557b84",
-      "sha1": "ac947b98e4b9e872b79aafabf4dd86af08db2882",
+      "mtime": "1667182629",
+      "size": "2117632",
+      "md5": "7995d7374f05a6fc119ed3c81c0a9da4",
+      "crc32": "2f60bd43",
+      "sha1": "ab9a4174d66a12ec0ad289493a45d5efe55c60ea",
       "format": "Metadata"
     },
     {
@@ -17256,9 +17307,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1668,
-  "item_last_updated": 1667138343,
-  "item_size": 72932140,
+  "files_count": 1673,
+  "item_last_updated": 1667182690,
+  "item_size": 73196765,
   "metadata": {
     "identifier": "quillette-2022",
     "collection": [
@@ -17275,10 +17326,21 @@
     "publicdate": "2022-07-18 03:31:39",
     "addeddate": "2022-07-18 03:31:39"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 472176210,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457428744,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 51389572,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }
