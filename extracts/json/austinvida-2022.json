@@ -1,5 +1,5 @@
 {
-  "created": 1667213384,
+  "created": 1667256968,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/5/items/austinvida-2022",
@@ -13321,31 +13321,93 @@
       "format": "JSON"
     },
     {
+      "name": "austinvida-2022-10-31T05:48:17.932616-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-10-31T05:48:17.932616-05:00.jpg",
+      "mtime": "1667218455",
+      "size": "8543",
+      "md5": "9e20059fffd709b70117b315868531da",
+      "crc32": "4974483a",
+      "sha1": "e8ea31bca91c19d26ab85e0815df83c24fbd718a"
+    },
+    {
+      "name": "austinvida-2022-10-31T17:54:38.916569-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256889",
+      "size": "20498",
+      "md5": "dbd2f4f28fe4c74448995aa0f81daf7f",
+      "crc32": "fcbc3316",
+      "sha1": "39332ce109f349c7a6d12026cc2d2fd15c9398e6",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-31T17:54:38.916569-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256891",
+      "size": "5043",
+      "md5": "0723614b43ea82fc07234eef2b4213a8",
+      "crc32": "0054570d",
+      "sha1": "899a9cfe12385918cd72988887d09b1c718bd11e",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-31T17:54:38.916569-05:00.jpg",
+      "source": "original",
+      "mtime": "1667256888",
+      "size": "294059",
+      "md5": "dfdcce5aea358878bbec7c9c167f68e5",
+      "crc32": "da5fe979",
+      "sha1": "54c30970f1a20e80d5775732d3632911b8dec315",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "austinvida-2022-10-31T17:54:38.916569-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256894",
+      "size": "1483",
+      "md5": "1aed6857a351a2a9ecb29fb60694b279",
+      "crc32": "34947eac",
+      "sha1": "8544b290714af7412f39a5231e8358fe5bb44fb8",
+      "format": "JSON"
+    },
+    {
+      "name": "austinvida-2022-10-31T17:54:38.916569-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256896",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "austinvida-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe6264733ab3cdbd5bf76dab1ddb7fc3223f3df5",
-      "mtime": "1667213375",
-      "size": "273882",
-      "md5": "a3388b1be142654c453d7807576c75e4",
-      "crc32": "9324b964",
-      "sha1": "b604576677fcd0dce03a935d215c392e24d2f5fa",
+      "btih": "5684f2d811eb0984c4a78bcdc95ddb8f2812ff2d",
+      "mtime": "1667256961",
+      "size": "275138",
+      "md5": "fdab209682a1dac3bcd3e9e13ae7974f",
+      "crc32": "aea87a61",
+      "sha1": "f12806b8055a217cf04f5ae5e8614153cefe84d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "austinvida-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0811e23bd5d386eeed5c3d75b8e4052",
+      "md5": "79f98038f862c55e5a50de32be511169",
       "summation": "md5"
     },
     {
       "name": "austinvida-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667213322",
-      "size": "1630208",
-      "md5": "a3bf9288dbf5386ee142526c95030ca1",
-      "crc32": "4f382465",
-      "sha1": "c1c251ff419c1d554027fff7bb8ffd5cbfe37416",
+      "mtime": "1667256903",
+      "size": "1638400",
+      "md5": "57595e98251a61f7a4a154ae41292558",
+      "crc32": "8f461d67",
+      "sha1": "fb64610aebd73dda2681b1737b5a384e23334d41",
       "format": "Metadata"
     },
     {
@@ -13359,9 +13421,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1290,
-  "item_last_updated": 1667213375,
-  "item_size": 78993811,
+  "files_count": 1296,
+  "item_last_updated": 1667256961,
+  "item_size": 79333087,
   "metadata": {
     "identifier": "austinvida-2022",
     "collection": [
@@ -13383,7 +13445,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457714808,
+      "task_id": 3458213355,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13391,7 +13453,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1258155756,
+  "uniq": 1800534719,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

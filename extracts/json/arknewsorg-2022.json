@@ -1,5 +1,5 @@
 {
-  "created": 1667213385,
+  "created": 1667256918,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/28/items/arknewsorg-2022",
@@ -13457,31 +13457,93 @@
       "format": "JSON"
     },
     {
+      "name": "arknewsorg-2022-10-31T05:48:18.830325-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arknewsorg-2022-10-31T05:48:18.830325-05:00.jpg",
+      "mtime": "1667218480",
+      "size": "9848",
+      "md5": "f2525fb891767cb5a5dbc176e80482ba",
+      "crc32": "b0ffa60b",
+      "sha1": "d9f7026156a4249fce937eac93e3d58257771ec6"
+    },
+    {
+      "name": "arknewsorg-2022-10-31T17:53:50.126181-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256837",
+      "size": "15526",
+      "md5": "678b846ff08f976d56b5d76c722a7437",
+      "crc32": "23d8a0cf",
+      "sha1": "e76153223421ea4ace9ad6f3273b529830bb424d",
+      "format": "JSON"
+    },
+    {
+      "name": "arknewsorg-2022-10-31T17:53:50.126181-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256838",
+      "size": "11170",
+      "md5": "34f8b62450f961d0973cb0c09a3faaae",
+      "crc32": "9d7df122",
+      "sha1": "8beead838fa0006f98de9afe11c7edc3d7e28dac",
+      "format": "JSON"
+    },
+    {
+      "name": "arknewsorg-2022-10-31T17:53:50.126181-05:00.jpg",
+      "source": "original",
+      "mtime": "1667256835",
+      "size": "253424",
+      "md5": "4bb6111978ff2d66b1cf280e76ac8bb3",
+      "crc32": "91b3778a",
+      "sha1": "0d69867ab6520992b6b5d2c85755353303ab44cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arknewsorg-2022-10-31T17:53:50.126181-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256841",
+      "size": "1430",
+      "md5": "283c78190fead4f3511ee29f115ea034",
+      "crc32": "848b66d4",
+      "sha1": "15d1dea62aa7253b14de17bafc6bf97b45b7cd48",
+      "format": "JSON"
+    },
+    {
+      "name": "arknewsorg-2022-10-31T17:53:50.126181-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256843",
+      "size": "6266",
+      "md5": "eb38c704d19226c490b0dd1f9d225dc5",
+      "crc32": "b861dc7b",
+      "sha1": "57dd466e253debbf45179c2d3e12b3b09f00ed42",
+      "format": "JSON"
+    },
+    {
       "name": "arknewsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "150f7980a6e1df93757d6dc979441bfa346239c0",
-      "mtime": "1667213372",
-      "size": "276354",
-      "md5": "afb468cb80873c3ae94984f8d664339b",
-      "crc32": "c6a3d7e0",
-      "sha1": "2b814bd423c017aa154adde34571b359874c21d6",
+      "btih": "68b0d90b55ca5f33103a7f893fb5ff1932499e05",
+      "mtime": "1667256908",
+      "size": "277632",
+      "md5": "190c596a76c9c87951560ca9830468b5",
+      "crc32": "16a01da8",
+      "sha1": "8637a6ce4c22be81031c4a6cb2eaa4559b217e5b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arknewsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8203d578dee6d9367185b1037e78794a",
+      "md5": "f34a30a683680137b715d6d2aa68fb67",
       "summation": "md5"
     },
     {
       "name": "arknewsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667213316",
-      "size": "1642496",
-      "md5": "04a4be8d949e06d6856fa8291a681d18",
-      "crc32": "fc0a9035",
-      "sha1": "6d5702d2c895c4119b9c48d3537b4eaf4938ccf7",
+      "mtime": "1667256852",
+      "size": "1650688",
+      "md5": "c68a6a75be7f05eb0d46149ee3765e88",
+      "crc32": "c828c295",
+      "sha1": "e612ad60e1acbffd82e62cce1dfda5df912613b0",
       "format": "Metadata"
     },
     {
@@ -13495,9 +13557,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1303,
-  "item_last_updated": 1667213372,
-  "item_size": 69936251,
+  "files_count": 1309,
+  "item_last_updated": 1667256908,
+  "item_size": 70243385,
   "metadata": {
     "identifier": "arknewsorg-2022",
     "collection": [
@@ -13519,7 +13581,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457714813,
+      "task_id": 3458212803,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13527,7 +13589,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1616276425,
+  "uniq": 449419487,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

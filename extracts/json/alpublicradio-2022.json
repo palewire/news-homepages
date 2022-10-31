@@ -1,5 +1,6 @@
 {
-  "created": 1667213636,
+  "conflict": 1667257248,
+  "created": 1667257248,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/alpublicradio-2022",
@@ -6164,31 +6165,71 @@
       "sha1": "d2b5e8e5f9ce51623f95993f311683456d935825"
     },
     {
+      "name": "alpublicradio-2022-10-31T17:51:23.106319-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256692",
+      "size": "26019",
+      "md5": "bb33bd1bd6fbbf969009335ce09a6472",
+      "crc32": "fc92462f",
+      "sha1": "a1320b44105aaf5f99bc694b2e68f9b3b7a4832a",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T17:51:23.106319-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256693",
+      "size": "40744",
+      "md5": "e4f9f264d9fccd1ba253a53bd5caf0fa",
+      "crc32": "55f375e8",
+      "sha1": "c13406b70007ec411edc0fea2904c2f9e869835f",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T17:51:23.106319-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256695",
+      "size": "1422",
+      "md5": "1db132a75da49bca0b7aaedeff25e45a",
+      "crc32": "70620ff5",
+      "sha1": "9a4a35176e22a4b7d9c94eac45dcfdf880bb1243",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T17:51:23.106319-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256697",
+      "size": "14777",
+      "md5": "d49d438590ec2ba758013e644fc875f2",
+      "crc32": "f1c5c916",
+      "sha1": "c0ceb82be727807659395147bd1808237551b8d8",
+      "format": "JSON"
+    },
+    {
       "name": "alpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a48e9f69298fce9c21783cb9de2997637a0082df",
-      "mtime": "1667213620",
-      "size": "129695",
-      "md5": "ac40c6e97948e059dc4c21cf74a2a9a4",
-      "crc32": "1c755c56",
-      "sha1": "166d0366f512f1f310033a5a321cd434a8bc9de0",
+      "btih": "749847c84cd2afc49dd62859ab81a411d7c06e23",
+      "mtime": "1667256743",
+      "size": "130558",
+      "md5": "08d4a823d6a826983c67cb0fbf925ad4",
+      "crc32": "4e156d42",
+      "sha1": "aab7f5f1e3087fe01b76c619e025427823544f15",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4de29de985e9d9b6c9b4c5b2126c742",
+      "md5": "631773717bf858c72771277e8165dddc",
       "summation": "md5"
     },
     {
       "name": "alpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667213173",
-      "size": "782336",
-      "md5": "4df7d3a1738fd48726ca8dc627cc6d12",
-      "crc32": "dc3d2484",
-      "sha1": "c3a4ce7fd826f946f7069e0c53bd815177cac25b",
+      "mtime": "1667256703",
+      "size": "786432",
+      "md5": "d9eed4a11c7e6bcea86a81eb2ac1e7fd",
+      "crc32": "1b6a24fa",
+      "sha1": "a987d4e2e59498cb2d8cf6c079754fb8e1158fb5",
       "format": "Metadata"
     },
     {
@@ -6202,9 +6243,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 600,
-  "item_last_updated": 1667213620,
-  "item_size": 36725297,
+  "files_count": 604,
+  "item_last_updated": 1667256743,
+  "item_size": 36813218,
   "metadata": {
     "identifier": "alpublicradio-2022",
     "collection": [
@@ -6221,10 +6262,29 @@
     "publicdate": "2022-09-12 11:03:14",
     "addeddate": "2022-09-12 11:03:14"
   },
-  "server": "ia801503.us.archive.org",
-  "uniq": 1441653585,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458210773,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458217224,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 733790288,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }
