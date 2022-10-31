@@ -1,5 +1,5 @@
 {
-  "created": 1667156255,
+  "created": 1667198777,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/22/items/rpbreakingnews-2022",
@@ -11462,31 +11462,82 @@
       "sha1": "5855ed704ae0a92b5e041c3ea19b8cd8a3a03459"
     },
     {
+      "name": "rpbreakingnews-2022-10-31T12:14:41.301004+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1667198705",
+      "size": "36529",
+      "md5": "19d01c4d3e88f33ebd8fe8e9f1e74b96",
+      "crc32": "5e7368bc",
+      "sha1": "15fcc1de15c25faa8ca8ce7ce1b3d36490e97f21",
+      "format": "JSON"
+    },
+    {
+      "name": "rpbreakingnews-2022-10-31T12:14:41.301004+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198706",
+      "size": "42023",
+      "md5": "fcd0ee4e878af9ff761811d9eaf8a2d7",
+      "crc32": "43edc273",
+      "sha1": "7da0cfefe5067b8cad235ed2277e807bf0c52a23",
+      "format": "JSON"
+    },
+    {
+      "name": "rpbreakingnews-2022-10-31T12:14:41.301004+05:30.jpg",
+      "source": "original",
+      "mtime": "1667198703",
+      "size": "269535",
+      "md5": "4930d94a5176e5bed8214cc096dcb10d",
+      "crc32": "f373ac4c",
+      "sha1": "2ece6979baaffadce0e76401ff9d3472bf7e185e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rpbreakingnews-2022-10-31T12:14:41.301004+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198707",
+      "size": "1468",
+      "md5": "fd5abb5e517f9b88cc5dace305546fba",
+      "crc32": "6d6995e5",
+      "sha1": "5d2575a6c26fe3c309478f294ab26bb719a4768f",
+      "format": "JSON"
+    },
+    {
+      "name": "rpbreakingnews-2022-10-31T12:14:41.301004+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1667198709",
+      "size": "13145",
+      "md5": "7c341938c6da4c2b20e4b7a27733bc90",
+      "crc32": "bb79f568",
+      "sha1": "e2988c9f904de588d6371ea6a2af42aea6a095a1",
+      "format": "JSON"
+    },
+    {
       "name": "rpbreakingnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4ccb2d950793a87f4a676e7481bb89ef63e1107",
-      "mtime": "1667155455",
-      "size": "243239",
-      "md5": "bf0e0b19d6ba5803e4cece08453025f4",
-      "crc32": "c9454944",
-      "sha1": "e8f5e7b2024b978b9fb2e290732d0d71afae272c",
+      "btih": "a5f1ae494999caccdbf0f0bdd48c46e13f6b9824",
+      "mtime": "1667198767",
+      "size": "244332",
+      "md5": "6d6e4d618f38339d197566f63fa43ada",
+      "crc32": "f14aabfb",
+      "sha1": "ff987d6afba2f45b454c777ba06a8037a2a453f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rpbreakingnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7a257a457b4dda6ecb8f4c026f01fe8e",
+      "md5": "b2dbe97dad163ceeda7bc9a8707ab92a",
       "summation": "md5"
     },
     {
       "name": "rpbreakingnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154560",
-      "size": "1429504",
-      "md5": "c2156bf35ea7c19e54bce3e6ddff3f65",
-      "crc32": "314a61aa",
-      "sha1": "eedc03cb6e1d5c2edf51ae69b50fd034cfcfe7d2",
+      "mtime": "1667198713",
+      "size": "1433600",
+      "md5": "e40488999ecd64e646bdb315946b49be",
+      "crc32": "cb8ee285",
+      "sha1": "b0413cb22622fb1bf819f123d627e994a78c0af4",
       "format": "Metadata"
     },
     {
@@ -11500,9 +11551,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1112,
-  "item_last_updated": 1667155455,
-  "item_size": 117927667,
+  "files_count": 1117,
+  "item_last_updated": 1667198767,
+  "item_size": 118295556,
   "metadata": {
     "identifier": "rpbreakingnews-2022",
     "collection": [
@@ -11520,43 +11571,19 @@
     "addeddate": "2022-07-27 17:18:19"
   },
   "pending_tasks": true,
-  "rpbreakingnews-2022": {
-    "url": "https://www.patrika.com/",
-    "job_id": "spn2-cc9f19c68eedbe0f319ba278ffefbda6e3e80f6a",
-    "original_url": "https://www.patrika.com/favicon.ico",
-    "http_status": 502,
-    "status": "success",
-    "counters": {
-      "embeds": 1,
-      "outlinks": 0
-    },
-    "resources": [
-      "https://www.patrika.com/favicon.ico"
-    ],
-    "duration_sec": 27.031,
-    "timestamp": "20221030175255"
-  },
   "server": "ia601400.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457159604,
+      "task_id": 3457577308,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3457166973,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1242771765,
+  "uniq": 1300599742,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

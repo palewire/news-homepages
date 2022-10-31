@@ -1,5 +1,5 @@
 {
-  "created": 1667155997,
+  "created": 1667198683,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/prabhatkhabar-2022",
@@ -11586,31 +11586,82 @@
       "sha1": "c7bbc364b3ca106f640eba8c7f153aa4fc73297f"
     },
     {
+      "name": "prabhatkhabar-2022-10-31T12:13:17.207882+05:30.accessibility.json",
+      "source": "original",
+      "mtime": "1667198608",
+      "size": "230359",
+      "md5": "275cdbc25a5a822e55a3a0babf1d25f3",
+      "crc32": "e3f00168",
+      "sha1": "74b5685d83630d13710b1dff6911a51e5ed55376",
+      "format": "JSON"
+    },
+    {
+      "name": "prabhatkhabar-2022-10-31T12:13:17.207882+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198611",
+      "size": "127722",
+      "md5": "a4ff9eb25f0a1182e871a155c6f2311b",
+      "crc32": "a17b37ae",
+      "sha1": "b06dbc53acf577d20f7608bec0a9da410bf18267",
+      "format": "JSON"
+    },
+    {
+      "name": "prabhatkhabar-2022-10-31T12:13:17.207882+05:30.jpg",
+      "source": "original",
+      "mtime": "1667198607",
+      "size": "247882",
+      "md5": "ed1877d4c5a34b548c8db12710e53703",
+      "crc32": "10048b5b",
+      "sha1": "ac7ecb71ee94e3ae7535ff470c1e81df4dd58ba4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prabhatkhabar-2022-10-31T12:13:17.207882+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198613",
+      "size": "1522",
+      "md5": "fd996c36376f455d914b22ac42b8d764",
+      "crc32": "6ac429e2",
+      "sha1": "944f6089c38e22dfce22764aaa5ae04d261f2c11",
+      "format": "JSON"
+    },
+    {
+      "name": "prabhatkhabar-2022-10-31T12:13:17.207882+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1667198615",
+      "size": "37463",
+      "md5": "74503f2f032dbf27618b8e63ae1c08e1",
+      "crc32": "0c7536cc",
+      "sha1": "6b27f7337a46d5cb7360b8c360d82b5370195b43",
+      "format": "JSON"
+    },
+    {
       "name": "prabhatkhabar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f3756820f8b5a339f9e60a9fe0e4fc5d069672a6",
-      "mtime": "1667155904",
-      "size": "244375",
-      "md5": "cafe78a3398245cc6cd2af5ae69d0e81",
-      "crc32": "b89427d1",
-      "sha1": "7ac515019a7b7f809b0b2e535189f5a5e4b3640e",
+      "btih": "c82ef048efb59c7fab8a3d2050575d396ca80b9c",
+      "mtime": "1667198675",
+      "size": "245465",
+      "md5": "fe3d6d2dcad98deb6aaffe6b7c96aa1e",
+      "crc32": "a0a7c826",
+      "sha1": "24db52c85811d8efcf73b82b08c4b13a488f2051",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prabhatkhabar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3673aa35cd3f7a2b37f5f1a05f8dac10",
+      "md5": "55964e1a59105e4bd2e215fa12e993ac",
       "summation": "md5"
     },
     {
       "name": "prabhatkhabar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154446",
-      "size": "1437696",
-      "md5": "c899210e68c8bf9f2ae3d7351270008f",
-      "crc32": "f2049a32",
-      "sha1": "47bad65c6aa3c231026d58313e6cf08e70034968",
+      "mtime": "1667198621",
+      "size": "1454080",
+      "md5": "6c6ce70d31d6a46bf22f0f9675772fe5",
+      "crc32": "aef105c0",
+      "sha1": "6f42e5e69ba73920e9f40187c978a2870c928d1a",
       "format": "Metadata"
     },
     {
@@ -11624,9 +11675,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1124,
-  "item_last_updated": 1667155904,
-  "item_size": 112811924,
+  "files_count": 1129,
+  "item_last_updated": 1667198675,
+  "item_size": 113474346,
   "metadata": {
     "identifier": "prabhatkhabar-2022",
     "collection": [
@@ -11643,10 +11694,21 @@
     "publicdate": "2022-07-27 17:18:30",
     "addeddate": "2022-07-27 17:18:30"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 284981766,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457576383,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 177504852,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

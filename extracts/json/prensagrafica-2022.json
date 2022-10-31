@@ -1,5 +1,5 @@
 {
-  "created": 1667154717,
+  "created": 1667198687,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/25/items/prensagrafica-2022",
@@ -14754,31 +14754,82 @@
       "sha1": "11f5792108c704fc2514a401baea8a5e2bb5e608"
     },
     {
+      "name": "prensagrafica-2022-10-31T00:43:30.585160-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198620",
+      "size": "65140",
+      "md5": "c0ddb07947e80bde19b5c7eccec6759c",
+      "crc32": "d1a9aeb8",
+      "sha1": "ab5e651981386c24134c4d1e8180ed9fcfb15583",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-10-31T00:43:30.585160-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198622",
+      "size": "48819",
+      "md5": "1f745300adf56d2a849d11cbc00bb9e7",
+      "crc32": "9ad15927",
+      "sha1": "e3fde4bbd363d0696f5a9bcc19be8c0eea9d5a69",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-10-31T00:43:30.585160-06:00.jpg",
+      "source": "original",
+      "mtime": "1667198619",
+      "size": "52122",
+      "md5": "d3613dad60d234fe859794b68905ed99",
+      "crc32": "a392d56e",
+      "sha1": "e448a3cc10156ee0cffa23055ec2ae8f806729b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prensagrafica-2022-10-31T00:43:30.585160-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198623",
+      "size": "1539",
+      "md5": "93c795abbbd38a166ea38fded08765a0",
+      "crc32": "fb8d5620",
+      "sha1": "88b58e6d67c9f7d2a86e5a331ac1bedb2bc0f7df",
+      "format": "JSON"
+    },
+    {
+      "name": "prensagrafica-2022-10-31T00:43:30.585160-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198625",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "prensagrafica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19271eacc2b54cfa823ead20e39945beb209f74a",
-      "mtime": "1667154671",
-      "size": "308769",
-      "md5": "c507ec9e5976365b7c01341d8263e68b",
-      "crc32": "daaef5d6",
-      "sha1": "d700d19798b6d53bc226780a67de1413f7cb3af7",
+      "btih": "067f247940b453aca20d71af837731e5bc8d731c",
+      "mtime": "1667198682",
+      "size": "309834",
+      "md5": "4dc49a3208ef55a7caa53ca8bd638502",
+      "crc32": "a2e6ea6b",
+      "sha1": "72980f9447f17c34f5381af934339bd57dcd88a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prensagrafica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c435ca963fef850773c405679cafd257",
+      "md5": "8009ca9bd2d031c0399190b3ae66f59c",
       "summation": "md5"
     },
     {
       "name": "prensagrafica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154475",
-      "size": "1781760",
-      "md5": "1978b2810d09fcfe213dcfc4bbb04f5f",
-      "crc32": "43d7ab73",
-      "sha1": "39dbcf1173e6a1a62f3675266b0e2309ff8409be",
+      "mtime": "1667198630",
+      "size": "1789952",
+      "md5": "789798c33af5b89144ed31f5999809d1",
+      "crc32": "1d0a1283",
+      "sha1": "ce465604cd044ad0cb2304355ed13bf7bee21bd0",
       "format": "Metadata"
     },
     {
@@ -14792,9 +14843,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1425,
-  "item_last_updated": 1667154671,
-  "item_size": 131453419,
+  "files_count": 1430,
+  "item_last_updated": 1667198682,
+  "item_size": 131630498,
   "metadata": {
     "identifier": "prensagrafica-2022",
     "collection": [
@@ -14811,10 +14862,21 @@
     "publicdate": "2022-06-24 22:59:26",
     "addeddate": "2022-06-24 22:59:26"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 1151258427,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457576394,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1863131934,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667154614,
+  "created": 1667198586,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/20/items/nzherald-2022",
@@ -10690,31 +10690,82 @@
       "sha1": "0e0e5a9681570c5a7c8925165e7913d3f80deb1f"
     },
     {
+      "name": "nzherald-2022-10-31T19:41:49.688132+13:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198523",
+      "size": "66125",
+      "md5": "d5ab4a64902bf2e1248e4c0ec6b4d08b",
+      "crc32": "7b604643",
+      "sha1": "c25e4b07ab4b95cba0713b87e9a1c94dd4f3a23f",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-31T19:41:49.688132+13:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198525",
+      "size": "99720",
+      "md5": "ccf6546bee03f4284f57bade86235afe",
+      "crc32": "a8f3cb3c",
+      "sha1": "8f707a6bc19dd07293e4ac54779d0c76e619d813",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-31T19:41:49.688132+13:00.jpg",
+      "source": "original",
+      "mtime": "1667198522",
+      "size": "257579",
+      "md5": "d1332cca7c1d84f8bfe50ab8914e1bfb",
+      "crc32": "46c881d5",
+      "sha1": "3f1a2db0c9ff27a189ae0c5261b88e152320f236",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nzherald-2022-10-31T19:41:49.688132+13:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198526",
+      "size": "1495",
+      "md5": "43e6c5a0b81f335c3afd2c8c1cdce03b",
+      "crc32": "b823fde5",
+      "sha1": "854c817da39d7659f59923d637b2dcad5b3ef96a",
+      "format": "JSON"
+    },
+    {
+      "name": "nzherald-2022-10-31T19:41:49.688132+13:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198527",
+      "size": "60280",
+      "md5": "1c4eecbbe3c2de57fa7e5a87360b2e96",
+      "crc32": "5f86b6d2",
+      "sha1": "962f7fbf28195ab6a9c0baed859eef0a436f126c",
+      "format": "JSON"
+    },
+    {
       "name": "nzherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a90c1c6e962453acdea68dcc34722edc63936e9e",
-      "mtime": "1667154590",
-      "size": "220614",
-      "md5": "fde188cd569aa6f78dab19e55ffbda82",
-      "crc32": "ebf9d2f8",
-      "sha1": "352553dcf35d734f0c56b650d05f1489dbc915ce",
+      "btih": "96a116c7826e33770e7855af9b1eea4a0d31004b",
+      "mtime": "1667198582",
+      "size": "221677",
+      "md5": "7a900c201a57aa46b5a80ae8f8bac131",
+      "crc32": "5096b53c",
+      "sha1": "86bb4f1bf53ead4cc2059fdc29c88c3593035148",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nzherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7ee8fb8edbca89e6b76e1601d94753ab",
+      "md5": "9a156ef7f7add160f3cd76a1a4ea56de",
       "summation": "md5"
     },
     {
       "name": "nzherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154397",
-      "size": "1327104",
-      "md5": "98afb1e57dc5dd601af95bc51a1ced0a",
-      "crc32": "ef4f801d",
-      "sha1": "4d0d45ef8e39b931d7d21a5ef445e126a32f515f",
+      "mtime": "1667198535",
+      "size": "1335296",
+      "md5": "b3737c400898fe498b63f8c69637fa7d",
+      "crc32": "8257ae72",
+      "sha1": "35c4172d7d9a2449b60aceb17ac1cf12fe3f7697",
       "format": "Metadata"
     },
     {
@@ -10728,9 +10779,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1038,
-  "item_last_updated": 1667154590,
-  "item_size": 108025317,
+  "files_count": 1043,
+  "item_last_updated": 1667198582,
+  "item_size": 108519771,
   "metadata": {
     "identifier": "nzherald-2022",
     "collection": [
@@ -10747,10 +10798,21 @@
     "publicdate": "2022-08-05 04:36:58",
     "addeddate": "2022-08-05 04:36:58"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 1228139535,
+  "pending_tasks": true,
+  "server": "ia902506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457575218,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1707109654,
   "workable_servers": [
-    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

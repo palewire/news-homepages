@@ -1,5 +1,5 @@
 {
-  "created": 1667154841,
+  "created": 1667198493,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/16/items/nypost-2022",
@@ -13226,31 +13226,82 @@
       "sha1": "5b12b2c68fe068c313ee182ea8933a85f26ed562"
     },
     {
+      "name": "nypost-2022-10-31T02:40:07.890962-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198417",
+      "size": "63791",
+      "md5": "9109e37d14c745b0b529048bd240d86f",
+      "crc32": "c0953c32",
+      "sha1": "2bf6d01c11204d78ec154f39bfe1c0fd9977e567",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-10-31T02:40:07.890962-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198418",
+      "size": "68781",
+      "md5": "9fc2e09f0499eb459ca7fe5fd5ed8078",
+      "crc32": "50db3133",
+      "sha1": "dc59a903c90d5d18e55a5773dd8b291971871acb",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-10-31T02:40:07.890962-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198415",
+      "size": "306534",
+      "md5": "515b836dc583b834111e65ab68d8200d",
+      "crc32": "52c970dc",
+      "sha1": "921fcf9b2ade74398834cd1b734945348d61154d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nypost-2022-10-31T02:40:07.890962-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198420",
+      "size": "1423",
+      "md5": "4164859d855bfe14242cd6c2950079e7",
+      "crc32": "812323f5",
+      "sha1": "ab52960f35342d72d7f04c1584863a8973710a9a",
+      "format": "JSON"
+    },
+    {
+      "name": "nypost-2022-10-31T02:40:07.890962-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198422",
+      "size": "59241",
+      "md5": "bf1cfc30a396c56117d13899bee12b27",
+      "crc32": "afaefc9f",
+      "sha1": "a4464f71803238c9c751fe9aa8e3bd5e8346e997",
+      "format": "JSON"
+    },
+    {
       "name": "nypost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd7a8fbef940e33cdd85158a3e59185967a3fb61",
-      "mtime": "1667154569",
-      "size": "268008",
-      "md5": "6867eebb9b691cdaf57bc797ea537f2e",
-      "crc32": "7f63da6e",
-      "sha1": "957b9a49ce34364cfe6d99fe7d46f6628f4ee90a",
+      "btih": "42d0fd3e999c8232503501b6ecdfb8db6252cec4",
+      "mtime": "1667198488",
+      "size": "269061",
+      "md5": "47acfd80fa6481730da9206138094fe2",
+      "crc32": "9cab2ebc",
+      "sha1": "7ade78d7646fe4d333b2c041d8aa94d38bc14221",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nypost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f829f85af4d34c24c97e9b6a2e2fe188",
+      "md5": "00e9255ac9ab8a5a7eeda7cdce4c424c",
       "summation": "md5"
     },
     {
       "name": "nypost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154364",
-      "size": "1585152",
-      "md5": "47014fd67244d51446a60cd36020cc3a",
-      "crc32": "3841eb61",
-      "sha1": "161e4a80cd62de22537a48a2aaacb5c484df5f77",
+      "mtime": "1667198428",
+      "size": "1589248",
+      "md5": "a5314a9948cc06932b7e443ffd55d253",
+      "crc32": "34c652e6",
+      "sha1": "d2c5ef1af80406c5798fa5ba2580f0e1c4b19d29",
       "format": "Metadata"
     },
     {
@@ -13264,9 +13315,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1278,
-  "item_last_updated": 1667154569,
-  "item_size": 120740212,
+  "files_count": 1283,
+  "item_last_updated": 1667198488,
+  "item_size": 121245131,
   "metadata": {
     "identifier": "nypost-2022",
     "collection": [
@@ -13283,10 +13334,21 @@
     "publicdate": "2022-07-04 21:50:06",
     "addeddate": "2022-07-04 21:50:06"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 294551869,
+  "pending_tasks": true,
+  "server": "ia902506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457574202,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1703146240,
   "workable_servers": [
-    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

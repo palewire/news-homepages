@@ -1,5 +1,5 @@
 {
-  "created": 1667154686,
+  "created": 1667198687,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/27/items/reckonnews-2022",
@@ -6020,31 +6020,82 @@
       "sha1": "e299f0487fc49bb03d29de9d72efb26ace35ae68"
     },
     {
+      "name": "reckonnews-2022-10-31T01:43:47.414450-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198633",
+      "size": "17154",
+      "md5": "94355ba41e87a9892fe2059ec315355f",
+      "crc32": "1339fd9e",
+      "sha1": "8b498821094a9130e1ff203582ac6a8bda976c51",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-31T01:43:47.414450-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198635",
+      "size": "10004",
+      "md5": "7a8cb32bc0b4efde5f74adc57d366d21",
+      "crc32": "9bc6082b",
+      "sha1": "1f61d82544ebe285f1fdc7661962825e29e8a0ba",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-31T01:43:47.414450-05:00.jpg",
+      "source": "original",
+      "mtime": "1667198632",
+      "size": "214181",
+      "md5": "22953cbea35a14326c2fbea68c08a250",
+      "crc32": "2657e99d",
+      "sha1": "fe4997a5f1750548e7b9a40ed05dd60ee93f5185",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reckonnews-2022-10-31T01:43:47.414450-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198636",
+      "size": "1467",
+      "md5": "84135ec1cc659347e7e6c172707ba8db",
+      "crc32": "cd114b15",
+      "sha1": "1675be26b14ac15ecd76e2df349a45facab4c902",
+      "format": "JSON"
+    },
+    {
+      "name": "reckonnews-2022-10-31T01:43:47.414450-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198637",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "reckonnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e7cd617578cc359c5e9b002dd9319b13d14c6585",
-      "mtime": "1667154642",
-      "size": "124440",
-      "md5": "0676176015d022229ecbf15fe72608a5",
-      "crc32": "a9978d2d",
-      "sha1": "be17074fe648c4b54b9b2415d41d281903613d62",
+      "btih": "645b2ef25eddc90e4cc902d8f9cd53a4099b83d7",
+      "mtime": "1667198683",
+      "size": "125491",
+      "md5": "05b8d7ba963a48b8c47ea138eff21be5",
+      "crc32": "92799d6d",
+      "sha1": "2e6545234d974224aefea0263a73b0adeae4079d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reckonnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8fc97b4e21d4bbab5d44c35747d238a0",
+      "md5": "58973d6e4db581b7547554a6ab58752c",
       "summation": "md5"
     },
     {
       "name": "reckonnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154530",
-      "size": "761856",
-      "md5": "16e3008ea4480da4463403eabb2536e3",
-      "crc32": "1bc2938f",
-      "sha1": "0975f67b3640683c7474404da612e6a455fbf327",
+      "mtime": "1667198644",
+      "size": "765952",
+      "md5": "5efb93b2018a802ac4844694fc119658",
+      "crc32": "7469b0f2",
+      "sha1": "d580f164cee7b1407f1c948e32b612109c6095b0",
       "format": "Metadata"
     },
     {
@@ -6058,9 +6109,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 586,
-  "item_last_updated": 1667154642,
-  "item_size": 27575987,
+  "files_count": 591,
+  "item_last_updated": 1667198683,
+  "item_size": 27824142,
   "metadata": {
     "identifier": "reckonnews-2022",
     "collection": [
@@ -6077,10 +6128,21 @@
     "publicdate": "2022-09-12 05:05:56",
     "addeddate": "2022-09-12 05:05:56"
   },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 565954490,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457576395,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1422740307,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }

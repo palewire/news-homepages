@@ -1,5 +1,5 @@
 {
-  "created": 1667154758,
+  "created": 1667198763,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/9/items/setopati-2022",
@@ -11866,31 +11866,82 @@
       "sha1": "510e8d9b5d5ed54ffa6b70500486ee79903199a5"
     },
     {
+      "name": "setopati-2022-10-31T12:29:44.767130+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667198697",
+      "size": "111464",
+      "md5": "00a25b88abdc5a89890d7cb8b334491b",
+      "crc32": "43e43d89",
+      "sha1": "449f48274e5e9ad682c4a0b5576b2f0be4f4afd8",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-10-31T12:29:44.767130+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198699",
+      "size": "112181",
+      "md5": "e3f16b52f98e47fd26a765aa9100811e",
+      "crc32": "c2a14d04",
+      "sha1": "af5a0daebfa27212bda5eb1a5911734899c2197c",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-10-31T12:29:44.767130+05:45.jpg",
+      "source": "original",
+      "mtime": "1667198695",
+      "size": "161032",
+      "md5": "24f2bb0b73d39c356702668e1c952674",
+      "crc32": "aa43fd28",
+      "sha1": "dd7b10113a0a753cee6d16f4c9c126d5da70efcf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "setopati-2022-10-31T12:29:44.767130+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198704",
+      "size": "1467",
+      "md5": "3d44576dfc16ba5470366744a0a158ee",
+      "crc32": "c19fe2a2",
+      "sha1": "45a8eca85cb9fd4b2acbd91177472916c6b1e3ea",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-10-31T12:29:44.767130+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667198706",
+      "size": "383",
+      "md5": "522249433775b0178d5e9778c742ecb4",
+      "crc32": "a5b1bd51",
+      "sha1": "52a18b8bcce90519319ae78bf8959949943f3ac1",
+      "format": "JSON"
+    },
+    {
       "name": "setopati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "92ab4c9b043a6b77ea1e06414f84c416a39abfa2",
-      "mtime": "1667154743",
-      "size": "243733",
-      "md5": "9fa53f96f2e0def2a831131a293202b0",
-      "crc32": "ec6a0c9c",
-      "sha1": "76362f11f49d908bd3210970f7b21061fe4ba695",
+      "btih": "4b3136db948d505580018f0dadf10cb548719ffa",
+      "mtime": "1667198757",
+      "size": "244796",
+      "md5": "3897decfd215c5119bfcae8330e993fd",
+      "crc32": "6add636e",
+      "sha1": "e1e7ee6e90df6b78adfaac42c4d3cabc19c14102",
       "format": "Archive BitTorrent"
     },
     {
       "name": "setopati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5e8e79c70260b6d151a7aef6177e18aa",
+      "md5": "cacf9e17f54b0f4fc2a91864c1c38094",
       "summation": "md5"
     },
     {
       "name": "setopati-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154670",
-      "size": "1458176",
-      "md5": "e7802a67d0c6f46befe9ecdf519b9650",
-      "crc32": "6a6d89bc",
-      "sha1": "e51b872789d4d8b091b33f12e0c21705f20507a0",
+      "mtime": "1667198709",
+      "size": "1470464",
+      "md5": "3e7b29d99a85fda46d609d66ba1a5009",
+      "crc32": "abaca2e3",
+      "sha1": "bed62f814be538fd0e0f444c6343c39b8a18238e",
       "format": "Metadata"
     },
     {
@@ -11904,9 +11955,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1151,
-  "item_last_updated": 1667154743,
-  "item_size": 96025683,
+  "files_count": 1156,
+  "item_last_updated": 1667198757,
+  "item_size": 96425561,
   "metadata": {
     "identifier": "setopati-2022",
     "collection": [
@@ -11923,10 +11974,21 @@
     "publicdate": "2022-07-24 20:39:32",
     "addeddate": "2022-07-24 20:39:32"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1842557340,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457577132,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 813082525,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

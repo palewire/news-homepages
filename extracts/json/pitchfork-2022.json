@@ -1,5 +1,5 @@
 {
-  "created": 1667154595,
+  "created": 1667198623,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/33/items/pitchfork-2022",
@@ -21402,31 +21402,82 @@
       "sha1": "1d11f1337378f7a70d0d4faee52dc931f7190f68"
     },
     {
+      "name": "pitchfork-2022-10-31T01:42:12.888523-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198544",
+      "size": "25093",
+      "md5": "d3ed7dde9c0bf13fea434af21efa7f6f",
+      "crc32": "9acf570e",
+      "sha1": "4d96e8dd439eead6015ac7b68df9ecf158190501",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-10-31T01:42:12.888523-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198546",
+      "size": "13148",
+      "md5": "5b8a84bca747033489bea4d6db5e1ffe",
+      "crc32": "cf10d3e2",
+      "sha1": "6779799f7c5484d8833ecf4602635defe361600f",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-10-31T01:42:12.888523-05:00.jpg",
+      "source": "original",
+      "mtime": "1667198542",
+      "size": "229926",
+      "md5": "f51a407864b40a8a17b9aae1bd4053fc",
+      "crc32": "516a78a2",
+      "sha1": "40e4c82cb0ff03ca1056b66a1134469d9350a2a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pitchfork-2022-10-31T01:42:12.888523-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198547",
+      "size": "1450",
+      "md5": "484116e47dea93c66101e819523bf462",
+      "crc32": "5d6a540a",
+      "sha1": "a4a7cb28aae27e8b1a78b8039c46305758900b4b",
+      "format": "JSON"
+    },
+    {
+      "name": "pitchfork-2022-10-31T01:42:12.888523-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198549",
+      "size": "142752",
+      "md5": "d9bfe537c902410d6f82d5ddb02e64d7",
+      "crc32": "789ff352",
+      "sha1": "520cd155738eb2a58b79867d983385276d003665",
+      "format": "JSON"
+    },
+    {
       "name": "pitchfork-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea49432344c41b214b4ec3680b0838db513f311d",
-      "mtime": "1667154587",
-      "size": "436654",
-      "md5": "a3140170d9e38ea5cd9a61962da14f27",
-      "crc32": "40cb61a5",
-      "sha1": "ba1e89ff2b63da93c80ac232759d22b6113a19a4",
+      "btih": "bb56bce7292ced2c29ecc590db844e4d84b0c453",
+      "mtime": "1667198619",
+      "size": "437723",
+      "md5": "fd5b998fc9da11273d95256092b1897c",
+      "crc32": "3ef0ec6b",
+      "sha1": "96d2b3c57f62bc81dee7b1dc887d2834cd72e91f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pitchfork-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a342a4099873f3d2e6bbce8d99e023df",
+      "md5": "b05ef70b988b8b43a97d3a41d3f9520a",
       "summation": "md5"
     },
     {
       "name": "pitchfork-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154472",
-      "size": "2576384",
-      "md5": "0db76a1e24177e88f58f8a0d850ea14a",
-      "crc32": "ffacb0c5",
-      "sha1": "101f29663c270267e7b6de92f12e14f1ffac29ff",
+      "mtime": "1667198555",
+      "size": "2588672",
+      "md5": "5371845f4c1e767bcc88840a0713d4d4",
+      "crc32": "a1d6a8d8",
+      "sha1": "378b1e163104acc553b69c16789945efe2141191",
       "format": "Metadata"
     },
     {
@@ -21440,9 +21491,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2067,
-  "item_last_updated": 1667154587,
-  "item_size": 126437423,
+  "files_count": 2072,
+  "item_last_updated": 1667198619,
+  "item_size": 126863149,
   "metadata": {
     "identifier": "pitchfork-2022",
     "collection": [
@@ -21459,10 +21510,21 @@
     "publicdate": "2022-06-24 22:59:44",
     "addeddate": "2022-06-24 22:59:44"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 94379758,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457575713,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2050470357,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667154783,
+  "created": 1667198763,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/10/items/seacoastonline-2022",
@@ -4996,31 +4996,82 @@
       "sha1": "990893ecf9d6c2e5a952aae0c258e2edbaadccab"
     },
     {
+      "name": "seacoastonline-2022-10-31T02:45:03.733205-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198712",
+      "size": "22254",
+      "md5": "4f3a421bdba5cbd5d9eeb2a9027b0e6b",
+      "crc32": "6de3769f",
+      "sha1": "df99555718de0a5434e51bc9ea96c4413c6873ca",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-31T02:45:03.733205-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198713",
+      "size": "32444",
+      "md5": "e015846cdca71d974fd7ea07b73f339c",
+      "crc32": "c4ae41b6",
+      "sha1": "e0b0550adc078287e259837ff8ec03bb6fe70b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-31T02:45:03.733205-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198710",
+      "size": "272115",
+      "md5": "7271ec56c0b6f7f2509345a188d85be2",
+      "crc32": "acbb9d91",
+      "sha1": "8eba3e4ff5818a5217874cb35f7aa40db37babd3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seacoastonline-2022-10-31T02:45:03.733205-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198715",
+      "size": "1531",
+      "md5": "ff138cd048df575025b8822cd64499a9",
+      "crc32": "79c51eb2",
+      "sha1": "f2747560f13d75ff587234dad5936caabe5c545e",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-10-31T02:45:03.733205-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198716",
+      "size": "188767",
+      "md5": "86f0913d3a451847a5c8651bf2134883",
+      "crc32": "d0168af1",
+      "sha1": "63b4efc937bfba97e35bf572b7cafc3b6de188ca",
+      "format": "JSON"
+    },
+    {
       "name": "seacoastonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "54b3b05e899ddccc893c1177197e1f0e49f89269",
-      "mtime": "1667154761",
-      "size": "105987",
-      "md5": "c85d240d5bd1ae6bc70037775008c4e3",
-      "crc32": "cd5964ff",
-      "sha1": "c93acd64e2225e82d13e10a65690f5ae5a13ba9c",
+      "btih": "e8e7a9e0eca26388a318a8f3a798c3b5ac064aff",
+      "mtime": "1667198759",
+      "size": "107081",
+      "md5": "52c8621543603d0d355c0f7df28785a1",
+      "crc32": "305e036c",
+      "sha1": "59c3e0272bb6acb993636e47f840231b26c14000",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seacoastonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c79f16584275c01e099a9a02acdfa918",
+      "md5": "a6803db5f20998139ad5d7a5ae12a6af",
       "summation": "md5"
     },
     {
       "name": "seacoastonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154663",
-      "size": "638976",
-      "md5": "591c3dac1e3021c6e4edb7bd5fc3ff2c",
-      "crc32": "80349505",
-      "sha1": "831238515c0c0bc908a38c0feff128688a77ee22",
+      "mtime": "1667198721",
+      "size": "647168",
+      "md5": "166dd15e7034219e8c865760e6105ea1",
+      "crc32": "efc52609",
+      "sha1": "18d725471898f43d68b39b7f3abf9f901f79561b",
       "format": "Metadata"
     },
     {
@@ -5034,9 +5085,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 487,
-  "item_last_updated": 1667154761,
-  "item_size": 33310543,
+  "files_count": 492,
+  "item_last_updated": 1667198759,
+  "item_size": 33836940,
   "metadata": {
     "identifier": "seacoastonline-2022",
     "collection": [
@@ -5053,10 +5104,21 @@
     "publicdate": "2022-09-20 19:24:59",
     "addeddate": "2022-09-20 19:24:59"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1289386991,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457577133,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 188392463,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

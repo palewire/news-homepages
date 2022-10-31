@@ -1,5 +1,5 @@
 {
-  "created": 1667155549,
+  "created": 1667198467,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/14/items/novayagazeta_eu-2022",
@@ -18656,31 +18656,82 @@
       "sha1": "8f366319365aef01b5cdb57564cba23709e48b56"
     },
     {
+      "name": "novayagazeta_eu-2022-10-31T09:39:32.548533+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198388",
+      "size": "74459",
+      "md5": "7284f4989ce78ac7579a060169f81f7f",
+      "crc32": "adb0d54c",
+      "sha1": "9e748491c6cdd5e4e8122a791ab31b3c88a7b8b5",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-31T09:39:32.548533+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198389",
+      "size": "47851",
+      "md5": "ca63c305680375b42a4917eed9aee984",
+      "crc32": "4b24a17a",
+      "sha1": "512256b9727ea8138dd4e1e09d88410a818e2bff",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-31T09:39:32.548533+03:00.jpg",
+      "source": "original",
+      "mtime": "1667198385",
+      "size": "320636",
+      "md5": "ad5b584773a91cc31d686affd5c242ac",
+      "crc32": "e000115e",
+      "sha1": "a5c9d0f31c2f1ecbae5c4f4806a04e526618c16e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-31T09:39:32.548533+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198391",
+      "size": "1449",
+      "md5": "d3ffb11faead839034404bce05918a42",
+      "crc32": "d4804cc6",
+      "sha1": "dfc62c46b90925189449adc406eb02f5ad955936",
+      "format": "JSON"
+    },
+    {
+      "name": "novayagazeta_eu-2022-10-31T09:39:32.548533+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198393",
+      "size": "11418",
+      "md5": "9d546ee7b41b750dcb8bbb598165a694",
+      "crc32": "ff6329c0",
+      "sha1": "8f28d62169517077ee7d78ed4abc3d7a66278161",
+      "format": "JSON"
+    },
+    {
       "name": "novayagazeta_eu-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f014c12ba517fde7678ecc88ba56fda711d4930a",
-      "mtime": "1667154823",
-      "size": "392160",
-      "md5": "7cd6a250e2e36f8c20939c5f80541e36",
-      "crc32": "8c5b6646",
-      "sha1": "97b29dea77ea3a06204ff8e2b1e8cdc82e7049ae",
+      "btih": "80283327ef985722d40dc87f9fcde9fc4c21ec3f",
+      "mtime": "1667198462",
+      "size": "393258",
+      "md5": "ab8a3aed90b0b17c7de9fb8ebb643402",
+      "crc32": "a7378742",
+      "sha1": "8c696c829368f68fab12b136ca3d59748ea7ac69",
       "format": "Archive BitTorrent"
     },
     {
       "name": "novayagazeta_eu-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a1a75e1ef0809457dfaa5cc5e5a4911",
+      "md5": "8f18d2ccefc81c9248c0f13eb18f11a5",
       "summation": "md5"
     },
     {
       "name": "novayagazeta_eu-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154369",
-      "size": "2293760",
-      "md5": "9d8f7c23db27448587c016bf3f6bd3e9",
-      "crc32": "74502290",
-      "sha1": "fe6ef49c2a64abd4a3dde5bb3a6e4518334a65e7",
+      "mtime": "1667198398",
+      "size": "2306048",
+      "md5": "1358ec002145c32fbf090fa41c12eaea",
+      "crc32": "0ef57732",
+      "sha1": "aaf11ffb557e1edd4e37ea0ee67b829fa5f6f038",
       "format": "Metadata"
     },
     {
@@ -18694,9 +18745,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1806,
-  "item_last_updated": 1667154823,
-  "item_size": 121400581,
+  "files_count": 1811,
+  "item_last_updated": 1667198462,
+  "item_size": 121869780,
   "metadata": {
     "identifier": "novayagazeta_eu-2022",
     "collection": [
@@ -18713,10 +18764,61 @@
     "publicdate": "2022-07-16 20:48:55",
     "addeddate": "2022-07-16 20:48:55"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 1702090845,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457574013,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3457574251,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3457574275,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3457574287,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3457574306,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3457574320,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1316372325,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

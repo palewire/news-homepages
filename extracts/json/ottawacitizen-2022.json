@@ -1,5 +1,5 @@
 {
-  "created": 1667155463,
+  "created": 1667198607,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/4/items/ottawacitizen-2022",
@@ -14650,31 +14650,82 @@
       "sha1": "0cc54b5160cdfdb6b5b183c29e67f4627f058f8c"
     },
     {
+      "name": "ottawacitizen-2022-10-31T02:41:57.359958-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198526",
+      "size": "63047",
+      "md5": "56b252e66bbfb1cb168b6ac3ddce4ae9",
+      "crc32": "9516462e",
+      "sha1": "3ae9543e0ba706642ec20c0954b4b8f8b562cbf7",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-10-31T02:41:57.359958-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198528",
+      "size": "47946",
+      "md5": "902ed41c1d5ead1466651d5d4de68534",
+      "crc32": "c206e866",
+      "sha1": "1d7d4636d9397c09d88e11b5a90aa9c14bc77964",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-10-31T02:41:57.359958-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198524",
+      "size": "290685",
+      "md5": "71c237628eb1eec3bb428254d5e4f5c3",
+      "crc32": "8c7e2573",
+      "sha1": "70eb8c82f362814a4bf34d759c61f58e25beeeb9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ottawacitizen-2022-10-31T02:41:57.359958-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198532",
+      "size": "1474",
+      "md5": "5cf359afdf024ca94df5f1da6a53b028",
+      "crc32": "0cf07bd3",
+      "sha1": "409ffd36952465e004725898406dbd7071da117c",
+      "format": "JSON"
+    },
+    {
+      "name": "ottawacitizen-2022-10-31T02:41:57.359958-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198534",
+      "size": "489",
+      "md5": "ae6875fcfcd81cb1b94e26ce46fcb3b2",
+      "crc32": "eb0e8e6c",
+      "sha1": "f39b866ff4c01e280bc1c27c3a9964283d8451d4",
+      "format": "JSON"
+    },
+    {
       "name": "ottawacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72fea3b76e7ae65b32b74b53c08aff5d291842f0",
-      "mtime": "1667155371",
-      "size": "306077",
-      "md5": "1bc2bd7c566bf7c84654143304ff5ebc",
-      "crc32": "2d4eb97a",
-      "sha1": "ac6cf4c27005610833ca0791171b40277c6cc1d5",
+      "btih": "65d8340b9cabe6aa0a7b2c93a7bf51537f1e5212",
+      "mtime": "1667198597",
+      "size": "307163",
+      "md5": "eca8ead11943870375fbad326072e772",
+      "crc32": "409b6fe0",
+      "sha1": "7398fcc745b500071f7c7b40b396db0de704b1b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ottawacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77a1cd1cf9f349f346914c3890410f7f",
+      "md5": "e3819d1a9abd7239d6e1c4a7e8e64652",
       "summation": "md5"
     },
     {
       "name": "ottawacitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154439",
-      "size": "1777664",
-      "md5": "2dd658a49efa88d82f8f17dd3128de09",
-      "crc32": "6aac656c",
-      "sha1": "b75fcf986d943eaed50481017b7fb7518776fd7b",
+      "mtime": "1667198538",
+      "size": "1785856",
+      "md5": "801503983eb83cab7f25aec3f56815ce",
+      "crc32": "6a4ca03c",
+      "sha1": "8d46020ae158f8bff410ae151830ee87271f07d8",
       "format": "Metadata"
     },
     {
@@ -14688,9 +14739,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1416,
-  "item_last_updated": 1667155371,
-  "item_size": 116307290,
+  "files_count": 1421,
+  "item_last_updated": 1667198597,
+  "item_size": 116720209,
   "metadata": {
     "identifier": "ottawacitizen-2022",
     "collection": [
@@ -14707,10 +14758,21 @@
     "publicdate": "2022-06-30 22:35:58",
     "addeddate": "2022-06-30 22:35:58"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 810624609,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457575511,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 499195175,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

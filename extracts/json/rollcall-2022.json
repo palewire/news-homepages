@@ -1,5 +1,5 @@
 {
-  "created": 1667156225,
+  "created": 1667198749,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -13234,31 +13234,82 @@
       "sha1": "defd72af6169c05dd8fd663ff9198f5668bddba0"
     },
     {
+      "name": "rollcall-2022-10-31T02:44:10.096723-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198663",
+      "size": "37856",
+      "md5": "ed64fd533bf854d74fb3bfa70eced90b",
+      "crc32": "03b9267e",
+      "sha1": "512950d44427548799547e269830b9ed7d500d4a",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-10-31T02:44:10.096723-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198665",
+      "size": "27484",
+      "md5": "980da1061c137dc960c521fb0f0c0a6f",
+      "crc32": "3dd15ef6",
+      "sha1": "9d4cd1abc7eb6c9c6e062baafdfff67bc3cb98a9",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-10-31T02:44:10.096723-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198661",
+      "size": "269411",
+      "md5": "fb6c48074045135aee88e71cfa456a47",
+      "crc32": "4c2f3187",
+      "sha1": "f86881389ee608066d7a479ea4b3c7d7acbf932b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollcall-2022-10-31T02:44:10.096723-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198666",
+      "size": "1441",
+      "md5": "6542bdbdccc616e7a41e295e59447811",
+      "crc32": "e525a96d",
+      "sha1": "113ed876c13e04416f39a40683020536bfd20bf3",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-10-31T02:44:10.096723-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198668",
+      "size": "30283",
+      "md5": "e5fb97504acafdff11f93b7d3b312364",
+      "crc32": "ff6689f2",
+      "sha1": "4928710c7552b4e67a1cb4a3597f112fc0121e54",
+      "format": "JSON"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6f57634c76bcdd850ce9bb3944080573b320815",
-      "mtime": "1667155298",
-      "size": "269723",
-      "md5": "569080c22ed9dd762f3374b98b6c9a43",
-      "crc32": "a983e7f8",
-      "sha1": "07decc73a7896f9a0daf559a66344b3d6ab420c8",
+      "btih": "dc37c74bba8e47f58d48563bb12127edc067951b",
+      "mtime": "1667198739",
+      "size": "270786",
+      "md5": "4e4a76be0d653f4050a5d9c27f15167d",
+      "crc32": "38ac69d0",
+      "sha1": "860bc0a28f9de0736d0a873d353a49f402c0a669",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d1d8125677e6eb109f8857f5cdaf8671",
+      "md5": "ca5f763d3375aa641a554369dc752d1d",
       "summation": "md5"
     },
     {
       "name": "rollcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154611",
-      "size": "1597440",
-      "md5": "f2ba9c35d407b001762def05df9eb99f",
-      "crc32": "159bd6c4",
-      "sha1": "beb6bcfd69aa6c61ca114cdeac4a9b444a2ce1b5",
+      "mtime": "1667198680",
+      "size": "1605632",
+      "md5": "c32e3993b363bab24bafa8dd03305bf2",
+      "crc32": "f3c13ebe",
+      "sha1": "ec046b6e65923f4cef37ab72bf0686d61fed89c3",
       "format": "Metadata"
     },
     {
@@ -13272,9 +13323,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1280,
-  "item_last_updated": 1667155298,
-  "item_size": 83933656,
+  "files_count": 1285,
+  "item_last_updated": 1667198739,
+  "item_size": 84309386,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -13291,10 +13342,21 @@
     "publicdate": "2022-07-04 21:52:31",
     "addeddate": "2022-07-04 21:52:31"
   },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1692316120,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457576969,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 745459419,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

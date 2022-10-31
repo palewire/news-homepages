@@ -1,5 +1,5 @@
 {
-  "created": 1667155857,
+  "created": 1667198505,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/14/items/northjersey-2022",
@@ -5038,31 +5038,82 @@
       "sha1": "0fa994549893b74a7aef64ad1e3149c3fc068d5c"
     },
     {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198447",
+      "size": "22140",
+      "md5": "615c2b9743da1071003333e08b1ad1fa",
+      "crc32": "d8d848e2",
+      "sha1": "c09cda3d0fecfc5c8fd49a01ee55e502dc0e7055",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198449",
+      "size": "37861",
+      "md5": "7777cf97d6aacb559badb60389c69a22",
+      "crc32": "e08ce43f",
+      "sha1": "f95c2a0beaaf06f7c91ab19baa1872eb14f9984a",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198446",
+      "size": "297537",
+      "md5": "694ee03fa6a43c64af8b74d3d7b7ef81",
+      "crc32": "f4400e9a",
+      "sha1": "9d60a49ad9d5fff42dadeb05ca1ad8ce9b7456bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198450",
+      "size": "1504",
+      "md5": "453bb714c2e522088706071ebf2bab91",
+      "crc32": "bddb8789",
+      "sha1": "de030e43cb90c60c75a81565c1e4914409ea932b",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198452",
+      "size": "153722",
+      "md5": "0757a757eee12b67b833a39cafefa6ed",
+      "crc32": "c1c604e5",
+      "sha1": "6fdb578a25b24efebf9d56a4168e967215db2faa",
+      "format": "JSON"
+    },
+    {
       "name": "northjersey-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e55fa10c06a23f9d7084edf050a5140b1011dacd",
-      "mtime": "1667155319",
-      "size": "105427",
-      "md5": "4a27c45d6d18729da8c42521e4bc4704",
-      "crc32": "482293e2",
-      "sha1": "4927ce245407125136c88b7bb40221b4ca6e9b33",
+      "btih": "4dd4946c92ea57e455dfdadf055faec013f8c486",
+      "mtime": "1667198499",
+      "size": "106506",
+      "md5": "0332f7d068a644c42326ccb07e23aede",
+      "crc32": "934ad6f7",
+      "sha1": "0e97ee0f2d2bca4f456735f2385644645aede85b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "northjersey-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6732dc89966abca0be77cc85baf004b1",
+      "md5": "949b89c3c5ba797789a821f5e9ac00b8",
       "summation": "md5"
     },
     {
       "name": "northjersey-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154349",
-      "size": "638976",
-      "md5": "24a7e8455f05ba5affc0b79aa68f6372",
-      "crc32": "78298c6d",
-      "sha1": "85d76cc515c4b51fa3c7a02bb4da4f37ff25a13b",
+      "mtime": "1667198458",
+      "size": "651264",
+      "md5": "bf3d8d1d513a1676c70452d4a6473a46",
+      "crc32": "65125974",
+      "sha1": "b5d39dfebe092b24d16fd79ca4512aa94ef3c100",
       "format": "Metadata"
     },
     {
@@ -5076,9 +5127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 491,
-  "item_last_updated": 1667155319,
-  "item_size": 34313468,
+  "files_count": 496,
+  "item_last_updated": 1667198499,
+  "item_size": 34839599,
   "metadata": {
     "identifier": "northjersey-2022",
     "collection": [
@@ -5095,10 +5146,21 @@
     "publicdate": "2022-09-20 19:06:17",
     "addeddate": "2022-09-20 19:06:17"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1735611792,
+  "pending_tasks": true,
+  "server": "ia601404.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457574309,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 340607051,
   "workable_servers": [
-    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

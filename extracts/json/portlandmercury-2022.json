@@ -1,5 +1,5 @@
 {
-  "created": 1667154988,
+  "created": 1667198637,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -12474,31 +12474,82 @@
       "sha1": "38e5c536e449c221a71373a8561e336215317cb9"
     },
     {
+      "name": "portlandmercury-2022-10-30T23:42:35.410396-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198565",
+      "size": "22800",
+      "md5": "180398923b7da6ee4835d4a5e3da10b0",
+      "crc32": "6d29bdb0",
+      "sha1": "d27451576abab9a5c2ededa590a052de3fe4f31d",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-30T23:42:35.410396-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198566",
+      "size": "22793",
+      "md5": "772d7b86deffd53ea84161a06a509262",
+      "crc32": "b4712506",
+      "sha1": "32817d9e146fab5985606b55f9bd2b06ac86ab92",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-30T23:42:35.410396-07:00.jpg",
+      "source": "original",
+      "mtime": "1667198559",
+      "size": "297398",
+      "md5": "5c636941fbe653f4d89191d63e6f9968",
+      "crc32": "69029142",
+      "sha1": "2f6353a1f9bfd60191180f12efd1d69f478c61d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portlandmercury-2022-10-30T23:42:35.410396-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198568",
+      "size": "1538",
+      "md5": "ee841f55261ded26ca30b842b92a8e29",
+      "crc32": "f62f2370",
+      "sha1": "fd636735851c3cab73c47d7cf22df5954e16735b",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-10-30T23:42:35.410396-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198571",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c663ed43a4031beb606e2682392c4a2cbe29d2f7",
-      "mtime": "1667154878",
-      "size": "264101",
-      "md5": "9a6293ac9bc3a075f72b54ff704e4cd7",
-      "crc32": "811dfabd",
-      "sha1": "71663e7390c553a7cfab1be1ce9aea520ac34430",
+      "btih": "9811fc9e0dd9612b5e965e16ea17b254ceeeba21",
+      "mtime": "1667198628",
+      "size": "265197",
+      "md5": "a7e776995c5026fe165915bc4efc2c58",
+      "crc32": "1d712e80",
+      "sha1": "4454554e5cea66a18bdb85d3a75f22f806eeb802",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5436166f53c41b5f8c6bc304e01b6b4d",
+      "md5": "f541afab11ef4b121c586cf46d30fd7a",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154449",
-      "size": "1560576",
-      "md5": "6caa4fd2c87330c83098ee08c8b1cf65",
-      "crc32": "4bc9df55",
-      "sha1": "0314465307b2f7b3e489a067757b844c632eaa8a",
+      "mtime": "1667198577",
+      "size": "1576960",
+      "md5": "13bedd26a54ab6fc29530350d9633d8d",
+      "crc32": "382c9584",
+      "sha1": "fcc0c0a395f3d1cef1c85ccd665ae913d09d0f3a",
       "format": "Metadata"
     },
     {
@@ -12512,9 +12563,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1211,
-  "item_last_updated": 1667154878,
-  "item_size": 80285945,
+  "files_count": 1216,
+  "item_last_updated": 1667198628,
+  "item_size": 80648156,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -12531,10 +12582,21 @@
     "publicdate": "2022-07-04 21:51:34",
     "addeddate": "2022-07-04 21:51:34"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 2005995815,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457575868,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 827354114,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

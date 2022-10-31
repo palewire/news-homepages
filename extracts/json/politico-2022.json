@@ -1,5 +1,5 @@
 {
-  "created": 1667155426,
+  "created": 1667198573,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/14/items/politico-2022",
@@ -14378,31 +14378,82 @@
       "sha1": "72dc7c1d99a316013789cdaea901102648bf4323"
     },
     {
+      "name": "politico-2022-10-31T02:41:42.499793-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198511",
+      "size": "62217",
+      "md5": "4237e2923dd0e93d3bf92e5e45966569",
+      "crc32": "56ef8d3b",
+      "sha1": "91652419d16b16affac4c6a69450156f26978449",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-10-31T02:41:42.499793-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198513",
+      "size": "47574",
+      "md5": "d22fb509472f74d6f2edabf87dc36b98",
+      "crc32": "be952a2b",
+      "sha1": "2debb31d3f98a50f0da1d81d4a94cb9bd0b10606",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-10-31T02:41:42.499793-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198509",
+      "size": "246466",
+      "md5": "40fdf616875841ff60ea486a9d80a168",
+      "crc32": "6b7e2939",
+      "sha1": "b78ad8e1cd1c858f1cc3cd808e46f2b9998e9344",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politico-2022-10-31T02:41:42.499793-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198515",
+      "size": "1477",
+      "md5": "7f727735d8deea199a2444d74fffb459",
+      "crc32": "19a189f2",
+      "sha1": "ce557a36584a14a113ac4952a62349fc74bd62da",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-10-31T02:41:42.499793-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198516",
+      "size": "55238",
+      "md5": "7b60a8a53e0389f1c580198897dfacbd",
+      "crc32": "20584a59",
+      "sha1": "a0ce63bdeafbb7d3e6d6dbfd305f8331cc27654a",
+      "format": "JSON"
+    },
+    {
       "name": "politico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ad1c00f6b58e1e09672ba6a67a74cf542f7f6e5",
-      "mtime": "1667155386",
-      "size": "293268",
-      "md5": "8e8e331de1846edbd98e6d41ff95cc61",
-      "crc32": "9b701369",
-      "sha1": "91a29a2205b9f9948a1d9a3da0b02ccbc65db900",
+      "btih": "58688c58c0ea45e675e0f6e1d5b065bc9fc45546",
+      "mtime": "1667198569",
+      "size": "294331",
+      "md5": "11153a62453be960e22b4283fafc83c5",
+      "crc32": "b492b9d9",
+      "sha1": "0e5132ce9e8b03c6e9966b08cb955b51be3af3fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e942d75a8e259838b4a50a0172258728",
+      "md5": "99f0ac9946d24e645ff41bdeae425cac",
       "summation": "md5"
     },
     {
       "name": "politico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154441",
-      "size": "1732608",
-      "md5": "c2d94adf8d05248277ff3a7118a9bec7",
-      "crc32": "ef864935",
-      "sha1": "06f4dcd9a904b545ec5c08dd8dcb4dc367da2f6c",
+      "mtime": "1667198520",
+      "size": "1736704",
+      "md5": "8d10328186c2982bc2364c65ab2bf99e",
+      "crc32": "7eafc5d5",
+      "sha1": "04204613f122aed7ea5defa07c1979cfaf726d40",
       "format": "Metadata"
     },
     {
@@ -14416,9 +14467,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1390,
-  "item_last_updated": 1667155386,
-  "item_size": 107389413,
+  "files_count": 1395,
+  "item_last_updated": 1667198569,
+  "item_size": 107807544,
   "metadata": {
     "identifier": "politico-2022",
     "collection": [
@@ -14435,10 +14486,21 @@
     "publicdate": "2022-06-27 18:09:13",
     "addeddate": "2022-06-27 18:09:13"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1249034075,
+  "pending_tasks": true,
+  "server": "ia902500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457575054,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 90957518,
   "workable_servers": [
-    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

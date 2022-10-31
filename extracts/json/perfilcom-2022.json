@@ -1,5 +1,5 @@
 {
-  "created": 1667154641,
+  "created": 1667198612,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/perfilcom-2022",
@@ -9982,31 +9982,82 @@
       "sha1": "f6ee04e31c01e1ba9e2e29a34103892862f724c5"
     },
     {
+      "name": "perfilcom-2022-10-31T03:42:07.589013-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198535",
+      "size": "74019",
+      "md5": "509fac4f33aef9754f95d35e0e559a90",
+      "crc32": "03074b6c",
+      "sha1": "3a03a05ec3805163a3007d20f17304553aa96bd1",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-10-31T03:42:07.589013-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198536",
+      "size": "131081",
+      "md5": "c79546547b6bc45723faf2fec3cea2c2",
+      "crc32": "67a22fd2",
+      "sha1": "f663b944a15bd73c9f7e3a9fc04ce0604d638d44",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-10-31T03:42:07.589013-03:00.jpg",
+      "source": "original",
+      "mtime": "1667198533",
+      "size": "354533",
+      "md5": "1c5323ec44956447746168a10d5dc9ac",
+      "crc32": "4f768888",
+      "sha1": "6e157c5e965f4c601cc35045f9f3f23a53fcbce3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "perfilcom-2022-10-31T03:42:07.589013-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198538",
+      "size": "1457",
+      "md5": "772b8a0c172c2fb2f314d2f813e91a6d",
+      "crc32": "ba674eb5",
+      "sha1": "c1eae788914e1c8a9e1fee498aeea090d1dd0f15",
+      "format": "JSON"
+    },
+    {
+      "name": "perfilcom-2022-10-31T03:42:07.589013-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198540",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "perfilcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb2f5515df82d40161b463fb23d32e026c21f744",
-      "mtime": "1667154604",
-      "size": "206547",
-      "md5": "9f941a9916785b189d683c47d1d6d41f",
-      "crc32": "6cb00920",
-      "sha1": "93c337bb435d38f1fdd0903be724388b64e08803",
+      "btih": "2812b9b07b8bd39afad202d5eceac7870a2913cf",
+      "mtime": "1667198602",
+      "size": "207614",
+      "md5": "372989836a543659e7ec70792b0ad67c",
+      "crc32": "fc726168",
+      "sha1": "7c6b60a53633fa58569ab14be5d610db9a9bbd53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "perfilcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92a9bfa062abbe2816306306dd489463",
+      "md5": "8d7985b5ad0a2839d56d26f7d4ff3d69",
       "summation": "md5"
     },
     {
       "name": "perfilcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667154460",
-      "size": "1236992",
-      "md5": "6aa9891cf9f5db5f92f7e38f7819bdc5",
-      "crc32": "921c0815",
-      "sha1": "abc519e71c0dd31e346ffc195c45dcb53629d7c0",
+      "mtime": "1667198547",
+      "size": "1245184",
+      "md5": "a312a61fa7b8c5c0f0c8b4e2e27bbb5f",
+      "crc32": "ce4bee92",
+      "sha1": "1631c02a0eabc5bedb6f58cce2eb17e77adde505",
       "format": "Metadata"
     },
     {
@@ -10020,9 +10071,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 969,
-  "item_last_updated": 1667154604,
-  "item_size": 93887253,
+  "files_count": 974,
+  "item_last_updated": 1667198602,
+  "item_size": 94457804,
   "metadata": {
     "identifier": "perfilcom-2022",
     "collection": [
@@ -10039,10 +10090,21 @@
     "publicdate": "2022-08-09 17:48:44",
     "addeddate": "2022-08-09 17:48:44"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 2115756143,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3457575633,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1817660715,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }
