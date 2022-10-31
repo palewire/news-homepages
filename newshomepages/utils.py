@@ -613,7 +613,10 @@ def _load_new_page_disable_javascript(
 
     # Hide the scrollbars
     print("Hiding scrollbars with CSS")
-    css = """document.body.style.overflow = 'hidden';"""
+    css = """window.addEventListener('load', function () {
+          document.body.style.overflow = 'hidden';
+    })"""
+
     page.evaluate(css)
 
     # If we're saving full-page content, we need to scroll to the bottom to make sure all the images get fetched.
