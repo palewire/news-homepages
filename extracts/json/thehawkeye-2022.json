@@ -1,5 +1,5 @@
 {
-  "created": 1667140939,
+  "created": 1667186891,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/33/items/thehawkeye-2022",
@@ -6009,31 +6009,93 @@
       "format": "JSON"
     },
     {
+      "name": "thehawkeye-2022-10-30T09:41:18.353591-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehawkeye-2022-10-30T09:41:18.353591-05:00.jpg",
+      "mtime": "1667141594",
+      "size": "8959",
+      "md5": "c68af5ab50e058894ba1c65f687b5ce9",
+      "crc32": "8a4cc272",
+      "sha1": "fc35305fa4bdaf2a1d4cd0e140252127738d2bae"
+    },
+    {
+      "name": "thehawkeye-2022-10-30T22:27:02.456762-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186826",
+      "size": "23616",
+      "md5": "0d6f8ec037c54d2089ff6a7f891e36c1",
+      "crc32": "bc313b42",
+      "sha1": "5641b1661a4b0052536d299457e2c7e444b852b3",
+      "format": "JSON"
+    },
+    {
+      "name": "thehawkeye-2022-10-30T22:27:02.456762-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186827",
+      "size": "35653",
+      "md5": "57d98953dcae9837e2e005568ad29309",
+      "crc32": "6a597f12",
+      "sha1": "f553295d13651c7ab30ae4c418dbdf7356b35821",
+      "format": "JSON"
+    },
+    {
+      "name": "thehawkeye-2022-10-30T22:27:02.456762-05:00.jpg",
+      "source": "original",
+      "mtime": "1667186824",
+      "size": "262275",
+      "md5": "e3679bba4f3521897d1f4e91f8b9e9c6",
+      "crc32": "3e007c65",
+      "sha1": "21cbc027598aeaae5b706e50a3cde5408e972b81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehawkeye-2022-10-30T22:27:02.456762-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186829",
+      "size": "1495",
+      "md5": "20f1bafed54018bf780dfc94f1bcf3d3",
+      "crc32": "08645033",
+      "sha1": "0cb802e99b86639adeb5c9b96d3467b7716c0876",
+      "format": "JSON"
+    },
+    {
+      "name": "thehawkeye-2022-10-30T22:27:02.456762-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186831",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thehawkeye-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c0d7e3ef33a549680fa2f26ff762c1664ab7d4d",
-      "mtime": "1667140934",
-      "size": "124738",
-      "md5": "fed2073e0d7c290ded8011b40d675b5f",
-      "crc32": "db952586",
-      "sha1": "af0e63c788f548e724c9a544c9d83f0bcbc12b5a",
+      "btih": "f1a3ff68e7228efa7e56a669585275b6b5344976",
+      "mtime": "1667186884",
+      "size": "126015",
+      "md5": "237c3d8b9e1b70cded8b40c0e85f2678",
+      "crc32": "121db100",
+      "sha1": "61ce3cbaa60e5982b8fa7612359400f3bbe4cc87",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehawkeye-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f6efbe37a5046eb90a87780dc459670f",
+      "md5": "b812af6a5bbff32c5b490a90a26a92f9",
       "summation": "md5"
     },
     {
       "name": "thehawkeye-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667140894",
-      "size": "761856",
-      "md5": "7382414c590c68d48983aa2ee5970b6b",
-      "crc32": "b8cb8086",
-      "sha1": "eda2ffe3b48816da4d89d9c5219e7c50dff1d4f2",
+      "mtime": "1667186843",
+      "size": "765952",
+      "md5": "3dadea64709a617a087001e810c9fce9",
+      "crc32": "966c355e",
+      "sha1": "4a1810cb6179c209e20527bfcc35d6cb284ec46e",
       "format": "Metadata"
     },
     {
@@ -6047,9 +6109,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 585,
-  "item_last_updated": 1667140934,
-  "item_size": 38184208,
+  "files_count": 591,
+  "item_last_updated": 1667186884,
+  "item_size": 38521781,
   "metadata": {
     "identifier": "thehawkeye-2022",
     "collection": [
@@ -6071,15 +6133,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457023952,
+      "task_id": 3457461334,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1901372674,
+  "uniq": 422864567,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667141163,
+  "created": 1667186920,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/texastribune-2022",
@@ -15045,31 +15045,93 @@
       "format": "JSON"
     },
     {
+      "name": "texastribune-2022-10-30T09:38:38.121335-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texastribune-2022-10-30T09:38:38.121335-05:00.jpg",
+      "mtime": "1667141785",
+      "size": "8555",
+      "md5": "59bc4c507af05df14474060eee1f5c04",
+      "crc32": "18674ba4",
+      "sha1": "b2e3f2a0d0a11c489041ad7dc675806203981d89"
+    },
+    {
+      "name": "texastribune-2022-10-30T22:25:18.326718-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186752",
+      "size": "38527",
+      "md5": "71f008be47095057e995c4116ccabf62",
+      "crc32": "47f4168e",
+      "sha1": "dd2f36813eed9a55029c5a2391ecf40dbf47ef56",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-30T22:25:18.326718-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186755",
+      "size": "22137",
+      "md5": "ef4e467ec14c94bf5fcd540ea8c9e97f",
+      "crc32": "186bac48",
+      "sha1": "d07e7c20fd03871685ee4023d3e13c8682b022fa",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-30T22:25:18.326718-05:00.jpg",
+      "source": "original",
+      "mtime": "1667186750",
+      "size": "243967",
+      "md5": "bda183eacba252f621e19f5bac1b6a71",
+      "crc32": "78dab692",
+      "sha1": "78213c65be8c306396a30a4ac8bc850c0dd07317",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texastribune-2022-10-30T22:25:18.326718-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186757",
+      "size": "1504",
+      "md5": "1909e5156d74b2332f0381e2a49700e8",
+      "crc32": "f7ef147c",
+      "sha1": "1b3ed5e108dd51d52c3c4651510efbf463320f3e",
+      "format": "JSON"
+    },
+    {
+      "name": "texastribune-2022-10-30T22:25:18.326718-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186759",
+      "size": "253",
+      "md5": "b689cfadf710551769c98106fb9d19e5",
+      "crc32": "a5197d63",
+      "sha1": "bcb71edecb558802aa94a30cacdbbfd30a575a0f",
+      "format": "JSON"
+    },
+    {
       "name": "texastribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3ddd94aee6414a1aa68e118a66d692a5d2a94a88",
-      "mtime": "1667141087",
-      "size": "312220",
-      "md5": "ff29ce213bdd07aaca4baea74897340d",
-      "crc32": "2b352af3",
-      "sha1": "78190de52528ae7d7cfb691b65ac1cc7492be34c",
+      "btih": "e812ee71c8bda1538500be50d8c6ecfd52208d72",
+      "mtime": "1667186892",
+      "size": "313489",
+      "md5": "e200d5a849642faf95b9e5c6d80b5bd1",
+      "crc32": "60d14cee",
+      "sha1": "04512661867f4057a88a365a25fb181fa7ec25c9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texastribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "639fc6247745d59872f3b3922459762a",
+      "md5": "90e9886a4e3e081462d16ec24e159c90",
       "summation": "md5"
     },
     {
       "name": "texastribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667140903",
-      "size": "1822720",
-      "md5": "a3053ba4e9ee15e06c7a224b88fe3b5e",
-      "crc32": "79d7b00f",
-      "sha1": "5c9637c5a038745741eb2b11abc163318dc7013b",
+      "mtime": "1667186767",
+      "size": "1826816",
+      "md5": "9f9520458c40b2b499484a7904dfcd63",
+      "crc32": "0db63643",
+      "sha1": "7b7b7734140fa8af74d238e00428fd2290a9a831",
       "format": "Metadata"
     },
     {
@@ -15083,9 +15145,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1454,
-  "item_last_updated": 1667141087,
-  "item_size": 102101307,
+  "files_count": 1460,
+  "item_last_updated": 1667186892,
+  "item_size": 102421615,
   "metadata": {
     "identifier": "texastribune-2022",
     "collection": [
@@ -15107,15 +15169,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457021615,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3457461575,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1904167295,
+  "uniq": 202780250,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]
