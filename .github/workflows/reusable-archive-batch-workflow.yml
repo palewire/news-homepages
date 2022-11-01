@@ -207,5 +207,5 @@ jobs:
           git add ./extracts/json
           git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>"
           git pull origin main
-          git push
+          git push origin main
         shell: bash
