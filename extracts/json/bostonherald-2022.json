@@ -1,5 +1,5 @@
 {
-  "created": 1667257529,
+  "created": 1667300220,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/33/items/bostonherald-2022",
@@ -11738,31 +11738,82 @@
       "sha1": "1c6bc294a80b1a668b5de1f2d3359c31c43e0772"
     },
     {
+      "name": "bostonherald-2022-11-01T06:55:49.650021-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667300158",
+      "size": "44495",
+      "md5": "36e017d8cb01af023043eef353410b7d",
+      "crc32": "ba883692",
+      "sha1": "5bf2cfb32ccb1e153bdb62e5f9fd83d819ecbffc",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-11-01T06:55:49.650021-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667300160",
+      "size": "45283",
+      "md5": "2a93b6b8606a6043b02f3629f3ecaef2",
+      "crc32": "1da3e374",
+      "sha1": "1ef45d8f1e6bff2bfd476fc202fb05b2827691ce",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-11-01T06:55:49.650021-04:00.jpg",
+      "source": "original",
+      "mtime": "1667300156",
+      "size": "274495",
+      "md5": "af1397a9aebf776d6b923ab875d41540",
+      "crc32": "08eec0ee",
+      "sha1": "cb048ab1d1b186ed554d561c8daeb8f2c129a5b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bostonherald-2022-11-01T06:55:49.650021-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667300162",
+      "size": "1510",
+      "md5": "0d32b06d14d7f5d0e51d5280c261b54f",
+      "crc32": "e813255e",
+      "sha1": "740e872079a408a6271077e8b0c84fa319cd2d7b",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-11-01T06:55:49.650021-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667300163",
+      "size": "40783",
+      "md5": "0a5723d1b123d5db739a0df92d90dcaa",
+      "crc32": "f2dd8c1d",
+      "sha1": "c8f9d1844ca08e01cd49c46a62741eae5414087c",
+      "format": "JSON"
+    },
+    {
       "name": "bostonherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "653f8713d2003d147bd920c870ace885e575555d",
-      "mtime": "1667257484",
-      "size": "244647",
-      "md5": "e94d76e7dba1b3c16f1ce1f819da1a70",
-      "crc32": "a6eb93cf",
-      "sha1": "68d8e15ecdc68c08dd39806ae079cb5b303f3b81",
+      "btih": "314d7c24f34d3f19795baf2391cd5e14689e9598",
+      "mtime": "1667300215",
+      "size": "245730",
+      "md5": "488a7554808238cc75c984214224adba",
+      "crc32": "23803fee",
+      "sha1": "1c861e4ccd1eac5284cf1ff8655979c871593e45",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5755b5fe17d05ff48a13245f0c368944",
+      "md5": "80aa5e03f143f66f915b42615112ad8e",
       "summation": "md5"
     },
     {
       "name": "bostonherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667256842",
-      "size": "1462272",
-      "md5": "b5def4dff8d46909671a8baa7b028d68",
-      "crc32": "fdbe7595",
-      "sha1": "345bc77ce46ebfe6b90a6f5f604a672a73aceaf4",
+      "mtime": "1667300169",
+      "size": "1466368",
+      "md5": "7a687d17d8fb8292be08fbd5f80a21f3",
+      "crc32": "22bc8202",
+      "sha1": "a8fa520d5899054129c7dd72c8b4d3295102b358",
       "format": "Metadata"
     },
     {
@@ -11776,9 +11827,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1139,
-  "item_last_updated": 1667257484,
-  "item_size": 76542316,
+  "files_count": 1144,
+  "item_last_updated": 1667300215,
+  "item_size": 76954061,
   "metadata": {
     "identifier": "bostonherald-2022",
     "collection": [
@@ -11795,10 +11846,21 @@
     "publicdate": "2022-07-27 23:03:07",
     "addeddate": "2022-07-27 23:03:07"
   },
+  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "uniq": 603665843,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458686866,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1014531195,
   "workable_servers": [
-    "ia601503.us.archive.org",
-    "ia801503.us.archive.org"
+    "ia601503.us.archive.org"
   ]
 }

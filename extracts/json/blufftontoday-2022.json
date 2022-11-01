@@ -1,5 +1,5 @@
 {
-  "created": 1667257511,
+  "created": 1667300144,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/29/items/blufftontoday-2022",
@@ -5194,31 +5194,82 @@
       "sha1": "0ec93ec16082d103771d2ceb5095745fc6e2f14f"
     },
     {
+      "name": "blufftontoday-2022-11-01T06:54:44.547143-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667300090",
+      "size": "20745",
+      "md5": "fd81219d1de33c7bf6268063ea2f313a",
+      "crc32": "0e5861ea",
+      "sha1": "196da12060e8a7b43ae522496334a293dc157c31",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-11-01T06:54:44.547143-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667300091",
+      "size": "40959",
+      "md5": "29bdafcf1beeb561e80adbec2eab6d8f",
+      "crc32": "540559db",
+      "sha1": "62d8e56a9350cf5a8eb85c3ded497f07372ba2a3",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-11-01T06:54:44.547143-04:00.jpg",
+      "source": "original",
+      "mtime": "1667300088",
+      "size": "239424",
+      "md5": "8bc3542ba4c55b15f06b4fc80b021c84",
+      "crc32": "b0ef9582",
+      "sha1": "5ecd653e287fb997585ded1ccd8ce781fa401fcc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blufftontoday-2022-11-01T06:54:44.547143-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667300094",
+      "size": "1522",
+      "md5": "351eb3db551e880df853cf02c5ebb7e5",
+      "crc32": "61278266",
+      "sha1": "7ca5ef1b74afa998c0cdf98f8dfa082efef7be93",
+      "format": "JSON"
+    },
+    {
+      "name": "blufftontoday-2022-11-01T06:54:44.547143-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667300096",
+      "size": "78215",
+      "md5": "1d3a284bed80b1e671630b7ab6093783",
+      "crc32": "c66e6e1a",
+      "sha1": "9a103b782e3812bbbf3414343d4ade221f3dc454",
+      "format": "JSON"
+    },
+    {
       "name": "blufftontoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5371a037d00ab4f8c6aea1981e49d7d3e30dfa49",
-      "mtime": "1667257479",
-      "size": "109456",
-      "md5": "f99a035862dc7dec279f867d847cb3aa",
-      "crc32": "22af21d1",
-      "sha1": "cc7f5ee81d42323a448e0ac04a2b1f690edc7fbd",
+      "btih": "b4cc8ebe9e828772a52d6baeb0523bb302ebde34",
+      "mtime": "1667300137",
+      "size": "110544",
+      "md5": "01cc1d91d14fb3e1cb481344ff590571",
+      "crc32": "80758d09",
+      "sha1": "3982467ca78ee0813557740ca47cff11ef25756e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blufftontoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f602c5f28122a6bbd967ca44f3f80ff7",
+      "md5": "1c3df5ab7f965e36a788b0840b9d43cf",
       "summation": "md5"
     },
     {
       "name": "blufftontoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667256860",
-      "size": "659456",
-      "md5": "a97366f505c4968e669c76750d520f50",
-      "crc32": "bc856215",
-      "sha1": "771fa5a3e672fdbc6311f862314d804588140fd8",
+      "mtime": "1667300100",
+      "size": "667648",
+      "md5": "8f9674a349a91254f460eac13e185523",
+      "crc32": "20c6ed82",
+      "sha1": "7060440f06c801e33939ff8974200eeb697ac113",
       "format": "Metadata"
     },
     {
@@ -5232,9 +5283,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 506,
-  "item_last_updated": 1667257479,
-  "item_size": 32337814,
+  "files_count": 511,
+  "item_last_updated": 1667300137,
+  "item_size": 32727959,
   "metadata": {
     "identifier": "blufftontoday-2022",
     "collection": [
@@ -5251,10 +5302,21 @@
     "publicdate": "2022-09-20 22:11:07",
     "addeddate": "2022-09-20 22:11:07"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1762771376,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458686188,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 264631838,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

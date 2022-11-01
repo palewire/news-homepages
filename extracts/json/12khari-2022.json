@@ -1,5 +1,5 @@
 {
-  "created": 1667257286,
+  "created": 1667300007,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/22/items/12khari-2022",
@@ -12195,31 +12195,41 @@
       "sha1": "1daa9c8d71f40ea5409ae46c87f4b0ab0a3178cc"
     },
     {
+      "name": "12khari-2022-11-01T16:37:25.300698+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667299956",
+      "size": "266",
+      "md5": "3ddb84dda6b6fd3bfbde956657027a5d",
+      "crc32": "70aa0cdc",
+      "sha1": "f0bc1a5ac33b3e4ce5ce9f0a3a06c51fd4cba1f7",
+      "format": "JSON"
+    },
+    {
       "name": "12khari-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b5709cf1d44caabab6fa1a636692f7aa614a008",
-      "mtime": "1667257218",
-      "size": "248929",
-      "md5": "d7ebca393d5b1b56da757ff880a58fbc",
-      "crc32": "fc34ec58",
-      "sha1": "5a910c7fa11a1e8269eccf55dc106c282d2c3fda",
+      "btih": "aad6647a4bdbfef54f1de48473226c4b33566a6e",
+      "mtime": "1667300003",
+      "size": "249134",
+      "md5": "8e8f79996680aa6047e5179093b8b4ee",
+      "crc32": "8a8517d5",
+      "sha1": "a268a5d236e22e3e68d0172a16332ae3ba8bbf3e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "12khari-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b8e0eb58922dd7a5228d84b88ed59c6",
+      "md5": "09e8de269dd64e997ac02168acb7f5ec",
       "summation": "md5"
     },
     {
       "name": "12khari-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667256702",
+      "mtime": "1667299961",
       "size": "1507328",
-      "md5": "f5685580aa27b684a341f2231735f61a",
-      "crc32": "d86bd3aa",
-      "sha1": "0cd04149656dabec09073bf6a661b3225752ed59",
+      "md5": "3178c541dd0b7786715cef0edfb0ead8",
+      "crc32": "d6d7f2ee",
+      "sha1": "c883012575c90229f1150f13b6b2a6568f73d427",
       "format": "Metadata"
     },
     {
@@ -12244,9 +12254,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1184,
-  "item_last_updated": 1667257218,
-  "item_size": 87716401,
+  "files_count": 1185,
+  "item_last_updated": 1667300003,
+  "item_size": 87716872,
   "metadata": {
     "identifier": "12khari-2022",
     "collection": [
@@ -12263,10 +12273,21 @@
     "publicdate": "2022-07-24 20:36:45",
     "addeddate": "2022-07-24 20:36:45"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1665189776,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458684856,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2121617893,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

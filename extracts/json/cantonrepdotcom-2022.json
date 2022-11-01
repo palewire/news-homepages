@@ -1,5 +1,5 @@
 {
-  "created": 1667257842,
+  "created": 1667300301,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/cantonrepdotcom-2022",
@@ -5152,31 +5152,82 @@
       "sha1": "23c0814714f03a027ef4a412ac36180579342344"
     },
     {
+      "name": "cantonrepdotcom-2022-11-01T06:57:09.979477-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667300237",
+      "size": "22614",
+      "md5": "1869807030833d31c0900571d660d82a",
+      "crc32": "05ba713e",
+      "sha1": "c870f7a52fcf6a39cfb773a0682b9976bebab182",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-11-01T06:57:09.979477-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667300238",
+      "size": "44821",
+      "md5": "8290397b40426dde01bdcce42908956b",
+      "crc32": "96971f98",
+      "sha1": "7b534e21d4b00deb82172bfd729d835bd557f33c",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-11-01T06:57:09.979477-04:00.jpg",
+      "source": "original",
+      "mtime": "1667300234",
+      "size": "319413",
+      "md5": "96f6c05413750e02f23529f31a172825",
+      "crc32": "7e0c8919",
+      "sha1": "3b145a6328ecbc03370c25597c59731f21ab16cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-11-01T06:57:09.979477-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667300240",
+      "size": "1486",
+      "md5": "abd3cdea838cb5f8a9dc7fe24cf4789a",
+      "crc32": "e79eaef6",
+      "sha1": "14b8b5d6b28f7d3f087663e5aed3177ffa4152ff",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-11-01T06:57:09.979477-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667300242",
+      "size": "102",
+      "md5": "53d2e3839d711a3c90fea903f91228f6",
+      "crc32": "b5bfe863",
+      "sha1": "783156cac0ef73c2418c8e81fa03684a3d042883",
+      "format": "JSON"
+    },
+    {
       "name": "cantonrepdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "154e6690c1c5784c6599bd18cbe59296be0ec9ed",
-      "mtime": "1667257543",
-      "size": "109640",
-      "md5": "321a8be2b48a1c9ab554aace43e0d0d9",
-      "crc32": "93616c9a",
-      "sha1": "d761c7b0a5a7bf72dac2e79e95d0016a7f7e8981",
+      "btih": "9b7c4cfe79ebf7da09210acd5a784ea3aa0e5ce8",
+      "mtime": "1667300295",
+      "size": "110736",
+      "md5": "034d90b246ee3b9de5906e4f44b63e11",
+      "crc32": "d7b735fc",
+      "sha1": "68e8f30a0188d2f58d21480f38012bd351380247",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cantonrepdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5f14b02fe07d03e7b4eda92bb01d187e",
+      "md5": "d435d4ca7a80b4b3d894f15bb3b16d10",
       "summation": "md5"
     },
     {
       "name": "cantonrepdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667256975",
-      "size": "655360",
-      "md5": "b9413e328575531c031f2ab10d1be841",
-      "crc32": "94fa02f4",
-      "sha1": "108ee2f942b2fc12fbd771cd47b6166f2fcc85d1",
+      "mtime": "1667300249",
+      "size": "663552",
+      "md5": "36f9a04409b7a10f07c4d06994a0aeb7",
+      "crc32": "24ce54e2",
+      "sha1": "2132129a848acb25f8c8feb014922538bd955f84",
       "format": "Metadata"
     },
     {
@@ -5190,9 +5241,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 502,
-  "item_last_updated": 1667257543,
-  "item_size": 33116593,
+  "files_count": 507,
+  "item_last_updated": 1667300295,
+  "item_size": 33514317,
   "metadata": {
     "identifier": "cantonrepdotcom-2022",
     "collection": [
@@ -5209,10 +5260,21 @@
     "publicdate": "2022-09-20 22:11:40",
     "addeddate": "2022-09-20 22:11:40"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 3387810,
+  "pending_tasks": true,
+  "server": "ia601507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458687425,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 120442139,
   "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

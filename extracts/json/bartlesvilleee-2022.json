@@ -1,5 +1,5 @@
 {
-  "created": 1667257466,
+  "created": 1667300144,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/11/items/bartlesvilleee-2022",
@@ -5098,31 +5098,82 @@
       "sha1": "8514a36e8c17e3019981699fb66d2906df8579fe"
     },
     {
+      "name": "bartlesvilleee-2022-11-01T05:54:44.163101-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667300087",
+      "size": "21795",
+      "md5": "6883e96e86123cc84d7734bc4400babc",
+      "crc32": "4fcbbf2a",
+      "sha1": "a047b1a47166d3ff0bf802b0ec551cad4f46eb88",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-11-01T05:54:44.163101-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667300089",
+      "size": "34078",
+      "md5": "4755a65338f2d26fedf15a6a80bb8806",
+      "crc32": "7ed5a152",
+      "sha1": "f4242a810658afeb9bfb7248ce8ef54526ec9430",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-11-01T05:54:44.163101-05:00.jpg",
+      "source": "original",
+      "mtime": "1667300086",
+      "size": "210356",
+      "md5": "4150865e1f843122fa4724c93d630875",
+      "crc32": "4c0498e6",
+      "sha1": "6cd48769e43b66a7c29326abdb2c23a104c41dea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bartlesvilleee-2022-11-01T05:54:44.163101-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667300092",
+      "size": "1576",
+      "md5": "fcdc183629cd17cb6eeb4b74713f149a",
+      "crc32": "78cee955",
+      "sha1": "1f5f439e24e2dbf66f65502cf3420c761711adc7",
+      "format": "JSON"
+    },
+    {
+      "name": "bartlesvilleee-2022-11-01T05:54:44.163101-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667300093",
+      "size": "79084",
+      "md5": "4ecf08fbe7ba6fc39adc65b72e0bf1bc",
+      "crc32": "041cd079",
+      "sha1": "c4961c47e190dc84989a11c530f639cf7e3e14b5",
+      "format": "JSON"
+    },
+    {
       "name": "bartlesvilleee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b98248b8674cef0bff79928ee9d0a134f11c92c",
-      "mtime": "1667257430",
-      "size": "108077",
-      "md5": "6defc39bd0d3aff36eb801efc78321ab",
-      "crc32": "e5f4e884",
-      "sha1": "8beeee659cd908ca2e1159ae0bbdf168ca66daa0",
+      "btih": "e61615d8c7c490ef2cfb4dd29587d1d1193d5709",
+      "mtime": "1667300139",
+      "size": "109150",
+      "md5": "f33de74fab7055f3aa387e4fb1ae6327",
+      "crc32": "aaf994ee",
+      "sha1": "12b0218c6b782ce066bfa6727487685942d6aae1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bartlesvilleee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28312213fa87b868c6e82af525604c47",
+      "md5": "1ee80b9a32566963a7c041096f87270e",
       "summation": "md5"
     },
     {
       "name": "bartlesvilleee-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667256852",
-      "size": "651264",
-      "md5": "bbe90493fe8a2ff65bd794427fbaad55",
-      "crc32": "a015e185",
-      "sha1": "0eb0c89c915252844292053496e3c69a4cd73a5e",
+      "mtime": "1667300100",
+      "size": "659456",
+      "md5": "8d5f814f2518ab00eeec5de96eb1822f",
+      "crc32": "57fa6c9a",
+      "sha1": "9d9e5d5d3e74923d0fcee7013207a0099adefe6a",
       "format": "Metadata"
     },
     {
@@ -5136,9 +5187,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 497,
-  "item_last_updated": 1667257430,
-  "item_size": 31623807,
+  "files_count": 502,
+  "item_last_updated": 1667300139,
+  "item_size": 31979961,
   "metadata": {
     "identifier": "bartlesvilleee-2022",
     "collection": [
@@ -5155,10 +5206,21 @@
     "publicdate": "2022-09-20 22:10:16",
     "addeddate": "2022-09-20 22:10:16"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 480189636,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458686187,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 803175551,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

@@ -1,10 +1,5 @@
 {
-  "cnnbrasil-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667261884,
+  "created": 1667300298,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/24/items/cnnbrasil-2022",
@@ -15635,31 +15630,82 @@
       "sha1": "2866b27c1bb52193f47a7079fe05b2293a00daf5"
     },
     {
+      "name": "cnnbrasil-2022-11-01T07:57:04.048745-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667300228",
+      "size": "72911",
+      "md5": "08ab76ca23eb2ec7071dea10efb865d6",
+      "crc32": "0780bd47",
+      "sha1": "1be7e874dcdd3a01c250cfc3c0e7e9581362f89b",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-11-01T07:57:04.048745-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667300232",
+      "size": "55179",
+      "md5": "0fbd9684b5b802b2727903ee19edce5f",
+      "crc32": "c21346f3",
+      "sha1": "47f2b24ad48ce597aada81f33a841d44f9c180c0",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-11-01T07:57:04.048745-03:00.jpg",
+      "source": "original",
+      "mtime": "1667300226",
+      "size": "307659",
+      "md5": "c032e0fdef21897d9bc168e1bc1fd1b5",
+      "crc32": "6df3252c",
+      "sha1": "da67fe201bc7c3d498ae8477be5c13c33e6418c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnnbrasil-2022-11-01T07:57:04.048745-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667300235",
+      "size": "1512",
+      "md5": "7e2823570d770b9cc49c41bd270c7645",
+      "crc32": "74d8d026",
+      "sha1": "87717a4fb9ba612e1b94fef1998f93609bc54bd7",
+      "format": "JSON"
+    },
+    {
+      "name": "cnnbrasil-2022-11-01T07:57:04.048745-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667300238",
+      "size": "30281",
+      "md5": "36b2981726e97e7801f7f9824190f813",
+      "crc32": "d738271e",
+      "sha1": "b9dda8cbb406cf5d50e1994919ea79303c988df2",
+      "format": "JSON"
+    },
+    {
       "name": "cnnbrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "96005d3597cd9867f74f173d388ca9a91a2e84f5",
-      "mtime": "1667257869",
-      "size": "321775",
-      "md5": "e8574feccc530a63e4d5c22eb99c45ec",
-      "crc32": "81d7b984",
-      "sha1": "6245d2659dc43eade7076b4f242aaefe0723c0a9",
+      "btih": "b6f8a1d67be5ae2bcc03ad0d99b8d4dafeee4886",
+      "mtime": "1667300293",
+      "size": "322843",
+      "md5": "d3036ec0a5f32b7472bc00c0bfcc2d80",
+      "crc32": "5b9a6377",
+      "sha1": "a0e2333d37af6df3fe91fc45d05ec8ae1d56ce86",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnnbrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1531b5ada08f23f6e3b67ea64b5d6a98",
+      "md5": "31e2cd5407e5db4900520f22d8c03da0",
       "summation": "md5"
     },
     {
       "name": "cnnbrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667257000",
-      "size": "1933312",
-      "md5": "32d00ee520f846b62e54254132095f86",
-      "crc32": "8b629c02",
-      "sha1": "960737ef07faf89205173c00489c2accf7f91af7",
+      "mtime": "1667300241",
+      "size": "1941504",
+      "md5": "cfaa1aab2c314dd4c3f068dceea9a7f6",
+      "crc32": "c5fbde71",
+      "sha1": "97dabfe7e96400538f81b428a7991142a59bde2e",
       "format": "Metadata"
     },
     {
@@ -15673,9 +15719,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1516,
-  "item_last_updated": 1667257869,
-  "item_size": 119823911,
+  "files_count": 1521,
+  "item_last_updated": 1667300293,
+  "item_size": 120300713,
   "metadata": {
     "identifier": "cnnbrasil-2022",
     "collection": [
@@ -15692,10 +15738,21 @@
     "publicdate": "2022-08-07 19:42:41",
     "addeddate": "2022-08-07 19:42:41"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1349902551,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458687404,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1646429396,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }
