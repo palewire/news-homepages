@@ -1,5 +1,5 @@
 {
-  "created": 1667267017,
+  "created": 1667280043,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/30/items/tcpalm-2022",
@@ -5068,31 +5068,93 @@
       "sha1": "4a15b21de3faacab2b055f69ea8d66d3cf1f98de"
     },
     {
+      "name": "tcpalm-2022-11-01T00:45:33.366578-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667277935",
+      "size": "21593",
+      "md5": "03cb951a68ed17a277231175dcf539e2",
+      "crc32": "63115231",
+      "sha1": "1e2e66003a698f9a82fbca200e79a0f26b0ccd17",
+      "format": "JSON"
+    },
+    {
+      "name": "tcpalm-2022-11-01T00:45:33.366578-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667277938",
+      "size": "46194",
+      "md5": "33df4259251feeeb9dbee5a756a3f1df",
+      "crc32": "9222e094",
+      "sha1": "a35284a014ca9907cd57491881167c1d81c45f7d",
+      "format": "JSON"
+    },
+    {
+      "name": "tcpalm-2022-11-01T00:45:33.366578-04:00.jpg",
+      "source": "original",
+      "mtime": "1667277934",
+      "size": "252524",
+      "md5": "17d0e918e286c4b8999511c478af0a8b",
+      "crc32": "c953aa28",
+      "sha1": "397b227d8eddb704e8f8d6d2ad5199eb056c0dc9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tcpalm-2022-11-01T00:45:33.366578-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667277939",
+      "size": "1459",
+      "md5": "c35392b716814d68bca9eba5eb553b3a",
+      "crc32": "a74afc82",
+      "sha1": "5cb6e478f2ed29d46cc3c31ffbd3bc5add7512f8",
+      "format": "JSON"
+    },
+    {
+      "name": "tcpalm-2022-11-01T00:45:33.366578-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667277941",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tcpalm-2022-11-01T00:45:33.366578-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tcpalm-2022-11-01T00:45:33.366578-04:00.jpg",
+      "mtime": "1667278595",
+      "size": "9252",
+      "md5": "9513907cfd5946ff92f598fb3735d3b8",
+      "crc32": "f6ce7164",
+      "sha1": "238e067e0a24594d16d06dd59c78420a7cab10c3"
+    },
+    {
       "name": "tcpalm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e8535d877b572e87442f68ca2b53ad4ced785a6",
-      "mtime": "1667230067",
-      "size": "103453",
-      "md5": "e51d7d9cd52caa4995c8ce99be966e63",
-      "crc32": "b67cdbce",
-      "sha1": "f371ba5e2a14b00f512f8871a90c92ec60ecd1b2",
+      "btih": "02ddec4ca1b43704b236edc67ddfbe1d16820152",
+      "mtime": "1667278602",
+      "size": "104706",
+      "md5": "2f722d8aa6202392ca2a727aacec0fd4",
+      "crc32": "571b9f30",
+      "sha1": "25f920307aab3df74f4ab010d42049de096ad74e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tcpalm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9078090e169846e9645ab3265551677",
+      "md5": "6ffc9f5738401bc56fd81e36d193cd88",
       "summation": "md5"
     },
     {
       "name": "tcpalm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667228265",
-      "size": "638976",
-      "md5": "af70e18fd1c387eba12918cd7823cf04",
-      "crc32": "606ca87a",
-      "sha1": "f0635ba27daf5bde11b6f238432a642c0aed9aa4",
+      "mtime": "1667277947",
+      "size": "647168",
+      "md5": "6c55700d4a9b5863d57efb47640f0152",
+      "crc32": "7ef25205",
+      "sha1": "ad69fadfea3ceca2b96b60b31b6790afa618ebee",
       "format": "Metadata"
     },
     {
@@ -5106,9 +5168,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 494,
-  "item_last_updated": 1667230067,
-  "item_size": 32810199,
+  "files_count": 500,
+  "item_last_updated": 1667278602,
+  "item_size": 33150868,
   "metadata": {
     "identifier": "tcpalm-2022",
     "collection": [
@@ -5125,15 +5187,10 @@
     "publicdate": "2022-09-21 03:42:57",
     "addeddate": "2022-09-21 03:42:57"
   },
-  "server": "ia801405.us.archive.org",
-  "tcpalm-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1646663087,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1930004665,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

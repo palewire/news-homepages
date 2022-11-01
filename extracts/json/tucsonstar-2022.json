@@ -1,5 +1,6 @@
 {
-  "created": 1667268200,
+  "conflict": 1667285238,
+  "created": 1667285238,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/34/items/tucsonstar-2022",
@@ -13626,31 +13627,82 @@
       "sha1": "5078d326c0d0077e53fbbf97bbd9944941c87336"
     },
     {
+      "name": "tucsonstar-2022-10-31T21:51:56.031617-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667278319",
+      "size": "26694",
+      "md5": "ba628537fab949ddf855d076c8fa7a95",
+      "crc32": "4019ce21",
+      "sha1": "e104244a4caa0157f55a96847949acc4df8f44e1",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-31T21:51:56.031617-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667278320",
+      "size": "75512",
+      "md5": "5ba7a132f1600014da58a0ae4135351e",
+      "crc32": "d8213df7",
+      "sha1": "029bc917565692b6cb139e7a4debeb5f58fe1db8",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-31T21:51:56.031617-07:00.jpg",
+      "source": "original",
+      "mtime": "1667278317",
+      "size": "353970",
+      "md5": "76cd3fdbdb77674ab3b1d34b3ba85d39",
+      "crc32": "e772bcb9",
+      "sha1": "2134ced7c8813953dffdc583a6b417bdbdb2485b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonstar-2022-10-31T21:51:56.031617-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667278325",
+      "size": "1423",
+      "md5": "a5239a5bfd0fbc87f658907c5977609a",
+      "crc32": "a9733cc1",
+      "sha1": "d62e45ca8c8f4c20d86bbbe0ce1a59cee337814b",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-10-31T21:51:56.031617-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667278326",
+      "size": "50297",
+      "md5": "f2923905c1e8e573a441ccdf8e05af13",
+      "crc32": "d9edea28",
+      "sha1": "0cef1e399e6e5e3669f3e30aad4241ea7fd687b1",
+      "format": "JSON"
+    },
+    {
       "name": "tucsonstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "68faf96fb81949fb53af24aae935230855133379",
-      "mtime": "1667231034",
-      "size": "281558",
-      "md5": "a5e2b2f14a1dfb84c374607c4de60291",
-      "crc32": "6fac93b0",
-      "sha1": "4da482ec48fcbf4bbc0e3faa147bad6293f9956a",
+      "btih": "e67577287d3f4b61019838d0c3d9df1b3a80569d",
+      "mtime": "1667283555",
+      "size": "282611",
+      "md5": "cca1a91262c66bf88ff7b505a6980755",
+      "crc32": "36ba97bd",
+      "sha1": "65a0f39741d09884d9137e6b1c509e2e2ab14c39",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "15bf4fa77ec967092f53b90817dc7a2d",
+      "md5": "609dea5fe1fe86628b5e9f8c62275193",
       "summation": "md5"
     },
     {
       "name": "tucsonstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667228610",
-      "size": "1662976",
-      "md5": "ddbef52f7a46a117510279901a6acedb",
-      "crc32": "34ad5d38",
-      "sha1": "fa46ab4728864100f3d4b1d779a2bf0914a44737",
+      "mtime": "1667283528",
+      "size": "1671168",
+      "md5": "df93bc93a6b8a9587b143589f2e66eea",
+      "crc32": "2e073167",
+      "sha1": "5401cda378aed959d76270ddfae2f2ba175be73e",
       "format": "Metadata"
     },
     {
@@ -13664,9 +13716,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1319,
-  "item_last_updated": 1667231034,
-  "item_size": 109859070,
+  "files_count": 1324,
+  "item_last_updated": 1667283555,
+  "item_size": 110376211,
   "metadata": {
     "identifier": "tucsonstar-2022",
     "collection": [
@@ -13683,15 +13735,21 @@
     "publicdate": "2022-07-04 21:48:03",
     "addeddate": "2022-07-04 21:48:03"
   },
-  "server": "ia801403.us.archive.org",
-  "tucsonstar-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 802141010,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458526896,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 309219598,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

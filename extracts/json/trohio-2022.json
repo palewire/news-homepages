@@ -1,5 +1,5 @@
 {
-  "created": 1667268173,
+  "created": 1667278863,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/10/items/trohio-2022",
@@ -5078,31 +5078,93 @@
       "sha1": "57c01b6b7d246599baf5e7b666eeedfe86fe847b"
     },
     {
+      "name": "trohio-2022-11-01T00:51:43.169836-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667278309",
+      "size": "22495",
+      "md5": "41ceaf88b35f434117c32e04bdf61105",
+      "crc32": "01c2a449",
+      "sha1": "5c0072318d8d3e1d4fd3f1b6217ec0684ab682dd",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-11-01T00:51:43.169836-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667278310",
+      "size": "41880",
+      "md5": "91f79805fe19b1747fb9f0e0faa376d0",
+      "crc32": "0e30433f",
+      "sha1": "b6ec2dcd0e0c7c8cfe9e762f0c1f251b4eff1a19",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-11-01T00:51:43.169836-04:00.jpg",
+      "source": "original",
+      "mtime": "1667278307",
+      "size": "274121",
+      "md5": "d97e3ec69e351a6cfee25aae9c07d267",
+      "crc32": "fadaad77",
+      "sha1": "819ee839c7d93682625459977728ecf19b287c12",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "trohio-2022-11-01T00:51:43.169836-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667278312",
+      "size": "1522",
+      "md5": "2cfdb7d1ae3e69ab13578607a512b6eb",
+      "crc32": "e8b11e2a",
+      "sha1": "c4863dfd61dcaebae4a07a3af3a37707c4d5de5f",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-11-01T00:51:43.169836-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667278314",
+      "size": "94538",
+      "md5": "1da004a624ac760778c42d513f10991f",
+      "crc32": "8fbdfddd",
+      "sha1": "1d62114b0099f210be875986711761230edfc320",
+      "format": "JSON"
+    },
+    {
+      "name": "trohio-2022-11-01T00:51:43.169836-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "trohio-2022-11-01T00:51:43.169836-04:00.jpg",
+      "mtime": "1667278808",
+      "size": "9344",
+      "md5": "b1f45df670f6fd862b101fa9d5baeca2",
+      "crc32": "4346ae3e",
+      "sha1": "f445b5bfaf8a10aed7b0e6b626adfe9ca41f73d6"
+    },
+    {
       "name": "trohio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b060d62bd84cfad53afddba4b6a51bb379cd141",
-      "mtime": "1667231660",
-      "size": "103694",
-      "md5": "b0eb3936f0ee697c778f49e9d53970a7",
-      "crc32": "a395d92b",
-      "sha1": "c9458479609563583ea25082a9784513cb1088f3",
+      "btih": "fa29019364997472f935250d9b0637d49dff00bc",
+      "mtime": "1667278838",
+      "size": "104949",
+      "md5": "e34fadaed93c860475226bceb2d77d86",
+      "crc32": "4c8579ee",
+      "sha1": "060702309a1ebd5d2804557fd14d4507458113a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "trohio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "afd9d46b3dd5bbe2870c3b54ecbc2787",
+      "md5": "a505947fbd3b6164381cc531d3667985",
       "summation": "md5"
     },
     {
       "name": "trohio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667228575",
-      "size": "643072",
-      "md5": "ce016f63c449563e86f8716345b4ddfa",
-      "crc32": "ebb4497d",
-      "sha1": "8670f16a2bb32a46bdfc3cfaa6afc64d752af484",
+      "mtime": "1667278317",
+      "size": "647168",
+      "md5": "b7ba9b1cdb4825dbb0d5c236a34af99a",
+      "crc32": "42fa4648",
+      "sha1": "dcc55dd01abcfd950e5a7d40ada2b90605f1190a",
       "format": "Metadata"
     },
     {
@@ -5116,9 +5178,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 495,
-  "item_last_updated": 1667231660,
-  "item_size": 33239168,
+  "files_count": 501,
+  "item_last_updated": 1667278838,
+  "item_size": 33688419,
   "metadata": {
     "identifier": "trohio-2022",
     "collection": [
@@ -5135,14 +5197,10 @@
     "publicdate": "2022-09-21 03:46:26",
     "addeddate": "2022-09-21 03:46:26"
   },
-  "server": "ia601502.us.archive.org",
-  "trohio-2022": {
-    "url": "https://www.timesreporter.com/",
-    "job_id": "spn2-c0f2bf36ad06ad04c0c3da14f2881cb82fbd9f9f"
-  },
-  "uniq": 283192342,
+  "server": "ia801502.us.archive.org",
+  "uniq": 542099996,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia801502.us.archive.org",
+    "ia601502.us.archive.org"
   ]
 }

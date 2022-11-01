@@ -1,5 +1,5 @@
 {
-  "created": 1667267575,
+  "created": 1667285171,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/3/items/theinterceptbr-2022",
@@ -16056,31 +16056,93 @@
       "sha1": "7560140b41b8710644b802d77f069ef776439bfa"
     },
     {
+      "name": "theinterceptbr-2022-11-01T01:48:13.118737-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667278096",
+      "size": "6009",
+      "md5": "7dd643cd415a3a07d50af5b2a6626f82",
+      "crc32": "5021a989",
+      "sha1": "5d73d098e6cde0680924be0460cfed999e0c4e0d",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-11-01T01:48:13.118737-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667278098",
+      "size": "5252",
+      "md5": "379e13a66179d8b39fb732d836533f2e",
+      "crc32": "61482e91",
+      "sha1": "0854a005daaec1e77b49dbe847f56c25cc3914da",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-11-01T01:48:13.118737-03:00.jpg",
+      "source": "original",
+      "mtime": "1667278095",
+      "size": "221708",
+      "md5": "32f718a519f8bd2648c91206814076b9",
+      "crc32": "6ef98f3f",
+      "sha1": "5a554449ad80878ee5536e5ab232a921b635ab40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinterceptbr-2022-11-01T01:48:13.118737-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667278103",
+      "size": "1540",
+      "md5": "e2dd4b11f91c03c25abf74851d26d129",
+      "crc32": "23576bc3",
+      "sha1": "425664b6a4c6fa474de6e25097921c49bd84f82f",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-11-01T01:48:13.118737-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667278106",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theinterceptbr-2022-11-01T01:48:13.118737-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinterceptbr-2022-11-01T01:48:13.118737-03:00.jpg",
+      "mtime": "1667279153",
+      "size": "9339",
+      "md5": "b4c77183d99fa724dee57eed9dcef3b3",
+      "crc32": "bc7cba51",
+      "sha1": "4e149100d2278f0ccf648b15f144b14d843e26c6"
+    },
+    {
       "name": "theinterceptbr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "93c4053ee7e74b3100b9d853f125459c958edc6e",
-      "mtime": "1667232343",
-      "size": "335242",
-      "md5": "b33809b5985ef4cddfaf102bb1814520",
-      "crc32": "15ba60b1",
-      "sha1": "b7168513677ec7671c477e8699eab64c38cba6a0",
+      "btih": "3ecdde81f6070a1ccde388785546cac7c5c08b1c",
+      "mtime": "1667279173",
+      "size": "336541",
+      "md5": "bfb0bee7a4a2c19216faeb9c3970f2f4",
+      "crc32": "4c3f0058",
+      "sha1": "ad7921ac37ee0589673a3a7d71b82f0190dc1ec2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinterceptbr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c4f83ada9691deacf91334544e3c615a",
+      "md5": "ed34aecfe63da59130f4c1db131f0a04",
       "summation": "md5"
     },
     {
       "name": "theinterceptbr-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667228433",
-      "size": "1998848",
-      "md5": "12002a22080be5c12054880283b3fc20",
-      "crc32": "4f90fd43",
-      "sha1": "a8e9ca3d6f66ff038e5b9c4b6685a3cc4e56db78",
+      "mtime": "1667278110",
+      "size": "2007040",
+      "md5": "ba291c9e1f6d46125615700ebd33881b",
+      "crc32": "910bfabb",
+      "sha1": "ebecd9f558e94305d017568419dc240020ef0ebf",
       "format": "Metadata"
     },
     {
@@ -16094,9 +16156,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1557,
-  "item_last_updated": 1667232343,
-  "item_size": 63736406,
+  "files_count": 1563,
+  "item_last_updated": 1667279173,
+  "item_size": 63989947,
   "metadata": {
     "identifier": "theinterceptbr-2022",
     "collection": [
@@ -16113,10 +16175,15 @@
     "publicdate": "2022-08-03 01:57:11",
     "addeddate": "2022-08-03 01:57:11"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1930673750,
+  "server": "ia601505.us.archive.org",
+  "theinterceptbr-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 24568983,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }
